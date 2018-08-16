@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# NYC Charter documentation build configuration file, created by
-# sphinx-quickstart on Wed Apr 19 22:19:59 2017.
+# NYC Administrative Code documentation build configuration file, created by
+# sphinx-quickstart
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -45,9 +45,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'NYC Charter'
-copyright = u'2017, Benjamin Kallos'
-author = u'Benjamin Kallos'
+project = u'NYC Administrative Code'
+copyright = u'2018, Maxim Pokrovsky'
+author = u'Maxim Pokrovsky'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -90,7 +90,7 @@ html_theme = 'guzzle_sphinx_theme'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {'project_nav_name': 'NYCC'}
+html_theme_options = {'project_nav_name': 'NYC Administrative Code'}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'NYCCharter'
+htmlhelp_basename = 'NYCAdministrativeCode'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -128,8 +128,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'NYCCharter.tex', u'NYC Charter',
-     u'Benjamin Kallos', 'manual'),
+    (master_doc, 'NYCAdministrativeCode.tex', u'NYC Administrative Code',
+     u'Maxim Pokrovsky', 'manual'),
 ]
 
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'nyccharter', u'NYC Charter',
+    (master_doc, 'NYCAdministrativeCode', u'NYC Administrative Code',
      [author], 1)
 ]
 
@@ -149,11 +149,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'NYCCharter', u'NYC Charter',
-     author, 'NYCCharter', 'One line description of project.',
+    (master_doc, 'NYCAdministrativeCode', u'NYC Administrative Code',
+     author, 'NYCAdministrativeCode', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
-
