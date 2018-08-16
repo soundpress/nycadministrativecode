@@ -43,44 +43,17 @@ Section 5.
 ----------
 
 Section 5. ::    
-        
      
-        §  5.  Annual statement to council. The mayor shall communicate to the
-      council at least  once  in  each  year  a  statement  of  the  finances,
-      government  and  affairs  of  the  city  with a summary statement of the
-      activities of the agencies of the city. Such statement shall  include  a
-      summary  of the city's progress in implementing the goals and strategies
-      contained in the most recent final strategic policy statement  submitted
-      by that mayor pursuant to section seventeen.
-    
-    
-    
-    
-    
-    
-    
+        §  5.  Annual statement to council. The mayor shall communicate to the council at least  once  in  each  year  a  statement  of  the  finances, government  and  affairs  of the  city  with a summary statement of the activities of the agencies of the city. Such statement shall  include a summary  of the city's progress in implementing the goals and strategies contained in the most recent final strategic policy statement  submitted by that mayor pursuant to section seventeen.
 
 Section 6.
 ----------
 
 Section 6. ::    
-        
      
-        §  6.    Heads  of  departments; appoint; remove.   a. The mayor shall
-      appoint the heads of administrations, departments, all commissioners and
-      all other officers not  elected  by  the  people,  except  as  otherwise
-      provided by law.
-        b.    The mayor, whenever in his judgment the public interest shall so
-      require, may remove from office any public  officer  holding  office  by
-      appointment  from a mayor of the city, except officers for whose removal
-      other provision is made by law.  No public officer shall hold his office
-      for any specific term, except as otherwise provided by law.
-    
-    
-    
-    
-    
-    
+        §  6.    Heads  of  departments; appoint; remove.   
+		a. The mayor shall appoint the heads of administrations, departments, all commissioners and all other officers not  elected  by  the  people,  except  as  otherwise provided by law.
+        b.    The mayor, whenever in his judgment the public interest shall so require, may remove from office any public  officer  holding  office  by appointment  from a mayor of the city, except officers for whose removal other provision is made by law.  No public officer shall hold his office for any specific term, except as otherwise provided by law.
     
 
 Section 7.
