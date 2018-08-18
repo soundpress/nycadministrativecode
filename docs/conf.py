@@ -46,7 +46,6 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'NYC Administrative Code'
-copyright = u'2018, Maxim Pokrovsky'
 author = u'Maxim Pokrovsky'
 
 # The version info for the project you're documenting, acts as replacement for
