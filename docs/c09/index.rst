@@ -1,7 +1,7 @@
 Title 10: Public Safety
-=================
+===================================================
 Chapter 1: Public Safety
-----------
+--------------------------------------------------
 § 10-101 Communication of alarms.  ::
 
 
@@ -2005,7 +2005,7 @@ Chapter 1: Public Safety
 
 
 Chapter 2: Unlawful Sale or Possession of Controlled Substances
-----------
+--------------------------------------------------
 § 10-201 Unlawful possession of controlled substances.  ::
 
 
@@ -2067,7 +2067,7 @@ Chapter 2: Unlawful Sale or Possession of Controlled Substances
 
 
 Chapter 3: Firearms
-----------
+--------------------------------------------------
 § 10-301 Control and regulation of the disposition, purchase and possession of firearms, rifles, shotguns and assault weapons.  ::
 
 
@@ -2565,7 +2565,7 @@ Chapter 3: Firearms
 
 
 Chapter 4: Actions By Victims of Violent Crime
-----------
+--------------------------------------------------
 § 10-401 Short title.  ::
 
 
@@ -2627,7 +2627,7 @@ Chapter 4: Actions By Victims of Violent Crime
 
 
 Chapter 5: Disclosure of Security Breach
-----------
+--------------------------------------------------
 § 10-501 Definitions.  ::
 
 
@@ -2685,7 +2685,7 @@ Chapter 5: Disclosure of Security Breach
 
 
 Chapter 6: Gun offender Registration Act
-----------
+--------------------------------------------------
 § 10-601 Short Title.  ::
 
 
@@ -2797,7 +2797,7 @@ Chapter 6: Gun offender Registration Act
 
 
 Chapter 7: Unauthorized Recording In A Place of Public Performance
-----------
+--------------------------------------------------
 § 10-701 Definitions.  ::
 
 
@@ -2853,7 +2853,7 @@ Chapter 7: Unauthorized Recording In A Place of Public Performance
 
 
 Chapter 8: Silver Alert System
-----------
+--------------------------------------------------
 § 10-801 Definitions.  ::
 
 
@@ -2891,7 +2891,7 @@ Chapter 8: Silver Alert System
 
 
 Chapter 9: Hit-and-Run Alert
-----------
+--------------------------------------------------
 § 10-901 Definitions. ::
 
 

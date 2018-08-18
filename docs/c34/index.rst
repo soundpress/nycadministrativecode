@@ -1,7 +1,7 @@
 Title 32: Labor and Employment
-=================
+===================================================
 Chapter 1: Office of Labor Standards
-----------
+--------------------------------------------------
 § 32-101 [Reserved] ::
 
 
@@ -11,7 +11,7 @@ Chapter 1: Office of Labor Standards
 
 
 Chapter 2: Division of Paid Care
-----------
+--------------------------------------------------
 § 32-201 Definitions. ::
 
 

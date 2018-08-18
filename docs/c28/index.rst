@@ -1,7 +1,7 @@
 Title 26: Housing and Buildings
-=================
+===================================================
 Chapter 2: Relocation Services
-----------
+--------------------------------------------------
 § 26-301 Relocation of tenants.  ::
 
 
@@ -119,7 +119,7 @@ Chapter 2: Relocation Services
 
 
 Chapter 3: Rent Control
-----------
+--------------------------------------------------
 § 26-401 Declaration and findings.  ::
 
 
@@ -867,7 +867,7 @@ Chapter 3: Rent Control
 
 
 Chapter 4: Rent Stabilization
-----------
+--------------------------------------------------
 § 26-501 Findings and declaration of emergency.  ::
 
 
@@ -1371,7 +1371,7 @@ Chapter 4: Rent Stabilization
 
 
 Chapter 5: Unlawful Eviction
-----------
+--------------------------------------------------
 § 26-521 Unlawful eviction.  ::
 
 
@@ -1463,7 +1463,7 @@ Chapter 5: Unlawful Eviction
 
 
 Chapter 6: Increase of Rentals
-----------
+--------------------------------------------------
 § 26-530 Increase of rentals.  ::
 
 
@@ -1477,7 +1477,7 @@ Chapter 6: Increase of Rentals
 
 
 Chapter 7: Rent Increase Exemption For Low Income Elderly Persons and Persons With Disabilities
-----------
+--------------------------------------------------
 § 26-601 Definitions.  ::
 
 
@@ -1669,7 +1669,7 @@ Chapter 7: Rent Increase Exemption For Low Income Elderly Persons and Persons Wi
 
 
 Chapter 8: Cooperative and Condominium Conversions
-----------
+--------------------------------------------------
 § 26-701 Application.  ::
 
 
@@ -1771,7 +1771,7 @@ Chapter 8: Cooperative and Condominium Conversions
 
 
 Chapter 9: Right of First Refusal and First Opportunity To Purchase
-----------
+--------------------------------------------------
 § 26-801 Definitions.  ::
 
 
@@ -1997,7 +1997,7 @@ Chapter 9: Right of First Refusal and First Opportunity To Purchase
 
 
 Chapter 10: Housing Development Project Reporting Requirements
-----------
+--------------------------------------------------
 § 26-901 Definitions.  ::
 
 
@@ -2143,7 +2143,7 @@ Chapter 10: Housing Development Project Reporting Requirements
 
 
 Chapter 11: Housing Information Guide for Tenants and Owners
-----------
+--------------------------------------------------
 § 26-1101 Definitions. ::
 
 
@@ -2209,7 +2209,7 @@ Chapter 11: Housing Information Guide for Tenants and Owners
 
 
 Chapter 12: Improperly Conditioning Residential Occupancy on Medical Treatment
-----------
+--------------------------------------------------
 § 26-1201 Improperly conditioning residential occupancy on medical treatment. ::
 
 
@@ -2255,7 +2255,7 @@ Chapter 12: Improperly Conditioning Residential Occupancy on Medical Treatment
 
 
 Chapter 13: Provision of Legal Services in Eviction Proceedings*
-----------
+--------------------------------------------------
 § 26-1301 Definitions.* ::
 
 
@@ -2407,7 +2407,7 @@ Chapter 13: Provision of Legal Services in Eviction Proceedings*
 
 
 Chapter 13: Certification of Certain Rent Payment*
-----------
+--------------------------------------------------
 § 26-1301 Certification of payment.* ::
 
 
@@ -2429,7 +2429,7 @@ Chapter 13: Certification of Certain Rent Payment*
 
 
 Chapter 15: Audits for Compliance with 421-a Tax Exemption Affordability Requirements
-----------
+--------------------------------------------------
 § 26-1501 Definitions. ::
 
 
@@ -2465,7 +2465,7 @@ Chapter 15: Audits for Compliance with 421-a Tax Exemption Affordability Require
 
 
 Chapter 16: Audits for Compliance with 421-a Tax Exemption Rent Registration Requirements
-----------
+--------------------------------------------------
 § 26-1601 Definitions. ::
 
 
@@ -2503,7 +2503,7 @@ Chapter 16: Audits for Compliance with 421-a Tax Exemption Rent Registration Req
 
 
 Chapter 17: Periodic Reports on Inclusionary Housing Programs
-----------
+--------------------------------------------------
 § 26-1701 Definitions. ::
 
 
@@ -2551,7 +2551,7 @@ Chapter 17: Periodic Reports on Inclusionary Housing Programs
 
 
 Chapter 18: Housing Portal
-----------
+--------------------------------------------------
 § 26-1801 Definitions. ::
 
 
@@ -2727,7 +2727,7 @@ Chapter 18: Housing Portal
 
 
 Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
-----------
+--------------------------------------------------
 § 26-1901 City-owned vacant property under the jurisdiction of the department of housing preservation and development that may be suitable for the development of affordable housing. ::
 
 
@@ -2739,7 +2739,7 @@ Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development 
 
 
 Chapter 20: Community Land Trust Regulatory Agreements
-----------
+--------------------------------------------------
 § 26-2001 Community land trust regulatory agreements. ::
 
 
@@ -2761,7 +2761,7 @@ Chapter 20: Community Land Trust Regulatory Agreements
 
 
 Chapter 21: Affordable Housing Plan Report*
-----------
+--------------------------------------------------
 § 26-2101 Definitions.* ::
 
 
@@ -2863,7 +2863,7 @@ Chapter 21: Affordable Housing Plan Report*
 
 
 Chapter 21: Short-Term Residential Rentals*
-----------
+--------------------------------------------------
 § 26-2101 Definitions.* ::
 
 
@@ -2955,7 +2955,7 @@ Chapter 21: Short-Term Residential Rentals*
 
 
 Chapter 22: Expiring Affordable Housing
-----------
+--------------------------------------------------
 § 26-2201 Definitions. ::
 
 

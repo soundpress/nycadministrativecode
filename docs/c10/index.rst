@@ -1,7 +1,7 @@
 Title 11: Taxation and Finance
-=================
+===================================================
 Chapter 1: Department of Finance
-----------
+--------------------------------------------------
 § 11-101 Power of department of finance to adopt a seal.  ::
 
 
@@ -713,7 +713,7 @@ Chapter 1: Department of Finance
 
 
 Chapter 2: Real Property Assessment, Taxation and Charges
-----------
+--------------------------------------------------
 § 11-201 Assessments on real property; general powers of finance department.  ::
 
 
@@ -3677,7 +3677,7 @@ Chapter 2: Real Property Assessment, Taxation and Charges
 
 
 Chapter 3: Tax Liens and Tax Sales
-----------
+--------------------------------------------------
 § 11-301 When taxes, assessments, sewer rents, sewer surcharges and water rents to be liens on land assessed.  ::
 
 
@@ -4257,7 +4257,7 @@ Chapter 3: Tax Liens and Tax Sales
 
 
 Chapter 4: Tax Lien Foreclosure By Action In Rem
-----------
+--------------------------------------------------
 § 11-401 Definitions.  ::
 
 
@@ -4799,7 +4799,7 @@ Chapter 4: Tax Lien Foreclosure By Action In Rem
 
 
 Chapter 5: City Unincorporated Business Income Tax
-----------
+--------------------------------------------------
 § 11-501 Meaning of terms.  ::
 
 
@@ -6441,7 +6441,7 @@ Chapter 5: City Unincorporated Business Income Tax
 
 
 Chapter 7: Commercial Rent Or Occupancy Tax
-----------
+--------------------------------------------------
 § 11-701 Definitions.  ::
 
 
@@ -7139,7 +7139,7 @@ Chapter 7: Commercial Rent Or Occupancy Tax
 
 
 Chapter 8: Tax On Commercial Motor Vehicles and Motor Vehicles For Transportation of Passengers
-----------
+--------------------------------------------------
 § 11-801 Definitions.  ::
 
 
@@ -7633,7 +7633,7 @@ Chapter 8: Tax On Commercial Motor Vehicles and Motor Vehicles For Transportatio
 
 
 Chapter 9: Tax Upon Foreign and Alien Insurers
-----------
+--------------------------------------------------
 § 11-901 Definitions.  ::
 
 
@@ -7837,7 +7837,7 @@ Chapter 9: Tax Upon Foreign and Alien Insurers
 
 
 Chapter 10: Occupancy Tax For Low Rent Housing and Slum Clearance
-----------
+--------------------------------------------------
 § 11-1001 Legislative findings.  ::
 
 
@@ -8091,7 +8091,7 @@ Chapter 10: Occupancy Tax For Low Rent Housing and Slum Clearance
 
 
 Chapter 11: Utility Tax
-----------
+--------------------------------------------------
 § 11-1101 Definitions.  ::
 
 
@@ -8545,7 +8545,7 @@ Chapter 11: Utility Tax
 
 
 Chapter 12: Horse Race Admissions Tax
-----------
+--------------------------------------------------
 § 11-1201 Definitions. ::
 
 
@@ -8805,7 +8805,7 @@ Chapter 12: Horse Race Admissions Tax
 
 
 Chapter 13: Cigarette Tax
-----------
+--------------------------------------------------
 § 11-1301 Definitions. ::
 
 
@@ -9235,7 +9235,7 @@ Chapter 13: Cigarette Tax
 
 
 Chapter 14: Tax On Transfer of Taxicab Licenses
-----------
+--------------------------------------------------
 § 11-1401 Definitions.  ::
 
 
@@ -9535,7 +9535,7 @@ Chapter 14: Tax On Transfer of Taxicab Licenses
 
 
 Chapter 16: Tax On Containers
-----------
+--------------------------------------------------
 § 11-1601 Definitions.  ::
 
 
@@ -9771,7 +9771,7 @@ Chapter 16: Tax On Containers
 
 
 Chapter 17: City Personal Income Tax On Residents
-----------
+--------------------------------------------------
 § 11-1701 Imposition of tax.  ::
 
 
@@ -12137,7 +12137,7 @@ Chapter 17: City Personal Income Tax On Residents
 
 
 Chapter 19: Earnings Tax On Nonresidents
-----------
+--------------------------------------------------
 § 11-1901 Meaning of terms.  ::
 
 
@@ -12961,7 +12961,7 @@ Chapter 19: Earnings Tax On Nonresidents
 
 
 Chapter 20: Sales, Excise and Related Taxes
-----------
+--------------------------------------------------
 § 11-2001 Imposition of general sales and compensating use taxes.  ::
 
 
@@ -13337,7 +13337,7 @@ Chapter 20: Sales, Excise and Related Taxes
 
 
 Chapter 21: Real Property Transfer Tax
-----------
+--------------------------------------------------
 § 11-2101 Definitions.  ::
 
 
@@ -13783,7 +13783,7 @@ Chapter 21: Real Property Transfer Tax
 
 
 Chapter 22: Tax On Owners of Motor Vehicles
-----------
+--------------------------------------------------
 § 11-2201 Definitions.  ::
 
 
@@ -14059,7 +14059,7 @@ Chapter 22: Tax On Owners of Motor Vehicles
 
 
 Chapter 23: Surcharge On off-track Winnings
-----------
+--------------------------------------------------
 § 11-2301 Surcharge on off-track winnings.  ::
 
 
@@ -14087,7 +14087,7 @@ Chapter 23: Surcharge On off-track Winnings
 
 
 Chapter 23-A: Enhanced 911 Telephone Surcharge
-----------
+--------------------------------------------------
 § 11-2321 Short title.  ::
 
 
@@ -14187,7 +14187,7 @@ Chapter 23-A: Enhanced 911 Telephone Surcharge
 
 
 Chapter 23-B: Wireless Communications Service Surcharge
-----------
+--------------------------------------------------
 § 11-2341 Short title.  ::
 
 
@@ -14261,7 +14261,7 @@ Chapter 23-B: Wireless Communications Service Surcharge
 
 
 Chapter 23-C: Wireless Communications Surcharge
-----------
+--------------------------------------------------
 § 11-2351 Surcharge on wireless communications service. ::
 
 
@@ -14291,7 +14291,7 @@ Chapter 23-C: Wireless Communications Surcharge
 
 
 Chapter 24: Tax On Retail Licensees of the State Liquor Authority
-----------
+--------------------------------------------------
 § 11-2401 Definitions.  ::
 
 
@@ -14565,7 +14565,7 @@ Chapter 24: Tax On Retail Licensees of the State Liquor Authority
 
 
 Chapter 25: Tax On Occupancy of Hotel Rooms
-----------
+--------------------------------------------------
 § 11-2501 Definitions.  ::
 
 
@@ -14923,7 +14923,7 @@ Chapter 25: Tax On Occupancy of Hotel Rooms
 
 
 Chapter 26: Tax On Mortgages
-----------
+--------------------------------------------------
 § 11-2601 Imposition of tax.  ::
 
 
@@ -14981,7 +14981,7 @@ Chapter 26: Tax On Mortgages
 
 
 Chapter 27: Annual Vault Charge
-----------
+--------------------------------------------------
 § 11-2701 Definitions.  ::
 
 
@@ -15325,7 +15325,7 @@ Chapter 27: Annual Vault Charge
 
 
 Chapter 28: Claims Against Fire Insurance Proceeds
-----------
+--------------------------------------------------
 § 11-2801 Claims against fire insurance proceeds.  ::
 
 
@@ -15389,7 +15389,7 @@ Chapter 28: Claims Against Fire Insurance Proceeds
 
 
 Chapter 29: Tax Expenditure Evaluation*
-----------
+--------------------------------------------------
 § 11-2901 Economic development tax expenditure evaluation. ::
 
 
@@ -15427,7 +15427,7 @@ Chapter 29: Tax Expenditure Evaluation*
 
 
 Chapter 40: Crimes and Other offenses: Seizures And Forfeitures
-----------
+--------------------------------------------------
 § 11-4001 Definitions.  ::
 
 

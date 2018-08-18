@@ -1,7 +1,7 @@
 Title 24: Environmental Protection and Utilities
-=================
+===================================================
 Chapter 1: Air Pollution Control
-----------
+--------------------------------------------------
 § 24-101 Short title.  ::
 
 
@@ -2770,7 +2770,7 @@ Chapter 1: Air Pollution Control
 
 
 Chapter 2: Noise Control
-----------
+--------------------------------------------------
 § 24-201 Short title.  ::
 
 
@@ -4532,7 +4532,7 @@ Chapter 2: Noise Control
 
 
 Chapter 3: Water Supply
-----------
+--------------------------------------------------
 § 24-301 Assessment of city property used for water purposes.  ::
 
 
@@ -5288,7 +5288,7 @@ Chapter 3: Water Supply
 
 
 Chapter 4: Gas and Electric Lines
-----------
+--------------------------------------------------
 § 24-401 Engineers. [Repealed]  ::
 
 
@@ -5502,7 +5502,7 @@ Chapter 4: Gas and Electric Lines
 
 
 Chapter 5: Drainage and Sewer Control
-----------
+--------------------------------------------------
 § 24-501 Sewage disposal to protect water supply.  ::
 
 
@@ -6486,7 +6486,7 @@ Chapter 5: Drainage and Sewer Control
 
 
 Chapter 6: Hazardous Substance Emergencies
-----------
+--------------------------------------------------
 § 24-601 Short title.  ::
 
 
@@ -6674,7 +6674,7 @@ Chapter 6: Hazardous Substance Emergencies
 
 
 Chapter 7: Community Right-to-know Law
-----------
+--------------------------------------------------
 § 24-701 Short title.  ::
 
 
@@ -6958,7 +6958,7 @@ Chapter 7: Community Right-to-know Law
 
 
 Chapter 8: New York City Climate Protection Act
-----------
+--------------------------------------------------
 § 24-801 Short title.  ::
 
 
@@ -7068,7 +7068,7 @@ Chapter 8: New York City Climate Protection Act
 
 
 Chapter 9: Local Brownfield Cleanup Program
-----------
+--------------------------------------------------
 § 24-901 Short Title.  ::
 
 
@@ -7234,7 +7234,7 @@ Chapter 9: Local Brownfield Cleanup Program
 
 
 Chapter 10: Environmental Hazard Remediation.
-----------
+--------------------------------------------------
 § 24-1000 Declaration of policy. ::
 
 

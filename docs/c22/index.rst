@@ -1,7 +1,7 @@
 Title 21: Social Services
-=================
+===================================================
 Chapter 1: Department of Social Services
-----------
+--------------------------------------------------
 § 21-101 Definitions.  ::
 
 
@@ -1211,7 +1211,7 @@ Chapter 1: Department of Social Services
 
 
 Chapter 2: Department For the Aging
-----------
+--------------------------------------------------
 § 21-201 Definitions.  ::
 
 
@@ -1499,7 +1499,7 @@ Chapter 2: Department For the Aging
 
 
 Chapter 3: Department of Homeless Services
-----------
+--------------------------------------------------
 § 21-301 Definitions.  ::
 
 
@@ -2005,7 +2005,7 @@ Chapter 3: Department of Homeless Services
 
 
 Chapter 4: Department of Youth and Community Development
-----------
+--------------------------------------------------
 § 21-401 Definitions.  ::
 
 
@@ -2237,7 +2237,7 @@ Chapter 4: Department of Youth and Community Development
 
 
 Chapter 5: Work Experience Program Grievance Procedure*
-----------
+--------------------------------------------------
 § 21-501 Definitions.*  ::
 
 
@@ -2299,7 +2299,7 @@ Chapter 5: Work Experience Program Grievance Procedure*
 
 
 Chapter 5: Department of Employment Transitional Jobs Program*
-----------
+--------------------------------------------------
 § 21-501 Definitions.*  ::
 
 
@@ -2497,7 +2497,7 @@ Chapter 5: Department of Employment Transitional Jobs Program*
 
 
 Chapter 7: Education and Training For Public Assistance Recipients
-----------
+--------------------------------------------------
 § 21-701 Definitions.  ::
 
 
@@ -2669,7 +2669,7 @@ Chapter 7: Education and Training For Public Assistance Recipients
 
 
 Chapter 8: Day Laborer Job Centers
-----------
+--------------------------------------------------
 § 21-801 Temporary Commission on Day Laborer Job Centers.  ::
 
 
@@ -2693,7 +2693,7 @@ Chapter 8: Day Laborer Job Centers
 
 
 Chapter 9: Children's Services
-----------
+--------------------------------------------------
 § 21-901 Definitions.  ::
 
 

@@ -1,7 +1,7 @@
 Title 23: Communications
-=================
+===================================================
 Chapter 1: The City Record
-----------
+--------------------------------------------------
 § 23-101 Bond.  ::
 
 
@@ -63,7 +63,7 @@ Chapter 1: The City Record
 
 
 Chapter 2: Public Records
-----------
+--------------------------------------------------
 § 23-201 Municipal reference library, to have official reports, et cetera.  ::
 
 
@@ -73,7 +73,7 @@ Chapter 2: Public Records
 
 
 Chapter 3: Non-emergency City Services
-----------
+--------------------------------------------------
 § 23-301 Tracking information provided.  ::
 
 
@@ -107,7 +107,7 @@ Chapter 3: Non-emergency City Services
 
 
 Chapter 4: [Public Pay Telephones]
-----------
+--------------------------------------------------
 § 23-401 Definitions.  ::
 
 
@@ -235,7 +235,7 @@ Chapter 4: [Public Pay Telephones]
 
 
 Chapter 5: Accessibility To Public Data Sets section 23-501
-----------
+--------------------------------------------------
 § 23-501 Definitions. ::
 
 
@@ -409,7 +409,7 @@ Chapter 5: Accessibility To Public Data Sets section 23-501
 
 
 Chapter 6: City Issued Permits, Licenses, and Registrations
-----------
+--------------------------------------------------
 § 23-601 Mobile access to additional information.  ::
 
 
@@ -423,7 +423,7 @@ Chapter 6: City Issued Permits, Licenses, and Registrations
 
 
 Chapter 7: Department of Health and Mental Hygiene
-----------
+--------------------------------------------------
 § 23-701. Restaurant inspection data. ::
 
 
@@ -481,7 +481,7 @@ Chapter 7: Department of Health and Mental Hygiene
 
 
 Chapter 8: City Websites
-----------
+--------------------------------------------------
 § 23-801 Access to translation. ::
 
 
@@ -505,7 +505,7 @@ Chapter 8: City Websites
 
 
 Chapter 10: Nondiscriminatory Access to Services
-----------
+--------------------------------------------------
 § 23-1001 Definitions. ::
 
 
@@ -583,7 +583,7 @@ Chapter 10: Nondiscriminatory Access to Services
 
 
 Chapter 11: Language Access
-----------
+--------------------------------------------------
 § 23-1101 Definitions. ::
 
 
@@ -647,7 +647,7 @@ Chapter 11: Language Access
 
 
 Chapter 12: Identifying Information
-----------
+--------------------------------------------------
 § 23-1201 Definitions. ::
 
 

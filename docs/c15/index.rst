@@ -1,7 +1,7 @@
 Title 16: Sanitation
-=================
+===================================================
 Chapter 1: Department of Sanitation
-----------
+--------------------------------------------------
 § 16-101 Definitions.  ::
 
 
@@ -1099,7 +1099,7 @@ Chapter 1: Department of Sanitation
 
 
 Chapter 2: Solid Waste Management
-----------
+--------------------------------------------------
 § 16-201 Facility assignment.  ::
 
 
@@ -1257,7 +1257,7 @@ Chapter 2: Solid Waste Management
 
 
 Chapter 3: Solid Waste Recycling
-----------
+--------------------------------------------------
 § 16-301 Short title.  ::
 
 
@@ -2007,7 +2007,7 @@ Chapter 3: Solid Waste Recycling
 
 
 Chapter 4: [Rechargeable Batteries; Recycling Program]
-----------
+--------------------------------------------------
 § 16-401 Short title.  ::
 
 
@@ -2093,7 +2093,7 @@ Chapter 4: [Rechargeable Batteries; Recycling Program]
 
 
 Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
-----------
+--------------------------------------------------
 § 16-420 [Short title.]  ::
 
 
@@ -2315,7 +2315,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 
 
 Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
-----------
+--------------------------------------------------
 § 16-450 Title.  ::
 
 
@@ -2415,7 +2415,7 @@ Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
 
 
 Chapter 4-C: Unlawful Removal and Acceptance of Recyclable Material
-----------
+--------------------------------------------------
 § 16-460 Definitions.  ::
 
 
@@ -2561,7 +2561,7 @@ Chapter 4-C: Unlawful Removal and Acceptance of Recyclable Material
 
 
 Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
-----------
+--------------------------------------------------
 § 16-470 Definitions.  ::
 
 
@@ -2661,7 +2661,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 
 
 Chapter 4-E: Recovery for Refrigerants
-----------
+--------------------------------------------------
 § 16-480 Definitions.  ::
 
 
@@ -2741,7 +2741,7 @@ Chapter 4-E: Recovery for Refrigerants
 
 
 Chapter 4-F: Carryout Bag Reduction
-----------
+--------------------------------------------------
 § 16-490 Definitions. ::
 
 
@@ -2869,7 +2869,7 @@ Chapter 4-F: Carryout Bag Reduction
 
 
 Chapter 4-G: Food Donation Web Portal
-----------
+--------------------------------------------------
 § 16-497 Food donation web portal. ::
 
 

@@ -1,7 +1,7 @@
 Title 16-A: [Commercial Waste Removal]
-=================
+===================================================
 Chapter 1: [Commercial Waste Removal] New York City Trade Waste Commission
-----------
+--------------------------------------------------
 § 16-501 Definitions.  ::
 
 

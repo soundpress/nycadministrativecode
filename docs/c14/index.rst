@@ -1,7 +1,7 @@
 Title 15: Fire Prevention and Control
-=================
+===================================================
 Chapter 1: Fire Department
-----------
+--------------------------------------------------
 § 15-101 Definitions; bureaus, divisions and offices.  ::
 
 
@@ -563,7 +563,7 @@ Chapter 1: Fire Department
 
 
 Chapter 2: Unlawful Conduct
-----------
+--------------------------------------------------
 § 15-202 Obstruction of fire stations.  ::
 
 
@@ -903,7 +903,7 @@ Chapter 2: Unlawful Conduct
 
 
 Chapter 3: Arson Strike Force
-----------
+--------------------------------------------------
 § 15-301 Declaration of policy.  ::
 
 

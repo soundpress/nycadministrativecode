@@ -1,7 +1,7 @@
 Title 19: Transportation
-=================
+===================================================
 Chapter 1: Streets and Sidewalks
-----------
+--------------------------------------------------
 § 19-101 Definitions.  ::
 
 
@@ -2508,7 +2508,7 @@ Chapter 1: Streets and Sidewalks
 
 
 Chapter 2: Parking Violations Bureau
-----------
+--------------------------------------------------
 § 19-200 Definitions.  ::
 
 
@@ -2786,7 +2786,7 @@ Chapter 2: Parking Violations Bureau
 
 
 Chapter 3: Ferries
-----------
+--------------------------------------------------
 § 19-301 Ferry property; acquisition.  ::
 
 
@@ -2934,7 +2934,7 @@ Chapter 3: Ferries
 
 
 Chapter 4: Reduced Fare Contracts
-----------
+--------------------------------------------------
 § 19-401 Authorization of reduced fare contracts.  ::
 
 
@@ -2948,7 +2948,7 @@ Chapter 4: Reduced Fare Contracts
 
 
 Chapter 5: Transportation of Passengers For Hire By Motor Vehicles
-----------
+--------------------------------------------------
 § 19-501 Legislative findings.  ::
 
 
@@ -4556,7 +4556,7 @@ Chapter 5: Transportation of Passengers For Hire By Motor Vehicles
 
 
 Chapter 6: School Buses
-----------
+--------------------------------------------------
 § 19-601 Safety measures on school buses; declaration and findings.  ::
 
 
@@ -4630,7 +4630,7 @@ Chapter 6: School Buses
 
 
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
-----------
+--------------------------------------------------
 § 19-701 Short title.  ::
 
 
@@ -4866,7 +4866,7 @@ Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Ac
 
 
 Chapter 8: Citywide Transit Study
-----------
+--------------------------------------------------
 § 19-801 Citywide transit study. ::
 
 

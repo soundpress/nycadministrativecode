@@ -1,7 +1,7 @@
 Title 31: Department of Veterans&apos; Services
-=================
+===================================================
 Title 31: Department of Veterans' Services
-----------
+--------------------------------------------------
 § 31-101 Definitions. ::
 
 

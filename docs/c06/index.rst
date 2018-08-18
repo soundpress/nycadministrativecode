@@ -1,7 +1,7 @@
 Title 7: Legal Affairs
-=================
+===================================================
 Chapter 1: Corporation Counsel
-----------
+--------------------------------------------------
 § 7-101 Bond to be executed by corporation counsel.  ::
 
 
@@ -152,8 +152,28 @@ Chapter 1: Corporation Counsel
 
 
 
+Chapter 3: Board of Statutory Consolidation
+--------------------------------------------------
+§ 7-301 Board of statutory consolidation; powers and duties.  ::
+
+
+	   a.   The board of statutory consolidation shall consist of the mayor, the comptroller, the public advocate and the corporation counsel. The board from among its members shall elect a chairperson, a vice-chairperson and a secretary. The members of such board shall serve as such members without compensation. The powers and duties of such board shall include the direction and control of the revision, simplification, consolidation, codification, restatement and annotation of the statutes, local laws, and departmental rules and regulations having the force of law affecting and relating to the government, affairs and property of the city and of the counties contained therein.
+	
+	   b.   The revision, simplification, consolidation, codification, restatement and annotation herein provided for shall be carried on under the direction and control of such board by such counsel, assistant counsel and other persons as it shall designate and employ for that purpose. Compensation and necessary expenses shall be fixed by such board on the certification of the executive officer thereof as may be designated by such board and paid by the comptroller after audit by and on the warrant of such comptroller out of an appropriation that shall be made for such purpose. Such board is authorized and empowered, in its discretion, to keep and use the ledgers, documents, books, reports and all other papers and property of the codification division of the New York city charter revision commission, created by chapter eight hundred sixty-seven of the laws of nineteen hundred thirty-four.
+	
+	   c.   The board shall cause its work to be printed from time to time, and may distribute copies of the same to such persons as it may deem fit for the purpose of obtaining their suggestions and advice in relation to such work. It shall report to the local legislative body of the city upon the progress of its work. It shall recommend for enactment to the legislature the statutes or to the local legislative body the local laws, and rules and regulations so revised, simplified, consolidated, codified, or restated and shall designate such statutes, or parts of statutes, as in its judgment should be repealed and shall recommend the enactment of any acts, or parts of acts, which such repeal may in its judgment render necessary. Such board shall have the power to cause to be published and to sell any such publication and to copyright annotations thereto, the proceeds of such sale to be paid into the city treasury.
+	
+	   d.   The city is authorized to appropriate and make available to the board of statutory consolidation such sums of money as may be necessary to defray the expenses of such board to enable it to perform its duties under this section, upon the receipt of a requisition therefor stating the purposes for which such moneys are required.
+	
+	   e.   Such board may, under its direction and control, delegate to the corporation counsel the duty of continuing the annotating and editing of such statutes, local laws, rules and regulations and of statutes, local laws, and rules and regulations hereafter enacted or adopted relating to the government, affairs and property of the city and the counties therein contained.
+	
+	   f.   Nothing contained in section eleven hundred fifteen or in any other section of the charter or in any other law shall be construed to prevent such mayor, comptroller, public advocate and corporation counsel from serving on such board, nor shall it prevent any city or county officer of the city from serving on the staff of such board.
+
+
+
+
 Chapter 2: Actions Against New York City
-----------
+--------------------------------------------------
 § 7-201 Actions against the city.  ::
 
 
@@ -298,28 +318,8 @@ Chapter 2: Actions Against New York City
 
 
 
-Chapter 3: Board of Statutory Consolidation
-----------
-§ 7-301 Board of statutory consolidation; powers and duties.  ::
-
-
-	   a.   The board of statutory consolidation shall consist of the mayor, the comptroller, the public advocate and the corporation counsel. The board from among its members shall elect a chairperson, a vice-chairperson and a secretary. The members of such board shall serve as such members without compensation. The powers and duties of such board shall include the direction and control of the revision, simplification, consolidation, codification, restatement and annotation of the statutes, local laws, and departmental rules and regulations having the force of law affecting and relating to the government, affairs and property of the city and of the counties contained therein.
-	
-	   b.   The revision, simplification, consolidation, codification, restatement and annotation herein provided for shall be carried on under the direction and control of such board by such counsel, assistant counsel and other persons as it shall designate and employ for that purpose. Compensation and necessary expenses shall be fixed by such board on the certification of the executive officer thereof as may be designated by such board and paid by the comptroller after audit by and on the warrant of such comptroller out of an appropriation that shall be made for such purpose. Such board is authorized and empowered, in its discretion, to keep and use the ledgers, documents, books, reports and all other papers and property of the codification division of the New York city charter revision commission, created by chapter eight hundred sixty-seven of the laws of nineteen hundred thirty-four.
-	
-	   c.   The board shall cause its work to be printed from time to time, and may distribute copies of the same to such persons as it may deem fit for the purpose of obtaining their suggestions and advice in relation to such work. It shall report to the local legislative body of the city upon the progress of its work. It shall recommend for enactment to the legislature the statutes or to the local legislative body the local laws, and rules and regulations so revised, simplified, consolidated, codified, or restated and shall designate such statutes, or parts of statutes, as in its judgment should be repealed and shall recommend the enactment of any acts, or parts of acts, which such repeal may in its judgment render necessary. Such board shall have the power to cause to be published and to sell any such publication and to copyright annotations thereto, the proceeds of such sale to be paid into the city treasury.
-	
-	   d.   The city is authorized to appropriate and make available to the board of statutory consolidation such sums of money as may be necessary to defray the expenses of such board to enable it to perform its duties under this section, upon the receipt of a requisition therefor stating the purposes for which such moneys are required.
-	
-	   e.   Such board may, under its direction and control, delegate to the corporation counsel the duty of continuing the annotating and editing of such statutes, local laws, rules and regulations and of statutes, local laws, and rules and regulations hereafter enacted or adopted relating to the government, affairs and property of the city and the counties therein contained.
-	
-	   f.   Nothing contained in section eleven hundred fifteen or in any other section of the charter or in any other law shall be construed to prevent such mayor, comptroller, public advocate and corporation counsel from serving on such board, nor shall it prevent any city or county officer of the city from serving on the staff of such board.
-
-
-
-
 Chapter 4: Jurors
-----------
+--------------------------------------------------
 § 7-401 Jurors fees.  ::
 
 
@@ -345,7 +345,7 @@ Chapter 4: Jurors
 
 
 Chapter 5: City Sheriff
-----------
+--------------------------------------------------
 § 7-501 Bond of sheriff.  ::
 
 
@@ -477,7 +477,7 @@ Chapter 5: City Sheriff
 
 
 Chapter 6: City Register
-----------
+--------------------------------------------------
 § 7-601 Register; bond.  ::
 
 
@@ -821,7 +821,7 @@ Chapter 6: City Register
 
 
 Chapter 7: Nuisance Abatement Law
-----------
+--------------------------------------------------
 § 7-701 Legislative declaration.  ::
 
 
@@ -1212,8 +1212,18 @@ Chapter 7: Nuisance Abatement Law
 
 
 
+Chapter 9: Public Administrators
+--------------------------------------------------
+§ 7-901 Compensation.  ::
+
+
+	The public administrators of the counties within the city shall receive as compensation ninety percent of the amount paid to the judges of the surrogate's court of the counties within the city.
+
+
+
+
 Chapter 8: New York City False Claims Act
-----------
+--------------------------------------------------
 § 7-801 Short title.  ::
 
 
@@ -1472,16 +1482,6 @@ Chapter 8: New York City False Claims Act
 
 
 	The corporation counsel and the commissioner of investigation shall promulgate such rules as are necessary to effectuate the purposes of this chapter.
-
-
-
-
-Chapter 9: Public Administrators
-----------
-§ 7-901 Compensation.  ::
-
-
-	The public administrators of the counties within the city shall receive as compensation ninety percent of the amount paid to the judges of the surrogate's court of the counties within the city.
 
 
 

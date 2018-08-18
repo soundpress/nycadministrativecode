@@ -1,7 +1,7 @@
 Title 22: Economic Affairs
-=================
+===================================================
 Chapter 1: Waterfront Properties Transactions and Trade
-----------
+--------------------------------------------------
 § 22-101 Definitions.  ::
 
 
@@ -571,7 +571,7 @@ Chapter 1: Waterfront Properties Transactions and Trade
 
 
 Chapter 1-a: Fulton Fish Market Distribution Area and Other Seafood Distribution Areas
-----------
+--------------------------------------------------
 § 22-201 Legislative findings.  ::
 
 
@@ -1117,7 +1117,7 @@ Chapter 1-a: Fulton Fish Market Distribution Area and Other Seafood Distribution
 
 
 Chapter 1-b: Other Public Markets
-----------
+--------------------------------------------------
 § 22-251 Definitions.  ::
 
 
@@ -1489,7 +1489,7 @@ Chapter 1-b: Other Public Markets
 
 
 Chapter 2: Business Activities In Public Places
-----------
+--------------------------------------------------
 § 22-205 Permits for movie-making, telecasting and photography in public places; violations; penalties.  ::
 
 
@@ -1501,7 +1501,7 @@ Chapter 2: Business Activities In Public Places
 
 
 Chapter 3: Public Utility Service
-----------
+--------------------------------------------------
 § 22-301 Authorization for public utility service.  ::
 
 
@@ -1543,7 +1543,7 @@ Chapter 3: Public Utility Service
 
 
 Chapter 4: Foreign Trade Zones
-----------
+--------------------------------------------------
 § 22-401 Foreign-trade zones.  ::
 
 
@@ -1553,7 +1553,7 @@ Chapter 4: Foreign Trade Zones
 
 
 Chapter 5: Private Employment
-----------
+--------------------------------------------------
 § 22-501 Definitions.  ::
 
 
@@ -1993,7 +1993,7 @@ Chapter 5: Private Employment
 
 
 Chapter 6: Rebates of Charges For Energy
-----------
+--------------------------------------------------
 § 22-601 Definitions.  ::
 
 
@@ -2173,7 +2173,7 @@ Chapter 6: Rebates of Charges For Energy
 
 
 Chapter 6-B: Relocation and Employment Assistance Program
-----------
+--------------------------------------------------
 § 22-621 Definitions.  ::
 
 
@@ -2291,7 +2291,7 @@ Chapter 6-B: Relocation and Employment Assistance Program
 
 
 Chapter 6-c: Lower Manhattan Relocation and Employment Assistance Program
-----------
+--------------------------------------------------
 § 22-623 Definitions.  ::
 
 
@@ -2391,7 +2391,7 @@ Chapter 6-c: Lower Manhattan Relocation and Employment Assistance Program
 
 
 Chapter 6-d: Industrial Business Zones
-----------
+--------------------------------------------------
 § 22-625 Industrial business zone boundary commission.  ::
 
 
@@ -2431,7 +2431,7 @@ Chapter 6-d: Industrial Business Zones
 
 
 Chapter 7: Empire Zones
-----------
+--------------------------------------------------
 § 22-701 Authorization for the establishment of empire zones.  ::
 
 
@@ -7289,7 +7289,7 @@ Chapter 7: Empire Zones
 
 
 Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
-----------
+--------------------------------------------------
 § 22-801 Definitions.  ::
 
 
@@ -7483,7 +7483,7 @@ Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behal
 
 
 Chapter 9: Non-Residential Tenant Harassment
-----------
+--------------------------------------------------
 § 22-901 Definitions. ::
 
 
@@ -7567,7 +7567,7 @@ Chapter 9: Non-Residential Tenant Harassment
 
 
 Chapter 10: Small Businesses
-----------
+--------------------------------------------------
 § 22-1001 Definitions. ::
 
 
@@ -7599,7 +7599,7 @@ Chapter 10: Small Businesses
 
 
 Chapter 11: City-Assisted Construction Workforce Disclosure 
-----------
+--------------------------------------------------
 § 22-1101 Definitions. ::
 
 

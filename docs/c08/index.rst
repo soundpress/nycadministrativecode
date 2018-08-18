@@ -1,7 +1,7 @@
 Title 9: Criminal Justice
-=================
+===================================================
 Chapter 1: Department of Correction
-----------
+--------------------------------------------------
 § 9-101 City correctional institutions.  ::
 
 
@@ -1139,7 +1139,7 @@ Chapter 1: Department of Correction
 
 
 Chapter 2: Department of Probation
-----------
+--------------------------------------------------
 § 9-201 Probation administrative fee.**  ::
 
 
@@ -1279,7 +1279,7 @@ Chapter 2: Department of Probation
 
 
 Chapter 3: Office of Criminal Justice
-----------
+--------------------------------------------------
 § 9-301 Definitions. ::
 
 

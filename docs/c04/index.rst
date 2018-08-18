@@ -1,7 +1,7 @@
 Title 5: Budget; Capital Projects
-=================
+===================================================
 Chapter 1: Capital Projects and Budget
-----------
+--------------------------------------------------
 § 5-101 Definitions.  ::
 
 
@@ -81,7 +81,7 @@ Chapter 1: Capital Projects and Budget
 
 
 Chapter 2: Sinking Funds
-----------
+--------------------------------------------------
 § 5-201 Collection of income of sinking funds.  ::
 
 
@@ -139,7 +139,7 @@ Chapter 2: Sinking Funds
 
 
 Chapter 3: Condemnation Procedures
-----------
+--------------------------------------------------
 § 5-301 Definitions.  ::
 
 
@@ -1597,7 +1597,7 @@ Chapter 3: Condemnation Procedures
 
 
 Chapter 4: Expense Budget
-----------
+--------------------------------------------------
 § 5-501 Director of management and budget; access to agencies.  ::
 
 
@@ -1703,7 +1703,7 @@ Chapter 4: Expense Budget
 
 
 Chapter 5: Criminal Justice Account
-----------
+--------------------------------------------------
 § 5-601 Criminal Justice Account.  ::
 
 

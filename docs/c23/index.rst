@@ -1,7 +1,7 @@
 Title 21-A: Education
-=================
+===================================================
 Chapter 1: Definitions
-----------
+--------------------------------------------------
 § 21-950 Definitions.  ::
 
 
@@ -23,7 +23,7 @@ Chapter 1: Definitions
 
 
 Chapter 2: Reporting On Co-located Schools
-----------
+--------------------------------------------------
 § 21-951 Annual reporting on co-located schools.  ::
 
 
@@ -37,7 +37,7 @@ Chapter 2: Reporting On Co-located Schools
 
 
 Chapter 3: Reporting On Guidance Counselors and social Workers
-----------
+--------------------------------------------------
 § 21-952 Annual reporting on guidance counselors and social workers.  ::
 
 
@@ -57,7 +57,7 @@ Chapter 3: Reporting On Guidance Counselors and social Workers
 
 
 Chapter 4: Environmental Data Reporting
-----------
+--------------------------------------------------
 § 21-954 Environmental data reporting.  ::
 
 
@@ -105,7 +105,7 @@ Chapter 4: Environmental Data Reporting
 
 
 Chapter 5: Reporting on Students Receiving Special Education Services
-----------
+--------------------------------------------------
 § 21-955 Annual reporting on special education services. ::
 
 
@@ -211,7 +211,7 @@ Chapter 5: Reporting on Students Receiving Special Education Services
 
 
 Chapter 6: Reporting on Demographic Data in New York City Public Schools
-----------
+--------------------------------------------------
 § 21-956 Definitions. ::
 
 
@@ -343,7 +343,7 @@ Chapter 6: Reporting on Demographic Data in New York City Public Schools
 
 
 Chapter 7: Physical Education Reporting
-----------
+--------------------------------------------------
 § 21-960 Reporting on physical education. ::
 
 
@@ -404,7 +404,7 @@ Chapter 7: Physical Education Reporting
 
 
 Chapter 8: Student Health Services
-----------
+--------------------------------------------------
 § 21-965 Student health services. ::
 
 
@@ -551,7 +551,7 @@ Chapter 8: Student Health Services
 
 
 Chapter 9. Career and Technical Education Reporting
-----------
+--------------------------------------------------
 § 21-971 Reporting on career and technical education. ::
 
 
@@ -595,7 +595,7 @@ Chapter 9. Career and Technical Education Reporting
 
 
 Chapter 10: Computer Science Education Reporting
-----------
+--------------------------------------------------
 § 21-972 Reporting on computer science education. ::
 
 
@@ -635,7 +635,7 @@ Chapter 10: Computer Science Education Reporting
 
 
 Chapter 11: Sexual Education Task Force
-----------
+--------------------------------------------------
 § 21-973 Sexual health education task force.* ::
 
 
@@ -687,7 +687,7 @@ Chapter 11: Sexual Education Task Force
 
 
 Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
-----------
+--------------------------------------------------
 § 21-974 Distribution of gifted and talented program information and exam materials. ::
 
 
@@ -701,7 +701,7 @@ Chapter 12: Distribution of Gifted and Talented Program Information and Exam Mat
 
 
 Chapter 13: School Meal Participation
-----------
+--------------------------------------------------
 § 21-975 School meal participation data. ::
 
 
@@ -749,7 +749,7 @@ Chapter 13: School Meal Participation
 
 
 Chapter 14: Reporting on GSAs
-----------
+--------------------------------------------------
 § 21-976 Reporting on GSAs. ::
 
 
@@ -779,7 +779,7 @@ Chapter 14: Reporting on GSAs
 
 
 Chapter 15: Distribution of Information Regarding Interactions with Non-Local Law Enforcement
-----------
+--------------------------------------------------
 § 21-977 Distribution of information regarding educational rights and departmental policies related to interactions with non-local law enforcement. ::
 
 
@@ -809,7 +809,7 @@ Chapter 15: Distribution of Information Regarding Interactions with Non-Local La
 
 
 Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
-----------
+--------------------------------------------------
 § 21-978 Reporting on school applications, offers of admission, enrollment and available seats. ::
 
 
@@ -837,7 +837,7 @@ Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment an
 
 
 Chapter 17: Distribution of Information Regarding Summer Meals
-----------
+--------------------------------------------------
 § 21-979 Distribution of information regarding summer meals. ::
 
 
@@ -855,7 +855,7 @@ Chapter 17: Distribution of Information Regarding Summer Meals
 
 
 Chapter 18: Bullying, Harassment, Intimidation and Discrimination
-----------
+--------------------------------------------------
 § 21-980 Reporting on student-to-student bullying, harassment, intimidation and discrimination. ::
 
 
@@ -941,7 +941,7 @@ Chapter 18: Bullying, Harassment, Intimidation and Discrimination
 
 
 Chapter 20: Reporting on Students in Temporary Housing
-----------
+--------------------------------------------------
 § 21-987 [Reporting on students in temporary housing.] ::
 
 

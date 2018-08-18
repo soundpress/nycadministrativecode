@@ -1,7 +1,7 @@
 Title 2: City of New York
-=================
+===================================================
 Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
-----------
+--------------------------------------------------
 § 2-101 Name; powers and rights of the corporation; seal.  ::
 
 
@@ -89,7 +89,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 
 
 Chapter 2: Boundaries of the City
-----------
+--------------------------------------------------
 § 2-201 The city of New York, territory thereof and extent of jurisdiction and powers.  ::
 
 

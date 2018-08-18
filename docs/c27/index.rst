@@ -1,7 +1,7 @@
 Title 25: Land Use
-=================
+===================================================
 Chapter 1: City Planning
-----------
+--------------------------------------------------
 § 25-101 City map to be conclusive.  ::
 
 
@@ -211,7 +211,7 @@ Chapter 1: City Planning
 
 
 Chapter 2: Board of Standards and Appeals
-----------
+--------------------------------------------------
 § 25-201 Temporary vacancies; filling of.  ::
 
 
@@ -495,7 +495,7 @@ Chapter 2: Board of Standards and Appeals
 
 
 Chapter 3: Landmarks Preservation Preservation and Historic Districts
-----------
+--------------------------------------------------
 § 25-301 Purpose and declaration of public policy.  ::
 
 
@@ -1113,7 +1113,7 @@ Chapter 3: Landmarks Preservation Preservation and Historic Districts
 
 
 Chapter 4: City Business Improvement Districts
-----------
+--------------------------------------------------
 § 25-401 Authorization for the establishment of city business improvement districts.  ::
 
 
@@ -1397,7 +1397,7 @@ Chapter 4: City Business Improvement Districts
 
 
 Chapter 5: Establishment, Extension and Amendment of City Business Improvement Districts
-----------
+--------------------------------------------------
 § 25-420 Steinway Street Business Improvement District.  ::
 
 
@@ -3051,7 +3051,7 @@ Chapter 5: Establishment, Extension and Amendment of City Business Improvement D
 
 
 Chapter 6: Authorization of Increased Expenditure In Special Assessment Districts
-----------
+--------------------------------------------------
 § 25-601 One Hundred Sixty-fifth Street Mall Special Assessment District.  ::
 
 
@@ -3111,7 +3111,7 @@ Chapter 6: Authorization of Increased Expenditure In Special Assessment District
 
 
 Chapter 7: Conversion of Hotel Space
-----------
+--------------------------------------------------
 § 25-701 Definitions. ::
 
 
@@ -3183,7 +3183,7 @@ Chapter 7: Conversion of Hotel Space
 
 
 Chapter 8: Deed Restrictions
-----------
+--------------------------------------------------
 § 25-801 Definitions. ::
 
 

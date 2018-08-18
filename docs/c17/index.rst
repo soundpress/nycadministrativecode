@@ -1,7 +1,7 @@
 Title 17: Health
-=================
+===================================================
 Chapter 1: Department of Health and Mental Hygiene
-----------
+--------------------------------------------------
 § 17-101 Definitions. ::
 
 
@@ -1873,7 +1873,7 @@ Chapter 1: Department of Health and Mental Hygiene
 
 
 Chapter 2: Medical Examiner
-----------
+--------------------------------------------------
 § 17-201 Report of deaths; removal of body. ::
 
 
@@ -2037,7 +2037,7 @@ Chapter 2: Medical Examiner
 
 
 Chapter 3: Licenses and Permits
-----------
+--------------------------------------------------
 § 17-301 Language preference for inspections. ::
 
 
@@ -3421,7 +3421,7 @@ Chapter 3: Licenses and Permits
 
 
 Chapter 4: Standards Governing the Performance of sterilizations
-----------
+--------------------------------------------------
 § 17-401 Findings and declaration. ::
 
 
@@ -3517,7 +3517,7 @@ Chapter 4: Standards Governing the Performance of sterilizations
 
 
 Chapter 5: Smoke-free Air Act
-----------
+--------------------------------------------------
 § 17-501 Short title. ::
 
 
@@ -4045,7 +4045,7 @@ Chapter 5: Smoke-free Air Act
 
 
 Chapter 6: Drug Testing of School System Conveyance Drivers
-----------
+--------------------------------------------------
 § 17-601 Definitions. ::
 
 
@@ -4279,7 +4279,7 @@ Chapter 6: Drug Testing of School System Conveyance Drivers
 
 
 Chapter 7: Regulation of Tobacco Products
-----------
+--------------------------------------------------
 § 17-701 Short title. ::
 
 
@@ -4633,7 +4633,7 @@ Chapter 7: Regulation of Tobacco Products
 
 
 Chapter 8: Animal Shelters and Sterilization Act
-----------
+--------------------------------------------------
 § 17-801 Legislative findings. [Repealed]  ::
 
 
@@ -4855,7 +4855,7 @@ Chapter 8: Animal Shelters and Sterilization Act
 
 
 Chapter 9: Lead-based Paint In Day Care Facilities
-----------
+--------------------------------------------------
 § 17-900 Definitions. ::
 
 
@@ -4931,7 +4931,7 @@ Chapter 9: Lead-based Paint In Day Care Facilities
 
 
 Chapter 10: Prescription Drug Discount Card Act
-----------
+--------------------------------------------------
 § 17-1001 Short title. ::
 
 
@@ -4987,7 +4987,7 @@ Chapter 10: Prescription Drug Discount Card Act
 
 
 Chapter 11: Neighbor Notification of Pesticide Application
-----------
+--------------------------------------------------
 § 17-1101 Definitions. ::
 
 
@@ -5125,7 +5125,7 @@ Chapter 11: Neighbor Notification of Pesticide Application
 
 
 Chapter 12: Pesticide Use By City Agencies
-----------
+--------------------------------------------------
 § 17-1201 Application. ::
 
 
@@ -5299,7 +5299,7 @@ Chapter 12: Pesticide Use By City Agencies
 
 
 Chapter 13: Availability of Information Regarding Day care Services
-----------
+--------------------------------------------------
 § 17-1301 Definitions.  ::
 
 
@@ -5439,7 +5439,7 @@ Chapter 13: Availability of Information Regarding Day care Services
 
 
 Chapter 14: Limits On Volatile Organic Compound Emissions In Carpet and Carpet Cushion
-----------
+--------------------------------------------------
 § 17-1401 Definitions. ::
 
 
@@ -5557,7 +5557,7 @@ Chapter 14: Limits On Volatile Organic Compound Emissions In Carpet and Carpet C
 
 
 Chapter 15: Food Service Establishments
-----------
+--------------------------------------------------
 § 17-1501 Definitions. ::
 
 
@@ -5741,7 +5741,7 @@ Chapter 15: Food Service Establishments
 
 
 Chapter 16: Animal Abuse Registration Act
-----------
+--------------------------------------------------
 § 17-1601 Definitions. ::
 
 
@@ -5877,7 +5877,7 @@ Chapter 16: Animal Abuse Registration Act
 
 
 Chapter 17: Pet Shops
-----------
+--------------------------------------------------
 § 17-1701 Definitions.  ::
 
 
@@ -6147,7 +6147,7 @@ Chapter 17: Pet Shops
 
 
 Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
-----------
+--------------------------------------------------
 § 17-1801 Definitions. ::
 
 

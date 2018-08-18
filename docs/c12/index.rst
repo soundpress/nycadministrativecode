@@ -1,7 +1,7 @@
 Title 13: Retirement and Pensions
-=================
+===================================================
 Chapter 2: Police Pension Funds
-----------
+--------------------------------------------------
 § 13-201 Definitions.  ::
 
 
@@ -2553,7 +2553,7 @@ Chapter 2: Police Pension Funds
 
 
 Chapter 5: Miscellaneous Pension and Retirement Provisions
-----------
+--------------------------------------------------
 § 13-601 Organization and membership.  ::
 
 
@@ -5545,7 +5545,7 @@ Chapter 5: Miscellaneous Pension and Retirement Provisions
 
 
 Chapter 6: Investment By Pension Funds Or Retirement Systems
-----------
+--------------------------------------------------
 § 13-701 Investments by pension funds or retirement systems maintained, administered or supported by the city or an agency, in notes or bonds secured by certain purchase money mortgages.  ::
 
 

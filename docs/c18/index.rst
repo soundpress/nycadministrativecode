@@ -1,7 +1,7 @@
 Title 18: Parks
-=================
+===================================================
 Chapter 1: Department of Parks and Recreation
-----------
+--------------------------------------------------
 § 18-101 Department of parks and recreation; commissioner.  ::
 
 
@@ -1231,7 +1231,7 @@ Chapter 1: Department of Parks and Recreation
 
 
 Chapter 2: Summer Camps For Children
-----------
+--------------------------------------------------
 § 18-201 Summer camps for children.  ::
 
 

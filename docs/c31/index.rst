@@ -1,7 +1,7 @@
 Title 29: New York City Fire Code
-=================
+===================================================
 Chapter 1: Enactment of the New York City Fire Code
-----------
+--------------------------------------------------
 § 29-101 Short title.  ::
 
 

@@ -1,7 +1,7 @@
 Title 8: Civil Rights
-=================
+===================================================
 Chapter 1: Commission on Human Rights
-----------
+--------------------------------------------------
 § 8-101 Policy.  ::
 
 
@@ -1117,7 +1117,7 @@ Chapter 1: Commission on Human Rights
 
 
 Chapter 2: Certain Unlawful Real Estate Practices
-----------
+--------------------------------------------------
 § 8-201 Declaration of policy.  ::
 
 
@@ -1277,7 +1277,7 @@ Chapter 2: Certain Unlawful Real Estate Practices
 
 
 Chapter 3: Civil Rights Demonstration Protection
-----------
+--------------------------------------------------
 § 8-301 Legislative declaration.  ::
 
 
@@ -1295,7 +1295,7 @@ Chapter 3: Civil Rights Demonstration Protection
 
 
 Chapter 4: Civil Action To Eliminate Unlawful Discriminatory Practices
-----------
+--------------------------------------------------
 § 8-401 Legislative declaration.  ::
 
 
@@ -1333,7 +1333,7 @@ Chapter 4: Civil Action To Eliminate Unlawful Discriminatory Practices
 
 
 Chapter 5: Civil Action By Persons Aggrieved By Unlawful Discriminatory Practices
-----------
+--------------------------------------------------
 § 8-502 Civil action by persons aggrieved by unlawful discriminatory practices.  ::
 
 
@@ -1363,7 +1363,7 @@ Chapter 5: Civil Action By Persons Aggrieved By Unlawful Discriminatory Practice
 
 
 Chapter 6: Discriminatory Harassment Or Violence
-----------
+--------------------------------------------------
 § 8-602 Civil action to enjoin discriminatory harassment or violence; equitable remedies.  ::
 
 
@@ -1397,7 +1397,7 @@ Chapter 6: Discriminatory Harassment Or Violence
 
 
 Chapter 7: Discriminatory Boycotts
-----------
+--------------------------------------------------
 § 8-701 Legislative declaration.  ::
 
 
@@ -1457,7 +1457,7 @@ Chapter 7: Discriminatory Boycotts
 
 
 Chapter 8: Prevention of Interference With Reproductive Health Services
-----------
+--------------------------------------------------
 § 8-801 Short title.  ::
 
 
@@ -1549,7 +1549,7 @@ Chapter 8: Prevention of Interference With Reproductive Health Services
 
 
 Chapter 9: Actions By Victims of Gender-motivated Violence
-----------
+--------------------------------------------------
 § 8-901 Short Title.  ::
 
 
@@ -1623,7 +1623,7 @@ Chapter 9: Actions By Victims of Gender-motivated Violence
 
 
 Chapter 10: Equal Access To Human Services
-----------
+--------------------------------------------------
 § 8-1001 Short title.  ::
 
 
@@ -1827,7 +1827,7 @@ Chapter 10: Equal Access To Human Services
 
 
 Chapter 11: Reports on Discipline and Certain Emergency Transports of Students
-----------
+--------------------------------------------------
 § 8-1101 Definitions; confidentiality requirements.  ::
 
 

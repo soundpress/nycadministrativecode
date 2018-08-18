@@ -1,7 +1,7 @@
 Title 12: Personnel and Labor
-=================
+===================================================
 Chapter 1: Officers and Employees
-----------
+--------------------------------------------------
 § 12-101 Salaries; retroactive increases forbidden.  ::
 
 
@@ -831,7 +831,7 @@ Chapter 1: Officers and Employees
 
 
 Chapter 2: Department of Citywide Administrative Services
-----------
+--------------------------------------------------
 § 12-201 City surveyors; examination, appointment of.  ::
 
 
@@ -911,7 +911,7 @@ Chapter 2: Department of Citywide Administrative Services
 
 
 Chapter 3: Collective Bargaining
-----------
+--------------------------------------------------
 § 12-301 Short title.  ::
 
 

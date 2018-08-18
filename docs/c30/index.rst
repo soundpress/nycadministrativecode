@@ -1,7 +1,7 @@
 Title 28: New York City Construction Codes
-=================
+===================================================
 Chapter 1: Administration
-----------
+--------------------------------------------------
 § 28-101.1 Title.  ::
 
 
@@ -4072,7 +4072,7 @@ Chapter 1: Administration
 
 
 Chapter 2: Enforcement
-----------
+--------------------------------------------------
 § 28-201.1 Unlawful acts.  ::
 
 
@@ -5580,7 +5580,7 @@ Chapter 2: Enforcement
 
 
 Chapter 3: Maintenance of Buildings
-----------
+--------------------------------------------------
 § 28-301.1 Owner's responsibilities.  ::
 
 
@@ -7684,7 +7684,7 @@ Chapter 3: Maintenance of Buildings
 
 
 Chapter 4: Licensing and Registration of Businesses, Trades And Occupations Engaged In Building Work
-----------
+--------------------------------------------------
 § 28-401.1 Application.  ::
 
 
@@ -9844,7 +9844,7 @@ Chapter 4: Licensing and Registration of Businesses, Trades And Occupations Enga
 
 
 Chapter 5: Miscellaneous Provisions
-----------
+--------------------------------------------------
 § 28-501.1 Permit required.  ::
 
 

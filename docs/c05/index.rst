@@ -1,7 +1,7 @@
 Title 6: Contracts, Purchases and Franchises
-=================
+===================================================
 Chapter 1: Contracts and Purchases
-----------
+--------------------------------------------------
 § 6-101 Contracts; certificate of comptroller.  ::
 
 
@@ -2467,7 +2467,7 @@ Chapter 1: Contracts and Purchases
 
 
 Chapter 2: Franchises
-----------
+--------------------------------------------------
 § 6-201 Definition.  ::
 
 
@@ -2555,7 +2555,7 @@ Chapter 2: Franchises
 
 
 Chapter 3: Environmental Purchasing
-----------
+--------------------------------------------------
 § 6-301 Definitions.  ::
 
 

@@ -1,7 +1,7 @@
 Title 27: Construction and Maintenance
-=================
+===================================================
 Chapter 2: Housing Maintenance Code
-----------
+--------------------------------------------------
 § 27-2001 Short title.  ::
 
 
@@ -3503,7 +3503,7 @@ Chapter 2: Housing Maintenance Code
 
 
 Chapter 3: Electrical Code
-----------
+--------------------------------------------------
 § 27-3001 Short title.  ::
 
 

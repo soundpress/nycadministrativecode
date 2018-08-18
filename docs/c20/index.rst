@@ -1,7 +1,7 @@
 Title 20: Consumer Affairs
-=================
+===================================================
 Chapter 1: License Enforcement
-----------
+--------------------------------------------------
 § 20-101 Legislative intent.  ::
 
 
@@ -291,7 +291,7 @@ Chapter 1: License Enforcement
 
 
 Chapter 3: Weights and Measures
-----------
+--------------------------------------------------
 § 20-571 Fees.  ::
 
 
@@ -493,7 +493,7 @@ Chapter 3: Weights and Measures
 
 
 Chapter 4: Regulation of Commodities and Services
-----------
+--------------------------------------------------
 § 20-601 License required.  ::
 
 
@@ -1291,7 +1291,7 @@ Chapter 4: Regulation of Commodities and Services
 
 
 Chapter 5: Unfair Trade Practices
-----------
+--------------------------------------------------
 § 20-700 Unfair trade practices prohibited.  ::
 
 
@@ -3186,7 +3186,7 @@ Chapter 5: Unfair Trade Practices
 
 
 Chapter 6: No-fault Insurance Medical Clinics
-----------
+--------------------------------------------------
 § 20-900 Definitions.  ::
 
 
@@ -3272,7 +3272,7 @@ Chapter 6: No-fault Insurance Medical Clinics
 
 
 Chapter 7: Energy
-----------
+--------------------------------------------------
 § 20-910 Air conditioning prohibitions.  ::
 
 
@@ -3310,7 +3310,7 @@ Chapter 7: Energy
 
 
 Chapter 8: Earned Safe and Sick Time Act.
-----------
+--------------------------------------------------
 § 20-911 Short title. ::
 
 
@@ -3596,7 +3596,7 @@ Chapter 8: Earned Safe and Sick Time Act.
 
 
 Chapter 9: Mass Transit Benefits
-----------
+--------------------------------------------------
 § 20-926 Election of qualified transportation benefits in lieu of taxable dollar compensation for certain non-governmental employees. ::
 
 
@@ -3618,7 +3618,7 @@ Chapter 9: Mass Transit Benefits
 
 
 Chapter 10: Freelance Workers
-----------
+--------------------------------------------------
 § 20-927 Definitions. ::
 
 
@@ -3888,7 +3888,7 @@ Chapter 10: Freelance Workers
 
 
 Chapter 12: Fair Work Practices
-----------
+--------------------------------------------------
 § 20-1201 Definitions. ::
 
 
@@ -4432,7 +4432,7 @@ Chapter 12: Fair Work Practices
 
 
 Chapter 13: Pay Deductions for Contributions to Not-for-profit Organizations
-----------
+--------------------------------------------------
 § 20-1301 Definitions. ::
 
 

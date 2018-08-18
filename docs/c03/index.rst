@@ -1,7 +1,7 @@
 Title 4: Property of the City
-=================
+===================================================
 Chapter 1: Real Estate Transactions
-----------
+--------------------------------------------------
 § 4-101 Acquisition of certain lands; by reversion.  ::
 
 
@@ -213,7 +213,7 @@ Chapter 1: Real Estate Transactions
 
 
 Chapter 2: Real Property Management
-----------
+--------------------------------------------------
 § 4-201 Commissioner of citywide administrative services, functions.  ::
 
 

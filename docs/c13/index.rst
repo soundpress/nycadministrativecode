@@ -1,7 +1,7 @@
 Title 14: Police
-=================
+===================================================
 Chapter 1: Police Department
-----------
+--------------------------------------------------
 § 14-101 Definitions.  ::
 
 
@@ -1529,7 +1529,7 @@ Chapter 1: Police Department
 
 
 Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
-----------
+--------------------------------------------------
 § 14-201 Regulation of solicitation by law enforcement affiliated organizations.  ::
 
 
