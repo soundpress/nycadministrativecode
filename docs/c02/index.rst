@@ -925,19 +925,14 @@ Chapter 1: Mayor
 
        * - Year
          - Dollar value per metric ton of carbon dioxide equivalent
-
        * - 2017
          - 128
-
        * - 2018
          - 132
-
        * - 2019
          - 136
-
        * - 2020
          - 140
-
        * - 2021
          - 142	
 	 
