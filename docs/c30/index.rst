@@ -5,6 +5,8 @@ Chapter 1: Administration
 --------------------------------------------------
 
 
+
+
 **Article 101: General**
 
 
@@ -440,6 +442,8 @@ ZONING RESOLUTION. The zoning resolution of the city of New York, adopted Decemb
 
 
 
+
+
 **Article 102: Applicability**
 
 
@@ -558,6 +562,8 @@ All enacted appendices are a part of the provisions of this code.
 
 
 References to provisions of the building code of the city of New York or to chapter 1 of title 27 of the administrative code in other laws shall be deemed to refer to equivalent provisions of the 1968 building code or the New York city construction codes as the context in which such references appear may require.
+
+
 
 
 
@@ -1279,6 +1285,8 @@ The head of the office of the alternative energy shall submit an annual report t
 
 
 The office of alternative energy shall maintain a website and shall post on such website the contact information for such office and a statement indicating that any person may contact such office if such person has a comment, question or complaint with respect to such office.
+
+
 
 
 
@@ -2712,6 +2720,8 @@ No permit for construction or demolition work for which training is required by 
 
 
 
+
+
 **Article 106: Asbestos**
 
 
@@ -2790,6 +2800,8 @@ Except as otherwise provided by rule, work performed in the course of and only f
 
 
 For the purposes of this article, the terms "asbestos" and "asbestos project" shall have the meanings as are ascribed in section 24-136 of the administrative code.
+
+
 
 
 
@@ -2944,6 +2956,8 @@ Where the commissioner rejects or rescinds the approval of construction document
 
 
 
+
+
 **Article 108: Pavement Plan**
 
 
@@ -2982,6 +2996,8 @@ Exception: No pavement plan shall be required with respect to an alteration appl
 
 
 The commissioner shall insure that streets are suitably improved in accordance with the standards and specifications of the department of transportation as required by subdivision two of section thirty-six of the general city law and shall otherwise carry out the provisions of such subdivision.
+
+
 
 
 
@@ -3078,6 +3094,8 @@ The plan shall include the following information, where applicable:
 
 
 
+
+
 **Article 110: Site Safety Plan**
 
 
@@ -3138,6 +3156,8 @@ Where a site safety plan is required by chapter 33 of the New York city building
 
 
 Multiple layouts of the site safety features enumerated in section 28-110.1 may be submitted at any time during construction operations to show phased site safety designs consistent with the phase of anticipated work.
+
+
 
 
 
@@ -3227,6 +3247,8 @@ Applications for such permits shall be accompanied by the applicable fees in acc
 
 
 Notwithstanding any inconsistent provision of this article the use of a temporary structure or the temporary use of space as a place of assembly shall require a temporary place of assembly certificate of operation issued pursuant to section 28-117.2.
+
+
 
 
 
@@ -4207,6 +4229,8 @@ The commissioner shall establish by rule a program for reducing the amount of an
 
 
 
+
+
 **Article 113: Materials**
 
 
@@ -4464,6 +4488,8 @@ Where a penalty is imposed pursuant to this article for work that has been perfo
 
 
 
+
+
 **Article 114: Approved Agencies**
 
 
@@ -4557,6 +4583,8 @@ An approved agency shall have its approval re-authorized in accordance with rule
 
 
 
+
+
 **Article 115: Special Inspection Agencies and Special Inspectors**
 
 
@@ -4585,6 +4613,8 @@ The commissioner may disqualify a special inspection agency or a special inspect
 
 
 A special inspector shall maintain records of special inspections on a building by building basis for at least 6 years or for such period as the commissioner shall determine and shall make such records available to the department upon request.
+
+
 
 
 
@@ -4964,6 +4994,8 @@ The enforcement agency shall report any violation of the provisions of this sect
 
 
 The commissioner shall not issue a certificate of operation to an outdoor temporary or permanent place of assembly, including, but not limited to, tents, platforms, stages and outdoor assembly seating, unless the department determines that the space complies with the provisions of this code.
+
+
 
 
 
@@ -5421,6 +5453,8 @@ Chapter 2: Enforcement
 --------------------------------------------------
 
 
+
+
 **Article 201: General**
 
 
@@ -5582,6 +5616,8 @@ Civil penalties and criminal fines and imprisonment shall be imposed within the 
 
 
 
+
+
 **Article 202: Civil Penalties**
 
 
@@ -5725,6 +5761,8 @@ In determining the amount of the civil penalty to be imposed the court shall con
 
 
 
+
+
 **Article 203: Criminal Penalties**
 
 
@@ -5763,6 +5801,8 @@ Exceptions:
 
 
 In the case of continuing violations each day's continuance shall be a separate and distinct offense.
+
+
 
 
 
@@ -5981,6 +6021,8 @@ The procedures provided in this section 28-204.6 for the enforcement of environm
 
 
 
+
+
 **Article 205: Civil Judicial Proceedings**
 
 
@@ -6104,6 +6146,8 @@ The notice of pendency referred to in this section 28-205.1.5 may be filed at th
 
 
 
+
+
 **Article 206: Criminal Judicial Proceedings**
 
 
@@ -6122,6 +6166,8 @@ The owner, lessee, person in charge, or occupant of any building, structure, pre
 
 
 The criminal penalties provided by this code shall be in addition to or alternative to any civil sanctions authorized to be imposed for an unlawful use or condition cited in this code.
+
+
 
 
 
@@ -6320,6 +6366,8 @@ Upon application, the commissioner shall rescind the cease use order when the co
 
 
 
+
+
 **Article 208: Commissioner's Request for Corrective Action**
 
 
@@ -6363,6 +6411,8 @@ Nothing in this article shall be construed to limit the power of the commissione
 
 
 
+
+
 **Article 209: Commissioner's Order to Correct Unlawful Use Or Condition**
 
 
@@ -6381,6 +6431,8 @@ The commissioner may issue an order to the persons responsible for any unlawful 
 
 
 All orders issued by the commissioner shall contain a description of the building, structure, premises, equipment or subject matter affected, and shall be designated by address where applicable. All such orders shall be served by regular mail or, upon consent, electronically. Such orders may be served by any officer or employee of the department, or by any person authorized by the commissioner. An order may be given orally, followed within a reasonable time by a written order as described in this section 28-209.2. Failure to comply with a commissioner's order within the stated time period shall be a violation of this code punishable by civil penalties or criminal fines and imprisonment as set forth in this code. Proof of compliance with a commissioner's order shall consist of certification as prescribed by the rules of the department.
+
+
 
 
 
@@ -6465,6 +6517,8 @@ By no later than September 1 of each year, the department shall, with the cooper
 
 
 
+
+
 **Article 211: False Statements**
 
 
@@ -6503,6 +6557,8 @@ In addition to any other penalty provided by law, the commissioner may refuse to
 
 
 It shall be unlawful for any person to falsely represent himself or herself as an officer, inspector or employee of the department, or as acting under the authority of the department, or without authority to use, wear or display a shield or other insignia or emblem such as is worn by such officer, inspector or employee.
+
+
 
 
 
@@ -6691,6 +6747,8 @@ It shall be unlawful for any person to use or occupy or to permit any other pers
 
 
 
+
+
 **Article 213: Penalty for Work Without A Permit**
 
 
@@ -6799,6 +6857,8 @@ Any work performed by a contractor that is wholly or partially exempt from a civ
 
 
 The department shall remove from the watch list created pursuant to section 28-213.5 any contractor who has not been found to have performed work without a permit in the two years after the latter of the following dates: (i) the date on which such contractor was originally placed on such watch list or (ii) the date on which such contractor most recently performed work without a required permit.
+
+
 
 
 
@@ -6937,6 +6997,8 @@ Payments pursuant to section 28-214.3.1 shall be made as a matter of grace and s
 
 
 
+
+
 **Article 215: Emergency Powers of the Commissioner**
 
 
@@ -7025,6 +7087,8 @@ Where any persons are known or believed to be buried under the ruins of any fall
 
 
 Upon the failure to comply with any order of the commissioner within the time limited thereby, and subject to the provisions of article 216, any work required to be executed by such order may be executed by the commissioner through the officers, agents or contractors of the department; and the city shall be reimbursed promptly for all costs and expenses of such work. Such costs and expenses shall become a lien upon the premises involved and named in the commissioner's order, which may be enforced in accordance with the provisions of section 28-112.9 of this code.
+
+
 
 
 
@@ -7143,6 +7207,8 @@ Any costs and expenses incurred by any agency of the city pursuant to this artic
 
 
 
+
+
 **Article 217: Buildings and Structures That Are Potentially Compromised**
 
 
@@ -7151,6 +7217,8 @@ Any costs and expenses incurred by any agency of the city pursuant to this artic
 
 
 For purposes of this article "potentially compromised" shall include a building or structure that has had an open roof for sixty days or longer, that has been shored and braced or otherwise temporarily safeguarded pursuant to an emergency declaration issued by the commissioner, that has been subject to a precept as a compromised structure under section 216.1.1 of this code or that may have suffered structural damage by fire or any other cause as determined by the commissioner.
+
+
 
 
 
@@ -7229,6 +7297,8 @@ The SCO shall keep and maintain records relating to the services performed on be
 
 
 
+
+
 **Article 219: Failure to Certify Correction of Certain Immediately Hazardous Violations**
 
 
@@ -7289,6 +7359,8 @@ Chapter 3: Maintenance of Buildings
 --------------------------------------------------
 
 
+
+
 **Article 301: General**
 
 
@@ -7307,6 +7379,8 @@ All buildings and all parts thereof and all other structures shall be maintained
 
 
 Reports required to be filed under this chapter shall be filed in writing or electronically as the commissioner may require.
+
+
 
 
 
@@ -7386,6 +7460,8 @@ Upon the notification to the department of an unsafe condition, the owner, the o
 
 
 The registered design professional shall not file a report of a safe condition with a repair and maintenance program for the same building for two consecutive filing periods unless the second such report is accompanied by his or her professional certification attesting to the correction of all conditions identified in the prior report as requiring repair.
+
+
 
 
 
@@ -7555,6 +7631,8 @@ In addition to the inspections required by this article, the commissioner may ma
 
 
 The owner of each boiler subject to periodic inspection pursuant to this article shall pay to the department an annual fee for each boiler in the amount prescribed by this code to cover the city's administrative and supervisory costs. The fee shall be payable at the time of the filing of the owner's annual boiler inspection report. No fee shall be charged for additional inspections made by the department pursuant to section 28-303.10.
+
+
 
 
 
@@ -7782,6 +7860,8 @@ When an elevator is to be out of service for alteration work, notice shall be gi
 
 
 When all elevators servicing a building or any section of a building are expected to be out of service for two or more hours, notice shall be posted at least twenty-four hours before the start of the work. When all elevators servicing a building or any section of a building are expected to be out of service for less than two hours, or are out of service as the result of emergency work, notice is not required to be posted, except that where such outage lasts for two or more hours, notice shall be posted as soon as practicable after the commencement of such service outage.
+
+
 
 
 
@@ -8032,6 +8112,8 @@ The registered design professional shall not file a report of safe with repair a
 
 
 
+
+
 **Article 306: Party Walls**
 
 
@@ -8050,6 +8132,8 @@ Repair and maintenance of the construction, design and fire-resistance rating of
 
 
 Refer to section BC 3309 of the New York city building code for additional requirements for the maintenance of party walls during construction or demolition operations.
+
+
 
 
 
@@ -8093,6 +8177,8 @@ In addition to any other inspections required by law or rule, the fire departmen
 
 
 It shall be unlawful for an employer or the agent of such employer to take a retaliatory action, as defined by section 740 of the labor law, against an employee because of the lawful acts of such employee in furtherance of a civil or criminal enforcement proceeding arising out of the failure of such employer or agent to comply with section 28-307.1 An employee who is the victim of such retaliatory action may commence an action in any court of competent jurisdiction for the relief provided for in this section and shall be entitled to all relief necessary to make such employee whole. Lawful acts of an employee shall include, but not be limited to, assisting in the investigation and initiation of an enforcement proceeding alleging a violation of section 28-307.1, providing testimony in any such proceeding or providing other assistance in connection therewith. The relief to which such employee shall be entitled shall include, but not be limited to, (i) an injunction to restrain any adverse or retaliatory action, (ii) reinstatement to the position such officer or employee would have had but for such action, or to an equivalent position, (iii) reinstatement of full benefits and seniority rights including payment of any missed back pay, plus interest and (iv) compensation for any special damages sustained as a result of such action, including litigation costs and reasonable attorneys' fees.
+
+
 
 
 
@@ -8601,6 +8687,8 @@ The department shall promulgate such rules as are necessary to carry out the pro
 
 
 
+
+
 **Article 309: Benchmarking Energy and Water Use and Disclosure of Energy Efficiency Scores and Grades**
 
 
@@ -8926,6 +9014,8 @@ The department shall, from time to time, audit information submitted for buildin
 
 
 
+
+
 **Article 310: Required Upgrade of Lighting Systems**
 
 
@@ -8978,6 +9068,8 @@ Exceptions:
 * Editor's note: there are two divisions designated as 2. in this section.
 
 3. The lighting system within a space classified in occupancy group A-3 that is within a house of worship.
+
+
 
 
 
@@ -9064,6 +9156,8 @@ The owner of each covered building shall file a report in accordance with the ru
 
 
 
+
+
 **Article 312: Carbon Monoxide and Smoke Alarms**
 
 
@@ -9133,6 +9227,8 @@ On or after January 1, 2021, smoke alarms and smoke detectors installed or repla
 
 
 
+
+
 **Article 313: Accessibility**
 
 
@@ -9155,6 +9251,8 @@ Exception: Directional signage posted at building entrances in compliance with t
 The provisions of item 5 of section 1110.1 of the New York city building code requiring signage to be posted at accessible entrances where an inaccessible building entrance exists shall apply retroactively to all buildings that have such accessible entrances. Buildings in existence on the effective date of this section shall post such signage on or before August 1, 2013. Such signage shall be maintained in good condition.
 
 Exception: Accessible entrance signs that are posted at building entrances in compliance with the americans with disabilities act of 1990 shall be deemed to be in compliance with section 1110.1 of the New York city building code subject to the inclusion on or adjacent to such signage of a contact telephone number or instructions to gain access if an otherwise accessible building entrance is subject to locking.
+
+
 
 
 
@@ -9248,6 +9346,8 @@ The operation of the system shall immediately cease if any test sample does not 
 
 
 All defects and violations identified during the inspection and testing process shall be corrected immediately prior to continuing the operation of the waste water recycling system.
+
+
 
 
 
@@ -9550,6 +9650,8 @@ All doors providing access to interior corridors or stairs in occupancy groups R
 
 
 
+
+
 **Article 316: Insulation of Concealed Pipes Exposed During Alteration or Repair**
 
 
@@ -9566,6 +9668,8 @@ Exceptions:
 2. Where the length of concealed pipe which may be directly accessed through openings made in the course of such alteration or repair is less than three feet (914 mm).
 
 3. Where there is not sufficient space to insulate pipes to the extent required by the New York city energy conservation code due to conflicts with existing construction, pipes shall be insulated to the extent that space allows.
+
+
 
 
 
@@ -9687,6 +9791,8 @@ The department may charge filing fees for registration, discontinuing of use and
 
 
 Failure to register a cooling tower or submit a certification or statement required by this article shall be classified as a major violation.
+
+
 
 
 
@@ -9829,6 +9935,8 @@ Failure to submit a certification required by this article shall be classified a
 
 
 
+
+
 **Article 319: Maintenance and Removal of Small Wind Turbines**
 
 
@@ -9857,6 +9965,8 @@ The owner of a small wind turbine, as such term is defined in section 3113.2 of 
 
 Chapter 4: Licensing and Registration of Businesses, Trades And Occupations Engaged In Building Work
 --------------------------------------------------
+
+
 
 
 **Article 401: General**
@@ -10242,6 +10352,8 @@ In the event that the holder of a license is no longer actively engaged as a lic
 
 
 
+
+
 **Article 402: Site Safety Manager Certificate**
 
 
@@ -10277,6 +10389,8 @@ All applicants for a site safety manager certificate shall submit satisfactory p
 
 
 
+
+
 **Article 403: Site Safety Coordinator Certificate**
 
 
@@ -10303,6 +10417,8 @@ All applicants for a site safety coordinator certificate shall submit satisfacto
 3. Has five years of construction supervision or construction safety experience within the 10 years prior to application, including three years supervising construction or demolition of major buildings as the term major building is defined in chapter 33 of the New York city building code, and within one year prior to application has satisfactorily completed a 8-hour course approved by the department; or
 
 4. Has equivalent education and construction experience as determined by the department and within one year prior to application has satisfactorily completed a 40-hour course approved by the department.
+
+
 
 
 
@@ -10447,6 +10563,8 @@ As a condition of license renewal or reinstatement, a licensed master or special
 
 
 
+
+
 **Article 405: Hoisting Machine Operator License**
 
 
@@ -10578,6 +10696,8 @@ Unless otherwise required by rule, licensed hoisting machine operators are exemp
 
 
 
+
+
 **Article 406: Concrete Testing Laboratory License**
 
 
@@ -10641,6 +10761,8 @@ An examination shall not be required for a concrete testing laboratory license.
 
 
 
+
+
 **Article 407: Welder License**
 
 
@@ -10679,6 +10801,8 @@ As a condition of license renewal and reinstatement, a licensed welder shall pro
 
 
 Unless otherwise required by rule, licensed welders are exempt from the insurance requirements of section 28-401.9.
+
+
 
 
 
@@ -10927,6 +11051,8 @@ Exception: The provisions of this section 28-408.6.6 shall not apply to minor al
 
 
 
+
+
 **Article 409: Journeyman Plumber Registration**
 
 
@@ -10973,6 +11099,8 @@ The registration for journeyman plumber shall have no expiration and shall not r
 
 
 The registration card shall clearly state: "This registration is NOT A LICENSE, and the holder is NOT AUTHORIZED TO PERFORM PLUMBING WORK in New York city except under the direct and continuing supervision of a licensed master plumber."
+
+
 
 
 
@@ -11247,6 +11375,8 @@ Exception: The provisions of this section 28-410.8.6 shall not apply to minor al
 
 
 
+
+
 **Article 411: Journeyman Fire Supression Piping Installer Registration**
 
 
@@ -11293,6 +11423,8 @@ The registration for journeyman fire suppression piping installer shall have no 
 
 
 The registration shall clearly state: "This registration is NOT A LICENSE, and the holder is NOT AUTHORIZED TO PERFORM FIRE SUPPRESSION PIPING WORK in New York city except under the direct and continuing supervision of a Licensed Master Fire Suppression Piping Contractor."
+
+
 
 
 
@@ -11375,6 +11507,8 @@ Every licensed oil burning equipment installer shall have a place of business wi
 
 
 
+
+
 **Article 413: High-pressure Boiler Operating Engineer License**
 
 
@@ -11441,6 +11575,8 @@ As a condition of license renewal and reinstatement, a licensed high-pressure bo
 
 
 Notwithstanding section 28-413.2, upon application, individuals who hold a portable high-pressure boiler operating engineer license on the effective date of this section may be issued a high-pressure boiler operating engineer license without examination. Such application shall be deemed to be an application for renewal of a license pursuant to this chapter.
+
+
 
 
 
@@ -11563,6 +11699,8 @@ As a condition of license renewal or reinstatement, a licensed sign hanger shall
 
 
 
+
+
 **Article 416: Filing Representative Registration**
 
 
@@ -11611,6 +11749,8 @@ The following persons are exempt from the provisions of this article. Any person
 
 
 The commissioner shall promulgate rules for the proper and efficient administration and enforcement of this article. Unless required by rule, a registered filing representative shall not be required to take an examination or to complete continuing education courses as a condition for renewal of the registration.
+
+
 
 
 
@@ -11692,6 +11832,8 @@ A member of the board who is an officer or employee of the department representi
 
 
 The board may request the commissioner to appoint duly authorized representatives to conduct investigations and other activities incidental to the functions of the license board. Such appointees shall be non-voting members of the committee to which they are appointed, and may include personnel who are not department employees who shall serve without compensation. In addition the commissioner may designate such employees of the department as the commissioner deems necessary to the service and support of the license board.
+
+
 
 
 
@@ -12082,6 +12224,8 @@ In any forfeiture action commenced pursuant to this article, where the court awa
 
 
 
+
+
 **Article 420: Requirement of Safety Registration Number**
 
 
@@ -12191,6 +12335,8 @@ On and after October 1, 2009, it shall be unlawful to represent or cause to be r
 
 
 
+
+
 **Article 421: Private Elevator Inspection Agency Director license**
 
 
@@ -12248,6 +12394,8 @@ Every licensed private elevator inspection agency shall have a place of business
 
 
 
+
+
 **Article 422: Private Elevator Inspection Agency Inspector license**
 
 
@@ -12278,6 +12426,8 @@ Applicants for a private elevator agency inspector license shall submit satisfac
 
 
 Each private elevator inspection agency inspector shall perform work pursuant to article 304 of chapter 3 of this code for only one private elevator inspection agency, and shall not witness and/or perform inspections and/or test elevators or related devices as an inspector or director for any other private elevator inspection agency.
+
+
 
 
 
@@ -12424,6 +12574,8 @@ The gas work qualification shall have no expiration and need not be renewed or r
 
 
 
+
+
 **Article 424: Lift Director Registration**
 
 
@@ -12492,6 +12644,8 @@ Applicants for a lift director registration shall submit satisfactory proof esta
 
 Chapter 5: Miscellaneous Provisions
 --------------------------------------------------
+
+
 
 
 **Article 501: Maintenance Permit for Outdoor Signs**
@@ -12580,6 +12734,8 @@ The provisions of this article shall not apply to:
 1. Signs with a surface area of 200 square feet (19 m2) or less that are located no higher than 3 feet (914 mm) above the floor of the second story of the building on which the sign is located; and
 
 2. Signs under the control of an outdoor advertising company and included on a certified list of signs, sign structures, and sign locations under the control of such company required to be filed with the department pursuant to this chapter.
+
+
 
 
 
@@ -12828,6 +12984,8 @@ The department may investigate any matter within the jurisdiction conferred by t
 
 
 
+
+
 **Article 503: Nuisance Abatement for Illegal Signs**
 
 
@@ -12946,6 +13104,8 @@ For the purposes of this article the terms "sign" and "surface area," in referen
 
 
 An order of the commissioner issued pursuant to this article shall be a final determination of the commissioner for purposes of review pursuant to article seventy-eight of the civil practice law and rules. Notwithstanding any inconsistent provision of paragraph (a) of subdivision six of section six hundred sixty-six of the New York city charter, such order shall not be subject to review by the board of standards and appeals.
+
+
 
 
 
@@ -13197,6 +13357,8 @@ Exceptions:
 
 
 In any building classified in occupancy group R, it shall be unlawful for an owner to bar a tenant or subtenant from transporting a foldable bicycle on a passenger elevator provided that such bicycle is fully folded. For purposes of this section, the term "foldable bicycle" means a bicycle designed to fold into a compact assembly not exceeding 20 inches by 36 inches by 32 inches.
+
+
 
 
 

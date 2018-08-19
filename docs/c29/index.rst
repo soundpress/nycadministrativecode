@@ -5,7 +5,11 @@ Chapter 2: Housing Maintenance Code
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: General Provisions**
+
+
 
 
 **Article 1: General Provisions**
@@ -265,7 +269,11 @@ b. Except as otherwise provided herein, all terms used in this chapter shall be 
 
 
 
+
+
 **Subchapter 2: Maintenance, Services, and Utilities**
+
+
 
 
 **Article 1: Obligations of Owner and Tenant: Duty To Repair**
@@ -425,6 +433,8 @@ h. Violations and penalties. Any owner who fails to comply this section shall be
 
 
 
+
+
 **Article 2: Cleaning**
 
 
@@ -455,6 +465,8 @@ The owner of a dwelling shall maintain the public parts in a clean and sanitary 
 a. The occupant of a dwelling shall maintain the dwelling unit which he or she occupies and controls in a clean and sanitary condition except as provided in subdivision b of this section.
 
 b. The owner of all rooming units in a rooming house or an entire multiple dwelling used for single room occupancy, or the person in control of an apartment containing rooming units, shall clean any such unit before any change in occupancy and at least once a week during the period of occupancy and shall at all times maintain the same in a clean and sanitary condition.
+
+
 
 
 
@@ -536,6 +548,8 @@ c. This section does not apply to:
 a. The department may by regulation prescribe or approve the kind and quality of paints or wall covering which may be used to satisfy the requirements of this article.
 
 b. The department may by regulation extend the time for repainting when in its judgment the particular kind and quality of paint or wall covering used is designed to wear for considerably longer periods of time than the time set for repainting in this article. An owner who uses such long-wearing paints or wall covering shall inform the department prior to his or her doing so in accordance with departmental regulations.
+
+
 
 
 
@@ -638,6 +652,8 @@ All building material, lumber, boxes, cartons, barrels, containers, machinery, r
 
 
 
+
+
 **Article 5: Collection of Wastes**
 
 
@@ -703,6 +719,8 @@ The owner and occupants of a one or two-family dwelling shall provide for the re
 
 
 
+
+
 **Article 6: Water Supply**
 
 
@@ -721,6 +739,8 @@ The owner of a dwelling shall provide and maintain a supply of pure and wholesom
 
 
 The owner of a dwelling shall provide proper appliances for the use of every dwelling unit to receive and distribute an adequate supply of water during all hours.
+
+
 
 
 
@@ -750,6 +770,8 @@ b. The owner of a dwelling shall provide and maintain drainage from all roofs to
 c. The department may require the owner of a dwelling to surface shafts, courts, yards, and other open spaces on the lot with concrete, and to pitch the surfaces of such areas towards a sewer-connected drain or other adequate drainage system, except that, with respect to private dwellings, the department may permit the surfacing of such areas with bituminous aggregate or other similar material.
 
 d. The owner of a dwelling may plant grass, sod, shrubs, trees and other vegetation in yards and courts, unless the department orders its removal because in its opinion such vegetation interferes with proper drainage, light, ventilation, or egress.
+
+
 
 
 
@@ -840,6 +862,8 @@ b. Multiple dwellings owned and operated by the New York city housing authority 
 
 
 
+
+
 **Article 9: Gas Appliances**
 
 
@@ -897,6 +921,8 @@ The owner shall cause an inspection to be made by a licensed plumber, utility co
 
 
 
+
+
 **Article 10: Artificial Lighting**
 
 
@@ -941,6 +967,8 @@ e. For the purposes of this section the term "photosensor" means a device that d
 a. The owner of a multiple dwelling shall install and maintain one or more lights at or near the outside of the front entrance way of the building which shall in the aggregate provide not less than one hundred watts incandescent illumination or its equivalent for a building with a frontage up to twenty-two feet, and two hundred watts incandescent illumination or its equivalent or a building with a frontage in excess of twenty-two feet. In the case of a multiple dwelling with a frontage in excess of twenty-two feet and front entrance doors with a combined width in excess of five feet, the owners shall install at least two lights, one on each side of the entrance way, with an aggregate illumination of three hundred watts incandescent illumination or its equivalent. If the minimum level of illumination is maintained, the owner may determine details of location, design and installation of lighting fixtures, subject, however, to regulations of the department with respect to the maximum height above or distance from the entrance way of such fixtures, and the electrical and other safety of their installation. The lights required by this subdivision shall be kept burning from sunset on each day to sunrise on the day following.
 
 b. The owner of a multiple dwelling shall install and maintain in every yard and court one or more lights of at least one hundred watts of incandescent illumination or its equivalent, in such locations as the department may prescribe. The lights required by this subdivision shall be kept burning from sunset on each day to sunrise on the day following.
+
+
 
 
 
@@ -1185,6 +1213,8 @@ d. Any owner who is required to provide stove knob covers pursuant to this secti
 
 
 
+
+
 **Article 12: Miscellaneous Services and Facilities**
 
 
@@ -1237,6 +1267,8 @@ A manager, who may be the owner, shall reside in every rooming house or multiple
 
 
 Prior to the expectant arrival of a weather emergency, a natural disaster event or after being informed about a utility outage which is expected to last for more than twenty-four hours, the owner of a residential dwelling where at least one dwelling unit is not occupied by such owner shall post the following information in common areas of the residential dwelling on signs of sufficient size to be seen: (i) whether the building is located in a hurricane evacuation zone as defined by the office of emergency management and if applicable, which zone the building is located in; (ii) the address of the nearest designated evacuation center; (iii) when a person should contact 911 and 311 during a weather emergency, a natural disaster event or the utility outage; (iv) whether during the utility outage, services such as potable water, corridor, egress, and common area lighting, fire safety and fire protection, elevators, charging locations for cellular telephones, domestic hot water, or heating and cooling will be provided; (v) contact information for building personnel in the event of an emergency, including email addresses, phone numbers and other methods of communication; (vi) instructions on removing furniture from rooftops and balconies during high wind events and; (vii) for buildings that utilize pumps, instructions on reducing water consumption during the utility outage. Such signs shall be updated by the owner of the residential building as needed and must be removed after the passage of the weather emergency, the natural disaster event or the restoration of utility services. The department shall determine the form of such signs including publishing a template that may be used by residential buildings for the purposes of this section.
+
+
 
 
 
@@ -1308,6 +1340,8 @@ c. This section shall become effective on June thirteenth, nineteen hundred sixt
 
 
 The provisions of this article shall not be applicable to the New York city housing authority.
+
+
 
 
 
@@ -1666,7 +1700,11 @@ For the purposes of this article, the term "applicable age" shall mean "under se
 
 
 
+
+
 **Subchapter 3: Physical and Occupancy Standards For Dwelling Units**
+
+
 
 
 **Article 1: Lighting and Ventilation**
@@ -1846,6 +1884,8 @@ c. Noncomplying rooms.
 
 
 
+
+
 **Article 2: Sanitary Facilities**
 
 
@@ -1991,6 +2031,8 @@ The owner of a one- or two-family dwelling shall provide for the exclusive use o
 
 
 
+
+
 **Article 3: Kitchens and Kitchenettes**
 
 
@@ -2055,6 +2097,8 @@ d. In every kitchen and kitchenette, constructed on or after July fourteenth, ni
 e. The owner shall, in every kitchenette constructed on or after July fourteenth, nineteen hundred sixty-seven, fire-retard the ceilings and walls, exclusive of doors.
 
 f. The owner of a dwelling shall provide every kitchen and kitchenette with gas or electricity or both for cooking and with a sink with running water, equipped with a waste and trap at least two inches in diameter.
+
+
 
 
 
@@ -2192,6 +2236,8 @@ Every building containing rooming units, and each individual apartment used for 
 
 
 An owner or lessee of any dwelling containing rooming house accommodations or any room or rooms used for single room occupancy shall keep a register in such dwelling in the custody of a responsible agent. The register shall show: The name, signature, age, previous residence, date of arrival and date of departure of each tenant of rooming house accommodations or of a room or rooms used for single room occupancy; the room or rooms occupied by such tenant; and the names and ages of all persons residing in or occupying such room or rooms with such tenant. The owner or lessee of such a dwelling and the agent who maintains the register in such dwelling shall permit any officer or employee of the department or any inspector from any city department to inspect the register. It shall be unlawful for such owner or lessee knowingly to cause or permit any false entry to be made in such register. It shall be unlawful for any tenant to provide the owner or lessee of such dwelling with any false information on any matter required to be included in the register.
+
+
 
 
 
@@ -2404,6 +2450,8 @@ The board of standards and appeals shall have those powers and authority as set 
 
 
 
+
+
 **Article 6: Vacant Multiple Dwellings**
 
 
@@ -2429,7 +2477,11 @@ b. The provisions of this article shall not apply to:
 
 
 
+
+
 **Subchapter 4: Administration**
+
+
 
 
 **Article 1: Powers and Functions of the Department**
@@ -2819,6 +2871,8 @@ e. The department shall prominently display, on its website and in portions of i
 
 
 
+
+
 **Article 2: Registration**
 
 
@@ -3036,6 +3090,8 @@ c. The provisions of this section shall not apply to any foreclosure actions bro
 
 
 
+
+
 **Article 3: Speculation Watch List**
 
 
@@ -3087,7 +3143,11 @@ g. On or after January 1, 2021, the department may change the methodology for id
 
 
 
+
+
 **Subchapter 5: Legal Remedies and Enforcement**
+
+
 
 
 **Article 1: Enforcement Actions and Proceedings In General**
@@ -3158,6 +3218,8 @@ f. No civil or criminal liability or penalty shall attach to any person by reaso
 g. No civil or criminal liability or penalty shall attach to any person by reason of such person's ownership or beneficial ownership of stock in a corporation owning a multiple dwelling declared to be a public nuisance pursuant to subdivision b of this section because of his or her failure to comply with any of the provisions of this code unless and until such person has had a reasonable period of time to comply following his or her having become an owner as defined in this code.
 
 h. No civil or criminal liability or penalty shall attach to any person who shall by operation of law become an owner of a multiple dwelling then or thereafter certified and declared a public nuisance to any extent pursuant to subdivision b of this section, or the holder or beneficial owner of stock in such owner, if a corporation, because of his or her failure to comply with any of the provisions of this code and of the multiple dwelling law for a period of six months after he or she acquired ownership of said multiple dwelling or the stock or beneficial interest in the stock of a corporation which is the owner.
+
+
 
 
 
@@ -3328,6 +3390,8 @@ h. No civil or criminal liability or penalty shall attach to any person who shal
 
 
 
+
+
 **Article 3: Criminal Penalty**
 
 
@@ -3358,6 +3422,8 @@ h. No civil or criminal liability or penalty shall attach to any person who shal
 
 
 Any person (1) who refuses entry, or access to an officer or inspector of the department to any premises or part thereof that the officer or inspector is lawfully authorized to inspect, or who unreasonably interferes with an authorized inspection; or (2) who fails to file any report or other paper which such person is required to file, under this code, except a statement of registration or other paper under article two of subchapter four of this chapter, shall be guilty of an offense, punishable by a fine of not more than fifty dollars, or by imprisonment for not more than thirty days, or by both such fine and imprisonment.
+
+
 
 
 
@@ -3425,6 +3491,8 @@ g. Nothing herein shall affect the validity of inspections authorized and conduc
 
 
 A person who fails to comply with an order issued pursuant to this article by a court of competent jurisdiction or by a judge of such a court shall be punished in accordance with section five thousand one hundred four of the civil practice law and rules and article nineteen of the judiciary law.
+
+
 
 
 
@@ -3516,6 +3584,8 @@ In December 2016 and in each December thereafter, the department shall submit to
 (vii) the number of multiple dwellings with immediately hazardous elevator-related violations that the department ordered corrected; and
 
 (viii) the number of multiple dwellings with immediately hazardous elevator-related violations that were corrected by the department and the cost of such corrections.
+
+
 
 
 
@@ -3640,6 +3710,8 @@ Nothing herein contained shall be deemed to relieve the owner of any civil or cr
 
 
 
+
+
 **Article 7: Vacate Orders**
 
 
@@ -3704,6 +3776,8 @@ b. If the department finds that the conditions rendering a building or part unfi
 c. The department may by regulations set forth standards and provide for hearings to determine when such vacate order should be revoked or extended.
 
 d. The department may require as a condition for revocation of a vacate order, that the owner make reasonable effort to notify any tenants who may have vacated the dwelling pursuant to such order that said tenant has a right to re-occupy the dwelling.
+
+
 
 
 
@@ -3816,6 +3890,8 @@ d. Such receivership shall continue until the amount of such liens and the commi
 
 
 
+
+
 **Article 9: Withdrawal of Single Room Occupancy Dwelling Units from the Rental Market Prohibited**
 
 
@@ -3876,6 +3952,8 @@ g. 1. The city may institute an action in a court of competent jurisdiction for 
    2. The city may make application for the appointment of a receiver in accordance with the procedures contained in article six of this subchapter. Any receiver appointed pursuant to this paragraph shall be authorized, in addition to any other powers conferred by law, to effect compliance with the provisions of this article. Any expenditures incurred by the receiver to effect such compliance shall constitute a debt of the owner and a lien upon the building and lot, and upon the rents and income thereof, in accordance with the procedures contained in such article six. The city in its discretion may provide funds to be expended by the receiver, and such funds shall constitute a debt recoverable from the owner in accordance with article eight of this subchapter.
 
 h. In the event of any inconsistency between the provisions of this article and other provisions of this code the provisions of this article shall control.
+
+
 
 
 
@@ -3989,6 +4067,8 @@ v. No later than July 31, 2012 and every two years thereafter the department sha
 
 Chapter 3: Electrical Code
 --------------------------------------------------
+
+
 
 
 **Subchapter 1: General Provisions and Definitions**
@@ -4651,6 +4731,8 @@ No public utility shall supply electricity to a one, two, three or four family r
 
 
 Except as otherwise provided in this chapter, any person or business who shall violate any of the provisions of this chapter or who shall fail to comply with any requirement thereof or with the electrical code technical standards or who shall violate or fail to comply with any order or rule of the commissioner made thereunder shall, for each and every violation or noncompliance be subject to penalties and other enforcement actions in accordance with the provisions of chapter 2 of title 28 of the administrative code.
+
+
 
 
 

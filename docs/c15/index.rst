@@ -1425,6 +1425,8 @@ Chapter 3: Solid Waste Recycling
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Short Title, Policy and Definitions**
 
 
@@ -1515,6 +1517,8 @@ When used in this chapter:
    vii. hazardous waste as defined in section 27-0901 of the environmental conservation law; and
 
    viii. regulated medical waste or other medical waste as described in section 16-120.1 of this title. "Source separation" means the dividing of solid waste into some or all of its component parts at the point of generation. "Yard waste" means leaves, grass clippings, garden debris, and vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material.
+
+
 
 
 
@@ -1925,6 +1929,8 @@ d. The department shall perform such research and development activities, in coo
 
 
 
+
+
 **Subchapter 3: Recycling Studies**
 
 
@@ -1983,6 +1989,8 @@ a. On or before January 1, 2018, the department, in consultation with the New Yo
 b. On or before July 1, 2018, the department shall report to the mayor and the council and post on its website a summary of its review of voluntary recycling incentive pilot programs. The summary shall include the department’s recommendation regarding implementing a voluntary recycling incentives pilot program to improve the diversion of designated recyclable materials in public housing.
 
 c. If the department determines that a voluntary recycling incentive pilot program is feasible and would be reasonably likely to improve the diversion of designated recyclable materials in public housing, the department shall implement such program by July 1, 2020. Within two years after implementation of such program, the department shall report to the mayor and the council, and post on its website, an assessment of the impact of such program on diversion rates. Such assessment shall include the department’s recommendation on expanding or making such program permanent and any other recommended changes to such program.
+
+
 
 
 
@@ -2083,6 +2091,8 @@ b. When used in this section:
 
 
 
+
+
 **Subchapter 5: City Purchase of Recycled Products [Repealed]**
 
 
@@ -2134,6 +2144,8 @@ f. Any person who violates section 16-329 of this chapter or any rule promulgate
 
 
 
+
+
 **Subchapter 7: Temporary Emergency Recycling Requirements**
 
 
@@ -2150,6 +2162,8 @@ c. Notwithstanding any inconsistent provision of this chapter, during a period o
 d. Notwithstanding any inconsistent provision of this chapter, the department shall not be required to designate additional recyclable materials during any period in which the collection of glass, plastic or beverage cartons as designated recyclable materials, or material designated pursuant to section 16-308 of this chapter, is suspended pursuant to subdivision a or b of this section.
 
 e. The mayor and council shall create a temporary task force in order to develop a long term recycling plan in compliance with the provisions of this chapter. The task force shall be comprised of six mutually agreed upon appointees, three proposed by the mayor and three proposed by the speaker of the council. The task force shall meet on or before July fifteenth, two thousand two and monthly thereafter and issue a report to the mayor and speaker on February twenty-first, two thousand three. The task force shall examine and make recommendations that include steps necessary to improve the efficiency of source separation and collection of recyclable materials; appropriate recycling standards; the identification and development of markets for recyclable materials; the expansion of the New York State Returnable Container Act; and the development and implementation of strategies to educate residents on compliance with the recycling laws.
+
+
 
 
 
@@ -2203,6 +2217,8 @@ d. The provisions of subdivisions a and b of this section shall apply to the spo
 
 
 In addition to any other applicable penalties, any producer/event manager, or any sponsor when there is no producer/event manager, who violates subdivision a or b of section 16-327 of this subchapter shall be liable for a civil penalty of one hundred dollars for each such violation, except that a sponsor or producer/event manager shall not be liable for more than five hundred dollars per day or more than two thousand dollars per street event. Such civil penalties shall be recoverable in a proceeding returnable before the environmental control board.
+
+
 
 
 

@@ -5,6 +5,8 @@ Chapter 2: Police Pension Funds
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: [Police Department, Subchapter One Pension Fund]**
 
 
@@ -329,6 +331,8 @@ e. Subject to the provisions of subdivision g of this section, and notwithstandi
 f. Notwithstanding any other provision of law to the contrary, on July first, nineteen hundred ninety-five, the duties and responsibilities of administering the provisions of this subchapter conferred upon the board of trustees of pension fund, subchapter one by the provisions of this subchapter in effect immediately prior to such date shall be transferred to and assumed by the board of trustees of pension fund, subchapter two.
 
 g. Notwithstanding any other provision of law to the contrary, for all funding or accounting purposes, including but not limited to, the funding or accounting purposes associated with the implementation of the provisions of this section, the provisions of subparagraph (d) of paragraph two of subdivision b of section 13-228 of this chapter or the provisions of paragraph six of subdivision b of such section 13-228 of this chapter or the provisions of paragraph six of subdivision b of such section 13-228, the transfer of certain assets or liabilities to pension fund, subchapter two as required by subdivision b, d or e of this section to be made on July first, nineteen hundred ninety-five shall be deemed to have been made on July first, nineteen hundred ninety-four, and the payment of certain moneys to the general fund of the city as required by subdivision c of this section to be made on and after July first, nineteen hundred ninety-five shall be deemed to have been made on and after July first, nineteen hundred ninety-four.
+
+
 
 
 
@@ -2389,6 +2393,8 @@ i. Nothing contained in this section shall be construed as affecting in any way 
 
 
 
+
+
 **Subchapter 3: [Police officer's Variable Supplements Fund]**
 
 
@@ -2680,6 +2686,8 @@ The superintendent of insurance may examine the affairs of the variable suppleme
 
 
 
+
+
 **Subchapter 4: [Police Superior officers' Variable Supplements Fund]**
 
 
@@ -2950,6 +2958,8 @@ Chapter 5: Miscellaneous Pension and Retirement Provisions
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Relief and Pension Fund of the Department Of Street Cleaning**
 
 
@@ -3155,6 +3165,8 @@ e. The privilege of electing to become a member of the New York city employees' 
 
 
 
+
+
 **Subchapter 2: Hunter College Retirement System of the City Of New York**
 
 
@@ -3163,6 +3175,8 @@ e. The privilege of electing to become a member of the New York city employees' 
 
 
 Notwithstanding anything to the contrary in this code, on the first day of July nineteen hundred thirty-eight, the administration of the funds of the Hunter college retirement system as provided for in this code shall be transferred to the teachers' retirement board of the teachers' retirement system of the city of New York as provided for in chapter four of this title, and all cash and securities, and other assets held by the Hunter college retirement system shall be transferred and merged with the assets held by the teachers' retirement system of the city of New York, the reserves in the annuity savings fund, the annuity reserve fund, the contingent reserve fund, the pension reserve fund number one, and the pension reserve fund number two being credited to the corresponding funds of the same name of the teachers' retirement system. All appropriations made for the Hunter college retirement system shall be transferred to the credit of the teachers' retirement system. The equities in the funds of the Hunter college retirement system, which are held by the members of such system as of the thirtieth day of June, nineteen hundred thirty-eight, shall not in anywise be impaired by such transfer and the funds so transferred shall continue to be held in trust in the teachers' retirement system for the payment of the benefits to such members for which they were set aside. On the first day of July, nineteen hundred thirty-eight, all contributors of the Hunter college retirement system shall become and shall thereafter be contributors of the teachers' retirement system and members of the teachers' retirement association as constituted by section 13-503 of this title. The present-teachers of the Hunter college retirement system shall become and shall thereafter be present-teachers of the teachers' retirement system, and the new-entrants of the Hunter college retirement system shall become and shall thereafter be new-entrants of the teachers' retirement system, with all the rights and privileges of their respective classifications as provided in chapter four of this title, with the same force and effect as if they had originally been contributors of the teachers' retirement system and members of the teachers' retirement association. All those who now are present-teachers of the Hunter college retirement system, upon becoming contributors of the teachers' retirement system and members of the teachers' retirement association as provided in this section, shall, notwithstanding anything to the contrary in chapter four of this title, continue to have all the rights and privileges to which they were entitled under the provisions of law in existence at the time of the merger. All those who were entitled to prior service credit in the Hunter college retirement system with prior service certificates issued to them before the first day of July, nineteen hundred thirty-eight, shall be entitled to such prior service as was granted in the prior service certificates issued by the Hunter college retirement board, without increase or decrease, and all such certificates are hereby validated and confirmed, to the same extent and with the same effect as if issued pursuant to express authority of law. All beneficiaries of the Hunter college retirement system as of the thirtieth day of June, nineteen hundred thirty-eight, shall continue to receive their retirement allowances thereafter in the same manner, amount, and form, from the corresponding fund or funds of the teachers' retirement system as that from which their benefits were paid from the Hunter college retirement system. The purpose of this act is to unify and simplify the retirement of members of the educational institutions of New York city, and after the respective reports of the teachers' retirement board and the Hunter college retirement board for the period including the thirtieth day of June, nineteen hundred thirty-eight, which reports shall include a complete statement as to the merger, no special reports shall thereafter be required concerning the membership of the Hunter college retirement system transferred to the teachers' retirement system. After the thirtieth day of June, nineteen hundred thirty-eight, the Hunter college retirement board shall cease to function, and all the duties of such board shall thereafter be performed by the teachers' retirement board.
+
+
 
 
 
@@ -3330,6 +3344,8 @@ The right of a person to a pension, allowance, benefit, grant, award or payment 
 
 
 All pensions, allowances, benefits, grants, awards or payments and any other benefits heretofore or hereafter granted under the provisions of the health department pension fund or of this subchapter, are hereby made obligations of the city.
+
+
 
 
 
@@ -5254,6 +5270,8 @@ Notwithstanding any other provision of law to the contrary, the New York city em
 
 
 
+
+
 **Subchapter 5: Retirement By Board of Estimate**
 
 
@@ -5307,7 +5325,11 @@ This subchapter shall not apply to any person who is, or may be, entitled to sha
 
 
 
+
+
 **Subchapter 6: Supplemental Pensions**
+
+
 
 
 **Article 1: [Supplemental Retirement Allowances For Certain City Retirees]**
@@ -5424,6 +5446,8 @@ The comptroller may require any agency of the city to furnish him or her with su
 
 
 No monies belonging to any retirement or pension system or plan shall be appropriated or used for any purpose, or for any payment authorized or required by this article.
+
+
 
 
 
@@ -5618,6 +5642,8 @@ The supplemental retirement allowances provided pursuant to this article shall n
 
 
 
+
+
 **Article 3: [Supplemental Retirement Allowances For Certain Police Retirees]**
 
 
@@ -5723,6 +5749,8 @@ The supplemental retirement allowances provided pursuant to this article shall n
 
 
 
+
+
 **Article 4: [Supplemental Retirement Allowances For Certain Fire Retirees]**
 
 
@@ -5823,6 +5851,8 @@ No monies belonging to any retirement or pension system or plan shall be appropr
 
 
 The supplemental retirement allowances provided pursuant to this article shall not constitute membership in a pension or retirement system, nor shall the granting of such allowances create a contractual relationship between the city and any fire retired employee. The payments authorized under this article shall not be retroactive.
+
+
 
 
 
@@ -6135,6 +6165,8 @@ e. The provisions of this section shall apply to supplemental retirement allowan
 
 
 
+
+
 **Article 6: Supplemental Retirement Allowances For Certain Police Or Fire Line-of-duty Widows Or Dependents, Based On the Cost-of-living Index**
 
 
@@ -6237,6 +6269,8 @@ b.*   Notwithstanding any other provision of law to the contrary, on and afte
 
 
 The comptroller shall have authority to require any department or agency of the city to furnish him or her with such records, information and data as he or she may need to carry out the provisions of this article.
+
+
 
 
 
@@ -6472,6 +6506,8 @@ b. On or before the last day of each month with respect to which an additional s
 
 
 The comptroller shall have authority to require any department or agency of the city to furnish him or her with such records, information and data as he or she may need to carry out the provisions of this article.
+
+
 
 
 

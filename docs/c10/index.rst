@@ -802,6 +802,8 @@ Chapter 2: Real Property Assessment, Taxation and Charges
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Assessment On Real Property**
 
 
@@ -1618,6 +1620,8 @@ e. Cessation of use. In the event that a property granted an exemption from taxa
    c. Notwithstanding paragraphs a and b of this subdivision, in the event that the total square footage of the improvements on the affected real property appearing on any assessment roll completed from two thousand fourteen to two thousand twenty exceeds the total square footage of the improvements on the property appearing on the assessment roll completed in two thousand twelve, the amount of the aggregate physical increase shall not exceed the amount computed by multiplying the sum of the physical increases as calculated subject to this subdivision by a fraction, the numerator of which is equal to the amount of the total square footage of the improvements on the property for the current assessment roll, and the denominator of which is equal to the amount of the total square footage of the improvements on the property for the assessment roll completed in two thousand twelve. For purposes of this paragraph, if improvements on the property located below grade were not included in the total square footage of the improvements on the property for the assessment roll completed in two thousand twelve, such improvements shall not be included in the total square footage for subsequent assessment rolls if the improvements were moved above grade or other building elevations were constructed on the property to prevent or mitigate flooding as part of reconstruction or repair in connection with the damage caused by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve.
 
 5. Rulemaking. The commissioner of finance shall be authorized to promulgate rules necessary to effectuate the purposes of this section.
+
+
 
 
 
@@ -11677,6 +11681,8 @@ Chapter 17: City Personal Income Tax On Residents
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: General**
 
 
@@ -12889,6 +12895,8 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 
+
+
 **Subchapter 2: Residents**
 
 
@@ -13646,6 +13654,8 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
+
+
 **Subchapter 3: Returns and Payment of Tax**
 
 
@@ -13935,6 +13945,8 @@ Any election expressly authorized by this chapter may be changed on such terms a
 
 
 
+
+
 **Subchapter 4: Withholding of Tax**
 
 
@@ -14103,6 +14115,8 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 (b) Funds supplied to employer by third parties. If a lender, surety or other person supplies funds to or for the account of an employer for the specific purpose of paying wages of the employees of such employer, with actual notice or knowledge that such employer does not intend to or will not be able to make timely payment or deposit of the amounts of tax required by this chapter to be deducted and withheld by such employer from such wages, such lender, surety or other person shall be liable for the amount of the taxes (together with interest) which are not paid over to the tax commission by such employer with respect to such wages. However, the liability of such lender, surety or other person shall be limited to an amount equal to twenty-five percent of the amount so supplied to or for the account of such employer for such purpose.
 
 (c) Effect of payment. Any amounts paid to the tax commission pursuant to this section shall be credited against the liability of the employer.
+
+
 
 
 
@@ -14932,6 +14946,8 @@ Chapter 19: Earnings Tax On Nonresidents
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: General**
 
 
@@ -15205,6 +15221,8 @@ The state tax commission may require:
 
 
 
+
+
 **Subchapter 2: Returns and Payment of Tax**
 
 
@@ -15309,6 +15327,8 @@ A person required to make and file a return under this chapter shall, without as
 
 
 If the amount of a taxpayer's federal or New York state taxable income or self-employment income reported on his or her federal or New York state tax return for any taxable year is changed or corrected by the United States internal revenue service or the New York state commissioner of taxation and finance or other competent authority, or as the result of a renegotiation of a contract or subcontract with the United States or New York state or if a taxpayer, pursuant to subsection (d) of section six thousand two hundred thirteen of the internal revenue code, executes a notice of waiver of the restrictions provided in subsection (a) of said section or if a taxpayer, pursuant to subdivision (f) of section six hundred eighty-one of the tax law executes a notice of waiver of the restrictions provided in subdivision (c) of said section, or if any tax on self-employment income in addition to that shown on his or her return is assessed, the taxpayer shall report such change or correction in federal or New York state taxable income or such execution of such notice of waiver or such assessment and the changes or corrections of his or her federal or New York state taxable income or self-employment income on which it is based, within ninety days after the final determination of such change, correction, or renegotiation, or such execution of such notice of waiver or the making of such assessment as otherwise required by the commissioner, and shall concede the accuracy of such determination or state wherein it is erroneous. Any taxpayer filing an amended federal or New York state income or self-employment income tax return shall also file within ninety days thereafter an amended return under this chapter, and shall give such information as the commissioner may require. The commissioner may by regulation prescribe such exceptions to the requirements of this section as he or she deems appropriate. For purposes of this section, (i) the term "taxpayer" shall include a partnership having any income derived from city sources, and (ii) the term "federal income tax return" shall include the returns of income required under section six thousand thirty-one of the internal revenue code. Reports made under this section by a partnership shall indicate the portion of the change in each item of income, gain, loss or deduction allocable to each partner and shall set forth such identifying information with respect to such partner as may be prescribed by the commissioner.
+
+
 
 
 
@@ -15872,6 +15892,8 @@ Chapter 20: Sales, Excise and Related Taxes
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: General Sales and Compensating Use Taxes**
 
 
@@ -15928,6 +15950,8 @@ Chapter 20: Sales, Excise and Related Taxes
 (e) Net collections from the taxes imposed by this section paid to this city by the state comptroller shall be credited to and deposited in the general fund of this city, but no part of such revenues may be expended unless appropriated in the annual budget of this city.
 
 (f) If any provision of this section or the application thereof shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this section but shall be confined in its operation to the provision thereof directly involved in the controversy in which such judgment shall have been rendered and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+
 
 
 
@@ -16072,6 +16096,8 @@ This subchapter shall take effect September first, nineteen hundred seventy-five
 
 
 
+
+
 **Subchapter 4: Additional Parking Tax**
 
 
@@ -16192,6 +16218,8 @@ The taxes imposed by this subchapter shall be paid with respect to receipts from
 
 
 This subchapter shall be construed and enforced in conformity with articles twenty-eight and twenty-nine of the tax law of the state of New York pursuant to which it is enacted.
+
+
 
 
 

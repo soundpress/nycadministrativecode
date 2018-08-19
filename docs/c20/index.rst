@@ -1,6 +1,257 @@
 Title 20: Consumer Affairs
 ===================================================
 
+Chapter 3: Weights and Measures
+--------------------------------------------------
+
+
+
+*§ 20-571 Fees.* ::
+
+
+All fees for permits issued by the department shall be paid to the department.
+
+
+
+
+
+
+*§ 20-572 Transfers of permits or licenses.* ::
+
+
+Written approval of the commissioner shall be required for the transfer or assignment of any permit or license under his or her jurisdiction.
+
+
+
+
+
+
+*§ 20-573 Adjustment of controversies.* ::
+
+
+The commissioner of ports and trade may adjust and settle any claims and controversies in regard to rents and other matters which appertain to leases of market lands.
+
+
+
+
+
+
+*§ 20-574 Rules and regulations.* ::
+
+
+a. The commissioner shall have power to adopt and amend such rules and regulations as may be necessary to carry out his or her powers and duties pursuant to this chapter.
+
+b. Punishment. Any person who shall violate any such rules and regulations shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
+
+c. Violations. Any person who shall violate any of such rules and regulations shall be guilty of an offense triable by a judge of the New York city criminal court, and punishable by a fine of not less than twenty-five dollars and not more than two hundred fifty dollars for each offense or by imprisonment not exceeding ten days, or by both.
+
+
+
+
+
+
+*§ 20-575 Waterfront property adjoining market lands; highways through or bounding market places.* ::
+
+
+Nothing contained in this chapter shall interfere with the jurisdiction of the department of ports and trade over any waterfront property in and around any market lands, nor with the jurisdiction of the commissioner of transportation over market lands, insofar as it concerns his or her powers over highways.
+
+
+
+
+
+
+*§ 20-576 City sealer.* ::
+
+
+The commissioner, or such officer or employee in the department as he or she may designate, shall have all of the powers and perform all of the duties of a sealer of weights and measures pursuant to section one hundred eighty of the agriculture and markets law.
+
+
+
+
+
+
+*§ 20-577 Inspectors of markets, weights and measures.* ::
+
+
+a. The commissioner shall have power and it shall be his or her duty to appoint a chief inspector of markets, weights and measures and inspectors of markets, weights and measures. The title of inspectors of live poultry and weighmasters shall be abolished and all persons occupying those titles shall henceforth have the title of inspector of markets, weights and measures, with all the powers and duties of that title. Wherever any reference to the title or duties of inspector of live poultry or weighmaster appears in this code, the title or duties of inspector of markets, weights and measures shall be substituted therefor.
+
+b. Each inspector is hereby authorized and empowered, subject to the regulations of the department, to enforce any law, rule or regulation pertaining to the weights and dimensions of vehicles and to proceed under the provisions of article one hundred fifty of the criminal procedure law, in the same manner and with like force and effect as a police officer in respect to procuring, countersigning and serving the appearance tickets referred to therein in cases arising out of the enforcement of any such law, rule or regulation.
+
+
+
+
+
+
+*§ 20-578 Bureau of weights and measures.* ::
+
+
+There shall be a bureau of weights and measures in the department under the supervision of the chief inspector of weights and measures.
+
+
+
+
+
+
+*§ 20-579 Employees not to engage in business.* ::
+
+
+It shall be unlawful for the commissioner or any officer or employee of such bureau, to engage in the business of manufacturing, vending or selling any weighing or measuring device, under the penalty of fifty dollars for each offense.
+
+
+
+
+
+
+*§ 20-580 Return of department property.* ::
+
+
+Whenever any inspector shall resign or be removed from office, he or she shall deliver at the office of the commissioner all the standard weights and measures and other official property in his or her possession.
+
+
+
+
+
+
+*§ 20-581 Inspecting.* ::
+
+
+a. Each inspector of markets, weights and measures is hereby authorized to inspect, examine, test and seal at least once in each year, and as often as the commissioner may deem proper, all weighing and measuring devices. Upon the written request of any resident of the city, the commissioner shall test or cause to be tested, within a reasonable time after the receipt of such request, the weighing or measuring devices used in buying or selling by the person making such request. All such appliances shall be marked by the inspector with the initials of his or her name and the date on which the same shall be sealed and marked.
+
+b. Such books shall be open for inspection at all reasonable times to any police officer, inspector or person duly authorized by the commissioner, or by any judge of the criminal court of the city of New York.
+
+
+
+
+
+
+*§ 20-582 Reports of inspectors.* ::
+
+
+Each inspector shall report promptly to the commissioner the names of all persons whose weighing and measuring devices shall be found to be incorrect. Each inspector shall file a daily report with the commissioner, and make such other and further reports and keep such further records as may be required, from time to time, by the commissioner.
+
+
+
+
+
+
+*§ 20-583 Certificate of inspection.* ::
+
+
+Each inspector shall furnish a certificate to the owner of the weights or measures inspected, and shall keep a record of each certificate given on a corresponding stub. The certificates and corresponding stubs shall be numbered consecutively. The books containing the stubs, after the corresponding certificates have been given out, shall be a public record. The commissioner, when required, shall certify extracts from such records.
+
+
+
+
+
+
+*§ 20-584 Testing, sealing and marking.* ::
+
+
+It shall be unlawful to use any weighing or measuring device unless the same shall have been tested, sealed and marked by the commissioner or an inspector of such bureau.
+
+
+
+
+
+
+*§ 20-585 Standard measures and containers.* ::
+
+
+It shall be unlawful to manufacture, construct, sell, offer for sale, or give away, any dry or liquid measure, or any barrel, pail, basket, vessel, or container, intended to be used in the purchase or sale of any commodity or article of merchandise, unless it shall be so constructed as to conform to the standards provided by article sixteen of the agriculture and markets law. It shall be unlawful for any person to use any barrel, cask, pail, basket, vessel or container, in the purchase or sale of any commodity or article of merchandise, unless it shall conform to such standards.
+
+
+
+
+
+
+*§ 20-586 Sale of weights and measures.* ::
+
+
+It shall be unlawful to sell, offer for sale, or give away any weighing or measuring devices or the tools, appliances or accessories connected therewith, intended to be used for the purchase or sale of any commodity or article of merchandise, or for public weighing, unless the type or types of such weighing or measuring devices, or the tools, appliances or accessories connected therewith, with specifications as to construction, shall have been submitted to and approved by the commissioner. The commissioner, when such types are approved, shall designate and identify them by a serial number. A record of the serial numbers and the persons to whom such numbers are assigned shall be kept in the office of the commissioner. The commissioner shall keep a register of the name of each person whose weighing or measuring devices have been inspected, together with their serial numbers and size, and whether approved or condemned, with the date of inspection. Such record shall be a public record.
+
+
+
+
+
+
+*§ 20-587 Sale by true weight or measure required.* ::
+
+
+It shall be unlawful to sell or offer for sale any commodity or article of merchandise, at or for a greater weight or measure than the true weight or measure thereof; for the purposes of this section the true weight of frozen poultry, shall be the net weight thereof exclusive of any food product or substance added or combined therewith; and all such commodities and articles of merchandise shall be weighed or measured by duly tested devices, sealed and marked by the commissioner or an inspector of the bureau; provided, that vegetables may be sold by the head or bunch.
+
+
+
+
+
+
+*§ 20-588 Confiscation of false weights or measures.* ::
+
+
+Any weight which upon being tested is found to be short a quarter of an ounce or more; or any scale of a capacity greater than four hundred pounds, which upon being tested, is found to be short in weight by a quarter of a pound or more; or any scale of a capacity of between two hundred forty and four hundred pounds, which upon being tested is found to be short two ounces or more; or any scale of a capacity greater than four hundred pounds, which upon being tested, is found to be short five ounces or more; or any scale which is in an unfit condition to be used by being worn out, badly rusted, or by any other cause; or any measure or utensil being used in the sale or purchase of any commodity or article of merchandise, which does not conform to the standards provided by article sixteen of the agriculture and markets law, may be summarily confiscated and destroyed by the commissioner or an inspector of the bureau.
+
+
+
+
+
+
+*§ 20-589 Alteration of tested appliances.* ::
+
+
+It shall be unlawful to render inaccurate, any device, to be used in weighing or measuring any commodity or article of merchandise, after such device has been tested, sealed and marked by the commissioner or an inspector of the bureau.
+
+
+
+
+
+
+*§ 20-590 Repair of inaccurate appliances.* ::
+
+
+Within five days after the condemnation of a weighing or measuring device, the owner thereof, at his or her own expense, shall cause the same to be conformed to the standards established by article sixteen of the agriculture and markets law, and within twenty-four hours thereof, shall cause notice, in writing, of such alteration to be mailed or served personally upon such bureau. The seal upon any such device shall remain affixed and unbroken unless removed pursuant to section one hundred eighty-three of the agriculture and markets law.
+
+
+
+
+
+
+*§ 20-591 Interference with inspectors.* ::
+
+
+It shall be unlawful for any person to obstruct, hinder or molest the commissioner or any inspector of the bureau in the performance of his or her duties.
+
+
+
+
+
+
+*§ 20-592 Violations; report of.* ::
+
+
+The commissioner shall report forthwith to the corporation counsel the names and places of business of all persons violating the provisions of this chapter, and of all persons making use of any fraudulent or unsealed weighing or measuring devices.
+
+
+
+
+
+
+*§ 20-593 Punishment.* ::
+
+
+Any person who shall violate any of the foregoing provisions for the regulation of weights and measures shall forfeit and pay a penalty of one hundred dollars for each and every such offense.
+
+
+
+
+
+
+*§ 20-594 Violations.* ::
+
+
+Any person violating any of the provisions of sections 20-583 through 20-593 of this chapter, shall be guilty of an offense triable by a judge of the New York city criminal court, and upon conviction thereof, shall be fined the sum of not less than twenty-five dollars and not more than two hundred fifty dollars for each offense, or by imprisonment not exceeding ten days, or by both.
+
+
+
+
 Chapter 1: License Enforcement
 --------------------------------------------------
 
@@ -330,259 +581,10 @@ Editor's note: the local law that enacted the above § 20-119 shall expire and b
 
 
 
-Chapter 3: Weights and Measures
---------------------------------------------------
-
-
-
-*§ 20-571 Fees.* ::
-
-
-All fees for permits issued by the department shall be paid to the department.
-
-
-
-
-
-
-*§ 20-572 Transfers of permits or licenses.* ::
-
-
-Written approval of the commissioner shall be required for the transfer or assignment of any permit or license under his or her jurisdiction.
-
-
-
-
-
-
-*§ 20-573 Adjustment of controversies.* ::
-
-
-The commissioner of ports and trade may adjust and settle any claims and controversies in regard to rents and other matters which appertain to leases of market lands.
-
-
-
-
-
-
-*§ 20-574 Rules and regulations.* ::
-
-
-a. The commissioner shall have power to adopt and amend such rules and regulations as may be necessary to carry out his or her powers and duties pursuant to this chapter.
-
-b. Punishment. Any person who shall violate any such rules and regulations shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
-
-c. Violations. Any person who shall violate any of such rules and regulations shall be guilty of an offense triable by a judge of the New York city criminal court, and punishable by a fine of not less than twenty-five dollars and not more than two hundred fifty dollars for each offense or by imprisonment not exceeding ten days, or by both.
-
-
-
-
-
-
-*§ 20-575 Waterfront property adjoining market lands; highways through or bounding market places.* ::
-
-
-Nothing contained in this chapter shall interfere with the jurisdiction of the department of ports and trade over any waterfront property in and around any market lands, nor with the jurisdiction of the commissioner of transportation over market lands, insofar as it concerns his or her powers over highways.
-
-
-
-
-
-
-*§ 20-576 City sealer.* ::
-
-
-The commissioner, or such officer or employee in the department as he or she may designate, shall have all of the powers and perform all of the duties of a sealer of weights and measures pursuant to section one hundred eighty of the agriculture and markets law.
-
-
-
-
-
-
-*§ 20-577 Inspectors of markets, weights and measures.* ::
-
-
-a. The commissioner shall have power and it shall be his or her duty to appoint a chief inspector of markets, weights and measures and inspectors of markets, weights and measures. The title of inspectors of live poultry and weighmasters shall be abolished and all persons occupying those titles shall henceforth have the title of inspector of markets, weights and measures, with all the powers and duties of that title. Wherever any reference to the title or duties of inspector of live poultry or weighmaster appears in this code, the title or duties of inspector of markets, weights and measures shall be substituted therefor.
-
-b. Each inspector is hereby authorized and empowered, subject to the regulations of the department, to enforce any law, rule or regulation pertaining to the weights and dimensions of vehicles and to proceed under the provisions of article one hundred fifty of the criminal procedure law, in the same manner and with like force and effect as a police officer in respect to procuring, countersigning and serving the appearance tickets referred to therein in cases arising out of the enforcement of any such law, rule or regulation.
-
-
-
-
-
-
-*§ 20-578 Bureau of weights and measures.* ::
-
-
-There shall be a bureau of weights and measures in the department under the supervision of the chief inspector of weights and measures.
-
-
-
-
-
-
-*§ 20-579 Employees not to engage in business.* ::
-
-
-It shall be unlawful for the commissioner or any officer or employee of such bureau, to engage in the business of manufacturing, vending or selling any weighing or measuring device, under the penalty of fifty dollars for each offense.
-
-
-
-
-
-
-*§ 20-580 Return of department property.* ::
-
-
-Whenever any inspector shall resign or be removed from office, he or she shall deliver at the office of the commissioner all the standard weights and measures and other official property in his or her possession.
-
-
-
-
-
-
-*§ 20-581 Inspecting.* ::
-
-
-a. Each inspector of markets, weights and measures is hereby authorized to inspect, examine, test and seal at least once in each year, and as often as the commissioner may deem proper, all weighing and measuring devices. Upon the written request of any resident of the city, the commissioner shall test or cause to be tested, within a reasonable time after the receipt of such request, the weighing or measuring devices used in buying or selling by the person making such request. All such appliances shall be marked by the inspector with the initials of his or her name and the date on which the same shall be sealed and marked.
-
-b. Such books shall be open for inspection at all reasonable times to any police officer, inspector or person duly authorized by the commissioner, or by any judge of the criminal court of the city of New York.
-
-
-
-
-
-
-*§ 20-582 Reports of inspectors.* ::
-
-
-Each inspector shall report promptly to the commissioner the names of all persons whose weighing and measuring devices shall be found to be incorrect. Each inspector shall file a daily report with the commissioner, and make such other and further reports and keep such further records as may be required, from time to time, by the commissioner.
-
-
-
-
-
-
-*§ 20-583 Certificate of inspection.* ::
-
-
-Each inspector shall furnish a certificate to the owner of the weights or measures inspected, and shall keep a record of each certificate given on a corresponding stub. The certificates and corresponding stubs shall be numbered consecutively. The books containing the stubs, after the corresponding certificates have been given out, shall be a public record. The commissioner, when required, shall certify extracts from such records.
-
-
-
-
-
-
-*§ 20-584 Testing, sealing and marking.* ::
-
-
-It shall be unlawful to use any weighing or measuring device unless the same shall have been tested, sealed and marked by the commissioner or an inspector of such bureau.
-
-
-
-
-
-
-*§ 20-585 Standard measures and containers.* ::
-
-
-It shall be unlawful to manufacture, construct, sell, offer for sale, or give away, any dry or liquid measure, or any barrel, pail, basket, vessel, or container, intended to be used in the purchase or sale of any commodity or article of merchandise, unless it shall be so constructed as to conform to the standards provided by article sixteen of the agriculture and markets law. It shall be unlawful for any person to use any barrel, cask, pail, basket, vessel or container, in the purchase or sale of any commodity or article of merchandise, unless it shall conform to such standards.
-
-
-
-
-
-
-*§ 20-586 Sale of weights and measures.* ::
-
-
-It shall be unlawful to sell, offer for sale, or give away any weighing or measuring devices or the tools, appliances or accessories connected therewith, intended to be used for the purchase or sale of any commodity or article of merchandise, or for public weighing, unless the type or types of such weighing or measuring devices, or the tools, appliances or accessories connected therewith, with specifications as to construction, shall have been submitted to and approved by the commissioner. The commissioner, when such types are approved, shall designate and identify them by a serial number. A record of the serial numbers and the persons to whom such numbers are assigned shall be kept in the office of the commissioner. The commissioner shall keep a register of the name of each person whose weighing or measuring devices have been inspected, together with their serial numbers and size, and whether approved or condemned, with the date of inspection. Such record shall be a public record.
-
-
-
-
-
-
-*§ 20-587 Sale by true weight or measure required.* ::
-
-
-It shall be unlawful to sell or offer for sale any commodity or article of merchandise, at or for a greater weight or measure than the true weight or measure thereof; for the purposes of this section the true weight of frozen poultry, shall be the net weight thereof exclusive of any food product or substance added or combined therewith; and all such commodities and articles of merchandise shall be weighed or measured by duly tested devices, sealed and marked by the commissioner or an inspector of the bureau; provided, that vegetables may be sold by the head or bunch.
-
-
-
-
-
-
-*§ 20-588 Confiscation of false weights or measures.* ::
-
-
-Any weight which upon being tested is found to be short a quarter of an ounce or more; or any scale of a capacity greater than four hundred pounds, which upon being tested, is found to be short in weight by a quarter of a pound or more; or any scale of a capacity of between two hundred forty and four hundred pounds, which upon being tested is found to be short two ounces or more; or any scale of a capacity greater than four hundred pounds, which upon being tested, is found to be short five ounces or more; or any scale which is in an unfit condition to be used by being worn out, badly rusted, or by any other cause; or any measure or utensil being used in the sale or purchase of any commodity or article of merchandise, which does not conform to the standards provided by article sixteen of the agriculture and markets law, may be summarily confiscated and destroyed by the commissioner or an inspector of the bureau.
-
-
-
-
-
-
-*§ 20-589 Alteration of tested appliances.* ::
-
-
-It shall be unlawful to render inaccurate, any device, to be used in weighing or measuring any commodity or article of merchandise, after such device has been tested, sealed and marked by the commissioner or an inspector of the bureau.
-
-
-
-
-
-
-*§ 20-590 Repair of inaccurate appliances.* ::
-
-
-Within five days after the condemnation of a weighing or measuring device, the owner thereof, at his or her own expense, shall cause the same to be conformed to the standards established by article sixteen of the agriculture and markets law, and within twenty-four hours thereof, shall cause notice, in writing, of such alteration to be mailed or served personally upon such bureau. The seal upon any such device shall remain affixed and unbroken unless removed pursuant to section one hundred eighty-three of the agriculture and markets law.
-
-
-
-
-
-
-*§ 20-591 Interference with inspectors.* ::
-
-
-It shall be unlawful for any person to obstruct, hinder or molest the commissioner or any inspector of the bureau in the performance of his or her duties.
-
-
-
-
-
-
-*§ 20-592 Violations; report of.* ::
-
-
-The commissioner shall report forthwith to the corporation counsel the names and places of business of all persons violating the provisions of this chapter, and of all persons making use of any fraudulent or unsealed weighing or measuring devices.
-
-
-
-
-
-
-*§ 20-593 Punishment.* ::
-
-
-Any person who shall violate any of the foregoing provisions for the regulation of weights and measures shall forfeit and pay a penalty of one hundred dollars for each and every such offense.
-
-
-
-
-
-
-*§ 20-594 Violations.* ::
-
-
-Any person violating any of the provisions of sections 20-583 through 20-593 of this chapter, shall be guilty of an offense triable by a judge of the New York city criminal court, and upon conviction thereof, shall be fined the sum of not less than twenty-five dollars and not more than two hundred fifty dollars for each offense, or by imprisonment not exceeding ten days, or by both.
-
-
-
-
 Chapter 4: Regulation of Commodities and Services
 --------------------------------------------------
+
+
 
 
 **Subchapter 1: Dealers In Second-hand Weighing Or Measuring Devices**
@@ -682,6 +684,8 @@ Any person violating any of the provisions of this subchapter, upon conviction t
 
 
 
+
+
 **Subchapter 2: Charcoal**
 
 
@@ -702,6 +706,8 @@ All charcoal and charcoal briquettes shall be sold by weight and each container 
 (a) Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars ($100) for each violation.
 
 (b) Any person who shall violate any of the provisions of this subchapter shall be guilty of an offense punishable by a fine of not less than twenty-five dollars ($25) nor more than two hundred fifty dollars ($250) for each offense, or by imprisonment for not less than thirty (30) days, or both.
+
+
 
 
 
@@ -800,6 +806,8 @@ The commissioner may make and promulgate such rules and regulations as he or she
 
 
 
+
+
 **Subchapter 3: Language Assistance Services In Pharmacies***
 
 
@@ -889,6 +897,8 @@ b. All such proceedings shall be commenced by the service of a notice of violati
 
 
 
+
+
 **Subchapter 4: Hamburgers and Chopped Meat**
 
 
@@ -937,6 +947,8 @@ All meats purchased, whether prepackaged or cut to order, and then requested by 
 
 
 A violation of any of the provisions of this subchapter shall be punishable by a fine of not less than twenty-five dollars nor more than two hundred fifty dollars for each offense, or by imprisonment not in excess of ten days, or both.
+
+
 
 
 
@@ -1177,6 +1189,8 @@ The commissioner shall have the authority to promulgate such rules and regulatio
 
 
 
+
+
 **Subchapter 6: Sale of Meats**
 
 
@@ -1248,6 +1262,8 @@ All pickled, pumped and cured meat and meat products shall be labeled as to net 
 
 
 
+
+
 **Subchapter 7: Sale of Prepackaged Meat**
 
 
@@ -1268,6 +1284,8 @@ b. A sign shall be posted at the point of display of any prepackaged unprocessed
 
 
 Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than five hundred dollars for each violation.
+
+
 
 
 
@@ -1328,6 +1346,8 @@ Any person, firm, corporation or association or agent or employee thereof, who s
 
 
 
+
+
 **Subchapter 9: Water Saving Plumbing Fixtures**
 
 
@@ -1354,6 +1374,8 @@ Any person, firm, corporation or association or agent or employee thereof, who s
 
 
 Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than five hundred dollars for each violation.
+
+
 
 
 
@@ -1404,6 +1426,8 @@ The commissioner shall promulgate such rules and regulations as he or she shall 
 
 
 
+
+
 **Subchapter 10: thermal-shock Protection Devices**
 
 
@@ -1427,6 +1451,8 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 
 
 
+
+
 **Subchapter 11: Gauges Utilizing Mercury**
 
 
@@ -1445,6 +1471,8 @@ It shall be unlawful for any person to distribute, sell or offer for sale any ga
 
 
 Any person who shall violate any of the provisions of this subchapter shall be subject to a civil penalty of not less than two hundred fifty dollars nor more than one thousand dollars for each violation.
+
+
 
 
 
@@ -1554,6 +1582,8 @@ Notwithstanding any other provision of law, the department shall be authorized, 
 
 Chapter 5: Unfair Trade Practices
 --------------------------------------------------
+
+
 
 
 **Subchapter 1: Consumer Protection Law**
@@ -1729,6 +1759,8 @@ By December 1, 2016, the commissioner, in consultation with the commission on ge
 
 
 
+
+
 **Subchapter 2: Truth-in-pricing Law**
 
 
@@ -1882,6 +1914,8 @@ Any person who shall violate the provisions of section 20-708 or section 20-709 
 
 
 
+
+
 **Subchapter 3: Posting of Prescription Drug Prices and Notices**
 
 
@@ -1938,6 +1972,8 @@ Any pharmacy that does not sell emergency contraception must conspicuously post,
 
 
 Any person who shall violate the provisions of section 20-713, section 20-713.1, or regulations promulgated pursuant to this subchapter shall pay a civil penalty of not less than two hundred fifty dollars nor more than five hundred dollars for the first offense and for each succeeding offense a penalty of not less than five hundred dollars nor more than seven hundred fifty dollars for each such violation and shall, upon conviction thereof, be punished by a fine of not less than two hundred fifty dollars nor more than five hundred dollars for the first offense and for each succeeding offense a fine of not less than five hundred dollars nor more than seven hundred fifty dollars for each such violation. For the purposes of this section, if on any single day the current selling price list is not displayed in accordance with section 20-713 or regulations promulgated pursuant to this subchapter, or the required signage is not displayed in accordance with section 20-713.1 or regulations promulgated pursuant to this subchapter, it shall be considered a single violation.
+
+
 
 
 
@@ -2019,6 +2055,8 @@ Any person who advertises a room air conditioner for sale in the city shall incl
 
 
 Any person or agent or employee thereof who shall violate any provision of this subchapter or of the regulations promulgated pursuant thereto shall be subject to a civil penalty of not less than twenty-five dollars nor more than two hundred fifty dollars for each day in which a violation occurs.
+
+
 
 
 
@@ -2233,6 +2271,8 @@ Any person, firm, corporation or association or agent or employee thereof, who s
 
 
 
+
+
 **Subchapter 6: Availability For Sale of Advertised Merchandise**
 
 
@@ -2261,6 +2301,8 @@ Violation of this subchapter or any rule or regulation promulgated thereunder, s
 
 
 The commissioner may adopt such rules and regulations as may be necessary to effectuate the purposes of this subchapter.
+
+
 
 
 
@@ -2412,6 +2454,8 @@ The commissioner shall promulgate rules and regulations reasonably necessary to 
 
 
 Violation of any provision of this subchapter shall be punishable by a civil penalty of not less than one hundred nor more than one thousand dollars for each violation.
+
+
 
 
 
@@ -2571,6 +2615,8 @@ d. such other relief as a court may deem appropriate.
 
 
 
+
+
 **Subchapter 9: Sale of Travel Tickets**
 
 
@@ -2595,6 +2641,8 @@ g. The person responsible for the management of each travel agency and hotel ope
 h. Any person violating any of the provisions of this subchapter shall be guilty of a misdemeanor and, upon conviction, shall be punished by a fine not exceeding one hundred dollars or by imprisonment not exceeding ten days or both, for each separate offense.
 
 i. This subchapter shall not apply to tickets, reservations or passenger accommodations: (a) to or from places outside of the continental United States and Canada, excluding Alaska; nor (b) to existing written contracts between any travel agency with corporations, firms or government agencies covering tourist or travel services.
+
+
 
 
 
@@ -2646,6 +2694,8 @@ The commissioner may adopt such rules and regulations as may be necessary to eff
 
 
 Violation of this subchapter, or any regulation promulgated pursuant to it, shall be punishable by payment of a civil penalty not to exceed two hundred fifty dollars; except that a person shall not be subject to a civil penalty described above for a first-time violation of section 20-746 of this subchapter or any rule or regulation promulgated thereunder, if such person proves to the satisfaction of the department, within thirty days of the issuance of the notice of violation and prior to the commencement of an adjudication of the violation, that the violation has been cured. The submission of proof of a cure shall be deemed an admission of liability for all purposes. The option of presenting proof that the violation has been cured shall be offered as part of any settlement offer made by the department to a person who has received, for the first time, a notice of violation of section 20-746 of this subchapter or any rule or regulation promulgated thereunder. The department shall permit such proof to be submitted electronically or in person. A person may seek review, in the department's administrative tribunal, of the determination that the person has not submitted proof of a cure within fifteen days of receiving written notification of such determination.
+
+
 
 
 
@@ -2711,6 +2761,8 @@ c. Notwithstanding any other law, rule or regulation, and in addition to any oth
 
 
 Any person who shall violate the provisions of this subchapter or the regulations promulgated pursuant to this subchapter shall, upon conviction thereof, pay a civil penalty or not less than fifty dollars and not more than two hundred and fifty dollars for the first offense and for each succeeding offense a penalty of not less than one hundred dollars nor more than five hundred dollars for each such violation; except that a person shall not be subject to the civil penalty described above for a first-time violation of subdivision c of section 20-750 of this subchapter or any rule or regulation promulgated thereunder, if such person proves to the satisfaction of the department, within thirty days of the issuance of the notice of violation and prior to the commencement of an adjudication of the violation, that the violation has been cured. The submission of proof of a cure shall be deemed an admission of liability for all purposes. The option of presenting proof that the violation has been cured shall be offered as part of any settlement offer made by the department to a person who has received, for the first time, a notice of violation of subdivision c of section 20-750 of this subchapter or any rule or regulation issued thereunder. The department shall permit such proof to be submitted electronically or in person. A person may seek review, in the department's administrative tribunal, of the determination that the person has not submitted proof of a cure within fifteen days of receiving written notification of such determination. For the purposes of this section, if on any single day the current selling price list is not displayed in accordance with this subchapter or the regulations promulgated pursuant to this subchapter, it shall be considered a single violation.
+
+
 
 
 
@@ -2785,6 +2837,8 @@ Any provider or agent or employee thereof who shall violate any of the provision
 
 
 
+
+
 **Subchapter 13: Tobacco Product Promotion**
 
 
@@ -2804,6 +2858,8 @@ d. Nothing in this subchapter shall be deemed to prohibit sponsorship of or at e
 
 
 
+
+
 **Subchapter 13-A: Motorized Scooters**
 
 
@@ -2818,6 +2874,8 @@ b. No person shall sell, lease or rent or attempt to sell, lease or rent a motor
 c. Any person who violates subdivision b of this section shall be liable for a civil penalty of one thousand dollars for a first violation and a civil penalty of two thousand dollars for each subsequent violation within one year. Each sale, lease or rental, or attempt to sell, lease or rent, a motorized scooter shall be deemed a separate violation. Authorized employees of the department, the police department, and of any other agency designated by the mayor, shall have the authority to enforce the provisions of this section. Such penalties shall be recovered in a civil action or in a proceeding commenced by the service of a notice of hearing that shall be returnable before the administrative tribunal of the department. In addition, such violation shall be a traffic infraction and shall be punishable in accordance with section eighteen hundred of the New York state vehicle and traffic law.
 
 d. Any motorized scooter that has been used or is being used in violation of the provisions of this section may be impounded and shall not be released until any and all removal charges and storage fees and the applicable fines have been paid or a bond has been posted in an amount satisfactory to the commissioner.
+
+
 
 
 
@@ -2875,6 +2933,8 @@ In order to implement and carry out the requirements of this subchapter, the com
 
 
 Any person who violates, and the officers of a corporation and stockholders holding ten percent or more of the stock of a corporation which is not publicly traded, who knowingly permit the corporation to violate, subdivisions (a) and (b) of sections 20-771 and 20- 20-772 of this subchapter shall be guilty of a misdemeanor and upon conviction shall be subject to a fine not to exceed one thousand dollars, or imprisonment for not more than one year, or both, by any court of competent jurisdiction. Criminal proceedings based upon violations of such subdivisions may be instituted by the commissioner and/or any persons aggrieved by such violations.
+
+
 
 
 
@@ -3159,6 +3219,8 @@ a. In conjunction with the mayor’s office of immigrant affairs, the department
 
 
 
+
+
 **Subchapter 15: Payday Loans***
 
 
@@ -3231,6 +3293,8 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 (1) Notwithstanding any other provision of law, the department shall be authorized upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-783 of this subchapter for each such violation. All proceedings authorized pursuant to this subdivision shall be conducted in accordance with rules promulgated by the commissioner. The remedies and penalties provided for in this subdivision shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
 
 (2) All such proceedings shall be commenced by the service of a notice of violation returnable to the administrative tribunal of the department. The commissioner shall prescribe the form and wording of notices of violation. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged, and, if sworn to or affirmed, shall be prima facie evidence of the facts contained therein.
+
+
 
 
 
@@ -3341,6 +3405,8 @@ If any section, subsection, sentence, clause, phrase or other portion of this su
 
 
 
+
+
 **Subchapter 16: Tenant Screening Report Disclosure**
 
 
@@ -3419,6 +3485,8 @@ A person violating sections 20-808 or 20-809 of this subchapter shall be subject
 a. Notwithstanding any other provision of law, the department shall be authorized, upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter and any rules promulgated thereunder. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-810 of this subchapter for each such violation. All proceedings authorized pursuant to this section shall be conducted in accordance with rules promulgated by the commissioner. The penalties provided for in section 20-810 of this subchapter shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
 
 b. All proceedings under this subchapter shall be commenced by the service of a notice of violation returnable to the administrative tribunal of the department. The commissioner shall prescribe the form and wording of notices of violation. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged, and, if sworn to or affirmed, shall be prima facie evidence of the facts contained therein.
+
+
 
 
 
@@ -3551,6 +3619,8 @@ Any person claiming to be injured by the failure of a pregnancy services center 
 
 
 
+
+
 **Subchapter 18: Prohibition on the Sale of Expired Over-the-counter Medication**
 
 
@@ -3585,6 +3655,8 @@ b. Violations. A person violating section 20-822 of this subchapter shall be gui
 
 
 The department, the police department, and other agencies designated by the commissioner are authorized to enforce the provisions of this subchapter.
+
+
 
 
 
@@ -3634,6 +3706,8 @@ Any person who violates section 20-825 of this subchapter or any of the regulati
 
 
 The department may promulgate such rules and regulations as it deems necessary to implement and enforce the provisions of this subchapter.
+
+
 
 
 
@@ -4548,6 +4622,8 @@ Chapter 12: Fair Work Practices
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: General Provisions**
 
 
@@ -4847,6 +4923,8 @@ c. Civil penalty. In any civil action commenced pursuant to subdivision a of thi
 
 
 
+
+
 **Subchapter 2: Advance Scheduling and Schedule Change Premiums**
 
 
@@ -4938,6 +5016,8 @@ c. Notwithstanding subdivisions a and b of this section, a fast food employer is
 
 
 
+
+
 **Subchapter 3: Minimum Time Between Shifts**
 
 
@@ -4946,6 +5026,8 @@ c. Notwithstanding subdivisions a and b of this section, a fast food employer is
 
 
 Unless the fast food employee requests or consents to work such hours in writing, no fast food employer shall require any fast food employee to work two shifts with fewer than 11 hours between the end of the first shift and the beginning of the second shift when the first shift ends the previous calendar day or spans two calendar days. The fast food employer shall pay the fast food employee $100 for each instance that the employee works such shifts.
+
+
 
 
 
@@ -4985,6 +5067,8 @@ i. This subchapter shall not be construed to require any fast food employer to o
    2. At a rate governed by the overtime requirements of the labor law or the overtime requirements of any minimum wage order promulgated by the New York commissioner of labor pursuant to labor law article 19 or 19-A.
 
 j. The director may promulgate rules regarding how and to which fast food employees offers of shifts pursuant to subdivision g shall be made by fast food employers that own at least 50 fast food establishments in the city based on the geographic distribution of such establishments.
+
+
 
 
 
@@ -5052,6 +5136,8 @@ c. Upon request by a retail employee, a retail employer shall provide the employ
 
 
 The provisions of this subchapter do not apply to any retail employee covered by a valid collective bargaining agreement, including an agreement that is open for negotiation, if (i) such provisions are expressly waived in such collective bargaining agreement and (ii) the agreement addresses employee scheduling.
+
+
 
 
 

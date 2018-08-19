@@ -5,6 +5,8 @@ Chapter 1: Air Pollution Control
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Short Title, Policy, and Definitions**
 
 
@@ -209,6 +211,8 @@ When used in the New York city air pollution control code:
 "Wood burning heater" means any enclosed, permanently installed, indoor device burning pellets designed to be used primarily for aesthetic purposes.
 
 "Work permit" means a permit issued for the installation or alteration of a device or apparatus.
+
+
 
 
 
@@ -477,6 +481,8 @@ The standards referenced in this code, including standards promulgated by ASTM I
 
 
 
+
+
 **Subchapter 3: Refuse Burning Equipment; Incinerators and Crematoriums**
 
 
@@ -512,6 +518,8 @@ No person shall cause or permit the installation of equipment designed to burn s
 
 
 *§ 24-119 Refuse compacting systems; multiple dwellings after May twentieth, nineteen hundred sixty-eight. [Repealed.]* ::
+
+
 
 
 
@@ -843,6 +851,8 @@ A work permit or certificate of operation that has been cancelled or revoked pur
 
 
 
+
+
 **Subchapter 5: Asbestos**
 
 
@@ -993,6 +1003,8 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 
 
 No person shall cause or permit the spraying of any substance containing asbestos in or upon a building or other structure during its construction, alteration or repair.
+
+
 
 
 
@@ -1444,6 +1456,8 @@ f. The mayor shall, in writing, designate one or more agencies to administer and
 
 
 Editor's note: Former § 24-154 (environmental ratings; applications and appeals) was repealed by L.L. 2015/038, 5/6/2015, eff. 5/6/2016
+
+
 
 
 
@@ -2314,6 +2328,8 @@ No person shall use or permit the use of equipment or apparatus for a purpose or
 
 
 
+
+
 **Subchapter 8: Fuel Standards**
 
 
@@ -2572,6 +2588,8 @@ No person shall cause or permit the shipment or delivery of fuel into the city o
 
 
  
+
+
 
 
 
@@ -2970,6 +2988,8 @@ Chapter 2: Noise Control
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Short Title, Policy and Definitions**
 
 
@@ -3124,6 +3144,8 @@ When used in the New York city noise control code the following terms shall have
 (62) Unreasonable noise means any excessive or unusually loud sound that disturbs the peace, comfort or repose of a reasonable person of normal sensitivities, injures or endangers the health or safety of a reasonable person of normal sensitivities or which causes injury to plant or animal life, or damage to property or business.
 
 (63) Refuse collection facility means any structure, building or other premises at which solid waste is received for the purpose of subsequent transfer to another location regardless of whether such solid waste is subject to any processing or reduction in volume at such structure, building or premises.
+
+
 
 
 
@@ -3370,6 +3392,8 @@ Unless otherwise specifically provided, all sound level measurements under this 
 
 
 
+
+
 **Subchapter 3: Prohibited Noise; General Prohibition**
 
 
@@ -3426,6 +3450,8 @@ d. Notice to patrons.
    (1) The owner, operator, manager or other person having control of any place of public performance shall, at every theatrical, musical, dance, motion picture, lecture or other similar performance, provide prominent and conspicuous notice to patrons by means of announcement, signage, printed material, or other similar means indicating that mobile telephone use is prohibited as prescribed in subdivision b of this section. The commissioner of environmental protection may promulgate rules regarding the size, style and location of such notices, but in promulgating such rules, the commissioner of environmental protection shall take into consideration the concerns of the various types of establishments regulated herein with respect to the style and design of such notices.
 
    (2) In addition, the owner, operator, manager or other person having control of any motion picture theatre in which motion pictures are exhibited to the public shall, prior to the showing of each feature motion picture, show upon the movie screen information indicating that mobile telephone use is prohibited as prescribed in subdivision b of this section.
+
+
 
 
 
@@ -3621,6 +3647,8 @@ Except as otherwise provided in this subchapter, it shall be unlawful to engage 
 
 
 It shall be unlawful to perform work at any construction site in the city that is not in compliance with a noise mitigation plan where such plan is required pursuant to this subchapter and with the noise mitigation rules adopted pursuant to this subchapter.
+
+
 
 
 
@@ -3832,6 +3860,8 @@ No person shall cause or permit operation of a small wind turbine, as such term 
 
 
 
+
+
 **Subchapter 6: Specific Noise Sources Plainly Audible and Other Standards**
 
 
@@ -4006,6 +4036,8 @@ The provisions of this code shall not apply to the operation of a snow blower fo
 (a) Except as otherwise provided in section 10-108 of the code, no person shall operate or use or cause to be operated or used any sound reproduction device in such a manner as to create unreasonable noise.
 
 (b) No person shall operate or use or cause to be operated or used any sound reproduction device, for commercial or business advertising purposes or for the purpose of attracting attention to any performance, show, sale or display of merchandise, in connection with any commercial or business enterprise (including those engaged in the sale of radios, television sets, compact discs or tapes), (i) outside or in front of any building, place or premises or in or through any aperture of such building, place or premises, abutting on or adjacent to a public street, park or place; (ii) in or upon any vehicle operated, standing or being in or on any public street, park or place; (iii) from any stand, platform or other structure; (iv) from any airplane or other device used for flying, flying over the city; (v) from any boat on the waters within the jurisdiction of the city; or (vi) anywhere on the public streets, public sidewalks, parks or places where sound from such sound reproduction device may be heard upon any public street, sidewalk, park or place. Nothing in this section is intended to prohibit incidental sounds emanating from a sporting or an entertainment or a public event for which a permit under section 10-108 of the code has been issued.
+
+
 
 
 
@@ -4189,6 +4221,8 @@ Any purported or attempted transfer of a certificate automatically revokes the c
 
 
 The department may charge for a copy of its publications a fee in an amount not to exceed the unit cost of the preparation and distribution of the publication.
+
+
 
 
 
@@ -4786,6 +4820,8 @@ Notwithstanding any inconsistent provision of law, the civil penalties for the v
 
 Chapter 3: Water Supply
 --------------------------------------------------
+
+
 
 
 **Subchapter 1: Water Supply To the City of New York**
@@ -5401,6 +5437,8 @@ h. Unless otherwise specifically provided, service of any notice or order may be
 
 
 
+
+
 **Subchapter 2: Water Supply Sources Outside the City of New York**
 
 
@@ -5548,6 +5586,8 @@ Nothing herein contained shall authorize or empower the city to prohibit the pub
 
 
 
+
+
 **Subchapter 3: Water Supply To Other Municipalities**
 
 
@@ -5610,6 +5650,8 @@ e. When a sewerage system shall have been constructed, the city shall lay and th
 f. When the city shall have constructed a sewerage system and shall have laid the necessary pipes from such system to the outside of the foundation wall of any such building, the owner of such building shall cause the drainage and sewerage of such building to be connected with and discharged into such pipes.
 
 g. All persons acting under the authority of the city shall have the right to use the ground or soil under any street, highway or road within the counties of Ulster, Delaware and Sullivan, to construct, maintain and operate such sewers and disposal works, on the condition that they shall cause the surface of such street, highway or road to be restored, and all damages done thereto repaired.
+
+
 
 
 
@@ -7074,6 +7116,8 @@ Chapter 6: Hazardous Substance Emergencies
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Short Title, Policy and Definitions**
 
 
@@ -7128,6 +7172,8 @@ g. "responsible person" means
    (5) any person who by contract, agreement, or otherwise arranged for disposal or treatment or arranged with a transporter for transport for disposal or treatment of a hazardous substance owned or possessed by such person, and there is a release, or a substantial threat of a release, of such hazardous substance into the environment; provided, however, that no person, who is an entity independent from an otherwise responsible person, authorized by the commissioner of environmental protection to implement response measures at the site of a release, or a threat of a release, of a hazardous substance into the environment, shall be deemed to be a "responsible person" solely on the basis of any authorized response measures attempted or implemented by such person at such site, unless such person's willful, knowing, reckless or negligent acts or omissions caused or substantially contributed to a release, or a substantial threat of a release, of a hazardous substance into the environment.
 
 h. "treatment" means any method, technique, or process, including neutralization, designed to change the physical, chemical, or biological character or composition of any hazardous substance so as to neutralize such substance or so as to render such substance nonhazardous, safer for transport, amenable for recovery, amenable for storage, or reduced in volume. Such term includes any activity or processing designed to change the physical form or chemical composition of a hazardous substance so as to render it non-hazardous.
+
+
 
 
 
@@ -7203,6 +7249,8 @@ j. In addition to establishing a lien, the city may recover such costs and inter
 
 
 Upon the completion of any response measure giving rise to a lien, the city agency implementing such response measure shall file with the agency or agencies designated by the mayor pursuant to section 24-605 a certificate setting forth the work done and the expenses incurred and certifying that such expenses were necessary and proper in the exercise of its lawful powers and, where applicable, apportioning such expenses among lots or buildings belonging to different persons. The city agency implementing such response measure shall also file a copy of any notices of potential liability for such expenses it has mailed for purposes of paragraph two of subdivision c of section 24-605 and a statement reciting the date of any such mailing.
+
+
 
 
 

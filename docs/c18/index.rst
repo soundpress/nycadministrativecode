@@ -1,6 +1,25 @@
 Title 18: Parks
 ===================================================
 
+Chapter 2: Summer Camps For Children
+--------------------------------------------------
+
+
+
+*§ 18-201 Summer camps for children.* ::
+
+
+a. The board of estimate, within the amounts appropriated therefor, is authorized to establish camps in spaces provided therefor in parks adjacent to the city under the jurisdiction and control of the state council of parks, recreation and historic preservation. Such camps shall be used to furnish free instruction and maintenance of children between the ages of six and sixteen years and shall be under the jurisdiction of such agency as may be designated by the board.
+
+b. Such agency shall provide opportunity for children to receive instruction which shall not exceed ten hours per week in camp sanitation, elementary hygiene, first aid to the injured, life saving, swimming and physical training and such other similar subjects as it may deem proper. Such agency shall prescribe rules and regulations for admission to such camps and the conduct and discipline thereof.
+
+c. Such camps shall be operated between July first and August thirty-first of each year. Children shall be entitled to free instruction and maintenance in any such camp for a period of only two weeks during any one year.
+
+d. Such agency shall make an annual report to the mayor on or before the fifteenth day of February of matters relating to carrying out the provisions of this section.
+
+
+
+
 Chapter 1: Department of Parks and Recreation
 --------------------------------------------------
 
@@ -1348,25 +1367,6 @@ b. By July 30, 2019, and every year thereafter, the commissioner shall submit to
    2. The total number of authorizations for bollard installation by third parties at locations under the jurisdiction of the department issued during the 12-month period ending on June 30 of such year.
 
 
-
-
-
-
-Chapter 2: Summer Camps For Children
---------------------------------------------------
-
-
-
-*§ 18-201 Summer camps for children.* ::
-
-
-a. The board of estimate, within the amounts appropriated therefor, is authorized to establish camps in spaces provided therefor in parks adjacent to the city under the jurisdiction and control of the state council of parks, recreation and historic preservation. Such camps shall be used to furnish free instruction and maintenance of children between the ages of six and sixteen years and shall be under the jurisdiction of such agency as may be designated by the board.
-
-b. Such agency shall provide opportunity for children to receive instruction which shall not exceed ten hours per week in camp sanitation, elementary hygiene, first aid to the injured, life saving, swimming and physical training and such other similar subjects as it may deem proper. Such agency shall prescribe rules and regulations for admission to such camps and the conduct and discipline thereof.
-
-c. Such camps shall be operated between July first and August thirty-first of each year. Children shall be entitled to free instruction and maintenance in any such camp for a period of only two weeks during any one year.
-
-d. Such agency shall make an annual report to the mayor on or before the fifteenth day of February of matters relating to carrying out the provisions of this section.
 
 
 

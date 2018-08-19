@@ -169,8 +169,137 @@ It shall be unlawful for the city to make, or cause to be made, any alteration o
 
 
 
+Chapter 4: Expense Budget
+--------------------------------------------------
+
+
+
+*§ 5-501 Director of management and budget; access to agencies.* ::
+
+
+The director of management and budget shall have access, at all reasonable times, to the offices of any agency for the purpose of carrying out the duties imposed upon him or her by law. The powers and duties of the director as to private institutions shall extend only to the moneys received from the city.
+
+
+
+
+
+
+*§ 5-502 Departmental estimates; duplicates.* ::
+
+
+The director of management and budget, upon receipt of departmental estimates submitted to him or her, shall forward copies thereof to the council, to the board of estimate and each community board and borough board. If the departmental estimate submitted by an agency contains budget requests for programs related to criminal justice, the director of management and budget shall also forward a copy of such budget requests to the coordinator of criminal justice.
+
+
+
+
+
+
+*§ 5-503 Departmental estimates; preparation.* ::
+
+
+To assist in the preparation of departmental estimates, the head of each agency shall designate an official or employee thereof as budget officer who shall, in each year under the direction of such head, prepare the departmental estimate for such agency.
+
+
+
+
+
+
+*§ 5-504 Departmental estimates; necessity for funds requested.* ::
+
+
+a. The departmental estimates shall contain statements and other data showing the necessity for the funds requested and such supporting data as may be required by the director of management and budget.
+
+b. The departmental estimates shall include particularly and in detail the reasons for all individual increases or decreases compared with the budget as modified for the prior year.
+
+c. Departmental estimates for any agency that has local service districts within community districts and boroughs shall contain where practicable a statement of proposed direct expenses in each such service district for each requested unit of appropriation prepared according to the requirements specified in subdivision d of section one hundred twelve of the charter.
+
+
+
+
+
+
+*§ 5-505 When the director of management and budget is to prepare departmental estimate.* ::
+
+
+If a departmental estimate is not submitted on such date as the mayor may direct, the director of management and budget shall cause to be prepared such estimate and data necessary to include departmental estimate in the budget for such agency for the following fiscal year. In no event later than the fifteenth day of January, or such earlier date as the mayor may direct, the director of management and budget will forward copies of such estimate to the secretary of the board of estimate, the council and each community board and borough boards.
+
+
+
+
+
+
+*§ 5-506 Departmental estimates; form of.* ::
+
+
+The classification of such estimates shall be as nearly uniform as possible and, as far as practicable, shall exhibit clearly the functions performed by each agency and the purpose of appropriations made.
+
+
+
+
+
+
+*§ 5-507 The budget; details.* ::
+
+
+In addition to the requirements set out in the charter, the proposed budget and the preliminary budget shall be prepared in such detail as to the titles of appropriations, the terms and conditions under which the same may be expended and the aggregate sum allowed to each agency, as the mayor shall deem advisable.
+
+
+
+
+
+
+*§ 5-508 The budget; miscellaneous revenues appropriated for specific purposes.* ::
+
+
+The budget and preliminary budget shall include the several items and amounts payable from funds other than those derived from taxation which are specifically provided by law to be so expended and which, in the judgment of the director of management and budget, are deemed necessary for the proper conduct of the various agencies, either in whole or in part as a supplement to the fund obtainable from taxation, and shall show the aggregate sum allowed to each agency and the total of all allowances contained in the budget to be obtained from taxation or other funds.
+
+
+
+
+
+
+*§ 5-509 Items to be included in annual budget.* ::
+
+
+There may annually be included in the budget:
+
+1. A sum not exceeding eight thousand dollars to be paid to the trustees of the seventh regiment armory building, as an equivalent and in lieu of the rental of an armory for such regiment, to be applied to the preservation, maintenance and improvement of the armory building, such sum to be paid in the month of January in each year.
+
+2. The amount necessary for the maintenance of the buildings, instruments and equipment of:
+
+   a. The meteorological and astronomical observatory.
+
+   b. The American museum of natural history.
+
+   c. The metropolitan museum of art, not exceeding ninety-five thousand dollars.
+
+   d. The Brooklyn institute of arts and sciences.
+
+3. Such sums to any hospitals, charitable, eleemosynary, correctional or reformatory institution, wholly or partly under private control for the care, support and maintenance of its inmates, and for the care, support, maintenance and secular education of inmates of orphan asylums, protectories, homes for dependent children or correctional institutions and any other sum or sums which may heretofore have been duly authorized by law to be paid within the city of New York or any part thereof for the education and support of the blind, the deaf and dumb and juvenile delinquents and such sums other than salaries for reimbursement to any duly incorporated charitable institution or society employed by the commissioner of welfare in the placing out, supervision and transfer of children who are public charges; such payments to be made only for such inmates as are received and retained therein pursuant to rules established by the state board of social welfare. The city may in any year, and from time to time, increase or diminish, the sum authorized to be paid to any such institution, association, corporation or society. The final estimate shall specify each institution by its corporate name and the sum to be paid thereto, with a reference to the laws authorizing the appropriation, and the comptroller is authorized to pay the sum to such institution upon its appearing to his or her satisfaction in such manner as he or she shall prescribe that the expenditure thereof by the institution is lawful and proper. Appropriations shall be made under this section to any corporation only if the mayor, or the president of the borough in which the chief office of such corporation is situated, is notified of all meetings of its board of management, and is empowered to attend the same or designate in writing some person to do so in his or her behalf; but this shall not be construed as impairing any existing powers of visitation vested in the supreme court or the state board of social welfare, or any provisions of law requiring statements by such corporations as to their affairs.
+
+4. A sum for the due observance of Memorial day to be expended for such purpose.
+
+5. A sum as may be necessary to pay the salaries of county officers within the counties of New York, Kings, Bronx, Queens and Richmond, and likewise all other expenses within such counties and each of them which are county as distinguished from city charges and expenses.
+
+6. A sum sufficient, as determined by the council and the board of estimate, to maintain the rates of fare of the New York city transit authority existing on January first, nineteen hundred sixty-six.
+
+
+
+
+
+
+*§ 5-510 Payment of certain moneys from general fund* ::
+
+
+For the purpose of adjusting the reductions heretofore or hereafter made in the amount of taxes receivable by reason of the operation of the provisions of the tax law providing for the deduction from special franchise taxes of payments made in the nature of a tax, it shall be lawful for the comptroller and commissioner of finance to transfer at any time from the moneys in the general fund to the credit of the appropriate account or accounts, a sum or sums equivalent to but not exceeding such deductions.
+
+
+
+
 Chapter 3: Condemnation Procedures
 --------------------------------------------------
+
+
 
 
 **Subchapter 1: Consolidated Condemnation Procedure**
@@ -694,6 +823,8 @@ Notwithstanding any provisions of the railroad law or of any other statute, gene
 
 
 
+
+
 **Subchapter 2: Excess Lands Acquisition Procedure**
 
 
@@ -810,6 +941,8 @@ The provisions of subchapter one of this chapter relative to the payment by the 
 a. After title to the real property required for the improvement, and to the additional lands, shall have vested in the city, the additional lands may be either held and used by the city, or sold or leased in the manner provided by the charter as long as consistent with the provisions of section four hundred six of the eminent domain procedure law. The board of estimate may provide that such additional lands shall be sold or leased subject to such restrictions, covenants or conditions as to location of buildings with reference to the real property acquired for the improvement, or the height of buildings or structures, or the character of construction and architecture thereof, or such other covenants, conditions or restrictions as it may deem proper. Such additional lands shall be sold or leased subject to such restrictions, covenants or conditions, if any, as the board of estimate may have prescribed, which shall be set forth in the instrument of conveyance or lease.
 
 b. Nothing in subdivision b of section three hundred eighty-four of the charter limiting the term of leases by the city to a different period shall apply to a lease by the city, acting through the board of estimate, of such additional real property for housing purposes, including stores on the street level.
+
+
 
 
 
@@ -1133,6 +1266,8 @@ a. The commissioner shall be authorized and empowered, subject to the approval o
 b. The land which shall be required for the purpose of carrying out any such agreed plan and to protect and improve the water supply of the city within the enumerated localities, except the town of Carmel, shall be taken only with the consent and approval of the authorities thereof.
 
 c. If the city shall have been unable to secure such approval of the municipal authorities of the village or the town board of the town in which the land to be acquired is located, where such real estate shall be located within the Esopus and Schoharie watersheds in the counties of Ulster, Delaware, Schoharie and Greene, and the plans for such operating systems and plants for the collection and disposal of sewage shall have been approved by the state department of health, the city acting by or through its commissioner of environmental protection, notwithstanding the provisions of any special or general act to the contrary, may present a petition to the supreme court in the county involved, stating the proposed location of such operating system or plant for the collection and disposal of sewage, that the plans therefor have been approved by the state department of health, that application for the location thereof in accordance with such plans has been made to the municipal authorities or town board having jurisdiction thereover and has been unreasonably denied, or withheld, and such other facts as the petitioner may deem pertinent, together with a prayer for an order authorizing the construction of such operating system or sewage disposal plant in accordance with such plans. Notice of the time and place of presentation of such petition shall be served on the necessary municipal authorities or town board having jurisdiction over such applications and on the state department of health, and posted in such village or town in at least ten conspicuous public places for a period of ten days prior to the hearing of such petition. Upon the presentation of such petition, the presiding justice shall hear the parties to such proceeding and also such other residents of the sewer district of the village or town as desire to be heard. If the justice presiding be satisfied that the municipal authorities of the village or the town board of the town have unreasonably withheld the approval of the location of such operating system or sewage disposal plant, the justice may, by order, grant the petition. Upon the entry of such order, the city may acquire, by purchase or condemnation, in the manner provided by law, such real estate, rights of way and easements to and into such real estate as may be necessary for the proper erection, construction and operation, of such operating system or sewage disposal plant, and may construct the same in accordance with the plans approved by the state department of health.
+
+
 
 
 
@@ -1488,6 +1623,8 @@ The city shall have no power to acquire, take or condemn lands under this subcha
 
 
 Any reference to the former board of water supply occurring in any law, code, contract or document shall be deemed to refer to and mean the commissioner of environmental protection.
+
+
 
 
 
@@ -1913,133 +2050,6 @@ b. In all cases, however, where any such award, which shall be made in the final
 
 
 The provisions of section 5-329 of this subchapter shall be construed to have application to and to be incorporated into this subchapter.
-
-
-
-
-Chapter 4: Expense Budget
---------------------------------------------------
-
-
-
-*§ 5-501 Director of management and budget; access to agencies.* ::
-
-
-The director of management and budget shall have access, at all reasonable times, to the offices of any agency for the purpose of carrying out the duties imposed upon him or her by law. The powers and duties of the director as to private institutions shall extend only to the moneys received from the city.
-
-
-
-
-
-
-*§ 5-502 Departmental estimates; duplicates.* ::
-
-
-The director of management and budget, upon receipt of departmental estimates submitted to him or her, shall forward copies thereof to the council, to the board of estimate and each community board and borough board. If the departmental estimate submitted by an agency contains budget requests for programs related to criminal justice, the director of management and budget shall also forward a copy of such budget requests to the coordinator of criminal justice.
-
-
-
-
-
-
-*§ 5-503 Departmental estimates; preparation.* ::
-
-
-To assist in the preparation of departmental estimates, the head of each agency shall designate an official or employee thereof as budget officer who shall, in each year under the direction of such head, prepare the departmental estimate for such agency.
-
-
-
-
-
-
-*§ 5-504 Departmental estimates; necessity for funds requested.* ::
-
-
-a. The departmental estimates shall contain statements and other data showing the necessity for the funds requested and such supporting data as may be required by the director of management and budget.
-
-b. The departmental estimates shall include particularly and in detail the reasons for all individual increases or decreases compared with the budget as modified for the prior year.
-
-c. Departmental estimates for any agency that has local service districts within community districts and boroughs shall contain where practicable a statement of proposed direct expenses in each such service district for each requested unit of appropriation prepared according to the requirements specified in subdivision d of section one hundred twelve of the charter.
-
-
-
-
-
-
-*§ 5-505 When the director of management and budget is to prepare departmental estimate.* ::
-
-
-If a departmental estimate is not submitted on such date as the mayor may direct, the director of management and budget shall cause to be prepared such estimate and data necessary to include departmental estimate in the budget for such agency for the following fiscal year. In no event later than the fifteenth day of January, or such earlier date as the mayor may direct, the director of management and budget will forward copies of such estimate to the secretary of the board of estimate, the council and each community board and borough boards.
-
-
-
-
-
-
-*§ 5-506 Departmental estimates; form of.* ::
-
-
-The classification of such estimates shall be as nearly uniform as possible and, as far as practicable, shall exhibit clearly the functions performed by each agency and the purpose of appropriations made.
-
-
-
-
-
-
-*§ 5-507 The budget; details.* ::
-
-
-In addition to the requirements set out in the charter, the proposed budget and the preliminary budget shall be prepared in such detail as to the titles of appropriations, the terms and conditions under which the same may be expended and the aggregate sum allowed to each agency, as the mayor shall deem advisable.
-
-
-
-
-
-
-*§ 5-508 The budget; miscellaneous revenues appropriated for specific purposes.* ::
-
-
-The budget and preliminary budget shall include the several items and amounts payable from funds other than those derived from taxation which are specifically provided by law to be so expended and which, in the judgment of the director of management and budget, are deemed necessary for the proper conduct of the various agencies, either in whole or in part as a supplement to the fund obtainable from taxation, and shall show the aggregate sum allowed to each agency and the total of all allowances contained in the budget to be obtained from taxation or other funds.
-
-
-
-
-
-
-*§ 5-509 Items to be included in annual budget.* ::
-
-
-There may annually be included in the budget:
-
-1. A sum not exceeding eight thousand dollars to be paid to the trustees of the seventh regiment armory building, as an equivalent and in lieu of the rental of an armory for such regiment, to be applied to the preservation, maintenance and improvement of the armory building, such sum to be paid in the month of January in each year.
-
-2. The amount necessary for the maintenance of the buildings, instruments and equipment of:
-
-   a. The meteorological and astronomical observatory.
-
-   b. The American museum of natural history.
-
-   c. The metropolitan museum of art, not exceeding ninety-five thousand dollars.
-
-   d. The Brooklyn institute of arts and sciences.
-
-3. Such sums to any hospitals, charitable, eleemosynary, correctional or reformatory institution, wholly or partly under private control for the care, support and maintenance of its inmates, and for the care, support, maintenance and secular education of inmates of orphan asylums, protectories, homes for dependent children or correctional institutions and any other sum or sums which may heretofore have been duly authorized by law to be paid within the city of New York or any part thereof for the education and support of the blind, the deaf and dumb and juvenile delinquents and such sums other than salaries for reimbursement to any duly incorporated charitable institution or society employed by the commissioner of welfare in the placing out, supervision and transfer of children who are public charges; such payments to be made only for such inmates as are received and retained therein pursuant to rules established by the state board of social welfare. The city may in any year, and from time to time, increase or diminish, the sum authorized to be paid to any such institution, association, corporation or society. The final estimate shall specify each institution by its corporate name and the sum to be paid thereto, with a reference to the laws authorizing the appropriation, and the comptroller is authorized to pay the sum to such institution upon its appearing to his or her satisfaction in such manner as he or she shall prescribe that the expenditure thereof by the institution is lawful and proper. Appropriations shall be made under this section to any corporation only if the mayor, or the president of the borough in which the chief office of such corporation is situated, is notified of all meetings of its board of management, and is empowered to attend the same or designate in writing some person to do so in his or her behalf; but this shall not be construed as impairing any existing powers of visitation vested in the supreme court or the state board of social welfare, or any provisions of law requiring statements by such corporations as to their affairs.
-
-4. A sum for the due observance of Memorial day to be expended for such purpose.
-
-5. A sum as may be necessary to pay the salaries of county officers within the counties of New York, Kings, Bronx, Queens and Richmond, and likewise all other expenses within such counties and each of them which are county as distinguished from city charges and expenses.
-
-6. A sum sufficient, as determined by the council and the board of estimate, to maintain the rates of fare of the New York city transit authority existing on January first, nineteen hundred sixty-six.
-
-
-
-
-
-
-*§ 5-510 Payment of certain moneys from general fund* ::
-
-
-For the purpose of adjusting the reductions heretofore or hereafter made in the amount of taxes receivable by reason of the operation of the provisions of the tax law providing for the deduction from special franchise taxes of payments made in the nature of a tax, it shall be lawful for the comptroller and commissioner of finance to transfer at any time from the moneys in the general fund to the credit of the appropriate account or accounts, a sum or sums equivalent to but not exceeding such deductions.
 
 
 

@@ -5,6 +5,8 @@ Chapter 1: Mayor
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: [No Title]**
 
 
@@ -778,6 +780,8 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 
 
 
+
+
 **Subchapter 2: Office of Long-Term Planning and Sustainability**
 
 
@@ -1099,6 +1103,8 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 
 
 
+
+
 **Subchapter 3: Office of Veterans' Affairs [Repealed]**
 
 
@@ -1142,6 +1148,8 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 
 
 
+
+
 **Subchapter 4: Office of Labor Standards**
 
 
@@ -1160,6 +1168,8 @@ b. No later than February 15, 2017, and no later than every February fifteenth t
    iii. the results of each enforcement action undertaken by the director; and
 
    iv. such other information as the director may deem appropriate.
+
+
 
 
 
@@ -1262,6 +1272,8 @@ b. Such information shall be made publicly available in a non-proprietary format
 
 
 
+
+
 **Subchapter 6: Gender, Racial and Income Equity**
 
 
@@ -1326,6 +1338,8 @@ b. Training. Not later than July 15, 2020, the relevant city agencies shall prov
 
 Chapter 2: City Council and City Clerk
 --------------------------------------------------
+
+
 
 
 **Subchapter 1: [Council Districts; Powers and Duties]**
@@ -1660,6 +1674,8 @@ e. The department shall ensure that such written materials are available in the 
 a. Employees. The council shall require that any applicant or appointee for future employment by the council be fingerprinted as part of the application process. Such fingerprints and physical descriptive data are to be provided for the purpose of securing criminal history records from the state division of criminal justice services. The applicant shall pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require applicants or appointees under this subdivison to be fingerprinted if criminal history records concerning such applicants or appointees are not made available by the state division of criminal justice services.
 
 b. Other Persons. The council may require that any candidate for direct appointment, designation, nomination, recommendation and advice and consent by the council as required by state legislation, the charter or administrative code be fingerprinted as part of the background investigation. Such fingerprints are to be provided for the purposes of securing criminal history records from the state division of criminal justice services. The applicant may pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require candidates under this subdivision to be fingerprinted if criminal history records concerning such candidates are not made available by the state division of criminal justice services.
+
+
 
 
 
@@ -2110,6 +2126,8 @@ All statements and reports required under this subchapter shall contain the foll
 
 
 
+
+
 **Subchapter 3: Prohibition of Gifts By Lobbyists**
 
 
@@ -2148,6 +2166,8 @@ Complaints alleging violations of this subchapter shall be made, received, inves
 
 
 Any person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates any provision of this subchapter shall be subject to a civil penalty, which for the first offense shall be not less than two thousand five hundred dollars and not more than five thousand dollars, for the second offense not less than five thousand dollars and not more than fifteen thousand dollars, and for the third and subsequent offenses not less than fifteen thousand dollars and not more than thirty thousand dollars. In addition to such civil penalties, for the second and subsequent offenses a person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates the provisions of this subchapter shall also be guilty of a class A misdemeanor.
+
+
 
 
 

@@ -5,6 +5,8 @@ Chapter 1: Waterfront Properties Transactions and Trade
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Waterfront Property**
 
 
@@ -422,6 +424,8 @@ b. Every lease, contract or other instrument, executed in pursuance of authority
 
 
 
+
+
 **Subchapter 2: Water Front Terminals**
 
 
@@ -562,6 +566,8 @@ e. Notwithstanding the provisions of any general or special law, a railroad corp
 
 
 Nothing contained in this subchapter shall be construed as in any way limiting the present or future jurisdiction of the public service commission of the state of New York, and nothing contained in this subchapter shall be construed as limiting or repealing any of the provisions of the railroad law of the state of New York. Provided, however, that it shall not be necessary before constructing a railroad as part of terminal facilities to obtain a certificate of convenience and necessity from the public service commission.
+
+
 
 
 
@@ -7631,6 +7637,8 @@ Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behal
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
 
 
@@ -7673,6 +7681,8 @@ c. Each report shall set forth:
    4. the compensation paid or owed by the contracted entity to a person or organization for the purpose of engaging in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and any expenses expended, received or incurred by the person or organization for the purpose of lobbying before such bodies.
 
 d. The first such submission shall be provided no later than December 31, 2013 and shall cover the period from November 1, 2012 through November 30, 2013. All reports shall be filed thereafter within thirty days after the end of each quarter and simultaneously made available in a commonly available non-proprietary database format on the website of the contracted entity or, if no such website is maintained, on the website of the city of New York.
+
+
 
 
 

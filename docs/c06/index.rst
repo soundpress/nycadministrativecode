@@ -963,6 +963,8 @@ Chapter 7: Nuisance Abatement Law
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: [Public Nuisance Defined]**
 
 
@@ -1043,6 +1045,8 @@ The following are declared to be public nuisances:
 (a) The corporation counsel shall bring and maintain a civil proceeding in the name of the city in the supreme court of the county in which the building, erection or place is located to permanently enjoin the public nuisances, defined in subdivisions (a), (d), (e), (f), (g), (h), (k), (l), (m), (n), and (r) of section 7-703, in the manner provided in subchapter two of this chapter.
 
 (b) The corporation counsel shall bring and maintain a civil proceeding in the name of the city, in the supreme court of the county in which the building, erection or place is located to recover a civil penalty in relation to the public nuisances defined in subdivisions (b) and (c) of section 7-703 of this chapter, in the manner provided in subchapter three of this chapter.
+
+
 
 
 
@@ -1225,6 +1229,8 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 
 
+
+
 **Subchapter 3: [Remedies For Promotion of Obscene Material; Seizure and Civil Penalty]**
 
 
@@ -1321,6 +1327,8 @@ When the defendant gives an undertaking in the amount of the civil penalty deman
 
 
 This chapter shall not be construed to exclude any other remedy provided by law for the protection of the health, safety and welfare of the people of the city of New York.
+
+
 
 
 

@@ -2763,6 +2763,8 @@ Chapter 3: Environmental Purchasing
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: General Provisions**
 
 
@@ -2924,6 +2926,8 @@ d. Except as otherwise provided in this chapter, the director may exempt from th
 
 
 
+
+
 **Subchapter 2: Oversight of Environmental Purchasing**
 
 
@@ -2991,6 +2995,8 @@ b. The department of education shall submit an annual report to the speaker of t
 
 
 
+
+
 **Subchapter 3: Energy Efficiency**
 
 
@@ -3025,6 +3031,8 @@ b. The power management software options of any computer, printer, facsimile mac
 c. For any computer that contains power management software, the computer monitor and central processing unit shall be set to enter into a low power mode after the shortest practicable period of inactivity. Any screensaver or other computer program that directly interferes with the proper functioning of the low power mode of any computer monitor or central processing unit, shall be disabled.
 
 d. Any agency need not comply with the provisions of this section if compliance would interfere with any mission of such agency or cause instability in any computer system.
+
+
 
 
 
@@ -3068,6 +3076,8 @@ c. Any pre-printed paper or publication, including any letterhead or report, pur
 a. Any printer purchased or leased by any agency that can print at a rate of twenty pages or faster per minute or that is considered a local area network printer shall have the capacity to print double-sided. Any copier purchased or leased by any agency that can print at a rate of twenty pages or faster per minute shall have the capacity to print double-sided and shall perform equally well with paper containing postconsumer material as with paper containing no postconsumer material.
 
 b. Notwithstanding section 6-302 of this chapter, this subdivision shall apply to any printer or copier purchased or leased by any agency after January 1, 2007 and, to the extent practicable, to any printer or copier purchased or leased by any agency before such date. The default parameters of any printer with the capacity to print double-sided, and any computer that utilizes such printer, shall be set to duplex mode, such that the printer prints double-sided pages. The default parameters of any copier with the capacity to print double-sided for which the default parameters can be adjusted, shall be set to duplex mode, such that the copier places images on both sides of a copy sheet, performing one-sided to two-sided copying, and two-sided to two-sided copying.
+
+
 
 
 
@@ -3142,6 +3152,8 @@ b. The director shall investigate the environmental and health effects of compos
 
 
 
+
+
 **Subchapter 6: Cleaning Products**
 
 
@@ -3152,6 +3164,8 @@ b. The director shall investigate the environmental and health effects of compos
 a. Beginning June 1, 2009, the city shall purchase and use green cleaning products to the extent and in the manner that such use is determined to be feasible through the pilot program established pursuant to the local law that added subchapter 6 of this chapter or through any other testing and evaluation conducted by the director. Such green cleaning products shall meet the health and environmental criteria for the relevant product category as established by the director under the pilot program or any such criteria as updated or revised by the director.
 
 b. No later than June 1, 2009, the director shall publish a list of green cleaning products that may be purchased by the city to comply with this section. At least once annually, such list shall be reviewed and revised, if necessary.
+
+
 
 
 

@@ -2315,6 +2315,8 @@ Chapter 3: Licenses and Permits
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Administrative Provisions**
 
 
@@ -2323,6 +2325,8 @@ Chapter 3: Licenses and Permits
 
 
 Every application for a license or a permit, or the renewal of an existing license or an existing permit to be issued by the commissioner pursuant to this chapter shall provide an opportunity for the applicant to indicate the language in which such applicant would prefer that inspections in connection with such license or permit be conducted or alternatively for which language interpretation services be provided. Nothing in this subdivision nor any failure to comply with such preference shall be construed so as to create a cause of action or constitute a defense in any legal, administrative, or other proceeding.
+
+
 
 
 
@@ -2933,6 +2937,8 @@ The department shall establish and implement a system for grading and classifyin
 
 
 
+
+
 **Subchapter 3: Rental Horse Licensing and Protection Law**
 
 
@@ -3134,6 +3140,8 @@ d. The training program shall be available only to persons holding a currently v
 
 
 
+
+
 **Subchapter 4: Inhalation therapy**
 
 
@@ -3260,6 +3268,8 @@ d. [Repealed.]
 
 
 Compressed air to be used in tanks for underwater breathing that are offered for sale, sold, or distributed in the city of New York, shall, at a minimum, meet the air quality standards for grade e air of the compressed gas association publication "G-7.1-2004, commodity specification for air," or a more stringent standard as may be determined by the department.
+
+
 
 
 
@@ -3434,6 +3444,8 @@ If any provision of this subchapter is adjudged invalid by any court of competen
 
 
 
+
+
 **Subchapter 7: Tattoo Regulation Act**
 
 
@@ -3569,6 +3581,8 @@ The commissioner shall promulgate rules in accordance with the provisions of thi
 
 
 
+
+
 **Subchapter 8: Boarding Kennel Regulation Act**
 
 
@@ -3637,6 +3651,8 @@ The department may promulgate rules as may be necessary for the purpose of imple
 
 
 Any owner or operator of a boarding kennel, business or establishment that violates any provision of this subchapter shall be liable for a civil penalty of two hundred and fifty dollars for each violation. A proceeding to recover any such civil penalty shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal established by the department. Such tribunal shall have the power to impose civil penalties prescribed by this section.
+
+
 
 
 
@@ -4829,6 +4845,8 @@ Chapter 7: Regulation of Tobacco Products
 --------------------------------------------------
 
 
+
+
 **Subchapter 1: Tobacco Product Regulation Act**
 
 
@@ -5117,6 +5135,8 @@ Not later than twelve months after the effective date of the local law that adde
 
 
 Nothing contained in this subchapter shall be construed to preclude the city of New York from prohibiting the placement or display of tobacco advertisements in or on units of advertising space.
+
+
 
 
 
@@ -5481,99 +5501,6 @@ c. A pet shop that allows an animal shelter or animal rescue group to use such p
 
 
 
-Chapter 9: Lead-based Paint In Day Care Facilities
---------------------------------------------------
-
-
-**Subchapter 1: Definitions**
-
-
-
-*§ 17-900 Definitions.* ::
-
-
-For the purpose of this chapter the following terms shall have the following meanings:
-
-1. " Chewable surface" shall mean a protruding interior window sill in a day care facility that is readily accessible to a child of applicable age. "Chewable surface" shall also mean any other type of interior edge or protrusion in a day care facility, such as a rail or stair, where there is evidence that such other edge or protrusion has been chewed or where the operator of such day care facility has observed that a child under six years of age has mouthed or chewed such edge or protrusion.
-
-2. "Day care facility" shall mean any facility used to provide day care service.
-
-3. "Day care service" shall mean any service which, during all or part of the day, regularly gives care to seven or more children under six years of age, not all of common parentage, which operates more than five hours per week for more than one month a year. Day care service shall not mean a kindergarten or higher grade in a facility operated by the board of education.
-
-4. "Deteriorated subsurface" shall mean an unstable or unsound painted subsurface, an indication of which can be observed through a visual inspection, including but not limited to, rotted or decayed wood, or wood or plaster that has been subject to moisture or disturbance.
-
-5. "Friction Surface" shall mean any painted surface that touches or is in contact with another surface, such that the two surfaces are capable of relative motion, and abrade, scrape or bind when in motion. Friction surfaces shall include, but not be limited to, window frames and jambs, doors, and hinges.
-
-6. "Impact Surface" shall mean any interior painted surface that shows evidence, such as marking, denting, or chipping, that it is subject to damage by repeated sudden force, such as certain parts of door frames, moldings, or baseboards.
-
-7. "Lead-based paint" shall mean paint or other similar surface-coating material containing 1.0 milligrams of lead per square centimeter or greater, as determined by laboratory analysis, or by an x-ray fluorescence analyzer. If an x-ray fluorescence analyzer is used, readings shall be corrected for substrate bias when necessary as specified by the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings shall be classified as positive, negative or inconclusive in accordance with the United States department of housing and urban development "Guidelines for the Evaluation and Control of Lead-Based Paint Hazards in Housing"  and the PCS released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings that fall within the inconclusive zone, as determined by the performance characteristic sheets, shall be confirmed by laboratory analysis of paint chips, results shall be reported in milligrams of lead per square centimeter and the measure of such laboratory analysis shall be definitive. If laboratory analysis is used to determine lead content, results shall be reported in milligrams of lead per square centimeter. Where the surface area of a paint chip sample cannot be accurately measured or if an accurately measured paint chip sample cannot be removed, laboratory analysis may be reported in percent by weight. In such case, lead-based paint shall mean any paint or other similar surface-coating material containing more than 0.5% of metallic lead, based on the non-volatile content of the paint or other similar surface-coating material.
-
-8. "Lead-based paint hazard" shall mean any condition that causes exposure to lead from lead-contaminated dust, from lead-based paint that is peeling, or from lead-based paint that is present on chewable surfaces, deteriorated subsurfaces, friction surfaces, or impact surfaces that would result in adverse human health effects.
-
-9. "Lead-contaminated dust" shall mean dust containing lead at 40 or more micrograms per square foot on a floor, 250 or more micrograms per square foot on window sills, and 400 or more micrograms per square foot on window wells, or such more stringent standards as may be adopted by the New York City board of health.
-
-10. "Operator of such day care facility" shall mean any person who provides day care service and the owner of the premises where such day care facility is located. "Person" shall mean an individual, corporation, partnership, association or other for-profit or not-for-profit entity.
-
-11. "Peeling" shall mean that the paint or other surface-coating material is curling, cracking, scaling, flaking, blistering, chipping, chalking, or loose in any manner, such that a space or pocket of air is behind a portion thereof or such that the paint is not completely adhered to the underlying surface.
-
-12. "Remediation" or "Remediate" shall mean the reduction or elimination of a lead-based paint hazard through the wet scraping and repainting, removal, encapsulation, enclosure, or replacement of lead based paint, or other method approved by the commissioner of health and mental hygiene.
-
-
-
-
-
-**Subchapter 2: Remediation of Lead-based Paint Hazards In Day Care Facilities**
-
-
-
-*§ 17-910 Presumption.* ::
-
-
-a. All paint or similar surface-coating material on the interior of any day care facility in a structure erected prior to January 1, 1978, shall be presumed to be lead-based paint.
-
-b. The presumption established by this section may be rebutted by the operator or owner of the day care facility by submitting to the department a sworn written statement by the operator or owner of the day care facility supported by lead-based paint testing or sampling results, a sworn written statement by the person who performed the testing if performed by an employee or agent of the operator or owner of the day care facility, and such other proof as the department may require. Testing performed to rebut the presumption may only be performed by a person who has been certified as an inspector or risk assessor in accordance with subparts L and Q of 40 CFR part 745 or successor regulations. The determination as to whether such proof is adequate to rebut the presumption established by this section shall be made by the department.
-
-
-
-
-
-
-*§ 17-911 Remediation.* ::
-
-
-a. There shall be no peeling lead-based paint in any portion of any day care facility.
-
-b. Lead based paint or paint of unknown lead content that is peeling, or which is present on chewable surfaces, deteriorated subsurfaces, friction surfaces, or impact surfaces shall be immediately remediated in a manner authorized by the department.
-
-c. Any equipment that is painted shall be painted with lead-free paint.
-
-d. Whenever a condition prohibited by this section is found to exist, the department shall immediately serve an order on the operator or owner of such day care facility to remediate the condition. In the event such order is not complied with within forty-five days of service thereof, the department shall immediately request an agency of the city of New York to execute such order pursuant to the provisions of section 17-147 of this code. The agency shall execute the order within forty-five days of the department's request. The city of New York shall be entitled to enforce its rights for reimbursement of expenses incurred thereby, including as credits toward lease payments.
-
-e. When lead-based paint hazards are remediated pursuant to this section such work shall be performed in compliance with work practices established by the department pursuant to section 17-912 of this subchapter.
-
-
-
-
-
-
-*§ 17-912 Department rules.* ::
-
-
-The department shall promulgate such rules as may be necessary for the implementation of this chapter. Such rules shall incorporate work practices that are no less protective of public health than those set forth in section 173.14 (d) and (e) and those parts of subdivision b of the health code applicable thereto or a successor rule, and shall include a requirement that lead-contaminated dust clearance testing be performed at the completion of such work. Such rules shall require that such work be performed by a person who has, at a minimum, successfully completed a course on lead-safe work practices given by or on behalf of the department or, by the United States environmental protection agency or an entity authorized by it to give such course, or by the United States department of housing and urban development or an entity authorized by it to give such course. Such rules shall not apply where such work disturbs surfaces of less than (a) two square feet of peeling lead-based paint per room or (b) ten percent of the total surface area of peeling paint on a type of component with a small surface area, such as a window sill or door frame.
-
-
-
-
-
-
-*§ 17-913 Annual Survey.* ::
-
-
-The operator of a day care facility shall conduct a survey of such facility annually, and more often if necessary, to determine the physical condition of surface-coating material throughout each such facility and shall provide a copy of the survey results to the department.
-
-
-
-
 Chapter 10: Prescription Drug Discount Card Act
 --------------------------------------------------
 
@@ -5639,6 +5566,103 @@ The department may enter into contracts or agreements with third parties to impl
 
 
 The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
+
+
+
+
+Chapter 9: Lead-based Paint In Day Care Facilities
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: Definitions**
+
+
+
+*§ 17-900 Definitions.* ::
+
+
+For the purpose of this chapter the following terms shall have the following meanings:
+
+1. " Chewable surface" shall mean a protruding interior window sill in a day care facility that is readily accessible to a child of applicable age. "Chewable surface" shall also mean any other type of interior edge or protrusion in a day care facility, such as a rail or stair, where there is evidence that such other edge or protrusion has been chewed or where the operator of such day care facility has observed that a child under six years of age has mouthed or chewed such edge or protrusion.
+
+2. "Day care facility" shall mean any facility used to provide day care service.
+
+3. "Day care service" shall mean any service which, during all or part of the day, regularly gives care to seven or more children under six years of age, not all of common parentage, which operates more than five hours per week for more than one month a year. Day care service shall not mean a kindergarten or higher grade in a facility operated by the board of education.
+
+4. "Deteriorated subsurface" shall mean an unstable or unsound painted subsurface, an indication of which can be observed through a visual inspection, including but not limited to, rotted or decayed wood, or wood or plaster that has been subject to moisture or disturbance.
+
+5. "Friction Surface" shall mean any painted surface that touches or is in contact with another surface, such that the two surfaces are capable of relative motion, and abrade, scrape or bind when in motion. Friction surfaces shall include, but not be limited to, window frames and jambs, doors, and hinges.
+
+6. "Impact Surface" shall mean any interior painted surface that shows evidence, such as marking, denting, or chipping, that it is subject to damage by repeated sudden force, such as certain parts of door frames, moldings, or baseboards.
+
+7. "Lead-based paint" shall mean paint or other similar surface-coating material containing 1.0 milligrams of lead per square centimeter or greater, as determined by laboratory analysis, or by an x-ray fluorescence analyzer. If an x-ray fluorescence analyzer is used, readings shall be corrected for substrate bias when necessary as specified by the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings shall be classified as positive, negative or inconclusive in accordance with the United States department of housing and urban development "Guidelines for the Evaluation and Control of Lead-Based Paint Hazards in Housing"  and the PCS released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings that fall within the inconclusive zone, as determined by the performance characteristic sheets, shall be confirmed by laboratory analysis of paint chips, results shall be reported in milligrams of lead per square centimeter and the measure of such laboratory analysis shall be definitive. If laboratory analysis is used to determine lead content, results shall be reported in milligrams of lead per square centimeter. Where the surface area of a paint chip sample cannot be accurately measured or if an accurately measured paint chip sample cannot be removed, laboratory analysis may be reported in percent by weight. In such case, lead-based paint shall mean any paint or other similar surface-coating material containing more than 0.5% of metallic lead, based on the non-volatile content of the paint or other similar surface-coating material.
+
+8. "Lead-based paint hazard" shall mean any condition that causes exposure to lead from lead-contaminated dust, from lead-based paint that is peeling, or from lead-based paint that is present on chewable surfaces, deteriorated subsurfaces, friction surfaces, or impact surfaces that would result in adverse human health effects.
+
+9. "Lead-contaminated dust" shall mean dust containing lead at 40 or more micrograms per square foot on a floor, 250 or more micrograms per square foot on window sills, and 400 or more micrograms per square foot on window wells, or such more stringent standards as may be adopted by the New York City board of health.
+
+10. "Operator of such day care facility" shall mean any person who provides day care service and the owner of the premises where such day care facility is located. "Person" shall mean an individual, corporation, partnership, association or other for-profit or not-for-profit entity.
+
+11. "Peeling" shall mean that the paint or other surface-coating material is curling, cracking, scaling, flaking, blistering, chipping, chalking, or loose in any manner, such that a space or pocket of air is behind a portion thereof or such that the paint is not completely adhered to the underlying surface.
+
+12. "Remediation" or "Remediate" shall mean the reduction or elimination of a lead-based paint hazard through the wet scraping and repainting, removal, encapsulation, enclosure, or replacement of lead based paint, or other method approved by the commissioner of health and mental hygiene.
+
+
+
+
+
+
+
+**Subchapter 2: Remediation of Lead-based Paint Hazards In Day Care Facilities**
+
+
+
+*§ 17-910 Presumption.* ::
+
+
+a. All paint or similar surface-coating material on the interior of any day care facility in a structure erected prior to January 1, 1978, shall be presumed to be lead-based paint.
+
+b. The presumption established by this section may be rebutted by the operator or owner of the day care facility by submitting to the department a sworn written statement by the operator or owner of the day care facility supported by lead-based paint testing or sampling results, a sworn written statement by the person who performed the testing if performed by an employee or agent of the operator or owner of the day care facility, and such other proof as the department may require. Testing performed to rebut the presumption may only be performed by a person who has been certified as an inspector or risk assessor in accordance with subparts L and Q of 40 CFR part 745 or successor regulations. The determination as to whether such proof is adequate to rebut the presumption established by this section shall be made by the department.
+
+
+
+
+
+
+*§ 17-911 Remediation.* ::
+
+
+a. There shall be no peeling lead-based paint in any portion of any day care facility.
+
+b. Lead based paint or paint of unknown lead content that is peeling, or which is present on chewable surfaces, deteriorated subsurfaces, friction surfaces, or impact surfaces shall be immediately remediated in a manner authorized by the department.
+
+c. Any equipment that is painted shall be painted with lead-free paint.
+
+d. Whenever a condition prohibited by this section is found to exist, the department shall immediately serve an order on the operator or owner of such day care facility to remediate the condition. In the event such order is not complied with within forty-five days of service thereof, the department shall immediately request an agency of the city of New York to execute such order pursuant to the provisions of section 17-147 of this code. The agency shall execute the order within forty-five days of the department's request. The city of New York shall be entitled to enforce its rights for reimbursement of expenses incurred thereby, including as credits toward lease payments.
+
+e. When lead-based paint hazards are remediated pursuant to this section such work shall be performed in compliance with work practices established by the department pursuant to section 17-912 of this subchapter.
+
+
+
+
+
+
+*§ 17-912 Department rules.* ::
+
+
+The department shall promulgate such rules as may be necessary for the implementation of this chapter. Such rules shall incorporate work practices that are no less protective of public health than those set forth in section 173.14 (d) and (e) and those parts of subdivision b of the health code applicable thereto or a successor rule, and shall include a requirement that lead-contaminated dust clearance testing be performed at the completion of such work. Such rules shall require that such work be performed by a person who has, at a minimum, successfully completed a course on lead-safe work practices given by or on behalf of the department or, by the United States environmental protection agency or an entity authorized by it to give such course, or by the United States department of housing and urban development or an entity authorized by it to give such course. Such rules shall not apply where such work disturbs surfaces of less than (a) two square feet of peeling lead-based paint per room or (b) ten percent of the total surface area of peeling paint on a type of component with a small surface area, such as a window sill or door frame.
+
+
+
+
+
+
+*§ 17-913 Annual Survey.* ::
+
+
+The operator of a day care facility shall conduct a survey of such facility annually, and more often if necessary, to determine the physical condition of surface-coating material throughout each such facility and shall provide a copy of the survey results to the department.
 
 
 
@@ -6407,6 +6431,159 @@ Table IICarpet Cushion 24-Hour VOC Emissions Test Criteria
 
 
 
+Chapter 16: Animal Abuse Registration Act
+--------------------------------------------------
+
+
+
+*§ 17-1601 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms shall have the following meanings:
+
+a. "Animal abuse crime" shall mean any of the following:
+
+   1. animal fighting, as defined in section three hundred fifty-one of the agriculture and markets law;
+
+   2. overdriving, torturing or injuring animals; failure to provide proper sustenance, as defined in section three hundred fifty-three of the agriculture and markets law;
+
+   3. aggravated cruelty to animals, as defined in section three hundred fifty-three-a of the agriculture and markets law;
+
+   4. electrocution of fur-bearing animals, as defined in section three hundred fifty-three-c of the agriculture and markets law;
+
+   5. abandonment of animals, as defined in section three hundred fifty-five of the agriculture and markets law;
+
+   6. failure to provide proper food and drink to an impounded animal, as defined in section three hundred fifty-six of the agriculture and markets law;
+
+   7. poisoning or attempting to poison animals, as defined in section three hundred sixty of the agriculture and markets law;
+
+   8. interference with or injury to certain domestic animals, as defined in section three hundred sixty-one of the agriculture and markets law;
+
+   9. harming a service animal in the first degree, as defined in section 242.15 of the penal code; or
+
+   10. an offense in any other jurisdiction which includes all of the essential elements of any such crime provided for in paragraph one, two, three, four, five, six, seven, eight, or nine of this subdivision.
+
+b. "Animal shelter" shall mean any full service shelter, as defined in subdivision d of section 17-802 of this code, or other facility that makes dogs and cats available for adoption whether or not a fee for such adoption is charged.
+
+c. "Animal rescue group" has the same meaning as such term is defined in section 17-802 of chapter eight of this title.
+
+d. "Authorized entity" shall mean any of the following: a humane society duly incorporated in the state of New York, a society for the prevention of cruelty to animals duly incorporated in the state of New York, a dog or cat protective associations duly incorporated in the state of New York, an animal control officer, a pet shop, a veterinarian, an animal rescue, or an animal shelter operating in the city of New York.
+
+e. "Commissioner" shall mean the commissioner of the agency designated to implement the provisions of this chapter pursuant to subdivision a of section 17-1602 of this chapter.
+
+f. "Convicted of" shall mean an adjudication of guilt by any court of competent jurisdiction, whether upon a verdict or plea of guilty or nolo contendere.
+
+g. "Department" shall mean the agency designated to implement the provisions of this chapter pursuant to subdivision a of section 17-1602 of this chapter, notwithstanding any inconsistent provisions of this title.
+
+h. "Registrant" shall mean a person required to register with the department pursuant to this chapter.
+
+i. "Pet shop" shall have the same meaning as such term is defined in section 17-371 of this title.
+
+
+
+
+
+
+
+
+*§ 17-1602 Creation of animal abuse registry.* ::
+
+
+a. The mayor or his designee shall designate an agency to implement the provisions of this chapter and shall report such designation to the speaker of the council.
+
+b. The department shall create, manage and maintain an electronic registry of individuals living in the city of New York who have been convicted of an animal abuse crime and who have registered with the department pursuant to this chapter.
+
+c. The information maintained in the registry created pursuant to this section shall only be made available to law enforcement agencies, district attorneys or when otherwise required by law, and shall otherwise be kept confidential, provided, however, that the department shall grant authorized entities the password-protected ability to electronically query the registry using a person's name, driver's license or non-driver photo ID card number, or other identifying information determined by the commissioner, and to receive in response to such query electronic notice of whether such person is prohibited from owning an animal under section 17-1604 of this chapter.
+
+
+
+
+
+
+*§ 17-1603 Animal abuse registration requirements.* ::
+
+
+a. Any person eighteen years of age or older who resides in the city of New York and has been convicted of an animal abuse crime on or after the effective date of the local law that added this chapter shall personally appear before the department at a location determined by the commissioner to register, provided, however, no person shall be required to appear before the department to register pending resolution of an appeal of such conviction.
+
+   1. Such person shall appear and register within five days following such person's release from incarceration or if such person was not incarcerated within five days from the date of such person's sentencing.
+
+   2. Notwithstanding the foregoing, a person convicted of an animal abuse crime on or after the effective date of the local law that added this chapter who establishes residency in the city of New York following such person's release from incarceration or if such person was not incarcerated following such person's sentencing, must, within five days of establishing such residency, personally appear before the department at a location determined by the commissioner to register.
+
+b. The department shall photograph the registrant at the time of registration.
+
+c. Any person required to register pursuant to this chapter shall submit to the department the following:
+
+   1. The registrant's name, all aliases used, date of birth, sex, complexion, race or ethnicity, height, weight, eye color, number of any driver's license or non-driver photo ID card, home address and/or expected place of residence.
+
+   2. A description of the offense for which the registrant was convicted, the date of conviction and the sentence imposed.
+
+   3. Any other documentation as the commissioner deems acceptable to verify the information provided by the registrant.
+
+d. Within twenty days of each one year anniversary of the registrant's initial registration date for so long as such registrant remains on the animal abuse registry pursuant to subdivision f of this section, such registrant shall personally appear at a location designated by the commissioner. At such appearance the department shall photograph the registrant and verify the continuing accuracy of the information provided by the registrant pursuant to subdivision c of this section.
+
+e. Within five days of any change in any of the information provided by a registrant pursuant to subdivision c of this section, such registrant shall personally appear before the department to submit updated information for the registry.
+
+f. Each registrant shall remain on the animal abuse registry for five years following his or her release from incarceration or the date sentencing was rendered, whichever is later, provided, however, that registrants who are convicted of any subsequent animal abuse crime shall remain on the animal abuse registry for ten years following the date of their most recent conviction.
+
+
+
+
+
+
+*§ 17-1604 Prohibition on contact with animals.* ::
+
+
+a. A person who is registered or required to register pursuant to section 17-1603 shall not own, possess, reside with, have custody of, or intentionally engage in any physical contact with any animal.
+
+
+
+
+
+
+*§ 17-1605 Prohibition of transfers of animals to animal abusers.* ::
+
+
+a. Prior to the exchange or transfer of ownership of any animal in the care of an authorized entity operating in the city of New York, an employee or volunteer of such entity shall consult the animal abuse registry to determine whether the person seeking ownership of such animal is listed on the animal abuse registry.
+
+b. No entity required to consult the animal abuse registry shall exchange or transfer the ownership of any animal to any person listed on the animal abuse registry.
+
+c. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are made available for adoption.
+
+
+
+
+
+
+
+
+*§ 17-1606 Rules.* ::
+
+
+The commissioner may promulgate rules necessary for the implementation of this chapter.
+
+
+
+
+
+
+*§ 17-1607 Penalties.* ::
+
+
+a. Any person found in violation of section 17-1603 or 17-1604 or any rules promulgated thereunder shall be guilty of a misdemeanor punishable by incarceration for not more than one year or a fine of up to one thousand dollars, or both.
+
+
+
+
+
+
+*§ 17-1608 Applicability.* ::
+
+
+This law shall apply to all persons convicted of an animal abuse crime on or after the effective date of this law.
+
+
+
+
 Chapter 15: Food Service Establishments
 --------------------------------------------------
 
@@ -6604,155 +6781,63 @@ d. Beginning May 1, 2019, and by May 1 annually thereafter, the department shall
 
 
 
-Chapter 16: Animal Abuse Registration Act
+Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
 --------------------------------------------------
 
 
 
-*§ 17-1601 Definitions.* ::
+*§ 17-1801 Definitions.* ::
 
 
 For the purposes of this chapter, the following terms shall have the following meanings:
 
-a. "Animal abuse crime" shall mean any of the following:
+Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
 
-   1. animal fighting, as defined in section three hundred fifty-one of the agriculture and markets law;
+Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
 
-   2. overdriving, torturing or injuring animals; failure to provide proper sustenance, as defined in section three hundred fifty-three of the agriculture and markets law;
+Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
 
-   3. aggravated cruelty to animals, as defined in section three hundred fifty-three-a of the agriculture and markets law;
+Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
 
-   4. electrocution of fur-bearing animals, as defined in section three hundred fifty-three-c of the agriculture and markets law;
+Screened. The term “screened” means evaluated by a health care provider.
 
-   5. abandonment of animals, as defined in section three hundred fifty-five of the agriculture and markets law;
 
-   6. failure to provide proper food and drink to an impounded animal, as defined in section three hundred fifty-six of the agriculture and markets law;
 
-   7. poisoning or attempting to poison animals, as defined in section three hundred sixty of the agriculture and markets law;
 
-   8. interference with or injury to certain domestic animals, as defined in section three hundred sixty-one of the agriculture and markets law;
 
-   9. harming a service animal in the first degree, as defined in section 242.15 of the penal code; or
 
-   10. an offense in any other jurisdiction which includes all of the essential elements of any such crime provided for in paragraph one, two, three, four, five, six, seven, eight, or nine of this subdivision.
 
-b. "Animal shelter" shall mean any full service shelter, as defined in subdivision d of section 17-802 of this code, or other facility that makes dogs and cats available for adoption whether or not a fee for such adoption is charged.
 
-c. "Animal rescue group" has the same meaning as such term is defined in section 17-802 of chapter eight of this title.
+*§ 17-1802 Arrestee health screening.* ::
 
-d. "Authorized entity" shall mean any of the following: a humane society duly incorporated in the state of New York, a society for the prevention of cruelty to animals duly incorporated in the state of New York, a dog or cat protective associations duly incorporated in the state of New York, an animal control officer, a pet shop, a veterinarian, an animal rescue, or an animal shelter operating in the city of New York.
 
-e. "Commissioner" shall mean the commissioner of the agency designated to implement the provisions of this chapter pursuant to subdivision a of section 17-1602 of this chapter.
+Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
 
-f. "Convicted of" shall mean an adjudication of guilt by any court of competent jurisdiction, whether upon a verdict or plea of guilty or nolo contendere.
 
-g. "Department" shall mean the agency designated to implement the provisions of this chapter pursuant to subdivision a of section 17-1602 of this chapter, notwithstanding any inconsistent provisions of this title.
 
-h. "Registrant" shall mean a person required to register with the department pursuant to this chapter.
 
-i. "Pet shop" shall have the same meaning as such term is defined in section 17-371 of this title.
 
 
 
 
+*§ 17-1803 Inmate health information from screening.* ::
 
 
+The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
 
 
-*§ 17-1602 Creation of animal abuse registry.* ::
 
 
-a. The mayor or his designee shall designate an agency to implement the provisions of this chapter and shall report such designation to the speaker of the council.
 
-b. The department shall create, manage and maintain an electronic registry of individuals living in the city of New York who have been convicted of an animal abuse crime and who have registered with the department pursuant to this chapter.
 
-c. The information maintained in the registry created pursuant to this section shall only be made available to law enforcement agencies, district attorneys or when otherwise required by law, and shall otherwise be kept confidential, provided, however, that the department shall grant authorized entities the password-protected ability to electronically query the registry using a person's name, driver's license or non-driver photo ID card number, or other identifying information determined by the commissioner, and to receive in response to such query electronic notice of whether such person is prohibited from owning an animal under section 17-1604 of this chapter.
 
 
+*§ 17-1804 Inmate health information exchange.* ::
 
 
+The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
 
 
-*§ 17-1603 Animal abuse registration requirements.* ::
-
-
-a. Any person eighteen years of age or older who resides in the city of New York and has been convicted of an animal abuse crime on or after the effective date of the local law that added this chapter shall personally appear before the department at a location determined by the commissioner to register, provided, however, no person shall be required to appear before the department to register pending resolution of an appeal of such conviction.
-
-   1. Such person shall appear and register within five days following such person's release from incarceration or if such person was not incarcerated within five days from the date of such person's sentencing.
-
-   2. Notwithstanding the foregoing, a person convicted of an animal abuse crime on or after the effective date of the local law that added this chapter who establishes residency in the city of New York following such person's release from incarceration or if such person was not incarcerated following such person's sentencing, must, within five days of establishing such residency, personally appear before the department at a location determined by the commissioner to register.
-
-b. The department shall photograph the registrant at the time of registration.
-
-c. Any person required to register pursuant to this chapter shall submit to the department the following:
-
-   1. The registrant's name, all aliases used, date of birth, sex, complexion, race or ethnicity, height, weight, eye color, number of any driver's license or non-driver photo ID card, home address and/or expected place of residence.
-
-   2. A description of the offense for which the registrant was convicted, the date of conviction and the sentence imposed.
-
-   3. Any other documentation as the commissioner deems acceptable to verify the information provided by the registrant.
-
-d. Within twenty days of each one year anniversary of the registrant's initial registration date for so long as such registrant remains on the animal abuse registry pursuant to subdivision f of this section, such registrant shall personally appear at a location designated by the commissioner. At such appearance the department shall photograph the registrant and verify the continuing accuracy of the information provided by the registrant pursuant to subdivision c of this section.
-
-e. Within five days of any change in any of the information provided by a registrant pursuant to subdivision c of this section, such registrant shall personally appear before the department to submit updated information for the registry.
-
-f. Each registrant shall remain on the animal abuse registry for five years following his or her release from incarceration or the date sentencing was rendered, whichever is later, provided, however, that registrants who are convicted of any subsequent animal abuse crime shall remain on the animal abuse registry for ten years following the date of their most recent conviction.
-
-
-
-
-
-
-*§ 17-1604 Prohibition on contact with animals.* ::
-
-
-a. A person who is registered or required to register pursuant to section 17-1603 shall not own, possess, reside with, have custody of, or intentionally engage in any physical contact with any animal.
-
-
-
-
-
-
-*§ 17-1605 Prohibition of transfers of animals to animal abusers.* ::
-
-
-a. Prior to the exchange or transfer of ownership of any animal in the care of an authorized entity operating in the city of New York, an employee or volunteer of such entity shall consult the animal abuse registry to determine whether the person seeking ownership of such animal is listed on the animal abuse registry.
-
-b. No entity required to consult the animal abuse registry shall exchange or transfer the ownership of any animal to any person listed on the animal abuse registry.
-
-c. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are made available for adoption.
-
-
-
-
-
-
-
-
-*§ 17-1606 Rules.* ::
-
-
-The commissioner may promulgate rules necessary for the implementation of this chapter.
-
-
-
-
-
-
-*§ 17-1607 Penalties.* ::
-
-
-a. Any person found in violation of section 17-1603 or 17-1604 or any rules promulgated thereunder shall be guilty of a misdemeanor punishable by incarceration for not more than one year or a fine of up to one thousand dollars, or both.
-
-
-
-
-
-
-*§ 17-1608 Applicability.* ::
-
-
-This law shall apply to all persons convicted of an animal abuse crime on or after the effective date of this law.
 
 
 
@@ -7042,67 +7127,6 @@ d. The commissioner may impose upon the owner of a pet shop from which an animal
 
 
 The commissioner may promulgate such rules as are necessary to carry out the provisions of this chapter and to ensure the health and safety of any animal in a pet shop.
-
-
-
-
-Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
---------------------------------------------------
-
-
-
-*§ 17-1801 Definitions.* ::
-
-
-For the purposes of this chapter, the following terms shall have the following meanings:
-
-Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
-
-Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
-
-Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
-
-Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
-
-Screened. The term “screened” means evaluated by a health care provider.
-
-
-
-
-
-
-
-
-*§ 17-1802 Arrestee health screening.* ::
-
-
-Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
-
-
-
-
-
-
-
-
-*§ 17-1803 Inmate health information from screening.* ::
-
-
-The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
-
-
-
-
-
-
-
-
-*§ 17-1804 Inmate health information exchange.* ::
-
-
-The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
-
-
 
 
 
