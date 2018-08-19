@@ -1,21 +1,19 @@
 Title 2: City of New York
 ===================================================
-**Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia**
+
+
+Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 --------------------------------------------------
-**§ 2-101 Name; powers and rights of the corporation; seal.**  ::
 
 
-The city shall be a body politic and corporate in fact and in law with power to contract and to be contracted with, to sue and be sued, to have a common seal and to have perpetual succession.
+
+**Subchapter 1: Administration and Enforcement**
 
 
+**Article 1: General Provisions** 
 
 
 *§ 2-102 City seal.*  ::
-
-*§ 2-102 City seal.*  ::
-
-**§ 2-102 City seal.**  ::
-
 
 a. Description. The following is hereby adopted as the device of the corporate seal of the city of New York, to-wit:
 
