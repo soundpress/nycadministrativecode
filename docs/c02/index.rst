@@ -920,8 +920,8 @@ Chapter 1: Mayor
 	      3.   The social cost of carbon value shall be as follows:
 	
 	 
-.. list-table::
-   :header-rows: 1
+    .. list-table:: Table
+       :header-rows: 1
 
        * - Year
          - Dollar value per metric ton of carbon dioxide equivalent
