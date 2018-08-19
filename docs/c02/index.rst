@@ -918,7 +918,10 @@ Chapter 1: Mayor
 	      2.   If the geothermal system has the lowest net present value of all alternatives considered it shall be selected for implementation.
 
 
+
 .. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=admin0-0-0-31-img$t=document-frame.htm$3.0$p=
+
+
 
 
 	      3.   The social cost of carbon value shall be as follows:
