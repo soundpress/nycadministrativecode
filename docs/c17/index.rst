@@ -16,7 +16,7 @@ Whenever used in this title the following terms shall have the following meaning
 § 17-102 Secretary; certification by chief clerk. ::
 
 
- a. The secretary of the department, subject to the direction of the commissioner, shall keep and authenticate the acts, records, papers and proceedings of the department, preserve its books and papers, conduct its correspondence, and aid generally in accomplishing the purposes of the department.
+a. The secretary of the department, subject to the direction of the commissioner, shall keep and authenticate the acts, records, papers and proceedings of the department, preserve its books and papers, conduct its correspondence, and aid generally in accomplishing the purposes of the department.
 b. Papers certified by the chief clerk of the department or by an assistant chief clerk shall be of the same effect as evidence and otherwise, as if certified by the secretary.
 
 
@@ -33,7 +33,7 @@ Proofs, affidavits and examinations as to any matter under the jurisdiction of t
 § 17-104 Measures to prevent the spread of disease. ::
 
 
- a. It shall be the duty of the department:
+a. It shall be the duty of the department:
 1. To cause any avenue, street, alley or other passage whatever, to be fenced up or otherwise inclosed if it shall deem the public safety requires it, and to adopt suitable measures for preventing all persons from going to any part of the city so inclosed;
 2. To forbid all communication with the house or family infected with any communicable disease except by means of physicians, nurses or messengers to carry the necessary advice, medicines and provisions to the afflicted;
 3. To adopt such means for preventing all communication between any part of the city infected with a disease of communicable character and all other parts of the city, as shall be prompt and effectual.
@@ -45,7 +45,7 @@ b. Failure to comply with the provisions adopted by the department pursuant to t
 § 17-105 Commercial paper during epidemic; duties of city clerk. ::
 
 
- a. Whenever the board of health, by public notice, shall designate any portion or district of the city as being the seat of any infectious or contagious disease, and declare communication with such portion or district to be dangerous, or shall prohibit such communication, the city clerk, during the continuance of such disease in such district, shall provide and keep in his or her office a book for the purpose of registering in alphabetical order, the names, firms and places of business of any inhabitant of the city who shall request such registry to be made.
+a. Whenever the board of health, by public notice, shall designate any portion or district of the city as being the seat of any infectious or contagious disease, and declare communication with such portion or district to be dangerous, or shall prohibit such communication, the city clerk, during the continuance of such disease in such district, shall provide and keep in his or her office a book for the purpose of registering in alphabetical order, the names, firms and places of business of any inhabitant of the city who shall request such registry to be made.
 b. All persons and firms usually resident or doing business within such infected district shall register, in the books so provided, their names or firms, with the place or places out of such infected district, but within the city to which they may have removed the transaction of their business, or to which they may desire any notices to be sent or served, or any notes, drafts, or bills to be presented for acceptance or for payment. Twenty-five cents may be claimed and received by the city clerk for every such registry; but the book in which the same shall be entered shall be open to public examination free of all charges at all times during office hours.
 c. During the continuance of any such disease in such infected district, all drafts, notes and bills, which by law are required to be presented for acceptance or for payment, may be presented for such purpose at the place so designated in such registry, and all notices of nonacceptance and non-payment of any note, draft or bill, or of protest for such non-acceptance or non-payment, may be served by leaving the same at the place so designated.
 d. In case any person or firm usually resident or doing business within such infected district shall neglect to make and cause to be entered in the book so provided, the registry herein required, all notes, drafts or bills which by law are required to be presented to such person or firm for acceptance or for payment, may be presented to the city clerk during the continuance of such disease, at any time during office hours, and demand of acceptance or payment thereof may be made of such city clerk, to the same purpose and with the same effect as if the same had been presented and acceptance or payment demanded of such person or firm at their usual place of doing business.
@@ -66,7 +66,7 @@ Any officer or employee of the department may visit any person who shall be repo
 § 17-107 Inspection of vessels; removal; violation of orders, punishment for. ::
 
 
- a. An officer or employee of the department shall visit and inspect all vessels coming to the wharves, landing places, or shores of the city, or within three hundred yards thereof, which are suspected of having on board any communicable disease, or of being likely to communicate such disease to the inhabitants of the city. Such officer or employee shall report in writing, stating the vessel so inspected and the nature, state, and situation thereof, and his or her opinion as to the probability of disease being communicated by or from the same, and shall file such report in the main office of the department.
+a. An officer or employee of the department shall visit and inspect all vessels coming to the wharves, landing places, or shores of the city, or within three hundred yards thereof, which are suspected of having on board any communicable disease, or of being likely to communicate such disease to the inhabitants of the city. Such officer or employee shall report in writing, stating the vessel so inspected and the nature, state, and situation thereof, and his or her opinion as to the probability of disease being communicated by or from the same, and shall file such report in the main office of the department.
 b. If the department deem it probable that any such disease may be brought into the city or communicated to the inhabitants thereof, it may by order direct any vessel lying at a place within three hundred yards of any wharf, landing place or shore of the city to be removed at least three hundred yards therefrom within six hours after a copy of such order, certified by the secretary of the department, shall be delivered to the person or persons having command of such vessel, or to the master, owner or consignee thereof. Every person to whom such copy of such order shall be delivered shall forthwith comply with the same.
 c. Failure to comply with the provisions of this section shall constitute a misdemeanor, punishable by a fine of not exceeding two hundred fifty dollars, or imprisonment not exceeding six months, or both.
 
@@ -76,7 +76,7 @@ c. Failure to comply with the provisions of this section shall constitute a misd
 § 17-108 Infected places outside the city; proclamation. ::
 
 
- a. The board may issue a proclamation declaring any place where there shall be reason to believe a communicable disease actually exists, to be an infected place within the meaning of the health laws of this state. Such proclamation shall fix the time when it shall cease to have effect but such period, from time to time, may be extended by the board if it shall judge the public health to require such extension. Notice of an extension shall be published in one or more newspapers of the city.
+a. The board may issue a proclamation declaring any place where there shall be reason to believe a communicable disease actually exists, to be an infected place within the meaning of the health laws of this state. Such proclamation shall fix the time when it shall cease to have effect but such period, from time to time, may be extended by the board if it shall judge the public health to require such extension. Notice of an extension shall be published in one or more newspapers of the city.
 b. After such proclamation shall have been issued, all vessels arriving in the port of New York from such infected place shall be subject to a quarantine of at least thirty days or until the termination of the proclamation period, and together with their officers, crews, passengers and cargoes, shall be subject to all the provisions, regulations and penalties in relation to vessels subject to quarantine.
 c. The board may prohibit or regulate the internal intercourse by land or water between the city and the infected place; and may direct that all persons who come into the city contrary to its prohibition or regulations shall be apprehended and conveyed to the vessel or places from where they last came, or if sick, to such place as the board shall direct.
 d. Failure to comply with the provisions of this section shall constitute a misdemeanor, punishable by a fine of not exceeding two hundred fifty dollars, or imprisonment not exceeding six months, or both.
@@ -87,7 +87,7 @@ d. Failure to comply with the provisions of this section shall constitute a misd
 § 17-109 Vaccinations. ::
 
 
- a. The department is empowered to collect and preserve pure vaccine lymph or virus, produce diphtheria antitoxin and other vaccines and antitoxins, and add necessary additional provisions to the health code in order to most effectively prevent the spread of communicable diseases.
+a. The department is empowered to collect and preserve pure vaccine lymph or virus, produce diphtheria antitoxin and other vaccines and antitoxins, and add necessary additional provisions to the health code in order to most effectively prevent the spread of communicable diseases.
 b. The department may take measures, and supply agents and offer inducements and facilities for general and gratuitous vaccination, disinfection, and for the use of diphtheria antitoxin and other vaccines and antitoxins.
 
 
@@ -96,7 +96,7 @@ b. The department may take measures, and supply agents and offer inducements and
 § 17-110 Sale and exchange of lymph and antitoxin. ::
 
 
- a. The department may authorize the sale at reasonable rates to be fixed by it, of surplus vaccine lymph, virus, diphtheria antitoxin and other vaccines and antitoxins, when the amount collected shall exceed the amount required by it in the proper performance of its duties. The avails of such sales shall be credited by the department to the general fund of the city of New York and included in its semi-monthly transmission of revenue collections to the commissioner of finance of the city of New York.
+a. The department may authorize the sale at reasonable rates to be fixed by it, of surplus vaccine lymph, virus, diphtheria antitoxin and other vaccines and antitoxins, when the amount collected shall exceed the amount required by it in the proper performance of its duties. The avails of such sales shall be credited by the department to the general fund of the city of New York and included in its semi-monthly transmission of revenue collections to the commissioner of finance of the city of New York.
 b. The bureau of laboratories of the department may also exchange, upon authority and approval of the commissioner, and upon the written approval of the mayor, a portion of its laboratory products for other and different laboratory products, manufactured by the laboratories of the United States government and of other cities and laboratories, which the department may need for the prevention of the spread of disease.
 
 
@@ -121,7 +121,7 @@ The department, to promote the public good and public service, may establish rea
 § 17-113 Repairs of buildings; removal of obstructions; regulation of public markets. ::
 
 
- a. The powers of the department shall include the ordering and enforcing in the same manner as other orders are provided to be enforced, the repairs of buildings, houses and other structures; the regulation and control of all public markets in relation to the cleanliness, ventilation and drainage thereof and the prevention of sale or offering for sale of improper articles; the removal of any obstruction, matter or thing in or upon the public streets, sidewalks or places, which, in the opinion of the department, may lead to conditions dangerous to life or health; the prevention of accidents by which life or health may be endangered; and generally the abatement of all nuisances.
+a. The powers of the department shall include the ordering and enforcing in the same manner as other orders are provided to be enforced, the repairs of buildings, houses and other structures; the regulation and control of all public markets in relation to the cleanliness, ventilation and drainage thereof and the prevention of sale or offering for sale of improper articles; the removal of any obstruction, matter or thing in or upon the public streets, sidewalks or places, which, in the opinion of the department, may lead to conditions dangerous to life or health; the prevention of accidents by which life or health may be endangered; and generally the abatement of all nuisances.
 b. The department shall possess full power with reference to the ventilation, drainage and cleanliness, of the stands or stalls in or around all markets.
 
 
@@ -154,7 +154,7 @@ The department, from time to time may make rules and regulations fixing the time
 § 17-117 Removal of bodies. ::
 
 
- a. It shall be the duty of the department upon receiving a certificate of death, made in accordance with its rules, to grant a permit for the removal from the city, of the body of the person described in such certificate if such body has not been buried.
+a. It shall be the duty of the department upon receiving a certificate of death, made in accordance with its rules, to grant a permit for the removal from the city, of the body of the person described in such certificate if such body has not been buried.
 b. It may grant a permit for the removal of the remains of any person interred within the city to a place without the city, on the application of a relative or friend of such person, when there shall appear to be no just objection to the same.
 
 
@@ -171,7 +171,7 @@ The department, when it shall judge it necessary, may cause any cargo or part th
 § 17-119 Drainage; orders therefor; maps. ::
 
 
- a. Whenever in its opinion the protection of the public health requires the drainage of any lands in the city, by means other than sewers, the department may make an order describing the location of such lands, and directing the proper drainage thereof, and construction of drains therefor, by the commissioner of design and construction.
+a. Whenever in its opinion the protection of the public health requires the drainage of any lands in the city, by means other than sewers, the department may make an order describing the location of such lands, and directing the proper drainage thereof, and construction of drains therefor, by the commissioner of design and construction.
 b. The department after making such order, shall cause a map to be made on which shall be shown the location of such proposed drains and the lands required for the construction thereof.
 c. The order shall be entered at length in the records of the department and a copy thereof shall be delivered to the commissioner of design and construction.
 d. The map shall be filed in the department. A copy thereof shall be filed in the office of the register or county clerk of the county in which the lands are situated; another copy thereof shall be filed with the borough president of the borough in which the lands are situated; another copy with the copy of the order shall be filed with the commissioner of design and construction, who shall immediately thereafter have the power, and is hereby directed to make and adopt proper and suitable plans for the construction of such drains.
@@ -190,7 +190,7 @@ An order for the paving, filling, concreting, draining or regulating of any yard
 § 17-121 Care and treatment of physically handicapped children. ::
 
 
- a. As used in this section, the following terms shall mean or include:
+a. As used in this section, the following terms shall mean or include:
 1. "Physically handicapped child." A person under twenty-one years of age who, by reason of a physical defect or infirmity, whether congenital or acquired by accident, injury or disease, is or may be expected to be totally or partially incapacitated for education or for remunerative occupation.
 2. "Legally responsible relatives." The parent or parents of a physically handicapped child or any other person or persons liable under the law for the support of such child.
 3. "Legal custodian." The parent or parents of a physically handicapped child having lawful custody of such child, or any other person or persons having lawful custody of such child.
@@ -211,7 +211,7 @@ All courts shall take judicial notice of the seal of the department and of the s
 § 17-123 Window guards; notification to tenants. ::
 
 
- a. All leases offered to tenants in multiple dwellings must contain a notice, conspicuously set forth therein, which advises tenants of the obligation of the owner, lessee, agent or other person who manages or controls a multiple dwelling to install window guards, and where further information regarding the procurement of such window guards is available.
+a. All leases offered to tenants in multiple dwellings must contain a notice, conspicuously set forth therein, which advises tenants of the obligation of the owner, lessee, agent or other person who manages or controls a multiple dwelling to install window guards, and where further information regarding the procurement of such window guards is available.
 b. The owner, lessee, agent or other person who manages or controls a multiple dwelling must cause to be delivered to each residential unit a notice advising occupants of the obligation of such owner, lessee, agent or other person who manages or controls a multiple dwelling to install window guards and where further information regarding the procurement of such window guards is available. Such notice must be provided on an annual basis in a form and manner approved by the department.
 c. The department of health and mental hygiene shall promulgate such regulations as it deems necessary to comply with the provisions of this section, with respect to the annual notice to tenants, and the notice requirement in all multiple dwelling leases.
 d. Any person who violates the provisions of this section, or the regulations promulgated hereunder, shall be guilty of a misdemeanor punishable by a fine of up to five hundred dollars or imprisonment for up to six months or both. In addition, any violation of this section shall constitute a civil violation subject to a penalty of not more than five hundred dollars per violation.* A civil violation under this section shall be adjudicated before the administrative tribunal of the department.
@@ -230,7 +230,7 @@ The commissioner may send to such place as he or she may direct, all aliens and 
 § 17-125 Community air quality surveys and annual report. ::
 
 
- a. For the purposes of this section, "pollutants" means particulate matter that is less than 2.5 micrometers in diameter, nitrogen dioxide, nitric oxide, sulfur dioxide and ground-level ozone.
+a. For the purposes of this section, "pollutants" means particulate matter that is less than 2.5 micrometers in diameter, nitrogen dioxide, nitric oxide, sulfur dioxide and ground-level ozone.
 b. The department shall conduct a community air quality survey on an annual basis. Such survey shall:
 1. Measure pollutants at street-level at monitoring sites across the city of New York over every season of the year, selected to ensure that the number of monitoring sites provides adequate information to assess the range of common emissions sources and neighborhood pollutant concentrations across the city, as determined by the department. At the discretion of the department, data on ozone may be measured in the summer months only and data on sulfur dioxide may be measured in the winter months only;
 2. Determine whether and how concentrations of pollutants near monitor sites vary across the city and the relationship, if any, of such concentrations to local traffic, building emissions and other factors;
@@ -265,7 +265,7 @@ The department may institute and maintain all suits and proceedings which are re
 § 17-129 Proceedings presumed legal; presumptions. ::
 
 
- a. The actions, proceedings, authority, and orders of the department shall at all times be regarded as in their nature judicial, and be treated as prima facie just and legal.
+a. The actions, proceedings, authority, and orders of the department shall at all times be regarded as in their nature judicial, and be treated as prima facie just and legal.
 b. In any action or proceeding the right of such department or police department to make any order or cause the execution thereof, shall be presumed.
 c. All meetings of the board shall in every action and proceeding be taken to have been duly called and regularly held, and all orders and proceedings to have been duly authorized, unless the contrary be proved.
 
@@ -283,7 +283,7 @@ Copies of the records of the proceedings of the department or board, of the rule
 § 17-131 Order for examination before justice of supreme court. ::
 
 
- a. Any justice of the supreme court of the first or second department, or who is holding court or chambers therein, upon the written application of the commissioner, may issue his or her order by him or her subscribed, for the examination without unreasonable delay by or before such justice of any person or persons, and the production of books or papers or the inspection and taking of copies of the whole or parts thereof, at a time and place within the city, and in such order to be named, provided it shall appear to the satisfaction of such justice or court that any matter or point affecting life or health is involved. It shall be the duty of such justice to take or superintend such examination, which shall be under oath, and shall be signed by the party or parties examined and be certified by the justice, and with any copies of books or papers, to be delivered to the department for the use of the department.
+a. Any justice of the supreme court of the first or second department, or who is holding court or chambers therein, upon the written application of the commissioner, may issue his or her order by him or her subscribed, for the examination without unreasonable delay by or before such justice of any person or persons, and the production of books or papers or the inspection and taking of copies of the whole or parts thereof, at a time and place within the city, and in such order to be named, provided it shall appear to the satisfaction of such justice or court that any matter or point affecting life or health is involved. It shall be the duty of such justice to take or superintend such examination, which shall be under oath, and shall be signed by the party or parties examined and be certified by the justice, and with any copies of books or papers, to be delivered to the department for the use of the department.
 b. Such examination, and any proceeding connected therewith, or under such order, may wholly or in part be had, conducted or continued by or before any other of such justices, as well as that one who made the order; and in and about the same, every such justice shall have as full power and authority to punish for contempt, and enforce obedience to such or other order or direction or that of any other judge respecting the matter as any such justice of the supreme court may now have, or shall possess, to enforce obedience or punish contempt in any case or matter whatsoever. Such application shall name or describe the person or persons whose examination is sought, and so far as possible the books or papers desired to be inspected, and the matter or points affecting life or health as to which the commissioner requests the examination to take place, and the justice shall on the proceedings, decide what questions are pertinent and allowable in respect thereto, and shall require the same to be properly answered; but no answer of any person so examined shall be used in any criminal proceeding. Service of any order of any such justice may be made, and the same proved in the same manner as the service of either an injunction or a subpoena. And it shall be the duty of the justice to facilitate the early determination of the proceedings.
 
 
@@ -332,7 +332,7 @@ The department shall not be subject to the payment of any fees to any court, mag
 § 17-136 Costs. ::
 
 
- a. If the department, in an action for a penalty, recover judgment in any amount, costs of the court in which the action is brought shall also be recovered without reference to the amount of the recovery, provided payment was demanded before suit brought, and the defendant or defendants against whom recovery is had, did not, as article thirty-two of the civil practice law and rules authorizes, offer to pay an amount equal to the recovery against him or them, except that where the recovery shall be less than fifty dollars, the amount of costs shall be ten dollars.
+a. If the department, in an action for a penalty, recover judgment in any amount, costs of the court in which the action is brought shall also be recovered without reference to the amount of the recovery, provided payment was demanded before suit brought, and the defendant or defendants against whom recovery is had, did not, as article thirty-two of the civil practice law and rules authorizes, offer to pay an amount equal to the recovery against him or them, except that where the recovery shall be less than fifty dollars, the amount of costs shall be ten dollars.
 b. The department shall not be subject to the payment of costs unless the judge or justice, at the conclusion of the trial, shall certify in writing that there was not reasonable cause for bringing the action. In such case the costs shall not exceed ten dollars, unless the amount claimed exceeded fifty dollars.
 
 
@@ -357,7 +357,7 @@ Every officer and inspector of the department is hereby declared to be a peace o
 § 17-139 Injunctions against department; undertakings. ::
 
 
- a. A preliminary injunction shall be granted against the department or its officers, only by the supreme court at a special term thereof after service of at least five days notice of a motion for such injunction, together with copies of the papers on which the motion for such injunction is to be made.
+a. A preliminary injunction shall be granted against the department or its officers, only by the supreme court at a special term thereof after service of at least five days notice of a motion for such injunction, together with copies of the papers on which the motion for such injunction is to be made.
 b. Whenever the department shall seek any provisional remedy or prosecute any appeal, it shall be unnecessary to give any undertaking before obtaining or prosecuting the same.
 
 
@@ -374,7 +374,7 @@ It shall be the duty of all prosecuting officers of criminal courts, and judges 
 § 17-141 Service of orders. ::
 
 
- a. Service of any order of the department or board shall be deemed sufficient if made:
+a. Service of any order of the department or board shall be deemed sufficient if made:
 1. Upon a principal person interested in the business, property, matter or thing, or the nuisance or abuse to which such order relates; or
 2. Upon a principal officer charged with a duty in relation thereto; or
 3. Upon a person, officer or deparment, or an officer or employee of such a department, who may be most interested in or affected by its execution.
@@ -434,7 +434,7 @@ If such order is not complied with, or so far complied with as the board may reg
 § 17-148 Substituted service; posting; service by publication. ::
 
 
- a. If personal service of any such order cannot be made by reason of absence from the district, or inability to find one or more of the owners, occupants, lessees or tenants of the subject matter to which such order relates, or one or more of the persons whose duty it was to have done what is therein required to be done, as the case may render just and proper in the opinion of the board, to be shown by the official certificates of the officer having such order to serve, then service may be made through the mail, or by copy left at the residence or place of business of the person sought to be served, with a person of suitable age and discretion.
+a. If personal service of any such order cannot be made by reason of absence from the district, or inability to find one or more of the owners, occupants, lessees or tenants of the subject matter to which such order relates, or one or more of the persons whose duty it was to have done what is therein required to be done, as the case may render just and proper in the opinion of the board, to be shown by the official certificates of the officer having such order to serve, then service may be made through the mail, or by copy left at the residence or place of business of the person sought to be served, with a person of suitable age and discretion.
 b. In any case where personal service of any such order cannot be made for the reasons stated in subdivision a of this section and service cannot be made as provided in such subdivision through the mail or by leaving a copy with a person of suitable age and discretion, because of inability to obtain the name or address of the person sought to be served, and such inability to effect service is shown by the official certificate of the officer having such order to serve, service may be made by conspicuously posting a copy of such order upon the property to which it relates. The posting of such order shall be sufficient notice of such order and of the nuisance therein mentioned to all persons having any duty or liability in relation thereto under the provisions of this chapter.
 c. Whenever the board shall have declared any condition, matter or thing to be a nuisance, including ragweed or any other species of weed, plant or growth, and has entered the same in its records as a nuisance, the board may also take and file among its records what it shall regard as sufficient proof to authorize a declaration that such nuisance is widespread throughout the city or in any area thereof, and that personal service or service pursuant to subdivision a or b of this section of an order or orders requiring the abatement, removal or correction of such nuisance would result in delay prejudicial to the public health, welfare or safety, and upon the filing of such proof and the making of such declaration, the board may order that such nuisance be removed, abated or corrected, as prescribed by the board, by an order addressed generally, without specification of names or addresses, to all persons who, pursuant to the provisions of this chapter, have any duty or liability in relation to any such nuisance which may exist upon or in any real or personal property or place located within the area or areas specified in such order. Such order may be served by publishing the same for a period of not less than three days in the City Record and in a newspaper circulated in the area or areas mentioned in such order. Service of such order shall be complete at the expiration of the third day of such publication and such publication shall be sufficient notice of such order and of the nuisance therein mentioned to all persons having any duty or liability in relation thereto under the provisions of this chapter.
 
@@ -460,7 +460,7 @@ The department, in case it has incurred any expense, or has rendered service for
 § 17-151 Lien on premises. ::
 
 
- a. There shall be filed in the office of the department a record of all work caused to be performed by or on behalf of the department in executing any order of the board or department. Such records shall be kept on a building by building basis and shall be accessible to the public during business hours. Within thirty days after the issuance of a purchase or work order to cause such work to be done, entry of such order shall be made on the records of the department. Such entry shall constitute notice to all parties.
+a. There shall be filed in the office of the department a record of all work caused to be performed by or on behalf of the department in executing any order of the board or department. Such records shall be kept on a building by building basis and shall be accessible to the public during business hours. Within thirty days after the issuance of a purchase or work order to cause such work to be done, entry of such order shall be made on the records of the department. Such entry shall constitute notice to all parties.
 b. All expenses incurred by or on behalf of the department for such work, pursuant to this title or any other applicable provision of law, shall constitute a lien upon the land and buildings upon or in respect to which, or either of which, the work required by such order has been done, or expenses incurred, when the amount thereof shall have been definitely computed as a statement of account by the department and the department shall cause to be filed in the office of the city collector an entry of the account stated in the book in which such charges against the premises are to be entered. Such lien shall have a priority over all other liens and encumbrances except for the lien of taxes and assessments. However, no lien created pursuant to this title shall be enforced against a subsequent purchaser in good faith or mortgagee in good faith unless the requirements of subdivision a of this section are satisfied; this limitation shall only apply to transactions occurring after the date such record should have been entered pursuant to subdivision a and before the date such entry was made.
 c. A notice thereof, stating the amount due and the nature of the charge, shall be mailed by the city collector, within five days after such entry, to the last known address of the person whose name appears on the records in the office of the city collector as being the owner or agent or as the person designated by the owner to receive tax bills or, where no name appears, to the premises, addressed to either the owner or the agent.
 d. If such charge is not paid within thirty days from the date of entry, it shall be the duty of the city collector to receive interest thereon at the rate of interest applicable to such property for a delinquent tax on real property, to be calculated to the date of payment from the date of entry.
@@ -473,7 +473,7 @@ f. Such notice mailed by the city collector pursuant to this section shall have 
 § 17-152 Validity of lien; grounds for challenge. ::
 
 
- a. In any proceedings to enforce or discharge the lien, the validity of the lien shall not be subject to challenge based on:
+a. In any proceedings to enforce or discharge the lien, the validity of the lien shall not be subject to challenge based on:
 (1) The lawfulness of the work done; or
 (2) The propriety and accuracy of the items of expenses for which a lien is claimed, except as provided in this section.
 b. No such challenge may be made except by (1) the owner of the property, or (2) a mortgagee or lienor whose mortgage or lien would, but for the provision of section 17-151, have priority over the department's lien.
@@ -485,7 +485,7 @@ c. With respect to any issue specified in subdivision a of this section the cert
 § 17-153 Statement of expenses of executing orders. ::
 
 
- a. When the department shall have executed, or so far executed as the department may require, any order, a certificate setting forth the expenses of such execution, itemized generally, and the date thereof shall be filed among the records of the department with the order so executed; and the department shall take care by, or through some proper officer, or otherwise, that the expenses of such execution be so stated with fairness and accuracy.
+a. When the department shall have executed, or so far executed as the department may require, any order, a certificate setting forth the expenses of such execution, itemized generally, and the date thereof shall be filed among the records of the department with the order so executed; and the department shall take care by, or through some proper officer, or otherwise, that the expenses of such execution be so stated with fairness and accuracy.
 b. When it shall appear that such execution or the expenses thereof, related to several lots or buildings belonging to different persons, such certificate shall state what belongs to, or arose in respect to each lot of such several lots or buildings, as the department or its authorized officer may direct; and the department may revise the correctness of such apportionment of expenses as truth and justice may require.
 c. Whenever the expenses attending the execution of any order of the department may be made the subject of a suit by it, there may be joined in the same suit a claim or claims for any penalty or penalties for violation of any health provisions, or for the violation or omission to perform or obey such order, or any prior order of the department, or for the not doing of that, or any portion of that, for the doing of which such expenses arose or were incurred; and the proper joint or several judgment may be had against one or more of the defendants in the suit, as they or either of them may be liable in respect of both such claims, or either or any of them.
 
@@ -596,7 +596,7 @@ The department may make and publish a report of the sanitary condition and the r
 § 17-165 Inspection and removal of articles. ::
 
 
- a. An officer or employee of the department shall visit and inspect all stores and places within the city which are suspected of containing putrid or unsound provisions or other articles unfit for human consumption or use or likely to communicate disease to the inhabitants, and make and sign a report in writing stating the stores, places and articles so inspected and the nature, state and situation thereof and such officer's or employee's opinion in relation thereto. Such report shall be filed in an office of the department.
+a. An officer or employee of the department shall visit and inspect all stores and places within the city which are suspected of containing putrid or unsound provisions or other articles unfit for human consumption or use or likely to communicate disease to the inhabitants, and make and sign a report in writing stating the stores, places and articles so inspected and the nature, state and situation thereof and such officer's or employee's opinion in relation thereto. Such report shall be filed in an office of the department.
 b. The department may by order direct the removal, to a place to be designated by it, of all things within the city which, in its opinion are unfit for human consumption or use or which shall be infected in any manner likely to communicate disease to the inhabitants.
 c. Failure to comply with the provisions of this section shall constitute a misdemeanor, punishable by a fine of not exceeding two hundred fifty dollars, or imprisonment not exceeding six months, or both.
 
@@ -606,7 +606,7 @@ c. Failure to comply with the provisions of this section shall constitute a misd
 § 17-166 Record of births, fetal deaths and deaths. ::
 
 
- a. The department shall keep a record of the births, fetal deaths and deaths filed with it, the births, fetal deaths and deaths shall be numbered separately and recorded in the order in which they are respectively received.
+a. The department shall keep a record of the births, fetal deaths and deaths filed with it, the births, fetal deaths and deaths shall be numbered separately and recorded in the order in which they are respectively received.
 b. There shall be no specific statement on the record or report of birth as to whether the child is born in or out of wedlock or as to the marital name or status of the mother.
 c. It shall be unlawful to demand or receive any fees by reason of the duties imposed by this section.
 d. The name of the putative father of a child born out of wedlock shall not be entered on the birth certificate by the person preparing the birth certificate without the putative father's consent in writing, duly verified by him and given to the physician, midwife or person acting as midwife who was in attendance upon the birth and filed with the hospital record of the birth, or, in the case of a birth in a place other than a hospital or on an ambulance service connected therewith, filed with the records of the physician, midwife or person acting as midwife who was in attendance upon the birth. In the event the consent in writing of the putative father is not given, particulars relating to the putative father, other than his name, may be entered.
@@ -618,7 +618,7 @@ e. The certificate of induced termination of pregnancy shall not, unless request
 § 17-167 Supplemental birth records. ::
 
 
- a. A new birth record shall be made whenever:
+a. A new birth record shall be made whenever:
 1. Proof is submitted to the department that the previously unwed parents of a person have intermarried subsequent to the birth of such person;
 2. Notification is received by the department from the clerk of a court of competent jurisdiction or proof is submitted of a judgment, order or decree relating to the parentage of the person;
 3. Notification is received by the department from the clerk of a court of competent jurisdiction or proof is submitted of a judgment, order or decree relating to the adoption of the person.
@@ -631,7 +631,7 @@ c. When a new birth record is made the department shall substitute such new reco
 § 17-167.1 Sex designation on birth records. ::
 
 
- a. The department shall make a new birth record when an applicant submits an application and supporting documentation pursuant to this subdivision and subdivision b of this section requesting the correction of sex designation to the applicant's birth record. Such application shall be made in a form or manner to be provided or approved by the department. If the department requests information, documentation or a copy of an acceptable current signed photographic identification, the department may not take into account the sex designation listed on such identification in reviewing such application.
+a. The department shall make a new birth record when an applicant submits an application and supporting documentation pursuant to this subdivision and subdivision b of this section requesting the correction of sex designation to the applicant's birth record. Such application shall be made in a form or manner to be provided or approved by the department. If the department requests information, documentation or a copy of an acceptable current signed photographic identification, the department may not take into account the sex designation listed on such identification in reviewing such application.
 b. An application made pursuant to subdivision a of this section shall be accompanied by supporting documentation that is an affirmation from a physician licensed to practice medicine in the United States, or an affidavit from a professional licensed to practice in the United States who is a: doctoral level psychologist (Ph.D. or Psy.D.) in clinical or counseling psychology, clinical social worker, master social worker, physician assistant, nurse practitioner, marriage and family therapist, mental health counselor or midwife. Such affirmation or affidavit shall include a declaration affirming or attesting under penalty of perjury that:
 1. the professional is licensed and in good standing in the jurisdiction in the United States in which such professional is licensed; and
 2. in keeping with contemporary expert standards regarding gender identity, the applicant's requested correction of sex designation of male or female more accurately reflects the applicant's sex or gender identity.
@@ -642,7 +642,7 @@ b. An application made pursuant to subdivision a of this section shall be accomp
 § 17-167.2 Report and advisory board on gender marker change requirement.* ::
 
 
- a. There shall be an advisory board to advise the commissioner concerning matters related to the effectiveness and implementation of the gender marker change requirement as provided for in section 17-167.1 of this chapter and the health code of the city of New York.
+a. There shall be an advisory board to advise the commissioner concerning matters related to the effectiveness and implementation of the gender marker change requirement as provided for in section 17-167.1 of this chapter and the health code of the city of New York.
 b. Such advisory board shall consist of seven members as follows:
 1. Four members shall be appointed by the commissioner, provided that one such member shall be a senior staff person in the department working on transgender and/or lesbian, gay, bisexual and transgender issues, one such member shall be an individual affiliated with an organization that advocates for transgender people or which provides direct services to transgender individuals, one such member shall be an individual affiliated with a legal organization that advocates for transgender people, and one such member shall be an individual licensed in one of the professions listed in subdivision b of section 17-167.1 of this chapter.
 2. Three members shall be appointed by the speaker of the council, provided that one such member shall be an individual affiliated with an organization that advocates for transgender people or which provides direct services to transgender individuals, one such member shall be an individual affiliated with a legal organization that advocates for transgender people, and one such member shall be an individual licensed in one of the professions listed in subdivision b of section 17-167.1 of this chapter.
@@ -674,7 +674,7 @@ Within ten days after the receipt of the report of any birth, the department sha
 § 17-168.1 Distribution of college savings plan materials within three months of the receipt of the report of any birth. ::
 
 
- a. Within three months after the receipt of the report of any birth, the department shall provide college savings plan materials described in subdivision b of section 3-209.2 to the parents or guardian of the child, at the address designated for receipt of the child’s certificate of registration of birth pursuant to section 17-168.
+a. Within three months after the receipt of the report of any birth, the department shall provide college savings plan materials described in subdivision b of section 3-209.2 to the parents or guardian of the child, at the address designated for receipt of the child’s certificate of registration of birth pursuant to section 17-168.
 b. The department shall make such college savings plan materials available on its website in English and each of the designated citywide languages as defined in section 23-1101 of the administrative code.
 
 
@@ -684,7 +684,7 @@ b. The department shall make such college savings plan materials available on it
 § 17-169 Certified copies of records of birth, fetal death, and death; certificates of birth. ::
 
 
- a. Upon request the department shall issue a certified copy of the birth record or a certification of birth under the following conditions:
+a. Upon request the department shall issue a certified copy of the birth record or a certification of birth under the following conditions:
 1. A certified copy of the record of birth shall be issued only upon order of a court of competent jurisdiction or upon a specific request therefor by the person, if eighteen years of age or more, or by a parent or to the legal representative of the person to whom the record of birth relates or by an attorney of law authorized in writing by the person if of the age of eighteen years or over to whom the record of birth relates. The department may issue a certified copy of a birth record for official use upon the request of a department, agency, or officer of any state government or subdivision thereof or the United States government.
 2. Upon request in all other cases, a certification of birth shall be issued by the department unless it does not appear to be necessary or required for a proper purpose. A certification of birth shall contain only the name, sex, date of birth and place of birth and date of filing in the department of the original certificate of birth of the person to whom it relates, and if upon request by, or on behalf of the person to whom it relates, or by a parent or legal representative of such person, the name or names of the parent or parents listed on the original certificate of birth, and none of the other data on the record of birth. Whenever a certification of birth may be issued, the department may, upon request, issue a wallet-size certification of birth, in a form and bearing a design provided by the department. Each applicant for a wallet-size certification of birth shall remit to the department with such application, a fee determined by the department.
 b. A transcript of a record of fetal death, or death, upon such forms as the department shall prescribe, shall be issued upon request unless it does not appear to be necessary or required for a proper purpose. The board may prescribe reasonable fees for searches made of records of birth, fetal death, or death, and the usual fees for copies of records to be paid for certifications of birth and for transcripts of records of birth, fetal death, or death, and in what cases the payment of fees may be waived.
@@ -697,7 +697,7 @@ d. Notwithstanding any other provision of law, any person born in the city of Ne
 § 17-170 Records of births, deaths and marriages on file with the department and the clerk of the county of Kings; transfer to the department of general services; certification. ::
 
 
- a. The department and the clerk of the county of Kings are authorized to transfer to and the department of general services is authorized to receive all original records of births, deaths and marriages filed prior to the year eighteen hundred sixty-six with the department or the office of the city inspector or any such records transferred to the clerk of the county of Kings together with the indexes to such records and the department of general services shall file and maintain such records as public records.
+a. The department and the clerk of the county of Kings are authorized to transfer to and the department of general services is authorized to receive all original records of births, deaths and marriages filed prior to the year eighteen hundred sixty-six with the department or the office of the city inspector or any such records transferred to the clerk of the county of Kings together with the indexes to such records and the department of general services shall file and maintain such records as public records.
 b.  Original records of births, deaths, and fetal deaths filed with the department or the office of the city inspector subsequent to the year eighteen hundred sixty-five and the indexes to such records shall be transferred by the department to the department of records and information services at such times as the board of health shall determine; said records shall be filed and maintained by the department of records and information services as public records.
 c. Upon the transfer of such records the commissioner of the department of records and information services shall have the authority to issue upon request certified copies of or extracts from such records.
 
@@ -707,7 +707,7 @@ c. Upon the transfer of such records the commissioner of the department of recor
 § 17-171 Records of marriages on file with the department of health and mental hygiene; transfer to the city clerk; certification. ::
 
 
- a. The department is authorized to transfer to and the city clerk of the city of New York is authorized to receive and maintain all original records of marriages filed with the department or the office of the city inspector subsequent to the year eighteen hundred sixty-six together with the indexes to such records.
+a. The department is authorized to transfer to and the city clerk of the city of New York is authorized to receive and maintain all original records of marriages filed with the department or the office of the city inspector subsequent to the year eighteen hundred sixty-six together with the indexes to such records.
 b. Upon the transfer of such records the city clerk of the city of New York shall have the authority to issue upon request certified copies of or extracts from such records.
 c. Any copy or extract of the record of marriage, when properly certified by the city clerk or his or her deputy duly authorized to act for such city clerk, shall be prima facie evidence of the facts therein stated, in all courts, and places, and in all actions, proceedings or applications, judicial, administrative or otherwise, and any such certificate of marriage shall be accepted with the same force and effect with respect to the facts therein stated as the original marriage record or a certified copy thereof.
 
@@ -717,7 +717,7 @@ c. Any copy or extract of the record of marriage, when properly certified by the
 § 17-172 Dislodging food from person choking; poster. ::
 
 
- a. Every establishment where food is sold and space is designated specifically as eating areas shall have posted in a conspicuous place, easily accessible to all employees and customers, a sign graphically depicting the Heimlich Maneuver or a comparable technique instructing on how to dislodge food from a choking person. Such sign shall be drafted and printed by the department.
+a. Every establishment where food is sold and space is designated specifically as eating areas shall have posted in a conspicuous place, easily accessible to all employees and customers, a sign graphically depicting the Heimlich Maneuver or a comparable technique instructing on how to dislodge food from a choking person. Such sign shall be drafted and printed by the department.
 b. No duty to act. Nothing contained in this section shall impose any duty or obligation on any proprietor, employee or other person to remove, assist in removing, or attempt to remove food from the throat of the victim of a choking emergency.
 c. Fees. The department shall make signs available, and may charge a fee to cover printing, postage and handling expenses.
 
@@ -727,7 +727,7 @@ c. Fees. The department shall make signs available, and may charge a fee to cove
 § 17-173 Dangers of consuming alcoholic beverages during pregnancy; warning sign. ::
 
 
- a. For the purposes of this section, the following terms shall be defined and applied as follows:
+a. For the purposes of this section, the following terms shall be defined and applied as follows:
 1. "Alcoholic beverage" means and includes alcohol, spirits, liquor, wine and beer.
 2. "Vendor" means any person who owns or operates a business establishment such as a bar or restaurant, which sells at retail any alcoholic beverages for on-premises consumption; and any person who owns or operates a liquor store, or any other business establishment which has as its primary purpose, the retail sale of alcoholic beverages.
 b. All vendors of alcoholic beverages shall have posted, in a conspicuous place, a sign which clearly reads, "Warning: Drinking alcoholic beverages during pregnancy can cause birth defects."
@@ -748,7 +748,7 @@ The board shall require the immediate provision of interpretation services for n
 § 17-175 Waste reduction study. ::
 
 
- a. The department shall, within six months of the effective date of this section, complete a study of the feasibility of reducing the amount of medical waste and other solid waste generated by any person licensed by the city or state of New York to provide health, medical, pharmaceutical or laboratory services. The study shall include, but not to be limited to, an analysis of:
+a. The department shall, within six months of the effective date of this section, complete a study of the feasibility of reducing the amount of medical waste and other solid waste generated by any person licensed by the city or state of New York to provide health, medical, pharmaceutical or laboratory services. The study shall include, but not to be limited to, an analysis of:
 1. the feasibility of switching from the use of disposable to reusable medical equipment, laboratory equipment, clothing, food service equipment and any other product for which there is a reusable substitute;
 2. availability of reusable medical equipment, laboratory equipment, clothing, food service equipment and any other product for which there is a reusable substitute;
 3. the historical shift from the use of reusable to disposable products;
@@ -766,7 +766,7 @@ c. The commissioner shall, within six months of the effective date of this secti
 § 17-176 Prohibitions on the distribution of tobacco products. ::
 
 
- a. Definitions. For purposes of this section:
+a. Definitions. For purposes of this section:
 (1) "Distribute" means to give, sell, deliver, offer to give, sell or deliver, or cause or hire any person to give, sell, deliver or offer to give, sell or deliver.
 (2) "Less than basic cost" means free of charge, a nominal or discount price, or any other price less than the distributor's cost, to which shall be added the full value of any stamps or taxes which may be required by law.
 (3) "Person" means any natural person, corporation, partnership, firm, organization or other legal entity.
@@ -786,7 +786,7 @@ d. Penalties.
 § 17-176.1 Prohibition on the sale of discounted cigarettes and tobacco products. ::
 
 
- a. Definitions. For purposes of this section:
+a. Definitions. For purposes of this section:
 "Cigar" means any roll of tobacco for smoking that is wrapped in leaf tobacco or in any substance containing tobacco, with or without a tip or mouthpiece. Cigar does not include a little cigar as defined in this section.
 "Cigarette" means any roll for smoking made wholly or in part of tobacco or any other substance, irrespective of size or shape and whether or not such tobacco or substance is flavored, adulterated or mixed with any other ingredient, the wrapper or cover of which is made of paper or any other substance or material but is not made in whole or in part of tobacco.
 "Listed price" means the price listed for cigarettes or tobacco products on their packages or on any related shelving, posting, advertising or display at the place where the cigarettes or tobacco products are sold or offered for sale, including all applicable taxes.
@@ -837,7 +837,7 @@ g. Enforcement. The department, the department of consumer affairs, and the depa
 § 17-177 Prohibition on the distribution of tobacco products through vending machines. ::
 
 
- a. Definitions. For purposes of this section:
+a. Definitions. For purposes of this section:
 (1) "Distribution" means to give, sell, deliver, dispense, issue, offer to give, sell, deliver, dispense or issue, or cause or hire any person to give, sell, deliver, dispense, issue or offer to give, sell, deliver, dispense or issue.
 (2) "Person" means any natural person, corporation, partnership, firm, organization or other legal entity.
 (3) "Public place" means any area to which the public is invited or permitted.
@@ -867,7 +867,7 @@ g. Construction. Nothing in this section shall be construed to prohibit the foll
 § 17-178 Availability of resuscitation equipment in certain public places. ::
 
 
- a. Definitions. For the purposes of this section, the following terms shall be defined as follows:
+a. Definitions. For the purposes of this section, the following terms shall be defined as follows:
 1. "Bar" means any establishment which is devoted to the sale and service of alcoholic beverages for on-premises consumption and in which the service of food, if served at all, is incidental to the consumption of such beverages.
 2. "Health club" means any commercial establishment offering instruction, training or assistance or the facilities for the preservation, maintenance, encouragement or development of physical fitness or well being. "Health club" as defined herein shall include, but not be limited to health spas, sports, tennis, racquet ball, and platform tennis clubs, figure salons, health studios, gymnasiums, weight control studios, martial arts and self-defense schools or any other commercial establishment offering a similar course of physical training.
 3. "Owner or operator" means the owner, manager, operator or other person having control of an establishment.
@@ -886,7 +886,7 @@ e. No duty to act. Nothing contained in this section shall impose any duty or ob
 § 17-179 Department, Screening, Diagnosis and Treatment. ::
 
 
- a. The department shall refer to appropriate medical providers any person who requests assistance in blood lead screening, testing, diagnosis or treatment, and upon the request of a parent or guardian, arrange for blood lead screening of any child who requires screening and whose parent or guardian is unable to obtain a lead test because the child is uninsured or the child's insurance does not cover such screening.
+a. The department shall refer to appropriate medical providers any person who requests assistance in blood lead screening, testing, diagnosis or treatment, and upon the request of a parent or guardian, arrange for blood lead screening of any child who requires screening and whose parent or guardian is unable to obtain a lead test because the child is uninsured or the child's insurance does not cover such screening.
 b. The department shall develop a pamphlet explaining the hazards associated with lead-based paint and describing the procedures to be used in order for a violation of sections 27-2056.6 and 27-2056.7 of this code to be corrected. The pamphlet shall include appropriate telephone numbers to obtain lead poisoning screening, diagnosis and treatment information and to report unsafe lead-based paint work practices. Such pamphlet shall be made available in accordance with section 27-2056.9 of this code. Such pamphlet shall also be made available to any member of the public upon request.
 
 
@@ -903,7 +903,7 @@ The department, in conjunction with the department of housing preservation and d
 § 17-180.1 Overdose prevention and reversal training. ::
 
 
- a. Definitions. For the purposes of this section, the following terms have the following meanings:
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
 Opioid. The term "opioid" means an opiate as defined in section 3302 of the public health law.
 Opioid antagonist. The term “opioid antagonist” means naloxone, narcan or other medication approved by the New York state department of health and the federal food and drug administration that, when administered, negates or neutralizes in whole or in part the pharmacological effects of an opioid in the human body.
 b. For as long as the department determines there is an urgent public health need, the department shall offer overdose prevention and reversal training to the general public. Such training shall include:
@@ -931,7 +931,7 @@ The dry scraping or dry sanding of lead-based paint or paint of unknown lead con
 § 17-182 City-funded public hospitals and health facilities required to utilize peace officers. ::
 
 
- a. Any corporation of government, the expenses of which are paid in whole or in part from the city treasury, which provides health and medical services and operates health facilities and which is authorized to employ special officers having peace officer status as defined in New York Criminal Procedure Law §2.10(40), shall utilize peace officers appointed pursuant to said subdivision to perform the duties of special officer, senior special officer and hospital security officer. The commissioner of the department of health and mental hygiene shall enforce this requirement.
+a. Any corporation of government, the expenses of which are paid in whole or in part from the city treasury, which provides health and medical services and operates health facilities and which is authorized to employ special officers having peace officer status as defined in New York Criminal Procedure Law §2.10(40), shall utilize peace officers appointed pursuant to said subdivision to perform the duties of special officer, senior special officer and hospital security officer. The commissioner of the department of health and mental hygiene shall enforce this requirement.
 b. Any person, including but not limited to any labor organization, claiming to be aggrieved by a violation of subdivision a of this section shall have a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate.
 
 
@@ -940,7 +940,7 @@ b. Any person, including but not limited to any labor organization, claiming to 
 § 17-183 Publication and dissemination of public health insurance program options. ::
 
 
- a. The department shall develop a pamphlet containing information regarding the availability of public health insurance programs. At a minimum, such pamphlet shall include: (i) the name and a brief description of each public health insurance program available to New York city residents; and (ii) appropriate telephone numbers to obtain enrollment information for such programs. Such pamphlet shall be produced annually and shall be printed in multiple languages, including, but not limited to, English, Spanish, Chinese, Russian, Yiddish, Korean, and Haitian-Creole, and shall be made available to any member of the public upon request.
+a. The department shall develop a pamphlet containing information regarding the availability of public health insurance programs. At a minimum, such pamphlet shall include: (i) the name and a brief description of each public health insurance program available to New York city residents; and (ii) appropriate telephone numbers to obtain enrollment information for such programs. Such pamphlet shall be produced annually and shall be printed in multiple languages, including, but not limited to, English, Spanish, Chinese, Russian, Yiddish, Korean, and Haitian-Creole, and shall be made available to any member of the public upon request.
 b. The department shall ensure that pamphlets on public health insurance program options are provided to all day care centers in sufficient quantity to enable such day care centers to satisfy the requirements of section 1069.1 of the New York city charter. For the purposes of this subdivision, "day care center" shall mean any child day care facility operating in New York city that is required to obtain a license from, or to register with, the department pursuant to section 47.05 of the New York city health code and/or the New York state department of social services pursuant to section 390 of the New York state social services law.
 
 
@@ -965,7 +965,7 @@ The department shall promulgate rules requiring the department to respond to com
 § 17-186 Lead poisoning prevention in children. ::
 
 
- a. The department shall develop a brochure which, at a minimum, advises all appropriate medical providers of their obligations to screen and test children for lead poisoning according to all relevant federal, state and local laws, rules and regulations. Such pamphlet shall be distributed to all appropriate medical providers on an annual basis, starting on September 15, 2004.
+a. The department shall develop a brochure which, at a minimum, advises all appropriate medical providers of their obligations to screen and test children for lead poisoning according to all relevant federal, state and local laws, rules and regulations. Such pamphlet shall be distributed to all appropriate medical providers on an annual basis, starting on September 15, 2004.
 b. The department shall develop a pamphlet regarding lead poisoning prevention in children. Such pamphlet shall, at a minimum, be printed in English and Spanish and shall include, at a minimum: (i) the manner in which children are most likely poisoned by lead; (ii) the effects of lead poisoning on a child's health; (iii) the intervals at which a child is required by New York state law to be tested for blood lead levels; (iv) the appropriate telephone numbers to obtain lead poisoning screening, diagnosis and treatment information; (v) the steps a parent or guardian may take to protect his or her child from lead poisoning; and (vi) the requirement of landlords to inspect and repair lead-based paint hazards.
 c. At a minimum, the department shall distribute the pamphlet produced pursuant to paragraph b of this section with each birth certificate furnished to the parent or guardian of a child pursuant to section 17-168 of this title. Such pamphlet shall also be made available to any member of the public upon request.
 
@@ -975,7 +975,7 @@ c. At a minimum, the department shall distribute the pamphlet produced pursuant 
 § 17-187 School nurses. ::
 
 
- a. Definitions. For purposes of this section, the following items shall have the following meanings:
+a. Definitions. For purposes of this section, the following items shall have the following meanings:
 (1) "Nurse" means an individual licensed as a registered professional nurse pursuant to section 6905 of the New York state education law.
 (2) "Public health advisor" includes, but is not limited to, an individual who supports medical and/or professional staff in schools by performing health related duties and who has satisfied the requirements set forth by the department.
 b. Primary Schools. The department shall provide on a full-time basis at least one nurse at each public and private primary school which i) had at least two hundred students enrolled on the last day of the second month of the preceding school year; ii) submits a written request to the department that such nurse be provided; and iii) maintains, pursuant to any rules promulgated by the commissioner, an appropriate medical room wherein such nurse can carry out his or her nursing duties.
@@ -990,7 +990,7 @@ f. The commissioner may promulgate any rules deemed necessary for the purposes o
 § 17-188 Automated external defibrillators. ::
 
 
- a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
+a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
 1. "Automated external defibrillator" means a medical device, approved by the United States food and drug administration, that:
 (i) is capable of recognizing the presence or absence in a patient of ventricular fibrillation and rapid ventricular tachycardia;
 (ii) is capable of determining, without intervention by an individual, whether defibrillation should be performed on a patient;
@@ -1021,7 +1021,7 @@ k. Public awareness. Within ninety days of the effective date of the local law t
 § 17-189 Prohibition on sale of certain substances containing lead. ::
 
 
- a. For purposes of this section, the following terms shall have the following meanings:
+a. For purposes of this section, the following terms shall have the following meanings:
 1. "Candy products containing lead" shall mean any confection containing lead which the department, pursuant to rules promulgated hereunder, determines to present a risk to public health or a nuisance as defined in § 17-142 of this code.
 2. "Litargirio" shall mean any powder containing lead intended for sale for personal use, including, but not limited to, use as an anti-perspirant, deodorant, foot fungicide or as a treatment for burns and wounds.
 3. "Person" shall mean any natural person, individual, corporation, unincorporated association, proprietorship, firm, partnership, joint venture, joint stock association or other entity or business organization.
@@ -1037,7 +1037,7 @@ e. Rules. The commissioner shall promulgate any rules as may be necessary for th
 § 17-190 Deaths of homeless persons and homeless shelter residents; report. ::
 
 
- a. Definitions. For the purposes of this section, the following terms shall be defined as follows:
+a. Definitions. For the purposes of this section, the following terms shall be defined as follows:
 1. "Homeless person" means a person who at the time of death did not have a known street address of a residence at which he or she was known or reasonably believed to have resided.
 2. "Homeless shelter resident" means a person who at the time of death lived in a homeless shelter as defined in paragraph 3 of this subdivision.
 3. "Homeless shelter" means (i) a residence operated by or on behalf of the department of homeless services; (ii) an emergency residence operated by or on behalf of the department of social services/human resources administration which is available primarily for homeless persons with HIV or AIDS related illness; or (iii) a residence operated by or on behalf of the department of housing preservation and development to the extent that such residence houses clients of the department of homeless services; provided, however, that such term shall not include any residence that is available primarily for battered women.
@@ -1056,7 +1056,7 @@ c. Rules. The department after public hearings shall promulgate such rules as ar
 § 17-191 Child fatality review advisory team. ::
 
 
- a. For purposes of this section, the term "child fatality" shall mean the death of any person in the city of New York under the age of thirteen where (1) the death is unanticipated, (2) the death is the result of trauma, or (3) the circumstances of the death are suspicious, obscure or otherwise unexplained; provided, however, that such term shall not include the death of any person under the age of thirteen where such death is the subject of a pending criminal investigation, prosecution or appeal.
+a. For purposes of this section, the term "child fatality" shall mean the death of any person in the city of New York under the age of thirteen where (1) the death is unanticipated, (2) the death is the result of trauma, or (3) the circumstances of the death are suspicious, obscure or otherwise unexplained; provided, however, that such term shall not include the death of any person under the age of thirteen where such death is the subject of a pending criminal investigation, prosecution or appeal.
 b. There shall be established within the department, in accordance with all applicable state and local laws, a child fatality review advisory team to examine the facts and circumstances relating to child fatalities. The team shall consist of the commissioner of the administration of children's services, or his or her designee; the commissioner of the police department, or his or her designee; the chief medical examiner, or his or her designee; the commissioner of the department of health and mental hygiene, or his or her designee; and, if required by applicable law, the commissioner of the New York state office of children and family services, or his or her designee. The chancellor of the department of education, or his or her designee, may become a member of the team at his or her discretion. The mayor shall appoint to the team a maximum of two additional individuals, including at least one pediatrician and at least one person who advocates on child-related issues; provided, however, that such individuals shall not hold any other public office, employment or trust. The speaker of the city council shall appoint to the team a maximum of two additional individuals, including at least one pediatrician and at least one person who advocates on child-related issues; provided, however, that such individuals shall not hold any other public office, employment or trust. The public advocate shall appoint to the team one additional individual; provided, however, that such individual shall not hold any other public office, employment or trust.
 c. Each member of the child fatality review advisory team, other than any member serving in an ex officio capacity, or such member's designee, and, if he or she chooses to serve, the chancellor of the department of education, or his or her designee, shall serve for a term of two years, and may be removed from office for cause. Any vacancy shall be filled in the same manner as the original appointment.
 d. All members of the child fatality review advisory team shall serve without compensation, except that each member shall be allowed actual and necessary expenses to be audited in the same manner as other city charges.
@@ -1072,7 +1072,7 @@ i. The child fatality review advisory team shall submit to the mayor, the speake
 § 17-192 Foods containing artificial trans fat. ::
 
 
- a. Definitions. The following terms shall have the following meanings:
+a. Definitions. The following terms shall have the following meanings:
 1. "Artificial trans fat" shall have the meaning as such term is defined in section 81.08 of the health code of the city of New York or any successor provision.
 2. "Food service establishment" shall have the meaning as such term is defined in section 81.03 of the health code of the city of New York or any successor provision.
 3. "Mobile food unit commissary" shall have the meaning as such term is defined in section 89.01 of the health code of the city of New York or any successor provision.
@@ -1085,7 +1085,7 @@ c. Rules. The department may promulgate such rules as may be necessary to implem
 § 17-193 Trauma scenes. ::
 
 
- a. Definitions. For purposes of this section, the following terms shall have the following meanings:
+a. Definitions. For purposes of this section, the following terms shall have the following meanings:
 1. "City" shall mean the city of New York.
 2. "City property" shall mean any property owned and managed by the city.
 3. "Trauma" shall mean any serious physical injury or death.
@@ -1108,7 +1108,7 @@ d. Rules. The commissioner shall promulgate rules and regulations as may be nece
 § 17-194 Drinking water tank inspections. ::
 
 
- a. Definitions. For purposes of this section, the following terms shall have the following meanings:
+a. Definitions. For purposes of this section, the following terms shall have the following meanings:
 1. "Building" shall mean any building, structure, premises, or part thereof.
 2. "Drinking water" shall mean water used for human consumption or used directly or indirectly in connection with the preparation of food for human consumption, including, but not limited to, the cleaning of utensils used in the preparation of food.
 3. "Owner" shall mean any owner, manager, operator or other person or persons having control of a building and any authorized agent thereof.
@@ -1134,7 +1134,7 @@ f. Any owner of a building who violates subdivision b of this section or any of 
 § 17-194.1 [Cooling towers: maintenance, inspection, etc.] ::
 
 
- a. Definitions. For the purposes of this section, the following terms have the following meanings:
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
 Building. The term "building" has the same meaning as in section 28-101.5 of this code.
 Cooling tower. The term "cooling tower" has the same meaning as in section 28-317.2 of this code.
 Owner. The term "owner" has the same meaning as in section 28-101.5 of this code.
@@ -1163,7 +1163,7 @@ Editor's note: division c. of this § 17-194.1 takes effect on 3/1/2016; divisio
 § 17-195 Food allergy posters. ::
 
 
- a. Definitions.
+a. Definitions.
 1. "Covered languages" shall mean Chinese, English, Korean, Russian and Spanish, and any other language determined by the department.
 2. "Food service establishment" shall have the meaning as such term is defined in section 81.03 of the health code of the city of New York, except that it shall apply exclusively to restaurants where food is sold and space is designated specifically as an eating area.
 b. The department shall create a poster containing information on food allergy to be posted in food service establishments. Such poster shall be printed in the covered languages and shall be made available by the department to food service establishments.
@@ -1177,7 +1177,7 @@ e. Any food service establishment that violates subdivision c of this section or
 § 17-196 Electronic death registration system. ::
 
 
- a. Definition. For the purposes of this section, the term "responsible person" shall mean any individual, governmental body or division thereof or corporate entity authorized by the department to use the electronic death registration system.
+a. Definition. For the purposes of this section, the term "responsible person" shall mean any individual, governmental body or division thereof or corporate entity authorized by the department to use the electronic death registration system.
 b. Development of an electronic death registration system. The department shall, subject to the approval of the board of health, develop an electronic death registration system. Such electronic death registration system shall include an internet based electronic method of collecting, storing, recording, transmitting, amending and authenticating information necessary to complete a death registration. Such system shall enable the department to produce certified death certificates and amended death certificates, as well as burial, transportation, cremation and disinterment permits, and any such other related documents determined by the department as capable of being produced and transmitted by such system. Such system shall, with the exception of certified death certificates and amended death certificates, be able to transmit information and documents to remote local printers or facsimile machines of responsible persons for printing. Such system shall include an electronic payment system by which all fees, including, but not limited to, those relating to data recordation and the issuance of permits and certified copies of death certificates, may be transmitted to the department. The department shall ensure that the electronic death registration system be designed in such a way so as to best facilitate convenient access by responsible persons in a manner consistent with ensuring system security.
 c. Implementation.
 (i) By October 1, 2006, the department shall ensure that at least sixty percent of all deaths occurring within the city of New York are registered via the electronic death registration system.
@@ -1198,7 +1198,7 @@ j. Rules. By November 1, 2004, the department shall promulgate rules in accordan
 § 17-197 Restraining animals outdoors.  ::
 
 
- a. (1)  No person shall tether, leash, fasten, secure, restrain, chain or tie an animal to a stationary object outdoors, or cause such animal to be so restrained, for longer than three continuous hours in any continuous twelve-hour period.
+a. (1)  No person shall tether, leash, fasten, secure, restrain, chain or tie an animal to a stationary object outdoors, or cause such animal to be so restrained, for longer than three continuous hours in any continuous twelve-hour period.
 (2) Any person who tethers, leashes, fastens, secures, restrains, chains or ties an animal to a stationary object outdoors for a permissible period of time shall provide such animal with adequate food, water and shelter, and shall restrain the animal with a device having swivels at both ends that is of an adequate length for the type and size of animal being restrained, provided, however, that the requirement to provide adequate food, water and shelter shall not apply to a person who restrains an animal while completing a task for a period of time that is fifteen minutes or less in duration.
 b. Notwithstanding the provisions of subdivision a of this section, no person shall tether, leash, fasten, chain, tie, secure or restrain any animal for any amount of time with a device that:
 (1) is a choke collar or pinch collar;
@@ -1244,7 +1244,7 @@ d. Information required by this section shall be reported in a manner consistent
 § 17-199 Health services in correctional facilities. ::
 
 
- a. The department shall submit to the mayor and the speaker of the council no later than July 15, 2015, and every three months thereafter, a report regarding the medical and mental health services provided to inmates in city correctional facilities during the previous three calendar months that includes, but need not be limited to:
+a. The department shall submit to the mayor and the speaker of the council no later than July 15, 2015, and every three months thereafter, a report regarding the medical and mental health services provided to inmates in city correctional facilities during the previous three calendar months that includes, but need not be limited to:
 (i) performance indicators reported to the department by any entity providing such services;
 (ii) a description of the methodology used in measuring such performance;
 (iii) the metrics utilized to determine whether such performance measures meet targets established by the department and any entity providing such services;
@@ -1261,7 +1261,7 @@ d. Notwithstanding any other requirement of this section, personally identifiabl
 § 17-199.1 Lactation rooms.  ::
 
 
- a. Definitions. For the purposes of this section, “lactation room” means a sanitary place that is not a restroom that can be used to breastfeed or express milk in private, and which includes an electrical outlet, a chair, and nearby access to running water.
+a. Definitions. For the purposes of this section, “lactation room” means a sanitary place that is not a restroom that can be used to breastfeed or express milk in private, and which includes an electrical outlet, a chair, and nearby access to running water.
 b. Every job center, SNAP center, or medical assistance program center of the department of social services/human resources administration; city-owned borough office of the administration for children’s services and the Nicholas Scoppetta children’s center; and health center operated or maintained by the department shall, where practicable, make at least one lactation room available upon request to an individual utilizing on-site services. The presence of such a lactation room shall not abrogate such an individual’s right to breastfeed in public pursuant to article 7 of the civil rights law.
 c. The department shall create a poster containing information on breast-feeding, an individual’s right to nurse in public, and the availability of lactation rooms pursuant to this section. Such poster shall be made available on the department’s website, shall be displayed in any lactation room required to be made available pursuant to this section, and shall be displayed in a clear and conspicuous manner in the waiting room of any public space where a lactation room is required to be made available pursuant to this section. No later than one year after the effective date of the local law adding this subdivision, the department shall create a list of all locations with lactation rooms available pursuant to this section. Such list shall be made available on the department’s website.
 d. The department of education shall submit to the speaker of the city council on or before August 1, 2017, and on or before every August 1 thereafter, a report summarizing the policies at New York city public schools to allow a student or the parent or guardian of a student access to a lactation room upon request. Such report shall indicate how information regarding such policies was communicated to students, parents and guardians during the previous school year.
@@ -1283,7 +1283,7 @@ No later than September 30, 2017, and annually no later than September 30 of eac
 § 17-199.3 Maternal mortality annual report. ::
 
 
- a. For purposes of this section, the following terms have the following meanings:
+a. For purposes of this section, the following terms have the following meanings:
 Maternal health. The term “maternal health” means the health of women during pregnancy, childbirth, and the postpartum period.
 Maternal mortality. The term “maternal mortality” means the death of a woman while pregnant or within 42 days of the termination of pregnancy, from any cause related to or aggravated by the pregnancy or its management.
 b. No later than September 30, 2017, and not later than September 30 annually thereafter, the department shall submit to the speaker and publish in the annual summary of vital statistics the most recent calendar year data available regarding maternal mortality in New York City, to the extent such data is made available to the department, including, but not limited to:
@@ -1308,7 +1308,7 @@ No later than September 30, 2017, and annually no later than September 30 of eac
 § 17-199.5 Wild and exotic animal circus performances prohibited.* ::
 
 
- a. Definitions. For the purposes of this section, the following terms have the following meanings:
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
 Cause a performance. The term "cause a performance" means to be financially or operationally responsible for the management of a performance, or to officially or financially sponsor a performance.
 Circus. The term "circus" means any live show or carnival which, along with clown, acrobatic, or stunt performances, features performances by live wild or exotic animals that, in order to be able to perform, have traveled in mobile housing facilities or were taken from their permanent residence and required to travel for any distance.
 Companion animal. The term "companion animal" means any domesticated animal normally maintained in or near the household of the owner or person who cares for such animal. The term "companion animal" does not include farm animals or animals that cannot be sold, given, possessed, harbored, kept or yarded pursuant to paragraph (1) of subdivision (a) of section 161.01 of the New York city health code.
@@ -1340,7 +1340,7 @@ f. Other laws not affected. Nothing in this section shall be construed to affect
 § 17-199.5 Encouragement of physician referrals for indoor allergen hazards.* ::
 
 
- a. The department shall report to the council no later than 18 months from the effective date on activities it has undertaken to educate physicians and other health care providers who treat persons with asthma about the role of indoor allergens in asthma exacerbation and the availability of inspections for asthma triggers in their patients’ primary residence by the department and the department of housing preservation and development, and on any mechanism they have to refer to the department or the department of housing preservation and development, with consent, the contact information for patients who report these conditions in their primary residence. The report shall describe what was done following such referrals, and what the outcomes were of any that were made and received during this period.
+a. The department shall report to the council no later than 18 months from the effective date on activities it has undertaken to educate physicians and other health care providers who treat persons with asthma about the role of indoor allergens in asthma exacerbation and the availability of inspections for asthma triggers in their patients’ primary residence by the department and the department of housing preservation and development, and on any mechanism they have to refer to the department or the department of housing preservation and development, with consent, the contact information for patients who report these conditions in their primary residence. The report shall describe what was done following such referrals, and what the outcomes were of any that were made and received during this period.
 
 
 
@@ -1349,7 +1349,7 @@ f. Other laws not affected. Nothing in this section shall be construed to affect
 § 17-199.6 Report of autism spectrum disorder services.* ::
 
 
- a. No later than April 1 of each year, the department shall submit to the mayor and the speaker of the city council and post on its website, the number of individuals receiving services for autism spectrum disorders from the department or programs administered by the department, disaggregated by zip code.
+a. No later than April 1 of each year, the department shall submit to the mayor and the speaker of the city council and post on its website, the number of individuals receiving services for autism spectrum disorders from the department or programs administered by the department, disaggregated by zip code.
 b. Information required to be reported pursuant to this section shall be reported in a manner that does not violate any applicable provision of federal, state or local law relating to the privacy of information. Any category required to be reported that contains between 1 and 9 individuals, or allows another category to be narrowed to between 1 and 9 individuals, shall be reported with a symbol.
 
 
@@ -1359,7 +1359,7 @@ b. Information required to be reported pursuant to this section shall be reporte
 § 17-199.6 Investigations of indoor allergen hazards in dwellings of persons with medically diagnosed moderate persistent or severe persistent asthma.* ::
 
 
- a. The department shall establish procedures to permit doctors, nurses, or other health professionals, upon the consent of their patients, to request a department investigation of possible indoor allergen hazards in dwellings where persons reside who have been medically diagnosed with moderate persistent or severe persistent asthma. Such procedures shall provide for the referral to the department of housing preservation and development of such requests that would be subject to section 27-2017.6. The procedures shall also provide for an investigation to be made when the department is notified that a person who has been medically diagnosed with moderate persistent or severe persistent asthma is residing in a dwelling with possible indoor allergen hazards not otherwise subject to enforcement by the department of housing preservation and development under section 27-2017.6. Such indoor allergen hazards include, but are not limited to, mold that is not readily observable to the eye, including mold that is hidden within wall cavities, construction dust or such other conditions as the department shall from time-to-time determine by rule are indoor allergen hazards.
+a. The department shall establish procedures to permit doctors, nurses, or other health professionals, upon the consent of their patients, to request a department investigation of possible indoor allergen hazards in dwellings where persons reside who have been medically diagnosed with moderate persistent or severe persistent asthma. Such procedures shall provide for the referral to the department of housing preservation and development of such requests that would be subject to section 27-2017.6. The procedures shall also provide for an investigation to be made when the department is notified that a person who has been medically diagnosed with moderate persistent or severe persistent asthma is residing in a dwelling with possible indoor allergen hazards not otherwise subject to enforcement by the department of housing preservation and development under section 27-2017.6. Such indoor allergen hazards include, but are not limited to, mold that is not readily observable to the eye, including mold that is hidden within wall cavities, construction dust or such other conditions as the department shall from time-to-time determine by rule are indoor allergen hazards.
 b. In the event that the department determines that an indoor allergen hazard exists, the department shall order the owner to correct the condition and the underlying causes of such a condition within twenty-one days, in a manner and under such safety conditions as it may specify, including the integrated pest management practices in section 27-2017.8 and the work practices established pursuant to section 27-2017.9.
 c. In the event that the department determines that the owner or other person having the duty or liability to comply with an order issued pursuant to this section fails to substantially comply therewith within twenty-one days after service thereof, the department shall, in accordance with section 27-2017.10, refer such order to the department of housing preservation and development. The department of housing preservation and development shall take such enforcement action as is necessary, including performing or arranging for the performance of the work to correct the certified condition.
 d. The department shall report to the council and mayor no later than 24 months from the effective date on activities it has undertaken under this section as they relate to adults with asthma diagnoses, including but not limited to the number adult asthma referrals by type to the department for inspection, the number and types of orders issued to property owners by the department as a result of adult asthma referrals, and the number of apartments that have completed remediation for indoor asthma allergens as a result of adult asthma referrals. Upon submission of such report the agency may submit a recommendation to the council containing a proposed redefinition of “persons with medically diagnosed moderate persistent or severe persistent asthma” for the purposes of the provision of this article.
@@ -1389,7 +1389,7 @@ The department shall respond to complaints of unsafe work practices related to t
 § 17-199.9 Educational materials on drugs and opiates awareness and prevention. ::
 
 
- a. Definitions. For the purposes of this section, the following terms have the following meanings:
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
 DOE. The term “DOE” means the department of education.
 DYCD. The term “DYCD” means the department of youth and community development.
 b. The department shall develop age appropriate educational materials regarding drugs and opiates awareness and prevention.
@@ -1413,7 +1413,7 @@ It shall be the duty of any citizen who becomes aware of the death of any person
 § 17-202 Procedure in deaths reportable to the office of chief medical examiner. ::
 
 
- a. Upon any such death, the officer in charge of the station-house in the police precinct in which such person died shall immediately notify the office of chief medical examiner of the known facts concerning the time, place, manner and circumstances of such death. Immediately upon receipt of such notification the chief medical examiner, or a deputy chief medical examiner, or a medical examiner, or a medical investigator, or a lay medical investigator shall go to and take charge of the dead body. Such medical examiner, medical investigator or lay medical investigator shall fully investigate the essential facts concerning the circumstances of the death, taking the names and addresses of as many witnesses thereto as it may be practicable to obtain, and shall record all such facts and file the same in the office of chief medical examiner. Such medical examiner, medical investigator or lay medical investigator shall take possession of any portable objects which, in his or her opinion, may be useful in establishing the cause of death, and except as provided in subdivision c hereof, shall deliver them to the police department.
+a. Upon any such death, the officer in charge of the station-house in the police precinct in which such person died shall immediately notify the office of chief medical examiner of the known facts concerning the time, place, manner and circumstances of such death. Immediately upon receipt of such notification the chief medical examiner, or a deputy chief medical examiner, or a medical examiner, or a medical investigator, or a lay medical investigator shall go to and take charge of the dead body. Such medical examiner, medical investigator or lay medical investigator shall fully investigate the essential facts concerning the circumstances of the death, taking the names and addresses of as many witnesses thereto as it may be practicable to obtain, and shall record all such facts and file the same in the office of chief medical examiner. Such medical examiner, medical investigator or lay medical investigator shall take possession of any portable objects which, in his or her opinion, may be useful in establishing the cause of death, and except as provided in subdivision c hereof, shall deliver them to the police department.
 b. The police officer detailed in such cases shall, in the absence of next of kin of the deceased person, take possession of all property of value found on such person, make an exact inventory thereof on his or her report, and deliver such property to the police department, which shall surrender the same to the person entitled to its custody or possession.
 c. Notwithstanding the provisions of subdivisions a and b of this section, any suicide note or other written evidence of suicide found on such deceased person shall be delivered to the chief medical examiner and shall be retained by said medical examiner.
 d. Nothing in this section contained shall affect the powers and duties of a public administrator.
@@ -1448,7 +1448,7 @@ Records shall be kept in the office of the chief medical examiner, properly inde
 § 17-206 Fees for copies of records. ::
 
 
- a. Whenever the chief medical examiner shall furnish to any private individual a copy or transcript of any record or any photograph or photostat of such record, such chief medical examiner shall and is hereby authorized to charge as follows:
+a. Whenever the chief medical examiner shall furnish to any private individual a copy or transcript of any record or any photograph or photostat of such record, such chief medical examiner shall and is hereby authorized to charge as follows:
  
 .. list-table::
 :header-rows: 1
@@ -1478,7 +1478,7 @@ c. The chief medical examiner, in his or her discretion, shall have the power to
 § 17-207 Root cause analysis, office of chief medical examiner. ::
 
 
- a. For purposes of this subdivision, the following terms shall have the following meanings:
+a. For purposes of this subdivision, the following terms shall have the following meanings:
 1. "Designated root cause analysis officer" shall mean an employee of the office of chief medical examiner who is responsible for determining whether a significant event has occurred within the office of chief medical examiner and, if such significant event has occurred, for convening the root cause analysis committee.
 2. "Root cause analysis" shall mean a process for investigating the causal factors of a significant event that shall focus primarily on systems and processes, not on individual performance or human error, and shall identify appropriate corrective action, including strategies to prevent the reoccurrence of a significant event or potential improvements in systems or processes that will decrease the likelihood of a significant event occurring in the future.
 3. "Root cause analysis committee" shall mean a committee composed of representatives of certain divisions of the office of chief medical examiner appointed by the designated root cause analysis officer and assembled in response to a significant event in order to conduct a root cause analysis and to produce a root cause analysis committee report pursuant to this section.
@@ -1518,7 +1518,7 @@ h. This section shall not be construed to create a private right of action to en
 § 17-208 Transparency, office of chief medical examiner. ::
 
 
- a. For the purpose of this section, the following terms shall have the following meanings:
+a. For the purpose of this section, the following terms shall have the following meanings:
 1. "Forensic DNA laboratory" shall have the same meaning as set forth in subdivision two of section nine hundred ninety-five of article forty-nine-b of the New York state executive law, or any successor provision thereto.
 2. "Proficiency test" shall mean such testing as is required by the New York state commission on forensic science and the New York state subcommittee on forensic DNA laboratories and forensic DNA testing pursuant to paragraph b of subdivision three of section nine hundred ninety-five-b of article forty-nine-b of the New York state executive law, or any successor provision thereto.
 3. "Proficiency testing report" shall mean an annual report produced by the office of chief medical examiner which reports the number of employees working in the department of forensic biology of the office of chief medical examiner who have taken a proficiency test that year, and the percentage and number of those employees who passed such proficiency test.
@@ -1579,7 +1579,7 @@ t. “Letter grade.” A letter grade indicating the sanitary inspection grade i
 § 17-307 Licenses, permits required; restrictions; term. ::
 
 
- a. 1. It shall be unlawful for any individual to act as a food vendor without having first obtained a license therefor from the commissioner in accordance with the provisions of this subchapter.
+a. 1. It shall be unlawful for any individual to act as a food vendor without having first obtained a license therefor from the commissioner in accordance with the provisions of this subchapter.
 2. In addition to the conditions set forth in section 17-310 of this subchapter a license shall be renewable by the licensee provided that the licensee meets all other requirements for renewal, the license has not been revoked or suspended and the licensee has not committed a violation or violations which could be a basis for license revocation or suspension.
 b. 1. It shall be unlawful to vend food from any vehicle or pushcart in a public space without having first obtained a permit for such vehicle or pushcart from the commissioner in accordance with the provisions of this subchapter. The commissioner shall establish standards relating to the size and design of such vehicles and pushcarts. No vendors shall vend from any vehicle or pushcart which does not comply with the standards established by the commissioner. No vendor shall vend from other than a vehicle or pushcart. No food vendor issued a fresh fruits and vegetables permit shall vend from other than a vehicle or a green cart. No food vendor issued a fresh fruits and vegetables permit shall vend any food other than fresh fruits and vegetables from the green cart or vehicle for which the permit was issued.
 2. (a) On and after July thirtieth, nineteen hundred eighty-three, no new full-term permits shall be issued until the number of such permits which are in effect is less than three thousand. Thereafter, the maximum number of such permits which may be in effect shall be three thousand and no new permits shall be issued in excess of such maximum number. Notwithstanding the limitations on the issuance of new full-term permits, a permit issued prior to July thirtieth, nineteen hundred eighty-three which is in effect shall be renewable by the licensee to whom the permit was issued subject to the provisions of subparagraph (f) of this paragraph and provided that all other requirements for renewal under the provisions of this subchapter and any rules promulgated pursuant thereto are complied with, the license of the person to whom the permit was issued or the permit has not been revoked or suspended and the licensee has not committed a violation or violations which could be a basis for permit or license revocation or suspension.
@@ -1660,7 +1660,7 @@ g. For purposes of determining the number of full-term or temporary permits held
 § 17-308 Fees. ::
 
 
- a. The annual fees for licenses and permits set forth in subdivisions b and c of this section shall be payable at the time of application for a license or permit or renewal thereof, except as otherwise provided in subdivision e of section 17-307 of this subchapter.
+a. The annual fees for licenses and permits set forth in subdivisions b and c of this section shall be payable at the time of application for a license or permit or renewal thereof, except as otherwise provided in subdivision e of section 17-307 of this subchapter.
 b. The annual fee for a license or renewal thereof shall be twenty-five dollars; provided, however, that for an initial license issued for more than two years the applicable license fee shall be increased proportionally to the nearest quarter year.
 c. The annual fee for a permit or renewal thereof shall be:
 1. For a pushcart or vehicle selling prepackaged food or for a fresh fruits and vegetables permit: fifty dollars for the first year and twenty-five dollars for each year thereafter.
@@ -1683,7 +1683,7 @@ For purposes of this subchapter, the rights and benefits bestowed upon the survi
 § 17-309 Applications; hearings. ::
 
 
- a. All applications for a license or permit shall be accompanied by payment of the fee and shall be in such form and detail as the commissioner may prescribe.
+a. All applications for a license or permit shall be accompanied by payment of the fee and shall be in such form and detail as the commissioner may prescribe.
 b. In addition to any other information required, the commissioner shall require the following information:
 1. The name, home and business address of the applicant. If the applicant is applying for a permit to vend food from a vehicle or pushcart in a public place, the name, home address and license number of every food vendor who will be authorized to operate such applicant's vehicle or pushcart and the legal relationship between such applicant and such food vendor.
 2. A description of the food to be offered for sale and a description of the vehicle or pushcart to be used and a statement whether or not the application is for a fresh fruits and vegetables permit.
@@ -1703,7 +1703,7 @@ e. [Repealed.]
 § 17-310 Renewal of license or permit. ::
 
 
- a. An application for renewal of a license or permit shall be filed with the appropriate fee for such renewal, with a tax clearance certificate issued by the state tax commission of the state of New York, and with a tax clearance certificate issued by the commissioner of finance, in such form and containing such information as he or she shall require, indicating payment of all applicable taxes imposed by title eleven of the code and administered by the commissioner of finance, at least thirty days prior to the expiration date of the existing license or permit. The commissioner of finance shall charge and collect a fee of ten dollars for issuing a tax clearance certificate.
+a. An application for renewal of a license or permit shall be filed with the appropriate fee for such renewal, with a tax clearance certificate issued by the state tax commission of the state of New York, and with a tax clearance certificate issued by the commissioner of finance, in such form and containing such information as he or she shall require, indicating payment of all applicable taxes imposed by title eleven of the code and administered by the commissioner of finance, at least thirty days prior to the expiration date of the existing license or permit. The commissioner of finance shall charge and collect a fee of ten dollars for issuing a tax clearance certificate.
 b. The commissioner of finance shall promulgate rules and regulations establishing (1) such standards of sales tax payments sufficient to indicate that operating as a food vendor is a full-time or part-time occupation of the licensee and (2) that a minimum payment of all applicable sales and business taxes imposed by title eleven of the code and administered by the commissioner of finance have been paid during the preceding calendar year.
 
 
@@ -1712,7 +1712,7 @@ b. The commissioner of finance shall promulgate rules and regulations establishi
 § 17-311 Display of license or plate and letter grade. ::
 
 
- a. Each food vendor shall carry his or her license upon his or her person and it shall be exhibited upon demand to any police officer, public health sanitarian or other authorized officer or employee of the city.
+a. Each food vendor shall carry his or her license upon his or her person and it shall be exhibited upon demand to any police officer, public health sanitarian or other authorized officer or employee of the city.
 b. The food vendor's license shall be worn conspicuously by him or her at all times while he or she is operating as a food vendor.
 c. The permit plate and letter grade shall be firmly affixed to the vending vehicle or pushcart in a conspicuous place as required by rules of the department.
 d. Vendors issued fresh fruits and vegetables permits pursuant to paragraph four of subdivision b of section 17-307 of the administrative code of the city of New York shall carry upon their person a laminated or similarly durable and easily readable map, prepared and issued to them by the commissioner, designating those areas of the city in which they are authorized to vend. Those persons issued a fresh fruits and vegetables permit found to be vending from green carts and vehicles in precincts other than those designated on their borough-specific permits shall be deemed to be operating such vehicle or pushcart without a permit.
@@ -1752,7 +1752,7 @@ d. Surrender his or her license, permit and plate promptly to the commissioner u
 § 17-314.1 Transferability. ::
 
 
- a. No license, permit or plate issued under this subchapter shall be assignable or transferable.
+a. No license, permit or plate issued under this subchapter shall be assignable or transferable.
 b. No vehicle or pushcart used to vend food in a public place shall be assignable or transferable with a license, permit or plate that has been issued under this subchapter attached thereto.
 c. A transfer in violation of this section shall be deemed to have occurred where, if a corporation is the permittee, there has been a change in fifty percent or more of the ownership interest in such corporation from the ownership interest existing on the date the permit was issued, or where the permittee is a limited liability company, where there has been the addition of any member, and where the permittee is a partnership, where there has been the addition of any partner. Furthermore, any such transfer in an exclusive distributor or a manufacturer who has been issued more than one temporary permit pursuant to item (B) of clause (ii) of subparagraph (a) of paragraph three of subdivision f of section 17-307 of this subchapter shall result in the automatic revocation of all such additional temporary permits issued to such persons pursuant to such provision.
 d. Notwithstanding the provisions in subdivisions a, b and c of this section:
@@ -1765,7 +1765,7 @@ d. Notwithstanding the provisions in subdivisions a, b and c of this section:
 § 17-315 Restrictions on the placement of vehicles and pushcarts; vending in certain areas restricted or prohibited. ::
 
 
- a. No pushcart shall be placed upon any sidewalk unless said sidewalk has at least a twelve foot clear pedestrian path to be measured from the boundary of any private property to any obstruction in or on the sidewalk, or if there are no obstructions, to the curb. In no event shall any pushcart be placed on any part of a sidewalk other than that which abuts the curb.
+a. No pushcart shall be placed upon any sidewalk unless said sidewalk has at least a twelve foot clear pedestrian path to be measured from the boundary of any private property to any obstruction in or on the sidewalk, or if there are no obstructions, to the curb. In no event shall any pushcart be placed on any part of a sidewalk other than that which abuts the curb.
 b. No vending vehicle or pushcart or any other item related to the operation of a food vendor's business shall touch, lean against or be affixed permanently or temporarily in any building or structure including, but not limited to, lamp posts, parking meters, mail boxes, traffic signal stanchions, fire hydrants, tree boxes, benches, bus shelters, taxi stands, refuse baskets or traffic barriers.
 c. All items relating to the operation of a food vending business shall be kept in or under the vending vehicle or pushcart, except that samples of the non-perishable items sold may be displayed on the vending vehicle or pushcart. No items relating to the operation of a food vending business other than an adjoining acceptable waste container shall be placed upon any public space adjacent to the vending vehicle or pushcart, and no food shall be sold except from an authorized vehicle or pushcart.
 d. No vending pushcart shall be located against display windows of fixed location businesses, nor shall they be within twenty feet of any entranceway to any building, store, theatre, movie house, sports arena or other place of public assembly, or within twenty feet from exits, including service exits, to buildings that are exclusively residential at the street level.
@@ -1793,7 +1793,7 @@ No person shall sell, give or otherwise transfer any food to an unlicensed food 
 § 17-317 Issuance, renewal, suspension and revocation of licenses and permits. ::
 
 
- a. The commissioner may refuse to issue a food vendor license or a permit to vend food from a vehicle or pushcart in a public place, and may, after due notice and an opportunity to be heard, in addition to any other penalties provided herein, refuse to renew, suspend or revoke a food vendor license or a permit to vend food from a vehicle or pushcart in a public place, upon the occurrence of any one or more of the following conditions:
+a. The commissioner may refuse to issue a food vendor license or a permit to vend food from a vehicle or pushcart in a public place, and may, after due notice and an opportunity to be heard, in addition to any other penalties provided herein, refuse to renew, suspend or revoke a food vendor license or a permit to vend food from a vehicle or pushcart in a public place, upon the occurrence of any one or more of the following conditions:
 1. the applicant, licensee, permittee, its officers, directors, shareholders, members, managers or employees have made a material false statement or concealed a material fact in connection with:
 (a) an application for a food vendor license or a permit to vend food from a vehicle or pushcart in a public place; or
 (b) the sale of any item of food.
@@ -1821,7 +1821,7 @@ Unless otherwise specifically provided, notice and hearing upon denial of an app
 § 17-320 Exemptions. ::
 
 
- a. The commissioner or board may promulgate rules exempting any non-profit association, including but not limited to a government agency, charitable, educational, religious or other such organization, from compliance with any of the provisions of this subchapter.
+a. The commissioner or board may promulgate rules exempting any non-profit association, including but not limited to a government agency, charitable, educational, religious or other such organization, from compliance with any of the provisions of this subchapter.
 b. Notwithstanding any other provision of this subchapter, a person may be issued more than one full-term or temporary food vendor permit to vend in any area under the jurisdiction of the department of parks and recreation pursuant to an agreement entered into in accordance with chapter fourteen of the charter. Such person shall be exempt from any provisions of this subchapter restricting the number of full-term or temporary food vendor permits that may be issued to any one person and the full-term or temporary food vendor permits issued to such persons also shall be exempt from any provisions of this subchapter restricting the total number of full-term and temporary food vendor permits that may be issued. Such permits shall be subject to all other provisions, limitations and conditions imposed by this code or the health code, and all rules promulgated thereunder.
 
 
@@ -1830,7 +1830,7 @@ b. Notwithstanding any other provision of this subchapter, a person may be issue
 § 17-321 Enforcement. ::
 
 
- a. Public health sanitarians or other authorized officers or employees of the department and police officers shall have the power to enforce all laws, rules and regulations relating to food vendors. This provision shall in no way restrict any other power granted by law to any officer or employee of the city.
+a. Public health sanitarians or other authorized officers or employees of the department and police officers shall have the power to enforce all laws, rules and regulations relating to food vendors. This provision shall in no way restrict any other power granted by law to any officer or employee of the city.
 b. If a food vendor does not move his or her vehicle or pushcart when directed to do so by a police officer or other authorized officer or employee of the city in compliance with the provisions of subdivision k of section 17-315 of this subchapter, such officer or employee may provide for the removal of such vehicle or pushcart to any garage, automobile pound or other place of safety, and the owner or other person lawfully entitled to the possession of such vehicle or pushcart may be charged with reasonable costs for such removal and storage, payable prior to the release of such vehicle or pushcart.
 c. An officer or employee designated in subdivision a of this section may seize any vehicle or pushcart which (i) does not have a permit or (ii) is being used to vend on property owned by the city and under the jurisdiction of a city agency including, but not limited to, the department of parks and recreation or the department of small business services, without the written authorization of the commissioner of such department, or (iii) is being used by an unlicensed vendor, or (iv) is being used to vend in the area including and bounded on the east by the easterly side of Broadway, on the south by the southerly side of Liberty Street, on the west by the westerly side of West Street and on the north by the northerly side of Vesey Street, or (v) is selling food not authorized by the permit, and may seize any food sold or offered for sale from such vehicle or pushcart. Such vehicle, pushcart or food shall be subject to forfeiture as provided in section 17-322 of this subchapter. If a forfeiture proceeding is not commenced, the vendor may be charged with the reasonable costs for removal and storage payable prior to the release of such food, vehicle or pushcart unless the charge of vending without a permit or vending without a license or vending without the authorization of such commissioner is dismissed.
 d. If a food vendor operates any food vending business on any street at any time where and when the operation of any food vending business is prohibited pursuant to the provisions of section 20-465.1 of the code and any rules promulgated pursuant thereto, or if a food vendor operates a food vending business in the area including and bounded on the east by the easterly side of Broadway, on the south by the southerly side of Liberty Street, on the west by the westerly side of West Street and on the north by the northerly side of Vesey Street, any authorized officer or employee of the city or member of the New York city police department is authorized to provide for the removal of such food vendor's food, vehicle or pushcart to any garage, automobile pound or other place of safety, and the owner or other person lawfully entitled to the possession of such vehicle or pushcart or food may be charged with reasonable costs for removal and storage.
@@ -1842,7 +1842,7 @@ e. Any notice of violation issued to a food vendor by an officer or employee des
 § 17-322 Forfeitures. ::
 
 
- a. In addition to any penalties imposed pursuant to subdivision a of section 17-325 of this subchapter upon any person found guilty of violating subdivision a, b or c of section 17-307 of this subchapter, all property seized pursuant to this subchapter shall be subject to forfeiture upon notice and judicial determination. Notice of the institution of the forfeiture proceeding shall be in accordance with the provisions of the civil practice law and rules.
+a. In addition to any penalties imposed pursuant to subdivision a of section 17-325 of this subchapter upon any person found guilty of violating subdivision a, b or c of section 17-307 of this subchapter, all property seized pursuant to this subchapter shall be subject to forfeiture upon notice and judicial determination. Notice of the institution of the forfeiture proceeding shall be in accordance with the provisions of the civil practice law and rules.
 b. The police department having custody of the seized property, after judicial determination of forfeiture shall, upon a public notice of at least five days, sell such forfeited property at public sale. The net proceeds of such sale, after deduction of the lawful expenses incurred, shall be paid into the general fund of the city of New York.
 
 
@@ -1876,7 +1876,7 @@ The commissioner or board shall make such rules as deemed necessary for the prop
 § 17-325 Penalties. ::
 
 
- a. Any person who violates the provisions of subdivision a, b, or c of section 17-307 of this subchapter shall be guilty of a misdemeanor, punishable by a fine of not less than one hundred fifty dollars nor more than one thousand dollars, or by imprisonment for not more than three months or by such fine and imprisonment.
+a. Any person who violates the provisions of subdivision a, b, or c of section 17-307 of this subchapter shall be guilty of a misdemeanor, punishable by a fine of not less than one hundred fifty dollars nor more than one thousand dollars, or by imprisonment for not more than three months or by such fine and imprisonment.
 b. Except as provided in subdivision a of this section, a person who violates any provision of this subchapter or any of the rules or regulations promulgated hereunder shall be guilty of an offense punishable by the court as follows:
 1. For the first violation, a fine of not less than twenty-five nor more than fifty dollars.
 2. For the second violation issued for the same offense within a period of two years of the date of a first violation, a fine of not less than fifty dollars nor more than one hundred dollars.
@@ -1896,7 +1896,7 @@ d. A proceeding to recover any civil penalty authorized pursuant to the provisio
 § 17-325.1 Failure to display and produce license or permit; presumptive evidence of unlicensed or unpermitted activity. ::
 
 
- a. In any civil or criminal action or proceeding, failure by a food vendor who is required to be licensed pursuant to the provisions of this chapter to display and exhibit upon demand a food vendor's license in accordance with the provisions of this chapter to any police officer, public health sanitarian or other authorized officer or employee of the department or other city agency shall be presumptive evidence that such food vendor is not duly licensed.
+a. In any civil or criminal action or proceeding, failure by a food vendor who is required to be licensed pursuant to the provisions of this chapter to display and exhibit upon demand a food vendor's license in accordance with the provisions of this chapter to any police officer, public health sanitarian or other authorized officer or employee of the department or other city agency shall be presumptive evidence that such food vendor is not duly licensed.
 b. In any civil or criminal action or proceeding, the failure of any vehicle or pushcart which is required to be permitted pursuant to the provisions of this chapter to have a permit plate affixed thereto in accordance with the provisions of this chapter shall be presumptive evidence that such vehicle or pushcart is not duly permitted.
 
 
@@ -1941,7 +1941,7 @@ Whenever used in this subchapter the following terms shall have the following me
 § 17-327 License required. ::
 
 
- a. On and after January first, nineteen hundred eighty-two no person shall use or offer the use of a horse in a rental horse business unless such horse is licensed pursuant to the provisions of this subchapter. For purposes of this subchapter the use of a horse in a rental horse business means that a horse is used or offered for use by the public for a fee for the purpose of riding or drawing a horse drawn vehicle or is used in the operation of a horse drawn vehicle for hire such as a horse drawn cab.
+a. On and after January first, nineteen hundred eighty-two no person shall use or offer the use of a horse in a rental horse business unless such horse is licensed pursuant to the provisions of this subchapter. For purposes of this subchapter the use of a horse in a rental horse business means that a horse is used or offered for use by the public for a fee for the purpose of riding or drawing a horse drawn vehicle or is used in the operation of a horse drawn vehicle for hire such as a horse drawn cab.
 b. A license shall be issued for a term of one year from the date of issuance thereof and shall be renewed prior to the expiration of such term.
 c. The annual fee for a license or the renewal of a license shall be twenty-five dollars.
 d. Application for a license or the renewal of a license shall be made to the department of health and mental hygiene. Such application shall contain the name and address of the owner of the horse and of the owner of the rental horse business in which such horse is to be used if such person is not the owner of the horse, the age, sex, color, markings and any other identifying marks such as brands or tattoos of the horse, the location of the stable where the horse is to be kept and any other information which the commissioner of health and mental hygiene may require. An application with respect to a horse which is used in the operation of a "horse drawn cab" as defined in subchapter twenty-one of chapter two of title twenty of this code shall include the identification number required to be inscribed on such horses hoof pursuant to the rules and regulations of the department of consumer affairs. The application shall be accompanied by the license or renewal fee.
@@ -1953,7 +1953,7 @@ e. No license shall be transferable. Upon the transfer of ownership of any horse
 § 17-328 Identification tag and certificate of license. ::
 
 
- a. Each horse licensed pursuant to the provisions of this subchapter shall be assigned an official identification number by the department. Such identification number shall be branded on the hoof of the horse in a manner to be prescribed by the commissioner and shall also be inscribed on a metal tag which shall be attached to the bridle of the horse in a conspicuous place to be specified by the commissioner at all times when the horse is at work. Such tag shall be issued to the owner with the certificate of license. The tag and certificate of license shall be of such form and design and shall contain such information as the commissioner shall prescribe. Duplicate tags and certificates of license shall be issued only upon proof of loss of the original and the payment of a fee of two dollars.
+a. Each horse licensed pursuant to the provisions of this subchapter shall be assigned an official identification number by the department. Such identification number shall be branded on the hoof of the horse in a manner to be prescribed by the commissioner and shall also be inscribed on a metal tag which shall be attached to the bridle of the horse in a conspicuous place to be specified by the commissioner at all times when the horse is at work. Such tag shall be issued to the owner with the certificate of license. The tag and certificate of license shall be of such form and design and shall contain such information as the commissioner shall prescribe. Duplicate tags and certificates of license shall be issued only upon proof of loss of the original and the payment of a fee of two dollars.
 b. The certificate of license shall at all times remain at the stable where the horse is kept and shall be available for inspection by any police officer, agent of the department and the ASPCA, or to veterinarians employed or retained by the department or the ASPCA or employees of the department of consumer affairs or any persons designated by the commissioner to enforce this subchapter.
 
 
@@ -1970,7 +1970,7 @@ The department shall be notified of the transfer of ownership or other dispositi
 § 17-330 Regulations. ::
 
 
- a. The commissioner, with the advice of the advisory board as hereinafter established, shall promulgate such regulations as are necessary to carry out the provisions of this subchapter and to promote the health, safety and well being of the horses which are required to be licensed hereunder and of members of the public who hire such horses. b.
+a. The commissioner, with the advice of the advisory board as hereinafter established, shall promulgate such regulations as are necessary to carry out the provisions of this subchapter and to promote the health, safety and well being of the horses which are required to be licensed hereunder and of members of the public who hire such horses. b.
 1. Horses shall not be left untethered or unattended except when confined in a stable or other enclosure. When tethered, all horses shall be secured by the use of a rope attached to the halter, not to the bit or bridle.
 2. Horse bridles and halters shall be used on carriage horses at all times when operating a carriage.
 c. Standing stalls for carriage horses shall be sixty square feet or larger, with a minimum width of seven feet, and shall be configured to permit a carriage horse to turn around and safely lay down within the stall. Horses shall be un-tied when stabled. A halter shall be on the horse or hung outside each stall at all times.
@@ -2001,7 +2001,7 @@ r. Owners shall insure that during the months of November through April every ca
 § 17-331 Advisory board. ::
 
 
- a. The commissioner shall appoint an advisory board consisting of five members as follows:
+a. The commissioner shall appoint an advisory board consisting of five members as follows:
 1. Two members shall be appointed from among the owners of rental horse businesses operating within the city, one of whom shall be representative of the interests of owners of riding horses and one of whom shall be representative of the interests of owners of carriage horses.
 2. Two members shall be appointed from the public at large. However, in no event shall more than one person so appointed to the board be a member of the board of directors or an employee of any animal humane society or association.
 3. One member shall be a veterinarian.
@@ -2018,7 +2018,7 @@ d. The board shall make recommendations to the commissioner on regulations neces
 § 17-332 Violations. ::
 
 
- a. Any violation of this subchapter, or of any of the rules promulgated hereunder, shall upon conviction thereof be punishable by a fine of not less than one hundred dollars nor more than five hundred dollars or by imprisonment not exceeding fifteen days, or both.
+a. Any violation of this subchapter, or of any of the rules promulgated hereunder, shall upon conviction thereof be punishable by a fine of not less than one hundred dollars nor more than five hundred dollars or by imprisonment not exceeding fifteen days, or both.
 b. In lieu of criminal prosecution, any violation of this subchapter or any of the rules promulgated hereunder may be prosecuted as civil violations subject to a civil penalty of not less than twenty-five dollars nor more than five hundred dollars or by the suspension or revocation of a license and the suspension from work of the horse with respect to which the act caused the violation was committed or by both such civil penalty and suspension. Civil violations, under this section, shall be adjudicated before the administrative tribunal of the department.
 
 
@@ -2027,7 +2027,7 @@ b. In lieu of criminal prosecution, any violation of this subchapter or any of t
 § 17-333 Lighting of horse drawn cabs. [Repealed]  ::
 
 
- a. The provisions of this subchapter shall not be construed to supersede or affect any of the provisions of subchapter twenty-one of chapter two of title twenty of the code relating to a "horse drawn cab" as defined therein or any of the regulations of the commissioner of consumer affairs promulgated thereunder.
+a. The provisions of this subchapter shall not be construed to supersede or affect any of the provisions of subchapter twenty-one of chapter two of title twenty of the code relating to a "horse drawn cab" as defined therein or any of the regulations of the commissioner of consumer affairs promulgated thereunder.
 b. The provisions of this subchapter shall not be construed to permit the possession or use of a horse in any area where such possession or use is prohibited by any other law, rule or regulation.
 c. The provisions of this subchapter shall not be construed to prohibit the ASPCA or the department from enforcing any provision of law, rule or regulation relating to the humane treatment of animals with respect to any horse regardless of whether such horse is required to be licensed pursuant to the provisions of this subchapter.
 
@@ -2037,7 +2037,7 @@ c. The provisions of this subchapter shall not be construed to prohibit the ASPC
 § 17-334.1 Training program and examination. ::
 
 
- a. The department shall offer a training program and a written examination for all horse drawn cab drivers. The commissioner shall issue a certificate to any person successfully completing the training program and achieving satisfactory results on the written examination administered by the department. Subjects which shall be included in such training program are: (1) proper horse care and grooming, (2) proper preparation and cleaning of harnesses and padding, (3) proper fitting of the bit, bridle and harness to the horse, (4) proper hitching of the horse to the carriage, (5) traffic laws and rules of the city of New York, (6) permissible hours and areas of operation of horse drawn cabs in the city of New York, (7) all laws and rules of the city of New York pertaining in any way to horse drawn cabs and (8) such other subjects as shall be deemed appropriate and necessary by the commissioner.
+a. The department shall offer a training program and a written examination for all horse drawn cab drivers. The commissioner shall issue a certificate to any person successfully completing the training program and achieving satisfactory results on the written examination administered by the department. Subjects which shall be included in such training program are: (1) proper horse care and grooming, (2) proper preparation and cleaning of harnesses and padding, (3) proper fitting of the bit, bridle and harness to the horse, (4) proper hitching of the horse to the carriage, (5) traffic laws and rules of the city of New York, (6) permissible hours and areas of operation of horse drawn cabs in the city of New York, (7) all laws and rules of the city of New York pertaining in any way to horse drawn cabs and (8) such other subjects as shall be deemed appropriate and necessary by the commissioner.
 b. The department may impose a fee for the training program and examination, as provided in subdivision a herein, in order to defray expenses incurred in the administration thereof.
 c. The department shall offer the training program and examination, as provided in subdivision a herein, on a regularly scheduled basis, no less frequently than at least four times per year or more frequently as deemed necessary by the commissioner.
 d. The training program shall be available only to persons holding a currently valid driver's license.
@@ -2048,7 +2048,7 @@ d. The training program shall be available only to persons holding a currently v
 § 17-335 Inhalation therapy. ::
 
 
- a. Definitions. Whenever used in this section, the following terms shall mean and include:
+a. Definitions. Whenever used in this section, the following terms shall mean and include:
 1. "Inhalation therapy." The therapeutic use of oxygen, helium, carbon dioxide or other gas or gases for a human being.
 2. "Inhalation therapy service." The furnishing of gas and complete inhalation therapy equipment, with or without a technician to administer or operate the same, or the furnishing, with one or more other persons, of such gas and complete equipment, or the furnishing of a supervising technician or technician to operate inhalation therapy equipment.
 3. "Purveyor." A person who directly or indirectly engages in the business of supplying inhalation therapy service or who holds himself or herself out, directly or indirectly, or by a sign, stationery, business card, billhead, advertisement or otherwise as being engaged in the business of supplying inhalation therapy service. The term "purveyor" shall not include a hospital or other institution subject to visitation or inspection by the state department of social services, pursuant to section four hundred sixty-c of the social services law, a hospital or other institution operated by the city, or a manufacturer or distributor of gas or inhalation therapy equipment, unless such manufacturer or distributor supplies inhalation therapy service consisting of gas and complete inhalation equipment, with or without, a technician to operate the same, or a technician to operate inhalation therapy equipment.
@@ -2084,7 +2084,7 @@ f. [Repealed.]
 § 17-336 Purveyors of certain services regulated. ::
 
 
- a. Whenever used in this section, the following terms shall mean and include:
+a. Whenever used in this section, the following terms shall mean and include:
 1. "Purveyor." A person who directly or indirectly engages in the business of supplying a service or services to another person or persons for use or utilization by such other person or persons.
 2. "Service" or "services." The sale, rental, supplying or furnishing of:
 (a) Clinical laboratory services or supplies
@@ -2134,7 +2134,7 @@ e. "Unprovoked" means that the dog was not hit, kicked, taunted or struck by a p
 § 17-343 Acquisition of a dangerous dog prohibited. ::
 
 
- a. No person shall own or harbor any dog for the purpose of dog fighting, or train, torment, badger, bait or use any dog for the purpose of causing or encouraging said dog to attack human beings or domestic animals when not provoked.
+a. No person shall own or harbor any dog for the purpose of dog fighting, or train, torment, badger, bait or use any dog for the purpose of causing or encouraging said dog to attack human beings or domestic animals when not provoked.
 b. No person shall sell, offer for sale, breed, buy or attempt to buy any dangerous dog within the city of New York.
 
 
@@ -2164,7 +2164,7 @@ e. Other remedies. The commissioner may order (i) that the dog be permanently re
 § 17-346 Confiscation and/or confinement of a dangerous dog. ::
 
 
- a. In the event that the owner of a dangerous dog violates any order of the commissioner as prescribed at the determination hearing, such owner's dog may be confiscated and impounded by the proper authorities upon the order of the commissioner. In addition, any dog determined to be dangerous shall be immediately confiscated by the proper authorities if the dog bites or attacks a human being and causes injury, or if the dog, at the sufferance of its owner, is engaged in or apparently engaged in a dog fight contest or is proximately near the area in which such a contest is being conducted.
+a. In the event that the owner of a dangerous dog violates any order of the commissioner as prescribed at the determination hearing, such owner's dog may be confiscated and impounded by the proper authorities upon the order of the commissioner. In addition, any dog determined to be dangerous shall be immediately confiscated by the proper authorities if the dog bites or attacks a human being and causes injury, or if the dog, at the sufferance of its owner, is engaged in or apparently engaged in a dog fight contest or is proximately near the area in which such a contest is being conducted.
 b. The owner of a dog determined to be dangerous by the commissioner, which has been confiscated pursuant to subdivision (a) of this section, may request the commissioner to conduct a hearing to determine if the dog should be returned to the owner. Upon such request, the commissioner shall provide for a hearing within five days.
 
 
@@ -2189,7 +2189,7 @@ The commissioner, within ninety days of the effective date of this subchapter an
 § 17-349 Dangerous dog advisory board. ::
 
 
- a. In the department, there shall be a dangerous dog advisory board consisting of the commissioner, or his or her designee, and five members, two of whom shall be appointed by the mayor and three of whom shall be appointed by the speaker of the city council. The membership of such board shall include two veterinarians, a certified animal trainer in possession of a valid permit and certificate issued by the commissioner pursuant to § 161.09(a) and (h) of the New York city health code, a representative of a recognized humane society, such as the American Society for the Prevention of Cruelty to Animals, or similar organization, and a member of the public.
+a. In the department, there shall be a dangerous dog advisory board consisting of the commissioner, or his or her designee, and five members, two of whom shall be appointed by the mayor and three of whom shall be appointed by the speaker of the city council. The membership of such board shall include two veterinarians, a certified animal trainer in possession of a valid permit and certificate issued by the commissioner pursuant to § 161.09(a) and (h) of the New York city health code, a representative of a recognized humane society, such as the American Society for the Prevention of Cruelty to Animals, or similar organization, and a member of the public.
 b. Each member of the advisory board, other than the commissioner, or his or her designee, shall serve for a term of three years, without compensation.
 c. The board shall be appointed and meet within one month of the effective date of this subchapter.
 d. The board shall make recommendations to the commissioner on regulations necessary to carry out the provisions of this subchapter and to promote the health, safety and welfare of the public, and of dangerous dogs.
@@ -2201,7 +2201,7 @@ e. The board shall meet at least once every four months to assess the regulation
 § 17-350 Violations and penalties. ::
 
 
- a. Any person who violates any provision of this subchapter or any of the regulations promulgated hereunder shall be guilty of a misdemeanor punishable by a fine or not less than five hundred nor more than five thousand dollars or by imprisonment for not more than one year, or both.
+a. Any person who violates any provision of this subchapter or any of the regulations promulgated hereunder shall be guilty of a misdemeanor punishable by a fine or not less than five hundred nor more than five thousand dollars or by imprisonment for not more than one year, or both.
 b. In addition to the penalties prescribed by subdivision a of this section, any person who violates any of the provisions of this subchapter or any rule or regulaton promulgated hereunder shall be liable for a civil penalty of not less than five hundred nor more than five thousand dollars.
 c. Any fine or penalty assessed pursuant to this section may be reduced by any amount which is paid as restitution by the owner of the dog to the person or persons suffering serious physical injury as compensation for unreimbursed medical expenses, lost earnings and other damages resulting from such injury.
 
@@ -2261,7 +2261,7 @@ b. "Tattooist" means any person who applies a tattoo to the body of another pers
 § 17-357 Licenses. ::
 
 
- a. No person shall engage in the practice of tattooing without having obtained a license to engage in such practice in the manner prescribed in this subchapter.
+a. No person shall engage in the practice of tattooing without having obtained a license to engage in such practice in the manner prescribed in this subchapter.
 b. The provisions of this subchapter shall not apply to a physician licensed under article one hundred thirty-one of the New York state education law.
 c. Notwithstanding the requirements set forth in this section, the commissioner may issue a seven-day temporary license to a person holding a license or similar certification or registration to engage in the practice of tattooing issued under the jurisdiction of another political subdivision, state or nation. Such temporary license will allow a person to apply tattoos within the city of New York under the direct supervision of a tattooist holding a license issued by the department pursuant to subdivision a of this section. Where an applicant for such a seven-day temporary license practices tattooing in a jurisdiction that does not license or otherwise register tattooists, the commissioner may issue such seven-day temporary license to such person upon the presentation of proof satisfactory to the commissioner that the applicant has received training equivalent to that necessary to satisfactorily pass the examination required in section 17-358. The fee for such temporary license shall be established in rules promulgated by the commissioner.
 
@@ -2271,7 +2271,7 @@ c. Notwithstanding the requirements set forth in this section, the commissioner 
 § 17-358 Licenses, applications, procedures and requirements. ::
 
 
- a. Any person intending to engage in the practice of tattooing shall apply to the commissioner for a tattoo license, in the form and manner prescribed by the commissioner. Such application shall contain such information as the commissioner deems reasonable and necessary to determine the qualifications for granting a license to the applicant. The application shall be subscribed by the applicant and affirmed under penalty of perjury.
+a. Any person intending to engage in the practice of tattooing shall apply to the commissioner for a tattoo license, in the form and manner prescribed by the commissioner. Such application shall contain such information as the commissioner deems reasonable and necessary to determine the qualifications for granting a license to the applicant. The application shall be subscribed by the applicant and affirmed under penalty of perjury.
 b. Any person eighteen years of age or older may apply to the commissioner for a license to practice tattooing. No license may be issued to a person who has been convicted of criminal tattooing of a minor in violation of section 260.21 of the New York state penal law within the year immediately preceding such license application.
 c. Each applicant for a tattoo license shall take an examination administered by the department in accordance with rules promulgated by the commissioner regarding health issues relating to tattooing, including but not limited to, infection control, utilization of universal precautions as recommended by the federal centers for disease control and prevention and proper methods of waste disposal. The fee for such examination shall be established pursuant to rules promulgated by the commissioner. An application for a tattoo license must be accompanied by satisfactory evidence of passing such examination. The commissioner shall issue an informational publication which may be used by applicants for a tattoo license in preparing to take such examination. The commissioner shall update such informational publication when the commissioner determines that new health-related information or techniques have become available.
 d. The biennial fee for a tattoo license shall be one hundred dollars.
@@ -2282,7 +2282,7 @@ d. The biennial fee for a tattoo license shall be one hundred dollars.
 § 17-359 Expiration; transfer; assignment; display. ::
 
 
- a. All licenses shall be numbered and shall expire two years from the date of issuance.
+a. All licenses shall be numbered and shall expire two years from the date of issuance.
 b. No license shall be assignable or transferable.
 c. Each license issued pursuant to this subchapter and a sign in the form prescribed by the commissioner indicating a department of health and mental hygiene address or telephone number where customers may register complaints shall be posted in a conspicuous place on the premises where the licensee is applying tattoos.
 d. A license may be renewed without examination; provided, however, that if a license is not renewed within two years of its expiration, the licensee shall be subject to the provisions of section 17-358.
@@ -2295,7 +2295,7 @@ f. All advertising by or for a licensee must contain the phrase "LICENSED BY THE
 § 17-360 Sanitary conditions; physical facilities; equipment; procedures. ::
 
 
- a. Every tattoo establishment, store, place or premises in which one or more tattooists engage in the practice of tattooing, shall be kept in a clean and sanitary condition at all times and shall have proper ventilation and lighting, waste receptacles, washing facilities with cold and hot running water, sanitary soap and towels for customers and tattooists and such other sanitary conditions as required by rules promulgated by the commissioner.
+a. Every tattoo establishment, store, place or premises in which one or more tattooists engage in the practice of tattooing, shall be kept in a clean and sanitary condition at all times and shall have proper ventilation and lighting, waste receptacles, washing facilities with cold and hot running water, sanitary soap and towels for customers and tattooists and such other sanitary conditions as required by rules promulgated by the commissioner.
 b. The commissioner shall promulgate rules with respect to hand-washing by tattooists, the wearing of latex gloves by tattooists and the wearing by tattooists of any other protective garments as the commissioner may require.
 c. The commissioner shall promulgate rules with respect to the proper sterilization of tattoo equipment, proper sterilization and disposal of needles, and the tattooing procedure, including, but not limited to, the preparation of the skin to be tattooed and the treatment of the skin by the tattooist and the customer following tattooing.
 d. The commissioner shall promulgate rules with respect to the tattooing of persons who have skin lesions or other conditions as determined by the commissioner.
@@ -2309,7 +2309,7 @@ g. Every tattooist shall maintain a record of the name, address, and age of ever
 § 17-361 Advisory committee. ::
 
 
- a. There shall be established within the department an advisory committee to advise the commissioner on health issues relating to tattooing consisting of a chair and eight individuals with the following qualifications: (i) two persons with prior experience in the practice of tattooing, one appointed by the speaker of the city council and one by the mayor; (ii) two persons engaged in the training of such practice, one appointed by the speaker of the city council and one by the mayor; (iii) two persons, by practice and profession, knowledgeable in the practice of sterilization and sanitary procedures, one appointed by the speaker of the city council and one by the mayor; and (iv) two persons licensed as dermatologists, one appointed by the speaker of the city council and one by the mayor. Each member shall serve for a term of two years without compensation and may be reappointed for additional terms. Each member shall reside in or have his or her primary place of business within the city of New York. The chair shall be appointed by the commissioner.
+a. There shall be established within the department an advisory committee to advise the commissioner on health issues relating to tattooing consisting of a chair and eight individuals with the following qualifications: (i) two persons with prior experience in the practice of tattooing, one appointed by the speaker of the city council and one by the mayor; (ii) two persons engaged in the training of such practice, one appointed by the speaker of the city council and one by the mayor; (iii) two persons, by practice and profession, knowledgeable in the practice of sterilization and sanitary procedures, one appointed by the speaker of the city council and one by the mayor; and (iv) two persons licensed as dermatologists, one appointed by the speaker of the city council and one by the mayor. Each member shall serve for a term of two years without compensation and may be reappointed for additional terms. Each member shall reside in or have his or her primary place of business within the city of New York. The chair shall be appointed by the commissioner.
 b. The advisory committee shall make recommendations to the commissioner on all matters relating to this subchapter, including the promulgation and amendment of rules necessary to carry out the provisions of this subchapter and such other matters as the commissioner may deem necessary.
 
 
@@ -2318,7 +2318,7 @@ b. The advisory committee shall make recommendations to the commissioner on all 
 § 17-362 Violations and penalties. ::
 
 
- a. The first conviction of a licensee for criminal tattooing of a minor under section 260.21 of the New York state penal law shall result in the suspension of such license for a period of six months. Not later than ten business days prior to the expiration of such six-month suspension, where such a suspended licensee intends to resume tattooing, such licensee shall post a bond with the commissioner in such form and amount as the commissioner shall require. Such bond shall remain in full force and effect for eighteen months following the expiration of such six-month suspension. The second conviction of a licensee for criminal tattooing of a minor under section 260.21 of the New York state penal law within two years of the first conviction shall result in the revocation of such license for a period of two years and the forfeiture of such bond as may have been posted with the commissioner pursuant to this section. The third conviction of a licensee for criminal tattooing of a minor under section 260.21 of the New York state penal law within two years of the first conviction shall result in the revocation of such license for a period of five years. A license issued pursuant to this subchapter may be suspended or revoked for any other reasonable cause specified by the commissioner in order to ensure the health and safety of the public.
+a. The first conviction of a licensee for criminal tattooing of a minor under section 260.21 of the New York state penal law shall result in the suspension of such license for a period of six months. Not later than ten business days prior to the expiration of such six-month suspension, where such a suspended licensee intends to resume tattooing, such licensee shall post a bond with the commissioner in such form and amount as the commissioner shall require. Such bond shall remain in full force and effect for eighteen months following the expiration of such six-month suspension. The second conviction of a licensee for criminal tattooing of a minor under section 260.21 of the New York state penal law within two years of the first conviction shall result in the revocation of such license for a period of two years and the forfeiture of such bond as may have been posted with the commissioner pursuant to this section. The third conviction of a licensee for criminal tattooing of a minor under section 260.21 of the New York state penal law within two years of the first conviction shall result in the revocation of such license for a period of five years. A license issued pursuant to this subchapter may be suspended or revoked for any other reasonable cause specified by the commissioner in order to ensure the health and safety of the public.
 b. In addition to any other penalty imposed by any other provision of law or rule promulgated thereunder, any person found to be in violation of this subchapter or any of the rules promulgated hereunder shall be liable for a civil penalty of not more than three hundred dollars for the first violation; not more than five hundred dollars for the second violation within a two-year period; and not more than one thousand dollars for the third and all subsequent violations within a two-year period.
 c. A proceeding to suspend or revoke a license authorized pursuant to subdivision a of this section, or to recover any civil penalty authorized pursuant to subdivision b of this section, shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal established by the board of health. Such tribunal shall have the power to suspend or revoke a license issued pursuant to this subchapter and to impose the civil penalties prescribed by subdivision b of this section.
 
@@ -2409,7 +2409,7 @@ e. "Pet shop" means a facility other than an animal shelter where live animals a
 § 17-372 Pet shop permits required. ::
 
 
- a. No person shall operate a pet shop without a permit issued by the commissioner pursuant to this subchapter.
+a. No person shall operate a pet shop without a permit issued by the commissioner pursuant to this subchapter.
 b. Operating a business or conducting an activity regulated by this subchapter without the permit therefor is hereby declared a nuisance.
 1. No person may operate a business or conduct an activity regulated by this subchapter without the permit required by this subchapter.
 2. No person may allow the operation of a business or the conduct of an activity regulated by this subchapter in any property owned by such person unless the person operating such business or conducting such activity has a permit as required by this section.
@@ -2423,7 +2423,7 @@ b. Operating a business or conducting an activity regulated by this subchapter w
 § 17-373 Permit applications. ::
 
 
- a. An application for a permit required pursuant to section 17-372 of this title or for the renewal of such a permit shall be made and submitted on forms furnished by the department.
+a. An application for a permit required pursuant to section 17-372 of this title or for the renewal of such a permit shall be made and submitted on forms furnished by the department.
 b. The applicant shall be eighteen years of age or older.
 c. The application shall contain all information required by the department. If the applicant for the permit is a sole proprietorship, the application shall be signed by the individual who would be the permittee. If the applicant is a partnership, the application shall be signed by a partner. If the applicant is a limited partnership, the application shall be signed by the managing or general partner. If the applicant is a corporation, the application shall be signed by an officer or director of the corporation or by any member, if management is vested in members. If the applicant is a limited liability company, the application shall be signed by any manager of the limited liability company. Such signature shall constitute an agreement that the permittee assumes responsibility for the conduct of the business, occupation or other activity concerned in accordance with the requirements of this subchapter or other applicable law.
 d. In addition to the following information, the application shall be accompanied by such other information, evidence or documentation as the department may require or as may be provided for in this subchapter or other applicable law or rule applicable to the department. The application shall, at a minimum, include:
@@ -2455,7 +2455,7 @@ h. The acceptance of an application and fee for a new permit or the renewal of a
 § 17-374 Permit expiration dates; fees. ::
 
 
- a. An application for a permit or for the renewal thereof shall be accompanied by the payment of a fee of three hundred dollars. Permits shall expire biennially and be eligible for renewal.
+a. An application for a permit or for the renewal thereof shall be accompanied by the payment of a fee of three hundred dollars. Permits shall expire biennially and be eligible for renewal.
 b. If a permit application is made when more than one-half of the fee period has expired, one-half of the prescribed fee shall be paid. This requirement shall not apply, however, if application is being made for renewal of a permit which has expired.
 c. The fees provided for herein shall be reduced by the amount of any fee paid for a permit to operate a pet shop pursuant to the New York city health code within the same fee period.
 
@@ -2473,7 +2473,7 @@ Any purported or attempted transfer of a permit to a person not named therein as
 § 17-376 Conditions of permit and health code to be observed. ::
 
 
- a. A person holding a permit, including the officers and directors of a corporation holding a permit, shall comply with the conditions contained in his or her permit as well as all applicable provisions of the New York city health code, administrative code or other law or rule enforced by the department.
+a. A person holding a permit, including the officers and directors of a corporation holding a permit, shall comply with the conditions contained in his or her permit as well as all applicable provisions of the New York city health code, administrative code or other law or rule enforced by the department.
 b. A person holding a permit, including the officers and directors of a corporation holding a permit, shall be jointly and severally liable for violations of the conditions of the permit or of the New York city health code, administrative code or other applicable law enforced by the department that are committed by employees or agents of the person or corporation when such acts are committed in the regular course of the permitted business of such person or corporation, or on the premises subject to the permit, or in the course of using the permit.
 
 
@@ -2490,7 +2490,7 @@ A permit shall be kept on the premises designated on the permit. It shall be pla
 § 17-378 Permit suspension and revocation. ::
 
 
- a. In addition to any of the powers that may be exercised by the commissioner pursuant to this subchapter or this title, the rules promulgated thereunder, or the New York city health code, the commissioner, after due notice and an opportunity to be heard by the environmental control board or any tribunal established within the office of administrative trials and hearings as designated by the commissioner, may suspend or revoke a pet shop permit upon the occurrence of any one or more of the following conditions:
+a. In addition to any of the powers that may be exercised by the commissioner pursuant to this subchapter or this title, the rules promulgated thereunder, or the New York city health code, the commissioner, after due notice and an opportunity to be heard by the environmental control board or any tribunal established within the office of administrative trials and hearings as designated by the commissioner, may suspend or revoke a pet shop permit upon the occurrence of any one or more of the following conditions:
 1. Willful or continued violation of the provisions of title seventeen of this code, the rules promulgated thereunder or the New York city health code, or for such other reason as the commissioner determines, is sufficient grounds for suspension or revocation;
 2. The giving or offering to an employee or agent of the department or other government agency, engaged in carrying out an inspection, survey or examination or in the performance of any other duty for the department or such agency, a gift, gratuity, benefit, favor or bribe, including but not limited to money, food, or drink;
 3. Submission or display by a permittee of a forged document or other document that contains false or misleading statements, or making a false or misleading statement to the department; or
@@ -2505,7 +2505,7 @@ d. All permits revoked pursuant to this section or in accordance with other appl
 § 17-379 Denial of issuance or renewal, suspension and revocation; when effective; service of order or notice. ::
 
 
- a. Effective date. The action of the commissioner denying issuance or renewal of a permit, or suspending or revoking a permit, shall become final five days after service of an order or other notice thereof, exclusive of the day of service, on the applicant or permittee concerned.
+a. Effective date. The action of the commissioner denying issuance or renewal of a permit, or suspending or revoking a permit, shall become final five days after service of an order or other notice thereof, exclusive of the day of service, on the applicant or permittee concerned.
 b. Service of an order or notice shall be made as follows:
 1. Enclosing the order or notice in a postpaid envelope directed to the applicant or permittee at the address listed in the application or permit and depositing such envelope at a United States post office or in a mail box or mail chute maintained by the United States post office; or,
 2. Leaving the order or notice with the applicant or permittee or, if the permittee is not an individual, with a member of the partnership or other group concerned or with an officer of the corporation; or,
@@ -2517,7 +2517,7 @@ b. Service of an order or notice shall be made as follows:
 § 17-380 Forfeiture and seizure. ::
 
 
- a. The commissioner or his or her designee may seize any animal in a pet shop operating without a permit required pursuant to section 17-372 of this subchapter.
+a. The commissioner or his or her designee may seize any animal in a pet shop operating without a permit required pursuant to section 17-372 of this subchapter.
 b. Any animal in a pet shop operating without a permit required pursuant to section 17-372 of this subchapter or seized pursuant to subdivision a of this section shall be subject to forfeiture upon notice and hearing.
 c. The commissioner shall provide for the appropriate disposition of each animal seized pursuant to this section. Such disposition may include impoundment at an animal shelter or animal rescue group as such terms are defined in section 17-802 of chapter eight of this title.
 d. The commissioner may impose upon the owner of a pet shop from which an animal is seized pursuant to this section a fee representing expenses incurred in connection with impounding such animal.
@@ -2615,7 +2615,7 @@ The obstetrics or gynecology department of each hospital where sterilizations ar
 § 17-408 Enforcement proceedings. ::
 
 
- a. Notwithstanding the provisions of any other law, any person violating any of the provisions of this chapter shall be liable and responsible for a penalty of not more than one thousand dollars to be recovered in a civil action but in the name of the city in any court of record in the city.
+a. Notwithstanding the provisions of any other law, any person violating any of the provisions of this chapter shall be liable and responsible for a penalty of not more than one thousand dollars to be recovered in a civil action but in the name of the city in any court of record in the city.
 b. The commissioner may in his or her discretion request the corporation counsel to institute legal proceedings to restrain, correct or enjoin any violation of this chapter; and the corporation counsel shall thereupon institute such action or proceeding as may be necessary and appropriate for such purpose.
 c. Such actions and proceedings may be entered into by the corporation counsel in any court of civil jurisdiction within the city. In such actions and proceedings the city may apply for restraining orders, preliminary injunctions or other provisional remedies with or without notice.
 d. In no case shall the department or any officer or employee thereof be liable for costs in any such action or proceeding and officers and employees of the department, acting in good faith, shall be free from liability for acts done in any action or proceeding.
@@ -2628,7 +2628,7 @@ Chapter 5: Smoke-free Air Act
 § 17-501 Short title. ::
 
 
- This chapter shall be known and may be cited as the "Smoke-Free Air Act."
+This chapter shall be known and may be cited as the "Smoke-Free Air Act."
 
 
 
@@ -2636,7 +2636,7 @@ Chapter 5: Smoke-free Air Act
 § 17-502 Definitions. ::
 
 
- As used in this chapter, the following terms shall be defined as follows:
+As used in this chapter, the following terms shall be defined as follows:
 a. "Auditorium" means the part of the building where an audience sits including any corridors, hallways or lobbies adjacent thereto.
 b. "Bar" means a business establishment or any portion of a non-profit entity, which is devoted to the selling and serving of alcoholic beverages for consumption by the public, guests, patrons, or members on the premises and in which the serving of food, if served at all, is only incidental to the sale or consumption of such beverages. For the purposes of this chapter, the term "bar": (i) shall include a restaurant bar; and (ii) shall include any area located in a hotel or motel, which is devoted to the selling and serving of alcoholic beverages for consumption by the public, guests, patrons, or members on the premises and in which the serving of food, if at all, is only incidental to the sale or consumption of alcoholic beverages. For the urposes of this subdivision, (i) service of food shall be considered incidental to the sale or consumption of alcoholic beverages if the food service generates less than forty percent of total annual gross sales and (ii) any business establishment or any portion of a non-profit entity which is devoted to the selling and serving of alcoholic beverages for consumption by the public, guests, patrons, or members on the premises that generates forty percent or more of total annual gross sales from the sale of food for on-premises consumption shall be a restaurant.
 c. "Business establishment" means any sole proprietorship, partnership, association, joint venture, corporation or other entity formed for profit-making purposes, including professional corporations and other entities where legal, medical, dental, engineering, architectural, financial, counseling, and other professional or consumer services are provided.
@@ -2699,7 +2699,7 @@ aaa. “Non-tobacco hookah establishment” means an establishment that, as of t
 § 17-503 Prohibition of smoking and use of electronic cigarettes. ::
 
 
- a. Smoking, and using electronic cigarettes, are prohibited in all enclosed areas within public places except as otherwise restricted in accordance with the provisions below. Such public places include, but are not limited to, the following:
+a. Smoking, and using electronic cigarettes, are prohibited in all enclosed areas within public places except as otherwise restricted in accordance with the provisions below. Such public places include, but are not limited to, the following:
 1. Public transportation facilities, including, but not limited to, ticketing, boarding and waiting areas of public transit depots.
 2. Public means of mass transportation, including, but not limited to, subway cars and all underground areas of a subway station, buses, vans, taxicabs and all for-hire vehicles, including but not limited to limousines, required to be licensed or franchised by the city of New York.
 3. Public restrooms.
@@ -2743,7 +2743,7 @@ d. Smoking, and using electronic cigarettes, are prohibited in all indoor and ou
 § 17-503.1 Prohibition of using smokeless tobacco at sports arenas and recreational areas that issue tickets. ::
 
 
- Using smokeless tobacco is prohibited at all times at sports arenas and recreational areas if seating or standing room is assigned by issuance of tickets for any event held at such arenas and areas.
+Using smokeless tobacco is prohibited at all times at sports arenas and recreational areas if seating or standing room is assigned by issuance of tickets for any event held at such arenas and areas.
 
 
 
@@ -2752,7 +2752,7 @@ d. Smoking, and using electronic cigarettes, are prohibited in all indoor and ou
 § 17-504 Regulation of smoking, and use of electronic cigarettes, in places of employment. ::
 
 
- a. Smoking, and using electronic cigarettes, are prohibited in those indoor areas of places of employment to which the general public does not generally have access. This section shall not prohibit smoking, or using electronic cigarettes, in any area where smoking, or using electronic cigarettes, is not regulated pursuant to section 17-505.
+a. Smoking, and using electronic cigarettes, are prohibited in those indoor areas of places of employment to which the general public does not generally have access. This section shall not prohibit smoking, or using electronic cigarettes, in any area where smoking, or using electronic cigarettes, is not regulated pursuant to section 17-505.
 b. [Repealed.]
 c. Smoking, and using electronic cigarettes, are prohibited in company vehicles occupied by more than one person. Smoking, and using electronic cigarettes, are prohibited in all vehicles owned by the city of New York.
 d. No employer shall take any retaliatory adverse personnel action against any employee or applicant for employment on the basis of such person's exercise, or attempt to exercise, his or her rights under this chapter with respect to the place of employment. Such adverse personnel action includes, but is not limited to, dismissal, demotion, suspension, disciplinary action, negative performance evaluation, any action resulting in loss of staff, compensation or other benefit, failure to hire, failure to appoint, failure to promote, or transfer or assignment or failure to transfer or assign against the wishes of the affected employee. The employer shall establish a procedure to provide for the adequate redress of any such adverse personnel action taken against an employee in retaliation for that employee's attempt to exercise his or her rights under this chapter with respect to the place of employment.
@@ -2771,7 +2771,7 @@ j. Nothing in this section shall be construed to impair, diminish, or otherwise 
 § 17-505 Areas where smoking, and using electronic cigarettes, are not regulated by this chapter. ::
 
 
- The following areas shall not be subject to the smoking and electronic cigarette restrictions of this chapter; provided however, that nothing in this section shall be construed to permit smoking, or using electronic cigarettes, where smoking, and using electronic cigarettes, are otherwise prohibited or restricted by any other law or rule:
+The following areas shall not be subject to the smoking and electronic cigarette restrictions of this chapter; provided however, that nothing in this section shall be construed to permit smoking, or using electronic cigarettes, where smoking, and using electronic cigarettes, are otherwise prohibited or restricted by any other law or rule:
 a. [Repealed.]
 b. Private residences, except any area of a private residence where a child day care center or health care facility is operated (i) during the times of operation or (ii) during the times when employees are working in such child day care center or health care facility areas; provided, however, that a common area of a multiple dwelling shall be subject to smoking and electronic cigarette use restrictions.
 c. Hotel and motel rooms occupied by, or available for, occupancy by guests.
@@ -2789,7 +2789,7 @@ i. Retail electronic cigarette stores; provided however, that such stores may on
 § 17-506 Posting of signs; prohibition of ashtrays. ::
 
 
- a. Except as may otherwise be provided by rules promulgated by the commissioner, "Smoking" or "No Smoking" signs or the international symbols indicating the same, "Electronic Cigarette Use Permitted" or "Electronic Cigarette Use Prohibited" signs, "No Tobacco Use Permitted" or "Use of Tobacco Products Prohibited" signs, or any other signs necessary to comply with the provisions of this chapter, as applicable, shall be prominently and conspicuously posted where smoking, using electronic cigarettes, or using smokeless tobacco is either prohibited, permitted or otherwise regulated by this chapter, by the owner, operator, manager or other person having control of such area. The size, style and location of such signs shall be determined in accordance with rules promulgated by the commissioner, but in promulgating such rules, the commissioner shall take into consideration the concerns of the various types of establishments regulated herein with respect to the style and design of such signs.
+a. Except as may otherwise be provided by rules promulgated by the commissioner, "Smoking" or "No Smoking" signs or the international symbols indicating the same, "Electronic Cigarette Use Permitted" or "Electronic Cigarette Use Prohibited" signs, "No Tobacco Use Permitted" or "Use of Tobacco Products Prohibited" signs, or any other signs necessary to comply with the provisions of this chapter, as applicable, shall be prominently and conspicuously posted where smoking, using electronic cigarettes, or using smokeless tobacco is either prohibited, permitted or otherwise regulated by this chapter, by the owner, operator, manager or other person having control of such area. The size, style and location of such signs shall be determined in accordance with rules promulgated by the commissioner, but in promulgating such rules, the commissioner shall take into consideration the concerns of the various types of establishments regulated herein with respect to the style and design of such signs.
 b. In addition to the posting of signs as provided in subdivision a, every owner, manager or operator of a theatre which exhibits motion pictures to the public shall show upon the screen for at least five seconds prior to the showing of each feature motion picture, information indicating that smoking, and using electronic cigarettes, are prohibited within the premises.
 c. The owner, operator or manager of a hotel or motel that chooses to develop and implement a smoking and electronic cigarette use policy for rooms rented to guests shall post a notice at the reception area of the establishment as to the availability, upon request, of smoke-free and electronic cigarette-free rooms.
 d. Ashtrays are prohibited in all smoke-free areas covered by this chapter except (i) ashtrays offered for sale or (ii) ashtrays placed immediately adjacent to hotel and motel elevators and immediately adjacent to public entrances to hotels and motels, provided that such ashtrays are positioned so that second-hand smoke emanating from such ashtrays will not ordinarily activate smoke detectors and provided further that "No Smoking" signs as set forth in subdivision a of this section and in any rules promulgated by the commissioner shall be posted immediately adjacent to such ashtrays.
@@ -2802,7 +2802,7 @@ e. A non-tobacco hookah establishment shall prominently and conspicuously displa
 § 17-506.1 Obligation of owners of class A multiple dwellings to adopt and disclose a smoking policy. ::
 
 
- a. Adoption of smoking policy.
+a. Adoption of smoking policy.
 1. The owner of a class A multiple dwelling shall adopt a smoking policy.
 2. The smoking policy shall address all indoor locations of the class A multiple dwelling, including common areas and dwelling units, and all outdoor areas of the premises, including common courtyards, rooftops, balconies, and patios, and any outdoor areas connected to dwelling units.
 3. The smoking policy shall apply to tenants, including invitees of tenants, and any other person on the premises.
@@ -2828,7 +2828,7 @@ d. Document retention. The owner of a class A multiple dwelling shall make avail
 § 17-507 Enforcement.  ::
 
 
- a. The department shall enforce the provisions of this chapter. In addition, designated enforcement employees of the department of buildings, the department of consumer affairs, the department of environmental protection, the fire department and the department of sanitation shall have the power to enforce the provisions of this chapter.
+a. The department shall enforce the provisions of this chapter. In addition, designated enforcement employees of the department of buildings, the department of consumer affairs, the department of environmental protection, the fire department and the department of sanitation shall have the power to enforce the provisions of this chapter.
 b. Any person who desires to register a complaint under this chapter may do so with the department.
 c. With respect to a public place or place of employment, the operator or employer shall inform, or shall designate an agent who shall be responsible for informing, individuals smoking, using electronic cigarettes, or using smokeless tobacco in restricted areas that they are in violation of this local law; provided, however, that the obligations under this subdivision with respect to an operator of a multiple dwelling shall be limited to (i) those multiple dwellings where an agent is on duty and (ii) designating such agent to be responsible for informing individuals smoking, or using electronic cigarettes, in restricted common indoor areas where such agent is on duty, during the times such agent is on duty, that such individuals are in violation of this local law.
 d. Where an owner or building manager of a public place where smoking, and using electronic cigarettes, are prohibited or restricted pursuant to section 17-503 is not the operator of such public place but has an agent on duty in such place, the owner or building manager shall designate such agent to inform individuals smoking, or using electronic cigarettes, in restricted common indoor areas (i) where such agent is on duty and (ii) during the times when such agent is on duty, that such individuals are in violation of this local law.
@@ -2844,7 +2844,7 @@ g. The department of parks and recreation shall have the power to enforce sectio
 § 17-508 Violations and penalties. ::
 
 
- a. It shall be unlawful for any person who owns, manages, operates or otherwise controls the use of premises in which smoking, using electronic cigarettes, or using smokeless tobacco is prohibited or restricted pursuant to this chapter, or the designated agent thereof, to (i) provide a room designated for smoking, or using electronic cigarettes, including, but not limited to, a separate smoking room, room for using electronic cigarettes or an enclosed room, which fails to comply with the provisions of this chapter; provided, however, that the obligations of an owner or building manager of a building (where such owner or building manager of a building in which a public place is located is not the operator or employer of such public place) with respect to such a room shall be limited to work authorized by any permits necessary to perform construction obtained by the owner or his or her agent; (ii) fail to post the signs required by section 17-506; (iii) fail to remove ashtrays as required by subdivision d of section 17-506; or (iv) fail to make a good faith effort to comply with subdivisions c, d, d-1, and e of section 17-507. In actions brought for violations of this subdivision, the following shall be affirmative defenses: (i) that during the relevant time period actual control of the premises was not exercised by the respondent or a person under the control of the respondent, but rather by a lessee, sublessee or any other person; provided, however, that after receiving the notice of violation, the respondent submits to the department within five business days, by certified mail, a sworn affidavit and other such proof as may be necessary, indicating that he or she has not exercised actual control during the relevant time period; (ii) that a person smoking, using an electronic cigarette, or using smokeless tobacco in any area where such activity is prohibited pursuant to section 17-503 or section 17-503.1 was informed by a person who owns, manages, operates or otherwise controls the use of such premises, or the designated agent thereof, that such person smoking, using an electronic cigarette, or using smokeless tobacco is in violation of this local law and that such person who owns, manages, operates or otherwise controls the use of such premises has complied with all applicable provisions of this chapter during the relevant time period; provided, however, that after receiving notice of violation, the respondent submits to the department within five business days, by certified mail, a sworn affidavit and other such proof as may be necessary, indicating that respondent informed the person smoking, using an electronic cigarette, or using smokeless tobacco in any area where such activity is prohibited pursuant to section 17-503 or section 17-503.1 that such person was in violation of this local law and that respondent has complied with all applicable provisions of this chapter during the relevant time period; or (iii) that a person smoking, or using an electronic cigarette, in any restricted common indoor area where smoking, and using electronic cigarettes, are prohibited pursuant to section 17-503 was not informed by the owner or building manager of the premises (where such owner or building manager of a building in which a public place or a place of employment is located is not the operator or employer of such public place or place of employment) or by the operator of a multiple dwelling that such person smoking, or using an electronic cigarette, is in violation of this local law because such owner, building manager or operator did not have a designated agent on duty when such person was smoking, or using an electronic cigarette, and that such owner or building manager has, where applicable, complied with the mailing of a notice required pursuant to subdivision e of section 17-507; provided, however, that after receiving notice of violation, the respondent submits to the department within five business days, by certified mail, a sworn affidavit and other such proof as may be necessary, indicating that a person smoking, or using an electronic cigarette, in any restricted common indoor area where smoking, and using electronic cigarettes, are prohibited pursuant to section 17-503 was not informed by the respondent that such person smoking, or using an electronic cigarette, is in violation of this local law because the respondent did not have a designated agent on duty when such person was smoking, or using an electronic cigarette, and that the respondent has, where applicable, mailed the notice required pursuant to subdivision e of section 17-507.
+a. It shall be unlawful for any person who owns, manages, operates or otherwise controls the use of premises in which smoking, using electronic cigarettes, or using smokeless tobacco is prohibited or restricted pursuant to this chapter, or the designated agent thereof, to (i) provide a room designated for smoking, or using electronic cigarettes, including, but not limited to, a separate smoking room, room for using electronic cigarettes or an enclosed room, which fails to comply with the provisions of this chapter; provided, however, that the obligations of an owner or building manager of a building (where such owner or building manager of a building in which a public place is located is not the operator or employer of such public place) with respect to such a room shall be limited to work authorized by any permits necessary to perform construction obtained by the owner or his or her agent; (ii) fail to post the signs required by section 17-506; (iii) fail to remove ashtrays as required by subdivision d of section 17-506; or (iv) fail to make a good faith effort to comply with subdivisions c, d, d-1, and e of section 17-507. In actions brought for violations of this subdivision, the following shall be affirmative defenses: (i) that during the relevant time period actual control of the premises was not exercised by the respondent or a person under the control of the respondent, but rather by a lessee, sublessee or any other person; provided, however, that after receiving the notice of violation, the respondent submits to the department within five business days, by certified mail, a sworn affidavit and other such proof as may be necessary, indicating that he or she has not exercised actual control during the relevant time period; (ii) that a person smoking, using an electronic cigarette, or using smokeless tobacco in any area where such activity is prohibited pursuant to section 17-503 or section 17-503.1 was informed by a person who owns, manages, operates or otherwise controls the use of such premises, or the designated agent thereof, that such person smoking, using an electronic cigarette, or using smokeless tobacco is in violation of this local law and that such person who owns, manages, operates or otherwise controls the use of such premises has complied with all applicable provisions of this chapter during the relevant time period; provided, however, that after receiving notice of violation, the respondent submits to the department within five business days, by certified mail, a sworn affidavit and other such proof as may be necessary, indicating that respondent informed the person smoking, using an electronic cigarette, or using smokeless tobacco in any area where such activity is prohibited pursuant to section 17-503 or section 17-503.1 that such person was in violation of this local law and that respondent has complied with all applicable provisions of this chapter during the relevant time period; or (iii) that a person smoking, or using an electronic cigarette, in any restricted common indoor area where smoking, and using electronic cigarettes, are prohibited pursuant to section 17-503 was not informed by the owner or building manager of the premises (where such owner or building manager of a building in which a public place or a place of employment is located is not the operator or employer of such public place or place of employment) or by the operator of a multiple dwelling that such person smoking, or using an electronic cigarette, is in violation of this local law because such owner, building manager or operator did not have a designated agent on duty when such person was smoking, or using an electronic cigarette, and that such owner or building manager has, where applicable, complied with the mailing of a notice required pursuant to subdivision e of section 17-507; provided, however, that after receiving notice of violation, the respondent submits to the department within five business days, by certified mail, a sworn affidavit and other such proof as may be necessary, indicating that a person smoking, or using an electronic cigarette, in any restricted common indoor area where smoking, and using electronic cigarettes, are prohibited pursuant to section 17-503 was not informed by the respondent that such person smoking, or using an electronic cigarette, is in violation of this local law because the respondent did not have a designated agent on duty when such person was smoking, or using an electronic cigarette, and that the respondent has, where applicable, mailed the notice required pursuant to subdivision e of section 17-507.
 b. It shall be unlawful for an employer whose place of employment is subject to regulation under section 17-504 to fail to comply with the provisions of that section, including, but not limited to, those provisions requiring the adoption, implementation, dissemination and maintenance of a written smoking and electronic cigarette use policy which conforms to the requirements of subdivision e of section 17-504, or to fail to make a good faith effort to comply with subdivision c of section 17-507. In actions brought for violations of this subdivision, it shall be an affirmative defense that the employer (i) has made good faith efforts to insure that employees comply with the provisions of such written smoking and electronic cigarette use policy and (ii) has complied with all applicable provisions of this chapter.
 c. [Repealed.]
 d. It shall be unlawful for any person to smoke, use an electronic cigarette, or use smokeless tobacco in any area where such activity is prohibited under section 17-503, section 17-503.1 or section 17-504.
@@ -2865,7 +2865,7 @@ m. A non-tobacco hookah establishment found to be in violation of subdivision a 
 § 17-509 Waiver. [Repealed.]  ::
 
 
- The department shall engage in a continuing program to explain and clarify the provisions and purposes of this chapter and shall provide assistance to those persons who seek to comply, and to those who want to stop smoking, using electronic cigarettes, or using smokeless tobacco.
+The department shall engage in a continuing program to explain and clarify the provisions and purposes of this chapter and shall provide assistance to those persons who seek to comply, and to those who want to stop smoking, using electronic cigarettes, or using smokeless tobacco.
 
 
 
@@ -2874,7 +2874,7 @@ m. A non-tobacco hookah establishment found to be in violation of subdivision a 
 § 17-511 Governmental agency cooperation. ::
 
 
- The department shall seek to encourage state and federal governmental and educational agencies having facilities within the city of New York, but not subject to the provisions of this chapter, to establish local operating procedures which substantially conform to the requirements of this chapter.
+The department shall seek to encourage state and federal governmental and educational agencies having facilities within the city of New York, but not subject to the provisions of this chapter, to establish local operating procedures which substantially conform to the requirements of this chapter.
 
 
 
@@ -2882,7 +2882,7 @@ m. A non-tobacco hookah establishment found to be in violation of subdivision a 
 § 17-512 General provisions.  ::
 
 
- a. Nothing in this chapter shall be construed to permit smoking, using electronic cigarettes, or using smokeless tobacco where such activity is otherwise prohibited by law or regulation.
+a. Nothing in this chapter shall be construed to permit smoking, using electronic cigarettes, or using smokeless tobacco where such activity is otherwise prohibited by law or regulation.
 b. Nothing in this chapter shall be construed to prohibit owners, operators, managers, employers or other persons having control of any establishment subject to this chapter from adopting a smoke-free, electronic cigarette-free, or tobacco-free policy which completely prohibits smoking, using electronic cigarettes, or using smokeless tobacco on the premises of such establishment at all times.
 c. Nothing in this chapter shall be construed to require owners, operators, managers, employers or other persons having control of any establishment subject to this chapter to choose to construct a separate smoking room, an enclosed room where smoking is permitted or a solid floor-to-ceiling partition separating a restaurant bar from the indoor dining area of a restaurant as the means of complying with this chapter.
 d. Nothing in this chapter shall be construed to preclude owners, operators, managers, employers or other persons having control of any establishment covered by this act from prohibiting smoking, using electronic cigarettes, or using smokeless tobacco in such establishment to a greater extent than is provided by this chapter, in accordance with applicable law.
@@ -2895,7 +2895,7 @@ e. Nothing in this chapter shall be construed to allow owners, operators, manage
 § 17-513 Rules. ::
 
 
- a. The commissioner shall promulgate rules in accordance with the provisions contained in this chapter, and such other rules as may be necessary for the purpose of implementing and carrying out the provisions of this chapter.
+a. The commissioner shall promulgate rules in accordance with the provisions contained in this chapter, and such other rules as may be necessary for the purpose of implementing and carrying out the provisions of this chapter.
 b. The department of parks and recreation and the department of transportation may promulgate rules as may be necessary for the purpose of implementing and carrying out the provisions of this chapter.
 In determining the advisability of requiring that certain protections from second-hand smoke be provided in restaurant bars, the commissioners shall consider any applicable standards or recommendations of the American Society of Heating, Refrigerating and Air-Conditioning Engineers, any applicable standards or recommendations of the United States environmental protection agency and the occupational safety and health administration of the United States department of labor with respect to indoor air quality relating to second-hand smoke, the impact on public health of exposure to second-hand smoke and any other factors which such commissioners deem appropriate. Such commissioner shall report to the council by January 1, 1996 regarding the results of the study required pursuant to this subdivision and any recommendations.
 
@@ -2905,7 +2905,7 @@ In determining the advisability of requiring that certain protections from secon
 § 17-513.1 Effective dates for membership associations, owner operated bars, tobacco bars and non-tobacco hookah establishments. ::
 
 
- a. Any entity who in good faith believes itself to be a membership association shall have one hundred eighty days from the effective date of the local law that added this section to apply to the department of health and mental hygiene for registration as a membership association. During the period of time from the effective date of the local law which added this section until the expiration of one hundred eighty days, no provision of the local law that added this section, except for the provisions of this section, shall apply to such entity, but all provisions of local law 5 for the year 1995 shall continue to apply to such entity.
+a. Any entity who in good faith believes itself to be a membership association shall have one hundred eighty days from the effective date of the local law that added this section to apply to the department of health and mental hygiene for registration as a membership association. During the period of time from the effective date of the local law which added this section until the expiration of one hundred eighty days, no provision of the local law that added this section, except for the provisions of this section, shall apply to such entity, but all provisions of local law 5 for the year 1995 shall continue to apply to such entity.
 b. Any entity who in good faith believes itself to be an owner operated bar shall have one hundred eighty days from the effective date of the local law that added this section to apply to the department of health and mental hygiene for registration as an owner operated bar. During the period of time from the effective date of the local law which added this section until the expiration of one hundred eighty days, no provision of the local law that added this section, except for the provisions of this section, shall apply to such entity, but all provisions of local law 5 for the year 1995 shall continue to apply to such entity.
 c. Any entity who in good faith believes itself to be a tobacco bar shall have one hundred eighty days from the effective date of the local law that added this section to apply to the department of health and mental hygiene for registration as a tobacco bar. During the period of time from the effective date of the local law which added this section until the expiration of one hundred eighty days, no provision of the local law that added this section, except for the provisions of this section, shall apply to such entity, but all provisions of local law 5 for the year 1995 shall continue to apply to such entity.
 d. Any entity that in good faith believes itself to be a non-tobacco hookah establishment shall have 180 days from the effective date of the local law that added this subdivision to apply to the department for a permit as a non-tobacco hookah establishment. No permit application shall be approved by the department for any entity that fails to meet any requirement for a permit contained in subdivision g of section 17-513.5. During the period of time from the effective date of the local law that added this subdivision until the expiration of 180 days, no provision of the local law that added this subdivision, except for the provisions of this section, shall apply to such entity.
@@ -2917,7 +2917,7 @@ d. Any entity that in good faith believes itself to be a non-tobacco hookah esta
 § 17-513.2 Construction. ::
 
 
- The provisions of this chapter shall not be interpreted or construed to permit smoking, using electronic cigarettes, or using smokeless tobacco where such activity is prohibited or otherwise restricted by other applicable laws, rules or regulations.
+The provisions of this chapter shall not be interpreted or construed to permit smoking, using electronic cigarettes, or using smokeless tobacco where such activity is prohibited or otherwise restricted by other applicable laws, rules or regulations.
 
 
 
@@ -2926,7 +2926,7 @@ d. Any entity that in good faith believes itself to be a non-tobacco hookah esta
 § 17-513.3 Retail tobacco store and retail electronic cigarette store registration. ::
 
 
- It shall be unlawful for any individual to operate a retail tobacco store or a retail electronic cigarette store without having registered with the department in accordance with the rules of the department.
+It shall be unlawful for any individual to operate a retail tobacco store or a retail electronic cigarette store without having registered with the department in accordance with the rules of the department.
 
 
 
@@ -2934,7 +2934,7 @@ d. Any entity that in good faith believes itself to be a non-tobacco hookah esta
 § 17-513.4 Retail tobacco store and retail electronic cigarette store verification. ::
 
 
- The department shall promulgate rules and regulations necessary to establish a system for review and verification of total annual gross sales of retail tobacco stores and retail electronic cigarette stores.
+The department shall promulgate rules and regulations necessary to establish a system for review and verification of total annual gross sales of retail tobacco stores and retail electronic cigarette stores.
 
 
 
@@ -2942,7 +2942,7 @@ d. Any entity that in good faith believes itself to be a non-tobacco hookah esta
 § 17-513.5 Non-tobacco hookah establishments. ::
 
 
- a. It shall be unlawful for a person to operate a non-tobacco hookah establishment without a permit from the department.
+a. It shall be unlawful for a person to operate a non-tobacco hookah establishment without a permit from the department.
 b. A permit issued pursuant to this section shall be valid for one year.
 c. A permit issued pursuant to this section is not assignable or transferrable.
 d. Where any person becomes the beneficial owner of 10 percent or more of the stock of an organization to which a permit has been granted pursuant to this section, if such person previously did not hold at least a 10 percent interest, such permit shall immediately become void.
@@ -2962,7 +2962,7 @@ g. To obtain and renew a permit issued pursuant to this section for a non-tobacc
 § 17-514 Report. ::
 
 
- Not later than twelve months after the effective date of this local law, and each year thereafter, the department shall submit a report to the mayor and the council concerning the administration and enforcement of this local law.
+Not later than twelve months after the effective date of this local law, and each year thereafter, the department shall submit a report to the mayor and the council concerning the administration and enforcement of this local law.
 
 
 
@@ -3025,7 +3025,7 @@ For the purposes of this chapter, a motor carrier shall not hire or assign an in
 § 17-605 Random testing. ::
 
 
- a. All drivers employed by a motor carrier subject to this chapter shall be subject to drug testing on an unannounced and random basis.
+a. All drivers employed by a motor carrier subject to this chapter shall be subject to drug testing on an unannounced and random basis.
 b. During the school year commencing September 1, 1990 and ending August 31, 1991, every motor carrier shall administer a number of random drug tests equal to twenty-five percent of all drivers employed during that year. For each subsequent school year, every motor carrier shall administer a number of random drug tests equal to fifty percent of all drivers employed by such motor carrier during that year.
 c. Each driver shall be in a pool from which random selection is made. Each driver in the pool shall have an equal chance of selection and shall remain in the pool after he or she has been tested.
 d. A driver shall be selected for drug testing on a random basis by using a scientifically valid random number generation method.
@@ -3046,7 +3046,7 @@ Nothing in this chapter shall preclude a motor carrier from administering a drug
 § 17-607 Post-accident testing. ::
 
 
- a. A drug test must be administered to any bus driver who, during the course of his or her employment, (i) is involved in a serious accident while operating a bus or other motor vehicle; or (ii) during any twelve month period, is involved in three or more accidents while operating a bus or other motor vehicle, regardless of the amount of property damage caused or injuries sustained.
+a. A drug test must be administered to any bus driver who, during the course of his or her employment, (i) is involved in a serious accident while operating a bus or other motor vehicle; or (ii) during any twelve month period, is involved in three or more accidents while operating a bus or other motor vehicle, regardless of the amount of property damage caused or injuries sustained.
 b. The specimen for a post-accident drug test required by this section shall be collected as soon after the accident as is practicable, but not later than thirty-two hours after the accident. In those cases involving testing under paragraph (ii) of subdivision a of this section, the specimen shall be collected in accordance with the requirements of this subdivision after the third accident.
 
 
@@ -3063,7 +3063,7 @@ A driver who has been removed from active duty pursuant to this chapter may not 
 § 17-609 Drug testing procedures. ::
 
 
- a. All drug tests administered pursuant to this chapter shall utilize those reliable screening and confirmatory procedures set forth in rules promulgated by the board of education which are at least as reliable as the enzyme multiplied immunoassay screening test and the gas chromatography/mass spectrometry confirmatory test.
+a. All drug tests administered pursuant to this chapter shall utilize those reliable screening and confirmatory procedures set forth in rules promulgated by the board of education which are at least as reliable as the enzyme multiplied immunoassay screening test and the gas chromatography/mass spectrometry confirmatory test.
 b. If a sample yields a positive test result, another sample from the same specimen shall be re-tested using a test at least as reliable as the gas chromatography/mass spectrometry test. Such a confirmatory test shall use a portion of the same test specimen collected from the employee for use in the first test. If such confirmatory test yields a positive test result the driver may, at his or her option and expense, have an additional test conducted on a sample from the same specimen by any laboratory eligible to conduct drug testing under this chapter within thirty days of the administration of the original test.
 c. (1) All test results shall be interpreted and verified by a medical review officer employed by the motor carrier. The medical review officer shall be a licensed physician with knowledge of substance abuse disorders and appropriate medical training to interpret and evaluate an individual's test result together with his or her individual medical history and any other relevant biomedical information.
 (2) The medical review officer shall (i) receive the results of all drug tests from the laboratory; (ii) verify that the laboratory report and assessment of all drug test results are reliable and treat the results as confidential until such verification is made; (iii) determine whether an individual passes a drug test; (iv) promptly report all test results to the driver in writing; (v) report each test that does not pass to the individual whom the motor carrier has designated to receive the results and the chancellor of the board of education or his or her designee; (vi) recommend to the motor carrier whether a driver who refused to take or did not pass a drug test administered under this chapter and who passes a subsequent return to active duty test may return to active duty; and (vii) maintain records of all recommendations to the motor carrier concerning removal from or return to active duty and in cases where rehabilitation is not recommended after a confirmed positive test result, the reasons for such recommendation shall be submitted to the chancellor of the board of education or his or her designee.
@@ -3081,7 +3081,7 @@ g. Two or more motor carriers may join together for the purpose of employing a m
 § 17-610 Consequences of failure to pass a drug test; refusal to take a drug test. ::
 
 
- a. Any driver who does not pass a drug test administered pursuant to this chapter shall immediately be removed from active duty. The medical review officer may, where appropriate, recommend rehabilitation or other treatment programs. No driver shall return to active duty unless he or she submits proof of successful completion of a rehabilitation program or other recommended treatment and passes a return to active duty drug test as required by section 17-608.
+a. Any driver who does not pass a drug test administered pursuant to this chapter shall immediately be removed from active duty. The medical review officer may, where appropriate, recommend rehabilitation or other treatment programs. No driver shall return to active duty unless he or she submits proof of successful completion of a rehabilitation program or other recommended treatment and passes a return to active duty drug test as required by section 17-608.
 b. Any driver who does not pass a drug test shall receive within ten days of the confirmatory test, together with written notification of his or her test result, written notice of the right to undergo an additional drug test performed on a sample of the same specimen, at his or her option and expense, within thirty days after the administration of the original drug test.
 c. Any driver who refuses to take a drug test shall immediately be removed from active duty for a period of at least one year and shall not return to active duty until passing a return to active duty drug test as required by section 17-608.
 
@@ -3091,7 +3091,7 @@ c. Any driver who refuses to take a drug test shall immediately be removed from 
 § 17-611 Recordkeeping and reporting. ::
 
 
- a. Motor carriers shall designate an individual or individuals to serve as drug testing program designees to ensure compliance with this chapter. The designees shall be responsible for the implementation of the drug testing program and maintaining all records related to the administration of drug tests. Motor carriers shall retain records related to the collection process and reports of individuals who have not passed a drug test for at least five years and records of individuals who have passed a drug test for at least one year.
+a. Motor carriers shall designate an individual or individuals to serve as drug testing program designees to ensure compliance with this chapter. The designees shall be responsible for the implementation of the drug testing program and maintaining all records related to the administration of drug tests. Motor carriers shall retain records related to the collection process and reports of individuals who have not passed a drug test for at least five years and records of individuals who have passed a drug test for at least one year.
 b. The medical review officer shall maintain records of individuals who have not passed a drug test for at least five years and the records of individuals who have passed a drug test for at least one year.
 c. A motor carrier shall permit the chancellor of the board of education or his or her designee to examine all records relating to the administration and results of the drug testing program established by such motor carrier pursuant to this chapter.
 d. A motor carrier shall promptly give written notice to the chancellor of the board of education or his or her designee whenever a driver is removed from active duty or returned to active duty pursuant to this chapter. Such written notice shall include the driver's name and the date of removal from or return to active duty.
@@ -3115,7 +3115,7 @@ f. The first semi-annual report required by this section shall be due on April 1
 § 17-612 Certification of compliance. ::
 
 
- a. A motor carrier shall certify to the board that it has established a drug testing program as required by the provisions of this chapter. Such certification shall be submitted to the board of education no later than one month after the effective date of this chapter, and annually thereafter.
+a. A motor carrier shall certify to the board that it has established a drug testing program as required by the provisions of this chapter. Such certification shall be submitted to the board of education no later than one month after the effective date of this chapter, and annually thereafter.
 b. The text of the certification required by this section shall be as follows: I, [name], [title], certify that [name of motor carrier] has established and implemented a drug-testing program in accordance with the terms of chapter 6 of Title 17 of the administrative code of the city of New York.
 
 
@@ -3212,7 +3212,7 @@ A retail dealer shall post a sign in a conspicuous place at the point of sale of
 § 17-703.2 Requirements for retail dealers concerning cigarette tax. ::
 
 
- a. Any package containing cigarettes sold or offered for sale by a retail dealer shall bear a valid tax stamp as required by section 11-1302 of the code. Except as provided in subdivision b of section 11-1305 of the code, any cigarettes possessed or transported in the city by a retail dealer shall be in a package bearing a valid tax stamp.
+a. Any package containing cigarettes sold or offered for sale by a retail dealer shall bear a valid tax stamp as required by section 11-1302 of the code. Except as provided in subdivision b of section 11-1305 of the code, any cigarettes possessed or transported in the city by a retail dealer shall be in a package bearing a valid tax stamp.
 b. No retail dealer shall engage in a sale or purchase prohibited by subdivision e of section 11-1303 or section 20-205 of the code.
 c. No retail dealer shall sell, offer for sale, possess or transport any affixed or unaffixed false, altered or counterfeit cigarette tax stamp, imprint or impression.
 d. No retail dealer shall engage in any act to hide or conceal:
@@ -3226,7 +3226,7 @@ d. No retail dealer shall engage in any act to hide or conceal:
 § 17-704 Minimum package sizes. ::
 
 
- a. No retail dealer shall sell or offer for sale any cigarettes or tobacco products unless such cigarettes or tobacco products are sold in the package, box, carton or other container provided by the manufacturer, importer or packager which bears any such health warning as may be required by federal statute, rule or consent order.
+a. No retail dealer shall sell or offer for sale any cigarettes or tobacco products unless such cigarettes or tobacco products are sold in the package, box, carton or other container provided by the manufacturer, importer or packager which bears any such health warning as may be required by federal statute, rule or consent order.
 a-1. No retail dealer shall sell or offer for sale cigarettes unless the cigarettes are sold in a package of at least twenty cigarettes.
 b. Reserved.
 c. No retail dealer shall sell or offer for sale a little cigar unless the little cigar is sold in a package of at least twenty little cigars.
@@ -3241,7 +3241,7 @@ f. No retail dealer shall sell or offer for sale loose tobacco unless the loose 
 § 17-704.1 Prohibition on delivery. ::
 
 
- a. No retail dealer shall deliver cigarettes or tobacco products by foot, bicycle or any motor vehicle to any location outside its place of business.
+a. No retail dealer shall deliver cigarettes or tobacco products by foot, bicycle or any motor vehicle to any location outside its place of business.
 b. No electronic cigarette retail dealer, as defined in section 20-560, shall deliver electronic cigarettes by foot, bicycle or any motor vehicle to any location outside its place of business.
 (L.L. 2017/145, 8/28/2017, eff. 6/1/2018*)
 * Editor's note: Pursuant to § 23 of L.L. 2017/145, subdivision b is effective on January 25, 2018.
@@ -3260,7 +3260,7 @@ It shall be unlawful for a retail dealer to permit an employee or other agent of
 § 17-706 Sale of cigarettes, tobacco products, liquid nicotine, electronic cigarettes, or non-tobacco smoking products to minors and young adults prohibited. ::
 
 
- a. Any person operating a place of business wherein cigarettes, tobacco products, or liquid nicotine are sold or offered for sale is prohibited from selling such cigarettes, tobacco products, or liquid nicotine to individuals under twenty-one years of age. Sale of cigarettes, tobacco products, or liquid nicotine in such places shall be made only to an individual who demonstrates, through a driver's license or other photographic identification card issued by a government entity or educational institution, that the individual is at least twenty-one years of age. Such identification need not be required of any individual who reasonably appears to be at least thirty years of age, provided, however, that such appearance shall not constitute a defense in any proceeding alleging the sale of cigarettes, tobacco products, or liquid nicotine to an individual under twenty-one years of age.
+a. Any person operating a place of business wherein cigarettes, tobacco products, or liquid nicotine are sold or offered for sale is prohibited from selling such cigarettes, tobacco products, or liquid nicotine to individuals under twenty-one years of age. Sale of cigarettes, tobacco products, or liquid nicotine in such places shall be made only to an individual who demonstrates, through a driver's license or other photographic identification card issued by a government entity or educational institution, that the individual is at least twenty-one years of age. Such identification need not be required of any individual who reasonably appears to be at least thirty years of age, provided, however, that such appearance shall not constitute a defense in any proceeding alleging the sale of cigarettes, tobacco products, or liquid nicotine to an individual under twenty-one years of age.
 a-1. Any person operating a place of business wherein electronic cigarettes are sold or offered for sale is prohibited from selling such electronic cigarettes to individuals under twenty-one years of age. Sales of electronic cigarettes in such places shall be made only to an individual who demonstrates, through a driver's license or other photographic identification card issued by a government entity or educational institution, that the individual is at least twenty-one years of age. Such identification need not be required of any individual who reasonably appears to be at least thirty years of age, provided, however, that such appearance shall not constitute a defense in any proceeding alleging the sale of electronic cigarettes to an individual under twenty-one years of age.
 b. Any person operating a place of business wherein non-tobacco smoking products are sold or offered for sale is prohibited from selling such non-tobacco smoking products to individuals under twenty-one years of age. Sale of non-tobacco smoking products in such places shall be made only to an individual who demonstrates, through a driver's license or other photographic identification card issued by a government entity or educational institution, that the individual is at least twenty-one years of age. Such identification need not be required of any individual who reasonably appears to be at least thirty years of age, provided, however, that such appearance shall not constitute a defense in any proceeding alleging the sale of non-tobacco smoking products to an individual under twenty-one years of age.
 c. Any person operating a place of business wherein cigarettes, tobacco products, liquid nicotine, electronic cigarettes, or non-tobacco smoking products are sold or offered for sale shall post in a conspicuous place a sign, in accordance with the rules of the department, advising persons about the minimum age requirements for the purchase of such items.
@@ -3297,7 +3297,7 @@ The commissioner of the department and the commissioner of finance shall promulg
 § 17-710 Violations and penalties. ::
 
 
- a. Civil penalties and license revocation for a person found to be in violation of the provisions of this subchapter shall be as follows:
+a. Civil penalties and license revocation for a person found to be in violation of the provisions of this subchapter shall be as follows:
 (1) Any person found to be in violation of section 17-703 shall be liable for a civil penalty of not more than five thousand dollars for the first violation, and not more than five thousand dollars for each additional violation found on that day; and not more than ten thousand dollars for the second violation and each subsequent violation by that person.
 (2) Any person found to be in violation of section 17-703.1 shall be liable for a civil penalty of not more than five hundred dollars in any single day.
 (3) In addition to any penalty that may be imposed pursuant to subdivision b of section 11-1317 of the code, any person found to be in violation of section 17-703.2 of the code shall be liable for a civil penalty of not more than two thousand dollars for the first violation, and not more than two thousand dollars for each additional violation found on that day, and not more than five thousand dollars for the second violation and each subsequent violation at the same place of business within a three-year period.
@@ -3367,7 +3367,7 @@ j. "Tobacco product" means any product which contains tobacco that is intended f
 § 17-715 Sale of flavored tobacco products prohibited. ::
 
 
- a. It shall be unlawful for any person to sell or offer for sale, or to possess with intent to sell or offer for sale, any flavored tobacco product except in a tobacco bar.
+a. It shall be unlawful for any person to sell or offer for sale, or to possess with intent to sell or offer for sale, any flavored tobacco product except in a tobacco bar.
 b. There shall be a presumption that a retail dealer in possession of four or more flavored tobacco products, which shall include individual tobacco products, packages of tobacco products, or any combination thereof, possesses such tobacco products with intent to sell or offer for sale.
 
 
@@ -3376,7 +3376,7 @@ b. There shall be a presumption that a retail dealer in possession of four or mo
 § 17-716 Violations and penalties. ::
 
 
- a. Any person who violates section 17-715 of this subchapter shall be liable for a civil penalty of not more than one thousand dollars for the first violation, and not more than one thousand dollars for each additional violation found on that day; and not more than two thousand dollars for the second violation at the same place of business within a three-year period, and not more than two thousand dollars for each additional violation found on that day; and not more than five thousand dollars for the third and all subsequent violations at the same place of business within a three-year period. In addition, for a third violation occurring on a different day and all subsequent violations occurring on different days at the same place of business within a three-year period, any person who engages in business as a retail dealer, as such term is defined in section 20-201, shall be subject to the mandatory suspension of his or her license, issued pursuant to section 20-202, for such place of business, for a period not to exceed one year. Such license shall be suspended at the same hearing at which a retail dealer is found liable for a third violation or subsequent violations at the same place of business within a three-year period.
+a. Any person who violates section 17-715 of this subchapter shall be liable for a civil penalty of not more than one thousand dollars for the first violation, and not more than one thousand dollars for each additional violation found on that day; and not more than two thousand dollars for the second violation at the same place of business within a three-year period, and not more than two thousand dollars for each additional violation found on that day; and not more than five thousand dollars for the third and all subsequent violations at the same place of business within a three-year period. In addition, for a third violation occurring on a different day and all subsequent violations occurring on different days at the same place of business within a three-year period, any person who engages in business as a retail dealer, as such term is defined in section 20-201, shall be subject to the mandatory suspension of his or her license, issued pursuant to section 20-202, for such place of business, for a period not to exceed one year. Such license shall be suspended at the same hearing at which a retail dealer is found liable for a third violation or subsequent violations at the same place of business within a three-year period.
 b. Any person who violates subdivision a of section 17-719 shall be liable for a civil penalty of two hundred dollars for the first violation, and not more than two hundred dollars for each additional violation found on the same day; and five hundred dollars for the second violation and each subsequent violation at the same place of business. A proceeding to recover any such civil penalty shall be commenced by the service of a notice of violation returnable to any tribunal established within the office of administrative trials and hearings or within any agency of the city designated to conduct such proceedings. When a person has been found to be in violation of subdivision a of section 17-719 on two or more occasions at a non-tobacco hookah establishment, the commissioner shall revoke the non-tobacco hookah establishment permit issued to such person pursuant to section 17-513.5.
 c. Any person found to be in violation of subdivision b of section 17-719 shall be liable for a civil penalty of one hundred dollars for the first violation and not more than one hundred dollars for each additional violation found on the same day, and two hundred dollars for each subsequent violation at the same place of business. A proceeding to recover any such civil penalty shall be commenced by the service of a notice of violation returnable to any tribunal established within the office of administrative trials and hearings or within any agency of the city designated to conduct such proceedings.
 
@@ -3404,7 +3404,7 @@ The commissioner of the department, the commissioner of consumer affairs and the
 § 17-719 Requirements relating to non-tobacco hookah establishments. ::
 
 
- a. It shall be unlawful for a person to permit an individual under 21 years of age to enter a non-tobacco hookah establishment during operating hours. Entry into such non-tobacco hookah establishment shall be permitted only to an individual who demonstrates, through a driver’s license or other photographic identification card issued by a government entity or educational institution, that the individual is at least 21 years of age. Such identification need not be required of any individual who reasonably appears to be at least 30 years of age, provided, however, that such appearance shall not constitute a defense in any proceeding alleging the granting of permission to enter such an establishment to an individual under 21 years of age.
+a. It shall be unlawful for a person to permit an individual under 21 years of age to enter a non-tobacco hookah establishment during operating hours. Entry into such non-tobacco hookah establishment shall be permitted only to an individual who demonstrates, through a driver’s license or other photographic identification card issued by a government entity or educational institution, that the individual is at least 21 years of age. Such identification need not be required of any individual who reasonably appears to be at least 30 years of age, provided, however, that such appearance shall not constitute a defense in any proceeding alleging the granting of permission to enter such an establishment to an individual under 21 years of age.
 b. Non-tobacco hookah establishments, as defined in section 17-502, shall clean and sanitize the interior of the bowl, stem, hose, base, and any other part of paraphernalia provided to customers for smoking non-tobacco smoking products, as defined in section 17-502, in accordance with rules promulgated by the department.
 
 
@@ -3438,7 +3438,7 @@ j. "Trap-neuter-return" means a program to trap, vaccinate for rabies, sterilize
 § 17-803 Animal shelters. ::
 
 
- a. A full-service shelter shall be maintained and operated in each of three boroughs of the city of New York. At least one of the full-service shelters shall be open to the public for the purpose of receiving animals twenty-four hours per day, seven days per week.
+a. A full-service shelter shall be maintained and operated in each of three boroughs of the city of New York. At least one of the full-service shelters shall be open to the public for the purpose of receiving animals twenty-four hours per day, seven days per week.
 b. Facilities to receive lost, stray or homeless dogs and cats from the public shall be maintained seven days per week, twelve hours per day in those boroughs of the city in which there is not a full-service shelter.
 c. Field services having the capacity to pick up and bring to a shelter lost, stray, homeless or injured dogs and cats from all five boroughs shall be maintained and operated seven days per week, twelve hours per day. Where public health and safety is threatened, they shall have the capacity to pick up such animals twenty-four hours per day.
 
@@ -3448,7 +3448,7 @@ c. Field services having the capacity to pick up and bring to a shelter lost, st
 § 17-804 Sterilization required. ::
 
 
- a. No full-service shelter or other shelter for homeless animals required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code shall release a dog or cat to a person claiming ownership thereof, or to a person adopting such dog or cat, unless such dog or cat has been sterilized by a licensed veterinarian; provided, however, that such requirement shall not apply:
+a. No full-service shelter or other shelter for homeless animals required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code shall release a dog or cat to a person claiming ownership thereof, or to a person adopting such dog or cat, unless such dog or cat has been sterilized by a licensed veterinarian; provided, however, that such requirement shall not apply:
 (1) if a licensed veterinarian certifies to such shelter that he or she has examined such dog or cat and found that because of a medical reason, the life of such dog or cat would be endangered by sterilization; provided, however, that such reason shall not consist solely of the youth of such dog or cat, if such dog or cat is at least eight weeks of age;
 (2) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog has a breed ring show record from the American Kennel Club or United Kennel Club or other similar, registry association, dated no more than twelve months prior to the date such dog entered such shelter, or such person claiming ownership is able to provide proof that such dog has successfully completed the requirements of the American Kennel Club or United Kennel Club or other similar, registry association, for the title Champion or its equivalent, at any time prior to the arrival of the dog at the shelter;
 (3) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog is a guide dog, hearing dog, service dog or police work dog; or
@@ -3537,7 +3537,7 @@ The department shall promulgate rules and regulations to establish and implement
 § 17-812 Animal population control fund.  ::
 
 
- 1. There is hereby established in the joint custody of the city comptroller and commissioner of finance a fund to be known as the "animal population control fund" which shall be used by the department to subsidize the city's animal population control program as established by section 17-811 of this chapter.
+1. There is hereby established in the joint custody of the city comptroller and commissioner of finance a fund to be known as the "animal population control fund" which shall be used by the department to subsidize the city's animal population control program as established by section 17-811 of this chapter.
 2. Such fund shall consist of all moneys collected from the animal population control program established pursuant to section 17-811 of this chapter, all moneys collected for the additional fee charged for a license to be issued or renewed for an unsterilized dog pursuant to subdivision three of section two of chapter one hundred fifteen of the laws of eighteen hundred ninety-four, that portion of any penalties assessed under section three of such chapter due to be paid to such fund, and all other moneys credited or transferred thereto from any other fund or source pursuant to law.
 3. Moneys of the fund shall be made available to the department and shall be expended for the purposes of carrying out animal population control programs pursuant to the provisions of section 17-811 of this chapter. Moneys shall be paid out of the fund on the audit and warrant of the city comptroller and approved by the commissioner. Any interest received by the city comptroller on moneys on deposit in the animal population control fund shall be retained in and become part of such fund.
 
@@ -3547,7 +3547,7 @@ The department shall promulgate rules and regulations to establish and implement
 § 17-813 Dog license fee. ::
 
 
- a. In addition to the fees required pursuant to chapter 115 of the laws of 1894, as amended, any person applying for a dog license shall pay twenty-five dollars and fifty cents for any dog four months of age or older that has not been spayed or neutered unless an owner presents with the license application a statement certified by a licensed veterinarian stating that he or she has examined the dog and found that because of old age or other reasons, the life of the dog would be endangered by spaying or neutering.
+a. In addition to the fees required pursuant to chapter 115 of the laws of 1894, as amended, any person applying for a dog license shall pay twenty-five dollars and fifty cents for any dog four months of age or older that has not been spayed or neutered unless an owner presents with the license application a statement certified by a licensed veterinarian stating that he or she has examined the dog and found that because of old age or other reasons, the life of the dog would be endangered by spaying or neutering.
 b. Fees collected pursuant to the provisions of this section shall be directed to the animal population control fund established pursuant to section 17-812.
 
 
@@ -3556,7 +3556,7 @@ b. Fees collected pursuant to the provisions of this section shall be directed t
 § 17-814 Licensing of dogs required. ::
 
 
- a. No pet shop or animal rescue group shall sell or release a dog to a purchaser or adopter unless such purchaser or adopter first completes an application for a license and tenders the license fees required by law. If such application is completed in connection with the purchase of a dog from a pet shop, such application shall include the following information: the date of purchase, the name and address of the pet shop, and if such pet shop has an operating permit issued by the department, such pet shop's permit number. Such pet shop or animal rescue group shall forward such completed application and license fees to the department in such manner as may be specified by the department.
+a. No pet shop or animal rescue group shall sell or release a dog to a purchaser or adopter unless such purchaser or adopter first completes an application for a license and tenders the license fees required by law. If such application is completed in connection with the purchase of a dog from a pet shop, such application shall include the following information: the date of purchase, the name and address of the pet shop, and if such pet shop has an operating permit issued by the department, such pet shop's permit number. Such pet shop or animal rescue group shall forward such completed application and license fees to the department in such manner as may be specified by the department.
 b. A pet shop or animal rescue group shall be exempt from the requirements of subdivision a of this section for any sale or adoption of a dog to a purchaser or adopter who executes and submits to such pet shop or animal rescue group a written statement that the dog to be purchased or adopted is to be harbored outside of the city and proof in a form determined by the department that the purchaser or adopter resides outside the city.
 c. Every pet shop shall, on at least a monthly basis, report to the department on a form furnished by the department all dogs which have been sold and adopted, indicating for each such dog whether or not the pet shop submitted to the department a license application. Such form shall include the name and address of each such dog's purchaser or adopter, the license or license application number if known, as well as any other descriptive information regarding such dog as may be required by the department.
 d. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
@@ -3568,7 +3568,7 @@ d. A pet shop that allows an animal shelter or animal rescue group to use such p
 § 17-815 Microchipping required. ::
 
 
- a. No pet shop or animal rescue group shall release a dog or cat to a purchaser or adopter unless:
+a. No pet shop or animal rescue group shall release a dog or cat to a purchaser or adopter unless:
 (1) such animal has been implanted with a microchip as a permanent identification;
 (2) such pet shop or animal rescue group has registered such animal's microchip with such purchaser's contact information with a bona fide pet microchip registration company; and
 (3) such pet shop or animal rescue group has provided such purchaser with (i) usage instructions for such microchip provided by the manufacturer of such microchip or the company with which such microchip is registered and (ii) written certification of compliance with paragraphs one and two of this subdivision, signed by such purchaser as acknowledgement of receipt, in a form and manner set forth in rules promulgated by the department.
@@ -3604,7 +3604,7 @@ For the purpose of this chapter the following terms shall have the following mea
 § 17-910 Presumption. ::
 
 
- a. All paint or similar surface-coating material on the interior of any day care facility in a structure erected prior to January 1, 1978, shall be presumed to be lead-based paint.
+a. All paint or similar surface-coating material on the interior of any day care facility in a structure erected prior to January 1, 1978, shall be presumed to be lead-based paint.
 b. The presumption established by this section may be rebutted by the operator or owner of the day care facility by submitting to the department a sworn written statement by the operator or owner of the day care facility supported by lead-based paint testing or sampling results, a sworn written statement by the person who performed the testing if performed by an employee or agent of the operator or owner of the day care facility, and such other proof as the department may require. Testing performed to rebut the presumption may only be performed by a person who has been certified as an inspector or risk assessor in accordance with subparts L and Q of 40 CFR part 745 or successor regulations. The determination as to whether such proof is adequate to rebut the presumption established by this section shall be made by the department.
 
 
@@ -3613,7 +3613,7 @@ b. The presumption established by this section may be rebutted by the operator o
 § 17-911 Remediation. ::
 
 
- a. There shall be no peeling lead-based paint in any portion of any day care facility.
+a. There shall be no peeling lead-based paint in any portion of any day care facility.
 b. Lead based paint or paint of unknown lead content that is peeling, or which is present on chewable surfaces, deteriorated subsurfaces, friction surfaces, or impact surfaces shall be immediately remediated in a manner authorized by the department.
 c. Any equipment that is painted shall be painted with lead-free paint.
 d. Whenever a condition prohibited by this section is found to exist, the department shall immediately serve an order on the operator or owner of such day care facility to remediate the condition. In the event such order is not complied with within forty-five days of service thereof, the department shall immediately request an agency of the city of New York to execute such order pursuant to the provisions of section 17-147 of this code. The agency shall execute the order within forty-five days of the department's request. The city of New York shall be entitled to enforce its rights for reimbursement of expenses incurred thereby, including as credits toward lease payments.
@@ -3659,7 +3659,7 @@ When used in this chapter, the term "rebate" shall mean a refund of a certain po
 § 17-1003 Prescription drug discount card program. ::
 
 
- a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
+a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
 b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
 c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
 d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
@@ -3725,7 +3725,7 @@ iv. the application of pesticides on golf courses or turf farms.
 § 17-1102 Notification requirements for commercial and residential lawn applications.  ::
 
 
- a. (1) All retail establishments that sell general use pesticides for commercial or residential lawn application shall display a sign meeting standards, established by the New York state commissioner of environmental conservation pursuant to subdivision one of section 33-1005 of the environmental conservation law, in a conspicuous place, and such sign shall be placed as close as possible to the place where such pesticides are displayed. (2) The signs required to be displayed pursuant to paragraph one of this subdivision shall contain, at a minimum, pursuant to section 33-1005 of the environmental conservation law:
+a. (1) All retail establishments that sell general use pesticides for commercial or residential lawn application shall display a sign meeting standards, established by the New York state commissioner of environmental conservation pursuant to subdivision one of section 33-1005 of the environmental conservation law, in a conspicuous place, and such sign shall be placed as close as possible to the place where such pesticides are displayed. (2) The signs required to be displayed pursuant to paragraph one of this subdivision shall contain, at a minimum, pursuant to section 33-1005 of the environmental conservation law:
 i. a warning notice directing consumers to follow directions on labels;
 ii. a provision to inform the customer of the posting requirements set forth in subdivision c of this section; and
 iii. a recommendation that the customer notify neighbors prior to the application of pesticides so that such neighbors may take precautions to avoid pesticide exposure.
@@ -3758,7 +3758,7 @@ c. (1) All persons performing residential lawn applications treating an area mor
 § 17-1103 Enforcement. ::
 
 
- a. Pursuant to section 33-1004 of the environmental conservation law, the department and the department of environmental protection shall have concurrent authority with the state of New York to enforce the provisions of this chapter, provided that all penalties, which shall be assessed after providing a hearing or opportunity to be heard, shall be as specified in section 17-1104 of this chapter and shall be payable to and deposited with the city of New York.
+a. Pursuant to section 33-1004 of the environmental conservation law, the department and the department of environmental protection shall have concurrent authority with the state of New York to enforce the provisions of this chapter, provided that all penalties, which shall be assessed after providing a hearing or opportunity to be heard, shall be as specified in section 17-1104 of this chapter and shall be payable to and deposited with the city of New York.
 b. Pursuant to section 33-1004 of the environmental conservation law, the department of consumer affairs shall have concurrent authority with the department, the department of environmental protection and the state of New York to enforce the provisions of subdivision a of section 17-1102 of this chapter, provided that all penalties, which shall be assessed after providing a hearing or opportunity to be heard, shall be as specified in section 17-1104 of this chapter and shall be payable to and deposited with New York city.
 c. A proceeding to recover any civil penalty authorized pursuant to section 17-1104 shall be commenced by the service of a notice of violation returnable to the administrative tribunal established by the board of health pursuant to section 558 of the charter of the city of New York where the department issues such notice, the environmental control board established pursuant to section 1049-a of the charter of the city of New York where the department of environmental protection issues such notice, or the adjudication division of the department of consumer affairs established pursuant to section 20-104(e) of the administrative code of the city of New York where that department issues such notice. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged, and, if sworn to or affirmed, shall be prima facie evidence of the facts contained therein. The administrative tribunal of the board of health, the environmental control board and the adjudication division of the department of consumer affairs shall have the power to render decisions and orders and to impose the remedies and penalties provided for in section 17-1104, in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
 
@@ -3768,7 +3768,7 @@ c. A proceeding to recover any civil penalty authorized pursuant to section 17-1
 § 17-1104 Civil and criminal penalties.  ::
 
 
- a. (1) Any person providing a commercial lawn application who violates any provision of subdivision b of section 17-1102 of this chapter or any rule promulgated pursuant thereto shall be liable for a civil penalty not to exceed five thousand dollars for a first violation, and not to exceed ten thousand dollars for a subsequent offense.
+a. (1) Any person providing a commercial lawn application who violates any provision of subdivision b of section 17-1102 of this chapter or any rule promulgated pursuant thereto shall be liable for a civil penalty not to exceed five thousand dollars for a first violation, and not to exceed ten thousand dollars for a subsequent offense.
 (2) Notwithstanding any provision of law to the contrary, an owner or owner's agent of a multiple dwelling or owner, owner's agent or a person in a position of authority for all other types of premises who violates any provision of subdivision b of section 17-1102 of this chapter or any rule or regulation promulgated pursuant thereto and any person who violates any provision of subdivision c of section 17-1102 of this chapter or any rule promulgated pursuant thereto shall, for a first such violation, in lieu of a penalty, be issued a written warning and shall also be issued educational materials pursuant to subdivision two of section 33-1005 of the environmental conservation law. Such persons shall, however, be liable for a civil penalty not to exceed one hundred dollars for a second violation, and not to exceed two hundred fifty dollars for any subsequent violation.
 (3) Notwithstanding any provision of law to the contrary, any person who violates the provisions of subdivision a of section 17-1102 of this chapter shall be issued a warning for the first violation and shall be provided seven days to correct such violation. Such person shall, however, be liable for a civil penalty not to exceed one hundred dollars for a second violation and not to exceed two hundred fifty dollars for any subsequent violation.
 b. (1) Any person providing a commercial lawn application who, having the culpable mental states defined in subdivision one or subdivision two of section 15.05 or in section 20.20 of the penal law, violates any provision of subdivision b of section 17-1102 of this chapter, except an offense relating to the application of a general use pesticide, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine not to exceed five thousand dollars for each day during which such violation continues or by imprisonment for a term of not more than one year, or by both such fine and imprisonment. If the conviction is for a subsequent offense committed after a first conviction of such person under this subdivision, punishment shall be by a fine not to exceed ten thousand dollars for each day during which such violation continues or by imprisonment for a term of not more than one year, or by both such fine and imprisonment.
@@ -3814,7 +3814,7 @@ ii. any substance or mixture of substances intended for use as a plant regulator
 § 17-1203 Reduction of pesticide use. ::
 
 
- a. Effective six months after the enactment of the local law that added this section, no city agency or contractor shall apply to any property owned or leased by the city any pesticide classified as Toxicity Category I by the United States environmental protection agency as of April 1, 2005, provided that for any pesticide classified as Toxicity Category I by the United States environmental protection agency after April 1, 2005, no such agency or contractor shall apply such pesticide after six months of its having been so classified, except as provided for in sections 17-1205 or 17-1206 of this chapter.
+a. Effective six months after the enactment of the local law that added this section, no city agency or contractor shall apply to any property owned or leased by the city any pesticide classified as Toxicity Category I by the United States environmental protection agency as of April 1, 2005, provided that for any pesticide classified as Toxicity Category I by the United States environmental protection agency after April 1, 2005, no such agency or contractor shall apply such pesticide after six months of its having been so classified, except as provided for in sections 17-1205 or 17-1206 of this chapter.
 b. Effective twelve months after the enactment of the local law that added this section, no city agency or contractor shall apply to any property owned or leased by the city any pesticide classified as a human carcinogen, likely to be carcinogenic to humans, a known/likely carcinogen, a probable human carcinogen, or a possible human carcinogen by the office of pesticide programs of the United States environmental protection agency as of April 1, 2005, except as provided for in sections 17-1205 or 17-1206 of this chapter.
 c. Effective eighteen months after enactment of the local law that added this section, no city agency or contractor shall apply to any property owned or leased by the city any pesticide classified by the California office of environmental health hazard assessment as a developmental toxin as of April 1, 2005, except as provided for in sections 17-1205 or 17-1206 of this chapter.
 d. On February 1, 2007, and every February 1 thereafter, the department shall submit to the City Council a report listing changes made to the list of pesticides classified as a human carcinogen, likely to be carcinogenic to humans, a known/likely carcinogen, a probable human carcinogen, or a possible human carcinogen by the office of pesticide programs of the United States environmental protection agency and the list of pesticides classified as developmental toxins by the California office of environmental health hazard assessment after April 1, 2005. Such reports shall also include, for each pesticide added to or removed from such classifications, whether and to what extent such pesticide is used by city agencies or contractors in the city of New York.
@@ -3825,7 +3825,7 @@ d. On February 1, 2007, and every February 1 thereafter, the department shall su
 § 17-1204 Interagency pest management committee. ::
 
 
- a. Effective three months after enactment of the local law that added this section, an interagency pest management committee shall be formed, which shall be headed by the commissioner, or a designee, and which shall include the commissioners of sanitation, environmental protection, citywide administrative services and parks and recreation, the chair of the New York city housing authority and the chancellor of education, or their designees. Such committee shall share information related to the pest control strategies and experience of city agencies and shall meet on a semi-annual basis.
+a. Effective three months after enactment of the local law that added this section, an interagency pest management committee shall be formed, which shall be headed by the commissioner, or a designee, and which shall include the commissioners of sanitation, environmental protection, citywide administrative services and parks and recreation, the chair of the New York city housing authority and the chancellor of education, or their designees. Such committee shall share information related to the pest control strategies and experience of city agencies and shall meet on a semi-annual basis.
 b. By January 1, 2007, the interagency pest management committee shall develop a plan to further reduce pesticide use by city agencies, including initiatives to implement integrated pest management, giving preference to employing physical, mechanical, cultural, biological and educational tactics to prevent conditions that promote pest infestations, which shall be updated on an annual basis, as necessary. The plan, and any updates of such plan, shall be submitted to the mayor and the speaker of the council within thirty days of issuance.
 
 
@@ -3834,7 +3834,7 @@ b. By January 1, 2007, the interagency pest management committee shall develop a
 § 17-1205 Exemptions. ::
 
 
- a. The restrictions established pursuant to section 17-1203 of this chapter shall not apply to the following:
+a. The restrictions established pursuant to section 17-1203 of this chapter shall not apply to the following:
 (1) pesticides otherwise lawfully used for the purpose of maintaining a safe drinking water supply at drinking water treatment plants, wastewater treatment plants, reservoirs, and related collection, distribution and treatment facilities;
 (2) anti-microbial pesticides;
 (3) pesticides applied to professional sports playing fields, golf courses or used to maintain water quality in swimming pools;
@@ -3858,7 +3858,7 @@ Any city agency, including the department, is authorized to apply to the commiss
 § 17-1207 Notification. ::
 
 
- a. Any city agency or contractor applying pesticides on property owned or leased by the city shall post a notice at publicly accessible locations on such site at least twenty-four hours prior to any such application, in a form and manner prescribed by the commissioner, provided, however, that applications requiring immediate action for public health reasons, such as severe rodent infestations, where mosquito larvae are present, or where populations of infected mosquitoes are present shall require that notice be placed concurrently with such application. Such notice shall include, but not be limited to:
+a. Any city agency or contractor applying pesticides on property owned or leased by the city shall post a notice at publicly accessible locations on such site at least twenty-four hours prior to any such application, in a form and manner prescribed by the commissioner, provided, however, that applications requiring immediate action for public health reasons, such as severe rodent infestations, where mosquito larvae are present, or where populations of infected mosquitoes are present shall require that notice be placed concurrently with such application. Such notice shall include, but not be limited to:
 (1) Date of posting, proposed date of pesticide application and two alternative dates to the proposed date of application when, due to weather conditions, the pesticide application on the proposed date is precluded;
 (2) Address of pesticide application and, if known, specific sites to which the pesticide is to be applied;
 (3) Pest to be controlled and method of pesticide application;
@@ -3874,7 +3874,7 @@ c. The notification requirements established pursuant to this section shall not 
 § 17-1208 Recordkeeping and reporting. ::
 
 
- a. Each city agency that uses pesticides shall keep records, for a minimum of three years or such longer time period required by statute, regulation, or agency directive, of each pesticide application by such agency, or by a contractor in the fulfillment of a contract with such agency, which shall include, but not be limited to:
+a. Each city agency that uses pesticides shall keep records, for a minimum of three years or such longer time period required by statute, regulation, or agency directive, of each pesticide application by such agency, or by a contractor in the fulfillment of a contract with such agency, which shall include, but not be limited to:
 (1) Date and location of the specific site of pesticide use;
 (2) Pest to be controlled and the method of pesticide application;
 (3) Name and quantity of the pesticide used, including common trade names of such pesticide, if applicable;
@@ -3891,7 +3891,7 @@ c. The department of parks and recreation shall submit a report to the speaker o
 § 17-1209 Enforcement. ::
 
 
- a. Every city contract to perform work or provide labor or services related to property owned or leased by the city shall contain the following provision: "To the extent that you apply pesticides to any property owned or leased by the city, you, or any subcontractor you hire, shall comply with chapter 12 of the administrative code."
+a. Every city contract to perform work or provide labor or services related to property owned or leased by the city shall contain the following provision: "To the extent that you apply pesticides to any property owned or leased by the city, you, or any subcontractor you hire, shall comply with chapter 12 of the administrative code."
 b. Upon receiving information that a contractor is in violation of this chapter, the city agency holding the contract shall review such information and offer the contractor an opportunity to respond. If such city agency finds that a violation has occurred, it shall take such action as may be appropriate and provided for by law, rule or contract, including, but not limited to, imposing sanctions, seeking compliance, recovering damages, and/or declaring the contractor in default.
 
 
@@ -3910,7 +3910,7 @@ Chapter 13: Availability of Information Regarding Day care Services
 § 17-1301 Definitions.  ::
 
 
- a. "Child care service" means any service which is permitted as a child care service in accordance with article 47 of the New York city health code.
+a. "Child care service" means any service which is permitted as a child care service in accordance with article 47 of the New York city health code.
 b. "Child care service permittee" means the person to whom a permit to operate a child care service is issued by the commissioner.
 c. "Permit" means an authorization to operate a child care service issued by the commissioner in accordance with article 47 of the New York city health code.
 d. "Serious injury" means a serious impairment of physical condition, including, but not limited to, the following: loss of consciousness; concussion; bone fracture; protracted loss or impairment of function of any bodily member or organ; a wound requiring extensive suturing; and serious disfigurement.
@@ -3947,7 +3947,7 @@ Every child care service must post a sign in a conspicuous place near its public
 § 17-1304 Denial of permit. ::
 
 
- a. Every applicant for a new or renewal permit to operate a child care service shall disclose whether a serious injury or the death of a child in its care, or the care of any of its owners, directors, employees, volunteers or agents, has occurred. Every such permit applicant shall further disclose any civil or criminal court verdicts holding that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, or administrative agency decisions holding or finding that there is credible evidence that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, and whether any legal proceeding involving the serious injury or death of a child is pending against the applicant, or any of its owners, directors, employees, volunteers or agents. The department shall deny such a permit unless, on the basis of the application and other papers submitted, including the information provided pursuant to this section, and on the basis of department or city investigation, if any, it is satisfied that the provisions of the New York city health code and other applicable law will be met. The death of a child or the occurrence of more than one incident resulting in a serious injury to a child or children in the care of an applicant or permittee shall create a presumption in any proceeding brought by the department to deny or revoke such a permit of the inability of the applicant or permittee to comply with the provisions of said code or other applicable law. Nothing herein shall otherwise limit the department's authority to deny the issuance or renewal of a permit or to revoke a permit.
+a. Every applicant for a new or renewal permit to operate a child care service shall disclose whether a serious injury or the death of a child in its care, or the care of any of its owners, directors, employees, volunteers or agents, has occurred. Every such permit applicant shall further disclose any civil or criminal court verdicts holding that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, or administrative agency decisions holding or finding that there is credible evidence that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, and whether any legal proceeding involving the serious injury or death of a child is pending against the applicant, or any of its owners, directors, employees, volunteers or agents. The department shall deny such a permit unless, on the basis of the application and other papers submitted, including the information provided pursuant to this section, and on the basis of department or city investigation, if any, it is satisfied that the provisions of the New York city health code and other applicable law will be met. The death of a child or the occurrence of more than one incident resulting in a serious injury to a child or children in the care of an applicant or permittee shall create a presumption in any proceeding brought by the department to deny or revoke such a permit of the inability of the applicant or permittee to comply with the provisions of said code or other applicable law. Nothing herein shall otherwise limit the department's authority to deny the issuance or renewal of a permit or to revoke a permit.
 b. To the extent permissible by law, where the department has received written notification that a person with responsibility for oversight and direction of a child care service has a felony conviction at any time for a sex offense, crime against a child, or a crime involving violence, or a felony conviction within the past five years for a drug-related offense, the department shall, when consistent with article twenty-three-A of the correction law, deny the application for a permit to operate such child care service.
 
 
@@ -3964,7 +3964,7 @@ The department shall report to an appropriate state agency any serious injury or
 § 17-1306 Distribution of information to referral agencies. ::
 
 
- a. Definitions.
+a. Definitions.
 1. "Child care program" means any program that provides child day care as defined in section 390 of the New York state social services law, including family day care home, group family day care home and school age child care as defined in section 390 of the New York state social services law, or child care services.
 2. "Referral agency" means the administration for children's services, the department of social services/human resources administration or any state-funded child care resource and referral agency operating in New York city.
 b. To the extent permissible under law, the department shall promptly make available to referral agencies information regarding any child care program for which the department is aware of a current suspension of its license, registration or permit or that it has had its license, registration or permit terminated.
@@ -3981,7 +3981,7 @@ d. The department shall publish an informational pamphlet which shall, at a mini
 § 17-1307 Reports regarding child care citywide.*  ::
 
 
- a. Forty-five days after the end of the first full calendar quarter following the effective date of the local law that added this section and forty-five days after the end of each succeeding calendar quarter thereafter, the department shall furnish to the speaker of the city council a report regarding child care programs in New York city that includes, at a minimum, the following information concerning child care services, and to the extent that the department has access to such information, the following information concerning state-regulated family and group family day care homes and school-age child care programs:
+a. Forty-five days after the end of the first full calendar quarter following the effective date of the local law that added this section and forty-five days after the end of each succeeding calendar quarter thereafter, the department shall furnish to the speaker of the city council a report regarding child care programs in New York city that includes, at a minimum, the following information concerning child care services, and to the extent that the department has access to such information, the following information concerning state-regulated family and group family day care homes and school-age child care programs:
 1. number of programs currently holding a valid license, registration or permit issued under state or local law or regulations, disaggregated by borough and by type of program;
 2. number of inspections of such child care programs conducted, disaggregated by borough and by the type of program inspected;
 3. percentage of renewal applications that were not processed by the expiration date of the license, registration or permit being renewed, disaggregated by the type of child care program;
@@ -4059,7 +4059,7 @@ Carpet businesses shall not remove the original manufacturer's labels from carpe
 § 17-1406 Green Label, Green Label Plus and other certification programs. ::
 
 
- a. Carpets and carpet cushions that have been certified by, and carry the seal or symbol of, the following certification programs shall be deemed to comply with the standards set forth in section 17-1404:
+a. Carpets and carpet cushions that have been certified by, and carry the seal or symbol of, the following certification programs shall be deemed to comply with the standards set forth in section 17-1404:
 i. Carpet and Rug Institute (CRI) Green Label certification program, version effective February 16, 2010 or such other version as may be specified in the rules of the department;
 ii. Carpet and Rug Institute (CRI) Green Label Plus certification program, version effective February 16, 2010 or such other version as may be specified in the rules of the department; and iii. other certification programs as may be specified in the rules of the department.
 b. Notwithstanding the provisions of subdivision a, this section shall not apply to any certification program if the emission factor allowed for any individual VOC or for TVOC by the applicable version of such program exceeds the standards set forth in section 17-1404.
@@ -4250,7 +4250,7 @@ k. "Sanitary inspection" means any on-site review by the department of a food se
 § 17-1502 Food Service Establishment Inspection Code of Conduct. ::
 
 
- a. The commissioner shall develop a code of conduct pertaining to sanitary inspections. The inspection code of conduct shall inform owners and operators of food service establishments of their rights as they relate to sanitary inspections.
+a. The commissioner shall develop a code of conduct pertaining to sanitary inspections. The inspection code of conduct shall inform owners and operators of food service establishments of their rights as they relate to sanitary inspections.
 b. The inspection code of conduct shall be in the form of a written document, drafted in plain language. The department shall distribute the inspection code of conduct to all food service establishment inspectors and food service establishments. Food service establishment inspectors shall also distribute the inspection code of conduct to food service establishment owners or operators prior to the beginning of an initial inspection. The department shall make the inspection code of conduct available on the department's website in the covered languages.
 c. The code of conduct shall include, but not be limited to, the following requirements:
 (1) the food service establishment inspector shall behave in a professional and courteous manner;
@@ -4273,7 +4273,7 @@ e. Nothing in this section or in the inspection code of conduct shall be constru
 § 17-1503 Food Service Establishment Advisory Board.  ::
 
 
- a. There shall be an advisory board to advise the commissioner concerning matters related to the food service establishment sanitary inspection program and its effect on the restaurant industry, food safety and public health.
+a. There shall be an advisory board to advise the commissioner concerning matters related to the food service establishment sanitary inspection program and its effect on the restaurant industry, food safety and public health.
 b. Such advisory board shall consist of twenty members as follows:
 i. Ten members shall be appointed by the mayor, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and four such members shall operate food service establishments;
 ii. Nine members shall be appointed by the speaker of the council, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and three such members shall operate a food service establishment;
@@ -4297,7 +4297,7 @@ h. On January 1, 2015, and every year thereafter on January first, the advisory 
 § 17-1504 Food Service Establishment Consultative Inspection Program. ::
 
 
- a. The department shall implement a consultative inspection program for food service establishments.
+a. The department shall implement a consultative inspection program for food service establishments.
 b. Such consultative inspections shall be optional, and performed for educational and informational purposes only. A consultative inspection shall not result in a notice of violation being issued for general violations, critical violations, imminent health hazards or public health hazards. A consultative inspection shall not impact a food service establishment's inspection cycle.
 c. Upon completion of a consultative inspection, the inspector shall review the results with the owner or operator of the food service establishment, and advise the owner or operator of potential violations and how to remedy such violations.
 d. Nothing in this section shall prohibit the department from taking appropriate action if a food service establishment fails to remedy a public health hazard at the time of the consultative inspection.
@@ -4311,7 +4311,7 @@ g. Within the consultative inspection program for food service establishments, t
 § 17-1505 [Food service establishment inspections ombuds office.]  ::
 
 
- a. Food service establishment inspections ombuds office; office established. There is hereby established within the food safety program of the department a food service establishment inspections ombuds office.
+a. Food service establishment inspections ombuds office; office established. There is hereby established within the food safety program of the department a food service establishment inspections ombuds office.
 b. Food service establishment inspections ombuds office; duties and responsibilities. The food service establishment inspections ombuds office shall have, but not be limited by, the following duties and responsibilities:
 1. establishing a system to receive questions, comments, complaints, and compliments with respect to any food service establishment inspection, including but not limited to, the establishment, operation, and dissemination of a central telephone hotline and website to receive such questions, comments, complaints, and compliments;
 2. investigating complaints received pursuant to paragraph one of this subdivision and taking any action it deems appropriate regarding such complaints, including but not limited to, withdrawing violations that concern the physical layout and/or major fixtures within a food service establishment where the department finds that such physical layout or fixture existed at the time of a prior inspection but was not the subject of a violation and the condition has not been altered since the time of such prior inspection, and identifying egregious inspection errors that ought to be rectified by the department in lieu of submission to the administrative tribunal;
@@ -4331,7 +4331,7 @@ c. Food service establishment inspections ombuds office; annual report. No later
 § 17-1506 Inspections for social adult day cares and senior centers; reporting. ::
 
 
- a. For purposes of this section, the following terms have the following meanings:
+a. For purposes of this section, the following terms have the following meanings:
 Food service establishment.  The term “food service establishment” has the same meaning as such term is defined in section 81.03 of the New York City health code.
 Senior center.  The term “senior center” has the same meaning as such term is defined in section 21-201.
 Social adult day care.  The term “social adult day care” has the same meaning as such term is defined in section 21-201.
@@ -4376,7 +4376,7 @@ i. "Pet shop" shall have the same meaning as such term is defined in section 17-
 § 17-1602 Creation of animal abuse registry. ::
 
 
- a. The mayor or his designee shall designate an agency to implement the provisions of this chapter and shall report such designation to the speaker of the council.
+a. The mayor or his designee shall designate an agency to implement the provisions of this chapter and shall report such designation to the speaker of the council.
 b. The department shall create, manage and maintain an electronic registry of individuals living in the city of New York who have been convicted of an animal abuse crime and who have registered with the department pursuant to this chapter.
 c. The information maintained in the registry created pursuant to this section shall only be made available to law enforcement agencies, district attorneys or when otherwise required by law, and shall otherwise be kept confidential, provided, however, that the department shall grant authorized entities the password-protected ability to electronically query the registry using a person's name, driver's license or non-driver photo ID card number, or other identifying information determined by the commissioner, and to receive in response to such query electronic notice of whether such person is prohibited from owning an animal under section 17-1604 of this chapter.
 
@@ -4386,7 +4386,7 @@ c. The information maintained in the registry created pursuant to this section s
 § 17-1603 Animal abuse registration requirements. ::
 
 
- a. Any person eighteen years of age or older who resides in the city of New York and has been convicted of an animal abuse crime on or after the effective date of the local law that added this chapter shall personally appear before the department at a location determined by the commissioner to register, provided, however, no person shall be required to appear before the department to register pending resolution of an appeal of such conviction.
+a. Any person eighteen years of age or older who resides in the city of New York and has been convicted of an animal abuse crime on or after the effective date of the local law that added this chapter shall personally appear before the department at a location determined by the commissioner to register, provided, however, no person shall be required to appear before the department to register pending resolution of an appeal of such conviction.
 1. Such person shall appear and register within five days following such person's release from incarceration or if such person was not incarcerated within five days from the date of such person's sentencing.
 2. Notwithstanding the foregoing, a person convicted of an animal abuse crime on or after the effective date of the local law that added this chapter who establishes residency in the city of New York following such person's release from incarceration or if such person was not incarcerated following such person's sentencing, must, within five days of establishing such residency, personally appear before the department at a location determined by the commissioner to register.
 b. The department shall photograph the registrant at the time of registration.
@@ -4404,7 +4404,7 @@ f. Each registrant shall remain on the animal abuse registry for five years foll
 § 17-1604 Prohibition on contact with animals. ::
 
 
- a. A person who is registered or required to register pursuant to section 17-1603 shall not own, possess, reside with, have custody of, or intentionally engage in any physical contact with any animal.
+a. A person who is registered or required to register pursuant to section 17-1603 shall not own, possess, reside with, have custody of, or intentionally engage in any physical contact with any animal.
 
 
 
@@ -4412,7 +4412,7 @@ f. Each registrant shall remain on the animal abuse registry for five years foll
 § 17-1605 Prohibition of transfers of animals to animal abusers. ::
 
 
- a. Prior to the exchange or transfer of ownership of any animal in the care of an authorized entity operating in the city of New York, an employee or volunteer of such entity shall consult the animal abuse registry to determine whether the person seeking ownership of such animal is listed on the animal abuse registry.
+a. Prior to the exchange or transfer of ownership of any animal in the care of an authorized entity operating in the city of New York, an employee or volunteer of such entity shall consult the animal abuse registry to determine whether the person seeking ownership of such animal is listed on the animal abuse registry.
 b. No entity required to consult the animal abuse registry shall exchange or transfer the ownership of any animal to any person listed on the animal abuse registry.
 c. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are made available for adoption.
 
@@ -4431,7 +4431,7 @@ The commissioner may promulgate rules necessary for the implementation of this c
 § 17-1607 Penalties. ::
 
 
- a. Any person found in violation of section 17-1603 or 17-1604 or any rules promulgated thereunder shall be guilty of a misdemeanor punishable by incarceration for not more than one year or a fine of up to one thousand dollars, or both.
+a. Any person found in violation of section 17-1603 or 17-1604 or any rules promulgated thereunder shall be guilty of a misdemeanor punishable by incarceration for not more than one year or a fine of up to one thousand dollars, or both.
 
 
 
@@ -4469,7 +4469,7 @@ k. "Pet shop" has the same meaning as such term is defined in section 17-371 of 
 § 17-1702 Sales.  ::
 
 
- a. Any pet shop that displays, offers for sale, delivers, barters, auctions, gives away, transfers or sells any dog or cat shall obtain such dog or cat from a source that, as of the date such pet shop receives such animal:
+a. Any pet shop that displays, offers for sale, delivers, barters, auctions, gives away, transfers or sells any dog or cat shall obtain such dog or cat from a source that, as of the date such pet shop receives such animal:
 1. holds a valid and active class A license that has not been suspended at any time during the prior five years, as such information is available from the United States department of agriculture; and
 2. has not received any of the following in connection with such license, as such information is available from the United States department of agriculture:
 (a) a finally determined "direct" non-compliant item citation pursuant to 7 U.S.C. § 2131, et seq., and regulations promulgated thereunder, as indicated on any United States department of agriculture inspection report at any time during the prior three years; or
@@ -4491,7 +4491,7 @@ d. A pet shop that allows an animal shelter or animal rescue group to use such p
 § 17-1703 Required information for the purchaser.  ::
 
 
- a. Every pet shop shall deliver to the purchaser of a cat or dog, at the time of sale, or to the prospective purchaser of a cat or dog upon request, in a standardized form prescribed by the commissioner, a written statement containing the following information:
+a. Every pet shop shall deliver to the purchaser of a cat or dog, at the time of sale, or to the prospective purchaser of a cat or dog upon request, in a standardized form prescribed by the commissioner, a written statement containing the following information:
 1. The animal's breed, sex, color, identifying marks, individual identifying tag, tattoo or collar number and, if microchipped, the microchip manufacturer's registration instructions. If the breed is unknown or mixed, the record shall so indicate. If the animal is being sold as being capable of registration, the names and registration numbers of the sire and dam, and the litter number, if known;
 2. The breeder's name, address, and federal identification number;
 3. The date of such animal's birth and the date the pet shop received such animal. The date of birth may be approximated if not known by the seller if:
@@ -4517,7 +4517,7 @@ d. Any pet shop offering a dog or cat for sale, barter, auction, give away or tr
 § 17-1704 Recordkeeping.  ::
 
 
- a. Each pet shop shall keep and maintain records and documentation for each dog or cat purchased, acquired, held, sold, or otherwise disposed of with respect to the purchase, sale, dealers, transportation, breeding, medical care and condition, identification, and previous ownership of such animal. Each pet shop shall keep and maintain such records and documentation for a period of five years from the date such pet shop acquired each such dog or cat.
+a. Each pet shop shall keep and maintain records and documentation for each dog or cat purchased, acquired, held, sold, or otherwise disposed of with respect to the purchase, sale, dealers, transportation, breeding, medical care and condition, identification, and previous ownership of such animal. Each pet shop shall keep and maintain such records and documentation for a period of five years from the date such pet shop acquired each such dog or cat.
 b. Such documentation and records shall be made available upon request for inspection and copying by the department or other persons authorized by law to enforce the provisions of this chapter. Consistent with the New York state technology law, the department may promulgate rules for the production, receipt, acceptance, acquisition, recording, filing, transmission, forwarding, and storage of such records and documentation by use of electronic means. Such records and documentation shall include the following information:
 1. Proof of purchase, adoption, or acceptance of such animal evincing the source from which such pet shop obtained such animal;
 2. The breeder's name, address, and federal identification number;
@@ -4541,7 +4541,7 @@ c. In addition to the documentation and records required under subdivision a of 
 § 17-1705 Minimum standards of animal care.  ::
 
 
- a. Each pet shop shall comply with the following minimum standards of care for every dog or cat in such pet shop's custody or possession:
+a. Each pet shop shall comply with the following minimum standards of care for every dog or cat in such pet shop's custody or possession:
 1. (a) Animals shall be housed in primary enclosures or cages, which shall be constructed to be structurally sound. Such enclosures shall be maintained in good repair to contain the animal housed inside and protect it from injury. Surfaces shall be impervious to the absorption of fluids and able to withstand thorough and repeated cleaning and disinfecting without deteriorating or retaining odors.
 (b) Primary enclosures or cages housing the animals shall provide sufficient space to allow each animal adequate freedom of movement to make normal postural adjustments, including the ability to stand up, turn around, and lie down with its limbs outstretched. If the flooring is constructed of metal strands, such strands must be greater than one-eighth inch in diameter (nine gauge wire) coated with a material such as plastic or fiberglass, and constructed to not allow the passage of the animal's feet through any opening in the floor of the enclosure. Such flooring shall not sag or bend between structural supports.
 (c) Housing facilities shall be adequately ventilated at all times to provide for the health and well-being of the animal. Ventilation shall be provided by natural or mechanical means, such as windows, vents, fans, or air conditioners. Ventilation shall be established to minimize drafts, odors, and moisture condensation.
@@ -4599,7 +4599,7 @@ Any person found in violation of any provision of this chapter or any provision 
 § 17-1708 Forfeiture and seizure.  ::
 
 
- a. The commissioner or his or her designee may seize any animal offered for sale in a pet shop where the sale of such animal is prohibited by section 17-1702 of this chapter.
+a. The commissioner or his or her designee may seize any animal offered for sale in a pet shop where the sale of such animal is prohibited by section 17-1702 of this chapter.
 b. Any animal offered for sale in violation of section 17-1702 of this chapter or seized pursuant to subdivision a of this section shall be subject to forfeiture upon notice and hearing.
 c. The commissioner shall provide for the appropriate disposition of each animal seized pursuant to this section. Such disposition may include impoundment at an animal shelter or animal rescue group.
 d. The commissioner may impose upon the owner of a pet shop from which an animal is seized pursuant to this section a fee representing expenses incurred in connection with the cost of impounding such animal.
@@ -4621,7 +4621,7 @@ Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
 § 17-1801 Definitions. ::
 
 
- For the purposes of this chapter, the following terms shall have the following meanings:
+For the purposes of this chapter, the following terms shall have the following meanings:
 Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
 Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
 Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
@@ -4635,7 +4635,7 @@ Screened. The term “screened” means evaluated by a health care provider.
 § 17-1802 Arrestee health screening. ::
 
 
- Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
+Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
 
 
 
@@ -4644,7 +4644,7 @@ Screened. The term “screened” means evaluated by a health care provider.
 § 17-1803 Inmate health information from screening. ::
 
 
- The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
+The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
 
 
 
@@ -4653,7 +4653,7 @@ Screened. The term “screened” means evaluated by a health care provider.
 § 17-1804 Inmate health information exchange. ::
 
 
- The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
+The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
 
 
 

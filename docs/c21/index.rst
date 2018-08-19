@@ -31,7 +31,7 @@ q. "Vendor" shall mean any business, except for a business the primary function 
 § 20-9002 New York city gambling control commission.  ::
 
 
- a. There is hereby created a New York city gambling control commission. Such commission shall consist of five members appointed by the mayor, two of whom shall be appointed after recommendation by the city council. The mayor shall appoint a chair from among the members of the commission. Each member of the commission shall be appointed for a two year term.
+a. There is hereby created a New York city gambling control commission. Such commission shall consist of five members appointed by the mayor, two of whom shall be appointed after recommendation by the city council. The mayor shall appoint a chair from among the members of the commission. Each member of the commission shall be appointed for a two year term.
 b. In the event of a vacancy on the commission during the term of office of a member, a successor shall be chosen in the same manner as the original appointment. A member appointed to fill a vacancy shall serve for the balance of the unexpired term.
 c. The members of the commission shall be compensated on a per diem basis, provided, however, that a member who holds other city office or employment shall receive only the compensation for such office or employment. The chair shall have charge of the organization of the commission and shall have authority to employ, assign and superintend the duties of such officers and employees as may be necessary to carry out the provisions of this chapter.
 
@@ -59,7 +59,7 @@ h. To establish fees and promulgate rules as the commission may deem necessary a
 § 20-9004 Licenses, certificates of approval, and registration required.  ::
 
 
- a. Unless otherwise provided,
+a. Unless otherwise provided,
 (i) It shall be unlawful to operate a shipboard gambling business unless such business has first obtained a shipboard gambling license from the commission.
 (ii) It shall be unlawful for a shipboard gambling licensee to employ a key employee or agent unless such employee or agent has first obtained a key employee license from the commission pursuant to the provisions of this chapter.
 (iii) It shall be unlawful for a shipboard gambling licensee to employ a gambling employee or agent unless such employee or agent has first obtained a certificate of approval from the commission pursuant to the provisions of this chapter.
@@ -76,7 +76,7 @@ d. The commission shall promulgate rules establishing the fees and the manner of
 § 20-9005 License application; application for certificate of approval.  ::
 
 
- a. An applicant for a license or certificate of approval pursuant to this chapter shall submit an application in the form and containing the information prescribed by the commission. An application for a license shall be accompanied by:
+a. An applicant for a license or certificate of approval pursuant to this chapter shall submit an application in the form and containing the information prescribed by the commission. An application for a license shall be accompanied by:
 (i) in the case of any applicant business, a list of the names and addresses of all principals of such business, and, in the case of a shipboard gambling business, all key employees employed or proposed to be employed in the business; and
 (ii) in the case of a shipboard gambling business, a list of the names of all key and auxiliary vendors and prospective and anticipated key and auxiliary vendors and the names and job titles of all gambling and service employees and agents, prospective gambling and service employees and agents of the applicant business who are or who the applicant proposes to be engaged in the operation of the shipboard gambling business;
 (iii) such other information as the commission shall determine by rule will properly identify employees and agents and prospective employees and agents;
@@ -116,7 +116,7 @@ d. Each applicant business shall provide the commission with a business address 
 § 20-9006 Registration application; application for renewal.  ::
 
 
- a. An applicant for registration or renewal pursuant to this chapter shall submit an application on a form prescribed by the commission and containing such information as the commission determines will adequately identify and establish the background of such applicant. The commission may refuse to register or to renew the registration of an applicant who has knowingly failed to provide the information and/or documentation required by such form, or who has knowingly provided false information or documentation, required by this chapter or any rule promulgated pursuant hereto.
+a. An applicant for registration or renewal pursuant to this chapter shall submit an application on a form prescribed by the commission and containing such information as the commission determines will adequately identify and establish the background of such applicant. The commission may refuse to register or to renew the registration of an applicant who has knowingly failed to provide the information and/or documentation required by such form, or who has knowingly provided false information or documentation, required by this chapter or any rule promulgated pursuant hereto.
 b. Notwithstanding any other provision of this chapter:
 (i) the commission may, where there is reasonable cause to believe that an applicant has not demonstrated to the commission that he or she possesses good character, honesty and integrity, require that such applicant be fingerprinted and provide to the commission the information set forth in subdivisions a and b of section 20-9005 and may, after notice and the opportunity to be heard, refuse to register such applicant for the reasons set forth in subdivision a of section 20-9007; and
 (ii) if at any time subsequent to registration, the commission has reasonable cause to believe that the registrant lacks good character, honesty and integrity, the commission may require that such registrant be fingerprinted and provide the background information required by subdivision b of section 20-9005 and may, after notice and the opportunity to be heard, revoke the registration for the reasons set forth in subdivision a of section 20-9007.
@@ -128,7 +128,7 @@ b. Notwithstanding any other provision of this chapter:
 § 20-9007 Refusal to issue or renew a license or certificate of approval.  ::
 
 
- a. The commission shall refuse to issue or to renew a license to an applicant who has not demonstrated to the commission that he or she possesses good character, honesty and integrity. In determining that an applicant has not met his or her burden to demonstrate good character, honesty and integrity, the commission may consider, but is not limited to:
+a. The commission shall refuse to issue or to renew a license to an applicant who has not demonstrated to the commission that he or she possesses good character, honesty and integrity. In determining that an applicant has not met his or her burden to demonstrate good character, honesty and integrity, the commission may consider, but is not limited to:
 (i) knowing failure by such applicant to provide truthful or complete information in connection with the application;
 (ii) a pending indictment or criminal action against such applicant for a crime which under this subdivision would provide a basis for the refusal to issue such license or certificate of approval, or a pending civil or administrative action to which such applicant is a party and which directly relates to the fitness to conduct the business or perform the work for which the license or certificate of approval is sought, in which case the commission may defer consideration of an application until a decision has been reached by the court or administrative tribunal before which such action is pending;
 (iii) conviction of such applicant for a crime which, considering the factors set forth in section 753 of the correction law, would provide a basis under such law for the refusal of such license or certificate of approval;
@@ -150,7 +150,7 @@ e. The commission may refuse to issue or to renew a license pursuant to this cha
 § 20-9008 Independent auditing required.  ::
 
 
- a. The commission may, in the event the background investigation conducted pursuant to section 20-9005 produces adverse information, require as a condition of a shipboard gambling license that the licensee enter into a contract with an independent auditor, approved or selected by the commission. Such contract, the cost of which shall be paid by the licensee, shall provide that the auditor investigate the activities of the licensee with respect to the licensee's compliance with the provisions of this chapter, other applicable federal, state and local laws and such other matters as the commission shall determine by rule. The contract shall provide further that the auditor report the findings of such monitoring and investigation to the commission on a periodic basis.
+a. The commission may, in the event the background investigation conducted pursuant to section 20-9005 produces adverse information, require as a condition of a shipboard gambling license that the licensee enter into a contract with an independent auditor, approved or selected by the commission. Such contract, the cost of which shall be paid by the licensee, shall provide that the auditor investigate the activities of the licensee with respect to the licensee's compliance with the provisions of this chapter, other applicable federal, state and local laws and such other matters as the commission shall determine by rule. The contract shall provide further that the auditor report the findings of such monitoring and investigation to the commission on a periodic basis.
 b. The commission shall be authorized to prescribe, in any contract required by the commission pursuant to this section, such reasonable terms and conditions as the commission deems necessary to effectuate the purposes of this chapter.
 
 
@@ -169,7 +169,7 @@ In addition to any other investigation authorized pursuant to law, the commissio
 § 20-9010 Revocation or suspension of license, certificate of approval or registration.  ::
 
 
- a. In addition to the penalties provided in section 20-9011, the commission may, after notice and opportunity to be heard, revoke or suspend a license, certificate of approval or registration issued pursuant to the provisions of this chapter when the licensee or a principal, employee or agent of a licensee, a holder of a certificate of approval or a registrant:
+a. In addition to the penalties provided in section 20-9011, the commission may, after notice and opportunity to be heard, revoke or suspend a license, certificate of approval or registration issued pursuant to the provisions of this chapter when the licensee or a principal, employee or agent of a licensee, a holder of a certificate of approval or a registrant:
 (i) has been found to be in violation of this chapter or any rules promulgated hereunder;
 (ii) has repeatedly failed to obey the lawful orders of any person authorized to enforce the provisions of this chapter;
 (iii) has failed to pay, within the time specified by a court, the commission or an administrative tribunal of competent jurisdiction, any fines or civil penalties imposed pursuant to this chapter or the rules promulgated pursuant hereto;
@@ -221,7 +221,7 @@ Notices of violation for violations of any provision of this chapter or any rule
 § 20-9014 Conduct of shipboard gambling licensees.  ::
 
 
- a. A shipboard gambling licensee shall be in compliance with all applicable federal, state and local statutes, laws, rules and regulations governing operation of a shipboard gambling business, including but not limited to:
+a. A shipboard gambling licensee shall be in compliance with all applicable federal, state and local statutes, laws, rules and regulations governing operation of a shipboard gambling business, including but not limited to:
 (i) specifications for design and construction, equipment required to be present on board such vessel, maintenance, inspection, documentation, operation and licensing of such vessels; requirements for the medical fitness, training and other qualifications, drug testing and licensing of the crew of such vessels; environmental requirements; requirements regarding safety and conditions of employment on such vessel; and requirements for accessibility under the Americans with Disabilities Act and any regulations promulgated pursuant thereto, as such regulations may from time to time be amended and analogous provisions of title eight of this code;
 (ii) prohibitions of gambling activity or the use of gambling devices within the territorial waters of the United States or the state of New York;
 (iii) applicable zoning and building code requirements;
@@ -257,7 +257,7 @@ The commission may promulgate such rules as it may deem necessary or useful to e
 § 20-9016 Hearings.  ::
 
 
- a. A hearing pursuant to this chapter may be conducted by the commission, or, in the discretion of the commission, by an administrative law judge employed by the office of administrative trials and hearings or other administrative tribunal of competent jurisdiction. Where a hearing pursuant to a provision of this chapter is conducted by an administrative law judge, such judge shall submit recommended findings of fact and a recommended decision to the commission, which shall make the final determination.
+a. A hearing pursuant to this chapter may be conducted by the commission, or, in the discretion of the commission, by an administrative law judge employed by the office of administrative trials and hearings or other administrative tribunal of competent jurisdiction. Where a hearing pursuant to a provision of this chapter is conducted by an administrative law judge, such judge shall submit recommended findings of fact and a recommended decision to the commission, which shall make the final determination.
 b. Notwithstanding the provisions of subdivision a of this section, the commission may provide by rule that hearings or specified categories of hearings pursuant to this subchapter may be conducted by the department of consumer affairs. Where the department of consumer affairs conducts such hearings, the commissioner of consumer affairs shall make the final determination.
 
 
@@ -267,7 +267,7 @@ b. Notwithstanding the provisions of subdivision a of this section, the commissi
 § 20-9017 Reporting requirements.  ::
 
 
- a. No later than one week following the submission of the mayor's management report, the commission shall submit to the council a report detailing its activities pursuant to this chapter for the period covered by the mayor's management report. The report required by this section shall at a minimum include:
+a. No later than one week following the submission of the mayor's management report, the commission shall submit to the council a report detailing its activities pursuant to this chapter for the period covered by the mayor's management report. The report required by this section shall at a minimum include:
 i. the number of applicants for a license, certificate of approval or registration that were denied by the commission and a statement of the reasons for such denials;
 ii. the number of licenses, certificates of approval and registrations issued by the commission;
 iii. the number of applications for licenses, certificates of approval or registrations, respectively, presently pending;

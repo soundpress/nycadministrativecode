@@ -148,7 +148,7 @@ So far as practicable and subject to the approval of the mayor, the services of 
 § 8-107 Unlawful discriminatory practices.  ::
 
 
- 1. Employment. It shall be an unlawful discriminatory practice:
+1. Employment. It shall be an unlawful discriminatory practice:
 (a) For an employer or an employee or agent thereof, because of the actual or perceived age, race, creed, color, national origin, gender, disability, marital status, partnership status, caregiver status, sexual orientation, uniformed service or alienage or citizenship status of any person:
 (1) To represent that any employment or position is not available when in fact it is available;
 (2) To refuse to hire or employ or to bar or to discharge from employment such person; or
@@ -381,7 +381,7 @@ e. Disparate impact. An unlawful discriminatory practice based on disparate impa
 § 8-107.1 Victims of domestic violence, sex offenses or stalking.  ::
 
 
- a. Definitions. Whenever used in this chapter the following terms have the following meanings:
+a. Definitions. Whenever used in this chapter the following terms have the following meanings:
 "Acts or threats of violence" includes, but is not limited to, acts, which would constitute violations of the penal law.
 "Victim of domestic violence" means a person who has been subjected to acts or threats of violence, not including acts of self-defense, committed by a current or former spouse of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim, by a person who is or has been in a continuing social relationship of a romantic or intimate nature with the victim, or a person who is or has continually or at regular intervals lived in the same household as the victim.
 "Victim of sex offenses or stalking" means a victim of acts which would constitute violations of article 130 of the penal law, or a victim of acts which would constitute violations of sections 120.45, 120.50, 120.55, or 120.60 of the penal law.
@@ -408,7 +408,7 @@ b. Unlawful discriminatory practices.
 § 8-109 Complaint.  ::
 
 
- (a) Any person aggrieved by an unlawful discriminatory practice or an act of discrimatory harassment or violence as set forth in chapter six of this title may, by himself or herself or such person's attorney, make, sign and file with the commission a verified complaint in writing which shall: (i) state the name of the person alleged to have committed the unlawful discriminatory practice or act of discriminatory harassment or violence complained of, and the address of such person if known; (ii) set forth the particulars of the alleged unlawful discriminatory practice or act of discriminatory harassment or violence; and (iii) contain such other information as may be required by the commission. The commission shall acknowledge the filing of the complaint and advise the complainant of the time limits set forth in this chapter.
+(a) Any person aggrieved by an unlawful discriminatory practice or an act of discrimatory harassment or violence as set forth in chapter six of this title may, by himself or herself or such person's attorney, make, sign and file with the commission a verified complaint in writing which shall: (i) state the name of the person alleged to have committed the unlawful discriminatory practice or act of discriminatory harassment or violence complained of, and the address of such person if known; (ii) set forth the particulars of the alleged unlawful discriminatory practice or act of discriminatory harassment or violence; and (iii) contain such other information as may be required by the commission. The commission shall acknowledge the filing of the complaint and advise the complainant of the time limits set forth in this chapter.
 (b) Any employer whose employee or agent refuses or threatens to refuse to cooperate with the provisions of this chapter may file with the commission a verified complaint asking for assistance by conciliation or other remedial action.
 (c) Commission-initiated complaints. The commission may itself make, sign and file a verified complaint alleging that a person has committed an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter six of this title.
 (d) The commission shall serve a copy of the complaint upon the respondent and all persons it deems to be necessary parties and shall advise the respondent of his or her procedural rights and obligations as set forth herein.
@@ -428,7 +428,7 @@ b. Unlawful discriminatory practices.
 § 8-111 Answer.  ::
 
 
- a. Within thirty days after a copy of the complaint is served upon the respondent by the commission, the respondent shall file a written, verified answer thereto with the commission, and the commission shall cause a copy of such answer to be served upon the complainant and any necessary party.
+a. Within thirty days after a copy of the complaint is served upon the respondent by the commission, the respondent shall file a written, verified answer thereto with the commission, and the commission shall cause a copy of such answer to be served upon the complainant and any necessary party.
 b. The respondent shall specifically admit, deny, or explain each of the facts alleged in the complaint, unless the respondent is without knowledge or information sufficient to form a belief, in which case the respondent shall so state, and such statement shall operate as a denial.
 c. Any allegation in the complaint not specifically denied or explained shall be deemed admitted and shall be so found by the commission unless good cause to the contrary is shown.
 d. All affirmative defenses shall be stated separately in the answer.
@@ -442,7 +442,7 @@ g. Any answer filed pursuant to this section may be amended pursuant to procedur
 § 8-112 Withdrawal of complaints.  ::
 
 
- a. A complaint filed pursuant to section 8-109 of this chapter may be withdrawn by the complainant in accordance with rules of the commission at any time prior to the service of a notice that the complaint has been referred to an administrative law judge. Such a withdrawal shall be in writing and signed by the complainant.
+a. A complaint filed pursuant to section 8-109 of this chapter may be withdrawn by the complainant in accordance with rules of the commission at any time prior to the service of a notice that the complaint has been referred to an administrative law judge. Such a withdrawal shall be in writing and signed by the complainant.
 b. A complaint may be withdrawn after the service of such notice at the discretion of the commission.
 c. Unless such complaint is withdrawn pursuant to a conciliation agreement, the withdrawal of a complaint shall be without prejudice:
 (i) to the continued prosecution of the complaint by the commission in accordance with rules of the commission;
@@ -455,7 +455,7 @@ c. Unless such complaint is withdrawn pursuant to a conciliation agreement, the 
 § 8-113 Dismissal of complaint.  ::
 
 
- a. The commission may, in its discretion, dismiss a complaint for administrative convenience at any time prior to the taking of testimony at a hearing. Administrative convenience shall include, but not be limited to, the following circumstances:
+a. The commission may, in its discretion, dismiss a complaint for administrative convenience at any time prior to the taking of testimony at a hearing. Administrative convenience shall include, but not be limited to, the following circumstances:
 (1) commission personnel have been unable to locate the complainant after diligent efforts to do so;
 (2) the complainant has repeatedly failed to appear at mutually agreed upon appointments with commission personnel or is unwilling to meet with commission personnel, provide requested documentation, or to attend a hearing;
 (3) the complainant has repeatedly engaged in conduct which is disruptive to the orderly functioning of the commission;
@@ -474,7 +474,7 @@ f. The complainant or respondent may, within thirty days of such service, and in
 § 8-114 Investigations and investigative record keeping.  ::
 
 
- a. The commis- sion may at any time issue subpoenas requiring attendance and giving of testimony by witnesses and the production of books, papers, documents and other evidence relating to any matter under investigation or any question before the commission. The issuance of such subpoenas shall be governed by the civil practice law and rules.
+a. The commis- sion may at any time issue subpoenas requiring attendance and giving of testimony by witnesses and the production of books, papers, documents and other evidence relating to any matter under investigation or any question before the commission. The issuance of such subpoenas shall be governed by the civil practice law and rules.
 b. Where the commission has initiated its own investigation or has conducted an investigation in connection with the filing of a complaint pursuant to this chapter, the commission may demand that any person or persons who are the subject of such investigation (i) preserve those records in the possession of such person or persons which are relevant to the determination of whether such person or persons have committed unlawful discriminatory practices with respect to activities in the city, and (ii) continue to make and keep the type of records made and kept by such person or persons in the ordinary course of business within the year preceding such demand which are relevant to the determination of whether such person or persons have committed unlawful discriminatory practices with respect to activities in the city. A demand made pursuant to this subdivision shall be effective immediately upon its service on the subject of an investigation and shall remain in effect until the termination of all proceedings relating to any complaint filed pursuant to this chapter or civil action commenced pursuant to chapter four of this title or if no complaint or civil action is filed or commenced shall expire two years after the date of such service. The commission's demand shall require that such records be made available for inspection by the commission and/or be filed with the commission.
 c. Any person upon whom a demand has been made pursuant to subdivision b of this section may, pursuant to procedures established by rule of the commission, assert an objection to such demand. Unless the commission orders otherwise, the assertion of an objection shall not stay compliance with the demand. The commission shall make a determination on an objection to a demand within thirty days after such an objection is filed with the commission, unless the party filing the objection consents to an extension of time.
 d. Upon the expiration of the time set pursuant to such rules for making an objection to such demand, or upon a determination that an objection to the demand shall not be sustained, the commission shall order compliance with the demand.
@@ -487,7 +487,7 @@ f. A proceeding may be brought on behalf of the commission in any court of compe
 § 8-115 Mediation and conciliation.  ::
 
 
- a. If in the judgment of the commission circumstances so warrant, it may at any time after the filing of a complaint endeavor to resolve the complaint by any method of dispute resolution prescribed by rule of the commission including, but not limited to, mediation and conciliation.
+a. If in the judgment of the commission circumstances so warrant, it may at any time after the filing of a complaint endeavor to resolve the complaint by any method of dispute resolution prescribed by rule of the commission including, but not limited to, mediation and conciliation.
 b. The terms of any conciliation agreement may contain such provisions as may be agreed upon by the commission, the complaint and the respondent, including a provision for the entry in court of a consent decree embodying the terms of the conciliation agreement.
 c. The members of the commission and its staff shall not publicly disclose what transpired in the course of mediation and conciliation efforts.
 d. If a conciliation agreement is entered into, the commission shall embody such agreement in an order and serve a copy of such order upon all parties to the conciliation agreement. Violation of such an order may cause the imposition of civil penalties under section 8-124 of this chapter. Every conciliation agreement shall be made public unless the complainant and respondent agree otherwise and the commission determines that disclosure is not required to further the purposes of this chapter.
@@ -498,7 +498,7 @@ d. If a conciliation agreement is entered into, the commission shall embody such
 § 8-116 Determination of probable cause.  ::
 
 
- a. Except in connection with commission-initiated complaints which shall not require a determination of probable cause, where the commission determines that probable cause exists to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter six of this title, the commission shall issue a written notice to complainant and respondent so stating. A determination of probable cause is not a final order of the commission and shall not be administratively or judicially reviewable.
+a. Except in connection with commission-initiated complaints which shall not require a determination of probable cause, where the commission determines that probable cause exists to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter six of this title, the commission shall issue a written notice to complainant and respondent so stating. A determination of probable cause is not a final order of the commission and shall not be administratively or judicially reviewable.
 b. If there is a determination of probable cause pursuant to subdivision a of this section in relation to a complaint alleging discrimination in housing accommodations, land or commercial space or an interest therein, or if a commission-initiated complaint relating to discrimination in housing accommodations, land or commercial space or an interest therein has been filed, and the property owner or the owner's duly authorized agent will not agree voluntarily to withhold from the market the subject housing accommodations, land or commercial space or an interest therein for a period of ten days from the date of such request the commission may cause to be posted for a period of ten days from the date of such request, in a conspicuous place on the land or on the door of such housing accommodations or commercial space, a notice stating that such accommodations, land or commercial space are the subject of a complaint before the commission and that prospective transferees will take such accommodations, land or commercial space at their peril. Any destruction, defacement, alteration or removal of such notice by the owner or the owner's agents or employees shall be a misdemeanor punishable on conviction thereof by a fine of not more than one thousand dollars or by imprisonment for not more than one year or both.
 c. If a determination is made pursuant to subdivision a of this section that probable cause exists, or if a commission-initiated complaint has been filed, the commission shall refer the complaint to an administrative law judge and shall serve a notice upon the complainant, respondent and any necessary party that the complaint has been so referred.
 
@@ -529,7 +529,7 @@ Whenever a party fails to comply with an order of the commission pursuant to sec
 § 8-119 Hearing.  ::
 
 
- a. A hearing on the complaint shall be held before an administrative law judge designated by the commission. The place of any such hearing shall be the office of the commission or such other place as may be designated by the commission. Notice of the date, time and place of such hearing shall be served upon the complainant, respondent and any necessary party.
+a. A hearing on the complaint shall be held before an administrative law judge designated by the commission. The place of any such hearing shall be the office of the commission or such other place as may be designated by the commission. Notice of the date, time and place of such hearing shall be served upon the complainant, respondent and any necessary party.
 b. The case in support of the complaint shall be presented before the commission by the commission's prosecutorial bureau. The complainant may present additional testimony and cross-examine witnesses, in person or by counsel, if the complainant shall have intervened pursuant to rules established by the commission.
 c. The administrative law judge may, in his or her discretion, permit any person who has a substantial interest in the complaint to intervene as a party and may require the joinder of necessary parties.
 d. Evidence relating to endeavors at mediation or conciliation by, between or among the commission, the complainant and the respondent shall not be admissible.
@@ -543,7 +543,7 @@ g. The commission shall not be bound by the strict rules of evidence prevailing 
 § 8-120 Decision and order.  ::
 
 
- a. If, upon all the evidence at the hearing, and upon the findings of fact, conclusions of law and relief recommended by an administrative law judge, the commission shall find that a respondent has engaged in any unlawful discriminatory practice or any act of discriminatory harassment or violence as set forth in chapter six of this title, the commission shall state its findings of fact and conclusions of law and shall issue and cause to be served on such respondent an order requiring such respondent to cease and desist from such unlawful discriminatory practice or acts of discriminatory harassment or violence. Such order shall require the respondent to take such affirmative action as, in the judgment of the commission, will effectuate the purposes of this chapter including, but not limited to:
+a. If, upon all the evidence at the hearing, and upon the findings of fact, conclusions of law and relief recommended by an administrative law judge, the commission shall find that a respondent has engaged in any unlawful discriminatory practice or any act of discriminatory harassment or violence as set forth in chapter six of this title, the commission shall state its findings of fact and conclusions of law and shall issue and cause to be served on such respondent an order requiring such respondent to cease and desist from such unlawful discriminatory practice or acts of discriminatory harassment or violence. Such order shall require the respondent to take such affirmative action as, in the judgment of the commission, will effectuate the purposes of this chapter including, but not limited to:
 (1) hiring, reinstatement or upgrading of employees;
 (2) the award of back pay and front pay;
 (3) admission to membership in any respondent labor organization;
@@ -582,7 +582,7 @@ At any time after the filing of a complaint alleging an unlawful discriminatory 
 § 8-123 Judicial review.  ::
 
 
- a. Any complainant, respondent or other person aggrieved by a final order of the commission issued pursuant to section 8-120 or section 8-126 of this chapter or an order of the chairperson issued pursuant to subdivision f of section 8-113 of this chapter affirming the dismissal of a complaint may obtain judicial review thereof in a proceeding as provided in this section.
+a. Any complainant, respondent or other person aggrieved by a final order of the commission issued pursuant to section 8-120 or section 8-126 of this chapter or an order of the chairperson issued pursuant to subdivision f of section 8-113 of this chapter affirming the dismissal of a complaint may obtain judicial review thereof in a proceeding as provided in this section.
 b. Such proceeding shall be brought in the supreme court of the state within any county within the city of New York wherein the unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter six of this title which is the subject of the commission's order occurs or wherein any person required in the order to cease and desist from an unlawful discriminatory practice or act of discriminatory harassment or violence or to take other affirmative action resides or transacts business.
 c. Such proceeding shall be initiated by the filing of a petition in such court, together with a written transcript of the record upon the hearing, before the commission, and the issuance and service of a notice of motion returnable before such court. Thereupon the court shall have jurisdiction of the proceeding and of the questions determined therein, and shall have power to grant such relief as it deems just and proper, and to make and enter upon the pleadings, testimony, and proceedings set forth in such transcript an order annulling, confirming or modifying the order of the commission in whole or in part. No objection that has not been urged before the commission shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances.
 d. Any part may move the court to remit the case to the commission in the interests of justice for the purpose of adducing additional specified and materials evidenced and seeking findings thereon, provided such party shows reasonable grounds for the failure to adduce such evidence before the commission.
@@ -605,7 +605,7 @@ Any person who fails to comply with an order issued by the commission pursuant t
 § 8-125 Enforcement.  ::
 
 
- a. Any action or proceeding that may be appropriate or necessary for the enforcement of any order issued by the commission pursuant to this chapter, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any such order, mandating compliance with the provisions of any such order, imposing penalties pursuant to section 8-124 of this chapter, or for such other relief as may be appropriate, may be initiated in any court of competent jurisdiction on behalf of the commission. In any such action or proceeding, application may be made for a temporary restraining order or preliminary injunction, enforcing and restraining all persons from violating any provisions of any such order, or for such other relief as may be just and proper, until hearing and determination of such action or proceeding and the entry of final judgment or order thereon. The court to which such application is made may make any or all of the orders specified, as may be required in such application, with or without notice, and may make such other or further orders or directions as may be necessary to render the same effectual.
+a. Any action or proceeding that may be appropriate or necessary for the enforcement of any order issued by the commission pursuant to this chapter, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any such order, mandating compliance with the provisions of any such order, imposing penalties pursuant to section 8-124 of this chapter, or for such other relief as may be appropriate, may be initiated in any court of competent jurisdiction on behalf of the commission. In any such action or proceeding, application may be made for a temporary restraining order or preliminary injunction, enforcing and restraining all persons from violating any provisions of any such order, or for such other relief as may be just and proper, until hearing and determination of such action or proceeding and the entry of final judgment or order thereon. The court to which such application is made may make any or all of the orders specified, as may be required in such application, with or without notice, and may make such other or further orders or directions as may be necessary to render the same effectual.
 b. In any action or proceeding brought pursuant to subdivision a of this section, no person shall be entitled to contest the terms of the order sought to be enforced unless that person has timely commenced a proceeding for review of the order pursuant to section 8-123 of this chapter.
 
 
@@ -614,7 +614,7 @@ b. In any action or proceeding brought pursuant to subdivision a of this section
 § 8-126 Civil penalties imposed by commission for unlawful discriminatory practices or acts of discriminatory harassment or violence.  ::
 
 
- a. Except as otherwise provided in subdivision thirteen of section 8-107 of this chapter, in addition to any of the remedies and penalties set forth in subdivision a of section 8-120 of this chapter, where the commission finds that a person has engaged in an unlawful discriminatory practice, the commission may, to vindicate the public interest, impose a civil penalty of not more than one hundred and twenty-five thousand dollars. Where the commission finds that an unlawful discriminatory practice was the result of the respondent's willful, wanton or malicious act or where the commission finds that an act of discriminatory harassment or violence as set forth in chapter six of this title has occurred, the commission may, to vindicate the public interest, impose a civil penalty of not more than two hundred and fifty thousand dollars.
+a. Except as otherwise provided in subdivision thirteen of section 8-107 of this chapter, in addition to any of the remedies and penalties set forth in subdivision a of section 8-120 of this chapter, where the commission finds that a person has engaged in an unlawful discriminatory practice, the commission may, to vindicate the public interest, impose a civil penalty of not more than one hundred and twenty-five thousand dollars. Where the commission finds that an unlawful discriminatory practice was the result of the respondent's willful, wanton or malicious act or where the commission finds that an act of discriminatory harassment or violence as set forth in chapter six of this title has occurred, the commission may, to vindicate the public interest, impose a civil penalty of not more than two hundred and fifty thousand dollars.
 b. A respondent that is found liable for an unlawful discriminatory practice or an act of discriminatory harassment or violence, as set forth in chapter six of this title, may, in relation to the determination of the appropriate amount of civil penalties to be imposed pursuant to subdivision a of this section, plead and prove any relevant mitigating factor.
 c. In addition to any other penalties or sanctions which may be imposed pursuant to any other law, any person who knowingly makes a material false statement in any proceeding conducted, or document or record filed with the commission, or record required to be preserved or made and kept and subject to inspection by the commission pursuant to this chapter shall be liable for a civil penalty of not more than ten thousand dollars.
 d. An action or proceeding may be commenced in any court of competent jurisdiction on behalf of the commission for the recovery of the civil penalties provided for in this section.
@@ -625,7 +625,7 @@ d. An action or proceeding may be commenced in any court of competent jurisdicti
 § 8-127 Disposition of civil penalties.  ::
 
 
- a. Any civil penalties recovered pursuant to this chapter shall be paid into the general fund of the city.
+a. Any civil penalties recovered pursuant to this chapter shall be paid into the general fund of the city.
 b. Notwithstanding the foregoing provision, where an action or proceeding is commenced against a city agency for the enforcement of a final order issued by the commission pursuant to section 8-120 of the code after a finding that such agency has engaged in an unlawful discriminatory practice and in such action or proceeding civil penalties are sought for violation of such order, any civil penalties which are imposed by the court against such agency shall be budgeted in a separate account. Such account shall be used solely to support city agencies' anti-bias education programs, activities sponsored by city agencies that are designed to eradicate discrimination or to fund remedial programs that are necessary to address the city's liability for discriminatory acts or practices. Funds in such account shall not be used to support or benefit the commission. The disposition of such funds shall be under the direction of the mayor.
 
 
@@ -650,7 +650,7 @@ In addition to any other penalties or sanctions which may be imposed pursuant to
 § 8-130 Construction.  ::
 
 
- a. The provisions of this title shall be construed liberally for the accomplishment of the uniquely broad and remedial purposes thereof, regardless of whether federal or New York state civil and human rights laws, including those laws with provisions worded comparably to provisions of this title, have been so construed.
+a. The provisions of this title shall be construed liberally for the accomplishment of the uniquely broad and remedial purposes thereof, regardless of whether federal or New York state civil and human rights laws, including those laws with provisions worded comparably to provisions of this title, have been so construed.
 b. Exceptions to and exemptions from the provisions of this title shall be construed narrowly in order to maximize deterrence of discriminatory conduct.
 c. Cases that have correctly understood and analyzed the liberal construction requirement of subdivision a of this section and that have developed legal doctrines accordingly that reflect the broad and remedial purposes of this title include Albunio v. City of New York, 16 N.Y.3d 472 (2011), Bennett v. Health Management Systems, Inc., 92 A.D.3d 29 , and the majority opinion in Williams v. New York City Housing Authority, 61 A.D.3d 62 .
 
@@ -669,7 +669,7 @@ The provisions of this chapter which make acts of discriminatory harassment or v
 § 8-132 Sexual harassment information. ::
 
 
- a. The commission shall post conspicuously on the commission’s website online resources about sexual harassment, including but not limited to:
+a. The commission shall post conspicuously on the commission’s website online resources about sexual harassment, including but not limited to:
 1. Information that sets forth in simple and understandable terms:
 (a) An explanation that sexual harassment is a form of unlawful discrimination under local law;
 (b) Specific descriptions and examples of activities which may be sexual harassment;
@@ -719,7 +719,7 @@ As used in this chapter:
 § 8-203 Unlawful real estate practices.  ::
 
 
- 1. It shall be unlawful for any real estate broker or dealer or any agent or employee of a real estate broker or dealer, except in honest reply to an unprompted question by a prospective buyer or seller:
+1. It shall be unlawful for any real estate broker or dealer or any agent or employee of a real estate broker or dealer, except in honest reply to an unprompted question by a prospective buyer or seller:
 (a) to represent, for the purpose of inducing or discouraging the purchase, sale, or rental, or the listing for purchase, sale, or rental, of any real property, that a change has occurred or will or may occur in the racial or religious composition of any block, neighborhood, or area.
 (b) to represent, implicitly or explicitly, for the purpose of inducing or discouraging the purchase, sale, or rental or the listing for purchase, sale, or rental of any real property, that the presence of persons of any particular race, religion or ethnic background in an area will or may result in:
 (1) a lowering of property values in the area;
@@ -737,7 +737,7 @@ As used in this chapter:
 § 8-204 Non-solicitation areas.  ::
 
 
- 1. The commission may designate an area as a non-solicitation area for a period of up to one year upon making written findings based on substantial evidence introduced at a public hearing that:
+1. The commission may designate an area as a non-solicitation area for a period of up to one year upon making written findings based on substantial evidence introduced at a public hearing that:
 (a) practices made unlawful by section 8-203 of this chapter, the inducement or encouragement by brokers or dealers of the use of fraudulent mortgage applications for the purchase of dwellings, or the direction based on race, creed, color or national origin by brokers or dealers of prospective purchasers or applicants to dwellings, or an unusually great incidence of solicitation are consistently occurring within the area, and that
 (b) such practices are causing, or are likely to cause, residents within the area to believe that:
 (1) property values in the area are declining, or about to decline rapidly; or
@@ -766,7 +766,7 @@ It shall be unlawful for any real estate broker or dealer or any agent or employ
 § 8-206 Hearings; rules; enforcement.  ::
 
 
- 1. The commission may conduct investigations, studies, and hearings concerning practices and activities governed by this chapter. In conducting hearings, the commission shall have the power to subpoena witnesses, to compel their attendance, to administer oaths, to examine witnesses under oath, and to require the production of documents. A written record shall be made of every such hearing.
+1. The commission may conduct investigations, studies, and hearings concerning practices and activities governed by this chapter. In conducting hearings, the commission shall have the power to subpoena witnesses, to compel their attendance, to administer oaths, to examine witnesses under oath, and to require the production of documents. A written record shall be made of every such hearing.
 2. The commission shall have the authority from time to time to make, amend, and rescind such rules and regulations as may be necessary to carry out the provisions of this chapter.
 3. The chairperson or his or her designated representative shall have the power to enforce the provisions of this chapter by signing criminal complaints against any person, firm, partnership, association, or corporation for violation of this chapter.
 4. The chairperson shall report to the secretary of state of New York all violations of this chapter by real estate brokers and salespersons.
@@ -785,7 +785,7 @@ Any person, firm, partnership, association, or corporation convicted of violatin
 § 8-208 Civil remedies.  ::
 
 
- 1. (a) Any owner of real property who is induced to sell his or her property through or to a real estate broker or real estate dealer by acts committed by such broker or dealer in violation of section 8-203 or section 8-205 of this chapter may institute a civil action against such broker or dealer.
+1. (a) Any owner of real property who is induced to sell his or her property through or to a real estate broker or real estate dealer by acts committed by such broker or dealer in violation of section 8-203 or section 8-205 of this chapter may institute a civil action against such broker or dealer.
 (b) If, in an action instituted pursuant to this subdivision, judgment is rendered in favor of plaintiff, such plaintiff shall be awarded as damages
 (i) the amount of any gains, whether in the form of profits, commission, or otherwise, realized by defendant as the result of the first subsequent arm's length sale, exchange, or transfer of the property, or, if defendant acted as a broker, the amount of any commissions received by defendant through the sale, exchange, or transfer of plaintiff's property, such gains in all cases to be calculated without regard to any expenses incurred by the defendant, and may in addition be awarded reasonable attorneys' fees and court costs; or
 (ii) if the defendant has not realized any gains as defined in this subdivision, an amount equal to the difference between the price for which plaintiff sold his or her property and the fair market value at the time of the sale, or the fair market value of the property at the time the action is commenced, whichever difference is greater, and may in addition be awarded reasonable attorneys' fees and court costs.
@@ -827,7 +827,7 @@ The council finds that certain forms of unlawful discrimination are systemic in 
 § 8-402 Civil action to eliminate unlawful discriminatory practices.  ::
 
 
- a. Whenever there is reasonable cause to believe that a person or group of persons is engaged in pattern or practice that results in the denial to any person of the full enjoyment of any right secured by chapter one of this title, a civil action on behalf of the commission or the city may be commenced in a court of competent jurisdiction, by filing a complaint setting forth facts pertaining to such pattern or practice and requesting such relief as may be deemed necessary to insure the full enjoyment of the rights described in such chapter, including, but not limited to, injunctive relief, damages, including punitive damages, and such other types of relief as are specified in subdivision a of section 8-120 of this title. Nothing in this section shall be construed to prohibit (i) an aggrieved person from filing a complaint pursuant to section 8-109 of chapter one of this title or from commencing a civil action pursuant to chapter five of this title based upon the same facts pertaining to such a pattern or practice as are alleged in the civil action, or (ii) the commission from filing a commission-initiated complaint pursuant to section 8-109 of chapter one of this title alleging a pattern or practice of discrimination, provided that a civil action prusuant to this section shall not have previously been commenced.
+a. Whenever there is reasonable cause to believe that a person or group of persons is engaged in pattern or practice that results in the denial to any person of the full enjoyment of any right secured by chapter one of this title, a civil action on behalf of the commission or the city may be commenced in a court of competent jurisdiction, by filing a complaint setting forth facts pertaining to such pattern or practice and requesting such relief as may be deemed necessary to insure the full enjoyment of the rights described in such chapter, including, but not limited to, injunctive relief, damages, including punitive damages, and such other types of relief as are specified in subdivision a of section 8-120 of this title. Nothing in this section shall be construed to prohibit (i) an aggrieved person from filing a complaint pursuant to section 8-109 of chapter one of this title or from commencing a civil action pursuant to chapter five of this title based upon the same facts pertaining to such a pattern or practice as are alleged in the civil action, or (ii) the commission from filing a commission-initiated complaint pursuant to section 8-109 of chapter one of this title alleging a pattern or practice of discrimination, provided that a civil action prusuant to this section shall not have previously been commenced.
 b. A civil action commenced under this section must be commenced within three years after the alleged discriminatory practice occurred.
 c. Such action may be instituted only by the corporation counsel, such attorneys employed by the city commission on human rights as are designated by the corporation counsel or other persons designated by the corporation counsel.
 
@@ -855,7 +855,7 @@ Chapter 5: Civil Action By Persons Aggrieved By Unlawful Discriminatory Practice
 § 8-502 Civil action by persons aggrieved by unlawful discriminatory practices.  ::
 
 
- a. Except as otherwise provided by law, any person claiming to be a person aggrieved by an unlawful discriminatory practice as defined in chapter 1 of this title or by an act of discriminatory harassment or violence as set forth in chapter 6 of this title shall have a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, unless such person has filed a complaint with the city commission on human rights or with the state division of human rights with respect to such alleged unlawful discriminatory practice or act of discriminatory harassment or violence. For purposes of this subdivision, the filing of a complaint with a federal agency pursuant to applicable federal law prohibiting discrimination which is subsequently referred to the city commission on human rights or to the state division of human rights pursuant to such law shall not be deemed to constitute the filing of a complaint under this subdivision.
+a. Except as otherwise provided by law, any person claiming to be a person aggrieved by an unlawful discriminatory practice as defined in chapter 1 of this title or by an act of discriminatory harassment or violence as set forth in chapter 6 of this title shall have a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, unless such person has filed a complaint with the city commission on human rights or with the state division of human rights with respect to such alleged unlawful discriminatory practice or act of discriminatory harassment or violence. For purposes of this subdivision, the filing of a complaint with a federal agency pursuant to applicable federal law prohibiting discrimination which is subsequently referred to the city commission on human rights or to the state division of human rights pursuant to such law shall not be deemed to constitute the filing of a complaint under this subdivision.
 b. Notwithstanding any inconsistent provision of subdivision a of this section, where a complaint filed with the city commission on human rights or the state division on human rights is dismissed by the city commission on human rights pursuant to subdivisions a, b or c of section 8-113 of chapter one of this title, or by the state division of human rights pursuant to subdivision nine of section two hundred ninety-seven of the executive law either for administrative convenience or on the grounds that such person's election of an administrative remedy is annulled, an aggrieved person shall maintain all rights to commence a civil action pursuant to this chapter as if no such complaint had been filed.
 c. The city commission on human rights and the corporation counsel shall each designate a representative authorized to receive copies of complaints in actions commenced in whole or in part pursuant to subdivision a of this section. Within 10 days after having commenced a civil action pursuant to subdivision a of this section, the plaintiff shall serve a copy of the complaint upon such authorized representatives.
 d. A civil action commenced under this section must be commenced within three years after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter six of this title occurred. Upon the filing of a complaint with the city commission on human rights or the state division of human rights and during the pendency of such complaint and any court proceeding for review of the dismissal of such complaint, such three year limitations period shall be tolled.
@@ -875,7 +875,7 @@ Chapter 6: Discriminatory Harassment Or Violence
 § 8-602 Civil action to enjoin discriminatory harassment or violence; equitable remedies.  ::
 
 
- a. Whenever a person interferes by threats, intimidation or coercion or attempts to interfere by threats, intimidation or coercion with the exercise or enjoyment by any person of rights secured by the constitution or laws of the United States, the constitution or laws of this state, or local law of the city and such interference or attempted interference is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, whether children are, may or would be residing with such victim, marital status, partnership status, disability, or alienage or citizenship status as defined in chapter one of this title, the corporation counsel, at the request of the city commission on human rights or on his or her own initiative, may bring a civil action on behalf of the city for injunctive and other appropriate equitable relief in order to protect the peaceable exercise or enjoyment of the rights secured.
+a. Whenever a person interferes by threats, intimidation or coercion or attempts to interfere by threats, intimidation or coercion with the exercise or enjoyment by any person of rights secured by the constitution or laws of the United States, the constitution or laws of this state, or local law of the city and such interference or attempted interference is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, whether children are, may or would be residing with such victim, marital status, partnership status, disability, or alienage or citizenship status as defined in chapter one of this title, the corporation counsel, at the request of the city commission on human rights or on his or her own initiative, may bring a civil action on behalf of the city for injunctive and other appropriate equitable relief in order to protect the peaceable exercise or enjoyment of the rights secured.
 b. An action pursuant to subdivision a may be brought in any court of competent jurisdiction.
 c. Violation of an order issued pursuant to subdivision a of this section may be punished by a proceeding for contempt brought pursuant to article nineteen of the judiciary law and, in addition to any relief thereunder, a civil penalty may be imposed not exceeding ten thousand dollars for each day that the violation continues.
 
@@ -885,7 +885,7 @@ c. Violation of an order issued pursuant to subdivision a of this section may be
 § 8-603 Discriminatory harassment; civil penalties.  ::
 
 
- a. No person shall by force or threat of force, knowingly injure, intimidate or interfere with, oppress, or threaten any other person in the free exercise or enjoyment of any right or privilege secured to him or her by the constitution or laws of this state or by the constitution or laws of the United States or by local law of the city when such injury, intimidation, interference, oppression or threat is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, marital status, partnership status, disability or alienage or citizenship status, as defined in chapter one of this title.
+a. No person shall by force or threat of force, knowingly injure, intimidate or interfere with, oppress, or threaten any other person in the free exercise or enjoyment of any right or privilege secured to him or her by the constitution or laws of this state or by the constitution or laws of the United States or by local law of the city when such injury, intimidation, interference, oppression or threat is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, marital status, partnership status, disability or alienage or citizenship status, as defined in chapter one of this title.
 b. No person shall knowingly deface, damage or destroy the real or personal property of any person for the purpose of intimidating or interfering with the free exercise or enjoyment of any right or privilege secured to the other person by the constitution or laws of this state or by the constitution or laws of the United States or by local law of the city when such defacement, damage or destruction of real or personal property is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, marital status, partnership status, or whether children are, may be, or would be residing with such victim, disability or alienage or citizenship status, as defined in chapter one of this title.
 c. Any person who violates subdivision a or b of this section shall be liable for a civil penalty of not more than one hundred thousand dollars for each violation, which may be recovered by the corporation counsel in an action or proceeding in any court of competent jurisdiction.
 
@@ -967,7 +967,7 @@ c. "Premises of a reproductive health care facility" shall mean the driveway, en
 § 8-803 Prohibition of activities to prevent access to reproductive health care facilities.  ::
 
 
- a. It shall be unlawful for any person
+a. It shall be unlawful for any person
 (1) to knowingly physically obstruct or block another person from entering into or exiting from the premises of a reproductive health care facility by physically striking, shoving, restraining, grabbing, or otherwise subjecting a person to unwanted physical contact, or attempting to do the same;
 (2) to knowingly obstruct or block the premises of a reproductive health care facility, so as to impede access to or from the facility, or attempt to do the same;
 (3) to follow and harass another person within 15 feet of the premises of a reproductive health care facility;
@@ -1011,7 +1011,7 @@ If it is found, in any action brought pursuant to the provisions of this chapter
 § 8-807 Construction.  ::
 
 
- a. No provision of this chapter shall be construed or interpreted so as to limit the right of any person or entity to seek other available criminal penalties or civil remedies. The penalties and remedies provided under this chapter shall be cumulative and not exclusive.
+a. No provision of this chapter shall be construed or interpreted so as to limit the right of any person or entity to seek other available criminal penalties or civil remedies. The penalties and remedies provided under this chapter shall be cumulative and not exclusive.
 b. No provision of this chapter shall be construed or interpreted so as to prohibit expression protected by the First Amendment of the Constitution of the United States or section eight of article one of the Constitution of the State of New York.
 c. No provision of this chapter shall be construed or interpreted so as to limit the lawful exercise of any authority vested in the owner or operator of the reproductive health care facility, the owner of the premises in which such facility is located, or a law enforcement officer of New York City, New York State or the United States acting within the scope of his or her official duties.
 
@@ -1061,7 +1061,7 @@ Except as otherwise provided by law, any person claiming to be injured by an ind
 § 8-905 Limitations.  ::
 
 
- a. A civil action under this chapter must be commenced within seven years after the alleged crime of violence motivated by gender as defined in section 8-903 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to seven years after the inability to commence the action ceases.
+a. A civil action under this chapter must be commenced within seven years after the alleged crime of violence motivated by gender as defined in section 8-903 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to seven years after the inability to commence the action ceases.
 b. Except as otherwise permitted by law, nothing in this chapter entitles a person to a cause of action for random acts of violence unrelated to gender or for acts that cannot be domonstrated, by preponderance of the evidence, to be motivated by gender as defined in Section 8-903.
 c. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
 
@@ -1132,7 +1132,7 @@ r. "Translation services" means oral explanation or written translation of docum
 § 8-1003 Language assistance services.  ::
 
 
- a. The agency and all agency contractors shall provide free language assistance services as required by this chapter to limited English proficient individuals.
+a. The agency and all agency contractors shall provide free language assistance services as required by this chapter to limited English proficient individuals.
 b. When a limited English proficient individual seeks or receives benefits or services from an agency office or agency contractor, the agency office or agency contractor shall provide prompt language assistance services in all interactions with that individual, whether the interaction is by telephone or in person. The agency office or agency contractor shall meet its obligation to provide prompt language assistance services for purposes of this subdivision by ensuring that limited English proficient individuals do not have to wait unreasonably longer to receive assistance than individuals who do not require language assistance services.
 c. Where an application or form requires completion in English by a limited English proficient individual for submission to a state or federal authority, the agency or agency contractor shall provide oral translation of such application or form as well as certification by the limited English proficient individual that the form was translated and completed by an interpreter.
 d. The agency shall make all reasonable efforts to provide language assistance services in person by bilingual personnel.
@@ -1151,7 +1151,7 @@ The agency shall translate all documents into every covered language as of the f
 § 8-1005 Notices.  ::
 
 
- a. Upon initial contact, whether by telephone or in person, with an individual seeking benefits and/or services offered by the agency or an agency contractor, the agency or agency contractor shall determine the primary language of such individual. If it is determined that such individual's primary language is not English, the agency or agency contractor shall inform the individual in his/her primary language of the right to free language assistance services.
+a. Upon initial contact, whether by telephone or in person, with an individual seeking benefits and/or services offered by the agency or an agency contractor, the agency or agency contractor shall determine the primary language of such individual. If it is determined that such individual's primary language is not English, the agency or agency contractor shall inform the individual in his/her primary language of the right to free language assistance services.
 b. The agency shall provide in all application and recertification packages an 81/2 inch × 11 inch or larger notice advising participants that free language assistance services are available at its offices and where to go if they would like an interpreter. This notice shall appear in all covered languages.
 c. The agency and each agency contractor shall post conspicuous signs in every covered language at all agency offices and agency contractor offices informing limited English proficient individuals of the availability of free language assistance services.
 d. Other covered agencies. Upon initial contact, whether by telephone or in person, with an individual seeking benefits and/or services offered by an other covered agency, the other covered agency shall determine the primary language of such individual. If it is determined that such individual's primary language is not English, the other covered agency shall inform the individual in his/her primary language of available language assistance services.
@@ -1170,7 +1170,7 @@ The agency and each agency contractor shall screen bilingual personnel and inter
 § 8-1007 Recordkeeping.  ::
 
 
- a. No later than the first day of the sixtieth month after the effective date of the local law that added this chapter, the agency and each agency contractor shall maintain records of the primary language of every individual who seeks or receives benefits or services from the agency or agency contractor. At a minimum, the agency and each agency contractor shall maintain specific records of the following:
+a. No later than the first day of the sixtieth month after the effective date of the local law that added this chapter, the agency and each agency contractor shall maintain records of the primary language of every individual who seeks or receives benefits or services from the agency or agency contractor. At a minimum, the agency and each agency contractor shall maintain specific records of the following:
 1. The number of limited English proficient individuals served, disaggregated by agency, agency contractor or contractor, agency office, type of language assistance required and primary language;
 2. The number of bilingual personnel and the number of interpreter personnel employed by the agency, disaggregated by language translated or interpreted by such personnel;
 3. Whether primary language determinations are recorded properly; and
@@ -1187,7 +1187,7 @@ b. Other covered agencies. No later than the first day of the sixtieth month aft
 § 8-1008 Implementation.  ::
 
 
- a. The agency shall phase in language assistance services for covered functions as follows:
+a. The agency shall phase in language assistance services for covered functions as follows:
 1. As of the first day of the twenty-fourth month after the effective date of the local law that added this chapter, no less than 20% of covered functions provided by agency offices.
 2. As of the first day of the forty-eighth month after the effective date of the local law that added this chapter, no less than 40% of covered functions provided by agency offices.
 3. As of the first day of the sixtieth month after the effective date of the local law that added this chapter, 100% of covered functions provided by agency offices.
@@ -1216,7 +1216,7 @@ The agency and each other covered agency shall promulgate such rules as are nece
 § 8-1010 Miscellaneous.  ::
 
 
- a. Nothing in this chapter precludes the agency or an agency contractor from providing language assistance services beyond those required by this chapter.
+a. Nothing in this chapter precludes the agency or an agency contractor from providing language assistance services beyond those required by this chapter.
 b. Nothing in this chapter precludes a limited English proficient individual from having an adult volunteer, relative, spouse or domestic partner accompany him/her to provide language assistance services with the agency office or agency contractor, provided that the agency office or agency contractor informs a limited English proficient individual of the availability of free language assistance services and the agency remains responsible for ensuring effective communication.
 c. This chapter does not apply to any contract with an agency contractor entered into or renewed prior to January 1, 2005.
 
@@ -1236,7 +1236,7 @@ Chapter 11: Reports on Discipline and Certain Emergency Transports of Students
 § 8-1101 Definitions; confidentiality requirements.  ::
 
 
- a. For purposes of this chapter, the following terms shall have the following meanings:
+a. For purposes of this chapter, the following terms shall have the following meanings:
 Chancellor. The term "chancellor" means the chancellor of the city school district of the city of New York, or the chancellor's designee.
 Data. The term "data" means final versions of statistical or factual information in alphanumeric form that can be digitally transmitted or processed.
 Department contact. The term "department contact" means an incident that occurs within a New York city public school, on school grounds, during school-related events or while taking public school transportation, for which the New York city police department is contacted.
@@ -1281,7 +1281,7 @@ The chancellor shall submit to the council and post to the department of educati
 § 8-1104 Citywide report on emergency medical services student transports. ::
 
 
- a. The chancellor shall submit to the council and post to the department of education's website by October 31st and March 31st of each year a citywide report on the total number of EMS transports and the number of EMS transports performed because of a student's psychological/emotional condition. The October report shall include EMS transports from the first six months of the current calendar year and the March report shall include EMS transports from the second six months of the preceding calendar year. Each report shall be disaggregated by school district and by month.
+a. The chancellor shall submit to the council and post to the department of education's website by October 31st and March 31st of each year a citywide report on the total number of EMS transports and the number of EMS transports performed because of a student's psychological/emotional condition. The October report shall include EMS transports from the first six months of the current calendar year and the March report shall include EMS transports from the second six months of the preceding calendar year. Each report shall be disaggregated by school district and by month.
 b. The chancellor shall submit to the council and post to the department of education's website by October 31st of each year a citywide report on EMS transports during the twelve-month period ending on June 30th of the same year. Each report shall be disaggregated by school and by race/ethnicity, year of birth and whether the individual is receiving special education services.
 
 

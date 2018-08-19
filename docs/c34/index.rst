@@ -15,7 +15,7 @@ Chapter 2: Division of Paid Care
 § 32-201 Definitions. ::
 
 
- For the purposes of this chapter, the following terms have the following meanings:
+For the purposes of this chapter, the following terms have the following meanings:
 Advocate. The term "advocate" means the advocate of the division who reports to the division head.
 Child care worker. The term "child care worker" means a person paid to work in a home, including in the residence of an authorized child care provider, for the purpose of caring for one or more children.
 Consumer directed personal assistant. The term "consumer directed personal assistant" has the same meaning as is ascribed to the term "personal assistant" in subdivision 3 of section 365-f of the social services law.
@@ -34,7 +34,7 @@ State-approved education or training program. The term "state-approved education
 § 32-202 Division; powers and duties. ::
 
 
- a. The division shall assist the director in developing policies and programs that apply to paid care workers.
+a. The division shall assist the director in developing policies and programs that apply to paid care workers.
 b. The division shall conduct and promote public information and outreach campaigns, and in performing such activities the division shall seek to coordinate with appropriate stakeholders, such as other government agencies, worker advocacy groups, community and labor and employment organizations, paid care workers, employers and care recipients, to inform paid care workers, employers and care recipients about:
 1. Their rights and obligations under applicable federal, state and local laws, including through regular informational clinics in each of the five boroughs to inform paid care workers about relevant labor and employment standards;
 2. Their eligibility for benefits, as applicable;
@@ -64,7 +64,7 @@ f. The division shall seek to work with the New York state department of health 
 § 32-203 Advocate; powers and duties. ::
 
 
- a. The advocate and division staff shall engage with the paid care industry to address workforce concerns, including by:
+a. The advocate and division staff shall engage with the paid care industry to address workforce concerns, including by:
 1. Developing a system to assist paid care workers to obtain information about their rights under federal, state and local labor and employment laws and about the appropriate federal, state and city agencies and officials, community organizations and legal services organizations that provide assistance with respect to potential violations of labor and employment laws;
 2. Developing a system to assist paid care workers to submit complaints regarding potential violations of such laws through a hotline, a texting number and an online submission mechanism and responding to such complaints by providing referrals to other agencies as appropriate;
 3. Seeking to coordinate with and, where appropriate, contracting with appropriate stakeholders as listed in subdivision b of section 32-202 to operate such systems or elements thereof;
@@ -83,7 +83,7 @@ b. With respect to individual employers against whom the division receives compl
 § 32-204 Website and reporting. ::
 
 
- The division shall post on the division's website and submit to the speaker of the council, beginning no later than one year after the effective date of this law and annually thereafter, the following information for the preceding calendar year:
+The division shall post on the division's website and submit to the speaker of the council, beginning no later than one year after the effective date of this law and annually thereafter, the following information for the preceding calendar year:
 a. The results of the research conducted as required by subdivision c of section 32-202;
 b. The number of complaints received by the systems, the types of information provided and the number of referrals made pursuant to subdivision a of section 32-203;
 c. The results of the findings made pursuant to subdivision b of section 32-203 regarding any systemic legal allegations;

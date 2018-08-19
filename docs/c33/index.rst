@@ -16,7 +16,7 @@ Department. The term "department" means the New York city department of veterans
 § 31-102 Employment resources. ::
 
 
- a. Definitions. For the purposes of this section:
+a. Definitions. For the purposes of this section:
 Federal veterans job bank. The term "federal veterans job bank" means the job bank developed by the federal government for veterans or any subsequent online tool that the federal government utilizes to connect veterans with employment opportunities.
 City job. The term "city job" means employment with the government of the city of New York.
 b. The department shall publish on its website information concerning resources intended to assist veterans in obtaining employment including, but not limited to:
