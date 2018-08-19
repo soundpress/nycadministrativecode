@@ -5,7 +5,7 @@ Chapter 1: Rules of Construction
 § 1-101 Short title.  ::
 
 
-	This code shall be known and may be cited as "administrative code of the city of New York."
+This code shall be known and may be cited as "administrative code of the city of New York."
 
 
 
@@ -13,7 +13,7 @@ Chapter 1: Rules of Construction
 § 1-102 Legislative intent.  ::
 
 
-	It is the intent of the legislature by the enactment of this chapter to recodify, without substantive change, the administrative code of the city of New York in effect immediately prior to the effective date of this chapter. The enactment of this code shall not be construed as validating, ratifying or conforming any provision hereof which was enacted by any local law of the city of New York, and incorporated within the prior administrative code of the city of New York and recodified in this code which the city was without authority to enact at the time of such enactment of such local law.
+It is the intent of the legislature by the enactment of this chapter to recodify, without substantive change, the administrative code of the city of New York in effect immediately prior to the effective date of this chapter. The enactment of this code shall not be construed as validating, ratifying or conforming any provision hereof which was enacted by any local law of the city of New York, and incorporated within the prior administrative code of the city of New York and recodified in this code which the city was without authority to enact at the time of such enactment of such local law.
 
 
 
@@ -21,7 +21,7 @@ Chapter 1: Rules of Construction
 § 1-103 Effect of local law.  ::
 
 
-	This chapter shall not operate to deprive the local legislative body of the city of New York of the power to enact local laws in relation to any matter in respect to which such power would otherwise exist, nor shall it limit such power. If this power otherwise exists, any provision of this chapter may be superseded, supplemented or amended by local law in the same manner and to the same extent as such provisions could be superseded, supplemented or amended had this chapter not been enacted.
+This chapter shall not operate to deprive the local legislative body of the city of New York of the power to enact local laws in relation to any matter in respect to which such power would otherwise exist, nor shall it limit such power. If this power otherwise exists, any provision of this chapter may be superseded, supplemented or amended by local law in the same manner and to the same extent as such provisions could be superseded, supplemented or amended had this chapter not been enacted.
 
 
 
@@ -29,7 +29,7 @@ Chapter 1: Rules of Construction
 § 1-104 Judicial notice.  ::
 
 
-	a.   All courts shall take judicial notice of all laws contained in the code, the charter, local laws, ordinances, the health code, resolutions, and of all rules and regulations adopted pursuant to law.
+a.   All courts shall take judicial notice of all laws contained in the code, the charter, local laws, ordinances, the health code, resolutions, and of all rules and regulations adopted pursuant to law.
 
    b.   The compilations of rules and regulations published pursuant to subdivision f of section eleven hundred five of the charter shall be prima facie evidence in all courts of the authenticity of the provisions contained therein.
 
@@ -39,7 +39,7 @@ Chapter 1: Rules of Construction
 § 1-105 Separability.  ::
 
 
-	If any clause, sentence, paragraph, section or part of the code shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, section, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
+If any clause, sentence, paragraph, section or part of the code shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, section, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
 
 
@@ -47,7 +47,7 @@ Chapter 1: Rules of Construction
 § 1-106 No failure of applicable statutes.  ::
 
 
-	Any provision of any statute applicable to the city or any part thereof, now or hereafter enacted, imposing functions generally, specifically or by devolution, upon any agency, which is not identified in the city by the designation provided in such statute, shall be deemed to have imposed such functions upon any agency of the city or part thereof, to which has been transferred the functions of the designated agency or which exercises similar functions, or in the absence of such agency, upon the mayor.
+Any provision of any statute applicable to the city or any part thereof, now or hereafter enacted, imposing functions generally, specifically or by devolution, upon any agency, which is not identified in the city by the designation provided in such statute, shall be deemed to have imposed such functions upon any agency of the city or part thereof, to which has been transferred the functions of the designated agency or which exercises similar functions, or in the absence of such agency, upon the mayor.
 
 
 
@@ -55,7 +55,7 @@ Chapter 1: Rules of Construction
 § 1-107 Pending actions and proceedings.  ::
 
 
-	No action or proceeding, civil or criminal, pending at the time the code shall take effect, brought by or against the city or any agency or officer thereof, shall be affectabated by the adoption of the code or by anything therein contained. All such actions and proceedings may be continued in full force and effect under the appropriate provisions of the code.
+No action or proceeding, civil or criminal, pending at the time the code shall take effect, brought by or against the city or any agency or officer thereof, shall be affectabated by the adoption of the code or by anything therein contained. All such actions and proceedings may be continued in full force and effect under the appropriate provisions of the code.
 
 
 
@@ -63,7 +63,7 @@ Chapter 1: Rules of Construction
 § 1-108 Existing rights and remedies saved.  ::
 
 
-	No existing right or remedy of any kind shall be lost or impaired by reason of this recodification.
+No existing right or remedy of any kind shall be lost or impaired by reason of this recodification.
 
 
 
@@ -71,7 +71,7 @@ Chapter 1: Rules of Construction
 § 1-109 Enumeration of powers not restrictive.  ::
 
 
-	The enumeration of specific powers by this code shall not operate to restrict the meaning of a general grant of power contained in this code or to exclude other powers comprehended in such general grant.
+The enumeration of specific powers by this code shall not operate to restrict the meaning of a general grant of power contained in this code or to exclude other powers comprehended in such general grant.
 
 
 
@@ -79,7 +79,7 @@ Chapter 1: Rules of Construction
 § 1-110 No repeal by implication.  ::
 
 
-	a.   It is not intended by this code to repeal by implication any existing provision of law and no law shall be deemed repealed thereby unless expressly provided for herein.
+a.   It is not intended by this code to repeal by implication any existing provision of law and no law shall be deemed repealed thereby unless expressly provided for herein.
 
    b.   No law hereafter enacted shall be construed to repeal any provision of this code by implication, but every such provision shall be deemed to be in full force and effect until specifically repealed or amended.
 
@@ -89,7 +89,7 @@ Chapter 1: Rules of Construction
 § 1-111 Amendment of water supply provisions.  ::
 
 
-	All rights and powers to amend, modify, extend or supersede any provision or provisions of sections 5-376 through 5-399, 5-401 through 5-403, 5-410, 5-418, 5-423, 5-424, 5-426, 5-429, 24-301, 24-347 through 24-352, and 24-354 through 24-365 of this code and any other provision or provisions of this code relating to any lands now or hereafter acquired outside the corporate limits of the city for water supply purposes, including highways, bridges and sewers, are hereby reserved to the legislature of the state of New York.
+All rights and powers to amend, modify, extend or supersede any provision or provisions of sections 5-376 through 5-399, 5-401 through 5-403, 5-410, 5-418, 5-423, 5-424, 5-426, 5-429, 24-301, 24-347 through 24-352, and 24-354 through 24-365 of this code and any other provision or provisions of this code relating to any lands now or hereafter acquired outside the corporate limits of the city for water supply purposes, including highways, bridges and sewers, are hereby reserved to the legislature of the state of New York.
 
 
 
@@ -97,7 +97,7 @@ Chapter 1: Rules of Construction
 § 1-112 Definitions.  ::
 
 
-	Unless expressly otherwise provided, whenever used in the code, the following terms shall mean or include:
+Unless expressly otherwise provided, whenever used in the code, the following terms shall mean or include:
 
    1.   "Agency". A city, county, borough, or other office, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
 
@@ -151,7 +151,7 @@ Chapter 1: Rules of Construction
 § 1-113 Gender neutral language.  ::
 
 
-	a.   Except as otherwise provided in this section, all laws, documents and materials generated by the city shall be drafted in a gender-neutral manner and shall not include gender-biased terminology; including, but not limited to, the term "councilman" and "councilmanic." To the extent consistent with the meaning of this law, masculine pronouns may be used together with feminine pronouns in reference to elected officials, commissioners and similar persons.
+a.   Except as otherwise provided in this section, all laws, documents and materials generated by the city shall be drafted in a gender-neutral manner and shall not include gender-biased terminology; including, but not limited to, the term "councilman" and "councilmanic." To the extent consistent with the meaning of this law, masculine pronouns may be used together with feminine pronouns in reference to elected officials, commissioners and similar persons.
 
    b.   Notwithstanding the provisions of subdivision a of this section, no law, document, or other material of the city shall be invalidated due to the inclusion of gender-biased terminology.
 

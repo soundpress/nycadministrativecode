@@ -5,7 +5,7 @@ Chapter 1: Air Pollution Control
 § 24-101 Short title.  ::
 
 
-	Chapter one of this title of the code of the city of New York shall be known and may be cited as the "New York city air pollution control code."
+Chapter one of this title of the code of the city of New York shall be known and may be cited as the "New York city air pollution control code."
 
 
 
@@ -13,7 +13,7 @@ Chapter 1: Air Pollution Control
 § 24-102 Declaration of policy.  ::
 
 
-	It is hereby declared to be the public policy of the city to preserve, protect and improve the air quality of the city so as to promote health, safety and welfare, prevent injury to human, plant and animal life and property, foster the comfort and convenience of its inhabitants and facilitate the enjoyment of the natural attractions of the city. It is the public policy of the city that every person is entitled to air that is not detrimental to life, health and enjoyment of his or her property. It is hereby declared that the emission into the open air of any harmful or objectionable substance, including but not limited to smoke, soot, fly ash, dust, fumes, gas, vapors, odors or any products of combustion or incomplete combustion resulting from the use of fuel burning equipment or refuse burning equipment is a menace to the health, welfare and comfort of the people of the city and a cause of extensive damage to property. For the purpose of controlling and reducing air pollution, it is hereby declared to be the policy of the city to actively regulate and eliminate such emissions. The necessity for legislation by the enactment of the provisions of this chapter is hereby declared as a matter of legislative determination. This code shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the emergency powers of the board of health of the department of health and mental hygiene or the right of such department to engage in any of its necessary or proper activities.
+It is hereby declared to be the public policy of the city to preserve, protect and improve the air quality of the city so as to promote health, safety and welfare, prevent injury to human, plant and animal life and property, foster the comfort and convenience of its inhabitants and facilitate the enjoyment of the natural attractions of the city. It is the public policy of the city that every person is entitled to air that is not detrimental to life, health and enjoyment of his or her property. It is hereby declared that the emission into the open air of any harmful or objectionable substance, including but not limited to smoke, soot, fly ash, dust, fumes, gas, vapors, odors or any products of combustion or incomplete combustion resulting from the use of fuel burning equipment or refuse burning equipment is a menace to the health, welfare and comfort of the people of the city and a cause of extensive damage to property. For the purpose of controlling and reducing air pollution, it is hereby declared to be the policy of the city to actively regulate and eliminate such emissions. The necessity for legislation by the enactment of the provisions of this chapter is hereby declared as a matter of legislative determination. This code shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the emergency powers of the board of health of the department of health and mental hygiene or the right of such department to engage in any of its necessary or proper activities.
 
 
 
@@ -23,7 +23,7 @@ Chapter 1: Air Pollution Control
 § 24-104 Definitions.  ::
 
 
-	When used in the New York city air pollution control code:
+When used in the New York city air pollution control code:
 
    "Air" means all the respirable gaseous mixture available for human, animal or plant respiration.
 
@@ -207,7 +207,7 @@ Chapter 1: Air Pollution Control
 § 24-105 General powers of the commissioner.  ::
 
 
-	(a)   Subject to the provisions of this code, the commissioner may take such action as may be necessary to control the emission of any air contaminant that causes or may cause, by itself or in combination with other air contaminants, detriment to the safety, health, welfare or comfort of the public or to a part thereof, injury to plant and animal life, or damage to property or business. The commissioner may exercise or delegate any of the functions, powers and duties vested in him or her or in the department by this code. The commissioner may adopt such rules, regulations and procedures as may be necessary to effectuate the purposes of this chapter, including rules, regulations and procedures to establish fees and to authorize and encourage the development and use of environmentally beneficial technologies.
+(a)   Subject to the provisions of this code, the commissioner may take such action as may be necessary to control the emission of any air contaminant that causes or may cause, by itself or in combination with other air contaminants, detriment to the safety, health, welfare or comfort of the public or to a part thereof, injury to plant and animal life, or damage to property or business. The commissioner may exercise or delegate any of the functions, powers and duties vested in him or her or in the department by this code. The commissioner may adopt such rules, regulations and procedures as may be necessary to effectuate the purposes of this chapter, including rules, regulations and procedures to establish fees and to authorize and encourage the development and use of environmentally beneficial technologies.
 
    (b)   The commissioner shall appoint an advisory committee, which shall include but need not be limited to representatives of the restaurant industry and related industries, representatives of the construction industry, representatives of the environmental protection and environmental justice communities, persons with expertise regarding the health effects of pollutants associated with cooking devices, and may include employees of the department and of other relevant city agencies. The city council may appoint a representative to serve on the committee. The committee shall provide advice and recommendations to the department relating to the development and use of emissions control technologies for commercial char broilers and shall assist the department in the development of rules regarding emissions control technologies. The commissioner shall consult with the committee regarding any proposed amendments of such rules. In the development of such rules the commissioner shall consider factors such as the availability and cost of proposed technologies.
 
@@ -219,7 +219,7 @@ Chapter 1: Air Pollution Control
 § 24-106 Investigations and studies by commissioner.  ::
 
 
-	The commissioner may make or cause to be made any investigation or study that in his or her opinion is desirable for the purpose of enforcing this code or controlling or reducing the amount or kind of air contaminants. For such purposes, the commissioner may make tests, conduct hearings, compel the attendance of witnesses, and take their testimony under oath and may compel the production of books, papers and other things reasonably necessary to the matter under consideration.
+The commissioner may make or cause to be made any investigation or study that in his or her opinion is desirable for the purpose of enforcing this code or controlling or reducing the amount or kind of air contaminants. For such purposes, the commissioner may make tests, conduct hearings, compel the attendance of witnesses, and take their testimony under oath and may compel the production of books, papers and other things reasonably necessary to the matter under consideration.
 
 
 
@@ -229,7 +229,7 @@ Chapter 1: Air Pollution Control
 § 24-107 Testing by order of commissioner.  ::
 
 
-	(a)   If the commissioner has reasonable cause to believe that any equipment or fuel is in violation of this code, the commissioner may order the owner of the equipment or fuel to conduct such tests as are necessary in the opinion of the commissioner to determine whether the equipment, its operation, or the fuel is in violation of this code, or whether material used in any manufacturing process is contributing to any violation of this code and to submit the test results to the commissioner within ten days after the tests are completed.
+(a)   If the commissioner has reasonable cause to believe that any equipment or fuel is in violation of this code, the commissioner may order the owner of the equipment or fuel to conduct such tests as are necessary in the opinion of the commissioner to determine whether the equipment, its operation, or the fuel is in violation of this code, or whether material used in any manufacturing process is contributing to any violation of this code and to submit the test results to the commissioner within ten days after the tests are completed.
 
    (b)   Such tests shall be conducted in a manner approved by the commissioner. The test shall be certified by a laboratory acceptable to the commissioner. The entire test results shall be reviewed and certified by a professional engineer.
 
@@ -247,7 +247,7 @@ Chapter 1: Air Pollution Control
 § 24-108 Inspection and samples.  ::
 
 
-	(a)    The department may inspect at any reasonable time and in a reasonable manner any equipment, apparatus, or fuel that affects or may affect the emission of an air contaminant including but not limited to the premises where the equipment, apparatus, or fuel is used, or where the fuel is stored, purchased, sold, or offered for sale for use in the city of New York.
+(a)    The department may inspect at any reasonable time and in a reasonable manner any equipment, apparatus, or fuel that affects or may affect the emission of an air contaminant including but not limited to the premises where the equipment, apparatus, or fuel is used, or where the fuel is stored, purchased, sold, or offered for sale for use in the city of New York.
 
    (b)    The department may inspect at any reasonable time and in a reasonable manner any record relating to a use of equipment or apparatus that affects or may affect the emission of an air contaminant, or relating to the use of fuel, or the distribution, storage or transportation of fuel for use in the city of New York.
 
@@ -267,7 +267,7 @@ Chapter 1: Air Pollution Control
 § 24-109 Registrations.  ::
 
 
-	(a)   No person shall cause or permit the following unless he or she has first registered with the department:
+(a)   No person shall cause or permit the following unless he or she has first registered with the department:
 
       (1)   The spraying of any insulating material in or upon any building or other structure during its construction, alteration or repair.
 
@@ -341,7 +341,7 @@ Chapter 1: Air Pollution Control
 § 24-110 Variances.  ::
 
 
-	(a)   The commissioner may grant individual variances whenever it is found, upon presentation of adequate proof, that compliance with any provision of this code, or with any regulation or order of the commissioner in respect to this code, would impose unreasonable hardship. In granting a variance the commissioner may impose such conditions as the policies of this code may require and shall post on the Internet, through a web portal that is linked to nyc.gov or any successor website maintained by or on behalf of the city of New York, no later than seven days after the granting of such variance, the variance and a written opinion, stating the facts and reasons leading to his or her decision.
+(a)   The commissioner may grant individual variances whenever it is found, upon presentation of adequate proof, that compliance with any provision of this code, or with any regulation or order of the commissioner in respect to this code, would impose unreasonable hardship. In granting a variance the commissioner may impose such conditions as the policies of this code may require and shall post on the Internet, through a web portal that is linked to nyc.gov or any successor website maintained by or on behalf of the city of New York, no later than seven days after the granting of such variance, the variance and a written opinion, stating the facts and reasons leading to his or her decision.
 
    (b)   Any variance granted pursuant to this section shall be granted for such period of time as shall be specified by the commissioner at the time of the grant of such variance and upon the condition that the person who receives such variance shall provide such documentation as the commissioner shall specify. Such variance may be extended by affirmative action of the commissioner, but only if satisfactory progress has been shown.
 
@@ -357,7 +357,7 @@ Chapter 1: Air Pollution Control
 § 24-111 Interfering with or obstructing departmental personnel.  ::
 
 
-	No person shall interfere with or obstruct any department employee in carrying out any official duty.
+No person shall interfere with or obstruct any department employee in carrying out any official duty.
 
 
 
@@ -367,7 +367,7 @@ Chapter 1: Air Pollution Control
 § 24-112 False and misleading statements; unlawful reproduction or alteration of documents.  ::
 
 
-	(a)   No person shall knowingly make a false or misleading statement or submit a false or misleading document to the department as to any matter within the jurisdiction of the department.
+(a)   No person shall knowingly make a false or misleading statement or submit a false or misleading document to the department as to any matter within the jurisdiction of the department.
 
    (b)   No person shall make, reproduce or alter or cause to be made, reproduced or altered a work permit, certificate of operation or other document issued by the commissioner or required by this code if the purpose of such reproduction or alteration is to evade or violate any provision of this code or any other law.
 
@@ -379,7 +379,7 @@ Chapter 1: Air Pollution Control
 § 24-113 Display of work permits, certificates of operation, registrations and other notices.  ::
 
 
-	Any work permit, certificate of operation or registration required by this code shall be prominently displayed in a manner visible to any person inspecting the equipment, and in the case of registration pursuant to section 24-109 of this code, shall be displayed in the vicinity of the premises designated on the registration.
+Any work permit, certificate of operation or registration required by this code shall be prominently displayed in a manner visible to any person inspecting the equipment, and in the case of registration pursuant to section 24-109 of this code, shall be displayed in the vicinity of the premises designated on the registration.
 
 
 
@@ -389,7 +389,7 @@ Chapter 1: Air Pollution Control
 § 24-114 Enforcement of this code by other than compulsory means.  ::
 
 
-	Nothing in this code shall prevent the commissioner from making efforts to obtain voluntary compliance by way of warning, notice or educational means. However, such non-compulsory methods need not be used before proceeding by way of compulsory enforcement.
+Nothing in this code shall prevent the commissioner from making efforts to obtain voluntary compliance by way of warning, notice or educational means. However, such non-compulsory methods need not be used before proceeding by way of compulsory enforcement.
 
 
 
@@ -397,7 +397,7 @@ Chapter 1: Air Pollution Control
 § 24-115 Service of papers.  ::
 
 
-	(a)   Service of any written notice, order or decision related to equipment as required by this code shall be made as follows:
+(a)   Service of any written notice, order or decision related to equipment as required by this code shall be made as follows:
 
       (1)   Either by mailing the notice, order or decision directed to the owner of the equipment at the address listed in his or her application, work permit or certificate of operation or at the address where the equipment is located; or
 
@@ -419,7 +419,7 @@ Chapter 1: Air Pollution Control
 § 24-116 Inconsistent provisions.  ::
 
 
-	Insofar as the provisions of this code are inconsistent with the provisions of any other title of the code, or any rule or regulation of any governmental agency of the city of New York, the provisions of this code shall be controlling.
+Insofar as the provisions of this code are inconsistent with the provisions of any other title of the code, or any rule or regulation of any governmental agency of the city of New York, the provisions of this code shall be controlling.
 
 
 
@@ -427,7 +427,7 @@ Chapter 1: Air Pollution Control
 § 24-116.1 Addition, modification and deletion of referenced standards. ::
 
 
-	The standards referenced in this code, including standards promulgated by ASTM International, may be added to, deleted or modified by rule of the department.
+The standards referenced in this code, including standards promulgated by ASTM International, may be added to, deleted or modified by rule of the department.
 
 
 
@@ -439,7 +439,7 @@ Chapter 1: Air Pollution Control
 § 24-117 Existing refuse burning equipment. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -447,7 +447,7 @@ Chapter 1: Air Pollution Control
 § 24-118 Installation of refuse burning equipment, municipal equipment, incinerators and crematoriums.  ::
 
 
-	No person shall cause or permit the installation of equipment designed to burn solid waste, as such term is defined in section 16-209 of the code, provided that the following equipment shall not be prohibited:
+No person shall cause or permit the installation of equipment designed to burn solid waste, as such term is defined in section 16-209 of the code, provided that the following equipment shall not be prohibited:
 
    (1)   An incinerator operated by any hospital, biological laboratory or other medical facility required to incinerate dressings, biological and obstetrical wastes, contagious and infectious materials, disposable syringes and needles, amputations, and other materials under any state or local laws, or rules or regulations promulgated thereunder; or
 
@@ -465,7 +465,7 @@ Chapter 1: Air Pollution Control
 § 24-119 Refuse compacting systems; multiple dwellings after May twentieth, nineteen hundred sixty-eight. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -473,7 +473,7 @@ Chapter 1: Air Pollution Control
 § 24-120 Installation and alteration; work permit required.  ::
 
 
-	No person shall cause or permit the installation or alteration of equipment or apparatus, except as provided in section 24-121 of this code, without first obtaining a work permit from the commissioner, and such other licenses or permits as may be required by other governmental agencies and departments.
+No person shall cause or permit the installation or alteration of equipment or apparatus, except as provided in section 24-121 of this code, without first obtaining a work permit from the commissioner, and such other licenses or permits as may be required by other governmental agencies and departments.
 
 
 
@@ -483,7 +483,7 @@ Chapter 1: Air Pollution Control
 § 24-121 Work permits, exemptions.  ::
 
 
-	(a)   A work permit shall not be required for the installation or alteration of the following equipment or apparatus:
+(a)   A work permit shall not be required for the installation or alteration of the following equipment or apparatus:
 
       (1)   Air conditioning, ventilating, or exhaust systems not designed to remove air contaminants generated by or released from equipment or exhaust systems for controlling steam and heat.
 
@@ -543,7 +543,7 @@ Chapter 1: Air Pollution Control
 § 24-122 Certificates of operation and renewal of certificates of operation; when required.  ::
 
 
-	(a)   No person shall cause or permit the use or operation of equipment or apparatus for which a work permit is required without first obtaining a certificate of operation from the commissioner, except the use or operation for the purpose of testing the equipment or apparatus or for the purpose of testing an experimental installation or alteration for a reasonable period of time, as follows:
+(a)   No person shall cause or permit the use or operation of equipment or apparatus for which a work permit is required without first obtaining a certificate of operation from the commissioner, except the use or operation for the purpose of testing the equipment or apparatus or for the purpose of testing an experimental installation or alteration for a reasonable period of time, as follows:
 
       (1)   Testing of the equipment, apparatus, or experimental installation or alteration is permitted for an initial period of thirty days beginning upon notification to the department of a start date.
 
@@ -573,7 +573,7 @@ Chapter 1: Air Pollution Control
 § 24-123 General requirements for applications for work permits, certificates of operation, and renewal of certificates of operation.  ::
 
 
-	(a)   Application for a work permit, for a certificate of operation or for the renewal of a certificate of operation shall be made by the owner of the equipment or apparatus on forms furnished by the department. If the applicant is a partnership or group other than a corporation, the application shall be signed by one individual who is a member of the group. If the applicant is a corporation, the application shall be signed by an officer of the corporation.
+(a)   Application for a work permit, for a certificate of operation or for the renewal of a certificate of operation shall be made by the owner of the equipment or apparatus on forms furnished by the department. If the applicant is a partnership or group other than a corporation, the application shall be signed by one individual who is a member of the group. If the applicant is a corporation, the application shall be signed by an officer of the corporation.
 
    (b)   A separate application is required for each unit of equipment or apparatus, unless identical units of equipment or apparatus are to be installed, altered or operated in an identical manner in the same building.
 
@@ -593,7 +593,7 @@ Chapter 1: Air Pollution Control
 § 24-124 Information required for applications for permits, sulfur exemption certificates. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -601,7 +601,7 @@ Chapter 1: Air Pollution Control
 § 24-125 Standards for granting work permits.  ::
 
 
-	(a)   Except as provided in section 24-126 of this code, no work permit shall be granted unless the applicant certifies to the satisfaction of the commissioner that:
+(a)   Except as provided in section 24-126 of this code, no work permit shall be granted unless the applicant certifies to the satisfaction of the commissioner that:
 
       (1)   The equipment is designed and will be installed or altered to operate in accordance with the provisions of this code and with any applicable rules the commissioner may promulgate pursuant to this code;
 
@@ -637,7 +637,7 @@ Chapter 1: Air Pollution Control
 § 24-126 Conditional approval of experimental installations and alterations.  ::
 
 
-	The commissioner may grant a work permit, or an alternative form of approval, for an experimental installation or alteration on conditional approval if it appears likely from all of the information submitted that the installation or alteration when completed may satisfy the standards of section 24-125 of this code. The work permit shall be valid for a period not to exceed three years.
+The commissioner may grant a work permit, or an alternative form of approval, for an experimental installation or alteration on conditional approval if it appears likely from all of the information submitted that the installation or alteration when completed may satisfy the standards of section 24-125 of this code. The work permit shall be valid for a period not to exceed three years.
 
 
 
@@ -647,7 +647,7 @@ Chapter 1: Air Pollution Control
 § 24-127 Expiration of work permits.  ::
 
 
-	(a)   In newly constructed buildings, a work permit shall expire if the installation is not completed within one year from the date of issuance of the work permit or if work on the installation under the work permit is suspended for more than ninety days.
+(a)   In newly constructed buildings, a work permit shall expire if the installation is not completed within one year from the date of issuance of the work permit or if work on the installation under the work permit is suspended for more than ninety days.
 
    (b)   In existing buildings, a work permit shall expire if the installation or alteration is not begun within ninety days from the date of issuance of the work permit or if the work of the installation or alteration is suspended for more than thirty days or if the installation or alteration is not completed within six months.
 
@@ -663,7 +663,7 @@ Chapter 1: Air Pollution Control
 § 24-128 Standards for granting or renewing certificates of operation.  ::
 
 
-	(a)   No initial certificate of operation shall be granted for the use or operation of equipment or apparatus for which a work permit is required unless the applicant first requests an inspection by the department to certify that the equipment or apparatus is installed in accordance with the work permit and operates in accordance with this code. Such inspection shall include testing as set forth in subdivision (a) of section 24-129 of this code.
+(a)   No initial certificate of operation shall be granted for the use or operation of equipment or apparatus for which a work permit is required unless the applicant first requests an inspection by the department to certify that the equipment or apparatus is installed in accordance with the work permit and operates in accordance with this code. Such inspection shall include testing as set forth in subdivision (a) of section 24-129 of this code.
 
    (b)   No certificate of operation shall be granted or renewed for the use or operation of equipment or apparatus unless the applicant shows to the satisfaction of the commissioner that the equipment or apparatus covered by such certificate of operation satisfies the standards established in the code or by rules or regulations promulgated thereunder in effect on the date of the issuance of the original certificate of operation.
 
@@ -679,7 +679,7 @@ Chapter 1: Air Pollution Control
 § 24-129 Testing before granting or renewing of certificates of operation.  ::
 
 
-	(a)   A certificate of operation shall not be granted or renewed unless the equipment passes such tests as the commissioner may require by rule. The commissioner may require the applicant to conduct such tests. A failing test result shall result in disapproval.
+(a)   A certificate of operation shall not be granted or renewed unless the equipment passes such tests as the commissioner may require by rule. The commissioner may require the applicant to conduct such tests. A failing test result shall result in disapproval.
 
    (b)   If in the opinion of the commissioner tests by the department are necessary, the facilities for such tests, exclusive of sampling and sensory devices, shall be furnished by and at the expense of the owner or lessee or his or her agent as provided by subdivision (d) of section 24-107 of this code.
 
@@ -691,7 +691,7 @@ Chapter 1: Air Pollution Control
 § 24-130 Action on applications for work permits and certificates of operation.  ::
 
 
-	(a)   The commissioner shall act within a reasonable time not to exceed forty-five days on an application for a work permit or certificate of operation, or for a renewal of a certificate of operation, and shall notify the applicant in writing of his or her approval or disapproval of the application.
+(a)   The commissioner shall act within a reasonable time not to exceed forty-five days on an application for a work permit or certificate of operation, or for a renewal of a certificate of operation, and shall notify the applicant in writing of his or her approval or disapproval of the application.
 
    (b)   If an application is disapproved, the commissioner shall set forth his or her objections in the notice of disapproval.
 
@@ -709,7 +709,7 @@ Chapter 1: Air Pollution Control
 § 24-131 Conditions of work permits and certificates of operation to be observed.  ::
 
 
-	The holder of a work permit or certificate of operation shall comply with the conditions and terms contained in the work permit or in the certificate of operation.
+The holder of a work permit or certificate of operation shall comply with the conditions and terms contained in the work permit or in the certificate of operation.
 
 
 
@@ -719,7 +719,7 @@ Chapter 1: Air Pollution Control
 § 24-132 Suspension or revocation of work permits and certificates of operation.  ::
 
 
-	(a)   The commissioner shall suspend or revoke a work permit or certificate of operation when ordered to do so by the board pursuant to subchapter nine of this code.
+(a)   The commissioner shall suspend or revoke a work permit or certificate of operation when ordered to do so by the board pursuant to subchapter nine of this code.
 
    (b)   Suspension or revocation of a work permit or certificate of operation shall become final five days after service of notice on the holder of the work permit or certificate of operation.
 
@@ -731,7 +731,7 @@ Chapter 1: Air Pollution Control
 § 24-133 Denial of permits and certificates; departmental hearing, stay of action. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -739,7 +739,7 @@ Chapter 1: Air Pollution Control
 § 24-134 Surrender of work permits and certificates of operation.  ::
 
 
-	A work permit or certificate of operation that has been cancelled or revoked pursuant to this code shall be surrendered to the commissioner within five business days of receipt of the notice of revocation.
+A work permit or certificate of operation that has been cancelled or revoked pursuant to this code shall be surrendered to the commissioner within five business days of receipt of the notice of revocation.
 
 
 
@@ -749,7 +749,7 @@ Chapter 1: Air Pollution Control
 § 24-135 Transfer of work permits and certificates of operation.  ::
 
 
-	(a)   A work permit shall not be transferred, except to the new property owner upon conveyance of the property. If the new owner employs a different registered design professional, that registered design professional shall recertify the application.
+(a)   A work permit shall not be transferred, except to the new property owner upon conveyance of the property. If the new owner employs a different registered design professional, that registered design professional shall recertify the application.
 
    (b)   A certificate of operation shall not be transferred, except to the new property owner upon conveyance of the property.
 
@@ -761,7 +761,7 @@ Chapter 1: Air Pollution Control
 § 24-136 Asbestos work.  ::
 
 
-	(a)   The purpose of this subchapter is to protect public health and safety and the environment by minimizing the emission of asbestos fibers into the air of the city when buildings or structures that contain asbestos-containing material are renovated, altered, repaired, or demolished.
+(a)   The purpose of this subchapter is to protect public health and safety and the environment by minimizing the emission of asbestos fibers into the air of the city when buildings or structures that contain asbestos-containing material are renovated, altered, repaired, or demolished.
 
    (b)   For purposes of this section, the following terms shall have the following meanings:
 
@@ -843,7 +843,7 @@ Editor's note: this section formerly was codified as § 24-146.1 of subchapter 6
 § 24-137 Enforcement of the labor law. ::
 
 
-	Pursuant to subdivision two of section nine hundred ten of the labor law, the commissioner shall have all the powers and responsibility of the commissioner of labor in enforcing the provisions of article thirty of the labor law and the rules and regulations adopted thereunder; provided, however, that the civil penalties authorized pursuant to subdivisions one and two of section nine hundred nine of such law shall be imposed by the environmental control board after a hearing in accordance with the rules of the board.
+Pursuant to subdivision two of section nine hundred ten of the labor law, the commissioner shall have all the powers and responsibility of the commissioner of labor in enforcing the provisions of article thirty of the labor law and the rules and regulations adopted thereunder; provided, however, that the civil penalties authorized pursuant to subdivisions one and two of section nine hundred nine of such law shall be imposed by the environmental control board after a hearing in accordance with the rules of the board.
 
 Editor's note: this section formerly was codified as § 24-146.2 of subchapter 6 of this chapter.
 
@@ -855,7 +855,7 @@ Editor's note: this section formerly was codified as § 24-146.2 of subchapter 6
 § 24-138 Asbestos abatement permit. ::
 
 
-	(a)   The commissioner shall establish a permit requirement for asbestos projects affecting the safety of a building. On and after a date to be provided in the rules establishing such a permit requirement, it shall be unlawful to commence or engage in such a project unless the commissioner has issued an abatement permit for such project.
+(a)   The commissioner shall establish a permit requirement for asbestos projects affecting the safety of a building. On and after a date to be provided in the rules establishing such a permit requirement, it shall be unlawful to commence or engage in such a project unless the commissioner has issued an abatement permit for such project.
 
    (b)   The rules shall be adopted in consultation with the fire commissioner and the commissioner of buildings and shall specify criteria for the issuance of such permits and requirements to enhance safety at the site of such projects. The criteria for the permit requirement shall include, but shall not be limited to, the effect of the project on the maintenance of the means of egress in the building in compliance with applicable provisions of the New York city construction codes, the New York city fire code and other applicable provisions of law, the effect of the project on the fire protection systems of the building and whether the project includes work performed only for the purpose of the asbestos project that may otherwise require a work permit from the department of buildings, such as but not limited to alteration work necessary to expose asbestos material for removal to the extent that such work would otherwise require a work permit pursuant to title 28 of the administrative code.
 
@@ -879,7 +879,7 @@ Editor's note: this section formerly was codified as § 24-146.3 of subchapter 6
 § 24-139 Smoking at abatement sites. ::
 
 
-	(a)   Smoking shall not be permitted on any floor of a building where abatement activities, as defined in the rules of the department relating to asbestos control, are taking place.
+(a)   Smoking shall not be permitted on any floor of a building where abatement activities, as defined in the rules of the department relating to asbestos control, are taking place.
 
    (b)   Tobacco shall not be permitted inside the work place, as such area is defined in the rules of the department relating to asbestos control.
 
@@ -895,7 +895,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-140 Spraying of asbestos prohibited.  ::
 
 
-	No person shall cause or permit the spraying of any substance containing asbestos in or upon a building or other structure during its construction, alteration or repair.
+No person shall cause or permit the spraying of any substance containing asbestos in or upon a building or other structure during its construction, alteration or repair.
 
 
 
@@ -905,7 +905,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-141 Emission of odorous air contaminants.  ::
 
 
-	No person shall cause or permit the emission of an odorous air contaminant or steam or water vapor, if the air contaminant or steam or water vapor causes or may cause detriment to the health, safety, welfare or comfort of any person, or injury to plant and animal life, or causes or may cause damage to property or business, or if it reacts or is likely to react with any other air contaminant or natural air, or is induced to react by solar energy to produce a solid, liquid or gas or any combination thereof which causes or may cause detriment to the health, safety, welfare or comfort of any person, or injury to plant and animal life, or which causes or may cause damage to property or business.
+No person shall cause or permit the emission of an odorous air contaminant or steam or water vapor, if the air contaminant or steam or water vapor causes or may cause detriment to the health, safety, welfare or comfort of any person, or injury to plant and animal life, or causes or may cause damage to property or business, or if it reacts or is likely to react with any other air contaminant or natural air, or is induced to react by solar energy to produce a solid, liquid or gas or any combination thereof which causes or may cause detriment to the health, safety, welfare or comfort of any person, or injury to plant and animal life, or which causes or may cause damage to property or business.
 
 
 
@@ -915,7 +915,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-142 Emission of air contaminants; standard smoke chart.  ::
 
 
-	(a)   No person shall cause or permit the emission of an air contaminant of:
+(a)   No person shall cause or permit the emission of an air contaminant of:
 
       (1)   A density which appears as dark or darker than number two on the standard smoke chart or of an opacity which obscures vision to a degree equal to or greater than smoke of number two density on the standard smoke chart; or
 
@@ -937,7 +937,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-143 Emission of air contaminant from internal combustion engine; visibility standard.  ::
 
 
-	No person shall cause or permit the emission of a visible air contaminant from the internal combustion engine of:
+No person shall cause or permit the emission of a visible air contaminant from the internal combustion engine of:
 
    (a)   A motor vehicle while the vehicle is stationary for longer than ten consecutive seconds; or
 
@@ -953,7 +953,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-144 Emission of air contaminant; sulfur compounds; volume standard. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -961,7 +961,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-145 Emission of particulates.  ::
 
 
-	(a)   Refuse burning equipment.
+(a)   Refuse burning equipment.
 
       (1)   Refuse burning equipment used at a crematorium that is covered by subpart 219-4 of part two-hundred nineteen of title six of the New York codes, rules and regulations, must meet the emission limits for particulates set forth in section 219-4.3 of such title.
 
@@ -985,7 +985,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-146 Preventing dust from becoming air-borne; spraying of insulating material and demolition regulated.  ::
 
 
-	(a)   The purpose of this section is to protect public health and safety and the environment by minimizing the emission of dust into the air of the city.
+(a)   The purpose of this section is to protect public health and safety and the environment by minimizing the emission of dust into the air of the city.
 
    (b)   No person shall cause or permit any material that may generate dust to be transported or stored without taking such precautions as may be ordered by the commissioner or as established by the rules of the department to prevent dust from becoming air-borne.
 
@@ -1019,7 +1019,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-146.1 Asbestos work. [Renumbered.] ::
 
 
-	(a)   No person shall cause or permit the use or operation of fuel burning equipment that is covered by subpart 227-2 of part two hundred twenty-seven of title six of the New York codes, rules and regulations in a manner inconsistent with the requirements regarding emission limits for nitrogen oxides set forth in such subpart.
+(a)   No person shall cause or permit the use or operation of fuel burning equipment that is covered by subpart 227-2 of part two hundred twenty-seven of title six of the New York codes, rules and regulations in a manner inconsistent with the requirements regarding emission limits for nitrogen oxides set forth in such subpart.
 
    (b)   The commissioner may establish rules regulating nitrogen oxides emissions from boilers not regulated under subpart 227-2 of part two hundred twenty-seven of title six of the New York codes, rules and regulations.
 
@@ -1031,7 +1031,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-148 Architectural coatings; solvents.  ::
 
 
-	No person shall use an architectural coating that is covered by part two hundred five of title six of the New York codes, rules and regulations unless such architectural coating is in compliance with the volatile organic compound limits set forth in section 205.3 of such part.
+No person shall use an architectural coating that is covered by part two hundred five of title six of the New York codes, rules and regulations unless such architectural coating is in compliance with the volatile organic compound limits set forth in section 205.3 of such part.
 
 
 
@@ -1041,7 +1041,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-149 Open fires prohibited; exceptions.  ::
 
 
-	No person shall cause or permit the kindling, maintenance or use of any open fire so as to cause the emission of an air contaminant into the open air, except as provided herein:
+No person shall cause or permit the kindling, maintenance or use of any open fire so as to cause the emission of an air contaminant into the open air, except as provided herein:
 
    a.   Where such fires are allowed by any other law, rule or regulation, outdoor residential picnic and barbecue fires in equipment with a total grate area not exceeding ten square feet and designed to utilize charcoal, or equipped with gas burners;
 
@@ -1059,7 +1059,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-149.1 Outdoor wood boilers.  ::
 
 
-	(a)   No person shall burn any fuel in an outdoor wood boiler except clean wood, provided that newspaper or other non-glossy, non-colored paper may be used as starter fuel.
+(a)   No person shall burn any fuel in an outdoor wood boiler except clean wood, provided that newspaper or other non-glossy, non-colored paper may be used as starter fuel.
 
    (b)   No person shall operate an outdoor wood boiler so as to cause an emission that (1) activates a smoke detector on an adjoining property; (2) impairs visibility on a public street or highway; or (3) causes a visible plume that comes into contact with a building on an adjacent property.
 
@@ -1081,7 +1081,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-149.2 Fireplaces.  ::
 
 
-	(a)   Definitions. As used in this section:
+(a)   Definitions. As used in this section:
 
       "Existing fireplace" means a fireplace that has been installed before the effective date of the local law that added this section.
 
@@ -1105,7 +1105,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-149.3 Wood burning heaters.  ::
 
 
-	(a)   No person shall operate any wood burning heater as a primary source of heat, unless the source that normally supplies heat to the building in accordance with applicable state or local law is inoperable due to a fire, explosion, loss of power to the building or natural disaster including, without limitation, earthquakes, floods, winds, or storms, or as otherwise permitted by the rules of the department.
+(a)   No person shall operate any wood burning heater as a primary source of heat, unless the source that normally supplies heat to the building in accordance with applicable state or local law is inoperable due to a fire, explosion, loss of power to the building or natural disaster including, without limitation, earthquakes, floods, winds, or storms, or as otherwise permitted by the rules of the department.
 
    (b)   No person shall operate any wood burning heater unless it (i) is operated solely on renewable fuel, as such term is defined in this code or as otherwise defined by the rules of the department for the purposes of implementing this subdivision, and (ii) complies with 40 CFR part 60.
 
@@ -1117,7 +1117,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-149.4 Commercial char broilers.  ::
 
 
-	(a)   Definitions. As used in this section:
+(a)   Definitions. As used in this section:
 
       "New" means installed on or after the effective date of the local law that added this section.
 
@@ -1145,7 +1145,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-149.5 Cook stoves.  ::
 
 
-	(a)   Definitions. As used in this section:
+(a)   Definitions. As used in this section:
 
       "New" means installed on or after the effective date of the local law that added this section.
 
@@ -1163,7 +1163,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-149.6 Stationary engines.  ::
 
 
-	(a)   Any stationary reciprocating compression ignition internal combustion engine that is required to obtain a certificate of operation pursuant to section 24-122 of this code for the first time on or after January 1, 2018, shall be equipped with an engine certified to the tier four emissions standards established by the United States environmental protection agency as set forth in 40 CFR § 60.4201 or to any subsequent United States environmental protection agency emissions standard for such engine that is at least as stringent.
+(a)   Any stationary reciprocating compression ignition internal combustion engine that is required to obtain a certificate of operation pursuant to section 24-122 of this code for the first time on or after January 1, 2018, shall be equipped with an engine certified to the tier four emissions standards established by the United States environmental protection agency as set forth in 40 CFR § 60.4201 or to any subsequent United States environmental protection agency emissions standard for such engine that is at least as stringent.
 
    (b)   On or after January 1, 2025, the certificate of operation for a stationary reciprocating compression ignition internal combustion engine will be renewed only if the owner or operator of such engine can demonstrate in accordance with department rules that the engine meets the tier four emissions standards established by the United States environmental protection agency as set forth in 40 CFR § 60.4201 or any subsequent United States environmental protection agency emissions standard for such engine that is at least as stringent.
 
@@ -1179,7 +1179,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-150 Smoking prohibited. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -1187,7 +1187,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-150.1 Smoking at abatement sites. [Renumbered.] ::
 
 
-	(a)   No person shall cause or permit the installation or use of any device or use of any means which, without resulting in a reduction in the total amount of air contaminant emitted, conceals an emission of the air contaminant which would otherwise violate subchapter six of this code.
+(a)   No person shall cause or permit the installation or use of any device or use of any means which, without resulting in a reduction in the total amount of air contaminant emitted, conceals an emission of the air contaminant which would otherwise violate subchapter six of this code.
 
    (b)   No person shall cause or permit the installation or use of any device or use of any means designed to mask the emission of an air contaminant which causes or may cause detriment to the health, safety or welfare of any person.
 
@@ -1197,7 +1197,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-152 Malfunctions, breakdowns, and removal from service; emergency action plan.  ::
 
 
-	(a)   If any control apparatus required by this code is or will be inoperative for more than six hours, the commissioner shall be provided with a repair and resumption schedule for his or her approval by the owner of the equipment.
+(a)   If any control apparatus required by this code is or will be inoperative for more than six hours, the commissioner shall be provided with a repair and resumption schedule for his or her approval by the owner of the equipment.
 
    (b)   Whenever the emission of an air contaminant, which emission constitutes a violation of any provision of this code, occurs as a result of, malfunction, breakdown or removal from service of equipment or apparatus, the owner of the equipment from which the emission of an air contaminant occurs shall report the emission of the air contaminant and its attendant circumstances to the commissioner not later than thirty minutes from its discovery. The report shall be confirmed in writing, in a form prescribed by the commissioner not later than three days thereafter.
 
@@ -1215,7 +1215,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-153 Emissions of air contaminant; environmental ratings.  ::
 
 
-	(a)   No person shall cause, permit or allow the emission of an air contaminant from any equipment used in a process covered by part two hundred twelve of title six of the New York codes, rules and regulations where such emission exceeds the permissible emission rates specified in the environmental ratings for process emissions sources as set forth in such part.
+(a)   No person shall cause, permit or allow the emission of an air contaminant from any equipment used in a process covered by part two hundred twelve of title six of the New York codes, rules and regulations where such emission exceeds the permissible emission rates specified in the environmental ratings for process emissions sources as set forth in such part.
 
    (b)   The provisions of this section shall not be construed to allow or permit any person to emit an air contaminant in quantities which alone or in combination with other sources would contravene any air quality standards.
 
@@ -1231,7 +1231,7 @@ Editor's note: this section formerly was codified as § 24-150.1 of subchapter 6
 § 24-154 Mold abatement and remediation work for certain buildings. ::
 
 
-	a.   As used in this section, the terms “mold abatement,” “mold assessment” and “mold remediation” shall have the meanings ascribed to such terms in section 930 of the labor law; the term “dwelling unit” shall have the meaning ascribed to such term in the housing maintenance code; the terms “floor area” and “zoning lot” shall have the meaning ascribed to such terms in the New York city zoning resolution and:
+a.   As used in this section, the terms “mold abatement,” “mold assessment” and “mold remediation” shall have the meanings ascribed to such terms in section 930 of the labor law; the term “dwelling unit” shall have the meaning ascribed to such term in the housing maintenance code; the terms “floor area” and “zoning lot” shall have the meaning ascribed to such terms in the New York city zoning resolution and:
 
       Administering agency. The term “administering agency” means the agency or agencies designated by the mayor pursuant to subdivision f to administer and enforce the provisions of this section.
 
@@ -1311,7 +1311,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-155 Maintenance of equipment and apparatus.  ::
 
 
-	The owner of equipment and apparatus shall maintain such equipment and apparatus in good operating order by regular inspection and cleaning and by promptly making repairs.
+The owner of equipment and apparatus shall maintain such equipment and apparatus in good operating order by regular inspection and cleaning and by promptly making repairs.
 
 
 
@@ -1319,7 +1319,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-156 Use of fuel burning equipment without using apparatus prohibited.  ::
 
 
-	(a)   Except as provided in subdivision (b) of this section, no person shall cause or permit the use of fuel burning equipment that is fitted with apparatus, other than experimental apparatus, unless the required apparatus is used.
+(a)   Except as provided in subdivision (b) of this section, no person shall cause or permit the use of fuel burning equipment that is fitted with apparatus, other than experimental apparatus, unless the required apparatus is used.
 
    (b)   If fuel burning equipment is fitted with apparatus and is designed to use more than one kind of fuel, the equipment shall not be used unless the apparatus appropriate for the particular fuel is used.
 
@@ -1331,7 +1331,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-157 Use of fuel burning equipment using bituminous coal without control apparatus prohibited. [Repealed]  ::
 
 
-	
+
 
 
 
@@ -1339,7 +1339,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-159 Use of less than fully automatic equipment using fuel oil and use of any fuel burning equipment using residual fuel oil; supervision by licensed person.  ::
 
 
-	No person shall cause or permit the use of fuel burning equipment that uses fuel oil and is less than fully automatic, or the use of fuel burning equipment, whether fully automatic or not, that uses residual fuel oil, except under the direct supervision of a person having a certificate of fitness pursuant to section FC 113 of the New York City Fire Code.
+No person shall cause or permit the use of fuel burning equipment that uses fuel oil and is less than fully automatic, or the use of fuel burning equipment, whether fully automatic or not, that uses residual fuel oil, except under the direct supervision of a person having a certificate of fitness pursuant to section FC 113 of the New York City Fire Code.
 
 
 
@@ -1349,7 +1349,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-160 Use of air contaminant recorder; boilers.  ::
 
 
-	No owner of a boiler with a capacity of five hundred million Btu per hour or more shall operate it without the installation and operation of an air contaminant recorder.
+No owner of a boiler with a capacity of five hundred million Btu per hour or more shall operate it without the installation and operation of an air contaminant recorder.
 
 
 
@@ -1357,7 +1357,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-161 Use of fuel burning equipment using residual fuel oil; operation and supervision by trained person.  ::
 
 
-	(a)   No person shall cause or permit the use of fuel burning equipment using residual fuel oil, except under the operation and supervision of a person who has successfully completed a course of instruction in air pollution control approved by the commissioner.
+(a)   No person shall cause or permit the use of fuel burning equipment using residual fuel oil, except under the operation and supervision of a person who has successfully completed a course of instruction in air pollution control approved by the commissioner.
 
    (b)   The commissioner may approve courses of instruction maintained by educational institutions, by industry, or by labor organizations.
 
@@ -1371,7 +1371,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-162 Operation of refuse burning equipment, other than municipal; time restriction. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -1379,7 +1379,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163 Operation of motor vehicle; idling of engine restricted.  ::
 
 
-	(a)   No person shall cause or permit the engine of a motor vehicle, other than a legally authorized emergency motor vehicle, to idle for longer than three minutes, except as provided in subdivision (f) of this section, while parking as defined in section one hundred twenty-nine of the vehicle and traffic law, standing as defined in section one hundred forty-five of the vehicle and traffic law, or stopping as defined in section one hundred forty-seven of the vehicle and traffic law, unless the engine is used to operate a loading, unloading or processing device. When the ambient temperature is in excess of forty degrees Fahrenheit, no person shall cause or permit the engine of a bus as defined in section one hundred four of the vehicle and traffic law to idle while parking, standing, or stopping (as defined above) at any terminal point, whether or not enclosed, along an established route.
+(a)   No person shall cause or permit the engine of a motor vehicle, other than a legally authorized emergency motor vehicle, to idle for longer than three minutes, except as provided in subdivision (f) of this section, while parking as defined in section one hundred twenty-nine of the vehicle and traffic law, standing as defined in section one hundred forty-five of the vehicle and traffic law, or stopping as defined in section one hundred forty-seven of the vehicle and traffic law, unless the engine is used to operate a loading, unloading or processing device. When the ambient temperature is in excess of forty degrees Fahrenheit, no person shall cause or permit the engine of a bus as defined in section one hundred four of the vehicle and traffic law to idle while parking, standing, or stopping (as defined above) at any terminal point, whether or not enclosed, along an established route.
 
    (b)   The department of transportation shall post signs relating to prohibited idling that shall comply with the standards set forth in the Manual on Uniform Traffic Control Devices and, where practicable, include the maximum penalty that may be imposed for a violation of subdivision a of this section as follows:
 
@@ -1413,7 +1413,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.1 Purchase of cleaner light-duty and medium-duty vehicles.  ::
 
 
-	a.   Definitions. When used in this section or in section 24-163.2 of this chapter:
+a.   Definitions. When used in this section or in section 24-163.2 of this chapter:
 
       "Alternative fuel" means natural gas, liquefied petroleum gas, hydrogen, electricity, and any other fuel which is at least eighty-five percent, singly or in combination, methanol, ethanol, any other alcohol or ether.
 
@@ -1523,7 +1523,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.2 Alternative fuel buses and sanitation vehicles.  ::
 
 
-	a.   Definitions. When used in this section:
+a.   Definitions. When used in this section:
 
       "Alternative fuel bus" means a bus that is operated using solely an alternative fuel or is operated using solely an alternative fuel in combination with gasoline or diesel fuel, and shall not include bi-fuel motor vehicles.
 
@@ -1575,7 +1575,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.3 Use of ultra low sulfur diesel fuel and best available technology in nonroad vehicles.  ::
 
 
-	a.   For purposes of this section only, the following terms shall have the following meanings:
+a.   For purposes of this section only, the following terms shall have the following meanings:
 
       "Contractor" means any person or entity that enters into a public works contract with a city agency, or any person or entity that enters into an agreement with such person or entity, to perform work or provide labor or services related to such public works contract.
 
@@ -1647,7 +1647,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.4 Use of ultra low sulfur diesel fuel and best available retrofit technology by the city's diesel fuel-powered motor vehicles.  ::
 
 
-	a.   Definitions. When used in this section:
+a.   Definitions. When used in this section:
 
       "Best available retrofit technology" means technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in subdivision d of this section, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
 
@@ -1737,7 +1737,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.5 Use of ultra low sulfur diesel fuel and best available retrofit technology in the fulfillment of solid waste contracts and recyclable materials contracts.  ::
 
 
-	a.   Definitions. When used in this section:
+a.   Definitions. When used in this section:
 
       "Best available retrofit technology" means technology, verified by the United States environmental protection agency or the California air resources board unless as otherwise deemed appropriate by the commissioner for a nonroad vehicle, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in subdivision d of this section, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
 
@@ -1815,7 +1815,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.6 Use of best available retrofit technology by sight-seeing buses.  ::
 
 
-	a.   Definitions. When used in this section:
+a.   Definitions. When used in this section:
 
       "Best available retrofit technology" means technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in subdivision d of this section, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
 
@@ -1859,7 +1859,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.7 Use of ultra low sulfur diesel fuel and best available retrofit technology in school bus transportation.  ::
 
 
-	a.   Definitions. For the purposes of this section only, the following terms shall have the following meanings:
+a.   Definitions. For the purposes of this section only, the following terms shall have the following meanings:
 
       "Best available retrofit technology" means technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in subdivision e of this section, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
 
@@ -1929,7 +1929,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.8 Use of ultra low sulfur diesel fuel in diesel-powered generators used in the production of films, television programs and advertisements, and at street fairs.  ::
 
 
-	a.   Definitions. When used in this chapter:
+a.   Definitions. When used in this chapter:
 
       "Alternative fuel" means a fuel, other than gasoline or standard diesel fuel, which may be used to power a generator subject to the provisions of this section so long as the respective quantities of each pollutant emitted by such generator when operated using such fuel do not exceed the respective quantities of each pollutant emitted when such generator is operated using ultra low sulfur diesel fuel.
 
@@ -1949,7 +1949,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.9 Retrofitting, age limitations and fuel use of diesel fuel-powered school buses.  ::
 
 
-	a.   Definitions. For the purposes of this section only, the following terms shall have the following meanings:
+a.   Definitions. For the purposes of this section only, the following terms shall have the following meanings:
 
       "Department of education" means the New York city department of education, formerly known as the New York city board of education, and any successor agency or entity thereto, the expenses of which are paid in whole or in part from the city treasury.
 
@@ -2013,7 +2013,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.10 Use of auxiliary power units in ambulances.  ::
 
 
-	a.   When used in this section, "auxiliary power unit" means a device located on or in a vehicle that supplies cooling, heating and electrical power to such vehicle while the vehicle's engine is turned off. Not later than January 1, 2014, the fire department shall develop and implement a pilot project for a period of not less than one year to ascertain the benefits and reliability of utilizing auxiliary power units in ambulances operated by the city of New York. Such pilot project shall employ auxiliary power units to power the ambulance's electrical load, diagnostic devices, ancillary electrical equipment, tools and cabin temperature without the need to engage the engine or use another source of power.
+a.   When used in this section, "auxiliary power unit" means a device located on or in a vehicle that supplies cooling, heating and electrical power to such vehicle while the vehicle's engine is turned off. Not later than January 1, 2014, the fire department shall develop and implement a pilot project for a period of not less than one year to ascertain the benefits and reliability of utilizing auxiliary power units in ambulances operated by the city of New York. Such pilot project shall employ auxiliary power units to power the ambulance's electrical load, diagnostic devices, ancillary electrical equipment, tools and cabin temperature without the need to engage the engine or use another source of power.
 
    b.   Not later than July 1, 2015, the fire department shall submit a report to the mayor and the speaker of the council detailing the findings of such pilot project, including but not limited to data on actual reduction in vehicular emissions, and a cost-benefit analysis for equipping the entire ambulance fleet with auxiliary power units.
 
@@ -2025,7 +2025,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.11 Trade waste vehicles.  ::
 
 
-	a.   Definitions. When used in this section:
+a.   Definitions. When used in this section:
 
       "Best available retrofit technology" means technology verified by the United States environmental protection agency or the California air resources board for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies that is applicable to a particular engine and application that has been approved for use by the commissioner.
 
@@ -2061,7 +2061,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-163.12 Mobile food vending units.  ::
 
 
-	Any mobile food vending unit that is equipped with an auxiliary engine that meets applicable tier four emissions standards established by the United States environmental protection agency as set forth in 40 CFR § 1039.101 or any subsequent United States environmental protection agency emissions standard for such engine that is at least as stringent, or that uses an alternative fuel, as defined by the rules of the department, shall be entitled to a waiver of any fee established by the department for the registration of such engine pursuant to section 24-109 of the code, so long as the engine is installed within eighteen months after the effective date of this section. The waiver of such fee shall remain in effect for twelve years or for the duration of the life of the engine, whichever is shorter, provided that the engine is registered with the department. Failure to renew prior to the expiration date of the registration shall result in the revocation of the fee waiver.
+Any mobile food vending unit that is equipped with an auxiliary engine that meets applicable tier four emissions standards established by the United States environmental protection agency as set forth in 40 CFR § 1039.101 or any subsequent United States environmental protection agency emissions standard for such engine that is at least as stringent, or that uses an alternative fuel, as defined by the rules of the department, shall be entitled to a waiver of any fee established by the department for the registration of such engine pursuant to section 24-109 of the code, so long as the engine is installed within eighteen months after the effective date of this section. The waiver of such fee shall remain in effect for twelve years or for the duration of the life of the engine, whichever is shorter, provided that the engine is registered with the department. Failure to renew prior to the expiration date of the registration shall result in the revocation of the fee waiver.
 
 
 
@@ -2071,7 +2071,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-164 Operation of soot blower of vessels prohibited.  ::
 
 
-	No person shall cause or permit the soot blower of a vessel, other than a vessel which travels only in waters within the jurisdiction of the city of New York, to operate while the vessel is within the waters of the city.
+No person shall cause or permit the soot blower of a vessel, other than a vessel which travels only in waters within the jurisdiction of the city of New York, to operate while the vessel is within the waters of the city.
 
 
 
@@ -2079,7 +2079,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-165 Use of air contaminant detectors and recorders.  ::
 
 
-	(a)   Whenever the use of an air contaminant detector is required by this code, the air contaminant detector must automatically cause both an audible signal sufficiently loud to be heard by a person of normal hearing twenty feet from the detector and a readily visible flashing red light upon the emission of an air contaminant of a density which appears darker than number one on the standard smoke chart, or of an opacity which obscures vision to a degree greater than smoke of number one density on the standard smoke chart.
+(a)   Whenever the use of an air contaminant detector is required by this code, the air contaminant detector must automatically cause both an audible signal sufficiently loud to be heard by a person of normal hearing twenty feet from the detector and a readily visible flashing red light upon the emission of an air contaminant of a density which appears darker than number one on the standard smoke chart, or of an opacity which obscures vision to a degree greater than smoke of number one density on the standard smoke chart.
 
    (b)   The signaling devices of the air contaminant detector shall also be located at the principal work location of the person supervising the equipment.
 
@@ -2105,7 +2105,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-166 Use of combustion shutoff; halting of emission of air contaminant.  ::
 
 
-	(a)   Whenever the use of a combustion shutoff is required by this code or by the commissioner, the combustion shutoff must automatically halt the operation of fuel burning equipment using fuel oil within two minutes after the emission of an air contaminant of a density which appears darker than number one on the standard smoke chart, or of an opacity which obscures vision to a degree greater than smoke of number one density on the standard smoke chart.
+(a)   Whenever the use of a combustion shutoff is required by this code or by the commissioner, the combustion shutoff must automatically halt the operation of fuel burning equipment using fuel oil within two minutes after the emission of an air contaminant of a density which appears darker than number one on the standard smoke chart, or of an opacity which obscures vision to a degree greater than smoke of number one density on the standard smoke chart.
 
    (b)   No person shall cause or permit the resumption of the normal operation of the fuel burning equipment whose operation was halted by a combustion shutoff until the equipment operates in accordance with the standards of this code.
 
@@ -2117,7 +2117,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-167 Improper use of equipment or apparatus prohibited.  ::
 
 
-	No person shall use or permit the use of equipment or apparatus for a purpose or in a manner which causes it to function improperly or not in accordance with its design. Nothing in this section shall be construed to prohibit the use of bioheating fuel in equipment that may be adapted for such use.
+No person shall use or permit the use of equipment or apparatus for a purpose or in a manner which causes it to function improperly or not in accordance with its design. Nothing in this section shall be construed to prohibit the use of bioheating fuel in equipment that may be adapted for such use.
 
 
 
@@ -2125,7 +2125,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-168 Use of proper fuel in fuel burning equipment.  ::
 
 
-	(a)   No person shall cause or permit the use of a kind or grade of fuel in fuel burning equipment that is not designed to burn that kind or grade of fuel. Nothing in this subdivision shall be construed to prohibit the use of bioheating fuel in fuel burning equipment that is adapted for such use.
+(a)   No person shall cause or permit the use of a kind or grade of fuel in fuel burning equipment that is not designed to burn that kind or grade of fuel. Nothing in this subdivision shall be construed to prohibit the use of bioheating fuel in fuel burning equipment that is adapted for such use.
 
    (b)   No person shall cause or permit the burning of refuse material in fuel burning equipment unless the equipment is designed to burn refuse material.
 
@@ -2145,7 +2145,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-168.1 Clean heating oil.  ::
 
 
-	(a)   Definitions. For the purpose of this section, the following terms shall have the following meanings:
+(a)   Definitions. For the purpose of this section, the following terms shall have the following meanings:
 
       District steam system. The term "district steam system" means a system for the production of steam and for its transmission and distribution through underground pipelines to multiple buildings.
 
@@ -2261,7 +2261,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-169 Sulfur content of fuel restricted.  ::
 
 
-	Except for ocean-going vessels engaged in international or interstate trade, no person shall cause or permit the use, or if intended for use in the city of New York, the purchase, sale, offer for sale, storage or transportation of:
+Except for ocean-going vessels engaged in international or interstate trade, no person shall cause or permit the use, or if intended for use in the city of New York, the purchase, sale, offer for sale, storage or transportation of:
 
    (a)   Fuel oil grade no. 2 that contains more than the amount of sulfur set forth in section 19-0325 of the environmental conservation law or as provided by an executive order of the governor issued pursuant to such section.
 
@@ -2281,7 +2281,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-170 Reporting of fuel supplies. [Repealed.]  ::
 
 
-	
+
 
 
 
@@ -2289,7 +2289,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-171 Sulfur exemption certificates. [Repealed.]  ::
 
 
-	
+
 
 
 
@@ -2297,7 +2297,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-172 Volatile content of solid fuel restricted. [Repealed.]  ::
 
 
-	
+
 
 
 
@@ -2305,7 +2305,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-173 Use of coal.  ::
 
 
-	(a)   No person shall cause or permit the use of any type of coal in fuel burning equipment, except for the use of anthracite coal in one of the following:
+(a)   No person shall cause or permit the use of any type of coal in fuel burning equipment, except for the use of anthracite coal in one of the following:
 
       (1)   in the generation of electricity for utilities; or
 
@@ -2319,7 +2319,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-174 Lead content of gasoline restricted. [Repealed.]  ::
 
 
-	
+
 
 
 
@@ -2327,7 +2327,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-175 Volatility limits on gasoline. [Repealed.]  ::
 
 
-	
+
 
 
 
@@ -2335,7 +2335,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-176 Fuel information ticket required for shipment or delivery of fuel into the city of New York.  ::
 
 
-	No person shall cause or permit the shipment or delivery of fuel into the city of New York for use in the city without first reporting the shipment or delivery on a form prescribed by the department to be known as a fuel information ticket. A fuel information ticket shall not be required for fuel shipped into the city of New York in the engine fuel tank of a motor vehicle. A shipment or delivery includes any sale or non-sale transaction, or any transaction between shipper and recipient who are identical.
+No person shall cause or permit the shipment or delivery of fuel into the city of New York for use in the city without first reporting the shipment or delivery on a form prescribed by the department to be known as a fuel information ticket. A fuel information ticket shall not be required for fuel shipped into the city of New York in the engine fuel tank of a motor vehicle. A shipment or delivery includes any sale or non-sale transaction, or any transaction between shipper and recipient who are identical.
 
 
 
@@ -2345,7 +2345,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-177 General requirements for fuel information tickets.  ::
 
 
-	(a)   Each fuel information ticket shall contain the following statement signed by the shipper of the fuel: "I hereby attest that I have shipped to the recipient named hereon the fuel specified in this ticket."
+(a)   Each fuel information ticket shall contain the following statement signed by the shipper of the fuel: "I hereby attest that I have shipped to the recipient named hereon the fuel specified in this ticket."
 
    (b)   Copies of the fuel information ticket required to be retained by the shipper of fuel by subdivision (c) of this section shall be kept at the shipper's place of business. The copy of the fuel information ticket required to be retained by the recipient of the fuel by subdivision (c) of this section shall be kept at his or her place of business or at the place where the delivery was received.
 
@@ -2363,7 +2363,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 § 24-178 Powers of the board.  ::
 
 
-	(a)   The board may, upon notice pursuant to this chapter, and after a hearing pursuant to the rules of the board:
+(a)   The board may, upon notice pursuant to this chapter, and after a hearing pursuant to the rules of the board:
 
       (1)   Order the commissioner to seal any equipment or apparatus which causes or is maintained or operated so as to cause a violation of any provision of this code or order or rule promulgated by the commissioner or the board, except as provided in subdivision (b) of this section;
 
@@ -2377,7 +2377,7 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
 ~
 
@@ -2387,174 +2387,174 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - TABLE OF CIVIL PENALTIES
- * - Violation
- - Minimum
- - Maximum
- * - 24-108
- - $200
- - $800
- * - 24-109(a)(1)-(2)
- - 800
- - 3,200
- * - 24-109(a)(3)-(17)
- - 400
- - 1,600
- * - 24-109(f)
- - 400
- - 1,600
- * - 24-109(g)
- - 400
- - 1,600
- * - 24-111
- - 400
- - 1,600
- * - 24-112
- - 400
- - 1,600
- * - 24-113
- - 200
- - 800
- * - 24-118
- - 1,600
- - 6,400
- * - 24-120
- - 800
- - 3,200
- * - 24-122
- - 800
- - 3,200
- * - 24-123(d)
- - 800
- - 3,200
- * - 24-131
- - 200
- - 800
- * - 24-136
- - 1,000
- - 15,000
- * - 24-138
- - 1,000
- - 15,000
- * - 24-139
- - 1,600
- - 6,400
- * - 24-141
- - 400
- - 1,600
- * - 24-142
- - 400
- - 1,600
- * - 24-143
- - 200
- - 800
- * - 24-143.1
- - 200
- - 800
- * - 24-145
- - 800
- - 3,200
- * - 24-146(b)-(d)
- - 400
- - 1,600
- * - 24-146(e)-(f)
- - 800
- - 3,200
- * - 24-147
- - 800
- - 3,200
- * - 24-148
- - 800
- - 3,200
- * - 24-149
- - 200
- - 800
- * - 24-149.1
- - 400
- - 1,600
- * - 24-149.2
- - 400
- - 1,600
- * - 24-149.3
- - 400
- - 1,600
- * - 24-149.4
- - 800
- - 3,200
- * - 24-149.5
- - 400
- - 1,600
- * - 24-151
- - 800
- - 3,200
- * - 24-152
- - 200
- - 800
- * - 24-153
- - 800
- - 3,200
- * - 24-155
- - 400
- - 1,600
- * - 24-156
- - 400
- - 1,600
- * - 24-159
- - 200
- - 800
- * - 24-160
- - 400
- - 1,600
- * - 24-161
- - 200
- - 800
- * - 24-163
- - 350
- - 2,000
- * - 24-163.3, 24-163.5, 24-163.6, 24-163.7, 24-163.9
- - 1,000 1
- - 1,000 1
- * - 24-163.8
- - 500
- - 500
- * - 24-163.11
- - 0
- - 10,000 2
- * - 24-164
- - 400
- - 1,600
- * - 24-165
- - 0
- - 1,600
- * - 24-166
- - 0
- - 875
- * - 24-167
- - 200
- - 800
- * - 24-168
- - 800
- - 3,200
- * - 24-168.1
- - 800
- - 3,200
- * - 24-169
- - 1,600
- - 6,400
- * - 24-173
- - 1,600
- - 6,400
- * - 24-176
- - 200
- - 800
- * - 24-177
- - 200
- - 800
- * - All other sections, subdivisions and paragraphs of this chapter
- - 400
- - 1,600
+    * - TABLE OF CIVIL PENALTIES
+    * - Violation
+      - Minimum
+      - Maximum
+    * - 24-108
+      - $200
+      - $800
+    * - 24-109(a)(1)-(2)
+      - 800
+      - 3,200
+    * - 24-109(a)(3)-(17)
+      - 400
+      - 1,600
+    * - 24-109(f)
+      - 400
+      - 1,600
+    * - 24-109(g)
+      - 400
+      - 1,600
+    * - 24-111
+      - 400
+      - 1,600
+    * - 24-112
+      - 400
+      - 1,600
+    * - 24-113
+      - 200
+      - 800
+    * - 24-118
+      - 1,600
+      - 6,400
+    * - 24-120
+      - 800
+      - 3,200
+    * - 24-122
+      - 800
+      - 3,200
+    * - 24-123(d)
+      - 800
+      - 3,200
+    * - 24-131
+      - 200
+      - 800
+    * - 24-136
+      - 1,000
+      - 15,000
+    * - 24-138
+      - 1,000
+      - 15,000
+    * - 24-139
+      - 1,600
+      - 6,400
+    * - 24-141
+      - 400
+      - 1,600
+    * - 24-142
+      - 400
+      - 1,600
+    * - 24-143
+      - 200
+      - 800
+    * - 24-143.1
+      - 200
+      - 800
+    * - 24-145
+      - 800
+      - 3,200
+    * - 24-146(b)-(d)
+      - 400
+      - 1,600
+    * - 24-146(e)-(f)
+      - 800
+      - 3,200
+    * - 24-147
+      - 800
+      - 3,200
+    * - 24-148
+      - 800
+      - 3,200
+    * - 24-149
+      - 200
+      - 800
+    * - 24-149.1
+      - 400
+      - 1,600
+    * - 24-149.2
+      - 400
+      - 1,600
+    * - 24-149.3
+      - 400
+      - 1,600
+    * - 24-149.4
+      - 800
+      - 3,200
+    * - 24-149.5
+      - 400
+      - 1,600
+    * - 24-151
+      - 800
+      - 3,200
+    * - 24-152
+      - 200
+      - 800
+    * - 24-153
+      - 800
+      - 3,200
+    * - 24-155
+      - 400
+      - 1,600
+    * - 24-156
+      - 400
+      - 1,600
+    * - 24-159
+      - 200
+      - 800
+    * - 24-160
+      - 400
+      - 1,600
+    * - 24-161
+      - 200
+      - 800
+    * - 24-163
+      - 350
+      - 2,000
+    * - 24-163.3, 24-163.5, 24-163.6, 24-163.7, 24-163.9
+      - 1,000 1
+      - 1,000 1
+    * - 24-163.8
+      - 500
+      - 500
+    * - 24-163.11
+      - 0
+      - 10,000 2
+    * - 24-164
+      - 400
+      - 1,600
+    * - 24-165
+      - 0
+      - 1,600
+    * - 24-166
+      - 0
+      - 875
+    * - 24-167
+      - 200
+      - 800
+    * - 24-168
+      - 800
+      - 3,200
+    * - 24-168.1
+      - 800
+      - 3,200
+    * - 24-169
+      - 1,600
+      - 6,400
+    * - 24-173
+      - 1,600
+      - 6,400
+    * - 24-176
+      - 200
+      - 800
+    * - 24-177
+      - 200
+      - 800
+    * - All other sections, subdivisions and paragraphs of this chapter
+      - 400
+      - 1,600
 ~
 
  
@@ -2594,7 +2594,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-179 The board. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -2602,7 +2602,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-180 Notice of violation.  ::
 
 
-	(a)   Notice, required by this subchapter, shall be given by issuance of a notice of violation.
+(a)   Notice, required by this subchapter, shall be given by issuance of a notice of violation.
 
    (b)   Whenever the commissioner has reasonable cause to believe that a violation of any provision of this code or any order or rule promulgated thereunder may exist, he or she may cause to have a notice of violation issued and served on:
 
@@ -2620,7 +2620,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-181 Written response. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -2628,7 +2628,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-182 Citizen's complaint.  ::
 
 
-	(a)   Any natural person, other than personnel of the department and other employees of the city of New York authorized by law to serve summonses for violations of the code, may serve upon the department a complaint, in a form prescribed by the department, alleging that a person has violated any provision of this code or order or regulation promulgated by the commissioner or the board, except with respect to sections 24-143 and 24-163 of this code, but still applicable to buses as defined in section one hundred four of the vehicle and traffic law and trucks as defined in section one hundred fifty eight of the vehicle and traffic law, together with evidence of such violation. With respect to section 24-142 of this code, only such person who has been certified as a smoke watcher, by passing a course of smoke observation approved by the department within three years prior to the observation, may serve such complaint.
+(a)   Any natural person, other than personnel of the department and other employees of the city of New York authorized by law to serve summonses for violations of the code, may serve upon the department a complaint, in a form prescribed by the department, alleging that a person has violated any provision of this code or order or regulation promulgated by the commissioner or the board, except with respect to sections 24-143 and 24-163 of this code, but still applicable to buses as defined in section one hundred four of the vehicle and traffic law and trucks as defined in section one hundred fifty eight of the vehicle and traffic law, together with evidence of such violation. With respect to section 24-142 of this code, only such person who has been certified as a smoke watcher, by passing a course of smoke observation approved by the department within three years prior to the observation, may serve such complaint.
 
    (b)   A person who has served a complaint pursuant to subdivision (a) of this section may serve upon the person allegedly in violation, and file with the office of administrative trials and hearings pursuant to section 1049-a of the charter, a notice of violation in a form prescribed by such office within forty-five days from service of such complaint if:
 
@@ -2652,7 +2652,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-183 Adjudication, settlement and settlement by stipulation. ::
 
 
-	The adjudication, settlement or settlement by stipulation of any notice of violation issued pursuant to this subchapter shall be in accordance with section 1049-a of the New York city charter and the applicable rules of the board.
+The adjudication, settlement or settlement by stipulation of any notice of violation issued pursuant to this subchapter shall be in accordance with section 1049-a of the New York city charter and the applicable rules of the board.
 
 
 
@@ -2662,7 +2662,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-184 Hearings. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -2670,7 +2670,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-185 Default; vacating a default order. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -2678,7 +2678,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-186 Hearing officer's decision. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -2686,7 +2686,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-187 Board decision and order. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -2694,7 +2694,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-188 Compliance with board decisions; orders and civil penalties. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -2702,7 +2702,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-189 Procedural rules.  ::
 
 
-	The board shall have authority from time to time to make, amend, and rescind such procedural rules as may be necessary to carry out the provisions of this subchapter.
+The board shall have authority from time to time to make, amend, and rescind such procedural rules as may be necessary to carry out the provisions of this subchapter.
 
 
 
@@ -2710,7 +2710,7 @@ Editor's note: this section was repealed and re-enacted by L.L. 2015/038.
 § 24-190 Criminal penalties; fines and imprisonment.  ::
 
 
-	(a)   Any person who shall knowingly make a false statement or who shall knowingly falsify or allow to be falsified any certification, registration, form, signed statement, application or report required under the provisions of this code or regulation promulgated by the commissioner or the board shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than one hundred dollars, nor more than one thousand dollars, or by imprisonment not to exceed five months, or both.
+(a)   Any person who shall knowingly make a false statement or who shall knowingly falsify or allow to be falsified any certification, registration, form, signed statement, application or report required under the provisions of this code or regulation promulgated by the commissioner or the board shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than one hundred dollars, nor more than one thousand dollars, or by imprisonment not to exceed five months, or both.
 
    (b)   Any person, other than a corporation, who violates any order of the commissioner or the board or any provision of section 24-120, 24-122 or 24-146 of this code or who illegally breaks a seal on equipment, upon conviction shall be punished for each offense by a fine of not less than fifty dollars nor more than five hundred dollars or by imprisonment for not more than thirty days or by both. Any corporation which violates any order of the commissioner or the board or any provision of section 24-120, 24-122 or 24-146 of this code, or which illegally causes a seal to be broken, upon conviction shall be punished for each offense by a fine of not less than one hundred dollars nor more than two thousand dollars. Every day during which such violation occurs constitutes a separate offense.
 
@@ -2734,7 +2734,7 @@ Chapter 2: Noise Control
 § 24-201 Short title.  ::
 
 
-	This chapter shall be known and may be cited as the New York city noise control code.
+This chapter shall be known and may be cited as the New York city noise control code.
 
 
 
@@ -2742,7 +2742,7 @@ Chapter 2: Noise Control
 § 24-202 Declaration of policy.  ::
 
 
-	It is hereby declared to be the public policy of the city to reduce the ambient sound level in the city, so as to preserve, protect and promote the public health, safety and welfare, and the peace and quiet of the inhabitants of the city, prevent injury to human, plant and animal life and property, foster the convenience and comfort of its inhabitants, and facilitate the enjoyment of the natural attractions of the city. It is the public policy of the city that every person is entitled to ambient sound levels that are not detrimental to life, health and enjoyment of his or her property. It is hereby declared that the making, creation or maintenance of excessive and unreasonable noises within the city affects and is a menace to public health, comfort, convenience, safety, welfare and the prosperity of the people of the city. For the purpose of controlling and reducing such noises, it is hereby declared to be the policy of the city to set the unreasonable and prohibited noise standards and decibel levels contained herein and to consolidate certain of its noise control legislation into this code. The necessity for legislation by enactment of the provisions of this chapter is hereby declared as matter of legislative determination. This code shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the emergency powers of the board of health or the right of the department of health and mental hygiene to engage in any of its necessary or proper activities. It is the intent of the council that the police department as well as other agencies of the city designated by the commissioner of the department of environmental protection shall have the authority to enforce the provisions of this code and police officers and designated employees of the department of environmental protection and of such other city agencies shall have the power to issue summonses, appearance tickets and notices of violation for violations of this code.
+It is hereby declared to be the public policy of the city to reduce the ambient sound level in the city, so as to preserve, protect and promote the public health, safety and welfare, and the peace and quiet of the inhabitants of the city, prevent injury to human, plant and animal life and property, foster the convenience and comfort of its inhabitants, and facilitate the enjoyment of the natural attractions of the city. It is the public policy of the city that every person is entitled to ambient sound levels that are not detrimental to life, health and enjoyment of his or her property. It is hereby declared that the making, creation or maintenance of excessive and unreasonable noises within the city affects and is a menace to public health, comfort, convenience, safety, welfare and the prosperity of the people of the city. For the purpose of controlling and reducing such noises, it is hereby declared to be the policy of the city to set the unreasonable and prohibited noise standards and decibel levels contained herein and to consolidate certain of its noise control legislation into this code. The necessity for legislation by enactment of the provisions of this chapter is hereby declared as matter of legislative determination. This code shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the emergency powers of the board of health or the right of the department of health and mental hygiene to engage in any of its necessary or proper activities. It is the intent of the council that the police department as well as other agencies of the city designated by the commissioner of the department of environmental protection shall have the authority to enforce the provisions of this code and police officers and designated employees of the department of environmental protection and of such other city agencies shall have the power to issue summonses, appearance tickets and notices of violation for violations of this code.
 
 
 
@@ -2750,7 +2750,7 @@ Chapter 2: Noise Control
 § 24-203 General definitions.  ::
 
 
-	When used in the New York city noise control code the following terms shall have the following meanings:
+When used in the New York city noise control code the following terms shall have the following meanings:
 
    (1)   A" level means the sound level as measured with a sound level meter using the "A" weighting network. The unit of measurement is the dB(A). This frequency weighting network for the measurement of sound levels shall comply with standards established by the American National Standards Institute specifications for sound level meters S1.4-1971, as amended or S1.4-1983, as amended.
 
@@ -2884,7 +2884,7 @@ Chapter 2: Noise Control
 § 24-204 General powers of the commissioner.  ::
 
 
-	(a)   Subject to the provisions of this code, the commissioner may take such action as may be necessary to abate a sound source which causes or may cause, by itself or in combination with any other sound source or sources, an unreasonable or prohibited noise. The commissioner may exercise or delegate any of the functions, powers and duties vested in him or her or in the department by this code.
+(a)   Subject to the provisions of this code, the commissioner may take such action as may be necessary to abate a sound source which causes or may cause, by itself or in combination with any other sound source or sources, an unreasonable or prohibited noise. The commissioner may exercise or delegate any of the functions, powers and duties vested in him or her or in the department by this code.
 
    (b)   The commissioner shall promulgate such rules as are necessary to effectuate the purposes of this code, including, without limitation, rules setting forth specifications for the operation, installation, best available technology, or manufacture of sound generating equipment or devices, or sound mitigation equipment or devices.
 
@@ -2898,7 +2898,7 @@ Chapter 2: Noise Control
 § 24-205 Investigations and studies by the commissioner.  ::
 
 
-	(a)   The commissioner may make or cause to be made any investigation or study which in his or her opinion is desirable for the purpose of enforcing this code or controlling or abating an unreasonable or prohibited noise. For such purposes, the commissioner may make tests, conduct hearings, compel the attendance of witnesses, and take their testimony under oath and may compel the production of books, papers and other things reasonably necessary to the matter under consideration.
+(a)   The commissioner may make or cause to be made any investigation or study which in his or her opinion is desirable for the purpose of enforcing this code or controlling or abating an unreasonable or prohibited noise. For such purposes, the commissioner may make tests, conduct hearings, compel the attendance of witnesses, and take their testimony under oath and may compel the production of books, papers and other things reasonably necessary to the matter under consideration.
 
    (b)   The commissioner shall study and propose strategies to control and/or reduce sound levels associated with airports, rapid transit and railroad operations and within twenty-four months of the effective date of this section shall report to the mayor his or her findings and recommendations, specifically identifying those recommendations that may only be implemented through state or federal legislation or rules.
 
@@ -2914,7 +2914,7 @@ Chapter 2: Noise Control
 § 24-206 Testing by order of the commissioner.  ::
 
 
-	(a)   If the commissioner has reasonable cause to believe that any device is in violation of this code, the commissioner may order the owner of the device to conduct such tests as are necessary in the opinion of the commissioner to determine whether the device or its operation is in violation of this code and to submit the test results to the commissioner within ten days after the tests are completed.
+(a)   If the commissioner has reasonable cause to believe that any device is in violation of this code, the commissioner may order the owner of the device to conduct such tests as are necessary in the opinion of the commissioner to determine whether the device or its operation is in violation of this code and to submit the test results to the commissioner within ten days after the tests are completed.
 
    (b)   Such tests shall be conducted in a manner approved by the commissioner. If any part of the test is conducted at a place other than the site where the device is located, that part of the test shall be certified by a laboratory acceptable to the commissioner. The commissioner may require that the entire test results shall be reviewed and certified by (i) a professional engineer with acoustical experience as specified in the rules of the department or (ii) a noise consultant with qualifications of education and/or acoustical experience as set forth in the rules of the department.
 
@@ -2930,7 +2930,7 @@ Chapter 2: Noise Control
 § 24-207 Inspection.  ::
 
 
-	(a)   The department may inspect at any reasonable time and in a reasonable manner any device which creates or may create unreasonable or prohibited noise including but not limited to the premises where the device is used.
+(a)   The department may inspect at any reasonable time and in a reasonable manner any device which creates or may create unreasonable or prohibited noise including but not limited to the premises where the device is used.
 
    (b)   The department may inspect at any reasonable time and in a reasonable manner any record relating to a use of a device which creates or may create unreasonable or prohibited noise.
 
@@ -2972,7 +2972,7 @@ Chapter 2: Noise Control
 § 24-208 Registrations.  ::
 
 
-	(a)   The commissioner may require the written registration of air compressors, paving breakers, refuse compacting vehicles and rapid transit railroads, including but not limited to its rolling stock, track and trackbeds, passenger stations, circulation devices rated 300,000 BTUs or higher, tunnels, elevated structures, yards, depots and garages. A period of sixty days shall be allowed for the filing of such registration measured from the date such registration is required by the commissioner or with respect to devices installed after such requirement is instituted measured from the date of installation. However, in cases of emergency, the commissioner may designate a shorter period of time.
+(a)   The commissioner may require the written registration of air compressors, paving breakers, refuse compacting vehicles and rapid transit railroads, including but not limited to its rolling stock, track and trackbeds, passenger stations, circulation devices rated 300,000 BTUs or higher, tunnels, elevated structures, yards, depots and garages. A period of sixty days shall be allowed for the filing of such registration measured from the date such registration is required by the commissioner or with respect to devices installed after such requirement is instituted measured from the date of installation. However, in cases of emergency, the commissioner may designate a shorter period of time.
 
    (b)   Registration shall be made on forms furnished by the department. The forms may require information concerning the device covered by the registration, the sound level caused by the device or any additional information required by the commissioner for the purpose of enforcing this code. The registrant shall maintain the registration in current status by notifying the department of any change in any item of information furnished in compliance with this subdivision within a reasonable time not exceeding thirty days after the change is made.
 
@@ -2984,7 +2984,7 @@ Chapter 2: Noise Control
 § 24-209 Interfering with or obstructing department personnel.  ::
 
 
-	No person shall interfere with or obstruct the commissioner or any department employee in carrying out any duty for the commissioner or the board.
+No person shall interfere with or obstruct the commissioner or any department employee in carrying out any duty for the commissioner or the board.
 
 
 
@@ -2992,7 +2992,7 @@ Chapter 2: Noise Control
 § 24-210 False and misleading statements; unlawful reproduction or alteration of documents.  ::
 
 
-	(a)   No person shall knowingly make a false or misleading statement or submit a false or misleading document to the department as to any matter within the jurisdiction of the department.
+(a)   No person shall knowingly make a false or misleading statement or submit a false or misleading document to the department as to any matter within the jurisdiction of the department.
 
    (b)   No person shall make, reproduce or alter or cause to be made, reproduced or altered a tunneling permit, certificate or other document issued by the commissioner or required by this code if the purpose of such reproduction or alteration is to evade or violate any provision of this code or any other law.
 
@@ -3002,7 +3002,7 @@ Chapter 2: Noise Control
 § 24-211 Display of permits and certificates.  ::
 
 
-	Any tunneling permit or certificate required by this code shall be displayed in the vicinity of the device on the premises designated on the tunneling permit or certificate or in the vicinity of the place where the device will be operated or supervised.
+Any tunneling permit or certificate required by this code shall be displayed in the vicinity of the device on the premises designated on the tunneling permit or certificate or in the vicinity of the place where the device will be operated or supervised.
 
 
 
@@ -3010,7 +3010,7 @@ Chapter 2: Noise Control
 § 24-212 Enforcement of code by other than compulsory means.  ::
 
 
-	Nothing in this code shall prevent the commissioner from making efforts to obtain voluntary compliance by way of warning, notice or educational means. However, such noncompulsory methods need not be used before proceeding by way of compulsory enforcement.
+Nothing in this code shall prevent the commissioner from making efforts to obtain voluntary compliance by way of warning, notice or educational means. However, such noncompulsory methods need not be used before proceeding by way of compulsory enforcement.
 
 
 
@@ -3018,7 +3018,7 @@ Chapter 2: Noise Control
 § 24-213 Service of papers.  ::
 
 
-	(a)   Service of any written notice, order or decision required by this code shall be made on the owner as follows:
+(a)   Service of any written notice, order or decision required by this code shall be made on the owner as follows:
 
       (1)   Either by mailing the notice, order or decision directed to the owner of the device at the address listed in his or her application, tunneling permit or operating certificate or at the address where the device is located; or
 
@@ -3042,7 +3042,7 @@ Chapter 2: Noise Control
 § 24-214 Inconsistent provisions.  ::
 
 
-	Insofar as the provisions of this code are inconsistent with any provision of any other title of the code, or any rule or regulation of any governmental agency of the city of New York, the provisions of this code shall be controlling.
+Insofar as the provisions of this code are inconsistent with any provision of any other title of the code, or any rule or regulation of any governmental agency of the city of New York, the provisions of this code shall be controlling.
 
 
 
@@ -3050,7 +3050,7 @@ Chapter 2: Noise Control
 § 24-216 Noise abatement contract compliance.  ::
 
 
-	(a)   (1)   Contract. As used in this section, the term "contract" means any written agreement, purchase order or instrument whereby the city is committed to expend or does expend funds authorized by the capital budget of the city of New York in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing; however, the term "contract" shall not include:
+(a)   (1)   Contract. As used in this section, the term "contract" means any written agreement, purchase order or instrument whereby the city is committed to expend or does expend funds authorized by the capital budget of the city of New York in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing; however, the term "contract" shall not include:
 
          (i)   contracts for financial or other assistance made with a government;
 
@@ -3078,7 +3078,7 @@ Chapter 2: Noise Control
 § 24-217 Exemptions.  ::
 
 
-	The provisions of this code shall not apply to the operation or use of any organ, bell, chimes or other similar instrument from on or within any church, synagogue, mosque or other house of worship.
+The provisions of this code shall not apply to the operation or use of any organ, bell, chimes or other similar instrument from on or within any church, synagogue, mosque or other house of worship.
 
 
 
@@ -3086,7 +3086,7 @@ Chapter 2: Noise Control
 § 24-217.1 Measurements.  ::
 
 
-	Unless otherwise specifically provided, all sound level measurements under this code shall be taken in Lmax with the sound level meter set to slow response.
+Unless otherwise specifically provided, all sound level measurements under this code shall be taken in Lmax with the sound level meter set to slow response.
 
 
 
@@ -3094,7 +3094,7 @@ Chapter 2: Noise Control
 § 24-218 General prohibitions.  ::
 
 
-	(a)   No person shall make, continue or cause or permit to be made or continued any unreasonable noise.
+(a)   No person shall make, continue or cause or permit to be made or continued any unreasonable noise.
 
    (a-1)   No person shall make, continue or cause to permit or be made or continued any unreasonable noise:
 
@@ -3124,7 +3124,7 @@ Chapter 2: Noise Control
 § 24-218.1 Use of mobile telephones restricted in a place of public performance.  ::
 
 
-	a.   Definitions. For purposes of this section:
+a.   Definitions. For purposes of this section:
 
       (1)   The term "mobile telephone" shall mean a cellular, analog, wireless, digital or other similar telephone or communications device, which can be used to access two-way real time voice telecommunications service that is interconnected to a public switched telephone network and is provided by a commercial mobile radio service, as such term is defined by 47 CFR § 20.3.
 
@@ -3148,7 +3148,7 @@ Chapter 2: Noise Control
 § 24-219 Noise mitigation rules.  ::
 
 
-	(a)   The commissioner shall adopt rules prescribing noise mitigation strategies, methods, procedures and technology that shall be used where construction is occurring at any location (sites) whenever any one or more of the construction devices or activities listed below are employed or performed:
+(a)   The commissioner shall adopt rules prescribing noise mitigation strategies, methods, procedures and technology that shall be used where construction is occurring at any location (sites) whenever any one or more of the construction devices or activities listed below are employed or performed:
 
       (1)   air compressors.
 
@@ -3216,7 +3216,7 @@ Chapter 2: Noise Control
 § 24-220 Noise mitigation plan.  ::
 
 
-	(a)   Each person, corporation or other business entity performing construction work in the city shall adopt and implement a noise mitigation plan for each construction site in accordance with the provisions of this subchapter and such rules whenever any one or more of the construction devices or activities listed above or in the department's rules are employed or performed at the site.
+(a)   Each person, corporation or other business entity performing construction work in the city shall adopt and implement a noise mitigation plan for each construction site in accordance with the provisions of this subchapter and such rules whenever any one or more of the construction devices or activities listed above or in the department's rules are employed or performed at the site.
 
    (b)   Such plan shall be adopted prior to the commencement of construction at the site or, with respect to emergency work, as defined in the department's rules, within three days thereafter, and shall apply to all work at the site throughout the construction process. The plan shall provide in detail the noise mitigation strategies, methods, procedures and technology, as prescribed in the rules of the department or specifically approved by the commissioner in accordance with section 24-221 of this code, for each device or activity employed or performed at the site. Each permit holder or other person in charge of such construction site will be accountable for compliance with such rules and shall ensure that each person performing construction work at the site shall be aware of the plan and shall be responsible for complying with those provisions that affect his or her work.
 
@@ -3236,7 +3236,7 @@ Chapter 2: Noise Control
 § 24-221 Alternative noise mitigation plan.  ::
 
 
-	(a)   Upon application, the commissioner may approve an alternative noise mitigation plan for a particular construction site that deviates from strict compliance with the noise mitigation rules. Application for approval of such plan shall be electronically submitted to the department at least ten business days prior to the commencement of construction or as soon as practicable but no later than 24 hours prior to the commencement of construction in a form and manner and accompanied by such information and documentation as shall be set forth in the rules of the department. An application for approval may be submitted after the commencement of construction if an application includes a showing that all reasonable available mitigation measures have been implemented since the commencement of construction but aggregate sound levels from the site exceed or are reasonably anticipated to exceed one or more of the applicable limits in this chapter.
+(a)   Upon application, the commissioner may approve an alternative noise mitigation plan for a particular construction site that deviates from strict compliance with the noise mitigation rules. Application for approval of such plan shall be electronically submitted to the department at least ten business days prior to the commencement of construction or as soon as practicable but no later than 24 hours prior to the commencement of construction in a form and manner and accompanied by such information and documentation as shall be set forth in the rules of the department. An application for approval may be submitted after the commencement of construction if an application includes a showing that all reasonable available mitigation measures have been implemented since the commencement of construction but aggregate sound levels from the site exceed or are reasonably anticipated to exceed one or more of the applicable limits in this chapter.
 
    The commissioner may approve such alternative noise mitigation plan if he or she finds that:
 
@@ -3256,7 +3256,7 @@ Chapter 2: Noise Control
 § 24-222 After hours and weekend limits on construction work.  ::
 
 
-	Except as otherwise provided in this subchapter, it shall be unlawful to engage in or to cause or permit any person to engage in construction work other than on weekdays between the hours of 7 a.m. and 6 p.m. A person may however perform construction work in connection with the alteration or repair of an existing one or two family owner-occupied dwelling classified in occupancy group J-3 or a convent or rectory on Saturdays and Sundays between the hours of 10 a.m. and 4 p.m. provided that such dwelling is located more than 300 feet from a house of worship.
+Except as otherwise provided in this subchapter, it shall be unlawful to engage in or to cause or permit any person to engage in construction work other than on weekdays between the hours of 7 a.m. and 6 p.m. A person may however perform construction work in connection with the alteration or repair of an existing one or two family owner-occupied dwelling classified in occupancy group J-3 or a convent or rectory on Saturdays and Sundays between the hours of 10 a.m. and 4 p.m. provided that such dwelling is located more than 300 feet from a house of worship.
 
 
 
@@ -3264,7 +3264,7 @@ Chapter 2: Noise Control
 § 24-223 After hours work authorization.  ::
 
 
-	(a)   Notwithstanding section 24-222 of this subchapter, an agency authorized to issue permits for construction work may, along with such permit, issue an after hours work authorization for the work site. Such after hours authorization may permit construction work to be performed at the site before 7 a.m. or after 6 p.m. on weekdays and/or on Saturdays and/or Sundays subject to the conditions and restrictions set forth in this section.
+(a)   Notwithstanding section 24-222 of this subchapter, an agency authorized to issue permits for construction work may, along with such permit, issue an after hours work authorization for the work site. Such after hours authorization may permit construction work to be performed at the site before 7 a.m. or after 6 p.m. on weekdays and/or on Saturdays and/or Sundays subject to the conditions and restrictions set forth in this section.
 
    (b)   The agency issuing such authorization must obtain a certification from its permittee that the permittee has developed a noise mitigation plan for the site in accordance with this subchapter and that such plan is in compliance with the noise mitigation rules. In the case of emergency work such certification shall be submitted within 3 days after the commencement of the work.
 
@@ -3300,7 +3300,7 @@ Chapter 2: Noise Control
 § 24-223.1 Stop work order. ::
 
 
-	(a)   Whenever the department finds that any work is being performed in violation of section 24-222 or section 24-228 or any rules promulgated thereunder, and such work poses a threat to human health and safety, the department may issue a stop work order with respect to such work or solely with respect to the equipment used for work being performed in violation of section 24-222 or 24-228.
+(a)   Whenever the department finds that any work is being performed in violation of section 24-222 or section 24-228 or any rules promulgated thereunder, and such work poses a threat to human health and safety, the department may issue a stop work order with respect to such work or solely with respect to the equipment used for work being performed in violation of section 24-222 or 24-228.
 
    (b)   Such order may be given (i) verbally or (ii) posted at the site and served personally on or mailed to the owner, lessee or occupant of the site, or to the person executing the work at the site, or to the agent of any of them and shall include the reason for the issuance of the stop work order. A verbal stop work order shall be followed promptly by a written order in accordance with this subdivision.
 
@@ -3318,7 +3318,7 @@ Chapter 2: Noise Control
 § 24-224 Construction work without noise mitigation plan unlawful.  ::
 
 
-	It shall be unlawful to perform work at any construction site in the city that is not in compliance with a noise mitigation plan where such plan is required pursuant to this subchapter and with the noise mitigation rules adopted pursuant to this subchapter.
+It shall be unlawful to perform work at any construction site in the city that is not in compliance with a noise mitigation plan where such plan is required pursuant to this subchapter and with the noise mitigation rules adopted pursuant to this subchapter.
 
 
 
@@ -3328,7 +3328,7 @@ Chapter 2: Noise Control
 § 24-225 Refuse collection vehicles.  ::
 
 
-	(a)   No person shall sell, offer for sale, operate or permit to be operated a refuse collection vehicle, equipped with a compacter, that produces a maximum sound level when the compacting mechanism is in the compacting cycle but not engaged in compacting a load that exceeds 80 dB(A), when measured by a sound level meter set for slow response at a distance of 35 feet or more from the compacting unit.
+(a)   No person shall sell, offer for sale, operate or permit to be operated a refuse collection vehicle, equipped with a compacter, that produces a maximum sound level when the compacting mechanism is in the compacting cycle but not engaged in compacting a load that exceeds 80 dB(A), when measured by a sound level meter set for slow response at a distance of 35 feet or more from the compacting unit.
 
    (b)   It shall be unlawful to operate or cause to be operated a refuse collection vehicle, including such a vehicle equipped with a compacter, within 50 feet of any residential receiving property at or after 11:00 p.m. and before 7:00 a.m. if the aggregate sound, not including impulsive sound, generated by the collection and compacting activities exceeds 85 dB(A) when measured by a sound level meter set to slow response at a distance of 35 feet or more from the vehicle. On and after July 1, 2012 such aggregate sound shall not exceed 80 dB(A). The provisions of this subdivision shall not apply to the operation of refuse collection vehicles during an emergency such as a storm or other event that causes delays in refuse collection.
 
@@ -3338,7 +3338,7 @@ Chapter 2: Noise Control
 § 24-226 Air compressors.  ::
 
 
-	(a)   No person shall operate or cause to be operated an air compressor unless it is equipped with an appropriate muffler with no exhaust leaks.
+(a)   No person shall operate or cause to be operated an air compressor unless it is equipped with an appropriate muffler with no exhaust leaks.
 
    (b)   No person shall sell, offer for sale for use within the city of New York, or operate or permit to be operated an air compressor that, when operated, produces a maximum sound level, when measured at a distance of one meter or more from the nearest major surface of such air compressor, exceeding 80 dB(A) for sizes greater than 350 cfm or exceeding 75 dB(A) for sizes 350 cfm or less.
 
@@ -3350,7 +3350,7 @@ Chapter 2: Noise Control
 § 24-227 Circulation devices.  ::
 
 
-	(a)   No person shall operate or permit to be operated a circulation device in such a manner as to create a sound level in excess of 42 dB(A) when measured inside a receiving property dwelling unit. The measurement shall be taken with the window or terrace door open at a point three feet from the open portion of the window or terrace door.
+(a)   No person shall operate or permit to be operated a circulation device in such a manner as to create a sound level in excess of 42 dB(A) when measured inside a receiving property dwelling unit. The measurement shall be taken with the window or terrace door open at a point three feet from the open portion of the window or terrace door.
 
    (b)   On and after the effective date of this section, when a new circulation device is installed on any building lot or an existing device on any building lot is replaced, the cumulative sound from all circulation devices on such building lot owned or controlled by the owner or person in control of the new device being installed or the existing device being replaced shall not exceed 45 dB(A), when measured as specified in subdivision a of this section. For a period of two years after the effective date of this section, this subdivision shall not apply to the replacement of a circulation device that was installed on any building lot prior to the effective date of this section by a device of comparable capacity.
 
@@ -3364,7 +3364,7 @@ Chapter 2: Noise Control
 § 24-228 Construction devices.  ::
 
 
-	(a)   No person shall operate or use or cause to be operated or used a construction device or combination of devices in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to sound that exceeds the following prohibited noise levels:
+(a)   No person shall operate or use or cause to be operated or used a construction device or combination of devices in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to sound that exceeds the following prohibited noise levels:
 
       (1)   Sound, other than impulsive sound, attributable to the source or sources, that exceeds 85 dB(A) as measured 50 or more feet from the source or sources at a point outside the property line where the source or sources are located or as measured 50 or more feet from the source or sources on a public right-of-way.
 
@@ -3382,7 +3382,7 @@ Chapter 2: Noise Control
 § 24-228.1 Exhausts.  ::
 
 
-	No person shall cause or permit discharge into the open air of the exhaust of any device, including but not limited to any steam engine, diesel engine, internal combustion engine, power tools, compressors or turbine engine, so as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to sound that exceeds the prohibited noise levels set forth in section 24-228.
+No person shall cause or permit discharge into the open air of the exhaust of any device, including but not limited to any steam engine, diesel engine, internal combustion engine, power tools, compressors or turbine engine, so as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to sound that exceeds the prohibited noise levels set forth in section 24-228.
 
 
 
@@ -3390,7 +3390,7 @@ Chapter 2: Noise Control
 § 24-229 Containers and construction material.  ::
 
 
-	(a)   No person shall handle or transport or cause to be handled or transported on any public right-of-way any container or any construction material in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to the following prohibited noise levels:
+(a)   No person shall handle or transport or cause to be handled or transported on any public right-of-way any container or any construction material in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to the following prohibited noise levels:
 
       (1)   Sound, other than impulsive sound, attributable to the source measured at a level of 10 dB(A) or more above the ambient sound level, as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way.
 
@@ -3404,7 +3404,7 @@ Chapter 2: Noise Control
 § 24-230 Paving breakers.  ::
 
 
-	(a)   No person shall operate or cause to be operated a paving breaker, other than one operated electrically or hydraulically, unless a pneumatic discharge muffler certified by the manufacturer of such muffler to provide a dynamic insertion loss of 5 dB(A) of the sound released from the air discharge of such paving breaker is installed on such air discharge.
+(a)   No person shall operate or cause to be operated a paving breaker, other than one operated electrically or hydraulically, unless a pneumatic discharge muffler certified by the manufacturer of such muffler to provide a dynamic insertion loss of 5 dB(A) of the sound released from the air discharge of such paving breaker is installed on such air discharge.
 
    (b)   No person shall sell, offer for sale for use within the city of New York, operate or permit to be operated a paving breaker that when operated produces a maximum sound level that exceeds 95 dB(A), when measured at a distance of one meter or more from a face of such paving breaker.
 
@@ -3414,7 +3414,7 @@ Chapter 2: Noise Control
 § 24-231 Commercial music.  ::
 
 
-	(a)   No person shall make or cause or permit to be made or caused any music originating from or in connection with the operation of any commercial establishment or enterprise when the level of sound attributable to such music, as measured inside any receiving property dwelling unit:
+(a)   No person shall make or cause or permit to be made or caused any music originating from or in connection with the operation of any commercial establishment or enterprise when the level of sound attributable to such music, as measured inside any receiving property dwelling unit:
 
       (1)   is in excess of 42 dB(A) as measured with a sound level meter; or
 
@@ -3438,13 +3438,13 @@ Chapter 2: Noise Control
 § 24-232 Allowable decibel levels-octave band measurement.  ::
 
 
-	(a)   No person shall cause or permit a sound source operating in connection with any commercial or business enterprise to exceed the decibel levels in the designated octave bands shown below as measured within a receiving property as specified therein.
+(a)   No person shall cause or permit a sound source operating in connection with any commercial or business enterprise to exceed the decibel levels in the designated octave bands shown below as measured within a receiving property as specified therein.
 
  
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
 ~
 
@@ -3454,40 +3454,40 @@ Chapter 2: Noise Control
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - Octave Band
- - Maximum Sound Pressure Levels (dB) as measured within a receiving property as specified below
- * - Frequency (Hz)
- - Residential receiving property for mixed use buildings and residential buildings (as measured within any room of the residential portion of the building with windows open, if possible).
- - Commercial receiving property (as measured within any room containing offices within the building with windows open, if possible).
- * - 31.5
- - 70
- - 74
- * - 63
- - 61
- - 64
- * - 125
- - 53
- - 56
- * - 250
- - 46
- - 50
- * - 500
- - 40
- - 45
- * - 1000
- - 36
- - 41
- * - 2000
- - 34
- - 39
- * - 4000
- - 33
- - 38
- * - 8000
- - 32
- - 37
+    * - Octave Band
+      - Maximum Sound Pressure Levels (dB) as measured within a receiving property as specified below
+    * - Frequency (Hz)
+      - Residential receiving property for mixed use buildings and residential buildings (as measured within any room of the residential portion of the building with windows open, if possible).
+      - Commercial receiving property (as measured within any room containing offices within the building with windows open, if possible).
+    * - 31.5
+      - 70
+      - 74
+    * - 63
+      - 61
+      - 64
+    * - 125
+      - 53
+      - 56
+    * - 250
+      - 46
+      - 50
+    * - 500
+      - 40
+      - 45
+    * - 1000
+      - 36
+      - 41
+    * - 2000
+      - 34
+      - 39
+    * - 4000
+      - 33
+      - 38
+    * - 8000
+      - 32
+      - 37
 ~
 
  
@@ -3508,7 +3508,7 @@ Chapter 2: Noise Control
 § 24-232.1 Small wind turbines. ::
 
 
-	No person shall cause or permit operation of a small wind turbine, as such term is defined in section 3113.2 of the New York city building code, so as to create a sound level in excess of 5 db(A) above the ambient sound level, as measured at the property line or at an elevated receptor of the property containing the nearest occupied building.
+No person shall cause or permit operation of a small wind turbine, as such term is defined in section 3113.2 of the New York city building code, so as to create a sound level in excess of 5 db(A) above the ambient sound level, as measured at the property line or at an elevated receptor of the property containing the nearest occupied building.
 
 
 
@@ -3518,7 +3518,7 @@ Chapter 2: Noise Control
 § 24-233 Personal audio devices.  ::
 
 
-	(a)   No person shall operate or use or cause to be operated or used any personal audio device in such a manner as to create an unreasonable noise.
+(a)   No person shall operate or use or cause to be operated or used any personal audio device in such a manner as to create an unreasonable noise.
 
    (b)   For the purposes of this section unreasonable noise shall include but shall not be limited to:
 
@@ -3534,7 +3534,7 @@ Chapter 2: Noise Control
 § 24-234 Operation or use of sound reproduction device in or on rapid transit railroad, omnibus or ferry.  ::
 
 
-	It shall be unlawful to operate or use a sound reproduction device in or on any rapid transit railroad, omnibus or ferry, other than a personal audio device with personal earphones such that sound from such earphones is not plainly audible to another individual at a distance of 5 feet or more from the source.
+It shall be unlawful to operate or use a sound reproduction device in or on any rapid transit railroad, omnibus or ferry, other than a personal audio device with personal earphones such that sound from such earphones is not plainly audible to another individual at a distance of 5 feet or more from the source.
 
 
 
@@ -3542,7 +3542,7 @@ Chapter 2: Noise Control
 § 24-235 Animals.  ::
 
 
-	No person having charge, care, custody, or control of any animal shall cause or permit such animal to cause unreasonable noise including, but not limited to, any sound that is plainly audible at any location within any residential receiving property as set forth below:
+No person having charge, care, custody, or control of any animal shall cause or permit such animal to cause unreasonable noise including, but not limited to, any sound that is plainly audible at any location within any residential receiving property as set forth below:
 
    (a)   At or after 7 a.m. and before 10 p.m., continuously for a period of 10 minutes or more.
 
@@ -3554,7 +3554,7 @@ Chapter 2: Noise Control
 § 24-236 Motor vehicles.  ::
 
 
-	(a)   Motor vehicles, other than motorcycles, with a maximum gross weight of 10,000 lbs. or less. No person shall cause or permit any motor vehicle, other than a motorcycle, with a maximum gross weight of 10,000 lbs. or less to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 150 feet or more from the motor vehicle.
+(a)   Motor vehicles, other than motorcycles, with a maximum gross weight of 10,000 lbs. or less. No person shall cause or permit any motor vehicle, other than a motorcycle, with a maximum gross weight of 10,000 lbs. or less to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 150 feet or more from the motor vehicle.
 
    (b)   Motorcycles. No person shall cause or permit any motorcycle to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 200 feet or more from the motorcycle.
 
@@ -3574,7 +3574,7 @@ Chapter 2: Noise Control
 § 24-237 Sound signal devices.  ::
 
 
-	(a)   No person shall operate or use or cause to be operated or used any claxon installed on a motor vehicle, except as a sound signal of imminent danger or in connection with use as an audible motor vehicle burglar alarm as provided in section 24-238 of this code.
+(a)   No person shall operate or use or cause to be operated or used any claxon installed on a motor vehicle, except as a sound signal of imminent danger or in connection with use as an audible motor vehicle burglar alarm as provided in section 24-238 of this code.
 
    (b)   No person shall operate or use or cause to be operated or used an air horn or gong installed on any motor vehicle other than as provided in section 24-241 of this code.
 
@@ -3588,7 +3588,7 @@ Chapter 2: Noise Control
 § 24-238 Audible burglar alarm and audible status indicator.  ::
 
 
-	(a)   No owner of a building or of a motor vehicle shall have in operation an audible burglar alarm thereon unless such burglar alarm shall be capable of and shall automatically terminate its operation within fifteen minutes of its being activated in the case of a building, and three minutes of its being activated in the case of a motor vehicle. No audible burglar alarm on a motor vehicle shall be capable of being activated except by:
+(a)   No owner of a building or of a motor vehicle shall have in operation an audible burglar alarm thereon unless such burglar alarm shall be capable of and shall automatically terminate its operation within fifteen minutes of its being activated in the case of a building, and three minutes of its being activated in the case of a motor vehicle. No audible burglar alarm on a motor vehicle shall be capable of being activated except by:
 
       (i)   direct physical contact with that motor vehicle; or
 
@@ -3602,7 +3602,7 @@ Chapter 2: Noise Control
 § 24-239 Audible burglar alarm or audible status indicator may be disconnected.  ::
 
 
-	(a)   Notwithstanding the provisions of section 24-238, any member of the police department shall have the right to take such steps as may be reasonable and necessary to disconnect any audible burglar alarm or audible status indicator that is installed on a motor vehicle at any time during the period of its activation.
+(a)   Notwithstanding the provisions of section 24-238, any member of the police department shall have the right to take such steps as may be reasonable and necessary to disconnect any audible burglar alarm or audible status indicator that is installed on a motor vehicle at any time during the period of its activation.
 
    (b)   The operator of any motor vehicle on which an audible burglar alarm or audible status indicator has been installed shall when parked on a public highway or parking lot open to the public, prominently display the number and telephone number of the owner's local police precinct where information shall be on file to permit communication with the owner of such vehicle.
 
@@ -3612,7 +3612,7 @@ Chapter 2: Noise Control
 § 24-240 Removal of vehicle with audible burglar alarm or audible status indicator.  ::
 
 
-	(a)   Notwithstanding the provisions of section 24-239, any member of the police department may arrange for the removal of a motor vehicle from a public highway or parking lot open to the public, when:
+(a)   Notwithstanding the provisions of section 24-239, any member of the police department may arrange for the removal of a motor vehicle from a public highway or parking lot open to the public, when:
 
       (i)   an audible burglar alarm installed on such vehicle is operated in violation of this code or an audible status indicator is operated on such vehicle; and
 
@@ -3626,7 +3626,7 @@ Chapter 2: Noise Control
 § 24-241 Emergency signal devices.  ::
 
 
-	(a)   No person shall operate or use or cause to be operated or used any emergency signal device, except on an authorized emergency vehicle when such vehicle is in the act of responding to an emergency; provided that such device shall not be operated for a period of time longer than is necessary to respond to such emergency. Notwithstanding the foregoing, such a device on a motor vehicle shall be lawful if designed and used solely as an audible motor vehicle burglar alarm in accordance with section 24-238 and a device attached to a vehicle for the purpose of providing an audible warning when the vehicle is backing up shall be permitted even though the audible warning may consist of a gong or bell sound.
+(a)   No person shall operate or use or cause to be operated or used any emergency signal device, except on an authorized emergency vehicle when such vehicle is in the act of responding to an emergency; provided that such device shall not be operated for a period of time longer than is necessary to respond to such emergency. Notwithstanding the foregoing, such a device on a motor vehicle shall be lawful if designed and used solely as an audible motor vehicle burglar alarm in accordance with section 24-238 and a device attached to a vehicle for the purpose of providing an audible warning when the vehicle is backing up shall be permitted even though the audible warning may consist of a gong or bell sound.
 
    (b)   No person shall operate or permit to be operated an emergency signal device installed on an authorized emergency vehicle that when operated at the maximum level creates a sound level in excess of 90 dB(A) when measured at a distance of fifty feet from the center of the forward face of such vehicle. Within one year after the effective date of this subdivision and every two years thereafter, emergency signal devices installed on authorized emergency vehicles shall be tested and certification shall be submitted, in a form approved by the department, that such devices meet the standard set forth in this subdivision for operation at maximum level. Notwithstanding the foregoing provisions, where compliance with the provisions of this subdivision would create an undue hardship, the owner or operator of an authorized emergency vehicle may submit a plan to the commissioner for emergency signal devices to meet the standard set forth in this subdivision within two years after the effective date of this subdivision. Such plan shall be submitted within one year after the effective date of this subdivision in lieu of the required certification. This subdivision shall not apply to authorized emergency vehicles of the police department, fire department or authorized emergency vehicles responding to medical emergencies.
 
@@ -3636,7 +3636,7 @@ Chapter 2: Noise Control
 § 24-242 Lawn care devices.  ::
 
 
-	(a)   No person shall operate or use or cause to be operated or used any lawn care device:
+(a)   No person shall operate or use or cause to be operated or used any lawn care device:
 
       (1)   On weekdays before eight a.m. and after seven p.m. or sunset, whichever occurs later; or
 
@@ -3652,7 +3652,7 @@ Chapter 2: Noise Control
 § 24-243 Snow blowers.  ::
 
 
-	The provisions of this code shall not apply to the operation of a snow blower for the purpose of complying with subdivision a of section 16-123 of the administrative code.
+The provisions of this code shall not apply to the operation of a snow blower for the purpose of complying with subdivision a of section 16-123 of the administrative code.
 
 
 
@@ -3660,7 +3660,7 @@ Chapter 2: Noise Control
 § 24-244 Sound reproduction devices.  ::
 
 
-	(a)   Except as otherwise provided in section 10-108 of the code, no person shall operate or use or cause to be operated or used any sound reproduction device in such a manner as to create unreasonable noise.
+(a)   Except as otherwise provided in section 10-108 of the code, no person shall operate or use or cause to be operated or used any sound reproduction device in such a manner as to create unreasonable noise.
 
    (b)   No person shall operate or use or cause to be operated or used any sound reproduction device, for commercial or business advertising purposes or for the purpose of attracting attention to any performance, show, sale or display of merchandise, in connection with any commercial or business enterprise (including those engaged in the sale of radios, television sets, compact discs or tapes), (i) outside or in front of any building, place or premises or in or through any aperture of such building, place or premises, abutting on or adjacent to a public street, park or place; (ii) in or upon any vehicle operated, standing or being in or on any public street, park or place; (iii) from any stand, platform or other structure; (iv) from any airplane or other device used for flying, flying over the city; (v) from any boat on the waters within the jurisdiction of the city; or (vi) anywhere on the public streets, public sidewalks, parks or places where sound from such sound reproduction device may be heard upon any public street, sidewalk, park or place. Nothing in this section is intended to prohibit incidental sounds emanating from a sporting or an entertainment or a public event for which a permit under section 10-108 of the code has been issued.
 
@@ -3670,7 +3670,7 @@ Chapter 2: Noise Control
 § 24-245 Operating certificates and renewal of operating certificates; tunneling permits; when required.  ::
 
 
-	(a)   The commissioner shall at his or her discretion promulgate regulations pursuant to section eleven hundred five of the city charter directing the placement of air compressors, paving breakers, refuse compacting vehicles and rapid transit railroads, including but not limited to their rolling stock, track and track beds, passenger stations, tunnels, elevated structures, yards, depots and garages, onto an operating certificate list, setting out the reasons for such placement, and setting out the period of time from issuance or renewal during which such operating certificate shall be valid, unless sooner revoked or cancelled.
+(a)   The commissioner shall at his or her discretion promulgate regulations pursuant to section eleven hundred five of the city charter directing the placement of air compressors, paving breakers, refuse compacting vehicles and rapid transit railroads, including but not limited to their rolling stock, track and track beds, passenger stations, tunnels, elevated structures, yards, depots and garages, onto an operating certificate list, setting out the reasons for such placement, and setting out the period of time from issuance or renewal during which such operating certificate shall be valid, unless sooner revoked or cancelled.
 
    (b)   No person shall cause or permit the use or operation of any device placed on the operating certificate list pursuant to subdivision (a) of this section except for the purpose of testing such device without first obtaining an operating certificate from the commissioner. The placement of such a device not bearing an operating certificate at a location of its customary operation shall be considered a violation of this section in any proceeding pursuant to any applicable section of subchapter eight of this chapter of this code except section 24-269.
 
@@ -3686,7 +3686,7 @@ Chapter 2: Noise Control
 § 24-246 General requirements for applications for operating certificates and for tunneling permits, and removal of operating certificates.  ::
 
 
-	(a)   Application for an operating certificate or for the removal of an operating certificate shall be made by the owner of the device on forms furnished by the department.
+(a)   Application for an operating certificate or for the removal of an operating certificate shall be made by the owner of the device on forms furnished by the department.
 
    (b)   Application for a tunneling permit shall be made on forms furnished by the department by or in behalf of the owner or lessee of the tunnel; and if made by a person other than the owner, the application shall be accompanied by a signed statement of the applicant declaring that he or she is authorized by the owner to make the application. The permittee shall in all cases be the applicant.
 
@@ -3700,7 +3700,7 @@ Chapter 2: Noise Control
 § 24-247 Information required for applications for operating certificates and for tunneling permits.  ::
 
 
-	(a)   Each application for an operating certificate shall contain such information as the commissioner may require in order to determine whether a device covered by the application is or will operate in compliance with the provisions of this code, including but not limited to:
+(a)   Each application for an operating certificate shall contain such information as the commissioner may require in order to determine whether a device covered by the application is or will operate in compliance with the provisions of this code, including but not limited to:
 
       (1)   The model number and operating characteristics of the device covered by the application;
 
@@ -3726,7 +3726,7 @@ Chapter 2: Noise Control
 § 24-248 Standards for granting operating certificates and tunneling permits.  ::
 
 
-	(a)   No operating certificate shall be granted unless the applicant shows to the satisfaction of the commissioner that:
+(a)   No operating certificate shall be granted unless the applicant shows to the satisfaction of the commissioner that:
 
       (1)   The device will be operated without causing a violation of the provisions of this code; and
 
@@ -3748,7 +3748,7 @@ Chapter 2: Noise Control
 § 24-249 Testing before granting or renewing of operating certificates; testing before granting of tunneling permits.  ::
 
 
-	(a)   Before a tunneling permit is granted or before an operating certificate is granted or renewed, the commissioner may require the applicant to conduct such tests as are necessary in the opinion of the commissioner to determine the sound level emitted from a device or an activity or to determine whether the device or its operation or an activity is contributing to, or is in violation of this code. The test shall be made at the expense of the applicant.
+(a)   Before a tunneling permit is granted or before an operating certificate is granted or renewed, the commissioner may require the applicant to conduct such tests as are necessary in the opinion of the commissioner to determine the sound level emitted from a device or an activity or to determine whether the device or its operation or an activity is contributing to, or is in violation of this code. The test shall be made at the expense of the applicant.
 
    (b)   Such test shall be conducted, reviewed and certified as provided by subdivision (b) of section 24-206 of this code. The applicant shall notify the department of the time and place of a test as provided by subdivision (c) of section 24-206* of this code. Reasonable facilities shall be made available for the department to witness the test. If in the opinion of the commissioner tests by the department are necessary, the facilities for such tests, exclusive of sound level meters, shall be furnished by and at the expense of the owner or lessee or his or her agent as provided by subdivision (d)** of section 24-206 of this code.
 
@@ -3758,7 +3758,7 @@ Chapter 2: Noise Control
 § 24-250 Action on applications for certificates or tunneling permits.  ::
 
 
-	(a)   The commissioner shall act within a reasonable time not to exceed sixty days on an application for a tunneling permit, for an operating certificate, or for a renewal of an operating certificate, and shall notify the applicant in writing of his or her approval or disapproval of the application.
+(a)   The commissioner shall act within a reasonable time not to exceed sixty days on an application for a tunneling permit, for an operating certificate, or for a renewal of an operating certificate, and shall notify the applicant in writing of his or her approval or disapproval of the application.
 
    (b)   If an application is disapproved, the commissioner shall set forth his or her objections in the notice of disapproval or notice of violation.
 
@@ -3774,7 +3774,7 @@ Chapter 2: Noise Control
 § 24-251 Conditions of certificates or tunneling permits to be observed.  ::
 
 
-	The holder of a certificate or of a tunneling permit shall comply with the conditions and terms contained in his or her certificate or tunneling permit as well as all applicable provisions of this code.
+The holder of a certificate or of a tunneling permit shall comply with the conditions and terms contained in his or her certificate or tunneling permit as well as all applicable provisions of this code.
 
 
 
@@ -3782,7 +3782,7 @@ Chapter 2: Noise Control
 § 24-252 Suspension or revocation of certificates or tunneling permits.  ::
 
 
-	(a)   The commissioner shall suspend or revoke a tunneling permit or certificate when ordered to do so by the board pursuant to subchapter eight of this chapter of this code.
+(a)   The commissioner shall suspend or revoke a tunneling permit or certificate when ordered to do so by the board pursuant to subchapter eight of this chapter of this code.
 
    (b)   Suspension or revocation of a certificate or tunneling permit shall become final five days after service of notice, exclusive of the day of service, on the holder of the certificate or tunneling permit.
 
@@ -3792,7 +3792,7 @@ Chapter 2: Noise Control
 § 24-253 Surrender of certificates or tunneling permits.  ::
 
 
-	A certificate or tunneling permit which has been cancelled or revoked pursuant to this code shall be surrendered forthwith to the commissioner.
+A certificate or tunneling permit which has been cancelled or revoked pursuant to this code shall be surrendered forthwith to the commissioner.
 
 
 
@@ -3800,7 +3800,7 @@ Chapter 2: Noise Control
 § 24-254 Transfer of certificates.  ::
 
 
-	Any purported or attempted transfer of a certificate automatically revokes the certificate, except that upon a conveyance of the premises in which the device is located a certificate may be transferred to a person other than the person named in the certificate.
+Any purported or attempted transfer of a certificate automatically revokes the certificate, except that upon a conveyance of the premises in which the device is located a certificate may be transferred to a person other than the person named in the certificate.
 
 
 
@@ -3808,7 +3808,7 @@ Chapter 2: Noise Control
 § 24-255 Operating certificate or tunneling permit fees.  ::
 
 
-	(a)   A person applying for an operating certificate, or a renewal of an operating certificate shall pay a fee of thirty dollars.
+(a)   A person applying for an operating certificate, or a renewal of an operating certificate shall pay a fee of thirty dollars.
 
    (b)   A person applying for a tunneling permit shall pay a fee of two hundred and fifty dollars.
 
@@ -3818,7 +3818,7 @@ Chapter 2: Noise Control
 § 24-256 Departmental publication fees.  ::
 
 
-	The department may charge for a copy of its publications a fee in an amount not to exceed the unit cost of the preparation and distribution of the publication.
+The department may charge for a copy of its publications a fee in an amount not to exceed the unit cost of the preparation and distribution of the publication.
 
 
 
@@ -3826,7 +3826,7 @@ Chapter 2: Noise Control
 § 24-257 Powers of the board.  ::
 
 
-	(a)   The board, in addition to other duties assigned to it by law, shall have the power to conduct hearings pursuant to this subchapter and, by the issuance of a subpoena, compel the attendance of witnesses and the production of any books, papers or other things relating to the matter under investigation.
+(a)   The board, in addition to other duties assigned to it by law, shall have the power to conduct hearings pursuant to this subchapter and, by the issuance of a subpoena, compel the attendance of witnesses and the production of any books, papers or other things relating to the matter under investigation.
 
    (b)   The board may, upon notice pursuant to section 24-259 of this code, and after a hearing pursuant to section 24-263 of this code, or in default thereof pursuant to section 24-264 of this code:
 
@@ -3846,7 +3846,7 @@ Table I
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
 ~
 
@@ -3856,272 +3856,272 @@ Table I
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - Violations related to section and subdivision
- * - 
- - First Violation
- - Second Violation*
- - Third and Subsequent Violations*
- * - 
- - Maximum
- - Minimum
- - Maximum
- - Minimum
- - Maximum
- - Minimum
- * - 24-216 (d)
- - 2,625 
- -  650 
- - 5,250 
- - 1,300 
- - 7,875 
- - 1,950 
- * - 24-218(a) 
- - 150
- - 75
- - 250
- - 150
- - 500
- - 350
- * - 24-218(a-1)
- - 1,000 
- -  350 
- - 2,000 
- -  700 
- - 3,000 
- - 1,050 
- * - 24-218.1
- -  50 
- -  50 
- -  50 
- -  50 
- -  50 
- -  50 
- * - 24-220
- - 1,400 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-222
- - 3,500 
- -  875 
- - 7,000 
- - 1,750 
- - 10,500 
- - 2,625 
- * - 24-223
- - 3,500 
- -  875 
- - 7,000 
- - 1,750 
- - 10,500 
- - 2,625 
- * - 24-224
- - 3,500 
- -  875 
- - 7,000 
- - 1,750 
- - 10,500 
- - 2,625 
- * - 24-225
- - 1,400 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-226
- - 1,400 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-227
- -  875 
- -  0 
- - 1,750 
- -  440 
- - 2,625 
- -  660 
- * - 24-228
- - 1,400 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-229
- - 1,400 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-230
- - 1,400 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-231(a)
- - 8,000 
- -  0 
- - 16,000 
- - 4,000 
- - 24,000 
- - 6,000 
- * - 24-231(b)
- - 1,750 
- -  440 
- - 3,500 
- -  880 
- - 5,250 
- - 1,320 
- * - 24-231(c)
- -  875 
- -  350 
- - 1,750 
- -  700 
- - 2,625 
- - 1,050 
- * - 24-232
- - 1,400 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-233(a)
- -  175 
- -  50 
- -  350 
- -  100 
- -  525 
- -  150 
- * - 24-233(b)(1)
- -  175 
- -  50 
- -  350 
- -  100 
- -  525 
- -  150 
- * - 24-233(b)(2)
- -  350 
- -  100 
- -  700 
- -  200 
- - 1,050 
- -  300 
- * - 24-234
- -  175 
- -  50 
- -  350
- -  100 
- -  525 
- -  150 
- * - 24-235
- -  175 
- -  50 
- -  350 
- -  100 
- -  525 
- -  150 
- * - 24-236(a)
- -  525 
- -  150 
- - 1,050 
- -  300 
- - 1,575 
- -  450 
- * - 24-236(b)(c)(d)
- - 1,440 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-237(a)
- - 1,000 
- -  150 
- - 2,000 
- -  300 
- - 3,000 
- -  450 
- * - 24-237(b)
- -  875 
- -  220 
- - 1,750 
- -  440 
- - 2,625 
- -  660 
- * - 24-237(c)
- -  875 
- -  220 
- - 1,750 
- -  440 
- - 2,625 
- -  660 
- * - 24-237(d)
- - 1,000 
- -  350 
- - 2,000 
- -  700 
- - 3,000 
- - 1,050 
- * - 24-238
- -  875 
- -  220 
- - 1,750 
- -  440 
- - 2,625 
- -  660 
- * - 24-239(b)
- -  350 
- -  100 
- -  700 
- -  200 
- - 1,050 
- -  300 
- * - 24-241
- - 1,400 
- -  440 
- - 2,800 
- -  880 
- - 4,200 
- - 1,320 
- * - 24-242
- -  875 
- -  220 
- - 1,750 
- -  440 
- - 2,625 
- -  660 
- * - 24-244
- - 1,750 
- -  440 
- - 3,500 
- -  880 
- - 5,250 
- - 1,320 
- * - 24-245
- - 2,625 
- -  660 
- - 5,250 
- - 1,320 
- - 7,875 
- - 1,980 
- * - All remaining sections and subdivisions
- -  875 
- -  220 
- - 1,750 
- -  440 
- - 2,625 
- -  660 
+    * - Violations related to section and subdivision
+    * - 
+      - First Violation
+      - Second Violation*
+      - Third and Subsequent Violations*
+    * - 
+      - Maximum
+      - Minimum
+      - Maximum
+      - Minimum
+      - Maximum
+      - Minimum
+    * - 24-216 (d)
+      - 2,625 
+      -   650 
+      -  5,250 
+      - 1,300 
+      -  7,875 
+      - 1,950 
+    * - 24-218(a) 
+      - 150
+      - 75
+      - 250
+      - 150
+      - 500
+      - 350
+    * - 24-218(a-1)
+      - 1,000 
+      -   350 
+      -  2,000 
+      -   700 
+      -  3,000 
+      - 1,050 
+    * - 24-218.1
+      -   50 
+      -   50 
+      -   50 
+      -   50 
+      -   50 
+      -   50 
+    * - 24-220
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-222
+      - 3,500 
+      -   875 
+      -  7,000 
+      - 1,750 
+      - 10,500 
+      - 2,625 
+    * - 24-223
+      - 3,500 
+      -   875 
+      -  7,000 
+      - 1,750 
+      - 10,500 
+      - 2,625 
+    * - 24-224
+      - 3,500 
+      -   875 
+      -  7,000 
+      - 1,750 
+      - 10,500 
+      - 2,625 
+    * - 24-225
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-226
+      - 1,400 
+      -   440 
+      - 2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-227
+      -   875 
+      -   0 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-228
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-229
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-230
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-231(a)
+      - 8,000 
+      -   0 
+      - 16,000 
+      - 4,000 
+      - 24,000 
+      - 6,000 
+    * - 24-231(b)
+      - 1,750 
+      -   440 
+      -  3,500 
+      -   880 
+      -  5,250 
+      - 1,320 
+    * - 24-231(c)
+      -   875 
+      -   350 
+      -  1,750 
+      -   700 
+      -  2,625 
+      - 1,050 
+    * - 24-232
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-233(a)
+      -   175 
+      -   50 
+      -   350 
+      -   100 
+      -   525 
+      -   150 
+    * - 24-233(b)(1)
+      -   175 
+      -   50 
+      -   350 
+      -   100 
+      -   525 
+      -   150 
+    * - 24-233(b)(2)
+      -   350 
+      -   100 
+      -   700 
+      -   200 
+      -  1,050 
+      -   300 
+    * - 24-234
+      -   175 
+      -   50 
+      -   350
+      -   100 
+      -   525 
+      -   150 
+    * - 24-235
+      -   175 
+      -   50 
+      -   350 
+      -   100 
+      -   525 
+      -   150 
+    * - 24-236(a)
+      -   525 
+      -   150 
+      -  1,050 
+      -   300 
+      -  1,575 
+      -   450 
+    * - 24-236(b)(c)(d)
+      - 1,440 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-237(a)
+      - 1,000 
+      -   150 
+      -  2,000 
+      -   300 
+      -  3,000 
+      -   450 
+    * - 24-237(b)
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-237(c)
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-237(d)
+      - 1,000 
+      -   350 
+      -  2,000 
+      -   700 
+      -  3,000 
+      - 1,050 
+    * - 24-238
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-239(b)
+      -   350 
+      -   100 
+      -   700 
+      -   200 
+      -  1,050 
+      -   300 
+    * - 24-241
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-242
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-244
+      - 1,750 
+      -   440 
+      -  3,500 
+      -   880 
+      -  5,250 
+      - 1,320 
+    * - 24-245
+      - 2,625 
+      -   660 
+      -  5,250 
+      - 1,320 
+      -  7,875 
+      - 1,980 
+    * - All remaining sections and subdivisions
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
 ~
 
 * By the same respondent of the same provision of law, order, rule or regulation and, if the respondent is the owner, agent, lessee or other person in control of the premises with respect to which the violation occurred, at the same premises (all violations committed within two years).
@@ -4164,7 +4164,7 @@ Each day during which such violation continues shall constitute a separate viola
 § 24-258 The board.  ::
 
 
-	(a)   The board shall be convened by the chairperson or in the chairperson's absence the assistant commissioner of environmental compliance, or at the request of any three members thereof.
+(a)   The board shall be convened by the chairperson or in the chairperson's absence the assistant commissioner of environmental compliance, or at the request of any three members thereof.
 
    (b)   If a member of the board has presided over the initial hearing, he or she shall not be disqualified from reviewing the hearing.
 
@@ -4176,7 +4176,7 @@ Each day during which such violation continues shall constitute a separate viola
 § 24-259 Notice of violation.  ::
 
 
-	(a)   Notice, required by this chapter, shall be given by issuance of a notice of violation.
+(a)   Notice, required by this chapter, shall be given by issuance of a notice of violation.
 
    (b)   Whenever the commissioner has reasonable cause to believe that a violation of any provision of this code or any order or regulation promulgated by the commissioner or the board may exist, he or she may cause to have a notice of violation issued and served on:
 
@@ -4204,7 +4204,7 @@ Each day during which such violation continues shall constitute a separate viola
 § 24-260 Written response.  ::
 
 
-	(a)   A written response in a form prescribed by the board shall be served upon the department and filed with the board within five days of receipt of the notice of violation.
+(a)   A written response in a form prescribed by the board shall be served upon the department and filed with the board within five days of receipt of the notice of violation.
 
    (b)   If the allegation in the notice of violation is one for which a hearing is not required by section 24-257 of this code, and is contested, then the respondent must either:
 
@@ -4228,7 +4228,7 @@ Each day during which such violation continues shall constitute a separate viola
 § 24-261 Citizen's complaint.  ::
 
 
-	(a)   Any person other than personnel of the department and employees of the city of New York authorized by law to serve summonses for violation of the code may serve upon the department a complaint in a form prescribed by the commissioner alleging that a person has violated a provision of this code set forth in table VI,* below, or an order or regulation promulgated under such provision together with evidence of such violation.
+(a)   Any person other than personnel of the department and employees of the city of New York authorized by law to serve summonses for violation of the code may serve upon the department a complaint in a form prescribed by the commissioner alleging that a person has violated a provision of this code set forth in table VI,* below, or an order or regulation promulgated under such provision together with evidence of such violation.
 
 TABLE VI
 
@@ -4236,7 +4236,7 @@ TABLE VI
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
 ~
 
@@ -4246,19 +4246,19 @@ TABLE VI
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - Violation related to section or subdivision and order or regulation thereunder 
- * - 24-208
- * - 24-216
- * - 24-220 (b)
- * - 24-224
- * - 24-232, except that the provisions of this section 24-261 shall apply only to violations by persons operating motor vehicles listed in subdivisions one and two of column I, and subdivisions one and two of column II of Table 1. 24-234 24-236 24-237, except that the provisions of this section 24-261 shall apply only to a violation by a person operating a circulation device with a rated capacity in excess of fifty thousand British thermal units per hour or its equivalent.
- * - 24-238
- * - 24-240
- * - 24-241
- * - 24-244
- * - 24-245
+    * - Violation related to section or subdivision and order or regulation thereunder 
+    * - 24-208
+    * - 24-216
+    * - 24-220 (b)
+    * - 24-224
+    * - 24-232, except that the provisions of this section 24-261 shall apply only to violations by persons operating motor vehicles listed in subdivisions one and two of column I, and subdivisions one and two of column II of Table 1. 24-234 24-236 24-237, except that the provisions of this section 24-261 shall apply only to a violation by a person operating a circulation device with a rated capacity in excess of fifty thousand British thermal units per hour or its equivalent.
+    * - 24-238
+    * - 24-240
+    * - 24-241
+    * - 24-244
+    * - 24-245
 ~
 
  
@@ -4281,7 +4281,7 @@ TABLE VI
 § 24-262 Settlement of proceedings.  ::
 
 
-	The board may settle any proceeding by stipulation and may exercise any or all of its powers under section 24-257 of this code thereby, at any time prior to the issuance of a decision pursuant to section 24-266 of this code.
+The board may settle any proceeding by stipulation and may exercise any or all of its powers under section 24-257 of this code thereby, at any time prior to the issuance of a decision pursuant to section 24-266 of this code.
 
 
 
@@ -4289,7 +4289,7 @@ TABLE VI
 § 24-263 Hearings.  ::
 
 
-	(a)   The chairperson of the board shall designate a hearing officer or at least one member of the board to preside over hearings held pursuant to this subchapter. In any hearing in which a quorum of the board is present, such members shall be deemed to be sitting as the board.
+(a)   The chairperson of the board shall designate a hearing officer or at least one member of the board to preside over hearings held pursuant to this subchapter. In any hearing in which a quorum of the board is present, such members shall be deemed to be sitting as the board.
 
    (b)   All such hearings shall be open to the public.
 
@@ -4303,7 +4303,7 @@ TABLE VI
 § 24-264 Default; vacating a default order.  ::
 
 
-	(a)   A respondent shall be in default when the respondent has:
+(a)   A respondent shall be in default when the respondent has:
 
       (1)   Failed to serve a written response pursuant to section 24-260 of this code; or
 
@@ -4319,7 +4319,7 @@ TABLE VI
 § 24-265 Hearing officer's decision.  ::
 
 
-	(a)   At the conclusion of the hearing, the hearing officer or member of the board conducting the hearing shall prepare a decision stating findings of fact and conclusions, as well as reasons for his or her determination on all material issues, and making recommendations as to action which should be taken in the matter.
+(a)   At the conclusion of the hearing, the hearing officer or member of the board conducting the hearing shall prepare a decision stating findings of fact and conclusions, as well as reasons for his or her determination on all material issues, and making recommendations as to action which should be taken in the matter.
 
    (b)   The hearing officer or member of the board conducting the hearing shall file his or her decision with the board and send copies by mail to the parties. Any party may file exceptions with the board within twenty days after service of such decision. If no exceptions have been filed within the described time, the recommendations of the hearing officer or member of the board conducting the hearing shall automatically become the decision of the board and shall constitute its findings, conclusions and order.
 
@@ -4331,7 +4331,7 @@ TABLE VI
 § 24-266 Board decision and order.  ::
 
 
-	(a)   If any party files exceptions to the decision of the hearing officer or member of the board conducting a hearing within the prescribed time the board shall review the record and issue its decision and order in which it may adopt, modify or reject the findings, conclusions and recommendations of the hearing officer or member of the board who conducted the hearing.
+(a)   If any party files exceptions to the decision of the hearing officer or member of the board conducting a hearing within the prescribed time the board shall review the record and issue its decision and order in which it may adopt, modify or reject the findings, conclusions and recommendations of the hearing officer or member of the board who conducted the hearing.
 
    (b)   The decision of the board shall contain findings of fact, conclusions of law and reasons for the decision on all material issues raised, and an order either dismissing the allegations of the notice of violation or sustaining them in whole or in part.
 
@@ -4349,7 +4349,7 @@ TABLE VI
 § 24-267 Compliance with board decisions; orders and civil penalties.  ::
 
 
-	(a)   If the respondent fails or refuses to comply with the board's order, or the board otherwise deems it necessary, the corporation counsel for the city of New York, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order of the board.
+(a)   If the respondent fails or refuses to comply with the board's order, or the board otherwise deems it necessary, the corporation counsel for the city of New York, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order of the board.
 
    (b)   A civil penalty imposed by the board pursuant to section 24-257 of this code may be collected in an action brought in the name of the city of New York.
 
@@ -4359,7 +4359,7 @@ TABLE VI
 § 24-268 Procedural rules.  ::
 
 
-	The board shall have authority from time to time to make, amend and rescind such procedural rules as may be necessary to carry out the provisions of this subchapter.
+The board shall have authority from time to time to make, amend and rescind such procedural rules as may be necessary to carry out the provisions of this subchapter.
 
 
 
@@ -4367,7 +4367,7 @@ TABLE VI
 § 24-269 Criminal penalties.  ::
 
 
-	(a)   Any person who shall knowingly make a false statement or who shall knowingly falsify or allow to be falsified any certification, registration, form, signed statement, application or report required under the provisions of this code or regulation promulgated by the commissioner or the board shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than one hundred dollars nor more than one thousand dollars, or by imprisonment not to exceed five months, or both.
+(a)   Any person who shall knowingly make a false statement or who shall knowingly falsify or allow to be falsified any certification, registration, form, signed statement, application or report required under the provisions of this code or regulation promulgated by the commissioner or the board shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than one hundred dollars nor more than one thousand dollars, or by imprisonment not to exceed five months, or both.
 
    (b)   Any person, other than a corporation, who violates any order of the commissioner or the board or any provision of section 24-245 of this code or who illegally breaks a seal on equipment, upon conviction shall be punished for each offense by a fine of not less than fifty dollars nor more than five hundred dollars, or by imprisonment for not more than thirty days or by both. Any corporation which violates any order of the commissioner or the board or any provision of section 24-245 of this code, or which illegally causes a seal to be broken, upon conviction shall be punished for each offense by a fine of not less than one hundred dollars nor more than two thousand dollars. Every day during which such violation occurs constitutes a separate offense.
 
@@ -4385,7 +4385,7 @@ TABLE VI
 § 24-270 Uniform civil penalties for unreasonable noise. ::
 
 
-	Notwithstanding any inconsistent provision of law, the civil penalties for the violation of paragraphs 1, 2, and 3 of section 1-05(d) of title 56 of the rules of the city of New York, or any successor rule of the department of parks and recreation that prohibits or regulates noise, or paragraphs 16 and 17 of subdivision c of section 18-146* of the administrative code, shall be no greater than the civil penalties established in section 24-257 of this chapter for a violation of section 24-218(a) of this chapter, except in such cases in which the respondent received notice of such violation while engaged in commercial activities.
+Notwithstanding any inconsistent provision of law, the civil penalties for the violation of paragraphs 1, 2, and 3 of section 1-05(d) of title 56 of the rules of the city of New York, or any successor rule of the department of parks and recreation that prohibits or regulates noise, or paragraphs 16 and 17 of subdivision c of section 18-146* of the administrative code, shall be no greater than the civil penalties established in section 24-257 of this chapter for a violation of section 24-218(a) of this chapter, except in such cases in which the respondent received notice of such violation while engaged in commercial activities.
 
 * Editor's note: this code presently includes multiple sections designated as 18-146. See, e.g., § 18-146, "Prohibitions in parks."
 
@@ -4399,7 +4399,7 @@ Chapter 3: Water Supply
 § 24-301 Assessment of city property used for water purposes.  ::
 
 
-	a.   The lands taken, or to be taken, for storage, reservoirs, or for other constructions necessary for the introduction and maintenance of a sufficient supply of water in the city, or for the purpose of preventing contamination or pollution, shall be assessed and taxed in the counties in which they are or may be located, in the manner prescribed by law, exclusive of the aqueducts.
+a.   The lands taken, or to be taken, for storage, reservoirs, or for other constructions necessary for the introduction and maintenance of a sufficient supply of water in the city, or for the purpose of preventing contamination or pollution, shall be assessed and taxed in the counties in which they are or may be located, in the manner prescribed by law, exclusive of the aqueducts.
 
    b.   This section shall not be construed to prevent the assessors in the county of Nassau from assessing for taxation the pumping stations and buildings located in such county.
 
@@ -4409,7 +4409,7 @@ Chapter 3: Water Supply
 § 24-302 Commissioner of environmental protection; duty in regard to sources of water supply and property of department.  ::
 
 
-	It shall be the duty of the commissioner to preserve the purity of all waters from which any part of the city water supply is drawn, and to protect such supply and the lands adjacent thereto from injury or nuisance. He or she shall maintain, preserve and repair all structures and all other property connected with the water supply.
+It shall be the duty of the commissioner to preserve the purity of all waters from which any part of the city water supply is drawn, and to protect such supply and the lands adjacent thereto from injury or nuisance. He or she shall maintain, preserve and repair all structures and all other property connected with the water supply.
 
 
 
@@ -4417,7 +4417,7 @@ Chapter 3: Water Supply
 § 24-303 Protection of water supply; certain acts misdemeanors.  ::
 
 
-	a.   It shall be unlawful for any person to throw or deposit, or cause to be thrown or deposited any dead animal or other offensive matter or anything whatever in either of the reservoirs or in any lake, pond or stream, or in any aqueduct or pipe from or through which the water supply of the city shall be drawn.
+a.   It shall be unlawful for any person to throw or deposit, or cause to be thrown or deposited any dead animal or other offensive matter or anything whatever in either of the reservoirs or in any lake, pond or stream, or in any aqueduct or pipe from or through which the water supply of the city shall be drawn.
 
    b.   Any person violating the provisions of this section shall be deemed guilty of a misdemeanor, and upon conviction thereof shall be punished by a fine or imprisonment, or both, in the discretion of the court. Such fine shall not exceed the sum of one hundred dollars, and such imprisonment shall not exceed a period of three months. Such imprisonment shall be in the jail of the county in which the offense shall have been committed.
 
@@ -4427,7 +4427,7 @@ Chapter 3: Water Supply
 § 24-303.1 Protection of water supply.  ::
 
 
-	a.   Definitions. As used in this section, the term "oil or natural gas waste" means (i) waste that is generated as a result of natural gas extraction activities, which may consist of water, chemical additives, or naturally occurring radioactive materials and heavy metals and (ii) brine that is generated as a result of oil or natural gas production, extraction or storage. The term "oil or natural gas waste" includes, but is not limited to, leachate from solid wastes associated with natural gas extraction activities, or any natural gas waste byproduct, but excludes the byproducts of natural gas from anaerobic decomposition processes at digesters and landfills in the city.
+a.   Definitions. As used in this section, the term "oil or natural gas waste" means (i) waste that is generated as a result of natural gas extraction activities, which may consist of water, chemical additives, or naturally occurring radioactive materials and heavy metals and (ii) brine that is generated as a result of oil or natural gas production, extraction or storage. The term "oil or natural gas waste" includes, but is not limited to, leachate from solid wastes associated with natural gas extraction activities, or any natural gas waste byproduct, but excludes the byproducts of natural gas from anaerobic decomposition processes at digesters and landfills in the city.
 
    b.   Prohibitions. 
 
@@ -4445,7 +4445,7 @@ Chapter 3: Water Supply
 § 24-304 Injury to water supply property.  ::
 
 
-	If any unauthorized person shall willfully do or cause to be done any act by which any work, materials or property, including manhole covers, now or hereafter erected or used within the city or elsewhere by such city, or any person acting under their authority, for the purpose of procuring or keeping a supply of water shall in any manner be injured or removed, or shall erect or place any nuisance on the banks of any river, lake or stream from which the water supply of such city shall be drawn, such person on conviction thereof, shall be deemed guilty of a misdemeanor.
+If any unauthorized person shall willfully do or cause to be done any act by which any work, materials or property, including manhole covers, now or hereafter erected or used within the city or elsewhere by such city, or any person acting under their authority, for the purpose of procuring or keeping a supply of water shall in any manner be injured or removed, or shall erect or place any nuisance on the banks of any river, lake or stream from which the water supply of such city shall be drawn, such person on conviction thereof, shall be deemed guilty of a misdemeanor.
 
 
 
@@ -4453,7 +4453,7 @@ Chapter 3: Water Supply
 § 24-305 Pollution of or interference with water supply.  ::
 
 
-	It shall be unlawful, within the city, to bathe in or go into the water of any water supply reservoir or any part of a city aqueduct, or to throw stones, chips or dirt or any other material or substance whatever into any gatehouse, ventilator, fountain or basin. It shall also be unlawful to injure or disfigure any part of the water works system of the city.
+It shall be unlawful, within the city, to bathe in or go into the water of any water supply reservoir or any part of a city aqueduct, or to throw stones, chips or dirt or any other material or substance whatever into any gatehouse, ventilator, fountain or basin. It shall also be unlawful to injure or disfigure any part of the water works system of the city.
 
 
 
@@ -4461,7 +4461,7 @@ Chapter 3: Water Supply
 § 24-306 Trespass on water supply property.  ::
 
 
-	It shall be unlawful to enter or remain on any part of the embankment of a water supply reservoir within the city without the permission of the commissioner of environmental protection, or to fail or refuse to comply with the rules and regulations of the commissioner as to when citizens shall leave such embankment, or the grounds or buildings attached thereto.
+It shall be unlawful to enter or remain on any part of the embankment of a water supply reservoir within the city without the permission of the commissioner of environmental protection, or to fail or refuse to comply with the rules and regulations of the commissioner as to when citizens shall leave such embankment, or the grounds or buildings attached thereto.
 
 
 
@@ -4469,7 +4469,7 @@ Chapter 3: Water Supply
 § 24-307 Hydrants to be kept closed.  ::
 
 
-	The commissioner of environmental protection shall cause all water supply hydrants within the city to be kept closed. Except in case of fire and for the purpose of extinguishing the same, or when otherwise authorized by law, it shall be unlawful to take or use the water from any such hydrant.
+The commissioner of environmental protection shall cause all water supply hydrants within the city to be kept closed. Except in case of fire and for the purpose of extinguishing the same, or when otherwise authorized by law, it shall be unlawful to take or use the water from any such hydrant.
 
 
 
@@ -4477,7 +4477,7 @@ Chapter 3: Water Supply
 § 24-308 Opening, tampering with or operating valves or fire hydrants.  ::
 
 
-	a.   It shall be unlawful for any person other than an employee of the department of environmental protection, or the fire department to open, use, operate, or tamper with a fire hydrant or high pressure hydrant, in the city, or a valve in the water supply system of the city, without a permit in writing from the commissioner of environmental protection. It shall also be unlawful to leave such a hydrant open for a longer period than shall be limited in the permit, or use water for other purposes than shall have been authorized by such commissioner.
+a.   It shall be unlawful for any person other than an employee of the department of environmental protection, or the fire department to open, use, operate, or tamper with a fire hydrant or high pressure hydrant, in the city, or a valve in the water supply system of the city, without a permit in writing from the commissioner of environmental protection. It shall also be unlawful to leave such a hydrant open for a longer period than shall be limited in the permit, or use water for other purposes than shall have been authorized by such commissioner.
 
    b.   The commissioner may grant a permit to a person, other than an employee of the department of environmental protection or of the fire department, to open, use or operate a fire hydrant in the city, upon such terms and conditions as may be prescribed by the commissioner and upon payment by such permittee of a fee of five dollars for each day for which such permit is granted. A permittee shall be required, at the time of making application for such permit, to pay to the department a sum sufficient to cover the total fee for the entire period for which such permit is granted. If the work for which such permit is granted is completed on a date prior to the termination date of such permit, the permittee shall be entitled to a refund of the fee paid for each day subsequent to such completion date. The commissioner may grant a permit pursuant to this section to any agency or to a non-profit organization for the purpose of providing street showers for children, without payment of the fee required by this subdivision.
 
@@ -4493,7 +4493,7 @@ Chapter 3: Water Supply
 § 24-309 Connections.  ::
 
 
-	It shall be unlawful, within the city, to open any street, bore any pipe, or make connection with any main or pipe for water supply purposes, except under the direction of the commissioner of environmental protection.
+It shall be unlawful, within the city, to open any street, bore any pipe, or make connection with any main or pipe for water supply purposes, except under the direction of the commissioner of environmental protection.
 
 
 
@@ -4501,7 +4501,7 @@ Chapter 3: Water Supply
 § 24-310 Closing of taps before building is demolished.  ::
 
 
-	It shall be unlawful to demolish any building in the city without first having obtained a permit from the department of environmental protection, providing for the withdrawal of existing taps supplying the premises, in the manner specified in the permit.
+It shall be unlawful to demolish any building in the city without first having obtained a permit from the department of environmental protection, providing for the withdrawal of existing taps supplying the premises, in the manner specified in the permit.
 
 
 
@@ -4509,7 +4509,7 @@ Chapter 3: Water Supply
 § 24-311 Obstruction of stop-cocks.  ::
 
 
-	It shall be unlawful for any person to obstruct access to a stop-cock connected with a water pipe in the city, or to permit any person in his or her employ to do so.
+It shall be unlawful for any person to obstruct access to a stop-cock connected with a water pipe in the city, or to permit any person in his or her employ to do so.
 
 
 
@@ -4517,7 +4517,7 @@ Chapter 3: Water Supply
 § 24-312 Public wells.  ::
 
 
-	It shall be unlawful to dig a well in any street or public place in the city, and the commissioner of transportation shall cause it to be filled in, in all cases.
+It shall be unlawful to dig a well in any street or public place in the city, and the commissioner of transportation shall cause it to be filled in, in all cases.
 
 
 
@@ -4525,7 +4525,7 @@ Chapter 3: Water Supply
 § 24-313 No royalty for use of patented apparatus.  ::
 
 
-	No patented hydrant, valve or stop-cock shall be used by the department of environmental protection unless the patentee or owner of the patent shall allow its use without royalty.
+No patented hydrant, valve or stop-cock shall be used by the department of environmental protection unless the patentee or owner of the patent shall allow its use without royalty.
 
 
 
@@ -4533,7 +4533,7 @@ Chapter 3: Water Supply
 § 24-314 Right of entry on lands dedicated for highway or park purposes.  ::
 
 
-	a.   The department of environmental protection shall at all times have the unqualified right to enter upon all lands transferred or dedicated under the provisions of chapter six hundred sixty of the laws of nineteen hundred twenty-one, for highway or park purposes, to make repairs, replacements, additions, alterations or extensions to its water mains, pipes or works and for any other use of the property necessary to the purposes for which it was originally acquired, without applying for or obtaining the consent of any other authority. The department of environmental protection shall rebuild and replace any part of the road bed thus destroyed or torn up for water supply or incidental purposes, and restore it to a condition satisfactory to the authority having jurisdiction there- over.
+a.   The department of environmental protection shall at all times have the unqualified right to enter upon all lands transferred or dedicated under the provisions of chapter six hundred sixty of the laws of nineteen hundred twenty-one, for highway or park purposes, to make repairs, replacements, additions, alterations or extensions to its water mains, pipes or works and for any other use of the property necessary to the purposes for which it was originally acquired, without applying for or obtaining the consent of any other authority. The department of environmental protection shall rebuild and replace any part of the road bed thus destroyed or torn up for water supply or incidental purposes, and restore it to a condition satisfactory to the authority having jurisdiction there- over.
 
    b.   All owners of property adjacent to such strip dedicated for highway purposes shall have a right of way over every part of such land so dedicated.
 
@@ -4543,7 +4543,7 @@ Chapter 3: Water Supply
 § 24-315 Permits; issuance; revocation.  ::
 
 
-	The commissioner of environmental protection is authorized and empowered to issue or renew temporary permits for the use or occupation of any city property, under his or her jurisdiction. Such issuance or renewal shall be for a term not to exceed five years, for such consideration and upon such terms and conditions as the commissioner may deem necessary for the adequate protection and utilization of such property. The permit or renewal thereof shall be non-transferable; shall specifically provide that it may be cancelled by the commissioner upon thirty days' notice in writing and shall not confer any right, easement or interest in, to, over, under or across such property.
+The commissioner of environmental protection is authorized and empowered to issue or renew temporary permits for the use or occupation of any city property, under his or her jurisdiction. Such issuance or renewal shall be for a term not to exceed five years, for such consideration and upon such terms and conditions as the commissioner may deem necessary for the adequate protection and utilization of such property. The permit or renewal thereof shall be non-transferable; shall specifically provide that it may be cancelled by the commissioner upon thirty days' notice in writing and shall not confer any right, easement or interest in, to, over, under or across such property.
 
 
 
@@ -4551,7 +4551,7 @@ Chapter 3: Water Supply
 § 24-316 Leaking tap or service pipe to be repaired.  ::
 
 
-	a.   As used in this section:
+a.   As used in this section:
 
       1.   "tap" means a connection made between a city-owned pipe or main supplying water and a service pipe.
 
@@ -4567,7 +4567,7 @@ Chapter 3: Water Supply
 § 24-317 Lien on premises.  ::
 
 
-	a.   There shall be filed in the office of the department of environmental protection a record of all work caused to be performed by or on behalf of the department which relates to section 24-316 of this code. Such records shall be kept on a building by building basis and shall be accessible to the public during business hours. Within thirty days after the issuance of an order to shut off a tap, or backfill an excavation, or both, entry of such order shall be made on the records of the department of environmental protection. Such entry shall constitute notice to all parties.
+a.   There shall be filed in the office of the department of environmental protection a record of all work caused to be performed by or on behalf of the department which relates to section 24-316 of this code. Such records shall be kept on a building by building basis and shall be accessible to the public during business hours. Within thirty days after the issuance of an order to shut off a tap, or backfill an excavation, or both, entry of such order shall be made on the records of the department of environmental protection. Such entry shall constitute notice to all parties.
 
    b.   All expenses incurred by or on behalf of the department for services performed pursuant to section 24-316 of this code shall constitute a lien upon the land and buildings upon or in respect to which, or either of which, the work required by such order has been done, or expenses incurred, when the amount thereof shall have been definitely computed as a statement of account by the department and such department shall cause to be filed in the office of the city collector an entry of the account stated in the book in which such charges against the premises are to be entered. Such lien shall have a priority over all other liens and encumbrances except for the lien of taxes and assessments. However, no lien created pursuant to this section shall be enforced against a subsequent purchaser in good faith or mortgagee in good faith unless the requirements of subdivision a of this section are satisfied; this limitation shall only apply to transactions occurring after the date such record should have been entered pursuant to subdivision a and the date such entry was made.
 
@@ -4585,7 +4585,7 @@ Chapter 3: Water Supply
 § 24-318 Validity of lien; grounds for challenge.  ::
 
 
-	a.   In any proceedings to enforce or discharge a lien created pursuant to section 24-317 of this subchapter, the validity of the lien shall not be subject to challenge based on:
+a.   In any proceedings to enforce or discharge a lien created pursuant to section 24-317 of this subchapter, the validity of the lien shall not be subject to challenge based on:
 
       (1)   The lawfulness of the work done; or
 
@@ -4599,7 +4599,7 @@ Chapter 3: Water Supply
 § 24-320 City authorized to use ground under streets and highways.  ::
 
 
-	All persons acting under the authority of the city shall have the right to use the ground or soil under any street, highway, or road within this state to introduce water into the city, on condition that they shall cause the surface of such street, highway, or road to be restored, and all damages done thereto to be repaired.
+All persons acting under the authority of the city shall have the right to use the ground or soil under any street, highway, or road within this state to introduce water into the city, on condition that they shall cause the surface of such street, highway, or road to be restored, and all damages done thereto to be repaired.
 
 
 
@@ -4607,7 +4607,7 @@ Chapter 3: Water Supply
 § 24-321 Restriction on power to contract.  ::
 
 
-	It shall be unlawful for the commissioner of environmental protection to enter into any contract with any person engaged in the business of supplying or selling water for private or public use and consumption, without the prior approval of the board of estimate. The separate written consent and approval of the proposed contract in all its details, shall be given by both the mayor and comptroller. It shall be unlawful for the city or any of its agencies to make any contract in relation to the water supply with any person, except in accordance with the provisions and requirements of the charter and this code. Such provisions and requirements are hereby declared to establish the exclusive rule for the making of such contracts. All proceedings relating to the making or approval of any such contract may be reviewed by the appellate division of the supreme court in the first or second department on the application of any resident taxpayer.
+It shall be unlawful for the commissioner of environmental protection to enter into any contract with any person engaged in the business of supplying or selling water for private or public use and consumption, without the prior approval of the board of estimate. The separate written consent and approval of the proposed contract in all its details, shall be given by both the mayor and comptroller. It shall be unlawful for the city or any of its agencies to make any contract in relation to the water supply with any person, except in accordance with the provisions and requirements of the charter and this code. Such provisions and requirements are hereby declared to establish the exclusive rule for the making of such contracts. All proceedings relating to the making or approval of any such contract may be reviewed by the appellate division of the supreme court in the first or second department on the application of any resident taxpayer.
 
 
 
@@ -4615,7 +4615,7 @@ Chapter 3: Water Supply
 § 24-322 Special water service for fire, sanitary and other purposes.  ::
 
 
-	a.   The board of estimate may make and enter into contracts and agreements for a term of years with any corporation duly organized under the laws of this state, for the furnishing of a special water service for fire, sanitary and other purposes, and for supplying water suitable therefor from any source with a pressure equal to a head of three hundred feet above tide water. Such contracts and agreements shall contain such conditions, provisions and stipulations as such board may consider necessary and proper in the interests of the city, and shall be upon such terms as it deems best. Such board, by such contract, may authorize such corporation to lay down pipes and erect hydrants in the streets of the city, under such restrictions and conditions as may be prescribed by such board.
+a.   The board of estimate may make and enter into contracts and agreements for a term of years with any corporation duly organized under the laws of this state, for the furnishing of a special water service for fire, sanitary and other purposes, and for supplying water suitable therefor from any source with a pressure equal to a head of three hundred feet above tide water. Such contracts and agreements shall contain such conditions, provisions and stipulations as such board may consider necessary and proper in the interests of the city, and shall be upon such terms as it deems best. Such board, by such contract, may authorize such corporation to lay down pipes and erect hydrants in the streets of the city, under such restrictions and conditions as may be prescribed by such board.
 
    b.   Such contracts or agreements may also provide for the purchase by the city of all the rights and property secured by such corporation and the works constructed by them for furnishing water for such special purposes, when such board of estimate shall deem such purchase to be for the interest of the city. Such purchase, however, must be determined upon by such board at the expiration of five years from the date of the contract. The cost of such purchase shall be determined by arbitrators appointed by the supreme court.
 
@@ -4627,7 +4627,7 @@ Chapter 3: Water Supply
 § 24-323 Construction of highways and bridges in connection with reservoirs.  ::
 
 
-	The city is required to build such highways and bridges as may be made necessary by the construction of any reservoir, and to forever repair and maintain such bridges.
+The city is required to build such highways and bridges as may be made necessary by the construction of any reservoir, and to forever repair and maintain such bridges.
 
 
 
@@ -4635,7 +4635,7 @@ Chapter 3: Water Supply
 § 24-324 Construction of highways around middle branch reservoir.  ::
 
 
-	The city is required to repair and maintain the highways built or in process of construction by the city around the new reservoir, on the middle branch of the Croton river, in the town of South East.
+The city is required to repair and maintain the highways built or in process of construction by the city around the new reservoir, on the middle branch of the Croton river, in the town of South East.
 
 
 
@@ -4643,7 +4643,7 @@ Chapter 3: Water Supply
 § 24-325 City to erect and maintain fences to protect certain water works.  ::
 
 
-	The city, at its own expense, shall erect and maintain all fences needed to protect the works upon the lands taken by the city in the county of Westchester for water supply purposes by virtue of chapter two hundred fifty-six of the laws of eighteen hundred thirty-four. It shall also erect and maintain, at its own expense, convenient passes under or across the Croton aqueduct, for farming and other uses of individually owned lands in such county intersected by such aqueduct.
+The city, at its own expense, shall erect and maintain all fences needed to protect the works upon the lands taken by the city in the county of Westchester for water supply purposes by virtue of chapter two hundred fifty-six of the laws of eighteen hundred thirty-four. It shall also erect and maintain, at its own expense, convenient passes under or across the Croton aqueduct, for farming and other uses of individually owned lands in such county intersected by such aqueduct.
 
 
 
@@ -4651,7 +4651,7 @@ Chapter 3: Water Supply
 § 24-326 Regulation of use of lakes and reservoirs used for city water supply.  ::
 
 
-	a.   Any natural lake or any reservoir used or built by the city for water supply purposes may be used by the public for boating, cutting ice and fishing. The city and its representatives shall not prohibit such use, and they are required to afford access to such lakes or reservoirs, except that the city may prohibit such use in the event of a declaration of an emergency by the governor as hereinafter provided and except in the event of the declaration of war by or against the United States of America. The city may grant permits to boat owners for the use of boats on such lakes and reservoirs, and may prescribe rules and regulations for their proper use.
+a.   Any natural lake or any reservoir used or built by the city for water supply purposes may be used by the public for boating, cutting ice and fishing. The city and its representatives shall not prohibit such use, and they are required to afford access to such lakes or reservoirs, except that the city may prohibit such use in the event of a declaration of an emergency by the governor as hereinafter provided and except in the event of the declaration of war by or against the United States of America. The city may grant permits to boat owners for the use of boats on such lakes and reservoirs, and may prescribe rules and regulations for their proper use.
 
    b.   If any emergency shall have been declared to exist by the governor in the manner hereinafter provided in subdivision c of this section or in the event of a declaration of war by or against the United States of America, the mayor, for the duration of such emergency or of such war, may revoke, in whole or in part, the privileges set forth in subdivision a hereof and prohibit the use by the public of the lakes and reservoirs of the city. The commissioner may make reasonable rules and regulations as to the use of such reservoirs during such emergency or war period. Any such order of revocation shall define the terms and extent of revocation, and shall state the date on which it shall become effective. Any rules and regulations promulgated by the commissioner of environmental protection during such emergency shall be published once in a newspaper circulating in each of the counties in which the water supply property to be affected thereby shall be located.
 
@@ -4675,7 +4675,7 @@ Chapter 3: Water Supply
 § 24-327 Regulation of use of Putnam county lakes and reservoirs used for city water supply.  ::
 
 
-	Whenever the waters of natural lakes in Putnam county have been or are acquired by the city, or reservoirs have been or are constructed, the residents of such county shall have the right of boating, fishing and taking ice from such lakes and reservoirs, subject to such regulations as the commissioner of environmental protection may make from time to time to preserve the purity of the water and to prevent nuisances, and subject, however, to the right of the city to prohibit such use in the event of the declaration of an emergency as provided in section 24-326 of this code.
+Whenever the waters of natural lakes in Putnam county have been or are acquired by the city, or reservoirs have been or are constructed, the residents of such county shall have the right of boating, fishing and taking ice from such lakes and reservoirs, subject to such regulations as the commissioner of environmental protection may make from time to time to preserve the purity of the water and to prevent nuisances, and subject, however, to the right of the city to prohibit such use in the event of the declaration of an emergency as provided in section 24-326 of this code.
 
 
 
@@ -4683,7 +4683,7 @@ Chapter 3: Water Supply
 § 24-328 Lake Mahopac; level of water not reduced.  ::
 
 
-	Nothing in this chapter contained shall authorize, empower or permit any water in excess of its ordinary flow to be drawn from Lake Mahopac, in the town of Carmel, Putnam county, between the first days of March and September in any year.
+Nothing in this chapter contained shall authorize, empower or permit any water in excess of its ordinary flow to be drawn from Lake Mahopac, in the town of Carmel, Putnam county, between the first days of March and September in any year.
 
 
 
@@ -4691,7 +4691,7 @@ Chapter 3: Water Supply
 § 24-329 Interments near reservoir prohibited.  ::
 
 
-	It shall be unlawful to establish any cemetery or place of burial, or burial vaults, or other place for the reception or burial of dead bodies, or to bury, or deposit in vaults, any dead body, within a distance of half a mile of any reservoir, or any ponds used for the supply of the borough of Brooklyn with water. In the county of Nassau, however, it shall be lawful to do so with the written consent of the state department of health and the commissioner of environmental protection upon such terms and conditions as may be prescribed by such commissioner. This section shall not, however, be construed to prevent burials in any cemetery already established, or grounds now held by any religious corporation or society organized under the laws of this state.
+It shall be unlawful to establish any cemetery or place of burial, or burial vaults, or other place for the reception or burial of dead bodies, or to bury, or deposit in vaults, any dead body, within a distance of half a mile of any reservoir, or any ponds used for the supply of the borough of Brooklyn with water. In the county of Nassau, however, it shall be lawful to do so with the written consent of the state department of health and the commissioner of environmental protection upon such terms and conditions as may be prescribed by such commissioner. This section shall not, however, be construed to prevent burials in any cemetery already established, or grounds now held by any religious corporation or society organized under the laws of this state.
 
 
 
@@ -4699,7 +4699,7 @@ Chapter 3: Water Supply
 § 24-330 Watering horses.  ::
 
 
-	a.   Within the city, all publicly owned watering troughs, and those erected or maintained by the American Society for the prevention of cruelty to animals, shall be provided with the necessary piping and fixtures to enable the filling of pails with water therefrom, or otherwise modified in construction so as to meet the requirements of the board of health. The supply of water for such troughs shall be furnished by the department of environmental protection. All other horse-watering troughs on streets and public places in the city shall likewise be provided with the piping and fixtures necessary to enable the filling of pails with water, and the use of the water for that purpose shall be paid for. All horse-watering stations in streets and public places hereafter constructed or operated, shall conform to the provisions of this section. It shall be unlawful to draw water from such fixtures except to water horses or other animals. It shall be unlawful to tamper with such fixtures.
+a.   Within the city, all publicly owned watering troughs, and those erected or maintained by the American Society for the prevention of cruelty to animals, shall be provided with the necessary piping and fixtures to enable the filling of pails with water therefrom, or otherwise modified in construction so as to meet the requirements of the board of health. The supply of water for such troughs shall be furnished by the department of environmental protection. All other horse-watering troughs on streets and public places in the city shall likewise be provided with the piping and fixtures necessary to enable the filling of pails with water, and the use of the water for that purpose shall be paid for. All horse-watering stations in streets and public places hereafter constructed or operated, shall conform to the provisions of this section. It shall be unlawful to draw water from such fixtures except to water horses or other animals. It shall be unlawful to tamper with such fixtures.
 
    b.   Every commercial vehicle to which a horse is attached, while on the public thoroughfares of the city, must be provided with a watering pail, which shall be used for the purpose of watering or feeding the horse or horses attached to the vehicle.
 
@@ -4711,7 +4711,7 @@ Chapter 3: Water Supply
 § 24-331 Sale of water; license.  ::
 
 
-	It shall be unlawful for any person, except when licensed by the commissioner, to take water from any hydrant or water connection erected, or to be erected in the city, and attached to the water pipes, to be used on any boat, vessel, barge or piledriver, or to be sold or offered for sale to the owner of any boat, vessel, barge, or pile-driver.
+It shall be unlawful for any person, except when licensed by the commissioner, to take water from any hydrant or water connection erected, or to be erected in the city, and attached to the water pipes, to be used on any boat, vessel, barge or piledriver, or to be sold or offered for sale to the owner of any boat, vessel, barge, or pile-driver.
 
 
 
@@ -4719,7 +4719,7 @@ Chapter 3: Water Supply
 § 24-332 Use of water through hose.  ::
 
 
-	It shall be unlawful for any person to wash any street, sidewalk, areaway, steps, building or other place in the city by means of a hose or piping, or to use water through a hose or sprinkler for watering lawns or gardens, or to operate any outside shower where the water runs upon a street, sidewalk, or other public place between the first day of November and the last day of March following.
+It shall be unlawful for any person to wash any street, sidewalk, areaway, steps, building or other place in the city by means of a hose or piping, or to use water through a hose or sprinkler for watering lawns or gardens, or to operate any outside shower where the water runs upon a street, sidewalk, or other public place between the first day of November and the last day of March following.
 
 
 
@@ -4727,7 +4727,7 @@ Chapter 3: Water Supply
 § 24-334 Water meters; when to be placed.  ::
 
 
-	a.   (1)   The commissioner is authorized to install or cause to be installed water meters, the pattern and maximum price of which shall be approved by the board of estimate in any or all stores, workshops, hotels, lodging houses, factories, office buildings, and public edifices, at wharves, ferry houses, and stables, and in all places in which water is furnished for business consumption and in any or all new or substantially improved or altered dwellings. When authorized thereto by resolution of the board of estimate or by local law, the commissioner may install such meters in any or all other multiple dwellings, and he or she shall install such meter or meters or cause them to be installed upon written demand of the owner of any lot or premises to which such water is supplied.
+a.   (1)   The commissioner is authorized to install or cause to be installed water meters, the pattern and maximum price of which shall be approved by the board of estimate in any or all stores, workshops, hotels, lodging houses, factories, office buildings, and public edifices, at wharves, ferry houses, and stables, and in all places in which water is furnished for business consumption and in any or all new or substantially improved or altered dwellings. When authorized thereto by resolution of the board of estimate or by local law, the commissioner may install such meters in any or all other multiple dwellings, and he or she shall install such meter or meters or cause them to be installed upon written demand of the owner of any lot or premises to which such water is supplied.
 
       (2)   For purposes of this subdivision an improvement or alteration is a physical change in an existing structure, other than painting, ordinary repairs and normal replacement of maintenance items. A structure shall be deemed to have been substantially improved or altered where:
 
@@ -4747,7 +4747,7 @@ Chapter 3: Water Supply
 § 24-335 Charges where supply is metered.  ::
 
 
-	No charge for the supply of water other than a meter charge, minimum charge or annual service charge shall be made against any houses or lots or any portion or portions thereof where a water meter may have been or shall be placed. In all cases where a water meter may have been or shall be placed, the charge for supply of water shall be determined only by the quantity of water actually used, as shown by such meters, except for a minimum charge or an annual service charge and except as provided by subdivision four of section seven hundred thirty-four of the charter.*
+No charge for the supply of water other than a meter charge, minimum charge or annual service charge shall be made against any houses or lots or any portion or portions thereof where a water meter may have been or shall be placed. In all cases where a water meter may have been or shall be placed, the charge for supply of water shall be determined only by the quantity of water actually used, as shown by such meters, except for a minimum charge or an annual service charge and except as provided by subdivision four of section seven hundred thirty-four of the charter.*
 
 
 
@@ -4755,7 +4755,7 @@ Chapter 3: Water Supply
 § 24-336 Acquisition of water meters.  ::
 
 
-	The commissioner may acquire any water meters installed upon premises connected with the public water supply, from private owners, with the approval of the mayor, upon such terms and subject to such rules and regulations as the mayor may approve.
+The commissioner may acquire any water meters installed upon premises connected with the public water supply, from private owners, with the approval of the mayor, upon such terms and subject to such rules and regulations as the mayor may approve.
 
 
 
@@ -4763,7 +4763,7 @@ Chapter 3: Water Supply
 § 24-337 Waste of water prohibited; remedies.  ::
 
 
-	a.   It shall be unlawful for water to be wasted, whether owing to leak or wasteful condition, regardless of fault, from any water pipe, valve, faucet, conduit, equipment, facility or device connected to the city water system or which utilizes city water. It shall be the duty of an owner, lessee, agent, manager, operator and of any other person in charge of or who has control over any premises, plant, equipment, facility, device or operation to make frequent regular inspections so as to minimize the likelihood of leak or waste and within a reasonable time after the discovery or notification of any leak or wasteful condition to effect repairs or take other appropriate corrective action within the power of such person. The commissioner of environmental protection shall promulgate such reasonable rules and regulations as the commissioner may from time to time deem appropriate for the prevention of the waste of water.
+a.   It shall be unlawful for water to be wasted, whether owing to leak or wasteful condition, regardless of fault, from any water pipe, valve, faucet, conduit, equipment, facility or device connected to the city water system or which utilizes city water. It shall be the duty of an owner, lessee, agent, manager, operator and of any other person in charge of or who has control over any premises, plant, equipment, facility, device or operation to make frequent regular inspections so as to minimize the likelihood of leak or waste and within a reasonable time after the discovery or notification of any leak or wasteful condition to effect repairs or take other appropriate corrective action within the power of such person. The commissioner of environmental protection shall promulgate such reasonable rules and regulations as the commissioner may from time to time deem appropriate for the prevention of the waste of water.
 
    b.   In addition to enforcement pursuant to section 24-346 the commissioner may serve a leak and waste notice upon any person having a duty to repair or correct a leak or wasteful condition or upon any person in violation of the rules and regulations for the prevention of the waste of water. Such notice shall specify the repair or correction to be made and shall fix a reasonable time for compliance. Where such notice has been served and water continues to be wasted after the time for correction has expired, the commissioner may, after notice and an opportunity for a hearing before the commissioner or his or her designee, turn off the water supply to the premises or impose a penalty not to exceed fifty dollars per day for each day that water continues to be wasted after the expiration date contained in the notice, or both. Any penalty imposed pursuant to this section may be added to the water rents; except that no such penalty may be imposed against any property unless both the leak and waste notice and notice of the proceeding to impose the penalty was served upon the owner by mailing copies thereof to the person whose name appears on the records in the office of the city collector as being the owner or agent or as the person designated by the owner to receive tax bills at the address on file for such purpose or where no name appears to the property addressed to "owner" or "agent" and such person has had an opportunity to be heard. The provisions of this subdivision shall not be construed to limit the commissioner's power to shut off water supply without notice, or with such notice as the commissioner may deem practicable, where a leak exists; or where emergency action is otherwise deemed essential.
 
@@ -4783,7 +4783,7 @@ Chapter 3: Water Supply
 § 24-338 Meters to be installed where water is wasted.  ::
 
 
-	The commissioner is authorized to install or cause to be installed a meter or meters in any premises where repeated violation notices to prevent waste of water are necessary, or where the owner fails to comply with waste of water violation notices.
+The commissioner is authorized to install or cause to be installed a meter or meters in any premises where repeated violation notices to prevent waste of water are necessary, or where the owner fails to comply with waste of water violation notices.
 
 
 
@@ -4791,7 +4791,7 @@ Chapter 3: Water Supply
 § 24-339 Water saving plumbing fixtures.  ::
 
 
-	a.   It shall be unlawful for any person to distribute, sell, offer for sale, import or install any plumbing fixture which does not meet the standards of subdivision P.104.2 of section P.104.0 of reference standard RS sixteen.
+a.   It shall be unlawful for any person to distribute, sell, offer for sale, import or install any plumbing fixture which does not meet the standards of subdivision P.104.2 of section P.104.0 of reference standard RS sixteen.
 
    b.   An owner who has installed a shower head in a class A dwelling unit which meets the standards of subdivision P.104.2 of section P.104.0 of reference standard RS sixteen shall not be required to replace any such device which is stolen, removed, missing or rendered inoperable during the occupancy of such dwelling unit but shall replace such device prior to the commencement of a new occupancy of such dwelling unit. Notwithstanding the provisions of section 27-2005, it shall be the sole duty of the occupant of each dwelling unit in a class A multiple dwelling in which such a shower head has been provided and installed by the owner to replace such devices which are either stolen, removed, missing or rendered inoperable during the occupancy of such dwelling unit. The meaning of terms used in this subdivision shall be as defined in chapter two of title twenty-seven of this code.
 
@@ -4801,7 +4801,7 @@ Chapter 3: Water Supply
 § 24-341 Charges not to be affected.  ::
 
 
-	Nothing contained in sections 24-335 through 24-337 of the code shall be construed to prevent the imposition of charges in accordance with schedules, rules or regulations heretofore adopted or the performance of any act required or authorized under such schedules, rules or regulations or under the provisions of sections 24-335 through 24-337, 11-301, 11-312 and 11-314 of the code, nor to affect or invalidate charges heretofore imposed, or hereafter to be imposed as herein provided, nor to prevent the due collection of such charges or interfere with the liens thereof.
+Nothing contained in sections 24-335 through 24-337 of the code shall be construed to prevent the imposition of charges in accordance with schedules, rules or regulations heretofore adopted or the performance of any act required or authorized under such schedules, rules or regulations or under the provisions of sections 24-335 through 24-337, 11-301, 11-312 and 11-314 of the code, nor to affect or invalidate charges heretofore imposed, or hereafter to be imposed as herein provided, nor to prevent the due collection of such charges or interfere with the liens thereof.
 
 
 
@@ -4809,7 +4809,7 @@ Chapter 3: Water Supply
 § 24-342 Connection charges.  ::
 
 
-	All persons contracting for a supply of water within the city, shall pay the cost of the materials and labor used and expended in the streets, necessary to make the connection with the conduit pipes, as required by the rules and regulations of the commissioner of environmental protection.
+All persons contracting for a supply of water within the city, shall pay the cost of the materials and labor used and expended in the streets, necessary to make the connection with the conduit pipes, as required by the rules and regulations of the commissioner of environmental protection.
 
 
 
@@ -4817,7 +4817,7 @@ Chapter 3: Water Supply
 § 24-343 Transfer of house service pipe connection to new water main.  ::
 
 
-	a.   In instances where the city has laid a water main in a street where surface grades have been established but where the surface has not been improved to the established grade and when a new water main is installed by the city because it is required by the grading of such street to the established grade, the commissioner of environmental protection shall issue an order directing the owner of each house which was directly connected with the main as previously laid, to transfer the house service pipe connection to the new main, at the expense of such owner when required in accordance with the rules and regulations of the commissioner.
+a.   In instances where the city has laid a water main in a street where surface grades have been established but where the surface has not been improved to the established grade and when a new water main is installed by the city because it is required by the grading of such street to the established grade, the commissioner of environmental protection shall issue an order directing the owner of each house which was directly connected with the main as previously laid, to transfer the house service pipe connection to the new main, at the expense of such owner when required in accordance with the rules and regulations of the commissioner.
 
    b.   When a new water main is installed by the city to replace a private main, the commissioner shall issue an order directing the owner of each house fronting on the city main and receiving water from such private main to transfer the house service pipe connection to the city main, at the expense of such owner and in accordance with the rules and regulations of the commissioner.
 
@@ -4831,7 +4831,7 @@ Chapter 3: Water Supply
 § 24-343.1 Backflow prevention device reporting.  ::
 
 
-	a.   For purposes of this section the following terms shall have the following meanings:
+a.   For purposes of this section the following terms shall have the following meanings:
 
       (1)   "Backflow" shall mean a flow condition, induced by a differential in pressure, that causes the flow of water or other liquids and/or gases into the distribution of pipes of a city water main, private water main, or to an internal water main from any source other than its intended source.
 
@@ -4855,7 +4855,7 @@ Chapter 3: Water Supply
 § 24-344 Report of receipts by clerk in bureau of water register.  ::
 
 
-	The clerk of the bureau of water register assigned to collecting, on each day, except Sunday of each week, shall render to the comptroller an account, under oath, of all moneys received by him or her, showing the amounts received from all classes of revenue and shall, thereupon, pay over the amounts so received to the commissioner of finance, furnishing to the comptroller a receipt showing the payment of such sums into the city treasury.
+The clerk of the bureau of water register assigned to collecting, on each day, except Sunday of each week, shall render to the comptroller an account, under oath, of all moneys received by him or her, showing the amounts received from all classes of revenue and shall, thereupon, pay over the amounts so received to the commissioner of finance, furnishing to the comptroller a receipt showing the payment of such sums into the city treasury.
 
 
 
@@ -4863,7 +4863,7 @@ Chapter 3: Water Supply
 § 24-345 Pay-as-you-go financing for certain water pollution control projects.  ::
 
 
-	a.   Subject to the provisions of subdivision c and subdivision d of this section, for the fiscal year commencing July first, nineteen hundred seventy-seven and for each succeeding fiscal year, a direct mandatory budget appropriation shall be made for the city's per centum share of the costs of the north river water pollution control project, the oakwood beach water pollution control project and the red hook water pollution control project payable during such fiscal year.
+a.   Subject to the provisions of subdivision c and subdivision d of this section, for the fiscal year commencing July first, nineteen hundred seventy-seven and for each succeeding fiscal year, a direct mandatory budget appropriation shall be made for the city's per centum share of the costs of the north river water pollution control project, the oakwood beach water pollution control project and the red hook water pollution control project payable during such fiscal year.
 
    b.   The budgetary appropriations made to pay part of the annual costs of such projects shall be in amounts consistent with the requirements of any final judgment, decree or order of any federal court which sets forth a schedule for the completion of such projects.
 
@@ -4877,7 +4877,7 @@ Chapter 3: Water Supply
 § 24-346 Enforcement and penalties.  ::
 
 
-	a.   Notwithstanding any other provision of law, the commissioner of environmental protection and the environmental control board shall enforce the provisions of this chapter and chapter four of this title and the regulations promulgated pursuant thereto or pursuant to section fourteen hundred three of the New York city charter as hereinafter provided. Such commissioner and board shall have the power to issue such orders as may be provided for herein and such additional orders as may be necessary for the enforcement of such provisions.
+a.   Notwithstanding any other provision of law, the commissioner of environmental protection and the environmental control board shall enforce the provisions of this chapter and chapter four of this title and the regulations promulgated pursuant thereto or pursuant to section fourteen hundred three of the New York city charter as hereinafter provided. Such commissioner and board shall have the power to issue such orders as may be provided for herein and such additional orders as may be necessary for the enforcement of such provisions.
 
    b.   Any person who violates or fails to comply with any of the provisions of this chapter and chapter four of this title or any order, rule or regulation issued by the board or commissioner or with the conditions of any permit issued by the commissioner within the city of New York shall be liable for a civil penalty of not less than fifty nor more than one thousand dollars for each violation, except that the civil penalty for violating section 24-303.1 shall be not less than two thousand five hundred dollars nor more than twenty-five thousand dollars and the civil penalty for the removal of a manhole cover in violation of section 24-304 shall be not less than two thousand five hundred dollars nor more than ten thousand dollars. In the case of a continuing violation each day’s continuance shall be a separate and distinct offense. The environmental control board shall have the power to impose such civil penalties. A proceeding to impose such penalties shall be commenced by the service of a notice of violation returnable to such board. Such board, after a hearing as provided by the rules and regulations of the board, shall have the power to enforce its final decisions and orders imposing such civil penalties as if they were money judgments pursuant to subdivision d of section one thousand forty-nine-a of the New York city charter. A civil penalty imposed by the board may also be collected in an action brought in the name of the city in any court of competent jurisdiction. The board, in its discretion, may, within the limits set forth in this subdivision, establish a schedule of civil penalties indicating the minimum and maximum penalty for each separate offense.
 
@@ -4919,7 +4919,7 @@ Chapter 3: Water Supply
 § 24-347 Commissioner of environmental protection to submit forms of contracts and specifications for approval of corporation counsel.  ::
 
 
-	Upon the filing of the oath of the commissioners of appraisal in the manner hereinbefore provided, the commissioner of environmental protection shall, from time to time, as the commissioner may determine, prepare and submit to the corporation counsel, forms of contracts and specifications for the doing of the work and the furnishing of the material required to be done and furnished by such approved plan, or for the doing of such parts of such work and the furnishing of such parts of the materials as the commissioner may from time to time determine. The forms of contracts, specifications and bonds for the faithful performance shall be subject to approval as to form by the corporation counsel, which approval shall be endorsed thereon or attached thereto. The commissioner is hereby given the exclusive authority to determine what provisions shall be embodied in such contracts.
+Upon the filing of the oath of the commissioners of appraisal in the manner hereinbefore provided, the commissioner of environmental protection shall, from time to time, as the commissioner may determine, prepare and submit to the corporation counsel, forms of contracts and specifications for the doing of the work and the furnishing of the material required to be done and furnished by such approved plan, or for the doing of such parts of such work and the furnishing of such parts of the materials as the commissioner may from time to time determine. The forms of contracts, specifications and bonds for the faithful performance shall be subject to approval as to form by the corporation counsel, which approval shall be endorsed thereon or attached thereto. The commissioner is hereby given the exclusive authority to determine what provisions shall be embodied in such contracts.
 
 
 
@@ -4927,7 +4927,7 @@ Chapter 3: Water Supply
 § 24-348 Advertisement for sealed bids or proposals for work or materials; publication.  ::
 
 
-	When the form of any contract with its specifications and the form of bond for the performance thereof shall have been approved as provided for in section 24-347, the commissioner shall advertise for sealed bids or for proposals for the doing of the work or the furnishing of the materials called for in such approved form of contract. Such advertisment shall be published in the City Record and in two daily newspapers published in the city, to be designated by the commissioner, for at least fifteen days consecutively before the time fixed for the closing of the bid box.
+When the form of any contract with its specifications and the form of bond for the performance thereof shall have been approved as provided for in section 24-347, the commissioner shall advertise for sealed bids or for proposals for the doing of the work or the furnishing of the materials called for in such approved form of contract. Such advertisment shall be published in the City Record and in two daily newspapers published in the city, to be designated by the commissioner, for at least fifteen days consecutively before the time fixed for the closing of the bid box.
 
 
 
@@ -4935,7 +4935,7 @@ Chapter 3: Water Supply
 § 24-349 Receipt of sealed bids; deposit required.  ::
 
 
-	All bids or proposals which may be sent in answer to the invitation of such advertisement shall be enclosed in a sealed envelope and delivered to the commissioner or to such person as may be designated by the commissioner to receive the same, who shall, upon receipt thereof, forthwith and in the presence of the person offering such bid, deposit it in a box provided for the receipt thereof. But no bid or proposal shall be so received or deposited unless at the time of such presentation there shall be deposited with the person as aforesaid designated a certified check upon a national or state bank, drawn to the order of the comptroller, to an amount not less than five percent of the amount of the bond or security required by such approved form for the faithful performance of the work or furnishing of the materials required to be done or furnished. Such amount need not, however, in any case, exceed one hundred thousand dollars.
+All bids or proposals which may be sent in answer to the invitation of such advertisement shall be enclosed in a sealed envelope and delivered to the commissioner or to such person as may be designated by the commissioner to receive the same, who shall, upon receipt thereof, forthwith and in the presence of the person offering such bid, deposit it in a box provided for the receipt thereof. But no bid or proposal shall be so received or deposited unless at the time of such presentation there shall be deposited with the person as aforesaid designated a certified check upon a national or state bank, drawn to the order of the comptroller, to an amount not less than five percent of the amount of the bond or security required by such approved form for the faithful performance of the work or furnishing of the materials required to be done or furnished. Such amount need not, however, in any case, exceed one hundred thousand dollars.
 
 
 
@@ -4943,7 +4943,7 @@ Chapter 3: Water Supply
 § 24-350 Public opening of bids, acceptance; rejection; readvertisement.  ::
 
 
-	After the expiration of the time limited in the advertisement, such bids or proposals shall be publicly opened by the commissioner and he or she may select the bid or proposal, the acceptance of which will, in the commissioner's judgment, best secure the efficient performance of the work, or the commissioner may reject any or all of such bids. In case of the rejection of all bids, the commissioner shall readvertise such contract, and shall receive and dispose of the bids tendered under such advertisement in the manner hereinbefore provided. In case any work shall be abandoned by any contractor, or the contractor's contract terminated pursuant to the provisions thereof, it shall be readvertised and relet in the manner provided for in this subchapter for the original letting of such work, except that in such a case, the board of estimate by a two-thirds vote may order otherwise, and may authorize, upon the recommendation of the commissioner, the completion of the work in such manner and by such means as the commissioner deems appropriate.
+After the expiration of the time limited in the advertisement, such bids or proposals shall be publicly opened by the commissioner and he or she may select the bid or proposal, the acceptance of which will, in the commissioner's judgment, best secure the efficient performance of the work, or the commissioner may reject any or all of such bids. In case of the rejection of all bids, the commissioner shall readvertise such contract, and shall receive and dispose of the bids tendered under such advertisement in the manner hereinbefore provided. In case any work shall be abandoned by any contractor, or the contractor's contract terminated pursuant to the provisions thereof, it shall be readvertised and relet in the manner provided for in this subchapter for the original letting of such work, except that in such a case, the board of estimate by a two-thirds vote may order otherwise, and may authorize, upon the recommendation of the commissioner, the completion of the work in such manner and by such means as the commissioner deems appropriate.
 
 
 
@@ -4951,7 +4951,7 @@ Chapter 3: Water Supply
 § 24-351 Return or forfeiture of deposits.  ::
 
 
-	Within three days after the decision as to who shall receive the contract, the comptroller shall return all the deposits made to the persons making the same, except the deposit made by the bidder to whom the contract shall be awarded; and if the bidder to whom the contract is awarded shall refuse or neglect, within ten days after due notice that the contract has been awarded, to execute the same, and furnish the security required, the amount of deposit made by the bidder shall be forfeited to and be retained by the city as liquidated damages for such neglect or refusal and shall be paid into the general fund, but if such bidder shall execute the contract, and furnish the security within such time, the amount of the bidder's deposit shall be returned to the bidder.
+Within three days after the decision as to who shall receive the contract, the comptroller shall return all the deposits made to the persons making the same, except the deposit made by the bidder to whom the contract shall be awarded; and if the bidder to whom the contract is awarded shall refuse or neglect, within ten days after due notice that the contract has been awarded, to execute the same, and furnish the security required, the amount of deposit made by the bidder shall be forfeited to and be retained by the city as liquidated damages for such neglect or refusal and shall be paid into the general fund, but if such bidder shall execute the contract, and furnish the security within such time, the amount of the bidder's deposit shall be returned to the bidder.
 
 
 
@@ -4959,7 +4959,7 @@ Chapter 3: Water Supply
 § 24-352 Execution and filing of contracts; supervision and inspection of work and materials; employer's bond.  ::
 
 
-	The contracts, when so awarded, shall be executed in triplicate by the contractor or contractors on the one part and the commissioner acting for the city, on the other part. One of such originals shall be delivered to the contractor, and the other two shall be filed, one in the finance department and the other with the commissioner. The work and materials called for by such contract shall be done and furnished under the direction and supervision, and subject to the inspection of the commissioner, the commissioner's engineers, supervisors and inspectors. No contract shall take effect until the commissioner shall certify thereon in writing that the commissioner's acceptance will, in the commissioner's judgment, best secure the public interest and the efficient performance of the work therein mentioned.
+The contracts, when so awarded, shall be executed in triplicate by the contractor or contractors on the one part and the commissioner acting for the city, on the other part. One of such originals shall be delivered to the contractor, and the other two shall be filed, one in the finance department and the other with the commissioner. The work and materials called for by such contract shall be done and furnished under the direction and supervision, and subject to the inspection of the commissioner, the commissioner's engineers, supervisors and inspectors. No contract shall take effect until the commissioner shall certify thereon in writing that the commissioner's acceptance will, in the commissioner's judgment, best secure the public interest and the efficient performance of the work therein mentioned.
 
 
 
@@ -4967,7 +4967,7 @@ Chapter 3: Water Supply
 § 24-353 Obligations for capital projects; proceeds for operating expenses.  ::
 
 
-	Expenditures made or incurred by the commissioner of environmental protection shall not be considered operating expenses but shall be deemed to be part of the acquisition, construction or addition to a water supply or distribution system and may be financed in the same manner as the acquisition, construction or addition to a water supply or distribution system.
+Expenditures made or incurred by the commissioner of environmental protection shall not be considered operating expenses but shall be deemed to be part of the acquisition, construction or addition to a water supply or distribution system and may be financed in the same manner as the acquisition, construction or addition to a water supply or distribution system.
 
 
 
@@ -4975,7 +4975,7 @@ Chapter 3: Water Supply
 § 24-354 Work and materials to be procured by contract; exceptions; certificate of public interest.  ::
 
 
-	a.   All work hereby authorized to be done and all materials hereby authorized to be furnished involving an expenditure of over one thousand dollars, shall be procured by contract made in the manner required by and pursuant to the provisions of this subchapter. The commissioner of environmental protection, however, may without contract cause such surveys to be made and such maps, plans and estimates to be prepared, as shall, in his or her opinion, be necessary to carry out the provisions of this subchapter, and may appoint and fix the compensation of suitable engineers and other persons to supervise and inspect all work hereby authorized to be done. The commissioner of environmental protection may procure any work to be done without contract, not involving an expenditure of over five thousand dollars, if the commissioner certifies that in his or her opinion, it is for the public interest that such work be done; and in such certificate the commissioner shall state his or her reasons therefor.
+a.   All work hereby authorized to be done and all materials hereby authorized to be furnished involving an expenditure of over one thousand dollars, shall be procured by contract made in the manner required by and pursuant to the provisions of this subchapter. The commissioner of environmental protection, however, may without contract cause such surveys to be made and such maps, plans and estimates to be prepared, as shall, in his or her opinion, be necessary to carry out the provisions of this subchapter, and may appoint and fix the compensation of suitable engineers and other persons to supervise and inspect all work hereby authorized to be done. The commissioner of environmental protection may procure any work to be done without contract, not involving an expenditure of over five thousand dollars, if the commissioner certifies that in his or her opinion, it is for the public interest that such work be done; and in such certificate the commissioner shall state his or her reasons therefor.
 
    b.   Notwithstanding any inconsistent provisions of this subchapter or of any general or special law, the commissioner of environmental protection, during the existence of a state of war between the United States of America and the governments of Germany, Japan and Italy, or any of them, and for six months immediately following the termination thereof, may procure or contract for, without public letting, any equipment or materials necessary for the completion of the Delaware aqueduct and appurtenant structures and for any work to be done in connection with the installation of such equipment or materials if the commissioner certifies that in his or her opinion, it is in the public interest that any such equipment or material be procured or contracted for or any such work be done, without public letting, and any such certificate of the commissioner shall state his or her reasons therefor. Any such certificate shall be filed in the office of the comptroller of the city of New York.
 
@@ -4985,7 +4985,7 @@ Chapter 3: Water Supply
 § 24-355 Police protection to inhabitants of construction areas; appointment and dismissal of police; powers and duties.  ::
 
 
-	a.   It shall be the duty of the commissioner of environmental protection to provide proper police protection to the inhabitants of the localities in which any work may be constructed under the authority of this subchapter during the period of construction, against the acts or omissions of persons employed on such works or found in their neighborhood. To that end the commissioner is authorized and required to appoint a sufficient number of persons to adequately police such localities for such periods. The commissioner shall also have power to remove such persons and to fix or change their compensation in his or her discretion, which compensation shall be paid by the city upon a certificate of the commissioner, as part of the expense authorized to be incurred by this subchapter.
+a.   It shall be the duty of the commissioner of environmental protection to provide proper police protection to the inhabitants of the localities in which any work may be constructed under the authority of this subchapter during the period of construction, against the acts or omissions of persons employed on such works or found in their neighborhood. To that end the commissioner is authorized and required to appoint a sufficient number of persons to adequately police such localities for such periods. The commissioner shall also have power to remove such persons and to fix or change their compensation in his or her discretion, which compensation shall be paid by the city upon a certificate of the commissioner, as part of the expense authorized to be incurred by this subchapter.
 
    b.   The commissioner of environmental protection shall give to each person so appointed a certificate of appointment and certified copies thereof, one of which shall be filed in the office of the sheriff of each county in which any work shall be in process of construction under this subchapter and in which such person shall be authorized to perform that person's duties. Each person so appointed shall be and have all the powers of a peace officer in the county where any work is being constructed under the authority of this subchapter. Such person shall at all times when on duty wear upon his or her clothing or have in his or her possession a shield or other suitable badge of authority which such person shall at once exhibit to any person asking therefor.
 
@@ -5001,7 +5001,7 @@ Chapter 3: Water Supply
 § 24-356 Construction and repair of highways and bridges; rules and regulations to prevent improper use.  ::
 
 
-	a.   The city is hereby required to build and construct such highways and bridges as may be made necessary by the construction of any reservoir under this subchapter, and to repair and forever maintain such additional highways and bridges and to remove the snow and to sand the highway surfaces whenever necessary, except such as shall be part of any state route; and in case any bridge or highway thus constructed shall cross any railroad, it shall do so above or below such railroad and not upon the same level. The plans and specifications for any highways required to be constructed under the provisions of this section shall be approved by the state department of transportation.
+a.   The city is hereby required to build and construct such highways and bridges as may be made necessary by the construction of any reservoir under this subchapter, and to repair and forever maintain such additional highways and bridges and to remove the snow and to sand the highway surfaces whenever necessary, except such as shall be part of any state route; and in case any bridge or highway thus constructed shall cross any railroad, it shall do so above or below such railroad and not upon the same level. The plans and specifications for any highways required to be constructed under the provisions of this section shall be approved by the state department of transportation.
 
    b.   The commissioner of environmental protection shall make such reasonable rules and regulations, not in conflict with the highway law, as may be necessary to prevent improper and destructive use of highways and bridges constructed under the provisions of the water supply laws of the city of New York. Provided, however, that the commissioner of environmental protection shall have no greater authority in respect thereto than is now, or may hereafter be, vested by the highway law of the state of New York in the town, county or state authorities in relation to the construction and regulation of town, county and state highways. Any individual or corporation failing to observe such rules and regulations shall be guilty of a misdemeanor and, in addition, shall be liable for actual damages to such highways and bridges, to be recovered by the city.
 
@@ -5013,7 +5013,7 @@ Chapter 3: Water Supply
 § 24-357 Report to comptroller of expenses and liabilities.  ::
 
 
-	The commissioner of environmental protection shall in every calendar month file in the office of the comptroller an account of any expenses made by the commissioner, or under the commissioner's authority, and of all liabilities incurred by the commissioner during the preceding month and an abstract of each such account shall be published in the City Record.
+The commissioner of environmental protection shall in every calendar month file in the office of the comptroller an account of any expenses made by the commissioner, or under the commissioner's authority, and of all liabilities incurred by the commissioner during the preceding month and an abstract of each such account shall be published in the City Record.
 
 
 
@@ -5021,7 +5021,7 @@ Chapter 3: Water Supply
 § 24-358 Removal of buildings to prevent contamination of the water supply.  ::
 
 
-	The city or its representatives shall not enter upon any lands not taken in pursuance of subchapter three-A of chapter three of title five for the purpose of preserving streams or watercourses from pollution or contamination, or of moving or causing to be moved any buildings, improvements or edifices on the ground that the same may contaminate the water supply, without making a provision for just compensation to the owner of such buildings or improvements for the removal or destruction thereof.
+The city or its representatives shall not enter upon any lands not taken in pursuance of subchapter three-A of chapter three of title five for the purpose of preserving streams or watercourses from pollution or contamination, or of moving or causing to be moved any buildings, improvements or edifices on the ground that the same may contaminate the water supply, without making a provision for just compensation to the owner of such buildings or improvements for the removal or destruction thereof.
 
 
 
@@ -5029,7 +5029,7 @@ Chapter 3: Water Supply
 § 24-359 Rights of fishing and ice cutting in lakes and reservoirs preserved; regulation.  ::
 
 
-	Nothing herein contained shall authorize or empower the city to prohibit the public from using such lakes or reservoirs that may be constructed under the provisions of this subchapter, for the purpose of ice-cutting or fishing; and the city, or its representatives, shall not hereafter prohibit the public from using such lakes or reservoirs which are now under the care or supervision of the city for the purposes of ice-cutting or fishing, subject, however, to reasonable rules and regulations, and subject however, to the right of the city to prohibit such use in the event of the declaration of an emergency as provided in section 24-326 of this code.
+Nothing herein contained shall authorize or empower the city to prohibit the public from using such lakes or reservoirs that may be constructed under the provisions of this subchapter, for the purpose of ice-cutting or fishing; and the city, or its representatives, shall not hereafter prohibit the public from using such lakes or reservoirs which are now under the care or supervision of the city for the purposes of ice-cutting or fishing, subject, however, to reasonable rules and regulations, and subject however, to the right of the city to prohibit such use in the event of the declaration of an emergency as provided in section 24-326 of this code.
 
 
 
@@ -5037,7 +5037,7 @@ Chapter 3: Water Supply
 § 24-360 Water supply to municipalities other than New York city; connections; charges; regulations; quantity to be taken.  ::
 
 
-	a.   It shall be lawful for any of the municipal corporations or water districts in the counties of Ulster, Greene, Delaware, Schoharie, Sullivan, Orange, Westchester and Putnam, and for the village of Deposit in the counties of Delaware and Broome, to take and receive from any of the reservoirs, aqueducts, conduits, streams or pipes of the city a supply of water for the uses and purposes of such municipal corporations or water districts or village and to that end such municipal corporations or water districts are, and each of them is, and such village also is, authorized and empowered to lay the necessary mains, pipes, valves, hydrants, supply pipes and other necessary appurtenances for the use of such water, without the consent of any board, officer, bureau, or department of the state or any subdivision thereof.
+a.   It shall be lawful for any of the municipal corporations or water districts in the counties of Ulster, Greene, Delaware, Schoharie, Sullivan, Orange, Westchester and Putnam, and for the village of Deposit in the counties of Delaware and Broome, to take and receive from any of the reservoirs, aqueducts, conduits, streams or pipes of the city a supply of water for the uses and purposes of such municipal corporations or water districts or village and to that end such municipal corporations or water districts are, and each of them is, and such village also is, authorized and empowered to lay the necessary mains, pipes, valves, hydrants, supply pipes and other necessary appurtenances for the use of such water, without the consent of any board, officer, bureau, or department of the state or any subdivision thereof.
 
    b.   The connections with such reservoirs, aqueducts, conduits, streams or pipes shall be made at the expense of such municipalities or water districts. They shall pay to the city such fair and reasonable water charges or rates as may be agreed upon between the commissioner of environmental protection and the authorities of such municipal corporations or water districts or as from time to time upon the application of either party shall be fixed by the New York state department of environmental conservation, which department is hereby given power to fix such fair and reasonable charges or rates after hearing all parties interested. The expenses of any such hearing and decision by the New York state department of environmental conservation shall be paid by the applicant. Bills for such expenses shall be certified by such department to the applicant and paid by the applicant directly to the claimant within thirty days of the date of such cer- tification.
 
@@ -5053,7 +5053,7 @@ Chapter 3: Water Supply
 § 24-361 Change in sanitary sewers in city of Kingston, before water taken from Esopus creek, Ulster county.  ::
 
 
-	In case any water shall be taken under the provisions of this subchapter from the Esopus creek in the county of Ulster, then and in that event and before any water shall be diverted from such Esopus creek, the city of New York shall, at the expense, cost and charge of the city and under a plan to be approved of by the common council and the city engineer of the city of Kingston, build, construct, reconstruct, alter or change the sanitary sewers of such city of Kingston known as the first and eighth ward sewers, the trunk sewer of which follows the general line of the Tannery brook in such city of Kingston and which now discharges or flows into the Esopus creek, so that the same shall discharge into the Hudson river or into the Rondout creek. The city of New York shall be liable for all damages of every name and nature which may result from the building, construction, reconstruction, alteration or changing of such sewers, and shall also at the expense, cost and charge of the city of New York, but in the name of the city of Kingston, acquire by purchase or by the condemnation proceedings provided for by this subchapter, all rights in and over private lands in the city of Kingston, which it may be necessary to acquire in order to build, construct, reconstruct, alter or change such sewers. The city of New York in executing such plan, may use for such purposes the public streets of the city of Kingston or any right of way or easement that the city of Kingston now has for the purpose of constructing or maintaining sewers.
+In case any water shall be taken under the provisions of this subchapter from the Esopus creek in the county of Ulster, then and in that event and before any water shall be diverted from such Esopus creek, the city of New York shall, at the expense, cost and charge of the city and under a plan to be approved of by the common council and the city engineer of the city of Kingston, build, construct, reconstruct, alter or change the sanitary sewers of such city of Kingston known as the first and eighth ward sewers, the trunk sewer of which follows the general line of the Tannery brook in such city of Kingston and which now discharges or flows into the Esopus creek, so that the same shall discharge into the Hudson river or into the Rondout creek. The city of New York shall be liable for all damages of every name and nature which may result from the building, construction, reconstruction, alteration or changing of such sewers, and shall also at the expense, cost and charge of the city of New York, but in the name of the city of Kingston, acquire by purchase or by the condemnation proceedings provided for by this subchapter, all rights in and over private lands in the city of Kingston, which it may be necessary to acquire in order to build, construct, reconstruct, alter or change such sewers. The city of New York in executing such plan, may use for such purposes the public streets of the city of Kingston or any right of way or easement that the city of Kingston now has for the purpose of constructing or maintaining sewers.
 
 
 
@@ -5061,7 +5061,7 @@ Chapter 3: Water Supply
 § 24-362 Disposal of the sewage of the city of Port Jervis.  ::
 
 
-	a.   The city of New York, through the commissioner of environmental protection, is hereby authorized and empowered to enter into a contract or agreement, subject to the approval of the board of estimate, with the municipal authorities of the city of Port Jervis, New York, to provide for the treatment and disposition of the sewage of the city of Port Jervis in such manner as may be provided for in said agreement and the said municipal authorities of the city of Port Jervis are likewise authorized and empowered hereby to enter into the agreement aforesaid.
+a.   The city of New York, through the commissioner of environmental protection, is hereby authorized and empowered to enter into a contract or agreement, subject to the approval of the board of estimate, with the municipal authorities of the city of Port Jervis, New York, to provide for the treatment and disposition of the sewage of the city of Port Jervis in such manner as may be provided for in said agreement and the said municipal authorities of the city of Port Jervis are likewise authorized and empowered hereby to enter into the agreement aforesaid.
 
    b.   The city of New York, through the commissioner of environmental protection, subject to the approval of the board of estimate, is hereby authorized and empowered to acquire by purchase, or by condemnation pursuant to this subchapter, such real estate in the city of Port Jervis or the county of Orange as may be necessary to carry into effect any agreed plan for the treatment and disposition of the sewage of the city of Port Jervis, and to convey any such real estate so acquired to the city of Port Jervis, any special or general law to the contrary, notwithstanding.
 
@@ -5073,7 +5073,7 @@ Chapter 3: Water Supply
 § 24-363 Sewage disposal in Ulster, Delaware and Sullivan counties.  ::
 
 
-	a.   The city of New York, through the commissioner of environmental protection, is hereby authorized and empowered, subject to the approval of the board of estimate, the state department of health, and the authorities of the town or village affected, or in the alternative the supreme court in the judicial district in which the proposed sewers and disposal works are to be located, to construct, maintain and operate systems and plants for the collection, treatment and disposal of sewage in any town or incorporated village in the Rondout creek and Delaware river watersheds in the counties of Ulster, Delaware and Sullivan.
+a.   The city of New York, through the commissioner of environmental protection, is hereby authorized and empowered, subject to the approval of the board of estimate, the state department of health, and the authorities of the town or village affected, or in the alternative the supreme court in the judicial district in which the proposed sewers and disposal works are to be located, to construct, maintain and operate systems and plants for the collection, treatment and disposal of sewage in any town or incorporated village in the Rondout creek and Delaware river watersheds in the counties of Ulster, Delaware and Sullivan.
 
    b.   The city of New York, through the commissioner of environmental protection, is hereby authorized and empowered, subject to the approval of the board of estimate, to enter into contracts or agreements, where practicable, with the municipal authorities of any towns or incorporated villages within the Rondout creek and Delaware river watersheds, in the counties of Ulster, Delaware and Sullivan, to provide, maintain and operate systems and plants for the collection, treatment and disposal of sewage in any such town or village, and the municpal authorities of any such village or the town board of any such town are likewise authorized and empowered to enter into such agreements with the city.
 
@@ -5093,7 +5093,7 @@ Chapter 3: Water Supply
 § 24-364 Utilization of water to generate electric current.  ::
 
 
-	The commissioner of environmental protection may, subject to the approval of the board of estimate, utilize such water as the department of environmental protection now owns or as it may hereafter acquire, for the purpose of generating electric current for the use of the municipality, or may permit the utilization of such water for the generation and sale of electric current by an electric corporation which was the owner of a developed or undeveloped water power site or sites affected, acquired or damaged by the execution of a plan or project of the city for an additional water supply, and the commissioner of environmental protection, with the approval of the board of estimate, in connection with the settlement of a resultant claim for damage made by such electric corporation, may grant or lease to such electric corporation for periods not to exceed fifty years, rights in, or to use, the lands and waters of the city for the generation of electric current as herein provided, for such consideration and on such terms and conditions as are, in the opinion of the commissioner, in the best interests of the city of New York, including but not limited to a general release of such claim, provided that such grant or lease may be made at the time of settlement of the claim as above provided but the period of use under the terms of the lease or grant, not to exceed fifty years, may commence when generation of electric current thereunder shall begin, provided that no additional water shall be used for such purpose than would otherwise be required by the city.
+The commissioner of environmental protection may, subject to the approval of the board of estimate, utilize such water as the department of environmental protection now owns or as it may hereafter acquire, for the purpose of generating electric current for the use of the municipality, or may permit the utilization of such water for the generation and sale of electric current by an electric corporation which was the owner of a developed or undeveloped water power site or sites affected, acquired or damaged by the execution of a plan or project of the city for an additional water supply, and the commissioner of environmental protection, with the approval of the board of estimate, in connection with the settlement of a resultant claim for damage made by such electric corporation, may grant or lease to such electric corporation for periods not to exceed fifty years, rights in, or to use, the lands and waters of the city for the generation of electric current as herein provided, for such consideration and on such terms and conditions as are, in the opinion of the commissioner, in the best interests of the city of New York, including but not limited to a general release of such claim, provided that such grant or lease may be made at the time of settlement of the claim as above provided but the period of use under the terms of the lease or grant, not to exceed fifty years, may commence when generation of electric current thereunder shall begin, provided that no additional water shall be used for such purpose than would otherwise be required by the city.
 
 
 
@@ -5101,7 +5101,7 @@ Chapter 3: Water Supply
 § 24-365 Cemetery and burial grounds.  ::
 
 
-	Whenever for the purposes of this subchapter it shall be necessary to use any land or premises, or any portion thereof, now occupied by graves, burial places, cemeteries or other places of interment of human remains, such graves, burial places, cemeteries or other places of interment of human remains and the human remains located therein, shall be removed and disposed of in the following manner:
+Whenever for the purposes of this subchapter it shall be necessary to use any land or premises, or any portion thereof, now occupied by graves, burial places, cemeteries or other places of interment of human remains, such graves, burial places, cemeteries or other places of interment of human remains and the human remains located therein, shall be removed and disposed of in the following manner:
 
    1.   The city having acquired title to the land where burial places are situated shall cause a notice to be published once in each week for four successive weeks in two newspapers published in the county where such burial place or places are situated, which such notice shall be substantially as follows: "Please take notice that the undersigned hereby intends to make application relating to the removal of all the remains, all the monuments and all other distinguishing marks from the cemetery or burial place located in the town of __________________ county of ____________ known as ____________ not less than sixty days after (the last publication date of this notice) for an order pursuant to subchapter four of chapter three of title twenty-four of the administrative code of the city of New York; Please take further notice that any and all person or persons legally entitled to direct as to the disposition of the above may remove the same to any other cemetery or burial place within the same or an adjoining county within sixty days after (the last publication date of this notice) if they so elect upon informing the commissioner of environmental protection in writing of the cemetery or burial place in which said remains are to be reinterred and to which the monuments and other distinguishing marks are to be moved.
 
@@ -5117,7 +5117,7 @@ Corporation counsel of the city of New York."
 § 24-366 Assessment of electric generation viability.  ::
 
 
-	a.   The department shall undertake a resource assessment of the city's potable water supply and wastewater treatment systems and the natural bodies of water within the city's jurisdiction to determine the potential of such systems and bodies of water for generating electricity. In performing such assessment the department shall include an examination of the potential to construct and operate energy generating facilities within such systems and natural bodies of water; the means for transmitting the electricity generated; the need to construct and operate generation-related infrastructure; grid-connection issues; generation system installation and maintenance costs; and risks to the operation of water supply and wastewater treatment systems and natural bodies of water posed by energy-generating facilities.
+a.   The department shall undertake a resource assessment of the city's potable water supply and wastewater treatment systems and the natural bodies of water within the city's jurisdiction to determine the potential of such systems and bodies of water for generating electricity. In performing such assessment the department shall include an examination of the potential to construct and operate energy generating facilities within such systems and natural bodies of water; the means for transmitting the electricity generated; the need to construct and operate generation-related infrastructure; grid-connection issues; generation system installation and maintenance costs; and risks to the operation of water supply and wastewater treatment systems and natural bodies of water posed by energy-generating facilities.
 
    b.   The department shall conduct a technological review of in-conduit and free-flow hydropower technologies that are appropriate for the pressure and water flow rates for each site identified in the resource assessment.
 
@@ -5131,7 +5131,7 @@ Corporation counsel of the city of New York."
 § 24-367 Soil and foundation work; notification and permit required. ::
 
 
-	a.   Whenever soil or foundation work, as defined in chapter 33 of the New York city building code, for any purpose, is proposed to a depth greater than 50 feet in the borough of the Bronx or on or north of 135th Street in the borough of Manhattan, or greater than 100 feet in the borough of Brooklyn, Queens, or Staten Island or south of 135th Street in the borough of Manhattan, the owner of the premises, engineer, architect or contractor shall notify the department of environmental protection of the location of such activity at least 30 business days prior to commencement of such activity. Within 10 business days of receiving such notification, the department shall determine whether the location of such activity is in close proximity to critical infrastructure, as defined in rules promulgated by the department, and notify the owner of the premises, engineer, architect or contractor of such determination. If the department determines that the location of such activity is in close proximity to critical infrastructure, the owner of the premises, engineer, architect or contractor shall obtain a permit from the department prior to commencement of such activity. The issuance of any permit or approval by any agency of the city other than the department for such activity shall not relieve the owner of the premises, engineer, architect or contractor of the obligation to comply with the notification and permitting requirements of this section. The department may promulgate a rule waiving or amending the notification and permitting requirements of this section where the department determines that such activity must be performed on an emergency basis.
+a.   Whenever soil or foundation work, as defined in chapter 33 of the New York city building code, for any purpose, is proposed to a depth greater than 50 feet in the borough of the Bronx or on or north of 135th Street in the borough of Manhattan, or greater than 100 feet in the borough of Brooklyn, Queens, or Staten Island or south of 135th Street in the borough of Manhattan, the owner of the premises, engineer, architect or contractor shall notify the department of environmental protection of the location of such activity at least 30 business days prior to commencement of such activity. Within 10 business days of receiving such notification, the department shall determine whether the location of such activity is in close proximity to critical infrastructure, as defined in rules promulgated by the department, and notify the owner of the premises, engineer, architect or contractor of such determination. If the department determines that the location of such activity is in close proximity to critical infrastructure, the owner of the premises, engineer, architect or contractor shall obtain a permit from the department prior to commencement of such activity. The issuance of any permit or approval by any agency of the city other than the department for such activity shall not relieve the owner of the premises, engineer, architect or contractor of the obligation to comply with the notification and permitting requirements of this section. The department may promulgate a rule waiving or amending the notification and permitting requirements of this section where the department determines that such activity must be performed on an emergency basis.
 
    b.   1.   The department may issue a stop work order whenever the department finds that any soil or foundation work in violation of this section or any rules promulgated thereunder creates a danger to critical infrastructure.
 
@@ -5155,7 +5155,7 @@ Chapter 4: Gas and Electric Lines
 § 24-401 Engineers. [Repealed]  ::
 
 
-	a.   It shall be unlawful for any person to take up the pavement of any street, or to excavate for the purpose of laying any gas distribution lines, or any electrical conductors underground, or of constructing subways, or of erecting poles, unless permission in writing therefor shall have been first obtained from the commissioner of transportation. It shall be unlawful to string, lay or maintain any gas distribution lines, or any electrical conductors above or below the surface of any street, in any part of the city, without written permission from the commissioner of transportation. The commissioner of transportation shall determine whether any extension of the existing electrical conductors of any person shall be by means of overhead or underground conductors.
+a.   It shall be unlawful for any person to take up the pavement of any street, or to excavate for the purpose of laying any gas distribution lines, or any electrical conductors underground, or of constructing subways, or of erecting poles, unless permission in writing therefor shall have been first obtained from the commissioner of transportation. It shall be unlawful to string, lay or maintain any gas distribution lines, or any electrical conductors above or below the surface of any street, in any part of the city, without written permission from the commissioner of transportation. The commissioner of transportation shall determine whether any extension of the existing electrical conductors of any person shall be by means of overhead or underground conductors.
 
    b.   Violations. Any person who shall violate any provision of this section, upon conviction thereof, shall be punished by a fine of not less then two hundred fifty dollars nor more than five hundred dollars, or imprisonment for thirty days or both.
 
@@ -5165,7 +5165,7 @@ Chapter 4: Gas and Electric Lines
 § 24-405 Permit required.  ::
 
 
-	a.   It shall be unlawful for any gas, telephone or electric light company, or any person to lay or install any pipes, mains or conduits for the use and transmission of gas, electricity, pneumatic power or steam, or to perform any work that is under the jurisdiction, cognizance and control of the commissioner of transportation, in any street, or public place, without a written permit from the commissioner of transportation.
+a.   It shall be unlawful for any gas, telephone or electric light company, or any person to lay or install any pipes, mains or conduits for the use and transmission of gas, electricity, pneumatic power or steam, or to perform any work that is under the jurisdiction, cognizance and control of the commissioner of transportation, in any street, or public place, without a written permit from the commissioner of transportation.
 
    b.   It shall be unlawful to violate any provision of this section or any notice or special direction thereunder, under a penalty of not less than two hundred fifty dollars nor more than five hundred dollars for each offense.
 
@@ -5175,7 +5175,7 @@ Chapter 4: Gas and Electric Lines
 § 24-406 Removal of electric wires; Manhattan and the Bronx.  ::
 
 
-	a.   After the grade of any street in the boroughs of Manhattan and the Bronx shall have been finally determined and established, whenever, in the opinion of the board of estimate it shall be practicable to remove the electrical conductors above ground in such street and place them underground, the commissioner of transportation shall notify the owners or operators of such conductors. Notice shall be to the effect that such electrical conductors must be removed within a certain time, sufficient for removal, which shall be fixed by such commissioner. In the case of a corporation duly authorized to lay and operate electrical conductors underground in such street, the time shall be sufficient for the proper laying of conductors underground in place of those removed.
+a.   After the grade of any street in the boroughs of Manhattan and the Bronx shall have been finally determined and established, whenever, in the opinion of the board of estimate it shall be practicable to remove the electrical conductors above ground in such street and place them underground, the commissioner of transportation shall notify the owners or operators of such conductors. Notice shall be to the effect that such electrical conductors must be removed within a certain time, sufficient for removal, which shall be fixed by such commissioner. In the case of a corporation duly authorized to lay and operate electrical conductors underground in such street, the time shall be sufficient for the proper laying of conductors underground in place of those removed.
 
    b.   All electrical conductors authorized to be placed underground, shall be so placed under and in accordance with the provisions of sections 24-410 through 24-415 of the code. Whenever application shall be made to the commissioner of transportation for permission to place underground electrical conductors in any such street, if such permission be granted, the subways therefor shall be constructed or provided, and such electrical conductors placed underground under and in accordance with the provisions of such sections. Such permission shall be granted only in accordance with the provisions of such sections.
 
@@ -5185,7 +5185,7 @@ Chapter 4: Gas and Electric Lines
 § 24-407 Underground electrical conductors; Manhattan and the Bronx.  ::
 
 
-	Any company, operating or intending to operate electrical conductors in the boroughs of Manhattan and the Bronx, if it shall desire or be required to place its conductors or any of them underground in any of the streets of such boroughs, must remove such conductors from the surface of such streets, when duly authorized so to do. It shall be obligatory upon such company to file with the commissioner of transportation a map or maps, made to scale, showing the streets which are desired to be used for such purpose, and giving the general location, dimensions and course of the underground conduits desired to be constructed. Before any such conduits shall be constructed, it shall be necessary to obtain the approval of such commissioner of transportation of the plan of construction proposed by such company. The commissioner of transportation has and shall have power to require that the work of removal and of constructing every such system of underground conductors shall be done according to such plan so approved, subject at all times to such modifications as shall be made by him or her from time to time, and subject also to such rules and regulations as may be promulgated by him.
+Any company, operating or intending to operate electrical conductors in the boroughs of Manhattan and the Bronx, if it shall desire or be required to place its conductors or any of them underground in any of the streets of such boroughs, must remove such conductors from the surface of such streets, when duly authorized so to do. It shall be obligatory upon such company to file with the commissioner of transportation a map or maps, made to scale, showing the streets which are desired to be used for such purpose, and giving the general location, dimensions and course of the underground conduits desired to be constructed. Before any such conduits shall be constructed, it shall be necessary to obtain the approval of such commissioner of transportation of the plan of construction proposed by such company. The commissioner of transportation has and shall have power to require that the work of removal and of constructing every such system of underground conductors shall be done according to such plan so approved, subject at all times to such modifications as shall be made by him or her from time to time, and subject also to such rules and regulations as may be promulgated by him.
 
 
 
@@ -5193,7 +5193,7 @@ Chapter 4: Gas and Electric Lines
 § 24-408 Electrical conductors; Manhattan and the Bronx; duties of commissioner of transportation.  ::
 
 
-	a.   It shall be the duty of the commissioner of transportation to carefully investigate any and all methods proposed by any company for electric lighting or electrical communication by the use of conductors along or across any street in the boroughs of Manhattan and the Bronx, and, before approving of any such method, such commissioner of transportation shall require that, so far as practicable, all such conductors when constructed shall be underground. The commissioner of transportation shall have full authority to compel all companies operating electric wires to use the subway prepared in accordance with the provisions of sections 24-407 through 24-409 of the code.
+a.   It shall be the duty of the commissioner of transportation to carefully investigate any and all methods proposed by any company for electric lighting or electrical communication by the use of conductors along or across any street in the boroughs of Manhattan and the Bronx, and, before approving of any such method, such commissioner of transportation shall require that, so far as practicable, all such conductors when constructed shall be underground. The commissioner of transportation shall have full authority to compel all companies operating electric wires to use the subway prepared in accordance with the provisions of sections 24-407 through 24-409 of the code.
 
    b.   Wherever, along the streets, in sparsely inhabited or unoccupied portions of such boroughs, the public interests do not require the electrical conductors to be placed underground, and wherever, in any other locality in such boroughs, it is deemed by such commissioner to be, for any cause, impracticable to construct and successfully operate underground the electrical conductors required by any such company, then, it shall be the duty of such commissioner to examine and grant the application of any such company for permission to deviate from such underground system. The commissioner of transportation shall not, however, grant any such permission unless he or she shall be satisfied, upon investigation, that such a permit should be granted for one of the reasons stated above, and that it will not interfere with the successful working of underground conductors elsewhere in such boroughs. Any such permit shall be held and construed to authorize the construction and maintenance of the lines of conductors therein provided for, as and where prescribed by the commissioner of transportation.
 
@@ -5209,7 +5209,7 @@ Chapter 4: Gas and Electric Lines
 § 24-409 Aerial electrical wires or cables; regulation.  ::
 
 
-	Whenever the commissioner of transportation shall permit any aerial electrical wires or cables, carried along or across and above the surface of any of the streets of such boroughs, to be crossed by aerial electrical wires or cables, it shall be the duty of the commissioner of transportation to designate also, in such permit, the route and location thereof, and to prescribe and regulate the height at which such wires or cables shall be placed. Whenever any such permit shall be granted by the commissioner of transportation, in extending the connections of any subterranean electrical conductors, for the erection of any structure or structures for sustaining electrical conductors above the surface of any street, or for placing wires or cables on any such structure or elsewhere than underground, or for carrying any such wires or cables across or along and above the surface of any street, or for placing wires or cables on any such structure or elsewhere than underground, or for carrying any such wires or cables over or into or in the rear of any building in such boroughs, any and all such structures, and any and all such wires or cables, shall be so erected and maintained as not to interfere with the other public uses of such streets.
+Whenever the commissioner of transportation shall permit any aerial electrical wires or cables, carried along or across and above the surface of any of the streets of such boroughs, to be crossed by aerial electrical wires or cables, it shall be the duty of the commissioner of transportation to designate also, in such permit, the route and location thereof, and to prescribe and regulate the height at which such wires or cables shall be placed. Whenever any such permit shall be granted by the commissioner of transportation, in extending the connections of any subterranean electrical conductors, for the erection of any structure or structures for sustaining electrical conductors above the surface of any street, or for placing wires or cables on any such structure or elsewhere than underground, or for carrying any such wires or cables across or along and above the surface of any street, or for placing wires or cables on any such structure or elsewhere than underground, or for carrying any such wires or cables over or into or in the rear of any building in such boroughs, any and all such structures, and any and all such wires or cables, shall be so erected and maintained as not to interfere with the other public uses of such streets.
 
 
 
@@ -5217,7 +5217,7 @@ Chapter 4: Gas and Electric Lines
 § 24-410 Construction of conduits; removal of poles, wires.  ::
 
 
-	Whenever, in the opinion of the commissioner of transportation, a sufficient construction of conduits or subways under ground shall be made ready under the provisions of sections 24-410 through 24-414 of the code, in any street or locality in the boroughs of Manhattan and the Bronx, reference being had to the general direction and vicinity of the electrical conductors then in use overhead, the commissioner of transportation shall notify the owners or operators of the electrical conductors above ground in such street or locality. The notice shall inform them that they are to make such electrical connections in such street or through other streets, localities or parts of such boroughs with such underground conduits or subways as shall be determined by such commissioner of transportation, and to remove poles, wires, or other electrical conductors above ground and their supporting fixtures or other devices from such street and locality within ninety days after notice to such effect shall be given.
+Whenever, in the opinion of the commissioner of transportation, a sufficient construction of conduits or subways under ground shall be made ready under the provisions of sections 24-410 through 24-414 of the code, in any street or locality in the boroughs of Manhattan and the Bronx, reference being had to the general direction and vicinity of the electrical conductors then in use overhead, the commissioner of transportation shall notify the owners or operators of the electrical conductors above ground in such street or locality. The notice shall inform them that they are to make such electrical connections in such street or through other streets, localities or parts of such boroughs with such underground conduits or subways as shall be determined by such commissioner of transportation, and to remove poles, wires, or other electrical conductors above ground and their supporting fixtures or other devices from such street and locality within ninety days after notice to such effect shall be given.
 
 
 
@@ -5225,7 +5225,7 @@ Chapter 4: Gas and Electric Lines
 § 24-411 Removal of abandoned poles.  ::
 
 
-	a.   All telegraph, telephone and electric light poles, wires or conductors which shall hereafter remain or stand disused, or become disused or abandoned, in, or over or upon any street, shall be forthwith removed, but for sufficient cause shown the commissioner of transportation may extend the time for such removal, by one or more orders, for periods not exceeding one year each.
+a.   All telegraph, telephone and electric light poles, wires or conductors which shall hereafter remain or stand disused, or become disused or abandoned, in, or over or upon any street, shall be forthwith removed, but for sufficient cause shown the commissioner of transportation may extend the time for such removal, by one or more orders, for periods not exceeding one year each.
 
    b.   The persons owning, operating, managing or controlling poles, wires or appurtenances which may have been so disused or abandoned, or which may be dangerous or unsafe, shall take down and remove them, and upon their failure to do so, the commissioner of transportation shall remove the same forthwith, at the expense of such persons. Before such removal, the commissioner of transportation, except where a condition of danger exists, shall mail a notice thereof to the last known address of such persons, a copy of which shall be posted for a period of ten days on each of such poles prior to its removal.
 
@@ -5239,7 +5239,7 @@ Chapter 4: Gas and Electric Lines
 § 24-412 Agreement with Consolidated Telegraph and Electrical Subway Company; new contracts.  ::
 
 
-	The agreement made by and between the commissioners of electrical subways or the commissioner of water supply, gas and electricity for the city of New York and the Consolidated Telegraph and Electrical Subway Company or its successor by merger, the Consolidated Edison Company of New York, under date of July twenty-seventh, eighteen hundred eighty-six, when and as amended and modified by a second and further contract or agreement between these parties, dated the seventh day of April, eighteen hundred eighty-seven, is hereby ratified and confirmed, subject, however to all the provisions of sections 24-410 through 24-414 of the code. But if at any time or for any reason the agreement so amended shall be or become inoperative or ineffectual for the accomplishment of its just purpose and the purposes of these sections, or if the company shall be unable, or after reasonable notice and opportunity given by such commissioner, it shall fail or decline to comply with or carry into effect the agreement in all its terms, then such commissioner may, with the approval of the mayor, make such new, further or different contracts with the same or other parties as may be reasonable or necessary to carry into effect the provisions and intent of sections 24-410 through 24-414 of the code.
+The agreement made by and between the commissioners of electrical subways or the commissioner of water supply, gas and electricity for the city of New York and the Consolidated Telegraph and Electrical Subway Company or its successor by merger, the Consolidated Edison Company of New York, under date of July twenty-seventh, eighteen hundred eighty-six, when and as amended and modified by a second and further contract or agreement between these parties, dated the seventh day of April, eighteen hundred eighty-seven, is hereby ratified and confirmed, subject, however to all the provisions of sections 24-410 through 24-414 of the code. But if at any time or for any reason the agreement so amended shall be or become inoperative or ineffectual for the accomplishment of its just purpose and the purposes of these sections, or if the company shall be unable, or after reasonable notice and opportunity given by such commissioner, it shall fail or decline to comply with or carry into effect the agreement in all its terms, then such commissioner may, with the approval of the mayor, make such new, further or different contracts with the same or other parties as may be reasonable or necessary to carry into effect the provisions and intent of sections 24-410 through 24-414 of the code.
 
 
 
@@ -5247,7 +5247,7 @@ Chapter 4: Gas and Electric Lines
 § 24-413 Enforcement of agreement and of provisions of sections 24-407 through 24-414 of the code.  ::
 
 
-	Whenever it shall be made to appear to the satisfaction of any of the justices of the supreme court, that the commissioner of general services or his or her representatives, or any commissioner succeeding to the functions of such commissioner, or his or her representatives, or the Consolidated Telegraph and Electrical Subway Company or its successor by merger, the Consolidated Edison Company of New York, or any persons claiming under such commissioner, or under such company, shall have violated or shall have failed to observe and fully perform any of the provisions of sections 24-407 through 24-414 of the code, or of such agreement, or shall have failed to furnish just and equal facilities thereunder to any and all corporations lawfully competent to manufacture, use or supply electricity, or to operate electrical conductors in any street, applying for such facilities upon terms that to the court shall appear just and reasonable, then such justice or court may, by proper proceedings in the nature of an order of mandamus, enforce the provisions of sections 24-407 through 24-414 of the code, or of such agreement or of any agreement made under such sections or compel the granting of such facilities, or may grant such relief as may be proper. Such commissioner, or the city, or any person, company or corporation aggrieved, shall be entitled to institute and maintain such proceedings.
+Whenever it shall be made to appear to the satisfaction of any of the justices of the supreme court, that the commissioner of general services or his or her representatives, or any commissioner succeeding to the functions of such commissioner, or his or her representatives, or the Consolidated Telegraph and Electrical Subway Company or its successor by merger, the Consolidated Edison Company of New York, or any persons claiming under such commissioner, or under such company, shall have violated or shall have failed to observe and fully perform any of the provisions of sections 24-407 through 24-414 of the code, or of such agreement, or shall have failed to furnish just and equal facilities thereunder to any and all corporations lawfully competent to manufacture, use or supply electricity, or to operate electrical conductors in any street, applying for such facilities upon terms that to the court shall appear just and reasonable, then such justice or court may, by proper proceedings in the nature of an order of mandamus, enforce the provisions of sections 24-407 through 24-414 of the code, or of such agreement or of any agreement made under such sections or compel the granting of such facilities, or may grant such relief as may be proper. Such commissioner, or the city, or any person, company or corporation aggrieved, shall be entitled to institute and maintain such proceedings.
 
 
 
@@ -5255,7 +5255,7 @@ Chapter 4: Gas and Electric Lines
 § 24-414 Power to purchase subways, property and contracts of such company.  ::
 
 
-	The mayor, in his or her discretion, may purchase the subways constructed by such company, and the contracts and other property held or owned by it for any of the purposes of its incorporation, for and in the name of the city. The purchase price shall not exceed the actual cost of the property, with ten per cent added to such cost, as may be or may have been agreed upon between such company and the commissioner of general services. The payment therefor shall be made within four months after the delivery to the comptroller of good and sufficient and duly executed instruments of conveyance or transfer to the city, subject, however, to any valid liens outstanding thereon, not exceeding fifty per cent of the actual cost of such subways, and subject to all existing leases or contracts for the use of such subways.
+The mayor, in his or her discretion, may purchase the subways constructed by such company, and the contracts and other property held or owned by it for any of the purposes of its incorporation, for and in the name of the city. The purchase price shall not exceed the actual cost of the property, with ten per cent added to such cost, as may be or may have been agreed upon between such company and the commissioner of general services. The payment therefor shall be made within four months after the delivery to the comptroller of good and sufficient and duly executed instruments of conveyance or transfer to the city, subject, however, to any valid liens outstanding thereon, not exceeding fifty per cent of the actual cost of such subways, and subject to all existing leases or contracts for the use of such subways.
 
 
 
@@ -5263,7 +5263,7 @@ Chapter 4: Gas and Electric Lines
 § 24-415 Conditions to granting permit for conduit construction; security.  ::
 
 
-	a.   The commissioner of transportation shall not grant a permit of the type mentioned in section 24-404 of the code unless, if the application be for underground construction, there is an existing demand for the construction of such conduits or subways, and the occupation of such conduits or subways is reasonably assured, and the public interests require their construction, or unless, if the application be for permission to deviate from an underground system, the case is one of those in which such deviation may be legally permitted under authority of sections 24-407 through 24-409 of the code. This section is made a police regulation in and for such boroughs.
+a.   The commissioner of transportation shall not grant a permit of the type mentioned in section 24-404 of the code unless, if the application be for underground construction, there is an existing demand for the construction of such conduits or subways, and the occupation of such conduits or subways is reasonably assured, and the public interests require their construction, or unless, if the application be for permission to deviate from an underground system, the case is one of those in which such deviation may be legally permitted under authority of sections 24-407 through 24-409 of the code. This section is made a police regulation in and for such boroughs.
 
    b.   It shall be the duty of the commissioner of transportation to require of any corporation or individual making application for the construction of subways, that before the construction of such subways shall be ordered, the applicant shall furnish to the corporation which shall be ordered to build such subways, satisfactory security for the occupation by it of the subways which shall be constructed at its request, and the payment of the established rentals therefor yearly in advance, during such period, not less than five years, as the commissioner of transportation shall determine. The commissioner of transportation may establish and from time to time may alter, add to or amend all proper and necessary rules, regulations and provisions for the manner of use and management of the electrical conductors, and of the conduits or subways therefor, constructed or contemplated under the provisions of this section or of any law mentioned herein. This section shall not be construed to authorize any corporation or individual to take up the pavements of such boroughs, to excavate in any of such streets or to erect poles in any part of such boroughs, unless a permit in writing therefor shall have been first obtained from the commissioner of transportation.
 
@@ -5273,7 +5273,7 @@ Chapter 4: Gas and Electric Lines
 § 24-416 Underground electrical conductors; Brooklyn, Queens and Richmond.  ::
 
 
-	Whenever the board of estimate, after hearing all the parties interested, shall deem it desirable and practicable that the electrical conductors above ground in any street in the boroughs of Brooklyn, Queens and Richmond, be placed underground, the commissioner of transportation shall notify the owners or operators of such electrical conductors. The notice shall be to the effect that such electrical conductors shall be placed underground within a certain time, sufficient for the proper construction of underground conduits or other channels in such street, to be fixed by such commissioner. Whenever any duly authorized company operating or intending to operate electrical conductors in any such street, shall desire to place its conductors or any of them underground, it shall be obligatory upon such company to file with the commissioner of transportation a map or maps made to a scale, showing the streets which are desired to be used for such purpose, and giving the general location, dimensions and course of the underground conduit desired to be constructed. Before any such conduit shall be constructed it shall be necessary to obtain the approval of the commissioner of transportation of such plan of construction so proposed, and such commissioner shall have power to require that the work of removal and of constructing every such system of underground conductors shall be done according to such plan so approved.
+Whenever the board of estimate, after hearing all the parties interested, shall deem it desirable and practicable that the electrical conductors above ground in any street in the boroughs of Brooklyn, Queens and Richmond, be placed underground, the commissioner of transportation shall notify the owners or operators of such electrical conductors. The notice shall be to the effect that such electrical conductors shall be placed underground within a certain time, sufficient for the proper construction of underground conduits or other channels in such street, to be fixed by such commissioner. Whenever any duly authorized company operating or intending to operate electrical conductors in any such street, shall desire to place its conductors or any of them underground, it shall be obligatory upon such company to file with the commissioner of transportation a map or maps made to a scale, showing the streets which are desired to be used for such purpose, and giving the general location, dimensions and course of the underground conduit desired to be constructed. Before any such conduit shall be constructed it shall be necessary to obtain the approval of the commissioner of transportation of such plan of construction so proposed, and such commissioner shall have power to require that the work of removal and of constructing every such system of underground conductors shall be done according to such plan so approved.
 
 
 
@@ -5281,7 +5281,7 @@ Chapter 4: Gas and Electric Lines
 § 24-417 Telegraph, telephone or electric light poles on Eighth avenue between Flatbush avenue and Ninth street in Brooklyn.  ::
 
 
-	Telegraph, telephone or electric light poles, except such iron poles as are now or may hereafter be erected and maintained in connection with an underground system of wires, shall not be erected upon Eighth avenue, in Brooklyn, between Flatbush avenue and Ninth street, or any part thereof, unless the consent of a majority of the owners of property in numbers and value thereof on Eighth avenue between Flatbush avenue and Ninth street first be obtained in writing, duly acknowledged in the same manner as deeds entitled to be recorded.
+Telegraph, telephone or electric light poles, except such iron poles as are now or may hereafter be erected and maintained in connection with an underground system of wires, shall not be erected upon Eighth avenue, in Brooklyn, between Flatbush avenue and Ninth street, or any part thereof, unless the consent of a majority of the owners of property in numbers and value thereof on Eighth avenue between Flatbush avenue and Ninth street first be obtained in writing, duly acknowledged in the same manner as deeds entitled to be recorded.
 
 
 
@@ -5289,7 +5289,7 @@ Chapter 4: Gas and Electric Lines
 § 24-418 Procedure.  ::
 
 
-	The commissioner of transportation shall fix the time within which electrical conductors must be placed underground, and shall notify the owners or operators of any such electrical conductors in the city that such conductors must be removed or placed underground, in accordance with the resolution of the board of estimate. He or she shall give all persons or corporations owning or operating such electrical conductors, an opportunity to be heard on the question of the time necessary to place them underground, and shall hear such expert opinion as he or she may think advisable. Such owners or operators of electrical conductors above ground in such street or locality shall be required to remove all of such poles, wires or other electrical conductors and supporting fixtures or other devices from any such street or locality within thirty days after the expiration of the time so fixed by the commissioner of transportation.
+The commissioner of transportation shall fix the time within which electrical conductors must be placed underground, and shall notify the owners or operators of any such electrical conductors in the city that such conductors must be removed or placed underground, in accordance with the resolution of the board of estimate. He or she shall give all persons or corporations owning or operating such electrical conductors, an opportunity to be heard on the question of the time necessary to place them underground, and shall hear such expert opinion as he or she may think advisable. Such owners or operators of electrical conductors above ground in such street or locality shall be required to remove all of such poles, wires or other electrical conductors and supporting fixtures or other devices from any such street or locality within thirty days after the expiration of the time so fixed by the commissioner of transportation.
 
 
 
@@ -5297,7 +5297,7 @@ Chapter 4: Gas and Electric Lines
 § 24-419 Certain sections to be police regulations.  ::
 
 
-	The provisions of sections 24-404, 24-406, 24-410, 24-416 and 24-418 of the code are made police regulations in and for the city. In case the owners of such poles, wires or other electrical conductors, fixtures and devices shall fail to have them removed from such streets or localities as required by the commissioner of transportation or by the determination of the board of estimate, or shall neglect or refuse to comply with any provisions of law with respect thereto, it shall be the duty of the commissioner of transportation to cause them to be removed from such streets.
+The provisions of sections 24-404, 24-406, 24-410, 24-416 and 24-418 of the code are made police regulations in and for the city. In case the owners of such poles, wires or other electrical conductors, fixtures and devices shall fail to have them removed from such streets or localities as required by the commissioner of transportation or by the determination of the board of estimate, or shall neglect or refuse to comply with any provisions of law with respect thereto, it shall be the duty of the commissioner of transportation to cause them to be removed from such streets.
 
 
 
@@ -5305,7 +5305,7 @@ Chapter 4: Gas and Electric Lines
 § 24-420 Replacement of lamp-posts or electric light poles.  ::
 
 
-	a.   Any person who shall take up and temporarily remove any lamp-post or electric light pole, under a permit or by other lawful authority, shall cause the same to be reset at his or her own expense immediately upon the completion of the work that necessitated its removal.
+a.   Any person who shall take up and temporarily remove any lamp-post or electric light pole, under a permit or by other lawful authority, shall cause the same to be reset at his or her own expense immediately upon the completion of the work that necessitated its removal.
 
    b.   Any person who shall violate any provision of this section shall, upon conviction thereof, be punished by a fine of not less than two hundred fifty nor more than five hundred dollars, or by imprisonment for not exceeding thirty days, or by both.
 
@@ -5315,7 +5315,7 @@ Chapter 4: Gas and Electric Lines
 § 24-421 Electric light, power; inspection of; all wires to be inspected.  ::
 
 
-	The commissioner of buildings shall cause all wires, currents and appliances that may be introduced into or placed in any building or structure in the city to be inspected, and shall furnish a certificate of such inspection to any person or corporation applying therefor.
+The commissioner of buildings shall cause all wires, currents and appliances that may be introduced into or placed in any building or structure in the city to be inspected, and shall furnish a certificate of such inspection to any person or corporation applying therefor.
 
 
 
@@ -5323,7 +5323,7 @@ Chapter 4: Gas and Electric Lines
 § 24-422 Commissioner of buildings to submit proposed local laws with respect to electrical equipment and energy.  ::
 
 
-	The commissioner of buildings shall from time to time submit for the consideration of the council proposed local laws in relation to electric wires, appliances and currents for furnishing light, heat or power when introduced into or placed in any building or structure in the city. Such proposed local laws shall prescribe the method of construction, operation, location, arrangement, insulation and use of such wires, appliances and currents as the commissioner of buildings shall from time to time deem necessary for the protection of life and property.
+The commissioner of buildings shall from time to time submit for the consideration of the council proposed local laws in relation to electric wires, appliances and currents for furnishing light, heat or power when introduced into or placed in any building or structure in the city. Such proposed local laws shall prescribe the method of construction, operation, location, arrangement, insulation and use of such wires, appliances and currents as the commissioner of buildings shall from time to time deem necessary for the protection of life and property.
 
 
 
@@ -5331,7 +5331,7 @@ Chapter 4: Gas and Electric Lines
 § 24-423 Operators of motion-picture projecting machines. [Repealed.] ::
 
 
-	
+
 
 
 
@@ -5339,7 +5339,7 @@ Chapter 4: Gas and Electric Lines
 § 24-424 Annual safety report concerning gas infrastructure. ::
 
 
-	a.   As used in this section, the terms "gas corporation" and "gas plant" shall have the meanings ascribed to such terms in section 2 of the public service law.
+a.   As used in this section, the terms "gas corporation" and "gas plant" shall have the meanings ascribed to such terms in section 2 of the public service law.
 
    b.   Each gas corporation that owns, operates or manages a gas plant located in whole or in part in the city shall by July first in each year, beginning in 2017, submit to an agency or office designated by the mayor a report on gas asset conditions consistent with the reporting requirements of section 255.951 of title 16 of the New York codes, rules and regulations and 49 CFR § 191.11, including the operator's mains and services inventory by material, diameter, vintage and leaks; a summary of major planned infrastructure projects in the city; the gas corporation's investment priorities in the next year; and such other information as such designated agency or office may require by rule.
 
@@ -5353,7 +5353,7 @@ Chapter 4: Gas and Electric Lines
 § 24-425 Identification of gas safety risk factors. ::
 
 
-	a.   An agency or office designated by the mayor shall seek to identify risk factors that correlate to or otherwise indicate a violation of any law or rule that (i) relates to the delivery by pipe, or usage of, gas in residential or commercial buildings and (ii) poses a hazard to health and safety or a risk of damage to property. Such risk factors may include, but need not be limited to, unauthorized gas usage; unusual gas usage for a building based on its historic usage or usage for buildings of similar size, type or occupancy; abandoned structures; or structures condemned by the city.
+a.   An agency or office designated by the mayor shall seek to identify risk factors that correlate to or otherwise indicate a violation of any law or rule that (i) relates to the delivery by pipe, or usage of, gas in residential or commercial buildings and (ii) poses a hazard to health and safety or a risk of damage to property. Such risk factors may include, but need not be limited to, unauthorized gas usage; unusual gas usage for a building based on its historic usage or usage for buildings of similar size, type or occupancy; abandoned structures; or structures condemned by the city.
 
    b.   In developing such risk factors, such designated agency or office shall (i) seek the cooperation of each gas corporation that owns, operates or manages a gas plant located in whole or in part in the city and with each organized labor association that contracts with such corporations and (ii) share with each such corporation appropriate information necessary to minimize impacts of such risk factors. The terms "gas corporation" and "gas plant" as used in this section shall have the meanings ascribed to such terms in section 2 of the public service law.
 
@@ -5369,7 +5369,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-501 Sewage disposal to protect water supply.  ::
 
 
-	a.   1.   The commissioner of environmental protection is authorized and empowered to enter into a contract or agreement, subject to the approval of the mayor, with the appropriate authorities of the following localities:
+a.   1.   The commissioner of environmental protection is authorized and empowered to enter into a contract or agreement, subject to the approval of the mayor, with the appropriate authorities of the following localities:
 
          (a)   The town board of any town and the municipal authorities of any village within the Croton watershed in the county of Westchester,
 
@@ -5397,7 +5397,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-502 Transfer of certain board of estimate lands in the borough of Brooklyn.  ::
 
 
-	a.   All of the board of estimate lands, within the lines of former West 8th street between Surf avenue and the public beach, shown eliminated as a street and laid out as a park addition on map W-1817 adopted by the board of estimate on September twenty-second, nineteen hundred sixty-six, (Cal. No. 41), and shown as being closed and discontinued on map V-1818 adopted by the board of estimate on September twenty-second, nineteen hundred sixty-six, Cal. No. 29 and filed in the office of the register in Kings county on October twenty-seventh, nineteen hundred sixty-six as map No. 3859, are hereby discontinued as board of estimate lands and shall become park lands of the city.
+a.   All of the board of estimate lands, within the lines of former West 8th street between Surf avenue and the public beach, shown eliminated as a street and laid out as a park addition on map W-1817 adopted by the board of estimate on September twenty-second, nineteen hundred sixty-six, (Cal. No. 41), and shown as being closed and discontinued on map V-1818 adopted by the board of estimate on September twenty-second, nineteen hundred sixty-six, Cal. No. 29 and filed in the office of the register in Kings county on October twenty-seventh, nineteen hundred sixty-six as map No. 3859, are hereby discontinued as board of estimate lands and shall become park lands of the city.
 
    b.   There are reserved to the department of environmental protection sewer rights for the maintenance, repair and reconstruction of existing sanitary sewer and storm water sewers in the bed of the discontinued West 8th street, and subject to the condition that no structure of a permanent nature shall be erected over any of the existing sewers.
 
@@ -5407,7 +5407,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-503 Drainage plan.  ::
 
 
-	a.   The commissioner of environmental protection shall devise and prepare a plan for the proper sewerage and drainage of the city, so far as the same has not already been done, for the purpose of thoroughly draining and carrying off water and other matter. He or she shall lay out the city into as many sewerage districts as he or she may deem necessary for such purpose, and shall determine and show, on suitable maps or plans:
+a.   The commissioner of environmental protection shall devise and prepare a plan for the proper sewerage and drainage of the city, so far as the same has not already been done, for the purpose of thoroughly draining and carrying off water and other matter. He or she shall lay out the city into as many sewerage districts as he or she may deem necessary for such purpose, and shall determine and show, on suitable maps or plans:
 
       1.   The location, course, size and grade of each sewer and drain proposed for each of such districts;
 
@@ -5435,7 +5435,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-504 All sewers to be in accordance with general plan.  ::
 
 
-	It shall be unlawful to construct any sewer, sewage disposal plant or drain in the city unless such sewer, sewage disposal plant or drain shall be in accordance with the general plan for the sewerage of the particular district in which such sewer or drain is proposed to be constructed.
+It shall be unlawful to construct any sewer, sewage disposal plant or drain in the city unless such sewer, sewage disposal plant or drain shall be in accordance with the general plan for the sewerage of the particular district in which such sewer or drain is proposed to be constructed.
 
 
 
@@ -5443,7 +5443,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-504.1 Medical debris in sewerage system study.  ::
 
 
-	a.   The department shall, within six months of the effective date of this section, complete a study of the problem of medical debris, including used syringes, that is discharged through the sewerage system and co-disposed with other sewage treatment plant debris. The study shall include but not be limited to analyzing and evaluating:
+a.   The department shall, within six months of the effective date of this section, complete a study of the problem of medical debris, including used syringes, that is discharged through the sewerage system and co-disposed with other sewage treatment plant debris. The study shall include but not be limited to analyzing and evaluating:
 
       1.   the composition and quantity of medical debris that enters the sewerage system;
 
@@ -5465,7 +5465,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-504.2 Combined sewer overflow and floatables, including medical debris, study.  ::
 
 
-	a.   The department shall, within eight months of the effective date of this section, complete an analysis of the combined sewer outfall system and its relationship to floatables, including medical debris, discharged through the system, which are deposited on beaches and other shorelines throughout the city. This analysis shall include, but not be limited to, identifying, evaluating and providing:
+a.   The department shall, within eight months of the effective date of this section, complete an analysis of the combined sewer outfall system and its relationship to floatables, including medical debris, discharged through the system, which are deposited on beaches and other shorelines throughout the city. This analysis shall include, but not be limited to, identifying, evaluating and providing:
 
       1.   The location of each combined sewer regulator and outfall within the city of New York;
 
@@ -5487,7 +5487,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-505 Raising of grade for drainage.  ::
 
 
-	Whenever the commissioner of environmental protection shall determine that it is necessary to raise the grade of any street or streets for the proper sewage of the sewer district in which such street or streets, or parts of streets, are situated, he or she shall prepare a plan showing such proposed change of grade, and shall present the same to the board of estimate and notify the community board for the community district in which the land is located and the office of the appropriate borough president. The board of estimate shall refer such plan to the commissioner of transportation for report. Such board may change the grade of such street or streets, or parts of streets, so far as shall be necessary for the proper drainage thereof, in accordance with such plan, in the manner provided by section one hundred ninety-nine of the charter.
+Whenever the commissioner of environmental protection shall determine that it is necessary to raise the grade of any street or streets for the proper sewage of the sewer district in which such street or streets, or parts of streets, are situated, he or she shall prepare a plan showing such proposed change of grade, and shall present the same to the board of estimate and notify the community board for the community district in which the land is located and the office of the appropriate borough president. The board of estimate shall refer such plan to the commissioner of transportation for report. Such board may change the grade of such street or streets, or parts of streets, so far as shall be necessary for the proper drainage thereof, in accordance with such plan, in the manner provided by section one hundred ninety-nine of the charter.
 
 
 
@@ -5495,7 +5495,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-506 Temporary sewers.  ::
 
 
-	Whenever it shall become necessary to construct a sewer or drain to prevent damage to property or to abate a nuisance and it is impracticable to proceed immediately to the construction of the same in accordance with any plan already adopted, the commissioner of environmental protection, on the approval of the mayor, may construct a temporary sewer or drain in such manner as to avoid such damage or abate such nuisance.
+Whenever it shall become necessary to construct a sewer or drain to prevent damage to property or to abate a nuisance and it is impracticable to proceed immediately to the construction of the same in accordance with any plan already adopted, the commissioner of environmental protection, on the approval of the mayor, may construct a temporary sewer or drain in such manner as to avoid such damage or abate such nuisance.
 
 
 
@@ -5503,7 +5503,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-507 Private sewers and drains.  ::
 
 
-	a.   The commissioner of environmental protection may issue permits to persons to construct sewers or drains, or to connect with any sewers or drains built in any street, at their own expense. Such permission shall be granted only upon the agreement, in writing, of the persons applying therefor:
+a.   The commissioner of environmental protection may issue permits to persons to construct sewers or drains, or to connect with any sewers or drains built in any street, at their own expense. Such permission shall be granted only upon the agreement, in writing, of the persons applying therefor:
 
       1.   That they will comply with the provisions of sections 24-521, 3-508 and 3-509 and of subchapter one of chapter one of title nineteen of the code;
 
@@ -5519,7 +5519,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-508 Construction of sewers by the owners of private property.  ::
 
 
-	a.   The owners of private property at their cost and expense and in accordance with the provisions of section two hundred twenty-nine of the charter may construct sewers in the streets of the city by filing with the commissioner of environmental protection:
+a.   The owners of private property at their cost and expense and in accordance with the provisions of section two hundred twenty-nine of the charter may construct sewers in the streets of the city by filing with the commissioner of environmental protection:
 
       1.   Plans and specifications of such sewer;
 
@@ -5541,7 +5541,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-509 Construction of sewers.  ::
 
 
-	a.   The commissioner of environmental protection shall prescribe the manner of opening sewers or drains and the form, size and material of which the connections therewith shall be composed.
+a.   The commissioner of environmental protection shall prescribe the manner of opening sewers or drains and the form, size and material of which the connections therewith shall be composed.
 
    b.   It shall be unlawful to make a connection with any sewer or drain without the written permit of the commissioner of environmental protection, except that, in conjunction with the issuance of a permit for the construction or alteration of a structure within the curbline, the commissioner of buildings may issue a permit for connection with a sewer or drain. Such connection shall be in the manner prescribed by the commissioner of environmental protection. The commissioner issuing the permit shall require an applicant for such permit to demonstrate to his or her satisfaction that the proposed discharges to the sewer will be in compliance with section 24-523 of this chapter and the regulations promulgated pursuant to such section. For such purpose the commissioner issuing the permit may require the submission of plans, specifications and such other information as he or she may reasonably require.
 
@@ -5555,7 +5555,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-510 Fees for connections.  ::
 
 
-	The fee paid to the commissioner of environmental protection for each permit for the initial connection made with any sewer or drain, either directly or indirectly, and for each plugging or unplugging, of a building house sewer or drain, shall be ninety dollars.
+The fee paid to the commissioner of environmental protection for each permit for the initial connection made with any sewer or drain, either directly or indirectly, and for each plugging or unplugging, of a building house sewer or drain, shall be ninety dollars.
 
 
 
@@ -5563,7 +5563,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-512 Charge for sewer connection extending from curb line to sewer or sewer riser.  ::
 
 
-	a.   As used in this section:
+a.   As used in this section:
 
       1.   The term "agency having jurisdiction" shall mean the department of environmental protection.
 
@@ -5585,7 +5585,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-513 Constructors; license and bond.  ::
 
 
-	a.   All openings into any sewers or drains, for the purpose of making connection therewith, from any house, cellar, vault, yard or other premises, shall be made by persons to be licensed by the commissioner of environmental protection to perform such work. Before being so licensed, such persons shall execute a bond to the city in the sum of one thousand dollars, with one or more sureties to be approved by such commissioner, conditioned:
+a.   All openings into any sewers or drains, for the purpose of making connection therewith, from any house, cellar, vault, yard or other premises, shall be made by persons to be licensed by the commissioner of environmental protection to perform such work. Before being so licensed, such persons shall execute a bond to the city in the sum of one thousand dollars, with one or more sureties to be approved by such commissioner, conditioned:
 
       1.   That they will make all openings into any sewer or drain carefully and in the manner prescribed by such commissioner without injuring the same;
 
@@ -5607,7 +5607,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-514 Sewer rents.  ::
 
 
-	a.   Sewer system, defined. As used in this section the term "sewer system" shall mean and include the sewers, manholes, intercepting sewers, sewage pumping, treatment and disposal works, and any other plants, works or equipment and accessories within the city, which are used or useful in connection with the collection, treatment or disposal of sewage and waste, and which are owned, operated or maintained by the city as part of the public sewer system.
+a.   Sewer system, defined. As used in this section the term "sewer system" shall mean and include the sewers, manholes, intercepting sewers, sewage pumping, treatment and disposal works, and any other plants, works or equipment and accessories within the city, which are used or useful in connection with the collection, treatment or disposal of sewage and waste, and which are owned, operated or maintained by the city as part of the public sewer system.
 
    b.   Imposition and computation of sewer rent or charge.
 
@@ -5637,7 +5637,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-515 Overflow sewers; where discharged.  ::
 
 
-	a.   All overflow sewers deemed necessary for the relief of any main sewers may be discharged into the Gowanus canal or any other canal or inlet within, or water adjacent to, the city.
+a.   All overflow sewers deemed necessary for the relief of any main sewers may be discharged into the Gowanus canal or any other canal or inlet within, or water adjacent to, the city.
 
    b.   The city shall keep all canals free of any obstruction that may be occasioned by the discharge of such overflow sewers into them. For that purpose, the commissioner of environmental protection shall dredge the same from time to time.
 
@@ -5647,7 +5647,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-516 Newtown creek sewers.  ::
 
 
-	All sewers emptying directly or indirectly into Newtown creek shall be closed and may be used only as tributaries to other sewers not emptying directly or indirectly into such creek; except that whenever, by reason of heavy rainfall or snow, the sewage and drainage emptying into the sewer in Johnson avenue, borough of Brooklyn, shall be more than such sewer or its extension will carry to the East river, the excess may be discharged into Newtown creek.
+All sewers emptying directly or indirectly into Newtown creek shall be closed and may be used only as tributaries to other sewers not emptying directly or indirectly into such creek; except that whenever, by reason of heavy rainfall or snow, the sewage and drainage emptying into the sewer in Johnson avenue, borough of Brooklyn, shall be more than such sewer or its extension will carry to the East river, the excess may be discharged into Newtown creek.
 
 
 
@@ -5655,7 +5655,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-517 Injury to sewers.  ::
 
 
-	It shall be unlawful for any person to injure, break or remove any portion of a receiving basin, covering, flag, manhole, vent, sewer, sewage disposal plant or drain, to obstruct the mouth of a sewer or drain, or to place or deposit any substance exceeding one ton in weight upon any wharf or bulkhead through which a sewer or drain has been laid or upon or over any sewer or drain where the same shall be within three feet of the surface of the street.
+It shall be unlawful for any person to injure, break or remove any portion of a receiving basin, covering, flag, manhole, vent, sewer, sewage disposal plant or drain, to obstruct the mouth of a sewer or drain, or to place or deposit any substance exceeding one ton in weight upon any wharf or bulkhead through which a sewer or drain has been laid or upon or over any sewer or drain where the same shall be within three feet of the surface of the street.
 
 
 
@@ -5663,7 +5663,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-518 Obstructing substances.  ::
 
 
-	It shall be unlawful for any person to permit any substance to flow or pass into any sewer, drain or receiving basin, connecting with a public sewer, if such substance may form a deposit tending to choke such sewer, drain or basin.
+It shall be unlawful for any person to permit any substance to flow or pass into any sewer, drain or receiving basin, connecting with a public sewer, if such substance may form a deposit tending to choke such sewer, drain or basin.
 
 
 
@@ -5671,7 +5671,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-518.1 Food waste disposals.  ::
 
 
-	a.   The following terms, as used in this section, shall have the following meanings:
+a.   The following terms, as used in this section, shall have the following meanings:
 
       1.   A "dwelling" is any building or structure or portion thereof which is occupied in whole or in part as the home, residence or sleeping place of one or more human beings.
 
@@ -5715,7 +5715,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-519 Volatile, flammable liquids.  ::
 
 
-	It shall be unlawful to use any connection with, opening into, or gutter leading into, any sewer or drain, either public or private, for the conveyance or discharge, directly or indirectly, into such sewer or drain, of any volatile flammable liquid, gas or vapor. A volatile, flammable liquid is any liquid that will emit a flammable vapor at a temperature specified in rules of the department.
+It shall be unlawful to use any connection with, opening into, or gutter leading into, any sewer or drain, either public or private, for the conveyance or discharge, directly or indirectly, into such sewer or drain, of any volatile flammable liquid, gas or vapor. A volatile, flammable liquid is any liquid that will emit a flammable vapor at a temperature specified in rules of the department.
 
 
 
@@ -5725,7 +5725,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-520 Steam and hot water.  ::
 
 
-	a.   It shall be unlawful to discharge waste water into any sewer at a temperature higher than that prescribed by the commissioner of environmental protection.
+a.   It shall be unlawful to discharge waste water into any sewer at a temperature higher than that prescribed by the commissioner of environmental protection.
 
    b.   It shall be unlawful to use a connection with or opening into any sewer or drain for the conveyance or discharge of steam or hot water at a temperature above that prescribed by such commissioner into such sewer or drain, or to discharge steam, or permit it to escape into any sewer, drain, or public street, from any stopcock, valve or other opening in any steam pipe or main.
 
@@ -5737,7 +5737,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-520.1 Non-stormwater discharges prohibited. ::
 
 
-	a.   For purposes of this section, the following terms have the following meanings:
+a.   For purposes of this section, the following terms have the following meanings:
 
       Allowable runoff. The term “allowable runoff” means runoff authorized by the rules of the department of environmental protection to enter storm sewers, provided that such rules shall be consistent with the proper maintenance and purpose of such storm sewers and with the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York city, SPDES No. NY-0287890 or its successor.
 
@@ -5755,7 +5755,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-521 Excavations for public works.  ::
 
 
-	a.   Notice to public service corporations. Whenever any sewer, culvert, water main or pipe is to be constructed, altered or repaired in any street in which the pipes, mains or conduits of public service corporations are laid, the contractor therefor shall give notice thereof in writing to such corporations, at least forty-eight hours before breaking ground therefor. Such provision shall be included in every contract for constructing, altering or repairing any sewer or culvert, water main or pipe, in any street in which the pipes, mains or conduits of public service corporations shall be laid at the time of making such contract.
+a.   Notice to public service corporations. Whenever any sewer, culvert, water main or pipe is to be constructed, altered or repaired in any street in which the pipes, mains or conduits of public service corporations are laid, the contractor therefor shall give notice thereof in writing to such corporations, at least forty-eight hours before breaking ground therefor. Such provision shall be included in every contract for constructing, altering or repairing any sewer or culvert, water main or pipe, in any street in which the pipes, mains or conduits of public service corporations shall be laid at the time of making such contract.
 
    b.   Public service corporations shall protect their property. Public service corporations whose pipes, mains or conduits are about to be disturbed by the constructing, altering or repairing of any sewer, culvert, water main or pipe, shall, on the receipt of the notice provided for in the preceding subdivision, remove or otherwise protect and replace their pipes, mains and conduits, and all fixtures and appliances connected therewith or attached thereto, where necessary, under the direction of the commissioner of design and construction in accordance with chapter fifty-five of the charter, unless otherwise directed by the mayor pursuant to such chapter.
 
@@ -5767,7 +5767,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-522 Maintenance of private sewers or drains located in public property or in private or public streets and emptying into the public sewer system.  ::
 
 
-	a.   As used in this section:
+a.   As used in this section:
 
       1.   The term "private sewer or drain" shall mean any private sewer or drain located in public property or in any public or private street or streets and emptying into the public sewer system, but shall not include a curb-to-sewer connection as defined in section 24-512 of the code or a house sewer connection.
 
@@ -5787,7 +5787,7 @@ Chapter 5: Drainage and Sewer Control
 § 24-523 Industrial waste; sewer surcharges.  ::
 
 
-	a.   Definitions. As used in this section, the following terms shall mean:
+a.   Definitions. As used in this section, the following terms shall mean:
 
       1.   Commissioner. Commissioner of environmental protection.
 
@@ -5813,18 +5813,18 @@ Chapter 5: Drainage and Sewer Control
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - B.O.D. 
- - 1,667 lbs. per million gallons(200 parts per million) or less
- * - Chlorine Demand 
- - 208 lbs. per million gallons(25 parts per million) or less
- * - S.S. 
- - 1,667 lbs. per million gallons(200 parts per million) or less
- * - Ether soluble materials
- - 417 lbs. per million gallons(50 parts per million) or less
- * - pH 
- - not less than 5.0 and not more than 9.5
+    * - B.O.D. 
+      -  1,667 lbs. per million gallons(200 parts per million) or less
+    * - Chlorine Demand 
+      -  208 lbs. per million gallons(25 parts per million) or less
+    * - S.S. 
+      -  1,667 lbs. per million gallons(200 parts per million) or less
+    * - Ether soluble materials
+      - 417 lbs. per million gallons(50 parts per million) or less
+    * - pH 
+      - not less than 5.0 and not more than 9.5
 ~
 
 
@@ -5837,18 +5837,18 @@ Chapter 5: Drainage and Sewer Control
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - B.O.D. 
- - 2,500 lbs. per million gallons(300 parts per million) or less
- * - Chlorine Demand 
- - 208 lbs. per million gallons(25 parts per million) or less
- * - S.S. 
- - 2,916 lbs. per million gallons(350 parts per million) or less
- * - Ether soluble materials
- - 417 lbs. per million gallons(50 parts per million) or less
- * - pH 
- - not less than 5.0 and not more than 9.5; 
+    * - B.O.D. 
+      - 2,500 lbs. per million gallons(300 parts per million) or less
+    * - Chlorine Demand 
+      - 208 lbs. per million gallons(25 parts per million) or less
+    * - S.S. 
+      - 2,916 lbs. per million gallons(350 parts per million) or less
+    * - Ether soluble materials
+      - 417 lbs. per million gallons(50 parts per million) or less
+    * - pH 
+      - not less than 5.0 and not more than 9.5; 
 ~
 
 
@@ -5877,7 +5877,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
 ~
 
@@ -5887,35 +5887,35 @@ and such other characteristics as may be specified by the commissioner by rules 
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - where
- - 
- - 
- * - 
- - Ds = 
- - amount of surcharge, in dollars;
- * - 
- - C = 
- - cost per pound (in dollars) of removing pollutants from the sewage discharged into the sewer system expressed to the nearest tenth of a cent;
- * - 
- - F = 
- - 62.41,000,000, i.e., the factor for converting parts per million by weight to pounds per million cubic feet;
- * - 
- - V = 
- - volume, in cubic feet of sewage, industrial waste or other wastes discharged from such premises into the sewer system;
- * - 
- - S.S. = 
- - parts per million by weight of suspended solids in sewage, industrial waste or other wastes discharged from such premises into the sewer system;
- * - 
- - 350 = 
- - maximum parts per million by weight of S.S. allowable in receivable industrial waste;
- * - 
- - B.O.D. = 
- - parts per million by weight of B.O.D. in the sewage, industrial waste or other wastes discharged from such premises into the sewer system;
- * - 
- - 300 = 
- - maximum parts per million by weight of B.O.D. allowable in receivable industrial waste.
+    * - where
+      - 
+      - 
+    * - 
+      - Ds = 
+      - amount of surcharge, in dollars;
+    * - 
+      - C = 
+      - cost per pound (in dollars) of removing pollutants from the sewage discharged into the sewer system expressed to the nearest tenth of a cent;
+    * - 
+      - F = 
+      - 62.41,000,000, i.e., the factor for converting parts per million by weight to pounds per million cubic feet;
+    * - 
+      - V = 
+      - volume, in cubic feet of sewage, industrial waste or other wastes discharged from such premises into the sewer system;
+    * - 
+      - S.S. = 
+      - parts per million by weight of suspended solids in sewage, industrial waste or other wastes discharged from such premises into the sewer system;
+    * - 
+      - 350 = 
+      - maximum parts per million by weight of S.S. allowable in receivable industrial waste;
+    * - 
+      - B.O.D. = 
+      - parts per million by weight of B.O.D. in the sewage, industrial waste or other wastes discharged from such premises into the sewer system;
+    * - 
+      - 300 = 
+      - maximum parts per million by weight of B.O.D. allowable in receivable industrial waste.
 ~
 
  
@@ -5960,7 +5960,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 § 24-524 Enforcement and penalties.  ::
 
 
-	a.   Orders. Notwithstanding any other provision of law, the commissioner of environmental protection, and the environmental control board within the office of administrative trials and hearings, shall enforce the provisions of subdivisions b and b-1 of section 1403 of the charter and sections 24-504 through 24-523 of this chapter and the rules promulgated pursuant thereto. Such commissioner and board shall have the power to issue such orders as may be provided for therein and such additional orders as may be necessary for the enforcement of such provisions. The department of environmental protection shall promulgate rules governing the appeal of orders issued by the commissioner.
+a.   Orders. Notwithstanding any other provision of law, the commissioner of environmental protection, and the environmental control board within the office of administrative trials and hearings, shall enforce the provisions of subdivisions b and b-1 of section 1403 of the charter and sections 24-504 through 24-523 of this chapter and the rules promulgated pursuant thereto. Such commissioner and board shall have the power to issue such orders as may be provided for therein and such additional orders as may be necessary for the enforcement of such provisions. The department of environmental protection shall promulgate rules governing the appeal of orders issued by the commissioner.
 
    b.   Commissioner's cease and desist orders.
 
@@ -6022,7 +6022,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 § 24-525 Permits.  ::
 
 
-	In all cases where provision is made by law that the consent of the commissioner shall be obtained to authorize any act to be done, he or she may grant a permit therefor, subject to the restrictions of all laws in relation thereto. Upon granting any such permit, he or she may exact such cash deposit or bond, or both, as he or she may deem necessary to safeguard the interests of the city.
+In all cases where provision is made by law that the consent of the commissioner shall be obtained to authorize any act to be done, he or she may grant a permit therefor, subject to the restrictions of all laws in relation thereto. Upon granting any such permit, he or she may exact such cash deposit or bond, or both, as he or she may deem necessary to safeguard the interests of the city.
 
 
 
@@ -6030,7 +6030,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 § 24-526 Conveyance of storm water from developments and lots and certain adjacent paved areas to off-site disposal points.  ::
 
 
-	(a)   Definitions. As used in this section:
+(a)   Definitions. As used in this section:
 
       (1)   "Building combined sewer" means a building sewer intended to convey all types of wastewater, subject to certain restrictions;
 
@@ -6126,7 +6126,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 § 24-526.1 Sustainable stormwater management.  ::
 
 
-	a.   Definitions. For the purposes of this section only, the following terms shall have the following meanings:
+a.   Definitions. For the purposes of this section only, the following terms shall have the following meanings:
 
       1.   "Best Management Practices" or "BMPs" mean source control measures.
 
@@ -6250,7 +6250,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 § 24-527 Watershed protection plan for the watershed/sewershed of Jamaica bay.  ::
 
 
-	a.   No later than October 1, 2007, the commissioner shall complete a watershed protection plan for the watershed/sewershed of Jamaica bay, which shall, among other things, include measures the city can implement to help protect Jamaica bay. The overall goal of such plan shall be to restore and maintain the water quality and ecological integrity of Jamaica bay.
+a.   No later than October 1, 2007, the commissioner shall complete a watershed protection plan for the watershed/sewershed of Jamaica bay, which shall, among other things, include measures the city can implement to help protect Jamaica bay. The overall goal of such plan shall be to restore and maintain the water quality and ecological integrity of Jamaica bay.
 
    b.   The commissioner shall assess the technical, legal, environmental and economical feasibility of including the following measures, at minimum, in the plan prepared pursuant to subdivision a of this section:
 
@@ -6332,7 +6332,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 § 24-528 New York city comprehensive wetlands study and protection strategy.  ::
 
 
-	a.   Definitions.
+a.   Definitions.
 
       1.   "City" shall mean the geographic area constituting the city of New York, including wetlands, shorelines and underwater lands.
 
@@ -6382,7 +6382,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 § 24-529 Car wash, standards. ::
 
 
-	a.   Definitions. For purposes of this section:
+a.   Definitions. For purposes of this section:
 
       Applicant. The term "applicant" means any individual, partnership, corporation, limited liability company, joint venture, association or other business entity that seeks a license or renewal of a license to engage in the operation of a car wash.
 
@@ -6420,7 +6420,7 @@ and such other characteristics as may be specified by the commissioner by rules 
 § 24-530 Southeast Queens flood mitigation plan. ::
 
 
-	a.   By no later than one year after the effective date of the local law that added this section, the department of environmental protection shall submit to the mayor and speaker of the council, and make publicly available online, a plan for mitigating flooding in Queens community districts 12 and 13. Such plan shall include, but not be limited to, a timeline for implementation of the plan, annual performance milestones and a description of funds anticipated to be expended by or on behalf of the city in connection with such flood mitigation, including, but not limited to, funds committed in fiscal year 2016 for such purposes.
+a.   By no later than one year after the effective date of the local law that added this section, the department of environmental protection shall submit to the mayor and speaker of the council, and make publicly available online, a plan for mitigating flooding in Queens community districts 12 and 13. Such plan shall include, but not be limited to, a timeline for implementation of the plan, annual performance milestones and a description of funds anticipated to be expended by or on behalf of the city in connection with such flood mitigation, including, but not limited to, funds committed in fiscal year 2016 for such purposes.
 
    b.   By no later than six months after the end of each fiscal year, beginning with the first fiscal year that commences more than one year after the effective date of the local law that added this section, the department of environmental protection shall submit to the mayor and the speaker of the council a report on progress in implementing the plan required by subdivision a of this section during the prior fiscal year. Each such report shall include, but not be limited to, a description of any changes to such plan, a description of any changes in funds committed by or on behalf of the city in furtherance of such plan and a description of all funds expended by or on behalf of the city in furtherance of such plan.
 
@@ -6436,7 +6436,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-601 Short title.  ::
 
 
-	This chapter shall be known and may be cited as the "New York city hazardous substances emergency response law".
+This chapter shall be known and may be cited as the "New York city hazardous substances emergency response law".
 
 
 
@@ -6444,7 +6444,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-602 Declaration of policy.  ::
 
 
-	It is hereby declared to be the public policy of the city to respond to emergencies caused by releases or threatened releases of hazardous substances into the environment so as to preserve, protect and improve the public health, safety and welfare, and to prevent injury to human, plant and animal life and property. It is the policy of the city that every person is entitled to an environment free of hazardous substances that are detrimental to life, health, and enjoyment of property. It is hereby declared that the release or threat of release of hazardous substances into the environment is a menace to the health, safety and welfare of the people of the city and may cause extensive damage to the environment and to property. This chapter shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the powers of the board of health or the department of health and mental hygiene to engage in any of their authorized activities.
+It is hereby declared to be the public policy of the city to respond to emergencies caused by releases or threatened releases of hazardous substances into the environment so as to preserve, protect and improve the public health, safety and welfare, and to prevent injury to human, plant and animal life and property. It is the policy of the city that every person is entitled to an environment free of hazardous substances that are detrimental to life, health, and enjoyment of property. It is hereby declared that the release or threat of release of hazardous substances into the environment is a menace to the health, safety and welfare of the people of the city and may cause extensive damage to the environment and to property. This chapter shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the powers of the board of health or the department of health and mental hygiene to engage in any of their authorized activities.
 
 
 
@@ -6452,7 +6452,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-603 Definitions.  ::
 
 
-	When used in this chapter:
+When used in this chapter:
 
    a.   "disposal" means the placing of any hazardous substance into or on any land or water so that such hazardous substance or any constituent thereof may be released into the environment.
 
@@ -6486,7 +6486,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-604 Recovery of emergency response costs.  ::
 
 
-	a.   Each responsible person shall be jointly and severally liable without regard to fault, except as otherwise provided in this chapter, for the total cost incurred by the city for response measures implemented in connection with any emergency involving a release or substantial threat of a release of a hazardous substance into the environment.
+a.   Each responsible person shall be jointly and severally liable without regard to fault, except as otherwise provided in this chapter, for the total cost incurred by the city for response measures implemented in connection with any emergency involving a release or substantial threat of a release of a hazardous substance into the environment.
 
    b.   In any action brought by the city to recover its cost for response measures implemented in connection with any emergency involving a release or substantial threat of a release of a hazardous substance into the environment, it shall be an affirmative defense that the release or threat of release of a hazardous substance into the environment was caused solely by,
 
@@ -6508,7 +6508,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-605 Lien for emergency response costs.  ::
 
 
-	a.   All costs incurred by the city, including but not limited to the costs of the departments of environmental protection, health and sanitation, and the police and fire departments, for response measures implemented pursuant to this chapter or any other applicable provision of law shall be a debt recoverable from each responsible person and a lien upon the real property of or at which an owner, operator, lessee, occupant or tenant is a responsible person and at which such response measures were implemented.
+a.   All costs incurred by the city, including but not limited to the costs of the departments of environmental protection, health and sanitation, and the police and fire departments, for response measures implemented pursuant to this chapter or any other applicable provision of law shall be a debt recoverable from each responsible person and a lien upon the real property of or at which an owner, operator, lessee, occupant or tenant is a responsible person and at which such response measures were implemented.
 
    b.   The mayor shall designate the agency or agencies which shall receive for filing the certificate of expenses prepared in accordance with section 24-606 and shall keep a record of all such costs incurred. Such records shall be accessible to the public during business hours. Within thirty days after the issuance of a purchase or work order for any response measure such order shall be entered on the records of the designated agency or agencies. All such records shall constitute notice to all parties.
 
@@ -6544,7 +6544,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-606 Certificate of expenses.  ::
 
 
-	Upon the completion of any response measure giving rise to a lien, the city agency implementing such response measure shall file with the agency or agencies designated by the mayor pursuant to section 24-605 a certificate setting forth the work done and the expenses incurred and certifying that such expenses were necessary and proper in the exercise of its lawful powers and, where applicable, apportioning such expenses among lots or buildings belonging to different persons. The city agency implementing such response measure shall also file a copy of any notices of potential liability for such expenses it has mailed for purposes of paragraph two of subdivision c of section 24-605 and a statement reciting the date of any such mailing.
+Upon the completion of any response measure giving rise to a lien, the city agency implementing such response measure shall file with the agency or agencies designated by the mayor pursuant to section 24-605 a certificate setting forth the work done and the expenses incurred and certifying that such expenses were necessary and proper in the exercise of its lawful powers and, where applicable, apportioning such expenses among lots or buildings belonging to different persons. The city agency implementing such response measure shall also file a copy of any notices of potential liability for such expenses it has mailed for purposes of paragraph two of subdivision c of section 24-605 and a statement reciting the date of any such mailing.
 
 
 
@@ -6552,7 +6552,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-607 Definitions.  ::
 
 
-	When used in this subchapter:
+When used in this subchapter:
 
    a.   "commissioner" means the commissioner of environmental protection.
 
@@ -6564,7 +6564,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-608 Emergency response.  ::
 
 
-	a.   When the commissioner has reason to believe that there has been a release or there exists a substantial threat of a release into the environment of a hazardous substance which may present an immediate and substantial danger to the public health or welfare or the environment, the commissioner may, in his or her discretion, order any or all responsible persons to implement any response measures, or to cooperate with and assist the commissioner in implementing any response measures, deemed by the commissioner to be necessary to protect the public health or welfare or the environment, or, if the commissioner, in the exercise of his or her discretion, concludes that seeking the implementation of any such response measures by a responsible person may be detrimental to public health or welfare or the environment due to the likelihood of delay or the ineffectiveness of such response measures, or for any other appropriate reason, the commissioner may implement such response measures. The commissioner shall, where appropriate, consult with the commissioner of health, the police commissioner and the fire commissioner concerning the need for and implementation of such response measures and orders. The commissioner may also order the production of documents relevant for determining the nature and extent of the release or threat of release.
+a.   When the commissioner has reason to believe that there has been a release or there exists a substantial threat of a release into the environment of a hazardous substance which may present an immediate and substantial danger to the public health or welfare or the environment, the commissioner may, in his or her discretion, order any or all responsible persons to implement any response measures, or to cooperate with and assist the commissioner in implementing any response measures, deemed by the commissioner to be necessary to protect the public health or welfare or the environment, or, if the commissioner, in the exercise of his or her discretion, concludes that seeking the implementation of any such response measures by a responsible person may be detrimental to public health or welfare or the environment due to the likelihood of delay or the ineffectiveness of such response measures, or for any other appropriate reason, the commissioner may implement such response measures. The commissioner shall, where appropriate, consult with the commissioner of health, the police commissioner and the fire commissioner concerning the need for and implementation of such response measures and orders. The commissioner may also order the production of documents relevant for determining the nature and extent of the release or threat of release.
 
    b.   Nothing in this subchapter shall be construed to preclude the implementation of response measures by any other city agency, either prior or subsequent to any response measure implemented pursuant to subdivision a of this section.
 
@@ -6574,7 +6574,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-609 Hazardous substances list; release notification and response regulations.  ::
 
 
-	a.   The commissioner shall by regulation establish within one year from enactment of this section, a list of hazardous substances. The commissioner shall consider whether any of the following substances shall be included on such list: (1) the extremely hazardous substances set forth in a list published pursuant to the emergency planning and community right-to-know act of 1986, (2) the hazardous wastes identified under or listed pursuant to the resource conservation and recovery act of 1976, as amended, (3) the hazardous substances referred to in or designated pursuant to the comprehensive environmental response, compensation, and liability act of 1980, as amended, (4) the elements, compounds and mixtures determined to be hazardous chemicals in accordance with standards for toxic and hazardous substances promulgated pursuant to the occupational safety and health act of 1970, as amended, and (5) the hazardous materials designated pursuant to the hazardous materials transportation act, as amended.
+a.   The commissioner shall by regulation establish within one year from enactment of this section, a list of hazardous substances. The commissioner shall consider whether any of the following substances shall be included on such list: (1) the extremely hazardous substances set forth in a list published pursuant to the emergency planning and community right-to-know act of 1986, (2) the hazardous wastes identified under or listed pursuant to the resource conservation and recovery act of 1976, as amended, (3) the hazardous substances referred to in or designated pursuant to the comprehensive environmental response, compensation, and liability act of 1980, as amended, (4) the elements, compounds and mixtures determined to be hazardous chemicals in accordance with standards for toxic and hazardous substances promulgated pursuant to the occupational safety and health act of 1970, as amended, and (5) the hazardous materials designated pursuant to the hazardous materials transportation act, as amended.
 
    b.   The commissioner may promulgate regulations requiring any responsible person who knows or has reason to know of any release of a listed hazardous substance to immediately notify the commissioner. Such regulations shall establish the minimum quantity of any listed hazardous substance the release of which shall be reported to the commissioner and shall set forth the form and manner of any notification required. A knowing failure to comply with such notification requirement shall be punishable by a fine of not more than twenty-five thousand dollars, to be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board.
 
@@ -6584,7 +6584,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-610 Orders to responsible persons; civil and criminal penalties and imprisonment.  ::
 
 
-	a.   (1)   An order of the commissioner issued pursuant to subdivision a of section 24-608 shall specify the work to be performed and shall fix a reasonable time for compliance from the date of service of such order. Such order shall contain a statement that upon failure of the responsible person to comply with the commissioner's order within the stated time, the department may perform the work specified in the order or apply for a court order directing the responsible person to comply with the commissioner's order.
+a.   (1)   An order of the commissioner issued pursuant to subdivision a of section 24-608 shall specify the work to be performed and shall fix a reasonable time for compliance from the date of service of such order. Such order shall contain a statement that upon failure of the responsible person to comply with the commissioner's order within the stated time, the department may perform the work specified in the order or apply for a court order directing the responsible person to comply with the commissioner's order.
 
       (2)   (i)   Service of such order shall be made upon the responsible person personally or by certified or registered mail addressed to the last known address of such person or in any manner provided for service of process by article three of the civil practice law and rules.
 
@@ -6606,7 +6606,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-611 Regulations.  ::
 
 
-	The commissioner shall have the power to promulgate such rules and regulations as may be necessary to carry out the purposes of this chapter.
+The commissioner shall have the power to promulgate such rules and regulations as may be necessary to carry out the purposes of this chapter.
 
 
 
@@ -6614,7 +6614,7 @@ Chapter 6: Hazardous Substance Emergencies
 § 24-612 Nonexclusivity of remedies.  ::
 
 
-	Nothing in this chapter shall be construed to impair or diminish the power of the commissioner or any other agency to remove, repair, reconstruct, alter or abate a nuisance or to order any of the foregoing actions or to impose penalties on persons responsible for such nuisance or its removal, repair, reconstruction, alteration or abatement.
+Nothing in this chapter shall be construed to impair or diminish the power of the commissioner or any other agency to remove, repair, reconstruct, alter or abate a nuisance or to order any of the foregoing actions or to impose penalties on persons responsible for such nuisance or its removal, repair, reconstruction, alteration or abatement.
 
 
 
@@ -6624,7 +6624,7 @@ Chapter 7: Community Right-to-know Law
 § 24-701 Short title.  ::
 
 
-	This chapter shall be known and may be cited as the "New York city community right-to-know law."
+This chapter shall be known and may be cited as the "New York city community right-to-know law."
 
 
 
@@ -6632,7 +6632,7 @@ Chapter 7: Community Right-to-know Law
 § 24-702 Definitions.  ::
 
 
-	For the purpose of this chapter the following terms shall mean:
+For the purpose of this chapter the following terms shall mean:
 
    (a)   "chemical name": the scientific designation of a chemical in accordance with the nomenclature system developed by the International Union of Pure and Applied Chemistry or the Chemical Abstracts Service (CAS) rules of nomenclature.
 
@@ -6684,7 +6684,7 @@ Chapter 7: Community Right-to-know Law
 § 24-703 Hazardous substance list.  ::
 
 
-	The commissioner by regulation shall develop a list of hazardous substances, complying with the requirements of section 24-702(j) of this chapter, within six months from enactment of this section provided that if the commissioner determines that any substance on the required base list, as established by section 24-702(j) of this chapter, should not be placed on the final promulgated list, then the commissioner shall submit a written statement to the council indicating the reason why an amendment is necessary, at least sixty days before the date the list is to take effect. The council may within thirty days following receipt of the commissioner's statement requesting an amendment either: (i) approve or disapprove such amendment or (ii) determine that an additional ten days is needed to study such amendment by the adoption of an appropriate resolution. Upon approval by the council, such amendment shall take effect immediately. If the council disapproves such amendment, the commissioner shall not be precluded from resubmitting such amendment to the council at a later date. If the council does not approve or disapprove such amendment within such thirty day period, such amendment shall take effect on the thirty-first day after submission to the council unless the council had determined by resolution that an additional ten days is needed to study such amendment, in which case, the amendment shall take effect on the forty-first day after such submission to the council unless the council has approved or disapproved such amendment prior to such forty-first day. Except for the substances contained on the special health hazard list developed pursuant to the requirements of section 24-704 of this chapter, any substance contained on the hazardous substance list shall be reported to the commissioner, if such hazardous substance has been present at a facility in an amount which exceeds five hundred pounds. For the reporting period ending on March first, nineteen hundred eighty-nine, any mixture present in a facility in an amount which exceeds five hundred pounds, shall be reported if it contains in a concentration of one percent or more any hazardous substance listed on the New Jersey Special Health Hazards List, a subcategory of the New Jersey Right-to-Know Hazardous Substance List (New Jersey Administrative Code, stat. 34:5A-1, et seq.) as in effect in December, nineteen hundred eighty-seven. For the reporting period ending March first, nineteen hundred ninety, any mixture present in a facility shall be reported in an amount which exceeds five hundred pounds if it contains in a concentration of one tenth of one percent or more of any such hazardous substance. For the reporting period ending on March first, nineteen hundred ninety-one, the commissioner shall by regulation establish a threshold reporting quantity for each hazardous substance and hazardous substances in mixture that are included on the New Jersey Special Health Hazards List shall be reported in the same concentration as required in the previous year. If the commissioner fails to set a specific threshold reporting quantity by March first, nineteen hundred ninety-one, then each of the hazardous substances without a specific threshold reporting quantity shall be reported to the commissioner if ten or more pounds are present at a facility.
+The commissioner by regulation shall develop a list of hazardous substances, complying with the requirements of section 24-702(j) of this chapter, within six months from enactment of this section provided that if the commissioner determines that any substance on the required base list, as established by section 24-702(j) of this chapter, should not be placed on the final promulgated list, then the commissioner shall submit a written statement to the council indicating the reason why an amendment is necessary, at least sixty days before the date the list is to take effect. The council may within thirty days following receipt of the commissioner's statement requesting an amendment either: (i) approve or disapprove such amendment or (ii) determine that an additional ten days is needed to study such amendment by the adoption of an appropriate resolution. Upon approval by the council, such amendment shall take effect immediately. If the council disapproves such amendment, the commissioner shall not be precluded from resubmitting such amendment to the council at a later date. If the council does not approve or disapprove such amendment within such thirty day period, such amendment shall take effect on the thirty-first day after submission to the council unless the council had determined by resolution that an additional ten days is needed to study such amendment, in which case, the amendment shall take effect on the forty-first day after such submission to the council unless the council has approved or disapproved such amendment prior to such forty-first day. Except for the substances contained on the special health hazard list developed pursuant to the requirements of section 24-704 of this chapter, any substance contained on the hazardous substance list shall be reported to the commissioner, if such hazardous substance has been present at a facility in an amount which exceeds five hundred pounds. For the reporting period ending on March first, nineteen hundred eighty-nine, any mixture present in a facility in an amount which exceeds five hundred pounds, shall be reported if it contains in a concentration of one percent or more any hazardous substance listed on the New Jersey Special Health Hazards List, a subcategory of the New Jersey Right-to-Know Hazardous Substance List (New Jersey Administrative Code, stat. 34:5A-1, et seq.) as in effect in December, nineteen hundred eighty-seven. For the reporting period ending March first, nineteen hundred ninety, any mixture present in a facility shall be reported in an amount which exceeds five hundred pounds if it contains in a concentration of one tenth of one percent or more of any such hazardous substance. For the reporting period ending on March first, nineteen hundred ninety-one, the commissioner shall by regulation establish a threshold reporting quantity for each hazardous substance and hazardous substances in mixture that are included on the New Jersey Special Health Hazards List shall be reported in the same concentration as required in the previous year. If the commissioner fails to set a specific threshold reporting quantity by March first, nineteen hundred ninety-one, then each of the hazardous substances without a specific threshold reporting quantity shall be reported to the commissioner if ten or more pounds are present at a facility.
 
 
 
@@ -6692,7 +6692,7 @@ Chapter 7: Community Right-to-know Law
 § 24-704 Special health hazard list.  ::
 
 
-	(a)   The commissioner may develop by regulation a special health hazard list to consist of substances otherwise included on the hazardous substances list but which, because of their proven carcinogenicity, mutagenicity, or teratogenicity, pose a special hazard to health and safety. For those substances contained on this list, any amount stored or existing at a facility shall be reported to the commissioner.
+(a)   The commissioner may develop by regulation a special health hazard list to consist of substances otherwise included on the hazardous substances list but which, because of their proven carcinogenicity, mutagenicity, or teratogenicity, pose a special hazard to health and safety. For those substances contained on this list, any amount stored or existing at a facility shall be reported to the commissioner.
 
    (b)   The commissioner shall be authorized to include within the regulations specific requirements for the special health hazards list, in addition to those established in section 24-705 of this chapter, for the reporting, handling and labeling of these substances, as he or she deems necessary.
 
@@ -6702,7 +6702,7 @@ Chapter 7: Community Right-to-know Law
 § 24-705 Facility inventory form.  ::
 
 
-	(a)   The commissioner by regulation shall develop a facility inventory form within six months of enactment of this chapter. This form shall, at a minimum require the following information:
+(a)   The commissioner by regulation shall develop a facility inventory form within six months of enactment of this chapter. This form shall, at a minimum require the following information:
 
       (1)   the name and business address of the owner and operator of the facility, and if the facility is owned or operated by a legal entity, the name and business address of an appropriate executive officer;
 
@@ -6728,7 +6728,7 @@ Chapter 7: Community Right-to-know Law
 § 24-706 Facility inventory reporting.  ::
 
 
-	(a)   A responsible party of a facility shall file a completed facility inventory form for such facility with the department for each substance on the hazardous substance list or the special health hazard list present within a facility that has been present in the preceding calendar year in a quantity which exceeds the threshold reporting quantity established under section 24-703 of this chapter, on or before March first of each year, beginning in nineteen hundred eighty-nine. A responsible party of a facility shall also be required to file with the department a facility inventory update, on a form approved by the department through regulation, if a previously unreported hazardous substance is added at a facility or if an already reported quantity of a hazardous substance increases by twenty-five percent or more, within thirty days of the occurrence of such event.
+(a)   A responsible party of a facility shall file a completed facility inventory form for such facility with the department for each substance on the hazardous substance list or the special health hazard list present within a facility that has been present in the preceding calendar year in a quantity which exceeds the threshold reporting quantity established under section 24-703 of this chapter, on or before March first of each year, beginning in nineteen hundred eighty-nine. A responsible party of a facility shall also be required to file with the department a facility inventory update, on a form approved by the department through regulation, if a previously unreported hazardous substance is added at a facility or if an already reported quantity of a hazardous substance increases by twenty-five percent or more, within thirty days of the occurrence of such event.
 
    (b)   A responsible party of a facility shall also be required to file a completed material safety data sheet for each hazardous substance at the facility with the department and with the fire department on or before March first of each year, beginning in nineteen hundred eighty-nine.
 
@@ -6742,7 +6742,7 @@ Chapter 7: Community Right-to-know Law
 § 24-707 Compilation of citywide facility inventory data.  ::
 
 
-	(a)   The commissioner, on or before July first, nineteen hundred eighty-eight, shall develop and publish in the City Record plans for a comprehensive notification program for all facilities as described in this chapter.
+(a)   The commissioner, on or before July first, nineteen hundred eighty-eight, shall develop and publish in the City Record plans for a comprehensive notification program for all facilities as described in this chapter.
 
    (b)   The commissioner shall produce a citywide facility inventory database, on or before September first, nineteen hundred eighty-nine.
 
@@ -6756,7 +6756,7 @@ Chapter 7: Community Right-to-know Law
 § 24-708 Exemptions.  ::
 
 
-	The following persons, facilities and hazardous substances shall be exempt from the requirements of section 24-706 and 24-711: (a) facilities where the only hazardous substances, except for those substances on the special health hazard list pursuant to section 24-704, were present during the preceding calendar year in mixtures in which the total content of the hazardous substance was of one percent or less by weight or volume per container unless such hazardous substance was present at the facility in an aggregate amount of five hundred pounds or more; (b) owners or tenants of residential buildings that contain no commercial or manufacturing enterprise; or (c) fossil fuels, petroleum products, and combustible or flammable chemicals or materials, the manufacture, transportation, or storage of which is subject to the jurisdication of the fire department pursuant to title twenty-seven of the code.
+The following persons, facilities and hazardous substances shall be exempt from the requirements of section 24-706 and 24-711: (a) facilities where the only hazardous substances, except for those substances on the special health hazard list pursuant to section 24-704, were present during the preceding calendar year in mixtures in which the total content of the hazardous substance was of one percent or less by weight or volume per container unless such hazardous substance was present at the facility in an aggregate amount of five hundred pounds or more; (b) owners or tenants of residential buildings that contain no commercial or manufacturing enterprise; or (c) fossil fuels, petroleum products, and combustible or flammable chemicals or materials, the manufacture, transportation, or storage of which is subject to the jurisdication of the fire department pursuant to title twenty-seven of the code.
 
 
 
@@ -6764,7 +6764,7 @@ Chapter 7: Community Right-to-know Law
 § 24-709 Trade Secrets.  ::
 
 
-	(a)   Any person required under section 24-706 to submit information to the department may withhold from such submittal the specific chemical indentity of a hazardous substance, including the chemical name and other specific identification, if such information has been withheld as a trade secret pursuant to section three hundred twenty-two of the emergency planning and community right-to-know act of nineteen hundred eighty-six (42 U.S.C. § 11001, et seq.), article forty-eight of the public health law or article twenty-eight of the labor law. No person shall be entitled to withhold such trade secret information from such submittal unless such person demonstrates to the satisfaction of the commissioner that such information has been so determined to be a trade secret and that such person has taken reasonable measures to protect the confidentiality of such information and intends to continue to take such measures. The commissioner may grant a temporary extension of not more than thirty days from the reporting requirements of section 24-706 for the purpose of allowing such person to make such demonstration.
+(a)   Any person required under section 24-706 to submit information to the department may withhold from such submittal the specific chemical indentity of a hazardous substance, including the chemical name and other specific identification, if such information has been withheld as a trade secret pursuant to section three hundred twenty-two of the emergency planning and community right-to-know act of nineteen hundred eighty-six (42 U.S.C. § 11001, et seq.), article forty-eight of the public health law or article twenty-eight of the labor law. No person shall be entitled to withhold such trade secret information from such submittal unless such person demonstrates to the satisfaction of the commissioner that such information has been so determined to be a trade secret and that such person has taken reasonable measures to protect the confidentiality of such information and intends to continue to take such measures. The commissioner may grant a temporary extension of not more than thirty days from the reporting requirements of section 24-706 for the purpose of allowing such person to make such demonstration.
 
    (b)   With respect to any information not withheld as a trade secret in the manner described by subdivision (a) of this section, the commissioner may withhold from disclosure, pursuant to article six of the public officers law, (i) specific chemical identities, including chemical names and other specific information, which are trade secrets which if disclosed would cause substantial injury to the competitive position of a commercial enterprise or (ii) methods or processes described in plans filed pursuant to section 24-718 of this chapter entitled to protection as trade secrets. The commissioner shall promulgate by rule a procedure for implementing the provisions of this subdivision. The subdivision shall not be construed to affect, limit or modify in any manner the reporting requirements of section 24-706.
 
@@ -6782,7 +6782,7 @@ Chapter 7: Community Right-to-know Law
 § 24-710 Access to hazardous substance information.  ::
 
 
-	(a)   The commissioner shall upon request make available to emergency response personnel the information filed pursuant to section 24-706, the data compiled pursuant to section 24-707, and the risk management plan filed pursuant to section 24-718.
+(a)   The commissioner shall upon request make available to emergency response personnel the information filed pursuant to section 24-706, the data compiled pursuant to section 24-707, and the risk management plan filed pursuant to section 24-718.
 
    (b)   The commissioner shall make available to the public, in such form and manner as may be prescribed by regulation, the information filed pursuant to section 24-706 and the data compiled pursuant to section 24-707, during normal working hours, at the location or locations designated by the commissioner. Within thirty days after the annual completion of the compilation of citywide facility inventory data pursuant to section 24-707 of this chapter, the commissioner shall publish a notice in the City Record that such information shall be available for inspection by the public at the location or locations specified in the notice.
 
@@ -6794,7 +6794,7 @@ Chapter 7: Community Right-to-know Law
 § 24-711 Labeling requirements.  ::
 
 
-	Within thirty days after a facility inventory form is first required to be filed for a facility, all hazardous substances present at such facility shall be clearly marked with a label showing the chemical name and CAS identification number of the hazardous substance. The information set forth on the label shall be in accordance with a recognized hazardous substances labeling system, accepted by the commissioner. In the case of a substance protected under the "trade secrets" provision contained in section 24-709 of this chapter, the label should bear the specific code assigned by the commissioner for such substance.
+Within thirty days after a facility inventory form is first required to be filed for a facility, all hazardous substances present at such facility shall be clearly marked with a label showing the chemical name and CAS identification number of the hazardous substance. The information set forth on the label shall be in accordance with a recognized hazardous substances labeling system, accepted by the commissioner. In the case of a substance protected under the "trade secrets" provision contained in section 24-709 of this chapter, the label should bear the specific code assigned by the commissioner for such substance.
 
 
 
@@ -6802,7 +6802,7 @@ Chapter 7: Community Right-to-know Law
 § 24-712 Inspections of a facility.  ::
 
 
-	(a)   The department, upon providing prior notice, shall have the authority to inspect any facility during normal business hours. However, whenever there is a reason to believe that a facility is in violation of the requirements of this chapter, the department shall be authorized to inspect the facility without prior notice. Any reasonable party who refuses to allow an authorized employee or representative of the department to conduct an inspection of the facility after appropriate credentials are presented shall be in violation of this chapter and shall be subject to the penalties provided in subdivision c of section 24-713 of this chapter.
+(a)   The department, upon providing prior notice, shall have the authority to inspect any facility during normal business hours. However, whenever there is a reason to believe that a facility is in violation of the requirements of this chapter, the department shall be authorized to inspect the facility without prior notice. Any reasonable party who refuses to allow an authorized employee or representative of the department to conduct an inspection of the facility after appropriate credentials are presented shall be in violation of this chapter and shall be subject to the penalties provided in subdivision c of section 24-713 of this chapter.
 
    (b)   Within twenty business days of receipt of a written complaint in such form as may be prescribed by the commissioner, alleging a violation of any of the provisions of this chapter, the department shall investigate such complaint and shall inform the complainant of the results of such investigation.
 
@@ -6812,7 +6812,7 @@ Chapter 7: Community Right-to-know Law
 § 24-713 Violations.  ::
 
 
-	(a)   Any person who knowingly or recklessly makes any false statement, representation or certification on a facility inventory form, risk management plan, or any other document filed with the department, or on any label required, pursuant to this chapter, shall, upon conviction, be subject to a fine of not more than two thousand dollars, or imprisonment of up to one year, or both. In addition to its application to any other person, the penalty provided for in this subdivision shall be deemed a special fine for a corporation within the meaning of section 80.10 of the penal law of the state of New York.
+(a)   Any person who knowingly or recklessly makes any false statement, representation or certification on a facility inventory form, risk management plan, or any other document filed with the department, or on any label required, pursuant to this chapter, shall, upon conviction, be subject to a fine of not more than two thousand dollars, or imprisonment of up to one year, or both. In addition to its application to any other person, the penalty provided for in this subdivision shall be deemed a special fine for a corporation within the meaning of section 80.10 of the penal law of the state of New York.
 
    (b)   Any person who violates the requirements of sections 24-706, 24-711 or 24-718 of this chapter shall be liable for a civil penalty, as follows: (1) for a first violation, in an amount of not less than five hundred nor more than five thousand dollars; (2) for a second violation, in an amount of not less than three thousand five hundred nor more than ten thousand dollars; and (3) for each subsequent violation, in an amount of not less than seven thousand five hundred nor more than twenty thousand dollars. For purposes of this section, the second and any subsequent violation shall only occur after notice of the first violation has been properly served and an opportunity to cure said violation has been provided to the violator, provided that such opportunity to cure shall not exceed thirty days. For purposes of this section, a second or subsequent violation shall occur where a person violates section 24-706, 24-711 or 24-718 of this chapter within five years of having been found to have violated this chapter. Such penalties may be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board. In determining the civil penalty, the hearing officer or judge shall consider any evidence presented by the defendant showing a good faith effort to comply with relevant requirements of this chapter, the nature and seriousness of the defendant's violation of the chapter, whether the violation was voluntarily disclosed, previous violations, if any, of this chapter and any other evidence found to be relevant.
 
@@ -6826,7 +6826,7 @@ Chapter 7: Community Right-to-know Law
 § 24-714 Private right of action.  ::
 
 
-	(a)   Except as provided in subdivision (c) of this section, any person may commence an action in a court of competent jurisdiction on his or her own behalf against a responsible party of a facility for failure to file any information required to be filed with the department or fire department pursuant to section 24-706 of this chapter. Such action shall be brought in the county in which the alleged violation occurred or where the complainant resides. The court may impose the civil penalty provided for violation of this chapter.
+(a)   Except as provided in subdivision (c) of this section, any person may commence an action in a court of competent jurisdiction on his or her own behalf against a responsible party of a facility for failure to file any information required to be filed with the department or fire department pursuant to section 24-706 of this chapter. Such action shall be brought in the county in which the alleged violation occurred or where the complainant resides. The court may impose the civil penalty provided for violation of this chapter.
 
    (b)   No action may be commenced under subdivision (a) of this section prior to sixty days after the plaintiff has given notice of the alleged violation to the commissioner and the alleged violator. Notice required under this subdivision shall be given in such manner as may be prescribed by the commissioner.
 
@@ -6842,7 +6842,7 @@ Chapter 7: Community Right-to-know Law
 § 24-715 Annual report.  ::
 
 
-	(a)   The commissioner shall annually review the facility inventory forms and material safety data sheets filed with the department pursuant to this chapter and citywide facility inventory data. Upon making this annual review, the commissioner shall forward a report to the mayor and the council no later than October first of each year. Such annual report shall, at a minimum, provide the following information: the number of facilities for which facility inventory forms have been filed pursuant to this chapter; the number of complaints received; the number of civilian complaints filed; the number of inspections performed pursuant to this chapter; the number of notices of violation issued pursuant to this chapter and chapter six of this title; the number of orders issued by the commissioner pursuant to subdivision a of section 24-608 of this title and the nature of such orders; the number of civil actions and administrative proceedings commenced under this chapter and chapter six of this title and the dispositions thereof; the number of incidents in which the department participated in response measures undertaken in connection with hazardous substances; the number of releases of hazardous substances reported to, or otherwise documented by the department; the number of emergency response personnel in each city agency which performs functions in connection with emergencies involving hazardous substances; and the average response time and cost of each member of the city's emergency response personnel.
+(a)   The commissioner shall annually review the facility inventory forms and material safety data sheets filed with the department pursuant to this chapter and citywide facility inventory data. Upon making this annual review, the commissioner shall forward a report to the mayor and the council no later than October first of each year. Such annual report shall, at a minimum, provide the following information: the number of facilities for which facility inventory forms have been filed pursuant to this chapter; the number of complaints received; the number of civilian complaints filed; the number of inspections performed pursuant to this chapter; the number of notices of violation issued pursuant to this chapter and chapter six of this title; the number of orders issued by the commissioner pursuant to subdivision a of section 24-608 of this title and the nature of such orders; the number of civil actions and administrative proceedings commenced under this chapter and chapter six of this title and the dispositions thereof; the number of incidents in which the department participated in response measures undertaken in connection with hazardous substances; the number of releases of hazardous substances reported to, or otherwise documented by the department; the number of emergency response personnel in each city agency which performs functions in connection with emergencies involving hazardous substances; and the average response time and cost of each member of the city's emergency response personnel.
 
    (b)   By March first, nineteen hundred ninety the commissioner shall report to the Council the status of the development of the threshold reporting quantities for hazardous substances that will become effective on March first, nineteen hundred ninety-one.
 
@@ -6852,7 +6852,7 @@ Chapter 7: Community Right-to-know Law
 § 24-716 Regulations.  ::
 
 
-	(a)   The commissioner shall have the power to promulgate such rules and regulations as may be necessary to carry out the purposes of this chapter.
+(a)   The commissioner shall have the power to promulgate such rules and regulations as may be necessary to carry out the purposes of this chapter.
 
    (b)   On or before January first, two thousand fifteen, the commissioner shall, in consultation with the emergency response agencies, promulgate rules for the proper siting and storage of hazardous substances, taking into consideration all safety issues, including, but not limited to, spillage, fire, flooding, storm surge, earthquake, power outages, and high winds. Such rules may regulate hazardous substances individually or in groups, and may require that additional or alternative precautions be taken in advance of an anticipated extreme weather event.
 
@@ -6862,7 +6862,7 @@ Chapter 7: Community Right-to-know Law
 § 24-717 Hazardous substance advisory board.  ::
 
 
-	(a)   There is hereby created a "hazardous substance advisory board" hereinafter referred to as the board. Such board shall consist of seven members who shall be appointed within ninety days from the enactment of this chapter.
+(a)   There is hereby created a "hazardous substance advisory board" hereinafter referred to as the board. Such board shall consist of seven members who shall be appointed within ninety days from the enactment of this chapter.
 
    (b)   The board shall consist of the commissioner, who shall serve as the board's chairman, plus four members to be appointed by the mayor and four to be appointed by the council. Each member shall hold office for a three year term or until such time as the board shall cease to exist or until such member shall resign or is removed from office for good cause shown. Each member appointed shall have a working knowledge of emergency response procedures or in managing hazardous substances.
 
@@ -6880,7 +6880,7 @@ Chapter 7: Community Right-to-know Law
 § 24-718 Risk management plan.  ::
 
 
-	(a)   On or before March first of each year beginning in nineteen hundred ninety-five, a responsible party of a facility where an extremely hazardous substance or a regulated toxic substance is present in an amount that equals or exceeds the threshold planning quantities established by the United States environmental protection agency in regulations promulgated pursuant to applicable law, shall file with the commissioner a risk management plan in accordance with the provisions of this section. Where a substance is classified as both an extremely hazardous substance and a regulated toxic substance and different threshold planning quantities have been established, the lower threshold planning quantity shall apply in determining whether such substance is present at a facility in an amount that equals or exceeds the threshold planning quantities.
+(a)   On or before March first of each year beginning in nineteen hundred ninety-five, a responsible party of a facility where an extremely hazardous substance or a regulated toxic substance is present in an amount that equals or exceeds the threshold planning quantities established by the United States environmental protection agency in regulations promulgated pursuant to applicable law, shall file with the commissioner a risk management plan in accordance with the provisions of this section. Where a substance is classified as both an extremely hazardous substance and a regulated toxic substance and different threshold planning quantities have been established, the lower threshold planning quantity shall apply in determining whether such substance is present at a facility in an amount that equals or exceeds the threshold planning quantities.
 
    (b)   Review of risk management plans.
 
@@ -6908,7 +6908,7 @@ Chapter 8: New York City Climate Protection Act
 § 24-801 Short title.  ::
 
 
-	This chapter shall be known and may be cited as the "New York City Climate Protection Act".
+This chapter shall be known and may be cited as the "New York City Climate Protection Act".
 
 
 
@@ -6916,7 +6916,7 @@ Chapter 8: New York City Climate Protection Act
 § 24-802 Definitions.  ::
 
 
-	For purposes of this chapter only, the following terms shall have the following meanings:
+For purposes of this chapter only, the following terms shall have the following meanings:
 
    a.   "Base year for citywide emissions" means calendar year 2005.
 
@@ -6944,7 +6944,7 @@ Chapter 8: New York City Climate Protection Act
 § 24-803 Reduction of greenhouse gas emissions that contribute to global warming.  ::
 
 
-	a.   (1)   Reduction of emissions citywide. There shall be, at minimum, a thirty percent reduction in citywide emissions by calendar year 2030, and an eighty percent reduction in citywide emissions by calendar year 2050, relative to such emissions for the base year for citywide emissions.
+a.   (1)   Reduction of emissions citywide. There shall be, at minimum, a thirty percent reduction in citywide emissions by calendar year 2030, and an eighty percent reduction in citywide emissions by calendar year 2050, relative to such emissions for the base year for citywide emissions.
 
       (2)   The emissions reduction required by paragraph one of this subdivision shall be achieved through the applicable policies, programs and actions included in PlaNYC, the long-term sustainability plan developed and updated pursuant to section twenty of the New York city charter, and any additional policies, programs and actions to reduce greenhouse gas emissions that contribute to global warming. If the office determines that such emissions reduction is not feasible despite the best efforts of city government, such office shall report such findings and make recommendations with respect to policies, programs and actions that may be undertaken to achieve such reductions.
 
@@ -6968,7 +6968,7 @@ Chapter 8: New York City Climate Protection Act
 § 24-804 Education and outreach.  ::
 
 
-	a.   No later than July 1, 2009, the office shall develop and implement programs for public education and outreach regarding global warming and the reduction of greenhouse gas emissions by residents, businesses, public and private elementary and secondary schools, and other entities within the city of New York. Such program shall include, but not be limited to, awareness campaigns tailored to specific sectors of the public, through which the office shall develop and disseminate information regarding global warming, including its potential impacts on the city of New York, and best practices to reduce energy consumption and greenhouse gas emissions.
+a.   No later than July 1, 2009, the office shall develop and implement programs for public education and outreach regarding global warming and the reduction of greenhouse gas emissions by residents, businesses, public and private elementary and secondary schools, and other entities within the city of New York. Such program shall include, but not be limited to, awareness campaigns tailored to specific sectors of the public, through which the office shall develop and disseminate information regarding global warming, including its potential impacts on the city of New York, and best practices to reduce energy consumption and greenhouse gas emissions.
 
    b.   The New York city renewable energy portal.
 
@@ -6990,7 +6990,7 @@ Chapter 8: New York City Climate Protection Act
 § 24-805 Annual report.  ::
 
 
-	No later than September 17, 2008, and no later than every September 17 thereafter, the office shall submit to the mayor, the speaker of the council, the public advocate and the comptroller and post on its website a report regarding actions taken by the office pursuant to the provisions of this chapter. Such report shall include, but not be limited to:
+No later than September 17, 2008, and no later than every September 17 thereafter, the office shall submit to the mayor, the speaker of the council, the public advocate and the comptroller and post on its website a report regarding actions taken by the office pursuant to the provisions of this chapter. Such report shall include, but not be limited to:
 
    a.   changes in citywide emissions measured in carbon dioxide equivalent achieved for the previous calendar year, relative to such emissions for the base year for citywide emissions;
 
@@ -7006,7 +7006,7 @@ Chapter 8: New York City Climate Protection Act
 § 24-806 Wind resource assessment. ::
 
 
-	The mayor shall include in each long-term sustainability plan required by subdivision e of section 20 of the charter, a wind resource assessment to identify and map the areas of the city where wind resources are available for the effective utilization of (i) a wind turbine appurtenant to a building that has a height of 100 feet or more, (ii) a wind turbine appurtenant to a building of any height located in a waterfront area or (iii) where wind resources are available for freestanding wind turbines in a waterfront area. Such assessment shall be made publicly available online together with a description of the methodology used to conduct such assessment. For the purposes of this section, the term “waterfront area” shall have the meaning ascribed to such term in the New York city zoning resolution.
+The mayor shall include in each long-term sustainability plan required by subdivision e of section 20 of the charter, a wind resource assessment to identify and map the areas of the city where wind resources are available for the effective utilization of (i) a wind turbine appurtenant to a building that has a height of 100 feet or more, (ii) a wind turbine appurtenant to a building of any height located in a waterfront area or (iii) where wind resources are available for freestanding wind turbines in a waterfront area. Such assessment shall be made publicly available online together with a description of the methodology used to conduct such assessment. For the purposes of this section, the term “waterfront area” shall have the meaning ascribed to such term in the New York city zoning resolution.
 
 
 
@@ -7018,7 +7018,7 @@ Chapter 9: Local Brownfield Cleanup Program
 § 24-901 Short Title.  ::
 
 
-	This chapter shall be known and may be cited as the "New York city local brownfield cleanup law".
+This chapter shall be known and may be cited as the "New York city local brownfield cleanup law".
 
 
 
@@ -7026,7 +7026,7 @@ Chapter 9: Local Brownfield Cleanup Program
 § 24-902 Definitions.  ::
 
 
-	For the purposes of this chapter the following terms shall mean:
+For the purposes of this chapter the following terms shall mean:
 
 "Applicant" shall mean a person who has submitted a request to participate in the local brownfield cleanup program but is not yet an enrollee.
 
@@ -7082,7 +7082,7 @@ Chapter 9: Local Brownfield Cleanup Program
 § 24-903 Rules for the Local Brownfield Cleanup Program.  ::
 
 
-	The director shall develop and administer a local brownfield cleanup program and shall promulgate rules to effectuate the provisions of this chapter including, but not limited to, rules:
+The director shall develop and administer a local brownfield cleanup program and shall promulgate rules to effectuate the provisions of this chapter including, but not limited to, rules:
 
    (a)   Prescribing the form for an application to participate in the local brownfield cleanup program and establishing an application review process to ensure that only eligible local brownfield sites, as provided in section 24-904 of this chapter, are accepted into the local brownfield cleanup program.
 
@@ -7110,7 +7110,7 @@ Chapter 9: Local Brownfield Cleanup Program
 § 24-904 Eligibility.  ::
 
 
-	The office shall determine whether to accept or reject an application to participate in the local brownfield cleanup program.
+The office shall determine whether to accept or reject an application to participate in the local brownfield cleanup program.
 
    (a)   The office shall reject the application if:
 
@@ -7128,7 +7128,7 @@ Chapter 9: Local Brownfield Cleanup Program
 § 24-905 Citizen Participation.  ::
 
 
-	(a)   The borough president and council member representing the area in which the local brownfield site is located, community board for the district in which the local brownfield site is located, residents living on or immediately adjacent to the local brownfield site, community based organizations, and other appropriate community groups shall be notified upon receipt by the office of the application to participate in the local brownfield cleanup program; before the office finalizes a remedial action work plan or approves a report on remedial action; and before the enrollee commences construction at the local brownfield site.
+(a)   The borough president and council member representing the area in which the local brownfield site is located, community board for the district in which the local brownfield site is located, residents living on or immediately adjacent to the local brownfield site, community based organizations, and other appropriate community groups shall be notified upon receipt by the office of the application to participate in the local brownfield cleanup program; before the office finalizes a remedial action work plan or approves a report on remedial action; and before the enrollee commences construction at the local brownfield site.
 
    (b)   The office shall provide opportunities for public comment and shall prescribe a procedure for enrollees to make documents available to the public.
 
@@ -7138,7 +7138,7 @@ Chapter 9: Local Brownfield Cleanup Program
 § 24-906 Certificate of Completion.  ::
 
 
-	(a)   A certificate of completion shall include (1) a finding that the enrollee has successfully completed the local brownfield cleanup program, (2) a statement that, subject to the provisions of this section and except as provided in the remedial action work plan, site management plan, declaration of covenants and restrictions, or certificate of completion, the city shall not take or require any further investigatory or remedial action against the site and the enrollee, his or her successors, and his or her assigns, regarding the contamination addressed at the site, and (3) a recommendation that no other governmental entity take or require any investigatory or remedial action against the site and the enrollee, his or her successors, and his or her assigns, regarding the contamination addressed at the site. The director shall seek to enter into agreements with federal and/or state agencies and other entities that formally recognize cleanups for which a city certificate of completion has been issued, and that stipulate that the federal and/or state agency or other entity does not intend or anticipate taking further actions requiring additional cleanup and investigation for contamination that an enrollee has appropriately addressed under the local brownfield cleanup program, subject to such terms and conditions as may be required by the federal and/or state agency or other entity. Nothing in this section shall in any way be interpreted as a binding legal commitment or obligation on behalf of the director to enter into such an agreement with the federal and/or state agency or other entity for any site enrolled in the local brownfield cleanup program, nor in any way restrict the director's discretion in negotiating the terms and conditions of such an agreement with the federal and/or state agency or other entity.
+(a)   A certificate of completion shall include (1) a finding that the enrollee has successfully completed the local brownfield cleanup program, (2) a statement that, subject to the provisions of this section and except as provided in the remedial action work plan, site management plan, declaration of covenants and restrictions, or certificate of completion, the city shall not take or require any further investigatory or remedial action against the site and the enrollee, his or her successors, and his or her assigns, regarding the contamination addressed at the site, and (3) a recommendation that no other governmental entity take or require any investigatory or remedial action against the site and the enrollee, his or her successors, and his or her assigns, regarding the contamination addressed at the site. The director shall seek to enter into agreements with federal and/or state agencies and other entities that formally recognize cleanups for which a city certificate of completion has been issued, and that stipulate that the federal and/or state agency or other entity does not intend or anticipate taking further actions requiring additional cleanup and investigation for contamination that an enrollee has appropriately addressed under the local brownfield cleanup program, subject to such terms and conditions as may be required by the federal and/or state agency or other entity. Nothing in this section shall in any way be interpreted as a binding legal commitment or obligation on behalf of the director to enter into such an agreement with the federal and/or state agency or other entity for any site enrolled in the local brownfield cleanup program, nor in any way restrict the director's discretion in negotiating the terms and conditions of such an agreement with the federal and/or state agency or other entity.
 
    (b)   (1)   The city nonetheless shall reserve all of its rights concerning any further investigation and/or remediation the office deems necessary due to:
 
@@ -7166,7 +7166,7 @@ Chapter 9: Local Brownfield Cleanup Program
 § 24-907 Civil Penalties.  ::
 
 
-	Any applicant, enrollee, or recipient of a certificate of completion who misrepresents any material fact related to the investigation, remediation or site management of a local brownfield site shall be liable for a civil penalty of not more than twenty-five thousand dollars. Such civil penalty may be recovered in a proceeding before the environmental control board. Such proceeding shall be commenced by the service of a notice of violation returnable before the environmental control board.
+Any applicant, enrollee, or recipient of a certificate of completion who misrepresents any material fact related to the investigation, remediation or site management of a local brownfield site shall be liable for a civil penalty of not more than twenty-five thousand dollars. Such civil penalty may be recovered in a proceeding before the environmental control board. Such proceeding shall be commenced by the service of a notice of violation returnable before the environmental control board.
 
 
 
@@ -7174,7 +7174,7 @@ Chapter 9: Local Brownfield Cleanup Program
 § 24-908 Withholding of permits.  ::
 
 
-	Where the office has determined that the owner of a local brownfield site or its successors or assigns has failed to continue in full force and effect all institutional and engineering controls required at such site in accordance with any applicable document or plan, it shall notify the department of buildings of such failure and the department of buildings shall withhold the issuance of permits from such site.
+Where the office has determined that the owner of a local brownfield site or its successors or assigns has failed to continue in full force and effect all institutional and engineering controls required at such site in accordance with any applicable document or plan, it shall notify the department of buildings of such failure and the department of buildings shall withhold the issuance of permits from such site.
 
 
 
@@ -7184,7 +7184,7 @@ Chapter 10: Environmental Hazard Remediation.
 § 24-1000 Declaration of policy. ::
 
 
-	It is hereby declared that asthma and other respiratory conditions have increased significantly in the United States and that evidence suggests that indoor environments, where most people spend a majority of their time, play an important role in predisposing vulnerable populations to asthma and other respiratory diseases. The National Academy of Sciences found that there was sufficient evidence to establish a causal link between a number of respiratory conditions and the presence of asthma triggers, irritants, pathogens, fungi and mold, including stachybotrys chartarum, soot from severe smoke or fire damage and flood damage, mold or environmental pathogens including bird or bat droppings or potentially infectious materials as defined by 29 CFR 1910, including H1N1, viruses, bacteria, blood borne pathogens, chemical spills, and sewage. Vulnerable populations such as those with profound immune-suppression, obstructive or cavity lung diseases, allergic rhinoconjunctivitis, asthma exacerbated by moldy materials, pneumonitis, are at particular risk. A highly trained workforce with skills across individual hazard and remediation method techniques will help to address multiple and common hazards in a safe manner. Further, in times of crisis, both natural and manmade, profiteers and other unscrupulous persons have historically taken advantage of victims. An approved master environmental hazard remediation technician registration program would result in a uniform standard of training that would allow the citizens of New York city to have confidence that environmental hazard remediation is done efficiently, effectively and safely.
+It is hereby declared that asthma and other respiratory conditions have increased significantly in the United States and that evidence suggests that indoor environments, where most people spend a majority of their time, play an important role in predisposing vulnerable populations to asthma and other respiratory diseases. The National Academy of Sciences found that there was sufficient evidence to establish a causal link between a number of respiratory conditions and the presence of asthma triggers, irritants, pathogens, fungi and mold, including stachybotrys chartarum, soot from severe smoke or fire damage and flood damage, mold or environmental pathogens including bird or bat droppings or potentially infectious materials as defined by 29 CFR 1910, including H1N1, viruses, bacteria, blood borne pathogens, chemical spills, and sewage. Vulnerable populations such as those with profound immune-suppression, obstructive or cavity lung diseases, allergic rhinoconjunctivitis, asthma exacerbated by moldy materials, pneumonitis, are at particular risk. A highly trained workforce with skills across individual hazard and remediation method techniques will help to address multiple and common hazards in a safe manner. Further, in times of crisis, both natural and manmade, profiteers and other unscrupulous persons have historically taken advantage of victims. An approved master environmental hazard remediation technician registration program would result in a uniform standard of training that would allow the citizens of New York city to have confidence that environmental hazard remediation is done efficiently, effectively and safely.
 
 Therefore, the council finds that it is in the best interests of the city to create a voluntary master environmental hazard remediation technician registration program which would recognize those who are sufficiently trained to hold themselves out as a master environmental hazard remediation technician.
 
@@ -7194,7 +7194,7 @@ Therefore, the council finds that it is in the best interests of the city to cre
 § 24-1001 Definitions. ::
 
 
-	For purposes of this chapter, the following terms shall have the following meanings:
+For purposes of this chapter, the following terms shall have the following meanings:
 
 "Certificate of completion" means any license, certificate, diploma or other department approved documentation indicating that the applicant has satisfactorily completed department approved trainings by a department approved training provider or providers.
 
@@ -7212,7 +7212,7 @@ Therefore, the council finds that it is in the best interests of the city to cre
 § 24-1002 Master Environmental Hazard Remediation Technician Registration Program. ::
 
 
-	a.   The department shall establish a program to provide for the voluntary registration of persons as master environmental hazard remediation technicians. An applicant for such registration shall meet the following qualifications:
+a.   The department shall establish a program to provide for the voluntary registration of persons as master environmental hazard remediation technicians. An applicant for such registration shall meet the following qualifications:
 
       (1)   Be eighteen years of age or older;
 
@@ -7246,7 +7246,7 @@ Therefore, the council finds that it is in the best interests of the city to cre
 § 24-1003 Enforcement. ::
 
 
-	Any person or other entity that violates any provision of this chapter or any regulation or order of the commissioner issued pursuant thereto shall be subject to a civil fine of not less than one thousand dollars per violation returnable to the environmental control board.
+Any person or other entity that violates any provision of this chapter or any regulation or order of the commissioner issued pursuant thereto shall be subject to a civil fine of not less than one thousand dollars per violation returnable to the environmental control board.
 
 
 

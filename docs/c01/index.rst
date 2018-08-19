@@ -5,7 +5,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-101 Name; powers and rights of the corporation; seal.  ::
 
 
-	The city shall be a body politic and corporate in fact and in law with power to contract and to be contracted with, to sue and be sued, to have a common seal and to have perpetual succession.
+The city shall be a body politic and corporate in fact and in law with power to contract and to be contracted with, to sue and be sued, to have a common seal and to have perpetual succession.
 
 
 
@@ -13,7 +13,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-102 City seal.  ::
 
 
-	a.   Description. The following is hereby adopted as the device of the corporate seal of the city of New York, to-wit:
+a.   Description. The following is hereby adopted as the device of the corporate seal of the city of New York, to-wit:
 
       1.   Arms: Upon a shield, saltire wise, the sails of a windmill. Between the sails, in chief a beaver, in base a beaver, and on each flank a flour barrel.
 
@@ -50,7 +50,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-103 Official city flag.  ::
 
 
-	a.   The following design is hereby adopted as the design of the official flag of the city:
+a.   The following design is hereby adopted as the design of the official flag of the city:
 
       1.   A flag combining the colors orange, white and blue arranged in perpendicular bars of equal dimensions (the blue being nearest to the flagstaff) with the standard design of the seal of the city in blue upon the middle, or white bar, omitting the legend "Sigillum Civitatis Novi Eboraci," which colors shall be the same as those of the flag of the United Netherlands in use in the year sixteen hundred twenty-five.
 
@@ -64,7 +64,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-104 Official flag—borough of the Bronx.  ::
 
 
-	a.   The following design is hereby adopted as the design of the official flag of the borough of the Bronx.
+a.   The following design is hereby adopted as the design of the official flag of the borough of the Bronx.
 
       1.   The colors orange, white, and blue as appears on the official city flag, arranged in horizontal bars of equal dimension, the orange being above the white and the blue below, with the following design in the center, encircled within a laurel wreath greater in diameter than the width of the white stripe: Crest: Upon a hemisphere, an American eagle with wings displayed. Shield: The sun with shining rays, rising from the sea. Legend: Upon a ribbon beneath the words "Ne Cede Malis".
 
@@ -76,7 +76,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-105 Official flag; borough of Brooklyn.  ::
 
 
-	a.   The following description is hereby adopted as the description of the official flag of the borough of Brooklyn. A white background in the center of which is the design of the seal. Within the seal appears a figure of the goddess of justice in gold holding Roman fasces in her left hand set on a background of light blue. Encircling her figure on a background of dark blue appear the words "Een Draght Mackt Maght" the old Dutch motto for "In unity there is strength" and below the words "borough of Brooklyn." The outside and inside trim of the seal is gold.
+a.   The following description is hereby adopted as the description of the official flag of the borough of Brooklyn. A white background in the center of which is the design of the seal. Within the seal appears a figure of the goddess of justice in gold holding Roman fasces in her left hand set on a background of light blue. Encircling her figure on a background of dark blue appear the words "Een Draght Mackt Maght" the old Dutch motto for "In unity there is strength" and below the words "borough of Brooklyn." The outside and inside trim of the seal is gold.
 
    b.   This flag may be displayed at reviews, parades, receptions and other civic functions.
 
@@ -86,7 +86,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-106 Daylight saving time; effect thereof on public proceedings.  ::
 
 
-	The standard time throughout the city of New York is that of the seventy-fifth meridian of longitude west from Greenwich, except that at two o'clock ante-meridian of the last Sunday in April of each year such standard time throughout the city shall be advanced one hour, and at two o'clock ante-meridian of the last Sunday in October of each year, such standard time shall, by the retarding of one hour, be returned to the mean astronomical time of the seventy-fifth meridian of longitude west from Greenwich, and all courts, public offices and legal and official proceedings shall be regulated thereby.
+The standard time throughout the city of New York is that of the seventy-fifth meridian of longitude west from Greenwich, except that at two o'clock ante-meridian of the last Sunday in April of each year such standard time throughout the city shall be advanced one hour, and at two o'clock ante-meridian of the last Sunday in October of each year, such standard time shall, by the retarding of one hour, be returned to the mean astronomical time of the seventy-fifth meridian of longitude west from Greenwich, and all courts, public offices and legal and official proceedings shall be regulated thereby.
 
 
 
@@ -96,7 +96,7 @@ Chapter 2: Boundaries of the City
 § 2-201 The city of New York, territory thereof and extent of jurisdiction and powers.  ::
 
 
-	All that territory within the city being all that territory contained within the boroughs of Manhattan, The Bronx, Brooklyn, Queens and Staten Island as hereafter described, shall be known as "The City of New York"; and the boundaries, jurisdictions and powers of the city are for all purposes of local administration and government hereby declared to be co-extensive with the territory above described.
+All that territory within the city being all that territory contained within the boroughs of Manhattan, The Bronx, Brooklyn, Queens and Staten Island as hereafter described, shall be known as "The City of New York"; and the boundaries, jurisdictions and powers of the city are for all purposes of local administration and government hereby declared to be co-extensive with the territory above described.
 
 
 
@@ -104,7 +104,7 @@ Chapter 2: Boundaries of the City
 § 2-202 Division into boroughs and boundaries thereof.  ::
 
 
-	The city of New York is hereby divided into five boroughs to be designated, respectively: Manhattan, The Bronx, Brooklyn, Queens and Staten Island.
+The city of New York is hereby divided into five boroughs to be designated, respectively: Manhattan, The Bronx, Brooklyn, Queens and Staten Island.
 
    1.   The borough of Manhattan shall consist of the territory known as New York county which shall contain all that part of the city and state, including that portion of land commonly known as Marble Hill and included within the county of New York and borough of Manhattan for all purposes pursuant to chapter nine hundred thirty-nine of the laws of nineteen hundred eighty-four and further including the islands called Manhattan Island, Governor's Island, Bedloe's Island, Ellis Island, Franklin D. Roosevelt Island, Randall's Island and Oyster Island, bounded by the following described line: Beginning at the northerly United States bulkhead line of the Harlem river at the junction of the Hudson and Harlem rivers; thence along the northerly and easterly United States bulkhead lines of the Harlem river to the low-water mark on the westerly bank of the Spuyten Duyvil creek as it existed prior to its being filled in; thence along said low-water mark of Spuyten Duyvil creek to the easterly United States bulkhead line of the Harlem river; thence southerly along the easterly United States bulkhead line of the Harlem river to a point where said United States bulkhead line of the Harlem river intersects the northerly United States bulkhead line of the Bronx kills; thence along the northerly line of the United States bulkhead line of the Bronx kills to the intersection of the northerly United States bulkhead line of the East river; thence across the East river to the low-water mark on the shore of Long Island, so as to include Randall's Island and Ward's Island; thence along the low-water mark on the shore of Long Island to the southerly side of Red Hook; thence across the Upper bay to the westerly boundary of the state; thence northerly along such westerly boundary of the state to a point where a perpendicular drawn from the point or place of beginning intersects such westerly boundary of the state; thence easterly along such perpendicular to the point or place of beginning; including all the islands or parts thereof situated within the aforedescribed bounds.
 
@@ -124,7 +124,7 @@ Chapter 2: Boundaries of the City
 § 2-203 Power to mark boundaries and to make surveys.  ::
 
 
-	The mayor shall have the power to direct the president of any borough to mark any boundary line or lines of the city, as such boundary line or lines is or are determined in and by the code, so as to distinguish and define the boundaries of the city, the boundaries of the boroughs, and any other boundary line or lines determined in and by the code, by such monuments as may be authorized by the mayor.
+The mayor shall have the power to direct the president of any borough to mark any boundary line or lines of the city, as such boundary line or lines is or are determined in and by the code, so as to distinguish and define the boundaries of the city, the boundaries of the boroughs, and any other boundary line or lines determined in and by the code, by such monuments as may be authorized by the mayor.
 
 
 

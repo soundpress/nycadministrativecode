@@ -5,7 +5,7 @@ Chapter 1: Definitions
 § 21-950 Definitions.  ::
 
 
-	Whenever used in this title, unless otherwise specified, the following terms shall have the following meanings:
+Whenever used in this title, unless otherwise specified, the following terms shall have the following meanings:
 
 "Chancellor" shall mean the chancellor of the city school district of the city of New York.
 
@@ -27,7 +27,7 @@ Chapter 2: Reporting On Co-located Schools
 § 21-951 Annual reporting on co-located schools.  ::
 
 
-	a.   For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
+a.   For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
 
    b.   Not later than the thirtieth day of August of the year 2015 and annually thereafter, the department shall submit to the council and post on the department's website a report regarding information on all co-located schools for the prior school year. Such report shall include, but not be limited to, (i) a comparison of demographic information including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for the free and reduced price lunch program and (ii) information regarding student academic performance, including but not limited to, student scores received on state examinations.
 
@@ -41,7 +41,7 @@ Chapter 3: Reporting On Guidance Counselors and social Workers
 § 21-952 Annual reporting on guidance counselors and social workers.  ::
 
 
-	a.   For the purposes of this section, the following terms shall have the following meanings:
+a.   For the purposes of this section, the following terms shall have the following meanings:
 
       1.   "Guidance counselor" means any personnel, licensed and certified by New York state as a school counselor, hired to provide individual or group counseling assistance to students in the elementary, middle, or high school grades, within the city school district of the city of New York.
 
@@ -61,7 +61,7 @@ Chapter 4: Environmental Data Reporting
 § 21-954 Environmental data reporting.  ::
 
 
-	a.   For the purposes of this section:
+a.   For the purposes of this section:
 
       "Contaminant" shall mean any element, substance, compound or mixture that, after release into the environment, upon exposure, ingestion, inhalation, or assimilation into any organism will or may reasonably be anticipated to cause illness, death or deformation in any organism; "contaminant" shall also include any physical, chemical, biological, or radiological substance or matter in water.
 
@@ -109,7 +109,7 @@ Chapter 5: Reporting on Students Receiving Special Education Services
 § 21-955 Annual reporting on special education services. ::
 
 
-	a.   For the purposes of this section, the following terms shall have the following meanings:
+a.   For the purposes of this section, the following terms shall have the following meanings:
 
       1.   "Academic period" shall mean the period beginning July 1 of the current calendar year until and including June 30 of the following subsequent calendar year.
 
@@ -215,7 +215,7 @@ Chapter 6: Reporting on Demographic Data in New York City Public Schools
 § 21-956 Definitions. ::
 
 
-	For the purposes of this chapter, the following terms shall have the following meanings:
+For the purposes of this chapter, the following terms shall have the following meanings:
 
    "Over the counter" shall mean a process of enrollment for high school students other than the citywide high school admissions processes.
 
@@ -235,7 +235,7 @@ Chapter 6: Reporting on Demographic Data in New York City Public Schools
 § 21-957 Annual report on the demographics of students in kindergarten through grade eight. ::
 
 
-	Not later than December 31, 2015, and by November 1 of each year thereafter, the department shall submit to the council and post on its website a report regarding the following:
+Not later than December 31, 2015, and by November 1 of each year thereafter, the department shall submit to the council and post on its website a report regarding the following:
 
    a.   For each community school district, school within such district, and special program within such school, the total number of public school students enrolled in the preceding school year in grades kindergarten through eight and the number and percentage of such students who:
 
@@ -283,7 +283,7 @@ Chapter 6: Reporting on Demographic Data in New York City Public Schools
 § 21-958 Annual report on high school student demographics. ::
 
 
-	Not later than December 31, 2015, and by November 1 of each year thereafter, the department shall submit to the council and post on its website a report regarding the following:
+Not later than December 31, 2015, and by November 1 of each year thereafter, the department shall submit to the council and post on its website a report regarding the following:
 
    a.   For each public high school, the total number of students enrolled in grades nine through twelve in the preceding school year and the number and percentage of such students who:
 
@@ -331,7 +331,7 @@ Chapter 6: Reporting on Demographic Data in New York City Public Schools
 § 21-959 Annual report on the demographics of students in pre-kindergarten programs operated by the department. ::
 
 
-	Not later than November 1, 2016, and annually thereafter not later than November 1, the department shall submit to the council and post on its website a report regarding the following:
+Not later than November 1, 2016, and annually thereafter not later than November 1, the department shall submit to the council and post on its website a report regarding the following:
 
    a.   For each school that offers a pre-kindergarten program, the total number of students enrolled in the preceding school year in such program, disaggregated by race or ethnicity and gender.
 
@@ -347,7 +347,7 @@ Chapter 7: Physical Education Reporting
 § 21-960 Reporting on physical education. ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       Adaptive physical education. The term "adaptive physical education" means a specially designed physical education program of developmental activities, games, sports, and rhythms suited to the interests, capabilities, and limitations of students with disabilities who may not safely or successfully engage in unrestricted participation in the activities of a regular physical education program, as specified in a student's individualized education program. 
  
@@ -408,7 +408,7 @@ Chapter 8: Student Health Services
 § 21-965 Student health services. ::
 
 
-	a.   Definitions. As used in this chapter, the following terms have the following meanings: 
+a.   Definitions. As used in this chapter, the following terms have the following meanings: 
  
 
       Automated student health record database. The term "automated student health record database" means a database maintained by the department of health and mental hygiene to record information about students' medical care. 
@@ -462,7 +462,7 @@ Chapter 8: Student Health Services
 § 21-966 Reporting on health education. ::
 
 
-	a.   For the purposes of this section, the following term has the following meaning: 
+a.   For the purposes of this section, the following term has the following meaning: 
  
 
       Health education. The term "health education" means health education instruction, including sexual health education and HIV/AIDS education, consistent with learning standards for health education found in regulations promulgated by the New York state commissioner of education and in the department's requirements. 
@@ -501,7 +501,7 @@ Chapter 8: Student Health Services
 § 21-967 Instructors receiving sexual health training. ::
 
 
-	a.   For the purposes of this section, "school" means a school of the city school district of the city of New York. 
+a.   For the purposes of this section, "school" means a school of the city school district of the city of New York. 
  
 
    b.   Not later than December 1, 2016, and on or before December 1 annually thereafter, the department shall submit to the speaker and post on the department's website information regarding the provision of sexual health education training to instructors in schools for the preceding school year. Such information shall include: (i) the total number of licensed health instructors employed by the department, disaggregated by full-time and part-time instructors; (ii) the total number of instructors assigned to teach at least one health education class; (iii) the total number and percentage of instructors who received professional development training provided by the department on sexual health education in the preceding two school years; and (iv) the total number and percentage of instructors who attended multiple sessions of professional development training provided by the department on sexual health education in the preceding two school years, disaggregated by the number of trainings attended. 
@@ -519,7 +519,7 @@ Chapter 8: Student Health Services
 § 21-968 Provision of feminine hygiene products in schools. ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms have the following meanings.
+a.   Definitions. For the purposes of this section, the following terms have the following meanings.
 
       Feminine hygiene products. The term “feminine hygiene products” means tampons and sanitary napkins for use in connection with the menstrual cycle.
 
@@ -535,7 +535,7 @@ Chapter 8: Student Health Services
 § 21-969 Distribution of educational materials on drugs and opiates awareness and prevention. ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms have the following meanings:
+a.   Definitions. For the purposes of this section, the following terms have the following meanings:
 
       Middle and high school. The term “middle and high school” means any school of the city school district that contains any combination of grades from grade 6 through grade 12.
 
@@ -555,7 +555,7 @@ Chapter 9. Career and Technical Education Reporting
 § 21-971 Reporting on career and technical education. ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       Career and technical education. The term "career and technical education" or "CTE" means a curriculum designed to provide students with certain skills that will enable them to pursue a career in certain disciplines, including but not limited to, agricultural education, business and marketing, family and consumer sciences, health occupations, technology and trade, or technical and industrial education.
 
@@ -599,7 +599,7 @@ Chapter 10: Computer Science Education Reporting
 § 21-972 Reporting on computer science education. ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       Computer science program. The term "computer science program" means any class, component of a class, or curriculum designed to enable students to learn computing concepts, including but not limited to abstraction, algorithms, programming, data and information, and networks.
 
@@ -639,7 +639,7 @@ Chapter 11: Sexual Education Task Force
 § 21-973 Sexual health education task force.* ::
 
 
-	a.   Definitions. For the purposes of this section only, the following definitions shall apply:
+a.   Definitions. For the purposes of this section only, the following definitions shall apply:
 
       Age-appropriate. The term “age-appropriate” means topics, messages and teaching methods suitable to particular ages or age groups of students, based on developing cognitive, emotional and behavioral capacity typical for the age or age group.
 
@@ -691,7 +691,7 @@ Chapter 12: Distribution of Gifted and Talented Program Information and Exam Mat
 § 21-974 Distribution of gifted and talented program information and exam materials. ::
 
 
-	a.   For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
+a.   For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
 
    b.   No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
 
@@ -705,7 +705,7 @@ Chapter 13: School Meal Participation
 § 21-975 School meal participation data. ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       After school snacks. The term “after school snacks” means a meal that consists of two food items offered during afterschool educational or enrichment activities.
 
@@ -753,7 +753,7 @@ Chapter 14: Reporting on GSAs
 § 21-976 Reporting on GSAs. ::
 
 
-	a.   For the purposes of this chapter, the following terms have the following meanings:
+a.   For the purposes of this chapter, the following terms have the following meanings:
 
       GSA. The term “GSA” means student-led groups that focus on issues of sexual and gender orientation, including but not limited to, combating homophobia and transphobia. These groups are commonly referred to as gay-straight alliances or gender-sexuality alliances.
 
@@ -783,7 +783,7 @@ Chapter 15: Distribution of Information Regarding Interactions with Non-Local La
 § 21-977 Distribution of information regarding educational rights and departmental policies related to interactions with non-local law enforcement. ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       School. The term “school” means a school of the city school district of the city of New York.
 
@@ -813,7 +813,7 @@ Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment an
 § 21-978 Reporting on school applications, offers of admission, enrollment and available seats. ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve, including early education centers with which the department contracts to provide pre-kindergarten.
 
@@ -841,7 +841,7 @@ Chapter 17: Distribution of Information Regarding Summer Meals
 § 21-979 Distribution of information regarding summer meals. ::
 
 
-	a.   For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
+a.   For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
 
    b.   No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
 
@@ -859,7 +859,7 @@ Chapter 18: Bullying, Harassment, Intimidation and Discrimination
 § 21-980 Reporting on student-to-student bullying, harassment, intimidation and discrimination. ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       Complaint. The term “complaint” means an oral or written complaint submitted to the department that contains allegations of violations of chancellor’s regulation A-832 involving student-to-student bullying, harassment, intimidation or discrimination.
 
@@ -911,7 +911,7 @@ Chapter 18: Bullying, Harassment, Intimidation and Discrimination
 § 21-981 Posting of contact information for reports of bullying, harassment, intimidation, and discrimination. ::
 
 
-	a.   Definitions. For purposes of this section, the following terms have the following meanings:
+a.   Definitions. For purposes of this section, the following terms have the following meanings:
 
       Dignity act coordinator. The term “dignity act coordinator” means the person or persons identified pursuant to paragraph a of subdivision 1 of section 13 of the education law as the school employee charged with receiving reports of harassment, bullying and discrimination, and responsible for discharging the responsibilities of the dignity act coordinator pursuant to subdivision jj of section 100.2 of title 8 of the New York codes, rules and regulations.
 
@@ -945,7 +945,7 @@ Chapter 20: Reporting on Students in Temporary Housing
 § 21-987 [Reporting on students in temporary housing.] ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       Borough of origin. The term “borough of origin” means the borough in which a student attended school when permanently housed or the borough of the school in which the student was last enrolled.
 

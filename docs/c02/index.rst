@@ -5,7 +5,7 @@ Chapter 1: Mayor
 § 3-101 Flag of the mayor.  ::
 
 
-	The official flag of the mayor shall be the same in design as the official flag of the city. Upon the middle or white bar, however, and above the design of the seal in a semi-circle, there shall be five blue five-pointed stars, typifying the five boroughs of the city. The dimensions of such flag shall be thirty-three inches by forty-four inches.
+The official flag of the mayor shall be the same in design as the official flag of the city. Upon the middle or white bar, however, and above the design of the seal in a semi-circle, there shall be five blue five-pointed stars, typifying the five boroughs of the city. The dimensions of such flag shall be thirty-three inches by forty-four inches.
 
 
 
@@ -13,7 +13,7 @@ Chapter 1: Mayor
 § 3-102 Flags and decorations; city hall park.  ::
 
 
-	All authority to display flags or other decorations on, in or about the public buildings within the city hall park, is vested in the mayor, unless otherwise ordered by the council.
+All authority to display flags or other decorations on, in or about the public buildings within the city hall park, is vested in the mayor, unless otherwise ordered by the council.
 
    a.   A Prisoner of War/Missing in Action POW/(MIA) flag shall be flown over City Hall every day the American flag is flown until such time as all persons listed as missing in action, from any branch of the United States Armed Forces, and all persons from any branch of our armed forces who are prisoners of war, are accounted for by the United States Government.
 
@@ -23,7 +23,7 @@ Chapter 1: Mayor
 § 3-103 Apprehension and conviction of criminals.  ::
 
 
-	The mayor, whenever he or she shall deem it necessary, may issue a proclamation offering a reward for information which shall lead to the apprehension or apprehension and conviction of any person who may have committed a crime within the city. In such proclamation, the mayor may offer a reward not exceeding five hundred dollars for the apprehension of any such person and not exceeding ten thousand dollars for the apprehension and conviction of any such person, provided, however, that the mayor may offer a reward not exceeding one hundred thousand dollars for the apprehension and conviction of any person found guilty in connection with an act of terrorism involving loss of life or substantial injury to persons or property. Any such reward shall be paid out of the city treasury upon a certificate of the mayor that the service required has been performed. For purposes of this section, "terrorism" means premediatated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents.
+The mayor, whenever he or she shall deem it necessary, may issue a proclamation offering a reward for information which shall lead to the apprehension or apprehension and conviction of any person who may have committed a crime within the city. In such proclamation, the mayor may offer a reward not exceeding five hundred dollars for the apprehension of any such person and not exceeding ten thousand dollars for the apprehension and conviction of any such person, provided, however, that the mayor may offer a reward not exceeding one hundred thousand dollars for the apprehension and conviction of any person found guilty in connection with an act of terrorism involving loss of life or substantial injury to persons or property. Any such reward shall be paid out of the city treasury upon a certificate of the mayor that the service required has been performed. For purposes of this section, "terrorism" means premediatated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents.
 
 
 
@@ -31,7 +31,7 @@ Chapter 1: Mayor
 § 3-104 Declaration of emergency.  ::
 
 
-	Whenever the mayor determines that there has been an act of violence or a flagrant and substantial defiance of or resistance to a lawful exercise of public authority, and that, partly on account thereof, there is reason to believe that there exists a clear and present danger of a riot or other general public disorder, widespread disobedience of the law, and substantial injury to persons or to property, all of which constitutes a threat to public peace or order and to the general welfare of the city or a part or parts thereof, the mayor may declare that a state of emergency exists within the city or any part of parts thereof.
+Whenever the mayor determines that there has been an act of violence or a flagrant and substantial defiance of or resistance to a lawful exercise of public authority, and that, partly on account thereof, there is reason to believe that there exists a clear and present danger of a riot or other general public disorder, widespread disobedience of the law, and substantial injury to persons or to property, all of which constitutes a threat to public peace or order and to the general welfare of the city or a part or parts thereof, the mayor may declare that a state of emergency exists within the city or any part of parts thereof.
 
 
 
@@ -39,7 +39,7 @@ Chapter 1: Mayor
 § 3-105 Emergency measures.  ::
 
 
-	1.   Whenever the mayor, pursuant to section 3-104, declares that a state of emergency exists, (a) the emergency measures provided in subdivision two of this section shall thereupon be in effect during the period of said emergency and throughout the city and (b) the mayor may order and promulgate all or any of the emergency measures provided in subdivision three of this section, in whole or in part, and with such limitations and conditions as he or she may deem appropriate, and any such emergency measure so ordered and promulgated shall thereupon be in effect during the period of said emergency and in the area or areas for which the emergency has been declared.
+1.   Whenever the mayor, pursuant to section 3-104, declares that a state of emergency exists, (a) the emergency measures provided in subdivision two of this section shall thereupon be in effect during the period of said emergency and throughout the city and (b) the mayor may order and promulgate all or any of the emergency measures provided in subdivision three of this section, in whole or in part, and with such limitations and conditions as he or she may deem appropriate, and any such emergency measure so ordered and promulgated shall thereupon be in effect during the period of said emergency and in the area or areas for which the emergency has been declared.
 
    2.   (a)   The sale or other transfer of possession, with or without consideration, offer to sell or so transfer, and the purchase of any ammunition, guns and other firearms of any size or description is prohibited.
 
@@ -67,7 +67,7 @@ Chapter 1: Mayor
 § 3-106 Filing and publication.  ::
 
 
-	Any state of emergency or emergency measure declared or ordered and promulgated by virtue of the terms of the code shall, as promptly as practicable, be filed in the office of the city clerk and published in the City Record and shall also be delivered to appropriate news media for publication and radio and television broadcast thereby. If practicable, such state of emergency declaration or emergency measure shall also be publicized by other appropriate means such as by posting and loud-speakers.
+Any state of emergency or emergency measure declared or ordered and promulgated by virtue of the terms of the code shall, as promptly as practicable, be filed in the office of the city clerk and published in the City Record and shall also be delivered to appropriate news media for publication and radio and television broadcast thereby. If practicable, such state of emergency declaration or emergency measure shall also be publicized by other appropriate means such as by posting and loud-speakers.
 
 
 
@@ -75,7 +75,7 @@ Chapter 1: Mayor
 § 3-107 Duration and termination of emergency.  ::
 
 
-	A state of emergency established under the code shall commence upon the declaration thereof by the mayor and shall terminate at the end of a period of five consecutive days thereafter, unless prior to the end of such five day period, the mayor shall either terminate such state of emergency or shall declare an additional state of emergency. Any such additional state of emergency shall commence and terminate as provided in section 3-104 and in this section.
+A state of emergency established under the code shall commence upon the declaration thereof by the mayor and shall terminate at the end of a period of five consecutive days thereafter, unless prior to the end of such five day period, the mayor shall either terminate such state of emergency or shall declare an additional state of emergency. Any such additional state of emergency shall commence and terminate as provided in section 3-104 and in this section.
 
 
 
@@ -83,7 +83,7 @@ Chapter 1: Mayor
 § 3-108 Violations.  ::
 
 
-	Any knowing violation of a provision of any emergency measure established pursuant to this chapter shall be a class B misdemeanor punishable by a fine of not more than five hundred dollars, or by imprisonment for not more than three months, or both.
+Any knowing violation of a provision of any emergency measure established pursuant to this chapter shall be a class B misdemeanor punishable by a fine of not more than five hundred dollars, or by imprisonment for not more than three months, or both.
 
 
 
@@ -91,7 +91,7 @@ Chapter 1: Mayor
 § 3-109 Definitions.  ::
 
 
-	For the purposes of this chapter:
+For the purposes of this chapter:
 
    1.   "Alcoholic beverage" shall mean an alcoholic beverage as that term is defined by section three of the alcoholic beverage control law but shall not include patented medicine.
 
@@ -103,7 +103,7 @@ Chapter 1: Mayor
 § 3-110 Parking spaces.  ::
 
 
-	a.   Notwithstanding any other provision of law, the mayor, within the appropriation provided therefor, shall have the power to establish parking spaces, pursuant to section seventy-two-j of the general municipal law and assign whatever functions are necessary in connection with the construction, operation and maintenance of such parking spaces to appropriate city departments or agencies.
+a.   Notwithstanding any other provision of law, the mayor, within the appropriation provided therefor, shall have the power to establish parking spaces, pursuant to section seventy-two-j of the general municipal law and assign whatever functions are necessary in connection with the construction, operation and maintenance of such parking spaces to appropriate city departments or agencies.
 
    b.   Any city department or agency to which functions are assigned by the mayor in connection with the operation and maintenance of such parking space may adopt rules and regulations necessary for the carrying out of such functions. Violation of such rules and regulations shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days imprisonment, a fine of not more than fifty dollars, or both.
 
@@ -113,7 +113,7 @@ Chapter 1: Mayor
 § 3-111 [Drug Enforcement and Drug Abuse Task Force.]  ::
 
 
-	a.   Composition.
+a.   Composition.
 
       (1)   The mayor shall appoint a drug enforcement and drug abuse task force which shall be chaired by the criminal justice coordinator and shall consist of, but not be limited to, representatives of the police department; human resources administration; department of health and mental hygiene; department of correction; department of housing preservation and development; department of finance; department of probation; and the criminal justice coordinator.
 
@@ -127,7 +127,7 @@ Chapter 1: Mayor
 § 3-111 Safety program. [Repealed]  ::
 
 
-	
+
 
 
 
@@ -135,7 +135,7 @@ Chapter 1: Mayor
 § 3-113 Notification of status of government services during severe weather conditions or other emergency.* ::
 
 
-	a.   An agency or agencies designated by the mayor shall notify the public of the status of any New York city government services that are suspended or significantly disrupted due to severe weather conditions or other emergency. Such government services shall include, but not be limited to, collection of solid waste, public transportation, on-street parking, and the operation of educational facilities. The notification shall be through any medium that is reasonably expected to reach a substantial proportion of the community or communities impacted by the suspension or disruption of government services, provided that, in addition to notification by any other media, the designated agency or agencies shall maintain a dedicated website on which all information regarding the status of disrupted government services shall be made publicly available.
+a.   An agency or agencies designated by the mayor shall notify the public of the status of any New York city government services that are suspended or significantly disrupted due to severe weather conditions or other emergency. Such government services shall include, but not be limited to, collection of solid waste, public transportation, on-street parking, and the operation of educational facilities. The notification shall be through any medium that is reasonably expected to reach a substantial proportion of the community or communities impacted by the suspension or disruption of government services, provided that, in addition to notification by any other media, the designated agency or agencies shall maintain a dedicated website on which all information regarding the status of disrupted government services shall be made publicly available.
 
    b.   An agency or agencies designated by the mayor shall evaluate and determine the feasibility of posting information regarding the suspension or significant disruption of services provided by not-for-profit organizations, who contract with the city to provide such services, on the dedicated website established pursuant to this section.
 
@@ -145,7 +145,7 @@ Chapter 1: Mayor
 § 3-113 [Citywide temporary emergency housing and associated services; reports; date.]*  ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
+a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
 
       (1)   "Adult" shall mean an individual 18 years of age or older;
 
@@ -323,7 +323,7 @@ Chapter 1: Mayor
 § 3-113 Posting of executive orders and memoranda of understanding on the city's website.* ::
 
 
-	a.   (1)   All mayoral executive orders issued on or after January 1, 1974 shall be posted on the city's website.
+a.   (1)   All mayoral executive orders issued on or after January 1, 1974 shall be posted on the city's website.
 
       (2)   All mayoral executive orders issued on or after July 1, 2011 shall be provided to the council and posted on the city's website within five business days from the date of execution.
 
@@ -345,7 +345,7 @@ Chapter 1: Mayor
 § 3-114 Agency liaisons.  ::
 
 
-	a.   The chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall ensure that each relevant agency designates an employee or employees to serve as agency liaison(s) to such agency's regulated community or communities, including but not limited to relevant chambers of commerce and industry groups. Each liaison shall report to the chief business operations officer, or other representative of the office of the mayor designated by the mayor. Each liaison shall, to the extent practicable, meet regularly with such liaison's agency's regulated community or communities. For purposes of this subdivision, relevant agencies shall include the department of buildings, the department of consumer affairs, the department of health and mental hygiene, the department of environmental protection, the department of sanitation, and the fire department.
+a.   The chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall ensure that each relevant agency designates an employee or employees to serve as agency liaison(s) to such agency's regulated community or communities, including but not limited to relevant chambers of commerce and industry groups. Each liaison shall report to the chief business operations officer, or other representative of the office of the mayor designated by the mayor. Each liaison shall, to the extent practicable, meet regularly with such liaison's agency's regulated community or communities. For purposes of this subdivision, relevant agencies shall include the department of buildings, the department of consumer affairs, the department of health and mental hygiene, the department of environmental protection, the department of sanitation, and the fire department.
 
    b.   No later than July 1, 2013, and no later than every July 1 thereafter, the chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall provide to the mayor and the speaker of the council a listing of the name and contact information of designated agency liaisons.
 
@@ -355,7 +355,7 @@ Chapter 1: Mayor
 § 3-115 New York city identity card.  ::
 
 
-	a.   Definitions.
+a.   Definitions.
 
        "Administering Agency" shall mean the agency that the mayor designates to administer the New York city identity card program.
 
@@ -507,7 +507,7 @@ Chapter 1: Mayor
 § 3-116 Veterans receiving certain city services.  ::
 
 
-	a.   For the purposes of this section, the following terms shall have the following meanings:
+a.   For the purposes of this section, the following terms shall have the following meanings:
 
       (1)   "Fee-exempt mobile food vending license" means any license as required by section 17-307 of this code for which the annual fee is waived pursuant to subdivision e of section 17-308 of this code;
 
@@ -531,7 +531,7 @@ Chapter 1: Mayor
 § 3-117 Annual reporting on bail and the criminal justice system.* ::
 
 
-	a.   For the purposes of this section, the following terms have the following meanings:
+a.   For the purposes of this section, the following terms have the following meanings:
 
       Homeless youth.  The term "homeless youth" means persons under the age of 21 who are in need of services and are without a place of shelter where supervision and care are available.
 
@@ -555,7 +555,7 @@ Chapter 1: Mayor
 § 3-119 Modification or removal of deed restrictions. ::
 
 
-	a.   Definitions. For the purposes of this section, the term "deed restriction" means a covenant set forth in a deed, lease that is for a term of 49 years or longer, or easement that limits the use of property located within the city and is imposed by the city when such property is sold or otherwise disposed of by the city.
+a.   Definitions. For the purposes of this section, the term "deed restriction" means a covenant set forth in a deed, lease that is for a term of 49 years or longer, or easement that limits the use of property located within the city and is imposed by the city when such property is sold or otherwise disposed of by the city.
 
    b.   Approval.
 
@@ -617,7 +617,7 @@ Chapter 1: Mayor
 § 3-119.1 Citywide census of vacant properties. ::
 
 
-	a.   The mayor, or an agency designated by the mayor, shall analyze data provided under subdivisions b and c of this section to provide an estimate of the number of vacant residential buildings and vacant lots located in areas zoned to permit residential use. Such analysis need not be conducted with regard to vacant buildings or vacant lots located in coastal flood zones designated by the federal emergency management agency or other coastal flood zones designated or recognized by the city. The first such analysis shall be initiated no later than 90 days after the effective date of the local law that added this section and shall be completed within three years thereafter. A new vacancy analysis shall be conducted every five years thereafter.
+a.   The mayor, or an agency designated by the mayor, shall analyze data provided under subdivisions b and c of this section to provide an estimate of the number of vacant residential buildings and vacant lots located in areas zoned to permit residential use. Such analysis need not be conducted with regard to vacant buildings or vacant lots located in coastal flood zones designated by the federal emergency management agency or other coastal flood zones designated or recognized by the city. The first such analysis shall be initiated no later than 90 days after the effective date of the local law that added this section and shall be completed within three years thereafter. A new vacancy analysis shall be conducted every five years thereafter.
 
    b.   The departments of housing preservation and development, environmental protection, buildings and sanitation and the fire department, and any other agency upon request of the mayor or such designated agency, shall provide to the mayor or such designated agency such records as may be provided lawfully concerning the physical condition of and services provided to any building or parcel of land within the city in order to aid the mayor or such designated agency in determining whether any building or lot is vacant.
 
@@ -631,7 +631,7 @@ Chapter 1: Mayor
 § 3-119.2 Annual reporting on workplace sexual harassment. ::
 
 
-	a.   Definitions. For purposes of this section, the following terms have the following meanings:
+a.   Definitions. For purposes of this section, the following terms have the following meanings:
 
       Agency. The term “agency” has the same meaning as such term is defined in section 1150 of the charter and shall include the offices of the borough presidents, the comptroller and the public advocate.
 
@@ -665,7 +665,7 @@ Chapter 1: Mayor
 § 3-120 Study on notification of public assistance eligibility.* ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms have the following meanings:
+a.   Definitions. For the purposes of this section, the following terms have the following meanings:
 
       Notice. The term “notice” means a written communication sent through the mail or by electronic means.
 
@@ -697,7 +697,7 @@ Chapter 1: Mayor
 § 3-121 Client information management systems study.* ::
 
 
-	a.   Definitions. For the purposes of this section the following terms have the following meanings:
+a.   Definitions. For the purposes of this section the following terms have the following meanings:
 
       Client information management system. The term “client information management system” means any electronic software used to collect, record, or manage information about social services that individuals may apply for or receive.
 
@@ -727,7 +727,7 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 § 3-120 Annual city food system metrics report.* ::
 
 
-	a.   No later than September first, two thousand twelve, and no later than every September first thereafter, the office of long-term planning and sustainability shall prepare and submit to the mayor and the speaker of the city council a report regarding the production, processing, distribution and consumption of food in and for the city of New York during the previous fiscal year. Such report shall include:
+a.   No later than September first, two thousand twelve, and no later than every September first thereafter, the office of long-term planning and sustainability shall prepare and submit to the mayor and the speaker of the city council a report regarding the production, processing, distribution and consumption of food in and for the city of New York during the previous fiscal year. Such report shall include:
 
       1.   the number, size in acres, county and type of production of, and annual dollar amount of city financial support received by, farms participating in the watershed agricultural program;
 
@@ -777,7 +777,7 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 § 3-121 Clean waterfront plan.* ::
 
 
-	a.   For purposes of this section, the following terms shall have the following meanings:
+a.   For purposes of this section, the following terms shall have the following meanings:
 
       1.   "Director" shall mean the director of long-term planning and sustainability;
 
@@ -823,7 +823,7 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 § 3-122 New York city panel on climate change.  ::
 
 
-	a.   For the purposes of this section and section 3-123 of this subchapter, the following terms shall mean:
+a.   For the purposes of this section and section 3-123 of this subchapter, the following terms shall mean:
 
       1.   "Vulnerable populations" means persons or communities at increased risk of harm as a direct or indirect consequence of climate change based on one or more of the following risk factors: (i) proximity to disproportionally impacted areas; (ii) age, including senior citizen or minor status; (iii) income level; (iv) disability; (v) chronic or mental illness; and (vi) language.
 
@@ -847,7 +847,7 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 § 3-123 New York city climate change adaptation task force.  ::
 
 
-	a.   There shall be a New York city climate change adaptation task force consisting of city, state and federal agencies and private organizations and entities responsible for developing, maintaining, operating or overseeing the city's public health, natural systems, critical infrastructure, including telecommunications, buildings and economy. The task force shall be chaired by the office of long-term planning and sustainability, and shall include, but need not be limited to, representatives from the department of buildings, the department of design and construction, department of city planning, the department of environmental protection, the department of information technology and telecommunications, the department of parks and recreation, the department of sanitation, the department of transportation, the economic development corporation, the office of emergency management, the office of management and budget, the department for the aging and the department of health and mental hygiene. Public members shall include, but need not be limited to, representatives from organizations in the health care, telecommunications, energy and transportation fields, who shall be appointed by, and serve at the pleasure of, the mayor without compensation from the city. The mayor shall invite the appropriate federal, state and local agencies and authorities to participate.
+a.   There shall be a New York city climate change adaptation task force consisting of city, state and federal agencies and private organizations and entities responsible for developing, maintaining, operating or overseeing the city's public health, natural systems, critical infrastructure, including telecommunications, buildings and economy. The task force shall be chaired by the office of long-term planning and sustainability, and shall include, but need not be limited to, representatives from the department of buildings, the department of design and construction, department of city planning, the department of environmental protection, the department of information technology and telecommunications, the department of parks and recreation, the department of sanitation, the department of transportation, the economic development corporation, the office of emergency management, the office of management and budget, the department for the aging and the department of health and mental hygiene. Public members shall include, but need not be limited to, representatives from organizations in the health care, telecommunications, energy and transportation fields, who shall be appointed by, and serve at the pleasure of, the mayor without compensation from the city. The mayor shall invite the appropriate federal, state and local agencies and authorities to participate.
 
    b.   1.   The task force shall meet at least twice a year for the purposes of reviewing the climate change projections as recommended by the New York city panel on climate change pursuant to section 3-122 of this subchapter; evaluating the potential impacts to public health and the delivery of public health services to the city's communities and vulnerable populations and how such delivery may be affected by climate change; evaluating the potential impacts to the city's natural systems, critical infrastructure, including telecommunications, and buildings and how services provided by such systems, infrastructure, including telecommunications, and buildings may be affected by climate change; identifying the rules, policies and regulations governing public health, natural systems, critical infrastructure, including telecommunications, buildings and economy that may be affected by climate change; and formulating and updating coordinated strategies to address the potential impact of climate change on the city's communities, vulnerable populations, public health, natural systems, critical infrastructure, including telecommunications, buildings and economy.
 
@@ -865,7 +865,7 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 § 3-124 Study and report on the effects of wind on certain buildings.  ::
 
 
-	a.   The office of long-term planning and sustainability in consultation with the department of buildings shall undertake a study and submit a report to the mayor and the speaker of the city council, on the effects of wind on existing buildings, including existing buildings that are raised, and buildings that are under construction in the city of New York. Such report and accompanying recommendations shall be provided no later than two years from the effective date of the local law that added this section and shall include the following:
+a.   The office of long-term planning and sustainability in consultation with the department of buildings shall undertake a study and submit a report to the mayor and the speaker of the city council, on the effects of wind on existing buildings, including existing buildings that are raised, and buildings that are under construction in the city of New York. Such report and accompanying recommendations shall be provided no later than two years from the effective date of the local law that added this section and shall include the following:
 
       1.   An analysis to determine the types of existing buildings that are at risk of causing falling debris, based on the age, construction classification, construction methods and materials, height, and occupancy use of such buildings;
 
@@ -885,7 +885,7 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 § 3-125 Geothermal systems.  ::
 
 
-	a.   As used in this section:
+a.   As used in this section:
 
       Criteria air pollutant. The term "criteria air pollutant" means a pollutant for which the United States environmental protection agency has set national ambient air quality standards pursuant to 40 CFR part 50.
 
@@ -925,20 +925,20 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - Year
- - Dollar value per metric ton of carbon dioxide equivalent
- * - 2017
- - 128
- * - 2018
- - 132
- * - 2019
- - 136
- * - 2020
- - 140
- * - 2021
- - 142
+    * - Year
+      - Dollar value per metric ton of carbon dioxide equivalent
+    * - 2017
+      - 128
+    * - 2018
+      - 132
+    * - 2019
+      - 136
+    * - 2020
+      - 140
+    * - 2021
+      - 142
 ~
 
 
@@ -979,7 +979,7 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 § 3-126 New York city energy policy. ::
 
 
-	a.   Definitions. As used in this section:
+a.   Definitions. As used in this section:
 
       Advisory subcommittee. The term “advisory subcommittee” means the New York city energy policy advisory subcommittee appointed to advise the city’s sustainability advisory board, as established by subdivision g of section 20 of the New York city charter, regarding the long-term energy goals of the city of New York.
 
@@ -1031,7 +1031,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-130 Employment resources. [Repealed]  ::
 
 
-	
+
 
 
 
@@ -1039,7 +1039,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-131 Veteran liaisons. [Repealed]  ::
 
 
-	
+
 
 
 
@@ -1047,7 +1047,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-132 Veterans' advisory board electronic mail addresses. [Repealed]  ::
 
 
-	
+
 
 
 
@@ -1055,7 +1055,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-133 Additional notice of public meetings of the veterans' advisory board. [Repealed] ::
 
 
-	
+
 
 
 
@@ -1063,7 +1063,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-140 Office of Labor Standards. ::
 
 
-	a.   For purposes of this section, "director" means the director of the office of labor standards.
+a.   For purposes of this section, "director" means the director of the office of labor standards.
 
    b.   No later than February 15, 2017, and no later than every February fifteenth thereafter, the director shall post on the office's website the following information for the prior calendar year regarding enforcement of chapter 9 of title 20 of the code:
 
@@ -1083,7 +1083,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-150 General. ::
 
 
-	a.   As used in this subchapter:
+a.   As used in this subchapter:
 
       Public housing. The term "public housing" means housing owned or operated by the New York city housing authority.
 
@@ -1097,7 +1097,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-151 Report on outcomes of services provided to public housing residents. ::
 
 
-	a.   In 2017 and each calendar year thereafter, the mayor, or an agency designated by the mayor, shall make publicly available online and submit to the council a report relating to outcomes of programs administered by or on behalf of the city, or funded in whole or in part by the city, that provide services to public housing residents. In developing this report, the mayor or such designated agency shall seek cooperation and assistance from the New York city housing authority. Such report shall include, at a minimum, the following information, disaggregated by public housing development, borough and council district, to the extent that such outcomes are tracked by such programs:
+a.   In 2017 and each calendar year thereafter, the mayor, or an agency designated by the mayor, shall make publicly available online and submit to the council a report relating to outcomes of programs administered by or on behalf of the city, or funded in whole or in part by the city, that provide services to public housing residents. In developing this report, the mayor or such designated agency shall seek cooperation and assistance from the New York city housing authority. Such report shall include, at a minimum, the following information, disaggregated by public housing development, borough and council district, to the extent that such outcomes are tracked by such programs:
 
       1.   Outcomes of employment-related programs, including but not limited to:
 
@@ -1171,7 +1171,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-160 Equity assessments. ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms have the following meanings:
+a.   Definitions. For the purposes of this section, the following terms have the following meanings:
 
       Equity assessment. The term “equity assessment” means a systematic process of identifying policies and practices that may be implemented to address disparate outcomes on the basis of, at a minimum, gender, race, income, and sexual orientation, and any other relevant population characteristics that may be identified by the mayor.
 
@@ -1209,7 +1209,7 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 § 3-161 Gender and racial equity training. ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms have the following meanings:
+a.   Definitions. For the purposes of this section, the following terms have the following meanings:
 
       Gender. The term “gender” includes actual or perceived sex and shall also include a person’s gender identity, self-image, appearance, behavior, or expression, whether or not that gender identity, self-image, appearance, behavior or expression is different from that traditionally associated with the legal sex assigned to that person at birth.
 
@@ -1229,7 +1229,7 @@ Chapter 2: City Council and City Clerk
 § 3-201 Councilmanic flag.  ::
 
 
-	The official flag of the council shall be the same in design as the official flag of the city, except that upon the middle or white bar there shall be below the design of the seal, in a straight line, the word "Council"; the dimensions of such flag shall be the same as the standard size of flags used for state and parade occasions.
+The official flag of the council shall be the same in design as the official flag of the city, except that upon the middle or white bar there shall be below the design of the seal, in a straight line, the word "Council"; the dimensions of such flag shall be the same as the standard size of flags used for state and parade occasions.
 
 
 
@@ -1237,7 +1237,7 @@ Chapter 2: City Council and City Clerk
 § 3-202 Council districts.  ::
 
 
-	a.   The city is hereby divided into thirty-five council districts for the election of council members other than the public advocate, the boundaries of which are hereby established and described as follows:
+a.   The city is hereby divided into thirty-five council districts for the election of council members other than the public advocate, the boundaries of which are hereby established and described as follows:
 
       1.   First district. That part of the Borough of Staten Island bounded by a line described as follows: BEGINNING at a point in waters of Arthur Kill between border lines of New Jersey, and Richmond County, at Goethals Bridge, proceeding southeast, to Railroad cut, then proceeding east, to Gulf Avenue, to Staten Island Expressway, to Bengal Avenue, to Fahy Avenue, to Arlene Street, to Lander Avenue, to Richmond Avenue, to Victory Boulevard, to Willowbrook Road, to Watchogue Road, to Victory Boulevard, to Manor Road, to Ocean Terrace, to Todt Hill Road, to Richmond Road, proceeding northerly, to Cromwell Avenue, to Hylan Boulevard, to Old Town Road, to Staten Island Rapid Transit Line, proceeding north on Staten Island Rapid Transit Line, to West Fingerboard Road, to Steuben Street, to Hylan Boulevard, to Hickory Avenue, to McClean Avenue, to Lily Pond Avenue, extended to waters of the Atlantic Ocean; thence southerly and westerly through waters of the Atlantic Ocean, Raritan Bay, to the waters of Arthur Kill, along the intersection New Jersey-New York Line, proceeding northerly and including Island of Meadows, and Pralls Island, to the point or place of beginning.
 
@@ -1319,7 +1319,7 @@ Chapter 2: City Council and City Clerk
 § 3-203 Public advocate; member of all committees.  ::
 
 
-	The public advocate, ex-officio, shall be a member of all the committees thereof.
+The public advocate, ex-officio, shall be a member of all the committees thereof.
 
 
 
@@ -1327,7 +1327,7 @@ Chapter 2: City Council and City Clerk
 § 3-204 Salaries; additional compensation for officers of council.  ::
 
 
-	The mayor, pursuant to the provisions of section one hundred twenty-three of the charter, may fix any additional remuneration to be paid to the vice-chairman of the council, the leader of the dominant minority party, the chairperson of the finance committee, the chairperson of the general welfare committee, and during a vacancy in the office of mayor or the office of public advocate, the person designated to act as leader of the majority party, over and above the salaries paid to them as council members.
+The mayor, pursuant to the provisions of section one hundred twenty-three of the charter, may fix any additional remuneration to be paid to the vice-chairman of the council, the leader of the dominant minority party, the chairperson of the finance committee, the chairperson of the general welfare committee, and during a vacancy in the office of mayor or the office of public advocate, the person designated to act as leader of the majority party, over and above the salaries paid to them as council members.
 
 
 
@@ -1335,7 +1335,7 @@ Chapter 2: City Council and City Clerk
 § 3-204.1 Transfer and disposal of surplus old desks and chairs, councilmanic chambers.  ::
 
 
-	a.   The commissioner of citywide administrative services in the case of the disposal of surplus old desks and chairs no longer needed for use of the city council in the councilmanic chambers shall transfer such chairs and desks to the control and custody of the city clerk, clerk of the council.
+a.   The commissioner of citywide administrative services in the case of the disposal of surplus old desks and chairs no longer needed for use of the city council in the councilmanic chambers shall transfer such chairs and desks to the control and custody of the city clerk, clerk of the council.
 
    b.   The city clerk, clerk of the council, shall have the power, upon request, to transfer and deliver one such desk and/or chair in the following order of priority: (1) museum of the city of New York; (2) metropolitan museum of art; (3) New York historical society; (4) present member of the council; (5) former member of the council. Such museum, member of the council or former member of the council shall file its or his or her written request with the city clerk, clerk of the council, accompanied with the sum of ten dollars per desk or chair, which sums shall be deposited with the commissioner of finance, except that the aforesaid museums and historical society shall not be required to pay anything.
 
@@ -1347,7 +1347,7 @@ Chapter 2: City Council and City Clerk
 § 3-204.2 Transfer of councilmanic chairs at termination of office.  ::
 
 
-	(a)   The city clerk, clerk of the council shall have the power at the request of any member of the council who shall hereafter resign or whose term of office shall hereafter terminate, or a surviving spouse or domestic partner of such member, to sell and transfer to such member or to such surviving spouse or domestic partner the chair last occupied by such member in the councilmanic chamber for the fair market value as determined by the commissioner of citywide administrative services, depositing any monies received from such sale with the commissioner of finance; provided however, that a written request therefore accompanied by the payment herein provided be submitted to the city clerk, clerk of the council within sixty days after any such resignation or termination of term of office. The commissioner of citywide administrative services shall upon notice from the city clerk, clerk of the council make prompt replacement of such chair so transferred or sold.
+(a)   The city clerk, clerk of the council shall have the power at the request of any member of the council who shall hereafter resign or whose term of office shall hereafter terminate, or a surviving spouse or domestic partner of such member, to sell and transfer to such member or to such surviving spouse or domestic partner the chair last occupied by such member in the councilmanic chamber for the fair market value as determined by the commissioner of citywide administrative services, depositing any monies received from such sale with the commissioner of finance; provided however, that a written request therefore accompanied by the payment herein provided be submitted to the city clerk, clerk of the council within sixty days after any such resignation or termination of term of office. The commissioner of citywide administrative services shall upon notice from the city clerk, clerk of the council make prompt replacement of such chair so transferred or sold.
 
    (b)   The provisions of this section shall apply solely to members of the council who have been elected at a general election.
 
@@ -1359,7 +1359,7 @@ Chapter 2: City Council and City Clerk
 § 3-204.3 Workers' compensation for city council employees.  ::
 
 
-	a.   As used in this section, the term "city council employees" shall include all duly sworn members of the city council as well as all salaried employees who comprise the staff of the city council on a full-time or part-time basis.
+a.   As used in this section, the term "city council employees" shall include all duly sworn members of the city council as well as all salaried employees who comprise the staff of the city council on a full-time or part-time basis.
 
    b.   Pursuant to the authorization contained in group nineteen of subdivision one of section three of the state workers' compensation law, the coverage of the workers' compensation law is extended to cover all city council employees.
 
@@ -1369,7 +1369,7 @@ Chapter 2: City Council and City Clerk
 § 3-204.4 Representation; council members.  ::
 
 
-	Council Members shall be represented by the corporation counsel and indemnified by the city pursuant to Section 50-k of the General Municipal Law, subject to the conditions contained therein, for actions undertaken in the performance of their constituent responsibilities.
+Council Members shall be represented by the corporation counsel and indemnified by the city pursuant to Section 50-k of the General Municipal Law, subject to the conditions contained therein, for actions undertaken in the performance of their constituent responsibilities.
 
 
 
@@ -1377,7 +1377,7 @@ Chapter 2: City Council and City Clerk
 § 3-205 City clerk; employees; bonds.  ::
 
 
-	Each of the following officers or employees in the office of the city clerk shall execute a bond to the city, conditioned for the faithful performance of the duties of his or her office, with one or more sureties, to be approved by the comptroller, in the penal sum as follows: city clerk, twenty thousand dollars; city clerk's cashier, and assistant cashier, three thousand dollars each; deputy city clerk, borough of Brooklyn, five thousand dollars; deputy city clerks, boroughs of the Bronx, Queens, and Staten Island, one thousand dollars each.
+Each of the following officers or employees in the office of the city clerk shall execute a bond to the city, conditioned for the faithful performance of the duties of his or her office, with one or more sureties, to be approved by the comptroller, in the penal sum as follows: city clerk, twenty thousand dollars; city clerk's cashier, and assistant cashier, three thousand dollars each; deputy city clerk, borough of Brooklyn, five thousand dollars; deputy city clerks, boroughs of the Bronx, Queens, and Staten Island, one thousand dollars each.
 
 
 
@@ -1385,7 +1385,7 @@ Chapter 2: City Council and City Clerk
 § 3-206 City clerk; proceedings of council.  ::
 
 
-	Immediately after the adjournment of each meeting of the council, the city clerk shall prepare a brief extract, omitting technical and formal details, of all resolutions and local laws introduced or passed, all recommendations of committees, all final proceedings and full copies of all messages from the mayor and all reports of city agencies. The city clerk shall forthwith transmit the same for publication in the City Record to the director thereof.
+Immediately after the adjournment of each meeting of the council, the city clerk shall prepare a brief extract, omitting technical and formal details, of all resolutions and local laws introduced or passed, all recommendations of committees, all final proceedings and full copies of all messages from the mayor and all reports of city agencies. The city clerk shall forthwith transmit the same for publication in the City Record to the director thereof.
 
 
 
@@ -1393,7 +1393,7 @@ Chapter 2: City Council and City Clerk
 § 3-207 City clerk; fees.  ::
 
 
-	The city clerk shall collect the following fees:
+The city clerk shall collect the following fees:
 
    1.   For a copy of any book, account, record or paper other than a marriage record filed in the city clerk's office, one dollar for each photocopy;
 
@@ -1429,7 +1429,7 @@ Chapter 2: City Council and City Clerk
 § 3-207.1 Marriage notification.  ::
 
 
-	a.   The city clerk shall prominently post the following information on the section(s) of the city clerk's website, or any successor website maintained by or on behalf of the city clerk or a successor officer, relating to marriage, domestic partnerships or other similar subjects: (i) a list of all domestic and international jurisdictions that perform same sex marriages; and (ii) the following text: "Lawfully married individuals, including individuals in same sex marriages, are entitled to more New York State rights and benefits than those registered as domestic partners here in New York City. If an individual lawfully enters into a same sex marriage in a jurisdiction outside New York, they are entitled to most of the New York State rights and benefits available to people lawfully married in New York. If you are considering entering into a marriage in one of the jurisdictions listed above, it is recommended that you contact that jurisdiction beforehand in order to learn about any applicable marriage requirements or restrictions."
+a.   The city clerk shall prominently post the following information on the section(s) of the city clerk's website, or any successor website maintained by or on behalf of the city clerk or a successor officer, relating to marriage, domestic partnerships or other similar subjects: (i) a list of all domestic and international jurisdictions that perform same sex marriages; and (ii) the following text: "Lawfully married individuals, including individuals in same sex marriages, are entitled to more New York State rights and benefits than those registered as domestic partners here in New York City. If an individual lawfully enters into a same sex marriage in a jurisdiction outside New York, they are entitled to most of the New York State rights and benefits available to people lawfully married in New York. If you are considering entering into a marriage in one of the jurisdictions listed above, it is recommended that you contact that jurisdiction beforehand in order to learn about any applicable marriage requirements or restrictions."
 
    b.   All information required to be made available on the internet pursuant to this local law shall also be prominently displayed and distributed free of charge in hard copy at the marriage bureau in the city clerk's office.
 
@@ -1441,7 +1441,7 @@ Chapter 2: City Council and City Clerk
 § 3-208 Local laws; public hearings; publication of notice.  ::
 
 
-	The notice prescribed in subdivision five of section twenty of the municipal home rule law shall be published in the City Record and in such daily newspaper or newspapers, published in the city of New York, as shall be selected by the mayor for that purpose.
+The notice prescribed in subdivision five of section twenty of the municipal home rule law shall be published in the City Record and in such daily newspaper or newspapers, published in the city of New York, as shall be selected by the mayor for that purpose.
 
 
 
@@ -1449,7 +1449,7 @@ Chapter 2: City Council and City Clerk
 § 3-209 [Young adult voter registration.]  ::
 
 
-	a.   Short title. This section shall be known and may be cited as the "Young Adult Voter Registration Act."
+a.   Short title. This section shall be known and may be cited as the "Young Adult Voter Registration Act."
 
    b.   Registration of voters. Each public or private high school within the city shall make available during the school year to seniors such materials as may be published by the board of elections relating to voter registration and, where appropriate, shall provide applications for registration and enrollment, and may assist in the execution of such applications.
 
@@ -1465,7 +1465,7 @@ Chapter 2: City Council and City Clerk
 § 3-209.1 Distribution of library card application materials.  ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms shall be defined as follows:
+a.   Definitions. For the purposes of this section, the following terms shall be defined as follows:
 
       1.   "Department" shall mean the department of education.
 
@@ -1491,7 +1491,7 @@ Chapter 2: City Council and City Clerk
 § 3-209.2 Distribution of college-savings plan materials in schools.  ::
 
 
-	a.   Definitions. For the purposes of this section:
+a.   Definitions. For the purposes of this section:
 
       Department. The term"department" means the department of education.
 
@@ -1519,7 +1519,7 @@ Chapter 2: City Council and City Clerk
 § 3-210 Registration of voters. [Repealed]  ::
 
 
-	a.   Employees. The council shall require that any applicant or appointee for future employment by the council be fingerprinted as part of the application process. Such fingerprints and physical descriptive data are to be provided for the purpose of securing criminal history records from the state division of criminal justice services. The applicant shall pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require applicants or appointees under this subdivison to be fingerprinted if criminal history records concerning such applicants or appointees are not made available by the state division of criminal justice services.
+a.   Employees. The council shall require that any applicant or appointee for future employment by the council be fingerprinted as part of the application process. Such fingerprints and physical descriptive data are to be provided for the purpose of securing criminal history records from the state division of criminal justice services. The applicant shall pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require applicants or appointees under this subdivison to be fingerprinted if criminal history records concerning such applicants or appointees are not made available by the state division of criminal justice services.
 
    b.   Other Persons. The council may require that any candidate for direct appointment, designation, nomination, recommendation and advice and consent by the council as required by state legislation, the charter or administrative code be fingerprinted as part of the background investigation. Such fingerprints are to be provided for the purposes of securing criminal history records from the state division of criminal justice services. The applicant may pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require candidates under this subdivision to be fingerprinted if criminal history records concerning such candidates are not made available by the state division of criminal justice services.
 
@@ -1529,7 +1529,7 @@ Chapter 2: City Council and City Clerk
 § 3-211 Definitions.  ::
 
 
-	Whenever used in this subchapter, the following words and phrases shall be construed as defined in this section:
+Whenever used in this subchapter, the following words and phrases shall be construed as defined in this section:
 
    (a)   The term "lobbyist" shall mean every person or organization retained, employed or designated by any client to engage in lobbying. The term "lobbyist" shall not include any officer or employee of the city of New York, the State of New York, any political subdivision of the State, or any public corporation, agency or commission, or the United States when discharging his or her official duties.
 
@@ -1633,7 +1633,7 @@ Chapter 2: City Council and City Clerk
 § 3-212 Powers and duties of the city clerk.  ::
 
 
-	(a)   In addition to any other powers and duties specified by law, the city clerk shall have the power and duty to administer and enforce all the provisions of this subchapter, subpoena witnesses and records, issue advisory opinions to those under its jurisdiction, conduct any investigation and audits necessary to carry out the provisions of this subchapter, prepare uniform forms for the statements and reports required by this subchapter and promulgate such rules as he or she deems necessary for the proper administration of this subchapter.
+(a)   In addition to any other powers and duties specified by law, the city clerk shall have the power and duty to administer and enforce all the provisions of this subchapter, subpoena witnesses and records, issue advisory opinions to those under its jurisdiction, conduct any investigation and audits necessary to carry out the provisions of this subchapter, prepare uniform forms for the statements and reports required by this subchapter and promulgate such rules as he or she deems necessary for the proper administration of this subchapter.
 
    (b)   In addition to any audits required to enforce the provisions of this subchapter, the city clerk shall conduct random audits of the statements and reports required to be filed by lobbyists and clients pursuant to this subchapter. The city clerk shall select statements and reports for random audit in a manner pursuant to which the identity of any particular lobbyist or client whose statements or reports are selected for audit is unknown to the city clerk. In conducting such random audits, the city clerk shall require the production of such witnesses and records as may have been relevant to the preparation of the statements or reports audited.
 
@@ -1661,7 +1661,7 @@ Chapter 2: City Council and City Clerk
 § 3-213 Statement of registration.  ::
 
 
-	(a)   (1)   Every lobbyist shall annually file with the city clerk, on forms prescribed by the city clerk, a statement of registration for each calendar year, provided, however, that the filing of such statement of registration shall not be required of any lobbyist who in any year does not earn or incur an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, of combined reportable compensation and expenses, as provided in paragraph five of subdivision (b) of section 3-216 of this subchapter, for the purposes of lobbying.
+(a)   (1)   Every lobbyist shall annually file with the city clerk, on forms prescribed by the city clerk, a statement of registration for each calendar year, provided, however, that the filing of such statement of registration shall not be required of any lobbyist who in any year does not earn or incur an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, of combined reportable compensation and expenses, as provided in paragraph five of subdivision (b) of section 3-216 of this subchapter, for the purposes of lobbying.
 
       (2)   Such filing shall be completed on or before January fifteenth by those persons who have been retained, employed or designated as lobbyists on or before December thirty-first of the previous calendar year who reasonably anticipate that in the coming year they will earn or incur combined reportable compensation and expenses in an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars. For those lobbyists retained, employed or designated after December thirty-first, and for those lobbyists who, subsequent to their retainer, employment or designation, reasonably anticipate combined reportable compensation and expenses in excess of such amount, such filing must be completed within fifteen days thereafter.
 
@@ -1703,7 +1703,7 @@ Chapter 2: City Council and City Clerk
 § 3-214 Monthly registration docket. [Repealed]  ::
 
 
-	Upon the termination of a lobbyist's retainer, employment or designation, such lobbyist and the client on whose behalf such service has been rendered shall both give notice to the city clerk in the electronic filing system within thirty days after the lobbyist ceases the activity that required such lobbyist to file a statement of registration; however, such lobbyist shall nevertheless comply with the reporting requirements of section 3-216.1 of this subchapter and the reporting requirements for the last periodic reporting period up to the date such activity has ceased as required by this subchapter and both such parties shall each file the annual report required by section 3-217 of this subchapter.
+Upon the termination of a lobbyist's retainer, employment or designation, such lobbyist and the client on whose behalf such service has been rendered shall both give notice to the city clerk in the electronic filing system within thirty days after the lobbyist ceases the activity that required such lobbyist to file a statement of registration; however, such lobbyist shall nevertheless comply with the reporting requirements of section 3-216.1 of this subchapter and the reporting requirements for the last periodic reporting period up to the date such activity has ceased as required by this subchapter and both such parties shall each file the annual report required by section 3-217 of this subchapter.
 
 
 
@@ -1711,7 +1711,7 @@ Chapter 2: City Council and City Clerk
 § 3-216 Periodic reports.  ::
 
 
-	(a)   (1)   Any lobbyist, except a lobbyist described in paragraph two of this subdivision, required to file a statement of registration pursuant to section 3-213 of this subchapter who in any lobbying year earns or incurs combined reportable compensation and expenses in an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, as provided in paragraph five of subdivision (b) of this section, for the purpose of lobbying, shall file with the city clerk periodic reports, on forms prescribed by the city clerk, by the fifteenth day next succeeding the end of the reporting period on which the cumulative total for such lobbying year equaled such sum. Such reporting periods shall be the period from January first through the last day of February, March first through April thirtieth, May first through June thirtieth, July first through August thirty-first, September first through October thirty-first, and November first through December thirty-first.
+(a)   (1)   Any lobbyist, except a lobbyist described in paragraph two of this subdivision, required to file a statement of registration pursuant to section 3-213 of this subchapter who in any lobbying year earns or incurs combined reportable compensation and expenses in an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, as provided in paragraph five of subdivision (b) of this section, for the purpose of lobbying, shall file with the city clerk periodic reports, on forms prescribed by the city clerk, by the fifteenth day next succeeding the end of the reporting period on which the cumulative total for such lobbying year equaled such sum. Such reporting periods shall be the period from January first through the last day of February, March first through April thirtieth, May first through June thirtieth, July first through August thirty-first, September first through October thirty-first, and November first through December thirty-first.
 
       (2)   Any lobbyist that is an organization required to file a statement of registration pursuant to section 3-213 of this subchapter that lobbies solely on its own behalf by utilizing the services of its employees and that, in any lobbying year, earns or incurs combined reportable compensation and expenses in an amount in excess of five thousand dollars, but equal to or less than ten thousand dollars, as provided in paragraph five of subdivision (b) of this section, for the purpose of lobbying, shall file with the city clerk periodic reports, on forms prescribed by the city clerk, by the fifteenth day next succeeding the end of the reporting period on which the cumulative total for such lobbying year equaled such sum. Such reporting periods shall be the period from January first to June thirtieth, and July first to December thirty-first.
 
@@ -1759,7 +1759,7 @@ Chapter 2: City Council and City Clerk
 § 3-216.1 Fundraising and political consulting reports.  ::
 
 
-	(a)   Any lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter who in any calendar year to which the statement of registration relates, or in the six months preceding such calendar year, engages in fundraising or political consulting activities shall file with the city clerk, on forms prescribed by the city clerk, a fundraising and/or political consulting report. Such report shall be filed in accordance with the schedule applicable to the filing of periodic reports, provided that the first fundraising and/or political consulting report filed in any calendar year shall include information on fundraising and/or political consulting activities that occurred in any period beginning six months preceding the calendar year to which the statement of registration relates through the end of the reporting period for which the report is filed, to the extent such information has not been reported in a fundraising and/or political consulting report filed in the preceding calendar year. Each subsequent fundraising and/or political consulting report filed in or with respect to the calendar year to which the statement of registration relates shall include information on fundraising and/or political consulting activities that occurred since the end of the reporting period for which the previous report was filed through the end of the reporting period for which the current report is filed. Such activities shall be reported whether they are conducted directly by the lobbyist, or through any other entity of which such lobbyist is a principal. Such fundraising and/or political consulting reports shall be filed not later than the fifteenth day next succeeding the end of such reporting period.
+(a)   Any lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter who in any calendar year to which the statement of registration relates, or in the six months preceding such calendar year, engages in fundraising or political consulting activities shall file with the city clerk, on forms prescribed by the city clerk, a fundraising and/or political consulting report. Such report shall be filed in accordance with the schedule applicable to the filing of periodic reports, provided that the first fundraising and/or political consulting report filed in any calendar year shall include information on fundraising and/or political consulting activities that occurred in any period beginning six months preceding the calendar year to which the statement of registration relates through the end of the reporting period for which the report is filed, to the extent such information has not been reported in a fundraising and/or political consulting report filed in the preceding calendar year. Each subsequent fundraising and/or political consulting report filed in or with respect to the calendar year to which the statement of registration relates shall include information on fundraising and/or political consulting activities that occurred since the end of the reporting period for which the previous report was filed through the end of the reporting period for which the current report is filed. Such activities shall be reported whether they are conducted directly by the lobbyist, or through any other entity of which such lobbyist is a principal. Such fundraising and/or political consulting reports shall be filed not later than the fifteenth day next succeeding the end of such reporting period.
 
    (b)   Such fundraising and/or political consulting report shall contain:
 
@@ -1785,7 +1785,7 @@ Chapter 2: City Council and City Clerk
 § 3-217 Annual reports.  ::
 
 
-	(a)   Annual reports shall be filed by:
+(a)   Annual reports shall be filed by:
 
       (1)   every lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter;
 
@@ -1827,7 +1827,7 @@ Chapter 2: City Council and City Clerk
 § 3-218 Contingent retainer.  ::
 
 
-	No client shall retain or employ any lobbyist for compensation, the rate or amount of which compensation in whole or part is contingent or dependent upon legislative, executive or administrative action where efforts by a lobbyist to influence such action are subject to the jurisdiction of the city clerk, and no person shall accept such a retainer or employment.
+No client shall retain or employ any lobbyist for compensation, the rate or amount of which compensation in whole or part is contingent or dependent upon legislative, executive or administrative action where efforts by a lobbyist to influence such action are subject to the jurisdiction of the city clerk, and no person shall accept such a retainer or employment.
 
 
 
@@ -1835,7 +1835,7 @@ Chapter 2: City Council and City Clerk
 § 3-219 Obligations of lobbyists.  ::
 
 
-	Any person who is required to file a statement of registration under this subchapter has the following obligations:
+Any person who is required to file a statement of registration under this subchapter has the following obligations:
 
    a.   To abstain from doing any act, with the express purpose and intent of placing a member of the city council, the mayor or any officer or employee charged by law with making a decision on a matter pending or proposed, under personal obligation to him or her or to his or her employer.
 
@@ -1865,7 +1865,7 @@ Chapter 2: City Council and City Clerk
 § 3-220 Retention of records.  ::
 
 
-	Every person to whom this subchapter is applicable shall keep for at least five years a detailed and exact account of:
+Every person to whom this subchapter is applicable shall keep for at least five years a detailed and exact account of:
 
    (a)   all compensation of any amount or value whatsoever;
 
@@ -1881,7 +1881,7 @@ Chapter 2: City Council and City Clerk
 § 3-221 Filing of statements and reports.  ::
 
 
-	(a)   Any statement or report required by this subchapter shall be filed by electronic transmission in a standard format as required by the city clerk. Statements, reports and any other information required to be kept on file in the office of the city clerk for public inspection pursuant to this subchapter shall be kept in a computerized database and shall be posted on the internet as soon as practicable.
+(a)   Any statement or report required by this subchapter shall be filed by electronic transmission in a standard format as required by the city clerk. Statements, reports and any other information required to be kept on file in the office of the city clerk for public inspection pursuant to this subchapter shall be kept in a computerized database and shall be posted on the internet as soon as practicable.
 
    (b)   The computerized database maintained pursuant to subdivision (a) of this section shall be searchable by, at a minimum, lobbyist name, client name, person or agency before which lobbying activities took place, and the local law number with year, bill number, resolution number, rule number, or other information sufficient to identify the matter on which lobbying has occurred.
 
@@ -1891,7 +1891,7 @@ Chapter 2: City Council and City Clerk
 § 3-222 Certification.  ::
 
 
-	All statements and reports required under this subchapter shall contain the following declaration: "I certify that all statements made on this statement are true and correct to the best of my knowledge and belief and I understand that the willful making of any false statement of material fact herein will subject me to the provisions of law relevant to the making and filing of false instruments and will render such statement null and void."
+All statements and reports required under this subchapter shall contain the following declaration: "I certify that all statements made on this statement are true and correct to the best of my knowledge and belief and I understand that the willful making of any false statement of material fact herein will subject me to the provisions of law relevant to the making and filing of false instruments and will render such statement null and void."
 
 
 
@@ -1899,7 +1899,7 @@ Chapter 2: City Council and City Clerk
 § 3-223 Penalties.  ::
 
 
-	(a)   Except as provided for in subdivision (b) of this section, any person or organization who knowingly and willfully violates any provision of this subchapter shall be guilty of a class A misdemeanor. In addition to such criminal penalties, such person or organization shall be subject to a civil penalty, in an amount not to exceed thirty thousand dollars, to be assessed by the city clerk, or an order to cease all lobbying activities subject to the jurisdiction of the city clerk for a period of time as determined by such clerk not to exceed sixty days, or both such civil penalty and order.
+(a)   Except as provided for in subdivision (b) of this section, any person or organization who knowingly and willfully violates any provision of this subchapter shall be guilty of a class A misdemeanor. In addition to such criminal penalties, such person or organization shall be subject to a civil penalty, in an amount not to exceed thirty thousand dollars, to be assessed by the city clerk, or an order to cease all lobbying activities subject to the jurisdiction of the city clerk for a period of time as determined by such clerk not to exceed sixty days, or both such civil penalty and order.
 
    (b)   Any person or organization who violates a cease and desist order of the city clerk issued under subdivision a of this section or enters into a contingency agreement or accepts or pays any contingency fees as proscribed in section 3-218 of this subchapter, shall be guilty of a class A misdemeanor. In addition to such criminal penalties, said person or organization shall be subject to a civil penalty, in an amount not to exceed thirty thousand dollars, to be assessed by the city clerk.
 
@@ -1945,7 +1945,7 @@ Chapter 2: City Council and City Clerk
 § 3-224 Definitions.  ::
 
 
-	Whenever used in this subchapter, the term "public servant" shall mean a public servant as defined in subdivision nineteen of section two thousand six hundred one of the charter.
+Whenever used in this subchapter, the term "public servant" shall mean a public servant as defined in subdivision nineteen of section two thousand six hundred one of the charter.
 
 
 
@@ -1953,7 +1953,7 @@ Chapter 2: City Council and City Clerk
 § 3-225 Prohibition of gifts.  ::
 
 
-	No person required to be listed on a statement of registration pursuant to section 3-213(c)(1) of subchapter 2 of this chapter shall offer or give a gift to any public servant.
+No person required to be listed on a statement of registration pursuant to section 3-213(c)(1) of subchapter 2 of this chapter shall offer or give a gift to any public servant.
 
 
 
@@ -1961,7 +1961,7 @@ Chapter 2: City Council and City Clerk
 § 3-226 Enforcement.  ::
 
 
-	Complaints alleging violations of this subchapter shall be made, received, investigated and adjudicated in a manner consistent with investigations and adjudications of conflicts of interest pursuant to chapters sixty-eight and thirty-four of the charter.
+Complaints alleging violations of this subchapter shall be made, received, investigated and adjudicated in a manner consistent with investigations and adjudications of conflicts of interest pursuant to chapters sixty-eight and thirty-four of the charter.
 
 
 
@@ -1969,7 +1969,7 @@ Chapter 2: City Council and City Clerk
 § 3-227 Penalties.  ::
 
 
-	Any person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates any provision of this subchapter shall be subject to a civil penalty, which for the first offense shall be not less than two thousand five hundred dollars and not more than five thousand dollars, for the second offense not less than five thousand dollars and not more than fifteen thousand dollars, and for the third and subsequent offenses not less than fifteen thousand dollars and not more than thirty thousand dollars. In addition to such civil penalties, for the second and subsequent offenses a person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates the provisions of this subchapter shall also be guilty of a class A misdemeanor.
+Any person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates any provision of this subchapter shall be subject to a civil penalty, which for the first offense shall be not less than two thousand five hundred dollars and not more than five thousand dollars, for the second offense not less than five thousand dollars and not more than fifteen thousand dollars, and for the third and subsequent offenses not less than fifteen thousand dollars and not more than thirty thousand dollars. In addition to such civil penalties, for the second and subsequent offenses a person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates the provisions of this subchapter shall also be guilty of a class A misdemeanor.
 
 
 
@@ -1977,7 +1977,7 @@ Chapter 2: City Council and City Clerk
 § 3-240 [Definitions.]**  ::
 
 
-	As used in this section, the following terms shall have the following meanings:
+As used in this section, the following terms shall have the following meanings:
 
    a.   "Domestic partners" shall mean persons who have a registered domestic partnership, which shall include any partnership registered pursuant to this chapter, any partnership registered in accordance with executive order number 123, dated August 7, 1989, and any partnership registered in accordance with executive order number 48, dated January 7, 1993, and persons who are members of a marriage that is not recognized by the state of New York, domestic partnership, or civil union, lawfully entered into in another jurisdiction. Nothing in this code shall affect a partnership that has been registered pursuant to either such executive order and has not been terminated in accordance with such executive orders or this chapter.
 
@@ -1991,7 +1991,7 @@ Chapter 2: City Council and City Clerk
 § 3-241 Domestic partnership registration.  ::
 
 
-	a.   A domestic partnership may be registered by two people who meet all of the following conditions:
+a.   A domestic partnership may be registered by two people who meet all of the following conditions:
 
       1.   Either:
 
@@ -2019,7 +2019,7 @@ Chapter 2: City Council and City Clerk
 § 3-242 Termination of domestic partnership.  ::
 
 
-	a.   If either party or both parties to a registered domestic partnership determines that the partnership has terminated, one of the partners shall file a termination statement with the city clerk. The person filing the termination statement shall declare that the domestic partnership is terminated and, if the termination statement has not been signed by both domestic partners, that the other domestic partner has been notified of such termination by registered mail, return receipt requested.
+a.   If either party or both parties to a registered domestic partnership determines that the partnership has terminated, one of the partners shall file a termination statement with the city clerk. The person filing the termination statement shall declare that the domestic partnership is terminated and, if the termination statement has not been signed by both domestic partners, that the other domestic partner has been notified of such termination by registered mail, return receipt requested.
 
    b.   A domestic partnership shall terminate whenever one of the parties to the partnership marries.
 
@@ -2029,7 +2029,7 @@ Chapter 2: City Council and City Clerk
 § 3-243 Confidentiality of domestic partnership information.  ::
 
 
-	The city clerk shall establish procedures to ensure the confidentiality of information in the registry of domestic partnerships.
+The city clerk shall establish procedures to ensure the confidentiality of information in the registry of domestic partnerships.
 
    a.   In the ordinary course of business, such records shall be released only:
 
@@ -2053,7 +2053,7 @@ Chapter 2: City Council and City Clerk
 § 3-244 Certificate of domestic partnership registration.  ::
 
 
-	a.   Issuance of certificate of domestic partnership registration. The city clerk shall issue a certificate of domestic partnership registration to persons who have registered pursuant to this subchapter. Such a certificate shall constitute notice of a registered domestic partnership when persons apply for rights or benefits available to domestic partners, including but not limited to:
+a.   Issuance of certificate of domestic partnership registration. The city clerk shall issue a certificate of domestic partnership registration to persons who have registered pursuant to this subchapter. Such a certificate shall constitute notice of a registered domestic partnership when persons apply for rights or benefits available to domestic partners, including but not limited to:
 
       1.   Bereavement leave and child care leave of absence for city employees;
 
@@ -2081,7 +2081,7 @@ Chapter 2: City Council and City Clerk
 § 3-245 Recognition of marriages not recognized by the state of New York, domestic partnerships, and civil unions of other jurisdictions.  ::
 
 
-	a.   Members of a marriage that is not recognized by the state of New York, a domestic partnership, or a civil union, lawfully entered into in another jurisdiction, shall be entitled to all the rights and benefits available to domestic partners registered pursuant to this subchapter. A certificate of such domestic partnership, civil union or marriage issued by another jurisdiction shall constitute sufficient proof of entitlement to such rights and benefits.
+a.   Members of a marriage that is not recognized by the state of New York, a domestic partnership, or a civil union, lawfully entered into in another jurisdiction, shall be entitled to all the rights and benefits available to domestic partners registered pursuant to this subchapter. A certificate of such domestic partnership, civil union or marriage issued by another jurisdiction shall constitute sufficient proof of entitlement to such rights and benefits.
 
    b.   "Members of a marriage that is not recognized by the state of New York" for purposes of this section and of section 3-240(a) of this title does not include a marriage prohibited by section 5 or section 6 of the New York State Domestic Relations Law.
 
@@ -2093,7 +2093,7 @@ Chapter 3: Comptroller
 § 3-301 Bond of comptroller.  ::
 
 
-	Before entering upon the duties of his or her office the comptroller shall give a bond to the city, conditioned upon the faithful performance of the duties of the comptroller's office, in the penal sum of two hundred thousand dollars, with a surety company or two or more sufficient sureties to justify in double the amount under oath before a judge of the supreme court, on notice to the corporation counsel, whereupon the same shall be immediately filed with the city clerk by the comptroller.
+Before entering upon the duties of his or her office the comptroller shall give a bond to the city, conditioned upon the faithful performance of the duties of the comptroller's office, in the penal sum of two hundred thousand dollars, with a surety company or two or more sufficient sureties to justify in double the amount under oath before a judge of the supreme court, on notice to the corporation counsel, whereupon the same shall be immediately filed with the city clerk by the comptroller.
 
 
 
@@ -2101,7 +2101,7 @@ Chapter 3: Comptroller
 § 3-302 Bonds of deputy comptrollers.  ::
 
 
-	Each deputy comptroller shall execute a bond to the city, conditioned for the faithful performance of the duties of his or her office, with one or more sureties, to be approved by the comptroller, in the penal sum of ten thousand dollars.
+Each deputy comptroller shall execute a bond to the city, conditioned for the faithful performance of the duties of his or her office, with one or more sureties, to be approved by the comptroller, in the penal sum of ten thousand dollars.
 
 
 
@@ -2109,7 +2109,7 @@ Chapter 3: Comptroller
 § 3-303 Bureaus in office of comptroller.  ::
 
 
-	There shall be four bureaus in the office of the comptroller:
+There shall be four bureaus in the office of the comptroller:
 
    1.   A bureau of accountancy, the chief officer of which shall be called chief accountant. The bureau shall include a central accounting division, and shall determine the form of the accounts in the department of finance and other agencies, and shall also direct the accounting procedure therein in accordance with the requirements of the charter.
 
@@ -2125,7 +2125,7 @@ Chapter 3: Comptroller
 § 3-304 Other duties of bureaus.  ::
 
 
-	All of such bureaus shall perform such other duties as the comptroller shall from time to time direct.
+All of such bureaus shall perform such other duties as the comptroller shall from time to time direct.
 
 
 
@@ -2133,7 +2133,7 @@ Chapter 3: Comptroller
 § 3-305 Comptroller; custodian of evidences of debt, contracts.  ::
 
 
-	The comptroller shall keep and file in the comptroller's office all evidence of debts, contracts, bonds of indemnity and official bonds except as otherwise provided by law.
+The comptroller shall keep and file in the comptroller's office all evidence of debts, contracts, bonds of indemnity and official bonds except as otherwise provided by law.
 
 
 
@@ -2141,7 +2141,7 @@ Chapter 3: Comptroller
 § 3-306 Report as to outstanding contracts.  ::
 
 
-	The comptroller may report to the mayor, the board of estimate and the council, from time to time, a statement of all contracts made by the city, or directed or authorized by the city and not performed or completed or upon which any moneys remain unpaid; with the amount of money remaining unpaid on each such contract.
+The comptroller may report to the mayor, the board of estimate and the council, from time to time, a statement of all contracts made by the city, or directed or authorized by the city and not performed or completed or upon which any moneys remain unpaid; with the amount of money remaining unpaid on each such contract.
 
 
 
@@ -2149,7 +2149,7 @@ Chapter 3: Comptroller
 § 3-306.1 Property of city outside the city limits; payment of taxes.  ::
 
 
-	a.   The assessing officers of any town, village, city or school district, other than the city of New York, in which is situated real property owned by the city and liable to taxation, shall give written notice to the comptroller of the city of New York, at least two weeks prior to the date fixed for hearing objections to assessments made by them, of the valuation of such property assessed against the city, in the assessment-list then to be reviewed, and of the amount of any increase of valuation proposed to be assessed against the city for or on account of said property above the last assessed valuation thereof, and the time and place at which complaints in relation thereto will be heard.
+a.   The assessing officers of any town, village, city or school district, other than the city of New York, in which is situated real property owned by the city and liable to taxation, shall give written notice to the comptroller of the city of New York, at least two weeks prior to the date fixed for hearing objections to assessments made by them, of the valuation of such property assessed against the city, in the assessment-list then to be reviewed, and of the amount of any increase of valuation proposed to be assessed against the city for or on account of said property above the last assessed valuation thereof, and the time and place at which complaints in relation thereto will be heard.
 
    b.   It shall be the duty of the several school tax collectors in each school district, and the officers authorized to collect taxes, including road and highway taxes in each town in this state in which lands are owned by the city of New York, within five days after the receipt by such collector of any and every tax or assessment-roll of his or her town or district, to prepare and deliver to the county treasurer of the county in which such town or district, or the greater part thereof, is situated, a statement showing the assessment against such city appearing on such roll, and the taxes against such city.
 
@@ -2167,7 +2167,7 @@ Chapter 3: Comptroller
 § 3-307 Forms for paying money.  ::
 
 
-	The comptroller shall prescribe the manner in which all salaries shall be drawn, and the mode by which all creditors, officers and employees of the city shall be paid.
+The comptroller shall prescribe the manner in which all salaries shall be drawn, and the mode by which all creditors, officers and employees of the city shall be paid.
 
 
 
@@ -2175,7 +2175,7 @@ Chapter 3: Comptroller
 § 3-308 Payment of salaries.  ::
 
 
-	a.   Wages and salaries may be paid upon payrolls, upon which each person named thereon shall separately receipt for the amount paid to such person, and the comptroller is hereby authorized and empowered, in his or her discretion, to direct and require that wages and salaries shall not be paid except upon such receipt being individually signed by such person.
+a.   Wages and salaries may be paid upon payrolls, upon which each person named thereon shall separately receipt for the amount paid to such person, and the comptroller is hereby authorized and empowered, in his or her discretion, to direct and require that wages and salaries shall not be paid except upon such receipt being individually signed by such person.
 
    b.   The comptroller is hereby authorized in his or her discretion, to direct and require, as an alternative to the procedure provided in subdivision a hereof, that wages and salaries within any department or agency of the city or any part or unit thereof may be paid upon payrolls by checks corresponding to such payrolls without any receipt upon such payroll by the person receiving such check.
 
@@ -2185,7 +2185,7 @@ Chapter 3: Comptroller
 § 3-309 Audit and payment of county charges and expenses.  ::
 
 
-	All county charges and expenses and salaries of county officers in the counties of the city and each of them shall be audited by the comptroller and paid out of the fund or appropriation applicable thereto, and the audit of the comptroller in respect to such charges and expenses shall extend to the reasonableness thereof and shall, in all respects, be as full and complete as the audit of city charges and expenses.
+All county charges and expenses and salaries of county officers in the counties of the city and each of them shall be audited by the comptroller and paid out of the fund or appropriation applicable thereto, and the audit of the comptroller in respect to such charges and expenses shall extend to the reasonableness thereof and shall, in all respects, be as full and complete as the audit of city charges and expenses.
 
 
 
@@ -2193,7 +2193,7 @@ Chapter 3: Comptroller
 § 3-310 Comptroller; monthly reports from agencies.  ::
 
 
-	The head of each agency shall furnish monthly to the comptroller a statement of the unencumbered and unexpended balances, contract or other liabilities, of appropriations and other authorizations for his or her agency, in such form as prescribed by the comptroller.
+The head of each agency shall furnish monthly to the comptroller a statement of the unencumbered and unexpended balances, contract or other liabilities, of appropriations and other authorizations for his or her agency, in such form as prescribed by the comptroller.
 
 
 
@@ -2201,7 +2201,7 @@ Chapter 3: Comptroller
 § 3-311 Accounts of city collector and his or her deputies to be examined.  ::
 
 
-	Whenever the city collector or any deputy collector shall cease to hold office, and within one year thereafter, it shall be the duty of the comptroller to examine the accounts of such city collector or deputy, and if found correct, to cause a certificate to that effect to be filed with the bond of such officer. Such certificate so filed shall be a full discharge and satisfaction of the conditions of such bond and the lien or liens thereby created. If at any time during the city collector's continuance in office the city collector or a deputy collector shall execute and file with the comptroller a new bond in the same form and penalty, and for the same period, and approved as provided in section 11-115 of the code, it shall be the duty of the comptroller forthwith to cause a certificate to that effect to be filed with the bond or bonds previously filed by such officer. Such certificate so filed shall be the full discharge and satisfaction of the condition of such prior bond or bonds and of the lien or liens thereby created. The comptroller may settle and adjust all claims in favor of or against the city, the surety or the principal in such bond, arising out of the execution of such bonds and in his or her discretion may release from the lien created by such bonds any piece or parcel of land affected thereby.
+Whenever the city collector or any deputy collector shall cease to hold office, and within one year thereafter, it shall be the duty of the comptroller to examine the accounts of such city collector or deputy, and if found correct, to cause a certificate to that effect to be filed with the bond of such officer. Such certificate so filed shall be a full discharge and satisfaction of the conditions of such bond and the lien or liens thereby created. If at any time during the city collector's continuance in office the city collector or a deputy collector shall execute and file with the comptroller a new bond in the same form and penalty, and for the same period, and approved as provided in section 11-115 of the code, it shall be the duty of the comptroller forthwith to cause a certificate to that effect to be filed with the bond or bonds previously filed by such officer. Such certificate so filed shall be the full discharge and satisfaction of the condition of such prior bond or bonds and of the lien or liens thereby created. The comptroller may settle and adjust all claims in favor of or against the city, the surety or the principal in such bond, arising out of the execution of such bonds and in his or her discretion may release from the lien created by such bonds any piece or parcel of land affected thereby.
 
 
 
@@ -2209,7 +2209,7 @@ Chapter 3: Comptroller
 § 3-312 Statistical records to be compiled by city officials.  ::
 
 
-	Every official or employee of the city, or of the counties included within the city, and every board or commission charged by law or by due authority with the custody of property of the city or the counties thereof, or with the direction of work done, or services performed, by or on behalf of the city or the counties therein, or the disbursement or receipt of moneys from the city or counties therein, and every person, official, board, commission or corporation receiving or disbursing moneys from the city or counties therein for public purposes, at such times, under such conditions, and in the manner directed to do so by the comptroller, shall furnish reports of facts relating to any or all of the property of the city, or the counties therein, or of such work or such services, or of the receipt or disbursement of moneys from the city or counties therein. Such officials and employees shall compile and maintain in their respective offices such system of statistical record as the comptroller may require appertaining to all matters referred to in this section.
+Every official or employee of the city, or of the counties included within the city, and every board or commission charged by law or by due authority with the custody of property of the city or the counties thereof, or with the direction of work done, or services performed, by or on behalf of the city or the counties therein, or the disbursement or receipt of moneys from the city or counties therein, and every person, official, board, commission or corporation receiving or disbursing moneys from the city or counties therein for public purposes, at such times, under such conditions, and in the manner directed to do so by the comptroller, shall furnish reports of facts relating to any or all of the property of the city, or the counties therein, or of such work or such services, or of the receipt or disbursement of moneys from the city or counties therein. Such officials and employees shall compile and maintain in their respective offices such system of statistical record as the comptroller may require appertaining to all matters referred to in this section.
 
 
 
@@ -2217,7 +2217,7 @@ Chapter 3: Comptroller
 § 3-313 Monthly report of unexpended balances of appropriations.  ::
 
 
-	The comptroller shall furnish to each head of an agency, monthly, a statement of the unexpended balances of the appropriation for his or her agency.
+The comptroller shall furnish to each head of an agency, monthly, a statement of the unexpended balances of the appropriation for his or her agency.
 
 
 
@@ -2225,7 +2225,7 @@ Chapter 3: Comptroller
 § 3-314 Records; copies when in evidence.  ::
 
 
-	A copy of any paper, record, book, document or map, filed in the office of the comptroller, or the minutes, records or proceedings, or any portion thereof, of any board or commission of which the comptroller is or may become a member, when certified by the comptroller, a deputy comptroller or any assistant deputy comptroller, to be a correct copy of the original, shall be admissible in evidence in any trial, investigation, hearing or proceeding in any court, or before any commissioner, board or tribunal, with the same force and effect as the original. Whenever a subpoena is served upon the comptroller or any member of a board or commission of which the comptroller is a member, or upon any officer or employee of the office of the comptroller, or upon any officer or employee of such board or commission, requiring the production upon any trial or hearing of an original paper, document, book, map, record, minutes or proceedings, the comptroller in his or her discretion, may furnish a copy certified as herein provided, unless such subpoena be accompanied by an order of the court or other tribunal before which the trial or hearing is had requiring the production of such original.
+A copy of any paper, record, book, document or map, filed in the office of the comptroller, or the minutes, records or proceedings, or any portion thereof, of any board or commission of which the comptroller is or may become a member, when certified by the comptroller, a deputy comptroller or any assistant deputy comptroller, to be a correct copy of the original, shall be admissible in evidence in any trial, investigation, hearing or proceeding in any court, or before any commissioner, board or tribunal, with the same force and effect as the original. Whenever a subpoena is served upon the comptroller or any member of a board or commission of which the comptroller is a member, or upon any officer or employee of the office of the comptroller, or upon any officer or employee of such board or commission, requiring the production upon any trial or hearing of an original paper, document, book, map, record, minutes or proceedings, the comptroller in his or her discretion, may furnish a copy certified as herein provided, unless such subpoena be accompanied by an order of the court or other tribunal before which the trial or hearing is had requiring the production of such original.
 
 
 
@@ -2233,7 +2233,7 @@ Chapter 3: Comptroller
 § 3-316 Three following sections; how construed.  ::
 
 
-	The three following sections shall not be construed to affect the powers of any commission acting under any laws of this state.
+The three following sections shall not be construed to affect the powers of any commission acting under any laws of this state.
 
 
 
@@ -2241,7 +2241,7 @@ Chapter 3: Comptroller
 § 3-317 Awards for grading of streets; definition of terms.  ::
 
 
-	When used in this section and the two following sections, unless otherwise expressly stated:
+When used in this section and the two following sections, unless otherwise expressly stated:
 
    1.   The term "owner" shall mean only such parties or persons whose property abuts the street, the grade of which has been established or changed.
 
@@ -2261,7 +2261,7 @@ Chapter 3: Comptroller
 § 3-318 Award of damages to land and improvements by reason of grading of streets; measure of damages; presentation of claims.  ::
 
 
-	a.   There shall be no liability for originally establishing a grade or for changing an established grade, except as provided in this section:
+a.   There shall be no liability for originally establishing a grade or for changing an established grade, except as provided in this section:
 
       1.   When an owner has built upon or otherwise improved his or her property prior to the original establishment of a grade by lawful authority, such owner and the lessee thereof shall be entitled to damages only to such buildings and improvements for the grading of the street in accordance with such established grade.
 
@@ -2277,7 +2277,7 @@ Chapter 3: Comptroller
 § 3-319 Power of the comptroller to issue subpoenas and administer oaths, to compel witnesses to testify.  ::
 
 
-	For the purpose of settling or adjusting claims for damages under section 3-318, the comptroller may issue subpoenas and administer oaths to witnesses. The comptroller may issue a subpoena requiring such witness to appear at such time and place as the comptroller may designate in the subpoena.
+For the purpose of settling or adjusting claims for damages under section 3-318, the comptroller may issue subpoenas and administer oaths to witnesses. The comptroller may issue a subpoena requiring such witness to appear at such time and place as the comptroller may designate in the subpoena.
 
 
 
@@ -2285,7 +2285,7 @@ Chapter 3: Comptroller
 § 3-320 Action to recover damages.  ::
 
 
-	a.   No action shall be commenced to recover damages under section 3-318 until at least thirty days have elapsed since the demands, claim or claims, upon which such action is founded, were presented to the comptroller for adjustment and the comptroller has neglected or refused to make an adjustment or payment thereof. An allegation to that effect shall be made in a complaint or other pleadings in such an action. An action under section 3-318 shall be commenced within one year and ninety days after the grading shall have been completed.
+a.   No action shall be commenced to recover damages under section 3-318 until at least thirty days have elapsed since the demands, claim or claims, upon which such action is founded, were presented to the comptroller for adjustment and the comptroller has neglected or refused to make an adjustment or payment thereof. An allegation to that effect shall be made in a complaint or other pleadings in such an action. An action under section 3-318 shall be commenced within one year and ninety days after the grading shall have been completed.
 
    b.   Whenever any such award or compensation shall be paid to any person not entitled thereto, it shall be lawful for the person to whom such award or compensation should have been paid to sue for and recover such award or compensation with interest and costs as so much money had and received to his or her use by the person or persons to whom the same shall have been so paid. In the following cases it shall be lawful for the city to pay an award to the commissioner of finance, to be secured, disposed of and invested as the supreme court shall direct when
 
@@ -2309,7 +2309,7 @@ Chapter 4: Board of Estimate
 § 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.  ::
 
 
-	The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
+The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
 
 In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
 
@@ -2323,7 +2323,7 @@ Notwithstanding any other provision of law to the contrary, and solely for the p
 § 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.  ::
 
 
-	The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
 
 
 
@@ -2331,7 +2331,7 @@ Notwithstanding any other provision of law to the contrary, and solely for the p
 § 3-403 Awards to survivors of certain civilian members of the police department.  ::
 
 
-	a.   Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+a.   Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
 
    b.   Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
 
@@ -2341,7 +2341,7 @@ Notwithstanding any other provision of law to the contrary, and solely for the p
 § 3-404 Awards to spouses and domestic partners of officers or employees of the city.  ::
 
 
-	The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
+The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
 
 
 
@@ -2349,7 +2349,7 @@ Notwithstanding any other provision of law to the contrary, and solely for the p
 § 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.  ::
 
 
-	Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
+Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
 
 
 
@@ -2357,7 +2357,7 @@ Notwithstanding any other provision of law to the contrary, and solely for the p
 § 3-406 Leases for public purposes.  ::
 
 
-	All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
+All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
 
 
 
@@ -2365,7 +2365,7 @@ Notwithstanding any other provision of law to the contrary, and solely for the p
 § 3-407 Transfer of streets.  ::
 
 
-	The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
+The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
 
 
 
@@ -2375,7 +2375,7 @@ Chapter 5: Borough Presidents
 § 3-501 Receipts to be recorded and accounted for.  ::
 
 
-	Each borough president shall enter the names of all persons from whom he or she may receive money for the city, on trust account or otherwise, with the amounts received, on what account, and when paid, in books to be provided for that purpose and kept in the borough president's office, open at all convenient times to public inspection. The borough president shall render a verified account thereof, item by item, to the comptroller, on Thursday of each week, and shall thereupon pay over the amount so received to the director of finance, from whom he or she shall receive duplicate vouchers therefor, one of which the borough president shall file in the office of the comptroller on the same day.
+Each borough president shall enter the names of all persons from whom he or she may receive money for the city, on trust account or otherwise, with the amounts received, on what account, and when paid, in books to be provided for that purpose and kept in the borough president's office, open at all convenient times to public inspection. The borough president shall render a verified account thereof, item by item, to the comptroller, on Thursday of each week, and shall thereupon pay over the amount so received to the director of finance, from whom he or she shall receive duplicate vouchers therefor, one of which the borough president shall file in the office of the comptroller on the same day.
 
 
 
@@ -2383,7 +2383,7 @@ Chapter 5: Borough Presidents
 § 3-502 Permits.  ::
 
 
-	In all cases where provision is made by law that the consent of a borough president shall be obtained to authorize any act to be done, he or she may grant a permit therefor, subject to the restrictions of all laws in relation thereto. Upon granting any such permit, the borough president may exact such cash deposit or bond, or both, as he or she may deem necessary to safeguard the interests of the city.
+In all cases where provision is made by law that the consent of a borough president shall be obtained to authorize any act to be done, he or she may grant a permit therefor, subject to the restrictions of all laws in relation thereto. Upon granting any such permit, the borough president may exact such cash deposit or bond, or both, as he or she may deem necessary to safeguard the interests of the city.
 
 
 
@@ -2391,7 +2391,7 @@ Chapter 5: Borough Presidents
 § 3-503 President of borough to furnish information.  ::
 
 
-	The president of any borough shall furnish the council and the board of estimate with such surveys, diagrams or other information as may enable them to discharge their duties relative to street and park improvements.
+The president of any borough shall furnish the council and the board of estimate with such surveys, diagrams or other information as may enable them to discharge their duties relative to street and park improvements.
 
 
 
@@ -2399,7 +2399,7 @@ Chapter 5: Borough Presidents
 § 3-504 Borough president; right of entry.  ::
 
 
-	The president of any borough may enter in the day time upon any lands, tenements, hereditaments and waters which he or she shall deem necessary to be surveyed, used or converted, for the purpose of laying out, surveying and monumenting parks, streets, bridges, tunnels and approaches to bridges and tunnels or marking any boundary line or lines.
+The president of any borough may enter in the day time upon any lands, tenements, hereditaments and waters which he or she shall deem necessary to be surveyed, used or converted, for the purpose of laying out, surveying and monumenting parks, streets, bridges, tunnels and approaches to bridges and tunnels or marking any boundary line or lines.
 
 
 
@@ -2407,7 +2407,7 @@ Chapter 5: Borough Presidents
 § 3-505 Street numbers.  ::
 
 
-	a.   Requirements.
+a.   Requirements.
 
       1.   The owner, agent, lessee or other person in charge of any building in the city upon a street to which street numbers of buildings have been assigned by the president of the borough in which such building is situated, shall cause the proper street number or numbers of such buildings to be displayed in such manner that the street number or numbers may at all times be plainly legible from the sidewalk in front of such building. The term "front" as used in this section shall be construed to mean that side of the building which faces the street on which the number or numbers of such building, or premises on which such building is situated, have been assigned. The number or numbers shall be displayed on such side of such building or premises. Each borough president shall have the power to establish and enforce rules and regulations relating to the size, form, visibility and location of street numbers in accordance with the requirements of this section.
 
@@ -2427,7 +2427,7 @@ Chapter 5: Borough Presidents
 § 3-506 Borough presidents to adjust numbering.  ::
 
 
-	In all cases where a street shall have been numbered or renumbered, the borough president having jurisdiction shall thereafter adjust and renumber such street as the same may be required from time to time. In numbering and renumbering houses, the borough president shall leave sufficient numbers on each block, so that, under any circumstances, there would be but one block where a change would be required, in case of renumbering at any subsequent time.
+In all cases where a street shall have been numbered or renumbered, the borough president having jurisdiction shall thereafter adjust and renumber such street as the same may be required from time to time. In numbering and renumbering houses, the borough president shall leave sufficient numbers on each block, so that, under any circumstances, there would be but one block where a change would be required, in case of renumbering at any subsequent time.
 
 
 
@@ -2435,7 +2435,7 @@ Chapter 5: Borough Presidents
 § 3-507 Numbers in certain sections in the borough of Manhattan.  ::
 
 
-	Whenever any street north of Ninth street, inclusive, in the borough of Manhattan, shall be directed to be numbered or renumbered, the president of such borough shall cause the numbers to commence at Fifth avenue, numbering east and west, beginning with number one, on the west side of Fifth avenue; number one hundred, on the west side of Sixth avenue; number two hundred on the west side of Seventh avenue, and so on, east and west of Fifth avenue, through the whole series of streets north of Ninth street, and including Ninth street. Such streets shall hereafter be called and known as East Ninth and West Ninth street, and so on, the dividing line to be Fifth avenue.
+Whenever any street north of Ninth street, inclusive, in the borough of Manhattan, shall be directed to be numbered or renumbered, the president of such borough shall cause the numbers to commence at Fifth avenue, numbering east and west, beginning with number one, on the west side of Fifth avenue; number one hundred, on the west side of Sixth avenue; number two hundred on the west side of Seventh avenue, and so on, east and west of Fifth avenue, through the whole series of streets north of Ninth street, and including Ninth street. Such streets shall hereafter be called and known as East Ninth and West Ninth street, and so on, the dividing line to be Fifth avenue.
 
 
 
@@ -2443,7 +2443,7 @@ Chapter 5: Borough Presidents
 § 3-508 Excavations or embankments near landmarks.  ::
 
 
-	It shall be unlawful for any person to make any excavation or embankment, or to lay or move any pavement or flagging, within three feet of any monument or bolt, which has been set by proper authority, or designated on any official map as a landmark to denote street lines within the city, unless a permit therefor has been obtained from the president of the borough in which such monument or bolt is situated. Applications for such permits shall be in writing, and shall set forth the nature of the work proposed, and the location of all monuments or other landmarks affected thereby. The borough president shall thereupon cause one of the city surveyors or an engineer in the borough president's office to take such measurements and field notes as may be necessary to restore such monuments or bolts to their correct position after the completion of the contemplated work, and, when such measurements and field notes have been taken, the required permit shall be issued.
+It shall be unlawful for any person to make any excavation or embankment, or to lay or move any pavement or flagging, within three feet of any monument or bolt, which has been set by proper authority, or designated on any official map as a landmark to denote street lines within the city, unless a permit therefor has been obtained from the president of the borough in which such monument or bolt is situated. Applications for such permits shall be in writing, and shall set forth the nature of the work proposed, and the location of all monuments or other landmarks affected thereby. The borough president shall thereupon cause one of the city surveyors or an engineer in the borough president's office to take such measurements and field notes as may be necessary to restore such monuments or bolts to their correct position after the completion of the contemplated work, and, when such measurements and field notes have been taken, the required permit shall be issued.
 
 
 
@@ -2451,7 +2451,7 @@ Chapter 5: Borough Presidents
 § 3-509 Removal or covering up of landmarks.  ::
 
 
-	It shall be unlawful for any person to remove or cover up a monument or bolt for designating any street, without giving three days' notice in writing of his or her intention so to do to the commissioner of transportation and to the president of the borough in which the monument or bolt is situated. Upon receiving such a notice, the borough president shall cause one of the city surveyors, or an engineer in the borough president's office to take the necessary measures to raise or lower such monument or bolt to the proper grade of the street, and, when necessary, to cause such alteration to be noted on records to be kept in the borough president's office for that purpose. Whenever a borough president shall ascertain that any monument or bolt has been removed, without such notice, he or she shall forthwith cause the same to be placed in its proper position, and shall note the same on the records in the manner hereinbefore stated. The expenses attending such replacement shall be paid by the comptroller, on the certificate of the borough president causing the work to be done.
+It shall be unlawful for any person to remove or cover up a monument or bolt for designating any street, without giving three days' notice in writing of his or her intention so to do to the commissioner of transportation and to the president of the borough in which the monument or bolt is situated. Upon receiving such a notice, the borough president shall cause one of the city surveyors, or an engineer in the borough president's office to take the necessary measures to raise or lower such monument or bolt to the proper grade of the street, and, when necessary, to cause such alteration to be noted on records to be kept in the borough president's office for that purpose. Whenever a borough president shall ascertain that any monument or bolt has been removed, without such notice, he or she shall forthwith cause the same to be placed in its proper position, and shall note the same on the records in the manner hereinbefore stated. The expenses attending such replacement shall be paid by the comptroller, on the certificate of the borough president causing the work to be done.
 
 
 
@@ -2459,7 +2459,7 @@ Chapter 5: Borough Presidents
 § 3-510 Violations.  ::
 
 
-	Any person who shall make any excavation or embankment, or lay or take up any pavement or flagging within three feet of any monument, bolt or other landmark, without having first obtained a permit to perform such work, or who shall in any way remove or deface any monument, bolt or other landmark, shall be punished for each offense by a fine of fifty dollars, imprisonment for not more than thirty days, or both.
+Any person who shall make any excavation or embankment, or lay or take up any pavement or flagging within three feet of any monument, bolt or other landmark, without having first obtained a permit to perform such work, or who shall in any way remove or deface any monument, bolt or other landmark, shall be punished for each offense by a fine of fifty dollars, imprisonment for not more than thirty days, or both.
 
 
 
@@ -2469,7 +2469,7 @@ Chapter 6: Advisory Commission For the Review of Compensation Levels Of Elected 
 § 3-601 Quadrennial advisory commission for the review of compensation levels of elected officials.  ::
 
 
-	a.   Between the first and fifteenth day of January, 2020, and during the same period every fourth year thereafter, the mayor shall appoint three persons for the review of compensation levels of elected officials. The members of the commission shall be private citizens generally recognized for their knowledge and experience in management and compensation matters. The mayor shall appoint one of the members to be chairperson of the commission.
+a.   Between the first and fifteenth day of January, 2020, and during the same period every fourth year thereafter, the mayor shall appoint three persons for the review of compensation levels of elected officials. The members of the commission shall be private citizens generally recognized for their knowledge and experience in management and compensation matters. The mayor shall appoint one of the members to be chairperson of the commission.
 
    b.   The commission shall study the compensation levels for the mayor, the public advocate, the comptroller, the borough presidents, the council members and the district attorneys of the five counties within the city and shall recommend changes in those compensation levels, if warranted. In making its recommendations the commission shall take into consideration the duties and responsibilities of each position, the current salary of the position and the length of time since the last change, any change in the cost of living, compression of salary levels for other officers and employees of the city, and salaries and salary trends for positions with analogous duties and responsibilities both within government and in the private sector.
 
@@ -2497,7 +2497,7 @@ Chapter 7: Campaign Financing
 § 3-701 Short title.  ::
 
 
-	This chapter shall be known as the "New York City campaign finance act."
+This chapter shall be known as the "New York City campaign finance act."
 
 
 
@@ -2505,7 +2505,7 @@ Chapter 7: Campaign Financing
 § 3-702 Definitions.  ::
 
 
-	For purposes of this chapter, the following terms shall have the following meanings:
+For purposes of this chapter, the following terms shall have the following meanings:
 
    1.   The term "participating candidate" shall mean any candidate for nomination for election, or election, to the office of mayor, public advocate, comptroller, borough president or member of the city council who files a written certification pursuant to section 3-703 of this chapter.
 
@@ -2637,7 +2637,7 @@ Chapter 7: Campaign Financing
 § 3-703 Eligibility and other requirements. ::
 
 
-	1.   To be eligible for optional public financing under this chapter, a candidate for nomination for election or election must:
+1.   To be eligible for optional public financing under this chapter, a candidate for nomination for election or election must:
 
       (a)   meet all the requirements of law to have his or her name on the ballott, or, for the disbursement of optional public financing occurring prior to two weeks after the last day to file designating petitions for a primary election, certify that he or she intends to meet all the requirements of law to have his or her name on the ballot for the primary or general election;
 
@@ -2777,7 +2777,7 @@ Chapter 7: Campaign Financing
 § 3-704 Qualified campaign expenditures.  ::
 
 
-	1.   Public funds provided under the provisions of this chapter may be used only for expenditures by a principal committee to further the participating candidate's nomination for election or election, either in a special election to fill a vacancy, or during the calendar year in which the primary or general election in which the candidate is seeking nomination for election or election is held.
+1.   Public funds provided under the provisions of this chapter may be used only for expenditures by a principal committee to further the participating candidate's nomination for election or election, either in a special election to fill a vacancy, or during the calendar year in which the primary or general election in which the candidate is seeking nomination for election or election is held.
 
    2.   Such public funds may not be used for:
 
@@ -2819,7 +2819,7 @@ Chapter 7: Campaign Financing
 § 3-705 Optional public financing.  ::
 
 
-	Each participating candidate for nomination for election or election in a covered election may obtain payment to his or her principal committee from public funds for qualified campaign expenditures, in accordance with the provisions of this chapter, and subject to appropriation.
+Each participating candidate for nomination for election or election in a covered election may obtain payment to his or her principal committee from public funds for qualified campaign expenditures, in accordance with the provisions of this chapter, and subject to appropriation.
 
    1.   No such public funds shall be paid to a principal committee unless the board determines that the participating candidate has met the eligibility requirements of this chapter. Payment shall not exceed the amounts specified in this chapter, and shall be made only in accordance with the provisions of this chapter. Such payment may be made only to the participating candidate's principal committee. No public funds shall be used except as reimbursement or payment for qualified campaign expenditures actually and lawfully incurred or to repay loans used to pay qualified campaign expenditures.
 
@@ -2887,7 +2887,7 @@ Chapter 7: Campaign Financing
 § 3-706 Expenditures limitations; additional financing and limits.  ::
 
 
-	1.   The following limitations apply to all expenditures made by a candidate and his or her principal committee on or after the first day of January preceding the election for which such candidate chooses to participate in the public funding provisions of this chapter and to expenditures made at any time prior to such date for services, materials, facilities, advertising or other things of value received, rendered, published, distributed or broadcast on or after such date:
+1.   The following limitations apply to all expenditures made by a candidate and his or her principal committee on or after the first day of January preceding the election for which such candidate chooses to participate in the public funding provisions of this chapter and to expenditures made at any time prior to such date for services, materials, facilities, advertising or other things of value received, rendered, published, distributed or broadcast on or after such date:
 
       (a)   Except as provided in paragraph (b) of this subdivision, in each primary election, in each special election to fill a vacancy, and in each general election, expenditures by a participating candidate or a limited participating candidate and his or her principal committee for one of the following offices shall not exceed the following amounts:
 
@@ -2895,16 +2895,16 @@ Chapter 7: Campaign Financing
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - mayor:
- - $6,158,000 
- * - public advocate or comptroller:
- - $3,850,000 
- * - borough president:
- - $1,386,000 
- * - member of the city council:
- - $161,000 
+    * - mayor:
+      - $6,158,000 
+    * - public advocate or comptroller:
+      - $3,850,000 
+    * - borough president:
+      - $1,386,000 
+    * - member of the city council:
+      - $161,000 
 ~
 
 
@@ -2927,14 +2927,14 @@ Chapter 7: Campaign Financing
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - mayor, public advocate or comptroller:
- - $290,000 
- * - borough president:
- - $129,000 
- * - member of the city council:
- - $43,000 
+    * - mayor, public advocate or comptroller:
+      - $290,000 
+    * - borough president:
+      - $129,000 
+    * - member of the city council:
+      - $43,000 
 ~
 
 
@@ -2977,7 +2977,7 @@ Chapter 7: Campaign Financing
 § 3-707 Voluntary registration by political committees.  ::
 
 
-	1.   Candidates may accept contributions from political committees that choose to register with the board, as provided in this section. The board shall issue rules providing for such registration. Such contributions may not exceed the amount applicable under paragraph (f) of subdivision one of section 3-703. The board shall regularly publish a cumulative list of political committees that have registered, including on the internet and in periodic mailings to candidates.
+1.   Candidates may accept contributions from political committees that choose to register with the board, as provided in this section. The board shall issue rules providing for such registration. Such contributions may not exceed the amount applicable under paragraph (f) of subdivision one of section 3-703. The board shall regularly publish a cumulative list of political committees that have registered, including on the internet and in periodic mailings to candidates.
 
    2.   It is the responsibility of the candidate to determine whether he or she may accept a contribution pursuant to this section. A candidate who receives a contribution from a political committee that has not registered with the board prior to making the contribution shall either return the contribution to the contributor or pay to the fund an amount equal to the amount of the contribution, unless the political committee registers with the board within ten days after the publication of the next subsequent list of registered political committees by the board following the date the contribution is received.
 
@@ -2989,7 +2989,7 @@ Chapter 7: Campaign Financing
 § 3-708 Campaign finance board.  ::
 
 
-	1.   There shall be a campaign finance board consisting of five members. Two members of the board shall be appointed by the mayor, provided that not more than one such member shall be enrolled in any one political party, and two members shall be appointed by the speaker of the council, provided that not more than one such member shall be enrolled in any one political party, and one member, who shall be the chairperson, shall be appointed by the mayor after consultation with the speaker. The members shall first be appointed to serve as follows:
+1.   There shall be a campaign finance board consisting of five members. Two members of the board shall be appointed by the mayor, provided that not more than one such member shall be enrolled in any one political party, and two members shall be appointed by the speaker of the council, provided that not more than one such member shall be enrolled in any one political party, and one member, who shall be the chairperson, shall be appointed by the mayor after consultation with the speaker. The members shall first be appointed to serve as follows:
 
       (a)   one member appointed by the speaker for a term of one year;
 
@@ -3035,7 +3035,7 @@ Chapter 7: Campaign Financing
 § 3-709 New York city campaign finance fund.  ::
 
 
-	1.   There is hereby established a special fund, to be known as the New York city campaign finance fund. The moneys in such fund may be expended by the campaign finance board only as payments for participating candidates in accordance with the provisions of this chapter.
+1.   There is hereby established a special fund, to be known as the New York city campaign finance fund. The moneys in such fund may be expended by the campaign finance board only as payments for participating candidates in accordance with the provisions of this chapter.
 
    2.   The fund shall be kept separate and shall be credited with all sums appropriated therefor, any donations received pursuant to subdivision nine of this section and all earnings accruing on such funds.
 
@@ -3063,7 +3063,7 @@ Chapter 7: Campaign Financing
 § 3-709.5 Mandatory debates.  ::
 
 
-	(1)   (a)   In any year in which a primary, general or special election is to be held, any participating candidate and any limited participating candidate for nomination or election to a city-wide office shall participate in either of the two pre-election debates, or both, held pursuant to this section for which he or she is eligible and is required to debate pursuant to this section. A participating candidate or limited participating candidate for nomination or election to a city-wide office is eligible to participate in a debate for each election in which he or she is on the ballot if he or she has met such criteria for participation as specified in this section, and as shall be further specified in any agreement between the debate sponsor and the board.
+(1)   (a)   In any year in which a primary, general or special election is to be held, any participating candidate and any limited participating candidate for nomination or election to a city-wide office shall participate in either of the two pre-election debates, or both, held pursuant to this section for which he or she is eligible and is required to debate pursuant to this section. A participating candidate or limited participating candidate for nomination or election to a city-wide office is eligible to participate in a debate for each election in which he or she is on the ballot if he or she has met such criteria for participation as specified in this section, and as shall be further specified in any agreement between the debate sponsor and the board.
 
       (b)   In any year in which a run-off primary or run-off special election to fill a vacancy for a city-wide office is held, any participating candidate and any limited participating candidate for nomination or election to such city-wide office who is on the ballot shall participate in one run-off election debate. If, seven days prior to the date of the run-off election debate, the New York city board of elections has not yet approved a finalized run-off ballot, the participating and limited participating candidates with the two highest vote counts in the primary or special election immediately preceding the run-off election, as determined by the New York city board of elections unofficial election results, shall participate in one run-off election debate. If any additional candidate is separated from the candidate with the second highest vote count by one percent or less of all votes cast in the special or primary election immediately preceding the run-off election, as determined by the New York city board of elections unofficial election results, then such candidate shall also participate in such run-off election debate. If the New York city board of elections determines prior to the run-off debate that a run-off election will not take place, the debate sponsors and the board shall cancel the run-off election debate.
 
@@ -3123,7 +3123,7 @@ Chapter 7: Campaign Financing
 § 3-710 Examinations and audits; repayments.  ::
 
 
-	1.   The campaign finance board is hereby empowered to audit and examine all matters relating to the performance of its functions and any other matter relating to the proper administration of this chapter and of chapter 8 of title 3 of this code. The board shall conduct its campaign audits in accordance with generally accepted government auditing standards, and shall promulgate rules regarding what documentation is sufficient in demonstrating financial activity. These audit and examination powers extend to all participating candidates, limited participating candidates, and non-participating candidates, and the principal and authorized committees of all participating, limited participating, and non-participating candidates, provided that:
+1.   The campaign finance board is hereby empowered to audit and examine all matters relating to the performance of its functions and any other matter relating to the proper administration of this chapter and of chapter 8 of title 3 of this code. The board shall conduct its campaign audits in accordance with generally accepted government auditing standards, and shall promulgate rules regarding what documentation is sufficient in demonstrating financial activity. These audit and examination powers extend to all participating candidates, limited participating candidates, and non-participating candidates, and the principal and authorized committees of all participating, limited participating, and non-participating candidates, provided that:
 
       a.   Any draft audit, the subject of which is a participating, limited participating or non-participating candidate, or the principal and/or authorized committees of any participating, limited participating or non-participating candidate shall be completed within (i) eight months after the submission of the final disclosure report for the covered election for city council races and borough-wide races, and (ii) ten months after the submission of the final disclosure report for the covered election for citywide races, unless the subject of such audit consents in writing to a longer period of time;
 
@@ -3157,7 +3157,7 @@ Chapter 7: Campaign Financing
 § 3-710.5 Findings of violation infraction; adjudications; final determinations.  ::
 
 
-	(i)   The board shall determine whether a participating candidate, his or her principal committee, principal committee treasurer or any other agent of a participating candidate has committed a violation or infraction of any provision of this chapter or the rules promulgated hereunder, for which the board may assess a civil penalty pursuant to section 3-711 of this chapter. The board shall promulgate rules defining infractions, and such definitions shall include, but not be limited to, failures to comply with the provisions of this chapter or the rules promulgated hereunder that are limited and non-repetitive.
+(i)   The board shall determine whether a participating candidate, his or her principal committee, principal committee treasurer or any other agent of a participating candidate has committed a violation or infraction of any provision of this chapter or the rules promulgated hereunder, for which the board may assess a civil penalty pursuant to section 3-711 of this chapter. The board shall promulgate rules defining infractions, and such definitions shall include, but not be limited to, failures to comply with the provisions of this chapter or the rules promulgated hereunder that are limited and non-repetitive.
 
    (ii)   (a)   The board shall give written notice and the opportunity to appear before the board to any participating, limited participating or non-participating candidate, his or her principal committee, authorized committee, committee treasurer or any other agent of such candidate, if the board has reason to believe that such has committed a violation or infraction before assessing any penalty for such action. Any such written notice of alleged violations shall be issued in a timely manner pursuant to all of the requirements of subdivision one of section 3-710 and shall precede the issuance of the final audit required pursuant to subdivision one of section 3-710. In the case of a written notice issued prior to the date of a covered election, or after the date of a covered election in the case of a notice regarding an alleged failure to respond to a request for audit documentation, such notice may be issued prior to the issuance of a draft audit. Alleged violations and proposed penalties shall be subject to resolution by adjudication before the board consistent with the procedures of section 1046 of the charter, unless such procedures are waived by the candidate or principal committee; provided, however, that in the case of adjudications conducted prior to the date of a covered election, the board shall use the procedures of section 1046 of the charter only to the extent practicable, given the expedited nature of such pre-election adjudications; and further provided that alleged violations and proposed penalties may be subject, at the discretion of the candidate or principal committee prior to the commencement of an adjudication proceeding before the board, to a proceeding before a tribunal of the office of administrative trials and hearings. Within 90 days of a candidate or principal committee's response to a notice of alleged violations and selection of adjudication process, the board shall accordingly calendar an adjudication proceeding before the board or serve a petition upon the candidate or principal committee for a proceeding before a tribunal of the office of administrative trials and hearings. No candidate, representative of a candidate or campaign finance board staff other than a professional counsel hired or retained for such purpose and not otherwise supervised by campaign finance board staff shall be present during an executive session of the board at which an adjudication before the board is discussed. The board shall issue a final determination within thirty days of the conclusion of an adjudication proceeding or, following a proceeding before a tribunal of the office of administrative trials and hearings and the receipt of findings and recommendations regarding such proceeding, each party shall have 20 days to submit written comments to the board and within 30 days of the conclusion of the written comments period the board shall issue a final determination.
 
@@ -3175,7 +3175,7 @@ Chapter 7: Campaign Financing
 § 3-711 Penalties.  ::
 
 
-	1.*   Any participating or limited participating candidate whose principal committee fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who commits a violation or infraction of any other provision of this chapter or rule promulgated thereunder, including any provision of section 3-709.5, and any principal committee treasurer or any other agent of a participating or limited participating candidate who commits such a violation or infraction, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars. The board shall publish a schedule of civil penalties for common infractions and violations, including examples of aggravating and mitigating circumstances that may be taken into account by the board in assessing such penalties. This schedule shall reflect that infractions are less serious failures to comply with the provisions of this chapter.
+1.*   Any participating or limited participating candidate whose principal committee fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who commits a violation or infraction of any other provision of this chapter or rule promulgated thereunder, including any provision of section 3-709.5, and any principal committee treasurer or any other agent of a participating or limited participating candidate who commits such a violation or infraction, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars. The board shall publish a schedule of civil penalties for common infractions and violations, including examples of aggravating and mitigating circumstances that may be taken into account by the board in assessing such penalties. This schedule shall reflect that infractions are less serious failures to comply with the provisions of this chapter.
 
    1.*   Any participating or limited participating candidate and his or her principal committee or any non-participating candidate and his or her authorized committees that fail to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or that violate any other provision of this chapter or rule promulgated thereunder, and any committee treasurer or any other agent of a participating, limited participating or non-participating candidate who commits such a violation or infraction, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars. The board shall publish a schedule of civil penalties for common infractions and violations, including examples of aggravating and mitigating circumstances that may be taken into account by the board in assessing such penalties. This schedule shall reflect that infractions are less serious failures to comply with the provisions of this chapter.
 
@@ -3195,7 +3195,7 @@ Chapter 7: Campaign Financing
 § 3-712 Campaigns for office not subject to this chapter.  ::
 
 
-	Contributions, loans, guarantees and other security for such loans used and expenditures made toward the payment of liabilities incurred by a candidate in an election held prior to the effective date of this section or in a campaign for public office other than one covered by this chapter, shall not be subject to the requirements and limitations of this chapter.
+Contributions, loans, guarantees and other security for such loans used and expenditures made toward the payment of liabilities incurred by a candidate in an election held prior to the effective date of this section or in a campaign for public office other than one covered by this chapter, shall not be subject to the requirements and limitations of this chapter.
 
 
 
@@ -3203,7 +3203,7 @@ Chapter 7: Campaign Financing
 § 3-713 Reports.  ::
 
 
-	1.   The campaign finance board shall review and evaluate the effect of this chapter upon the conduct of election campaigns in the city and shall submit a report to the mayor and the city council on or before September first, nineteen hundred ninety, and every fourth year thereafter, and at any other time upon the request of the mayor or the city council and at such other times as the board deems appropriate, containing:
+1.   The campaign finance board shall review and evaluate the effect of this chapter upon the conduct of election campaigns in the city and shall submit a report to the mayor and the city council on or before September first, nineteen hundred ninety, and every fourth year thereafter, and at any other time upon the request of the mayor or the city council and at such other times as the board deems appropriate, containing:
 
       (a)   the number and names of candidates qualifying for and choosing to receive public funds pursuant to this chapter, and of candidates failing to qualify or otherwise not choosing to receive such funds, in each election during the four preceding calendar years;
 
@@ -3229,7 +3229,7 @@ Chapter 7: Campaign Financing
 § 3-714 Construction.  ::
 
 
-	Nothing in this chapter shall be construed to prohibit the making or receipt of contributions to the extent permitted by the election law or to permit the making or receipt of contributions otherwise prohibited.
+Nothing in this chapter shall be construed to prohibit the making or receipt of contributions to the extent permitted by the election law or to permit the making or receipt of contributions otherwise prohibited.
 
 
 
@@ -3237,7 +3237,7 @@ Chapter 7: Campaign Financing
 § 3-715 Joint campaign activities.  ::
 
 
-	Nothing in this chapter shall be construed to restrict candidates from authorizing expenditures for joint campaign materials and other joint campaign activities, provided that the benefit each candidate derives from the joint material or activity is proportionally equivalent to the expenditures authorized by such candidate.
+Nothing in this chapter shall be construed to restrict candidates from authorizing expenditures for joint campaign materials and other joint campaign activities, provided that the benefit each candidate derives from the joint material or activity is proportionally equivalent to the expenditures authorized by such candidate.
 
 
 
@@ -3245,7 +3245,7 @@ Chapter 7: Campaign Financing
 § 3-716 Application of the contribution and expenditure limitations to certain political activities.  ::
 
 
-	1.   Nothing in this chapter shall be construed to restrict candidates or their agents from making appearances at events sponsored or paid for by persons, political committees, or other entities that are not in any way affiliated with such candidate or any agent of such candidate. The costs of such events shall not be considered contributions to or expenditures by such a candidate pursuant to this chapter solely because such an appearance is made; provided that this subdivision shall not apply to any event in relation to which contributions are solicited on behalf of such candidate.
+1.   Nothing in this chapter shall be construed to restrict candidates or their agents from making appearances at events sponsored or paid for by persons, political committees, or other entities that are not in any way affiliated with such candidate or any agent of such candidate. The costs of such events shall not be considered contributions to or expenditures by such a candidate pursuant to this chapter solely because such an appearance is made; provided that this subdivision shall not apply to any event in relation to which contributions are solicited on behalf of such candidate.
 
    2.   The following activities in support of other candidates by a participating, or limited participating or non-participating candidate or his or her principal committee shall not be considered contributions to or expenditures by such participating, or limited participating or non-participating candidate or his or her principal committee, except to the extent such activities are paid for by such candidate or his or her principal committee for a covered election:
 
@@ -3277,7 +3277,7 @@ Chapter 7: Campaign Financing
 § 3-717 Receipt of post election contributions from previous contributors for debt repayment. [Expired*]  ::
 
 
-	1.   Eight or more years after the date of any covered election, a participating candidate, who has incurred debt as a result of his or her participation in such covered election and has not been a candidate in any subsequent election and is not raising funds for his or her candidacy in any election, may accept contributions pursuant to this section from contributors who previously contributed to the participating candidate's campaign for such covered election only for the purposes of repayment of debt incurred in connection with such covered election; provided, however, such participating candidate shall not accept contributions from corporations, except corporations that are political committees as defined in subdivision eleven of section 3-702 of this chapter. Debt repayment shall include payments for expenses incurred in maintaining a committee until debt is repaid and expenses incurred as a result of repaying the debt.
+1.   Eight or more years after the date of any covered election, a participating candidate, who has incurred debt as a result of his or her participation in such covered election and has not been a candidate in any subsequent election and is not raising funds for his or her candidacy in any election, may accept contributions pursuant to this section from contributors who previously contributed to the participating candidate's campaign for such covered election only for the purposes of repayment of debt incurred in connection with such covered election; provided, however, such participating candidate shall not accept contributions from corporations, except corporations that are political committees as defined in subdivision eleven of section 3-702 of this chapter. Debt repayment shall include payments for expenses incurred in maintaining a committee until debt is repaid and expenses incurred as a result of repaying the debt.
 
    2.   A participating candidate who chooses to accept contributions pursuant to paragraph one of this section shall designate a single committee to accept such contributions.
 
@@ -3295,7 +3295,7 @@ Chapter 7: Campaign Financing
 § 3-718 Limited Participation.  ::
 
 
-	1.   Requirements.
+1.   Requirements.
 
       (a)   To be a limited participating candidate, a candidate for nomination for election or election must:
 
@@ -3337,7 +3337,7 @@ Chapter 7: Campaign Financing
 § 3-719 Obligations of non-participating candidates.  ::
 
 
-	1.   Disclosure requirements of non-participating candidates.
+1.   Disclosure requirements of non-participating candidates.
 
       (a)   A non-participating candidate shall notify the board in such form as may be prescribed by the board as to: (i) the existence of each committee authorized by such candidate that has not been terminated, and (ii) whether any such committee also has been authorized by any other candidate.
 
@@ -3363,7 +3363,7 @@ Chapter 7: Campaign Financing
 § 3-720 Tolling of time for notice of alleged violations and/or notice of repayment of public funds.  ::
 
 
-	If a committee has failed to respond to a request for information made by board auditors or has inadequately responded during the post-election audit process and the board has satisfied the provisions of subdivision 1 of section 3-710, the time period for serving notice shall be tolled and extended by the number of days by which the committee has exceeded the original deadline for a response, provided that the committee has received timely written notice of: (a) the original deadline to provide the information, which shall not have been less than thirty days from the date such information was requested, and (b) the commencement of the tolling period pursuant to this section.
+If a committee has failed to respond to a request for information made by board auditors or has inadequately responded during the post-election audit process and the board has satisfied the provisions of subdivision 1 of section 3-710, the time period for serving notice shall be tolled and extended by the number of days by which the committee has exceeded the original deadline for a response, provided that the committee has received timely written notice of: (a) the original deadline to provide the information, which shall not have been less than thirty days from the date such information was requested, and (b) the commencement of the tolling period pursuant to this section.
 
 
 
@@ -3373,7 +3373,7 @@ Chapter 8: Transition and Inaugural Donations And Expenditures
 § 3-801 Transition and inauguration donations and expenses.  ::
 
 
-	1.   Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
+1.   Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
 
    2.   Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
 
@@ -3413,7 +3413,7 @@ Chapter 8: Transition and Inaugural Donations And Expenditures
 § 3-802 Penalties.  ::
 
 
-	1.   Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
+1.   Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
 
    2.   In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
 
@@ -3427,7 +3427,7 @@ Chapter 9: Organizations Affiliated with Elected Officials.
 § 3-901 Definitions. ::
 
 
-	As used in this chapter, the following terms have the following meanings.
+As used in this chapter, the following terms have the following meanings.
 
    Doing business database. The term "doing business database" means the doing business database as defined in section 3-702 of the administrative code.
 
@@ -3469,7 +3469,7 @@ Chapter 9: Organizations Affiliated with Elected Officials.
 § 3-902 Reporting and donor disclosure for organizations affiliated with elected officials. ::
 
 
-	a.   All organizations affiliated with an elected official shall report to the conflicts of interest board annually by August 1, in a manner determined by the conflicts of interest board by rule. Such report shall include:
+a.   All organizations affiliated with an elected official shall report to the conflicts of interest board annually by August 1, in a manner determined by the conflicts of interest board by rule. Such report shall include:
 
       1.   the name of the organization;
 
@@ -3503,7 +3503,7 @@ Chapter 9: Organizations Affiliated with Elected Officials.
 § 3-903 Prohibition of acceptance of certain donations. ::
 
 
-	a.   Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations with a reasonable value in excess of $400 in a single calendar year by any person who such organization knows or should know has business dealings with the city on the date of such donation. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 20 days of receipt by such organization.
+a.   Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations with a reasonable value in excess of $400 in a single calendar year by any person who such organization knows or should know has business dealings with the city on the date of such donation. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 20 days of receipt by such organization.
 
    b.   Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall return any donations with a reasonable value in excess of $400 in a single calendar year by any person who is not a person who such organization knows or should know has business dealings with the city on the date of such donation, but who is added to the doing business database within 180 days of receipt by the organization. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 200 days of receipt by such organization.
 
@@ -3521,7 +3521,7 @@ Chapter 9: Organizations Affiliated with Elected Officials.
 § 3-904 Advisory opinions, outreach and determination of control. ::
 
 
-	a.   The conflicts of interest board shall render advisory opinions with respect to all matters covered by this chapter. An advisory opinion shall be rendered on the request of a person holding office as mayor, comptroller, public advocate, borough president or member of the council, an agent of such officeholder, or any non-profit entity potentially subject to the provisions of this chapter, and shall apply only to the particular circumstances of such request. The request shall be in such form as the board may require and shall be signed by the person making the request, or, in the case of a request by a non-profit entity, by a responsible officer or other representative of such entity. The opinion of the board shall be based on such facts as are presented in the request or subsequently submitted in a written, signed document. Notwithstanding any inconsistent provision of law, opinions rendered by the board pursuant to this section shall be made publicly available.
+a.   The conflicts of interest board shall render advisory opinions with respect to all matters covered by this chapter. An advisory opinion shall be rendered on the request of a person holding office as mayor, comptroller, public advocate, borough president or member of the council, an agent of such officeholder, or any non-profit entity potentially subject to the provisions of this chapter, and shall apply only to the particular circumstances of such request. The request shall be in such form as the board may require and shall be signed by the person making the request, or, in the case of a request by a non-profit entity, by a responsible officer or other representative of such entity. The opinion of the board shall be based on such facts as are presented in the request or subsequently submitted in a written, signed document. Notwithstanding any inconsistent provision of law, opinions rendered by the board pursuant to this section shall be made publicly available.
 
    b.   Within thirty days of a person taking office for the first time as mayor, comptroller, public advocate, borough president or member of the council, the conflicts of interest board shall notify each such elected official in writing of the obligations of organizations affiliated with such elected official set forth in this chapter.
 
@@ -3535,7 +3535,7 @@ Chapter 9: Organizations Affiliated with Elected Officials.
 § 3-905 Enforcement. ::
 
 
-	Complaints alleging violations of this chapter, or of rules or directives promulgated by the conflicts of interest board pursuant to this chapter, shall be made, received, investigated and adjudicated in a manner consistent with the procedures relating to investigations and adjudications of allegations of conflicts of interest set forth in chapters 34 and 68 of the charter.
+Complaints alleging violations of this chapter, or of rules or directives promulgated by the conflicts of interest board pursuant to this chapter, shall be made, received, investigated and adjudicated in a manner consistent with the procedures relating to investigations and adjudications of allegations of conflicts of interest set forth in chapters 34 and 68 of the charter.
 
 
 
@@ -3545,7 +3545,7 @@ Chapter 9: Organizations Affiliated with Elected Officials.
 § 3-906 Penalties. ::
 
 
-	a.   Any organization that violates any provision of section 3-902 shall be subject to a civil penalty of not more than $10,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates such subdivision, jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates such subdivision be held jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. In addition to such civil penalties, for the second and subsequent offense any person who knowingly and willfully violates any provision of section 3-902 shall be guilty of a class A misdemeanor.
+a.   Any organization that violates any provision of section 3-902 shall be subject to a civil penalty of not more than $10,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates such subdivision, jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates such subdivision be held jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. In addition to such civil penalties, for the second and subsequent offense any person who knowingly and willfully violates any provision of section 3-902 shall be guilty of a class A misdemeanor.
 
    b.   Any organization that violates subdivision a, b or c of section 3-903 shall be required to return any donations with a reasonable value in excess of the applicable donation limit, and shall be subject to a civil penalty, which for the first offense shall be not more than $5,000, for the second offense not more than $15,000, and for the third and subsequent offenses not more than $30,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates any such subdivision, jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates any such subdivision, be held jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation.
 
@@ -3561,7 +3561,7 @@ Chapter 9: Organizations Affiliated with Elected Officials.
 § 3-907 Rulemaking. ::
 
 
-	The conflicts of interest board shall promulgate such rules as are necessary to ensure the implementation of this chapter.
+The conflicts of interest board shall promulgate such rules as are necessary to ensure the implementation of this chapter.
 
 
 
@@ -3573,7 +3573,7 @@ Chapter 10: Environmental Justice
 § 3-1001 Definitions. ::
 
 
-	As used in this chapter:
+As used in this chapter:
 
    Advisory board. The term “advisory board” means the advisory board created pursuant to section 3-1006.
 
@@ -3605,7 +3605,7 @@ Chapter 10: Environmental Justice
 § 3-1002 Interagency working group. ::
 
 
-	a.   By no later than three months after the effective date of this section, the mayor shall establish an interagency working group consisting of the heads of the following city agencies, or their designees:
+a.   By no later than three months after the effective date of this section, the mayor shall establish an interagency working group consisting of the heads of the following city agencies, or their designees:
 
       1.   The department of environmental protection;
 
@@ -3665,7 +3665,7 @@ Chapter 10: Environmental Justice
 § 3-1003 Environmental justice plan. ::
 
 
-	a.   The interagency working group shall develop an environmental justice plan that provides guidance for incorporating environmental justice concerns into city decision-making, identifies possible citywide initiatives for promoting environmental justice and provides specific recommendations for city agencies represented on the interagency working group. Matters treated by such plan shall include, at a minimum:
+a.   The interagency working group shall develop an environmental justice plan that provides guidance for incorporating environmental justice concerns into city decision-making, identifies possible citywide initiatives for promoting environmental justice and provides specific recommendations for city agencies represented on the interagency working group. Matters treated by such plan shall include, at a minimum:
 
       1.   City-wide initiatives:
 
@@ -3731,7 +3731,7 @@ Chapter 10: Environmental Justice
 § 3-1004 Agency responsibilities. ::
 
 
-	To the extent practicable, each agency covered by the environmental justice plan shall conduct its programs, policies and activities in accordance with the environmental justice plan, provided that the application of such plan to any such agency shall be consistent with the powers and duties of such agency as set forth in the charter and all applicable laws.
+To the extent practicable, each agency covered by the environmental justice plan shall conduct its programs, policies and activities in accordance with the environmental justice plan, provided that the application of such plan to any such agency shall be consistent with the powers and duties of such agency as set forth in the charter and all applicable laws.
 
 
 
@@ -3741,7 +3741,7 @@ Chapter 10: Environmental Justice
 § 3-1005 Research, data collection and analysis. ::
 
 
-	a.   The interagency working group, in consultation with the advisory board, shall identify and consider existing data, research and analysis that relates to environmental justice concerns raised by city agency programs, policies, facilities, and activities and that may inform city agency decisions regarding programs, policies, facilities, and activities.
+a.   The interagency working group, in consultation with the advisory board, shall identify and consider existing data, research and analysis that relates to environmental justice concerns raised by city agency programs, policies, facilities, and activities and that may inform city agency decisions regarding programs, policies, facilities, and activities.
 
    b.   The interagency working group, in consultation with the advisory board, shall identify data collection, research, or analysis that may be undertaken by a city agency that relates to environmental justice concerns and may inform city agency decisions regarding programs, policies, facilities, and activities, and shall work with city agencies to facilitate such data collection, research, or analysis.
 
@@ -3757,7 +3757,7 @@ Chapter 10: Environmental Justice
 § 3-1006 Advisory board. ::
 
 
-	a.   There is hereby established an advisory board on environmental justice that shall consist of the following members:
+a.   There is hereby established an advisory board on environmental justice that shall consist of the following members:
 
       1.   Seven members appointed by the mayor;
 
@@ -3817,7 +3817,7 @@ Chapter 10: Environmental Justice
 § 3-1007 Environmental justice study and portal. ::
 
 
-	a.   1.   By no later than December 31, 2018, and by December 31 in every fifth year thereafter, the interagency working group, with the cooperation of all relevant agencies, shall (i) conduct a study which shall identify and describe opportunities for and means of promoting environmental justice in the city, (ii) submit a report to the mayor and the speaker of the council on the findings of such study, and (iii) make a copy of such report publicly available online. Such study shall, at a minimum, evaluate and set forth the following:
+a.   1.   By no later than December 31, 2018, and by December 31 in every fifth year thereafter, the interagency working group, with the cooperation of all relevant agencies, shall (i) conduct a study which shall identify and describe opportunities for and means of promoting environmental justice in the city, (ii) submit a report to the mayor and the speaker of the council on the findings of such study, and (iii) make a copy of such report publicly available online. Such study shall, at a minimum, evaluate and set forth the following:
 
          (a)   The locations and boundaries of environmental justice areas;
 

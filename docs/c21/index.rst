@@ -5,7 +5,7 @@ Chapter 1: Shipboard Gambling
 § 20-9001 Definitions.  ::
 
 
-	For the purposes of this chapter, the following terms shall have the following meanings:
+For the purposes of this chapter, the following terms shall have the following meanings:
 
    a.   "Affiliate" shall mean (i) a business entity in which twenty-five percent or more is owned, or is subject to a power or right of control or a power to vote, or is managed by, a shipboard gambling business, or (ii) a business entity that owns twenty-five percent or more of a shipboard gambling business, or that exercises a power or right of control or a power to vote over twenty-five percent or more of a shipboard gambling business, or that manages a shipboard gambling business.
 
@@ -49,7 +49,7 @@ Chapter 1: Shipboard Gambling
 § 20-9002 New York city gambling control commission.  ::
 
 
-	a.   There is hereby created a New York city gambling control commission. Such commission shall consist of five members appointed by the mayor, two of whom shall be appointed after recommendation by the city council. The mayor shall appoint a chair from among the members of the commission. Each member of the commission shall be appointed for a two year term.
+a.   There is hereby created a New York city gambling control commission. Such commission shall consist of five members appointed by the mayor, two of whom shall be appointed after recommendation by the city council. The mayor shall appoint a chair from among the members of the commission. Each member of the commission shall be appointed for a two year term.
 
    b.   In the event of a vacancy on the commission during the term of office of a member, a successor shall be chosen in the same manner as the original appointment. A member appointed to fill a vacancy shall serve for the balance of the unexpired term.
 
@@ -63,7 +63,7 @@ Chapter 1: Shipboard Gambling
 § 20-9003 Power and duties of the commission.  ::
 
 
-	The commission shall be responsible for the licensing and regulation of shipboard gambling businesses. The powers and duties of the commission shall include, but not be limited to the following:
+The commission shall be responsible for the licensing and regulation of shipboard gambling businesses. The powers and duties of the commission shall include, but not be limited to the following:
 
    a.   To issue and establish standards for the issuance, renewal, suspension and revocation of licenses, certificates of approval and registrations and waivers therefrom pursuant to this chapter; provided that the commission may by resolution delegate to the chair the authority to make individual determinations regarding the issuance, renewal, suspension and revocation of such licenses, certificates of approval and registrations and the appointment of independent auditors in accordance with the provisions of this chapter, except that a determination to refuse to issue a license, renewal, certificate of approval or registration or to refuse to grant a waiver therefrom pursuant to this chapter shall be made only by a majority vote of the commission.
 
@@ -89,7 +89,7 @@ Chapter 1: Shipboard Gambling
 § 20-9004 Licenses, certificates of approval, and registration required.  ::
 
 
-	a.   Unless otherwise provided,
+a.   Unless otherwise provided,
 
       (i)   It shall be unlawful to operate a shipboard gambling business unless such business has first obtained a shipboard gambling license from the commission.
 
@@ -115,7 +115,7 @@ Chapter 1: Shipboard Gambling
 § 20-9005 License application; application for certificate of approval.  ::
 
 
-	a.   An applicant for a license or certificate of approval pursuant to this chapter shall submit an application in the form and containing the information prescribed by the commission. An application for a license shall be accompanied by:
+a.   An applicant for a license or certificate of approval pursuant to this chapter shall submit an application in the form and containing the information prescribed by the commission. An application for a license shall be accompanied by:
 
       (i)   in the case of any applicant business, a list of the names and addresses of all principals of such business, and, in the case of a shipboard gambling business, all key employees employed or proposed to be employed in the business; and
 
@@ -187,7 +187,7 @@ Chapter 1: Shipboard Gambling
 § 20-9006 Registration application; application for renewal.  ::
 
 
-	a.   An applicant for registration or renewal pursuant to this chapter shall submit an application on a form prescribed by the commission and containing such information as the commission determines will adequately identify and establish the background of such applicant. The commission may refuse to register or to renew the registration of an applicant who has knowingly failed to provide the information and/or documentation required by such form, or who has knowingly provided false information or documentation, required by this chapter or any rule promulgated pursuant hereto.
+a.   An applicant for registration or renewal pursuant to this chapter shall submit an application on a form prescribed by the commission and containing such information as the commission determines will adequately identify and establish the background of such applicant. The commission may refuse to register or to renew the registration of an applicant who has knowingly failed to provide the information and/or documentation required by such form, or who has knowingly provided false information or documentation, required by this chapter or any rule promulgated pursuant hereto.
 
    b.   Notwithstanding any other provision of this chapter:
 
@@ -203,7 +203,7 @@ Chapter 1: Shipboard Gambling
 § 20-9007 Refusal to issue or renew a license or certificate of approval.  ::
 
 
-	a.   The commission shall refuse to issue or to renew a license to an applicant who has not demonstrated to the commission that he or she possesses good character, honesty and integrity. In determining that an applicant has not met his or her burden to demonstrate good character, honesty and integrity, the commission may consider, but is not limited to:
+a.   The commission shall refuse to issue or to renew a license to an applicant who has not demonstrated to the commission that he or she possesses good character, honesty and integrity. In determining that an applicant has not met his or her burden to demonstrate good character, honesty and integrity, the commission may consider, but is not limited to:
 
       (i)   knowing failure by such applicant to provide truthful or complete information in connection with the application;
 
@@ -239,7 +239,7 @@ Chapter 1: Shipboard Gambling
 § 20-9008 Independent auditing required.  ::
 
 
-	a.   The commission may, in the event the background investigation conducted pursuant to section 20-9005 produces adverse information, require as a condition of a shipboard gambling license that the licensee enter into a contract with an independent auditor, approved or selected by the commission. Such contract, the cost of which shall be paid by the licensee, shall provide that the auditor investigate the activities of the licensee with respect to the licensee's compliance with the provisions of this chapter, other applicable federal, state and local laws and such other matters as the commission shall determine by rule. The contract shall provide further that the auditor report the findings of such monitoring and investigation to the commission on a periodic basis.
+a.   The commission may, in the event the background investigation conducted pursuant to section 20-9005 produces adverse information, require as a condition of a shipboard gambling license that the licensee enter into a contract with an independent auditor, approved or selected by the commission. Such contract, the cost of which shall be paid by the licensee, shall provide that the auditor investigate the activities of the licensee with respect to the licensee's compliance with the provisions of this chapter, other applicable federal, state and local laws and such other matters as the commission shall determine by rule. The contract shall provide further that the auditor report the findings of such monitoring and investigation to the commission on a periodic basis.
 
    b.   The commission shall be authorized to prescribe, in any contract required by the commission pursuant to this section, such reasonable terms and conditions as the commission deems necessary to effectuate the purposes of this chapter.
 
@@ -251,7 +251,7 @@ Chapter 1: Shipboard Gambling
 § 20-9009 Investigations by the department of investigation or police department.  ::
 
 
-	In addition to any other investigation authorized pursuant to law, the commissioner of the department of investigation or the police commissioner shall, at the request of the commission, conduct a study or investigation of any matter arising under the provisions of this chapter, including but not limited to investigation of the information required to be submitted by applicants for licenses, certificates of approval and registration and the ongoing conduct of licensees, holders of certificates of approval and registrants.
+In addition to any other investigation authorized pursuant to law, the commissioner of the department of investigation or the police commissioner shall, at the request of the commission, conduct a study or investigation of any matter arising under the provisions of this chapter, including but not limited to investigation of the information required to be submitted by applicants for licenses, certificates of approval and registration and the ongoing conduct of licensees, holders of certificates of approval and registrants.
 
 
 
@@ -261,7 +261,7 @@ Chapter 1: Shipboard Gambling
 § 20-9010 Revocation or suspension of license, certificate of approval or registration.  ::
 
 
-	a.   In addition to the penalties provided in section 20-9011, the commission may, after notice and opportunity to be heard, revoke or suspend a license, certificate of approval or registration issued pursuant to the provisions of this chapter when the licensee or a principal, employee or agent of a licensee, a holder of a certificate of approval or a registrant:
+a.   In addition to the penalties provided in section 20-9011, the commission may, after notice and opportunity to be heard, revoke or suspend a license, certificate of approval or registration issued pursuant to the provisions of this chapter when the licensee or a principal, employee or agent of a licensee, a holder of a certificate of approval or a registrant:
 
       (i)   has been found to be in violation of this chapter or any rules promulgated hereunder;
 
@@ -285,7 +285,7 @@ Chapter 1: Shipboard Gambling
 § 20-9011 Penalties.  ::
 
 
-	In addition to any other penalty provided by law:
+In addition to any other penalty provided by law:
 
    a.   Except as otherwise provided in subdivision b of this section, any person who violates any provision of this chapter or any of the rules promulgated thereto shall be liable for a civil penalty which shall not exceed ten thousand dollars for each such violation. Such civil penalty may be recovered in a civil action or may be returnable to the department of consumer affairs or other administrative tribunal of competent jurisdiction;
 
@@ -313,7 +313,7 @@ Chapter 1: Shipboard Gambling
 § 20-9012 Liability for violations.  ::
 
 
-	A shipboard gambling business required by this chapter to be licensed shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any of its principals acting within the scope of such business and any of its employees and/or agents within the scope of their employment.
+A shipboard gambling business required by this chapter to be licensed shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant hereto committed by any of its principals acting within the scope of such business and any of its employees and/or agents within the scope of their employment.
 
 
 
@@ -323,7 +323,7 @@ Chapter 1: Shipboard Gambling
 § 20-9013 Enforcement.  ::
 
 
-	Notices of violation for violations of any provision of this chapter or any rule promulgated hereunder may be issued by authorized employees or agents of the commission or the police department. In addition, such notices of violation may, at the request of the commission and with the consent of the appropriate commissioner, be issued by authorized employees and agents of the department of consumer affairs or the department of investigation.
+Notices of violation for violations of any provision of this chapter or any rule promulgated hereunder may be issued by authorized employees or agents of the commission or the police department. In addition, such notices of violation may, at the request of the commission and with the consent of the appropriate commissioner, be issued by authorized employees and agents of the department of consumer affairs or the department of investigation.
 
 
 
@@ -333,7 +333,7 @@ Chapter 1: Shipboard Gambling
 § 20-9014 Conduct of shipboard gambling licensees.  ::
 
 
-	a.   A shipboard gambling licensee shall be in compliance with all applicable federal, state and local statutes, laws, rules and regulations governing operation of a shipboard gambling business, including but not limited to:
+a.   A shipboard gambling licensee shall be in compliance with all applicable federal, state and local statutes, laws, rules and regulations governing operation of a shipboard gambling business, including but not limited to:
 
       (i)   specifications for design and construction, equipment required to be present on board such vessel, maintenance, inspection, documentation, operation and licensing of such vessels; requirements for the medical fitness, training and other qualifications, drug testing and licensing of the crew of such vessels; environmental requirements; requirements regarding safety and conditions of employment on such vessel; and requirements for accessibility under the Americans with Disabilities Act and any regulations promulgated pursuant thereto, as such regulations may from time to time be amended and analogous provisions of title eight of this code;
 
@@ -379,7 +379,7 @@ Chapter 1: Shipboard Gambling
 § 20-9015 Rules.  ::
 
 
-	The commission may promulgate such rules as it may deem necessary or useful to effectuate the purposes of this chapter.
+The commission may promulgate such rules as it may deem necessary or useful to effectuate the purposes of this chapter.
 
 
 
@@ -389,7 +389,7 @@ Chapter 1: Shipboard Gambling
 § 20-9016 Hearings.  ::
 
 
-	a.   A hearing pursuant to this chapter may be conducted by the commission, or, in the discretion of the commission, by an administrative law judge employed by the office of administrative trials and hearings or other administrative tribunal of competent jurisdiction. Where a hearing pursuant to a provision of this chapter is conducted by an administrative law judge, such judge shall submit recommended findings of fact and a recommended decision to the commission, which shall make the final determination.
+a.   A hearing pursuant to this chapter may be conducted by the commission, or, in the discretion of the commission, by an administrative law judge employed by the office of administrative trials and hearings or other administrative tribunal of competent jurisdiction. Where a hearing pursuant to a provision of this chapter is conducted by an administrative law judge, such judge shall submit recommended findings of fact and a recommended decision to the commission, which shall make the final determination.
 
    b.   Notwithstanding the provisions of subdivision a of this section, the commission may provide by rule that hearings or specified categories of hearings pursuant to this subchapter may be conducted by the department of consumer affairs. Where the department of consumer affairs conducts such hearings, the commissioner of consumer affairs shall make the final determination.
 
@@ -401,7 +401,7 @@ Chapter 1: Shipboard Gambling
 § 20-9017 Reporting requirements.  ::
 
 
-	a.   No later than one week following the submission of the mayor's management report, the commission shall submit to the council a report detailing its activities pursuant to this chapter for the period covered by the mayor's management report. The report required by this section shall at a minimum include:
+a.   No later than one week following the submission of the mayor's management report, the commission shall submit to the council a report detailing its activities pursuant to this chapter for the period covered by the mayor's management report. The report required by this section shall at a minimum include:
 
       i.   the number of applicants for a license, certificate of approval or registration that were denied by the commission and a statement of the reasons for such denials;
 

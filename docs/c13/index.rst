@@ -5,7 +5,7 @@ Chapter 1: Police Department
 § 14-101 Definitions.  ::
 
 
-	As used in this title, the following terms have the following meanings:
+As used in this title, the following terms have the following meanings:
 
    Civil enforcement. The term "civil enforcement" means the issuance of a civil summons.
 
@@ -31,7 +31,7 @@ Chapter 1: Police Department
 § 14-102 Composition of force.  ::
 
 
-	Until otherwise provided by the mayor, upon the recommendation of the commissioner, the police force in the police department, shall consist of the following ranks of members, to wit:
+Until otherwise provided by the mayor, upon the recommendation of the commissioner, the police force in the police department, shall consist of the following ranks of members, to wit:
 
    1.   Captains of police, not exceeding in number one to each fifty of the total number of police officers, in addition to the number detailed to act as inspectors;
 
@@ -51,7 +51,7 @@ Chapter 1: Police Department
 § 14-103 Detective bureau.  ::
 
 
-	a.   The commissioner shall organize and maintain a bureau for detective purposes to be known as the detective bureau and shall, from time to time, detail to service in said bureau as many members of the force as the commissioner may deem necessary and may at any time revoke any such detail.
+a.   The commissioner shall organize and maintain a bureau for detective purposes to be known as the detective bureau and shall, from time to time, detail to service in said bureau as many members of the force as the commissioner may deem necessary and may at any time revoke any such detail.
 
    b.   Of the members of the force so detailed the commissioner may designate:
 
@@ -71,7 +71,7 @@ Chapter 1: Police Department
 § 14-104 Juvenile bureau.  ::
 
 
-	a.   There shall be a bureau in the department organized and maintained for the prevention of crime and delinquency among minors and for the performance of such other duties as the commissioner may assign thereto.
+a.   There shall be a bureau in the department organized and maintained for the prevention of crime and delinquency among minors and for the performance of such other duties as the commissioner may assign thereto.
 
    b.   Any member of the force assigned to such juvenile bureau shall retain his or her rank and pay in the force and shall be eligible for promotion as if serving in the uniformed force and the time served in such bureau shall count for all purposes as if served in his or her rank or grade in the uniformed force of the department.
 
@@ -81,7 +81,7 @@ Chapter 1: Police Department
 § 14-105 Superintendent of buildings; compensation.  ::
 
 
-	a.   There shall be an officer to be known as superintendent of buildings, to be selected from among the members of the uniformed force by the commissioner. He or she shall be subject to the rules and regulations governing other members of the force as regards promotion and otherwise. The superintendent of buildings shall be entitled to all the benefits and privileges extended to each member of the force with regard to a pension, and shall not be removed or dismissed except in the manner prescribed for other members of the force. His or her time served as superintendent of buildings shall count as time served in such force for pension purposes.
+a.   There shall be an officer to be known as superintendent of buildings, to be selected from among the members of the uniformed force by the commissioner. He or she shall be subject to the rules and regulations governing other members of the force as regards promotion and otherwise. The superintendent of buildings shall be entitled to all the benefits and privileges extended to each member of the force with regard to a pension, and shall not be removed or dismissed except in the manner prescribed for other members of the force. His or her time served as superintendent of buildings shall count as time served in such force for pension purposes.
 
    b.   Such superintendent, under the direction of the commissioner, shall have supervision over the maintenance of all department buildings, and supervision over the mechanical force of the police department.
 
@@ -93,7 +93,7 @@ Chapter 1: Police Department
 § 14-106 Special patrolmen; when may be appointed.  ::
 
 
-	a.   The commissioner, upon an emergency or apprehension of riot, tumult, mob, insurrection, pestilence or invasion, may appoint as many special patrolmen without pay from among the citizens as he or she may deem desirable.
+a.   The commissioner, upon an emergency or apprehension of riot, tumult, mob, insurrection, pestilence or invasion, may appoint as many special patrolmen without pay from among the citizens as he or she may deem desirable.
 
    b.   Special patrolmen, appointed in pursuance of law while acting as such special patrolmen shall possess the powers, perform the duties, and be subject to the orders, rules and regulations of the department in the same manner as regular members of the force. Every such special patrolman shall wear a badge, to be prescribed and furnished by the commissioner.
 
@@ -111,7 +111,7 @@ Chapter 1: Police Department
 § 14-107 Unlawful use of police uniform or emblem.  ::
 
 
-	It shall be unlawful for any person not a member of the police force to represent himself or herself falsely as being such a member with a fraudulent design upon persons or property, or to have, use, wear or display without specific authority from the commissioner any uniform, shield, buttons, wreaths, numbers or other insignia or emblem in any way resembling that worn by members of the police force. A violation of this section shall constitute a misdemeanor punishable by a fine of not more than one hundred dollars or by imprisonment for not more than sixty days, or both.
+It shall be unlawful for any person not a member of the police force to represent himself or herself falsely as being such a member with a fraudulent design upon persons or property, or to have, use, wear or display without specific authority from the commissioner any uniform, shield, buttons, wreaths, numbers or other insignia or emblem in any way resembling that worn by members of the police force. A violation of this section shall constitute a misdemeanor punishable by a fine of not more than one hundred dollars or by imprisonment for not more than sixty days, or both.
 
 
 
@@ -119,7 +119,7 @@ Chapter 1: Police Department
 § 14-108 Unlawful use or possession of official police cards.  ::
 
 
-	Any person who without permission of the commissioner:
+Any person who without permission of the commissioner:
 
    1.   makes or engraves, or causes or procures to be made or engraved, or willingly aids or assists in making or engraving, a plate or other means of reproducing or printing the resemblance or similitude of an official department identification card, working press card, emergency repair service card, press photographer's vehicle card, newsreel camera vehicle card, emergency service card or any other official card issued by the department; or
 
@@ -139,7 +139,7 @@ Chapter 1: Police Department
 § 14-109 Qualifications of members of force; publishing names and residence of applicants and appointees; probation.  ::
 
 
-	a.   Only persons shall be appointed or reappointed to membership in the police force or continue to hold membership therein, who are citizens of the United States and who have never been convicted of a felony, and who can read and write understandably the English language. Skilled officers of experience may be appointed for temporary detective duty who are not residents of the city. Only persons shall be appointed police officers who shall be at the date of the filing of an application for civil service examination less than thirty-five years of age, except, that every person who, as of the fifteenth day of April 1997, satisfied all other requirements for admission to the New York city police department academy shall be admitted to such academy and shall be eligible for appointment as a police officer, subject to the provisions of the civil service law and any applicable provisions of the charter, notwithstanding that such person was thirty-five years of age or older on the fifteenth day of April 1997. Persons who shall have been members of the force, and shall have been dismissed therefrom, shall not be reappointed. Persons who are appointed as police trainees, after examination in accordance with the civil service law and the rules of the commissioner of citywide administrative services and who have satisfactorily completed service as such trainees, may likewise be appointed as police officers without further written examination, provided that they shall have passed a medical examination at the end of their required trainee period. Persons appointed as police trainees shall not be considered members of the uniformed force of the department.
+a.   Only persons shall be appointed or reappointed to membership in the police force or continue to hold membership therein, who are citizens of the United States and who have never been convicted of a felony, and who can read and write understandably the English language. Skilled officers of experience may be appointed for temporary detective duty who are not residents of the city. Only persons shall be appointed police officers who shall be at the date of the filing of an application for civil service examination less than thirty-five years of age, except, that every person who, as of the fifteenth day of April 1997, satisfied all other requirements for admission to the New York city police department academy shall be admitted to such academy and shall be eligible for appointment as a police officer, subject to the provisions of the civil service law and any applicable provisions of the charter, notwithstanding that such person was thirty-five years of age or older on the fifteenth day of April 1997. Persons who shall have been members of the force, and shall have been dismissed therefrom, shall not be reappointed. Persons who are appointed as police trainees, after examination in accordance with the civil service law and the rules of the commissioner of citywide administrative services and who have satisfactorily completed service as such trainees, may likewise be appointed as police officers without further written examination, provided that they shall have passed a medical examination at the end of their required trainee period. Persons appointed as police trainees shall not be considered members of the uniformed force of the department.
 
    b.   Preliminary to a permanent appointment as police officer there shall be a period of probation for such time as is fixed by the civil service rules, and permanent appointments shall only be made after the required probationary period has been served, but the service during probation shall be deemed to be service in the uniformed force, if succeeded by a permanent appointment, and as such shall be included and counted in determining eligibility for advancement, promotion, retirement and pension.
 
@@ -149,7 +149,7 @@ Chapter 1: Police Department
 § 14-110 Warrant of appointment; oath.  ::
 
 
-	a.   Every member of the force shall have issued to him or her by the department, a proper warrant of appointment, signed by the commissioner and chief clerk or first deputy clerk of the department or of the commissioner, which warrant shall contain the date of appointment and rank.
+a.   Every member of the force shall have issued to him or her by the department, a proper warrant of appointment, signed by the commissioner and chief clerk or first deputy clerk of the department or of the commissioner, which warrant shall contain the date of appointment and rank.
 
    b.   Each member of the force shall, before entering upon the duties of his or her office, take an oath of office and subscribe the same before any officer of the department who is empowered to administer an oath.
 
@@ -159,7 +159,7 @@ Chapter 1: Police Department
 § 14-111 Salaries of first grade police officers.  ::
 
 
-	a.   There shall be paid a minimum of three thousand dollars to all police officers of the first grade.
+a.   There shall be paid a minimum of three thousand dollars to all police officers of the first grade.
 
    b.   Such pay or compensation shall be paid bi-weekly to each person entitled thereto, subject to such deductions for or on account of lost time, sickness, disability, absence, fines or forfeitures, as the commissioner may by rules and regulations, from time to time, prescribe or adopt.
 
@@ -169,7 +169,7 @@ Chapter 1: Police Department
 § 14-112 Computation of compensation of members of the department after service in the fire department.  ::
 
 
-	a.   Any member of the police force in the department who prior to his or her appointment or employment as such, has served or shall have served, as a member of the uniformed force of the fire department, after appointment therein pursuant to the rules of the commissioner of citywide administrative services and the provisions of law applicable thereto, shall have the time served by him or her in such fire department counted as service in the department in determining his or her compensation, promotion, retirement and pension in such department as herein or otherwise provided, upon condition that he or she shall contribute to the police relief or pension fund a sum equal to the amount which he or she would have been required to contribute had the time served in the fire department been served in the department.
+a.   Any member of the police force in the department who prior to his or her appointment or employment as such, has served or shall have served, as a member of the uniformed force of the fire department, after appointment therein pursuant to the rules of the commissioner of citywide administrative services and the provisions of law applicable thereto, shall have the time served by him or her in such fire department counted as service in the department in determining his or her compensation, promotion, retirement and pension in such department as herein or otherwise provided, upon condition that he or she shall contribute to the police relief or pension fund a sum equal to the amount which he or she would have been required to contribute had the time served in the fire department been served in the department.
 
    b.   Within one year after the police pension fund shall request a transfer of reserves with respect to any such person who becomes a member of the police pension fund on or after July first, nineteen hundred ninety-eight, who performed such prior service in the uniformed force of the fire department, and who has qualified for benefits under this section, the fire department pension fund shall transfer to the contingent reserve fund of the police pension fund the reserve on the benefits of such member which is based on the contributions made by the employer (including the reserve-for-increased-take-home-pay). Such reserve shall be determined by the actuary of the fire department pension fund in the same manner as provided in section forty-three of the retirement and social security law. No such transfer of reserves pursuant to this subdivision shall be made with respect to any person who became a member of the police force in the department prior to July first, nineteen hundred ninety-eight.
 
@@ -179,7 +179,7 @@ Chapter 1: Police Department
 § 14-113 Computation of compensation of members of the department restored to duty after service in the fire department.  ::
 
 
-	The time served by a member of the uniformed force of the department, who was appointed pursuant to the rules of the commissioner of citywide administrative services and the provisions of law applicable thereto and thereafter resigned after serving as such, to accept a position in the fire department and is thereafter restored to his or her former position as a member of the department, in accordance with the rules of such commissioner and the provisions of law applicable thereto, in both departments, shall be included and counted as service in the department, in determining his or her compensation, promotion, retirement and pension as herein or otherwise provided. Any such person shall be entitled to participate in the benefits of the police pension fund if he or she shall have contributed to such pension fund a sum equal to that which he or she would have been required to contribute had he or she remained a member of the uniformed force of the department from the date of his or her entry into the service of the department.
+The time served by a member of the uniformed force of the department, who was appointed pursuant to the rules of the commissioner of citywide administrative services and the provisions of law applicable thereto and thereafter resigned after serving as such, to accept a position in the fire department and is thereafter restored to his or her former position as a member of the department, in accordance with the rules of such commissioner and the provisions of law applicable thereto, in both departments, shall be included and counted as service in the department, in determining his or her compensation, promotion, retirement and pension as herein or otherwise provided. Any such person shall be entitled to participate in the benefits of the police pension fund if he or she shall have contributed to such pension fund a sum equal to that which he or she would have been required to contribute had he or she remained a member of the uniformed force of the department from the date of his or her entry into the service of the department.
 
 
 
@@ -187,7 +187,7 @@ Chapter 1: Police Department
 § 14-114 Promotions.  ::
 
 
-	a.   Promotions of officers and members of the force shall be made by the commissioner, as provided in section eight hundred seventeen of the charter, on the basis of seniority, meritorious service and superior capacity, as shown by competitive examination, but a detail to act as inspector, or to service in the detective bureau, as hereinafter provided, shall not be deemed a promotion. Individual acts of personal bravery or honorable service in the United States army, navy, marine corps or army nurse corps in times of war may be treated as an element of meritorious service in such examination, the relative rating therefor to be fixed by the commissioner of citywide administrative services. The police commissioner shall transmit to the commissioner of citywide administrative services in advance of such examination the complete record of each candidate for promotion.
+a.   Promotions of officers and members of the force shall be made by the commissioner, as provided in section eight hundred seventeen of the charter, on the basis of seniority, meritorious service and superior capacity, as shown by competitive examination, but a detail to act as inspector, or to service in the detective bureau, as hereinafter provided, shall not be deemed a promotion. Individual acts of personal bravery or honorable service in the United States army, navy, marine corps or army nurse corps in times of war may be treated as an element of meritorious service in such examination, the relative rating therefor to be fixed by the commissioner of citywide administrative services. The police commissioner shall transmit to the commissioner of citywide administrative services in advance of such examination the complete record of each candidate for promotion.
 
    b.   Sergeants shall be selected from among police officers of the first grade. Lieutenants shall be selected from among sergeants who shall have served at least one year continuously as such. Captains shall be selected from among lieutenants who shall have served at least one year as lieutenants.
 
@@ -201,7 +201,7 @@ Chapter 1: Police Department
 § 14-115 Discipline of members.  ::
 
 
-	a.   The commissioner shall have power, in his or her discretion, on conviction by the commissioner, or by any court or officer of competent jurisdiction, of a member of the force of any criminal offense, or neglect of duty, violation of rules, or neglect or disobedience of orders, or absence without leave, or any conduct injurious to the public peace or welfare, or immoral conduct or conduct unbecoming an officer, or any breach of discipline, to punish the offending party by reprimand, forfeiting and withholding pay for a specified time, suspension, without pay during such suspension, or by dismissal from the force; but no more than thirty days' salary shall be forfeited or deducted for any offense. All such forfeitures shall be paid forthwith into the police pension fund.
+a.   The commissioner shall have power, in his or her discretion, on conviction by the commissioner, or by any court or officer of competent jurisdiction, of a member of the force of any criminal offense, or neglect of duty, violation of rules, or neglect or disobedience of orders, or absence without leave, or any conduct injurious to the public peace or welfare, or immoral conduct or conduct unbecoming an officer, or any breach of discipline, to punish the offending party by reprimand, forfeiting and withholding pay for a specified time, suspension, without pay during such suspension, or by dismissal from the force; but no more than thirty days' salary shall be forfeited or deducted for any offense. All such forfeitures shall be paid forthwith into the police pension fund.
 
    b.   Members of the force, except as elsewhere provided herein, shall be fined, reprimanded, removed, suspended or dismissed from the force only on written charges made or preferred against them, after such charges have been examined, heard and investigated by the commissioner or one of his or her deputies upon such reasonable notice to the member or members charged, and in such manner or procedure, practice, examination and investigation as such commissioner may, by rules and regulations, from time to time prescribe.
 
@@ -215,7 +215,7 @@ Chapter 1: Police Department
 § 14-116 Limitations of suits.  ::
 
 
-	a.   Actions or proceedings, either at law or in equity, shall be commenced or maintained against the police department, or any member thereof, or against the commissioner, or against the mayor, or against the city by any member or officer, or former member or officer of the force or department to recover or compel the payment of any salary, pay, money or compensation for or on account of any service or duty, or to recover any salary, compensation or moneys, or any part thereof forfeited, deducted or withheld for any cause, only if such action, suit or proceedings shall be commenced within two years after the cause of action shall have accrued.
+a.   Actions or proceedings, either at law or in equity, shall be commenced or maintained against the police department, or any member thereof, or against the commissioner, or against the mayor, or against the city by any member or officer, or former member or officer of the force or department to recover or compel the payment of any salary, pay, money or compensation for or on account of any service or duty, or to recover any salary, compensation or moneys, or any part thereof forfeited, deducted or withheld for any cause, only if such action, suit or proceedings shall be commenced within two years after the cause of action shall have accrued.
 
    b.   A proceeding may be brought to procure the restoration or reinstatement to the force or department of any member or officer thereof, if such proceeding be instituted within four months after the decision or order sought to be reviewed. Such proceeding when so brought shall be placed upon the calendar by the party instituting the same for hearing by a term of the court not later than the second term after the filing of the answer or return and of service of notice of such filing upon the party instituting the proceeding. In the event of the failure of the party instituting the proceeding to place it upon the calendar, then such proceeding shall be dismissed for want of prosecution upon application therefor by the corporation counsel, unless the court for good and sufficient cause shall otherwise order.
 
@@ -225,7 +225,7 @@ Chapter 1: Police Department
 § 14-117 Assignment to police duty.  ::
 
 
-	Only officers and members of the police force shall be assigned to police duty.
+Only officers and members of the police force shall be assigned to police duty.
 
 
 
@@ -233,7 +233,7 @@ Chapter 1: Police Department
 § 14-118 School crossing guards.  ::
 
 
-	a.   Notwithstanding the provisions of section 14-117 of this title, the commissioner may employ persons to be known as school crossing guards, for such periods of time as in his or her discretion the commissioner deems advisable. Such school crossing guards shall be empowered to direct pedestrian and vehicular traffic at locations to which they may be assigned, and shall perform such other related duties as may be prescribed by the commissioner.
+a.   Notwithstanding the provisions of section 14-117 of this title, the commissioner may employ persons to be known as school crossing guards, for such periods of time as in his or her discretion the commissioner deems advisable. Such school crossing guards shall be empowered to direct pedestrian and vehicular traffic at locations to which they may be assigned, and shall perform such other related duties as may be prescribed by the commissioner.
 
    b.   Nothing contained herein shall be construed to constitute such school crossing guards members of the police force, or to entitle them to the privileges and benefits of the members of the police force, or to become members of the police pension fund.
 
@@ -245,7 +245,7 @@ Chapter 1: Police Department
 § 14-118.1 Voluntary fingerprinting of school children.  ::
 
 
-	a.   The commissioner shall, in cooperation with the board of education, local school boards and private schools, institute a program to train persons designated by the appropriate school authority to administer the voluntary fingerprinting of New York city public and private school students in grades kindergarten through twelve and such persons to be trained shall not be police or police auxiliary personnel.
+a.   The commissioner shall, in cooperation with the board of education, local school boards and private schools, institute a program to train persons designated by the appropriate school authority to administer the voluntary fingerprinting of New York city public and private school students in grades kindergarten through twelve and such persons to be trained shall not be police or police auxiliary personnel.
 
    b.   The program shall provide resources so that every school may offer the parents or legal guardians of a child the opportunity to have the child fingerprinted at school.
 
@@ -259,7 +259,7 @@ Chapter 1: Police Department
 § 14-118.2 Traffic and parking enforcement by employees not police officers.  ::
 
 
-	a.   Notwithstanding any other provision of law, the commissioner may employ persons who shall not be police officers to engage in the performance of duties involving the enforcement of laws and regulations relating to (1) the parking of vehicles and (2) the regulating, directing, controlling and restricting of the movement of vehicular and pedestrian traffic, both such duties in furtherance of the facilitation of traffic, the convenience of the public and the proper protection of human life and health.
+a.   Notwithstanding any other provision of law, the commissioner may employ persons who shall not be police officers to engage in the performance of duties involving the enforcement of laws and regulations relating to (1) the parking of vehicles and (2) the regulating, directing, controlling and restricting of the movement of vehicular and pedestrian traffic, both such duties in furtherance of the facilitation of traffic, the convenience of the public and the proper protection of human life and health.
 
    b.   Nothing contained herein shall be construed to entitle such employees to the privileges and benefits of police officers, or to become members of the police pension fund.
 
@@ -269,7 +269,7 @@ Chapter 1: Police Department
 § 14-119 Department to cooperate with department of health and mental hygiene.  ::
 
 
-	a.   It shall be the duty of the department, and of its officers and members of the force, as the commissioner shall direct, to promptly advise the department of health and mental hygiene of all threatened danger to human life and health, and of all matters thought to demand its attention, and to regularly report to the department of health and mental hygiene all violations of its rules and ordinances, and of the health laws, and all useful sanitary information.
+a.   It shall be the duty of the department, and of its officers and members of the force, as the commissioner shall direct, to promptly advise the department of health and mental hygiene of all threatened danger to human life and health, and of all matters thought to demand its attention, and to regularly report to the department of health and mental hygiene all violations of its rules and ordinances, and of the health laws, and all useful sanitary information.
 
    b.   It shall be the duty of the department, by and through its proper officers, members and agents, to faithfully and at the proper time enforce and execute the sanitary rules and regulations, and the orders of the department of health and mental hygiene, made pursuant to the power of the department of health and mental hygiene, upon the same being received in writing and duly authenticated.
 
@@ -283,7 +283,7 @@ Chapter 1: Police Department
 § 14-120 Detail of officers to assist department of health and mental hygiene.  ::
 
 
-	The commissioner, upon the requisition of the department of health and mental hygiene, shall detail suitable officers to the service of such department of health and mental hygiene for the purpose of the enforcement of the provisions of the health code, and of the acts relating to multiple dwellings. Such officers shall belong to the sanitary company of police, and shall report to the department of health and mental hygiene. The department of health and mental hygiene may report back to the department for punishment any member of such company guilty of any breach of order or discipline or of neglecting his or her duty. Thereupon the commissioner shall detail another officer in his or her place. The discipline of such members of the sanitary company shall be in the jurisdiction of the department, but at any time the department of health and mental hygiene may object to any member of such company on the ground of inefficiency.
+The commissioner, upon the requisition of the department of health and mental hygiene, shall detail suitable officers to the service of such department of health and mental hygiene for the purpose of the enforcement of the provisions of the health code, and of the acts relating to multiple dwellings. Such officers shall belong to the sanitary company of police, and shall report to the department of health and mental hygiene. The department of health and mental hygiene may report back to the department for punishment any member of such company guilty of any breach of order or discipline or of neglecting his or her duty. Thereupon the commissioner shall detail another officer in his or her place. The discipline of such members of the sanitary company shall be in the jurisdiction of the department, but at any time the department of health and mental hygiene may object to any member of such company on the ground of inefficiency.
 
 
 
@@ -291,7 +291,7 @@ Chapter 1: Police Department
 § 14-121 Details to special duty.  ::
 
 
-	A transfer, detail or assignment to special duty of any member of the force, except in cases authorized or required by law, shall not hereafter be made or continued, except for police purposes and in the interests of police service. The commissioner, however, whenever the exigencies of the case require it, may make a detail to special duty for a period not exceeding three days, at the expiration of which the member or members so detailed shall report for duty to the officer of the command from which the detail was made.
+A transfer, detail or assignment to special duty of any member of the force, except in cases authorized or required by law, shall not hereafter be made or continued, except for police purposes and in the interests of police service. The commissioner, however, whenever the exigencies of the case require it, may make a detail to special duty for a period not exceeding three days, at the expiration of which the member or members so detailed shall report for duty to the officer of the command from which the detail was made.
 
 
 
@@ -299,7 +299,7 @@ Chapter 1: Police Department
 § 14-122 Relief from active duty due to disability.  ::
 
 
-	The commissioner shall have power to relieve from active duty on patrol any member of the police force, who, while in the actual performance of duty and without fault or misconduct on his or her part, shall have become disabled, physically, as a result of injuries or illness attributable thereto, so as to be unfit to perform full police duty, such disability having been certified to by so many of the police surgeons as the commissioner may require. Such member may be assigned to the performance of such light duties as he or she may be qualified to perform.
+The commissioner shall have power to relieve from active duty on patrol any member of the police force, who, while in the actual performance of duty and without fault or misconduct on his or her part, shall have become disabled, physically, as a result of injuries or illness attributable thereto, so as to be unfit to perform full police duty, such disability having been certified to by so many of the police surgeons as the commissioner may require. Such member may be assigned to the performance of such light duties as he or she may be qualified to perform.
 
 
 
@@ -307,7 +307,7 @@ Chapter 1: Police Department
 § 14-122.1 Receipt of line of duty pay.  ::
 
 
-	a.   A member of the force in the rank of police officer, other than an officer who is detailed or designated as a detective or who holds the position of sergeant or any position of higher rank in such force, shall be entitled pursuant to this section to the full amount of his or her regular salary for the period of any incapacity due to illness or injury incurred in the performance and discharge of duty as a member of the force, as determined by the department.
+a.   A member of the force in the rank of police officer, other than an officer who is detailed or designated as a detective or who holds the position of sergeant or any position of higher rank in such force, shall be entitled pursuant to this section to the full amount of his or her regular salary for the period of any incapacity due to illness or injury incurred in the performance and discharge of duty as a member of the force, as determined by the department.
 
    b.   A member of the force who is detailed or designated as a detective or who holds the position of sergeant or any position of higher rank in such force shall be entitled pursuant to this section to the full amount of his or her regular salary for the period of any incapacity due to illness or injury incurred in the performance and discharge of duty as a member of the force, as determined by the department, only in the event that a collective bargaining agreement granting such entitlement pursuant to this section has been made by the city and the certified employee organization representing such member. The first entitlement of any such member of the force to the full amount of regular salary under this section shall commence on the date of execution of the collective bargaining agreement providing for such entitlement with respect to such member.
 
@@ -325,7 +325,7 @@ Chapter 1: Police Department
 § 14-123 Suspension of members of force.  ::
 
 
-	The commissioner shall have power to suspend, without pay, pending the trial of charges, any member of the force. If any member so suspended shall not be convicted by the commissioner of the charges so preferred, he or she shall be entitled to full pay from the date of suspension, notwithstanding such charges and suspension.
+The commissioner shall have power to suspend, without pay, pending the trial of charges, any member of the force. If any member so suspended shall not be convicted by the commissioner of the charges so preferred, he or she shall be entitled to full pay from the date of suspension, notwithstanding such charges and suspension.
 
 
 
@@ -333,7 +333,7 @@ Chapter 1: Police Department
 § 14-124 Termination of service of members of force because of superannuation.  ::
 
 
-	No member of the police force in the department, except surgeons of police, a roentgenologist and a veterinarian, who is or hereafter attains the age of sixty-three years shall continue to serve as a member of such force but shall be retired and placed on the pension rolls of the department, provided, however, that any member who is not eligible for retirement at age sixty-three shall continue to serve as a member only until such time as he or she becomes eligible for such pension service retirement, provided further that any member participating in the social security program may elect to remain in the department but only until such time as he or she has earned the minimum number of quarters of coverage required to assure future eligibility for social security retirement benefits, but in no event beyond sixty-five years of age. Notwithstanding the provisions of this section or of any other section of law, any member who shall not have completed thirty-five years of creditable city service within the meaning of subdivision j of section 13-206, prior to attaining the age of sixty-three years may continue to serve as a member until he or she shall have completed such thirty-five years of creditable city service.
+No member of the police force in the department, except surgeons of police, a roentgenologist and a veterinarian, who is or hereafter attains the age of sixty-three years shall continue to serve as a member of such force but shall be retired and placed on the pension rolls of the department, provided, however, that any member who is not eligible for retirement at age sixty-three shall continue to serve as a member only until such time as he or she becomes eligible for such pension service retirement, provided further that any member participating in the social security program may elect to remain in the department but only until such time as he or she has earned the minimum number of quarters of coverage required to assure future eligibility for social security retirement benefits, but in no event beyond sixty-five years of age. Notwithstanding the provisions of this section or of any other section of law, any member who shall not have completed thirty-five years of creditable city service within the meaning of subdivision j of section 13-206, prior to attaining the age of sixty-three years may continue to serve as a member until he or she shall have completed such thirty-five years of creditable city service.
 
 
 
@@ -341,7 +341,7 @@ Chapter 1: Police Department
 § 14-125 Rehearing of charges; reinstatement of members of department.  ::
 
 
-	a.   Upon written application to the mayor by the person aggrieved, setting forth the reasons for demanding such rehearing, the commissioner may rehear the charges upon which a member or a probationary member of the uniformed force has been dismissed, or reduced from the rank theretofore held by him or her. Such person or persons shall be required to waive in writing all claim against the city for back pay and shall obtain from the mayor his or her consent to such rehearing, such consent to be in writing and to state the reasons why such charges should be reheard.
+a.   Upon written application to the mayor by the person aggrieved, setting forth the reasons for demanding such rehearing, the commissioner may rehear the charges upon which a member or a probationary member of the uniformed force has been dismissed, or reduced from the rank theretofore held by him or her. Such person or persons shall be required to waive in writing all claim against the city for back pay and shall obtain from the mayor his or her consent to such rehearing, such consent to be in writing and to state the reasons why such charges should be reheard.
 
    b.   Such application for a rehearing shall be made within one year from the date of the removal or reduction in rank.
 
@@ -357,7 +357,7 @@ Chapter 1: Police Department
 § 14-126 Resignations, absence on leave.  ::
 
 
-	a.   A member of the force, under penalty of forfeiting the salary which may be due such member, shall not withdraw or resign, except by permission of the commissioner.
+a.   A member of the force, under penalty of forfeiting the salary which may be due such member, shall not withdraw or resign, except by permission of the commissioner.
 
    b.   Absence, without leave, of any member of the force for five consecutive days shall be deemed and held to be a resignation, and the member so absent shall, at the expiration of such period cease to be a member of the force and be dismissed therefrom without notice.
 
@@ -369,7 +369,7 @@ Chapter 1: Police Department
 § 14-127 Contingent expenses of department, bond of commissioner.  ::
 
 
-	a.   The commissioner of finance shall from time to time pay over and advance to the commissioner such portions of the appropriation made to the department for contingent expenses, not exceeding one hundred fifty thousand dollars at any one time, for which requisition may be made by such commissioner. The commissioner shall transmit to the department of finance the original vouchers for the payment of all sums of money disbursed by such commissioner on account of such contingent expenses, and no greater sum than one hundred fifty thousand dollars in excess of the amount duly accounted for by such vouchers shall be advanced to the commissioner at any one time.
+a.   The commissioner of finance shall from time to time pay over and advance to the commissioner such portions of the appropriation made to the department for contingent expenses, not exceeding one hundred fifty thousand dollars at any one time, for which requisition may be made by such commissioner. The commissioner shall transmit to the department of finance the original vouchers for the payment of all sums of money disbursed by such commissioner on account of such contingent expenses, and no greater sum than one hundred fifty thousand dollars in excess of the amount duly accounted for by such vouchers shall be advanced to the commissioner at any one time.
 
    b.   The commissioner shall give a bond of one hundred fifty thousand dollars, with two sufficient sureties, to be approved by the comptroller, for the faithful performance of the duties imposed and privileges conferred upon such commissioner by this section.
 
@@ -379,7 +379,7 @@ Chapter 1: Police Department
 § 14-128 Three platoon system; traffic squad not affected by.  ::
 
 
-	The three platoon system shall not apply to or govern the hours or tours of duty of sergeants or police officers of the city of New York, who may from time to time be detailed or assigned to what is known and designated as the traffic squad, provided, nevertheless, that the total number of members of the police force or department of such city, so detailed or assigned to such traffic squad, shall not at any time exceed in the aggregate one-third of the entire police force or department.
+The three platoon system shall not apply to or govern the hours or tours of duty of sergeants or police officers of the city of New York, who may from time to time be detailed or assigned to what is known and designated as the traffic squad, provided, nevertheless, that the total number of members of the police force or department of such city, so detailed or assigned to such traffic squad, shall not at any time exceed in the aggregate one-third of the entire police force or department.
 
 
 
@@ -387,7 +387,7 @@ Chapter 1: Police Department
 § 14-129 Commissioner; to fix boundaries of precincts; to furnish station houses.  ::
 
 
-	a.   The number and boundaries of the precincts shall be fixed by the commissioner. The commissioner shall, from time to time, with the approval of the mayor, within the appropriation provided therefor, establish, provide and furnish stations and station houses, or substations and substation houses, at least one to each precinct, for the accommodation thereat of members of the force, and as places of temporary detention for persons arrested and property taken within the precinct. However, the commissioner shall provide written notice with supporting documentation at least forty-five days prior to the permanent closing, removal or relocation of any permanent station, station house, substation or substation house to the council members, community boards and borough presidents whose districts are served by such facility and the chairperson of the council's public safety committee. For purposes of this section, the term "permanent" shall mean a time period in excess of six months. In the event that the permanent closing of any stations and station houses, or substations and substation houses does not occur within four months of the date of the written notice, the commissioner shall issue another written notice with supporting documentation prior to such permanent closing. The four months during which the written notice is effective shall be tolled for any period in which a restraining order or injunction prohibiting the closing of such noticed facility shall be in effect.
+a.   The number and boundaries of the precincts shall be fixed by the commissioner. The commissioner shall, from time to time, with the approval of the mayor, within the appropriation provided therefor, establish, provide and furnish stations and station houses, or substations and substation houses, at least one to each precinct, for the accommodation thereat of members of the force, and as places of temporary detention for persons arrested and property taken within the precinct. However, the commissioner shall provide written notice with supporting documentation at least forty-five days prior to the permanent closing, removal or relocation of any permanent station, station house, substation or substation house to the council members, community boards and borough presidents whose districts are served by such facility and the chairperson of the council's public safety committee. For purposes of this section, the term "permanent" shall mean a time period in excess of six months. In the event that the permanent closing of any stations and station houses, or substations and substation houses does not occur within four months of the date of the written notice, the commissioner shall issue another written notice with supporting documentation prior to such permanent closing. The four months during which the written notice is effective shall be tolled for any period in which a restraining order or injunction prohibiting the closing of such noticed facility shall be in effect.
 
    b.   A sufficient sum of money shall be appropriated annually for the purpose of furnishing horses, automotive equipment and apparatus connected therewith, and the maintenance thereof, and for the other purposes authorized by this section.
 
@@ -397,7 +397,7 @@ Chapter 1: Police Department
 § 14-130 Returns of arrests; accused to be taken before judge of the criminal court.  ::
 
 
-	a.   Every arrest made by any member of the force shall be made known immediately to the superior on duty in the precinct wherein the arrest was made, by the person making the same. It shall be the duty of such superior, to make written return of such arrest within twenty-four hours, according to the rules and regulations of the department, with the name of the party arrested, the alleged offense, the time and place of arrest, and the place of detention.
+a.   Every arrest made by any member of the force shall be made known immediately to the superior on duty in the precinct wherein the arrest was made, by the person making the same. It shall be the duty of such superior, to make written return of such arrest within twenty-four hours, according to the rules and regulations of the department, with the name of the party arrested, the alleged offense, the time and place of arrest, and the place of detention.
 
    b.   Each member of the force, under the penalty of ten days' fine, or dismissal from the force, at the discretion of the commissioner, immediately upon an arrest, shall convey in person the offender before the nearest sitting judge of the criminal court, that he or she may be dealt with according to law. If the arrest is made during the hours that the judge of the criminal court does not regularly hold court, or if the judge of the criminal court is not holding court, such offender may be detained in a precinct or station house thereof, until the next regular public sitting of the judge of the criminal court, and no longer, and shall then be conveyed without delay before the judge of the criminal court to be dealt with according to law.
 
@@ -407,7 +407,7 @@ Chapter 1: Police Department
 § 14-131 Accommodations for women.  ::
 
 
-	The commissioner shall designate one or more station houses for the detention and confinement of women under arrest in the city. The commissioner shall provide sufficient accommodations for women held under arrest, keep them separate and apart from the cells, corridors and apartments provided for males under arrest, and so arrange each station house that no communication can be had between men and women therein confined, except with the consent of the officer in command of such station house. Officers or employees other than female staff assigned to this detail, shall be admitted to the corridors or cells of the women prisoners only with the consent of the officer in command of such station house. In every station house to which female members of the force or other female staff are detailed, toilet accommodations shall be provided for female staff, which accommodations shall be wholly separate and apart from the toilet accommodations provided for prisoners, or for male personnel attached to such station house.
+The commissioner shall designate one or more station houses for the detention and confinement of women under arrest in the city. The commissioner shall provide sufficient accommodations for women held under arrest, keep them separate and apart from the cells, corridors and apartments provided for males under arrest, and so arrange each station house that no communication can be had between men and women therein confined, except with the consent of the officer in command of such station house. Officers or employees other than female staff assigned to this detail, shall be admitted to the corridors or cells of the women prisoners only with the consent of the officer in command of such station house. In every station house to which female members of the force or other female staff are detailed, toilet accommodations shall be provided for female staff, which accommodations shall be wholly separate and apart from the toilet accommodations provided for prisoners, or for male personnel attached to such station house.
 
 
 
@@ -415,7 +415,7 @@ Chapter 1: Police Department
 § 14-132 Proceedings where woman is arrested.  ::
 
 
-	Whenever a woman is arrested and taken to a police station, it shall be the duty of the officer in command of the station to cause a female staff member assigned to this detail to be summoned forthwith, and whenever a woman is arrested in any precinct in which no such female staff member is assigned, she shall be taken directly to the station house designated to receive the women prisoners of the precinct in which the arrest is made. Such separate confinement, or any such removal of any woman, shall not operate to take from any court any jurisdiction which it would have had. The term "woman" as used in this section and section 14-131 of this title shall not include any female either actually or apparently under the age of sixteen years whose care is assumed by any incorporated society for the prevention of cruelty to children; but every such female detainee under the age of sixteen shall be taken directly to a station house designated to receive women prisoners and shall be at once transferred therefrom by the officer in charge, to the custody of such society.
+Whenever a woman is arrested and taken to a police station, it shall be the duty of the officer in command of the station to cause a female staff member assigned to this detail to be summoned forthwith, and whenever a woman is arrested in any precinct in which no such female staff member is assigned, she shall be taken directly to the station house designated to receive the women prisoners of the precinct in which the arrest is made. Such separate confinement, or any such removal of any woman, shall not operate to take from any court any jurisdiction which it would have had. The term "woman" as used in this section and section 14-131 of this title shall not include any female either actually or apparently under the age of sixteen years whose care is assumed by any incorporated society for the prevention of cruelty to children; but every such female detainee under the age of sixteen shall be taken directly to a station house designated to receive women prisoners and shall be at once transferred therefrom by the officer in charge, to the custody of such society.
 
 
 
@@ -423,7 +423,7 @@ Chapter 1: Police Department
 § 14-133 Use of boats.  ::
 
 
-	In any precinct or precincts, comprising waters of the harbor, the commissioner may use and procure, through the department of citywide administrative services, such boats as shall be deemed necessary.
+In any precinct or precincts, comprising waters of the harbor, the commissioner may use and procure, through the department of citywide administrative services, such boats as shall be deemed necessary.
 
 
 
@@ -431,7 +431,7 @@ Chapter 1: Police Department
 § 14-134 Civil process.  ::
 
 
-	A police officer while actually on duty shall not be liable to arrest on civil process, or to service of subpoena from civil courts.
+A police officer while actually on duty shall not be liable to arrest on civil process, or to service of subpoena from civil courts.
 
 
 
@@ -439,7 +439,7 @@ Chapter 1: Police Department
 § 14-135 Reimbursement for loss of property by member of force while in performance of duty.  ::
 
 
-	Whenever any member of the uniformed force of the department shall, while in the actual performance of police duty, lose or have destroyed any of his or her personal belongings, satisfactory proof thereof having been shown to the commissioner, such member shall be reimbursed to the extent of the loss sustained, at the expense of the city.
+Whenever any member of the uniformed force of the department shall, while in the actual performance of police duty, lose or have destroyed any of his or her personal belongings, satisfactory proof thereof having been shown to the commissioner, such member shall be reimbursed to the extent of the loss sustained, at the expense of the city.
 
 
 
@@ -447,7 +447,7 @@ Chapter 1: Police Department
 § 14-136 Rewards.  ::
 
 
-	a.   To members of force. The commissioner for meritorious and extraordinary services rendered by any member of the force in due discharge of his or her duty, may permit any member of the force to retain for his or her own benefit any reward or present, or some part thereof, tendered him or her therefor; and it shall be cause for removal from the force for any member thereof to receive any such reward or present without notice thereof to the commissioner. Upon receiving such notice, the commissioner may either order the said member to retain the same, or shall dispose of it for the benefit of the police pension fund.
+a.   To members of force. The commissioner for meritorious and extraordinary services rendered by any member of the force in due discharge of his or her duty, may permit any member of the force to retain for his or her own benefit any reward or present, or some part thereof, tendered him or her therefor; and it shall be cause for removal from the force for any member thereof to receive any such reward or present without notice thereof to the commissioner. Upon receiving such notice, the commissioner may either order the said member to retain the same, or shall dispose of it for the benefit of the police pension fund.
 
    b.   To informers. The commissioner shall have authority to offer rewards to induce any person to give information which shall lead to the detection, arrest and conviction of persons guilty of a felony and to pay such awards to such persons who shall give such information. Such a reward shall be offered only if there be an unexpended appropriation therefor. The city shall make the necessary appropriation for such purpose.
 
@@ -457,7 +457,7 @@ Chapter 1: Police Department
 § 14-137 Subpoenas; administration of oaths.  ::
 
 
-	a.   The commissioner, and his or her deputies shall have the power to issue subpoenas, attested in the name of the commissioner and to exact and compel obedience to any order, subpoena or mandate issued by them and to that end may institute and prosecute any proceedings or action authorized by law in such cases. The commissioner, and his or her deputies may in proper cases issue subpoena duces tecum. The commissioner may devise, make and issue process and forms of proceedings to carry into effect any powers or jurisdiction possessed by him or her.
+a.   The commissioner, and his or her deputies shall have the power to issue subpoenas, attested in the name of the commissioner and to exact and compel obedience to any order, subpoena or mandate issued by them and to that end may institute and prosecute any proceedings or action authorized by law in such cases. The commissioner, and his or her deputies may in proper cases issue subpoena duces tecum. The commissioner may devise, make and issue process and forms of proceedings to carry into effect any powers or jurisdiction possessed by him or her.
 
    b.   The commissioner, each of his or her deputies, the chief clerk, and the first and second deputy clerks of such department and hearing officers of the division of licenses or any superior officer of the rank of sergeant or above specifically designated by the commissioner, are hereby authorized and empowered to administer oaths and affirmations in the usual or appropriate forms, to any person in any matter or proceedings authorized as aforesaid, and in all matters pertaining to the department, or the duties of any officer or other person in matters of or connected with such department and to administer oaths of office which may be taken or required in the administration or affairs of such department, and to take and administer oaths and affirmations, in the usual or appropriate forms in taking any affidavit or disposition which may be necessary or required by law or by order, rule or regulation of the commissioner for or in connection with the official purposes, affairs, powers, duties or proceedings of the department, or of such commissioner or member of the force or any official purpose lawfully authorized by said commissioner.
 
@@ -469,7 +469,7 @@ Chapter 1: Police Department
 § 14-138 Minutes of commissioner; when evidence.  ::
 
 
-	A copy of the minutes of the commissioner or of any part of such minutes, or of any order or resolution of the commissioner, or of the rules and regulations established by him or her when certified by the commissioner or the chief clerk, or first deputy clerk of the department, may be given in evidence upon any trial, investigation, hearing or proceeding in any court, or before any tribunal, commissioner or commissioners, or board, with the same force and effect as the original.
+A copy of the minutes of the commissioner or of any part of such minutes, or of any order or resolution of the commissioner, or of the rules and regulations established by him or her when certified by the commissioner or the chief clerk, or first deputy clerk of the department, may be given in evidence upon any trial, investigation, hearing or proceeding in any court, or before any tribunal, commissioner or commissioners, or board, with the same force and effect as the original.
 
 
 
@@ -477,7 +477,7 @@ Chapter 1: Police Department
 § 14-139 Disposal of horses.  ::
 
 
-	Whenever any horses used in the department shall have become unfit for use therein, the commissioner, instead of causing such horses to be sold at auction, may transfer such horses to the custody of the American Society for the Prevention of Cruelty to Animals, provided such society is willing to accept the custody thereof, to be disposed of in such manner as such society may deem best. If, however, any horse so received into the custody of such society and formerly used in the department shall thereafter be sold by such society, or any profit be derived from its use, the proceeds from such sale or use shall be paid over by such society to the commissioner, for the benefit of the police pension fund.
+Whenever any horses used in the department shall have become unfit for use therein, the commissioner, instead of causing such horses to be sold at auction, may transfer such horses to the custody of the American Society for the Prevention of Cruelty to Animals, provided such society is willing to accept the custody thereof, to be disposed of in such manner as such society may deem best. If, however, any horse so received into the custody of such society and formerly used in the department shall thereafter be sold by such society, or any profit be derived from its use, the proceeds from such sale or use shall be paid over by such society to the commissioner, for the benefit of the police pension fund.
 
 
 
@@ -485,7 +485,7 @@ Chapter 1: Police Department
 § 14-140 Property clerk.  ::
 
 
-	a.   Appointment, duties and security.
+a.   Appointment, duties and security.
 
       1.   The commissioner shall employ a property clerk who shall take charge of all property and money hereinafter described.
 
@@ -541,7 +541,7 @@ Chapter 1: Police Department
 § 14-141 Common law and statutory powers of constables.  ::
 
 
-	The members of the force while on duty in the city and whenever in any other part of this state, shall possess all the common law and statutory powers of constables, except for the service of civil process, and any warrant for search or arrest, issued by any judge of this state, may be executed, in any part thereof, by any member of the force.
+The members of the force while on duty in the city and whenever in any other part of this state, shall possess all the common law and statutory powers of constables, except for the service of civil process, and any warrant for search or arrest, issued by any judge of this state, may be executed, in any part thereof, by any member of the force.
 
 
 
@@ -549,7 +549,7 @@ Chapter 1: Police Department
 § 14-147 Workers' compensation for members of auxiliary police.  ::
 
 
-	a.   As used in this section, the term "member of the auxiliary police" shall mean and include only a volunteer who is a duly enrolled member in good standing of the auxiliary police which the city is authorized to recruit by subdivision five of section twenty-three of the New York state defense emergency act, as enacted by chapter seven hundred eighty-four of the laws of nineteen hundred fifty-one, and who is not within the coverage of the workers' compensation law pursuant to group seventeen of subdivision one of section three of the workers' compensation law.
+a.   As used in this section, the term "member of the auxiliary police" shall mean and include only a volunteer who is a duly enrolled member in good standing of the auxiliary police which the city is authorized to recruit by subdivision five of section twenty-three of the New York state defense emergency act, as enacted by chapter seven hundred eighty-four of the laws of nineteen hundred fifty-one, and who is not within the coverage of the workers' compensation law pursuant to group seventeen of subdivision one of section three of the workers' compensation law.
 
    b.   Pursuant to the authorization contained in group nineteen of subdivision one of section three of the workers' compensation law the coverage of the workers' compensation law is hereby extended to the activities of any member of the auxiliary police during any period which such member is actually engaged in auxiliary police activites duly authorized by regulation or order issued pursuant to the New York state defense emergency act including any such activities as may be prescribed by the commissioner of the city pursuant to such regulation or order, such coverage shall extend to such member of the auxiliary police, but only to the extent that such member is not, as to any such activities, covered by article ten of the workers' compensation law.
 
@@ -559,7 +559,7 @@ Chapter 1: Police Department
 § 14-148 Uniform allowance for members of auxiliary police.  ::
 
 
-	a.   Legislative intent. In the public interest and under the powers granted by the charter to the council to enact legislation for the good and welfare of the citizens of New York, it is the intent of the council by this legislation to attract more men and women to serve as auxiliary police. These men or women are trained by our regular police forces and are similarly uniformed and equipped except that they do not carry guns. The appearance on the streets of many men or women wearing the police uniform, in precincts where auxiliary police are active, has done much to reduce the crime rates in those areas. Auxiliary police serve without pay as civic minded citizens. Their presence in uniform on the streets serves to release regular uniformed police for patrol duty and lessens the neighborhood fear of crime. Auxiliary police patrol in pairs and by radio can summon instant assistance from the regular police should they encounter a situation which they have not been trained to handle. Their presence on the streets makes for good community relations between the citizens and the regular police. It is small repayment for the valuable services they render to provide them with a uniform allowance.
+a.   Legislative intent. In the public interest and under the powers granted by the charter to the council to enact legislation for the good and welfare of the citizens of New York, it is the intent of the council by this legislation to attract more men and women to serve as auxiliary police. These men or women are trained by our regular police forces and are similarly uniformed and equipped except that they do not carry guns. The appearance on the streets of many men or women wearing the police uniform, in precincts where auxiliary police are active, has done much to reduce the crime rates in those areas. Auxiliary police serve without pay as civic minded citizens. Their presence in uniform on the streets serves to release regular uniformed police for patrol duty and lessens the neighborhood fear of crime. Auxiliary police patrol in pairs and by radio can summon instant assistance from the regular police should they encounter a situation which they have not been trained to handle. Their presence on the streets makes for good community relations between the citizens and the regular police. It is small repayment for the valuable services they render to provide them with a uniform allowance.
 
    b.   Allowance. Duly enrolled members in good standing of the auxiliary police, upon successful completion of training, shall receive an initial allowance not to exceed two hundred fifty dollars towards the initial purchase of uniforms and accessories for same, including care and maintenance. The amount of such allowance shall be determined by the police commissioner and shall not exceed the actual costs incurred for such uniforms and accessories including care and maintenance. Such members other than those receiving such initial allowance in the then current or preceding fiscal year, shall be eligible for an allowance towards the purchase of uniforms and accessories for same, including care and maintenance to be awarded to each such member who shall otherwise qualify in accordance with the provisions of this subdivision. The commissioner shall determine the amount of the allowance to be awarded based on but not limited to the member's participation, hours of service, expense incurred in maintaining uniforms and equipment and such other facts deemed pertinent by the commissioner. Payments shall be made for the preceding fiscal year after certification by the commanding officer of the auxiliary forces section to the police commissioner of such facts as the commissioner may deem pertinent to enable him or her to make his or her determination.
 
@@ -571,7 +571,7 @@ Chapter 1: Police Department
 § 14-149 Police 911 operational time analysis report.  ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms shall be defined as follows:
+a.   Definitions. For the purposes of this section, the following terms shall be defined as follows:
 
       (i)   "Call" shall mean a telephone call to the 911 emergency assistance system.
 
@@ -621,7 +621,7 @@ Chapter 1: Police Department
 § 14-150 Police department reporting requirements.  ::
 
 
-	a.   The New York City Police Department shall submit to the city council on a quarterly basis the following materials, data and reports:
+a.   The New York City Police Department shall submit to the city council on a quarterly basis the following materials, data and reports:
 
       1.   All academy, in-service, roll-call and other specialized department training materials and amendments thereto distributed to cadets, recruits, officers and other employees of the department, except where disclosure of such material would reveal nonroutine investigative techniques or confidential information or where disclosure could compromise the safety of the public or police officers or could otherwise compromise law enforcement investigations or operations.
 
@@ -683,7 +683,7 @@ Chapter 1: Police Department
 § 14-151 Bias-based profiling prohibited.  ::
 
 
-	a.   Definitions. As used in this section, the following terms have the following meanings:
+a.   Definitions. As used in this section, the following terms have the following meanings:
 
       1.   "Bias-based profiling" means an act of a member of the force of the police department or other law enforcement officer that relies on actual or perceived race, national origin, color, creed, age, alienage or citizenship status, gender, sexual orientation, disability, or housing status as the determinative factor in initiating law enforcement action against an individual, rather than an individual's behavior or other information or circumstances that links a person or persons to suspected unlawful activity.
 
@@ -741,7 +741,7 @@ Chapter 1: Police Department
 § 14-152 School activity reporting.  ::
 
 
-	a.   Definitions. For purposes of this section, the following terms shall have the following meanings:
+a.   Definitions. For purposes of this section, the following terms shall have the following meanings:
 
       Data. The term "data" means final versions of statistical or factual information in alphanumeric form that can be digitally transmitted or processed.
 
@@ -793,7 +793,7 @@ Chapter 1: Police Department
 § 14-153 Traffic data.  ::
 
 
-	a.   The department shall publish on its website the following traffic-related data: (1) the number of moving violation summonses issued, disaggregated by type of summons; (2) the number of traffic crashes, disaggregated by (i) the type of vehicle or vehicles involved and (ii) the number of motorists and/or injured passengers, bicyclists and pedestrians involved; and (3) the number of traffic-related fatalities and injuries disaggregated by (i) the number of motorists and/or injured passengers, bicyclists and pedestrians involved; and (ii) the apparent human contributing factor or factors involved in the crash, including, but not limited to alcohol, driver inattention/distraction, speeding, failure to yield and use of cell phones or other mobile devices.
+a.   The department shall publish on its website the following traffic-related data: (1) the number of moving violation summonses issued, disaggregated by type of summons; (2) the number of traffic crashes, disaggregated by (i) the type of vehicle or vehicles involved and (ii) the number of motorists and/or injured passengers, bicyclists and pedestrians involved; and (3) the number of traffic-related fatalities and injuries disaggregated by (i) the number of motorists and/or injured passengers, bicyclists and pedestrians involved; and (ii) the apparent human contributing factor or factors involved in the crash, including, but not limited to alcohol, driver inattention/distraction, speeding, failure to yield and use of cell phones or other mobile devices.
 
    b.   The data required pursuant to subdivision a of this section shall be published on the department's website for the whole city and disaggregated by borough and police precinct, and shall be searchable by intersection, except for the data required under paragraph one of subdivision a, which shall be disaggregated by borough and police precinct only. Such data shall be updated at least once every month.
 
@@ -809,7 +809,7 @@ Chapter 1: Police Department
 § 14-154 Persons not to be detained.  ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
+a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
 
       1.   "Civil immigration detainer" shall mean a detainer issued pursuant to 8 CFR § 287.7 or any similar federal request for detention of a person suspected of violating civil immigration law.
 
@@ -883,7 +883,7 @@ Chapter 1: Police Department
 § 14-155 Enforcement criteria. ::
 
 
-	a.   Declaration of legislative findings and intent. The Council has analyzed the application of criminal and civil enforcement in numerous low-level offenses. Based upon this analysis, the Council has identified concerns with the use of criminal enforcement for many of these offenses and has concluded that criminal enforcement of these offenses should be used only in limited circumstances and that, in the absence of such circumstances, civil enforcement should be utilized. Therefore, the Council finds that it would be productive for the Police Department to communicate to its officers and to the public guidance regarding the important determination whether to utilize civil or criminal enforcement in particular instances.
+a.   Declaration of legislative findings and intent. The Council has analyzed the application of criminal and civil enforcement in numerous low-level offenses. Based upon this analysis, the Council has identified concerns with the use of criminal enforcement for many of these offenses and has concluded that criminal enforcement of these offenses should be used only in limited circumstances and that, in the absence of such circumstances, civil enforcement should be utilized. Therefore, the Council finds that it would be productive for the Police Department to communicate to its officers and to the public guidance regarding the important determination whether to utilize civil or criminal enforcement in particular instances.
 
    b.   The department shall provide guidance to its uniformed officers with respect to determining whether to utilize civil enforcement or criminal enforcement, or both, for any individual who commits a specified unlawful act. Such guidance shall be made publicly available. Nothing contained in this subdivision or in the administration or application hereof shall be construed as creating:
 
@@ -899,7 +899,7 @@ Chapter 1: Police Department
 § 14-156 Desk appearance ticket report. ::
 
 
-	a.   The commissioner shall submit to the council and the mayor, and post to the department's website, within 30 days of the beginning of each quarter, a report regarding the use of desk appearance tickets for the previous quarter. This report shall include the guidelines used by the department to determine when desk appearance tickets are used in lieu of a custodial arrest pursuant to subdivision 1 of section 140.20 of the penal law. This report shall also include, for any offense for which a desk appearance ticket may be issued by state law and for which either more than 500 desk appearance tickets were issued or for which more than 500 arrests were made pursuant to subdivision 1 of section 140.20 of the penal law, the rate of the use of arrests and desk appearance tickets for each such offense. This report shall also include the number of desk appearance tickets issued, in total and disaggregated as follows:
+a.   The commissioner shall submit to the council and the mayor, and post to the department's website, within 30 days of the beginning of each quarter, a report regarding the use of desk appearance tickets for the previous quarter. This report shall include the guidelines used by the department to determine when desk appearance tickets are used in lieu of a custodial arrest pursuant to subdivision 1 of section 140.20 of the penal law. This report shall also include, for any offense for which a desk appearance ticket may be issued by state law and for which either more than 500 desk appearance tickets were issued or for which more than 500 arrests were made pursuant to subdivision 1 of section 140.20 of the penal law, the rate of the use of arrests and desk appearance tickets for each such offense. This report shall also include the number of desk appearance tickets issued, in total and disaggregated as follows:
 
       1.   the patrol precinct, housing police service area and transit district in which such desk appearance ticket was issued;
 
@@ -923,7 +923,7 @@ Chapter 1: Police Department
 § 14-157 Summons report. ::
 
 
-	a.   The commissioner shall submit to the council and the mayor, and post to the department's website, within 30 days of the beginning of each quarter, a report containing the following information for the previous quarter:
+a.   The commissioner shall submit to the council and the mayor, and post to the department's website, within 30 days of the beginning of each quarter, a report containing the following information for the previous quarter:
 
       1.   The number of criminal summonses issued;
 
@@ -955,7 +955,7 @@ Chapter 1: Police Department
 § 14-158 Use of force incident reports. ::
 
 
-	a.   Definitions. As used in this section, the following terms have the following meanings:
+a.   Definitions. As used in this section, the following terms have the following meanings:
 
       Excessive force. The term "excessive force" means force that has been found by the department to be, considering the totality of the circumstances in which it is used, greater than that which a reasonable officer, in the same situation, would use under the circumstances that existed and were known to the officer at the time such force was used.
 
@@ -987,7 +987,7 @@ Chapter 1: Police Department
 § 14-159 Use of force encounter reports. ::
 
 
-	a.   Definitions. The following terms have the following meanings:
+a.   Definitions. The following terms have the following meanings:
 
       Basis for encounter. The term "basis for encounter" means the conduct, offense or reason which formed the basis for the initial approach by a member of the department that led to police action, including an arrest, criminal summons, civil summons, or desk appearance ticket.
 
@@ -1003,7 +1003,7 @@ Chapter 1: Police Department
 § 14-160 Officer deployment.  ::
 
 
-	No later than October 1, 2016, and every year thereafter no later than February 1 of each such year, the department shall post on its website a report that includes, for each precinct, housing police service area and transit district, the total number and percentage of active duty officers who:
+No later than October 1, 2016, and every year thereafter no later than February 1 of each such year, the department shall post on its website a report that includes, for each precinct, housing police service area and transit district, the total number and percentage of active duty officers who:
 
    a.   have had two or more cases substantiated by the civilian complaint review board in the last three calendar years;
 
@@ -1021,7 +1021,7 @@ Chapter 1: Police Department
 § 14-161 Online reporting of domestic violence and hate crime statistics. ::
 
 
-	a.   The department shall collect and post the following data on its website:
+a.   The department shall collect and post the following data on its website:
 
       1.   the number of domestic violence radio runs;
 
@@ -1097,7 +1097,7 @@ Chapter 1: Police Department
 § 14-162 Enforcement criteria. ::
 
 
-	a.   Definitions. As used in this section, the following terms have the following meanings:
+a.   Definitions. As used in this section, the following terms have the following meanings:
 
       Major felony. The term "major felony" means any of the following offenses: murder, including penal law sections 125.25, 125.26, and 125.27, non-negligent manslaughter, including penal law sections 125.12, 125.13, 125.14, 125.15, 125.20, 125.21, and 125.22, sex offenses, including penal law sections 130.25, 130.30, 130.35, 130.40, 130.45, 130.50, 130.65, 130.65-a, 130.66, 130.67, 130.70, 130.75, 130.80, 130.90, 130.91, 130.95, and 130.96, robbery, including penal law sections 160.05, 160.10, and 160.15, burglary, including penal law sections 140.20, 140.25, and 140.30, felony assault, including penal law sections 120.01, 120.02, 120.05, 120.06, 120.07, 120.08, 120.09, 120.10, 120.11, and 120.12, firearm and weapons possession and use, including penal law sections 265.01-A, 265.01-B, 265.02, 265.03, 265.04, 265.08 and 265.09, shooting incidents, and possession and sale of a controlled substance, including penal law sections 220.06, 220.09, 220.16, 220.18, 220.21, 220.31, 220.34, 220.39, 220.41, and 220.43.
 
@@ -1121,7 +1121,7 @@ Chapter 1: Police Department
 § 14-163 Arrestee health information. ::
 
 
-	a.   Definitions. When used in this section, the following terms shall have the following meanings:
+a.   Definitions. When used in this section, the following terms shall have the following meanings:
 
       Arrestee. The term “arrestee” means any person under custodial arrest by the department, other than a person whose arrest results in the issuance of a summons or desk appearance ticket.
 
@@ -1137,7 +1137,7 @@ Chapter 1: Police Department
 § 14-164 Patrol guide publication required. ::
 
 
-	a.   The department shall publish the patrol guide on the department’s website.
+a.   The department shall publish the patrol guide on the department’s website.
 
    b.   No later than 24 hours after any amendment to the patrol guide, the department shall update the patrol guide on the department’s website to reflect such amendment and shall conspicuously note the amended sections and their effective dates. Failure to timely publish amendments to the patrol guide shall not affect the validity of the patrol guide or its amendments.
 
@@ -1155,7 +1155,7 @@ Chapter 1: Police Department
 § 14-165 Cardiopulmonary resuscitation and automated external defibrillator training. ::
 
 
-	a.   Definitions. As used in this section, the following terms have the following meanings:
+a.   Definitions. As used in this section, the following terms have the following meanings:
 
       Automated external defibrillation. The term “automated external defibrillation” is defined pursuant to subdivision 1 paragraph a of section 3000-b of the public health law.
 
@@ -1185,7 +1185,7 @@ Chapter 1: Police Department
 § 14-166 Reporting on nuisance abatement actions. ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms have the following meanings:
+a.   Definitions. For the purposes of this section, the following terms have the following meanings:
 
       Action. The term “action” means a nuisance abatement action.
 
@@ -1229,7 +1229,7 @@ Chapter 1: Police Department
 § 14-167 Collision reports. ::
 
 
-	a.   Definitions. As used in this section, the following terms have the following meanings:
+a.   Definitions. As used in this section, the following terms have the following meanings:
 
       Collision report. The term “collision report” means the report prepared by an employee of the department relating to the facts of an automobile collision pursuant to section 603 of the vehicle and traffic law.
 
@@ -1245,7 +1245,7 @@ Chapter 1: Police Department
 § 14-168 Arrestee contact information. ::
 
 
-	The department, to the extent practicable and in a manner consistent with all applicable laws and officer safety, shall offer individuals while in the department’s custody and due to be arraigned within 24 hours the opportunity to obtain personal contact information that such individual may require and which is stored in such individual’s personal property, provided that any member of the department who requests access to such individual’s property pursuant to this section shall request access only for the purpose of obtaining such contact information and for no other purpose. The provisions of this section shall not permit a person in the department’s custody and due to be arraigned within 24 hours access to such property for any purpose other than obtaining personal contact information, or to “arrest evidence” as defined in the rules of the city of New York, or to any property that constitutes relevant evidence of a crime.
+The department, to the extent practicable and in a manner consistent with all applicable laws and officer safety, shall offer individuals while in the department’s custody and due to be arraigned within 24 hours the opportunity to obtain personal contact information that such individual may require and which is stored in such individual’s personal property, provided that any member of the department who requests access to such individual’s property pursuant to this section shall request access only for the purpose of obtaining such contact information and for no other purpose. The provisions of this section shall not permit a person in the department’s custody and due to be arraigned within 24 hours access to such property for any purpose other than obtaining personal contact information, or to “arrest evidence” as defined in the rules of the city of New York, or to any property that constitutes relevant evidence of a crime.
 
 
 
@@ -1255,7 +1255,7 @@ Chapter 1: Police Department
 § 14-169 Seized property data reports. ::
 
 
-	a.   Definitions. As used in this section, the following terms have the following meanings:
+a.   Definitions. As used in this section, the following terms have the following meanings:
 
       Retained property. The term “retained property” means: (i) property other than U.S. currency that the department has obtained an ownership interest in; or (ii) U.S. currency that the department has obtained an ownership interest in that has been transferred to the general fund of the city, pursuant to section 14-140 either because the ownership interest in such U.S. currency has been waived or forfeited, or because such U.S. currency remains unclaimed after the applicable legal period for claiming such U.S. currency has expired.
 
@@ -1287,7 +1287,7 @@ Chapter 1: Police Department
 § 14-170 Erroneous records. ::
 
 
-	The department shall make best efforts to provide records necessary to rectify erroneous criminal records related to voided arrests within three business days of the request for such records, provided that such request includes sufficient information for the department to identify such arrest and such records are in the custody of the department. For the purpose of this section, the term “voided arrest” means any instance in which the department forwards fingerprints of an individual pursuant to section 160.20 of the criminal procedure law, and the department does not refer such individual for criminal prosecution pursuant to section 140.20 of the criminal procedure law.
+The department shall make best efforts to provide records necessary to rectify erroneous criminal records related to voided arrests within three business days of the request for such records, provided that such request includes sufficient information for the department to identify such arrest and such records are in the custody of the department. For the purpose of this section, the term “voided arrest” means any instance in which the department forwards fingerprints of an individual pursuant to section 160.20 of the criminal procedure law, and the department does not refer such individual for criminal prosecution pursuant to section 140.20 of the criminal procedure law.
 
 
 
@@ -1297,7 +1297,7 @@ Chapter 1: Police Department
 § 14-171 Index crime clearance report. ::
 
 
-	a.   The term “clearance rate” means the number of specific crimes where at least one person has been arrested, not including voided arrests, divided by the total number of such crimes reported.
+a.   The term “clearance rate” means the number of specific crimes where at least one person has been arrested, not including voided arrests, divided by the total number of such crimes reported.
 
    b.   No later than 30 days after the quarter ending December 31, 2017 and 30 days after every quarter thereafter, the department shall publish on the department’s website a report for the prior quarter, which shall include a report for each borough, of the clearance rate for the following crimes:
 
@@ -1323,7 +1323,7 @@ Chapter 1: Police Department
 § 14-172 Online reporting of arrests and summonses for subway fare evasion. ::
 
 
-	a.   No later than 30 days after the quarter ending December 31, 2017 and 30 days after every quarter thereafter, the department shall publish on the department’s website a report for the prior quarter, which shall include:
+a.   No later than 30 days after the quarter ending December 31, 2017 and 30 days after every quarter thereafter, the department shall publish on the department’s website a report for the prior quarter, which shall include:
 
       1.   The total number of arrests under subdivision 3 of section 165.15 of the penal law that occurred in a New York city transit authority station in total and disaggregated by the (a) transit bureau district; (b) New York city transit authority station; (c) race, sex and age group of the arrestee, including but not limited to disaggregation of arrestees under the age of 18; and (d) whether the arrestee was issued a desk appearance ticket or was the subject of a live arrest.
 
@@ -1341,7 +1341,7 @@ Chapter 1: Police Department
 § 14-173 Guidance regarding consent searches. ::
 
 
-	a.   The department shall develop and provide guidance for its officers, whether in uniform or civilian clothing, not including those engaged in undercover operations, with respect to obtaining voluntary, knowing, and intelligent consent prior to the search of a person, or a person’s vehicle, home, or property, for a search that is based solely on a person’s consent to such search, when such search is not conducted pursuant to a warrant, any other exception to the warrant requirement under applicable law, or probable cause, or when such search is not incident to a lawful arrest. Such guidance shall specify conduct for:
+a.   The department shall develop and provide guidance for its officers, whether in uniform or civilian clothing, not including those engaged in undercover operations, with respect to obtaining voluntary, knowing, and intelligent consent prior to the search of a person, or a person’s vehicle, home, or property, for a search that is based solely on a person’s consent to such search, when such search is not conducted pursuant to a warrant, any other exception to the warrant requirement under applicable law, or probable cause, or when such search is not incident to a lawful arrest. Such guidance shall specify conduct for:
 
       1.   Articulating, using plain and simple language delivered in a non-threatening manner, that the person who is the subject of the search is being asked to voluntarily, knowingly, and intelligently consent to such search, and explaining that such search will not be conducted if such person refuses to provide consent to such search;
 
@@ -1407,7 +1407,7 @@ Editor's note: Pursuant to Section 4 of L.L. 2018/056, paragraph 2 of subdivisio
 § 14-174 Identification of police officers. ::
 
 
-	a.   Definitions. As used in this section, the following terms have the following meanings:
+a.   Definitions. As used in this section, the following terms have the following meanings:
 
       Assigned detective. The term “assigned detective” means a detective employed by the department who is leading the investigation of a particular crime.
 
@@ -1479,7 +1479,7 @@ Editor's note: Pursuant to Section 4 of L.L. 2018/056, paragraph 2 of subdivisio
 § 14-175 Marijuana enforcement report. ::
 
 
-	a.   The commissioner shall submit to the council within twenty-five days of the end of each quarter and post to the department’s website five days thereafter, a report on the number of enforcement actions for marijuana possession as defined in sections 221.05, 221.10 and 221.15 of the New York state penal law, disaggregated by:
+a.   The commissioner shall submit to the council within twenty-five days of the end of each quarter and post to the department’s website five days thereafter, a report on the number of enforcement actions for marijuana possession as defined in sections 221.05, 221.10 and 221.15 of the New York state penal law, disaggregated by:
 
       1.   the number of arrests; and
 
@@ -1507,7 +1507,7 @@ Editor's note: Pursuant to Section 4 of L.L. 2018/056, paragraph 2 of subdivisio
 § 14-176 Opioid antagonist report. ::
 
 
-	a.   For the purpose of this section, the following terms have the following meanings:
+a.   For the purpose of this section, the following terms have the following meanings:
 
       Officer. The term “officer” has the same meaning as defined under section 14-174.
 
@@ -1533,7 +1533,7 @@ Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 § 14-201 Regulation of solicitation by law enforcement affiliated organizations.  ::
 
 
-	As used in this chapter, the following terms shall have the following meanings:
+As used in this chapter, the following terms shall have the following meanings:
 
    1.   "Law enforcement affiliated organization."
 
@@ -1551,7 +1551,7 @@ Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 § 14-202 Registration of law enforcement affiliated organizations.  ::
 
 
-	No law enforcement affiliated organization shall solicit funds or contributions from the public, or have funds or contributions solicited on its behalf, unless it has filed a registration statement with the commissioner or the commissioner's designee in accordance with the provisions of this section. Each registration statement shall be refiled and updated every twelve (12) months so long as the law enforcement affiliated organization is engaged in solicitation activities in the city. Such statements shall be made available to the public in a manner determined by the commissioner or the commissioner's designee and shall contain the following information:
+No law enforcement affiliated organization shall solicit funds or contributions from the public, or have funds or contributions solicited on its behalf, unless it has filed a registration statement with the commissioner or the commissioner's designee in accordance with the provisions of this section. Each registration statement shall be refiled and updated every twelve (12) months so long as the law enforcement affiliated organization is engaged in solicitation activities in the city. Such statements shall be made available to the public in a manner determined by the commissioner or the commissioner's designee and shall contain the following information:
 
    1.   The name of the organization and the purpose for which it was organized;
 
@@ -1577,7 +1577,7 @@ Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 § 14-203 Representation.  ::
 
 
-	During the course of each and every solicitation for funds or contributions on behalf of a law enforcement affiliated organization and on an acknowledgement which shall be mailed to the person and/or persons who agree to contribute pursuant to the solicitation, the fund raiser, solicitor or any other person acting on behalf of the law enforcement affiliated organization shall make the following representations.
+During the course of each and every solicitation for funds or contributions on behalf of a law enforcement affiliated organization and on an acknowledgement which shall be mailed to the person and/or persons who agree to contribute pursuant to the solicitation, the fund raiser, solicitor or any other person acting on behalf of the law enforcement affiliated organization shall make the following representations.
 
    1.   The name and address of the organization represented;
 
@@ -1591,7 +1591,7 @@ Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 § 14-204 Prohibited acts.  ::
 
 
-	It shall be unlawful to solicit funds or contributions on behalf of a law enforcement affiliated organization:
+It shall be unlawful to solicit funds or contributions on behalf of a law enforcement affiliated organization:
 
    1.   By using a name, symbol or statement so closely related to that used by another law enforcement affiliated organization or governmental agency that the use thereof would tend to confuse or mislead the public, including the use of statement or materials that would indicate that such funds or contributions were being raised for the department or the patrolman's benevolent association of the city of New York, unless such agency or association shall have given its written permission for the raising of such funds for it, and the use of its name in connection with the solicitation of funds;
 
@@ -1613,7 +1613,7 @@ Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 § 14-205 Criminal and civil penalties.  ::
 
 
-	a.   Any person who violates or assists in the violation of any of the provisions of this chapter shall be guilty of a misdemeanor punishable by a fine of not less than one thousand nor more than ten thousand dollars or up to one year imprisonment, or both. Each such violation shall be a separate and distinct offense.
+a.   Any person who violates or assists in the violation of any of the provisions of this chapter shall be guilty of a misdemeanor punishable by a fine of not less than one thousand nor more than ten thousand dollars or up to one year imprisonment, or both. Each such violation shall be a separate and distinct offense.
 
    b.   Such person shall also be subject to a civil penalty of not less than one thousand nor more than ten thousand dollars for each violation. Each such violation shall be a separate and distinct offense.
 
@@ -1623,7 +1623,7 @@ Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 § 14-206 Enforcement actions or proceedings.  ::
 
 
-	The civil penalties prescribed by this chapter shall be recovered by an action or proceeding in any court of competent jurisdiction. All such actions or proceedings shall be brought in the name of the city by the corporation counsel. In addition, the corporation counsel may institute any other action or proceeding in any court of competent jurisdiction that may be appropriate or necessary for the enforcement of the provisions of this chapter, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any provision of this chapter, mandating compliance with the provisions of this chapter or for such other relief as may be appropriate. In any such action or proceeding the city may apply to any court of competent jurisdiction, or to a judge or justice thereof, for a temporary restraining order or preliminary injunction enjoining and restraining all persons from violating any provision of this chapter, mandating compliance with the provisions of this chapter, or for such other relief as may be appropriate, until the hearing and determination of such action or proceeding and the entry of final judgment or order therein. The court, or judge or justice thereof, to whom such application is made, is hereby authorized forthwith to make any or all of the orders above specified, as may be required in such application, with or without notice, and to make such other or further orders or directions as may be necessary to render the same effectual. No undertaking shall be required as a condition to the granting or issuing of such order, or by reason thereof.
+The civil penalties prescribed by this chapter shall be recovered by an action or proceeding in any court of competent jurisdiction. All such actions or proceedings shall be brought in the name of the city by the corporation counsel. In addition, the corporation counsel may institute any other action or proceeding in any court of competent jurisdiction that may be appropriate or necessary for the enforcement of the provisions of this chapter, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any provision of this chapter, mandating compliance with the provisions of this chapter or for such other relief as may be appropriate. In any such action or proceeding the city may apply to any court of competent jurisdiction, or to a judge or justice thereof, for a temporary restraining order or preliminary injunction enjoining and restraining all persons from violating any provision of this chapter, mandating compliance with the provisions of this chapter, or for such other relief as may be appropriate, until the hearing and determination of such action or proceeding and the entry of final judgment or order therein. The court, or judge or justice thereof, to whom such application is made, is hereby authorized forthwith to make any or all of the orders above specified, as may be required in such application, with or without notice, and to make such other or further orders or directions as may be necessary to render the same effectual. No undertaking shall be required as a condition to the granting or issuing of such order, or by reason thereof.
 
 
 
@@ -1631,7 +1631,7 @@ Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 § 14-207 Scope of remedies.  ::
 
 
-	The remedies and penalties provided for herein shall be in addition to any other remedies and penalties provided under other provisions of law.
+The remedies and penalties provided for herein shall be in addition to any other remedies and penalties provided under other provisions of law.
 
 
 
@@ -1639,7 +1639,7 @@ Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 § 14-208 Construction.  ::
 
 
-	The provisions of this chapter shall not be construed to apply to any law enforcement affiliated organizations when solicitation of contributions is confined to their membership. In addition, the provisions of this chapter shall not be construed to apply to any person or law enforcement affiliated organization which solicits contributions for the relief of any individual, specified by name at the time of solicitation, if all of the contributions collected, without any deductions whatsoever, are turned over to the named beneficiary.
+The provisions of this chapter shall not be construed to apply to any law enforcement affiliated organizations when solicitation of contributions is confined to their membership. In addition, the provisions of this chapter shall not be construed to apply to any person or law enforcement affiliated organization which solicits contributions for the relief of any individual, specified by name at the time of solicitation, if all of the contributions collected, without any deductions whatsoever, are turned over to the named beneficiary.
 
 
 

@@ -5,7 +5,7 @@ Chapter 1: Department of Sanitation
 § 16-101 Definitions.  ::
 
 
-	When used in this title the following terms shall have the following meanings:
+When used in this title the following terms shall have the following meanings:
 
    (1)   "Department" shall mean the department of sanitation.
 
@@ -19,7 +19,7 @@ Chapter 1: Department of Sanitation
 § 16-102 Secretary.  ::
 
 
-	The commissioner shall appoint and at pleasure may remove a secretary of the department.
+The commissioner shall appoint and at pleasure may remove a secretary of the department.
 
 
 
@@ -27,7 +27,7 @@ Chapter 1: Department of Sanitation
 § 16-103 Uniformed forces.  ::
 
 
-	The commissioner, from time to time, shall prescribe distinctive uniforms, badges and insignia to be worn and displayed by members of the uniformed force and prescribe and enforce penalties for the failure of any member of such force to wear and exhibit the same while engaged in the performance of his or her duties.
+The commissioner, from time to time, shall prescribe distinctive uniforms, badges and insignia to be worn and displayed by members of the uniformed force and prescribe and enforce penalties for the failure of any member of such force to wear and exhibit the same while engaged in the performance of his or her duties.
 
 
 
@@ -35,7 +35,7 @@ Chapter 1: Department of Sanitation
 § 16-104 Records.  ::
 
 
-	All transactions of the commissioner and all documents and records in the possession of the department shall be matters of public record and open to public inspection, except such documents and records as shall be prepared by or for counsel for use in actions or proceedings to which the city or commissioner is a party.
+All transactions of the commissioner and all documents and records in the possession of the department shall be matters of public record and open to public inspection, except such documents and records as shall be prepared by or for counsel for use in actions or proceedings to which the city or commissioner is a party.
 
 
 
@@ -43,7 +43,7 @@ Chapter 1: Department of Sanitation
 § 16-105 Drivers or sweepers; temporary employment of.  ::
 
 
-	Any person registered or eligible to appointment as a driver, or as a sweeper, may be employed temporarily at any time as an extra driver or sweeper to replace a driver or sweeper who is suspended or temporarily absent from duty for any cause. The driver or sweeper whose place is so filled shall not receive any compensation for the time during which he or she is so absent from duty or his or her place is so filled, unless such absence results from injury or illness caused by service in the department.
+Any person registered or eligible to appointment as a driver, or as a sweeper, may be employed temporarily at any time as an extra driver or sweeper to replace a driver or sweeper who is suspended or temporarily absent from duty for any cause. The driver or sweeper whose place is so filled shall not receive any compensation for the time during which he or she is so absent from duty or his or her place is so filled, unless such absence results from injury or illness caused by service in the department.
 
 
 
@@ -51,7 +51,7 @@ Chapter 1: Department of Sanitation
 § 16-106 Removal and suspension of employees.  ::
 
 
-	a.   The commissioner, in his or her discretion, shall have power to punish any member of the uniformed force who has been guilty of:
+a.   The commissioner, in his or her discretion, shall have power to punish any member of the uniformed force who has been guilty of:
 
       1.   any legal or criminal offense,
 
@@ -85,7 +85,7 @@ Chapter 1: Department of Sanitation
 § 16-107 Leaves of absence.  ::
 
 
-	a.   A leave of absence to any member of the uniformed force shall not exceed twenty days in any one year, in addition to any vacation period, except upon condition that such member shall waive or release not less than one-half of all salary, pay or compensation and claim thereto, or any part thereof, during such absence.
+a.   A leave of absence to any member of the uniformed force shall not exceed twenty days in any one year, in addition to any vacation period, except upon condition that such member shall waive or release not less than one-half of all salary, pay or compensation and claim thereto, or any part thereof, during such absence.
 
    b.   Absence without leave of any member of the uniformed force for five consecutive days shall be deemed and held to be a resignation, and at the expiration of such period the member so absent shall cease to be a member of such force and may be dismissed therefrom without notice.
 
@@ -95,7 +95,7 @@ Chapter 1: Department of Sanitation
 § 16-108 Salary during absence from duty by injury or sickness.  ::
 
 
-	Each person employed in the sanitation service classification of the classified civil service shall be paid full pay or compensation during absence from duty caused by injury or sickness, except as otherwise provided by law, and subject to such rules and regulations as may be adopted by the commissioner.
+Each person employed in the sanitation service classification of the classified civil service shall be paid full pay or compensation during absence from duty caused by injury or sickness, except as otherwise provided by law, and subject to such rules and regulations as may be adopted by the commissioner.
 
 
 
@@ -103,7 +103,7 @@ Chapter 1: Department of Sanitation
 § 16-108.1 Receipt of line of duty pay.  ::
 
 
-	a.   A member of the uniformed force of the department of sanitation shall be entitled pursuant to this section to the full amount of his or her regular salary for the period of any incapacity due to illness or injury incurred in the performance and discharge of duty as a member of the uniformed force, as determined by the department.
+a.   A member of the uniformed force of the department of sanitation shall be entitled pursuant to this section to the full amount of his or her regular salary for the period of any incapacity due to illness or injury incurred in the performance and discharge of duty as a member of the uniformed force, as determined by the department.
 
    b.   Nothing in this section shall be construed to affect the rights, powers and duties of the commissioner pursuant to any other provision of law, including, but not limited to, the right to discipline a member of the uniformed force by termination, reduction of salary, or any other appropriate measure; the power to terminate an appointee who has not completed his or her probationary term; and the power to apply for ordinary or accident disability retirement for a member of the uniformed force.
 
@@ -119,7 +119,7 @@ Chapter 1: Department of Sanitation
 § 16-109 Sanitation service; absence from duty because of injury or illness incurred prior to April eighteenth, nineteen hundred sixty-two.  ::
 
 
-	Each person employed in the sanitation service classification of the classified civil service on October tenth, nineteen hundred sixty-two who, prior to April eighteenth, nineteen hundred sixty-two, incurred an injury or illness, and who was or is absent from duty in such employment on or after April eighteenth, nineteen hundred sixty-two, as a result of such injury or illness incurred prior to such date, shall be entitled to receive as pay or salary during such absence or absences, an amount equal to the difference between (a) the total of all payments and awards to such employee under the workers' compensation law by reason of such injury or illness, exclusive of the death benefit provided for in section sixteen of the workers' compensation law; and (b) the amount which such employee would have received in full pay or compensation for absences from such duty on or after April eighteenth, nineteen hundred sixty-two because of such injury or illness if section 16-108 of this title, as qualified by the rules and regulations adopted by the commissioner pursuant to such section, were applicable thereto; provided that the amount to which such employee would have been entitled if such section were applicable is greater than the total specified in item (a) hereof. The commissioner, with the approval of the mayor, may adopt rules and regulations in accordance with the procedure prescribed in section eleven hundred five of the charter, setting forth the manner in which the amounts required to be paid under this section shall be payable. Such rules and regulations may also provide that the amount required to be paid under this section for any period during which such employee was absent, or any part of such amount, may be paid to an employee in a lump sum or weekly installments or a combination of both prior to the date upon which the total specified in item (a) is known or determined, on condition that such employee execute an agreement, in a form approved by the corporation counsel, consenting to reimburse the city for any overpayment to him or her resulting from such prior payment, either at the time the amounts specified in item (a) hereunder are received by such employee or by salary deductions to be authorized by such employee in such agreement. Such rules and regulations may contain such other provisions as may be necessary to carry out the purposes of this section.
+Each person employed in the sanitation service classification of the classified civil service on October tenth, nineteen hundred sixty-two who, prior to April eighteenth, nineteen hundred sixty-two, incurred an injury or illness, and who was or is absent from duty in such employment on or after April eighteenth, nineteen hundred sixty-two, as a result of such injury or illness incurred prior to such date, shall be entitled to receive as pay or salary during such absence or absences, an amount equal to the difference between (a) the total of all payments and awards to such employee under the workers' compensation law by reason of such injury or illness, exclusive of the death benefit provided for in section sixteen of the workers' compensation law; and (b) the amount which such employee would have received in full pay or compensation for absences from such duty on or after April eighteenth, nineteen hundred sixty-two because of such injury or illness if section 16-108 of this title, as qualified by the rules and regulations adopted by the commissioner pursuant to such section, were applicable thereto; provided that the amount to which such employee would have been entitled if such section were applicable is greater than the total specified in item (a) hereof. The commissioner, with the approval of the mayor, may adopt rules and regulations in accordance with the procedure prescribed in section eleven hundred five of the charter, setting forth the manner in which the amounts required to be paid under this section shall be payable. Such rules and regulations may also provide that the amount required to be paid under this section for any period during which such employee was absent, or any part of such amount, may be paid to an employee in a lump sum or weekly installments or a combination of both prior to the date upon which the total specified in item (a) is known or determined, on condition that such employee execute an agreement, in a form approved by the corporation counsel, consenting to reimburse the city for any overpayment to him or her resulting from such prior payment, either at the time the amounts specified in item (a) hereunder are received by such employee or by salary deductions to be authorized by such employee in such agreement. Such rules and regulations may contain such other provisions as may be necessary to carry out the purposes of this section.
 
 
 
@@ -127,7 +127,7 @@ Chapter 1: Department of Sanitation
 § 16-110 Recommendations for amendment of health code.  ::
 
 
-	The commissioner, from time to time, shall propose to the board of health such additions to or amendments of the health code as in his or her opinion will promote sanitary control in the city and conduce to the security of the comfort, life and health of its inhabitants. The commissioner shall set forth fully the reasons for the proposed changes.
+The commissioner, from time to time, shall propose to the board of health such additions to or amendments of the health code as in his or her opinion will promote sanitary control in the city and conduce to the security of the comfort, life and health of its inhabitants. The commissioner shall set forth fully the reasons for the proposed changes.
 
 
 
@@ -135,7 +135,7 @@ Chapter 1: Department of Sanitation
 § 16-111 Division of streets into districts; allotment of sweepers.  ::
 
 
-	The commissioner shall divide the city into a suitable number of districts, each of which shall be under the charge of a district superintendent or supervisory officer who shall be directly responsible to the commissioner for the cleanliness of his or her district. Each of such districts shall be subdivided by such commissioner into sections in charge of foremen or subordinate supervisory officers responsible to such district superintendent or supervisory officer, as well as to the commissioner, for the cleanliness of his or her section.
+The commissioner shall divide the city into a suitable number of districts, each of which shall be under the charge of a district superintendent or supervisory officer who shall be directly responsible to the commissioner for the cleanliness of his or her district. Each of such districts shall be subdivided by such commissioner into sections in charge of foremen or subordinate supervisory officers responsible to such district superintendent or supervisory officer, as well as to the commissioner, for the cleanliness of his or her section.
 
 
 
@@ -143,7 +143,7 @@ Chapter 1: Department of Sanitation
 § 16-111.1 Reductions in street cleaning.  ::
 
 
-	a.   For purposes of this section, "qualifying district" shall mean a sanitation district, or any portion of such district, where each side of the street is scheduled to receive department street cleaning on more than one day each week, and where such sanitation district achieves a cleanliness acceptability rating under the mayor's office of operations scorecard program that is equal to or greater than an average score of ninety percent for the two consecutive fiscal years prior to a community board's request pursuant to subdivision b of this section.
+a.   For purposes of this section, "qualifying district" shall mean a sanitation district, or any portion of such district, where each side of the street is scheduled to receive department street cleaning on more than one day each week, and where such sanitation district achieves a cleanliness acceptability rating under the mayor's office of operations scorecard program that is equal to or greater than an average score of ninety percent for the two consecutive fiscal years prior to a community board's request pursuant to subdivision b of this section.
 
    b.   Upon written request by the community board for the community district within which a qualifying district is located, the department shall reduce the weekly scheduled frequency of street cleaning by one day for such qualifying district. Prior to making its written request, any such community board shall to the extent practical notify major utilities and communications providers servicing the qualifying district that provide services to 500,000 or more households citywide and that have given such community board appropriate contact information. Failure to notify such utilities and communications providers shall not invalidate any such written request. In making its determination, the community board shall consider the impact of such a request on such utilities and communications providers' ability to install, repair and maintain critical infrastructure in such district.
 
@@ -157,7 +157,7 @@ Chapter 1: Department of Sanitation
 § 16-112 Flushing or washing streets; water.  ::
 
 
-	Whenever the commissioner of environmental protection shall determine that there is a sufficient supply of water for the purpose, such commissioner may permit the commissioner to use as much water as may be necessary for the flushing or washing of the public streets.
+Whenever the commissioner of environmental protection shall determine that there is a sufficient supply of water for the purpose, such commissioner may permit the commissioner to use as much water as may be necessary for the flushing or washing of the public streets.
 
 
 
@@ -165,7 +165,7 @@ Chapter 1: Department of Sanitation
 § 16-113 Removal of night soil and offal.  ::
 
 
-	The department is hereby charged with the duty of causing the removal of dead animals, night soil and offal from the thickly populated districts daily, and as often as may be necessary elsewhere, and of keeping the city clean from all matter of nuisance of a similar kind.
+The department is hereby charged with the duty of causing the removal of dead animals, night soil and offal from the thickly populated districts daily, and as often as may be necessary elsewhere, and of keeping the city clean from all matter of nuisance of a similar kind.
 
 
 
@@ -173,7 +173,7 @@ Chapter 1: Department of Sanitation
 § 16-114 Rates for collection and disposal.  ::
 
 
-	The commissioner may charge for the collection and disposal of ashes, street sweepings, garbage, refuse, rubbish, dead animals, night soil and offal, and all wastes, including trade waste from business, industrial, manufacturing, or other establishments conducted for profit, at rates established by the council by local law, upon recommendation of the commissioner, and on such terms and conditions as the commissioner shall prescribe and subject to rules of the department governing such collection and disposal.
+The commissioner may charge for the collection and disposal of ashes, street sweepings, garbage, refuse, rubbish, dead animals, night soil and offal, and all wastes, including trade waste from business, industrial, manufacturing, or other establishments conducted for profit, at rates established by the council by local law, upon recommendation of the commissioner, and on such terms and conditions as the commissioner shall prescribe and subject to rules of the department governing such collection and disposal.
 
 
 
@@ -181,7 +181,7 @@ Chapter 1: Department of Sanitation
 § 16-114.1 Rates for collection and disposal of solid waste from home occupations, medical offices/group medical centers, and other residential offices.  ::
 
 
-	a.   As used in this section:
+a.   As used in this section:
 
       1.   The term "home occupation" shall mean a dwelling unit located within a residential portion of a building that is used in part for the purpose of engaging in an occupation authorized by law to be practiced at such location in addition to residential use;
 
@@ -199,18 +199,18 @@ Chapter 1: Department of Sanitation
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - Average Total Number of 20 Gallon Bags Generated Per Week, Including Designated Recyclable Materials
- - Annual Collection and Disposal Fee
- * - Not more than 5
- - $  303.00 
- * - 6-10
- - $  563.00 
- * - 11-15
- - $  823.00 
- * - 16-20
- - $1,083.00 
+    * - Average Total Number of 20 Gallon Bags Generated Per Week, Including Designated Recyclable Materials
+      - Annual Collection and Disposal Fee
+    * - Not more than 5
+      - $  303.00 
+    * - 6-10
+      - $  563.00 
+    * - 11-15
+      - $  823.00 
+    * - 16-20
+      - $1,083.00 
 ~
 
 
@@ -223,7 +223,7 @@ Chapter 1: Department of Sanitation
 § 16-115 Sale of ashes by commissioner.  ::
 
 
-	Ashes collected by the department may be sold by the commissioner at rates fixed by the board of estimate.
+Ashes collected by the department may be sold by the commissioner at rates fixed by the board of estimate.
 
 
 
@@ -231,7 +231,7 @@ Chapter 1: Department of Sanitation
 § 16-116 Removal of commercial waste; posting of sign, registration number.  ::
 
 
-	a.   Every owner, lessee or person in control of a commercial establishment shall provide for the removal of waste by a business licensed by the New York city trade waste commission as required by subdivision a of section 16-505 of this code or register and obtain a registration number from the New York city trade waste commission as required by subdivision b of section 16-505 of this code to remove its own waste except as provided in subdivision c of this section, however nothing contained herein shall preclude the commissioner from providing for the removal of waste from any commercial establishment pursuant to the authority vested in the commissioner by section seven hundred fifty-three of the charter; provided, further, that every owner, lessee or person in control of a commercial establishment that is located in a special trade waste removal district designated by the New York city trade waste commission pursuant to section 16-523 of this code, except for an owner, lessee or person in control of a commercial establishment who has registered with the New York city trade waste commission as required by subdivision b of section 16-505 of this code and except as otherwise provided by subdivision g of section 16-523 of this code, shall provide for the removal of waste by a licensee with whom such commission has entered into an agreement pursuant to subdivision b of such section.
+a.   Every owner, lessee or person in control of a commercial establishment shall provide for the removal of waste by a business licensed by the New York city trade waste commission as required by subdivision a of section 16-505 of this code or register and obtain a registration number from the New York city trade waste commission as required by subdivision b of section 16-505 of this code to remove its own waste except as provided in subdivision c of this section, however nothing contained herein shall preclude the commissioner from providing for the removal of waste from any commercial establishment pursuant to the authority vested in the commissioner by section seven hundred fifty-three of the charter; provided, further, that every owner, lessee or person in control of a commercial establishment that is located in a special trade waste removal district designated by the New York city trade waste commission pursuant to section 16-523 of this code, except for an owner, lessee or person in control of a commercial establishment who has registered with the New York city trade waste commission as required by subdivision b of section 16-505 of this code and except as otherwise provided by subdivision g of section 16-523 of this code, shall provide for the removal of waste by a licensee with whom such commission has entered into an agreement pursuant to subdivision b of such section.
 
    b.   Every owner, lessee or person in control of a commercial establishment shall post a sign which states clearly and legibly the trade or business name, address, telephone number and the day and time of the pickup of the trade waste removal business presently serving the establishment, or if the commercial establishment removes its own waste, a registration number issued by the New York city trade waste commission shall be posted. Such sign or registration number shall be prominently displayed by affixing it to a window near the principal entrance to the commercial establishment so as to be easily visible from outside the building. If this is not possible, such sign or permit shall be prominently displayed inside the commercial establishment near the principal entrance to the premises.
 
@@ -247,7 +247,7 @@ Chapter 1: Department of Sanitation
 § 16-117 Rules and regulations governing conveyance of rubbish, waste or offensive material through the streets.  ::
 
 
-	The commissioner shall have power to adopt rules and regulations:
+The commissioner shall have power to adopt rules and regulations:
 
    1.   Controlling persons and their servants, agents and employees and the vehicles of each engaged in removing, disposing of, conveying or transporting upon the streets, public places or bridges, or over the ferries in the city, manure, swill, ashes, street sweepings, bones, garbage, night soil, offal, fat, hides, hoofs or entrails, or other refuse parts of slaughtered animals, refuse, rubbish, bodies of dead animals, or any other offensive or noxious material, paper stock, or trade waste;
 
@@ -259,7 +259,7 @@ Chapter 1: Department of Sanitation
 § 16-117.1 Transport, storage and disposal of waste containing asbestos.  ::
 
 
-	(a)   No person shall transport, store or dispose of waste containing asbestos or cause or permit any person to transport, store or dispose of such waste, except as in accordance with the provisions of this section.
+(a)   No person shall transport, store or dispose of waste containing asbestos or cause or permit any person to transport, store or dispose of such waste, except as in accordance with the provisions of this section.
 
    (b)   Waste containing asbestos shall not be presented for transport, storage or disposal unless at the site of generation such waste is:
 
@@ -295,7 +295,7 @@ Chapter 1: Department of Sanitation
 § 16-118 Littering prohibited.  ::
 
 
-	1.   (a)   No person shall litter, sweep, throw or cast, or direct, suffer or permit any servant, agent, employee, or other person under his or her control, to litter, sweep, throw or cast any ashes, garbage, paper, dust or other rubbish and refuse of any kind whatsoever, in or upon any street or public place, vacant lot, air shaft, areaway, backyard court, park, or alley.
+1.   (a)   No person shall litter, sweep, throw or cast, or direct, suffer or permit any servant, agent, employee, or other person under his or her control, to litter, sweep, throw or cast any ashes, garbage, paper, dust or other rubbish and refuse of any kind whatsoever, in or upon any street or public place, vacant lot, air shaft, areaway, backyard court, park, or alley.
 
       (b)   No person shall spit upon a sidewalk of a street or public place, or on a floor, wall or stairway of any public or private building or premises used in common by the public, or in or on any public transportation facility.
 
@@ -347,7 +347,7 @@ Chapter 1: Department of Sanitation
 § 16-118.1 Citywide routing system.  ::
 
 
-	a.   The department shall implement a citywide routing system for residential premises for the enforcement of subdivision two of section 16-118 of this code, as such subdivision relates to the cleaning of sidewalks, flagging, curbstones, airshafts, backyards, courts, alleys and roadway areas by owners, lessees, tenants, occupants or persons in charge of any such premises, and for commercial premises for the enforcement of such subdivision as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of such premises. The citywide enforcement routing system shall limit the issuance of notices of violation, appearance tickets or summonses within any sub-district of a local service delivery district to predetermined periods of a total of no more than two hours each day, provided that each such predetermined period shall be one hour. The department shall establish a citywide schedule of periods for issuing notices of violation, appearance tickets or summonses for commercial premises in each district and shall give written notice to the owners, lessees, tenants, occupants or persons in charge of such premises in each district of the periods for the district in which their premises are located by the use of flyers, community meetings or such other techniques as the commissioner reasonably determines to be useful. The two one-hour predetermined periods for issuing notices of violation, appearance tickets or summonses for residential premises shall be from 8:00 a.m. until 9:00 a.m. and from 6:00 p.m. until 7:00 p.m.
+a.   The department shall implement a citywide routing system for residential premises for the enforcement of subdivision two of section 16-118 of this code, as such subdivision relates to the cleaning of sidewalks, flagging, curbstones, airshafts, backyards, courts, alleys and roadway areas by owners, lessees, tenants, occupants or persons in charge of any such premises, and for commercial premises for the enforcement of such subdivision as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of such premises. The citywide enforcement routing system shall limit the issuance of notices of violation, appearance tickets or summonses within any sub-district of a local service delivery district to predetermined periods of a total of no more than two hours each day, provided that each such predetermined period shall be one hour. The department shall establish a citywide schedule of periods for issuing notices of violation, appearance tickets or summonses for commercial premises in each district and shall give written notice to the owners, lessees, tenants, occupants or persons in charge of such premises in each district of the periods for the district in which their premises are located by the use of flyers, community meetings or such other techniques as the commissioner reasonably determines to be useful. The two one-hour predetermined periods for issuing notices of violation, appearance tickets or summonses for residential premises shall be from 8:00 a.m. until 9:00 a.m. and from 6:00 p.m. until 7:00 p.m.
 
    b.   Notwithstanding the provisions of subdivision a of this section, the commissioner may provide an additional predetermined period of one hour per day during which notices of violation, appearance tickets or summonses may be issued in any sub-district within a local service delivery district upon the commissioner's determination that the total of two hours otherwise permitted by this section is not sufficient to maintain the sidewalks, flagging, curbstones and roadways in such sub-districts in an adequately clean condition. Such determination shall be based upon a finding that there has been a decline in the average street cleanliness ratings compiled by the mayor's office of operations for such district for the most recent three-month period as compared to the average street cleanliness ratings compiled by the mayor's office of operations for the same three-month period in fiscal year nineteen hundred ninety. Notice of any increase in the number of hours during which notices of violation, appearance tickets or summonses can be issued or of any change in such hours shall be given by letter to the community board, the owners, lessees, tenants, occupants or persons in charge of any premises in the affected sub-districts within a local service delivery district and every council member representing the local service delivery district no less than forty-five days prior to the implementation of such increase or change. Any additional notice may be given by use of letters, flyers, community meetings or such other techniques as the commissioner reasonably determines to be useful. Written notice to a council member shall be sent to the council member's district office.
 
@@ -361,7 +361,7 @@ Chapter 1: Department of Sanitation
 § 16-119 Dumping prohibited.  ::
 
 
-	a.   It shall be unlawful for any person, his or her agent, employee or any person under his or her control to suffer or permit any dirt, sand, gravel, clay, loam, stone, rocks, rubble, building rubbish, sawdust, shavings or trade or household waste, refuse, ashes, manure, garbage, rubbish or debris of any sort or any other organic or inorganic material or thing or other offensive matter being transported in a dump truck or other vehicle to be dumped, deposited or otherwise disposed of in or upon any street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned.
+a.   It shall be unlawful for any person, his or her agent, employee or any person under his or her control to suffer or permit any dirt, sand, gravel, clay, loam, stone, rocks, rubble, building rubbish, sawdust, shavings or trade or household waste, refuse, ashes, manure, garbage, rubbish or debris of any sort or any other organic or inorganic material or thing or other offensive matter being transported in a dump truck or other vehicle to be dumped, deposited or otherwise disposed of in or upon any street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned.
 
    b.   Any person who violates the provisions of this section shall be liable to arrest and upon conviction thereof shall be deemed guilty of a misdemeanor and shall be punished by a fine of not less than one thousand five hundred dollars nor more than ten thousand dollars or by imprisonment not to exceed ninety days or by both such fine and imprisonment.
 
@@ -417,7 +417,7 @@ Chapter 1: Department of Sanitation
 § 16-120 Receptacles for the removal of waste material.  ::
 
 
-	a.   The owner, lessee, agent, occupant or other person who manages or controls a building or dwelling shall provide and maintain in accordance with this section separate receptacles for the deposit of incinerator residue and ashes; refuse, and liquid waste. The receptacles shall be provided for the exclusive use of each building or dwelling and shall be of sufficient size and number to contain the wastes accumulated in such building or dwelling during a period of seventy-two hours. The receptacles shall be made of metal or other material of a grade and type acceptable to the department, the department of health and mental hygiene and the department of housing preservation and development. Receptacles used for liquid waste shall be constructed so as to hold their contents without leakage. Metal containers shall be provided with tight fitting metal covers.
+a.   The owner, lessee, agent, occupant or other person who manages or controls a building or dwelling shall provide and maintain in accordance with this section separate receptacles for the deposit of incinerator residue and ashes; refuse, and liquid waste. The receptacles shall be provided for the exclusive use of each building or dwelling and shall be of sufficient size and number to contain the wastes accumulated in such building or dwelling during a period of seventy-two hours. The receptacles shall be made of metal or other material of a grade and type acceptable to the department, the department of health and mental hygiene and the department of housing preservation and development. Receptacles used for liquid waste shall be constructed so as to hold their contents without leakage. Metal containers shall be provided with tight fitting metal covers.
 
    b.   Ashes and incinerators residue, refuse and liquid wastes shall be separated and placed into separate receptacles. No receptacle when filled shall weigh more than one hundred pounds.
 
@@ -441,7 +441,7 @@ Chapter 1: Department of Sanitation
 § 16-120.1 Storage, treatment, transportation and disposal of regulated medical waste, other medical waste and regulated household waste.  ::
 
 
-	a.   It shall be unlawful for any person to store, treat, transport or dispose of or to cause to be stored, treated, transported or disposed of any regulated medical waste or other medical waste except in the manner prescribed in the public health law, the environmental conservation law, or any rules or regulations promulgated pursuant thereto and the New York city health code and any regulations of the city department of health and the city department of sanitation. In addition, it shall be unlawful for any person to dispose of or to cause to be disposed of any regulated medical waste within the solid waste disposal system of the city, provided that the department may accept at its incinerators classes of regulated medical waste that were accepted at such incinerators as of June twenty-first, nineteen hundred eighty-nine if it has obtained all necessary authorizations required by law to incinerate such classes of regulated medical waste. In addition, it shall be unlawful to dispose of or to cause to be disposed of any laboratory waste or surgical waste as defined in this section, or classes of regulated medical waste that were accepted at department incinerators as of June twenty-first, nineteen hundred eighty-nine, whether or not such laboratory waste, sugical waste or other classes of regulated medical waste have been autoclaved or subjected to a similar decontamination technique other than incineration, in the landfills of the city.
+a.   It shall be unlawful for any person to store, treat, transport or dispose of or to cause to be stored, treated, transported or disposed of any regulated medical waste or other medical waste except in the manner prescribed in the public health law, the environmental conservation law, or any rules or regulations promulgated pursuant thereto and the New York city health code and any regulations of the city department of health and the city department of sanitation. In addition, it shall be unlawful for any person to dispose of or to cause to be disposed of any regulated medical waste within the solid waste disposal system of the city, provided that the department may accept at its incinerators classes of regulated medical waste that were accepted at such incinerators as of June twenty-first, nineteen hundred eighty-nine if it has obtained all necessary authorizations required by law to incinerate such classes of regulated medical waste. In addition, it shall be unlawful to dispose of or to cause to be disposed of any laboratory waste or surgical waste as defined in this section, or classes of regulated medical waste that were accepted at department incinerators as of June twenty-first, nineteen hundred eighty-nine, whether or not such laboratory waste, sugical waste or other classes of regulated medical waste have been autoclaved or subjected to a similar decontamination technique other than incineration, in the landfills of the city.
 
    b.    For purposes of this section, the following terms shall have the following meanings:
 
@@ -551,7 +551,7 @@ Chapter 1: Department of Sanitation
 § 16-120.2 Refuse compacting systems; multiple dwellings after May twentieth, nineteen hundred sixty-eight. ::
 
 
-	(a)   Definitions. When used in this section:
+(a)   Definitions. When used in this section:
 
       "Refuse compacting system" means any machine or system of machines capable of reducing refuse by means other than burning so that such refuse is reduced by a volume to be determined by the commissioner and is suitable for collection by the department.
 
@@ -569,7 +569,7 @@ Chapter 1: Department of Sanitation
 § 16-121 Obstructing tracks.  ::
 
 
-	a.   It shall be unlawful for any person to throw, place or pile, or assist others in throwing, placing or piling any snow, ice or other impediment or obstruction to the running of cars upon the tracks of any railroad company, or in the space between the rails thereof or in the space between the tracks and a line distant three feet outside of such rails or any ashes, garbage, paper, dust, wood, metal or other rubbish, refuse, junk or other offensive material whatsoever on any part of any railroad right of way.
+a.   It shall be unlawful for any person to throw, place or pile, or assist others in throwing, placing or piling any snow, ice or other impediment or obstruction to the running of cars upon the tracks of any railroad company, or in the space between the rails thereof or in the space between the tracks and a line distant three feet outside of such rails or any ashes, garbage, paper, dust, wood, metal or other rubbish, refuse, junk or other offensive material whatsoever on any part of any railroad right of way.
 
    b.   Violations. Any person who shall violate any provision of this section, upon conviction thereof, shall be punished by a fine of not less than one hundred dollars nor more than five hundred dollars or imprisonment for ninety days or both.
 
@@ -579,7 +579,7 @@ Chapter 1: Department of Sanitation
 § 16-122 Vehicles and other movable property.  ::
 
 
-	a.   Legislative intent. The need for this legislation is indicated by the ever increasing number of abandoned cars in the city of New York. The purpose of this section is to punish those persons who abandon and/or remove component parts of motor vehicles in public streets. It is not the intent to prohibit or preclude any person in lawful possession of a vehicle from making lawful repairs or removing any component part for the purpose of making such lawful repairs to a motor vehicle on a public street.
+a.   Legislative intent. The need for this legislation is indicated by the ever increasing number of abandoned cars in the city of New York. The purpose of this section is to punish those persons who abandon and/or remove component parts of motor vehicles in public streets. It is not the intent to prohibit or preclude any person in lawful possession of a vehicle from making lawful repairs or removing any component part for the purpose of making such lawful repairs to a motor vehicle on a public street.
 
    b.   It shall be unlawful for any person, such person's agent or employee to leave, or to suffer or permit to be left, any box, barrel, bale of merchandise or other movable property whether or not owned by such person, upon any marginal or public street or any public place, or to erect or cause to be erected thereon any shed, building or other obstruction.
 
@@ -605,7 +605,7 @@ Chapter 1: Department of Sanitation
 § 16-123 Removal of snow, ice and dirt from sidewalks; property owners' duties.  ::
 
 
-	a.   Every owner, lessee, tenant, occupant, or other person, having charge of any building or lot of ground in the city, abutting upon any street where the sidewalk is paved, shall, within four hours after the snow ceases to fall, or after the deposit of any dirt or other material upon such sidewalk, remove the snow or ice, dirt, or other material from the sidewalk and gutter, the time between nine post meridian and seven ante meridian not being included in the above period of four hours. Such removal shall be made before the removal of snow or ice from the roadway by the commissioner or subject to the regulations of such commissioner. In the boroughs of Queens and Staten Island, any owner, lessee, tenant or occupant or other person who has charge of any ground abutting upon any paved street or public place, for a linear distance of five hundred feet or more, shall be considered to have complied with this section, if such person shall have begun to remove the snow or ice from the sidewalk and gutter before the expiration of such four hours and shall continue and complete such removal within a reasonable time.
+a.   Every owner, lessee, tenant, occupant, or other person, having charge of any building or lot of ground in the city, abutting upon any street where the sidewalk is paved, shall, within four hours after the snow ceases to fall, or after the deposit of any dirt or other material upon such sidewalk, remove the snow or ice, dirt, or other material from the sidewalk and gutter, the time between nine post meridian and seven ante meridian not being included in the above period of four hours. Such removal shall be made before the removal of snow or ice from the roadway by the commissioner or subject to the regulations of such commissioner. In the boroughs of Queens and Staten Island, any owner, lessee, tenant or occupant or other person who has charge of any ground abutting upon any paved street or public place, for a linear distance of five hundred feet or more, shall be considered to have complied with this section, if such person shall have begun to remove the snow or ice from the sidewalk and gutter before the expiration of such four hours and shall continue and complete such removal within a reasonable time.
 
    b.   In case the snow and ice on the sidewalk shall be frozen so hard that it cannot be removed without injury to the pavement, the owner, lessee, tenant, occupant or other person having charge of any building or lot of ground as aforesaid, may, within the time specified in the preceding subdivision, cause the sidewalk abutting on such premises to be strewed with ashes, sand, sawdust, or some similar suitable material, and shall, as soon thereafter as the weather shall permit, thoroughly clean such sidewalks.
 
@@ -633,7 +633,7 @@ Chapter 1: Department of Sanitation
 § 16-124 Removal of snow and ice from the streets.  ::
 
 
-	The commissioner, immediately after every snowfall or the formation of ice on the streets, shall forthwith cause the removal of the same, and shall keep all streets clean and free from obstruction.
+The commissioner, immediately after every snowfall or the formation of ice on the streets, shall forthwith cause the removal of the same, and shall keep all streets clean and free from obstruction.
 
 
 
@@ -641,7 +641,7 @@ Chapter 1: Department of Sanitation
 § 16-124.1 Borough-based snow plowing and removal plans.  ::
 
 
-	a.   The following terms shall have the following meanings for purposes of this section:
+a.   The following terms shall have the following meanings for purposes of this section:
 
       (1)   The term "bus shelter" shall mean a location that has a cover or ceiling and is intended to be used as shelter for individuals waiting to board a New York city transit authority vehicle, and shall include three feet on any open side of such shelter and to the curb on all portions of the sidewalk covered under this provision.
 
@@ -675,7 +675,7 @@ Chapter 1: Department of Sanitation
 § 16-125 Dumping snow and ice from piers.  ::
 
 
-	The commissioner may cause or authorize snow and ice to be dumped into the waters of the port of New York, between the piers near the inshore ends.
+The commissioner may cause or authorize snow and ice to be dumped into the waters of the port of New York, between the piers near the inshore ends.
 
 
 
@@ -683,7 +683,7 @@ Chapter 1: Department of Sanitation
 § 16-126 Snow removal; employees and equipment.  ::
 
 
-	a.   In case of a snowfall or other emergency, the commissioner may employ and hire temporarily as many persons, vehicles, machinery and equipment as shall be rendered necessary by such emergency, forthwith reporting, in the case of a snowfall, the number of such persons, vehicles, machinery and equipment and in the case of any other emergency such action with the full particulars thereof to the mayor, but in the case of a snowfall no such person, vehicles, machinery or equipment shall be so hired or employed for a longer period than seven days and in the case of any other emergency for a longer period than three days.
+a.   In case of a snowfall or other emergency, the commissioner may employ and hire temporarily as many persons, vehicles, machinery and equipment as shall be rendered necessary by such emergency, forthwith reporting, in the case of a snowfall, the number of such persons, vehicles, machinery and equipment and in the case of any other emergency such action with the full particulars thereof to the mayor, but in the case of a snowfall no such person, vehicles, machinery or equipment shall be so hired or employed for a longer period than seven days and in the case of any other emergency for a longer period than three days.
 
    b.   All such employees shall be employed directly by the department and not through contractors or other persons, unless the commissioner shall determine that this requirement must for proper action in a particular instance be dispensed with.
 
@@ -697,7 +697,7 @@ Chapter 1: Department of Sanitation
 § 16-127 Earth, rocks and rubbish.  ::
 
 
-	a.   In all cases where the sidewalk or roadway of a street shall be incumbered or obstructed by the caving in or falling off of any earth, rocks or rubbish, or anything whatever, from any lot adjoining such sidewalk or roadway, the owner or occupant of such lot, or the agent of such owner or occupant, shall cause such earth, rocks, rubbish or other thing to be removed and cleaned from such sidewalk or roadway, within three days after a written or printed notice shall have been served by the commissioner or a duly designated representative, on such owner, personally, or shall have been left at the place of residence of such owner in this city; or, if such owner does not reside in the city, and such notice shall not be personally served, then within twenty days after such notice to be sent by mail, addressed to such owner at his or her place of residence, or, when such residence is unknown to such commissioner, within twenty days after such notice shall have been posted in a conspicuous place on such premises.
+a.   In all cases where the sidewalk or roadway of a street shall be incumbered or obstructed by the caving in or falling off of any earth, rocks or rubbish, or anything whatever, from any lot adjoining such sidewalk or roadway, the owner or occupant of such lot, or the agent of such owner or occupant, shall cause such earth, rocks, rubbish or other thing to be removed and cleaned from such sidewalk or roadway, within three days after a written or printed notice shall have been served by the commissioner or a duly designated representative, on such owner, personally, or shall have been left at the place of residence of such owner in this city; or, if such owner does not reside in the city, and such notice shall not be personally served, then within twenty days after such notice to be sent by mail, addressed to such owner at his or her place of residence, or, when such residence is unknown to such commissioner, within twenty days after such notice shall have been posted in a conspicuous place on such premises.
 
    b.   If the owner, occupant or agent fails to comply with such notice, within the time specified in this section, after notice thereof, the commissioner shall cause the same to be removed at the expense of the owner, occupant or agent, and such expense shall be sued for and recovered in the name of the city.
 
@@ -717,7 +717,7 @@ Chapter 1: Department of Sanitation
 § 16-128 Removal of incumbrances from streets.  ::
 
 
-	a.   The commissioner shall remove, or cause to be removed, any vehicle, box, barrel, bale of merchandise or other movable property or article or thing whatsoever found upon any street, in accordance with regulations adopted by the board of estimate.
+a.   The commissioner shall remove, or cause to be removed, any vehicle, box, barrel, bale of merchandise or other movable property or article or thing whatsoever found upon any street, in accordance with regulations adopted by the board of estimate.
 
    b.   The board of estimate shall set forth, in such regulations, the procedures to be followed by the commissioner relating to:
 
@@ -743,7 +743,7 @@ Chapter 1: Department of Sanitation
 § 16-129 Rates for the use of department disposal facilities.  ::
 
 
-	The commissioner may require any person desiring to use some or all of the incinerators or other plants under his or her control to set apart for his or her use, for the disposal of manure, swill, ashes, street sweepings, bones, garbage, night soil, offal, fats, hides, hoofs or other refuse parts of slaughtered animals, refuse, rubbish, bodies of dead animals or any other offensive or noxious material, paper stock, or trade waste, to pay for the disposal of the same at rates established by the council by local law, upon recommendation of the commissioner, and on such terms and conditions as such commissioner shall prescribe and subject to rules governing the use of such incinerators or other plants, except as otherwise provided by section 16-203. The commissioner may make, adopt and promulgate rules to effectuate the purposes of this section.
+The commissioner may require any person desiring to use some or all of the incinerators or other plants under his or her control to set apart for his or her use, for the disposal of manure, swill, ashes, street sweepings, bones, garbage, night soil, offal, fats, hides, hoofs or other refuse parts of slaughtered animals, refuse, rubbish, bodies of dead animals or any other offensive or noxious material, paper stock, or trade waste, to pay for the disposal of the same at rates established by the council by local law, upon recommendation of the commissioner, and on such terms and conditions as such commissioner shall prescribe and subject to rules governing the use of such incinerators or other plants, except as otherwise provided by section 16-203. The commissioner may make, adopt and promulgate rules to effectuate the purposes of this section.
 
 
 
@@ -751,7 +751,7 @@ Chapter 1: Department of Sanitation
 § 16-129.1 Rate for the use of department compost facilities.  ::
 
 
-	The commissioner is authorized to collect a fee of ten dollars per cubic yard for the disposal of yard waste at department compost facilities. For purposes of this section, the term "yard waste" shall mean leaves, grass clippings, garden debris, vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material, except that no material greater than eight inches in diameter and eight feet in length shall be considered yard waste; and the term "compost facilities" shall mean facilities operated by the department and used for the aerobic and thermophilic decomposition of organic constituents of solid waste to produce a stable, humus-like material.
+The commissioner is authorized to collect a fee of ten dollars per cubic yard for the disposal of yard waste at department compost facilities. For purposes of this section, the term "yard waste" shall mean leaves, grass clippings, garden debris, vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material, except that no material greater than eight inches in diameter and eight feet in length shall be considered yard waste; and the term "compost facilities" shall mean facilities operated by the department and used for the aerobic and thermophilic decomposition of organic constituents of solid waste to produce a stable, humus-like material.
 
 
 
@@ -759,7 +759,7 @@ Chapter 1: Department of Sanitation
 § 16-130 Permit for operators of dumps, non-putrescible solid waste transfer stations, putrescible solid waste transfer stations and fill material operations.  ::
 
 
-	a.   As used in this section:
+a.   As used in this section:
 
       1.    The term "solid waste" shall mean all putrescible and non-putrescible materials or substances, other than those materials or substances described in subparagraph (b) of this paragraph, that are discarded or rejected, including but not limited to garbage, refuse, waste collected by any person required to be licensed or registered pursuant to chapter 1 of title 16-A of this code, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal. Such term shall include recyclable materials, as defined in subdivision i of section 16-303 of this title.
 
@@ -815,7 +815,7 @@ Chapter 1: Department of Sanitation
 § 16-131 Rules for the operation of dumps, non-putrescible solid waste transfer stations, putrescible solid waste transfer stations and fill material operations; permits and fees.  ::
 
 
-	a.   The commissioner shall have power to adopt rules:
+a.   The commissioner shall have power to adopt rules:
 
       1.   controlling and providing for supervision over the conduct, operation, and use by persons or public agencies of all piers or lands or lands under water used as dumps, non-putrescible solid waste transfer stations or putrescible solid waste transfer stations, or for fill material operations;
 
@@ -853,7 +853,7 @@ Chapter 1: Department of Sanitation
 § 16-131.1 Issuance, renewal, suspension and revocation of permits.  ::
 
 
-	The commissioner shall be responsible for the issuance, renewal, suspension and revocation of permits required by section 16-130 of this chapter. An application for such a permit shall also be presented by the department to the New York city trade waste commission for review by such commission. The commissioner shall consider the recommendations of such commission in making a determination pursuant to this section.
+The commissioner shall be responsible for the issuance, renewal, suspension and revocation of permits required by section 16-130 of this chapter. An application for such a permit shall also be presented by the department to the New York city trade waste commission for review by such commission. The commissioner shall consider the recommendations of such commission in making a determination pursuant to this section.
 
    a.   The commissioner, consistent with article twenty-three-A of the correction law, may refuse to issue or renew a permit required by section 16-130 of this chapter, or may, after notice and the opportunity to be heard, suspend or revoke such a permit when the applicant for such permit or such permittee has been denied a license required by section 16-505 of this code to operate a business for the collection, removal or disposal of trade waste or has had such a license revoked for the reason that such applicant or licensee has been found to lack good character, honesty and integrity by the trade waste commission pursuant to the provisions of title sixteen-A of this code.
 
@@ -887,7 +887,7 @@ Chapter 1: Department of Sanitation
 § 16-131.2 Additional powers of the commissioner.  ::
 
 
-	In addition to any other enforcement procedures authorized by law, the commissioner shall have the powers described in this section.
+In addition to any other enforcement procedures authorized by law, the commissioner shall have the powers described in this section.
 
    a.   The commissioner may order any person violating section 16-130 or 16-131 of this chapter or article one hundred fifty-seven of the New York city health code to discontinue such violation immediately.
 
@@ -913,7 +913,7 @@ Chapter 1: Department of Sanitation
 § 16-131.3 Removal or abatement of public nuisance.  ::
 
 
-	a.   1.    Whenever the commissioner finds that there exists, on premises required to be permitted pursuant to section 16-130 of this chapter, a condition hazardous to public health or safety, the commissioner may declare such premises to be a public nuisance and order the permittee and/or owner to remove or abate such public nuisance as such order shall specify. It shall be the duty of such permittee and/or owner upon whom such an order has been served to remove or abate such public nuisance in the manner and in the time provided by such order.
+a.   1.    Whenever the commissioner finds that there exists, on premises required to be permitted pursuant to section 16-130 of this chapter, a condition hazardous to public health or safety, the commissioner may declare such premises to be a public nuisance and order the permittee and/or owner to remove or abate such public nuisance as such order shall specify. It shall be the duty of such permittee and/or owner upon whom such an order has been served to remove or abate such public nuisance in the manner and in the time provided by such order.
 
       2.   For the purpose of this subdivision, the finding whether a condition hazardous to the public health or safety exists shall be based on factors that include but are not limited to: (i) the quantity of solid waste, or of material listed in subparagraph (b) of paragraph one of subdivision a of section 16-130 of this chapter, that may create a condition hazardous to the public health or safety; (ii) the types of solid waste, or of such material listed in such subparagraph, that may create such a condition; and/or (iii) the risk of harm to the public or the environment.
 
@@ -967,7 +967,7 @@ Chapter 1: Department of Sanitation
 § 16-131.4 Impoundment and forfeiture.  ::
 
 
-	a.   Any equipment, vehicles or other personal property that has been used or is being used to violate the provisions of section 16-130, 16-131, 16-131.2 or 16-131.3 of this chapter or article one hundred fifty-seven of the New York city health code may be impounded by the department pending forfeiture pursuant to the provisions of this section. Such equipment, vehicles or other personal property shall be released by the end of the following business day unless the department ascertains either (i) that the owner of the premises upon which the equipment, vehicles or other personal property has been or is being used has not obtained a permit required by section 16-130 of this chapter, (ii) that the owner has been convicted of or found liable for a violation of section 16-130, 16-131, 16-131.2 or 16-131.3 of this chapter, or article one hundred fifty-seven of the New York city health code, in a civil or criminal judicial proceeding or in a proceeding before an agency of competent jurisdiction and such violation was committed within eighteen months prior to the violation of law for which such equipment, vehicles or other personal property was impounded, or (iii) that the alleged violation of such sections or article for which such equipment, vehicles or other personal property was impounded involves the unlawful handling, processing, transportation, disposal or storage of a material identified as a hazardous waste or an acute hazardous waste in regulations promulgated pursuant to section 27-0903 of the environmental conservation law.
+a.   Any equipment, vehicles or other personal property that has been used or is being used to violate the provisions of section 16-130, 16-131, 16-131.2 or 16-131.3 of this chapter or article one hundred fifty-seven of the New York city health code may be impounded by the department pending forfeiture pursuant to the provisions of this section. Such equipment, vehicles or other personal property shall be released by the end of the following business day unless the department ascertains either (i) that the owner of the premises upon which the equipment, vehicles or other personal property has been or is being used has not obtained a permit required by section 16-130 of this chapter, (ii) that the owner has been convicted of or found liable for a violation of section 16-130, 16-131, 16-131.2 or 16-131.3 of this chapter, or article one hundred fifty-seven of the New York city health code, in a civil or criminal judicial proceeding or in a proceeding before an agency of competent jurisdiction and such violation was committed within eighteen months prior to the violation of law for which such equipment, vehicles or other personal property was impounded, or (iii) that the alleged violation of such sections or article for which such equipment, vehicles or other personal property was impounded involves the unlawful handling, processing, transportation, disposal or storage of a material identified as a hazardous waste or an acute hazardous waste in regulations promulgated pursuant to section 27-0903 of the environmental conservation law.
 
    b.   Notice of impoundment and intended forfeiture shall be served together with the notice of the violation of law for which equipment, vehicles or other personal property was impounded. Such notice shall contain notice of the right to request a hearing before the department with respect to whether there is reasonable cause to believe that such equipment, vehicles or other personal property will be subject to forfeiture; a hearing shall be provided within three business days of such request, and a determination shall be rendered within four business days of the conclusion of such hearing. The hearing officer shall submit recommended findings of fact and a recommended decision to the commissioner, who shall make the final findings of fact and the final determination. If the commissioner determines that there is not reasonable cause to believe that such equipment, vehicles or other personal property will be subject to forfeiture, the department shall release such equipment, vehicles or other personal property, and no charges or fees shall be imposed as a condition of such release. If the commissioner determines that there is reasonable cause to believe that such equipment, vehicles or other personal property will be subject to forfeiture, the department may retain such equipment, vehicles or other personal property pending forfeiture pursuant to the provisions of this section. If after adjudication of the violation of law for which such equipment, vehicles or other personal property was impounded the court or agency of competent jurisdiction finds the respondent not guilty of or not liable for such violation, such equipment, vehicles or other personal property shall be released forthwith, and no charges or fees shall be imposed as a condition of such release. If after adjudication of such violation of law, the court or agency of competent jurisdiction finds the respondent guilty of or liable for such violation, then upon demand of the respondent the department shall either release such equipment, vehicles or other personal property upon payment of all outstanding fines and civil penalties, and removal charges and storage fees, or commence a forfeiture proceeding pursuant to this section within ten days after such demand.
 
@@ -989,7 +989,7 @@ Chapter 1: Department of Sanitation
 § 16-131.5 Inquiries and subpoena power.  ::
 
 
-	The commissioner shall have the power to conduct such inquiries as may assist him or her in the performance of the functions of the department pursuant to sections 16-117.1, 16-120.1, 16-119, 16-130, 16-131, 16-131.1, 16-131.2, 16-131.3, 16-131.4 or 16-133 of this chapter and for such purpose shall have subpoena power to compel the attendance of witnesses, to administer oaths, examine witnesses and to compel the production of books, papers and documents.
+The commissioner shall have the power to conduct such inquiries as may assist him or her in the performance of the functions of the department pursuant to sections 16-117.1, 16-120.1, 16-119, 16-130, 16-131, 16-131.1, 16-131.2, 16-131.3, 16-131.4 or 16-133 of this chapter and for such purpose shall have subpoena power to compel the attendance of witnesses, to administer oaths, examine witnesses and to compel the production of books, papers and documents.
 
 
 
@@ -997,7 +997,7 @@ Chapter 1: Department of Sanitation
 § 16-132 Lease of advertising space on litter baskets.  ::
 
 
-	Notwithstanding any other provision of local law, the commissioner shall have the power, subject to the approval of the board of estimate, to lease, rent or otherwise grant advertising space to any person on any basket, container or receptacle placed in a public place by the department or its authorized agent for the public disposal of litter and to collect rentals, fees, charges or accept any other consideration for the lease, rental or other grant of such advertising space.
+Notwithstanding any other provision of local law, the commissioner shall have the power, subject to the approval of the board of estimate, to lease, rent or otherwise grant advertising space to any person on any basket, container or receptacle placed in a public place by the department or its authorized agent for the public disposal of litter and to collect rentals, fees, charges or accept any other consideration for the lease, rental or other grant of such advertising space.
 
 
 
@@ -1005,7 +1005,7 @@ Chapter 1: Department of Sanitation
 § 16-133 Enforcement.  ::
 
 
-	a.   1.    Any person who violates any provision of section 16-129, 16-130, 16-131, 16-131.2, 16-131.3 or 16-131.5 of this chapter, or article one hundred fifty-seven of the New York city health code, shall be guilty of a misdemeanor, and upon conviction thereof shall be punished by a fine not to exceed twenty-five thousand dollars, or by imprisonment for a term of not more than one year, or by both such fine and imprisonment.
+a.   1.    Any person who violates any provision of section 16-129, 16-130, 16-131, 16-131.2, 16-131.3 or 16-131.5 of this chapter, or article one hundred fifty-seven of the New York city health code, shall be guilty of a misdemeanor, and upon conviction thereof shall be punished by a fine not to exceed twenty-five thousand dollars, or by imprisonment for a term of not more than one year, or by both such fine and imprisonment.
 
       2.    In addition to any other penalties provided under paragraph one of this subdivision, any violation of section 16-129, 16-130, 16-131, 16-131.2, 16-131.3 or 16-131.5 of this chapter, or article one hundred fifty-seven of the New York city health code, shall be punishable by a civil penalty of not less than twenty-five hundred dollars nor more than ten thousand dollars for the first violation, not less than five thousand nor more than ten thousand dollars for the second violation committed in a period of three years, and ten thousand dollars for the third and any subsequent violation committed in such period. Every owner of premises or of equipment, vehicles or other personal property shall be punishable by a civil penalty of not less than twenty-five hundred dollars nor more than ten thousand dollars for the first violation, not less than five thousand nor more than ten thousand dollars for the second violation committed in a period of three years, and ten thousand dollars for the third and any subsequent violation committed in such period by any person using or operating the same, in the business of such owner or otherwise, with the permission, express or implied, of such owner. In the case of a continuing violation, every day's continuance thereof may be deemed to be a separate and distinct violation. Civil penalties shall be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board, provided however that civil penalties for violations of article one hundred fifty-seven of the New York city health code may only be recovered as provided by law for violations of the New York city health code. As used in this paragraph, "owner" means a person, other than a holder of a security interest, having the property in or title to premises or equipment, vehicles or other personal property, including but not limited to a person entitled to use and possession of premises or equipment, vehicles or other personal property subject to a security interest in another person and also includes any lessee or bailee having exclusive use thereof.
 
@@ -1025,7 +1025,7 @@ Chapter 1: Department of Sanitation
 § 16-134 Comprehensive study of commercial solid waste management system required.  ::
 
 
-	a.   1.   "Long haul transport vehicle" shall mean any motor vehicle used to remove solid waste or other material from a putrescible or non-putrescible solid waste transfer station for final disposal, reuse or recycling.
+a.   1.   "Long haul transport vehicle" shall mean any motor vehicle used to remove solid waste or other material from a putrescible or non-putrescible solid waste transfer station for final disposal, reuse or recycling.
 
       2.   "Private carter" shall mean any individual or business entity required to obtain a license from the trade waste commission pursuant to subdivision a of section 16-505 of this title.
 
@@ -1055,7 +1055,7 @@ Chapter 1: Department of Sanitation
 § 16-135 Snow removal volunteer registry.  ::
 
 
-	a.   The department or such entity as the commissioner delegates, shall:
+a.   The department or such entity as the commissioner delegates, shall:
 
       1.   assist organizations such as local not-for-profit organizations, civic organizations and community groups to establish registries of volunteers willing to help remove snow on behalf of persons who have difficulty fulfilling their obligations under section 16-123 of this chapter due to infirmity, illness or physical incapacity;
 
@@ -1073,7 +1073,7 @@ Chapter 1: Department of Sanitation
 § 16-140 Solid Waste Management Plan.  ::
 
 
-	(a)   No final solid waste management plan for the city shall be submitted pursuant to article twenty-seven of the environmental conservation law unless such submission has been authorized by the council by local law, except as provided in subdivisions c, d and e of this section.
+(a)   No final solid waste management plan for the city shall be submitted pursuant to article twenty-seven of the environmental conservation law unless such submission has been authorized by the council by local law, except as provided in subdivisions c, d and e of this section.
 
    (b)   A draft solid waste management plan for the city which is to be submitted pursuant to article twenty-seven of the environmental conservation law shall be presented to the council at or before the time of such submission, but in no event later than the thirty-first day of March, nineteen hundred ninety-two. Any comments by the New York State department of environmental conservation shall be transmitted to the council immediately upon their receipt.
 
@@ -1089,7 +1089,7 @@ Chapter 1: Department of Sanitation
 § 16-141 Uniform civil penalties for littering and public urination. ::
 
 
-	a.   Notwithstanding any inconsistent provision of law, the civil penalties for the violation of the prohibition against urination set forth section 1-04(k) of title 56 of the rules of the city of New York, or any successor rule of the department of parks and recreation that prohibits public urination, shall be no greater than the civil penalties established in paragraph b of subdivision 9 of section 16-118 of the code.
+a.   Notwithstanding any inconsistent provision of law, the civil penalties for the violation of the prohibition against urination set forth section 1-04(k) of title 56 of the rules of the city of New York, or any successor rule of the department of parks and recreation that prohibits public urination, shall be no greater than the civil penalties established in paragraph b of subdivision 9 of section 16-118 of the code.
 
       b.   Notwithstanding any inconsistent provision of law, the civil penalties for the violation of the first two sentences of section 1-04(c)(1) of title 56 of the rules of the city of New York, or any successor rules of the department of parks and recreation that prohibit littering and require the use of receptacles for refuse disposal, shall be no greater than the civil penalties established in paragraph c of subdivision 9 of section 16-118 of the code.
 
@@ -1101,7 +1101,7 @@ Chapter 1: Department of Sanitation
 § 16-142 Violations received after a disaster.  ::
 
 
-	a.   For the purposes of this section, the term "covered person" means any owner, lessee, tenant or occupant of a one-, two- or three-family residential building or of a premises or lot that contained such a building immediately preceding a natural or man-made disaster.
+a.   For the purposes of this section, the term "covered person" means any owner, lessee, tenant or occupant of a one-, two- or three-family residential building or of a premises or lot that contained such a building immediately preceding a natural or man-made disaster.
 
    b.   It shall be an affirmative defense to a violation of subdivision two of section 16-118 for any covered person that:
 
@@ -1123,7 +1123,7 @@ Chapter 2: Solid Waste Management
 § 16-201 Facility assignment.  ::
 
 
-	a.   The commissioner is authorized and empowered to promulgate regulations and procedures for the management on a city-wide basis of all solid waste generated or disposed of within the city and to supervise and regulate the transportation and disposition of all solid waste generated or disposed of within the city pursuant to the standards established herein, provided that no regulation shall abridge, impair or restrict any bona fide firm contracts for the purchase or delivery of solid waste for resource recovery entered into between private parties prior to the date at which final notice of regulations is filed with the city clerk, and that any such regulations are accompanied by a justification of such regulations that demonstrates either:
+a.   The commissioner is authorized and empowered to promulgate regulations and procedures for the management on a city-wide basis of all solid waste generated or disposed of within the city and to supervise and regulate the transportation and disposition of all solid waste generated or disposed of within the city pursuant to the standards established herein, provided that no regulation shall abridge, impair or restrict any bona fide firm contracts for the purchase or delivery of solid waste for resource recovery entered into between private parties prior to the date at which final notice of regulations is filed with the city clerk, and that any such regulations are accompanied by a justification of such regulations that demonstrates either:
 
       (1)   That regulating privately collected solid waste or a portion of such waste, whether by waste origin, destination, type or by any other reasonable basis will, in the opinion of the commissioner, help facilitate the construction, expansion, rehabilitation or operation, by or for the city, of a solid waste recovery and management facility, or will help the city discharge its responsibilities with respect to the management, including trasportation* and disposition, on a city-wide basis, of all solid waste generated or disposed of within the city, or
 
@@ -1157,7 +1157,7 @@ Chapter 2: Solid Waste Management
 § 16-202 Waste acceptability.  ::
 
 
-	a.   The commissioner shall promulgate a list of facilities and solid wastes accepted and not accepted at each such facility.
+a.   The commissioner shall promulgate a list of facilities and solid wastes accepted and not accepted at each such facility.
 
    b.   Solid wastes not acceptable at certain or all facilities may include, but need not be limited to, the following:
 
@@ -1179,7 +1179,7 @@ Chapter 2: Solid Waste Management
 § 16-203 Charges.  ::
 
 
-	a.   The rates for use of facilities provided by or for the department shall be fixed by the board of estimate upon the recommendation of the commissioner, who shall require persons assigned to such facilities to pay such rates.
+a.   The rates for use of facilities provided by or for the department shall be fixed by the board of estimate upon the recommendation of the commissioner, who shall require persons assigned to such facilities to pay such rates.
 
    b.   The rates shall be sufficient, when added to other waste disposal and resource recovery revenues and to the value to the department of its proportionate use of all facilities comprising the solid waste management system of the city, as determined by the commissioner, to provide for all expenses of transportation, land acquisition, construction, equipment, operations including enforcement, administrative and insurance costs, maintenance, expansion, replacement, financing and reasonable reserves therefore and any other costs that may be required for the financing or completion of facilities, equipment or land to be used for furnishing solid waste management services. The commissioner may from time to time recommend and the board of estimate may prescribe changes in rates, provided that such changes shall be based on changes in the cost of furnishing solid waste management services.
 
@@ -1195,7 +1195,7 @@ Chapter 2: Solid Waste Management
 § 16-204 Recordkeeping and filing requirements.  ::
 
 
-	Each person assigned to a facility or facilities shall submit to the commissioner an annual report on such date as the commissioner shall determine, in a form established by the commissioner, which provides information required by the commissioner to plan, develop, maintain and operate facilities and provide waste management services. Such information shall include but not be limited to daily solid waste volumes and general composition or character of wastes by each vehicle route to and from facilities.
+Each person assigned to a facility or facilities shall submit to the commissioner an annual report on such date as the commissioner shall determine, in a form established by the commissioner, which provides information required by the commissioner to plan, develop, maintain and operate facilities and provide waste management services. Such information shall include but not be limited to daily solid waste volumes and general composition or character of wastes by each vehicle route to and from facilities.
 
 
 
@@ -1203,7 +1203,7 @@ Chapter 2: Solid Waste Management
 § 16-205 Variances.  ::
 
 
-	a.   There shall be in the department a solid waste management board consisting of the commissioner, the commissioner of consumer affairs and the executive director of the office for economic development, all of whom shall serve on the board without compensation and all of whom shall have the power to exercise or delegate any of their functions, powers and duties as members of the board. Such board may grant variances from a regulation or modify assignments or rates of the commissioner involving the transportation, storage, processing or disposal of solid waste when such board finds that such regulation or order would impose unreasonable economic hardship. The specific terms of any variance granted shall be determined by such board on a case by case basis. Any person seeking a variance shall do so by filing with such board a petition for variance in a form prescribed by such board. Such forms shall document the need for a variance.
+a.   There shall be in the department a solid waste management board consisting of the commissioner, the commissioner of consumer affairs and the executive director of the office for economic development, all of whom shall serve on the board without compensation and all of whom shall have the power to exercise or delegate any of their functions, powers and duties as members of the board. Such board may grant variances from a regulation or modify assignments or rates of the commissioner involving the transportation, storage, processing or disposal of solid waste when such board finds that such regulation or order would impose unreasonable economic hardship. The specific terms of any variance granted shall be determined by such board on a case by case basis. Any person seeking a variance shall do so by filing with such board a petition for variance in a form prescribed by such board. Such forms shall document the need for a variance.
 
    b.   Exemptions from formal variance request procedures may be made for day-to-day operational hardships such as equipment failure. The commissioner may grant temporary facility and time assignment variances to persons who report such hardships to the commissioner. Proof of hardship must be submitted to the commissioner within the time frame set by the commissioner. Subsequent exemptions may be withheld for failing to submit proof of hardship for any prior request.
 
@@ -1213,7 +1213,7 @@ Chapter 2: Solid Waste Management
 § 16-206 Enforcement proceedings.  ::
 
 
-	a.   The commissioner shall issue a notice of violation returnable to the environmental control board to any person violating a provision of this chapter or any regulation promulgated by the commissioner pursuant to this chapter.
+a.   The commissioner shall issue a notice of violation returnable to the environmental control board to any person violating a provision of this chapter or any regulation promulgated by the commissioner pursuant to this chapter.
 
    b.   The environmental control board shall impose penalties as provided in subdivisions c and d.
 
@@ -1223,7 +1223,7 @@ Chapter 2: Solid Waste Management
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
 ~
 
@@ -1233,23 +1233,23 @@ Chapter 2: Solid Waste Management
 
 
 .. list-table::
- :header-rows: 1
+    :header-rows: 1
 
- * - SCHEDULE OF PENALTIES FOR SPECIFIC VIOLATIONS
- * - Failure to submit accurate and timely annual report pursuant to section 16-204
- - up to $ 1,000.00
- * - Use of restricted streets or use of streets during restricted time periods as established pursuant to section 16-201
- - up to $  100.00
- * - Delivery of waste to an unauthorized facility in violation of assignments made pursuant to section 16-201
- - up to $  300.00
- * - Delivery to a specific facility of waste classified as unacceptable for that facility in violation of regulations promulgated pursuant to section 16-202
- - up to $  300.00
- * - Delivery to a specific facility of waste classified as unacceptable which may have an adverse effect on the health and safety of facility employees or which may damage equipment in violation of regulations promulgated pursuant to section 16-202
- - up to $10,000.00
- * - Delivery of waste classified as hazardous in violation of regulations promulgated pursuant to section 16-202
- - up to $10,000.00
- * - Delivery of waste classified as regulated medical waste or other medical waste in violation of regulations promulgated pursuant to section 16-202
- - up to $10,000.00
+    * - SCHEDULE OF PENALTIES FOR SPECIFIC VIOLATIONS
+    * - Failure to submit accurate and timely annual report pursuant to section 16-204
+      - up to $ 1,000.00
+    * - Use of restricted streets or use of streets during restricted time periods as established pursuant to section 16-201
+      - up to $  100.00
+    * - Delivery of waste to an unauthorized facility in violation of assignments made pursuant to section 16-201
+      - up to $  300.00
+    * - Delivery to a specific facility of waste classified as unacceptable for that facility in violation of regulations promulgated pursuant to section 16-202
+      - up to $  300.00
+    * - Delivery to a specific facility of waste classified as unacceptable which may have an adverse effect on the health and safety of facility employees or which may damage equipment in violation of regulations promulgated pursuant to section 16-202
+      - up to $10,000.00
+    * - Delivery of waste classified as hazardous in violation of regulations promulgated pursuant to section 16-202
+      - up to $10,000.00
+    * - Delivery of waste classified as regulated medical waste or other medical waste in violation of regulations promulgated pursuant to section 16-202
+      -  up to $10,000.00
 ~
 
  
@@ -1262,7 +1262,7 @@ Chapter 2: Solid Waste Management
 § 16-207 Regulations.  ::
 
 
-	a.   The commissioner, upon the recommendation of the solid waste management board and upon the approval of the board of estimate, may exempt that portion of privately collected solid waste from all or some provisions of any regulations for such period of time as is necessary and appropriate up to forty years, if the regulation of that solid waste will materially and adversely interfere with the development, financing or operation of any resource recovery facility owned or operated or being developed privately. Any person seeking an exemption shall do so by filing with the solid waste management board a petition for exemption in a form prescribed by such board. Such form shall document the need for an exemption. The effective date of any exemptions granted may be withheld until a bona fide, firm, long-term contract has been executed for delivery of such solid waste to a safe and reliable facility and copy of such contract has been received by the solid waste management board.
+a.   The commissioner, upon the recommendation of the solid waste management board and upon the approval of the board of estimate, may exempt that portion of privately collected solid waste from all or some provisions of any regulations for such period of time as is necessary and appropriate up to forty years, if the regulation of that solid waste will materially and adversely interfere with the development, financing or operation of any resource recovery facility owned or operated or being developed privately. Any person seeking an exemption shall do so by filing with the solid waste management board a petition for exemption in a form prescribed by such board. Such form shall document the need for an exemption. The effective date of any exemptions granted may be withheld until a bona fide, firm, long-term contract has been executed for delivery of such solid waste to a safe and reliable facility and copy of such contract has been received by the solid waste management board.
 
    b.   In the event that any resource recovery facility owned or operated privately fails to adequately process or dispose of solid waste and such facility does not provide for alternate storage, processing or disposal, the privately collected solid waste exempted from regulation and not disposed by the facility may be made subject to any regulation for which it had been exempted.
 
@@ -1278,7 +1278,7 @@ Chapter 2: Solid Waste Management
 § 16-208 Publication of regulations.  ::
 
 
-	Notwithstanding any inconsistent provisions of section eleven hundred five of the charter, the regulations promulgated pursuant to this chapter shall be promulgated pursuant to the procedures set forth in this section. The commissioner shall:
+Notwithstanding any inconsistent provisions of section eleven hundred five of the charter, the regulations promulgated pursuant to this chapter shall be promulgated pursuant to the procedures set forth in this section. The commissioner shall:
 
    a.   publish notice of the proposed regulations in at least two newspapers of general circulation, the city record, and at least one industry journal:
 
@@ -1294,7 +1294,7 @@ Chapter 2: Solid Waste Management
 § 16-209 Definitions.  ::
 
 
-	As used in this title:
+As used in this title:
 
    a.   "Solid waste" means all materials or substances discarded or rejected as being spent, useless, or worthless, including but not limited to garbage, refuse, industrial and commercial waste, sludges from air or water pollution control facilities or water supply treatment facilities, rubbish, ashes, contained gaseous material, incinerator residue, demolition and construction debris and offal, but not including sewage and other highly diluted water-carried materials or substances and those in gaseous forms.
 
@@ -1310,7 +1310,7 @@ Chapter 3: Solid Waste Recycling
 § 16-301 Short title.  ::
 
 
-	This chapter shall be known and may be cited as the "New York City Recycling Law."
+This chapter shall be known and may be cited as the "New York City Recycling Law."
 
 
 
@@ -1318,7 +1318,7 @@ Chapter 3: Solid Waste Recycling
 § 16-302 Declaration of policy.  ::
 
 
-	It is hereby declared to be the public policy of the city to reduce environmental pollution and dangers to health, to decrease the demand for scarce landfill space, to minimize the size and cost of the proposed resource recovery program, and to encourage the conservation of valuable natural resources and energy. It is the policy of the city to promote the recovery of materials from the New York city solid waste stream for the purpose of recycling such materials and returning them to the economy. This chapter shall be liberally construed in order to effectuate the purposes set forth in this section.
+It is hereby declared to be the public policy of the city to reduce environmental pollution and dangers to health, to decrease the demand for scarce landfill space, to minimize the size and cost of the proposed resource recovery program, and to encourage the conservation of valuable natural resources and energy. It is the policy of the city to promote the recovery of materials from the New York city solid waste stream for the purpose of recycling such materials and returning them to the economy. This chapter shall be liberally construed in order to effectuate the purposes set forth in this section.
 
 
 
@@ -1326,7 +1326,7 @@ Chapter 3: Solid Waste Recycling
 § 16-303 Definitions.  ::
 
 
-	When used in this chapter:
+When used in this chapter:
 
 "Architectural paint" means interior and exterior architectural coatings, including paints and stains purchased for commercial or residential use, but does not include architectural coatings purchased for industrial use or for use in the manufacture of products.
 
@@ -1396,7 +1396,7 @@ Chapter 3: Solid Waste Recycling
 § 16-304 Department-disposed of solid waste. [Repealed]  ::
 
 
-	a.   1. The following recycling percentage goals are established for the recycling of department-managed solid waste:
+a.   1. The following recycling percentage goals are established for the recycling of department-managed solid waste:
 
          i.   by July first, two thousand eleven, sixteen percent of department-managed solid waste;
 
@@ -1480,7 +1480,7 @@ Chapter 3: Solid Waste Recycling
 § 16-305.1 Weekly collection of designated recyclable materials.  ::
 
 
-	a.   Weekly collection of designated recyclable materials shall be maintained in all local service delivery districts.
+a.   Weekly collection of designated recyclable materials shall be maintained in all local service delivery districts.
 
    b.   Effective July first, two thousand three, and notwithstanding any inconsistent provision of this chapter, the department shall be authorized, by written order of the commissioner, to implement and maintain alternate week collection of designated recyclable materials in all local service delivery districts, provided that the department may, by written order of the commissioner, provide for more frequent collection of designated recyclable materials in designated local service delivery districts. Any such written order of the commissioner implementing alternate week collection shall expire no later than March thirty-first, two thousand four.
 
@@ -1494,7 +1494,7 @@ Chapter 3: Solid Waste Recycling
 § 16-306 Private carter-collected waste.  ::
 
 
-	a.   The commissioner shall adopt and implement rules designating recyclable materials that constitute in the aggregate at least one-half of all solid waste collected by private carters, and additional materials if the commissioner determines that economic markets exist for them. Pursuant to subdivision b of this section, such rules shall require generators of private carter-collected waste to source separate some or all of the designated materials and to arrange for lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters of such source separated materials. With regard to designated materials that are not required by such rules to be source separated, generators of private carter-collected waste may source separate these designated materials and, in any event, shall arrange for their lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters. If a generator or private carter-collected waste has source separated the designated materials in accordance with the rules and arranged for the lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters of such source separated materials and, with regard to designated materials that are not required by such rules to be source separated, arranged for lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters, such arrangement shall constitute an affirmative defense to any proceeding brought against the generator pursuant to section 16-324 of this chapter.
+a.   The commissioner shall adopt and implement rules designating recyclable materials that constitute in the aggregate at least one-half of all solid waste collected by private carters, and additional materials if the commissioner determines that economic markets exist for them. Pursuant to subdivision b of this section, such rules shall require generators of private carter-collected waste to source separate some or all of the designated materials and to arrange for lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters of such source separated materials. With regard to designated materials that are not required by such rules to be source separated, generators of private carter-collected waste may source separate these designated materials and, in any event, shall arrange for their lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters. If a generator or private carter-collected waste has source separated the designated materials in accordance with the rules and arranged for the lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters of such source separated materials and, with regard to designated materials that are not required by such rules to be source separated, arranged for lawful collection for recycling, reuse or sale for reuse by private carters or persons other than private carters, such arrangement shall constitute an affirmative defense to any proceeding brought against the generator pursuant to section 16-324 of this chapter.
 
    b.   The rules promulgated pursuant to subdivision a of this section shall require that generators of waste collected by businesses required to be licensed pursuant to section 16-505 of this code source separate the designated materials in such manner and to such extent as the commissioner determines to be necessary to minimize contamination and maximize the marketability of such materials. However, in promulgating such rules the commissioner shall not require source separation of a material unless the commissioner has determined that an economic market exists for such material. For the purpose of this section, the term "economic market" refers to instances in which the full avoided costs of proper collection, transportation and disposal of source separated materials are equal to or greater than the cost of collection, transportation and sale of said materials less the amount received from the sale of said materials. The New York city business integrity commission shall adopt and implement rules requiring businesses licensed to remove, collect or dispose of trade waste to provide for the collection of, and ensure the continued separation of, designated materials that have been source separated, provide for the separation of all other designated materials, and provide for recycling of all the designated materials. Rules promulgated by the business integrity commission pursuant to this subdivision shall be enforced in the manner provided in section 16-517 of this code and violations of such rules shall be subject to the penalties provided in subdivision a of section 16-515 of this code for violation of the provisions of chapter one of title 16-A of this code. In addition, the commissioner shall have the authority to issue notices of violation for any violation of such rule and such notices of violation shall be returnable in a civil action brought in the name of the commissioner before the environmental control board which shall impose a penalty not to exceed ten thousand dollars for each such violation.
 
@@ -1506,7 +1506,7 @@ Chapter 3: Solid Waste Recycling
 § 16-306.1 Organic waste. ::
 
 
-	a.   When used in this section or section 16-324 of this chapter:
+a.   When used in this section or section 16-324 of this chapter:
 
       "Arena" means an establishment or facility that hosts live sporting or entertainment events.
 
@@ -1604,7 +1604,7 @@ Chapter 3: Solid Waste Recycling
 § 16-307 City agency waste.  ::
 
 
-	a.   The commissioner shall adopt, amend and implement rules, as necessary, governing the source separation or post-collection separation, collection, processing, marketing, and sale of designated recyclable materials including, but not limited to, designated metal, glass, plastic and paper generated by any agency, as such term is defined in section 1-112 of the code.
+a.   The commissioner shall adopt, amend and implement rules, as necessary, governing the source separation or post-collection separation, collection, processing, marketing, and sale of designated recyclable materials including, but not limited to, designated metal, glass, plastic and paper generated by any agency, as such term is defined in section 1-112 of the code.
 
    b.   Every agency shall, no later than July first, two thousand eleven, prepare and submit to the commissioner for approval, a waste prevention, reuse and recycling plan. Such plan shall provide for the source separation of designated metal, glass, plastic and paper, and such other designated recyclable materials as the commissioner deems appropriate, in all offices and buildings occupied by agencies that receive collection service from the department and, to the extent practicable, in those that receive private carter collection. Such plans shall provide for the source separation of designated recyclable materials in the lobbies of such offices or buildings that receive department collection, unless the placement of bins for the source separation of designated recyclable materials would be in violation of any other provision of law, and, to the extent practicable, in the lobbies of such offices or buildings that receive private carter collection. Each agency shall designate a lead recycling or sustainability coordinator to oversee implementation of such plans. If an agency has offices in more than one city-owned building, then such agency shall designate one assistant coordinator for each building in which such agency has offices, except the building in which the lead coordinator has his or her office, to assist the agency's lead coordinator.
 
@@ -1616,7 +1616,7 @@ Chapter 3: Solid Waste Recycling
 § 16-307.1 School recycling.  ::
 
 
-	a.   The chancellor of the department of education shall designate a sustainability director for the department of education, who shall be responsible for (i) setting policies, guidelines and goals to promote waste prevention, reuse and recycling practices, and (ii) coordinating the department of education's waste prevention, reuse and recycling program in all school buildings, charter school locations, office buildings, and any other facilities under the jurisdiction of the department of education that receive department collection service.
+a.   The chancellor of the department of education shall designate a sustainability director for the department of education, who shall be responsible for (i) setting policies, guidelines and goals to promote waste prevention, reuse and recycling practices, and (ii) coordinating the department of education's waste prevention, reuse and recycling program in all school buildings, charter school locations, office buildings, and any other facilities under the jurisdiction of the department of education that receive department collection service.
 
    b.   The chancellor of the department of education shall promulgate such rules as may be necessary to require that each school building, charter school location, office building, and any other facility under the jurisdiction of the department of education that receives department collection service, develop a site-specific waste prevention, reuse and recycling plan. Each such plan shall be implemented by January first, two thousand eleven. Such plan shall include, at a minimum, a requirement that each classroom maintain a separate receptacle, container or bin for the collection of designated recyclable paper, and that such receptacle, container or bin be appropriately labeled or decorated with recycling information. Such plan shall also provide that separate receptacles, containers or bins for the collection of designated metal, glass and plastic be appropriately labeled or decorated with recycling information and be placed as close as practicable to school entrances, unless the placement of such bins would be in violation of any other provision of law, and in locations within schools where food and beverages are routinely consumed.
 
@@ -1632,7 +1632,7 @@ Chapter 3: Solid Waste Recycling
 § 16-308 Organic waste.  ::
 
 
-	a.   1.   No later than October first, two thousand thirteen, the commissioner shall establish a voluntary residential organic waste curbside collection pilot program for the diversion of organic waste from households in one designated collection area. Such pilot program shall end no earlier than July first, two thousand fifteen. For purposes of this subdivision, a household shall mean a single dwelling or a residential unit within a dwelling that contains two or more residential units and a designated collection area shall mean a contiguous area within a borough comprised of no fewer than one thousand households.
+a.   1.   No later than October first, two thousand thirteen, the commissioner shall establish a voluntary residential organic waste curbside collection pilot program for the diversion of organic waste from households in one designated collection area. Such pilot program shall end no earlier than July first, two thousand fifteen. For purposes of this subdivision, a household shall mean a single dwelling or a residential unit within a dwelling that contains two or more residential units and a designated collection area shall mean a contiguous area within a borough comprised of no fewer than one thousand households.
 
       2.   No later than January first, two thousand fourteen, the commissioner shall establish a school organic waste collection pilot program for the diversion of organic waste from no fewer than three hundred schools located in no fewer than three boroughs. Provided there is sufficient capacity in trucks on collection routes for such pilot program, the department shall provide organic waste collection service to residential buildings with nine or more units that are located on such collection routes and that volunteer for such collection. Such pilot program shall end no earlier than July first, two thousand fifteen.
 
@@ -1672,7 +1672,7 @@ Chapter 3: Solid Waste Recycling
 § 16-309 Christmas trees.  ::
 
 
-	The commissioner shall establish and implement a curbside collection system for Christmas trees during a minimum of two weeks in January of each year and provide for the composting or recycling of the Christmas trees the department collects or receives for disposal.
+The commissioner shall establish and implement a curbside collection system for Christmas trees during a minimum of two weeks in January of each year and provide for the composting or recycling of the Christmas trees the department collects or receives for disposal.
 
 
 
@@ -1680,7 +1680,7 @@ Chapter 3: Solid Waste Recycling
 § 16-310 Public space recycling.  ::
 
 
-	a.   The department shall expand its public space recycling program by increasing the number of public space recycling receptacles for the collection of recyclable materials including, but not limited to, metal, glass, plastic and paper designated as recyclable materials by the commissioner, to a cumulative total of at least five hundred public space recycling receptacles within three years of the effective date of this section, and to a cumulative total of at least one thousand public space recycling receptacles within ten years of the effective date of this section, at public locations in the city, which shall be in or near public parks, transit hubs, or commercial locations with high-pedestrian traffic. As part of such expansion, the department shall place public space recycling receptacles in all business improvement districts that provide public litter basket maintenance. Wherever practicable, public space recycling receptacles placed pursuant to this section shall be placed adjacent to public litter baskets.
+a.   The department shall expand its public space recycling program by increasing the number of public space recycling receptacles for the collection of recyclable materials including, but not limited to, metal, glass, plastic and paper designated as recyclable materials by the commissioner, to a cumulative total of at least five hundred public space recycling receptacles within three years of the effective date of this section, and to a cumulative total of at least one thousand public space recycling receptacles within ten years of the effective date of this section, at public locations in the city, which shall be in or near public parks, transit hubs, or commercial locations with high-pedestrian traffic. As part of such expansion, the department shall place public space recycling receptacles in all business improvement districts that provide public litter basket maintenance. Wherever practicable, public space recycling receptacles placed pursuant to this section shall be placed adjacent to public litter baskets.
 
    b.   Notwithstanding the provisions of subdivision a of this section, the department shall not be required to expand the public space recycling program beyond existing or newly-established collection routes that can be efficiently serviced by the department. The commissioner shall have the authority to remove any public space recycling receptacle placed pursuant to this section, provided that the department replaces any such public space recycling receptacle, within thirty days of removal, with additional public space recycling receptacles at the same or in a different location on a one-to-one basis.
 
@@ -1696,7 +1696,7 @@ Chapter 3: Solid Waste Recycling
 § 16-310.1 Textile reuse and recycling program.  ::
 
 
-	a.   On or before January first, two thousand eleven, the department shall establish a citywide textile reuse and recycling program that shall, at a minimum, provide for the recovery of textiles by placing department-approved publicly accessible textile drop-off bins at appropriate locations on city property or property maintained by the city and organizing public textile reuse and recycling sites throughout the city that provide convenient drop-off locations for all city residents. In addition, the commissioner shall explore opportunities to work cooperatively with private entities, including, but not limited to, not-for-profit corporations and religious institutions, to promote expanded siting of publicly accessible textile drop-off bins on private property throughout the city. The department shall consider using department personnel and/or facilities in order to implement the provisions of this section.
+a.   On or before January first, two thousand eleven, the department shall establish a citywide textile reuse and recycling program that shall, at a minimum, provide for the recovery of textiles by placing department-approved publicly accessible textile drop-off bins at appropriate locations on city property or property maintained by the city and organizing public textile reuse and recycling sites throughout the city that provide convenient drop-off locations for all city residents. In addition, the commissioner shall explore opportunities to work cooperatively with private entities, including, but not limited to, not-for-profit corporations and religious institutions, to promote expanded siting of publicly accessible textile drop-off bins on private property throughout the city. The department shall consider using department personnel and/or facilities in order to implement the provisions of this section.
 
    b.   No publicly accessible textile drop-off bin placed pursuant to this section shall be placed on city property or property maintained by the city, or on a public sidewalk or roadway, unless otherwise authorized by the city. No publicly accessible textile drop-off bin shall be placed on private property without the written permission of the property owner or the property owner's authorized agent. The owner or other person responsible for each such bin shall report at least every three months to the department the amount of textiles collected in such bin by weight. Each publicly accessible textile drop-off bin shall prominently display on the front and on at least one other side of the bin, the name, address and telephone number of the owner or other person responsible for the bin. This information shall be printed in characters that are plainly visible. In no event shall a post office box be considered an acceptable address for purposes of this subdivision.
 
@@ -1708,7 +1708,7 @@ Chapter 3: Solid Waste Recycling
 § 16-310.2 Paint stewardship program.  ::
 
 
-	a.   Within one year of the effective date of this section, the commissioner shall establish a voluntary paint stewardship program under which manufacturers of architectural paint, in cooperation with distributors of architectural paint and retail establishments that sell, or offer for sale, architectural paint in the city of New York, may establish a collection or other reclamation system to collect architectural paint from consumers for reuse, recycling or environmentally sound disposal.
+a.   Within one year of the effective date of this section, the commissioner shall establish a voluntary paint stewardship program under which manufacturers of architectural paint, in cooperation with distributors of architectural paint and retail establishments that sell, or offer for sale, architectural paint in the city of New York, may establish a collection or other reclamation system to collect architectural paint from consumers for reuse, recycling or environmentally sound disposal.
 
    b.   The commissioner shall provide assistance or guidance to participating architectural paint manufacturers, distributors and retail establishments in developing and implementing strategies to reduce the quantity of architectural paint in the waste stream, promote the reuse of architectural paint that would otherwise be discarded and disseminate information regarding options to recycle architectural paint including, but not limited to, posting information regarding the voluntary paint stewardship program on the department's website.
 
@@ -1718,7 +1718,7 @@ Chapter 3: Solid Waste Recycling
 § 16-311 Recycling outreach and education.  ::
 
 
-	a.   The department shall provide instruction and materials for residential building owners, net lessees or persons in charge of such buildings, and their employees and residents, in order to improve compliance with the provisions of this chapter.
+a.   The department shall provide instruction and materials for residential building owners, net lessees or persons in charge of such buildings, and their employees and residents, in order to improve compliance with the provisions of this chapter.
 
    b.   The commissioner shall establish a recycling education program that shall include recycling instructional workshops, training curricula and other relevant materials for residential building owners, net lessees or persons in charge of such buildings, and their employees and residents, including an internet-based recycling tutorial. Such program shall also provide instructional workshops, training curricula, and other relevant material to employees of city agencies, including a leaf and yard waste training program for employees of any such agencies that generate significant leaf and yard waste. The commissioner may utilize a private entity or not-for-profit corporation to assist with the establishment or performance of such program.
 
@@ -1728,7 +1728,7 @@ Chapter 3: Solid Waste Recycling
 § 16-312 Processing recyclable materials.  ::
 
 
-	The commissioner shall establish procedures and standards for processing recyclable materials designated pursuant to section 16-305 of this chapter in city owned or operated recycling centers, city owned or operated transfer stations or any city owned or operated facility that renders recyclable materials suitable for reuse or marketing and sale. The commissioner shall annually review such procedures and standards and make any changes necessary to conform to the requirements of the marketplace.
+The commissioner shall establish procedures and standards for processing recyclable materials designated pursuant to section 16-305 of this chapter in city owned or operated recycling centers, city owned or operated transfer stations or any city owned or operated facility that renders recyclable materials suitable for reuse or marketing and sale. The commissioner shall annually review such procedures and standards and make any changes necessary to conform to the requirements of the marketplace.
 
 
 
@@ -1736,7 +1736,7 @@ Chapter 3: Solid Waste Recycling
 § 16-313 Marketing recyclable materials.  ::
 
 
-	The department shall establish procedures, standards and strategies to market the recyclable materials designated pursuant to section 16-305 of this chapter, including, but not limited to, maintaining a list of prospective buyers, establishing contact with prospective buyers, entering into contracts with buyers, and reviewing and making any necessary changes in collecting or processing the materials to improve their marketability.
+The department shall establish procedures, standards and strategies to market the recyclable materials designated pursuant to section 16-305 of this chapter, including, but not limited to, maintaining a list of prospective buyers, establishing contact with prospective buyers, entering into contracts with buyers, and reviewing and making any necessary changes in collecting or processing the materials to improve their marketability.
 
 
 
@@ -1744,7 +1744,7 @@ Chapter 3: Solid Waste Recycling
 § 16-314 Recycling program revisions.  ::
 
 
-	The commissioner shall annually review the recycling program and all rules promulgated thereunder, and shall make the necessary revisions to improve the efficiency of collecting, processing, marketing and selling the materials recycled pursuant to this chapter. These revisions may include designating additional recyclable materials. The commissioner shall not delete designated materials without designating additional materials so that the total quantity, by weight, of all designated recyclable materials collected, processed, marketed and sold does not decrease. Where the commissioner determines that it is appropriate to delete a designated material, the department shall provide notice of such deletion to the mayor and the council, including the reason for such deletion, and shall provide any relevant data supporting such decision.
+The commissioner shall annually review the recycling program and all rules promulgated thereunder, and shall make the necessary revisions to improve the efficiency of collecting, processing, marketing and selling the materials recycled pursuant to this chapter. These revisions may include designating additional recyclable materials. The commissioner shall not delete designated materials without designating additional materials so that the total quantity, by weight, of all designated recyclable materials collected, processed, marketed and sold does not decrease. Where the commissioner determines that it is appropriate to delete a designated material, the department shall provide notice of such deletion to the mayor and the council, including the reason for such deletion, and shall provide any relevant data supporting such decision.
 
 
 
@@ -1752,7 +1752,7 @@ Chapter 3: Solid Waste Recycling
 § 16-315 Notice, education and research programs.  ::
 
 
-	a.   In addition to the notice requirements of section one thousand forty-three of chapter forty-five of the charter, within thirty days of the effective date of any rules promulgated pursuant to this chapter, and as frequently thereafter as the commissioner deems necessary, the department shall notify all community boards and persons occupying residential, commercial and industrial premises affected by the rules, of the requirements of the rules, by posting notices containing recycling information in public places where such notices are customarily placed and, in the commissioner's discretion, employing any other means of notification deemed necessary and appropriate.
+a.   In addition to the notice requirements of section one thousand forty-three of chapter forty-five of the charter, within thirty days of the effective date of any rules promulgated pursuant to this chapter, and as frequently thereafter as the commissioner deems necessary, the department shall notify all community boards and persons occupying residential, commercial and industrial premises affected by the rules, of the requirements of the rules, by posting notices containing recycling information in public places where such notices are customarily placed and, in the commissioner's discretion, employing any other means of notification deemed necessary and appropriate.
 
    b.   The commissioner shall compile relevant recycling, reuse and composting information, including material available on the department's website, to create and make available a guide to the city's residential recycling program. Such guide shall, at a minimum, summarize and explain the laws and rules governing curbside recycling, list the collection locations and collection dates for non-curbside collected recyclable materials such as household hazardous waste and textiles, and provide detailed information and instructions on how to recycle any materials not collected by the department for which non-city or non-department recycling programs exist. Such guide shall be made available to residential building owners, or the net lessees or persons in charge of such buildings, community boards, not-for-profit organizations, public schools, and other relevant agencies and entities, and shall also be made available on the department website. The commissioner shall update the recycling guide biennially, or as necessary, based on changes to recycling laws, rules or other relevant information to be included therein.
 
@@ -1766,7 +1766,7 @@ Chapter 3: Solid Waste Recycling
 § 16-316 Recycling and composting economic development study.  ::
 
 
-	Within two years of the effective date of this section, the department, in conjunction with the mayor's office of long-term planning and sustainability and the New York city economic development corporation, shall perform a study on the economics of recycling and composting and the development of recycling and composting-related industries in the city of New York. Such study shall: (i) assess the New York city recycling market including but not limited to a growth forecast for recycling markets and related industries for the next five years; (ii) describe those industries or businesses that would address shortcomings in the city's recycling and composting infrastructure and areas where opportunities for recycling and composting-related job growth in the city appear practical, describing barriers to recycling and composting businesses, and outlining financial and other incentives that might be successful in attracting new recycling and composting-related businesses or encouraging the expansion of existing recycling and composting-related businesses; (iii) examine existing markets for processing and purchasing recyclable materials and the potential and steps necessary to expand these markets; and (iv) look at the city's taxation and finance authority to stimulate recycling and the demand for recycled materials. Sections of such study may be shared with or derived from the composting report required pursuant to section 16-316.2 of this subchapter.
+Within two years of the effective date of this section, the department, in conjunction with the mayor's office of long-term planning and sustainability and the New York city economic development corporation, shall perform a study on the economics of recycling and composting and the development of recycling and composting-related industries in the city of New York. Such study shall: (i) assess the New York city recycling market including but not limited to a growth forecast for recycling markets and related industries for the next five years; (ii) describe those industries or businesses that would address shortcomings in the city's recycling and composting infrastructure and areas where opportunities for recycling and composting-related job growth in the city appear practical, describing barriers to recycling and composting businesses, and outlining financial and other incentives that might be successful in attracting new recycling and composting-related businesses or encouraging the expansion of existing recycling and composting-related businesses; (iii) examine existing markets for processing and purchasing recyclable materials and the potential and steps necessary to expand these markets; and (iv) look at the city's taxation and finance authority to stimulate recycling and the demand for recycled materials. Sections of such study may be shared with or derived from the composting report required pursuant to section 16-316.2 of this subchapter.
 
 
 
@@ -1774,7 +1774,7 @@ Chapter 3: Solid Waste Recycling
 § 16-316.1 Waste characterization study.  ::
 
 
-	a.   The commissioner shall complete follow-up studies to the studies performed in two thousand five regarding the characteristics of the city's residential and institutional waste streams for department-managed solid waste on or before January thirty-first, two thousand twelve, and on or before January thirty-first, two thousand eighteen. The results of each such study and an analysis of those results shall be submitted to the council and the mayor within sixty days of their completion.
+a.   The commissioner shall complete follow-up studies to the studies performed in two thousand five regarding the characteristics of the city's residential and institutional waste streams for department-managed solid waste on or before January thirty-first, two thousand twelve, and on or before January thirty-first, two thousand eighteen. The results of each such study and an analysis of those results shall be submitted to the council and the mayor within sixty days of their completion.
 
    b.   On or before January thirty-first, two thousand twenty-four, the commissioner shall complete a detailed, comprehensive citywide multi-season study of the city's residential and institutional waste streams for the purpose of determining the composition of the waste stream characterized by type of material. The results of such study and an analysis of those results shall be submitted to the council and the mayor within sixty days of its completion.
 
@@ -1784,7 +1784,7 @@ Chapter 3: Solid Waste Recycling
 § 16-316.2 Food waste composting study.  ::
 
 
-	The department, in conjunction with the mayor's office of long-term planning and sustainability, shall issue a report by July first, two thousand twelve recommending methods to expand the diversion of compostable waste from the city's waste stream. In preparing such report, the department or the office of long-term planning and sustainability shall (1) study the viability of a curbside collection program for household and institutional compostable waste including, but not limited to, cost considerations and any concerns regarding siting composting facilities to conduct such a curbside collection program; (2) identify existing private and public facilities within three hundred miles of the city that accept compostable waste for composting and determine the available capacity at and cost to deliver compostable waste to such facilities and any siting considerations concerning such facilities; (3) review capacity at putrescible solid waste transfer stations permitted by the city, and putrescible solid waste transfer stations within sixty miles of the city, and determine whether any such transfer stations are capable of accepting source-separated compostable waste for consolidation and transportation, the cost to deliver source-separated compostable waste to such facilities and any siting considerations concerning such facilities; (4) explore opportunities to expand the currently available capacity to compost compostable waste at existing sites within the city or, in conjunction with the study required by section 16-316 of this chapter, explore opportunities to develop one or more new facilities within the city or within sixty miles of the city for the composting of compostable waste, including, but not limited to, opportunities to work with one or more entities to develop such facilities and any siting considerations concerning such a facility; (5) compile a comprehensive list of sites around the city including, but not limited to, city botanical gardens and greenmarkets, that accept household and institutional compostable waste on a voluntary basis, and recommend methods to encourage and expand options for voluntary composting; and (6) provide a plan to study the viability of instituting a food waste composting program for the residential or commercial waste stream, to be completed within two years of the issuance of such report.
+The department, in conjunction with the mayor's office of long-term planning and sustainability, shall issue a report by July first, two thousand twelve recommending methods to expand the diversion of compostable waste from the city's waste stream. In preparing such report, the department or the office of long-term planning and sustainability shall (1) study the viability of a curbside collection program for household and institutional compostable waste including, but not limited to, cost considerations and any concerns regarding siting composting facilities to conduct such a curbside collection program; (2) identify existing private and public facilities within three hundred miles of the city that accept compostable waste for composting and determine the available capacity at and cost to deliver compostable waste to such facilities and any siting considerations concerning such facilities; (3) review capacity at putrescible solid waste transfer stations permitted by the city, and putrescible solid waste transfer stations within sixty miles of the city, and determine whether any such transfer stations are capable of accepting source-separated compostable waste for consolidation and transportation, the cost to deliver source-separated compostable waste to such facilities and any siting considerations concerning such facilities; (4) explore opportunities to expand the currently available capacity to compost compostable waste at existing sites within the city or, in conjunction with the study required by section 16-316 of this chapter, explore opportunities to develop one or more new facilities within the city or within sixty miles of the city for the composting of compostable waste, including, but not limited to, opportunities to work with one or more entities to develop such facilities and any siting considerations concerning such a facility; (5) compile a comprehensive list of sites around the city including, but not limited to, city botanical gardens and greenmarkets, that accept household and institutional compostable waste on a voluntary basis, and recommend methods to encourage and expand options for voluntary composting; and (6) provide a plan to study the viability of instituting a food waste composting program for the residential or commercial waste stream, to be completed within two years of the issuance of such report.
 
 
 
@@ -1792,7 +1792,7 @@ Chapter 3: Solid Waste Recycling
 § 16-316.3 Household hazardous waste collection.  ::
 
 
-	a.   No later than July first, two thousand eleven, the commissioner shall establish a citywide program for the diversion of household hazardous waste from department-managed solid waste which shall include, but need not be limited to, at least one annual drop-off collection event at one or more designated sites in each borough.
+a.   No later than July first, two thousand eleven, the commissioner shall establish a citywide program for the diversion of household hazardous waste from department-managed solid waste which shall include, but need not be limited to, at least one annual drop-off collection event at one or more designated sites in each borough.
 
    b.   The department shall report annually the total amount of household hazardous waste diverted by the program established pursuant to subdivision a of this section. Such report shall specify each category of material and the amount of such material collected at each collection event or site established pursuant to subdivision a of this section. Such report shall be included as part of the department's annual recycling report required pursuant to subdivision k of section 16-305 of this chapter.
 
@@ -1804,7 +1804,7 @@ Chapter 3: Solid Waste Recycling
 § 16-316.4 Recycling incentive pilot program. ::
 
 
-	a.   On or before January 1, 2018, the department, in consultation with the New York city housing authority, shall perform and complete a review of voluntary recycling incentive pilot programs to improve the diversion of designated recyclable materials in public housing, as such term is defined in 24 CFR § 5.100. Such review shall include, but need not be limited to, the following: (i) engaging public housing residents and other stakeholders to identify potential recycling incentive pilot programs and locations where it would be feasible to implement such programs; (ii) examining any potential obstacles to implementing such programs; (iii) exploring financial and other incentives that have been proposed or implemented in other jurisdictions and their potential to increase recycling participation by public housing residents; (iv) determining the steps necessary to implement a recycling incentive pilot program for public housing residents; and (v) prioritizing community districts that have comparatively low rates of recycling in public housing, as determined by the department.
+a.   On or before January 1, 2018, the department, in consultation with the New York city housing authority, shall perform and complete a review of voluntary recycling incentive pilot programs to improve the diversion of designated recyclable materials in public housing, as such term is defined in 24 CFR § 5.100. Such review shall include, but need not be limited to, the following: (i) engaging public housing residents and other stakeholders to identify potential recycling incentive pilot programs and locations where it would be feasible to implement such programs; (ii) examining any potential obstacles to implementing such programs; (iii) exploring financial and other incentives that have been proposed or implemented in other jurisdictions and their potential to increase recycling participation by public housing residents; (iv) determining the steps necessary to implement a recycling incentive pilot program for public housing residents; and (v) prioritizing community districts that have comparatively low rates of recycling in public housing, as determined by the department.
 
    b.   On or before July 1, 2018, the department shall report to the mayor and the council and post on its website a summary of its review of voluntary recycling incentive pilot programs. The summary shall include the department’s recommendation regarding implementing a voluntary recycling incentives pilot program to improve the diversion of designated recyclable materials in public housing.
 
@@ -1818,7 +1818,7 @@ Chapter 3: Solid Waste Recycling
 § 16-317 Citizens' solid waste advisory boards; membership.  ::
 
 
-	Within six months of the effective date of this chapter, each borough shall establish a citizens' solid waste advisory board (the "citizens' board"), consisting of no fewer than twenty members who for the first term shall be comprised of the members of the borough's citizens' advisory committee on resource recovery and other persons appointed jointly by the borough president and the council members elected from the council districts included in any part of the borough. For each subsequent term, all members shall be appointed jointly by the borough president and the council members elected from the council districts included in any part of the borough. The membership of each citizens' board shall represent community boards, recycling industries, carting industries, environmental organizations, government agencies, labor organizations, business organizations, property owners, tenant organizations and members of the general public. Members shall serve for a term of two years without compensation and shall designate one member to serve as chairperson and one as vice-chairperson.
+Within six months of the effective date of this chapter, each borough shall establish a citizens' solid waste advisory board (the "citizens' board"), consisting of no fewer than twenty members who for the first term shall be comprised of the members of the borough's citizens' advisory committee on resource recovery and other persons appointed jointly by the borough president and the council members elected from the council districts included in any part of the borough. For each subsequent term, all members shall be appointed jointly by the borough president and the council members elected from the council districts included in any part of the borough. The membership of each citizens' board shall represent community boards, recycling industries, carting industries, environmental organizations, government agencies, labor organizations, business organizations, property owners, tenant organizations and members of the general public. Members shall serve for a term of two years without compensation and shall designate one member to serve as chairperson and one as vice-chairperson.
 
 
 
@@ -1826,7 +1826,7 @@ Chapter 3: Solid Waste Recycling
 § 16-318 Functions of the citizens' board.  ::
 
 
-	a.   The department shall submit to each borough president the portion of the biennial report addressing the city's recycling program that is prepared pursuant to the city's two thousand six solid waste management plan, simultaneous with the submission of such report to the mayor and the council. Each borough president shall distribute copies of such portion to each member of the citizens' board in his or her borough. Within ninety days thereafter, each citizens' board shall review such portion, conduct a public hearing on such portion and make written recommendations to its borough president, the department and the council with respect to the recycling program within its borough. Each citizens' board shall also annually advise its borough president and the department with respect to the development, promotion and operation of the recycling program in its borough and pursuant to this function shall formulate and recommend:
+a.   The department shall submit to each borough president the portion of the biennial report addressing the city's recycling program that is prepared pursuant to the city's two thousand six solid waste management plan, simultaneous with the submission of such report to the mayor and the council. Each borough president shall distribute copies of such portion to each member of the citizens' board in his or her borough. Within ninety days thereafter, each citizens' board shall review such portion, conduct a public hearing on such portion and make written recommendations to its borough president, the department and the council with respect to the recycling program within its borough. Each citizens' board shall also annually advise its borough president and the department with respect to the development, promotion and operation of the recycling program in its borough and pursuant to this function shall formulate and recommend:
 
       1.   annual recycling goals equal to or greater than those set forth in section 16-305 of this chapter and the methods proposed to achieve such goals;
 
@@ -1842,7 +1842,7 @@ Chapter 3: Solid Waste Recycling
 § 16-319 Citywide recycling advisory board; membership.  ::
 
 
-	There shall be a citywide recycling advisory board (the "citywide board") consisting of at least one representative from each citizens' board, five members appointed by the council, and five members appointed by the mayor. The membership of the citywide board shall represent community boards, recycling industries, carting industries, environmental organizations, government agencies, labor organizations, business organizations, real property owners, tenant organizations and members of the general public. Members shall serve for a term of one year without compensation and shall designate one member to serve as chairperson and one as vice-chairperson.
+There shall be a citywide recycling advisory board (the "citywide board") consisting of at least one representative from each citizens' board, five members appointed by the council, and five members appointed by the mayor. The membership of the citywide board shall represent community boards, recycling industries, carting industries, environmental organizations, government agencies, labor organizations, business organizations, real property owners, tenant organizations and members of the general public. Members shall serve for a term of one year without compensation and shall designate one member to serve as chairperson and one as vice-chairperson.
 
 
 
@@ -1850,7 +1850,7 @@ Chapter 3: Solid Waste Recycling
 § 16-320 Functions of the citywide board.  ::
 
 
-	The citywide board shall meet at least four times a year to discuss citywide recycling issues, including but not limited to budgetary issues. The citywide board shall annually review the department's recycling program and make recommendations to the mayor and the council concerning improvements to and changes in the program.
+The citywide board shall meet at least four times a year to discuss citywide recycling issues, including but not limited to budgetary issues. The citywide board shall annually review the department's recycling program and make recommendations to the mayor and the council concerning improvements to and changes in the program.
 
 
 
@@ -1858,7 +1858,7 @@ Chapter 3: Solid Waste Recycling
 § 16-321 Disclosure requirements.  ::
 
 
-	a.   Whenever a person, other than a public servant, appointed to any advisory board created pursuant to this subchapter, engages in any business dealings with the department, or engages in business dealings with any other agency that relate to processing or disposal of solid waste or of waste described in paragraph three of the definition of solid waste in section 16-303 of this chapter or to recycling, or has an interest in a firm that is engaged in such business dealings with the department or with such other agency, such person shall, prior to appointment, disclose the nature of such business dealings to the commissioner and to the body or officer appointing such person, and, after appointment, disclose the nature of such business dealings to the commissioner and to all other members of such board; provided that such person need not disclose the amount of such business dealings.
+a.   Whenever a person, other than a public servant, appointed to any advisory board created pursuant to this subchapter, engages in any business dealings with the department, or engages in business dealings with any other agency that relate to processing or disposal of solid waste or of waste described in paragraph three of the definition of solid waste in section 16-303 of this chapter or to recycling, or has an interest in a firm that is engaged in such business dealings with the department or with such other agency, such person shall, prior to appointment, disclose the nature of such business dealings to the commissioner and to the body or officer appointing such person, and, after appointment, disclose the nature of such business dealings to the commissioner and to all other members of such board; provided that such person need not disclose the amount of such business dealings.
 
    b.   When used in this section:
 
@@ -1898,7 +1898,7 @@ Chapter 3: Solid Waste Recycling
 § 16-322 City purchase of products made from secondary materials. [Repealed]  ::
 
 
-	Rules adopted by the commissioner pursuant to this chapter shall become effective only after filing and publication as prescribed by chapter forty-five of the charter. In addition, notwithstanding the provisions of chapter forty-five of the charter, prior to adoption by the commissioner of a final rule pursuant to subdivision e of section one thousand forty-three of the charter, and after consideration of relevant comments presented pursuant to subdivision d of such section, the commissioner shall submit to the council the text of the final rule proposed to be published in the city record. The council shall have thirty days from the date of such submission to comment upon such text. The final rule may include revisions in response to comments from the council and shall not be published in the city record before the thirty-first day after such submission, unless the speaker of the council authorizes earlier publication.
+Rules adopted by the commissioner pursuant to this chapter shall become effective only after filing and publication as prescribed by chapter forty-five of the charter. In addition, notwithstanding the provisions of chapter forty-five of the charter, prior to adoption by the commissioner of a final rule pursuant to subdivision e of section one thousand forty-three of the charter, and after consideration of relevant comments presented pursuant to subdivision d of such section, the commissioner shall submit to the council the text of the final rule proposed to be published in the city record. The council shall have thirty days from the date of such submission to comment upon such text. The final rule may include revisions in response to comments from the council and shall not be published in the city record before the thirty-first day after such submission, unless the speaker of the council authorizes earlier publication.
 
 
 
@@ -1906,7 +1906,7 @@ Chapter 3: Solid Waste Recycling
 § 16-324 Enforcement.  ::
 
 
-	a.   Subject to the provisions of subdivision b of this section, any person who violates this chapter, except section 16-306.1 of this chapter, subdivision g of section 16-308 of this chapter, section 16-310.1 of this chapter or section 16-329 of this chapter, or any rule promulgated pursuant thereto, shall be liable for a civil penalty recoverable in a civil action brought in the name of the commissioner or in a proceeding returnable before the environmental control board, as follows:
+a.   Subject to the provisions of subdivision b of this section, any person who violates this chapter, except section 16-306.1 of this chapter, subdivision g of section 16-308 of this chapter, section 16-310.1 of this chapter or section 16-329 of this chapter, or any rule promulgated pursuant thereto, shall be liable for a civil penalty recoverable in a civil action brought in the name of the commissioner or in a proceeding returnable before the environmental control board, as follows:
 
       1.   For residential buildings containing fewer than nine dwelling units, the civil penalty shall be in an amount of twenty-five dollars for the first violation, fifty dollars for the second violation committed on a different day within a period of twelve months, and one hundred dollars for the third and each subsequent violation committed on a different day within a period of twelve months, provided that the court before which such civil action is brought or such board may waive the penalty for the first violation upon a showing of good cause.
 
@@ -1942,7 +1942,7 @@ Chapter 3: Solid Waste Recycling
 § 16-325 Temporary emergency recycling requirements.  ::
 
 
-	a.   Notwithstanding any inconsistent provision of this chapter, the department shall be authorized, by written order of the commissioner, to suspend the collection of glass, plastic and beverage cartons as designated recyclable materials. Any such suspension with regard to glass shall take effect no earlier than July first, two thousand two and shall expire no later than March thirty-first, two thousand four. Any such suspension with regard to plastic and beverage cartons shall take effect no earlier than July first, two thousand two and shall expire no later than June thirtieth, two thousand three. During any period in which the collection of glass, plastic or beverage cartons as designated recyclable materials, is suspended pursuant to this subdivision, the department shall be authorized to collect the suspended recyclable materials with other non-recyclable solid waste.
+a.   Notwithstanding any inconsistent provision of this chapter, the department shall be authorized, by written order of the commissioner, to suspend the collection of glass, plastic and beverage cartons as designated recyclable materials. Any such suspension with regard to glass shall take effect no earlier than July first, two thousand two and shall expire no later than March thirty-first, two thousand four. Any such suspension with regard to plastic and beverage cartons shall take effect no earlier than July first, two thousand two and shall expire no later than June thirtieth, two thousand three. During any period in which the collection of glass, plastic or beverage cartons as designated recyclable materials, is suspended pursuant to this subdivision, the department shall be authorized to collect the suspended recyclable materials with other non-recyclable solid waste.
 
    b.   Notwithstanding any inconsistent provision of this chapter, the department shall be authorized, by written order of the commissioner, to suspend the provisions of section 16-308 of this chapter. Any such suspension shall take effect no earlier than July first, two thousand three and shall expire no later than June thirtieth, two thousand four. During any period in which the provisions of section 16-308 of this chapter are suspended pursuant to this subdivision, the department shall be authorized to collect yard waste with other non-recyclable solid waste.
 
@@ -1958,7 +1958,7 @@ Chapter 3: Solid Waste Recycling
 § 16-326 Definitions.  ::
 
 
-	For purposes of this subchapter, the following terms shall have the following meanings:
+For purposes of this subchapter, the following terms shall have the following meanings:
 
    a.   "Producer/Event Manager" means any person or entity hired by a sponsor to organize or manage a street event.
 
@@ -1974,7 +1974,7 @@ Chapter 3: Solid Waste Recycling
 § 16-327 Sponsor and producer/event manager responsibilities at street events.  ::
 
 
-	a.   Every producer/event manager shall ensure that solid waste and recyclable materials generated at a street event are properly disposed of or recycled. b.
+a.   Every producer/event manager shall ensure that solid waste and recyclable materials generated at a street event are properly disposed of or recycled. b.
 
       1.   Every producer/event manager shall provide a sufficient number of public solid waste receptacles and public recycling receptacles for street events as determined by the department, provided that the producer/event manager shall place at least two receptacles within or near each intersection within the street event area, one for solid waste and one for recyclable materials.
 
@@ -1994,7 +1994,7 @@ Chapter 3: Solid Waste Recycling
 § 16-328 Penalties.  ::
 
 
-	In addition to any other applicable penalties, any producer/event manager, or any sponsor when there is no producer/event manager, who violates subdivision a or b of section 16-327 of this subchapter shall be liable for a civil penalty of one hundred dollars for each such violation, except that a sponsor or producer/event manager shall not be liable for more than five hundred dollars per day or more than two thousand dollars per street event. Such civil penalties shall be recoverable in a proceeding returnable before the environmental control board.
+In addition to any other applicable penalties, any producer/event manager, or any sponsor when there is no producer/event manager, who violates subdivision a or b of section 16-327 of this subchapter shall be liable for a civil penalty of one hundred dollars for each such violation, except that a sponsor or producer/event manager shall not be liable for more than five hundred dollars per day or more than two thousand dollars per street event. Such civil penalties shall be recoverable in a proceeding returnable before the environmental control board.
 
 
 
@@ -2002,7 +2002,7 @@ Chapter 3: Solid Waste Recycling
 § 16-329 Restrictions on the sale or use of certain expanded polystyrene items. ::
 
 
-	a.   Definitions. When used in this section:
+a.   Definitions. When used in this section:
 
       "Chain food service establishment" means five or more food service establishments located within the city that (1) conduct business under the same business name or (2) operate under common ownership or management or pursuant to a franchise agreement with the same franchisor.
 
@@ -2060,7 +2060,7 @@ Chapter 4: [Rechargeable Batteries; Recycling Program]
 § 16-401 Short title.  ::
 
 
-	This chapter shall be known as and may be called the "New York City Rechargeable Battery Law".
+This chapter shall be known as and may be called the "New York City Rechargeable Battery Law".
 
 
 
@@ -2068,7 +2068,7 @@ Chapter 4: [Rechargeable Batteries; Recycling Program]
 § 16-402 Declaration of policy.  ::
 
 
-	It is hereby declared to be the public policy of the city of New York to reduce environmental pollution, to reduce the toxicity of waste materials in the solid waste stream directed to resource recovery and sanitary landfill facilities, and to maximize the removal of used rechargeable batteries and products that contain rechargeable batteries and encourage their recycling by entities that manufacture rechargeable batteries by banning the disposal of used rechargeable batteries from the solid waste stream and requiring manufacturers of rechargeable batteries to take back and recycle the used rechargeable batteries sold or disposed of in the city of New York.
+It is hereby declared to be the public policy of the city of New York to reduce environmental pollution, to reduce the toxicity of waste materials in the solid waste stream directed to resource recovery and sanitary landfill facilities, and to maximize the removal of used rechargeable batteries and products that contain rechargeable batteries and encourage their recycling by entities that manufacture rechargeable batteries by banning the disposal of used rechargeable batteries from the solid waste stream and requiring manufacturers of rechargeable batteries to take back and recycle the used rechargeable batteries sold or disposed of in the city of New York.
 
 
 
@@ -2076,7 +2076,7 @@ Chapter 4: [Rechargeable Batteries; Recycling Program]
 § 16-403 Definitions.  ::
 
 
-	When used in this chapter:
+When used in this chapter:
 
    a.   "Battery manufacturer" means every person, firm or corporation that: (i) produces rechargeable batteries sold or distributed in the city of New York, or packages such batteries for sale in the city of New York, except that if such production or packaging is for a distributor having the right to produce or otherwise package that same brand of battery in the city of New York, then such distributor shall be deemed to be the battery manufacturer; or (ii) imports rechargeable batteries into the United States that are sold or distributed in the city of New York.
 
@@ -2096,7 +2096,7 @@ Chapter 4: [Rechargeable Batteries; Recycling Program]
 § 16-404 Rechargeable battery disposal ban.  ::
 
 
-	a.   No person shall knowingly dispose of rechargeable batteries as solid waste at any time in the city of New York.
+a.   No person shall knowingly dispose of rechargeable batteries as solid waste at any time in the city of New York.
 
 
 
@@ -2104,7 +2104,7 @@ Chapter 4: [Rechargeable Batteries; Recycling Program]
 § 16-405 Rechargeable battery recycling program.  ::
 
 
-	a.   Rechargeable batteries shall be returned to a retailer that sells such batteries that are similar in shape, size and function to those to be disposed of. Rechargeable batteries contained in electronic products must be removed prior to disposal of such product.
+a.   Rechargeable batteries shall be returned to a retailer that sells such batteries that are similar in shape, size and function to those to be disposed of. Rechargeable batteries contained in electronic products must be removed prior to disposal of such product.
 
       1.   Retailers having a place of business in the city of New York shall accept from consumers at any time during normal business hours rechargeable batteries of a similar size and shape as the retailer offers for sale. Retailers shall take up to ten such batteries per day from any person regardless of whether such person purchases replacement batteries, and retailers shall also accept as many such batteries as a consumer purchases from the retailer. Retailers shall conspicuously post and maintain, at or near the point of entry to the place of business, a legible sign, not less than 8 1/2 inches by 11 inches in size, stating that used rechargeable batteries of the size and shape sold or offered for sale by the retailer may not enter the solid waste stream, and that the retail establishment is a collection site for recycling such batteries. Such sign shall state the following in letters at least one-inch in height: "It is illegal to dispose of rechargeable batteries in the city of New York as solid waste. We accept used rechargeable batteries for return to the manufacturer."
 
@@ -2132,7 +2132,7 @@ Chapter 4: [Rechargeable Batteries; Recycling Program]
 § 16-406 Penalties.  ::
 
 
-	a.   Any person who violates section 16-404 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of fifty dollars for the first violation, one hundred dollars for a second violation committed within twelve months of a prior violation and two hundred dollars for a third or subsequent violation committed within twelve months of any prior violation.
+a.   Any person who violates section 16-404 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of fifty dollars for the first violation, one hundred dollars for a second violation committed within twelve months of a prior violation and two hundred dollars for a third or subsequent violation committed within twelve months of any prior violation.
 
    b.   Any retailer who violates section 16-405 of this chapter shall be liable for a civil penalty in a proceeding before the environmental control board in the amount of two hundred dollars for the first violation, four hundred dollars for a second violation committed within twelve months of a prior violation, and five hundred dollars for a third or subsequent violation committed within twelve months of any prior violation.
 
@@ -2146,7 +2146,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-420 [Short title.]  ::
 
 
-	This local law shall be known and may be cited as the "Electronic Equipment Collection, Recycling and Reuse Act".
+This local law shall be known and may be cited as the "Electronic Equipment Collection, Recycling and Reuse Act".
 
 
 
@@ -2154,7 +2154,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-421 Definitions.  ::
 
 
-	As used in this chapter:
+As used in this chapter:
 
    a.   "Brand name" means a manufacturer's name, brand designation, make or model name or number, or other nomenclature by which covered electronic equipment is offered for sale by a manufacturer.
 
@@ -2190,7 +2190,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-422 Responsibility of Manufacturer Collection.  ::
 
 
-	a.   Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer must accept for collection, handling and recycling or reuse covered electronic equipment that is offered for return by any person in the city, and has been assembled, manufactured, or imported by such manufacturer, or has been sold under such manufacturer's brand name.
+a.   Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer must accept for collection, handling and recycling or reuse covered electronic equipment that is offered for return by any person in the city, and has been assembled, manufactured, or imported by such manufacturer, or has been sold under such manufacturer's brand name.
 
    b.   Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer must accept for collection, handling and recycling or reuse on a one-to-one basis with the purchase of the same type of covered electronic equipment other than orphan waste that is offered for return by any person in the city, and has been assembled, manufactured or imported by persons other than such manufacturer, or has been sold under the brand name of a person other than such manufacturer.
 
@@ -2204,7 +2204,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-423 Manufacturer Electronic Waste Management Plan.  ::
 
 
-	a.   No later than September first, two thousand eight, a manufacturer shall submit to the department an electronic waste management plan for the collection, handling, and recycling or reuse of covered electronic equipment and orphan waste. Any person who becomes a manufacturer on or after September first, two thousand eight shall submit to the department an electronic waste management plan for the collection, handling, and recycling or reuse of covered electronic equipment and orphan waste prior to selling any covered electronic equipment in the city.
+a.   No later than September first, two thousand eight, a manufacturer shall submit to the department an electronic waste management plan for the collection, handling, and recycling or reuse of covered electronic equipment and orphan waste. Any person who becomes a manufacturer on or after September first, two thousand eight shall submit to the department an electronic waste management plan for the collection, handling, and recycling or reuse of covered electronic equipment and orphan waste prior to selling any covered electronic equipment in the city.
 
    b.   A manufacturer's submission of an electronic waste management plan pursuant to subdivision a of this section shall be accompanied by a fee of one thousand five hundred dollars. A manufacturer's submission of an annual report pursuant to subdivision a of section 16-428 of this chapter shall be accompanied by a fee of one thousand two hundred fifty dollars. Any manufacturer who submits such plan or report without the requisite fee shall be deemed not to have submitted such plan or report and shall be subject to the penalties set forth in paragraph one of subdivision d of section 16-427 of this chapter for failure to submit such plan or report.
 
@@ -2250,7 +2250,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-424 Performance Standards.  ::
 
 
-	a.   A manufacturer shall demonstrate whether, pursuant to its electronic waste management plan, it is collecting for recycling or reuse at least its share of covered electronic equipment. Such manufacturer's share of covered electronic equipment is determined by applying the following minimum collection standard percentage by the average annual sales of the manufacturer's covered electronic equipment in the city, reported by weight, during the previous three calendar years; by July 1, 2012, the minimum collection standard is twenty-five percent; by July 1, 2015, the minimum collection standard is forty-five percent; by July 1, 2018, the minimum collection standard is sixty-five percent.
+a.   A manufacturer shall demonstrate whether, pursuant to its electronic waste management plan, it is collecting for recycling or reuse at least its share of covered electronic equipment. Such manufacturer's share of covered electronic equipment is determined by applying the following minimum collection standard percentage by the average annual sales of the manufacturer's covered electronic equipment in the city, reported by weight, during the previous three calendar years; by July 1, 2012, the minimum collection standard is twenty-five percent; by July 1, 2015, the minimum collection standard is forty-five percent; by July 1, 2018, the minimum collection standard is sixty-five percent.
 
    b.   For purposes of calculating achievement of the minimum collection standard specified in paragraph a of this subdivision, a manufacturer may count the collection of a single item of covered electronic equipment as twice its weight when that item is donated free of charge for reuse to the New York city department of education, or to any not-for-profit corporation, as defined in subparagraphs five or seven of subdivision a of section one hundred two of the New York not-for-profit corporation law, a principal mission of which is to assist low-income children or families living in city. To qualify for the donation reuse credit under this subdivision, the covered electronic equipment must be: (a) no older than three years old, (b) in full working condition, and (c) accepted as a donation by the recipient in writing.
 
@@ -2262,7 +2262,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-425 Labeling.  ::
 
 
-	a.   Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer may not sell or otherwise distribute for sale in the city covered electronic equipment unless such equipment has a label that identifies such manufacturer.
+a.   Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer may not sell or otherwise distribute for sale in the city covered electronic equipment unless such equipment has a label that identifies such manufacturer.
 
    b.   Beginning July first, two thousand nine or one hundred eighty days after a manufacturer's electronic waste management plan is approved by the department, whichever date is later, such manufacturer shall provide at the point of sale information on how a person can return covered electronic equipment pursuant to such manufacturer's electronic waste management plan. Such information shall include a toll-free telephone number or internet website address describing how covered electronic equipment can be returned pursuant to the manufacturer's electronic waste management plan.
 
@@ -2274,7 +2274,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-426 Disposal ban.  ::
 
 
-	a.   Beginning July first, two thousand ten, no person shall dispose of covered electronic equipment as solid waste in the city.
+a.   Beginning July first, two thousand ten, no person shall dispose of covered electronic equipment as solid waste in the city.
 
    b.   Beginning July first, two thousand nine, no manufacturer shall dispose of covered electronic equipment as solid waste in the city.
 
@@ -2284,7 +2284,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-427 Enforcement.  ::
 
 
-	a.   The department and the department of consumer affairs shall have the authority to enforce the provisions of this chapter. Any notice of violation charging a violation of any provision of this chapter shall be returnable to the environmental control board, which shall have the power to impose civil penalties as provided herein.
+a.   The department and the department of consumer affairs shall have the authority to enforce the provisions of this chapter. Any notice of violation charging a violation of any provision of this chapter shall be returnable to the environmental control board, which shall have the power to impose civil penalties as provided herein.
 
    b.   Any person who violates the provisions of subdivision a of section 16-426 of this chapter shall be liable for a civil penalty of one hundred dollars for each violation.
 
@@ -2306,7 +2306,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-428 Reporting Requirements.  ::
 
 
-	a.   On or before July first, two thousand nine, and annually on or before July first thereafter, a manufacturer that offers any covered electronic equipment for sale in the city shall submit an annual report to the department that includes the following information for the prior calendar year:
+a.   On or before July first, two thousand nine, and annually on or before July first thereafter, a manufacturer that offers any covered electronic equipment for sale in the city shall submit an annual report to the department that includes the following information for the prior calendar year:
 
       1.   any approved modification to the manufacturer's electronic waste management plan;
 
@@ -2334,7 +2334,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-429 Confidential Information and Trade Secrets.  ::
 
 
-	Information relating to covered electronic equipment submitted to the department pursuant to this chapter may be designated by the department as confidential upon a showing of good cause by the person submitting it. Except as otherwise provided by or pursuant to law or court order, such information may be used only by the department, its agents and employees, other city agencies, and as authorized by the mayor, employees of the United States Environmental Protection Agency or the attorney general of the state of New York.
+Information relating to covered electronic equipment submitted to the department pursuant to this chapter may be designated by the department as confidential upon a showing of good cause by the person submitting it. Except as otherwise provided by or pursuant to law or court order, such information may be used only by the department, its agents and employees, other city agencies, and as authorized by the mayor, employees of the United States Environmental Protection Agency or the attorney general of the state of New York.
 
 
 
@@ -2342,7 +2342,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-430 Application by the department of collected covered electronic equipment toward recycling goals.  ::
 
 
-	The department shall be allowed to apply the amount of covered electronic equipment and orphan waste collected by manufacturers pursuant to this chapter towards achieving its recycling goals.
+The department shall be allowed to apply the amount of covered electronic equipment and orphan waste collected by manufacturers pursuant to this chapter towards achieving its recycling goals.
 
 
 
@@ -2350,7 +2350,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-431 Severability.  ::
 
 
-	The provisions of this chapter shall be severable, and if any provision of this chapter is declared to be void or invalid by a court of competent jurisdiction, the remaining provisions shall not be affected, and shall remain in full force and effect.
+The provisions of this chapter shall be severable, and if any provision of this chapter is declared to be void or invalid by a court of competent jurisdiction, the remaining provisions shall not be affected, and shall remain in full force and effect.
 
 
 
@@ -2358,7 +2358,7 @@ Chapter 4-A: Electronic Equipment Collection, Recycling and Reuse
 § 16-432 Rulemaking authority.  ::
 
 
-	The department shall be authorized to promulgate rules as necessary to implement the provisions of this chapter.
+The department shall be authorized to promulgate rules as necessary to implement the provisions of this chapter.
 
 
 
@@ -2368,7 +2368,7 @@ Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
 § 16-450 Title.  ::
 
 
-	This chapter shall be known as and may be cited as the "New York City Plastic Carryout Bag and Film Plastic Recycling Law".
+This chapter shall be known as and may be cited as the "New York City Plastic Carryout Bag and Film Plastic Recycling Law".
 
 
 
@@ -2376,7 +2376,7 @@ Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
 § 16-451 Declaration of policy.  ::
 
 
-	It is hereby declared to be the public policy of the city of New York to reduce environmental pollution, to reduce the toxicity of waste materials in the solid waste stream directed to resource recovery and sanitary landfill facilities, and to maximize the removal of plastic carryout bags and film plastic from the waste stream in order to recycle them. Plastic carryout bags and film plastic do not biodegrade, which means that such bags and film plastic ultimately break down into smaller pieces that enter the ecosystem. These pieces of plastic cause illness, injury and death to animal and marine life by entangling them or contaminating their food supplies. The production of plastic bags and film plastic worldwide uses over 12 million barrels of oil per year, which causes significant environmental impacts.
+It is hereby declared to be the public policy of the city of New York to reduce environmental pollution, to reduce the toxicity of waste materials in the solid waste stream directed to resource recovery and sanitary landfill facilities, and to maximize the removal of plastic carryout bags and film plastic from the waste stream in order to recycle them. Plastic carryout bags and film plastic do not biodegrade, which means that such bags and film plastic ultimately break down into smaller pieces that enter the ecosystem. These pieces of plastic cause illness, injury and death to animal and marine life by entangling them or contaminating their food supplies. The production of plastic bags and film plastic worldwide uses over 12 million barrels of oil per year, which causes significant environmental impacts.
 
 
 
@@ -2384,7 +2384,7 @@ Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
 § 16-452 Definitions.  ::
 
 
-	When used in this chapter:
+When used in this chapter:
 
    a.   "Chain of stores" means five or more stores located within the city of New York that are engaged in the same general field of business and (1) conduct business under the same business name or (2) operate under common ownership or management or pursuant to a franchise agreement with the same franchisor.
 
@@ -2410,7 +2410,7 @@ Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
 § 16-453 Recycling program requirements.  ::
 
 
-	a.   Every operator shall establish an in-store recycling program that shall include, but need not be limited to, the following:
+a.   Every operator shall establish an in-store recycling program that shall include, but need not be limited to, the following:
 
       1.   every plastic carryout bag provided by a store shall have printed or displayed on the outside face of the bag (i) the words "PLEASE REUSE OR RECYCLE AT A PARTICIPATING STORE" using letters at least one-half inch in height or (ii) a similar message encouraging the reuse or recycling of plastic carryout bags that is no less than one inch in height and uses letters at least one quarter inch in height; provided, however, that such store shall be allowed, for six months from the effective date of the local law that added this subdivision, to use its existing stock of plastic carryout bags and may apply to the commissioner for a waiver, based on economic hardship, to extend such six-month period;
 
@@ -2432,7 +2432,7 @@ Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
 § 16-454 Manufacturer responsibilities.  ::
 
 
-	a.   A manufacturer whose plastic carryout bags are sold or distributed to a store subject to the provisions of this chapter shall make arrangements with the operator, upon the operator's request, for the collection, transport and recycling of all plastic carryout bags and other film plastic collected consistent with the provisions of this chapter. Such arrangements may include contracts or other agreements with third parties.
+a.   A manufacturer whose plastic carryout bags are sold or distributed to a store subject to the provisions of this chapter shall make arrangements with the operator, upon the operator's request, for the collection, transport and recycling of all plastic carryout bags and other film plastic collected consistent with the provisions of this chapter. Such arrangements may include contracts or other agreements with third parties.
 
    b.   A manufacturer that arranges with an operator for the collection, transport and recycling of plastic carryout bags and other film plastic shall report annually to such operator the total amount by weight of plastic carryout bags and other film plastic that has been collected from such operator. Such annual report shall cover the preceding calendar year, beginning with a report covering calendar year two thousand nine, and be submitted to such operator no later than January thirty-first following the calendar year to which the annual report relates.
 
@@ -2444,7 +2444,7 @@ Chapter 4-B: [Recycling Program For Plastic Carryout Bags and Film Plastic]
 § 16-455 Penalties.  ::
 
 
-	a.   Any operator who violates subdivision a of section 16-453 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of three hundred dollars per day for each day that a recycling program meeting the requirements of such subdivision is not in effect. It shall be an affirmative defense to a violation of paragraph one or five of subdivision a of section 16-453 of this chapter that the operator used its best efforts to comply with such paragraph but was unable to because of circumstances beyond such operator's control.
+a.   Any operator who violates subdivision a of section 16-453 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of three hundred dollars per day for each day that a recycling program meeting the requirements of such subdivision is not in effect. It shall be an affirmative defense to a violation of paragraph one or five of subdivision a of section 16-453 of this chapter that the operator used its best efforts to comply with such paragraph but was unable to because of circumstances beyond such operator's control.
 
    b.   Any operator who violates subdivision b of section 16-453 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board in the amount of: (1) one hundred dollars for the first violation; (2) seven hundred dollars for the second violation within a twelve-month period of the first violation; and (3) one thousand dollars for the third violation within such twelve-month period.
 
@@ -2468,7 +2468,7 @@ Chapter 4-C: Unlawful Removal and Acceptance of Recyclable Material
 § 16-460 Definitions.  ::
 
 
-	As used in this chapter:
+As used in this chapter:
 
  "Department-marked item" means any refrigerant-containing item that: (i) has written upon it a department service identification number that has been provided to the property owner by a 311 or department representative, or (ii) has affixed upon it an official decal or sticker indicating that such item is designated for future servicing of refrigerant removal by the department, or (iii) has affixed upon it an official decal or sticker indicating that such item has already been serviced for refrigerant removal by the department.
 
@@ -2498,7 +2498,7 @@ Recyclable material" means material that is discarded by or in excess to its own
 § 16-461 Unlawful removal or sale of material.  ::
 
 
-	a.   Recyclable material.
+a.   Recyclable material.
 
       1.   Except for an authorized employee or agent of the department, it shall be unlawful for any person to remove and transport by motor vehicle any recyclable material that has been placed by any owner, tenant or occupant of any residential building, building occupied by city agencies or institutions, or vacant lot, or by their agent, within the stoop area, adjacent to the curb line or otherwise adjacent to such building or lot for collection or removal by the department. The owner of any motor vehicle used in violation of this subdivision shall also be liable for any such violation. This paragraph shall not prohibit any person from lawfully entering into a written agreement with the owner of a building, or his or her agent, pursuant to subdivision a of this section.
 
@@ -2534,7 +2534,7 @@ Recyclable material" means material that is discarded by or in excess to its own
 § 16-462 Rewards.  ::
 
 
-	The commissioner shall establish a program to allow individuals to submit a sworn statement affirming the observation of a violation of section 16-461 of this chapter and, where the commissioner deems it appropriate, allow for a reward for any such sworn statement. Where a notice of violation or summons is issued for a violation of section 16-461 of this chapter based upon a sworn statement by one or more individuals and where the commissioner determines, in the exercise of his or her discretion, that such sworn statement, either alone or in conjunction with the testimony of the person submitting such sworn statement at a civil or criminal proceeding or in a proceeding before the environmental control board, contributes to the imposition of a civil or criminal penalty upon any person for a violation of section 16-461 of this chapter, the commissioner shall offer as a reward to such individual or individuals an amount that, in the aggregate, is equal to fifty percent of any civil or criminal penalty collected. No peace officer, employee of the department or of the environmental control board, employee of any company under contract with the department, or employee of any governmental entity that, in conjunction with the department, conducts enforcement activity relating to a violation of section 16-461 of this chapter, shall be entitled to obtain the benefit of any such reward when acting in the discharge of his or her official duties.
+The commissioner shall establish a program to allow individuals to submit a sworn statement affirming the observation of a violation of section 16-461 of this chapter and, where the commissioner deems it appropriate, allow for a reward for any such sworn statement. Where a notice of violation or summons is issued for a violation of section 16-461 of this chapter based upon a sworn statement by one or more individuals and where the commissioner determines, in the exercise of his or her discretion, that such sworn statement, either alone or in conjunction with the testimony of the person submitting such sworn statement at a civil or criminal proceeding or in a proceeding before the environmental control board, contributes to the imposition of a civil or criminal penalty upon any person for a violation of section 16-461 of this chapter, the commissioner shall offer as a reward to such individual or individuals an amount that, in the aggregate, is equal to fifty percent of any civil or criminal penalty collected. No peace officer, employee of the department or of the environmental control board, employee of any company under contract with the department, or employee of any governmental entity that, in conjunction with the department, conducts enforcement activity relating to a violation of section 16-461 of this chapter, shall be entitled to obtain the benefit of any such reward when acting in the discharge of his or her official duties.
 
 
 
@@ -2542,7 +2542,7 @@ Recyclable material" means material that is discarded by or in excess to its own
 § 16-463 Receipt of recyclable material.  ::
 
 
-	a.   1. Notwithstanding any other provision of law, the commissioners of sanitation and consumer affairs, and the chairperson of the business integrity commission, shall be authorized to adopt rules providing for the licensing or registration, supervision and inspection of the operation and activities relating to the purchase and sale, acceptance and storage of recyclable material, including but not limited to scrap metal facilities located within the city of New York. This paragraph shall not apply to a redemption center, dealer or distributor as defined in section 27-1003 of the environmental conservation law.
+a.   1. Notwithstanding any other provision of law, the commissioners of sanitation and consumer affairs, and the chairperson of the business integrity commission, shall be authorized to adopt rules providing for the licensing or registration, supervision and inspection of the operation and activities relating to the purchase and sale, acceptance and storage of recyclable material, including but not limited to scrap metal facilities located within the city of New York. This paragraph shall not apply to a redemption center, dealer or distributor as defined in section 27-1003 of the environmental conservation law.
 
       2.   Any rules adopted pursuant to this subdivision shall provide that any person who removes refrigerant or contracts with a third party for the removal of refrigerant from refrigerant-containing items must submit proof that refrigerant removal was conducted in accordance with rules and guidelines established by the United States environmental protection agency.
 
@@ -2558,7 +2558,7 @@ Recyclable material" means material that is discarded by or in excess to its own
 § 16-464 Enforcement.  ::
 
 
-	a.   1.   Any person who violates paragraph one of subdivision a of section 16-461 of this chapter shall be liable for (i) a criminal fine of five hundred dollars or imprisonment not to exceed forty-eight hours, or both, or (ii) a civil penalty of five hundred dollars for the first offense, seven hundred fifty dollars for the second offense that occurs on a different day within any eighteen-month period and one thousand dollars for each subsequent offense that occurs on a different day within any eighteen-month period. For the purpose of imposing a criminal fine or civil penalty pursuant to this paragraph, every building or lot from which recyclable material has been removed unlawfully shall constitute a separate violation for which a criminal fine or civil penalty may be imposed.
+a.   1.   Any person who violates paragraph one of subdivision a of section 16-461 of this chapter shall be liable for (i) a criminal fine of five hundred dollars or imprisonment not to exceed forty-eight hours, or both, or (ii) a civil penalty of five hundred dollars for the first offense, seven hundred fifty dollars for the second offense that occurs on a different day within any eighteen-month period and one thousand dollars for each subsequent offense that occurs on a different day within any eighteen-month period. For the purpose of imposing a criminal fine or civil penalty pursuant to this paragraph, every building or lot from which recyclable material has been removed unlawfully shall constitute a separate violation for which a criminal fine or civil penalty may be imposed.
 
       2.   No person shall be in violation of paragraph one of subdivision a of section 16-461 of this chapter if such person has removed three or fewer recyclable items, in the aggregate, per day or if such removed items are loose, individual magazines or soft-cover books that are not bundled and tied together with other mixed paper. This paragraph shall not apply to any refrigerant-containing item, or any large bulk metal item as defined by the commissioner by rule, or if the department observes the presence of additional recyclable material in the motor vehicle. There shall be a rebuttable presumption that the presence of such additional recyclable material in the motor vehicle indicates that such material was collected in violation of paragraph one of subdivision a of section 16-461 of this chapter.
 
@@ -2604,7 +2604,7 @@ Recyclable material" means material that is discarded by or in excess to its own
 § 16-465 Severability.  ::
 
 
-	If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
+If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
 
 
 
@@ -2614,7 +2614,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 § 16-470 Definitions.  ::
 
 
-	As used in this chapter: "In bulk" means fifty or more recyclable containers; "Motor vehicle" means any vehicle operated or driven upon a street that is propelled by any power other than human or animal power; "Owner" means a person, other than a lienholder, having the property in or title to a motor vehicle, including any person entitled to the use and possession of a motor vehicle subject to a security interest by another person and also includes any lessee or bailee of a motor vehicle having the exclusive use thereof, under a lease or otherwise, for a period greater than thirty days; "Person" means any individual, firm, corporation or other legal entity; "Recyclable container" means any bottle, can, jar or other container constructed from glass, metal or plastic that has been designated as a recyclable material pursuant to subdivision b of section 16-305 of this title; "Street" means any public street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, viaduct, square or place, including marginal streets.
+As used in this chapter: "In bulk" means fifty or more recyclable containers; "Motor vehicle" means any vehicle operated or driven upon a street that is propelled by any power other than human or animal power; "Owner" means a person, other than a lienholder, having the property in or title to a motor vehicle, including any person entitled to the use and possession of a motor vehicle subject to a security interest by another person and also includes any lessee or bailee of a motor vehicle having the exclusive use thereof, under a lease or otherwise, for a period greater than thirty days; "Person" means any individual, firm, corporation or other legal entity; "Recyclable container" means any bottle, can, jar or other container constructed from glass, metal or plastic that has been designated as a recyclable material pursuant to subdivision b of section 16-305 of this title; "Street" means any public street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, viaduct, square or place, including marginal streets.
 
 
 
@@ -2622,7 +2622,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 § 16-471 On-street acceptance or transfer of recyclable containers in bulk.  ::
 
 
-	a.   It shall be unlawful for any person using a motor vehicle to accept, receive or otherwise collect recyclable containers in bulk from more than one person on or in any street in the city of New York.
+a.   It shall be unlawful for any person using a motor vehicle to accept, receive or otherwise collect recyclable containers in bulk from more than one person on or in any street in the city of New York.
 
    b.   It shall be unlawful for any person to transfer recyclable containers in bulk from one vehicle to another on or in any street in the city of New York where one or more of the vehicles involved in the transfer has a commercial license plate.
 
@@ -2636,7 +2636,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 § 16-472 Registration.  ::
 
 
-	a.   On or after January 1, 2014, no person shall, while using a motor vehicle, accept, receive, transfer from one motor vehicle to another motor vehicle, or otherwise collect recyclable containers in bulk from more than two persons on private property in the city of New York without registering with the department pursuant to the provisions set forth in this section. Any application for registration or for renewal of a registration submitted to the department shall include the following:
+a.   On or after January 1, 2014, no person shall, while using a motor vehicle, accept, receive, transfer from one motor vehicle to another motor vehicle, or otherwise collect recyclable containers in bulk from more than two persons on private property in the city of New York without registering with the department pursuant to the provisions set forth in this section. Any application for registration or for renewal of a registration submitted to the department shall include the following:
 
       i.   name and address of each such person and owner of such motor vehicle used for acceptance of recyclable containers in bulk; and
 
@@ -2656,7 +2656,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 § 16-473 Reporting requirements.  ::
 
 
-	No later than January 31, 2015, and annually thereafter, any person registered pursuant to section 16-472 of this chapter shall submit an annual report to the department. Such report shall include, but not be limited to, the following:
+No later than January 31, 2015, and annually thereafter, any person registered pursuant to section 16-472 of this chapter shall submit an annual report to the department. Such report shall include, but not be limited to, the following:
 
    i.   the name and address of each operator of the motor vehicle used for acceptance of recyclable containers in bulk;
 
@@ -2672,7 +2672,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 § 16-474 Operating requirements.  ::
 
 
-	Any person registered pursuant to this chapter shall ensure that such person's motor vehicle accepts, receives, transfers from one motor vehicle to another motor vehicle or otherwise collects recyclable containers in bulk from another person on private property in the city of New York only at the location listed in the registration. Such person shall ensure that such property is operated and maintained in a safe and sanitary manner so as to avoid any nuisance or condition hazardous to public health or safety, including ensuring that the roadway, sidewalk and curb area abutting such property where such person operates is kept clean and free from obstruction and nuisances resulting directly from such person's activities, and that the roadway, sidewalk and curb area abutting any such property are free from garbage, refuse, rubbish, litter, debris and other offensive material including, but not limited to, unwanted recyclable containers.
+Any person registered pursuant to this chapter shall ensure that such person's motor vehicle accepts, receives, transfers from one motor vehicle to another motor vehicle or otherwise collects recyclable containers in bulk from another person on private property in the city of New York only at the location listed in the registration. Such person shall ensure that such property is operated and maintained in a safe and sanitary manner so as to avoid any nuisance or condition hazardous to public health or safety, including ensuring that the roadway, sidewalk and curb area abutting such property where such person operates is kept clean and free from obstruction and nuisances resulting directly from such person's activities, and that the roadway, sidewalk and curb area abutting any such property are free from garbage, refuse, rubbish, litter, debris and other offensive material including, but not limited to, unwanted recyclable containers.
 
 
 
@@ -2680,7 +2680,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 § 16-475 Exemption.  ::
 
 
-	The provisions of sections 16-471, 16-472, 16-473 and 16-474 of this chapter shall not apply to persons using a motor vehicle to collect or receive recyclable containers in bulk on streets or private property from dealers, distributors or redemption centers as such terms are defined in section 27-1003 of the environmental conservation law.
+The provisions of sections 16-471, 16-472, 16-473 and 16-474 of this chapter shall not apply to persons using a motor vehicle to collect or receive recyclable containers in bulk on streets or private property from dealers, distributors or redemption centers as such terms are defined in section 27-1003 of the environmental conservation law.
 
 
 
@@ -2688,7 +2688,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 § 16-476 Enforcement.  ::
 
 
-	a.   Any person who violates section 16-471 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of one thousand dollars for each such violation.
+a.   Any person who violates section 16-471 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of one thousand dollars for each such violation.
 
    b.   Any person who violates section 16-472 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of five hundred dollars for each such violation.
 
@@ -2704,7 +2704,7 @@ Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 § 16-477 Rulemaking authority.  ::
 
 
-	The commissioner shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter.
+The commissioner shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter.
 
 
 
@@ -2714,7 +2714,7 @@ Chapter 4-E: Recovery for Refrigerants
 § 16-480 Definitions.  ::
 
 
-	As used in this chapter:
+As used in this chapter:
 
    "Appliance" means any device that contains refrigerants and can be used for household purposes including, but not limited to, room air conditioners, refrigerators, water coolers, or freezers.
 
@@ -2736,7 +2736,7 @@ Chapter 4-E: Recovery for Refrigerants
 § 16-481 Original equipment manufacturer responsibility for recovery.  ::
 
 
-	a.   On and after July first, two thousand fourteen, original equipment manufacturers shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators.
+a.   On and after July first, two thousand fourteen, original equipment manufacturers shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators.
 
    b.   An original equipment manufacturer may elect to (i) establish its own refrigerant recovery program, (ii) participate with other original equipment manufacturers in a refrigerant recovery program, or (iii) have its appliances serviced by the department in the refrigerant recovery program provided pursuant to section 16-482 of this chapter. No program established pursuant to paragraph one or two of this subdivision may include curbside collection of appliances.
 
@@ -2746,7 +2746,7 @@ Chapter 4-E: Recovery for Refrigerants
 § 16-482 Department refrigerant recovery program.  ::
 
 
-	a.   The department shall provide a program for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
+a.   The department shall provide a program for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
 
    b.   The department shall establish, by rule, a fee for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
 
@@ -2758,7 +2758,7 @@ Chapter 4-E: Recovery for Refrigerants
 § 16-483 Improper disposal of appliances. ::
 
 
-	No original equipment manufacturer or its agent shall dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants.
+No original equipment manufacturer or its agent shall dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants.
 
 
 
@@ -2766,7 +2766,7 @@ Chapter 4-E: Recovery for Refrigerants
 § 16-484 Enforcement. ::
 
 
-	a.   The department shall have the authority to enforce the provisions of this chapter.
+a.   The department shall have the authority to enforce the provisions of this chapter.
 
    b.   Any original equipment manufacturer or agent of such manufacturer who violates section 16-483 of this chapter shall be liable for a civil penalty of five hundred dollars for each violation.
 
@@ -2776,7 +2776,7 @@ Chapter 4-E: Recovery for Refrigerants
 § 16-485 Rulemaking authority. ::
 
 
-	The department shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter, including but not limited to rules relating to reporting by original equipment manufacturers and registration with the department by such manufacturers, which registration may require the submission of information related to such manufacturers' refrigerant recovery programs, if any, and establishing penalties for violations of such rules.
+The department shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter, including but not limited to rules relating to reporting by original equipment manufacturers and registration with the department by such manufacturers, which registration may require the submission of information related to such manufacturers' refrigerant recovery programs, if any, and establishing penalties for violations of such rules.
 
 
 
@@ -2784,7 +2784,7 @@ Chapter 4-E: Recovery for Refrigerants
 § 16-486 Severability. ::
 
 
-	If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
+If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
 
 
 
@@ -2794,7 +2794,7 @@ Chapter 4-F: Carryout Bag Reduction
 § 16-490 Definitions. ::
 
 
-	As used in this chapter:
+As used in this chapter:
 
 Carryout bag. The term "carryout bag" means any bag that is provided by a covered store to a customer at the point of sale and is used to carry goods from such store, provided, however, that such term shall not include any of the following: (i) a bag without handles used to carry produce, meats, poultry, fish, dairy, dry goods or other non-prepackaged food items to the point of sale within a covered store or to prevent such food items from coming into direct contact with other purchased items; (ii) a bag provided by a pharmacy to carry prescription drugs; (iii) a garment bag; or (iv) any other bag exempted from the provisions of this chapter by rule of the commissioner.
 
@@ -2822,7 +2822,7 @@ Editor's note: Moratorium on the adoption or implementation of any local law, or
 § 16-491 Carryout bag fee. ::
 
 
-	a.   Except as provided in section 16-493 or subdivision e of section 16-492, covered stores shall charge a fee of not less than five cents for each carryout bag provided to any customer. All fees collected by a covered store under this chapter shall be retained by the store. Covered stores shall separately itemize the fee charged pursuant to this subdivision on the standard receipt provided to customers.
+a.   Except as provided in section 16-493 or subdivision e of section 16-492, covered stores shall charge a fee of not less than five cents for each carryout bag provided to any customer. All fees collected by a covered store under this chapter shall be retained by the store. Covered stores shall separately itemize the fee charged pursuant to this subdivision on the standard receipt provided to customers.
 
    b.   No covered store shall charge a fee for, or prevent a customer from using, a carryout bag brought by the customer to such store to carry purchased goods from such store.
 
@@ -2836,7 +2836,7 @@ Editor's note: Moratorium on the adoption or implementation of any local law, or
 § 16-492 Additional obligations for covered stores. ::
 
 
-	a.   All covered stores shall post signs at or near the point of sale to notify customers of the provisions of this chapter. Such signs shall measure at least five inches by seven inches and shall read as follows: "Pursuant to New York City law, all carryout bags provided by this store to a customer, with limited exceptions, shall be subject to a fee of not less than five cents per bag. Carryout bags brought by customers into this store to carry purchased goods from this store shall not be subject to a fee."
+a.   All covered stores shall post signs at or near the point of sale to notify customers of the provisions of this chapter. Such signs shall measure at least five inches by seven inches and shall read as follows: "Pursuant to New York City law, all carryout bags provided by this store to a customer, with limited exceptions, shall be subject to a fee of not less than five cents per bag. Carryout bags brought by customers into this store to carry purchased goods from this store shall not be subject to a fee."
 
    b.   No covered store shall provide a credit to any customer specifically for the purpose of reducing or eliminating the carryout bag fee required by subdivision a of section 16-491.
 
@@ -2856,7 +2856,7 @@ Editor's note: Moratorium on the adoption or implementation of any local law, or
 § 16-493 Exemptions. ::
 
 
-	All covered stores that provide carryout bags to customers shall provide carryout bags free of charge for items purchased at such covered store by any customer using the supplemental nutrition assistance program, special supplemental nutrition program for women, infants and children, or any successor programs, as full or partial payment toward the items purchased in such covered store.
+All covered stores that provide carryout bags to customers shall provide carryout bags free of charge for items purchased at such covered store by any customer using the supplemental nutrition assistance program, special supplemental nutrition program for women, infants and children, or any successor programs, as full or partial payment toward the items purchased in such covered store.
 
 
 
@@ -2868,7 +2868,7 @@ Editor's note: Moratorium on the adoption or implementation of any local law, or
 § 16-494 Reporting. ::
 
 
-	No later than March 1, 2018, and annually thereafter, the commissioner, in collaboration with the commissioners of environmental protection and consumer affairs, and the head of any other department or office designated by the mayor, shall include in the department's annual recycling report pursuant to subdivision k of section 16-305, information on the progress of single-use carryout bag reduction including, but not limited to: (i) the general effectiveness of this chapter in reducing the use of single-use carryout bags in the city and increasing the use of reusable carryout bags; (ii) the waste- and litter-reduction benefits of this chapter, including, where practicable, the amount of single-use plastic bags in the waste stream; (iii) the number of notices of violation issued pursuant to this chapter; and (iv) any cost savings for the city attributable to single-use carryout bag reduction such as reduced contamination of the residential recycling stream or reduction in flooding or combined sewer overflows.
+No later than March 1, 2018, and annually thereafter, the commissioner, in collaboration with the commissioners of environmental protection and consumer affairs, and the head of any other department or office designated by the mayor, shall include in the department's annual recycling report pursuant to subdivision k of section 16-305, information on the progress of single-use carryout bag reduction including, but not limited to: (i) the general effectiveness of this chapter in reducing the use of single-use carryout bags in the city and increasing the use of reusable carryout bags; (ii) the waste- and litter-reduction benefits of this chapter, including, where practicable, the amount of single-use plastic bags in the waste stream; (iii) the number of notices of violation issued pursuant to this chapter; and (iv) any cost savings for the city attributable to single-use carryout bag reduction such as reduced contamination of the residential recycling stream or reduction in flooding or combined sewer overflows.
 
 
 
@@ -2880,7 +2880,7 @@ Editor's note: Moratorium on the adoption or implementation of any local law, or
 § 16-495 Outreach and education. ::
 
 
-	a.   The commissioner shall establish an outreach and education program aimed at educating residents and covered stores on reducing the use of single-use carryout bags and increasing the use of reusable carryout bags. This outreach and education program shall include, but not be limited to, a multilingual public education program, including advertisements about the program in newspapers of general circulation, radio, and public venues such as subways and buses.
+a.   The commissioner shall establish an outreach and education program aimed at educating residents and covered stores on reducing the use of single-use carryout bags and increasing the use of reusable carryout bags. This outreach and education program shall include, but not be limited to, a multilingual public education program, including advertisements about the program in newspapers of general circulation, radio, and public venues such as subways and buses.
 
    b.   To the extent practicable, the commissioner shall seek the assistance of for-profit and not-for-profit corporations in providing and distributing reusable carryout bags to residents and in providing and distributing signs pursuant to subdivision a of section 16-492 to covered stores.
 
@@ -2900,7 +2900,7 @@ Editor's note: Moratorium on the adoption or implementation of any local law, or
 § 16-496 Enforcement. ::
 
 
-	a.   Any notice of violation issued pursuant to this chapter shall be returnable to the environmental control board, which shall have the power to impose civil penalties as provided in this chapter.
+a.   Any notice of violation issued pursuant to this chapter shall be returnable to the environmental control board, which shall have the power to impose civil penalties as provided in this chapter.
 
    b.   The department and the department of consumer affairs shall have the authority to enforce the provisions of this chapter.
 
@@ -2922,7 +2922,7 @@ Chapter 4-G: Food Donation Web Portal
 § 16-497 Food donation web portal. ::
 
 
-	Within eighteen months after the effective date of the local law that added this section, the department or another agency or office designated by the mayor, shall, in conjunction with the department of information technology and telecommunications, create or modify and maintain a web portal that will allow prospective food donors and recipients, including but not limited to restaurants, grocery stores, produce markets, dining facilities and food rescue organizations, to post notifications concerning the availability of food, including food that would otherwise go to waste, and to arrange for the transportation or retrieval of such food. Such portal shall, at a minimum, allow (i) a prospective food donor to describe the type and amount of food available, including any information necessary to keep the food safe for human consumption, such as refrigeration requirements, as well as other information necessary to facilitate its donation, (ii) a prospective food recipient to specify the type and amount of food donations it will accept and the areas of the city from which it will accept donations and to receive prompt notification concerning the availability of food satisfying such specifications, and (iii) a prospective food donor and a prospective food recipient to communicate directly through a messaging system within such portal.
+Within eighteen months after the effective date of the local law that added this section, the department or another agency or office designated by the mayor, shall, in conjunction with the department of information technology and telecommunications, create or modify and maintain a web portal that will allow prospective food donors and recipients, including but not limited to restaurants, grocery stores, produce markets, dining facilities and food rescue organizations, to post notifications concerning the availability of food, including food that would otherwise go to waste, and to arrange for the transportation or retrieval of such food. Such portal shall, at a minimum, allow (i) a prospective food donor to describe the type and amount of food available, including any information necessary to keep the food safe for human consumption, such as refrigeration requirements, as well as other information necessary to facilitate its donation, (ii) a prospective food recipient to specify the type and amount of food donations it will accept and the areas of the city from which it will accept donations and to receive prompt notification concerning the availability of food satisfying such specifications, and (iii) a prospective food donor and a prospective food recipient to communicate directly through a messaging system within such portal.
 
 
 

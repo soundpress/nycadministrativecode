@@ -5,7 +5,7 @@ Chapter 1: Officers and Employees
 § 12-101 Salaries; retroactive increases forbidden.  ::
 
 
-	Any action taken by the head of an agency or by the mayor to increase the salary of any officer or person whose salary is paid out of the city treasury, to take effect prior to the date of such action is void.
+Any action taken by the head of an agency or by the mayor to increase the salary of any officer or person whose salary is paid out of the city treasury, to take effect prior to the date of such action is void.
 
 
 
@@ -13,7 +13,7 @@ Chapter 1: Officers and Employees
 § 12-102 Salaries; increases after fixation in budget permitted.  ::
 
 
-	The head of an agency subject to the provisions of section one hundred twenty-four of the charter, or the mayor shall have the power to increase, during any fiscal year, the salary of any officer or person paid from the city treasury even after such salary shall have been fixed in the budget for such fiscal year.
+The head of an agency subject to the provisions of section one hundred twenty-four of the charter, or the mayor shall have the power to increase, during any fiscal year, the salary of any officer or person paid from the city treasury even after such salary shall have been fixed in the budget for such fiscal year.
 
 
 
@@ -21,7 +21,7 @@ Chapter 1: Officers and Employees
 § 12-103 Salaries; of county officials.  ::
 
 
-	The salaries of all county officers in counties within the city, unless otherwise provided by law, shall be fixed by the mayor.
+The salaries of all county officers in counties within the city, unless otherwise provided by law, shall be fixed by the mayor.
 
 
 
@@ -29,7 +29,7 @@ Chapter 1: Officers and Employees
 § 12-104 Payment of claims of certain employees authorized.  ::
 
 
-	The mayor is hereby authorized to inquire into, hear and determine any claim heretofore or hereafter filed against the city, or any agency, or the board of education, by a duly appointed employee or his or her estate, where it is shown that such employee failed and neglected to cash the check paid to such employee for services rendered, notwithstanding a bar to the payment of any such claim by limitation of time or otherwise. The mayor may, after due consideration, authorize payment of such claim, and such claim shall thereupon be paid in such amount as the mayor shall determine to be just, in full statisfaction* thereof, provided that the claimant or his or her estate, shall execute and deliver a release upon receipt of such payment, in such form as shall be approved by the corporation counsel. The allowance in payment of such claim shall be without any interest whatsoever.
+The mayor is hereby authorized to inquire into, hear and determine any claim heretofore or hereafter filed against the city, or any agency, or the board of education, by a duly appointed employee or his or her estate, where it is shown that such employee failed and neglected to cash the check paid to such employee for services rendered, notwithstanding a bar to the payment of any such claim by limitation of time or otherwise. The mayor may, after due consideration, authorize payment of such claim, and such claim shall thereupon be paid in such amount as the mayor shall determine to be just, in full statisfaction* thereof, provided that the claimant or his or her estate, shall execute and deliver a release upon receipt of such payment, in such form as shall be approved by the corporation counsel. The allowance in payment of such claim shall be without any interest whatsoever.
 
 
 
@@ -37,7 +37,7 @@ Chapter 1: Officers and Employees
 § 12-105 Heads of agencies; power to make deductions from salaries of subordinates.  ::
 
 
-	Except as otherwise provided by law, every head of an agency is empowered:
+Except as otherwise provided by law, every head of an agency is empowered:
 
    1.   To make ratable deductions from the salaries and wages of subordinates, on account of absences from duty without leave.
 
@@ -51,7 +51,7 @@ Chapter 1: Officers and Employees
 § 12-106 Heads of agencies other than the police and fire commissioner, may rehear charges against and reinstate persons dismissed.  ::
 
 
-	a.   The head of any agency, upon written application by any person who has been dismissed from service, setting forth the reasons for demanding an opportunity of making a further explanation, shall have the power, in his or her discretion, to rehear the explanation and any new matter offered in further reply to the charges or complaint upon which such person was dismissed from service. Such person shall be required to waive, in writing, all claims against the city for back pay. Such application for another opportunity to explain shall only be presented to and granted by the officer who made the removal or such officer's immediate successor, when the applicant for the further explanation shall make it appear, by affidavit:
+a.   The head of any agency, upon written application by any person who has been dismissed from service, setting forth the reasons for demanding an opportunity of making a further explanation, shall have the power, in his or her discretion, to rehear the explanation and any new matter offered in further reply to the charges or complaint upon which such person was dismissed from service. Such person shall be required to waive, in writing, all claims against the city for back pay. Such application for another opportunity to explain shall only be presented to and granted by the officer who made the removal or such officer's immediate successor, when the applicant for the further explanation shall make it appear, by affidavit:
 
       1.   That on a further opportunity to explain, he or she can produce such evidence as would probably have changed the decision if it had been presented theretofore; and
 
@@ -71,7 +71,7 @@ Chapter 1: Officers and Employees
 § 12-107 Publication of notice of appointments, removals, and changes of salaries.  ::
 
 
-	Notice of all appointments and removals from office, and all changes of salaries except those resulting from collective bargaining or original jurisdiction adjustments, shall be transmitted within one week after they are made, by the appointing agency or department head, to and published within thirty days in the City Record, indicating the name, title and salary of each individual appointed, promoted, demoted, removed from office or whose services have otherwise terminated, and whether an appointment is a "provisional appointment."
+Notice of all appointments and removals from office, and all changes of salaries except those resulting from collective bargaining or original jurisdiction adjustments, shall be transmitted within one week after they are made, by the appointing agency or department head, to and published within thirty days in the City Record, indicating the name, title and salary of each individual appointed, promoted, demoted, removed from office or whose services have otherwise terminated, and whether an appointment is a "provisional appointment."
 
 
 
@@ -79,7 +79,7 @@ Chapter 1: Officers and Employees
 § 12-108 Overtime work by officers or employees and additional compensation therefor.  ::
 
 
-	Notwithstanding the provisions of any other statute, general, special or local, the mayor may authorize the head of any agency to require any officer or employee in such agency or any class or group of officers or employees in such agency to work in excess of the maximum number of hours of employment prescribed for such officer or employee or class or group of officers or employees by any statute, general, special or local, provided that each such officer or employee shall be paid overtime compensation for such work at not less than his or her regular basic pay rate. The amounts received as overtime compensation pursuant to the provisions of this section shall be regarded as salary or compensation for the purposes of any pension or retirement system of which the employee receiving such overtime compensation is a member. Such overtime compensation shall not be regarded as salary or compensation for the purpose of determining the right to any increase of salary or any salary increment on account of length of service or otherwise, nor shall the payment of such overtime compensation be construed to constitute a promotion.
+Notwithstanding the provisions of any other statute, general, special or local, the mayor may authorize the head of any agency to require any officer or employee in such agency or any class or group of officers or employees in such agency to work in excess of the maximum number of hours of employment prescribed for such officer or employee or class or group of officers or employees by any statute, general, special or local, provided that each such officer or employee shall be paid overtime compensation for such work at not less than his or her regular basic pay rate. The amounts received as overtime compensation pursuant to the provisions of this section shall be regarded as salary or compensation for the purposes of any pension or retirement system of which the employee receiving such overtime compensation is a member. Such overtime compensation shall not be regarded as salary or compensation for the purpose of determining the right to any increase of salary or any salary increment on account of length of service or otherwise, nor shall the payment of such overtime compensation be construed to constitute a promotion.
 
 
 
@@ -87,7 +87,7 @@ Chapter 1: Officers and Employees
 § 12-109 Activities of mayor and other officers of the city or of any agency as officers or members of an educational corporation chartered by the board of regents of the University of the state of New York to carry out programs to encourage scholastic achievement by pupils within the city.  ::
 
 
-	The provisions of sections eleven hundred and two thousand six hundred four of the charter, section three of the general city law and any other similar provision of law, general, special or local, or rule or regulation or rule of law shall not apply to the mayor, the head of any city department or of any agency, or any other officer of the city or of any agency in respect to his or her activities as an officer or member of an educational corporation chartered by the board of regents of the University of the state of New York to carry out award, citation, scholarship and other programs in cooperation with participating colleges and universities designed to encourage scholastic achievement on the part of pupils attending public, private and parochial schools within the city of New York or to foster interest in the humanities and the arts and to encourage participation in cultural programs. Notwithstanding any other provision of law, general, special or local, the mayor, the head of any department of the city or of any agency or any other officer of the city or any agency may, during his or her term of office, serve as an officer or member of such a corporation.
+The provisions of sections eleven hundred and two thousand six hundred four of the charter, section three of the general city law and any other similar provision of law, general, special or local, or rule or regulation or rule of law shall not apply to the mayor, the head of any city department or of any agency, or any other officer of the city or of any agency in respect to his or her activities as an officer or member of an educational corporation chartered by the board of regents of the University of the state of New York to carry out award, citation, scholarship and other programs in cooperation with participating colleges and universities designed to encourage scholastic achievement on the part of pupils attending public, private and parochial schools within the city of New York or to foster interest in the humanities and the arts and to encourage participation in cultural programs. Notwithstanding any other provision of law, general, special or local, the mayor, the head of any department of the city or of any agency or any other officer of the city or any agency may, during his or her term of office, serve as an officer or member of such a corporation.
 
 
 
@@ -95,7 +95,7 @@ Chapter 1: Officers and Employees
 § 12-110 Annual disclosure.  ::
 
 
-	a.   Definitions. As used in this section:
+a.   Definitions. As used in this section:
 
       1.   The term "affiliated" shall mean a firm that is a subsidiary of another firm, or two firms that have a parent in common, or two firms with a stockholder in common who owns at least twenty-five per cent of the shares of each such firm.
 
@@ -349,7 +349,7 @@ Chapter 1: Officers and Employees
 § 12-112 Council; violations of law by members of.  ::
 
 
-	Any member of the council, who shall vote for any appropriation unauthorized by law or in excess of the amount authorized by law, or for any illegal or injurious disposition of corporate property or rights, shall be guilty of a misdemeanor and liable to the punishment and penalties prescribed therefor; and every member voting in favor thereof shall be individually liable to refund the amounts to the city at the suit of any citizen and taxpayer.
+Any member of the council, who shall vote for any appropriation unauthorized by law or in excess of the amount authorized by law, or for any illegal or injurious disposition of corporate property or rights, shall be guilty of a misdemeanor and liable to the punishment and penalties prescribed therefor; and every member voting in favor thereof shall be individually liable to refund the amounts to the city at the suit of any citizen and taxpayer.
 
 
 
@@ -357,7 +357,7 @@ Chapter 1: Officers and Employees
 § 12-113 Protection of sources of information.  ::
 
 
-	a.   Definitions. For purposes of this section:
+a.   Definitions. For purposes of this section:
 
       1.   "Adverse personnel action" shall include dismissal, demotion, suspension, disciplinary action, negative performance evaluation, any action resulting in loss of staff, office space or equipment or other benefit, failure to appoint, failure to promote, or any transfer or assignment or failure to transfer or assign against the wishes of the affected officer or employee.
 
@@ -423,7 +423,7 @@ Chapter 1: Officers and Employees
 § 12-114 Fees paid to city.  ::
 
 
-	a.   Every officer of the city government shall be paid a fixed salary and all fees, percentages or commissions or other money paid to such officer in his or her official capacity, shall be the property of the city. All sums so received, including sums received for licenses or permits, shall be paid over not later than the next succeeding business day after receipt thereof, except as otherwise provided by law, to the commissioner of finance without deduction.
+a.   Every officer of the city government shall be paid a fixed salary and all fees, percentages or commissions or other money paid to such officer in his or her official capacity, shall be the property of the city. All sums so received, including sums received for licenses or permits, shall be paid over not later than the next succeeding business day after receipt thereof, except as otherwise provided by law, to the commissioner of finance without deduction.
 
    b.   Each such officer who shall receive any fees, perquisites, commissions or percentages, or money paid to such officer in his or her official capacity, or any other money which should be paid over to the city, shall make a detailed return to the comptroller, under oath, and in such form as the comptroller shall prescribe, showing the amount of all such fees, commissions, percentages, perquisites and money received by him or her since the last preceding statement and return, and showing when, from whom and for what reason such money was received.
 
@@ -437,7 +437,7 @@ Chapter 1: Officers and Employees
 § 12-115 Civil rights protected.  ::
 
 
-	Nothing in the code contained shall affect any rights given or secured by section fifteen of the civil rights law.
+Nothing in the code contained shall affect any rights given or secured by section fifteen of the civil rights law.
 
 
 
@@ -445,7 +445,7 @@ Chapter 1: Officers and Employees
 § 12-116 Certificates of appointment.  ::
 
 
-	Every person who shall be appointed or elected to any office in any agency shall receive a certificate of appointment, designating the term for which such person has been appointed or elected.
+Every person who shall be appointed or elected to any office in any agency shall receive a certificate of appointment, designating the term for which such person has been appointed or elected.
 
 
 
@@ -453,7 +453,7 @@ Chapter 1: Officers and Employees
 § 12-117 Official oath.  ::
 
 
-	Every person elected or appointed to any office in any agency of the city, shall within five days after notice of such election or appointment, take and subscribe, before the mayor, any judge of a court of record, the appointing officer or the city clerk, an oath or affirmation faithfully to perform the duties of his or her office. Such oath or affirmation shall be filed in the office of the city clerk.
+Every person elected or appointed to any office in any agency of the city, shall within five days after notice of such election or appointment, take and subscribe, before the mayor, any judge of a court of record, the appointing officer or the city clerk, an oath or affirmation faithfully to perform the duties of his or her office. Such oath or affirmation shall be filed in the office of the city clerk.
 
 
 
@@ -461,7 +461,7 @@ Chapter 1: Officers and Employees
 § 12-118 Appropriations for contesting office to be made for prevailing party only.  ::
 
 
-	An appropriation or payment for the contesting of the office of mayor or any seat in the council or office in any department, or the office of any officer whose salary is paid from the city treasury, shall be made only to the prevailing party. Such appropriations or payment shall be made to the prevailing party only upon the written certificate of the corporation counsel and of the presiding justice of the appellate division of the first department of the supreme court, certifying who is the prevailing party, and the value of the services rendered in the case.
+An appropriation or payment for the contesting of the office of mayor or any seat in the council or office in any department, or the office of any officer whose salary is paid from the city treasury, shall be made only to the prevailing party. Such appropriations or payment shall be made to the prevailing party only upon the written certificate of the corporation counsel and of the presiding justice of the appellate division of the first department of the supreme court, certifying who is the prevailing party, and the value of the services rendered in the case.
 
 
 
@@ -469,7 +469,7 @@ Chapter 1: Officers and Employees
 § 12-119 Definitions.  ::
 
 
-	As used in sections 12-120 and 12-121 of this subchapter:
+As used in sections 12-120 and 12-121 of this subchapter:
 
    a.   The word "residence" means domicile and the word "resident" means domiciliary.
 
@@ -481,7 +481,7 @@ Chapter 1: Officers and Employees
 § 12-120 Residency requirements.  ::
 
 
-	a.   Except as otherwise provided in section 12-121, any person who enters city service on or after September first nineteen hundred eighty-six (i) shall be a resident of the city on the date that he or she enters city service or shall establish city residence within ninety days after such date and (ii) shall thereafter maintain city residence as a condition of employment. Failure to establish or maintain city residence as required by this section shall constitute a forfeiture of employment; provided, however, that prior to dismissal for failure to establish or maintain city residence an employee shall be given notice of and the opportunity to contest the charge that his or her residence is outside the city.
+a.   Except as otherwise provided in section 12-121, any person who enters city service on or after September first nineteen hundred eighty-six (i) shall be a resident of the city on the date that he or she enters city service or shall establish city residence within ninety days after such date and (ii) shall thereafter maintain city residence as a condition of employment. Failure to establish or maintain city residence as required by this section shall constitute a forfeiture of employment; provided, however, that prior to dismissal for failure to establish or maintain city residence an employee shall be given notice of and the opportunity to contest the charge that his or her residence is outside the city.
 
    b.   Notwithstanding subdivision a of this section, employees who have completed two years of city service shall be deemed to be in compliance with the residency requirements of this section if they are residents of Nassau, Westchester, Suffolk, Orange, Rockland or Putnam county; provided, however, that
 
@@ -501,7 +501,7 @@ Chapter 1: Officers and Employees
 § 12-121 Exceptions to residence requirements.  ::
 
 
-	a.   The commissioner of citywide administrative services on his or her own initiative or upon application of the head of an agency may certify that there is difficulty in the recruitment of personnel for a position and that to restrict recruitment for such position to persons who meet the residency requirements of section 12-120 based on their residence or their willingness to establish residence consistent with such requirements would not be in the public interest. Persons appointed to positions so certified by the commissioner shall not be required to establish or maintain residence consistent with the requirements of such section as a condition of employment while in service in that position. Each agency head may make application to the commissioner, in such form as the commissioner shall prescribe, for the certification of positions within the agency head's jurisdiction. The commissioner may certify such positions subject to such limitations and conditions as the commissioner may deem appropriate. Notwithstanding the foregoing provisions, positions in the city council may be so certified by the speaker of the city council. Copies of all certifications of the commissioner and the speaker shall be filed with the city clerk and shall be subject to annual review by the commissioner and speaker.
+a.   The commissioner of citywide administrative services on his or her own initiative or upon application of the head of an agency may certify that there is difficulty in the recruitment of personnel for a position and that to restrict recruitment for such position to persons who meet the residency requirements of section 12-120 based on their residence or their willingness to establish residence consistent with such requirements would not be in the public interest. Persons appointed to positions so certified by the commissioner shall not be required to establish or maintain residence consistent with the requirements of such section as a condition of employment while in service in that position. Each agency head may make application to the commissioner, in such form as the commissioner shall prescribe, for the certification of positions within the agency head's jurisdiction. The commissioner may certify such positions subject to such limitations and conditions as the commissioner may deem appropriate. Notwithstanding the foregoing provisions, positions in the city council may be so certified by the speaker of the city council. Copies of all certifications of the commissioner and the speaker shall be filed with the city clerk and shall be subject to annual review by the commissioner and speaker.
 
    b.    Residence in the city or Nassau, Westchester, Suffolk, Orange, Rockland or Putnam county shall not be required as a condition of employment for:
 
@@ -519,7 +519,7 @@ Chapter 1: Officers and Employees
 § 12-122 Temporary transfer of employees.  ::
 
 
-	Whenever the mayor shall determine that there is such an accumulation of work in any agency, the performance of which work will impose upon the regular employees thereof unreasonable and unwarranted burden, the mayor, upon application by the head of such agency, and with the consent of the commissioner of citywide administrative services, may assign to it for temporary employment, employees from any other agency, with the consent of the head thereof. Such transfer shall be for a limited period to be stated in the order of the mayor and may be extended if the mayor shall so determine. Such transfer shall not in any way affect the civil service standing, continuity of service, right to pension, grade or compensation of an employee so transferred.
+Whenever the mayor shall determine that there is such an accumulation of work in any agency, the performance of which work will impose upon the regular employees thereof unreasonable and unwarranted burden, the mayor, upon application by the head of such agency, and with the consent of the commissioner of citywide administrative services, may assign to it for temporary employment, employees from any other agency, with the consent of the head thereof. Such transfer shall be for a limited period to be stated in the order of the mayor and may be extended if the mayor shall so determine. Such transfer shall not in any way affect the civil service standing, continuity of service, right to pension, grade or compensation of an employee so transferred.
 
 
 
@@ -527,7 +527,7 @@ Chapter 1: Officers and Employees
 § 12-123 Authorizing leaves of absence with pay, for employees of the city to attend conventions, encampments, or parades.  ::
 
 
-	The mayor is hereby empowered to authorize the head of any agency, in the mayor's discretion, to grant to an employee in any such agency, including per diem employees, a leave of absence with pay for the purpose of attending a convention, encampment or parade of any organization composed of veterans of the wars in which the United States has participated, or a convention of any firefighter's association or other organization composed of active or exempt volunteer firefighter, if such employee is a member of such organization or association, and does actually attend such convention, encampment or parade.
+The mayor is hereby empowered to authorize the head of any agency, in the mayor's discretion, to grant to an employee in any such agency, including per diem employees, a leave of absence with pay for the purpose of attending a convention, encampment or parade of any organization composed of veterans of the wars in which the United States has participated, or a convention of any firefighter's association or other organization composed of active or exempt volunteer firefighter, if such employee is a member of such organization or association, and does actually attend such convention, encampment or parade.
 
 
 
@@ -535,7 +535,7 @@ Chapter 1: Officers and Employees
 § 12-124 Payment of salaries; exceptions.  ::
 
 
-	The salary of every officer or employee paid out of the city treasury who is unable to devote full time to the performance of such person's regular duties by reason of his or her attendance as a delegate at a constitutional convention shall be paid, notwithstanding such person's inability to devote full time to his or her regular duties.
+The salary of every officer or employee paid out of the city treasury who is unable to devote full time to the performance of such person's regular duties by reason of his or her attendance as a delegate at a constitutional convention shall be paid, notwithstanding such person's inability to devote full time to his or her regular duties.
 
 
 
@@ -543,7 +543,7 @@ Chapter 1: Officers and Employees
 § 12-124.1 Electronic pay stubs.  ::
 
 
-	a.   The pay stub of each city employee receiving direct deposit shall be made available to such employee in electronic format which shall be printable by such employee.
+a.   The pay stub of each city employee receiving direct deposit shall be made available to such employee in electronic format which shall be printable by such employee.
 
    b.   Each such city employee shall have access to such electronic pay stub through a secure password-protected website, which can be accessed remotely from a computer terminal or kiosk with intranet and/or internet access in compliance with any local, state and federal laws, regulations and rules, including those dealing with privacy protection. Every city agency shall make reasonable accommodations to provide computer terminals and/or kiosks with intranet and/or internet access for city employees employed by such agency to access such employee's electronic pay stub and shall permit said employees to access such pay stub as an incidental use.
 
@@ -565,7 +565,7 @@ Chapter 1: Officers and Employees
 § 12-125 Retired employees; change of options.  ::
 
 
-	Notwithstanding any other law to the contrary, no beneficiary shall be permitted to change any optional selection after it has become effective, provided, however, that if:
+Notwithstanding any other law to the contrary, no beneficiary shall be permitted to change any optional selection after it has become effective, provided, however, that if:
 
    (a)   a retired member nominates the spouse of such member as the survivor beneficiary under option two or three of section 13-177 of the code, or if a retired member nominates the spouse of such member under option four of such section to receive payment of an annual benefit as a survivor; and
 
@@ -577,7 +577,7 @@ Chapter 1: Officers and Employees
 § 12-126 Health insurance coverage for city employees, persons retired from city employment, and dependents of such employees and retirees.  ::
 
 
-	a.   Definitions. As used in this section, the following terms shall have the meaning hereinafter stated:
+a.   Definitions. As used in this section, the following terms shall have the meaning hereinafter stated:
 
       i.   "City employee." A person: (1) who is employed by a department or agency of the city; and (2) is paid out of the city treasury; and (3) is employed under terms prescribing a work week regularly consisting of twenty or more hours during the fiscal year; and (4) is not employed by the board of education.
 
@@ -615,7 +615,7 @@ Chapter 1: Officers and Employees
 § 12-126.1 Special provisions applicable to health insurance and welfare benefit fund coverage for certain members of city retirement systems.  ::
 
 
-	a.   Definitions. The following terms, as used in this section, shall have the following meanings, unless a different meaning is plainly required by the context:
+a.   Definitions. The following terms, as used in this section, shall have the following meanings, unless a different meaning is plainly required by the context:
 
       (1)   "NYCERS former fractional plan member". A member of the New York city employees' retirement system who, pursuant to the provisions of subdivision m of section 13-162 of the code, is deemed to have elected to become a career pension plan member (as defined in subdivision forty-six of section 13-101 of the code), and who currently is such a career pension plan member or a fifty-five-year-increased-service-fraction member (as defined in subdivision fifty-one of section 13-101 of the code).
 
@@ -635,7 +635,7 @@ Chapter 1: Officers and Employees
 § 12-126.2 Special provisions applicable to health insurance and welfare benefit fund coverage for certain correction officers and sanitation workers.  ::
 
 
-	a.   Definitions. The following terms, as used in this section shall have the following meanings, unless a different meaning is plainly required by the context:
+a.   Definitions. The following terms, as used in this section shall have the following meanings, unless a different meaning is plainly required by the context:
 
       (1)   "RSSL". The New York state retirement and social security law.
 
@@ -665,7 +665,7 @@ Chapter 1: Officers and Employees
 § 12-126.3 Health insurance coverage and welfare fund benefits of certain retirees and their dependents.* ::
 
 
-	a.   Definitions. The following terms, as used in this section, shall have the following meanings, unless a different meaning is plainly required by the context:
+a.   Definitions. The following terms, as used in this section, shall have the following meanings, unless a different meaning is plainly required by the context:
 
       (1)   "Pre-merger transit police retiree". A member of the uniformed force of the former transit police department of the New York city transit authority who retired as such a member prior to April thirtieth, nineteen hundred ninety-five or retired thereafter as such an employee as a result of an application to retire filed prior to such April thirtieth.
 
@@ -705,7 +705,7 @@ Chapter 1: Officers and Employees
 § 12-126.3 Health insurance coverage for former mayors.* ::
 
 
-	a.   Any former mayor of the city of New York, upon attaining the age of sixty-two, shall be afforded the right to such health insurance coverage as is provided for city employees, city retirees, and their dependents as set forth in paragraph one of subdivision b of section 12-126.
+a.   Any former mayor of the city of New York, upon attaining the age of sixty-two, shall be afforded the right to such health insurance coverage as is provided for city employees, city retirees, and their dependents as set forth in paragraph one of subdivision b of section 12-126.
 
    b.   Any amount paid by the city pursuant to this section shall not be deemed to be salary, wages or compensation within the meaning of any law relating to any retirement or pension system and shall not be considered or included for the purpose of computing or determining employee or city contributions or the rights, allowances and benefits to which a city employee or such employee's heirs or beneficiaries shall become entitled under any retirement or pension system; and shall not be construed as a change of grade or classification or as a promotion to higher grade or position.
 
@@ -717,7 +717,7 @@ Chapter 1: Officers and Employees
 § 12-127 City employees injured in course of duty.  ::
 
 
-	a.   Any member of the uniformed forces of the fire or police departments or any person employed in the department of sanitation in the sanitation service classification of the classified civil service who shall be injured while actually employed in the discharge of police orders of his or her superior officers in the police station, fire house or sanitation section station, as the case may be, or as the result of illness traceable directly to the performance of police, fire or sanitation duty, as the case may be, or any employee of the department of parks, general services, ports and terminals or environmental protection or a person employed by the police commissioner as a school crossing guard who shall be injured while actually employed in the discharge of duty, shall be received by any hospital for care and treatment when such facts are certified to by the head of the department. Unless otherwise provided in this section, such members shall be received by any hospital at the usual ward patient rates. The bill for such care and treatment at such rates, when certified by the superintendent or other person in charge of such hospital and approved by the head of the department concerned, shall be paid by the city.
+a.   Any member of the uniformed forces of the fire or police departments or any person employed in the department of sanitation in the sanitation service classification of the classified civil service who shall be injured while actually employed in the discharge of police orders of his or her superior officers in the police station, fire house or sanitation section station, as the case may be, or as the result of illness traceable directly to the performance of police, fire or sanitation duty, as the case may be, or any employee of the department of parks, general services, ports and terminals or environmental protection or a person employed by the police commissioner as a school crossing guard who shall be injured while actually employed in the discharge of duty, shall be received by any hospital for care and treatment when such facts are certified to by the head of the department. Unless otherwise provided in this section, such members shall be received by any hospital at the usual ward patient rates. The bill for such care and treatment at such rates, when certified by the superintendent or other person in charge of such hospital and approved by the head of the department concerned, shall be paid by the city.
 
    b.   Any member of the uniformed forces of the fire or police department or any person employed in the department of sanitation in the sanitation service classification of the classified civil service or a person employed by the police commissioner as a school crossing guard who, while in the actual performance of duty, and by reason of the performance of such duty and without fault or misconduct on his or her part, shall receive injuries to an extent which may endanger his or her life, shall be received by any hospital for care and treatment, and shall be afforded such medical or surgical care and hospitalization as may be ordered by the chief medical officer of the respective departments in conformity with the provisions of this section. Such medical officer shall forthwith notify the comptroller of the care and hospitalization so ordered. The rate charged for such care and hospitalization for such member or such person shall not exceed the rate charged any person in receipt of an income equal to the salary of such member or of such person for the same accommodations. The comptroller and the heads of the departments affected shall make necessary rules and regulations to carry out the provisions of this section. Upon certification by the chief medical officer of the department concerned, the bill for such care and hospitalization, when certified by the superintendent or other person in charge of the hospital and approved by the head of the department concerned, shall be paid by the city. Notwithstanding any provision of law to the contrary, a provider of medical treatment or hospital care furnished pursuant to the provisions of this section shall not collect or attempt to collect reimbursement for such treatment or care from any such city employee.
 
@@ -759,7 +759,7 @@ Chapter 1: Officers and Employees
 § 12-128 Claims of officers and employees of city for injuries caused by persons deeming themselves aggrieved.  ::
 
 
-	The comptroller with the approval of the mayor is authorized to audit, allow and certify for payment, as charges against the city, the reasonable expenses for medical and surgical treatment and maintenance incurred by the mayor or any other officer or employee of the city, by reason of gunshot wounds or other personal injuries received or sustained by the mayor or other officer or employee of the city at the hands of any person deeming himself or herself aggrieved by and seeking revenge for any alleged official act or omission on the part of said mayor or other officer or employee of the city.
+The comptroller with the approval of the mayor is authorized to audit, allow and certify for payment, as charges against the city, the reasonable expenses for medical and surgical treatment and maintenance incurred by the mayor or any other officer or employee of the city, by reason of gunshot wounds or other personal injuries received or sustained by the mayor or other officer or employee of the city at the hands of any person deeming himself or herself aggrieved by and seeking revenge for any alleged official act or omission on the part of said mayor or other officer or employee of the city.
 
 
 
@@ -767,7 +767,7 @@ Chapter 1: Officers and Employees
 § 12-129 Hours of service during July and August.  ::
 
 
-	Four hours on any Saturday during the months of July and August, shall constitute a full day's work for all employees of any city agency. The head of any agency shall have power to employ his or her subordinates on any legal holiday, or may employ them on any such Saturday in excess of the legal day's work above prescribed, paying them compensation therefor at the rate of their usual wages or salaries. The provisions of this section shall apply to and include per diem employees, but shall not apply to the uniformed forces of the police and fire departments.
+Four hours on any Saturday during the months of July and August, shall constitute a full day's work for all employees of any city agency. The head of any agency shall have power to employ his or her subordinates on any legal holiday, or may employ them on any such Saturday in excess of the legal day's work above prescribed, paying them compensation therefor at the rate of their usual wages or salaries. The provisions of this section shall apply to and include per diem employees, but shall not apply to the uniformed forces of the police and fire departments.
 
 
 
@@ -775,7 +775,7 @@ Chapter 1: Officers and Employees
 § 12-130 Office hours.  ::
 
 
-	Except as otherwise provided by law, the office hours in all public offices of the city, and of all county offices within the city, shall be from nine o'clock antemeridian to five o'clock postmeridian. The head of a city office or department, or a county officer who comes within the foregoing provisions of this section, may adopt a rule that such office shall be closed to the public at four o'clock postmeridian, when in the judgement of such officer, the period between the hours of four o'clock postmeridian and five o'clock postmeridian is required for the performance of the work in such office. During the months of July and August the office hours of such offices shall be from nine o'clock antemeridian to four o'clock postmeridian if the head of the office or department so orders. The office hours of any such office, however, shall be from nine o'clock antemeridian to twelve o'clock noon on Saturday, provided that the commissioner of the department of finance may, in his or her discretion, adopt a rule that such office or department shall be closed to the public on Saturdays.
+Except as otherwise provided by law, the office hours in all public offices of the city, and of all county offices within the city, shall be from nine o'clock antemeridian to five o'clock postmeridian. The head of a city office or department, or a county officer who comes within the foregoing provisions of this section, may adopt a rule that such office shall be closed to the public at four o'clock postmeridian, when in the judgement of such officer, the period between the hours of four o'clock postmeridian and five o'clock postmeridian is required for the performance of the work in such office. During the months of July and August the office hours of such offices shall be from nine o'clock antemeridian to four o'clock postmeridian if the head of the office or department so orders. The office hours of any such office, however, shall be from nine o'clock antemeridian to twelve o'clock noon on Saturday, provided that the commissioner of the department of finance may, in his or her discretion, adopt a rule that such office or department shall be closed to the public on Saturdays.
 
 
 
@@ -783,7 +783,7 @@ Chapter 1: Officers and Employees
 § 12-131 Reproduction of records on film.  ::
 
 
-	a.   The head of each agency may cause any or all records kept in such agency to be reproduced on photographic film. Such photographic film shall be of durable material and the device used to reproduce such records on such film shall be one which accurately reproduces the orginal record in all details.
+a.   The head of each agency may cause any or all records kept in such agency to be reproduced on photographic film. Such photographic film shall be of durable material and the device used to reproduce such records on such film shall be one which accurately reproduces the orginal record in all details.
 
    b.   Such photographic film shall be deemed to be an original record for all purposes, including introduction in evidence in all courts or administrative agencies. A transcript, exemplification or certified copy thereof shall, for all purposes recited herein, be deemed to be a transcript, exemplification, or certified copy of the original.
 
@@ -793,7 +793,7 @@ Chapter 1: Officers and Employees
 § 12-132 Records to be kept and abstracts published.  ::
 
 
-	Every agency shall keep a record of all its transactions, which shall be accessible to the public. A brief abstract, omitting formal language, shall be made, once a week of all transactions and of all contracts awarded and entered into for work and material of every description. Such abstract shall contain the name or names and residences by street and number, of the party or parties to the contract and of their sureties, if any. A copy of such abstract shall be promptly transmitted for publication in the City Record to the director thereof.
+Every agency shall keep a record of all its transactions, which shall be accessible to the public. A brief abstract, omitting formal language, shall be made, once a week of all transactions and of all contracts awarded and entered into for work and material of every description. Such abstract shall contain the name or names and residences by street and number, of the party or parties to the contract and of their sureties, if any. A copy of such abstract shall be promptly transmitted for publication in the City Record to the director thereof.
 
 
 
@@ -801,7 +801,7 @@ Chapter 1: Officers and Employees
 § 12-133 Order to use patented articles prohibited.  ::
 
 
-	It shall be unlawful for any officer of the city to order any owner or occupant to use any patented article on any building or in any public street or place, except under such circumstances that there can be a fair and reasonable opportunity for competition, the conditions to secure which shall be prescribed by the board of estimate.
+It shall be unlawful for any officer of the city to order any owner or occupant to use any patented article on any building or in any public street or place, except under such circumstances that there can be a fair and reasonable opportunity for competition, the conditions to secure which shall be prescribed by the board of estimate.
 
 
 
@@ -809,7 +809,7 @@ Chapter 1: Officers and Employees
 § 12-134 Powers and duties of the District Attorney's investigators.  ::
 
 
-	In the performance of their duties, all detective investigators, senior detective investigators, racket investigators, senior racket investigators and supervising racket investigators employed by the district attorney of each county contained within the city of New York, shall have all the powers and perform all the duties of police officers in the state.
+In the performance of their duties, all detective investigators, senior detective investigators, racket investigators, senior racket investigators and supervising racket investigators employed by the district attorney of each county contained within the city of New York, shall have all the powers and perform all the duties of police officers in the state.
 
 
 
@@ -817,7 +817,7 @@ Chapter 1: Officers and Employees
 § 12-138 Applicability of age qualifications to veterans of armed forces.  ::
 
 
-	When the qualifications for any examination or test for, or appointment or election to any office, position or employment in the city, includes a maximum age limit, any person who heretofore and subsequent to July first, nineteen hundred forty, entered or hereafter, in time of war, shall enter the active military or naval service of the United States, or the active service of the women's army corps, the women's reserve of the naval reserve or any similar organization authorized by the United States to serve with the army or navy, shall be deemed to meet such maximum age requirement if his or her actual age, less the period of such service, would meet such maximum age requirement.
+When the qualifications for any examination or test for, or appointment or election to any office, position or employment in the city, includes a maximum age limit, any person who heretofore and subsequent to July first, nineteen hundred forty, entered or hereafter, in time of war, shall enter the active military or naval service of the United States, or the active service of the women's army corps, the women's reserve of the naval reserve or any similar organization authorized by the United States to serve with the army or navy, shall be deemed to meet such maximum age requirement if his or her actual age, less the period of such service, would meet such maximum age requirement.
 
 
 
@@ -825,7 +825,7 @@ Chapter 1: Officers and Employees
 § 12-139 Election of qualified transportation benefits in lieu of taxable dollar compensation.  ::
 
 
-	Employees of the city of New York shall be permitted to use pre-tax earnings to purchase qualified transportation benefits, other than qualified parking, in accordance with federal law and shall thereupon be entitled to such personal income tax benefits as may be authorized by such law.
+Employees of the city of New York shall be permitted to use pre-tax earnings to purchase qualified transportation benefits, other than qualified parking, in accordance with federal law and shall thereupon be entitled to such personal income tax benefits as may be authorized by such law.
 
 
 
@@ -835,7 +835,7 @@ Chapter 2: Department of Citywide Administrative Services
 § 12-201 City surveyors; examination, appointment of.  ::
 
 
-	a.   The commissioner of citywide administrative services shall have power and it shall be his or her duty to appoint an examining board which shall serve without compensation, consisting of a chairperson, two consulting or topographical engineers in the employ of the city, and two city surveyors engaged in private practice. Such board shall formulate and conduct examinations of applicants who apply to the commissioner for appointment as city surveyors of the city of New York. Every person applying for examination shall pay an examining fee to be fixed by the commissioner. The fee so collected shall be paid into the general fund. The commissioner, as soon as practicable thereafter, shall certify to the mayor all those applicants who have qualified by successfully passing such examination. To be eligible for appointment, the applicant must be licensed by the state of New York as a land surveyor and must have a minimum of six years surveying experience within the limits of the city.
+a.   The commissioner of citywide administrative services shall have power and it shall be his or her duty to appoint an examining board which shall serve without compensation, consisting of a chairperson, two consulting or topographical engineers in the employ of the city, and two city surveyors engaged in private practice. Such board shall formulate and conduct examinations of applicants who apply to the commissioner for appointment as city surveyors of the city of New York. Every person applying for examination shall pay an examining fee to be fixed by the commissioner. The fee so collected shall be paid into the general fund. The commissioner, as soon as practicable thereafter, shall certify to the mayor all those applicants who have qualified by successfully passing such examination. To be eligible for appointment, the applicant must be licensed by the state of New York as a land surveyor and must have a minimum of six years surveying experience within the limits of the city.
 
    b.   There shall be appointed by the mayor as many city surveyors as are qualified by successfully passing such examination. Each city surveyor, before entering on his or her duties shall take an oath well and truly to perform such duties.
 
@@ -845,7 +845,7 @@ Chapter 2: Department of Citywide Administrative Services
 § 12-202 Commissioner of citywide administrative services to conduct examinations for licenses for master plumbers.  ::
 
 
-	The commissioner of citywide administrative services, in addition to his or her other powers and duties, shall formulate and conduct examinations to determine the merit and fitness of applicants who apply, pursuant to section 26-143 of the code, to the commissioner of health for licenses to engage in the trade, business or calling of a duly registered and licensed master plumber. The department of citywide administrative services shall keep in its office an official roster of candidates who have succeeded in passing such examinations and shall certify to the commissioner of health the names of such candidates who are successful.
+The commissioner of citywide administrative services, in addition to his or her other powers and duties, shall formulate and conduct examinations to determine the merit and fitness of applicants who apply, pursuant to section 26-143 of the code, to the commissioner of health for licenses to engage in the trade, business or calling of a duly registered and licensed master plumber. The department of citywide administrative services shall keep in its office an official roster of candidates who have succeeded in passing such examinations and shall certify to the commissioner of health the names of such candidates who are successful.
 
 
 
@@ -853,7 +853,7 @@ Chapter 2: Department of Citywide Administrative Services
 § 12-203 Assistance of committee of plumbing industry.  ::
 
 
-	The commissioner of citywide administrative services shall call upon the plumbing industry for assistance in the preparation, conduct and rating of the practical and written examination of all persons seeking a plumber's license, pursuant to section 26-143 of the code. Such assistance shall consist of the obtaining of the services of two registered and licensed master plumbers of not less than ten years' experience as such, and one journeyman plumber of not less than ten years' experience as such, for each examination. The commissioner may also call upon duly accredited sanitary engineers or physicians to assist in the preparation and conduct of such examination. The names of such master and journeyman plumbers selected to assist the commissioner shall be publicly drawn for each examination from a panel of not less than thirty names furnished to the commissioner by a special committee to consist of one experienced master plumber representing each of the established and recognized master plumbers' associations, or branches thereof, in the five boroughs of the city, and one experienced journeyman plumber representing the established and recognized organization having jurisdiction over journeyman plumbers in the city. Such committee members shall be named once each year by the incumbent presidents or boards of directors or governors of their respective associations or organizations. No such master or journeyman plumber shall serve as such assistant oftener than once in five years. The compensation of each such person selected by the commissioner to assist in the preparation, conduct and rating of the written and practical examinations shall be fixed by the commissioner.
+The commissioner of citywide administrative services shall call upon the plumbing industry for assistance in the preparation, conduct and rating of the practical and written examination of all persons seeking a plumber's license, pursuant to section 26-143 of the code. Such assistance shall consist of the obtaining of the services of two registered and licensed master plumbers of not less than ten years' experience as such, and one journeyman plumber of not less than ten years' experience as such, for each examination. The commissioner may also call upon duly accredited sanitary engineers or physicians to assist in the preparation and conduct of such examination. The names of such master and journeyman plumbers selected to assist the commissioner shall be publicly drawn for each examination from a panel of not less than thirty names furnished to the commissioner by a special committee to consist of one experienced master plumber representing each of the established and recognized master plumbers' associations, or branches thereof, in the five boroughs of the city, and one experienced journeyman plumber representing the established and recognized organization having jurisdiction over journeyman plumbers in the city. Such committee members shall be named once each year by the incumbent presidents or boards of directors or governors of their respective associations or organizations. No such master or journeyman plumber shall serve as such assistant oftener than once in five years. The compensation of each such person selected by the commissioner to assist in the preparation, conduct and rating of the written and practical examinations shall be fixed by the commissioner.
 
 
 
@@ -861,7 +861,7 @@ Chapter 2: Department of Citywide Administrative Services
 § 12-204 Qualifications of plumbers. [Repealed]  ::
 
 
-	The commissioner of citywide administrative services shall have sole power to examine applicants for positions as inspectors of plumbing and no person shall be appointed an inspector for plumbing who shall not have obtained a certificate from such commissioner.
+The commissioner of citywide administrative services shall have sole power to examine applicants for positions as inspectors of plumbing and no person shall be appointed an inspector for plumbing who shall not have obtained a certificate from such commissioner.
 
 
 
@@ -869,7 +869,7 @@ Chapter 2: Department of Citywide Administrative Services
 § 12-206 Eligible List Reporting.  ::
 
 
-	a.   Definitions. For the purposes of this section only:
+a.   Definitions. For the purposes of this section only:
 
       1.   "Eligible list" shall mean any list established by the department of citywide administrative services after the administration of either an open-competitive or a promotional examination containing the names of persons eligible to be considered for appointment or promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
 
@@ -897,7 +897,7 @@ Chapter 2: Department of Citywide Administrative Services
 § 12-207 Availability of feminine hygiene products. ::
 
 
-	a.   Definitions. For the purposes of this section, the following terms have the following meanings:
+a.   Definitions. For the purposes of this section, the following terms have the following meanings:
 
       Feminine hygiene products. The term “feminine hygiene products” means tampons and sanitary napkins for use in connection with the menstrual cycle.
 
@@ -915,7 +915,7 @@ Chapter 3: Collective Bargaining
 § 12-301 Short title.  ::
 
 
-	This chapter may be cited as the "New York city collective bargaining law."
+This chapter may be cited as the "New York city collective bargaining law."
 
 
 
@@ -923,7 +923,7 @@ Chapter 3: Collective Bargaining
 § 12-302 Statement of policy.  ::
 
 
-	It is hereby declared to be the policy of the city to favor and encourage the right of municipal employees to organize and be represented, written collective bargaining agreements on matters within the scope of collective bargaining, the use of impartial and independent tribunals to assist in resolving impasses in contract negotiations, and final, impartial arbitration of grievances between municipal agencies and certified employee organizations.
+It is hereby declared to be the policy of the city to favor and encourage the right of municipal employees to organize and be represented, written collective bargaining agreements on matters within the scope of collective bargaining, the use of impartial and independent tribunals to assist in resolving impasses in contract negotiations, and final, impartial arbitration of grievances between municipal agencies and certified employee organizations.
 
 
 
@@ -931,7 +931,7 @@ Chapter 3: Collective Bargaining
 § 12-303 Definitions.  ::
 
 
-	As used in this chapter, unless the context clearly indicates otherwise, and subject to the limitations of section 12-304:
+As used in this chapter, unless the context clearly indicates otherwise, and subject to the limitations of section 12-304:
 
    a.   The term "director" shall mean the director of the office created by section eleven hundred seventy of the charter.
 
@@ -973,7 +973,7 @@ Chapter 3: Collective Bargaining
 § 12-304 Application of chapter.  ::
 
 
-	This chapter shall be applicable to:
+This chapter shall be applicable to:
 
    a.   All municipal agencies and to the public employees and public employee organizations thereof;
 
@@ -989,7 +989,7 @@ Chapter 3: Collective Bargaining
 § 12-305 Rights of public employees and certified employee organizations.  ::
 
 
-	Public employees shall have the right to self-organization, to form, join or assist public employee organizations, to bargain collectively through certified employee organizations of their own choosing and shall have the right to refrain from any or all of such activities. However, neither managerial nor confidential employees shall constitute or be included in any bargaining unit, nor shall they have the right to bargain collectively; provided, however, that public employees shall be presumed eligible for the rights set forth in this section, and no employee shall be deprived of these rights unless, as to such employee, a determination of managerial or confidential status has been rendered by the board of certification; and provided further, that nothing in this chapter shall be construed to: (i) deny to any managerial or confidential employee his or her rights under section fifteen of the civil rights law or any other rights; or (ii) prohibit any appropriate official or officials of a public employer as defined in this chapter to hear and consider grievances and complaints of managerial and confidential employees concerning the terms and conditions of their employment and to make recommendations thereon to the chief executive officer of the public employer for such action as such chief executive officer shall deem appropriate. A certified or designated employee organization shall be recognized as the exclusive bargaining representative of the public employees in the appropriate bargaining unit.
+Public employees shall have the right to self-organization, to form, join or assist public employee organizations, to bargain collectively through certified employee organizations of their own choosing and shall have the right to refrain from any or all of such activities. However, neither managerial nor confidential employees shall constitute or be included in any bargaining unit, nor shall they have the right to bargain collectively; provided, however, that public employees shall be presumed eligible for the rights set forth in this section, and no employee shall be deprived of these rights unless, as to such employee, a determination of managerial or confidential status has been rendered by the board of certification; and provided further, that nothing in this chapter shall be construed to: (i) deny to any managerial or confidential employee his or her rights under section fifteen of the civil rights law or any other rights; or (ii) prohibit any appropriate official or officials of a public employer as defined in this chapter to hear and consider grievances and complaints of managerial and confidential employees concerning the terms and conditions of their employment and to make recommendations thereon to the chief executive officer of the public employer for such action as such chief executive officer shall deem appropriate. A certified or designated employee organization shall be recognized as the exclusive bargaining representative of the public employees in the appropriate bargaining unit.
 
 
 
@@ -997,7 +997,7 @@ Chapter 3: Collective Bargaining
 § 12-306 Improper practices; good faith bargaining.  ::
 
 
-	a.   Improper public employer practices. It shall be an improper practice for a public employer or its agents:
+a.   Improper public employer practices. It shall be an improper practice for a public employer or its agents:
 
       (1)   to interfere with, restrain or coerce public employees in the exercise of their rights granted in section 12-305 of this chapter;
 
@@ -1041,7 +1041,7 @@ Chapter 3: Collective Bargaining
 § 12-307 Scope of collective bargaining; management rights.  ::
 
 
-	a.   Subject to the provisions of subdivision b of this section and subdivision c of section 12-304 of this chapter, public employers and certified or designated employee organizations shall have the duty to bargain in good faith on wages (including but not limited to wage rates, pensions, health and welfare benefits, uniform allowances and shift premiums), hours (including but not limited to overtime and time and leave benefits), working conditions and provisions for the deduction from the wages or salaries of employees in the appropriate bargaining unit who are not members of the certified or designated employee organization of an agency shop fee to the extent permitted by law, but in no event exceeding sums equal to the periodic dues uniformly required of its members by such certified or designated employee organization and for the payment of the sums so deducted to the certified or designated employee organization, subject to applicable state law, except that:
+a.   Subject to the provisions of subdivision b of this section and subdivision c of section 12-304 of this chapter, public employers and certified or designated employee organizations shall have the duty to bargain in good faith on wages (including but not limited to wage rates, pensions, health and welfare benefits, uniform allowances and shift premiums), hours (including but not limited to overtime and time and leave benefits), working conditions and provisions for the deduction from the wages or salaries of employees in the appropriate bargaining unit who are not members of the certified or designated employee organization of an agency shop fee to the extent permitted by law, but in no event exceeding sums equal to the periodic dues uniformly required of its members by such certified or designated employee organization and for the payment of the sums so deducted to the certified or designated employee organization, subject to applicable state law, except that:
 
       (1)   with respect to those employees whose wages are determined under section two hundred twenty of the labor law, the duty to bargain in good faith over wages and supplements shall be governed by said section;
 
@@ -1089,7 +1089,7 @@ Chapter 3: Collective Bargaining
 § 12-308 Judicial review and enforcement of a final order of the board of collective bargaining or the board of certification.  ::
 
 
-	a.   Any order of the board of collective bargaining or the board of certification shall be (1) reviewable under article seventy-eight of the civil practice law and rules upon petition filed by an aggrieved party within thirty days after service by registered or certified mail of a copy of such order upon such party, and (2) enforceable by the supreme court in a special proceeding, upon petition of the board of collective bargaining, board of certification or any aggrieved party.
+a.   Any order of the board of collective bargaining or the board of certification shall be (1) reviewable under article seventy-eight of the civil practice law and rules upon petition filed by an aggrieved party within thirty days after service by registered or certified mail of a copy of such order upon such party, and (2) enforceable by the supreme court in a special proceeding, upon petition of the board of collective bargaining, board of certification or any aggrieved party.
 
    b.   If a proceeding by the board for enforcement of its order is instituted prior to the expiration of the period within which a party may seek judicial review of such order, the respondent may raise in his or her answer the questions authorized to be raised by section seven thousand eight hundred three of the civil practice law and rules and thereafter the proceedings shall be governed by the provisions of article seventy-eight of the civil practice law and rules that are not inconsistent herewith, except that if an issue specified in question four of section seven thousand eight hundred three of the civil practice law and rules is raised, the proceeding shall be transferred for disposition to the appellate division of the supreme court. Where an issue specified in question four of section seven thousand eight hundred three of the civil practice law and rules is raised, either in a proceeding to enforce or review an order of the board, the appellate division of the supreme court, upon completion of proceedings before it, shall remit a copy of its judgment or order to the court in which the proceeding was commenced, which court shall have the power to compel compliance with such judgment or order.
 
@@ -1101,7 +1101,7 @@ Chapter 3: Collective Bargaining
 § 12-309 Powers and duties of board of collective bargaining; board of certification; director.  ::
 
 
-	a.   Board of collective bargaining. The board of collective bargaining, in addition to such other powers and duties as it has under this chapter and as may be conferred upon it from time to time by law, shall have the power and duty:
+a.   Board of collective bargaining. The board of collective bargaining, in addition to such other powers and duties as it has under this chapter and as may be conferred upon it from time to time by law, shall have the power and duty:
 
       (1)   on the request of a public employer or public employee organization which is a party to a disagreement concerning the interpretation or application of the provisions of this chapter, to consider such disagreement and report its conclusion to the parties and the public;
 
@@ -1151,7 +1151,7 @@ Chapter 3: Collective Bargaining
 § 12-310 Meetings; quorum; vote required; public hearings prior to adoption of rules.  ::
 
 
-	a.   Meetings of board of collective bargaining. 
+a.   Meetings of board of collective bargaining. 
 
       (1)   The board of collective bargaining shall hold special meetings upon the call of the director or the request of any two members. Written notice of all regular and special meetings, including agendas and amendments to agendas shall be given to each board member, including alternate members, not more than ten days nor less than one day prior to any such meeting. A quorum shall consist of one city member, one labor member and one impartial member or of any four members.
 
@@ -1169,7 +1169,7 @@ Chapter 3: Collective Bargaining
 § 12-311 Bargaining notice; mediation; impasse panels.  ::
 
 
-	a.   Bargaining notices. 
+a.   Bargaining notices. 
 
       (1)   At such time prior to the expiration of a collective bargaining agreement as may be specified therein (or, if no such time is specified, at least ninety but not more than one hundred fifty days prior to expiration of the agreement) a public employer, or a certified or designated employee organization, which desires to negotiate on matters within the scope of bargaining shall send the other party (with a copy to the director) a notice of the desire to negotiate a new collective bargaining agreement on such matters. The parties shall commence negotiations within ten days after receipt of such a bargaining notice, unless such time is extended by agreement of the parties, or by the director or the board of collective bargaining.
 
@@ -1241,7 +1241,7 @@ Chapter 3: Collective Bargaining
 § 12-312 Grievance procedure and impartial arbitration.  ::
 
 
-	a.   The board of collective bargaining shall maintain a register of arbitrators who have been approved for listing thereon by a majority of the entire board of collective bargaining including at least one city member and one labor member. The board of collective bargaining shall establish procedures for impartial arbitration which may be incorporated into executive orders and collective bargaining agreements between public employers and public employee organizations.
+a.   The board of collective bargaining shall maintain a register of arbitrators who have been approved for listing thereon by a majority of the entire board of collective bargaining including at least one city member and one labor member. The board of collective bargaining shall establish procedures for impartial arbitration which may be incorporated into executive orders and collective bargaining agreements between public employers and public employee organizations.
 
    b.   Executive orders, and collective bargaining agreements between public employers and public employee organizations, may contain provisions for grievance procedures, in steps terminating with impartial arbitration of unresolved grievances. Such provisions may provide that the arbitrator's award shall be final and binding and enforceable in any appropriate tribunal in accordance with the applicable law governing arbitration, except that awards as to grievances concerning assignment of employees to duties substantially different from those stated in their job classifications, or the use of open-competitive rather than promotional examinations, shall be final and binding and enforceable only to the extent permitted by law.
 
@@ -1265,7 +1265,7 @@ Chapter 3: Collective Bargaining
 § 12-313 Membership and rules of municipal labor committee.  ::
 
 
-	Membership in the municipal labor committee shall be open to any certified employee organization as defined in this chapter and which is otherwise eligible for membership under the rules of such committee. The board of collective bargaining may, upon the request of any certified employee organization, abrogate any rule of such committee relating to voting or eligibility for membership which it determines to be arbitrary or discriminatory, provided that prior to any such abrogation such committee shall be given an opportunity on at least ten days' notice to be heard thereon.
+Membership in the municipal labor committee shall be open to any certified employee organization as defined in this chapter and which is otherwise eligible for membership under the rules of such committee. The board of collective bargaining may, upon the request of any certified employee organization, abrogate any rule of such committee relating to voting or eligibility for membership which it determines to be arbitrary or discriminatory, provided that prior to any such abrogation such committee shall be given an opportunity on at least ten days' notice to be heard thereon.
 
 
 
@@ -1273,7 +1273,7 @@ Chapter 3: Collective Bargaining
 § 12-314 Special provisions relating to initial certification.  ::
 
 
-	a.   Any employee organization which (1) discriminates with regard to the terms and conditions of membership because of race, color, creed, religion, disability, gender, sexual orientation, age, or national origin, or (2) is engaged in or advocates the violent overthrow of the government of the United States or of any state or any political subdivision thereof shall be ineligible for certification as an exclusive bargaining representative. For purposes of this section, the finding of a court or an administrative tribunal of competent jurisdiction that an employee organization has engaged in discrimination upon one of the above bases in a particular case shall not be dispositive of the question of that employee organization's eligibility for certification unless it is also found that the employee organization has engaged in a pattern or practice of such discrimination generally.
+a.   Any employee organization which (1) discriminates with regard to the terms and conditions of membership because of race, color, creed, religion, disability, gender, sexual orientation, age, or national origin, or (2) is engaged in or advocates the violent overthrow of the government of the United States or of any state or any political subdivision thereof shall be ineligible for certification as an exclusive bargaining representative. For purposes of this section, the finding of a court or an administrative tribunal of competent jurisdiction that an employee organization has engaged in discrimination upon one of the above bases in a particular case shall not be dispositive of the question of that employee organization's eligibility for certification unless it is also found that the employee organization has engaged in a pattern or practice of such discrimination generally.
 
    b.   No organization seeking or claiming to represent members of the police force of the police department shall be certified if such organization (i) admits to membership, or is affiliated directly or indirectly with an organization which admits to membership, employees other than members of the police force of the police department, or (ii) advocates the right to strike.
 
@@ -1285,7 +1285,7 @@ Chapter 3: Collective Bargaining
 § 12-315 Delegation of powers.  ::
 
 
-	The director, with the approval of at least five other members of the board of collective bargaining, may delegate to independent and impartial private institutions those functions of the office of collective bargaining relating to (a) the maintenance of registers of mediators, arbitrators, and members of impasse panels, (b) the submission of the names of persons on the impasse panel and arbitration registers for selection by parties to negotiations or to a grievance, and (c) the conduct of representation and decertification elections.
+The director, with the approval of at least five other members of the board of collective bargaining, may delegate to independent and impartial private institutions those functions of the office of collective bargaining relating to (a) the maintenance of registers of mediators, arbitrators, and members of impasse panels, (b) the submission of the names of persons on the impasse panel and arbitration registers for selection by parties to negotiations or to a grievance, and (c) the conduct of representation and decertification elections.
 
 
 
@@ -1293,7 +1293,7 @@ Chapter 3: Collective Bargaining
 § 12-316 Emergency suspension of salary and wages.  ::
 
 
-	a.   It is hereby found and declared that a fiscal emergency exists for the city of New York by reason of the following: As a result of the severe economic and social dislocations of recent years, there has been a great increase in the need and demand for public services at a time when financing such services has become increasingly difficult. Due to a general decline in investor acceptance of local government securities and almost unprecedented high interest rates, the city of New York, despite the financial soundness of its obligations, recently has faced increased difficulty in selling a sufficient amount of its securities to enable it to refund its outstanding obligations or to meet its cash requirements. For the immediate future, this increased difficulty has caused concern that it may be unable to provide, without interruption, many services essential to its inhabitants while also meeting obligations to the holders of its outstanding securities as they come due. It is in the public interest and it is the policy of the city of New York to provide, without interruption, services essential to its inhabitants while meeting its obligations to the holders of its outstanding securities. The state of New York, in an attempt to assist the city of New York and other municipalities faced by a similar or analogous problem has enacted chapter one hundred sixty-eight and one hundred sixty-nine of the laws of nineteen hundred seventy-five, which among other provisions create a municipal assistance corporation for the city of New York, empowering it to issue bonds and notes and to use the proceeds from their sale primarily to provide the city of New York with amounts to pay the short-term obligations of the city as they mature. Despite statutory provisions which, in effect, secure the bonds and notes issued by the municipal assistance corporation for the city of New York with all the proceeds of the state stock transfer tax and of the state municipal assistance sales and compensating use taxes to the extent needed for that purpose, despite the agreement of the city of New York to make and observe such changes in its record keeping, accounting, budgeting and financial management practices as the municipal assistance corporation for the city of New York requires pursuant to such legislation and despite numerous economy measures taken by the city of New York, including a substantial reduction in the number of its employees, the municipal assistance corporation for the city of New York has been experiencing difficulty in selling the bonds it has issued and has expressed grave concern with regard to its ability to sell bonds which it plans to issue in the near future. The city of New York, as a result, is faced by a fiscal emergency which could seriously impair its ability to carry on orderly and uninterrupted operations and functions of government. Imposing certain additional nuisance taxes which the state in the past had given it power to impose is not a feasible solution since to do so may further impair the city's credit standing because the burden of present taxes has contributed to flight from the city of middleclass taxpaying residents and of a number of business firms. In view of this situation, it is necessary for the city to exercise its sovereign police power to suspend salary increases in the manner provided in subdivision b of this section.
+a.   It is hereby found and declared that a fiscal emergency exists for the city of New York by reason of the following: As a result of the severe economic and social dislocations of recent years, there has been a great increase in the need and demand for public services at a time when financing such services has become increasingly difficult. Due to a general decline in investor acceptance of local government securities and almost unprecedented high interest rates, the city of New York, despite the financial soundness of its obligations, recently has faced increased difficulty in selling a sufficient amount of its securities to enable it to refund its outstanding obligations or to meet its cash requirements. For the immediate future, this increased difficulty has caused concern that it may be unable to provide, without interruption, many services essential to its inhabitants while also meeting obligations to the holders of its outstanding securities as they come due. It is in the public interest and it is the policy of the city of New York to provide, without interruption, services essential to its inhabitants while meeting its obligations to the holders of its outstanding securities. The state of New York, in an attempt to assist the city of New York and other municipalities faced by a similar or analogous problem has enacted chapter one hundred sixty-eight and one hundred sixty-nine of the laws of nineteen hundred seventy-five, which among other provisions create a municipal assistance corporation for the city of New York, empowering it to issue bonds and notes and to use the proceeds from their sale primarily to provide the city of New York with amounts to pay the short-term obligations of the city as they mature. Despite statutory provisions which, in effect, secure the bonds and notes issued by the municipal assistance corporation for the city of New York with all the proceeds of the state stock transfer tax and of the state municipal assistance sales and compensating use taxes to the extent needed for that purpose, despite the agreement of the city of New York to make and observe such changes in its record keeping, accounting, budgeting and financial management practices as the municipal assistance corporation for the city of New York requires pursuant to such legislation and despite numerous economy measures taken by the city of New York, including a substantial reduction in the number of its employees, the municipal assistance corporation for the city of New York has been experiencing difficulty in selling the bonds it has issued and has expressed grave concern with regard to its ability to sell bonds which it plans to issue in the near future. The city of New York, as a result, is faced by a fiscal emergency which could seriously impair its ability to carry on orderly and uninterrupted operations and functions of government. Imposing certain additional nuisance taxes which the state in the past had given it power to impose is not a feasible solution since to do so may further impair the city's credit standing because the burden of present taxes has contributed to flight from the city of middleclass taxpaying residents and of a number of business firms. In view of this situation, it is necessary for the city to exercise its sovereign police power to suspend salary increases in the manner provided in subdivision b of this section.
 
    b.   The mayor shall have the power to direct by executive order that all or any part of increases in salary or wages of public employees which have taken effect since June thirtieth, nineteen hundred seventy-five or which will take effect after that date pursuant to collective bargaining agreements or other analogous contracts requiring such salary increases as of July first, nineteen hundred seventy-five or as of any date thereafter shall be suspended. All or any part of increased payments for holiday and vacation differentials, shift differentials, salary adjustments according to plan and step-ups or increments which have taken effect since June thirtieth, nineteen hundred seventy-five or which will take effect after that date pursuant to collective bargaining agreements or other analogous contracts requiring such increased payment, as of July first, nineteen hundred seventy-five or as of any date thereafter may, in the same manner, be suspended. For the purposes of computing the pension base of retirement allowances, the suspended salary or wage increases and the suspended other payment shall not be considered as part of compensation or final compensation or of annual salary earned or earnable. The suspensions provided herein shall be effective for the first pay period ending on or subsequent to September first, nineteen hundred seventy-five and shall continue until one year thereafter.
 
