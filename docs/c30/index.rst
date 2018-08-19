@@ -3148,16 +3148,6 @@ Table 28-112.7.1
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Equipment Type
       - Filing Fee
       - Renewal Fee
@@ -3387,16 +3377,6 @@ The department shall be entitled to charge the following special fees in accorda
 Table 28-112.8
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::

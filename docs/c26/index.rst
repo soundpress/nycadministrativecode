@@ -2379,17 +2379,9 @@ No person shall cause or permit the shipment or delivery of fuel into the city o
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - TABLE OF CIVIL PENALTIES
+      - 
+      - 
     * - Violation
       - Minimum
       - Maximum
@@ -3446,18 +3438,9 @@ No person shall cause or permit discharge into the open air of the exhaust of an
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Octave Band
       - Maximum Sound Pressure Levels (dB) as measured within a receiving property as specified below
+      - 
     * - Frequency (Hz)
       - Residential receiving property for mixed use buildings and residential buildings (as measured within any room of the residential portion of the building with windows open, if possible).
       - Commercial receiving property (as measured within any room containing offices within the building with windows open, if possible).
@@ -3848,21 +3831,20 @@ Table I
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Violations related to section and subdivision
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
     * - 
       - First Violation
+      - 
       - Second Violation*
+      - 
       - Third and Subsequent Violations*
+      - 
     * - 
       - Maximum
       - Minimum
@@ -4233,16 +4215,6 @@ Each day during which such violation continues shall constitute a separate viola
 TABLE VI
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -5874,16 +5846,6 @@ b. Imposition and computation of sewer surcharge.
          Ds = C × F × V × [(S.S. - 350) + (B.O.D. - 300)]
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::

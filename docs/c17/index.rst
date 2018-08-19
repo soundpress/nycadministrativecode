@@ -5575,16 +5575,6 @@ Table ICarpet 14-Day VOC Emissions Test Criteria
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Volatile Organic Compound
       - ChemicalAbstract Service #
       - Maximum EmissionFactor (mgm2/hr)

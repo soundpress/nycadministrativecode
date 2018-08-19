@@ -2273,16 +2273,6 @@ Real property owned by a water-works corporation subject to the provisions of th
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Annual Income as of July 1, 2006
       - Percentage Assessed Valuation Exempt From Taxation
     * - More than $26,000 but less than $27,000
@@ -2308,16 +2298,6 @@ Real property owned by a water-works corporation subject to the provisions of th
  
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -2353,16 +2333,6 @@ Real property owned by a water-works corporation subject to the provisions of th
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Annual Income as of July 1, 2008
       - Percentage Assessed Valuation Exempt From Taxation
     * - More than $28,000 but less than $29,000
@@ -2393,16 +2363,6 @@ Real property owned by a water-works corporation subject to the provisions of th
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Annual Income as of July 1, 2009
       - Percentage Assessed Valuation Exempt From Taxation
     * - More than $29,000 but less than $30,000
@@ -2428,16 +2388,6 @@ Real property owned by a water-works corporation subject to the provisions of th
  
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -2511,16 +2461,6 @@ Real property owned by a water-works corporation subject to the provisions of th
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Annual Income as of July 1, 2006
       - Percentage Assessed Valuation Exempt From Taxation
     * - More than $26,000 but less than $27,000
@@ -2546,16 +2486,6 @@ Real property owned by a water-works corporation subject to the provisions of th
  
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -2591,16 +2521,6 @@ Real property owned by a water-works corporation subject to the provisions of th
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Annual Income as of July 1, 2008
       - Percentage Assessed Valuation Exempt From Taxation
     * - More than $28,000 but less than $29,000
@@ -2631,16 +2551,6 @@ Real property owned by a water-works corporation subject to the provisions of th
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Annual Income as of July 1, 2009
       - Percentage Assessed Valuation Exempt From Taxation
     * - More than $29,000 but less than $30,000
@@ -2666,16 +2576,6 @@ Real property owned by a water-works corporation subject to the provisions of th
  
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -2961,16 +2861,6 @@ CONSTRUCTION OR RECONSTRUCTION OF INDUSTRIAL STRUCTURES OR RECONSTRUCTION OF AS 
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Year following completion of work
       - Percentage of exemption
     * - 1 
@@ -3018,16 +2908,6 @@ CONSTRUCTION OR RECONSTRUCTION OF INDUSTRIAL STRUCTURES OR RECONSTRUCTION OF AS 
 RECONSTRUCTION OF OTHER COMMERCIAL STRUCTURES OR CONSTRUCTION OF AS OF RIGHT OR SPECIALLY NEEDED COMMERCIAL STRUCTURES
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -3273,16 +3153,6 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
     * - 1 through 13
@@ -3317,16 +3187,6 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Tax year following effective date of certificate of eligibility:
       - Amount of exemption:
     * - 1 through 16
@@ -3356,16 +3216,6 @@ a. (1) A recipient who, following the effective date of a certificate of eligibi
    (3) (a) A recipient who filed an application for a certificate of eligibility for industrial construction work in any area of such city on or after July 1, 1995, and who, following the effective date of such certificate of eligibility, both commenced and completed such work, shall be eligible for an abatement of real property taxes as follows: for the first tax year immediately following completion of such work, and for the second, third and fourth tax years following completion of such work, the abatement shall equal fifty per centum of the real property tax that was imposed on the property which is the subject of the certificate of eligibility for the tax year immediately preceding the effective date of such certificate of eligibility, provided, however, that if such property was fully or partially exempt from real property taxes during such tax year, then the abatement shall equal fifty per centum of the real property tax that would have been imposed on such property but for such full or partial exemption. For the fifth and sixth tax years, the abatement shall equal forty per centum of such amount; for the seventh and eighth tax years, the abatement shall equal thirty per centum of such amount; for the ninth and tenth tax years, the abatement shall equal twenty per centum of such amount; and for the eleventh and twelfth tax years, the abatement shall equal ten per centum of such amount. Notwithstanding any inconsistent provision of this paragraph, a recipient shall not be eligible for an abatement for the first tax year following completion of such work, unless the recipient submits proof satisfactory to the department of finance that such work was completed on or before the taxable status date for such first tax year no later than thirty days after such taxable status date. Where the recipient fails to submit such proof in accordance with the foregoing sentence, a recipient shall not be eligible for an abatement until the second tax year following completion of such work. In such case, a recipient shall submit proof satisfactory to the department of finance that such work was completed on or before the taxable status date for such first tax year no later than thirty days after the taxable status date for such second tax year. A recipient whose abatement begins in the second tax year following completion of such work shall not thereby have his or her twelve-year benefit period shortened. The following table shall illustrate the computation of the abatement for industrial construction work pursuant to this paragraph:
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -3419,16 +3269,6 @@ b. (1) A recipient who, following the effective date of a certificate of eligibi
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Tax year following effectiv edate of certificate of eligibility:
       - Amount of exemption:
     * - 1 through 13
@@ -3458,16 +3298,6 @@ b. (1) A recipient who, following the effective date of a certificate of eligibi
 (2) Notwithstanding paragraph (1) of this subdivision, a recipient who filed an application for a certificate of eligibility for commercial construction work in a special exemption area on or after July 1, 1995, and who, following the effective date of such certificate of eligibility, has performed such commercial construction work shall be eligible for an exemption from real property taxes as follows: For the first sixteen tax years, the recipient shall be exempt from taxation on one hundred per centum of the exemption base. For the following nine tax years, the recipient shall be exempt from taxation on a percentage of the exemption base beginning at ninety per centum thereof in the seventeenth tax year and decreasing by ten per centum of said exemption base each year. The following table shall illustrate the computation of the exemption for commercial construction work in a special exemption area pursuant to this paragraph:
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -3554,16 +3384,6 @@ c. (1) A recipient who, following the effective date of a certificate of eligibi
 d. Except as provided in paragraphs (2) and (3) of subdivision d of section 11-258 of this part, a recipient who, following the effective date of a certificate of eligibility, has performed commercial construction work in a deferral area shall be eligible for a deferral of tax payments as follows: For the first three tax years following the effective date of a certificate of eligibility, the tax payment on one hundred per centum of the exemption base shall be deferred. For the following four tax years, the tax payment on a percentage of the exemption base beginning at eighty per centum thereof in the fourth tax year and decreasing by twenty per centum each year shall be deferred. The total amount of tax payments deferred pursuant to this part shall be paid subsequently over the course of ten tax years as follows: Commencing in the eleventh tax year following the effective date of the certificate of eligibility, through and including the twentieth tax year following such effective date, an amount equal to ten per centum of the total amount of tax payments deferred pursuant to this section shall be added to the amount of tax otherwise assessed and payable in each such tax year on the property subject to such deferral. The following table shall illustrate the computation of deferral and payment of taxes for commercial construction work in a deferral area:
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -4061,16 +3881,6 @@ c. Industrial and commercial abatements.
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Tax year during benefit period:
       - Amount of abatement:
     * - Years 1 through 16 
@@ -4262,16 +4072,6 @@ c. Industrial and commercial abatements.
       (a) Amount of abatement. The first year of the abatement shall be the tax year with the first taxable status date that follows the sooner of (i) completion of construction; or (ii) four years from the date the first building permit was issued, or if no permit was required, the commencement of construction. The amount of the additional industrial abatement shall be as follows:
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -11964,16 +11764,6 @@ For taxable years beginning after two thousand twenty:
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - If household gross income is:
       -  
       -  
@@ -11981,6 +11771,8 @@ For taxable years beginning after two thousand twenty:
       - The credit factor is:
     * -  
       - For taxable years beginning in 
+      - 
+      - 
       - For taxable years beginning after 1995
     * -  
       - 1987
@@ -12501,16 +12293,6 @@ Editor's note: there are two divisions designated (c) in this section.
    (1) General. An individual shall be entitled to subtract from his or her federal adjusted gross income an amount shown in the table set forth in this paragraph for his or her city adjusted gross income for the taxable year, computed without the benefit of this modification, multiplied by the number of his or her dependents, not exceeding three, attending a nonpublic school on a full-time basis for at least four months during the regular school year for the education of such dependent in grades one through twelve, provided such individual is allowed an exemption under section 11-1716 for such dependent. Provided, further, that the modification under this paragraph may be taken only if such individual has paid at least fifty dollars for each such dependent in tuition to such nonpublic school for such education of such dependent. No taxpayer shall be entitled to the modification provided for in this paragraph if he or she claims a tuition reimbursement payment pursuant to article twelve-A of the education law.
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::

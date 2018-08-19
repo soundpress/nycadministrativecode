@@ -647,16 +647,6 @@ g. (1) (a) Upon election, the following persons (each of whom has been granted a
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Name 
       - Tax Registry #
       - Name 
@@ -2331,16 +2321,6 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Calendar Year
       - Supplement 
     * -  1989
@@ -2588,16 +2568,6 @@ a. (1) The variable supplements fund shall pay variable supplements to pension f
       (i) for each calendar year following calendar year nineteen hundred ninety-two, but not including the calendar year of the beneficiary's death, a single annual payment to be paid on or about December fifteenth of such year, as follows:
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -3995,17 +3965,10 @@ bb. Subject to the provisions of subdivisions k and l of this section, installme
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - SCHEDULE FOR TWENTY-YEAR AMORTIZATION OF NYCERS, NYCTRS AND BERS 1990 CONSOLIDATED UAL AND 1990 REMAINDER OF BSL(numerical references in parentheses are to paragraph numbers of definitions in subdivision a of this section)
+      - 
+      - 
+      - 
     * - Col. 1 
       - Col. 2 
       - Col. 3 
@@ -4359,6 +4322,8 @@ i. Subject to the provisions of subdivisions k and l of section 13-638.2 of this
     :header-rows: 1
 
     * - SCHEDULE FOR TWENTY-YEAR AMORTIZATIONOF PPF 1990 CONSOLIDATED UAL AND 1990 REMAINDER OF BSL (numerical references in parentheses are to paragraph numbers of definitions in subdivision a of this section)
+      - 
+      - 
     * - 
       - Col. 1 Fiscal year or years in which annual amortization payments are required to be made
       - Col. 2 Amount payable in each fiscal year
@@ -4517,6 +4482,8 @@ i. Subject to the provisions of subdivisions k and l of section 13-638.2 of this
     :header-rows: 1
 
     * - SCHEDULE FOR TWENTY-YEAR AMORTIZATION OF FPF 1990 CONSOLIDATED UAL AND 1990 REMAINDER OF BSL (numerical references in parentheses are to paragraph numbers of definitions in subdivision a of this section)
+      - 
+      - 
     * - 
       - Col. 1 Fiscal year or years in which annual amortization payments are required to be made
       - Col. 2 Amount payable in each fiscal year
@@ -5148,16 +5115,6 @@ a. City retired employees. Notwithstanding any other provision of law, any city 
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Year of retirement
       - per centum
     * - 1957 or thereafter 
@@ -5515,16 +5472,6 @@ e. (1) commencing with a payment for the month of July, nineteen hundred eighty-
    (2) The schedule referred to in paragraph one of this subdivision e is as follows:
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::
@@ -5914,16 +5861,6 @@ d. (1) Commencing with a payment for the month of July, nineteen hundred eighty-
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Year of retirement
       - Percentage
     * - 1967
@@ -6208,16 +6145,6 @@ f. Commencing September first, two thousand, all retired members who have retire
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - Year of retirement
       - Percentage
     * - 1968 through 1996
@@ -6251,16 +6178,6 @@ i. Notwithstanding any other provision of law, and subject to the provisions of 
 j. Notwithstanding the provisions of subdivision i of this section, or any other provision of law to the contrary, and subject to the provisions of subdivision k of this section, the method of funding the cost-of-living adjustment payable by an actuarially funded retirement system pursuant to this section set forth in subdivision i of this section shall be modified retroactively in accordance with the provisions of this subdivision, commencing with fiscal year two thousand-two thousand one. Such cost-of-living adjustment payable by an actuarially funded retirement system shall be funded by obligors responsible for supplementation (as defined in subdivision b of section 13-694 of this article) through the normal contribution, provided, however, that the additional actuarial present value of benefits provided by this section, as determined by the actuary, shall be phased in over a period of ten fiscal years in accordance with the following percentages: 
 
  
-
-
-.. list-table::
-    :header-rows: 1
-
-~
-
-
-
-
 
 
 .. list-table::

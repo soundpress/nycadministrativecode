@@ -1225,17 +1225,8 @@ c. Each violation, whether committed on the same or a subsequent date, shall be 
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - SCHEDULE OF PENALTIES FOR SPECIFIC VIOLATIONS
+      - 
     * - Failure to submit accurate and timely annual report pursuant to section 16-204
       - up to $ 1,000.00
     * - Use of restricted streets or use of streets during restricted time periods as established pursuant to section 16-201

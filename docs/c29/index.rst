@@ -3957,16 +3957,6 @@ c. Fees. The fee for a permit for minor electrical work as described in subdivis
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * -  Sum of units
       - Fee 
     * - 1-10
@@ -4385,12 +4375,19 @@ Subsection 230.42(A)—Revise to read as follows:
 
     * - Current Rating of Bus
       - Maximum Current Per Square Inch in Amperes 
+      - 
+      - 
+      - 
     * - Ventilated Housing
+      - 
       - Unventilated Housing
+      - 
+      - 
     * - Copper Bar
       - Alum. Bar
       - Copper Bar
       - Alum. Bar
+      - 
     * - Up to 1200 Amp
       - 1000 
       - 750 

@@ -599,16 +599,6 @@ e. Tear gas; sale or possession of; fees for permits.
 .. list-table::
     :header-rows: 1
 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
     * - (a) To carry or possess such gas or liquid
       - $10.00 
     * - Renewals
