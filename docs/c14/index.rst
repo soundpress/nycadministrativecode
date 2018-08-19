@@ -4,7 +4,9 @@ Title 15: Fire Prevention and Control
 Chapter 1: Fire Department
 --------------------------------------------------
 
-*§ 15-101 Definitions; bureaus, divisions and offices. * ::
+
+
+*§ 15-101 Definitions; bureaus, divisions and offices.* ::
 
 
 a. For the purposes of this title the following terms shall have the following meanings:
@@ -24,7 +26,9 @@ c. Notwithstanding any inconsistent provision of any general, special or local l
 
 
 
-*§ 15-102 Volunteer system. * ::
+
+
+*§ 15-102 Volunteer system.* ::
 
 
 a. The paid department system, as soon as practicable, shall be extended over the borough of Staten Island by the commissioner, and thereupon the present volunteer fire companies now maintained therein shall be disbanded. Any real property and any apparatus, equipment or other personal property owned or used by such volunteer forces which may be deemed useful or necessary for the use of the department, upon the extension of the paid system to the borough of Staten Island, shall be purchased by the department of general services upon the recommendation of the commissioner at the reasonable value thereof.
@@ -36,7 +40,9 @@ c. The extension of the paid department system shall not affect the rights and p
 
 
 
-*§ 15-103 Qualifications of force of department. * ::
+
+
+*§ 15-103 Qualifications of force of department.* ::
 
 
 a. To qualify for membership in the department a person shall be:
@@ -54,7 +60,9 @@ c. Nothing in this section is intended to repeal or supersede the provisions of 
 
 
 
-*§ 15-103.1 Chief of department. * ::
+
+
+*§ 15-103.1 Chief of department.* ::
 
 
 Notwithstanding any inconsistent provision of any general, special or local law, including but not limited to section 15-110 of this chapter, to the contrary, the chief of department shall not be required to be selected by competitive examination. The chief of department shall be in the exempt class of the classified service, and shall be selected from among persons holding the title of deputy chief (fire).
@@ -62,7 +70,9 @@ Notwithstanding any inconsistent provision of any general, special or local law,
 
 
 
-*§ 15-104 Probationary period. * ::
+
+
+*§ 15-104 Probationary period.* ::
 
 
 Preliminary to a permanent appointment as firefighter there shall be a period of probation for such time as is fixed by the civil service rules, and no person shall receive a permanent appointment who has not served the required probationary period. The service during probation shall be deemed to be service in the uniformed force if succeeded by a permanent appointment, and as such shall be included and counted in determining eligibility for advancement, promotion, retirement and pension.
@@ -70,7 +80,9 @@ Preliminary to a permanent appointment as firefighter there shall be a period of
 
 
 
-*§ 15-105 Oaths of office. * ::
+
+
+*§ 15-105 Oaths of office.* ::
 
 
 Each member of the uniformed force shall take an oath of office and subscribe the same before an officer of the department empowered to administer an oath.
@@ -78,7 +90,9 @@ Each member of the uniformed force shall take an oath of office and subscribe th
 
 
 
-*§ 15-106 Warrants of appointment. * ::
+
+
+*§ 15-106 Warrants of appointment.* ::
 
 
 Every member of the uniformed force shall have issued to him or her a warrant of appointment signed by the commissioner.
@@ -86,7 +100,9 @@ Every member of the uniformed force shall have issued to him or her a warrant of
 
 
 
-*§ 15-107 Grades of members of the uniformed force. * ::
+
+
+*§ 15-107 Grades of members of the uniformed force.* ::
 
 
 Members of the uniformed force, upon appointment, shall be assigned to the fourth grade; after one year of service in the fourth grade they shall be advanced to the third grade; after one year of service in the third grade, they shall be advanced to the second grade; after one year of service in the second grade, they shall be advanced to the first grade; and they shall in each instance receive the annual pay or compensation of the grade to which they belong.
@@ -94,7 +110,9 @@ Members of the uniformed force, upon appointment, shall be assigned to the fourt
 
 
 
-*§ 15-108 Salary during absence from duty caused by injury or sickness. * ::
+
+
+*§ 15-108 Salary during absence from duty caused by injury or sickness.* ::
 
 
 Each member of the uniformed force shall be paid full pay or compensation during absence from duty caused by injury or sickness, except as otherwise provided by law.
@@ -102,7 +120,9 @@ Each member of the uniformed force shall be paid full pay or compensation during
 
 
 
-*§ 15-108.1 Receipt of line of duty pay. * ::
+
+
+*§ 15-108.1 Receipt of line of duty pay.* ::
 
 
 a. A member or officer of the force shall be entitled pursuant to this section to the full amount of his or her regular salary for the period of any incapacity due to illness or injury incurred in the performance and discharge of duty as a member or officer of the force, as determined by the department.
@@ -118,7 +138,9 @@ e. As used in this section the term "incapacity" shall mean the inability to per
 
 
 
-*§ 15-109 Salary of first grade firefighters. * ::
+
+
+*§ 15-109 Salary of first grade firefighters.* ::
 
 
 Firefighters of the first grade shall be paid a minimum of three thousand dollars per annum.
@@ -126,7 +148,9 @@ Firefighters of the first grade shall be paid a minimum of three thousand dollar
 
 
 
-*§ 15-110 Promotions. * ::
+
+
+*§ 15-110 Promotions.* ::
 
 
 Promotions of officers and members of the force shall be made by the commissioner on the basis of seniority, meritorious service in the department and superior capacity as shown by competitive examination. Individual acts of personal bravery may be treated as an element of meritorious service in such examination, the relative rating therefor to be fixed by the commissioner of citywide administrative services. The fire commissioner shall transmit to the commissioner of citywide administrative services in advance of such examination the complete record of each candidate for promotion.
@@ -134,7 +158,9 @@ Promotions of officers and members of the force shall be made by the commissione
 
 
 
-*§ 15-111 Credit for service in the police department. * ::
+
+
+*§ 15-111 Credit for service in the police department.* ::
 
 
 a. (1) Any member of the uniformed force of the fire department, who immediately prior to his or her appointment or employment as such, has served or shall have served as a member of the police force of the police department, shall have the time served by such member in such police department counted as service in the fire department in determining his or her retirement and pension in such department as herein or otherwise provided, upon condition that he or she shall contribute to the appropriate fire department pension fund a sum equal to the amount which he or she would have been required to contribute had the time served in the police department been served in the fire department.
@@ -148,7 +174,9 @@ c. Notwithstanding any other provision of law to the contrary, any member of the
 
 
 
-*§ 15-111.1 Credit for service in the uniformed transit police force or uniformed housing police force. * ::
+
+
+*§ 15-111.1 Credit for service in the uniformed transit police force or uniformed housing police force.* ::
 
 
 Any member of the uniformed force of the fire department, who immediately prior to his or her appointment or employment as such, has served or shall have served as a member of the uniformed transit police force or a member of the uniformed housing police force shall have the time served by such member in such force counted as service in the fire department in determining: (a) his or her eligibility to compete in a promotional examination; (b) his or her seniority credit for the purpose of grading a promotional examination; and (c) his or her seniority credit for the purpose of determining eligibility for transfers within the uniformed force of the fire department.
@@ -156,7 +184,9 @@ Any member of the uniformed force of the fire department, who immediately prior 
 
 
 
-*§ 15-112 Working hours. * ::
+
+
+*§ 15-112 Working hours.* ::
 
 
 a. The commissioner shall divide the deputy chiefs, battalion chiefs, captains, lieutenants, engineers and firefighters, marine engineers and pilots in boats of the department into platoons, and such divisions shall be fully completed and the provisions hereof fully effectuated. None of such platoons, or any member thereof, shall be assigned to more than one tour of duty in any twenty-four consecutive hours. The commissioner shall install a two platoon system. The two platoon system shall consist of not more than two tours of duty of not more than nine hours each, to be followed by a rest period of at least forty-eight hours for all members. After such rest period there shall be not more than two tours of duty of not more than fifteen hours to be followed by a rest period for all members of at least seventy-two hours which shall continue in such sequence so that not more than six nine-hour tours of duty and six fifteen-hour tours of duty shall be worked in any twenty-five consecutive calendar days, except, in the event of conflagrations, riots or other similar emergencies or for the necessary time consumed in changing tours of duty, in which events such platoons or members thereof shall be continued on duty for such hours as may be necessary. This section shall in no manner affect any provision of law providing for furlough or leave of absence of such members of the department.
@@ -168,7 +198,9 @@ c. Notwithstanding the provisions of any other section of this title, the provis
 
 
 
-*§ 15-113 Discipline of members; removal from force. * ::
+
+
+*§ 15-113 Discipline of members; removal from force.* ::
 
 
 The commissioner shall have power, in his or her discretion on conviction of a member of the force of any legal offense or neglect of duty, or violation of rules, or neglect or disobedience of orders or incapacity, or absence without leave, or any conduct injurious to the public peace or welfare, or immoral conduct, or conduct unbecoming an officer or member, or other breach of discipline, to punish the offending party by reprimand, forfeiture and withholding of pay for a specified time, or dismissal from the force; but not more than ten days' pay shall be forfeited and withheld for any offense. Officers and members of the uniformed force shall be removable only after written charges shall have been preferred against them, and after the charges shall have been publicly examined into, upon such reasonable notice of not less than forty-eight hours to the person charged, and in such manner of examination as the rules and regulations of the commissioner may prescribe. The examination into such charges and trial shall be conducted by the commissioner, a deputy commissioner or other person designated by the commissioner in writing for that purpose; but no decision shall be final or be enforced until approved by the commissioner. The rules and regulations for the uniformed force of the department, as established from time to time by the commissioner, shall be printed, published and circulated among the officers and members of such department.
@@ -176,7 +208,9 @@ The commissioner shall have power, in his or her discretion on conviction of a m
 
 
 
-*§ 15-114 Resignations and absences. * ::
+
+
+*§ 15-114 Resignations and absences.* ::
 
 
 Any member of the department who shall withdraw or resign without the permission of the commissioner shall be subject to the forfeiture of salary due to such member. Unexplained absence, without leave, of any member of the uniformed force, for five days, shall be deemed and held to be a resignation by such member, and accepted as such.
@@ -184,7 +218,9 @@ Any member of the department who shall withdraw or resign without the permission
 
 
 
-*§ 15-115 Rehearing of charges; reinstatement of members of department. * ::
+
+
+*§ 15-115 Rehearing of charges; reinstatement of members of department.* ::
 
 
 a. Upon written application to the mayor by the person aggrieved, setting forth the reasons for demanding such rehearing, the commissioner may rehear the charges upon which a member or a probationary member of the uniformed force has been dismissed, or reduced from the rank theretofore held by him or her. Such person or persons shall be required to waive in writing all claim against the city for back pay and shall obtain the mayor's consent to such rehearing, such consent to be in writing and to state the reasons why such charges should be reheard.
@@ -200,7 +236,9 @@ e. Employees of the department, not entitled to a trial before dismissal, and wh
 
 
 
-*§ 15-116 Members of force; peace officers. * ::
+
+
+*§ 15-116 Members of force; peace officers.* ::
 
 
 In the performance of their duties, all officers and members of the uniformed force, other than the chief marshal, deputy chief fire marshals, supervising fire marshals and fire marshals, shall have the powers and perform the duties of peace officers, but their power to make arrests and to serve process in criminal actions shall be restricted to cases arising under laws relating to fires and the extinguishment thereof, and to fire perils.
@@ -208,7 +246,9 @@ In the performance of their duties, all officers and members of the uniformed fo
 
 
 
-*§ 15-117 Members of force; police officers. * ::
+
+
+*§ 15-117 Members of force; police officers.* ::
 
 
 In the performance of their duties, the chief fire marshal, deputy chief fire marshals, supervising fire marshals and fire marshals shall have all the powers and perform all the duties of police officers in the state.
@@ -216,7 +256,9 @@ In the performance of their duties, the chief fire marshal, deputy chief fire ma
 
 
 
-*§ 15-118 Exemption from civil arrest and service of subpoenas. * ::
+
+
+*§ 15-118 Exemption from civil arrest and service of subpoenas.* ::
 
 
 Any officer or uniformed member of the department shall be exempt from arrest on civil process, or, while actually on duty, from service of subpoena from civil courts.
@@ -224,7 +266,9 @@ Any officer or uniformed member of the department shall be exempt from arrest on
 
 
 
-*§ 15-119 Reimbursement for loss of property while in performance of duty. * ::
+
+
+*§ 15-119 Reimbursement for loss of property while in performance of duty.* ::
 
 
 Whenever any member of the uniformed force of the department, while in the actual performance of his or her duty, shall lose or have destroyed any of his or her personal belongings, and shall present satisfactory proof thereof to the commissioner, such member shall be reimbursed to the extent of the loss sustained, at the expense of the city.
@@ -232,7 +276,9 @@ Whenever any member of the uniformed force of the department, while in the actua
 
 
 
-*§ 15-120 Uniforms and badges; unlawful use prohibited. * ::
+
+
+*§ 15-120 Uniforms and badges; unlawful use prohibited.* ::
 
 
 a. It shall be the duty of the commissioner to make suitable regulations under which the officers and members of the department shall be required to wear an appropriate uniform and badge by which the authority and relations of the officers and members in such department may be known. The commissioner shall select the grade of cloth and quality required for such uniforms, but shall not prescribe where or from whom such uniforms or uniform clothing shall be purchased, or the price to be paid therefor. It shall be unlawful for any contractor or agent or employee of any contractor for the making of uniforms for the department to have an office within any building belonging to or under the control of the department.
@@ -242,7 +288,9 @@ b. It shall be a misdemeanor, punishable by imprisonment for a period of not les
 
 
 
-*§ 15-121 Termination of service of members of uniformed force because of superannuation. * ::
+
+
+*§ 15-121 Termination of service of members of uniformed force because of superannuation.* ::
 
 
 a. Except as otherwise provided in subdivision c of this section no member of the uniformed force of the department except medical officers, who is or hereafter attains the age of sixty-five years shall continue to serve as a member of such force but shall be retired and placed on the pension rolls of the department, provided however, that any member who is not eligible for retirement at age sixty-five, shall continue to serve as a member only until such time as such member becomes eligible for such pension retirement.
@@ -254,7 +302,9 @@ c. Any member whose retirement has become mandatory under the provisions of subd
 
 
 
-*§ 15-123 Limited mutual aid agreement with city of Mount Vernon. * ::
+
+
+*§ 15-123 Limited mutual aid agreement with city of Mount Vernon.* ::
 
 
 a. Subject to the limitations contained in subdivision b of this section, the commissioner is hereby empowered to enter into a mutual aid agreement with the fire commissioner of the city of Mount Vernon. Such agreement shall authorize the dispatching of fire fighting equipment from the city of New York to the city of Mount Vernon when so requested by the commissioner of the city of Mount Vernon.
@@ -264,7 +314,9 @@ b. The scope of any agreement entered into pursuant to this section shall be lim
 
 
 
-*§ 15-124 Destruction of buildings to prevent spread of fire. * ::
+
+
+*§ 15-124 Destruction of buildings to prevent spread of fire.* ::
 
 
 a. The commissioner may order any building which is on fire, or any other building near thereto which he or she deems hazardous, or likely to take fire, or to convey the fire to other buildings, to be razed, if, in his or her discretion, such action is necessary to prevent the spread of fire or to prevent the loss of life or property therefrom.
@@ -276,7 +328,9 @@ c. Upon the application of any person interested in any building so razed, or in
 
 
 
-*§ 15-125 Preventing spread of harbor fires. * ::
+
+
+*§ 15-125 Preventing spread of harbor fires.* ::
 
 
 The officers of the department in charge at the scene of a fire occurring on any vessel in the port of New York or in or upon any dock, wharf, pier, warehouse, building or other structure bordering upon or adjacent to such port, may prohibit the approach to such fire or to a vessel, dock, wharf, pier, warehouse or other building or structure in danger therefrom, of any tugboat or other vessel, or of any person; or may remove or cause to be removed and kept away from the vicinity of such fire all tugboats or other vessels. It shall be unlawful for any person in any way to obstruct the operations of the department in connection with any such fire, or to disobey any lawful command of the officers of such department in charge at the scene of such fire, or of the police in cooperating with them. Nothing in this section contained shall be construed to limit the authority of the master or officers of any such vessel on fire or in danger from fire, subject to the general authority of the department to control the operations in protection of the public interest.
@@ -284,7 +338,9 @@ The officers of the department in charge at the scene of a fire occurring on any
 
 
 
-*§ 15-126 Fire alarm telegraph system. * ::
+
+
+*§ 15-126 Fire alarm telegraph system.* ::
 
 
 a. Protection of. The fire alarm telegraph system shall be operated or used only by the commissioner, or the officers and employees of the department charged with its operation or maintenance or authorized to use it for instruction or drill. Any person, however, may freely operate the same to communicate actual alarms of fire. It shall be unlawful for any person to experiment or tamper with such system for any purpose whatever, or to have or possess any key thereof, without the authority of the commissioner. It shall be unlawful for any person to post, paint, impress, or in any way affix to any pole connected with the fire alarm telegraph, or any box, wire or other appliance connected therewith, any placard, sign, broadside, notice, or announcement of any kind; or to cut, mutilate, alter, mar, deface, cover, obstruct or interfere with the same in any manner whatsoever; or to paint, or cause to be painted, the poles of any other telegraph, or any other poles on the lines thereof, in a color or colors similar to those of poles upon which are fire alarm boxes, or in imitation thereof; or to consent, allow, or be privy to any of such things done for him or her or upon his or her behalf.
@@ -294,7 +350,9 @@ b. Kite-flying. It shall be unlawful for any kite to be flown, raised, or put in
 
 
 
-*§ 15-127 Auxiliary fire alarm systems. * ::
+
+
+*§ 15-127 Auxiliary fire alarm systems.* ::
 
 
 a. Fire alarm telegraph companies.
@@ -320,10 +378,14 @@ c. Interior fire alarms.
 
 
 
-*§ 15-128 Fire drills. * ::
+
+
+*§ 15-128 Fire drills.* ::
 
 
 The commissioner, in cases where provision is not otherwise made by law, is empowered in his or her discretion to require and compel the regular and periodical performance of a fire drill, including instruction and practice in the use of means of exit, alarm systems, and fire prevention or extinguishing methods and equipment, in all buildings, structures, enclosures, vessels, places and premises where numbers of persons work, live or congregate, except multiple dwellings.
+
+
 
 
 
@@ -358,6 +420,8 @@ d. For purposes of this section, the following terms have the following meanings
    Division. The term “division” means any division as defined by the department.
 
    Life threatening medical emergency. The term “life threatening medical emergency” means any emergency categorized by the department as a life threatening medical emergency.
+
+
 
 
 
@@ -446,6 +510,8 @@ c. The following information shall be provided on March 1 of each year for the p
 
 
 
+
+
 *§ 15-131 Report on smoke detectors and smoke alarms in fire-related deaths.* ::
 
 
@@ -456,6 +522,8 @@ b. The department shall ascertain from the office of the chief medical examiner 
 
 
 Editor's note: Pursuant to L.L. 2017/020, § 2, this section expires on Feburary 15, 2022.
+
+
 
 
 
@@ -474,6 +542,8 @@ Editor's note: Pursuant to L.L. 2018/110, § 2, subsection b. of this section wi
 
 
 
+
+
 *§ 15-133 Youth education and outreach.* ::
 
 
@@ -484,6 +554,8 @@ b. Beginning January 31, 2019 and annually thereafter, the department shall elec
 
 
 Editor's note: Pursuant to L.L. 2018/116, § 2, subsection b. of this section will be repealed 5 years after it becomes law.
+
+
 
 
 
@@ -510,6 +582,8 @@ b. By March 1 of each year, the department of environmental protection shall pos
 
 
 
+
+
 *§ 15-134 Emergency evacuation planning for individuals with limited mobility.** ::
 
 
@@ -520,10 +594,14 @@ By March 1, 2019, the department, in consultation with the office of emergency m
 
 
 
+
+
 *§ 15-135 Notice regarding closed doors and fires.* ::
 
 
 The department shall require owners of multiple dwellings to post a notice in conspicuous locations indicating that those escaping a fire should close all doors behind them.
+
+
 
 
 
@@ -567,7 +645,9 @@ d. The report created pursuant to this section shall be provided within 30 days 
 Chapter 2: Unlawful Conduct
 --------------------------------------------------
 
-*§ 15-202 Obstruction of fire stations. * ::
+
+
+*§ 15-202 Obstruction of fire stations.* ::
 
 
 It shall be unlawful to obstruct the entrance to or exit from any fire station.
@@ -575,7 +655,9 @@ It shall be unlawful to obstruct the entrance to or exit from any fire station.
 
 
 
-*§ 15-203 Right of way of fire apparatus; obstructing. * ::
+
+
+*§ 15-203 Right of way of fire apparatus; obstructing.* ::
 
 
 The officers and members of the department, and the officers and members of the insurance patrol respectively, with their apparatus of all kinds, when on duty, shall have the right of way at and in proceeding to any fire or other emergency in any highway, street or avenue, over any and all vehicles of any kind, except those carrying the United States mail. It shall be unlawful for any person in or upon any vehicle to refuse the right of way, or in any way obstruct any fire apparatus, or any apparatus of the insurance patrol, or any of such officers while in the performance of duty.
@@ -583,7 +665,9 @@ The officers and members of the department, and the officers and members of the 
 
 
 
-*§ 15-204 Motor vehicles having the appearance of apparatus and vehicles of the department and fire patrol prohibited. * ::
+
+
+*§ 15-204 Motor vehicles having the appearance of apparatus and vehicles of the department and fire patrol prohibited.* ::
 
 
 It shall be unlawful for any person to use or possess a motor vehicle which is designed, designated, painted, colored or provided with insignia to have the appearance or take on the form of the apparatus and vehicles of the department or fire patrol, excepting emergency vehicles of public service corporations or companies doing construction or excavation work under franchises, without an authorization in writing issued by the commissioner, in his or her discretion, and in accordance with such regulations as he or she may prescribe. Such authorization shall be valid until revoked by the commissioner, and shall not be transferable.
@@ -591,7 +675,9 @@ It shall be unlawful for any person to use or possess a motor vehicle which is d
 
 
 
-*§ 15-205 Obstruction of fire hydrants. * ::
+
+
+*§ 15-205 Obstruction of fire hydrants.* ::
 
 
 a. For the purposes of this section, the term "fire hydrant street area" means, with respect to a fire hydrant, any space that is located:
@@ -615,7 +701,9 @@ e. In addition to the department, the department of sanitation may enforce the p
 
 
 
-*§ 15-206 Fire hose. * ::
+
+
+*§ 15-206 Fire hose.* ::
 
 
 It shall be unlawful for the operator of any vehicle to drive over or across any hose in use, or about to be used, or while lying in the street after being used by the department. The provisions of this section shall not apply to drivers of wagons carrying the United States mail, nor to drivers of ambulances when conveying any patient or injured person to any hospital, or when proceeding to the scene of any accident by which any person or persons have been injured, nor to the operator of any vehicle directed or permitted to drive over or across any such hose by the officer of the department in command of the force operating at a fire or other emergency.
@@ -623,7 +711,9 @@ It shall be unlawful for the operator of any vehicle to drive over or across any
 
 
 
-*§ 15-207 Fire lines. * ::
+
+
+*§ 15-207 Fire lines.* ::
 
 
 During the actual prevalence of any fire or other emergency, the officers of the police and fire departments shall remove, or cause to be removed and kept away from the vicinity of such fire or other emergency, all idle and suspicious persons, and all persons unfit to be employed, or not actually and usefully employed, in aiding the extinguishment and termination of such fire or other emergency or in the preservation of property in the vicinity thereof.
@@ -631,7 +721,9 @@ During the actual prevalence of any fire or other emergency, the officers of the
 
 
 
-*§ 15-208 Interfering with or obstructing officials, officers and members of department. * ::
+
+
+*§ 15-208 Interfering with or obstructing officials, officers and members of department.* ::
 
 
 It shall be unlawful for any person to disobey the lawful orders of a department official, fire officer or firefighter or to offer resistance or interfere with the lawful activities of said officials and members while engaged in the performance of fire fighting duties or to commit any act likely to prevent a fire from being extinguished.
@@ -639,7 +731,9 @@ It shall be unlawful for any person to disobey the lawful orders of a department
 
 
 
-*§ 15-211 Violations. [Repealed] * ::
+
+
+*§ 15-211 Violations. [Repealed]* ::
 
 
 a. Any person who shall wilfully or designedly give, raise, create or continue a false alarm of fire, or who shall wilfully tamper, meddle or interfere with any station or signal box of any fire alarm telegraph system, or any auxiliary fire appliance, or who shall wilfully break, injure, deface or remove any such box or station, or who shall wilfully break, injure, deface or remove any of the wires, poles or other supports and appliances connected with or forming a part of any fire alarm telegraph system, shall be punished by imprisonment not exceeding one year or a fine not exceeding ten thousand dollars, or both, for each offense.
@@ -649,7 +743,9 @@ b. Aiding or abetting in giving false fire alarms. Any person aiding or abetting
 
 
 
-*§ 15-215 Tampering with automatic sprinkler systems. * ::
+
+
+*§ 15-215 Tampering with automatic sprinkler systems.* ::
 
 
 a. It shall be unlawful for any person to tamper with a system of automatic sprinklers in any building or occupancy by damaging such a system or otherwise preventing it from properly functioning.
@@ -663,7 +759,9 @@ d. This section shall be enforceable by the department and such other agencies a
 
 
 
-*§ 15-216 Fines and penalties. * ::
+
+
+*§ 15-216 Fines and penalties.* ::
 
 
 a. Any person who shall violate or fail to comply with any laws, rules, or regulations enforceable by the department, unless a different penalty is specifically provided, shall be guilty of a violation and upon conviction thereof shall be punished by a fine of not more than five thousand dollars for each offence. Such person shall also be subject to the payment of a civil penalty of not more than five thousand dollars which may be recovered in a civil action brought in the name of the commissioner.
@@ -675,7 +773,9 @@ c. The commissioner, in his or her discretion, may pay a portion of a fine or pe
 
 
 
-*§ 15-217 Suits and actions. * ::
+
+
+*§ 15-217 Suits and actions.* ::
 
 
 The commissioner is authorized and empowered to receive and collect all license fees mentioned in this title and chapter four of title twenty-seven of the code, and may sue for, and shall have the exclusive right of recovery of any and all fees, fines and penalties imposed hereunder, together with costs. Such action may be brought in any of the courts of record of the city. The commissioner may bring any action for the enforcement of the rights and contracts of the department, and for the protection, possession and maintenance of the property under its control. All actions authorized by this title and chapter four of title twenty-seven of the code shall be brought in the name of the commissioner of the city of New York. The commissioner is authorized to settle or compromise any suit or judgment for less than the amount demanded or recovered, in case he or she is satisfied that the full amount cannot be collected. The commissioner and the corporation counsel shall pay all license fees, fines and penalties received by them pursuant to any of the provisions of this title and chapter four of title twenty-seven of the code into the general fund of the city established pursuant to section one hundred nine of the charter.
@@ -683,7 +783,9 @@ The commissioner is authorized and empowered to receive and collect all license 
 
 
 
-*§ 15-218 Purposes of investigations. * ::
+
+
+*§ 15-218 Purposes of investigations.* ::
 
 
 The commissioner, the chief and deputy chief fire marshals, the assistant fire marshals, and such other employees of the department designated by the commissioner, shall investigate, examine and inquire into the following matters:
@@ -697,7 +799,9 @@ The commissioner, the chief and deputy chief fire marshals, the assistant fire m
 
 
 
-*§ 15-219 Compelling attendance of witnesses. * ::
+
+
+*§ 15-219 Compelling attendance of witnesses.* ::
 
 
 a. Power of subpoena of commissioner.
@@ -719,7 +823,9 @@ c. Additional penalty for disobedience of subpoena. Any person or persons who fa
 
 
 
-*§ 15-220 Administering oaths; taking and transmitting testimony. * ::
+
+
+*§ 15-220 Administering oaths; taking and transmitting testimony.* ::
 
 
 a. The commissioner, the chief and deputy chief fire marshals, and the assistant fire marshals, in conducting any investigation authorized by section 15-218 of this title, shall have the power to administer oaths and affirmations, and any false swearing under such oath or affirmation shall be perjury.
@@ -729,7 +835,9 @@ b. The chief fire marshal, or other person conducting such investigation shall t
 
 
 
-*§ 15-220.1 False statements in certificates, forms, written statements, applications, reports or certifications of correction. * ::
+
+
+*§ 15-220.1 False statements in certificates, forms, written statements, applications, reports or certifications of correction.* ::
 
 
 a. Any person who shall knowingly make a false statement or who shall knowingly falsify or allow to be falsified any certificate, form, signed statement, application, report or certification of the correction of a violation required under the provisions of any laws, rules, or regulations enforceable by the department, shall be punished by a fine of not less than one thousand dollars nor more than five thousand dollars or by imprisonment not to exceed six months, or both for each such offense.
@@ -739,7 +847,9 @@ b. Such person shall also be liable for a civil penalty of not less than one tho
 
 
 
-*§ 15-221 Arrest of persons suspected of arson. * ::
+
+
+*§ 15-221 Arrest of persons suspected of arson.* ::
 
 
 It shall be the duty of the chief and deputy chief fire marshals, the assistant fire marshals, or other employees authorized by the commissioner to conduct investigations, whenever they shall be of the opinion that there is sufficient evidence to charge any person with the crime of arson or attempted arson, to arrest or cause such person to be arrested and charged with such offense.
@@ -747,7 +857,9 @@ It shall be the duty of the chief and deputy chief fire marshals, the assistant 
 
 
 
-*§ 15-223 Issuance of orders. * ::
+
+
+*§ 15-223 Issuance of orders.* ::
 
 
 Upon finding that a violation of any law, the enforcement of which is charged upon the department, exists in any vessel, premises, ground, structure, building, or underground passage, the commissioner, the chief fire marshal, or such other member of the department designated by such commissioner, may issue a printed or written order directing the owner or occupant to alter, remedy, or remove such violation in such manner and in such reasonable time as is stated therein. Such order may authorize and direct the use of such materials and appliances as may be proper and necessary.
@@ -755,7 +867,9 @@ Upon finding that a violation of any law, the enforcement of which is charged up
 
 
 
-*§ 15-223.1 Orders; penalty for noncompliance. * ::
+
+
+*§ 15-223.1 Orders; penalty for noncompliance.* ::
 
 
 a. Any person who shall violate or fail to comply with an order issued by the commissioner, except an order issued pursuant to section 15-230, shall be guilty of a violation and, upon conviction thereof, shall be punished by a fine not to exceed five thousand dollars. Such person shall also be subject to the payment of a civil penalty of not more than five thousand dollars to be recovered in a civil action brought in the name of the commissioner or in a proceeding before the environmental control board.
@@ -765,7 +879,9 @@ b. Any person who shall knowingly violate or fail to comply with any order of th
 
 
 
-*§ 15-224 Service of orders. * ::
+
+
+*§ 15-224 Service of orders.* ::
 
 
 Orders of the department or of the commissioner shall be addressed to the owner or owners, lessees or occupants of the building, structure, enclosure, vessel, place or premises affected thereby. It shall be unnecessary to designate such owner or owners, lessees or occupants, by name in any such order, but the premises shall be designated in the address, so that the same may be readily identified. Service of any such order may be made by delivery of a copy thereof to the owner or any one of several owners, to a lessee or any one of several lessees, or to any person of suitable age and discretion in charge or apparently in charge of the premises, or if no person be found in charge of the premises then by affixing a copy of such order prominently upon the premises.
@@ -773,7 +889,9 @@ Orders of the department or of the commissioner shall be addressed to the owner 
 
 
 
-*§ 15-225 Transmitting notice to owner. * ::
+
+
+*§ 15-225 Transmitting notice to owner.* ::
 
 
 In case any order of the department or of the commissioner shall be served upon or given to any lessee or person in possession or charge of the building, structure, enclosure, vessel, place or premises therein described, it shall be the duty of such person to give immediate notice to the owner or agent of such building, structure, enclosure, vessel, place or premises named in the order, if the same shall be known to such person personally, and such owner or agent shall be within the limits of the city, and his or her residence known to such person; and if such owner or agent be not within the city, then by depositing a copy of such order in any post office in the city, properly enclosed and addressed to such owner or agent, at his or her then place of residence, if known, and with the postage prepaid. In case any such lessee or person in possession or charge shall neglect to give such notice as herein provided, he or she shall be personally liable to the owner or owners of such building or premises for all damages he, she or they shall sustain by reason of such neglect.
@@ -781,7 +899,9 @@ In case any order of the department or of the commissioner shall be served upon 
 
 
 
-*§ 15-226 Violations; order to remove. * ::
+
+
+*§ 15-226 Violations; order to remove.* ::
 
 
 In case an order is not complied with within the time set forth therein, the commissioner may execute and enforce such order with employees and equipment of the department, or by the employment of such other agencies as the commissioner may direct. Nothing contained in this section, however, shall be held to authorize the commissioner to alter the construction of any building, structure, or vessel, or to supply any structural deficiency in the fire alarm, fire extinguishing, or fire escape equipment thereof. The party offending shall pay the expense of enforcing such order and, in addition thereto, shall forfeit and pay to the department the sum of fifty dollars. Where the order relates to the storage of explosive or combustible compounds or mixtures, the party offending shall pay an additional penalty of twenty-five dollars plus five dollars for each day's neglect or refusal to comply with such order.
@@ -789,7 +909,9 @@ In case an order is not complied with within the time set forth therein, the com
 
 
 
-*§ 15-227 Violations; order to vacate building. * ::
+
+
+*§ 15-227 Violations; order to vacate building.* ::
 
 
 a. Any building, structure, enclosure, vessel, place or premises perilous to life or property in case of fire therein or adjacent thereto, by reason of the nature or condition of its contents, its use, the overcrowding of persons therein, defects in its construction, or deficiencies in fire alarm, fire extinguishing or fire escape equipment, or by reason of any condition in violation of law, or order of the commissioner, is a public nuisance within the meaning of the code and the penal law. The commissioner is empowered to abate any such public nuisance.
@@ -809,7 +931,9 @@ f. The commissioner shall give written notice of the closing of any building or 
 
 
 
-*§ 15-227.1 Penalties for violation of order to vacate and order to seal, secure and close; access to premises. * ::
+
+
+*§ 15-227.1 Penalties for violation of order to vacate and order to seal, secure and close; access to premises.* ::
 
 
 a. Any person who violates the provisions of an order to vacate issued pursuant to section 15-227 of this code shall be liable for a civil penalty of not more than twenty-five thousand dollars and an additional civil penalty of not more than one thousand dollars for each day the violation continues.
@@ -835,7 +959,9 @@ e. Notwithstanding any other law, rule, or regulation, any person, corporation, 
 
 
 
-*§ 15-228 Expenses of enforcing orders. * ::
+
+
+*§ 15-228 Expenses of enforcing orders.* ::
 
 
 The expenses attending the execution of any and all orders duly made by the department shall respectively be a several and joint personal charge against each of the owners or part owners, and each of the lessees and occupants of the building, structure, vessel, enclosure, place or premises to which such order relates, and in respect to which such expenses were incurred; and also against every person or body who was by law or contract bound to do that in regard to such building, structure, vessel, enclosure, place or premises which such order requires. Such expenses shall also be a lien on all rent and compensation due, or to grow due, for the use of any building, structure, vessel, enclosure, place or premises, or any part thereof, to which such order relates, and in respect to which such expenses were incurred.
@@ -843,7 +969,9 @@ The expenses attending the execution of any and all orders duly made by the depa
 
 
 
-*§ 15-229 Environmental control board; civil penalties. * ::
+
+
+*§ 15-229 Environmental control board; civil penalties.* ::
 
 
 a. In addition to or as an alternative to any of the remedies and penalties provided in any laws, rules, or regulations enforceable by the department, any person who shall violate or fail to comply with any such laws, rules, or regulations shall, except as otherwise specifically provided in subdivision c of section 15-230, be liable for a civil penalty which may be recovered in a proceeding before the environmental control board. Such proceeding shall be commenced by the service of a notice of violation returnable before the board. Except as otherwise specifically provided, such civil penalty shall be determined as follows: (1) The maximum penalty for the first violation shall be one thousand dollars ($1,000); (2) the maximum penalty for the second and any subsequent violation of the same provision of law, rule or regulaton shall be five thousand dollars ($5,000), provided the violation is committed by the same respondent, is for the same provision of law, rule or regulation, and occurs within eighteen months of first violation, and provided, further, that if the respondent is the owner, agent, lessee or other person in control of the premises with respect to which the violation occurred, the violation occurred at the same premises.
@@ -857,7 +985,9 @@ d. The commissioner may, by rule or regulation, establish a schedule of civil pe
 
 
 
-*§ 15-230 Environmental control board proceedings; order to certify correction. * ::
+
+
+*§ 15-230 Environmental control board proceedings; order to certify correction.* ::
 
 
 a. Except as otherwise provided in subdivision e of this section, whenever the commissioner serves a notice of violation such notice shall include an order which requires the respondent to correct the condition constituting the violation and to file a certification with the department that the condition has been corrected. Such order shall require that the condition be corrected within thirty days from the date that the order is issued and that certification of the correction of the condition shall be filed with the department in a manner and form and within such further period of time as shall be established by rule or regulation of the department.
@@ -873,7 +1003,9 @@ e. Subdivisions a, b, c, and d of this section shall not apply to environmental 
 
 
 
-*§ 15-231 Civil penalty for failure to certify the correction of a violation. * ::
+
+
+*§ 15-231 Civil penalty for failure to certify the correction of a violation.* ::
 
 
 a. Any person who shall fail to comply with an order of the commissioner issued pursuant to subdivision a of section 15-230 within the time specified in such subdivision or within such further period of time as may be provided by the environmental control board pursuant to subdivision b of section 15-230 shall, in addition to the penalties which may be imposed for the violation pursuant to section 15-229, be liable for a civil penalty of not more than five thousand dollars for each violation for which there has been a failure to comply with such order. Such civil penalty may be recovered in a proceeding before the environmental control board.
@@ -883,7 +1015,9 @@ b. For the purposes of this section, if the environmental control board finds th
 
 
 
-*§ 15-232 Limitations on power of commissioner to designate administrative code provisions which may be enforced by the environmental control board. * ::
+
+
+*§ 15-232 Limitations on power of commissioner to designate administrative code provisions which may be enforced by the environmental control board.* ::
 
 
 Notwithstanding any other provision of law, the commissioner may not designate the following provisions of the administrative code for enforcement by the environmental control board:
@@ -908,7 +1042,9 @@ Notwithstanding any other provision of law, the commissioner may not designate t
 Chapter 3: Arson Strike Force
 --------------------------------------------------
 
-*§ 15-301 Declaration of policy. * ::
+
+
+*§ 15-301 Declaration of policy.* ::
 
 
 The council finds that within the past several years there have been increasing incidences of arson which have endangered life and property in some areas of the city; that deaths and serious injuries to many persons have resulted therefrom and much property has been destroyed; that extensive areas of burned-out buildings now blight parts of the city; that arson hastens the deterioration of communities; that residents are compelled to flee to other areas; that businesses and commercial enterprises are compelled to close, many never to open again; that fire insurance premiums increase; and that drastic steps are necessary to prevent the spread of this problem to other areas of the city. The council hereby declares that it is imperative that a permanent arson strike force be established that will foster greater cooperation between the various city agencies in the battle to control the arson problem that confronts the city.
@@ -916,7 +1052,9 @@ The council finds that within the past several years there have been increasing 
 
 
 
-*§ 15-302 Composition. * ::
+
+
+*§ 15-302 Composition.* ::
 
 
 The mayor shall appoint an arson strike force which shall be chaired by a representative of the mayor's office and shall consist of representatives of the department, police department, department of human resources, department of housing preservation and development, department of finance and such supportive staff as is necessary.
@@ -924,7 +1062,9 @@ The mayor shall appoint an arson strike force which shall be chaired by a repres
 
 
 
-*§ 15-303 Reports. * ::
+
+
+*§ 15-303 Reports.* ::
 
 
 The strike force shall submit an annual report in September of each year to the mayor and the council. Such report shall include any findings and recommendations of the strike force.
@@ -932,7 +1072,9 @@ The strike force shall submit an annual report in September of each year to the 
 
 
 
-*§ 15-304 Reward for information leading to arson conviction: posting notices. * ::
+
+
+*§ 15-304 Reward for information leading to arson conviction: posting notices.* ::
 
 
 a. The city hereby offers a reward of not more than one thousand dollars per conviction to any person or persons giving information leading to the detection, arrest and conviction of any person or persons guilty of arson, attempted arson or conspiracy to commit arson, or felony murder arising in connection with arson.

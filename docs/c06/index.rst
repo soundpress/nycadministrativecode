@@ -4,7 +4,9 @@ Title 7: Legal Affairs
 Chapter 1: Corporation Counsel
 --------------------------------------------------
 
-*§ 7-101 Bond to be executed by corporation counsel. * ::
+
+
+*§ 7-101 Bond to be executed by corporation counsel.* ::
 
 
 The corporation counsel shall execute a bond to the city, in the penal sum of five thousand dollars, conditioned for the faithful performance of the duties of that office. Such bond shall contain one or more sureties, who shall be approved by the comptroller.
@@ -12,7 +14,9 @@ The corporation counsel shall execute a bond to the city, in the penal sum of fi
 
 
 
-*§ 7-102 Law department relieved from payment of fees to city, county or other officers. * ::
+
+
+*§ 7-102 Law department relieved from payment of fees to city, county or other officers.* ::
 
 
 a. It shall be unlawful for any salaried officer of the city or of the counties within the city or of any court exercising jurisdiction within the limits thereof, or for any public officer who is required by law to deposit the fees collected by his or her office in the city treasury, to receive from the law department or from any bureau thereof, any fee for levy, service or return of executions or other mandate or order, or for entering, filing, docketing, registering, recording or issuing any paper, record, mandate, precept or document required by law to be filed in or issued out of his or her office.
@@ -24,7 +28,9 @@ c. The law department or any bureau thereof shall file its notice of trial or no
 
 
 
-*§ 7-103 Corporation counsel. * ::
+
+
+*§ 7-103 Corporation counsel.* ::
 
 
 It shall be unlawful for the corporation counsel or any of the corporation counsel's assistants to appear as attorney or counsel in any action or litigation except in the discharge of his or her official duties, or to accept an appointment as referee or receiver in any action or proceeding.
@@ -32,7 +38,9 @@ It shall be unlawful for the corporation counsel or any of the corporation couns
 
 
 
-*§ 7-104 Legislative bills; local laws. * ::
+
+
+*§ 7-104 Legislative bills; local laws.* ::
 
 
 The corporation counsel shall prepare the draft of any bill to be presented by the city to the legislature for enactment, with a proper memorial for the passage thereof, and shall prepare such local laws as may be required by the council or any committee thereof.
@@ -40,7 +48,9 @@ The corporation counsel shall prepare the draft of any bill to be presented by t
 
 
 
-*§ 7-105 Actions and proceedings for recovery of penalties. * ::
+
+
+*§ 7-105 Actions and proceedings for recovery of penalties.* ::
 
 
 The assistant corporation counsel in charge of the recovery of penalties, subject only to the approval of the corporation counsel, may settle, compromise, adjust or discontinue any action brought to recover a penalty in the name of the city or any agency thereof, provided that the penalty sued for does not exceed the sum of two hundred fifty dollars.
@@ -48,7 +58,9 @@ The assistant corporation counsel in charge of the recovery of penalties, subjec
 
 
 
-*§ 7-106 Collection of debts. * ::
+
+
+*§ 7-106 Collection of debts.* ::
 
 
 The comptroller shall direct legal proceedings to be taken when necessary to enforce payment of debts due to the city.
@@ -56,7 +68,9 @@ The comptroller shall direct legal proceedings to be taken when necessary to enf
 
 
 
-*§ 7-107 Register of actions. * ::
+
+
+*§ 7-107 Register of actions.* ::
 
 
 The corporation counsel shall keep in proper books, to be provided for that purpose, a register of all actions prosecuted or defended by the corporation counsel, and all proceedings had therein.
@@ -64,7 +78,9 @@ The corporation counsel shall keep in proper books, to be provided for that purp
 
 
 
-*§ 7-108 Bond or other security on behalf of city; by whom executed. * ::
+
+
+*§ 7-108 Bond or other security on behalf of city; by whom executed.* ::
 
 
 In all actions or proceedings, in either the state or United States courts, in which the city or any department thereof shall be a party, an undertaking, bond, security, or stipulation which is required of the city as a condition to the obtaining of any legal remedy or process, or to the perfecting of an appeal or the stay of execution or other writ in the nature thereof, may be executed on behalf of the city by the comptroller, upon the advice of the corporation counsel that it should be executed, and in such form or manner as he or she may approve or advise.
@@ -72,7 +88,9 @@ In all actions or proceedings, in either the state or United States courts, in w
 
 
 
-*§ 7-109 Corporation counsel; when the corporation counsel may appear for officer, subordinate, or employee of an agency. * ::
+
+
+*§ 7-109 Corporation counsel; when the corporation counsel may appear for officer, subordinate, or employee of an agency.* ::
 
 
 The corporation counsel, in his or her discretion may appear, or direct any of his or her assistants to appear, in any action or proceeding, whether criminal or civil, which may be brought against any officer, subordinate or employee in the service of the city, or of any of the counties contained therein, by reason of any acts done or omitted by such officer, subordinate or employee, while in the performance of his or her duty, whenever such appearance is requested by the head of the agency in which such officer, subordinate or employee is employed or whenever the interests of the city require the appearance of the corporation counsel. The head of the agency in which such officer, subordinate or employee is employed shall submit all pertinent papers and other documents to the corporation counsel.
@@ -80,10 +98,14 @@ The corporation counsel, in his or her discretion may appear, or direct any of h
 
 
 
-*§ 7-110 Corporation counsel; representation and indemnification of district attorneys. * ::
+
+
+*§ 7-110 Corporation counsel; representation and indemnification of district attorneys.* ::
 
 
 The district attorney and the employees of his or her office in each of the counties within the city shall be entitled to legal representation by the corporation counsel and indemnification by the city pursuant to the provisions of, and subject to the conditions, procedures and limitations contained in section fifty-k of the general municipal law.
+
+
 
 
 
@@ -92,6 +114,8 @@ The district attorney and the employees of his or her office in each of the coun
 
 
 The corporation counsel shall make available through the city's website a true and complete compilation of the charter, the administrative code, and the rules of the city of new york. Such compilation shall be in a searchable, machine-readable format or formats that are capable of being downloaded in bulk, and which are chosen for the purpose of making such compilations available to the greatest number of users and for the greatest number of applications. Such compilation shall be updated to reflect changes to such compilation no later than four weeks after such changes are made.
+
+
 
 
 
@@ -122,6 +146,8 @@ b. Reporting. No later than January 31, 2018 and no later than each January 31 a
 
 
 
+
+
 *§ 7-113 Civil actions regarding the department of correction.* ::
 
 
@@ -132,6 +158,8 @@ a. No later than January 31, 2018 and no later than each July 31 and January 31 
    2. for each action: (i) the court in which the action was filed, (ii) the name of the law firm representing the plaintiff, (iii) the name of the law firm or agency representing each defendant, (iv) the date the action was filed; and (v) whether the plaintiff alleged improper conduct, including, but not limited to, claims involving the use of force or assault and battery; and
 
    3. if an action has been resolved: (i) the date on which it was resolved, (ii) the manner in which it was resolved, and (iii) whether the resolution included a payment to the plaintiff by the city and, if so, the amount of such payment.
+
+
 
 
 
@@ -157,7 +185,9 @@ a. No later than January 31, 2018 and no later than each July 31 and January 31 
 Chapter 2: Actions Against New York City
 --------------------------------------------------
 
-*§ 7-201 Actions against the city. * ::
+
+
+*§ 7-201 Actions against the city.* ::
 
 
 a. In every action or special proceeding prosecuted or maintained against the city, the complaint or necessary moving papers shall contain an allegation that at least thirty days have elapsed since the demand, claim or claims, upon which such action or special proceeding is founded, were presented to the comptroller for adjustment, and that the comptroller has neglected or refused to make an adjustment or payment thereof for thirty days after such presentment, except that in every action or special proceeding in relation to excise or non-property taxes, such complaint or necessary moving papers shall contain an allegation that such demand, claim or claims upon which the action or special proceeding is founded, were presented to the commissioner of finance for adjustment and that the commissioner has neglected or refused to make an adjustment or payment thereof for thirty days after such presentment.
@@ -181,7 +211,9 @@ c. 1. As used in this subdivision:
 
 
 
-*§ 7-202 Power of comptroller to extend the time for commencement of suit upon claims. * ::
+
+
+*§ 7-202 Power of comptroller to extend the time for commencement of suit upon claims.* ::
 
 
 Notwithstanding any other provision of law, the comptroller may, by stipulation in writing, agree with a claimant against the city, the board of education or any community college of the city university of New York, to extend the time of such claimant to commence suit upon a claim, the settlement of which is then pending before the comptroller, provided that such stipulation shall not extend the time within which such suit may be brought for a period or periods aggregating more than six months after the expiration of the time otherwise limited by law for the commencement of a suit upon such claim.
@@ -189,7 +221,9 @@ Notwithstanding any other provision of law, the comptroller may, by stipulation 
 
 
 
-*§ 7-203 Settlement of claims. * ::
+
+
+*§ 7-203 Settlement of claims.* ::
 
 
 a. The comptroller may require any person presenting for settlement an account or claim, except a claim with regard to excise and non-property taxes, for any cause against the city or the board of education, to be sworn before the comptroller, any of the deputy comptrollers, or any officer or employee of the comptroller's office or of the law department designated in a written instrument by the comptroller and filed in the comptroller's office, touching such account or claim, and when so sworn, to answer orally as to any facts relative to the justness of such account or claim. Wilful false swearing before the comptroller, deputy comptroller or officer or employee designated to conduct such oral examination is perjury and punishable as such. In adjusting and settling such claims, the comptroller, as far as practicable, shall be governed by the rules of law and principles of equity which prevail in courts of justice. Claims against the city or against any of the counties contained within its territorial limits, or payable in the first instance from moneys in the city treasury for services rendered or work done or materials or supplies furnished, except:
@@ -207,7 +241,9 @@ b. Except as hereinbefore otherwise provided, all contracts with the city or any
 
 
 
-*§ 7-204 Settlement of claims. * ::
+
+
+*§ 7-204 Settlement of claims.* ::
 
 
 The commissioner of finance may require any person presenting for settlement a claim in relation to excise and non-property taxes against the city to be sworn before the commissioner of finance, any of the deputy commissioners of finance, or any officer or employee of the department of finance or of the law department designated in a written instrument by the commissioner of finance and filed in the office of the commissioner, touching such claim, and when so sworn, to answer orally as to any facts relative to the justness of such claim. Wilful false swearing before the commissioner of finance, any deputy commissioner or officer or employee designated to conduct such oral examination is perjury and punishable as such. In adjusting and settling such claims, the commissioner of finance, as far as practicable, shall be governed by the rules of law and principles of equity which prevail in courts of justice.
@@ -215,7 +251,9 @@ The commissioner of finance may require any person presenting for settlement a c
 
 
 
-*§ 7-205 Comptroller to audit charges against city for costs, etc. * ::
+
+
+*§ 7-205 Comptroller to audit charges against city for costs, etc.* ::
 
 
 The comptroller, with the approval of the mayor, is authorized to audit and allow, as charges against the city, the reasonable costs, counsel fees and expenses paid or incurred, or which shall hereafter be paid or incurred by any commissioner or any judge of the civil or criminal courts of the city of New York who shall have been a successful party in any proceeding or trial to remove him or her from office, or who shall bring or defend any action or proceeding, in which the question of his or her title to office is in any way presented or involved, or in which it is sought to convict him or her, or to review or prohibit any such removal or to obtain possession of his or her office, or by any commissioner for the proper presentation and justification of his or her official conduct before any body or tribunal lawfully investigating the same, and not officially recommending his or her removal from office.
@@ -223,7 +261,9 @@ The comptroller, with the approval of the mayor, is authorized to audit and allo
 
 
 
-*§ 7-206 Illegal claims; power of board of estimate to pay or compromise on equitable grounds. * ::
+
+
+*§ 7-206 Illegal claims; power of board of estimate to pay or compromise on equitable grounds.* ::
 
 
 The board of estimate may inquire into, hear and determine any claim against the city or any agency when the comptroller, or in the case of a claim against the board of education, the comptroller and the board of education, certifies in writing that such claim is illegal or invalid, but that it is equitable and proper that such claim be paid in whole or in part. If, upon such inquiry, the board of estimate, by a unanimous vote, determines that benefits have been received by the city or any agency and that public interests will best be served by payment or compromise thereof, it may authorize payment of such claim, and such claim shall thereupon be paid in such amount as the board shall determine to be just, in full satisfaction thereof, provided that the claimant shall execute a release, upon any such payment, in such form as shall be approved by the corporation counsel. The provisions of this section shall not authorize the audit or payment of any claim barred by the statute of limitations, nor any claim for services performed under an appointment in violation of any provision of the civil service law.
@@ -231,7 +271,9 @@ The board of estimate may inquire into, hear and determine any claim against the
 
 
 
-*§ 7-207 Payment of bonds upon which suit is barred by lapse of time. * ::
+
+
+*§ 7-207 Payment of bonds upon which suit is barred by lapse of time.* ::
 
 
 Notwithstanding any other provision of law, the comptroller shall pay the principal and interest upon bonds or other evidences of indebtedness issued by the city within twenty years after a cause of action has accrued on said bonds or other evidences of indebtedness issued by the city or interest thereon, suit upon which may be barred by the statute of limitations.
@@ -239,7 +281,9 @@ Notwithstanding any other provision of law, the comptroller shall pay the princi
 
 
 
-*§ 7-208 Claims for injuries caused by police while executing legal process or sustained by persons injured while assisting in the apprehension of a criminal. * ::
+
+
+*§ 7-208 Claims for injuries caused by police while executing legal process or sustained by persons injured while assisting in the apprehension of a criminal.* ::
 
 
 a. The board of estimate may inquire into, hear and determine any claim against the city wherein compensation is sought for the death of or injury to any person or persons:
@@ -253,7 +297,9 @@ b. The board, by a unanimous vote, as a matter of grace and not as a matter of r
 
 
 
-*§ 7-209 Issuance of execution. * ::
+
+
+*§ 7-209 Issuance of execution.* ::
 
 
 Before execution may be issued upon any judgment recovered against the city ten days' notice in writing of the recovery of such judgment shall be given to the comptroller.
@@ -261,7 +307,9 @@ Before execution may be issued upon any judgment recovered against the city ten 
 
 
 
-*§ 7-210 Liability of real property owner for failure to maintain sidewalk in a reasonably safe condition. * ::
+
+
+*§ 7-210 Liability of real property owner for failure to maintain sidewalk in a reasonably safe condition.* ::
 
 
 a. It shall be the duty of the owner of real property abutting any sidewalk, including, but not limited to, the intersection quadrant for corner property, to maintain such sidewalk in a reasonably safe condition.
@@ -275,7 +323,9 @@ d. Nothing in this section shall in any way affect the provisions of this chapte
 
 
 
-*§ 7-211 Personal injury and property damage liability insurance. * ::
+
+
+*§ 7-211 Personal injury and property damage liability insurance.* ::
 
 
 An owner of real property, other than a public corporation as defined in section sixty-six of the general construction law or a state or federal agency or instrumentality, to which subdivision b of section 7-210 of this code applies, shall be required to have a policy of personal injury and property damage liability insurance for such property for liability for any injury to property or personal injury, including death, proximately caused by the failure of such owner to maintain the sidewalk abutting such property in a reasonably safe condition. The city shall not be liable for any injury to property or personal injury, including death, as a result of the failure of an owner to comply with this section.
@@ -283,7 +333,9 @@ An owner of real property, other than a public corporation as defined in section
 
 
 
-*§ 7-212 Authority to make payments for personal injury, including death, where abutting property owner liable pursuant to section 7-210 is uninsured. * ::
+
+
+*§ 7-212 Authority to make payments for personal injury, including death, where abutting property owner liable pursuant to section 7-210 is uninsured.* ::
 
 
 a. Where a judgment for personal injury, including death, obtained against an abutting property owner pursuant to section 7-210 of this code is unsatisfied for a period of at least one year following entry of such judgment in the office of the county clerk of the county in which such property is situated and the judgment debtor has been determined by the comptroller after investigation to have no policy of liability insurance or other assets to satisfy such judgment, the comptroller, after consultation with the corporation counsel, is hereby authorized and empowered to make a payment for such personal injury, including death.
@@ -304,7 +356,9 @@ f. The comptroller shall, by rule, establish procedures for the presentation of 
 Chapter 3: Board of Statutory Consolidation
 --------------------------------------------------
 
-*§ 7-301 Board of statutory consolidation; powers and duties. * ::
+
+
+*§ 7-301 Board of statutory consolidation; powers and duties.* ::
 
 
 a. The board of statutory consolidation shall consist of the mayor, the comptroller, the public advocate and the corporation counsel. The board from among its members shall elect a chairperson, a vice-chairperson and a secretary. The members of such board shall serve as such members without compensation. The powers and duties of such board shall include the direction and control of the revision, simplification, consolidation, codification, restatement and annotation of the statutes, local laws, and departmental rules and regulations having the force of law affecting and relating to the government, affairs and property of the city and of the counties contained therein.
@@ -325,7 +379,9 @@ f. Nothing contained in section eleven hundred fifteen or in any other section o
 Chapter 4: Jurors
 --------------------------------------------------
 
-*§ 7-401 Jurors fees. * ::
+
+
+*§ 7-401 Jurors fees.* ::
 
 
 In pursuance of section five hundred twenty-one of the judiciary law, it is hereby directed that the sum of twelve dollars be allowed to each grand juror and each trial juror for each day's necessary attendance as such a juror at a term of any court of record of civil or criminal jurisdiction held within the city of New York; provided, however, that no such juror shall be so paid for attendance on any day on which the juror shall be excused from service at his or her own request.
@@ -333,7 +389,9 @@ In pursuance of section five hundred twenty-one of the judiciary law, it is here
 
 
 
-*§ 7-402 Fees to grand jurors. * ::
+
+
+*§ 7-402 Fees to grand jurors.* ::
 
 
 Pursuant to section five hundred twenty-one of the judiciary law, where the term of a grand jury is extended by an order of the court, the sum of twelve dollars shall be allowed to each grand juror for each day's necessary attendance by such grand juror during such extended term.
@@ -341,7 +399,9 @@ Pursuant to section five hundred twenty-one of the judiciary law, where the term
 
 
 
-*§ 7-403 Fees to grand jurors of extraordinary terms. * ::
+
+
+*§ 7-403 Fees to grand jurors of extraordinary terms.* ::
 
 
 Pursuant to section five hundred twenty-one of the judiciary law, where a grand jury has been, or will hereafter be, empaneled to serve at an extraordinary and trial term of the supreme court of this state in any county within the city of New York, and where the term of such a grand jury continues for a period longer than thirty days from the date when such grand jury was empaneled and sworn, the sum of twelve dollars shall be allowed to each member of such grand jury for each day's necessary attendance as a grand juror from and after the expiration of such thirty-day period and until such grand jury shall have been discharged by the court.
@@ -352,7 +412,9 @@ Pursuant to section five hundred twenty-one of the judiciary law, where a grand 
 Chapter 5: City Sheriff
 --------------------------------------------------
 
-*§ 7-501 Bond of sheriff. * ::
+
+
+*§ 7-501 Bond of sheriff.* ::
 
 
 a. Before entering upon the duties of office, the sheriff shall give a bond to the city and to whom it may concern in the sum of three hundred thousand dollars, with not less than three sufficient sureties, to be approved by the comptroller, conditioned that the sheriff shall well and faithfully in all things perform and execute the duties of the office of sheriff during his or her continuance in such office without fraud, deceit, or oppression, and that the sheriff shall in like manner well and faithfully account for all moneys received by him or her or his or her subordinates by virtue of the sheriff's office. Such bond shall be filed in the office of the comptroller.
@@ -362,7 +424,9 @@ b. In case of any official misconduct, default, mistake or omission of duty on t
 
 
 
-*§ 7-502 Seal. * ::
+
+
+*§ 7-502 Seal.* ::
 
 
 The sheriff is authorized to adopt a seal.
@@ -370,7 +434,9 @@ The sheriff is authorized to adopt a seal.
 
 
 
-*§ 7-503 Sheriff; accounting for fees. * ::
+
+
+*§ 7-503 Sheriff; accounting for fees.* ::
 
 
 The sheriff shall be paid a salary to be fixed by the mayor. All fees shall be the property of the city. All sums so received, except as otherwise provided by law, shall be deposited by the commissioner of finance, without deduction, in accordance with section fifteen hundred twenty-three of the charter.
@@ -378,7 +444,9 @@ The sheriff shall be paid a salary to be fixed by the mayor. All fees shall be t
 
 
 
-*§ 7-504 Statement of account to comptroller. * ::
+
+
+*§ 7-504 Statement of account to comptroller.* ::
 
 
 a. The sheriff, within ten days after the expiration of each calendar month, shall transmit to the comptroller a statement of the sheriff's accounts in such form as the comptroller shall prescribe.
@@ -390,7 +458,9 @@ c. The comptroller may examine under oath the sheriff or any of the sheriff's su
 
 
 
-*§ 7-505 Penalty for failure to account to comptroller. * ::
+
+
+*§ 7-505 Penalty for failure to account to comptroller.* ::
 
 
 If the sheriff or any of the sheriff's subordinates shall receive for their own use or neglect to account for any moneys belonging to the city, or if the sheriff shall neglect to render to the comptroller an account of the moneys which he or she has received or is entitled to receive in his or her official capacity or to pay over the same as herein required, or if the sheriff or any of the sheriff's subordinates shall make a false statement in such certified transcript and return or shall swear falsely upon an examination by the comptroller, the sheriff or any such subordinate shall be deemed guilty of a misdemeanor and punishable with a fine of not less than five hundred dollars nor exceeding five thousand dollars or imprisonment for a period of not less than three months nor exceeding five years, or both, at the discretion of the court before whom the sheriff or any such subordinate may be convicted. Such convicted officer or subordinate shall also forfeit any sum that may be due him or her on account of salary and shall be liable to the city in a civil action for all moneys so received and not accounted for and not paid over into the treasury of the city as required by law.
@@ -398,7 +468,9 @@ If the sheriff or any of the sheriff's subordinates shall receive for their own 
 
 
 
-*§ 7-506 Disposition of moneys collected. * ::
+
+
+*§ 7-506 Disposition of moneys collected.* ::
 
 
 All moneys collected by the sheriff or any of the sheriff's subordinates in any action or proceeding except fees authorized by law shall be paid to the party or parties to whom they are directed to be paid. When the sheriff is not so directed all such monies shall be deposited by the commissioner of finance in the court and trust fund accounts maintained by the commissioner of finance in accordance with applicable law. The money so deposited shall be withdrawn only on an order of the court on notice to the commissioner of finance and all parties who have appeared in the action or proceeding.
@@ -406,7 +478,9 @@ All moneys collected by the sheriff or any of the sheriff's subordinates in any 
 
 
 
-*§ 7-507 Sheriff's books and records. * ::
+
+
+*§ 7-507 Sheriff's books and records.* ::
 
 
 The sheriff shall keep in proper books or records, in such form as the comptroller shall prescribe, an exact account of all fees actually received by the sheriff or the sheriff's subordinates for any service done in their official capacity.
@@ -414,7 +488,9 @@ The sheriff shall keep in proper books or records, in such form as the comptroll
 
 
 
-*§ 7-508 Sheriff's sale. * ::
+
+
+*§ 7-508 Sheriff's sale.* ::
 
 
 a. Auctioneer; fees.
@@ -440,7 +516,9 @@ d. Whenever the sheriff deems it necessary, may require that the party directing
 
 
 
-*§ 7-509 Storage of property; payment. * ::
+
+
+*§ 7-509 Storage of property; payment.* ::
 
 
 The sheriff is authorized to store any goods or property for the safe keeping of which the sheriff may at any time be responsible, or to designate proper and competent persons to act as keepers or custodians of such goods or property, and to fix the salary of such keepers subject to review by a justice of the supreme court.
@@ -448,7 +526,9 @@ The sheriff is authorized to store any goods or property for the safe keeping of
 
 
 
-*§ 7-510 Inquiry for enforcement of judgments owed to the city. * ::
+
+
+*§ 7-510 Inquiry for enforcement of judgments owed to the city.* ::
 
 
 The sheriff shall be empowered to make an inquiry to determine whether a judgment debtor of the city has sufficient assets and property, including any debts owed to a judgment debtor, to pay the judgment. In connection with such an inquiry, the sheriff is authorized to issue subpoenas to compel the attendance of witnesses and the production of documents, to administer oaths and to examine such persons as he or she may deem necessary.
@@ -456,7 +536,9 @@ The sheriff shall be empowered to make an inquiry to determine whether a judgmen
 
 
 
-*§ 7-513 Counsel. [Repealed] * ::
+
+
+*§ 7-513 Counsel. [Repealed]* ::
 
 
 The term "fees", as used in this chapter, shall include all percentages, commissions, compensations, poundages, perquisites, and emoluments of any nature which the sheriff or any of the sheriff's subordinates may receive by virtue of their office.
@@ -464,7 +546,9 @@ The term "fees", as used in this chapter, shall include all percentages, commiss
 
 
 
-*§ 7-515 Additional hours. * ::
+
+
+*§ 7-515 Additional hours.* ::
 
 
 a. The sheriff's subordinates or employees may be ordered to serve during any additional hours as the proper performance of the duties of the office requires.
@@ -474,7 +558,9 @@ b. Whenever the last day on which any paper is required to be filed or delivered
 
 
 
-*§ 7-516 Construction clause. * ::
+
+
+*§ 7-516 Construction clause.* ::
 
 
 Any law, rule, regulation, contract or other document which refers or is applicable to the sheriff of any of the counties in the city shall refer to the office of the city sheriff in such county, except that any provision, in any law, rule, regulation, contract or other document relating to the custody and transportation of prisoners held for any cause in criminal proceedings in any county within the city, heretofore applicable to any sheriff of any of the counties within the city, shall apply to the department of correction.
@@ -485,7 +571,9 @@ Any law, rule, regulation, contract or other document which refers or is applica
 Chapter 6: City Register
 --------------------------------------------------
 
-*§ 7-601 Register; bond. * ::
+
+
+*§ 7-601 Register; bond.* ::
 
 
 a. The register, before entering upon the duties of office, shall give a bond to the city and to the people of the state of New York in the sum of eighty thousand dollars, with not less than two sufficient sureties to be approved by the comptroller, conditioned that the register will faithfully discharge the duties of such office and all trusts imposed upon him or her by law by virtue of the register's office, including all duties in connection with the tax on mortgages as prescribed by article eleven of the tax law. Such bond shall be filed in the office of the comptroller.
@@ -495,7 +583,9 @@ b. In case of any official misconduct, default, neglect or omission of duty on t
 
 
 
-*§ 7-602 Bond of deputies, assistants, clerks and other subordinate employees. * ::
+
+
+*§ 7-602 Bond of deputies, assistants, clerks and other subordinate employees.* ::
 
 
 The register shall require from any deputy, assistant, clerk, employee or other subordinate a bond in such sum and with such sureties as may be approved by him or her and the comptroller, which bond shall run to the register, the city and to whom it may concern, and shall be conditioned for the faithful performance of his or her duty. Each such bond shall be filed with the comptroller.
@@ -503,7 +593,9 @@ The register shall require from any deputy, assistant, clerk, employee or other 
 
 
 
-*§ 7-603 Seal. * ::
+
+
+*§ 7-603 Seal.* ::
 
 
 The register is authorized to adopt a seal.
@@ -511,7 +603,9 @@ The register is authorized to adopt a seal.
 
 
 
-*§ 7-604 Register; accounting for fees. * ::
+
+
+*§ 7-604 Register; accounting for fees.* ::
 
 
 a. The register shall be paid a salary to be fixed by the mayor. All fees shall be the property of the city. All sums so received shall be paid to the commissioner of finance monthly without deduction. The additional fee of twenty dollars for recording any instrument required by New York state statute to be recorded pursuant to subdivision one of section 7-614 of this code shall be used as follows: five dollars paid monthly by the commissioner of finance to the New York state commissioner of education, after deducting twenty-five cents, for deposit into the New York state local government records management improvement fund and fifteen dollars, after deducting seventy-five cents, for deposit to the cultural education account.
@@ -521,7 +615,9 @@ b. It shall be the duty of the register to keep an exact account of all fees whi
 
 
 
-*§ 7-605 Statement of account to comptroller. * ::
+
+
+*§ 7-605 Statement of account to comptroller.* ::
 
 
 A statement of such account, to be made in such form as shall be prescribed by the comptroller, shall be transmitted by the register for each calendar month, within ten days from the expiration thereof, to the comptroller, which shall be verified by the oath of the register, and which shall show all fees which the register or the register's subordinates or assistants shall be entitled to demand and receive from any person for any service rendered in their official capacity, by virtue of any law since making the last preceding return.
@@ -529,7 +625,9 @@ A statement of such account, to be made in such form as shall be prescribed by t
 
 
 
-*§ 7-606 Penalty for neglect to account. * ::
+
+
+*§ 7-606 Penalty for neglect to account.* ::
 
 
 The register or any subordinate who shall receive to their own use or neglect to account for any fees, declared to belong to and be for the benefit of the city, or who shall neglect to render to such comptroller an account of the fees accruing to the register's office, or to pay over the same as required herein, shall be deemed guilty of a misdemeanor, and punishable with a fine of not less than five hundred dollars nor exceeding five thousand dollars, or imprisonment for a period of not less than three months nor exceeding one year, or both, at the discretion of the court before whom such officer may be convicted, and in addition shall forfeit any sum that may be due to him or her on account of his or her salary and shall be liable to the city in a civil action for all moneys so received and not accounted for and paid over into the treasury of the city pursuant to the requirements of this chapter.
@@ -537,7 +635,9 @@ The register or any subordinate who shall receive to their own use or neglect to
 
 
 
-*§ 7-607 Real estate instruments to be recorded. * ::
+
+
+*§ 7-607 Real estate instruments to be recorded.* ::
 
 
 Every instrument affecting real estate or chattels real, situated in the counties within the city, shall be indexed pursuant to the provisions of this chapter.
@@ -545,7 +645,9 @@ Every instrument affecting real estate or chattels real, situated in the countie
 
 
 
-*§ 7-608 Microfilmed instruments; how indexed. * ::
+
+
+*§ 7-608 Microfilmed instruments; how indexed.* ::
 
 
 If recording is done by microphotography or other photographic processes, the words liber and page when used in this chapter shall be construed to mean the serial number of microfilmed instruments.
@@ -553,7 +655,9 @@ If recording is done by microphotography or other photographic processes, the wo
 
 
 
-*§ 7-614 Fees. * ::
+
+
+*§ 7-614 Fees.* ::
 
 
 The register, and the county clerk of the county of Richmond when acting as recording officer, are entitled, for services specified in this section, to the following fees, to be paid in advance:
@@ -585,7 +689,9 @@ The register, and the county clerk of the county of Richmond when acting as reco
 
 
 
-*§ 7-615 Corrections to be without erasures. * ::
+
+
+*§ 7-615 Corrections to be without erasures.* ::
 
 
 No entry in any book or index in the register's office or the office of the clerk of the county of Richmond shall be erased so as to be illegible, but in case of any correction the same shall be made without destroying the original entry by drawing a line through such original entry, and in all such cases the date of such correction attested by the signature of such register or county clerk or his or her assistant shall be entered upon the same page on which such correction is made, on the margin opposite such correction. Such correction shall only be made upon the production to the register or county clerk of the original instrument, or, when it is impossible to produce the original instrument, the register or the county clerk, however, may make any correction of the records in his or her office where it is obvious or apparent that an error has been made in recording or indexing any instrument.
@@ -593,7 +699,9 @@ No entry in any book or index in the register's office or the office of the cler
 
 
 
-*§ 7-616 Miscellaneous instruments. * ::
+
+
+*§ 7-616 Miscellaneous instruments.* ::
 
 
 The provisions of this chapter shall not apply to the indexing of general assignments, wills and powers of attorney. Such instruments shall be filed or recorded as now required by law, and when recorded such general assignments, wills and powers of attorney shall be indexed in separate alphabetical indices.
@@ -601,7 +709,9 @@ The provisions of this chapter shall not apply to the indexing of general assign
 
 
 
-*§ 7-617 Searches. * ::
+
+
+*§ 7-617 Searches.* ::
 
 
 a. The register, upon request, and upon payment of, or offer to pay, the fees allowed by law, shall diligently search the files, papers, records and dockets in the register's office, and either make one or more transcripts therefrom, and certify to the correctness thereof, and to the search, or certify that a document or paper, of which the custody legally belongs to the register cannot be found. It shall be the duty of the register to cause any and every written order or requisition directing a search to be made to be executed and complied with without delay. The city shall be liable for all damages and injuries resulting from errors, inaccuracies or mistakes in the register's return so certified by the register.
@@ -611,7 +721,9 @@ b. The register shall in all cases charge and collect for such search, in additi
 
 
 
-*§ 7-618 Chattel mortgages, etc., and renewals thereof to be indorsed. * ::
+
+
+*§ 7-618 Chattel mortgages, etc., and renewals thereof to be indorsed.* ::
 
 
 When a chattel mortgage or a conditional bill of sale or other instrument affecting chattels is presented for filing in the office of the register, it must be indorsed on the outside thereof with the names of the parties thereto, the amount of indebtedness and the location of the property affected by such instrument. Every renewal of any such instrument must, in addition to the aforesaid indorsements, be stamped or marked "renewal," and contain in the body thereof a reference to the serial number and the date of filing of the chattel mortgage or other instrument which it is desired to be continued for a further period, and the serial number and the date of filing of the latest previous renewal thereof, if any.
@@ -619,7 +731,9 @@ When a chattel mortgage or a conditional bill of sale or other instrument affect
 
 
 
-*§ 7-619 Destroying obsolete documents and records. * ::
+
+
+*§ 7-619 Destroying obsolete documents and records.* ::
 
 
 The register is authorized to destroy any or all chattel mortgages, chattel mortgage indices, certificates of stockholders' consent to the execution of mortgages of chattels, bills of sale, conditional bills of sale affecting real property or other filed instruments affecting chattels, on file in the register's office after the expiration of five years from the date of filing, and any daily index or tickler more than two years old and which has been replaced by permanent block and alphabetical indices as provided for in this chapter, and all surplus copies of land maps of any of the counties of the city more than ten years old, which have not been disposed of by sale or otherwise.
@@ -627,7 +741,9 @@ The register is authorized to destroy any or all chattel mortgages, chattel mort
 
 
 
-*§ 7-620 Preserving and copying records. * ::
+
+
+*§ 7-620 Preserving and copying records.* ::
 
 
 Whenever by reason of age, exposure or any casualty, any public records, maps or papers in the custody of the register shall become mutilated, obliterated or rendered unfit for public service, it shall be the duty of the register to cause copies thereof to be made and certified for public use, and such copies when so made shall for all purposes take the place of the original records.
@@ -635,7 +751,9 @@ Whenever by reason of age, exposure or any casualty, any public records, maps or
 
 
 
-*§ 7-621 Construction and application of this chapter. * ::
+
+
+*§ 7-621 Construction and application of this chapter.* ::
 
 
 This chapter shall not be construed to repeal or modify the provisions of the real property law in relation to the recording of instruments, and of registering titles to real property; nor of the lien law respecting chattel mortgages; nor of the personal property law in relation to contracts for the conditional sale of goods and chattels; nor of the tax law regarding the taxation of mortgages.
@@ -643,7 +761,9 @@ This chapter shall not be construed to repeal or modify the provisions of the re
 
 
 
-*§ 7-622 Indices to be public records. * ::
+
+
+*§ 7-622 Indices to be public records.* ::
 
 
 Upon the completion of the indexing and reindexing directed by this chapter as to any instruments or liens herein mentioned, the same shall be deposited in the same office in which the respective instruments or liens are required to be kept, or such other place as shall be provided for them, for public use, and the same shall thereupon be public records.
@@ -651,7 +771,9 @@ Upon the completion of the indexing and reindexing directed by this chapter as t
 
 
 
-*§ 7-623 Business hours. * ::
+
+
+*§ 7-623 Business hours.* ::
 
 
 a. The office of the register shall remain open for the transaction of business every day in the year, except Saturdays, Sundays and holidays, from nine o'clock in the forenoon to four o'clock in the afternoon and except during the months of July and August when it shall remain open for the transaction of business from nine o'clock in the forenoon until two o'clock in the afternoon except Saturdays, Sundays and holidays. The register may order any of the register's subordinates or employees to serve during such additional hours as the proper performance of the duties of the office requires.
@@ -661,7 +783,9 @@ b. Whenever the last day on which any paper is required to be filed or delivered
 
 
 
-*§ 7-624 Construction clause. * ::
+
+
+*§ 7-624 Construction clause.* ::
 
 
 Any law, rule, regulation, contract, or other document which refers or is applicable to the register, register of deeds or registrar of any of the counties within the city shall refer to the city register.
@@ -669,7 +793,9 @@ Any law, rule, regulation, contract, or other document which refers or is applic
 
 
 
-*§ 7-625 Block indexing after July first, nineteen hundred sixty-four. * ::
+
+
+*§ 7-625 Block indexing after July first, nineteen hundred sixty-four.* ::
 
 
 a. Tax maps; block boundaries, block number designations. On and after July first, nineteen hundred sixty-four, the tax maps for the boroughs of Manhattan, Bronx, Brooklyn and Queens shall be substituted for the land maps theretofore in use for the counties of New York, Bronx, Kings and Queens and such tax maps shall be conclusive as to location of block boundaries and block number designations.
@@ -723,7 +849,9 @@ g. Miscellaneous instruments. On and after July first, nineteen hundred sixty-th
 
 
 
-*§ 7-626 Block indexing after July first, nineteen hundred eighty-one in Richmond county. * ::
+
+
+*§ 7-626 Block indexing after July first, nineteen hundred eighty-one in Richmond county.* ::
 
 
 a. Tax maps; block boundaries, block number designations. On and after July first, nineteen hundred eighty-one, the tax map for the borough of Staten Island shall be substituted for the land map theretofore in use for the county of Richmond and such tax map shall be conclusive as to location of block boundaries and block number designations.
@@ -777,10 +905,14 @@ g. Miscellaneous instruments. On and after July first, nineteen hundred eighty-o
 
 
 
-*§ 7-627 Alphabetical indices. * ::
+
+
+*§ 7-627 Alphabetical indices.* ::
 
 
 Notwithstanding the provisions of any general, special or local law, the register may adopt a form of consolidated alphabetical index book for any one or all of the counties of New York, Bronx, Kings and Queens, in which shall be entered the names of the parties to conveyances and mortgages.
+
+
 
 
 
@@ -833,7 +965,9 @@ Chapter 7: Nuisance Abatement Law
 
 **Subchapter 1: [Public Nuisance Defined]**
 
-*§ 7-701 Legislative declaration. * ::
+
+
+*§ 7-701 Legislative declaration.* ::
 
 
 The council of the city of New York finds that public nuisances exist in the city in flagrant violation of the building code, zoning resolution, health laws, multiple dwelling law, penal laws regulating prostitution and related conduct, licensing laws, laws relating to the sale and consumption of alcoholic beverages, laws relating to gambling, controlled substances and dangerous drugs and penal laws relating to the possession of stolen property, all of which interfere with the quality of life, property values and the public health, safety, and welfare; the council further finds that the continued occurrence of such activities and violations is detrimental to the health, safety, and welfare of the people of the city and of the businesses thereof and visitors thereto. It is the purpose of the council to create one standardized procedure for securing legal and equitable remedies relating to the subject matter encompassed by this law, without prejudice to the use of procedures available under existing and subsequently enacted laws, and to strengthen existing laws on the subject.
@@ -843,7 +977,9 @@ The council of the city of New York finds that public nuisances exist in the cit
 
 
 
-*§ 7-702 Short Title. * ::
+
+
+*§ 7-702 Short Title.* ::
 
 
 This chapter shall be known as the "nuisance abatement law".
@@ -851,7 +987,9 @@ This chapter shall be known as the "nuisance abatement law".
 
 
 
-*§ 7-703 Public nuisance defined. * ::
+
+
+*§ 7-703 Public nuisance defined.* ::
 
 
 The following are declared to be public nuisances:
@@ -897,7 +1035,9 @@ The following are declared to be public nuisances:
 
 
 
-*§ 7-704 Remedies. * ::
+
+
+*§ 7-704 Remedies.* ::
 
 
 (a) The corporation counsel shall bring and maintain a civil proceeding in the name of the city in the supreme court of the county in which the building, erection or place is located to permanently enjoin the public nuisances, defined in subdivisions (a), (d), (e), (f), (g), (h), (k), (l), (m), (n), and (r) of section 7-703, in the manner provided in subchapter two of this chapter.
@@ -912,7 +1052,9 @@ The following are declared to be public nuisances:
 
 **Subchapter 2: [Remedies For Public Nuisances Generally; Permanent Injunction]**
 
-*§ 7-705 Applicability. * ::
+
+
+*§ 7-705 Applicability.* ::
 
 
 This subchapter shall be applicable to the public nuisances defined in subdivisions (a), (d), (e), (f), (g), (h), (k), (l), (m), (n) and (r) of section 7-703.
@@ -922,7 +1064,9 @@ This subchapter shall be applicable to the public nuisances defined in subdivisi
 
 
 
-*§ 7-706 Action for permanent injunction. * ::
+
+
+*§ 7-706 Action for permanent injunction.* ::
 
 
 (a) Generally. Upon the direction of the mayor, or at the request of the head of a department or agency of the city, or at the request of a district attorney of any county within the city, or at the request of a member of the city council with respect to the public nuisances defined in subdivisions (a), (g), and (h) of section 7-703, or upon his or her own initiative, the corporation counsel may bring and maintain a civil proceeding in the name of the city in the supreme court to permanently enjoin a public nuisance within the scope of this subchapter, and the person or persons conducting, maintaining or permitting the public nuisance from further conducting, maintaining or permitting the public nuisance. The corporation counsel shall ensure that records sealed pursuant to the criminal procedure law are not used in any action filed pursuant to this section. The owner, lessor and lessee of a building, erection or place wherein the public nuisance as being conducted, maintained or permitted shall be made defendants in the action. The venue of such action shall be in the county where the public nuisance is being conducted, maintained or permitted. The existence of an adequate remedy at law shall not prevent the granting of temporary or permanent relief pursuant to this subchapter.
@@ -952,6 +1096,8 @@ This subchapter shall be applicable to the public nuisances defined in subdivisi
 
 
 
+
+
 *§ 7-707 Preliminary injunction.* ::
 
 
@@ -966,10 +1112,14 @@ This subchapter shall be applicable to the public nuisances defined in subdivisi
 
 
 
+
+
 *§ 7-708 Motion papers for preliminary injunction.* ::
 
 
 The corporation counsel shall show, by affidavit and such other evidence as may be submitted, that there is a cause of action for a permanent injunction abating a public nuisance within the scope of this subchapter; provided that, for an allegation of any public nuisance defined in subdivision (g) of section 7-703 for a violation of article 220 or 221 of the penal law, such other evidence shall include laboratory reports or similar objective indicia of the presence of a controlled substance or marihuana.
+
+
 
 
 
@@ -988,12 +1138,16 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 
 
+
+
 *§ 7-710 Temporary restraining order.* ::
 
 
 (a) Generally. If, on a motion for a preliminary injunction pursuant to section 7-707 alleging a public nuisance as defined in subdivision (a), (d), or (k) of section 7-703, or a public nuisance as defined in subdivision (e) of section 7-703 in a building, erection or place used for commercial purposes in which there is a significant risk of imminent physical harm to a natural person or persons, or a public nuisance as defined in subdivision (h) of section 7-703 in a building, erection or place operating without a license or with a license permitting the sale of liquor under the alcoholic beverage control law, the corporation counsel shall show by clear and convincing evidence that such public nuisance is being conducted, maintained or permitted and that the public health, safety or welfare immediately requires a temporary restraining order, such temporary restraining order may be granted without notice restraining the defendants and all persons from removing or in any manner interfering with the furniture, fixtures and movable property used in conducting, maintaining or permitting such public nuisance and from further conducting, maintaining or permitting such public nuisance, pending order of the court granting or refusing the preliminary injunction and until further order of the court. Upon granting a temporary restraining order, the court shall direct the holding of a hearing for the preliminary injunction at the earliest possible time but in no event later than three business days from the granting of such order; a decision on the motion for a preliminary injunction shall be rendered by the court within three business days after the conclusion of the hearing.
 
 (b) Service of temporary restraining order. Unless the court orders otherwise, a temporary restraining order and the papers upon which it was based and a notice of hearing for the preliminary injunction shall be personally served, in the same manner as a summons as provided in the civil practice law and rules.
+
+
 
 
 
@@ -1018,7 +1172,9 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 
 
-*§ 7-712 Temporary closing order; temporary restraining order; defendant's remedies. * ::
+
+
+*§ 7-712 Temporary closing order; temporary restraining order; defendant's remedies.* ::
 
 
 (a) A temporary closing order or a temporary restraining order shall be vacated, upon notice to the corporation counsel, if the defendant shows by affidavit and such other proof as may be submitted that the public nuisance within the scope of this subchapter has been abated. An order vacating a temporary closing order or a temporary restraining order shall include a provision authorizing agencies of the city to inspect the building, erection or place which is the subject of an action pursuant to this chapter, periodically without notice, during the pendency of the action for the purpose of ascertaining whether or not the public nuisance has been resumed. Intentional disobedience of or resistance to an inspection provision of an order vacating a temporary closing order or a temporary restraining order, in addition to any other punishment prescribed by law, shall be punishable, on conviction, by a fine of not more than five hundred dollars or by imprisonment not exceeding six months, or by both. The police department shall, upon the request of the agency involved or upon the direction of the mayor, assist in the enforcement of an inspection provision of an order vacating a temporary closing order or temporary restraining order.
@@ -1028,7 +1184,9 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 
 
-*§ 7-713 Temporary receiver. * ::
+
+
+*§ 7-713 Temporary receiver.* ::
 
 
 (a) Appointment, duration and removal. In any action wherein the complaint alleges that the nuisance is being conducted or maintained in the residential portions of any building or structure or portion thereof which are occupied in whole or in part as the home, residence or sleeping place of one or more human beings, the court may, upon motion on notice by the plaintiff, appoint a temporary receiver to manage and operate the property during the pendency of the action in lieu of a temporary closing order. A temporary receivership shall not continue after final judgment unless otherwise directed by the court. Upon the motion of any party, including the temporary receiver, or on its own initiative, the appointing court may remove a temporary receiver at any time.
@@ -1044,7 +1202,9 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 
 
-*§ 7-714 Permanent injunction. * ::
+
+
+*§ 7-714 Permanent injunction.* ::
 
 
 (a) A judgment awarding a permanent injunction pursuant to this subchapter may direct the sheriff to seize and remove from the building, erection or place all material, equipment and instrumentalities used in the creation and maintenance of the public nuisance and shall direct the sale by the sheriff of such property in the manner provided for the sale of personal property under execution pursuant to the provisions of the civil practice law and rules. The net proceeds of any such sale, after deduction of the lawful expenses involved, shall be paid into the general fund of the city.
@@ -1067,7 +1227,9 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 **Subchapter 3: [Remedies For Promotion of Obscene Material; Seizure and Civil Penalty]**
 
-*§ 7-715 Applicability. * ::
+
+
+*§ 7-715 Applicability.* ::
 
 
 This subchapter shall be applicable to public nuisances defined in subdivisions (b) and (c) of section 7-703 of this chapter.
@@ -1075,7 +1237,9 @@ This subchapter shall be applicable to public nuisances defined in subdivisions 
 
 
 
-*§ 7-716 Action for civil penalty. * ::
+
+
+*§ 7-716 Action for civil penalty.* ::
 
 
 (a) Generally. Upon the direction of the mayor, or at the request of the head of a department or agency of the city, or at the request of a district attorney of any county within the city, or at the request of a member of the city council with respect to the public nuisances defined in subdivisions (a), (b), (c), (g) and (h) of section 7-703 of this chapter, or upon his or her own initiative, the corporation counsel may bring and maintain a civil proceeding in the name of the city in the supreme court to recover a civil penalty against any person conducting, maintaining or permitting a public nuisance within the scope of this subchapter. The amount of any civil penalty awarded in a judgment entered pursuant to this subchapter shall be in an amount of one thousand dollars for each day the public nuisance has been conducted, maintained or permitted. Upon recovery, such penalty shall be paid into the general fund of the city. The venue of such action shall be in the county wherein the public nuisance is being conducted, maintained or permitted.
@@ -1087,7 +1251,9 @@ This subchapter shall be applicable to public nuisances defined in subdivisions 
 
 
 
-*§ 7-717 Preliminary injunction. * ::
+
+
+*§ 7-717 Preliminary injunction.* ::
 
 
 (a) Generally. Pending an action pursuant to section 7-716 of this subchapter, the court may grant a preliminary injunction enjoining a defendant from making a bulk transfer, as defined in subdivision (b) of this section. An order granting a preliminary injunction shall direct a trial of the issues within three business days after joinder of issue or, if issue has already been joined, within three business days after entry of the order. Where a preliminary injunction has been granted the court shall render a decision with respect to the final determination of the action within three business days after the conclusion of the trial. A temporary restraining order may be granted pending a hearing for a preliminary injunction where it appears by clear and convincing evidence that a public nuisance within the scope of this subchapter is being conducted, maintained or permitted. The existence of an adequate remedy at law shall not prevent the granting of a temporary injunction or a temporary restraining order pursuant to this subchapter.
@@ -1101,7 +1267,9 @@ This subchapter shall be applicable to public nuisances defined in subdivisions 
 
 
 
-*§ 7-718 Motion papers for preliminary injunction. * ::
+
+
+*§ 7-718 Motion papers for preliminary injunction.* ::
 
 
 The corporation counsel shall show, by affidavit and such other evidence as may be submitted, that there is a cause of action for a civil penalty within the scope of this subchapter.
@@ -1109,7 +1277,9 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 
 
-*§ 7-719 Temporary restraining order. * ::
+
+
+*§ 7-719 Temporary restraining order.* ::
 
 
 (a) Generally. If, on a motion for a preliminary injunction pursuant to section 7-717 of this subchapter, the corporation counsel shall show by clear and convincing evidence that a public nuisance within the scope of this subchapter is being conducted, maintained or permitted, a temporary restraining order may be granted without notice restraining the defendants and all persons from making or permitting a "bulk transfer" as defined in subdivision (b) of section 7-717, pending order of the court granting or refusing the preliminary injunction and until further order of the court. Upon granting a temporary restraining order, the court shall direct the holding of a hearing for a preliminary injunction at the earliest possible time but in no event later than three business days from the granting of such order; a decision on the motion for a preliminary injunction shall be rendered by the court within three business days after the conclusion of the hearing.
@@ -1123,7 +1293,9 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 
 
-*§ 7-720 Vacating a temporary injunction or a temporary restraining order. * ::
+
+
+*§ 7-720 Vacating a temporary injunction or a temporary restraining order.* ::
 
 
 When the defendant gives an undertaking in the amount of the civil penalty demanded in the complaint together with costs, disbursements and the projected actual costs of the prosecution of the action to be determined by the court, upon a motion on notice to the corporation counsel, a temporary injunction or a temporary restraining order shall be vacated by the court. The provisions of the civil practice law and rules governing undertakings shall be applicable to this subchapter.
@@ -1131,7 +1303,9 @@ When the defendant gives an undertaking in the amount of the civil penalty deman
 
 
 
-*§ 7-721 Judgment. * ::
+
+
+*§ 7-721 Judgment.* ::
 
 
 (a) Seizure and destruction of obscene material. A judgment awarding a civil penalty pursuant to this subchapter shall direct the sheriff to seize and remove from the building, erection or place and to forthwith destroy all material found by the court or jury to be obscene as defined in section 235.00 of the penal law.
@@ -1141,7 +1315,9 @@ When the defendant gives an undertaking in the amount of the civil penalty deman
 
 
 
-*§ 7-722 Chapter not exclusive remedy. * ::
+
+
+*§ 7-722 Chapter not exclusive remedy.* ::
 
 
 This chapter shall not be construed to exclude any other remedy provided by law for the protection of the health, safety and welfare of the people of the city of New York.
@@ -1152,10 +1328,14 @@ This chapter shall not be construed to exclude any other remedy provided by law 
 
 **Subchapter 4: Authorized Dispositions and Orders**
 
+
+
 *§ 7-723 Limitations on exclusions of natural persons.* ::
 
 
 No disposition reached or order issued pursuant to an action brought under this chapter in relation to a public nuisance may exclude any natural person from any property for more than one year, unless the corporation counsel can demonstrate through clear and convincing evidence that unique circumstances exist such that a greater period of exclusion is required to abate the applicable public nuisance. In no case shall such period of exclusion exceed three years.
+
+
 
 
 
@@ -1172,10 +1352,14 @@ The purpose of a disposition reached pursuant to an action bought under this cha
 
 
 
+
+
 *§ 7-725 Business owner awareness.* ::
 
 
 No disposition reached or order issued pursuant to an action brought under this chapter shall permit the closure of any business where the owner or proprietor of such business was not aware of, should not have been aware of, and had no reason or duty to be aware of the public nuisance addressed by such disposition or order. An owner or proprietor’s physical absence from a business shall not alone establish that such owner or proprietor was not aware of, should not have been aware of, and had no reason or duty to be aware of such public nuisance.
+
+
 
 
 
@@ -1192,10 +1376,14 @@ No disposition reached or order issued pursuant to an action brought under this 
 
 
 
+
+
 *§ 7-727 Limitations on applicability.* ::
 
 
 Nothing in this subchapter shall be construed to relieve an owner of a building from responsibilities pursuant to section 28-301.1 of chapter 3 of title 28 of the code.
+
+
 
 
 
@@ -1212,10 +1400,14 @@ Any action for a permanent injunction brought under this chapter against a natur
 
 
 
+
+
 *§ 7-729 Duplicate fines for public nuisances involving alcohol.* ::
 
 
 To the extent practicable, fines imposed or expected to be imposed by the state liquor authority shall be taken into consideration in evaluating whether a disposition reached in an action brought under this chapter poses an excess burden on the defendant, pursuant to section 7-724.
+
+
 
 
 
@@ -1235,7 +1427,9 @@ No disposition reached or order issued pursuant to an action brought under this 
 Chapter 8: New York City False Claims Act
 --------------------------------------------------
 
-*§ 7-801 Short title. * ::
+
+
+*§ 7-801 Short title.* ::
 
 
 This chapter shall be known as the "New York city false claims act."
@@ -1243,7 +1437,9 @@ This chapter shall be known as the "New York city false claims act."
 
 
 
-*§ 7-802 Definitions. * ::
+
+
+*§ 7-802 Definitions.* ::
 
 
 For purposes of this chapter, the following terms shall mean:
@@ -1267,7 +1463,9 @@ For purposes of this chapter, the following terms shall mean:
 
 
 
-*§ 7-803 False claims. * ::
+
+
+*§ 7-803 False claims.* ::
 
 
 a. Any person who:
@@ -1297,7 +1495,9 @@ b. A person who violates this section shall also be liable for the costs, expens
 
 
 
-*§ 7-804 Civil actions for false claims. * ::
+
+
+*§ 7-804 Civil actions for false claims.* ::
 
 
 a. If the corporation counsel finds that a person has violated or is violating the provisions of section 7-803 of this chapter, he or she may institute a civil enforcement action against that person in any court of competent jurisdiction. b.
@@ -1403,7 +1603,9 @@ k. The city shall not be liable for any expenses, attorneys' fees or costs that 
 
 
 
-*§ 7-805 Remedies of employees. * ::
+
+
+*§ 7-805 Remedies of employees.* ::
 
 
 a. (1) Any officer or employee of the city of New York who believes that he or she has been the subject of an adverse personnel action, as such term is defined in paragraph one of subdivision a of section 12-113 of the administrative code of the city of New York; or
@@ -1427,7 +1629,9 @@ b. An employee described in subdivision a of this section may bring an action in
 
 
 
-*§ 7-806 Limitation of actions; burden of proof. * ::
+
+
+*§ 7-806 Limitation of actions; burden of proof.* ::
 
 
 a. A civil enforcement action shall be commenced no later than the latest following date: (i) six years after the date on which the violation of section 7-803 is committed, or (ii) three years after the date when facts material to the right of action are known or reasonably should have been known by the corporation counsel or the department of investigation, not to exceed ten years after the date on which the violation is committed.
@@ -1437,7 +1641,9 @@ b. In any civil enforcement action, all essential elements of the cause of actio
 
 
 
-*§ 7-807 Other law enforcement authority and duties. * ::
+
+
+*§ 7-807 Other law enforcement authority and duties.* ::
 
 
 This chapter shall not be construed as:
@@ -1453,7 +1659,9 @@ This chapter shall not be construed as:
 
 
 
-*§ 7-808 Annual report. * ::
+
+
+*§ 7-808 Annual report.* ::
 
 
 Not later than March first of each year following the year of enactment, the corporation counsel shall transmit to the mayor and the speaker of the council a report setting forth, with respect to the prior calendar year, the following information:
@@ -1481,7 +1689,9 @@ Not later than March first of each year following the year of enactment, the cor
 
 
 
-*§ 7-809 Comptroller. * ::
+
+
+*§ 7-809 Comptroller.* ::
 
 
 Nothing in the local law that added this chapter is intended to modify, supersede or in any way diminish the powers granted to the comptroller pursuant to section ninety-three of the charter to settle and adjust all claims for the city.
@@ -1489,7 +1699,9 @@ Nothing in the local law that added this chapter is intended to modify, supersed
 
 
 
-*§ 7-810 Regulations. * ::
+
+
+*§ 7-810 Regulations.* ::
 
 
 The corporation counsel and the commissioner of investigation shall promulgate such rules as are necessary to effectuate the purposes of this chapter.
@@ -1500,7 +1712,9 @@ The corporation counsel and the commissioner of investigation shall promulgate s
 Chapter 9: Public Administrators
 --------------------------------------------------
 
-*§ 7-901 Compensation. * ::
+
+
+*§ 7-901 Compensation.* ::
 
 
 The public administrators of the counties within the city shall receive as compensation ninety percent of the amount paid to the judges of the surrogate's court of the counties within the city.

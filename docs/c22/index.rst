@@ -4,7 +4,9 @@ Title 21: Social Services
 Chapter 1: Department of Social Services
 --------------------------------------------------
 
-*§ 21-101 Definitions. * ::
+
+
+*§ 21-101 Definitions.* ::
 
 
 Whenever used in this chapter the following words shall have the following meanings:
@@ -18,7 +20,9 @@ c. "Institution" shall include any charitable corporation, one of the objects of
 
 
 
-*§ 21-102 Powers of commissioner as to destitute children. * ::
+
+
+*§ 21-102 Powers of commissioner as to destitute children.* ::
 
 
 The commissioner shall have power to commit, place out, discharge, or transfer any child who may be in his or her custody, or who may have been placed by him or her in an institution as a public charge, whenever in his or her judgment it shall be for the best interests of such child so to do. In placing out such children, the commissioner may assign one or more of his or her subordinates to make the necessary investigations. He or she may employ any duly incorporated charitable institution or society and may reimburse such institution or society for any expenses, other than salaries, actually incurred in the placing out, supervision, and transfer, if necessary, of children who are public charges. An institution to which a child has been committed, as in this section provided, shall have the authority to place such child in a family, or consent to his or her adoption.
@@ -26,7 +30,9 @@ The commissioner shall have power to commit, place out, discharge, or transfer a
 
 
 
-*§ 21-103 Limitations on powers of commissioner as to destitute children. * ::
+
+
+*§ 21-103 Limitations on powers of commissioner as to destitute children.* ::
 
 
 In placing out, transferring or committing any such child, the commissioner, or any institution or society employed by the commissioner, when practicable, shall place out the child with an individual of the same religious faith as the parents of the child, or transfer or commit the child to an institution governed by persons of the same religious faith as the parents of the child. The commissioner shall commit such child only to an institution which the state board of social welfare has certified as having complied with the rules and regulations as established by such board for such institutions, pursuant to section one of article eight of the state constitution. The commissioner may commit such child to an institution situated without the city only if such board has also certified that such institution is properly protected against fire and other dangers.
@@ -34,7 +40,9 @@ In placing out, transferring or committing any such child, the commissioner, or 
 
 
 
-*§ 21-104 Term of commitment of children; discharge. * ::
+
+
+*§ 21-104 Term of commitment of children; discharge.* ::
 
 
 a. The term of commitment of each destitute and neglected child shall be:
@@ -50,7 +58,9 @@ b. The commissioner, may, however, provide care in an institution, agency boardi
 
 
 
-*§ 21-105 Reports and records of institutions. * ::
+
+
+*§ 21-105 Reports and records of institutions.* ::
 
 
 Each such institution caring for destitute and neglected children shall file with the commissioner at the end of every three months a list containing both the names of all the children received or discharged during the month, and the names and residence of the parents and guardians of such children so far as known. Each such institution shall keep a book in which it shall cause to be entered the name and address of each parent, relative or other person visiting an inmate of such institution who is in whole or in part a charge upon the city, and such name and address shall be entered upon the occasion of each visit by any such person.
@@ -58,7 +68,9 @@ Each such institution caring for destitute and neglected children shall file wit
 
 
 
-*§ 21-106 Payments to private institutions. * ::
+
+
+*§ 21-106 Payments to private institutions.* ::
 
 
 Payments shall not be made by the city to any charitable, eleemosynary or reformatory institutions wholly or partly under private control, for the care, support, secular education or maintenance of any destitute, neglected or delinquent child therein, except upon the certificate of the commissioner that such child has been received and is retained by such institution pursuant to the rules and regulations established by the state board of social welfare. Moneys paid by the city to any such institution for the care, support, secular education or maintenance of its inmates shall not be expended for any other purpose. Whenever the commissioner shall decide, after reasonable notice to such institution and a hearing, that any such child who is received and retained in such institution is not a proper charge against the public, and written notice of such decision is given by the commissioner to such institution, thereupon all right on the part of such institution to receive compensation from the city for the further retention of the child shall cease. The commissioner shall file in the office of the department a statement of the reasons for his or her decision and of the facts upon which it is founded, and shall furnish a copy to such institution where the child is detained. The commissioner's decision may be reviewed on certiorari by the supreme court. No money shall be paid out of any appropriation to any charitable, eleemosynary or reformatory institution which shall deny or limit admission to any destitute, neglected or delinquent children duly committed by the commissioner or a court of appropriate jurisdiction, because of the race, color or religion of such children, provided, however, that no institution of a particular religious faith shall be required to accept children adhering to a religious faith other than its own. The commission on foster care of children shall have the power and continuing duty to investigate and determine, upon complaint made and shall have the power on its own initiative to investigate and determine whether any institution is practicing discrimination in violation of the provisions of the preceding paragraph. The commission may direct that such investigation shall be conducted by one or more of its members or by its secretary or assistant secretary. Whenever in the judgment of the commission, such investigation discloses that there is reason to believe that an institution is practicing discrimination, the commission shall cause a hearing to be held before the commission or before two or more of its members, as it may direct, upon reasonable notice to such institution. The commission shall dismiss the proceedings if it finds upon the basis of such hearing, that such institution is not practicing discrimination. In the event the commission shall find on the basis of such hearing, that such institution is practicing discrimination, it shall certify to the commissioner its findings of fact, together with its determination of the period of time, not to exceed one year, within which the institution shall be permitted to amend its practices and comply with said provisions. The commissioner shall thereupon serve notice of such certification on such institution. All right on the part of such institution to receive moneys from the city shall cease upon the date specified in said certification unless, prior to the expiration thereof, such institution shall have submitted to the commission proof that it has ceased to engage in said violations and the commission shall have found and certified to the commissioner that said institution has complied with said provisions. The institution shall not be deprived of payments for services rendered prior to the date specified in the certification. The determination of the commission that an institution is practicing discrimination, or having been ordered to cease said discrimination has failed to cease, may be reviewed by the supreme court, which may, for good cause shown, during the pendency of such review, stay the termination of the right of such institution to receive moneys from the city. The commission, or any of its members authorized by it to conduct a hearing, may, at any such hearing, compel the attendance of witnesses, administer oaths, take the testimony of any person under oath and require the production of any evidence relating to the matter in question at the hearing. The department and the corporation counsel are authorized upon request by the commission, to make members of their respective staffs available, upon a temporary basis, to the commission, to assist it in conducting the investigations and hearings provided by this section.
@@ -66,7 +78,9 @@ Payments shall not be made by the city to any charitable, eleemosynary or reform
 
 
 
-*§ 21-107 Power of commissioner as to removal of destitute persons. * ::
+
+
+*§ 21-107 Power of commissioner as to removal of destitute persons.* ::
 
 
 The commissioner shall have power to pay for the cost of the removal or transportation of any person who may come under the commissioner's charge whenever in his or her judgment the city will thereby be relieved from an unnecessary or improper charge.
@@ -74,7 +88,9 @@ The commissioner shall have power to pay for the cost of the removal or transpor
 
 
 
-*§ 21-108 Support of poor persons by relatives. * ::
+
+
+*§ 21-108 Support of poor persons by relatives.* ::
 
 
 a. The spouse or parent of a recipient of public assistance or care or of a person liable to become in need thereof shall, if of sufficient ability, be responsible for the support of such person, provided that a parent shall be responsible only for the support of his or her minor child. Step-parents shall in a like manner be responsible for the support of minor step-children.
@@ -88,7 +104,9 @@ d. Instead of bringing legal proceedings as in this section specified, the commi
 
 
 
-*§ 21-109 Recovery from recipient who has property or other means. * ::
+
+
+*§ 21-109 Recovery from recipient who has property or other means.* ::
 
 
 a. If it shall at any time be ascertained that any person, who has received support or care or treatment from the city through the commissioner, has real or personal property or other means of enabling him or her to reimburse the city, an action may be maintained in a court of competent jurisdiction, by such commissioner, against such person or his or her estate to recover such sums of money as may have been expended by the city through such commissioner in the support or care or treatment of such person during the period of ten years next preceding such discovery or the death of such person.
@@ -98,7 +116,9 @@ b. Instead of bringing the legal proceedings as in this section specified, such 
 
 
 
-*§ 21-110 Potter's field. * ::
+
+
+*§ 21-110 Potter's field.* ::
 
 
 The commissioner shall have charge of the Potter's Fields, and when the necessity therefor shall arise, shall have power to lay out additional Potter's Fields or other public burial places for the poor and strangers and from time to time enclose and extend the same to make enclosures therein and to build vaults therein, and to provide all necessary labor and for interments therein. The Potter's Field on Hart's island, however, shall remain under the control of the department of correction, and the burial of deceased paupers therein shall continue under rules and regulations established by the joint action of the departments of social services and correction, or in case of disagreement between such departments, under such regulations as may be established by the mayor.
@@ -106,7 +126,9 @@ The commissioner shall have charge of the Potter's Fields, and when the necessit
 
 
 
-*§ 21-111 Soliciting of contributions in public. * ::
+
+
+*§ 21-111 Soliciting of contributions in public.* ::
 
 
 a. It shall be unlawful for any person, organization, society, association or corporation or their agents or representatives to solicit money, donations of money or property, or financial assistance of any kind upon the streets, in office or business buildings, by house to house canvass, or in public places in the city, except upon a license issued by the commissioner and an identification card issued by the chairperson or district chairperson of any charitable drive and any such regulations as hereinafter provided.
@@ -136,7 +158,9 @@ g. The provisions of this section shall not apply to any corporation organized u
 
 
 
-*§ 21-112 Records to be kept by commissioner. * ::
+
+
+*§ 21-112 Records to be kept by commissioner.* ::
 
 
 It shall be the duty of the commissioner to keep and preserve a proper record of:
@@ -148,7 +172,9 @@ It shall be the duty of the commissioner to keep and preserve a proper record of
 
 
 
-*§ 21-113 Information to be furnished to commissioner and other agencies. * ::
+
+
+*§ 21-113 Information to be furnished to commissioner and other agencies.* ::
 
 
 Transcripts or searches or certified copies of records in any agency of the city, shall be furnished without charge or fee to the department or any authority charged with the duty of administering laws relating to the poor or for the relief of veterans or the families or dependents of veterans in the city.
@@ -156,7 +182,9 @@ Transcripts or searches or certified copies of records in any agency of the city
 
 
 
-*§ 21-113.5 Interpretation Services. * ::
+
+
+*§ 21-113.5 Interpretation Services.* ::
 
 
 The Commissioner shall require the immediate provision of interpretation services for non-English speaking residents in all income maintenance centers located in New York City, when such non-English speaking residents comprise at least ten percent of the service population of a particular center.
@@ -164,7 +192,9 @@ The Commissioner shall require the immediate provision of interpretation service
 
 
 
-*§ 21-114 Municipal lodging houses. * ::
+
+
+*§ 21-114 Municipal lodging houses.* ::
 
 
 a. The commissioner shall have jurisdiction over, and it shall be his or her duty to take charge of all municipal lodging houses belonging to or hereafter acquired or established by the city.
@@ -174,7 +204,9 @@ b. It shall be the duty of the commissioner or of the superintendent of any muni
 
 
 
-*§ 21-115 Establishment of day nurseries. * ::
+
+
+*§ 21-115 Establishment of day nurseries.* ::
 
 
 The commissioner may establish, in his or her discretion, one or more day nurseries, and may adopt rules and regulations for the free admission thereto of children under ten years of age.
@@ -182,7 +214,9 @@ The commissioner may establish, in his or her discretion, one or more day nurser
 
 
 
-*§ 21-116 Commissaries. * ::
+
+
+*§ 21-116 Commissaries.* ::
 
 
 a. The commissioner may establish a commissary at camp LaGuardia and a commissary at the Neponsit home for the aged for the use and benefit of the residents and employees thereof. All moneys received from the sales in such commissaries shall be paid over semimonthly to the commissioner of finance without deduction. The provisions of section 12-114 of the code shall apply to every officer or employee who receives such money in the performance of his or her duties in such commissaries. The accounts of the commissaries shall be subject to supervision, examination and audit by the comptroller and all other powers of the comptroller in accordance with the provisions of the charter and code.
@@ -210,7 +244,9 @@ f. Any officer, employee or resident, whose duties in connection with the commis
 
 
 
-*§ 21-117 Contracts to make rental payments. * ::
+
+
+*§ 21-117 Contracts to make rental payments.* ::
 
 
 1. The commissioner shall have the power to and may, within the amount appropriated therefor, enter into a contract to make rental payments to the owner, landlord, lessee, managing agent of, or other person entitled to rent and receive rental payments for, housing accommodations whenever (a) a recipient of public assistance and care has neglected or failed to make rental payment and payment has not otherwise been made, or (b) a housing accommodation is vacant and the owner, landlord, lessee, managing agent or such other person agrees in such contract to hold such housing accommodation vacant and to accept as a new tenant a recipient of public assistance and care designated by the commissioner, and until such housing accommodation is occupied by and rental payments are made by such new tenant; provided, however, that no rental payments shall be made in accordance with this provision if such housing accommodation remains vacant for more than sixty days.
@@ -220,7 +256,9 @@ f. Any officer, employee or resident, whose duties in connection with the commis
 
 
 
-*§ 21-118 New York city commission for the foster care of children. * ::
+
+
+*§ 21-118 New York city commission for the foster care of children.* ::
 
 
 a. There is hereby established the New York city commission for the foster care of children (hereinafter referred to as the "commission") to consist of fifteen public members, who shall serve without compensation, to be appointed by the mayor from among residents of the city of New York who have been active in, identified with, or otherwise known to be interested in the field of child care. In making such appointments, the mayor shall make every effort to appoint individuals associated with the major federations concerned with foster care services to children and individuals who are associated with organizations which, through direct services to children, coordination or planning of services for children, or through research in the field of child care, are making major contributions to the planning of services for the children of the city of New York. The membership of the commission shall reflect disciplines basic to a wholesome child welfare program including mental health, education, religion, law with some specialty in family and child welfare, and pediatrics. The mayor may appoint, and at his or her pleasure remove, an executive director and an assistant to the executive director of the commission. The salary of the executive director and the assistant to the executive director shall be fixed by the mayor and shall be paid from appropriations made to the department. The said public members shall serve for a term of four years except that the term of office of the members first taking office shall expire, five at the end of two years, five at the end of three years and five at the end of four years. No member shall serve for more than eight consecutive years after July one, nineteen hundred sixty-four. The mayor shall appoint a chairperson and a vice chairperson from among the members, each to serve in that capacity for two year terms. Any public member appointed by the mayor to fill a vacancy occurring prior to the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
@@ -264,7 +302,9 @@ g. Whenever used in this section the following terms shall mean or include:
 
 
 
-*§ 21-119 Screening of child care services personnel by persons, corporations or other entities under contract with the city. * ::
+
+
+*§ 21-119 Screening of child care services personnel by persons, corporations or other entities under contract with the city.* ::
 
 
 a. Each person, corporation, or other entity under contract with the city to provide child care services shall be responsible for the recruitment of appropriate personnel; verification of credentials and references; review of criminal record information; screening of all current and prospective personnel; and selection and hiring of all personnel necessary to furnish child care services. Screening shall include, but not be limited to (1) fingerprinting; (2) review of criminal convictions and pending criminal actions, provided that the contractor shall not dismiss or permanently deny employment to current and prospective personnel who are subjects of pending criminal actions, but may suspend such current personnel or defer employment decisions on such prospective personnel until disposition of the pending criminal action; (3) inquiry with the statewide central register of child abuse and maltreatment and; (4) for prospective personnel, inquiry with the applicant's three most recent employers. Each such contractor is hereby authorized and required to have all current and prospective personnel fingerprinted by an appropriate city agency.
@@ -278,7 +318,9 @@ d. For purposes of this section, "personnel" shall include day care employees, f
 
 
 
-*§ 21-120 Training in detection and the dissemination of information about child abuse. * ::
+
+
+*§ 21-120 Training in detection and the dissemination of information about child abuse.* ::
 
 
 a. In addition to any other requirement pursuant to any other law or regulation, the department shall provide training in the detection and reporting of child abuse for all appropriate current and prospective day care and head start personnel.
@@ -290,7 +332,9 @@ c. The department shall establish a telephone number to provide assistance and i
 
 
 
-*§ 21-120.1 Family child care and group family child care. * ::
+
+
+*§ 21-120.1 Family child care and group family child care.* ::
 
 
 a. Definitions. For the purposes of this section, the following definitions shall apply:
@@ -418,7 +462,9 @@ i. Smoking shall not be permitted and no person shall smoke within one hundred f
 
 
 
-*§ 21-120.2 Home care services. * ::
+
+
+*§ 21-120.2 Home care services.* ::
 
 
 Not later than January 1, 1993, pursuant to social services law section 367-n(3), the commissioner of social services shall submit to the state departments of social services and health a request for a waiver, in lieu of a delegation plan, from the requirement of social services law section 367-n(2).
@@ -426,7 +472,9 @@ Not later than January 1, 1993, pursuant to social services law section 367-n(3)
 
 
 
-*§ 21-120.3 Temporary task force on child care funding. * ::
+
+
+*§ 21-120.3 Temporary task force on child care funding.* ::
 
 
 a. Not later than thirty days from the effective date of this section as amended, there shall be a temporary task force on child care funding established by the mayor which shall consist of representatives of each city agency authorized to license, permit, fund, or otherwise regulate child care facilities or services and such other persons as shall be provided for in this section. City agency representatives to such task force shall include, but shall not be limited to, representatives of the human resources administration and the department of health and mental hygiene. The comptroller of the city of New York may designate a representative to serve on such task force. Additional members of such task force shall be appointed as follows: five members appointed by the speaker of the council and six, including the chairperson of the task force, by the mayor. Such additional members of the task force shall include, but shall not be limited to, representatives of child care providers. The members of the task force, including the chairperson, shall serve without compensation.
@@ -442,6 +490,8 @@ b. Not later than seven months from the effective date of this section as amende
    (4) recommendations to eliminate or reduce the duplication and fragmentation of child care services and otherwise enhance the efficiency, effectiveness and economy of service delivery.
 
 c. During its deliberations, the task force may invite the participation of child care providers, parents of children enrolled in child care programs and not-for-profit child advocacy organizations. To facilitate such deliberations, the task force shall hold a minimum of two public hearings, one of which shall be held in the evening to permit greater parental participation.
+
+
 
 
 
@@ -480,7 +530,9 @@ d. Notwithstanding subdivision a of this section, the mayor shall appoint four a
 
 
 
-*§ 21-124 Prohibiting the use of Tier I shelters. * ::
+
+
+*§ 21-124 Prohibiting the use of Tier I shelters.* ::
 
 
 a. The city shall not establish henceforth any Tier I shelters as defined in 18 NYCRR § 900.2 through § 900.18. After September 30, 1991, the city of New York shall not operate any Tier I shelters. b.
@@ -514,7 +566,9 @@ d. Notwithstanding the provisions of this section, on and after July 1, 1992, th
 
 
 
-*§ 21-124.1 Homeless diversion teams. * ::
+
+
+*§ 21-124.1 Homeless diversion teams.* ::
 
 
 The commissioner shall fully staff "homeless diversion teams" at each income support center and emergency assistance unit except those that exclusively service individuals. Such homeless diversion teams shall screen families who present themselves as being homeless and in need of transitional housing in an effort to assist those who can to return to former housing situations. Beginning on October 1, 1995 and on the first day of each succeeding calendar quarter thereafter, the commissioner shall report to the speaker of the city council in writing on the homeless diversion teams including, but not limited to, the following information aggregated on a quarterly and fiscal year annualized basis;
@@ -528,7 +582,9 @@ c. the number of clients who presented themselves as homeless during the reporti
 
 
 
-*§ 21-125 Computer linkages to any emergency assistance unit and assessment center. * ::
+
+
+*§ 21-125 Computer linkages to any emergency assistance unit and assessment center.* ::
 
 
 [Expired]
@@ -536,7 +592,9 @@ c. the number of clients who presented themselves as homeless during the reporti
 
 
 
-*§ 21-126 Division of AIDS services. * ::
+
+
+*§ 21-126 Division of AIDS services.* ::
 
 
 There shall be a division of AIDS services within the New York city department of social services. Such division shall provide access to benefits and services as defined in section 21-128(a)(1) of this chapter to every person with clinical/symptomatic HIV illness, as determined by the New York state department of health AIDS institute, or with AIDS, as defined by the federal centers for disease control and prevention, who requests assistance, and shall ensure the provision of benefits and services to eligible persons as defined in section 21-128(a)(3) of this chapter with clinical/symptomatic HIV illness or with AIDS.
@@ -544,7 +602,9 @@ There shall be a division of AIDS services within the New York city department o
 
 
 
-*§ 21-127 Case management and allowances. * ::
+
+
+*§ 21-127 Case management and allowances.* ::
 
 
 The commissioner shall direct staff of the division of AIDS services to provide to persons with clinical/symptomatic HIV illness, as determined by the New York state department of health AIDS institute, or persons with AIDS, as defined by the federal centers for disease control and prevention, who satisfy the income eligibility requirements for medicaid as set forth in 42 U.S.C. § 1396, et. seq.: (i) intensive case management with an average ratio which shall not exceed one caseworker or supervisor to twenty-five family cases, and with an overall average ratio for all cases which shall not exceed one caseworker or supervisor to thirty-four cases; and (ii) transportation and nutrition allowances. Such transportation and nutrition allowances shall be provided to each such person in an amount not less than the amount per person provided on the effective date of the local law that added this section. Notwithstanding the requirements of this section, in the event of a material reduction in the state of New York's funding allocation, the council and the mayor may modify such amount of allowances pursuant to section 107 or sections 254, 255 and 256 of the charter of the city of New York.
@@ -552,7 +612,9 @@ The commissioner shall direct staff of the division of AIDS services to provide 
 
 
 
-*§ 21-128 Benefits and services to be provided to persons with clinical/symptomatic HIV illness or with AIDS. * ::
+
+
+*§ 21-128 Benefits and services to be provided to persons with clinical/symptomatic HIV illness or with AIDS.* ::
 
 
 a. Whenever used in this section, the following terms shall be defined as follows:
@@ -702,6 +764,8 @@ l. Centralized housing referral and placement system.
 
 
 
+
+
 *§ 21-129 Opioid antagonist administration training* ::
 
 
@@ -740,6 +804,8 @@ c. Beginning no later than September 1, 2018, and no later than every September 
 
 
 
+
+
 *§ 21-129.1 Referral of additional services.* ::
 
 
@@ -752,7 +818,9 @@ b. The department shall refer any individual who discloses to their case manager
 
 
 
-*§ 21-130 Shelter and related services for victims of domestic violence. * ::
+
+
+*§ 21-130 Shelter and related services for victims of domestic violence.* ::
 
 
 a. The city shall provide emergency shelter and/or related services to victims of domestic violence to the extent required by sections 131-u and 459-a of the social services law. A victim of domestic violence shall include any person over the age of 16, any married person, or any parent accompanied by his or her minor child or children, in situations in which such person, parent or person's child is a victim of an act which would constitute a violation of the Penal Law, including, but not limited to acts constituting disorderly conduct, harassment, menacing, reckless endangerment, kidnapping, assault, attempted assault, or attempted murder; and
@@ -778,12 +846,16 @@ b. Victims of domestic violence who apply for emergency shelter and/or related s
 
 
 
+
+
 *§ 21-131 Food Stamp Applications at Emergency Feeding Programs.** ::
 
 
 a. The commissioner shall arrange for the distribution of applications for the food stamp program to all city-funded emergency feeding programs. For purposes of this section, "emergency feeding program" means a food pantry or soup kitchen.
 
 b. Reports regarding distribution of food stamp applications. Beginning January 1, 2006, and on the first business day of each succeeding calendar quarter thereafter, the commissioner shall submit a report to the speaker of the city council indicating the emergency feeding programs to which it distributed applications in the prior calendar quarter and the number of applications distributed to each emergency feeding program.
+
+
 
 
 
@@ -840,6 +912,8 @@ b. There shall be a child welfare parent advocate advisory committee. Such commi
 
 
 
+
+
 *§ 21-131.1 Supplemental nutrition assistance program enrollment and recertification for seniors.* ::
 
 
@@ -860,12 +934,16 @@ d. Beginning February 1, 2018, and annually thereafter, the department, in coord
 
 
 
+
+
 *§ 21-132 Internet submission of applications for the food stamp program.** ::
 
 
 a. Within one year of the effective date of the local law that added this section, the commissioner shall develop a procedure that enables applicants for the federal food stamp program to access and submit applications using the internet.
 
 b. To the extent that the requirement set forth in subdivision a of this section is subject to the approval of the state office of temporary and disability assistance or the United States department of agriculture or any other state or federal agency, the commissioner shall request such permission within 90 days of the effective date of the local law that added this section.
+
+
 
 
 
@@ -886,7 +964,9 @@ e. Approvals. To the extent that the requirements set forth in this section are 
 
 
 
-*§ 21-133 Web-based information for youth and young adults aged sixteen through twenty applying for or receiving public assistance. * ::
+
+
+*§ 21-133 Web-based information for youth and young adults aged sixteen through twenty applying for or receiving public assistance.* ::
 
 
 a. Definitions. For the purposes of this section the following terms shall have the following meanings:
@@ -902,7 +982,9 @@ b. Web-based Information. No later than sixty days from the effective date of th
 
 
 
-*§ 21-134 Cash assistance application and caseload engagement status reports for individuals aged sixteen through twenty-four. * ::
+
+
+*§ 21-134 Cash assistance application and caseload engagement status reports for individuals aged sixteen through twenty-four.* ::
 
 
 a. Definitions. For the purposes of this section the following terms shall have the following meanings:
@@ -1050,7 +1132,9 @@ c. Semiannual report for heads of household aged sixteen through twenty. Within 
 
 
 
-*§ 21-135 Process for youth and young adults aged 16 through 24 receiving public assistance as head of household. * ::
+
+
+*§ 21-135 Process for youth and young adults aged 16 through 24 receiving public assistance as head of household.* ::
 
 
 a. Definitions. For the purposes of this section the following terms shall have the following meanings:
@@ -1102,6 +1186,8 @@ b. Written Report: The commissioner shall designate an individual responsible fo
 
 
 
+
+
 *§ 21-136 Semiannual reports regarding referrals to adult protective services.* ::
 
 
@@ -1116,10 +1202,14 @@ Editor's note: the local law that enacted the above § 21-136 shall expire and b
 
 
 
+
+
 *§ 21-137 Adult protective services training.* ::
 
 
 The department shall conduct biannual trainings, in accordance with article 9-b of the social services law and any applicable rules and regulations thereunder, on best practices in identifying persons who may be eligible for adult protective services and how to refer such persons to adult protective services. Such training shall be made available to appropriate employees of the following agencies, as determined by such agencies: the department for the aging, the police department, the department of parks and recreation, the department of housing preservation and development, the department of homeless services, the department of health and mental hygiene, and such other agencies as the mayor may assign, and shall also be made available to the civil and criminal courts of the city of New York and the New York city housing authority.
+
+
 
 
 
@@ -1134,6 +1224,8 @@ a. For the purposes of this section, the term "rental subsidy" means financial a
 b. The department shall provide a written notice to each individual who applies for a rental subsidy for housing that is subject to section 26-521 of the code. The notice shall be provided upon the initial application or approval for such rental subsidy and at any time the department determines to be appropriate for such subsidy, except such notice may be provided in electronic form to any individual who registers electronic contact information with the department and elects to receive such notices in electronic form. Such notice shall inform individuals of the protections of section 26-521 of the code regarding eviction, and may include additional information as determined by the department.
 
 c. Receipt of such notice shall not be construed to confer the protections set forth in section 26-521 of the code.
+
+
 
 
 
@@ -1170,6 +1262,8 @@ f. The department shall provide a tracking number to any visitor who initiates a
 
 
 
+
+
 *§ 21-140 Client service training.* ::
 
 
@@ -1180,6 +1274,8 @@ b. Such training shall include techniques to improve professionalism, increase c
 c. The department shall provide such training to all appropriate employees identified by the department whose primary responsibilities include interacting with members of the public in a client service role at any location designated by the department either as a job center where individuals can complete an application for cash assistance in person or as a supplemental nutrition assistance program center.
 
 d. Nothing in this section shall preclude the department from providing such training to employees other than those identified by the department pursuant to subdivision c of this section.
+
+
 
 
 
@@ -1215,7 +1311,9 @@ b. Not later than March 1, 2019, and on or before March 1 annually thereafter, t
 Chapter 2: Department For the Aging
 --------------------------------------------------
 
-*§ 21-201 Definitions. * ::
+
+
+*§ 21-201 Definitions.* ::
 
 
 Whenever used in this chapter, the following words shall have the following meanings:
@@ -1235,7 +1333,9 @@ f. "Social adult day care" has the same meaning as set forth in section two hund
 
 
 
-*§ 21-202 Bill of rights required. * ::
+
+
+*§ 21-202 Bill of rights required.* ::
 
 
 a. The commissioner shall require that every senior center adopt a statement of the rights of all senior citizens who participate in activities and take advantage of services provided by such senior center and treat all senior citizens in accordance with the provisions of such statement.
@@ -1273,7 +1373,9 @@ d. Nothing in this section shall be construed to limit the department's authorit
 
 
 
-*§ 21-203 Elder abuse training. * ::
+
+
+*§ 21-203 Elder abuse training.* ::
 
 
 a. The commissioner shall develop a program to train senior service providers in the detection and reporting of elder abuse. Such program shall also include training on the counseling of elder abuse victims.
@@ -1283,6 +1385,8 @@ b. The commissioner shall require that employees of senior centers and employees
 c. The commissioner shall require senior centers to hold at least two educational sessions per year during which guests and members of the senior center will receive counseling regarding elder abuse prevention and awareness and be instructed on how to detect and report instances of elder abuse.
 
 d. The commissioner shall require that every senior center post signage in a prominent common area section within the center that directs those who need information regarding elder abuse detection, reporting, counseling and services to call either the 311 citizen service system or the department's Elderly Crime Victims Resource Center.
+
+
 
 
 
@@ -1359,6 +1463,8 @@ e. Online public searchable database of social adult day cares.
 
 
 
+
+
 *§ 21-204.1 Inspections for social adult day cares and senior centers; reporting.* ::
 
 
@@ -1371,10 +1477,14 @@ b. The department shall make available on its website information about the insp
 
 
 
+
+
 *§ 21-205 Aging in place guide.* ::
 
 
 In consultation with the department of buildings, the department of housing preservation and development, the mayor's office for people with disabilities, and businesses and nonprofit organizations with expertise in design for dwelling units occupied by older adults, the department shall develop, distribute, and publish on its website, not later than July 1, 2016, a guide for building owners regarding modifications and improvements that may be made to dwelling units to allow tenants to safely remain in such units for as long as possible as such tenants age. Such guide shall include, but not be limited to, information relating to: improving access for individuals with limited mobility; lighting, railings and grab bars; technological enhancements; and widening of doorways and hallways. Such guide shall also include information on available public and private sources of funding, including information on eligibility criteria and how to apply for such funding, to assist building owners in making modifications and improvements.
+
+
 
 
 
@@ -1439,10 +1549,14 @@ f. The unpaid caregiver plan shall be revisited and revised as appropriate every
 
 
 
+
+
 *§ 21-207 Users of life-sustaining equipment and individuals for whom a disruption in electrical service would create a medical emergency.* ::
 
 
 The department shall regularly provide written materials from the office of emergency management to all senior centers in the city and all naturally occurring retirement communities sponsored by the department on how to register with any utility providing electrical service within the city as a user of life-sustaining equipment or an individual for whom a disruption in electrical service would create a medical emergency. These materials shall also be posted electronically in a conspicuous location on the department’s website and on the website of the mayor’s office for people with disabilities.
+
+
 
 
 
@@ -1504,7 +1618,9 @@ e. No information that is otherwise required to be reported pursuant to this sec
 Chapter 3: Department of Homeless Services
 --------------------------------------------------
 
-*§ 21-301 Definitions. * ::
+
+
+*§ 21-301 Definitions.* ::
 
 
 Whenever used in this chapter, the following terms shall be defined as follows:
@@ -1520,7 +1636,9 @@ d. "Temporary shelter placement" shall mean a shelter placement for a family wit
 
 
 
-*§ 21-302 Housing-readiness training and aftercare programs. * ::
+
+
+*§ 21-302 Housing-readiness training and aftercare programs.* ::
 
 
 a. The commissioner shall establish, maintain and operate housing-readiness training for all eligible homeless persons determined to be in need of such training. This training shall include such subjects as the commissioner shall determine are necessary to enable such eligible homeless persons to acquire the skills necessary for adjustment to and remaining in permanent housing. On or before December 31, 1995, the commissioner shall promulgate a housing-readiness training plan to be used in such training as shall be established, maintained and operated pursuant to this section. Beginning on December 31, 1995, such housing-readiness training shall be available no less frequently than on a quarterly basis.
@@ -1530,7 +1648,9 @@ b. The commissioner shall establish, maintain and operate aftercare programs to 
 
 
 
-*§ 21-303 Training and supervision of housing specialists. * ::
+
+
+*§ 21-303 Training and supervision of housing specialists.* ::
 
 
 Housing specialists shall be available to serve in each transitional housing facility used, owned, operated, managed or contracted for, by or on behalf of the department. Where housing specialists are placed in transitional housing facilities and are employed by not-for-profit or for-profit operators of such facilities, the commissioner shall establish a training program for such housing specialists which shall include, but not be limited to, establishing expertise in the various housing programs to which eligible homeless persons may be referred and proper case management techniques. The commissioner shall develop definite program goals and timetables by which he or she shall assess the performance of housing specialists in matching as expeditiously as possible eligible homeless persons with available housing resources and, on or before December 31, 1995, shall report to the speaker of the city council in writing on such goals and timetables by which he or she shall assess the performance of housing specialists.
@@ -1538,7 +1658,9 @@ Housing specialists shall be available to serve in each transitional housing fac
 
 
 
-*§ 21-304 Computerization. * ::
+
+
+*§ 21-304 Computerization.* ::
 
 
 In order to ensure that the delivery of services provided by the department to eligible homeless persons is efficiently coordinated with the services provided by the department of social services to such persons, the commissioner shall, to the maximum extent possible and in conformance with federal and state confidentially laws, develop computer systems which can easily access and share data with department of social services computer systems regarding such persons. The commissioner may appoint an interagency computer liaison to facilitate such interagency communication and information sharing.
@@ -1546,7 +1668,9 @@ In order to ensure that the delivery of services provided by the department to e
 
 
 
-*§ 21-305 Permanent housing resource clearinghouse. * ::
+
+
+*§ 21-305 Permanent housing resource clearinghouse.* ::
 
 
 The commissioner shall establish, in conjunction with the department of housing preservation and development and the New York city housing authority, a permanent housing resource clearinghouse to coordinate and track such permanent housing resources as may be approved as available to eligible homeless persons.
@@ -1554,7 +1678,9 @@ The commissioner shall establish, in conjunction with the department of housing 
 
 
 
-*§ 21-306 Continuum of care steering committee. * ::
+
+
+*§ 21-306 Continuum of care steering committee.* ::
 
 
 There shall be a continuum of care steering committee, which shall be responsible for providing advice to the commissioner on implementation of the requirements of the homeless emergency assistance and rapid transition to housing act of 2009, codified in chapter 119 of title 42 of the United States code, and any regulations promulgated pursuant to such act. The steering committee shall be created pursuant to section 578.5 of title 24 of the code of federal regulations and shall at a minimum include at least one member who is currently or formerly homeless. The members of the steering committee shall be representative of the relevant organizations and of projects serving homeless subpopulations. The members of the steering committee shall serve without compensation. The steering committee shall submit its advice to the commissioner, or his or her designee, in person or in writing, on a quarterly basis. The commissioner, or his or her designee, shall meet with the steering committee regularly.
@@ -1564,7 +1690,9 @@ There shall be a continuum of care steering committee, which shall be responsibl
 
 
 
-*§ 21-307 Interagency coordinating council. * ::
+
+
+*§ 21-307 Interagency coordinating council.* ::
 
 
 a. There shall be an interagency coordinating council established by the mayor which shall consist of representatives of each city agency providing transitional housing or services to eligible homeless persons and other homeless individuals and families. Such interagency coordinating council shall include, but shall not be limited to, representatives of the department of homeless services, the department of social services/the human resources administration, including at least one representative who works in housing for individuals with HIV/AIDS, housing for victims of domestic violence, and supportive housing, the department of housing preservation and development, the department of youth and community development, the administration for children's services, the department of education, the department of health and mental hygiene, and such other agencies as the mayor shall designate. The mayor shall designate a deputy mayor to serve as chairperson of the interagency coordinating council. The commissioner of the department of homeless services shall provide appropriate personnel to assist the interagency coordinating council in the performance of its functions. Representatives of the New York city housing authority and of the office to combat domestic violence may serve on the interagency coordinating council, and the chairperson of the interagency coordinating council or his or her designee shall notify such agencies of their ability to serve.
@@ -1590,7 +1718,9 @@ d. No later than January 1, 2018, and every January 1 thereafter, the interagenc
 
 
 
-*§ 21-308 Five-year plan to relieve homelessness. * ::
+
+
+*§ 21-308 Five-year plan to relieve homelessness.* ::
 
 
 1. The commissioner shall submit to the speaker of the city council a Five-Year Plan to Relieve Homelessness, including but not limited to the following:
@@ -1610,7 +1740,9 @@ d. No later than January 1, 2018, and every January 1 thereafter, the interagenc
 
 
 
-*§ 21-309 Referrals to non-compliant hotel units prohibited. * ::
+
+
+*§ 21-309 Referrals to non-compliant hotel units prohibited.* ::
 
 
 a. Not later than September 30, 1996, the commissioner shall eliminate for the purpose of providing transitional housing for homeless families with children the department's use of:
@@ -1634,7 +1766,9 @@ b. Notwithstanding any other provision of this section, the commissioner, or the
 
 
 
-*§ 21-310 Compilation of data on homeless veterans. * ::
+
+
+*§ 21-310 Compilation of data on homeless veterans.* ::
 
 
 1. In addition to any other data which it may deem relevant, the department shall compile data on each person using the homeless shelters of New York city which shall include information regarding:
@@ -1656,7 +1790,9 @@ b. Notwithstanding any other provision of this section, the commissioner, or the
 
 
 
-*§ 21-311 Quarterly reporting requirements. * ::
+
+
+*§ 21-311 Quarterly reporting requirements.* ::
 
 
 In addition to such other reports as the commissioner is required to submit to the speaker of the city council pursuant to this chapter, beginning on October 1, 1995 and on the first day of each succeeding calendar quarter thereafter, the commissioner shall submit to the speaker of the city council a report in writing aggregating the following statistics both on a quarterly and fiscal year annualized basis:
@@ -1672,7 +1808,9 @@ d. with reference to any telephone hotline operated by or for the department for
 
 
 
-*§ 21-312 Shelters for adults. * ::
+
+
+*§ 21-312 Shelters for adults.* ::
 
 
 a. Definitions.
@@ -1700,7 +1838,9 @@ e. The commissioner shall submit to the speaker of the council quarterly reports
 
 
 
-*§ 21-313 The emergency assistance unit. * ::
+
+
+*§ 21-313 The emergency assistance unit.* ::
 
 
 The department shall maintain a facility open for intake twenty-four hours a day, seven days a week to accept and process applications for shelter from families with children. Any family with children seeking shelter who is still in the process of applying as of ten o'clock in the evening on the day such family sought shelter shall be provided temporary shelter placement for that night. The following morning the family shall return to the intake facility to complete the application process. The department shall arrange transportation for the families to and from the temporary shelter placement.
@@ -1708,7 +1848,9 @@ The department shall maintain a facility open for intake twenty-four hours a day
 
 
 
-*§ 21-314 Case management services. * ::
+
+
+*§ 21-314 Case management services.* ::
 
 
 The commissioner shall provide case management services to all persons assigned to stay at the department's facilities or the facilities of organizations contracting with the department who are either waiting for the department to determine their eligibility for shelter or are receiving such shelter. Such case management services shall include, but not be limited to, assistance obtaining (a) medical treatment, (b) federal, state and local government documents including, but not limited to, birth certificates, marriage licenses, and housing records, and (c) food, medicine and other necessary supplies; and shall address issues such as domestic violence, child abuse and mental illness, when needed.
@@ -1716,7 +1858,9 @@ The commissioner shall provide case management services to all persons assigned 
 
 
 
-*§ 21-314.1 Signage and other materials. * ::
+
+
+*§ 21-314.1 Signage and other materials.* ::
 
 
 a. The commissioner shall, in consultation with not-for-profit organizations dedicated to the advocacy of child welfare, establish, maintain, and update signage and any other materials that are deemed necessary related to the reporting of child abuse and maltreatment which shall be conspicuously placed in all Tier II shelters and any other facilities that shelter homeless families and which shall include but not be limited to:
@@ -1736,7 +1880,9 @@ d. In addition to the signage and materials provided for in subdivisions a and b
 
 
 
-*§ 21-315 Adult shelters operating in excess of two hundred persons. * ::
+
+
+*§ 21-315 Adult shelters operating in excess of two hundred persons.* ::
 
 
 a. For the purposes of this section, a shelter for adults that operates with a permitted census in excess of two hundred persons pursuant to subdivision b of section 21-312 of this code shall be termed "a grandfathered shelter." In the event that any grandfathered shelter is closed, it may be replaced pursuant to the following provisions:
@@ -1760,12 +1906,16 @@ b. Each new shelter which replaces a shelter listed in subdivision a of this sec
 
 
 
+
+
 *§ 21-316 Presumption of eligibility.* ::
 
 
 a. For purposes of this section, "HRA domestic violence shelter" shall mean any residential care facility providing emergency shelter and services to victims of domestic violence and their minor children and operated by the department of social services/human resources administration or a provider under contract or similar agreement with the department of social services/ human resources administration.
 
 b. The department shall deem any applicant residing in an HRA domestic violence shelter an eligible homeless person for purposes of temporary shelter placement provided by the department provided (i) the applicant is no longer eligible for such HRA domestic violence shelter because such applicant has exhausted the maximum length of stay permitted at such HRA domestic violence shelter; (ii) the human resources administration or successor entity has provided the department with advance notice of such applicant's upcoming exit from such HRA domestic violence shelter, with the human resources administration or successor entity required to provide such advance notice where applicable; and (iii) such applicant reports to the department on the same calendar day as the applicant's exit from such HRA domestic violence shelter. Such applicants shall not be required to undergo an eligibility determination process at a department intake facility prior to being admitted to a temporary shelter placement.
+
+
 
 
 
@@ -1848,6 +1998,8 @@ d. No information that is required to be reported pursuant to this section shall
 
 
 
+
+
 *§ 21-318 Distribution of domestic violence education materials.* ::
 
 
@@ -1864,6 +2016,8 @@ b. The department shall develop and distribute written or electronic materials c
 
 
 
+
+
 *§ 21-319 Unsheltered homeless population record.* ::
 
 
@@ -1874,6 +2028,8 @@ a. Definitions. For the purposes of this section, the following terms have the f
    Unsheltered homeless person. The term “unsheltered homeless person” means an individual with a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings.
 
 b. To the extent such information is provided voluntarily, the department shall maintain a record of all unsheltered homeless persons who are receiving services from or have been contacted by outreach staff, which shall be updated in real time and shall contain, to the extent available: first and last name, date of birth, race or ethnicity, and the location where outreach staff engaged the unsheltered homeless person, including but not be limited to, bus shelter, drop-in center, hospital, park, safe haven or subway. No later than September 1, 2018, and quarterly thereafter, the department shall submit to the speaker of the council and post online the total number of unsheltered homeless persons included in the record required pursuant to this subdivision, disaggregated to the extent available by the location where outreach staff first engaged the unsheltered homeless person.
+
+
 
 
 
@@ -1918,6 +2074,8 @@ c. Beginning no later than September 1, 2018, and no later than every September 
 
 
 
+
+
 *§ 21-321 Educational continuity.* ::
 
 
@@ -1940,6 +2098,8 @@ b. As part of the intake process at an intake facility, the department shall off
    5. Information on homeless students’ rights, including a summary of students’ rights pursuant to the McKinney-Vento homeless assistance act of 1987, as enacted by public law 100-77.
 
 c. Any information provided to shelter applicants concerning educational continuity shall include contact information for relevant staff at the department of education. In the event that a representative of the department of education is unavailable and is not scheduled to be available to discuss educational continuity with a shelter applicant during the intake process at an intake facility, the department shall provide such shelter applicant with written materials pursuant to subdivision b and with contact information for relevant staff at the department of education who can assist with matters related to educational continuity.
+
+
 
 
 
@@ -1996,6 +2156,8 @@ b. No later than January 31, 2018, and every weekday, Monday through Friday, the
 
 
 
+
+
 *§ 21-323 Referral of additional services.* ::
 
 
@@ -2011,7 +2173,9 @@ b. The department shall refer any individual who discloses to their case manager
 Chapter 4: Department of Youth and Community Development
 --------------------------------------------------
 
-*§ 21-401 Definitions. * ::
+
+
+*§ 21-401 Definitions.* ::
 
 
 For the purposes of this chapter the following terms have the following meanings:
@@ -2043,7 +2207,9 @@ Youth. The term "youth" means any person under 24 years of age.
 
 
 
-*§ 21-402 Reporting requirements to the city council. * ::
+
+
+*§ 21-402 Reporting requirements to the city council.* ::
 
 
 a. The department shall submit to the city council two reports annually concerning the department's youth services programs, reported separately for community service block grants and other federal, state and city funding sources, respectively, providing indicators on the department's performance goals, actual performance and delivery of youth services within community districts and boroughs, to assist the city council in its oversight of the department's administration of funds and coordination of youth programs. The department shall present actual data for such indicators for the preceding fiscal year and for the current fiscal year, and shall project data for the following fiscal year. Information in the reports shall be presented in accordance with the following categories of indicators: financial indicators; department personnel indicators; performance goals and actual performance with respect to contract categories; and performance goals and actual performance with respect to individual programs. Provided, however, that such reports issued during the first calendar year following the effective date of this provision shall not be required to identify such information separately for each community district for those contracts previously awarded by the department for youth services.
@@ -2105,7 +2271,9 @@ c. Commencing on April 30, 2016 and annually thereafter, no later than every Apr
 
 
 
-*§ 21-403 Web-based information for youth and young adults aged sixteen through twenty applying for or receiving public assistance. * ::
+
+
+*§ 21-403 Web-based information for youth and young adults aged sixteen through twenty applying for or receiving public assistance.* ::
 
 
 a. Definitions. For the purposes of this section the following terms shall have the following meanings:
@@ -2117,6 +2285,8 @@ a. Definitions. For the purposes of this section the following terms shall have 
    3. "Youth" shall mean any person between and including the ages of sixteen and seventeen.
 
 b. Web-based Information. No later than sixty days from the effective date of the local law that added this section, the department shall publish, through an easily identifiable link on its website, answers to frequently asked questions relating to the rights of and options available to youth and young adults who apply for or are receiving public assistance as head of household, including but not limited to a description of how to apply for public assistance, the types of public assistance that are available, and how recipients may satisfy work requirements through educational activities. Such information shall be updated as often as necessary and at a minimum on an annual basis.
+
+
 
 
 
@@ -2153,6 +2323,8 @@ b. Beginning January 1, 2019, all providers under contract or similar agreement 
 
 
 
+
+
 *§ 21-405 Intake and assessment of runaway and homeless youth.* ::
 
 
@@ -2175,10 +2347,14 @@ c.  On or before July 31, 2018, and every six months thereafter, the department 
 
 
 
+
+
 *§ 21-406 Services for homeless young adults.* ::
 
 
 The department shall include shelter services for homeless young adults as part of runaway and homeless youth services, but need not serve all such young adults.
+
+
 
 
 
@@ -2193,6 +2369,8 @@ The department shall require that runaway youth and homeless youth are provided 
 a. Consistent with section 532-b of the executive law, a runaway youth aged 14 or older receiving shelter services in a residential runaway and homeless youth crisis services program shall be provided with shelter services in such program on a voluntary basis for up to 60 days, or up to 120 days if the runaway youth and such youth’s parent, guardian or custodian agree in writing that such youth may remain in such program, or consistent with section 420 of the executive law, beyond such time limits if the office of children and family services is notified in writing within 60 days.
 
 b. Consistent with section 532-d of the executive law, a homeless youth receiving shelter services in a transitional independent living support program shall be provided with shelter services in such program for up to 24 months, or consistent with section 420 of the executive law, beyond 24 months limit if the homeless youth entered the transitional independent living support program under the age of 21 and the office of children and family services is notified in writing within 60 days.
+
+
 
 
 
@@ -2219,10 +2397,14 @@ b. Not later than October 1, 2018, and on or before October 1 annually thereafte
 
 
 
+
+
 *§ 21-409 Capacity plan.* ::
 
 
 No later than October 1, 2018, the department shall develop and submit to the speaker of the council and post on its website a plan to provide shelter services to all runaway youth and homeless youth who request such shelter from the department, consistent with regulations of the office of children and family services. Such plan shall be informed by the report required pursuant to section 21-404.
+
+
 
 
 
@@ -2244,7 +2426,9 @@ b. The department shall ensure that such educational materials are available on 
 Chapter 5: Work Experience Program Grievance Procedure*
 --------------------------------------------------
 
-*§ 21-501 Definitions.* * ::
+
+
+*§ 21-501 Definitions.** ::
 
 
 As used in this chapter:
@@ -2268,7 +2452,9 @@ f. "Step 1 supervisor" means the participants immediate supervisor, unless the p
 
 
 
-*§ 21-502 Applicability.* * ::
+
+
+*§ 21-502 Applicability.** ::
 
 
 This chapter shall apply to all sponsoring agencies and WEP participants.
@@ -2276,7 +2462,9 @@ This chapter shall apply to all sponsoring agencies and WEP participants.
 
 
 
-*§ 21-503 Grievance procedure.* * ::
+
+
+*§ 21-503 Grievance procedure.** ::
 
 
 a. The following procedure shall be established in order to allow for the timely resolution of grievances. A participant may elect to pursue a grievance pursuant to this chapter prior to the initiation of conciliation under §341 of New York State social services law. The sponsoring agency shall notify each participant orally and in writing at the start of each work assignment of the participant's rights and responsibilities under this procedure, including the right to resolve grievances under such procedure prior to the initiation of conciliation under §341 of New York State social services law, and of the name, work address, telephone number of and locations to submit a grievance to the participant's Step 1 supervisor and the sponsoring agency WEP coordinator. The sponsoring agency shall not notify the office of employment services ("OES") or any other designee of the local social services district of an alleged failure to comply with program or work activities requirements by the participant unless and until the Step 1 supervisor or a higher-level supervisor first notifies the participant orally and in writing that the gency intends to do so and why, and then only after completion of the procedure set forth in Steps 1 and 2. In the event there is an alleged failure by a participant to comply with a program or work activity requirement and no grievance is submitted during the time period set forth below, then the sponsoring agency may notify OES. Nothing herein shall limit the authority of the sponsoring agencies except as provided herein.
@@ -2296,6 +2484,8 @@ d. At any stage of the grievance procedure established by this chapter, a partic
 
 
 
+
+
 *§ 21-504 Supportive services.** ::
 
 
@@ -2307,7 +2497,9 @@ Each sponsoring agency must provide such work-related materials, safety equipmen
 Chapter 5: Department of Employment Transitional Jobs Program*
 --------------------------------------------------
 
-*§ 21-501 Definitions.* * ::
+
+
+*§ 21-501 Definitions.** ::
 
 
 Whenever used in this chapter the following words shall have the following meanings:
@@ -2333,7 +2525,9 @@ i. "Transitional jobs program" shall mean a program designed to create temporary
 
 
 
-*§ 21-502 Transitional jobs program.* * ::
+
+
+*§ 21-502 Transitional jobs program.** ::
 
 
 a. The mayor shall direct the commissioner to establish a transitional jobs program, which shall consist of a total of two thousand five hundred temporary jobs in the public sector and in community-based organizations, at least two-thirds of which shall be created within local government agencies in the public sector. Such total number of two thousand five hundred temporary jobs shall exist for a period of thirty-six months, commencing on January first, two thousand one; provided, however, that each participant in the transitional jobs program shall only be employed by a sponsoring or affiliated organization for a period not to exceed twelve months, and that each specific job created pursuant to the transitional jobs program shall be retained for at least twelve months. An initial group of two thousand five hundred participants shall commence employment on January first, two thousand one. A second group of two thousand five hundred participants shall commence employment on January first, two thousand two, and a final group of two thousand five hundred participants shall commence employment on January first, two thousand three.
@@ -2351,7 +2545,9 @@ f. The sponsoring organizations shall provide each participant with the necessar
 
 
 
-*§ 21-503 Powers and duties of the commissioner.* * ::
+
+
+*§ 21-503 Powers and duties of the commissioner.** ::
 
 
 Except as otherwise provided by law, the commissioner shall have the power and it shall be the commissioner's duty to perform the following functions and duties relating to the transitional jobs program:
@@ -2379,7 +2575,9 @@ Except as otherwise provided by law, the commissioner shall have the power and i
 
 
 
-*§ 21-504 Eligibility criteria.* * ::
+
+
+*§ 21-504 Eligibility criteria.** ::
 
 
 A certified individual must be eighteen years of age or older and must either (i) be receiving family assistance or safety net assistance; (ii) have lost his or her aid to families with dependent children, home relief, family assistance or safety net assistance as a result of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 or state implementing law; or (iii) have been unemployed for a period of at least six months or have either been denied unemployment insurance or exhausted his or her unemployment insurance benefits.
@@ -2387,7 +2585,9 @@ A certified individual must be eighteen years of age or older and must either (i
 
 
 
-*§ 21-505 Duties of the sponsoring and affiliated organization. * ::
+
+
+*§ 21-505 Duties of the sponsoring and affiliated organization.* ::
 
 
 a. The sponsoring organization shall create positions for participants that are comparable to the positions of other employees in such organization. In creating such positions, the sponsoring organization shall consider the responsibilities associated with a particular position and the participant's training and prior work experience.
@@ -2405,7 +2605,9 @@ f. A community-based organization shall certify to the commissioner that such or
 
 
 
-*§ 21-506 Participants. * ::
+
+
+*§ 21-506 Participants.* ::
 
 
 a. Participation in the transitional jobs program shall be for a period not to exceed twelve months.
@@ -2423,7 +2625,9 @@ f. A participant shall be considered an employee for purposes of the city's huma
 
 
 
-*§ 21-507 Grievance procedure. * ::
+
+
+*§ 21-507 Grievance procedure.* ::
 
 
 The commissioner shall establish and maintain a grievance procedure for the filing and resolution of complaints by participants who are not members of a collective bargaining unit. Such grievance procedure shall provide for a hearing within twenty business days after the filing of a participant's complaint. The commissioner shall notify the participant of the date, time, and place of the hearing within five business days after the filing of such complaint. The commissioner may attempt to informally resolve any complaint prior to the hearing, but any such attempt shall not delay the date of the hearing, unless a participant specifically consents in writing to a postponement of such hearing. A written decision shall be issued within ten business days after the hearing. Nothing in this section shall be construed to limit the right of any participant, including a participant who is a member of a collective bargaining unit or a participant represented by a designated employee spokesperson, from pursuing other available remedies under any applicable collective bargaining agreement, or any federal, state or local law.
@@ -2431,7 +2635,9 @@ The commissioner shall establish and maintain a grievance procedure for the fili
 
 
 
-*§ 21-508 Reports to the mayor and city council. * ::
+
+
+*§ 21-508 Reports to the mayor and city council.* ::
 
 
 On April first of the years two thousand two, two thousand three, and two thousand four, the commissioner shall issue a report to the mayor and the city council evaluating the program. The report shall include, but not be limited to:
@@ -2467,7 +2673,9 @@ On April first of the years two thousand two, two thousand three, and two thousa
 
 
 
-*§ 21-509 Displacement of employees. * ::
+
+
+*§ 21-509 Displacement of employees.* ::
 
 
 a. A certified individual may be employed by a sponsoring or affiliated organization only if:
@@ -2487,7 +2695,9 @@ c. Local government agencies planning to enter into an agreement with the depart
 
 
 
-*§ 21-510 Rules. * ::
+
+
+*§ 21-510 Rules.* ::
 
 
 The commissioner shall make and promulgate such rules and regulations as are necessary to carry out the provisions of this chapter.
@@ -2495,7 +2705,9 @@ The commissioner shall make and promulgate such rules and regulations as are nec
 
 
 
-*§ 21-511 Severability. * ::
+
+
+*§ 21-511 Severability.* ::
 
 
 If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
@@ -2506,7 +2718,9 @@ If any section, subsection, sentence, clause, phrase or other portion of this lo
 Chapter 7: Education and Training For Public Assistance Recipients
 --------------------------------------------------
 
-*§ 21-701 Definitions. * ::
+
+
+*§ 21-701 Definitions.* ::
 
 
 When used in this chapter, the following words have the following meanings:
@@ -2574,7 +2788,9 @@ u. "Undue hardship exemption" means an exemption from the requirement to make sa
 
 
 
-*§ 21-702 Assessments, employability plans and reassessments. * ::
+
+
+*§ 21-702 Assessments, employability plans and reassessments.* ::
 
 
 a. During a period of no more than 45 days within the assessment period, the agency shall conduct and complete an assessment of employability and shall develop a written employability plan, pursuant to sections 335 and 335-a of the social services law, for each applicant or recipient, provided that the agency is not required to complete an assessment for applicants for and recipients of food stamps only who are already engaged in unsubsidized employment. Prior to the assessment, the agency may not assign an individual to any work activity. During the assessment, the agency may not assign an individual to any work activity, except for job search activity.
@@ -2588,7 +2804,9 @@ d. The agency will conduct a reassessment of employability for a participant who
 
 
 
-*§ 21-703 Assignment of individuals engaged in or expressing an interest in engaging in education and training and/or vocational rehabilitation activities to other work activities. * ::
+
+
+*§ 21-703 Assignment of individuals engaged in or expressing an interest in engaging in education and training and/or vocational rehabilitation activities to other work activities.* ::
 
 
 a. If an applicant, recipient or participant is enrolled in an approved program, then the agency shall permit such applicant, recipient or participant to participate in such approved program provided such approved program can be classified as a countable work activity.
@@ -2648,7 +2866,9 @@ j. An individual engaged in, or accepted to engage in, activities pursuant to an
 
 
 
-*§ 21-704 Notice of rights and responsibilities. * ::
+
+
+*§ 21-704 Notice of rights and responsibilities.* ::
 
 
 a. The agency shall inform applicants, recipients and participants of all rights, entitlements and agency obligations required under this chapter.
@@ -2660,7 +2880,9 @@ b. Any notice directing an applicant, recipient or participant to report for an 
 
 
 
-*§ 21-705 Submission of plan to state department of labor. * ::
+
+
+*§ 21-705 Submission of plan to state department of labor.* ::
 
 
 To the extent that provisions of this chapter are subject to the approval of the state department of labor, the agency shall include such provisions in the city's biennial plan to the state department of labor in accordance with section 333 of the social services law. In the event the local law that added this chapter becomes effective during the operation of a biennial plan, then the agency shall submit a modified plan to the state department of labor pursuant to title 12, section 1300.00 of the New York codes, rules and regulations within thirty days of enactment of the local law that added this chapter.
@@ -2668,7 +2890,9 @@ To the extent that provisions of this chapter are subject to the approval of the
 
 
 
-*§ 21-706 Severability. * ::
+
+
+*§ 21-706 Severability.* ::
 
 
 If any provision of this chapter, or the local law that added this chapter, or of any amendments thereto, shall be held invalid or ineffective in whole or in part or inapplicable to any person or situation, such holding shall not affect, impair or invalidate the remainder of this chapter or the local law that added this chapter, and all other provisions thereof shall nevertheless be separately and fully effective and the application of any such provision to other persons or situations shall not be affected.
@@ -2679,7 +2903,9 @@ If any provision of this chapter, or the local law that added this chapter, or o
 Chapter 8: Day Laborer Job Centers
 --------------------------------------------------
 
-*§ 21-801 Temporary Commission on Day Laborer Job Centers. * ::
+
+
+*§ 21-801 Temporary Commission on Day Laborer Job Centers.* ::
 
 
 a. There is hereby established a temporary advisory commission on immigrant day laborer job centers (the "Commission"), which shall examine the feasibility of fostering public/private partnerships to develop and implement job centers for day laborers.
@@ -2704,7 +2930,9 @@ h. No later than nine months from the effective date of the local law that added
 Chapter 9: Children's Services
 --------------------------------------------------
 
-*§ 21-901 Definitions. * ::
+
+
+*§ 21-901 Definitions.* ::
 
 
 Whenever used in this chapter, the terms set forth below are defined as follows:
@@ -2770,7 +2998,9 @@ Whenever used in this chapter, the terms set forth below are defined as follows:
 
 
 
-*§ 21-902 Quarterly Reports Regarding Child Welfare System. * ::
+
+
+*§ 21-902 Quarterly Reports Regarding Child Welfare System.* ::
 
 
 Beginning no later than July 31, 2006 and no later than the last day of the month following each calendar quarter thereafter, ACS will furnish to the speaker of the city council a report regarding New York City's child welfare system that includes, at a minimum, the following information:
@@ -2826,6 +3056,8 @@ Beginning no later than July 31, 2006 and no later than the last day of the mont
    c. number of children who entered foster care during the reporting period who had been in the custody of the child welfare system within the thirty-six months immediately preceding the reporting period, disaggregated by zone.
 
 3. ACS may use preliminary data to prepare the report required by this chapter to be delivered no later than July 31, 2006 and may include an acknowledgement that any preliminary data used in the report is non-final and subject to change.
+
+
 
 
 
@@ -3024,6 +3256,8 @@ e. The commissioner, in consultation with the commissioner of social services, s
 
 
 
+
+
 *§ 21-902.2 Child protective caseload and workload study.* ::
 
 
@@ -3048,7 +3282,9 @@ Editor's note: Section 2 of L.L. 2018/018 provides: "This local law takes effect
 
 
 
-*§ 21-903 Annual Reports. * ::
+
+
+*§ 21-903 Annual Reports.* ::
 
 
 Within 45 days after the end of each calendar year, ACS will publish and make available on its website an annual report compiling information provided in all quarterly reports required by this chapter for the prior calendar year.
@@ -3056,7 +3292,9 @@ Within 45 days after the end of each calendar year, ACS will publish and make av
 
 
 
-*§ 21-904 Special Immigrant Juvenile Status Plan within the Administration for Children's Services.* * ::
+
+
+*§ 21-904 Special Immigrant Juvenile Status Plan within the Administration for Children's Services.** ::
 
 
 a. ACS shall designate an individual or individuals responsible for creating and implementing a new comprehensive plan to provide services to children in contact with ACS who may be deemed eligible for Special Immigrant Juvenile Status ("SIJS") or other immigration benefits. Such plan shall, at a minimum, systemize how ACS, with assistance from foster care agencies, (i) identifies the country of birth, to the extent practicable, of children in contact with ACS; (ii) identifies all children within ACS, as early as possible, who may qualify for SIJS or other immigration benefits; (iii) tracks such children, to the extent practicable and consistent with client confidentiality requirements, until the completion of their SIJS or other immigration relief; (iv) assists such children, as soon as they are identified, in obtaining the immigration services they need, including birth certificates if they do not possess them; and (v) provides mandatory training programs on immigration benefits, including SIJS, for appropriate ACS and contract agency case workers and staff.
@@ -3074,7 +3312,9 @@ b. Reporting.
 
 
 
-*§ 21-905 Demographic Data. * ::
+
+
+*§ 21-905 Demographic Data.* ::
 
 
 a. Admissions to Detention Facilities. 
@@ -3226,7 +3466,9 @@ f. Interim Reports.
 
 
 
-*§ 21-906 Incident Reports. * ::
+
+
+*§ 21-906 Incident Reports.* ::
 
 
 a. Quarterly Incident Reports.
@@ -3282,12 +3524,16 @@ b. Annual incident reports.
 
 
 
+
+
 *§ 21-907 Graduation rates of foster care youth.* ::
 
 
 a. Beginning no later than January 31, 2015, and no later than every January 31 thereafter, the commissioner shall submit to the speaker of the council and post on ACS' website an annual report regarding the number of youth in foster care who were enrolled in and/or graduated from high school in the previous academic year as described by the department of education. Each such report shall disaggregate the data by gender and ethnicity, and include but not be limited to: (i) the total number of youth in foster care disaggregated by age, utilizing the following ranges: 13-15 years old; 16-18 years old; and 19-21 years old; (ii) the number of youth in foster care enrolled in high school disaggregated by age, utilizing the following ranges: 13-15 years old; 16-18 years old; and 19-21 years old; (iii) the number of youth in foster care who, based on cohort and the number of high school credits they have obtained by August 31 of the year of such report, are on pace to graduate high school and the number of such youth that are on pace to graduate high school in five years, utilizing the following age ranges: 14-15 years old; 16-18 years old; and 19-21 years old; and (iv) the number of youth in foster care who graduated from high school disaggregated by: (1) the age at which such students graduated; (2) the type of diploma or certification received; and (3) based on cohort, the number of years it took to complete high school. The reports required pursuant to this section shall remain permanently accessible on ACS' website.
 
 b. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of information respecting youth in foster care or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If any category requested contains between 1 and 5 youth in foster care, or allows another category to be narrowed to between 1 and 5 youth in foster care, the number shall be replaced with a symbol.
+
+
 
 
 
@@ -3318,6 +3564,8 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+
+
 *§ 21-908 Government-issued personal identification.* ::
 
 
@@ -3338,6 +3586,8 @@ b. Beginning no later than January 31, 2015, and no later than every January 31 
    2. the number of youth in foster care who were discharged with an APPLA goal; and the total number of youth with an APPLA goal who were in possession of a birth certificate, social security card, state-issued identification, municipal identification or passport at the time of discharge from foster care, disaggregated by the type of identification and the number of such youth who only possess one form of government-issued personal identification at the point of discharge, disaggregated by the type of identification; provided, however, that the information relating to municipal identification and passports required by this paragraph shall be included in such report only upon required New York state approval of changes to the Discharge Checklist and PYA Checklist in a manner that reasonably allows for the collection of such information beginning with the report for the second calendar year following such approval; and
 
    3. a description of the actions ACS has taken in the prior calendar year to assist youth in foster care in obtaining the kinds of government-issued personal identification described in the report required by this subdivision. The reports required pursuant to this section shall remain permanently accessible on ACS' website.
+
+
 
 
 
@@ -3380,6 +3630,8 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+
+
 *§ 21-910 Foster care experience surveys.* ::
 
 
@@ -3398,6 +3650,8 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+
+
 *§ 21-911 Secure detention facility visitors.* ::
 
 
@@ -3408,10 +3662,14 @@ ACS shall permit youth in secure detention facilities to receive visitors includ
 
 
 
+
+
 *§ 21-912 Video conferencing in secure detention facilities.* ::
 
 
 ACS shall establish and operate a program that permits youth in secure detention facilities to communicate through video conference or substantially similar technology with family, as defined by ACS, or legal guardians, except when the facility director determines that such communication is detrimental to the youth or not consistent with public safety. Video conferences shall be held primarily for the purpose of discharge planning, treatment, and rehabilitative conversations.
+
+
 
 
 
@@ -3430,6 +3688,8 @@ ACS shall conduct an internal review of the effectiveness of the current system 
 
 
 
+
+
 *§ 21-914 Preventive services surveys.* ::
 
 
@@ -3444,6 +3704,8 @@ d. No later than six months following the first administration of the survey req
 e. Not later than six months after the effective date of the local law that added this section, ACS shall submit to the speaker of the council a report on its plan for the implementation of the survey required pursuant to this section.
 
 f. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of information respecting families or children receiving preventive services or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If any category requested contains between 1 and 5 families or children receiving preventive services, or allows another category to be narrowed to between 1 and 5 families or children receiving preventive services, the number shall be replaced with a symbol.
+
+
 
 
 
@@ -3470,12 +3732,16 @@ No later than June 1, 2018, and no later than 18 months after the end of each ca
 
 
 
+
+
 *§ 21-916 Preventive services training.* ::
 
 
 a. Definitions. For the purposes of this section, the term “preventive services” means supportive and rehabilitative services provided, in accordance with title four of the social services law, to children and their families for the purposes of: averting an impairment or disruption of a family which will or could result in the placement of a child in foster care; enabling a child who has been placed in foster care to return to his family at an earlier time than would otherwise be possible; or reducing the likelihood that a child who has been discharged from foster care would return to such care.
 
 b. ACS shall require all individuals providing preventive services to attend trainings, the content of which shall be determined by ACS, on an ongoing basis and no less than once per year. This requirement is in addition to any other training required by law or regulation for individuals providing preventive services.
+
+
 
 
 
@@ -3502,6 +3768,8 @@ b. Beginning with the calendar quarter ending March 31, 2018, and for every cale
    6. To the extent such data is available to ACS, the number of families who lived in homeless shelters operated by or under contract or similar agreement with the department of homeless services or department of social services/human resources administration while receiving preventive services.
 
 c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of information respecting families or children receiving preventive services or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If any category requested contains between 1 and 5 families or children receiving preventive services, or allows another category to be narrowed to between 1 and 5 families or children receiving preventive services, the number shall be replaced with a symbol.
+
+
 
 
 

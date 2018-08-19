@@ -4,7 +4,9 @@ Title 26: Housing and Buildings
 Chapter 2: Relocation Services
 --------------------------------------------------
 
-*§ 26-301 Relocation of tenants. * ::
+
+
+*§ 26-301 Relocation of tenants.* ::
 
 
 1. The commissioner of housing preservation and development shall have the power and it shall be his or her duty:
@@ -76,7 +78,9 @@ Chapter 2: Relocation Services
 
 
 
-*§ 26-302 Supervision of relocation activities of developers. * ::
+
+
+*§ 26-302 Supervision of relocation activities of developers.* ::
 
 
 The commissioner of housing preservation and development shall supervise the tenant relocation activities of any party to the contract with the city which requires such party to develop any real property in accordance with the terms of such contract, in any case where the contract provides that the commissioner shall exercise such supervision.
@@ -84,7 +88,9 @@ The commissioner of housing preservation and development shall supervise the ten
 
 
 
-*§ 26-303 Relocation advisory commission. * ::
+
+
+*§ 26-303 Relocation advisory commission.* ::
 
 
 There shall be a relocation advisory commission composed of fifteen members, who shall be appointed by the mayor. The members of the advisory commission shall hold office for one year terms and shall serve without compensation. In making such appointments, due consideration shall be given to the recommendations made by representative associations, civic and professional groups concerned with or engaged in the field of tenant relocation generally.
@@ -92,7 +98,9 @@ There shall be a relocation advisory commission composed of fifteen members, who
 
 
 
-*§ 26-304 Powers and duties. * ::
+
+
+*§ 26-304 Powers and duties.* ::
 
 
 The relocation advisory commission shall meet at least once a month. It shall be informed by the commissioner of housing preservation and development of, and advise him or her on, matters of procedure and policy with respect to the relocation of tenants of real property over which the department has relocation jurisdiction.
@@ -100,7 +108,9 @@ The relocation advisory commission shall meet at least once a month. It shall be
 
 
 
-*§ 26-305 Expenses of relocation pursuant to vacate order. * ::
+
+
+*§ 26-305 Expenses of relocation pursuant to vacate order.* ::
 
 
 1. Whenever the department of housing preservation and development has incurred expenses in providing relocation services for tenants pursuant to subparagraph (v) of paragraph (a) of subdivision one of section 26-301 of this chapter, the department shall be entitled to reimbursement of such expenses from the owner of the building from which such tenants were relocated, if the conditions giving rise to the need for such relocation arose as a result of the negligent or intentional acts of such owner, or as a result of his or her failure to maintain such dwelling in accordance with the standards prescribed by the housing or health code governing such dwelling. "Owner" for purposes of this section shall mean and include the owner or owners of the freehold of the premises or lesser estate therein, a mortgagee or vendee in possession, assignee of rents, receiver, executor, trustee, lessee, agent, or any other person, firm or corporation, directly or indirectly in control of a dwelling.
@@ -123,7 +133,9 @@ The relocation advisory commission shall meet at least once a month. It shall be
 Chapter 3: Rent Control
 --------------------------------------------------
 
-*§ 26-401 Declaration and findings. * ::
+
+
+*§ 26-401 Declaration and findings.* ::
 
 
 a. The council hereby finds that a serious public emergency continues to exist in the housing of a considerable number of persons in the city, which emergency was created by war, the effects of war and the aftermath of hostilities; that such emergency necessitated the intervention of federal, state and local government in order to prevent speculative, unwarranted and abnormal increases in rents; that there continues to exist an acute shortage of dwellings; that unless residential rents and evictions continue to be regulated and controlled, disruptive practices and abnormal conditions will produce serious threats to the public health, safety and general welfare; that to prevent such perils to health, safety and welfare, preventive action through enactment of local legislation by the council continues to be imperative; that such action, as a temporary measure to be effective until it is determined by the council that such emergency no longer exists, is necessary in order to prevent exactions of unjust, unreasonable and oppressive rents and rental agreements and to forestall profiteering, speculation and other disruptive practices tending to produce threats to the public health; that the transition from regulation to a normal market of free bargaining between landlord and tenant, while still the objective of state and city policy, must be administered with due regard for such emergency; that in order to prevent uncertainty, hardship and dislocation, the provisions of this chapter are declared to be necessary and designed to protect the public health, safety and general welfare.
@@ -133,7 +145,9 @@ b. The council further declares that it is city policy to utilize the powers con
 
 
 
-*§ 26-402 Short title. * ::
+
+
+*§ 26-402 Short title.* ::
 
 
 This chapter shall be known and may be cited as the city rent and rehabilitation law.
@@ -141,7 +155,9 @@ This chapter shall be known and may be cited as the city rent and rehabilitation
 
 
 
-*§ 26-403 Definitions. * ::
+
+
+*§ 26-403 Definitions.* ::
 
 
 When used in this chapter, unless a different meaning clearly appears from the context, the following terms shall mean and include:
@@ -245,7 +261,9 @@ m. "Tenant." A tenant, subtenant, lessee, sublessee, or other person entitled to
 
 
 
-*§ 26-403.1 High income rent deregulation. * ::
+
+
+*§ 26-403.1 High income rent deregulation.* ::
 
 
 (a) 1.    For purposes of this section, annual income shall mean the federal adjusted gross income as reported on the New York state income tax return. Total annual income means the sum of the annual incomes of all persons who occupy the housing accommodation as their primary residence other than on a temporary basis, excluding bona fide employees of such occupants residing therein in connection with such employment and excluding bona fide subtenants in occupancy pursuant to the provisions of section two hundred twenty-six-b of the real property law. In the case where a housing accommodation is sublet, the annual income of the sublessor shall be considered.
@@ -273,7 +291,9 @@ m. "Tenant." A tenant, subtenant, lessee, sublessee, or other person entitled to
 
 
 
-*§ 26-403.2 Increase in maximum collectable rent. * ::
+
+
+*§ 26-403.2 Increase in maximum collectable rent.* ::
 
 
 Notwithstanding any provision of this law to the contrary in the case where all tenants occupying the housing accommodation on the effective date of this section have vacated the housing accommodation and a family member of such vacating tenant or tenants is entitled to and continues to occupy the housing accommodation subject to the protections of this law, if such accommodation continues to be subject to this law after such family member vacates, on the occurrence of such vacancy the maximum collectable rent shall be increased by a sum equal to the allowance then in effect for vacancy leases for housing accommodations covered by the rent stabilization law of nineteen hundred sixty-nine, including the amount allowed by paragraph five-a of subdivision c of section 26-511 of such law. This increase shall be in addition to any other increases provided for in this law including an adjustment based upon a major capital improvement, or a substantial increase or decrease in dwelling space or a change in the services, furniture, furnishings or equipment provided in the housing accommodation, pursuant to section 26-405 of this law and shall be applicable in like manner to each second subsequent succession.
@@ -281,7 +301,9 @@ Notwithstanding any provision of this law to the contrary in the case where all 
 
 
 
-*§ 26-404 City rent agency; division of housing and community renewal. * ::
+
+
+*§ 26-404 City rent agency; division of housing and community renewal.* ::
 
 
 The division of housing and community renewal shall have charge of and conduct through its own counsel any proceeding under this chapter of the code, except for the provisions of subdivision m of section 26-405 and section 26-406 of this chapter which shall be under the jurisdiction of the department of finance and such other agency as the mayor shall designate.
@@ -289,7 +311,9 @@ The division of housing and community renewal shall have charge of and conduct t
 
 
 
-*§ 26-405 General powers and duties of the city rent agency. * ::
+
+
+*§ 26-405 General powers and duties of the city rent agency.* ::
 
 
 a. (1)    At the time this chapter shall become effective, the city rent agency shall establish maximum rents which, subject to the provisions of subdivision b of this section, shall be the maximum rents in effect on April thirtieth, nineteen hundred sixty-two pursuant to the state rent act and the regulations thereunder.
@@ -591,7 +615,9 @@ m. Findings. The council finds that there is an acute and continuing housing sho
 
 
 
-*§ 26-406 Tax abatement for properties subject to rent exemption orders. * ::
+
+
+*§ 26-406 Tax abatement for properties subject to rent exemption orders.* ::
 
 
 a. Tax abatement, pursuant to the provisions of section four hundred sixty-seven-b of the real property tax law, shall be granted with respect to any real property for which a rent exemption order is issued under subdivision m of section 26-405 of this chapter to the tenant of any housing accommodation contained therein. The rent exemption order shall constitute the tax abatement certificate.
@@ -617,7 +643,9 @@ e. Tax abatement pursuant to this section shall be in addition to any other tax 
 
 
 
-*§ 26-407 Labor cost pass-along. * ::
+
+
+*§ 26-407 Labor cost pass-along.* ::
 
 
 a. Notwithstanding any provisions of this chapter, any labor cost pass-along rent increase requested of, or received from, any tenant on or after July first, nineteen hundred seventy-two, pursuant to the provisions of subparagraph (1) of paragraph one of subdivision g of section 26-405 of this title, shall not exceed the maximum rent adjustment as provided under this chapter after the effective date of this section.
@@ -627,7 +655,9 @@ b. All such increases in excess of such maximum rent are hereby declared null an
 
 
 
-*§ 26-408 Evictions. * ::
+
+
+*§ 26-408 Evictions.* ::
 
 
 a. No tenant, so long as he or she continues to pay the rent to which the landlord is entitled, shall be removed from any housing accommodation which is subject to rent control under this chapter by action to evict or to recover possession, by exclusion from possession, or otherwise, nor shall any person attempt such removal or exclusion from possession notwithstanding the fact that the tenant has no lease or that his or her lease, or other rental agreement, has expired or otherwise terminated, notwithstanding any contract, lease agreement, or obligation heretofore or hereafter entered into which provides for surrender of possession, or which otherwise provides contrary hereto, except on one or more of the following grounds, or unless the landlord has obtained a certificate of eviction pursuant to subdivision b of this section:
@@ -719,7 +749,9 @@ k. The city rent agency by order issued pursuant to its regulations may waive th
 
 
 
-*§ 26-409 Investigation; records; reports. * ::
+
+
+*§ 26-409 Investigation; records; reports.* ::
 
 
 a. The city rent agency is authorized to make such studies and investigations, to conduct such hearings, and to obtain such information as it deems necessary or proper in prescribing any regulation or order pursuant to this chapter or in administering and enforcing this chapter and the regulations and orders thereunder or the state rent act and the regulations and orders thereunder.
@@ -745,7 +777,9 @@ j. Without limiting any power granted by this section or any other provision of 
 
 
 
-*§ 26-410 Procedure. * ::
+
+
+*§ 26-410 Procedure.* ::
 
 
 a. After the issuance of any regulation or order by the city rent agency, any person subject to any provision of such regulation or order may, in accordance with regulations to be prescribed by such agency, file a protest against such regulation or order specifically setting forth his or her objections to any such provisions and affidavits or other written evidence in support of such objections. Statements in support of any such regulation or order may be received and incorporated in the record of the proceedings at such times and in accordance with such regulations as may be prescribed by such agency.Within a reasonable time after the filing of any protest under this section, such agency shall either grant or deny such protest in whole or in part, notice such protest for hearing, or provide an opportunity to present further evidence in connection therewith. In the event that such agency denies any such protest in whole or in part, it shall inform the protestant of the grounds upon which such decision is based, and of any economic data and other facts of which it has taken official notice.
@@ -761,7 +795,9 @@ e. The city rent agency shall compile and make available for public inspection a
 
 
 
-*§ 26-411 Judicial review. * ::
+
+
+*§ 26-411 Judicial review.* ::
 
 
 a. (1) Any person who is aggrieved by the final determination of the city rent agency in an administrative proceeding protesting a regulation or order of such agency may, in accordance with article seventy-eight of the civil practice law and rules, within sixty days after such determination, commence a proceeding in the supreme court. The petition shall specify his or her objections and pray that the regulation or order protested be enjoined or set aside in whole or in part. Such proceeding may at the option of the petitioner be instituted in the county where the city rent agency has its principal office or where the property is located. The city rent agency shall file with such court the original or a transcript of such portions of the proceedings in connection with its final determination as are material under the petition. Such return shall include a statement setting forth, so far as practicable, the economic data and other facts of which the city rent agency has taken official notice. Upon the filing of such petition the court shall have jurisdiction to set aside the regulation or order protested, in whole or in part, to dismiss the petition, or to remit the proceeding to the city rent agency, provided, however, that the regulation or order may be modified or rescinded by the city rent agency at any time notwithstanding the pendency of such proceeding for review.
@@ -787,7 +823,9 @@ f. The method prescribed herein for the judicial review of a regulation or order
 
 
 
-*§ 26-412 Prohibitions. * ::
+
+
+*§ 26-412 Prohibitions.* ::
 
 
 a. It shall be unlawful, regardless of any contract, lease or other obligation heretofore or hereafter entered into, for any person to demand or receive any rent for any housing accommodations in excess of the applicable maximum rent established therefor by the city rent agency or otherwise to do or omit to do any act, in violation of any regulation, order or requirement of the city rent agency under the state enabling act or under this chapter, or to offer, solicit, attempt or agree to do any of the foregoing.
@@ -805,7 +843,9 @@ f. It shall be unlawful for a landlord or a successor in interest to use housing
 
 
 
-*§ 26-413 Enforcement and penalties. * ::
+
+
+*§ 26-413 Enforcement and penalties.* ::
 
 
 a. Any person who wilfully violates any provision of section 26-412 of this chapter shall be guilty of and punishable for a crime as specified in subdivision ten of section one of the state enabling act, namely such persons shall be subject to a fine of not more than five thousand dollars, or to imprisonment for not more than two years in the case of a violation of subdivision c of section 26-412 of this chapter and for not more than one year in all other cases, or to both such fine and imprisonment. The city rent agency may certify such facts, which in its opinion constitute such violation, to the district attorney having jurisdiction thereof.
@@ -853,7 +893,9 @@ e. No person (including, but not limited to any officer or employee of the city 
 
 
 
-*§ 26-414 Decontrol on basis of vacancy rate. * ::
+
+
+*§ 26-414 Decontrol on basis of vacancy rate.* ::
 
 
 Whenever the city rent agency shall find, after making such studies and investigations as it deems necessary for such purpose, or for processing an application supported by adequate proof filed by an interested party pursuant to regulation that the percentage of vacancies in all or any particular class of housing accommodations in the city, as such class is determined by the city rent agency, is five per centum or more, the controls imposed on rents and evictions by and pursuant to this chapter, with respect to the housing accommodations as to which such finding has been made, shall be forthwith scheduled for orderly decontrol, with due regard to preventing uncertainty, hardship and dislocation, by order of such agency; provided, however, that notwithstanding any provision of this section to the contrary, such agency shall not order the decontrol of any particular class of housing accommodations as to which it shall find that the percentage of vacancies is less than five per centum; provided, further, that no such order shall be made unless such agency shall hold a public hearing on such proposal at which interested persons are given a reasonable opportunity to be heard. Notice of such hearing shall be provided by publication thereof, on at least five days during the period of fifteen days next preceding the date of the commencement of such hearing, in the City Record and in at least two daily newspapers having general circulation in the city.
@@ -861,7 +903,9 @@ Whenever the city rent agency shall find, after making such studies and investig
 
 
 
-*§ 26-415 Surveys of need for rent control. * ::
+
+
+*§ 26-415 Surveys of need for rent control.* ::
 
 
 As provided in subdivision three of section one of the local emergency housing rent control act, the mayor shall cause to be made, and shall present to the council a report of the results of, a survey of the supply of housing accommodations within the city, the condition of such accommodations and the need for continuing the regulation and control of residential rents and evictions within the city.
@@ -872,7 +916,9 @@ As provided in subdivision three of section one of the local emergency housing r
 Chapter 4: Rent Stabilization
 --------------------------------------------------
 
-*§ 26-501 Findings and declaration of emergency. * ::
+
+
+*§ 26-501 Findings and declaration of emergency.* ::
 
 
 The council hereby finds that a serious public emergency continues to exist in the housing of a considerable number of persons within the city of New York and will continue to exist after April first, nineteen hundred seventy-four; that such emergency necessitated the intervention of federal, state and local government in order to prevent speculative, unwarranted and abnormal increases in rents; that there continues to exist an acute shortage of dwellings which creates a special hardship to persons and families occupying rental housing; that the legislation enacted in nineteen hundred seventy-one by the state of New York, removing controls on housing accommodations as they become vacant, has resulted in sharp increases in rent levels in many instances; that the existing and proposed cuts in federal assistance to housing programs threaten a virtual end to the creation of new housing, thus prolonging the present emergency; that unless residential rents and evictions continue to be regulated and controlled, disruptive practices and abnormal conditions will produce serious threats to the public health, safety and general welfare; that to prevent such perils to health, safety and welfare, preventive action by the council continues to be imperative; that such action is necessary in order to prevent exactions of unjust, unreasonable and oppressive rents and rental agreements and to forestall profiteering, speculation and other disruptive practices tending to produce threats to the public health, safety and general welfare; that the transition from regulation to a normal market of free bargaining between landlord and tenant, while still the objective of state and city policy, must be administered with due regard for such emergency; and that the policy herein expressed is now administered locally within the city of New York by an agency of the city itself, pursuant to the authority conferred by chapter twenty-one of the laws of nineteen hundred sixty-two. The council further finds that, prior to the adoption of local laws sixteen and fifty-one of nineteen hundred sixty-nine, many owners of housing accommodations in multiple dwellings, not subject to the provisions of the city rent and rehabilitation law enacted pursuant to said enabling authority either because they were constructed after nineteen hundred forty-seven or because they were decontrolled due to monthly rental of two hundred fifty dollars or more or for other reasons, were demanding exorbitant and unconscionable rent increases as a result of the aforesaid emergency, which led to a continuing restriction of available housing as evidenced by the nineteen hundred sixty-eight vacancy survey by the United States bureau of the census; that prior to the enactment of said local laws, such increases were being exacted under stress of prevailing conditions of inflation and of an acute housing shortage resulting from a sharp decline in private residential construction brought about by a combination of local and national factors; that such increases and demands were causing severe hardship to tenants of such accommodations and were uprooting long-time city residents from their communities; that recent studies establish that the acute housing shortage continues to exist; that there has been a further decline in private residential construction due to existing and proposed cuts in federal assistance to housing programs; that unless such accommodations are subjected to reasonable rent and eviction limitations, disruptive practices and abnormal conditions will produce serious threats to the public health, safety and general welfare; and that such conditions constitute a grave emergency.
@@ -880,7 +926,9 @@ The council hereby finds that a serious public emergency continues to exist in t
 
 
 
-*§ 26-502 Additional findings and declaration of emergency. * ::
+
+
+*§ 26-502 Additional findings and declaration of emergency.* ::
 
 
 The council hereby finds that a serious public emergency continues to exist in the housing of a considerable number of persons within the city of New York and will continue to exist on and after April 1, 2018 and hereby reaffirms and repromulgates the findings and declaration set forth in section 26-501 of this title.
@@ -890,7 +938,9 @@ The council hereby finds that a serious public emergency continues to exist in t
 
 
 
-*§ 26-503 Short title. * ::
+
+
+*§ 26-503 Short title.* ::
 
 
 This law may be cited as the rent stabilization law of nineteen hundred sixty-nine.
@@ -898,7 +948,9 @@ This law may be cited as the rent stabilization law of nineteen hundred sixty-ni
 
 
 
-*§ 26-504 Application. * ::
+
+
+*§ 26-504 Application.* ::
 
 
 This law shall apply to:
@@ -918,7 +970,9 @@ c. Dwelling units in a building or structure receiving the benefits of section 1
 
 
 
-*§ 26-504.1 Exclusion of accommodations of high income renters. * ::
+
+
+*§ 26-504.1 Exclusion of accommodations of high income renters.* ::
 
 
 Upon the issuance of an order by the division, "housing accommodations" shall not include housing accommodations which: (1) are occupied by persons who have a total annual income, as defined in and subject to the limitations and process set forth in section 26-504.3 of this chapter, in excess of the deregulation income threshold, as defined in section 26-504.3 of this chapter, for each of the two preceding calendar years; and (2) have a legal regulated monthly rent that equals or exceeds the deregulation rent threshold, as defined in section 26-504.3 of this chapter. Provided, however, that this exclusion shall not apply to housing accommodations which became or become subject to this law (a) by virtue of receiving tax benefits pursuant to section four hundred twenty-one-a or four hundred eighty-nine of the real property tax law, except as otherwise provided in subparagraph (i) of paragraph (f) of subdivision two of section four hundred twenty-one-a of the real property tax law, or (b) by virtue of article seven-C of the multiple dwelling law.
@@ -926,7 +980,9 @@ Upon the issuance of an order by the division, "housing accommodations" shall no
 
 
 
-*§ 26-504.2 Exclusion of high rent accommodations. * ::
+
+
+*§ 26-504.2 Exclusion of high rent accommodations.* ::
 
 
 a. "Housing accommodations" shall not include: any housing accommodation which becomes vacant on or after April first, nineteen hundred ninety-seven and before the effective date of the rent act of 2011 and where at the time the tenant vacated such housing accommodation the legal regulated rent was two thousand dollars or more per month; or, for any housing accommodation which is or becomes vacant on or after the effective date of the rent regulation reform act of 1997 and before the effective date of the rent act of 2011, with a legal regulated rent of two thousand dollars or more per month; or for any housing accommodation that becomes vacant on or after the effective date of the rent act of 2015, where such legal regulated rent was two thousand seven hundred dollars or more, and as further adjusted by this section. Starting on January 1, 2016, and annually thereafter, the maximum legal regulated rent for this deregulation threshold, shall also be increased by the same percent as the most recent one year renewal adjustment, adopted by the New York city rent guidelines board pursuant to the rent stabilization law. This exclusion shall apply regardless of whether the next tenant in occupancy or any subsequent tenant in occupancy is charged or pays less than two thousand dollars a month; or, for any housing accommodation with a legal regulated rent of two thousand five hundred dollars or more per month at any time on or after the effective date of the rent act of 2011, which is or becomes vacant on or after such effective date, but prior to the effective date of the rent act of 2015; or, any housing accommodation with a legal regulated rent that was two thousand seven hundred dollars or more per month at any time on or after the effective date of the rent act of 2015, which becomes vacant after the effective date of the rent act of 2015, provided, however, that starting on January 1, 2016, and annually thereafter, such legal regulated rent for this deregulation threshold, shall also be increased by the same percentage as the most recent one year renewal adjustment, adopted by the New York city rent guidelines board. This exclusion shall apply regardless of whether the next tenant in occupancy or any subsequent tenant in occupancy actually is charged or pays less than two thousand seven hundred dollars, as adjusted by the applicable rent guidelines board, a month. Provided however, that an exclusion pursuant to this subdivision shall not apply to housing accommodations which became or become subject to this law (a) by virtue of receiving tax benefits pursuant to section four hundred twenty-one-a or four hundred eighty-nine of the real property tax law, except as otherwise provided in subparagraph (i) of paragraph (f) of subdivision two of section four hundred twenty-one-a of the real property tax law, or (b) by virtue of article seven-C of the multiple dwelling law. This section shall not apply, however, to or become effective with respect to housing accommodations which the commissioner determines or finds that the landlord or any person acting on his or her behalf, with intent to cause the tenant to vacate, engaged in any course of conduct (including, but not limited to, interruption or discontinuance of required services) which interfered with or disturbed or was intended to interfere with or disturb the comfort, repose, peace or quiet of the tenant in his or her use or occupancy of the housing accommodations and in connection with such course of conduct, any other general enforcement provision of this law shall also apply.
@@ -938,7 +994,9 @@ b. The owner of any housing accommodation that is not subject to this law pursua
 
 
 
-*§ 26-504.3 High income rent decontrol. * ::
+
+
+*§ 26-504.3 High income rent decontrol.* ::
 
 
 (a) 1. For purposes of this section, annual income shall mean the federal adjusted gross income as reported on the New York state income tax return. Total annual income means the sum of the annual incomes of all persons who occupy the housing accommodation as their primary residence other than on a temporary basis, excluding bona fide employees of such occupants residing therein in connection with such employment and excluding bona fide subtenants in occupancy pursuant to the provisions of section two hundred twenty-six-b of the real property law. In the case where a housing accommodation is sublet, the annual income of the sublessor shall be considered.
@@ -966,7 +1024,9 @@ b. The owner of any housing accommodation that is not subject to this law pursua
 
 
 
-*§ 26-505 Application to multiple family complex. * ::
+
+
+*§ 26-505 Application to multiple family complex.* ::
 
 
 For purposes of this chapter a class A multiple dwelling shall be deemed to include a multiple family garden-type maisonette dwelling complex containing six or more dwelling units having common facilities such as sewer line, water main, and heating plant, and operated as a unit under a single ownership on May sixth, nineteen hundred sixty-nine, notwithstanding that certificates of occupancy were issued for portions thereof as one- or two-family dwellings.
@@ -974,7 +1034,9 @@ For purposes of this chapter a class A multiple dwelling shall be deemed to incl
 
 
 
-*§ 26-506 Application to hotels. * ::
+
+
+*§ 26-506 Application to hotels.* ::
 
 
 a. Notwithstanding the provisions of section 26-504 of this chapter to the contrary, and irrespective of any decontrol pursuant to subparagraph (c) of paragraph two of subdivision e of section 26-403 of the city rent and rehabilitation law, this law shall apply to dwelling units in all hotels except hotels erected after July first, nineteen hundred sixty-nine, whether classified as a class A or a class B multiple dwelling, containing six or more dwelling units, provided that the rent charged for the individual dwelling units on May thirty-first, nineteen hundred sixty-eight was not more than three hundred fifty dollars per month or eighty-eight dollars per week; and further provided that, notwithstanding the foregoing, this law shall apply to dwelling units in any hotel, whether classified as a class A or a class B multiple dwelling, eligible for benefits pursuant to the provisions of section 11-244 of the code.
@@ -984,7 +1046,9 @@ b. Upon application by a tenant or owner, the division of housing and community 
 
 
 
-*§ 26-507 Application to certain multiple dwellings purchased from the city. * ::
+
+
+*§ 26-507 Application to certain multiple dwellings purchased from the city.* ::
 
 
 a. Notwithstanding the provisions of any local law or regulation promulgated pursuant to the rent stabilization law of nineteen hundred sixty-nine or the emergency tenant protection act of nineteen seventy-four, upon the sale in any manner authorized by law of a multiple dwelling which was previously subject to the provisions of any such laws or acts which was acquired by the city in a tax foreclosure proceeding or pursuant to article nineteen-A of the real property actions and proceedings law, all dwelling units within the multiple dwelling shall be subject to the rent stabilization law of nineteen hundred sixty-nine, as amended, at the last rent charged by the city, or on behalf of the city, for such dwelling unit.
@@ -996,7 +1060,9 @@ c. This section shall not apply to redemptions from city ownership pursuant to c
 
 
 
-*§ 26-509 Application for rent increase excemptions and equivalent tax abatement for rent regulated property occupied by certain senior citizens or persons with disabilities. * ::
+
+
+*§ 26-509 Application for rent increase excemptions and equivalent tax abatement for rent regulated property occupied by certain senior citizens or persons with disabilities.* ::
 
 
 a. Commencement of agency jurisdiction.
@@ -1088,7 +1154,9 @@ d. Notwithstanding the provisions of this chapter, a tenant who resides in a dwe
 
 
 
-*§ 26-510 Rent guidelines board. * ::
+
+
+*§ 26-510 Rent guidelines board.* ::
 
 
 a. There shall be a rent guidelines board to consist of nine members, appointed by the mayor. Two members shall be representative of tenants, two shall be representative of owners of property, and five shall be public members each of whom shall have had at least five years experience in either finance, economics or housing. One public member shall be designated by the mayor to serve as chairman and shall hold no other public office. No member, officer or employee of any municipal rent regulation agency or the state division of housing and community renewal and no person who owns or manages real estate covered by this law or who is an officer of any owner or tenant organization shall serve on a rent guidelines board. One public member, one member representative of tenants and one member representative of owners shall serve for a term ending two years from January first next succeeding the date of their appointment; one public member, one member representative of tenants and one member representative of owners shall serve for terms ending three years from the January first next succeeding the date of their appointment and two public members shall serve for terms ending four years from January first next succeeding the dates of their appointment. The chairman shall serve at the pleasure of the mayor. Thereafter, all members shall continue in office until their successors have been appointed and qualified. The mayor shall fill any vacancy which may occur by reason of death, resignation or otherwise in a manner consistent with the original appointment. A member may be removed by the mayor for cause, but not without an opportunity to be heard in person or by counsel, in his or her defense, upon not less than ten days notice.
@@ -1110,7 +1178,9 @@ i. Maximum rates of rent adjustment shall not be established more than once annu
 
 
 
-*§ 26-511 Real estate industry stabilization association. * ::
+
+
+*§ 26-511 Real estate industry stabilization association.* ::
 
 
 a. The real estate industry stabilization association registered with the department of housing preservation and development is hereby divested of all its powers and authority under this law.
@@ -1178,7 +1248,9 @@ e. Each owner of premises subject to the rent stabilization law shall furnish to
 
 
 
-*§ 26-512 Stabilization provisions. * ::
+
+
+*§ 26-512 Stabilization provisions.* ::
 
 
 a. No owner of property subject to this law shall charge or collect any rent in excess of the initial legal regulated rent or adjusted initial legal regulated rent until the end of any lease or other rental agreement in effect on the local effective date until such time as a different legal regulated rent shall be authorized pursuant to guidelines adopted by a rent guidelines board.
@@ -1210,7 +1282,9 @@ f. Notwithstanding any provision of this law to the contrary in the case where a
 
 
 
-*§ 26-513 Application for adjustment of initial rent. * ::
+
+
+*§ 26-513 Application for adjustment of initial rent.* ::
 
 
 a. The tenant or owner of a housing accommodation made subject to this law by the emergency tenant protection act of nineteen seventy-four may, within sixty days of the local effective date of this section or the commencement of the first tenancy thereafter, whichever is later, file with the commissioner an application for adjustment of the initial legal regulated rent for such housing accommodation. The commissioner may adjust such initial legal regulated rent upon a finding that the presence of unique or peculiar circumstances materially affecting the initial legal regulated rent has resulted in a rent which is substantially different from the rents generally prevailing in the same area for substantially similar housing accommodations.
@@ -1228,7 +1302,9 @@ e. Notwithstanding any contrary provision in this law an application for an adju
 
 
 
-*§ 26-514 Maintenance of services. * ::
+
+
+*§ 26-514 Maintenance of services.* ::
 
 
 In order to collect a rent adjustment authorized pursuant to the provisions of subdivision d of section 26-510 of this chapter an owner must file with the state division of housing and community renewal, on a form which the commissioner shall prescribe, a written certification that he or she is maintaining and will continue to maintain all services furnished on the date upon which the emergency tenant protection act of nineteen seventy-four becomes a law or required to be furnished by any state law or local law, ordinance or regulation applicable to the premises. In addition to any other remedy afforded by law, any tenant may apply to the state division of housing and community renewal, for a reduction in the rent to the level in effect prior to its most recent adjustment and for an order requiring services to be maintained as provided in this section, and the commissioner shall so reduce the rent if it is found that the owner has failed to maintain such services. The owner shall also be barred from applying for or collecting any further rent increases. The restoration of such services shall result in the prospective elimination of such sanctions. The owner shall be supplied with a copy of the application and shall be permitted to file an answer thereto. A hearing may be held upon the request of either party, or the commissioner may hold a hearing upon his or her own motion. The commissioner may consolidate the proceedings for two or more petitions applicable to the same building or group of buildings or development. If the commissioner finds that the owner has knowingly filed a false certification, it shall, in addition to abating the rent, assess the owner with the reasonable costs of the proceeding, including reasonable attorneys' fees, and impose a penalty not in excess of two hundred fifty dollars for each false certification. The amount of the reduction in rent ordered by the state division of housing and community renewal under this subdivision shall be reduced by any credit, abatement or offset in rent which the tenant has received pursuant to section two hundred thirty-five-b of the real property law, that relates to one or more conditions covered by such order.
@@ -1236,7 +1312,9 @@ In order to collect a rent adjustment authorized pursuant to the provisions of s
 
 
 
-*§ 26-515 Recovery of possession. * ::
+
+
+*§ 26-515 Recovery of possession.* ::
 
 
 a. An owner seeking to recover possession pursuant to subparagraph (c) of paragraph nine of subdivision c of section 26-511 of this chapter shall notify the tenant in occupancy not more than one hundred fifty and not less than one hundred twenty days prior to the end of the tenant's lease term, by mail, of such owner's intention not to renew such lease in order to recover the dwelling unit for its charitable or educational purposes. The owner may give such notice within one hundred twenty days of the expiration of the tenant's lease term, provided it may not commence a summary proceeding to recover the dwelling unit until the expiration of one hundred twenty days from the giving of such notice and, provided, further, that the tenant may remain in occupancy until the commencement of such proceeding at the same rent and upon the same terms and conditions as were provided in his or her expired lease. The notice of intention not to renew the tenant's lease shall be accompanied by a notice on a form prescribed by the division of housing and community renewal setting forth the penalties to which an owner may be subject for his or her failure to utilize the tenant's dwelling unit for the charitable or educational purpose for which recovery of the dwelling unit is sought.
@@ -1250,7 +1328,9 @@ d. If the owner is found by the commissioner, to have recovered possession of a 
 
 
 
-*§ 26-516 Enforcement and procedures. * ::
+
+
+*§ 26-516 Enforcement and procedures.* ::
 
 
 a. Subject to the conditions and limitations of this subdivision, any owner of housing accommodations who, upon complaint of a tenant, or of the state division of housing and community renewal, is found by the state division of housing and community renewal, after a reasonable opportunity to be heard, to have collected an overcharge above the rent authorized for a housing accommodation subject to this chapter shall be liable to the tenant for a penalty equal to three times the amount of such overcharge. In no event shall such treble damage penalty be assessed against an owner based solely on said owner's failure to file a timely or proper initial or annual rent registration statement. If the owner establishes by a preponderance of the evidence that the overcharge was not willful, the state division of housing and community renewal shall establish the penalty as the amount of the overcharge plus interest. (i) Except as to complaints filed pursuant to clause (ii) of this paragraph, the legal regulated rent for purposes of determining an overcharge, shall be the rent indicated in the annual registration statement filed four years prior to the most recent registration statement, (or, if more recently filed, the initial registration statement) plus in each case any subsequent lawful increases and adjustments. Where the amount of rent set forth in the annual rent registration statement filed four years prior to the most recent registration statement is not challenged within four years of its filing, neither such rent nor service of any registration shall be subject to challenge at any time thereafter. (ii) As to complaints filed within ninety days of the initial registration of a housing accommodation, the legal regulated rent shall be deemed to be the rent charged on the date four years prior to the date of the initial registration of the housing accommodation (or, if the housing accommodation was subject to this chapter for less than four years, the initial legal regulated rent) plus in each case, any lawful increases and adjustments. Where the rent charged on the date four years prior to the date of the initial registration of the accommodation cannot be established, such rent shall be established by the division. Where the rent charged on the date four years prior to the date of initial registration of the housing accommodation cannot be established, such rent shall be established by the division provided that where a rent is established based on rentals determined under the provisions of the local emergency housing rent control act such rent must be adjusted to account for no less than the minimum increases which would be permitted if the housing accommodation were covered under the provisions of this chapter. Where the amount of rent set forth in the annual rent registration statement filed four years prior to the most recent registration statement is not challenged within four years of its filing, neither such rent nor service of any registration shall be subject to challenge at any time thereafter.
@@ -1288,7 +1368,9 @@ h. The state division of housing and community renewal may, by regulation, provi
 
 
 
-*§ 26-517 Rent registration. * ::
+
+
+*§ 26-517 Rent registration.* ::
 
 
 a. Each housing accommodation which is subject to this law shall be registered by the owner thereof with the state division of housing and community renewal prior to July first, nineteen hundred eighty-four upon forms prescribed by the commissioner. The data to be provided on such forms shall include the following:
@@ -1322,7 +1404,9 @@ g. Each housing accommodation for which a timely registration statement was file
 
 
 
-*§ 26-517.1 Fees. * ::
+
+
+*§ 26-517.1 Fees.* ::
 
 
 a. The department of finance shall collect from the owner of each housing accommodation registered pursuant to section 26-517 of this law an annual fee in the amount of ten dollars per year for each unit subject to this law, in order to defray costs incurred by the city pursuant to subdivision c of section eight of the emergency tenant protection act of nineteen seventy-four.
@@ -1344,7 +1428,9 @@ c. The provisions of subdivision a of this section shall be deemed to have been 
 
 
 
-*§ 26-518 Hotel industry stabilization association. * ::
+
+
+*§ 26-518 Hotel industry stabilization association.* ::
 
 
 a. The hotel industry stabilization association registered with the department of housing preservation and development is hereby divested of all its powers and authority under this law. The stabilization code heretofore promulgated by such association, as approved by the department of housing preservation and development, is hereby continued to the extent that it is not inconsistent with law. Such code may be amended from time to time provided, however, that no such amendments shall be promulgated except by action of the commissioner of the division of housing and community renewal and provided further, that prior to the adoption of any such amendments, the commissioner shall (i) submit the proposed amendments to the commissioner of the department of housing preservation and development and allow such commissioner thirty days to make comments or recommendations on the proposed amendments, (ii) review the comments or recommendations, if any, made pursuant to clause (i) of this subdivision and make any revisions to the proposed amendments which the commissioner of the division of housing and community renewal deems appropriate provided that any such review and revision shall be completed within thirty days of receipt of such comments or recommendations and (iii) thereafter hold a public hearing on the proposed amendments. No provision of such code shall impair or diminish any right or remedy granted to any party by this law or any other provision of law.
@@ -1356,7 +1442,9 @@ c. Each landlord who is made subject to this law pursuant to section 26-505 or 2
 
 
 
-*§ 26-519 Suspension of registration. * ::
+
+
+*§ 26-519 Suspension of registration.* ::
 
 
 The department of housing preservation and development may, after notice and opportunity for hearing, suspend the registration of an association if it finds that the articles, code, rules or other conduct thereof do not conform to the requirements of this law and any such suspension shall remain in effect until such administration issues an order determining that such articles, rules, code or other conduct have been modified to conform with such requirements. For the purposes of this law, the members in good standing of the association shall be deemed to be members in good standing of an association registered with the department of housing preservation and development during and only during, the first sixty days of such period of suspension.
@@ -1364,7 +1452,9 @@ The department of housing preservation and development may, after notice and opp
 
 
 
-*§ 26-520 Expiration date. * ::
+
+
+*§ 26-520 Expiration date.* ::
 
 
 This chapter shall expire on April 1, 2021 unless rent control shall sooner terminate as provided in subdivision three of section one of the local emergency housing rent control law.
@@ -1377,7 +1467,9 @@ This chapter shall expire on April 1, 2021 unless rent control shall sooner term
 Chapter 5: Unlawful Eviction
 --------------------------------------------------
 
-*§ 26-521 Unlawful eviction. * ::
+
+
+*§ 26-521 Unlawful eviction.* ::
 
 
 a. It shall be unlawful for any person to evict or attempt to evict an occupant of a dwelling unit who has lawfully occupied the dwelling unit for thirty consecutive days or longer or who has entered into a lease with respect to such dwelling unit or has made a request for a lease for such dwelling unit pursuant to the hotel stabilization provisions of the rent stabilization law except to the extent permitted by law pursuant to a warrant of eviction or other order of a court of competent jurisdiction or a governmental vacate order by:
@@ -1393,7 +1485,9 @@ b. It shall be unlawful for an owner of a dwelling unit to fail to take all reas
 
 
 
-*§ 26-522 Definitions. * ::
+
+
+*§ 26-522 Definitions.* ::
 
 
 a. For the purpose of this chapter the following terms shall have the following meanings:
@@ -1407,7 +1501,9 @@ b. For the purposes of this chapter a "person" shall not include a government em
 
 
 
-*§ 26-523 Criminal and civil penalties. * ::
+
+
+*§ 26-523 Criminal and civil penalties.* ::
 
 
 a. Any person who intentionally violates or assists in the violation of any of the provisions of this chapter shall be guilty of a class A misdemeanor. Each such violation shall be a separate and distinct offense.
@@ -1417,7 +1513,9 @@ b. Such person shall also be subject to a civil penalty of not less than one tho
 
 
 
-*§ 26-524 Enforcement actions or proceedings. * ::
+
+
+*§ 26-524 Enforcement actions or proceedings.* ::
 
 
 The civil penalties prescribed by this chapter shall be recovered by an action or proceeding in any court of competent jurisdiction. All such actions or proceedings shall be brought in the name of the city by the corporation counsel. In addition, the corporation counsel may institute any other action or proceeding in any court of competent jurisdiction that may be appropriate or necessary for the enforcement of the provisions of this chapter, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any provision of this chapter, mandating compliance with the provisions of this chapter or for such other relief as may be appropriate. In any such action or proceeding the city may apply to any court of competent jurisdiction, or to a judge or justice thereof, for a temporary restraining order or preliminary injunction enjoining and restraining all persons from violating any provision of this chapter, mandating compliance with the provisions of this chapter, or for such other relief as may be appropriate, until the hearing and determination of such action or proceeding and the entry of final judgment or order therein. The court, or judge or justice thereof, to whom such application is made, is hereby authorized forthwith to make any or all of the orders above specified, as may be required in such application, with or without notice, and to make such other or further orders or directions as may be necessary to render the same effectual. No undertaking shall be required as a condition to the granting or issuing of such order, or by reason thereof.
@@ -1425,7 +1523,9 @@ The civil penalties prescribed by this chapter shall be recovered by an action o
 
 
 
-*§ 26-525 Lien. * ::
+
+
+*§ 26-525 Lien.* ::
 
 
 Every civil penalty imposed by judgment upon an owner pursuant to this chapter shall be a lien upon the dwelling with respect to which such civil penalty is imposed from the time of the filing of a notice of pendency in the office of the clerk of the county in which such dwelling is situated.
@@ -1433,7 +1533,9 @@ Every civil penalty imposed by judgment upon an owner pursuant to this chapter s
 
 
 
-*§ 26-526 Notice of pendency. * ::
+
+
+*§ 26-526 Notice of pendency.* ::
 
 
 a. In any action or proceeding instituted under this chapter, the corporation counsel may file in the county clerk's office of the county where the dwelling affected by such action or proceeding is situated, a notice of the pendency of such action or proceeding. Such notice may be filed at the time of the commencement of the action or proceeding, or at any time afterwards, before final judgment or order. The corporation counsel shall designate in writing the name of each person against whom the notice is filed and the number of each block on the land map of the county which is affected by the notice. The county clerk in whose office the notice of pendency is filed shall record and index such notice against the names and blocks designated.
@@ -1443,7 +1545,9 @@ b. Any such notice may be vacated upon the order of a judge of the court in whic
 
 
 
-*§ 26-527 Liability for costs. * ::
+
+
+*§ 26-527 Liability for costs.* ::
 
 
 Neither the city nor any officer or employee thereof shall be liable for costs in any action or proceeding brought pursuant to this chapter.
@@ -1451,7 +1555,9 @@ Neither the city nor any officer or employee thereof shall be liable for costs i
 
 
 
-*§ 26-528 Monies recovered. * ::
+
+
+*§ 26-528 Monies recovered.* ::
 
 
 All monies recovered under this chapter shall be paid into the general fund of the city.
@@ -1459,7 +1565,9 @@ All monies recovered under this chapter shall be paid into the general fund of t
 
 
 
-*§ 26-529 Remedies and penalties. * ::
+
+
+*§ 26-529 Remedies and penalties.* ::
 
 
 The remedies and penalties provided for herein shall be in addition to any other remedies and penalties provided under other provisions of law.
@@ -1470,7 +1578,9 @@ The remedies and penalties provided for herein shall be in addition to any other
 Chapter 6: Increase of Rentals
 --------------------------------------------------
 
-*§ 26-530 Increase of rentals. * ::
+
+
+*§ 26-530 Increase of rentals.* ::
 
 
 a. Before acting upon any application or motion for an increase in the maximum rental per room to be charged tenants and cooperators of dwellings where the department of housing preservation and development is the "supervising agency" under the provisions of the private housing finance law, a public hearing shall be held. Said hearing shall be held upon no less than twenty days' written notice to the tenants and said notice shall have annexed thereto a copy of the application or motion for increase in rentals and shall set forth the facts upon which the application or motion is based.
@@ -1485,7 +1595,9 @@ c. No increase in maximum rental per room or surcharge thereto or any other pena
 Chapter 7: Rent Increase Exemption For Low Income Elderly Persons and Persons With Disabilities
 --------------------------------------------------
 
-*§ 26-601 Definitions. * ::
+
+
+*§ 26-601 Definitions.* ::
 
 
 As used in this section.
@@ -1517,7 +1629,9 @@ l. "Taxable period" means the income tax year immediately preceding the date of 
 
 
 
-*§ 26-602 Real property tax exemption. * ::
+
+
+*§ 26-602 Real property tax exemption.* ::
 
 
 Real property of a housing company shall be exempt from real property taxes, in an amount equal to the rent increase exemptions actually credited to eligible heads of households pursuant to this chapter. Any such exemption shall be in addition to any other exemption or abatement of taxes authorized by law.
@@ -1525,7 +1639,9 @@ Real property of a housing company shall be exempt from real property taxes, in 
 
 
 
-*§ 26-603 Reimbursement for rent exemptions; rent increase exemption fund established. * ::
+
+
+*§ 26-603 Reimbursement for rent exemptions; rent increase exemption fund established.* ::
 
 
 In the event that the real property of a housing company containing one or more dwelling units shall be totally exempt from local and municipal real property taxes for any fiscal year as a result of the exemptions from maximum rent credited pursuant to this section or otherwise, the supervising agency may make or contract to make payments to a housing company in an amount not exceeding the amount necessary to reimburse the housing company for the total dollar amount of all exemptions from the payment of maximum rent accorded pursuant to this chapter to eligible heads of the household residing in dwelling units in such real property. A fund to be known as the rent increase exemption fund shall be created and established in order to provide for the payments made pursuant to this section. There may be paid into such fund (1) all of the rental surcharges collected from the housing companies organized and existing pursuant to articles II, IV, V and XI of the private housing finance law and (2) any moneys appropriated or otherwise made available for the purpose of such fund.
@@ -1533,7 +1649,9 @@ In the event that the real property of a housing company containing one or more 
 
 
 
-*§ 26-604 Rent increase exemption funding requirement. * ::
+
+
+*§ 26-604 Rent increase exemption funding requirement.* ::
 
 
 In the event that the real property of a housing company containing one or more dwelling units shall be totally exempt from local and municipal real property taxes as a result of the exemption from maximum rent credited pursuant to this chapter or otherwise, the supervising agency shall not issue any rent increase exemption order/tax abatement certificates unless there are monies in the rent increase exemption fund to provide reimbursement to the housing company for the total dollar amount of all exemptions from the payment of maximum rent accorded pursuant to this chapter to eligible heads of the household residing in dwelling units in such real property.
@@ -1541,7 +1659,9 @@ In the event that the real property of a housing company containing one or more 
 
 
 
-*§ 26-605 Rent increase exemption orders/tax abatement certificates. * ::
+
+
+*§ 26-605 Rent increase exemption orders/tax abatement certificates.* ::
 
 
 (a) Subject to the provisions of this chapter an eligible head of the household may obtain a rent increase exemption order/tax abatement certificate entitling him or her to an exemption from increases in the maximum rent otherwise payable in one of the following amounts:
@@ -1571,7 +1691,9 @@ In the event that the real property of a housing company containing one or more 
 
 
 
-*§ 26-605.1 Effect of reclassification of dwelling units. * ::
+
+
+*§ 26-605.1 Effect of reclassification of dwelling units.* ::
 
 
 Notwithstanding the provisions of this chapter, chapter three or chapter four of this title, when a dwelling unit subject to this chapter is later reclassified by order of the commissioner, the supervising agency or by any other governmental agency supervising such dwelling unit, or by operation of law to a dwelling unit subject to any of the provisions of article II, IV, V or XI of the private housing finance law, regulation under chapter four of this title or the emergency tenant protection act of nineteen seventy-four, or when a dwelling unit subject to regulation under such act, chapter four or chapter three of this title is reclassified by order of the commissioner or the supervising agency or by operation of law to a dwelling unit subject to the provisions of article II, IV, V or XI of the private housing finance law or subject to a mortgage insured or initially insured by the federal government pursuant to section two hundred thirteen of the national housing act, as amended, a head of the household who held or holds a valid rent increase exemption order/tax abatement certificate at the time of the reclassification shall be issued a rent increase exemption order under this chapter or chapter four of this title, as applicable, continuing the previous exemption notwithstanding the reclassification of the dwelling unit.
@@ -1579,7 +1701,9 @@ Notwithstanding the provisions of this chapter, chapter three or chapter four of
 
 
 
-*§ 26-606 Applications for exemption orders/tax abatement certificates; issuance and copies. * ::
+
+
+*§ 26-606 Applications for exemption orders/tax abatement certificates; issuance and copies.* ::
 
 
 The eligible head of the household shall apply annually to the supervising agency for a rent increase exemption order/tax abatement certificate on a form to be prescribed and made available by the supervising agency. The supervising agency shall approve or disapprove applications and, if it approves, shall issue a rent increase exemption order/tax abatement certificate. Copies of such order/certificate shall be issued to the housing company managing the dwelling unit of the eligible head of the household, to the eligible head of the household and to the department of finance.
@@ -1587,7 +1711,9 @@ The eligible head of the household shall apply annually to the supervising agenc
 
 
 
-*§ 26-607 Effective dates of exemption orders/tax abatement certificates. * ::
+
+
+*§ 26-607 Effective dates of exemption orders/tax abatement certificates.* ::
 
 
 The effective date of a rent increase exemption order/tax abatement certificate shall be the date of the first increase in maximum rent becoming effective after the applicant's eligibility date, except that in no event shall a rent increase exemption order/tax abatement certificate become effective prior to January first, nineteen hundred seventy-six.
@@ -1595,7 +1721,9 @@ The effective date of a rent increase exemption order/tax abatement certificate 
 
 
 
-*§ 26-608 Credit allowances; penalties for overcharge. * ::
+
+
+*§ 26-608 Credit allowances; penalties for overcharge.* ::
 
 
 Upon receipt of a copy of a rent increase exemption order/tax abatement certificate, the housing company managing the dwelling unit of the eligible head of the household shall promptly accord to the eligible head of the household covered by such order/certificate the appropriate credit against the monthly maximum rent then and thereafter payable. To the extent the full amount of such credit has not been accorded for any past period since the effective date specified in the order/certificate, the housing company shall credit the total aggregate amount not so credited to the monthly maximum rent next payable or to such subsequent monthly maximum rents, as the supervising agency may authorize. It shall be illegal to collect any amount for which a rent increase exemption order/tax abatement certificate provides credit or to withhold credit for any such amounts already collected, and collection or retention of any such amount for a dwelling unit occupied by such eligible head of the household shall be deemed a rent overcharge, and upon conviction therefor the housing company and its directors and any employee responsible therefor shall be guilty of a misdemeanor, punishable by a fine not to exceed one thousand dollars or imprisonment not to exceed six months, or both.
@@ -1603,7 +1731,9 @@ Upon receipt of a copy of a rent increase exemption order/tax abatement certific
 
 
 
-*§ 26-609 Application for tax benefit; credits. * ::
+
+
+*§ 26-609 Application for tax benefit; credits.* ::
 
 
 In order to obtain the tax benefits to which it is entitled under this chapter, a housing company must file with the department of finance a sworn application, in such form as such officer may prescribe, for any period in which the housing company has accorded an eligible head of the household an exemption hereunder from the payment of the maximum rent. Subject to prior or subsequent verification thereof, the department of finance shall credit the total amount of such exemptions actually accorded to occupants of dwelling units contained in the property against the real property taxes next payable with respect to the property, on a prospective basis only. The housing company shall attach to such application copies of all rent increase exemption orders/tax abatement certificates issued to eligible heads of the household residing in dwelling units in such real property.
@@ -1611,7 +1741,9 @@ In order to obtain the tax benefits to which it is entitled under this chapter, 
 
 
 
-*§ 26-610 Excessive exemption; liens. * ::
+
+
+*§ 26-610 Excessive exemption; liens.* ::
 
 
 If a subsequent audit of taxes payable and exemptions recognized pursuant to this chapter discloses that an exemption previously recognized on the basis of a housing company's verified application is excessive, the amount of tax payable by reason of such disclosure and the statutory penalty thereon, shall be a lien upon the property as of the due date of the tax for which the excessive exemption was claimed, unless after the housing company has filed the tax exemption claims, the supervising agency issues a corrected rent increase exemption order/tax abatement certificate retroactively modifying or revoking the rent increase exemption order/tax abatement certificate based on error in the personal or financial data in the application or based on error in the rent calculation not due to any willful fault of the housing company, in which case the amount of tax payable by reason of the disclosure shall be a lien upon the property as of the date for payment of taxes next following certification of such corrected order by the supervising agency.
@@ -1619,7 +1751,9 @@ If a subsequent audit of taxes payable and exemptions recognized pursuant to thi
 
 
 
-*§ 26-611 Rules and regulations. * ::
+
+
+*§ 26-611 Rules and regulations.* ::
 
 
 The supervising agency may promulgate such rules and regulations as may be necessary to effectively carry out the provisions of this chapter.
@@ -1627,7 +1761,9 @@ The supervising agency may promulgate such rules and regulations as may be neces
 
 
 
-*§ 26-612 Violations; penalties. * ::
+
+
+*§ 26-612 Violations; penalties.* ::
 
 
 It shall be illegal, for any person submitting an application for a rent increase exemption pursuant to this section, to make any false statement or willful misrepresentation of fact, and upon conviction thereof such applicant shall be guilty of a misdemeanor, punishable by a fine not to exceed five hundred dollars or imprisonment not to exceed ninety days, or both.
@@ -1635,7 +1771,9 @@ It shall be illegal, for any person submitting an application for a rent increas
 
 
 
-*§ 26-613 Application. * ::
+
+
+*§ 26-613 Application.* ::
 
 
 This chapter is enacted pursuant to the provisions of section four hundred sixty-seven-c of the real property tax law.
@@ -1643,7 +1781,9 @@ This chapter is enacted pursuant to the provisions of section four hundred sixty
 
 
 
-*§ 26-614 Certain exemption orders. * ::
+
+
+*§ 26-614 Certain exemption orders.* ::
 
 
 Notwithstanding the provisions of this chapter, a tenant who resides in a dwelling unit which becomes subject to this chapter upon the sale by the city of New York of the building in which such dwelling unit is situated may be issued a rent increase exemption order for increases in rent which occurred during ownership of such building by the city of New York provided that such tenant would have been otherwise eligible to receive a rent increase exemption order at the time of such increase but for the fact that such tenant occupied a dwelling unit owned by the city of New York and was therefore not subject to this chapter. Application for such rent increase exemption orders shall be made within one year from the date such building is sold by the city of New York or within one year of the effective date of this provision, whichever is later.
@@ -1651,7 +1791,9 @@ Notwithstanding the provisions of this chapter, a tenant who resides in a dwelli
 
 
 
-*§ 26-615 Certain rent increases attributable to capital assessments and voluntary capital contributions. * ::
+
+
+*§ 26-615 Certain rent increases attributable to capital assessments and voluntary capital contributions.* ::
 
 
 Notwithstanding any inconsistent provision of law, whenever a rent increase exemption order/tax abatement certificate is issued to an eligible head of the household residing in a dwelling unit owned by a housing company which is subject to the provisions of article II, IV, V or XI of the private housing finance law entitling such eligible person to an exemption from an increase in maximum rent attributable to a capital assessment or voluntary capital contribution made prior to, on or after the effective date of this section and such person later transfers his shares in such housing company, such person shall be required to pay over to such housing company, or such housing company shall be entitled to deduct from the amount to be paid to such person for the sale of such shares, all amounts covered by such rent increase exemption order/tax abatement certificate which are attributable to such capital assessment or voluntary capital contribution. Such housing company shall not approve the transfer of shares unless it has received the payment required by the preceding sentence or made the deduction therein authorized. Such housing company shall remit such amount to the commissioner of finance within ninety days of the collection thereof. Payments due to the city in accordance with this section shall be deemed a tax lien and may be enforced in any manner authorized for the collection of delinquent taxes on real property.
@@ -1659,7 +1801,9 @@ Notwithstanding any inconsistent provision of law, whenever a rent increase exem
 
 
 
-*§ 26-616 Notification of termination of certain mortgage. * ::
+
+
+*§ 26-616 Notification of termination of certain mortgage.* ::
 
 
 The housing company which owns any dwelling subject to a mortgage insured by the federal government pursuant to section two hundred thirteen of the national housing act, as amended, shall notify the supervising agency of the termination of such mortgage thirty days before such termination.
@@ -1667,7 +1811,9 @@ The housing company which owns any dwelling subject to a mortgage insured by the
 
 
 
-*§ 26-617 Eligibility for persons with disabilities. * ::
+
+
+*§ 26-617 Eligibility for persons with disabilities.* ::
 
 
 To qualify as a person with a disability for the purposes of this section, an individual shall submit to such agency as the mayor shall designate proof (as specified by regulation of such agency as the mayor shall designate) showing that such individual is currently receiving social security disability insurance (SSDI) or supplemental security income (SSI) benefits under the federal social security act or disability pension or disability compensation benefits provided by the United States department of veterans affairs, or was previously eligible by virtue of receiving disability benefits under the supplemental security income program or the social security disability program and is currently receiving medical assistance benefits based on determination of disability as provided in section three hundred sixty-six of the social services law and whose income for the current income tax year, together with the income of all members of such individual's household, does not exceed fifty thousand dollars beginning July first, two thousand fourteen.
@@ -1678,7 +1824,9 @@ To qualify as a person with a disability for the purposes of this section, an in
 Chapter 8: Cooperative and Condominium Conversions
 --------------------------------------------------
 
-*§ 26-701 Application. * ::
+
+
+*§ 26-701 Application.* ::
 
 
 The provisions of this chapter shall apply to conversions from rental to cooperative or condominium status of a building or a group of buildings or a development for which a plan must be filed with the state department of law pursuant to section three hundred fifty-two-eeee of the general business law.
@@ -1686,7 +1834,9 @@ The provisions of this chapter shall apply to conversions from rental to coopera
 
 
 
-*§ 26-702 Definitions. * ::
+
+
+*§ 26-702 Definitions.* ::
 
 
 As used in this chapter the following words shall mean:
@@ -1716,7 +1866,9 @@ d. "Offeror" the offeror, his or her nominees, assignees and successors in inter
 
 
 
-*§ 26-703 Establishment of reserve fund. * ::
+
+
+*§ 26-703 Establishment of reserve fund.* ::
 
 
 a. Within thirty days after the closing of a conversion pursuant to an offering plan the offeror shall establish and transfer to the cooperative corporation or condominium board of managers, a reserve fund to be used exclusively for making capital repairs, replacements and improvements necessary for the health and safety of the residents of such buildings. Such reserve fund shall be exclusive of any other funds required to be reserved under the plan or applicable law or regulation of the state attorney general, except a fund for capital repairs, replacements and improvements substantially similar in purpose to and in an amount not less than the reserve fund mandated by this section. Such reserve fund also shall be exclusive of any working capital fund and shall not be subject to reduction for closing apportionments.
@@ -1730,7 +1882,9 @@ d. Any building, construction of which was completed within three years prior to
 
 
 
-*§ 26-704 Report on status of reserve fund. * ::
+
+
+*§ 26-704 Report on status of reserve fund.* ::
 
 
 The cooperative corporation or condominium board of managers shall report to shareholders and unit owners on a semi-annual basis with respect to all deposits into and withdrawals from the reserve fund mandated by section 26-703 of this chapter.
@@ -1738,7 +1892,9 @@ The cooperative corporation or condominium board of managers shall report to sha
 
 
 
-*§ 26-705 Posting of violations. * ::
+
+
+*§ 26-705 Posting of violations.* ::
 
 
 The offeror, not later than the thirtieth day following the acceptance of a plan for filing by the state department of law pursuant to section three hundred fifty-two-eeee of the general business law and until the closing of the conversion pursuant to such plan, shall post and maintain in a prominent place, accessible to all tenants in each building covered by the plan, a listing of all violations of record against such buildings as determined by the department of buildings and the department of housing preservation and development. All newly issued violations shall be posted within fortyeight hours of their issuance and maintained as described above. The offeror may satisfy the requirements of this section by designating an agent on the premises with whom such listing shall be made available for inspection by the tenants.
@@ -1746,7 +1902,9 @@ The offeror, not later than the thirtieth day following the acceptance of a plan
 
 
 
-*§ 26-706 Report on condition of premises. * ::
+
+
+*§ 26-706 Report on condition of premises.* ::
 
 
 Where, pursuant to law or regulation of the state attorney general, an offeror is required to file a report with the state department of law describing the condition of the physical aspects of the premises to be converted and the surrounding neighborhood, a copy of such report shall be submitted simultaneously to the commissioner of buildings.
@@ -1754,7 +1912,9 @@ Where, pursuant to law or regulation of the state attorney general, an offeror i
 
 
 
-*§ 26-707 No waiver of rights. * ::
+
+
+*§ 26-707 No waiver of rights.* ::
 
 
 Any provision purporting to waive the provisions of this chapter in any contract to purchase or agreement between an offeror and the cooperative corporation or the condominium board of managers pursuant to a conversion plan shall be void as against public policy.
@@ -1762,7 +1922,9 @@ Any provision purporting to waive the provisions of this chapter in any contract
 
 
 
-*§ 26-708 Criminal and civil penalties; enforcement. * ::
+
+
+*§ 26-708 Criminal and civil penalties; enforcement.* ::
 
 
 a. Except as otherwise provided in subdivision b of this section, any person who knowingly violates or assists in the violation of any section of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine of not less than one hundred nor more than one thousand dollars. Except as otherwise provided in subdivision b of this section, any person who violates or assists in the violation of any section of this chapter shall be subject to a civil penalty of one hundred dollars per day per unit for each day that a building is not in compliance with the provisions of such sections; provided, however, that such civil penalty shall not exceed one thousand dollars per unit.
@@ -1781,7 +1943,9 @@ e. The department of housing preservation and development is empowered to enforc
 Chapter 9: Right of First Refusal and First Opportunity To Purchase
 --------------------------------------------------
 
-*§ 26-801 Definitions. * ::
+
+
+*§ 26-801 Definitions.* ::
 
 
 For the purposes of this section, the following definitions shall apply:
@@ -1829,7 +1993,9 @@ For the purposes of this section, the following definitions shall apply:
 
 
 
-*§ 26-802 Notification of impending conversion. * ::
+
+
+*§ 26-802 Notification of impending conversion.* ::
 
 
 (a) Notice shall be provided by the owner to the tenant association, or if no tenant association exists, to each tenant, and to the department of the intention of the owner to take any action that will result in the conversion of the assisted rental housing.
@@ -1873,7 +2039,9 @@ For the purposes of this section, the following definitions shall apply:
 
 
 
-*§ 26-803 Notification of bona fide offer to purchase. * ::
+
+
+*§ 26-803 Notification of bona fide offer to purchase.* ::
 
 
 (a) If the owner receives a bona fide offer to purchase and intends to consider, or respond to such bona fide offer to purchase, then notice shall be provided by the owner to a tenant association, or if no tenant association exists, to each tenant, or if applicable, a qualified entity, and the department, no more than fifteen days from the date that such bona fide offer to purchase is delivered to the owner. Such notice shall contain the following information:
@@ -1887,7 +2055,9 @@ For the purposes of this section, the following definitions shall apply:
 
 
 
-*§ 26-804 Appraisal determination. * ::
+
+
+*§ 26-804 Appraisal determination.* ::
 
 
 (a) The department shall convene an advisory panel, which advisory panel shall determine the appraised value of the assisted rental housing within thirty days of a tenant association's, or if applicable, a qualified entity's notice to the owner and the department pursuant to subdivision a of section 26-805 or subdivision a of section 26-806 of this chapter.
@@ -1903,7 +2073,9 @@ For the purposes of this section, the following definitions shall apply:
 
 
 
-*§ 26-805 Right of first refusal. * ::
+
+
+*§ 26-805 Right of first refusal.* ::
 
 
 (a) A tenant association, or if applicable, a qualified entity, shall notify the owner and the department in writing of its intent to exercise its right of first refusal within sixty days from receipt of notice from the owner pursuant to subdivision a of section 26-802 of this chapter.
@@ -1923,7 +2095,9 @@ For the purposes of this section, the following definitions shall apply:
 
 
 
-*§ 26-806 First opportunity to purchase. * ::
+
+
+*§ 26-806 First opportunity to purchase.* ::
 
 
 (a) A tenant association, or if applicable, a qualified entity, shall notify the owner and the department in writing of its intent to exercise its right of first opportunity to purchase within sixty days from receipt of notice from the owner pursuant to subdivision a of section 26-802 of this chapter.
@@ -1939,7 +2113,9 @@ For the purposes of this section, the following definitions shall apply:
 
 
 
-*§ 26-807 Prior notification. * ::
+
+
+*§ 26-807 Prior notification.* ::
 
 
 Notwithstanding any other provision of this chapter, where an owner has given notice prior to the effective date of this chapter and the intent of such notice is to initiate a procedure to withdraw the assisted rental housing from a program set forth in subdivision c of section 26-801 of this chapter, and such notice was properly given in accordance with any other applicable provision of law and more than forty-five days remain prior to the expiration of the time period applicable to such notice, a tenant association, or if applicable, a qualified entity, may complete any action authorized by sections 26-804, 26-805 and 26-806 of this chapter at any time prior to the expiration of such time period.
@@ -1947,7 +2123,9 @@ Notwithstanding any other provision of this chapter, where an owner has given no
 
 
 
-*§ 26-808 Long term affordability. * ::
+
+
+*§ 26-808 Long term affordability.* ::
 
 
 A tenant association, or if applicable, a qualified entity, including all successors in interest, which chooses to exercise the rights provided for in section 26-805 or section 26-806 of this chapter will be obligated to maintain the assisted rental housing as affordable.
@@ -1955,7 +2133,9 @@ A tenant association, or if applicable, a qualified entity, including all succes
 
 
 
-*§ 26-809 Right of transfer. * ::
+
+
+*§ 26-809 Right of transfer.* ::
 
 
 (a) During the notice period provided for in section 26-802 of this chapter, the tenants, by written consent of the tenants residing in at least sixty percent of the occupied dwelling units within the same assisted rental housing, may transfer the rights established by section 26-805 and section 26-806 of this chapter to a qualified entity.
@@ -1965,7 +2145,9 @@ A tenant association, or if applicable, a qualified entity, including all succes
 
 
 
-*§ 26-810 Conversion of property. * ::
+
+
+*§ 26-810 Conversion of property.* ::
 
 
 Notwithstanding the provisions of section 26-805 and section 26-806 of this chapter, when a conversion occurs, an owner or bona fide purchaser shall allow the current tenant or tenants to remain in their respective dwelling units for the longer of six months from the effective date of the conversion or until the tenant's lease expires, and at the same terms and conditions as before such conversion. Such owner or purchaser may, with the agreement of the tenant or tenants, relocate such tenant or tenants to comparable units with comparable rents in accordance with procedures to be established by the rules of the department.
@@ -1973,7 +2155,9 @@ Notwithstanding the provisions of section 26-805 and section 26-806 of this chap
 
 
 
-*§ 26-811 Penalty. * ::
+
+
+*§ 26-811 Penalty.* ::
 
 
 An owner found to have violated any provision of this chapter shall, in addition to any other monetary and/or equitable damages for which the owner may be liable, be liable for a civil penalty of five thousand dollars per month per dwelling unit in the assisted rental housing, and shall also pay to a tenant association, or if no tenant association exists, each tenant, or if applicable, a qualified entity, fees and costs incurred in bringing an enforcement proceeding. The total civil penalties may not exceed one hundred thousand dollars per dwelling unit. Nothing in this section shall be interpreted as prohibiting the tenant association, or if no tenant association exists, the tenants, or if applicable, a qualified entity, from seeking injunctive relief against a non-compliant owner. Such proceeding shall be brought in a court of competent jurisdiction.
@@ -1981,7 +2165,9 @@ An owner found to have violated any provision of this chapter shall, in addition
 
 
 
-*§ 26-812 Exclusions. * ::
+
+
+*§ 26-812 Exclusions.* ::
 
 
 (a) Nothing in this chapter shall affect any existing agreement between a tenant association and an owner regarding the management and operation of the assisted rental housing or the transfer of the assisted rental housing to a tenant association or similar organization in effect on the effective date of this chapter, except that any renewal, modification or amendment of such agreement occurring on or after the effective date of this local law shall be subject to the provisions of this chapter.
@@ -1997,7 +2183,9 @@ An owner found to have violated any provision of this chapter shall, in addition
 
 
 
-*§ 26-813 Judicial review. * ::
+
+
+*§ 26-813 Judicial review.* ::
 
 
 Any person aggrieved by an appraisal determination made pursuant to section 26-804 of this chapter, or by the failure of the department to approve a bona fide offer to purchase, may, within thirty days of the appraisal determination or action by the department, seek judicial review pursuant to article seventy-eight of the civil practice law and rules in the supreme court for the county in which the assisted rental housing is located. In the event that a court may find that the appraisal or action by the department constitutes the equivalent of a taking without just compensation, the court shall require that a new appraisal or determination be made. The time periods set forth in this chapter shall be tolled during the pendency of such a proceeding and until a new appraisal or determination, if needed, is made.
@@ -2008,7 +2196,9 @@ Any person aggrieved by an appraisal determination made pursuant to section 26-8
 Chapter 10: Housing Development Project Reporting Requirements
 --------------------------------------------------
 
-*§ 26-901 Definitions. * ::
+
+
+*§ 26-901 Definitions.* ::
 
 
 For the purposes of this chapter only, the following terms shall be defined as follows:
@@ -2052,7 +2242,9 @@ o. "Subcontractor" means an individual, sole proprietorship, partnership, joint 
 
 
 
-*§ 26-902 Reporting on prequalified lists and disqualified lists. * ::
+
+
+*§ 26-902 Reporting on prequalified lists and disqualified lists.* ::
 
 
 a. For each prequalified list, the department shall make available on its website the list identifier and the criteria used by the department to determine whether an entity qualifies for such list.
@@ -2062,7 +2254,9 @@ b. For each disqualified list, the department shall make available on its websit
 
 
 
-*§ 26-903 Reporting on housing development projects. * ::
+
+
+*§ 26-903 Reporting on housing development projects.* ::
 
 
 a. For each housing development project, the developer shall provide to the department, and the department shall make available on its website the following information in a non-proprietary format that permits automated processing:
@@ -2126,7 +2320,9 @@ d. No later than October 31, 2018, and by October 31 in each year thereafter, th
 
 
 
-*§ 26-904 Wage information reporting. * ::
+
+
+*§ 26-904 Wage information reporting.* ::
 
 
 For all housing development projects where the developer of such project was selected after the effective date of this chapter, each such developer shall report to the department the information listed below at least quarterly:
@@ -2142,7 +2338,9 @@ b. for each contractor or subcontractor that is not a covered contractor, a writ
 
 
 
-*§ 26-905 Ineligibility for inclusion on prequalified lists. * ::
+
+
+*§ 26-905 Ineligibility for inclusion on prequalified lists.* ::
 
 
 a. In addition to any other penalty provided by law, any contractor or subcontractor who fails to provide wage reporting information in accordance with section 26-904 of this chapter shall be ineligible to be included on a prequalified list of contractors and subcontractors.
@@ -2154,6 +2352,8 @@ b. In addition to any other penalty provided by law, any contractor or subcontra
 
 Chapter 11: Housing Information Guide for Tenants and Owners
 --------------------------------------------------
+
+
 
 *§ 26-1101 Definitions.* ::
 
@@ -2173,6 +2373,8 @@ For purposes of this chapter, the following terms are defined as follows:
 
 
 
+
+
 *§ 26-1102 Housing information guide for tenants and owners.* ::
 
 
@@ -2187,6 +2389,8 @@ b. The guide maintained pursuant to this section shall include, but not be limit
    (3) the availability of free and low-cost legal services; and
 
    (4) other topics deemed relevant by the department.
+
+
 
 
 
@@ -2211,6 +2415,8 @@ d. Contents of posted notice. The department shall determine the form of the not
 
 
 
+
+
 *§ 26-1104 Violations and penalties.* ::
 
 
@@ -2221,6 +2427,8 @@ Any owner who violates the provisions of subdivision a of section 26-1103 of thi
 
 Chapter 12: Improperly Conditioning Residential Occupancy on Medical Treatment
 --------------------------------------------------
+
+
 
 *§ 26-1201 Improperly conditioning residential occupancy on medical treatment.* ::
 
@@ -2238,6 +2446,8 @@ b. It shall be unlawful for a person to condition occupancy of a dwelling unit o
    1. Each such occupant is a relative of such person; or
 
    2. Such medical treatment is required in connection with one or more of the following programs, provided that such programs are currently licensed or certified by and in good standing with the appropriate government agency: (i) medically managed withdrawal and stabilization services as defined in section 816.4 of title 14 of the New York codes, rules and regulations; (ii) inpatient medically supervised withdrawal and stabilization services as defined in section 816.4 of title 14 of the New York codes, rules and regulations; (iii) chemical dependence residential rehabilitation services for youth established by part 817 of title 14 of the New York codes, rules and regulations; (iv) chemical dependence inpatient rehabilitation services established by part 818 of title 14 of the New York codes, rules and regulations; (v) intensive residential rehabilitation services established by section 819.8 of title 14 of the New York codes, rules and regulations; (vi) adult-care facilities as defined in section 485.2 of title 18 of the New York codes, rules and regulations; (vii) enriched housing programs as defined in section 488.2 of title 18 of the New York codes, rules and regulations; (ix) assisted living programs as defined in section 494.2 of title 18 of the New York codes, rules and regulations; (x) residential treatment facilities for children and youth established by part 584 of title 14 of the New York codes, rules and regulations; (xi) crisis residences as defined in section 589.4 of title 14 of the New York codes, rules and regulations; (xii) hospitals, nursing homes, and residential health care facilities as defined in section 2801 of the public health law; and (xiii) any other program regulated by state or federal law or rule that affirmatively permits conditioning occupancy, or any term, benefit or right thereof, upon seeking, receiving, or refraining from submitting to medical treatment.
+
+
 
 
 
@@ -2269,6 +2479,8 @@ d. Nothing contained in this chapter shall be construed as creating any private 
 Chapter 13: Provision of Legal Services in Eviction Proceedings*
 --------------------------------------------------
 
+
+
 *§ 26-1301 Definitions.** ::
 
 
@@ -2293,6 +2505,8 @@ Housing court. The term "housing court" means the housing part of the New York c
 Income-eligible individual. The term "income-eligible individual" means a covered individual whose annual gross household income is not in excess of 200 percent of the federal poverty guidelines as updated periodically in the federal register by the United States department of health and human services pursuant to subsection (2) of section 9902 of title 42 of the United States code.
 
 Legal services. The term "legal services" means brief legal assistance or full legal representation.
+
+
 
 
 
@@ -2325,6 +2539,8 @@ g. Nothing in this chapter or the administration or application thereof shall be
 
 
 
+
+
 *§ 26-1303 Public hearing.* ::
 
 
@@ -2341,6 +2557,8 @@ b. Such hearing shall be open to the public, and the coordinator shall provide n
 c. At such hearing, written and oral testimony may be provided.
 
 d.  The coordinator shall cause a transcript of such hearing to be produced and shall post such transcript online no later than 45 days after the meeting.
+
+
 
 
 
@@ -2409,6 +2627,8 @@ b. No later than September 1, 2018 and annually by each September 1 thereafter, 
 
 
 
+
+
 *§ 26-1305 Rules.* ::
 
 
@@ -2421,6 +2641,8 @@ The coordinator may promulgate such rules as may be necessary to carry out the p
 
 Chapter 13: Certification of Certain Rent Payment*
 --------------------------------------------------
+
+
 
 *§ 26-1301 Certification of payment.** ::
 
@@ -2445,6 +2667,8 @@ Chapter 13: Certification of Certain Rent Payment*
 Chapter 15: Audits for Compliance with 421-a Tax Exemption Affordability Requirements
 --------------------------------------------------
 
+
+
 *§ 26-1501 Definitions.* ::
 
 
@@ -2459,10 +2683,14 @@ Department. The term “department” means the department of housing preservati
 
 
 
+
+
 *§ 26-1502 Audits.* ::
 
 
 The department shall audit no fewer than 20 percent of all buildings that have completed construction and are receiving benefits under section 421-a of the real property tax law annually to determine whether the owners of such buildings are in compliance with all applicable 421-a affordability requirements.
+
+
 
 
 
@@ -2482,6 +2710,8 @@ Where an audit performed pursuant to section 26-1502 reveals that a building own
 Chapter 16: Audits for Compliance with 421-a Tax Exemption Rent Registration Requirements
 --------------------------------------------------
 
+
+
 *§ 26-1601 Definitions.* ::
 
 
@@ -2498,10 +2728,14 @@ Rent Stabilization. The term “rent stabilization” means, collectively, the r
 
 
 
+
+
 *§ 26-1602 Audits.* ::
 
 
 The department shall audit no fewer than 20 percent of all buildings that have completed construction and are receiving benefits under section 421-a of the real property tax law annually to determine whether the owners of such buildings are in compliance with all applicable rent registration requirements.
+
+
 
 
 
@@ -2521,12 +2755,16 @@ Where an audit performed pursuant to section 26-1602 reveals that a building own
 Chapter 17: Periodic Reports on Inclusionary Housing Programs
 --------------------------------------------------
 
+
+
 *§ 26-1701 Definitions.* ::
 
 
 a. Unless otherwise indicated, the following terms, as used in this chapter, shall have the meanings ascribed to such terms by the New York city zoning resolution: administering agent; affordable floor area; affordable housing fund; affordable housing unit; compensated development; dwelling unit; generating site; inclusionary housing designated area; income band; MIH development; MIH site and zoning lot.
 
 b. As used in this chapter, the term “department” means the department of housing preservation and development.
+
+
 
 
 
@@ -2557,6 +2795,8 @@ No later than September 1 of each year, the department, in consultation with the
 
 
 
+
+
 *§ 26-1703 Reporting on affordable housing fund.* ::
 
 
@@ -2569,6 +2809,8 @@ On or before September 30, 2018, and annually thereafter, the department shall p
 
 Chapter 18: Housing Portal
 --------------------------------------------------
+
+
 
 *§ 26-1801 Definitions.* ::
 
@@ -2668,6 +2910,8 @@ Listed unit. The term “listed unit” means a dwelling unit for which full uni
 
 
 
+
+
 *§ 26-1802 Housing portal.* ::
 
 
@@ -2720,6 +2964,8 @@ f. 1. Nothing in this chapter shall be construed to require the provision to the
 
 
 
+
+
 *§ 26-1803 Violations.* ::
 
 
@@ -2747,6 +2993,8 @@ d. Upon receipt of a credible complaint alleging that an owner has violated any 
 Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
 --------------------------------------------------
 
+
+
 *§ 26-1901 City-owned vacant property under the jurisdiction of the department of housing preservation and development that may be suitable for the development of affordable housing.* ::
 
 
@@ -2759,6 +3007,8 @@ By no later than November 1, 2018, and by November 1 of each year thereafter, th
 
 Chapter 20: Community Land Trust Regulatory Agreements
 --------------------------------------------------
+
+
 
 *§ 26-2001 Community land trust regulatory agreements.* ::
 
@@ -2782,6 +3032,8 @@ c. The supervising agency may enter into a regulatory agreement with an eligible
 
 Chapter 21: Affordable Housing Plan Report*
 --------------------------------------------------
+
+
 
 *§ 26-2101 Definitions.** ::
 
@@ -2819,6 +3071,8 @@ Preserved. The term "preserved" means received physical rehabilitation and/or fi
 Very low income household. The term "very low income household" means a household that has an income of more than 30 percent of the area median income but no more than 50 percent of the area median income, adjusted for the size of the household.
 
 Very low income affordable housing (VLI-AH) unit. The term "very low income affordable housing (VLI-AH) unit" means affordable housing that is serving a very low income household.
+
+
 
 
 
@@ -2873,6 +3127,8 @@ The mayor shall, by September 30, 2019, and by September 30 in every year therea
 
 
 
+
+
 *§ 26-2103 Public outreach.** ::
 
 
@@ -2885,6 +3141,8 @@ In developing a citywide plan for the creation and preservation of affordable ho
 
 Chapter 21: Short-Term Residential Rentals*
 --------------------------------------------------
+
+
 
 *§ 26-2101 Definitions.** ::
 
@@ -2918,6 +3176,8 @@ Short-term rental. The term “short-term rental” means a rental for occupancy
 
 
 
+
+
 *§ 26-2102 Requirements for booking services.** ::
 
 
@@ -2944,6 +3204,8 @@ b. A booking service shall obtain, from each host using such booking service to 
 
 
 
+
+
 *§ 26-2103 Exemptions for certain class B multiple dwellings.** ::
 
 
@@ -2954,10 +3216,14 @@ The administering agency shall publish a list of class B multiple dwellings lawf
 
 
 
+
+
 *§ 26-2104 Penalties.* ::
 
 
 A booking service that fails to submit a report in compliance with subdivision a of section 26-2102 shall be liable for a civil penalty, to be assessed once per reporting period for each set of records corresponding to a listing which is missing, incomplete or inaccurate. The civil penalty shall not be more than the greater of $1,500 or the total fees collected during the preceding year by the booking service for transactions related to the listing. The civil penalties established by this section may be recovered in a proceeding before the office of administrative trials and hearings or a court of competent jurisdiction.
+
+
 
 
 
@@ -2978,6 +3244,8 @@ b. The administering agency shall establish rules governing retention and dispos
 
 Chapter 22: Expiring Affordable Housing
 --------------------------------------------------
+
+
 
 *§ 26-2201 Definitions.* ::
 
@@ -3019,6 +3287,8 @@ Very low income affordable housing (VLI-AH) unit. The term "very low income affo
 
 
 
+
+
 *§ 26-2202 Tracking system plan.* ::
 
 
@@ -3029,10 +3299,14 @@ By no later than April 30, 2019, the department shall submit to the mayor and th
 
 
 
+
+
 *§ 26-2203 Reporting.* ::
 
 
 By no later than April 30, 2020, and annually thereafter, the department shall submit to the mayor and to the council a report on the progress of the tracking system plan required by section 26-2202, until the completion of the implementation of the plan.
+
+
 
 
 
@@ -3053,6 +3327,8 @@ By no later than December 31 in each year following the implementation of the tr
 4. The number of MI-AH units that are expiring affordable housing units; and
 
 5. The number of MIDI-AH units that are expiring affordable housing units.
+
+
 
 
 

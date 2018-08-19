@@ -4,7 +4,9 @@ Title 11: Taxation and Finance
 Chapter 1: Department of Finance
 --------------------------------------------------
 
-*§ 11-101 Power of department of finance to adopt a seal. * ::
+
+
+*§ 11-101 Power of department of finance to adopt a seal.* ::
 
 
 The department of finance is authorized to adopt a seal.
@@ -12,7 +14,9 @@ The department of finance is authorized to adopt a seal.
 
 
 
-*§ 11-102 Finance department; records; copies when in evidence. * ::
+
+
+*§ 11-102 Finance department; records; copies when in evidence.* ::
 
 
 A copy of any paper, record, book, document or map, filed in the department of finance, or the minutes, records or proceedings, or any portion thereof, of any board or commission of which the commissioner of finance, is or may become a member, when certified by the commissioner of finance, or a deputy commissioner of finance, to be a correct copy of the original, shall be admissible in evidence in any trial, investigation, hearing or proceeding in any court, or before any commissioner, board or tribunal, with the same force and effect as the original. Whenever a subpoena is served upon the commissioner of finance, or any member of a board or commission of which the commissioner of finance is a member, or upon any officer or employee of the department of finance, or upon any officer or employee of such boards or commissions, requiring the production upon any trial or hearing of an original paper, document, book, map, record, minutes or proceedings, the commissioner of finance, in his or her discretion, may furnish a copy certified as herein provided, unless the subpoena be accompanied by an order of the court or other tribunal before which trial or hearing is had requiring the production of such original.
@@ -20,7 +24,9 @@ A copy of any paper, record, book, document or map, filed in the department of f
 
 
 
-*§ 11-102.1 Authorization to require identifying numbers. * ::
+
+
+*§ 11-102.1 Authorization to require identifying numbers.* ::
 
 
 a. The commissioner of finance in the proper discharge of his duties in the administration and collection of taxes, assessments, arrears or other charges payable to the city may require any person to furnish such identifying number as the commissioner may prescribe for securing proper identification of such person, including but not limited to a social security account number or federal employer identification number.
@@ -32,7 +38,9 @@ c. The civil penalty prescribed by this section shall be recovered by the corpor
 
 
 
-*§ 11-103 Bond of commissioner and deputy commissioners of finance. * ::
+
+
+*§ 11-103 Bond of commissioner and deputy commissioners of finance.* ::
 
 
 The commissioner and any deputy commissioner of finance, within ten days after receiving notice of his or her appointment and before the commissioner enters upon his or her office, shall give a bond to the city and to the people of the state of New York in the sum of three hundred thousand dollars, with not less than four sufficient sureties to be approved by the comptroller, conditioned that he or she will faithfully discharge the duties of the commissioner's office and all trusts imposed on him or her by law in virtue of the commissioner's office, including all duties in connection with the tax on mortgages as prescribed by article eleven of the tax law. Such bond shall be deemed to extend to the faithful execution of the duties of the office until a new appointment shall be made and confirmed, and the person so appointed enters upon the performance of the commissioner's duties. In case of any official misconduct or default on the part of such commissioner or any deputy commissioner of finance, or their subordinates, an action upon such bond may be begun and prosecuted to judgment by the city, which, after first paying therefrom the expenses of the litigation, shall cause the proceeds of such judgment to be distributed as shall be lawful and equitable among the persons and objects injured or defrauded by such official misconduct or default of the commissioner or any deputy commissioner of finance or any of their subordinates.
@@ -40,7 +48,9 @@ The commissioner and any deputy commissioner of finance, within ten days after r
 
 
 
-*§ 11-104 Commissioner of finance to keep accounts. * ::
+
+
+*§ 11-104 Commissioner of finance to keep accounts.* ::
 
 
 a. The commissioner of finance shall keep books showing the receipts of moneys from all sources, and designating the sources of same, and also showing the amounts paid from time to time on account of the several appropriations, the forms of which shall be prescribed by the comptroller.
@@ -50,7 +60,9 @@ b. The city collector or the deputy collector in each borough office of the city
 
 
 
-*§ 11-105 Agreements with financing agencies or card issuers; payment of fines, civil penalties, taxes, fees, rates, rent, charges or other amounts by credit card. * ::
+
+
+*§ 11-105 Agreements with financing agencies or card issuers; payment of fines, civil penalties, taxes, fees, rates, rent, charges or other amounts by credit card.* ::
 
 
 1. As used in this section, the following terms shall have the following meanings:
@@ -70,7 +82,9 @@ b. The city collector or the deputy collector in each borough office of the city
 
 
 
-*§ 11-106 Weekly reports by commissioner of finance to mayor and comptroller. * ::
+
+
+*§ 11-106 Weekly reports by commissioner of finance to mayor and comptroller.* ::
 
 
 The commissioner of finance shall once in each week report in writing to the mayor and to the comptroller all moneys received by the commissioner, the amount of all warrants paid by him or her since the commissioner's last report, and the amount remaining to the credit of the city.
@@ -78,7 +92,9 @@ The commissioner of finance shall once in each week report in writing to the may
 
 
 
-*§ 11-107 Report to comptroller. * ::
+
+
+*§ 11-107 Report to comptroller.* ::
 
 
 The commissioner of finance, when required by the comptroller, shall furnish to him or her such information as the comptroller may demand in relation to the finances of the city, within such reasonable time as the commissioner may direct.
@@ -86,7 +102,9 @@ The commissioner of finance, when required by the comptroller, shall furnish to 
 
 
 
-*§ 11-108 Rules in signing warrants. * ::
+
+
+*§ 11-108 Rules in signing warrants.* ::
 
 
 No warrant shall be signed by the comptroller or countersigned by the commissioner of finance, except upon vouchers for the expenditures of the amount named therein, duly prepared and audited according to the methods prescribed by the comptroller, and filed with the comptroller, except in the case of judgments, in which case a transcript thereof shall be filed.
@@ -94,7 +112,9 @@ No warrant shall be signed by the comptroller or countersigned by the commission
 
 
 
-*§ 11-109 Commissioner of finance to exhibit bank book. * ::
+
+
+*§ 11-109 Commissioner of finance to exhibit bank book.* ::
 
 
 The commissioner of finance shall exhibit his or her bank book to the comptroller on the first Tuesday of every month and oftener when required.
@@ -102,7 +122,9 @@ The commissioner of finance shall exhibit his or her bank book to the comptrolle
 
 
 
-*§ 11-110 When commissioner of finance to close accounts. * ::
+
+
+*§ 11-110 When commissioner of finance to close accounts.* ::
 
 
 The accounts of the commissioner of finance shall be annually closed on the last day of June.
@@ -110,7 +132,9 @@ The accounts of the commissioner of finance shall be annually closed on the last
 
 
 
-*§ 11-111 Withdrawal of moneys by heads of agencies. * ::
+
+
+*§ 11-111 Withdrawal of moneys by heads of agencies.* ::
 
 
 Notwithstanding any provision of the charter, any city treasury or sinking fund moneys which have been duly withdrawn from any bank or trust company upon proper warrant and check to the order of the head or heads of any agency or agencies may be redeposited by such head or heads of such agency or agencies in a properly designated deposit bank and thereafter such redeposited moneys may be withdrawn upon check signed by him or her or them without additional warrant.
@@ -118,7 +142,9 @@ Notwithstanding any provision of the charter, any city treasury or sinking fund 
 
 
 
-*§ 11-112 Authorization of subordinates to sign checks and warrants. * ::
+
+
+*§ 11-112 Authorization of subordinates to sign checks and warrants.* ::
 
 
 Notwithstanding any provision of the charter, the comptroller or commissioner of finance may designate and authorize any deputies, assistant deputies, or employees to sign, each in his or her own name and in place of and for the comptroller or commissioner of finance, respectively, any or all checks or warrants, including those issued against sinking fund and trust fund bank accounts. A warrant or check so signed shall be of the same force and effect as if signed by the comptroller or commissioner of finance, respectively. The designation or designations of deputies shall be made in writing in the manner set forth in section ninety-four of the charter. The designation or designations of assistant deputies or employees shall be in writing, signed in duplicate by the comptroller or the commissioner of finance, respectively, and shall be duly filed and remain of record in the office of the comptroller and the department of finance. The period for which each such designation of deputies, assistant deputies and employees shall continue in force shall be specified therein and may be terminated by the comptroller or commissioner of finance, respectively, at any time by filing in the same office or offices in which the designation has been filed a written notice of such termination signed by the comptroller or commissioner of finance, respectively.
@@ -126,7 +152,9 @@ Notwithstanding any provision of the charter, the comptroller or commissioner of
 
 
 
-*§ 11-113 Acceptance of facsimile signatures by banks or trust companies. * ::
+
+
+*§ 11-113 Acceptance of facsimile signatures by banks or trust companies.* ::
 
 
 Notwithstanding any provision of the charter, checks drawn upon any bank or trust company for payment of payrolls or disbursements for relief, required to be signed by the head of an agency or his or her authorized designee, may be signed by the facsimile signature or signatures of the person or persons authorized to sign such checks, if the head of such agency so authorizes by an instrument in writing signed by the head of such agency and filed with the comptroller; and, in such event, any bank or trust company shall, acting in good faith and without notice of any defect or invalidity, be authorized to pay and be protected in paying any checks bearing or purporting to bear the facsimile signature or signatures of the person or persons duly authorized to sign such checks, regardless of the person by whom or the means by which the actual or purported facsimile signature or signatures thereon may have been affixed thereto, if such facsimile signature or signatures closely resemble the facsimile specimens from time to time filed with such banks or trust companies by the head of the agency in question; provided, however, that nothing herein contained shall release such bank or trust company from any liability arising from any cause or fact other than the fact that such facsimile signature is not a genuine facsimile signature affixed with appropriate authority.
@@ -134,7 +162,9 @@ Notwithstanding any provision of the charter, checks drawn upon any bank or trus
 
 
 
-*§ 11-114 City collector; where to keep offices. * ::
+
+
+*§ 11-114 City collector; where to keep offices.* ::
 
 
 The main office of the bureau of city collections shall be maintained in one borough and a branch office in each other borough.
@@ -142,7 +172,9 @@ The main office of the bureau of city collections shall be maintained in one bor
 
 
 
-*§ 11-115 City collector; appointment; bond. * ::
+
+
+*§ 11-115 City collector; appointment; bond.* ::
 
 
 The commissioner of finance shall appoint the city collector. The city collector, before entering upon the duties of his or her office, shall enter into a bond to the city of New York to be approved by the commissioner of finance and comptroller in the penal sum of twenty-five thousand dollars, which bond shall be conditioned for the faithful performance of the duties of the office by the officer giving such bond. Such bond shall be a lien on all the real estate held by the collector executing the same, or any surety thereto, within any of the counties in the city at the time of the filing thereof, unless there be named and described in or on any such bond, real estate in one or more of such counties equal in value to the amount of such bond and owned by a surety, in which case the bond shall be a lien on such real estate so described and upon all the real estate of such city collector, and no other, and shall continue to be such lien until the condition, together with all costs and charges which may accrue by the prosecution thereof, shall be fully satisfied, or until such lien be released, not to exceed, however, the period of ten years after the time when the officer who has given such bond shall have ceased to hold his or her office, unless an action thereon has been commenced and shall then be pending.
@@ -150,7 +182,9 @@ The commissioner of finance shall appoint the city collector. The city collector
 
 
 
-*§ 11-116 Deputies to give bond; duties. * ::
+
+
+*§ 11-116 Deputies to give bond; duties.* ::
 
 
 The city collector shall take from each deputy a bond, in such penal sum and with such sureties as may be approved by the city collector and by the comptroller and commissioner of finance, which bond shall run to the city collector, the city and to whom it may concern, and shall be conditioned for the faithful performance of the duties of such deputy. Each bond taken in pursuance of the provisions of this section shall be filed with the comptroller. Each deputy collector shall have all the powers and be subject to all the duties of the city collector in respect to the collection and receipt of taxes, assessments, water rents and arrears.
@@ -158,7 +192,9 @@ The city collector shall take from each deputy a bond, in such penal sum and wit
 
 
 
-*§ 11-117 Renewal of bond. * ::
+
+
+*§ 11-117 Renewal of bond.* ::
 
 
 If at any time during the continuance in office of the city collector or deputy collectors the comptroller or commissioner of finance shall deem any surety of them to be insufficient, he or she may require the city collector or deputy collectors to enter into a new bond to be approved in like manner as prescribed in section 11-115 of this chapter, within such time as the comptroller may direct, not being less than ten days after requiring such new bond to be given. In case of the neglect or refusal of any such officer to furnish such bond within the time so directed, the comptroller or commissioner of finance may declare his or her office vacant.
@@ -166,7 +202,9 @@ If at any time during the continuance in office of the city collector or deputy 
 
 
 
-*§ 11-118 Bureau of city collections; duties. * ::
+
+
+*§ 11-118 Bureau of city collections; duties.* ::
 
 
 The duties of the bureau of city collections shall also include the collection of water rents, charges, fines and penalties in connection with the water supply, including arrears, sewer rents, sewer surcharges, charges, fines and penalties in connection with the sewer system as defined in sections 24-514 and 24-523 of the code, including arrears, interest on bonds and mortgages and revenue arising from the sale of property belonging to or managed by the city.
@@ -174,7 +212,9 @@ The duties of the bureau of city collections shall also include the collection o
 
 
 
-*§ 11-119 City collector; absence; suspension of. * ::
+
+
+*§ 11-119 City collector; absence; suspension of.* ::
 
 
 a. In case of inability of the city collector to perform the duties of his or her office by reason of sickness or absence from the city, the commissioner of finance shall designate some suitable person to perform the duties of the city collector's office during such inability or absence, and shall, if the comptroller so requires, take from such person a bond, with sufficient sureties, in the manner hereinafter prescribed.
@@ -184,7 +224,9 @@ b. If the city collector or any deputy collector shall on any day omit or neglec
 
 
 
-*§ 11-120 Bond of city collector to be filed. * ::
+
+
+*§ 11-120 Bond of city collector to be filed.* ::
 
 
 The bond given by the city collector shall be filed and remain in the office of the comptroller, and true copies thereof, certified by the comptroller, shall be filed in the office of the clerk of each of the counties embraced within the city, and shall be public records. In case a certificate of the adjustment of the accounts of the city collector be made, a true copy thereof, certified by the comptroller, shall be filed in each of the offices in which a copy of the bond of the city collector shall have been filed.
@@ -192,7 +234,9 @@ The bond given by the city collector shall be filed and remain in the office of 
 
 
 
-*§ 11-121 City collector; daily statements and accounts. * ::
+
+
+*§ 11-121 City collector; daily statements and accounts.* ::
 
 
 a. The city collector or the deputy collector in each borough office of the city collector shall enter upon accounts, to be maintained in each such office for each parcel of property, the payment of taxes, assessments, sewer rents or water rents thereon, the amount therefor, and the date when paid. The city collector shall daily enter into suitable books to be kept for the purpose of such accounts, such payments and the respective parcels on account of which the same were paid.
@@ -204,7 +248,9 @@ c. At the close of office hours each day, the city collector shall also furnish 
 
 
 
-*§ 11-122 Exemption from taxes granted to REMICs. * ::
+
+
+*§ 11-122 Exemption from taxes granted to REMICs.* ::
 
 
 An entity that is treated for federal income tax purposes as a real estate mortgage investment conduit, hereinafter referred to as a REMIC, as such term is defined in section 860D of the internal revenue code, shall be exempt from all taxation under chapters five and six of this title. A REMIC shall not be treated as a corporation, partnership or trust for purposes of chapter six of this title. The assets of a REMIC shall not be included in the calculation of any tax liability under chapter six. This provision does not exempt the holders of regular or residual interests, as defined in section 860G of the internal revenue code, in a REMIC from tax on or measured by such regular or residual interests, or on income from such interests.
@@ -212,7 +258,9 @@ An entity that is treated for federal income tax purposes as a real estate mortg
 
 
 
-*§ 11-123 Interest compounded daily. * ::
+
+
+*§ 11-123 Interest compounded daily.* ::
 
 
 In computing the amount of any interest required to be paid under section 11-224 (except subdivision j thereof), 11-224.1, 11-264, 11-306, 11-307, 11-312, 11-313, 17-151, 19-152, 24-317, 24-512, 24-605, 26-128, 26-517.1, 27-2144 or 27-4029.1 of the code, such interest shall be compounded daily.
@@ -220,7 +268,9 @@ In computing the amount of any interest required to be paid under section 11-224
 
 
 
-*§ 11-124 Conciliation conferences. * ::
+
+
+*§ 11-124 Conciliation conferences.* ::
 
 
 a. The commissioner of finance may establish a procedure for providing conciliation conferences for purposes of settling contested determinations of taxes or charges or denials of refunds or credits with respect to taxes or charges imposed under chapter five, six, seven, eight, nine, eleven, twelve, thirteen, fourteen, fifteen, twenty-one, twenty-two, twenty-four, twenty-five or twenty-seven of this title, or for the purpose of settling disputes arising from the notification of the refusal to grant, the suspension or the revocation of a license issued pursuant to chapter thirteen of this title. If such a procedure is established, a conciliation conference shall be provided at the option of any taxpayer or any other person subject to the provisions of any of such chapters. For purposes of this subdivision, if the commissioner of finance fails to act with respect to a refund application before the expiration of the time period after which the taxpayer may file a petition for refund with the tax appeals tribunal established by section one hundred sixty-eight of the charter pursuant to subdivision (c) of section 11-529 or subdivision three of section 11-680 of the code, such failure shall be deemed to be the denial of a refund.
@@ -234,7 +284,9 @@ d. The commissioner of finance is authorized and empowered to make, adopt and am
 
 
 
-*§ 11-125 Temporary amnesty program; commercial rent or occupancy tax, utility tax, real property transfer tax and hotel room occupancy tax. * ::
+
+
+*§ 11-125 Temporary amnesty program; commercial rent or occupancy tax, utility tax, real property transfer tax and hotel room occupancy tax.* ::
 
 
 a. Notwithstanding any other provision of law to the contrary, the commissioner of finance shall establish a three-month amnesty program, to be effective during the fiscal year of the city beginning July first, nineteen hundred ninety-four, for all taxpayers owing any commercial rent or occupancy tax imposed by chapter seven of this title, utility tax imposed by chapter eleven of this title, real property transfer tax imposed by chapter twenty-one of this title or hotel room occupancy tax imposed by chapter twenty-five of this title. Such amnesty program shall apply, (1) in the case of the commercial rent or occupancy tax, to tax liabilities for tax periods ending on or before May thirty-first, nineteen hundred ninety-three, (2) in the case of the utility tax, to tax liabilities for tax periods ending on or before March thirty-first, nineteen hundred ninety-four, (3) in the case of the real property transfer tax, to tax liabilities arising out of taxable events occurring before April first, nineteen hundred ninety-four and (4) in the case of the hotel room occupancy tax, to tax liabilities for tax periods ending on or before February twenty-eighth, nineteen hundred ninety-four. Amnesty tax return forms shall be in a form prescribed by the commissioner of finance and shall provide for specifications by the taxpayer of the tax and the taxable period or taxable event for which amnesty is being sought. The taxpayer must also provide such additional information as is required by the commissioner of finance. Amnesty shall be granted only for the tax and taxable periods or taxable events specified by the taxpayer on such forms (hereinafter referred to as "designated taxes").
@@ -256,7 +308,9 @@ h. For purposes of this section, the amnesty tax return forms and other document
 
 
 
-*§ 11-126 Definitions. * ::
+
+
+*§ 11-126 Definitions.* ::
 
 
 When used in this title, the term "partnership" shall mean an entity classified as a partnership for federal income tax purposes, including a subchapter K limited liability company, and the term "partner" or the term "member" when used in relation to a partnership shall include a member of a subchapter K limited liability company, unless the context requires otherwise. The term "subchapter K limited liability company" shall mean a limited liability company classified as a partnership for federal income tax purposes. The term "limited liability company" means a domestic limited liability company or a foreign limited liability company, as defined in section one hundred two of the state limited liability company law, a limited liability investment company formed pursuant to section five hundred seven of the banking law, or a limited liability trust company formed pursuant to section one hundred two-a of the banking law. Notwithstanding anything herein to the contrary, this section shall not apply for purposes of chapter seventeen or nineteen of this title.
@@ -264,7 +318,9 @@ When used in this title, the term "partnership" shall mean an entity classified 
 
 
 
-*§ 11-127 Temporary amnesty program; chapters five, six, seven, eight, nine, eleven, twelve, thirteen, fourteen, fifteen, twenty-one, twenty-four, twenty-five and twenty-seven of this title. * ::
+
+
+*§ 11-127 Temporary amnesty program; chapters five, six, seven, eight, nine, eleven, twelve, thirteen, fourteen, fifteen, twenty-one, twenty-four, twenty-five and twenty-seven of this title.* ::
 
 
 a. Notwithstanding any other provision of law to the contrary, the commissioner of finance shall establish a three-month amnesty program, to be effective during the fiscal year of the city beginning July first, two thousand three for taxpayers owing taxes or charges imposed, or formerly imposed by the above enumerated chapters of this title. Such amnesty program shall apply to tax liabilities for taxable periods ending, or transactions occurring, on or before December thirty-first, two thousand one. Amnesty applications and tax return forms shall be in a form prescribed by the commissioner of finance and shall provide for specifications by the taxpayer of the tax and taxable period or taxable event for which amnesty is being sought. The taxpayer must also provide such additional information as is required by the commissioner of finance. Amnesty shall be granted only for liabilities for taxes and charges imposed or formerly imposed under the above chapters for the taxable periods or taxable events specified by the taxpayer on such forms (hereinafter referred to as "designated taxes").
@@ -306,7 +362,9 @@ l. (1)    Notwithstanding any other provision of this section to the contrary
 
 
 
-*§ 11-128 Payment of real property taxes by electronic funds transfer. * ::
+
+
+*§ 11-128 Payment of real property taxes by electronic funds transfer.* ::
 
 
 a. Definition. "Electronic funds transfer" shall mean any transfer of funds, other than a transaction originated by check, draft or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument or computer or magnetic tape so as to order, instruct or authorize a financial institution to debit or credit an account.
@@ -364,7 +422,9 @@ l. Rules. The commissioner may promulgate rules necessary to implement this sect
 
 
 
-*§ 11-129 Department of finance statement of account. * ::
+
+
+*§ 11-129 Department of finance statement of account.* ::
 
 
 a. At intervals determined by the commissioner of finance, the department of finance shall send to owners of real property a statement of account for the property, which shall represent a bill for taxes, charges and assessments, and which shall include, in a manner determined by the commissioner, a description of taxes, charges and assessments that remain unpaid on the property, and payments received by the department for taxes, charges and assessments on the property, and which may include additional information as the commissioner deems appropriate.
@@ -376,7 +436,9 @@ c. Notwithstanding subdivision b of this section, in lieu of mailing the stateme
 
 
 
-*§ 11-130 Financial institution data match system for tax collection purposes. * ::
+
+
+*§ 11-130 Financial institution data match system for tax collection purposes.* ::
 
 
 1. Definitions. As used in this section:
@@ -404,7 +466,9 @@ c. Notwithstanding subdivision b of this section, in lieu of mailing the stateme
 
 
 
-*§ 11-131 Voluntary disclosure and compliance program. * ::
+
+
+*§ 11-131 Voluntary disclosure and compliance program.* ::
 
 
 a. Notwithstanding the provisions of any other law to the contrary, there is hereby established a voluntary disclosure and compliance program, as described in this section, to be administered by the commissioner, for all eligible taxpayers as described in this section, owing any tax imposed or previously imposed under this title.
@@ -450,7 +514,9 @@ i. The voluntary disclosure and compliance application, the disclosure statement
 
 
 
-*§ 11-132 Mandatory electronic filing and payment. * ::
+
+
+*§ 11-132 Mandatory electronic filing and payment.* ::
 
 
 a. For purposes of this section, the following terms have the specified meanings:
@@ -490,7 +556,9 @@ g. The commissioner of finance is authorized to promulgate any rules necessary t
 
 
 
-*§ 11-133 Consent to dissolution of a corporation. * ::
+
+
+*§ 11-133 Consent to dissolution of a corporation.* ::
 
 
 Where a corporation files an application for consent to dissolution with the commissioner of finance for purposes of obtaining non-judicial dissolution under article ten of the business corporation law or article ten of the not-for-profit corporation law, such consent shall be issued by the commissioner only if the commissioner has determined that all fees, taxes, penalties and interest imposed on such corporation under chapters six, seven, eight, ten, eleven, twelve, thirteen, fourteen, fifteen, twenty-one, twenty-four, twenty-five and twenty-seven of this title have been (a) paid in full, or (b) paid pursuant to an offer in compromise pursuant to paragraph c or d of subdivision two of section fifteen hundred four of the New York city charter. Notwithstanding the preceding sentence, the commissioner of finance is authorized in his or her discretion and in such manner and on such terms as he or she may determine to issue a consent to dissolution if a written agreement for payment of such fees, taxes, penalties and interest is executed with the commissioner. Such applications shall be filed in the form and manner determined by the commissioner.
@@ -498,7 +566,9 @@ Where a corporation files an application for consent to dissolution with the com
 
 
 
-*§ 11-134 Data verification. * ::
+
+
+*§ 11-134 Data verification.* ::
 
 
 1. No exemption described herein shall be granted unless the person applying for such exemption submits:
@@ -518,6 +588,8 @@ Where a corporation files an application for consent to dissolution with the com
 * Editor's note: as in original; should likely be "...copy of the....".
 
 2. Any application for any exemption referenced in this section shall contain a certification clause that informs applicants that execution and submission of an application for an exemption referenced herein shall be deemed a certification by such applicant that all statements made on such application are true and correct to the best of the applicant's knowledge and that such applicant has made no willful false statements of material fact.
+
+
 
 
 
@@ -552,6 +624,8 @@ Where a corporation files an application for consent to dissolution with the com
 
 
 
+
+
 *§ 11-136 Report on notices of violations returnable to the environmental control board.* ::
 
 
@@ -566,6 +640,8 @@ b. For purposes of this section, the following terms shall have the specified me
    "Default penalty" means a penalty imposed by the environmental control board, pursuant to section 1049-a of the charter, in the maximum amount prescribed by law for the violation charged.
 
    "Respondent" means a person or entity named as the subject of a notice of violation returnable to, or a judgment issued by, the environmental control board, or such other person or entity who asserts legal responsibility for the liability of the person or entity named in the notice or the judgment.
+
+
 
 
 
@@ -640,6 +716,8 @@ c. Report on Eligibility. No later than December thirty-first, two thousand eigh
 
 
 
+
+
 *§ 11-138 Notice to senior citizen rent increase exemption and disability rent increase exemption program tenants regarding legal regulated and preferential rents.* ::
 
 
@@ -680,6 +758,8 @@ d. No later than January 1, 2018, in cases where a tenant who pays a preferentia
 
 
 
+
+
 *§ 11-139 Dissemination of senior citizen rent increase exemption program information.* ::
 
 
@@ -694,10 +774,14 @@ c. Participating agencies and the department of finance shall adopt such rules a
 
 
 
+
+
 *§ 11-140 Notice to class two properties.** ::
 
 
 The department shall, prior to the first day of January, provide notice to owners of class two properties, as defined in subdivision 1 of section 1802 of the real property tax law, of their annual obligation to register any dwelling units within their building that are subject to rent stabilization, pursuant to chapter 4 of title 26, with the state division of housing and community renewal. Such notice shall also include information regarding financing programs administered by the department of housing preservation and development to facilitate affordability. Such notice shall, when practicable, be included on the property tax bill for payment of the installment of real property tax that is due and payable on the first day of January.
+
+
 
 
 
@@ -720,7 +804,9 @@ Chapter 2: Real Property Assessment, Taxation and Charges
 
 **Subchapter 1: Assessment On Real Property**
 
-*§ 11-201 Assessments on real property; general powers of finance department. * ::
+
+
+*§ 11-201 Assessments on real property; general powers of finance department.* ::
 
 
 The commissioner of finance shall be charged generally with the duty and responsibility of assessing all real property subject to taxation within the city.
@@ -728,7 +814,9 @@ The commissioner of finance shall be charged generally with the duty and respons
 
 
 
-*§ 11-202 Maps and records; surveyor. * ::
+
+
+*§ 11-202 Maps and records; surveyor.* ::
 
 
 The commissioner of finance shall appoint a surveyor who shall make the necessary surveys and corrections of the block or ward maps, and also make all new tax maps which may be required.
@@ -736,7 +824,9 @@ The commissioner of finance shall appoint a surveyor who shall make the necessar
 
 
 
-*§ 11-203 Maps and records; tax maps. * ::
+
+
+*§ 11-203 Maps and records; tax maps.* ::
 
 
 a. As used in the charter and in the code, the term "tax maps" shall mean and include the block map of taxes and assessments to the extent that the territory within the city of New York is or shall be embraced in such map, such ward or land maps as embrace the remainder of such city, and also such maps as may be prepared under and pursuant to subdivision d of this section.
@@ -760,7 +850,9 @@ f. On or before July first, nineteen hundred sixty-four, the department of finan
 
 
 
-*§ 11-204 Tax maps; block references; alterations and corrections. * ::
+
+
+*§ 11-204 Tax maps; block references; alterations and corrections.* ::
 
 
 a. On and after July first, nineteen hundred sixty-four, the use of the land maps in the offices of the city register and in the offices of the clerks of the counties of New York, Bronx, Kings and Queens, shall be discontinued, and on and after July first, nineteen hundred sixty-four, reference shall be had to the tax maps for the boroughs of Manhattan, Bronx, Brooklyn and Queens and to block numbers designated thereon for the purpose of indexing, recording or filing of instruments affecting title or relating to real property in such counties and the tax maps for said boroughs shall be conclusive as to the location of block boundaries and block numbers. The tax map for each borough may be referred to as the land map for the particular county which it affects.
@@ -774,7 +866,9 @@ d. The word "block", as used in this section designates a plot or parcel of land
 
 
 
-*§ 11-205 Maps and records; public inspection; evidential value. * ::
+
+
+*§ 11-205 Maps and records; public inspection; evidential value.* ::
 
 
 a. The books, maps, assessment-rolls, files and records of the department of finance shall be kept in such of the offices of the department of finance as may be most convenient to the taxpayers of the city and suitable to the proper discharge of the business of the department of finance. They shall be public records and shall at all reasonable times be open to public inspection.
@@ -784,7 +878,9 @@ b. Copies of all such records and transcripts thereof, certified by the commissi
 
 
 
-*§ 11-206 Power of the commissioner of finance to correct errors. * ::
+
+
+*§ 11-206 Power of the commissioner of finance to correct errors.* ::
 
 
 The commissioner of finance may correct any assessment or tax which is erroneous due to a clerical error or to an error of description contained in the several books of annual record of assessed valuations, or in the assessments-rolls. If the taxes computed on such erroneous assessment have been paid, the commissioner of finance is authorized to refund or credit the difference between the taxes computed on the erroneous and corrected assessments.
@@ -792,7 +888,9 @@ The commissioner of finance may correct any assessment or tax which is erroneous
 
 
 
-*§ 11-207 Duties of assessors in assessing property. * ::
+
+
+*§ 11-207 Duties of assessors in assessing property.* ::
 
 
 a. In performing their assessment duties, the assessors shall personally examine each parcel of taxable real estate during at least every third assessment cycle, and shall personally examine each parcel of real estate that is not taxable during at least every fifth assessment cycle, as measured from the last preceding assessment cycle during which such parcel was personally examined. Notwithstanding anything in the preceding sentence to the contrary, the assessors shall revalue, reassess or update the assessment of each parcel of taxable or nontaxable real estate during each assessment cycle, irrespective of whether such parcel was personally examined during each assessment cycle.
@@ -802,7 +900,9 @@ b. The persons having charge of the borough assessment offices shall furnish to 
 
 
 
-*§ 11-207.1 Information related to estimate of assessed valuation and notice of property value. * ::
+
+
+*§ 11-207.1 Information related to estimate of assessed valuation and notice of property value.* ::
 
 
 a. Not later than the fifteenth day of February, the commissioner of finance shall submit the following information relating to the estimate of the assessed valuation of real property for the ensuing fiscal year to the mayor and to the council, and publish such information on the website of the department:
@@ -824,7 +924,9 @@ b. The notice of property value sent by the department to an owner of real prope
 
 
 
-*§ 11-208 Special right of entry; certificate of the commissioner of finance. * ::
+
+
+*§ 11-208 Special right of entry; certificate of the commissioner of finance.* ::
 
 
 A right of entry upon real property and into buildings and structures at all reasonable times to ascertain the character of the property shall not be allowed to any person acting in behalf of the department of finance, other than the officials mentioned in sections one hundred fifty-six and one thousand five hundred twenty-one of the charter, unless a certificate therefor, executed in writing and signed by the commissioner of finance, is presented by such person to the owner, lessee, or occupant of the premises or his or her agent before entry thereon is made.
@@ -832,7 +934,9 @@ A right of entry upon real property and into buildings and structures at all rea
 
 
 
-*§ 11-208.1 Income and expense statements. * ::
+
+
+*§ 11-208.1 Income and expense statements.* ::
 
 
 a. Where real property is income-producing property, the owner shall be required to submit annually to the department not later than the first day of June, a statement of all income derived from and all expenses attributable to the operation of such property as follows:
@@ -890,7 +994,9 @@ h. Subdivision f of this section shall be deemed a state statute for purposes of
 
 
 
-*§ 11-209 Taxable status of building in course of construction. * ::
+
+
+*§ 11-209 Taxable status of building in course of construction.* ::
 
 
 a. A building, other than a commercial building, in the course of construction, commenced since the preceding fifth day of January and not ready for occupancy on the fifth day of January following, shall not be assessed unless it shall be ready for occupancy or a part thereof shall be occupied prior to the fifteenth day of April.
@@ -910,7 +1016,9 @@ e. Any building that receives the benefit conferred pursuant to subdivision b of
 
 
 
-*§ 11-210 Books of annual record of assessed valuation of real estate indicated by parcel numbers; form and contents. * ::
+
+
+*§ 11-210 Books of annual record of assessed valuation of real estate indicated by parcel numbers; form and contents.* ::
 
 
 a. There shall be kept in the several offices of the department of finance, books of the annual record of the assessed valuation of real estate to be called "the annual record of the assessed valuation of real estate indicated by parcel numbers in the borough of.........", in which shall be entered in detail the assessed valuation of each separately assessed parcel indicated by a parcel number within the limits of the several boroughs.
@@ -922,7 +1030,9 @@ c. Such books shall be prepared in such manner that the assessed valuations ente
 
 
 
-*§ 11-211 Books of annual record of assessed valuation of real estate indicated by identification numbers. * ::
+
+
+*§ 11-211 Books of annual record of assessed valuation of real estate indicated by identification numbers.* ::
 
 
 a. The assessed valuation of all taxable real property indicated by identification numbers shall be entered in the main office of the department of finance, and in the branch office in the borough where the same is assessed.
@@ -934,7 +1044,9 @@ c. There shall be kept in the main office of the department of finance, books of
 
 
 
-*§ 11-212 Power of the commissioner of finance to equalize assessments before opening books. * ::
+
+
+*§ 11-212 Power of the commissioner of finance to equalize assessments before opening books.* ::
 
 
 a. Before opening the several books of annual record of assessed valuation for public inspection, the commissioner of finance shall fix the valuations of property for the purpose of taxation throughout the city at such sums as will, in the commissioner's judgment, establish a just and equal relation between the valuations of property in each borough and throughout the entire city.
@@ -944,7 +1056,9 @@ b. To this end the assessors or other persons having charge of the borough offic
 
 
 
-*§ 11-213 Errors in annual records or assessment-rolls. * ::
+
+
+*§ 11-213 Errors in annual records or assessment-rolls.* ::
 
 
 The omission from the several books of annual record of assessed valuations or from the assessment-rolls in respect to the entry therein of the name of the rightful owner or owners of real estate, whether individuals or corporations, shall not invalidate any tax or assessment. In such case, however, no tax shall be collected except from the real estate so assessed.
@@ -952,7 +1066,9 @@ The omission from the several books of annual record of assessed valuations or f
 
 
 
-*§ 11-214 Procedure on apportionment of assessment. * ::
+
+
+*§ 11-214 Procedure on apportionment of assessment.* ::
 
 
 a. The commissioner of finance may apportion any assessment in such manner as he or she shall deem just and equitable, and forthwith cause such assessment to be cancelled and new assessments, equal in the aggregate to the cancelled assessment, to be made on the proper books and rolls. Within five days thereafter the commissioner of finance shall cause written notice of the new assessments to be mailed to the owners of record of the real estate so assessed at their last known residence or business address, and an affidavit of the mailing of such notice to be filed in the main office of the department of finance.
@@ -962,7 +1078,9 @@ b. When such notice is mailed after the first day of February such owners may ap
 
 
 
-*§ 11-215 Entry of corrections made by tax commission. * ::
+
+
+*§ 11-215 Entry of corrections made by tax commission.* ::
 
 
 Upon receiving notice of a correction of an assessment made by the tax commission, the commissioner of finance shall cause the amount of the assessment as corrected to be entered upon the proper books of annual record and the assessment-rolls for the year for which such correction is made.
@@ -970,7 +1088,9 @@ Upon receiving notice of a correction of an assessment made by the tax commissio
 
 
 
-*§ 11-216 Reduction in assessments; publication. * ::
+
+
+*§ 11-216 Reduction in assessments; publication.* ::
 
 
 a. There shall be published annually in the City Record a list of all reductions in real property assessments granted by the tax commission identifying the name of the property owner, the address and the amount of reduction.
@@ -982,7 +1102,9 @@ c. In all cases where the reduction in assessment for the current year is for fi
 
 
 
-*§ 11-217 Assessment-rolls; form and contents. * ::
+
+
+*§ 11-217 Assessment-rolls; form and contents.* ::
 
 
 Assessment-rolls shall be so arranged with respect to number of columns and shall contain such entries as the commissioner of finance shall prescribe, sufficient to identify the property assessed and to show its total assessed valuation. Real estate shall be described therein by the numbers by which such property is designated on the tax maps and in the several books of the annual record of the assessed valuation of real estate, and such numbers shall import into the assessment-rolls any necessary identifying description shown by the tax maps.
@@ -990,7 +1112,9 @@ Assessment-rolls shall be so arranged with respect to number of columns and shal
 
 
 
-*§ 11-218 Assessment-rolls; delivery to council or city clerk. * ::
+
+
+*§ 11-218 Assessment-rolls; delivery to council or city clerk.* ::
 
 
 a. The council shall meet at noon, on the day of delivery of the rolls, other than a Saturday, Sunday, or legal holiday, at the city hall or usual place of meeting for the purpose of receiving the assessment-rolls and performing such other duties in relation thereto as are prescribed by law.
@@ -1000,7 +1124,9 @@ b. If the council fails to meet as herein prescribed, the rolls shall be deliver
 
 
 
-*§ 11-219 Books of annual record; delivery for publication. * ::
+
+
+*§ 11-219 Books of annual record; delivery for publication.* ::
 
 
 Within two weeks after the delivery of the assessment-rolls to the council, the commissioner of finance shall furnish to the director of the City Record a copy of the several books of the annual record of the assessed valuation of real estate, omitting, however, the two columns headed respectively "size of house" and "houses on lot."
@@ -1008,7 +1134,9 @@ Within two weeks after the delivery of the assessment-rolls to the council, the 
 
 
 
-*§ 11-220 Council; date of meeting to fix tax rate. * ::
+
+
+*§ 11-220 Council; date of meeting to fix tax rate.* ::
 
 
 The council shall meet on a day other than a Saturday, Sunday or legal holiday, to fix the annual tax rate.
@@ -1016,7 +1144,9 @@ The council shall meet on a day other than a Saturday, Sunday or legal holiday, 
 
 
 
-*§ 11-221 Extension of tax on assessment-rolls or upon assessment-roll cards. * ::
+
+
+*§ 11-221 Extension of tax on assessment-rolls or upon assessment-roll cards.* ::
 
 
 The respective sums to be paid as taxes on the valuation of real property, may be set down in the assessment-rolls, or upon assessment-roll cards.
@@ -1024,7 +1154,9 @@ The respective sums to be paid as taxes on the valuation of real property, may b
 
 
 
-*§ 11-222 Tax account of the commissioner of finance. * ::
+
+
+*§ 11-222 Tax account of the commissioner of finance.* ::
 
 
 Upon notification from the public advocate of the amount of taxes mentioned in such assessment-rolls and tax warrants, the comptroller shall cause the proper sum to be charged to the commissioner of finance for collection.
@@ -1032,7 +1164,9 @@ Upon notification from the public advocate of the amount of taxes mentioned in s
 
 
 
-*§ 11-223 Apportionment of taxes. * ::
+
+
+*§ 11-223 Apportionment of taxes.* ::
 
 
 a. If a sum of money in gross has been or shall be taxed upon any lands or premises, any person or persons claiming any dividend or undivided part thereof may pay such part of such sum so taxed and of any interest and charges due or charged thereon, as the commissioner of finance may deem to be just and equitable.
@@ -1044,7 +1178,9 @@ c. The remainder of the sum of money so taxed and the interest and charges shall
 
 
 
-*§ 11-224 Interest on unpaid taxes. * ::
+
+
+*§ 11-224 Interest on unpaid taxes.* ::
 
 
 a. If any tax on real estate which shall have become due and payable prior to January first, nineteen hundred thirty-four, is unpaid in whole or in part, the commissioner of finance shall charge, receive and collect interest upon the amount of such tax or such part thereof, to be calculated to the date of payment at the rate of seven per centum per annum from the date when such tax or such part thereof became due and payable to January first, nineteen hundred thirty-four, at the rate of ten per centum per annum from January first, nineteen hundred thirty-four to May first, nineteen hundred thirty-seven, or at the rate of seven per centum per annum for such period if the comptroller and the commissioner of finance, in their discretion, both determine that the payment of any tax arrears at such reduced rate of interest may operate to save the property upon which such taxes are in arrears from foreclosure or encourage its development or is otherwise in the public interest, at the rate of seven per centum per annum from May first, nineteen hundred thirty-seven to August first, nineteen hundred sixty-nine, and from August first, nineteen hundred sixty-nine to December thirty-first, nineteen hundred seventy-six, at the rate of seven per centum per annum if the annual tax on a parcel is two thousand dollars or less, and at the rate of one per centum per month if the annual tax on a parcel is more than two thousand dollars or, irrespective of the annual tax, if a parcel consists of vacant or unimproved land, and from January first, nineteen hundred seventy-seven at the rate of seven per centum per annum if the annual tax on a parcel is two thousand dollars or less, and at the rate of fifteen per centum per annum if the annual tax on a parcel is more than two thousand dollars or, irrespective of the annual tax, if a parcel consists of vacant or unimproved land.
@@ -1076,7 +1212,9 @@ l. No later than the fifth day following the date of enactment of this subdivisi
 
 
 
-*§ 11-224.1 Interest on unpaid real property tax. * ::
+
+
+*§ 11-224.1 Interest on unpaid real property tax.* ::
 
 
 (a) For real property with an assessed value of two hundred fifty thousand dollars or less, if an installment of tax due and payable is not paid by July fifteenth, October fifteenth, January fifteenth or April fifteenth, interest shall be imposed on such unpaid amounts.
@@ -1122,7 +1260,9 @@ l. No later than the fifth day following the date of enactment of this subdivisi
 
 
 
-*§ 11-225 Power of tax commission to remit or reduce taxes. * ::
+
+
+*§ 11-225 Power of tax commission to remit or reduce taxes.* ::
 
 
 The tax commission shall have power to remit or reduce a tax imposed upon real property where lawful cause therefor is shown or where such tax is found to be excessive or otherwise erroneous, but such remission or reduction shall be made only with respect to an assessment for which an application for correction has been made pursuant to section one hundred sixty-three of the charter, and no such remission or reduction shall be made when a claim to correct the assessment or recover the tax would be barred by passage of time or other adequate defense, or when, at the time that the determination is rendered, applications for correction or other proceedings are pending to review the assessment of such property for more than one subsequent fiscal year. Notwithstanding the foregoing provisions of this section, the tax commission shall have no power to remit or reduce a tax pursuant to this section more than five years after the last day on which an application for correction could have been filed to appeal the unlawful or erroneous assessment upon which such tax was based. If such tax shall have been paid the commissioner of finance is authorized to refund or credit the amount of any such remission or reduction granted pursuant to this section. When the correction results from an application for correction made by the board of managers of a condominium, a refund may be paid to the board of managers for distribution to the individual unit owners with the consent of such board and on such conditions as the commissioner deems appropriate.
@@ -1130,7 +1270,9 @@ The tax commission shall have power to remit or reduce a tax imposed upon real p
 
 
 
-*§ 11-226 Special right of entry; certificate of president. * ::
+
+
+*§ 11-226 Special right of entry; certificate of president.* ::
 
 
 A right of entry upon real property and into buildings and structures at all reasonable times to ascertain the character of the property shall not be allowed to any person acting in behalf of the tax commission, other than the officials mentioned in sections one hundred fifty-six and fifteen hundred twenty-one of the charter, unless a certificate therefor, executed in writing and signed by the president of the tax commission, is presented by such person to the owner, lessee or occupant of the premises or his agent before entry thereon is made.
@@ -1138,7 +1280,9 @@ A right of entry upon real property and into buildings and structures at all rea
 
 
 
-*§ 11-227 Duties of authorized employees in examining applicants. * ::
+
+
+*§ 11-227 Duties of authorized employees in examining applicants.* ::
 
 
 a. Employees of the tax commission, when authorized to take testimony on application, shall reduce such testimony to writing.
@@ -1148,7 +1292,9 @@ b. Within ten days after the evidence on any application is taken, they shall tr
 
 
 
-*§ 11-228 Testimony taken on application to constitute part of record. * ::
+
+
+*§ 11-228 Testimony taken on application to constitute part of record.* ::
 
 
 All written testimony taken by the tax commission, by a commissioner, or by an employee of the commission authorized to take testimony on applications, shall constitute part of the record of the proceedings upon any assessment.
@@ -1156,7 +1302,9 @@ All written testimony taken by the tax commission, by a commissioner, or by an e
 
 
 
-*§ 11-229 Solicitation of retainers prohibited. * ::
+
+
+*§ 11-229 Solicitation of retainers prohibited.* ::
 
 
 It shall be unlawful for any person or his or her or its agents or employee, or any person acting on his or her or its behalf, to solicit, or procure through solicitation, either directly or indirectly, any retainer or agreement:
@@ -1168,7 +1316,9 @@ It shall be unlawful for any person or his or her or its agents or employee, or 
 
 
 
-*§ 11-230 Issuance of final determination; limitation of time. * ::
+
+
+*§ 11-230 Issuance of final determination; limitation of time.* ::
 
 
 Except as otherwise provided in section one hundred sixty-five of the charter, the final determination of the tax commission upon any application for the correction of an assessment and upon the evidence taken thereunder shall, where the evidence is taken by the commission or by a commissioner, be rendered within thirty days after the hearing of such application is closed. Where the evidence is taken by an employee of the tax commission authorized to take testimony on applications, the final determination shall be rendered within thirty days after the application and the testimony hereon shall have been filed with the commission at its main office. Immediately upon making a correction of an assessment, the tax commission shall notify the commissioner of finance thereof.
@@ -1176,7 +1326,9 @@ Except as otherwise provided in section one hundred sixty-five of the charter, t
 
 
 
-*§ 11-231 Proceeding to review tax assessment; contents of petition. * ::
+
+
+*§ 11-231 Proceeding to review tax assessment; contents of petition.* ::
 
 
 a. Any person or corporation claiming to be aggrieved by the assessed valuation of real property may commence a proceeding to review or correct on the merits a final determination of the tax commission by serving on the president of the tax commission, or his or her duly authorized agent, a copy of a verified petition as prescribed by law. No such petition shall be accepted unless, prior to the service thereof, an index number has been obtained from the clerk of the county in which the property is located. Within ten days after a proceeding has been commenced as hereinbefore provided, the original verified petition with proof of service shall be filed in the office of the clerk of the court in which the proceeding is to be heard.
@@ -1200,7 +1352,9 @@ e. The justice or referee before whom such proceeding shall be heard may inspect
 
 
 
-*§ 11-232 Comptroller; rates of interest on taxes and assessments. * ::
+
+
+*§ 11-232 Comptroller; rates of interest on taxes and assessments.* ::
 
 
 The comptroller shall not reduce the rate of interest upon any taxes or assessments below the amount fixed by law.
@@ -1208,7 +1362,9 @@ The comptroller shall not reduce the rate of interest upon any taxes or assessme
 
 
 
-*§ 11-233 Cancellation of unpaid taxes. * ::
+
+
+*§ 11-233 Cancellation of unpaid taxes.* ::
 
 
 When it shall appear to the comptroller that the unpaid taxes or assessments, or both, together with the interest and penalties thereon which may have been levied upon a parcel of real estate subject to easements which were in existence prior to the levying of such taxes or assessments, equal or exceed the sum for which, under ordinary circumstances, such parcel of real estate would sell subject to such easements, the comptroller, with the written approval of the corporation counsel, may settle and adjust such unpaid taxes or assessments, or both, with the interest and penalties thereon, and when it shall appear to the comptroller that such parcel of real estate would sell under ordinary circumstances subject to such easements for only a nominal sum, then the comptroller with the written approval of the corporation counsel may cancel such unpaid taxes and assessments together with the interest and penalties thereon.
@@ -1216,7 +1372,9 @@ When it shall appear to the comptroller that the unpaid taxes or assessments, or
 
 
 
-*§ 11-234 Cancellation of taxes and assessments in Queens county. * ::
+
+
+*§ 11-234 Cancellation of taxes and assessments in Queens county.* ::
 
 
 The comptroller, with the written consent of the corporation counsel, is authorized, on application being made by any person interested, to compromise and settle claims of the city for unpaid taxes and assessments, and sales for the same, within the territory formerly comprised within the boundaries of Queens county, now borough of Queens, as were imposed, confirmed, levied, or became liens upon the lands in the county of Queens, now borough of Queens, prior to January first, eighteen hundred ninety-eight.
@@ -1224,7 +1382,9 @@ The comptroller, with the written consent of the corporation counsel, is authori
 
 
 
-*§ 11-235 Board of estimate; power to cancel taxes, assessments and water rents. * ::
+
+
+*§ 11-235 Board of estimate; power to cancel taxes, assessments and water rents.* ::
 
 
 The board of estimate, upon the written certificate of the comptroller approving the same, with whom application for relief under this section shall be filed, in its discretion and upon such terms as it may deem proper, by a unanimous vote, may cancel and annul all taxes, assessments and water rents and sales to the city of any or all of the same which now are or may hereafter become a lien against any real estate owned by any corporation, entitled to exemption of such real estate owned by it from local taxation under the provisions of the real property tax law formerly contained in article one, section four, subdivision six of the tax law, provided that all taxes and water rents from which relief is asked be apportioned as of the date such corporation took title to such real estate, and that such taxes and water rents so apportioned to the period before such date, and all assessments which became a lien before such date, be paid. The commissioner of finance shall mark the city's books and rolls of taxes, assessments and water rents in accordance with the determination of the board of estimate in every case in which action shall be taken under the provisions of this section.
@@ -1232,7 +1392,9 @@ The board of estimate, upon the written certificate of the comptroller approving
 
 
 
-*§ 11-236 Powers of board of estimate to cancel taxes, water rents and assessments. * ::
+
+
+*§ 11-236 Powers of board of estimate to cancel taxes, water rents and assessments.* ::
 
 
 The council by local law may authorize the board of estimate, by unanimous vote, upon the written consent of the comptroller, to cancel and annul any taxes, water rents and assessments constituting a lien against any real property owned by a corporation whose property is exempt from taxation under the provisions of the real property tax law, notwithstanding that such taxes, water rents or assessments shall have become a lien against such real property while owned by a person or corporation not exempt under such section. The commissioner of finance shall mark the city's books and rolls of taxes and assessments in accordance with the determination of the board of estimate under such local law.
@@ -1240,7 +1402,9 @@ The council by local law may authorize the board of estimate, by unanimous vote,
 
 
 
-*§ 11-237 Cancellation of assessments, water and sewer rents on real property acquired by tax enforcement foreclosure proceedings. * ::
+
+
+*§ 11-237 Cancellation of assessments, water and sewer rents on real property acquired by tax enforcement foreclosure proceedings.* ::
 
 
 Upon the cancellation of unpaid assessments, water and sewer rents by the city collector pursuant to section 11-353 of this title, the comptroller shall charge the unpaid amounts for assessments for local improvements, so cancelled, to the surplus in the appropriate assessment fund; the unpaid amounts for water charges, meter setting and repair, meter glasses and sewer rents, so cancelled, shall be deducted from the accounts receivable of the appropriate fund.
@@ -1248,7 +1412,9 @@ Upon the cancellation of unpaid assessments, water and sewer rents by the city c
 
 
 
-*§ 11-238 Real property tax surcharge on absentee landlords. * ::
+
+
+*§ 11-238 Real property tax surcharge on absentee landlords.* ::
 
 
 a. Imposition of surcharge. A real property tax surcharge is hereby imposed on class one property, as defined in section eighteen hundred two of the real property tax law, excluding vacant land, that provides rental income and is not the primary residence of the owner or owners of such class one property, or the primary residence of the parent or child of such owner or owners, in an amount equal to zero percent of the net real property taxes for fiscal years beginning on or after July first, two thousand six. As used in this section, "net real property tax" means the real property tax assessed on class one property after deduction for any exemption or abatement received pursuant to the real property tax law or this title.
@@ -1268,7 +1434,9 @@ e. Cessation of use. In the event that a property granted an exemption from taxa
 
 
 
-*§ 11-239 Real property tax rebate for certain residential property. * ::
+
+
+*§ 11-239 Real property tax rebate for certain residential property.* ::
 
 
 1. For fiscal years beginning the first of July, two thousand three and ending the thirtieth of June, two thousand nine, a rebate in the amount of the lesser of four hundred dollars or the annual tax liability imposed on the property shall be paid to an owner or tenant-stockholder who, as of the date the application provided for in subdivision four of this section is due, owns a one, two or three family residence or a dwelling unit in residential property held in the condominium or cooperative form of ownership that is the owner or tenant-stockholder's primary residence and meets all other eligibility requirements of this section. If, with respect to the fiscal year beginning on the first of July, two thousand eight and ending on the thirtieth of June, two thousand nine, an increase in average real property tax rates would otherwise be necessary in the resolution of the city council fixing real property tax rates for such fiscal year pursuant to the charter, then the rebate to be paid for such fiscal year shall be reduced or eliminated as follows: where the sum to be raised by such increase is less than seven hundred fifty million dollars, then such rebate shall be reduced by fifty cents for each dollar of increase, and where the sum to be raised by such increase is seven hundred fifty million dollars or more, then such rebate shall be eliminated. Notwithstanding anything to the contrary in sections four hundred twenty-one-a, four hundred twenty-one-b or four hundred twenty-one-g of the real property tax law, an owner or tenant-stockholder whose property is receiving benefits pursuant to such sections shall not be prohibited from receiving a rebate pursuant to this section if such owner or tenant-stockholder is otherwise eligible to receive such rebate. Tenant-stockholders of dwelling units in a cooperative apartment corporation incorporated as a mutual company pursuant to article two, four, five or eleven of the private housing finance law shall not be entitled to the rebate authorized by this section. Such rebate shall be paid by the commissioner of finance to eligible owners or tenant-stockholders in accordance with rules promulgated by the commissioner of finance.
@@ -1336,7 +1504,9 @@ e. Cessation of use. In the event that a property granted an exemption from taxa
 
 
 
-*§ 11-240 Rebate for owners of certain real property seriously damaged by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve. * ::
+
+
+*§ 11-240 Rebate for owners of certain real property seriously damaged by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve.* ::
 
 
 1. Generally. Notwithstanding any provision of any general, special or local law to the contrary, for the fiscal year beginning on the first of July, two thousand twelve, a rebate of real property taxes in the amount provided in this section shall be paid by the commissioner of finance to an owner who owned eligible real property as defined in subdivision three of this section or a unit in such eligible real property on the thirtieth of October, two thousand twelve. If legal title to eligible real property, or ownership of shares of stock representing a dwelling unit, is held by one or more trustees, the beneficial owner or owners shall be deemed to own the property or dwelling unit for purposes of this section. Notwithstanding any provision of article four of the real property tax law to the contrary, an owner whose property is receiving benefits pursuant to any other section of article four of the real property tax law shall not be prohibited from receiving a rebate pursuant to this section if such owner is otherwise eligible to receive such rebate.
@@ -1398,6 +1568,8 @@ e. Cessation of use. In the event that a property granted an exemption from taxa
 
 
 
+
+
 *§ 11-240.1 Assessment of real property damaged by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve.* ::
 
 
@@ -1455,7 +1627,9 @@ e. Cessation of use. In the event that a property granted an exemption from taxa
 
 **Subchapter 2: Exemptions from Real Property Taxation**
 
-*§ 11-241 Discrimination in tax exempt projects. * ::
+
+
+*§ 11-241 Discrimination in tax exempt projects.* ::
 
 
 No exemption from taxation, for any project, other than a project hitherto agreed upon or contracted for, shall be granted to a housing company, insurance company, redevelopment company or redevelopment corporation, which shall directly or indirectly, refuse, withhold from, or deny to any person any of the dwelling or business accommodations in such project or property, or the privileges and services incident to occupancy thereof, on account of the race, color or creed of any such person. Any exemption from taxation hereafter granted shall terminate sixty days after a finding by the supreme court of the state of New York that such discrimination is being or has been practiced in such project or property; if within sixty days such discriminaton shall have been ended, then the exemption shall not terminate.
@@ -1463,7 +1637,9 @@ No exemption from taxation, for any project, other than a project hitherto agree
 
 
 
-*§ 11-242 Exemption and tax abatement in regard to improvements of substandard dwellings. * ::
+
+
+*§ 11-242 Exemption and tax abatement in regard to improvements of substandard dwellings.* ::
 
 
 a. As used in this section, the following terms shall have the following meanings:
@@ -1499,7 +1675,9 @@ j. The benefits of this section shall not apply to any multiple dwelling which i
 
 
 
-*§ 11-243 Reextension of exemption and tax abatement in regard to improvements of substandard dwellings. * ::
+
+
+*§ 11-243 Reextension of exemption and tax abatement in regard to improvements of substandard dwellings.* ::
 
 
 a. As used in this section, the following terms shall have the following meanings:
@@ -1907,7 +2085,9 @@ ee. The department of housing preservation and development shall make informatio
 
 
 
-*§ 11-243.1 Partial abatement for certain rebuilt real property seriously damaged by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve in a city having a population of one million or more. * ::
+
+
+*§ 11-243.1 Partial abatement for certain rebuilt real property seriously damaged by the severe storm that occurred on the twenty-ninth and thirtieth of October, two thousand twelve in a city having a population of one million or more.* ::
 
 
 1. Generally. Notwithstanding any provision of any general, special or local law to the contrary, for the fiscal year beginning on the first of July, two thousand fourteen, the commissioner of finance shall grant a partial abatement of real property taxes in the amount provided in this section to eligible real property as defined in subdivision three of this section on the first of July, two thousand fourteen. If legal title to eligible real property is held by one or more trustees, the beneficial owner or owners shall be deemed to own the property for purposes of this section. Notwithstanding any provision of article four of the real property tax law to the contrary, a property that is receiving benefits pursuant to any other section of article four of the real property tax law shall not be prohibited from receiving a partial abatement pursuant to this section if such property is otherwise eligible to receive such abatement.
@@ -1971,7 +2151,9 @@ ee. The department of housing preservation and development shall make informatio
 
 
 
-*§ 11-244 Tax exemption and abatement for rehabilitated buildings. * ::
+
+
+*§ 11-244 Tax exemption and abatement for rehabilitated buildings.* ::
 
 
 a. As used in this section, the following terms shall have the following meanings:
@@ -2095,6 +2277,8 @@ l. If any provision of this section or its application to any person shall be he
 
 
 
+
+
 *§ 11-245 Area eligibility limitations on benefits pursuant to section four hundred twenty-one-a of the real property tax law.** ::
 
 
@@ -2141,7 +2325,9 @@ l. If any provision of this section or its application to any person shall be he
 
 
 
-*§ 11-245.1 Site eligibility limitations on benefits pursuant to section four hundred twenty-one-a of the real property tax law. * ::
+
+
+*§ 11-245.1 Site eligibility limitations on benefits pursuant to section four hundred twenty-one-a of the real property tax law.* ::
 
 
 (a) Where eligibility for benefits under section four hundred twenty-one-a of the real property tax law is sought for any construction commenced on or after November twenty-ninth, nineteen hundred eighty-five and before May twelfth, two thousand on the basis that such construction shall take place on land which, on the date thirty-six months prior to the commencement of such construction, was improved with a nonresidential building or buildings and was under-utilized, the under-utilization of the land must have been such that each building or buildings:
@@ -2191,6 +2377,8 @@ l. If any provision of this section or its application to any person shall be he
 
 
 
+
+
 *§ 11-245.1-a Boundary review commission.** ::
 
 
@@ -2201,6 +2389,8 @@ l. If any provision of this section or its application to any person shall be he
 (c) In conducting a review to determine whether geographic exclusion zones restricting benefits provided pursuant to section four hundred twenty-one-a of the real property tax law should be revised, the commission shall review measures of housing activity and housing market conditions throughout the city including (i) the amount of new development; (ii) values in land sales, residential sales prices and rents; (iii) trends in land sales, residential sales prices and rents and other development trend data including land use trends, lot consolidation and board of standards and appeals actions; (iv) development potential; (v) relationship between volume of potential development and existing housing; and (vi) financial feasibility of development with and without the benefits provided pursuant to section four hundred twenty-one-a of the real property tax law.
 
 (d) On or before December first of each even numbered year following the enactment of the local law that added this section, such commission shall submit a report to the speaker of the council and the mayor on its deliberations and shall include recommendations for revisions to such boundaries that it deems appropriate or why no revisions were recommended, including the methodology by which it applied the criteria in subdivision c of this section to arrive at its recommendations, and all data used to make such recommendations. Any recommendations shall be consistent with the provisions of section four hundred twenty-one-a of the real property tax law.
+
+
 
 
 
@@ -2243,7 +2433,9 @@ l. If any provision of this section or its application to any person shall be he
 
 
 
-*§ 11-245.2 Exemption for real property of certain water-works corporations. * ::
+
+
+*§ 11-245.2 Exemption for real property of certain water-works corporations.* ::
 
 
 Real property owned by a water-works corporation subject to the provisions of the public service law and used exclusively for the sale, furnishing and distribution of water for domestic, commercial and public purposes, shall not be taxable.
@@ -2251,7 +2443,9 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 
-*§ 11-245.3 Exemption for persons sixty-five years of age or over. * ::
+
+
+*§ 11-245.3 Exemption for persons sixty-five years of age or over.* ::
 
 
 1. Real property owned by one or more persons, each of whom is sixty-five years of age or over, or real property owned by husband and wife or by siblings, one of whom is sixty-five years of age or over, or real property owned by one or more persons, some of whom qualify under this section and section 11-245.4 of this part shall be exempt from taxes on real estate to the extent of fifty per centum of the assessed valuation thereof. For the purposes of this section, siblings shall mean a brother or a sister, whether related through halfblood, whole blood or adoption.
@@ -2441,7 +2635,9 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 
-*§ 11-245.4 Exemption for persons with disabilities. * ::
+
+
+*§ 11-245.4 Exemption for persons with disabilities.* ::
 
 
 1. (a)    Real property owned by one or more persons with disabilities, or real property owned by a husband, wife, or both, or by siblings, at least one of whom has a disability, or real property owned by one or more persons, some of whom qualify under this section and section 11-245.3 of this part, and whose income, as hereafter defined, is limited by reason of such disability, shall be exempt from taxes on real estate to the extent of fifty per centum of the assessed valuation thereof as hereinafter provided. For purposes of this section, sibling shall mean a brother or a sister, whether related through half blood, whole blood or adoption.
@@ -2629,10 +2825,14 @@ Real property owned by a water-works corporation subject to the provisions of th
 
 
 
-*§ 11-245.45 Exemption for veterans. * ::
+
+
+*§ 11-245.45 Exemption for veterans.* ::
 
 
 Pursuant to paragraph (d) of subdivision eight of section four hundred fifty-eight of the real property tax law, the city hereby authorizes real property owned by a cooperative apartment corporation to be exempt from taxation in accordance with such section and any local laws adopted pursuant to such section beginning July first, nineteen hundred ninety-eight.
+
+
 
 
 
@@ -2647,7 +2847,9 @@ Pursuant to paragraph (3) of subdivision one of section four hundred fifty-eight
 
 
 
-*§ 11-245.5 Alternative exemption for veterans. * ::
+
+
+*§ 11-245.5 Alternative exemption for veterans.* ::
 
 
 Pursuant to paragraph (d) of subdivision six of section four hundred fifty-eight-a of the real property tax law, the city hereby authorizes real property owned by a cooperative apartment corporation to be exempt from taxation in accordance with such section and any local laws adopted pursuant to such section beginning July first, nineteen hundred ninety-eight.
@@ -2655,7 +2857,9 @@ Pursuant to paragraph (d) of subdivision six of section four hundred fifty-eight
 
 
 
-*§ 11-245.6 Alternative exemption for veterans; maximum exemptions allowable. * ::
+
+
+*§ 11-245.6 Alternative exemption for veterans; maximum exemptions allowable.* ::
 
 
 Pursuant to subparagraph (ii) of paragraph (d) of subdivision two of section four hundred fifty-eight-a of the real property tax law, the city hereby increases the maximum exemptions allowable in paragraphs (a), (b) and (c) of subdivision two of section four hundred fifty-eight-a of the real property tax law. The maximum exemption allowable in such paragraph (a) shall be fifteen percent of the assessed value of the qualifying residential real property; provided, however, that such exemption shall not exceed $48,000 or the product of $48,000 multiplied by the latest class ratio, whichever is less. In addition to the exemption provided by such paragraph (a), as increased by this section, the maximum exemption allowable in such paragraph (b) shall be ten percent of the assessed value of the qualifying residential real property; provided, however, that such exemption shall not exceed $32,000 or the product of $32,000 multiplied by the latest class ratio, whichever is less. In addition to the exemptions provided by such paragraphs (a) and (b), as increased by this section, the maximum exemption allowable in such paragraph (c) shall be the product of the assessed value of the qualifying residential real property multiplied by fifty percent of the veteran's disability rating; provided, however, that such exemption shall not exceed $160,000 or the product of $160,000 multiplied by the latest class ratio, whichever is less. The maximum exemptions allowable in such paragraphs (a), (b) and (c), as increased by this section, shall not apply to any assessment roll completed and filed prior to the first day of January, two thousand six.
@@ -2667,10 +2871,14 @@ Pursuant to subparagraph (ii) of paragraph (d) of subdivision two of section fou
 
 
 
-*§ 11-245.7 Alternative exemption for veterans; gold star parent. * ::
+
+
+*§ 11-245.7 Alternative exemption for veterans; gold star parent.* ::
 
 
 Pursuant to paragraph (b) of subdivision seven of section four hundred fifty-eight-a of the real property tax law, and in accordance with such section and any local laws adopted pursuant thereto, the city hereby includes a gold star parent within the definition of "qualified owner" as provided in paragraph (c) of subdivision one of such section, and includes property owned by a gold star parent within the definition of "qualifying residential real property" as provided in paragraph (d) of subdivision one of such section, provided that such property is the primary residence of the gold star parent.
+
+
 
 
 
@@ -2687,7 +2895,9 @@ Pursuant to subparagraph (i) of paragraph (d) of subdivision two of section four
 
 
 
-*§ 11-245.8 Notice of residential property tax exemptions. * ::
+
+
+*§ 11-245.8 Notice of residential property tax exemptions.* ::
 
 
 a. The commissioner of finance or his or her designee, shall provide a notice relating to the lien sale process to all property owners, included with the notice of value sent to property owners by the department of finance pursuant to section 1511 of the New York city charter and, in addition, no later than October thirty-first of each year, to any property owner who is delinquent in the payment of any real property taxes, assessments, or any other charges that are made a lien subject to the provisions of chapter three of this title, except sewer rents, sewer charges and water rents, if such delinquency, in the aggregate, equals or exceeds the sum of one thousand dollars. This notice shall include, but not be limited to, actions homeowners can take if a lien is sold on such property; the type of debt that can be sold in a lien sale; a timeline of statutory notifications required pursuant to section 11-320 of this title; a clear, concise explanation of the consequences of the sale of a tax lien; the telephone number and electronic mail address of the employee or employees designated pursuant to subdivision f of section 11-320 of this title; a conspicuous statement that an owner of any class of property may enter into a payment plan for the satisfaction of delinquent real property taxes, assessments, sewer rents, sewer surcharges, water rents, and any other charges that are made a lien subject to the provisions of chapter three of this title, or exclusion from the tax lien sale; and credits and property tax exemptions that may exclude certain class one real property from a tax lien sale. Such notice shall also include information on the following real property tax credits or real property tax exemptions:
@@ -2719,7 +2929,9 @@ c. The notice that is required, pursuant to this section, to be provided by the 
 
 
 
-*§ 11-245.9 Alternative exemption for veterans; transfer of title. * ::
+
+
+*§ 11-245.9 Alternative exemption for veterans; transfer of title.* ::
 
 
 1. Pursuant to subdivision eight of section four hundred fifty-eight-a of the real property tax law, where a veteran, the spouse of the veteran or unremarried surviving spouse already receiving an exemption pursuant to such section sells the property receiving such exemption and purchases property within the city, the department of finance shall transfer and prorate, for the remainder of the fiscal year, the exemption received. The prorated exemption shall be based upon the date the veteran, the spouse of the veteran or unremarried surviving spouse obtains title to the new property and shall be calculated by multiplying the tax rate for which taxes were levied, on the appropriate tax roll used for the fiscal year during which the transfer occurred, multiplied by the previously granted exempt amount, multiplied by the fraction of each fiscal year remaining subsequent to the transfer of title.
@@ -2729,7 +2941,9 @@ c. The notice that is required, pursuant to this section, to be provided by the 
 
 
 
-*§ 11-245.10 ENERGY STAR appliances. * ::
+
+
+*§ 11-245.10 ENERGY STAR appliances.* ::
 
 
 a. For the purposes of this section, the following definitions shall apply in conjunction with the definitions found in sections 27-232 and 27-2004 of this code:
@@ -2757,7 +2971,9 @@ f. The requirements of subdivisions b and c of this section shall not apply wher
 
 
 
-*§ 11-246 Taxation of property of nonprofit organizations, pharmaceutical societies and dental societies. * ::
+
+
+*§ 11-246 Taxation of property of nonprofit organizations, pharmaceutical societies and dental societies.* ::
 
 
 1. a. Pursuant to the requirements of sections four hundred twenty-a and four hundred forty-six of the real property tax law, real property owned by a corporation or association which is organized or conducted exclusively for religious, charitable, hospital, educational or cemetery purposes, or for the purposes of the moral or mental improvement of men, women or children or for two or more such purposes shall not be taxable.
@@ -2777,7 +2993,9 @@ f. The requirements of subdivisions b and c of this section shall not apply wher
 
 
 
-*§ 11-247 Definitions. * ::
+
+
+*§ 11-247 Definitions.* ::
 
 
 When used in this part:
@@ -2803,7 +3021,9 @@ i. "Vacant land" means land, including land under water, which contains no enclo
 
 
 
-*§ 11-248 Industrial and commercial incentive board. * ::
+
+
+*§ 11-248 Industrial and commercial incentive board.* ::
 
 
 There shall be an industrial and commercial incentive board to consist of the deputy mayor for economic policy and development who shall be chairperson of the board, the commissioner of finance, the chairperson of the city planning commission and the director of management and budget, each of whom shall have the power to designate an alternate to represent him or her at board meetings with all the rights and powers, including the right to vote, reserved to all board members, provided that such designation be in writing to the chairperson of the board, and three other members to be appointed by the mayor. In addition, the borough president of each borough or his or her designated representative, shall be a member of such board for the purpose of taking action with respect to property located in his or her borough. The members of the board who shall be agents, officers, or employees of the city shall serve without compensation but shall be reimbursed for expenses necessarily incurred in the performance of their duties. The members of the board who are not agents, officers, or employees of the city shall receive as compensation for their services one hundred dollars per diem, provided, however, that the total compensation paid to any such member shall not exceed twelve hundred dollars for any calendar year. Four members of the board shall constitute a quorum.
@@ -2811,7 +3031,9 @@ There shall be an industrial and commercial incentive board to consist of the de
 
 
 
-*§ 11-249 Functions, powers and duties of the board; annual designation of exemption areas and restricted commercial uses. * ::
+
+
+*§ 11-249 Functions, powers and duties of the board; annual designation of exemption areas and restricted commercial uses.* ::
 
 
 a. The members of the board shall have the following functions, powers and duties:
@@ -2849,7 +3071,9 @@ c. So far as practicable and subject to the approval of the mayor, the services 
 
 
 
-*§ 11-250 Real property tax exemption. * ::
+
+
+*§ 11-250 Real property tax exemption.* ::
 
 
 a. A real property tax exemption pursuant to this part shall be granted to an applicant who, within a period of thirty-six months, or following an extension pursuant to section 11-254 of this part within a period of forty-eight months, from the date of issuance of a certificate of eligibility has completed reconstruction or construction work in accordance with the plans approved by the board in the certificate of eligibility. The amount of the tax exemption shall be determined as follows:
@@ -2993,7 +3217,9 @@ g. Any property enjoying the benefits of a tax exemption approved by the board s
 
 
 
-*§ 11-251 Applications for certificates of eligibility. * ::
+
+
+*§ 11-251 Applications for certificates of eligibility.* ::
 
 
 a. Applications for a certificate of eligibility pursuant to this part shall be submitted for preliminary approval to the office for economic development commencing immediately after March first, nineteen hundred eighty-two and continuing until the thirty-first day of January, nineteen hundred eighty-six, on such form or forms as shall be prescribed by the board. In addition to any other information required by the board, the application shall include plans for reconstruction or construction that have been certified by a professional engineer or an architect of the applicant's choice and cost estimates or bids for the proposed reconstruction or construction. Upon a finding by such office that the application satisfies the requirements of reconstruction or construction as defined in this part, the application shall be presented to the board for evaluation and written notice thereof shall be given to the community board of the district in which the application site is located.
@@ -3013,7 +3239,9 @@ e. After the issuance of a certificate of eligibility the applicant shall apply 
 
 
 
-*§ 11-252 Approval of tax exemption. * ::
+
+
+*§ 11-252 Approval of tax exemption.* ::
 
 
 On completion of the reconstruction or construction work the applicant shall notify the board in writing of said completion. The board shall determine the eligibility of the applicant for the tax exemption as provided in section 11-250 of this part and shall notify the tax commission of such determination. If the applicant is determined to be qualified the commission shall approve the tax exemption.
@@ -3021,7 +3249,9 @@ On completion of the reconstruction or construction work the applicant shall not
 
 
 
-*§ 11-253 Continuation of tax exemption; termination of tax exemption. * ::
+
+
+*§ 11-253 Continuation of tax exemption; termination of tax exemption.* ::
 
 
 The tax exemption approved by the board shall continue in accordance with this part, provided that the applicant files an annual certificate of continuing use stating that the structure and property continue to be used for the industrial or commercial purposes justifying the issuance of the certificate of eligibility. The certificate of continuing use shall be filed with the tax commission on such form or forms and containing such information as shall be prescribed by the tax commission. The tax commission shall have authority to terminate a tax exemption on failure of an applicant to file an annual certificate of continuing use or on the recommendation of the commissioner of finance who, in reviewing the certificate filed by an applicant, has determined that the structure or property has ceased to be used for the industrial or commercial purposes justifying the issuance of the certificate of eligibility.
@@ -3029,7 +3259,9 @@ The tax exemption approved by the board shall continue in accordance with this p
 
 
 
-*§ 11-254 Extension of time for completion. * ::
+
+
+*§ 11-254 Extension of time for completion.* ::
 
 
 Where an applicant has received a certificate of eligibility but has not completed or will not be able to complete the construction or reconstruction work within thirty-six months, the board shall, upon application, extend to forty-eight months, from the time of issuance of such certificate, the time for completion of the construction or reconstruction work; provided the applicant has completed not less than two-thirds of the work as specified in the certified plans previously filed with the application at the time of such application for extension.
@@ -3037,7 +3269,9 @@ Where an applicant has received a certificate of eligibility but has not complet
 
 
 
-*§ 11-255 Prior certificates of eligibility. * ::
+
+
+*§ 11-255 Prior certificates of eligibility.* ::
 
 
 Any project for which a certificate of eligibility has been approved by the board prior to the enactment of this section shall be eligible for a tax exemption computed according to the tax exemption tables and formulae in effect on the date of such approval.
@@ -3045,7 +3279,9 @@ Any project for which a certificate of eligibility has been approved by the boar
 
 
 
-*§ 11-256 Definitions. * ::
+
+
+*§ 11-256 Definitions.* ::
 
 
 When used in this part:
@@ -3149,7 +3385,9 @@ y. "New construction exemption areas" means the areas specified in subdivision e
 
 
 
-*§ 11-257 Real property tax exemption; deferral of tax payments. * ::
+
+
+*§ 11-257 Real property tax exemption; deferral of tax payments.* ::
 
 
 The city shall be divided into six classes of areas as provided in this part and pursuant to designation of areas to be made by the temporary commercial incentive area boundary commission. Within such areas, the following benefits shall be available to qualified recipients:
@@ -3479,7 +3717,9 @@ h. No benefits pursuant to this part shall be granted for work which is the subj
 
 
 
-*§ 11-258 Temporary commercial incentive area boundary commission; classes of area; excluded areas. * ::
+
+
+*§ 11-258 Temporary commercial incentive area boundary commission; classes of area; excluded areas.* ::
 
 
 a. There shall be a temporary commercial incentive area boundary commission to consist of the deputy mayor for economic development and planning, the commissioner of finance, the chair of the city planning commission, the director of management and budget, the borough presidents, the speaker of the city council and a public member appointed by the mayor to serve at the mayor's pleasure. Each member except the public member shall have the power to designate an alternate to represent him or her at commission meetings to exercise all the rights and powers of such member, including the right to vote, provided that such designation be made in writing to the chair of the commission. The deputy mayor for economic development and planning shall be the chair of the commission. Each borough president shall be entitled to vote only on the designation of areas within his or her borough. Commission members who shall be officers or employees of the city shall serve without compensation but shall be reimbursed for expenses necessarily incurred in the performance of their duties. Any other commission member shall receive as exclusive compensation for his or her services one hundred dollars per diem, provided, however, that the total compensation paid to any such member shall not exceed twelve hundred dollars for any calendar year. A majority of members of such commission entitled to vote on a matter shall constitute a quorum for such issue. Decisions shall be made by majority vote of those present entitled to vote on a matter.
@@ -3541,7 +3781,9 @@ e. Notwithstanding the provisions of subdivision d of this section, the areas in
 
 
 
-*§ 11-259 Eligibility for benefits. * ::
+
+
+*§ 11-259 Eligibility for benefits.* ::
 
 
 a. A recipient of a certificate of eligibility with an effective date of June 30, 1992 or before must make one-half the minimum required expenditure within eighteen months of the effective date of such recipient's certificate of eligibility, and make the minimum required expenditure within thirty-six months of the effective date of such certificate to be eligible to receive the benefits of this part. A recipient of a certificate of eligibility with an effective date of July 1, 1992 or after must make one-half the minimum required expenditure within thirty months of the effective date of such recipient's certificate of eligibility, and make the minimum required expenditure within sixty months of the effective date of such certificate to be eligible to receive the benefits of this part; provided, however, that a recipient of a certificate of eligibility for renovation construction work for property located in the renovation exemption area specified in subparagraph (b) of paragraph (4) of subdivision d of section 11-258 of this part must make one-half the minimum required expenditure within eighteen months of the effective date of such recipient's certificate of eligibility, or by December 31, 1994, whichever is earlier, and make the minimum required expenditure within thirty-six months of the effective date of such certificate, or by December 31, 1995, whichever is earlier, to be eligible to receive the benefits of this part; provided, further, however, that a recipient who filed an application for a certificate of eligibility for renovation construction work for property located in the renovation exemption area specified in subparagraph (b) of paragraph (4) of subdivision d of section 11-258 of this part on or after July 1, 1994, but before February 1, 1995, must make one-half the minimum required expenditure within eighteen months of the effective date of such certificate, or by July 31, 1995, whichever is earlier, and make the minimum required expenditure within thirty-six months of the effective date of such certificate, or by July 31, 1996, whichever is earlier, to be eligible to receive the benefits of this part, provided, further, however, that a recipient who filed an application for a certificate of eligibility for renovation construction work for property located in the renovation exemption area specified in subparagraph (a) or (c) of paragraph (4) of subdivision d of section 11-258 of this part on or after July 1, 1995, must make one-half the minimum required expenditure within eighteen months of the effective date of such certificate, and make the minimum required expenditure within thirty-six months of the effective date of such certificate, to be eligible to receive the benefits of this part. Any recipient who shall fail to make such expenditures shall become ineligible and shall pay, with interest, any taxes for which an exemption or deferral was claimed pursuant to this section. This subdivision shall not apply to the recipient of a certificate of eligibility for construction of a new building or structure that meets the requirements set forth in subdivision i of section 11-259 of this part in a new construction exemption area.
@@ -3615,7 +3857,9 @@ j. No benefits pursuant to this part shall be granted for construction work perf
 
 
 
-*§ 11-260 Application for certificate of eligibility. * ::
+
+
+*§ 11-260 Application for certificate of eligibility.* ::
 
 
 a. Application for a certificate of eligibility pursuant to this part may be made immediately and continuing until June 30, 2008; provided, however, that application for a certificate of eligibility for renovation construction work for property located in the renovation exemption area specified in subparagraph (b) of paragraph (4) of subdivision d of section 11-258 of this part may not be made after January 31, 1995; provided, further, however, that application for a certificate of eligibility for construction of a new building or structure that meets the requirements set forth in subdivision i of section 11-259 of this part in the new construction exemption area specified in paragraph (1) of subdivision e of section 11-258 of this part may not be made after December 31, 1996; provided, further, however, that application for a certificate of eligibility for construction of a new building or structure that meets the requirements set forth in subdivision i of section 11-259 of this part in the new construction exemption area specified in paragraph (2) of subdivision e of section 11-258 of this part may not be made after June 30, 2003. Such application shall state whether it is for industrial, commercial or renovation construction work, and shall be filed with the department of finance. In addition to any other information required by such department, the application shall include cost estimates or bids for the proposed construction and an affidavit of a professional engineer or architect of the applicant's choice, certifying that detailed plans for the construction work have been submitted to the department of buildings. Such application shall also state that the applicant agrees to comply with and be subject to the rules issued from time to time by the department of finance to secure compliance with all applicable city, state and federal laws or which implement mayoral directives and executive orders designed to ensure equal employment opportunity. Such application shall also certify that all taxes currently due and owing on the property which is the subject of the application have been paid or are currently being paid in timely installments pursuant to written agreement with the department of finance.
@@ -3633,7 +3877,9 @@ f. The department of finance may provide by rule for reasonable administrative c
 
 
 
-*§ 11-261 Reporting requirement; termination of benefits. * ::
+
+
+*§ 11-261 Reporting requirement; termination of benefits.* ::
 
 
 a. Upon approval by the department of buildings of the plans submitted in connection with the building permit and any amendments to such plans, the recipient shall file with the department of finance a narrative description of such approved plans describing the industrial, commercial or renovation construction work for which such recipient seeks benefits pursuant to this part.
@@ -3649,7 +3895,9 @@ e. A recipient of a certificate of eligibility for construction of a new buildin
 
 
 
-*§ 11-262 Conversion of property. * ::
+
+
+*§ 11-262 Conversion of property.* ::
 
 
 a. Any recipient whose property is the subject of a certificate of eligibility for commercial or renovation construction work, and who, prior to the expiration of the benefit period, used such property as industrial property, shall continue to receive benefits for commercial or renovation construction work as the case may be.
@@ -3669,7 +3917,9 @@ d. Notwithstanding subdivision c of this section, any recipient whose property i
 
 
 
-*§ 11-263 Administration of the benefit program. * ::
+
+
+*§ 11-263 Administration of the benefit program.* ::
 
 
 a. The department of finance shall have, in addition to any other functions, powers and duties which have been or may be conferred on it by law, the following functions, powers and duties:
@@ -3691,7 +3941,9 @@ a. The department of finance shall have, in addition to any other functions, pow
 
 
 
-*§ 11-264 Tax lien; interest rate. * ::
+
+
+*§ 11-264 Tax lien; interest rate.* ::
 
 
 a. All taxes plus interest required to be paid retroactively pursuant to this part shall constitute a tax lien as of the date it is determined such taxes and interest are owed. All interest shall be calculated from the date the taxes would have been due but for the exemption, abatement or deferral claimed pursuant to this part at three per centum above the applicable rate of interest imposed by the city generally for non-payment of real property tax on such date.
@@ -3701,7 +3953,9 @@ b. All taxes for which payment is deferred pursuant to section 11-257 of this pa
 
 
 
-*§ 11-265 Penalties for non-compliance, false statements and omissions. * ::
+
+
+*§ 11-265 Penalties for non-compliance, false statements and omissions.* ::
 
 
 a. The department of finance may deny, reduce, suspend, revoke or terminate any exemption from or abatement or deferral of tax payments pursuant to this part whenever:
@@ -3715,7 +3969,9 @@ b. Notwithstanding any other law to the contrary, a recipient shall be personall
 
 
 
-*§ 11-266 Code violations; suspension of benefits. * ::
+
+
+*§ 11-266 Code violations; suspension of benefits.* ::
 
 
 a. If a court, or the environmental control board with respect to matters within its jurisdiction, finds that at the property which is the subject of a certificate of eligibility there has been a violation of any of the provisions of the building, fire and air pollution control codes set forth in subdivision b of this section, all benefits pursuant to such certificate shall be suspended unless within one hundred eighty days after the department of finance has sent notice of such finding to the recipient, and all other persons having a financial interest in the property who have filed a timely request for such notice in such form as may be prescribed by the department of finance, the recipient submits to the department of finance, certification from the department of buildings, the fire department or the department of environmental protection respectively that the underlying code violation has been cured. If the recipient fails to submit the required certification within the one hundred eighty day period, the period of suspension shall be effective retroactively to the time of the finding by the court or the environmental control board. The suspension of benefits shall continue until the recipient submits to the department of finance the required certification that the violation has been cured. If the original finding of violation or the denial of certification is appealed and a court or appropriate governmental agency finally determines that the finding of violation or denial of certification was invalid, any benefits lost pursuant to this section to which the recipient was entitled shall be restored retroactively. As applied to a recipient who is eligible for deferral of tax payments pursuant to subdivision d of section 11-257 of this part, suspension of benefits shall be deferred by operation of such section and interest at the rate charged by the department of finance for overdue taxes shall be charged on the amount of any tax payments already deferred by operation of such section. The interest charged shall accrue from the beginning of the period of suspension.
@@ -3765,7 +4021,9 @@ b. The provisions of subdivision a of this section shall apply to violations of 
 
 
 
-*§ 11-267 Annual report. * ::
+
+
+*§ 11-267 Annual report.* ::
 
 
 The department of finance shall submit an annual report to the council, on April first of each year, concerning the status of the program established pursuant to this part and its effects in the city, including information on certificates of eligibility issued and jobs created in each area where benefits are available.
@@ -3773,7 +4031,9 @@ The department of finance shall submit an annual report to the council, on April
 
 
 
-*§ 11-268 Definitions. * ::
+
+
+*§ 11-268 Definitions.* ::
 
 
 When used in this part:
@@ -3819,7 +4079,9 @@ q. "Utility property" means property and equipment as described in paragraphs (c
 
 
 
-*§ 11-269 Industrial and commercial real property tax abatement. * ::
+
+
+*§ 11-269 Industrial and commercial real property tax abatement.* ::
 
 
 a. Subject to the provisions of this part, tax abatement benefits shall be available to eligible recipients in accordance with the provisions of this section.
@@ -4183,7 +4445,9 @@ d. Limitations on abatement.
 
 
 
-*§ 11-270 Eligibility for benefits. * ::
+
+
+*§ 11-270 Eligibility for benefits.* ::
 
 
 a. Time limit for meeting minimum required expenditure. Applicants must meet the appropriate minimum required expenditure as provided in subdivision c of section 11-269 of this part relating to the abatement for which such project qualifies as follows:
@@ -4253,7 +4517,9 @@ g. Co-application with public entity. A co-applicant with a public entity may be
 
 
 
-*§ 11-271 Applying for benefits. * ::
+
+
+*§ 11-271 Applying for benefits.* ::
 
 
 a. Application.
@@ -4279,7 +4545,9 @@ c. (1)    No benefits pursuant to this part shall be granted for construction
 
 
 
-*§ 11-272 Reporting requirement. * ::
+
+
+*§ 11-272 Reporting requirement.* ::
 
 
 a. Continuing use. For the duration of the benefit period, the recipient of benefits shall file biennially with the department, on or before the appropriate taxable status date, a statement of the continuing use of such property and any changes in use that have occurred, provided, however, that any recipient of benefits receiving benefits for property defined as a peaking unit shall file such statement biannually. This statement shall be in a form determined by the department and may be in any format the department determines, in its discretion, is appropriate, including electronic format. The department shall have authority to terminate such benefits upon failure of a recipient to file such statement by the appropriate taxable status date. The burden of proof shall be on the recipient to establish continuing eligibility for benefits and the department shall have the authority to require that statements filed under this subdivision be certified.
@@ -4297,7 +4565,9 @@ c. Minimum required expenditure. No later than sixty days after the minimum requ
 
 
 
-*§ 11-273 Conversion of property. * ::
+
+
+*§ 11-273 Conversion of property.* ::
 
 
 a. Conversion from commercial to industrial use. Where a property has been granted benefits for commercial or renovation construction work, but such property is used as industrial property before the benefits period expires, such property shall continue to receive benefits for commercial or renovation construction work.
@@ -4345,7 +4615,9 @@ g. The burden shall at all times be on the recipient to demonstrate by clear and
 
 
 
-*§ 11-274 Temporary commercial incentive area boundary commission; designation of special commercial abatement areas; excluded and renovation areas. * ::
+
+
+*§ 11-274 Temporary commercial incentive area boundary commission; designation of special commercial abatement areas; excluded and renovation areas.* ::
 
 
 a. Commission members. There shall be a temporary commercial incentive area boundary commission to consist of a deputy mayor designated by the mayor, the commissioner of finance, the chair of the city planning commission, the director of management and budget, the borough presidents, the speaker of the city council and a public member appointed by the mayor to serve at the mayor's pleasure. Each member except the public member shall have the power to designate an alternate to represent him or her at commission meetings to exercise all the rights and powers of such member, including the right to vote, provided that such designation be made in writing to the chair of the commission. The deputy mayor designated by the mayor shall serve as commission chair. Each borough president shall be entitled to vote only on the designation of areas within his or her borough. Commission members who shall be officers or employees of such city shall serve without compensation but shall be reimbursed for expenses necessarily incurred in the performance of their duties. Any other commission member shall receive as exclusive compensation for his or her services one hundred dollars per diem, or another reasonable amount as determined by the deputy mayor designated by the mayor, provided, however, that the total compensation paid to any such member shall not exceed twelve hundred dollars for any calendar year, or another reasonable amount determined by the deputy mayor designated by the mayor. A majority of members of such commission entitled to vote on a matter shall constitute a quorum for such issue. Decisions shall be made by majority vote of those present entitled to vote on a matter. Notwithstanding any other law to the contrary, no officer or employee of the state or any of its subdivisions or any public benefit corporation shall be deemed to have forfeited his or her office or employment or any benefits provided under the retirement and social security law or under any public retirement system maintained by the state or any of its subdivisions by reason of accepting membership on such commission.
@@ -4381,7 +4653,9 @@ e. Eligible industrial construction projects may receive tax abatements pursuant
 
 
 
-*§ 11-275 Administration of the benefit program. * ::
+
+
+*§ 11-275 Administration of the benefit program.* ::
 
 
 The department shall have the following additional functions, powers and duties:
@@ -4409,7 +4683,9 @@ f. To make and promulgate any other rules to carry out the purposes of this part
 
 
 
-*§ 11-276 Penalties for non-compliance, false statements and omissions. * ::
+
+
+*§ 11-276 Penalties for non-compliance, false statements and omissions.* ::
 
 
 Denial, reduction, suspension, termination or revocation. The department may deny, reduce, suspend, terminate or revoke any abatement benefits where:
@@ -4421,7 +4697,9 @@ b. An application, certificate, report or other document delivered by an applica
 
 
 
-*§ 11-277 Code violations; suspension of benefits. * ::
+
+
+*§ 11-277 Code violations; suspension of benefits.* ::
 
 
 a. If a court, or the environmental control board with respect to matters within its jurisdiction, finds that there has been a violation of the city construction codes, the 1968 building code or other law or rule enforced by the department of buildings classified as immediately hazardous pursuant to chapter two of title twenty-eight of the administrative code or the rules of the department of buildings; a violation of subdivision a of section 1-102 of title fifteen of the rules of the city of New York; or a violation of the city fire code or title three of the rules of the city of New York, relating to the failure to provide a fire protection system or emergency power system, or maintain it in good working order, to prepare or, where required, submit for fire department approval, a fire safety and evacuation plan or emergency action plan, or to provide a fire safety and evacuation plan or emergency action plan staff, or relating to the obstruction of a means of egress at any property receiving benefits pursuant to this part, such benefits shall be suspended unless, within one hundred eighty days after the department of finance has sent notice of such finding to the recipient, the recipient submits to the department of finance documentation from the department of buildings, the department of environmental protection or the fire department, whichever is applicable, certifying that the underlying violation has been legally cured or corrected. Such notice may be in any form determined by the department of finance, including in electronic form, and shall be sent to the recipient on the next quarterly statement of account after the department of finance has learned of such finding. If the recipient fails to make the required submission within the one hundred eighty day period, the suspension of benefits shall continue until the recipient makes such submission to the department of finance. After the recipient makes such submission, benefits shall resume, but benefits lost during the period of suspension shall not be restored.
@@ -4431,7 +4709,9 @@ b. If the original finding of violation or denial of certification is appealed a
 
 
 
-*§ 11-278 Participation by minority- and women-owned business enterprises. * ::
+
+
+*§ 11-278 Participation by minority- and women-owned business enterprises.* ::
 
 
 a. Policy and program established. It is the policy of the city to encourage meaningful participation of minority- and women-owned business enterprises in construction work for which an applicant receives benefits under this part. A program is hereby established to further the stated policy that will be administered by the division of economic and financial opportunity within the department of small business services, or any successor thereto, in accordance with the provisions of this section.
@@ -4474,7 +4754,9 @@ f. The division shall have authority to audit the records maintained by each app
 Chapter 3: Tax Liens and Tax Sales
 --------------------------------------------------
 
-*§ 11-301 When taxes, assessments, sewer rents, sewer surcharges and water rents to be liens on land assessed. * ::
+
+
+*§ 11-301 When taxes, assessments, sewer rents, sewer surcharges and water rents to be liens on land assessed.* ::
 
 
 All taxes and all assessments and all sewer rents, sewer surcharges and water rents, and the interest and charges thereon, which may be laid or may have heretofore been laid, upon any real estate now in the city, shall continue to be, until paid, a lien thereon, and shall be preferred in payment to all other charges. The words "water rents" whenever they are used in this chapter shall include uniform annual charges and extra and miscellaneous charges for the supply of water, charges in accordance with meter rates, minimum charges for the supply of water by meter, annual service charges and charges for meters and their connections and for their setting, repair and maintenance, penalties and fines and all lawful charges for the supply of water imposed pursuant to the New York city municipal water finance authority act, which is set forth in title two-A of article five of the public authorities law. Charges for expense of meters, their connections, setting, repair or maintenance shall not be due or become a charge or lien on the premises where a water meter shall be installed or against which a charge shall be made, until such charge shall have been definitely fixed by the commissioner of environmental protection, and an entry of the amount thereof shall have been made with the date of such entry in the book in which the charges for water supplied by meter against such premises are to be entered. A charge in accordance with meter rates or minimum charges for the supply of water measured by meter, and a service charge shall not be due or become a lien or charge upon the premises where such meter is installed until an entry shall have been made indicating that such premises are metered, with the date of such entry in the book in which the charges for water by meter measurement against such premises are to be entered. The words "sewer rents" when used in this chapter shall mean any rents or charges imposed pursuant to section 24-514 of the code or pursuant to the New York city municipal water finance authority act, which is set forth in title two-A of article five of the public authorities law. The words "sewer surcharges" when used in this chapter shall mean the charges imposed pursuant to section 24-523 of the code or pursuant to the New York city municipal water finance authority act, which is set forth in title two-A of article five of the public authorities law. Whenever an increase in the amount of uniform annual charges or extra or miscellaneous charges shall have been made or a charge shall have been made for water services for any building completed subsequent to the first day of January in each year, the amount of such increase of the charge or new charge for such new building shall not be due or become a lien or charge against the premises until the amounts thereof shall have been entered with the date of such entries, respectively, in the books in which the uniform annual charges and extra or miscellaneous charges against such premises are to be entered. The words "tax lien" when used in this chapter shall mean the lien arising pursuant to the provisions of this chapter or pursuant to the New York city municipal water finance authority act, which is set forth in title two-A of article five of the public authorities law, as a result of the nonpayment of taxes, assessments, sewer rents, sewer surcharges, water rents, any other charges that are made a lien subject to the provisions of this chapter, the costs of any advertisements and notices given pursuant to this chapter, any other charges that are due and payable, a surcharge pursuant to section 11-332 of this chapter if the tax lien is sold, interest and penalties thereon and the right of the city to receive such amounts. The words "tax lien certificate" when used in this chapter shall mean the instrument evidencing a tax lien and executed by the commissioner of finance or his or her designee at such time as such lien is transferred to a purchaser upon sale of such lien by the city.
@@ -4482,7 +4764,9 @@ All taxes and all assessments and all sewer rents, sewer surcharges and water re
 
 
 
-*§ 11-302 Interest rates not to be reduced. * ::
+
+
+*§ 11-302 Interest rates not to be reduced.* ::
 
 
 The commissioner of finance shall not reduce the rate of interest upon any taxes or assessment below the amount fixed by law.
@@ -4490,7 +4774,9 @@ The commissioner of finance shall not reduce the rate of interest upon any taxes
 
 
 
-*§ 11-302.1 Error in record of payment of tax or assessment. * ::
+
+
+*§ 11-302.1 Error in record of payment of tax or assessment.* ::
 
 
 (a) If the records of the department of finance show a charge as paid due to a misapplied payment or other error, and the department later corrects the records, interest shall not be imposed until after the department (i) corrects the error and (ii) sends a statement of account or other similar bill or notice stating the amount due and when the charge must be paid to avoid the accrual of interest.
@@ -4502,7 +4788,9 @@ The commissioner of finance shall not reduce the rate of interest upon any taxes
 
 
 
-*§ 11-303 Arrears to be provided for in assessment rolls. * ::
+
+
+*§ 11-303 Arrears to be provided for in assessment rolls.* ::
 
 
 There shall be ruled in the yearly assessment rolls of the taxes in each section or ward, a column headed "arrears," in which the commissioner of finance or his or her designee shall annually before any taxes for the year are collected, cause to be entered the word "arrears" opposite to the ward, lot, town, block and map numbers on which any arrears of taxes, sewer rents, sewer surcharges or water rents, and interest and penalties thereon shall be due, or on which any assessment and interest and penalties thereon shall remain unpaid which was due or confirmed one month prior to the first of July, then last past.
@@ -4510,7 +4798,9 @@ There shall be ruled in the yearly assessment rolls of the taxes in each section
 
 
 
-*§ 11-304 Bills for taxes to show arrears. * ::
+
+
+*§ 11-304 Bills for taxes to show arrears.* ::
 
 
 There shall be ruled a column for "arrears" in every bill rendered for taxes for lots on which such arrears or assessments, sewer rents, sewer surcharges or water rents, and interest and penalties thereon may be due as aforesaid, or may have been sold and yet be redeemable, in which shall be written in a conspicuous place, "arrears". The columns for arrears shall indicate lots sold for arrears, or to be sold therefor; arrears to be paid and lots redeemed at the department of finance.
@@ -4518,7 +4808,9 @@ There shall be ruled a column for "arrears" in every bill rendered for taxes for
 
 
 
-*§ 11-305 Commissioner of finance to publish notice of confirmation of assessments. * ::
+
+
+*§ 11-305 Commissioner of finance to publish notice of confirmation of assessments.* ::
 
 
 It shall be the duty of the commissioner of finance to give public notice, by advertisement, for at least ten days, in the City Record and as soon as practicable and within ten days after the confirmation of any assessment, that the same has been confirmed, specifying the title of such assessment, and the date of its confirmation, and also the date of entry in the record of titles of assessments kept in the department of finance, addressed as a class to all persons, owners of property affected by any such assessment, that unless the amount assessed for benefit on any person or property shall be paid within ninety days after the date of the entry of any such assessment, interest shall be thereafter collected thereon as provided in section 11-306 of this chapter.
@@ -4526,7 +4818,9 @@ It shall be the duty of the commissioner of finance to give public notice, by ad
 
 
 
-*§ 11-306 Interest to be charged if assessments unpaid for ninety days; payment in installments. * ::
+
+
+*§ 11-306 Interest to be charged if assessments unpaid for ninety days; payment in installments.* ::
 
 
 If any assessment shall remain unpaid for the period of ninety days after the date of the entry thereof on the record of titles of assessments, it shall be the duty of the commissioner of finance or his or her designee to charge, collect and receive interest thereon, at the rate of seven percent per annum, to be calculated to the date of payment from the date when such assessment became a lien as provided by section three hundred fourteen of the charter in force at the time of the adoption of the New York city charter by referendum in the year nineteen hundred sixty-one, provided, however, that the commissioner of finance or his or her designee shall accept and credit as payments on account of assessments now or hereafter levied against any parcel or plot of property, such sums of money not less than twenty-five dollars or multiples thereof in amount as may be tendered for payment on account of any assessment now or hereafter levied against any property. Upon requisition by the commissioner of finance for the assessed valuation of the property affected by any assessment, the president of the tax commission, or any tax commissioner duly assigned by him or her, shall forthwith certify the same to the commissioner of finance.
@@ -4534,7 +4828,9 @@ If any assessment shall remain unpaid for the period of ninety days after the da
 
 
 
-*§ 11-307 Payments in installments of assessments heretofore or hereafter confirmed. * ::
+
+
+*§ 11-307 Payments in installments of assessments heretofore or hereafter confirmed.* ::
 
 
 Upon the application in writing of the owner of a parcel of real property affected by an unpaid assessment heretofore or hereafter confirmed the amount of which is one hundred dollars or more, the commissioner of finance shall divide the assessment upon such parcel into fifteen parts or, if the application so requests, into five parts, as nearly equal as may be, or if the amount of such assessment is fifty dollars or more but less than one hundred dollars the commissioner of finance shall divide the assessment upon such parcel into five parts as nearly equal as may be. One part thereof in any event shall be due and payable, and in each case as many more of such parts shall be due and payable as years may have elapsed since the entry of such original assessment for collection. Such parts thereof with interest at the rate of seven percent per annum on the amount of the assessment unpaid shall be paid at the time of application as a condition of the extension of time of payment of the remainder as provided in this section. Upon payment of such parts and interests, the balance of such assessments shall cease to be a lien upon such real property except as hereinafter provided; and the remaining parts shall be paid in annual installments as herein provided. Of such installments the first, with interest at the rate of four percent thereon, and on the installments thereafter to become due, from the date of payment of the parts of such assessment paid as hereinbefore provided, shall become due and payable and be a lien on the real property assessed, on the next ensuing anniversary of the date of entry of the assessment in the record of titles of assessments confirmed; and one, with interest at the rate of four percent per annum thereon and on the installments thereafter to become due shall become due and payable and be a lien upon the real property assessed, annually thereafter. After the time herein specified for annual installments and interest to become due, the amount of the lien thereon shall bear interest at the rate of seven percent per annum. Any installment assessment shall not be further divided into installments. The first installment of an assessment divided within the ninety-day period provided by section 11-306 of this chapter during which assessment may be paid without interest shall not be subject to interest, but the second installment with interest at the rate of four percent per annum from the original date of entry shall become due and payable and be a lien upon the real property on the anniversary date of entry of the assessment and the remaining installments with interest shall become due and payable and be a lien on the real property as hereinbefore provided. The installments not due with interest at the rate of four percent per annum to the date of payment may be paid at any time. The provisions of this chapter with reference to the sale of tax liens shall apply to the several unpaid installments and the interest thereon in the same manner as if each installment and the interest thereon had been imposed as an assessment payable in one payment, at the time such installment became a lien. In the event of the acquisition by condemnation by the city for public purposes any property upon which there are installments not due, such installments shall become due as of the date of the entry of the final order of the supreme court or the confirmation of the report of the commissioners in the condemnation proceedings, and shall be set off against an award that may be made for the property acquired. When an award for damage shall accrue to the same person who is or was at the time the assessment was confirmed liable for the assessments for benefit on the abutting property in the same proceedings, only the portion of the assessment in excess of such award may be considered in levying in installments under the provisions of this section. Except as provided in this section, no such annual installment shall be a lien or deemed to be an encumbrance upon the title to the real property assessed until it becomes due as herein provided.
@@ -4542,7 +4838,9 @@ Upon the application in writing of the owner of a parcel of real property affect
 
 
 
-*§ 11-308 Apportionment of assessment. * ::
+
+
+*§ 11-308 Apportionment of assessment.* ::
 
 
 If a sum of money in gross has been or shall be assessed upon any lands or premises in the city, any person or persons claiming any divided or undivided part thereof may pay such part of the sums of money so assessed, also of the interest and charges due or charged thereon, as the commissioner of finance may deem to be just and equitable. The remainder of the sum of money so assessed, together with the interest and charges, shall be a lien upon the residue of the land and premises only, and the tax lien upon such residue may be sold in pursuance of the provisions of this chapter, to satisfy the residue of such assessment, interest, or charges thereon, in the same manner as though the residue of such assessment had been imposed upon such residue of such land or premises.
@@ -4550,7 +4848,9 @@ If a sum of money in gross has been or shall be assessed upon any lands or premi
 
 
 
-*§ 11-309 Notifying taxpayers of assessments. * ::
+
+
+*§ 11-309 Notifying taxpayers of assessments.* ::
 
 
 a. The owner of any lot, piece or parcel of land in the city of New York or any person interested in such lot, piece or parcel, may file with the department of finance, a statement containing a brief description of such land, together with the section, block and lot number thereof, or such other identifying information as at the time is established by the department of finance, and a statement of the applicant's interest therein, together with a written request that such lot, piece or parcel of land be registered in the name of the applicant. In such statement the applicant shall designate a post office address to which notifications addressed to such applicant shall be sent. A brief description of such lot, piece or parcel of land corresponding to the description thereof in the statement so filed, together with the name of the applicant and his or her post office address and the date of such application, shall thereupon be registered in the department of finance.
@@ -4562,7 +4862,9 @@ c. The commissioner of finance or his or her designee shall for the purpose of t
 
 
 
-*§ 11-310 Water charges and sewer rents to be transmitted to commissioner of finance. * ::
+
+
+*§ 11-310 Water charges and sewer rents to be transmitted to commissioner of finance.* ::
 
 
 The commissioner of environmental protection shall cause to be transmitted to the commissioner of finance an account of all water rents, charges, fines and penalties and all sewer rents, charges, fines and penalties as the same become due or accrue.
@@ -4570,7 +4872,9 @@ The commissioner of environmental protection shall cause to be transmitted to th
 
 
 
-*§ 11-311 Sewer surcharges to be transmitted to commissioner of finance. * ::
+
+
+*§ 11-311 Sewer surcharges to be transmitted to commissioner of finance.* ::
 
 
 The commissioner of environmental protection shall cause to be transmitted to the commissioner of finance an account of all sewer surcharges, fines and penalties as the same become due or accrue.
@@ -4578,7 +4882,9 @@ The commissioner of environmental protection shall cause to be transmitted to th
 
 
 
-*§ 11-312 Water rents; when payable; penalty for nonpayment. * ::
+
+
+*§ 11-312 Water rents; when payable; penalty for nonpayment.* ::
 
 
 a. One-half (i) the uniform annual water charges and extra and miscellaneous charges for water not metered and (ii) annual service charges shall become due and payable, in advance if entered on January first, nineteen hundred seventy-four for the period commencing January first, nineteen hundred seventy-four and ending June thirtieth, nineteen hundred seventy-four. Commencing on June thirtieth, nineteen hundred seventy-four, uniform annual water charges and extra and miscellaneous charges for water not metered and annual service charges shall be due and payable in advance on the thirtieth day of June in each year, if entered. If any of such rents and charges which become due and payable on or before June thirtieth, nineteen hundred seventy-six shall not have been paid to the commissioner of finance or his or her designee on or before the last day of the month following the month of entry, it shall be the duty of the commissioner of finance or his or her designee to charge, collect and receive interest thereon to be calculated at the rate of seven percent per annum from the date when such rents and charges became due and payable to December thirty-first, nineteen hundred seventy-six, and at the rate of fifteen percent per annum from January first, nineteen hundred seventy-seven to the date of payment. If any of such rents and charges which shall become due and payable on or after June thirtieth, nineteen hundred seventy-seven are not paid to the commissioner of finance or his or her designee on or before the last day of the month following the month of entry, it shall be the duty of the commissioner of finance or his or her designee to charge, collect and receive interest thereon to be calculated at the rate of fifteen percent per annum from the date when such rents and charges became due and payable to the date of payment. If not so entered and payable, but entered at any time subsequent thereto, they shall be due and payable when entered and notice thereof shall be mailed within five days of such entry to the premises against which they are imposed addressed to either the owner or the occupant and, if entered on or before December thirty-first, nineteen hundred seventy-six but not paid on or before the last day of the month following the month of entry, it shall be the duty of the commissioner of finance or his or her designee to charge, collect and receive interest thereon to be calculated at the rate of seven percent per annum from the date of entry to December thirty-first, nineteen hundred seventy-six, and at the rate of fifteen percent per annum from January first, nineteen hundred seventy-seven to the date of payment; if entered on or after January first, nineteen hundred seventy-seven but not paid on or before the last day of the month following the month of entry, it shall be the duty of the commissioner of finance or his or her designee to charge, collect and receive interest thereon to be calculated at the rate of fifteen percent per annum from the date of entry to the date of payment.
@@ -4590,7 +4896,9 @@ c. No later than the thirteenth day of May in each year, the banking commission 
 
 
 
-*§ 11-313 Sewer rents; when payable; penalty for nonpayment. * ::
+
+
+*§ 11-313 Sewer rents; when payable; penalty for nonpayment.* ::
 
 
 a. As used in this section:
@@ -4610,7 +4918,9 @@ e. No later than the thirteenth day of May in each year, the banking commission 
 
 
 
-*§ 11-314 Notice of rules and regulations; penalty for nonpayment; water supply cut off. * ::
+
+
+*§ 11-314 Notice of rules and regulations; penalty for nonpayment; water supply cut off.* ::
 
 
 The rates and charges for supply of water, the annual service charges and minimum charges, the sewer rents, the sewer surcharges, the rules and regulations concerning the use of water, all other rules and regulations affecting users of water or concerning charges for supply of water, restrictions of the use of water, installation of meters, and all rules and regulations affecting property connected with the sewer system, penalties and fines for violations of rules and regulations shall be printed on each bill and permit so far as in the judgment of the commissioner of environmental protection they are applicable. This section and such printing and the printing of this section on such bills and permits shall be sufficient notice to owners, tenants or occupants of premises to authorize the imposition and recovery of any charges, surcharges and fines imposed under such rules and regulations and of any penalties imposed in pursuance of this chapter in addition to cutting off the supply of water. Where water charges payable in advance or sewer rents or charges payable as provided in subdivision c of section 11-313 of this chapter, are not paid within the period covered by such charges or rents, and a notice of such nonpayment is mailed by the commissioner of finance to the premises addressed to "owner or occupant," the commissioner of environmental protection may shut off the supply of water to such premises. Where water charges not payable in advance or sewer rents, sewer surcharges or charges payable as provided in subdivisions b and d of section 11-313 of this chapter have been made by the department and remain unpaid for more than thirty days or where the commissioner of environmental protection has certified that there is a flagrant and continued violation of a provision or provisions of section 24-523 of the code or of any rule or regulation promulgated pursuant thereto or of any order of the commissioner of environmental protection issued pursuant thereto, after notice thereof mailed to the premises addressed to "owner or occupant," the commissioner of environmental protection may shut off the supply of water to the premises.
@@ -4618,7 +4928,9 @@ The rates and charges for supply of water, the annual service charges and minimu
 
 
 
-*§ 11-315 Enforcement of collection of sewer rents, sewer surcharges and water rents. * ::
+
+
+*§ 11-315 Enforcement of collection of sewer rents, sewer surcharges and water rents.* ::
 
 
 Sewer rents, sewer surcharges, charges, penalties and fines, and interest thereon, and water rents, charges, penalties and fines, and interest thereon, shall after they are payable to the commissioner of finance or his or her designee be enforced in the manner provided in this chapter and chapter four of this title. In addition to collecting sewer rents, sewer surcharges, charges, penalties and fines and interest thereon and water rents, charges, penalties and fines and interest thereon in the manner provided in this chapter and chapter four of this title, the city may maintain an action for their recovery against the person for whose benefit or by whom the water is taken or used or for whose benefit or by whom sewer service is used.
@@ -4626,7 +4938,9 @@ Sewer rents, sewer surcharges, charges, penalties and fines, and interest thereo
 
 
 
-*§ 11-316 Bills of arrears of taxes, assessments, sewer rents, sewer surcharges and water rents, any other charges that are made a lien subject to the provisions of this chapter, and interest and penalties thereon to be furnished when requested. * ::
+
+
+*§ 11-316 Bills of arrears of taxes, assessments, sewer rents, sewer surcharges and water rents, any other charges that are made a lien subject to the provisions of this chapter, and interest and penalties thereon to be furnished when requested.* ::
 
 
 The commissioner of finance or his or her designee, upon the written request of the owner, the proposed vendee under a contract of sale, a mortgagee, any person having a vested or contingent interest in any lot or lots or their duly authorized agent, or any person who has made a filing pursuant to section 11-309 of this chapter shall furnish a bill of all arrears of taxes on any lot or lots due prior to the first of September, then last past, of sewer rents, sewer surcharges and water rents, assessments, any other charges that are made a lien subject to the provisions of this chapter, and interest and penalties thereon, which are due and payable. Upon the payment of such bill which shall be called a bill of arrears the receipt of the commissioner of finance or his or her designee thereon shall be conclusive evidence of such payment. The commissioner of finance or his or her designee shall cause to be kept an account of amounts so collected, and the certificate of the commissioner of finance or his or her designee, that there are no tax liens on such lot or lots, shall forever free such lot or lots from all liens of taxes, sewer rents, sewer surcharges or water rents, assessments, any other charges that are made a lien subject to the provisions of this chapter, and interest and penalties thereon that are due and payable prior to the date of such receipt or certificate, but not from the lien of any tax lien duly sold and not theretofore satisfied.
@@ -4634,7 +4948,9 @@ The commissioner of finance or his or her designee, upon the written request of 
 
 
 
-*§ 11-317 Fees for searches to be added to bills. * ::
+
+
+*§ 11-317 Fees for searches to be added to bills.* ::
 
 
 Fees for such searches shall be included in the bills mentioned in section 11-316 of this chapter, and also charges for certificates, which shall be given by the commissioner of finance or his or her designee respecting lots on which there may be no arrears when searches are required. Such fees shall be regulated by local law.
@@ -4642,7 +4958,9 @@ Fees for such searches shall be included in the bills mentioned in section 11-31
 
 
 
-*§ 11-318 Fee for certified search and bill of arrears. * ::
+
+
+*§ 11-318 Fee for certified search and bill of arrears.* ::
 
 
 A fee of twenty-five dollars shall be paid to and collected by the commissioner of finance or his or her designee on his or her furnishing a certified search and bill of arrears on each lot or piece of property mentioned or referred to in the written request therefor. The commissioner of finance shall be authorized to waive or reduce such fee in connection with any sale of a tax lien or tax liens pursuant to this chapter.
@@ -4650,7 +4968,9 @@ A fee of twenty-five dollars shall be paid to and collected by the commissioner 
 
 
 
-*§ 11-319 Sales of tax liens. * ::
+
+
+*§ 11-319 Sales of tax liens.* ::
 
 
 a. A tax lien or tax liens on a property or any component of the amount thereof may be sold by the city as authorized by subdivision b of this section, when such tax lien or tax liens shall have remained unpaid in whole or in part for one year, provided, however, that a tax lien or tax liens on any class one property or on class two property that is a residential condominium or residential cooperative, as such classes of property are defined in subdivision one of section eighteen hundred two of the real property tax law, may be sold by the city only when the real property tax component of such tax lien or tax liens shall have remained unpaid in whole or in part for three years or, in the case of any class two residential property owned by a company organized pursuant to article XI of the state private housing finance law that is not a residential condominium or a residential cooperative, as such class of property is defined in subdivision one of section eighteen hundred two of the real property tax law, for two years, and equals or exceeds the sum of five thousand dollars or, in the case of abandoned class one property or abandoned class two property that is a residential condominium or residential cooperative, for eighteen months, and after such sale, shall be transferred, in the manner provided by this chapter, and provided, further, however, that (i) the real property tax component of such tax lien may not be sold pursuant to this subdivision on any residential real property in class one that is receiving an exemption pursuant to section 11-245.3 or 11-245.4 of this title, or pursuant to section four hundred fifty-eight of the real property tax law with respect to real property purchased with payments received as prisoner of war compensation from the United States government, or pursuant to paragraph (b) or (c) of subdivision two of section four hundred fifty-eight-a of the real property tax law, or where the owner of such residential real property in class one is receiving benefits in accordance with department of finance memorandum 05-3, or any successor memorandum thereto, relating to active duty military personnel, or where the owner of such residential real property in class one has been allowed a credit pursuant to subsection (e) of section six hundred six of the tax law for the calendar year in which the date of the first publication, pursuant to subdivision a of section 11-320 of this chapter, of the notice of sale, occurs or for the calendar year immediately preceding such date and (ii) the sewer rents component, sewer surcharges component or water rents component of such tax lien may not be sold pursuant to this subdivision on any one family residential real property in class one or on any two or three family residential real property in class one that is receiving an exemption pursuant to section 11-245.3 or 11-245.4 of this title, or pursuant to section four hundred fifty-eight of the real property tax law with respect to real property purchased with payments received as prisoner of war compensation from the United States government, or pursuant to paragraph (b) or (c) of subdivision two of section four hundred fifty-eight-a of the real property tax law, or where the owner of any two or three family residential real property in class one is receiving benefits in accordance with department of finance memorandum 05-3, or any successor memorandum thereto, relating to active duty military personnel, or where the owner of any two or three family residential real property in class one has been allowed a credit pursuant to subsection (e) of section six hundred six of the tax law for the calendar year in which the date of the first publication, pursuant to subdivision a of section 11-320 of this chapter, of the notice of sale, occurs or for the calendar year immediately preceding such date. A tax lien or tax liens on any property classified as a class two property, except a class two property that is a residential condominium or residential cooperative, or a class two residential property owned by a company organized pursuant to article XI of the state private housing finance law that is not a residential condominium or a residential cooperative, or class three property, as such classes of property are defined in subdivision one of section eighteen hundred two of the real property tax law, shall not be sold by the city unless such tax lien or tax liens include a real property tax component as of the date of the first publication, pursuant to subdivision a of section 11-320 of this chapter, of the notice of sale. Notwithstanding any provision of this subdivision to the contrary, any such tax lien or tax liens that remain unpaid in whole or in part after such date may be sold regardless of whether such tax lien or tax liens include a real property tax component. A tax lien or tax liens on a property classified as a class four property, as such class of property is defined in subdivision one of section eighteen hundred two of the real property tax law, shall not be sold by the city unless such tax lien or tax liens include a real property tax component or sewer rents component or sewer surcharges component or water rents component or emergency repair charges component, where such emergency repair charges accrued on or after January first, two thousand six and are made a lien pursuant to section 27-2144 of this code, as of the date of the first publication, pursuant to subdivision a of section 11-320 of this chapter, of the notice of sale, provided, however, that any tax lien or tax liens that remain unpaid in whole or in part after such date may be sold regardless of whether such tax lien or tax liens include a real property tax component, sewer rents component, sewer surcharges component, water rents component or emergency repair charges component. For purposes of this subdivision, the words "real property tax" shall not include an assessment or charge upon property imposed pursuant to section 25-411 of the administrative code. A sale of a tax lien or tax liens shall include, in addition to such lien or liens that have remained unpaid in whole or in part for one year, or, in the case of any class one property or class two property that is a residential condominium or residential cooperative, when the real property tax component of such lien or liens has remained unpaid in whole or in part for three years, or, in the case of any class two residential property owned by a company organized pursuant to article XI of the state private housing finance law that is not a residential condominium or a residential cooperative, when the real property tax component of such lien or liens has remained unpaid in whole or in part for two years, and equals or exceeds the sum of five thousand dollars, any taxes, assessments, sewer rents, sewer surcharges, water rents, any other charges that are made a lien subject to the provisions of this chapter, the costs of any advertisements and notices given pursuant to this chapter, any other charges that are due and payable, a surcharge pursuant to section 11-332 of this chapter, and interest and penalties thereon or such component of the amount thereof as shall be determined by the commissioner of finance. The commissioner of finance may promulgate rules defining "abandoned" property, as such term is used in this subdivision.
@@ -4712,7 +5032,9 @@ b. The commissioner of finance, on behalf of the city, may sell tax liens, eithe
 
 
 
-*§ 11-320 Notice of sale to be advertised and mailed. * ::
+
+
+*§ 11-320 Notice of sale to be advertised and mailed.* ::
 
 
 a. 1. The tax lien on property in the city shall not be sold pursuant to section 11-319 of this chapter unless notice of such sale as provided herein has been published twice, the first publication to be in a newspaper of general circulation in the city, not less than ninety days preceding the date of the sale, and the second publication to be in a publication designated by the commissioner of finance, not less than ten days preceding the date of the sale. Such publication shall include a description by block and lot or by such other identification as the commissioner of finance may deem appropriate, of the property upon which the tax lien exists that may be included in the sale, and a statement that a list of the tax liens that may be included in the sale is available for inspection in the office of the city register and the office of the county clerk of Richmond county. The commissioner of finance shall file such list in the office of the city register and the office of the county clerk of Richmond county not less than ninety days prior to the date of sale.
@@ -4800,7 +5122,9 @@ k. The commissioner of finance shall post online the information reported to the
 
 
 
-*§ 11-321 Continuation of sale; notice required. * ::
+
+
+*§ 11-321 Continuation of sale; notice required.* ::
 
 
 A sale of a tax lien or tax liens may be continued from time to time, if necessary, until all the tax liens on the property so advertised and noticed shall be sold unless such sale is canceled or postponed in accordance with section 11-322 of this chapter. If a sale of a tax lien or tax liens is continued, the commissioner of finance, or his or her designee, shall give such notice as is practicable of such continuation.
@@ -4808,7 +5132,9 @@ A sale of a tax lien or tax liens may be continued from time to time, if necessa
 
 
 
-*§ 11-321.1 Rules governing sales; eligibility of persons to purchase a tax lien or tax liens in a negotiated or competitive sale. * ::
+
+
+*§ 11-321.1 Rules governing sales; eligibility of persons to purchase a tax lien or tax liens in a negotiated or competitive sale.* ::
 
 
 a. The commissioner of finance may promulgate rules governing the eligibility of persons to purchase a tax lien or tax liens in a negotiated or competitive sale. Such rules may provide for precertification of such persons, including a requirement for disclosure of income, assets, and any other financial information that the commissioner of finance deems appropriate, and may prohibit any such person who is delinquent in the payment of any taxes to the city of New York, or who is in default in or on any other obligation to the city, or who has any outstanding violations of the administrative code of the city of New York, from purchasing a tax lien or tax liens.
@@ -4822,7 +5148,9 @@ d. No person who purchases a tax lien or tax liens in a negotiated or competitiv
 
 
 
-*§ 11-322 Postponement or cancellation of sales; installment agreements. * ::
+
+
+*§ 11-322 Postponement or cancellation of sales; installment agreements.* ::
 
 
 a. It shall be lawful for the commissioner of finance, or his or her designee, to postpone or cancel any proposed sale of a tax lien or tax liens on property that shall have been advertised and noticed for sale prior to the date of sale. For purposes of this section, the words, "date of sale" shall have the same meaning provided in section 11-320(e) of this chapter. The city shall not be liable for any damages as a result of cancellation or postponement of a proposed sale of a tax lien or tax liens, nor shall any cause of action arise from such cancellation or postponement.
@@ -4846,7 +5174,9 @@ b. In accordance with rules promulgated by the commissioners of finance and envi
 
 
 
-*§ 11-323 Commissioner of finance to conduct sale. * ::
+
+
+*§ 11-323 Commissioner of finance to conduct sale.* ::
 
 
 The commissioner of finance or his or her designee shall conduct the sales hereinbefore provided to be made, or the commissioner may, in his or her discretion, contract with any other person to conduct competitive sales of tax liens.
@@ -4854,7 +5184,9 @@ The commissioner of finance or his or her designee shall conduct the sales herei
 
 
 
-*§ 11-324 Deposits and forfeits. * ::
+
+
+*§ 11-324 Deposits and forfeits.* ::
 
 
 The commissioner of finance may require from each purchaser of a tax lien or tax liens, in cash or cash equivalent in immediately available funds in the discretion of such commissioner, a deposit of at least five per cent of the cash portion of the sale price of the tax lien or tax liens purchased by him or her, as liquidated damages, on a date determined by the commissioner of finance. The balance shall be paid to the commissioner of finance in cash or cash equivalent in immediately available funds or such other consideration acceptable to the commissioner of finance or any combination thereof, in his or her discretion. For purposes of this chapter "cash equivalent" shall mean a cashier's check, bank check, certified check, money order, or such other paper instrument as the commissioner of finance shall prescribe. Such deposit and balance may also be paid by electronic funds transfer. For purposes of this chapter, "electronic funds transfer" shall mean any transfer of funds, other than a transaction originated by check, draft or similar paper instrument, which is initiated using a format prescribed by the commissioner of finance. A tax lien certificate shall be made and delivered to the purchaser upon payment of the sale price. In case any purchaser shall default in any obligation under the terms and conditions of the tax lien sale, then the amount deposited by the purchaser shall be forfeited to the city, and the tax lien or tax liens upon the property affected by such purchase may be sold again at the discretion of the commissioner of finance pursuant to section 11-319 of this chapter. All deposits forfeited as aforesaid shall be paid into the general fund.
@@ -4862,7 +5194,9 @@ The commissioner of finance may require from each purchaser of a tax lien or tax
 
 
 
-*§ 11-325 City may bid in on tax sale. [Repealed] * ::
+
+
+*§ 11-325 City may bid in on tax sale. [Repealed]* ::
 
 
 A tax lien certificate shall operate to transfer and assign the tax lien upon the property described therein for the taxes, assessments, sewer rents, sewer surcharges, water rents, any other charges that are made a lien subject to the provisions of this chapter, the costs of any notices and advertisements given pursuant to this chapter, any other charges that are due and payable, a surcharge pursuant to section 11-332 of this chapter, and interest and penalties thereon.
@@ -4870,7 +5204,9 @@ A tax lien certificate shall operate to transfer and assign the tax lien upon th
 
 
 
-*§ 11-328 Contents of a tax lien certificate. * ::
+
+
+*§ 11-328 Contents of a tax lien certificate.* ::
 
 
 A tax lien certificate shall contain a transfer and assignment by the city of the tax lien sold to the purchaser, the date of the sale, the aggregate amount of the tax lien so transferred, and the items of taxes, assessments, sewer rents, sewer surcharges, water rents, any other charges that are made a lien subject to the provisions of this chapter, the costs of any advertisements and notices given pursuant to this chapter, any other charges that are due and payable, a surcharge pursuant to section 11-332 of this chapter, and interest and penalties thereon comprising the tax lien, the rate of interest which the tax lien certificate will bear, the date when the amounts under such tax lien are due pursuant to section 11-332 of this chapter, and a description of the property affected by the tax lien, which description shall include the designation of such property on the tax map, by its lot number and the number of the block in which it is contained, and such other identifying information as the commissioner of finance or his or her designee may deem proper to add. For purposes of this section, the words "date of sale" shall have the same meaning provided in section 11-320(e) of this chapter. Each tax lien certificate shall be executed by the commissioner of finance or his or her designee by manual or facsimile signature and shall be acknowledged by the manual or facsimile signature of the officer subscribing the same in the manner in which a deed is required to be acknowledged to be recorded in the county in which the property affected is situated. The commissioner of finance may designate an agent for purposes of authenticating any such signature.
@@ -4878,7 +5214,9 @@ A tax lien certificate shall contain a transfer and assignment by the city of th
 
 
 
-*§ 11-329 Sale of transfers of tax liens by the city; procedure. [Repealed] * ::
+
+
+*§ 11-329 Sale of transfers of tax liens by the city; procedure. [Repealed]* ::
 
 
 The commissioner of finance, or his or her designee, shall keep in his or her office a public record of sales of tax liens, and a copy of each tax lien certificate issued by such commissioner or his or her designee. Assignments of tax lien certificates duly acknowledged may be filed and recorded in the office of the commissioner of finance or his or her designee. A tax lien certificate and any assignment thereof, duly acknowledged, shall be deemed conveyances under article eight of the real property law, and may be recorded in the office of the recording officer of any county in which the real property which it affects is situated. Tax lien certificates and all assignments thereof shall be recorded by recording officers in the same manner as mortgages and assignments thereof, but without payment of tax under article eleven of the tax law. Neither the tax lien nor the rights transferred or created by a tax lien certificate shall be impaired by failure of a recording officer to record a tax lien certificate made by the city through the commissioner of finance or his or her designee.
@@ -4886,7 +5224,9 @@ The commissioner of finance, or his or her designee, shall keep in his or her of
 
 
 
-*§ 11-331 Records to be competent evidence. * ::
+
+
+*§ 11-331 Records to be competent evidence.* ::
 
 
 The record in the office of the commissioner of finance or his or her designee of sales of tax liens, of a tax lien certificate, and of a copy of a tax lien certificate, and of an assignment of a tax lien certificate, a record of a tax lien certificate in the office of a recording officer, and of an assignment of tax lien certificate, duly acknowledged, in the office of a recording officer, shall each be evidence in any court in the state without further proof. A transcript of any record enumerated in this section, duly certified, shall be evidence in any court in the state with like effect as the original instrument of record.
@@ -4894,7 +5234,9 @@ The record in the office of the commissioner of finance or his or her designee o
 
 
 
-*§ 11-332 Rights of purchaser of tax lien. * ::
+
+
+*§ 11-332 Rights of purchaser of tax lien.* ::
 
 
 a. Any purchaser of a tax lien or tax liens shall stand in the same position as the city and shall have all the rights and remedies that the city would have had if the tax lien or tax liens had not been sold.
@@ -4904,7 +5246,9 @@ b. The aggregate amount of each tax lien transferred pursuant to this chapter sh
 
 
 
-*§ 11-333 Discharge of tax lien. * ::
+
+
+*§ 11-333 Discharge of tax lien.* ::
 
 
 A tax lien sold pursuant to the provisions of this chapter may be discharged by presenting the certificate of discharge issued by the holder of the tax lien pursuant to section 11-332 of this chapter to the recording officer of the county in which the real property that it affects is situated, and any recording officer to whom such certificate of discharge is presented shall record the same.
@@ -4912,7 +5256,9 @@ A tax lien sold pursuant to the provisions of this chapter may be discharged by 
 
 
 
-*§ 11-334 Exemption from taxation. * ::
+
+
+*§ 11-334 Exemption from taxation.* ::
 
 
 Tax liens and tax lien certificates shall be exempt from taxation by the state or any local subdivisions thereof, except from the taxes imposed by article ten of the tax law. The real property affected by any tax lien shall not be exempt from taxation by reason of this section.
@@ -4920,7 +5266,9 @@ Tax liens and tax lien certificates shall be exempt from taxation by the state o
 
 
 
-*§ 11-335 Foreclosure of tax liens. * ::
+
+
+*§ 11-335 Foreclosure of tax liens.* ::
 
 
 If the amount of any tax lien which shall have been transferred by a tax lien certificate shall not be paid when under its terms and the provisions of section 11-332 of this chapter such amount shall be due, the holder of such tax lien certificate may maintain an action in the supreme court to foreclose such tax lien. The holder of such tax lien certificate shall notify the commissioner of finance or his or her designee in writing whenever he or she commences such action at the time of filing of such action, and shall notify the commissioner of finance in writing of the resolution of such action, including any settlement of such action, within thirty days of such resolution. In an action to foreclose a tax lien any person shall be a proper party of whom the plaintiff alleges that such person has or may have or that the plaintiff has reason to believe that such person has or may have an interest in or claim upon the property affected by the tax lien. A plaintiff in an action to foreclose a tax lien shall recover reasonable attorney's fees for maintaining such action. Except as otherwise provided in this chapter an action to foreclose a tax lien shall be regulated by the provisions of the civil practice law and rules and by all other provisions of law, and rules of practice applicable to actions to foreclose mortgages on real property. The people of the state of New York or the city of New York may be made party to an action to foreclose a tax lien in the same manner as a natural person. Where the people of the state of New York or the city of New York are made a party defendant the complaint shall set forth, in addition to the other matters required to be set forth by law, detailed facts showing the particular nature of the interest in or the lien on such property of the people of the state of New York or the city of New York, and detailed facts showing the particular nature of the interest in or the lien on such property which plaintiff has reason to believe that the people of the state of New York or the city of New York has or may have in such property, and the reason for making the people of the state of New York or the city of New York a party defendant. Upon failure to state such facts the complaint shall be dismissed as to the people of the state or the city of New York.
@@ -4928,7 +5276,9 @@ If the amount of any tax lien which shall have been transferred by a tax lien ce
 
 
 
-*§ 11-336 Pleading tax lien certificate. * ::
+
+
+*§ 11-336 Pleading tax lien certificate.* ::
 
 
 Whenever a cause of action, defense or counterclaim, is for the foreclosure of a tax lien, or is in any manner founded upon a tax lien or a tax lien certificate, the production in evidence of an instrument executed by the commissioner of finance or his or her designee in the form prescribed in section 11-328 of this chapter for a tax lien certificate subscribed by or in behalf of the commissioner of finance or his or her designee shall be presumptive evidence that the lien purported to be transferred by such an instrument was a valid and enforceable lien, and that it has been duly assigned to the purchaser, and it shall not be necessary to plead or prove any act, proceeding, notice or action, preceding the delivery of such tax lien certificate nor to establish the validity of the tax lien transferred by such tax lien certificate. If a party or person in interest in any such action or proceeding claims that a tax lien is irregular or invalid, or that there is any defect therein or that a tax lien certificate is irregular, invalid or defective, such invalidity, irregularity or defect must be specifically pleaded or set forth, and must be established affirmatively by the party or person pleading or setting forth the same.
@@ -4936,7 +5286,9 @@ Whenever a cause of action, defense or counterclaim, is for the foreclosure of a
 
 
 
-*§ 11-337 Judgment upon tax lien. * ::
+
+
+*§ 11-337 Judgment upon tax lien.* ::
 
 
 In every action for the foreclosure of a tax lien, and in every action or proceeding in which a cause of action, defense or counterclaim is in any manner founded upon a tax lien or a tax lien certificate, such tax lien certificate and the tax lien which it transfers shall be presumed to be regular and valid and effectual to transfer to the purchaser named therein a valid and enforceable tax lien. Unless in such an action or proceeding such tax lien or tax lien certificate be found to be invalid, they shall be adjudged to be enforceable and valid, for the amount thereof and the interest to which the holder may be entitled and a tax lien transferred by a tax lien certificate effectual to transfer such tax lien to the purchaser named therein.
@@ -4944,7 +5296,9 @@ In every action for the foreclosure of a tax lien, and in every action or procee
 
 
 
-*§ 11-338 Judgment of foreclosure of tax lien; sale. * ::
+
+
+*§ 11-338 Judgment of foreclosure of tax lien; sale.* ::
 
 
 In an action to foreclose a tax lien, unless the defendants obtain judgment, the plaintiff shall be entitled to a judgment establishing the validity of the tax lien so far as the same shall not be adjudged invalid and of the tax lien certificate and directing the sale of the real, personal or mixed property affected thereby, or such part thereof as shall be sufficient to discharge the tax lien, or such items thereof as shall not be adjudged invalid together with the expense of the sale, and the costs of the action.
@@ -4952,7 +5306,9 @@ In an action to foreclose a tax lien, unless the defendants obtain judgment, the
 
 
 
-*§ 11-339 City may purchase at sale. * ::
+
+
+*§ 11-339 City may purchase at sale.* ::
 
 
 At a sale pursuant to judgment in an action to foreclose a tax lien or at any sale free of tax liens, the city, without authorization other than hereby given, may purchase any property that is the subject of the sale.
@@ -4960,7 +5316,9 @@ At a sale pursuant to judgment in an action to foreclose a tax lien or at any sa
 
 
 
-*§ 11-340 Effect of judgment foreclosing tax lien. * ::
+
+
+*§ 11-340 Effect of judgment foreclosing tax lien.* ::
 
 
 Every final judgment in an action to foreclose a tax lien shall be binding upon, and every conveyance upon a sale pursuant thereto, shall transfer to and vest in the purchaser all the right, title, interest and estate in and claim upon the real property affected by such judgment, of the plaintiff, each defendant upon whom the summons is served, each person claiming from, through or under such a defendant by title accruing after the filing of notice of pendency of the action or after the entry of judgment and filing of the judgment roll in the proper county clerk's office, and each person not in being when the judgment is rendered, who afterwards may become entitled to a beneficial interest attaching to, or an estate or interest in such real property or any portion thereof, provided that the person presumptively entitled to such beneficial interest, estate or interest is a party to such action or bound by such judgment. So much of section three hundred seventeen of the civil practice law and rules as requires the court to allow a defendant to defend an action after final judgment shall not apply to an action to foreclose a tax lien. Delivery of the possession of real property affected by a judgment to foreclose a tax lien may be compelled in the manner prescribed in section two hundred twenty-one of the real property actions and proceedings law.
@@ -4968,7 +5326,9 @@ Every final judgment in an action to foreclose a tax lien shall be binding upon,
 
 
 
-*§ 11-341 Surplus. * ::
+
+
+*§ 11-341 Surplus.* ::
 
 
 Any surplus of the proceeds of the sale, after paying the expenses of the sale, and all taxes, assessments, sewer rents, sewer surcharges, water rents, any other charges made a lien subject to the provisions of this chapter, the costs of any advertisements and notices given pursuant to this chapter, any other charges that are due and payable, any surcharge pursuant to section 11-332 of this chapter and interest and penalties thereon, including such amounts which accrued or became a lien on and after the date of sale of the tax lien or tax liens and up to and including the date of the sale of the property in foreclosure, and satisfying the amount of such tax lien or tax liens and interest and the costs of the action, must be paid into court, for the use of the person or persons entitled thereto. If any part of the surplus remains in court for the period of three months, and no application has been made therefor, the court must, and, if an application therefor is pending, the court may direct such surplus to be invested at interest, for the benefit of the person or persons entitled thereto, to be paid upon the direction of the court.
@@ -4976,7 +5336,9 @@ Any surplus of the proceeds of the sale, after paying the expenses of the sale, 
 
 
 
-*§ 11-342 Foreclosed tax lien not arrears. * ::
+
+
+*§ 11-342 Foreclosed tax lien not arrears.* ::
 
 
 Any party to an action to foreclose a tax lien or any purchaser or any party in interest may give notice of such foreclosure to the city collector and after such notice the items which constituted the tax lien thus foreclosed shall not be entered by the city collector in any yearly assessment-roll, so long as the judgment of foreclosure of such lien remains in force.
@@ -4984,7 +5346,9 @@ Any party to an action to foreclose a tax lien or any purchaser or any party in 
 
 
 
-*§ 11-343 Reimbursement for unenforceable tax liens or transfers of tax liens. [Repealed] * ::
+
+
+*§ 11-343 Reimbursement for unenforceable tax liens or transfers of tax liens. [Repealed]* ::
 
 
 It shall be the duty of the corporation counsel to protect the interest of the city in all matters, actions and proceedings relating to tax liens and tax lien certificates; to intervene on behalf of the city or to make the city a party to any action in which the corporation counsel believes it to be to the interest of the city so to do, by reason of any matter arising under or relating to any tax lien or tax lien certificate, or advertisement of sale of tax liens. The corporation counsel in his or her discretion may represent the purchaser of a tax lien or the holder of a tax lien certificate in any action in which the corporation counsel believes it to be in the interest of the city so to do, by reason of any matter arising under or relating to any tax lien or tax lien certificate, or advertisement of sale of tax liens. All costs recovered in any action or proceeding conducted or defended by the corporation counsel pursuant to this section shall belong to the city and shall be collected, applied and disposed of in the same manner as are other costs recovered by the city.
@@ -4992,7 +5356,9 @@ It shall be the duty of the corporation counsel to protect the interest of the c
 
 
 
-*§ 11-348 Defective or invalid transfer of tax lien; proceeding anew. [Repealed] * ::
+
+
+*§ 11-348 Defective or invalid transfer of tax lien; proceeding anew. [Repealed]* ::
 
 
 Whenever any tax lien certificate given by the commissioner of finance or his or her designee, as in this chapter provided, shall be lost, the commissioner of finance or his or her designee may receive evidence of such loss, and on satisfactory proof of the fact may direct the execution and delivery of a duplicate to such person or persons who shall appear entitled thereto, and may also, in the commissioner's discretion, require a bond of indemnity to the city.
@@ -5000,7 +5366,9 @@ Whenever any tax lien certificate given by the commissioner of finance or his or
 
 
 
-*§ 11-350 Affidavits of publication and mailing of necessary notices to be preserved. * ::
+
+
+*§ 11-350 Affidavits of publication and mailing of necessary notices to be preserved.* ::
 
 
 It shall be the duty of the commissioner of finance or his or her designee to procure, preserve and register at the department of finance, affidavits of the publication and mailing of all the advertisements and notices by this chapter required to be published and mailed, and such affidavits shall be presumptive proof of such publication and mailing in all the courts of this state.
@@ -5008,7 +5376,9 @@ It shall be the duty of the commissioner of finance or his or her designee to pr
 
 
 
-*§ 11-353 Cancellation of taxes, assessments, water rents, sewer rents, sewer surcharges, any charges that are made a lien subject to the provisions of this chapter, the costs of any advertisements and notices given pursuant to this chapter, any other charges that are due and payable, a surcharge pursuant to section 11-332 of this chapter, and interest and penalties thereon. * ::
+
+
+*§ 11-353 Cancellation of taxes, assessments, water rents, sewer rents, sewer surcharges, any charges that are made a lien subject to the provisions of this chapter, the costs of any advertisements and notices given pursuant to this chapter, any other charges that are due and payable, a surcharge pursuant to section 11-332 of this chapter, and interest and penalties thereon.* ::
 
 
 Whenever the city has heretofore or shall hereafter become vested with title to property acquired by virtue of tax enforcement foreclosure proceedings, or by deed in lieu thereof, the commissioner of finance, or his or her designee, shall cancel all unpaid real estate taxes, tax lien certificates, assessments, water rents, sewer rents, sewer surcharges, any charges that are made a lien subject to the provisions of this chapter, the costs of any advertisements and notices given pursuant to this chapter, any other charges that are due and payable, a surcharge pursuant to section 11-332 of this chapter, and interest and penalties thereon upon which the foreclosure action was predicated. Upon the sale of such property and the conveyance of the title thereof by the city, the commissioner of finance, or his or her designee, shall cancel all unpaid real estate taxes, assessments, water rents, sewer rents, sewer surcharges, any charges that are made a lien subject to the provisions of this chapter, the costs of any advertisements and notices given pursuant to this chapter, any other charges that are due and payable, a surcharge pursuant to section 11-332 of this chapter, and interest and penalties thereon that shall have accrued during the period between the date of the last unpaid item upon which the foreclosure action was predicated and the date of conveyance of title. The commissioner of finance, or his or her designee, shall enter notations of such cancellations in the appropriate records for each such parcel of property.
@@ -5016,7 +5386,9 @@ Whenever the city has heretofore or shall hereafter become vested with title to 
 
 
 
-*§ 11-354 Additional method to enforce payment of tax liens held by the city. * ::
+
+
+*§ 11-354 Additional method to enforce payment of tax liens held by the city.* ::
 
 
 (a) Notwithstanding any other provision of law and notwithstanding any omission to hold a tax lien sale, whenever any tax, assessment, sewer rent, sewer surcharge, water rent, any charge that is made a lien subject to the provisions of this chapter or chapter four of this title, or interest and penalties thereon, has been due and unpaid for a period of at least one year from the date on which the tax, assessment or other legal charge represented thereby became a lien, or in the case of any class one property or any class two property that is a residential condominium or residential cooperative, as such classes of property are defined in subdivision one of section eighteen hundred two of the real property tax law, or in the case of a multiple dwelling owned by a company organized pursuant to article XI of the private housing finance law with the consent and approval of the department of housing preservation and development, for a period of at least three years from the date on which the tax, assessment or other legal charge became a lien, the city, as owner of a tax lien, may maintain an action in the supreme court to foreclose such lien. Such action shall be governed by the procedures set forth in section 11-335 of this chapter; provided, however, that such parcel shall only be sold to the highest responsible bidder. Such purchaser shall be deemed qualified as a responsible bidder pursuant to such criteria as are established in rules promulgated by the commissioner of finance after consultation with the commissioner of housing preservation and development.
@@ -5028,10 +5400,14 @@ Whenever the city has heretofore or shall hereafter become vested with title to 
 
 
 
-*§ 11-355 Reporting. * ::
+
+
+*§ 11-355 Reporting.* ::
 
 
 The commissioner of finance shall submit an annual report to the council concerning the sale or sales of tax liens during the preceding year pursuant to this chapter. Such report shall include the following information regarding such sale or sales: a list of properties for which a tax lien or tax liens has or have been sold, including identification of the particular tax lien or tax liens sold; the proceeds received from the sale or sales of tax liens; identification of the purchaser of and servicer for the tax lien or tax liens sold; a report of servicer activities during the immediately preceding year; the redemption rate for tax liens that have been sold; the delinquency rate for real property taxes for the immediately preceding year; and any other information pertinent to the sale of tax liens that may be requested by the council and which is not made confidential pursuant to section 11-208.1 of the code. Upon request by the council, information provided in such report shall be arranged by community board. In addition to such report, the commissioner of finance shall from time to time provide any other information pertinent to the sale of tax liens that may be requested by the council and which is not made confidential pursuant to section 11-208.1 of the code, including updated information regarding the sale or sales of tax liens pursuant to this chapter. In addition to such report, no later than August thirty-first, two thousand twenty, the commissioner shall provide to the council a report listing all properties on which liens have been sold during the period from January first, two thousand fifteen through December thirty-first, two thousand nineteen. The report shall indicate, based on records in the office of the register, whether a transfer of or mortgage recorded on any of such properties has occurred during such period after the sale of any tax lien sold during such period.
+
+
 
 
 
@@ -5055,7 +5431,9 @@ d. No later than September first, two thousand sixteen, the task force shall sub
 Chapter 4: Tax Lien Foreclosure By Action In Rem
 --------------------------------------------------
 
-*§ 11-401 Definitions. * ::
+
+
+*§ 11-401 Definitions.* ::
 
 
 Whenever used in this chapter, the following terms shall mean:
@@ -5075,7 +5453,9 @@ Whenever used in this chapter, the following terms shall mean:
 
 
 
-*§ 11-401.1 Procedures for distressed property. * ::
+
+
+*§ 11-401.1 Procedures for distressed property.* ::
 
 
 a. The commissioner of finance shall, not less than sixty days preceding the date of the sale of a tax lien or tax liens, submit to the commissioner of housing preservation and development a description by block and lot, or by such other identification as the commissioner of finance may deem appropriate, of any parcel of class one or class two real property on which there is a tax lien that may be foreclosed by the city. The commissioner of housing preservation and development shall determine, and direct the commissioner of finance, not less than ten days preceding the date of the sale of a tax lien or tax liens, whether any such parcel is a distressed property as defined in subdivision four of section 11-401 of this chapter. Any tax lien on a parcel so determined to be a distressed property shall not be included in such sale. In connection with a subsequent sale of a tax lien or tax liens, the commissioner of finance may, not less than sixty days preceding the date of the sale, resubmit to the commissioner of housing preservation and development a description by block and lot, or by such other identification as the commissioner of finance may deem appropriate, of any parcel of class one or class two real property that was previously determined to be a distressed property pursuant to this paragraph and on which there is a tax lien that may be included in such sale. The commissioner of housing preservation and development shall determine, and direct the commissioner of finance, not less than ten days preceding the date of the sale, whether such parcel remains a distressed property. If the commissioner of housing preservation and development determines that the parcel is not a distressed property, then the tax lien on the parcel may be included in the sale.
@@ -5087,7 +5467,9 @@ c. Any parcel so determined to be a distressed property shall be subject to an i
 
 
 
-*§ 11-402 Applicability of procedure of foreclosure in rem. * ::
+
+
+*§ 11-402 Applicability of procedure of foreclosure in rem.* ::
 
 
 a. The provisions of this chapter shall be applicable only to tax liens owned by the city.
@@ -5099,7 +5481,9 @@ c. The provisions of this chapter shall not affect pending actions or proceeding
 
 
 
-*§ 11-402.1 Inapplicability of article eleven of the real property tax law to the enforcement of the collection of delinquent taxes. * ::
+
+
+*§ 11-402.1 Inapplicability of article eleven of the real property tax law to the enforcement of the collection of delinquent taxes.* ::
 
 
 In accordance with section six of chapter six hundred two of the laws of nineteen hundred ninety-three and subdivision two of section eleven hundred four of the real property tax law, it is hereby provided that the collection of delinquent taxes shall continue to be enforced pursuant to chapters three and four of title eleven of the administrative code and other related provisions of the charter and administrative code as such chapters three and four and such related provisions may from time to time be amended and that article eleven of the real property tax law shall not be applicable to the city.
@@ -5107,7 +5491,9 @@ In accordance with section six of chapter six hundred two of the laws of ninetee
 
 
 
-*§ 11-403 Jurisdiction. * ::
+
+
+*§ 11-403 Jurisdiction.* ::
 
 
 The supreme court shall have jurisdiction of actions authorized by this chapter.
@@ -5115,7 +5501,9 @@ The supreme court shall have jurisdiction of actions authorized by this chapter.
 
 
 
-*§ 11-404 Foreclosure by action in rem. * ::
+
+
+*§ 11-404 Foreclosure by action in rem.* ::
 
 
 a. Whenever it shall appear that a tax lien or tax liens has or have been due and unpaid for a period of at least one year from the date on which the tax, assessment or other legal charge represented thereby became a lien, such tax lien or tax liens, except as provided in subdivision b of this section or otherwise provided by this chapter, may be summarily foreclosed in the manner provided in this chapter, notwithstanding the provisions of any general, special or local law and notwithstanding any omission to hold a sale of a tax lien or tax liens prior to such foreclosure. A bill of arrears or any other instrument evidencing such tax lien or tax liens shall be evidence of the fact that the tax lien or tax liens represented thereby has not or have not been paid to the city or sold by it.
@@ -5125,7 +5513,9 @@ b. A tax lien on any class one property or any class two property that is a resi
 
 
 
-*§ 11-405 Preparation and filing of lists of delinquent taxes. * ::
+
+
+*§ 11-405 Preparation and filing of lists of delinquent taxes.* ::
 
 
 a. The commissioner of finance from time to time shall prepare a list, to be known as a "list of delinquent taxes", of all parcels, or all parcels within a particular class or classes, that are within a particular borough or section of a tax map or portion of a section of a tax map of the city and on which there are tax liens subject to foreclosure pursuant to this chapter, provided, however, that no such portion shall be smaller than a block, as defined in subdivision d of section 11-204 of subchapter one of chapter two of this title. Every such list shall bear a caption containing the in rem action number of the city's tax foreclosure proceeding, the borough or the section of a tax map or portion of a section of a tax map, and where the action covers less than all parcels in an entire borough or section of a tax map or portion of a section of a tax map, the particular class or classes, and shall contain a statement of the rate or rates at which interest and penalties will be computed for the various liens it includes.
@@ -5159,7 +5549,9 @@ g. The validity of any proceeding hereunder shall not be affected by any omissio
 
 
 
-*§ 11-406 Public notice of foreclosure. * ::
+
+
+*§ 11-406 Public notice of foreclosure.* ::
 
 
 a. Upon the filing of a list of delinquent taxes in the office of the county clerk, the commissioner of finance forthwith shall cause a notice of foreclosure to be published at least once a week for six successive weeks in the City Record and, subject to section ninety-one of the judiciary law, in two newspapers, one of which may be a law journal, to be designated by the commissioner of finance, which are published in and are circulated throughout the county in which the affected property is located. If there are no newspapers published in such county, the commissioner of finance may designate newspapers published in the city of New York which are circulated throughout the affected county.
@@ -5173,7 +5565,9 @@ d. The commissioner of finance shall cause a copy of such notice to be posted in
 
 
 
-*§ 11-407 Redemption. * ::
+
+
+*§ 11-407 Redemption.* ::
 
 
 a. After the filing of a list of delinquent taxes and until a date at least ten weeks after the first publication of the public notice of foreclosure, as determined by the commissioner of finance and specified in the said notice, a person claiming to have an interest in any parcel in said list may redeem it by paying all taxes and charges contained in said list of delinquent taxes together with interest and penalties thereon.
@@ -5185,7 +5579,9 @@ c. When the time to redeem in an in rem tax foreclosure action has expired, any 
 
 
 
-*§ 11-408 Filing of affidavits. * ::
+
+
+*§ 11-408 Filing of affidavits.* ::
 
 
 All affidavits of filing, publication, posting, mailing or other acts required by this chapter shall be made by the person or persons performing such acts and shall be filed in the office of the county clerk of the county in which the property subject to such tax lien is situated and shall together with all other documents required by this chapter to be filed in the office of such county clerk, constitute and become a part of the judgment roll in such foreclosure action.
@@ -5193,7 +5589,9 @@ All affidavits of filing, publication, posting, mailing or other acts required b
 
 
 
-*§ 11-409 Severance and trial of issues where answer is interposed; installment agreements authorized after action commenced. * ::
+
+
+*§ 11-409 Severance and trial of issues where answer is interposed; installment agreements authorized after action commenced.* ::
 
 
 a. If a duly verified answer is served upon the corporation counsel not later than twenty days after the last date for redemption, the answering defendant shall have the right to a severance of the action, as to any parcel in which the defendant has pleaded an interest, upon written demand therefor filed with or made a part of his or her answer.
@@ -5237,7 +5635,9 @@ i. (1) Notwithstanding subdivision g of this section, this subdivision shall app
 
 
 
-*§ 11-410 Preference over other actions. * ::
+
+
+*§ 11-410 Preference over other actions.* ::
 
 
 a. Any action brought pursuant to this chapter shall be given preference over all other causes and actions.
@@ -5247,7 +5647,9 @@ b. Actions brought pursuant to this chapter shall take precedence over any proce
 
 
 
-*§ 11-411 Presumption of validity. * ::
+
+
+*§ 11-411 Presumption of validity.* ::
 
 
 It shall not be necessary for the city to plead or prove the various steps, procedures and notices for the assessment and levy of the taxes, assessments or other lawful charges against the parcels set forth in the list of delinquent taxes and all such taxes, assessments or other lawful charges and the lien thereof shall be presumed to be valid. A defendant alleging any jurisdictional defect or invalidity in such taxes, assessments or other lawful charges or in the foreclosure thereof must particularly specify in his or her answer such jurisdictional defect or invalidity and must affirmatively establish such defense. A judgment of foreclosure granted in any proceeding brought pursuant to this chapter, which contains recitals that any acts were done or proceedings had which were necessary to give the court jurisdiction or power to grant such judgment of foreclosure, shall be presumptive evidence that such acts were duly performed or proceedings duly had, if such judgment of foreclosure shall have been duly entered or filed in the office of the clerk of the county in which the proceeding was pending and wherein such judgment was granted. The provisions of this chapter shall apply to and be valid and effective with respect to all defendants even though one or more of them be infants, incompetents, absentees or non-residents of the state of New York.
@@ -5255,7 +5657,9 @@ It shall not be necessary for the city to plead or prove the various steps, proc
 
 
 
-*§ 11-412 Final judgment. * ::
+
+
+*§ 11-412 Final judgment.* ::
 
 
 a. The court shall determine upon proof and shall make finding upon such proof whether there has been due compliance by the city with the provisions of this chapter.
@@ -5267,7 +5671,9 @@ c. Every deed given pursuant to the provisions of this section shall be presumpt
 
 
 
-*§ 11-412.1 Special procedures relating to final judgment and release of class one and class two real property. * ::
+
+
+*§ 11-412.1 Special procedures relating to final judgment and release of class one and class two real property.* ::
 
 
 Notwithstanding any other provision of law to the contrary:
@@ -5309,7 +5715,9 @@ j. If the commissioner of finance directs the corporation counsel, pursuant to s
 
 
 
-*§ 11-412.2 Council review of conveyance to a third party. * ::
+
+
+*§ 11-412.2 Council review of conveyance to a third party.* ::
 
 
 The commissioner of finance shall, prior to the execution of a deed conveying full and complete title of any parcel of class one or class two real property to a third party pursuant to subdivision c of section 11-412.1 of this chapter, notify the council of the proposed conveyance. Within forty-five days of such notification, the council may act by local law disapproving the proposed conveyance. In the event the council does not act by local law within such forty-five day period, the council shall be deemed to have approved the proposed conveyance. During such forty-five day period or, if the city council acts by local law pursuant to this section, during the period of time from the notification of the council to the presentation to the mayor of such local law and during any additional period of time prescribed in section 37 of the charter, the eight-month period provided in subdivisions c and i of section 11-412.1 of this chapter shall be tolled.
@@ -5317,7 +5725,9 @@ The commissioner of finance shall, prior to the execution of a deed conveying fu
 
 
 
-*§ 11-413 Withdrawal of parcels from foreclosure. * ::
+
+
+*§ 11-413 Withdrawal of parcels from foreclosure.* ::
 
 
 a. The commissioner of finance may, prior to final judgment, withdraw a parcel from a proceeding under this chapter for any of the following reasons, (1) a question which the commissioner deems meritorious has been raised as to the validity of the tax liens affecting the parcel, (2) the city collector has accepted a payment of all taxes and interest which rendered the parcel subject to foreclosure hereunder because the records in the commissioner's office indicated that the principal amount of such taxes was exceeded by the principal amount of subsequent taxes which would not have rendered the parcel subject to foreclosure hereunder and which had been paid prior to the commencement of said proceeding or (3) in cases where the tax foreclosure action cannot be maintained such as, but not limited thereto, where the charges which rendered a parcel subject to foreclosure hereunder have been cancelled or were paid before the commencement of the foreclosure proceeding but such payment was not reported or did not clear for payment until after the commencement of said proceeding, or where a name and address appearing on an owner's registration card or an in rem card filed pursuant to section 11-416 or 11-417 of this chapter and contained in the files of the city collector did not appear in the mailing list used by the commissioner of finance for mailing notices of foreclosure in such proceeding.
@@ -5333,7 +5743,9 @@ e. The commissioner of finance shall issue a certificate of withdrawal whenever 
 
 
 
-*§ 11-414 Right of redemption not diminished. * ::
+
+
+*§ 11-414 Right of redemption not diminished.* ::
 
 
 The period of time in which any owner of, or other person having an interest in a parcel of property may redeem from a sale of a transfer of tax lien is not hereby diminished nor shall such period of time be diminished by the commencement of any action brought pursuant to this chapter.
@@ -5341,7 +5753,9 @@ The period of time in which any owner of, or other person having an interest in 
 
 
 
-*§ 11-415 Priority of liens. * ::
+
+
+*§ 11-415 Priority of liens.* ::
 
 
 Tax liens shall rank in priority as may now, or as may hereafter, be provided by law.
@@ -5349,7 +5763,9 @@ Tax liens shall rank in priority as may now, or as may hereafter, be provided by
 
 
 
-*§ 11-416 Owner's registration cards; mailing tax bills and notices to registered owners or their designees. * ::
+
+
+*§ 11-416 Owner's registration cards; mailing tax bills and notices to registered owners or their designees.* ::
 
 
 a. The commissioner of finance shall maintain a file of owner's registration cards submitted by owners of real property. Each such owner's registration card shall be signed by the owner or a duly authorized representative and shall state the date on which it was filed, the owner's full name and post office address and a description of the premises by reference to the section, block, and lot numbers on the tax map.
@@ -5363,7 +5779,9 @@ d. An owner who files an owner's registration card may also designate thereon th
 
 
 
-*§ 11-417 In rem cards; mailing notices to other interested persons. * ::
+
+
+*§ 11-417 In rem cards; mailing notices to other interested persons.* ::
 
 
 a. The commissioner of finance shall, in addition to the file maintained by him or her pursuant to section 11-416 of this chapter, maintain a file of in rem cards submitted by any person having an interest in real property who is not entitled to have tax bills mailed to him or her by the commissioner of finance, including mortgagees, lienors, encumbrancers and owners who have filed owner's registration cards designating someone else to receive bills and notices. Each such in rem card shall be signed by the person filing such card or a duly authorized representative, shall contain a description of the premises by reference to the section, block and lot numbers on the tax map and shall state the date on which said card was filed, the full name and post office address of the person filing said card and the nature of the interest said person has in said premises.
@@ -5373,7 +5791,9 @@ b. The commissioner of finance shall mail a notice of foreclosure and any other 
 
 
 
-*§ 11-418 Writ of assistance. * ::
+
+
+*§ 11-418 Writ of assistance.* ::
 
 
 The city, after acquiring title to premises under and pursuant to the terms and provisions of this chapter, shall be entitled to a writ of assistance, with the same force and effect as if the city had acquired the property by virtue of a mortgage foreclosure.
@@ -5381,7 +5801,9 @@ The city, after acquiring title to premises under and pursuant to the terms and 
 
 
 
-*§ 11-419 Consolidation of actions. * ::
+
+
+*§ 11-419 Consolidation of actions.* ::
 
 
 Actions or proceedings pending in the courts, or otherwise, to cancel a sale of a tax lien on lands a lien upon which is being foreclosed by action under this chapter, shall be terminated upon the institution of a foreclosure action pursuant to this chapter, and the rights and remedies of the parties in interest to such pending actions or proceedings shall be determined by the court in such foreclosure action.
@@ -5389,7 +5811,9 @@ Actions or proceedings pending in the courts, or otherwise, to cancel a sale of 
 
 
 
-*§ 11-420 Lands held for public use; right of sale. * ::
+
+
+*§ 11-420 Lands held for public use; right of sale.* ::
 
 
 Whenever the city shall become vested with the title to lands by virtue of a foreclosure proceeding brought pursuant to the provisions of this chapter, such lands shall, unless actually used for other than municipal purposes, be deemed to be held by the city for a public use but for a period of not more than three years from the date of the final judgment. The city is hereby authorized to sell and convey such lands in the manner provided by law for the sale and conveyance of other real property held and owned by the city and not otherwise.
@@ -5397,7 +5821,9 @@ Whenever the city shall become vested with the title to lands by virtue of a for
 
 
 
-*§ 11-421 Certificate of sale as evidence. * ::
+
+
+*§ 11-421 Certificate of sale as evidence.* ::
 
 
 The transfer of tax lien or any other written instrument representing a tax lien shall be presumptive evidence in all courts in all proceedings under this chapter by and against the purchaser and his or her representatives, heirs and assigns, of the truth of the statements therein, of the title of the purchaser to the property therein described, and of the regularity and validity of all proceedings had in reference to the taxes, assessments or other legal charges for the nonpayment of which the tax lien was sold and the sale thereof. After two years from the issuance of such certificate or other written instrument, no evidence shall be admissible in any court in a proceeding under this chapter to rebut such presumption unless the holder thereof shall have procured such transfer of tax lien or such other written instrument by fraud or had previous knowledge that it was fraudulently made or procured.
@@ -5405,7 +5831,9 @@ The transfer of tax lien or any other written instrument representing a tax lien
 
 
 
-*§ 11-422 Deed in lieu of foreclosure. * ::
+
+
+*§ 11-422 Deed in lieu of foreclosure.* ::
 
 
 The city may when authorized by resolution of the board of estimate and in lieu of prosecuting an action to foreclose a tax lien on any parcel pursuant to this chapter accept a conveyance of the interest of any person having any right, title, interest, claim, lien or equity of redemption in or to such parcel.
@@ -5413,7 +5841,9 @@ The city may when authorized by resolution of the board of estimate and in lieu 
 
 
 
-*§ 11-423 Sales and foreclosures of tax liens. * ::
+
+
+*§ 11-423 Sales and foreclosures of tax liens.* ::
 
 
 Notwithstanding any of the provisions of this chapter the city may continue to sell tax liens, transfer the same to purchasers and become the purchaser at such sales of tax liens in the manner provided by this title.
@@ -5421,7 +5851,9 @@ Notwithstanding any of the provisions of this chapter the city may continue to s
 
 
 
-*§ 11-424 Application to the city for release of property acquired by in rem tax foreclosure. * ::
+
+
+*§ 11-424 Application to the city for release of property acquired by in rem tax foreclosure.* ::
 
 
 a. (1) The city's interest in property acquired by in rem tax foreclosure may be released pursuant to this section on the application of any party who had an interest in said property as either owner, mortgagee, lienor or encumbrancer at the time of the city's acquisition thereof where such application is made at any time up to two years from the date on which the deed by which the city acquired title to said property was recorded.
@@ -5469,7 +5901,9 @@ i. The corporation counsel shall also effect the release of the city's interest 
 
 
 
-*§ 11-424.1 In rem foreclosure release board. * ::
+
+
+*§ 11-424.1 In rem foreclosure release board.* ::
 
 
 There shall be an in rem foreclosure release board consisting of the mayor, the speaker of the city council, the affected borough president, the corporation counsel and the commissioner of finance. For the purposes of this section, the affected borough president shall be the president of the borough in which a property proposed for release pursuant to this section is located. Members of the board may, by written authority filed with the board and with the city clerk, appoint delegates to act on their behalf as members of the board. The board shall have the power, acting by resolution, to authorize the release of the city's interest in property acquired by in rem tax foreclosure in accordance with sections 11-412.1 and 11-424 of the code based upon a determination, in its discretion, that such release would be in the best interests of the city. The board shall act after a meeting at which the public has been provided an opportunity to comment on the proposed action. A resolution of the board authorizing a release of the city's interest in any property shall be adopted only upon the affirmative vote of not less than a majority of all the members of the board. The board may consider any information it deems relevant to a determination. The board shall not be required to state the reasons for its determination.
@@ -5477,7 +5911,9 @@ There shall be an in rem foreclosure release board consisting of the mayor, the 
 
 
 
-*§ 11-425 Agreements for payment of delinquent taxes and charges in installments. * ::
+
+
+*§ 11-425 Agreements for payment of delinquent taxes and charges in installments.* ::
 
 
 a. During the period beginning on May ninth, nineteen hundred seventy-seven and ending on June thirtieth, nineteen hundred seventy-seven, the commissioner of finance or, when so specified hereinafter, the commissioner of general services, shall be authorized and empowered to make and execute agreements in the circumstances and subject to the terms, conditions and limitations set forth in the following subdivisions of this section; provided, however, that if the commissioner of finance or, where applicable, the commissioner of general services determines in his or her sole discretion that good cause exists, he or she may make and execute such agreements during an additional period ending not later than July thirty-first, nineteen hundred seventy-seven.
@@ -5509,7 +5945,9 @@ c. (1) If, pursuant to the provisions of section 11-424 of this chapter, an appl
 
 
 
-*§ 11-426 Agreements for payment of delinquent taxes and charges in installments. * ::
+
+
+*§ 11-426 Agreements for payment of delinquent taxes and charges in installments.* ::
 
 
 a. During the period beginning on December second, nineteen hundred seventy-seven and ending on March thirty-first, nineteen hundred seventy-eight, the commissioner of finance, or, when so specified hereinafter, the commissioner of general services, shall be authorized and empowered to make and execute agreements in the circumstances and subject to the terms, conditions and limitations set forth in the following subdivisions of this section.
@@ -5541,7 +5979,9 @@ c. (1) If, pursuant to the provisions of section 11-424 of this chapter, an appl
 
 
 
-*§ 11-427 Agreements for payment of delinquent taxes and charges in installments. * ::
+
+
+*§ 11-427 Agreements for payment of delinquent taxes and charges in installments.* ::
 
 
 a. During the period beginning September first, nineteen hundred seventy-eight and ending December thirty-first, nineteen hundred seventy-eight, the commissioner of finance, or, when so specified hereinafter, the commissioner of general services, shall be authorized and empowered to make and execute agreements in the circumstances and subject to the terms, conditions and limitations set forth in the following subdivisions of this section; provided, however, that if the commissioner of finance or, where applicable, the commissioner of general services, determines in his or her sole discretion that good cause exists, he or she may make and execute such agreements during an additional period ending not later than January thirty-first, nineteen hundred seventy-nine.
@@ -5575,7 +6015,9 @@ c. (1) If, pursuant to the provisions of section 11-424 of this chapter, an appl
 
 
 
-*§ 11-428 Disposition of proceeds of sales of properties acquired by city through tax enforcement foreclosure proceedings. * ::
+
+
+*§ 11-428 Disposition of proceeds of sales of properties acquired by city through tax enforcement foreclosure proceedings.* ::
 
 
 The proceeds of the sale of real property acquired through tax enforcement foreclosure proceedings, or by deed in lieu thereof, including subsequent receipts in diminution of purchase money mortgages accepted at the time of sale, shall be applied as follows:
@@ -5598,7 +6040,9 @@ b. The balance, if any, remaining after deduction of the amount specified in par
 Chapter 5: City Unincorporated Business Income Tax
 --------------------------------------------------
 
-*§ 11-501 Meaning of terms. * ::
+
+
+*§ 11-501 Meaning of terms.* ::
 
 
 (a) General. Unless a different meaning is clearly required, any term used in this chapter shall have the same meaning as when used in a comparable context in the laws of the United States relating to federal income taxes, and any reference in this chapter to the laws of the United States shall mean the provisions of the internal revenue code of nineteen hundred fifty-four, and amendments thereto, and other provisions of the laws of the United States relating to federal income taxes, as the same are included in this chapter as an appendix or as included by reference to an appendix of another chapter enacted by the same law as enacts this chapter. (The quotation of the aforesaid laws of the United States is intended to make them a part of this chapter and to avoid constitutional uncertainties which might result if such laws were merely incorporated by reference. The quotation of a provision of the federal internal revenue code or of any other law of the United States shall not necessarily mean that it is applicable to or has relevance to this chapter.)
@@ -5632,7 +6076,9 @@ Chapter 5: City Unincorporated Business Income Tax
 
 
 
-*§ 11-502 Unincorporated business defined. * ::
+
+
+*§ 11-502 Unincorporated business defined.* ::
 
 
 (a) General. An unincorporated business means any trade, business, profession or occupation conducted, engaged in or being liquidated by an individual or unincorporated entity, including a partnership, a fiduciary, a corporation in liquidation or an unincorporated entity that has made the election permitted under paragraph (b) of subdivision one of section 11-602 of this title (but only for the period during which such election is in effect), but not including any entity subject to tax under chapter six of this title and not including any entity doing an insurance business as a member of the New York insurance exchange described in paragraph one of subsection (b) of section six thousand two hundred one of the insurance law. Unincorporated businesses subject to tax under a local law of the city imposing a tax on utilities shall not be subject to tax under this chapter; provided, however, that unincorporated businesses, other than (1) utility businesses subject to the supervision of the state department of public service and (2) for taxable years beginning on or after August first, two thousand two, utilities as defined in subdivision six of section 11-1101 of this title, which are subject to tax under a local law of the city imposing a tax on vendors of utility services shall be subject to tax under this chapter on that percentage of their entire net income allocable to the city under section 11-508 of this chapter which their receipts other than those taxable under such local law taxing vendors of utility services is of their total receipts. If an individual or an unincorporated entity carries on wholly or partly in the city two or more unincorporated businesses, all such businesses shall be treated as one unincorporated business for the purposes of this chapter. For purposes of this chapter, an unincorporated entity shall be treated as carrying on any trade, business, profession or occupation carried on in whole or in part in the city by any other unincorporated entity in which the first unincorporated entity owns an interest, and the ownership by an unincorporated entity of an interest in another unincorporated entity that is not carrying on any trade, business, profession, or occupation in whole or in part in the city shall not be deemed the conduct of an unincorporated business by the first unincorporated entity. Notwithstanding anything to the contrary in the preceding sentence, for taxable years beginning on or after August first, two thousand two, an unincorporated business that is a partner in a partnership subject to tax under a local law of the city imposing a tax on utilities, as defined in subdivision six of section 11-1101 of this title, shall not be considered to be carrying on the trade, business, profession or occupation carried on by such partnership.
@@ -5690,7 +6136,9 @@ Chapter 5: City Unincorporated Business Income Tax
 
 
 
-*§ 11-503 Imposition of tax. * ::
+
+
+*§ 11-503 Imposition of tax.* ::
 
 
 (a) General. A tax at the rate of four percent is hereby imposed for each taxable year, beginning with taxable years ending after January first, nineteen hundred sixty-six, on the unincorporated business taxable income of every unincorporated business wholly or partly carried on within the city. This tax shall be in addition to any other taxes imposed.
@@ -5966,7 +6414,9 @@ Chapter 5: City Unincorporated Business Income Tax
 
 
 
-*§ 11-504 Taxable years to which tax applies; tax for taxable years beginning prior to and ending after January first, nineteen hundred sixty-six. * ::
+
+
+*§ 11-504 Taxable years to which tax applies; tax for taxable years beginning prior to and ending after January first, nineteen hundred sixty-six.* ::
 
 
 (a) General. The tax imposed by section 11-503 of this chapter, with any modification permitted by subdivision (b) of this section, is imposed for each taxable year beginning with taxable years ending on or after January first, nineteen hundred sixty-six.
@@ -5980,7 +6430,9 @@ Chapter 5: City Unincorporated Business Income Tax
 
 
 
-*§ 11-505 Unincorporated business taxable income. * ::
+
+
+*§ 11-505 Unincorporated business taxable income.* ::
 
 
 The unincorporated business taxable income of an unincorporated business shall be the excess of its unincorporated business gross income over its unincorporated business deductions, allocated to the city, less the amount of:
@@ -5992,7 +6444,9 @@ The unincorporated business taxable income of an unincorporated business shall b
 
 
 
-*§ 11-506 Unincorporated business gross income. * ::
+
+
+*§ 11-506 Unincorporated business gross income.* ::
 
 
 (a) (1)    General. Unincorporated business gross income of an unincorporated business means the sum of the items of income and gain of the business, of whatever kind and in whatever form paid, includible in gross income for the taxable year for federal income tax purposes, including income and gain from any property employed in the business, or from liquidation of the business, or from collection of installment obligations of the business, or from the sale or other disposition by an unincorporated entity of an interest in another unincorporated entity if and to the extent such income or gain is attributable to a trade, business, profession or occupation carried on in whole or in part in the city by such other unincorporated entity, with the modifications specified in this section.
@@ -6122,7 +6576,9 @@ The unincorporated business taxable income of an unincorporated business shall b
 
 
 
-*§ 11-507 Unincorporated business deductions. * ::
+
+
+*§ 11-507 Unincorporated business deductions.* ::
 
 
 The unincorporated business deductions of an unincorporated business means the items of loss and deduction directly connected with or incurred in the conduct of the business, which are allowable for federal income tax purposes for the taxable year (including losses and deductions connected with any property employed in the business), with the following modifications:
@@ -6200,7 +6656,9 @@ The unincorporated business deductions of an unincorporated business means the i
 
 
 
-*§ 11-508 Allocation to the city. * ::
+
+
+*§ 11-508 Allocation to the city.* ::
 
 
 (a) General; allocation of business income. If an unincorporated business is carried on both within and without the city, as determined under regulations of the commissioner of finance, there shall be allocated to the city, in the manner provided in subdivision (b), (c) or (d) of this section, a fair and equitable portion of its business income. For taxable years beginning before July first, nineteen hundred ninety-six, if the unincorporated business has no regular place of business outside the city, all of such business income shall be allocated to the city.
@@ -6408,7 +6866,9 @@ The unincorporated business deductions of an unincorporated business means the i
 
 
 
-*§ 11-509 Deductions not subject to allocation. * ::
+
+
+*§ 11-509 Deductions not subject to allocation.* ::
 
 
 (a) In computing unincorporated business taxable income, there shall be allowed (without allocation under section 11-508 of this chapter) deductions for reasonable compensation for taxable years beginning before January first, two thousand seven, not in excess of five thousand dollars, and for taxable years beginning on or after January first, two thousand seven, not in excess of ten thousand dollars, for personal services of the proprietor and each partner actively engaged in the unincorporated business, but the aggregate of such deductions shall not exceed twenty per centum of the unincorporated business taxable income computed without the benefit of any deductions under this subdivision or the unincorporated business exemptions under section 11-510 of this chapter.
@@ -6430,7 +6890,9 @@ The unincorporated business deductions of an unincorporated business means the i
 
 
 
-*§ 11-510 Unincorporated business exemptions. * ::
+
+
+*§ 11-510 Unincorporated business exemptions.* ::
 
 
 In computing unincorporated business taxable income, there shall be allowed (without allocation under section 11-508 of this chapter):
@@ -6442,7 +6904,9 @@ In computing unincorporated business taxable income, there shall be allowed (wit
 
 
 
-*§ 11-511 Declaration of estimated tax. * ::
+
+
+*§ 11-511 Declaration of estimated tax.* ::
 
 
 (a) Requirement of declaration. Except as provided in subdivision (j) of this section, every unincorporated business shall make a declaration of its estimated tax for the taxable year, containing such information as the commissioner of finance may prescribe by regulations or instruction, if:
@@ -6490,7 +6954,9 @@ In computing unincorporated business taxable income, there shall be allowed (wit
 
 
 
-*§ 11-512 Payments of estimated tax. * ::
+
+
+*§ 11-512 Payments of estimated tax.* ::
 
 
 (a) General. The estimated tax with respect to which a declaration is required shall be paid as follows:
@@ -6520,7 +6986,9 @@ In computing unincorporated business taxable income, there shall be allowed (wit
 
 
 
-*§ 11-513 Accounting periods and methods. * ::
+
+
+*§ 11-513 Accounting periods and methods.* ::
 
 
 (a) Accounting periods. A taxpayer's taxable year under this chapter shall be the same as the taxpayer's taxable year for federal income tax purposes.
@@ -6538,7 +7006,9 @@ In computing unincorporated business taxable income, there shall be allowed (wit
 
 
 
-*§ 11-514 Returns, payment of tax. * ::
+
+
+*§ 11-514 Returns, payment of tax.* ::
 
 
 (a) General. An unincorporated business income tax return shall be made and filed, and the balance of any tax shown on the face of such return, not previously paid as installments of estimated tax, shall be paid, on or before the fifteenth day of the fourth month following the close of a taxable year for taxable years beginning before January first, two thousand sixteen, and on or before the fifteenth day of the third month following the close of a taxable year for taxable years beginning on or after January first, two thousand sixteen:
@@ -6568,7 +7038,9 @@ In computing unincorporated business taxable income, there shall be allowed (wit
 
 
 
-*§ 11-515 Time and place for filing returns and paying tax. * ::
+
+
+*§ 11-515 Time and place for filing returns and paying tax.* ::
 
 
 A person required to make and file a return under this chapter shall, without assessment, notice or demand, pay any tax due thereon to the commissioner of finance on or before the date fixed for filing such return (determined without regard to any extension of time for filing the return). The commissioner of finance shall prescribe by regulation the place for filing any return, declaration, statement, or other document required pursuant to this chapter and for payment of any tax.
@@ -6576,7 +7048,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-516 Signing of returns and other documents. * ::
+
+
+*§ 11-516 Signing of returns and other documents.* ::
 
 
 (a) General. Any return, declaration, statement or other document required to be made pursuant to this chapter shall be signed in accordance with regulations or instructions prescribed by the commissioner of finance. The fact that an individual's name is signed to a return, declaration, statement, or other document, shall be prima facie evidence for all purposes that the return, declaration, statement or other document was actually signed by such individual.
@@ -6588,7 +7062,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-517 Extensions of time. * ::
+
+
+*§ 11-517 Extensions of time.* ::
 
 
 (a) General. The commissioner of finance may grant a reasonable extension of time for payment of tax or estimated tax (or any installment), or for filing any return, declaration, statement, or other document required pursuant to this chapter, on such terms and conditions as it may require. Except for a taxpayer who is outside the United States, no such extension for filing any return, declaration, statement or other document, shall exceed six months.
@@ -6598,7 +7074,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-518 Requirements concerning returns, notices, records and statements. * ::
+
+
+*§ 11-518 Requirements concerning returns, notices, records and statements.* ::
 
 
 (a) General. The commissioner of finance may prescribe regulations as to the keeping of records, the content and forms of returns and statements, and the filing of copies of federal income tax returns and determinations. The commissioner of finance may require any person, by regulation or notice served upon such person, to make such returns, render such statements, or keep such records, as the commissioner of finance may deem sufficient to show whether or not such person is liable under this chapter for tax or for collection of tax.
@@ -6608,7 +7086,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-519 Report of change in federal or New York state taxable income. * ::
+
+
+*§ 11-519 Report of change in federal or New York state taxable income.* ::
 
 
 If the amount of a taxpayer's federal or New York state taxable income reported on his or her federal or New York state income tax for any taxable year is changed or corrected by the United States internal revenue service or the New York state tax commission or other competent authority, or as the result of a renegotiation of a contract or subcontract with the United States or the state of New York, or if a taxpayer, pursuant to subsection (d) of section sixty-two hundred thirteen of the internal revenue code, executes a notice of waiver of the restrictions provided in subsection (a) of said section, or if a taxpayer, pursuant to subsection (f) of section six hundred eighty-one of the tax law, executes a notice or waiver of the restrictions provided in subsection (c) of such section of the tax law, the taxpayer shall report such change or correction in federal or New York state taxable income or such execution of such notice of waiver and the changes or corrections of the taxpayer's federal or New York state taxable income on which it is based, within ninety days after the final determination of such change, correction, or renegotiation, or such execution of such notice of waiver, or as otherwise required by the commissioner of finance, and shall concede the accuracy of such determination or state wherein it is erroneous. Any taxpayer filing an amended federal or New York state income tax return shall also file within ninety days thereafter an amended return under this chapter, and shall give such information as the commissioner of finance may require. The commissioner of finance may by regulation prescribe such exceptions to the requirements of this section as the commissioner deems appropriate.
@@ -6616,7 +7096,9 @@ If the amount of a taxpayer's federal or New York state taxable income reported 
 
 
 
-*§ 11-519.1 Report of change of state sales and compensating use tax liability. * ::
+
+
+*§ 11-519.1 Report of change of state sales and compensating use tax liability.* ::
 
 
 Where the state tax commission changes or corrects a taxpayer's sales and compensating use tax liability with respect to the purchase or use of items for which a sales or compensating use tax credit against the tax imposed by this chapter was claimed, the taxpayer shall report such change or correction to the commissioner of finance within ninety days of the final determination of such change or correction, or as required by the commissioner of finance, and shall concede the accuracy of such determination or state wherein it is erroneous. Any taxpayer filing an amended return or report relating to the purchase or use of such items shall also file within ninety days thereafter a copy of such amended return or report with the commissioner of finance.
@@ -6624,7 +7106,9 @@ Where the state tax commission changes or corrects a taxpayer's sales and compen
 
 
 
-*§ 11-520 Change of election. * ::
+
+
+*§ 11-520 Change of election.* ::
 
 
 Any election expressly authorized by this chapter, other than the election authorized by section 11-506 of this chapter, may be changed on such terms and conditions as the commissioner of finance may prescribe by regulation.
@@ -6632,7 +7116,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-521 Notice of deficiency. * ::
+
+
+*§ 11-521 Notice of deficiency.* ::
 
 
 (a) General. If upon examination of a taxpayer's return under this chapter the commissioner of finance determines that there is a deficiency of income tax, the commissioner may mail a notice of deficiency to the taxpayer. If a taxpayer fails to file a return required under this chapter, the commissioner of finance is authorized to estimate the taxpayer's city unincorporated business taxable income and tax thereon, from any information in the commissioner's possession, and to mail a notice of deficiency to the taxpayer. A notice of deficiency shall be mailed by certified or registered mail to the taxpayer at his or her last known address in or out of the city. If the taxpayer is deceased or under a legal disability, a notice of deficiency may be mailed to his or her last known address in or out of the city, unless the commissioner of finance has received notice of the existence of a fiduciary relationship with respect to the taxpayer.
@@ -6666,7 +7152,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-522 Assessment. * ::
+
+
+*§ 11-522 Assessment.* ::
 
 
 (a) Assessment date. The amount of tax which a return shows to be due, or the amount of tax which a return would have shown to be due but for a mathematical error, shall be deemed to be assessed on the date of filing of the return (including any amended return showing an increase of tax). In the case of a return properly filed without computation of tax, the tax computed by the commissioner of finance shall be deemed to be assessed on the date on which payment is due. If a notice of deficiency has been mailed, the amount of the deficiency shall be deemed to be assessed on the date specified in subdivision (b) of section 11-521 of this chapter if no petition is both served on the commissioner of finance and filed with the tax appeals tribunal, or if a petition is filed, then upon the date when a decision of the tax appeals tribunal establishing the amount of the deficiency becomes final. If an amended return or report filed pursuant to section 11-519 of this chapter concedes the accuracy of a federal or New York state adjustment, change or correction, any deficiency in tax under this chapter resulting therefrom shall be deemed to be assessed on the date of filing such report or amended return, and such assessment shall be timely notwithstanding section 11-523 of this chapter. If a report or amended return or report filed pursuant to section 11-519.1 of this chapter concedes the accuracy of a state change or correction of sales and compensating use tax liability, any deficiency in tax under this chapter resulting therefrom shall be deemed assessed on the date of filing such report, and such assessment shall be timely notwithstanding section 11-523 of this chapter. If a notice of additional tax due, as prescribed in subdivision (e) of section 11-521 of this chapter has been mailed, the amount of the deficiency shall be deemed to be assessed on the date specified in such subdivision unless within thirty days after the mailing of such notice a report of the federal or New York state change or correction or an amended return, where such return was required by section 11-519 of this chapter is filed accompanied by a statement showing wherein such federal or New York state determination and such notice of additional tax due are erroneous. If a notice of additional tax due, as prescribed in subdivision (h) of section 11-521 of this chapter, has been mailed, the amount of the deficiency shall be deemed to be assessed on the date specified in such subdivision unless within thirty days after the mailing of such notice a report of the state change or correction, or a copy of an amended return or report, where such copy was required by section 11-519.1 of this chapter, is filed accompanied by a statement showing wherein such state determination and such notice of additional tax due are erroneous. Any amount paid as a tax or in respect of a tax, other than amounts paid as estimated income tax, shall be deemed to be assessed upon the date of receipt of payment, notwithstanding any other provisions.
@@ -6682,7 +7170,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-523 Limitations on assessment. * ::
+
+
+*§ 11-523 Limitations on assessment.* ::
 
 
 (a) General. Except as otherwise provided in this section, any tax under this chapter shall be assessed within three years after the return was filed (whether or not such return was filed on or after the date prescribed).
@@ -6724,7 +7214,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-524 Interest on underpayment. * ::
+
+
+*§ 11-524 Interest on underpayment.* ::
 
 
 (a) General. If any amount of tax is not paid on or before the last date prescribed in this chapter for payment, interest on such amount at the underpayment rate set by the commissioner of finance pursuant to section 11-537 of this chapter, or, if no rate is set, at the rate of seven and one-half percent per annum shall be paid for the period from such last date to the date paid, whether or not any extension of time for payment was granted. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -6752,7 +7244,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-525 Additions to tax and civil penalties. * ::
+
+
+*§ 11-525 Additions to tax and civil penalties.* ::
 
 
 (a) (1) Failure to file tax return. 
@@ -6856,7 +7350,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-526 Overpayment. * ::
+
+
+*§ 11-526 Overpayment.* ::
 
 
 (a) General. The commissioner of finance, within the applicable period of limitations, may credit an overpayment of tax and interest on such overpayment against any liability in respect of any tax imposed by this chapter or by chapters six, seventeen and nineteen of this title, on the person who made overpayment, and the balance shall be refunded.
@@ -6872,7 +7368,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-527 Limitation on credit or refund. * ::
+
+
+*§ 11-527 Limitation on credit or refund.* ::
 
 
 (a) General. Claim for credit or refund of an overpayment of tax shall be filed by the taxpayer within three years from the time the return was filed or two years from the time the tax was paid, whichever of such periods expires the later, or if no return was filed, within two years from the time the tax was paid. If the claim is filed within the three year period, the amount of the credit or refund shall not exceed the portion of the tax paid within the three years immediately preceding the filing of the claim plus the period of any extension of time for filing the return. If the claim is not filed within the three year period, but is filed within the two year period, the amount of the credit or refund shall not exceed the portion of the tax paid during the two years immediately preceding the filing of the claim. Except as otherwise provided in this section, if no claim is filed, the amount of a credit or refund shall not exceed the amount which would be allowable if a claim had been filed on the date the credit or refund is allowed.
@@ -6914,7 +7412,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-528 Interest on overpayment. * ::
+
+
+*§ 11-528 Interest on overpayment.* ::
 
 
 (a) General. Notwithstanding the provisions of section three-a of the general municipal law, interest shall be allowed and paid as follows at the overpayment rate set by the commissioner of finance pursuant to section 11-537 of this chapter, or, if no rate is set, at the rate of six percent per annum upon any overpayment in respect of the tax imposed by this chapter:
@@ -6954,7 +7454,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-529 Petition to tax appeals tribunal. * ::
+
+
+*§ 11-529 Petition to tax appeals tribunal.* ::
 
 
 (a) General. The form of a petition to the tax appeals tribunal, and further proceedings before the tax appeals tribunal in any case initiated by the filing of a petition, shall be governed by such rules as the tax appeals tribunal shall prescribe. No petition shall be denied in whole or in part without opportunity for a hearing on reasonable prior notice. Such hearing and any appeal to the tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. A decision of the tax appeals tribunal shall be rendered, and notice thereof shall be given, in the manner provided by section one hundred seventy-one of the charter.
@@ -7002,7 +7504,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-530 Review of tax appeals tribunal's decision. * ::
+
+
+*§ 11-530 Review of tax appeals tribunal's decision.* ::
 
 
 (a) General. A decision of the tax appeals tribunal sitting en banc shall be subject to judicial review at the instance of any taxpayer affected thereby in the manner provided by law for the review of a final decision or action of administrative agencies of the city. An application by a taxpayer for such review must be made within four months after notice of the decision is sent by certified mail, return receipt requested, to the taxpayer and the commissioner of finance.
@@ -7018,7 +7522,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-531 Mailing rules; holidays; miscellaneous. * ::
+
+
+*§ 11-531 Mailing rules; holidays; miscellaneous.* ::
 
 
 (a) Timely mailing. 
@@ -7038,7 +7544,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-532 Collection, levy and liens. * ::
+
+
+*§ 11-532 Collection, levy and liens.* ::
 
 
 (a) Collection procedures. The taxes imposed by this chapter shall be collected by the commissioner of finance, and the commissioner may establish the mode or time for the collection of any amount due it under this chapter if not otherwise specified. The commissioner of finance shall, upon request, give a receipt for any sum collected under this chapter. The commissioner of finance may authorize banks or trust companies which are depositories or financial agents of the city to receive and give a receipt for any tax imposed under this chapter in such manner, at such times, and under such conditions as the commissioner of finance may prescribe; and the commissioner of finance shall prescribe the manner, times and conditions under which the receipt of such tax by such banks and trust companies is to be treated as payment of such tax to the commissioner of finance.
@@ -7062,7 +7570,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-533 Transferees. * ::
+
+
+*§ 11-533 Transferees.* ::
 
 
 (a) General. The liability, at law or in equity, of a transferee of property of a taxpayer for any tax, additions to tax, penalty or interest due the commissioner of finance under this chapter, shall be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the tax to which the liability relates, except that the period of limitations for assessment against the transferee shall be extended by one year for each successive transfer, in order, from the original taxpayer to the transferee involved, but not by more than three years in the aggregate. The term "transferee" includes donee, heir, legatee, devisee and distributee.
@@ -7080,7 +7590,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-534 Jeopardy assessment. * ::
+
+
+*§ 11-534 Jeopardy assessment.* ::
 
 
 (a) Authority for making. If the commissioner of finance believes that the assessment or collection of a deficiency will be jeopardized by delay, the commissioner shall, notwithstanding the provision of sections 11-521 and 11-536 of this chapter, and immediately assess such deficiency (together with all interest, penalties and additions to tax provided for by law), and notice and demand shall be made by the commissioner of finance for the payment thereof.
@@ -7118,7 +7630,9 @@ Any election expressly authorized by this chapter, other than the election autho
 
 
 
-*§ 11-535 Criminal penalties; cross-reference. * ::
+
+
+*§ 11-535 Criminal penalties; cross-reference.* ::
 
 
 For criminal penalties, see chapter forty of this title.
@@ -7126,7 +7640,9 @@ For criminal penalties, see chapter forty of this title.
 
 
 
-*§ 11-536 Armed forces relief provisions. * ::
+
+
+*§ 11-536 Armed forces relief provisions.* ::
 
 
 (a) Time to be disregarded. In the case of an individual serving in the armed forces of the United States or serving in support of such armed forces, in an area designated by the president of the United States by executive order as a "combat zone" at any time during the period designated by the president by executive order as the period of combatant activities in such zone, or hospitalized outside the state as a result of injury received while serving in such an area during such time, the period of service in such area, plus the period of continuous hospitalization outside the state attributable to such injury, and the next one hundred eighty days thereafter, shall be disregarded in determining, under this chapter, in respect of the tax liability (including any interest, penalty, or addition to the tax) of such individual:
@@ -7162,7 +7678,9 @@ For criminal penalties, see chapter forty of this title.
 
 
 
-*§ 11-537 General powers of commissioner of finance. * ::
+
+
+*§ 11-537 General powers of commissioner of finance.* ::
 
 
 (a) General. The commissioner of finance shall administer and enforce the tax imposed by this chapter and the commissioner is authorized to make such rules and regulations, and to require such facts and information to be reported, as the commissioner may deem necessary to enforce the provision of this chapter; and the commissioner may delegate his or her powers and functions under all parts of this chapter to one of the commissioner's deputies or to any employee or employees of the commissioner's department.
@@ -7202,7 +7720,9 @@ For criminal penalties, see chapter forty of this title.
 
 
 
-*§ 11-538 Secrecy requirement and the penalties for violation. * ::
+
+
+*§ 11-538 Secrecy requirement and the penalties for violation.* ::
 
 
 1. Except in accordance with proper judicial order or as otherwise provided by law, it shall be unlawful for the commissioner of finance, the department of finance of the city, any officer or employee of the department of finance of the city, any person engaged or retained by such department on an independent contract basis, any depository to which any return may be delivered as provided in subdivision four of this section, any officer or employee of such depository, the tax appeals tribunal, any commissioner or employee of such tribunal, or any person who, pursuant to this section, is permitted to inspect any report or return or to whom a copy, an abstract or a portion of any report or return is furnished, or to whom any information contained in any report or return is furnished, to divulge or make known in any manner the amount of income or any particulars set forth or disclosed in any report or return required under this chapter. The officers charged with the custody of such reports and returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the city in an action or proceeding under the provisions of this chapter or in any other action or proceeding involving the collection of a tax due under this chapter to which the city is a party or a claimant, or on behalf of any party to any action or proceeding under the provisions of this chapter when the reports, returns or facts shown thereby are directly involved in such action or proceeding, in any of which events the court may require the production of, and may admit in evidence, so much of said reports, returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a taxpayer or to the taxpayer's duly authorized representative of a certified copy of any return or report filed in connection with his or her tax or to prohibit the publication of statistics so classified as to prevent the identification of particular reports or returns and the items thereof, or the inspection by the corporation counsel or other legal representatives of the city of the report or return of any taxpayer who shall bring action to set aside or review the tax based thereon, or against whom an action or proceeding under this chapter has been recommended by the commissioner of finance or the corporation counsel or has been instituted, or the inspection of the reports or returns required under this chapter by the duly designated officers or employees of the city for purposes of an audit under this chapter or an audit authorized by the enacting of this chapter. Reports and returns shall be preserved for three years and thereafter until the commissioner of finance orders them to be destroyed.
@@ -7222,7 +7742,9 @@ For criminal penalties, see chapter forty of this title.
 
 
 
-*§ 11-539 Inconsistencies with other laws. * ::
+
+
+*§ 11-539 Inconsistencies with other laws.* ::
 
 
 If any provision of this chapter is inconsistent with, in conflict with, or contrary to any other provision of law, such provision of this chapter shall prevail over such other provision and such other provision shall be deemed to have been amended, superseded or repealed to the extent of such inconsistency, conflict or contrariety.
@@ -7230,7 +7752,9 @@ If any provision of this chapter is inconsistent with, in conflict with, or cont
 
 
 
-*§ 11-540 Disposition of revenues. * ::
+
+
+*§ 11-540 Disposition of revenues.* ::
 
 
 All revenues resulting from the imposition of the taxes under this chapter shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city, but no part of such revenues may be expended unless appropriated in the annual budget of the city.
@@ -7241,7 +7765,9 @@ All revenues resulting from the imposition of the taxes under this chapter shall
 Chapter 7: Commercial Rent Or Occupancy Tax
 --------------------------------------------------
 
-*§ 11-701 Definitions. * ::
+
+
+*§ 11-701 Definitions.* ::
 
 
 When used in this chapter the following terms shall mean or include:
@@ -7307,7 +7833,9 @@ When used in this chapter the following terms shall mean or include:
 
 
 
-*§ 11-702 Imposition of tax. * ::
+
+
+*§ 11-702 Imposition of tax.* ::
 
 
 a. (1) For each tax year commencing on or after June first, nineteen hundred sixty-three and ending on or before May thirty-first, nineteen hundred seventy, every tenant shall pay a tax of two and one-half per centum of his or her base rent for such tax year where his or her base rent is not in excess of twenty-five hundred dollars per year or where his or her base rent is for a period of less than one year and would not exceed twenty-five hundred dollars for a year if it were paid on an equivalent basis for an entire year or a tax of five per centum of his or her base rent for such tax year where his or her base rent is in excess of twenty-five hundred dollars per year or where his or her base rent is for a period of less than one year and would exceed twenty-five hundred dollars a year if it were paid on an equivalent basis for an entire year.
@@ -7357,7 +7885,9 @@ e. Nothing contained in this section shall be construed as permitting base rent 
 
 
 
-*§ 11-703 Presumptions and burden of proof. * ::
+
+
+*§ 11-703 Presumptions and burden of proof.* ::
 
 
 a. For the purpose of the proper administration of this chapter and to prevent evasion of the tax hereby imposed it shall be presumed that all premises are taxable premises and that all rent paid or required to be paid by a tenant is base rent until the contrary is established, and the burden of proving that such presumptive base rent or any portion thereof is not included in the measure of the tax imposed by this chapter shall be on the tenant.
@@ -7367,7 +7897,9 @@ b. Where a tenant uses premises both for residential purposes and as taxable pre
 
 
 
-*§ 11-704 Exemptions and deductions from base rent. * ::
+
+
+*§ 11-704 Exemptions and deductions from base rent.* ::
 
 
 a. The following shall be exempt from the payment of the tax imposed by this chapter:
@@ -7575,7 +8107,9 @@ i. (1)    (a)    (i) For purposes of, and to the extent relevant to, this 
 
 
 
-*§ 11-704.1 Credit for taxpayer who has not received special energy rebate. [Repealed] * ::
+
+
+*§ 11-704.1 Credit for taxpayer who has not received special energy rebate. [Repealed]* ::
 
 
 A tenant whose base rent for the tax year beginning June first, nineteen hundred ninety-three and ending May thirty-first, nineteen hundred ninety-four is at least eleven thousand dollars per year but not in excess of thirteen thousand nine hundred ninety-nine dollars per year shall be allowed a credit against the tax imposed by this chapter for such tax year, such credit shall be equal to twenty-five percent of the tax imposed on such base rent for such tax year. Where the base rent of a tenant is for a period of less than one year, such base rent shall, for the purposes of this section, be determined as if it had been on an equivalent basis for the entire year. The credit allowed under this section shall be deducted prior to the deduction of any credit allowable under section 11-704.1 of this chapter.
@@ -7583,7 +8117,9 @@ A tenant whose base rent for the tax year beginning June first, nineteen hundred
 
 
 
-*§ 11-704.3 Tax credit. * ::
+
+
+*§ 11-704.3 Tax credit.* ::
 
 
 (a) (1)  For the period beginning September first, nineteen hundred ninety-five and ending May thirty-first, nineteen hundred ninety-six, a credit shall be allowed against the tax imposed by this chapter, such credit to be determined in accordance with the following table:
@@ -7765,6 +8301,8 @@ If the tenant's annualized base rent for such period is over one hundred eighty-
 
 
 
+
+
 *§ 11-704.4 Small business tax credit.* ::
 
 
@@ -7797,7 +8335,9 @@ c. The department of finance may promulgate any rules necessary to implement the
 
 
 
-*§ 11-705 Returns. * ::
+
+
+*§ 11-705 Returns.* ::
 
 
 a. Every tenant subject to tax under this chapter shall file with the commissioner of finance a return with respect to the taxes payable for the three month periods ending on the last days of August, November and February of each year and a final return with respect to the taxes payable for the tax year ending on the last day of May of each year. Such returns shall be filed within twenty days from the expiration of the period covered thereby. A tenant who is exempt from the tax by reason of paragraph two of subdivision b of section 11-704 of this chapter shall nevertheless be required to file a final return, provided, however, that for tax years beginning on or after June first, nineteen hundred ninety-five and ending on or before May thirty-first, nineteen hundred ninety-seven, no such final return shall be required from such exempt tenant with respect to taxable premises if (1) the tenant's rent for such premises, determined without regard to any deduction from or reduction in rent or base rent allowed by this chapter, does not exceed fifteen thousand dollars for the tax year and (2) in the case of a tenant who has more than one taxable premises, the aggregate rents for all such premises, determined without regard to any deduction from or reduction in rent or base rent allowed by this chapter, do not exceed fifteen thousand dollars for the tax year. For tax years beginning on June first, nineteen hundred ninety-seven and ending on or before May thirty-first, two thousand one, no such final return shall be required from such exempt tenant with respect to any taxable premises if (1) the tenant's rent for such premises, determined without regard to any deduction from or reduction in rent or base rent allowed by this chapter, does not exceed seventy-five thousand dollars for the tax year and (2) the amount of rent received or due from any subtenant of such exempt tenant with respect to such premises does not exceed seventy-five thousand dollars for the tax year. For tax years beginning on or after June first, two thousand one, no such final return shall be required from such exempt tenant with respect to any taxable premises if (1) the tenant's rent for such premises, determined without regard to any deduction from or reduction in rent or base rent allowed by this chapter, does not exceed two hundred thousand dollars for the tax year and (2) the amount of rent received or due from any subtenant of such exempt tenant with respect to such premises does not exceed two hundred thousand dollars for the tax year. Notwithstanding anything in this subdivision to the contrary, for tax periods beginning on or after September first, nineteen hundred ninety-five, no return shall be required pursuant to this subdivision with respect to any taxable premises located in that part of the city specified in paragraph one of subdivision h of section 11-704 of this chapter, and no such taxable premises shall be taken into account for purposes of clause two of the preceding sentence. The commissioner of finance may permit or require returns (including final returns) to be made for other periods and upon such dates as the commissioner may specify and if he or she deems it necessary in order to insure the payment of the tax imposed by this chapter, the commissioner may require such returns to be made for shorter periods than those prescribed by the foregoing provisions of this section, and upon such dates as he or she may specify.
@@ -7811,7 +8351,9 @@ d. If a return or information return is not filed, or if a return of any kind wh
 
 
 
-*§ 11-706 Payment of tax. * ::
+
+
+*§ 11-706 Payment of tax.* ::
 
 
 a. The tax imposed by this chapter shall be due and payable on or before the twentieth day of the calendar month following the end of each tax period and shall be paid to the commissioner of finance, as follows: The tax to be paid at such time shall be based on the base rent for such tax period and the rate of tax shall be the one which would be applicable if the base rent for such period were the same for each tax period during the tax year, except that the payment required to be made together with the final return or at the time that the final return should be filed shall be the amount by which the actual tax for the tax year exceeds the amounts previously paid for the tax year.
@@ -7823,7 +8365,9 @@ c. Where a tenant ceases to do business the tax, as measured by the tenant's bas
 
 
 
-*§ 11-707 Records to be kept. * ::
+
+
+*§ 11-707 Records to be kept.* ::
 
 
 Every landlord of taxable premises and every tenant of taxable premises shall keep records of rent paid and received by him or her in such form as the commissioner of finance may by regulation require, all leases or agreements which fix the rents or rights of tenants of taxable premises, and such other records, receipts and other papers relevant to the ascertainment of the tax due under this chapter as the commissioner of finance may by regulation require. Such records shall be offered for inspection and examination at any time upon demand by the commissioner of finance. Such records, unless the commissioner of finance consents to a sooner destruction or requires that they be kept for a longer time, shall be preserved for a period of three years except that leases or agreements which fix the rents or rights of a tenant shall be kept for a period of three years after the expiration of the tenancy thereunder.
@@ -7831,7 +8375,9 @@ Every landlord of taxable premises and every tenant of taxable premises shall ke
 
 
 
-*§ 11-708 Determination of tax. * ::
+
+
+*§ 11-708 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient, the commissioner of finance shall determine the amount of tax due from such information as may be obtainable and, if necessary, may estimate the tax on the basis of external indices. Notice of such determination shall be given to the person liable for the payment of the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after the giving of notice of such determination or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the conciliation* of finance and (2) files a petition with the tax appeals tribunal for a hearing, or unless the commissioner of finance of** the commissioner's own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the tax is assessed and to the commissioner of finance. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the tax was assessed within four months after the giving of the notice of such tax appeals tribunal decision, provided, however, that any such proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a taxpayer unless: (a) the amount of any tax sought to be reviewed, with interest and penalties thereon, if any, shall be first deposited and there is filed an undertaking with the commissioner of finance, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount as a justice of the supreme court shall approve to the effect that if such proceeding be dismissed or the tax confirmed the taxpayer will pay all costs and charges which may accrue in the prosecution of such proceeding or (b) at the option of the taxpayer such undertaking may be in a sum sufficient to cover the taxes, interest and penalties stated in such decision plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the taxpayer shall not be required to pay such taxes, interest or penalties as a condition precedent to the application.
@@ -7839,7 +8385,9 @@ If a return required by this chapter is not filed, or if a return when filed is 
 
 
 
-*§ 11-709 Refunds. * ::
+
+
+*§ 11-709 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, if written application to the commissioner of finance for such refund shall be made within eighteen months from the date fixed by this chapter for filing the return on which such payment was based or within six months of the payment thereof, whichever of such periods expire the later. Whenever a refund or credit is made or denied, the commissioner of finance shall state his or her reason therefor and give notice thereof to the taxpayer in writing. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -7851,7 +8399,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-710 Remedies exclusive. * ::
+
+
+*§ 11-710 Remedies exclusive.* ::
 
 
 The remedies provided by this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if he or she institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-708 of this chapter.
@@ -7859,7 +8409,9 @@ The remedies provided by this chapter shall be the exclusive remedies available 
 
 
 
-*§ 11-711 Reserves. * ::
+
+
+*§ 11-711 Reserves.* ::
 
 
 In cases where the taxpayer has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to the taxpayer on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -7867,7 +8419,9 @@ In cases where the taxpayer has applied for a refund and has instituted a procee
 
 
 
-*§ 11-712 Proceedings to recover tax. * ::
+
+
+*§ 11-712 Proceedings to recover tax.* ::
 
 
 a. Whenever any person shall fail to pay any tax or penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner of finance, bring or cause to be brought an action to enforce payment of the same against the person liable for the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, the commissioner of finance in his or her discretion believes that a taxpayer subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which tax or penalties might be satisfied and that any such tax or penalty will not be paid when due, he or she may declare such tax or penalty to be immediately due and payable and may issue a warrant immediately.
@@ -7881,7 +8435,9 @@ d. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-713 General powers of the commissioner of finance. * ::
+
+
+*§ 11-713 General powers of the commissioner of finance.* ::
 
 
 In addition to the powers granted to the commissioner of finance in this chapter, the commissioner is hereby authorized and empowered:
@@ -7905,7 +8461,9 @@ In addition to the powers granted to the commissioner of finance in this chapter
 
 
 
-*§ 11-714 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-714 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, the commissioner's employees duly designated and authorized by the commissioner, the tax appeals tribunal and any of its duly designated and authorized employees shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before the commissioner or the tax appeals tribunal or excused from attendance.
@@ -7919,7 +8477,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-715 Interest and penalties. * ::
+
+
+*§ 11-715 Interest and penalties.* ::
 
 
 (a) Interest on underpayment; quarterly return. If any amount of tax required to be paid together with a return, other than the final return for a tax year, is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (h) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date until twenty days after the end of the tax year during which such payments were due or until such prior time as the tax paid for the tax year equals seventy-five percent of the full tax required to be paid for the tax year. Such interest shall be paid with the final return for the tax year to which it relates. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -7999,7 +8559,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-716 Returns to be secret. * ::
+
+
+*§ 11-716 Returns to be secret.* ::
 
 
 a. Except in accordance with proper judicial order or as otherwise provided by law, it shall be unlawful for the commissioner of finance, the department of finance of the city, any officer or employee of the department of finance of the city, any person engaged or retained by such department on an independent contract basis, the tax appeals tribunal, any commissioner or employee of such tribunal, or any person who, pursuant to this section, is permitted to inspect any return or to whom a copy, an abstract or a portion of any return is furnished, or to whom any information contained in any return is furnished, to divulge or make known in any manner any information relating to the business of a taxpayer contained in any return required under this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the commissioner of finance in an action or proceeding under the provisions of this chapter, or on behalf of any party to any action or proceeding under the provisions of this chapter when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the courts may require the production of, and may admit in evidence so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a taxpayer or the taxpayer's duly authorized representative of a certified copy of any return filed in connection with his or her tax; nor to prohibit the delivery of such a certified copy of such return or of any information contained in or relating thereto, to the United States of America or any department thereof, the state of New York or any department thereof, any agency or any department of the city of New York provided the same is requested for official business; nor to prohibit the inspection for official business of such returns by the corporation counsel or other legal representatives of the city or by the district attorney of any county within the city; nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
@@ -8015,7 +8577,9 @@ d. Notwithstanding anything in subdivision a of this section to the contrary, if
 
 
 
-*§ 11-717 Notices and limitation of time. * ::
+
+
+*§ 11-717 Notices and limitation of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given to the person for whom it is intended by mailing it in a postpaid envelope addressed to such person at the address given in the last return filed by such person pursuant to the provisions of this chapter or in any application made by such person or if no return has been filed or application made, then to such address as may be obtainable. The mailing of a notice as in this paragraph provided for shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice as in this subdivision provided.
@@ -8035,10 +8599,14 @@ f. (1)    Any reference in subdivision d of this section to the United States
 
 
 
-*§ 11-718 Construction and enforcement. * ::
+
+
+*§ 11-718 Construction and enforcement.* ::
 
 
 This chapter shall be construed in conformity with chapter two hundred fifty-seven of the laws of nineteen hundred sixty-three, pursuant to which it is enacted.
+
+
 
 
 
@@ -8108,7 +8676,9 @@ b. For purposes of the report required by subdivision a of this section, the bas
 Chapter 8: Tax On Commercial Motor Vehicles and Motor Vehicles For Transportation of Passengers
 --------------------------------------------------
 
-*§ 11-801 Definitions. * ::
+
+
+*§ 11-801 Definitions.* ::
 
 
 When used in this chapter, the following terms shall mean or include:
@@ -8162,7 +8732,9 @@ When used in this chapter, the following terms shall mean or include:
 
 
 
-*§ 11-802 Imposition of tax. * ::
+
+
+*§ 11-802 Imposition of tax.* ::
 
 
 a. In addition to any and all other taxes, including the compensating use tax, there is hereby imposed and there shall be paid annually for each tax year beginning June first, nineteen hundred sixty, a tax on the use in the city of motor vehicles to be paid by the owners of such vehicles as follows:
@@ -8188,7 +8760,9 @@ d. In applying the tax on commercial motor vehicles with respect to tractors, tr
 
 
 
-*§ 11-803 Exemptions. * ::
+
+
+*§ 11-803 Exemptions.* ::
 
 
 The provisions of this chapter shall not apply to motor vehicles owned and operated, or leased for their exclusive use by:
@@ -8208,7 +8782,9 @@ The provisions of this chapter shall not apply to motor vehicles owned and opera
 
 
 
-*§ 11-804 Presumption and burden of proof. * ::
+
+
+*§ 11-804 Presumption and burden of proof.* ::
 
 
 For the purpose of the proper administration of this chapter and to prevent evasion of the tax hereby imposed, it shall be presumed that all motor vehicles used in the city of the types described in paragraphs (a), (b) and (c) of subdivision three of section 11-801 of this chapter are used principally in the city or used principally in connection with a business carried on within the city and are subject to the tax until the contrary is established; and it shall be presumed that all motor vehicles used in the city of the types described in paragraphs (a) and (b) of subdivision four of section 11-801 of this chapter are used regularly, even though not principally in the city and are subject to the tax until the contrary is established. The burden of proving that a motor vehicle is not taxable under this chapter shall be on the owner of the motor vehicle.
@@ -8216,7 +8792,9 @@ For the purpose of the proper administration of this chapter and to prevent evas
 
 
 
-*§ 11-805 Records to be kept. * ::
+
+
+*§ 11-805 Records to be kept.* ::
 
 
 Every owner of a motor vehicle subject to tax under this chapter shall keep such records of his or her vehicles and of their use in the city in such form as the commissioner of finance may by regulation require. Such records shall be offered for inspection and examination at any time upon demand by the commissioner of finance or the commissioner's duly authorized agent or employee and shall be preserved for a period of three years except that the commissioner of finance may consent to their destruction within that period or may require that they be kept longer.
@@ -8224,7 +8802,9 @@ Every owner of a motor vehicle subject to tax under this chapter shall keep such
 
 
 
-*§ 11-806 Registration. * ::
+
+
+*§ 11-806 Registration.* ::
 
 
 a. By July thirteenth, nineteen hundred sixty or, upon acquiring any motor vehicle subject to tax hereunder after such date, within two days of such acquisition, every owner shall file with the commissioner of finance a certificate of registration in such form as prescribed by the commissioner of finance.
@@ -8238,7 +8818,9 @@ b. In order to determine whether motor vehicles are subject to the tax under thi
 
 
 
-*§ 11-807 Returns. * ::
+
+
+*§ 11-807 Returns.* ::
 
 
 a. On or before the twentieth day of June in each year commencing with the year nineteen hundred sixty, every owner of a motor vehicle subject to tax under this chapter shall file a return with the commissioner of finance. A supplemental return shall also be filed by every owner with regard to each motor vehicle subject to tax acquired during any tax year at a time subsequent to the filing of the owner's regular return. Such supplemental return shall be filed with the commissioner of finance within a stated time, as fixed by regulation of the commissioner of finance, after the acquisition of the motor vehicle. An owner who acquires a motor vehicle subject to the tax after the commencement of a tax year and who has not filed a return or supplemental return with respect to such motor vehicle shall file a return with respect to it within two days after its acquisition by the owner.
@@ -8254,7 +8836,9 @@ e. If a return, supplemental return or information return is not filed, or if a 
 
 
 
-*§ 11-808 Payment of tax. * ::
+
+
+*§ 11-808 Payment of tax.* ::
 
 
 a. At the time of filing a return or supplemental return the owner shall pay to the commissioner of finance the tax imposed hereunder. Such tax shall be due and payable on the last day on which such return or supplemental return is required to be filed, regardless of whether such a return is filed or whether the return which is filed correctly indicates the amount of tax due.
@@ -8270,7 +8854,9 @@ e. Notwithstanding any provision of this chapter or of chapter five of title nin
 
 
 
-*§ 11-809 Stamps and other indicia of payment. * ::
+
+
+*§ 11-809 Stamps and other indicia of payment.* ::
 
 
 a. The commissioner of finance may, by regulation, provide that the payment of the tax imposed by this chapter shall be evidenced by suitable stamps or other indicia of payment in a form prescribed by the commissioner of finance and that every owner shall affix such stamps or other indicia of payment in the manner prescribed by regulation to each motor vehicle for which a tax had been paid, or shall otherwise keep the indicia of payment with the vehicle, readily available for inspection, in the manner prescribed by regulation. The owner or driver of the vehicle, upon demand, shall exhibit the indicia of payment to the commissioner of finance or the commissioner's duly authorized agent or employee or to any police officer of this city or state. The commissioner of finance may, by regulation, make similar provision for the use of stamps or other indicia that no tax is payable with respect to particular motor vehicles.
@@ -8280,7 +8866,9 @@ b. An owner who sells a motor vehicle shall not transfer any stamp or other indi
 
 
 
-*§ 11-809.1 Collection of tax by commissioner of motor vehicles. * ::
+
+
+*§ 11-809.1 Collection of tax by commissioner of motor vehicles.* ::
 
 
 a. Notwithstanding any provision of this chapter to the contrary, the tax imposed by this chapter on any commercial motor vehicle with a maximum gross weight of ten thousand pounds or less and on any motor vehicle for transportation of passengers, other than a medallion taxicab, shall be collected by the commissioner of motor vehicles, provided that any such motor vehicle is registered or required to be registered pursuant to any provision of section four hundred one of the vehicle and traffic law. The owner of each such motor vehicle shall pay the tax due thereon to the commissioner of motor vehicles on or before the date upon which such owner registers or renews the registration of such motor vehicle or is required to register or renew the registration thereof pursuant to section four hundred one of the vehicle and traffic law.
@@ -8332,7 +8920,9 @@ o. To the extent that any provision of this section is in conflict with any othe
 
 
 
-*§ 11-809.2 Collection of tax by the taxi and limousine commission on behalf of the commissioner of finance. * ::
+
+
+*§ 11-809.2 Collection of tax by the taxi and limousine commission on behalf of the commissioner of finance.* ::
 
 
 a. Notwithstanding any provision of this chapter to the contrary, the tax imposed by this chapter on any designated licensed vehicle, as defined in this subdivision, shall be collected by the taxi and limousine commission on behalf of the commissioner of finance. Except as otherwise provided by subdivision m of this section, the owner of each such designated licensed vehicle shall pay the tax due thereon to the taxi and limousine commission on or before the date upon which such owner licenses or renews the license of such designated licensed vehicle or is required to license or renew the license thereof pursuant to chapter five of title nineteen of the code. For purposes of this section, the term "designated licensed vehicle" shall mean a motor vehicle for the transportation of passengers, other than a medallion taxicab, the tax on which is not collected by the commissioner of motor vehicles pursuant to section 11-809.1 of this chapter and which is licensed or required to be licensed by the taxi and limousine commission pursuant to any provision of chapter five of title nineteen of the code.
@@ -8404,7 +8994,9 @@ o. To the extent that any provision of this section is in conflict with any othe
 
 
 
-*§ 11-810 Determination of tax. * ::
+
+
+*§ 11-810 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient, the commissioner of finance shall determine the amount of tax due from such information as may be obtainable and, if necessary, may estimate the tax on the basis of external indices such as motor vehicle registration with the department of motor vehicles and/or any other factors. Notice of such determination shall be given to the person liable for the payment of the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after the giving of notice of such determination or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (i)* serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing, or unless the commissioner of finance of his or her own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the tax is assessed and to the commissioner of finance. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the tax was assessed within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a taxpayer unless: (a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the taxpayer will pay all costs and charges which may accrue in the prosecution of the proceeding, or (b) at the option of the taxpayer such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such decision plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the taxpayer shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.
@@ -8412,7 +9004,9 @@ If a return required by this chapter is not filed, or if a return when filed is 
 
 
 
-*§ 11-811 Refunds. * ::
+
+
+*§ 11-811 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, if written application to the commissioner of finance for such refund shall be made within one year from the payment thereof. Whenever a refund or credit is made or denied, the commissioner of finance shall state his or her reason therefor and give notice thereof to the taxpayer in writing. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -8424,7 +9018,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-812 Remedies exclusive. * ::
+
+
+*§ 11-812 Remedies exclusive.* ::
 
 
 The remedies provided by this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if the taxpayer institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-810 of this chapter.
@@ -8432,7 +9028,9 @@ The remedies provided by this chapter shall be the exclusive remedies available 
 
 
 
-*§ 11-813 Reserves. * ::
+
+
+*§ 11-813 Reserves.* ::
 
 
 In cases where the taxpayer has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to the taxpayer on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -8440,7 +9038,9 @@ In cases where the taxpayer has applied for a refund and has instituted a procee
 
 
 
-*§ 11-814 Proceedings to recover tax. * ::
+
+
+*§ 11-814 Proceedings to recover tax.* ::
 
 
 a. Whenever any person shall fail to pay any tax or penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner of finance, bring or cause to be brought an action to enforce payment of the same against the person liable for the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, the commissioner of finance in his or her discretion believes that a taxpayer subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which tax or penalties might be satisfied and that any such tax or penalty will not be paid when due, the commissioner may declare such tax or penalty to be immediately due and payable and may issue a warrant immediately.
@@ -8454,7 +9054,9 @@ d. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-815 General powers of the commissioner of finance. * ::
+
+
+*§ 11-815 General powers of the commissioner of finance.* ::
 
 
 In addition to all other powers granted to the commissioner of finance in this chapter, the commissioner is hereby authorized and empowered:
@@ -8476,7 +9078,9 @@ In addition to all other powers granted to the commissioner of finance in this c
 
 
 
-*§ 11-816 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-816 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, the commissioner's employees duly designated and authorized by the commissioner, the tax appeals tribunal and any of its duly designated and authorized employees shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before the commissioner or the tax appeals tribunal or excused from attendance.
@@ -8490,7 +9094,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-817 Interest and penalties. * ::
+
+
+*§ 11-817 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -8556,7 +9162,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-818 Information and records to be secret. * ::
+
+
+*§ 11-818 Information and records to be secret.* ::
 
 
 a. Except in accordance with proper judicial order, or as otherwise provided by law, it shall be unlawful for the commissioner of finance, the tax appeals tribunal, any other agency, officer or employee of the city, the commissioner of motor vehicles, any officer or employee of the department of motor vehicles, any agent of the commissioner of motor vehicles, or any other person who, pursuant to this section, is permitted to inspect any registration or return filed hereunder, or to whom a copy, an abstract or portion of any registration or return filed hereunder is furnished, or to whom any information contained in any registration or return filed hereunder is furnished, to divulge or make known in any manner any information relating to or contained in any registration or any kind of return filed hereunder. The officers charged with the custody of such registration and returns pertaining to the tax hereunder shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the city, the commissioner of finance, the state or the commissioner of motor vehicles, in an action or proceeding under the provisions of this chapter, or on behalf of any party to any action or proceeding under the provisions of this chapter, or on behalf of any party to any action or proceeding under the provisions of this chapter when the registration, return or facts shown therein are directly involved in such action or proceeding, in either of which events, the court may require the production of, and may admit in evidence, so much of said registration, return, or of the facts shown therein, as are pertinent to the action or proceeding and no more. The commissioner of finance may, nevertheless, publish a copy or a summary of any determination or decision rendered after a formal hearing held pursuant to section 11-810 or 11-811 of this chapter. Nothing herein shall be construed to prohibit the delivery to a person or such person's duly authorized representative of a certified copy of any registration or return filed by such person; nor to prohibit the delivery of any original return, with any notation that the commissioner of finance or the commissioner of motor vehicles may cause to be made thereon, to the person filing the return, whether such person files the return on his or her own behalf or on behalf of another, or to the person on whose behalf the return is filed; nor to prohibit the commissioner of finance from providing by rule for the display or production of any original return, as an indicium of payment of the tax imposed by this chapter; nor to prohibit the publication of statistics so classified as to prevent the identification of particular registrations and returns and the items thereof; nor to prohibit the delivery of a certified copy of any registration or return to the United States of America or any department thereof, the state of New York or any department thereof, the city of New York or any department thereof provided it is requested for official business, nor to prohibit the inspection by the corporation counsel or other legal representatives of the city, the attorney general of the state of New York or other legal representatives of the department of motor vehicles, or by the district attorney of any county within the city of the registration or return of any person who shall bring action to set aside or review any tax hereunder, or against whom an action or proceeding under this chapter is instituted. Returns, or reproductions thereof, pertaining to any motor vehicle registered hereunder shall be preserved for three years and thereafter until the commissioner of finance or the commissioner of motor vehicles permits them to be destroyed.
@@ -8572,7 +9180,9 @@ d. Notwithstanding anything in subdivision a of this section to the contrary, if
 
 
 
-*§ 11-819 Notices and limitations of time. * ::
+
+
+*§ 11-819 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given to the person for whom it is intended by mailing it in a postpaid envelope addressed to such person at the address given in the last registration of a motor vehicle filed by such person pursuant to the provisions of this chapter, or in any application made by such person, or if no such registration has been filed or application made, then to such address as may be obtainable. The mailing of a notice as in this subdivision provided for shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice as in this subdivision provided.
@@ -8592,7 +9202,9 @@ f. (1) Any reference in subdivision d of this section to the United States mail 
 
 
 
-*§ 11-820 Construction and enforcement. * ::
+
+
+*§ 11-820 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with chapter one thousand thirty-two of the laws of nineteen hundred sixty, pursuant to which it is enacted.
@@ -8603,7 +9215,9 @@ This chapter shall be construed and enforced in conformity with chapter one thou
 Chapter 9: Tax Upon Foreign and Alien Insurers
 --------------------------------------------------
 
-*§ 11-901 Definitions. * ::
+
+
+*§ 11-901 Definitions.* ::
 
 
 Wherever used in this chapter, the following words and phrases shall mean and include:
@@ -8631,7 +9245,9 @@ Wherever used in this chapter, the following words and phrases shall mean and in
 
 
 
-*§ 11-902 General powers of the commissioner of finance. * ::
+
+
+*§ 11-902 General powers of the commissioner of finance.* ::
 
 
 In addition to all other powers granted to the commissioner of finance under this chapter, the commissioner is hereby authorized and empowered:
@@ -8655,7 +9271,9 @@ In addition to all other powers granted to the commissioner of finance under thi
 
 
 
-*§ 11-903 Tax on premiums on policies of foreign and alien insurers. * ::
+
+
+*§ 11-903 Tax on premiums on policies of foreign and alien insurers.* ::
 
 
 There shall be paid to the department of finance for the use and benefit of the fire department of the city, on or before the first day of March, in each year by every foreign and alien fire insurance corporation, association or individuals which insure property against loss or damage by fire, the sum of two percent of all gross direct premiums less return premiums which, during the year ending on the preceding thirty-first day of December, shall have been received by any such insurer for any insurance against loss or damage by fire in the city. Any such insurer which in any year shall cease or terminate doing business in the city shall pay the tax for such year within thirty days after such cessation or termination.
@@ -8663,7 +9281,9 @@ There shall be paid to the department of finance for the use and benefit of the 
 
 
 
-*§ 11-904 Report of premiums by insurers. * ::
+
+
+*§ 11-904 Report of premiums by insurers.* ::
 
 
 Each insurer required to pay a tax under this chapter shall, at the time such tax is paid or payable, whichever is sooner, render to the commissioner of finance a verified report setting forth such information as may be required by the commissioner for the determination of the tax and the proper administration of this chapter. The commissioner of finance shall prescribe the form and furnish the necessary forms to enable such insurers to make such reports. The commissioner or the commissioner's designated representative or the tax appeals tribunal or its designated representative shall have power to examine any such insurer under oath and to require the production by such insurer of all books and papers as the commissioner or the tax appeals tribunal may deem necessary. All expenses of collecting such tax shall be paid by the commissioner of finance from the funds received under this chapter prior to the distribution thereof as hereinafter authorized.
@@ -8671,7 +9291,9 @@ Each insurer required to pay a tax under this chapter shall, at the time such ta
 
 
 
-*§ 11-905 Interest and penalties. * ::
+
+
+*§ 11-905 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the underpayment rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -8735,7 +9357,9 @@ Each insurer required to pay a tax under this chapter shall, at the time such ta
 
 
 
-*§ 11-906 Assessment, refund, collection, review and reserves. * ::
+
+
+*§ 11-906 Assessment, refund, collection, review and reserves.* ::
 
 
 (a) The provisions of the civil practice law and rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action by the commissioner of finance to levy, assess, determine or enforce the collection of tax, interest or penalty imposed by this chapter. However, except in the case of a wilfully false or fraudulent report, no assessment of additional tax, interest or penalty shall be made after the expiration of more than three years from the date of the filing of a report, provided, however, that where no report has been filed as provided by law the tax may be assessed at any time. The commissioner of finance shall refund or credit, with interest at the overpayment rate set by the commissioner of finance pursuant to subdivision (g) of section 11-905 of this chapter or, if no rate is set, at the rate of six percent per annum computed from the date of overpayment to a date (to be determined by the commissioner of finance) preceding the date of a refund check by not more than thirty days, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid if application to the commissioner of finance for such refund shall be made within six months from the payment thereof. Notice of any determination of the commissioner of finance with respect to an assessment of tax, interest or penalty or with respect to a claim for refund or any other notice, demand or request shall be given by mailing the same to the insurer to the address of its New York city office last filed with the commissioner of finance or, if there is no such office, to the address of its main office last filed with the commissioner of finance or, in the absence of any filed address, to such address as may be obtainable. The mailing of any notice, demand or request by the commissioner of finance shall be presumptive evidence of its receipt by the insurer and any period of time to be determined with reference to the giving of such notice, demand or request shall commence to run from the date of such mailing. The determination of the commissioner of finance shall finally and irrevocably fix the amount of any tax, interest or penalty due or to be refunded unless the taxpayer, within ninety days after the giving of notice of such determination, or if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing, or unless the commissioner of finance of his or her own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the taxpayer and to the commissioner of finance with reference to the amount of the tax, interest or penalty assessed or to be refunded. The decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason, by a proceeding under article seventy-eight of the civil practice law and rules if such proceeding is commenced by the person against whom the tax was assessed within four months after the giving of the notice of such tax appeals tribunal decision. Such proceeding shall not be commenced by the taxpayer unless: (1) the amount of any tax assessed and sought to be reviewed with penalties and interest thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the decision confirmed, the taxpayer will pay all costs and charges which may accrue against the taxpayer in the prosecution of the proceeding, or (2) in the case of a review of a decision assessing any taxes, penalties and interest, at the option of the taxpayer, such undertaking may be in a sum sufficient to cover all of the taxes, penalties and interest assessed by such decision plus the costs and charges which may accrue against the taxpayer in the prosecution of the proceeding, in which event the taxpayer shall not be required to deposit such taxes, penalties and interest as a condition precedent to the commencement of the proceeding. No determination or proposed determination of tax, interest or penalty due or to be refunded shall be reviewed or enjoined in any manner except as set forth herein.
@@ -8747,7 +9371,9 @@ Each insurer required to pay a tax under this chapter shall, at the time such ta
 
 
 
-*§ 11-907 Place of business to be reported. * ::
+
+
+*§ 11-907 Place of business to be reported.* ::
 
 
 Every insurer, on or before the first day of March in each year, and as often in each year as such insurer shall change its principal place of business or change or terminate any office or place of business in the city, shall report in writing, to the commissioner of finance, the location of its principal place of business and any new principal place of business or of any new office or place of business in the city or of the termination of any such office or place of business. In the event of such change or termination, such report shall be made no later than fifteen days after such change or termination. Any insurer who fails or neglects to make such report within the time limited therefor shall be subject to a penalty of one hundred dollars and, in addition thereto, fifty dollars for each month or part thereof during which such report is not made. The total of such penalties shall not exceed one thousand dollars.
@@ -8755,7 +9381,9 @@ Every insurer, on or before the first day of March in each year, and as often in
 
 
 
-*§ 11-908 Suits for violations. * ::
+
+
+*§ 11-908 Suits for violations.* ::
 
 
 The tax provided to be paid by this chapter, and the pecuniary penalties and interest imposed therein, or any or either of them, may be sued for and recovered, with costs of suit, in any court of record, by the commissioner of finance.
@@ -8763,7 +9391,9 @@ The tax provided to be paid by this chapter, and the pecuniary penalties and int
 
 
 
-*§ 11-909 Distribution of tax on policies covering property in the city of New York. * ::
+
+
+*§ 11-909 Distribution of tax on policies covering property in the city of New York.* ::
 
 
 (a) The moneys received by the commissioner of finance as a tax on policies covering property in each borough of the city shall be disbursed by the commissioner of finance as follows:
@@ -8808,7 +9438,9 @@ The tax provided to be paid by this chapter, and the pecuniary penalties and int
 Chapter 10: Occupancy Tax For Low Rent Housing and Slum Clearance
 --------------------------------------------------
 
-*§ 11-1001 Legislative findings. * ::
+
+
+*§ 11-1001 Legislative findings.* ::
 
 
 It is hereby declared that: In certain areas of the city of New York there exist unsanitary or substandard housing conditions owing to overcrowding and concentration of population, improper planning, excessive land coverage, lack of proper light, air and space, unsanitary design and arrangement, or lack of proper sanitary facilities; there is not an adequate supply of decent, safe and sanitary dwelling accommodations for persons of low income; these conditions cause an increase and spread of disease and crime and constitute a menace to the health, safety, morals, welfare and comfort of the citizens of the state, and impair economic values; these conditions cannot be remedied by the ordinary operation of private enterprise; the clearance, replanning and reconstruction of the areas in which unsanitary or substandard housing conditions exist and the providing of decent, safe and sanitary dwelling accommodations in such areas and elsewhere for persons of low income are public uses and purposes for which public money may be spent and private property acquired; therefore the necessity in the public interest for the provisions hereinafter enacted is hereby declared, as a matter of legislative determination.
@@ -8816,7 +9448,9 @@ It is hereby declared that: In certain areas of the city of New York there exist
 
 
 
-*§ 11-1002 Low rent housing and slum clearance; governmental functions. * ::
+
+
+*§ 11-1002 Low rent housing and slum clearance; governmental functions.* ::
 
 
 It is hereby declared as a matter of legislative determination that the clearing of areas in which the conditions described in section 11-1001 of this chapter exist and the furnishing of low rent housing for the occupants thereof be hereafter a function of the government of the city of New York.
@@ -8824,7 +9458,9 @@ It is hereby declared as a matter of legislative determination that the clearing
 
 
 
-*§ 11-1003 Housing authority; agent for city. * ::
+
+
+*§ 11-1003 Housing authority; agent for city.* ::
 
 
 It is hereby declared that the New York city housing authority be and it hereby is appointed as the agent for the city of New York to carry out the functions described in section 11-1002 of this chapter.
@@ -8832,7 +9468,9 @@ It is hereby declared that the New York city housing authority be and it hereby 
 
 
 
-*§ 11-1004 Definitions. * ::
+
+
+*§ 11-1004 Definitions.* ::
 
 
 When used in this chapter:
@@ -8854,7 +9492,9 @@ g. The words "vending machine" mean a machine which vends or sells tangible pers
 
 
 
-*§ 11-1005 Imposition of the tax. * ::
+
+
+*§ 11-1005 Imposition of the tax.* ::
 
 
 a. To provide additional funds for the purpose of fulfilling any contract to make capital or periodic subsidies to the New York city housing authority in aid of a low rent or slum clearance project or for the purpose of paying an indebtedness incurred for a low rent or slum clearance project, every occupant of premises for a year or any part thereof in excess of one month and fifteen days shall pay annually to the commissioner of finance on June twentieth of each year until and including June twentieth, nineteen hundred eighty-one, a tax for each separate premises occupied at the rates computed, with reference to the rental value for separate premises in the city of New York, as specified in the following table:
@@ -8939,7 +9579,9 @@ c. Where the premises are occupied by vending machines other than those which se
 
 
 
-*§ 11-1006 Exemptions. * ::
+
+
+*§ 11-1006 Exemptions.* ::
 
 
 No tax as imposed by section 11-1005 of this chapter shall be due or payable in any event for the occupation of any of the premises described herein to the extent so occupied and no return need be made therefor pursuant to the provisions of this chapter if any of the following conditions be demonstrated to the satisfaction of the commissioner of finance:
@@ -8973,7 +9615,9 @@ No tax as imposed by section 11-1005 of this chapter shall be due or payable in 
 
 
 
-*§ 11-1007 Returns; payment of taxes. * ::
+
+
+*§ 11-1007 Returns; payment of taxes.* ::
 
 
 On or before the twentieth day of June in each year, every person subject to a tax hereunder, shall file a return with the commissioner of finance on the form to be furnished by the commissioner of finance. At the time of filing such return each person shall pay to the commissioner of finance the tax imposed herein. Such tax shall be due and payable annually upon the twentieth day of June, whether or not a return is filed.
@@ -8981,7 +9625,9 @@ On or before the twentieth day of June in each year, every person subject to a t
 
 
 
-*§ 11-1008 Presumption and burden of proof. * ::
+
+
+*§ 11-1008 Presumption and burden of proof.* ::
 
 
 It shall be presumed that the occupant of any premises is subject to the tax until the contrary is established, and the burden of proving that any occupation of premises is exempt from taxation shall be upon such occupant.
@@ -8989,7 +9635,9 @@ It shall be presumed that the occupant of any premises is subject to the tax unt
 
 
 
-*§ 11-1009 Determination of tax by the commissioner of finance. * ::
+
+
+*§ 11-1009 Determination of tax by the commissioner of finance.* ::
 
 
 a. If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient and the maker fails to file a corrected or sufficient return within twenty days after it is required by a notice from the commissioner of finance, the commissioner of finance shall tentatively determine the amount of tax due from such information as he or she may be able to obtain and, if necessary, may estimate the tax on the basis of external indices. The commissioner of finance shall give notice of the amount so fixed to the person liable for the tax. Unless the person against whom the tax is assessed shall within fifteen days after the giving of such notice apply in writing to the commissioner of finance for a hearing to correct such assessment, such notice shall constitute a final and irrevocable determination of the tax. After such hearing the commissioner of finance shall give notice of his or her decision to the person liable for the tax.
@@ -8999,7 +9647,9 @@ b. Such determination and the decision of the commissioner of finance upon any a
 
 
 
-*§ 11-1010 Refunds. * ::
+
+
+*§ 11-1010 Refunds.* ::
 
 
 The commissioner of finance shall refund any tax erroneously, illegally or unconstitutionally collected by or paid to him or her, under protest in writing, stating in detail the ground or grounds of the protest, if application therefor shall be made to the commissioner of finance within one year from the payment thereof. For like cause and within the same period a refund may be made on the initiative of the commissioner of finance. Whenever a refund is made the commissioner of finance shall state his or her reasons therefor in writing. A person shall not be entitled to a hearing in connection with any application for a refund if he or she has already been given the opportunity of a hearing as provided in section 11-1009 of this chapter. No refund shall be made of a tax or penalty paid pursuant to a determination of the commissioner of finance as provided in section 11-1009 of this chapter, unless the commissioner of finance, after a hearing as in said section provided, or of his or her own motion, shall have reduced the tax or penalty, or it shall have been established in a proceeding under article seventy-eight of the civil practice law and rules that such determination was erroneous, illegal, unconstitutional, or otherwise improper, in which event a refund with interest shall be made as provided upon the determination of such proceeding. An application for a refund made as herein provided shall be deemed an application for a revision of any tax or penalty complained of and the commissioner of finance may receive evidence with respect thereto. After making his or her determination the commissioner of finance shall give notice thereof to the person interested who shall be entitled to review such determination by a proceeding under article seventy-eight of the civil practice law and rules if application to the supreme court be made therefor within thirty days after such determination and an undertaking shall first be filed with the commissioner of finance in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such order be dismissed or the tax confirmed, the applicant for the order will pay all costs and charges which may accrue in the prosecution of the certiorari proceeding.
@@ -9007,7 +9657,9 @@ The commissioner of finance shall refund any tax erroneously, illegally or uncon
 
 
 
-*§ 11-1011 Remedies exclusive. * ::
+
+
+*§ 11-1011 Remedies exclusive.* ::
 
 
 The remedies provided by section 11-1009 of this chapter hereof shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination of tax or determination on an application for refund shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any legal or equitable action or proceeding other than one under article seventy-eight of the civil practice law and rules.
@@ -9015,7 +9667,9 @@ The remedies provided by section 11-1009 of this chapter hereof shall be the exc
 
 
 
-*§ 11-1012 Reserves. * ::
+
+
+*§ 11-1012 Reserves.* ::
 
 
 In cases where the taxpayer has paid any tax under written protest stating in detail the ground or grounds therefor, or has applied for a refund and an order under article seventy-eight of the civil practice law and rules to review a determination adverse to the taxpayer on the taxpayer's application for refund, or has deposited the amount of tax assessed in connection with a proceeding under section 11-1009 of this chapter the commissioner of finance shall set up appropriate reserves to meet any decision adverse to the city.
@@ -9023,7 +9677,9 @@ In cases where the taxpayer has paid any tax under written protest stating in de
 
 
 
-*§ 11-1013 Proceeding to recover tax. * ::
+
+
+*§ 11-1013 Proceeding to recover tax.* ::
 
 
 a. The commissioner of finance may issue a warrant directed to any officer or employee of the department of finance commanding him or her to levy upon and sell the real and personal property of the person from whom the tax is due for the payment of the amount thereof, with penalties, and the cost of executing the warrants, and to return such warrant to the commissioner of finance and to pay to him or her the money collected by virtue thereof, and in the execution thereof such officer or employee shall have all the powers conferred by law upon sheriffs, but he or she shall be entitled to no fee or compensation in excess of the actual expenses paid in the performance of such duty. If a warrant is returned not satisfied in full, the commissioner of finance may from time to time issue new warrants and shall also have the same remedies to enforce the amount due hereunder as if the city had recovered judgment therefor and the execution thereon had been returned not satisfied. A copy of any warrant issued may be filed with the county clerk in any of the counties of the city of New York and thereupon such clerk shall enter in the judgment docket the name of the person mentioned in the warrant and the amount of the tax and penalty for which the warrant is issued and the date when such copy is filed. Thereupon the amount of such warrant so docketed shall become a lien upon the title to and interest in the real and personal property of the person against whom the warrant is issued.
@@ -9035,7 +9691,9 @@ c. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-1014 Notices and limitation of time. * ::
+
+
+*§ 11-1014 Notices and limitation of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a post paid envelope addressed to such person at the address given in the return filed by such person pursuant to the provisions of this chapter or if no return has been filed then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -9045,7 +9703,9 @@ b. The provisions of the civil practice law and rules relative to limitations of
 
 
 
-*§ 11-1015 Penalties and interest. * ::
+
+
+*§ 11-1015 Penalties and interest.* ::
 
 
 a. Any person failing to file a return or corrected return or to pay any tax or any portion thereof that may be required by this chapter shall be subject to a penalty of five times the amount of the tax due, plus five per centum of such tax for each month of delay or fraction thereof, but the commissioner of finance, if satisfied that the delay was excusable, may remit all or any part of such penalty, but not interest. Penalties shall be paid to the commissioner of finance and disposed of in the manner as other receipts under this chapter. Unpaid penalties may be enforced in the same manner as the tax imposed by this chapter.
@@ -9055,7 +9715,9 @@ b. Any person filing or causing to be filed any return, certificate, affidavit o
 
 
 
-*§ 11-1016 General powers of the commissioner of finance. * ::
+
+
+*§ 11-1016 General powers of the commissioner of finance.* ::
 
 
 In the administration of this chapter, the commissioner of finance is authorized to:
@@ -9079,7 +9741,9 @@ In the administration of this chapter, the commissioner of finance is authorized
 
 
 
-*§ 11-1017 Returns to be secret. * ::
+
+
+*§ 11-1017 Returns to be secret.* ::
 
 
 Except in accordance with judicial order, or upon subpoena issued by a court of competent jurisdiction, it shall be unlawful for the commissioner of finance or any officer or employee of the city to divulge or make known in any manner, any information contained in any return required under this chapter. Nothing herein shall be construed to prohibit the delivery to a taxpayer of a certified copy of any return filed by the taxpayer, nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns, or the inspection by the corporation counsel of the return to any taxpayer who shall bring action or proceeding to set aside or review the tax based thereon, or against whom an action or proceeding has been instituted or is contemplated for the collection of a tax or penalty. Returns shall be preserved for three years and thereafter until the commissioner of finance orders them to be destroyed.
@@ -9087,7 +9751,9 @@ Except in accordance with judicial order, or upon subpoena issued by a court of 
 
 
 
-*§ 11-1018 Disposition of revenue. * ::
+
+
+*§ 11-1018 Disposition of revenue.* ::
 
 
 All revenues and moneys heretofore or hereafter collected resulting from the imposition of taxes and penalties imposed by this chapter shall be deposited in the city treasury, and credited to a separate account. During each fiscal year, an amount not in excess of the amount of the subsidies to be made, and the amount of indebtedness incurred for low rent or slum clearance projects to be paid, during such fiscal year shall be charged to such account and credited to the general fund. No other payments shall be charged to such an account. The mayor may contract to make capital or periodic subsidies to the New York city housing authority in aid of a low rent project, or may incur indebtedness for a low rent slum clearance project, but such periodic subsidies shall not be contracted for a period longer than the life of such project and in no event for more than fifty years. If the amount of any such periodic subsidy shall be equal to or greater than the interest on and the amounts required annually for the payment of the indebtedness contracted by the authority on account of such project in each year, such contract shall constitute a guarantee of the principal of and the interest on such indebtedness, and such contract and the payments thereunder may be pledged by the authority as security in addition to all other security which the authority may give for such bonds. No such contract or periodic subsidies shall be made until the plan for such project shall have been approved in the manner provided by the public housing law.
@@ -9095,7 +9761,9 @@ All revenues and moneys heretofore or hereafter collected resulting from the imp
 
 
 
-*§ 11-1019 Application; construction. * ::
+
+
+*§ 11-1019 Application; construction.* ::
 
 
 If any provision of this chapter shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered. This chapter shall be construed in conformity with the public housing law.
@@ -9106,7 +9774,9 @@ If any provision of this chapter shall be adjudged by any court of competent jur
 Chapter 11: Utility Tax
 --------------------------------------------------
 
-*§ 11-1101 Definitions. * ::
+
+
+*§ 11-1101 Definitions.* ::
 
 
 When used in this chapter the following terms shall mean or include:
@@ -9180,7 +9850,9 @@ When used in this chapter the following terms shall mean or include:
 
 
 
-*§ 11-1102 Imposition of excise tax. * ::
+
+
+*§ 11-1102 Imposition of excise tax.* ::
 
 
 a. Notwithstanding any other provisions of law to the contrary, for the privilege of exercising its franchise or franchises, or of holding property, or of doing business in the city, on or after August first, nineteen hundred sixty-five, every utility shall pay to the commissioner of finance an excise tax which shall be equal to two per centum of its gross income until and including December thirty-first, nineteen hundred sixty-five, and shall be equal to two and thirty-five hundredths per centum thereafter, except that the rate as to persons engaged in the business of operating omnibuses with a carrying capacity of more than seven persons shall be one per centum until and including December thirty-first, nineteen hundred sixty-five, and one and seventeen hundredths per centum thereafter, and except that as to persons engaged in the business of operating or leasing sleeping and parlor railroad cars or of operating railroads other than street surface, rapid transit, subway and elevated railroads, the rate shall be three per centum until and including December thirty-first, nineteen hundred sixty-five, and three and fifty-two one hundredths per centum thereafter, and every vendor of utility services in the city shall pay to the commissioner of finance an excise tax which shall be equal to two per centum of its gross operating income until and including December thirty-first, nineteen hundred sixty-five, and shall be equal to two and thirty-five one hundredths per centum thereafter, except that as to persons engaged in the business of operating omnibuses with a carrying capacity of more than seven persons other than omnibuses used exclusively for the transportation of children to and from schools operated under contracts made pursuant to the provisions of the education law, and not subject to the jurisdiction of the department of public service, the rate shall be one per centum of its gross operating income until and including December thirty-first, nineteen hundred sixty-five, and one and seventeen hundredths per centum thereafter. Such tax shall be in addition to any and all other taxes, charges and fees imposed by any other provision of law and shall be paid at the time and in the manner hereinafter provided, but any person to the extent that it is subject to tax hereunder shall not be liable to any tax under any other of the local laws of the city enacted pursuant to chapter ninety-three of the laws of nineteen hundred sixty-five as amended, or article two-b of the general city law, with respect to its gross income or gross operating income hereunder taxed, as the case may be.
@@ -9210,6 +9882,8 @@ f. (1) Notwithstanding anything contained in this chapter to the contrary, for t
 
 
 
+
+
 *§ 11-1102.1 Deduction relating to certain sales to non-residential energy users. [Repealed]* ::
 
 
@@ -9218,7 +9892,9 @@ Every person subject to tax hereunder shall keep records of its business and in 
 
 
 
-*§ 11-1104 Returns; requirements as to. * ::
+
+
+*§ 11-1104 Returns; requirements as to.* ::
 
 
 a. Except as otherwise provided in subdivision e of this section with respect to taxable periods beginning after nineteen hundred ninety-eight, on or before the twenty-fifth day of September, nineteen hundred sixty-five, and on or before the twenty-fifth day of every month thereafter, every person subject to tax hereunder shall file a return with the commissioner of finance on a form to be prescribed by such commissioner. Such return shall state the gross income or gross operating income as the case may be for the preceding calendar month, and shall contain any other data, information or other matter which the commissioner of finance may require to be included therein. The commissioner of finance may require at any further time a supplemental return hereunder, which shall contain any data upon such matters as such commissioner may specify. Notwithstanding the foregoing and notwithstanding the provisions of subdivision e of this section, a vendor of utility services, all of whose gross operating income is excluded from the measure of the tax imposed by this chapter pursuant to subdivision e of section 11-1102 of this chapter during any taxable period, shall not be required to file a return for such taxable period, provided, however, that on or before the first day of September of each year, any such vendor of utility services who was not required to file a return for any taxable period during the period covered by the statement required to be filed by such date pursuant to subdivision a of section 11-208.1 of this title shall file an information return covering such period in such form and containing such information as the commissioner of finance may specify.
@@ -9234,7 +9910,9 @@ e. With respect to taxable periods beginning after nineteen hundred ninety-eight
 
 
 
-*§ 11-1105 Payment of tax; credit for certain sales and compensating use taxes. * ::
+
+
+*§ 11-1105 Payment of tax; credit for certain sales and compensating use taxes.* ::
 
 
 a. At the time of filing each return, as provided under section 11-1104 of this chapter, each person taxable hereunder shall pay to the commissioner of finance the taxes imposed by this chapter upon its gross income or gross operating income, as the case may be, for the taxable period covered by such return, less any credit to which such person may be entitled under subdivision b of this section. Such taxes shall be due and payable on the last day on which the return for such period is required to be filed, regardless of whether a return is filed or whether the return which is filed correctly indicates the amount of tax due.
@@ -9248,7 +9926,9 @@ b. (1) A taxpayer shall be allowed a credit against the taxes imposed by this ch
 
 
 
-*§ 11-1105.1 Credit for rebates and discounts of charges for energy. * ::
+
+
+*§ 11-1105.1 Credit for rebates and discounts of charges for energy.* ::
 
 
 A taxpayer shall be allowed a credit against the amount of taxes imposed by this chapter for the amount of special rebates and discounts made in accordance with the provisions of section 22-602 of this chapter and for the amount of special rebates and discounts made in accordance with the provisions of section twenty-five-bb of the general city law. Such credit shall be applied against the amount of tax otherwise required to be paid as provided in subdivision a of section 11-1105 of this chapter and shall be claimed for the taxable period immediately succeeding the taxable period in which such rebates or discounts are made.
@@ -9256,7 +9936,9 @@ A taxpayer shall be allowed a credit against the amount of taxes imposed by this
 
 
 
-*§ 11-1105.2 Relocation and employment assistance program credit. * ::
+
+
+*§ 11-1105.2 Relocation and employment assistance program credit.* ::
 
 
 (a) A taxpayer that has obtained the certifications required by chapter six-B of title twenty-two of the code shall be allowed a credit against the tax imposed by this chapter, provided, however, that a taxpayer that is a vendor of utility services shall not be allowed the credit against the tax imposed by this chapter unless it elects as provided in subdivision (d) of section 22-622 of the code to take the credit against the tax imposed by this chapter. The amount of the credit shall be the amount determined by multiplying one thousand dollars or, in the case of an eligible business that has obtained pursuant to chapter six-B of such title twenty-two a certification of eligibility dated on or after July first, two thousand, for a relocation to eligible premises located within a revitalization area defined in subdivision (n) of section 22-621 of the code, three thousand dollars, by the number of eligible aggregate employment shares maintained by the taxpayer during the calendar year with respect to particular premises to which the taxpayer has relocated; provided, however, with respect to a relocation for which no application for a certificate of eligibility is submitted prior to July first, two thousand three, to eligible premises that are within a revitalization area, if the date of such relocation as determined pursuant to subdivision (j) of section 22-621 of the code is on or after January first, nineteen hundred ninety-nine, and before July first, two thousand, the amount to be multiplied by the number of eligible aggregate employment shares shall be one thousand dollars; provided, however, that no credit shall be allowed for the relocation of any retail activity or hotel services; and provided that in the case of an eligible business that has obtained pursuant to chapter six-B of such title twenty-two certifications of eligibility for more than one relocation, the portion of the total amount of eligible aggregate employment shares to be multiplied by the dollar amount specified in this subdivision for each such certification of a relocation shall be the number of total attributed eligible aggregate employment shares determined with respect to such relocation pursuant to subdivision (o) of section 22-621 of the code. For purposes of this subdivision, the terms "eligible aggregate employment shares", "relocate", "retail activity" and "hotel services" shall have the meanings ascribed by section 22-621 of the code.
@@ -9268,7 +9950,9 @@ A taxpayer shall be allowed a credit against the amount of taxes imposed by this
 
 
 
-*§ 11-1105.3 Lower Manhattan relocation employment assistance credit. * ::
+
+
+*§ 11-1105.3 Lower Manhattan relocation employment assistance credit.* ::
 
 
 (a) A taxpayer that has obtained the certifications required by chapter six-C of title twenty-two of the code shall be allowed a credit against the tax imposed by this chapter, provided, however, that a taxpayer that is a vendor of utility services shall not be allowed the credit against the tax imposed by this chapter unless it elects as provided in subdivision (d) of section 22-624 of the code to take the credit against the tax imposed by this chapter. The amount of the credit shall be the amount determined by multiplying three thousand dollars by the number of eligible aggregate employment shares maintained by the taxpayer during the calendar year with respect to eligible premises to which the taxpayer has relocated; provided, however, that no credit shall be allowed for the relocation of any retail activity or hotel services. For purposes of this subdivision, the terms "eligible aggregate employment shares", "eligible premises", "relocate", "retail activity" and "hotel services" shall have the meanings ascribed by section 22-623 of the code.
@@ -9280,7 +9964,9 @@ A taxpayer shall be allowed a credit against the amount of taxes imposed by this
 
 
 
-*§ 11-1106 Determination of tax. * ::
+
+
+*§ 11-1106 Determination of tax.* ::
 
 
 In case the return required by this chapter shall be insufficient or unsatisfactory or if such return is not filed, the commissioner of finance shall determine the amount of the tax due from such information as is obtainable, and if necessary the tax may be estimated upon the basis of external indices. Notice of such determination shall be given to the person liable for the payment of the tax. Such determination shall finally and irrevocably fix such tax unless the person against whom it is assessed, within ninety days after the giving of notice of such determination or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing, or unless such commissioner of his or her own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the tax is assessed and to the commissioner of finance. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality, unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if instituted by the person against whom the tax was assessed within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under such article of such law and rules shall not be instituted by a taxpayer unless (a) the amount of any tax sought to be reviewed with penalties and interest thereon, if any, shall first be deposited with the commissioner of finance and there shall be filed with such commissioner an undertaking, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the taxpayer will pay all costs and charges which may accruee in the prosecution of the proceeding, or (b) at the option of the taxpayer such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such decision, plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the taxpayer shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.
@@ -9288,7 +9974,9 @@ In case the return required by this chapter shall be insufficient or unsatisfact
 
 
 
-*§ 11-1107 Assessment of tax where change or correction of sales and compensating use tax liability involved. * ::
+
+
+*§ 11-1107 Assessment of tax where change or correction of sales and compensating use tax liability involved.* ::
 
 
 a. If a taxpayer fails to comply with subdivision d of section 11-1104 of this chapter in not reporting a change or correction of its sales and compensating use tax liability or in not filing a copy of an amended return or report relating to its sales and compensating use tax liability, instead of the mode and time of assessment provided for in section 11-1106 of this chapter, the commissioner of finance may assess a deficiency based upon such changed or corrected sales and compensating use tax liability, as same relates to credits claimed under this chapter, by mailing to the taxpayer a notice of additional tax due specifying the amount of the deficiency, and such deficiency, together with the interest and penalties stated in such notice, shall be deemed assessed on the date such notice is mailed unless within thirty days after the mailing of such notice a report of the state change or correction or a copy of an amended return or report, where such copy was required, is filed accompanied by a statement showing wherein such state determination and such notice of additional tax due are erroneous. Such notice shall not be considered as a notice of determination for the purposes of section 11-1106 of this chapter.
@@ -9298,7 +9986,9 @@ b. If a report filed pursuant to subdivision d of section 11-1104 of this chapte
 
 
 
-*§ 11-1108 Refunds. * ::
+
+
+*§ 11-1108 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, if application for such refund shall be made to the commissioner of finance within three years from the time the return was filed or two years from the time the tax was paid, whichever of such periods expires later, or if no return was filed, within two years from the time the tax was paid. If the claim is filed within the three-year period, the amount of the credit or refund shall not exceed the portion of the tax paid within the three years immediately preceding the filing of the claim plus the period of any extension of time for filing the return. If the claim is not filed within the three-year period, but is filed within the two-year period, the amount of the credit or refund shall not exceed the portion of the tax paid during the two years immediately preceding the filing of the claim. Whenever a refund or credit is made or denied by the commissioner of finance, he or she shall state his or her reason therefor and give notice thereof to the taxpayer in writing. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -9312,7 +10002,9 @@ d. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-1109 Reserves. * ::
+
+
+*§ 11-1109 Reserves.* ::
 
 
 In cases where the taxpayer has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to him or her on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -9320,7 +10012,9 @@ In cases where the taxpayer has applied for a refund and has instituted a procee
 
 
 
-*§ 11-1110 Remedies exclusive. * ::
+
+
+*§ 11-1110 Remedies exclusive.* ::
 
 
 The remedies provided by this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by a declaratory judgment if he or she institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-1106 of this chapter.
@@ -9328,7 +10022,9 @@ The remedies provided by this chapter shall be the exclusive remedies available 
 
 
 
-*§ 11-1111 Proceedings to recover tax. * ::
+
+
+*§ 11-1111 Proceedings to recover tax.* ::
 
 
 a. Whenever any person shall fail to pay any tax or penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner of finance, bring or cause to be brought an action to enforce payment of the same against the person liable for the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, such commissioner in his or her discretion believes that a taxpayer subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which tax or penalties might be satisfied and that any such tax or penalty will not be paid when due, he or she may declare such tax or penalty to be immediately due and payable and may issue a warrant immediately.
@@ -9342,7 +10038,9 @@ d. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-1112 General powers of the commissioner of finance. * ::
+
+
+*§ 11-1112 General powers of the commissioner of finance.* ::
 
 
 In addition to the powers granted to the commissioner of finance in this chapter, he or she is hereby authorized and empowered:
@@ -9362,7 +10060,9 @@ In addition to the powers granted to the commissioner of finance in this chapter
 
 
 
-*§ 11-1113 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-1113 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, his or her employees duly designated and authorized by him or her, the tax appeals tribunal and any of its duly designated and authorized employees shall have power to administer oaths and take affidavits in relation to any matter or proceedings in the exercise of their powers and duties under this chapter. Such commissioner and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of such commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter, and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before the commissioner or the tax appeals tribunal or excused from attendance.
@@ -9376,7 +10076,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-1114 Interest and penalties. * ::
+
+
+*§ 11-1114 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -9460,7 +10162,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-1115 Notices and limitations of time. * ::
+
+
+*§ 11-1115 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by such person pursuant to the provisions of this chapter or in any application made by him or her, or, if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -9480,7 +10184,9 @@ f. (1) Any reference in subdivision d of this section to the United States mail 
 
 
 
-*§ 11-1116 Returns to be secret. * ::
+
+
+*§ 11-1116 Returns to be secret.* ::
 
 
 a. Except in accordance with proper judicial order or as otherwise provided by law, it shall be unlawful for the commissioner of finance, the tax appeals tribunal, or any officer or employee of the department of finance or the tax appeals tribunal to divulge or make known in any manner, the receipts or any other information relating to the business of a taxpayer contained in any return required under this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the city or the commissioner of finance, or on behalf of any party to any action or proceeding under the provisions of this chapter when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events, the court may require the production of, and may admit in evidence, so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a taxpayer or his or her duly authorized representative of a certified copy of any return filed in connection with his or her tax, nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns and the items thereof, or the inspection by the corporation counsel of the city or other legal representatives of such city of the return of any taxpayer who shall bring action or proceeding to set aside or review the tax based thereon, or against whom an action or proceeding has been instituted or is contemplated for the collection of a tax, penalty or interest. Returns shall be preserved for three years and thereafter until the commissioner of finance permits them to be destroyed.
@@ -9496,7 +10202,9 @@ d. Notwithstanding anything in subdivision a of this section to the contrary, if
 
 
 
-*§ 11-1117 Construction and enforcement. * ::
+
+
+*§ 11-1117 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with chapter ninety-three of the laws of nineteen hundred sixty-five, as amended, pursuant to which it is enacted.
@@ -9504,7 +10212,9 @@ This chapter shall be construed and enforced in conformity with chapter ninety-t
 
 
 
-*§ 11-1118 Disposition of revenues. * ::
+
+
+*§ 11-1118 Disposition of revenues.* ::
 
 
 All revenues resulting from the imposition of the tax under this chapter shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city, but no part of such revenues may be expended unless appropriated in the annual budget of the city.
@@ -9512,7 +10222,9 @@ All revenues resulting from the imposition of the tax under this chapter shall b
 
 
 
-*§ 11-1119 Determinations of place of primary use of wireless telecommunications services. * ::
+
+
+*§ 11-1119 Determinations of place of primary use of wireless telecommunications services.* ::
 
 
 a. A home service provider shall be responsible for obtaining and maintaining the customer's place of primary use as defined in subdivision twenty of section 11-1101 of this chapter. Except as provided in subdivision b of this section, if the home service provider's reliance on the information provided by its customer is in good faith: (1) the home service provider can rely on the applicable residential or business street address supplied by the home service provider's customer; and (2) the home service provider shall not be held liable for any additional taxes under this chapter based on a different determination of the place of primary use.
@@ -9528,7 +10240,9 @@ c. Except as provided in subdivision b of this section, a home service provider 
 
 
 
-*§ 11-1120 Assignment of place of primary use of telecommunications services to the city. * ::
+
+
+*§ 11-1120 Assignment of place of primary use of telecommunications services to the city.* ::
 
 
 a. If an electronic database meeting the requirements of 4 U.S.C. § 119(a) is provided by the state of New York, or by a designated database provider as defined in subsection three of section 124 of such title, and the requirements of subsection b of such section 119 are met, a home service provider shall use that database to determine whether the customer's place of primary use is within the territorial limits of the city and shall reflect changes to such database in accordance with subsection c of such section 119.
@@ -9561,6 +10275,8 @@ d. The commissioner of finance, or the commissioner of taxation and finance of t
 Chapter 12: Horse Race Admissions Tax
 --------------------------------------------------
 
+
+
 *§ 11-1201 Definitions.* ::
 
 
@@ -9583,7 +10299,9 @@ When used in this chapter the following terms shall mean or include:
 
 
 
-*§ 11-1202 Imposition of tax. * ::
+
+
+*§ 11-1202 Imposition of tax.* ::
 
 
 A tax is hereby imposed on all admissions to running horse race meetings conducted at race meeting grounds or enclosures located wholly or partly within the city of New York at the rate of three percent of the admission price. The racing association or corporation conducting a running horse race meeting shall, in addition to the admission price, collect such tax on all tickets sold or otherwise disposed of to patrons for admission with the sole exception of those issued free passes, cards or badges in accordance with the specific authority of the laws of the state of New York. In case of failure to collect such tax the tax shall be imposed on the racing corporation or association conducting such meeting.
@@ -9591,7 +10309,9 @@ A tax is hereby imposed on all admissions to running horse race meetings conduct
 
 
 
-*§ 11-1203 Payment of the tax. * ::
+
+
+*§ 11-1203 Payment of the tax.* ::
 
 
 a. The tax imposed by this chapter shall be paid by the racing corporation or association to the commissioner of finance daily after each day of each race meeting, by depositing it to the account of the city in such bank or banks as may be designated by the city in accordance with the provisions of section four hundred twenty-one of the New York city charter or at such regular intervals as the commissioner of finance may require.
@@ -9603,7 +10323,9 @@ c. Every racing corporation or association conducting running horse race meeting
 
 
 
-*§ 11-1204 Returns. * ::
+
+
+*§ 11-1204 Returns.* ::
 
 
 a. Every racing corporation or association shall file with the commissioner of finance daily after each day of each race meeting or at such regular intervals as the commissioner of finance may require and upon such forms as shall be prescribed by the commissioner of finance a return showing the taxes collected pursuant to this chapter and the number of persons admitted to meetings conducted by the racing corporation or association during the periods covered by the return, together with any and all other information which the commissioner of finance shall require to be included and reported in such return. The commissioner of finance may require at any time supplemental or amended returns of such additional information or data as he or she may specify.
@@ -9613,7 +10335,9 @@ b. Every return required hereunder shall have annexed thereto an affidavit of an
 
 
 
-*§ 11-1205 Records to be kept and audits by commissioner of finance. * ::
+
+
+*§ 11-1205 Records to be kept and audits by commissioner of finance.* ::
 
 
 Every racing corporation or association shall keep such records as may be prescribed by the commissioner of finance, of all admissions and taxes collected pursuant to this chapter. Such records shall be available for inspection and examination at any time upon demand by the commissioner of finance or the commissioner's duly authorized agents or employees, and such records shall be preserved for a period of three years, except that the commissioner of finance may consent to their destruction within that period, and may require that they be kept longer than three years.
@@ -9621,7 +10345,9 @@ Every racing corporation or association shall keep such records as may be prescr
 
 
 
-*§ 11-1206 Determination of tax. * ::
+
+
+*§ 11-1206 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient the amount of tax due shall be determined by the commissioner of finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as number of race meetings held, admissions, paid attendance, and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after giving the notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing, or unless the commissioner of finance of his or her own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the person liable for the tax and to the commissioner of finance. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the tax was assessed within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a person liable for the tax unless the amount of any tax sought to be reviewed with interest and penalties thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount as a justice of the supreme court shall approve to the effect that if such proceeding be dismissed or the tax confirmed, such person will pay all costs and charges which may accrue in the prosecution of the proceeding, or at the option of such person such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such decision plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event such person shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.
@@ -9629,7 +10355,9 @@ If a return required by this chapter is not filed, or if a return when filed is 
 
 
 
-*§ 11-1207 Refunds. * ::
+
+
+*§ 11-1207 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally, or unconstitutionally collected or paid if application to the commissioner of finance for such refund shall be made within one year from the payment thereof. Whenever a refund or credit is made or denied by the commissioner of finance, he or she shall state his or her reason therefor and give notice thereof to the applicant in writing. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -9641,7 +10369,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-1208 Reserves. * ::
+
+
+*§ 11-1208 Reserves.* ::
 
 
 In cases where a person has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to such person on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -9649,7 +10379,9 @@ In cases where a person has applied for a refund and has instituted a proceeding
 
 
 
-*§ 11-1209 Remedies exclusive. * ::
+
+
+*§ 11-1209 Remedies exclusive.* ::
 
 
 The remedies provided by sections 11-1206 and 11-1207 of this chapter shall be exclusive remedies available to any person for the review of tax liability imposed by this chapter, and no determination or proposed determination of tax or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a deecision by the tax appeals tribunal sitting en banc, a proceeding in the nature of a certiorari proceeding under article seventy-eight of the civil practice law and rules; provided, however, that such person may proceed by declaratory judgment if such person institutes suit within ninety days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-1206 of this chapter.
@@ -9657,7 +10389,9 @@ The remedies provided by sections 11-1206 and 11-1207 of this chapter shall be e
 
 
 
-*§ 11-1210 Proceedings to recover tax. * ::
+
+
+*§ 11-1210 Proceedings to recover tax.* ::
 
 
 a. Whenever any racing corporation or association or any of its officers or any other person shall fail to collect and pay over any tax or to pay any tax, penalty or interest imposed by this chapter as therein provided, the corporation counsel shall, upon the request of the commissioner of finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, the commissioner of finance in his or her discretion believes that a person subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which the tax or penalties might be satisfied, and that any such tax or penalty will not be paid when due, the commissioner of finance may declare such tax or penalty to be immediately due and payable and may issue a warrant immediately.
@@ -9671,7 +10405,9 @@ d. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-1211 General powers of the commissioner of finance. * ::
+
+
+*§ 11-1211 General powers of the commissioner of finance.* ::
 
 
 In addition to the powers granted to the commissioner of finance in this chapter, such commissioner is hereby authorized and empowered:
@@ -9691,7 +10427,9 @@ In addition to the powers granted to the commissioner of finance in this chapter
 
 
 
-*§ 11-1212 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-1212 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, his or her employees or agents duly designated and authorized by the commissioner of finance, the tax appeals tribunal and any of its duly designated and authorized employees or agents shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before the commissioner of finance or the tax appeals tribunal or excused from attendance.
@@ -9705,7 +10443,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-1213 Interest and penalties. * ::
+
+
+*§ 11-1213 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any amount of tax is not paid over or paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -9773,7 +10513,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-1214 Returns to be secret. * ::
+
+
+*§ 11-1214 Returns to be secret.* ::
 
 
 a. Except in accordance with proper judicial order, or as otherwise provided by law, it shall be unlawful for the commissioner of finance or the tax appeals tribunal or any officer or employee of the department of finance to divulge or make known in any manner any of the information relating to the business of any person contained in any return required under this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the commissioner of finance in an action or proceeding under the provisions of this chapter, or on behalf of any party to any action or proceeding under the provisions of this chapter, when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the courts may require the production of, and may admit in evidence, so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. The commissioner of finance may, nevertheless, publish a copy or a summary of any determination or decision rendered after a formal hearing held pursuant to section 11-1206 or 11-1207 of this chapter. Nothing herein shall be construed to prohibit the delivery to a person or such person's duly authorized representative of a certified copy of any return filed by such person nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns and the items thereof, or the inspection by the corporation counsel or other legal representatives of the city, or by the district attorney of any county within the city, of the return of any person who shall bring action to set aside or review the tax based thereon, or against whom an action or proceeding has been instituted for the collection of a tax or penalty. Nothing herein shall be construed to prohibit the inspection by the fiscal representatives of any county entitled to any portion of the revenues pursuant to subdivision b of section 11-1216 of this chapter of returns of tax collected at any racing ground or enclosure situated partly in such county. Returns shall be preserved for three years and thereafter until the commissioner of finance permits them to be destroyed.
@@ -9789,7 +10531,9 @@ d. Notwithstanding anything in subdivision a of this section to the contrary, if
 
 
 
-*§ 11-1215 Notices and limitations of time. * ::
+
+
+*§ 11-1215 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by such person pursuant to the provisions of this chapter or in any application made by such person or if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -9809,7 +10553,9 @@ f. (1) Any reference in subdivision d of this section to the United States mail 
 
 
 
-*§ 11-1216 Disposition of revenues. * ::
+
+
+*§ 11-1216 Disposition of revenues.* ::
 
 
 a. All revenues resulting from the imposition of the tax under this chapter at race meeting grounds or enclosures located wholly within the city of New York shall be credited and deposited in the general fund of the city.
@@ -9821,6 +10567,8 @@ b. All revenues resulting from the imposition of the tax under this chapter at r
 
 Chapter 13: Cigarette Tax
 --------------------------------------------------
+
+
 
 *§ 11-1301 Definitions.* ::
 
@@ -9872,7 +10620,9 @@ When used in this chapter the following words shall have the meanings herein ind
 
 
 
-*§ 11-1302 Imposition of tax. * ::
+
+
+*§ 11-1302 Imposition of tax.* ::
 
 
 a. There is hereby imposed and shall be paid a tax on:
@@ -9910,6 +10660,8 @@ g. Agents located within or without the city shall purchase stamps and affix the
 h. The amount of taxes advanced and paid by the agent or distributor as hereinabove provided shall be added to and collected as part of the sales price of the cigarettes.
 
 i. The commissioner of finance, notwithstanding any other provision of this chapter, may, subject to the approval of the state tax commission, provide by regulation that the tax imposed by this section shall be collected without the use of stamps.
+
+
 
 
 
@@ -9989,7 +10741,9 @@ h. The amount of taxes advanced and paid by the wholesale dealer pursuant to thi
 
 
 
-*§ 11-1303 License. * ::
+
+
+*§ 11-1303 License.* ::
 
 
 a. License required of wholesale and retail dealers.
@@ -10033,7 +10787,9 @@ g. License fees; numbering and registering of licenses; term.
 
 
 
-*§ 11-1304 Preparation and sale of stamps; commissions. * ::
+
+
+*§ 11-1304 Preparation and sale of stamps; commissions.* ::
 
 
 a. The commissioner of finance shall, subject to the approval of the state tax commission, prescribe, prepare and furnish stamps of such denominations and quantities as may be necessary for the payment of the tax imposed by this chapter, and may, from time to time, provide for the issuance and exclusive use of stamps of a new design and forbid the use of stamps of any other design. Such stamps shall be in the form of a single stamp for the payment of the tax imposed by this chapter or, in lieu thereof, a joint single stamp to be prepared and issued by the state of New York and the city for the payment of the tax imposed by this chapter and the taxes imposed by article twenty of the tax law. The commissioner of finance may make such arrangements with the state tax commission for the method of acquiring and the manner of sharing the costs of such joint single stamps as he or she deems appropriate. The commissioner of finance, subject to the approval of the state tax commission, shall make provisions for the sale of such stamps at such places as he or she may deem necessary, and may appoint fiscal agents for such purpose.
@@ -10055,7 +10811,9 @@ d. (1) Except as provided in this subdivision, it shall be unlawful for any pers
 
 
 
-*§ 11-1305 Affixation and cancellation of stamps; presumptions. * ::
+
+
+*§ 11-1305 Affixation and cancellation of stamps; presumptions.* ::
 
 
 a. Each agent shall affix to each package of cigarettes stamps evidencing the payment of tax imposed by this chapter and shall cancel such stamps prior to delivery of such cigarettes to any dealer in the city, unless stamps have been affixed to such packages of cigarettes and cancelled before such agent received them.
@@ -10071,7 +10829,9 @@ e. Stamps shall be affixed to each package of cigarettes of an aggregate denomin
 
 
 
-*§ 11-1306 Possession and transportation of unstamped cigarettes. * ::
+
+
+*§ 11-1306 Possession and transportation of unstamped cigarettes.* ::
 
 
 Every person who shall possess or transport upon the public highways, roads or streets of this city more than four hundred cigarettes in unstamped packages, shall be required to have in his or her actual possession invoices or delivery tickets for such cigarettes. All such invoices or delivery tickets shall show the true name and address of the consignor or seller, the true name and address of the consignee or purchaser and the quantity and brands of the cigarettes transported. The absence of such invoices or delivery tickets shall be prima facie evidence that such person is a dealer in cigarettes in the city and subject to the provisions of this chapter.
@@ -10079,7 +10839,9 @@ Every person who shall possess or transport upon the public highways, roads or s
 
 
 
-*§ 11-1307 Records to be kept; examination. * ::
+
+
+*§ 11-1307 Records to be kept; examination.* ::
 
 
 a. 1. At the time of delivering cigarettes to any person in the city, each agent or wholesale dealer shall make a true duplicate invoice showing the date of delivery, the number of packages and the number of cigarettes contained therein in each shipment of cigarettes delivered, and the name of the purchaser to whom delivery is made, and shall retain the same for a period of three years subject to the use and inspection of the commissioner of finance. Each dealer shall procure and retain invoices showing the number of packages and the number of cigarettes contained therein in each shipment of cigarettes received by such dealer, the date thereof, and the name of the shipper, and shall retain the same for a period of three years subject to the use and inspection of the commissioner of finance.
@@ -10101,7 +10863,9 @@ e. The commissioner of finance shall investigate any failure to pay the tax requ
 
 
 
-*§ 11-1308 General powers of the commissioner of finance. * ::
+
+
+*§ 11-1308 General powers of the commissioner of finance.* ::
 
 
 In addition to the powers granted to the commissioner of finance in this chapter, he or she is hereby authorized and empowered:
@@ -10133,7 +10897,9 @@ In addition to the powers granted to the commissioner of finance in this chapter
 
 
 
-*§ 11-1309 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-1309 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, the employees or agents duly designated and authorized by the commissioner, the tax appeals tribunal and any of its duly designated and authorized employees or agents shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter, and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before the commissioner or the tax appeals tribunal or excused from attendance.
@@ -10143,6 +10909,8 @@ b. A justice of the supreme court either in court or at chambers shall have powe
 c. Cross-reference; criminal penalties. For failure to obey subpoenas or for testifying falsely, see section 11-4007 of this title; for supplying false or fraudulent information, see section 11-4009 of this title.
 
 d. The officers who serve the summons or subpoena of the commissioner of finance or the tax appeals tribunal hereunder and witnesses attending in response thereto shall be entitled to the same fees as are allowed to officers and witnesses in civil cases in courts of record, except as herein otherwise provided. Such officers shall be the city sheriff and the city sheriff's duly appointed deputies or any officers or employees of the department of finance or the tax appeals tribunal, designated to serve such process.
+
+
 
 
 
@@ -10157,7 +10925,9 @@ If any person fails to pay the tax, or to file a return required by this chapter
 
 
 
-*§ 11-1311 Refunds. * ::
+
+
+*§ 11-1311 Refunds.* ::
 
 
 a. In the manner provided in this subdivision the commissioner of finance shall refund, without interest, any tax, interest or penalty erroneously, illegally or unconstitutionally collected or paid. In addition, whenever any cigarettes upon which stamps have been affixed have been sold and shipped to a dealer outside the city for sale there or to any person in another state for use there, or have become unfit for use and consumption or unsalable, or have been destroyed, the dealer shall be entitled to a refund of the amount of tax paid, less the applicable commission, with respect to such cigarettes. In any event no refund shall be granted unless application to the commissioner of finance therefor is made within two years after the stamps were affixed to such cigarettes or the tax was paid, except if a person has consented in writing to an extension of the period for assessment of additional tax pursuant to subdivision c of section 11-1315, and such consent is given within the two-year period for making a refund application provided in this subdivision, the period for making a refund application shall not expire prior to six months after the expiration of the period within which an assessment could be made pursuant to such consent or any extension thereof. Whenever a refund is made or denied by the commissioner of finance, the commissioner shall state his or her reasons therefor and give notice thereof to the applicant in writing. A person shall not be entitled to a hearing in connection with such application for a refund if such person has already had a hearing or had been given the opportunity of a hearing as provided in section 11-1310 or has failed to avail himself or herself of the remedies therein provided. No refund shall be made of a tax, interest or penalty paid pursuant to a determination of the commissioner of finance as provided in section 11-1310, unless the tax appeals tribunal, after a hearing as in said section provided or the commissioner of finance, of his or her own motion, shall have reduced the tax or penalty, or it shall have been established in a proceeding, pursuant to article seventy-eight of the civil practice law and rules that such determination was erroneous, illegal, unconstitutional or otherwise improper, in which event a refund without interest shall be made as provided upon the determination of such proceeding. Any determination of the commissioner of finance denying a refund pursuant to this subdivision shall be final and irrevocable unless the applicant for such refund, within ninety days from the mailing of notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 and the applicant has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing. Such petition for a refund made as provided in this subdivision shall be deemed an application for a revision of any tax, penalty or interest complained of. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing, the tax appeals tribunal shall give notice of its decision to the applicant and to the commissioner of finance. The applicant shall be entitled to maintain a proceeding under article seventy-eight of the civil practice law and rules to review a decision of the tax appeals tribunal sitting en banc, provided, however, that such proceeding is instituted within four months after such decision, provided however, that if such decision regards the tax imposed under section 11-1302.1, such proceeding must be instituted within thirty days after such decision, and provided, further, in the case of an application by a person liable for the tax, that a final determination of tax due was not previously made, and that an undertaking shall first be filed by such person with the commissioner of finance in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed such person will pay all costs and charges which may accrue in the prosecution of such proceeding.
@@ -10169,7 +10939,9 @@ b. If the commissioner of finance is satisfied that any dealer is entitled to a 
 
 
 
-*§ 11-1312 Reserves. * ::
+
+
+*§ 11-1312 Reserves.* ::
 
 
 In cases where the taxpayer has applied for a refund and has instituted proceedings under article seventy-eight of the civil practice law and rules to review a determination adverse to the taxpayer on his or her application for refund or has deposited the amount of tax assessed in connection with proceedings under section 11-1310 of this chapter, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -10177,7 +10949,9 @@ In cases where the taxpayer has applied for a refund and has instituted proceedi
 
 
 
-*§ 11-1313 Remedies exclusive. * ::
+
+
+*§ 11-1313 Remedies exclusive.* ::
 
 
 The remedies provided by sections 11-1310 and 11-1311 of this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on an application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received, or by any legal or equitable action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if the taxpayer institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-1310 of this chapter.
@@ -10185,7 +10959,9 @@ The remedies provided by sections 11-1310 and 11-1311 of this chapter shall be t
 
 
 
-*§ 11-1314 Proceedings to recover tax. * ::
+
+
+*§ 11-1314 Proceedings to recover tax.* ::
 
 
 a. Whenever any person shall fail to pay any tax, penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner of finance, bring or cause to be brought an action to enforce the payment of the same on behalf of the city in any court of the state of New York or of any other state or of the United States. If, however, the commissioner of finance in his or her discretion believes that a taxpayer subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which the tax, interest or penalties might be satisfied and that any such tax, interest or penalty will not be paid when due, he or she may declare such tax, interest or penalty to be immediately due and payable and may issue a warrant immediately.
@@ -10199,7 +10975,9 @@ c. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-1315 Notices and limitations of time. * ::
+
+
+*§ 11-1315 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by such person pursuant to the provisions of this chapter or in any application made by such person or, if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -10215,6 +10993,8 @@ e. When the last day prescribed under authority of this chapter (including any e
 f. (1) Any reference in subdivision d of this section to the United States mail shall be treated as including a reference to any delivery service designated by the secretary of the treasury of the United States pursuant to section seventy-five hundred two of the internal revenue code and any reference in subdivision d of this section to a United States postmark shall be treated as including a reference to any date recorded or marked in the manner described in section seventy-five hundred two of the internal revenue code by a designated delivery service. If the commissioner of finance finds that any delivery service designated by such secretary is inadequate for the needs of the city, the commissioner of finance may withdraw such designation for purposes of this title. The commissioner of finance may also designate additional delivery services meeting the criteria of section seventy-five hundred two of the internal revenue code for purposes of this title, or may withdraw any such designation if the commissioner of finance finds that a delivery service so designated is inadequate for the needs of the city. Any reference in subdivision d of this section to the United States mail shall be treated as including a reference to any delivery service designated by the commissioner of finance and any reference in subdivision d of this section to a United States postmark shall be treated as including a reference to any date recorded or marked in the manner described in section seventy-five hundred two of the internal revenue code by a delivery service designated by the commissioner of finance. Notwithstanding the foregoing, any withdrawal of designation or additional designation by the commissioner of finance shall not be effective for purposes of service upon the tax appeals tribunal, unless and until such withdrawal of designation or additional designation is ratified by the president of the tax appeals tribunal.
 
    (2) Any equivalent of registered or certified mail designated by the United States secretary of the treasury, or as may be designated by the commissioner of finance pursuant to the same criteria used by such secretary for such designations pursuant to section seventy-five hundred two of the internal revenue code, shall be included within the meaning of registered or certified mail as used in subdivision d of this section. If the commissioner of finance finds that any equivalent of registered or certified mail designated by such secretary or the commissioner of finance is inadequate for the needs of the city, the commissioner of finance may withdraw such designation for purposes of this title. Notwithstanding the foregoing, any withdrawal of designation or additional designation by the commissioner of finance shall not be effective for purposes of service upon the tax appeals tribunal, unless and until such withdrawal of designation or additional designation is ratified by the president of the tax appeals tribunal.
+
+
 
 
 
@@ -10259,7 +11039,9 @@ e. Cross-reference: For criminal penalties, see chapter forty of this title.
 
 
 
-*§ 11-1318 Disposition of revenues. * ::
+
+
+*§ 11-1318 Disposition of revenues.* ::
 
 
 (a) All revenues resulting from the imposition of the tax under section 11-1302 shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city, except that, after the payment of refunds with respect to such tax, effective on and after July second, two thousand two, forty-six and one-half percent and, effective on and after April first, two thousand three, forty-six percent of such revenues (including taxes, interest and penalties) collected or received shall be paid to the state comptroller.
@@ -10271,7 +11053,9 @@ e. Cross-reference: For criminal penalties, see chapter forty of this title.
 
 
 
-*§ 11-1319 Construction and enforcement. * ::
+
+
+*§ 11-1319 Construction and enforcement.* ::
 
 
 Section 11-1302 and the provisions of this chapter related thereto shall be construed and enforced in conformity with chapter 235 of the laws of 1952. Section 11-1302.1 and the provisions of this chapter related thereto shall be construed and enforced in conformity with subdivision e of section 110 and sections 111, 112 and 113 of the public housing law.
@@ -10284,7 +11068,9 @@ Section 11-1302 and the provisions of this chapter related thereto shall be cons
 Chapter 14: Tax On Transfer of Taxicab Licenses
 --------------------------------------------------
 
-*§ 11-1401 Definitions. * ::
+
+
+*§ 11-1401 Definitions.* ::
 
 
 When used in this chapter the following terms shall mean or include:
@@ -10318,7 +11104,9 @@ When used in this chapter the following terms shall mean or include:
 
 
 
-*§ 11-1402 Imposition of tax. * ::
+
+
+*§ 11-1402 Imposition of tax.* ::
 
 
 a. On or after the effective date of the local law that amended this subdivision, there is hereby imposed and there shall be paid a tax on each transfer of a taxicab license or interest therein, at the rate of 0.5 percent of the consideration given for such transfer.
@@ -10336,7 +11124,9 @@ e. The tax imposed by this chapter shall be in addition to any and all other tax
 
 
 
-*§ 11-1403 Payment of tax. * ::
+
+
+*§ 11-1403 Payment of tax.* ::
 
 
 The tax imposed by this chapter shall be paid by the transferee to the taxi and limousine commission, as agent of the commissioner of finance, at the time of approval of such transfer by the taxi and limousine commission, but in no event later than thirty days following the transfer. The transferor shall also be liable for the payment of such tax at such time in the event that the amount of tax due is not paid by the transferee. Notwithstanding any other provision of law to the contrary, no transfer of a taxicab license or interest therein shall be approved or effective until the tax imposed by this chapter has been paid. All moneys received as such payments by the taxi and limousine commission during any day shall be transmitted to the commissioner of finance at the close of business on such day or at such other time as the commissioner of finance may require.
@@ -10344,7 +11134,9 @@ The tax imposed by this chapter shall be paid by the transferee to the taxi and 
 
 
 
-*§ 11-1404 Returns. * ::
+
+
+*§ 11-1404 Returns.* ::
 
 
 a. A joint return shall be filed by both the transferee and the transferor. Such return shall be filed at the time of payment of any tax imposed hereunder, and such filing shall be accomplished by delivering the return to the taxi and limousine commission for transmittal to the commissioner of finance. The commissioner of finance shall prescribe the form of the return and the information which it shall contain. The return shall be signed under oath by both the transferee and the transferor. Where either the transferee or the transferor has failed to sign the return, it shall be accepted as a return, but the party who has failed to sign the return or file a separate return shall be subject to the penalties applicable to a person who has failed to file a return, and the period of limitations for assessment of tax or of additional tax shall not apply to such party.
@@ -10358,7 +11150,9 @@ d. If a return required by this chapter is not filed, or if a return, when filed
 
 
 
-*§ 11-1405 Exemptions. * ::
+
+
+*§ 11-1405 Exemptions.* ::
 
 
 a. The tax imposed under this chapter shall not be imposed on any transaction by or with the following:
@@ -10376,7 +11170,9 @@ b. The tax imposed by this chapter shall not apply to the transfer of a taxicab 
 
 
 
-*§ 11-1406 Determination of tax. * ::
+
+
+*§ 11-1406 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the commissioner of finance from external indices and such other information as may be obtainable. Notice of such determination shall be given to the person liable for the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after the giving of notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing, or unless the commissioner of finance of his or her own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight thorough* one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the tax is assessed and to the commissioner of finance. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the tax was assessed within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a taxpayer unless: (a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the taxpayer will pay all costs and charges which may accrue in the prosecution of the proceeding; or (b) at the option of the taxpayer such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such decision plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the taxpayer shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.
@@ -10384,7 +11180,9 @@ If a return required by this chapter is not filed, or if a return when filed is 
 
 
 
-*§ 11-1407 Refunds. * ::
+
+
+*§ 11-1407 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid if application to the commissioner of finance for such refund shall be made within one year from the payment thereof. Whenever a refund is made or denied by the commissioner of finance, the commissioner shall state his or her reason therefor and give notice thereof to the taxpayer in writing. Such application may be made by the transferee or transferor who has actually paid the tax. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -10396,7 +11194,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-1408 Reserves. * ::
+
+
+*§ 11-1408 Reserves.* ::
 
 
 In cases where the transferee or transferor has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to the transferee or transferor on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decisions adverse to the city.
@@ -10404,7 +11204,9 @@ In cases where the transferee or transferor has applied for a refund and has ins
 
 
 
-*§ 11-1409 Remedies exclusive. * ::
+
+
+*§ 11-1409 Remedies exclusive.* ::
 
 
 The remedies provided by sections 11-1406 and 11-1407 of this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding in the nature of a certiorari proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if the taxpayer institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-1406 of this chapter.
@@ -10412,7 +11214,9 @@ The remedies provided by sections 11-1406 and 11-1407 of this chapter shall be t
 
 
 
-*§ 11-1410 Proceedings to recover tax. * ::
+
+
+*§ 11-1410 Proceedings to recover tax.* ::
 
 
 a. Whenever any transferee or transferor shall fail to pay any tax, penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner of finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, the commissioner of finance in his or her discretion believes that any such transferee or transferor subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which the tax or penalty might be satisfied, and that any such tax or penalty will not be paid when due, the commissioner may declare such tax or penalty to be immediately due and payable and may issue a warrant immediately.
@@ -10428,7 +11232,9 @@ e. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-1411 General powers of the commissioner of finance. * ::
+
+
+*§ 11-1411 General powers of the commissioner of finance.* ::
 
 
 In addition to the powers granted to the commissioner of finance in this chapter, he or she is hereby authorized and empowered:
@@ -10450,7 +11256,9 @@ In addition to the powers granted to the commissioner of finance in this chapter
 
 
 
-*§ 11-1412 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-1412 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, the employees or agents duly designated by him or her, the tax appeals tribunal and any of its duly designated and authorized employees or agents shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before the commissioner or the tax appeals tribunal or excused from attendance.
@@ -10464,7 +11272,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-1413 Interest and penalties. * ::
+
+
+*§ 11-1413 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -10530,7 +11340,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-1414 Returns to be secret. * ::
+
+
+*§ 11-1414 Returns to be secret.* ::
 
 
 a. Except in accordance with proper judicial order or as otherwise provided by law, it shall be unlawful for the commissioner of finance, the chairperson of the taxi and limousine commission, the tax appeals tribunal or any officer or employee of the department of finance or taxi and limousine commission or the tax appeals tribunal, to divulge or make known in any manner any information contained in or relating to any return provided for by this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the commissioner of finance in an action or proceeding under the provisions of this chapter, or on behalf of any party to an action or proceeding under the provisions of this chapter when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of, and may admit in evidence, so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a transferee or transferor or to the duly authorized representative of either of them of a certified copy of any return filed in connection with the tax imposed by this chapter; nor to prohibit the delivery of such a certified copy of such return or of any information contained in or relating thereto to the United States of America or any department thereof, the state of New York or any department thereof, the city of New York or any department thereof provided the same is required for official business; nor to prohibit the inspection for official business of such returns by the chairperson of the taxi and limousine commission, the corporation counsel or other legal representatives of the city or by the district attorney of any county within the city; nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
@@ -10546,7 +11358,9 @@ d. Notwithstanding anything in subdivision a of this section to the contrary, if
 
 
 
-*§ 11-1415 Notices and limitations of time. * ::
+
+
+*§ 11-1415 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by such person pursuant to the provisions of this chapter, in any application made by such person, or in the records maintained by the taxi and limousine commission, or, if no return has been filed or application made or address found in the records of the taxi and limousine commission, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -10566,7 +11380,9 @@ f. (1) Any reference in subdivision d of this section to the United States mail 
 
 
 
-*§ 11-1416 Construction and enforcement. * ::
+
+
+*§ 11-1416 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with subdivision (j) of section twelve hundred one of the tax law.
@@ -10574,7 +11390,9 @@ This chapter shall be construed and enforced in conformity with subdivision (j) 
 
 
 
-*§ 11-1417 Disposition of revenues. * ::
+
+
+*§ 11-1417 Disposition of revenues.* ::
 
 
 All revenues resulting from the imposition of the tax under this chapter shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city, but no part of such revenue may be expended unless appropriated in the annual budget of the city.
@@ -10585,7 +11403,9 @@ All revenues resulting from the imposition of the tax under this chapter shall b
 Chapter 16: Tax On Containers
 --------------------------------------------------
 
-*§ 11-1601 Definitions. * ::
+
+
+*§ 11-1601 Definitions.* ::
 
 
 When used in this chapter, the following terms shall mean and include:
@@ -10621,7 +11441,9 @@ When used in this chapter, the following terms shall mean and include:
 
 
 
-*§ 11-1602 General powers of the commissioner of finance. * ::
+
+
+*§ 11-1602 General powers of the commissioner of finance.* ::
 
 
 In addition to the powers granted to the commissioner of finance in this chapter, the commissioner is hereby authorized and empowered;
@@ -10643,7 +11465,9 @@ In addition to the powers granted to the commissioner of finance in this chapter
 
 
 
-*§ 11-1603 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-1603 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance or the commissioner's employees or agents duly designated and authorized by the commissioner shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the commissioner's duties hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before the commissioner or excused from attendance.
@@ -10657,7 +11481,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-1604 Imposition of tax. * ::
+
+
+*§ 11-1604 Imposition of tax.* ::
 
 
 1. On and after July first, nineteen hundred seventy-one, there is hereby imposed within the city and there shall be paid a tax upon every sale of a plastic container at the rate of two cents for each container sold. 2. A credit shall be allowed against the taxes imposed by this chapter of one cent for each taxable container if manufactured with a minimum of thirty percent of recycled material.
@@ -10665,7 +11491,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-1605 Presumptions and burden of proof. * ::
+
+
+*§ 11-1605 Presumptions and burden of proof.* ::
 
 
 For the purpose of proper administration of this chapter and to prevent evasion of the tax hereby imposed, it shall be presumed that all sales of plastic containers are taxable, and not entitled to any credit allowed against the taxes imposed hereby. Such presumptions shall prevail until the contrary is established and the burden of proving the contrary shall be upon the taxpayer.
@@ -10673,7 +11501,9 @@ For the purpose of proper administration of this chapter and to prevent evasion 
 
 
 
-*§ 11-1606 Payment of the tax. * ::
+
+
+*§ 11-1606 Payment of the tax.* ::
 
 
 The tax imposed hereunder shall be paid by the seller or supplier. However, where the tax has not been paid on a sale by such seller or supplier, the retailer shall be liable for tax thereon upon purchasing the container. Should sellers and suppliers having no business situs in the city, who sell containers to retailers within the city, pay the tax, the retailer purchasing the containers shall not be liable for the tax.
@@ -10681,7 +11511,9 @@ The tax imposed hereunder shall be paid by the seller or supplier. However, wher
 
 
 
-*§ 11-1607 Records to be kept. * ::
+
+
+*§ 11-1607 Records to be kept.* ::
 
 
 Every seller or supplier and every retailer shall keep records of all plastic containers taxed hereunder and of all purchases and sales thereof and of the taxes due and payable on the sale or on the purchase thereof, in such form as the commissioner of finance may by regulation require. Such records shall be available for inspection and examination at any time upon demand by the commissioner of finance or the commissioner's duly authorized agent or employee and shall be preserved for a period of three years, except that the commissioner of finance may consent to their destruction within that period or may require that they be kept longer.
@@ -10689,7 +11521,9 @@ Every seller or supplier and every retailer shall keep records of all plastic co
 
 
 
-*§ 11-1608 Exemptions. * ::
+
+
+*§ 11-1608 Exemptions.* ::
 
 
 1. The following shall be exempt from the payment of the tax imposed by this chapter:
@@ -10711,7 +11545,9 @@ Every seller or supplier and every retailer shall keep records of all plastic co
 
 
 
-*§ 11-1609 Returns. * ::
+
+
+*§ 11-1609 Returns.* ::
 
 
 1. Every seller or supplier shall file with the commissioner of finance a return of containers sold and of the taxes due and payable thereon for the period from July first, nineteen hundred seventy-one until the last day of September, nineteen hundred seventy-one and thereafter for each of the four-monthly periods ending on the last day of January, May and September of each year.
@@ -10727,7 +11563,9 @@ Every seller or supplier and every retailer shall keep records of all plastic co
 
 
 
-*§ 11-1610 Determination of tax. * ::
+
+
+*§ 11-1610 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the commissioner of finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as volume of sales, inventories, purchases of containers, or of raw materials, production figures, and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within thirty days after giving notice of such determination, shall apply to the commissioner of finance for a hearing, or unless the commissioner of finance of his or her own motion shall redetermine the same. After such hearing the commissioner of finance shall give notice of his or her determination to the person against whom the tax is assessed. The determination of the commissioner of finance shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court within four months after the giving of the notice of such determination. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted unless: (a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount as a justice of the supreme court shall approve to the effect that if such proceeding be dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding; or (b) at the option of the applicant such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the applicant shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.
@@ -10735,7 +11573,9 @@ If a return required by this chapter is not filed, or if a return when filed is 
 
 
 
-*§ 11-1611 Refunds. * ::
+
+
+*§ 11-1611 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitionally collected or paid if application to the commissioner of finance for such refund shall be made within one year from the payment thereof. Whenever a refund is made by the commissioner of finance, the commissioner shall state his or her reasons therefor in writing. Such application may be made by the seller or supplier or the retailer or other person who has actually paid the tax. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -10747,7 +11587,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-1612 Reserves. * ::
+
+
+*§ 11-1612 Reserves.* ::
 
 
 In cases where the seller or supplier or the retailer has applied for a fund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to him or her on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -10755,7 +11597,9 @@ In cases where the seller or supplier or the retailer has applied for a fund and
 
 
 
-*§ 11-1613 Remedies exclusive. * ::
+
+
+*§ 11-1613 Remedies exclusive.* ::
 
 
 The remedies provided by sections 11-1610 and 11-1611 of this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than a proceeding in the nature of a certiorari proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if such taxpayer institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-1610 of this chapter.
@@ -10763,7 +11607,9 @@ The remedies provided by sections 11-1610 and 11-1611 of this chapter shall be t
 
 
 
-*§ 11-1614 Proceedings to recover tax. * ::
+
+
+*§ 11-1614 Proceedings to recover tax.* ::
 
 
 a. Whenever any seller or supplier or retailer or other person shall fail to pay any tax, penalty or interest imposed by this chapter as therein provided, the corporation counsel shall, upon the request of the commissioner of finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, the commissioner of finance in his or her discretion believes that any such seller or supplier or retailer or other person is about to cease business, leave the state or remove or dissipate the assets out of which the tax, penalties or interest might be satisfied, and that any such tax, penalty or interest will not be paid when due, the commissioner of finance may declare such tax, penalty or interest to be immediately due and payable and may issue a warrant immediately.
@@ -10777,7 +11623,9 @@ d. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-1615 Penalties and interest. * ::
+
+
+*§ 11-1615 Penalties and interest.* ::
 
 
 a. Any person failing to file a return or to pay any tax to the commissioner of finance within the time required by this chapter shall be subject to a penalty of five percent of the amount of tax due; plus interest at the rate of one percent of such tax for each month of delay excepting the first month after such return was required to be filed or such tax became due; but the commissioner of finance if satisfied that the delay was excusable, may remit all or any part of such penalty, but not interest at the rate of six percent per year. Such penalties and interest shall be paid and disposed of in the same manner as other revenues from this chapter. Unpaid penalties and interest may be enforced in the same manner as the tax imposed by this chapter.
@@ -10789,7 +11637,9 @@ c. The certificate of the commissioner of finance to the effect that a tax has n
 
 
 
-*§ 11-1616 Return to be secret. * ::
+
+
+*§ 11-1616 Return to be secret.* ::
 
 
 a. Except in accordance with proper judicial order, or as otherwise provided by law, it shall be unlawful for the commissioner of finance, any officer or employee of the department of finance, any person engaged or retained on an independent contract basis or any person who, pursuant to this section is permitted to inspect any return or to whom a copy, an abstract or a portion of any return is furnished, or to whom any information contained in any return is furnished, to divulge or make known in any manner any information contained in or relating to any return required under this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the commissioner of finance in an action or proceeding under the provisions of this chapter, or on behalf of any party to any action or proceeding under the provisions of this chapter, when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of, and may admit in evidence, so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a taxpayer or such taxpayer's duly authorized representative of a certified copy of any return filed in connection with such taxpayer's tax; nor to prohibit the delivery of such a certified copy of such return or of any information contained in or relating thereto, the United States of America or any department thereof, to the state of New York or any department thereof, or to any agency or department of the city of New York, provided the same is requested for official business; nor to prohibit the inspection for official business of such returns by the corporation counsel or other legal representatives of the city or by the district attorney of any county within the city; nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns and the items thereof. Returns shall be preserved for three years and thereafter until the commissioner of finance permits them to be destroyed.
@@ -10799,7 +11649,9 @@ b. Any violation of subdivision a of this section shall be punishable by a fine 
 
 
 
-*§ 11-1617 Notices and limitations of time. * ::
+
+
+*§ 11-1617 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by such person pursuant to the provisions of this chapter or in any application made by such person or, if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -10811,7 +11663,9 @@ c. Where, before the expiration of the period prescribed herein for assessment o
 
 
 
-*§ 11-1618 Construction and enforcement. * ::
+
+
+*§ 11-1618 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with chapter three hundred ninety-nine of the laws of nineteen hundred seventy-one, pursuant to which it is enacted.
@@ -10825,7 +11679,9 @@ Chapter 17: City Personal Income Tax On Residents
 
 **Subchapter 1: General**
 
-*§ 11-1701 Imposition of tax. * ::
+
+
+*§ 11-1701 Imposition of tax.* ::
 
 
 General. A tax is hereby imposed on the city taxable income of every city resident individual, estate and trust determined in accordance with the rates set forth in subdivision (a) of this section for taxable years beginning before two thousand twenty-one, and in accordance with the rates set forth in subdivision (b) of this section for taxable years beginning after two thousand twenty. Provided, however, that if, for any taxable year beginning after two thousand twenty, the rates set forth in such subdivision (b) are rendered inapplicable and the rates set forth in such subdivision (a) are rendered applicable, then the tax for such taxable year shall be at the rates provided under subparagraph (A) of paragraphs one, two and three of such subdivision (a). Notwithstanding the foregoing sentences, for taxable years beginning after two thousand two and before two thousand six, a tax is hereby imposed on the city taxable income of every city resident individual, estate and trust determined in accordance with the rates set forth in subdivision (g) of this section and in accordance with the provisions of subdivision (h) of this section. During any taxable year beginning after two thousand two and before two thousand six, in which the tax imposed pursuant to this section is determined in accordance with subdivisions (g) and (h) of this section, the rates set forth in subdivisions (a) and (b) of this section shall be inapplicable, and the tax imposed pursuant to section 11-1704.1 of this chapter shall be suspended.
@@ -11455,6 +12311,8 @@ For taxable years beginning after two thousand twenty:
 
 
 
+
+
 *§ 11-1701.2 Tax surcharge. [Repealed]* ::
 
 
@@ -11465,7 +12323,9 @@ For taxable years beginning after two thousand twenty:
 
 
 
-*§ 11-1704 Tax surcharge. * ::
+
+
+*§ 11-1704 Tax surcharge.* ::
 
 
 (a) In addition to the taxes imposed by sections 11-1701 and 11-1703, there is hereby imposed for each taxable year beginning after nineteen hundred eighty-ninety but before nineteen hundred ninety-nine, a tax surcharge on the city taxable income of every city resident individual, estate and trust.
@@ -11651,7 +12511,9 @@ For taxable years beginning after two thousand twenty:
 
 
 
-*§ 11-1704.1 Additional tax. * ::
+
+
+*§ 11-1704.1 Additional tax.* ::
 
 
 (a) (1) In addition to any other taxes imposed by this chapter, there is hereby imposed for each taxable year beginning after nineteen hundred ninety but before two thousand twenty, an additional tax on the city taxable income of every city resident individual, estate and trust, to be calculated for each taxable year as follows: (i) for each taxable year beginning after nineteen hundred ninety but before nineteen hundred ninety-nine, at the rate of fourteen percent of the sum of the taxes for each such taxable year determined pursuant to section 11-1701 and section 11-1704 of this subchapter; and (ii) for each taxable year beginning after nineteen hundred ninety-eight, at the rate of fourteen percent of the tax for such taxable year determined pursuant to such section 11-1701.
@@ -11683,7 +12545,9 @@ For taxable years beginning after two thousand twenty:
 
 
 
-*§ 11-1705 General provisions and definitions. * ::
+
+
+*§ 11-1705 General provisions and definitions.* ::
 
 
 (a) Accounting periods and methods.
@@ -11745,7 +12609,9 @@ For taxable years beginning after two thousand twenty:
 
 
 
-*§ 11-1706 Credits against tax. * ::
+
+
+*§ 11-1706 Credits against tax.* ::
 
 
 (a) Credit relating to net capital gain. For taxable years beginning in nineteen hundred eighty-seven, a credit against the tax imposed under section 11-1701 shall be allowed. The amount of the credit shall be one-half of one percent of net capital gain includible in city adjusted gross income for the taxable year. The credit allowed by this subdivision shall not exceed the tax imposed by section 11-1701 reduced by the credits permitted under section 11-1721 and subdivision (b) of this section.
@@ -12008,7 +12874,9 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 
-*§ 11-1707 Meaning of terms. * ::
+
+
+*§ 11-1707 Meaning of terms.* ::
 
 
 (a) General. Any term used in this chapter shall have the same meaning as when used in a comparable context in the laws of the United States relating to federal income taxes, unless a different meaning is clearly required but such meaning shall be subject to the exceptions or modifications prescribed in this chapter or by statute. Any reference in this chapter to the laws of the United States shall mean the provisions of the internal revenue code of nineteen hundred eighty-six (unless a reference to the internal revenue code of nineteen hundred fifty-four is clearly intended), and amendments thereto, and other provisions of the laws of the United States relating to federal income taxes, as the same may be or become effective at any time or from time to time for the taxable year, as included and quoted in the appendices (including any supplements and additions thereto) to this chapter. (Such quotation of the aforesaid laws of the United States is intended to make them a part of this chapter and to avoid constitutional uncertainties which might result if such laws were merely incorporated by reference. The quotation of a provision of the internal revenue code or of any other law of the United States in such appendices shall not necessarily mean that it is applicable or has relevance to this chapter).
@@ -12023,7 +12891,9 @@ Editor's note: there are two divisions designated (c) in this section.
 
 **Subchapter 2: Residents**
 
-*§ 11-1711 City taxable income of a city resident individual. * ::
+
+
+*§ 11-1711 City taxable income of a city resident individual.* ::
 
 
 (a) General. The city taxable income of a city resident individual shall be his city adjusted gross income less his city deduction and city exemptions, as determined under this chapter.
@@ -12045,7 +12915,9 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 
-*§ 11-1712 City adjusted gross income of a city resident individual. * ::
+
+
+*§ 11-1712 City adjusted gross income of a city resident individual.* ::
 
 
 (a) General. The city adjusted gross income of a city resident individual means his or her federal adjusted gross income as defined in the laws of the United States for the taxable year, with the modifications specified in this section.
@@ -12553,7 +13425,9 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 
-*§ 11-1713 City deduction of a resident individual. * ::
+
+
+*§ 11-1713 City deduction of a resident individual.* ::
 
 
 The city deduction of a city resident individual shall be his or her city standard deduction unless such resident individual elects to deduct his or her city itemized deduction under the conditions set forth in section 11-1715.
@@ -12561,7 +13435,9 @@ The city deduction of a city resident individual shall be his or her city standa
 
 
 
-*§ 11-1714 City standard deduction of a city resident individual. * ::
+
+
+*§ 11-1714 City standard deduction of a city resident individual.* ::
 
 
 (a) Unmarried individual. For taxable years beginning after nineteen hundred ninety-six, the city standard deduction of a city resident individual who is not married nor the head of a household nor a surviving spouse nor an individual who is claimed as a dependent by another New York state taxpayer shall be seven thousand five hundred dollars; for taxable years beginning in nineteen hundred ninety-six, such standard deduction shall be seven thousand four hundred dollars; for taxable years beginning in nineteen hundred ninety-five, such standard deduction shall be six thousand six hundred dollars; and for taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-five, such standard deduction shall be six thousand dollars.
@@ -12581,7 +13457,9 @@ The city deduction of a city resident individual shall be his or her city standa
 
 
 
-*§ 11-1715 City itemized deduction of a city resident individual. * ::
+
+
+*§ 11-1715 City itemized deduction of a city resident individual.* ::
 
 
 (a) General. If federal taxable income of a city resident individual is determined by itemizing deductions or claiming the federal standard deduction from his or her federal adjusted gross income, such resident individual may elect to deduct his or her city itemized deduction or claim his or her city standard deduction. The city itemized deduction of a city resident individual means the total amount of his or her deductions from federal adjusted gross income allowed, other than federal deductions for personal exemptions, as provided in the laws of the United States for the taxable year, as such deductions existed immediately prior to the enactment of Public Law 115-97 with the modifications specified in this section, except as provided for under subdivisions (f) and (g) of this section.
@@ -12651,7 +13529,9 @@ The city deduction of a city resident individual shall be his or her city standa
 
 
 
-*§ 11-1716 City exemptions of a city resident individual. * ::
+
+
+*§ 11-1716 City exemptions of a city resident individual.* ::
 
 
 (a) General. For taxable years beginning after nineteen hundred eighty-seven, a city resident individual shall be allowed a city exemption of one thousand dollars for each exemption for which such resident individual is entitled to a deduction for the taxable year under subsection (c) of section one hundred fifty-one of the internal revenue code; and for taxable years beginning in nineteen hundred eighty-seven, a city resident individual other than a taxpayer whose federal exemption amount is zero shall be allowed a city exemption of nine hundred dollars for each exemption for which he is entitled to a deduction for the taxable year for federal income tax purposes.
@@ -12661,7 +13541,9 @@ The city deduction of a city resident individual shall be his or her city standa
 
 
 
-*§ 11-1717 Resident partners and shareholders of S corporations. * ::
+
+
+*§ 11-1717 Resident partners and shareholders of S corporations.* ::
 
 
 (a) Partner's and shareholder's modifications. In determining city adjusted gross income and city taxable income of a city resident partner or a city resident shareholder of an S corporation (other than an S corporation which is a New York C corporation), any modification described in subdivision (b), (c) or (d) of section 11-1712, or subdivision (c) of section 11-1715 or paragraph two or three of subdivision (d) of such section, which relates to an item of partnership or S corporation income, gain, loss or deduction shall be made in accordance with the partner's distributive share or the shareholder's pro rata share, for federal income tax purposes, of the item to which the modification relates. Where a partner's distributive share or a shareholder's pro rata share of any such item is not required to be taken into account separately for federal income tax purposes, the partner's or shareholder's share of such item shall be determined in accordance with his or her share, for federal income tax purposes, of partnership or S corporation taxable income or loss generally. In the case of a New York S termination year, his or her pro rata share of any such item shall be determined under subdivision (s) of section 11-1712.
@@ -12673,7 +13555,9 @@ The city deduction of a city resident individual shall be his or her city standa
 
 
 
-*§ 11-1717.1 Residents; special provisions. * ::
+
+
+*§ 11-1717.1 Residents; special provisions.* ::
 
 
 Notwithstanding any other provisions of this chapter, the city adjusted gross income and the city taxable income of a resident individual or partner of a partnership doing an insurance business as a member of the New York insurance exchange described in section six thousand two hundred one of the insurance law, shall not include any item of income, gain, loss or deduction of such business, which is the individual's distributive or pro rata share for federal income tax purposes or which the individual is required to take into account separately for federal income tax purposes. Provided however, such individual's city adjusted gross income shall include his or her distributive or pro rata share of the allocated entire net income as determined by such business under sections fifteen hundred three and fifteen hundred four of the tax law. In the event such allocated entire net income is a loss, there shall not be subtracted from federal adjusted gross income in computing city adjusted gross income such individual's distributive share of such loss.
@@ -12681,7 +13565,9 @@ Notwithstanding any other provisions of this chapter, the city adjusted gross in
 
 
 
-*§ 11-1718 City taxable income of a city resident estate or trust. * ::
+
+
+*§ 11-1718 City taxable income of a city resident estate or trust.* ::
 
 
 The city taxable income of a city resident estate or trust means its federal taxable income as defined in the laws of the United States for the taxable year, with the following modifications:
@@ -12699,7 +13585,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1719 Share of a resident estate, trust or beneficiary in city fiduciary adjustment. * ::
+
+
+*§ 11-1719 Share of a resident estate, trust or beneficiary in city fiduciary adjustment.* ::
 
 
 (a) General. An adjustment shall be made in determining city taxable income of a city resident estate or trust under section 11-1718, or city adjusted gross income of a city resident beneficiary of any estate or trust under subdivision (d) of section 11-1712, in the amount of the share of each in the city fiduciary adjustment as determined in this section.
@@ -12721,12 +13609,16 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1721 Credits to trust beneficiary receiving accumulation distribution. * ::
+
+
+*§ 11-1721 Credits to trust beneficiary receiving accumulation distribution.* ::
 
 
 (a) General. A city resident beneficiary of a trust whose city adjusted gross income includes all or part of an accumulation distribution by such trust, as defined in section six hundred sixty-five of the internal revenue code, including a beneficiary who is required to make the modification required by paragraph thirty-six of subdivision (b) of section 11-1712 of this subchapter, shall be allowed (1) a credit against the tax otherwise due under this chapter for all or a proportionate part of any tax paid by the trust under this chapter or under former title T of chapter forty-six of this code, as it was in effect prior to September first, nineteen hundred eighty-six, for any preceding taxable year which would not have been payable if the trust had in fact made distributions to its beneficiaries at the times and in the amounts specified in section six hundred sixty-six of the internal revenue code; and (2) a credit against the taxes imposed by this chapter for the taxable year for any income tax imposed for the taxable year or any prior taxable year by another state of the United States, a political subdivision thereof, or the District of Columbia, upon income both derived therefrom and subject to tax under this chapter, provided that the amount of the credit shall not exceed the percentage of the tax otherwise due under this chapter determined by dividing the portion of the income that is both taxable to the trust in such other jurisdiction and taxable to the beneficiary under this chapter by the total amount of the beneficiary's New York city income.
 
 (b) Limitation. The credits under this section shall not reduce the tax otherwise due from the beneficiary under this chapter to an amount less than would have been due if the accumulation distribution or his or her part thereof were excluded from his or her city adjusted gross income.
+
+
 
 
 
@@ -12756,7 +13648,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 **Subchapter 3: Returns and Payment of Tax**
 
-*§ 11-1751 Returns and liabilities. * ::
+
+
+*§ 11-1751 Returns and liabilities.* ::
 
 
 (a) General. On or before the fifteenth day of the fourth month following the close of a taxable year, an income tax return under this chapter shall be made and filed by or for every city resident individual, estate or trust required to file a New York state personal income tax (including a separate tax on the ordinary income portion of lump sum distributions) return for the taxable year.
@@ -12794,7 +13688,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1752 Time and place for filing returns and paying tax. * ::
+
+
+*§ 11-1752 Time and place for filing returns and paying tax.* ::
 
 
 (a) Except as provided in subdivision (b) of this section, a person required to make and file a return under this chapter shall, without assessment, notice or demand, pay any tax due thereon to the commissioner of taxation and finance on or before the date fixed for filing such return (determined without regard to any extension of time for filing the return). The commissioner shall prescribe by regulation the place for filing any return, statement, or other document required pursuant to this chapter and for payment of any tax.
@@ -12804,7 +13700,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1753 Signing of returns and other documents. * ::
+
+
+*§ 11-1753 Signing of returns and other documents.* ::
 
 
 (a) General. Any return, statement or other document required to be made pursuant to this chapter shall be signed in accordance with regulations or instructions prescribed by the tax commission. The fact that an individual's name is signed to a return, statement, or other document, shall be prima facie evidence for all purposes that the return, statement or other document was actually signed by such individual.
@@ -12816,7 +13714,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1754 Change of resident status. * ::
+
+
+*§ 11-1754 Change of resident status.* ::
 
 
 (a) General. If an individual changes his or her status during his or her taxable year from city resident to city nonresident, or from city nonresident to city resident, such individual shall file one return as a resident for the portion of the year during which he or she is a city resident, and a return under chapter nineteen of this title, for the portion of the year during which he or she is a city nonresident, subject to such exceptions as the tax commission may prescribe by regulation.
@@ -12858,7 +13758,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1755 Relief from joint and several liability on joint return. * ::
+
+
+*§ 11-1755 Relief from joint and several liability on joint return.* ::
 
 
 (a) General. The provisions of section six thousand fifteen of the internal revenue code applicable to the liability of individuals who file joint income tax returns shall apply to the same extent as if such section of such code were contained in and made part of this section, except to the extent that any provision of such section is either inconsistent with or not relevant to this chapter and except as modified in subdivision (b) of this section, or with such other modifications as may be necessary to adapt the language of such provisions to the provisions of this chapter.
@@ -12890,7 +13792,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1757 Extensions of time. * ::
+
+
+*§ 11-1757 Extensions of time.* ::
 
 
 (a) General. The commissioner of taxation and finance may grant a reasonable extension of time for payment of tax or estimated tax (or any installment), or for filing any return, statement, or other document required pursuant to this chapter, on such terms and conditions as it may require. Except for a taxpayer who is outside the United States or who intends to claim nonresident status pursuant to clause (ii) of subparagraph (A) of paragraph one of subdivision (b) of section 11-1705, no such extension for filing any return, statement or other document, shall exceed six months.
@@ -12900,7 +13804,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1758 Requirements concerning returns, notices, records and statements. * ::
+
+
+*§ 11-1758 Requirements concerning returns, notices, records and statements.* ::
 
 
 (a) General. The tax commission may prescribe regulations as to the keeping of records, the content and form of returns and statements, and the filing of copies of federal income tax returns and determinations. The tax commission may require any person, by regulation or notice served upon such person, to make such returns, render such statements, or keep such records, as the tax commission may deem sufficient to show whether or not such person is liable under this chapter for tax or for collection of tax.
@@ -12988,7 +13894,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
-*§ 11-1759 Report of federal changes, corrections or disallowances. * ::
+
+
+*§ 11-1759 Report of federal changes, corrections or disallowances.* ::
 
 
 If the amount of a taxpayer's federal taxable income, total taxable amount or ordinary income portion of a lump sum distribution or includible gain of a trust reported on his federal income tax return for any taxable year, or the amount of any claim of right adjustment, is changed or corrected by the United States internal revenue service or other competent authority, or as the result of a renegotiation of a contract or subcontract with the United States or the amount an employer is required to deduct and withhold from wages for federal income tax withholding purposes is changed or corrected by such service or authority or if a taxpayer's claim for credit or refund of federal income tax is disallowed in whole or in part, the taxpayer or employer shall report such change or correction or disallowance within ninety days after the final determination of such change, correction, renegotiation, or disallowance, or as otherwise required by the commissioner, and shall concede the accuracy of such determination or state wherein it is erroneous. The allowance of a tentative carryback adjustment based upon a net operating loss carryback pursuant to section sixty-four hundred eleven of the internal revenue code shall be treated as a final determination for purposes of this section. Any taxpayer filing an amended federal income tax return and any employer filing an amended federal return of income tax withheld shall also file within ninety days thereafter an amended return under this chapter, and shall give such information as the commissioner may require. The commissioner may by regulation prescribe such exceptions to the requirements of this section as he or she deems appropriate. For purposes of this section, (i) the term "taxpayer" shall include a partnership having a resident partner or having any income derived from New York sources, and a corporation with respect to which the taxable year of such change, correction, disallowance or amendment is a year with respect to which the election provided for in subsection (a) of section six hundred sixty of the tax law is in effect, and (ii) the term "federal income tax return" shall include the returns of income required under sections six thousand thirty-one and six thousand thirty-seven of the internal revenue code. In the case of such a corporation, such report shall also include any change or correction of the taxes described in paragraphs two and three of subsection (f) of section thirteen hundred sixty-six of the internal revenue code. Reports made under this section by a partnership or corporation shall indicate the portion of the change in each item of income, gain, loss or deduction (and, in the case of a corporation, of each change in, or disallowance of a claim for credit or refund of, a tax referred to in the preceding sentence) allocable to each partner or shareholder and shall set forth such identifying information with respect to such partner or shareholder as may be prescribed by the commissioner.
@@ -12996,7 +13904,9 @@ If the amount of a taxpayer's federal taxable income, total taxable amount or or
 
 
 
-*§ 11-1761 Change of election. * ::
+
+
+*§ 11-1761 Change of election.* ::
 
 
 Any election expressly authorized by this chapter may be changed on such terms and conditions as the tax commission may prescribe by regulation.
@@ -13004,7 +13914,9 @@ Any election expressly authorized by this chapter may be changed on such terms a
 
 
 
-*§ 11-1762 Computation of tax where taxpayer restores substantial amount held under claim of right. * ::
+
+
+*§ 11-1762 Computation of tax where taxpayer restores substantial amount held under claim of right.* ::
 
 
 (a) General. If:
@@ -13025,7 +13937,9 @@ Any election expressly authorized by this chapter may be changed on such terms a
 
 **Subchapter 4: Withholding of Tax**
 
-*§ 11-1771 Requirement of withholding tax from wages. * ::
+
+
+*§ 11-1771 Requirement of withholding tax from wages.* ::
 
 
 (a) General.
@@ -13103,7 +14017,9 @@ Any election expressly authorized by this chapter may be changed on such terms a
 
 
 
-*§ 11-1772 Information statement for employee. * ::
+
+
+*§ 11-1772 Information statement for employee.* ::
 
 
 Every employer required to deduct and withhold tax under this chapter from the wages of an employee, or who would have been required so to deduct and withhold tax if the employee had claimed no more than one withholding exemption, shall furnish to each such employee in respect of the wages paid by such employer to such employee during the calendar year on or before February fifteenth of the succeeding year, or, if his or her employment is terminated before the close of such calendar year, within thirty days from the date on which the last payment of the wages is made, a written statement as prescribed by the tax commission showing the amount of wages paid by the employer to the employee, the amount deducted and withheld as tax, and such other information as the tax commission shall prescribe. The written statement required herein may be furnished to such employee in an electronic format.
@@ -13111,7 +14027,9 @@ Every employer required to deduct and withhold tax under this chapter from the w
 
 
 
-*§ 11-1773 Credit for tax withheld. * ::
+
+
+*§ 11-1773 Credit for tax withheld.* ::
 
 
 Wages upon which tax is required to be withheld shall be taxable under this chapter as if no withholding were required, but any amount of tax actually deducted and withheld under this chapter in any calendar year shall be deemed to have been paid to the tax commission on behalf of the person from whom withheld, and such person shall be credited with having paid that amount of tax for the taxable year beginning in such calendar year. For a taxable year of less than twelve months, the credit shall be made under regulations of the tax commission.
@@ -13119,7 +14037,9 @@ Wages upon which tax is required to be withheld shall be taxable under this chap
 
 
 
-*§ 11-1774 Employer's return and payment of withheld taxes. * ::
+
+
+*§ 11-1774 Employer's return and payment of withheld taxes.* ::
 
 
 (a) General. Every employer required to deduct and withhold tax under this chapter shall file a withholding return and pay over to the tax commission or to a depository designated by the tax commission, the taxes so required to be deducted and withheld, as hereafter prescribed.
@@ -13143,7 +14063,9 @@ Wages upon which tax is required to be withheld shall be taxable under this chap
 
 
 
-*§ 11-1775 Employer's liability for withheld taxes. * ::
+
+
+*§ 11-1775 Employer's liability for withheld taxes.* ::
 
 
 Every employer required to deduct and withhold tax under this chapter is hereby made liable for such tax. For purposes of assessment and collection, any amount required to be withheld and paid over to the tax commission, and any additions to tax, penalties and interest with respect thereto, shall be considered the tax of the employer. Any amount of tax actually deducted and withheld under this chapter shall be held to be a special fund in trust for the tax commission. No employee shall have any right of action against his or her employer in respect to any moneys deducted and withheld from his or her wages and paid over to the tax commission in compliance or in intended compliance with this chapter.
@@ -13151,7 +14073,9 @@ Every employer required to deduct and withhold tax under this chapter is hereby 
 
 
 
-*§ 11-1776 Employer's failure to withhold. * ::
+
+
+*§ 11-1776 Employer's failure to withhold.* ::
 
 
 If an employer fails to deduct and withhold tax as required, and thereafter the tax against which such tax may be credited is paid, the tax so required to be deducted and withheld shall not be collected from the employer, but the employer shall not be relieved from liability for any penalties, interest, or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
@@ -13159,7 +14083,9 @@ If an employer fails to deduct and withhold tax as required, and thereafter the 
 
 
 
-*§ 11-1777 Designation of third parties to perform acts required of employers. * ::
+
+
+*§ 11-1777 Designation of third parties to perform acts required of employers.* ::
 
 
 In case a fiduciary, agent, or other person has the control, receipt, custody, or disposal of, or pays the wages of an employee or group of employees, employed by one or more employers, the tax commission, under regulations promulgated by it, is authorized to designate such fiduciary, agent, or other person to perform such acts as are required of employers under this chapter and as the tax commission may specify. Except as may be otherwise prescribed by the tax commission, all provisions of law (including penalties) applicable in respect of an employer shall be applicable to a fiduciary, agent, or other person so designated but, except as so provided, the employer for whom such fiduciary, agent, or other person acts shall remain subject to the provisions of law (including penalties) applicable in respect of employers.
@@ -13167,7 +14093,9 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 
 
 
-*§ 11-1778 Liability of third parties paying or providing for wages. * ::
+
+
+*§ 11-1778 Liability of third parties paying or providing for wages.* ::
 
 
 (a) Direct payment by third party. If a lender, surety or other person, who is not an employer with respect to an employee or group of employees, pays wages directly to such an employee or group of employees, employed by one or more employers, or to an agent on behalf of such employee or employees, such lender, surety or other person shall be liable for the amount of taxes (together with interest) required to be deducted and withheld from such wages by the employer.
@@ -13182,7 +14110,9 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 
 **Subchapter 5: Procedure and Administration**
 
-*§ 11-1781 Notice of deficiency. * ::
+
+
+*§ 11-1781 Notice of deficiency.* ::
 
 
 (a) General. If upon examination of a taxpayer's return under this chapter the tax commission determines that there is a deficiency of income tax, it may mail a notice of deficiency to the taxpayer. If a taxpayer fails to file an income tax return required under this chapter, the tax commission is authorized to estimate the taxpayer's city taxable income and tax thereon, from any information in its possession, and to mail a notice of deficiency to the taxpayer. A notice of deficiency shall be mailed by certified or registered mail to the taxpayer at his or her last known address in or out of this state. If a husband and wife are jointly liable for tax, a notice of deficiency may be a single joint notice, except that if the tax commission has been notified by either spouse that separate residences have been established, then, in lieu of the single joint notice, a duplicate original of the joint notice shall be mailed to each spouse at his or her last known address in or out of this state. If the taxpayer is deceased or under a legal disability, a notice of deficiency may be mailed to his or her last known address in or out of this state, unless the tax commission has received notice of the existence of a fiduciary relationship with respect to the taxpayer.
@@ -13208,7 +14138,9 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 
 
 
-*§ 11-1782 Assessment. * ::
+
+
+*§ 11-1782 Assessment.* ::
 
 
 (a) Assessment date. The amount of tax which a return shows to be due, or the amount of tax which a return would have shown to be due but for a mathematical error, shall be deemed to be assessed on the date of filing of the return (including any amended return showing an increase of tax). In the case of a return properly filed without computation of tax, the tax computed by the tax commission shall be deemed to be assessed on the date on which payment is due. If a notice of deficiency has been mailed, the amount of the deficiency shall be deemed to be assessed on the date specified in subdivision (b) of section 11-1781 if no petition to the tax commission is filed, or if a petition is filed, then upon the date when a decision of the tax commission establishing the amount of the deficiency becomes final. If an amended return or report filed pursuant to section 11-1759 concedes the accuracy of a federal change or correction, any deficiency in tax under this chapter resulting therefrom shall be deemed to be assessed on the date of filing such report or amended return, and such assessment shall be timely notwithstanding section 11-1783. If a notice of additional tax due, as prescribed in subdivision (e) of section 11-1781, has been mailed, the amount of the deficiency shall be deemed to be assessed on the date specified in such subdivision unless within thirty days after the mailing of such notice a report of the federal change or correction or an amended return, where such return was required by section 11-1759, is filed accompanied by a statement showing wherein such federal determination and such notice of additional tax due are erroneous. Any amount paid as a tax or in respect of a tax, other than amounts withheld at the source or paid as estimated income tax, shall be deemed to be assessed upon the date of receipt of payment, notwithstanding any other provisions.
@@ -13224,7 +14156,9 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 
 
 
-*§ 11-1783 Limitations on assessment. * ::
+
+
+*§ 11-1783 Limitations on assessment.* ::
 
 
 (a) General. Except as otherwise provided in this section, any tax under this chapter shall be assessed within three years after the return was filed (whether or not such return was filed on or after the date prescribed).
@@ -13276,7 +14210,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1784 Interest on underpayment. * ::
+
+
+*§ 11-1784 Interest on underpayment.* ::
 
 
 (a) General. If any amount of income tax is not paid on or before the last date prescribed in this chapter for payment, interest on such amount at the underpayment rate set by the commissioner of taxation and finance pursuant to section 11-1797 of this subchapter, or if no rate is set, at the rate of seven and one-half percent per annum shall be paid for the period from such last date to the date paid, whether or not any extension of time for payment was granted. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar. If the time for filing of a return of tax withheld by an employer is extended, the employer shall pay interest for the period for which the extension is granted and may not charge such interest to the employee.
@@ -13304,7 +14240,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1785 Additions to tax and civil penalties. * ::
+
+
+*§ 11-1785 Additions to tax and civil penalties.* ::
 
 
 (a) (1) Failure to file tax return.
@@ -13486,7 +14424,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1786 Overpayment. * ::
+
+
+*§ 11-1786 Overpayment.* ::
 
 
 (a) General. The state commissioner of taxation and finance, within the applicable period of limitations, may credit an overpayment of income tax and interest on such overpayment against any liability in respect of any tax imposed by this chapter or by chapter nineteen of this title on the person who made the overpayment or any other tax imposed on such person pursuant to the authority of the tax law or any other law if such tax is administered by the state commissioner of taxation and finance, against any liability in respect of any tax imposed on such person by the tax law and, as provided in sections one hundred seventy-one-c, one hundred seventy-one-d, one hundred seventy-one-e, one hundred seventy-one-f and one hundred seventy-one-l of the tax law, against past-due support, against a past-due legally enforceable debt, against a city of New York tax warrant judgment debt and against the amount of a default in repayment of a guaranteed student, state university or city university loan. The balance shall be refunded by the state comptroller out of the proceeds of the tax retained by him or her for such general purpose. Any refund under this section shall be made only upon the filing of a return and upon a certificate of the state commissioner of taxation and finance approved by the state comptroller. The state comptroller, as a condition precedent to the approval of such a certificate, may examine into the facts as disclosed by the return of the person who made the overpayment and other information and data available in the files of the state commissioner of taxation and finance.
@@ -13508,7 +14448,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1787 Limitations on credit or refund. * ::
+
+
+*§ 11-1787 Limitations on credit or refund.* ::
 
 
 (a) General. Claim for credit or refund of an overpayment of income tax shall be filed by the taxpayer within three years from the time the return was filed or two years from the time the tax was paid, whichever of such periods expires the later, or if no return was filed, within two years from the time the tax was paid. If the claim is filed within the three year period, the amount of the credit or refund shall not exceed the portion of the tax paid within the three years immediately preceding the filing of the claim plus the period of any extension of time for filing the return. If the claim is not filed within the three year period, but is filed within the two year period, the amount of the credit or refund shall not exceed the portion of the tax paid during the two years immediately preceding the filing of the claim. Except as otherwise provided in this section, if no claim is filed, the amount of a credit or refund shall not exceed the amount which would be allowable if a claim had been filed on the date the credit or refund is allowed.
@@ -13560,7 +14502,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1788 Interest on overpayment. * ::
+
+
+*§ 11-1788 Interest on overpayment.* ::
 
 
 (a) General. Notwithstanding the provisions of section sixteen of the state finance law, interest shall be allowed and paid as follows at the overpayment rate set by the commissioner of taxation and finance pursuant to section 11-1797, or if no rate is set, at the rate of six percent per annum upon any overpayment in respect of the tax imposed by this chapter:
@@ -13602,7 +14546,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1789 Petition to tax commission. * ::
+
+
+*§ 11-1789 Petition to tax commission.* ::
 
 
 (a) General. The form of a petition to the tax commission, and further proceedings before the tax commission in any case initiated by the filing of a petition, shall be governed by such rules as the tax commission shall prescribe. No petition shall be denied in whole or in part without opportunity for a hearing on reasonable prior notice. Such hearing shall be conducted by one or more members of the tax commission, or by a hearing officer designated by the tax commission to take evidence and report to the tax commission. The tax commissioners shall, acting as a body, jointly decide the case as quickly as practicable. Notice of the decision shall be mailed promptly to the taxpayer by certified or registered mail at his or her last known address, and such notice shall set forth the tax commission's findings of fact and a brief statement of the grounds of decision in each case decided in whole or in part adversely to the taxpayer.
@@ -13648,7 +14594,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1790 Review of tax commission decision. * ::
+
+
+*§ 11-1790 Review of tax commission decision.* ::
 
 
 (a) General. A decision of the tax commission shall be subject to judicial review at the instance of any taxpayer effected thereby in the manner provided by law for the review of a final decision or action of administrative agencies of the state. An application by a taxpayer for such review must be made within four months after notice of the decision is sent by certified or registered mail to the taxpayer.
@@ -13664,7 +14612,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1791 Mailing rules; holidays; miscellaneous. * ::
+
+
+*§ 11-1791 Mailing rules; holidays; miscellaneous.* ::
 
 
 (a) (1) Timely mailing. If any return, claim, statement, notice, petition, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of this chapter is, after such period or such date, delivered by United States mail to the tax commission, bureau, office, officer or person with which or with whom such document is required to be filed, or to which or to whom such payment is required to be made, the date of the United States postmark stamped on the envelope shall be deemed to be the date of delivery. This subdivision shall apply only if the postmark date falls within the prescribed period or on or before the prescribed date for the filing of such document, or for making the payment, including any extension granted for such filing or payment, and only if such document or payment was deposited in the mail, postage prepaid, properly addressed to the tax commission, bureau, office, officer or person with which or with whom the document is required to be filed or to which or to whom such payment is required to be made. If any document or payment is sent by United States registered mail, such registration shall be prima facie evidence that such document or payment was delivered to the tax commission, bureau, office, officer or person to which or to whom addressed. To the extent that the tax commission shall prescribe by regulation, certified mail may be used in lieu of registered mail under this section. This subdivision shall apply in the case of postmarks not made by the United States post office only if and to the extent provided by regulations of the tax commission.
@@ -13684,7 +14634,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1792 Collection, levy and liens. * ::
+
+
+*§ 11-1792 Collection, levy and liens.* ::
 
 
 (a) Collection procedures. The taxes imposed by this chapter shall be collected by the tax commission, and it may establish the mode or time for the collection of any amount due it under this chapter if not otherwise specified. The tax commission shall, upon request, give a receipt for any sum collected under this chapter. The tax commission may authorize banks or trust companies which are depositaries or financial agents of the state to receive and give a receipt for any tax imposed under this chapter in such manner, at such times, and under such conditions as the tax commission may prescribe; and the tax commission shall prescribe the manner, times and conditions under which the receipt of such tax by such banks and trust companies is to be treated as payment of such tax to the tax commission.
@@ -13708,7 +14660,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1793 Transferees. * ::
+
+
+*§ 11-1793 Transferees.* ::
 
 
 (a) General. The liability, at law or in equity, of a transferee of property of a taxpayer for any tax, additions to tax, penalty or interest due under this chapter, shall be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the tax to which the liability relates, except that the period of limitations for assessment against the transferee shall be extended by one year for each successive transfer, in order, from the original taxpayer to the transferee involved, but not by more than three years in the aggregate. The term transferee includes donee, heir, legatee, devisee and distributee.
@@ -13726,7 +14680,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1794 Jeopardy assessment. * ::
+
+
+*§ 11-1794 Jeopardy assessment.* ::
 
 
 (a) Authority for making. If the tax commission believes that the assessment or collection of a deficiency will be jeopardized by delay, it shall, notwithstanding the provisions of sections 11-1781 and 11-1796, immediately assess such deficiency (together with all interest, penalties and additions to tax provided for by law), and notice and demand shall be made by the tax commission for the payment thereof.
@@ -13764,7 +14720,9 @@ For purposes of this subdivision there shall not be taken into account any amoun
 
 
 
-*§ 11-1795 Criminal penalties; cross-reference. * ::
+
+
+*§ 11-1795 Criminal penalties; cross-reference.* ::
 
 
 For criminal penalties, see article thirty-seven of the tax law.
@@ -13772,7 +14730,9 @@ For criminal penalties, see article thirty-seven of the tax law.
 
 
 
-*§ 11-1796 Income taxes of members of armed forces and victims of certain terrorist attacks. * ::
+
+
+*§ 11-1796 Income taxes of members of armed forces and victims of certain terrorist attacks.* ::
 
 
 (a) Time to be disregarded. In the case of an individual serving in the armed forces of the United States, or serving in support of such armed forces, in an area designated by the president of the United States by executive order as a "combat zone" at any time during the period designated by the president by executive order as the period of combatant activities in such zone, or hospitalized inside or outside the state as a result of injury received while serving in such an area during such time, the period of service in such area, plus the period of continuous hospitalization inside or outside the state attributable to such injury, and the next one hundred eighty days thereafter, shall be disregarded in determining, under this chapter, in respect of the city personal income tax liability (including any interest, penalty, or addition to the tax) of such individual:
@@ -13838,7 +14798,9 @@ For criminal penalties, see article thirty-seven of the tax law.
 
 
 
-*§ 11-1797 General powers of tax commission. * ::
+
+
+*§ 11-1797 General powers of tax commission.* ::
 
 
 (a) General. The tax commission shall administer and enforce the tax imposed by this chapter and it is authorized to make such rules and regulations, and to require such facts and information to be reported, as it may deem necessary to enforce the provisions of this chapter.
@@ -13910,10 +14872,14 @@ For criminal penalties, see article thirty-seven of the tax law.
 
 
 
-*§ 11-1798 Deposit and disposition of revenues. * ::
+
+
+*§ 11-1798 Deposit and disposition of revenues.* ::
 
 
 All revenue collected by the state commissioner of taxation and finance from the taxes imposed pursuant to this chapter or chapter nineteen of this title shall be deposited daily with such responsible banks, banking houses or trust companies, as may be designated by the state comptroller, to the credit of the comptroller, in trust for the city. Such deposits shall be kept in trust and separate and apart from all other moneys in the possession of the comptroller. The state comptroller shall require adequate security from all such depositories of such revenue collected by the state commissioner of taxation and finance. The state comptroller shall retain in his or her hands such amounts as the commissioner of taxation and finance may determine to be necessary for refunds in respect to the taxes imposed by this chapter and such chapter nineteen and for reasonable costs of the state commissioner of taxation and finance in administering, collecting and distributing such taxes, out of which the comptroller shall pay any refunds of such taxes to which taxpayers shall be entitled under this chapter and such chapter nineteen and except further that he shall pay to a non-obligated spouse that amount of overpayment of tax imposed pursuant to the authority of article thirty of the New York state tax law or former article two-E of the general city law and the interest on such amount which has been credited pursuant to section one hundred seventy-one-c, one hundred seventy-one-d, one hundred seventy-one-e, one hundred seventy-one-f or one hundred seventy-one-l of the New York state tax law and which is certified to him by the commissioner of taxation and finance as the amount due such non-obligated spouse pursuant to paragraph six of subsection (b) of section six hundred fifty-one of the New York state tax law, and he shall deduct a like amount which he shall pay into the treasury to the credit of the general fund from amounts subsequently payable to the department of social services, the state university of New York, the city university of New York, the higher education services corporation, or to the revenue arrearage account or special offset fiduciary account pursuant to section ninety-one-a or ninety-one-c of the state finance law, as the case may be, whichever had been credited the amount originally withheld from such overpayment and, with respect to amounts originally withheld from such overpayment pursuant to section one hundred seventy-one-l of the tax law and paid to the city of New York, the comptroller shall collect a like amount from the city of New York. The state comptroller, after reserving such refund fund and such costs shall, on or before the fifteenth day of each month, pay to the chief fiscal officer of the city the balance of such taxes collected, to be paid into the treasury of the city to the credit of the general fund except that he shall pay to the state department of social services that amount of overpayments of the taxes imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against past-due support pursuant to subdivision six of section one hundred seventy-one-c of the New York state tax law and except that he shall pay to the New York state higher education services corporation that amount of overpayments of the taxes imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against the amount of defaults in repayment of guaranteed student loans pursuant to subdivision five of section one hundred seventy-one-d of the New York state tax law and except that he shall pay to the state university of New York or the city university of New York, respectively, that amount of overpayments of the taxes imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against the amount of defaults in repayment of state university or city university loans pursuant to subdivision six of section one hundred seventy-one-e of the New York state tax law, and except further that, notwithstanding any other provision of law, he shall credit to the revenue arrearage account, pursuant to section ninety-one-a of the state finance law, that amount of overpayments of the taxes imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against a past-due legally enforceable debt owed to a state agency pursuant to paragraph (a) of subdivision six of section one hundred seventy-one-f of the New York state tax law, provided, however, he shall credit to the special offset fiduciary account, pursuant to section ninety-one-c of the state finance law, any such amount creditable as a liability as set forth in paragraph (b) of subdivision six of section one hundred seventy-one-f of the tax law, and except further that he shall pay to the city of New York that amount of overpayments of tax imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against city of New York tax warrant judgment debt pursuant to section one hundred seventy-one-l of the New York state tax law. The amount deducted for administering, collecting and distributing such taxes during such monthly period shall be paid by the state comptroller into the general fund of the state treasury to the credit of the state purposes fund therein. The first payment to such chief fiscal officer shall be made on or before March fifteenth, nineteen hundred seventy-six, which payment shall represent the balance of revenue after provision for refund and such reasonable costs, with respect to taxes collected from January first, nineteen hundred seventy-six through February twenty-ninth, nineteen hundred seventy-six. Subsequent payments shall be made on or before April fifteenth, nineteen hundred seventy-six and on or before the fifteenth day of each succeeding month thereafter, and shall represent the balance of revenue with respect to taxes collected the preceding calendar month. The amounts so payable shall be certified to the state comptroller by the state commissioner of taxation and finance or his or her delegate, either of whom shall not be held liable for any inaccuracy in such certificate. Where the amount so paid over to such chief fiscal officer is more or less than the amount then due such city, the amount of overpayment or underpayment shall be certified to the state comptroller by the state commissioner of taxation and finance or his or her delegate, either of whom shall not be held liable for any inaccuracy in such certificate. The amount of overpayment or underpayment shall be so certified to the state comptroller as soon after the discovery of the overpayment or underpayment as reasonably possible and subsequent payments by the state comptroller to such chief fiscal officer shall be adjusted by subtracting the amount of any such overpayment from, or by adding the amount of any such underpayment to such number of subsequent payments and distributions as the state comptroller and the state commissioner of taxation and finance shall consider reasonable in view of the amount of the overpayment or underpayment and all other facts and circumstances.
+
+
 
 
 
@@ -13930,7 +14896,9 @@ All revenue collected by the state commissioner of taxation and finance from the
 
 
 
-*§ 11-1801 Administration, collection and review. * ::
+
+
+*§ 11-1801 Administration, collection and review.* ::
 
 
 (a) Except as otherwise provided in this chapter, any tax imposed by this chapter shall be administered and collected by the tax commission in the same manner as the tax imposed by article twenty-two of the tax law is administered and collected by such commission. Whenever there is joint collection of state and city personal income taxes, it shall be deemed that such collections shall represent proportionately the applicable state and city personal income taxes in determining the amount to be remitted to the city.
@@ -13950,7 +14918,9 @@ All revenue collected by the state commissioner of taxation and finance from the
 
 
 
-*§ 11-1802 Construction. * ::
+
+
+*§ 11-1802 Construction.* ::
 
 
 This chapter shall be construed and enforced in conformity with article thirty of the tax law, as added to such law by chapter eight hundred eighty-one of the laws of nineteen hundred seventy-five, pursuant to which article it is enacted.
@@ -13964,7 +14934,9 @@ Chapter 19: Earnings Tax On Nonresidents
 
 **Subchapter 1: General**
 
-*§ 11-1901 Meaning of terms. * ::
+
+
+*§ 11-1901 Meaning of terms.* ::
 
 
 As used in this chapter, the following terms shall mean and include:
@@ -14014,7 +14986,9 @@ As used in this chapter, the following terms shall mean and include:
 
 
 
-*§ 11-1902 Persons subject to tax. * ::
+
+
+*§ 11-1902 Persons subject to tax.* ::
 
 
 (a) Imposition of tax.
@@ -14070,7 +15044,9 @@ As used in this chapter, the following terms shall mean and include:
 
 
 
-*§ 11-1903 Taxable years to which tax imposed by this chapter applies; tax for taxable years beginning prior to and ending after July first, nineteen hundred sixty-six. * ::
+
+
+*§ 11-1903 Taxable years to which tax imposed by this chapter applies; tax for taxable years beginning prior to and ending after July first, nineteen hundred sixty-six.* ::
 
 
 (a) General. The tax imposed by this chapter is imposed for each taxable year beginning with taxable years ending on or after July first, nineteen hundred sixty-six.
@@ -14086,7 +15062,9 @@ As used in this chapter, the following terms shall mean and include:
 
 
 
-*§ 11-1904 Allocation to the city. * ::
+
+
+*§ 11-1904 Allocation to the city.* ::
 
 
 (a) General. If net earnings from self-employment are derived from services performed, or from sources, within and without the city, there shall be allocated to the city a fair and equitable portion of such earnings.
@@ -14112,7 +15090,9 @@ As used in this chapter, the following terms shall mean and include:
 
 
 
-*§ 11-1905 Accounting periods and methods. * ::
+
+
+*§ 11-1905 Accounting periods and methods.* ::
 
 
 (a) Accounting periods. A taxpayer's taxable year under this chapter shall be the same as his or her taxable year for federal income tax purposes.
@@ -14132,7 +15112,9 @@ As used in this chapter, the following terms shall mean and include:
 
 
 
-*§ 11-1908 Withholding of tax on wages. * ::
+
+
+*§ 11-1908 Withholding of tax on wages.* ::
 
 
 On or after the first payroll period beginning August twenty-seventh, nineteen hundred sixty-six, every employer maintaining an office or transacting business within this state and making payment of any wages taxable under this chapter shall deduct and withhold from such wages for each payroll period a tax computed in such manner as to result, so far as practicable, in withholding from the employee's wages during each calendar year an amount substantially equivalent to the tax reasonably estimated to be due from the employee under this chapter. The method of determining the amount to be withheld shall be prescribed by regulations of the commissioner.
@@ -14140,7 +15122,9 @@ On or after the first payroll period beginning August twenty-seventh, nineteen h
 
 
 
-*§ 11-1909 Withholding of tax on wages for taxable periods commencing on or after January first, nineteen hundred seventy-six. * ::
+
+
+*§ 11-1909 Withholding of tax on wages for taxable periods commencing on or after January first, nineteen hundred seventy-six.* ::
 
 
 The provisions contained in sections 11-1908, 11-1910, 11-1911, 11-1912, 11-1913 and 11-1914 of this subchapter shall not be applicable to taxes imposed for taxable periods commencing on or after January first, nineteen hundred seventy-six provided however, with respect to such periods, the provisions contained in part V of article twenty-two of the tax law shall be applicable with the same force and effect as if those provisions had been incorporated in full in this section except where inconsistent with the provisions of article two-E of the general city law, except that the term "aggregate amount" contained in paragraphs one, two and three of subsection (a) of section six hundred seventy-four of the tax law shall mean the aggregate amounts of New York state personal income tax, city earnings tax on nonresidents and city personal income tax on residents authorized pursuant to article thirty of the tax law required to be deducted and withheld and provided, however, that the provisions of such paragraphs shall not be applicable to employer's returns required to be filed with respect to taxes required to be deducted and withheld during the calendar year nineteen hundred seventy-six, but such returns shall be required to be filed with the tax commission at the times and in the manner provided for in subdivision (a) of section 11-1912 of this chapter, except the term "commission" in such subdivision shall be read as "tax commission." This section shall not apply to payments by the United States for service in the armed forces of the United States so long as the right to require deduction and withholding of tax from such payments is prohibited by the laws of the United States. Service in the armed forces of the United States shall have the same meaning as when used in a comparable context in the laws of the United States relating to withholding of city income taxes.
@@ -14148,7 +15132,9 @@ The provisions contained in sections 11-1908, 11-1910, 11-1911, 11-1912, 11-1913
 
 
 
-*§ 11-1910 Information statement for employee. * ::
+
+
+*§ 11-1910 Information statement for employee.* ::
 
 
 Every employer required to deduct and withhold tax under this chapter from the wages of an employee, shall furnish to each such employee in respect of the wages paid by such employer to such employee during the calendar year on or before February fifteenth of the succeeding year, or, if his or her employment is terminated before the close of such calendar year, within thirty days from the date on which the last payment of the wages is made, a written statement as prescribed by the commissioner showing the total amount of wages paid by the employer to the employee, the amount of wages paid for services performed within the city, the amount deducted and withheld as tax, and such other information as the commissioner may prescribe. The written statement required herein may be furnished to such employee in an electronic format.
@@ -14156,7 +15142,9 @@ Every employer required to deduct and withhold tax under this chapter from the w
 
 
 
-*§ 11-1911 Credit for tax withheld. * ::
+
+
+*§ 11-1911 Credit for tax withheld.* ::
 
 
 Wages upon which tax is required to be withheld shall be taxable under this chapter as if no withholding were required, but any amount of tax actually deducted and withheld under this chapter in any calendar year shall be deemed to have been paid on behalf of the employee from whom withheld, and such employee shall be credited with having paid that amount of tax in such calendar year. For a taxable year of less than twelve months, the credit shall be made under regulations of the commissioner.
@@ -14164,7 +15152,9 @@ Wages upon which tax is required to be withheld shall be taxable under this chap
 
 
 
-*§ 11-1912 Employer's return and payment of withheld taxes. * ::
+
+
+*§ 11-1912 Employer's return and payment of withheld taxes.* ::
 
 
 (a) General. On or after the first payroll period beginning August twenty-seventh, nineteen hundred sixty-six, every employer required to deduct and withhold tax under this chapter shall, for each calendar month, on or before the fifteenth day of the month following the close of such calendar month file a withholding return as prescribed by the commissioner and pay over to the commissioner or to the depository designated by the commissioner, the taxes so required to be deducted and withheld, except that for the month of December in any year the returns shall be filed and the taxes paid on or before January thirty-first of the succeeding year. Where the aggregate amount required to be deducted and withheld by any employer under this chapter and under chapter seventeen of this title is less than twenty-five dollars in a calendar month and the aggregate of such taxes for the semi-annual period ending on June thirtieth and December thirty-first can reasonably be expected to be less than one hundred fifty dollars, the commissioner may, by regulation, permit an employer to file a return on or before July thirty-first for the semi-annual period ending on June thirtieth and on or before January thirty-first for the semi-annual period ending on December thirty-first. The commissioner may, if he or she believes such action necessary for the protection of the revenues, require any employer to make a return and pay to him or her the tax deducted and withheld at any time, or from time to time. Where the amount of wages paid by an employer is not sufficient under this chapter and under chapter seventeen of this title to require the withholding of tax from the wages of any of his or her employees, the commissioner may, by regulation, permit such employer to file an annual return on or before February twenty-eighth of the following calendar year.
@@ -14176,7 +15166,9 @@ Wages upon which tax is required to be withheld shall be taxable under this chap
 
 
 
-*§ 11-1913 Employer's liability for withheld taxes. * ::
+
+
+*§ 11-1913 Employer's liability for withheld taxes.* ::
 
 
 Every employer required to deduct and withhold the tax under this chapter is hereby made liable for such tax. For purposes of assessment and collection, any amount required to be withheld and paid over to the commissioner, and any additions to tax, penalties and interest with respect thereto shall be considered the tax of the employer. Any amount of tax actually deducted and withheld under this chapter shall be held to be a special fund in trust for the city. No employee shall have any right of action against his or her employer in respect to any monies deducted and withheld from his or her wages and paid over to the commissioner in compliance or in intended compliance with this chapter.
@@ -14184,7 +15176,9 @@ Every employer required to deduct and withhold the tax under this chapter is her
 
 
 
-*§ 11-1914 Employer's failure to withhold. * ::
+
+
+*§ 11-1914 Employer's failure to withhold.* ::
 
 
 If an employer fails to deduct and withhold the tax, as required, and thereafter the tax against which such tax may be credited is paid, the tax so required to be deducted and withheld shall not be collected from the employer, but the employer shall not be relieved from liability for any penalties, interest or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
@@ -14192,7 +15186,9 @@ If an employer fails to deduct and withhold the tax, as required, and thereafter
 
 
 
-*§ 11-1915 Combined returns, employer's returns and payments. * ::
+
+
+*§ 11-1915 Combined returns, employer's returns and payments.* ::
 
 
 The state tax commission may require:
@@ -14211,7 +15207,9 @@ The state tax commission may require:
 
 **Subchapter 2: Returns and Payment of Tax**
 
-*§ 11-1916 Returns and payment of tax. * ::
+
+
+*§ 11-1916 Returns and payment of tax.* ::
 
 
 (a) General. On or before the fifteenth day of the fourth month following the close of the taxable year, every person subject to the tax shall make and file a return and any balance of the tax shown due on the face of such return shall be paid therewith. The commissioner may, by regulation, provide for the filing of returns and payment of the tax at such other times as he or she deems necessary for the proper enforcement of this chapter. The commissioner may also provide by regulation that any return otherwise required to be made and filed under this chapter by any nonresident individual need not be made and filed if such nonresident individual had, during the taxable year to which the return would relate, no net earnings from self-employment within the city. Any regulation allowing such waiver of return may provide for additional limitations on and conditions and prerequisites to the privilege of not filing a return.
@@ -14229,7 +15227,9 @@ The state tax commission may require:
 
 
 
-*§ 11-1917 Time and place for filing returns and paying tax. * ::
+
+
+*§ 11-1917 Time and place for filing returns and paying tax.* ::
 
 
 A person required to make and file a return under this chapter shall, without assessment, notice or demand, pay any tax due thereon to the commissioner on or before the date fixed for filing such return (determined without regard to any extension of time for filing the return). The commissioner shall prescribe by regulation the place for filing any return, statement, or other document required pursuant to this chapter and for payment of any tax.
@@ -14237,7 +15237,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-1918 Signing of returns and other documents. * ::
+
+
+*§ 11-1918 Signing of returns and other documents.* ::
 
 
 (a) General. Any return, statement or other document required to be made pursuant to this chapter shall be signed in accordance with regulations or instructions prescribed by the commissioner. The fact that an individual's name is signed to a return, statement, or other document, shall be prima facie evidence for all purposes that the return, statement or other document was actually signed by such individual.
@@ -14249,7 +15251,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-1919 Change of residence status during year. * ::
+
+
+*§ 11-1919 Change of residence status during year.* ::
 
 
 (a) General. If an individual changes his or her status during his or her taxable year from resident to nonresident, or from nonresident to resident, he or she shall file a return as a nonresident for the portion of the year during which he or she is a nonresident if he or she is subject to the tax imposed by this chapter or, if not subject to such tax, an information return for the portion of the year during which he or she is a nonresident, subject to such exceptions as the commissioner may prescribe by regulation. Such information return shall be due at the same time as the return required by chapter seventeen of this title for the portion of the year during which such individual is a resident.
@@ -14271,7 +15275,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-1920 Extension of time. * ::
+
+
+*§ 11-1920 Extension of time.* ::
 
 
 (a) General. The commissioner may grant a reasonable extension of time for payment of tax or estimated tax (or any installment), or for filing any return, statement, or other document required pursuant to this chapter, on such terms and conditions as he or she may require. Except for a taxpayer who is outside the United States or who intends to claim nonresident status pursuant to subparagraphs (i), (ii) and (iii) of paragraph one of subdivision (h) of section 111901 of this chapter, no such extension for filing any return, statement or other document, shall exceed six months.
@@ -14281,7 +15287,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-1921 Requirements concerning returns, notices, records and statements. * ::
+
+
+*§ 11-1921 Requirements concerning returns, notices, records and statements.* ::
 
 
 (a) General. The commissioner may prescribe regulations as to the keeping of records, the content and form of returns and statements, and the filing of copies of federal income tax returns and determinations. The commissioner may require any person, by regulation or notice served upon such person, to make such returns, render such statements, or keep such records, as the commissioner may deem sufficient to show whether or not such person is liable under this chapter for tax or for collection of tax.
@@ -14295,7 +15303,9 @@ A person required to make and file a return under this chapter shall, without as
 
 
 
-*§ 11-1922 Report of change in federal or New York state taxable income. * ::
+
+
+*§ 11-1922 Report of change in federal or New York state taxable income.* ::
 
 
 If the amount of a taxpayer's federal or New York state taxable income or self-employment income reported on his or her federal or New York state tax return for any taxable year is changed or corrected by the United States internal revenue service or the New York state commissioner of taxation and finance or other competent authority, or as the result of a renegotiation of a contract or subcontract with the United States or New York state or if a taxpayer, pursuant to subsection (d) of section six thousand two hundred thirteen of the internal revenue code, executes a notice of waiver of the restrictions provided in subsection (a) of said section or if a taxpayer, pursuant to subdivision (f) of section six hundred eighty-one of the tax law executes a notice of waiver of the restrictions provided in subdivision (c) of said section, or if any tax on self-employment income in addition to that shown on his or her return is assessed, the taxpayer shall report such change or correction in federal or New York state taxable income or such execution of such notice of waiver or such assessment and the changes or corrections of his or her federal or New York state taxable income or self-employment income on which it is based, within ninety days after the final determination of such change, correction, or renegotiation, or such execution of such notice of waiver or the making of such assessment as otherwise required by the commissioner, and shall concede the accuracy of such determination or state wherein it is erroneous. Any taxpayer filing an amended federal or New York state income or self-employment income tax return shall also file within ninety days thereafter an amended return under this chapter, and shall give such information as the commissioner may require. The commissioner may by regulation prescribe such exceptions to the requirements of this section as he or she deems appropriate. For purposes of this section, (i) the term "taxpayer" shall include a partnership having any income derived from city sources, and (ii) the term "federal income tax return" shall include the returns of income required under section six thousand thirty-one of the internal revenue code. Reports made under this section by a partnership shall indicate the portion of the change in each item of income, gain, loss or deduction allocable to each partner and shall set forth such identifying information with respect to such partner as may be prescribed by the commissioner.
@@ -14306,7 +15316,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 **Subchapter 3: Procedure and Administration**
 
-*§ 11-1923 Notice of deficiency. * ::
+
+
+*§ 11-1923 Notice of deficiency.* ::
 
 
 (a) General. If upon examination of a taxpayer's return under this chapter the commissioner determines that there is a deficiency of tax, he or she may mail a notice of deficiency to the taxpayer. If a taxpayer fails to file a return required under this chapter, the commissioner is authorized to estimate the taxpayer's wages and net earnings from self-employment or the wages from which taxes are required to be deducted and withheld and the tax thereon, from any information in the commissioner's possession, and to mail a notice of deficiency to the taxpayer. A notice of deficiency shall be mailed by certified or registered mail to the taxpayer at such taxpayer's last known address in or out of the city. If the taxpayer is deceased or under a legal disability, a notice of deficiency may be mailed to or her last know address in or out of the city, unless the commissioner has received notice of the existence of a fiduciary relationship with respect to the taxpayer.
@@ -14332,7 +15344,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1924 Assessment. * ::
+
+
+*§ 11-1924 Assessment.* ::
 
 
 (a) Assessment date. The amount of tax which a return shows to be due, or the amount of tax which a return would have shown to be due but for a mathematical error, shall be deemed to be assessed on the date of filing of the return (including any amended return showing an increase of tax). In the case of a return properly filed without computation of tax, the tax computed by the commissioner shall be deemed to be assessed on the date on which payment is due. If a notice of deficiency has been mailed, the amount of the deficiency shall be deemed to be assessed on the date on which it is mailed. If an amended return or report filed pursuant to section 11-1922 of this chapter concedes the accuracy of a federal or New York state adjustment, change or correction, any deficiency in tax under this chapter resulting therefrom shall be deemed to be assessed on the date of filing such report or amended return, and such assessment shall be timely notwithstanding section 11-1925 of this subchapter. If a notice of additional tax due, as prescribed in subdivision (e) of section 11-1923 of this subchapter, has been mailed, the amount of the deficiency shall be deemed to be assessed on the date specified in such subdivision unless within thirty days after the mailing of such notice a report of the federal or New York state change or correction or an amended return, where such return was required by section 11-1922 of this chapter, is filed accompanied by a statement showing wherein such federal or New York state determination and such notice of additional tax due are erroneous. Any amount paid as a tax or in respect of a tax, other than amounts withheld at the source or paid as estimated income tax, shall be deemed to be assessed upon the date of receipt of payment, notwithstanding any other provisions.
@@ -14346,7 +15360,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1925 Limitations on assessment. * ::
+
+
+*§ 11-1925 Limitations on assessment.* ::
 
 
 (a) General. Except as otherwise provided in this section, any tax under this chapter shall be assessed within three years after the return was filed (whether or not such return was filed on or after the date prescribed).
@@ -14376,7 +15392,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1926 Interest on underpayment. * ::
+
+
+*§ 11-1926 Interest on underpayment.* ::
 
 
 (a) General. If any amount of tax is not paid on or before the last date prescribed in this chapter for payment, interest on such amount at the appropriate rates prescribed for underpayments of tax under chapter seventeen of this title shall be paid for the period from such last date to the date paid, whether or not any extension of time for payment was granted. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar. If the time for filing a return of tax withheld by an employer is extended, the employer shall pay interest for the period for which the extension is granted and may not charge such interest to the employee. (c) Exception for mathematical error. No interest shall be imposed on any underpayment of tax due solely to mathematical error if the taxpayer files a return within the time prescribed in this chapter (including any extension of time) and pays the amount of underpayment within three months after the due date of such return, as it may be extended.
@@ -14404,7 +15422,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1927 Additions to tax and civil penalties. * ::
+
+
+*§ 11-1927 Additions to tax and civil penalties.* ::
 
 
 (a) Failure to file tax return. In case of failure to file a tax return under this chapter on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on such return five percent of the amount of such tax if the failure is for not more than one month, with an additional five percent for each additional month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate. For this purpose, the amount of tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed upon the return.
@@ -14454,7 +15474,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1928 Overpayment. * ::
+
+
+*§ 11-1928 Overpayment.* ::
 
 
 (a) General. The commissioner, within the applicable period of limitations, may credit an overpayment of tax and interest on such overpayment against any liability in respect of any tax imposed by this chapter or by another chapter or chapters of this title on the person who made the overpayment, and the balance shall be refunded. Any refund under this section shall be made only upon the filing of a return.
@@ -14474,7 +15496,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1929 Limitations on credit or refund. * ::
+
+
+*§ 11-1929 Limitations on credit or refund.* ::
 
 
 (a) General. Claim for credit or refund of an overpayment of tax shall be filed by the taxpayer within three years from the time the return was filed or two years from the time the tax was paid, whichever of such periods expires the later, or if no return was filed, within two years from the time the tax was paid. If the claim is filed within the three year period, the amount of the credit or refund shall not exceed the portion of the tax paid within the three years immediately preceding the filing of the claim plus the period of any extension of time for filing the return. If the claim is not filed within the three year period, but is filed within the two year period, the amount of the credit or refund shall not exceed the portion of the tax paid during the two years immediately preceding the filing of the claim. Except as otherwise provided in this section, if no claim is filed, the amount of a credit or refund shall not exceed the amount which would be allowable if a claim had been filed on the date the credit or refund is allowed.
@@ -14516,7 +15540,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1930 Interest on overpayment. * ::
+
+
+*§ 11-1930 Interest on overpayment.* ::
 
 
 (a) General. Notwithstanding the provisions of section three-a of the general municipal law, interest shall be allowed and paid as follows at the appropriate rates prescribed for overpayments of tax under chapter seventeen of this title upon any overpayment in respect of the tax imposed by this chapter:
@@ -14534,7 +15560,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1931 Petition to commissioner. * ::
+
+
+*§ 11-1931 Petition to commissioner.* ::
 
 
 (a) General. The form of a petition to the commissioner, and further proceedings before the commissioner in any case initiated by the filing of a petition, shall be governed by such rules as the commissioner shall prescribe. No petition shall be denied in whole or in part without opportunity for a hearing on reasonable prior notice. Such hearing shall be conducted by the commissioner, or by a hearing officer designated by the commissioner to take evidence and report to the commissioner. The commissioner shall decide the case as quickly as practicable. Notice of the decision shall be mailed promptly to the taxpayer by certified or registered mail at his or her last known address and such notice shall set forth the commissioner's findings of fact and a brief statement of the grounds of decision in each case decided in whole or in part adversely to the taxpayer. Any portion of an assessment of a deficiency disallowed by the commissioner's decision, shall be forthwith abated, or if paid, credited or refunded to the taxpayer without the making of a claim therefor.
@@ -14582,7 +15610,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1932 Review of commissioner's decision. * ::
+
+
+*§ 11-1932 Review of commissioner's decision.* ::
 
 
 (a) General. A decision of the commissioner shall be subject to judicial review for error, illegality or unconstitutionality at the instance of any taxpayer affected thereby in the manner provided by law for the review of a final decision or action of administrative agencies of the city. An application by a taxpayer for such review must be made within four months after notice of the decision is sent by certified or registered mail to the taxpayer.
@@ -14598,7 +15628,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1933 Mailing rules; holidays. * ::
+
+
+*§ 11-1933 Mailing rules; holidays.* ::
 
 
 (a) Timely mailing. If any claim, statement, notice, petition, or other document (including to the extent authorized by the commissioner, a return or declaration of estimated tax) required to be filed within a prescribed period or on or before a prescribed date under authority of any provision of this chapter is, after such period or such date, delivered by the United States mail to the commissioner, bureau, office, officer or person with which or with whom such document is required to be filed, the date of the United States postmark stamped on the envelope shall be deemed to be the date of delivery. This subdivision shall apply only if the postmark date falls within the prescribed period or on or before the prescribed date for the filing of such document, determined with regard to any extension granted for such filing, and only if such document was deposited in the mail, postage prepaid, properly addressed to the commissioner, bureau, office, officer or person with which or with whom the document is required to be filed. If any document is sent by United States registered mail, such registration shall be prima facie evidence that such document was delivered to the commissioner, bureau, office, officer or person to which or to whom addressed. To the extent that the commissioner shall prescribe by regulation, certified mail may be used in lieu of registered mail under this section. This subdivision shall apply in the case of postmarks not made by the United States post office only if and to the extent provided by regulations of the commissioner.
@@ -14610,7 +15642,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1934 Collection, levy and liens. * ::
+
+
+*§ 11-1934 Collection, levy and liens.* ::
 
 
 (a) Collection procedures. The taxes imposed by this chapter shall be collected by the commissioner, and he or she may establish the mode or time for the collection of any amount due the commissioner under this chapter if not otherwise specified. The commissioner shall, upon request, give a receipt for any sum collected under this chapter. The commissioner may authorize banks or trust companies which are depositories or financial agents of the city to receive and give a receipt for any tax imposed under this chapter in such manner, at such times, and under such conditions as the commissioner may prescribe; and the commissioner shall prescribe the manner, times and conditions under which the receipt of such tax by such banks and trust companies is to be treated as payment of such tax to the commissioner.
@@ -14634,7 +15668,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1935 Transferees. * ::
+
+
+*§ 11-1935 Transferees.* ::
 
 
 (a) General. The liability, at law or in equity, of a transferee of property of a taxpayer for any tax, additions to tax, penalty or interest due to the city under this chapter, shall be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the tax to which liability relates, except that the period of limitations for assessment against the transferee shall be extended by one year for each successive transfer, in order, from the original taxpayer to the transferee involved, but not by more than three years in the aggregate. The term "transferee" includes donee, heir, legatee, devisee and distributee; and also includes a person liable for the amount of any tax, additions to tax, penalty or interest under the provisions of section 11-1936 of this subchapter.
@@ -14652,7 +15688,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
-*§ 11-1936 Liability of bulk transferees. * ::
+
+
+*§ 11-1936 Liability of bulk transferees.* ::
 
 
 Whenever there is made a sale, transfer or assignment in bulk of any part or the whole of a stock of merchandise or of fixtures, or merchandise and of fixtures pertaining to the conducting of the business of the seller, transferor or assignor, otherwise than in the ordinary course of trade and in the regular prosecution of said business, the purchaser, transferee or assignee shall at least ten days before taking possession of such merchandise, fixtures, or merchandise and fixtures, or paying therefor, notify the commissioner by registered mail of the proposed sale and of the price, terms and conditions thereof, whether or not the seller, transferor or assignor, has represented to, or informed the purchaser, transferee or assignee, that it owes any tax pursuant to this chapter, whether or not the purchaser, transferee or assignee has knowledge that such taxes are owing, and whether or not any such taxes are in fact owing. Whenever the purchaser, transferee or assignee shall fail to give the notice to the commissioner required by this section, or whenever the commissioner shall inform the purchaser, transferee or assignee that a possible claim for such tax or taxes exists, any sums of money, property or choses in action, or other consideration, which the purchaser, transferee or assignee is required to transfer over to the seller, transferor or assignor shall be subject to a first priority right and lien for any such taxes theretofore or thereafter determined to be due from the seller, transferor or assignor to the city, and the purchaser, transferee or assignee is forbidden to transfer to the seller, transferor or assignor any such sums of money, property or choses in action to the extent of the amount of the city's claim. For failure to comply with the provisions of this subdivision the purchaser, transferee or assignee, in addition to being subject to the liabilities and remedies imposed under the provisions of article six of the uniform commercial code, shall be personally liable for the payment to the city of any such taxes, theretofore or thereafter determined to be due to the city from the seller, transferor or assignor and such liability may be assessed and enforced in the same manner as the liability for tax is imposed under this chapter.
@@ -14660,7 +15698,9 @@ Whenever there is made a sale, transfer or assignment in bulk of any part or the
 
 
 
-*§ 11-1937 Jeopardy determination or assessment. * ::
+
+
+*§ 11-1937 Jeopardy determination or assessment.* ::
 
 
 (a) Authority for making. If the commissioner believes that the assessment or collection of a deficiency will be jeopardized by delay, he or she shall, notwithstanding the provisions of sections 11-1923 and 11-1939 of this subchapter, immediately assess and/or proceed to collect such deficiency (together with all interest, penalties and additions to tax provided for by law), and notice and demand shall be made by the commissioner for the payment thereof.
@@ -14698,7 +15738,9 @@ Whenever there is made a sale, transfer or assignment in bulk of any part or the
 
 
 
-*§ 11-1938 Criminal penalties. * ::
+
+
+*§ 11-1938 Criminal penalties.* ::
 
 
 (a) Attempt to evade tax. Any individual, corporation or partnership or any officer or employee of any corporation, or member or employee of any partnership, who, with intent to evade any tax or any requirement of this chapter or any lawful requirement of the commissioner thereunder, shall fail to pay the tax, or to make, render, sign or certify any return or declaration of estimated tax, or to supply any information within the time required by or under the provisions of this chapter, or who, with like intent, shall make, render, sign or certify any false or fraudulent return, declaration or statement, or shall supply any false or fraudulent information, or who shall fail to comply with the provisions of subdivision (b) of section 11-1912 of this chapter after the service of a notice by the commissioner thereunder, shall be guilty of a misdemeanor and shall, upon conviction, be fined not to exceed five thousand dollars or be imprisoned not to exceed one year, or both, at the discretion of the court.
@@ -14714,7 +15756,9 @@ Whenever there is made a sale, transfer or assignment in bulk of any part or the
 
 
 
-*§ 11-1939 Armed forces relief provisions. * ::
+
+
+*§ 11-1939 Armed forces relief provisions.* ::
 
 
 (a) Time to be disregarded. In the case of an individual serving in the armed forces of the United States or serving in support of such armed forces, in an area designated by the president of the United States by executive order as a "combat zone" at any time during the period designated by the president by executive order as the period of combatant activities in such zone, or hospitalized outside the state as a result of injury received while serving in such an area during such time, the period of service in such area, plus the period of continuous hospitalized outside the state attributable to such injury, and the next one hundred eighty days thereafter, shall be disregarded in determining, under this chapter in respect of the tax liability (including any interest, penalty, or addition to the tax) of such individual:
@@ -14748,7 +15792,9 @@ Whenever there is made a sale, transfer or assignment in bulk of any part or the
 
 
 
-*§ 11-1940 General powers of commissioner. * ::
+
+
+*§ 11-1940 General powers of commissioner.* ::
 
 
 (a) General. The commissioner shall administer and enforce the tax imposed by this chapter and the commissioner is authorized to make such rules and regulations, and to require such facts and information to be reported, as the commissioner may deem necessary to enforce the provisions of this chapter and the commissioner may delegate his or her powers and functions under all subchapters of this chapter to one of his or her deputies or to any employee or employees of his or her department.
@@ -14764,7 +15810,9 @@ Whenever there is made a sale, transfer or assignment in bulk of any part or the
 
 
 
-*§ 11-1941 Joint enforcement. * ::
+
+
+*§ 11-1941 Joint enforcement.* ::
 
 
 (1) If there is assessed a tax under this chapter and there is also assessed a tax or taxes against the same taxpayer pursuant to article twenty-two of the tax law and if the commissioner of the tax imposed by this chapter takes action under the tax law with respect to the enforcement and collection of the tax or taxes assessed under such tax law, the commissioner shall, wherever possible, accompany such action with a similar action under similar enforcement and collection provisions of this chapter.
@@ -14776,7 +15824,9 @@ Whenever there is made a sale, transfer or assignment in bulk of any part or the
 
 
 
-*§ 11-1942 Secrecy requirement and penalties for violation. * ::
+
+
+*§ 11-1942 Secrecy requirement and penalties for violation.* ::
 
 
 1. Except in accordance with proper judicial order or as otherwise provided by law, it shall be unlawful for the commissioner or any other officer or employee of the department of finance of the city, any person engaged or retained by such commissioner or department on an independent contract basis, any depository to which any return may be delivered as provided in subdivision two of this section, any officer or employee of such depository, or any person who, pursuant to this section, is permitted to inspect any report or return or to whom a copy, an abstract or a portion of any report or return is furnished, or to whom any information contained in any report or return is furnished, to divulge or make known in any manner the amount of wages or earnings or any particulars set forth or disclosed in any report or return required under this chapter. The commissioner or any other officer and employee charged with the custody of such reports and returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the city in an action or proceeding under the provisions of this chapter or in any other action or proceeding involving the collection of a tax due under this chapter to which the city is a party or a claimant, or on behalf of any party to any action or proceeding under the provisions of this chapter when the reports, returns or facts shown thereby are directly involved in such action or proceeding, in any of which events the court may require the production of, and may admit in evidence, so much of said reports, returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more; except as provided in subdivision (e) of section 11-1940 of this subchapter. The commissioner may, nevertheless, publish a copy or a summary of any determination or decision rendered after the hearing required under section 11-1931 of this subchapter of this chapter. Nothing herein shall be construed to prohibit the delivery to a taxpayer or the taxpayers's duly authorized representative of a certified copy of any return or report filed in connection with his or her tax or to prohibit the publication of statistics so classified as to prevent the identification of particular reports or returns and the items thereof, or the inspection by the legal representatives of the city of the report or return of any taxpayer who shall bring action to set aside or review the tax based thereon, or against whom an action or proceeding under this chapter has been recommended by the commissioner. Reports and returns shall be preserved for three years and thereafter until the commissioner orders them to be destroyed. Any violation of the provisions of this section shall be punished by a fine not exceeding one thousand dollars or by imprisonment not exceeding one year, or both, at the discretion of the court, and if the offender be the commissioner or any other officer or employee of the city, he or she shall be dismissed from office and be incapable of holding any public office in the city or the state for a period of five years thereafter.
@@ -14786,7 +15836,9 @@ Whenever there is made a sale, transfer or assignment in bulk of any part or the
 
 
 
-*§ 11-1943 Provisions not applicable. * ::
+
+
+*§ 11-1943 Provisions not applicable.* ::
 
 
 The provisions contained in this subchapter shall not be applicable with respect to taxes imposed for taxable periods commencing on or after January first, nineteen hundred seventy-six but, with respect to the tax imposed for such periods the provisions contained in part VI of article twenty-two of the tax law and sections six hundred fifty-three, six hundred fifty-eight, six hundred sixty-two and thirteen hundred eleven of the tax law including the provisions of judicial review by a proceeding under article seventy-eight of the civil practice law and rules shall be applicable with the same force and effect as if those provisions had been incorporated in full in this section except where inconsistent with the provisions of this chapter.
@@ -14794,7 +15846,9 @@ The provisions contained in this subchapter shall not be applicable with respect
 
 
 
-*§ 11-1944 Deposit and disposition of revenues by commissioner. * ::
+
+
+*§ 11-1944 Deposit and disposition of revenues by commissioner.* ::
 
 
 All taxes, penalties and interest imposed under this chapter which are paid to or collected by the commissioner of finance shall be deposited by the commissioner of finance in the general fund of the city.
@@ -14802,7 +15856,9 @@ All taxes, penalties and interest imposed under this chapter which are paid to o
 
 
 
-*§ 11-1945 Effect of invalidity in part; inconsistencies with other laws. * ::
+
+
+*§ 11-1945 Effect of invalidity in part; inconsistencies with other laws.* ::
 
 
 (a) If any clause, sentence, paragraph, subdivision, section, provision or other portion of this chapter or the application thereof to any person or circumstances shall be held to be invalid, such holding shall not affect, impair or invalidate the remainder of this chapter or the application of such portion held invalid, to any other person or circumstances, but shall be confined in its operation to the clause, sentence, paragraph, subdivision, section, provision or other portion thereof directly involved in such holding or to the person and circumstances therein involved.
@@ -14818,7 +15874,9 @@ Chapter 20: Sales, Excise and Related Taxes
 
 **Subchapter 1: General Sales and Compensating Use Taxes**
 
-*§ 11-2001 Imposition of general sales and compensating use taxes. * ::
+
+
+*§ 11-2001 Imposition of general sales and compensating use taxes.* ::
 
 
 (a) There are hereby imposed and there shall be paid all of the sales and compensating use taxes described in article twenty-eight of the tax law as authorized by subdivision (a) of section twelve hundred ten of the tax law, at the rate of four and one-half percent, provided that the taxes described in paragraph six of subdivision (c) of section eleven hundred five of the tax law shall be imposed and paid at the rate of six percent.
@@ -14854,7 +15912,9 @@ Chapter 20: Sales, Excise and Related Taxes
 
 
 
-*§ 11-2002 Imposition of special sales taxes. * ::
+
+
+*§ 11-2002 Imposition of special sales taxes.* ::
 
 
 (a) There are hereby imposed and there shall be paid sales taxes at the rate of four and one-half percent on receipts from every sale of the services of beauty, barbering, hair restoring, manicuring, pedicuring, electrolysis, massage services and similar services, and every sale of services by weight control salons, health salons, gymnasiums, turkish and sauna bath and similar establishments and every charge for the use of such facilities, whether or not any tangible personal property is transferred in conjunction therewith; but excluding services rendered by a physician, osteopath, dentist, nurse, physiotherapist, chiropractor, podiatrist, optometrist, ophthalmic dispenser or a person performing similar services licensed under title eight of the education law, as amended, and excluding such services when performed on pets and other animals, as authorized by subdivision (a) of section twelve hundred twelve-A of the tax law. Provided, however, that the tax hereby imposed shall not be imposed after November thirtieth, two thousand twenty.
@@ -14877,7 +15937,9 @@ Chapter 20: Sales, Excise and Related Taxes
 
 **Subchapter 2: Tax On Motor Fuel Containing Tetra Ethyl Lead**
 
-*§ 11-2033 Definition. [Repealed] * ::
+
+
+*§ 11-2033 Definition. [Repealed]* ::
 
 
 (a) "Person" includes an individual, partnership, society, association, joint-stock company, corporation, estate, receiver, trustee, assignee, referee, and any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of the foregoing.
@@ -14899,7 +15961,9 @@ Chapter 20: Sales, Excise and Related Taxes
 
 
 
-*§ 11-2040 Imposition of tax. * ::
+
+
+*§ 11-2040 Imposition of tax.* ::
 
 
 (a) There is hereby imposed within the city and there shall be paid a tax at the rate of four and one-half percent upon the receipts from every sale, except for resale, of the following services, provided, however, that the tax hereby imposed shall not be imposed after November thirtieth, two thousand twenty, on receipts from sales of the services specified in paragraph one of this subdivision:
@@ -14919,7 +15983,9 @@ Chapter 20: Sales, Excise and Related Taxes
 
 
 
-*§ 11-2041 Transitional provisions. * ::
+
+
+*§ 11-2041 Transitional provisions.* ::
 
 
 The taxes imposed under paragraph one of subdivision (a) of section 11-2040 of this subchapter shall be paid with respect to receipts from all sales of services on or after September first, nineteen hundred seventy-five although rendered or agreed to be rendered under a prior contract. Where a service is sold on a monthly, quarterly, yearly or other term basis, the charge for such service shall be subject to tax under this subchapter to the extent that such charge is applicable to any period on or after September first, nineteen hundred seventy-five, and such charge shall be apportioned on the basis of the ratio of the number of days falling within such period to the total number of days in the full term or period.
@@ -14927,7 +15993,9 @@ The taxes imposed under paragraph one of subdivision (a) of section 11-2040 of t
 
 
 
-*§ 11-2042 Exempt organizations. * ::
+
+
+*§ 11-2042 Exempt organizations.* ::
 
 
 Except as otherwise provided in this section, any sale by or to any of the following shall not be subject to the taxes imposed by this subchapter:
@@ -14951,7 +16019,9 @@ Except as otherwise provided in this section, any sale by or to any of the follo
 
 
 
-*§ 11-2043 Refunds or credits based on proof of certain uses. * ::
+
+
+*§ 11-2043 Refunds or credits based on proof of certain uses.* ::
 
 
 A refund or credit equal to the amount of the sales or compensating use tax imposed by section eleven hundred seven of the tax law or by section 11-2001 of this chapter, as the case may be, and paid on the sale or use of tangible personal property which is later used by such purchaser in performing a service subject to tax under this subchapter shall be allowed such purchaser against the tax imposed by this subchapter and collected by such person on the sale of such services if such property has become a physical component part of the property upon which the service is performed or has been transferred to the purchaser of the service in conjunction with the performance of the service subject to tax; provided, however, that any such refund or credit shall be without interest.
@@ -14959,7 +16029,9 @@ A refund or credit equal to the amount of the sales or compensating use tax impo
 
 
 
-*§ 11-2044 Administration and collection. * ::
+
+
+*§ 11-2044 Administration and collection.* ::
 
 
 The taxes imposed by section 11-2040 of this subchapter shall be administered and collected by the tax commission in the same manner as the taxes imposed by article twenty-eight of the tax law are administered and collected by such commission. All of the provisions of such article relating to or applicable to the administration and collection of the taxes imposed by that article shall apply to the taxes imposed by this subchapter, including sections eleven hundred one, eleven hundred eleven, and sections eleven hundred thirty-one through eleven hundred forty-seven, with the same force and effect as if those provisions had been incorporated in full into this subchapter and had expressly referred to the taxes imposed by this subchapter, except as otherwise provided in section twelve hundred fifty of the tax law. For purposes of this subchapter, the term "tax" in part IV of such article twenty-eight shall include the taxes imposed by this subchapter.
@@ -14967,7 +16039,9 @@ The taxes imposed by section 11-2040 of this subchapter shall be administered an
 
 
 
-*§ 11-2045 Deposit and disposition of revenue. * ::
+
+
+*§ 11-2045 Deposit and disposition of revenue.* ::
 
 
 (a) The tax commission shall deposit daily to the credit of the comptroller of the state of New York, all taxes, penalties and interest collected under this subchapter in such responsible banks, banking houses or trust companies as may be designated by the comptroller. Such deposits shall be kept in trust for the city and separate and apart from all other monies in the possession of the comptroller. The comptroller shall require adequate security from all such depositories. Of the revenue collected under this subchapter the comptroller shall retain in his or her hands such amount as the commissioner of taxation and finance of the state of New York may determine to be necessary for refunds under this subchapter and for reasonable costs of the tax commission in administering, collecting and distributing the taxes under this subchapter, out of which the comptroller shall pay any refunds made under the provisions of this subchapter. The comptroller, after reserving such refund fund and such costs, shall on or before the twelfth day of each month, pay to the commissioner of finance of this city all taxes, interest and penalties collected under this subchapter and remaining to the comptroller's credit in such banks, banking houses or trust companies at the close of business on the last day of the preceding month, provided, however, that the comptroller shall on or before the last day of June and December make a partial payment consisting of the collections made during and including the first twenty-five days of said months to the commissioner of finance of this city. The amount so payable shall be certified to the comptroller by the president of the tax commission or such president's delegate, who shall not be held liable for any inaccuracy in such certificate. Where the amount so paid over in any such distribution is more or less than the amount then due to this city, the amount of the overpayment or underpayment shall be certified to the comptroller by the president of the tax commission or such president's delegate, who shall not be held liable for any inaccuracy in such certificate. The amount of the overpayment shall be so certified to the comptroller as soon after the discovery of the overpayment or underpayment as reasonably possible and subsequent payments and distributions by the comptroller to this city shall be adjusted by subtracting the amount of any such overpayment from or by adding the amount of any such underpayment to such number of subsequent payments and distributions as the comptroller and the president of the state tax commission shall consider reasonable in view of the amount of the overpayment or underpayment and all other facts and circumstances.
@@ -14977,7 +16051,9 @@ The taxes imposed by section 11-2040 of this subchapter shall be administered an
 
 
 
-*§ 11-2046 Construction and enforcement. * ::
+
+
+*§ 11-2046 Construction and enforcement.* ::
 
 
 This subchapter shall be construed and enforced in conformity with articles twenty-eight and twenty-nine of the tax law of the state of New York pursuant to which it is enacted.
@@ -14985,7 +16061,9 @@ This subchapter shall be construed and enforced in conformity with articles twen
 
 
 
-*§ 11-2047 Effective date. * ::
+
+
+*§ 11-2047 Effective date.* ::
 
 
 This subchapter shall take effect September first, nineteen hundred seventy-five except that certificates of registration may be filed with the state tax commission and certificates of authority to collect tax may be issued by the state tax commission prior to such date.
@@ -14996,7 +16074,9 @@ This subchapter shall take effect September first, nineteen hundred seventy-five
 
 **Subchapter 4: Additional Parking Tax**
 
-*§ 11-2048 Definitions. * ::
+
+
+*§ 11-2048 Definitions.* ::
 
 
 (a) "Person" includes an individual, partnership, society, association, joint-stock company, corporation, estate, receiver, trustee, assignee, referee, and any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of the foregoing.
@@ -15018,7 +16098,9 @@ This subchapter shall take effect September first, nineteen hundred seventy-five
 
 
 
-*§ 11-2049 Imposition of tax. * ::
+
+
+*§ 11-2049 Imposition of tax.* ::
 
 
 On and after September first, nineteen hundred eighty, there is hereby imposed within the city of New York, and there shall be paid, a tax at the rate of eight percent on receipts from every sale of the service of providing parking, garaging or storing for motor vehicles by persons operating a garage (other than a garage which is part of premises occupied solely as a private one or two family dwelling), parking lot or other place of business engaged in providing parking, garaging or storing for motor vehicles, in every county within the city of New York with a population density in excess of fifty thousand persons per square mile, as determined by reference to the latest federal census; provided, however, that receipts for such services paid to a homeowner's association by its members or receipts paid by members of a homeowner's association to a person leasing the parking facility from the homeowner's association shall not be subject to the tax imposed by this section. For purposes of this section, a homeowner's association is an association (including a cooperative housing or apartment corporation) (i) the membership of which is comprised exclusively of owners or residents of residential dwelling units, including owners of units in a condominium, and including shareholders in a cooperative housing or apartment corporation, where such units are located in a defined geographical area such as a housing development or subdivision; and (ii) which owns or operates a garage, parking lot or other place of business engaged in providing parking, garaging or storing for motor vehicles located in such area for use (whether or not exclusive) by such owners or residents. The tax imposed on the receipts described in this section is in addition to the tax imposed on such receipts under subchapter one of this chapter or section eleven hundred seven of the tax law, as the case may be.
@@ -15026,7 +16108,9 @@ On and after September first, nineteen hundred eighty, there is hereby imposed w
 
 
 
-*§ 11-2050 Transitional provisions. * ::
+
+
+*§ 11-2050 Transitional provisions.* ::
 
 
 The taxes imposed by this subchapter shall be paid with respect to receipts from all sales of services on or after September first, nineteen hundred eighty although rendered or agreed to be rendered under a prior contract. Where a service is sold on a monthly, quarterly, yearly or other term basis, the charge for such service shall be subject to tax under this subchapter to the extent that such charge is applicable to any period on or after September first, nineteen hundred eighty, and such charge shall be apportioned on the basis of the ratio of the number of days falling within such period to the total number of days in the full term or period.
@@ -15034,7 +16118,9 @@ The taxes imposed by this subchapter shall be paid with respect to receipts from
 
 
 
-*§ 11-2051 Exempt organizations and individuals. * ::
+
+
+*§ 11-2051 Exempt organizations and individuals.* ::
 
 
 (a) Except as otherwise provided in this section, any sale by or to any of the following shall not be subject to the taxes imposed by this subchapter:
@@ -15072,7 +16158,9 @@ The taxes imposed by this subchapter shall be paid with respect to receipts from
 
 
 
-*§ 11-2052 Administration and collection; penalties; refunds. * ::
+
+
+*§ 11-2052 Administration and collection; penalties; refunds.* ::
 
 
 (a) The taxes imposed by this subchapter shall be administered and collected by the tax commission in the same manner as the taxes imposed by article twenty-eight of the tax law are administered and collected by such commission. All of the provisions of such article relating to or applicable to the administration and collection of the taxes imposed by that article shall apply to the taxes imposed by this subchapter, including section eleven hundred one and sections eleven hundred thirty-one through eleven hundred forty-seven, with the same force and effect as if those provisions had been incorporated in full into this subchapter and had expressly referred to the taxes imposed by this subchapter, except to the extent that any provisions of such article twenty-eight are either inconsistent with a provision of this subchapter, or of article twenty-nine of the tax law, or are not relevant to this subchapter or to article twenty-nine of the tax law. For purposes of this subchapter, the term "tax" in part IV of such article twenty-eight shall include the taxes imposed by this subchapter.
@@ -15086,7 +16174,9 @@ The taxes imposed by this subchapter shall be paid with respect to receipts from
 
 
 
-*§ 11-2053 Deposit and disposition of revenue. * ::
+
+
+*§ 11-2053 Deposit and disposition of revenue.* ::
 
 
 (a) The tax commission shall deposit daily to the credit of the comptroller of the state of New York, all taxes, penalties and interest collected under this subchapter in such responsible banks, banking houses or trust companies as may be designated by the comptroller. Such deposits shall be kept in trust for the city and separate and apart from all other monies in the possession of the comptroller. The comptroller shall require adequate security from all such depositories. Of the revenue collected under this subchapter the comptroller shall retain in his or her hands such amount as the commissioner of taxation and finance of the state of New York may determine to be necessary for refunds under this subchapter and for reasonable costs of the tax commission in administering, collecting and distributing the taxes under this subchapter, out of which the comptroller shall pay any refunds made under the provisions of this subchapter. The comptroller, after reserving such refund fund and such costs shall, on or before the twelfth day of each month, pay to the commissioner of finance of this city all taxes, interest and penalties collected under this subchapter during the next preceding calendar month and remaining to the comptroller's credit in such banks, banking houses or trust companies at the close of business on the last day of such preceding month, provided, however, that the comptroller shall on or before the last day of June and December make a partial payment consisting of the collections made during and including the first twenty-five days of said months to the commissioner of finance of this city. The amount so payable shall be certified to the comptroller by the president of the tax commission or such president's delegate, who shall not be held liable for any inaccuracy in such certificate. Provided, however, any such certification may be based on such information as may be available to the tax commission at the time such certificate must be made under this section and may be estimated on the basis of percentages or other indices calculated from distributions for prior periods. Where the amount so paid over in any such distribution is more or less than the amount then due to this city, the amount of the overpayment or underpayment shall be certified to the comptroller by the president of the tax commission or such president's delegate, who shall not be held liable for any inaccuracy in such certificate. The amount of the overpayment or underpayment shall be so certified to the comptroller as soon after the discovery of the overpayment or underpayment as reasonably possible and subsequent payments and distributions by the comptroller to this city shall be adjusted by subtracting the amount of any such overpayment from or by adding the amount of any such underpayment to such number of subsequent payments and distributions as the comptroller and the president of the tax commission shall consider reasonable in view of the amount of the overpayment or underpayment and all other facts and circumstances.
@@ -15096,7 +16186,9 @@ The taxes imposed by this subchapter shall be paid with respect to receipts from
 
 
 
-*§ 11-2054 Construction and enforcement. * ::
+
+
+*§ 11-2054 Construction and enforcement.* ::
 
 
 This subchapter shall be construed and enforced in conformity with articles twenty-eight and twenty-nine of the tax law of the state of New York pursuant to which it is enacted.
@@ -15107,7 +16199,9 @@ This subchapter shall be construed and enforced in conformity with articles twen
 
 **Subchapter 5: Tax On Beer and Liquor**
 
-*§ 11-2055 Definitions. * ::
+
+
+*§ 11-2055 Definitions.* ::
 
 
 When used in this subchapter the following terms shall mean or include:
@@ -15145,7 +16239,9 @@ When used in this subchapter the following terms shall mean or include:
 
 
 
-*§ 11-2056 Imposition of tax. * ::
+
+
+*§ 11-2056 Imposition of tax.* ::
 
 
 (a) There are hereby imposed on a distributor and a noncommercial importer excise taxes at the following rates:
@@ -15169,7 +16265,9 @@ When used in this subchapter the following terms shall mean or include:
 
 
 
-*§ 11-2057 Manner of administration and collection. * ::
+
+
+*§ 11-2057 Manner of administration and collection.* ::
 
 
 All the provisions of article eighteen of the tax law shall apply to the taxes imposed by subdivision (a) of section 11-2056 of this subchapter, and the provisions of sections four hundred twenty, four hundred twenty-six, four hundred twenty-nine through four hundred thirty-four, four hundred thirty-six and four hundred thirty-seven of article eighteen of the tax law shall apply to the tax imposed by subdivision (b) of section 11-2056 of this subchapter, so far as such article or sections can be made applicable to the taxes imposed by this subchapter with such limitations as set forth in section four hundred forty-five of the tax law and such modifications as may be necessary in order to adapt such language to the taxes imposed by this subchapter.
@@ -15177,7 +16275,9 @@ All the provisions of article eighteen of the tax law shall apply to the taxes i
 
 
 
-*§ 11-2058 State tax commission; administration. * ::
+
+
+*§ 11-2058 State tax commission; administration.* ::
 
 
 The taxes imposed by this subchapter shall be administered and collected by the tax commission in the same manner as the taxes imposed under sections four hundred twenty-four and four hundred twenty-five of article eighteen of the tax law subject to all provisions of that article as may be applicable. The tax commission may make such provisions as it deems necessary for the joint administration and collection of the state and local taxes imposed and authorized by article eighteen of the tax law and this subchapter. Nothing in such article eighteen or this subchapter which requires payment of both state and local taxes to the tax commission shall be construed as the payment of either tax more than once.
@@ -15185,7 +16285,9 @@ The taxes imposed by this subchapter shall be administered and collected by the 
 
 
 
-*§ 11-2059 Disposition of revenues. * ::
+
+
+*§ 11-2059 Disposition of revenues.* ::
 
 
 All taxes, penalties and interest imposed by this subchapter, which are collected by the tax commission, shall be deposited daily with such responsible banks, banking houses or trust companies, as may be designated by the state comptroller, to the credit of the comptroller, in trust for this city. Such deposits shall be kept in trust and separate and apart from all other monies in the possession of the comptroller. The comptroller shall require adequate security from all such depositories of such revenues collected by the tax commission. The comptroller shall retain in his or her hands such amount as the commissioner of taxation and finance may determine to be necessary for refunds in respect of the taxes imposed by this subchapter, and for reasonable costs of the state tax commission in administering, collecting and distributing such taxes, out of which the comptroller shall pay any refunds of such taxes to which taxpayers shall be entitled under the provisions of this subchapter. The comptroller, after reserving such refund and such costs shall, on or before the twelfth day of each month, pay to the commissioner of finance the taxes penalties and interest imposed by this subchapter, collected by the state tax commission pursuant to this subchapter during the next preceding calendar month. The amount so payable shall be certified to the comptroller by the president of the state tax commission or his or her delegate, who shall not be held liable for any inaccuracy in such certificate. Where the amount so paid over to the city in any such distribution is more or less than the amount then due to the city, the amount of the overpayment or underpayment shall be certified to the comptroller by the president of the state tax commission or his or her delegate, who shall not be held liable for any inaccuracy in such certificate. The amount of the overpayment or underpayment shall be so certified to the comptroller as soon after the discovery of the overpayment or underpayment as reasonably possible and subsequent payments and distributions by the comptroller to the city shall be adjusted by subtracting the amount of any such overpayment from or by adding the amount of any such underpayment to such number of subsequent payments and distributions as the comptroller and the president of the state tax commission shall consider reasonable in view of the amount of the overpayment or underpayment and all other facts or circumstances.
@@ -15193,7 +16295,9 @@ All taxes, penalties and interest imposed by this subchapter, which are collecte
 
 
 
-*§ 11-2060 Construction. * ::
+
+
+*§ 11-2060 Construction.* ::
 
 
 This subchapter shall be construed and enforced in conformity with section four hundred forty-five of the tax law, pursuant to which it is enacted.
@@ -15204,7 +16308,9 @@ This subchapter shall be construed and enforced in conformity with section four 
 Chapter 21: Real Property Transfer Tax
 --------------------------------------------------
 
-*§ 11-2101 Definitions. * ::
+
+
+*§ 11-2101 Definitions.* ::
 
 
 When used in this title the following terms shall mean or include:
@@ -15248,7 +16354,9 @@ When used in this title the following terms shall mean or include:
 
 
 
-*§ 11-2102 Imposition of tax. * ::
+
+
+*§ 11-2102 Imposition of tax.* ::
 
 
 a. A tax is hereby imposed on each deed at the time of delivery by a grantor to a grantee when the consideration for the real property and any improvement thereon (whether or not included in the same deed) exceed twenty-five thousand dollars. The tax shall be:
@@ -15342,7 +16450,9 @@ f. Notwithstanding any other provision of this chapter, in determining the tax i
 
 
 
-*§ 11-2103 Presumptions and burden of proof. * ::
+
+
+*§ 11-2103 Presumptions and burden of proof.* ::
 
 
 For the purpose of the proper administration of this chapter and to prevent evasion of the tax hereby imposed, it shall be presumed that all deeds and transfers of economic interests in real property are taxable. Where the consideration includes property other than money, it shall be presumed that the consideration is the value of the real property or interest therein. Such presumption shall prevail until the contrary is established and the burden of proving the contrary shall be on the taxpayer. The burden of proving that a lien or encumbrance existed on the real property or interest therein before the delivery of the deed and remained thereon thereafter and the burden of proving the amount of such lien or encumbrance at the time of the delivery of the deed shall be on the taxpayer.
@@ -15350,7 +16460,9 @@ For the purpose of the proper administration of this chapter and to prevent evas
 
 
 
-*§ 11-2104 Payment. * ::
+
+
+*§ 11-2104 Payment.* ::
 
 
 The tax imposed hereunder shall be paid by the grantor to the commissioner of finance at the office of the register in the county where the deed is or would be recorded within thirty days after the delivery of the deed by the grantor to the grantee but before the recording of such deed, or, in the case of a tax on the transfer of an economic interest in real property, at such place as the commissioner of finance shall designate, within thirty days after the transfer. The grantee shall also be liable for the payment of such tax in the event that the amount of tax due is not paid by the grantor or the grantor is exempt from tax. All moneys received as such payments by the register during the preceding month shall be transmitted to the commissioner of finance on the first day of each month or on such other day as is mutually agreeable to the commissioner of finance and the register. From the moneys so received by him or her, the commissioner of finance shall set said* in a special account:
@@ -15372,7 +16484,9 @@ The tax imposed hereunder shall be paid by the grantor to the commissioner of fi
 
 
 
-*§ 11-2105 Returns. * ::
+
+
+*§ 11-2105 Returns.* ::
 
 
 a. A joint return shall be filed by both the grantor and the grantee for each deed whether or not a tax is due thereon. Such return shall be filed with the commissioner of finance within thirty days after the delivery of the deed by the grantor to the grantee but before the recording of such deed. The commissioner of finance may, by rule, require that such returns be filed electronically. Filing shall be accomplished by delivering the return to the register for transmittal to the commissioner of finance or, where required by the commissioner of finance, by electronic filing of the return in a manner designated by the commissioner of finance. In the case of a transfer of an economic interest in real property, a joint return shall be filed in the above manner by both the grantor and the grantee for each instrument or transaction by which such transfer is effected, whether or not a tax is due thereon. Such return shall be filed with the commissioner of finance, at such place and in such manner as he or she may designate within thirty days after the transfer. The commissioner of finance shall prescribe the form of the return and the information which it shall contain. The return shall be signed by both the grantor or the grantor's agent and the grantee or the grantee's agent. Where the commissioner of finance requires electronic filing, the return shall be signed electronically. Upon the filing of such return for a deed, evidence of the filing shall be affixed to the deed by the register. The commissioner of finance may provide for the use of stamps as evidence of payment and that they shall be affixed to the deed before it is recorded. Where either the grantor or grantee has failed to sign the return, it shall be accepted as a return, but the party who has failed to sign the return or file a separate return shall be subject to the penalties applicable to a person who has failed to file a return and the period of limitations for assessment of tax or of additional tax shall not apply to such party. For good cause, the commissioner of finance may waive any rule requiring electronic filing and may permit a return to be filed in such other manner as the commissioner of finance may designate.
@@ -15394,6 +16508,8 @@ g.*   Every cooperative housing corporation shall be required to file an info
 g.*   Returns with respect to the conveyance of a one- or two-family dwelling will not be accepted for filing unless accompanied by an affidavit signed by the grantor and grantee indicating that the premises is equipped with an approved and operational smoke detecting device as provided in article six of subchapter seventeen of chapter one of title twenty-seven of this code.
 
 * Editor's note: there are two divisions designated g in this section.
+
+
 
 
 
@@ -15434,7 +16550,9 @@ c. Notwithstanding any provision of this chapter to the contrary, where stock of
 
 
 
-*§ 11-2107 Determination of tax. * ::
+
+
+*§ 11-2107 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the commissioner of finance from such information as may be obtainable, including the assessed valuation of the real property or interest therein. Notice of such determination shall be given to the person liable for the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after the giving of notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing, or, unless the commissioner of finance of his or her own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the tax is assessed and to the commissioner of finance. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the tax was assessed within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a taxpayer unless: (a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the taxpayer will pay all costs and charges which may accrue in the prosecution of the proceeding; or (b) at the option of the taxpayer such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the taxes, penalties and intterest thereon stated in such decision plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the taxpayer shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.
@@ -15442,7 +16560,9 @@ If a return required by this chapter is not filed, or if a return when filed is 
 
 
 
-*§ 11-2108 Refunds. * ::
+
+
+*§ 11-2108 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid if application to the commissioner of finance for such refund shall be made within one year from the payment thereof. Whenever a refund is made or denied by the commissioner of finance, the commissioner shall state his or her reason therefor and give notice thereof to the taxpayer in writing. Such application may be made by the grantor, grantee or other person who has actually paid the tax. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -15454,7 +16574,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-2109 Reserves. * ::
+
+
+*§ 11-2109 Reserves.* ::
 
 
 In cases where the grantor or grantee has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to him or her on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -15462,7 +16584,9 @@ In cases where the grantor or grantee has applied for a refund and has institute
 
 
 
-*§ 11-2110 Remedies exclusive. * ::
+
+
+*§ 11-2110 Remedies exclusive.* ::
 
 
 The remedies provided by sections 11-2107 and 11-2108 of this chapter shall be exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than a proceeding in the nature of a certiorari proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if he or she institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-2107 of this chapter.
@@ -15470,7 +16594,9 @@ The remedies provided by sections 11-2107 and 11-2108 of this chapter shall be e
 
 
 
-*§ 11-2111 Proceedings to recover tax. * ::
+
+
+*§ 11-2111 Proceedings to recover tax.* ::
 
 
 a. Whenever any grantor or grantee shall fail to pay any tax, penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner of finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, the commissioner of finance in his or her discretion believes that any such grantor or grantee subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which the tax or penalty might be satisfied, and that any such tax or penalty will not be paid when due, such commissioner may declare such tax or penalty to be immediately due and payable and may issue a warrant immediately.
@@ -15482,7 +16608,9 @@ c. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-2112 General powers of the commissioner of finance. * ::
+
+
+*§ 11-2112 General powers of the commissioner of finance.* ::
 
 
 In addition to the powers granted to the commissioner of finance in this chapter, he or she is hereby authorized and empowered:
@@ -15504,7 +16632,9 @@ In addition to the powers granted to the commissioner of finance in this chapter
 
 
 
-*§ 11-2113 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-2113 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, his or her employees or agents duly designated and authorized by him or her, the tax appeals tribunal and any of its duly designated and authorized employees or agents shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before such commissioner or the tax appeals tribunal or excused from attendance.
@@ -15518,7 +16648,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-2114 Interest and penalties. * ::
+
+
+*§ 11-2114 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -15586,7 +16718,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-2115 Returns to be secret. * ::
+
+
+*§ 11-2115 Returns to be secret.* ::
 
 
 a. Except in accordance with proper judicial order, or as otherwise provided by law, it shall be unlawful for the commissioner of finance, register or tax appeals tribunal or any officer or employee of the department of finance, register or tax appeals tribunal to divulge or make known in any manner any information contained in or relating to any return provided for by this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the commissioner of finance in an action or proceeding under the provisions of this chapter, or on behalf of any party to an action or proceeding under the provisions of this chapter when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of, and may admit in evidence, so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a grantor or grantee of a deed or to any subsequent owner of the real property conveyed by such deed or to the duly authorized representative of any of them of a certified copy of any return filed in connection with the tax on such deed; nor to prohibit the delivery of such a certified copy of such return or of any information contained in or relating thereto to the United States of America or any department thereof, the state of New York or any department thereof, the city of New York or any department thereof provided the same is required for official business; not to prohibit the inspection for official business of such returns by the register, the corporation counsel or other legal representatives of the city or by the district attorney of any county within the city; nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
@@ -15604,7 +16738,9 @@ e. This section shall not apply to any information contained in or relating to a
 
 
 
-*§ 11-2116 Notices and limitations of time. * ::
+
+
+*§ 11-2116 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him or her pursuant to the provisions of this chapter in any application made by him or her, or in any deed or instrument which is the subject of the notice, or, if no return has been filed or application made or address stated in the deed or instrument, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -15624,7 +16760,9 @@ f. (1) Any reference in subdivision d of this section to the United States mail 
 
 
 
-*§ 11-2117 Construction and enforcement. * ::
+
+
+*§ 11-2117 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with chapter ninety-three of the laws of nineteen hundred sixty-five, as amended.
@@ -15632,7 +16770,9 @@ This chapter shall be construed and enforced in conformity with chapter ninety-t
 
 
 
-*§ 11-2118 Disposition of revenues. * ::
+
+
+*§ 11-2118 Disposition of revenues.* ::
 
 
 Except as otherwise provided, all revenues resulting from the imposition of the tax under this chapter shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city. Except as otherwise provided, no part of such revenues may be expended unless appropriated in the annual budget of the city.
@@ -15640,7 +16780,9 @@ Except as otherwise provided, all revenues resulting from the imposition of the 
 
 
 
-*§ 11-2119 Foreclosure proceedings. * ::
+
+
+*§ 11-2119 Foreclosure proceedings.* ::
 
 
 Where the conveyance consists of a transfer of property made as a result of an order of the court in a foreclosure proceeding ordering the sale of such property, the referee or sheriff effectuating the transfer shall not be liable for any interest or penalties authorized by this chapter or chapter forty of this title.
@@ -15651,7 +16793,9 @@ Where the conveyance consists of a transfer of property made as a result of an o
 Chapter 22: Tax On Owners of Motor Vehicles
 --------------------------------------------------
 
-*§ 11-2201 Definitions. * ::
+
+
+*§ 11-2201 Definitions.* ::
 
 
 When used in this chapter, the following terms shall mean and include:
@@ -15681,7 +16825,9 @@ When used in this chapter, the following terms shall mean and include:
 
 
 
-*§ 11-2202 Imposition of tax. * ::
+
+
+*§ 11-2202 Imposition of tax.* ::
 
 
 Notwithstanding the provisions of section four hundred of the vehicle and traffic law and of subdivision ten of section four hundred one of the vehicle and traffic law to the contrary, a tax of fifteen dollars per annum is hereby imposed:
@@ -15697,7 +16843,9 @@ Notwithstanding the provisions of section four hundred of the vehicle and traffi
 
 
 
-*§ 11-2203 Exemptions. * ::
+
+
+*§ 11-2203 Exemptions.* ::
 
 
 The tax imposed by this chapter shall not be imposed upon:
@@ -15717,7 +16865,9 @@ The tax imposed by this chapter shall not be imposed upon:
 
 
 
-*§ 11-2204 Payment of tax and evidence of tax payment. * ::
+
+
+*§ 11-2204 Payment of tax and evidence of tax payment.* ::
 
 
 Every owner of a motor vehicle subject to tax hereunder shall pay the tax thereon to the commissioner of motor vehicles of the state of New York on or before the date upon which he or she registers or renews his or her registration thereof or is required to register or renew his or her registration thereof pursuant to section four hundred one of the vehicle and traffic law. Notwithstanding the provisions of section four hundred of the vehicle and traffic law to the contrary, the payment of such tax shall be a condition precedent to the registration or renewal thereof of such motor vehicle and to the issuance of any certificate of registration and plates or removable tag specified in subdivision three of section four hundred one and in sections four hundred three and four hundred four of the vehicle and traffic law, and no such certificate of registration, plates or tag shall be issued unless such tax has been paid. The commissioner of motor vehicles shall not issue a registration certificate for any motor vehicle for which the registrant's address is within any such city, except upon proof, in a form approved by the commissioner of motor vehicles, that such tax has been paid, or is not due, with respect to such motor vehicle. The commissioner of motor vehicles, upon the payment of such tax or upon the application of any person exempt therefrom, shall furnish to each taxpayer paying the tax a receipt for such tax and to each such taxpayer or exempt person a statement, document or other form approved by the commissioner of motor vehicles pursuant to the last sentence, showing that such tax has been paid or is not due, with respect to such motor vehicle.
@@ -15725,7 +16875,9 @@ Every owner of a motor vehicle subject to tax hereunder shall pay the tax thereo
 
 
 
-*§ 11-2205 Returns. * ::
+
+
+*§ 11-2205 Returns.* ::
 
 
 a. At the time the payment of the tax imposed by this chapter becomes due, every person subject to tax hereunder shall file a return with the commissioner of motor vehicles in form and containing such information as may be prescribed by such commissioner of motor vehicles. The taxpayer's application for registration or the renewal of registration shall constitute the return required under this chapter, unless the commissioner of motor vehicles, by regulation, shall otherwise provide.
@@ -15739,7 +16891,9 @@ d. If a return required by this chapter is not filed or if a return when filed i
 
 
 
-*§ 11-2206 Determination of tax. * ::
+
+
+*§ 11-2206 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed or if a return when filed is incorrect or insufficient, or if a tax or any part thereof due hereunder be not paid when required, the amount of tax due shall be determined by the commissioner of motor vehicles or by the commissioner of finance if designated as his or her agent, from such information as may be obtainable, including motor vehicle registration with the department of motor vehicles of the state of New York and/or other factors. Notice of such determination shall be given to the person liable for the tax. Such a determination by the commissioner of motor vehicles shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after the giving of notice of such determination, shall apply to the commissioner of motor vehicles for a hearing, or unless such commissioner of his or her own motion shall redetermine the same. If the commissioner of finance is designated as the agent of the commissioner of motor vehicles, such a determination by the commissioner of finance shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after the giving of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) applies to the tax appeals tribunal for a hearing by filing a petition, or unless the commissioner of finance of his or her own motion shall redetermine the same. A hearing following a petition to the tax appeals tribunal and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing by the commissioner of motor vehicles or the tax appeals tribunal, the commissioner of motor vehicles, if he or she holds the hearing, or the tax appeals tribunal if the tax appeals tribunal holds the hearing, shall give notice of the determination or decision to the person against whom the tax is assessed and in the case of a tax appeals tribunal decision, to the commissioner of finance. Such determination by the commissioner of motor vehicles, or a decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the tax was assessed within four months after the giving of the notice of such determination or tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a taxpayer unless (a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner of motor vehicles and there shall be filed with the commissioner of motor vehicles an undertaking, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the taxpayer will pay all costs and charges which may accrue in the prosecution of the proceeding; or (b) at the option of the taxpayer such undertaking filed with the commissioner of motor vehicles may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination or decision, plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the taxpayer shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.
@@ -15747,7 +16901,9 @@ If a return required by this chapter is not filed or if a return when filed is i
 
 
 
-*§ 11-2207 Refunds for certain unused registrations. * ::
+
+
+*§ 11-2207 Refunds for certain unused registrations.* ::
 
 
 Whenever any fee or portion of a fee paid for the registration of a motor vehicle under the provisions of the vehicle and traffic law is refunded pursuant to the provisions of subdivision one of section four hundred twenty-eight thereof, the amount of any tax paid pursuant to this chapter upon such registration shall also be refunded by the commissioner.
@@ -15755,7 +16911,9 @@ Whenever any fee or portion of a fee paid for the registration of a motor vehicl
 
 
 
-*§ 11-2208 Refunds. * ::
+
+
+*§ 11-2208 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of motor vehicles shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid if application for such refund shall be made within one year from the payment thereof to the commissioner of motor vehicles or to the commissioner of finance if designated as his or her agent. Whenever a refund is made or denied, the reasons therefor shall be stated in writing by the commissioner of motor vehicles or by the commissioner of finance, as the case may be, who in lieu of any refund, may allow credit therefor on payments due from the applicant.
@@ -15769,7 +16927,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-2209 Reserves. * ::
+
+
+*§ 11-2209 Reserves.* ::
 
 
 In cases where a taxpayer has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to such taxpayer on his or her application for refund, the commissioner of motor vehicles shall set up appropriate reserves to meet any decision adverse to the city.
@@ -15777,7 +16937,9 @@ In cases where a taxpayer has applied for a refund and has instituted a proceedi
 
 
 
-*§ 11-2210 Remedies exclusive. * ::
+
+
+*§ 11-2210 Remedies exclusive.* ::
 
 
 The remedies provided by sections 11-2206 and 11-2208 of this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund by the commissioner of motor vehicles or by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a final determination by the commissioner of motor vehicles or a decision by the tax appeals tribunal sitting en banc, a proceeding in the nature of a certiorari proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if he or she institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of motor vehicles prior to the institution of such suit and posts a bond for costs as provided in section 11-2206 of this chapter.
@@ -15785,7 +16947,9 @@ The remedies provided by sections 11-2206 and 11-2208 of this chapter shall be t
 
 
 
-*§ 11-2211 Proceedings to recover tax. * ::
+
+
+*§ 11-2211 Proceedings to recover tax.* ::
 
 
 a. Whenever any person shall fail to pay any tax, penalty or interest imposed by this chapter as herein provided, the corporation counsel, upon the request of the commissioner of motor vehicles or of the commissioner of finance if designated as his or her agent, shall bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the state of New York or of any other state of the United States. However, if in his or her discretion the commissioner of motor vehicles, or the commissioner of finance if designated as his or her agent, believes that any such person subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which the tax or penalty might be satisfied, and that any such tax or penalty will not be paid when due, he or she may declare such tax or penalty to be immediately due and payable and may issue a warrant immediately.
@@ -15797,7 +16961,9 @@ c. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-2212 General powers of the commissioner of motor vehicles. * ::
+
+
+*§ 11-2212 General powers of the commissioner of motor vehicles.* ::
 
 
 In addition to the powers granted to the commissioner of motor vehicles in this chapter, he or she is hereby authorized and empowered:
@@ -15819,7 +16985,9 @@ In addition to the powers granted to the commissioner of motor vehicles in this 
 
 
 
-*§ 11-2213 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-2213 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of motor vehicles or his or her employees or agents duly designated and authorized by such commissioner, and the tax appeals tribunal, shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of the powers and duties under this chapter. The commissioner of motor vehicles, or the commissioner of finance if designated as his or her agent or the tax appeals tribunal, shall have the power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner of motor vehicles, the commissioner of finance or the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before him or her or the tax appeals tribunal or excused from attendance.
@@ -15833,7 +17001,9 @@ d. The officers who serve the summons or subpoena of the commissioner of motor v
 
 
 
-*§ 11-2214 Penalties and interest. * ::
+
+
+*§ 11-2214 Penalties and interest.* ::
 
 
 a. Any person failing to file a return or to pay any tax or any portion thereof within the time required by this chapter shall be subject to a penalty of five times the amount of the tax due, plus interest of five percent of such tax for each month of delay or fraction thereof, but the commissioner of motor vehicles, or the commissioner of finance if designated as his or her agent, if satisfied that the delay was excusable, may remit all or any part of such penalty, but not interest at the rate of six percent per year. Penalties and interest shall be paid and disposed of in the same manner as other revenues under this chapter. Unpaid penalties and interest may be enforced in the same manner as the tax imposed by this chapter.
@@ -15845,7 +17015,9 @@ c. Cross-reference: For criminal penalties, see chapter forty of this title.
 
 
 
-*§ 11-2215 Returns to be secret. * ::
+
+
+*§ 11-2215 Returns to be secret.* ::
 
 
 a. Except in accordance with proper judicial order or as otherwise provided by law, it shall be unlawful for the commissioner of motor vehicles, any officer or employee of the department of motor vehicles, the commissioner of finance, any officer or employee of the department of finance, the tax appeals tribunal, any commissioner or employee of such tribunal, any agent of the commissioner of motor vehicles, or any person who, pursuant to this section, is permitted to inspect any return or to whom a copy, an abstract or portion of any return is furnished, or to whom any information contained in any return is furnished to divulge or make known in any manner any information contained in or relating to any return provided for by this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the commissioner of motor vehicles or the commissioner of finance in an action or proceeding under the provisions of this chapter, or on behalf of any party to an action or proceeding under the provisions of this chapter when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of, and may admit in evidence, so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. The commissioner of motor vehicles may, nevertheless, publish a copy or a summary of any determination or decision rendered after a formal hearing held pursuant to section 11-2206 or 11-2208 of this chapter. Nothing herein shall be construed to prohibit the delivery to a person or his or her duly authorized representative of a certified copy of any return filed by him or her pursuant to this chapter, or of the receipt, document or other form issued pursuant to section 11-2204 of this chapter, or a duplicate copy thereof; nor to prohibit the delivery of such a certified copy of such return or of any information contained in or relating thereto, to the United States of America or any department thereof, the state of New York or any department thereof, the city of New York or any department thereof provided the same is required for official business; nor to prohibit the inspection for official business of such returns by the corporation counsel or other legal representatives of the city or by the district attorney of any county within the city; nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
@@ -15861,7 +17033,9 @@ d. Notwithstanding anything in subdivision a of this section to the contrary, if
 
 
 
-*§ 11-2216 Notices and limitations of time. * ::
+
+
+*§ 11-2216 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him or her pursuant to the provisions of this chapter, in any application made by him or her, or in any application for registration made by him or her pursuant to section four hundred one of the vehicle and traffic law or, if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -15877,7 +17051,9 @@ e. When the last day prescribed under authority of this title (including any ext
 
 
 
-*§ 11-2217 Commissioner of finance as agent. * ::
+
+
+*§ 11-2217 Commissioner of finance as agent.* ::
 
 
 The commissioner of motor vehicles is hereby authorized to designate the commissioner of finance his or her agent to exercise any or all of his or her functions and powers specified or provided for in subdivision (d) of section 11-2205 and in sections 11-2206, 11-2208, 11-2211, 11-2213, 11-2214 and 11-2216 of this chapter. Where the commissioner of finance has been so designated as agent, the commissioner of finance, in addition to the powers elsewhere granted to him or her in this chapter, is hereby authorized and empowered:
@@ -15893,7 +17069,9 @@ The commissioner of motor vehicles is hereby authorized to designate the commiss
 
 
 
-*§ 11-2218 Agreement between commissioner of finance and commissioner of motor vehicles. * ::
+
+
+*§ 11-2218 Agreement between commissioner of finance and commissioner of motor vehicles.* ::
 
 
 The commissioner of finance is hereby authorized and empowered to enter into an agreement with the commissioner of motor vehicles to govern the administration and collection of the taxes imposed by this chapter, which agreement shall provide for the exclusive method of collection of such taxes, custody and remittal of the proceeds of such tax; for the payment by the city of the reasonable expenses incurred by the department of motor vehicles in collecting and administering such tax; and for the audit, upon request of the commissioner of finance or his or her delegate, of the accuracy of the payments, distributions and remittances to the commissioner of finance pursuant to the provisions of this chapter, to be conducted at a time agreed upon by the state comptroller and to be allowed not more frequently than once in each calendar year. Such agreement shall have the force and effect of a rule or regulation of the commissioner of motor vehicles, and shall be filed and published in accordance with any statutory requirements relating thereto.
@@ -15901,7 +17079,9 @@ The commissioner of finance is hereby authorized and empowered to enter into an 
 
 
 
-*§ 11-2219 Notification to corporation counsel. * ::
+
+
+*§ 11-2219 Notification to corporation counsel.* ::
 
 
 The commissioner of motor vehicles shall promptly notify the corporation counsel of the city of any litigation instituted against him or her which challenges the constitutionality or validity of any provision of this chapter, or of the enabling act pursuant to which it was adopted, or which attempts to limit or question the applicability of either such law, and such notification shall include a copy of the papers served upon him.
@@ -15909,7 +17089,9 @@ The commissioner of motor vehicles shall promptly notify the corporation counsel
 
 
 
-*§ 11-2220 Construction and enforcement. * ::
+
+
+*§ 11-2220 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with subdivisions (g) and (h) of section twelve hundred one of the tax law, pursuant to which it is enacted.
@@ -15917,7 +17099,9 @@ This chapter shall be construed and enforced in conformity with subdivisions (g)
 
 
 
-*§ 11-2221 Disposition of revenues. * ::
+
+
+*§ 11-2221 Disposition of revenues.* ::
 
 
 All revenues resulting from the imposition of the tax under this chapter shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city, but no part of such revenues may be expended unless appropriated in the annual budget of the city.
@@ -15928,7 +17112,9 @@ All revenues resulting from the imposition of the tax under this chapter shall b
 Chapter 23: Surcharge On off-track Winnings
 --------------------------------------------------
 
-*§ 11-2301 Surcharge on off-track winnings. * ::
+
+
+*§ 11-2301 Surcharge on off-track winnings.* ::
 
 
 There shall be a surcharge of five percent of the portion of pari-mutuel wagering pools distributable to persons having placed bets at off-track betting facilities located within the city. The revenues derived from such surcharge, plus the breaks, shall be held separate and apart from any amounts otherwise authorized to be retained from pari-mutuel pools.
@@ -15936,7 +17122,9 @@ There shall be a surcharge of five percent of the portion of pari-mutuel wagerin
 
 
 
-*§ 11-2302 Distribution of revenues. * ::
+
+
+*§ 11-2302 Distribution of revenues.* ::
 
 
 The revenues received from the surcharge imposed by this chapter, plus the breaks, shall be distributed monthly as follows:
@@ -15957,7 +17145,9 @@ The revenues received from the surcharge imposed by this chapter, plus the break
 Chapter 23-A: Enhanced 911 Telephone Surcharge
 --------------------------------------------------
 
-*§ 11-2321 Short title. * ::
+
+
+*§ 11-2321 Short title.* ::
 
 
 This chapter shall be known and may be cited as the "enhanced 911 telephone surcharge act."
@@ -15965,7 +17155,9 @@ This chapter shall be known and may be cited as the "enhanced 911 telephone surc
 
 
 
-*§ 11-2322 Definitions. * ::
+
+
+*§ 11-2322 Definitions.* ::
 
 
 When used in this chapter the following terms shall mean:
@@ -15991,7 +17183,9 @@ When used in this chapter the following terms shall mean:
 
 
 
-*§ 11-2323 Establishment of surcharge for E911 system. * ::
+
+
+*§ 11-2323 Establishment of surcharge for E911 system.* ::
 
 
 (a) In accordance with the provisions of article six of the county law, as amended, there is hereby established a surcharge of one dollar per telephone access line, or equivalent, per month on the customers of every service supplier within the city of New York.
@@ -16003,7 +17197,9 @@ When used in this chapter the following terms shall mean:
 
 
 
-*§ 11-2324 Application; limitations; exemptions. * ::
+
+
+*§ 11-2324 Application; limitations; exemptions.* ::
 
 
 (a) The surcharge established pursuant to the provisions of section 11-2323 shall be imposed on a per access line basis on all current bills rendered for local exchange access service within the 911 service area.
@@ -16021,7 +17217,9 @@ When used in this chapter the following terms shall mean:
 
 
 
-*§ 11-2325 Collection of surcharge. * ::
+
+
+*§ 11-2325 Collection of surcharge.* ::
 
 
 (a) The appropriate service supplier or suppliers serving the New York city 911 service area shall act as collection agents for the city and shall remit the funds collected as the surcharge to the commissioner of finance each month. Such funds shall be remitted no later than thirty days after the last business day of such period.
@@ -16035,7 +17233,9 @@ When used in this chapter the following terms shall mean:
 
 
 
-*§ 11-2326 Liability for surcharge. * ::
+
+
+*§ 11-2326 Liability for surcharge.* ::
 
 
 (a) Each service supplier customer who is subject to the provisions of this chapter shall be liable to the city for the surcharge until it has been paid to the city, except that payment to a service supplier is sufficient to relieve the customer from further liability for such surcharge.
@@ -16045,7 +17245,9 @@ When used in this chapter the following terms shall mean:
 
 
 
-*§ 11-2327 System revenues; adjustment of surcharge. * ::
+
+
+*§ 11-2327 System revenues; adjustment of surcharge.* ::
 
 
 (a) All surcharge monies remitted to the commissioner of finance by a service supplier and all other monies dedicated to the payment of system costs from whatever source derived or received by the city of New York shall be expended only upon authorization of the council, and only for payment of system costs as permitted by this chapter. The finance commissioner and the director of the office of management and budget shall separately account for and keep adequate records of the amount and source of all such revenues and of the amount and object or purpose of all expenditures thereof.
@@ -16058,7 +17260,9 @@ When used in this chapter the following terms shall mean:
 Chapter 23-B: Wireless Communications Service Surcharge
 --------------------------------------------------
 
-*§ 11-2341 Short title. * ::
+
+
+*§ 11-2341 Short title.* ::
 
 
 This chapter shall be known and may be cited as the "wireless communications service surcharge act."
@@ -16066,7 +17270,9 @@ This chapter shall be known and may be cited as the "wireless communications ser
 
 
 
-*§ 11-2342 Definitions. * ::
+
+
+*§ 11-2342 Definitions.* ::
 
 
 (a) "Wireless communications device" means any equipment used to access a wireless communications service.
@@ -16080,7 +17286,9 @@ This chapter shall be known and may be cited as the "wireless communications ser
 
 
 
-*§ 11-2343 Establishment of surcharge for wireless communications devices. * ::
+
+
+*§ 11-2343 Establishment of surcharge for wireless communications devices.* ::
 
 
 (a) In accordance with the provisions of article six of the county law, as amended, there is hereby established a surcharge of thirty cents per month on wireless communications service in the city of New York. The surcharge shall be imposed on each wireless communications device and shall be reflected and made payable on bills rendered for wireless communications service that is provided to a customer whose place of primary use is within the city of New York.
@@ -16096,7 +17304,9 @@ This chapter shall be known and may be cited as the "wireless communications ser
 
 
 
-*§ 11-2344 Collection of surcharge. * ::
+
+
+*§ 11-2344 Collection of surcharge.* ::
 
 
 (a) Each wireless communications service supplier serving the city of New York shall act as collection agent for the city of New York and shall remit the funds collected pursuant to the surcharge imposed under the provisions of this chapter to the commissioner of finance each month. Such funds shall be remitted no later than thirty days after the last business day of the month.
@@ -16110,7 +17320,9 @@ This chapter shall be known and may be cited as the "wireless communications ser
 
 
 
-*§ 11-2345 Liability for surcharge. * ::
+
+
+*§ 11-2345 Liability for surcharge.* ::
 
 
 (a) Each wireless communications service customer who is subject to the provisions of this chapter shall be liable to the city of New York for the surcharge until it has been paid to the city except that payment to a wireless communications service supplier is sufficient to relieve the customer from further liability for such surcharge.
@@ -16120,7 +17332,9 @@ This chapter shall be known and may be cited as the "wireless communications ser
 
 
 
-*§ 11-2346 Systems revenues; adjustment of surcharge. * ::
+
+
+*§ 11-2346 Systems revenues; adjustment of surcharge.* ::
 
 
 (a) All surcharge monies remitted to the city of New York by a wireless communications service supplier shall be expended only upon authorization of the council and only for payment of system costs or other costs associated with the design, construction, operation, maintenance, and administration of public safety communications networks serving the city of New York. The finance commissioner and the director of the office of management and budget shall separately account for and keep adequate books and records of the amount and source of all such monies and of the amount and object or purpose of all expenditures thereof.
@@ -16133,6 +17347,8 @@ This chapter shall be known and may be cited as the "wireless communications ser
 Chapter 23-C: Wireless Communications Surcharge
 --------------------------------------------------
 
+
+
 *§ 11-2351 Surcharge on wireless communications service.* ::
 
 
@@ -16141,6 +17357,8 @@ Chapter 23-C: Wireless Communications Surcharge
 (b) Such surcharge shall be imposed at the rate of thirty cents per month on each wireless communications device in service during any part of the month.
 
 (c) A wireless communications service supplier shall begin to add such surcharge to the billings of its customers on December 1, 2017.
+
+
 
 
 
@@ -16164,7 +17382,9 @@ Chapter 23-C: Wireless Communications Surcharge
 Chapter 24: Tax On Retail Licensees of the State Liquor Authority
 --------------------------------------------------
 
-*§ 11-2401 Definitions. * ::
+
+
+*§ 11-2401 Definitions.* ::
 
 
 When used in this chapter the following terms shall mean or include:
@@ -16188,7 +17408,9 @@ When used in this chapter the following terms shall mean or include:
 
 
 
-*§ 11-2402 Imposition of tax. * ::
+
+
+*§ 11-2402 Imposition of tax.* ::
 
 
 For the privilege of selling liquor, wine or beer at retail, for on or off premises consumption, within the city of New York, there is hereby imposed and there shall be paid annually for each tax year, commencing with the tax year beginning June first, nineteen hundred eighty, a tax to be paid by each retail licensee in an amount equal to twenty-five percent of the license fees payable under the state alcoholic beverage control law by such retail licensee for the license year in effect at the commencement of the tax year under this chapter. A retail licensee who obtains a license subsequent to the commencement of a tax year shall pay the tax based upon fees payable under the state alcoholic beverage control law by such licensee for the license year in effect at the time such license is issued. This tax shall be in addition to any and all other taxes paid by such retail licensee.
@@ -16196,7 +17418,9 @@ For the privilege of selling liquor, wine or beer at retail, for on or off premi
 
 
 
-*§ 11-2403 Exemptions. * ::
+
+
+*§ 11-2403 Exemptions.* ::
 
 
 The tax imposed by this chapter shall not apply to the following:
@@ -16212,7 +17436,9 @@ The tax imposed by this chapter shall not apply to the following:
 
 
 
-*§ 11-2404 Records to be kept. * ::
+
+
+*§ 11-2404 Records to be kept.* ::
 
 
 Every retail licensee shall keep such records of its business and in such form as the commissioner may by regulation require. Such records shall be offered for inspection and examination at any time upon demand by the commissioner or his or her duly authorized agent or employee and shall be preserved for a period of three years, except that the commissioner may consent to their destruction within that period or may require that they be kept longer.
@@ -16220,7 +17446,9 @@ Every retail licensee shall keep such records of its business and in such form a
 
 
 
-*§ 11-2405 Returns. * ::
+
+
+*§ 11-2405 Returns.* ::
 
 
 a. On or before the twenty-fifth day of June in each tax year, every person subject to tax hereunder shall file a return with the commissioner on a form prescribed by the commissioner. A retail licensee who obtains a license subsequent to the commencement of a tax year shall file a return for such tax year on or before the twenty-fifth day of the month following the month in which such license was obtained.
@@ -16234,7 +17462,9 @@ d. The return otherwise required to be filed on or before June twenty-fifth, nin
 
 
 
-*§ 11-2406 Payment of tax. * ::
+
+
+*§ 11-2406 Payment of tax.* ::
 
 
 At the time of filing a return each person shall pay to the commissioner the tax imposed hereunder. Such tax shall be due and payable on the last day on which such return is required to be filed, regardless of whether a return is filed or whether the return which is filed correctly indicates the amount of tax due.
@@ -16242,7 +17472,9 @@ At the time of filing a return each person shall pay to the commissioner the tax
 
 
 
-*§ 11-2407 Determination of tax. * ::
+
+
+*§ 11-2407 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient, the commissioner shall determine the amount of tax due from such information as may be obtainable and, if necessary, may estimate the tax on the basis of external indices. Notice of such determination shall be given to the person liable for the payment of the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after the giving of notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing, or unless the commissioner of his or her own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the tax is assessed and to the commissioner of finance. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the tax was assessed within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a taxpayer unless: (a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner and there shall be filed with the commissioner an undertaking issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the taxpayer will pay all costs and charges which may accrue in the prosecution of the proceedings or (b) at the option of the taxpayer, such undertaking may be in a sum sufficient to cover the taxes, interest and penalties stated in such decision, plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the taxpayer shall not be required to pay such taxes, interest or penalties as a condition precedent to the application.
@@ -16250,7 +17482,9 @@ If a return required by this chapter is not filed, or if a return when filed is 
 
 
 
-*§ 11-2408 Refunds. * ::
+
+
+*§ 11-2408 Refunds.* ::
 
 
 a. In the manner provided in this section, the commissioner shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, if written application to the commissioner for such refund shall be made within one year from the payment thereof. Whenever a refund or credit is made or denied, the commissioner shall state his or her reason therefor and give notice thereof to the taxpayer in writing. The commissioner may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -16262,7 +17496,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-2409 Remedies exclusive. * ::
+
+
+*§ 11-2409 Remedies exclusive.* ::
 
 
 The remedies provided by this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if such taxpayer institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner prior to the institution of such suit and posts a bond for costs as provided in section 11-2407 of this chapter.
@@ -16270,7 +17506,9 @@ The remedies provided by this chapter shall be the exclusive remedies available 
 
 
 
-*§ 11-2410 Reserves. * ::
+
+
+*§ 11-2410 Reserves.* ::
 
 
 In cases where the taxpayer has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to such taxpayer on his or her application for refund, the city comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -16278,7 +17516,9 @@ In cases where the taxpayer has applied for a refund and has instituted a procee
 
 
 
-*§ 11-2411 Proceedings to recover tax. * ::
+
+
+*§ 11-2411 Proceedings to recover tax.* ::
 
 
 a. Whenever any person shall fail to pay any tax or penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner, bring or cause to be brought an action to enforce payment of the same against the person liable for the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, the commissioner in his or her discretion believes that a taxpayer subject to the provisions of this chapter is about to cease business, leave the state or remove or dissipate the assets out of which tax or penalties or interest might be satisfied and that any such tax or penalty or interest will not be paid when due, he or she may declare such tax or penalty or interest to be immediately due and payable and may issue a warrant immediately.
@@ -16292,7 +17532,9 @@ d. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-2412 General powers of the commissioner. * ::
+
+
+*§ 11-2412 General powers of the commissioner.* ::
 
 
 In addition to all other powers granted to the commissioner in this chapter, he or she is hereby authorized and empowered:
@@ -16312,7 +17554,9 @@ In addition to all other powers granted to the commissioner in this chapter, he 
 
 
 
-*§ 11-2413 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-2413 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner, his or her employees duly designated and authorized by the commissioner, the tax appeals tribunal and any of its duly designated and authorized employees shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before the commissioner or the tax appeals tribunal or excused from attendance.
@@ -16326,7 +17570,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-2414 Interest and penalties. * ::
+
+
+*§ 11-2414 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -16392,7 +17638,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-2415 Returns to be secret. * ::
+
+
+*§ 11-2415 Returns to be secret.* ::
 
 
 a. Except in accordance with proper judicial order, or as otherwise provided by law, it shall be unlawful for the commissioner, the tax appeals tribunal or any officer or employee of the city to divulge or make known in any manner any information relating to the business of a taxpayer contained in any return required under this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the commissioner in an action or proceeding under the provisions of this chapter, or on behalf of any party to any action or proceeding under the provisions of this chapter when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of, and may admit in evidence, so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a taxpayer or the taxpayer's duly authorized representative of a certified copy of any return filed in connection with his or her tax nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns and the items thereof, or the inspection by the corporation counsel or other legal representatives of the city, or by the district attorney of any county within the city, or the return of any taxpayer who shall bring action to set aside or review the tax based thereon, or against whom an action or proceeding under this chapter may be instituted. Returns shall be preserved for three years and thereafter until the commissioner permits them to be destroyed.
@@ -16408,7 +17656,9 @@ a. Except in accordance with proper judicial order, or as otherwise provided by 
 
 
 
-*§ 11-2416 Notices and limitations of time. * ::
+
+
+*§ 11-2416 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him or her pursuant to the provisions of this chapter or in any application made by him or her, or, if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -16428,7 +17678,9 @@ f. (1) Any reference in subdivision d of this section to the United States mail 
 
 
 
-*§ 11-2417 Construction and enforcement. * ::
+
+
+*§ 11-2417 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with article twenty-nine of the tax law, pursuant to which it is enacted.
@@ -16439,7 +17691,9 @@ This chapter shall be construed and enforced in conformity with article twenty-n
 Chapter 25: Tax On Occupancy of Hotel Rooms
 --------------------------------------------------
 
-*§ 11-2501 Definitions. * ::
+
+
+*§ 11-2501 Definitions.* ::
 
 
 When used in this chapter the following terms shall mean or include:
@@ -16475,7 +17729,9 @@ When used in this chapter the following terms shall mean or include:
 
 
 
-*§ 11-2502 Imposition of tax. * ::
+
+
+*§ 11-2502 Imposition of tax.* ::
 
 
 a. (1)    On and after July first, nineteen hundred seventy until and including August thirty-first, nineteen hundred eighty, there is hereby imposed and there shall be paid a tax for every occupancy of each room in a hotel in the city of New York at the rates set forth in, and determined in accordance with the following table:
@@ -16573,7 +17829,9 @@ l. An occupancy that an operator conveys or furnishes to a room remarketer that 
 
 
 
-*§ 11-2503 Records to be kept. * ::
+
+
+*§ 11-2503 Records to be kept.* ::
 
 
 a. Every operator and every room remarketer shall keep records of every occupancy and of all rent paid, charged or due thereon and of the tax payable thereon, in such form as the commissioner of finance may by regulation require. Such records shall be available for inspection and examination at any time upon demand by the commissioner of finance or his or her duly authorized agent or employee and shall be preserved for a period of three years, except that the commissioner of finance may consent to their destruction within that period or may require that they be kept longer.
@@ -16583,7 +17841,9 @@ b.    Notwithstanding the provisions of section three hundred five and three 
 
 
 
-*§ 11-2504 Returns. * ::
+
+
+*§ 11-2504 Returns.* ::
 
 
 a. Every operator and every room remarketer shall file with the commissioner of finance a return of occupancy and of rents, and of the taxes payable thereon, for the quarterly periods ending on the last day of February, May, August and November of each year. Such returns shall be filed within twenty days after the end of the quarterly period covered thereby. The commissioner of finance may permit or require returns to be made by other periods and upon such dates as he or she may specify. If the commissioner of finance deems it necessary in order to insure the payment of the tax imposed by this chapter, he or she may require returns to be made for shorter periods than those prescribed pursuant to the foregoing provisions of this subdivision and upon such dates as he or she may specify.
@@ -16595,7 +17855,9 @@ c. If a return required by this chapter is not filed or if a return when filed i
 
 
 
-*§ 11-2505 Payment of tax. * ::
+
+
+*§ 11-2505 Payment of tax.* ::
 
 
 At the time of filing a return of occupancy and of rents each operator and room remarketer shall pay to the commissioner of finance the taxes imposed by this chapter upon the rents required to be included in such return, as well as all other moneys collected by the operator or room remarketer acting or purporting to act under the provisions of this chapter, even though it be judicially determined that the tax collected is invalidly imposed. All the taxes for the period for which a return is required to be filed shall be due from the operator or room remarketer and payable to the commissioner of finance on the date limited for the filing of the return for such period, without regard to whether a return is filed or whether the return which is filed correctly shows the amount of rents and the taxes due thereon. Where the commissioner of finance in his or her discretion deems it necessary to protect revenues to be obtained under this chapter he or she may require any operator or room remarketer required to collect the tax imposed by this chapter to file with him or her a bond, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount as the commissioner of finance may fix, to secure the payment of any tax and/or penalties and interest due or which may become due from such operator or room remarketer. In the event that the commissioner of finance determines that an operator or room remarketer is to file such bond he or she shall give notice to such operator or room remarketer to that effect specifying the amount of the bond required. The operator or room remarketer shall file such bond within five days after the giving of such notice unless within such five days the operator or room remarketer shall request in writing a hearing before the commissioner of finance at which the necessity, propriety and amount of the bond shall be determined by the commissioner of finance. Such determination shall be final and shall be complied with within fifteen days after the giving of notice thereof. In lieu of such bond, securities approved by the commissioner of finance or cash in such amount as he or she may prescribe, may be deposited which shall be kept in the custody of the commissioner of finance who may at any time without notice to the depositor apply them to any tax and/or interest or penalties due, and for that purpose the securities may be sold by him or her at public or private sale without notice to the depositor thereof.
@@ -16603,7 +17865,9 @@ At the time of filing a return of occupancy and of rents each operator and room 
 
 
 
-*§ 11-2506 Determination of tax. * ::
+
+
+*§ 11-2506 Determination of tax.* ::
 
 
 If a return required by this chapter is not filed, or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the commissioner of finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as number of rooms, location, scale of rents, comparable rents, type of accommodations and service, number of employees and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocably fix the tax unless the person against whom it is assessed, within ninety days after giving of notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal for a hearing, or unless the commissioner of finance of his or her own motion shall redetermine the same. Such hearing and any appeal to the tax appeals tribunal sitting en banc from the decision rendered in such hearing shall be conducted in the manner and subject to the requirements prescribed by the tax appeals tribunal pursuant to sections one hundred sixty-eight through one hundred seventy-two of the charter. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the tax is assessed. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the tax was assessed, within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a person liable for the tax unless: (a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking, issued by a surety company authorized to transact business in this state and approved by the superintendent of insurance of this state as to solvency and responsibility, in such amount as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, such person will pay all costs and charges which may accrue in the prosecution of the proceeding; or (b) at the option of such person such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such decision plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event such person shall not be required to deposit such taxes, penalties and interest as a condition precedent to the application.
@@ -16611,7 +17875,9 @@ If a return required by this chapter is not filed, or if a return when filed is 
 
 
 
-*§ 11-2507 Refunds. * ::
+
+
+*§ 11-2507 Refunds.* ::
 
 
 a. In the manner provided in this section the commissioner of finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid if written application to the commissioner of finance for such refund shall be made within one year from the payment thereof. Whenever a refund or credit is made or denied by the commissioner of finance, he or she shall state his or her reasons therefor and give notice thereof to the taxpayer in writing. Such application may be made by the occupant, operator, room remarketer or other person who has actually paid the tax to the commissioner of finance. Such application may also be made by an operator or room remarketer who has collected and paid over such tax to the commissioner of finance provided that the application is made within one year of the payment by the occupant to the operator or room remarketer, but no actual refund of moneys shall be made to such operator or room remarketer until he or she shall first establish to the satisfaction of the commissioner of finance, under such regulations as the commissioner of finance may prescribe, that he or she has repaid to the occupant the amount for which the application for refund is made. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -16623,7 +17889,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-2508 Reserves. * ::
+
+
+*§ 11-2508 Reserves.* ::
 
 
 In cases where the occupant, operator or room remarketer has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to such occupant, operator or room remarketer on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -16631,7 +17899,9 @@ In cases where the occupant, operator or room remarketer has applied for a refun
 
 
 
-*§ 11-2509 Remedies exclusive. * ::
+
+
+*§ 11-2509 Remedies exclusive.* ::
 
 
 The remedies provided by sections 11-2506 and 11-2507 of this chapter shall be the exclusive remedies available to any person for the review of tax liability imposed by this chapter; and no determination or proposed determination of tax or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, and action for money had and received or by any action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding in the nature of a certiorari proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a taxpayer may proceed by declaratory judgment if he or she institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-2506 of this chapter.
@@ -16639,7 +17909,9 @@ The remedies provided by sections 11-2506 and 11-2507 of this chapter shall be t
 
 
 
-*§ 11-2510 Proceedings to recover tax. * ::
+
+
+*§ 11-2510 Proceedings to recover tax.* ::
 
 
 a. Whenever any operator or room remarketer, or any officer of a corporate operator or room remarketer, or any occupant or other person shall fail to collect and pay over any tax and/or to pay any tax, penalty or interest imposed by this chapter as therein provided, the corporation counsel shall, upon the request of the commissioner of finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States. If, however, the commissioner of finance in his or her discretion believes that any such operator, or room remarketer, officer, occupant or other person is about to cease business, leave the state or remove or dissipate the assets out of which the tax, penalties or interest might be satisfied, and that any such tax, penalty or interest will not be paid when due, he or she may declare such tax, penalty or interest to be immediately due and payable and may issue a warrant immediately.
@@ -16653,7 +17925,9 @@ d. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-2511 General powers of the commissioner of finance. * ::
+
+
+*§ 11-2511 General powers of the commissioner of finance.* ::
 
 
 In addition to the powers granted to the commissioner of finance in this chapter, he or she is hereby authorized and empowered:
@@ -16675,7 +17949,9 @@ In addition to the powers granted to the commissioner of finance in this chapter
 
 
 
-*§ 11-2512 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-2512 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, his or her employees or agents duly designated and authorized by him or her, the tax appeals tribunal and any of its duly designated and authorized employees or agents shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state of unable to attend before such commissioner or tax appeals tribunal or excused from attendance.
@@ -16689,7 +17965,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-2513 Reference to tax. * ::
+
+
+*§ 11-2513 Reference to tax.* ::
 
 
 Whenever reference is made in placards or advertisements or in any other publication to this tax, such reference shall be substantially in the following form: "city tax on occupancy of hotel rooms", except that in any bill, receipt, statement or other evidence or memorandum of occupancy or rent charge issued or employed by the operator the words "city tax" will suffice.
@@ -16697,7 +17975,9 @@ Whenever reference is made in placards or advertisements or in any other publica
 
 
 
-*§ 11-2514 Registration. * ::
+
+
+*§ 11-2514 Registration.* ::
 
 
 By June thirtieth, nineteen hundred seventy, or in the case of operators or room remarketers commencing business or opening new hotels after such date, within three days after such commencement or opening, or in the case of room remarketers doing business on the effective date of the local law that added this phrase, within three days of such effective date, every operator or room remarketer shall file with the commissioner of finance a certificate of registration in a form prescribed by the commissioner of finance. The commissioner of finance shall within five days after such registration issue without charge to each operator or room remarketer a certificate of authority empowering such operator or room remarketer to collect the tax from the occupant and duplicate thereof for each additional hotel or room remarketer of such operator. Each certificate or duplicate shall state the hotel or room remarketer to which it is applicable. Such certificates of authority shall be prominently displayed by the operator or room remarketer in such manner that it may be seen and come to the notice of all occupants and persons seeking occupancy. Such certificates shall be non-assignable and nontransferable and shall be surrendered immediately to the commissioner of finance upon the cessation of business at the hotel named, upon its sale or transfer, or upon cessation of business of the named room remarketer.
@@ -16705,7 +17985,9 @@ By June thirtieth, nineteen hundred seventy, or in the case of operators or room
 
 
 
-*§ 11-2515 Interest and penalties. * ::
+
+
+*§ 11-2515 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any amount of tax is not paid or paid over on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -16783,7 +18065,9 @@ By June thirtieth, nineteen hundred seventy, or in the case of operators or room
 
 
 
-*§ 11-2516 Returns to be secret. * ::
+
+
+*§ 11-2516 Returns to be secret.* ::
 
 
 a. Except in accordance with proper judicial order, or as otherwise provided by law, it shall be unlawful for the commissioner of finance, any officer or employee of the department of finance, any person engaged or retained on an independent contract basis, the tax appeals tribunal, any commissioner or employee of such tribunal, or any person who, pursuant to this section, is permitted to inspect any return or to whom a copy, an abstract or a portion of any return is furnished, or to whom any information contained in any return is furnished, to divulge or make known in any manner the rents or other information relating to the business of a taxpayer contained in any return required under this chapter. The officers charged with the custody of such returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the commissioner of finance in an action or proceeding under the provisions of this chapter or on behalf of any party to any action or proceeding under the provisions of this chapter when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of, and may admit in evidence, so much of said returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. Nothing herein shall be construed to prohibit the delivery to a taxpayer or his or her duly authorized representative of a certified copy of any return filed in connection with his or her tax; nor to prohibit the delivery of such a certified copy of such return or of any information contained in or relating thereto, to the United States of America or any department thereof, to the state of New York or any department thereof, or to any agency or department of the city of New York, provided the same is requested for official business; nor to prohibit the inspection for official business of such returns by the corporation counsel or other legal representatives of the city or by the district attorney of any county within the city; nor to prohibit the publication of statistics so classified as to prevent the identification of particular returns and the items thereof. Returns shall be preserved for three years and thereafter until the commissioner of finance permits them to be destroyed.
@@ -16799,7 +18083,9 @@ d. Notwithstanding anything in subdivision a of this section to the contrary, if
 
 
 
-*§ 11-2517 Notices and limitations of time. * ::
+
+
+*§ 11-2517 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him or her pursuant to the provisions of this chapter or in any application made by him or her or, if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice.
@@ -16819,7 +18105,9 @@ f. (1)    Any reference in subdivision d of this section to the United States
 
 
 
-*§ 11-2518 Construction and enforcement. * ::
+
+
+*§ 11-2518 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with chapter one hundred sixty-one of the laws of nineteen hundred seventy, as amended, pursuant to which it is enacted.
@@ -16827,7 +18115,9 @@ This chapter shall be construed and enforced in conformity with chapter one hund
 
 
 
-*§ 11-2519 Tourism and convention fund. * ::
+
+
+*§ 11-2519 Tourism and convention fund.* ::
 
 
 Notwithstanding any provision of law to the contrary, with respect to the additional tax imposed at the rate of six percent on and after September first, nineteen hundred ninety and before December first, nineteen hundred ninety-four pursuant to subparagraph (B) of paragraph three of subdivision a of section 11-2502 of this chapter, four and one-sixth percent of the total revenues resulting from the imposition of such tax, including four and one-sixth percent of any interest or penalties thereon, shall be credited to and deposited in a special tourism and convention fund, which shall be used solely for the purpose of promoting tourism and conventions in the city. Seven-eighths of the moneys in such fund shall be made available to the New York Convention and Visitor's Bureau, Inc. pursuant to an annual contract with the city which may specify, among other things, the services which shall be provided by such bureau with such moneys and the content and number of reports which will have to be provided by such bureau to the city concerning the expenditure of such moneys, and provided that the annual budget and business plan of such bureau is approved by the mayor of the city or his or her designee. The remaining one-eighth of the fund shall be spent for promoting tourism and conventions which may include, at the mayor's discretion, moneys spent in connection with additional contracts made with the New York Convention and Visitor's Bureau, Inc. For purposes of this section, the term "promoting tourism and conventions" shall mean developing, placing, and purchasing advertising promoting the city, and engaging in such other efforts as are designed to attract tourists and conventions to the city.
@@ -16838,7 +18128,9 @@ Notwithstanding any provision of law to the contrary, with respect to the additi
 Chapter 26: Tax On Mortgages
 --------------------------------------------------
 
-*§ 11-2601 Imposition of tax. * ::
+
+
+*§ 11-2601 Imposition of tax.* ::
 
 
 a. A tax of fifty cents for each one hundred dollars and each remaining major fraction thereof of principal debt or obligation which is, or under any contingency may be secured at the date of execution thereof or at any time thereafter by a mortgage on real property situated within the city and recorded on or after August first, nineteen hundred seventy-one and prior to February first, nineteen hundred eighty-two, is hereby imposed on each such mortgage and shall be collected and paid as provided in this chapter. If the principal debt or obligation which is or by any contingency may be secured by such mortgage is less than one hundred dollars, a tax of fifty cents is hereby imposed on such mortgage, and shall be collected and paid as provided in this chapter.
@@ -16870,7 +18162,9 @@ f. Notwithstanding any provision to the contrary in paragraph (a) of subdivision
 
 
 
-*§ 11-2602 Payment and payment over of taxes. * ::
+
+
+*§ 11-2602 Payment and payment over of taxes.* ::
 
 
 The taxes imposed by this chapter shall be payable on the recording of each mortgage of real property subject to taxes thereunder. Such taxes shall be paid to the recording officer of the county in which the real property or any part thereof is situated, except where real property is situated within and without the city, the recording officer of the county in which the mortgage is first recorded shall collect the tax imposed by this chapter, as required by subdivision three of section two hundred fifty-three-a of the tax law. It shall be the duty of such recording officer to indorse upon each mortgage a receipt for the amount of the tax so paid. Any mortgage so endorsed may thereupon or thereafter be recorded by any recording officer and the receipt for such tax indorsed upon each mortgage shall be recorded therewith. The record of such receipt shall be conclusive proof that the amount of tax stated therein has been paid upon such mortgage. Upon the first day of each month the city register and the recording officer of Richmond county shall pay over to the commissioner of finance of the city for credit to the general fund of such city, the balance of the moneys received during the preceding month upon account of taxes paid to him or her as herein prescribed, after deducting the necessary expenses of his or her office as provided in section two hundred sixty-two of the tax law, except taxes paid upon mortgages which are first to be apportioned by the commissioner of taxation and finance, which taxes and money shall be paid over by him or her as provided by the determination of the said commissioner of taxation and finance. Notwithstanding the foregoing provision, in each instance where the tax imposed pursuant to section 11-2601 of this chapter is one dollar and twenty-five cents for each one hundred dollars and each remaining major fraction thereof of such principal debt or obligation, fifty percent of the total amount of such tax, including fifty percent of any interest or penalties thereon, shall be set aside in a special account by the commissioner of finance, and in each instance where the tax imposed pursuant to that section is one dollar and seventy-five cents for each one hundred dollars and each remaining major fraction thereof of such principal debt or obligation, thirty-five and seven-tenths percent of the total amount of such tax, including thirty-five and seven-tenths percent of any interest or penalties thereon, shall also be set aside in such special account. Moneys in such account shall be used for payment by such commissioner to the state comptroller for deposit in the urban mass transit operating assistance account of the mass transportation operating assistance fund of any amount of insufficiency certified by the state comptroller pursuant to the provisions of subdivision six of section eighty-eight-a of the state finance law, and on the fifteenth day of each month, such commissioner shall transmit all funds in such account at the end of the preceding month, except the amount required for the payment of any amount of insufficiency certified by the state comptroller and such amount as he or she deems necessary for refunds and such other amounts necessary to finance the New York city transportation disabled committee and the New York city paratransit system as established by section fifteen-b of the transportation law, provided, however, that such amounts shall not exceed six percent of the total funds in the account but in no event be less than two hundred twenty-five thousand dollars beginning April first, nineteen hundred eighty-six, and further that beginning November fifteenth, nineteen hundred eighty-four and during the entire period prior to operation of such system, the total of such amounts shall not exceed three hundred seventy-five thousand dollars for the administrative expenses of such committee and fifty thousand dollars for the expenses of the agency designated pursuant to paragraph b of subdivision five of such section, and other amounts necessary to finance the operating needs of the private bus companies franchised by the city of New York and eligible to receive state operating assistance under section eighteen-b of the transportation law, provided, however, that such amounts shall not exceed four percent of the total funds in the account, to the New York city transit authority for mass transit within the city.
@@ -16878,7 +18172,9 @@ The taxes imposed by this chapter shall be payable on the recording of each mort
 
 
 
-*§ 11-2603 Manner of administration and collection. * ::
+
+
+*§ 11-2603 Manner of administration and collection.* ::
 
 
 The taxes imposed under this chapter shall be administered and collected in the same manner as the taxes imposed under subdivision one of section two hundred fifty-three and subdivision one of section two hundred fifty-five of the tax law. All the provisions of article eleven of the tax law relating to or applicable to the administration and collection of the taxes imposed by subdivision one of section two hundred fifty-three and subdivision one of section two hundred fifty-five of the tax law shall apply to the taxes imposed under this chapter with the same force and effect as if those provisions had been set forth in full in this chapter except to the extent that any such provision is either inconsistent with a provision of this chapter or not relevant to the tax imposed by this chapter. For purposes of this chapter any reference in article eleven of the tax law to the tax or taxes imposed by such article shall be deemed to refer to a tax imposed by this chapter, and any reference to the phrase "within this state" shall be read as "within this city" unless a different meaning is clearly required. Whenever real property covered by the mortgage is partly within and partly without the city of New York, the portion of the mortgage taxable under this chapter shall be determined in the manner prescribed in the first paragraph of section two hundred sixty of the tax law where the property without the city is located within the state and, in the manner prescribed in the second paragraph of such section of the tax law, where the property without the city is located without the state.
@@ -16886,7 +18182,9 @@ The taxes imposed under this chapter shall be administered and collected in the 
 
 
 
-*§ 11-2604 Tax additional. * ::
+
+
+*§ 11-2604 Tax additional.* ::
 
 
 The tax imposed by this chapter shall be in addition to any taxes imposed by section two hundred fifty-three of the tax law.
@@ -16897,7 +18195,9 @@ The tax imposed by this chapter shall be in addition to any taxes imposed by sec
 Chapter 27: Annual Vault Charge
 --------------------------------------------------
 
-*§ 11-2701 Definitions. * ::
+
+
+*§ 11-2701 Definitions.* ::
 
 
 When used in this chapter, the following terms shall mean or include:
@@ -16929,7 +18229,9 @@ When used in this chapter, the following terms shall mean or include:
 
 
 
-*§ 11-2702 Imposition of charge. * ::
+
+
+*§ 11-2702 Imposition of charge.* ::
 
 
 (a) In addition to any and all other license fees, charges and taxes, there is hereby imposed and there shall be paid an annual vault charge, beginning as of July first, nineteen hundred sixty-two, for the privilege of occupying, using or maintaining a vault in the streets of the city, to be paid by the owner of the premises immediately adjoining the vault.
@@ -16967,7 +18269,9 @@ When used in this chapter, the following terms shall mean or include:
 
 
 
-*§ 11-2703 Exemptions. * ::
+
+
+*§ 11-2703 Exemptions.* ::
 
 
 The charges imposed by this chapter shall not apply to the following:
@@ -16993,7 +18297,9 @@ The charges imposed by this chapter shall not apply to the following:
 
 
 
-*§ 11-2704 Filing of returns. * ::
+
+
+*§ 11-2704 Filing of returns.* ::
 
 
 a. Every person subject to the annual vault charge under this chapter shall, on or before the first day of August, nineteen hundred sixty-two, and on or before the fifteenth day of July of every year thereafter, file with the commissioner of finance a return showing the dimensions of the vault as to length, width and depth, except that the return required to be filed on or before July fifteenth, nineteen hundred seventy-two shall be filed on or before June fifteenth, nineteen hundred seventy-two and those due in later years shall be required to be filed on or before June fifteenth of such years. The commissioner of finance, if he or she deems it necessary to insure adequate information with regard to the proper charge to be imposed, may require information returns from other persons, including the owners of real property regardless of whether a vault has been extended therefrom, the users or lessees of the vault or lessees or tenants of the property adjoining the vault.
@@ -17003,6 +18309,8 @@ b. The forms of returns shall be prescribed by the commissioner of finance and s
 c. For each annual vault charge year beginning on or after June first, nineteen hundred eighty-nine, the commissioner of finance shall, at least thirty days prior to the commencement of such year, mail to each person who has filed an annual vault charge return for the immediately preceding year an annual vault charge return form on which shall be shown the amount of the charge for such immediately preceding year. Such return form shall be accompanied by instructions which explain in clear and simple terms how to determine the dimensions and extent of street occupancy of a vault, how to calculate the amount of the charge, and such other matters as the commissioner considers necessary or helpful to an understanding of the requirements of this chapter. Notwithstanding the foregoing, neither the failure of the commissioner to mail such return form and instructions nor the failure of any person to receive the same shall relieve any person of the obligation to file any return required under this section or of liability for the charge, interest or penalties imposed by this chapter.
 
 d. If no form or other notice has previously been sent to a person subject to the annual vault charge with respect to the amount of vault charge owed for any year, the commissioner of finance shall notify such person of the amount owed as soon as practicable after discovering that such amount is owed.
+
+
 
 
 
@@ -17017,7 +18325,9 @@ b. The charge otherwise required to be paid with the return due on or before Jun
 
 
 
-*§ 11-2706 Presumption and burden of proof. * ::
+
+
+*§ 11-2706 Presumption and burden of proof.* ::
 
 
 For the purpose of the proper administration of this chapter and to prevent evasion of the annual vault charge hereby imposed, it shall be presumed, except where the depth of a vault exceeds twelve feet, that the size of the vault as indicated upon the license therefor originally issued by the borough president up to and including December thirty-first, nineteen hundred sixty-two, and the commissioner of transportation thereafter is a proper measure of the charge until the contrary is established, and the burden of proving that the size of the vault is not accurately stated upon the license shall be upon the person so claiming. In cases where no license of record has been issued for a vault or where the depth of a vault exceeds twelve feet, the burden of proving the actual size of the vault shall be upon the person liable for the vault charge.
@@ -17025,7 +18335,9 @@ For the purpose of the proper administration of this chapter and to prevent evas
 
 
 
-*§ 11-2707 Determination of vault charge. * ::
+
+
+*§ 11-2707 Determination of vault charge.* ::
 
 
 If a return required by this chapter is not filed or if a return when filed is incorrect or insufficient, the amount of the vault charge due shall be determined by the commissioner of finance from such information as may be obtainable and, if necessary, the charge may be estimated on the basis of external indices, including but not limited to the records of the department of transportation, the reports of tax assessors, the reports of inspectors and investigators in the offices of the commissioner of finance and commissioner of transportation, and/or other information or factors. Notice of such determination shall be given to the person liable for the payment thereof. Such determination shall finally and irrevocably fix the vault charge unless the person against whom it is assessed shall, within ninety days after the giving of notice of such determination, or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the code and such person has requested a conciliation conference in accordance therewith, within ninety days from the mailing of a conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serves a petition upon the commissioner of finance and (2) files a petition with the tax appeals tribunal, or unless the commissioner of finance of his or her own motion shall redetermine the same. Upon such hearing the tax appeals tribunal may require the filing of a certificate signed by a city surveyor specifying the dimensions of the vault. After such hearing the tax appeals tribunal shall give notice of its decision to the person against whom the vault charge is assessed. A decision of the tax appeals tribunal sitting en banc shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under article seventy-eight of the civil practice law and rules if application therefor is made to the supreme court by the person against whom the vault charge was assessed within four months after the giving of the notice of such tax appeals tribunal decision. A proceeding under article seventy-eight of the civil practice law and rules shall not be instituted by a person against whom the vault charge is assessed unless (a) the amount of any vault charge sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the commissioner of finance and there shall be filed with the commissioner of finance an undertaking in such amount and with such sureties as a justice of the supreme court shall approve, to the effect that if such proceeding be dismissed or the vault charge confirmed the person against whom the vault charge is assessed will pay all costs and charges which may accrue in the prosecution of the proceeding, or (b) at the option of such person, such undertaking filed with the commissioner of finance may be in a sum sufficient to cover the vault charge, penalties and interest thereon stated in such decision plus the costs and charges which may accrue against him or her in the prosecution of the proceeding, in which event such person shall not be required to deposit such vault charge, penalties and interest as a condition precedent to the application.
@@ -17033,7 +18345,9 @@ If a return required by this chapter is not filed or if a return when filed is i
 
 
 
-*§ 11-2708 Refunds. * ::
+
+
+*§ 11-2708 Refunds.* ::
 
 
 a. In the manner provided in this section, the commissioner of finance shall refund or credit, without interest, any vault charge, penalty or interest erroneously, illegally or unconstitutionally collected or paid if application to the commissioner of finance for such refund shall be made within one year from the payment thereof. Whenever a refund is made or denied by the commissioner of finance, he or she shall state his or her reason therefor and give notice thereof to the applicant in writing. Such application may be made by the owner of the premises, or other person, who has actually paid the vault charge. The commissioner of finance may, in lieu of any refund required to be made, allow credit therefor on payments due from the applicant.
@@ -17045,7 +18359,9 @@ c. A person shall not be entitled to a revision, refund or credit under this sec
 
 
 
-*§ 11-2709 Reserves. * ::
+
+
+*§ 11-2709 Reserves.* ::
 
 
 In cases where the person or persons liable for the vault charge imposed by this chapter has applied for a refund and has instituted a proceeding under article seventy-eight of the civil practice law and rules to review a determination adverse to him or her on his or her application for refund, the comptroller shall set up appropriate reserves to meet any decision adverse to the city.
@@ -17053,7 +18369,9 @@ In cases where the person or persons liable for the vault charge imposed by this
 
 
 
-*§ 11-2710 Remedies exclusive. * ::
+
+
+*§ 11-2710 Remedies exclusive.* ::
 
 
 The remedies provided by sections 11-2707 and 11-2708 of this chapter shall be the exclusive remedies available to any person for the review of the liability imposed hereunder, and no determination or proposed determination of an annual vault charge or determination on any application for refund by the commissioner of finance, nor any decision by the tax appeals tribunal or any of its administrative law judges, shall be enjoined or reviewed by an action for declaratory judgment, an action for money had and received or by any action or proceeding other than, in the case of a decision by the tax appeals tribunal sitting en banc, a proceeding in the nature of a certiorari proceeding under article seventy-eight of the civil practice law and rules; provided, however, that a person liable for the annual vault charge may proceed by declaratory judgment if he or she institutes suit within thirty days after a deficiency assessment is made and pays the amount of the deficiency assessment to the commissioner of finance prior to the institution of such suit and posts a bond for costs as provided in section 11-2707 of this chapter.
@@ -17061,7 +18379,9 @@ The remedies provided by sections 11-2707 and 11-2708 of this chapter shall be t
 
 
 
-*§ 11-2711 Proceedings to recover annual vault charge. * ::
+
+
+*§ 11-2711 Proceedings to recover annual vault charge.* ::
 
 
 a. Whenever any person shall fail to pay any vault charge, penalty or interest imposed by this chapter as herein provided, the corporation counsel shall, upon the request of the commissioner of finance bring, or cause to be brought, an action to enforce the payment of the same on behalf of the city of New York in any court of the state of New York or of any other state or of the United States.
@@ -17075,7 +18395,9 @@ d. The commissioner of finance, if he or she finds that the interests of the cit
 
 
 
-*§ 11-2712 General powers of the commissioner of finance. * ::
+
+
+*§ 11-2712 General powers of the commissioner of finance.* ::
 
 
 In addition to all other powers granted to the commissioner of finance in this chapter, he or she is hereby authorized and empowered:
@@ -17099,7 +18421,9 @@ In addition to all other powers granted to the commissioner of finance in this c
 
 
 
-*§ 11-2713 Administration of oaths and compelling testimony. * ::
+
+
+*§ 11-2713 Administration of oaths and compelling testimony.* ::
 
 
 a. The commissioner of finance, his or her employees duly designated and authorized by the commissioner, the tax appeals tribunal and any of its duly designated and authorized employees shall have power to administer oaths and take affidavits in relation to any matter or proceeding in the exercise of their powers and duties under this chapter. The commissioner of finance and the tax appeals tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents to secure information pertinent to the performance of the duties of the commissioner or of the tax appeals tribunal hereunder and of the enforcement of this chapter and to examine them in relation thereto, and to issue commissions for the examination of witnesses who are out of the state or unable to attend before such commissioner or the tax appeals tribunal or excused from attend- ance.
@@ -17113,7 +18437,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-2714 Interest and penalties. * ::
+
+
+*§ 11-2714 Interest and penalties.* ::
 
 
 (a) Interest on underpayments. If any annual vault charge is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the commissioner of finance pursuant to subdivision (g) of this section, or, if no rate is set, at the rate of seven and one-half percent per annum, shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid, such interest shall be compounded daily. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
@@ -17179,7 +18505,9 @@ d. The officers who serve the summons or subpoena of the commissioner of finance
 
 
 
-*§ 11-2715 Notices and limitations of time. * ::
+
+
+*§ 11-2715 Notices and limitations of time.* ::
 
 
 a. Any notice authorized or required under the provisions of this chapter may be given to the person for whom it is intended by mailing it in a postpaid envelope addressed to such person at the address given in the return filed by him or her pursuant to the provisions of this chapter or in any application made by him or her or, if no such return has been filed or application made, then to the address of the premises immediately adjoining the vault. The mailing of a notice as in this subdivision provided, shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this chapter by the giving of notice shall commence to run from the date of mailing of such notice as in this subdivision provided.
@@ -17195,7 +18523,9 @@ e. When the last day prescribed under authority of this chapter (including any e
 
 
 
-*§ 11-2715.1 Vault charge amnesty program. * ::
+
+
+*§ 11-2715.1 Vault charge amnesty program.* ::
 
 
 a. Notwithstanding any other provision of law to the contrary, there is hereby established a nine-month amnesty program, beginning January first, nineteen hundred eighty-nine and ending September thirtieth, nineteen hundred eighty-nine (hereinafter referred to as the "amnesty period"), for all persons owing the annual vault charge imposed by this chapter. Such amnesty program shall be administered by the commissioner of finance and shall apply to liabilities for annual vault charge years ending prior to June first, nineteen hundred eighty-nine.
@@ -17215,7 +18545,9 @@ f. The commissioner of finance shall formulate such regulations as are necessary
 
 
 
-*§ 11-2715.2 Refunds of vault charges. * ::
+
+
+*§ 11-2715.2 Refunds of vault charges.* ::
 
 
 If any clause, sentence, paragraph, section or part of this chapter or the application thereof to any person or circumstance shall for any reason be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this chapter or the application thereof to other persons or circumstances, but shall be confined in its operation to the clause, sentence, paragraph, section or part thereof directly involved in the controversy in which such judgment shall have been rendered and to the person or circumstance involved.
@@ -17223,7 +18555,9 @@ If any clause, sentence, paragraph, section or part of this chapter or the appli
 
 
 
-*§ 11-2716 Construction and enforcement. * ::
+
+
+*§ 11-2716 Construction and enforcement.* ::
 
 
 This chapter shall be construed and enforced in conformity with chapter nine hundred forty-nine of the laws of nineteen hundred sixty-two, pursuant to which it is enacted.
@@ -17231,7 +18565,9 @@ This chapter shall be construed and enforced in conformity with chapter nine hun
 
 
 
-*§ 11-2717 Effective date. * ::
+
+
+*§ 11-2717 Effective date.* ::
 
 
 This chapter shall take effect July first, nineteen hundred sixty-two and shall remain in effect so long as the power of the city to adopt such laws for revenue purposes shall exist.
@@ -17242,7 +18578,9 @@ This chapter shall take effect July first, nineteen hundred sixty-two and shall 
 Chapter 28: Claims Against Fire Insurance Proceeds
 --------------------------------------------------
 
-*§ 11-2801 Claims against fire insurance proceeds. * ::
+
+
+*§ 11-2801 Claims against fire insurance proceeds.* ::
 
 
 1. Definitions. As used in this chapter, any inconsistent provision of law notwithstanding, the following terms shall have the following meanings:
@@ -17307,6 +18645,8 @@ Chapter 28: Claims Against Fire Insurance Proceeds
 Chapter 29: Tax Expenditure Evaluation*
 --------------------------------------------------
 
+
+
 *§ 11-2901 Economic development tax expenditure evaluation.* ::
 
 
@@ -17346,7 +18686,9 @@ Upon submission to the speaker of the council, the evaluator shall make each suc
 Chapter 40: Crimes and Other offenses: Seizures And Forfeitures
 --------------------------------------------------
 
-*§ 11-4001 Definitions. * ::
+
+
+*§ 11-4001 Definitions.* ::
 
 
 (a) As used in this chapter, the term "person" shall include, but shall not be limited to, an individual, corporation (including a dissolved corporation), partnership, association, trust or estate.
@@ -17364,7 +18706,9 @@ Chapter 40: Crimes and Other offenses: Seizures And Forfeitures
 
 
 
-*§ 11-4002 Tax fraud acts. * ::
+
+
+*§ 11-4002 Tax fraud acts.* ::
 
 
 (a) As used in this chapter, "tax fraud act" means willfully engaging in an act or acts or willfully causing another to engage in an act or acts pursuant to which a person:
@@ -17392,7 +18736,9 @@ Chapter 40: Crimes and Other offenses: Seizures And Forfeitures
 
 
 
-*§ 11-4003 City criminal tax fraud in the fifth degree. * ::
+
+
+*§ 11-4003 City criminal tax fraud in the fifth degree.* ::
 
 
 A person commits city criminal tax fraud in the fifth degree when he or she commits a tax fraud act. City criminal tax fraud in the fifth degree is a class A misdemeanor.
@@ -17400,7 +18746,9 @@ A person commits city criminal tax fraud in the fifth degree when he or she comm
 
 
 
-*§ 11-4004 City criminal tax fraud in the fourth degree. * ::
+
+
+*§ 11-4004 City criminal tax fraud in the fourth degree.* ::
 
 
 A person commits city criminal tax fraud in the fourth degree when he or she commits a tax fraud act or acts and, with the intent to evade any tax due under any designated chapter of this title, or to defraud the city or the state or any instrumentality of the city or the state, the person pays the city or the state or any public office or public officer of the city or the state or any instrumentality of the city or state (whether by means of underpayment or receipt of refund or both), in a period of not more than one year in excess of three thousand dollars less than the tax liability that is due. City criminal tax fraud in the fourth degree is a class E felony.
@@ -17408,7 +18756,9 @@ A person commits city criminal tax fraud in the fourth degree when he or she com
 
 
 
-*§ 11-4005 City criminal tax fraud in the third degree. * ::
+
+
+*§ 11-4005 City criminal tax fraud in the third degree.* ::
 
 
 A person commits city criminal tax fraud in the third degree when he or she commits a tax fraud act or acts and, with the intent to evade any tax due under any designated chapter of this title, or to defraud the city or the state or any instrumentality of the city or the state, the person pays the city or the state or any public office or public officer of the city or the state or any instrumentality of the city or state (whether by means of underpayment or receipt of refund or both), in a period of not more than one year in excess of ten thousand dollars less than the tax liability that is due. City criminal tax fraud in the third degree is a class D felony.
@@ -17416,7 +18766,9 @@ A person commits city criminal tax fraud in the third degree when he or she comm
 
 
 
-*§ 11-4006 City criminal tax fraud in the second degree. * ::
+
+
+*§ 11-4006 City criminal tax fraud in the second degree.* ::
 
 
 A person commits city criminal tax fraud in the second degree when he or she commits a tax fraud act or acts and, with the intent to evade any tax due under any designated chapter of this title, or to defraud the city or the state or any instrumentality of the city or the state, the person pays the city or the state or any public office or public officer of the city or the state or any instrumentality of the city or state (whether by means of underpayment or receipt of refund or both), in a period of not more than one year in excess of fifty thousand dollars less than the tax liability that is due. City criminal tax fraud in the second degree is a class C felony.
@@ -17424,7 +18776,9 @@ A person commits city criminal tax fraud in the second degree when he or she com
 
 
 
-*§ 11-4007 City criminal tax fraud in the first degree. * ::
+
+
+*§ 11-4007 City criminal tax fraud in the first degree.* ::
 
 
 A person commits city criminal tax fraud in the first degree when he or she commits a tax fraud act or acts and, with the intent to evade any tax due under any designated chapter of this title, or to defraud the city or the state or any instrumentality of the city or the state, the person pays the city or the state or any public office or public officer of the city or the state or any instrumentality of the city or state (whether by means of underpayment or receipt of refund or both), in a period of not more than one year in excess of one million dollars less than the tax liability that is due. City criminal tax fraud in the first degree is a class B felony.
@@ -17432,7 +18786,9 @@ A person commits city criminal tax fraud in the first degree when he or she comm
 
 
 
-*§ 11-4008 Aggregation. * ::
+
+
+*§ 11-4008 Aggregation.* ::
 
 
 For purposes of this chapter, the payments due and not paid under any designated chapter of this title pursuant to a common scheme or plan or due and not paid, within one year, may be charged in a single count, and the amount of underpaid tax liability incurred, within one year, may be aggregated in a single count.
@@ -17440,7 +18796,9 @@ For purposes of this chapter, the payments due and not paid under any designated
 
 
 
-*§ 11-4009 Non-preemption; penal law anticipatory offenses and accessorial liability apply. * ::
+
+
+*§ 11-4009 Non-preemption; penal law anticipatory offenses and accessorial liability apply.* ::
 
 
 (a) Unless expressly stated otherwise, the penalties provided in this chapter or under any other chapter of this title shall not preclude prosecution for any offense under the penal law or any other criminal statute.
@@ -17450,7 +18808,9 @@ For purposes of this chapter, the payments due and not paid under any designated
 
 
 
-*§ 11-4010 Failure to obey subpoenas; false testimony. * ::
+
+
+*§ 11-4010 Failure to obey subpoenas; false testimony.* ::
 
 
 (a) Any person who, being duly subpoenaed, pursuant to chapter five, six, seven, eight, nine, eleven, twelve, thirteen, fourteen, fifteen, twenty-one, twenty-two, twenty-four, twenty-five or twenty-seven of this title or the provisions of the civil practice law and rules, in connection with a matter arising under any of such chapters, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers, (i) fails or refuses to attend without lawful excuse, (ii) refuses to be sworn, (iii) refuses to answer any material and proper question, or (iv) refuses, after reasonable notice, to produce books, papers and documents in his or her possession or under his or her control which constitute material and proper evidence shall be guilty of a misdemeanor.
@@ -17460,7 +18820,9 @@ For purposes of this chapter, the payments due and not paid under any designated
 
 
 
-*§ 11-4011 Failure to file bond. * ::
+
+
+*§ 11-4011 Failure to file bond.* ::
 
 
 Any person willfully failing to file a bond where such filing is required pursuant to section 11-1203, 11-1304 or 11-2505 of this title shall be guilty of a misdemeanor.
@@ -17468,7 +18830,9 @@ Any person willfully failing to file a bond where such filing is required pursua
 
 
 
-*§ 11-4012 Cigarette tax. * ::
+
+
+*§ 11-4012 Cigarette tax.* ::
 
 
 (a) Attempt to evade or defeat tax. Any person who willfully attempts in any manner to evade or defeat any tax imposed by chapter thirteen of this title or payment thereof where: (1) such tax is unpaid on ten thousand cigarettes or more or (2) such person has previously been convicted two or more times of a crime set forth in this chapter relating to cigarette taxes; shall be guilty of a class E felony.
@@ -17490,6 +18854,8 @@ Any person willfully failing to file a bond where such filing is required pursua
 
 
 
+
+
 *§ 11-4012.1 Tobacco products tax* ::
 
 
@@ -17502,7 +18868,9 @@ Any person willfully failing to file a bond where such filing is required pursua
 
 
 
-*§ 11-4013 Tax on coin-operated amusement devices. * ::
+
+
+*§ 11-4013 Tax on coin-operated amusement devices.* ::
 
 
 Any person required, pursuant to the provisions of chapter fifteen of this title, to place or keep the stamp or other indicia denoting payment of the tax imposed by such title conspicuously posted on any device taxable under such chapter, who willfully fails to place or keep such stamp or other indicia conspicuously posted on any such device, shall be guilty of a misdemeanor.
@@ -17510,7 +18878,9 @@ Any person required, pursuant to the provisions of chapter fifteen of this title
 
 
 
-*§ 11-4014 Tax on commercial motor vehicles and motor vehicles for transportation of passengers. * ::
+
+
+*§ 11-4014 Tax on commercial motor vehicles and motor vehicles for transportation of passengers.* ::
 
 
 (a) Any person who counterfeits or forges, or causes or procures to be counterfeited or forged, or aids or assists in counterfeiting or forging, by any way, art, or means, any stamp, indicia of payment or indicia that no tax is payable authorized by chapter eight of this title, or who knowingly acquires, possesses, disposes of or uses such a counterfeited or forged stamp, indicia of payment or indicia that no tax is payable, or who transfers a stamp, indicia of payment or indicia that no tax is payable where such a transfer is not authorized by such chapter shall be guilty of a misdemeanor.
@@ -17520,7 +18890,9 @@ Any person required, pursuant to the provisions of chapter fifteen of this title
 
 
 
-*§ 11-4015 Tax on owners of motor vehicles. * ::
+
+
+*§ 11-4015 Tax on owners of motor vehicles.* ::
 
 
 (a) Any person who counterfeits or forges, or causes or procures to be counterfeited or forged, or aids or assists in counterfeiting or forging, by any way, art, or means, any receipt or other document evidencing payment or exemption from the tax imposed by chapter twenty-two of this title, or who knowingly acquires, possesses, disposes of or uses such a counterfeited or forged receipt or other document, shall be guilty of a misdemeanor.
@@ -17532,7 +18904,9 @@ Any person required, pursuant to the provisions of chapter fifteen of this title
 
 
 
-*§ 11-4016 Hotel room occupancy tax. * ::
+
+
+*§ 11-4016 Hotel room occupancy tax.* ::
 
 
 (a) Any person who willfully fails to file a registration certificate as required pursuant to the provisions of chapter twenty-five of this title and such data in connection therewith as the commissioner of finance by regulation or otherwise may require, or willfully fails to display or surrender a certificate of authority as required by chapter twenty-five of this title, or willfully assigns or transfers such certificate of authority, shall be guilty of a misdemeanor, provided, however, that the provisions of this subdivision shall not apply to a failure to surrender a certificate of authority which is required to be surrendered where business never commenced.
@@ -17542,7 +18916,9 @@ Any person required, pursuant to the provisions of chapter fifteen of this title
 
 
 
-*§ 11-4017 Violation of secrecy provisions. * ::
+
+
+*§ 11-4017 Violation of secrecy provisions.* ::
 
 
 Any person who violates the provisions of subdivision a of section 11-1214, subdivision (a) of section 11-2415, subdivision a of section 11-2115, subdivision a of section 11-1516, subdivision a of section 11-818, subdivision a of section 11-716, subdivision a of section 11-2215, subdivision a of section 11-1116, subdivision one of section 11-688, subdivision one of section 11-538, subdivision a of section 11-2516, or subdivision a of section 11-1414 of this title shall be guilty of a misdemeanor.
@@ -17550,7 +18926,9 @@ Any person who violates the provisions of subdivision a of section 11-1214, subd
 
 
 
-*§ 11-4018 Other offenses. * ::
+
+
+*§ 11-4018 Other offenses.* ::
 
 
 (a) Any person who willfully fails to keep or retain any records required to be kept or retained by chapter seven, twelve, fourteen, twenty-one, twenty-two, twenty-four or twenty-seven of this title shall be guilty of a misdemeanor.
@@ -17564,7 +18942,9 @@ Any person who violates the provisions of subdivision a of section 11-1214, subd
 
 
 
-*§ 11-4019 Jurisdiction. * ::
+
+
+*§ 11-4019 Jurisdiction.* ::
 
 
 For purposes of the taxes imposed by chapter five or six of this title:
@@ -17578,7 +18958,9 @@ For purposes of the taxes imposed by chapter five or six of this title:
 
 
 
-*§ 11-4020 Disposition of fines. * ::
+
+
+*§ 11-4020 Disposition of fines.* ::
 
 
 All fines levied under this chapter shall be paid to the commissioner of finance and deposited in the general fund of the city.
@@ -17586,7 +18968,9 @@ All fines levied under this chapter shall be paid to the commissioner of finance
 
 
 
-*§ 11-4021 Seizure and forfeiture of cigarettes. * ::
+
+
+*§ 11-4021 Seizure and forfeiture of cigarettes.* ::
 
 
 (a) Whenever a police officer designated in section 1.20 of the criminal procedure law or a peace officer designated in subdivision five of section 2.10 of such law, acting pursuant to his special duties, shall discover any cigarettes subject to any tax provided by chapter thirteen of this title, and upon which the tax has not been paid or the stamps not affixed as required by such chapter, they are hereby authorized and empowered forthwith to seize and take possession of such cigarettes, together with any vending machine or receptacle in which they are held for sale. Such cigarettes, vending machine or receptacle seized by a police officer or such peace officer shall be turned over to the commissioner of finance.
@@ -17602,7 +18986,9 @@ All fines levied under this chapter shall be paid to the commissioner of finance
 
 
 
-*§ 11-4022 Filing of documents. * ::
+
+
+*§ 11-4022 Filing of documents.* ::
 
 
 For purposes of the prosecution of offenses under the provisions of this title, reports, returns, statements, other documents or other information required to be filed with or delivered to the commissioner of finance shall include such items which under the provisions of this title are required to be recorded or filed with, served upon or delivered to another person, including, but not limited to, a recording officer of any county within the state, county clerk, any other governmental agency or entity, or other entity in its capacity as an agent of the commissioner of finance.
@@ -17610,7 +18996,9 @@ For purposes of the prosecution of offenses under the provisions of this title, 
 
 
 
-*§ 11-4023 Authority to seal premises. * ::
+
+
+*§ 11-4023 Authority to seal premises.* ::
 
 
 (a) If any person has been finally determined to have engaged in the acts described in subdivision b of this section, the commissioner of finance shall be authorized to order:
@@ -17652,7 +19040,9 @@ For purposes of the prosecution of offenses under the provisions of this title, 
 
 
 
-*§ 11-4024 Seizure and forfeiture of taxed and lawfully stamped cigarettes sold or possessed by unlicensed retail or wholesale dealers and flavored tobacco products. * ::
+
+
+*§ 11-4024 Seizure and forfeiture of taxed and lawfully stamped cigarettes sold or possessed by unlicensed retail or wholesale dealers and flavored tobacco products.* ::
 
 
 (a) Whenever a police officer designated in section 1.20 of the criminal procedure law or a peace officer employed by the department of finance, including but not limited to the sheriff, undersheriff or deputy sheriffs of the city of New York designated as peace officers in subdivision two of section 2.10 of the criminal procedure law, shall discover (1) any cigarettes subject to any tax provided by chapter thirteen of this title, and upon which the tax has been paid and the stamps affixed as required by such chapter, but such cigarettes are sold, offered for sale or possessed by a person in violation of section 11-1303, 17-703 or 20-202 of this code, or (2) any flavored tobacco product that is sold, offered for sale or possessed with intent to sell in violation of section 17-715 of this code, he or she is hereby authorized and empowered forthwith to seize and take possession of such cigarettes or flavored tobacco product, together with any vending machine or receptacle in which such cigarettes or flavored tobacco product are held for sale. Such cigarettes or flavored tobacco product, vending machine or receptacle seized by such police officer or such peace officer shall be turned over to the commissioner of finance.
@@ -17662,6 +19052,8 @@ For purposes of the prosecution of offenses under the provisions of this title, 
 (c) The commissioner of finance may, within a reasonable time after the forfeiture to the city of such vending machine or receptacle under this section, upon publication of a notice to such effect for at least five successive days, in a newspaper published or circulated in the city, sell such forfeited vending machine or receptacle at public sale and pay the proceeds into the general fund of the city. Such seized vending machine or receptacle may be sold prior to forfeiture if the owner of the seized property consents to the sale. Cigarettes or flavored tobacco product forfeited to the city under this section shall be destroyed or used for law enforcement purposes, except that cigarettes that violate, or are suspected of violating, federal trademark laws or import laws shall not be used for law enforcement purposes. If the commissioner determines the cigarettes forfeited under this section may not be used for law enforcement purposes, the commissioner of finance must, within a reasonable time after the forfeiture to the city of such cigarettes, upon publication of a notice to such effect for at least five successive days, prior to destruction, in a newspaper published or circulated in the city, destroy such forfeited cigarettes.
 
 (d) In the alternative, the commissioner of finance, on reasonable notice by mail or otherwise, may permit the person from whom a seizure of cigarettes or flavored tobacco product under this section was made, to redeem any vending machine or receptacle seized with such cigarettes or flavored tobacco product, or may permit the owner of any such vending machine or receptacle to redeem the same, upon the payment of any civil penalty imposed pursuant to chapter seven of title seventeen or subchapter one of chapter two of title twenty of this code and the costs incurred in such proceeding.
+
+
 
 
 
@@ -17676,6 +19068,8 @@ For purposes of the prosecution of offenses under the provisions of this title, 
 (c) The commissioner of finance may, within a reasonable time after the forfeiture to the city of such vending machine or receptacle under this section, upon publication of a notice to such effect for at least five successive days, in a newspaper published or circulated in the city, sell such forfeited vending machine or receptacle at public sale and pay the proceeds into the general fund of the city. Such seized vending machine or receptacle may be sold prior to forfeiture if the owner of the seized property consents to the sale. Tobacco products forfeited to the city under this section shall be destroyed or used for law enforcement purposes, except that tobacco products that violate, or are suspected of violating, federal trademark laws or import laws shall not be used for law enforcement purposes. If the commissioner determines the tobacco products forfeited under this section may not be used for law enforcement purposes, the commissioner of finance must, within a reasonable time after the forfeiture to the city of such cigarettes, upon publication of a notice to such effect for at least five successive days, prior to destruction, in a newspaper published or circulated in the city, destroy such forfeited tobacco products.
 
 (d) In the alternative, the commissioner of finance, on reasonable notice by mail or otherwise, may permit the person from whom a seizure of tobacco products under this section was made, to redeem any vending machine or receptacle seized with such tobacco products, or may permit the owner of any such vending machine or receptacle to redeem the same, upon the payment of any civil penalty imposed pursuant to chapter 7 of title 17 or subchapter 1 of chapter 2 of title 20 of this code and the costs incurred in such proceeding.
+
+
 
 
 

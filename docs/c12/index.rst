@@ -7,7 +7,9 @@ Chapter 2: Police Pension Funds
 
 **Subchapter 1: [Police Department, Subchapter One Pension Fund]**
 
-*§ 13-201 Definitions. * ::
+
+
+*§ 13-201 Definitions.* ::
 
 
 As used in this subchapter the following terms shall mean and include:
@@ -23,7 +25,9 @@ As used in this subchapter the following terms shall mean and include:
 
 
 
-*§ 13-202 Board of trustees. * ::
+
+
+*§ 13-202 Board of trustees.* ::
 
 
 a. The police pension fund shall be administered by a board of trustees which shall, subject to the provisions of law and to the prior approval of the board of estimate, from time to time, establish rules and regulations for the administration and transaction of the business of such fund and for the control and disposition thereof. Such board shall consist of:
@@ -67,7 +71,9 @@ g. Notwithstanding any other provision of law to the contrary, on July first, ni
 
 
 
-*§ 13-203 Composition of pension fund. * ::
+
+
+*§ 13-203 Composition of pension fund.* ::
 
 
 The police pension fund shall consist of the following:
@@ -105,7 +111,9 @@ The police pension fund shall consist of the following:
 
 
 
-*§ 13-204 Reduction of contributions by members. * ::
+
+
+*§ 13-204 Reduction of contributions by members.* ::
 
 
 The mayor, by executive order adopted prior to the first day of June, nineteen hundred sixty-three, may direct that beginning with the first full payroll period following January first, nineteen hundred sixty-three and ending with the payroll period immediately prior to that, the first day of which is nearest to June thirtieth, nineteen hundred sixty-four, the deductions from the semi-monthly pay, salary or compensation of each member made pursuant to the provisions of this subchapter shall be reduced by two and one-half per cent of such pay, salary or compensation. Such executive order may also provide for a method or procedure for the refunding or crediting to a member by the pension fund of the amount of the reduction in his or her deductions for any period prior to the adoption of such executive order. The benefits provided pursuant to this section shall apply only to members of the pension fund who are in active service in the police force on or after the date of adoption of such executive order.
@@ -113,7 +121,9 @@ The mayor, by executive order adopted prior to the first day of June, nineteen h
 
 
 
-*§ 13-205 Reduction of contributions by members. * ::
+
+
+*§ 13-205 Reduction of contributions by members.* ::
 
 
 a. The mayor, by executive order adopted prior to the first day of June, nineteen hundred sixty-four, may direct that beginning with the first full payroll period following July first, nineteen hundred sixty-four and ending with the payroll period immediately prior to that, the first day of which is nearest to June thirtieth, nineteen hundred sixty-five, the deductions from the semi-monthly pay, salary or compensation of each member made pursuant to the provisions of this subchapter shall be reduced by two and one-half per cent of such pay, salary or compensation.
@@ -137,7 +147,9 @@ g. The mayor, by executive order adopted prior to the date forty-five days after
 
 
 
-*§ 13-206 Payment of pensions; disability; retirement for service. * ::
+
+
+*§ 13-206 Payment of pensions; disability; retirement for service.* ::
 
 
 a. The board of trustees shall retire any member who, upon an examination, as provided in subdivision d of this section, may be found to be disqualified, physically or mentally, for the performance of his or her duties. Such member so retired shall receive from such pension fund an annual pension as provided in this section. In every case such board shall determine the circumstances thereof, and such pension so allowed is to be in lieu of any salary received by such member at the time of his or her being so retired. The department shall not be liable for the payment of any claim or demand for services thereafter rendered, and the amount of such pension shall be determined upon the following conditions:
@@ -197,7 +209,9 @@ j. Notwithstanding any other provision of this code, and in lieu of any lesser a
 
 
 
-*§ 13-207 [Minimum disability pension.] * ::
+
+
+*§ 13-207 [Minimum disability pension.]* ::
 
 
 a. Notwithstanding the provisions of section 13-206 of this subchapter, in any case where a pension was or is awarded under the provisions of such section, by reason of the retirement of a member for disability caused or induced by the actual performance of the duties of his or her position, such member shall be entitled to a pension of not less than three-fourths the annual salary or compensation payable to a first grade patrolman as of July first, nineteen hundred and sixty-five. In the case of any member receiving a pension less than three-fourths the annual salary or compensation of a first grade patrolman as of July first, nineteen hundred and sixty-five his or her pension shall be increased by such amount which when added to the lesser pension shall equal three-fourths the annual salary or compensation of a first grade patrolman as of July first, nineteen hundred and sixty-five.
@@ -209,7 +223,9 @@ c. The pension payable under this section shall be in lieu of any pension which 
 
 
 
-*§ 13-208 Extra service pension credit. * ::
+
+
+*§ 13-208 Extra service pension credit.* ::
 
 
 Except as provided in subdivisions a and b of section 13-206 of this subchapter:
@@ -221,7 +237,9 @@ Except as provided in subdivisions a and b of section 13-206 of this subchapter:
 
 
 
-*§ 13-209 Payment of pensions; death. * ::
+
+
+*§ 13-209 Payment of pensions; death.* ::
 
 
 a. The board of trustees of the pension fund shall pay a pension out of such fund to the spouse, child or children or dependent parent or parents of any deceased member of the police force in such department, if the death of such member occur during his or her service in such police force, or after he or she was retired from service in such force. The amount of any such pension to be paid by the board of trustees to each of the several representatives of such member, in case there shall be more than one, from time to time, may be determined by such board according to the circumstances of each case. The annual pension to the representative or representatives of such member, however, shall be six hundred dollars, and no part of such sum shall be paid to any such spouse who shall remarry, after such remarriage, or to any child after it shall have reached the age of eighteen years. In lieu of the aforementioned pension, when a member of the force dies while in active service, his or her beneficiary shall be paid the accumulated deductions of such deceased member if written application therefor be made to the board of trustees by such beneficiary.
@@ -243,7 +261,9 @@ d. (1) Notwithstanding the provisions of subdivision b of this section, in any c
 
 
 
-*§ 13-210 Return of deductions on discontinuance of membership or on death. * ::
+
+
+*§ 13-210 Return of deductions on discontinuance of membership or on death.* ::
 
 
 a. Should a member discontinue service in the force, except by death or retirement, he or she shall be paid the amount of the five per cent. or six per cent. deductions without interest made from his or her pay, salary or compensation pursuant to subdivision nine of section 13-203 of this subchapter.
@@ -253,7 +273,9 @@ b. In the event that a member shall die before retirement and a pension is not p
 
 
 
-*§ 13-211 Time of payment of pensions. * ::
+
+
+*§ 13-211 Time of payment of pensions.* ::
 
 
 All pensions payable out of the police pension fund shall be paid in equal monthly installments, each one-twelfth, in amount, of the sum allowed as the annual pension or in ratably smaller amounts when the benefit begins after the first day of the month or ends before the last day of the month.
@@ -261,7 +283,9 @@ All pensions payable out of the police pension fund shall be paid in equal month
 
 
 
-*§ 13-212 Exemption from tax and legal process. * ::
+
+
+*§ 13-212 Exemption from tax and legal process.* ::
 
 
 The right of a person to a pension, an allowance, to the return of contributions, the pension itself, any optional benefit, any other right accrued or accruing to any person under the provisions of this subchapter and the moneys in the fund provided for by this subchapter, are hereby exempt from any state or municipal tax, and shall not be subject to execution, garnishment, attachment, or any other process whatsoever, and shall be unassignable except as in this article specifically provided.
@@ -269,7 +293,9 @@ The right of a person to a pension, an allowance, to the return of contributions
 
 
 
-*§ 13-213 False swearing. * ::
+
+
+*§ 13-213 False swearing.* ::
 
 
 Every person who knowingly or wilfully in anywise procures the making or presentation of any false or fraudulent affidavit or affirmation concerning any claim for pension or payment thereof shall in every such case forfeit a sum not exceeding two hundred fifty dollars, to be sued for and recovered by and in the name of such board of trustees, which when recovered, shall be paid to and thereupon become a part of such fund. Any person who shall wilfully swear falsely in any oath, or affirmation, in obtaining or procuring any pension or payment thereof, under the provisions of this subchapter, shall be guilty of perjury.
@@ -277,7 +303,9 @@ Every person who knowingly or wilfully in anywise procures the making or present
 
 
 
-*§ 13-213.1 Transfer of assets, liabilities and administration of pension fund, subchapter one to pension fund, subchapter two: payment of certain benefits by pension fund, subchapter two. * ::
+
+
+*§ 13-213.1 Transfer of assets, liabilities and administration of pension fund, subchapter one to pension fund, subchapter two: payment of certain benefits by pension fund, subchapter two.* ::
 
 
 a. The following terms, as used in this section, shall have the following meanings unless a different meaning is plainly required by the context:
@@ -308,7 +336,9 @@ g. Notwithstanding any other provision of law to the contrary, for all funding o
 
 **Subchapter 2: [Police Department, Subchapter Two Pension Fund]**
 
-*§ 13-214 Definitions. * ::
+
+
+*§ 13-214 Definitions.* ::
 
 
 The following words and phrases as used in this subchapter unless a different meaning is plainly required by the context, shall have the following meanings:
@@ -514,7 +544,9 @@ The following words and phrases as used in this subchapter unless a different me
 
 
 
-*§ 13-215 Membership; composition and eligibility. * ::
+
+
+*§ 13-215 Membership; composition and eligibility.* ::
 
 
 a. The membership of the pension fund shall consist of:
@@ -528,7 +560,9 @@ b. Notwithstanding any other provision of this subchapter or any other law to th
 
 
 
-*§ 13-216 Board of trustees. * ::
+
+
+*§ 13-216 Board of trustees.* ::
 
 
 a. The police pension fund shall be administered by a board of trustees which shall, subject to the provisions of law from time to time, establish rules and regulations for the administration and transaction of the business of such fund and for the control and disposition thereof. The provisions of sections one thousand forty-two, one thousand forty-three, one thousand forty-four and one thousand forty-five of the New York city charter shall not be construed to apply to the adoption of such rules and regulations. Such board shall consist of:
@@ -602,7 +636,9 @@ i. The funds withdrawn from the pension fund shall not be utilized for any purpo
 
 
 
-*§ 13-217 Rules and regulations. * ::
+
+
+*§ 13-217 Rules and regulations.* ::
 
 
 Each member shall be subject, until retirement, to all the provisions of this subchapter and to all the rules and regulations adopted by such board applying to members.
@@ -610,7 +646,9 @@ Each member shall be subject, until retirement, to all the provisions of this su
 
 
 
-*§ 13-218 Credit for service. * ::
+
+
+*§ 13-218 Credit for service.* ::
 
 
 a. Subject to the following and to all other provisions of this subchapter, including such rules and regulations as such board shall adopt in pursuance thereof, such board shall determine and may modify allowances for service.
@@ -734,7 +772,9 @@ h.*   Notwithstanding the provisions of subdivision c of this section, any me
 
 
 
-*§ 13-219 Re-entry into membership after withdrawal of contributions. * ::
+
+
+*§ 13-219 Re-entry into membership after withdrawal of contributions.* ::
 
 
 If a member has received benefits under section 13-240 of this subchapter, his or her member-service credit at the time of leaving service shall be restored in full provided such member returns to service within five years after leaving service and redeposits the total amount so withdrawn. Subsequent contributions shall be at the rate applicable to his age on re-entry to service.
@@ -742,7 +782,9 @@ If a member has received benefits under section 13-240 of this subchapter, his o
 
 
 
-*§ 13-220 Pension fund; a corporation. * ::
+
+
+*§ 13-220 Pension fund; a corporation.* ::
 
 
 The pension fund shall have the powers and privileges of a corporation and by its name all of its business shall be transacted, all of its funds invested, all warrants for money drawn and payments made, and all of its cash and securities and other property held.
@@ -750,7 +792,9 @@ The pension fund shall have the powers and privileges of a corporation and by it
 
 
 
-*§ 13-221 Pension fund; adoption of tables and certification of rates. * ::
+
+
+*§ 13-221 Pension fund; adoption of tables and certification of rates.* ::
 
 
 The actuary appointed by the board of estimate shall be the technical adviser of the board on all matters regarding the operation of the funds provided for by this subchapter and shall perform such other duties as are required of him or her. He or she shall keep in convenient form such data as shall be necessary for the actuarial valuation of such funds. Every five years, he or she shall make an actuarial investigation into the mortality, service and compensation experience of the members and beneficiaries as defined by this subchapter and he or she shall make a valuation, as of June thirtieth of each year, of the assets and liabilities of the various funds provided for by this subchapter at such times as he or she shall determine. Upon the basis of such investigation such board shall:
@@ -762,7 +806,9 @@ The actuary appointed by the board of estimate shall be the technical adviser of
 
 
 
-*§ 13-222 Pension fund; reports. * ::
+
+
+*§ 13-222 Pension fund; reports.* ::
 
 
 Such board shall publish annually in the City Record a report for the preceding year showing a valuation of the assets and liabilities of the funds provided for by this subchapter as certified by the actuary, and a statement as to the accumulated cash and securities of the funds as certified by the comptroller, and shall set forth in such report such other facts, recommendations and data as may be of value in the advancement of knowledge concerning employees' pensions and annuities.
@@ -770,7 +816,9 @@ Such board shall publish annually in the City Record a report for the preceding 
 
 
 
-*§ 13-223 Medical board. * ::
+
+
+*§ 13-223 Medical board.* ::
 
 
 a. (1) There shall be a medical board of three physicians. One of such physicians shall be appointed by the board and shall hold office at the pleasure of such board, one shall be appointed by the commissioner of health and shall hold office at the pleasure of such commissioner, and the third shall be appointed by the commissioner of citywide administrative services and shall hold office at the pleasure of such commissioner.
@@ -782,7 +830,9 @@ b. The medical board shall arrange for and shall pass upon all medical examinati
 
 
 
-*§ 13-224 The funds; component funds. * ::
+
+
+*§ 13-224 The funds; component funds.* ::
 
 
 The funds provided for herein are the annuity savings fund, the annuity reserve fund, the dependent benefit contingent reserve fund, the dependent benefit reserve fund, the contingent reserve fund and the pension reserve fund.
@@ -790,7 +840,9 @@ The funds provided for herein are the annuity savings fund, the annuity reserve 
 
 
 
-*§ 13-225 Contributions of members and their use; annuity savings fund. * ::
+
+
+*§ 13-225 Contributions of members and their use; annuity savings fund.* ::
 
 
 a. (1) The annuity savings fund shall be the fund in which there shall be accumulated deductions from the compensation of members to provide for their annuities and their withdrawal allowances. Upon the basis of the tables herein authorized, and regular interest, the actuary of such board shall determine for each member the proportion of compensation which, when deducted from each payment of his or her prospective earnable compensation prior to his or her eligibility for retirement and accumulated at regular interest until the attainment of the minimum age or period of service retirement elected by him or her, shall be computed to provide, at that time, an annuity equal to twenty-five seventy-fifths of the pension then allowable to him or her for service as a member. Such proportion of compensation shall be computed to remain constant. Notwithstanding the foregoing, the rate of contribution required to be made on and after October first, nineteen hundred fifty-one, by any member whose rate was computed pursuant to this subdivision, as enacted by local law two of nineteen hundred forty, shall be twenty-five forty-fifths of such prior rate.
@@ -810,7 +862,9 @@ e. In the case of a member receiving extra pay, salary or compensation for addit
 
 
 
-*§ 13-225.1 Employer pick up of member contributions. * ::
+
+
+*§ 13-225.1 Employer pick up of member contributions.* ::
 
 
 a. Notwithstanding any other provision of law to the contrary, on and after the starting date for pick up, the city shall pick up and pay into the annuity savings fund, the member contributions eligible for pick up by the employer which each member would otherwise be required to make on and after such starting date.
@@ -840,7 +894,9 @@ f. Employer pick-up of contributions in respect of previous service or military 
 
 
 
-*§ 13-226 Pensions-for-increased-take-home-pay. * ::
+
+
+*§ 13-226 Pensions-for-increased-take-home-pay.* ::
 
 
 a. 1. The mayor, by executive order, adopted prior to the first day of June, nineteen hundred sixty-three, may direct that beginning with the first full payroll period following January first, nineteen hundred sixty-three, and ending with the payroll period immediately prior to that, the first day of which is nearest to June thirtieth, nineteen hundred sixty-four, the contribution of each member made pursuant to subdivision b or e of section 13-225 of this subchapter, exclusive of any increase thereof pursuant to subdivisions c and d of section 13-225 of this subchapter, or of any reduction thereof pursuant to subdivision one of section one hundred thirty-eight-b of the retirement and social security law, shall be reduced by two and one-half percent of the compensation of such member. Such a reduction shall be subject to waiver by the member as provided in subdivision d of this section and shall take precedence over the member's privilege under subdivision one of section one hundred thirty-eight-b of the retirement and social security law, to decrease his or her annuity contribution for the purpose of paying his or her contributions for old age, survivors, and disability insurance coverage or the tax imposed upon him or her pursuant to the federal insurance contribution act. Such executive order may also provide for a method or procedure for the refunding or crediting to a member by the pension fund of the amount of the reduction in his or her deductions for any period prior to the adoption of such executive order.
@@ -878,7 +934,9 @@ f. The benefits provided pursuant to paragraph one of subdivision a of this sect
 
 
 
-*§ 13-227 Contributions of members and their use; annuity reserve fund and dependent benefit reserve funds. * ::
+
+
+*§ 13-227 Contributions of members and their use; annuity reserve fund and dependent benefit reserve funds.* ::
 
 
 a. The annuity reserve fund shall be the fund from which shall be paid all annuities and all benefits in lieu of annuities, payable as provided in this subchapter.
@@ -892,7 +950,9 @@ d. Upon the basis of the mortality and other tables herein authorized, and regul
 
 
 
-*§ 13-228 Contributions of the city and their use; contingent reserve fund. * ::
+
+
+*§ 13-228 Contributions of the city and their use; contingent reserve fund.* ::
 
 
 a. The contingent reserve fund shall be the fund in which shall be accumulated the reserve necessary to pay all pensions and the reserve-for-increased-take-home-pay, and all death benefits allowable by the city on account of the city-service of members as provided in this subchapter.
@@ -1212,7 +1272,9 @@ f. [Repealed.]
 
 
 
-*§ 13-229 Contributions of the city and their use; pension reserve fund. * ::
+
+
+*§ 13-229 Contributions of the city and their use; pension reserve fund.* ::
 
 
 The pension reserve fund shall be the fund from which shall be paid all pensions, and all pensions-provided-for-increased-take-home-pay, and all benefits in lieu of pensions, and all benefits in lieu of pensions-providing-for-increased-take-home-pay, if any, allowable by the city on account of the city-service of members. Should any pension or pension-providing-for-increased-take-home-pay payable from such pension reserve fund be cancelled, the pension reserve or reserve-for-increased-take-home-pay thereon shall thereupon be transferred from the pension reserve fund to the contingent reserve fund. Should any pension or pension-providing-for-increased-take-home-pay payable from such fund be reduced, the amount of the annual reduction in such pension or pension-providing-for-increased-take-home-pay shall be paid annually into the contingent reserve fund during the period of such reduction.
@@ -1220,7 +1282,9 @@ The pension reserve fund shall be the fund from which shall be paid all pensions
 
 
 
-*§ 13-230 Contributions of public benefit corporations and their use. * ::
+
+
+*§ 13-230 Contributions of public benefit corporations and their use.* ::
 
 
 Notwithstanding the requirements of section 13-228 of this subchapter, of the amounts due from the city, all amounts due to the contingent reserve fund on account of any members of the pension fund during the period of their employment by any authority or body corporate and politic constituting a public benefit corporation or its successor, shall be paid by such employing authority or body corporate and politic or successor.
@@ -1228,7 +1292,9 @@ Notwithstanding the requirements of section 13-228 of this subchapter, of the am
 
 
 
-*§ 13-231 Guarantee of funds. * ::
+
+
+*§ 13-231 Guarantee of funds.* ::
 
 
 a. Regular interest, charges payable, the creation and maintenance of reserves in the contingent reserve fund and the pension reserve fund and the maintenance of annuity reserves, pension reserves, dependent benefit reserves and reserves-for-increased-take-home-pay as provided for in this subchapter and the payment of all pensions, pensions-providing-for-increased-take-home-pay, annuities, retirement allowances, refunds, death benefits, dependent benefits and any other benefits granted under the provisions of this subchapter, are hereby made obligations of the city. Except as otherwise provided in sections 13-232, 13-232.1, 13-232.2 and 13-232.3 of this subchapter, all income, interest and dividends derived from deposits and investments authorized by this subchapter shall be used and disposed of in the manner prescribed by subdivision b of this section. Upon the basis of each actuarial determination and appraisal provided for in this subchapter, the commissioner shall prepare pursuant to section one hundred twelve of the charter and submit to the director of management and budget an itemized estimate of the amounts necessary to be appropriated by the city to the various funds to provide for payment in full during the ensuing fiscal year of all such obligations of the city accruing during the ensuing fiscal year. There shall be included annually in the budget a sum sufficient to provide for such obligations of the city. The comptroller shall pay the sums so provided into the various funds provided for by this subchapter, subject to the provisions of subdivision b of this section.
@@ -1282,7 +1348,9 @@ c. (1) The comptroller shall make monthly payments, in twelve equal installments
 
 
 
-*§ 13-232 Payments to variable supplements funds. * ::
+
+
+*§ 13-232 Payments to variable supplements funds.* ::
 
 
 a. For the purposes of this section, the following terms shall mean and include:
@@ -1362,7 +1430,9 @@ f. The police officer's variable supplements fund and the police superior office
 
 
 
-*§ 13-232.1 Payments to police officer's variable supplements fund for base fiscal years commencing on or after July first, nineteen hundred eighty-eight. * ::
+
+
+*§ 13-232.1 Payments to police officer's variable supplements fund for base fiscal years commencing on or after July first, nineteen hundred eighty-eight.* ::
 
 
 a. For the purposes of this section, the definitions of terms set forth in paragraphs two, five, six, seven, eight and fourteen of subdivision a of section 13-232 of this subchapter shall apply to this section 13-232.1 with the same force and effect as if such definitions were specifically set forth in this section.
@@ -1420,7 +1490,9 @@ g. The comptroller shall furnish to the board such information and data as it ma
 
 
 
-*§ 13-232.2 Payments to police superior officers' variable supplements fund for base fiscal years included in the period commencing on July first, nineteen hundred eighty-eight and ending on June thirtieth, nineteen hundred ninety-two. * ::
+
+
+*§ 13-232.2 Payments to police superior officers' variable supplements fund for base fiscal years included in the period commencing on July first, nineteen hundred eighty-eight and ending on June thirtieth, nineteen hundred ninety-two.* ::
 
 
 a. For the purposes of this section, the definitions of terms set forth in paragraphs two, four, six, eight, nine and ten of subdivision a of section 13-232 of this subchapter shall apply to this section 13-232.2 with the same force and effect as if such definitions were specifically set forth in this section.
@@ -1518,7 +1590,9 @@ e. The comptroller shall furnish to the board such information and data as it ma
 
 
 
-*§ 13-232.3 Payments to police superior officers' variable supplements fund for base fiscal years commencing on or after July first, nineteen hundred ninety-two. * ::
+
+
+*§ 13-232.3 Payments to police superior officers' variable supplements fund for base fiscal years commencing on or after July first, nineteen hundred ninety-two.* ::
 
 
 a. For the purposes of this section, the definitions of terms set forth in paragraphs two, five, six, seven, eight and fifteen of subdivision a of section 13-232 of this subchapter shall apply to this section 13-232.3 with the same force and effect as if such definitions were specifically set forth in this section.
@@ -1566,7 +1640,9 @@ g. The comptroller shall furnish to the board such information and data as it ma
 
 
 
-*§ 13-233 Trustees of funds; investments. * ::
+
+
+*§ 13-233 Trustees of funds; investments.* ::
 
 
 a. The members of the board shall be the trustees of the several funds provided for by this subchapter, and shall have full power to invest the same, subject to the terms, conditions, limitations and restrictions imposed by law upon savings banks in the making and disposing of investments by savings banks; and, subject to like terms, conditions, limitations and restrictions, such trustees shall have full power to hold, purchase, sell, assign, transfer or dispose of any of the securities or investments in which any of the funds provided for by this subchapter shall have been invested as well as of the proceeds of such investments and of any moneys belonging to such funds.
@@ -1582,7 +1658,9 @@ b. Notwithstanding the provisions of subdivision two of section one hundred seve
 
 
 
-*§ 13-234 Allowance of interest. * ::
+
+
+*§ 13-234 Allowance of interest.* ::
 
 
 a. Such board shall annually allow regular interest on the mean amount for the preceding year in each of the funds provided for in accordance with the provisions of this chapter. The amount so allowed shall be due and payable to such funds, and shall be annually credited thereto by such board.
@@ -1660,7 +1738,9 @@ m. The allowance of special interest, additional interest and supplementary inte
 
 
 
-*§ 13-235 Custodian of funds. * ::
+
+
+*§ 13-235 Custodian of funds.* ::
 
 
 The comptroller shall be custodian of the several funds provided for by this subchapter. Such funds, and all moneys which shall form a part thereof, or which shall hereafter accrue to them, shall be in his or her custody for the purposes of this subchapter subject to the direction, control and approval of such board as to disposition, investment, management and report.
@@ -1668,7 +1748,9 @@ The comptroller shall be custodian of the several funds provided for by this sub
 
 
 
-*§ 13-236 Payments from funds. * ::
+
+
+*§ 13-236 Payments from funds.* ::
 
 
 All payments from such funds shall be made by such comptroller upon a voucher signed by the secretary of the board.
@@ -1676,7 +1758,9 @@ All payments from such funds shall be made by such comptroller upon a voucher si
 
 
 
-*§ 13-237 Fund for current needs. * ::
+
+
+*§ 13-237 Fund for current needs.* ::
 
 
 For the purpose of meeting disbursements for pensions, pensions-providing-for-increased-take-home-pay, annuities and other payments, there may be kept an available fund, not exceeding ten per cent of the total amount in the several funds provided for by this subchapter, on deposit in any bank in this state organized under the laws thereof or under the laws of the United States, or in any trust company incorporated by any law of this state, provided such bank or trust company shall furnish adequate security for such fund, and further provided that the sum deposited in any one bank or trust company shall not exceed twenty-five per cent of the paid-up capital and surplus of such bank or trust company.
@@ -1684,7 +1768,9 @@ For the purpose of meeting disbursements for pensions, pensions-providing-for-in
 
 
 
-*§ 13-238 Prohibition upon trustees and employees. * ::
+
+
+*§ 13-238 Prohibition upon trustees and employees.* ::
 
 
 Except as provided in this subchapter, the trustees and employees assigned to the board are prohibited from having any interest, directly or indirectly, in the gains or profits of any investment of the pension fund or as such, directly or indirectly, from receiving any pay or emolument for their services. The trustees and such employees, directly or indirectly, for themselves or as agents or partners of others, shall not borrow any of its funds or deposits or in any manner use the same except to make such current and necessary payments as are authorized by such board; nor shall any such trustee or any such employee become an indorser or surety or become in any manner an obligor for moneys loaned by or borrowed of such pension fund.
@@ -1692,7 +1778,9 @@ Except as provided in this subchapter, the trustees and employees assigned to th
 
 
 
-*§ 13-239 Rules regulating loans to members. * ::
+
+
+*§ 13-239 Rules regulating loans to members.* ::
 
 
 Any member who shall have been a member continuously at least three years, may borrow from the pension fund, subject to such rules and regulations as may be approved by such board, an amount not exceeding ninety per centum of the amount of his or her accumulated contributions provided that the amount so borrowed together with interest thereon, can be repaid before attainment of age sixty-three years by additional deductions of ten per centum from his or her compensation made at the same time compensation is paid to the member. The amount so borrowed together with regular interest creditable to the account of the member on any unpaid balance thereof shall be repaid to the pension fund in equal instalments by deduction from the compensation of the member at the time the compensation is paid, but such instalments shall be at least two per centum of the member's earnable compensation and at least sufficient to repay before attainment of age sixty-three years, the amount borrowed with interest thereon. Notwithstanding anything to the contrary in this subchapter, the additional deductions required to repay the loan shall be made, and the interest paid on the loan shall be credited to the proper funds of the pension fund. In lieu of loan, any member whose rate of contribution is cancelled, may withdraw from his or her account and may restore thereto in any year as he or she may elect any sum in excess of the maximum in his or her annuity savings account and due thereto at the end of the calendar year in which he or she became entitled to cancel his or her rate. The actuarial equivalent of any unpaid balance of a loan at the time any benefit may become payable shall be deducted from the benefit otherwise payable except that each loan made pursuant to this section shall be insured by the pension fund, without cost to the member, against the death of such member in an amount up to but not exceeding twenty-five thousand dollars as follows:
@@ -1708,7 +1796,9 @@ Any member who shall have been a member continuously at least three years, may b
 
 
 
-*§ 13-240 Termination of membership; discontinuance of service. * ::
+
+
+*§ 13-240 Termination of membership; discontinuance of service.* ::
 
 
 Should a member discontinue city-service except by death or retirement, he or she shall be paid such part of the amount of the accumulated deductions standing to the credit of his or her individual account in the annuity savings fund as he or she shall demand. Such board, however, in its discretion, may withhold for not more than one year after a member last rendered city-service all or part of his or her accumulated deductions, if after a previous discontinuance of service he or she withdrew from the annuity savings fund all or part of the amount of his or her accumulated deductions and failed to redeposit such withdrawn amount in such fund.
@@ -1716,7 +1806,9 @@ Should a member discontinue city-service except by death or retirement, he or sh
 
 
 
-*§ 13-241 Termination of membership; election to city, county or state office. * ::
+
+
+*§ 13-241 Termination of membership; election to city, county or state office.* ::
 
 
 Should a member previously in city-service as a city official or employee be elected a city, county or state official, he or she may on application therefor and approval by the mayor, withdraw from the pension fund, and upon such withdrawal, he or she shall be paid such part of the amount of the accumulated deductions standing to the credit of his or her individual account in the annuity savings fund as he or she shall be entitled to receive.
@@ -1724,7 +1816,9 @@ Should a member previously in city-service as a city official or employee be ele
 
 
 
-*§ 13-242 Termination of membership; miscellaneous. * ::
+
+
+*§ 13-242 Termination of membership; miscellaneous.* ::
 
 
 Membership in the pension fund shall cease upon the occurrence of any one of the following conditions:
@@ -1742,7 +1836,9 @@ Membership in the pension fund shall cease upon the occurrence of any one of the
 
 
 
-*§ 13-243 Death benefits; ordinary death benefits. * ::
+
+
+*§ 13-243 Death benefits; ordinary death benefits.* ::
 
 
 a. Upon the death of a member or of a former member, there shall be paid to his or her estate, or to such person as he or she has nominated or shall nominate by written designation duly executed and filed with such board during the lifetime of the member:
@@ -1764,7 +1860,9 @@ d. Notwithstanding the foregoing provisions of this section, and in lieu of any 
 
 
 
-*§ 13-244 Death benefits; accidental death benefits. * ::
+
+
+*§ 13-244 Death benefits; accidental death benefits.* ::
 
 
 Upon the accidental death of a member before retirement, provided that evidence shall be submitted to such board proving that the death of such member was the natural and proximate result of an accident sustained while a member and while in the performance of duty at some definite time and place and that such death was not the result of wilful negligence on his or her part, his or her accumulated deductions shall be paid to his or her estate, or to such persons as he or she has nominated or shall nominate by written designation, duly acknowledged and filed with such board. Upon application by or on behalf of the dependent of such deceased member, such board shall grant a lump sum payment of the reserve-for-increased-take-home-pay and, in addition thereto, a pension of one-half of the final compensation of such employee, which pension shall in no case be less than one-half of the full salary payable to a first grade police officer on the date of death of such employee:
@@ -1780,7 +1878,9 @@ Upon the accidental death of a member before retirement, provided that evidence 
 
 
 
-*§ 13-245 Accidental death benefits in the case of deaths occurring prior to July first, nineteen hundred sixty-five. * ::
+
+
+*§ 13-245 Accidental death benefits in the case of deaths occurring prior to July first, nineteen hundred sixty-five.* ::
 
 
 a. Notwithstanding the provisions of section 13-244 of this subchapter, in any case where a pension was or is awarded under the provisions of such section, by reason of the death of a member occurring before July first, nineteen hundred and sixty-five, such pension, subject to the provisions of subdivisions b and c of this section, shall be:
@@ -1796,7 +1896,9 @@ c. The pension payable pursuant to the provisions of subdivisions a and b of thi
 
 
 
-*§ 13-246 Retirement; minimum age or period for service retirement. * ::
+
+
+*§ 13-246 Retirement; minimum age or period for service retirement.* ::
 
 
 Any member in city-service who shall have attained the minimum age or period of service retirement elected by him or her upon such member's own written application to and filed with the board setting forth at what time, not less than thirty days subsequent to the execution and filing thereof, he or she desires to be retired, shall be retired as of the date specified in said application, provided that at the time so specified for his or her retirement, his or her term or tenure of office or employment shall not have terminated or have been forfeited, provided further that upon such member request in writing the member shall be granted a leave of absence from the date of filing said application until the date the retirement becomes effective.
@@ -1804,7 +1906,9 @@ Any member in city-service who shall have attained the minimum age or period of 
 
 
 
-*§ 13-247 Retirement; selection of either twenty or twenty-five years of city-service. * ::
+
+
+*§ 13-247 Retirement; selection of either twenty or twenty-five years of city-service.* ::
 
 
 a. Any person becoming a member who was not previously a member or who during his or her last previous membership in the pension fund contributed on the basis of a minimum period of retirement of twenty years of city-service, may elect, prior to the certification of his or her rate of contribution, to contribute on the basis of a minimum retirement period of twenty years of city-service, by a written election duly executed and acknowledged and filed with the board. The minimum period of retirement for such member so electing shall be twenty years of city-service, and all contributions and benefits payable by or on account of any such member shall be computed on the basis of such minimum retirement period.
@@ -1814,7 +1918,9 @@ b. Any person becoming a member who was not previously a member or who during hi
 
 
 
-*§ 13-248 Retirement; selection of age fifty-five. * ::
+
+
+*§ 13-248 Retirement; selection of age fifty-five.* ::
 
 
 Any person becoming a member who was not previously a member or who during his or her last previous membership in the pension fund contributed on the basis of a minimum retirement age of fifty-five, may elect, prior to the certification of his or her rate of contribution, to contribute on the basis of a minimum retirement age of fifty-five by a written election duly executed and acknowledged and filed with the board. The minimum age of retirement for such members so electing shall be fifty-five years, and all contributions and benefits payable by or on account of such member shall be computed on the basis of such minimum retirement age.
@@ -1822,7 +1928,9 @@ Any person becoming a member who was not previously a member or who during his o
 
 
 
-*§ 13-249 Method of computing certain pensions. * ::
+
+
+*§ 13-249 Method of computing certain pensions.* ::
 
 
 In lieu of any other retirement benefits granted to him or her upon retirement from the police force, any member who shall have served as a chief inspector/chief of operations of the police department on or after July first, nineteen hundred sixty-six, shall be entitled upon retirement to a retirement allowance which shall consist of an annuity which is the actuarial equivalent of his or her accumulated deductions at the time of his or her retirement from the police force and a pension which, when added to such annuity, will make such retirement allowance equal to two-thirds of his or her salary as chief inspector. For the purpose of computing the annuity portion of such retirement allowance, such member's accumulated deductions shall be the required amount of such deductions at the time of such member's retirement from the police force, without any increase resulting from excess contributions and without any decrease resulting from withdrawals, loans, optional modification, payment of his or her contributions for old age and survivor's insurance coverage, or from any other transaction authorized by law.
@@ -1830,7 +1938,9 @@ In lieu of any other retirement benefits granted to him or her upon retirement f
 
 
 
-*§ 13-250 Continuance of retirement allowance upon election to public office. * ::
+
+
+*§ 13-250 Continuance of retirement allowance upon election to public office.* ::
 
 
 Notwithstanding the provisions of any general, special, local law, charter, administrative code or rule or regulation to the contrary, the payment of any pension from the police pension fund, subchapter two of this chapter, shall not be revoked, repealed or diminished by reason of the pensioner holding or receiving any compensation as the result of his or her election to a public office under the state of New York, or of any city, county or other political subdivision or agency or board of the state of New York.
@@ -1838,7 +1948,9 @@ Notwithstanding the provisions of any general, special, local law, charter, admi
 
 
 
-*§ 13-251 Retirement; for ordinary disability. * ::
+
+
+*§ 13-251 Retirement; for ordinary disability.* ::
 
 
 Medical examination of a member in city-service for ordinary disability shall be made upon the application of the commissioner, or upon the application of such member or of a person acting in his or her behalf, stating that such member is physically or mentally incapacitated for the performance of duty and ought to be retired. If such medical examination shows that such member is physically or mentally incapacitated for the performance of duty and ought to be retired, the medical board shall so report and the board shall retire such member for ordinary disability not less than thirty nor more than ninety days after the execution and filing of application therefor with the pension fund.
@@ -1846,7 +1958,9 @@ Medical examination of a member in city-service for ordinary disability shall be
 
 
 
-*§ 13-252 Retirement; for accident disability. * ::
+
+
+*§ 13-252 Retirement; for accident disability.* ::
 
 
 Medical examination of a member in city-service for accident disability and investigation of all statements and certifications by him or her or on his or her behalf in connection therewith shall be made upon the application of the commissioner, or upon the application of a member or of a person acting in his or her behalf, stating that such member is physically or mentally incapacitated for the performance of city-service, as a natural and proximate result of such city-service, and certifying the time, place and conditions of such city-service performed by such member resulting in such alleged disability and that such alleged disability was not the result of wilful negligence on the part of such member and that such member should, therefore, be retired. If such medical examination and investigation shows that such member is physically or mentally incapacitated for the performance of city-service as a natural and proximate result of an accidental injury received in such city-service while a member, and that such disability was not the result of wilful negligence on the part of such member and that such member should be retired, the medical board shall so certify to the board, stating the time, place and conditions of such city-service performed by such member resulting in such disability, and such board shall retire such member for accident disability forthwith.
@@ -1854,7 +1968,9 @@ Medical examination of a member in city-service for accident disability and inve
 
 
 
-*§ 13-252.1 Accidental disability retirement; World Trade Center presumption. * ::
+
+
+*§ 13-252.1 Accidental disability retirement; World Trade Center presumption.* ::
 
 
 1. (a) Notwithstanding any provisions of this code or of any general, special or local law, charter or rule or regulation to the contrary, if any condition or impairment of health is caused by a qualifying World Trade Center condition as defined in section two of the retirement and social security law, it shall be presumptive evidence that it was incurred in the performance and discharge of duty and the natural and proximate result of an accident not caused by such member's own willful negligence, unless the contrary be proved by competent evidence.
@@ -1878,7 +1994,9 @@ Medical examination of a member in city-service for accident disability and inve
 
 
 
-*§ 13-253 Dependent benefits for surviving spouses and orphans. * ::
+
+
+*§ 13-253 Dependent benefits for surviving spouses and orphans.* ::
 
 
 a. The board shall pay a dependent benefit to the surviving spouse, child or children or dependent parent or parents of any deceased member if the death of such member occur during his or her service or after he or she was retired from service. The amount of any such dependent benefit to be paid by the board to each of the several representatives of such member, in case there shall be more than one, from time to time, may be determined by such board according to the circumstances of each case. The annual dependent benefit to the representative or representatives of such member, however, shall be six hundred dollars, and no part of such sum shall be paid to any such surviving spouse who shall remarry, after such remarriage, or to any child after it shall have reached the age of eighteen years.
@@ -1890,7 +2008,9 @@ c. The benefits granted pursuant to this section shall be in addition to any oth
 
 
 
-*§ 13-254 Safeguards on disability retirement. * ::
+
+
+*§ 13-254 Safeguards on disability retirement.* ::
 
 
 a. Once each year the board may, and upon his or her application shall, require any disability pensioner, under the minimum age or period for service retirement elected by him or her, to undergo medical examination. Such examination shall be made at the place of residence of such beneficiary or other place mutually agreed upon. Upon the completion of such examination the medical board shall report and certify to the board whether such beneficiary is or is not totally or partially incapacitated physically or mentally and whether he or she is or is not engaged in or able to engage in a gainful occupation. If the board concurs in a report by the medical board that such beneficiary is able to engage in a gainful occupation, he or she shall certify the name of such beneficiary to the appropriate civil service commission, state or municipal, and such commission shall place his or her name as a preferred eligible on such appropriate lists of candidates as are prepared for appointment to positions for which he or she is stated to be qualified. Should such beneficiary be engaged in a gainful occupation, or should he or she be offered city-service as a result of the placing of his or her name on a civil service list, such board shall reduce the amount of his or her disability pension and his or her pension-for-increased-take-home-pay, if any, to an amount which, when added to that then earned by him or her, or earnable by him or her in city-service so offered him or her, shall not exceed the current maximum salary for the title next higher than that held by him or her when he or she was retired. Should the earning capacity of such beneficiary be further altered, such board may further alter his or her pension and his or her pension-for-increased-take-home-pay, if any, to an amount which shall not exceed the rate of pension and his or her pension-for-increased-take-home-pay, if any, upon which he or she was originally retired but which, subject to such limitation, shall equal, when added to that earnable by him or her, the current maximum salary for the title next higher than that held by him or her when he or she was retired. The provisions of this section shall be executed, any provision of the charter or the code to the contrary notwithstanding.
@@ -1900,7 +2020,9 @@ b. Should any disability pensioner, under the minimum age or period for service 
 
 
 
-*§ 13-255 Retirement allowances; for service. * ::
+
+
+*§ 13-255 Retirement allowances; for service.* ::
 
 
 Upon retirement for service, a member shall receive a retirement allowance which shall consist of:
@@ -1918,7 +2040,9 @@ Upon retirement for service, a member shall receive a retirement allowance which
 
 
 
-*§ 13-256 Vested retirement rights. * ::
+
+
+*§ 13-256 Vested retirement rights.* ::
 
 
 a. Any member who:
@@ -1980,7 +2104,9 @@ k. Notwithstanding any other provision of law, a discontinued member with ten or
 
 
 
-*§ 13-256.1 Discharge or dismissal. * ::
+
+
+*§ 13-256.1 Discharge or dismissal.* ::
 
 
 a. Notwithstanding any other provision of law, when a member has attained at least twenty years of creditable police service in the retirement system, the discharge or dismissal from employment of such person shall not preclude such person from receiving any rights or benefits to which he or she shall otherwise be entitled as a member or retired member of the retirement system nor upon retirement shall his or her benefits be in any way diminished as a result of such discharge or dismissal. Such member shall be deemed to be retired on the date of his or her discharge or dismissal from service for purposes of determining his or her rights and benefits as a member of the retirement system.
@@ -1992,7 +2118,9 @@ c. Nothing in this section shall be construed to in any way modify or affect the
 
 
 
-*§ 13-257 Retirement allowances; for ordinary disability. * ::
+
+
+*§ 13-257 Retirement allowances; for ordinary disability.* ::
 
 
 Upon retirement for ordinary disability, a member shall receive a retirement allowance which shall consist of:
@@ -2014,7 +2142,9 @@ c. (1) In the case of a member who contributes on the basis of retirement at age
 
 
 
-*§ 13-258 Retirement allowances; for accident disability. * ::
+
+
+*§ 13-258 Retirement allowances; for accident disability.* ::
 
 
 Upon retirement for accident disability, a member shall receive a retirement allowance which shall consist of:
@@ -2028,7 +2158,9 @@ Upon retirement for accident disability, a member shall receive a retirement all
 
 
 
-*§ 13-259 Accidental disability benefits in the case of retirements prior to July first, nineteen hundred sixty-five. * ::
+
+
+*§ 13-259 Accidental disability benefits in the case of retirements prior to July first, nineteen hundred sixty-five.* ::
 
 
 a. Notwithstanding the provisions of section 13-258 of this subchapter, in any case where a retirement allowance was or is awarded under the provisions of such section, by reason of the retirement for accidental disability of a member occurring before July first, nineteen hundred sixty-five, such retirement allowance shall not be less than three-fourths the annual salary or compensation payable to a first grade patrolman on July first, nineteen hundred sixty-five. In the case of a member receiving a lesser retirement allowance than three-fourths the annual salary or compensation of a first grade patrolman as of July first, nineteen hundred and sixty-five, there shall be added to the pension portion of his or her retirement allowance an amount which when added to his or her retirement allowance provided for under section 13-258 of this subchapter, shall equal three-fourths the annual salary or compensation payable to a first grade patrolman as of July first, nineteen hundred and sixty-five. For the purpose of computing the annuity portion of such retirement allowance, his or her accumulated deductions shall be the required amount of such deductions at the time of his or her retirement from the police force, without any increase resulting from excess contributions and without any decrease resulting from withdrawals, loans, optional modification, payment of his or her contributions for old age and survivors insurance coverage, or from any other transaction authorized by law.
@@ -2040,7 +2172,9 @@ c. The retirement allowance payable pursuant to the provisions of subdivisions a
 
 
 
-*§ 13-260 Retirement allowances; restrictions on. * ::
+
+
+*§ 13-260 Retirement allowances; restrictions on.* ::
 
 
 a. If a lump sum which has been paid or which is payable under the provisions of the workers' compensation law equals or exceeds the present value of all amounts otherwise payable out of moneys provided or to be provided by the city under the provisions of this subchapter on account of the same disability of the same person, no payment shall be made to such person under the provisions of this subchapter. If such lump sum be a percentage less than one hundred per cent of the present value of all such amounts, there shall be paid as it becomes due under the provisions of this subchapter, in lieu of each amount otherwise payable, an amount equal to the percentage thereof which is the difference between such lesser per cent and one hundred per cent.
@@ -2054,7 +2188,9 @@ d. Notwithstanding any of the foregoing provisions of this section or any other 
 
 
 
-*§ 13-261 Retirement; options in which retirement allowances may be taken. * ::
+
+
+*§ 13-261 Retirement; options in which retirement allowances may be taken.* ::
 
 
 a. Until the first payment on account of any benefit is made, except pursuant to the provisions of section 13-261.2 of this subchapter, the beneficiary, or, if such beneficiary is an incompetent, then the husband or wife of such beneficiary, or, if there be no husband or wife, a committee of the estate, may elect to receive such benefit in a retirement allowance payable throughout life, or the beneficiary or the husband or wife or committee so electing may then elect to receive the actuarial equivalent at that time of his or her annuity, his or her pension, or his or her retirement allowance in a lesser annuity or a lesser pension or a lesser retirement allowance, payable throughout life with the provision that: Option 1. If he or she die before he or she has received in payments the present value of his or her annuity, his or her pension, or his or her retirement allowance, as it was at the time of his or her retirement, the balance shall be paid to his or her legal representatives or to such person as the beneficiary, or the husband or wife or committee so electing, has nominated or shall nominate by written designation duly acknowledged and filed with the board. Option 2. Upon his or her death, his or her annuity, his or her pension, or his or her retirement allowance, shall be continued throughout the life of and paid to such person as the beneficiary, or the husband or wife or committee so electing, has nominated or shall nominate by written designation duly acknowledged and filed with the board at the time of his or her retirement. Option 3. Upon his or her death, one-half of his or her annuity, his or her pension, or his or her retirement allowance, shall be continued throughout the life of and paid to such person as the beneficiary, or the husband or wife or committee so electing, has nominated or shall nominate by written designation duly acknowledged and filed with the board at the time of his or her retirement. Option 4. Upon his or her death, some other benefit or benefits shall be paid to such other person or persons as the beneficiary, or the husband or wife or committee so electing, has nominated or shall nominate, provided such other benefit or benefits, together with such lesser annuity, or lesser pension, or lesser retirement allowance, shall be certified by the actuary to be of equivalent actuarial value to his or her annuity, his or her pension or his or her retirement allowance, and shall be approved by such board.
@@ -2064,7 +2200,9 @@ b. For purposes of this section, the terms "pension" and "retirement allowance" 
 
 
 
-*§ 13-261.1 Modified Option 1 pension computation formula. * ::
+
+
+*§ 13-261.1 Modified Option 1 pension computation formula.* ::
 
 
 a. The board may by resolution direct that under such circumstances as are designated in such resolution, benefits under Option 1 which consist of or are derived from the pension component of a retirement allowance and which are payable to or on account of members who:
@@ -2086,7 +2224,9 @@ c. In any case, where, pursuant to board resolution, a benefit is required to be
 
 
 
-*§ 13-261.2 Death of applicant before effective date of retirement. * ::
+
+
+*§ 13-261.2 Death of applicant before effective date of retirement.* ::
 
 
 a. If a member who is otherwise eligible for retirement pursuant to sections 13-251 and 13-252 of this subchapter dies within thirty days after the filing with the pension board of the application for retirement pursuant to section 13-251 or 13-252 of this subchapter and it is established that the physical or mental impairment or incapacitation of the applicant specified in such application was directly related to the cause of the applicant's death, such application shall be approved by the pension board effective one day before the date of the applicant's death, provided, however, that:
@@ -2100,7 +2240,9 @@ b. Notwithstanding any law to the contrary, for the purpose of electing an optio
 
 
 
-*§ 13-261.3 Retired employees; change of options. * ::
+
+
+*§ 13-261.3 Retired employees; change of options.* ::
 
 
 Notwithstanding any other provision of law to the contrary, no beneficiary shall be permitted to change any optional selection after it has become effective, provided, however, that if:
@@ -2112,7 +2254,9 @@ Notwithstanding any other provision of law to the contrary, no beneficiary shall
 
 
 
-*§ 13-262 Benefits upon re-entry into membership; after retirement. * ::
+
+
+*§ 13-262 Benefits upon re-entry into membership; after retirement.* ::
 
 
 a. (1) Should a beneficiary receiving or entitled to receive a retirement allowance under the provisions of section 13-246, 13-247 or 13-248 of this subchapter, re-enter city service, his or her retirement allowance and his or her pension-providing-for-increased-take-home-pay, if any, shall cease.
@@ -2136,7 +2280,9 @@ b. (1) Subject to the provisions of paragraph two of this subdivision, where any
 
 
 
-*§ 13-263 Monthly payments. * ::
+
+
+*§ 13-263 Monthly payments.* ::
 
 
 A pension-providing-for-increased-take-home-pay, an annuity, a dependent benefit, or a retirement allowance granted under the provisions of this subchapter shall be paid in equal monthly instalments or in ratably smaller amounts when the benefit begins after the first day of the month or ends before the last day of the month.
@@ -2144,7 +2290,9 @@ A pension-providing-for-increased-take-home-pay, an annuity, a dependent benefit
 
 
 
-*§ 13-264 Exemption from tax and legal process. * ::
+
+
+*§ 13-264 Exemption from tax and legal process.* ::
 
 
 The right of a person to a pension-providing-for-increased-take-home-pay, an annuity, a dependent benefit, or a retirement allowance, to the return of contribution, the pension-providing-for-increased-take-home-pay, annuity, dependent benefit, or a retirement allowance itself, any optional benefit, any other right accrued or accruing to any person under the provisions of this chapter, and the moneys in the various funds provided for by this chapter are hereby exempt from any state or municipal tax, and shall not be subject to execution, garnishment, attachment, or any other process whatsoever, and shall be unassignable except as in this chapter specifically provided. Notwithstanding the foregoing provisions of this section, a retired member shall have the right, at any time after the retired member's retirement, to execute and file a dues deduction authorization card or an authorization in writing with the New York city police pension fund authorizing the deduction from the retired member's retirement allowance of membership dues or premiums for employee organization sponsored group insurance plans and the payment thereof to a retiree organization of which the retired member certifies he or she is then a member and which the retired member certifies is then affiliated with either an employee organization certified or recognized as the collective bargaining representative of all employees in the negotiating unit of which the retired member was a part prior to his or her retirement or an employee organization with which such employee organization is then affiliated. The comptroller shall thereafter deduct from the retirement allowance of such retired member the amount of membership dues required to be paid by such retired member or premiums for employee organization sponsored group insurance plans and shall transmit the sum so deducted to said retiree organization. Such authorization shall continue in effect until revoked in writing by such retired member. The board shall determine the cost of administering deductions for premiums for employee organization sponsored group insurance plans and the cost incurred by the pension fund and the comptroller in administering the same shall be paid by the employee organization.
@@ -2152,7 +2300,9 @@ The right of a person to a pension-providing-for-increased-take-home-pay, an ann
 
 
 
-*§ 13-264.1 Eligible rollover distributions. * ::
+
+
+*§ 13-264.1 Eligible rollover distributions.* ::
 
 
 a. Notwithstanding anything to the contrary contained in section 13-264 of this subchapter, in the event that, under the terms of this subchapter, a person becomes entitled to a distribution from the pension fund which constitutes an "eligible rollover distribution" within the meaning of paragraph thirty-one of subsection a of section four hundred one of the internal revenue code, such distributee may elect, subject to any rules and regulations adopted pursuant to subdivision b of this section, to have such distribution, or a portion thereof, paid directly to an "eligible retirement plan" within the meaning of paragraph thirty-one of subsection a of section four hundred one of the internal revenue code.
@@ -2162,7 +2312,9 @@ b. The board of trustees is authorized to adopt such rules and regulations as it
 
 
 
-*§ 13-265 Protection against fraud or mistake. * ::
+
+
+*§ 13-265 Protection against fraud or mistake.* ::
 
 
 Any person who shall knowingly make any false statement, or shall falsify or permit to be falsified any record or records of this pension fund, shall be guilty of a misdemeanor. Should any change of error in records result in any member or beneficiary receiving from the pension fund more or less than he or she would have been entitled to receive otherwise, on the discovery of any such error such board shall correct such error, and, as far as practicable, shall adjust the payments in such a manner that the actuarial equivalent of the benefit to which he or she was entitled shall be paid.
@@ -2170,7 +2322,9 @@ Any person who shall knowingly make any false statement, or shall falsify or per
 
 
 
-*§ 13-266 State supervision. * ::
+
+
+*§ 13-266 State supervision.* ::
 
 
 The pension fund shall be subject to the supervision of the department of insurance in accordance with the provisions of sections three hundred seven through three hundred twelve of the insurance law, so far as the same are applicable thereto, and are not inconsistent with the provisions of this subchapter.
@@ -2178,7 +2332,9 @@ The pension fund shall be subject to the supervision of the department of insura
 
 
 
-*§ 13-267 Limitation on other statutes; application of article. * ::
+
+
+*§ 13-267 Limitation on other statutes; application of article.* ::
 
 
 No other provision of law which provides wholly or partly at the expense of the city for pensions or retirement benefits for employees in the city-service, shall apply to such employees who are entitled to be members or beneficiaries of the pension fund provided for by this subchapter, their surviving spouses or their other dependents.
@@ -2186,7 +2342,9 @@ No other provision of law which provides wholly or partly at the expense of the 
 
 
 
-*§ 13-267.1 Excess benefit plan. * ::
+
+
+*§ 13-267.1 Excess benefit plan.* ::
 
 
 a. As used in this section, the following words and phrases shall have the following meanings, unless a different meaning is plainly required by the context:
@@ -2233,7 +2391,9 @@ i. Nothing contained in this section shall be construed as affecting in any way 
 
 **Subchapter 3: [Police officer's Variable Supplements Fund]**
 
-*§ 13-268 Definitions. * ::
+
+
+*§ 13-268 Definitions.* ::
 
 
 As used in this subchapter, the following words and phrases shall have the following meanings, unless a different meaning is plainly required by the context:
@@ -2261,7 +2421,9 @@ As used in this subchapter, the following words and phrases shall have the follo
 
 
 
-*§ 13-269 Police officer's variable supplements fund. * ::
+
+
+*§ 13-269 Police officer's variable supplements fund.* ::
 
 
 a. There is hereby established a fund, to be known as the police officer's variable supplements fund. Such fund shall consist of such monies as may be paid thereto from pension fund, subchapter two, pursuant to the provisions of sections 13-232 and 13-232.1 of this chapter and all other monies received by such fund from any other source pursuant to law.
@@ -2271,7 +2433,9 @@ b. It is hereby declared by the legislature that the police officer's variable s
 
 
 
-*§ 13-270 Board of trustees. * ::
+
+
+*§ 13-270 Board of trustees.* ::
 
 
 a. The variable supplements fund shall be administered by a board of trustees which shall, subject to applicable provisions of law and to the prior approval of the board of estimate, from time to time establish rules and regulations for the administration and transaction of the business of such fund and for the control and disposition thereof.
@@ -2303,7 +2467,9 @@ f. The police commissioner shall assign to the board such number of clerical and
 
 
 
-*§ 13-271 Payment of supplemental benefits. * ::
+
+
+*§ 13-271 Payment of supplemental benefits.* ::
 
 
 a. (1) The variable supplements fund shall pay variable supplements to pension fund beneficiaries in accordance with the provisions of the succeeding paragraphs of this subdivision a.
@@ -2451,7 +2617,9 @@ f. In the event that the assets of the variable supplements fund are not suffici
 
 
 
-*§ 13-272 Variable supplements fund; a corporation. * ::
+
+
+*§ 13-272 Variable supplements fund; a corporation.* ::
 
 
 The variable supplements fund shall have the powers and privileges of a corporation and by its name all of its business shall be transacted, all of its funds invested, all warrants for money drawn and payments made, and all of its cash and securities and other property held.
@@ -2459,7 +2627,9 @@ The variable supplements fund shall have the powers and privileges of a corporat
 
 
 
-*§ 13-273 Trustees of funds; investments. * ::
+
+
+*§ 13-273 Trustees of funds; investments.* ::
 
 
 a. The members of the board shall be the trustees of the monies received by or belonging to the variable supplements fund pursuant to this subchapter and, subject to the provisions of subdivision b of this section, shall have full power to invest same, subject to the terms, conditions, limitations and restrictions imposed by law upon savings banks in the making and disposing of investments by savings banks; and subject to like terms, conditions, limitations and restrictions, such trustees shall have full power to hold, purchase, sell, assign, transfer or dispose of any of the securities or investments in which any of such monies shall have been invested as well as of the proceeds of such investments and of any monies belonging to such fund.
@@ -2469,7 +2639,9 @@ b. The members of the board shall have the same investment powers and power to d
 
 
 
-*§ 13-274 Annual reports. * ::
+
+
+*§ 13-274 Annual reports.* ::
 
 
 The board shall publish annually in the City Record a report for the preceding year showing the assets of the variable supplements fund and a statement as to the accumulated cash and securities of such fund as certified by the comptroller, and shall set forth in such reports such other facts, recommendations and data as the board may deem pertinent.
@@ -2477,7 +2649,9 @@ The board shall publish annually in the City Record a report for the preceding y
 
 
 
-*§ 13-275 Custodian of funds. * ::
+
+
+*§ 13-275 Custodian of funds.* ::
 
 
 The comptroller shall be custodian of the monies and assets of the variable supplements fund. All such monies and assets included in such fund or which shall hereafter accrue to such fund shall be in his or her custody for the purposes of this subchapter subject to the direction, control and approval of such board as to disposition, investment, management and report. All payments from such fund shall be made by the comptroller upon a voucher signed by the secretary of the board.
@@ -2485,7 +2659,9 @@ The comptroller shall be custodian of the monies and assets of the variable supp
 
 
 
-*§ 13-276 Prohibitions with respect to trustees and employees. * ::
+
+
+*§ 13-276 Prohibitions with respect to trustees and employees.* ::
 
 
 Except as provided in this subchapter, the trustees and employees assigned to the board are prohibited from having any interest, directly or indirectly, in the gains or profits of any investment of the variable supplements fund or as such, directly or indirectly, from receiving any pay or emolument for their services. The trustees and such employees, directly or indirectly, for themselves or as agents or partners of others, shall not borrow any of its funds or deposits or in any manner use the same except to make such current and necessary payments as are authorized by such board.
@@ -2493,7 +2669,9 @@ Except as provided in this subchapter, the trustees and employees assigned to th
 
 
 
-*§ 13-277 State supervision. * ::
+
+
+*§ 13-277 State supervision.* ::
 
 
 The superintendent of insurance may examine the affairs of the variable supplements fund with the same powers and jurisdiction as are applicable in the case of an examination of a life insurance company by the superintendent under article three of the insurance law. The variable supplements fund shall be subject to assessment for expenses pursuant to the provisions of section three hundred thirteen of the insurance law, but shall not be subject to assessment for expenses under any of the provisions of section three hundred thirty-two of such law.
@@ -2504,7 +2682,9 @@ The superintendent of insurance may examine the affairs of the variable suppleme
 
 **Subchapter 4: [Police Superior officers' Variable Supplements Fund]**
 
-*§ 13-278 Definitions. * ::
+
+
+*§ 13-278 Definitions.* ::
 
 
 As used in this subchapter, the following words and phrases shall have the following meanings, unless a different meaning is plainly required by the context:
@@ -2532,7 +2712,9 @@ As used in this subchapter, the following words and phrases shall have the follo
 
 
 
-*§ 13-279 Police superior officers' variable supplements fund. * ::
+
+
+*§ 13-279 Police superior officers' variable supplements fund.* ::
 
 
 a. There is hereby established a fund, to be known as the police superior officers' variable supplements fund. Such fund shall consist of such monies as may be paid thereto from pension fund, subchapter two, pursuant to the provisions of sections 13-232, 13-232.2 and 13-232.3 of this chapter and all other monies received by such fund from any other source pursuant to law.
@@ -2542,7 +2724,9 @@ b. It is hereby declared by the legislature that the police superior officers' v
 
 
 
-*§ 13-280 Board of trustees. * ::
+
+
+*§ 13-280 Board of trustees.* ::
 
 
 a. The variable supplements fund shall be administered by a board of trustees which shall, subject to applicable provisions of law and to the prior approval of the board of estimate, from time to time establish rules and regulations for the administration and transaction of the business of such fund and for the control and disposition thereof.
@@ -2574,7 +2758,9 @@ f. The police commissioner shall assign to the board such number of clerical and
 
 
 
-*§ 13-281 Payment of supplemental benefits. * ::
+
+
+*§ 13-281 Payment of supplemental benefits.* ::
 
 
 a. (1) The variable supplements fund shall pay variable supplements to pension fund beneficiaries in accordance with the provisions of the succeeding paragraphs of this subdivision a. (2) For calendar years succeeding December thirty-first, nineteen hundred ninety-two, the variable supplements fund, subject to the provisions of subparagraphs (i) and (ii) of paragraph one of subdivision b of this section, shall pay to each pension fund beneficiary who retired prior to July first, nineteen hundred eighty-eight, and to each person who, having been in service as a member of pension fund, subchapter two on June thirtieth, nineteen hundred eighty-eight, retired for service prior to January first, nineteen hundred ninety-three so as to become a pension fund beneficiary, varible supplements payments as follows:
@@ -2698,7 +2884,9 @@ f. In the event that the assets of the variable supplements fund are not suffici
 
 
 
-*§ 13-282 Variable supplements fund; a corporation. * ::
+
+
+*§ 13-282 Variable supplements fund; a corporation.* ::
 
 
 The variable supplements fund shall have the powers and privileges of a corporation and by its name all of its business shall be transacted, all of its funds invested, all warrants for money drawn and payments made, and all of its cash and securities and other property held.
@@ -2706,7 +2894,9 @@ The variable supplements fund shall have the powers and privileges of a corporat
 
 
 
-*§ 13-283 Trustees of funds; investments. * ::
+
+
+*§ 13-283 Trustees of funds; investments.* ::
 
 
 a. The members of the board shall be the trustees of the monies received by or belonging to the variable supplements fund pursuant to this subchapter and, subject to the provisions of subdivision b of this section, shall have full power to invest same, subject to the terms, conditions, limitations and restrictions imposed by law upon savings banks in the making and disposing of investments by savings banks; and subject to like terms, conditions, limitations and restrictions, such trustees shall have full power to hold, purchase, sell, assign, transfer or dispose of any of the securities or investments in which any of such monies shall have been invested as well as of the proceeds of such investments and of any monies belonging to such fund.
@@ -2716,7 +2906,9 @@ b. The members of the board shall have the same investment powers and power to d
 
 
 
-*§ 13-284 Annual reports. * ::
+
+
+*§ 13-284 Annual reports.* ::
 
 
 The board shall publish annually in the City Record a report for the preceding year showing the assets of the variable supplements fund and a statement as to the accumulated cash and securities of such fund as certified by the comptroller, and shall set forth in such report such other facts, recommendations and data as the board may deem pertinent.
@@ -2724,7 +2916,9 @@ The board shall publish annually in the City Record a report for the preceding y
 
 
 
-*§ 13-285 Custodian of funds. * ::
+
+
+*§ 13-285 Custodian of funds.* ::
 
 
 The comptroller shall be custodian of the monies and assets of the variable supplements fund. All such monies and assets included in such fund or which shall hereafter accrue to such fund shall be in his or her custody for the purposes of this subchapter subject to the direction, control and approval of such board as to disposition, investment, management and report. All payments from such fund shall be made by the comptroller upon a voucher signed by the secretary of the board.
@@ -2732,7 +2926,9 @@ The comptroller shall be custodian of the monies and assets of the variable supp
 
 
 
-*§ 13-286 Prohibitions with respect to trustees and employees. * ::
+
+
+*§ 13-286 Prohibitions with respect to trustees and employees.* ::
 
 
 Except as provided in this subchapter, the trustees and employees assigned to the board are prohibited from having any interest, directly or indirectly, in the gains or profits of any investment of the variable supplements fund or as such, directly or indirectly, from receiving any pay or emolument for their services. The trustees and such employees, directly or indirectly, for themselves or as agents or partners of others, shall not borrow any of its funds or deposits or in any manner use the same except to make such current and necessary payments as are authorized by such board.
@@ -2740,7 +2936,9 @@ Except as provided in this subchapter, the trustees and employees assigned to th
 
 
 
-*§ 13-287 State supervision. * ::
+
+
+*§ 13-287 State supervision.* ::
 
 
 The superintendent of insurance may examine the affairs of the variable supplements fund with the same powers and jurisdiction as are applicable in the case of an examination of a life insurance company by the superintendent under article three of the insurance law. The variable supplements fund shall be subject to assessment for expenses pursuant to the provisions of section three hundred thirteen of the insurance law, but shall not be subject to assessment for expenses under any of the provisions of section three hundred thirty-two of such law.
@@ -2754,7 +2952,9 @@ Chapter 5: Miscellaneous Pension and Retirement Provisions
 
 **Subchapter 1: Relief and Pension Fund of the Department Of Street Cleaning**
 
-*§ 13-601 Organization and membership. * ::
+
+
+*§ 13-601 Organization and membership.* ::
 
 
 The relief and pension fund of the department of street cleaning as now constituted shall be continued only for the benefit of members of such fund on December first, nineteen hundred twenty-nine, and the widows, orphans and dependent parents of such members, as hereinafter provided.
@@ -2762,7 +2962,9 @@ The relief and pension fund of the department of street cleaning as now constitu
 
 
 
-*§ 13-602 Continuance of status in fund. * ::
+
+
+*§ 13-602 Continuance of status in fund.* ::
 
 
 A member of the relief and pension fund of the department of street cleaning appointed to a position in the exempt class in the department of sanitation shall continue to have the same rights, privileges, obligations and status with respect to such fund.
@@ -2770,7 +2972,9 @@ A member of the relief and pension fund of the department of street cleaning app
 
 
 
-*§ 13-603 Composition of fund. * ::
+
+
+*§ 13-603 Composition of fund.* ::
 
 
 The relief and pension fund of the department of street cleaning shall consist of the following:
@@ -2794,7 +2998,9 @@ The relief and pension fund of the department of street cleaning shall consist o
 
 
 
-*§ 13-604 Relief from contributions. * ::
+
+
+*§ 13-604 Relief from contributions.* ::
 
 
 The board of estimate is authorized to adopt a resolution providing that the deduction from the pay, salary or compensation of a member made pursuant to this subchapter shall be reduced to one-half of one per centum instead of three per centum or that no such deduction at all need be made and that no contribution in lieu thereof need be made by such a member during the one-year period commencing July first, nineteen hundred sixty-two.
@@ -2802,7 +3008,9 @@ The board of estimate is authorized to adopt a resolution providing that the ded
 
 
 
-*§ 13-605 Relief from contributions. * ::
+
+
+*§ 13-605 Relief from contributions.* ::
 
 
 The mayor is authorized to adopt an executive order providing that the deduction from the pay, salary or compensation of a member made pursuant to this subchapter shall be reduced to one-half of one per centum instead of three per centum or that no such deduction at all need be made and that no contribution in lieu thereof need be made by such a member during the one-year period commencing July first, nineteen hundred sixty-three.
@@ -2810,7 +3018,9 @@ The mayor is authorized to adopt an executive order providing that the deduction
 
 
 
-*§ 13-606 Relief from contributions. * ::
+
+
+*§ 13-606 Relief from contributions.* ::
 
 
 a. The mayor is authorized to adopt an executive order providing that no deduction from the pay, salary or compensation of a member pursuant to this subchapter need be made and that no contribution in lieu thereof need be made by such a member during the one-year period commencing July first, nineteen hundred sixty-four.
@@ -2834,7 +3044,9 @@ i. The mayor is authorized to adopt an executive order providing that no deducti
 
 
 
-*§ 13-607 Trustee of fund. * ::
+
+
+*§ 13-607 Trustee of fund.* ::
 
 
 The commissioner of sanitation shall be the treasurer and trustee of such relief and pension fund. Before entering upon his or her duties as such treasurer and trustee, he or she shall deliver to the comptroller a bond in the penal sum of seventy-five thousand dollars, to be approved by the comptroller, conditioned for the faithful discharge and performance of his or her duties as such treasurer and trustee. Compensation shall be made to him or her for the expense of procuring sureties for such bond to be paid out of such fund.
@@ -2842,7 +3054,9 @@ The commissioner of sanitation shall be the treasurer and trustee of such relief
 
 
 
-*§ 13-608 Duties of trustee. * ::
+
+
+*§ 13-608 Duties of trustee.* ::
 
 
 a. Such treasurer and trustee shall have charge of and administer such fund. He or she shall receive all moneys applicable to such fund, and, from time to time, shall invest such moneys, or any part thereof, in any manner allowed by law for investments by savings banks, as he or she shall deem beneficial to such fund. He or she is empowered to make all necessary contracts and to conduct necessary and proper actions and proceedings in the premises, and to pay from such fund the relief or pensions granted in pursuance of this subchapter. He or she is authorized and empowered from time to time, to establish such rules and regulations for the disposition and investment, preservation and administration of such fund as he or she may deem best. No payment whatever shall be allowed or made by such treasurer and trustee from such fund as reward, gratuity or compensation to any person for salary or service rendered to or for such treasurer and trustee, except payment of necessary legal expenses and compensation as aforesaid for the expense of procuring sureties on his or her bond.
@@ -2854,7 +3068,9 @@ c. Such commissioner is authorized and empowered to make and enforce all such ru
 
 
 
-*§ 13-609 Reports and audits. * ::
+
+
+*§ 13-609 Reports and audits.* ::
 
 
 a. On or before the first day of February of each year, such treasurer and trustee shall make a verified report to the mayor containing a statement of the account of such fund under his or her control and of all receipts, investments and disbursements, on account of such fund, together with the name and residence of each beneficiary.
@@ -2864,7 +3080,9 @@ b. There shall be an auditing committee, consisting of three members, to be appo
 
 
 
-*§ 13-610 Payment of pensions; disability; death. * ::
+
+
+*§ 13-610 Payment of pensions; disability; death.* ::
 
 
 a. The commissioner of sanitation shall have power in his or her discretion, as hereinafter provided, to retire and dismiss any member from service in his or her department. The commissioner shall grant relief or a pension to such member so retired and dismissed, and to the spouses and orphans of members who may be entitled to receive such relief or pension, to be paid from such fund, in monthly installments, as follows:
@@ -2882,7 +3100,9 @@ b. Notwithstanding the provisions of this section or any other provision of law,
 
 
 
-*§ 13-611 Retirement for service. * ::
+
+
+*§ 13-611 Retirement for service.* ::
 
 
 Any member who has performed duty for a period of ten years or upwards shall be relieved and dismissed from such force upon his or her own application, or by order of the commissioner, upon an examination by the medical examiners of such department, to be made at any time when so applied for or when so ordered, if a majority of such medical examiners certify that such member is permanently disabled, physically or mentally, so as to be unfit for duty. Such member so relieved and dismissed from such force shall be paid from such fund in monthly installments during his or her lifetime a sum not less than one-half of the annual salary or compensation of such member when so retired. A member who has performed duty on such force for a period of twenty-five years or upwards, whether continuous or rendered during different periods, upon the application of such member in writing, setting forth at what time, not less than thirty days subsequent to the execution and filing thereof, he or she desires to be retired, shall be relieved and dimissed from such force and service and shall be paid from such fund in monthly installments during his or her lifetime a sum not less than one-half of the annual salary or compensation of such member when so retired, provided that at the time so specified for his or her retirement, his or her term or tenure of office or employment shall not have terminated or been forfeited, and provided further that upon his or her request in writing the member shall be granted a leave of absence from the date of filing said application until the date the retirement becomes effective. No member shall be retired or granted a pension while there are charges of official misconduct pending against him or her. Pensions granted under this section shall be for the life of the pensioner, and shall not be revoked, repealed or diminished.
@@ -2890,7 +3110,9 @@ Any member who has performed duty for a period of ten years or upwards shall be 
 
 
 
-*§ 13-612 Pension after service as commissioner or deputy commissioner. * ::
+
+
+*§ 13-612 Pension after service as commissioner or deputy commissioner.* ::
 
 
 Any member who has performed duty in the uniformed force of the department of street cleaning or sanitation for a period of twenty years and upwards and as commissioner or deputy commissioner of street cleaning or sanitation for a period of eighteen months or upwards, six months of which period must have been served after May twenty-second, nineteen hundred twenty-three, upon payment by him or her to the relief and pension fund of the department of street cleaning of three per cent of his or her salary as such commissioner or deputy commissioner, as the case may be, from the date of his or her appointment as such to the date of his or her retirement, may be retired by the mayor and placed upon the pension roll of the relief and pension fund of the department of street cleaning and granted an annual pension equal in amount to one-half the salary of commissioner or deputy commissioner as the case may be, at the time of such retirement. In the event that any such commissioner or deputy commissioner is a member of any other retirement system in the city, it is hereby directed that his or her membership be transferred from such other system to the relief and pension fund of the department of street cleaning, and that all deductions theretofore made from his or her compensation as commissioner or deputy commissioner as the case may be, to the fund of such other retirement system, be refunded to him or her.
@@ -2898,7 +3120,9 @@ Any member who has performed duty in the uniformed force of the department of st
 
 
 
-*§ 13-613 Exemption from execution and process. * ::
+
+
+*§ 13-613 Exemption from execution and process.* ::
 
 
 The moneys or other property of the relief and pension fund of the department of street cleaning and all pensions or relief moneys granted and payable from such fund shall be, and the same are, exempt from levy and sale under execution, and from all processes or proceedings to enjoin payment, or to recover such moneys or property, by or on behalf of any creditor or other person having or asserting any claim against, or debt or liability of any person entitled to such pension or relief.
@@ -2906,7 +3130,9 @@ The moneys or other property of the relief and pension fund of the department of
 
 
 
-*§ 13-614 Termination of membership; transfer to New York city employees' retirement system. * ::
+
+
+*§ 13-614 Termination of membership; transfer to New York city employees' retirement system.* ::
 
 
 a. Notwithstanding any other provision of law, any officer or employee of the department of sanitation who is a member of or entitled to membership in the relief and pension fund, and who, prior to the eighteenth day of May, nineteen hundred fifty, executed and filed an application for membership in the New York city employees' retirement system and made contributions to such retirement system in the same manner as a member thereof, may, prior to the first day of January, nineteen hundred fifty-two, elect to become a member of the New York city employees' retirement system by complying with the following conditions:
@@ -2931,7 +3157,9 @@ e. The privilege of electing to become a member of the New York city employees' 
 
 **Subchapter 2: Hunter College Retirement System of the City Of New York**
 
-*§ 13-615 Merger of system with teachers' retirement system and provisions relative thereto. * ::
+
+
+*§ 13-615 Merger of system with teachers' retirement system and provisions relative thereto.* ::
 
 
 Notwithstanding anything to the contrary in this code, on the first day of July nineteen hundred thirty-eight, the administration of the funds of the Hunter college retirement system as provided for in this code shall be transferred to the teachers' retirement board of the teachers' retirement system of the city of New York as provided for in chapter four of this title, and all cash and securities, and other assets held by the Hunter college retirement system shall be transferred and merged with the assets held by the teachers' retirement system of the city of New York, the reserves in the annuity savings fund, the annuity reserve fund, the contingent reserve fund, the pension reserve fund number one, and the pension reserve fund number two being credited to the corresponding funds of the same name of the teachers' retirement system. All appropriations made for the Hunter college retirement system shall be transferred to the credit of the teachers' retirement system. The equities in the funds of the Hunter college retirement system, which are held by the members of such system as of the thirtieth day of June, nineteen hundred thirty-eight, shall not in anywise be impaired by such transfer and the funds so transferred shall continue to be held in trust in the teachers' retirement system for the payment of the benefits to such members for which they were set aside. On the first day of July, nineteen hundred thirty-eight, all contributors of the Hunter college retirement system shall become and shall thereafter be contributors of the teachers' retirement system and members of the teachers' retirement association as constituted by section 13-503 of this title. The present-teachers of the Hunter college retirement system shall become and shall thereafter be present-teachers of the teachers' retirement system, and the new-entrants of the Hunter college retirement system shall become and shall thereafter be new-entrants of the teachers' retirement system, with all the rights and privileges of their respective classifications as provided in chapter four of this title, with the same force and effect as if they had originally been contributors of the teachers' retirement system and members of the teachers' retirement association. All those who now are present-teachers of the Hunter college retirement system, upon becoming contributors of the teachers' retirement system and members of the teachers' retirement association as provided in this section, shall, notwithstanding anything to the contrary in chapter four of this title, continue to have all the rights and privileges to which they were entitled under the provisions of law in existence at the time of the merger. All those who were entitled to prior service credit in the Hunter college retirement system with prior service certificates issued to them before the first day of July, nineteen hundred thirty-eight, shall be entitled to such prior service as was granted in the prior service certificates issued by the Hunter college retirement board, without increase or decrease, and all such certificates are hereby validated and confirmed, to the same extent and with the same effect as if issued pursuant to express authority of law. All beneficiaries of the Hunter college retirement system as of the thirtieth day of June, nineteen hundred thirty-eight, shall continue to receive their retirement allowances thereafter in the same manner, amount, and form, from the corresponding fund or funds of the teachers' retirement system as that from which their benefits were paid from the Hunter college retirement system. The purpose of this act is to unify and simplify the retirement of members of the educational institutions of New York city, and after the respective reports of the teachers' retirement board and the Hunter college retirement board for the period including the thirtieth day of June, nineteen hundred thirty-eight, which reports shall include a complete statement as to the merger, no special reports shall thereafter be required concerning the membership of the Hunter college retirement system transferred to the teachers' retirement system. After the thirtieth day of June, nineteen hundred thirty-eight, the Hunter college retirement board shall cease to function, and all the duties of such board shall thereafter be performed by the teachers' retirement board.
@@ -2942,7 +3170,9 @@ Notwithstanding anything to the contrary in this code, on the first day of July 
 
 **Subchapter 3: Health Department Pension Fund**
 
-*§ 13-616 Organization and membership. * ::
+
+
+*§ 13-616 Organization and membership.* ::
 
 
 The health department pension fund as now constituted shall be continued only for the benefit of members of such fund on October first, nineteen hundred twenty.
@@ -2950,7 +3180,9 @@ The health department pension fund as now constituted shall be continued only fo
 
 
 
-*§ 13-617 Composition of fund. * ::
+
+
+*§ 13-617 Composition of fund.* ::
 
 
 a. The health department pension fund shall consist of the following:
@@ -2972,7 +3204,9 @@ d. In the event that the assets in the fund at the end of the fiscal year termin
 
 
 
-*§ 13-618 Relief from contributions. * ::
+
+
+*§ 13-618 Relief from contributions.* ::
 
 
 The board of estimate is authorized to adopt a resolution providing that the deduction from the pay, salary or compensation of a member made pursuant to this subchapter need not be made and that no contribution in lieu thereof need be made by such a member during the one year period commencing with July first, nineteen hundred sixty-two.
@@ -2980,7 +3214,9 @@ The board of estimate is authorized to adopt a resolution providing that the ded
 
 
 
-*§ 13-619 Relief from contributions. * ::
+
+
+*§ 13-619 Relief from contributions.* ::
 
 
 The mayor is authorized to adopt an executive order providing that the deduction from the pay, salary or compensation of a member made pursuant to this subchapter need not be made and that no contribution in lieu thereof need be made by such a member during the one year period commencing with July first, nineteen hundred sixty-three.
@@ -2988,7 +3224,9 @@ The mayor is authorized to adopt an executive order providing that the deduction
 
 
 
-*§ 13-620 Relief from contributions. * ::
+
+
+*§ 13-620 Relief from contributions.* ::
 
 
 a. The mayor is authorized to adopt an executive order providing that the deduction from the pay, salary or compensation of a member made pursuant to this subchapter need not be made and that no contribution in lieu thereof need be made by such a member during the one year period commencing with July first, nineteen hundred sixty-four.
@@ -3012,7 +3250,9 @@ i. The mayor is authorized to adopt an executive order providing that no deducti
 
 
 
-*§ 13-621 Trustees of fund. * ::
+
+
+*§ 13-621 Trustees of fund.* ::
 
 
 The board of estimate shall be the board of trustees of the health department pension fund.
@@ -3020,7 +3260,9 @@ The board of estimate shall be the board of trustees of the health department pe
 
 
 
-*§ 13-622 Duties of trustees. * ::
+
+
+*§ 13-622 Duties of trustees.* ::
 
 
 Such board of trustees shall have charge of and administer such fund. From time to time such board shall invest the same, or any part thereof, as they shall deem most beneficial to such fund and shall liquidate the assets of such fund to provide moneys to make payments pursuant to the provisions of this subchapter. Such board is empowered to make all necessary contracts, take all necessary and proper actions and proceedings in the premises; and make payments from such fund of pensions, allowances, benefits, grants, awards and payments granted in pursuance of this subchapter. Such trustees from time to time shall establish such rules and regulations for the administration of such fund as they may deem best. No payments whatever shall be allowed to, or made by, such trustees as reward, gratuity or compensation to any person for salary or services rendered to, or for, such board of trustees.
@@ -3028,7 +3270,9 @@ Such board of trustees shall have charge of and administer such fund. From time 
 
 
 
-*§ 13-623 Reports. * ::
+
+
+*§ 13-623 Reports.* ::
 
 
 Such board of trustees shall report in detail to the mayor annually in the month of January, the condition of such fund and the items of their receipts and disbursements on account of the same.
@@ -3036,7 +3280,9 @@ Such board of trustees shall report in detail to the mayor annually in the month
 
 
 
-*§ 13-624 Pension for service. * ::
+
+
+*§ 13-624 Pension for service.* ::
 
 
 a. Any member who has or shall have performed duty in the department of health, for a period of twenty years or upwards, upon his or her own written application to and filed with the board of trustees, setting forth at what time, not less than thirty days subsequent to the execution and filing thereof, he or she desires to be retired, or upon a certificate and report of a board of physicians, appointed by the board of health, certifying that such member is permanently disabled so as to be unfit for further duty in such department, or upon attaining the age of seventy years, shall be retired from active service by resolution of the board of estimate, as of the date specified in said application, or certificate, or upon attaining such seventieth year, and shall be placed upon the health department pension roll, provided that at the time so specified for his or her retirement, his or her term or tenure of office or employment shall not have terminated or have been forfeited, and provided further that upon his or her request in writing the member shall be granted a leave of absence from the date of filing said application until the date the retirement becomes effective. A member in city-service, however, who has or shall have attained the age of seventy years, upon the approval of the commissioner of health, may request the board of estimate to be continued in the public service for a period of two years and such board, where advantageous to the public service, may grant such request for such period, not exceeding two years as such board may determine. At the termination of such additional period of service, such board in like manner may permit such employee to continue in the public service for successive two year periods or any portion thereof. In no case shall public service be continued after a member shall have attained the age of eighty years. Any member placed upon the health department pension roll under the provisions of this section shall be awarded, granted and paid from such fund by the trustees thereof an annual sum during his or her lifetime equal to one-half of the annual salary received by such member at the time of retirement plus one and one-half per centum of the annual salary received by him or her each year subsequent to the completion of his or her thirtieth year of service, provided that paid-for service before October first, nineteen hundred twenty shall be credited whether in the department of health or in any other city department.
@@ -3048,7 +3294,9 @@ c. When a member has been awarded and granted a pension pursuant to the provisio
 
 
 
-*§ 13-625 Ordinary death benefits. * ::
+
+
+*§ 13-625 Ordinary death benefits.* ::
 
 
 Upon the death of a member in city service, there shall be paid to his or her estate, or to such person as he or she has nominated or shall nominate by written designation duly executed and filed with the board of trustees during the lifetime of the member, a sum of money equal to the compensation earnable by him or her in the city service, while a member during the twelve months immediately preceding his or her death.
@@ -3056,7 +3304,9 @@ Upon the death of a member in city service, there shall be paid to his or her es
 
 
 
-*§ 13-626 Order of discontinuance of pension in certain cases. * ::
+
+
+*§ 13-626 Order of discontinuance of pension in certain cases.* ::
 
 
 The board of trustees, in its discretion, may order any pension granted or any part thereof to cease, except as provided in section 13-624 of this chapter, but in all such cases such board shall make a written statement of the causes determining such action. Such statement shall be entered in the minutes of the board of trustees. Nothing in this subchapter or in any other act, shall render the granting or payment of such pension obligatory upon the trustees, or chargeable as a matter of right upon such fund, except as provided in section 13-624 of this chapter.
@@ -3064,7 +3314,9 @@ The board of trustees, in its discretion, may order any pension granted or any p
 
 
 
-*§ 13-627 Exemption from tax and legal process. * ::
+
+
+*§ 13-627 Exemption from tax and legal process.* ::
 
 
 The right of a person to a pension, allowance, benefit, grant, award or payment heretofore or hereafter granted or any other right accrued or accruing to any person under the provisions of this subchapter and the money in the funds provided for by this subchapter, are hereby exempt from any state or municipal tax, shall be unassignable hereafter, and shall not be subject to execution, garnishment, attachment or any other process whatsoever.
@@ -3072,7 +3324,9 @@ The right of a person to a pension, allowance, benefit, grant, award or payment 
 
 
 
-*§ 13-628 Guaranty of funds. * ::
+
+
+*§ 13-628 Guaranty of funds.* ::
 
 
 All pensions, allowances, benefits, grants, awards or payments and any other benefits heretofore or hereafter granted under the provisions of the health department pension fund or of this subchapter, are hereby made obligations of the city.
@@ -3083,7 +3337,9 @@ All pensions, allowances, benefits, grants, awards or payments and any other ben
 
 **Subchapter 4: Miscellaneous Provisions**
 
-*§ 13-629 Transfer of officers and employees to the department of traffic. * ::
+
+
+*§ 13-629 Transfer of officers and employees to the department of traffic.* ::
 
 
 Notwithstanding the provisions of any other general, special or local law, officers and employees of any agency may, with the consent of the head of such agency, be transferred to the department of traffic in accordance with the provisions of the civil service law and the rules and regulations of the municipal civil service commission. Officers and employees of any agency who are members of any pension or retirement system and who are transferred to the department of traffic, pursuant to the provisions of this subchapter, shall continue to be members of such pension or retirement system and shall continue to have the rights, privileges, obligations and status with respect to membership in such pension or retirement system as though they had remained members of the agency from which they were transferred.
@@ -3091,7 +3347,9 @@ Notwithstanding the provisions of any other general, special or local law, offic
 
 
 
-*§ 13-630 Employees of community colleges. * ::
+
+
+*§ 13-630 Employees of community colleges.* ::
 
 
 Any person employed by the city of New York on the non-instructional staff of a community college operated pursuant to article one hundred twenty-six of the education law is eligible for membership in the New York city employees' retirement system.
@@ -3099,7 +3357,9 @@ Any person employed by the city of New York on the non-instructional staff of a 
 
 
 
-*§ 13-631 Preservation of retirement and civil service rights; members of police and fire departments holding civil defense positions. * ::
+
+
+*§ 13-631 Preservation of retirement and civil service rights; members of police and fire departments holding civil defense positions.* ::
 
 
 a. Notwithstanding any other provision of this code or any other law, in any case where any member of any pension or retirement system maintained under chapter two of this title or subchapter one or two of chapter three of this title, is granted a leave of absence from any position held by such person while such a member, and thereafter and during such leave of absence, is appointed to any position in the office of civil defense of the city, or to any position which has been designated, with the approval of the city civil service commission, as an emergency defense position, such member, in the same manner and to the same extent as if his or her service in such new position were service in the position from which such leave of absence was granted, and were service at the salary of such latter position, shall retain all of his or her rights, privileges and obligations as a member of such retirement system, and shall be entitled to service credit in such system for the period of his or her service in such new position.
@@ -3109,7 +3369,9 @@ b. Any member of the police force of the police department of the city, or of th
 
 
 
-*§ 13-632 Transfer of retirement system membership of certain board of education personnel to teachers' retirement system. * ::
+
+
+*§ 13-632 Transfer of retirement system membership of certain board of education personnel to teachers' retirement system.* ::
 
 
 a. As used in this section, the following terms shall mean and include:
@@ -3147,7 +3409,9 @@ h. (1) In any case where a transferred member elects to participate in the varia
 
 
 
-*§ 13-634 Transfer of members of the police force of the board of water supply to the police department of the city of New York. * ::
+
+
+*§ 13-634 Transfer of members of the police force of the board of water supply to the police department of the city of New York.* ::
 
 
 The members of the police force of the board of water supply of the city, upon the termination of their service on such force by reason of the completion of the work for which they were appointed by such board shall be severally eligible for transfer to the position of patrolman in the police department of the city upon the written request in each case of the board, accompanied by the consent, also in writing, of the person to be transferred, and the further consent of the police commissioner. The time served by any member of such board of water supply police force who has become a member of such police force of the city, whether by transfer or as a result of competitive examination and appointment, and who is still a member of the police force of the city, shall be included and counted as service in the police department of the city in determining salary and eligibility for advancement, promotion, retirement and pension as provided in this code, provided, however, that no person becoming a member of the police department of the city in the manner herein provided, shall be entitled to participate in the benefits of the police pension fund, unless he shall pay into such fund the total sum that he would have been required to pay in order to participate therein had he been a member of such force from the time he entered the service of such board of water supply, and provided further, that no person not a member of the police force of the board of water supply on the ninth day of May, nineteen hundred nineteen shall be eligible for transfer to the position of patrolman in the police department of the city in accordance with the provisions hereof. These provisions shall not be subject to any restriction relative to transfers contained in the civil service law or in the rules and regulations of the civil service commission of the state, or any subdivision thereof.
@@ -3155,7 +3419,9 @@ The members of the police force of the board of water supply of the city, upon t
 
 
 
-*§ 13-635 Computation of length of service of physicians and surgeons. * ::
+
+
+*§ 13-635 Computation of length of service of physicians and surgeons.* ::
 
 
 In determining the terms of service of any member of the police force, service in the municipal and metropolitan force, or service as a physician and surgeon in the classified service in any other department of the city or service not exceeding three years as an intern duly appointed and removable by the city of New York, of any hospital owned and operated by such city, provided, that for any such period maintenance, consisting of room and board was received without accompanying cash payment and provided further, that such intern shall pay into the fund an amount equal to the amount he or she would have paid during such service if he or she had been a physician or surgeon in such force, receiving compensation based on an annual rate of five thousand dollars and subsequently in the police force of the city, as constituted prior to chapter three hundred seventy-eight of laws of eighteen hundred ninety-seven or in any police force within the limits of the city as constituted by chapter three hundred seventy-eight of the laws of eighteen hundred ninety-seven, and thereafter in the police force created by the greater New York charter as amended by chapter four hundred sixty-six of the laws of nineteen hundred one, shall be counted and held to be service in the police force of the city. Any person, however, becoming a member of the police department of the city, in the manner herein provided, shall not be entitled to participate in the benefits of the police pension fund, unless he or she shall pay into such fund the total amount that he or she would have been required to pay in order to participate therein had he or she been a member of such force from the time he or she entered the service of such other department.
@@ -3163,7 +3429,9 @@ In determining the terms of service of any member of the police force, service i
 
 
 
-*§ 13-636 Trustees of the exempt firemen's benevolent fund of the late city of Brooklyn. * ::
+
+
+*§ 13-636 Trustees of the exempt firemen's benevolent fund of the late city of Brooklyn.* ::
 
 
 a. Upon the settlement of the accounts of the surviving trustees and officers of the corporation known as the exempt firemen's benevolent fund of the late city of Brooklyn and upon the payment of the balance of the funds and assets of such corporation to the fire commissioner and upon the resignation of the trustees and officers of such corporation, the fire commissioner is hereby designated and empowered to act as sole trustee of such corporation. The fire commissioner, is hereby charged and directed to continue to pay relief donations to the surviving members of the exempt firemen's benevolent associations of the late city of Brooklyn and to the surviving spouses of the members of such associations, as they appear upon the records now in the hands of the trustees of the exempt firemen's benevolent fund of the late city of Brooklyn, until the decease of the last of the members of such associations and of the surviving spouses of the members of such associations. The amounts of the respective relief donations so to be paid the aforesaid beneficiaries by the fire commissioner, as such trustee, shall be determined by him or her on the basis of the financial status of the beneficiary and the actuarial sufficiency of the funds of the corporation at the time. In no case, however, shall the annual relief donation to any beneficiary exceed six hundred dollars.
@@ -3181,7 +3449,9 @@ f. Upon the decease of the last of the members and of the surviving spouses of m
 
 
 
-*§ 13-637 Pension to members of police force disabled in military or naval service of the United States. * ::
+
+
+*§ 13-637 Pension to members of police force disabled in military or naval service of the United States.* ::
 
 
 The board of trustees of the police pension fund shall have power to retire from membership in the police force and thereupon to grant an annual pension to any member of such department, who, while in the military, naval or marine service of the United States has become permanently disabled physically or mentally, so as to be unfit to perform the full duty of his or her employment in such department. Such pension shall not exceed one-half of the annual compensation earned by such member at the time of his or her retirement and shall be paid in like manner as pensions are paid out of the police pension fund of such city.
@@ -3189,10 +3459,14 @@ The board of trustees of the police pension fund shall have power to retire from
 
 
 
-*§ 13-638 Pension to members of the fire force disabled in military or naval service of the United States. * ::
+
+
+*§ 13-638 Pension to members of the fire force disabled in military or naval service of the United States.* ::
 
 
 The board of trustees of the fire department pension fund shall have the power to retire from membership in the fire department and thereupon to grant an annual pension to any member of such department, who, while in military, naval or marine service of the United States has become permanently disabled, physically or mentally, so as to be unfit to perform the full duty of his or her employment in such department. Such pension shall not exceed one-half of the annual compensation earned by such member at the time of his or her retirement and shall be paid in like manner as pensions are paid out of the fire department pension fund of such city. Such board of trustees may increase the pension of any member of such department who has been retired, prior to the sixth day of May, nineteen hundred twenty-one, by reason of disability, physical or mental, sustained while in the military, naval or marine service of the United States. Such pension as increased shall not exceed one-half of the annual salary earned by such member at the time of his or her retirement.
+
+
 
 
 
@@ -3293,6 +3567,8 @@ v. In the determination of the normal contribution payable to any retirement sys
 
 
 
+
+
 *§ 13-638.1 Nineteen hundred eighty-eight unfunded accrued liability adjustment.** ::
 
 
@@ -3389,7 +3665,9 @@ v. In the determination of the normal contribution payable to any retirement sys
 
 
 
-*§ 13-638.2 Supplementary provisions regarding employer contributions to retirement systems for fiscal years beginning on or after July first, nineteen hundred eighty-nine, for amortization of consolidated unfunded accrued liabilities and balance sheet liabilities for the nineteen hundred ninety—nineteen hundred ninety-one, nineteen hundred ninety-one—nineteen hundred ninety-two and nineteen hundred ninety-two—nineteen hundred ninety-three fiscal years, and for amortization of such liabilities and certain other unfunded accrued liabilities pursuant to the level percentage of payroll method in certain fiscal years thereafter; rates of interest. * ::
+
+
+*§ 13-638.2 Supplementary provisions regarding employer contributions to retirement systems for fiscal years beginning on or after July first, nineteen hundred eighty-nine, for amortization of consolidated unfunded accrued liabilities and balance sheet liabilities for the nineteen hundred ninety—nineteen hundred ninety-one, nineteen hundred ninety-one—nineteen hundred ninety-two and nineteen hundred ninety-two—nineteen hundred ninety-three fiscal years, and for amortization of such liabilities and certain other unfunded accrued liabilities pursuant to the level percentage of payroll method in certain fiscal years thereafter; rates of interest.* ::
 
 
 a. As used in this section, unless the context clearly indicates otherwise, the following terms shall have the following meanings:
@@ -4211,6 +4489,8 @@ kk. (1) All NYCERS, NYCTRS and BERS installments of contribution designated in p
 
 
 
+
+
 *§ 13-638.3 Funding of consolidated unfunded accrued liabilities and remainder of balance sheet liability of the police pension fund, subchapter two; amortization of such liabilities and certain liabilities for transfers to variable supplements funds pursuant to the level percentage of payroll method in certain fiscal years.** ::
 
 
@@ -4367,6 +4647,8 @@ i. Subject to the provisions of subdivisions k and l of section 13-638.2 of this
  
 
 j. The provisions of subdivision c of section 13-231 of this title shall govern the time and manner of payment, within each fiscal year, of contributions payable with respect to such fiscal year to PPF pursuant to the provisions of subdivisions b to i, inclusive, of this section. Nothing contained in this section shall be construed as amending, modifying or changing such provisions of this title or the provisions of any other law relating to the time of payment, within a fiscal year of contributions payable to such pension fund with respect to such fiscal year. k. For the purpose of determining the amount of any installment of the contributions payable to PPF pursuant to the provisions of subdivisions b to i, inclusive, of this section, the actuary of such [x
+
+
 
 
 
@@ -4591,7 +4873,9 @@ p. (1) All installments of UAL and BSL contribution designated in subdivision o 
 
 
 
-*§ 13-638.4 Membership rights in NYCERS and BERS for part-time service; credit for service; dual employment provisions; membership rights of school crossing guards. * ::
+
+
+*§ 13-638.4 Membership rights in NYCERS and BERS for part-time service; credit for service; dual employment provisions; membership rights of school crossing guards.* ::
 
 
 a. Definitions. The following terms, as used in this section, shall have the following meanings, unless a different meaning is plainly required by the context:
@@ -4941,7 +5225,9 @@ g. Retirement system membership of school crossing guards.
 
 
 
-*§ 13-638.5 Compliance of New York city retirement systems and pension funds with section 401(a)(2) of the Internal Revenue Code. * ::
+
+
+*§ 13-638.5 Compliance of New York city retirement systems and pension funds with section 401(a)(2) of the Internal Revenue Code.* ::
 
 
 Notwithstanding any other provision of law to the contrary, the New York city employees' retirement system, the New York city police pension fund, subchapter two, the New York city fire department pension fund, subchapter two, the New York city teachers' retirement system and the New York city board of education retirement system shall at all times comply with the requirements of section 401(a)(2) of the Internal Revenue Code, as amended from time to time, and at no time, prior to the satisfaction of liabilities with respect to employees and beneficiaries under the trust, shall any part of the corpus or income of any such retirement system or pension fund be used for, or diverted to, any purpose other than the exclusive benefit of the members, retirees and beneficiaries of each of such retirement systems and pension funds, respectively, except to the extent permitted by the Internal Revenue Code as it may be amended from time to time.
@@ -4949,7 +5235,9 @@ Notwithstanding any other provision of law to the contrary, the New York city em
 
 
 
-*§ 13-638.6 Compliance of New York city retirement systems and pension funds with section 401(a)(9) of the Internal Revenue Code. * ::
+
+
+*§ 13-638.6 Compliance of New York city retirement systems and pension funds with section 401(a)(9) of the Internal Revenue Code.* ::
 
 
 Notwithstanding any other provision of law to the contrary, the New York city employees' retirement system, the New York city police pension fund, subchapter two, the New York city fire department pension fund, subchapter two, the New York city teachers' retirement system and the New York city board of education retirement system shall at all times comply with the requirements of section 401(a)(9) of the Internal Revenue Code, as amended from time to time, and, unless the Internal Revenue Code as hereafter amended provides otherwise,
@@ -4968,7 +5256,9 @@ Notwithstanding any other provision of law to the contrary, the New York city em
 
 **Subchapter 5: Retirement By Board of Estimate**
 
-*§ 13-639 Board of estimate; authority to recommend retirement. * ::
+
+
+*§ 13-639 Board of estimate; authority to recommend retirement.* ::
 
 
 Any officer, whether appointed or elected, clerk or employee of any agency in the employ of the city or of any of the municipalities, counties or parts thereof which have been incorporated into the city and any officer, clerk or employee whose salary or compensation is a county charge who shall have been employed for a period of thirty years and upwards and who shall have become physically or mentally incapacitated for the further performance of the duties of his or her position, may be recommended for retirement from active service to the board of estimate by any member thereof whenever, in his or her judgment, it shall be to the interest of the public service. The term of service, however, shall not be affected by any change in title, duty or salary or by any promotion or by a vacation or leave of absence or by any temporary disability by reason of sickness or accident or by any transfer from one agency to another during the period of service, or by any change of any of the agencies in which service shall have been performed from an office paid by fees to a salaried office.
@@ -4976,7 +5266,9 @@ Any officer, whether appointed or elected, clerk or employee of any agency in th
 
 
 
-*§ 13-640 Authority to retire. * ::
+
+
+*§ 13-640 Authority to retire.* ::
 
 
 The board of estimate is authorized and empowered to retire from active service any person recommended for retirement as provided by section 13-639 of this chapter. Reasonable notice of its proposed action shall be given by such board to any person intended to be retired and an opportunity of making an explanation shall be given to such person. The board shall state its reasons for retiring any such person and that the interests of the public service require such retirement.
@@ -4984,7 +5276,9 @@ The board of estimate is authorized and empowered to retire from active service 
 
 
 
-*§ 13-641 Annuities; annuities to retired employees. * ::
+
+
+*§ 13-641 Annuities; annuities to retired employees.* ::
 
 
 Any person retired from active service pursuant to sections 13-639 and 13-640 of this chapter, shall be awarded and granted by the board of estimate an annual sum or annuity to be fixed by such board not exceeding, however, one-half of the amount which his or her annual salary or compensation averages for the period of three years immediately prior to the time of his or her retirement. The comptroller shall pay the annuities granted in monthly installments. Such payments are to continue during the lifetime of the person or persons so retired. There shall be included annually in the budget such sums as may be required for such payments.
@@ -4992,7 +5286,9 @@ Any person retired from active service pursuant to sections 13-639 and 13-640 of
 
 
 
-*§ 13-642 When annuities forfeited. * ::
+
+
+*§ 13-642 When annuities forfeited.* ::
 
 
 Any person who, subsequent to his or her retirement under the provisions of sections 13-639, 13-640 and 13-641 of this chapter, shall accept any office, position or employment to which any salary or emolument is attached in the civil service in the state of New York, or of any county, or any municipal corporation therein, except the office of inspector or clerk of election and registry or other temporary office provided for in the election and registry laws of this state, and except the office of notary public and commissioner of deeds during such service or employment and while receiving any salary or emolument therefor, shall relinquish and forfeit the annuity allotted to him or her upon his or her retirement.
@@ -5000,7 +5296,9 @@ Any person who, subsequent to his or her retirement under the provisions of sect
 
 
 
-*§ 13-643 Application of subchapter. * ::
+
+
+*§ 13-643 Application of subchapter.* ::
 
 
 This subchapter shall not apply to any person who is, or may be, entitled to share in any pension fund supported in whole or in part by the city.
@@ -5014,7 +5312,9 @@ This subchapter shall not apply to any person who is, or may be, entitled to sha
 
 **Article 1: [Supplemental Retirement Allowances For Certain City Retirees]**
 
-*§ 13-644 Definitions. * ::
+
+
+*§ 13-644 Definitions.* ::
 
 
 As used in this subchapter:
@@ -5036,7 +5336,9 @@ As used in this subchapter:
 
 
 
-*§ 13-645 Retired employees eligible for supplemental pensions. * ::
+
+
+*§ 13-645 Retired employees eligible for supplemental pensions.* ::
 
 
 City retired employees of the city of New York or any of its agencies shall be entitled to receive, one month after such retirement, monthly supplemental pension payment as provided in this article.
@@ -5044,7 +5346,9 @@ City retired employees of the city of New York or any of its agencies shall be e
 
 
 
-*§ 13-646 Computation of supplemental pensions. * ::
+
+
+*§ 13-646 Computation of supplemental pensions.* ::
 
 
 1. Subject to the filing of verified applications for such payments by person entitled thereto, the monthly supplemental pension to be paid to a city retired employee shall be computed by (a) Multiplying by forty (or forty-three and two-fifths in a case where a retired employee may receive a maximum retirement allowance or pension, computed without optional modification, of thirteen hundred two dollars) the number of years not exceeding thirty, of allowable and credited service on which his or her retirement allowance or pension is based, (b) subtracting therefrom the amount of his or her annual retirement allowance or pension, computed without optional modification, and (c) dividing the result so obtained by twelve.
@@ -5072,7 +5376,9 @@ City retired employees of the city of New York or any of its agencies shall be e
 
 
 
-*§ 13-647 Payment of supplemental pensions. * ::
+
+
+*§ 13-647 Payment of supplemental pensions.* ::
 
 
 On or before the last day of each month, there shall be paid to each city retired employee, from the supplemental pension fund, the monthly supplemental pension payment to which he or she may be entitled under the provisions of this article.
@@ -5080,7 +5386,9 @@ On or before the last day of each month, there shall be paid to each city retire
 
 
 
-*§ 13-648 Rules and regulations. * ::
+
+
+*§ 13-648 Rules and regulations.* ::
 
 
 The board of estimate on recommendation of the comptroller shall prescribe such rules and regulations as may be required for the effective administration of the provisions of this article relating to supplemental pension payments to city retired employees.
@@ -5088,7 +5396,9 @@ The board of estimate on recommendation of the comptroller shall prescribe such 
 
 
 
-*§ 13-649 Information to be furnished to comptroller. * ::
+
+
+*§ 13-649 Information to be furnished to comptroller.* ::
 
 
 The comptroller may require any agency of the city to furnish him or her with such records, information and data as he or she may need to carry out the provisions of this article.
@@ -5096,7 +5406,9 @@ The comptroller may require any agency of the city to furnish him or her with su
 
 
 
-*§ 13-650 City supplemental pension fund. * ::
+
+
+*§ 13-650 City supplemental pension fund.* ::
 
 
 1. There is hereby established a special fund to be known as the city supplemental pension fund. Such fund shall consist of such monies as may be appropriated thereto by the city and all other monies received for such fund from any other source pursuant to law.
@@ -5106,7 +5418,9 @@ The comptroller may require any agency of the city to furnish him or her with su
 
 
 
-*§ 13-651 Restriction on use of retirement and pension funds. * ::
+
+
+*§ 13-651 Restriction on use of retirement and pension funds.* ::
 
 
 No monies belonging to any retirement or pension system or plan shall be appropriated or used for any purpose, or for any payment authorized or required by this article.
@@ -5117,7 +5431,9 @@ No monies belonging to any retirement or pension system or plan shall be appropr
 
 **Article 2: [Supplemental Retirement Allowances For certain City Retirees, Police Or Fire Retirees, Surviving Spouses Or Dependents, Police Or Fire Line-of-duty Surviving Spouses Or dependents, and Street Cleaning Surviving spouses Or Dependents]**
 
-*§ 13-652 Definitions. * ::
+
+
+*§ 13-652 Definitions.* ::
 
 
 As used in this article:
@@ -5135,7 +5451,9 @@ e. The term "street cleaning surviving spouse or dependent" shall mean any perso
 
 
 
-*§ 13-653 Supplemental retirement allowances. * ::
+
+
+*§ 13-653 Supplemental retirement allowances.* ::
 
 
 a. City retired employees. Notwithstanding any other provision of law, any city retired employee, who unless retired for disability had at least five years of credited service at the time of his or her retirement, shall be entitled to a supplemental pension payment to be known as a supplemental retirement allowance payable annually in monthly installments in accordance with the following provisions of this section:
@@ -5213,7 +5531,9 @@ g. Any such city retired employee or police or fire retired employee already rec
 
 
 
-*§ 13-654 Payment of supplemental retirement allowances. * ::
+
+
+*§ 13-654 Payment of supplemental retirement allowances.* ::
 
 
 On or before the last day of each month, there shall be paid to each city retired employee, police or fire retired employee, police or fire surviving spouse or dependent, police or fire line-of-duty surviving spouse or dependent and street cleaning surviving spouse or dependent, from the supplemental pension fund, the monthly supplemental retirement allowance payment to which he or she may be entitled under the provisions of this article provided, however, that any supplemental retirement allowance of less than fifty cents monthly shall be paid in a lump sum at the end of the fiscal year.
@@ -5221,7 +5541,9 @@ On or before the last day of each month, there shall be paid to each city retire
 
 
 
-*§ 13-655 Rules and regulations. * ::
+
+
+*§ 13-655 Rules and regulations.* ::
 
 
 The board of estimate on recommendation of the comptroller shall prescribe such rules and regulations as may be required for the effective administration of the provisions of this article relating to supplemental retirement allowance payments to city retired employees or police or fire retired employees or police or fire surviving spouses or dependents or police or fire line-of-duty surviving spouses or dependents or street cleaning surviving spouses or dependents.
@@ -5229,7 +5551,9 @@ The board of estimate on recommendation of the comptroller shall prescribe such 
 
 
 
-*§ 13-656 Information to be furnished to comptroller. * ::
+
+
+*§ 13-656 Information to be furnished to comptroller.* ::
 
 
 The comptroller shall have authority to require any department or agency of the city to furnish him or her with such records, information and data as he may need to carry out the provisions of this article.
@@ -5237,7 +5561,9 @@ The comptroller shall have authority to require any department or agency of the 
 
 
 
-*§ 13-657 Supplemental pension fund. * ::
+
+
+*§ 13-657 Supplemental pension fund.* ::
 
 
 As used in this article, the supplemental pension fund is the special fund as provided by section 13-650 of this chapter.
@@ -5245,7 +5571,9 @@ As used in this article, the supplemental pension fund is the special fund as pr
 
 
 
-*§ 13-658 Reimbursement by participating employers for payments for certain city retired employees. * ::
+
+
+*§ 13-658 Reimbursement by participating employers for payments for certain city retired employees.* ::
 
 
 a. The granting of supplemental retirement allowances to city retired employees who retired from service in the New York city housing authority, the New York city transit authority or the triborough bridge and tunnel authority or any of the public authorities consolidated with the triborough bridge and tunnel authority, is conditioned upon the contribution by such employing authority, or if the employing authority was a public authority consolidated with the triborough bridge and tunnel authority, by the triborough bridge and tunnel authority, to the cost of providing supplemental retirement allowances to such city retired employees in the manner provided in this section.
@@ -5259,7 +5587,9 @@ d. All amounts received by the comptroller from such authorities pursuant to thi
 
 
 
-*§ 13-659 Reimbursement of supplemental pension fund by the city. * ::
+
+
+*§ 13-659 Reimbursement of supplemental pension fund by the city.* ::
 
 
 The comptroller shall include with his or her budget estimate for each fiscal year amounts estimated by him or her to be sufficient to reimburse the supplemental pension fund for the cost of providing supplemental retirement allowance payments during the current fiscal year to all city retired employees (less the amount contributed by public authorities with respect to those city retired employees who retired from service with such public authorities as provided in section 13-658), to police or fire retired employees, police or fire surviving spouses or dependents, police or fire line-of-duty surviving spouses or dependents and street cleaning surviving spouses or dependents. If the city shall fail to provide such funds all supplemental retirement allowances authorized by this article shall be discontinued. If any public authority specified in section 13-658 shall fail to provide the contribution therein required only the supplementary retirement allowance paid pursuant to this article to city retired employees retired from the service of such authority and from the service of any public authority consolidated with such authority shall be discontinued.
@@ -5267,7 +5597,9 @@ The comptroller shall include with his or her budget estimate for each fiscal ye
 
 
 
-*§ 13-660 Restriction on use of retirement or pension funds. * ::
+
+
+*§ 13-660 Restriction on use of retirement or pension funds.* ::
 
 
 No moneys belonging to any publicly administered and operated retirement or pension system or plan shall be appropriated or used for any purpose or for any payment authorized or required by this article.
@@ -5275,7 +5607,9 @@ No moneys belonging to any publicly administered and operated retirement or pens
 
 
 
-*§ 13-661 Limitations on obligations. * ::
+
+
+*§ 13-661 Limitations on obligations.* ::
 
 
 The supplemental retirement allowances provided pursuant to this article shall not constitute membership in a pension or retirement system nor shall the granting of such allowances create a contractual relationship between the city or a public authority and any city retired employee or between the city and any police or fire retired employee or between the city and any police or fire surviving spouse or dependent or between the city and any police or fire line-of-duty surviving spouse or dependent or between the city and any street cleaning surviving spouse or dependent.
@@ -5286,7 +5620,9 @@ The supplemental retirement allowances provided pursuant to this article shall n
 
 **Article 3: [Supplemental Retirement Allowances For Certain Police Retirees]**
 
-*§ 13-662 Definitions. * ::
+
+
+*§ 13-662 Definitions.* ::
 
 
 As used in this article: The term "police retired employee" shall mean any person who was retired for service on or after June fifth, nineteen hundred sixty and prior to May first, nineteen hundred sixty-three and receives, as a result of such retirement, a retirement allowance or pension from a retirement or pension system or plan of the city for members of the uniformed force of the police department.
@@ -5294,7 +5630,9 @@ As used in this article: The term "police retired employee" shall mean any perso
 
 
 
-*§ 13-663 Supplemental retirement allowances. * ::
+
+
+*§ 13-663 Supplemental retirement allowances.* ::
 
 
 a. Police retired employees. Notwithstanding any other provision of law, any police retired employee shall be entitled to a supplemental pension payment to be known as a supplemental retirement allowance payable annually, in monthly installments in an amount which, together with pension or retirement allowance (exclusive of extra service increments granted pursuant to section 13-208 of this title or any other similar provision of law), received by such police retired employee, shall be equal to onehalf of his or her annual compensation earned at the date of his or her retirement.
@@ -5314,7 +5652,9 @@ c. The supplemental retirement allowances provided for in this article shall not
 
 
 
-*§ 13-664 Payment of supplemental retirement allowances. * ::
+
+
+*§ 13-664 Payment of supplemental retirement allowances.* ::
 
 
 On or before the last day of each month, there shall be paid to each police retired employee, from the supplemental pension fund, the monthly supplemental retirement allowance payment to which he or she may be entitled under the provisions of this article provided.
@@ -5322,7 +5662,9 @@ On or before the last day of each month, there shall be paid to each police reti
 
 
 
-*§ 13-665 Rules and regulations. * ::
+
+
+*§ 13-665 Rules and regulations.* ::
 
 
 The board of estimate on recommendation of the comptroller shall prescribe such rules and regulations as may be required for the effective administration of the provisions of this article relating to supplemental retirement allowance payments to police retired employees.
@@ -5330,7 +5672,9 @@ The board of estimate on recommendation of the comptroller shall prescribe such 
 
 
 
-*§ 13-666 Information to be furnished to the comptroller. * ::
+
+
+*§ 13-666 Information to be furnished to the comptroller.* ::
 
 
 The comptroller shall have authority to require any department or agency of the city to furnish such records, information and data as he or she may need to carry out the provisions of this article.
@@ -5338,7 +5682,9 @@ The comptroller shall have authority to require any department or agency of the 
 
 
 
-*§ 13-667 Supplemental pension fund. * ::
+
+
+*§ 13-667 Supplemental pension fund.* ::
 
 
 As used in this article, the supplemental pension fund is the special fund as provided by section 13-650 of this chapter.
@@ -5346,7 +5692,9 @@ As used in this article, the supplemental pension fund is the special fund as pr
 
 
 
-*§ 13-668 Reimbursement of supplemental pension fund by the city. * ::
+
+
+*§ 13-668 Reimbursement of supplemental pension fund by the city.* ::
 
 
 The comptroller shall include with his or her budget estimate for each fiscal year amounts estimated by him or her to be sufficient to reimburse the supplemental pension fund for the cost of providing supplemental retirement allowance payments during the current fiscal year to all police retired employees.
@@ -5354,7 +5702,9 @@ The comptroller shall include with his or her budget estimate for each fiscal ye
 
 
 
-*§ 13-669 Restrictions on use of retirement or pension funds. * ::
+
+
+*§ 13-669 Restrictions on use of retirement or pension funds.* ::
 
 
 No monies belonging to any retirement or pension system or plan shall be appropriated or used for any purpose, or for any payment authorized or required by this article.
@@ -5362,7 +5712,9 @@ No monies belonging to any retirement or pension system or plan shall be appropr
 
 
 
-*§ 13-670 Limitations on obligations. * ::
+
+
+*§ 13-670 Limitations on obligations.* ::
 
 
 The supplemental retirement allowances provided pursuant to this article shall not constitute membership in a pension or retirement system, nor shall the granting of such allowances create a contractual relationship between the city and any police retired employee. The payments authorized under this article shall not be retroactive.
@@ -5373,7 +5725,9 @@ The supplemental retirement allowances provided pursuant to this article shall n
 
 **Article 4: [Supplemental Retirement Allowances For Certain Fire Retirees]**
 
-*§ 13-671 Definitions. * ::
+
+
+*§ 13-671 Definitions.* ::
 
 
 As used in this article: The term "fire retired employee" shall mean any person who was retired for service on or after April eighth, nineteen hundred sixty and prior to May first, nineteen hundred and sixty-three, or retired for disability on or after April eighth, nineteen hundred sixty and prior to May first, nineteen hundred sixty-four and receives, as a result of such retirement, a retirement allowance or pension from a retirement or pension system or plan of the city for members of the uniformed force of the fire department.
@@ -5381,7 +5735,9 @@ As used in this article: The term "fire retired employee" shall mean any person 
 
 
 
-*§ 13-672 Supplemental retirement allowances. * ::
+
+
+*§ 13-672 Supplemental retirement allowances.* ::
 
 
 a. Fire retired employees. Notwithstanding any other provision of law, any fire retired employee shall be entitled to a supplemental pension payment to be known as a supplemental retirement allowance payable annually, in monthly installments in an amount which, together with pension or retirement allowance (exclusive of extra service increments granted pursuant to section 13-358 of this title or any other similar provision of law), received by such fire retired employee, shall be equal to one-half of his or her annual compensation earned at the date of his or her retirement if retired for service, and provided, however, if disabled fire retired employee, the retirement allowance or pension shall be computed on the basis of annual compensation earnable on the date of retirement for disability of such employee pursuant to the provisions of section 13-362 or 13-364 of subchapter two of chapter three of this title.
@@ -5401,7 +5757,9 @@ c. The supplemental retirement allowances provided for in this article shall not
 
 
 
-*§ 13-673 Payment of supplemental retirement allowances. * ::
+
+
+*§ 13-673 Payment of supplemental retirement allowances.* ::
 
 
 On or before the last day of each month, there shall be paid to each fire retired employee, from the supplemental pension fund, the monthly supplemental retirement allowance payment to which he or she may be entitled under the provisions of this article provided.
@@ -5409,7 +5767,9 @@ On or before the last day of each month, there shall be paid to each fire retire
 
 
 
-*§ 13-674 Rules and regulations. * ::
+
+
+*§ 13-674 Rules and regulations.* ::
 
 
 The board of estimate on recommendation of the comptroller shall prescribe such rules and regulations as may be required for the effective administration of the provisions of this article relating to supplemental retirement allowance payments to fire retired employees.
@@ -5417,7 +5777,9 @@ The board of estimate on recommendation of the comptroller shall prescribe such 
 
 
 
-*§ 13-675 Information to be furnished to comptroller. * ::
+
+
+*§ 13-675 Information to be furnished to comptroller.* ::
 
 
 The comptroller shall have authority to require any department or agency of the city to furnish him or her with such records, information and data as he or she may need to carry out the provisions of this article.
@@ -5425,7 +5787,9 @@ The comptroller shall have authority to require any department or agency of the 
 
 
 
-*§ 13-676 Supplemental pension fund. * ::
+
+
+*§ 13-676 Supplemental pension fund.* ::
 
 
 As used in this article, the supplemental pension fund is the special fund as provided by section 13-650 of this chapter.
@@ -5433,7 +5797,9 @@ As used in this article, the supplemental pension fund is the special fund as pr
 
 
 
-*§ 13-677 Reimbursement of supplemental pension fund by the city. * ::
+
+
+*§ 13-677 Reimbursement of supplemental pension fund by the city.* ::
 
 
 The comptroller shall include with his or her budget estimate for each fiscal year amounts estimated by him or her to be sufficient to reimburse the supplemental pension fund for the cost of providing supplemental retirement allowance payments during the current fiscal year to all fire retired employees.
@@ -5441,7 +5807,9 @@ The comptroller shall include with his or her budget estimate for each fiscal ye
 
 
 
-*§ 13-678 Restrictions on use of retirement or pension funds. * ::
+
+
+*§ 13-678 Restrictions on use of retirement or pension funds.* ::
 
 
 No monies belonging to any retirement or pension system or plan shall be appropriated or used for any purposes, or for any payment authorized or required by this article.
@@ -5449,7 +5817,9 @@ No monies belonging to any retirement or pension system or plan shall be appropr
 
 
 
-*§ 13-679 Limitations on obligations. * ::
+
+
+*§ 13-679 Limitations on obligations.* ::
 
 
 The supplemental retirement allowances provided pursuant to this article shall not constitute membership in a pension or retirement system, nor shall the granting of such allowances create a contractual relationship between the city and any fire retired employee. The payments authorized under this article shall not be retroactive.
@@ -5460,7 +5830,9 @@ The supplemental retirement allowances provided pursuant to this article shall n
 
 **Article 5: Supplemental Retirement Allowances For Certain Retirees of the New York City Employees' Retirement System and Of The teachers' And Board Of Education Retirement Systems**
 
-*§ 13-680 Supplemental retirement allowances based on consumer price index. * ::
+
+
+*§ 13-680 Supplemental retirement allowances based on consumer price index.* ::
 
 
 a. As used in this article, the following terms shall mean and include:
@@ -5698,7 +6070,9 @@ n. The supplemental retirement allowance hereinabove provided for any such disab
 
 
 
-*§ 13-681 Supplemental pension for a surviving spouse, dependent or child in certain cases. * ::
+
+
+*§ 13-681 Supplemental pension for a surviving spouse, dependent or child in certain cases.* ::
 
 
 a. (1) In addition to any other payment authorized or required by any other provision of law, there shall be paid a monthly amount, as herein provided for in this subdivision a, to a surviving spouse, dependent or minor child of a deceased member of the department of street cleaning, where, by reason of the death of such member, such spouse, dependent or minor child was or shall be receiving a pension from such system or plan pursuant to the provisions of this code.
@@ -5714,7 +6088,9 @@ b. If more than one such person are or shall be receiving from such system or pl
 
 
 
-*§ 13-682 Payment of supplemental retirement allowances. * ::
+
+
+*§ 13-682 Payment of supplemental retirement allowances.* ::
 
 
 a. On or before the last day of each month during the payment period mentioned in subdivisions b, e, f, g, h, i and j of section 13-680 of this chapter, there shall be paid to each qualified retiree from the pension reserve fund of the retirement system of which such retiree was a member when he or she retired, the applicable supplemental retirement allowance prescribed by such section 13-680 except that in the case of qualified retirees who retired as members of the teachers' retirement system, such allowance shall be paid from pension reserve fund number one of such system. With respect to payments of such supplemental retirement allowances which were made for the month of July, nineteen hundred eighty or any subsequent month preceding the month of July, nineteen hundred eighty-one, the actuary of each retirement system of which recipients of such allowances were members when they retired shall determine the adjustments, if any, which, by reason of such payments, the preceding provisions of this section require to be made between the funds of the pension reserve fund or pension reserve fund number one, as the case may be, of such retirement system and the funds of the supplemental pension fund, and any such adjustments so determined shall be carried out by resolution of the board of trustees or retirement board of such retirement system and executive order of the mayor.
@@ -5730,7 +6106,9 @@ e. On or before the last day of each month with respect to which an additional s
 
 
 
-*§ 13-683 Information to be furnished to comptroller. * ::
+
+
+*§ 13-683 Information to be furnished to comptroller.* ::
 
 
 The comptroller shall have authority to require any department or agency of the city to furnish him or her with such records, information and data as he may need to carry out the provisions of this article.
@@ -5738,7 +6116,9 @@ The comptroller shall have authority to require any department or agency of the 
 
 
 
-*§ 13-684 Reimbursement by authority responsible for supplementation. * ::
+
+
+*§ 13-684 Reimbursement by authority responsible for supplementation.* ::
 
 
 a. The cost of providing a supplemental retirement allowance pursuant to section 13-680 of this chapter to each qualified authority retiree shall be paid to the city, in the manner provided for by this section, by the authority responsible for supplementation with respect to such retiree.
@@ -5757,7 +6137,9 @@ e. The provisions of this section shall apply to supplemental retirement allowan
 
 **Article 6: Supplemental Retirement Allowances For Certain Police Or Fire Line-of-duty Widows Or Dependents, Based On the Cost-of-living Index**
 
-*§ 13-685 Definitions. * ::
+
+
+*§ 13-685 Definitions.* ::
 
 
 As used in this article, the following terms shall mean and include:
@@ -5777,7 +6159,9 @@ e. "Annual increased allowance". In the case of a police or fire line-of-duty su
 
 
 
-*§ 13-686 Supplemental pension. * ::
+
+
+*§ 13-686 Supplemental pension.* ::
 
 
 a. A supplemental pension shall be paid to police or fire line-of-duty surviving spouses or dependents. Such supplemental pension shall be payable on the basis provided for herein, commencing with a payment for the month of July, nineteen hundred seventy-three and continuing through the month of September, nineteen hundred seventy-four. In the case of a police or fire line-of-duty surviving spouse or dependent who is entitled to receive an annual increased allowance (as defined in subdivision e of section 13-685 of this chapter) said supplemental pension shall be a percentage of such annual increased allowance and in the case of a police or fire line-of-duty surviving spouse or dependent who is not entitled to receive an annual increased allowance, such supplemental pension shall be a percentage of the basic annual pension (as defined in subdivision d of such section 13-685), and in either case such percentage shall be determined on the basis of the consumer price index (all items-United States city average), published by the United States Bureau of Labor Statistics. Said percentage shall be determined in the manner provided in this section. Said supplemental pension shall be computed on the basis of the first eight thousand dollars of the annual increased allowance, in the case of a police or fire line-of-duty surviving spouse or dependent entitled to receive such an allowance and on the basis of the first eight thousand dollars of the basic annual pension, in the case of a police or fire line-of-duty surviving spouse or dependent who is not entitled to receive an annual increased allowance.
@@ -5795,7 +6179,9 @@ e. (1) In any case where a police or fire line-of-duty spouse or dependent is en
 
 
 
-*§ 13-687 Supplemental pension for a surviving spouse, dependent or child of a deceased member of the uniformed force of the police or fire department. * ::
+
+
+*§ 13-687 Supplemental pension for a surviving spouse, dependent or child of a deceased member of the uniformed force of the police or fire department.* ::
 
 
 a. (1) In addition to any other payment authorized or required by any other provisions of law, excepting a police or fire line-of-duty surviving spouse or dependent entitled thereto under section 13-686 of this chapter, there shall be paid a monthly amount, as hereinafter provided for in this subdivision a, to a surviving spouse, dependent or minor child of a deceased member of the police pension fund, subchapter one, and the fire department pension fund, subchapter one, where, by reason of the death of such member, such spouse, dependent or minor child was or shall be receiving a pension from such system or plan pursuant to the provisions of this code.
@@ -5827,7 +6213,9 @@ b. If more than one such person are or shall be receiving from such system or pl
 
 
 
-*§ 13-688 Payment of supplemental pensions. * ::
+
+
+*§ 13-688 Payment of supplemental pensions.* ::
 
 
 a. Subject to the provisions of subdivision b of this section, on or before the last day of each month during the payment period mentioned in subdivision a of section 13-686 of this chapter, there shall be paid from the supplemental pension fund to each police or fire line-of-duty surviving spouse or dependent entitled thereto under section 13-686 of this chapter, the applicable supplemental pension prescribed by such section 13-686; and there shall be paid on or before the last day of each month from the supplemental pension fund to each qualified widow, dependent or minor child the applicable supplemental pension prescribed by section 13-687 of this chapter.
@@ -5843,7 +6231,9 @@ b.*   Notwithstanding any other provision of law to the contrary, on and afte
 
 
 
-*§ 13-689 Information to be furnished to comptroller. * ::
+
+
+*§ 13-689 Information to be furnished to comptroller.* ::
 
 
 The comptroller shall have authority to require any department or agency of the city to furnish him or her with such records, information and data as he or she may need to carry out the provisions of this article.
@@ -5854,7 +6244,9 @@ The comptroller shall have authority to require any department or agency of the 
 
 **Article 7: Supplemental Retirement Allowances For Retirees of Closed Pension Funds Or Plans, Based On the Cost-of-living Index**
 
-*§ 13-690 Definitions. * ::
+
+
+*§ 13-690 Definitions.* ::
 
 
 As used in this article, the following terms shall mean and include:
@@ -5880,7 +6272,9 @@ e. "Base amount". That part of the total annual retirement benefit (whether cons
 
 
 
-*§ 13-691 Supplemental retirement allowances for certain closed pension funds retirees and other retirees. * ::
+
+
+*§ 13-691 Supplemental retirement allowances for certain closed pension funds retirees and other retirees.* ::
 
 
 a. A supplemental retirement allowance determined pursuant to this section shall be payable:
@@ -6060,7 +6454,9 @@ l. The supplemental retirement allowance hereinabove provided for any such close
 
 
 
-*§ 13-692 Payment of supplemental retirement allowances. * ::
+
+
+*§ 13-692 Payment of supplemental retirement allowances.* ::
 
 
 a. On or before the last day of each month during the payment period mentioned in subdivision a of section 13-691 of this chapter, there shall be paid from the suppplemental pension fund to each retiree entitled thereto under such section, the applicable supplemental retirement allowance prescribed by such section.
@@ -6070,7 +6466,9 @@ b. On or before the last day of each month with respect to which an additional s
 
 
 
-*§ 13-693 Information to be furnished to comptroller. * ::
+
+
+*§ 13-693 Information to be furnished to comptroller.* ::
 
 
 The comptroller shall have authority to require any department or agency of the city to furnish him or her with such records, information and data as he or she may need to carry out the provisions of this article.
@@ -6081,7 +6479,9 @@ The comptroller shall have authority to require any department or agency of the 
 
 **Article 8: Funding of Certain Supplemental Retirement allowances**
 
-*§ 13-694 Definitions. * ::
+
+
+*§ 13-694 Definitions.* ::
 
 
 As used in this article, the following terms shall mean and include:
@@ -6115,7 +6515,9 @@ h. "Surviving spouse under a continuing benefit option." A deceased retiree's sp
 
 
 
-*§ 13-695 Obligation of obligors responsible for supplementation to make contributions on account of supplemental retirement allowances. * ::
+
+
+*§ 13-695 Obligation of obligors responsible for supplementation to make contributions on account of supplemental retirement allowances.* ::
 
 
 a. Commencing with the city's nineteen hundred eighty-nineteen hundred eighty-one fiscal year, and in each city fiscal year thereafter, each obligor responsible for supplementation with respect to any retirees of a retirement system or with respect to any surviving spouses who are designated annuitants (as defined in paragraph ten of subdivision a of section 13-680 of the code) or with respect to any surviving spouses under continuing benefit options (as defined in subdivision h of section 13-694 of the code) shall contribute to the contingent reserve fund of such retirement system the amounts determined pursuant to the provisions of this article to be the contribution by such obligor required to be made to fund the supplemental retirement allowances payable to such retirees and surviving spouses.
@@ -6181,7 +6583,9 @@ h. All payments required to be made in any fiscal year to the contingent reserve
 
 
 
-*§ 13-696 Cost-of-living adjustment. * ::
+
+
+*§ 13-696 Cost-of-living adjustment.* ::
 
 
 a. A cost-of-living adjustment shall be payable to retired members of the New York city employees' retirement system, the New York city teachers' retirement system, the New York city police pension fund, the New York city fire department pension fund, the New York city board of education retirement system or the relief and pension fund of the department of street cleaning provided for in subchapter one of this chapter on the basis provided for in this section to: (i) all retired members who have attained age sixty-two and have been retired for five years; (ii) all retired members who have attained age fifty-five and have been retired for ten years; (iii) all members who retired for disability regardless of age who have been retired for five years; and (iv) all recipients of an accidental death benefit regardless of age who have been receiving such benefit for five years.
@@ -6276,7 +6680,9 @@ k. (1) Notwithstanding the provisions of subdivision i or j of this section, or 
 Chapter 6: Investment By Pension Funds Or Retirement Systems
 --------------------------------------------------
 
-*§ 13-701 Investments by pension funds or retirement systems maintained, administered or supported by the city or an agency, in notes or bonds secured by certain purchase money mortgages. * ::
+
+
+*§ 13-701 Investments by pension funds or retirement systems maintained, administered or supported by the city or an agency, in notes or bonds secured by certain purchase money mortgages.* ::
 
 
 a. The trustee or trustees of a pension fund or retirement system maintained, administered or supported by the city or an agency or by city funds may invest the funds of such pension fund or retirement system in any notes or bonds secured by purchase money mortgages accepted by the city at the time of the sale of real property acquired by virtue of tax enforcement foreclosure proceedings or by deed in lieu thereof, and any other notes or bonds secured by purchase money mortgages accepted by the city, provided however, no such other note or bond may be purchased by said trustee or trustees at a price in excess of two-thirds of the selling price of the real property secured by such purchase money mortgage at the time of its execution in connection with a sale resulting from a public auction of such real property, without regard to any limitations or restrictions contained in this code or in the provisions of article four-a of the retirement and social security law or section two hundred thirty-five of the banking law or any other law and in addition to the powers conferred by any such law. The aggregate unpaid principal amount of bonds and notes secured by such mortgages held at any time in such a fund or system shall not exceed two per centum of the assets of such fund or system. Any assignment of such a note or bond and mortgage to a pension fund or retirement system pursuant to this section shall contain a provision that if property which is collateral security for such bond or note and mortgage shall be acquired by the City of New York as a result of a foreclosure in rem proceeding and/or if a deficiency judgment is obtained by such fund or system by reason of a default under the terms of the note or bond and mortgage, the city will reimburse such fund or system by payment to said pension fund or retirement system of the amounts due under such note or bond and mortgage, including principal, interest, and any costs and expenses involved in obtaining such deficiency judgment by appropriation in the annual expense budget, provided that (1) the trustee or trustees of such pension fund or retirement system shall certify and include the amounts due, including principal, interest, and any costs and expenses, in the annual estimate of the requirements of such fund or system submitted to the director of the budget pursuant to charter section one hundred fourteen; and (2) upon the effective date of the budget containing the appropriation for such amounts due as specified herein, the trustee or trustees of such fund or system shall assign any deficiency judgment thus obtained to the city.
@@ -6292,7 +6698,9 @@ e. The intent of this section is to reimburse and make whole the pension funds o
 
 
 
-*§ 13-702 Delegation of investing powers to comptroller. * ::
+
+
+*§ 13-702 Delegation of investing powers to comptroller.* ::
 
 
 a. Notwithstanding any provisions of the code or any other law to the contrary, the trustee, trustees, or other officer, board or body having the power to invest the funds of a pension fund or retirement system maintained, administered, or supported by the city or an agency, or by city funds may delegate such power either in its entirety or with any limitations including limitations with respect to the type and amount of investments, to the comptroller. Such delegation shall be in writing, and shall be filed in the office of such trustee, trustees, officer, board or body making such delegation, and in the office of the comptroller. Every such delegation shall be effective for a period specified therein, not to exceed one year, and shall automatically terminate and expire at the end of such specific period. Renewals or new delegations may be granted for additional periods in the same manner as herein provided for original delegations, but each such renewal or new delegation shall be effective for a specified period, not to exceed one year. Upon the filing of such delegation or renewal thereof as herein prescribed the comptroller shall, subject to the terms of such delegation, have the power:
@@ -6310,7 +6718,9 @@ c. Notwithstanding any other provision of this section, the termination, expirat
 
 
 
-*§ 13-703 Investments in railroad, industrial, electric and gas, telephone and waterworks obligations. * ::
+
+
+*§ 13-703 Investments in railroad, industrial, electric and gas, telephone and waterworks obligations.* ::
 
 
 Notwithstanding the provisions of the code or any other law to the contrary, the trustee, trustees or other officer, board or body having the power to invest the funds of a pension fund or retirement system maintained, administered, or supported by the city or an agency, or by city funds, may, in addition, invest in obligations consisting of notes, bonds, debentures or equipment trust certificates issued under an indenture which are the direct obligations of, or in the case of equipment trust certificates, are secured by the direct obligations of, a railroad or industrial corporation, or a corporation engaged directly and primarily in the production, transportation, distribution or sale of electricity or gas, or the operation of telephone or telegraph systems or waterworks, or in some combination of them; provided the obligor corporation is one which is incorporated under the laws of the United States, or any state thereof, of the District of Columbia, and said obligations shall be rated at the time of purchase within the three highest classifications established by at least two standard rating services. The maximum amount that they may invest in such obligations pursuant to this subdivision shall not exceed ten per centum of the assets of a fund; and provided further that of said ten per centum not more than two per centum of the assets of a fund shall be invested in the obligations of any one corporation of the highest classification and subsidiary or subsidiaries thereof, that not more than one and one-half per centum of the assets of a fund shall be invested in the obligations of any one corporation of the second highest classification and subsidiary or subsidiaries thereof, that not more than one per centum of the assets of a fund shall be invested in the obligations of any one corporation of the third highest classification and subsidiary or subsidiaries thereof.
@@ -6318,7 +6728,9 @@ Notwithstanding the provisions of the code or any other law to the contrary, the
 
 
 
-*§ 13-704 Graduated crediting of gains and amortization of losses on dispositions of securities by certain retirement systems. * ::
+
+
+*§ 13-704 Graduated crediting of gains and amortization of losses on dispositions of securities by certain retirement systems.* ::
 
 
 a. As used in this section, the following terms shall mean and include:
@@ -6462,7 +6874,9 @@ h. (1) For the purpose of determining the balance sheet liability of any retirem
 
 
 
-*§ 13-705 Acquisition, management and protection of investments of retirement system funds. * ::
+
+
+*§ 13-705 Acquisition, management and protection of investments of retirement system funds.* ::
 
 
 a. As used in this section, the term "retirement system" shall mean any of the following: the New York city employees' retirement system, the New York city teachers' retirement system, the New York city board of education retirement system, the police pension fund maintained pursuant to subchapter two of chapter two of this title and the fire department pension fund maintained pursuant to subchapter two of chapter three of this title.

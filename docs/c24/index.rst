@@ -7,7 +7,9 @@ Chapter 1: Waterfront Properties Transactions and Trade
 
 **Subchapter 1: Waterfront Property**
 
-*§ 22-101 Definitions. * ::
+
+
+*§ 22-101 Definitions.* ::
 
 
 As used in this title, the following terms shall have the following meanings:
@@ -21,7 +23,9 @@ c. "No-discharge zone" shall mean those bodies of water designated as vessel was
 
 
 
-*§ 22-102 Secretary. * ::
+
+
+*§ 22-102 Secretary.* ::
 
 
 The commissioner shall appoint a secre- tary.
@@ -29,7 +33,9 @@ The commissioner shall appoint a secre- tary.
 
 
 
-*§ 22-103 Grant of lands under water within the projected boundary lines of streets. * ::
+
+
+*§ 22-103 Grant of lands under water within the projected boundary lines of streets.* ::
 
 
 a. To the end that the city may make needful provisions for navigation, intercourse and commerce of the city and adequately to develop and secure the same there is hereby granted in fee to the city, in all the public streams, rivers, sounds, bays and waters of all descriptions at any and all places within the city or adjoining the limits of the city, all and singular the property, estate, right, title and interest of the people of the state of New York, in, to, of, and concerning such lands under water, as are embraced within the projected boundary lines of any street intersecting the shore line, and which street is in public use or which may be hereafter opened for public use entending from high-water mark out into such streams, rivers, sounds, bays and waters so far (and limits in existing grants to the contrary) as the city shall now or at any time hereafter in the opinion of the board of estimate or the commissioner of ports and trade require the same for ferries, public wharves, docks, piers, bulkheads, basins, slips or other public structures, adjuncts and facilities for navigation and commerce. This grant shall include the right to reclaim such lands from such waters, and also all riparian rights and all rents, issues and profit of the premises herein granted. The commissioner of the state department of general services, from time to time, shall convey or patent the lands therein granted to the city for such purposes as and whenever required by the commissioner of ports and trade.
@@ -39,7 +45,9 @@ b. Subdivision a of this section shall not impair or affect any existing valid p
 
 
 
-*§ 22-104 Lands under water not within the projected boundary lines of streets; patenting of. * ::
+
+
+*§ 22-104 Lands under water not within the projected boundary lines of streets; patenting of.* ::
 
 
 a. Patents of land under water within the city shall be made only to the city or to the riparian proprietor. Where, pursuant to section seven hundred five of the charter or section 22-132 of this chapter, a plan or plans for the construction of docks between street intersections shall be projected, the commissioner of ports and trade, with the approval of the board of estimate, may make application to the commissioner of the state department of general services for a grant of lands under water for that purpose. Such state commissioner thereupon shall give notice to the riparian proprietor before taking action in the matter and shall then make such grant to the city for the purposes specified in section 22-103 of this subchapter. Such grant, however, shall be subject to all the rights of the riparian proprietor, and before the city shall construct such public wharves or other structures in front of the land of such riparian proprietor, the city shall make just compensation to such proprietor for the value of all the riparian rights.
@@ -49,7 +57,9 @@ b. Where application is made to the commissioner of the state department of gene
 
 
 
-*§ 22-105 Wharf property; proceedings to acquire. * ::
+
+
+*§ 22-105 Wharf property; proceedings to acquire.* ::
 
 
 a. The commissioner may agree with the owners of any wharf property, or uplands upon a price for the same and shall certify such agreement to the mayor. If the mayor approve such agreement, the commissioner shall take from the owners at such price, the necessary conveyances and covenants for vesting such wharf property or uplands in, and assuring the same to the city of New York forever, and such owner shall be paid such price by the city. If, however, the commissioner shall determine that the city should acquire such wharf property or uplands by condemnation, without first attempting to agree with the owners thereof for its purchase, the commissioner may, with the approval of the mayor direct the corporation counsel to take legal proceedings to acquire the same for the city. Thereupon, the corporation counsel shall take the same proceedings to acquire such wharf property or uplands as are provided for the taking of private property in the city for public streets or places, and the provisions of subchapter one of chapter three of title five of the code are hereby made applicable, as far as may be necessary, in any legal proceeding taken under this section. Before any such proceeding shall be instituted, a statement shall be furnished to the mayor of the valuation of the real property to be acquired as assessed for purposes of taxation. The title to such property shall vest in the city upon the date of the filing of the survey or map showing the real property to be acquired subdivided into parcels corresponding with the separate ownerships thereof in the office of the clerk of the county where such proceeding is pending; and all of the rights, title and interest of any and all of the owners or persons interested in such wharf property or uplands, shall cease and determine and be extinguished at such time. All the awards made in such proceedings for the value of property acquired or interests extinguished shall draw interest from the time of the vesting of the title in the city.
@@ -59,7 +69,9 @@ b. The commissioner, with the approval of the board of estimate, may agree, lice
 
 
 
-*§ 22-106 Wharf property; acquisition; public hearing required. * ::
+
+
+*§ 22-106 Wharf property; acquisition; public hearing required.* ::
 
 
 The mayor, prior to approving or authorizing the acquisition of wharf property or uplands, or directing the vesting in the city of any title thereto, may hold a public hearing and shall refer any such proposed acquisition to the appropriate agency pursuant to the provisions of chapter eight of the charter. Public notice of any hearing held by the mayor shall be given by publication for six consecutive days in the City Record, not less than seven, nor more than thirty days before such public hearing. Such publication shall contain in addition to such information as the commissioner may deem proper, a description of the property to be affected by the order to acquire such property, a statement by the mayor of the date, time and place of such public hearing, and an abstract of the recommendation of the commissioner in relation to such vesting of title.
@@ -67,7 +79,9 @@ The mayor, prior to approving or authorizing the acquisition of wharf property o
 
 
 
-*§ 22-107 Fixing the high water line. * ::
+
+
+*§ 22-107 Fixing the high water line.* ::
 
 
 a. The commissioner, by agreement with the upland owner, may fix, determine upon and establish the line of high water in front of the property of such upland owner upon such line or lines as the commissioner shall deem best adapted to the improvement of the water front.
@@ -77,7 +91,9 @@ b. Such agreement may provide for the sale and conveyance to the upland owner of
 
 
 
-*§ 22-108 Sinking ships; placing at wharf property prohibited. * ::
+
+
+*§ 22-108 Sinking ships; placing at wharf property prohibited.* ::
 
 
 It shall be unlawful to place any vessel, craft or structure which is sinking or is in such condition that there is danger of it sinking or stranding, at any wharf property. Violation of this section shall be a misdemeanor punishable by a fine of not more than five hundred dollars and not less than ten dollars, or by imprisonment for not more than six months and not less than ten days, or by both, on complaint of the commissioner. One-half of any such fine shall be paid to the person or persons giving information which shall lead to the conviction of any person violating this section.
@@ -85,7 +101,9 @@ It shall be unlawful to place any vessel, craft or structure which is sinking or
 
 
 
-*§ 22-109 Removal of trucks, merchandise and vessels. * ::
+
+
+*§ 22-109 Removal of trucks, merchandise and vessels.* ::
 
 
 Where any wharf property or marginal street shall be encumbered or obstructed in its free use or navigation by merchandise or material not affixed to such wharf property or marginal street, or by an automobile, wagon, truck or cart, or by any floating, stranded or sunken vessel or craft, and the owner, consignee or person in charge thereof shall fail to remove the same when directed by an order issued by the commissioner, pursuant to section seven hundred four of the charter, the commissioner may employ such labor and equipment as may be necessary to carry out such order. The commissioner may store such merchandise, material, automobile, wagon, truck, cart, vessel or craft in a warehouse or other suitable place at the expense of the owner. Such owner, consignee or person in charge of the merchandise, material, automobile, wagon, truck, cart, vessel or craft so removed or stored may redeem the same upon payment to the commissioner of the amount of all expenses actually and necessarily incurred in effecting such removal, together with any charges for storage. The commissioner shall be deemed a creditor of such owner, consignee or person in charge and each of them for the amount of the expenses so incurred and the commissioner may maintain an action against them, or any of them, to recover the same.
@@ -93,7 +111,9 @@ Where any wharf property or marginal street shall be encumbered or obstructed in
 
 
 
-*§ 22-110 Sale of unclaimed trucks, merchandise and vessels. * ::
+
+
+*§ 22-110 Sale of unclaimed trucks, merchandise and vessels.* ::
 
 
 Whenever such merchandise, material, automobile, wagon, truck, cart, vessel or craft shall remain unclaimed for thirty days after service of such order on such owner, consignee or person, the commissioner may then sell the same at pubic auction to the highest bidder, after advertisement for one week in the City Record. The commissioner shall deduct the expenses which have been incurred from the proceeds of such sale and shall hold the remainder of such proceeds in trust for such owner, consignee or person for twelve months. If such remainder is then unclaimed, it shall be paid into the general fund. Any excess of expenses which have been incurred in the removal, storage, advertisement and sale of such merchandise, material, automobile, wagon, truck, cart, vessel or craft over such proceeds of sale shall be recoverable from such owner or owners of the same in an action maintained by the commissioner.
@@ -101,7 +121,9 @@ Whenever such merchandise, material, automobile, wagon, truck, cart, vessel or c
 
 
 
-*§ 22-111 Destruction of unclaimed trucks, merchandise and vessels. * ::
+
+
+*§ 22-111 Destruction of unclaimed trucks, merchandise and vessels.* ::
 
 
 If no bids are received at the public sale authorized in section 22-110 of this subchapter, the commissioner may remove, destroy and break up or otherwise dispose of such merchandise, material, automobile, wagon, truck, cart, vessel or craft without liability for damage to the owners of or to any person having or claiming any interest in the same. The expense of such removal, advertisement, sale, destruction and disposal shall be recoverable from such owner, owners or persons in an action maintained by the commissioner.
@@ -109,7 +131,9 @@ If no bids are received at the public sale authorized in section 22-110 of this 
 
 
 
-*§ 22-112 Navigable waters; fouling; obstructing. * ::
+
+
+*§ 22-112 Navigable waters; fouling; obstructing.* ::
 
 
 a. It shall be unlawful:
@@ -131,7 +155,9 @@ e. The provisions of this section may also be enforced by the commissioner of sa
 
 
 
-*§ 22-113 Assignment of berths for vessels. * ::
+
+
+*§ 22-113 Assignment of berths for vessels.* ::
 
 
 a. Applications for berths shall be filed as the commissioner shall direct and shall be considered in the order of receipt. The commissioner shall have power:
@@ -149,7 +175,9 @@ b. Any master or other person, having charge of any vessel, canal boat, barge or
 
 
 
-*§ 22-114 Erection of sheds and warehouses. * ::
+
+
+*§ 22-114 Erection of sheds and warehouses.* ::
 
 
 The commissioner with the approval of the board of estimate may erect and maintain within the lines of and upon any marginal street, sheds, warehouses, coal pockets and other buildings and structures devoted to commercial uses in connection with the adjacent piers and bulkheads. The commissioner with the approval of the board of estimate may authorize the lessee of any marginal street to erect and maintain upon the premises so demised sheds, warehouses, coal pockets or other buildings or structures devoted to commercial uses in connection with the adjacent piers and bulkheads.
@@ -157,7 +185,9 @@ The commissioner with the approval of the board of estimate may erect and mainta
 
 
 
-*§ 22-115 Removal of sweepings, ashes and garbage. * ::
+
+
+*§ 22-115 Removal of sweepings, ashes and garbage.* ::
 
 
 The commissioner shall dispose of all sweepings, ashes and garbage removed by him or her in cleaning wharf property pursuant to subdivision b of section seven hundred four of the charter. For that purpose the commissioner may use concurrently with the department of sanitation, such dumping boards, slips and piers as may be assigned to and set apart for the use of such department.
@@ -165,7 +195,9 @@ The commissioner shall dispose of all sweepings, ashes and garbage removed by hi
 
 
 
-*§ 22-116 Improvement of water front property; permit required. * ::
+
+
+*§ 22-116 Improvement of water front property; permit required.* ::
 
 
 A written permit shall be obtained from the commissioner before any building, platform, sign, advertising device or any construction or obstacle of any kind be placed or maintained, on water front property owned by the city and under the charge and control of the department. Such a permit shall also be required for erection of such structures or the placing and maintenance of such devices on any other water front property when used in conjunction with and in furtherance of water front commerce and/or navigation. Such a permit shall also be required before any piles shall be driven, or any filling-in or construction, repairs, alterations, removal, dredging or demolitions of any kind be made on any part of the water front, except as may be otherwise provided by the charter or code of the city of New York.
@@ -173,7 +205,9 @@ A written permit shall be obtained from the commissioner before any building, pl
 
 
 
-*§ 22-117 Unauthorized construction and maintenance of structures on water front property; penalty. * ::
+
+
+*§ 22-117 Unauthorized construction and maintenance of structures on water front property; penalty.* ::
 
 
 Any owner, lessee, occupant or agent of any water front property who shall place or permit the erection, placing or maintaining of any structure referred to in section 22-116 of this subchapter without a permit as required by such section, shall forfeit and pay a penalty of one hundred dollars, in addition to all damages resulting therefrom. There shall be a further penalty of twenty-five dollars a day for each and every day such structure shall be maintained after the expiration of the time specified for the removal thereof in any notice served upon such owner, lessee or occupant or agent.
@@ -181,7 +215,9 @@ Any owner, lessee, occupant or agent of any water front property who shall place
 
 
 
-*§ 22-118 Construction of sheds; regulation by commissioner. * ::
+
+
+*§ 22-118 Construction of sheds; regulation by commissioner.* ::
 
 
 a. Whenever any person, shall be owner or lessee of any water front property, wharf, pier, dock or bulkhead, and shall use it for the purpose of regularly receiving and discharging cargo such owner or lessee, with the consent of the lessor, may erect and maintain thereon, sheds for the protection of property so received or discharged, provided they shall have obtained from the commissioner, license or authority to erect or maintain the same, subject to the conditions and restrictions contained in such license or authority. Such license or authority, after it has been granted and has been acted upon, shall not be revoked by such commissioner without the consent in writing of the mayor and the board of estimate. Notice shall be given to all parties having any interest therein of a hearing before the board of estimate to consider the application of the commissioner for the revocation of such license or authority. Such notice shall be given by publication thereof for six consecutive days in the City Record, not less than ten nor more than thirty days before such hearing, and by posting, not less than ten nor more than thirty days before such hearing, copies of such notice, in the form of handbills, upon the shed or sheds erected or maintained pursuant to such license or authority, or upon the water front property, wharf, pier, dock or bulkhead upon which such shed or sheds shall have been erected or maintained. Such sheds hereafter shall be constructed subject to the regulations and under the authority of the commissioner. The commissioner may build and maintain such sheds on any water front property, wharf, pier, dock or bulkhead owned by the city and under the charge and control of the department, and may lease the same; and any lessee thereof shall have all the rights and privileges above granted.
@@ -193,7 +229,9 @@ c. Nothing contained in subdivision b of this section shall be construed as inte
 
 
 
-*§ 22-119 Commissioner may repair certain structures on privately-owned water front property and deepen adjoining water. * ::
+
+
+*§ 22-119 Commissioner may repair certain structures on privately-owned water front property and deepen adjoining water.* ::
 
 
 a. Where the owner of any privately-owned water front property, wharf, pier, dock or bulkhead, the structures wholly or partly thereon or such other structures used on such water front property in conjunction with and in furtherance of water front commerce and/or navigation fails to comply with an order of the commissioner, made pursuant to section seven hundred four of the charter, directing that repairs be made to such structures for the purpose of keeping them in a proper condition for use, or fails to comply with an order made pursuant to such section directing that the water near or adjoining any privately-owned water front property be deepened by excavating or removing the earth, mud, dirt or sand therefrom in such places and at such times as the commissioner may determine, such commissioner may himself or herself perform any or all of such work.
@@ -203,7 +241,9 @@ b. The expense incurred by such deepening or repairs shall be a lien or charge u
 
 
 
-*§ 22-120 Commissioner may remove abandoned wharf structures. * ::
+
+
+*§ 22-120 Commissioner may remove abandoned wharf structures.* ::
 
 
 a. Whenever any pier, bulkhead, platform or other wharf structure shall be abandoned and constitute an obstruction to navigation, the commissioner shall notify the owner of such property, if known to him or her, to remove the same forthwith. If the owner is unknown, or is not within the city, or shall fail to comply with such notice, the commissioner shall cause such obstruction to be removed. The expense of such removal shall be recoverable by action from the owner and shall be a lien on the property so removed until paid.
@@ -213,7 +253,9 @@ b. If such property is unclaimed within thirty days after removal, the commissio
 
 
 
-*§ 22-121 Maintenance of a drift- and debris-free harbor. * ::
+
+
+*§ 22-121 Maintenance of a drift- and debris-free harbor.* ::
 
 
 a. As used in this section the following terms shall have the following meanings:
@@ -269,7 +311,9 @@ g. 1. The expense of the department with respect to any work performed by or on 
 
 
 
-*§ 22-122 Floating drydocks lawful. * ::
+
+
+*§ 22-122 Floating drydocks lawful.* ::
 
 
 It shall be lawful for floating drydocks to be used, with the consent of the owners of the wharf property, occupied for such use, or of the persons entitled to collect wharfage thereon, for the purpose of taking up ships or vessels for repair, coppering or finishing.
@@ -277,7 +321,9 @@ It shall be lawful for floating drydocks to be used, with the consent of the own
 
 
 
-*§ 22-123 Asphalt pavement on marginal streets; applications to open. * ::
+
+
+*§ 22-123 Asphalt pavement on marginal streets; applications to open.* ::
 
 
 Applications to open asphalt pavement under the control of the commissioner must be made to the commissioner and shall be subject to such rules and regulations as he or she shall establish pursuant to section seven hundred four of the charter.
@@ -285,7 +331,9 @@ Applications to open asphalt pavement under the control of the commissioner must
 
 
 
-*§ 22-124 Covenants to maintain marginal streets; water front covenants generally; release of. * ::
+
+
+*§ 22-124 Covenants to maintain marginal streets; water front covenants generally; release of.* ::
 
 
 a. The owner of any lands in the city of New York formerly under water but now filled in and having streets physically laid out thereover or adjacent thereto, heretofore granted by the mayor, aldermen and commonalty of the city of New York, or by the city of New York, by a grant containing covenants or conditions requiring the maintenance of such streets, and otherwise, may file with the secretary of the board of estimate an application in writing for a release from such covenants and conditions setting forth a description of such lands, the ownership thereof, the number of feet fronting on the street and the width of such street together with a statement enumerating all of such convenants and conditions relating to such lands. Such application shall contain a statement that all covenants and conditions contained in such grant have been complied with except the covenant or condition for future maintenance of such street. Such secretary, upon payment by the applicant of a fee of fifty dollars to cover the expenses incident to investigating the truth of the statements contained in such application, shall make due inquiry and, if such statements are in fact true, shall present to such board a report and certificate as to the authenticity of the facts set forth in such application. Such board may thereafter adopt a resolution approving of the report of such secretary. If such report is approved by such board, such owner may obtain from the comptroller a release of all covenants and conditions contained in such grant insofar as such convenants and conditions affect the lands of the applicant, upon payment to the commissioner of finance of a sum equal to twenty dollars per front foot of such property based on a street sixty feet in width, or of a proportional sum based on streets having a greater or less width, and upon receipt of such sum, such comptroller for and on behalf of the city, shall issue to such owner a certificate evidencing such release, the same to be in form for recording. Such certificate shall be approved as to form by the corporation counsel and may be recorded in the same manner and in the same recording office as a deed of real property. After such release, with respect to any parcel, such city shall keep in repair or cause to be kept in repair the roadway portion of such street on which the parcel abuts.
@@ -295,7 +343,9 @@ b. In the event that any such convenants or conditions, other than those requiri
 
 
 
-*§ 22-125 Wharf property; lease; period. * ::
+
+
+*§ 22-125 Wharf property; lease; period.* ::
 
 
 Any lease of wharf property belonging to the city shall be for a term not exceeding fifty years, and may include covenants for renewal or renewals at advanced rents of such lease for terms not exceeding ten years each but not exceeding in the aggregate ninety-nine years.
@@ -303,7 +353,9 @@ Any lease of wharf property belonging to the city shall be for a term not exceed
 
 
 
-*§ 22-126 Recreation piers. * ::
+
+
+*§ 22-126 Recreation piers.* ::
 
 
 The commissioner may designate and set aside, as wholly free to the inhabitants of the city, the upper story of certain piers for the purpose of affording such inhabitants opportunity for healthful recreation. The commissioner may construct or rebuild such piers so as to provide such upper story or platform and approaches thereto.
@@ -311,7 +363,9 @@ The commissioner may designate and set aside, as wholly free to the inhabitants 
 
 
 
-*§ 22-127 Application of private wharf property to a particular use. * ::
+
+
+*§ 22-127 Application of private wharf property to a particular use.* ::
 
 
 The commissioner may designate any wharf property which the owners thereof may apply to have set apart for the sole use of special kinds of commerce, or of steamboats, or of any other class or description of ships, or vessels, and may prohibit any ship, steamboat, or any other vessel or water craft whatever from entering or lying, mooring or anchoring at or within any such wharf property, except such as may be designated for their use.
@@ -319,7 +373,9 @@ The commissioner may designate any wharf property which the owners thereof may a
 
 
 
-*§ 22-128 Leasing of wharf property set aside for general and special purposes; contents of publication prior to public hearing. * ::
+
+
+*§ 22-128 Leasing of wharf property set aside for general and special purposes; contents of publication prior to public hearing.* ::
 
 
 Publication of notice of a public hearing to lease wharf property described in subdivision a of section seven hundred four of the charter, in addition to such information as the commissioner may deem proper, shall contain the following:
@@ -341,7 +397,9 @@ Publication of notice of a public hearing to lease wharf property described in s
 
 
 
-*§ 22-129 Rates to be printed in wharfage bills. * ::
+
+
+*§ 22-129 Rates to be printed in wharfage bills.* ::
 
 
 a. All persons owning or having charge of any wharf property shall cause to be printed on the back of all bills presented by them for wharfage, cranage and dockage the provisions of subdivision j of section seven hundred four of the charter and the schedule of rates fixed pursuant thereto.
@@ -351,7 +409,9 @@ b. The owner, consignee, or person in charge of any vessel may refuse to pay the
 
 
 
-*§ 22-130 Seal; description; legal effect. * ::
+
+
+*§ 22-130 Seal; description; legal effect.* ::
 
 
 a. The commissioner may direct the use of the seal of the department. Such seal shall be a device of the arms of the city of New York surrounded by the words, "Department of Ports and Trade. The City of New York," engraved upon a metal disc two and one-quarter inches in diameter, and the same may be renewed whenever necessary. An impression of such seal made directly on paper shall be as valid as if made on a wafer or on wax.
@@ -364,7 +424,9 @@ b. Every lease, contract or other instrument, executed in pursuance of authority
 
 **Subchapter 2: Water Front Terminals**
 
-*§ 22-131 Definitions. * ::
+
+
+*§ 22-131 Definitions.* ::
 
 
 As used in this subchapter the following words shall mean:
@@ -392,7 +454,9 @@ As used in this subchapter the following words shall mean:
 
 
 
-*§ 22-132 Plans. * ::
+
+
+*§ 22-132 Plans.* ::
 
 
 a. The commissioner, when directed by the board of estimate, or when the commissioner deems it to be for the interest of the city, shall prepare plans for terminal facilities, which shall consist of:
@@ -408,7 +472,9 @@ c. Whenever such plans shall include the narrowing or widening of a street or th
 
 
 
-*§ 22-133 Acquisition of the necessary real property. * ::
+
+
+*§ 22-133 Acquisition of the necessary real property.* ::
 
 
 a. After the adoption and certification of such plans, and the filing thereof in the office of the commissioner, the mayor may direct the commissioner to acquire any and all real property included in such plans or any interest therein, which may be necessary for the creation of the terminal facilities shown upon the map or maps forming part of such plans. The proceedings for the acquisition of the title to such property shall be taken and conducted in the manner prescribed in subchapter one of chapter three of title five of the code.
@@ -422,7 +488,9 @@ d. Such parts of the lands acquired by the city under and pursuant to the provis
 
 
 
-*§ 22-134 Construction. * ::
+
+
+*§ 22-134 Construction.* ::
 
 
 The board of estimate may direct the commissioner to build or cause to be built the whole or any part of terminal ways, including foundations, abutments and bridges required therefor, terminal stations and equipment thereof, provided for by such plans for terminal facilities, and generally to execute such plans.
@@ -430,7 +498,9 @@ The board of estimate may direct the commissioner to build or cause to be built 
 
 
 
-*§ 22-135 Operation. * ::
+
+
+*§ 22-135 Operation.* ::
 
 
 The board of estimate may direct the commissioner to operate or to permit the use of terminal facilities upon such terms and subject to such regulations as such board from time to time may establish; and to carry into effect the provisions of this subchapter, the commissioner may purchase or lease or obtain in the best manner obtainable for the interests of the city, and according to law, power, light, heat and fixtures for the use thereof and other necessities and conveniences for such operation, provided that nothing contained in this subchapter shall be deemed to include the right or privilege to grant a franchise to carry on the business of generating, selling or distributing electric light, heat or power.
@@ -438,7 +508,9 @@ The board of estimate may direct the commissioner to operate or to permit the us
 
 
 
-*§ 22-136 Use of private facilities. * ::
+
+
+*§ 22-136 Use of private facilities.* ::
 
 
 The board of estimate may hire or contract for use by the city in supplement or extension of its terminal facilities such ways, stations, basins, plant or service as, being owned or controlled by others than the city, shall be needed or proper to that end, but not for a longer period than twenty-five years, except as provided for by option to the city.
@@ -446,7 +518,9 @@ The board of estimate may hire or contract for use by the city in supplement or 
 
 
 
-*§ 22-137 Acquisition of private facilities. * ::
+
+
+*§ 22-137 Acquisition of private facilities.* ::
 
 
 In case any terminal facilities shall be provided, or agreed to be provided by the city as a substitute, in whole or in part, for any existing tracks, or other transportation or terminal facilities which the owner thereof may agree to surrender in consideration of the right to use such terminal facilities so provided in substitution, or agreed to be provided in substitution, the city may for such a time, and on such terms and conditions as may be agreed upon, lease, permit or agree in respect to such substituted use or operation.
@@ -454,7 +528,9 @@ In case any terminal facilities shall be provided, or agreed to be provided by t
 
 
 
-*§ 22-138 Liability of city limited. * ::
+
+
+*§ 22-138 Liability of city limited.* ::
 
 
 Neither in any such operation of any such way, station or store, nor in any such transport as it shall undertake, shall the city be or undertake to be liable as a common carrier.
@@ -462,7 +538,9 @@ Neither in any such operation of any such way, station or store, nor in any such
 
 
 
-*§ 22-139 Private operation. * ::
+
+
+*§ 22-139 Private operation.* ::
 
 
 a. If the board of estimate shall determine that municipal operation of any terminal facilities is inexpedient, it shall advertise for proposals for the privilege of constructing, equipping and operating the same, or for equipping and operating after construction by the city, or for operating after construction and equipment by the city, by a notice to be printed once a week for two successive weeks in not less than two daily newspapers, and may require security from bidders for the execution of their bids, if accepted. Such notice shall describe such terminal facilities in such terms as the board of estimate shall deem proper, and shall state the time and place at which proposals will be received and opened. All proposals shall undertake to equip such facilities, unless equipment shall have been provided by the city, and to maintain and operate such terminal facilities for a period not exceeding twenty-five years, with the privilege, however, of renewing such contract for a further period not exceeding twenty-five years upon terms to be readjusted as provided in such contract. Such proposals may offer to pay to the city for the use of such terminal facilities either (1) a fixed annual sum; or (2) a share of gross receipts; or (3) a share of net receipts. The board of estimate, or a duly appointed committee thereof, shall attend at the time and place specified in such public notice, and shall publicly open all proposals which shall have been received, but such board shall not be bound to accept any proposals so received, and may reject all such proposals and readvertise for proposals in the manner hereinbefore provided, or may accept any of such proposals as will, in the judgment of such board, best promote the public interest, and award a contract accordingly.
@@ -478,7 +556,9 @@ e. Notwithstanding the provisions of any general or special law, a railroad corp
 
 
 
-*§ 22-140 Construction clause. * ::
+
+
+*§ 22-140 Construction clause.* ::
 
 
 Nothing contained in this subchapter shall be construed as in any way limiting the present or future jurisdiction of the public service commission of the state of New York, and nothing contained in this subchapter shall be construed as limiting or repealing any of the provisions of the railroad law of the state of New York. Provided, however, that it shall not be necessary before constructing a railroad as part of terminal facilities to obtain a certificate of convenience and necessity from the public service commission.
@@ -489,7 +569,9 @@ Nothing contained in this subchapter shall be construed as in any way limiting t
 
 **Subchapter 3: Transfer of Barge Canal Terminals To City**
 
-*§ 22-141 Definitions. * ::
+
+
+*§ 22-141 Definitions.* ::
 
 
 Unless expressly otherwise provided, whenever used in this subchapter, the following terms shall mean and include:
@@ -505,7 +587,9 @@ Unless expressly otherwise provided, whenever used in this subchapter, the follo
 
 
 
-*§ 22-142 Legislative finding. * ::
+
+
+*§ 22-142 Legislative finding.* ::
 
 
 It is hereby found and determined that the pier properties, heretofore constituting barge canal terminals and barge canal lands, in this section hereinafter generally described, are no longer necessary or useful for canal or terminal purposes or as an aid to navigation thereon: The Greenpoint terminal, being all that tract, piece or parcel of land, situate, lying and being in the borough (formerly city) of Brooklyn, county of Kings, city and state of New York, bounded and described as follows (all bearings being referred to the true meridian): Beginning at a point formed by the intersection of the center line of Commercial street as established at the time of the acquisition of the property herein described by the state of New York between Franklin and West streets and the center line of West street, as established at the time of the acquisition of the property herein described by the state of New York between Dupont and Eagle streets; thence from said point of beginning, southerly and south-easterly along the aforesaid center line of West street, one hundred eighteen and fifty-six hundredths feet to a point formed by the intersection of said center line of West street and a line parallel to the southerly side of Dupont street as laid out west of West street and distant ninety-five feet southerly therefrom; thence along said line eight hundred fifty-five and seventy-five hundredths feet to a point in the pierhead line as established at the time of the acquisition of the property herein described by the state of New York by law; thence northerly, northeasterly and easterly along said pierhead line, one thousand sixty-nine and thirty-two hundredths feet more or less to a point where the center line of Blue street as established at the time of the acquisition of the property herein described by the state of New York, if extended, would intersect the aforesaid pierhead line; thence southerly and southeasterly along said center line of Blue street two hundred thirty-seven and twelve hundredths feet to a point in the westerly line of lands conveyed by the state of New York to the city of New York by letters-patent dated February thirteen, nineteen hundred forty-two; thence south thirty-seven degrees, four minutes, seventeen seconds west, along said westerly line of lands conveyed as aforesaid, one hundred fifty-three and thirty-two hundredths feet; thence continuing along said line of lands conveyed as aforesaid, the following several courses to said center line of Commercial street aforesaid, south seven degrees, eight minutes, forty-three seconds east, thirty-two and thirty-seven hundredths feet; thence north eighty-two degrees, fifty-one minutes, seventeen seconds east, forty-three feet; thence south seven degrees, eight minutes, forty-three seconds east, seventy feet; thence south eighty-two degrees, fifty-one minutes, seventeen seconds west, forty-three feet; thence south seven degrees, eight minutes, forty-three seconds east, seventy-seven feet; thence south fifty degrees, thirteen minutes, forty-eight seconds east, seventy-three and four hundredths feet; thence north eighty-two degrees, fifty-one minutes, seventeen seconds east, seventy-three and fifty-three hundredths feet to a point in said center line of Commercial street as aforesaid; thence south fifty-four degrees, twenty-five minutes, forty-seven seconds west, along said center line of Commercial street, seventy-five and seventy-eight hundredths feet to the point of beginning. Being the same premises appropriated by the state for the barge canal terminal at Greenpoint, in the borough of Brooklyn, county of Kings, city of New York, pursuant to the provisions of chapter seven hundred forty-six of the laws of nineteen hundred eleven, as shown on map of parcel number T-8, terminal contract number nineteen, approved by the canal board on June eight, nineteen hundred twelve and on file in the department of transportation of the state of New York, excepting so much thereof as was conveyed by the state of New York to the city of New York by letters-patent dated February thirteen, nineteen hundred forty-two. The Hallet's cove terminal being all that tract or parcel of land, situate, lying and being near the foot of Camelia street, Hallet's cove, East River, borough and county of Queens, city and state of New York, bounded and described as follows (all bearings being referred to the true meridian): Beginning at the point of intersection of the northerly side of Broadway and the pierhead and bulkhead line established by the harbor commission in eighteen hundred fifty-seven; thence running along said pierhead and bulkhead line north seventy degrees, nine minutes east two hundred seventy-six and twenty-five hundredths feet; thence still along said line north sixty-six degrees, fourteen minutes east one hundred seventy-two and eighty hundredths feet to a point in the southerly boundary line of lands owned or claimed by John W. Scott; thence along said southerly boundary line south fifty degrees east one hundred ninety-five feet to a point in the westerly side of the boulevard; thence south twelve degrees, twenty-eight minutes west three hundred forty-seven and sixty hundredths feet to a point in the northwesterly boundary line of lands owned or claimed by Peter McKernan; thence along said northwesterly boundary line south seventy-four degrees twenty-three minutes west sixty-four and forty-two hundredths feet to the lands owned or claimed by T. W. Stevens; thence still south seventy-four degrees, twenty-three minutes west seventy-one and eleven hundredths feet along the northwesterly line of the last mentioned lands to a point in the northerly side of Broadway; thence along the said northerly side of Broadway north forty-six degrees, fifty-eight minutes west four hundred ninety-four and ninety hundredths feet more or less to the point of beginning, Being the same premises appropriated by the state for the barge canal terminal at Hallet's cove, East river, borough of Queens, county of Queens, city of New York, pursuant to the provisions of chapter seven hundred forty-six of the laws of New York, nineteen hundred eleven, as amended, as shown on parcel number T-99, terminal contract number forty-five, approved by the canal board on December twenty-one, nineteen hundred fourteen, and on file in the department of transportation of the state of New York. The east 138th street terminal, being all those three tracts or parcels of land situate, lying and being in the 23rd Ward of the borough and county of the Bronx, city and state of New York, and being a part of section nine, block 2339, hereinafter bounded and described as follows (all bearings being referred to the easterly side of tenth avenue as the meridian, the bearing of which referred to true north is twenty-eight degrees, fifty-nine minutes, twenty-seven and thirty-three hundredths seconds east):
@@ -519,7 +603,9 @@ It is hereby found and determined that the pier properties, heretofore constitut
 
 
 
-*§ 22-143 Transfer. * ::
+
+
+*§ 22-143 Transfer.* ::
 
 
 Upon the adoption of a resolution by the board of estimate, pursuant to section one hundred ninety-seven-c of the charter, signifying acceptance of such pier properties and subject to the following conditions, and upon the delivery of a certified copy of such resolution to the secretary of state of the state of New York, all right, title and interest of the state of New York in and to such pier properties and appurtenances thereto and in to the equipment, chattels and other tangible property thereat and used in the operation thereof, and in and to the rents and revenues thereof which shall accrue from and after vesting of title as herein provided, shall thereby vest in the city:
@@ -533,7 +619,9 @@ Upon the adoption of a resolution by the board of estimate, pursuant to section 
 
 
 
-*§ 22-144 Executory contracts. * ::
+
+
+*§ 22-144 Executory contracts.* ::
 
 
 Upon the vesting in the city of the right, title and interest of the state in and to such pier properties and as an incident thereto, there shall also vest in the city all the right, title and interest of the state in and to and in connection with any and all executory contracts and agreements in connection with such pier properties except as to moneys and rights accrued thereunder at the time of vesting of title as herein provided.
@@ -541,7 +629,9 @@ Upon the vesting in the city of the right, title and interest of the state in an
 
 
 
-*§ 22-145 Violation of conditions. * ::
+
+
+*§ 22-145 Violation of conditions.* ::
 
 
 If the city shall violate any of the conditions set forth in section 22-143 of this subchapter, then at the option of the state the particular pier property or pier properties with respect to which or out of the operation of which such violation arises shall revert to the state; provided, that the state shall within a reasonable time after the discovery of such violation serve written notice upon the city requesting that such violation be remedied, and provided further, that the city shall fail to remedy such violation within a reasonable time thereafter; provided further, however, that the commissioner of general services is hereby authorized to grant and convey to the city of New York the remaining right, title and interest of the state of New York in a particular pier property or all such properties, free of the conditions and restrictions contained in sections 22-143, 22-144, 22-146, 22-147, 22-148 and 22-149 of this subchapter, upon such other terms and conditions, including consideration, as he or she may fix and determine and such property may be used for any and all purposes permitted by law.
@@ -549,7 +639,9 @@ If the city shall violate any of the conditions set forth in section 22-143 of t
 
 
 
-*§ 22-146 State lands in case of reverter. * ::
+
+
+*§ 22-146 State lands in case of reverter.* ::
 
 
 The pier properties, if any, which revert to the state pursuant to this subchapter shall be and shall be deemed to be unappropriated state lands.
@@ -557,7 +649,9 @@ The pier properties, if any, which revert to the state pursuant to this subchapt
 
 
 
-*§ 22-147 Rehabilitation of pier properties. * ::
+
+
+*§ 22-147 Rehabilitation of pier properties.* ::
 
 
 The city of New York shall proceed with the rehabilitation of such pier properties as and when in its opinion it is practicable so to do. No failure on its part to rehabilitate any pier property or properties and no delay in the rehabilitation thereof, because of the non-availability of materials or any other reason for which the city is not responsible or over which it has no control, shall constitute a violation of condition (a) of section 22-143 of this subchapter.
@@ -565,7 +659,9 @@ The city of New York shall proceed with the rehabilitation of such pier properti
 
 
 
-*§ 22-148 Intent. * ::
+
+
+*§ 22-148 Intent.* ::
 
 
 It is the intent of this subchapter that the rehabilitation, maintenance and operation of such pier properties shall be in all respects for the benefit of the people of the state of New York and to provide needed transportation and terminal facilities so that their commerce and prosperity may be increased and their health and living conditions improved. The city is hereby declared to be and shall be regarded as performing an essential governmental function in rehabilitating, maintaining and operating such pier properties.
@@ -573,7 +669,9 @@ It is the intent of this subchapter that the rehabilitation, maintenance and ope
 
 
 
-*§ 22-149 Tax exemption. * ::
+
+
+*§ 22-149 Tax exemption.* ::
 
 
 No taxes shall be payable or required to be paid upon any of such pier properties or upon any interest therein or upon any other property, real or personal, acquired or used in connection therewith.
@@ -584,7 +682,9 @@ No taxes shall be payable or required to be paid upon any of such pier propertie
 Chapter 1-a: Fulton Fish Market Distribution Area and Other Seafood Distribution Areas
 --------------------------------------------------
 
-*§ 22-201 Legislative findings. * ::
+
+
+*§ 22-201 Legislative findings.* ::
 
 
 The council hereby finds that the fulton fish market, the center of New York's wholesale seafood industry located in lower Manhattan, has for decades been corruptly influenced by organized crime; that organized crime's corrupting influence over certain functions in the market, including the unloading and loading functions, has resulted in the commission of numerous crimes and wrongful acts there, including but not limited to physical violence or threats of violence, property damage, and thefts; that organized crime's corrupting influence over the market has fostered and sustained a cartel that has forced seafood suppliers and truckers to use particular unloading crews at fixed prices in an anticompetitive scheme that has been censured by a federal judge; that organized crime's corrupting influence has resulted in retailers parking on city streets and city property nevertheless having to pay high fees to private loading crews whose principal function has been to provide "security" for those vehicles and their contents while retailers have purchased fish in the crime-ridden market area; and that these corrupting influences have further resulted in higher prices for wholesale seafood than would otherwise have to be paid in the absence of this activity. The council further finds that despite the repeated efforts of law enforcement to prosecute crimes there and the presence of a court-appointed administrator for the market, the problem of organized crime corruption in the market has persisted. The council further finds that the market's businesses, including wholesalers, seafood deliverers, unloaders and loaders, have not been effectively regulated by the city in the past under existing laws and regulations governing public markets, even though they often operate on city property, albeit without leases, licenses and registration. The council fur-ther finds that, in the absence of an effective regulatory scheme, wholesalers have established a "gray market" in tenancies at rates in excess of those being paid to the city and have thus deprived the public of its rightful return on city property, and further, that unscrupulous businesses have taken advantage of this absence of regulation to engage in fraudulent practices, such as the creation of "phantom wholesalers" whose businesses disappear from the market before payment can be obtained from them for seafood they have received from suppliers, and that such practices have discouraged suppliers from utilizing the market area The council therefore finds and declares that in order to provide for the more efficient and orderly conduct of business in the market area, to ensure that any such activities are lawfully conducted, to promote the economic vitality of the market and to protect the public interest, it is necessary for the commissioner of small business services to have expanded authority to license and/or register businesses in the market area and to regulate the conduct of such businesses. In particular, the council finds that, in order to achieve these objectives, the commissioner of small business services should be authorized to issue requests for licensing proposals to provide unloading and loading services in the market area and, at his or her discretion, issue one or more unloading and loading licenses based on the review and evaluation of responses received pursuant to such requests. In the event that no appropriate responses are received to such requests, the commissioner should be authorized to arrange for the department of small business services itself to perform unloading or loading services or to arrange that they be performed by a contractor or a designee of the department. The council recognizes that complaints have been made about the conduct of seafood distribution activities outside the market area and finds further that the conditions which have given rise to corruption in the market area can exist in other areas where there are wholesale seafood businesses or concentrations of such businesses. The council also recognizes that representatives of such businesses have threatened to move their operations elsewhere and that some may relocate to other parts of the city. The council thus finds and declares that it is also necessary for the commissioner of small business services to have authority to regulate seafood distribution in areas of the city outside the market area in which such seafood businesses may concentrate. Application of this chapter will enhance the city's ability to address organized crime corruption and to protect consumers and the many honest business persons who do business in or with the market or at other seafood distribution areas. It is thus the council's intent to empower the city to have greater regulatory authority over the conduct business in the market and in other seafood distribution areas.
@@ -592,7 +692,9 @@ The council hereby finds that the fulton fish market, the center of New York's w
 
 
 
-*§ 22-202 Definitions. * ::
+
+
+*§ 22-202 Definitions.* ::
 
 
 For the purposes of this chapter, the following terms shall have the following meanings:
@@ -638,7 +740,9 @@ s. "Wholesaler" or "wholesale seafood business" shall mean any business entity w
 
 
 
-*§ 22-202.1 [Applicability of chapter 1-B.]* * ::
+
+
+*§ 22-202.1 [Applicability of chapter 1-B.]** ::
 
 
 A market business in the fulton fish market distribution area as such term is defined in section 22-251 of this code shall be subject to the provisions governing market businesses in chapter 1-B of this title.
@@ -646,7 +750,9 @@ A market business in the fulton fish market distribution area as such term is de
 
 
 
-*§ 22-203 Photo identification card required. * ::
+
+
+*§ 22-203 Photo identification card required.* ::
 
 
 a. The market manager shall issue photo identification cards to those principals, employees and agents of any business licensed pursuant to this chapter who perform any function directly related to the handling or transportation of seafood within or from the market area. Such cards shall be termed class A photo identification cards and shall be issued subject to the provisions set forth in section 22-216 of this chapter and the fee for such card established by the commissioner by rule pursuant to section 22-223 of this chapter. Such cards shall be displayed so as to be readily visible to others during the hours of market operation, as designated by the market manager.
@@ -664,7 +770,9 @@ d. A photo identification card issued pursuant to this section shall bear a phot
 
 
 
-*§ 22-204 Unloading business license required. * ::
+
+
+*§ 22-204 Unloading business license required.* ::
 
 
 a. It shall be unlawful to conduct an unloading business or otherwise provide unloading services in the fulton fish market distribution area without having first obtained an unloading business license from the commissioner pursuant to the provisions of this section. An unloding business license shall not be transferable.
@@ -696,7 +804,9 @@ h. Prior to the expiration of the term of a license issued pursuant to this sect
 
 
 
-*§ 22-205 Conduct of unloading businesses. * ::
+
+
+*§ 22-205 Conduct of unloading businesses.* ::
 
 
 The commissioner may establish by rule such measures as he or she deems appropriate and necessary to ensure the orderly and lawful unloading of seafood in the fulton fish market distribution area, including but not limited to: (i) a procedure for determining the order in which trucks or other vehicles are unloaded; (ii) designation of waiting areas for trucks that enter the fulton fish market distribution area; (iii) designation of unloading areas in the fulton fish market distribution area and, in the event such designated unloading area is located on property belonging to the city, the charging of a fee for the use of such property by an unloading business; (iv) designation of hours for the unloading of seafood in the fulton fish market distribution area; (v) documentation requirements for the delivery and receipt of seafood; (vi) requirements for the disposal of waste and other sanitary measures; (vii) provisions prescribing maintenance and availability of records for inspection by the commissioner or the market manager; and (viii) appropriate insurance and bonding requirements.
@@ -704,7 +814,9 @@ The commissioner may establish by rule such measures as he or she deems appropri
 
 
 
-*§ 22-206 Loading license required. * ::
+
+
+*§ 22-206 Loading license required.* ::
 
 
 a. It shall be unlawful to conduct a loading business or otherwise provide loading services in the fulton fish market distribution area, or provide such services to purchasers of seafood from wholesalers in such market area, without first having obtained a loading business license issued by the commissioner pursuant to the provisions of this section. A loading business license shall not be transferable.
@@ -740,7 +852,9 @@ j. Nothing in this chapter shall be construed to require the department to autho
 
 
 
-*§ 22-207 Conduct of loading businesses. * ::
+
+
+*§ 22-207 Conduct of loading businesses.* ::
 
 
 a. The commissioner may establish by rule such measures as he or she deems appropriate and necessary to ensure the orderly and lawful conduct of loading businesses in the fulton fish market distribution area. Such measures may include the establishment of a voucher system under which (i) loaders are prohibited from accepting cash payments for performing loading services and (ii) persons wishing to have loading services performed for them may purchase vouchers from the market manager and present them to loaders in payment for loading services. Such vouchers shall thereafter be redeemed by the loading business for payment from the market manager.
@@ -750,7 +864,9 @@ b. Such measures may also include, but shall not be limited to: (i) appropriate 
 
 
 
-*§ 22-208 Loading and unloading services provided by the department. * ::
+
+
+*§ 22-208 Loading and unloading services provided by the department.* ::
 
 
 a. Notwithstanding any provisions of this chapter to the contrary, the commissioner may determine that the public interest will be best protected by the department providing loading and/or unloading services in the market. Such determination may also be made:
@@ -770,7 +886,9 @@ e. For the purposes of this section, services provided by the department shall i
 
 
 
-*§ 22-209 Wholesaler registration and stand permits required. * ::
+
+
+*§ 22-209 Wholesaler registration and stand permits required.* ::
 
 
 a. It shall be unlawful for any business entity to conduct a wholesale seafood business in the fulton fish market distribution area without having first registered with and obtained a registration number from the commissioner. A registration application shall be submitted by a wholesale seafood business upon a form prescribed by the commissioner containing such information as the commissioner shall require by rule and shall be signed by all the principals of such wholesaler. A registration number shall not be transferable. A wholesaler shall not sublease or assign to another wholesaler the premises, or any portion thereof with respect to which a wholesaler has registered his or her wholesale seafood business, unless such proposed sublessee or assignee has registered with and obtained a wholesaler registration number from the commissioner. A wholesale seafood business shall, in accordance with rules promulgated by the commissioner pursuant to section 22-223 of this chapter, inform the commissioner of any change in the ownership composition of such business, or of the addition or deletion of any principal at any time subsequent to registration.
@@ -792,7 +910,9 @@ g. The market manager shall maintain and publish a list of all wholesalers in th
 
 
 
-*§ 22-210 Conduct of wholesale seafood businesses. * ::
+
+
+*§ 22-210 Conduct of wholesale seafood businesses.* ::
 
 
 The commissioner may establish by rule such measures as he or she deems necessary and appropriate to ensure the orderly and lawful conduct of wholesale seafood businesses in the market area, including but not limited to:
@@ -810,7 +930,9 @@ The commissioner may establish by rule such measures as he or she deems necessar
 
 
 
-*§ 22-211 Registration required for seafood delivery business. * ::
+
+
+*§ 22-211 Registration required for seafood delivery business.* ::
 
 
 a. It shall be unlawful to conduct a seafood delivery business in the fulton fish market distribution area without having first registered such business with the commissioner and obtained a registration number from the commissioner. A registration application shall be submitted by a seafood delivery business upon a form prescribed by the commissioner containing such information as the commissioner shall require by rule and shall be signed by all the principals of such seafood delivery business. The market manager may require that seafood deliverers affix a sticker or decal containing such registration number to their delivery vehicles. A seafood delivery registration number or sticker or decal shall not be transferable.
@@ -822,7 +944,9 @@ b. (i) Notwithstanding any provision of this chapter, the commissioner may, when
 
 
 
-*§ 22-212 Conduct of seafood delivery business. * ::
+
+
+*§ 22-212 Conduct of seafood delivery business.* ::
 
 
 The commissioner may establish by rule such measures as he or she deems appropriate and necessary to ensure the orderly conduct of seafood delivery businesses in the fulton fish market distribution area. Such measures may include, but not be limited to:
@@ -840,7 +964,9 @@ The commissioner may establish by rule such measures as he or she deems appropri
 
 
 
-*§ 22-212.1 Registration of labor union and labor organization. * ::
+
+
+*§ 22-212.1 Registration of labor union and labor organization.* ::
 
 
 A labor union or labor organization representing or seeking to represent employees directly involved in the movement, handling or sale of goods sold in the market shall register with the commissioner and shall be subject to the provisions of section 22-264 of this title.
@@ -848,7 +974,9 @@ A labor union or labor organization representing or seeking to represent employe
 
 
 
-*§ 22-213 Fees and terms of licenses and registrations. * ::
+
+
+*§ 22-213 Fees and terms of licenses and registrations.* ::
 
 
 a. The commissioner shall by rule establish fees for the issuance and renewal of registrations and of licenses pursuant to this chapter in amounts sufficient to compensate the city for the administrative expense of issuing or renewing a registration or license and the expense of inspections and other activities related thereto. A license issued pursuant to this chapter shall be valid for two years. A business entity that is licensed pursuant to this chapter shall provide the commissioner in a form prescribed by the commissioner pursuant to rules promulgated under this chapter with notice of at least ten business days of the proposed addition of a new principal to such business entity. The commissioner may waive or shorten such period upon a showing that there exists a bona fide business requirement therefor. Except where the commissioner determines within such period, based on information available to him or her, that the addition of such new principal may have a result inimical to the purposes of this chapter, the licensee may add such new principal pending the completion of review under section 22-216 of this chapter. The licensee shall be afforded an opportunity to demonstrate to the commissioner that the addition of such new principal pending completion of review under section 22-216 of this chapter would not have a result inimical to the purposes of this chapter. If upon the completion of such review, the commissioner determines that such principal lacks good character, honesty and integrity, the license shall cease to be valid unless such principal divests his or her interest; or discontinues his or her involvement in the business of such licensee, as the case may be, within the time period prescribed by the commissioner.
@@ -860,7 +988,9 @@ c. A registration issued pursuant to this chapter shall be valid for two years.
 
 
 
-*§ 22-214 Liability for violations. * ::
+
+
+*§ 22-214 Liability for violations.* ::
 
 
 a. A business entity required by this chapter to be licensed by or registered with the commissioner pursuant to this chapter shall be liable for violations of any of the provisions of this chapter or any rules promulgated pursuant thereto committed by any of its principals, employees or agents.
@@ -870,7 +1000,9 @@ b. In any civil action or administrative proceeding against an employee of a bus
 
 
 
-*§ 22-215 Penalties. * ::
+
+
+*§ 22-215 Penalties.* ::
 
 
 a. Except as otherwise provided in subdivision b of this section, any person who violates any provision of this chapter or any of the rules promulgated pursuant thereto shall be liable for a civil penalty which shall not exceed ten thousand dollars for each such violation. Such civil penalty may be recovered in a civil action brought in a court of competent jurisdiction or an administrative proceeding before the environmental control board.
@@ -886,7 +1018,9 @@ b. (i) Any person who violates subdivision a of section 22-204, subdivision a of
 
 
 
-*§ 22-216 Issuance and refusal to issue licenses, registrations and class A and class B photo identification cards. * ::
+
+
+*§ 22-216 Issuance and refusal to issue licenses, registrations and class A and class B photo identification cards.* ::
 
 
 a. The commissioner shall require that an applicant submitting a proposal to conduct an unloading business or a loading business, or seeking a temporary license to conduct such a business, and an applicant for a class A photo identification card shall:
@@ -950,7 +1084,9 @@ f. The commissioner may refuse to issue a license to, or consider a proposal fro
 
 
 
-*§ 22-217 Revocation or suspension of license, registration or photo identification card. * ::
+
+
+*§ 22-217 Revocation or suspension of license, registration or photo identification card.* ::
 
 
 a. In addition to the penalties provided in section 22-215 of this chapter, the commissioner may, after due notice and opportunity for a hearing, take action pursuant to subdivisions b and c of this section.
@@ -996,7 +1132,9 @@ e. For purposes of this section:
 
 
 
-*§ 22-218 Emergency suspension of license or registration and photo identification card. * ::
+
+
+*§ 22-218 Emergency suspension of license or registration and photo identification card.* ::
 
 
 Notwithstanding any other provision of this chapter or rules promulgated pursuant thereto, the commissioner may, if he or she determines that the conduct of an unloading business, a loading business, a wholesale seafood business or a seafood delivery business, or the presence of any person in the market area creates an imminent danger to life or property, immediately suspend a license, registration or a photo identification card without a prior hearing, provided that provision shall be made for an immediate appeal of such suspension to a deputy commissioner of the department who shall determine such appeal forthwith. In the event that the deputy commissioner upholds the suspension, an opportunity for a hearing shall be provided on an expedited basis, within a period not to exceed four business days and the commissioner shall issue a final determination no later than four business days following the conclusion of such hearing; and provided further that the commissioner may, upon application by a business entity whose license or registration has been suspended, permit such business entity to remain in the market area for such time as is necessary to allow for the expeditious sale, consignment or removal of a perishable product if, in the commissioner's best judgment, such permission is consistent with the safety of the market area.
@@ -1004,7 +1142,9 @@ Notwithstanding any other provision of this chapter or rules promulgated pursuan
 
 
 
-*§ 22-219 Surrender of license and photo identification card and cessation of use of registration number. * ::
+
+
+*§ 22-219 Surrender of license and photo identification card and cessation of use of registration number.* ::
 
 
 a. Suspension or revocation of a license or the discontinuance of business operations in the market area by a license shall require the immediate surrender to the market manager of the license and all photo identification cards issued for principals, employees and/or agents of the licensee.
@@ -1018,7 +1158,9 @@ d. Violation of the provisions of subdivisions b or c of this section where such
 
 
 
-*§ 22-220 Seizure; forfeiture. * ::
+
+
+*§ 22-220 Seizure; forfeiture.* ::
 
 
 a. Any police officer or authorized officer or employee of the department may, upon service of a notice of violation or criminal summons supon the owner or operator of a vehicle or other property or equipment seize such vehicle or such other property or equipment which such police officer or authorized officer or employee has reasonable cause to believe is being used in connection with an act constituting a violation of subdivision a of section 22-204, subdivision a of section 22-206 or subdivision c of section 22-208 of this chapter. Any vehicle, property or equipment seized pursuant to this subdivision shall be delivered into the custody of the department or other appropriate agency. Where a notice of violation has been served, a hearing to adjudicate the violation underlying the seizure shall be held before the environmental control board within five business days after the seizure and such board shall render a decision within five business days after the conclusion of the hearing. Where a criminal summons has been served, a hearing to adjudicate the violation underlying the seizure shall be held before a court of competent jurisdiction. In the event that such court or the environmental control board determines that there has been no violation, the vehicle, property or equipment that was seized shall be released forthwith to the owner or any person authorized by the owner to take possession of such vehicle, property or equipment.
@@ -1050,7 +1192,9 @@ e. (i) In addition to any other fines, penalties, sanctions or remedies provided
 
 
 
-*§ 22-221 Business address. * ::
+
+
+*§ 22-221 Business address.* ::
 
 
 Each business licensed or registered with the commissioner pursuant to this chapter shall maintain a business address in New York city where notices may be delivered and legal process served and shall provide the commissioner with such address and shall also designate an individual of suitable age and discretion at such address as an agent for service of legal process.
@@ -1058,7 +1202,9 @@ Each business licensed or registered with the commissioner pursuant to this chap
 
 
 
-*§ 22-222 Other wholesaler registration and seafood distribution areas. * ::
+
+
+*§ 22-222 Other wholesaler registration and seafood distribution areas.* ::
 
 
 a. It shall be unlawful for any business entity to conduct a wholesale seafood business outside the fulton fish market distribution area without having first registered and obtained a registration number from the commissioner. A registration application shall be upon a form and contain such information as the commissioner shall specify by rule and shall be signed by all the principals of such wholesaler. A registration number shall not be transferable. The market manager shall maintain a list of all wholesalers who are registered pursuant to this section together with the registration numbers of such wholesalers and shall make such list available to suppliers, shippers and truckers and shall, upon request, verify to suppliers, shippers and truckers whether a wholesaler is currently registered with the commissioner.
@@ -1074,7 +1220,9 @@ c. Notwithstanding the provisions of subdivision b of this section, the commissi
 
 
 
-*§ 22-223 Rules. * ::
+
+
+*§ 22-223 Rules.* ::
 
 
 The commissioner may promulgate such rules as he or she may deem necessary to effectuate the provisions of this chapter.
@@ -1082,7 +1230,9 @@ The commissioner may promulgate such rules as he or she may deem necessary to ef
 
 
 
-*§ 22-224 Investigations by the department of investigation. * ::
+
+
+*§ 22-224 Investigations by the department of investigation.* ::
 
 
 The commissioner of the department of investigation may conduct a study or investigation of any matter arising under the provisions of this chapter, including but not limited to the investigation of the information required to be submitted by applicants for licenses pursuant to subdivision a of section 22-216 of this chapter or when such information is required by the commissioner to be provided pursuant to subdivision b of section 22-209 or subdivision b of section 22-211 of this chapter.
@@ -1090,7 +1240,9 @@ The commissioner of the department of investigation may conduct a study or inves
 
 
 
-*§ 22-225 Meetings. * ::
+
+
+*§ 22-225 Meetings.* ::
 
 
 On a regular basis, but not less often than every three months, and at such other times as may be needed, the market manager shall conduct a meeting which shall be open to all persons licensed, registered or issued photo identification cards pursuant to the provisions of this chapter and their representatives. Such meetings shall be for the purpose of presentations and discussions with respect to activities and operations within the market area and/or other seafood distribution areas. All such meetings shall be held within the market area or other seafood distribution area or at a suitable location proximate to such area and at convenient times upon reasonable advance notice.
@@ -1098,7 +1250,9 @@ On a regular basis, but not less often than every three months, and at such othe
 
 
 
-*§ 22-226 Reporting requirements. * ::
+
+
+*§ 22-226 Reporting requirements.* ::
 
 
 a. No later than one week following the submission of the mayor's management report, the commissioner shall submit to the council a report detailing the department's activities pursuant to this chapter. Except as provided in any paragraph of this section, this report shall provide information for the period covered by the mayor's management report. The report required by this section shall at a minimum include:
@@ -1131,7 +1285,9 @@ b. Unless otherwise provided, all items required to be reported pursuant to para
 Chapter 1-b: Other Public Markets
 --------------------------------------------------
 
-*§ 22-251 Definitions. * ::
+
+
+*§ 22-251 Definitions.* ::
 
 
 For the purposes of this chapter, the following terms shall have the following meanings:
@@ -1161,7 +1317,9 @@ k. "Wholesale trade association" shall mean an entity, the majority of whose mem
 
 
 
-*§ 22-252 Photo identification card required. * ::
+
+
+*§ 22-252 Photo identification card required.* ::
 
 
 a. It shall be unlawful for any person to be an employee or a principal working in a wholesale business or market business in a market unless such person has obtained a photo identification card issued by the commissioner pursuant to the provisions of this chapter or for a person to work on an occasional basis in a market unless such person has obtained a day pass issued by the commissioner. The commissioner shall set forth by rule the number of occasions within a specified time period that shall constitute occasional work to meet unanticipated needs of businesses in the market and shall make reasonable provision to delegate authority for the issuance of day passes on a twenty-four hour basis to persons hired to work by wholesalers and market businesses on an occasional basis. A photo identification card shall be in the possession of an employee or principal at all times when such person is in the market and shall be produced upon demand by an authorized employee or agent of the department, the department of investigation or the police department. The commissioner shall make provision for temporary photo identification cards to be issued pending the processing of applications for permanent photo identification cards and for the expedited issuance of photo identification cards to family members of principals of a wholesaler or market business and others who work on a seasonal basis. A temporary identification card shall cease to be valid, and shall be returned to the department, upon the refusal to issue a photo identification card pursuant to subdivision d of this section or denial of registration to the business in which the person applying for such identification card is a principal or is employed.
@@ -1177,7 +1335,9 @@ e. If at any time subsequent to the issuance of a photo identification card, the
 
 
 
-*§ 22-253 Registration required for wholesalers and market businesses. * ::
+
+
+*§ 22-253 Registration required for wholesalers and market businesses.* ::
 
 
 a. No person shall conduct a wholesale business or a market business in a public wholesale market unless such person has registered such business with the commissioner and has obtained a registration number for such business from the commissioner. Application for such registration shall be made upon a form prescribed by the commissioner containing such information as the commissioner shall determine appropriately identifies and demonstrates the fitness of the wholesale business or market business. A registration number shall not be transferable. A person conducting a wholesale business or a market business shall not sublease or assign to another person any portion of any premises in the market occupied or utilized by such business unless such proposed sublessee or assignee has registered with and obtained a registration number from the commissioner. The commissioner shall establish by rule a procedure for the preliminary review of registration applications for businesses not previously operating in a market that are considering the purchase of a wholesale business or a market business, and for the expedited completion of registration review upon entry into a purchase and sale agreement. A business required to register pursuant to this section shall inform the commissioner of any change in the ownership composition of the business, the arrest or criminal conviction of any principal of the business, or any other material change in the information submitted on the application for registration within thirty calendar days thereof.
@@ -1195,7 +1355,9 @@ c. The department shall maintain and publish a list of all wholesalers and marke
 
 
 
-*§ 22-254 Conduct of wholesale businesses and market businesses. * ::
+
+
+*§ 22-254 Conduct of wholesale businesses and market businesses.* ::
 
 
 The commissioner shall establish by rule measures governing the conduct of wholesale businesses and market businesses in the public wholesale markets, including but not limited to:
@@ -1213,7 +1375,9 @@ The commissioner shall establish by rule measures governing the conduct of whole
 
 
 
-*§ 22-255 Visitor pass. * ::
+
+
+*§ 22-255 Visitor pass.* ::
 
 
 The department or a designee of the department shall be authorized to issue a visitor pass as a requirement for any person to enter a public wholesale market including but not limited to: retailers who enter the market to purchase products and their employees and temporary employees; and, subject to the provisions of section 22-264 of this chapter, officers and business agents of labor unions or organizations covered by such section and officers and business agents of the affiliates thereof, including international unions, pension and welfare funds and others. Such pass shall be in a form prescribed by the commissioner, may contain a photograph of such person and shall indicate the reason the person is visiting the market, whether such person visits the market on a regular basis or, in the event that such person does not regularly visit the market, the date for which such pass shall be valid. The commissioner may provide for the issuance of permanent visitor passes to those persons who regularly visit a market, and shall provide for the expeditious issuance of passes at the market entrance to persons wishing to enter the market on a single or occasional basis. A pass shall be in the possession of such person at all times when such person is in the market and shall be worn and visible in compliance with rules promulgated by the commissioner pursuant to section 22-266 of this chapter. The department or, at the direction of the department, a designee of the department, shall be authorized to deny a visitor pass and entry into a market to any person whose presence may constitute a threat to the orderly operation of a market or who has failed to provide the identifying information required by the commissioner or the designee of the commissioner. The provisions of this section shall not apply to any public wholesale market to which access by the public has routinely been permitted without control, restriction or other regulation for no less than a year directly preceding the effective date of this provision; provided, however, that the commissioner may apply such provisions upon a determination that an emergency exists that necessitates the temporary restriction of access to such a market. For the purposes of this section, a "designee of the department" shall mean an agency of the city or, in the discretion of the commissioner, a wholesaler cooperative or similar organization. Nothing in this section shall be construed to permit the denial of a visitor pass to a representative of a labor union or labor organization solely because such person seeks to engage in the lawful exercise within a public wholesale market of an activity protected under the provisions of the National Labor Relations Act, 29 U.S.C. § 141, et seq., including, but not limited to, the lawful picketing of a place of business of a wholesale business or market business in connection with a legitimate labor dispute, except as may otherwise be prohibited by law. However, such person shall not impede any reasonable measure undertaken by a police officer or authorized employee of the department intended to control vehicle and pedestrian traffic within such public wholesale market or upon any street, avenue, parkway, plaza, square or other public place designated as a public market. The commissioner shall consult with the commissioner of labor relations prior to reaching any determination that an activity be a representative of a labor union or organization is not lawful under the National Labor Relations Act.
@@ -1221,7 +1385,9 @@ The department or a designee of the department shall be authorized to issue a vi
 
 
 
-*§ 22-256 Fees. * ::
+
+
+*§ 22-256 Fees.* ::
 
 
 The commissioner shall by rule establish fees for photo identification cards, for registration and the renewal of registration, and for visitor passes issued pursuant to this chapter in amounts sufficient to compensate the city for the administrative expense of issuance of such photo identification cards, of registration and the inspections and other activities related thereto, and of issuance of visitor passes. Such rule may provide that a designee of the department perform administrative functions related to the issuance of photo identification cards or the issuance of visitor passes and that such designee may, with the approval of the commissioner, impose a fee for the performance of such functions. For the purposes of this section "designee of the department" shall mean an agency of the city or, in the discretion of the commissioner, a wholesaler cooperative or similar organization. Registration pursuant to this chapter shall be valid for three years. A wholesale business or a market business shall be responsible for the payment of any fee imposed by this section with respect to an employee of such business or any person seeking to become an employee of such business.
@@ -1229,7 +1395,9 @@ The commissioner shall by rule establish fees for photo identification cards, fo
 
 
 
-*§ 22-257 Liability for violations. * ::
+
+
+*§ 22-257 Liability for violations.* ::
 
 
 a. A wholesale business or market business required by this chapter to be registered with the commissioner shall be liable for a violation committed by any of its officers, employees and/or agents acting within the scope of their employment of any of the provisions of this chapter or any rules promulgated pursuant thereto.
@@ -1239,7 +1407,9 @@ b. In any civil action or administrative proceeding against an employee of a who
 
 
 
-*§ 22-258 Penalties. * ::
+
+
+*§ 22-258 Penalties.* ::
 
 
 a. Except as otherwise provided in subdivision b of this section, any person who violates any provision of this chapter or any of the rules promulgated hereto shall be liable for a civil penalty which shall not exceed ten thousand dollars for each such violation. Such civil penalty may be recovered in a civil action or in a proceeding before the environmental control board or other administrative tribunal of competent jurisdiction.
@@ -1251,7 +1421,9 @@ b. (i) Any person who violates the requirement to obtain a photo identification 
 
 
 
-*§ 22-259 Issuance and refusal to issue registrations and photo identification cards. * ::
+
+
+*§ 22-259 Issuance and refusal to issue registrations and photo identification cards.* ::
 
 
 a. Where the commissioner has reasonable cause to believe that an applicant for registration pursuant to section 22-253 of this chapter or an applicant for a photo identification card lacks good character, honesty and integrity, the commissioner may require that such applicant shall:
@@ -1327,7 +1499,9 @@ f. For the purposes of this section: "predecessor wholesale business or market b
 
 
 
-*§ 22-260 Revocation or suspension of registration or photo identification card. * ::
+
+
+*§ 22-260 Revocation or suspension of registration or photo identification card.* ::
 
 
 In addition to the penalties provided in section 22-258 of this code, the commissioner may revoke a temporary photo identification card, and after notice and hearing revoke or suspend a registration issued pursuant to section 22-253 of this chapter or a photo identification card when the registrant or its officers, employees or agents or a person to whom such photo identification card has been issued:
@@ -1353,7 +1527,9 @@ In addition to the penalties provided in section 22-258 of this code, the commis
 
 
 
-*§ 22-261 Emergency suspension of registration and photo identification card. * ::
+
+
+*§ 22-261 Emergency suspension of registration and photo identification card.* ::
 
 
 Notwithstanding any other provision of this chapter or rules promulgated thereto, the commissioner may, if he or she has reasonable cause to believe that the operation of any business or the presence of any person in a public wholesale market creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted in an application made pursuant to this chapter, immediately suspend a registration or a permanent photo identification card without a prior hearing, provided that provision shall be made for an immediate appeal of such suspension to a deputy commissioner of the department who shall determine such appeal forthwith. In the event that the deputy commissioner upholds the suspension, an opportunity for a hearing shall be provided on an expedited basis, within a period not to exceed four business days and the commissioner shall issue a final determination no later than four business days following the conclusion of such hearing; and provided further that the commissioner may, upon application by a business whose registration has been suspended, permit such business to remain in the market for such time as is necessary to allow for the expeditious sale, consignment or removal of a perishable product if, in the commissioner's best judgment, such permission is consistent with the orderly operation and safety of the market. Nothing in this section shall be construed to permit the emergency suspension of a photo identification card of an employee who is a member of a labor union or labor organization solely for the reason that such person is seeking or has sought to engage in the lawful exercise within a public wholesale market of an activity protected by the provisions of the National Labor Relations Act, 29 U.S.C. § 141, et seq. The commissioner shall consult with the commissioner of labor relations prior to reaching any determination that an activity by a representative of a labor union or labor organization is not lawful under the National Labor Relations Act.
@@ -1361,7 +1537,9 @@ Notwithstanding any other provision of this chapter or rules promulgated thereto
 
 
 
-*§ 22-262 Surrender of registration certificate and photo identification card and cessation of use of registration number. * ::
+
+
+*§ 22-262 Surrender of registration certificate and photo identification card and cessation of use of registration number.* ::
 
 
 Suspension or revocation of a registration shall require the immediate surrender to the commissioner of the registration certificate and all photo identification cards issued for employees of the registrant. Suspension or revocation of a registration shall also require the immediate cessation of use of a registration number. Suspension or revocation of a photo identification card or discontinuance of employment in the market shall require the immediate surrender of such identification card. Violation of the provisions of this section may result in revocation of the registration or photo identification card where such registration or identification card is under suspension or in criminal or civil penalties as provided in subdivision b of section 22-258 of this chapter.
@@ -1369,7 +1547,9 @@ Suspension or revocation of a registration shall require the immediate surrender
 
 
 
-*§ 22-262.1 Seizure; forfeiture. * ::
+
+
+*§ 22-262.1 Seizure; forfeiture.* ::
 
 
 a. Any police officer or authorized officer or employee of the department may, upon service of a notice of violation or criminal summons upon the owner or operator of a vehicle or other property or equipment, seize such vehicle or such other property or equipment which such police officer or authorized officer or employee has reasonable cause to believe is being used in connection with an act constituting a violation of subdivision a of section 22-253 of this chapter where such vehicle or other property or equipment is owned, leased or rented by a person subject to the provisions of such subdivision or such vehicle or other property or equipment is owned by a person other than an employee and is used directly by a person subject to the provisions of such subdivision. Any vehicle, property or equipment seized pursuant to this subdivision shall be delivered into the custody of the department or other appropriate agency. Where a notice of violation has been served, a hearing to adjudicate the violation underlying the seizure shall be held before the environmental control board within five business days after the seizure and such board shall render a decision within five businesss days after the conclusion of the hearing. Where a criminal summons has been served, a hearing to adjudicate the violation underlying the seizure shall be held before a court of competent jurisdiction. In the event that such court or the environmental control board determines that there has been no violation, the vehicle, property or equipment that was seized shall be released forthwith to the owner or any person authorized by the owner to take possession of such vehicle, property or equipment.
@@ -1401,7 +1581,9 @@ e. (i) in addition to any other fines, penalties, sanctions or remedies provided
 
 
 
-*§ 22-263 Business address. * ::
+
+
+*§ 22-263 Business address.* ::
 
 
 Each applicant for registration pursuant to this chapter shall provide the commissioner with a business address in New York city where notices may be delivered and legal process served.
@@ -1409,7 +1591,9 @@ Each applicant for registration pursuant to this chapter shall provide the commi
 
 
 
-*§ 22-264 Registration of labor union and labor organization; disqualification from office-holding. * ::
+
+
+*§ 22-264 Registration of labor union and labor organization; disqualification from office-holding.* ::
 
 
 a. A labor union or labor organization representing or seeking to represent employees directly involved in the movement, handling or sale of goods sold in any public wholesale market in the city of New York shall, within the time period prescribed by the commissioner, register with the commissioner and shall disclose such information to the commissioner as the commissioner may by rule require, including but not limited to the names of all officers and agents of such union or organization; provided, however, that this section shall not apply:
@@ -1437,7 +1621,9 @@ e. Notwithstanding any other provision of this chapter to the contrary, the prov
 
 
 
-*§ 22-265 Registration of wholesale trade association; disqualification from office-holding. * ::
+
+
+*§ 22-265 Registration of wholesale trade association; disqualification from office-holding.* ::
 
 
 a. A wholesaler trade association shall, within the time period prescribed by the commissioner, register with the commissioner and shall disclose such information to the commissioner as the commissioner may by rule require, including but not limited to the names of all members of such association and of all persons holding office in such association. The commissioner may promulgate rules requiring that an association required to register pursuant to this section maintain financial statements, records, ledgers, receipts, bills and such other written records as the commissioner determines are necessary or useful for carrying out the purposes of this chapter. Such records shall be maintained for a period of time not to exceed five years to be determined by rule by the commissioner; provided, however, that such rule may provide that the commissioner may, in specific instances at his or her discretion, require that records be maintained for a period of time exceeding five years. Such records shall be made available for inspection and audit at the request of the commissioner at either the offices of the association or the offices of the department.
@@ -1449,7 +1635,9 @@ c. The commissioner may, after notice and opportunity to be heard, disqualify a 
 
 
 
-*§ 22-266 Rules. * ::
+
+
+*§ 22-266 Rules.* ::
 
 
 The commissioner may promulgate such rules as he or she may deem necessary to effectuate the provisions of this chapter.
@@ -1457,7 +1645,9 @@ The commissioner may promulgate such rules as he or she may deem necessary to ef
 
 
 
-*§ 22-267 Investigations by the department of investigation. * ::
+
+
+*§ 22-267 Investigations by the department of investigation.* ::
 
 
 The commissioner of the department of investigation may conduct a study or investigation of any matter arising under the provisions of this chapter, including, but not limited to, investigation of the information required to be submitted by applicants for registration or photo identification cards.
@@ -1465,7 +1655,9 @@ The commissioner of the department of investigation may conduct a study or inves
 
 
 
-*§ 22-268 Timetable for implementation. * ::
+
+
+*§ 22-268 Timetable for implementation.* ::
 
 
 a. The commissioner shall be authorized to develop by rule a timetable for the sequenced implementation of provisions of this chapter and any rules promulgated thereunder to public wholesale markets.
@@ -1475,7 +1667,9 @@ b. Enforcement of the registration requirements or the requirements for photo id
 
 
 
-*§ 22-269 Reporting Requirements. * ::
+
+
+*§ 22-269 Reporting Requirements.* ::
 
 
 a. No later than one week following the submission of the mayor's management report, the commissioner shall submit to the council a report detailing the department's activities pursuant to this chapter. Such report shall be submitted within one week after issuance by the mayor of the management report for the city. Except as provided in any provision of this section, this report shall provide information for the period covered by the mayor's management report. The report required by this section shall at a minimum include:
@@ -1504,7 +1698,9 @@ b. Unless otherwise provided, all items required to be reported pursuant to para
 Chapter 2: Business Activities In Public Places
 --------------------------------------------------
 
-*§ 22-205 Permits for movie-making, telecasting and photography in public places; violations; penalties. * ::
+
+
+*§ 22-205 Permits for movie-making, telecasting and photography in public places; violations; penalties.* ::
 
 
 a. The executive director of the office for economic development* shall not issue to any applicant any permit for any activity subject to the provisions of subdivision thirteen of section thirteen hundred** of the charter, unless and until (1) all other permits, approvals and sanctions required by any other provision of law for the conduct of such activities by the applicant have been obtained by the executive director, in the name and in behalf of the applicant, from the agency or agencies having jurisdiction and (2) all fees required to be paid by, or imposed pursuant to, any provision of law for the issuance of such other permits, approvals and sanctions have been paid by the applicant.
@@ -1517,7 +1713,9 @@ b. It shall be unlawful for any person to conduct, without a permit from such ex
 Chapter 3: Public Utility Service
 --------------------------------------------------
 
-*§ 22-301 Authorization for public utility service. * ::
+
+
+*§ 22-301 Authorization for public utility service.* ::
 
 
 Pursuant to article fourteen-A of the general municipal law, the city hereby establishes a public utility service, as such term is defined in section three hundred sixty of such article, which is authorized to establish, construct, lease, purchase, own, acquire, use and/or operate facilities within or without the territorial limits of the city, for the purpose of furnishing to itself or for compensation to its inhabitants any service similar to that furnished by any public utility company specified in article four of the public service law. For such purpose the city may purchase electrical and other forms of energy from the state, or from any state agency, or other municipal corporation, or from any private or public corporation, and may sell or distribute such power to itself and to residential, commercial, industrial and other customers. The city shall possess any and all powers granted to a public utility service pursuant to article fourteen-A of the general municipal law and any other applicable provision of law.
@@ -1525,7 +1723,9 @@ Pursuant to article fourteen-A of the general municipal law, the city hereby est
 
 
 
-*§ 22-302 Acquisition of energy and facilities. * ::
+
+
+*§ 22-302 Acquisition of energy and facilities.* ::
 
 
 The city shall contract for or otherwise purchase or acquire hydroelectric or other forms of energy as shall be available from the power authority of the state of New York, the state, any state agency, any other municipal corporation, or any private or public corporation, and shall arrange to use, lease or acquire the transmission, substation and distribution facilities necessary to furnish such power to the city and, for compensation, to residential, commercial, industrial and other customers; provided, however, that the city will not acquire or build any electric or gas transmission or distribution facilities which are parallel to, or duplicative of electric or gas transmission or distribution facilities of any utility companies within the city, nor take any action to impair any agreements, franchises, rights or obligations of any utility company within the city including, to provide safe, adequate and efficient service to conduct its business in the city and to protect its assets unless so authorized by further local law and public referendum.
@@ -1533,7 +1733,9 @@ The city shall contract for or otherwise purchase or acquire hydroelectric or ot
 
 
 
-*§ 22-303 Distribution and sale of energy. * ::
+
+
+*§ 22-303 Distribution and sale of energy.* ::
 
 
 The city shall arrange with any utility companies for the distribution of energy through the use, lease, or acquisition of transmission, substation and distribution facilities within the service areas of such companies and for such companies to act on behalf of the city for collection of charges for such energy within such service areas, or for the sale of energy to such companies for resale to customers within the service areas of such companies.
@@ -1541,7 +1743,9 @@ The city shall arrange with any utility companies for the distribution of energy
 
 
 
-*§ 22-304 Rates. * ::
+
+
+*§ 22-304 Rates.* ::
 
 
 The fixing of rates for furnishing hydroelectric and other forms of energy to residential, commercial, industrial and other customers shall include consideration of (1) the actual cost to the city for the purchase, distribution and delivery of such energy to such customers, (2) the actual expenses necessary for administration of the public utility service, including expenses for research and development, and (3) any other costs or charges allowed under law, including but not limited to, losses of tax revenues resulting from the operation of the public utility service. Such rates shall be computed to provide revenue in an amount not less than that necessary to recover fully such costs and expenses. Such rates shall be subject to approval of the city council.
@@ -1549,7 +1753,9 @@ The fixing of rates for furnishing hydroelectric and other forms of energy to re
 
 
 
-*§ 22-305 Municipal energy fund. * ::
+
+
+*§ 22-305 Municipal energy fund.* ::
 
 
 Revenues received from the operation of the public utility service shall be paid into a fund to be known as the municipal energy fund. The revenues paid into such fund shall not be revenues of the city, and payments from such fund shall be made without appropriation and shall not be included in the expense budget of the city. Nothing herein shall prohibit the city from appropriating expense or capital funds in connection with the public utility service, nor shall payments from the municipal energy fund to the general fund be prohibited.
@@ -1560,7 +1766,9 @@ Revenues received from the operation of the public utility service shall be paid
 Chapter 4: Foreign Trade Zones
 --------------------------------------------------
 
-*§ 22-401 Foreign-trade zones. * ::
+
+
+*§ 22-401 Foreign-trade zones.* ::
 
 
 The city is hereby authorized from time to time to make application to the board established by the act of congress, approved June eighteenth, nineteen hundred thirty-four, entitled "An act to provide for the establishment, operation and maintenance of foreign-trade zones in ports of entry of the United States, to expedite and encourage foreign commerce, and for other purposes," for a grant or grants or any extensions thereof to such city of the privilege of establishing, operating and maintaining a foreign-trade zone or zones or any extensions thereof in such city, pursuant to the provisions of such act, and if any such application be granted, to accept such grant or grants or any extensions thereof and to establish, operate and maintain any such zone or extension thereof in accordance with law. The authorization hereby granted shall extend to and cover any application heretofore made for any such purpose by the city pursuant to the act of congress hereinbefore described, and to any amendment of such an application.
@@ -1571,7 +1779,9 @@ The city is hereby authorized from time to time to make application to the board
 Chapter 5: Private Employment
 --------------------------------------------------
 
-*§ 22-501 Definitions. * ::
+
+
+*§ 22-501 Definitions.* ::
 
 
 a. As used in section 22-502, the following words and phrases shall mean and include:
@@ -1591,7 +1801,9 @@ a. As used in section 22-502, the following words and phrases shall mean and inc
 
 
 
-*§ 22-502 Unlawful conduct. * ::
+
+
+*§ 22-502 Unlawful conduct.* ::
 
 
 a. It shall be unlawful in the city of New York for any employer wilfully and knowingly to employ any strikebreaker to replace employees who are either on strike against or locked out by such employer.
@@ -1605,7 +1817,9 @@ d. Any person violating the provisions of this section shall be guilty of a misd
 
 
 
-*§ 22-503 Extension or renewal of licenses and permits issued to persons performing active duty in the army, navy or marine corps. * ::
+
+
+*§ 22-503 Extension or renewal of licenses and permits issued to persons performing active duty in the army, navy or marine corps.* ::
 
 
 a. Notwithstanding the provisions of any law, rule or regulation or the terms or conditions of any license relating to the examination of applicants for such licenses or the payment of fees therefor, the head of each agency of the city authorized to issue licenses or permits shall extend or renew any license issued by such agency to any person who shall:
@@ -1637,7 +1851,9 @@ f. Notwithstanding the provisions of this section and section 19-505 of the code
 
 
 
-*§ 22-504 Experience; honorably discharged members of the armed forces of the United States. * ::
+
+
+*§ 22-504 Experience; honorably discharged members of the armed forces of the United States.* ::
 
 
 Whenever, by the provisions of the code, experience in a particular trade is a prerequisite for obtaining any license, certificate or permit issued thereunder, the period of service in the armed forces of the United States in an area designated by the president of the United States by executive order as a "combat zone" at any time during the period designated by the president as the period of combatant activities in such zone, by an honorably discharged member thereof who shall apply for such license, certificate or permit, shall be deemed the equivalent of such experience on a year for year basis and shall be accepted accordingly, provided, however, that such applicant prior to his or her entry into the said armed forces possessed not less than one year of the experience required under the code, and further provided that such experience was interrupted by such entry into the said armed forces. An applicant may apply the provisions of this section and section 22-504.1 of this chapter to satisfy the experience prerequisite in a particular trade for the applicable license, certificate or permit. The provisions of this section shall not apply to license of hoist machine operator, master rigger, master plumber, site safety coordinator, site safety manager and license of high-pressure boiler operating engineer, except that of an applicant for a license of high-pressure boiler operating engineer, who has had, during the ten years immediately preceding the filing of this application, at least five years' experience required under the code, or at least one year's experience prior to his or her entry into the said armed forces, and while in the said armed forces served as a firefighter, oiler, boilermaker, machinist, water tender or engineer, or while in the said armed forces performed duties equivalent to the duties performed by firefighter, oiler, boilermaker, machinist, water tender or engineer for an additional period of time, to make a total of five years' experience, shall be deemed to possess the required experience as applicant for a license of high-pressure boiler operating engineer. Notwithstanding any other provision of this section, the head of each city agency issuing any license, certificate or permit for which experience in a particular trade is a prerequisite shall have the authority to determine whether additional experience is necessary before issuing any such license, certificate or permit. The provisions of this section shall apply only to applicants who are at least eighteen years of age; and are able to read and write the English language.
@@ -1645,7 +1861,9 @@ Whenever, by the provisions of the code, experience in a particular trade is a p
 
 
 
-*§ 22-504.1 Equivalent experience; honorably discharged members of the armed forces of the United States. * ::
+
+
+*§ 22-504.1 Equivalent experience; honorably discharged members of the armed forces of the United States.* ::
 
 
 Whenever, by the provisions of the code, experience in a particular trade is a prerequisite for obtaining any license, certificate or permit issued thereunder, the period of service in the armed forces of the United States by an honorably discharged member thereof who shall apply for such license, certificate or permit, shall be deemed the equivalent of such experience on a year for year basis and shall be accepted accordingly, provided, however, that such applicant while in said armed forces performed duties equivalent to experience required for any such license, certificate or permit, and provided further that only the period of service during which such equivalent duties were performed shall be deemed equivalent experience. An applicant may apply the provisions of this section and section 22-504 of this chapter to satisfy the experience prerequisite in a particular trade for the applicable license, certificate or permit. Notwithstanding any other provision of this section, the head of each city agency issuing any license, certificate or permit for which experience in a particular trade is a prerequisite shall have the authority to determine whether additional experience is necessary before issuing any such license, certificate or permit. The provisions of this section shall apply only to applicants who are at least eighteen years of age; and are able to read and write the English language.
@@ -1653,7 +1871,9 @@ Whenever, by the provisions of the code, experience in a particular trade is a p
 
 
 
-*§ 22-505 Displaced building service workers. * ::
+
+
+*§ 22-505 Displaced building service workers.* ::
 
 
 a. For purposes of this section, the following terms have the following meanings:
@@ -1749,6 +1969,8 @@ Editor's note: this § 22-505 was repealed and re-enacted by L.L. 2016/058, 5/10
 
 
 
+
+
 *§ 22-506 [Grocery industry, employer-paid healthcare.]* ::
 
 
@@ -1831,6 +2053,8 @@ f. Enforcement.
 g. Exemption. A covered employer that is a signatory to one or more collective bargaining agreements that cover at least seventy-five percent of its employees may fully comply with the requirements of this section by filing annually with the administering agency proof of such collective bargaining agreements and their terms, in such form and manner as specified by the administering agency, and shall otherwise be exempt from all other provisions of this section.
 
 h. Rules. The administering agency shall promulgate rules in accordance with this section and such other rules as may be necessary for the purpose of implementing, construing and carrying out the provisions of this section.
+
+
 
 
 
@@ -1937,6 +2161,8 @@ e. The provisions of this section shall not apply to any successor grocery emplo
 
 
 
+
+
 *§ 22-508 Food service workers.* ::
 
 
@@ -1999,6 +2225,8 @@ d. The provisions of this section do not apply to a successor food service contr
 
 
 
+
+
 *§ 22-509 Construction site safety training courses.* ::
 
 
@@ -2012,7 +2240,9 @@ The department, or an agency or office designated by the mayor, shall by March 1
 Chapter 6: Rebates of Charges For Energy
 --------------------------------------------------
 
-*§ 22-601 Definitions. * ::
+
+
+*§ 22-601 Definitions.* ::
 
 
 When used in this chapter the following terms shall have the following meanings:
@@ -2112,7 +2342,9 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 
-*§ 22-602 Requirement of special rebates and discounts. * ::
+
+
+*§ 22-602 Requirement of special rebates and discounts.* ::
 
 
 (a) (1) Utilities that provide energy services within the city of New York shall be required to make special rebates to eligible energy users and on-site cogenerators certified after June thirtieth, two thousand three, other than clean on-site cogenerators, and to make discounts to vendors of energy services and the New York public utility service as follows:
@@ -2213,7 +2445,9 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 
-*§ 22-603 Construction. * ::
+
+
+*§ 22-603 Construction.* ::
 
 
 Nothing contained in this title shall be construed as reducing the amount of a receipt for sales tax purposes under any of the sales taxes imposed or authorized by article twenty-eight or twenty-nine of the tax law, or as reducing the gross income of the gross operating income subject to tax pursuant to chapter eleven of title eleven of this code. The burden of establishing eligibility to receive the benefits of this chapter shall rest with the party claiming such benefits.
@@ -2224,7 +2458,9 @@ Nothing contained in this title shall be construed as reducing the amount of a r
 Chapter 6-B: Relocation and Employment Assistance Program
 --------------------------------------------------
 
-*§ 22-621 Definitions. * ::
+
+
+*§ 22-621 Definitions.* ::
 
 
 When used in this chapter the following terms shall have the following meanings:
@@ -2300,7 +2536,9 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 
-*§ 22-622 Authorization to provide relocation and employment assistance credits. * ::
+
+
+*§ 22-622 Authorization to provide relocation and employment assistance credits.* ::
 
 
 (a) An eligible business that relocates as defined in subdivision (j) of section 22-621 of the code shall be allowed to receive a credit against a tax imposed by chapter five, or subchapter two, three or three-A of chapter six, or chapter eleven, of title eleven of the code, as described in subdivision (i) of section 11-503, subdivision seventeen of section 11-604, subdivision seventeen of section 11-654, section 11-643.7 and section 11-1105.2 of the code, and a reduction in base rent subject to tax as described in subdivision f of section 11-704 of the code, provided, however, notwithstanding any other provision of law to the contrary, no such credit shall be allowed against the tax imposed under such chapter eleven for a relocation taking place prior to January first, nineteen hundred ninety-nine.
@@ -2343,7 +2581,9 @@ When used in this chapter the following terms shall have the following meanings:
 Chapter 6-c: Lower Manhattan Relocation and Employment Assistance Program
 --------------------------------------------------
 
-*§ 22-623 Definitions. * ::
+
+
+*§ 22-623 Definitions.* ::
 
 
 When used in this chapter the following terms shall have the following meanings:
@@ -2417,7 +2657,9 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 
-*§ 22-624 Authorization to provide relocation and employment assistance credits in Lower Manhattan. * ::
+
+
+*§ 22-624 Authorization to provide relocation and employment assistance credits in Lower Manhattan.* ::
 
 
 (a) An eligible business that relocates as defined in subdivision (j) of section 22-623 of this chapter or a special eligible business that relocates as defined in subdivision (m) of section 22-623 of this chapter shall be allowed to receive a credit against a tax imposed by chapter five, or subchapter two, three or three-A of chapter six, or chapter eleven, of title eleven of the code, as described in subdivision (l) of section 11-503, subdivision nineteen of section 11-604, subdivision nineteen of section 11-654, section 11-643.9 or section 11-1105.3 of the code.
@@ -2444,7 +2686,9 @@ When used in this chapter the following terms shall have the following meanings:
 Chapter 6-d: Industrial Business Zones
 --------------------------------------------------
 
-*§ 22-625 Industrial business zone boundary commission. * ::
+
+
+*§ 22-625 Industrial business zone boundary commission.* ::
 
 
 (a) The industrial business zone boundary commission shall consist of the commissioner of small business services, the director of city planning, the commissioner of buildings, the commissioner of finance, the commissioner of housing preservation and development, the commissioner of citywide administrative services, the president of the economic development corporation, a member of the community associated with industrial and manufacturing activities who shall be appointed by the mayor and serve at the mayor's pleasure, and the five borough presidents. The commissioner of small business services shall serve as chairperson of the commission. Each member of the commission, except the member of the community associated with industrial and manufacturing activities, shall have the power to designate an alternate to represent him or her at commission meetings and exercise all the rights and powers of such member, including the right to vote, provided that such designation is made in writing to the chairperson of the commission. A borough president shall be entitled to vote only on the designation of an industrial boundary zone, an amendment to the boundaries of such a zone, or the repeal of such a zone where all or part of the proposed zone or existing zone is within his or her borough. Commission members shall serve without compensation. A majority of members of such commission entitled to vote on a matter shall constitute a quorum for such issue. Decisions shall be made by majority vote of those present and entitled to vote on a matter.
@@ -2454,7 +2698,9 @@ Chapter 6-d: Industrial Business Zones
 
 
 
-*§ 22-626 Industrial business zones. * ::
+
+
+*§ 22-626 Industrial business zones.* ::
 
 
 (a) The industrial business zone boundary commission shall publish notice at least once in the City Record or a newspaper of general circulation in the city setting forth:
@@ -2485,7 +2731,9 @@ Chapter 6-d: Industrial Business Zones
 Chapter 7: Empire Zones
 --------------------------------------------------
 
-*§ 22-701 Authorization for the establishment of empire zones. * ::
+
+
+*§ 22-701 Authorization for the establishment of empire zones.* ::
 
 
 Pursuant to the provisions of article 18-B of the general municipal law, empire zones shall be established as hereinafter provided.
@@ -2493,7 +2741,9 @@ Pursuant to the provisions of article 18-B of the general municipal law, empire 
 
 
 
-*§ 22-702 Port Morris zone. * ::
+
+
+*§ 22-702 Port Morris zone.* ::
 
 
 a. There is hereby established in the borough of the Bronx an empire zone as follows: BEGINNING at the point where the center line of the prolongation of East 157th Street meets the U.S. pierhead and bulkhead line located on the Bronx County side of the Harlem River; thence southerly and easterly along the said U.S. pierhead and bulkhead line to a point where said pierhead and bulkhead lines divide; thence northerly along the U.S. pierhead line of the East River to the point where it meets the easterly terminus of East 149th Street; thence northwesterly along the center line of East 149th Street to the point where it meets the center line of Southern Boulevard; thence southerly along the center line of Southern Boulevard to the point where it meets the center line of East 145th Street; thence westerly along the center line of East 145th Street to the point where it meets the center line of the block bounded on the west by Jackson Avenue and on the east by Concord Street; thence southerly along the center line of such block to the point where it meets the center line of East 144th Street, said line being the district boundary line between the R7-1 and M1-2 zoning districts as it appears on Sheet 6c of the Zoning Map of the New York City Planning Commission as amended effective February eighth, nineteen hundred ninety , as contained in the Zoning Resolution of the City of New York; thence westerly along the center line of East 144th Street to the point where it meets the center line of Jackson Avenue, said line being the district boundary line between the R7-1 and M1-2 zoning districts as it appears on Sheet 6c as described aforesaid; thence southerly along the center line of Jackson Avenue to the point where it meets the center line of St. Mary's Street; thence westerly along the center line of St. Mary's Street to the point where it meets the center line of Cypress Avenue, said line being the district boundary lines between the M1-2 and R7-1 zoning districts and the R6 and R7-1 zoning districts as they appear on Sheet 6c as described aforesaid; thence southerly along the center line of Cypress Avenue to the point where it meets the center line of East 139th Street; thence westerly along the center line of East 139th Street to the point where it meets the center line of Morris Avenue; thence northerly along the center line of Morris Avenue to the point where it meets the southerly street line of East 148th Street; thence easterly along the southerly street line of East 148th Street to the point where it meets the westerly street line of Brook Avenue; thence northerly along the westerly street line of Brook Avenue to the point where it meets the center line of East 159th Street; thence easterly along the center line of East 159th Street to the point where it meets the center line of St. Ann's Avenue/Third Avenue, said line being the district boundary line between the R7-2 and R6 zoning districts as it appears on Sheet 6c as described aforesaid; thence northerly along the center line of St. Ann's Avenue/Third Avenue to the point where it meets the westerly street line of Boston Road; thence northeasterly along the westerly street line of Boston Road to the point where it meets the northerly street line of East 166th Street; thence northwesterly and then westerly along the northerly street line of East 166th Street to the point where it meets the easterly street line of Third Avenue; thence northerly along the easterly street line of Third Avenue to the point where it meets the southerly street line of East 168th Street; thence northwesterly along the southerly street line of East 168th Street to the point where it meets the westerly street line of Webster Avenue; thence southerly along the westerly street line of Webster Avenue to the point where it meets the westerly street line of Brook Avenue; thence southeasterly along the westerly street line of Brook Avenue to the point where it meets the northerly street line of East 162nd Street; thence westerly along the northerly street line of East 162nd Street to the point where it meets the westerly street line of Grant Avenue; thence northerly along the westerly street line of Grant Avenue to the point where it meets the southerly street line of East 163rd Street; thence westerly along the southerly street line of East 163rd Street to the point where it meets the center line of Concourse Village West/Sheridan Avenue; thence southerly along the center line of Concourse Village West/Sheridan Avenue to a point 541 feet to the south of the southerly street line of East 161st Street, said line being the district boundary line between the R7-1 and R8 zoning districts, the C4-6 and C8-3 zoning districts and the R8 and C8-3 zoning districts as they appear on Sheet 3b of the Zoning Map of the New York City Planning Commission as amended effective March sixth, nineteen hundred ninety-two  and Sheet 6a of the Zoning Map of the New York City Planning Commission as amended effective January twenty-first, nineteen hundred ninety-three , as contained in the Zoning Resolution of the City of New York; thence easterly along a line 541 feet to the south of East 161st Street and running parallel thereto to the point where it meets the center line of Concourse Village East/Morris Avenue, said line being the district boundary line between the C8-3 and the R8 zoning districts as it appears on Sheet 6a as described aforesaid; thence northerly along the center line of Concourse Village East/Morris Avenue to the point where it meets the center line of East 161st Street, said line being the district boundary line between the C8-3 and R8 zoning districts as it appears on Sheet 6a as described aforesaid; thence easterly along the center line of East 161st Street to the point where it meets the westerly street line of Third Avenue; thence southerly along the westerly street line of Third Avenue to the point where it meets the northerly street line of East 152nd Street; thence westerly along the northerly street line of East 152nd Street to the point where it meets the westerly street line of Melrose Avenue; thence southerly along the westerly street line of Melrose Avenue to the point where it meets the northerly street line of East 149th Street; thence westerly along the northerly street line of East 149th Street to the point where it meets the southeastern prolongation of the northerly street line of East 151st Street; thence northwesterly along the southeastern prolongation of the northerly street line of East 151st Street and the northerly street line of East 151st Street to the point where it meets the easterly street line of Gerard Avenue; thence northerly along the easterly street line of Gerard Avenue to the point where it meets the northerly street line of East 162nd Street; thence northwesterly along the northerly street line of East 162nd Street to the point where it meets the center line of River Avenue; thence southerly along the center line of River Avenue to the point where it meets the center line of East 161st Street, said line being the district boundary line between the R7-1 and R8 zoning districts as it appears on Sheet 3b as described aforesaid; thence westerly along the center line of East 161st Street to the point where it meets the center line of Ruppert Place, said line being the district boundary line between the C8-3 and R7-1 zoning districts as it appears on Sheet 3b as described aforesaid; thence southwesterly along the center line of Ruppert Place to the point where it meets the center line of East 157th Street, said line being the district boundary line between the R7-1 and C8-3 zoning districts as it appears on Sheet 3b and Sheet 6a as described aforesaid; thence westerly along the center line of East 157th Street and its prolongation to the point and place of beginning. There is one subzone: BEGINNING at the point of intersection of the easterly street line of Park Avenue and the southerly street line of East 174th Street; thence southerly along the easterly street line of Park Avenue to the point where it meets the northerly street line of Claremont Parkway; thence easterly along the northerly street line of Claremont Parkway to the point where it meets the westerly street line of Fulton Avenue; thence northerly along the westerly street line of Fulton Avenue to the point where it meets the southerly street line of the Cross Bronx Expressway; thence westerly along the southerly street line of the Cross Bronx Expressway to the point where it meets the easterly street line of Washington Avenue; thence southerly along the easterly street line of Washington Avenue to the point where it meets the southerly street line of East 174th Street; thence westerly along the southerly street line of East 174th Street to the point and place of beginning.
@@ -2815,7 +3065,9 @@ Block: 2930 Lots: 1; 12; 26; 28; 29; 30; 39.
 
 
 
-*§ 22-703 East Harlem zone. * ::
+
+
+*§ 22-703 East Harlem zone.* ::
 
 
 a. There is hereby established in the borough of Manhattan an empire zone as follows: BEGINNING at the point of intersection of the center line of the southbound roadway of Park Avenue and the center line of East 132nd Street; thence westerly along the center line of East 132nd Street to a point 100 feet to the west of the southbound roadway of Park Avenue as measured from its westerly street line; thence southerly along a line 100 feet to the west of the southbound roadway of Park Avenue and running parallel thereto to the point where it meets the center line of East 128th Street, said line being the district boundary line between the C8-3 and R7-2 zoning districts as it appears on Sheet 6a of the Zoning Map of the New York City Planning Commission as amended effective December twentieth, nineteen hundred eighty-four , as contained in the Zoning Resolution of the City of New York; thence easterly along the center line of East 128th Street to the point where it meets the center line of the southbound roadway of Park Avenue; thence southerly along the center line of the southbound roadway of Park Avenue to the point where it meets the center line of East 127th Street; thence westerly along the center line of East 127th Street to a point 100 feet to the west of the southbound roadway of Park Avenue as measured from its westerly street line; thence southerly along a line 100 feet to the west of the southbound roadway of Park Avenue and running parallel thereto to the point where it meets the center line of East 126th Street, said line being the district boundary line between the C8-3 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence westerly along the center line of East 126th Street to the point where it meets the center line of Madison Avenue; thence southerly along the center line of Madison Avenue to the point where it meets the center line of the block bounded on the north by East 125th Street and on the south by East 124th Street; thence easterly along the center line of such block to a point 100 feet to the west of the southbound roadway of Park Avenue as measured from its westerly street line, said line being the district boundary line between the C4-4 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence southerly along a line 100 feet to the west of the southbound roadway of Park Avenue and running parallel thereto to the point where it meets the center line of East 116th Street; thence easterly along the center line of East 116th Street (also designated Luis Munoz Marin Boulevard) to a point 100 feet to the east of the northbound roadway of Park Avenue as measured from its easterly street line; thence northerly along a line 100 feet to the east of the northbound roadway of Park Avenue and running parallel thereto to the point where it meets the center line of East 124th Street; thence easterly along the center line of East 124th Street to a point 100 feet to the west of Third Avenue as measured from its westerly street line; thence southerly along a line 100 feet to the west of Third Avenue and running parallel thereto to the point where it meets the center line of East 123rd Street, said line being the district boundary line between the R7-2 and C4-4 zoning districts as it appears on Sheet 6b of the Zoning Map of the New York City Planning Commission as amended effective September nineteenth, nineteen hundred eighty-five , as clarified by certain numbered dimensions which were added on September twenty-fifth, nineteen hundred eighty-six as contained in the Zoning Resolution of the City of New York; thence easterly along the center line of East 123rd Street to a point 100 feet to the east of Third Avenue as measured from its easterly street line; thence northerly along a line 100 feet to the east of Third Avenue and running parallel thereto to the point where it meets the center line of East 124th Street, said line being the district boundary line between the C4-4 and R7-2 zoning districts as it appears on Sheet 6b as described aforesaid; thence easterly along the center line of East 124th Street to the point where it meets the center line of Second Avenue; thence northerly along the center line of Second Avenue to the point where it meets the center line of East 125th Street; thence easterly along the center line of East 125th Street (also designated Dr. Martin Luther King Jr. Boulevard) to the point where it meets the center line of First Avenue; thence northerly along the center line of First Avenue to the point where it meets the center line of East 127th Street; thence westerly along the center line of East 127th Street to the point where it meets the center line of Second Avenue; thence northerly along the center line of Second Avenue to the point where it meets the center line of East 128th Street; thence westerly along the center line of East 128th Street to a point 105 feet to the east of Third Avenue as measured from its easterly street line; thence southerly along a line 105 feet to the east of Third Avenue and running parallel thereto to the point where it meets the center line of East 127th Street, said line being the district boundary line between the M3-1 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence easterly along the center line of East 127th Street to a point 250 feet to the west of Second Avenue as measured from its westerly street line; thence southerly along a line 250 feet to the west of Second Avenue and running parallel thereto to the point where it meets the center line of the block bounded on the north by East 127th Street and on the south by East 126th Street, said line being the district boundary line between the R7-2 and M1-2 zoning districts as it appears on Sheet 6b as described aforesaid; thence easterly along the center line of such block to the point where it meets the center line of Second Avenue, said line being the district boundary line between the R7-2 and M1-2 zoning districts as it appears on Sheet 6b as described aforesaid; thence southerly along the center line of Second Avenue to the point where it meets the center line of East 126th Street; thence westerly along the center line of East 126th Street to a point 100 feet to the east of the northbound roadway of Park Avenue as measured from its easterly street line; thence northerly along a line 100 feet to the east of the northbound roadway of Park Avenue and running parallel thereto to the point where it meets the center line of the block bounded by East 128th Street to the north and East 127th Street to the south, said line being the district boundary line between the M1-2 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence easterly along the center line of such block to a point 160 feet to the east of the northbound roadway of Park Avenue as measured from its easterly street line, said line being the district boundary line between the M1-2 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence northerly along a line 160 feet to the east of the northbound roadway of Park Avenue and running parallel thereto to the point where it meets the center line of East 128th Street, said line being the district boundary line between the M1-2 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence westerly along the center line of East 128th Street to a point 80 feet to the east of the northbound roadway of Park Avenue as measured from its easterly street line; thence northerly along a line 80 feet to the east of the northbound roadway of Park Avenue and running parallel thereto to the point where it meets the center line of East 129th Street, said line being the district boundary line between the M1-2 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence easterly along the center line of East 129th Street to a point 122 feet to the east of the northbound roadway of Park Avenue as measured from its easterly street line; thence northerly along a line 122 feet to the east of the northbound roadway of Park Avenue and running parallel thereto to the point where it meets the center line of the block bounded by East 131st Street on the north and East 130th Street on the south, said line being the district boundary line between the M1-2 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence easterly along the center line of such block to a point 80 feet to the west of Lexington Avenue as measured from its westerly street line, said line being the district boundary line between the M1-2 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence northerly along a line 80 feet to the west of Lexington Avenue and running parallel thereto to the point where it meets the center line of East 131st Street, said line being the district boundary line between the M1-2 and R7-2 zoning districts as it appears on Sheet 6a as described aforesaid; thence westerly along the center line of East 131st Street to the point where it meets the center line of the southbound roadway of Park Avenue; thence northerly along the center line of the southbound roadway of Park Avenue to the point and place of beginning. There are two subzones:
@@ -3171,7 +3423,9 @@ Block: 1819 Lots: 203.
 
 
 
-*§ 22-704 East Brooklyn zone. * ::
+
+
+*§ 22-704 East Brooklyn zone.* ::
 
 
 a. There is hereby established in the borough of Brooklyn an empire zone as follows: BEGINNING at the point of intersection of the center line of Broadway and the center line of Van Sinderen Avenue; thence southeasterly along the center line of Broadway to the point where it meets the center line of Fulton Street; thence easterly along the center line of Fulton Street to the point where it meets the center line of Sheffield Avenue; thence northerly along the center line of Sheffield Avenue to the point where it meets the center line of Jamaica Avenue; thence northeasterly along the center line of Jamaica Avenue to the point where it meets the center line of Wyona Street; thence southerly along the center line of Wyona Street to a point 100 feet to the south of Fulton Street as measured from its southerly street line; thence westerly along a line 100 feet to the south of Fulton Street and running parallel thereto to the point where it meets the center line of New Jersey Avenue, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c of the Zoning Map of the New York City Planning Commission as amended effective August eleventh, nineteen hundred eighty-eight , as contained in the Zoning Resolution of the City of New York; thence southerly along the center line of New Jersey Avenue to a point 150 feet to the north of Atlantic Avenue as measured from its northerly street line; thence easterly along a line 150 feet to the north of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Vermont Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Vermont Street to a point 100 feet to the north of Atlantic Avenue as measured from its northerly street line; thence easterly along a line 100 feet to the north of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Bradford Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Bradford Street to the point where it meets the center line of Atlantic Avenue; thence easterly along the center line of Atlantic Avenue to the point where it meets the center line of Hendrix Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Hendrix Street to a point 100 feet north of Atlantic Avenue as measured from its northerly street line; thence easterly along a line 100 feet to the north of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Jerome Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Jerome Street to a point 150 feet to the north of Atlantic Avenue as measured from its northerly street line; thence easterly along a line 150 feet to the north of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Elton Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Elton Street to a point 100 feet to the north of Atlantic Avenue as measured from its northerly street line; thence easterly along a line 100 feet to the north of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Essex Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Essex Street to a point 200 feet to the north of Atlantic Avenue as measured from its northerly street line; thence easterly along a line 200 feet to the north of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Sheperd Avenue, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Shepherd Avenue to a point 100 feet to the north of Atlantic Avenue as measured from its northerly street line; thence easterly along a line 100 feet to the north of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Norwood Avenue, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Norwood Avenue to a point 300 feet to the north of Atlantic Avenue as measured from its northerly streetline; thence easterly along a line 300 feet to the north of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Logan Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Logan Street to a point 100 feet to the south of Fulton Street as measured from its southerly street line; thence easterly along a line 100 feet to the south of Fulton Street and running parallel thereto to the point where it meets the center line of Chestnut Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Chestnut Street to the point where it meets the center line of Fulton Street; thence easterly along the center line of Fulton Street to the point where it meets the center line of Euclid Avenue, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Euclid Avenue to the point where it meets the center line of Atlantic Avenue; thence westerly along the center line of Atlantic Avenue to the point where it meets the center line of Fountain Avenue, said line being the district boundary lines between the C8-2 and R5 zoning districts and the M1-1 and R5 zoning districts as they appear on Sheet 17c as described aforesaid; thence southerly along the center line of Fountain Avenue to a point 300 feet to the south of Atlantic Avenue as measured from its southerly street line; thence westerly along a line 300 feet to the south of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Milford Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Milford Street to a point 335 feet to the south of Atlantic Avenue as measured from its southerly street line; thence westerly along a line 335 feet to the south of Atlantic Avenue and running parallel thereto to a point on the center line of the block bounded by Milford Street on the east and Montauk Avenue on the west, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of such block to a point 238 feet to the south of Atlantic Avenue as measured from its southerly street line; thence westerly along a line 238 feet to the south of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Montauk Avenue, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Montauk Avenue to the point where it meets the center line of Atlantic Avenue; thence westerly along the center line of Atlantic Avenue to the point where it meets the center line of Berriman Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Berriman Street to a point 300 feet to the south of Atlantic Avenue as measured from its southerly street line; thence westerly along a line 300 feet to the south of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Essex Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Essex Street to a point 100 feet to the south of Atlantic Avenue as measured from its southerly street line; thence westerly along a line 100 feet to the south of Atlantic Avenue and running parallel thereto to a point where it meets the center line of Linwood Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Linwood Street to the point where it meets the center line of Atlantic Avenue; thence westerly along the center line of Atlantic Avenue to a point which formerly constituted the center line of Elton Street as such street met Atlantic Avenue from the south and now constitutes the center line of the block bounded by Linwood Street on the east and Cleveland Street on the west, said line being the district boundary lines between the C8-2 and R5 zoning districts and the M1-1 and R5 zoning districts as they appear on Sheet 17c as described aforesaid; thence southerly along such center line to a point 100 feet to the south of Atlantic Avenue as measured from its southerly street line; thence westerly along a line 100 feet to the south of Atlantic Avenue and running parallel thereto to a point where it meets the center line of Cleveland Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Cleveland Street to a point 100 feet to the north of Liberty Avenue as measured from its northerly street line; thence westerly along a line 100 feet to the north of Liberty Avenue and running parallel thereto to the point where it meets the center line of Ashford Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Ashford Street to a point 100 feet to the south of Atlantic Avenue as measured from its southerly street line; thence westerly along a line 100 feet to the south of Atlantic Avenue and running parallel thereto to the point where it meets the center line of Barbey Street, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of Barbey Street to a point 100 feet to the south of Liberty Avenue as measured from its southerly street line; thence westerly along a line 100 feet to the south of Liberty Avenue and running parallel thereto to the point where it meets the center line of New Jersey Avenue, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of New Jersey Avenue to the point where it meets the center line of Liberty Avenue; thence westerly along the center line of Liberty Avenue to a point on the center line of the block bounded by Pennsylvania Avenue on the east and Sheffield Avenue on the west, said line being the district boundary line between the C8-2 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence southerly along the center line of such block to the point where it meets the center line of Pitkin Avenue, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17c as described aforesaid; thence westerly along the center line of Pitkin Avenue to the point where it meets the center line of Sheffield Avenue; thence southerly along the center line of Sheffield Avenue to the point where it meets the center line of Dumont Avenue; thence westerly along the center line of Dumont Avenue to the point where it meets the center line of Snediker Avenue; thence southerly along the center line of Snediker Avenue to a point 150 feet to the north of New Lots Avenue as measured from its northerly street line; thence northeasterly along a line 150 feet to the north of New Lots Avenue and running parallel thereto to the point where it meets the center line of Vermont Street; thence northerly along the center line of Vermont Street to the point where it meets the center line of Riverdale Avenue; thence easterly along the center line of Riverdale Avenue to the point where it meets the center line of Miller Avenue; thence northerly along the center line of Miller Avenue to a point 150 feet to the north of Riverdale Avenue as measured from its northerly street line; thence easterly along a line 150 feet to the north of Riverdale Avenue and running parallel thereto to the point where it meets the center line of Van Siclen Avenue; thence northerly along the center line of Van Siclen Avenue to a point 150 feet to the north of New Lots Avenue as measured from its northerly street line; thence northeasterly along a line 150 feet to the north of New Lots Avenue and running parallel thereto to the point where it meets the center line of Barbey Street; thence northerly along the center line of Barbey Street to the point where it meets the center line of Livonia Avenue, said line being the district boundary line between the C8-1 and R5 zoning districts as it appears on Sheet 17d of the Zoning Map of the New York City Planning Commission as amended effective February eleventh, nineteen hundred and eighty-eight , as contained in the Zoning Resolution of the City of New York; thence westerly along the center line of Livonia Avenue to the point where it meets the center line of Schenck Avenue, said line being the district boundary line between the C8-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence northerly along the center line of Schenck Avenue to a point 100 feet to the north of Livonia Avenue as measured from its northerly street line; thence easterly along a line 100 feet to the north of Livonia Avenue and running parallel thereto to the point where it meets the center line of Warwick Street, said line being the district boundary line between the C8-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence northerly along the center line of Warwick Street to a point 150 feet to the north of Livonia Avenue as measured from its northerly street line; thence easterly along a line 150 feet to the north of Livonia Avenue and running parallel thereto to the point where it meets the center line of Cleveland Street; thence northerly along the center line of Cleveland Street to a point 150 feet to the north of New Lots Avenue as measured from is northerly street line; thence northeasterly along a line 150 feet to the north of New Lots Avenue and running parallel thereto to the point where it meets the center line of Elton Street; thence southerly along the center line of Elton Street to the point where it meets the center line of New Lots Avenue; thence northeasterly along the center line of New Lots Avenue to the point where it meets the center line of Dumont Avenue; thence easterly along the center line of Dumont Avenue to the point where it meets the center line of Fountain Avenue; thence southeasterly along the center line of Fountain Avenue to the point where it meets the center line of Linden Boulevard; thence northeasterly along the center line of Linden Boulevard to the point where it meets the center line of Holly Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence southerly along the center line of Holly Street to the point where it meets the center line of Stanley Avenue, said line being the district boundary line between the M1-1 and R4 zoning districts as it appears on Sheet 17d as described aforesaid; thence westerly along the center line of Stanley Avenue to the point where it meets the center line of Fountain Avenue; thence southeasterly along the center line of Fountain Avenue to a point 260 feet to the north of Vandalia Avenue as measured from its northerly street line, said line being the district boundary lines between the M1-1 and R4 zoning districts and the M1-1 and R3-2 zoning districts as they appear on Sheet 17d as described aforesaid and on Sheet 18b of the Zoning Map of the New York City Planning Commission as amended effective October thirteenth, nineteen hundred eighty-eight , as contained in the Zoning Resolution of the City of New York; thence southwesterly along a line 260 feet to the north of Vandalia Avenue and running parallel thereto to a point 980 feet to the west of Fountain Avenue as measured from its westerly street line, said line being the district boundary line between the M1-1 and R3-2 zoning districts as it appears on Sheet 18b as described aforesaid and on Sheet 17d as described aforesaid; thence northwesterly along a line 980 feet to the west of Fountain Avenue and running parallel thereto to the point where it meets the center line of Flatlands Avenue, said line being the district boundary line between the M1-1 and R3-2 zoning districts as it appears on Sheet 17d as described aforesaid; thence southhwesterly along the center line of Flatlands Avenue to the point where it meets the center line of Elton Street, said line being the district boundary line between the M1-1 and R3-2 zoning districts as it appears on Sheet 17d as described aforesaid; thence northwesterly along the center line of Elton Street to the point where it meets the center line of Linden Boulevard, said line being the district boundary lines between the M1-1 and R5 zoning districts and the C8-1 and R5 zoning districts as they appear on Sheet 17d as described aforesaid; thence westerly along the center line of Linden Boulevard to the point where it meets the center line of Warwick Street, said line being the district boundary line between the C4-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence northerly along the center line of Warwick Street to a point 150 feet to the south of New Lots Avenue as measured from its southerly street line; thence southwesterly along a line 150 feet to the south of New Lots Avenue and running parallel thereto to the point where it meets the center line of Snediker Avenue; thence southerly along the center line of Snediker Avenue to the point where it meets the center line of Hegeman Avenue; thence westerly along the center line of Hegeman Avenue to the point where it meets the center line of Mother Gaston Boulevard; thence northerly along the center line of Mother Gaston Boulevard to a point 150 feet to the north of New Lots Avenue as measured from its northerly street line; thence northeasterly along a line 150 feet to the north of New Lots Avenue and running parallel thereto to the point where it meets the center line of Lott Avenue; thence easterly along the center line of Lott Avenue to the point where it meets the center line of Junius Street; thence northerly along the center line of Junius Street to the point where it meets the center line of Newport Street, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17d as described aforesaid; thence westerly along the center line of Newport Street to a point on the center line of the block bounded by Junius Street on the east and Powell Street on the west; thence northerly along the center line of such block to the point where it meets the center line of Riverdale Avenue, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17d as described aforesaid; thence easterly along the center line of Riverdale Avenue to the point where it meets the center line of Junius Street; thence northerly along the center line of Junius Street to the point where it meets the center line of Dumont Avenue, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17d as described aforesaid; thence westerly along the center line of Dumont Avenue to a point on the center line of the block bounded by Junius Street on the east and Powell Street on the west; thence northerly along the center line of such block to a point 100 feet to the south of Blake Avenue as measured from its southerly street line, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17d as described aforesaid; thence easterly along a line 100 feet to the south of Blake Avenue and running parallel thereto to the point where it meets the center line of Junius Street; thence northerly along the center line of Junius Street to the point where it meets the center line of Blake Avenue, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17d as described aforesaid; thence westerly along the center line of Blake Avenue to a point on the center line of the block bounded by Junius Street on the east and Powell Street on the west; thence northerly along the center line of such block to the point where it meets the center line of Sutter Avenue, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17d as described aforesaid; thence westerly along the center line of Sutter Avenue to the point where it meets the center line of Powell Street; thence northerly along the center line of Powell Street to the point where it meets the center line of Liberty Avenue, said line being the district boundary line between the M1-4 and R6 zoning districts as it appears on Sheet 17d as described aforesaid and Sheet 17c as described aforesaid; thence westerly along the center line of Liberty Avenue to the point where it meets the center line of Mother Gaston Boulevard, said line being the district boundary line between the M1-4 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Mother Gaston Boulevard to the point where it meets the center line of East New York Avenue, said line being the district boundary line between the M1-4 and R6 zoning districts as it appears on Sheet 17d as described aforesaid; thence southwesterly along the center line of East New York Avenue to the point where it meets the center line of Saint Marks Avenue, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence westerly along the center line of Saint Marks Avenue to the point where it meets the center line of Eastern Parkway, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence northeasterly along the center line of Eastern Parkway to the point where it meets the center line of Bergen Street, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence easterly along the center line of Bergen Street to the point where it meets the center line of Mother Gaston Boulevard, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the center line of Mother Gaston Boulevard to a point on the center line of the block bounded by Bergen Street on the south and Dean Street on the north; thence easterly along the center line of such block to a point 100 feet to the west of East New York Avenue as measured from its westerly street line, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence northeasterly along a line 100 feet to the west of East New York Avenue and running parallel thereto to the point where it meets the center line of Dean Street, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence easterly along the center line of Dean Street to the point where it meets the center line of Sackman Street; thence northerly along the center line of Sackman Street to a point on the center line of the block bounded by Atlantic Avenue on the south and Herkimer Street on the north, said line being the district boundary line between the M1-2 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence westerly along the center line of such block to a point on the center line of the block bounded by Sackman Street on the east and Sherlock Place on the west; thence northerly along the center line of such block to the place where it meets the center line of Herkimer Street, said line being the district boundary line between M1-2 and R6 zoning districts as it appears on Sheet 17c as described aforesaid, thence westerly along the center line of Herkimer Street to a point where it meets the prolongation of the center line of Sherlock Place, said line being the district boundary line between the M1-2 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence northerly along the prolongation of such center line to the point where it meets the center line of Fulton Street, said line being the district boundary line between the M1-2 and R6 zoning districts as it appears on Sheet 17c as described aforesaid; thence easterly along the center line of Fulton Street to the point where it meets the center line of Van Sinderen Avenue; thence northerly along the center line of Van Sinderen Avenue to the point and place of beginning. There is one subzone BEGINNING at the point of intersection of the center line of Louisiana Avenue and the center line of Linden Boulevard; thence southeasterly along the center line of Linden Boulevard to the point where it meets the center line of Alabama Avenue; thence easterly along the center line of Linden Boulevard to the point where it meets the center line of New Jersey Avenue, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 17d of the Zoning Map of the New York City Planning Commission as amended effective February eleventh, nineteen hundred eighty-eight , as contained in the Zoning Resolution of the City of New York; thence southerly along the center line of New Jersey Avenue to the point where it meets the center line of Stanley Avenue, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence westerly along the center line of Stanley Avenue to the point where it meets the center line of Pennsylvania Avenue; thence southerly along the center line of Pennsylvania Avenue to the point where it meets the center line of Flatlands Avenue, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence westerly along the center line of Flatlands Avenue to the point where it meets the center line of Louisiana Avenue, said line being the district boundary line between the M1-1 and R3-2 zoning districts as it appears on Sheet 17d as described aforesaid; thence northerly along the center line of Louisiana Avenue to the point where it meets the center line of Stanley Avenue, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence southwesterly along the center line of Stanley Avenue to the point where it meets the center line of East 108th Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence northerly along East 108th Street to the point where it meets the center line of Van Sinderen Avenue; thence northerly along the center line of Van Sinderen Avenue to the point where it meets the center line of De Witt Avenue; thence easterly along the center line of De Witt Avenue to the point where it meets the center line of Louisiana Avenue, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 17d as described aforesaid; thence northerly along the center line of Louisiana Avenue to the point and place of beginning.
@@ -3907,7 +4161,9 @@ Block: 4828 Lots: 1; 3; 4; 5; 6; 7; 8; 9; 11; 13; 21; 22; 36; 37; 68; 71; 73; 74
 
 
 
-*§ 22-705 South Jamaica zone. * ::
+
+
+*§ 22-705 South Jamaica zone.* ::
 
 
 a. There is hereby established in the borough of Queens an empire zone as follows: BEGINNING at the point of intersection of the center line of the Van Wyck Expressway easterly service road and the center line of Archer Avenue; thence northerly along the center line of the Van Wyck Expressway easterly service road to a point 100 feet to the north of Jamaica Avenue as measured from its northerly street line; thence easterly along a line 100 feet to the north of Jamaica Avenue and running parallel thereto to the point where it would meet the center line of 144th Place if the center line of 144th Place was extended north of Jamaica Avenue; thence southerly along the center line of 144th Place as extended to a point 100 feet to the south of Jamaica Avenue as measured from its southerly street line; thence westerly along a line 100 feet to the south of Jamaica Avenue and running parallel thereto to the point where it meets the center line of 138th Street; thence southerly along the center line of 138th Street to the point where it meets the center line of 91st Avenue; thence easterly along the center line of 91st Avenue to the point where it meets the center line of 144th Place; thence northerly along the center line of 144th Place to the point where it meets the center line of Jamaica Avenue; thence easterly along the center line of Jamaica Avenue to the point where it meets the center line of Sutphin Boulevard; thence northerly along the center line of Sutphin Boulevard to the point where it meets the center line of 89th Avenue; thence easterly along the center line of 89th Avenue to the point where it meets the center line of 148th Street; thence southerly along the center line of 148th Street to the point where it meets the center line of 90th Avenue/Rufus King Avenue; thence easterly along the center line of 90th Avenue/Rufus King Avenue to the point where it meets the center line of 150th Street; thence southerly along the center line of 150th Street to the point where it meets the center line of Jamaica Avenue; thence easterly along the center line of Jamaica Avenue to the point where it meets the center line of 153rd Street, said line being the district boundary line between the R6 and C6-1A zoning districts as it appears on Sheet 14d of the Zoning Map of the New York City Planning Commission as amended effective September twenty-eighth, nineteen hundred eighty-nine , as contained in the Zoning Resolution of the City of New York; thence northerly along the center line of 153rd Street to the point where it meets the center line of Hillside Avenue; thence easterly along the center line of Hillside Avenue to the point where it meets the center line of Parsons Boulevard; thence southerly along the center line of Parsons Boulevard to the point where it meets the center line of 90th Avenue/Rufus King Avenue; thence easterly along the center line of 90th Avenue/Rufus King Avenue to the point where it meets the center line of 161st Street; thence northerly along the center line of 161st Street to the point where it meets the center line of 89th Avenue; thence easterly along the center line of 89th Avenue to the point where it meets the center line of 163rd Street; thence northerly along the center line of 163rd Street to the point where it meets the center line of Hillside Avenue; thence easterly along the center line of Hillside Avenue to the point where it meets the center line of 164th Street; thence southerly along the center line of 164th Street to the point where it meets the center line of 89th Avenue; thence easterly along the center line of 89th Avenue to the point where it meets the center line of Merrick Boulevard; thence southerly along the center line of Merrick Boulevard to the point where it meets the center line of 90th Avenue; thence easterly along the center line of 90th Avenue to the point where it meets the center line of 169th Street; thence southerly along the center line of 169th Street to the point where it meets the center line of 91st Avenue; thence westerly along the center line of 91st Avenue to the point where it meets the center line of 168th Street; thence southerly along the center line of 168th Street to the point where it meets the center line of Jamaica Avenue; thence easterly along the center line of Jamaica Avenue to the point where it meets the center line of 168th Place; thence southerly along the center line of 168th Place to the point where it meets the center line of 93rd Avenue; thence easterly along the center line of 93rd Avenue to the point where it meets the center line of 177th Street; thence northerly along the center line of 177th Street and its prolongation to a point 150 feet to the north of Jamaica Avenue as measured from its northerly street line; thence westerly along a line 150 feet to the north of the northerly street line of Jamaica Avenue and running parallel thereto to the point where it meets the center line of 169th Street; thence northerly along the center line of 169th Street to the point where it meets the center line of 91st Avenue; thence westerly along the center line of 91st Avenue to the point where it meets the center line of 168th Street; thence southerly along the center line of 168th Street to the point where it meets the center line of Jamaica Avenue; thence easterly along the center line of Jamaica Avenue to the point where it meets the center line of 168th Place; thence southerly along the center line of 168th Place to a point 150 feet to the south of Jamaica Avenue as measured from its southerly street line; thence westerly along a line 150 feet to the south of the southerly street line of Jamaica Avenue and running parallel thereto to the point where it meets the center line of 177th Street; thence northerly along the center line of 177th Street and its prolongation to a point 150 feet to the north of Jamaica Avenue as measured from its northerly street line; thence easterly along a line 150 feet to the north of the northerly street line of Jamaica Avenue and running parallel thereto to the point where it meets the center line of 187th Place; thence southerly along the center line of 187th Place to the point where it meets the center line of Jamaica Avenue; thence easterly along the center line of Jamaica Avenue to the point where it meets the center line of Hollis Avenue; thence southeasterly along the center line of Hollis Avenue to the point where it meets the main line set of tracks of the Long Island Railroad as such set of tracks appears on Sheet 15b of the Zoning Map of the New York City Planning Commission as amended effective January twenty-sixth, nineteen hundred eighty-nine , as contained in the Zoning Resolution of the City of New York, said line being the district boundary line between the M1-1 and the R5 zoning districts as it appears on Sheet 15b as described aforesaid; thence westerly along the center line of the Long Island Railroad main line set of tracks to the point where it meets the most easterly track of the Long Island Railroad Montauk Division set of tracks as such Montauk Division tracks appear on Sheet 14d as described aforesaid; thence southeasterly along the most easterly track of such Montauk Division set of tracks to the point where it meets the center line of Liberty Street; thence southeasterly along the center line of Liberty Street to the point where it meets the center line of Dunkirk Street; thence southerly along the center line of Dunkirk Street to the point where it meets the center line of Ilion Avenue, said line being the district boundary line between the M1-1 and the R2 zoning districts as it appears on Sheet 15b as described aforesaid; thence westerly along the center line of Ilion Avenue to a point 150 feet to the west of Dunkirk Street as measured from its westerly street line; thence northerly along a line 150 feet to the west of the westerly street line of Dunkirk Street and running parallel thereto to a point 150 feet to the south of Liberty Avenue as measured from its southerly street line; thence northwesterly along a line 150 feet to the south of the southerly street line of Liberty Avenue and running parallel thereto to the point where it meets the most easterly track of the Long Island Rail Road Montauk Division set of tracks as such Montauk Division set of tracks appears on Sheet 14d as described aforesaid; thence southeasterly along the most easterly track of such Montauk Division set of tracks to the point where it meets the center line of 110th Avenue; thence westerly along the center line of 110th Avenue to the point where it meets the center line of 178th Street, said line being the district boundary line between the M1-1 and R3-2 zoning districts as it appears on Sheet 15b as described aforesaid; thence northwesterly along the center line of 178th Street to the point where it meets the center line of Ruscoe Street, said line being the district boundary line between the M1-1 and R4 zoning districts as it appears on Sheets 15b and 14d as described aforesaid; thence northwesterly along the center line of Ruscoe Street to the point where it meets the center line of 106th Road; thence easterly along the center line of 106th Road to the point where it meets the center line of 180th Street; thence northerly along the center line of 180th Street to the point where it meets the center line of the block bounded on the south by 105th Avenue and on the north by 104th Avenue; thence westerly along the center line of such block to a point 150 feet to the east of the easterly street line of 177th Street, said line being the district boundary line between the M1-1 and R4 zoning districts as said line appears on Sheet 14d as described aforesaid; thence northerly along a line 150 feet to the east of the easterly street line of 177th Street and running parallel thereto to the point where it meets the center line of 104th Avenue, said line being the district boundary line between the M1-1 and R4 zoning districts as said line appears on Sheet 14d as described aforesaid; thence westerly along the center line of 104th Avenue to the point where it meets the center line of 177th Street, said line being the district boundary line between the M1-1 and R4 zoning districts as it appears on Sheet 14d as described aforesaid; thence northerly along the center line of 177th Street to the point where it meets the center line of the block bounded on the south by 103rd Road and on the north by Liberty Avenue, said line being the district boundary line between the M1-1 and R4 zoning districts as it appears on Sheet 14d as described aforesaid; thence westerly along the center line of such block to the point where it meets the center line of 173rd Street, said line being the district boundary line between the M1-1 and R4 zoning districts as it appears on Sheet 14d as described aforesaid; thence northerly along the center line of 173rd Street to the point where it meets the center line of Liberty Avenue; thence westerly along the center line of Liberty Avenue to a point 150 feet to the east of Merrick Boulevard as measured from its easterly street line; thence southerly along a line 150 feet to the east of the easterly street line of Merrick Boulevard and running parallel thereto to the point where it meets the center line of 108th Avenue; thence westerly along the center line of 108th Avenue to the point where it meets the center line of 165th Street; thence northerly along the center line of 165th Street to the point where it meets the center line of South Road; thence southwesterly along the center line of South Road to the point where it meets the center line of Guy Brewer Boulevard; thence northerly along the center line of Guy Brewer Boulevard to the point where it meets the center line of Liberty Avenue; thence easterly along the center line of Liberty Avenue to the point where it meets the center line of 165th Street; thence northerly along the center line of 165th Street to the point where it meets the center line of Archer Avenue/93rd Avenue; thence westerly along the center line of Archer Avenue/93rd Avenue to the point where it meets the center line of 150th Street; thence southerly along the center line of 150th Street to the point where it meets the center line of the main line set of tracks of the Long Island Railroad as such set of tracks appears on Sheet 14d as described aforesaid; thence westerly along the center line of such main line set of tracks to the point where it meets the easterly street line of Sutphin Boulevard; thence southerly along the easterly street line of Sutphin Boulevard to the point where it meets the center line of 94th Avenue; thence easterly along the center line of 94th Avenue to the point where it meets the center line of Beaver Road; thence northeasterly along the center line of Beaver Road to the point where it meets the center line of 158th Street; thence southeasterly along the center line of 158th Street to the point where it meets the center line of Liberty Avenue, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 14d as described aforesaid; thence easterly along the center line of Liberty Avenue to the point where it meets the center line of 160th Street; thence southerly along the center line of 160th Street to the point where it meets the center line of South Road; thence westerly along the center line of South Road to the point where it meets the center line of the Long Island Railroad Old Southern Division set of tracks as such tracks appear on Sheet 14d as described aforesaid; thence southerly along the center line of the Long Island Railroad Old Southern Division set of tracks to the point where it meets the center line of 107th Avenue; thence westerly along the center line of 107th Avenue to the point where it meets the center line of Sutphin Boulevard; thence northeasterly along the center line of Sutphin Boulevard to the point where it meets the center line of 97th Avenue; thence westerly along the center line of 97th Avenue to the point where it meets the center line of Waltham Street; thence northerly along the center line of Waltham Street to the point where it meets the center line of Atlantic Avenue; thence westerly along the center line of Atlantic Avenue to the point where it meets the center line of Liverpool Street; thence northerly along the center line of Liverpool Street and its prolongation to a point approximately 250 feet to the north of 94th Avenue as measured from its northerly street line, said point being the point where the center line of Liverpool Street would meet the center line of the most southerly set of tracks of the Long Island Railroad as such set of tracks appear on Sheet 14d as described aforesaid if the Liverpool Street center line were extended beyond 94th Avenue; thence easterly along the center line of such set of tracks to the point where it meets the westerly street line of Sutphin Boulevard; thence northerly along the westerly street line of Sutphin Boulevard to the point where it meets the center line of the Long Island Railroad main line set of tracks as such tracks appear on Sheet 14d as described aforesaid; thence westerly along the center line of such tracks to the point where such line would meet the center line of 144th Place if the center line of 144th Place were extended beyond Archer Avenue to the center line of such set of tracks; thence northerly along the center line of 144th Place as extended to the point where it meets the center line of Archer Avenue; thence westerly along the center line of Archer Avenue to the point and place of beginning.
@@ -4485,7 +4741,9 @@ Block: 15015 Lots: 301; 302; 303; 304; 305; 306; 307; 308; 309; 310; 311; 325; 3
 
 
 
-*§ 22-706 [Boundary line of zone divides tax lot.]* * ::
+
+
+*§ 22-706 [Boundary line of zone divides tax lot.]** ::
 
 
 In the event that any empire zone district boundary line described in this chapter divides any tax lot so that only a portion of such tax lot is included within such district, such tax lot shall be deemed to be wholly included within such district for the purpose of determining eligibility for the benefits to be provided pursuant to this chapter.
@@ -4493,7 +4751,9 @@ In the event that any empire zone district boundary line described in this chapt
 
 
 
-*§ 22-707 Shift of business operations within New York city. * ::
+
+
+*§ 22-707 Shift of business operations within New York city.* ::
 
 
 A business enterprise which shifts its operations, or some portion thereof, from an area within New York city not designated as an empire zone to an area within New York city so designated pursuant to article 18-B of the general municipal law and this chapter shall be eligible to receive benefits as provided in article 18-B of the general municipal law.
@@ -4501,7 +4761,9 @@ A business enterprise which shifts its operations, or some portion thereof, from
 
 
 
-*§ 22-708 Empire zone plans and applications. * ::
+
+
+*§ 22-708 Empire zone plans and applications.* ::
 
 
 The department of small business services shall prepare empire zone plans in accordance with the requirement of article 18-B of the general municipal law and the rules and regulations promulgated pursuant thereto. Such plans shall be presented to the speaker of the city council, who shall certify that such plans are accurate and complete. Upon certification of a plan, the department of small business services shall be authorized to apply to the state commissioner of economic development for designation of the area described therein as an empire zone.
@@ -4509,7 +4771,9 @@ The department of small business services shall prepare empire zone plans in acc
 
 
 
-*§ 22-709 Hunts Point zone. * ::
+
+
+*§ 22-709 Hunts Point zone.* ::
 
 
 a. There is hereby established in the borough of the Bronx an empire zone as follows: BEGINNING at the point of intersection of the center line of East 156th Street and the center line of Prospect Avenue; thence northeasterly along the center line of Prospect Avenue to the point where it meets the center line of East 162nd Street, said line being the district boundary line between the R7-1 and R6 zoning districts as it appears on Sheet 6c of the Zoning Map of the New York City Planning Commission as amended effective February eighth, nineteen hundred ninety , as contained in the Zoning Resolution of the City of New York; thence easterly along the center line of East 162nd Street to a point 100 feet to the northwest of Westchester Avenue as measured from its northwesterly street line; thence northeasterly along a line 100 feet to the northwest of Westchester Avenue and running parallel thereto to the point where it meets the westerly U.S. pierhead and bulkhead line of the Bronx River; thence southerly along the said U.S. pierhead and bulkhead line to a point where said pierhead and bulkhead lines divide; thence southerly and westerly along the westerly U.S. pierhead line of the Bronx River to a point where said U.S. pierhead line would meet the center line of Halleck Street if such center line were extended to the pierhead line; thence northerly along the prolongation of the center line of Halleck Street to the point where it meets the center line of Ryawa Avenue; thence westerly along the center line of Ryawa Avenue to the point where it meets the center line of Manida Street; thence southerly along the center line of Manida Street and its prolongation to a point where it meets the northerly U.S. pierhead line of the East River; thence northwesterly along said U.S. pierhead line to the point where it meets the center line of the southerly terminus of East 149th Street; thence northerly along the center line of East 149th Street to the point where it meets the main line set of tracks of the New York, New Haven &amp; Hartford Rail Road as such set of tracks appear on Sheet 6c as described aforesaid; thence northeasterly along the main line set of tracks of the New York, New Haven &amp; Hartford Rail Road to the point where it meets the center line of Leggett Avenue; thence northwesterly along the center line of Leggett Avenue to the point where it meets the center line of East 156th Street; thence easterly along the center line of East 156th Street to the point and place of beginning. The following areas shall not be included in the empire zone: (1) Joseph Rodman Drake Park: BEGINNING at the point of intersection of the center line of Longfellow Avenue and the center line of Oak Point Avenue; thence easterly along the center line of Oak Point Avenue to the point where it meets the center line of Hunt's Point Avenue; thence southeasterly along the center line of Hunt's Point Avenue to the point where it meets the center line of Drake Park Square; thence westerly along the center line of Drake Park Square to the point where it meets the center line of Longfellow Avenue; thence northerly along the center line of Longfellow Avenue to the point and place of beginning.
@@ -4687,7 +4951,9 @@ Block: 5611 Lots: 2; 27; 28; 46; 49; 50; 55; 56; 60; 63; 66; 68; 69; 72; 74; 77;
 
 
 
-*§ 22-710 Southwest Brooklyn zone. * ::
+
+
+*§ 22-710 Southwest Brooklyn zone.* ::
 
 
 a. There is hereby established in the borough of Brooklyn an empire zone as follows: BEGINNING at the point of intersection of the easterly U.S. pierhead line of the Buttermilk Channel of the East River and the center line of Hamilton Avenue; thence southeasterly along the center line of Hamilton Avenue to the point where it meets the center line of Imlay Street; thence southwesterly along the center line of Imlay Street to the point where it meets the center line of Pioneer Street; thence westerly along the center line of Pioneer Street to the point where it meets the center line of Conover Street; thence southwesterly along the center line of Conover Street to the point where it meets the center line of Reed Street; thence easterly along the center line of Reed Street to the point where it meets the center line of Van Brunt Street, said line being the district boundary line between the M1-1 and the M3-1 zoning districts as it appears on Sheet 16a of the Zoning Map of the New York City Planning Commission as amended effective March eighth, nineteen hundred ninety , as contained in the Zoning Resolution of the City of New York; thence northeasterly along the center line of Van Brunt Street to the point where it meets the center line of Beard Street, said line being the district boundary line between the M1-1 and M3-1 zoning districts as it appears on Sheet 16a as described aforesaid; thence southeasterly along the center line of Beard Street to the point where it meets the center line of Walleck Street; thence easterly along the center line of Walleck Street to the point where it meets the center line of Columbia Street; thence northerly along the center line of Columbia Street to the point where it meets the center line of Bay Street; thence easterly along the center line of Bay Street to the point where it meets the center line of Hicks Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 16a as described aforesaid; thence northerly along the center line of Hicks Street to the point where it meets the center line of Lorraine Street; thence westerly along the center line of Lorraine Street to the point where it meets the center line of Wolcott Street; thence northwesterly along the center line of Wolcott Street to the point where it meets the center line of Richards Street, said line being the district boundary line between the R5 and R6 zoning districts as it appears on Sheet 16a as described aforesaid; thence northeasterly along the center line of Richards Street to the point where it meets the center line of Verona Street; thence southeasterly along the center line of Verona Street to the point where it meets the center line of Columbia Street; thence southerly along the center line of Columbia Street to the point where it meets the center line of West 9th Street, said line being the district boundary line between the R5 and R6 zoning districts as it appears on Sheet 16a as described aforesaid; thence easterly along the center line of West 9th Street to the point where it meets the center line of Hicks Street; thence southerly along the center line of Hicks Street to the point where it meets the center line of Mill Street; thence easterly along the center line of Mill Street to the point where it meets the center line of Henry Street; thence northerly along the center line of Henry Street to the point where it meets the center line of West 9th Street; thence easterly along the center line of West 9th Street to the point where it meets the center line of Hamilton Avenue; thence southwesterly along the center line of Hamilton Avenue to the point where it meets the easterly U.S. pierhead and bulkhead line of the Gowanus Creek; thence northeasterly along the said U.S. pierhead and bulkhead line to the point where it meets the center line of Carroll Street; thence easterly along the center line of Carroll Street to the point where it meets the center line of Third Avenue; thence southwesterly along the center line of Third Avenue to the point where it meets the center line of First Street; thence southeasterly along the center line of First Street to the point where it meets the center line of Fourth Avenue; thence southwesterly along the center line of Fourth Avenue to the point where it meets the center line of Seventh Street; thence northwesterly along the center line of Seventh Street to the point where it meets the center line of Second Avenue; thence southwesterly along the center line of Second Avenue to the point where it meets the center line of Eleventh Street; thence southeasterly along the center line of Eleventh Street to the point where it meets the center line of Third Avenue; thence southwesterly along the center line of Third Avenue to the point where it meets the center line of Prospect Avenue; thence southeasterly along the center line of Prospect Avenue to the point where it meets the center line of Fourth Avenue, said line being the district boundary line between the M1-2D and R6 zoning districts as it appears on Sheet 16d of the Zoning Map of the New York City Planning Commission as amended effective October twenty-third, nineteen hundred ninety-one , as contained in the Zoning Resolution of the City of New York; thence southwesterly along the center line of Fourth Avenue to the point where it meets the center line of Twenty Fourth Street, said line being the district boundary line between the M1-2D and R6 zoning districts as it appears on Sheet 16d as described aforesaid; thence southeasterly along the center line of Twenty Fourth Street to the point where it meets the center line of Fifth Avenue, said line being the district boundry line between the R6 and M1-1D zoning districts as it appears on Sheet 16d as described aforesaid; thence southwesterly along the center line of Fifth Avenue to the point where it meets the center line of Twenty Ninth Street; thence northwesterly along the center line of Twenty Ninth Street to the point where it meets the center line of Fourth Avenue; thence southwesterly along the center line of Fourth Avenue to the point where it meets the center line of Thirty Sixth Street, said line being the district boundary line between the M1-2D and R6 zoning districts as it appears on Sheet 16d as described aforesaid and as it appears on Sheet 16b of the Zoning Map of the New York City Planning Commission as amended effective February twenty-second, nineteen hundred ninety , as contained in the Zoning Resolution of the City of New York; thence southeasterly along the center line of Thirty Sixth Street to a point 200 feet to the northwest of Fifth Avenue as measured from its northwesterly street line; thence northeasterly along a line 200 feet to the northwest of Fifth Avenue and running parallel thereto to the point where it meets the center line of Thirty Fifth Street, said line being the district boundary line between the M1-2 and R6 zoning districts as it appears on Sheet 16b as described aforesaid; thence southeasterly along the center line of Thirty Fifth Street to the point where it meets the center line of Fifth Avenue, said line being the district boundary line between the M1-2 and R6 zoning districts as it appears on Sheet 16b as described aforesaid; thence southwesterly along the center line of Fifth Avenue to the point where it meets the center line of Fortieth Street; thence northwesterly along the center line of Fortieth Street to the point where it meets the center line of Fourth Avenue; thence southwesterly along the center line of Fourth Avenue to the point where it meets the center line of Sixtieth Street; thence northwesterly along the center line of Sixtieth Street to the point where it meets the center line of Third Avenue; thence southwesterly along the center line of Third Avenue to the point where it meets the center line of Wakeman Place; thence northwesterly along the center line of Wakeman Place to the point where it meets the center line of Ridge Boulevard/Second Avenue; thence northeasterly along the center line of Ridge Boulevard/Second Avenue to the point where it meets the prolongation of the center line of Sixty Sixth Street, said line being the northerly boundary of Owls Head Park as it appears on Sheet 22a of the Zoning Map of the New York City Planning Commission as amended effective May seventh, nineteen hundred ninety-one , as contained in the Zoning Resolution of the City of New York; thence northwesterly along the center line of the prolongation of Sixty Sixth Street (the northerly boundary of Owls Head Park and its prolongation) to the point where it meets the easterly U.S. pierhead line of the Upper New York Bay; thence northeasterly along said U.S. pierhead line to a point where it meets the easterly U.S. pierhead and bulkhead line of the Gowanus Creek; thence northerly along said U.S. pierhead and bulkhead line to the point where it meets the southerly street line of Hamilton Avenue; thence northwesterly along the southerly street line of Hamilton Avenue to the point where it meets the westerly U.S. pierhead and bulkhead line of the Gowanus Creek; thence southwesterly along said U.S. pierhead and bulkhead line to a point where the U.S. pierhead and bulkhead lines divide; thence northwesterly along the easterly U.S. pierhead line of the Upper Bay to the point and place of beginning.
@@ -5067,7 +5333,9 @@ Block: 432 Lots: 1; 15; 25.
 
 
 
-*§ 22-711 North Shore zone. * ::
+
+
+*§ 22-711 North Shore zone.* ::
 
 
 a. There is hereby established in the borough of Staten Island an empire zone as follows: BEGINNING at the point of intersection of the westerly U.S. pierhead line of the Upper New York Bay and the prolongation of the center line of Clifton Avenue; thence westerly along the center line of Clifton Avenue and its prolongation to the point where it meets the center line of Edgewater Street; thence northerly along the center line of Edgewater Street to the point where it meets the main line set of tracks of the Staten Island Rapid Transit Railway as such set of tracks appear on Sheet 21d of the Zoning Map of the New York City Planning Commission as amended effective December seventh, nineteen hundred eighty-nine , as contained in the Zoning Resolution of the City of New York; thence southwesterly along said set of tracks to the point where it meets the prolongation of the center line of Mary St. Palma Drive; thence westerly along the center line of Mary St. Palma Drive and its prolongation to the point where it meets the center line of Richmond Road; thence northerly along the center line of Richmond Road to the point where it meets the center line of Van Duzer Street; thence northerly along the center line of Van Duzer Street to the point where it meets the center line of Sands Street; thence easterly along the center line of Sands Street to the point where it meets the center line of Bay Street; thence northerly along the center line of Bay Street to the point where it meets the center line of Victory Boulevard; thence northwesterly along the center line of Victory Boulevard to the point where it meets the center line of Montgomery Avenue; thence northerly along the center line of Montgomery Avenue to the point where it meets the center line of Fort Place; thence easterly along the center line of Fort Place to the point where it meets the center line of St. Marks Place, said line being the district boundary line between the R4 and C4-2 zoning districts as it appears on Sheet 21c of the Zoning Map of the New York City Planning Commission as amended effective June thirtieth, nineteen hundred eighty-seven , as contained in the Zoning Resolution of the City of New York; thence northwesterly along the center line of St. Marks Place to the point where it meets the center line of Hamilton Avenue, said line being the district boundary line between the R4 and C4-2 zoning districts as it appears on Sheet 21c as described aforesaid; thence westerly along the center line of Hamilton Avenue to the point where it meets the center line of Daniel Low Terrace; thence southerly along the center line of Daniel Low Terrace to the point where it meets the center line of Crescent Avenue; thence westerly along the center line of Crescent Avenue to the point where it meets the center line of Jersey Street; thence northerly along the center line of Jersey Street to the point where it meets the center line of Richmond Terrace; thence westerly along the center line of Richmond Terrace to the point where it meets the center line of Clove Road; thence southerly along the center line of Clove Road to the point where it meets the center line of Castleton Avenue; thence westerly along the center line of Castleton Avenue to the point where it meets the center line of Jewett Avenue; thence northerly along the center line of Jewett Avenue to the point where it meets the center line of Richmond Terrace; thence northwesterly along the center line of Richmond Terrace to the point where it meets the main line set of tracks to the Staten Island Railway as such set of tracks appear on Sheet 21a of the Zoning Map of the New York City Planning Commission as amended effective August twenty-sixth, nineteen hundred ninety-two , as contained in the Zoning resolution of the City of New York, said line being the district boundary line between the M1-1 and the R4 zoning districts as it appears on Sheet 21a as described aforesaid; thence westerly along said set of tracks to a point 150 feet to the west of Park Avenue as measured from its westerly street line, said line being the district boundary line between the M3-1 and the R4 and the M3-1 and C4-2 zoning districts as they appear on Sheet 21a as described aforesaid; thence northeasterly along a line 150 feet to the west of Park Avenue and running parallel thereto to the point where it meets the center line of Richmond Terrace; thence westerly along the center line of Richmond Terrace to a point 100 feet to the west of Port Richmond Avenue as measured from its westerly street line, said line being the district boundary line between the M3-1 and C4-2 zoning districts as it appears on Sheet 21a as described aforesaid; thence southerly along a line 100 feet to the west of Port Richmond Avenue and running parallel thereto to a point 300 feet to the south of Richmond Terrace as measured from its southerly street line, said line being the district boundary line between the M3-1 and C4-2 zoning districts as it appears on Sheet 21a as described aforesaid; thence westerly along a line beginning 300 feet to the south of Richmond Terrace and ending 100 feet to the south of Richmond Terrace as such line appears on Sheet 21a as described aforesaid to the point where such line meets the center line of Maple Avenue, said line being the district boundary line between the M3-1 and C4-2 and the M1-1 and C4-2 zoning districts as they appear on Sheet 21a as described aforesaid; thence southerly along the center line of Maple Avenue to a point 150 feet to the south of Richmond Terrace as measured from its southerly street line; thence westerly along a line 150 feet to the south of Richmond Terrace to the point where it meets the center line of Faber Street; thence northerly along the center line of Faber Street to the point where it meets the center line of Richmond Terrace; thence westerly along the center line of Richmond Terrace to the point where it meets the center line of Nicholas Avenue; thence southerly along the center line of Nicholas Avenue to the point where it meets the main line set of tracks of the Staten Island Railway as such set of tracks appear on Sheet 20c of the Zoning Map of the New York City Planning Commission as amended effective November fourteenth, nineteen hundred eighty-five , as contained in the Zoning Resolution of the City of New York, said line being the district boundary line between the M1-1 and R4 zoning districts as it appears on Sheet 20c as described aforesaid; thence southwesterly along said set of tracks to the point where it meets the center line of John Street, said line being the district boundary line between the M1-1 and R3-2 zoning districts as it appears on Sheet 20c as described aforesaid; thence northerly along the center line of John Street to a point 250 feet to the south of Richmond Terrace as measured from its southerly street line, said line being the district boundary line between the M1-1 and R3-2 zoning districts as it appears on Sheet 20c as described aforesaid; thence westerly along a line 250 feet to the south of Richmond Terrace and running parallel thereto to the point whre it meets the center line of Morningstar Road, said line being the district boundary line between the M1-1 and R3-2 zoning districts as it appears on Sheet 20c as described aforesaid; thence northeasterly along the center line of Morningstar Road to the point where it meets the center line of Richmond Terrace, said line being the district boundry line between the M1-1 and R3-2 zoning districts as it appears on Sheet 20c as described aforesaid; thence westerly along the center line of Richmond Terrace to the point where it meets the center line of Van Pelt Avenue; thence southerly along the center line of Van Pelt Avenue to a point 100 feet to the south of Richmond Terrace as measured from its southerly street line; thence westerly along a line 100 feet to the south of Richmond Terrace and running parallel thereto to the point where it meets the center line of DeHart Avenue; thence southerly along the center line of DeHart Avenue to a point 150 feet to the south of Richmond Terrace as measured from its southerly street line; thence westerly along a line 150 feet to the south of Richmond Terrace and running parallel thereto to the point where it meets the center line of Mersereau Avenue; thence northerly along the center line of Mersereau Avenue to the point where it meets the center line of Richmond Terrace; thence westerly along the center line of Richmond Terrace to a point where it meets the prolongation of the former Linfield Avenue, as said line appears on Sheet 20c as described aforesaid; thence southerly along the prolongation of the former Linfield Avenue to a point where it meets the southwesterly spear of the Staten Island Railway, as such set of tracks appear on Sheet 20c as described aforesaid; thence southwesterly along said set of tracks to the point where it meets the center line of the Goethals Road North; thence northwesterly along the center line of Goethals Road North to the point where it meets the center line of Western Avenue; thence southwesterly along the center line of Western Avenue to the point where it meets the center line of the Staten Island Expressway; thence northwesterly along the center line of the Staten Island Expressway to the point where it meets the easterly U.S. pierhead and bulkhead line of the Arthur Kill; thence northerly and easterly along said U.S. pierhead and bulkhead line to the point where said U.S. pierhead and bulkhead line divides; thence easterly along the southerly U.S. pierhead line of the Kill Van Kull to the point where said U.S. pierhead line converges with the U.S. bulkhead line; thence easterly along the southerly U.S. pierhead and bulkhead line of the Kill Van Kull to the point where said U.S. pierhead and bulkhead line divides; thence easterly along the southerly U.S. pierhead line of the Kill Van Kull to the point where it meets the westerly U.S. pierhead line of the Upper New York Bay; thence southerly along said U.S. pierhead line to the point and place of beginning. There are two subzones: (1) BEGINNING at the point of intersection of the center line of South Avenue and the main line set of tracks of the Staten Island Railway as such set of tracks appear on Sheet 20c of the Zoning Map of the New York City Planning Commission as amended effective November fourteenth, nineteen hundred eighty-five , as contained in the Zoning Resolution of the City of New York; thence easterly along said set of tracks to the point where it meets the center line of Lockman Avenue; thence southerly along the center line of Lockman Avenue to the point where it meets the center line of Continental Place, said line being the district boundary line between the R3-2 and R4 zoning districts as it appears on Sheet 20c as described aforesaid; thence westerly along the center line of Continental Place to the point where it meets the center line of South Avenue; thence northerly along the center line of South Avenue to the point and place of beginning. (2) BEGINNING at the point of intersection of the northerly street line of Victory Boulevard and the westerly terminus of Victory Boulevard, said point having the coordinates of south 26439.357 and west 44700.119, as such coordinates and bearings were established by the United States Coast and Geodetic Survey for the borough of Staten Island; thence westerly along a line 496.41 feet in length to the point where it meets the easterly U.S. pierhead and bulkhead line of the Arthur Kill, said line running south 88 degrees 21 minutes 25 seconds west; thence northerly along said U.S. pierhead and bulkhead line for 920 feet, said line running north 10 degrees 10 minutes 00 seconds east; thence easterly along a line 568 feet long, said line running south 79 degrees 50 minutes 00 seconds east; thence northerly along a line 380 feet long, said line running north 16 degrees 10 minutes 00 seconds east; thence westerly along a line 46.55 feet long, said line running north 66 degrees 29 minutes 46 seconds west; thence northerly along a line 21.6 feet long, said line running north 24 degrees 11 minutes 45 seconds east; thence westerly along a line 61.3 feet long, said line running north 65 degrees 48 minutes 15 seconds west; thence southerly along a line 22.44 feet long, said line running south 28 degrees 53 minutes 14 seconds west; thence westerly along a line 55 feet long, said line running north 66 degrees 29 minutes 46 seconds west; thence southwesterly along a line 201.62 feet long, said line running south 61 degrees 31 minutes 16 seconds west; thence westerly along a line 290 feet long to the point where it meets the easterly U.S. pierhead and bulkhead line of the Arthur Kill, said line running north 79 degrees 50 minutes 00 seconds west; thence northerly along said U.S. pierhead and bulkhead line for 664.6 feet, said line running north 10 degrees 10 minutes 00 seconds east, then north 23 degrees 25 minutes 00 seconds east and then north 36 degrees 40 minutes 00 seconds east; thence easterly along a line 855.62 feet long, said line running south 73 degrees 46 minutes 20 seconds east; thence southerly along a line 110 feet long, said line running south 36 degrees 40 minutes 00 seconds west; thence southeasterly along a line 554.33 feet long, said line running south 48 degrees 18 minutes 04 seconds east; thence southwesterly along a line 233.57 feet long, said line running south 36 degrees 40 minutes 00 seconds west; thence southeasterly along a line 369.49 feet long, said line running south 48 degrees 18 minutes 04 seconds east; thence southwesterly along a line 20 feet long, said line running south 41 degrees 41 minutes 56 seconds west; thence southeasterly along a line 64 feet long to the point where it meets the northerly street line of Victory Boulevard, said line running south 48 degrees 18 minutes 04 seconds east; thence westerly along the northerly street line of Victory Boulevard to the point and place of beginning, said line running 1431.23 feet long and running south 60 degrees 28 minutes 22 seconds west and then south 77 degrees 03 minutes 53 seconds west.
@@ -5449,7 +5717,9 @@ Block: 20001 Lots: 9999.
 
 
 
-*§ 22-712 Far Rockaway zone. * ::
+
+
+*§ 22-712 Far Rockaway zone.* ::
 
 
 a. There is hereby established in the borough of Queens an empire zone as follows: BEGINNING at the point of intersection of the center line of Norton Avenue and the center line of Beach 48th Street; thence southerly along the center line of Beach 48th Street to the point where it meets the center line of Rockaway Beach Boulevard; thence easterly along the center line of Rockaway Beach Boulevard to the point where it meets the center line of Beach 47th Street, said line being the district boundary line between the C8-1 and R4 zoning districts as it appears on Sheet 30c of the Zoning Map of the New York City Planning Commission as amended effective September twenty-sixth, nineteen hundred ninety-two , as contained in the Zoning Resolution of the City of New York, and as it appears on Sheet 31a of the Zoning Map of the New York City Planning Commission as amended effective September twenty-sixth, nineteen hundred ninety-two, as contained in the Zoning Resolution of the City of New York, and as it appears on Sheet 31a of the Zoning Map of the New York City Planning Commission as amended effective September sixteenth, nineteen hundred ninety , as contained in the Zoning Resolution of the City of New York; thence southerly along the center line of Beach 47th Street to a point 100 feet to the north of Oceanview Boulevard as measured from its northerly street line, said line being the district boundary line between the C8-1 and R4 zoning districts as it appears on Sheet 31a as described aforesaid; thence easterly along a line 100 feet to the north of Oceanview Boulevard and running parallel thereto to the point where it meets the center line of Beach 46th Street; thence northerly along the center line of Beach 46th Street to the point where it meets the center line of Rockaway Beach Boulevard; thence easterly along the center line of Rockaway Beach Boulevard to the point where it meets the center line of Beach 43rd Street; thence southerly along the center line of Beach 43rd Street to a point 100 feet to the north of Oceanview Boulevard as measured from its northerly street line; thence easterly along a line 100 feet to the north of Oceanview Boulevard and running parallel thereto to the point where it meets the center line of Beach 38th Street; thence northerly along the center line of Beach 38th Street to the point where it meets the center line of Rockaway Beach Boulevard; thence northeasterly along the center line of Rockaway Beach Boulevard and its prolongation to the point where it meets the center line of Beach Channel Drive; thence northeasterly along the center line of Beach Channel Drive to the point where it meets the center line of Far Rockaway Boulevard; thence northeasterly along the center line of Far Rockaway Boulevard to the point where it meets the center line of Beach 32nd Street; thence southeasterly along the center line of Beach 32nd Street to the point where it meets the western prolongation of the southerly street line of the Rockaway Freeway, as such prolongation appears on Sheet 31a as described aforesaid; thence southwesterly along said prolongation to the point where it meets the center line of Seagirt Boulevard; thence southeasterly along the center line of Seagirt Boulevard to the point where it meets the center line of Beach 32nd Street; thence southerly along the center line of Beach 32nd Street to the point where it meets the center line of Seagirt Avenue; thence westerly along the center line of Seagirt Avenue and its prolongation to the point where it meets the center line of Beach 35th Street; thence southerly along the center line of Beach 35th Street to the point where it meets the center line of Schooner Way; thence westerly along the center line of Schooner Way to the point where it meets the center line of Duke Kahanamoku Way/Beach 38th Street; thence northerly along the center line of Duke Kahanamoku Way/Beach 38th Street to a point 175 feet to the south of Oceanview Boulevard as measured from its southerly street line; thence westerly along a line 175 feet to the south of Oceanview Boulevard and running parallel thereto to a point 100 feet to the east of Beach 41st Street as measured from its easterly street line; thence southerly along a line 100 feet to the east of Beach 41st Street and running parallel thereto to the point where it meets the eastern prolongation of the southerly street line of Beach 41st Street as such prolongation appears on Sheet 31a as described aforesaid; thence westerly along said prolongation and the western prolongation of the southerly street line of Beach 41st Street as such prolongation appears on Sheet 31a as described aforesaid to a point 100 feet to the west of Beach 41st Street as measured from its westerly street line; thence northerly along a line 100 feet to the west of Beach 41st Street and running parallel thereto to a point 100 feet to the south of Oceanview Boulevard as mesured from its southerly street line; thence westerly along a line 100 feet to the south of Oceanview Boulevard and running parallel thereto to a point 150 feet to the east of Beach 47th Street as measured from its easterly street line; thence southerely along a line 150 feet to the east of Beach 47th Street and running parallel thereto to a point 180 feet to the south of Oceanview Boulevard as measured from its southerly street line; thence westerly along a line 180 feet to the south of Oceanview Boulevrd and running parallel thereto to the point where it meets the center line of Beach 47th Street; thence northerly along the center line of Beach 47th Street to the point where it meets the center line of Oceanview Boulevard; thence westerly along the center line of Oceanview Boulevard to the point where it meets the center line of Beach 62nd Street; thence southerly along the center line of Beach 62nd Street to a point 388 feet to the south of Oceanview Boulevard as measured from its southerly street line; thence westerly along a line 388 feet to the south of Oceanview Boulevard and running parallel thereto to a point 100 feet to the west of Beach 62nd Street as measured from its westerly street line; thence northerly along a line 100 feet to the west of Beach 62nd Street and running parallel thereto to a point 100 feet to the south of Oceanview Boulevrd as measured from its southerly street line; thence westerly along a line 100 feet to the south of Oceanview Boulevard and running parallel thereto to the point where it meets the center line of Beach 65th Street; thence southerly along the center line of Beach 65th Street to the point where it meets the prolongation of the northerly street line of Heron Park North, as such prolongation appears on Sheet 30c as described aforesaid; thence westerly along said prolongation to a point 100 feet to the east of Beach 69th Street as measured from its easterly street line; thence southerly along a line 100 feet to the east of Beach 69th Street and running parallel thereto to the point where it meets the center line of Heron Park South; thence westerly along the center line of Heron Park South to the point where it meets the center line of Beach 69th Street; thence northerly along the center line of Beach 69th Street to the point where it meets the center line of Oceanview Boulevard; thence southwesterly along the center line of Oceanview Boulevard to the point where it meets the center line of Rockaway Beach Boulevard; thence westerly along the center line of Rockaway Beach Boulevard to the point where it meets the center line of Beach 73rd Street; thence northerly along the center line of Beach 73rd Street to the point where it meets the center line of Beach Channel Drive; thence westerly along the center line of Beach Channel Drive to the point where it meets the center line of Beach 77th Street; thence southerly along the center line of Beach 77th Street to the point where it meets the center line of Sunrise Avenue/Hammels Boulevard; thence westerly along the center line of Sunrise Avenue/Hammels Boulevard to the point where it meets the center line of Beach 81st Street, said line being the district boundary line between the M1-1 and R6 zoning districts as it appears on Sheet 30c as described aforesaid; thence southerly along the center line of Beach 81st Street to the point where it meets the center line of Rockaway Beach Boulevard; thence westerly and southwesterly along the center line of Rockaway Beach Boulevard to the point where it meets the center line of Beach 97th Street; thence southeasterly along the center line of Beach 97th Street to the point where it meets the center line of Shore Front Parkway; thence westerly along the center line of Shore Front Parkway to the point where it meets the center line of Beach 99th Street, said line being the district boundary line between the R5 and R6 zoning districts as it appears on Sheet 30c as described aforesaid; thence northwesterly along the center line of Beach 99th Street to the point where it meets the center line of Rockaway Beach Boulevard, said line being the district boundary line between the R5 and R6 zoning districts as it appears on Sheet 30c as described aforesaid; thence southwesterly along the center line of Rockaway Beach Boulevard to the point where it meets the center line of Beach 102nd Street; thence northwesterly along the center line of Beach 102nd Street to the point where it meets the main line set of tracks of the New York City Transit System as such set of tracks appear on Sheet 30a of the Zoning Map of the New York City Planning Commission as amended effective August twenty-sixth, nineteen hundred ninety-two , as contained in the Zoning Resolution of the City of New York; thence northeasterly along said set of tracks to the point where it meets the center line of Beach 98th Street; thence northwesterly along the center line of Beach 98th Street to the point where it meets the center line of Beach Channel Drive, said line being the district boundary line between the C8-1 and R6 zoning districts as it appears on Sheet 30c as described aforesaid; thence northeasterly along the center line of Beach Channel Drive to the point where it meets the center line of the westerly spur of the Cross Bay Parkway, said line being the district boundary line between the C8-1 and R6 zoning districts as it appears on Sheet 30c as described aforesaid; thence southeasterly along the center line of the westerly spur of the Cross Bay Parkway to the point where it meets the main line set of tracks of the New York City Transit System as such set of tracks appear on Sheet 30c as described aforesaid, said line being the district boundary line between the C8-1 and R6 zoning districts as it appears on Sheet 30c as described aforesaid; thence northeasterly along said set of tracks to the point where it meets the center line of the easterly spur of Cross Bay Parkway; thence southerly along the center line of the easterly spur of the Cross Bay Parkway to the point where it meets the northerly street line of Rockaway Beach Boulevard; thence northeasterly along the northerly street line of Rockaway Beach Boulevard to the point where it meets the center line of Beach 92nd Street; thence northwesterly along the center line of Beach 92nd Street to a point 150 feet to the north of Beach Channel Drive as measured from its northerly street line; thence northeasterly along a line 150 feet to the north of Beach Channel Drive as measured from its northerly street line and running parallel thereto to a point 1110 feet to the east of Beach 92nd Street as measured from its easterly street line, said line being the district boundary line between the C3 and R4 zoning districts as it appears on Sheet 30c as described aforesaid; thence southeasterly along a line 1110 feet to the east of Beach 92nd Street and running parallel thereto to the point where it meets the center line of Beach Channel Drive, said line being the district boundary line between the C3 and R4 zoning districts as it appears on Sheet 30c described aforesaid; thence easterly along the center line of Beach Channel Drive to the point where it meets the center line of Beach 87th Street; thence southerly along the center line of Beach 87th Street to the point where it meets the main line set of tracks of the New York City Transit System as such set of tracks appear on Sheet 30c as described aforesaid; thence northeasterly along said set of tracks to the point where it meets the center line of Beach 84th Street, said line being the district boundary line between the R4 and R6 zoning districts as it appears on sheet 30c as described aforesaid; thence northerly along the center line of Beach 84th Street to the point where it meets the center line of Beach Channel Drive, said line being the district boundry line between the M1-1 and R4 zoning districts as it appears on Sheet 30c as described aforesaid; thence easterly along the center line of Beach Channel Drive to the point where it meets the center line of the easterly set of tracks of New York City Transit System as such set of tracks appear on Sheet 30c as described aforesaid, said line being the district boundary line between the M1-1 and R4 zoning districts as it appears on Sheet 30c as described aforesaid; thence northwesterly along said set of tracks to the point where it meets the convergence of the southerly U.S. pierhead line of Beach Channel and the westerly shore line of Barbados Basin, said line being the district boundary line between the M1-1 and R4 and the M1-1 and C3 zoning districts as they appear on Sheet 30c as described aforesaid; thence southeasterly along the westerly shore line of Barbados Basin to the point where it meets the center line of Beach 77th Street and its prolongation; thence northerly along the prolongation of Beach 77th Street to the point where it meets the center line of Beach Boulevard; thence easterly along the center line of Beach Boulevard to the point where it meets the center line of Beach Channel Drive; thence southerly and southwesterly along the center line of Beach Channel Drive to the point it meets the western prolongation of the southerly street line of Beach 70th Street as such prolongation appears on Sheet 30c as described aforesaid, such line being the district boundary line between the C8-1 and R5 and the M1-1 and R5 zoning districts as they appear on Sheet 30c as described aforesaid; thence easterly along the western prolongation of the southerly street line of Beach 70th Street to the point where it meets the eastern prolongation of the southerly street line of Beach 70th Street as such prolongation appears on Sheet 30c as described aforesaid, said line being the district boundary line between the R5 and the R6 zoning districts as it appears on Sheet 30c as described aforesaid; thence easterly along the eastern prolongation of the southerly street line of Beach 70th Street to a point 100 feet to the north of Oceanview Boulevard as measured from its northerly street line; thence easterly along a line 100 feet to the north of Oceanview Boulevard and running parallel thereto to the point where it meets the center line of Beach 62nd Street; thence northerly along the center line of Beach 62nd Street to the point where it meets the center line of Beach Boulevard/Arverne Boulevard, said line being the district boundary line between the C4-1 and R5 zoning districts as it appears on Sheet 30c as described aforesaid; thence easterly along the center line of Arverne Boulevard to the point where it meets the center line of Beach 60th Street, said line being the district boundary line between the C4-1 and R5 zoning districts as it appears on Sheet 30c as described aforesaid; thence southerly along the center line of Beach 60th Street to a point 100 feet to the north of Oceanview Boulevard as measured from its northerly street line; thence easterly along a line 100 feet to the north of Oceanview Boulevard and running parallel thereto to the point where it meets the center line of Beach 57th Street; thence northerly along the center line of Beach 57th Street to the point where it meets the center line of Arverne Boulevard/Rockaway Beach Boulevard, said line being the district boundary line between the R6 and R5 zoning districts as it appears on Sheet 30c as described aforesaid; thence easterly along the center line of Arverne Boulevard/Rockaway Beach Boulevard to the point where it meets the center line of Beach 54th Street; thence northerly along the center line of Beach 54th Street to the point where it meets the center line of Beach Channel Drive; thence easterly along the center line of Beach Channel Drive to the point where it meets the center line of Beach 49th Street, said line being the district boundary line between the R4 and R5 zoning districts as it appears on Sheet 30c as described aforesaid; thence northerly along the center line of Beach 49th Street to the point where it meets the center line of Norton Avenue; thence northeasterly along the center line of Norton Avenue to the point and place of beginning, said line being the district boundary line between the C3 and R4 zoning districts as it appears on Sheet 30c as described aforesaid. There is one subzone: (1) BEGINNING at the point of intersection of the center line of Beach 12th Street and the center line of Brunswick Avenue; thence southwesterly along the center line of Brunswick Avenue to the point where it meets the center line of Nameoke Street, said line being the district boundary line between the M1-1 and R5 zoning districts as it appears on Sheet 25b of the Zoning Map of the New York City Planning Commission as amended effective December eighteenth, nineteen hundred sixty-nine (A-923), as contained in the Zoning Resolution of the City of New York; thence southeasterly along the center line of Nameoke Street to a point 150 feet to the east of Central Avenue as measured from its easterly street line, said line being the district boundary line between the C8-1 and R5 zoning districts as it appears on Sheet 25b as described aforesaid; thence southwesterly along a line 150 feet to the east of Central Avenue and running parallel thereto to the point where it meets the center line of Foam Place, said line being the district boundary line between the C8-1 and R5 and the C4-2 and R5 zoning districts as they appear on Sheet 25b as described aforesaid; thence southeasterly along the center line of Foam Place to the point where it meets the center line of Beach 18th Street, said line being the district boundary line between the C4-2 and R5 zoning districts as it appears on Sheet 25b as described aforesaid and Sheet 31a of the Zoning Map of the New York City Planning Commission as amended effective September sixteenth, nineteen hundred ninety , as contained in the Zoning Resolution of the City of New York; thence southerly along the center line of Beach 18th Street to the point where it meets the center line of Mott Avenue, said line being the district boundary line between the C4-2 and R5 zoning districts as it appears on Sheet 31a as described aforesaid; thence southeasterly along the center line of Mott Avenue to the point where it meets the center line of Cornaga Avenue; thence southwesterly along the center line of Cornaga Avenue to the point where it meets the center line of Beach 19th Street; thence southerly along the center line of Beach 19th Street to the point where it meets the center line of New Haven Avenue; thence westerly along the center line of New Haven Avenue to the point where it meets the center line of Beach 22nd Street; thence northerly along the center line of Beach 22nd Street to the point where it meets the center line of Mott Avenue; thence westerly along the center line of Mott Avenue to a point 200 feet to the west of Beach Channel Drive as measured from its westerly street line; thence northerly along a line 200 feet to the west of Beach Channel Drive and running parallel thereto to the point where it meets the center line of Dix Avenue; thence easterly along the center line of Dix Avenue to the point where it meets the center line of Redfern Avenue; thence northeasterly along the center line of Redfern Avenue to the point where it meets the center line of Beach 12th Street, said line being the district boundary line between the C8-1 and R5 and the M1-1 and R5 zoning districts as they appear on Sheet 25b as described aforesaid; thence southeasterly along the center line of Beach 12th Street to the point and place of beginning.
@@ -6183,7 +6453,9 @@ Block: 16190 Lots: 10; 100; 130.
 
 
 
-*§ 22-713 Brooklyn Navy Yard/North Brooklyn Empire Zone. * ::
+
+
+*§ 22-713 Brooklyn Navy Yard/North Brooklyn Empire Zone.* ::
 
 
 a. In accordance with subdivision (a) of section nine hundred sixty-one of the general municipal law, the preparation and submission of an application by the city of New York to the commissioner of the New York state department of economic development for designation of an area within such city as an empire zone is hereby authorized. Upon designation of such area as an empire zone, such area shall be known as the Brooklyn Navy Yard/North Brooklyn Empire Zone.
@@ -6661,7 +6933,9 @@ Block: 2023 Lot: 1; 10; 50; 110; 125; 150.
 
 
 
-*§ 22-714 West Shore empire zone. * ::
+
+
+*§ 22-714 West Shore empire zone.* ::
 
 
 a. In accordance with subdivision a of section nine hundred sixty-one of the general municipal law, the preparation and submission of an application by the city of New York to the commissioner of the New York state department of economic development for designation of an area within such city as an empire zone is hereby authorized. Upon designation of such area as an empire zone, such area shall be known as the West Shore empire zone.
@@ -6861,7 +7135,9 @@ Block: 502 Lots: 10; 20; 31; 35; 75; 150; 155.
 
 
 
-*§ 22-715 Chinatown/Lower East Side Empire Zone. * ::
+
+
+*§ 22-715 Chinatown/Lower East Side Empire Zone.* ::
 
 
 a. Upon approval of the application for designation of the area set forth in subdivision d of this section as an empire zone, such area shall constitute and be known as the Chinatown/Lower East Side empire zone.
@@ -7281,7 +7557,9 @@ Block: 962 Lots: 98; 99.
 
 
 
-*§ 22-716 Authorization for the designation of a regionally significant project. * ::
+
+
+*§ 22-716 Authorization for the designation of a regionally significant project.* ::
 
 
 a. Pursuant to the provisions of article 18-B of the general municipal law, a business enterprise may be designated as a regionally significant project if the criteria set forth in paragraph i of subdivision d of section 957 of such article are met.
@@ -7293,7 +7571,9 @@ c. Pursuant to the provisions of article 18-B of the general municipal law, such
 
 
 
-*§ 22-717 Authorization for the designation of a regionally significant project. * ::
+
+
+*§ 22-717 Authorization for the designation of a regionally significant project.* ::
 
 
 a. Pursuant to the provisions of article 18-B of the general municipal law, a business enterprise may be designated as a regionally significant project if the criteria set forth in paragraph i of subdivision d of section 957 of such article are met.
@@ -7305,7 +7585,9 @@ c. Pursuant to the provisions of article 18-B of the general municipal law, such
 
 
 
-*§ 22-718 Authorization for the designation of a regionally significant project. * ::
+
+
+*§ 22-718 Authorization for the designation of a regionally significant project.* ::
 
 
 a. Pursuant to the provisions of article 18-B of the general municipal law, a business enterprise may be designated as a regionally significant project if the criteria set forth in paragraph i of subdivision d of section 957 of such article are met.
@@ -7317,7 +7599,9 @@ c. Pursuant to the provisions of article 18-B of the general municipal law, such
 
 
 
-*§ 22-719 Authorization for the designation of a regionally significant project. * ::
+
+
+*§ 22-719 Authorization for the designation of a regionally significant project.* ::
 
 
 a. Pursuant to the provisions of article 18-B of the general municipal law, a business enterprise may be designated as a regionally significant project if the criteria set forth in paragraph i of subdivision d of section 957 of such article are met.
@@ -7329,7 +7613,9 @@ c. Pursuant to the provisions of article 18-B of the general municipal law, such
 
 
 
-*§ 22-720 Authorization for the designation of a regionally significant project—Epic Pharma LLC. * ::
+
+
+*§ 22-720 Authorization for the designation of a regionally significant project—Epic Pharma LLC.* ::
 
 
 a. Pursuant to the provisions of article 18-B of the general municipal law, a business enterprise may be designated as a regionally significant project if the criteria set forth in paragraph i of subdivision d of section 957 of such article are met.
@@ -7347,7 +7633,9 @@ Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behal
 
 **Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
 
-*§ 22-801 Definitions. * ::
+
+
+*§ 22-801 Definitions.* ::
 
 
 "Lobbying"or "Lobbying activities" shall mean "lobbying" or "lobbying activities" as defined in section 3-211 of this code.
@@ -7357,7 +7645,9 @@ Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behal
 
 
 
-*§ 22-802 Reporting of lobbying activities. * ::
+
+
+*§ 22-802 Reporting of lobbying activities.* ::
 
 
 a. A not-for-profit corporation of which a majority of its members are appointed by the mayor that is under contract with the city to provide or administer economic development benefits on behalf of the city shall be required to submit to the council quarterly reports identifying:
@@ -7390,6 +7680,8 @@ d. The first such submission shall be provided no later than December 31, 2013 a
 
 **Subchapter 2: Contract Requirements for Entities Contracted to Provide Economic Development Benefits on Behalf of the City**
 
+
+
 *§ 22-821 Definitions.* ::
 
 
@@ -7412,6 +7704,8 @@ Project agreement. The term “project agreement” means the contract or agreem
 
 
 
+
+
 *§ 22-822 Public comment before project approval.* ::
 
 
@@ -7424,6 +7718,8 @@ b. Submit the description required by subdivision a to the speaker of the counci
    1. In the case of a project as to which the charter or any other law requires that a public hearing be held, at least 30 days before such hearing; and
 
    2. In the case of a project as to which neither the charter nor any other law requires that any public hearing be held, at least 30 days before the project agreement is executed.
+
+
 
 
 
@@ -7524,6 +7820,8 @@ h. Methodology study. By March 1, 2007, and by March 1 of every second year ther
 
 
 
+
+
 *§ 22-824 Requirements for a contracted entity administering economic development benefits.* ::
 
 
@@ -7545,6 +7843,8 @@ Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provide
 Chapter 9: Non-Residential Tenant Harassment
 --------------------------------------------------
 
+
+
 *§ 22-901 Definitions.* ::
 
 
@@ -7563,7 +7863,9 @@ Landlord. The term “landlord” means an owner of covered property or such own
 
 
 
-*§ 22-902 Commercial tenant harassment. * ::
+
+
+*§ 22-902 Commercial tenant harassment.* ::
 
 
 a. A landlord shall not engage in commercial tenant harassment. Except as provided in subdivision b of this section, commercial tenant harassment is any act or omission by or on behalf of a landlord that (i) is intended to cause a commercial tenant to vacate covered property, or to surrender or waive any rights under a lease or other rental agreement or under applicable law in relation to such covered property, and (ii) includes one or more of the following:
@@ -7595,6 +7897,8 @@ b. A landlord’s lawful termination of a tenancy, lawful refusal to renew or ex
 
 
 
+
+
 *§ 22-903 Private right of action.* ::
 
 
@@ -7617,6 +7921,8 @@ e. Nothing contained in this chapter shall be construed as creating any private 
 
 
 
+
+
 *§ 22-904 Affirmative defenses.* ::
 
 
@@ -7630,6 +7936,8 @@ It is an affirmative defense to an allegation of commercial tenant harassment of
 Chapter 10: Small Businesses
 --------------------------------------------------
 
+
+
 *§ 22-1001 Definitions.* ::
 
 
@@ -7638,6 +7946,8 @@ As used in this chapter, the following terms have the following meanings:
 Commissioner. The term “commissioner” means the commissioner of small business services.
 
 Department. The term “department” means the department of small business services.
+
+
 
 
 
@@ -7663,6 +7973,8 @@ b. This section shall not be construed to create a private right of action to en
 Chapter 11: City-Assisted Construction Workforce Disclosure 
 --------------------------------------------------
 
+
+
 *§ 22-1101 Definitions.* ::
 
 
@@ -7683,6 +7995,8 @@ Covered project. The term “covered project” means: (i) a construction projec
 Construction work. The term “construction work” means construction, alteration or demolition work, except that the term excludes (i) architectural, engineering, legal, accounting or other professional services; (ii) clerical or other similar office support services; and (iii) the managing, directing or supervising of construction, rehabilitation, alteration or demolition work.
 
 Financial assistance. The term “financial assistance” means money or any other thing of value, including, but not limited to, cash payments; grants or other subsidies; loans; bond financing; tax abatements or exemptions; tax increment financing; environmental remediation costs; real property conveyance for less than market value; and write-downs in the market value of buildings, lands or leases or the cost of capital improvements related to real property that, under ordinary circumstances, the city would not pay for. The term “financial assistance” includes both discretionary and as-of-right assistance.
+
+
 
 
 
@@ -7733,12 +8047,16 @@ b. The information required by subdivision a of this section shall be submitted 
 
 
 
+
+
 *§ 22-1103 Reporting on covered projects.* ::
 
 
 a. By no later than September 30, 2021, the administering agency shall make data regarding the number of hours worked, job title, full-time or part-time designation, total compensation, zip code of primary address, gender and race or ethnic group received pursuant to section 22-1102 of this chapter publicly available online where such data can be anonymized.
 
 b. By no later than October 31, 2022 and every five years thereafter, the administering agency shall submit to the mayor and the council, and post publicly on the city’s website, a report providing details concerning the workforce of covered projects. Beginning with the second report required pursuant to this subdivision, the report shall include information concerning trends related to individuals employed on covered projects based upon data aggregated from workforce disclosure records as provided for by section 22-1102.
+
+
 
 
 
@@ -7755,10 +8073,14 @@ The mayor shall, in writing, designate one or more offices or agencies to admini
 
 
 
+
+
 *§ 22-1105 Recordkeeping.* ::
 
 
 Covered developers shall retain copies of the information required to be submitted pursuant to section 22-1102 of this chapter for at least six years after the covered project’s completion date and make such copies available to the administering agency at the administering agency’s request.
+
+
 
 
 

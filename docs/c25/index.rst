@@ -4,7 +4,9 @@ Title 23: Communications
 Chapter 1: The City Record
 --------------------------------------------------
 
-*§ 23-101 Bond. * ::
+
+
+*§ 23-101 Bond.* ::
 
 
 The director and deputy director of the City Record shall each execute a bond to the city in the penal sum of five thousand dollars, conditioned for the faithful performance of the duties of their respective offices. Such bond shall contain one or more sureties and shall be approved by the comptroller.
@@ -12,7 +14,9 @@ The director and deputy director of the City Record shall each execute a bond to
 
 
 
-*§ 23-102 Sales. * ::
+
+
+*§ 23-102 Sales.* ::
 
 
 Copies of the City Record shall be sold by the director at a price to be fixed by him or her.
@@ -20,7 +24,9 @@ Copies of the City Record shall be sold by the director at a price to be fixed b
 
 
 
-*§ 23-103 Distribution. * ::
+
+
+*§ 23-103 Distribution.* ::
 
 
 Copies of the City Record shall be distributed to the several agencies and to such other persons and in such manner as the director of the City Record shall direct.
@@ -28,7 +34,9 @@ Copies of the City Record shall be distributed to the several agencies and to su
 
 
 
-*§ 23-104 Publication; distribution; expenses of. * ::
+
+
+*§ 23-104 Publication; distribution; expenses of.* ::
 
 
 If the City Record be published under contract then all expenses connected with its publication and distribution, except the salary of the director and his or her assistants, shall be included in the contract for printing.
@@ -36,7 +44,9 @@ If the City Record be published under contract then all expenses connected with 
 
 
 
-*§ 23-105 The City Record to print certain matters. * ::
+
+
+*§ 23-105 The City Record to print certain matters.* ::
 
 
 a. There shall be published in the City Record, or as a supplement thereto, within the month of April in each year, or maintain as a public record in the municipal reference and research center, a list of all officials, employees and laborers of the city who have been or have become officials, employees or laborers during the preceding year. Such list shall contain the name, nature of position or service, year of cessation of service or employment (if occurring during the year), salary or wages of each such official, employee or laborer.
@@ -56,7 +66,9 @@ g. It shall be the duty of the heads of agencies to furnish to the director of t
 
 
 
-*§ 23-106 Real estate; advertising sale of. * ::
+
+
+*§ 23-106 Real estate; advertising sale of.* ::
 
 
 In the case of the sale of any real estate belonging to the city such advertisements may be also inserted in such other newspapers published in the city as the director, with the approval of the mayor and the comptroller may determine in the case of each such sale.
@@ -67,7 +79,9 @@ In the case of the sale of any real estate belonging to the city such advertisem
 Chapter 2: Public Records
 --------------------------------------------------
 
-*§ 23-201 Municipal reference library, to have official reports, et cetera. * ::
+
+
+*§ 23-201 Municipal reference library, to have official reports, et cetera.* ::
 
 
 The head of each agency shall transmit to the municipal reference library, four copies of each annual or quarterly report or other publication of such agency immediately after the same shall have been issued.
@@ -78,7 +92,9 @@ The head of each agency shall transmit to the municipal reference library, four 
 Chapter 3: Non-emergency City Services
 --------------------------------------------------
 
-*§ 23-301 Tracking information provided. * ::
+
+
+*§ 23-301 Tracking information provided.* ::
 
 
 a. 311 customer service center call takers shall provide the caller with a unique identifier for such call taker at the beginning of every call and a tracking number for every call that results in a request for service or complaint being filed with a city agency.
@@ -90,12 +106,16 @@ b. Every call, e-mail or electronic message to the 311 customer service center i
 
 
 
-*§ 23-302 High call volume protocol. * ::
+
+
+*§ 23-302 High call volume protocol.* ::
 
 
 a. No later than September 30, 2011, the 311 customer service center shall implement a protocol for responding to high call volume. Such protocol shall include, but not be limited to, (i) a system to efficiently and effectively answer, direct and track all calls; (ii) increased utilization of automated telephone messages, short message services, social media, email alerts, and the city's website to disseminate information and to reduce non-critical information requests; and (iii) a plan to ensure adequate staffing both in anticipation of, and in response to, high call volume incidents.
 
 b. A copy of such protocol shall be provided to the council.
+
+
 
 
 
@@ -113,7 +133,9 @@ Pursuant to the provisions of this section, the department of information techno
 Chapter 4: [Public Pay Telephones]
 --------------------------------------------------
 
-*§ 23-401 Definitions. * ::
+
+
+*§ 23-401 Definitions.* ::
 
 
 Whenever used in this chapter:
@@ -135,7 +157,9 @@ g. "Street" shall have the meaning ascribed thereto in subdivision thirteen of s
 
 
 
-*§ 23-402 Permit required. * ::
+
+
+*§ 23-402 Permit required.* ::
 
 
 No public pay telephone shall be installed, operated or maintained on, over or under any street or other inalienable property of the city without a permit therefor, and unless such installation, operation and maintenance is in accordance with the provisions of this chapter, the rules of the commissioner promulgated pursuant thereto, and the terms and conditions of such permit.
@@ -143,7 +167,9 @@ No public pay telephone shall be installed, operated or maintained on, over or u
 
 
 
-*§ 23-403 Powers of commissioner. * ::
+
+
+*§ 23-403 Powers of commissioner.* ::
 
 
 a. The commissioner may issue and renew permits under this chapter based upon a determination, at his or her discretion, that issuance or renewal of a permit would be in the best interests of the city, provided that:
@@ -165,7 +191,9 @@ c. Permits may contain such other terms and conditions not specifically provided
 
 
 
-*§ 23-404 Term; Termination. * ::
+
+
+*§ 23-404 Term; Termination.* ::
 
 
 a. A permit for a public pay telephone shall continue in effect for the term of the franchise held by the owner of such public pay telephone, unless the commissioner, after giving the permittee notice and an opportunity to be heard, determines: (i) that as a result of changed conditions, the public pay telephone unreasonably interferes or will unreasonably interfere with the use of a street by the public, or constitutes a public nuisance; or (ii) that removal of the public pay telephone is required in connection with a street widening or other capital project or for other purposes as may be specified by rule of the commissioner. Upon making such determination, the commissioner shall order the removal of the public pay telephone within a reasonable time period. In the event the permittee fails to remove the public pay telephone within the time period specified in such order, the commissioner may remove or cause the removal of the public pay telephone and have repair and restoration work performed at the expense of the permittee, who shall be liable in a civil action for the amount expended by the city.
@@ -175,7 +203,9 @@ b. Notwithstanding the provisions of subdivision a of this section, in the event
 
 
 
-*§ 23-405 Advertising. * ::
+
+
+*§ 23-405 Advertising.* ::
 
 
 A permit issued under this chapter shall not constitute an authorization to place advertising upon a public pay telephone.
@@ -183,7 +213,9 @@ A permit issued under this chapter shall not constitute an authorization to plac
 
 
 
-*§ 23-406 Fees. * ::
+
+
+*§ 23-406 Fees.* ::
 
 
 The commissioner shall by rule establish fees for the issuance and renewal of permits pursuant to this chapter in amounts sufficient to compensate the city for the administrative expense of issuing or renewing a permit and the expense of inspections and other activities related thereto.
@@ -191,7 +223,9 @@ The commissioner shall by rule establish fees for the issuance and renewal of pe
 
 
 
-*§ 23-407 Transfers. * ::
+
+
+*§ 23-407 Transfers.* ::
 
 
 No permit issued under this chapter shall be transferred except as may be authorized by rule of the commissioner.
@@ -199,7 +233,9 @@ No permit issued under this chapter shall be transferred except as may be author
 
 
 
-*§ 23-408 Violations; Penalties and Other Enforcement. * ::
+
+
+*§ 23-408 Violations; Penalties and Other Enforcement.* ::
 
 
 a. Any owner who installs, operates or maintains a public pay telephone on, over or under any street or other inalienable property of the city without a permit therefor shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine of not more than ten thousand dollars and imprisonment of not more than thirty days, or both such fine and imprisonment. Such owner shall, in addition, be liable for civil penalties pursuant to subdivisions c and d of this section.
@@ -241,6 +277,8 @@ k. Any public pay telephone removed pursuant to this section which is not claime
 
 Chapter 5: Accessibility To Public Data Sets section 23-501
 --------------------------------------------------
+
+
 
 *§ 23-501 Definitions.* ::
 
@@ -292,6 +330,8 @@ j. "Voluntary consensus standards body" means a domestic or international organi
 
 
 
+
+
 *§ 23-502 Public data set availability.* ::
 
 
@@ -306,6 +346,8 @@ d. Such public data sets shall be made available without any restrictions on the
 e. Such public data sets shall be accessible to external search capabilities.
 
 f. Agencies shall review responses to freedom of information law requests that include the release of data to determine if such responses consist of or include public data sets that have not yet been included on the single web portal or the inclusion of which on the single web portal is not provided for in the compliance plan prepared pursuant to section 23-506. Each agency shall disclose in the update to such compliance plan the total number, since the last update, of such agency's freedom of information law responses that included the release of data, the total number of such responses determined to consist of or include a public data set that had not yet been included on the single web portal and the name of such public data set, where applicable, and the total number of such responses that resulted in voluntarily disclosed information being made accessible through the single web portal.
+
+
 
 
 
@@ -328,6 +370,8 @@ d. Requests received via the on-line forum for inclusion of particular public da
 
 
 
+
+
 *§ 23-504 Open data legal policy.* ::
 
 
@@ -336,6 +380,8 @@ a. Public data sets made available on the web portal are provided for informatio
 b. The city is not liable for any deficiencies in the completeness, accuracy, content or fitness for any particular purpose or use of any public data set, or application utilizing such data set, provided by any third party.
 
 c. This chapter shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this chapter shall not result in liability to an agency.
+
+
 
 
 
@@ -358,7 +404,9 @@ e. Every two years, the department shall review the technical standards manual a
 
 
 
-*§ 23-506 Agency compliance plan. * ::
+
+
+*§ 23-506 Agency compliance plan.* ::
 
 
 a. Within eighteen months of the effective date of this chapter, the department shall submit a compliance plan to the mayor and the council and shall make such plan available to the public on the web portal. Each agency shall cooperate with the department in its preparation of such plan. The plan shall include a summary description of public data sets under the control of each agency on or after the effective date of this chapter, and shall prioritize such public data sets for inclusion on the single web portal on or before December 31, 2018 in accordance with the standards promulgated by the department pursuant to section 23-505 and shall create a timeline for their inclusion on the single web portal. If a public data set or sets cannot be made available on the single web portal on or before December 31, 2018, the plan shall state the reasons why such set or sets cannot be made available, and, to the extent practicable, the date by which the agency that owns the data believes that it will be available on the single web portal.
@@ -366,6 +414,8 @@ a. Within eighteen months of the effective date of this chapter, the department 
 b. For purposes of prioritizing public data sets, agencies shall consider whether information embodied in the public data set: (1) can be used to increase agency accountability and responsiveness; (2) improves public knowledge of the agency and its operations; (3) furthers the mission of the agency; (4) creates economic opportunity; or (5) responds to a need or demand identified by public consultation.
 
 c. No later than September fifteen, 2018, and every September fifteen thereafter, the department shall submit and post on the web portal an update of the compliance plan to the mayor and the council until all public data sets have been made available through a single web portal in compliance with this chapter. Such update shall include the specific measures undertaken to make public data sets available on the single web portal since the immediately preceding update, specific measures that will be undertaken prior to the next update, an update to the list of public data sets, if necessary, any changes to the prioritization of public data sets and an update to the timeline for the inclusion of data sets on the single web portal, if necessary. If a public data set cannot be made available on the single web portal on or before December 31, 2018, the update shall state the reasons why it cannot and, to the extent practicable, the date by which the agency believes that such public data set will be available on the single web portal.
+
+
 
 
 
@@ -382,10 +432,14 @@ The head of each agency shall designate an employee of such agency to serve as t
 
 
 
+
+
 *§ 23-508 Web portal site analytics.* ::
 
 
 The department shall collect, analyze and publish data on how users interact with the portal established pursuant to section 23-502. Such data shall include, but need not be limited to, number of page views, number of unique users and the location from which a user accesses such portal. Location shall not refer to any user’s internet protocol address and it shall not include the user’s personally identifying information.
+
+
 
 
 
@@ -417,7 +471,9 @@ No later than September fifteen, 2018, the department shall provide, and update 
 Chapter 6: City Issued Permits, Licenses, and Registrations
 --------------------------------------------------
 
-*§ 23-601 Mobile access to additional information. * ::
+
+
+*§ 23-601 Mobile access to additional information.* ::
 
 
 a. Any permit, license, or registration that is issued by any city agency, and which is required by any law or rule to be conspicuously posted or otherwise visible to the public, shall include technology or technologies, such as a quick response code or a near field communication tag, by which an individual with a properly equipped mobile device may directly access publicly available information maintained online by the agency relating specifically to such permit, license, or registration. "Scan for more info," or other similarly descriptive text describing the purpose or use of the technology, shall be printed near the technology or technologies on the permit, license, or registration.
@@ -431,6 +487,8 @@ c. The department of information technology and telecommunications, or any succe
 
 Chapter 7: Department of Health and Mental Hygiene
 --------------------------------------------------
+
+
 
 *§ 23-701. Restaurant inspection data.* ::
 
@@ -450,6 +508,8 @@ e. if monetary penalties are assessed, the amount of such penalty.
 
 
 
+
+
 *§ 23-702 School food service establishment inspection results.** ::
 
 
@@ -458,6 +518,8 @@ a. For the purposes of this section the term “school food service establishmen
 b. The department of education shall, for each school food service establishment in a school of the city school district, post on its website no fewer than three years of inspection results from the department of health and mental hygiene beginning with any inspection after September 1, 2017. Such inspection results shall show such school food service establishment’s degree of compliance with the provisions of the New York city health code, the state sanitary code and other applicable laws that require such establishments to operate in a sanitary manner so as to protect public health.
 
 c. The department of health and mental hygiene shall, for each school food service establishment for which inspection results are not posted pursuant to subdivision b, post on its website no fewer than three years of inspection results beginning with any inspection after September 1, 2017. Such inspection results shall show such school food service establishment’s degree of compliance with the provisions of the New York city health code, the state sanitary code and other applicable laws that require such establishments to operate in a sanitary manner so as to protect public health.
+
+
 
 
 
@@ -491,10 +553,14 @@ c. At least once every school year, the principal of every school of the city sc
 Chapter 8: City Websites
 --------------------------------------------------
 
+
+
 *§ 23-801 Access to translation.* ::
 
 
 Every website maintained by or on behalf of the city or a city agency shall include a translation feature for viewing the text of that website, wherever practicable, in languages other than English. Such translation feature shall be indicated by a means, other than or in addition to English, that is comprehensible to speakers of the seven most commonly spoken languages within the city as determined by the department of city planning, which may include a rotating language sequence.
+
+
 
 
 
@@ -516,6 +582,8 @@ b.  No later than July 1, 2017, and every two years thereafter, the mayor or the
 Chapter 10: Nondiscriminatory Access to Services
 --------------------------------------------------
 
+
+
 *§ 23-1001 Definitions.* ::
 
 
@@ -524,6 +592,8 @@ For the purposes of this chapter:
 ADA. "ADA" means the Americans with Disabilities Act, 42 U.S.C. § 12101, et seq.
 
 ADA coordinator. "ADA coordinator" means the employee designated by an agency pursuant to 28 CFR § 35.107.
+
+
 
 
 
@@ -566,6 +636,8 @@ d. Each agency shall post the name, office address, electronic mail address, and
 
 
 
+
+
 *§ 23-1003 Notification of accessibility for events open to the public.* ::
 
 
@@ -595,6 +667,8 @@ e. The mayor's office for people with disabilities shall develop, make available
 Chapter 11: Language Access
 --------------------------------------------------
 
+
+
 *§ 23-1101 Definitions.* ::
 
 
@@ -605,6 +679,8 @@ a. For the purposes of this chapter, the following terms shall have the followin
    Designated citywide languages. The term “designated citywide languages” means the top six limited English proficiency languages spoken by the population of New York city as determined by the department of city planning and the office of the language services coordinator, based on United States census data; and the top four limited English proficiency languages spoken by the population served or likely to be served by the agencies of the city of New York as determined by the office of the language services coordinator, based on language access data collected by the department of education, excluding the languages designated based on United States census data.
 
    Direct public services. The term “direct public services” shall mean services administered by an agency directly to program beneficiaries, participants, or applicants.
+
+
 
 
 
@@ -660,6 +736,8 @@ d. Each covered agency shall update its language access implementation plan, bas
 Chapter 12: Identifying Information
 --------------------------------------------------
 
+
+
 *§ 23-1201 Definitions.* ::
 
 
@@ -684,6 +762,8 @@ Routine collection or disclosure. The term “routine collection or disclosure�
 Subcontractor. The term "subcontractor" means a person who is a party to a contract with a contractor to provide human services, or other services designated in policies and protocols of the chief privacy officer.
 
 Third party. The term “third party” means any person other than: (i) personnel of the city, the department of education, or a local public benefit corporation or local public authority, or (ii) personnel of a contractor or subcontractor where such contractor or subcontractor is authorized to possess the relevant identifying information.
+
+
 
 
 
@@ -772,6 +852,8 @@ i. Construction. Nothing in this chapter shall prohibit city officers and employ
 
 
 
+
+
 *§ 23-1203 Policies and protocols of the chief privacy officer.* ::
 
 
@@ -794,6 +876,8 @@ The policies and protocols promulgated by the chief privacy officer pursuant to 
 8. require the privacy officer of each city agency to arrange for dissemination of information to agency employees, contractors, and subcontractors and develop a plan for compliance with this chapter and any policies and protocols developed under this chapter; and
 
 9. establish a mechanism for accepting and investigating complaints for violations of this chapter.
+
+
 
 
 
@@ -844,6 +928,8 @@ c. No later than October 30, 2018, the committee shall communicate its final rec
 d. Within 90 days of receiving any final recommendations of the committee, the chief privacy officer shall adopt policies and protocols, in accordance with sections 23-1202 and 23-1203, as necessary or appropriate in furtherance of this chapter.
 
 e. No information that is otherwise required to be reported or disclosed pursuant to this section shall be reported or disclosed in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of information or that would interfere with a law enforcement investigation or other investigative activity by an agency or would compromise public safety.
+
+
 
 
 

@@ -4,7 +4,9 @@ Title 2: City of New York
 Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 --------------------------------------------------
 
-*§ 2-101 Name; powers and rights of the corporation; seal. * ::
+
+
+*§ 2-101 Name; powers and rights of the corporation; seal.* ::
 
 
 The city shall be a body politic and corporate in fact and in law with power to contract and to be contracted with, to sue and be sued, to have a common seal and to have perpetual succession.
@@ -12,7 +14,9 @@ The city shall be a body politic and corporate in fact and in law with power to 
 
 
 
-*§ 2-102 City seal. * ::
+
+
+*§ 2-102 City seal.* ::
 
 
 a. Description. The following is hereby adopted as the device of the corporate seal of the city of New York, to-wit:
@@ -49,7 +53,9 @@ d. Use of. Such seal shall be used for all requisite purposes. All representatio
 
 
 
-*§ 2-103 Official city flag. * ::
+
+
+*§ 2-103 Official city flag.* ::
 
 
 a. The following design is hereby adopted as the design of the official flag of the city:
@@ -63,7 +69,9 @@ c. The American flag shall be displayed on all city-owned or other buildings occ
 
 
 
-*§ 2-104 Official flag—borough of the Bronx. * ::
+
+
+*§ 2-104 Official flag—borough of the Bronx.* ::
 
 
 a. The following design is hereby adopted as the design of the official flag of the borough of the Bronx.
@@ -75,7 +83,9 @@ b. This flag may be displayed at reviews, parades, receptions and other civic fu
 
 
 
-*§ 2-105 Official flag; borough of Brooklyn. * ::
+
+
+*§ 2-105 Official flag; borough of Brooklyn.* ::
 
 
 a. The following description is hereby adopted as the description of the official flag of the borough of Brooklyn. A white background in the center of which is the design of the seal. Within the seal appears a figure of the goddess of justice in gold holding Roman fasces in her left hand set on a background of light blue. Encircling her figure on a background of dark blue appear the words "Een Draght Mackt Maght" the old Dutch motto for "In unity there is strength" and below the words "borough of Brooklyn." The outside and inside trim of the seal is gold.
@@ -85,7 +95,9 @@ b. This flag may be displayed at reviews, parades, receptions and other civic fu
 
 
 
-*§ 2-106 Daylight saving time; effect thereof on public proceedings. * ::
+
+
+*§ 2-106 Daylight saving time; effect thereof on public proceedings.* ::
 
 
 The standard time throughout the city of New York is that of the seventy-fifth meridian of longitude west from Greenwich, except that at two o'clock ante-meridian of the last Sunday in April of each year such standard time throughout the city shall be advanced one hour, and at two o'clock ante-meridian of the last Sunday in October of each year, such standard time shall, by the retarding of one hour, be returned to the mean astronomical time of the seventy-fifth meridian of longitude west from Greenwich, and all courts, public offices and legal and official proceedings shall be regulated thereby.
@@ -96,7 +108,9 @@ The standard time throughout the city of New York is that of the seventy-fifth m
 Chapter 2: Boundaries of the City
 --------------------------------------------------
 
-*§ 2-201 The city of New York, territory thereof and extent of jurisdiction and powers. * ::
+
+
+*§ 2-201 The city of New York, territory thereof and extent of jurisdiction and powers.* ::
 
 
 All that territory within the city being all that territory contained within the boroughs of Manhattan, The Bronx, Brooklyn, Queens and Staten Island as hereafter described, shall be known as "The City of New York"; and the boundaries, jurisdictions and powers of the city are for all purposes of local administration and government hereby declared to be co-extensive with the territory above described.
@@ -104,7 +118,9 @@ All that territory within the city being all that territory contained within the
 
 
 
-*§ 2-202 Division into boroughs and boundaries thereof. * ::
+
+
+*§ 2-202 Division into boroughs and boundaries thereof.* ::
 
 
 The city of New York is hereby divided into five boroughs to be designated, respectively: Manhattan, The Bronx, Brooklyn, Queens and Staten Island.
@@ -124,7 +140,9 @@ The city of New York is hereby divided into five boroughs to be designated, resp
 
 
 
-*§ 2-203 Power to mark boundaries and to make surveys. * ::
+
+
+*§ 2-203 Power to mark boundaries and to make surveys.* ::
 
 
 The mayor shall have the power to direct the president of any borough to mark any boundary line or lines of the city, as such boundary line or lines is or are determined in and by the code, so as to distinguish and define the boundaries of the city, the boundaries of the boroughs, and any other boundary line or lines determined in and by the code, by such monuments as may be authorized by the mayor.

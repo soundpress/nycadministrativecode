@@ -4,7 +4,9 @@ Title 18: Parks
 Chapter 1: Department of Parks and Recreation
 --------------------------------------------------
 
-*§ 18-101 Department of parks and recreation; commissioner. * ::
+
+
+*§ 18-101 Department of parks and recreation; commissioner.* ::
 
 
 a. Definitions. Whenever used in this title, the following terms shall have the following meanings:
@@ -18,7 +20,9 @@ b. The commissioner may delegate to an executive officer, an assistant executive
 
 
 
-*§ 18-102 Uniform force. * ::
+
+
+*§ 18-102 Uniform force.* ::
 
 
 a. The members of the department shall be divided into the administrative and clerical force and the uniformed force.
@@ -28,7 +32,9 @@ b. The commissioner, from time to time, shall prescribe distinctive uniforms, ba
 
 
 
-*§ 18-103 Trees and vegetation; definitions. * ::
+
+
+*§ 18-103 Trees and vegetation; definitions.* ::
 
 
 Whenever the word "street" or the plural thereof occurs in sections 18-104, 18-105 and 18-106 of this title, it shall be deemed to include all that is included by the terms street, avenue, road, alley, lane, highway, boulevard, concourse, public square, and public place, or the plurals thereof respectively; the word "tree" or the plural thereof shall be deemed to include all forms of plants having permanent woody self-supporting trunks; the word "vegetation" shall be deemed to include plants collectively of whatever name or nature not included under the term "tree".
@@ -36,7 +42,9 @@ Whenever the word "street" or the plural thereof occurs in sections 18-104, 18-1
 
 
 
-*§ 18-104 Trees and vegetation; jurisdiction. * ::
+
+
+*§ 18-104 Trees and vegetation; jurisdiction.* ::
 
 
 The planting, care and cultivation of all trees and other forms of vegetation in streets shall be under the exclusive jurisdiction of the commissioner, except as otherwise provided in section 18-105 of this title. The commissioner is authorized to use such portions of the parks, for the cultivation of tree plants, as he or she may set apart for that purpose, without detriment to the parks in which such nurseries are established, to enable him or her at all times to have tree plants adapted for growth under the varying conditions of soil and surroundings in streets.
@@ -44,7 +52,9 @@ The planting, care and cultivation of all trees and other forms of vegetation in
 
 
 
-*§ 18-105 Trees under private or public ownership; care and cultivation. * ::
+
+
+*§ 18-105 Trees under private or public ownership; care and cultivation.* ::
 
 
 All trees in streets, which on investigation are found to be without ownership, shall be under the exclusive care and cultivation of the commissioner, and such commissioner shall employ the most improved methods for the protection and cultivation of the trees selected for preservation, and remove those condemned as unfit for cultivation. Trees found to be in the care of individual owners, corporations, societies, or associations, shall not be subject to the jurisdiction of the commissioner, unless the owners thereof make written application to the commissioner to have such trees transferred to his or her care. If the commissioner approves such transfer, he or she shall forthwith assume full control thereof and the former owner shall be relieved of all expense connected with the cultivation of such trees. In all cases where land-owners, societies or associations elect to plant and cultivate their own trees in streets, such planting and cultivation must conform to the rules and regulations adopted by the commissioner. The commissioner may, however, on the written application of any land-owner, plant and cultivate trees on the streets adjoining his or her land and charge for such service an amount not to exceed the actual cost to the department for labor and materials.
@@ -52,7 +62,9 @@ All trees in streets, which on investigation are found to be without ownership, 
 
 
 
-*§ 18-105.1 Trees, bushes and other vegetation obstructing a traffic signal or device. * ::
+
+
+*§ 18-105.1 Trees, bushes and other vegetation obstructing a traffic signal or device.* ::
 
 
 a. Definitions. For purposes of this section, the following terms shall have the following meanings:
@@ -74,7 +86,9 @@ e. The department shall maintain a log of all notices of the type described in s
 
 
 
-*§ 18-106 Tree planting; permission of commissioner of transportation. * ::
+
+
+*§ 18-106 Tree planting; permission of commissioner of transportation.* ::
 
 
 In performing the duties required by sections 18-104 and 18-105 of this title, the commissioner shall not make openings or excavations in any street for the purpose of planting or cultivating trees, without having first obtained the written approval of the commissioner of transportation nor shall any tree be so planted as to permanently interfere with the ordinary usage of the street, nor shall the planting be performed in any case so as to injure or impair any sewer, drain, water pipe, or other structure erected by legal authority.
@@ -82,7 +96,9 @@ In performing the duties required by sections 18-104 and 18-105 of this title, t
 
 
 
-*§ 18-107 Replacement of trees. * ::
+
+
+*§ 18-107 Replacement of trees.* ::
 
 
 a. Any person that intends to remove any tree that is within the jurisdiction of the commissioner, shall obtain a permit from the department prior to such removal.
@@ -100,7 +116,9 @@ f. The provisions of this section shall apply to all city agencies, including th
 
 
 
-*§ 18-108 Public beaches; jurisdiction. * ::
+
+
+*§ 18-108 Public beaches; jurisdiction.* ::
 
 
 All public beaches laid out on the map or plan of the city shall be under the jurisdiction of the commissioner. The commissioner shall also have charge of the care and maintenance thereof and shall prominently post each beach as having "polluted waters not recommended for bathing" as periodically determined by the commissioner of health.
@@ -108,7 +126,9 @@ All public beaches laid out on the map or plan of the city shall be under the ju
 
 
 
-*§ 18-108.1 Prohibitions on beaches. * ::
+
+
+*§ 18-108.1 Prohibitions on beaches.* ::
 
 
 a. For the purposes of this section, the following terms shall have the following meanings:
@@ -156,7 +176,9 @@ i. The commissioner, in consultation with the police commissioner, shall promulg
 
 
 
-*§ 18-109 Setbacks along boardwalks and beaches. * ::
+
+
+*§ 18-109 Setbacks along boardwalks and beaches.* ::
 
 
 a. Any building, whether new or altered, abutting on any boardwalk or public beach that has or is to have an open front or fronts, or in which business is or is intended to be done through windows or doorways, shall have and maintain an adequate setback satisfactory to the commissioner of buildings, such setback to be not less than four feet.
@@ -168,7 +190,9 @@ c. This section shall not prevent or make unlawful the installation of footings 
 
 
 
-*§ 18-110 Public beaches; life-saving apparatus. * ::
+
+
+*§ 18-110 Public beaches; life-saving apparatus.* ::
 
 
 The commissioner may furnish, erect and maintain on any public beach any life-saving apparatus, appliances and paraphernalia, for the protection and safety of bathers which any law, rule or regulation now or hereafter may require keepers of bathing establishments along the seashore to furnish and maintain. During such period as the commissioner shall furnish and maintain the same, the duty of keepers of bathing establishments on, near or along the inshore line of any such public beach to do so shall be suspended. If for any period the commissioner shall not furnish and maintain the same such commissioner shall, under such rules and regulations as he or she may establish therefor, issue permits to such keepers to furnish, erect and maintain the same.
@@ -176,7 +200,9 @@ The commissioner may furnish, erect and maintain on any public beach any life-sa
 
 
 
-*§ 18-111 Gifts of real and personal property. * ::
+
+
+*§ 18-111 Gifts of real and personal property.* ::
 
 
 a. Gifts of real and personal property, except such surplus animals and duplicate specimens as the commissioner may deem it judicious to dispose of by sale or otherwise, shall be forever properly protected, preserved and arranged for public use and enjoyment.
@@ -186,7 +212,9 @@ b. The commissioner, with his or her annual report, shall make a statement of th
 
 
 
-*§ 18-112 Restrictions on Eastern parkway, etc. * ::
+
+
+*§ 18-112 Restrictions on Eastern parkway, etc.* ::
 
 
 a. It shall be unlawful for buildings or other erections, except porches, piazzas, fences, fountains and statuary to remain or at any time to be placed upon any of the lots fronting upon Eastern parkway, from Washington avenue easterly to the extension of Eastern parkway, or upon the extension of Eastern parkway to Bushwick avenue, within thirty feet from the line or sides of such streets respectively.
@@ -200,7 +228,9 @@ d. It shall be unlawful to erect, establish or carry on, in any manner whatever,
 
 
 
-*§ 18-113 Restrictions on Ocean parkway. * ::
+
+
+*§ 18-113 Restrictions on Ocean parkway.* ::
 
 
 a. It shall be unlawful for buildings or other erections, except porches, piazzas, fences, fountains and statuary, to remain or at any time to be placed upon Ocean parkway within thirty feet from the outside lines thereof. In addition thereto, such space on each side of such parkway shall be used only for courtyards, and may be planted with trees and shrubbery, and may be otherwise ornamented at the discretion of the respective owners or occupants thereof. Such use and ornamentation shall be under the direction of the department.
@@ -212,7 +242,9 @@ c. This section shall not prevent or make unlawful the installation of footings 
 
 
 
-*§ 18-114 Coney island oceanarium. * ::
+
+
+*§ 18-114 Coney island oceanarium.* ::
 
 
 The commissioner may enter into an agreement with the New York Zoological Society for the operation and maintenance by such New York Zoological Society of certain premises and approaches thereto to be constructed at Coney Island in the borough of Brooklyn, to be known as the oceanarium, and for the adequate keeping, maintenance, extension, preservation, management, operation and exhibition by such New York Zoological Society of collections of aquatic animals and plants therein and for the furnishing by such New York Zoological Society of opportunities for study, research and publication in connection with such collections. Such contract shall become effective only upon the approval of the mayor. Upon the making of such contract, the city may annually, in its discretion, appropriate to the said New York Zoological Society such sum or sums as it may determine for the maintenance and support of the said oceanarium and the activities of the said New York Zoological Society in connection therewith.
@@ -220,7 +252,9 @@ The commissioner may enter into an agreement with the New York Zoological Societ
 
 
 
-*§ 18-115 Richmondtown exhibit. * ::
+
+
+*§ 18-115 Richmondtown exhibit.* ::
 
 
 a. The commissioner may enter into an agreement with the Staten Island Historical Society for the further restoration, operation, maintenance and management of the historical village known as Richmondtown, located at Richmondtown in the borough of Richmond, and for the operation, maintenance and exhibition by such Staten Island Historical Society of the group of historical buildings and museums therein containing exhibits portraying community life on Staten Island from the seventeenth through the nineteenth centuries. Such contract shall become effective only upon the approval of the mayor.
@@ -232,7 +266,9 @@ c. The building or buildings and grounds so to be operated by the Staten Island 
 
 
 
-*§ 18-116 Garage in Lincoln Square Performing Arts Center. * ::
+
+
+*§ 18-116 Garage in Lincoln Square Performing Arts Center.* ::
 
 
 The mayor, upon the recommendation of the commissioner, may provide for the construction by the city acting by the commissioner and for the operation and maintenance by the city through the commissioner or by a person, firm or corporation under permit or license from the commissioner, with the approval of the mayor, of a surface or subsurface garage upon and under the public park property in Lincoln Square Performing Arts Center for the purpose of accommodating persons using the facilities included in the Performing Arts Center and the adjacent public parks. With the consent of the mayor and upon obtaining the approvals of the departments having jurisdiction of the subject matter involved herein, the commissioner may provide for the sale of gasoline and oil and the furnishing of minor motor vehicle repairs and services in such garage premises, notwithstanding the provisions of any law, rule, regulation or zoning resolution of the city to the contrary.
@@ -240,7 +276,9 @@ The mayor, upon the recommendation of the commissioner, may provide for the cons
 
 
 
-*§ 18-117 Perkins arboretum. * ::
+
+
+*§ 18-117 Perkins arboretum.* ::
 
 
 a. The commissioner shall have jurisdiction over and may conduct, operate and maintain or enter into an agreement as authorized by subdivision c of this section, for the conduct, operation and maintenance of certain premises formerly owned by Evelina B. Perkins and Dorothy Perkins Freeman located at Riverdale in the borough of the Bronx and conveyed to the city, as an arboretum to be known as the Perkins Garden to be used:
@@ -268,7 +306,9 @@ f. It is the intent of the legislature in enacting subdivision e of this section
 
 
 
-*§ 18-118 Renting of stadium in Flushing Meadow park; exemption from down payment requirements. * ::
+
+
+*§ 18-118 Renting of stadium in Flushing Meadow park; exemption from down payment requirements.* ::
 
 
 a. Notwithstanding any other provision of law, general, special or local, the city, acting by the commissioner, with the approval of the board of estimate, is hereby authorized and empowered from time to time to enter into contracts, leases or rental agreements with, or grant licenses, permits, concessions or other authorizations to, any person or persons, upon such terms and conditions, for such consideration, and for such term of duration as may be agreed upon by the city and such person or persons, whereby such person or persons are granted the right, for any purpose or purposes referred to in subdivision b of this section, to use, occupy or carry on activities in, the whole or any part of a stadium, with appurtenant grounds, parking areas and other facilities, to be constructed by the city on certain tracts of land described in subdivision c of this section, being a part of Flushing Meadow park and situated in the borough of Queens, city and state of New York, title to which tracts is now in the city. Prior to or after the expiration or termination of the terms of duration of any contracts, leases, rental agreements, licenses, permits, concessions or other authorizations entered into or granted pursuant to the provisions of this subdivision and subdivision b of this section, the city, in accordance with the requirements and conditions of this subdivision and subdivision b of this section, may from time to time enter into amended, new, additional or further contracts, leases or rental agreements with, and grant new, additional or further licenses, permits, concessions or other authorizations to, the same or any other person or persons for any purpose or purposes referred to in subdivision b of this section.
@@ -288,7 +328,9 @@ e. Notwithstanding the provisions of section 107.00 of the local finance law, fo
 
 
 
-*§ 18-119 Queens Zoological and Botanical Gardens. * ::
+
+
+*§ 18-119 Queens Zoological and Botanical Gardens.* ::
 
 
 The commissioner may enter into an agreement with New York World's Fair 1964-1965 Corporation and the Queens Botanical Garden Society, Inc. for the operation and maintenance by such Queens Botanical Garden Society, Inc. of the botanical garden and arboretum which was constructed by New York World's Fair 1964-1965 Corporation in Kissena Corridor Park in the borough of Queens on land now under lease from the city of New York to the New York World's Fair 1964-1965 Corporation, and for the adequate keeping, maintenance, extension, preservation, management, and operation of such botanical garden and arboretum for the collection and culture of plants, flowers, shrubs and trees, the advancement of botanical science and knowledge and the prosecution of original researches therein and in kindred subjects, for affording instruction in the same, for the prosecution and exhibition of ornamental and decorative horticulture and gardening, and for the entertainment, recreation and instruction of the people. The term of such agreement shall commence upon the completion of construction of such botanical garden and arboretum. Such agreement shall become effective only upon the approval of the mayor and may provide, in addition to other terms and conditions, for use, with the approval of New York World's Fair 1964-1965 Corporation, of such botanical garden and aboretum for exhibits connected with the World's Fair held in the city of New York during the years nineteen hundred sixty-four-nineteen hundred sixty-five and for membership on the board of directors of Queens Botanical Garden Society, Inc. of the mayor and the commissioner and the president of the borough of Queens, and their successors in office. The commissioner may enter into an agreement with Queens Botanical Garden Society, Inc. for the operation and maintenance by Queens Botanical Garden Society, Inc. of a zoo on the land hereinabove described, or other park land which may be made available for such purpose in the future, and for the adequate keeping, maintenance, extension, preservation, management and operation of such zoo for the exhibition of animals and birds, all for the instruction, entertainment, and recreation of the people. Said agreement may also provide for the construction of such zoo by the New York World's Fair 1964-1965 Corporation, the city of New York or both. Such agreement shall become effective only upon the approval of the mayor. Upon completion of the construction of said botanical garden and arboretum, the city may annually, in its discretion, appropriate for the Queens Botanical Garden Society, Inc. such sum or sums as it may determine for the construction, keeping, maintenance, extension, preservation, management and operation of the said zoo, botanical garden and arboretum and the activities of the Queens Botanical Garden Society, Inc. in connection therewith. The facilities operated and maintained by said Queens Botanical Garden Society, Inc. pursuant to the agreement or agreements referred to in this section shall be known as and bear the name "Queens Zoological and Botanical Gardens." All references in this section to Queens Botanical Garden Society, Inc. shall be deemed to refer to that corporation under its present name or under any name which shall hereafter be used by it.
@@ -296,7 +338,9 @@ The commissioner may enter into an agreement with New York World's Fair 1964-196
 
 
 
-*§ 18-120 Hall of science. * ::
+
+
+*§ 18-120 Hall of science.* ::
 
 
 The commissioner, subject to the approval of the mayor, may enter into an agreement with a nonprofit corporation or association organized or to be organized for the sole purpose of operating and maintaining a scientific exhibit or exhibits, for the construction, occupation, operation and maintenance by such corporation or association of a hall of science or scientific exhibits within Flushing Meadow park in the borough of Queens and for the adequate keeping, maintenance, extension, preservation, management and operation of such hall of science and scientific exhibits for affording instruction in the same and for the exhibition of scientific matters and objects for the entertainment, recreation and instruction of the people. Such contract may provide in addition to other terms and conditions, for use, with the approval of the New York World's Fair 1964-1965 Corporation, of such facilities for scientific exhibits connected with the World's Fair held in the city of New York during the years nineteen hundred sixty-four-nineteen hundred sixty-five as said New York World's Fair 1964-1965 Corporation shall agree to and for the continued use of such facilities and exhibits thereafter and for membership on the board of directors of such corporation or association of the mayor and the commissioner and the president of the borough of Queens, and their successors in office. Upon the making of such contract or agreement, the city may annually, in its discretion, appropriate to the corporation or association maintaining such hall of science and other exhibits such sum or sums as it may determine for the maintenance and support thereof and the activities in connection therewith.
@@ -304,7 +348,9 @@ The commissioner, subject to the approval of the mayor, may enter into an agreem
 
 
 
-*§ 18-121 High Rock Park Nature Conservation Center. * ::
+
+
+*§ 18-121 High Rock Park Nature Conservation Center.* ::
 
 
 The commissioner, notwithstanding the provisions of section 15.09 of the parks, recreation and historic preservation law, may enter into an agreement with the Staten Island Institute of Arts and Sciences, for a period of not more than ten years, for the maintenance and operation of a nature conservation center on premises known as High Rock Park. Such agreement shall become effective only upon approval by the mayor. Said agreement shall include a clause providing for its termination if the institute ceases to be a non-profit membership corporation, no part of the net earnings of which inures to the benefit of any member thereof. The conservation center shall serve the entertainment, recreational and educational needs of the people, and necessary incidental and informational services may be rendered. All references in this section to the Staten Island Institute of Arts and Sciences shall be deemed to refer to the corporation under its present name or under any name which shall hereafter be used by it.
@@ -312,7 +358,9 @@ The commissioner, notwithstanding the provisions of section 15.09 of the parks, 
 
 
 
-*§ 18-122 Bicycle and tricycle areas in parks. * ::
+
+
+*§ 18-122 Bicycle and tricycle areas in parks.* ::
 
 
 a. Legislative intent. The city council hereby declares that a drastically high number of adults and children are annually killed and injured by motor vehicles while operating bicycles and tricycles in the streets of our city and countless pedestrians have been injured by the operation of bicycles and tricycles on sidewalks and pedestrian walks in parks. Although the riding of bicycles and tricycles is healthy and wholesome and a normal activity for developing youngsters, the streets and sidewalks of the city of New York are highly congested and, in most areas, dangerous. The safety of the children of New York city requires that a maximum number of off-street areas be developed for the operation of bicycles and tricycles in local communities, and it is impossible to adequately meet this problem except by a large centralized riding area in each borough. It is the intent of the council to assure the broad development of such a program by this legislation.
@@ -328,7 +376,9 @@ b. Designation areas.
 
 
 
-*§ 18-123 Brooklyn Children's Museum in Brower Park. * ::
+
+
+*§ 18-123 Brooklyn Children's Museum in Brower Park.* ::
 
 
 The commissioner of cultural affairs may enter into an agreement with the Brooklyn Children's Museum, Inc. for the maintenance and operation by the Brooklyn Children's Museum, Inc. of the Brooklyn Children's Museum situated in Brower Park, in the borough of Brooklyn, as the same is presently constructed and established, and as it may be enlarged and improved. Such agreement shall become effective only upon approval by the mayor. Upon the making of such contract, the city may, in its discretion, annually appropriate to the Brooklyn Children's Museum, Inc. such sum or sums of money as it may determine are needed for the maintenance and support of the said Brooklyn Children's Museum and the activities of the Brooklyn Children's Museum, Inc. in connection therewith.
@@ -336,7 +386,9 @@ The commissioner of cultural affairs may enter into an agreement with the Brookl
 
 
 
-*§ 18-124 Art museum. * ::
+
+
+*§ 18-124 Art museum.* ::
 
 
 The commissioner, subject to the approval of the mayor, may enter into an agreement with a nonprofit corporation or association, organized or to be organized for the purpose of establishing, operating and maintaining an art museum, for the occupation, operation and maintenance by such corporation or association of an art museum in any existing building or buildings or part thereof or in any building or buildings or part thereof hereafter to be constructed in Flushing Meadow park, in the borough of Queens and for the adequate keeping, maintenance, extension, preservation, management and operation of such art museum, for the collection and exhibition of objects of art, the advancement of knowledge concerning art, the prosecution of original researches relating to art and kindred subjects, for affording instruction in the same and for the entertainment, recreation and instruction of the people. Such agreement may provide, in addition to other terms and conditions, for membership on the board of directors or board of trustees of such corporation or association of the mayor and the commissioner and the president of the borough of Queens, and their successors in office. Upon the making of such agreement, the city of New York may annually, in its discretion, appropriate to the corporation or association maintaining such art museum such sum or sums as it may determine for the maintenance and support thereof and the activities in connection therewith.
@@ -344,7 +396,9 @@ The commissioner, subject to the approval of the mayor, may enter into an agreem
 
 
 
-*§ 18-125 Thomas Pell Wildlife Refuge and Sanctuary. * ::
+
+
+*§ 18-125 Thomas Pell Wildlife Refuge and Sanctuary.* ::
 
 
 The commissioner shall set aside as a haven and preserve for wildlife, four sections of park lands in the northwestern portion of Pelham Bay Park designated on the official maps of the department as proposed sanitation landfill areas II, III, IV and VI, broadly described as follows:
@@ -360,7 +414,9 @@ The commissioner shall set aside as a haven and preserve for wildlife, four sect
 
 
 
-*§ 18-126 Hunter Island Marine Zoology and Geology Sanctuary. * ::
+
+
+*§ 18-126 Hunter Island Marine Zoology and Geology Sanctuary.* ::
 
 
 The commissioner shall set aside as a zoological and geological haven and preserve, the section of park lands and lands under water in the northeastern portion of Pelham Bay park designated on the official maps of the department as proposed sanitation land fill area V broadly described as follows: Area V, an irregular N-shaped area of marsh lands and lands under water running from a point where the sand of Orchard beach terminate in Long Island sound at the extreme northern tip of the beach, thence northwesterly to the eastern shore of Hunter island, thence northeast along the high water mark line of the eastern shore of Hunter island to that point of the island which still faces east into Long Island sound, thence in a wide arc going easterly and southerly, through the waters of Long Island sound, including within the arc the islands known as Cat Briars island or One Tree island, and Twin islands, back to the point of beginning. The commissioner may enter into an agreement with a nonprofit organization for the operation and maintenance by such organization of the areas hereinabove referred to for the adequate keeping, maintenance, management, operation and preservation by such organization of the animals, aquatic animals, migratory and resident fowl and songbirds, fish and other glacial or post glacial flora and fauna indigenous to the area, to establish collections of specimens and provide interested individual nature lovers and educational institutions with opportunities for study and research in the areas. Upon the making of such agreement, the city may annually, in its discretion, appropriate to the operating organization such sum as it may determine for the maintenance and support of the Hunter Island Marine Zoology and Geology Sanctuary and the activities of the operating organization in connection therewith. The failure of the commissioner to enter into such an agreement shall in no way alter the status of the above described areas as a marine zoology and geology sanctuary.
@@ -368,7 +424,9 @@ The commissioner shall set aside as a zoological and geological haven and preser
 
 
 
-*§ 18-127 Central Park Zoo; Flushing Meadow Zoo; Prospect Park Zoo. * ::
+
+
+*§ 18-127 Central Park Zoo; Flushing Meadow Zoo; Prospect Park Zoo.* ::
 
 
 Notwithstanding any other provision of law, the commissioner may enter into agreements with the New York Zoological Society for the planning, maintenance and operation by such society of zoos and zoological parks on the premises known as the Flushing Meadow Zoo, the Prospect Park Zoo and/or the Central Park Zoo, for the transfer of the animal collections and equipment at such zoos to such society and for purposes and programs incidental and related thereto. Such agreements shall become effective upon approval by the board of estimate.
@@ -376,7 +434,9 @@ Notwithstanding any other provision of law, the commissioner may enter into agre
 
 
 
-*§ 18-128 Renting of tennis stadium and center in Flushing Meadows-Corona Park. * ::
+
+
+*§ 18-128 Renting of tennis stadium and center in Flushing Meadows-Corona Park.* ::
 
 
 a. Notwithstanding any other provision of law, general, special or local, the city, acting by the commissioner is hereby authorized and empowered to enter into contracts, long-term leases or rental agreements with, or grant licenses, permits, concessions or other authorizations to, the USTA National Tennis Center Incorporated, its affiliates, successors or mortgagees, or assigns in connection with or pursuant to a mortgage or other financing (including an assignment by a mortgagee) ("NTC") upon such terms and conditions, for such consideration, and for such term of duration as may be agreed upon by the city and the NTC, whereby the NTC is granted the right, for any purpose or purposes referred to in subdivision b of this section, to use, occupy or carry on activities on certain tracts of land described in subdivision c of this section, including the facilities constructed on such tracts of land, being a part of Flushing Meadows-Corona Park and situated in the borough of Queens, city and state of New York, title to which tracts is now in the city, with rights of ingress and egress thereto and therefrom, together with appurtenant rights to use areas within the park other than those described in subdivision c of this section, upon such terms and conditions as agreed upon by the commissioner, for up to sixty days in any calendar year for ancillary parking to support the U.S. Open Tennis Championships or other similar competitive tennis events. Prior to or after the expiration or termination of the terms of duration of any contracts, leases, rental agreements, licenses, permits, concessions or other authorizations entered into or granted pursuant to the provisions of this subdivision and subdivision b of this section, the city, in accordance with the requirements and conditions of this subdivision and subdivision b of this section, may from time to time enter into amended, new, additional or further contracts, leases or rental agreements with, and grant new, additional or further licenses, permits, concessions or other authorizations to the NTC or other person for any purpose or purposes referred to in subdivision b of this section; provided however, that any such lease entered into with a person other than the NTC shall not exceed a period of more than one year and shall not be renewable; and provided further that upon the expiration of such one year period, the city may not enter into any further leases for the lands and facilities described in this section.
@@ -440,7 +500,9 @@ d. The tracts of land required by this act to be surrendered by the NTC from the
 
 
 
-*§ 18-128.1 Snug Harbor. * ::
+
+
+*§ 18-128.1 Snug Harbor.* ::
 
 
 a. Notwithstanding any other provision of law, general, special or local the city, acting by the commissioner of parks and recreation and the commissioner of cultural affairs with the approval of the board of estimate, is hereby authorized and empowered to transfer, grant, demise or let to the Snug Harbor Cultural Center, Inc. or other not-for-profit corporation or corporations, or a local development corporation or corporations, or any combination thereof, their successors or assigns (individually or collectively, herein referred to as "NPC") by contract, lease, license or other instrument, upon such terms and conditions as shall be agreed upon between the city and NPC, the right, for any purpose or purposes referred to in subdivisions b and c of this section, to use, occupy, license, lease or carry on or cause to be carried on activities in or on the whole or any part of the tracts of land described in subdivision d of this section, including the buildings and other facilities thereon, which tracts are situated in the borough of Staten Island and are commonly known as Snug Harbor.
@@ -622,7 +684,9 @@ Beginning at a point on the northerly line of the lands of the Staten Island Rap
 
 
 
-*§ 18-128.2 Bryant Park. * ::
+
+
+*§ 18-128.2 Bryant Park.* ::
 
 
 a. Notwithstanding the provisions of section three hundred eighty-three of the New York city charter and section twenty of the general city law or any other law prohibiting the alienation of park lands, the city, acting by the commissioner with the approval of the board of estimate, is hereby authorized and empowered to lease to Bryant Park Restoration Corporation ("BPRC"), a not-for-profit corporation organized under the laws of the state of New York for the purpose of assisting the city in restoring and maintaining Bryant Park, for the purposes referred to in subdivision b of this section, upon such terms and conditions and for such duration as shall be agreed upon by the city, The New York Public Library, Astor, Lenox and Tilden Foundations ("NYPL") and BPRC, all or part of the tract of land situated in the borough of Manhattan known as the west terrace of the New York Public Library (the "West Terrace"), and more particularly described as follows: ALL THAT CERTAIN PLOT, piece or parcel of land, comprising a portion of that land known as Bryant Park, with the buildings and improvements thereon erected, situate, lying and being in the Borough of Manhattan, City and State of New York, bounded and described as follows: BEGINNING at a point lying along the south side of West 42nd Street, 482 feet west of the intersection formed by the said south side of West 42nd Street and the west side of Fifth Avenue, and running thence easterly along the south side of West 42nd Street 119 feet to a point lying along said southerly side of West 42nd Street; thence southerly, along the rear wall of the New York Public Library Building, 455 feet to the northerly side of West 40th Street; thence westerly along the northerly side of West 40th Street 119 feet; thence northerly 455 feet to the point or place of BEGINNING. Notwithstanding the foregoing provision, such grant shall not include any portion of the building erected, constructed, equipped and furnished pursuant to chapter five hundred fifty-six of the laws of eighteen hundred ninety-seven (the "NYPL Building"), including appurtenances thereto, except upon the written approval of NYPL.
@@ -632,7 +696,9 @@ b. The grant referred to in subdivision a of this section may authorize BPRC to 
 
 
 
-*§ 18-129 Fines for unlawful cutting of trees on department property. * ::
+
+
+*§ 18-129 Fines for unlawful cutting of trees on department property.* ::
 
 
 a. It shall be unlawful for any individual, firm, corporation, agent, employee or person under the control of such individual, firm or corporation to cut, remove or in any way destroy or cause to be destroyed, any tree or other form of vegetation on public property under the jurisdiction of the commissioner without acquiring written consent from the commissioner. The foregoing provision shall not apply to department employees who are engaged in the proper and authorized performance of their assigned duties.
@@ -644,7 +710,9 @@ c. Any individual, firm, corporation, agent, employee or person under the contro
 
 
 
-*§ 18-130 Ward's and Randall's islands; development into park. * ::
+
+
+*§ 18-130 Ward's and Randall's islands; development into park.* ::
 
 
 a. There being a shortage of parks and park areas within the city to provide the necessary facilities for fresh air and recreation for the growing population of such city and more particularly for residents of the boroughs of Manhattan, Bronx and Queens; and the creation and establishment of such parks being essential to the health, comfort and welfare of the citizens of the state; and it appearing to the legislature to be necessary and proper that city parks be created and established on the islands known as Ward's and Randall's, within such city, and that the inmates and patients in the various state and city institutions now located on such islands be removed therefrom, excepting the lands on Ward's island presently occupied by the Manhattan state hospital other than parcels one and two hereinafter described and that the buildings and structures of such institutions be demolished for the purpose of such parks; the provisions hereinafter prescribed are enacted and their necessity in the public interest is hereby declared as a matter of legislative determination.
@@ -664,7 +732,9 @@ g. Notwithstanding the provisions of subdivisions b, c, d, e, and f of this sect
 
 
 
-*§ 18-131 Posting of signs. * ::
+
+
+*§ 18-131 Posting of signs.* ::
 
 
 a. The commissioner shall be required to post signs pursuant to sections 10-158 and 10-158.1 of this code, for the vessel regulation zone and the "no wake area" established by such sections.
@@ -710,7 +780,9 @@ d. The commissioner shall post the dates and results of departmental inspections
 
 
 
-*§ 18-131 Emergency reporting signs. [Repealed] * ::
+
+
+*§ 18-131 Emergency reporting signs. [Repealed]* ::
 
 
 1. Until such time as all members of the United States Armed Forces listed either as missing in action or prisoners of war are accounted for by the United States government, the commissioner shall assure, subject to subdivisions 2 and 3 of this section, that the Prisoner of War/Missing in Action (POW/MIA) flag is flown over all public property under the jurisdiction of the commissioner whenever the American flag is flown over such property.
@@ -724,7 +796,9 @@ d. The commissioner shall post the dates and results of departmental inspections
 
 
 
-*§ 18-133 Adopt-A-Park Program. * ::
+
+
+*§ 18-133 Adopt-A-Park Program.* ::
 
 
 a. Definitions. For the purposes of this section, "sponsor" shall mean the person(s) or group(s) that have entered into an agreement with the department with respect to the maintenance, renovation and agreement requirements provided for in the Adopt-A-Park program.
@@ -752,7 +826,9 @@ h. The comptroller shall have the power to audit and investigate all matters rel
 
 
 
-*§ 18-134 Annual report on non-governmental funding for parks. * ::
+
+
+*§ 18-134 Annual report on non-governmental funding for parks.* ::
 
 
 Beginning December 1, 2009, and annually thereafter, the commissioner shall submit a report to the council for the immediately preceding fiscal year on funds and the value of goods donated by non-governmental sources to the department for parks under the jurisdiction of the department. Such report shall include (i) the amount of funds and the value of goods donated by organizations or individuals to the department by park where such funding or goods are designated for a particular park, or by service district or borough if there is no such designation, provided that such funds or goods are valued at more than five thousand dollars; and (ii) where the department has entered into a conservancy arrangement, as defined by section 18-137 of this chapter, with a conservancy, as defined by section 18-137 of this chapter, to provide maintenance and operation services for a park or portion of a park under the jurisdiction of the department, the department shall require such entity to provide data to the department concerning the total amount of expenditures made by such entity for such park or portion of a park. The department shall require that any conservancy that enters into or renews a conservancy arrangement with the department after July 1, 2015, concerning a park or portion of a park under the jurisdiction of the department, provide the department with the data regarding its expenditures for such a park or portion of a park. Prior to July 1, 2015, the department shall, where practicable, seek such information from any conservancy with whom the department has an existing conservancy arrangement, provided that where the department is unable to obtain such information from such conservancy, it shall state the reason why such information was not able to be obtained. Such report, to the extent practicable, shall list organizations and individuals donating funds and goods to the department, provided that any such organization or individual donating funds or goods anonymously shall be listed without identifying information.
@@ -760,7 +836,9 @@ Beginning December 1, 2009, and annually thereafter, the commissioner shall subm
 
 
 
-*§ 18-135 Requiring signage warning of heat dangers of playground equipment. * ::
+
+
+*§ 18-135 Requiring signage warning of heat dangers of playground equipment.* ::
 
 
 The department shall place at all entrances to all playgrounds operated by or under the jurisdiction of the department, including those for which the department has an agreement with a conservancy or other not-for-profit organization with respect to operation of any aspect of a playground a sign reading, "Warning: Some surfaces may become hot. Please take precautions with exposed skin." Such signs shall be placed at all entrances of all playgrounds where presently there is not a sign at all entrances warning that shoes are required to be worn in such playground. Such signs shall also be placed at the entrances to all other playgrounds upon replacement of a sign in any such playground warning that shoes are required to be worn. All signs shall be securely affixed at such entrances. The above described warning shall also be placed on every sign in any playground stating the rules of such playground when any such sign is replaced. All signs shall be in English and, where appropriate, additional languages. For purposes of this section, "securely affixed" shall mean that at a minimum the signs shall be tethered to not less than two stationary fixtures.
@@ -768,7 +846,9 @@ The department shall place at all entrances to all playgrounds operated by or un
 
 
 
-*§ 18-136 Advisory committee for new surfacing materials. * ::
+
+
+*§ 18-136 Advisory committee for new surfacing materials.* ::
 
 
 a. For purposes of this section, "surfacing materials" shall mean infill materials, blades of synthetic turf and surfaces used under and around play equipment.
@@ -786,7 +866,9 @@ e. The advisory committee shall be deemed established upon the appointment of it
 
 
 
-*§ 18-137 Representation on park conservancies. * ::
+
+
+*§ 18-137 Representation on park conservancies.* ::
 
 
 a. For purposes of this section, the following terms shall have the following meanings:
@@ -804,7 +886,9 @@ b. Any conservancy arrangement entered into, renewed or otherwise granted or exe
 
 
 
-*§ 18-138 Locations of concessions in parks. * ::
+
+
+*§ 18-138 Locations of concessions in parks.* ::
 
 
 a. Except as provided herein, any concession under the jurisdiction of the commissioner, and any restaurant located within any park that is the subject of a lease or other agreement between the department and a not-for-profit corporation relating to the restoration and maintenance of the park in which such restaurant is located, other than seasonal concessions of under forty-five days in duration in a calendar year, shall have specific boundaries which shall be indicated on a map of the park in which such concession or restaurant is located. No such concession or restaurant shall extend beyond the boundaries indicated on such map. The department shall visibly mark the authorized boundaries of each such concession or restaurant and shall maintain such markings, unless all boundaries of such concession or restaurant are within a building or similar stationary structure or marking a boundary is not practicable because the terrain does not allow for such marking. The department shall determine how such markings shall be made and any such marking shall be consistent with any law, rule, regulation or determination of the landmarks preservation commission and the public design commission. This subdivision shall not apply to any concession authorized to occupy a ground space of less than two hundred square feet, to occupy an area greater than two acres, or to operate in locations in three or more boroughs, nor shall this subdivision apply to any concession that is expressly authorized to move its location pursuant to the terms of the applicable concession agreement. The location of a concession or restaurant subject to the provisions of this subdivision shall also be marked on a map of the park or parks in which such concession or restaurant is located which map shall be made available on the city of New York's website within one year of the effective date of this section. However, any concession or restaurant covered by this subdivision where the concession agreement, lease or other agreement is entered into or renewed following the effective date of this section, shall have such maps posted within sixty days of the execution or renewal of the relevant concession or lease agreement. It shall not be a violation of this section where the moving of any such boundary was done pursuant to the direction of an authorized employee of any applicable city agency.
@@ -814,7 +898,9 @@ b. Any person who violates the provisions of subdivision a of this section by ex
 
 
 
-*§ 18-139 Notification prior to planting of trees. * ::
+
+
+*§ 18-139 Notification prior to planting of trees.* ::
 
 
 Except as provided herein, not less than thirty days prior and not more than one hundred twenty days prior to the commencement of the planting of a tree under the jurisdiction of the department on a sidewalk that is within one hundred feet of any entrance or exit of any school or hospital, the department shall provide written notification of such planting by either facsimile, regular mail, electronic mail or by personal service to the office of the principal or designated representative of such school, or the administrator or designated representative of such hospital. Notifications pursuant to this section made by regular mail shall be placed into the United States mail not less than forty days prior to the commencement of planting of any such tree.
@@ -822,7 +908,9 @@ Except as provided herein, not less than thirty days prior and not more than one
 
 
 
-*§ 18-140 Stormwater retention planting manual. * ::
+
+
+*§ 18-140 Stormwater retention planting manual.* ::
 
 
 a. Not later than November 1, 2013, the commissioner shall promulgate a stormwater retention manual applicable to all plantings conducted by the department that shall maximize the use of stormwater retentive plantings. Such manual shall, at a minimum:
@@ -840,7 +928,9 @@ c. All plantings conducted by the department after May 1, 2014, shall conform to
 
 
 
-*§ 18-141 Native biodiversity planting practices. * ::
+
+
+*§ 18-141 Native biodiversity planting practices.* ::
 
 
 a. Increased native biodiversity. By November 1, 2013, the department shall revise its design manual to increase biodiversity in its landscape practices. Such practices shall maximize the use of native plantings and drought and salt tolerant plantings, as appropriate, and minimize the presence of exotic monocultures on all city-owned property, including green streets, medians, sidewalks, parks and other areas where plantings occur. Where native plant species are not appropriate, such practices shall require the use of any plant species that has not been determined to be an invasive plant species by the New York state department of environmental conservation or by the department, or determined to be a noxious weed by the New York state department of agriculture and markets. Such manual shall include:
@@ -858,7 +948,9 @@ d. Exemption. Botanic gardens and public institutions who possess plants for edu
 
 
 
-*§ 18-142 Tree removal protocol. * ::
+
+
+*§ 18-142 Tree removal protocol.* ::
 
 
 a. The department, in consultation with the office of emergency management, department of sanitation, local electric corporations, and other utility corporations identified by the department, shall develop a protocol for the removal of trees on city property that have been downed or damaged as a result of severe weather events. Such protocol shall require the department:
@@ -874,6 +966,8 @@ a. The department, in consultation with the office of emergency management, depa
 b. The department shall publish prominently on its website as soon as is practicable after a severe weather event information instructing persons how to notify the city of downed or damaged trees or downed wires.
 
 c. The department shall submit a description of such protocol to the mayor and the speaker of the council, and publish such description prominently on its website, within one hundred eighty days after the enactment of the local law that added this subdivision.
+
+
 
 
 
@@ -900,6 +994,8 @@ a. The commissioner shall submit a report to the mayor and the speaker of the ci
 b. Such report shall include the address or location of each facility described.
 
 c. Nothing in this section shall be deemed to require that the department undertake construction or alterations that would not be required by such act or such standards.
+
+
 
 
 
@@ -964,6 +1060,8 @@ f. Each annual report shall be posted on the department's website and the data c
 
 
 
+
+
 *§ 18-145 Reporting on capital project expenditures in parks.* ::
 
 
@@ -972,6 +1070,8 @@ The department shall post on the city's website, in a non-proprietary format tha
 
  
 												
+
+
 
 
 
@@ -1052,10 +1152,14 @@ c. Offenses. The prohibitions set forth in this subdivision shall apply to publi
 
 
 
-*§ 18-147 Destruction of trees and property. * ::
+
+
+*§ 18-147 Destruction of trees and property.* ::
 
 
 Any violation of a department rule or regulation concerning the cutting, removal or destruction of any tree or concerning the destruction or abuse of other public property under the charge and control of the department, where such destruction or abuse results in significant damage or expense, shall be a misdemeanor punishable by not more than six months imprisonment or by a fine of not more than 15,000 dollars, or by both. Any violation of a rule or regulation concerning the unlawful cutting, removal or destruction of any tree or concerning the destruction or abuse of other public property, where such destruction or abuse results in significant damage or expense, shall also subject the violator to a civil penalty of not more than 10,000 dollars for each violation which may be recovered in a proceeding before the office of administrative trials and hearings pursuant to section 1049-a of the charter. Such proceeding shall be commenced by the service of a notice of violation returnable to such office pursuant to such section. The office of administrative trials and hearings shall have the power to impose the civil penalties prescribed herein in accordance with such section.
+
+
 
 
 
@@ -1070,6 +1174,8 @@ a. Not less than two days prior to commencement of temporary parking restriction
 b. Nothing in this section shall be construed to require the department to provide notice of any temporary parking restrictions where such restrictions are required to commence immediately to preserve public safety.
 
 c. Nothing in this section shall be construed to require the department to complete planned removal within the estimated end date of such restrictions.
+
+
 
 
 
@@ -1092,6 +1198,8 @@ b. Within 24 hours of the spraying of any pesticide by or on behalf of a city ag
 
 
 
+
+
 *§ 18-149 Discounted recreation center fees.* ::
 
 
@@ -1100,6 +1208,8 @@ Annual membership fees for each recreation center under the jurisdiction of the 
 
 (L.L. 2016/018, 2/19/2016, eff. 6/18/2016; Am. L.L. 2017/133, 8/8/2017, eff. 8/8/2018) 
 												
+
+
 
 
 
@@ -1152,6 +1262,8 @@ l. The commissioner of the department shall promulgate any rules as may be neces
 
 
 
+
+
 *§ 18-151 Street tree maintenance information posted online.* ::
 
 
@@ -1178,12 +1290,16 @@ The department shall post on its website certain information relating to street 
 
 
 
+
+
 *§ 18-152 Pedestrian access to park facilities.* ::
 
 
 a. For any capital project, as defined in section 5-101 of the code, that includes the construction or reconstruction of an outdoor athletic facility, where such facility is within a park under the jurisdiction of the department, is located within 500 feet of a public street and is undertaken on or after the effective date of the local law that added this section, the agency responsible for the design of such project shall construct a sidewalk and a pathway to such sidewalk that is adjacent to such public street and is either sufficient for the unloading of persons from vehicles or is connected to such public transportation. Where there is a parking lot adjacent to such outdoor athletic facility, only a pathway between such parking lot and facility need be constructed.
 
 b. The commissioner may exempt a capital project from this section if in the commissioner’s judgment such exemption is necessary in the public interest. Within 120 days after the end of each fiscal year, the commissioner shall report to the council on any exemptions granted pursuant to this subdivision during such year and the basis for such exemptions.
+
+
 
 
 
@@ -1204,12 +1320,16 @@ For the purposes of this section, the term “capital project” shall have the 
 
 
 
+
+
 *§ 18-154 Bathing season for beaches and pools.* ::
 
 
 a. The commissioner shall ensure that (i) the bathing season of each year for beaches and pools under the jurisdiction of the department ends on the Sunday following Labor Day and (ii) during such season, each such bathing beach and pool remains open to the public each day, at a minimum, from the hours of 10:00 a.m. to 6:00 p.m.
 
 b. Notwithstanding subdivision a of this section, the commissioner may limit the bathing season for extreme weather conditions, staffing level requirements for beaches or particular facilities, and the safety of the public.
+
+
 
 
 
@@ -1235,7 +1355,9 @@ b. By July 30, 2019, and every year thereafter, the commissioner shall submit to
 Chapter 2: Summer Camps For Children
 --------------------------------------------------
 
-*§ 18-201 Summer camps for children. * ::
+
+
+*§ 18-201 Summer camps for children.* ::
 
 
 a. The board of estimate, within the amounts appropriated therefor, is authorized to establish camps in spaces provided therefor in parks adjacent to the city under the jurisdiction and control of the state council of parks, recreation and historic preservation. Such camps shall be used to furnish free instruction and maintenance of children between the ages of six and sixteen years and shall be under the jurisdiction of such agency as may be designated by the board.

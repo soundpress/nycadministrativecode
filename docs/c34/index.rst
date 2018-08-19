@@ -4,6 +4,8 @@ Title 32: Labor and Employment
 Chapter 1: Office of Labor Standards
 --------------------------------------------------
 
+
+
 *§ 32-101 [Reserved]* ::
 
 
@@ -14,6 +16,8 @@ Chapter 1: Office of Labor Standards
 
 Chapter 2: Division of Paid Care
 --------------------------------------------------
+
+
 
 *§ 32-201 Definitions.* ::
 
@@ -39,6 +43,8 @@ Paid care worker. The term "paid care worker" means a child care worker or a hom
 Paid care services agency. The term "paid care services agency" means an organization primarily engaged in arranging or providing directly or through contract arrangement the services of paid care workers.
 
 State-approved education or training program. The term "state-approved education or training program" means a program that provides education or training for persons to meet any requirement established by the New York state department of health for providing home health aide services or personal care services, which program is approved by the New York state department of health or the New York state education department.
+
+
 
 
 
@@ -97,6 +103,8 @@ f. The division shall seek to work with the New York state department of health 
 
 
 
+
+
 *§ 32-203 Advocate; powers and duties.* ::
 
 
@@ -121,6 +129,8 @@ b. With respect to individual employers against whom the division receives compl
    3. The exploitation and abuse of paid care workers, including retaliation, harassment, discrimination and trafficking; and
 
    4. The compliance of the city and its contracted home care providers with relevant laws.
+
+
 
 
 

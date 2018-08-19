@@ -4,7 +4,9 @@ Title 25: Land Use
 Chapter 1: City Planning
 --------------------------------------------------
 
-*§ 25-101 City map to be conclusive. * ::
+
+
+*§ 25-101 City map to be conclusive.* ::
 
 
 The city map is to be deemed final and conclusive with respect to the location, width and grades of the streets shown thereon, so far as such location, width and grades have been duly adopted.
@@ -12,7 +14,9 @@ The city map is to be deemed final and conclusive with respect to the location, 
 
 
 
-*§ 25-102 City map; what to include. * ::
+
+
+*§ 25-102 City map; what to include.* ::
 
 
 There shall be located and laid out on the city map all parks, playgrounds, streets, courtyards abutting streets, bridges, tunnels and approaches to bridges and tunnels, and improvements of navigation in accordance with bulkhead and pierhead lines established pursuant to section seven hundred five of the charter. The width and grades of all streets so located and laid out shall be indicated thereon.
@@ -20,7 +24,9 @@ There shall be located and laid out on the city map all parks, playgrounds, stre
 
 
 
-*§ 25-102.1 City map; street and park names. * ::
+
+
+*§ 25-102.1 City map; street and park names.* ::
 
 
 a. Unless the local law specifically provides otherwise, any local law naming a street, park, playground or portion thereof, or any facility or structure, located and laid out on the city map, that does not bear a name indicated on the city map shall not be construed to require the addition of such name on the city map; provided, however, that the name given by such local law shall be posted on a sign placed at the location of such street, park, playground or portion thereof, or any facility or structure, located and laid out on the city map.
@@ -32,7 +38,9 @@ c. The department of transportation may establish different colors for signs bea
 
 
 
-*§ 25-103 Borough presidents' assistance in completing city map. * ::
+
+
+*§ 25-103 Borough presidents' assistance in completing city map.* ::
 
 
 The city planning commission, with the approval of the mayor, may at any time require the president of any borough to make recommendations for the completion of the city map of the whole or of a part of the territory for which the city map shall not at such time have been finally established and adopted and to report the same to the commission within a fixed and specified time.
@@ -40,7 +48,9 @@ The city planning commission, with the approval of the mayor, may at any time re
 
 
 
-*§ 25-104 Official surveying stations. * ::
+
+
+*§ 25-104 Official surveying stations.* ::
 
 
 The latitudes and longitudes determined in conformity with the method used by the United States coast and geodetic survey for primary stations; the rectangular spherical coordinates for secondary stations; and the rectangular co-ordinates referring to a given fixed central meridian, or assumed meridian, for all stations, shall continue to be official and binding upon all officers making any map or plan relating to any borough, or part thereof.
@@ -48,7 +58,9 @@ The latitudes and longitudes determined in conformity with the method used by th
 
 
 
-*§ 25-105 Grades established by user. * ::
+
+
+*§ 25-105 Grades established by user.* ::
 
 
 Whenever any street in the city shall have been used as such for upward of twenty years without having the grade thereof established by law, the level or surface of such street as so used shall be deemed to be and to have been the grade thereof.
@@ -56,7 +68,9 @@ Whenever any street in the city shall have been used as such for upward of twent
 
 
 
-*§ 25-106 Public utility corporations; filing of maps of real property. * ::
+
+
+*§ 25-106 Public utility corporations; filing of maps of real property.* ::
 
 
 Every public utility corporation, within ninety days after its acquisition of any real property within the city, shall file in the office of the president of the borough in which such property is situated, a map or survey drawn to a scale and accurately indicating the location and boundaries of such property with reference to the streets, avenues, bridges, tunnels, bulkhead or pierhead lines, parks or other public places shown on the city map. Every such corporation shall within the same period of time file a copy of each such map or survey in the office of the department of city planning and in the office of the commissioner of transportation. For a failure to file any such map or survey or copy thereof within the period required therefor such public utility corporation shall be liable to the city in a penalty of ten dollars for each and every day during which such map or survey or copy thereof has not been filed, as hereinabove required, and an action may be brought for the recovery thereof in the name of the city.
@@ -64,7 +78,9 @@ Every public utility corporation, within ninety days after its acquisition of an
 
 
 
-*§ 25-107 Failure to include street upon map; effect of. * ::
+
+
+*§ 25-107 Failure to include street upon map; effect of.* ::
 
 
 The failure to include any street upon the city map shall not have the effect of closing such street.
@@ -72,7 +88,9 @@ The failure to include any street upon the city map shall not have the effect of
 
 
 
-*§ 25-108 Map changes affecting certain cemetery lands. * ::
+
+
+*§ 25-108 Map changes affecting certain cemetery lands.* ::
 
 
 Notwithstanding any provisions of the not-for-profit corporation law, or of any other law, general or special, that portion of the city map relating to Interborough Parkway shall not be altered or amended so as to affect the lands of any cemetery association except by and with the consent of the trustees of any such cemetery association the lands of which would be affected, and of the board of estimate.
@@ -80,7 +98,9 @@ Notwithstanding any provisions of the not-for-profit corporation law, or of any 
 
 
 
-*§ 25-109 Streets not to be opened through grounds of certain institutions. * ::
+
+
+*§ 25-109 Streets not to be opened through grounds of certain institutions.* ::
 
 
 a. It shall be unlawful to open any streets through the grounds belonging to the corporation of Fordham University in its actual occupation of the area generally bounded by Bronx Park on the north and east, Fordham Road on the south, and the tracks of the Harlem Division of the New York Central and Hudson River Railroad Company on the west.
@@ -98,7 +118,9 @@ f. It shall be unlawful to open any streets through or upon any part of the land
 
 
 
-*§ 25-110 City planning commission to regulate the height and bulk of buildings, areas of yards, courts and open spaces and density of population. * ::
+
+
+*§ 25-110 City planning commission to regulate the height and bulk of buildings, areas of yards, courts and open spaces and density of population.* ::
 
 
 a. The city planning commission, subject to the provisions of sections one hundred ninety-seven-c, two hundred and two hundred one of the charter, where applicable, shall have power to regulate and limit the height and bulk of buildings, to regulate and determine the area of yards, courts and other open spaces and to regulate density of population. The commission, subject to the same limitations, may divide the city into districts of such number, shape and area as it may deem best suited to carry out such purposes.
@@ -110,7 +132,9 @@ c. The commission shall pay reasonable regard to the character of buildings erec
 
 
 
-*§ 25-111 City planning commission to regulate location of trades and industries and of buildings designed for specific uses. * ::
+
+
+*§ 25-111 City planning commission to regulate location of trades and industries and of buildings designed for specific uses.* ::
 
 
 a. The city planning commission, subject to the provisions of sections one hundred ninety-seven-c, two hundred and two hundred one of the charter, where applicable, may regulate and restrict the location of trades and industries and the location of buildings designed for specific uses, and may divide the city into districts of such number, shape and area as it may deem best suited to carry out such purposes.
@@ -122,7 +146,9 @@ c. The commission shall give reasonable consideration, among other things, to th
 
 
 
-*§ 25-112 Prohibition of cemeteries in Queens. * ::
+
+
+*§ 25-112 Prohibition of cemeteries in Queens.* ::
 
 
 a. No person, association or corporation shall take by deed, devise or otherwise any land in the county of Queens for cemetery purposes, nor set apart or use any ground for cemetery purposes in such county. Existing religious corporations, cemetery associations and corporations, however, shall have the right to use for cemetery purposes, land lawfully taken by recorded deed, or devise and set apart or used for cemetery purposes or for the purposes of the convenient transaction of their general business, prior to July seventeenth, nineteen hundred forty-seven.
@@ -136,7 +162,9 @@ c. The provisions of subdivision a of this section shall not in any manner preve
 
 
 
-*§ 25-113 Filing of subdivision maps and recording of deeds of subdivision property. * ::
+
+
+*§ 25-113 Filing of subdivision maps and recording of deeds of subdivision property.* ::
 
 
 a. Every map referred to in section two hundred two of the charter shall be prepared, approved and certified and shall be filed as follows: one copy thereof in the office in which conveyances of real estate are required to be recorded in the county in which the land shown thereon is situated; one copy thereof in the office of the corporation counsel; one copy thereof in the office of the president of the borough in which the land shown on the map is situated; one copy thereof in the office of the secretary of the board of estimate; one copy thereof in the office of the department of city planning; one copy thereof in the office of the city clerk; and, one copy thereof in the office of the department of buildings for the county in which the land shown thereon is situated.
@@ -146,6 +174,8 @@ b. The register or county clerk, as the case may be, shall refuse:
    1. To receive for filing any such subdivision map unless the commission or the department of buildings has certified that the subdivision does not result in the violation of any applicable zoning laws.
 
    2. To accept for recording any deed or other instrument affecting real property which has a map attached thereto or made a part thereof, unless it shall have endorsed thereon the certification of the secretary of the board of estimate to the effect that the same has been approved pursuant to section two hundred two of the charter and unless the commissioner of the department of buildings has certified that such subdivision does not result in the violation of any applicable zoning laws.
+
+
 
 
 
@@ -202,6 +232,8 @@ f. The mayor or the mayor's designee shall designate an agency to enforce provis
 
 
 
+
+
 *§ 25-115 Pre-application process exemptions.* ::
 
 
@@ -215,7 +247,9 @@ a. An application for changes in the zoning resolution pursuant to section 200 o
 Chapter 2: Board of Standards and Appeals
 --------------------------------------------------
 
-*§ 25-201 Temporary vacancies; filling of. * ::
+
+
+*§ 25-201 Temporary vacancies; filling of.* ::
 
 
 In the event of the absence or illness of an appointed member, the mayor shall have power to appoint another person to act in his or her place at any meeting or meetings during such period of absence or illness.
@@ -223,7 +257,9 @@ In the event of the absence or illness of an appointed member, the mayor shall h
 
 
 
-*§ 25-202 Fees. * ::
+
+
+*§ 25-202 Fees.* ::
 
 
 The fees hereinbelow set forth shall be charged for the following applications, appeals, filings and reviews:
@@ -377,7 +413,9 @@ The fees hereinbelow set forth shall be charged for the following applications, 
 
 
 
-*§ 25-203 Board's orders; violation; penalty. * ::
+
+
+*§ 25-203 Board's orders; violation; penalty.* ::
 
 
 Any person who shall knowingly violate or fail to comply with any lawful order or requirement of the board made under the authority of sections six hundred sixty-six and six hundred sixty-eight of the charter shall be guilty of a misdemeanor; and in addition thereto, and in addition to all other liabilities and penalties imposed by law, shall forfeit and pay for each such violation and non-compliance respectively, a penalty in the sum of not more than two hundred and fifty dollars, as may be fixed by the court awarding judgment therefor. An action may be brought for the recovery of any such penalty or penalties in the New York city civil court or any other court of record in the city, in the name of the city.
@@ -385,7 +423,9 @@ Any person who shall knowingly violate or fail to comply with any lawful order o
 
 
 
-*§ 25-204 Non-appealable orders. * ::
+
+
+*§ 25-204 Non-appealable orders.* ::
 
 
 The following are not appealable to the board:
@@ -397,7 +437,9 @@ The following are not appealable to the board:
 
 
 
-*§ 25-205 Multiple dwelling law not to be varied. * ::
+
+
+*§ 25-205 Multiple dwelling law not to be varied.* ::
 
 
 The board shall not vary or modify the multiple dwelling law nor any order, regulation or ruling of the commissioner of housing preservation and development, except as provided in section three hundred ten of the multiple dwelling law, and except that any such order, regulation or ruling issued under the provisions of chapter two of title twenty-seven of the code may be varied or modified by the board to the extent permitted by such chapter in the manner and subject to the conditions therein specified. This section shall not deprive the board of any of its powers of review on appeal.
@@ -405,7 +447,9 @@ The board shall not vary or modify the multiple dwelling law nor any order, regu
 
 
 
-*§ 25-206 Decision on appeals; form of. * ::
+
+
+*§ 25-206 Decision on appeals; form of.* ::
 
 
 The decision on appeals shall be in writing and, so far as is practicable, shall be in the form of a general statement or resolution which shall be applicable to cases similar to or falling within the principles passed upon in such decision.
@@ -413,7 +457,9 @@ The decision on appeals shall be in writing and, so far as is practicable, shall
 
 
 
-*§ 25-207 Certiorari. * ::
+
+
+*§ 25-207 Certiorari.* ::
 
 
 a. Petition. Any person or persons, jointly or severally aggrieved by any decision of the board may present to the supreme court a petition duly verified, setting forth that such decision is illegal, in whole or in part, specifying the grounds of the illegality. Such petition must be presented to a justice of the supreme court or at a special term of the supreme court within thirty days after the filing of the decision in the office of the board.
@@ -427,6 +473,8 @@ d. Proceedings upon return. If, upon the hearing, it shall appear to the court t
 e. Costs. Costs shall not be allowed against the board, unless it shall appear to the court that it acted with gross negligence or in bad faith or with malice in making the decision appealed from.
 
 f. Preferences. All issues in any proceeding under this section shall have preference over all other civil actions and proceedings.
+
+
 
 
 
@@ -487,6 +535,8 @@ b. Not later than September 1, 2017 and no later than September 1 each year ther
 
 
 
+
+
 *§ 25-209 Notice of expiration of a variance.* ::
 
 
@@ -500,7 +550,9 @@ For any variance granted by the board after December 31, 2013 pursuant to sectio
 Chapter 3: Landmarks Preservation Preservation and Historic Districts
 --------------------------------------------------
 
-*§ 25-301 Purpose and declaration of public policy. * ::
+
+
+*§ 25-301 Purpose and declaration of public policy.* ::
 
 
 a. The council finds that many improvements, as herein defined, and landscape features, as herein defined, having a special character or a special historical or aesthetic interest or value and many improvements representing the finest architectural products of distinct periods in the history of the city, have been uprooted, notwithstanding the feasibility of preserving and continuing the use of such improvements and landscape features, and without adequate consideration of the irreplaceable loss to the people of the city of the aesthetic, cultural and historic values represented by such improvements and landscape features. In addition, distinct areas may be similarly uprooted or may have their distinctiveness destroyed, although the preservation thereof may be both feasible and desirable. It is the sense of the council that the standing of this city as a world wide tourist center and world capital of business, culture and government cannot be maintained or enhanced by disregarding the historical and architectural heritage of the city and by countenancing the destruction of such cultural assets.
@@ -510,7 +562,9 @@ b. It is hereby declared as a matter of public policy that the protection, enhan
 
 
 
-*§ 25-302 Definitions. * ::
+
+
+*§ 25-302 Definitions.* ::
 
 
 As used in this chapter, the following terms shall mean and include:
@@ -660,7 +714,9 @@ x. As used in section 25-317.1:
 
 
 
-*§ 25-303 Establishment of landmarks, landmark sites, interior landmarks, scenic landmarks and historic districts. * ::
+
+
+*§ 25-303 Establishment of landmarks, landmark sites, interior landmarks, scenic landmarks and historic districts.* ::
 
 
 a. For the purpose of effecting and furthering the protection, preservation, enhancement, perpetuation and use of landmarks, interior landmarks, scenic landmarks and historic districts, the commission shall have power, after a public hearing:
@@ -710,7 +766,9 @@ l. (1) Subject to subdivisions a through k of this section, the commission shall
 
 
 
-*§ 25-304 Scope of commission's powers. * ::
+
+
+*§ 25-304 Scope of commission's powers.* ::
 
 
 a. Nothing contained in this chapter shall be construed as authorizing the commission, in acting with respect to any historic district or improvement therein, or in adopting regulations in relation thereto, to regulate or limit the height and bulk of buildings, to regulate and determine the area of yards, courts and other open spaces, to regulate density of population or to regulate and restrict the locations of trades and industries or location of buildings designed for specific uses or to create districts for any such purpose.
@@ -720,7 +778,9 @@ b. Except as provided in subdivision a of this section, the commission may, in e
 
 
 
-*§ 25-305 Regulation of construction, reconstruction, alterations and demolition. * ::
+
+
+*§ 25-305 Regulation of construction, reconstruction, alterations and demolition.* ::
 
 
 a. (1) Except as otherwise provided in paragraph two of this subdivision a, it shall be unlawful for any person in charge of a landmark site or an improvement parcel or portion thereof located in an historic district or any part of an improvement containing an interior landmark to alter, reconstruct or demolish any improvement constituting a part of such site or constituting a part of such parcel and located within such district or containing an interior landmark, or to construct any improvement upon land embraced within such site or such parcel and located within such district, or to cause or permit any such work to be performed on such improvement or land, unless the commission has previously issued a certificate of no effect on protected architectural features, a certificate of appropriateness or a notice to proceed authorizing such work, and it shall be unlawful for any other person to perform such work or cause same to be performed, unless such certificate or notice has been previously issued.
@@ -740,7 +800,9 @@ c. (1) A copy of every application or amended application for a permit to constr
 
 
 
-*§ 25-306 Determination of request for certificate of no effect on protected architectural features. * ::
+
+
+*§ 25-306 Determination of request for certificate of no effect on protected architectural features.* ::
 
 
 a. (1) In any case where an applicant for a permit from the department of buildings to construct, reconstruct, alter or demolish any improvement on a landmark site or in an historic district or containing an interior landmark, or an applicant for a special permit from the city planning commission or the board of standards and appeals authorizing any such work pursuant to article seven of the zoning resolution, or amendments thereof, files a copy of such application or amended application with the commission, together with a request for a certificate of no effect on protected architectural features, the commission shall determine:
@@ -756,7 +818,9 @@ a. (1) In any case where an applicant for a permit from the department of buildi
 
 
 
-*§ 25-307 Factors governing issuance of certificate of appropriateness. * ::
+
+
+*§ 25-307 Factors governing issuance of certificate of appropriateness.* ::
 
 
 a. In any case where an applicant for a permit to construct, reconstruct, alter or demolish any improvement on a landmark site, or in an historic district or containing an interior landmark, files such application with the commission together with a request for a certificate of appropriateness, and in any case where a certificate of no effect on protected architectural features is denied and the applicant thereafter, pursuant to the provisions of section 25-306 of this chapter, files a request for a certificate of appropriateness, the commission shall determine whether the proposed work would be appropriate for and consistent with the effectuation of the purposes of this chapter. If the commission's determination is in the affirmative on such question, it shall grant a certificate of appropriateness, and if the commission's determination is in the negative, it shall deny the applicant's request, except as otherwise provided in section 25-309 of this chapter.
@@ -776,7 +840,9 @@ e. In making the determination referred to in subdivision a of this section with
 
 
 
-*§ 25-308 Procedure for determination of request for certificate of appropriateness. * ::
+
+
+*§ 25-308 Procedure for determination of request for certificate of appropriateness.* ::
 
 
 The commission shall hold a public hearing on each request for a certificate of appropriateness. Except as otherwise provided in section 25-309 of this chapter, the commission shall make its determination as to such request within ninety days after filing thereof.
@@ -784,7 +850,9 @@ The commission shall hold a public hearing on each request for a certificate of 
 
 
 
-*§ 25-309 Request for certificate of appropriateness authorizing demolition, alterations or reconstruction on ground of insufficient return. * ::
+
+
+*§ 25-309 Request for certificate of appropriateness authorizing demolition, alterations or reconstruction on ground of insufficient return.* ::
 
 
 a. (1) Except as otherwise provided in paragraph two of this subdivision a, in any case where an application for a permit to demolish any improvement located on a landmark site or in an historic district or containing an interior landmark is filed with the commission, together with a request for a certificate of appropriateness authorizing such demolition, and in any case where an application for a permit to make alterations to or reconstruct any improvement on a landmark site or containing an interior landmark is filed with the commission, and the applicant requests a certificate of appropriateness for such work, and the applicant establishes to the satisfaction of the commission that: (a) the improvement parcel (or parcels) which includes such improvement, as existing at the time of the filing of such request, is not capable of earning a reasonable return; and
@@ -862,7 +930,9 @@ i. (1) In any case where the applicant is required to establish the conditions s
 
 
 
-*§ 25-310 Regulation of minor work. * ::
+
+
+*§ 25-310 Regulation of minor work.* ::
 
 
 a. (1) Except as otherwise provided in section 25-312 of this chapter, it shall be unlawful for any person in charge of an improvement located on a landmark site or in an historic district or containing an interior landmark to perform any minor work thereon, or to cause or permit such work to be performed, and for any other person to perform any such work thereon or cause same to be performed, unless the commission has issued a permit, pursuant to this section, authorizing such work. (2) It shall be unlawful for any person in charge of any such improvement to maintain same or cause or permit same to be maintained in the condition created by any work done in violation of the provisions of paragraph one of this subdivision a.
@@ -884,7 +954,9 @@ e. The provisions of this section shall be inapplicable to any improvement menti
 
 
 
-*§ 25-311 Maintenance and repair of improvements. * ::
+
+
+*§ 25-311 Maintenance and repair of improvements.* ::
 
 
 a. Every person in charge of an improvement on a landmark site or in an historic district shall keep in good repair (1) all of the exterior portions of such improvement and (2) all interior portions thereof which, if not so maintained, may cause or tend to cause the exterior portions of such improvement to deteriorate, decay or become damaged or otherwise to fall into a state of disrepair.
@@ -898,7 +970,9 @@ d. The provisions of this section shall be in addition to all other provisions o
 
 
 
-*§ 25-312 Remedying of dangerous conditions. * ::
+
+
+*§ 25-312 Remedying of dangerous conditions.* ::
 
 
 a. In any case where the department of buildings, the fire department or the department of health and mental hygiene, or any officer or agency thereof, or any court on application or at the instance of any such department, officer or agency, shall order or direct the construction, reconstruction, alteration or demolition of any improvement on a landmark site or in an historic district or containing an interior landmark, or the performance of any minor work upon such improvement, for the purpose of remedying conditions determined to be dangerous to life, health or property, nothing contained in this chapter shall be construed as making it unlawful for any person, without prior issuance of a certificate of no effect on protected architectual features or certificates of appropriateness or permit for minor work pursuant to this chapter, to comply with such order or direction.
@@ -908,7 +982,9 @@ b. The department of buildings, fire department or department of health and ment
 
 
 
-*§ 25-313 Public hearings; conferences. * ::
+
+
+*§ 25-313 Public hearings; conferences.* ::
 
 
 a. The commission shall give notice of any public hearing which it is required or authorized to hold under the provisions of this chapter by publication in the City Record for at least ten days immediately prior thereto. The owner of any improvement parcel on which a landmark or a proposed landmark is situated or which is a part of a landmark site or proposed landmark site or which contains an interior landmark or proposed interior landmark, or any property which includes a scenic landmark or proposed scenic landmark shall be given notice of any public hearing relating to the designation of such proposed landmark, landmark site, interior landmark or scenic landmark, the amendment to any designation thereof or the proposed rescission of any designation or amendment thereto. Such notice may be served by the commission by registered mail addressed to the owner or owners at his or her or their last known address or addresses, as the same appear in the records of the office of the commissioner of finance or if there is no name in such records, such notice may be served by ordinary mail addressed to "Owner" at the street address of the improvement parcel or property in question. Failure by the commission to give such notices shall not invalidate or affect any proceedings pursuant to this chapter relating to such improvement parcel or property.
@@ -922,7 +998,9 @@ d. The commission, may, in its discretion, direct that notice of any such public
 
 
 
-*§ 25-314 Extension of time for action by commission. * ::
+
+
+*§ 25-314 Extension of time for action by commission.* ::
 
 
 Whenever, under the provisions of this chapter, the commission is required or authorized, within a prescribed period of time, to make any determination or perform any act in relation to any request for a certificate of no effect on protected architectural features, a certificate of appropriateness or a permit for minor work, the applicant may extend such period of time by his or her written consent filed with the commission.
@@ -930,7 +1008,9 @@ Whenever, under the provisions of this chapter, the commission is required or au
 
 
 
-*§ 25-315 Determinations of the commission; notice thereof. * ::
+
+
+*§ 25-315 Determinations of the commission; notice thereof.* ::
 
 
 a. Any determination of the commission granting or denying a certificate of no effect on protected architectural features, a certificate of appropriateness or a permit for minor work shall set forth the reasons for such determination.
@@ -942,7 +1022,9 @@ c. Subject to the provisions of section 25-304 of this chapter, any determinatio
 
 
 
-*§ 25-316 Transmission of certificates and applications to proper city agency. * ::
+
+
+*§ 25-316 Transmission of certificates and applications to proper city agency.* ::
 
 
 In any case where a certificate of no effect on protected architectural features, certificate of appropriateness or notice to proceed is granted by the commission to an applicant who has filed with the commission a copy of an application for a permit from the department of buildings, the commission shall transmit such certificate or a copy of such notice to the department of buildings. In any case where any such certificate or notice is granted to an applicant who has filed an application for a special permit with the city planning commission or the board of standards and appeals pursuant to article seven of the zoning resolution, the commission shall transmit such certificate or a copy of such notice to the planning commission or the board of standards and appeals, as the case may be.
@@ -950,7 +1032,9 @@ In any case where a certificate of no effect on protected architectural features
 
 
 
-*§ 25-317 Criminal punishments and fines. * ::
+
+
+*§ 25-317 Criminal punishments and fines.* ::
 
 
 a. Any person who violates any provision of subdivision a of section 25-305 of this chapter or any order issued by the chair with respect to such provisions shall be guilty of a misdemeanor and shall be punished by a fine of not more than ten thousand dollars and not less than five thousand dollars, or by imprisonment for not more than one year, or by both such fine and imprisonment.
@@ -964,7 +1048,9 @@ d. For the purposes of this subdivision, each day during which there exists any 
 
 
 
-*§ 25-317.1 Civil penalties. * ::
+
+
+*§ 25-317.1 Civil penalties.* ::
 
 
 a. Any person who violates any provision of sections 25-305, 25-310 or 25-311 or subdivision c of section 25-317 of this chapter or any order issued by the chair with respect to such provisions shall be liable for a civil penalty which may be recovered by the corporation counsel in a civil action in any court of competent jurisdiction. Such civil penalty shall be determined as follows:
@@ -1024,7 +1110,9 @@ b. In addition to or as an alternative to any of the remedies and penalties prov
 
 
 
-*§ 25-317.2 Violations of landmarks laws: enforcement. * ::
+
+
+*§ 25-317.2 Violations of landmarks laws: enforcement.* ::
 
 
 a. Stop-work orders.
@@ -1050,7 +1138,9 @@ f. In addition to police officers, officers and employees of the commission and 
 
 
 
-*§ 25-318 Reports by commission on plans for proposed projects. * ::
+
+
+*§ 25-318 Reports by commission on plans for proposed projects.* ::
 
 
 a. Plans for the construction, reconstruction, alteration or demolition of any improvement or proposed improvement which:
@@ -1070,7 +1160,9 @@ d. In addition to the powers conferred by this chapter, the commission shall hav
 
 
 
-*§ 25-319 Regulations. * ::
+
+
+*§ 25-319 Regulations.* ::
 
 
 The commission may from time to time promulgate, amend and rescind such regulations as it may deem necessary to effectuate the purposes of this chapter, including, but not limited to, regulations:
@@ -1086,7 +1178,9 @@ The commission may from time to time promulgate, amend and rescind such regulati
 
 
 
-*§ 25-320 Investigations and reports. * ::
+
+
+*§ 25-320 Investigations and reports.* ::
 
 
 The commission may make such investigations and studies of matters relating to the protection, enhancement, perpetuation or use of landmarks, interior landmarks, scenic landmarks and historic districts, and to the restoration of landmarks, interior landmarks, scenic landmarks and buildings in historic districts as the commission may, from time to time, deem necessary or appropriate for the effectuation of the purposes of this chapter, and may submit reports and recommendations as to such matters to the mayor and other agencies of the city. In making such investigations and studies, the commission may hold such public hearings as it may deem necessary or appropriate.
@@ -1094,7 +1188,9 @@ The commission may make such investigations and studies of matters relating to t
 
 
 
-*§ 25-321 Applicability. * ::
+
+
+*§ 25-321 Applicability.* ::
 
 
 The provisions of this chapter shall be inapplicable to the construction, reconstruction, alteration or demolition of any improvement on a landmark site or in a historic district or containing an interior landmark, or of any landscape feature of a scenic landmark, where a permit for the performance of such work was issued by the department of buildings, or, in the case of a landscape feature of a scenic landmark, where plans for such work have been approved, prior to the effective date of the designation, or amended or modified designation, pursuant to the provisions of section 25-303 of this chapter, first making the provisions of this chapter applicable to such improvement or landscape feature or to the improvement parcel or property in which such improvement or landscape feature is or is to be located.
@@ -1102,7 +1198,9 @@ The provisions of this chapter shall be inapplicable to the construction, recons
 
 
 
-*§ 25-322 Notification; lease notification. * ::
+
+
+*§ 25-322 Notification; lease notification.* ::
 
 
 a. Upon designation by the commission of any improvement or property as a landmark and of any landmark site, interior landmark or historic district, or any amendment of such designation, the owner of such improvement or property shall be notified in writing of such designation by the commission. Such notice shall be sent to the owner or owners at his or her or their last known address or addresses, as the same appear in the records of the office of the commissioner of finance or if there is no name in such records, such notice may be sent to the street address of the improvement parcel or property in question, addressed to "Owner". The failure by the commission to give notice of designation as required by this subdivision shall not invalidate or affect any actions or proceedings pursuant to this chapter relating to such improvement parcel or property, except that no action or proceeding pursuant to subparagraph d of this section shall be commenced until thirty days after such notice has been given.
@@ -1119,7 +1217,9 @@ d. Any person who violates subdivision b of this section, or the regulations pro
 Chapter 4: City Business Improvement Districts
 --------------------------------------------------
 
-*§ 25-401 Authorization for the establishment of city business improvement districts. * ::
+
+
+*§ 25-401 Authorization for the establishment of city business improvement districts.* ::
 
 
 Pursuant to the provisions of section nine hundred eighty of the general municipal law, business improvement districts shall be established and extended as hereinafter provided.
@@ -1127,7 +1227,9 @@ Pursuant to the provisions of section nine hundred eighty of the general municip
 
 
 
-*§ 25-402 Definitions. * ::
+
+
+*§ 25-402 Definitions.* ::
 
 
 As used in this chapter:
@@ -1149,7 +1251,9 @@ As used in this chapter:
 
 
 
-*§ 25-403 Contents of the district plan. * ::
+
+
+*§ 25-403 Contents of the district plan.* ::
 
 
 The district plan shall contain the following;
@@ -1181,7 +1285,9 @@ The district plan shall contain the following;
 
 
 
-*§ 25-404 Powers of the city council. * ::
+
+
+*§ 25-404 Powers of the city council.* ::
 
 
 Upon establishment of a district pursuant to the provisions of this chapter, the city council shall have authority to exercise the following powers with respect to such district, subject to the provisions of this chapter:
@@ -1227,7 +1333,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-405 District plan. * ::
+
+
+*§ 25-405 District plan.* ::
 
 
 (a) The mayor may provide for the preparation of a district plan, upon his or her own initiative, or at the request of an individual or agency designated by him or her, or at the request of the city council, or upon the written petition, signed and acknowledged, of (1) the owners of at least fifty-one percent of the assessed valuation of all the taxable real property within the boundaries of the district proposed for establishment or extension, as shown upon the latest completed assessment roll of the city, and (2) at least fifty-one percent of the owners of real property within the area included in the district proposed for establishment or extension.
@@ -1243,7 +1351,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-406 Notice and hearing * ::
+
+
+*§ 25-406 Notice and hearing* ::
 
 
 (a) After the filing of the district plan in the office of the city clerk, the city council may adopt a resolution and shall enter the same in the minutes of its proceedings. This resolution shall contain a copy of the district plan, any report of the city planning commission or board, the fact that a district plan is on file in the city clerk's office for public inspection and the time when and the place where the city council will meet and hold a public hearing to hear all persons interested in the subject thereof.
@@ -1257,7 +1367,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-407 Establishment or extension of the district. * ::
+
+
+*§ 25-407 Establishment or extension of the district.* ::
 
 
 (a) Not earlier than thirty days after the conclusion of the last day of the public hearing held pursuant to section 25-406 of this chapter, the city council shall determine:
@@ -1281,7 +1393,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-408 Review by the state comptroller. * ::
+
+
+*§ 25-408 Review by the state comptroller.* ::
 
 
 (a) The state comptroller shall review as provided in this section: (1) the establishment or extension of a district; and (2) the amendment of a district plan pursuant to subdivision (c) of section 25-410 of this chapter.
@@ -1305,7 +1419,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-409 Publication; filing; judicial review. * ::
+
+
+*§ 25-409 Publication; filing; judicial review.* ::
 
 
 (a) The city clerk shall cause a certified copy of the local law adopted pursuant to the provisions of this chapter establishing or extending any district, or increasing the maximum total amount proposed to be expended for the improvement in any district or extension, or changing the method of assessment, or authorizing the district to incur debt to provide for additional improvements or services within the district, to be duly recorded in the city clerk's office within ten days after such local law becomes effective. When so recorded this local law shall be presumptive evidence of the regularity of the proceedings for the establishment or extension of the district, of the proceedings instituted for the construction of any improvement and of all other actions taken in relation to it.
@@ -1317,7 +1433,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-410 Amendments to the district plan. * ::
+
+
+*§ 25-410 Amendments to the district plan.* ::
 
 
 (a) At any time after the establishment or extension of a district pursuant to the provisions of this chapter, the district plan upon which the establishment or extension was based, may, upon the recommendation of the district management association, be amended by the city council after compliance with the procedures set forth in this section.
@@ -1329,7 +1447,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-411 Expense of the district. * ::
+
+
+*§ 25-411 Expense of the district.* ::
 
 
 (a) The expense incurred in the construction or operation of any improvement or provision of additional services in a district pursuant to this chapter shall be financed in accordance with the district plan upon which the establishment or extension of the district was based. Services for which district property owners are charged pursuant to the plan must be in addition to or an enhancement of those provided by the city prior to the district's establishment. The expense and cost apportioned to benefited real property in accordance with the plan shall be a charge upon each benefited parcel of real property within the district.
@@ -1341,7 +1461,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-412 Tax and debt limitations. * ::
+
+
+*§ 25-412 Tax and debt limitations.* ::
 
 
 (a) The aggregate amount of outstanding indebtedness that is incurred to provide funds for capital improvements pursuant to this chapter shall be chargeable against the city's constitutional debt limit and may not exceed ten percent of the amount allowable under that limit. The aggregate amount of outstanding indebtedness that is incurred to provide funds for capital improvements pursuant to this chapter and that is chargeable against the property within the district may not exceed seven percent of the average full valuation of taxable real property in the district.
@@ -1351,7 +1473,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-413 Expenditure of district funds. * ::
+
+
+*§ 25-413 Expenditure of district funds.* ::
 
 
 (a) The proceeds of any charge imposed pursuant to this chapter shall be held by the comptroller and shall be separately accounted for in the books and records of the city. None of the proceeds collected pursuant to this chapter shall be used for any purposes other than those set forth in the district plan. These funds may be paid out for district purposes in accordance with the general procedures for payment of other city expenditures.
@@ -1361,7 +1485,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-414 District management association. * ::
+
+
+*§ 25-414 District management association.* ::
 
 
 (a) There shall be a district management association for each district established pursuant to the provisions of this chapter (which shall pursuant to the not-for-profit corporation law have one or more classes of membership, voting or nonvoting) for the purpose of carrying out such activities as may be prescribed in the plan. Notwithstanding any inconsistent provision of paragraph (e) of section six hundred eleven of the not-for-profit corporation law, the certificate of incorporation or by-laws of such association shall provide for voting representation of owners of property and tenants within the district, and may provide that the votes of members who are property owners be weighted in proportion to the assessment levied or to be levied against the properties within the district, provided that in no case shall the total number of votes assigned to any one such member or to any number of such members under common ownership or control exceed thirty-three and one-third percent of the total number of votes which may be cast.
@@ -1371,6 +1497,8 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 (c) In addition to such other powers as are conferred on it by law, the district management association may make recommendations to the city council with respect to any matter involving or relating to the district.
 
 (d) For such consideration as it may deem appropriate and consistent with the powers granted pursuant to section 25-404 of this chapter, the city council may license or grant to the district management association the right to undertake or permit commercial activities or other private uses of the streets or other parts of the district in which the city has any real property interest.
+
+
 
 
 
@@ -1385,7 +1513,9 @@ Upon establishment of a district pursuant to the provisions of this chapter, the
 
 
 
-*§ 25-416 Existing districts. * ::
+
+
+*§ 25-416 Existing districts.* ::
 
 
 Any special improvement or assessment districts, or any business improvement districts established pursuant to article two-B of the general city law, or any districts having filed an application with the state comptroller as provided in such article prior to the effective date of chapter two hundred eight-two of the laws of nineteen hundred eighty-nine, shall be subject to the provisions of this chapter but shall not be required to comply with any provisions of this chapter which are contrary to or more restrictive than those under which the district was established or proposed to be established as evidenced by an application filed with the state comptroller prior to the effective date of chapter two hundred eight-two of the laws of nineteen hundred eighty-nine. Any reference to article two-B of the general city law or any section thereof in any state or local law, plan or agreement shall be deemed to be a reference to article nineteen-A of the general municipal law, or the appropriate provision of such article.
@@ -1393,7 +1523,9 @@ Any special improvement or assessment districts, or any business improvement dis
 
 
 
-*§ 25-417 Severability. * ::
+
+
+*§ 25-417 Severability.* ::
 
 
 If any provision of any section of this chapter or the application thereof to any person or circumstance shall be adjudged invalid by any court of competent jurisdiction, such order or judgment shall be confined in its operation to the controversy in which it was rendered and shall not affect or invalidate the remainder of any provisions of any section of this chapter or the application of any part thereof to any other person or circumstance and to this end the provisions of each section of this chapter are hereby declared to be severable.
@@ -1404,7 +1536,9 @@ If any provision of any section of this chapter or the application thereof to an
 Chapter 5: Establishment, Extension and Amendment of City Business Improvement Districts
 --------------------------------------------------
 
-*§ 25-420 Steinway Street Business Improvement District. * ::
+
+
+*§ 25-420 Steinway Street Business Improvement District.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Queens, the Steinway Street Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1416,7 +1550,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-420.1 Steinway Street business improvement district. * ::
+
+
+*§ 25-420.1 Steinway Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Steinway Street business improvement district beginning on July 1, 2014, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four hundred thousand dollars ($400,000).
@@ -1426,7 +1562,9 @@ b.    The amount of such expenditure to be levied upon each property in the d
 
 
 
-*§ 25-421 Metrotech Area Business Improvement District. * ::
+
+
+*§ 25-421 Metrotech Area Business Improvement District.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Metrotech Area Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk purusant to subdivision b of this section.
@@ -1438,7 +1576,9 @@ c. The district plan shall not be amended except with accordance with chapter fo
 
 
 
-*§ 25-421.1 Metrotech Area business improvement district. * ::
+
+
+*§ 25-421.1 Metrotech Area business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Metrotech Area business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four million two hundred seventy-four thousand four hundred ninety-two dollars ($4,274,492), of which three million two hundred seventy-four thousand four hundred ninety-two dollars ($3,274,492) may be expended in the north subdistrict, and one million dollars ($1,000,000) may be expended in the south subdistrict.
@@ -1450,7 +1590,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-421.2 Metrotech Area business improvement district; amendment of the district plan. * ::
+
+
+*§ 25-421.2 Metrotech Area business improvement district; amendment of the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize additional services for the Metrotech Area business improvement district, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by providing such additional services, there is hereby authorized in such district the additional services set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1460,7 +1602,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-421.3 Metrotech Area business improvement district; extension of district. * ::
+
+
+*§ 25-421.3 Metrotech Area business improvement district; extension of district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Metrotech Area business improvement district in the borough of Brooklyn is hereby extended. Such district is extended in accordance with the amended district plan of 2015 required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1474,7 +1618,9 @@ c. The amended district plan of 2015 shall not be further amended except in acco
 
 
 
-*§ 25-421.4 Metrotech Area business improvement district; amendment of the district plan. * ::
+
+
+*§ 25-421.4 Metrotech Area business improvement district; amendment of the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize a change in the method of assessment upon which the district charge in the Metrotech Area business improvement district is based, and the council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there is hereby authorized in such district such change as is set forth in the amended district plan of 2015 required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1486,7 +1632,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-422 Times Square Business Improvement District. * ::
+
+
+*§ 25-422 Times Square Business Improvement District.* ::
 
 
 a. The City Council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Times Square Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1498,7 +1646,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-422.1 Times Square business improvement district. * ::
+
+
+*§ 25-422.1 Times Square business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Times Square business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of fourteen million three hundred forty-seven thousand two hundred ninety-three dollars ($14,347,293).
@@ -1510,7 +1660,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-422.2 Times Square business improvement district; amendment of the district plan. * ::
+
+
+*§ 25-422.2 Times Square business improvement district; amendment of the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize a change in the method of assessment upon which the district charge in the Times Square business improvement district is based, and the council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there is hereby authorized in such district such change as is set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1520,7 +1672,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-422.3 Times Square business improvement district; extension of district. * ::
+
+
+*§ 25-422.3 Times Square business improvement district; extension of district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Times Square business improvement district in the borough of Manhattan is hereby extended. Such district is extended in accordance with the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1532,7 +1686,9 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
-*§ 25-422.4 Times Square business improvement district; amendment of the district plan. * ::
+
+
+*§ 25-422.4 Times Square business improvement district; amendment of the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize a change in the method of assessment upon which the district charge in the Times Square business improvement district is based, and the council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there is hereby authorized in such district such change as is set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1542,7 +1698,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-423 34th Street Business Improvement District. * ::
+
+
+*§ 25-423 34th Street Business Improvement District.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the 34th Street Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1554,7 +1712,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-423.1 34th Street business improvement district. * ::
+
+
+*§ 25-423.1 34th Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 34th Street business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of twelve million six hundred forty thousand dollars ($12,640,000).
@@ -1566,7 +1726,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-423.2 34th Street Business Improvement District; Amendments to the District Plan. * ::
+
+
+*§ 25-423.2 34th Street Business Improvement District; Amendments to the District Plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize a change in the method of assessment upon which the district charge in the 34th Street business improvement district is based, and the city council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there is hereby authorized in such district such change as is set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1576,7 +1738,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-423.3 34th Street business improvement district; amendments to the district plan. * ::
+
+
+*§ 25-423.3 34th Street business improvement district; amendments to the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize additional services and modify existing services for the 34th Street business improvement district and to authorize a change in the method of assessment upon which the district charge in the 34th Street business improvement district is based, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such changes, there is hereby authorized in the 34th Street business improvement district such changes as set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision c of this section.
@@ -1588,7 +1752,9 @@ c. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-424 Myrtle Avenue Business Improvement District. * ::
+
+
+*§ 25-424 Myrtle Avenue Business Improvement District.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Myrtle Avenue business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of five hundred seven thousand six hundred seventy-six dollars ($507,676).
@@ -1600,7 +1766,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-424.1 Myrtle Avenue business improvement district; amendment to the district plan. * ::
+
+
+*§ 25-424.1 Myrtle Avenue business improvement district; amendment to the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize additional services and modify existing services for the Myrtle Avenue business improvement district, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such changes, there are hereby authorized in the Myrtle Avenue business improvement district such changes as set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1610,7 +1778,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-425 Graham Avenue business improvement district. * ::
+
+
+*§ 25-425 Graham Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Graham Avenue business improvement district beginning on July 1, 2002, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one hundred thirty-seven thousand six hundred thirty-eight dollars ($137,638).
@@ -1620,7 +1790,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-426 82nd Street Business Improvement District. * ::
+
+
+*§ 25-426 82nd Street Business Improvement District.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 82nd Street business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred fifty-four thousand four hundred fifty ($254,450).
@@ -1632,7 +1804,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-427 Grand Central business improvement district. * ::
+
+
+*§ 25-427 Grand Central business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Grand Central business improvement district beginning on July 1, 2011, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of twelve million seven hundred nine thousand three hundred seventy-two dollars ($12,709,372).
@@ -1642,7 +1816,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-427.1 Grand Central business improvement district; extension of district. * ::
+
+
+*§ 25-427.1 Grand Central business improvement district; extension of district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Grand Central business improvement district in the borough of Manhattan is hereby extended. Such district is extended in accordance with the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1654,7 +1830,9 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
-*§ 25-428 Lower East Side Business Improvement District. * ::
+
+
+*§ 25-428 Lower East Side Business Improvement District.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Lower East Side Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1666,12 +1844,16 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-428.1 Lower East Side business improvement district. * ::
+
+
+*§ 25-428.1 Lower East Side business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Lower East Side business improvement district beginning on July 1, 2013, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of nine hundred seventy-four thousand six hundred dollars ($974,600).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Lower East Side business improvement district plan.
+
+
 
 
 
@@ -1688,7 +1870,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-429 East Brooklyn business improvement district. * ::
+
+
+*§ 25-429 East Brooklyn business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the east Brooklyn business improvement district beginning on July 1, 1996, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three hundred forty-nine thousand five hundred dollars ($349,500).
@@ -1698,7 +1882,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-430 Woodhaven business improvement district. * ::
+
+
+*§ 25-430 Woodhaven business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefitted is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Queens, the Woodhaven Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1710,7 +1896,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-430.1 Woodhaven business improvement district. * ::
+
+
+*§ 25-430.1 Woodhaven business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Woodhaven business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred seventy-five thousand dollars ($275,000).
@@ -1722,7 +1910,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-431 Fifth Avenue Association business improvement district. * ::
+
+
+*§ 25-431 Fifth Avenue Association business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefitted is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Fifth Avenue Association Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1734,7 +1924,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-431.1 Fifth Avenue Association business improvement district. * ::
+
+
+*§ 25-431.1 Fifth Avenue Association business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Times Square business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure three million two hundred seven thousand dollars ($3,207,000).
@@ -1746,7 +1938,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-432 Fashion Center business improvement district. * ::
+
+
+*§ 25-432 Fashion Center business improvement district.* ::
 
 
 a. The City Council having determined, pursuant to section 25-432 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Fashion Center Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1758,7 +1952,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-432.1 Fashion Center business improvement district. * ::
+
+
+*§ 25-432.1 Fashion Center business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Fashion Center business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of eight million eight hundred thousand dollars ($8,800,000).
@@ -1770,7 +1966,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-433 Pitkin Avenue business improvement district. * ::
+
+
+*§ 25-433 Pitkin Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Pitkin Avenue Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1782,7 +1980,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-433.1 Pitkin Avenue business improvement district. * ::
+
+
+*§ 25-433.1 Pitkin Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Pitkin Avenue business improvement district beginning on July 1, 2009, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred twenty-five thousand dollars ($225,000).
@@ -1792,7 +1992,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-434 Hub Third Avenue business improvement district. * ::
+
+
+*§ 25-434 Hub Third Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Hub Third Avenue business improvement district beginning on July 1, 2010, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four hundred fifty thousand nine hundred twenty-seven dollars ($450,927).
@@ -1802,7 +2004,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-434.1 Hub Third Avenue business improvement district; amendments to the district plan. * ::
+
+
+*§ 25-434.1 Hub Third Avenue business improvement district; amendments to the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize additional services and capital improvements and modify existing services in the Hub Third Avenue business improvement district and to authorize a change in the method of assessment upon which the district charge in the Hub Third Avenue business improvement district is based, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such changes, there are hereby authorized in the Hub Third Avenue business improvement district such changes as set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision c of this section.
@@ -1814,7 +2018,9 @@ c. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-435 Flatbush Avenue business improvement district. * ::
+
+
+*§ 25-435 Flatbush Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Flatbush Avenue business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three hundred eighty-six thousand dollars ($386,000).
@@ -1826,7 +2032,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-436 Grand Street business improvement district. * ::
+
+
+*§ 25-436 Grand Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Grand Street business improvement district beginning on July 1, 2013and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred twenty-six thousand four hundred sixty dollars ($226,460).
@@ -1836,7 +2044,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-437 125th street business improvement district. * ::
+
+
+*§ 25-437 125th street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the 125th Street Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1848,7 +2058,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-437.1 125th Street business improvement district. * ::
+
+
+*§ 25-437.1 125th Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 125th Street business improvement district beginning on July 1, 2014, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million five thousand seven hundred ninety-three dollars ($1,005,793).
@@ -1858,7 +2070,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-438 Village Alliance business improvement district. * ::
+
+
+*§ 25-438 Village Alliance business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Village Alliance Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1870,7 +2084,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-438.1 Village Alliance business improvement district. * ::
+
+
+*§ 25-438.1 Village Alliance business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Village Alliance business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million four hundred thousand dollars ($1,400,000).
@@ -1882,7 +2098,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-438.2 Village Alliance business improvement district; extension of district. * ::
+
+
+*§ 25-438.2 Village Alliance business improvement district; extension of district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Village Alliance business improvement district in the borough of Manhattan is hereby extended. Such district is extended in accordance with the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1894,7 +2112,9 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
-*§ 25-439 White Plains Road business improvement district. * ::
+
+
+*§ 25-439 White Plains Road business improvement district.* ::
 
 
 a. The city council having determined pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the White Plains Road Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1906,7 +2126,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-439.1 White Plains Road business improvement district. * ::
+
+
+*§ 25-439.1 White Plains Road business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the White Plains Road business improvement district beginning on July 1, 2007, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one hundred ten thousand dollars ($110,000).
@@ -1916,7 +2138,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-440 Washington Heights business improvement district. * ::
+
+
+*§ 25-440 Washington Heights business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Washington Heights business improvement district beginning on July 1, 2005, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of five hundred seventeen thousand four hundred twenty-two dollars ($517,422).
@@ -1926,7 +2150,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-441 Bryant Park business improvement district. * ::
+
+
+*§ 25-441 Bryant Park business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Bryant Park business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million six hundred thousand dollars ($1,600,000).
@@ -1938,7 +2164,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-441.1 Bryant Park business improvement district; extension of district. * ::
+
+
+*§ 25-441.1 Bryant Park business improvement district; extension of district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Bryant Park business improvement district in the borough of Manhattan is hereby extended. Such district is extended in accordance with the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1950,7 +2178,9 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
-*§ 25-441.2 Bryant Park business improvement district; amendment of the district plan. * ::
+
+
+*§ 25-441.2 Bryant Park business improvement district; amendment of the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize a change in the method of assessment upon which the district charge in the Bryant Park business improvement district is based, and the council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there is hereby authorized in such district such change as is set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1960,7 +2190,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-442 Downtown-Lower Manhattan Business Improvement District. * ::
+
+
+*§ 25-442 Downtown-Lower Manhattan Business Improvement District.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Downtown-Lower Manhattan Business Improvement District. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1972,7 +2204,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-442.1 Downtown-Lower Manhattan business improvement district; extension of district. * ::
+
+
+*§ 25-442.1 Downtown-Lower Manhattan business improvement district; extension of district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Downtown-Lower Manhattan business improvement district in the borough of Manhattan is hereby extended. Such district is extended in accordance with the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -1984,12 +2218,16 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
-*§ 25-442.2 Downtown-Lower Manhattan business improvement district. * ::
+
+
+*§ 25-442.2 Downtown-Lower Manhattan business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Downtown-Lower Manhattan business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of twenty million four hundred thousand dollars ($20,400,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Downtown-Lower Manhattan business improvement district plan, as amended.
+
+
 
 
 
@@ -2006,7 +2244,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-443 Sunset Park 5th Avenue business improvement district. * ::
+
+
+*§ 25-443 Sunset Park 5th Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Sunset Park 5th Avenue business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2018,7 +2258,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-443.1 Sunset Park 5th Avenue business improvement district. * ::
+
+
+*§ 25-443.1 Sunset Park 5th Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Sunset Park 5th Avenue business improvement district beginning on July 1, 2008, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three hundred thousand dollars ($300,000).
@@ -2028,7 +2270,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-444 14th Street-Union Square business improvement district; extension of district. * ::
+
+
+*§ 25-444 14th Street-Union Square business improvement district; extension of district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the 14th Street-Union Square Business Improvement District in the borough of Manhattan is hereby extended. Such district is extended in accordance with the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2040,7 +2284,9 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
-*§ 25-444.1 14th Street-Union Square business improvement district. * ::
+
+
+*§ 25-444.1 14th Street-Union Square business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 14th Street-Union Square business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two million six hundred thousand dollars ($2,600,000).
@@ -2052,12 +2298,16 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-445 Kings Highway business improvement district. * ::
+
+
+*§ 25-445 Kings Highway business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Kings Highway business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four hundred thousand dollars ($400,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Kings Highway business improvement district plan.
+
+
 
 
 
@@ -2074,7 +2324,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-446 NoHo New York business improvement district. * ::
+
+
+*§ 25-446 NoHo New York business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the NoHo New York business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2086,7 +2338,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-447 Madison Avenue business improvement district. * ::
+
+
+*§ 25-447 Madison Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Madison Avenue business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2098,7 +2352,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-447.1 Madison Avenue business improvement district; extension of district. * ::
+
+
+*§ 25-447.1 Madison Avenue business improvement district; extension of district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Madison Avenue business improvement district in the borough of Manhattan is hereby extended. Such district is extended in accordance with the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2106,6 +2362,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the amended district plan upon which the Madison Avenue business improvement district, and the extension thereof, is based.
 
 c. The amended district plan shall not be further amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2122,7 +2380,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-448 180th Street business improvement district. * ::
+
+
+*§ 25-448 180th Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Queens, the 180th Street business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2130,6 +2390,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the 180th Street business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2146,7 +2408,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-449 Mosholu-Jerome-East Gun Hill Road business improvement district. * ::
+
+
+*§ 25-449 Mosholu-Jerome-East Gun Hill Road business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the Mosholu-Jerome-East Gun Hill Road business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2154,6 +2418,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Mosholu-Jerome-East Gun Hill Road business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2168,7 +2434,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-450 Lincoln Square business improvement district. * ::
+
+
+*§ 25-450 Lincoln Square business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Lincoln Square business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2180,7 +2448,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-450.1 Lincoln Square business improvement district. * ::
+
+
+*§ 25-450.1 Lincoln Square business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Lincoln Square business improvement district beginning on July 1, 2013, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two million five hundred thousand dollars ($2,500,000).
@@ -2190,12 +2460,16 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-451 Church Avenue business improvement district. * ::
+
+
+*§ 25-451 Church Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Church Avenue business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred three thousand dollars ($203,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Church Avenue business improvement district plan.
+
+
 
 
 
@@ -2212,7 +2486,9 @@ b.  Immediately upon adoption of this local law, the council shall file with the
 
 
 
-*§ 25-452 47th Street business improvement district. * ::
+
+
+*§ 25-452 47th Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the 47th Street business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2224,7 +2500,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-452.1 47th Street business improvement district. * ::
+
+
+*§ 25-452.1 47th Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 47th Street business improvement district beginning on July 1, 2014, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of nine hundred thousand dollars ($900,000).
@@ -2234,7 +2512,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-453 North Flatbush Avenue business improvement district. * ::
+
+
+*§ 25-453 North Flatbush Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the North Flatbush Avenue business improvement district beginning on July 1, 2012, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred thousand dollars ($200,000).
@@ -2244,7 +2524,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-454 Montague Street business improvement district. * ::
+
+
+*§ 25-454 Montague Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Montague Street business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2256,7 +2538,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-454.1 Montague Street business improvement district. * ::
+
+
+*§ 25-454.1 Montague Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Montague Street business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred ten thousand dollars ($210,000).
@@ -2268,7 +2552,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-455 Columbus Avenue Business Improvement District. * ::
+
+
+*§ 25-455 Columbus Avenue Business Improvement District.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Columbus Avenue business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2280,7 +2566,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-455.1 Columbus Avenue business improvement district. * ::
+
+
+*§ 25-455.1 Columbus Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Columbus Avenue business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four hundred fifty-eight thousand eight hundred dollars ($458,800).
@@ -2292,7 +2580,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-456 86th Street Bay Ridge business improvement district. * ::
+
+
+*§ 25-456 86th Street Bay Ridge business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the 86th Street Bay Ridge business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2300,6 +2590,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the 86th Street Bay Ridge business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2314,7 +2606,9 @@ b.  The amount of such expenditure to be levied upon each property in the distri
 
 
 
-*§ 25-457 Kingsbridge business improvement district. * ::
+
+
+*§ 25-457 Kingsbridge business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the Kingsbridge business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2326,7 +2620,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-457.1 Kingsbridge business improvement district. * ::
+
+
+*§ 25-457.1 Kingsbridge business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Kingsbridge business improvement district beginning on July 1, 2008, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three hundred twenty-nine thousand dollars ($329,000).
@@ -2336,7 +2632,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-458 East Mid-Manhattan business improvement district. * ::
+
+
+*§ 25-458 East Mid-Manhattan business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the East Mid-Manhattan business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2348,7 +2646,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-458.1 East Mid-Manhattan business improvement district. * ::
+
+
+*§ 25-458.1 East Mid-Manhattan business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the East Mid-Manhattan business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three million five hundred thousand dollars ($3,500,000).
@@ -2360,7 +2660,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-459 Brighton Beach business improvement district. * ::
+
+
+*§ 25-459 Brighton Beach business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Brighton Beach business improvement district beginning on July 1, 2010, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred twenty thousand dollars ($220,000).
@@ -2370,7 +2672,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-460 Downtown Flushing Transit Hub business improvement district. * ::
+
+
+*§ 25-460 Downtown Flushing Transit Hub business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Queens, the Downtown Flushing Transit Hub business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2382,7 +2686,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-461 Columbus/Amsterdam business improvement district. * ::
+
+
+*§ 25-461 Columbus/Amsterdam business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Columbus/Amsterdam business improvement district beginning on July 1, 2014, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three hundred fifty thousand dollars ($350,000).
@@ -2392,7 +2698,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-462 Sutphin Boulevard business improvement district. * ::
+
+
+*§ 25-462 Sutphin Boulevard business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Queens, the Sutphin Boulevard business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2404,7 +2712,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-462.1 Sutphin Boulevard business improvement district. * ::
+
+
+*§ 25-462.1 Sutphin Boulevard business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Sutphin Boulevard business improvement district beginning on July 1, 2013, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred fifty-two thousand dollars ($252,000).
@@ -2414,7 +2724,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-463 Madison/23rd/Flatiron/Chelsea business improvement district. * ::
+
+
+*§ 25-463 Madison/23rd/Flatiron/Chelsea business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Madison/23rd/Flatiron/Chelsea business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision (b) of this section.
@@ -2422,6 +2734,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Madison/23rd/Flatiron/Chelsea business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2436,6 +2750,8 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
+
+
 *§ 25-463.3 Fordham Road business improvement district; amendment of the district plan.* ::
 
 
@@ -2446,7 +2762,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-464 Fordham Road business improvement district. * ::
+
+
+*§ 25-464 Fordham Road business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the Fordham Road business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision (b) of this section.
@@ -2458,12 +2776,16 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
+
+
 *§ 25-464.1 Fordham Road business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Fordham Road business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million ten thousand dollars ($1,010,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Fordham Road business improvement district plan.
+
+
 
 
 
@@ -2482,6 +2804,8 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
+
+
 *§ 25-464.3 Fordham Road business improvement district; amendment of the district plan.** ::
 
 
@@ -2492,7 +2816,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-465 Forest Avenue business improvement district. * ::
+
+
+*§ 25-465 Forest Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Staten Island, the Forest Avenue business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision (b) of this section.
@@ -2500,6 +2826,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Forest Avenue business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2514,7 +2842,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-466 Myrtle Avenue Brooklyn business improvement district. * ::
+
+
+*§ 25-466 Myrtle Avenue Brooklyn business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Myrtle Avenue Brooklyn business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2526,7 +2856,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-466.1 Myrtle Avenue Brooklyn business improvement district; amendment of the district plan. * ::
+
+
+*§ 25-466.1 Myrtle Avenue Brooklyn business improvement district; amendment of the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision (b) of section 25-410 of chapter four of this title, that it is in the public interest to authorize a change in the method of assessment upon which the district charge in the Myrtle Avenue Brooklyn business improvement district is based, and the council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there is hereby authorized in such district such change as is set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2536,7 +2868,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-466.2 Myrtle Avenue Brooklyn business improvement district; amendment of the district plan. * ::
+
+
+*§ 25-466.2 Myrtle Avenue Brooklyn business improvement district; amendment of the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Myrtle Avenue Brooklyn business improvement district beginning on July 1, 2014, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of five hundred seventy-five thousand dollars ($575,000).
@@ -2546,7 +2880,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-467 Queens Plaza/Court Square business improvement district. * ::
+
+
+*§ 25-467 Queens Plaza/Court Square business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Queens, the Queens Plaza/Court Square business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision (b) of this section.
@@ -2558,12 +2894,16 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-467.1 Queens Plaza/Court Square business improvement district. * ::
+
+
+*§ 25-467.1 Queens Plaza/Court Square business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Queens Plaza/Court Square business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of eight hundred thousand dollars ($800,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Queens Plaza/Court Square business improvement district plan.
+
+
 
 
 
@@ -2584,6 +2924,8 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
+
+
 *§ 25-467.3 Queens Plaza/Court Square business improvement district; amendment of the district plan.* ::
 
 
@@ -2596,7 +2938,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-468 161st Street business improvement district. * ::
+
+
+*§ 25-468 161st Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the 161st Street business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision (b) of this section.
@@ -2604,6 +2948,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the 161st Street business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2618,7 +2964,9 @@ b.  The amount of such expenditure to be levied upon each property in the distri
 
 
 
-*§ 25-469 DUMBO business improvement district. * ::
+
+
+*§ 25-469 DUMBO business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the DUMBO business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2630,12 +2978,16 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-469.1 DUMBO business improvement district. * ::
+
+
+*§ 25-469.1 DUMBO business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the DUMBO business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million two hundred fifty thousand dollars ($1,250,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the DUMBO business improvement district plan.
+
+
 
 
 
@@ -2656,7 +3008,9 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
-*§ 25-470 Flatbush-Nostrand Junction business improvement district. * ::
+
+
+*§ 25-470 Flatbush-Nostrand Junction business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Flatbush-Nostrand Junction business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2668,7 +3022,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-471 Bay Ridge 5th Avenue business improvement district. * ::
+
+
+*§ 25-471 Bay Ridge 5th Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Bay Ridge 5th Avenue business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision (b) of this section.
@@ -2676,6 +3032,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Bay Ridge 5th Avenue business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2692,7 +3050,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-472 Court-Livingston-Schermerhorn business improvement district. * ::
+
+
+*§ 25-472 Court-Livingston-Schermerhorn business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn the Court-Livingston-Schermerhorn business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2704,7 +3064,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-472.1 Court-Livingston-Schermerhorn business improvement district. * ::
+
+
+*§ 25-472.1 Court-Livingston-Schermerhorn business improvement district.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Court-Livingston-Schermerhorn business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of nine hundred seven thousand dollars ($907,000).
@@ -2716,7 +3078,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-473 Sunnyside business improvement district. * ::
+
+
+*§ 25-473 Sunnyside business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Queens, the Sunnyside business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2724,6 +3088,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Sunnyside business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2738,7 +3104,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-474 Bayside Village business improvement district. * ::
+
+
+*§ 25-474 Bayside Village business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Queens, the Bayside Village business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2746,6 +3114,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Bayside Village business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2762,7 +3132,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-475 Southern Boulevard business improvement district. * ::
+
+
+*§ 25-475 Southern Boulevard business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the Southern Boulevard business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2774,7 +3146,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-476 Park Slope Fifth Avenue business improvement district. * ::
+
+
+*§ 25-476 Park Slope Fifth Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Park Slope Fifth Avenue business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2786,7 +3160,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-477 Belmont business improvement district. * ::
+
+
+*§ 25-477 Belmont business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the Belmont business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2794,6 +3170,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Belmont business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2810,7 +3188,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-478 Fulton Street business improvement district. * ::
+
+
+*§ 25-478 Fulton Street business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Fulton Street business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2822,12 +3202,16 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
+
+
 *§ 25-478.1 Fulton Street business improvement district; increase in the amount to be expended annually.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Fulton Street business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of five hundred thousand dollars ($500,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Fulton Street business improvement district plan.
+
+
 
 
 
@@ -2848,6 +3232,8 @@ c. The amended district plan shall not be further amended except in accordance w
 
 
 
+
+
 *§ 25-478.3 Fulton Street business improvement district; amendment of the district plan.* ::
 
 
@@ -2860,7 +3246,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-479 Hudson Square business improvement district. * ::
+
+
+*§ 25-479 Hudson Square business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Hudson Square business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2872,7 +3260,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-479.1 Hudson Square business improvement district; amendments to the district plan. * ::
+
+
+*§ 25-479.1 Hudson Square business improvement district; amendments to the district plan.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize additional improvements and to authorize a change in the method of assessment upon which the district charge in the Hudson Square business improvement district is based, and the council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such changes, there are hereby authorized in the Hudson Square business improvement district such changes as are set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2882,7 +3272,9 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
-*§ 25-480 Bed-Stuy Gateway business improvement district. * ::
+
+
+*§ 25-480 Bed-Stuy Gateway business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Bed-Stuy Gateway business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2894,7 +3286,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-481 Atlantic Avenue business improvement district. * ::
+
+
+*§ 25-481 Atlantic Avenue business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Brooklyn, the Atlantic Avenue business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2902,6 +3296,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Atlantic Avenue business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2918,7 +3314,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-482 SoHo business improvement district. * ::
+
+
+*§ 25-482 SoHo business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the SoHo business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2926,6 +3324,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the SoHo business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2942,7 +3342,9 @@ b. The amount of such expenditure to be levied upon each property in the distric
 
 
 
-*§ 25-483 Chinatown business improvement district. * ::
+
+
+*§ 25-483 Chinatown business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of Manhattan, the Chinatown business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2954,7 +3356,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
-*§ 25-484 Westchester Square business improvement district. * ::
+
+
+*§ 25-484 Westchester Square business improvement district.* ::
 
 
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the Westchester Square business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
@@ -2962,6 +3366,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Westchester Square business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -2978,6 +3384,8 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
+
+
 *§ 25-486 West Shore business improvement district.* ::
 
 
@@ -2986,6 +3394,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the West Shore business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -3002,6 +3412,8 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
+
+
 *§ 25-488 Meatpacking Area business improvement district.* ::
 
 
@@ -3010,6 +3422,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Meatpacking Area business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -3028,6 +3442,8 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
+
+
 *§ 25-490 New Dorp business improvement district.* ::
 
 
@@ -3036,6 +3452,8 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the New Dorp business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
 
 
 
@@ -3059,7 +3477,9 @@ c. The district plan shall not be amended except in accordance with chapter four
 Chapter 6: Authorization of Increased Expenditure In Special Assessment Districts
 --------------------------------------------------
 
-*§ 25-601 One Hundred Sixty-fifth Street Mall Special Assessment District. * ::
+
+
+*§ 25-601 One Hundred Sixty-fifth Street Mall Special Assessment District.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the one hundred sixty-fifth street mall special assessment district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred fifty thousand dollars ($250,000).
@@ -3073,7 +3493,9 @@ c. The commissioner of finance shall prepare a roll setting forth separately the
 
 
 
-*§ 25-602 Fulton Mall Special Assessment District. * ::
+
+
+*§ 25-602 Fulton Mall Special Assessment District.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Fulton Mall special assessment district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two million one hundred thousand dollars ($2,100,000).
@@ -3087,7 +3509,9 @@ c. The commissioner of finance shall prepare a roll setting forth separately the
 
 
 
-*§ 25-603 Nassau Street Mall Special Assessment District. * ::
+
+
+*§ 25-603 Nassau Street Mall Special Assessment District.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Nassau street mall special assessment district, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in subdistrict A of such district an annual expenditure of one hundred forty-two thousand five hundred dollars ($142,500) and in subdistrict B of such district an annual expenditure of fifty-six thousand dollars ($56,000).
@@ -3097,7 +3521,9 @@ b. The amount of such expenditure to be levied upon each property in subdistrict
 
 
 
-*§ 25-603.1 Dissolution of Nassau street mall special assessment district. * ::
+
+
+*§ 25-603.1 Dissolution of Nassau street mall special assessment district.* ::
 
 
 The recommendations of the Nassau street mall improvement association concerning the proposed dissolution of the Nassau street mall special assessment district having been requested and considered by the city council in accordance with subdivision (a) of section 25-415 of chapter four of this title, therefore, pursuant to the authority granted by such subdivision, the Nassau street mall special assessment district is hereby dissolved as of the end of calendar day December 31, 1997, provided that as of such date there is no indebtedness, outstanding and unpaid, incurred to accomplish any of the purposes of the Nassau street mall special assessment district.
@@ -3105,7 +3531,9 @@ The recommendations of the Nassau street mall improvement association concerning
 
 
 
-*§ 25-604 Jamaica Center Mall Special Assessment District. * ::
+
+
+*§ 25-604 Jamaica Center Mall Special Assessment District.* ::
 
 
 a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Jamaica Center mall special assessment district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million seventeen thousand five hundred dollars ($1,017,500), of which eight hundred twenty-one thousand six hundred thirty-one dollars ($821,631) may be expended in subdistrict 1 of such district, and one hundred ninety-five thousand eight hundred sixty-nine dollars ($195,869) may be expended in subdistrict 2 of such district.
@@ -3119,6 +3547,8 @@ b. The amount of such expenditure to be levied upon each property in subdistrict
 
 Chapter 7: Conversion of Hotel Space
 --------------------------------------------------
+
+
 
 *§ 25-701 Definitions.* ::
 
@@ -3156,6 +3586,8 @@ Timesharing plan. The term "timesharing plan" means any arrangement, excluding e
 
 
 
+
+
 *§ 25-702 Hotel conversions.* ::
 
 
@@ -3164,6 +3596,8 @@ Except as provided in section 25-703:
 a. No covered lot may have a cumulative hotel conversion factor of greater than 20.
 
 b. No permit from the department of buildings may be issued for work in connection with a covered hotel conversion at a covered lot unless the owner of primary hotel space or covered timeshare space on such covered lot demonstrates to the satisfaction of the commissioner of buildings that such conversion would not increase the cumulative hotel conversion factor for such lot to greater than 20, or provides evidence of a waiver granted pursuant to section 25-703.
+
+
 
 
 
@@ -3193,6 +3627,8 @@ f. Applications for waivers under this section and subsequent related submission
 Chapter 8: Deed Restrictions
 --------------------------------------------------
 
+
+
 *§ 25-801 Definitions.* ::
 
 
@@ -3203,6 +3639,8 @@ Commissioner. The term "commissioner" means the commissioner of citywide adminis
 Deed restriction. The term "deed restriction" means a covenant set forth in a deed, lease that is for a term of 49 years or longer, or easement that limits the use of property located in the city and is imposed by the city when such property is sold or otherwise disposed of by the city.
 
 Department. The term "department" means the department of citywide administrative services.
+
+
 
 
 
@@ -3223,6 +3661,8 @@ a. A request for modification or removal of a deed restriction submitted to the 
    iv. the potential impact of such modification or removal on, at a minimum, the following: the provision of open spaces; the character of certain designated areas of historic and architectural interests; the availability of space for educational, religious, recreational, health, and similar community-based facilities that serve community residents; the availability of local retail businesses; the availability of affordable housing in the community; economic development; and investments in infrastructure.
 
 b. Changes. The department shall not modify or remove any deed restriction without the approval of the mayor, or the mayor's designee, pursuant to section 3-119.
+
+
 
 
 
@@ -3265,6 +3705,8 @@ a. Intake package. A property owner requesting that the department modify or rem
    5. A federal or state tax identification number.
 
 b. The property owner shall promptly report to the department any changes in the information provided in the intake package that occur after the intake package is submitted and while the request is pending.
+
+
 
 
 
@@ -3343,6 +3785,8 @@ f. Committee review.
    1. If, based on the information obtained pursuant to this section, the department finds that the requested modification or removal of a deed restriction is appropriate and furthers the best interests of the city, the department shall submit a preliminary recommendation to approve the request to the committee established pursuant to section 3-119. Such preliminary recommendation shall include any proposed consideration amount and shall be accompanied by the materials required pursuant to pursuant to section 3-119.
 
    2. If the committee approves the department's preliminary recommendation, within three business days of such approval, the department shall issue a letter to the property owner setting forth such recommendation; any required consideration, as approved or modified by the committee; and any further actions the property owner must take to obtain the requested modification or removal of the deed restriction, which shall include, but not be limited to, the property owner's agreement in writing to take the steps necessary to obtain the requested modification or removal. If the property owner does not respond to such letter within 30 calendar days after the receipt of such letter, the department shall cease any further action with regard to the requested modification or removal until a response is received; provided, however, if a property owner fails to respond or fails to request more time to respond within 60 days following receipt of such letter, the department shall treat such response as a new request.
+
+
 
 
 

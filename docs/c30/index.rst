@@ -7,7 +7,9 @@ Chapter 1: Administration
 
 **Article 101: General**
 
-*§ 28-101.1 Title. * ::
+
+
+*§ 28-101.1 Title.* ::
 
 
 The provisions of this chapter shall apply to the administration of the codes set forth in this title and the 1968 building code. This title shall be known and may be cited as the "New York city construction codes" and includes: The New York city plumbing code. The New York city building code. The New York city mechanical code. The New York city fuel gas code. The New York city energy conservation code.
@@ -15,7 +17,9 @@ The provisions of this chapter shall apply to the administration of the codes se
 
 
 
-*§ 28-101.2 Intent. * ::
+
+
+*§ 28-101.2 Intent.* ::
 
 
 The purpose of the New York city construction codes is to provide reasonable minimum requirements and standards, based upon current scientific and engineering knowledge, experience and techniques, and the utilization of modern machinery, equipment, materials, and forms and methods of construction, for the regulation of building construction in the city of New York in the interest of public safety, health, welfare and the environment, and with due regard for building construction and maintenance costs.
@@ -23,7 +27,9 @@ The purpose of the New York city construction codes is to provide reasonable min
 
 
 
-*§ 28-101.3 Codes. * ::
+
+
+*§ 28-101.3 Codes.* ::
 
 
 Any reference in this title to "this code" or "the code" shall be deemed to be a reference to this title and all of the codes comprising the New York city construction codes unless the context or subject matter requires otherwise. Whenever a section or subsection of this code is cited or referred to, subordinate consecutively numbered sections and subsections of the cited provision are deemed to be included in such reference unless the context or subject matter requires otherwise.
@@ -31,7 +37,9 @@ Any reference in this title to "this code" or "the code" shall be deemed to be a
 
 
 
-*§ 28-101.3.1 Occupancy classifications in prior codes. * ::
+
+
+*§ 28-101.3.1 Occupancy classifications in prior codes.* ::
 
 
 With regard to prior code buildings, references to occupancy classifications in this code shall be deemed to refer to the equivalent occupancy classification under the 1968 or prior building codes.
@@ -39,7 +47,9 @@ With regard to prior code buildings, references to occupancy classifications in 
 
 
 
-*§ 28-101.4 Effective date. * ::
+
+
+*§ 28-101.4 Effective date.* ::
 
 
 Except as otherwise provided in sections 28-101.4.1, 28-101.4.2, 28-101.4.3 and 28-101.4.4 on and after July 1, 2008, all work shall be performed in accordance with the provisions of this code.
@@ -47,7 +57,9 @@ Except as otherwise provided in sections 28-101.4.1, 28-101.4.2, 28-101.4.3 and 
 
 
 
-*§ 28-101.4.1 Permit issued or work commenced prior to July 1, 2008. * ::
+
+
+*§ 28-101.4.1 Permit issued or work commenced prior to July 1, 2008.* ::
 
 
 If a permit for work was issued prior to July 1, 2008 or, if no permit was necessary, work was commenced prior to July 1, 2008, all of the provisions of chapter 1 of title 27 of the administrative code as heretofore in effect shall apply to such work.
@@ -55,7 +67,9 @@ If a permit for work was issued prior to July 1, 2008 or, if no permit was neces
 
 
 
-*§ 28-101.4.2 Applications for construction document approval submitted prior to and within twelve months after July 1, 2008. * ::
+
+
+*§ 28-101.4.2 Applications for construction document approval submitted prior to and within twelve months after July 1, 2008.* ::
 
 
 Any work for which an application for construction document approval was submitted to the department prior to July 1, 2008 and not thereafter abandoned, or for which an application for construction document approval is submitted to the department within a period of twelve months after such date may, at the option of the owner, be performed in its entirety in accordance with the provisions of this code, or in accordance with the 1968 building code, provided that such work is commenced within twelve months after the date of issuance of a permit therefore and is diligently carried on to completion. The commissioner may, for good cause, extend the time period for commencement of the work beyond 12 months. Where the owner elects to perform the work in compliance with the 1968 building code, the following conditions shall apply:
@@ -67,7 +81,9 @@ Any work for which an application for construction document approval was submitt
 
 
 
-*§ 28-101.4.3 Optional use of the 1968 building code for work on prior code buildings. * ::
+
+
+*§ 28-101.4.3 Optional use of the 1968 building code for work on prior code buildings.* ::
 
 
 At the option of the owner, and subject to applicable provisions of this code, work on prior code buildings may be performed in accordance with the requirements and standards set forth in the 1968 building code, or where the 1968 code so authorizes, the code in effect prior to December 6, 1968.
@@ -121,7 +137,9 @@ Exceptions:
 
 
 
-*§ 28-101.4.4 Reductions of fire safety or structural safety of prior code buildings prohibited. * ::
+
+
+*§ 28-101.4.4 Reductions of fire safety or structural safety of prior code buildings prohibited.* ::
 
 
 Notwithstanding any other provision of this code, where the alteration of any prior code building or structure in accordance with a provision of this code would result in a reduction of the fire safety or structural safety of such building, relevant provisions of the 1968 building code shall apply to such alteration unless there is full compliance with those provisions of this code that would mitigate or offset such reduction of fire protection or structural safety. Where the owner, having a choice to elect the 1968 building code or this code, chooses this code, the applicant shall submit a comparative analysis acceptable to the commissioner of the relevant fire safety and structural safety provisions under the 1968 Code and this code, demonstrating that the alteration does not result in a reduction to the fire and life safety of the building.
@@ -131,7 +149,9 @@ Exception: The use of automatic-closing by smoke detection for doors serving ver
 
 
 
-*§ 28-101.4.5 Work that increases existing floor surface area of a prior code building by more than 110 percent. * ::
+
+
+*§ 28-101.4.5 Work that increases existing floor surface area of a prior code building by more than 110 percent.* ::
 
 
 Notwithstanding sections 28-101.4.3 and 28-102.4.3 or any other provision of this code that would authorize alterations of prior code buildings in accordance with the 1968 building code or prior codes, where the proposed work at the completion of construction will increase the amount of floor surface area of a prior code building by more than 110%, over the amount of existing floor surface area, such entire building shall be made to comply with the provisions of this code as if it were a new building hereafter erected. See Section 28-105.2 for permits for such work.
@@ -145,7 +165,9 @@ Exceptions. When determining the amount of existing floor surface area for the p
 
 
 
-*§ 28-101.4.5.1 Changes in scope of work. * ::
+
+
+*§ 28-101.4.5.1 Changes in scope of work.* ::
 
 
 In cases where changes in the scope of work during the course of construction would result in increasing the floor surface area at the completion of construction by more than 110 percent, over the amount of existing floor surface area as determined pursuant to section 28-101.4.5, such entire building shall be made to comply with the provisions of this code as if hereafter erected and such work shall be refiled as a new building application in accordance with the provisions of section 28-105.2.
@@ -155,7 +177,9 @@ Exception: Work to the extent necessary to relieve an emergency condition may be
 
 
 
-*§ 28-101.4.5.2 Definitions. * ::
+
+
+*§ 28-101.4.5.2 Definitions.* ::
 
 
 As used in Section 28-101.4.5, the following term shall have the following meaning unless the context or subject matter requires otherwise.
@@ -165,7 +189,9 @@ FLOOR SURFACE AREA. Floor surface area is the gross square foot area of all hori
 
 
 
-*§ 28-101.4.5.3 Effect on zoning resolution. * ::
+
+
+*§ 28-101.4.5.3 Effect on zoning resolution.* ::
 
 
 The provisions of section 28-101.4.5 shall not be construed to affect the status of any non-conforming use or non-complying bulk otherwise permitted to be retained pursuant to the New York city zoning resolution.
@@ -173,7 +199,9 @@ The provisions of section 28-101.4.5 shall not be construed to affect the status
 
 
 
-*§ 28-101.5 Definitions. * ::
+
+
+*§ 28-101.5 Definitions.* ::
 
 
 As used in this chapter and elsewhere in this title, the following terms shall have the following meanings unless the context or subject matter requires otherwise:
@@ -414,7 +442,9 @@ ZONING RESOLUTION. The zoning resolution of the city of New York, adopted Decemb
 
 **Article 102: Applicability**
 
-*§ 28-102.1 General. * ::
+
+
+*§ 28-102.1 General.* ::
 
 
 Where, in any specific case, different sections of this code specify different materials, methods of construction or other requirements, the most restrictive shall govern. Where a general requirement conflicts with a specific requirement, the specific requirement shall govern. Where British and metric units of measurement conflict, the British units shall govern.
@@ -422,7 +452,9 @@ Where, in any specific case, different sections of this code specify different m
 
 
 
-*§ 28-102.2 Other laws. * ::
+
+
+*§ 28-102.2 Other laws.* ::
 
 
 The provisions of this code do not presumptively provide for matters that are contained in the charter, the labor law, the multiple dwelling law, the zoning resolution, or the general city law. Where there is conflict or inconsistency between the requirements of this code and other applicable laws and rules, unless otherwise required, such conflict shall be resolved in favor of the more restrictive requirement.
@@ -430,7 +462,9 @@ The provisions of this code do not presumptively provide for matters that are co
 
 
 
-*§ 28-102.3 Separability. * ::
+
+
+*§ 28-102.3 Separability.* ::
 
 
 If any clause, sentence, paragraph, section or part of this code shall be adjudged to be invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
@@ -438,7 +472,9 @@ If any clause, sentence, paragraph, section or part of this code shall be adjudg
 
 
 
-*§ 28-102.4 Existing buildings. * ::
+
+
+*§ 28-102.4 Existing buildings.* ::
 
 
 The lawful use or occupancy of any existing building or structure, including the use of any service equipment therein, may be continued unless a retroactive change is specifically required by the provisions of this code or other applicable laws or rules.
@@ -446,7 +482,9 @@ The lawful use or occupancy of any existing building or structure, including the
 
 
 
-*§ 28-102.4.1 Prior code buildings must comply with the applicable retroactive requirements of the 1968 building code. * ::
+
+
+*§ 28-102.4.1 Prior code buildings must comply with the applicable retroactive requirements of the 1968 building code.* ::
 
 
 Prior code buildings must comply with the applicable retroactive requirements of the 1968 building code including those requiring the installation of fire safety and building safety systems and the filing of verifying reports with the department of such installations by the dates specified in section 27-228.5 of the administrative code or in other applicable provisions of such 1968 building code. A violation of such provisions shall be a violation of this code.
@@ -454,7 +492,9 @@ Prior code buildings must comply with the applicable retroactive requirements of
 
 
 
-*§ 28-102.4.2 Change in use or occupancy. * ::
+
+
+*§ 28-102.4.2 Change in use or occupancy.* ::
 
 
 Except as otherwise provided in sections 28-101.4.1, 28-101.4.2, 28-101.4.3 or 28-101.4.4, changes in the use or occupancy of any building or structure made after July 1, 2008 shall comply with the provisions of this code. Any changes made in the use or occupancy of a building or structure not in compliance with this code shall be prohibited and shall be a violation of this code. After a change in use or occupancy has been made in a building, the re-establishment of a prior use or occupancy that would not be lawful in a new building of the same construction class shall be prohibited unless and until all the applicable provisions of this code and other applicable laws and rules for such reestablished use or occupancy shall have been complied with. A change from a use prohibited by the provisions of this code, but which was permitted prior to July 1, 2008, to another use prohibited by the provisions of this code shall be deemed a violation of this code.
@@ -462,7 +502,9 @@ Except as otherwise provided in sections 28-101.4.1, 28-101.4.2, 28-101.4.3 or 2
 
 
 
-*§ 28-102.4.3 Alteration of prior code buildings. * ::
+
+
+*§ 28-102.4.3 Alteration of prior code buildings.* ::
 
 
 Except as otherwise provided in sections 28-101.4.1, 28-101.4.2, 28-101.4.3 and 28-101.4.4 prior code buildings altered after July 1, 2008 shall comply with the provisions of this code. In accordance with subdivision eleven of section three of the multiple dwelling law and article 4 of subchapter 1 of the 1968 building code, at the option of the owner, multiple dwellings erected prior to December 6, 1969 may be altered and buildings erected prior to December 6, 1969 may be converted to multiple dwellings in accordance with applicable provisions of the multiple dwelling law and the building laws and regulations in effect prior to December 6, 1968, provided the general safety and public welfare are not thereby endan- gered.
@@ -470,7 +512,9 @@ Except as otherwise provided in sections 28-101.4.1, 28-101.4.2, 28-101.4.3 and 
 
 
 
-*§ 28-102.4.4 Continuation of unlawful use or occupancy. * ::
+
+
+*§ 28-102.4.4 Continuation of unlawful use or occupancy.* ::
 
 
 The continuation of the unlawful use or occupancy of a building or structure contrary to the provisions of this code, or contrary to the provisions of prior codes or other applicable law or rule, shall be a violation of this code.
@@ -478,7 +522,9 @@ The continuation of the unlawful use or occupancy of a building or structure con
 
 
 
-*§ 28-102.4.5 Fire district maps. * ::
+
+
+*§ 28-102.4.5 Fire district maps.* ::
 
 
 The boundaries of fire districts shall be in accordance with the maps set forth in Appendix D of the New York city building code.
@@ -486,7 +532,9 @@ The boundaries of fire districts shall be in accordance with the maps set forth 
 
 
 
-*§ 28-102.5 Regulation of lots. * ::
+
+
+*§ 28-102.5 Regulation of lots.* ::
 
 
 The regulation of lots, in conformity with the street on which they are situated, shall be calculated at curb level. Where a lot has more than one street frontage, and is so situated that the street frontages intersect, the curb of the longest street frontage shall be used. When the street frontages do not intersect, the curb along each frontage shall be used to one-half the depth of the lot between street frontages. A lot as referred to in this section 28-102.5 shall mean a parcel of land twenty-five feet by one hundred feet, or less, in one ownership whether adjacent land be in the same or other ownership; but, for this purpose, no land in the same ownership may be divided into lots smaller than twenty-five feet by one hundred feet.
@@ -494,7 +542,9 @@ The regulation of lots, in conformity with the street on which they are situated
 
 
 
-*§ 28-102.6 Appendices. * ::
+
+
+*§ 28-102.6 Appendices.* ::
 
 
 All enacted appendices are a part of the provisions of this code.
@@ -502,7 +552,9 @@ All enacted appendices are a part of the provisions of this code.
 
 
 
-*§ 28-102.7 References in other laws. * ::
+
+
+*§ 28-102.7 References in other laws.* ::
 
 
 References to provisions of the building code of the city of New York or to chapter 1 of title 27 of the administrative code in other laws shall be deemed to refer to equivalent provisions of the 1968 building code or the New York city construction codes as the context in which such references appear may require.
@@ -513,7 +565,9 @@ References to provisions of the building code of the city of New York or to chap
 
 **Article 103: Duties and Powers of Commissioner Of Buildings**
 
-*§ 28-103.1 Jurisdiction. * ::
+
+
+*§ 28-103.1 Jurisdiction.* ::
 
 
 This code shall be enforced by the commissioner of buildings, pursuant to the provisions of section six hundred forty-three of the New York city charter. However, the commissioner of small business services may also enforce all of the provisions of this code with respect to buildings under the jurisdiction of the department of small business services and the fire commissioner may also enforce all the provisions of this code relating to:
@@ -537,7 +591,9 @@ This code shall be enforced by the commissioner of buildings, pursuant to the pr
 
 
 
-*§ 28-103.1.1 Installation of equipment required by the New York city fire code. * ::
+
+
+*§ 28-103.1.1 Installation of equipment required by the New York city fire code.* ::
 
 
 Where the installation of exit signs, emergency means of egress illumination, special mechanical ventilation and sprinkler and fire alarm systems is required by the New York city fire code, the fire commissioner shall require such installations to be in accordance with this code.
@@ -545,7 +601,9 @@ Where the installation of exit signs, emergency means of egress illumination, sp
 
 
 
-*§ 28-103.1.2 Enforcement of New York city construction codes on property within the jurisdiction of the department of small business services. * ::
+
+
+*§ 28-103.1.2 Enforcement of New York city construction codes on property within the jurisdiction of the department of small business services.* ::
 
 
 This code and the 1968 building code shall apply to property within the jurisdiction of the department of small business services pursuant to the New York city charter including, but not limited to, structures on waterfront property used in conjunction with and in furtherance of waterfront commerce and/or navigation. It shall be administered and enforced by the department of small business services in the same manner as property within the jurisdiction of the department.
@@ -553,7 +611,9 @@ This code and the 1968 building code shall apply to property within the jurisdic
 
 
 
-*§ 28-103.1.3 Innovation review board. * ::
+
+
+*§ 28-103.1.3 Innovation review board.* ::
 
 
 There is hereby established within the department an innovation review board which shall include as members in addition to the commissioner, the commissioners of environmental protection, health and mental hygiene and design and construction and the chairperson of the city planning commission, or their respective designees. The commissioner shall also designate members from among the fire commissioner and the commissioners of transportation, parks and recreation, consumer affairs, emergency management, housing preservation and development and sanitation and the chairperson of the landmarks preservation commission, and non-governmental organizations and individuals, or their respective designees, with respect to specific matters being considered by the board where the commissioner determines it appropriate to do so.
@@ -561,7 +621,9 @@ There is hereby established within the department an innovation review board whi
 
 
 
-*§ 28-103.1.3.1 Meetings and recommendations. * ::
+
+
+*§ 28-103.1.3.1 Meetings and recommendations.* ::
 
 
 The commissioner shall convene the innovation review board at least quarterly, or more often as the commissioner may deem necessary to address issues in a timely manner to (i) review specific projects that propose to employ new technologies, design or construction techniques, materials or products, (ii) review proposals for approval of and to initiate reviews of such of new technologies, design or construction techniques, materials or products in order to determine their environmental and sustainability benefits, (iii) make recommendations as to under what conditions and for what purposes each may be appropriately employed in New York city, and (iv) streamline approvals of specific innovative projects. If the board recommends that a technology, design or construction technique, material or product may appropriately be employed, the commissioner shall consider such recommendation and may by rule or other method as the commissioner deems appropriate, authorize the use of such technology, design or construction technique, material or product and under what conditions and for what purposes each may be appropriately employed. The commissioner shall state in writing to the interagency green team established pursuant to subdivision i of section twenty of the charter what action the commissioner shall take with respect to each such recommendation and the reasons for the action taken.
@@ -569,7 +631,9 @@ The commissioner shall convene the innovation review board at least quarterly, o
 
 
 
-*§ 28-103.2 Interpretation. * ::
+
+
+*§ 28-103.2 Interpretation.* ::
 
 
 This code shall be liberally interpreted to secure the beneficial purposes thereof.
@@ -577,7 +641,9 @@ This code shall be liberally interpreted to secure the beneficial purposes there
 
 
 
-*§ 28-103.3 Variations. * ::
+
+
+*§ 28-103.3 Variations.* ::
 
 
 The requirements and standards prescribed in this code shall be subject to variation in specific cases by the commissioner, or by the board of standards and appeals, under and pursuant to the provisions of paragraph two of subdivision (b) of section six hundred forty-five and section six hundred sixty-six of the New York city charter, as amended.
@@ -585,7 +651,9 @@ The requirements and standards prescribed in this code shall be subject to varia
 
 
 
-*§ 28-103.4 Appeals. * ::
+
+
+*§ 28-103.4 Appeals.* ::
 
 
 An appeal from any decision or interpretation of the commissioner may be taken to the board of standards and appeals pursuant to the procedures of the board, except as provided in section 25-204 of the administrative code or as otherwise provided in this code.
@@ -593,7 +661,9 @@ An appeal from any decision or interpretation of the commissioner may be taken t
 
 
 
-*§ 28-103.5 Seal; judicial notice. * ::
+
+
+*§ 28-103.5 Seal; judicial notice.* ::
 
 
 The commissioner may design and adopt a seal for the department for use in the authentication of the orders and proceedings of the department, and for such other purposes as the commissioner may prescribe. The courts shall take judicial notice of such seal, and of the signature of the commissioner, the deputy commissioners, and the borough superintendents of the department.
@@ -601,7 +671,9 @@ The commissioner may design and adopt a seal for the department for use in the a
 
 
 
-*§ 28-103.6 Proofs, affidavits and oaths. * ::
+
+
+*§ 28-103.6 Proofs, affidavits and oaths.* ::
 
 
 Proofs, affidavits and examinations as to any matter arising in connection with the performance of any of the duties of the department may be taken by or before the commissioner, or a deputy commissioner, or such other person as the commissioner may designate; and such commissioner, deputy or other person may administer oaths in connection therewith.
@@ -609,7 +681,9 @@ Proofs, affidavits and examinations as to any matter arising in connection with 
 
 
 
-*§ 28-103.7 Cooperation of other departments. * ::
+
+
+*§ 28-103.7 Cooperation of other departments.* ::
 
 
 Upon request of the commissioner, it shall be the duty of all departments to cooperate with the department of buildings at all times, and to furnish to such department such information, reports and assistance as the commissioner may require.
@@ -617,7 +691,9 @@ Upon request of the commissioner, it shall be the duty of all departments to coo
 
 
 
-*§ 28-103.7.1 Sharing results of buildings inspections. * ::
+
+
+*§ 28-103.7.1 Sharing results of buildings inspections.* ::
 
 
 The commissioner, the fire commissioner and the commissioner of the department of environmental protection shall establish a procedure, the implementation of which shall begin within six months of the effective date of this section, to share information regarding violations issued as a result of inspections of buildings meeting agreed-upon criteria that are relevant to the responsibilities of each department.
@@ -625,7 +701,9 @@ The commissioner, the fire commissioner and the commissioner of the department o
 
 
 
-*§ 28-103.8 Matters not provided for. * ::
+
+
+*§ 28-103.8 Matters not provided for.* ::
 
 
 Any matter or requirement essential for fire or structural safety or essential for the safety or health of the occupants or users of a structure or the public, and which is not covered by the provisions of this code or other applicable laws and rules, shall be subject to determination and requirements by the commissioner in specific cases.
@@ -633,7 +711,9 @@ Any matter or requirement essential for fire or structural safety or essential f
 
 
 
-*§ 28-103.9 Additional tests. * ::
+
+
+*§ 28-103.9 Additional tests.* ::
 
 
 Whenever there is insufficient evidence of compliance with the provisions of this code, or evidence that a material or method of construction does not conform to the requirements of this code, or in order to substantiate claims for alternative materials or methods, the commissioner shall have the authority to require tests as evidence of compliance to be made at no expense to the city. Test methods shall be as specified in this code, or by other recognized test standards approved by the commissioner. In the absence of recognized and accepted test methods, the commissioner shall approve the testing procedures. Tests shall be performed as directed by the commissioner. Reports of such tests shall be retained by the department for the period required for retention of public records.
@@ -641,7 +721,9 @@ Whenever there is insufficient evidence of compliance with the provisions of thi
 
 
 
-*§ 28-103.10 Supporting documentation for materials. * ::
+
+
+*§ 28-103.10 Supporting documentation for materials.* ::
 
 
 Whenever this code or the rules of the department permits the use of material regulated in its use by this code or the 1968 building code without the prior approval of the commissioner, the commissioner may, in the interest of public safety, require the submittal of supporting documentation that any material used or proposed to be used complies with the applicable code standard for such use. Such supporting documentation may consist of but shall not be limited to certification documents of an approved agency, test reports, analysis, computations or other evidence of such compliance.
@@ -649,7 +731,9 @@ Whenever this code or the rules of the department permits the use of material re
 
 
 
-*§ 28-103.11 Applications and permits. * ::
+
+
+*§ 28-103.11 Applications and permits.* ::
 
 
 The department shall receive and review applications, construction documents, and other related documents and shall issue permits, in accordance with the provisions of this code. The department shall, on a weekly basis, send council members and community boards, by electronic mail, a copy of all completed applications for a new building or an alteration that will require a new certificate of occupancy for a building, received during the prior week, disaggregated by community board. In addition, the department shall post such information on its website on a weekly basis.
@@ -659,7 +743,9 @@ The department shall receive and review applications, construction documents, an
 
 
 
-*§ 28-103.12 Identification. * ::
+
+
+*§ 28-103.12 Identification.* ::
 
 
 Department personnel shall carry metal badges with suitable inscriptions thereon or other prescribed identification when inspecting structures or premises or otherwise in the performance of their duties under this code.
@@ -667,7 +753,9 @@ Department personnel shall carry metal badges with suitable inscriptions thereon
 
 
 
-*§ 28-103.13 Right of entry. * ::
+
+
+*§ 28-103.13 Right of entry.* ::
 
 
 The commissioner or his or her authorized representatives, in the discharge of their duties, shall have the right to enter upon and inspect, at all reasonable times, any buildings, enclosure, premises, or any part thereof, or any signs or service equipment contained therein or attached thereto for the purpose of determining compliance with the provisions of this code and other applicable building laws and rules. Officers and employees of the department shall identify themselves by exhibiting the official badge or other identification prescribed by the department; and other authorized representatives of the commissioner shall identify themselves by producing and exhibiting their authority in writing signed by the commissioner. If access is not obtained, the commissioner shall have recourse to remedies provided by law to secure entry.
@@ -675,7 +763,9 @@ The commissioner or his or her authorized representatives, in the discharge of t
 
 
 
-*§ 28-103.14 Department records. * ::
+
+
+*§ 28-103.14 Department records.* ::
 
 
 The department shall keep official records of applications received, permits and certificates issued, fees collected, reports of inspections, and notices and orders issued. Such records shall be retained in the official records for the period required for retention of public records.
@@ -683,7 +773,9 @@ The department shall keep official records of applications received, permits and
 
 
 
-*§ 28-103.14.1 List of permits for cellular antenna. * ::
+
+
+*§ 28-103.14.1 List of permits for cellular antenna.* ::
 
 
 The commissioner shall maintain a separate list of alteration permits issued for the erection or placement of antennae used to provide cellular telephone or similar service or any structure related to such service which shall, at a minimum, set forth the name, business address and business telephone number of the applicant, the date of the application, the date the permit was issued, the location for which the permit was issued, including the premises address and the zoning district, whether residential, commercial, or manufacturing, and the number of permits issued for such purpose at the same location. Such list shall be made available to the public upon request between regular business hours and shall be available to the public in electronic format on a 24-hour basis on the department's website.
@@ -691,7 +783,9 @@ The commissioner shall maintain a separate list of alteration permits issued for
 
 
 
-*§ 28-103.15 Insurance. * ::
+
+
+*§ 28-103.15 Insurance.* ::
 
 
 The commissioner may require applicants for permits to obtain and furnish proof of workers' compensation, disability and general liability insurance in such amounts and in accordance with such specifications as shall be set forth in the rules of the department or as otherwise required by law.
@@ -699,7 +793,9 @@ The commissioner may require applicants for permits to obtain and furnish proof 
 
 
 
-*§ 28-103.16 Inspections of existing buildings, structures, signs, service equipment and construction machinery and equipment. * ::
+
+
+*§ 28-103.16 Inspections of existing buildings, structures, signs, service equipment and construction machinery and equipment.* ::
 
 
 In addition to other required inspections, the commissioner may make or require inspections of existing buildings, structures, signs, service equipment installations and construction machinery and equipment to ascertain compliance with the provisions of this code and other laws that are enforced by the department. Such inspections may be made on behalf of the department by officers and employees of the department and other city departments and governmental agencies; and by approved agencies, special inspectors or other persons when the commissioner is satisfied as to their qualifications and reliability. The commissioner may accept inspection and test reports from persons authorized by this code or by the commissioner to perform such inspections. Such reports shall be filed with the department.
@@ -707,7 +803,9 @@ In addition to other required inspections, the commissioner may make or require 
 
 
 
-*§ 28-103.17 Certain outside work, employment and financial interests of department employees prohibited. * ::
+
+
+*§ 28-103.17 Certain outside work, employment and financial interests of department employees prohibited.* ::
 
 
 It shall be unlawful for any officer or employee of the department to be engaged in conducting or carrying on business as an architect, engineer, carpenter, plumber, iron worker, mason or builder, or any other profession or business concerned with the construction, alteration, sale, rental, development, or equipment of buildings. It shall also be unlawful for such employees to be engaged in the manufacture or sale of automatic sprinklers, fire extinguishing apparatus, fire protection devices, fire prevention devices, devices relating to the means or adequacy of exit from buildings, or articles entering into the construction or alteration of buildings, or to act as agent for any person engaged in the manufacture or sale of such articles, or own stock in any corporation engaged in the manufacture or sale of such articles.
@@ -715,7 +813,9 @@ It shall be unlawful for any officer or employee of the department to be engaged
 
 
 
-*§ 28-103.18 Investigation of complaints. * ::
+
+
+*§ 28-103.18 Investigation of complaints.* ::
 
 
 The commissioner shall cause all complaints to be investigated. For purposes of investigating complaints of violations of law enforced by the department, the commissioner may by rule establish a program to classify structures based on their enforcement history and may create criteria for such classification and assign enforcement resources accordingly.
@@ -723,7 +823,9 @@ The commissioner shall cause all complaints to be investigated. For purposes of 
 
 
 
-*§ 28-103.18.1 Complaint records. * ::
+
+
+*§ 28-103.18.1 Complaint records.* ::
 
 
 The department shall keep records of complaints made by any person in reference to any building or other matter under the jurisdiction of the department. Recorded complaints shall include the name and residence of the complainant, the name of the person complained of, the date of the entry of the complaint and any suggested remedies. Except for entries of names and residences of the complainants, such records shall be made available for public examination.
@@ -731,7 +833,9 @@ The department shall keep records of complaints made by any person in reference 
 
 
 
-*§ 28-103.19 Addition, modification, and deletion of referenced standards. * ::
+
+
+*§ 28-103.19 Addition, modification, and deletion of referenced standards.* ::
 
 
 The standards referenced in this code may be added to, deleted or modified pursuant to local law or by rule of the department. Every such rule adding, deleting or modifying a referenced standard shall indicate the promulgating agency of the standard, the standard identification, the effective date and title and the section or sections of this code to which such standard applies. The commissioner shall act in consultation with the fire commissioner on matters relating to fire safety.
@@ -741,10 +845,14 @@ Exception: Referenced standards in the New York city plumbing code, other than r
 
 
 
-*§ 28-103.20 Existing rules continued. * ::
+
+
+*§ 28-103.20 Existing rules continued.* ::
 
 
 Rules promulgated by the department in accordance with the law in effect prior to July 1, 2008 shall remain in effect for the matters covered to the extent that such rules are not inconsistent with this code unless and until such rules are amended or repealed by the department.
+
+
 
 
 
@@ -791,6 +899,8 @@ The commissioner shall, by January 2018 and monthly thereafter, post on the depa
 
 
 
+
+
 *§ 28-103.21.1 Reporting.* ::
 
 
@@ -801,7 +911,9 @@ Where construction work subject to permitting by the commissioner that results i
 
 
 
-*§ 28-103.22 Outreach on security grille visibility requirements. * ::
+
+
+*§ 28-103.22 Outreach on security grille visibility requirements.* ::
 
 
 The commissioner shall, through or in cooperation with the department of small business services, the department of consumer affairs, and other city agencies deemed appropriate, develop an outreach program to manufacturers and installers of security grilles, business improvement districts, local development corporations, chambers of commerce and community boards to alert these groups and the businesses that utilize security grilles of the permit requirements and the requirements of this section, the penalties associated with violation thereof and the availability of any business loans, grants or tax subsidies related to the installation or use of such security grilles.
@@ -809,7 +921,9 @@ The commissioner shall, through or in cooperation with the department of small b
 
 
 
-*§ 28-103.23 Manual on flood construction and protection standards. * ::
+
+
+*§ 28-103.23 Manual on flood construction and protection standards.* ::
 
 
 The commissioner shall create and make publicly available, in print and on the department's website, a manual explaining in detail the flood construction and protection requirements and standards applicable in the city. Such manual shall be made available in plain English and Spanish and in other languages as determined by the commissioner and shall be updated as necessary to reflect changes to applicable flood construction requirements and standards. Such manual shall include, but need not be limited to, a description and explanation of the following:
@@ -823,10 +937,14 @@ The commissioner shall create and make publicly available, in print and on the d
 
 
 
-*§ 28-103.24 Electronic submissions. * ::
+
+
+*§ 28-103.24 Electronic submissions.* ::
 
 
 The commissioner shall have the discretion to require that any document submitted to the department be submitted electronically.
+
+
 
 
 
@@ -847,10 +965,14 @@ Where the department receives applications for new construction of or conversion
 
 
 
+
+
 *§ 28-103.26 Reporting to the federal occupational safety and health administration.* ::
 
 
 As soon as practicable after the issuance of (i) an immediately hazardous or major violation of chapter 33 of the New York city building code or (ii) a violation of section 3310.10.2 of the New York city building code, the commissioner shall report such violation to the federal occupational safety and health administration.
+
+
 
 
 
@@ -871,6 +993,8 @@ There is hereby established within the department a real time enforcement unit. 
 
 
 
+
+
 *§ 28-103.27.1 Tracking complaints related to work without a permit.* ::
 
 
@@ -881,10 +1005,14 @@ The real time enforcement unit shall receive and track all complaints related to
 
 
 
+
+
 *§ 28-103.27.2 Monitoring occupied multiple dwellings with permits for alteration or addition.* ::
 
 
 The real time enforcement unit shall monitor all occupied multiple dwellings with valid permits for (i) the alteration of 10 percent or more of the existing floor surface area of the building or (ii) an addition to the building. Owners of such buildings shall notify the department in writing at least 72 hours prior to the commencement of any work pursuant to such permits.
+
+
 
 
 
@@ -903,10 +1031,14 @@ For immediately hazardous complaints related to work without a permit in occupie
 
 
 
+
+
 *§ 28-103.27.4 Violations.* ::
 
 
 The real time enforcement unit shall issue notices of violation or stop work orders as necessary.
+
+
 
 
 
@@ -923,10 +1055,14 @@ The department shall publish online an annual report with the following informat
 
 
 
+
+
 *§ 28-103.27 Disclosure of building occupancy status for buildings subject to permit.** ::
 
 
 For each building for which a permit for work has been issued, the commissioner shall post on the department’s website a statement of whether the construction documents relating to such permit indicate that one or more dwelling units within such building will be occupied during such work.
+
+
 
 
 
@@ -1011,6 +1147,8 @@ The commissioner shall convene and provide staff for an SST task force in accord
 
 
 
+
+
 *§ 28-103.29 Reporting regarding implementation of section 3321 of the New York city building code.* ::
 
 
@@ -1039,10 +1177,14 @@ No later than three months after the end of each fiscal year, the commissioner s
 
 
 
+
+
 *§ 28-103.30 Audits of training provided in connection with section 3321 of the New York city building code.* ::
 
 
 In addition to any other enforcement mechanisms, the department shall periodically audit SST providers and training provided in connection with section 3321 of the New York city building code by such providers in order to ensure the integrity of such training and compliance with such section and any rules or department requirements relating to such training.
+
+
 
 
 
@@ -1073,10 +1215,14 @@ The commissioner shall, in October of 2018 and each year thereafter, electronica
 
 
 
+
+
 *§ 28-103.31 Office of alternative energy.** ::
 
 
 There is hereby established within the department an office of alternative energy.
+
+
 
 
 
@@ -1091,6 +1237,8 @@ As used in this section, the term “alternative energy project” means constru
 1. A qualified energy resource, as such term is defined in section 45 of title 26 of the United States code; or
 
 2. A source that is determined to be renewable by the commissioner or the head of another agency designated by the mayor.
+
+
 
 
 
@@ -1113,10 +1261,14 @@ The duties of the office of alternative energy include, but need not be limited 
 
 
 
+
+
 *§ 28-103.31.3 Reporting.* ::
 
 
 The head of the office of the alternative energy shall submit an annual report to the commissioner and to the head of any other relevant agency providing (i) a description of the most commonly received comments, questions and complaints received with respect to such office, (ii) a description of actions undertaken by such office to coordinate with other agencies and the results of such coordination, (iii) recommendations made pursuant to section 28-103.31.2 and (iv) recommendations with respect to expanding the definition of alternative energy project. By no later than three months after the end of each fiscal year, such office shall submit a report to the mayor and the speaker of the city council that includes a summary of the actions taken by any agency as a result of any comment, question, complaint or recommendation from or forwarded by such office.
+
+
 
 
 
@@ -1136,7 +1288,9 @@ The office of alternative energy shall maintain a website and shall post on such
 
 **Article 104: Construction Documents**
 
-*§ 28-104.1 General. * ::
+
+
+*§ 28-104.1 General.* ::
 
 
 The department shall not issue a permit pursuant to this code, or a place of assembly operation certificate pursuant to this code unless and until it approves all required construction documents for such work. The department shall not issue an electrical work permit pursuant to the New York city electrical code for fire and emergency alarm systems, solar panels and wind turbines unless and until it approves all required construction documents for such work. Such construction documents shall be prepared by or under the supervision of a registered design professional as required by this code. An application for an associated work permit shall not be submitted to the department until all required construction documents have been approved.
@@ -1144,7 +1298,9 @@ The department shall not issue a permit pursuant to this code, or a place of ass
 
 
 
-*§ 28-104.1.1 Construction documents subject to the New York city fire code. * ::
+
+
+*§ 28-104.1.1 Construction documents subject to the New York city fire code.* ::
 
 
 Except as the New York city fire code may otherwise provide, the construction documents for facilities and systems for which the fire code provides design and installation requirements, including but not limited to fire alarm systems, flammable and combustible liquids, compressed gases, explosives and other hazardous materials; flammable spraying systems and facilities; automatic water sprinkler systems for hazardous material and combustible material storage, and non-water fire extinguishing systems, shall be subject to the review and approval of the fire commissioner in accordance with the New York city fire code. Approval by the department of construction documents for new or existing buildings containing such facilities and systems shall not be construed as approval of such systems and facilities.
@@ -1152,7 +1308,9 @@ Except as the New York city fire code may otherwise provide, the construction do
 
 
 
-*§ 28-104.2 Application for approval of construction documents. * ::
+
+
+*§ 28-104.2 Application for approval of construction documents.* ::
 
 
 The department shall assign an application number to and docket all applications for approval of construction documents and any amendments thereto filed with it. The department shall examine the construction documents promptly after their submission. The examination shall be made under the direction of the commissioner for compliance with the provisions of this code and other applicable laws and rules. The personnel employed for the examination of construction documents shall be qualified registered design professionals, experienced in building construction and design.
@@ -1160,7 +1318,9 @@ The department shall assign an application number to and docket all applications
 
 
 
-*§ 28-104.2.1 Less than full examination of applications for construction and related document approval. * ::
+
+
+*§ 28-104.2.1 Less than full examination of applications for construction and related document approval.* ::
 
 
 The commissioner may, in the commissioner's discretion, establish a program whereby construction and related documents may be accepted with less than full examination by the department based on the professional certification of an applicant who is a registered design professional. On a monthly basis, the commissioner shall audit no less than 25 percent of construction documents which are for multiple dwellings where 25 percent or more of the dwelling units are occupied and such multiple dwellings, in whole or in part, either (i) are subject to rent regulation, (ii) are being rehabilitated or maintained as affordable housing through a department of housing preservation and development program, (iii) are subject to a city regulatory agreement mandating the creation or preservation of a certain number of affordable units, (iv) contain affordable housing units created, sponsored or preserved through other city programs or initiatives, or (v) where the department knows or has reason to know, are the subject of a rent overcharge application which is in the process of being investigated by the New York State division of housing and community renewal.
@@ -1172,7 +1332,9 @@ Exception: Construction or related documents may not be subject to less than ful
 
 
 
-*§ 28-104.2.1.1 Effect of acceptance. * ::
+
+
+*§ 28-104.2.1.1 Effect of acceptance.* ::
 
 
 Except as otherwise specified in this code or in the rules of the department, for the purposes of this code, the acceptance of construction and related documents in accordance with such program shall have the same force and effect as the approval of construction and related documents after full examination by the department. Except as otherwise specified in this code or in the rules of the department, references in this code to approved construction and/or related documents or to the approval of construction and/or related documents shall also be deemed to refer to accepted construction and related documents or to the acceptance of construction and related documents, as applicable.
@@ -1180,7 +1342,9 @@ Except as otherwise specified in this code or in the rules of the department, fo
 
 
 
-*§ 28-104.2.1.2 Program requirements. * ::
+
+
+*§ 28-104.2.1.2 Program requirements.* ::
 
 
 The commissioner may establish qualifications and requirements for registered design professionals to participate in such program and may exclude, suspend or otherwise sanction participants for cause.
@@ -1188,7 +1352,9 @@ The commissioner may establish qualifications and requirements for registered de
 
 
 
-*§ 28-104.2.1.3 Mandatory program requirements. * ::
+
+
+*§ 28-104.2.1.3 Mandatory program requirements.* ::
 
 
 Registered design professionals participating in such program shall be subject to sections 28-104.2.1.3.1 through 28-104.2.1.3.2.
@@ -1196,7 +1362,9 @@ Registered design professionals participating in such program shall be subject t
 
 
 
-*§ 28-104.2.1.3.1 Probation. * ::
+
+
+*§ 28-104.2.1.3.1 Probation.* ::
 
 
 A registered design professional shall not be eligible to participate in the program during any period of probation imposed as a sanction by the board of regents pursuant to section 6511 of the education law.
@@ -1204,7 +1372,9 @@ A registered design professional shall not be eligible to participate in the pro
 
 
 
-*§ 28-104.2.1.3.2 Mandatory sanctions. * ::
+
+
+*§ 28-104.2.1.3.2 Mandatory sanctions.* ::
 
 
 The commissioner shall, after the opportunity for a hearing before the office of administrative trials and hearings in accordance with department rules, exclude, suspend or otherwise condition the participation of a registered design professional who (i) knowingly or negligently submits a professional certification of an application and/or construction and other related documents that contains false information or is not in compliance with all applicable provisions of law, or (ii) submits two professionally certified applications for construction document approval within any 12-month period containing errors that result in revocation of an associated permit or that otherwise demonstrate incompetence or a lack of knowledge of applicable laws. The term "otherwise condition" shall mean limitations on such professional's participation in the program, such as, but not limited to, audits and monitoring of the registered design professional's applications and other submissions. For purposes of this section, a professionally certified application shall include the professional certification of construction and other related documents and the satisfaction of objections issued at plan examination.
@@ -1212,7 +1382,9 @@ The commissioner shall, after the opportunity for a hearing before the office of
 
 
 
-*§ 28-104.2.1.3.2.1 Reinstatement. * ::
+
+
+*§ 28-104.2.1.3.2.1 Reinstatement.* ::
 
 
 A registered design professional who is excluded from the program in accordance with section 28-104.2.1.3 may apply for reinstatement one year or more after such exclusion. An applicant who the commissioner finds is qualified to resume participation in the program shall be on probation for a period of not less than 6 months after reinstatement and during that time shall as a condition of such reinstatement attend one or more training or continuing education courses, approved by the department, related to compliance with the building code and related laws and rules and the zoning resolution. The professional shall submit satisfactory proof of the successful completion of such training or continuing education courses to the department.
@@ -1220,7 +1392,9 @@ A registered design professional who is excluded from the program in accordance 
 
 
 
-*§ 28-104.2.1.3.2.2 Mandatory permanent revocation. * ::
+
+
+*§ 28-104.2.1.3.2.2 Mandatory permanent revocation.* ::
 
 
 The commissioner shall permanently revoke, without the opportunity of restoration, the professional certification privileges of an engineer or architect who, while on probation, professionally certifies an application, plans, construction or other related documents that contains false information or is not in compliance with all applicable provisions of law or who otherwise demonstrates incompetence or a lack of knowledge of applicable laws.
@@ -1228,7 +1402,9 @@ The commissioner shall permanently revoke, without the opportunity of restoratio
 
 
 
-*§ 28-104.2.1.3.2.3 Construction. * ::
+
+
+*§ 28-104.2.1.3.2.3 Construction.* ::
 
 
 Nothing herein shall be construed to limit the commissioner's power, consistent with state and local law, to adopt rules that include additional grounds to limit the filing privileges of or otherwise sanction registered design professionals, after the opportunity for a hearing, who it determines, knowingly or negligently submit applications or other documents to the department that contain false information or are not in compliance with all applicable provisions of law or that otherwise demonstrate incompetence or a lack of knowledge of applicable law or standards.
@@ -1236,7 +1412,9 @@ Nothing herein shall be construed to limit the commissioner's power, consistent 
 
 
 
-*§ 28-104.2.1.4 Database. * ::
+
+
+*§ 28-104.2.1.4 Database.* ::
 
 
 The department shall create and maintain a database of all registered design professionals who have been excluded, suspended or otherwise sanctioned by the department. Within 7 business days of the date a sanction is imposed, the department shall post on its website and shall make available upon request, the name of the registered design professional, a description of the sanction, the initial date of the sanction, the reinstatement date, if applicable, the address of the premises for which the application associated with the sanction was submitted, and whether the sanction was imposed after a hearing or a settlement. The department shall provide requested information concerning the exclusion, suspension or other sanction of a specific registered design professional within 30 days of such request.
@@ -1244,7 +1422,9 @@ The department shall create and maintain a database of all registered design pro
 
 
 
-*§ 28-104.2.1.5 Applicant requirement. * ::
+
+
+*§ 28-104.2.1.5 Applicant requirement.* ::
 
 
 The program shall include a condition that the applicant remain with the project until it is signed-off by the department and that if the applicant withdraws from or is unable to continue a project before the issuance of a letter of completion or certificate of occupancy, as applicable, all work shall stop and no permit, letter of completion or certificate of occupancy shall be issued until a successor registered design professional is designated as applicant of record and such person :
@@ -1258,7 +1438,9 @@ The program shall include a condition that the applicant remain with the project
 
 
 
-*§ 28-104.2.1.6 Notice to the state department of education. * ::
+
+
+*§ 28-104.2.1.6 Notice to the state department of education.* ::
 
 
 The department shall provide written notice to the New York state department of education of any registered design professional who was the subject of any disciplinary proceeding where there has been an adverse determination or sanction by the department including any settlement agreement that is reached between the parties that resulted in a sanction of privileges being imposed by the department. Such notice shall be sent within ten business days after a determination is made in any such disciplinary proceeding or after a settlement of such proceeding has been reached, and shall include the name, and business firm name and address of such registered design professional, as well as any supporting documentation for the sanction imposed. The department shall also provide such notice to the state department of education of any registered design professional that has been the subject of any disciplinary proceeding where there has been an adverse determination or sanction by the department within the five calendar years immediately preceding the effective date of this section.
@@ -1266,7 +1448,9 @@ The department shall provide written notice to the New York state department of 
 
 
 
-*§ 28-104.2.2 Approval or acceptance to be indicated on construction documents. * ::
+
+
+*§ 28-104.2.2 Approval or acceptance to be indicated on construction documents.* ::
 
 
 All construction documents, when approved, shall be stamped or endorsed "approved" under the official method of the department, followed by a notation of the date except that construction documents accepted with less than full examination by the department shall be stamped or endorsed "accepted" instead of "approved". One set of "approved" or "accepted" construction documents shall be retained by the department and another set shall be maintained at the project site until the work authorized by the permit is completed and signed-off by the department.
@@ -1274,7 +1458,9 @@ All construction documents, when approved, shall be stamped or endorsed "approve
 
 
 
-*§ 28-104.2.3 Time limitation of application. * ::
+
+
+*§ 28-104.2.3 Time limitation of application.* ::
 
 
 An application for approval of construction documents shall be deemed to have been abandoned 12 months after the date of its submission, unless such application has been diligently prosecuted after rejection in whole or in part, or unless a permit shall have been issued pursuant to this code, except that the commissioner may upon application, for reasonable cause, grant extensions of time for additional 12-month periods.
@@ -1282,7 +1468,9 @@ An application for approval of construction documents shall be deemed to have be
 
 
 
-*§ 28-104.2.4 Conditions of approval. * ::
+
+
+*§ 28-104.2.4 Conditions of approval.* ::
 
 
 All construction documents approved by the commissioner shall be conditioned upon and subject to compliance with the requirements of this code and other applicable laws and rules in effect at the time of issuance of the associated work permit or place of assembly certificate of operation.
@@ -1290,7 +1478,9 @@ All construction documents approved by the commissioner shall be conditioned upo
 
 
 
-*§ 28-104.2.5 Phased or partial approval. * ::
+
+
+*§ 28-104.2.5 Phased or partial approval.* ::
 
 
 In the case of construction documents for the construction of new buildings or the alteration of buildings, the commissioner may grant partial approval of construction documents before the construction documents for the entire building or structure have been submitted. The approval of such partial applications will be subject to the submittal and approval of construction documents, filed together, comprising:
@@ -1308,7 +1498,9 @@ In the case of construction documents for the construction of new buildings or t
 
 
 
-*§ 28-104.2.6 Deferred submittal. * ::
+
+
+*§ 28-104.2.6 Deferred submittal.* ::
 
 
 With the prior approval of the department, the applicant may defer submittal of portions of the design until a specified period of time after the issuance of a permit. The applicant shall list the deferred submittal items on the initial application for construction document approval. The deferred submittal items shall not be constructed or installed until the design and submittal documents for the item have been approved by the department.
@@ -1316,7 +1508,9 @@ With the prior approval of the department, the applicant may defer submittal of 
 
 
 
-*§ 28-104.2.7 Time period for review. * ::
+
+
+*§ 28-104.2.7 Time period for review.* ::
 
 
 Completed construction documents complying with the provisions of this code and other applicable laws and rules shall be approved by the commissioner and written notice of approval shall be given the applicant promptly and no later than 40 calendar days after the submission of a complete application.
@@ -1326,6 +1520,8 @@ Exceptions:
 1. On or before the fortieth day, the commissioner may, for good cause shown and upon notification to the applicant, extend such time for an additional 20 calendar days.
 
 2. Such time period for review shall commence in accordance with article 107 for single room occupancy multiple dwellings.
+
+
 
 
 
@@ -1340,7 +1536,9 @@ The department shall, on a weekly basis, send council members and community boar
 
 
 
-*§ 28-104.2.8 Notification of rejection. * ::
+
+
+*§ 28-104.2.8 Notification of rejection.* ::
 
 
 Applications failing to comply with the provisions of this code and other applicable laws and rules shall be rejected and written notice of rejection, stating the grounds of rejection, shall be given the applicant promptly and not later than the date required in section 28-104.2.7. The department shall, on a weekly basis, send council members and community boards, by electronic mail, a copy of all notices of a first rejection for applications for a new building or an alteration that will require a new certificate of occupancy for a building, sent to applicants during the prior week, disaggregated by community board. In addition, the department shall post such information on its website on a weekly basis.
@@ -1350,7 +1548,9 @@ Applications failing to comply with the provisions of this code and other applic
 
 
 
-*§ 28-104.2.9 Resubmission. * ::
+
+
+*§ 28-104.2.9 Resubmission.* ::
 
 
 Whenever an application has been rejected and is thereafter revised and resubmitted to meet the stated grounds of rejection, the revised application and construction documents shall be approved if they meet the stated grounds of rejection and otherwise comply with the provisions of this code and other applicable laws and rules or shall be rejected if they fail to meet the stated grounds of rejection or otherwise fail to so comply.
@@ -1358,7 +1558,9 @@ Whenever an application has been rejected and is thereafter revised and resubmit
 
 
 
-*§ 28-104.2.10 Revocation of approval. * ::
+
+
+*§ 28-104.2.10 Revocation of approval.* ::
 
 
 The commissioner may, on notice to the applicant, revoke the approval of construction documents for failure to comply with the provisions of this code or other applicable laws or rules; or whenever there has been any false statement or any misrepresentation as to a material fact in the submittal documents upon the basis of which such approval was issued; or whenever an approval has been issued in error and conditions are such that approval should not have been issued. Such notice shall inform the applicant of the reasons for the proposed revocation and that the applicant has the right to present to the commissioner or his or her representative within 10 business days of personal service or 15 calendar days of the posting of service by mail, information as to why the approval should not be revoked.
@@ -1366,7 +1568,9 @@ The commissioner may, on notice to the applicant, revoke the approval of constru
 
 
 
-*§ 28-104.2.10.1 Effect on work permit. * ::
+
+
+*§ 28-104.2.10.1 Effect on work permit.* ::
 
 
 The effect of revocation of approval of construction documents is the automatic revocation of all work permits that may have been issued based on such construction documents.
@@ -1374,7 +1578,9 @@ The effect of revocation of approval of construction documents is the automatic 
 
 
 
-*§ 28-104.3 Amended construction documents. * ::
+
+
+*§ 28-104.3 Amended construction documents.* ::
 
 
 Subject to the time limitations set forth in this code, amendments to approved construction documents shall be submitted, reviewed and approved before the work or equipment is completed; and such amendments when approved shall be deemed part of the original construction documents. The department may allow minor revisions of construction documents to be made and submitted to the department after the completion of work but prior to sign-off of the work in accordance with department rules.
@@ -1382,7 +1588,9 @@ Subject to the time limitations set forth in this code, amendments to approved c
 
 
 
-*§ 28-104.4 Place of filing. * ::
+
+
+*§ 28-104.4 Place of filing.* ::
 
 
 Except as otherwise provided by rule, applications for construction document approval shall be filed in the department office in the borough in which the work or equipment is located or at the discretion of the commissioner shall be submitted electronically.
@@ -1390,7 +1598,9 @@ Except as otherwise provided by rule, applications for construction document app
 
 
 
-*§ 28-104.5 Fees. * ::
+
+
+*§ 28-104.5 Fees.* ::
 
 
 Filing fees shall be paid as required by article 112.
@@ -1398,7 +1608,9 @@ Filing fees shall be paid as required by article 112.
 
 
 
-*§ 28-104.6 Applicant. * ::
+
+
+*§ 28-104.6 Applicant.* ::
 
 
 The applicant for approval of construction documents shall be the registered design professional who prepared or supervised the preparation of the construction documents on behalf of the owner.
@@ -1418,7 +1630,9 @@ Exception: The applicant may be other than a registered design professional for:
 
 
 
-*§ 28-104.6.1 Verification of professional qualification required. * ::
+
+
+*§ 28-104.6.1 Verification of professional qualification required.* ::
 
 
 The department shall not accept construction documents or other documents submitted in connection with applications for construction document approval or work permits under this code by any person representing that he or she is a registered design professional or landscape architect without verifying, by means of lists compiled and made available by the New York state department of education pursuant to paragraph e-1 of subdivision four of section sixty-five hundred seven of the education law, that such person meets the qualifications established by law to practice as an architect or engineer in New York state.
@@ -1426,7 +1640,9 @@ The department shall not accept construction documents or other documents submit
 
 
 
-*§ 28-104.7 Submittal of construction documents. * ::
+
+
+*§ 28-104.7 Submittal of construction documents.* ::
 
 
 All construction documents submitted to the department shall contain such information and shall be in such form as shall be set forth in this section 28-104.7 and the rules of the department. Construction documents shall also conform to standards as may be prescribed in the applicable sections of the construction codes.
@@ -1434,7 +1650,9 @@ All construction documents submitted to the department shall contain such inform
 
 
 
-*§ 28-104.7.1 Scope. * ::
+
+
+*§ 28-104.7.1 Scope.* ::
 
 
 Construction documents shall be complete and of sufficient clarity to indicate the location and entire nature and extent of the work proposed, and shall show in detail that they conform to the provisions of this code and other applicable laws and rules; if there exist practical difficulties in the way of carrying out the strict letter of the code, laws or rules, the applicant shall set forth the nature of such difficulties.
@@ -1442,7 +1660,9 @@ Construction documents shall be complete and of sufficient clarity to indicate t
 
 
 
-*§ 28-104.7.2 Forms. * ::
+
+
+*§ 28-104.7.2 Forms.* ::
 
 
 The applicant shall submit construction documents on or accompanied by forms provided by the department.
@@ -1450,7 +1670,9 @@ The applicant shall submit construction documents on or accompanied by forms pro
 
 
 
-*§ 28-104.7.3 Media. * ::
+
+
+*§ 28-104.7.3 Media.* ::
 
 
 Construction documents shall be printed upon suitable material, or presented as electronic media documents as determined by the commissioner. Plans shall be drawn to suitable scale.
@@ -1458,7 +1680,9 @@ Construction documents shall be printed upon suitable material, or presented as 
 
 
 
-*§ 28-104.7.4 Quantities. * ::
+
+
+*§ 28-104.7.4 Quantities.* ::
 
 
 The applicant shall submit the number of copies of construction documents as the commissioner shall require.
@@ -1466,7 +1690,9 @@ The applicant shall submit the number of copies of construction documents as the
 
 
 
-*§ 28-104.7.5 Citations to code sections required. * ::
+
+
+*§ 28-104.7.5 Citations to code sections required.* ::
 
 
 In no case shall terms such as "code compliant", "approved", "legal" or similar terms be used in the construction documents as a substitute for specific reference to a particular code section, approval or standard in order to show compliance with code requirements or other applicable laws and rules.
@@ -1474,7 +1700,9 @@ In no case shall terms such as "code compliant", "approved", "legal" or similar 
 
 
 
-*§ 28-104.7.6 City Datum. * ::
+
+
+*§ 28-104.7.6 City Datum.* ::
 
 
 All elevations noted in the construction documents shall be referred to and clearly identified as the North American vertical datum of 1988 ("NAVD") as established and maintained by National Geodetic Survey of the National Ocean Service, National Oceanic and Atmospheric Administration or successor agency, which is hereby established as the city datum. Neither the United States coast and geodetic survey mean sea level datum of 1929 (national geodetic vertical datum, "NGVD") nor any of the five borough data as established by the former Board of Estimate and Apportionment shall be referred to in construction documents except as may be required for the purpose of demonstrating conversion to the NAVD. Conversions to NAVD shall be performed by registered design professionals or surveyors. Conversion to and from borough data and NGVD shall be performed using tables 104.7.6.1 through 104.7.6.5.
@@ -1597,7 +1825,9 @@ Table 104.7.6.5
 
 
 
-*§ 28-104.7.7 Identification of special and progress inspections. * ::
+
+
+*§ 28-104.7.7 Identification of special and progress inspections.* ::
 
 
 Whenever work or materials are subject to special or progress inspection, as provided in this code, such work or materials shall be listed on the title sheet of the construction documents, or the sheet immediately following, as subject to special or progress inspection.
@@ -1605,7 +1835,9 @@ Whenever work or materials are subject to special or progress inspection, as pro
 
 
 
-*§ 28-104.7.8 Identification of materials. * ::
+
+
+*§ 28-104.7.8 Identification of materials.* ::
 
 
 Construction documents shall identify all materials proposed to be used, including identification of the test standard to which they conform, and where applicable, supporting information or test data from the manufacturer attesting to such conformance.
@@ -1613,7 +1845,9 @@ Construction documents shall identify all materials proposed to be used, includi
 
 
 
-*§ 28-104.7.9 Energy conservation code. * ::
+
+
+*§ 28-104.7.9 Energy conservation code.* ::
 
 
 The application shall contain all information required to demonstrate compliance with the New York city energy conservation code. This information shall include signed and sealed construction drawings, including electrical drawings, to the extent that they demonstrate such energy code compliance, as required by such energy code and rules.
@@ -1621,7 +1855,9 @@ The application shall contain all information required to demonstrate compliance
 
 
 
-*§ 28-104.7.10 Preparer. * ::
+
+
+*§ 28-104.7.10 Preparer.* ::
 
 
 Each plan or drawing shall contain the license number, seal, signature (or equivalent as approved by the commissioner) and address of the registered design professional or landscape architect who prepared or supervised the preparation of the plans.
@@ -1629,7 +1865,9 @@ Each plan or drawing shall contain the license number, seal, signature (or equiv
 
 
 
-*§ 28-104.7.11 Additional information. * ::
+
+
+*§ 28-104.7.11 Additional information.* ::
 
 
 In addition to the data and information specified in this code and the rules of the department, the commissioner is authorized to require the submission of additional plans, surveys, computations, analyses, test reports, photographs, special inspection and such other data and information as may be necessary to determine compliance with this code and other applicable laws and rules.
@@ -1637,7 +1875,9 @@ In addition to the data and information specified in this code and the rules of 
 
 
 
-*§ 28-104.7.12 Waiver of certain documents. * ::
+
+
+*§ 28-104.7.12 Waiver of certain documents.* ::
 
 
 The commissioner is authorized to waive the submission of any of the required construction documents and other data if review of such documents is not necessary to ascertain compliance with this code or not required for the phase of work for which a permit is sought.
@@ -1645,7 +1885,9 @@ The commissioner is authorized to waive the submission of any of the required co
 
 
 
-*§ 28-104.7.13 Identification of work involving raising or moving a building. * ::
+
+
+*§ 28-104.7.13 Identification of work involving raising or moving a building.* ::
 
 
 Where the lowest above-grade floor or the lowest subgrade floor of a building is to be raised, lifted, elevated or moved, such work shall be listed on the title sheet of the construction documents as subject to special inspection.
@@ -1653,7 +1895,9 @@ Where the lowest above-grade floor or the lowest subgrade floor of a building is
 
 
 
-*§ 28-104.7.14 Identification of certain I-1 and I-2 occupancies and of certain adult homes, enriched housing, community residences and intermediate care facilities as exempt from temporary external generator connection requirements. * ::
+
+
+*§ 28-104.7.14 Identification of certain I-1 and I-2 occupancies and of certain adult homes, enriched housing, community residences and intermediate care facilities as exempt from temporary external generator connection requirements.* ::
 
 
 The title sheet of construction documents for the following buildings shall list whether the building is exempt from the requirement to provide connections for temporary external generators pursuant to any exception contained in sections G304.5.1 or G304.5.2 of appendix G of the New York city building code, as applicable:
@@ -1665,7 +1909,9 @@ The title sheet of construction documents for the following buildings shall list
 
 
 
-*§ 28-104.7.15 Identification of certain hospitals as exempt from temporary external boiler or chiller connection requirements. * ::
+
+
+*§ 28-104.7.15 Identification of certain hospitals as exempt from temporary external boiler or chiller connection requirements.* ::
 
 
 The title sheet of construction documents for a new or substantially improved building, as such term is defined in appendix G of the New York city building code, that contains space classified as an occupancy group I-2 hospital and that is located in an area of special flood hazard or shaded X-Zone, as such terms are defined in appendix G of the New York city building code, shall list whether the requirement to provide connections for temporary external boilers and chillers pursuant to Item 2 of section G304.5.2 is inapplicable as a result of such building having its boiler and chiller plants located at or above the applicable design flood elevation.
@@ -1673,7 +1919,9 @@ The title sheet of construction documents for a new or substantially improved bu
 
 
 
-*§ 28-104.8 Applications. * ::
+
+
+*§ 28-104.8 Applications.* ::
 
 
 All applications shall comply with sections 28-104.8.1 through 28-104.8.4.
@@ -1681,7 +1929,9 @@ All applications shall comply with sections 28-104.8.1 through 28-104.8.4.
 
 
 
-*§ 28-104.8.1 Applicant statements. * ::
+
+
+*§ 28-104.8.1 Applicant statements.* ::
 
 
 The application shall contain the following signed and sealed statements by the applicant:
@@ -1697,7 +1947,9 @@ The application shall contain the following signed and sealed statements by the 
 
 
 
-*§ 28-104.8.2 Owner statement. * ::
+
+
+*§ 28-104.8.2 Owner statement.* ::
 
 
 The application shall contain a signed statement by the owner, and, in the case of cooperative or condominium forms of ownership, the application shall also contain a statement by the cooperative or condominium board, affirming that the applicant is authorized to make the application and, if applicable, acknowledging that construction and related documents will be accepted with less than full examination by the department based on the professional certification of the applicant. Such statement shall list the owner's full name and address, as well as the names of the principal officers, partners or other principals if a corporation, partnership or other entity. Principal officers of a corporation shall be deemed to include the president, vice presidents, secretary and treasurer. Where a current deed holder with a valid property interest or a court appointed entity or equivalent in charge of the property, or in the case of a cooperative or condominium unit, the cooperative or condominium board, notifies the department in writing that the applicant does not have authority to make the application, the department is authorized pursuant to section 28-104.2.10 to revoke approval of construction documents.
@@ -1705,7 +1957,9 @@ The application shall contain a signed statement by the owner, and, in the case 
 
 
 
-*§ 28-104.8.3 Information of applicant, filing representative, and owner. * ::
+
+
+*§ 28-104.8.3 Information of applicant, filing representative, and owner.* ::
 
 
 The application shall set forth the full names, addresses, telephone numbers, and where available, e-mail addresses of the following persons and where any of such persons are corporations, partnerships or other business entities, the names and addresses of the principal officers, partners or other principals of such entity:
@@ -1721,7 +1975,9 @@ The application shall set forth the full names, addresses, telephone numbers, an
 
 
 
-*§ 28-104.8.4 Tenant protection plan. * ::
+
+
+*§ 28-104.8.4 Tenant protection plan.* ::
 
 
 Construction documents for alterations of buildings in which any dwelling unit will be occupied during construction shall include a tenant protection plan. Such plan shall contain a statement that the building contains dwelling units that will be occupied during construction and shall indicate in sufficient detail the specific units that are or may be occupied during construction, the means and methods to be employed to safeguard the safety and health of the occupants throughout the construction, including, where applicable, details such as temporary fire-rated assemblies, opening protectives, or dust containment procedures. Such means and methods shall be described with particularity and in no case shall terms such as "code compliant," "approved," "legal," "protected in accordance with law" or similar terms be used as a substitute for such description. The elements of the tenant protection plan may vary depending on the nature and scope of the work but at a minimum shall make detailed and specific provisions for:
@@ -1747,6 +2003,8 @@ Construction documents for alterations of buildings in which any dwelling unit w
 
 
 
+
+
 *§ 28-104.8.4.1 Public availability of tenant protection plan.* ::
 
 
@@ -1757,10 +2015,14 @@ Upon issuance of a permit for work containing a tenant protection plan, the depa
 
 
 
+
+
 *§ 28-104.8.4.2 Provision of copy of tenant protection plan to occupants upon request.* ::
 
 
 The owner of a building undergoing work for which a tenant protection plan is required by section 28-104.8.4 shall, upon request from an occupant of a dwelling unit within such building, provide such occupant with a paper copy of the tenant protection plan approved by the department.
+
+
 
 
 
@@ -1783,7 +2045,9 @@ Upon issuance of a permit for work containing a tenant protection plan, the owne
 
 
 
-*§ 28-104.9 Coastal zones and water-sensitive inland zones. * ::
+
+
+*§ 28-104.9 Coastal zones and water-sensitive inland zones.* ::
 
 
 Construction documents shall comply with sections 28-104.9.1 through 28-104.9.6 relating to work in coastal zones and water-sensitive inland zones.
@@ -1791,7 +2055,9 @@ Construction documents shall comply with sections 28-104.9.1 through 28-104.9.6 
 
 
 
-*§ 28-104.9.1 Definitions. * ::
+
+
+*§ 28-104.9.1 Definitions.* ::
 
 
 As used in section 28-104.9 the following terms shall have the following meanings:
@@ -1813,7 +2079,9 @@ STRUCTURE. Any object constructed, installed or placed in, on or under land or w
 
 
 
-*§ 28-104.9.2 Statement and submission by applicant. * ::
+
+
+*§ 28-104.9.2 Statement and submission by applicant.* ::
 
 
 It shall be the duty of an applicant for construction document approval to determine whether the proposed work is located within a coastal zone or a water-sensitive inland zone subject to section 28-104.9.3 and/or section 28-104.9. Applications for construction document approval shall include a statement by the applicant indicating whether the proposed work is located within a coastal zone or water-sensitive inland zone subject to such sections. The failure to disclose that proposed work is within a coastal zone or water-sensitive inland zone subject to such sections shall be a violation of this code.
@@ -1821,7 +2089,9 @@ It shall be the duty of an applicant for construction document approval to deter
 
 
 
-*§ 28-104.9.3 Coordination with department of environmental conservation and other agencies. * ::
+
+
+*§ 28-104.9.3 Coordination with department of environmental conservation and other agencies.* ::
 
 
 The commissioner shall not approve construction documents for construction of a new structure, the horizontal enlargement of a structure or to excavate or fill any land, within a tidal wetland, a tidal wetland adjacent area, freshwater wetland, freshwater wetland adjacent area, or coastal erosion hazard area, without documentation satisfactory to the commissioner that the New York state department of environmental conservation, and such other governmental agencies as are applicable, have issued any applicable permits or other approvals for such construction, excavation or fill.
@@ -1829,7 +2099,9 @@ The commissioner shall not approve construction documents for construction of a 
 
 
 
-*§ 28-104.9.4 Compliance with special flood hazard area requirements mandated within special flood hazard areas. * ::
+
+
+*§ 28-104.9.4 Compliance with special flood hazard area requirements mandated within special flood hazard areas.* ::
 
 
 Within coastal areas of special flood hazard and areas of special flood hazard, the commissioner shall not approve construction documents for construction or alteration of buildings or structures, including alterations pursuant to section 28-101.4.3, or for any other activity regulated by section G201 of the New York city building code, unless the application complies with the requirements of Appendix G of the New York city building code.
@@ -1837,7 +2109,9 @@ Within coastal areas of special flood hazard and areas of special flood hazard, 
 
 
 
-*§ 28-104.9.5 False statement or omission. * ::
+
+
+*§ 28-104.9.5 False statement or omission.* ::
 
 
 No person shall submit an application for construction document approval for any structure within a coastal zone or water-sensitive inland zone which falsely avers or by omission causes the department to determine that the subject property is not located within such zone or that the New York state department of environmental conservation and other appropriate agencies have issued the appropriate permits or approvals when they did not.
@@ -1845,7 +2119,9 @@ No person shall submit an application for construction document approval for any
 
 
 
-*§ 28-104.9.6 Revocation of approval of construction documents. * ::
+
+
+*§ 28-104.9.6 Revocation of approval of construction documents.* ::
 
 
 Where the department determines that work is located within a coastal zone or water-sensitive inland zone after construction documents have been approved for such work and/or that the documentation required by sections 28-104.9.2 through 28-104.9.4 has not been submitted, the department shall revoke such approval and any associated work permits that may have been issued for such work in accordance with section 28-104.2.10.
@@ -1853,10 +2129,14 @@ Where the department determines that work is located within a coastal zone or wa
 
 
 
-*§ 28-104.10 Construction documents for sites near subways or tunnels. * ::
+
+
+*§ 28-104.10 Construction documents for sites near subways or tunnels.* ::
 
 
 Construction documents shall not be approved unless all applicable agency approvals regarding nearby subways or tunnels as provided for in sections 3304.3.3 and 3304.3.5 of the New York city building code have been submitted to the department.
+
+
 
 
 
@@ -1869,10 +2149,14 @@ It shall be unlawful to construct, enlarge, alter, repair, move, demolish, remov
 
 
 
-*§ 28-105.1.1 Notification to fire department. * ::
+
+
+*§ 28-105.1.1 Notification to fire department.* ::
 
 
 The commissioner, in consultation with the fire commissioner, shall establish a procedure for notifying the fire department of the issuance of any permit that will result in the issuance of a new or amended certificate of occupancy or other change in the use or occupancy of the premises. In no instance shall the required notice be given to the fire department more than one business day after the date of the issuance of the permit.
+
+
 
 
 
@@ -1909,7 +2193,9 @@ Exceptions:
 
 
 
-*§ 28-105.2 Classification of work permits. * ::
+
+
+*§ 28-105.2 Classification of work permits.* ::
 
 
 For the purposes of this code, work permits shall be classified as follows:
@@ -1939,7 +2225,9 @@ For the purposes of this code, work permits shall be classified as follows:
 
 
 
-*§ 28-105.2.1 Submittal documents required for foundations and earthwork. * ::
+
+
+*§ 28-105.2.1 Submittal documents required for foundations and earthwork.* ::
 
 
 Prior to the issuance of any permit for work that includes foundations and/or earthwork, submittal documents clearly illustrating support of excavation design, including but not limited to stepping, sheeting, sloping, shoring, and bracing, and any protective railings or equipment required by chapter 33 of the New York city building code shall be required.
@@ -1947,7 +2235,9 @@ Prior to the issuance of any permit for work that includes foundations and/or ea
 
 
 
-*§ 28-105.2.2 Submittal documents required for partial demolition. * ::
+
+
+*§ 28-105.2.2 Submittal documents required for partial demolition.* ::
 
 
 Prior to the issuance of any permit for work that includes partial demolition, submittal documents shall be required in accordance with chapter 33 of the New York city building code.
@@ -1955,7 +2245,9 @@ Prior to the issuance of any permit for work that includes partial demolition, s
 
 
 
-*§ 28-105.3 Separate permits required. * ::
+
+
+*§ 28-105.3 Separate permits required.* ::
 
 
 Separate work permits shall be required, as provided above, except that separate permits for foundations and earthwork, or for the installation or alteration of air conditioning systems, ventilation systems, and heating systems shall not be required whenever such work is included in and forms a part of the construction documents filed for the construction of a new building or the alteration of a building or structure.
@@ -1963,7 +2255,9 @@ Separate work permits shall be required, as provided above, except that separate
 
 
 
-*§ 28-105.4 Work exempt from permit. * ::
+
+
+*§ 28-105.4 Work exempt from permit.* ::
 
 
 Exemptions from permit requirements of this code shall not be deemed to grant authorization for any work to be done in any manner in violation of the provisions of this code, the zoning resolution or any other law or rules enforced by the department. Such exemptions shall not relieve any owner of the obligation to comply with the requirements of or file with other city agencies. Unless otherwise indicated, permits shall not be required for the following:
@@ -1985,7 +2279,9 @@ Exemptions from permit requirements of this code shall not be deemed to grant au
 
 
 
-*§ 28-105.4.1 Emergency work. * ::
+
+
+*§ 28-105.4.1 Emergency work.* ::
 
 
 Work that would otherwise require a permit may be performed without a permit to the extent necessary to relieve an emergency condition. An application for a permit shall be submitted within 2 business days after the commencement of the emergency work and shall include written description of the emergency condition and the measures undertaken to mitigate the hazard. Emergency work may include but shall not be limited to:
@@ -2003,7 +2299,9 @@ Work that would otherwise require a permit may be performed without a permit to 
 
 
 
-*§ 28-105.4.2 Minor alterations and ordinary repairs. * ::
+
+
+*§ 28-105.4.2 Minor alterations and ordinary repairs.* ::
 
 
 A permit shall not be required for minor alterations and ordinary repairs.
@@ -2011,7 +2309,9 @@ A permit shall not be required for minor alterations and ordinary repairs.
 
 
 
-*§ 28-105.4.2.1 Definitions. * ::
+
+
+*§ 28-105.4.2.1 Definitions.* ::
 
 
 The following words and terms shall, for the purposes of this section 28-105.4.2 and as used elsewhere in this code, have the meanings shown herein.
@@ -2039,7 +2339,9 @@ WORK NOT CONSTITUTING MINOR ALTERATIONS OR ORDINARY REPAIRS. Minor alterations o
 
 
 
-*§ 28-105.4.3 Public utility company or public utility corporation. * ::
+
+
+*§ 28-105.4.3 Public utility company or public utility corporation.* ::
 
 
 A permit shall not be required for:
@@ -2051,7 +2353,9 @@ A permit shall not be required for:
 
 
 
-*§ 28-105.4.4 Ordinary plumbing work. * ::
+
+
+*§ 28-105.4.4 Ordinary plumbing work.* ::
 
 
 The following ordinary plumbing work may be performed without a permit, provided that the licensed plumber performing such work: (i) provides a monthly report listing completed work and work in progress during the preceding month, including the block, lot and address of each job, a description of the work performed or in progress at each address, and the location in each building where the work was performed or is in progress; (ii) pays the fees for such work in accordance with this code; and (iii) submits to the department a certification that the work was performed in accordance with this code and all applicable laws and rules. Ordinary plumbing work shall include:
@@ -2075,7 +2379,9 @@ The following ordinary plumbing work may be performed without a permit, provided
 
 
 
-*§ 28-105.4.5 Sign permits. * ::
+
+
+*§ 28-105.4.5 Sign permits.* ::
 
 
 A sign permit shall not be required where the sign is:
@@ -2095,7 +2401,9 @@ A sign permit shall not be required where the sign is:
 
 
 
-*§ 28-105.4.6 Geotechnical investigations. * ::
+
+
+*§ 28-105.4.6 Geotechnical investigations.* ::
 
 
 A permit shall not be required for excavation performed for a geotechnical investigation required by section 1802.4 of the New York city building code provided such excavation does not exceed 10 feet (3048 mm) in length, width, or diameter and is conducted under the supervision of a registered design professional. All excavation activity, including backfilling of excavations, shall comply with all relevant code provisions, including but not limited to sections 1803 and 3304 of the New York city building code.
@@ -2103,10 +2411,14 @@ A permit shall not be required for excavation performed for a geotechnical inves
 
 
 
-*§ 28-105.5 Application for permit. * ::
+
+
+*§ 28-105.5 Application for permit.* ::
 
 
 All applications for permits shall be submitted on forms furnished by the department. Applications shall include all information required by this code, other applicable law or the rules of the department. The applicant shall list any portions of the design that have been approved for deferred submittal in accordance with section 28-104.2.6. The application shall set forth an inspection program for the project. An application for a permit shall be submitted no later than 12 months after the approval of all required construction documents (other than those documents approved for deferred submittal).
+
+
 
 
 
@@ -2121,10 +2433,14 @@ Exception: For permits issued for plumbing work, fire protection and suppression
 
 
 
+
+
 *§ 28-105.5.1 Application for permit where a building is occupied.** ::
 
 
 All applications for permits for work on a building having more than three dwelling shall state the total number of units, and the number of units occupied at the time the application is filed.
+
+
 
 
 
@@ -2155,6 +2471,8 @@ All applications for permits shall include a certification by the owner of the p
 
 
 
+
+
 *§ 28-105.5.2.1 Audit.* ::
 
 
@@ -2165,7 +2483,9 @@ The commissioner shall each year, in consultation with the department of finance
 
 
 
-*§ 28-105.6 Fees. * ::
+
+
+*§ 28-105.6 Fees.* ::
 
 
 Applications for permits shall be accompanied by the payment of appropriate fees as provided for in article 112.
@@ -2173,7 +2493,9 @@ Applications for permits shall be accompanied by the payment of appropriate fees
 
 
 
-*§ 28-105.7 Time limitation of applications. * ::
+
+
+*§ 28-105.7 Time limitation of applications.* ::
 
 
 An application for a permit shall be deemed to have been abandoned 12 months after the date of its submission, unless such application has been diligently prosecuted after rejection in whole or in part, or a permit shall have been issued except that the commissioner may, for reasonable cause, and upon payment of all reinstatement fees as provided for in this code, grant extensions of time for additional 12-month periods.
@@ -2181,7 +2503,9 @@ An application for a permit shall be deemed to have been abandoned 12 months aft
 
 
 
-*§ 28-105.8 Validity of permit. * ::
+
+
+*§ 28-105.8 Validity of permit.* ::
 
 
 The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any violation of any of the provisions of this code or of any other law or rule. Permits presuming to give authority to violate or cancel the provisions of this code or other law or rule shall not be valid. The issuance of a permit based on construction documents and other data shall not prevent the commissioner from requiring the correction of errors in the construction documents and other data. The commissioner is authorized to prevent any occupancy, use or work in violation of this code, the zoning resolution or other law or rule enforced by the department.
@@ -2189,7 +2513,9 @@ The issuance or granting of a permit shall not be construed to be a permit for, 
 
 
 
-*§ 28-105.8.1 Duration of permit. * ::
+
+
+*§ 28-105.8.1 Duration of permit.* ::
 
 
 Permits may be issued for a period of up to two years unless otherwise limited by law.
@@ -2197,7 +2523,9 @@ Permits may be issued for a period of up to two years unless otherwise limited b
 
 
 
-*§ 28-105.8.2 Signature of commissioner on permit. * ::
+
+
+*§ 28-105.8.2 Signature of commissioner on permit.* ::
 
 
 Every permit issued by the commissioner shall have his or her signature affixed thereto; but the commissioner may authorize any subordinate to affix such signature, including by the use of electronic means.
@@ -2205,7 +2533,9 @@ Every permit issued by the commissioner shall have his or her signature affixed 
 
 
 
-*§ 28-105.9 Expiration. * ::
+
+
+*§ 28-105.9 Expiration.* ::
 
 
 All permits issued by the commissioner shall expire by limitation and become invalid if the permitted work or use is not commenced within 12 months from the date of issuance of the permit . Subsequent to the 12-month period following the issuance of the initial permit, all permits shall expire if the permitted work is suspended or abandoned for a continuous period of 12 months unless such permits expire earlier pursuant to applicable provisions of this code. The permit shall automatically expire upon the expiration of required insurance or if the applicant holds a license issued by the department upon the expiration or revocation of such license during the term of the permit.
@@ -2215,7 +2545,9 @@ Exception: All permits for work in an area of special flood hazard shall comply 
 
 
 
-*§ 28-105.9.1 Reinstatement. * ::
+
+
+*§ 28-105.9.1 Reinstatement.* ::
 
 
 The commissioner may at any time reinstate a work permit solely for the purpose of sign-off, including the correction of defects noted in a final inspection as provided in section 28-116.2.4 of this code, or reinstate a work permit within a period of two years from the date of issuance of the original permit. Except in the case of a permit reinstated solely for the purpose of sign-off, the work shall comply with all the requirements of this code and other applicable laws and rules in effect at the time application for reinstatement is made. The applicant for reinstatement shall pay all reinstatement fees as required by article 112.
@@ -2223,7 +2555,9 @@ The commissioner may at any time reinstate a work permit solely for the purpose 
 
 
 
-*§ 28-105.10 Suspension or revocation of permit. * ::
+
+
+*§ 28-105.10 Suspension or revocation of permit.* ::
 
 
 The commissioner is authorized to suspend or revoke a permit issued under the provisions of this code.
@@ -2231,7 +2565,9 @@ The commissioner is authorized to suspend or revoke a permit issued under the pr
 
 
 
-*§ 28-105.10.1 Notice of proposed revocation. * ::
+
+
+*§ 28-105.10.1 Notice of proposed revocation.* ::
 
 
 The commissioner may, on written notice to the permit holder, revoke any permit for failure to comply with the provisions of this code or other applicable laws or rules; or whenever there has been any false statement or any misrepresentation as to a material fact in the application or submittal documents upon the basis of which such approval was issued; or whenever a permit has been issued in error and conditions are such that the permit should not have been issued. Such notice shall inform the permit holder of the reasons for the proposed revocation and that the applicant has the right to present to the commissioner or his or her representative within 10 business days of delivery of the notice by hand or 15 calendar days of the posting of notice by mail, information as to why the permit should not be revoked.
@@ -2239,7 +2575,9 @@ The commissioner may, on written notice to the permit holder, revoke any permit 
 
 
 
-*§ 28-105.10.2 Immediate suspension in cases of imminent peril. * ::
+
+
+*§ 28-105.10.2 Immediate suspension in cases of imminent peril.* ::
 
 
 The commissioner may immediately suspend any permit without prior notice to the permit holder when the commissioner has determined that an imminent peril to life or property exists. The commissioner shall forthwith notify the permit holder that the permit has been suspended and the reasons therefore, that it is proposed to be revoked, and that the permit holder has the right to present to the commissioner or his or her representative within 10 business days of delivery of the notice by hand or 15 calendar days of the posting of notice by mail information as to why the permit should not be revoked.
@@ -2247,7 +2585,9 @@ The commissioner may immediately suspend any permit without prior notice to the 
 
 
 
-*§ 28-105.11 Posting of permit. * ::
+
+
+*§ 28-105.11 Posting of permit.* ::
 
 
 The building permit or copy shall be posted in a conspicuous place at the work site, visible to the public for the duration of the work or the use and operation of the equipment, or until the expiration of the permit. No such permit shall be posted or displayed at any location other than the location of the premises or equipment for which the permit was issued. Where the permit is exposed to the weather, it shall be laminated or encased in a plastic covering to protect it from the elements.
@@ -2257,7 +2597,9 @@ Exception: Where a project information panel is required by section 3301.9.1 of 
 
 
 
-*§ 28-105.12 Conditions of permit. * ::
+
+
+*§ 28-105.12 Conditions of permit.* ::
 
 
 Permits shall be subject to the following conditions:
@@ -2265,7 +2607,9 @@ Permits shall be subject to the following conditions:
 
 
 
-*§ 28-105.12.1 Compliance with code. * ::
+
+
+*§ 28-105.12.1 Compliance with code.* ::
 
 
 Permits shall be deemed to incorporate the provisions that the applicant, the owner, their agents, employees, and contractors shall carry out the permitted work in accordance with the provisions of this code and other applicable laws or rules, whether specified or not, except as variations have been legally permitted or authorized.
@@ -2273,7 +2617,9 @@ Permits shall be deemed to incorporate the provisions that the applicant, the ow
 
 
 
-*§ 28-105.12.2 Compliance with construction and submittal documents. * ::
+
+
+*§ 28-105.12.2 Compliance with construction and submittal documents.* ::
 
 
 All work shall conform to the approved construction and submittal documents, and any approved amendments thereto. Changes and revisions during the course of construction shall conform to the amendment requirements of this code.
@@ -2281,7 +2627,9 @@ All work shall conform to the approved construction and submittal documents, and
 
 
 
-*§ 28-105.12.3 Adherence to lot diagram. * ::
+
+
+*§ 28-105.12.3 Adherence to lot diagram.* ::
 
 
 All work shall be strictly located in accordance with the lot diagram approved in accordance with this code and no lot or plot shall be changed, increased or diminished in area from that shown on the approved lot diagram, unless and until a revised diagram showing such changes, accompanied by the necessary statement of the owner or applicant, shall have been submitted to and approved by the commissioner.
@@ -2289,7 +2637,9 @@ All work shall be strictly located in accordance with the lot diagram approved i
 
 
 
-*§ 28-105.12.4 Compliance with safety requirements. * ::
+
+
+*§ 28-105.12.4 Compliance with safety requirements.* ::
 
 
 All work shall be conducted in accordance with and subject to the safety requirements of this code and other applicable laws or rules, including any order or requirement of the commissioner that the building or structure under construction or alteration be vacated, in whole or in part, during the progress of the work and until the issuance of a certificate of occupancy. Adjoining lots and properties shall be protected in accordance with this code.
@@ -2297,7 +2647,9 @@ All work shall be conducted in accordance with and subject to the safety require
 
 
 
-*§ 28-105.12.5 Compliance with noise control code required. * ::
+
+
+*§ 28-105.12.5 Compliance with noise control code required.* ::
 
 
 All work shall be performed in compliance with the provisions of the New York city noise control code as set forth in chapter 2 of title 24 of the administrative code. Failure to comply with sections 24-222 and 24-223 of the administrative code shall be a violation of this code.
@@ -2305,7 +2657,9 @@ All work shall be performed in compliance with the provisions of the New York ci
 
 
 
-*§ 28-105.12.6 Deferred submittals. * ::
+
+
+*§ 28-105.12.6 Deferred submittals.* ::
 
 
 Where permits are issued subject to deferred submittal of portions of the design as provided for in section 28-104.2.6, the deferred submittal items shall not be installed until the construction and submittal documents for such portions have been approved by the department and, where applicable, new or amended permits have been issued.
@@ -2313,7 +2667,9 @@ Where permits are issued subject to deferred submittal of portions of the design
 
 
 
-*§ 28-105.12.7 Insurance. * ::
+
+
+*§ 28-105.12.7 Insurance.* ::
 
 
 Where workers compensation, employee disability or liability insurance is required by law or department rule, the applicant for the work permit shall obtain and include proof of such insurance with the work permit application. The permit shall expire by operation of law if the insurance upon which the permit was conditioned lapses, expires or is cancelled, unless the permit holder files proof of alternate insurance before such event.
@@ -2321,7 +2677,9 @@ Where workers compensation, employee disability or liability insurance is requir
 
 
 
-*§ 28-105.12.7.1 Insurance coverage for adjacent properties. * ::
+
+
+*§ 28-105.12.7.1 Insurance coverage for adjacent properties.* ::
 
 
 A person who obtains a permit for construction or demolition operations shall, at such person's own expense, procure and maintain for the duration of the operations, insurance of a kind and in an amount specified by rule of the department, to insure any and all adjacent property owners and their lawful occupants fully for all risks of loss, damage to property or injury to or death of persons, arising out of or in connection with the performance of the proposed work. Such person shall submit proof of insurance to the department when applying for a permit for construction or demolition work.
@@ -2329,10 +2687,14 @@ A person who obtains a permit for construction or demolition operations shall, a
 
 
 
-*§ 28-105.12.8 Site safety plan. * ::
+
+
+*§ 28-105.12.8 Site safety plan.* ::
 
 
 Where a site safety plan is required by this code or by the department, all work shall adhere to the site safety plan. Site safety plans shall require approval of the department where specified in this code or the New York city building code.
+
+
 
 
 
@@ -2352,7 +2714,9 @@ No permit for construction or demolition work for which training is required by 
 
 **Article 106: Asbestos**
 
-*§ 28-106.1 Asbestos certification required. * ::
+
+
+*§ 28-106.1 Asbestos certification required.* ::
 
 
 The commissioner shall not issue a permit for the demolition or alteration of a building constructed pursuant to plans submitted for approval on or before April 1, 1987, unless the applicant submits such certification relating to asbestos as may be required by the rules of the department of environmental protection.
@@ -2360,7 +2724,9 @@ The commissioner shall not issue a permit for the demolition or alteration of a 
 
 
 
-*§ 28-106.1.1 Full demolition permit. * ::
+
+
+*§ 28-106.1.1 Full demolition permit.* ::
 
 
 The commissioner shall not issue a full demolition permit unless the owner of the building provides certification in a form and manner to be provided in the rules of the department of environmental protection that (i) the building is free of asbestos containing material, or (ii) the commissioner of environmental protection, has issued a variance from this requirement in accordance with subdivision (m) of section 24-136 of the administrative code and the rules of the department of environmental protection, subject to the requirement that demolition work will be performed only in parts of the building that are certified free of asbestos containing material. The full demolition permit shall be subject to such additional conditions as the department of buildings may require of the permittee based on the size and complexity of the demolition work.
@@ -2372,7 +2738,9 @@ Exception: This section 28-106.1.1 shall not apply to full demolition performed 
 
 
 
-*§ 28-106.1.2 Alteration permit for the removal of one or more stories. * ::
+
+
+*§ 28-106.1.2 Alteration permit for the removal of one or more stories.* ::
 
 
 The commissioner shall not issue an alteration permit for the removal of one or more stories of a building unless the owner of the building provides certification in a form and manner to be provided in the rules of the department of environmental protection that (i) the stories to be removed are free of asbestos containing material and that no abatement activities will be performed anywhere in the building concurrently with the removal work authorized by such permit or (ii) the commissioner of environmental protection has issued a variance from these requirements in accordance with subdivision (m) of section 24-136 of the administrative code and the rules of the department of environmental protection, subject to the requirement that work authorized by the alteration permit will be performed only in parts of the building that are certified free of asbestos containing material. The alteration permit shall be subject to such additional conditions as the department of buildings may require of the permittee based on the size and complexity of the work.
@@ -2384,7 +2752,9 @@ Exception: This section 28-106.1.2 shall not apply to removal of one or more sto
 
 
 
-*§ 28-106.2 Construction and maintenance of asbestos containment structures and other temporary structures or work required for asbestos abatement activities. * ::
+
+
+*§ 28-106.2 Construction and maintenance of asbestos containment structures and other temporary structures or work required for asbestos abatement activities.* ::
 
 
 Notwithstanding any other provision of this code, the construction and maintenance of asbestos containment structures, decontamination system enclosures and other temporary structures or work performed in the course of and only for the purpose of asbestos abatement activities shall comply with this section and the rules of the Department of Environmental Protection relating to such temporary structures and work and with Article 30 of the Labor Law and rules adopted pursuant to such article.
@@ -2392,7 +2762,9 @@ Notwithstanding any other provision of this code, the construction and maintenan
 
 
 
-*§ 28-106.2.1 Materials. * ::
+
+
+*§ 28-106.2.1 Materials.* ::
 
 
 The rules of the department of environmental protection relating to materials used in the construction of temporary structures for asbestos abatement activities shall contain a provision requiring such structures to be non-combustible or flame resistant in compliance with reference standard NFPA 255-06 or NFPA 701-99, as such standards may be modified by local law or by the Department of Buildings pursuant to applicable rules.
@@ -2400,7 +2772,9 @@ The rules of the department of environmental protection relating to materials us
 
 
 
-*§ 28-106.3 Permit exemption. * ::
+
+
+*§ 28-106.3 Permit exemption.* ::
 
 
 Except as otherwise provided by rule, work performed in the course of and only for the purpose of an asbestos project that is required to be permitted pursuant to section 24-138 of the administrative code shall be exempt from the permit requirements of this code.
@@ -2410,7 +2784,9 @@ Except as otherwise provided by rule, work performed in the course of and only f
 
 
 
-*§ 28-106.4 Definitions. * ::
+
+
+*§ 28-106.4 Definitions.* ::
 
 
 For the purposes of this article, the terms "asbestos" and "asbestos project" shall have the meanings as are ascribed in section 24-136 of the administrative code.
@@ -2423,7 +2799,9 @@ For the purposes of this article, the terms "asbestos" and "asbestos project" sh
 
 **Article 107: Alteration Or Demolition of Single Room Occupancy Multiple Dwellings**
 
-*§ 28-107.1 General. * ::
+
+
+*§ 28-107.1 General.* ::
 
 
 The commissioner shall not approve construction documents, nor issue an initial or reinstated permit in connection therewith, for the alteration or demolition of a single room occupancy multiple dwelling except as set forth in this article. Applications for post approval amendments to construction documents are subject to this article where the application proposes a change within a covered category of work as set forth in section 28-107.3.
@@ -2431,7 +2809,9 @@ The commissioner shall not approve construction documents, nor issue an initial 
 
 
 
-*§ 28-107.2 Definitions. * ::
+
+
+*§ 28-107.2 Definitions.* ::
 
 
 The following words and terms shall, for the purposes of this article and elsewhere in the code, have the meanings shown herein.
@@ -2469,7 +2849,9 @@ Exception: The term single room occupancy multiple dwelling shall not include:
 
 
 
-*§ 28-107.3 Covered categories of work. * ::
+
+
+*§ 28-107.3 Covered categories of work.* ::
 
 
 Applications for the approval of construction documents for the following categories of work are covered by this article:
@@ -2491,7 +2873,9 @@ Exceptions:
 
 
 
-*§ 28-107.4 Required submittal documents. * ::
+
+
+*§ 28-107.4 Required submittal documents.* ::
 
 
 The commissioner shall not approve any construction documents, nor issue an initial or reinstated permit in connection therewith, for a single room occupancy multiple dwelling for the covered categories of work unless the applicant provides:
@@ -2509,7 +2893,9 @@ The commissioner shall not approve any construction documents, nor issue an init
 
 
 
-*§ 28-107.5 Filing process. * ::
+
+
+*§ 28-107.5 Filing process.* ::
 
 
 Applications for a certification of no harassment shall be made pursuant to section 27-2093 of the housing maintenance code.
@@ -2517,7 +2903,9 @@ Applications for a certification of no harassment shall be made pursuant to sect
 
 
 
-*§ 28-107.6 Time period for acceptance or rejection. * ::
+
+
+*§ 28-107.6 Time period for acceptance or rejection.* ::
 
 
 The time period in which the commissioner is required to approve or reject an application for construction document approval or resubmission thereof pursuant to this code shall commence from the date that the commissioner receives either the certification or waiver pursuant to this article.
@@ -2525,7 +2913,9 @@ The time period in which the commissioner is required to approve or reject an ap
 
 
 
-*§ 28-107.7 Denial of certification. * ::
+
+
+*§ 28-107.7 Denial of certification.* ::
 
 
 Where the commissioner of housing preservation and development denies the certification required by this article, the commissioner shall reject the application for construction document approval.
@@ -2533,7 +2923,9 @@ Where the commissioner of housing preservation and development denies the certif
 
 
 
-*§ 28-107.8 Request for stop-work or rescission. * ::
+
+
+*§ 28-107.8 Request for stop-work or rescission.* ::
 
 
 The commissioner shall be empowered to issue a stop-work notice or order with respect to an alteration or demolition permit and/or to rescind approval of construction documents at the request of the commissioner of housing preservation and development pursuant to section 27-2093 of the New York city housing maintenance code.
@@ -2541,7 +2933,9 @@ The commissioner shall be empowered to issue a stop-work notice or order with re
 
 
 
-*§ 28-107.9 Effect of denial or rescission. * ::
+
+
+*§ 28-107.9 Effect of denial or rescission.* ::
 
 
 Where the commissioner rejects or rescinds the approval of construction documents pursuant to this article, no further application for the covered categories of work shall be considered by the commissioner for a period of 36 months following the date of the denial of the certification of no harassment by the commissioner of housing preservation and development or the date of the rescission of such certification of no harassment by such commissioner.
@@ -2552,7 +2946,9 @@ Where the commissioner rejects or rescinds the approval of construction document
 
 **Article 108: Pavement Plan**
 
-*§ 28-108.1 General. * ::
+
+
+*§ 28-108.1 General.* ::
 
 
 The commissioner shall not issue a permit for the erection of a new building or for alterations that will require the issuance of a new or amended certificate of occupancy without a statement that no certificate of occupancy shall be issued unless the sidewalk in front of or abutting such building, including but not limited to the intersection quadrants for corner properties, shall have been paved or repaired by the owner, at his or her own cost, in the manner, of the materials, and in accordance with the standard specifications prescribed by the New York city department of transportation pursuant to sections 19-113 and 19-115 of the administrative code.
@@ -2568,7 +2964,9 @@ Exceptions:
 
 
 
-*§ 28-108.2 Pavement plan required. * ::
+
+
+*§ 28-108.2 Pavement plan required.* ::
 
 
 Construction documents shall include a pavement plan processed and approved under guidelines established by the department. The pavement plan shall include documentation sufficient to show compliance with the standards and specifications of the New York city department of transportation pursuant to sections 19-113 and 19-115 of the administrative code.
@@ -2578,7 +2976,9 @@ Exception: No pavement plan shall be required with respect to an alteration appl
 
 
 
-*§ 28-108.3 Improvement of streets. * ::
+
+
+*§ 28-108.3 Improvement of streets.* ::
 
 
 The commissioner shall insure that streets are suitably improved in accordance with the standards and specifications of the department of transportation as required by subdivision two of section thirty-six of the general city law and shall otherwise carry out the provisions of such subdivision.
@@ -2589,7 +2989,9 @@ The commissioner shall insure that streets are suitably improved in accordance w
 
 **Article 109: Fire Protection Plan**
 
-*§ 28-109.1 Fire protection plan required for covered buildings. * ::
+
+
+*§ 28-109.1 Fire protection plan required for covered buildings.* ::
 
 
 New building and alteration applications for covered buildings as set forth in section 28-109.2 shall include a fire protection plan prepared by or under the supervision of a registered design professional who shall professionally certify such plan. Such plan shall be approved by the department and the fire department prior to issuance of a certificate of occupancy, a temporary certificate of occupancy or a letter of completion, as applicable.
@@ -2605,7 +3007,9 @@ Exception: No fire protection plan shall be required for an alteration that meet
 
 
 
-*§ 28-109.2 Covered buildings. * ::
+
+
+*§ 28-109.2 Covered buildings.* ::
 
 
 Covered buildings include:
@@ -2625,7 +3029,9 @@ Covered buildings include:
 
 
 
-*§ 28-109.3 Scope. * ::
+
+
+*§ 28-109.3 Scope.* ::
 
 
 The plan shall include the following information, where applicable:
@@ -2674,7 +3080,9 @@ The plan shall include the following information, where applicable:
 
 **Article 110: Site Safety Plan**
 
-*§ 28-110.1 Site safety plan. * ::
+
+
+*§ 28-110.1 Site safety plan.* ::
 
 
 Where a site safety plan is required by chapter 33 of the New York city building code, such plan shall include the following:
@@ -2724,7 +3132,9 @@ Where a site safety plan is required by chapter 33 of the New York city building
 
 
 
-*§ 28-110.2 Phased site safety plans. * ::
+
+
+*§ 28-110.2 Phased site safety plans.* ::
 
 
 Multiple layouts of the site safety features enumerated in section 28-110.1 may be submitted at any time during construction operations to show phased site safety designs consistent with the phase of anticipated work.
@@ -2735,7 +3145,9 @@ Multiple layouts of the site safety features enumerated in section 28-110.1 may 
 
 **Article 111: Temporary Structures and Uses**
 
-*§ 28-111.1 General. * ::
+
+
+*§ 28-111.1 General.* ::
 
 
 The erection of certain temporary structures and temporary uses may be authorized as set forth in sections 28-111.1.1 and 28-111.1.2.
@@ -2743,7 +3155,9 @@ The erection of certain temporary structures and temporary uses may be authorize
 
 
 
-*§ 28-111.1.1 Permits for the erection and use of temporary structures. * ::
+
+
+*§ 28-111.1.1 Permits for the erection and use of temporary structures.* ::
 
 
 The commissioner is authorized to issue a permit for the erection of temporary structures including but not limited to tents, grandstands, platforms, reviewing stands, outdoor bandstands, stages and similar miscellaneous structures and equipment, and for the temporary use of such structures. Such permits shall be limited as to time of service or use, but in no event shall be permitted for more than 90 days. The commissioner may grant extensions for demonstrated cause.
@@ -2757,7 +3171,9 @@ Exception: No permit shall be required for:
 
 
 
-*§ 28-111.1.2 Letters authorizing temporary uses. * ::
+
+
+*§ 28-111.1.2 Letters authorizing temporary uses.* ::
 
 
 The commissioner is authorized to issue a letter authorizing the temporary use of outdoor or indoor spaces provided the space shall be occupied in a manner that will not endanger public safety, health, or welfare. Such letters authorizing the temporary use shall be limited as to time of service or use, but shall not be permitted for more than 90 days. The commissioner may grant extensions for demonstrated cause.
@@ -2765,7 +3181,9 @@ The commissioner is authorized to issue a letter authorizing the temporary use o
 
 
 
-*§ 28-111.2 Conformance. * ::
+
+
+*§ 28-111.2 Conformance.* ::
 
 
 Temporary structures and uses shall conform to the structural strength, fire safety, means of egress, accessibility, light, ventilation and sanitary requirements of this code as necessary to ensure the public health, safety and general welfare.
@@ -2773,7 +3191,9 @@ Temporary structures and uses shall conform to the structural strength, fire saf
 
 
 
-*§ 28-111.3 Termination of approval. * ::
+
+
+*§ 28-111.3 Termination of approval.* ::
 
 
 The commissioner is authorized to terminate such permit or letter of authorization and to order the temporary structure or use to be discontinued.
@@ -2781,7 +3201,9 @@ The commissioner is authorized to terminate such permit or letter of authorizati
 
 
 
-*§ 28-111.4 Application processing. * ::
+
+
+*§ 28-111.4 Application processing.* ::
 
 
 Application for such structures and uses shall be submitted to the department no later than 15 business days prior to the construction of the temporary structure or the commencement of the temporary use.
@@ -2789,7 +3211,9 @@ Application for such structures and uses shall be submitted to the department no
 
 
 
-*§ 28-111.5 Fees. * ::
+
+
+*§ 28-111.5 Fees.* ::
 
 
 Applications for such permits shall be accompanied by the applicable fees in accordance with article 112. Fees for subsequent requests for renewals shall be paid upon approval of such requests.
@@ -2797,7 +3221,9 @@ Applications for such permits shall be accompanied by the applicable fees in acc
 
 
 
-*§ 28-111.6 Place of assembly. * ::
+
+
+*§ 28-111.6 Place of assembly.* ::
 
 
 Notwithstanding any inconsistent provision of this article the use of a temporary structure or the temporary use of space as a place of assembly shall require a temporary place of assembly certificate of operation issued pursuant to section 28-117.2.
@@ -2808,7 +3234,9 @@ Notwithstanding any inconsistent provision of this article the use of a temporar
 
 **Article 112: Fees**
 
-*§ 28-112.1 Payment of fees. * ::
+
+
+*§ 28-112.1 Payment of fees.* ::
 
 
 A permit, inspection, or other service or privilege as regulated in this code shall not be valid until the fees prescribed herein or in rules have been paid, nor shall a renewal of a permit or other service or privilege or an amendment to a permit be released until the fee has been paid. In addition, an approval required to be reissued due to a change in product name, company name and/or address, contact information or principals, shall not be reissued until a reissuance fee, if any, has been paid. The department shall adopt such rules and shall prescribe such forms as may be necessary to carry out the provisions of this article.
@@ -2822,7 +3250,9 @@ Exceptions:
 
 
 
-*§ 28-112.2 Schedule of permit fees. * ::
+
+
+*§ 28-112.2 Schedule of permit fees.* ::
 
 
 Permits for new buildings, structures, mechanical, and plumbing systems or alterations requiring a permit shall be accompanied by a fee for each permit in accordance with the fee schedule of Table 28-112.2. Fifty percent of the total fee for the work permit, but not less than one hundred dollars, or the total fee for the work permit where such fee is less than one hundred dollars, shall be paid and shall accompany the first application for the approval of construction documents; and the whole or remainder of the total fee shall be paid before the work permit may be issued. The commissioner may require reasonable substantiation of any statement or other form that may be required by the department.
@@ -3030,7 +3460,9 @@ Table 28-112.2
 
 
 
-*§ 28-112.3 Building permit valuations. * ::
+
+
+*§ 28-112.3 Building permit valuations.* ::
 
 
 An estimate of the cost of construction shall be provided at the time of application for construction document approval or, where no construction documents are required, at the time of application for a permit. Such costs shall include the total value of work proposed, including but not limited to materials , equipment and labor, with reasonable allowances for profit and overhead. If, in the opinion of the department, the cost is underestimated , the application shall be denied, unless the applicant can show detailed estimates to meet the approval of the department. A final affidavit with the total actual cost of construction, as built or installed, shall be submitted prior to signoff. The initial, amended and final building permit valuation shall be set by the department.
@@ -3038,7 +3470,9 @@ An estimate of the cost of construction shall be provided at the time of applica
 
 
 
-*§ 28-112.4 Work commencing before permit issuance. * ::
+
+
+*§ 28-112.4 Work commencing before permit issuance.* ::
 
 
 Any person who commences any work before obtaining the necessary permits shall be subject to a penalty as specified in this code that shall be in addition to the required permit fees.
@@ -3046,7 +3480,9 @@ Any person who commences any work before obtaining the necessary permits shall b
 
 
 
-*§ 28-112.5 Related fees. * ::
+
+
+*§ 28-112.5 Related fees.* ::
 
 
 The payment of the fee for the construction, alteration, removal or demolition for work done in connection or concurrently with the work authorized by a building permit shall not relieve the applicant or holder of the permit from the payment of other fees that are prescribed by law.
@@ -3054,7 +3490,9 @@ The payment of the fee for the construction, alteration, removal or demolition f
 
 
 
-*§ 28-112.6 Refunds and rebates. * ::
+
+
+*§ 28-112.6 Refunds and rebates.* ::
 
 
 Upon application to the comptroller of the city of New York, and upon verification of claim by the commissioner, refunds or rebates of partial or full fees shall be provided as set forth in sections 28-112.6.1 through 28-112.6.3.
@@ -3062,7 +3500,9 @@ Upon application to the comptroller of the city of New York, and upon verificati
 
 
 
-*§ 28-112.6.1 Withdrawal of work permit applications. * ::
+
+
+*§ 28-112.6.1 Withdrawal of work permit applications.* ::
 
 
 In the event that an owner withdraws an application, the owner may obtain a refund of all or a portion of the fee paid as follows:
@@ -3076,7 +3516,9 @@ In the event that an owner withdraws an application, the owner may obtain a refu
 
 
 
-*§ 28-112.6.2 Withdrawal of cranes and derricks applications. * ::
+
+
+*§ 28-112.6.2 Withdrawal of cranes and derricks applications.* ::
 
 
 If the applicant withdraws his or her application for a certificate of approval for a power-operated crane, derrick or cableway, such applicant may obtain a refund of a portion of the fees as follows:
@@ -3090,7 +3532,9 @@ If the applicant withdraws his or her application for a certificate of approval 
 
 
 
-*§ 28-112.6.3 Incentive rebates. * ::
+
+
+*§ 28-112.6.3 Incentive rebates.* ::
 
 
 With respect to the rebates under this section 28-112.6, the commissioner may, at his or her discretion, issue a rebate of application fees as follows and as established by rule.
@@ -3098,7 +3542,9 @@ With respect to the rebates under this section 28-112.6, the commissioner may, a
 
 
 
-*§ 28-112.6.3.1 Renewable energy rebates. * ::
+
+
+*§ 28-112.6.3.1 Renewable energy rebates.* ::
 
 
 Owners who demonstrate the production on a zoning lot of five percent or more of the annual energy consumption on the zoning lot through renewable energy sources may receive a fee rebate as established by rule.
@@ -3106,7 +3552,9 @@ Owners who demonstrate the production on a zoning lot of five percent or more of
 
 
 
-*§ 28-112.6.3.2 Rebate for energy use reduction. * ::
+
+
+*§ 28-112.6.3.2 Rebate for energy use reduction.* ::
 
 
 Owners who demonstrate a reduction in energy use from that allowed at the time of permit by the New York state energy conservation construction code as a result of the permitted work may receive a fee rebate as established by rule.
@@ -3114,7 +3562,9 @@ Owners who demonstrate a reduction in energy use from that allowed at the time o
 
 
 
-*§ 28-112.6.3.3 Rebate for water conservation systems. * ::
+
+
+*§ 28-112.6.3.3 Rebate for water conservation systems.* ::
 
 
 Owners who demonstrate conservation of water taken from the city supply by providing evidence of achieving the water-recycling discount authorized by the New York city water board may receive a fee rebate as established by rule.
@@ -3122,7 +3572,9 @@ Owners who demonstrate conservation of water taken from the city supply by provi
 
 
 
-*§ 28-112.6.3.4 Rebate for redevelopment, remediation and reuse of contaminated properties known as brownfields. * ::
+
+
+*§ 28-112.6.3.4 Rebate for redevelopment, remediation and reuse of contaminated properties known as brownfields.* ::
 
 
 Owners who demonstrate that their site was contaminated and has been certified as remediated by the United States environmental protection agency or the New York state department of environmental conservation, or has received a notice of satisfaction from the New York city department of environmental protection, may receive a fee rebate as established by rule.
@@ -3130,7 +3582,9 @@ Owners who demonstrate that their site was contaminated and has been certified a
 
 
 
-*§ 28-112.6.3.5 Rebate for recycling construction and demolition waste. * ::
+
+
+*§ 28-112.6.3.5 Rebate for recycling construction and demolition waste.* ::
 
 
 Owners who demonstrate the recycling of construction and demolition waste may receive a fee rebate as established by rule.
@@ -3138,7 +3592,9 @@ Owners who demonstrate the recycling of construction and demolition waste may re
 
 
 
-*§ 28-112.6.3.6 Rebate for bicycle storage facilities. * ::
+
+
+*§ 28-112.6.3.6 Rebate for bicycle storage facilities.* ::
 
 
 Except for R-3 occupancy, owners who demonstrate that they have provided secured indoor bicycling facilities accessible to all building occupants may be rebated their fees as set out in rule. Such facilities shall be identified on approved plans and shall be noted on the certificate of occupancy with a statement that the bicycling accommodations dedicated to such facilities were provided in accordance with this section.
@@ -3146,7 +3602,9 @@ Except for R-3 occupancy, owners who demonstrate that they have provided secured
 
 
 
-*§ 28-112.6.3.7 Rebate for LEED or other environmental design certification. * ::
+
+
+*§ 28-112.6.3.7 Rebate for LEED or other environmental design certification.* ::
 
 
 Owners who demonstrate certification of their project, which was signed off following the effective date of this code, by the United States Green Building Council based upon the Council's Leadership in Energy and Environmental Design (LEED) rating system or as otherwise provided by rule, may be rebated their fees as set out in rule.
@@ -3154,7 +3612,9 @@ Owners who demonstrate certification of their project, which was signed off foll
 
 
 
-*§ 28-112.6.3.8 Other rebates. * ::
+
+
+*§ 28-112.6.3.8 Other rebates.* ::
 
 
 The commissioner is authorized to promulgate rules to rebate fees following sign-off based upon the installation of energy-conserving systems.
@@ -3162,7 +3622,9 @@ The commissioner is authorized to promulgate rules to rebate fees following sign
 
 
 
-*§ 28-112.7 Inspection and report filing fees. * ::
+
+
+*§ 28-112.7 Inspection and report filing fees.* ::
 
 
 Aside from the fees covered under permit fees above, the following inspection and report filing fees shall be paid according to requirements of this code and as promulgated in rules.
@@ -3170,7 +3632,9 @@ Aside from the fees covered under permit fees above, the following inspection an
 
 
 
-*§ 28-112.7.1 Fees for the testing, approval, inspection and use of power-operated cranes, derricks and cableways. * ::
+
+
+*§ 28-112.7.1 Fees for the testing, approval, inspection and use of power-operated cranes, derricks and cableways.* ::
 
 
 The owner of any crane or derrick shall renew the certificate of operation each year. See Table 28-112.7.1.
@@ -3270,7 +3734,9 @@ Table 28-112.7.1
 
 
 
-*§ 28-112.7.2 Report filing fees. * ::
+
+
+*§ 28-112.7.2 Report filing fees.* ::
 
 
 See Table 28-112.7.2.
@@ -3316,7 +3782,9 @@ Table 28-112.7.2
 
 
 
-*§ 28-112.7.3 Other inspection fees. * ::
+
+
+*§ 28-112.7.3 Other inspection fees.* ::
 
 
 See Table 28-112.7.3.
@@ -3366,7 +3834,9 @@ Table 28-112.7.3
 
 
 
-*§ 28-112.7.4 Equipment inspection fees. * ::
+
+
+*§ 28-112.7.4 Equipment inspection fees.* ::
 
 
 See Table 28-112.7.4.
@@ -3404,7 +3874,9 @@ Table 28-112.7.4
 
 
 
-*§ 28-112.8 Special fees. * ::
+
+
+*§ 28-112.8 Special fees.* ::
 
 
 The department shall be entitled to charge the following special fees in accordance with Table 28-112.8:
@@ -3584,7 +4056,9 @@ Table 28-112.8
 
 
 
-*§ 28-112.9 Lien on premises for unpaid fee or other charge. * ::
+
+
+*§ 28-112.9 Lien on premises for unpaid fee or other charge.* ::
 
 
 Any unpaid fee or charge for an inspection, reinspection, examination or service performed by the department or other unpaid amount owed to the department, and all permits issued by the department, pursuant to law shall constitute a lien upon the land and buildings upon or in respect to which such inspection, reinspection, examination or service was performed or permit issued, as hereinafter provided.
@@ -3592,7 +4066,9 @@ Any unpaid fee or charge for an inspection, reinspection, examination or service
 
 
 
-*§ 28-112.9.1 Filing of fees. * ::
+
+
+*§ 28-112.9.1 Filing of fees.* ::
 
 
 The department shall maintain a record of all unpaid fees and other charges. Such records shall be kept on a building by building basis and shall be accessible to the public during business hours. An entry of an unpaid amount on the records of the department shall constitute notice to all parties.
@@ -3600,7 +4076,9 @@ The department shall maintain a record of all unpaid fees and other charges. Suc
 
 
 
-*§ 28-112.9.2 Lien. * ::
+
+
+*§ 28-112.9.2 Lien.* ::
 
 
 All such unpaid amounts shall constitute a lien upon the land and building upon, or in respect to which, such inspection, reinspection, examination or service was performed or permit issued when the amount thereof shall have been definitely computed as a statement of account by the department and the department shall file such statement with the department of finance for entry in the records of such department against the premises. Such lien shall have a priority over all other liens and encumbrances except for the lien of taxes and assessments. However, no lien created pursuant to this section 28-112.9 shall be enforced against a subsequent purchaser in good faith or mortgagee in good faith unless the requirements of section 28-112.9.1 are satisfied.
@@ -3608,7 +4086,9 @@ All such unpaid amounts shall constitute a lien upon the land and building upon,
 
 
 
-*§ 28-112.9.3 Notice. * ::
+
+
+*§ 28-112.9.3 Notice.* ::
 
 
 A notice, stating the amount due and the nature of the charge, shall be mailed by the department of finance, to the last known address of the person whose name appears on the records in the office of the department of finance as being the owner or agent or as the person designated by the owner to receive tax bills or, where no name appears, to the premises, addressed to either the owner or the agent.
@@ -3616,7 +4096,9 @@ A notice, stating the amount due and the nature of the charge, shall be mailed b
 
 
 
-*§ 28-112.9.4 Interest. * ::
+
+
+*§ 28-112.9.4 Interest.* ::
 
 
 If such charge is not paid within 30 days from the date of entry, it shall be the duty of the department of finance to receive interest thereon at the rate of 15 percent per annum, to be calculated to the date of payment from the date of entry.
@@ -3624,7 +4106,9 @@ If such charge is not paid within 30 days from the date of entry, it shall be th
 
 
 
-*§ 28-112.9.5 Tax lien. * ::
+
+
+*§ 28-112.9.5 Tax lien.* ::
 
 
 Such charge and the interest thereon shall continue to be, until paid, a lien on the premises. Such lien shall be deemed a tax lien within the meaning of sections 11-319 and 11-401 of the administrative code and may be sold, enforced or foreclosed in the manner provided in chapter three or four of title eleven of such code or may be satisfied in accordance with the provisions of section thirteen hundred fifty-four of the real property actions and proceedings law.
@@ -3632,7 +4116,9 @@ Such charge and the interest thereon shall continue to be, until paid, a lien on
 
 
 
-*§ 28-112.9.6 Reference. * ::
+
+
+*§ 28-112.9.6 Reference.* ::
 
 
 The notice mailed by the department of finance pursuant to this section 28-112.9 shall have stamped or printed thereon a reference to this section 28-112.9.
@@ -3640,7 +4126,9 @@ The notice mailed by the department of finance pursuant to this section 28-112.9
 
 
 
-*§ 28-112.9.7 Validity not subject to challenge in enforcement proceeding. * ::
+
+
+*§ 28-112.9.7 Validity not subject to challenge in enforcement proceeding.* ::
 
 
 In any proceedings to enforce or discharge a lien created pursuant to this section 28-112.9 the validity of the lien shall not be subject to challenge based on:
@@ -3652,7 +4140,9 @@ In any proceedings to enforce or discharge a lien created pursuant to this secti
 
 
 
-*§ 28-112.9.8 Standing to challenge. * ::
+
+
+*§ 28-112.9.8 Standing to challenge.* ::
 
 
 No such challenge may be made except by (i) the owner of the property, or (ii) a mortgagee or lienor whose mortgage or lien would, but for the provisions of this section 28-112.9, have priority over the department's lien.
@@ -3660,7 +4150,9 @@ No such challenge may be made except by (i) the owner of the property, or (ii) a
 
 
 
-*§ 28-112.10 Waiver of application, permit and inspection fees for certain work arising out of the storm that occurred on October 29 and 30, 2012. * ::
+
+
+*§ 28-112.10 Waiver of application, permit and inspection fees for certain work arising out of the storm that occurred on October 29 and 30, 2012.* ::
 
 
 The commissioner shall waive the fees that would otherwise be required to be paid by this code, the electrical code or the rules of the department for applications, permits and inspections for certain work arising out of the storm that occurred on October 29 and 30, 2012 as provided in subsections 28-112.10.1 and 28-112.10.2.
@@ -3668,7 +4160,9 @@ The commissioner shall waive the fees that would otherwise be required to be pai
 
 
 
-*§ 28-112.10.1 Eligible buildings. * ::
+
+
+*§ 28-112.10.1 Eligible buildings.* ::
 
 
 For the purposes of this article, eligible buildings are those buildings that, following the storm and pursuant to an inspection program established by the department under an emergency order of the Mayor, are designated by the department after inspection through a notation on the department's records and/or by the posting of a red placard warning on the building or premises as seriously damaged and unsafe to enter or occupy or completely demolished and/or washed away. With respect to eligible buildings, fees associated with applications, permits and inspections shall be waived for alteration work, demolition work, construction of new buildings and associated work, including but not limited to associated electrical and plumbing work. The commissioner may request the applicant to submit additional information relating to the damage. Waiver of such fees pursuant to this section shall be applicable for jobs where the initial application for construction document approval or, if no construction documents are required, application for permit is submitted on or after October 30, 2012 and on or before October 31, 2014.
@@ -3676,7 +4170,9 @@ For the purposes of this article, eligible buildings are those buildings that, f
 
 
 
-*§ 28-112.10.2 Storm related damage to electrical and plumbing systems. * ::
+
+
+*§ 28-112.10.2 Storm related damage to electrical and plumbing systems.* ::
 
 
 In buildings other than eligible buildings, fees shall be waived only for applications, permits and inspections for work related to plumbing and electrical systems damaged by such storm. Applicants must submit certification by a licensed master electrician or a licensed master plumber or fire suppression piping contractor that the proposed work is related to such storm damage. The commissioner may request the applicant to submit additional information relating to the damage. Waiver of such fees pursuant to this section shall be applicable for jobs where the initial application for construction document approval or, if no construction documents are required, application for permit is submitted on or after October 30, 2012 and on or before April 30, 2013.
@@ -3684,10 +4180,14 @@ In buildings other than eligible buildings, fees shall be waived only for applic
 
 
 
-*§ 28-112.11 Waiver of application, permit and inspection fees for work funded under the "Build It Back" program. * ::
+
+
+*§ 28-112.11 Waiver of application, permit and inspection fees for work funded under the "Build It Back" program.* ::
 
 
 The city has implemented a disaster recovery program known as the Build It Back program that uses federal Community Development Block Grant Disaster Recovery funds to aid in the recovery of residential property damaged or destroyed in the severe storm known as Sandy that occurred on October 29 and 30, 2012. To assist in such recovery, the commissioner shall waive fees, which would otherwise be required to be paid to the department by this code, the electrical code or the rules of the department, in connection with applications, permits and inspections for work that is officially approved and funded under the Build It Back program. The waiver provided for in this section shall apply only to work performed on property that is classified as residential and to fees payable on or after July 1, 2014. With respect to work on a mixed use building, fees payable on or after such date may only be waived for work on the residential units of such building and portions of such building that serve the residential units.
+
+
 
 
 
@@ -3709,7 +4209,9 @@ The commissioner shall establish by rule a program for reducing the amount of an
 
 **Article 113: Materials**
 
-*§ 28-113.1 General. * ::
+
+
+*§ 28-113.1 General.* ::
 
 
 Materials shall be used, tested and approved for use in accordance with the specific provisions of this code and department rules, except that the commissioner shall have the power to limit or prohibit the use of any material to protect public safety. Materials shall be identified or described on construction documents and other related documents.
@@ -3717,7 +4219,9 @@ Materials shall be used, tested and approved for use in accordance with the spec
 
 
 
-*§ 28-113.2 Use of materials. * ::
+
+
+*§ 28-113.2 Use of materials.* ::
 
 
 Except as set forth in sections 28-113.2.1 through 113.2.6 materials specifically prescribed by this code or department rules may be used as prescribed without the prior approval of the commissioner.
@@ -3725,7 +4229,9 @@ Except as set forth in sections 28-113.2.1 through 113.2.6 materials specificall
 
 
 
-*§ 28-113.2.1 Approved material. * ::
+
+
+*§ 28-113.2.1 Approved material.* ::
 
 
 Whenever this code or the rules of the department requires the use of an approved material, such material shall not be used without the prior approval of the commissioner for such use and may be used only to the extent set forth in such approval.
@@ -3733,7 +4239,9 @@ Whenever this code or the rules of the department requires the use of an approve
 
 
 
-*§ 28-113.2.2 Alternative materials. * ::
+
+
+*§ 28-113.2.2 Alternative materials.* ::
 
 
 Except as otherwise specifically limited by this code, the provisions of this code are not intended to prevent the installation of any material or to prohibit any alternative engineered design or method of construction not specifically prescribed by this code, provided that the use of such alternative material has been previously approved by the commissioner and may be used only to the extent set forth in such approval. The use of an alternative material, design, method of construction or equipment shall be approved where the commissioner finds that the proposed design is satisfactory and complies with the intent of the provisions of this code, and that the material, method or work offered is, for the purpose intended, at least the equivalent of that prescribed in this code in quality, strength, effectiveness, fire resistance, durability and safety.
@@ -3741,7 +4249,9 @@ Except as otherwise specifically limited by this code, the provisions of this co
 
 
 
-*§ 28-113.2.3 Listed or labeled. * ::
+
+
+*§ 28-113.2.3 Listed or labeled.* ::
 
 
 Whenever this code or the rules of the department requires that material used be listed or labeled to a standard, material that is so listed or labeled may be used in accordance with such list or label without the prior approval of the commissioner. However, the commissioner reserves the right to require that information be submitted with regard to the testing and evaluation of any material so listed or labeled including but not limited to inspection certificates, test or evaluation reports, analysis, computations or other information used to determine that the material so listed or labeled complies with the applicable standard.
@@ -3749,7 +4259,9 @@ Whenever this code or the rules of the department requires that material used be
 
 
 
-*§ 28-113.2.4 Material not listed or labeled. * ::
+
+
+*§ 28-113.2.4 Material not listed or labeled.* ::
 
 
 Whenever this code or the rules of the department requires that material be listed or labeled to a standard and material proposed to be used is not so listed or labeled, the use of such material shall be subject to prior approval by the commissioner and such material shall be used only to the extent set forth in such approval.
@@ -3757,7 +4269,9 @@ Whenever this code or the rules of the department requires that material be list
 
 
 
-*§ 28-113.2.5 Reuse. * ::
+
+
+*§ 28-113.2.5 Reuse.* ::
 
 
 The use of used material that meets the requirements of this code for new material is permitted unless otherwise provided in this code. Used equipment and devices shall not be reused without the prior approval of the commissioner and may be used only to the extent set forth in such approval.
@@ -3765,7 +4279,9 @@ The use of used material that meets the requirements of this code for new materi
 
 
 
-*§ 28-113.2.6 Previously issued approvals. * ::
+
+
+*§ 28-113.2.6 Previously issued approvals.* ::
 
 
 Materials that were previously approved by the board of standards and appeals or by the department before July 1, 2008 may continue to be used to the extent that such approval is not inconsistent with the requirements or standards of this code, unless specifically amended or repealed by the commissioner.
@@ -3773,7 +4289,9 @@ Materials that were previously approved by the board of standards and appeals or
 
 
 
-*§ 28-113.3 Approval procedure. * ::
+
+
+*§ 28-113.3 Approval procedure.* ::
 
 
 Approval of materials pursuant to section 28-113.2 shall be in accordance with procedures set forth in this code and the rules of the department. The cost offsets, reports and investigations required under these provisions shall be paid by the applicant.
@@ -3781,7 +4299,9 @@ Approval of materials pursuant to section 28-113.2 shall be in accordance with p
 
 
 
-*§ 28-113.3.1 Performance. * ::
+
+
+*§ 28-113.3.1 Performance.* ::
 
 
 When required by the commissioner, specific information consisting of test reports conducted by an approved testing agency in accordance with standards referenced in the construction codes or other such information as necessary, shall be provided for the commissioner to determine whether the material will perform for the use intended.
@@ -3789,7 +4309,9 @@ When required by the commissioner, specific information consisting of test repor
 
 
 
-*§ 28-113.3.2 Research and investigation. * ::
+
+
+*§ 28-113.3.2 Research and investigation.* ::
 
 
 When required by the commissioner, sufficient technical data shall be submitted to the commissioner to substantiate the proposed use of any material. If it is determined that the evidence submitted is satisfactory proof of performance for the use intended, the commissioner shall approve the use of the material subject to the requirements of this code.
@@ -3797,7 +4319,9 @@ When required by the commissioner, sufficient technical data shall be submitted 
 
 
 
-*§ 28-113.3.3 Retesting of materials. * ::
+
+
+*§ 28-113.3.3 Retesting of materials.* ::
 
 
 All materials tested and accepted for use shall be subject to periodic retesting as determined by the commissioner; and any material that upon retesting is found not to comply with the code requirements or the requirements set forth in the approval of such material shall cease to be acceptable for the use intended. During the period for such retesting, the commissioner may require the use of such material to be restricted or discontinued if necessary to secure safety.
@@ -3805,7 +4329,9 @@ All materials tested and accepted for use shall be subject to periodic retesting
 
 
 
-*§ 28-113.3.4 New materials. * ::
+
+
+*§ 28-113.3.4 New materials.* ::
 
 
 New materials not provided for in this code, and any material of questioned suitability proposed for use in the construction of a building or structure, shall be subjected to the tests prescribed in this code or in the rules of the department to determine character, quality and limitations of use.
@@ -3813,7 +4339,9 @@ New materials not provided for in this code, and any material of questioned suit
 
 
 
-*§ 28-113.3.5 Research reports. * ::
+
+
+*§ 28-113.3.5 Research reports.* ::
 
 
 Supporting data, where necessary to assist in the approval of materials not specifically provided for in this code, shall consist of valid research reports from approved sources or other equivalent approved supporting documentation.
@@ -3821,7 +4349,9 @@ Supporting data, where necessary to assist in the approval of materials not spec
 
 
 
-*§ 28-113.3.6 Conflicting test results. * ::
+
+
+*§ 28-113.3.6 Conflicting test results.* ::
 
 
 Whenever there is evidence of conflicting results in the test of any material, the commissioner shall determine the acceptability of the material and/or the acceptable rating for such material.
@@ -3829,7 +4359,9 @@ Whenever there is evidence of conflicting results in the test of any material, t
 
 
 
-*§ 28-113.3.7 Amendment and repeal. * ::
+
+
+*§ 28-113.3.7 Amendment and repeal.* ::
 
 
 The commissioner shall have the power to amend or repeal the approval of any material, including materials previously approved by the board of standards and appeals.
@@ -3837,7 +4369,9 @@ The commissioner shall have the power to amend or repeal the approval of any mat
 
 
 
-*§ 28-113.3.8 Maintenance of records of approved material. * ::
+
+
+*§ 28-113.3.8 Maintenance of records of approved material.* ::
 
 
 For any material that has been approved, a record of such approval, including the conditions and limitations of the approval, shall be posted on the department's website or shall be made available for public inspection at appropriate times.
@@ -3845,7 +4379,9 @@ For any material that has been approved, a record of such approval, including th
 
 
 
-*§ 28-113.4 Labeling. * ::
+
+
+*§ 28-113.4 Labeling.* ::
 
 
 Materials required to be labeled shall be labeled in accordance with the procedures set forth in this code or the recognized referenced standards.
@@ -3853,7 +4389,9 @@ Materials required to be labeled shall be labeled in accordance with the procedu
 
 
 
-*§ 28-113.4.1 Testing. * ::
+
+
+*§ 28-113.4.1 Testing.* ::
 
 
 An approved agency shall test a representative sample of the material being labeled to the relevant standard or standards. The approved agency shall maintain a record of the tests performed. The record shall provide sufficient detail to verify compliance with the test standard.
@@ -3861,7 +4399,9 @@ An approved agency shall test a representative sample of the material being labe
 
 
 
-*§ 28-113.4.2 Inspection and identification. * ::
+
+
+*§ 28-113.4.2 Inspection and identification.* ::
 
 
 The approved agency shall at regular intervals perform surveillance inspections, which shall be in-plant if necessary, of the material that is to be labeled. The inspection shall verify that the labeled material is representative of the material tested.
@@ -3869,7 +4409,9 @@ The approved agency shall at regular intervals perform surveillance inspections,
 
 
 
-*§ 28-113.4.3 Label information. * ::
+
+
+*§ 28-113.4.3 Label information.* ::
 
 
 The label shall contain the manufacturer's or distributor's identification, model number, serial number or definitive information describing the material's performance characteristics and the approved agency's identification.
@@ -3877,7 +4419,9 @@ The label shall contain the manufacturer's or distributor's identification, mode
 
 
 
-*§ 28-113.4.4 Shipment and delivery certification of materials listed, labeled or approved. * ::
+
+
+*§ 28-113.4.4 Shipment and delivery certification of materials listed, labeled or approved.* ::
 
 
 In the case of the shipment or delivery of material listed or labeled to a standard, such material shall be appropriately labeled or accompanied by the inspection certificate of an approved agency that the material is the same as that which was tested and evaluated by such agency. In the case of the shipment or delivery of material previously approved by the commissioner, the material shall be identified by a tag or certificate indicating that the material is the same that was approved for its intended use by the commissioner or, if applicable, previously approved by the board of standards and appeals, and containing the applicable approval number or calendar number under which the material received such approval.
@@ -3885,10 +4429,14 @@ In the case of the shipment or delivery of material listed or labeled to a stand
 
 
 
-*§ 28-113.5 Volatile organic compounds emissions in carpet and carpet cushion. * ::
+
+
+*§ 28-113.5 Volatile organic compounds emissions in carpet and carpet cushion.* ::
 
 
 On and after July 1, 2013 carpet and carpet cushion as defined in section 17-1401 of the administrative code shall comply with the limits on volatile organic compound emissions set forth in chapter 14 of title 17 of such code.
+
+
 
 
 
@@ -3897,6 +4445,8 @@ On and after July 1, 2013 carpet and carpet cushion as defined in section 17-140
 
 
 Where a penalty is imposed pursuant to this article for work that has been performed without a permit on a building (i) the civil penalty for each violation of this code issued for such building within one year after such imposition shall be two times the penalty that would otherwise apply for such violation or (ii) if such work without a permit was performed on only part of such building and the owner of such part is not the owner of such building, the civil penalty for each violation of this code issued for such part within one year after such imposition shall be two times the penalty that would otherwise apply for such violation.
+
+
 
 
 
@@ -3916,7 +4466,9 @@ Where a penalty is imposed pursuant to this article for work that has been perfo
 
 **Article 114: Approved Agencies**
 
-*§ 28-114.1 General. * ::
+
+
+*§ 28-114.1 General.* ::
 
 
 Approved agencies shall satisfy the provisions of this article and the rules of the department as to qualifications and operations. The commissioner may revoke or suspend the commissioner's approval of or otherwise sanction an approved agency for cause.
@@ -3924,7 +4476,9 @@ Approved agencies shall satisfy the provisions of this article and the rules of 
 
 
 
-*§ 28-114.1.1 Independent. * ::
+
+
+*§ 28-114.1.1 Independent.* ::
 
 
 An approved agency shall perform its authorized duties objectively and competently. The agency shall disclose possible conflicts of interest so that objectivity can be confirmed.
@@ -3932,7 +4486,9 @@ An approved agency shall perform its authorized duties objectively and competent
 
 
 
-*§ 28-114.1.2 Testing equipment. * ::
+
+
+*§ 28-114.1.2 Testing equipment.* ::
 
 
 An approved agency shall have adequate testing equipment to perform required tests. The equipment shall be periodically calibrated.
@@ -3940,7 +4496,9 @@ An approved agency shall have adequate testing equipment to perform required tes
 
 
 
-*§ 28-114.1.3 Personnel. * ::
+
+
+*§ 28-114.1.3 Personnel.* ::
 
 
 An approved agency shall employ experienced personnel qualified to conduct, supervise and evaluate the tests or inspections that it undertakes. Special inspections may be performed only by employees of such agency who are special inspectors qualified pursuant to department rules to perform or witness the particular test or inspection. The commissioner may require proof of the qualifications of employees.
@@ -3948,7 +4506,9 @@ An approved agency shall employ experienced personnel qualified to conduct, supe
 
 
 
-*§ 28-114.1.4 Background. * ::
+
+
+*§ 28-114.1.4 Background.* ::
 
 
 The commissioner may require an approved agency to submit to an investigation of its background and of the background of its principals as a condition of approval.
@@ -3956,7 +4516,9 @@ The commissioner may require an approved agency to submit to an investigation of
 
 
 
-*§ 28-114.1.5 Insurance. * ::
+
+
+*§ 28-114.1.5 Insurance.* ::
 
 
 An approved agency shall maintain liability insurance as required by department rules.
@@ -3964,7 +4526,9 @@ An approved agency shall maintain liability insurance as required by department 
 
 
 
-*§ 28-114.2 Written evaluation by approved agency. * ::
+
+
+*§ 28-114.2 Written evaluation by approved agency.* ::
 
 
 An agency's evaluation of material or report of an inspection shall be in writing after satisfactory completion of the required inspection or test.
@@ -3972,7 +4536,9 @@ An agency's evaluation of material or report of an inspection shall be in writin
 
 
 
-*§ 28-114.3 Records. * ::
+
+
+*§ 28-114.3 Records.* ::
 
 
 The approved agency shall maintain records of inspection and test reports for at least six years or for such period as the commissioner shall determine and shall make such records available to the department upon request.
@@ -3980,7 +4546,9 @@ The approved agency shall maintain records of inspection and test reports for at
 
 
 
-*§ 28-114.4 Re-authorization of approved agencies. * ::
+
+
+*§ 28-114.4 Re-authorization of approved agencies.* ::
 
 
 An approved agency shall have its approval re-authorized in accordance with rules of the department.
@@ -3991,7 +4559,9 @@ An approved agency shall have its approval re-authorized in accordance with rule
 
 **Article 115: Special Inspection Agencies and Special Inspectors**
 
-*§ 28-115.1 General. * ::
+
+
+*§ 28-115.1 General.* ::
 
 
 Special inspection agencies are approved agencies and shall be subject to the provisions of article 114 of this chapter. Special inspection agencies and special inspectors shall satisfy the provisions of this article and the rules of the department as to qualifications in order to perform special inspections required by chapter 17 of the New York city building code or elsewhere in this code or department rules.
@@ -3999,7 +4569,9 @@ Special inspection agencies are approved agencies and shall be subject to the pr
 
 
 
-*§ 28-115.2 Disqualification. * ::
+
+
+*§ 28-115.2 Disqualification.* ::
 
 
 The commissioner may disqualify a special inspection agency or a special inspector from performing special inspections pursuant to this code for cause. The special inspection agency or special inspector shall be given prior notice of the proposed disqualification and the opportunity to contest such action. A list of special inspection agencies and special inspectors who have been disqualified from performing special inspection shall be maintained and made available to the public upon request.
@@ -4007,7 +4579,9 @@ The commissioner may disqualify a special inspection agency or a special inspect
 
 
 
-*§ 28-115.3 Records. * ::
+
+
+*§ 28-115.3 Records.* ::
 
 
 A special inspector shall maintain records of special inspections on a building by building basis for at least 6 years or for such period as the commissioner shall determine and shall make such records available to the department upon request.
@@ -4018,7 +4592,9 @@ A special inspector shall maintain records of special inspections on a building 
 
 **Article 116: Inspections and Sign-off of Completed Work**
 
-*§ 28-116.1 General. * ::
+
+
+*§ 28-116.1 General.* ::
 
 
 Construction or work for which a permit is required shall be subject to inspection in accordance with this code and such construction or work shall remain accessible and exposed for inspection purposes until the required inspection is completed. A satisfactory inspection by the department or the acceptance by the department of a satisfactory report of an inspection by an approved agency shall not be construed to be an approval by the department of a violation of the provisions of this code or of any other provision of law. It shall be the duty of the permit holder to cause the work to remain accessible and exposed for inspection purposes. The permit holder shall be liable for any expense entailed in the removal or replacement of any material required to allow inspection. The inspector shall supply a report of the results of each inspection.
@@ -4026,7 +4602,9 @@ Construction or work for which a permit is required shall be subject to inspecti
 
 
 
-*§ 28-116.1.1 Defective work and discrepancies with approved construction documents. * ::
+
+
+*§ 28-116.1.1 Defective work and discrepancies with approved construction documents.* ::
 
 
 An approved agency conducting inspections shall report defective work and discrepancies with the approved construction documents to the contractor and, when applicable, to the superintendent of construction, for correction. The approved agency shall report uncorrected discrepancies and defective work to the registered design professional of record and the owner in writing.
@@ -4034,7 +4612,9 @@ An approved agency conducting inspections shall report defective work and discre
 
 
 
-*§ 28-116.1.2 Hazardous conditions. * ::
+
+
+*§ 28-116.1.2 Hazardous conditions.* ::
 
 
 The approved agency shall report all conditions noted as hazardous to life, safety or health that are not immediately corrected to the immediate attention of the commissioner.
@@ -4042,7 +4622,9 @@ The approved agency shall report all conditions noted as hazardous to life, safe
 
 
 
-*§ 28-116.2 Types of inspections. * ::
+
+
+*§ 28-116.2 Types of inspections.* ::
 
 
 The inspections set forth in sections 28-116.2.1 through 28-116.2.4 are required or authorized by this code.
@@ -4050,7 +4632,9 @@ The inspections set forth in sections 28-116.2.1 through 28-116.2.4 are required
 
 
 
-*§ 28-116.2.1 Preliminary inspection. * ::
+
+
+*§ 28-116.2.1 Preliminary inspection.* ::
 
 
 Before approving construction documents, the commissioner is authorized to examine or cause to be examined structures or premises for which an application has been filed.
@@ -4058,7 +4642,9 @@ Before approving construction documents, the commissioner is authorized to exami
 
 
 
-*§ 28-116.2.2 Compliance inspections. * ::
+
+
+*§ 28-116.2.2 Compliance inspections.* ::
 
 
 In addition to the inspections specified in this code, the commissioner is authorized to make or require other inspections of any construction work to ascertain compliance with the provisions of this code and other laws that are enforced by the department.
@@ -4066,7 +4652,9 @@ In addition to the inspections specified in this code, the commissioner is autho
 
 
 
-*§ 28-116.2.3 Special inspections, progress inspections and other inspections required during the progress of work. * ::
+
+
+*§ 28-116.2.3 Special inspections, progress inspections and other inspections required during the progress of work.* ::
 
 
 After the issuance of a work permit, special inspections, progress inspections and other inspections required by this code to be made during the progress of the work shall be made at such times or at such stages of the work and in such manner as shall be provided by this code or as otherwise required by the commissioner. The permit application shall set forth an inspection program for the work. Such inspections may be made by approved agencies or by the department as provided in this code or in the rules of the department. Special inspections shall be performed only by individuals who are special inspectors. The commissioner may accept inspection and test reports from approved agencies and the work may, unless otherwise specifically provided by code provisions or directed by the commissioner, proceed without any verifying inspection or test by the department. The names and business addresses of special inspectors and approved agencies shall be set forth in the work permit application. All inspection reports shall be in writing and signed by the person or entity performing the inspection. A record of all inspections shall be kept by the person performing the inspection. The commissioner may require inspection reports to be filed with the department. Records of inspections made by approved agencies and special inspectors shall be maintained by such persons for a period of six years after sign-off of the work or for such other period of time as the commissioner may require and shall be made available to the department upon request.
@@ -4074,7 +4662,9 @@ After the issuance of a work permit, special inspections, progress inspections a
 
 
 
-*§ 28-116.2.3.1 Special and progress inspection of fabricated items. * ::
+
+
+*§ 28-116.2.3.1 Special and progress inspection of fabricated items.* ::
 
 
 Where fabrication of regulated products is performed on the premises of a fabricator's shop, special or progress inspection of the fabricated items is required. The approved agency shall verify that the fabricator maintains detailed fabrication and quality control procedures that provide a basis for inspection control of the workmanship and the fabricator's ability to conform to approved construction documents and referenced standards. The approved agency shall review the procedures for completeness and adequacy relative to the code requirements for the fabricator's scope of work.
@@ -4088,7 +4678,9 @@ Exceptions:
 
 
 
-*§ 28-116.2.3.2 Special inspection of raising and moving of a building. * ::
+
+
+*§ 28-116.2.3.2 Special inspection of raising and moving of a building.* ::
 
 
 Where the lowest above-grade floor or the lowest subgrade floor of a building is to be raised, lifted, elevated or moved, special inspection of such work is required. The permit holder shall notify the department in writing at least 48 hours before the commencement of such work.
@@ -4096,7 +4688,9 @@ Where the lowest above-grade floor or the lowest subgrade floor of a building is
 
 
 
-*§ 28-116.2.4 Final inspection. * ::
+
+
+*§ 28-116.2.4 Final inspection.* ::
 
 
 There shall be a final inspection of all permitted work. Final inspections shall comply with sections 28-116.2.4.1 through 28-116.2.4.3.
@@ -4106,7 +4700,9 @@ There shall be a final inspection of all permitted work. Final inspections shall
 
 
 
-*§ 28-116.2.4.1 Final inspection prior to certificate of occupancy. * ::
+
+
+*§ 28-116.2.4.1 Final inspection prior to certificate of occupancy.* ::
 
 
 In all cases where the permitted work requires the issuance of a new or amended certificate of occupancy, the final inspection shall be performed by the department in the presence of the permit holder, the registered design professional of record or the superintendent of construction. Such inspection shall be performed after all work authorized by the building permit is completed and before the issuance of the certificate of occupancy. All failures to comply with the provisions of this code or approved construction documents shall be noted and the owner promptly notified thereof in writing. All defects noted in such inspection shall be corrected. Reports of such final inspections shall be maintained by the department. The final inspection report shall confirm that defects noted have been corrected, that the work is in substantial compliance with the approved construction documents and with this code and with other applicable laws and rules and that all required inspections were performed.
@@ -4116,12 +4712,16 @@ Exception: For amended certificates of occupancy subject to section 28-118.16.2,
 
 
 
-*§ 28-116.2.4.2 Final inspection prior to letter of completion. * ::
+
+
+*§ 28-116.2.4.2 Final inspection prior to letter of completion.* ::
 
 
 In all cases where the permitted work does not require the issuance of a certificate of occupancy, the final inspection shall be performed by the department or at the option of the owner by an approved agency. Whenever the department performs a final inspection, the department shall charge a fee for such inspection. The applicant shall take all reasonable and necessary steps to ensure that the final inspection is performed within one year after the expiration of the last permit. The inspection shall be performed after all work authorized by the building permit is completed. The approved agency performing the inspection shall report defective work and discrepancies with the approved construction documents to the contractor and, when applicable, to the superintendent of construction, for correction. The approved agency shall report uncorrected discrepancies and defective work to the registered design professional of record and the owner in writing. The approved agency shall report all conditions noted or observed as hazardous to life, safety or health that are not immediately corrected to the immediate attention of the commissioner. All defects noted in such inspection shall be corrected. The final inspection report shall confirm that defects noted have been corrected, that the work is in substantial compliance with the approved construction documents and with this code and other applicable laws and rules and that all required inspections were performed. Final inspection reports shall be filed with and maintained by the department. Records of final inspections made by approved agencies shall be maintained by such persons for a period of six years after sign-off or for such other period as the commissioner shall require and shall be made available to the department upon request.
 
 Exception: Final inspection shall be performed by the department for permitted work in R-2 occupancies if the building is listed on the department of housing preservation and development’s website pursuant to paragraph 6 of subdivision m of section 27-2115.
+
+
 
 
 
@@ -4138,7 +4738,9 @@ The final inspection of gas piping systems shall be performed by the department 
 
 
 
-*§ 28-116.3 Inspection requests. * ::
+
+
+*§ 28-116.3 Inspection requests.* ::
 
 
 It shall be the duty of the permit holder to notify the department or the person or entity designated to perform the inspection when work requiring inspection is ready to be inspected. It shall be the duty of the permit holder to provide access to and means for inspection of such work for any inspections that are required by this code.
@@ -4146,7 +4748,9 @@ It shall be the duty of the permit holder to notify the department or the person
 
 
 
-*§ 28-116.3.1 Additional notifications for special inspections. * ::
+
+
+*§ 28-116.3.1 Additional notifications for special inspections.* ::
 
 
 The permit holder shall also notify the relevant special inspection agency in writing at least 72 hours prior to the commencement of any work requiring special inspection.
@@ -4154,7 +4758,9 @@ The permit holder shall also notify the relevant special inspection agency in wr
 
 
 
-*§ 28-116.4 Sign-off of completed work. * ::
+
+
+*§ 28-116.4 Sign-off of completed work.* ::
 
 
 Upon submission of a satisfactory report of final inspection and all required submittal documents, the department shall document the sign-off of the project and issue a letter of completion, or, if applicable, a certificate of occupancy for the work. The owner shall take all necessary steps required by the department for the issuance of such letter of completion or certificate of occupancy within 1 year following the expiration of the last permit.
@@ -4162,7 +4768,9 @@ Upon submission of a satisfactory report of final inspection and all required su
 
 
 
-*§ 28-116.4.1 Issuance of certificate of compliance. * ::
+
+
+*§ 28-116.4.1 Issuance of certificate of compliance.* ::
 
 
 The following types of service equipment shall not be operated until the department issues a certificate of compliance after submission of a satisfactory report of inspection and testing of such equipment in accordance with this code and all required submittal documents:
@@ -4184,7 +4792,9 @@ Exception: A certificate of compliance shall not be required in connection with 
 
 
 
-*§ 28-116.5 Payment of outstanding penalties. * ::
+
+
+*§ 28-116.5 Payment of outstanding penalties.* ::
 
 
 The department may refuse to issue a letter of completion or certificate of occupancy pending payment of all outstanding fines or civil penalties imposed for violations of this code, the 1968 building code or other laws enforced by the department at the same building.
@@ -4192,7 +4802,9 @@ The department may refuse to issue a letter of completion or certificate of occu
 
 
 
-*§ 28-116.6 Fabricator approval. * ::
+
+
+*§ 28-116.6 Fabricator approval.* ::
 
 
 Approval of fabricators by the department shall be based upon review of the fabricator's written procedural and quality control manuals and periodic auditing of fabrication practices by an approved agency.
@@ -4200,10 +4812,14 @@ Approval of fabricators by the department shall be based upon review of the fabr
 
 
 
-*§ 28-116.6.1 Fabricator's certificate of compliance. * ::
+
+
+*§ 28-116.6.1 Fabricator's certificate of compliance.* ::
 
 
 For all fabricated items, the approved fabricator shall submit a certificate of compliance to the department stating that the work was performed in accordance with the approved construction documents, referenced standards and applicable provisions of law.
+
+
 
 
 
@@ -4216,7 +4832,9 @@ It shall be unlawful to use or occupy any building or space, including an outdoo
 
 
 
-*§ 28-117.1.1 Contents of the place of assembly certificate of operation. * ::
+
+
+*§ 28-117.1.1 Contents of the place of assembly certificate of operation.* ::
 
 
 The certificate of operation shall contain the place of assembly certificate number, the number of persons who may legally occupy the space and any other information that the commissioner may determine. Such certificate of operation shall be framed and mounted in a location that is conspicuously visible to a person entering the space. For the purposes of this article a department issued place of assembly permit or place of assembly certificate of operation shall be valid until its expiration, at which time a new place of assembly certificate of operation shall be required in accordance with the provisions of this article and with the filing requirements of the department.
@@ -4224,7 +4842,9 @@ The certificate of operation shall contain the place of assembly certificate num
 
 
 
-*§ 28-117.1.2 New certificate required. * ::
+
+
+*§ 28-117.1.2 New certificate required.* ::
 
 
 The following changes to a place of assembly shall require a new place of assembly certificate of operation instead of an amendment filed in accordance with section 28-117.1.3:
@@ -4236,7 +4856,9 @@ The following changes to a place of assembly shall require a new place of assemb
 
 
 
-*§ 28-117.1.3 Amendments. * ::
+
+
+*§ 28-117.1.3 Amendments.* ::
 
 
 No change shall be made to a place of assembly that is inconsistent with the most recently issued place of assembly certificate of operation or renewal unless an amendment to such certificate is filed with and approved or accepted by the department. Changes that require an amendment include any of the following:
@@ -4250,7 +4872,9 @@ No change shall be made to a place of assembly that is inconsistent with the mos
 
 
 
-*§ 28-117.2 Temporary place of assembly certificate of operation. * ::
+
+
+*§ 28-117.2 Temporary place of assembly certificate of operation.* ::
 
 
 At the commissioner's discretion, a temporary certificate of operation may be issued for a place of assembly space upon request by the applicant in accordance with this code provided that public safety is not jeopardized thereby. The applicant shall notify the fire department when a temporary place of assembly certificate of operation is issued.
@@ -4260,7 +4884,9 @@ Exception. Applications for temporary certificates of operation for place of ass
 
 
 
-*§ 28-117.3 Duration and renewal of certificate. * ::
+
+
+*§ 28-117.3 Duration and renewal of certificate.* ::
 
 
 A place of assembly certificate of operation shall be issued for a term of 1 year and may be renewed annually upon payment of proper fees and proof of satisfactory inspection by the fire department.
@@ -4268,7 +4894,9 @@ A place of assembly certificate of operation shall be issued for a term of 1 yea
 
 
 
-*§ 28-117.4 Security guards. * ::
+
+
+*§ 28-117.4 Security guards.* ::
 
 
 In the case of a certificate holder that offers for sale food and/or beverages for on-premises consumption, but not including establishments operated by a not-for-profit corporation, and employs or uses the services of a security guard, as that term is defined in subdivision six of section eighty-nine of the general business law, such certificate holder shall comply with the provisions of article 7-A of the general business law, shall obtain proof that such security guard is registered pursuant to article 7-A of the general business law, shall maintain such proof in a readily available location, in accordance with rules promulgated by the commissioner during all hours in which such place of assembly is open to the public, shall maintain a roster of all security guards working at any given time when such place of assembly is open to the public, and shall require each security guard to maintain on his or her person proof of registration at all times when on the premises.
@@ -4276,7 +4904,9 @@ In the case of a certificate holder that offers for sale food and/or beverages f
 
 
 
-*§ 28-117.4.1 Presumption. * ::
+
+
+*§ 28-117.4.1 Presumption.* ::
 
 
 For purposes of this section, there shall be a rebuttable presumption that a person employed or whose services are retained at a place of assembly is a security guard if his or her job functions include:
@@ -4288,7 +4918,9 @@ For purposes of this section, there shall be a rebuttable presumption that a per
 
 
 
-*§ 28-117.4.1.1 Presumption not applicable to owner. * ::
+
+
+*§ 28-117.4.1.1 Presumption not applicable to owner.* ::
 
 
 The rebuttable presumption in section 28-117.4.1 shall not apply to an individual who is an owner of the establishment as described in section 28-117.4 that has received a place of assembly certificate of operation.
@@ -4296,7 +4928,9 @@ The rebuttable presumption in section 28-117.4.1 shall not apply to an individua
 
 
 
-*§ 28-117.4.2 Responsibility for violations. * ::
+
+
+*§ 28-117.4.2 Responsibility for violations.* ::
 
 
 Notwithstanding any provision of this section, only the holder of a certificate of operation shall be liable for violations of this article that relate to such holder's obligations regarding security guards.
@@ -4304,7 +4938,9 @@ Notwithstanding any provision of this section, only the holder of a certificate 
 
 
 
-*§ 28-117.4.3 Enforcement. * ::
+
+
+*§ 28-117.4.3 Enforcement.* ::
 
 
 In addition to employees of the department, employees of the police department and the department of consumer affairs shall have the authority to enforce the provisions of this article regarding security guards.
@@ -4312,7 +4948,9 @@ In addition to employees of the department, employees of the police department a
 
 
 
-*§ 28-117.4.4 State liquor authority reporting. * ::
+
+
+*§ 28-117.4.4 State liquor authority reporting.* ::
 
 
 The enforcement agency shall report any violation of the provisions of this section relating to security guards to the state liquor authority if the holder of the certificate of operation holds a license pursuant to the alcoholic beverage control law.
@@ -4320,7 +4958,9 @@ The enforcement agency shall report any violation of the provisions of this sect
 
 
 
-*§ 28-117.5 Outdoor places of assembly. * ::
+
+
+*§ 28-117.5 Outdoor places of assembly.* ::
 
 
 The commissioner shall not issue a certificate of operation to an outdoor temporary or permanent place of assembly, including, but not limited to, tents, platforms, stages and outdoor assembly seating, unless the department determines that the space complies with the provisions of this code.
@@ -4331,7 +4971,9 @@ The commissioner shall not issue a certificate of operation to an outdoor tempor
 
 **Article 118: Certificates of Occupancy**
 
-*§ 28-118.1 General provisions. * ::
+
+
+*§ 28-118.1 General provisions.* ::
 
 
 No building or open lot shall be used or occupied without a certificate of occupancy issued by the commissioner. Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other applicable laws and rules.
@@ -4339,7 +4981,9 @@ No building or open lot shall be used or occupied without a certificate of occup
 
 
 
-*§ 28-118.2 New buildings or open lots. * ::
+
+
+*§ 28-118.2 New buildings or open lots.* ::
 
 
 No building hereafter constructed or open lot shall be occupied or used, in whole or in part, unless and until a certificate of occupancy shall have been issued certifying that such building or open lot conforms substantially to the approved construction documents and the provisions of this code and other applicable laws and rules.
@@ -4347,7 +4991,9 @@ No building hereafter constructed or open lot shall be occupied or used, in whol
 
 
 
-*§ 28-118.3 Completed buildings or open lots. * ::
+
+
+*§ 28-118.3 Completed buildings or open lots.* ::
 
 
 The provisions of sections 28-118.3.1 through 28-118.3.4 shall apply to completed buildings or open lots.
@@ -4355,7 +5001,9 @@ The provisions of sections 28-118.3.1 through 28-118.3.4 shall apply to complete
 
 
 
-*§ 28-118.3.1 Change of occupancy or use. * ::
+
+
+*§ 28-118.3.1 Change of occupancy or use.* ::
 
 
 No building, open lot or portion thereof hereafter altered so as to change from one occupancy group to another, or from one zoning use group to another, either in whole or in part, shall be occupied or used unless and until the commissioner has issued a certificate of occupancy certifying that the alteration work for which the permit was issued has been completed substantially in accordance with the approved construction documents and the provisions of this code and other applicable laws and rules for the new occupancy or use.
@@ -4363,7 +5011,9 @@ No building, open lot or portion thereof hereafter altered so as to change from 
 
 
 
-*§ 28-118.3.2 Changes inconsistent with existing certificate of occupancy. * ::
+
+
+*§ 28-118.3.2 Changes inconsistent with existing certificate of occupancy.* ::
 
 
 No change shall be made to a building , open lot or portion thereof inconsistent with the last issued certificate of occupancy or, where applicable, inconsistent with the last issued certificate of completion for such building or open lot or which would bring it under some special provision of this code or other applicable laws or rules, unless and until the commissioner has issued a new or amended certificate of occupancy.
@@ -4371,7 +5021,9 @@ No change shall be made to a building , open lot or portion thereof inconsistent
 
 
 
-*§ 28-118.3.2.1 Changes in the address, block, lot, or zoning lot. * ::
+
+
+*§ 28-118.3.2.1 Changes in the address, block, lot, or zoning lot.* ::
 
 
 When changes are made in the address of the structure, block and/or lot numbers or metes and bounds of the zoning lot that are inconsistent with the certificate of occupancy, the owner shall obtain a new or amended certificate of occupancy within one year.
@@ -4379,7 +5031,9 @@ When changes are made in the address of the structure, block and/or lot numbers 
 
 
 
-*§ 28-118.3.3 Changes to exits. * ::
+
+
+*§ 28-118.3.3 Changes to exits.* ::
 
 
 No building hereafter altered so as to cause a major alteration to existing exits shall be occupied or used unless and until the commissioner has issued a certificate of occupancy certifying that the alteration work for which the permit was issued has been completed substantially in accordance with the approved construction documents and the provisions of this code and other applicable laws and rules.
@@ -4387,7 +5041,9 @@ No building hereafter altered so as to cause a major alteration to existing exit
 
 
 
-*§ 28-118.3.4 Existing buildings or open lots without certificates of occupancy. * ::
+
+
+*§ 28-118.3.4 Existing buildings or open lots without certificates of occupancy.* ::
 
 
 A building or open lot in existence prior to January 1, 1938 and heretofore legally used or occupied without a certificate of occupancy or, if applicable, a certificate of completion, and subject to the provisions of section 28-102.4 (continuation of lawful existing use), may continue to be used or occupied without a certificate of occupancy or, if applicable, a certificate of completion, pursuant to the requirements of section six hundred forty five of the New York city charter, this code and other applicable laws and rules provided there is no change in the existing use or occupancy classification of the building, open lot or portion thereof.
@@ -4395,7 +5051,9 @@ A building or open lot in existence prior to January 1, 1938 and heretofore lega
 
 
 
-*§ 28-118.3.4.1 Application for certificate of occupancy. * ::
+
+
+*§ 28-118.3.4.1 Application for certificate of occupancy.* ::
 
 
 Upon application by the owner of such a building or open lot in existence prior to January 1, 1938, the commissioner shall issue a certificate of occupancy for such building, provided that at the time of issuing such certificate, such existing building is in compliance with all retroactive requirements of the 1968 building code applicable to such building and no notices of violation or other notices or orders affecting the building as they relate to the provisions of this code or the 1968 building code are pending before the department, and provided further that it is established to the satisfaction of the commissioner, after inspection and investigation, that the alleged use of the building has heretofore legally existed.
@@ -4403,7 +5061,9 @@ Upon application by the owner of such a building or open lot in existence prior 
 
 
 
-*§ 28-118.3.4.2 Partial certificates of occupancy. * ::
+
+
+*§ 28-118.3.4.2 Partial certificates of occupancy.* ::
 
 
 Partial certificates of occupancy may be issued pursuant to section 28-118.16 .
@@ -4411,7 +5071,9 @@ Partial certificates of occupancy may be issued pursuant to section 28-118.16 .
 
 
 
-*§ 28-118.4 Applications for certificates of occupancy. * ::
+
+
+*§ 28-118.4 Applications for certificates of occupancy.* ::
 
 
 All applications for certificates of occupancy shall be submitted on forms furnished by the department. Applications for new buildings or additions to buildings shall be accompanied by an accurate and complete final lot survey made by a land surveyor showing such information as prescribed by the commissioner. The commissioner may waive the requirement of such survey in the case of small sheds, stands, temporary structures, signs, and similar small structures.
@@ -4419,7 +5081,9 @@ All applications for certificates of occupancy shall be submitted on forms furni
 
 
 
-*§ 28-118.4.1 Applicant. * ::
+
+
+*§ 28-118.4.1 Applicant.* ::
 
 
 The application for a certificate of occupancy shall be made by or on behalf of the owner of the building or open lot; and if made by a person other than the owner, the application shall be accompanied by a signed statement of the applicant stating that the applicant is authorized by the owner to make the application. The full names and addresses of the owner, and applicant, and of the principal officers thereof, if a corporation, shall be stated in the application.
@@ -4427,7 +5091,9 @@ The application for a certificate of occupancy shall be made by or on behalf of 
 
 
 
-*§ 28-118.4.2 Statement of compliance. * ::
+
+
+*§ 28-118.4.2 Statement of compliance.* ::
 
 
 When a certificate of occupancy for a new or altered building is applied for, the application shall be accompanied by a signed statement of the registered design professional of record or the superintendent of construction, as applicable, stating that such person has examined the approved construction documents and specifications of the building for which the certificate of occupancy is sought, and that, to the best of his or her knowledge and belief, the building has been erected or altered in accordance with the approved construction documents and specifications and, as erected or altered, complies with the provisions of this code and all other applicable laws and rules, except insofar as variations or variances therefrom have been legally permitted or authorized, specifying such variations or variances in such required statement.
@@ -4435,7 +5101,9 @@ When a certificate of occupancy for a new or altered building is applied for, th
 
 
 
-*§ 28-118.5 Review of applications for certificates of occupancy. * ::
+
+
+*§ 28-118.5 Review of applications for certificates of occupancy.* ::
 
 
 All applications for certificates of occupancy and accompanying submittal documents shall be examined promptly after their submission. If the building is entitled to the certificate of occupancy applied for, the application shall be approved and the certificate of occupancy issued by the commissioner within 10 calendar days after submission of a complete application. Otherwise, the application shall be rejected and written notice of rejection, stating the grounds of rejection, shall be given to the applicant within 10 calendar days of the submission of the application. Wherever an application has been rejected and proof is thereafter submitted establishing that the grounds of rejection have been met and that the building is entitled to the certificate of occupancy applied for, the application shall be approved and the certificate of occupancy issued within 10 calendar days after submission of such proof.
@@ -4443,7 +5111,9 @@ All applications for certificates of occupancy and accompanying submittal docume
 
 
 
-*§ 28-118.6 Issuance of certificate of occupancy. * ::
+
+
+*§ 28-118.6 Issuance of certificate of occupancy.* ::
 
 
 After the commissioner inspects the building or open lot and determines that the building or open lot conforms substantially to the approved construction documents and to the provisions of this code and other applicable laws and rules, the commissioner shall issue a certificate of occupancy that shall contain information including, but not limited to:
@@ -4479,7 +5149,9 @@ After the commissioner inspects the building or open lot and determines that the
 
 
 
-*§ 28-118.7 Pavement plan. * ::
+
+
+*§ 28-118.7 Pavement plan.* ::
 
 
 No certificate of occupancy shall be issued for any building or open lot requiring a pavement plan pursuant to article 108 unless and until an inspection has been made to show that all work necessary for compliance with the pavement plan has been completed.
@@ -4487,7 +5159,9 @@ No certificate of occupancy shall be issued for any building or open lot requiri
 
 
 
-*§ 28-118.7.1 Certification. * ::
+
+
+*§ 28-118.7.1 Certification.* ::
 
 
 No certificate of occupancy shall be issued for any building or open lot requiring a certification pursuant to article 108 unless and until the applicant, after completion of construction work, inspects the sidewalk and certifies that the sidewalk is free from defects.
@@ -4497,7 +5171,9 @@ Exception: The commissioner may issue a certificate of occupancy if in lieu of s
 
 
 
-*§ 28-118.8 Sanitary/storm water drainage. * ::
+
+
+*§ 28-118.8 Sanitary/storm water drainage.* ::
 
 
 No certificate of occupancy shall be issued until the department confirms by inspection that all work relating to the installation of the part of the sanitary/storm water drainage system which lies outside of such property, if and as required by section 24-526 of the administrative code, has been satisfactorily completed.
@@ -4505,7 +5181,9 @@ No certificate of occupancy shall be issued until the department confirms by ins
 
 
 
-*§ 28-118.9 Fire protection plan. * ::
+
+
+*§ 28-118.9 Fire protection plan.* ::
 
 
 No certificate of occupancy shall be issued until a fire protection plan, if required pursuant to article 109, has been filed and accepted.
@@ -4513,7 +5191,9 @@ No certificate of occupancy shall be issued until a fire protection plan, if req
 
 
 
-*§ 28-118.10 Electrical work. * ::
+
+
+*§ 28-118.10 Electrical work.* ::
 
 
 No certificate of occupancy shall be issued unless compliance with the New York city electrical code is certified by the commissioner.
@@ -4521,7 +5201,9 @@ No certificate of occupancy shall be issued unless compliance with the New York 
 
 
 
-*§ 28-118.11 Certificates of compliance. * ::
+
+
+*§ 28-118.11 Certificates of compliance.* ::
 
 
 No certificate of occupancy shall be issued until certificates of compliance are issued for the following types of service equipment:
@@ -4541,7 +5223,9 @@ No certificate of occupancy shall be issued until certificates of compliance are
 
 
 
-*§ 28-118.12 Place of assembly certificate of operation. * ::
+
+
+*§ 28-118.12 Place of assembly certificate of operation.* ::
 
 
 The issuance of a certificate of occupancy shall not authorize the use of any space as a place of assembly unless and until the commissioner thereafter issues a place of assembly certificate of operation.
@@ -4549,7 +5233,9 @@ The issuance of a certificate of occupancy shall not authorize the use of any sp
 
 
 
-*§ 28-118.13 Certificates of occupancy for air-inflated structures, air-supported structures, and tents. * ::
+
+
+*§ 28-118.13 Certificates of occupancy for air-inflated structures, air-supported structures, and tents.* ::
 
 
 Certificates of occupancy for air-inflated structures, air-supported structures, and tents shall be issued for a period not exceeding one year. Such certificates may be renewed for one-year periods upon demonstration that the structure complies with all laws and rules in effect at the time of the request for renewal.
@@ -4557,7 +5243,9 @@ Certificates of occupancy for air-inflated structures, air-supported structures,
 
 
 
-*§ 28-118.14 Payment of outstanding penalties. * ::
+
+
+*§ 28-118.14 Payment of outstanding penalties.* ::
 
 
 The department may refuse to issue a certificate of occupancy for a building pending payment of all outstanding fines or civil penalties imposed for violations of this code, the 1968 building code or other laws enforced by the department at the same building.
@@ -4565,7 +5253,9 @@ The department may refuse to issue a certificate of occupancy for a building pen
 
 
 
-*§ 28-118.15 Temporary certificates of occupancy. * ::
+
+
+*§ 28-118.15 Temporary certificates of occupancy.* ::
 
 
 Upon application, the commissioner is authorized to issue a temporary certificate of occupancy before the completion of the entire work covered by the permit, provided that the subject portion or portions of the building may be occupied and maintained in a manner that will not endanger public safety, health, or welfare. The commissioner shall set a time period during which the temporary certificate of occupancy is valid.
@@ -4573,7 +5263,9 @@ Upon application, the commissioner is authorized to issue a temporary certificat
 
 
 
-*§ 28-118.16 Amended certificate of occupancy. * ::
+
+
+*§ 28-118.16 Amended certificate of occupancy.* ::
 
 
 The provisions of sections 28-118.16.1 through 28-118.16.2 shall apply to amended certificates of occupancy.
@@ -4581,7 +5273,9 @@ The provisions of sections 28-118.16.1 through 28-118.16.2 shall apply to amende
 
 
 
-*§ 28-118.16.1 Buildings exceeding three stories in height and change does not exceed 20 percent of total floor area. * ::
+
+
+*§ 28-118.16.1 Buildings exceeding three stories in height and change does not exceed 20 percent of total floor area.* ::
 
 
 Where a building exceeds three stories in height and the change does not exceed 20 percent of the total floor area, an amendment to the existing certificate of occupancy for such new use shall be issued by the commissioner certifying that the proposed new occupancy and use conforms to the provisions of the laws governing building construction and that the proposed use will not be in conflict with any provisions of the labor law, multiple dwelling law or the zoning resolution.
@@ -4589,7 +5283,9 @@ Where a building exceeds three stories in height and the change does not exceed 
 
 
 
-*§ 28-118.16.2 Change in address of the structure, block and lot numbers or metes and bounds of a zoning lot subsequent to the issuance of a certificate of occupancy. * ::
+
+
+*§ 28-118.16.2 Change in address of the structure, block and lot numbers or metes and bounds of a zoning lot subsequent to the issuance of a certificate of occupancy.* ::
 
 
 Where no change is made to a building, open lot or portion thereof inconsistent with the last issued certificate of occupancy, an amended certificate of occupancy may be issued to reflect a change in the address of the structure, block and lot numbers or the metes and bounds of the zoning lot. Notwithstanding any other provisions of law, removal of violations and payment of outstanding penalties are not required prior to issuance of an amended certificate of occupancy in accordance with this section 28-118.16.2.
@@ -4597,7 +5293,9 @@ Where no change is made to a building, open lot or portion thereof inconsistent 
 
 
 
-*§ 28-118.17 Revocation of certificates of occupancy. * ::
+
+
+*§ 28-118.17 Revocation of certificates of occupancy.* ::
 
 
 The commissioner is authorized to request, in writing, pursuant to section six hundred forty five of the New York city charter that the board of standards and appeals or a court of competent jurisdiction revoke, vacate, or modify a certificate of occupancy issued under the provisions of this code whenever the certificate is issued in error, or on the basis of incorrect information provided to the department.
@@ -4605,7 +5303,9 @@ The commissioner is authorized to request, in writing, pursuant to section six h
 
 
 
-*§ 28-118.18 Record of certificates. * ::
+
+
+*§ 28-118.18 Record of certificates.* ::
 
 
 A record of all certificates of occupancy shall be kept by the department; and copies thereof shall be furnished by the department upon request, and on the payment of the fee prescribed in article 112 of this chapter. The certificate of occupancy or a copy thereof shall be available for inspection at the building at all reasonable times.
@@ -4613,7 +5313,9 @@ A record of all certificates of occupancy shall be kept by the department; and c
 
 
 
-*§ 28-118.19 Posting of certificates of occupancy. * ::
+
+
+*§ 28-118.19 Posting of certificates of occupancy.* ::
 
 
 The owner shall post a copy of the building's certificate of occupancy in accordance with this section 28-118.19, except buildings occupied entirely by group R3. Buildings that are not required to have a certificate of occupancy shall be posted by the owner with a sign or placard in a form prescribed by the commissioner. The certificate of occupancy or sign, as applicable, shall be permanently affixed to the structure in a conspicuous location in a public hall, corridor, management office of the building or as otherwise prescribed by the commissioner.
@@ -4621,7 +5323,9 @@ The owner shall post a copy of the building's certificate of occupancy in accord
 
 
 
-*§ 28-118.19.1 Replacement of posted certificates of occupancy and signs. * ::
+
+
+*§ 28-118.19.1 Replacement of posted certificates of occupancy and signs.* ::
 
 
 All posted certificates of occupancy or signs, as applicable, shall not be removed or defaced and, if lost, removed or defaced, shall be immediately replaced. The commissioner may inspect or cause to be inspected periodically all buildings for compliance with the provisions of this code in regard to posting; and the inspection reports shall specify any violation thereof.
@@ -4629,7 +5333,9 @@ All posted certificates of occupancy or signs, as applicable, shall not be remov
 
 
 
-*§ 28-118.20 Partial certificate of occupancy. * ::
+
+
+*§ 28-118.20 Partial certificate of occupancy.* ::
 
 
 A partial certificate of occupancy may be issued to a specific floor or floors of an existing building erected prior to January 1, 1938 subject to the following conditions:
@@ -4647,12 +5353,16 @@ A partial certificate of occupancy may be issued to a specific floor or floors o
 
 
 
-*§ 28-118.21 Live loads posted. * ::
+
+
+*§ 28-118.21 Live loads posted.* ::
 
 
 Where the live loads for which each floor or portion thereof of a commercial or industrial building is or has been designed to exceed 50 psf (2.40 kN/m2), a certificate of occupancy required by this article shall not be issued until such design loads shall be conspicuously posted by the owner in that part of each story in which they apply, using durable signs. It shall be unlawful to remove or deface such signs.
 
 Exception. This section 28-118.21 shall not apply to prior code buildings.
+
+
 
 
 
@@ -4665,7 +5375,9 @@ It shall be unlawful for any utility company or utility corporation to supply ga
 
 
 
-*§ 28-119.1.1 Gas shut-off for alterations to gas piping systems. * ::
+
+
+*§ 28-119.1.1 Gas shut-off for alterations to gas piping systems.* ::
 
 
 When alterations, extensions or repairs to existing gas meter piping or gas distribution piping require the shut-off of gas flow to a building, the utility company shall be notified by the owner or his or her authorized representative.
@@ -4673,7 +5385,9 @@ When alterations, extensions or repairs to existing gas meter piping or gas dist
 
 
 
-*§ 28-119.2 Temporary connection. * ::
+
+
+*§ 28-119.2 Temporary connection.* ::
 
 
 The commissioner shall have the authority to authorize the temporary connection of the building or system to the gas service utility.
@@ -4681,10 +5395,14 @@ The commissioner shall have the authority to authorize the temporary connection 
 
 
 
-*§ 28-119.3 Authority to disconnect utility service. * ::
+
+
+*§ 28-119.3 Authority to disconnect utility service.* ::
 
 
 The commissioner may authorize disconnection of gas service to the building, structure or system regulated by this code and the codes referenced in case of emergency where necessary to eliminate an immediate hazard to life or property. The department shall notify the local gas utility company, and wherever possible the owner and occupant of the building, structure or service system of the decision to disconnect prior to taking such action.
+
+
 
 
 
@@ -4705,7 +5423,9 @@ Chapter 2: Enforcement
 
 **Article 201: General**
 
-*§ 28-201.1 Unlawful acts. * ::
+
+
+*§ 28-201.1 Unlawful acts.* ::
 
 
 It shall be unlawful to erect, construct, alter, extend, repair, fail to maintain, move, remove, demolish, occupy, use or operate any building, structure, premises, or equipment, or to conduct any subject matter regulated by this code or by the zoning resolution, or to cause same to be done, in conflict with or in violation of any of the provisions of this code, the zoning resolution, or the rules of the department or, with regard to existing buildings, any applicable provision of the 1968 building code or any other law or rule enforced by the department. It shall be unlawful to fail to comply with an order of the commissioner or to violate any order of the commissioner issued pursuant to this code, the 1968 building code, the zoning resolution or any law or rule enforced by the department.
@@ -4713,7 +5433,9 @@ It shall be unlawful to erect, construct, alter, extend, repair, fail to maintai
 
 
 
-*§ 28-201.2 Classification of violations. * ::
+
+
+*§ 28-201.2 Classification of violations.* ::
 
 
 The commissioner shall promulgate rules classifying all violations of this code, the zoning resolution or, with regard to existing buildings, the 1968 building code or other laws or rules enforced by the department as immediately hazardous violations, major violations or lesser violations unless the classification of such violations is specifically directed by this code. Such classification shall be based on the effect of the violation on life, health, safety or the public interest or the necessity for economic dis- incentive.
@@ -4721,7 +5443,9 @@ The commissioner shall promulgate rules classifying all violations of this code,
 
 
 
-*§ 28-201.2.1 Specified immediately hazardous violations. * ::
+
+
+*§ 28-201.2.1 Specified immediately hazardous violations.* ::
 
 
 The commissioner shall classify the following violations as immediately hazardous:
@@ -4775,6 +5499,8 @@ The commissioner shall classify the following violations as immediately hazardou
 
 
 
+
+
 *§ 28-201.2.2 Specified major violations.* ::
 
 
@@ -4801,7 +5527,9 @@ The commissioner shall classify the following violations as major violations:
 
 
 
-*§ 28-201.2.3 Specified lesser violations. * ::
+
+
+*§ 28-201.2.3 Specified lesser violations.* ::
 
 
 The commissioner shall classify the following violations as lesser violations:
@@ -4811,7 +5539,9 @@ The commissioner shall classify the following violations as lesser violations:
 
 
 
-*§ 28-201.3 Methods of enforcement. * ::
+
+
+*§ 28-201.3 Methods of enforcement.* ::
 
 
 The commissioner may use any of the methods set forth in this code to enforce compliance with this code, the 1968 building code, the zoning resolution, other laws or rules enforced by the department and orders of the commissioner issued pursuant thereto including but not limited to:
@@ -4831,7 +5561,9 @@ The commissioner may use any of the methods set forth in this code to enforce co
 
 
 
-*§ 28-201.3.1 Issuance. * ::
+
+
+*§ 28-201.3.1 Issuance.* ::
 
 
 Officers and employees of the department and of other city agencies designated by the commissioner shall have the power to issue summonses, appearance tickets and notices of violation for violations of this code, the 1968 building code, the zoning resolution or other laws or rules enforced by the department, orders, and requests for corrective action.
@@ -4839,7 +5571,9 @@ Officers and employees of the department and of other city agencies designated b
 
 
 
-*§ 28-201.4 Aggravating and mitigating factors. * ::
+
+
+*§ 28-201.4 Aggravating and mitigating factors.* ::
 
 
 Civil penalties and criminal fines and imprisonment shall be imposed within the ranges set forth in this code or as otherwise specified in this code or other law, with due regard for mitigating and aggravating factors.
@@ -4849,6 +5583,8 @@ Civil penalties and criminal fines and imprisonment shall be imposed within the 
 
 
 **Article 202: Civil Penalties**
+
+
 
 *§ 28-202.1 Civil penalties.* ::
 
@@ -4904,10 +5640,14 @@ Exceptions:
 
 
 
+
+
 *§ 28-202.2 Continuing violations.* ::
 
 
 Notwithstanding the assessment of daily penalties, each day that a violation continues shall be a separate and distinct offense.
+
+
 
 
 
@@ -4930,6 +5670,8 @@ Exceptions:
 
 
 
+
+
 *§ 28-202.3.1 Definitions.* ::
 
 
@@ -4938,6 +5680,8 @@ The following words and terms shall, for the purposes of section 28-202.3, have 
 THRESHOLD VIOLATION RATIO. For a major building site, the ninetieth percentile of violation ratios for major building sites in the city as of December 31 of the immediately preceding calendar year. For a construction site that only involves work on a one-, two- or three-family building, the ninetieth percentile of violation ratios for construction sites that only involve work on a one-, two- or three-family building in the city as of December 31 of the immediately preceding calendar year. For a construction site that is not a major building site and that does not only involve work on a one-, two- or three-family building, the ninetieth percentile of violation ratios for construction sites that are not major building sites and that do not only involve work on a one-, two- or three-family building in the city as of December 31 of the immediately preceding calendar year.
 
 VIOLATION RATIO. With respect to a construction site, (i) the number of immediately hazardous violations and major violations issued against such site in the preceding 12 months, excluding any violations that have been dismissed or that are currently in the appeals process, divided by the square footage of the footprint of such site or (ii) an alternative ratio established by department rule and that the department determines is appropriate for identifying construction sites with high rates of immediately hazardous violations, major violations or unsafe conditions for the purposes of this section 28-202.3, provided that such rule is promulgated on or after January 1, 2020.
+
+
 
 
 
@@ -4954,6 +5698,8 @@ Notwithstanding any inconsistent provision of this article an immediately hazard
 2. The defendant knew, or with reasonable diligence should have known, (i) of the existence of such violation and (ii) was in a position to remedy such violation or lessen the danger posed thereby; and
 
 3. Such violation resulted in the death or serious physical injury, as such term is defined in article 10 of the New York state penal law, of a person.
+
+
 
 
 
@@ -4981,7 +5727,9 @@ In determining the amount of the civil penalty to be imposed the court shall con
 
 **Article 203: Criminal Penalties**
 
-*§ 28-203.1 Criminal fines and imprisonment. * ::
+
+
+*§ 28-203.1 Criminal fines and imprisonment.* ::
 
 
 Except as otherwise specified in this code or other law, violations of this code, the 1968 building code, the zoning resolution or other laws or rules enforced by the department shall be punishable by criminal fines and imprisonment within the ranges set forth below:
@@ -5009,7 +5757,9 @@ Exceptions:
 
 
 
-*§ 28-203.2 Continuing violations. * ::
+
+
+*§ 28-203.2 Continuing violations.* ::
 
 
 In the case of continuing violations each day's continuance shall be a separate and distinct offense.
@@ -5020,10 +5770,14 @@ In the case of continuing violations each day's continuance shall be a separate 
 
 **Article 204: Environmental Control Board**
 
-*§ 28-204.1 General. * ::
+
+
+*§ 28-204.1 General.* ::
 
 
 Any person who shall violate or fail to comply with any of the provisions of this code, the 1968 building code, the zoning resolution or other laws or rules enforced by the department or with any order issued pursuant thereto shall be liable for a civil penalty that may be recovered in a proceeding before the environmental control board. Such proceeding shall be commenced by the service of a notice of violation returnable before the board. Such notice of violation may be issued by employees of the department or of other city agencies designated by the commissioner and may be served by such employees or by a licensed process server.
+
+
 
 
 
@@ -5054,7 +5808,9 @@ In addition to any other penalties or remedies provided by law or rule, the foll
 
 
 
-*§ 28-204.2 Order to certify correction. * ::
+
+
+*§ 28-204.2 Order to certify correction.* ::
 
 
 Each such notice of violation shall contain an order of the commissioner directing the respondent to correct the condition constituting the violation and to file with the department electronically or in such other manner as the department may authorize by rule a certification that the condition has been corrected. Unless otherwise provided by rule, such order shall require that violations classified as major or lesser be corrected within 30 days from the date of the order, that violations classified as immediately hazardous be corrected forthwith. Such order shall also require that certification of the correction of the violation shall be filed with the department in a manner and form and within such period of time as shall be established by the department. In any proceeding before the environmental control board, no civil penalty shall be imposed for a lesser violation if the respondent complies with the commissioner's order to correct and to certify correction of the violation within the applicable time period. However, such violation may serve as a predicate for purposes of assessing aggravating factors attributable to multiple offenses.
@@ -5062,7 +5818,9 @@ Each such notice of violation shall contain an order of the commissioner directi
 
 
 
-*§ 28-204.3 Failure of proof. * ::
+
+
+*§ 28-204.3 Failure of proof.* ::
 
 
 In any proceeding before the environmental control board, if the board finds that the commissioner has failed to prove the violation charged, the order requiring the respondent to correct the condition constituting the violation and to file a certification of correction shall be deemed dismissed.
@@ -5070,7 +5828,9 @@ In any proceeding before the environmental control board, if the board finds tha
 
 
 
-*§ 28-204.4 Failure to certify the correction of a violation. * ::
+
+
+*§ 28-204.4 Failure to certify the correction of a violation.* ::
 
 
 Failure to comply with an order of the commissioner issued pursuant to section 28-204.2 to correct and to certify correction of a violation within the applicable time period shall be a violation of this code for which penalties may be imposed in addition to the penalties that may be or have been imposed for the violation referred to in such order. Upon application, for good cause, the commissioner may extend the time for filing the certification of correction of a violation, but not for more than 30 days for each extension.
@@ -5078,7 +5838,9 @@ Failure to comply with an order of the commissioner issued pursuant to section 2
 
 
 
-*§ 28-204.5 False statements in certification of correction. * ::
+
+
+*§ 28-204.5 False statements in certification of correction.* ::
 
 
 For the purposes of this section 28-204.5, if the environmental control board finds that a certification of correction filed pursuant to section 28-204.2 contained material false statements relating to the correction of a violation, such certification of correction shall be null and void and the penalties set forth in this code for the violation may be imposed as if such false certification had not been filed with and accepted by the department. It shall be an affirmative defense that the respondent neither knew nor should have known that such statements were false.
@@ -5086,7 +5848,9 @@ For the purposes of this section 28-204.5, if the environmental control board fi
 
 
 
-*§ 28-204.6 Tax lien. * ::
+
+
+*§ 28-204.6 Tax lien.* ::
 
 
 Enforcement of environmental control board judgments against owners for certain building code violations. Notwithstanding any provision of law to the contrary, an environmental control board judgment against an owner for a building code violation with respect to (i) a private dwelling, a wooden-framed single room occupancy multiple dwelling, or a dwelling with a legal occupancy of three or fewer dwelling units,(ii) a violation of section 28-210.1 involving the illegal conversion, maintenance or occupancy of three or more dwelling units than are legally authorized by the certificate of occupancy or if no certificate of occupancy is required as evidenced by official records, (iii) a building that contains twenty or more dwelling units, or that contains any space classified in an occupancy group other than occupancy group R, where the total value of all such judgments against such building is $60,000 or more, or (iv) a building that contains only space classified in occupancy group R and no fewer than six and no more than nineteen dwelling units, where the total value of all such judgments against such building is $30,000 or more, shall constitute a tax lien on the property named in the violation with respect to which such judgment was rendered, as hereinafter provided. Such liens shall be entered and enforced as provided in this section 28-204.6.
@@ -5104,10 +5868,14 @@ Exception: Notwithstanding any provision of law to the contrary, an environmenta
 
 
 
+
+
 *§ 28-204.6.1 Record of unpaid judgments.** ::
 
 
 There shall be filed in the office of the department a record of all such unpaid judgments. Such records shall be kept by tax lot and block number and shall be accessible to the public during business hours. An entry of a judgment on the records of the department shall constitute notice to all parties.
+
+
 
 
 
@@ -5122,7 +5890,9 @@ On December 31, 2018, the department of finance shall submit a report to the may
 
 
 
-*§ 28-204.6.2 Lien. * ::
+
+
+*§ 28-204.6.2 Lien.* ::
 
 
 All such unpaid judgments shall constitute a lien upon the property named in the violation with respect to which such judgment was rendered when the amount shall have been definitely computed as a statement of account by the department, and the department shall file such statement with the department of finance for entry against the property. Such lien shall have a priority over all other liens and encumbrances except for the lien of taxes and assessments. However, no lien created pursuant to this section 28-204.6 shall be enforced against a subsequent purchaser in good faith or mortgagee in good faith unless the requirements of section 28-204.6.1 are satisfied.
@@ -5130,7 +5900,9 @@ All such unpaid judgments shall constitute a lien upon the property named in the
 
 
 
-*§ 28-204.6.3 Notice. * ::
+
+
+*§ 28-204.6.3 Notice.* ::
 
 
 A notice, stating the amount due and the nature of the charge, shall be mailed by the department of finance to the last known address of the person whose name appears on the records of the department as being the owner or agent of the property or as the person designated by the owner to receive tax bills or, where no name appears, to the property, addressed to either the "owner" or the "agent."
@@ -5138,7 +5910,9 @@ A notice, stating the amount due and the nature of the charge, shall be mailed b
 
 
 
-*§ 28-204.6.4 Mailing. * ::
+
+
+*§ 28-204.6.4 Mailing.* ::
 
 
 Such notice mailed by the department of finance pursuant to this section 28-204.6.4 shall have stamped or printed thereon a reference to section 204.6.
@@ -5146,7 +5920,9 @@ Such notice mailed by the department of finance pursuant to this section 28-204.
 
 
 
-*§ 28-204.6.5 Failure to pay charge. * ::
+
+
+*§ 28-204.6.5 Failure to pay charge.* ::
 
 
 If such charge is not paid within 30 days from the date of entry, it shall be the duty of the department of finance to receive interest thereon at the same rate as unpaid real property taxes, to be calculated to the date of payment from the date of entry.
@@ -5154,7 +5930,9 @@ If such charge is not paid within 30 days from the date of entry, it shall be th
 
 
 
-*§ 28-204.6.6 Enforcement of lien. * ::
+
+
+*§ 28-204.6.6 Enforcement of lien.* ::
 
 
 Such charge and the interest thereon shall continue to be, until paid, a lien on the property. Any remedy or procedure available for the enforcement of tax liens against such property, including, but not limited to, any sale of a tax lien or any foreclosure of a tax lien, shall be available with respect to such tax lien. In addition, such tax lien may be satisfied in accordance with the provisions of section 1354 of the real property actions and proceedings law.
@@ -5162,7 +5940,9 @@ Such charge and the interest thereon shall continue to be, until paid, a lien on
 
 
 
-*§ 28-204.6.7 Validity of lien. * ::
+
+
+*§ 28-204.6.7 Validity of lien.* ::
 
 
 In any proceeding to enforce or discharge a lien created pursuant to this section 28-204.6, the validity of the lien shall not be subject to challenge based on the lawfulness of the judgment, except as provided in this section 28-204.6.
@@ -5170,7 +5950,9 @@ In any proceeding to enforce or discharge a lien created pursuant to this sectio
 
 
 
-*§ 28-204.6.8 Challenge. * ::
+
+
+*§ 28-204.6.8 Challenge.* ::
 
 
 No such challenge may be made except by the owner of the property or a mortgagee or lienor whose mortgage or lien would, but for the provisions of this section 28-204.6, have priority over the department's lien.
@@ -5178,7 +5960,9 @@ No such challenge may be made except by the owner of the property or a mortgagee
 
 
 
-*§ 28-204.6.9 Notice to mortgagees and lienors. * ::
+
+
+*§ 28-204.6.9 Notice to mortgagees and lienors.* ::
 
 
 Notwithstanding the foregoing provisions, no such judgment shall be entered and enforced as a tax lien against any property unless at the time of the issuance of the notice of violation a copy of such notice was also served on all mortgagees and lienors of record of such property by mail addressed to the recorded addresses of such mortgagees and lienors.
@@ -5186,7 +5970,9 @@ Notwithstanding the foregoing provisions, no such judgment shall be entered and 
 
 
 
-*§ 28-204.6.10 Non-exclusive remedy. * ::
+
+
+*§ 28-204.6.10 Non-exclusive remedy.* ::
 
 
 The procedures provided in this section 28-204.6 for the enforcement of environmental control board judgments against owners shall be in addition to any other methods provided under any other provision of law for the enforcement of such judgments.
@@ -5197,7 +5983,9 @@ The procedures provided in this section 28-204.6 for the enforcement of environm
 
 **Article 205: Civil Judicial Proceedings**
 
-*§ 28-205.1 Civil judicial enforcement. * ::
+
+
+*§ 28-205.1 Civil judicial enforcement.* ::
 
 
 The owner, lessee, person in charge, or occupant of any building, structure, premises, equipment or part thereof, where a violation of this code, the 1968 building code, the zoning resolution or of other laws or rules enforced by the department or any order issued by the commissioner shall exist or the agent, architect, builder, contractor, engineer, or any other person who commits or assists in any such violation or who maintains any building, structure, premises, equipment or part thereof where any such violation shall exist shall be subject to an action or proceeding to restrain, correct or abate such violation, or to compel compliance with such order. Upon request of the commissioner, the corporation counsel may institute judicial actions or proceedings seeking such relief. In addition to any other remedies, in any such action or proceeding the defendant or respondent shall be subject to the payment of civil penalties as provided in this code.
@@ -5205,7 +5993,9 @@ The owner, lessee, person in charge, or occupant of any building, structure, pre
 
 
 
-*§ 28-205.1.1 Corporation counsel. * ::
+
+
+*§ 28-205.1.1 Corporation counsel.* ::
 
 
 Such actions and proceedings may be instituted by the corporation counsel in the name of the city in any court of competent jurisdiction in the city and shall be given preference over pending causes therein. In such actions or proceedings, the city may apply for restraining orders, preliminary injunctions or other provisional remedies, with or without notice; and no undertakings shall be required as a condition to the granting or issuing of any such order, injunction or remedy, or by reason thereof. No court shall lose jurisdiction of any action or proceeding hereunder by reason of a plea that the title to real estate is involved if the object of the action is to recover a penalty for the violation of any of the provisions of this code.
@@ -5213,7 +6003,9 @@ Such actions and proceedings may be instituted by the corporation counsel in the
 
 
 
-*§ 28-205.1.1.1 Naming the building as a defendant. * ::
+
+
+*§ 28-205.1.1.1 Naming the building as a defendant.* ::
 
 
 The corporation counsel shall name as defendants the building, structure, or premises where the violation shall exist by describing it by block, lot number, and street address and at least one of the owners of some part of or interest in the building, structure, or premises.
@@ -5221,7 +6013,9 @@ The corporation counsel shall name as defendants the building, structure, or pre
 
 
 
-*§ 28-205.1.1.2 In rem jurisdiction over the building. * ::
+
+
+*§ 28-205.1.1.2 In rem jurisdiction over the building.* ::
 
 
 In rem jurisdiction over the building, structure, or premises where the violation shall exist shall be complete by affixing the summons to the door of the building, structure, or premises and by mailing the summons by certified or registered mail, return receipt requested, to one of the owners of some part of or interest in the building, structure, or premises. Proof of service shall be filed within two days thereafter with the clerk of the court designated in the summons. Service shall be complete upon such filing.
@@ -5229,7 +6023,9 @@ In rem jurisdiction over the building, structure, or premises where the violatio
 
 
 
-*§ 28-205.1.1.3 Service on other defendants. * ::
+
+
+*§ 28-205.1.1.3 Service on other defendants.* ::
 
 
 Defendants, other than the building, structure, or premises where the violation shall exist, shall be served with the summons as provided in the civil practice law and rules.
@@ -5237,7 +6033,9 @@ Defendants, other than the building, structure, or premises where the violation 
 
 
 
-*§ 28-205.1.2 Presumptive evidence. * ::
+
+
+*§ 28-205.1.2 Presumptive evidence.* ::
 
 
 In any action or proceeding founded upon a claim by the commissioner that any law or rule enforceable by the department has been violated, or that a lawful order issued by such commissioner has not been complied with, the following presumptions shall apply:
@@ -5245,7 +6043,9 @@ In any action or proceeding founded upon a claim by the commissioner that any la
 
 
 
-*§ 28-205.1.2.1 Presumption of commissioner certificate. * ::
+
+
+*§ 28-205.1.2.1 Presumption of commissioner certificate.* ::
 
 
 A certificate in writing by the commissioner, or his or her authorized representative, shall be presumptive evidence of any matter stated therein.
@@ -5253,7 +6053,9 @@ A certificate in writing by the commissioner, or his or her authorized represent
 
 
 
-*§ 28-205.1.2.2 Presumption of ownership. * ::
+
+
+*§ 28-205.1.2.2 Presumption of ownership.* ::
 
 
 The person in whose name the real estate affected by the action is recorded in the office of the city register or the county clerk, as applicable, shall be presumed to be the owner thereof.
@@ -5261,7 +6063,9 @@ The person in whose name the real estate affected by the action is recorded in t
 
 
 
-*§ 28-205.1.2.3 Presumption of employment or agency. * ::
+
+
+*§ 28-205.1.2.3 Presumption of employment or agency.* ::
 
 
 Whenever there is evidence that a person was the manager, operator, or supervisor or, in any other way, in charge of the premises, at the time the violation occurred, such evidence shall be presumptive that he or she was an agent or employee of the owner or lessee of the building, structure, or premises.
@@ -5269,7 +6073,9 @@ Whenever there is evidence that a person was the manager, operator, or superviso
 
 
 
-*§ 28-205.1.3 Costs. * ::
+
+
+*§ 28-205.1.3 Costs.* ::
 
 
 In no case shall the department, or any officer or employee thereof, be liable for costs in any such action or proceeding; and officers and employees of the department, acting in good faith and without malice, shall be free from liability for acts done in any such action or proceeding.
@@ -5277,7 +6083,9 @@ In no case shall the department, or any officer or employee thereof, be liable f
 
 
 
-*§ 28-205.1.4 Lien. * ::
+
+
+*§ 28-205.1.4 Lien.* ::
 
 
 Any judgment rendered in any such action or proceeding shall be and become a lien upon the premises named in the complaint in such action or proceeding, if any, the lien to date from the time of filing a notice of pendency in the office of the clerk of the county in which the premises is located, and to have priority before any mortgage or other lien existing prior to such filing, except tax and assessment liens.
@@ -5285,7 +6093,9 @@ Any judgment rendered in any such action or proceeding shall be and become a lie
 
 
 
-*§ 28-205.1.5 Notice of pendency. * ::
+
+
+*§ 28-205.1.5 Notice of pendency.* ::
 
 
 The notice of pendency referred to in this section 28-205.1.5 may be filed at the commencement of judicial proceedings; provided the commissioner may deem such action to be necessary. Any notice of pendency filed pursuant to the provisions of this code may be vacated and cancelled of record upon an order of a justice of the court in which such action or proceeding was instituted or is pending, or upon the consent in writing of the corporation counsel. The clerk of the county where the notice is filed is hereby directed and required to mark any such notice of pendency, and any record or docket thereof, as vacated and cancelled of record upon the presentation and filing of a certified copy of such order or consent.
@@ -5296,7 +6106,9 @@ The notice of pendency referred to in this section 28-205.1.5 may be filed at th
 
 **Article 206: Criminal Judicial Proceedings**
 
-*§ 28-206.1 Criminal judicial enforcement. * ::
+
+
+*§ 28-206.1 Criminal judicial enforcement.* ::
 
 
 The owner, lessee, person in charge, or occupant of any building, structure, premises, equipment or part thereof, where a violation of this code, the 1968 building code, the zoning resolution or of other laws or rules enforced by the department or any order issued by the commissioner shall exist or the agent, architect, builder, contractor, engineer, or any other person who commits or knowingly assists in any such violation or who maintains any building, structure, premises, equipment or part thereof where any such violation shall exist shall be guilty of a criminal offense punishable by a fine or imprisonment or both a fine and imprisonment in accordance with this code.
@@ -5304,7 +6116,9 @@ The owner, lessee, person in charge, or occupant of any building, structure, pre
 
 
 
-*§ 28-206.1.1 Other penalties. * ::
+
+
+*§ 28-206.1.1 Other penalties.* ::
 
 
 The criminal penalties provided by this code shall be in addition to or alternative to any civil sanctions authorized to be imposed for an unlawful use or condition cited in this code.
@@ -5315,7 +6129,9 @@ The criminal penalties provided by this code shall be in addition to or alternat
 
 **Article 207: Peremptory Orders**
 
-*§ 28-207.1 Contents and service. * ::
+
+
+*§ 28-207.1 Contents and service.* ::
 
 
 Peremptory orders issued by the commissioner shall contain a description of the building, structure, premises, equipment or subject matter affected, and shall be designated by address where applicable. Such orders may be served personally or by posting at the premises followed by regular mail, by any officer or employee of the department, or by any person authorized by the commissioner.
@@ -5323,7 +6139,9 @@ Peremptory orders issued by the commissioner shall contain a description of the 
 
 
 
-*§ 28-207.2 Stop work orders. * ::
+
+
+*§ 28-207.2 Stop work orders.* ::
 
 
 Whenever the commissioner finds that any building work is being executed in violation of the provisions of this code, the 1968 building code, the zoning resolution or of any laws or rules enforced by the department, or in a dangerous or unsafe manner, the commissioner or his or her authorized representative may issue a stop work order.
@@ -5331,7 +6149,9 @@ Whenever the commissioner finds that any building work is being executed in viol
 
 
 
-*§ 28-207.2.1 Issuance. * ::
+
+
+*§ 28-207.2.1 Issuance.* ::
 
 
 Upon issuance of a stop work order by the commissioner, all work shall immediately stop unless otherwise specified. Such order may require all persons to forthwith vacate the premises pursuant to the provisions of section 28-207.4 and may also require such work to be done as, in the opinion of the commissioner, may be necessary to remove any danger therefrom. The police department or other law enforcement agency or officer shall, upon the request of the commissioner, assist the department in the enforcement of this section 28-207.2. The stop work order may be given verbally or in writing to the owner, lessee or occupant of the property involved, or to the agent of any of them, or to the person or persons executing the work. A verbal order shall be followed promptly by a written order and shall include the reason for the issuance of the stop work order.
@@ -5339,7 +6159,9 @@ Upon issuance of a stop work order by the commissioner, all work shall immediate
 
 
 
-*§ 28-207.2.2 Unlawful continuance. * ::
+
+
+*§ 28-207.2.2 Unlawful continuance.* ::
 
 
 No person shall with knowledge or notice of a stop work order allow, authorize, promote, continue or cause to be continued any work covered by the stop work order, except such work that may be required by order of the commissioner.
@@ -5347,7 +6169,9 @@ No person shall with knowledge or notice of a stop work order allow, authorize, 
 
 
 
-*§ 28-207.2.3 Rescission. * ::
+
+
+*§ 28-207.2.3 Rescission.* ::
 
 
 Upon application, the commissioner shall rescind the stop work order when the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted in accordance with department rules, or where the stop work order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such stop work order.
@@ -5355,7 +6179,9 @@ Upon application, the commissioner shall rescind the stop work order when the co
 
 
 
-*§ 28-207.2.4 Mandatory stop work orders. * ::
+
+
+*§ 28-207.2.4 Mandatory stop work orders.* ::
 
 
 The commissioner shall issue stop work orders in the circumstances set forth below. Upon issuance of such stop work order, the work shall immediately stop and shall not resume until the stop work order is rescinded by the department. The stop work order shall not be rescinded less than two business days after the date of issuance of such order. Nothing in the following sections shall be construed to limit the commissioner's power to issue stop work orders in other circumstances.
@@ -5363,7 +6189,9 @@ The commissioner shall issue stop work orders in the circumstances set forth bel
 
 
 
-*§ 28-207.2.4.1 Scaffold safety. * ::
+
+
+*§ 28-207.2.4.1 Scaffold safety.* ::
 
 
 A stop work order shall be issued if a permit holder or person directly in charge of any suspended scaffold supported by c-hooks or outrigger beams fails to notify the department prior to the installation or use of such equipment as required by section 3314.1.1 of the New York city Building code and either:
@@ -5377,6 +6205,8 @@ A stop work order shall be issued if a permit holder or person directly in charg
 
 
 
+
+
 *§ 28-207.2.5 Tampering.* ::
 
 
@@ -5385,7 +6215,9 @@ It shall be unlawful to tamper with, remove or deface a written posted stop work
 
 
 
-*§ 28-207.2.6 Penalties. * ::
+
+
+*§ 28-207.2.6 Penalties.* ::
 
 
 In addition to the penalties provided for in this chapter, any person who fails to comply with a stop work order shall be liable for a civil penalty in the amount of $6,000 for the initial violation and $12,000 for every subsequent violation, to be paid to the department prior to the rescission of the stop work order; provided, however, this shall not apply to any work performed to remedy an unsafe or hazardous condition as authorized by order of the commissioner.
@@ -5395,7 +6227,9 @@ In addition to the penalties provided for in this chapter, any person who fails 
 
 
 
-*§ 28-207.3 Public nuisance. * ::
+
+
+*§ 28-207.3 Public nuisance.* ::
 
 
 Whenever any building, structure, place or premises is or may be perilous to life or property by reason of the nature or condition of its contents, its use, the overcrowding of persons therein, defects in its construction, or deficiencies in fire alarm, fire extinguishing equipment or fire escape equipment, or by reason of any condition in violation of law or order of the commissioner, the commissioner may declare that the same, to the extent that the commissioner may specify, is a public nuisance and may order the same to be removed, sealed, abated, repaired, altered or otherwise improved.
@@ -5403,7 +6237,9 @@ Whenever any building, structure, place or premises is or may be perilous to lif
 
 
 
-*§ 28-207.3.1 Rescission. * ::
+
+
+*§ 28-207.3.1 Rescission.* ::
 
 
 Upon application, the commissioner shall rescind such order when the condition that gave rise to its issuance has been corrected or where the declaration was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such order.
@@ -5411,7 +6247,9 @@ Upon application, the commissioner shall rescind such order when the condition t
 
 
 
-*§ 28-207.4 Vacate order. * ::
+
+
+*§ 28-207.4 Vacate order.* ::
 
 
 In case any order to remedy a condition that is or may be imminently perilous, dangerous or detrimental to life, public safety or property, issued by the commissioner is not complied with, or the commissioner determines that an emergency exists requiring such action, the commissioner may order and immediately cause any building, structure, place or premises to be vacated. The vacate order may be given verbally or in writing to the owner, lessee or occupant of the property involved, or to the agent of any of them, or to the person or persons executing the work. A verbal order shall be followed promptly by a written order and shall include the reason for the issuance of the vacate order. The written vacate order shall include the date by which the owner shall certify the correction of any and all violations giving rise to such vacate order.
@@ -5421,7 +6259,9 @@ In case any order to remedy a condition that is or may be imminently perilous, d
 
 
 
-*§ 28-207.4.1 Basis for vacate. * ::
+
+
+*§ 28-207.4.1 Basis for vacate.* ::
 
 
 Conditions for which the commissioner may issue a vacate order shall include but shall not be limited to the following conditions that create a hazard to life, public safety, or property:
@@ -5439,7 +6279,9 @@ Conditions for which the commissioner may issue a vacate order shall include but
 
 
 
-*§ 28-207.4.2 Enforcement of vacate order. * ::
+
+
+*§ 28-207.4.2 Enforcement of vacate order.* ::
 
 
 All orders issued pursuant to this section 28-207.4 shall be posted upon the premises and made available to the public. Immediately upon the posting of an order upon the premises, officers and employees of the police department, the department, and other authorized officers and employees of the city shall immediately act upon and enforce such order. The police department shall provide all reasonable assistance to the department and other authorized officers and employees necessary to carry out the provisions of this section 28-207.4. A copy of the vacate order shall be filed with the county clerk of the county in which the premises is located. Such filing shall be notice of the vacate order to any subsequent owner and such owner shall be subject to such order.
@@ -5447,7 +6289,9 @@ All orders issued pursuant to this section 28-207.4 shall be posted upon the pre
 
 
 
-*§ 28-207.4.3 Rescission. * ::
+
+
+*§ 28-207.4.3 Rescission.* ::
 
 
 Upon application, the commissioner shall rescind the vacate order when the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted in accordance with department rules, or where the vacate order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such vacate order.
@@ -5455,7 +6299,9 @@ Upon application, the commissioner shall rescind the vacate order when the condi
 
 
 
-*§ 28-207.5 Cease use orders for service equipment. * ::
+
+
+*§ 28-207.5 Cease use orders for service equipment.* ::
 
 
 Whenever the commissioner determines that the operation of any service equipment is or may be dangerous to life, health or safety, the commissioner may issue a cease use order requiring such equipment to be shut down or sealed or otherwise made inoperable. Upon the issuance of such order a tag or notice shall be affixed to the device warning that the equipment is unsafe for operation. It shall be unlawful to operate such equipment or to remove or deface such tag unless and until the cease use order is rescinded by the commissioner.
@@ -5463,7 +6309,9 @@ Whenever the commissioner determines that the operation of any service equipment
 
 
 
-*§ 28-207.5.1 Rescission of cease use order. * ::
+
+
+*§ 28-207.5.1 Rescission of cease use order.* ::
 
 
 Upon application, the commissioner shall rescind the cease use order when the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted in accordance with department rules or where the cease use order was issued in error or conditions are such that it should not have been issued.. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such cease use order.
@@ -5474,7 +6322,9 @@ Upon application, the commissioner shall rescind the cease use order when the co
 
 **Article 208: Commissioner's Request for Corrective Action**
 
-*§ 28-208.1 Commissioner's request for corrective action. * ::
+
+
+*§ 28-208.1 Commissioner's request for corrective action.* ::
 
 
 As an alternative to the issuance of an order or notice of violation, the commissioner may issue a request for corrective action to any person responsible for any claimed unlawful use or condition in any premises. Each request for corrective action shall have the commissioner's signature affixed thereto; but the commissioner may authorize any subordinate to affix such signature, including an electronic signature.
@@ -5482,7 +6332,9 @@ As an alternative to the issuance of an order or notice of violation, the commis
 
 
 
-*§ 28-208.1.1 Contents and delivery. * ::
+
+
+*§ 28-208.1.1 Contents and delivery.* ::
 
 
 The request for corrective action shall contain a description of the building, structure, premises, equipment or subject matter affected, shall be designated by address, where applicable, shall be sent by regular mail or upon consent by electronic means to the owner, lessee, person in charge, or occupant of the building, structure, premises, equipment or to any person responsible for the unlawful use or condition at the last known address for such person. Requests for corrective action may be sent to a managing agent or other person specifically designated by the owner to attend to such requests on behalf of the owner. Each such request shall describe the unlawful use or condition, call upon the person addressed to correct it and to inform the department of the action taken. A time for correction or response shall be specified. A request for corrective action may be given orally, followed within a reasonable time by a writing as described in this section 28-208.1.1. A request for corrective action shall provide notice that failure to respond to such a request may result in the imposition of a fee for any subsequent inspection that results in the issuance of a notice of violation for the condition.
@@ -5490,7 +6342,9 @@ The request for corrective action shall contain a description of the building, s
 
 
 
-*§ 28-208.1.2 Public record. * ::
+
+
+*§ 28-208.1.2 Public record.* ::
 
 
 The department shall keep a record, available to the public, of requests for corrective action issued pursuant to this article. The record of a request for corrective action shall be reflected as withdrawn upon submission to the department of a statement in a form prescribed by rule indicating that the use or condition has been corrected or did not exist or following an inspection by the department that confirms correction. A request for corrective action may be issued in response to a complaint or inspection.
@@ -5498,7 +6352,9 @@ The department shall keep a record, available to the public, of requests for cor
 
 
 
-*§ 28-208.1.3 Other remedies not precluded. * ::
+
+
+*§ 28-208.1.3 Other remedies not precluded.* ::
 
 
 Nothing in this article shall be construed to limit the power of the commissioner to take any other action authorized by this code with respect to any unlawful use or condition including, but not limited to, the commencement of an action or proceeding in a court or before the environmental control board or other administrative tribunal or the issuance of a peremptory order or to require that the commissioner issue a request for corrective action as a prerequisite to any other enforcement action.
@@ -5509,7 +6365,9 @@ Nothing in this article shall be construed to limit the power of the commissione
 
 **Article 209: Commissioner's Order to Correct Unlawful Use Or Condition**
 
-*§ 28-209.1 General. * ::
+
+
+*§ 28-209.1 General.* ::
 
 
 The commissioner may issue an order to the persons responsible for any unlawful use or condition in any premises directing such person to correct the unlawful use or condition. Each such order shall have the commissioner's signature affixed thereto; but the commissioner may authorize any subordinate to affix such signature, including an electronic signature.
@@ -5517,7 +6375,9 @@ The commissioner may issue an order to the persons responsible for any unlawful 
 
 
 
-*§ 28-209.2 Contents and service of order. * ::
+
+
+*§ 28-209.2 Contents and service of order.* ::
 
 
 All orders issued by the commissioner shall contain a description of the building, structure, premises, equipment or subject matter affected, and shall be designated by address where applicable. All such orders shall be served by regular mail or, upon consent, electronically. Such orders may be served by any officer or employee of the department, or by any person authorized by the commissioner. An order may be given orally, followed within a reasonable time by a written order as described in this section 28-209.2. Failure to comply with a commissioner's order within the stated time period shall be a violation of this code punishable by civil penalties or criminal fines and imprisonment as set forth in this code. Proof of compliance with a commissioner's order shall consist of certification as prescribed by the rules of the department.
@@ -5528,10 +6388,14 @@ All orders issued by the commissioner shall contain a description of the buildin
 
 **Article 210: Illegal Conversions**
 
-*§ 28-210.1 Illegal residential conversions. * ::
+
+
+*§ 28-210.1 Illegal residential conversions.* ::
 
 
 It shall be unlawful, except in accordance with all requirements of this code, to convert any dwelling for occupancy by more than the legally authorized number of families or to assist, take part in, maintain or permit the maintenance of such conversion. Upon the finding of such violation and the imposition of punishment for such violation as set forth in this code the department or if applicable the environmental control board shall forward to the internal revenue service, the New York state department of taxation and finance and the New York city department of finance the name and address of the respondent or defendant, the address of the building or structure with respect to which the violation occurred and the time period during which the violation was found to have existed.
+
+
 
 
 
@@ -5546,7 +6410,9 @@ Upon receiving a complaint of a condition relating to a building or part thereof
 
 
 
-*§ 28-210.2 Illegal industrial or manufacturing conversions. * ::
+
+
+*§ 28-210.2 Illegal industrial or manufacturing conversions.* ::
 
 
 Except as otherwise provided by section 42-03 of the zoning resolution and the multiple dwelling law, it shall be unlawful, except in accordance with all requirements of this code, to convert to residential use any space legally authorized for occupancy for industrial or manufacturing use or to assist, take part in, maintain or permit the maintenance of such conversion. Upon the finding of such violation and the imposition of punishment for such violation as set forth in this code the department, or, if applicable, the environmental control board shall forward to the internal revenue service, the New York state department of taxation and finance and the New York city department of finance the name and address of the respondent or defendant, the address of the building or structure with respect to which the violation occurred and the time period during which the violation was found to have existed.
@@ -5554,10 +6420,14 @@ Except as otherwise provided by section 42-03 of the zoning resolution and the m
 
 
 
-*§ 28-210.3 Illegal conversions of dwelling units from permanent residences. * ::
+
+
+*§ 28-210.3 Illegal conversions of dwelling units from permanent residences.* ::
 
 
 Except as otherwise provided in subdivision 16 of section 67 of the multiple dwelling law and section 120 of the multiple dwelling law, dwelling units within (i) a class A multiple dwelling as defined in section 27-2004 of the administrative code, (ii) occupancy group J-2 as described in section 27-265 of the administrative code or (iii) occupancy group R-2 as described in section 310.1.2 of the New York city building code shall be used only for permanent residence purposes as required pursuant to subparagraph a of paragraph eight of subdivision a of section 27-2004 of the administrative code. It shall be unlawful for any person or entity who owns or occupies a multiple dwelling or dwelling unit classified for permanent residence purposes to use or occupy, offer or permit the use or occupancy or to convert for use or occupancy such multiple dwelling or dwelling unit for other than permanent residence purposes. For the purposes of this section a conversion in use of a dwelling unit may occur irrespective of whether any physical changes have been made to such dwelling unit. The provisions of this section shall not be construed to prohibit lawful accessory uses permitted pursuant to the zoning resolution or the lawful conversion of dwellings in accordance with applicable law.
+
+
 
 
 
@@ -5597,7 +6467,9 @@ By no later than September 1 of each year, the department shall, with the cooper
 
 **Article 211: False Statements**
 
-*§ 28-211.1 False statements in certificates, forms, written statements, applications, reports or certificates of correction. * ::
+
+
+*§ 28-211.1 False statements in certificates, forms, written statements, applications, reports or certificates of correction.* ::
 
 
 It shall be unlawful for any person to make a material false statement in any certificate, professional certification, form, signed statement, application, report or certification of the correction of a violation required under the provisions of this code or any rule of any agency promulgated thereunder that such person knew or should have known to be false.
@@ -5605,7 +6477,9 @@ It shall be unlawful for any person to make a material false statement in any ce
 
 
 
-*§ 28-211.1.1 Rebuttable presumption. * ::
+
+
+*§ 28-211.1.1 Rebuttable presumption.* ::
 
 
 In any proceeding that relates to a false statement in a certification of correction of a violation filed in compliance with section 28-204.2 if an inspection made within six months after the filing of the certification finds a condition constituting a violation that is the same as the condition described in the notice of violation with respect to which such certification was filed, there shall be a rebuttable presumption that the condition described in such notice of violation continued and is the same condition found in the inspection.
@@ -5613,7 +6487,9 @@ In any proceeding that relates to a false statement in a certification of correc
 
 
 
-*§ 28-211.1.2 Additional penalty for false statements. * ::
+
+
+*§ 28-211.1.2 Additional penalty for false statements.* ::
 
 
 In addition to any other penalty provided by law, the commissioner may refuse to accept an application or other document submitted pursuant to or in satisfaction of a requirement of this code or of a rule of any agency promulgated thereunder that bears the signature of a person who has been found, after a hearing at the office of administrative trials and hearings pursuant to the department's rules, to have knowingly or negligently made a false statement or to have knowingly or negligently falsified or allowed to be falsified any certificate, form, signed statement, application, report or certification of the correction of a violation required under the provisions of this code or of a rule of any agency promulgated thereunder.
@@ -5621,7 +6497,9 @@ In addition to any other penalty provided by law, the commissioner may refuse to
 
 
 
-*§ 28-211.2 Falsely impersonating an officer. * ::
+
+
+*§ 28-211.2 Falsely impersonating an officer.* ::
 
 
 It shall be unlawful for any person to falsely represent himself or herself as an officer, inspector or employee of the department, or as acting under the authority of the department, or without authority to use, wear or display a shield or other insignia or emblem such as is worn by such officer, inspector or employee.
@@ -5632,7 +6510,9 @@ It shall be unlawful for any person to falsely represent himself or herself as a
 
 **Article 212: Abatement of Public Nuisance Caused By Certain Illegal Occupancies**
 
-*§ 28-212.1 Abatement of public nuisances caused by illegal commercial or manufacturing occupancy in residence districts and certain other zoning districts. * ::
+
+
+*§ 28-212.1 Abatement of public nuisances caused by illegal commercial or manufacturing occupancy in residence districts and certain other zoning districts.* ::
 
 
 Any building or part thereof or vacant land that is located in a residence zoning district and that is occupied for a use not permitted in such district in violation of the zoning resolution, without a certificate of occupancy authorizing such use, is hereby declared to be a public nuisance. Any building or part thereof or vacant land that is located in a C-1 or C-2 commercial zoning district and that is occupied for a commercial or manufacturing use indicated under use group 16, 17, or 18 as described in sections 32-25, 42-14, and 42-15 of the zoning resolution, in violation of the zoning resolution, without a certificate of occupancy authorizing such use is hereby declared to be a public nuisance.
@@ -5640,7 +6520,9 @@ Any building or part thereof or vacant land that is located in a residence zonin
 
 
 
-*§ 28-212.2 Order of closure. * ::
+
+
+*§ 28-212.2 Order of closure.* ::
 
 
 If a building or part thereof or vacant land in which such a nuisance occurs is not occupied primarily as a residence, the commissioner may, in addition to or as an alternative to any other remedy under any other provision of law, after notice and the opportunity for a hearing in accordance with this article, order the closing of such building or part thereof or such vacant land to the extent necessary to abate the nuisance.
@@ -5648,7 +6530,9 @@ If a building or part thereof or vacant land in which such a nuisance occurs is 
 
 
 
-*§ 28-212.3 Notice of hearing. * ::
+
+
+*§ 28-212.3 Notice of hearing.* ::
 
 
 A notice of hearing with respect to an order of closure shall be served on the owner and mortgagee of record of such building or part thereof or such vacant land and on any person alleged to be occupying such building or part thereof or such vacant land at which the nuisance is located.
@@ -5656,7 +6540,9 @@ A notice of hearing with respect to an order of closure shall be served on the o
 
 
 
-*§ 28-212.4 Service of notice of hearing. * ::
+
+
+*§ 28-212.4 Service of notice of hearing.* ::
 
 
 Service may be made on the owner by delivering such notice to the owner or to an agent of the owner or to a person of suitable age and discretion at the residence or place of business of the owner or, if upon reasonable application such delivery cannot be completed, by affixing such notice in a conspicuous place at the owner's place of business or residence or by placing it under the entrance door at either of such locations or by delivering such notice to a person employed by the owner to work at or to manage or maintain the premises at which the nuisance is located and, in all instances except personal delivery upon such owner by mailing the notice of hearing as follows:
@@ -5664,7 +6550,9 @@ Service may be made on the owner by delivering such notice to the owner or to an
 
 
 
-*§ 28-212.4.1 Mailing to owner's registered address. * ::
+
+
+*§ 28-212.4.1 Mailing to owner's registered address.* ::
 
 
 To the person registered with the department of housing preservation and development as the owner or agent of the premises, at the address filed with such department in compliance with article two of subchapter four of chapter two of title twenty-seven of the administrative code;
@@ -5672,7 +6560,9 @@ To the person registered with the department of housing preservation and develop
 
 
 
-*§ 28-212.4.2 Mailing to billing address. * ::
+
+
+*§ 28-212.4.2 Mailing to billing address.* ::
 
 
 To the person designated as owner of the building or designated to receive real property tax or water bills for the building at the address for such person contained in one of the files compiled by the department of finance for the purpose of the assessment or collection of real property taxes and water charges or in the file compiled by the department of finance from real property transfer forms filed with the city register upon the sale or transfer of real property; or
@@ -5680,7 +6570,9 @@ To the person designated as owner of the building or designated to receive real 
 
 
 
-*§ 28-212.4.3 Mailing to recorded address. * ::
+
+
+*§ 28-212.4.3 Mailing to recorded address.* ::
 
 
 To the person in whose name the real estate affected by the order of the commissioner is recorded in the office of the city register or the county clerk as the case may be at the address set forth on the recorded instrument.
@@ -5688,7 +6580,9 @@ To the person in whose name the real estate affected by the order of the commiss
 
 
 
-*§ 28-212.4.4 Service on corporate owner. * ::
+
+
+*§ 28-212.4.4 Service on corporate owner.* ::
 
 
 Service may be made on an owner that is a corporation pursuant to section 306 of the business corporation law; however, service upon a corporation shall be deemed to have been completed 45 days following service upon the secretary of state.
@@ -5696,7 +6590,9 @@ Service may be made on an owner that is a corporation pursuant to section 306 of
 
 
 
-*§ 28-212.4.5 Service on mortgagees. * ::
+
+
+*§ 28-212.4.5 Service on mortgagees.* ::
 
 
 Service may be made upon mortgagees of record by mailing such notice to the mortgagees at the address set forth on the recorded instrument.
@@ -5704,7 +6600,9 @@ Service may be made upon mortgagees of record by mailing such notice to the mort
 
 
 
-*§ 28-212.4.6 Service on occupants. * ::
+
+
+*§ 28-212.4.6 Service on occupants.* ::
 
 
 Service may be made upon an occupant by delivering such notice to the occupant or to a person employed by the occupant to work at or to manage or maintain the premises at which the nuisance is located; or by affixing such notice to the premises at which the nuisance is located in a conspicuous place or by placing a copy under the entrance door of such premises and mailing a copy of such notice to the occupant at such premises; and in all instances except personal delivery upon such occupant, by mailing the notice of hearing to the occupant at the premises at which the nuisance is located.
@@ -5712,7 +6610,9 @@ Service may be made upon an occupant by delivering such notice to the occupant o
 
 
 
-*§ 28-212.4.7 Proof of service. * ::
+
+
+*§ 28-212.4.7 Proof of service.* ::
 
 
 Proof of service pursuant to section 28-212.4.1 through 28-212.4.6 shall be filed with the commissioner.
@@ -5720,7 +6620,9 @@ Proof of service pursuant to section 28-212.4.1 through 28-212.4.6 shall be file
 
 
 
-*§ 28-212.5 Conduct of hearing by office of administrative trials and hearings. * ::
+
+
+*§ 28-212.5 Conduct of hearing by office of administrative trials and hearings.* ::
 
 
 The hearing shall be conducted by the office of administrative trials and hearings. The administrative law judge assigned to hear the matter shall submit his or her proposed findings of fact and recommended decision to the commissioner. If based on such recommended decision, proposed findings of fact, and the record of the hearing the commissioner determines that the building or part thereof or vacant land is a public nuisance, pursuant to this article, the commissioner may issue an order of closure. Such order shall not bar legally required ingress or egress for residential occupancy of parts of the building that are not subject to the order of closure.
@@ -5728,7 +6630,9 @@ The hearing shall be conducted by the office of administrative trials and hearin
 
 
 
-*§ 28-212.6 Lack of knowledge not a defense. * ::
+
+
+*§ 28-212.6 Lack of knowledge not a defense.* ::
 
 
 At such hearing it shall not be a defense that the owner, occupant, lessor, lessee, mortgagee, or other person having an interest in the property lacked knowledge of or did not acquiesce or participate in the creation or continuation of the public nuisance.
@@ -5736,7 +6640,9 @@ At such hearing it shall not be a defense that the owner, occupant, lessor, less
 
 
 
-*§ 28-212.7 Closure not an act of possession. * ::
+
+
+*§ 28-212.7 Closure not an act of possession.* ::
 
 
 A closure ordered by the commissioner pursuant to this article shall not constitute an act of possession, ownership, or control by the city over the closed premises.
@@ -5744,7 +6650,9 @@ A closure ordered by the commissioner pursuant to this article shall not constit
 
 
 
-*§ 28-212.8 Posting of order of closure. * ::
+
+
+*§ 28-212.8 Posting of order of closure.* ::
 
 
 An order of closure shall be posted at the building or part thereof or vacant land that is the subject of such order, and shall be mailed to the record owner of such premises, and any record mortgagee at the address for such person set forth in the recorded instrument, and to the person designated as owner or agent of the building or designated to receive real property tax or water bills for the building at the address for such person contained in one of the files compiled by the department of finance for the purpose of the assessment or collection of real property taxes and water charges or in the file compiled by the department of finance from real property transfer forms filed with the city register upon the sale or transfer of real property. A copy shall also be filed with county clerk or register of the county in which such premises are located. Such filing shall be notice of the order to any subsequent owner and such owner shall be subject to such order.
@@ -5752,7 +6660,9 @@ An order of closure shall be posted at the building or part thereof or vacant la
 
 
 
-*§ 28-212.9 Enforcement of order of closure. * ::
+
+
+*§ 28-212.9 Enforcement of order of closure.* ::
 
 
 On the tenth business day after the posting of such order and upon the written directive of the commissioner, police officers and authorized employees of the department shall act upon and enforce such order by sealing, padlocking, or otherwise preventing access to the premises in a manner that will not bar legally required ingress or egress for residential occupancy of parts of the building that are not subject to the closure order.
@@ -5760,7 +6670,9 @@ On the tenth business day after the posting of such order and upon the written d
 
 
 
-*§ 28-212.10 Rescission of order of closure. * ::
+
+
+*§ 28-212.10 Rescission of order of closure.* ::
 
 
 If at any time after the issuance of such order, the owner, mortgagee, or other person having an interest in the property provides assurance, in a form satisfactory to the commissioner, that the illegal commercial or manufacturing use of the premises has been discontinued and will not reoccur, or such owner, mortgagee, or other person establishes that the premises may be lawfully occupied for such use, the commissioner shall rescind the closure order. If such order is rescinded, the commissioner shall, upon request of such owner, mortgagee, or other person, provide a copy of such rescission, which may be filed with the county clerk or register of the county in which such premises are located. No such re-occupancy shall be permitted without a certificate of occupancy authorizing such use.
@@ -5768,7 +6680,9 @@ If at any time after the issuance of such order, the owner, mortgagee, or other 
 
 
 
-*§ 28-212.11 Violation of closure order. * ::
+
+
+*§ 28-212.11 Violation of closure order.* ::
 
 
 It shall be unlawful for any person to use or occupy or to permit any other person to use or occupy any building or part thereof or vacant land that has been sealed, padlocked, or otherwise closed pursuant to an order of the commissioner. It shall be unlawful to mutilate or remove a posted order of the commissioner. Intentional disobedience or violation of any provision of a closure order shall be punishable as an immediately hazardous violation.
@@ -5779,7 +6693,9 @@ It shall be unlawful for any person to use or occupy or to permit any other pers
 
 **Article 213: Penalty for Work Without A Permit**
 
-*§ 28-213.1 Department penalty for work without a permit. * ::
+
+
+*§ 28-213.1 Department penalty for work without a permit.* ::
 
 
 In addition to any penalties otherwise authorized by law pursuant to article 202 and the rules of the department, whenever any work for which a permit is required pursuant to this code has been performed without a permit, a penalty shall be imposed by the department as provided in this article.
@@ -5787,7 +6703,9 @@ In addition to any penalties otherwise authorized by law pursuant to article 202
 
 
 
-*§ 28-213.1.1 Penalty for work without permit on one or two-family dwelling. * ::
+
+
+*§ 28-213.1.1 Penalty for work without permit on one or two-family dwelling.* ::
 
 
 Where work has been performed without a permit on a one-family or two-family dwelling the penalty shall equal six times the amount of the fee payable for the permit. Where only part of the work has been performed without a permit, the penalty shall be reduced proportionately according to the amount of work still to be performed at the time a permit is issued. Notwithstanding the foregoing, no such penalty shall be less than $600, nor more than $10,000.
@@ -5797,7 +6715,9 @@ Where work has been performed without a permit on a one-family or two-family dwe
 
 
 
-*§ 28-213.1.2 Penalty for work without permit on other than one or two-family dwelling. * ::
+
+
+*§ 28-213.1.2 Penalty for work without permit on other than one or two-family dwelling.* ::
 
 
 The penalty for work without a permit on buildings other than one or two-family dwellings shall be 21 times the amount of the fee payable for such permit. Where only part of the work has been performed without a permit, the penalty shall be reduced proportionately according to the amount of work still to be performed at the time a permit is issued. Notwithstanding the foregoing, no such penalty shall be less than $6,000, nor more than $15,000.
@@ -5807,7 +6727,9 @@ The penalty for work without a permit on buildings other than one or two-family 
 
 
 
-*§ 28-213.2 Waiver. * ::
+
+
+*§ 28-213.2 Waiver.* ::
 
 
 Such penalty and the permit fee shall be payable by the owner of the building on which the unpermitted work was performed. A waiver or reduction of such penalty shall be available to a subsequent bona fide purchaser of the premises pursuant to department rules.
@@ -5815,7 +6737,9 @@ Such penalty and the permit fee shall be payable by the owner of the building on
 
 
 
-*§ 28-213.3 Payment of penalty required before issuance of permit. * ::
+
+
+*§ 28-213.3 Payment of penalty required before issuance of permit.* ::
 
 
 No permit shall be issued for work described in this article until the penalty assessed by the department pursuant to this article has been paid.
@@ -5823,10 +6747,14 @@ No permit shall be issued for work described in this article until the penalty a
 
 
 
-*§ 28-213.4 Procedure. * ::
+
+
+*§ 28-213.4 Procedure.* ::
 
 
 The department shall adopt a rule setting forth a procedure for assessment of penalties pursuant to this article.
+
+
 
 
 
@@ -5835,6 +6763,8 @@ The department shall adopt a rule setting forth a procedure for assessment of pe
 
 
 The department shall compile and maintain a watch list of contractors who have been found to have performed work without a required permit in the preceding two years.
+
+
 
 
 
@@ -5851,10 +6781,14 @@ At any site where a contractor that is included on the watch list created pursua
 
 
 
+
+
 *§ 28-213.5.2 Exemption.* ::
 
 
 Any work performed by a contractor that is wholly or partially exempt from a civil penalty for work performed without a permit pursuant to a rule of the department shall not be considered in determining whether the contractor is to be included on the watch list created pursuant to section 28-213.5.
+
+
 
 
 
@@ -5874,7 +6808,9 @@ The department shall remove from the watch list created pursuant to section 28-2
 
 **Article 214: Order to Seal, Secure and Close**
 
-*§ 28-214.1 Order to seal, secure and close. * ::
+
+
+*§ 28-214.1 Order to seal, secure and close.* ::
 
 
 If the commissioner determines such action is necessary to the preservation of life and safety the commissioner may order a building subject to a vacate order to be sealed, secured and closed, except that the commissioner shall not order sealed, secured and closed any dwelling unit or other space lawfully used for residential purposes unless such dwelling unit or other space is sealed pursuant to the provisions of article 216.
@@ -5882,7 +6818,9 @@ If the commissioner determines such action is necessary to the preservation of l
 
 
 
-*§ 28-214.1.1 Definition. * ::
+
+
+*§ 28-214.1.1 Definition.* ::
 
 
 For the purpose of this article, "sealed" and "sealed, secured and closed" shall mean the use of any means available to render the building, structure or part thereof inaccessible, including but not limited to the use of a padlock or cinder blocks.
@@ -5890,7 +6828,9 @@ For the purpose of this article, "sealed" and "sealed, secured and closed" shall
 
 
 
-*§ 28-214.1.2 Hearing. * ::
+
+
+*§ 28-214.1.2 Hearing.* ::
 
 
 Such order to seal, secure and close shall contain notice of the opportunity for a hearing with respect to such order to determine if the order was properly issued in accordance with the provisions of this article. Such hearing shall be conducted by the commissioner, or in the commissioner's discretion, by the office of administrative trials and hearings or the environmental control board. If the matter is referred to such office or board, the hearing officer shall submit his or her findings of fact and a recommended decision to the commissioner. The hearing shall be held within three business days after the receipt of the written request of an owner, lessor, lessee, or mortgagee for such hearing. The commissioner shall render a decision within three business days after such hearing is concluded or findings of fact and a recommendation are submitted.
@@ -5898,7 +6838,9 @@ Such order to seal, secure and close shall contain notice of the opportunity for
 
 
 
-*§ 28-214.1.3 Service of seal, secure and close order. * ::
+
+
+*§ 28-214.1.3 Service of seal, secure and close order.* ::
 
 
 Such order issued pursuant to this article shall be served as follows: It shall be mailed to the record owner of such premises; any record mortgagee of such premises at the address for such person as set forth in the recorded instrument; and if reasonably ascertainable, the person designated as owner's agent of the building or designated to receive real property tax or water bills for the building at the address for such person contained in one of the files compiled by the department of finance for the purpose of the assessment or collection of real property taxes and water charges or in the file compiled by the department of finance from real property transfer forms filed with the city register upon the sale or transfer of real property. A copy shall also be filed with the county clerk of the county in which such premises is located. Such filing shall be notice of the order to any subsequent owner and such owner shall be subject to such order.
@@ -5906,7 +6848,9 @@ Such order issued pursuant to this article shall be served as follows: It shall 
 
 
 
-*§ 28-214.1.4 Rescission of seal, secure and close order. * ::
+
+
+*§ 28-214.1.4 Rescission of seal, secure and close order.* ::
 
 
 An order issued pursuant to this article shall not be rescinded unless the owner, lessor, lessee or mortgagee seeking such rescission provides assurance, in a form satisfactory to the commissioner, that the conditions that caused the issuance of such order have been corrected and will not reoccur. If such order is rescinded, upon the request of the owner, lessor, lessee or mortgagee, the commissioner shall provide a certified copy of such rescission, which may be filed with the county clerk of the county in which such premises is located.
@@ -5914,7 +6858,9 @@ An order issued pursuant to this article shall not be rescinded unless the owner
 
 
 
-*§ 28-214.1.5 Expenses of enforcing seal, secure and close orders. * ::
+
+
+*§ 28-214.1.5 Expenses of enforcing seal, secure and close orders.* ::
 
 
 The expenses attending the execution of any and all orders duly made by the department shall respectively be a several and joint personal charge against each of the owners or part owners, and each of the lessees and occupants of the building, structure, enclosure, place or premises to which such order relates, and in respect to which such expenses were incurred; and also against every person or body who was by law or contract bound to do that in regard to such building, structure, enclosure, place or premises which such order requires. Such expenses shall also be a lien on all rent and compensation due, or to become due, for the use of any building, structure, place or premises, or any part thereof, to which such order relates, and in respect to which such expenses were incurred.
@@ -5922,7 +6868,9 @@ The expenses attending the execution of any and all orders duly made by the depa
 
 
 
-*§ 28-214.1.6 Notice of seal, secure and close order to community. * ::
+
+
+*§ 28-214.1.6 Notice of seal, secure and close order to community.* ::
 
 
 The commissioner shall give written notice of the closing of any building, structure, enclosure, place or premises pursuant to this article, and any subsequent actions taken with respect thereto, as soon as practicable, to the borough president of the borough within which the closing has occurred; the council member representing the district within which the closing has occurred; and the local community board. On January first of each year, the commissioner shall submit a report to the council, setting forth the number of closings made in the previous year, the locations of such closings, and the nature and use of the premises closed. The commissioner shall, in addition, as soon as practicable after a building, structure, enclosure, place or premises has been closed, make and publish a report of said closing in a manner calculated to quickly notify the local community in which such closing occurred. The commissioner shall also make and publish a report of any premises reopened pursuant to his or her permission under this article. Failure to comply with this section 28-214.1.6 shall not invalidate any action taken by the commissioner pursuant to this article.
@@ -5930,7 +6878,9 @@ The commissioner shall give written notice of the closing of any building, struc
 
 
 
-*§ 28-214.2 Access to sealed premises. * ::
+
+
+*§ 28-214.2 Access to sealed premises.* ::
 
 
 The commissioner shall allow access to the premises sealed, secured and closed pursuant to this article to an owner, or a lessor, lessee or mortgagee upon the following conditions:
@@ -5946,7 +6896,9 @@ The commissioner shall allow access to the premises sealed, secured and closed p
 
 
 
-*§ 28-214.3 Additional penalties for harm or injury from violation of order to seal, secure and close. * ::
+
+
+*§ 28-214.3 Additional penalties for harm or injury from violation of order to seal, secure and close.* ::
 
 
 Notwithstanding any other law, rule, or regulation, any person, corporation, partnership, association or any other legal entity who permits a building, structure, enclosure, place or premises, or any part thereof, to be unlawfully occupied or used in contravention of an order of the commissioner pursuant to this article, or who negligently fails to prevent or prohibit such unlawful occupancy or use, shall be liable for a civil penalty of not more than one million dollars, if any other person suffers serious physical injury, as defined in section ten of the penal law, or death in the building, structure, place or premises or any part thereof subject to such order as a result of such unlawful occupancy or use. If more than one person suffers serious physical injury or death, such penalty shall be recoverable for each person suffering serious physical injury or death. Such penalty shall be recovered in a civil action brought by the corporation counsel in the name of the city in any court of competent jurisdiction. In determining the amount of the civil penalty to be imposed the court shall consider:
@@ -5964,7 +6916,9 @@ Notwithstanding any other law, rule, or regulation, any person, corporation, par
 
 
 
-*§ 28-214.3.1 Payment by city. * ::
+
+
+*§ 28-214.3.1 Payment by city.* ::
 
 
 In the event that the family of any person seriously injured or who has died as the result of any unlawful occupancy or use described in this section 28-214.3 is unable to collect a judgment recovered in a civil action for personal injury or wrongful death against a defendant who has violated this section 28-214.3 because of the insolvency of such defendant, the city may, in its discretion, pay to such injured person or the family of such deceased person an amount, as hereinafter provided, collected from such defendant in an action relating to the same injury or death commenced by the corporation counsel against such defendant pursuant to this section 28-214.3.1.
@@ -5972,7 +6926,9 @@ In the event that the family of any person seriously injured or who has died as 
 
 
 
-*§ 28-214.3.2 Limitations. * ::
+
+
+*§ 28-214.3.2 Limitations.* ::
 
 
 Payments pursuant to section 28-214.3.1 shall be made as a matter of grace and shall be in such amounts and in accordance with such standards and procedures as shall be established by the mayor, provided, however, that any payment made pursuant to section 28-214.3.1 shall be in an amount not exceeding out-of-pocket expenses, including indebtedness reasonably incurred for medical or other services necessary as a result of the injury upon which such action is based; loss of earnings or support resulting from such injury; burial expenses not exceeding two thousand five hundred dollars of a person who died as a result of such unlawful occupancy or use described in this section 28-214.3; and the unreimbursed cost of repair or replacement of articles of essential personal property lost, damaged or destroyed as a direct result of such unlawful occupancy or use. In no event shall the payment made to any person exceed the amount of such person's uncollected judgment for personal injury or wrongful death and in no event shall the total amount paid to any number of persons with such uncollected judgments against a single defendant exceed the actual amount collected by the city from such defendant in an action under this subdivision.
@@ -5983,7 +6939,9 @@ Payments pursuant to section 28-214.3.1 shall be made as a matter of grace and s
 
 **Article 215: Emergency Powers of the Commissioner**
 
-*§ 28-215.1 Emergency work. * ::
+
+
+*§ 28-215.1 Emergency work.* ::
 
 
 Notwithstanding any other provisions of law, if the commissioner determines that a structure or any part thereof is in imminent danger of collapse and the exigency of the situation is such that any delay may cause further danger to the public safety, then the commissioner may direct the commissioner of housing preservation and development or the department of citywide administrative services, or other city agency to perform or arrange the performance of the emergency demolition of such structure or part thereof or such other work as deemed by the commissioner to make it safe.
@@ -5991,7 +6949,9 @@ Notwithstanding any other provisions of law, if the commissioner determines that
 
 
 
-*§ 28-215.1.1 Lien for emergency work. * ::
+
+
+*§ 28-215.1.1 Lien for emergency work.* ::
 
 
 The expenses of the city in performing emergency work on any structure or part of such structure pursuant to this article shall constitute a debt recoverable from the owner and a lien upon the land and any part of such structure that was not demolished. Every such lien shall have priority over all other liens and encumbrances on the premises except for the lien of taxes and assessments. Except as otherwise provided by rule of the affected agency, the agency incurring such expense shall be governed by the procedures set forth in article eight of subchapter five of the housing maintenance code with respect to the enforcement of such debt and lien against all types of structures, including those authorized to be occupied or otherwise occupied for residential, commercial, and manufacturing purposes.
@@ -5999,7 +6959,9 @@ The expenses of the city in performing emergency work on any structure or part o
 
 
 
-*§ 28-215.2 Stopping work and securing structures. * ::
+
+
+*§ 28-215.2 Stopping work and securing structures.* ::
 
 
 See section 28-207.2.
@@ -6007,7 +6969,9 @@ See section 28-207.2.
 
 
 
-*§ 28-215.3 Vacating structures. * ::
+
+
+*§ 28-215.3 Vacating structures.* ::
 
 
 See section 28-207.4.
@@ -6015,7 +6979,9 @@ See section 28-207.4.
 
 
 
-*§ 28-215.4 Violations of protective measures during construction or demolition. * ::
+
+
+*§ 28-215.4 Violations of protective measures during construction or demolition.* ::
 
 
 During the construction or demolition of a structure, the commissioner shall notify the owner of the structure affected of any failure to comply with any of the provisions of this code that concern the protection of the public and workers during construction or demolition. Unless the owner so notified proceeds immediately to comply with the orders of the commissioner, the commissioner shall have full power to correct the violation. All expenses incurred therefore shall become a lien on the property pursuant to section 28-112.9.
@@ -6023,7 +6989,9 @@ During the construction or demolition of a structure, the commissioner shall not
 
 
 
-*§ 28-215.5 Investigation of accidents or other emergency conditions. * ::
+
+
+*§ 28-215.5 Investigation of accidents or other emergency conditions.* ::
 
 
 When necessary to conduct an investigation of any occurrence affecting building or construction safety, the commissioner may seize or impound equipment, building material, and portions of the affected building or premises for examination and testing. The police department or other authorized law enforcement agency shall cooperate with the commissioner upon request and shall provide a suitable place for the deposit of such items.
@@ -6031,7 +6999,9 @@ When necessary to conduct an investigation of any occurrence affecting building 
 
 
 
-*§ 28-215.6 Closing streets temporarily. * ::
+
+
+*§ 28-215.6 Closing streets temporarily.* ::
 
 
 The commissioner may, when necessary for the public safety, temporarily close the sidewalks, streets, structures or places adjacent to a structure or part thereof, and the police commissioner, or any of his or her subordinates shall enforce all orders or requirements made by the commissioner, when so requested by the commissioner.
@@ -6039,7 +7009,9 @@ The commissioner may, when necessary for the public safety, temporarily close th
 
 
 
-*§ 28-215.7 Recovery of bodies from wrecked structures. * ::
+
+
+*§ 28-215.7 Recovery of bodies from wrecked structures.* ::
 
 
 Where any persons are known or believed to be buried under the ruins of any fallen structure or part thereof in the city, the commissioner shall cause an examination of the premises to be made for the recovery of the injured and bodies of the dead. Whenever, in making such examination, it shall be necessary to remove any debris from the premises, other city agencies shall cooperate with the commissioner in carrying out the purposes of this section 28-215.7, and shall provide suitable and convenient places for the deposit of such debris.
@@ -6047,7 +7019,9 @@ Where any persons are known or believed to be buried under the ruins of any fall
 
 
 
-*§ 28-215.8 Non-compliance with orders; execution of work by department. * ::
+
+
+*§ 28-215.8 Non-compliance with orders; execution of work by department.* ::
 
 
 Upon the failure to comply with any order of the commissioner within the time limited thereby, and subject to the provisions of article 216, any work required to be executed by such order may be executed by the commissioner through the officers, agents or contractors of the department; and the city shall be reimbursed promptly for all costs and expenses of such work. Such costs and expenses shall become a lien upon the premises involved and named in the commissioner's order, which may be enforced in accordance with the provisions of section 28-112.9 of this code.
@@ -6058,10 +7032,14 @@ Upon the failure to comply with any order of the commissioner within the time li
 
 **Article 216: Unsafe Buildings**
 
+
+
 *§ 28-216.1 Conditions constituting an unsafe building or structure.* ::
 
 
 Any building, structure or part thereof described in this article shall be deemed an unsafe building and shall be demolished or removed or made safe and secure as provided herein.
+
+
 
 
 
@@ -6074,10 +7052,14 @@ The department shall cause a report to be filed on an unsafe building, structure
 
 
 
+
+
 *§ 28-216.3 Notice of survey and summons and order.* ::
 
 
 The owner, executor, administrator, mortgagee, lessee or any other person who may have a recorded vested or recorded contingent interest in the unsafe building, structure or premises, shall be served with a notice of survey and summons containing a description of the unsafe building, structure or premises and an order requiring such building be sealed, secured, repaired, shored, or demolished and removed as may be deemed necessary by the commissioner.
+
+
 
 
 
@@ -6090,10 +7072,14 @@ The notice of survey and summons and order shall be served in accordance with th
 
 
 
+
+
 *§ 28-216.5 Owner abatement of unsafe or dangerous conditions.* ::
 
 
 If the person served with a notice and order pursuant to section 28-216.4 shall immediately certify his or her assent to the securing or removal of such unsafe building, structure or premises condition, such person shall be allowed a period of time as determined by the commissioner, or his or her designee, within which to commence and complete the abatement of the unsafe or dangerous condition. Such person shall employ sufficient labor and assistance to secure or remove such conditions as expeditiously as possible.
+
+
 
 
 
@@ -6106,10 +7092,14 @@ A survey of the building or premises shall be conducted as follows:
 
 
 
+
+
 *§ 28-216.7 Court proceeding.* ::
 
 
 Whenever the report of survey shall recite that the building, structure or premises surveyed is unsafe or dangerous, the corporation counsel or his or her designee shall, at the time specified in the notice, place such notice and report before a justice of the court named in the notice. The report of survey shall be in writing and constitute the issues to be placed before the court for trial. The purpose of the trial shall be to determine whether the unsafe building, structure, or premises shall be vacated and seal ed, secured, shored, or demolished and removed.
+
+
 
 
 
@@ -6122,6 +7112,8 @@ A precept issued pursuant to section 28-216.7.2 shall be executed in accordance 
 
 
 
+
+
 *§ 28-216.9 Return of precept and reimbursement of city.* ::
 
 
@@ -6130,10 +7122,14 @@ Upon compliance with any precept issued to the commissioner in a proceeding unde
 
 
 
+
+
 *§ 28-216.10 Judgment lien.* ::
 
 
 Any judgment rendered in an action or proceeding instituted under this article shall be and become a lien upon the premises named in such action or proceeding, such lien to date from the time of filing a notice of pendency in the office of the clerk of the county wherein the property affected by such action or proceeding, is located. Every such lien shall have priority before any mortgage or other lien as may exist prior to such filing except tax and assessment liens.
+
+
 
 
 
@@ -6149,6 +7145,8 @@ Any costs and expenses incurred by any agency of the city pursuant to this artic
 
 **Article 217: Buildings and Structures That Are Potentially Compromised**
 
+
+
 *§ 28-217.1 Buildings and structures that are potentially structurally compromised.* ::
 
 
@@ -6160,10 +7158,14 @@ For purposes of this article "potentially compromised" shall include a building 
 
 **Article 218: Safety Compliance Officer**
 
+
+
 *§ 28-218.1 Definition.* ::
 
 
 For purposes of this article, the terms "Safety Compliance Officer" and "SCO" shall mean a person whose presence is required by the commissioner pursuant to section 28-218.2 and who satisfies the qualifications of section 28-218.4.
+
+
 
 
 
@@ -6176,10 +7178,14 @@ In addition to any other remedies or penalties authorized by law, the commission
 
 
 
+
+
 *§ 28-218.3 Compliance monitoring.* ::
 
 
 The SCO shall monitor the operations related to the circumstances and conditions that the commissioner has identified pursuant to section 28-218.2 until the areas of concern set forth by the commissioner have been addressed as determined by the commissioner, but in no case shall any monitoring period exceed ninety days. For such purpose, the SCO and his or her employees shall be designated as authorized representatives of the commissioner with authority pursuant to section 28-103.13 of this code to enter upon and examine and inspect at all reasonable times any site, building or structure. In the event that the conditions set out in the commissioner's determination, pursuant to section 28-218.2, to require a SCO have not been satisfied within the prescribed monitoring period, the commissioner may appoint another SCO, who shall be a different SCO than the initial SCO, to monitor operations for an additional period not to exceed ninety days.
+
+
 
 
 
@@ -6192,6 +7198,8 @@ Safety Compliance Officers shall have experience in supervising the construction
 
 
 
+
+
 *§ 28-218.5 Cost of a Safety Compliance Officer.* ::
 
 
@@ -6200,10 +7208,14 @@ The owner of the site where the services of the SCO have been required shall rei
 
 
 
+
+
 *§ 28-218.6 The SCO shall document with photographs or other means any violation of the code.* ::
 
 
 The SCO shall submit an interim report, to be submitted at the midpoint of the appointment period, and a final report to the department in the manner and form prescribed by the commissioner. The department will share the results of these reports with the general contractor and provide the general contractor an opportunity to comment.
+
+
 
 
 
@@ -6219,10 +7231,14 @@ The SCO shall keep and maintain records relating to the services performed on be
 
 **Article 219: Failure to Certify Correction of Certain Immediately Hazardous Violations**
 
+
+
 *§ 28-219.1 Department penalty for failure to certify correction.* ::
 
 
 In addition to any penalties otherwise authorized by law pursuant to article 202 and the rules of the department, whenever any person fails to submit certification of correction of an immediately hazardous violation that poses a threat of imminent danger to public safety or property, as required by an order issued pursuant to section 28-204.2, a penalty shall be paid to the department in the amount of not less than one thousand five hundred dollars or more than five thousand dollars. No permit or certificate of occupancy shall be issued and no stop work order may be rescinded at the property named in the order until such penalty is paid to the department. Failure to pay such penalty shall not prevent the issuance of a permit for work to be performed pursuant to articles 215 or 216 of this chapter.
+
+
 
 
 
@@ -6241,10 +7257,14 @@ Where an immediately hazardous condition has been identified as posing a threat 
 
 
 
+
+
 *§ 28-219.3 False certifications of correction.* ::
 
 
 It shall be unlawful to prepare, file or offer for filing a certification of correction of an immediately hazardous condition, knowing that such certification contains a false statement or false information. Any person who prepares such a certificate shall be subject to prosecution under section 175.05 or 175.10 of the penal law. Any person who files such a certificate or offers such a certificate for filing shall be subject to prosecution under section 175.30 or 175.35 of the penal law. Nothing in this section shall be construed to limit, alter or affect the authority conferred by any other provision of this chapter or other law to bring criminal, civil or administrative actions or proceedings or other remedies for the preparation, filing or offering for filing of a certification of correction of an immediately hazardous condition containing a false statement or false information.
+
+
 
 
 
@@ -6271,7 +7291,9 @@ Chapter 3: Maintenance of Buildings
 
 **Article 301: General**
 
-*§ 28-301.1 Owner's responsibilities. * ::
+
+
+*§ 28-301.1 Owner's responsibilities.* ::
 
 
 All buildings and all parts thereof and all other structures shall be maintained in a safe condition. All service equipment, means of egress, materials, devices, and safeguards that are required in a building by the provisions of this code, the 1968 building code or other applicable laws or rules, or that were required by law when the building was erected, altered, or repaired, shall be maintained in good working condition. Whenever persons engaged in building operations have reason to believe in the course of such operations that any building or other structure is dangerous or unsafe, such person shall forthwith report such belief in writing to the department. The owner shall be responsible at all times to maintain the building and its facilities and all other structures regulated by this code in a safe and code-compliant manner and shall comply with the inspection and maintenance requirements of this chapter.
@@ -6279,7 +7301,9 @@ All buildings and all parts thereof and all other structures shall be maintained
 
 
 
-*§ 28-301.2 Filing of reports in writing or electronically. * ::
+
+
+*§ 28-301.2 Filing of reports in writing or electronically.* ::
 
 
 Reports required to be filed under this chapter shall be filed in writing or electronically as the commissioner may require.
@@ -6290,7 +7314,9 @@ Reports required to be filed under this chapter shall be filed in writing or ele
 
 **Article 302: Maintenance of Exterior Walls**
 
-*§ 28-302.1 General. * ::
+
+
+*§ 28-302.1 General.* ::
 
 
 A building's exterior walls and appurtenances thereof shall be maintained in a safe condition. All buildings greater than six stories shall comply with the maintenance requirement of this article.
@@ -6300,7 +7326,9 @@ Exception: The requirements imposed by this article shall not apply to any part 
 
 
 
-*§ 28-302.2 Inspection requirements. * ::
+
+
+*§ 28-302.2 Inspection requirements.* ::
 
 
 A critical examination of a building's exterior walls and appurtenances thereof shall be conducted at periodic intervals as set forth by rule of the commissioner, but such examination shall be conducted at least once every five years. No later than January 1, 2009 the commissioner shall by rule establish staggered inspection cycles for buildings required to comply with this section. The initial examination for a new building shall be conducted in the fifth year following the erection or installation of any exterior wall and/or appurtenances as evidenced by the issuance date of a temporary or final certificate of occupancy or as otherwise prescribed by rule.
@@ -6314,7 +7342,9 @@ A critical examination of a building's exterior walls and appurtenances thereof 
 
 
 
-*§ 28-302.3 Immediate notice of unsafe condition. * ::
+
+
+*§ 28-302.3 Immediate notice of unsafe condition.* ::
 
 
 Whenever a registered design professional learns of an unsafe condition through a critical examination of a building's exterior walls and appurtenances thereof, such person shall notify the owner and the department immediately in writing of such condition.
@@ -6322,7 +7352,9 @@ Whenever a registered design professional learns of an unsafe condition through 
 
 
 
-*§ 28-302.4 Report of critical examination. * ::
+
+
+*§ 28-302.4 Report of critical examination.* ::
 
 
 The registered design professional shall submit a written report to the commissioner within 60 days of completing the critical examination, but not more than five years following submission of the preceding report of critical examination, certifying the results of such critical examination as either safe, unsafe or safe with a repair and maintenance program. The report shall clearly document the condition of the exterior walls and appurtenances thereof and shall include a record of all significant deterioration, unsafe conditions and movement observed as well as a statement concerning the watertightness of the exterior surfaces. Such report must be professionally certified by such registered design professional.
@@ -6330,7 +7362,9 @@ The registered design professional shall submit a written report to the commissi
 
 
 
-*§ 28-302.5 Repair of exterior walls, unsafe condition. * ::
+
+
+*§ 28-302.5 Repair of exterior walls, unsafe condition.* ::
 
 
 Upon the notification to the department of an unsafe condition, the owner, the owner's agent or the person in charge shall immediately commence such repairs, reinforcements or other measures as may be required to secure public safety and to make the building's exterior walls or appurtenances thereof conform to the provisions of this code.
@@ -6346,7 +7380,9 @@ Upon the notification to the department of an unsafe condition, the owner, the o
 
 
 
-*§ 28-302.6 Safe condition with a repair and maintenance program. * ::
+
+
+*§ 28-302.6 Safe condition with a repair and maintenance program.* ::
 
 
 The registered design professional shall not file a report of a safe condition with a repair and maintenance program for the same building for two consecutive filing periods unless the second such report is accompanied by his or her professional certification attesting to the correction of all conditions identified in the prior report as requiring repair.
@@ -6357,7 +7393,9 @@ The registered design professional shall not file a report of a safe condition w
 
 **Article 303: Periodic Boiler Inspections**
 
-*§ 28-303.1 General. * ::
+
+
+*§ 28-303.1 General.* ::
 
 
 Periodic boiler inspections shall be performed in accordance with this article.
@@ -6365,7 +7403,9 @@ Periodic boiler inspections shall be performed in accordance with this article.
 
 
 
-*§ 28-303.2 Annual inspections. * ::
+
+
+*§ 28-303.2 Annual inspections.* ::
 
 
 Except as otherwise provided in this article, each owner of a boiler, as defined in section 204 of the New York state labor law, excepting those boilers listed in subdivision five of such section of such labor law, shall have such boiler inspected at least once a year in accordance with this article. All individuals who perform periodic inspections pursuant to this article shall be qualified under section 204 of the New York state labor law and the rules promulgated by the commissioner of labor or the commissioner of buildings.
@@ -6373,7 +7413,9 @@ Except as otherwise provided in this article, each owner of a boiler, as defined
 
 
 
-*§ 28-303.2.1 Internal inspection required. * ::
+
+
+*§ 28-303.2.1 Internal inspection required.* ::
 
 
 All high pressure boilers shall have an annual internal inspection performed in accordance with section 204 of New York State Labor Law and the rules of the department. Where construction of a low pressure boiler allows, an internal inspection shall be performed on a periodic schedule in accordance with section 204 of the New York State Labor Law and the rules of the department.
@@ -6381,7 +7423,9 @@ All high pressure boilers shall have an annual internal inspection performed in 
 
 
 
-*§ 28-303.2.2 External inspection required. * ::
+
+
+*§ 28-303.2.2 External inspection required.* ::
 
 
 All high and low pressure boilers shall have an annual external inspection performed in accordance with section 204 of New York State Labor Law and the rules of the department. Such inspection shall include chimney connectors.
@@ -6389,7 +7433,9 @@ All high and low pressure boilers shall have an annual external inspection perfo
 
 
 
-*§ 28-303.3 Qualifications of boiler inspectors. * ::
+
+
+*§ 28-303.3 Qualifications of boiler inspectors.* ::
 
 
 All individuals who perform periodic inspections pursuant to this article shall have the qualifications set forth in section 28-303.3.1 or section 28-303.3.2, as applicable.
@@ -6397,7 +7443,9 @@ All individuals who perform periodic inspections pursuant to this article shall 
 
 
 
-*§ 28-303.3.1 High-pressure boilers. * ::
+
+
+*§ 28-303.3.1 High-pressure boilers.* ::
 
 
 Inspections required by section 28-303.2 of a high-pressure boiler must be performed, in accordance with the rules of the department, on behalf of the owner, by boiler inspectors in the employ of a duly authorized insurance company who are qualified in accordance with section 204 of the New York State Labor Law.
@@ -6405,7 +7453,9 @@ Inspections required by section 28-303.2 of a high-pressure boiler must be perfo
 
 
 
-*§ 28-303.3.2 Low-pressure boilers. * ::
+
+
+*§ 28-303.3.2 Low-pressure boilers.* ::
 
 
 Inspections required by Section 28-303.2 of a low-pressure boiler must be performed, in accordance with the rules of the department, on behalf of the owner, by boiler inspectors who are qualified in accordance with section 204 of the New York State Labor law.
@@ -6413,7 +7463,9 @@ Inspections required by Section 28-303.2 of a low-pressure boiler must be perfor
 
 
 
-*§ 28-303.4 Staggered inspection cycles. * ::
+
+
+*§ 28-303.4 Staggered inspection cycles.* ::
 
 
 The commissioner may by rule establish staggered inspection cycles for buildings required to comply with this article.
@@ -6421,7 +7473,9 @@ The commissioner may by rule establish staggered inspection cycles for buildings
 
 
 
-*§ 28-303.5 Repair of defects. * ::
+
+
+*§ 28-303.5 Repair of defects.* ::
 
 
 The owner of each boiler that is subject to periodic inspection shall correct any defects identified in the annual boiler inspection.
@@ -6429,7 +7483,9 @@ The owner of each boiler that is subject to periodic inspection shall correct an
 
 
 
-*§ 28-303.6 Reporting an unsafe or hazardous condition. * ::
+
+
+*§ 28-303.6 Reporting an unsafe or hazardous condition.* ::
 
 
 If an inspection reveals that any boiler is unsafe or hazardous to life and safety, the device is to be immediately taken out of service by the agency performing the inspection and the building owner notified. Such agency shall notify the department of the unsafe or hazardous condition of the boiler within 24 hours after the condition is discovered. Notification to the department may be made by telephone, electronically or in writing.
@@ -6437,7 +7493,9 @@ If an inspection reveals that any boiler is unsafe or hazardous to life and safe
 
 
 
-*§ 28-303.7 Owner's annual boiler inspection report. * ::
+
+
+*§ 28-303.7 Owner's annual boiler inspection report.* ::
 
 
 The owner of each boiler that is subject to inspection pursuant to section 28-303.2 shall file a signed annual report with the commissioner in accordance with the rules of the department within 45 days after the required annual inspection of the boiler has been performed. Extensions of time to file such report may be granted in accordance with the rules of the department. The report shall include, but shall not be limited to:
@@ -6451,7 +7509,9 @@ The owner of each boiler that is subject to inspection pursuant to section 28-30
 
 
 
-*§ 28-303.7.1 Affirmation of correction. * ::
+
+
+*§ 28-303.7.1 Affirmation of correction.* ::
 
 
 The owner must file an affirmation that all defects identified in the annual boiler inspection report have been corrected. Such affirmation must be filed with the department within 120 days after the date of filing of the report.
@@ -6459,7 +7519,9 @@ The owner must file an affirmation that all defects identified in the annual boi
 
 
 
-*§ 28-303.8 Scope of inspection. * ::
+
+
+*§ 28-303.8 Scope of inspection.* ::
 
 
 During required inspection and testing, in addition to any other requirements prescribed by this code or the rules of the department, all parts of the equipment shall be inspected to determine that they are in safe operating condition and that parts subject to wear have not worn to such an extent as to affect the safe and reliable operation of the boiler.
@@ -6467,7 +7529,9 @@ During required inspection and testing, in addition to any other requirements pr
 
 
 
-*§ 28-303.9 Removal or discontinuance notice. * ::
+
+
+*§ 28-303.9 Removal or discontinuance notice.* ::
 
 
 The owner of a boiler that is removed or discontinued from use shall file a written notice of such removal or discontinuance with the commissioner within 30 days of the date of removal or discontinuance.
@@ -6475,7 +7539,9 @@ The owner of a boiler that is removed or discontinued from use shall file a writ
 
 
 
-*§ 28-303.10 Additional inspections. * ::
+
+
+*§ 28-303.10 Additional inspections.* ::
 
 
 In addition to the inspections required by this article, the commissioner may make such additional inspections as required to enforce the provisions of this code.
@@ -6483,7 +7549,9 @@ In addition to the inspections required by this article, the commissioner may ma
 
 
 
-*§ 28-303.11 Fees. * ::
+
+
+*§ 28-303.11 Fees.* ::
 
 
 The owner of each boiler subject to periodic inspection pursuant to this article shall pay to the department an annual fee for each boiler in the amount prescribed by this code to cover the city's administrative and supervisory costs. The fee shall be payable at the time of the filing of the owner's annual boiler inspection report. No fee shall be charged for additional inspections made by the department pursuant to section 28-303.10.
@@ -6494,7 +7562,9 @@ The owner of each boiler subject to periodic inspection pursuant to this article
 
 **Article 304: Elevators and Conveying Systems**
 
-*§ 28-304.1 General. * ::
+
+
+*§ 28-304.1 General.* ::
 
 
 Elevators and conveying systems shall be maintained in a safe condition and in accordance with ASME A17.1, as modified by Appendix K of the New York city building code. Every new and existing elevator or conveying system shall be inspected and tested in accordance with this article.
@@ -6502,7 +7572,9 @@ Elevators and conveying systems shall be maintained in a safe condition and in a
 
 
 
-*§ 28-304.2 Elevators, escalators, moving walkways, material lifts, man lifts and dumbwaiters. * ::
+
+
+*§ 28-304.2 Elevators, escalators, moving walkways, material lifts, man lifts and dumbwaiters.* ::
 
 
 Elevators, escalators, moving walkways, material lifts, man lifts and dumbwaiters shall be inspected and tested in accordance with the schedule set forth in Table N1 of ASME 17.1 as referenced in chapter 35 and as modified in chapter 30 and appendix K of the New York city building code ("Table N1").
@@ -6512,7 +7584,9 @@ Exception: Elevators located in one-family, two-family or multiple-family dwelli
 
 
 
-*§ 28-304.3 Chair lifts , stairway chair lifts and vertical reciprocating conveyors (VRCs). * ::
+
+
+*§ 28-304.3 Chair lifts , stairway chair lifts and vertical reciprocating conveyors (VRCs).* ::
 
 
 Chair lifts , stairway chair lifts and VRCs shall be inspected and tested at intervals not exceeding one year. Inspections and tests shall be performed in accordance with Table N1.
@@ -6520,7 +7594,9 @@ Chair lifts , stairway chair lifts and VRCs shall be inspected and tested at int
 
 
 
-*§ 28-304.4 Amusement devices. * ::
+
+
+*§ 28-304.4 Amusement devices.* ::
 
 
 Amusement devices shall be inspected and tested in accordance with department rules.
@@ -6528,7 +7604,9 @@ Amusement devices shall be inspected and tested in accordance with department ru
 
 
 
-*§ 28-304.5 Frequency of inspection and testing. * ::
+
+
+*§ 28-304.5 Frequency of inspection and testing.* ::
 
 
 Elevators and other conveying systems may be subject to more frequent inspection and testing as the commissioner finds necessary to protect public safety.
@@ -6536,7 +7614,9 @@ Elevators and other conveying systems may be subject to more frequent inspection
 
 
 
-*§ 28-304.6 Inspection and testing process. * ::
+
+
+*§ 28-304.6 Inspection and testing process.* ::
 
 
 All devices shall be inspected and tested in accordance with Table N1 and, where applicable, department rules and with sections 28-304.6.1 through 28-304.6.6.
@@ -6544,7 +7624,9 @@ All devices shall be inspected and tested in accordance with Table N1 and, where
 
 
 
-*§ 28-304.6.1 Inspection and testing entities. * ::
+
+
+*§ 28-304.6.1 Inspection and testing entities.* ::
 
 
 The required periodic inspections in Table N1 shall be made by the department. The other tests and inspections in Table N1 shall be performed on behalf of the owner by an approved agency in accordance with this code and department rules. Where indicated in Table N1, tests and inspections shall be witnessed by an approved agency not affiliated with the agency performing the test. Not affiliated, as used in this section, shall mean the approved agency owners, directors and inspectors shall be independent of all relative approved agencies, maintenance firms or other entities providing any associated services to the device owner. Such other tests and inspections shall comply with the timeframes established as follows:
@@ -6558,7 +7640,9 @@ The required periodic inspections in Table N1 shall be made by the department. T
 
 
 
-*§ 28-304.6.1.1 Department notification. * ::
+
+
+*§ 28-304.6.1.1 Department notification.* ::
 
 
 The department shall be notified by the performing agency at least seven days prior to the Category 1 testing of escalators, Category 3 testing of water hydraulic elevators and Category 5 testing of elevators pursuant to the rules of the department.
@@ -6566,7 +7650,9 @@ The department shall be notified by the performing agency at least seven days pr
 
 
 
-*§ 28-304.6.2 Scope. * ::
+
+
+*§ 28-304.6.2 Scope.* ::
 
 
 During periodic inspection and testing, in addition to any other requirements prescribed by this code, all parts of the equipment shall be inspected to determine that they are in safe operating condition and that parts subject to wear have not worn to such an extent as to affect the safe and reliable operation of the installation.
@@ -6574,7 +7660,9 @@ During periodic inspection and testing, in addition to any other requirements pr
 
 
 
-*§ 28-304.6.3 Reporting an unsafe or hazardous condition. * ::
+
+
+*§ 28-304.6.3 Reporting an unsafe or hazardous condition.* ::
 
 
 If an inspection or test reveals that any elevator or other conveying system is unsafe or hazardous to life and safety, the device is to be taken out of service immediately by the agency performing the inspection or test and the building owner notified immediately. The performing agency shall notify the department by telephone, electronically or in writing within 24 hours.
@@ -6582,7 +7670,9 @@ If an inspection or test reveals that any elevator or other conveying system is 
 
 
 
-*§ 28-304.6.4 Field inspection report and notation on the inspection certificate. * ::
+
+
+*§ 28-304.6.4 Field inspection report and notation on the inspection certificate.* ::
 
 
 Field inspection reports and notations on the inspection certificate shall comply with the requirements of sections 28-304.6.4.1 and 28-304.6.4.2.
@@ -6590,7 +7680,9 @@ Field inspection reports and notations on the inspection certificate shall compl
 
 
 
-*§ 28-304.6.4.1 When no witnessing agency is required. * ::
+
+
+*§ 28-304.6.4.1 When no witnessing agency is required.* ::
 
 
 When no witnessing agency is required to witness inspections and tests under Table N1, the performing inspector shall, on the day of each inspection and test: (i) complete the field inspection and test report, documenting all violating conditions, if any, and affix his or her signature; (ii) provide a copy of such report to the owner or owner's representative; and (iii) affix the inspection date and his or her signature over a stamp identifying his or her approved agency and his or her approval number on the inspection certificate issued by the department attesting to the completion of items (i) and (ii).
@@ -6598,7 +7690,9 @@ When no witnessing agency is required to witness inspections and tests under Tab
 
 
 
-*§ 28-304.6.4.2 When a witnessing agency is required. * ::
+
+
+*§ 28-304.6.4.2 When a witnessing agency is required.* ::
 
 
 When a witnessing agency is required to witness inspections and tests under Table N1, the performing inspector shall, on the day of each inspection and test complete the field inspection and test report, documenting all violating conditions, if any, and affix his or her signature. The witnessing agency inspector shall, on the day of each inspection and test: (i) review and confirm the field inspection report and also affix his or her signature to it; (ii) provide a copy of such report to the owner or owner's representative; and (iii) affix the inspection date and his or her signature over a stamp identifying his or her approved agency and his or her approval number on the inspection certificate issued by the department attesting to the completion of items (i) and (ii).
@@ -6606,7 +7700,9 @@ When a witnessing agency is required to witness inspections and tests under Tabl
 
 
 
-*§ 28-304.6.5 Inspection and test reports submission. * ::
+
+
+*§ 28-304.6.5 Inspection and test reports submission.* ::
 
 
 Inspection and test reports shall be submitted to the department on such forms and in such manner as required by the commissioner. Such reports shall comply with the following and department rules:
@@ -6620,7 +7716,9 @@ Exception: Inspection and test reports are not required to be submitted to the d
 
 
 
-*§ 28-304.6.6 Repair. * ::
+
+
+*§ 28-304.6.6 Repair.* ::
 
 
 All defects as found in such inspection and test reports shall be corrected within 120 days after the date of inspection and test, except all hazardous conditions shall be corrected immediately. An affirmation of correction shall be filed within 60 days of the date of correction.
@@ -6628,7 +7726,9 @@ All defects as found in such inspection and test reports shall be corrected with
 
 
 
-*§ 28-304.7 Required contract. * ::
+
+
+*§ 28-304.7 Required contract.* ::
 
 
 The owner of all new and existing passenger elevators and escalators shall have a contract with an approved agency to perform elevator and escalator maintenance, repair and replacement work as defined by ASME A17.1 as modified by Chapter K1 of Appendix K of the New York city building code. The name, address and telephone number of such agency shall be maintained at each premises, on the mainline disconnect switch and in a location readily accessible to employees of the department and to maintenance and custodial staff at the premises.
@@ -6636,7 +7736,9 @@ The owner of all new and existing passenger elevators and escalators shall have 
 
 
 
-*§ 28-304.8 Fees. * ::
+
+
+*§ 28-304.8 Fees.* ::
 
 
 Every owner of elevators and other devices shall pay to the department an inspection fee and a report filing fee for each elevator or device in the amount prescribed by this code.
@@ -6644,7 +7746,9 @@ Every owner of elevators and other devices shall pay to the department an inspec
 
 
 
-*§ 28-304.9 Additional inspections. * ::
+
+
+*§ 28-304.9 Additional inspections.* ::
 
 
 The commissioner may make such additional inspections as required to enforce the provisions of this code. No fee shall be charged for such additional inspections.
@@ -6652,10 +7756,14 @@ The commissioner may make such additional inspections as required to enforce the
 
 
 
-*§ 28-304.10 Occupant notification for elevator work. * ::
+
+
+*§ 28-304.10 Occupant notification for elevator work.* ::
 
 
 In occupancy groups R-1 and R-2, when an elevator is to be out of service, a notice identifying the type of work to be performed and the expected start and end dates for such outage shall be provided in English, Spanish, and such other languages as the department may provide by rule, in accordance with sections 28-304.10.1 and 28-304.10.2.
+
+
 
 
 
@@ -6664,6 +7772,8 @@ In occupancy groups R-1 and R-2, when an elevator is to be out of service, a not
 
 
 When an elevator is to be out of service for alteration work, notice shall be given to the residential occupants no fewer than 10 business days before the start of the work, except in case of emergency repairs. This notification requirement does not apply to minor alterations and ordinary repairs.
+
+
 
 
 
@@ -6679,7 +7789,9 @@ When all elevators servicing a building or any section of a building are expecte
 
 **Article 305: Retaining Walls, Partition Fences and Other Site structures**
 
-*§ 28-305.1 Retaining walls, partition fences and other site structures. * ::
+
+
+*§ 28-305.1 Retaining walls, partition fences and other site structures.* ::
 
 
 In addition to the requirements set forth in chapter 33 of the New York city building code, the responsibility for maintaining and repairing retaining walls, partition fences and other site structures shall be in accordance with sections 28-305.1.1, 305.1.2 and 305.4.
@@ -6687,7 +7799,9 @@ In addition to the requirements set forth in chapter 33 of the New York city bui
 
 
 
-*§ 28-305.1.1 Structures located on the lot line of adjacent properties and partially on both properties. * ::
+
+
+*§ 28-305.1.1 Structures located on the lot line of adjacent properties and partially on both properties.* ::
 
 
 The owners of adjacent properties shall be responsible jointly for the proper maintenance and repair of retaining walls, partition fences and other site structures, or portions thereof, that are located along the common lot line and on both their properties; and each such owner shall be responsible for one-half of the costs of maintaining and repairing such fences, retaining walls and other site structures, or such portions thereof. Where an owner elects to remove temporarily a retaining wall or partition fence that is required to support a grade differential between the two properties, or for any other reason is required by this code, such owner shall protect the adjacent property, shall not impair its safe use, and shall replace the retaining wall or partition fence at his or her own cost. Refer to chapter 33 of the New York city building code for additional requirements during construction and demolition operations.
@@ -6695,7 +7809,9 @@ The owners of adjacent properties shall be responsible jointly for the proper ma
 
 
 
-*§ 28-305.1.2 Structures located entirely on one property. * ::
+
+
+*§ 28-305.1.2 Structures located entirely on one property.* ::
 
 
 Where such retaining walls, partition fences or other site structures, or portions thereof, are located entirely on one property, the owner of such property shall be wholly responsible for the proper maintenance and repair of the retaining wall, partition fence or other site structure. If, however, the proper maintenance and/or repair of such retaining wall, partition fence or other site structures requires access to the adjoining property, the owner of such adjoining property shall allow such access. Refer to chapter 33 of the New York city building code for additional requirements during construction and demolition operations.
@@ -6703,7 +7819,9 @@ Where such retaining walls, partition fences or other site structures, or portio
 
 
 
-*§ 28-305.2 Retaining walls required. * ::
+
+
+*§ 28-305.2 Retaining walls required.* ::
 
 
 Hereafter, when an owner elects to set his or her grade either higher or lower than the grade of an adjoining property at the property line, such owner shall erect, maintain and repair a retaining wall of sufficient height, structure and foundation to support such grade differential, and with proper drainage, in accordance with this code, such that the adjacent property is not impacted, and shall do so at the sole expense of such owner and entirely on the property of such owner without access to the adjoining property.
@@ -6711,7 +7829,9 @@ Hereafter, when an owner elects to set his or her grade either higher or lower t
 
 
 
-*§ 28-305.3 Special agreement. * ::
+
+
+*§ 28-305.3 Special agreement.* ::
 
 
 Nothing in this article shall be construed to prevent the owners of adjacent properties from making or enforcing by private action special agreements with respect to maintenance or repair of retaining walls, partition fences and other site structures or access to adjoining property for such purpose.
@@ -6719,7 +7839,9 @@ Nothing in this article shall be construed to prevent the owners of adjacent pro
 
 
 
-*§ 28-305.4 Maintenance, inspection and repair of retaining walls. * ::
+
+
+*§ 28-305.4 Maintenance, inspection and repair of retaining walls.* ::
 
 
 Maintenance, inspection and repair of retaining walls shall comply with sections 28-305.4.1 through 28-305.4.8.
@@ -6727,7 +7849,9 @@ Maintenance, inspection and repair of retaining walls shall comply with sections
 
 
 
-*§ 28-305.4.1 Definition. * ::
+
+
+*§ 28-305.4.1 Definition.* ::
 
 
 As used in this article, the following term shall have the following meaning:
@@ -6737,7 +7861,9 @@ RETAINING WALL. A wall that resists lateral pressures and limits lateral displac
 
 
 
-*§ 28-305.4.2 Owner's responsibility. * ::
+
+
+*§ 28-305.4.2 Owner's responsibility.* ::
 
 
 Owners of retaining walls with a height of ten feet or more and fronting a public right-of-way shall comply with the requirements of this section. For the purposes of this section, the height of a retaining wall shall be the distance from the top of the ground in front of the wall to the top of the wall stem, or wall step for stepped walls, including any parapets or fencing capable of retaining material.
@@ -6745,7 +7871,9 @@ Owners of retaining walls with a height of ten feet or more and fronting a publi
 
 
 
-*§ 28-305.4.3 Condition assessment requirements. * ::
+
+
+*§ 28-305.4.3 Condition assessment requirements.* ::
 
 
 A condition assessment of a retaining wall shall be conducted at periodic intervals as set forth by rule of the commissioner, but such assessment shall be conducted at least once every 5 years. The commissioner may establish staggered assessment cycles for retaining walls required to comply with this section.
@@ -6753,7 +7881,9 @@ A condition assessment of a retaining wall shall be conducted at periodic interv
 
 
 
-*§ 28-305.4.3.1 Registered design professional. * ::
+
+
+*§ 28-305.4.3.1 Registered design professional.* ::
 
 
 The condition assessment shall be conducted on behalf of the owner by or under the direct supervision of a registered design professional with appropriate qualifications as prescribed by the department.
@@ -6761,7 +7891,9 @@ The condition assessment shall be conducted on behalf of the owner by or under t
 
 
 
-*§ 28-305.4.3.2 Department rules. * ::
+
+
+*§ 28-305.4.3.2 Department rules.* ::
 
 
 The condition assessment shall be conducted in accordance with rules promulgated by the commissioner.
@@ -6769,7 +7901,9 @@ The condition assessment shall be conducted in accordance with rules promulgated
 
 
 
-*§ 28-305.4.4 Report of condition assessment. * ::
+
+
+*§ 28-305.4.4 Report of condition assessment.* ::
 
 
 A report of condition assessment shall be submitted to the department in accordance with sections 28-305.4.4.1 and 28-305.4.4.2.
@@ -6777,7 +7911,9 @@ A report of condition assessment shall be submitted to the department in accorda
 
 
 
-*§ 28-305.4.4.1 Submission deadlines. * ::
+
+
+*§ 28-305.4.4.1 Submission deadlines.* ::
 
 
 Except as otherwise provided in section 28-305.4.6, the registered design professional shall submit a written report to the commissioner within 60 days of completing the assessment, but not more than 5 years following submission of the preceding report of assessment, certifying the results of the assessment.
@@ -6785,7 +7921,9 @@ Except as otherwise provided in section 28-305.4.6, the registered design profes
 
 
 
-*§ 28-305.4.4.2 Contents. * ::
+
+
+*§ 28-305.4.4.2 Contents.* ::
 
 
 The report shall certify the results of the assessment as either safe, safe with minor repair or safe with repair and/or engineering monitoring, as prescribed by rules of the department. The report shall clearly document the condition of the retaining wall and shall include a record of all significant deterioration, potentially unsafe conditions of the wall or affecting the wall, and movement observed. The report must be certified by the registered design professional.
@@ -6793,7 +7931,9 @@ The report shall certify the results of the assessment as either safe, safe with
 
 
 
-*§ 28-305.4.5 Fees. * ::
+
+
+*§ 28-305.4.5 Fees.* ::
 
 
 Every owner of a retaining wall shall pay to the department a report filing fee for each report of condition assessment in the amount prescribed by this code.
@@ -6801,7 +7941,9 @@ Every owner of a retaining wall shall pay to the department a report filing fee 
 
 
 
-*§ 28-305.4.6 Immediate notice of unsafe condition. * ::
+
+
+*§ 28-305.4.6 Immediate notice of unsafe condition.* ::
 
 
 Whenever the registered design professional under whose supervision the inspection is performed learns of an unsafe condition through a condition assessment of a retaining wall, such person shall notify the owner and the department of such condition immediately by calling 311 and by written notification to the department.
@@ -6809,7 +7951,9 @@ Whenever the registered design professional under whose supervision the inspecti
 
 
 
-*§ 28-305.4.7 Repair of unsafe condition. * ::
+
+
+*§ 28-305.4.7 Repair of unsafe condition.* ::
 
 
 Upon the notification to the department of an unsafe condition, the owner or the owner's agent shall immediately commence such repairs, reinforcements or other measures as may be required to secure public safety.
@@ -6817,7 +7961,9 @@ Upon the notification to the department of an unsafe condition, the owner or the
 
 
 
-*§ 28-305.4.7.1 Permit. * ::
+
+
+*§ 28-305.4.7.1 Permit.* ::
 
 
 The owner or the owner's agent shall obtain a permit within the time set forth in the rules of the department in order to correct the unsafe condition, after securing public safety as provided above.
@@ -6825,7 +7971,9 @@ The owner or the owner's agent shall obtain a permit within the time set forth i
 
 
 
-*§ 28-305.4.7.2 Monitoring. * ::
+
+
+*§ 28-305.4.7.2 Monitoring.* ::
 
 
 The owner or the owner's agent shall monitor the protection of public safety until the unsafe condition is remedied.
@@ -6833,7 +7981,9 @@ The owner or the owner's agent shall monitor the protection of public safety unt
 
 
 
-*§ 28-305.4.7.3 Reinspection. * ::
+
+
+*§ 28-305.4.7.3 Reinspection.* ::
 
 
 The owner or the owner's agent shall reinspect the retaining wall and file an amended report within two weeks after the repairs have been completed certifying that the unsafe conditions of the retaining wall have been corrected.
@@ -6841,7 +7991,9 @@ The owner or the owner's agent shall reinspect the retaining wall and file an am
 
 
 
-*§ 28-305.4.7.4 Extension. * ::
+
+
+*§ 28-305.4.7.4 Extension.* ::
 
 
 The commissioner may grant an extension of time of up to 90 days from the date of the application for an extension to complete the repairs required to correct an unsafe condition upon receipt and review of an initial extension application submitted by the registered design professional together with such additional documentation as may be prescribed by rule.
@@ -6849,7 +8001,9 @@ The commissioner may grant an extension of time of up to 90 days from the date o
 
 
 
-*§ 28-305.4.7.5 Further extension. * ::
+
+
+*§ 28-305.4.7.5 Further extension.* ::
 
 
 The commissioner may grant further extensions of time to complete the repairs required to remove an unsafe condition upon receipt and review of an application for a further extension submitted by the registered design professional together with such further documentation as may be prescribed by rule.
@@ -6857,7 +8011,9 @@ The commissioner may grant further extensions of time to complete the repairs re
 
 
 
-*§ 28-305.4.8 Safe with repair and/or engineering monitoring. * ::
+
+
+*§ 28-305.4.8 Safe with repair and/or engineering monitoring.* ::
 
 
 A retaining wall or any part thereof that may pose a potential danger to persons or property, but does not require immediate action shall be rated safe with repair and/or engineering monitoring. This condition requires further investigation and timely remedial action to prevent its deterioration into an unsafe condition. A registered design professional shall be responsible for appropriately monitoring the wall until the repair is completed.
@@ -6865,7 +8021,9 @@ A retaining wall or any part thereof that may pose a potential danger to persons
 
 
 
-*§ 28-305.4.8.1 Safe with repair and/or engineering monitoring for two cycles. * ::
+
+
+*§ 28-305.4.8.1 Safe with repair and/or engineering monitoring for two cycles.* ::
 
 
 The registered design professional shall not file a report of safe with repair and/or engineering monitoring for the same retaining wall for 2 consecutive filing periods unless the second such report is accompanied by his or her professional certification attesting to the correction of all conditions identified in the prior report as requiring repair.
@@ -6876,7 +8034,9 @@ The registered design professional shall not file a report of safe with repair a
 
 **Article 306: Party Walls**
 
-*§ 28-306.1 Responsibility for party walls. * ::
+
+
+*§ 28-306.1 Responsibility for party walls.* ::
 
 
 Repair and maintenance of the construction, design and fire-resistance rating of party walls shall be the joint responsibility of the owners of the adjoining properties, and any change by either owner must maintain the weather protection, structural, vertical fire division and other requirements of this code for party walls.
@@ -6884,7 +8044,9 @@ Repair and maintenance of the construction, design and fire-resistance rating of
 
 
 
-*§ 28-306.2 Safeguards during construction or demolition. * ::
+
+
+*§ 28-306.2 Safeguards during construction or demolition.* ::
 
 
 Refer to section BC 3309 of the New York city building code for additional requirements for the maintenance of party walls during construction or demolition operations.
@@ -6895,7 +8057,9 @@ Refer to section BC 3309 of the New York city building code for additional requi
 
 **Article 307: Workplace Exits**
 
-*§ 28-307.1 Obstruction of workplace exits prohibited. * ::
+
+
+*§ 28-307.1 Obstruction of workplace exits prohibited.* ::
 
 
 Except for the exemptions specified in subdivision j of section 27-371 of the administrative code or chapter 10 of the New York city building code, as applicable, it shall be unlawful for an employer or the agent of an employer to lock the doors of a workplace or otherwise obstruct or prohibit exit from a workplace when such act may endanger the health or safety of any employee, independent contractor or other individual in such workplace in the event of a fire or other hazardous condition or event. The commissioner shall classify a violation of this section as an immediately hazardous violation. Notwithstanding any other provision of this code, upon criminal conviction or civil adjudication of liability for a violation of this section an additional fine or civil penalty of not less than five thousand dollars nor more than twenty thousand dollars shall be imposed for each employee, independent contractor or other individual endangered by a violation of this section.
@@ -6903,7 +8067,9 @@ Except for the exemptions specified in subdivision j of section 27-371 of the ad
 
 
 
-*§ 28-307.1.1 Notice. * ::
+
+
+*§ 28-307.1.1 Notice.* ::
 
 
 A sign shall be posted conspicuously at the workplace of a person convicted of or found liable for a violation of section 28-307.1. Such sign shall, in English, Spanish, Korean, Chinese or any other language directed by the fire commissioner, provide notice to employees of the acts prohibited by section 28-307.1 and of the remedies for employer retaliation as set forth in section 28-307.3. The sign shall be in a form and posted in a manner directed by the fire commissioner and may contain any other information deemed necessary by the fire commissioner or as recommended by the police commissioner or the commissioner. The fire commissioner may, in the interest of public safety, adopt a rule requiring the posting of such signs at other workplaces.
@@ -6911,7 +8077,9 @@ A sign shall be posted conspicuously at the workplace of a person convicted of o
 
 
 
-*§ 28-307.2 Unannounced inspections of workplaces by fire department. * ::
+
+
+*§ 28-307.2 Unannounced inspections of workplaces by fire department.* ::
 
 
 In addition to any other inspections required by law or rule, the fire department shall conduct a minimum of fifty unannounced workplace inspections annually to ensure the identification and abatement of any hazardous conditions in violation of section 28-307.1. Such inspections shall include, but not be limited to, sites where there are known or suspected conditions affecting employee safety and health.
@@ -6919,7 +8087,9 @@ In addition to any other inspections required by law or rule, the fire departmen
 
 
 
-*§ 28-307.3 Retaliation. * ::
+
+
+*§ 28-307.3 Retaliation.* ::
 
 
 It shall be unlawful for an employer or the agent of such employer to take a retaliatory action, as defined by section 740 of the labor law, against an employee because of the lawful acts of such employee in furtherance of a civil or criminal enforcement proceeding arising out of the failure of such employer or agent to comply with section 28-307.1 An employee who is the victim of such retaliatory action may commence an action in any court of competent jurisdiction for the relief provided for in this section and shall be entitled to all relief necessary to make such employee whole. Lawful acts of an employee shall include, but not be limited to, assisting in the investigation and initiation of an enforcement proceeding alleging a violation of section 28-307.1, providing testimony in any such proceeding or providing other assistance in connection therewith. The relief to which such employee shall be entitled shall include, but not be limited to, (i) an injunction to restrain any adverse or retaliatory action, (ii) reinstatement to the position such officer or employee would have had but for such action, or to an equivalent position, (iii) reinstatement of full benefits and seniority rights including payment of any missed back pay, plus interest and (iv) compensation for any special damages sustained as a result of such action, including litigation costs and reasonable attorneys' fees.
@@ -6930,7 +8100,9 @@ It shall be unlawful for an employer or the agent of such employer to take a ret
 
 **Article 308: Energy Audits and Retro-commissioning of Base Building Systems**
 
-*§ 28-308.1 Definitions. * ::
+
+
+*§ 28-308.1 Definitions.* ::
 
 
 As used in this article, the following terms shall have the following meanings:
@@ -7010,7 +8182,9 @@ SYSTEM OR SUBSYSTEM. Shall have the same definition as set forth in section 202 
 
 
 
-*§ 28-308.2 Energy audits required. * ::
+
+
+*§ 28-308.2 Energy audits required.* ::
 
 
 The owner shall ensure that an energy audit is performed on the base building systems of a covered building prior to filing an energy efficiency report as required by this article. Except as otherwise provided in section 28-308.7, an energy audit shall be performed by or under the supervision of an energy auditor and shall be performed in accordance with rules promulgated by the department. The audit process shall cover the base building systems and shall identify at a minimum:
@@ -7058,7 +8232,9 @@ Exceptions:
 
 
 
-*§ 28-308.2.1 Contents of audit report. * ::
+
+
+*§ 28-308.2.1 Contents of audit report.* ::
 
 
 The energy auditor shall prepare and certify a report of the energy audit. Except as otherwise provided in section 28-308.7, the audit report shall include such information relating to the audit as shall be specified in the rules of the department, including but not limited to (i) the date that the audit was completed, and (ii) the information specified in section 28-308.2.
@@ -7066,7 +8242,9 @@ The energy auditor shall prepare and certify a report of the energy audit. Excep
 
 
 
-*§ 28-308.2.1.1 Compliance with landmarks laws. * ::
+
+
+*§ 28-308.2.1.1 Compliance with landmarks laws.* ::
 
 
 The cost estimates for covered buildings that are regulated by any city, state or federal law regulating landmarks and historic buildings shall include all additional costs necessary for the proposed work to comply with such law.
@@ -7074,7 +8252,9 @@ The cost estimates for covered buildings that are regulated by any city, state o
 
 
 
-*§ 28-308.2.2 Timing of energy audit. * ::
+
+
+*§ 28-308.2.2 Timing of energy audit.* ::
 
 
 Except as otherwise provided in section 28-308.7, the energy audit shall be completed no earlier than four years prior to the date on which a covered building's energy efficiency report is filed with the department pursuant to this article.
@@ -7082,7 +8262,9 @@ Except as otherwise provided in section 28-308.7, the energy audit shall be comp
 
 
 
-*§ 28-308.3 Retro-commissioning required. * ::
+
+
+*§ 28-308.3 Retro-commissioning required.* ::
 
 
 The owner shall ensure that retro-commissioning is performed on the base building systems of a covered building prior to filing an energy efficiency report as required by this article. Except as otherwise provided in section 28-308.7, retro-commissioning shall be performed by or under the supervision of a retro-commissioning agent in accordance with rules promulgated by the department. Such rules, at a minimum, shall ensure that sufficient analysis, corrections and testing have been done so that the base building systems meet the following criteria demonstrating efficient operation:
@@ -7152,7 +8334,9 @@ Exception: No retro-commissioning is required if the covered building has receiv
 
 
 
-*§ 28-308.3.1 Contents of retro-commissioning report. * ::
+
+
+*§ 28-308.3.1 Contents of retro-commissioning report.* ::
 
 
 The retro-commissioning agent shall prepare and certify a retro-commissioning report. The retro-commissioning report shall include such information relating to the retro-commissioning as shall be set forth in the rules of the department including, at a minimum:
@@ -7190,7 +8374,9 @@ The retro-commissioning agent shall prepare and certify a retro-commissioning re
 
 
 
-*§ 28-308.3.2 Timing of retro-commissioning. * ::
+
+
+*§ 28-308.3.2 Timing of retro-commissioning.* ::
 
 
 Except as otherwise provided in section 28-308.7, the retro-commissioning shall be completed no earlier than four years prior to the date on which a covered building's energy efficiency report is filed with the department pursuant to this article.
@@ -7198,7 +8384,9 @@ Except as otherwise provided in section 28-308.7, the retro-commissioning shall 
 
 
 
-*§ 28-308.3.3 Documentation of retro-commissioning. * ::
+
+
+*§ 28-308.3.3 Documentation of retro-commissioning.* ::
 
 
 A copy of the latest up-to-date equipment manuals and the most recent retro-commissioning report shall be maintained at every covered building and shall be made available upon request for inspection by the department.
@@ -7206,7 +8394,9 @@ A copy of the latest up-to-date equipment manuals and the most recent retro-comm
 
 
 
-*§ 28-308.4 Energy efficiency report required. * ::
+
+
+*§ 28-308.4 Energy efficiency report required.* ::
 
 
 Except as otherwise provided in section 28-308.7, the owner of a covered building shall file an energy efficiency report for such building between January first and December thirty-first of the calendar year in which such report is due pursuant to this section and between January first and December thirty-first of every tenth calendar year thereafter.
@@ -7220,7 +8410,9 @@ Exceptions:
 
 
 
-*§ 28-308.4.1 Due dates. * ::
+
+
+*§ 28-308.4.1 Due dates.* ::
 
 
 The first energy efficiency reports for covered buildings in existence on the effective date of this article and for new buildings shall be due, beginning with calendar year 2013, in the calendar year with a final digit that is the same as the last digit of the building's tax block number, as illustrated in the following chart:
@@ -7266,7 +8458,9 @@ Exception:The first due dates for city buildings shall be in accordance with a s
 
 
 
-*§ 28-308.4.2 Combined audit and retro-commissioning. * ::
+
+
+*§ 28-308.4.2 Combined audit and retro-commissioning.* ::
 
 
 Nothing in this article shall prevent an owner from performing the audit and the retro-commissioning in a combined process, provided that all the requirements of sections 28-308.2 and 28-308.3 are met.
@@ -7274,7 +8468,9 @@ Nothing in this article shall prevent an owner from performing the audit and the
 
 
 
-*§ 28-308.5 Content of energy efficiency report. * ::
+
+
+*§ 28-308.5 Content of energy efficiency report.* ::
 
 
 Except as otherwise provided in section 28-308.7, the energy efficiency report shall include, in a format prescribed by the department, (i) the energy audit report or documentation substantiating that an exception as set forth in section 28-308.2 applies to such building, and (ii) the retro-commissioning report or documentation substantiating that an exception as set forth in section 28-308.3 applies to such building.
@@ -7282,7 +8478,9 @@ Except as otherwise provided in section 28-308.7, the energy efficiency report s
 
 
 
-*§ 28-308.6 Notification by the department of finance. * ::
+
+
+*§ 28-308.6 Notification by the department of finance.* ::
 
 
 The department of finance shall notify the owner of the requirements of this article three years prior to the calendar year in which the covered building's energy efficiency report is due and in the calendar year prior to the calendar year in which such report is due.
@@ -7290,7 +8488,9 @@ The department of finance shall notify the owner of the requirements of this art
 
 
 
-*§ 28-308.7 Early compliance. * ::
+
+
+*§ 28-308.7 Early compliance.* ::
 
 
 Notwithstanding any other provision of this article, an owner may submit an energy efficiency report, including both an energy audit report pursuant to section 28-308.7.1 and a retro-commissioning report pursuant to section 28-308.7.2, in the calendar year commencing January 1, 2013 and ending December 31, 2013 in order to achieve early compliance with this section. An energy efficiency report submitted for early compliance shall be deemed to satisfy the first required energy efficiency report for the building as assigned pursuant to section 28-308.4.1. The next required energy efficiency report for such building shall be due in the tenth calendar year after the first assigned due date for such report.
@@ -7298,7 +8498,9 @@ Notwithstanding any other provision of this article, an owner may submit an ener
 
 
 
-*§ 28-308.7.1 Early compliance energy audit report. * ::
+
+
+*§ 28-308.7.1 Early compliance energy audit report.* ::
 
 
 An energy audit report for a covered building shall be acceptable for early compliance if it is completed after January 1, 2006 and it includes:
@@ -7310,7 +8512,9 @@ An energy audit report for a covered building shall be acceptable for early comp
 
 
 
-*§ 28-308.7.1.1 Early compliance audit completed after January 1, 2006 and prior to the effective date of this article. * ::
+
+
+*§ 28-308.7.1.1 Early compliance audit completed after January 1, 2006 and prior to the effective date of this article.* ::
 
 
 An early compliance audit completed after January 1, 2006 and prior to the effective date of this article shall have met the following additional criteria:
@@ -7326,7 +8530,9 @@ An early compliance audit completed after January 1, 2006 and prior to the effec
 
 
 
-*§ 28-308.7.1.2 Early compliance audit completed after the effective date of this article. * ::
+
+
+*§ 28-308.7.1.2 Early compliance audit completed after the effective date of this article.* ::
 
 
 An early compliance audit completed after the effective date of this article shall meet the following additional criteria:
@@ -7352,7 +8558,9 @@ An early compliance audit completed after the effective date of this article sha
 
 
 
-*§ 28-308.7.2 Early compliance retro-commissioning. * ::
+
+
+*§ 28-308.7.2 Early compliance retro-commissioning.* ::
 
 
 a. Retro-commissioning shall be acceptable for early compliance if it is completed after the effective date of this article and meets the following criteria:
@@ -7372,7 +8580,9 @@ b. Nothing in this section shall be construed to determine which individuals may
 
 
 
-*§ 28-308.8 Optional compliance for energy efficiency reports due in the calendar year commencing January 1, 2013. * ::
+
+
+*§ 28-308.8 Optional compliance for energy efficiency reports due in the calendar year commencing January 1, 2013.* ::
 
 
 Notwithstanding any other provision of this article, audits and retro-commissioning for energy efficiency reports scheduled to be due in the calendar year commencing January 1, 2013 shall be performed, at the option of the owner, in accordance with the provisions for early compliance as set forth in section 28-308.7 or in accordance with procedures set forth in the rules of the department, if such procedures are promulgated within one year prior to the due date of such report. If such procedures are not promulgated within one year prior to the due date of such report, audit and retro-commissioning for energy efficiency reports due in the calendar year commencing January 1, 2013 shall comply with the audit and retro-commissioning procedures for early compliance.
@@ -7380,7 +8590,9 @@ Notwithstanding any other provision of this article, audits and retro-commission
 
 
 
-*§ 28-308.9 Rules. * ::
+
+
+*§ 28-308.9 Rules.* ::
 
 
 The department shall promulgate such rules as are necessary to carry out the provisions of this article in a timely manner, which may include separate fees for filing and review of applications and reports filed pursuant to this article.
@@ -7391,7 +8603,9 @@ The department shall promulgate such rules as are necessary to carry out the pro
 
 **Article 309: Benchmarking Energy and Water Use and Disclosure of Energy Efficiency Scores and Grades**
 
-*§ 28-309.1 General. * ::
+
+
+*§ 28-309.1 General.* ::
 
 
 The energy and water use of city buildings and covered buildings shall be benchmarked in accordance with this article.
@@ -7399,7 +8613,9 @@ The energy and water use of city buildings and covered buildings shall be benchm
 
 
 
-*§ 28-309.2 Definitions. * ::
+
+
+*§ 28-309.2 Definitions.* ::
 
 
 As used in this article, the following terms shall have the following meanings:
@@ -7441,7 +8657,9 @@ TENANT. Any tenant, tenant-stockholder of a cooperative apartment corporation, c
 
 
 
-*§ 28-309.3 Benchmarking required for city buildings. * ::
+
+
+*§ 28-309.3 Benchmarking required for city buildings.* ::
 
 
 No later than May 1, 2010, and no later than every May first thereafter, any city building shall be benchmarked by the agency or entity primarily responsible for the management of such building, in coordination with the department of citywide administrative services with respect to energy use, and with the department of environmental protection with respect to water use. Benchmarking of water use shall not be required unless the building was equipped with automatic meter reading equipment by the department of environmental protection for the entirety of the previous calendar year. The city shall maintain such documents as the department determines are necessary for the purpose of carrying out the provisions of this article.
@@ -7449,7 +8667,9 @@ No later than May 1, 2010, and no later than every May first thereafter, any cit
 
 
 
-*§ 28-309.4 Benchmarking required for covered buildings other than city buildings. * ::
+
+
+*§ 28-309.4 Benchmarking required for covered buildings other than city buildings.* ::
 
 
 The owner of a covered building, other than a city building, shall annually benchmark such covered building no later than May 1, 2011, and no later than every May 1 thereafter. Benchmarking of water use shall not be required unless the building was equipped with automatic meter reading equipment by the department of environmental protection for the entirety of the previous calendar year. The owner or the owner’s representative performing the benchmarking shall consult with the operating staff of the building, as appropriate. Information submitted to the benchmarking tool must be accurate and complete.
@@ -7461,7 +8681,9 @@ Exception: The first mandatory benchmarking for a covered building, other than a
 
 
 
-*§ 28-309.4.1 Obligation to report energy use for all utility accounts and addresses connected to the building. * ::
+
+
+*§ 28-309.4.1 Obligation to report energy use for all utility accounts and addresses connected to the building.* ::
 
 
 The owner shall submit information to the benchmarking tool for all utility accounts and addresses connected to the building, including those for separately metered tenant spaces. The owner shall obtain information for separately metered tenant spaces from the utility. If the utility does not have a program to provide such information, the owner shall make reasonable efforts to obtain such information from the tenant. Tenants shall have the obligation to provide such information.
@@ -7471,7 +8693,9 @@ The owner shall submit information to the benchmarking tool for all utility acco
 
 
 
-*§ 28-309.4.2 Preservation of documents, inspection, and audit. * ::
+
+
+*§ 28-309.4.2 Preservation of documents, inspection, and audit.* ::
 
 
 An owner of a covered building shall maintain such records as the department determines are necessary for carrying out the purposes of this article, including but not limited to energy and water bills and reports or forms received from utilities and tenants. Where energy use within separately metered tenant spaces is omitted, records shall be maintained documenting the owner’s efforts to obtain such information. All records shall be preserved for a period of three years, provided that the commissioner may consent to their destruction within that period or may require that such records be preserved longer than such period. At the request of the department, such records shall be made available for inspection and audit by the department at the place of business of the owner or at the offices of the department during normal business hours.
@@ -7481,7 +8705,9 @@ An owner of a covered building shall maintain such records as the department det
 
 
 
-*§ 28-309.4.3 Violations. * ::
+
+
+*§ 28-309.4.3 Violations.* ::
 
 
 It shall be unlawful for the owner of a covered building to fail to benchmark pursuant to section 28-309.4. The commissioner shall classify such violation as a lesser violation. If, upon audit of a benchmarking report, the department finds that information submitted to the benchmarking tool was substantially inaccurate or incomplete, the department may reject the purported benchmarking and the owner shall be liable for a violation of section 28-309.4 as if no benchmarking had been performed.
@@ -7499,7 +8725,9 @@ Exception: Notwithstanding section 28-204.2, no civil penalty shall be imposed o
 
 
 
-*§ 28-309.5 Direct upload. * ::
+
+
+*§ 28-309.5 Direct upload.* ::
 
 
 Information shall be directly uploaded to the benchmarking tool in accordance with the following:
@@ -7507,7 +8735,9 @@ Information shall be directly uploaded to the benchmarking tool in accordance wi
 
 
 
-*§ 28-309.5.1 Direct upload by a utility company or other source. * ::
+
+
+*§ 28-309.5.1 Direct upload by a utility company or other source.* ::
 
 
 The office of long-term planning and sustainability shall encourage and facilitate any utility company or any other source authorized by the office of long-term planning and sustainability to upload directly to the benchmarking tool, as soon as practicable, information necessary to benchmark a building.
@@ -7517,7 +8747,9 @@ The office of long-term planning and sustainability shall encourage and facilita
 
 
 
-*§ 28-309.5.2 Direct upload by the department of environmental protection. * ::
+
+
+*§ 28-309.5.2 Direct upload by the department of environmental protection.* ::
 
 
 The department of environmental protection shall upload directly to the benchmarking tool information on water use at all buildings that were equipped with automatic meter reading equipment by the department of environmental protection for the entirety of the previous calendar year and that are subject to the benchmarking requirements of this article.
@@ -7525,7 +8757,9 @@ The department of environmental protection shall upload directly to the benchmar
 
 
 
-*§ 28-309.6 Suspension. * ::
+
+
+*§ 28-309.6 Suspension.* ::
 
 
 The director of the office of long-term planning and sustainability may suspend all or part of the requirement to benchmark pursuant to this article upon a written finding that a technological deficiency in the benchmarking tool precludes compliance with this article. The director of the office of long-term planning and sustainability may lift all or part of any such suspension upon a written finding that such deficiency has been corrected. The office of long-term planning and sustainability shall notify the speaker of the city council, the department, the department of citywide administrative services, the department of environmental protection and the department of finance promptly upon issuing a suspension or lifting a suspension pursuant to this section.
@@ -7533,7 +8767,9 @@ The director of the office of long-term planning and sustainability may suspend 
 
 
 
-*§ 28-309.7 Notification and transmission of information. * ::
+
+
+*§ 28-309.7 Notification and transmission of information.* ::
 
 
 The department of finance shall:
@@ -7547,7 +8783,9 @@ The department of finance shall:
 
 
 
-*§ 28-309.8 Disclosure. * ::
+
+
+*§ 28-309.8 Disclosure.* ::
 
 
 The department of finance shall make information generated by the benchmarking tool available to the public on the internet no later than September 1 of the year in which the covered buildings are benchmarked. Such information shall include, but need not be limited to: (i) the energy use intensity, (ii) the water use per gross square foot, (iii) where available, a rating or score that compares the energy and water use of the building to that of similar buildings, and (iv) a comparison of data across calendar years for any years such building was benchmarked. Information generated by the benchmarking tool for the 2009 calendar year for city buildings, for the 2010 calendar year for covered buildings, and for the 2011 calendar year for covered buildings whose primary use is residential, as determined by the department of finance, shall not be disclosed.
@@ -7559,7 +8797,9 @@ Exception: Ratings or scores generated by the benchmarking tool for a covered bu
 
 
 
-*§ 28-309.9 Report. * ::
+
+
+*§ 28-309.9 Report.* ::
 
 
 No later than December 31 of each year, the office of long-term planning and sustainability shall prepare, submit to the mayor and the speaker of the city council, and post on the internet a report reviewing and evaluating the administration and enforcement of this article and analyzing data obtained from the benchmarking tool. Such report shall contain information regarding: (i) the energy and water efficiency of buildings in the city, (ii) the accuracy of benchmarked data and whether there is a need to train and/or certify individuals who benchmark, (iii) compliance with the requirements of this article, (iv) any administrative and legislative recommendations for strengthening the administration and enforcement of this article, (v) the effectiveness of the benchmarking tool in accounting for New York city conditions, including, but not limited to, high density occupancies, use of steam, large building size, and specific high-energy uses such as data centers, television studios, and trading floors, and (vi) such other information and analyses as the office of long-term planning and sustainability deems appropriate.
@@ -7569,10 +8809,14 @@ No later than December 31 of each year, the office of long-term planning and sus
 
 
 
-*§ 28-309.10 Rules. * ::
+
+
+*§ 28-309.10 Rules.* ::
 
 
 The department, the department of finance and the office of long-term planning and sustainability may promulgate such rules as deemed necessary to carry out the provisions of this article.
+
+
 
 
 
@@ -7587,10 +8831,14 @@ The department or another agency designated by the mayor shall establish a syste
 
 
 
+
+
 *§ 28-309.12 Energy efficiency scores and energy efficiency grades.* ::
 
 
 Energy efficiency scores and grades for buildings shall be obtained, assigned and disclosed in accordance with this section.
+
+
 
 
 
@@ -7625,10 +8873,14 @@ ENERGY STAR RATING. The rating that a building earns using the United States Env
 
 
 
+
+
 *§ 28-309.12.2 Energy efficiency score and energy efficiency grade required.* ::
 
 
 In 2020 and in each calendar year thereafter, an owner of a covered building shall use the benchmarking tool to provide an energy efficiency score for such building to the department in accordance with the rules of the department unless, in accordance with such rules, the building is a type of building for which it is not feasible to obtain an energy efficiency score. In each such year, the department shall issue an energy efficiency grade to the owner in accordance with such rules.
+
+
 
 
 
@@ -7647,12 +8899,16 @@ Exception: This section 28-309.12.3 shall not apply to posting of the energy eff
 
 
 
+
+
 *§ 28-309.12.4 Publication of energy efficiency grades and energy efficiency scores.* ::
 
 
 For each building for which an energy efficiency grade or energy efficiency score is generated pursuant to this section, the department shall make information generated in connection with such grade and score publicly available online by no later than May 1 of the year following such generation.
 
 Exception: This section 28-309.12.4 shall not apply to information generated with respect to a building with an energy efficiency grade of N.
+
+
 
 
 
@@ -7672,7 +8928,9 @@ The department shall, from time to time, audit information submitted for buildin
 
 **Article 310: Required Upgrade of Lighting Systems**
 
-*§ 28-310.1 General. * ::
+
+
+*§ 28-310.1 General.* ::
 
 
 Lighting systems in covered buildings shall be upgraded as provided for in this article.
@@ -7680,7 +8938,9 @@ Lighting systems in covered buildings shall be upgraded as provided for in this 
 
 
 
-*§ 28-310.2 Definitions. * ::
+
+
+*§ 28-310.2 Definitions.* ::
 
 
 As used in this article, the following terms shall have the following meanings:
@@ -7698,7 +8958,9 @@ Exceptions: The term "covered building" shall not include:
 
 
 
-*§ 28-310.3 Upgrade of lighting systems of covered buildings required. * ::
+
+
+*§ 28-310.3 Upgrade of lighting systems of covered buildings required.* ::
 
 
 No later than January 1, 2025 the lighting systems of covered buildings shall be in compliance with the standards for new systems set forth in the New York city energy conservation code and/or applicable standards referenced in such energy code. The owner of a covered building shall ensure that the upgrade of the lighting system of the entire covered building is completed on or prior to such date and shall file a report with the department, in accordance with the rules of the department, prepared by a registered design professional or a licensed master or special electrician certifying that such upgrade has been completed and that the work is in compliance with the technical standards of the New York city electrical code. The department may impose a fee for filing and review of such reports.
@@ -7725,7 +8987,9 @@ Exceptions:
 
 **Article 311: Installation of Electrical Sub-meters In Tenant Spaces**
 
-*§ 28-311.1 General. * ::
+
+
+*§ 28-311.1 General.* ::
 
 
 Sub-meters shall be installed in covered buildings as provided in this article.
@@ -7733,7 +8997,9 @@ Sub-meters shall be installed in covered buildings as provided in this article.
 
 
 
-*§ 28-311.2 Definitions. * ::
+
+
+*§ 28-311.2 Definitions.* ::
 
 
 As used in this article, the following terms shall have the following meanings:
@@ -7761,7 +9027,9 @@ TENANT SPACE. Space within a covered building that is let or sublet to another p
 
 
 
-*§ 28-311.3 Sub-meters required for covered tenant spaces. * ::
+
+
+*§ 28-311.3 Sub-meters required for covered tenant spaces.* ::
 
 
 On and after January 1, 2025, the electrical consumption of each covered tenant space shall be measured by one or more sub-meters. Sub-meters shall be installed in existing covered tenant spaces by the owner or the lessor of such space on or before January 1, 2025 and thereafter as new covered tenant spaces are created within the building. If the covered tenant space is a floor with multiple tenancies, each tenancy that is 5,000 gross square feet (465 m2) or less shall (i) have a separate sub-meter, (ii) share a sub-meter with other tenant spaces on the floor, or (iii) share a sub-meter covering the entire floor.
@@ -7773,7 +9041,9 @@ Exception: Covered tenant space for which the electrical consumption within such
 
 
 
-*§ 28-311.4 Monthly statements. * ::
+
+
+*§ 28-311.4 Monthly statements.* ::
 
 
 Each tenant or subtenant within a covered tenant space that has a sub-meter or sub-meters to measure electrical consumption shall be provided with a monthly statement showing the amount of electricity measured by the sub-meter for such tenant or subtenant during the month, and any amount charged to the tenant or subtenant for electricity. If the covered tenant space is a floor with multiple tenancies and the tenant's sub-meter covers other tenant spaces, the statement for such tenant shall show the electrical consumption for the area covered by the sub-meter and the percentage of that area that is leased by the tenant.
@@ -7781,7 +9051,9 @@ Each tenant or subtenant within a covered tenant space that has a sub-meter or s
 
 
 
-*§ 28-311.5 Reports. * ::
+
+
+*§ 28-311.5 Reports.* ::
 
 
 The owner of each covered building shall file a report in accordance with the rules of the department prepared by a registered design professional or a licensed master or special electrician certifying that sub-meters have been installed in all covered tenant spaces in such building as required by this article or that covered tenant spaces are subject to the exception set forth in section 28-311.3. The department may impose a fee for filing and processing such reports.
@@ -7794,7 +9066,9 @@ The owner of each covered building shall file a report in accordance with the ru
 
 **Article 312: Carbon Monoxide and Smoke Alarms**
 
-*§ 28-312.1 General. * ::
+
+
+*§ 28-312.1 General.* ::
 
 
 Required carbon monoxide and smoke alarms shall comply with the provisions of this article.
@@ -7802,7 +9076,9 @@ Required carbon monoxide and smoke alarms shall comply with the provisions of th
 
 
 
-*§ 28-312.2 Periodic replacement of carbon monoxide alarms. * ::
+
+
+*§ 28-312.2 Periodic replacement of carbon monoxide alarms.* ::
 
 
 Carbon monoxide alarms required pursuant to section 908.7 of the New York city building code or sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code shall be replaced when the time elapsed since the installation of such alarm exceeds the manufacturer's suggested useful life of the alarm.
@@ -7812,7 +9088,9 @@ Exception: A carbon monoxide alarm installed prior to the effective date of this
 
 
 
-*§ 28-312.3 Audible notification of expiration of useful life of carbon monoxide alarms. * ::
+
+
+*§ 28-312.3 Audible notification of expiration of useful life of carbon monoxide alarms.* ::
 
 
 All carbon monoxide alarms installed after the effective date of this article shall comply with UL 2034 and be of a type that emits an audible notification at the expiration of the useful life of such alarm.
@@ -7820,7 +9098,9 @@ All carbon monoxide alarms installed after the effective date of this article sh
 
 
 
-*§ 28-312.4 Periodic replacement of smoke alarms. * ::
+
+
+*§ 28-312.4 Periodic replacement of smoke alarms.* ::
 
 
 Smoke alarms required pursuant to section 907.2 of the New York City building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code shall be replaced when the time elapsed since the installation of such alarm exceeds the manufacturer's suggested useful life of the alarm.
@@ -7830,10 +9110,14 @@ Exception: A smoke alarm installed prior to the effective date of this section a
 
 
 
-*§ 28-312.5 Audible notification of expiration of useful life of smoke alarms. * ::
+
+
+*§ 28-312.5 Audible notification of expiration of useful life of smoke alarms.* ::
 
 
 All smoke alarms installed after the effective date of this section shall comply with UL 217, shall employ a non-removable, non-replaceable battery that powers the alarm for a minimum of 10 years, and shall be of the type that emits an audible notification at the expiration of the useful life of the alarm.
+
+
 
 
 
@@ -7851,7 +9135,9 @@ On or after January 1, 2021, smoke alarms and smoke detectors installed or repla
 
 **Article 313: Accessibility**
 
-*§ 28-313.1 Retroactive requirement for directional signage at building entrances. * ::
+
+
+*§ 28-313.1 Retroactive requirement for directional signage at building entrances.* ::
 
 
 The provisions of section 1110.2 of the New York city building code requiring directional signage to be posted at inaccessible building entrances indicating the route to the nearest accessible entrance shall apply retroactively to all buildings that have such accessible entrances. Buildings in existence on the effective date of this section shall post such directional signage on or before August 1, 2013. Such directional signage shall be maintained in good condition.
@@ -7861,7 +9147,9 @@ Exception: Directional signage posted at building entrances in compliance with t
 
 
 
-*§ 28-313.2 Retroactive requirement for accessible building entrances. * ::
+
+
+*§ 28-313.2 Retroactive requirement for accessible building entrances.* ::
 
 
 The provisions of item 5 of section 1110.1 of the New York city building code requiring signage to be posted at accessible entrances where an inaccessible building entrance exists shall apply retroactively to all buildings that have such accessible entrances. Buildings in existence on the effective date of this section shall post such signage on or before August 1, 2013. Such signage shall be maintained in good condition.
@@ -7874,7 +9162,9 @@ Exception: Accessible entrance signs that are posted at building entrances in co
 
 **Article 314: Periodic Wastewater Recycling System Inspection and Testing**
 
-*§ 28-314.1 General. * ::
+
+
+*§ 28-314.1 General.* ::
 
 
 Wastewater recycling systems installed in accordance with section C102 of appendix C of the New York city plumbing code shall be periodically inspected and tested in accordance with this article. This article shall not apply to rainwater recycling systems installed in accordance with section C103 of appendix C of the New York city plumbing code.
@@ -7882,7 +9172,9 @@ Wastewater recycling systems installed in accordance with section C102 of append
 
 
 
-*§ 28-314.2 Frequency of inspection and testing. * ::
+
+
+*§ 28-314.2 Frequency of inspection and testing.* ::
 
 
 The owner shall test and inspect waste water recycling systems on a monthly basis. The commissioner may require additional testing and inspections of waste water recycling systems as necessary to protect public safety.
@@ -7890,7 +9182,9 @@ The owner shall test and inspect waste water recycling systems on a monthly basi
 
 
 
-*§ 28-314.3 Inspection and testing process. * ::
+
+
+*§ 28-314.3 Inspection and testing process.* ::
 
 
 Waste water recycling systems shall be inspected and tested in accordance with sections 28-314.3.1 through 28-314.3.6.
@@ -7898,7 +9192,9 @@ Waste water recycling systems shall be inspected and tested in accordance with s
 
 
 
-*§ 28-314.3.1 Inspection and testing entities. * ::
+
+
+*§ 28-314.3.1 Inspection and testing entities.* ::
 
 
 Required tests performed on behalf of the owner shall be performed by an approved agency with qualifications as set forth in department rules.
@@ -7906,7 +9202,9 @@ Required tests performed on behalf of the owner shall be performed by an approve
 
 
 
-*§ 28-314.3.2 Scope. * ::
+
+
+*§ 28-314.3.2 Scope.* ::
 
 
 At each test and inspection, in addition to the requirements prescribed by this article, all waste water treatment equipment provided for operation of waste water recycling systems shall be inspected to determine that they are in safe operating condition and parts have not worn to such an extent as to affect the safe and reliable operation of the installation. At each test and inspection, treated effluent from the waste water recycling system shall be sampled and tested, the results of which shall comply with section C102.1 of the New York city plumbing code.
@@ -7914,7 +9212,9 @@ At each test and inspection, in addition to the requirements prescribed by this 
 
 
 
-*§ 28-314.3.3 Notation of inspection or test. * ::
+
+
+*§ 28-314.3.3 Notation of inspection or test.* ::
 
 
 After each test and inspection, the inspector shall affix the inspection date and his or her signature over a stamp identifying his or her approved agency and his or her approval number on the inspection certificate issued by the department.
@@ -7922,7 +9222,9 @@ After each test and inspection, the inspector shall affix the inspection date an
 
 
 
-*§ 28-314.3.4 Inspection and test reports submission. * ::
+
+
+*§ 28-314.3.4 Inspection and test reports submission.* ::
 
 
 Inspection and test reports shall be submitted on forms in such manner as required by the commissioner. Each inspection and test report shall include a listing of all violations for each device inspected and tested associated with the waste water recycling system. A copy of the report, signed by the inspector performing the inspection and tests shall be delivered to the owner within 30 days of the site visit. All reports shall be kept on file by the approved agency and the owner for a period of at least 6 years.
@@ -7930,7 +9232,9 @@ Inspection and test reports shall be submitted on forms in such manner as requir
 
 
 
-*§ 28-314.3.5 Reporting an unsafe or hazardous condition. * ::
+
+
+*§ 28-314.3.5 Reporting an unsafe or hazardous condition.* ::
 
 
 The operation of the system shall immediately cease if any test sample does not meet the minimum water quality standards of Table C102.1 of the New York city plumbing code. The waste water recycling system shall be placed into start-up mode and testing shall commence for at least five consecutive days demonstrating full compliance. If further inspection and testing reveals that the waste water recycling system test samples do not meet the minimum water quality standards in Table C102.1 of the New York City plumbing code, the system shall be taken out of service immediately by the agency performing the inspection. The building owner shall be notified immediately by the agency performing the inspection. The department shall be notified by the agency that the system has been taken out of service within 24 hours by telephone, electronically, in writing or as otherwise directed by the commissioner.
@@ -7938,7 +9242,9 @@ The operation of the system shall immediately cease if any test sample does not 
 
 
 
-*§ 28-314.3.6 Repair. * ::
+
+
+*§ 28-314.3.6 Repair.* ::
 
 
 All defects and violations identified during the inspection and testing process shall be corrected immediately prior to continuing the operation of the waste water recycling system.
@@ -7949,7 +9255,9 @@ All defects and violations identified during the inspection and testing process 
 
 **Article 315: Retroactive Requirements**
 
-*§ 28-315.1 General. * ::
+
+
+*§ 28-315.1 General.* ::
 
 
 Buildings must be in compliance with the retroactive requirements of the provisions of this code. Such requirements are listed in this article along with the dates by which compliance must be achieved. The retroactive requirements of the 1968 building code continue in effect under this code in accordance with section 28-102.4.1 of this code. The dates for compliance with the retroactive requirements of the 1968 building code are as set forth in the applicable provisions of such 1968 building code. Failure to comply with a retroactive requirement of this code or of the 1968 building code by the date specified for such compliance is a violation of this code.
@@ -7957,7 +9265,9 @@ Buildings must be in compliance with the retroactive requirements of the provisi
 
 
 
-*§ 28-315.2 Fire protection systems. * ::
+
+
+*§ 28-315.2 Fire protection systems.* ::
 
 
 The work specified in this section to enhance the fire protection systems of buildings shall be completed by the dates specified herein.
@@ -7965,7 +9275,9 @@ The work specified in this section to enhance the fire protection systems of bui
 
 
 
-*§ 28-315.2.1 Painting of certain exposed portions of sprinkler systems. * ::
+
+
+*§ 28-315.2.1 Painting of certain exposed portions of sprinkler systems.* ::
 
 
 The painting of exposed risers, cross connections and handles of valves of sprinkler systems in accordance with the retroactive requirements of section 903.6.3 of the New York city building code shall be completed by June 2, 2010 and certification of such painting shall be maintained in accordance with section 903.6.5 of such code.
@@ -7973,10 +9285,14 @@ The painting of exposed risers, cross connections and handles of valves of sprin
 
 
 
-*§ 28-315.2.2 Painting of certain exposed portions of standpipe systems. * ::
+
+
+*§ 28-315.2.2 Painting of certain exposed portions of standpipe systems.* ::
 
 
 The painting of exposed portions of standpipe systems and handles of valves serving such systems in accordance with the retroactive requirements of section 905.11.3 of the New York city building code shall be completed by June 2, 2010 and certification of such painting shall be maintained in accordance with section 905.11.6 of such code.
+
+
 
 
 
@@ -7993,6 +9309,8 @@ By December 31, 2016, animal service facilities shall comply with the retroactiv
 
 
 
+
+
 *§ 28-315.2.4 Natural gas alarms.* ::
 
 
@@ -8001,7 +9319,9 @@ The work specified in this section to enhance the sustainability of buildings mu
 
 
 
-*§ 28-315.3.1 Lighting systems. * ::
+
+
+*§ 28-315.3.1 Lighting systems.* ::
 
 
 By January 1, 2025, the lighting systems of certain buildings shall be in compliance with article 310 of this chapter and the owners of such buildings shall file a report in accordance with the rules of the department, prepared by a registered design professional or a licensed master or special electrician, certifying compliance with such section and compliance with the technical standards of the New York city electrical code. The department may impose a fee for filing and reviewing such reports.
@@ -8011,7 +9331,9 @@ By January 1, 2025, the lighting systems of certain buildings shall be in compli
 
 
 
-*§ 28-315.3.2 Electrical sub-meters. * ::
+
+
+*§ 28-315.3.2 Electrical sub-meters.* ::
 
 
 By January 1, 2025, the installation of electrical sub-meters in tenant spaces in certain buildings in accordance with article 311 of this chapter shall be completed and the owners of such buildings shall file a report in accordance with the rules of the department, prepared by a registered design professional or a licensed master or special electrician, certifying compliance with such section. The department may impose a fee for filing and reviewing such reports.
@@ -8023,7 +9345,9 @@ Editor's note: L.L. 2016/132, § 4, incorrectly identified this section as § 28
 
 
 
-*§ 28-315.4 Elevator safety. * ::
+
+
+*§ 28-315.4 Elevator safety.* ::
 
 
 The work specified in this section to improve the safety of existing elevators shall be completed by the dates specified herein.
@@ -8031,7 +9355,9 @@ The work specified in this section to improve the safety of existing elevators s
 
 
 
-*§ 28-315.4.1 Compliance with ASME A17.3 of 2002. * ::
+
+
+*§ 28-315.4.1 Compliance with ASME A17.3 of 2002.* ::
 
 
 Existing elevators and escalators shall, at a minimum, comply with ASME A17.3 of 2002, as modified by Chapter K3 of Appendix K of the New York city building code. All work to achieve compliance with such requirements shall be completed by December 14, 2009.
@@ -8057,7 +9383,9 @@ Exceptions:
 
 
 
-*§ 28-315.5 Fuel gas systems. * ::
+
+
+*§ 28-315.5 Fuel gas systems.* ::
 
 
 The work specified in this section to enhance the safety of fuel gas systems shall be completed by the dates specified herein.
@@ -8065,7 +9393,9 @@ The work specified in this section to enhance the safety of fuel gas systems sha
 
 
 
-*§ 28-315.5.1 Outside gas shut-off. * ::
+
+
+*§ 28-315.5.1 Outside gas shut-off.* ::
 
 
 Existing gas services shall be provided with an outside emergency shutoff device acceptable to the commissioner and the fire commissioner in accordance with the retroactive requirements of item 1 of section E 6 of Appendix E of the New York city fuel gas code. Installation of such a device shall be completed no later than January 1, 2010.
@@ -8075,7 +9405,9 @@ Exception: For R-3 occupancies, the installation of such a device shall be compl
 
 
 
-*§ 28-315.6 Accessibility. * ::
+
+
+*§ 28-315.6 Accessibility.* ::
 
 
 The work specified in this section to enhance the accessibility of buildings shall be completed by the dates specified herein.
@@ -8083,7 +9415,9 @@ The work specified in this section to enhance the accessibility of buildings sha
 
 
 
-*§ 28-315.6.1 Directional signage at inaccessible building entrances. * ::
+
+
+*§ 28-315.6.1 Directional signage at inaccessible building entrances.* ::
 
 
 The posting of directional signage at inaccessible building entrances in accordance with the retroactive requirements of section 28-313.1 of this code shall be completed on or before August 1, 2013.
@@ -8091,7 +9425,9 @@ The posting of directional signage at inaccessible building entrances in accorda
 
 
 
-*§ 28-315.6.2 Signage at accessible building entrances. * ::
+
+
+*§ 28-315.6.2 Signage at accessible building entrances.* ::
 
 
 The posting of signage at accessible building entrances in accordance with the retroactive requirements of section 28-313.2 of this code shall be completed on or before August 1, 2013.
@@ -8099,7 +9435,9 @@ The posting of signage at accessible building entrances in accordance with the r
 
 
 
-*§ 28-315.7 Building security. * ::
+
+
+*§ 28-315.7 Building security.* ::
 
 
 The work specified in this section to enhance building security shall be completed by the dates specified herein.
@@ -8107,7 +9445,9 @@ The work specified in this section to enhance building security shall be complet
 
 
 
-*§ 28-315.7.1 Security grilles on buildings in occupancy groups B or M. * ::
+
+
+*§ 28-315.7.1 Security grilles on buildings in occupancy groups B or M.* ::
 
 
 Security grilles abutting sidewalks on buildings in occupancy groups B or M shall comply with the retroactive requirements of item 4 of section 1008.1.4.5 of the New York city building code. On and after July 1, 2026, such grilles when closed shall permit visibility from the sidewalk of at least 70 percent of the area covered by such grille.
@@ -8115,7 +9455,9 @@ Security grilles abutting sidewalks on buildings in occupancy groups B or M shal
 
 
 
-*§ 28-315.8 Resiliency. * ::
+
+
+*§ 28-315.8 Resiliency.* ::
 
 
 The work specified in this section to enhance building resiliency shall be completed by the dates specified herein.
@@ -8123,7 +9465,9 @@ The work specified in this section to enhance building resiliency shall be compl
 
 
 
-*§ 28-315.8.1 Emergency source of water for residential occupancies. * ::
+
+
+*§ 28-315.8.1 Emergency source of water for residential occupancies.* ::
 
 
 Within 8 years after the effective date of this section, existing buildings greater than five stories in occupancy groups I-1, R-1, R-2, and R-3 that supply potable water from the public water main to occupants with the assistance of pumps, other than pumps connected to an emergency or a standby power system that complies with the requirements of chapter 27 of the New York city building code, shall be equipped with additional fixtures capable of supplying potable water to occupants utilizing only the available pressure from the public water main in compliance with section 614 of the New York city plumbing code.
@@ -8131,7 +9475,9 @@ Within 8 years after the effective date of this section, existing buildings grea
 
 
 
-*§ 28-315.8.2 Connections for temporary external generators. * ::
+
+
+*§ 28-315.8.2 Connections for temporary external generators.* ::
 
 
 For the following buildings, the provision of connections for temporary external generators in accordance with the retroactive requirements of section G311.2 of appendix G of the New York city building code shall be completed by January 1, 2033, and a report detailing compliance with such requirements shall be filed with the department in accordance with section G311.2.2 by such date:
@@ -8149,7 +9495,9 @@ For the following buildings, the provision of connections for temporary external
 
 
 
-*§ 28-315.8.2.1 Modification to the area of special flood hazard or shaded X-Zone. * ::
+
+
+*§ 28-315.8.2.1 Modification to the area of special flood hazard or shaded X-Zone.* ::
 
 
 Where the area of special flood hazard or shaded X-Zone, as established in appendix G of the New York city building code, is modified on or after the effective date of this section, any building identified in section 28-315.8.2 and newly identified as being within such modified area of special flood hazard or shaded X-Zone shall, no later than 20 years following the adoption of such modification, comply with the retroactive requirements of section G311.2 of appendix G of the New York city building code. The owner of such building shall, no later than 20 years following the adoption of such modification, file with the department a report detailing compliance with such requirements in accordance with section G311.2.2.
@@ -8157,7 +9505,9 @@ Where the area of special flood hazard or shaded X-Zone, as established in appen
 
 
 
-*§ 28-315.8.3 Connections for temporary external boilers and chillers. * ::
+
+
+*§ 28-315.8.3 Connections for temporary external boilers and chillers.* ::
 
 
 For buildings whose main use or dominant occupancy is group I-2 hospital and that are located in an area of special flood hazard or shaded X-Zone, as such terms are defined in appendix G of the New York city building code, the provision of connections for temporary external boilers and chillers in accordance with the retroactive requirements of section G311.3 of appendix G of the New York city building code shall be completed by January 1, 2033, and a report detailing compliance with such requirements shall be filed with the department in accordance with section G311.3.2 by such date.
@@ -8165,7 +9515,9 @@ For buildings whose main use or dominant occupancy is group I-2 hospital and tha
 
 
 
-*§ 28-315.8.3.1 Modification to the area of special flood hazard or shaded X-Zone. * ::
+
+
+*§ 28-315.8.3.1 Modification to the area of special flood hazard or shaded X-Zone.* ::
 
 
 Where the area of special flood hazard or shaded X-Zone, as established in appendix G of the New York city building code, is modified on or after the effective date of this section, any building whose main use or dominant occupancy is group I-2 hospital and that is newly identified as being within such modified area of special flood hazard or shaded X-Zone shall, no later than 20 years following the adoption of such modification, comply with the retroactive requirements of section G311.3 of appendix G of the New York city building code. The owner of such building shall, no later than 20 years following the adoption of such modification, file with the department a report detailing compliance with such requirements in accordance with section G311.3.2.
@@ -8173,10 +9525,14 @@ Where the area of special flood hazard or shaded X-Zone, as established in appen
 
 
 
-*§ 28-315.9 Single-occupant toilet rooms. * ::
+
+
+*§ 28-315.9 Single-occupant toilet rooms.* ::
 
 
 Notwithstanding any other provision of law or rule requiring separate facilities for each sex, on and after January 1, 2017, all single-occupant toilet rooms shall be made available for use by persons of any sex in accordance with section 403.2.1 of the New York city plumbing code. Nothing in this section shall be construed to require physical alteration of a single-occupant toilet room except for the posting and maintenance of appropriate signage in accordance with section 403.4 of the New York city plumbing code.
+
+
 
 
 
@@ -8196,7 +9552,9 @@ All doors providing access to interior corridors or stairs in occupancy groups R
 
 **Article 316: Insulation of Concealed Pipes Exposed During Alteration or Repair**
 
-*§ 28-316.1 Required insulation of certain concealed piping exposed during alteration or repair. * ::
+
+
+*§ 28-316.1 Required insulation of certain concealed piping exposed during alteration or repair.* ::
 
 
 Where concealed existing piping is exposed in the course of the alteration or repair of a building, the owner of the building shall provide for the insulation of the exposed piping. The exposed piping shall be insulated to the extent required by the New York city energy conservation code for newly installed pipe of the same specifications and serving the same function as the exposed pipe. The entire exposed length of the piping shall be insulated as well as any further length of concealed pipe that can be directly accessed through openings made in the course of such alteration or repair.
@@ -8215,10 +9573,14 @@ Exceptions:
 
 **Article 317: Cooling Towers**
 
+
+
 *§ 28-317.1 General.* ::
 
 
 All owners of cooling towers shall comply with this article and the rules of the department.
+
+
 
 
 
@@ -8231,6 +9593,8 @@ All owners of cooling towers shall comply with this article and the rules of the
 As used in this article, the following terms shall have the following meanings:
 
 COOLING TOWER. The term "cooling tower" means a cooling tower, evaporative condenser or fluid cooler that is part of a recirculated water system incorporated into a building's cooling, industrial process, refrigeration, or energy production system.
+
+
 
 
 
@@ -8267,10 +9631,14 @@ Exception: Owners of existing cooling towers shall register such towers within 3
 
 
 
+
+
 *§ 28-317.3.1 Discontinued use.* ::
 
 
 The owner or operator of a cooling tower shall notify the department within 30 days after removing or permanently discontinuing use of a cooling tower. Such notice shall include a statement that such cooling tower has been drained and sanitized in compliance with the requirements of the department of health and mental hygiene for discontinuance of a cooling tower.
+
+
 
 
 
@@ -8289,6 +9657,8 @@ Editor's note: this § 28-317.4 takes effect upon the promulgation of rules by t
 
 
 
+
+
 *§ 28-317.5 Annual certification.* ::
 
 
@@ -8299,10 +9669,14 @@ The owner or operator of a cooling tower shall file a certification each year th
 
 
 
+
+
 *§ 28-317.6 Fees.* ::
 
 
 The department may charge filing fees for registration, discontinuing of use and annual certification as set forth in the rules of the department.
+
+
 
 
 
@@ -8322,12 +9696,16 @@ Failure to register a cooling tower or submit a certification or statement requi
 
 **Article 318: Periodic Inspection of Gas Piping Systems**
 
+
+
 *§ 28-318.1 General.* ::
 
 
 Commencing January 1, 2019, building gas piping systems, other than gas piping systems of buildings classified in occupancy group R-3, shall be periodically inspected in accordance with this article.
 
 Exception: A building that contains no gas piping and for which the owner of such building has submitted to the commissioner, in a form and manner determined by the commissioner, a certificate of a registered design professional, or a person satisfying other qualifications that the commissioner may establish, that such building contains no gas piping.
+
+
 
 
 
@@ -8350,10 +9728,14 @@ Exceptions:
 
 
 
+
+
 *§ 28-318.3 Inspection process.* ::
 
 
 Gas piping systems shall be inspected and tested in accordance with sections 28-318.3.1 through 28-318.3.4.
+
+
 
 
 
@@ -8370,10 +9752,14 @@ Inspections of gas piping systems shall be conducted on behalf of the building o
 
 
 
+
+
 *§ 28-318.3.2 Scope.* ::
 
 
 At each inspection, in addition to the requirements prescribed by this article or by the commissioner, all exposed gas lines from point of entry of gas piping into a building, including building service meters, up to individual tenant spaces shall be inspected for evidence of excessive atmospheric corrosion or piping deterioration that has resulted in a dangerous condition, illegal connections, and non-code compliant installations. The inspection entity shall also test public spaces, hallways, corridors, and mechanical and boiler rooms with a portable combustible gas detector to determine if there is any gas leak, provided that such testing need only include public spaces, hallways and corridors on floors that contain gas piping or gas utilization equipment.
+
+
 
 
 
@@ -8400,6 +9786,8 @@ The inspection entity conducting an inspection of a building pursuant to this ar
 
 
 
+
+
 *§ 28-318.3.4 Reporting and correction of unsafe or hazardous condition.* ::
 
 
@@ -8416,10 +9804,14 @@ If an inspection reveals any of the following conditions, the inspection entity 
 
 
 
+
+
 *§ 28-318.4 Fees.* ::
 
 
 The department may charge filing fees for the certifications required by section 28-318.3.3, as set forth in the rules of the department.
+
+
 
 
 
@@ -8439,10 +9831,14 @@ Failure to submit a certification required by this article shall be classified a
 
 **Article 319: Maintenance and Removal of Small Wind Turbines**
 
+
+
 *§ 28-319.1 Maintenance.* ::
 
 
 The owner of a small wind turbine or small wind turbine tower, as such terms are defined in section 3113.2 of the New York city building code, shall maintain such turbine and tower in accordance with department rules.
+
+
 
 
 
@@ -8465,7 +9861,9 @@ Chapter 4: Licensing and Registration of Businesses, Trades And Occupations Enga
 
 **Article 401: General**
 
-*§ 28-401.1 Application. * ::
+
+
+*§ 28-401.1 Application.* ::
 
 
 This chapter shall apply to the licensing and registration of businesses, trades and occupations engaged in building work regulated by this code.
@@ -8473,7 +9871,9 @@ This chapter shall apply to the licensing and registration of businesses, trades
 
 
 
-*§ 28-401.2 General requirements for all licenses. * ::
+
+
+*§ 28-401.2 General requirements for all licenses.* ::
 
 
 The provisions of this article shall apply to all licenses issued by the department pursuant to this chapter. All applicants and licensees shall comply with the provisions of this article as well as the specific requirements applicable to the particular license as set forth in other articles of this chapter.
@@ -8481,7 +9881,9 @@ The provisions of this article shall apply to all licenses issued by the departm
 
 
 
-*§ 28-401.3 Definitions. * ::
+
+
+*§ 28-401.3 Definitions.* ::
 
 
 As used in this chapter the following terms shall have the following meanings unless the context or subject matter requires otherwise.
@@ -8533,7 +9935,9 @@ TOTAL BOOM. A boom including jibs and other extensions.
 
 
 
-*§ 28-401.4 Requirement of license. * ::
+
+
+*§ 28-401.4 Requirement of license.* ::
 
 
 It shall be unlawful for any person to engage in or carry on in the city any business, trade or occupation regulated by this chapter or to hold himself or herself out as authorized to engage in or carry on such activity, without having first obtained a license from the commissioner in accordance with and subject to the provisions of this chapter and the rules of the department. A license issued by the department for any such business, trade or occupation prior to July 1, 2008 shall remain in full force and effect until the expiration or termination thereof in accordance with the terms thereof, unless sooner revoked or suspended for cause as hereinafter provided. Any renewal of such license shall be in accordance with the provisions of this code.
@@ -8541,7 +9945,9 @@ It shall be unlawful for any person to engage in or carry on in the city any bus
 
 
 
-*§ 28-401.5 Application and conditions. * ::
+
+
+*§ 28-401.5 Application and conditions.* ::
 
 
 Every application for a license or certificate of competence shall be made in such form and shall be accompanied by such information as the commissioner may prescribe, and by the required fee. It is a condition of the license or certificate of competence that information in the application be kept correct and current. Any change in required information shall be reported to the department within fourteen days after any change prior to issuance of the license or certificate of competence or within thirty days after any change following issuance.
@@ -8549,7 +9955,9 @@ Every application for a license or certificate of competence shall be made in su
 
 
 
-*§ 28-401.6 Qualifications of applicant. * ::
+
+
+*§ 28-401.6 Qualifications of applicant.* ::
 
 
 All applicants for a license or certificate of competence shall be at least 18 years of age, shall be able to read and write the English language, shall be of good moral character, shall be fit to perform work authorized by the particular license or certificate of competence, and shall meet additional qualifications that may be prescribed for the particular license or certificate of competence. The department may refuse to qualify an applicant if it has found that the applicant violated any law, rule, or regulation of the department resulting in the suspension or revocation of a department issued license.
@@ -8557,7 +9965,9 @@ All applicants for a license or certificate of competence shall be at least 18 y
 
 
 
-*§ 28-401.7 Examination of applicant. * ::
+
+
+*§ 28-401.7 Examination of applicant.* ::
 
 
 Except as otherwise specified for the particular license type, applicants for a license shall be required to take an examination in accordance with the rules of the department. Every applicant shall commence the license application process with the department within one year of passing the examination for licensure and shall furnish to the department a completed license application within one year of submission of the first filing. Failure to provide all requested documents in a timely manner will constitute an incomplete application and will result in denial of the license
@@ -8565,7 +9975,9 @@ Except as otherwise specified for the particular license type, applicants for a 
 
 
 
-*§ 28-401.8 Investigation of applicant. * ::
+
+
+*§ 28-401.8 Investigation of applicant.* ::
 
 
 Every applicant for a license or certificate of competence shall submit to investigation as directed by a governmental entity in order to determine the applicant's character and fitness. The applicant shall furnish the department with payment for the actual cost of conducting the background investigation. Failure to provide all requested and completed documents or any other information necessary for completion of the investigation in a timely fashion will constitute an incomplete application and will result in a denial of the license or certificate of competence.
@@ -8573,7 +9985,9 @@ Every applicant for a license or certificate of competence shall submit to inves
 
 
 
-*§ 28-401.9 Insurance. * ::
+
+
+*§ 28-401.9 Insurance.* ::
 
 
 Except as noted otherwise for a particular license, or exempted by the commissioner pursuant to rule, prior to the issuance of a license, or during the renewal thereof, the applicant shall file with the department satisfactory evidence of a commercial general liability insurance policy in the amount of one million dollars or such other amount as the commissioner may require together with satisfactory evidence of compliance with the workers' compensation law and the disability benefits law. Required insurance shall be maintained for the duration of the license and any changes in coverage, insurance renewals, or policy status shall be provided to the department in accordance with department rules.
@@ -8581,7 +9995,9 @@ Except as noted otherwise for a particular license, or exempted by the commissio
 
 
 
-*§ 28-401.10 Issuance of license, plate and/or seal, where applicable, or certificate of competence. * ::
+
+
+*§ 28-401.10 Issuance of license, plate and/or seal, where applicable, or certificate of competence.* ::
 
 
 The commissioner shall issue a license or certificate of competence to each applicant who shall have submitted satisfactory evidence of his or her qualifications, and shall have satisfactorily passed all required examinations and investigations, provided that no license or certificate of competence shall be issued unless and until the applicant shall have paid the required fee and complied with such other and further requirements for the particular license or certificate of competence as may be set forth in this chapter and in rules promulgated by the department. All licenses or certificates of competence issued by the commissioner shall have his or her signature affixed thereto; but the commissioner may authorize any subordinate to affix such signature. For licenses that require a plate and/or the application of a seal, the plate and/or seal shall be issued with the license except as provided otherwise in this chapter. The license, plate and seal are the property of the department and are not transferable by the licensee. No licensee shall make or cause to be made duplicates of a department-issued license, plate or seal. The loss or theft of a license, plate or seal must be reported to the department within five calendar days.
@@ -8589,7 +10005,9 @@ The commissioner shall issue a license or certificate of competence to each appl
 
 
 
-*§ 28-401.11 Term of license. * ::
+
+
+*§ 28-401.11 Term of license.* ::
 
 
 All licenses issued by the commissioner for which an examination is required shall expire three years from the date of issuance thereof, and may be renewed every three years thereafter without examination. The commissioner shall have authority to stagger the issuance of licenses for three-year terms. All licenses not requiring examination shall expire one year from the date of issuance thereof, and may be renewed each year thereafter except as otherwise noted for a specific license.
@@ -8597,7 +10015,9 @@ All licenses issued by the commissioner for which an examination is required sha
 
 
 
-*§ 28-401.12 Renewal of license or certificate of competence. * ::
+
+
+*§ 28-401.12 Renewal of license or certificate of competence.* ::
 
 
 Applications for renewal of a license or certificate of competence shall be accompanied by the renewal fee and such additional information as the commissioner may require, and shall be made at least 30 calendar days but not more than 60 calendar days prior to the expiration date of same. Applicants shall provide evidence satisfactory to the department that he or she is fit to perform the work authorized by the particular license as provided by department rule. Applications for renewal are subject to investigation by the Department. The failure of an individual to renew his or her license or certificate of competence shall have the effect of cancellation of the license or certificate of competence upon expiration, and the holder of a plate and/or seal issued by the department shall immediately surrender such plate and/or seal to the department. A person who fails to renew a license or certificate of competence within the time period set forth in this section 28-401.12 may apply for late renewal or reinstatement of such license pursuant to section 28-401.13. The department may, following notice and an opportunity to be heard, refuse to renew a license or certificate of competence on any grounds on the basis of which it could deny, suspend or revoke such license.
@@ -8605,7 +10025,9 @@ Applications for renewal of a license or certificate of competence shall be acco
 
 
 
-*§ 28-401.13 Late renewal and reinstatement. * ::
+
+
+*§ 28-401.13 Late renewal and reinstatement.* ::
 
 
 If a license or certificate of competence expires, the individual may apply for late renewal of the license or certificate of competence, within one year of the date of its expiration without examination but subject to applicable late renewal fee. Thereafter, and up to five years after the date of expiration, the commissioner may reinstate the license or certificate of competence without examination upon the applicant's demonstration to the commissioner's satisfaction of continued competence in the respective trade and satisfaction of any applicable continuing education requirements but subject to applicable late renewal and reinstatement fees. Applicants for late renewal and reinstatement shall provide evidence satisfactory to the department that he or she is fit to perform the work authorized by the particular license as provided by department rule. A license or certificate of competence shall not be reinstated after five (5) years from date of expiration. The department may refuse to reinstate a license or certificate of competence on any grounds on the basis of which it could deny, suspend or revoke such license.
@@ -8613,7 +10035,9 @@ If a license or certificate of competence expires, the individual may apply for 
 
 
 
-*§ 28-401.14 Continuing education. * ::
+
+
+*§ 28-401.14 Continuing education.* ::
 
 
 The commissioner may promulgate rules to require applicants for the renewal of licenses or certificate of competence to complete a prescribed number of hours of continuing education courses approved by the department within the term preceding the application for renewal and to provide proof of same in a form acceptable to the department. Such proof, when required, shall be submitted with the application for renewal.
@@ -8621,7 +10045,9 @@ The commissioner may promulgate rules to require applicants for the renewal of l
 
 
 
-*§ 28-401.15 Schedule of fees. * ::
+
+
+*§ 28-401.15 Schedule of fees.* ::
 
 
 No holder of a license issued under this chapter shall authorize, consent to or permit the use of his or her license by or on behalf of any other person, and no person who has not qualified and obtained or renewed a license under this chapter shall hold himself or herself out to the public as licensed, certified, registered or as the holder of a license issued under this chapter, either directly or indirectly, by means of signs, sign cards, plates, stationery, or in any other manner whatsoever.
@@ -8629,7 +10055,9 @@ No holder of a license issued under this chapter shall authorize, consent to or 
 
 
 
-*§ 28-401.17 Use on behalf of a business. * ::
+
+
+*§ 28-401.17 Use on behalf of a business.* ::
 
 
 Except for such additional requirements as may be set forth for a particular license, nothing in this chapter shall be construed to prohibit the use of a license by the holder thereof for or on behalf of a partnership, corporation or other business association, provided that such business entity is disclosed to the department in a manner required by the department and where:
@@ -8641,7 +10069,9 @@ Except for such additional requirements as may be set forth for a particular lic
 
 
 
-*§ 28-401.17.1 Use on behalf of a city agency. * ::
+
+
+*§ 28-401.17.1 Use on behalf of a city agency.* ::
 
 
 Nothing in this chapter shall be construed to prohibit the holder of a license who is an employee of a city agency from using such license to practice the trade for which such license is issued for or on behalf of such city agency in the course of such employment except as otherwise limited pursuant to articles 408 and 410 of this chapter for licensed master plumber and licensed master fire suppression piping contractor licensees.
@@ -8649,7 +10079,9 @@ Nothing in this chapter shall be construed to prohibit the holder of a license w
 
 
 
-*§ 28-401.18 New York city location required. * ::
+
+
+*§ 28-401.18 New York city location required.* ::
 
 
 Except as otherwise noted for a particular license, the holder of a license, other than an employee of a city agency, shall have or be employed by a business entity that has an established place of business with an address within the city of New York at which such person can be contacted by the public and the department by mail, telephone or other modes of communication. A post office box is not an acceptable address.
@@ -8657,7 +10089,9 @@ Except as otherwise noted for a particular license, the holder of a license, oth
 
 
 
-*§ 28-401.19 Suspension or revocation of license or certificate of competence. * ::
+
+
+*§ 28-401.19 Suspension or revocation of license or certificate of competence.* ::
 
 
 The commissioner shall have the power to suspend or revoke a license or certificate of competence and/or to impose a fine not to exceed twenty-five thousand dollars for each finding of violation, and/or to order any holder thereof to repair damage resulting from any act or omission as set forth in this chapter or in rules, for any of the following:
@@ -8705,7 +10139,9 @@ The commissioner shall have the power to suspend or revoke a license or certific
 
 
 
-*§ 28-401.19.1 Notice and hearing. * ::
+
+
+*§ 28-401.19.1 Notice and hearing.* ::
 
 
 The commissioner shall not revoke or suspend a license or certificate of competence for any cause or impose any other sanction on a licensee unless and until the holder has been given at least five calendar days prior written notice and an opportunity to be heard. However, when the public safety may be imminently jeopardized the commissioner shall have the power, pending a hearing and determination of charges, to forthwith suspend any license for a period not exceeding 15 days.
@@ -8713,7 +10149,9 @@ The commissioner shall not revoke or suspend a license or certificate of compete
 
 
 
-*§ 28-401.19.2 Resolution of proceedings. * ::
+
+
+*§ 28-401.19.2 Resolution of proceedings.* ::
 
 
 1. Surrender of plate or seal. Upon surrender, suspension or revocation of a license for which the department has also issued a plate or seal, the license and such plate and/or seal shall be immediately surrendered to the department.
@@ -8723,7 +10161,9 @@ The commissioner shall not revoke or suspend a license or certificate of compete
 
 
 
-*§ 28-401.19.3 Reinstatement fees. * ::
+
+
+*§ 28-401.19.3 Reinstatement fees.* ::
 
 
 The fees required for the reinstatement of a certificate of competence or license, plate or seal after suspension shall be the same as those required to obtain an original document. If reinstatement of the certificate of competence, license, plate or seal is not requested within 30 days of the lifting of the suspension, then late fees shall be imposed in accordance with article 119 of chapter 1 of this title.
@@ -8731,7 +10171,9 @@ The fees required for the reinstatement of a certificate of competence or licens
 
 
 
-*§ 28-401.19.4 Mandatory suspension or revocation. * ::
+
+
+*§ 28-401.19.4 Mandatory suspension or revocation.* ::
 
 
 The commissioner shall immediately suspend or revoke a license issued pursuant to this code as set forth below. Nothing in the following sections shall be construed to limit the commissioner's power to revoke or suspend licenses in other circumstances.
@@ -8739,7 +10181,9 @@ The commissioner shall immediately suspend or revoke a license issued pursuant t
 
 
 
-*§ 28-401.19.4.1 Rigger license. * ::
+
+
+*§ 28-401.19.4.1 Rigger license.* ::
 
 
 Any licensed rigger who has been found guilty after proceedings before the environmental control board or other adjudicative proceedings of violating section 28-404.1 or 28-401.9 of the administrative code or sections 3314.1.1 and 3314.4.3.1 of the New York city building code, or of failing to insure that workers have certificates of fitness required pursuant to this code or applicable rule three times within any six-month period, shall be subject to immediate suspension of his or her license pending a hearing and determination in accordance with the provisions of this code.
@@ -8747,7 +10191,9 @@ Any licensed rigger who has been found guilty after proceedings before the envir
 
 
 
-*§ 28-401.19.4.2 General contractor registration. * ::
+
+
+*§ 28-401.19.4.2 General contractor registration.* ::
 
 
 Any registered general contractor who has defaulted at or been found liable after proceedings before the environmental control board or in an adjudication in criminal court of violations of any provisions of this code relating to a stop work order, public health or safety, structural integrity, building in compliance with approved construction documents or fire safety three times within any twenty-four-month period shall be subject to immediate suspension of his or her registration, pending a hearing and determination at office of administrative trials and hearings (OATH) or its successor agency, as applicable.
@@ -8755,7 +10201,9 @@ Any registered general contractor who has defaulted at or been found liable afte
 
 
 
-*§ 28-401.20 Cooperation required. * ::
+
+
+*§ 28-401.20 Cooperation required.* ::
 
 
 Any person, including any corporation, partnership, business or other entity, issued a license or certificate of competence by the department shall, pursuant to a request or order of the commissioner or any other city agency or office, cooperate fully and completely with respect to any department or city agency or office investigation. Evidence of cooperation shall include, but is not limited to, appearing before the department or other city agency or office, answering questions completely and accurately, and providing any and all requested documents. Failure to comply with such request or order may subject such person to disciplinary measures authorized by law, including but not limited to suspension or revocation of the license or certificate of competence.
@@ -8763,7 +10211,9 @@ Any person, including any corporation, partnership, business or other entity, is
 
 
 
-*§ 28-401.20.1 Service of request or order. * ::
+
+
+*§ 28-401.20.1 Service of request or order.* ::
 
 
 Such request or order by the commissioner or other city agency or office shall be mailed by regular mail to the person named therein to his or her last known business or home address at least ten days before such appearance and shall contain the name of the person, date, time and place of such appearance and, if known or applicable, a description of any requested documents. If the appearance or information is required immediately, the request or order may be transmitted via facsimile or delivered to the person's last known business or home address prior to the date and time specified therein.
@@ -8771,7 +10221,9 @@ Such request or order by the commissioner or other city agency or office shall b
 
 
 
-*§ 28-401.21 Judicial review of determinations. * ::
+
+
+*§ 28-401.21 Judicial review of determinations.* ::
 
 
 Notwithstanding any other provision of law to the contrary, decisions, orders and interpretations of the commissioner made pursuant to this chapter shall not be subject to review by the board of standards and appeals. Final decisions and orders of the commissioner made pursuant to this chapter shall be subject to review pursuant to article 78 of the civil practice law and rules.
@@ -8779,7 +10231,9 @@ Notwithstanding any other provision of law to the contrary, decisions, orders an
 
 
 
-*§ 28-401.22 Deactivation of license. * ::
+
+
+*§ 28-401.22 Deactivation of license.* ::
 
 
 In the event that the holder of a license is no longer actively engaged as a licensee in a trade or business licensed by the department, the licensee may submit his or her license for deactivation pursuant to department rules. During the period of deactivation, the licensee must continue to pay the license renewal fee required under this chapter for each year of the deactivation period. The holder of a deactivated license may not practice in the trade or business as a licensee or hold himself or herself out as a licensee during the period of deactivation. Application for reactivation of a deactivated license without re-examination shall be made within a time period prescribed by rule and subject to a demonstration of work experience in the trade satisfactory to the commissioner during the time that the license was deactivated.
@@ -8790,7 +10244,9 @@ In the event that the holder of a license is no longer actively engaged as a lic
 
 **Article 402: Site Safety Manager Certificate**
 
-*§ 28-402.1 Certificate required. * ::
+
+
+*§ 28-402.1 Certificate required.* ::
 
 
 It shall be unlawful to perform the duties and responsibilities of a site safety manager as specified in chapter 33 of the New York city building code unless such work is performed by a person certified as a site safety manager under the provisions of this article.
@@ -8798,7 +10254,9 @@ It shall be unlawful to perform the duties and responsibilities of a site safety
 
 
 
-*§ 28-402.2 Qualifications. * ::
+
+
+*§ 28-402.2 Qualifications.* ::
 
 
 All applicants for a site safety manager certificate shall submit satisfactory proof establishing that the applicant:
@@ -8821,7 +10279,9 @@ All applicants for a site safety manager certificate shall submit satisfactory p
 
 **Article 403: Site Safety Coordinator Certificate**
 
-*§ 28-403.1 Certificate required. * ::
+
+
+*§ 28-403.1 Certificate required.* ::
 
 
 It shall be unlawful to perform the duties and responsibilities of a site safety coordinator as specified in chapter 33 of the New York city building code unless such work is performed by a person certified as a site safety coordinator under the provisions of this article.
@@ -8829,7 +10289,9 @@ It shall be unlawful to perform the duties and responsibilities of a site safety
 
 
 
-*§ 28-403.2 Qualifications. * ::
+
+
+*§ 28-403.2 Qualifications.* ::
 
 
 All applicants for a site safety coordinator certificate shall submit satisfactory proof establishing that the applicant:
@@ -8848,7 +10310,9 @@ All applicants for a site safety coordinator certificate shall submit satisfacto
 
 **Article 404: Rigger License**
 
-*§ 28-404.1 Rigger license required. * ::
+
+
+*§ 28-404.1 Rigger license required.* ::
 
 
 It shall be unlawful to hoist or lower any article on the outside of any building in the city unless such work is performed by or under the direct and continuing supervision of a person licensed as a rigger under the provisions of this article. The provisions of this article shall apply to the erection or dismantling of a tower crane or a climber crane on a building and to the use of a derrick in their removal, except that such erection or dismantling may be performed by or under the direct and continuing supervision of a licensed climber or tower crane rigger in accordance with rules promulgated by the department.
@@ -8864,7 +10328,9 @@ Exception: The provisions of this article shall not apply to:
 
 
 
-*§ 28-404.2 Classification. * ::
+
+
+*§ 28-404.2 Classification.* ::
 
 
 Rigger licenses shall be classified as follows:
@@ -8882,7 +10348,9 @@ Rigger licenses shall be classified as follows:
 
 
 
-*§ 28-404.3 Additional qualifications. * ::
+
+
+*§ 28-404.3 Additional qualifications.* ::
 
 
 Applicants for a rigger license shall have the additional qualifications as set forth in sections 28-404.3.1 through 28-404.3.3.
@@ -8890,7 +10358,9 @@ Applicants for a rigger license shall have the additional qualifications as set 
 
 
 
-*§ 28-404.3.1 Master rigger qualifications. * ::
+
+
+*§ 28-404.3.1 Master rigger qualifications.* ::
 
 
 All applicants for a master rigger license shall submit satisfactory proof establishing that the applicant:
@@ -8904,7 +10374,9 @@ All applicants for a master rigger license shall submit satisfactory proof estab
 
 
 
-*§ 28-404.3.2 Special rigger qualifications. * ::
+
+
+*§ 28-404.3.2 Special rigger qualifications.* ::
 
 
 All applicants for a special rigger license shall submit satisfactory proof establishing that the applicant:
@@ -8918,7 +10390,9 @@ All applicants for a special rigger license shall submit satisfactory proof esta
 
 
 
-*§ 28-404.3.3 Climber or tower crane rigger qualifications. * ::
+
+
+*§ 28-404.3.3 Climber or tower crane rigger qualifications.* ::
 
 
 All applicants for a climber or tower crane rigger license shall submit satisfactory proof establishing that the applicant:
@@ -8932,7 +10406,9 @@ All applicants for a climber or tower crane rigger license shall submit satisfac
 
 
 
-*§ 28-404.4 Additional requirements. * ::
+
+
+*§ 28-404.4 Additional requirements.* ::
 
 
 The additional requirements set forth in sections 28-404.4.1 through 28-404.4.3 shall apply to licensed riggers:
@@ -8940,7 +10416,9 @@ The additional requirements set forth in sections 28-404.4.1 through 28-404.4.3 
 
 
 
-*§ 28-404.4.1 Danger warning. * ::
+
+
+*§ 28-404.4.1 Danger warning.* ::
 
 
 Every licensed master and special rigger shall, while rigging operations are in progress at a job site, place, conspicuously, at such job site two plates or signs not less than 18 inches (457 mm) by 24 inches (610 mm) in size (i) displaying the word "danger" in letters not less than 6 inches (152 mm) high, and (ii) disclosing the rigger's name, business address, type of rigger license and license number.
@@ -8948,7 +10426,9 @@ Every licensed master and special rigger shall, while rigging operations are in 
 
 
 
-*§ 28-404.4.2 Rigger place of business. * ::
+
+
+*§ 28-404.4.2 Rigger place of business.* ::
 
 
 Every licensed master and special rigger shall have a place of business located within the city and shall display prominently at such place of business a plate or sign marked with the words "master rigger" or "special rigger," respectively, and his or her license number immediately there under. A master, special and tower or climber rigger shall be a sole proprietor, a partner in the partnership or an officer of the corporation and shall be allowed to associate his or her license with only one other rigger business. Such businesses shall be located at the same place of business.
@@ -8956,7 +10436,9 @@ Every licensed master and special rigger shall have a place of business located 
 
 
 
-*§ 28-404.4.3. Fitness to perform work. * ::
+
+
+*§ 28-404.4.3. Fitness to perform work.* ::
 
 
 As a condition of license renewal or reinstatement, a licensed master or special rigger shall provide evidence satisfactory to the department that he or she is fit to perform the work.
@@ -8967,7 +10449,9 @@ As a condition of license renewal or reinstatement, a licensed master or special
 
 **Article 405: Hoisting Machine Operator License**
 
-*§ 28-405.1 Hoisting machine operator license required. * ::
+
+
+*§ 28-405.1 Hoisting machine operator license required.* ::
 
 
 It shall be unlawful for any persons to take charge of or operate any power-operated hoisting machine used for hoisting purposes or cableways under the jurisdiction of the department, unless such person is licensed under the provisions of this article or is a holder of a certificate of qualification as a hoisting machine operator issued prior to December 6, 1968 and not allowed to lapse.
@@ -8983,7 +10467,9 @@ Exceptions:
 
 
 
-*§ 28-405.2 Classification. * ::
+
+
+*§ 28-405.2 Classification.* ::
 
 
 Hoisting machine operator licenses shall be classified as follows:
@@ -9005,7 +10491,9 @@ Hoisting machine operator licenses shall be classified as follows:
 
 
 
-*§ 28-405.3 Additional qualifications. * ::
+
+
+*§ 28-405.3 Additional qualifications.* ::
 
 
 Applicants for a hoisting machine operator license shall have the following additional qualifications.
@@ -9013,7 +10501,9 @@ Applicants for a hoisting machine operator license shall have the following addi
 
 
 
-*§ 28-405.3.1 Class A license. * ::
+
+
+*§ 28-405.3.1 Class A license.* ::
 
 
 An applicant for a class A basic hoisting machine operator license shall have at least three years experience within the five years prior to application under the direct and continuing supervision of a licensed hoisting machine operator.
@@ -9021,10 +10511,14 @@ An applicant for a class A basic hoisting machine operator license shall have at
 
 
 
-*§ 28-405.3.2 Class B license. * ::
+
+
+*§ 28-405.3.2 Class B license.* ::
 
 
 An applicant for a class B hoisting machine operator license shall have the following qualifications.
+
+
 
 
 
@@ -9041,6 +10535,8 @@ An applicant for a class B hoisting machine operator license shall have a class 
 
 
 
+
+
 *§ 28-405.3.2.2 Licensing ratings.* ::
 
 
@@ -9051,7 +10547,9 @@ An applicant for a class B hoisting machine operator licensing rating shall have
 
 
 
-*§ 28-405.3.3 Class C license. * ::
+
+
+*§ 28-405.3.3 Class C license.* ::
 
 
 An applicant for a class C special hoisting machine operator license shall have at least two years experience within the three years prior to application under the direct and continuing supervision of a licensed hoisting machine operator and have satisfactorily passed a practical examination in the operation of equipment for which such license is to be issued.
@@ -9059,7 +10557,9 @@ An applicant for a class C special hoisting machine operator license shall have 
 
 
 
-*§ 28-405.4 Fitness to perform work. * ::
+
+
+*§ 28-405.4 Fitness to perform work.* ::
 
 
 As a condition of license renewal and reinstatement, a licensed hoisting machine operator shall provide evidence satisfactory to the department that he or she is fit to perform the work.
@@ -9067,7 +10567,9 @@ As a condition of license renewal and reinstatement, a licensed hoisting machine
 
 
 
-*§ 28-405.5 Insurance exemption. * ::
+
+
+*§ 28-405.5 Insurance exemption.* ::
 
 
 Unless otherwise required by rule, licensed hoisting machine operators are exempt from the insurance requirements of section 28-401.9.
@@ -9078,7 +10580,9 @@ Unless otherwise required by rule, licensed hoisting machine operators are exemp
 
 **Article 406: Concrete Testing Laboratory License**
 
-*§ 28-406.1 Concrete testing laboratory license required. * ::
+
+
+*§ 28-406.1 Concrete testing laboratory license required.* ::
 
 
 Testing of concrete required by this code or other applicable laws or rules shall be conducted by a concrete testing laboratory licensed in accordance with this article.
@@ -9086,7 +10590,9 @@ Testing of concrete required by this code or other applicable laws or rules shal
 
 
 
-*§ 28-406.2 Qualifications. * ::
+
+
+*§ 28-406.2 Qualifications.* ::
 
 
 All applicants for a concrete testing laboratory license shall maintain a laboratory within 50 miles (80 467 m) of the city and shall submit satisfactory proof establishing that the business is conducted by qualified personnel in accordance with procedures, safety requirements and professional standards as set forth in rules of the department. The department shall inspect an applicant's place of business and equipment and conduct an investigation of applicant's personnel in a manner to be set forth in department rules prior to the issuance or renewal of a license.
@@ -9094,7 +10600,9 @@ All applicants for a concrete testing laboratory license shall maintain a labora
 
 
 
-*§ 28-406.3 Additional requirements. * ::
+
+
+*§ 28-406.3 Additional requirements.* ::
 
 
 The following additional requirements shall apply to concrete testing laboratories:
@@ -9102,7 +10610,9 @@ The following additional requirements shall apply to concrete testing laboratori
 
 
 
-*§ 28-406.3.1 Director. * ::
+
+
+*§ 28-406.3.1 Director.* ::
 
 
 Each laboratory shall have in responsible charge a director who shall be a full-time employee of the laboratory and shall not serve as the director of more than one licensed laboratory at a time. The director shall be a registered design professional, and shall personally supervise all technical functions of the laboratory relating to testing of concrete and concrete materials as required in this code and in rules of the department.
@@ -9110,7 +10620,9 @@ Each laboratory shall have in responsible charge a director who shall be a full-
 
 
 
-*§ 28-406.3.2 Certification of reports by director. * ::
+
+
+*§ 28-406.3.2 Certification of reports by director.* ::
 
 
 The director shall certify the truth and accuracy of all reports filed by the laboratory under the provisions of this code or other applicable laws and rules.
@@ -9118,7 +10630,9 @@ The director shall certify the truth and accuracy of all reports filed by the la
 
 
 
-*§ 28-406.4 No examination required. * ::
+
+
+*§ 28-406.4 No examination required.* ::
 
 
 An examination shall not be required for a concrete testing laboratory license.
@@ -9129,7 +10643,9 @@ An examination shall not be required for a concrete testing laboratory license.
 
 **Article 407: Welder License**
 
-*§ 28-407.1 Welder license required. * ::
+
+
+*§ 28-407.1 Welder license required.* ::
 
 
 It shall be unlawful to perform manual welding work on any structural member of any building in the city unless such work is performed by a person licensed as a welder under the provisions of this article.
@@ -9137,7 +10653,9 @@ It shall be unlawful to perform manual welding work on any structural member of 
 
 
 
-*§ 28-407.2 Qualifications. * ::
+
+
+*§ 28-407.2 Qualifications.* ::
 
 
 All applicants for a welder license shall submit satisfactory proof of the applicant's fitness to make structural welds, including his or her ability to pass operator qualification tests as determined by the commissioner.
@@ -9145,7 +10663,9 @@ All applicants for a welder license shall submit satisfactory proof of the appli
 
 
 
-*§ 28-407.3 Fitness to perform work. * ::
+
+
+*§ 28-407.3 Fitness to perform work.* ::
 
 
 As a condition of license renewal and reinstatement, a licensed welder shall provide evidence satisfactory to the department that such licensee is fit to perform the work.
@@ -9153,7 +10673,9 @@ As a condition of license renewal and reinstatement, a licensed welder shall pro
 
 
 
-*§ 28-407.4 Insurance exemption. * ::
+
+
+*§ 28-407.4 Insurance exemption.* ::
 
 
 Unless otherwise required by rule, licensed welders are exempt from the insurance requirements of section 28-401.9.
@@ -9164,7 +10686,9 @@ Unless otherwise required by rule, licensed welders are exempt from the insuranc
 
 **Article 408: Master Plumber License**
 
-*§ 28-408.1 Master plumber license required. * ::
+
+
+*§ 28-408.1 Master plumber license required.* ::
 
 
 It shall be unlawful for any person:
@@ -9176,7 +10700,9 @@ It shall be unlawful for any person:
 
 
 
-*§ 28-408.2 Seal. * ::
+
+
+*§ 28-408.2 Seal.* ::
 
 
 All documents that are required to be filed with any department or agency of the city of New York shall bear the stamp of the seal as well as the signature of the licensee. The licensed master plumber performing the work and services shall personally sign and seal all applications and other documents required to be filed pursuant to this code.
@@ -9184,7 +10710,9 @@ All documents that are required to be filed with any department or agency of the
 
 
 
-*§ 28-408.3 Additional qualifications. * ::
+
+
+*§ 28-408.3 Additional qualifications.* ::
 
 
 Applicants for a master plumber license shall have the following additional qualifications:
@@ -9192,7 +10720,9 @@ Applicants for a master plumber license shall have the following additional qual
 
 
 
-*§ 28-408.3.1 Experience. * ::
+
+
+*§ 28-408.3.1 Experience.* ::
 
 
 All applicants for a master plumber license shall submit satisfactory proof establishing that the applicant:
@@ -9210,7 +10740,9 @@ All applicants for a master plumber license shall submit satisfactory proof esta
 
 
 
-*§ 28-408.3.2 Armed services. * ::
+
+
+*§ 28-408.3.2 Armed services.* ::
 
 
 Applicants who were engaged in plumbing work as above provided prior to entering the armed services of the United States shall be permitted to credit their time in the service as experience in the plumbing business, as above provided; but such service credit shall not exceed one-third of the time required for experience.
@@ -9218,7 +10750,9 @@ Applicants who were engaged in plumbing work as above provided prior to entering
 
 
 
-*§ 28-408.4 Certificate of competence and license, plate and/or seal. * ::
+
+
+*§ 28-408.4 Certificate of competence and license, plate and/or seal.* ::
 
 
 The commissioner shall issue a certificate of competence, license, plate, and/or seal, in accordance with the following:
@@ -9226,7 +10760,9 @@ The commissioner shall issue a certificate of competence, license, plate, and/or
 
 
 
-*§ 28-408.4.1 Certificate of competence. * ::
+
+
+*§ 28-408.4.1 Certificate of competence.* ::
 
 
 A certificate of competence shall be issued by the commissioner to an applicant who satisfactorily complies with the experience and examination requirements of this chapter for a license, upon payment of the fee. Such certificate shall contain the full name of the individual and a certificate number, the date of issuance, and shall be signed by the commissioner.
@@ -9234,7 +10770,9 @@ A certificate of competence shall be issued by the commissioner to an applicant 
 
 
 
-*§ 28-408.4.2 Effect of issuance. * ::
+
+
+*§ 28-408.4.2 Effect of issuance.* ::
 
 
 The issuance of a certificate of competence shall constitute evidence that the person named therein is qualified upon payment of applicable fees to obtain a plate and seal while the certificate is valid except that a city employee while in the employ of the city shall only be entitled to obtain a seal.
@@ -9242,7 +10780,9 @@ The issuance of a certificate of competence shall constitute evidence that the p
 
 
 
-*§ 28-408.4.3 Plate and/or seal required. * ::
+
+
+*§ 28-408.4.3 Plate and/or seal required.* ::
 
 
 The holder of a certificate shall not be entitled to perform work or hold himself or herself out to perform work as a licensed master plumber until such plate and/or seal have been obtained. Further, no holder of a certificate of competence shall enter into any contractual agreement to install or alter any plumbing, gas piping, or any piping system, other than an employment agreement with a master plumber business or a city agency.
@@ -9250,7 +10790,9 @@ The holder of a certificate shall not be entitled to perform work or hold himsel
 
 
 
-*§ 28-408.4.4 Effect of failure to obtain plate and/or seal. * ::
+
+
+*§ 28-408.4.4 Effect of failure to obtain plate and/or seal.* ::
 
 
 If a holder of a certificate of competence has held the certificate for five years without a plate and/or seal, then the commissioner may require said person to submit an affidavit and supporting documentation satisfactory to the department stating that over the five-year period the individual has been engaged in planning or design, and installation, of plumbing systems in the United States under the direct and continuing supervision of a licensed master plumber. If the holder's qualifications are not satisfactory to the commissioner, the commissioner may require such person to submit to reexamination or to provide evidence of retained proficiency. In addition, additional fees will be due as set forth in this chapter.
@@ -9258,7 +10800,9 @@ If a holder of a certificate of competence has held the certificate for five yea
 
 
 
-*§ 28-408.4.5 Requirement for obtaining a license, plate and /or seal. * ::
+
+
+*§ 28-408.4.5 Requirement for obtaining a license, plate and /or seal.* ::
 
 
 A holder of a certificate of competence or an applicant who has satisfied all requirements for a master plumber license shall obtain:
@@ -9270,7 +10814,9 @@ A holder of a certificate of competence or an applicant who has satisfied all re
 
 
 
-*§ 28-408.4.6 Issuance. * ::
+
+
+*§ 28-408.4.6 Issuance.* ::
 
 
 A certificate of competence or a license, plate, and/or seal as a master plumber shall be issued only to an individual.
@@ -9278,7 +10824,9 @@ A certificate of competence or a license, plate, and/or seal as a master plumber
 
 
 
-*§ 28-408.4.7 Duplication prohibited. * ::
+
+
+*§ 28-408.4.7 Duplication prohibited.* ::
 
 
 Not more than one license, plate and/or seal shall be issued to an individual and no individual shall make or cause to be made a duplicate of such license, plate or seal.
@@ -9286,7 +10834,9 @@ Not more than one license, plate and/or seal shall be issued to an individual an
 
 
 
-*§ 28-408.5 Surrender of license, plate or seal. * ::
+
+
+*§ 28-408.5 Surrender of license, plate or seal.* ::
 
 
 Upon the death or the retirement of a licensed master plumber, or upon the surrender, revocation or suspension of his or her license, his or her license, plate and/or seal shall immediately be surrendered to the commissioner. Nothing contained herein shall be construed to prevent the legal representative of a deceased licensee, with the consent of the commissioner, from retaining such plate and seal for the purpose of completing all unfinished work of the deceased licensee for which plans have been approved and a permit issued, provided such work is performed by or under the direct and continuing supervision of a licensed master plumber and is completed within one year from the date of the death of the original licensee.
@@ -9294,7 +10844,9 @@ Upon the death or the retirement of a licensed master plumber, or upon the surre
 
 
 
-*§ 28-408.6 Master plumber business. * ::
+
+
+*§ 28-408.6 Master plumber business.* ::
 
 
 No individual, corporation, partnership or other business association shall conduct a plumbing contracting business in the city of New York, or employ the name "plumber" or "plumbing" in its business name unless such business is a master plumber business as follows:
@@ -9312,7 +10864,9 @@ Exception: A company, corporation, partnership or other business association or 
 
 
 
-*§ 28-408.6.1 Use. * ::
+
+
+*§ 28-408.6.1 Use.* ::
 
 
 Nothing herein contained shall be construed to prohibit the use of a master plumber license by the holder thereof for or on behalf of a partnership, corporation or other business association provided that such partnership, corporation or other business is a master plumber business.
@@ -9320,7 +10874,9 @@ Nothing herein contained shall be construed to prohibit the use of a master plum
 
 
 
-*§ 28-408.6.2 Identification. * ::
+
+
+*§ 28-408.6.2 Identification.* ::
 
 
 All business vehicles, advertising, websites and stationery used in connection with a master plumber business shall display prominently the full name of the licensee, the words "N.Y.C. licensed plumber," the licensee's number and the licensee's business address. If the business is conducted under a trade name, or by a partnership or corporation, the trade name, partnership or corporate name shall be placed immediately above the full name or names of the licensed master plumber or licensed master plumbers to whom the plates were issued.
@@ -9328,7 +10884,9 @@ All business vehicles, advertising, websites and stationery used in connection w
 
 
 
-*§ 28-408.6.3 Withdrawal of license. * ::
+
+
+*§ 28-408.6.3 Withdrawal of license.* ::
 
 
 If a licensed master plumber withdraws from a master plumbing business operating pursuant to such individual's license, the right of the business to perform plumbing work shall lapse if the provisions of this section 28-408.6 are no longer satisfied. If a licensed master plumber's license is revoked or suspended, such licensee will be deemed withdrawn from such business.
@@ -9336,7 +10894,9 @@ If a licensed master plumber withdraws from a master plumbing business operating
 
 
 
-*§ 28-408.6.4 Ownership limitations. * ::
+
+
+*§ 28-408.6.4 Ownership limitations.* ::
 
 
 An individual who is a licensed master plumber whose interest or ownership in a master plumber business constitutes any portion of the 51 percent interest or control required by this section 28-408.6 shall be allowed to possess an interest or ownership in only one other master plumber business , where such interest or ownership would constitute any portion of the 51 percent interest or control required by this section 28-408.6. Both master plumber businesses in which the licensed master plumber has an interest shall be located at the same place of business. For the purposes of this section 28-408.6, where two or more individuals who are licensed master plumbers possess an interest or ownership in any master plumber business which together represents more than 51 percent of the interest or control of such entity, all of such licensees shall be deemed to possess a portion of the 51 percent interest or control required by this section 28-408.6.
@@ -9344,7 +10904,9 @@ An individual who is a licensed master plumber whose interest or ownership in a 
 
 
 
-*§ 28-408.6.5 Joint ventures. * ::
+
+
+*§ 28-408.6.5 Joint ventures.* ::
 
 
 Nothing contained in this section 28-408.6 shall be construed to prevent a master plumber business from entering into a joint venture of limited duration for a particular project with another master plumber business. The terms of a joint venture must be in writing, and documentation of the joint venture must be submitted to the department for approval prior to the initiation of work under such venture.
@@ -9352,7 +10914,9 @@ Nothing contained in this section 28-408.6 shall be construed to prevent a maste
 
 
 
-*§ 28-408.6.6 Supervision. * ::
+
+
+*§ 28-408.6.6 Supervision.* ::
 
 
 The master plumber shall conduct his or her business to provide direct and continuing supervision in accordance with the provisions of this code.
@@ -9365,7 +10929,9 @@ Exception: The provisions of this section 28-408.6.6 shall not apply to minor al
 
 **Article 409: Journeyman Plumber Registration**
 
-*§ 28-409.1 Journeyman plumber registration; additional qualifications. * ::
+
+
+*§ 28-409.1 Journeyman plumber registration; additional qualifications.* ::
 
 
 Upon satisfactory completion of a New York State-recognized training program or affirmation of an applicant's qualifications by an employer licensed master plumber or, in the case of a city agency, a supervising licensed master plumber and upon written stipulation of same by the applicant, the commissioner shall register an applicant as journeyman plumber. Such qualifications shall reflect a progressive understanding, proficiency and competence in the plumbing trade, including:
@@ -9381,7 +10947,9 @@ Upon satisfactory completion of a New York State-recognized training program or 
 
 
 
-*§ 28-409.2 Experience. * ::
+
+
+*§ 28-409.2 Experience.* ::
 
 
 The applicant for journeyman plumber registration shall have a minimum of five years of full-time experience in the performance of plumbing work under the direct and continuing supervision of a licensed master plumber or equivalent, where at least one year of such experience shall have been in New York city.
@@ -9389,7 +10957,9 @@ The applicant for journeyman plumber registration shall have a minimum of five y
 
 
 
-*§ 28-409.3 Registration need not be renewed. * ::
+
+
+*§ 28-409.3 Registration need not be renewed.* ::
 
 
 The registration for journeyman plumber shall have no expiration and shall not require renewal or re-issuance.
@@ -9397,7 +10967,9 @@ The registration for journeyman plumber shall have no expiration and shall not r
 
 
 
-*§ 28-409.4 Registration card. * ::
+
+
+*§ 28-409.4 Registration card.* ::
 
 
 The registration card shall clearly state: "This registration is NOT A LICENSE, and the holder is NOT AUTHORIZED TO PERFORM PLUMBING WORK in New York city except under the direct and continuing supervision of a licensed master plumber."
@@ -9408,7 +10980,9 @@ The registration card shall clearly state: "This registration is NOT A LICENSE, 
 
 **Article 410: Master Fire Suppression Piping Contractor License**
 
-*§ 28-410.1 Master fire suppression piping contractor license required. * ::
+
+
+*§ 28-410.1 Master fire suppression piping contractor license required.* ::
 
 
 It shall be unlawful for any person:
@@ -9420,7 +10994,9 @@ It shall be unlawful for any person:
 
 
 
-*§ 28-410.2 Seal. * ::
+
+
+*§ 28-410.2 Seal.* ::
 
 
 All documents that are required to be filed with any department or agency of the city of New York shall bear the stamp of the seal as well as the signature of the licensee. The licensed master fire suppression piping contractor performing the work and services shall personally sign and seal all applications and other documents required to be filed pursuant to the code.
@@ -9428,7 +11004,9 @@ All documents that are required to be filed with any department or agency of the
 
 
 
-*§ 28-410.3 Classification. * ::
+
+
+*§ 28-410.3 Classification.* ::
 
 
 There shall be three classes of licenses for master fire suppression piping contractor:
@@ -9442,7 +11020,9 @@ There shall be three classes of licenses for master fire suppression piping cont
 
 
 
-*§ 28-410.4 Additional qualifications. * ::
+
+
+*§ 28-410.4 Additional qualifications.* ::
 
 
 Applicants for a master fire suppression piping contractor license shall have the following additional qualifications:
@@ -9450,7 +11030,9 @@ Applicants for a master fire suppression piping contractor license shall have th
 
 
 
-*§ 28-410.4.1 Experience. * ::
+
+
+*§ 28-410.4.1 Experience.* ::
 
 
 All applicants for a master fire suppression piping contractor license shall submit satisfactory proof establishing that the applicant:
@@ -9468,7 +11050,9 @@ All applicants for a master fire suppression piping contractor license shall sub
 
 
 
-*§ 28-410.4.2 Armed services. * ::
+
+
+*§ 28-410.4.2 Armed services.* ::
 
 
 Applicants who were engaged in fire suppression piping work prior to entering the armed services of the United States shall be permitted to credit their time in the service as experience in the fire suppression piping business, as above provided; but such service credit shall not exceed one-third of the time required for experience.
@@ -9476,7 +11060,9 @@ Applicants who were engaged in fire suppression piping work prior to entering th
 
 
 
-*§ 28-410.5 Certificate of competence and license, plate and/or seal. * ::
+
+
+*§ 28-410.5 Certificate of competence and license, plate and/or seal.* ::
 
 
 The commissioner shall issue a certificate of competence, license, plate and/or seal in accordance with the following:
@@ -9484,7 +11070,9 @@ The commissioner shall issue a certificate of competence, license, plate and/or 
 
 
 
-*§ 28-410.5.1 Certificate of competence. * ::
+
+
+*§ 28-410.5.1 Certificate of competence.* ::
 
 
 A certificate of competence shall be issued by the commissioner to an applicant who satisfactorily complies with the experience and examination requirements of this article for a license, upon payment of the fee. Such certificate shall contain the full name of the individual and a certificate number, and shall be signed by the commissioner.
@@ -9492,7 +11080,9 @@ A certificate of competence shall be issued by the commissioner to an applicant 
 
 
 
-*§ 28-410.5.2 Effect of issuance. * ::
+
+
+*§ 28-410.5.2 Effect of issuance.* ::
 
 
 The issuance of a certificate of competence shall constitute evidence that the person named therein is qualified upon payment of applicable fees to obtain a plate and seal while the certificate is valid except that a city employee while in the employ of the city shall only be entitled to obtain a seal.
@@ -9500,7 +11090,9 @@ The issuance of a certificate of competence shall constitute evidence that the p
 
 
 
-*§ 28-410.5.3 Plate and /or seal required. * ::
+
+
+*§ 28-410.5.3 Plate and /or seal required.* ::
 
 
 The holder of a certificate of competence shall not be entitled to perform work or hold himself or herself out to perform work as a licensed master fire suppression piping contractor until such plate and/or seal have been obtained. Further, no holder of a certificate of competence shall enter into any contractual agreement to install or alter any fire suppression piping system other than an employment agreement with a master fire suppression piping business or a city agency.
@@ -9508,7 +11100,9 @@ The holder of a certificate of competence shall not be entitled to perform work 
 
 
 
-*§ 28-410.5.4 Failure to obtain plate and/or seal. * ::
+
+
+*§ 28-410.5.4 Failure to obtain plate and/or seal.* ::
 
 
 If a holder of a certificate of competence has held the certificate for five years without a plate and/or seal, then the commissioner may require said person to submit an affidavit and supporting documentation satisfactory to the department stating that over the five-year period the individual has been engaged in the planning or design, and installation, of fire suppression piping systems in the United States under the direct and continuing supervision of a licensed master fire suppression piping contractor. If the holder's qualifications are not satisfactory to the commissioner, the commissioner may require such person to submit to reexamination or to provide evidence of retained proficiency. In addition, additional fees will be due as set forth in this chapter.
@@ -9516,7 +11110,9 @@ If a holder of a certificate of competence has held the certificate for five yea
 
 
 
-*§ 28-410.5.5 License plate and/or seal. * ::
+
+
+*§ 28-410.5.5 License plate and/or seal.* ::
 
 
 A holder of a certificate of competence or an applicant who has satisfied all requirements for a master fire suppression piping contractor license shall obtain:
@@ -9528,7 +11124,9 @@ A holder of a certificate of competence or an applicant who has satisfied all re
 
 
 
-*§ 28-410.5.6 Issuance. * ::
+
+
+*§ 28-410.5.6 Issuance.* ::
 
 
 A certificate of competence or a license, plate and/or seal as a master fire suppression piping contractor shall be issued only to an individual.
@@ -9536,7 +11134,9 @@ A certificate of competence or a license, plate and/or seal as a master fire sup
 
 
 
-*§ 28-410.5.7 Duplication prohibited. * ::
+
+
+*§ 28-410.5.7 Duplication prohibited.* ::
 
 
 Not more than one license, plate and/or seal shall be issued to an individual, and no individual shall make or cause to be made a duplicate of such license, plate or seal.
@@ -9544,7 +11144,9 @@ Not more than one license, plate and/or seal shall be issued to an individual, a
 
 
 
-*§ 28-410.6 Waiver of examinations. * ::
+
+
+*§ 28-410.6 Waiver of examinations.* ::
 
 
 Any license issued without examination pursuant to an application filed prior to July 25, 1990 pursuant to the provisions of law in effect prior to July 1, 2008 that has not lapsed as of July 1, 2008, shall be renewable pursuant to the provisions of this code.
@@ -9552,7 +11154,9 @@ Any license issued without examination pursuant to an application filed prior to
 
 
 
-*§ 28-410.7 Surrender of license, plate and/or seal. * ::
+
+
+*§ 28-410.7 Surrender of license, plate and/or seal.* ::
 
 
 Upon the death or the retirement of a licensed master fire suppression piping contractor, or upon the surrender, revocation or suspension of his or her license, his or her license, plate and seal shall immediately be surrendered to the commissioner. Nothing contained herein shall be construed to prevent the legal representative of a deceased licensee, with the consent of the commissioner, from retaining such plate and seal for the purpose of completing all unfinished work of such deceased licensee for which plans have been approved and a permit issued, provided such work is performed by or under the direct and continuing supervision of a licensed master fire suppression piping contractor and is completed within one year from the date of the death of the original licensee.
@@ -9560,7 +11164,9 @@ Upon the death or the retirement of a licensed master fire suppression piping co
 
 
 
-*§ 28-410.8 Master fire suppression piping contractor business required. * ::
+
+
+*§ 28-410.8 Master fire suppression piping contractor business required.* ::
 
 
 No individual, corporation, partnership or other business association shall conduct a fire suppression piping contracting business in the city of New York, or employ the name "fire suppression piping" in its business name, unless the business is a master fire suppression business as follows:
@@ -9578,7 +11184,9 @@ Exception: A company, corporation, partnership or other business association or 
 
 
 
-*§ 28-410.8.1 Use. * ::
+
+
+*§ 28-410.8.1 Use.* ::
 
 
 Nothing herein contained shall be construed to prohibit the use of a master fire suppression piping contractor license by the holder thereof for or on behalf of a partnership, corporation or other business association provided that such partnership, corporation or other business is a master fire suppression piping contractor business.
@@ -9586,7 +11194,9 @@ Nothing herein contained shall be construed to prohibit the use of a master fire
 
 
 
-*§ 28-410.8.2 Identification. * ::
+
+
+*§ 28-410.8.2 Identification.* ::
 
 
 All business vehicles, advertising, websites and stationery used in connection with a master fire suppression piping contractor business shall display prominently the full name of the licensee, the words "N.Y.C. licensed fire suppression piping contractor—class A, B or C," the licensee's number and the licensee's business address. If the business is conducted under a trade name, or by a partnership or corporation, the trade name, partnership or corporate name shall be placed immediately above the full name or names of the licensed master fire suppression piping contractor or licensed master fire suppression piping contractors to whom the plates were issued.
@@ -9594,7 +11204,9 @@ All business vehicles, advertising, websites and stationery used in connection w
 
 
 
-*§ 28-410.8.3 Withdrawal of licensee. * ::
+
+
+*§ 28-410.8.3 Withdrawal of licensee.* ::
 
 
 If a licensed master fire suppression piping contractor withdraws from a master fire suppression piping contractor business operating pursuant to such individual's license, the right of the business to perform fire suppression piping work shall lapse if the provisions of this article are no longer satisfied. If a licensed master fire suppression piping contractor's license is revoked or suspended, such licensee will be deemed withdrawn from such business.
@@ -9602,7 +11214,9 @@ If a licensed master fire suppression piping contractor withdraws from a master 
 
 
 
-*§ 28-410.8.4 Ownership limitations. * ::
+
+
+*§ 28-410.8.4 Ownership limitations.* ::
 
 
 An individual who is a licensed master fire suppression piping contractor whose interest or ownership in a master fire suppression piping contractor business constitutes any portion of the 51 percent interest or control required by this section 28-410.8 shall be allowed to possess an interest or ownership in only one other fire suppression piping contractor business where such interest or ownership would constitute any portion of the 51 percent interest or control required by this section 28-410.8. Both fire suppression piping contractor businesses in which the licensed master fire suppression piping contractor has an interest shall be located at the same place of business. For the purposes of this section 28-410.8, where two or more individuals who are licensed master fire suppression piping contractors possess an interest or ownership in any master fire suppression piping contractor business which together represents more than fifty-one percent of the interest or control of such entity, all of such licensees shall be deemed to possess a portion of the 51 percent interest or control required by this section 28-410.8.
@@ -9610,7 +11224,9 @@ An individual who is a licensed master fire suppression piping contractor whose 
 
 
 
-*§ 28-410.8.5 Joint ventures. * ::
+
+
+*§ 28-410.8.5 Joint ventures.* ::
 
 
 Nothing contained in this section 28-410.8 shall be construed to prevent a master fire suppression piping contractor business from entering into a joint venture of limited duration for a particular project with another master fire suppression piping contractor business. The terms of a joint venture must be in writing, and documentation of the joint venture must be submitted to the department for approval prior to the initiation of work under such venture.
@@ -9618,7 +11234,9 @@ Nothing contained in this section 28-410.8 shall be construed to prevent a maste
 
 
 
-*§ 28-410.8.6 Supervision. * ::
+
+
+*§ 28-410.8.6 Supervision.* ::
 
 
 The master fire suppression piping contractor shall conduct his or her business to provide direct and continuing supervision in accordance with the provisions of this article.
@@ -9630,6 +11248,8 @@ Exception: The provisions of this section 28-410.8.6 shall not apply to minor al
 
 
 **Article 411: Journeyman Fire Supression Piping Installer Registration**
+
+
 
 *§ 28-411.1 Journeyman fire suppression piping installer registration; additional qualifications.* ::
 
@@ -9647,7 +11267,9 @@ Upon satisfactory completion of a New York state-recognized training program or 
 
 
 
-*§ 28-411.2 Experience. * ::
+
+
+*§ 28-411.2 Experience.* ::
 
 
 The applicant for journeyman fire suppression piping installer registration shall have a minimum of five years of full-time experience in the performance of fire suppression piping work under the direct and continuing supervision of a licensed master fire suppression piping contractor or equivalent, where at least one year of such experience shall have been in New York city.
@@ -9655,7 +11277,9 @@ The applicant for journeyman fire suppression piping installer registration shal
 
 
 
-*§ 28-411.3 [No expiration or renewal.] * ::
+
+
+*§ 28-411.3 [No expiration or renewal.]* ::
 
 
 The registration for journeyman fire suppression piping installer shall have no expiration and shall not require renewal or reissuance.
@@ -9663,7 +11287,9 @@ The registration for journeyman fire suppression piping installer shall have no 
 
 
 
-*§ 28-411.4 [Registration not a license.] * ::
+
+
+*§ 28-411.4 [Registration not a license.]* ::
 
 
 The registration shall clearly state: "This registration is NOT A LICENSE, and the holder is NOT AUTHORIZED TO PERFORM FIRE SUPPRESSION PIPING WORK in New York city except under the direct and continuing supervision of a Licensed Master Fire Suppression Piping Contractor."
@@ -9674,7 +11300,9 @@ The registration shall clearly state: "This registration is NOT A LICENSE, and t
 
 **Article 412: Oil-burning Equipment Installer License**
 
-*§ 28-412.1 Oil-burning equipment installer license required. * ::
+
+
+*§ 28-412.1 Oil-burning equipment installer license required.* ::
 
 
 It shall be unlawful to install oil-burning equipment in the city unless such work is performed by or under the direct and continuing supervision of a person licensed as an oil-burning equipment installer under the provisions of this article.
@@ -9682,7 +11310,9 @@ It shall be unlawful to install oil-burning equipment in the city unless such wo
 
 
 
-*§ 28-412.2 Classifications. * ::
+
+
+*§ 28-412.2 Classifications.* ::
 
 
 Oil-burning equipment installer licenses shall be classified as follows:
@@ -9694,7 +11324,9 @@ Oil-burning equipment installer licenses shall be classified as follows:
 
 
 
-*§ 28-412.3 Qualifications. * ::
+
+
+*§ 28-412.3 Qualifications.* ::
 
 
 Applicants for an oil-burning equipment installer license shall have the qualifications set forth in sections 28-412.3.1 through 28-412.3.2.
@@ -9702,7 +11334,9 @@ Applicants for an oil-burning equipment installer license shall have the qualifi
 
 
 
-*§ 28-412.3.1 Experience for Class A license. * ::
+
+
+*§ 28-412.3.1 Experience for Class A license.* ::
 
 
 All applicants for a class A oil-burning equipment installer license shall submit satisfactory proof establishing that the applicant has had at least four years practical experience within the seven years prior to application in the installation of oil-burning equipment under the direct and continuing supervision of a Class A-licensed oil-burning equipment installer in the city, including at least one year experience in the installation of oil-burning equipment for the use of number five and number six fuel oils.
@@ -9710,7 +11344,9 @@ All applicants for a class A oil-burning equipment installer license shall submi
 
 
 
-*§ 28-412.3.2 Experience for class B license. * ::
+
+
+*§ 28-412.3.2 Experience for class B license.* ::
 
 
 All applicants for a class B oil-burning equipment installer license shall submit satisfactory proof establishing that the applicant has had at least three years practical experience within the five years prior to application in the installation of oil-burning equipment under the direct and continuing supervision of a licensed oil-burning equipment installer in the city.
@@ -9718,7 +11354,9 @@ All applicants for a class B oil-burning equipment installer license shall submi
 
 
 
-*§ 28-412.4 Fitness to perform work. * ::
+
+
+*§ 28-412.4 Fitness to perform work.* ::
 
 
 As a condition of license renewal and reinstatement, a licensed oil burning equipment installer shall provide evidence satisfactory to the department that such licensee is fit to perform the work.
@@ -9726,7 +11364,9 @@ As a condition of license renewal and reinstatement, a licensed oil burning equi
 
 
 
-*§ 28-412.5 Oil-burning equipment installer place of business. * ::
+
+
+*§ 28-412.5 Oil-burning equipment installer place of business.* ::
 
 
 Every licensed oil burning equipment installer shall have a place of business within the city. A licensed oil burning equipment installer shall be a sole proprietor, a partner in the partnership or an officer of the corporation.
@@ -9737,7 +11377,9 @@ Every licensed oil burning equipment installer shall have a place of business wi
 
 **Article 413: High-pressure Boiler Operating Engineer License**
 
-*§ 28-413.1 High-pressure boiler operating engineer license required. * ::
+
+
+*§ 28-413.1 High-pressure boiler operating engineer license required.* ::
 
 
 It shall be unlawful to operate any high-pressure boiler for any purpose whatsoever, in the city of New York or in connection with any vessel on the waters in and around the city not subject to the jurisdiction of the United States, unless such boiler is operated by or under the direct and continuing supervision and in the presence of a person having a high-pressure boiler operating engineer license under the provisions of this article. Exceptions. A licensed high-pressure boiler operating engineer is not required to operate a high-pressure boiler that meets all of the following conditions:
@@ -9757,7 +11399,9 @@ It shall be unlawful to operate any high-pressure boiler for any purpose whatsoe
 
 
 
-*§ 28-413.2 Qualifications. * ::
+
+
+*§ 28-413.2 Qualifications.* ::
 
 
 Applicants for a high-pressure boiler operating engineer license shall present satisfactory proof that:
@@ -9781,7 +11425,9 @@ Applicants for a high-pressure boiler operating engineer license shall present s
 
 
 
-*§ 28-413.3 Fitness to perform work. * ::
+
+
+*§ 28-413.3 Fitness to perform work.* ::
 
 
 As a condition of license renewal and reinstatement, a licensed high-pressure boiler operating engineer shall provide evidence satisfactory to the department that such licensee is fit to perform the work.
@@ -9789,7 +11435,9 @@ As a condition of license renewal and reinstatement, a licensed high-pressure bo
 
 
 
-*§ 28-413.4 Individuals holding portable high-pressure boiler operating engineer license on the effective date of this section. * ::
+
+
+*§ 28-413.4 Individuals holding portable high-pressure boiler operating engineer license on the effective date of this section.* ::
 
 
 Notwithstanding section 28-413.2, upon application, individuals who hold a portable high-pressure boiler operating engineer license on the effective date of this section may be issued a high-pressure boiler operating engineer license without examination. Such application shall be deemed to be an application for renewal of a license pursuant to this chapter.
@@ -9800,10 +11448,14 @@ Notwithstanding section 28-413.2, upon application, individuals who hold a porta
 
 **Article 415: Sign Hanger License**
 
-*§ 28-415.1 Sign hanger license required. * ::
+
+
+*§ 28-415.1 Sign hanger license required.* ::
 
 
 It shall be unlawful to hoist or lower or to hang or attach any sign upon or on the outside of any building or structure in the city unless such work is performed by or under the direct and continuing supervision of a person licensed as a sign hanger under the provisions of this article.
+
+
 
 
 
@@ -9826,7 +11478,9 @@ The provisions of this article shall not apply to the following:
 
 
 
-*§ 28-415.3 Classification. * ::
+
+
+*§ 28-415.3 Classification.* ::
 
 
 Such licenses shall be classified as follows:
@@ -9838,7 +11492,9 @@ Such licenses shall be classified as follows:
 
 
 
-*§ 28-415.4 Additional qualifications. * ::
+
+
+*§ 28-415.4 Additional qualifications.* ::
 
 
 Applicants for a sign hanger license shall have the additional qualifications set forth in sections 28-415.4.1 through 28-415.4.2.
@@ -9846,7 +11502,9 @@ Applicants for a sign hanger license shall have the additional qualifications se
 
 
 
-*§ 28-415.4.1 Master sign hanger qualifications. * ::
+
+
+*§ 28-415.4.1 Master sign hanger qualifications.* ::
 
 
 All applicants for a master sign hanger license shall submit satisfactory proof establishing that the applicant has at least five years practical experience in sign hanging within the seven years preceding the date of the license application under the direct and continuing supervision of a licensed master sign hanger; and the applicant shall also have a knowledge of and ability to read plans and specifications relating to sign construction and erection, including supporting framework and other supports, and a knowledge of the problems and practices of sign construction and hanging and be familiar with the equipment and tools used in sign hanging.
@@ -9854,7 +11512,9 @@ All applicants for a master sign hanger license shall submit satisfactory proof 
 
 
 
-*§ 28-415.4.2 Special sign hanger qualifications. * ::
+
+
+*§ 28-415.4.2 Special sign hanger qualifications.* ::
 
 
 All applicants for a special sign hanger license shall submit satisfactory proof establishing that the applicant has at least three years practical experience in sign hanging within the five years preceding the date of the license application under the direct and continuing supervision of a licensed sign hanger; and the applicant shall also have a knowledge and ability to read plans and specifications relating to sign construction and erection, including supporting framework and other supports, and a knowledge of the problems and practices of sign construction and hanging and be familiar with the equipment and tools used in sign hanging.
@@ -9862,7 +11522,9 @@ All applicants for a special sign hanger license shall submit satisfactory proof
 
 
 
-*§ 28-415.5 Additional requirements. * ::
+
+
+*§ 28-415.5 Additional requirements.* ::
 
 
 The additional requirements set forth in sections 28-415.5.1 through 28-415.5.2 shall apply to sign hangers:
@@ -9870,7 +11532,9 @@ The additional requirements set forth in sections 28-415.5.1 through 28-415.5.2 
 
 
 
-*§ 28-415.5.1 Danger warning. * ::
+
+
+*§ 28-415.5.1 Danger warning.* ::
 
 
 Every licensed sign hanger shall, while sign hanging operations are in progress at a job site, place conspicuously at such job site two plates or signs not less than 18 inches (457 mm) by 24 inches (610 mm) in size (i) displaying the word "danger" in letters not less than 6 inches (152 mm) high, and (ii) disclosing the sign hanger's name, business address, type of license and license number.
@@ -9878,7 +11542,9 @@ Every licensed sign hanger shall, while sign hanging operations are in progress 
 
 
 
-*§ 28-415.5.2 Sign hanger place of business. * ::
+
+
+*§ 28-415.5.2 Sign hanger place of business.* ::
 
 
 Every licensed sign hanger shall have a place of business within the city and shall display prominently at such place of business a plate or sign marked with the words "sign hanger" and the license number immediately thereunder. A licensed sign hanger shall be a sole proprietor, a partner in the partnership or an officer of the corporation and shall be allowed to associate his or her license with only one other sign hanger business. Such businesses shall be located at the same place of business.
@@ -9886,7 +11552,9 @@ Every licensed sign hanger shall have a place of business within the city and sh
 
 
 
-*§ 28-415.6 Fitness to perform work. * ::
+
+
+*§ 28-415.6 Fitness to perform work.* ::
 
 
 As a condition of license renewal or reinstatement, a licensed sign hanger shall provide evidence satisfactory to the department that such licensee is fit to perform the work.
@@ -9897,6 +11565,8 @@ As a condition of license renewal or reinstatement, a licensed sign hanger shall
 
 **Article 416: Filing Representative Registration**
 
+
+
 *§ 28-416.1 Filing representative registration required.* ::
 
 
@@ -9905,7 +11575,9 @@ No person shall use the term "registered filing representative" or "filing repre
 
 
 
-*§ 28-416.2 Exemptions. * ::
+
+
+*§ 28-416.2 Exemptions.* ::
 
 
 The following persons are exempt from the provisions of this article. Any person from whom the department may refuse to accept an application or other document pursuant to section 28-211.1 shall not be afforded this exemption.
@@ -9933,7 +11605,9 @@ The following persons are exempt from the provisions of this article. Any person
 
 
 
-*§ 28-416.3 Rules. * ::
+
+
+*§ 28-416.3 Rules.* ::
 
 
 The commissioner shall promulgate rules for the proper and efficient administration and enforcement of this article. Unless required by rule, a registered filing representative shall not be required to take an examination or to complete continuing education courses as a condition for renewal of the registration.
@@ -9944,7 +11618,9 @@ The commissioner shall promulgate rules for the proper and efficient administrat
 
 **Article 417: Boards**
 
-*§ 28-417.1 Plumbing and fire suppression piping contractor license board. * ::
+
+
+*§ 28-417.1 Plumbing and fire suppression piping contractor license board.* ::
 
 
 The commissioner shall appoint annually and may remove in his or her discretion each member of a plumbing and fire suppression piping contractor license board that shall have as its purpose the following:
@@ -9960,7 +11636,9 @@ The commissioner shall appoint annually and may remove in his or her discretion 
 
 
 
-*§ 28-417.1.1 Removal. * ::
+
+
+*§ 28-417.1.1 Removal.* ::
 
 
 The commissioner may remove any member of the license board and shall fill any vacancy therein.
@@ -9968,7 +11646,9 @@ The commissioner may remove any member of the license board and shall fill any v
 
 
 
-*§ 28-417.1.2 Membership. * ::
+
+
+*§ 28-417.1.2 Membership.* ::
 
 
 Membership of the board shall consist of:
@@ -9996,7 +11676,9 @@ Membership of the board shall consist of:
 
 
 
-*§ 28-417.1.3 Organization of the board. * ::
+
+
+*§ 28-417.1.3 Organization of the board.* ::
 
 
 A member of the board who is an officer or employee of the department representing the commissioner shall serve as chairperson and all members shall serve without compensation. Nine members including the chairperson, who shall be entitled to vote, shall constitute a quorum of the board for the transaction of business. In the absence of a member or in the event of a vacancy, an alternate member of the board, may vote in the place and stead of the member for whom he or she is the alternate or on account of whom the vacancy exists. Alternate members shall be appointed and removed at the commissioner's discretion. All actions shall be conducted by majority vote except as otherwise provided, and the board shall keep minutes of its proceedings and records of its investigations. Except as otherwise determined by the chairperson the board shall meet at least once a month.
@@ -10004,7 +11686,9 @@ A member of the board who is an officer or employee of the department representi
 
 
 
-*§ 28-417.1.4 Advisory and support personnel. * ::
+
+
+*§ 28-417.1.4 Advisory and support personnel.* ::
 
 
 The board may request the commissioner to appoint duly authorized representatives to conduct investigations and other activities incidental to the functions of the license board. Such appointees shall be non-voting members of the committee to which they are appointed, and may include personnel who are not department employees who shall serve without compensation. In addition the commissioner may designate such employees of the department as the commissioner deems necessary to the service and support of the license board.
@@ -10015,7 +11699,9 @@ The board may request the commissioner to appoint duly authorized representative
 
 **Article 418: General Contractor Registration**
 
-*§ 28-418.1 Requirement of registration. * ::
+
+
+*§ 28-418.1 Requirement of registration.* ::
 
 
 On and after November 1, 2008, it shall be unlawful for a person to conduct business as a general contractor unless such person holds a general contractor registration in accordance with the provisions of this article.
@@ -10023,7 +11709,9 @@ On and after November 1, 2008, it shall be unlawful for a person to conduct busi
 
 
 
-*§ 28-418.1.1 Expiration of registration. * ::
+
+
+*§ 28-418.1.1 Expiration of registration.* ::
 
 
 A general contractor registration shall expire on the third anniversary of such registration or such other date as determined by the commissioner by rule so as to distribute the expiration dates of the registrations evenly over the course of a year.
@@ -10031,7 +11719,9 @@ A general contractor registration shall expire on the third anniversary of such 
 
 
 
-*§ 28-418.2 Unlawful use of general contractor title. * ::
+
+
+*§ 28-418.2 Unlawful use of general contractor title.* ::
 
 
 On and after November 1, 2008, it shall be unlawful to use or cause to be used the title registered general contractor or any other title in a manner as to convey the impression that an individual, corporation, partnership or other business entity, or any person it employs, is a registered general contractor, unless such individual, corporation, partnership or other business entity is registered in accordance with the provisions of this article.
@@ -10039,7 +11729,9 @@ On and after November 1, 2008, it shall be unlawful to use or cause to be used t
 
 
 
-*§ 28-418.3 Application requirements. * ::
+
+
+*§ 28-418.3 Application requirements.* ::
 
 
 An application for a general contractor registration or renewal shall be made in writing to the commissioner on a form provided by the department and shall be accompanied by the following:
@@ -10079,7 +11771,9 @@ An application for a general contractor registration or renewal shall be made in
 
 
 
-*§ 28-418.3.1 Financial solvency. * ::
+
+
+*§ 28-418.3.1 Financial solvency.* ::
 
 
 For the purposes of this article, financial solvency shall mean that the applicant's operating capital shall exceed twenty-five thousand dollars.
@@ -10087,7 +11781,9 @@ For the purposes of this article, financial solvency shall mean that the applica
 
 
 
-*§ 28-418.4 Warranties. * ::
+
+
+*§ 28-418.4 Warranties.* ::
 
 
 A warranty shall be provided to the buyer of a new one-, two- or three-family structure that accords with the provisions of article thirty-six-B of the New York state general business law, including the following:
@@ -10101,7 +11797,9 @@ A warranty shall be provided to the buyer of a new one-, two- or three-family st
 
 
 
-*§ 28-418.4.1 Modification prohibited. * ::
+
+
+*§ 28-418.4.1 Modification prohibited.* ::
 
 
 Except as otherwise provided in section seven hundred seventy-seven-b of such article thirty-six-B, no such warranty shall be modified or excluded in any way.
@@ -10109,7 +11807,9 @@ Except as otherwise provided in section seven hundred seventy-seven-b of such ar
 
 
 
-*§ 28-418.5 Duties and responsibilities. * ::
+
+
+*§ 28-418.5 Duties and responsibilities.* ::
 
 
 The general contractor shall comply with sections 28-418.5.1 through 28-418.5.3.
@@ -10117,7 +11817,9 @@ The general contractor shall comply with sections 28-418.5.1 through 28-418.5.3.
 
 
 
-*§ 28-418.5.1 Subcontractor information. * ::
+
+
+*§ 28-418.5.1 Subcontractor information.* ::
 
 
 The general contractor shall be responsible for providing information to the department about his or her subcontractors and the particular work they perform on jobs for which the department has issued permits to the general contractor. Such information shall be provided in a format and at the times specified in the rules of the department.
@@ -10125,7 +11827,9 @@ The general contractor shall be responsible for providing information to the dep
 
 
 
-*§ 28-418.5.2 Technical reports. * ::
+
+
+*§ 28-418.5.2 Technical reports.* ::
 
 
 The general contractor shall maintain at the work site such technical reports as specified in the rules of the department and shall make such reports available to department personnel on request.
@@ -10133,7 +11837,9 @@ The general contractor shall maintain at the work site such technical reports as
 
 
 
-*§ 28-418.5.3 Notice of pending disciplinary actions. * ::
+
+
+*§ 28-418.5.3 Notice of pending disciplinary actions.* ::
 
 
 The general contractor shall notify all of its suppliers of any pending suspension or revocation actions against such general contractor and shall provide an affidavit to the department stating that this notification has been made.
@@ -10141,7 +11847,9 @@ The general contractor shall notify all of its suppliers of any pending suspensi
 
 
 
-*§ 28-418.6 [Reserved] * ::
+
+
+*§ 28-418.6 [Reserved]* ::
 
 
 On and after November 1, 2008 vehicles and tools used in connection with unlicensed or unregistered activity at the work site of a new residential structure containing no more than three dwelling units shall be subject to seizure and forfeiture.
@@ -10149,7 +11857,9 @@ On and after November 1, 2008 vehicles and tools used in connection with unlicen
 
 
 
-*§ 28-419.2 Definitions. * ::
+
+
+*§ 28-419.2 Definitions.* ::
 
 
 For purposes of this article, the following terms shall have the following meanings.
@@ -10163,7 +11873,9 @@ For purposes of this article, the following terms shall have the following meani
 
 
 
-*§ 28-419.3 Seizure procedure. * ::
+
+
+*§ 28-419.3 Seizure procedure.* ::
 
 
 The following provisions shall govern seizure of vehicles and tools pursuant to this article.
@@ -10171,7 +11883,9 @@ The following provisions shall govern seizure of vehicles and tools pursuant to 
 
 
 
-*§ 28-419.3.1 Seizure. * ::
+
+
+*§ 28-419.3.1 Seizure.* ::
 
 
 Any police officer or authorized officer or authorized employee of the department may seize any vehicle and any tools contained therein that such police officer or authorized officer or authorized employee has reasonable cause to believe is being used in connection with unlicensed or unregistered activity, upon service on the owner or operator of the vehicle of a notice of violation for engaging in such activity. Any vehicle and tools seized pursuant to this section shall be delivered into the custody of the department or other appropriate agency.
@@ -10179,7 +11893,9 @@ Any police officer or authorized officer or authorized employee of the departmen
 
 
 
-*§ 28-419.3.2 Written demand. * ::
+
+
+*§ 28-419.3.2 Written demand.* ::
 
 
 The owner or operator of the vehicle and/or tools may make a written demand for a hearing for the return of the seized property. Notice of the right to a hearing shall be provided to the operator at the time of seizure of the vehicle and/or tools, and a copy of such notice shall be sent by mail to the registered and/or title owner of the vehicle, if other than the operator, and to the owner of the tools if other than the owner or operator of the vehicle and if reasonably ascertainable, within five business days of the seizure. The department shall schedule the hearing at the office of administrative trials and hearings (OATH) or its successor agency, as applicable, for a date within ten business days after receipt of the demand and shall notify the operator and the owner(s) of the opportunity to participate in the hearing and the date thereof.
@@ -10187,7 +11903,9 @@ The owner or operator of the vehicle and/or tools may make a written demand for 
 
 
 
-*§ 28-419.3.3 Claimant. * ::
+
+
+*§ 28-419.3.3 Claimant.* ::
 
 
 A claimant seeking release of the vehicle and tools at the hearing may be either the person from whom the vehicle and tools were seized, if that person was in lawful possession of the vehicle and tools, or the owner if different from such person.
@@ -10195,7 +11913,9 @@ A claimant seeking release of the vehicle and tools at the hearing may be either
 
 
 
-*§ 28-419.3.4 Determination. * ::
+
+
+*§ 28-419.3.4 Determination.* ::
 
 
 The OATH judge shall issue a determination within five business days after the conclusion of the hearing.
@@ -10203,7 +11923,9 @@ The OATH judge shall issue a determination within five business days after the c
 
 
 
-*§ 28-419.3.5 Return pending hearing. * ::
+
+
+*§ 28-419.3.5 Return pending hearing.* ::
 
 
 The department shall establish a procedure whereby an owner or operator who wishes to have the vehicle and/or tools returned pending the hearing shall post a bond in an amount determined by the department, but in no event less than an amount sufficient to cover any applicable removal and storage fees as well as fines and penalties.
@@ -10211,7 +11933,9 @@ The department shall establish a procedure whereby an owner or operator who wish
 
 
 
-*§ 28-419.3.6 Return without hearing. * ::
+
+
+*§ 28-419.3.6 Return without hearing.* ::
 
 
 The department shall establish a procedure whereby an owner or operator may request the return of the vehicle and/or tools without a hearing if such owner or operator:
@@ -10219,6 +11943,8 @@ The department shall establish a procedure whereby an owner or operator may requ
 1. Establishes that the vehicle and/or tools were seized in error, or
 
 2. Immediately applies for licensure or registration pursuant to the applicable provisions of this code and pays an amount not to exceed removal and storage fees and any fines or penalties that could have been imposed under the provisions of this code. Where the owner or operator establishes that the vehicle and/or tools were seized in error, the department shall expeditiously return such vehicle and/or tools.
+
+
 
 
 
@@ -10231,7 +11957,9 @@ Any vehicle and/or tools for which a written demand for return of the vehicle an
 
 
 
-*§ 28-419.5 Combined hearings. * ::
+
+
+*§ 28-419.5 Combined hearings.* ::
 
 
 The department may choose to have the underlying violation adjudicated before the office of administrative trials and hearings in accordance with sections 28-419.5.1 through 28-419.5.3.
@@ -10239,7 +11967,9 @@ The department may choose to have the underlying violation adjudicated before th
 
 
 
-*§ 28-419.5.1 Combined hearing and determination. * ::
+
+
+*§ 28-419.5.1 Combined hearing and determination.* ::
 
 
 Upon notice to the respondent, the department may choose to have the violation underlying the seizure returnable to and heard at OATH and may combine the hearing on the underlying violation with the hearing for the return of the seized property. At such combined hearing the OATH judge shall make a determination as to both and may impose any penalty that could be imposed in a proceeding before the environmental control board for the underlying violation. The OATH judge shall issue a determination within five business days after the conclusion of the hearing.
@@ -10247,7 +11977,9 @@ Upon notice to the respondent, the department may choose to have the violation u
 
 
 
-*§ 28-419.5.2 Release following finding of no violaiton. * ::
+
+
+*§ 28-419.5.2 Release following finding of no violaiton.* ::
 
 
 If the OATH judge finds that the vehicle and/or tools were not used in connection with unlicensed or unregistered activity, the department shall promptly release such vehicle and/or tools.
@@ -10255,7 +11987,9 @@ If the OATH judge finds that the vehicle and/or tools were not used in connectio
 
 
 
-*§ 28-419.5.3 Release following finding of violation. * ::
+
+
+*§ 28-419.5.3 Release following finding of violation.* ::
 
 
 If the OATH judge finds that the vehicle and/or tools were used in connection with unlicensed or unregistered activity, the department may release such vehicle and/or tools upon payment of all applicable fines and civil penalties and all reasonable costs of removal and storage, or may commence a forfeiture action within twenty business days after the date of the judge's determination.
@@ -10263,7 +11997,9 @@ If the OATH judge finds that the vehicle and/or tools were used in connection wi
 
 
 
-*§ 28-419.6 Separate hearings. * ::
+
+
+*§ 28-419.6 Separate hearings.* ::
 
 
 In the event that the adjudication of the violation underlying the seizure is not held at OATH, and a determination is made that the vehicle and tools were not used in connection with unlicensed or unregistered activity, the department shall promptly release such vehicle and/or tools.
@@ -10271,7 +12007,9 @@ In the event that the adjudication of the violation underlying the seizure is no
 
 
 
-*§ 28-419.7 Forfeiture procedure. * ::
+
+
+*§ 28-419.7 Forfeiture procedure.* ::
 
 
 The following provisions shall govern forfeiture of vehicles and tools pursuant to this article.
@@ -10279,7 +12017,9 @@ The following provisions shall govern forfeiture of vehicles and tools pursuant 
 
 
 
-*§ 28-419.7.1 Commencement of forfeiture. * ::
+
+
+*§ 28-419.7.1 Commencement of forfeiture.* ::
 
 
 A forfeiture action pursuant to this article shall be commenced by the filing of a summons with a notice or a summons and complaint in accordance with the civil practice law and rules. Such summons with notice or a summons and complaint shall be served in accordance with the civil practice law and rules on the vehicle operator, the owner of the tools, if different from the vehicle operator, and owner of the vehicle, and on all owners of the subject vehicle listed in the records maintained by the department of motor vehicles, or for vehicles not registered in the state of New York, in the records maintained by the state of registration. Except as otherwise provided in this article, a vehicle and/or tools that are the subject of such action shall remain in the custody of the department or other appropriate agency pending the final determination of the forfeiture action.
@@ -10287,7 +12027,9 @@ A forfeiture action pursuant to this article shall be commenced by the filing of
 
 
 
-*§ 28-419.7.2 Notice of forfeiture. * ::
+
+
+*§ 28-419.7.2 Notice of forfeiture.* ::
 
 
 Notice of the institution of the forfeiture action shall be given by certified mail to all persons holding a security interest in such vehicle or tools, if known, if such security interest in the vehicle has been filed with the department of motor vehicles pursuant to the provisions of title ten of the vehicle and traffic law, at the address set forth in the records of such department, or, for vehicles not registered in the state of New York, all persons holding a security interest in such vehicle if such security interest has been filed with the state of registration and which persons are made known by such state to the department, at the address provided by such state of registration.
@@ -10295,7 +12037,9 @@ Notice of the institution of the forfeiture action shall be given by certified m
 
 
 
-*§ 28-419.7.3 Security interest. * ::
+
+
+*§ 28-419.7.3 Security interest.* ::
 
 
 Any person with a security interest in such vehicle or tools who receives notice of the institution of the forfeiture action who claims an interest in such vehicle or tools subject to forfeiture may assert a claim in such action for satisfaction of such person's security interest in such vehicle or tools.
@@ -10303,7 +12047,9 @@ Any person with a security interest in such vehicle or tools who receives notice
 
 
 
-*§ 28-419.7.4 Forfeiture subject to security interest. * ::
+
+
+*§ 28-419.7.4 Forfeiture subject to security interest.* ::
 
 
 Forfeiture shall be made subject to the interest of a person who claims an interest in the vehicle or tools, where such person establishes that:
@@ -10315,7 +12061,9 @@ Forfeiture shall be made subject to the interest of a person who claims an inter
 
 
 
-*§ 28-419.7.5 Disposition. * ::
+
+
+*§ 28-419.7.5 Disposition.* ::
 
 
 The department or agency having custody of the vehicle and tools, after judicial determination of forfeiture, shall, at its discretion, either (i) retain such vehicle and tools for the official use of the city; or (ii) by public notice of at least five days, sell such forfeited vehicle and tools at public sale. The net proceeds of any such sale shall be paid into the general fund of the city.
@@ -10323,7 +12071,9 @@ The department or agency having custody of the vehicle and tools, after judicial
 
 
 
-*§ 28-419.7.6 Amount of award. * ::
+
+
+*§ 28-419.7.6 Amount of award.* ::
 
 
 In any forfeiture action commenced pursuant to this article, where the court awards a sum of money to one or more persons in satisfaction of such person's interest in the forfeited vehicle and tools, the total amount awarded to satisfy such interest or interests shall not exceed the amount of the net proceeds of the sale of the forfeited vehicle and tools after deduction of the lawful expenses incurred by the city, including reasonable costs of removal and storage of the vehicle and tools between the time of seizure and the date of sale.
@@ -10334,7 +12084,9 @@ In any forfeiture action commenced pursuant to this article, where the court awa
 
 **Article 420: Requirement of Safety Registration Number**
 
-*§ 28-420.1 Requirement of application for safety registration number. * ::
+
+
+*§ 28-420.1 Requirement of application for safety registration number.* ::
 
 
 On and after October 1, 2009, no safety registration recipient shall conduct business for the purposes that would qualify the person as a safety registration recipient unless such person has received the required safety registration number from the department.
@@ -10342,7 +12094,9 @@ On and after October 1, 2009, no safety registration recipient shall conduct bus
 
 
 
-*§ 28-420.2 Application requirements. * ::
+
+
+*§ 28-420.2 Application requirements.* ::
 
 
 An application for a safety registration number shall be made in writing to the commissioner on a form provided by the department and shall be accompanied by the following:
@@ -10382,7 +12136,9 @@ An application for a safety registration number shall be made in writing to the 
 
 
 
-*§ 28-420.3 Duties and Responsibilities. * ::
+
+
+*§ 28-420.3 Duties and Responsibilities.* ::
 
 
 The recipient of a safety registration number shall comply with the following requirements:
@@ -10394,7 +12150,9 @@ The recipient of a safety registration number shall comply with the following re
 
 
 
-*§ 28-420.4 Submission of plan to reduce rate of immediately hazardous violations. * ::
+
+
+*§ 28-420.4 Submission of plan to reduce rate of immediately hazardous violations.* ::
 
 
 The commissioner may require any safety registration recipient to provide the department with a plan to improve its rate of immediately hazardous violations. The plan must be approved by the Department and may include such measures as employment of a safety compliance officer to ensure compliance with the approved plan.
@@ -10402,7 +12160,9 @@ The commissioner may require any safety registration recipient to provide the de
 
 
 
-*§ 28-420.5 Submission of a report to the city council. * ::
+
+
+*§ 28-420.5 Submission of a report to the city council.* ::
 
 
 Within six months of the date by which all safety registration recipients shall have been required by section 420.1 of this article to have a safety registration number, the commissioner shall, after consultation with representatives of affected industries, including but not limited to representatives and employers of building and construction industry labor organizations and real estate owners, submit to the mayor and the city council recommendations for the establishment of objective criteria on which the commissioner may base a determination to commence a proceeding to suspend, revoke, or refuse to renew a safety registration number as well as the data used in the analysis and formulation of such recommendations. Within three months of the submission, the council shall review and may amend this provision to incorporate standards for the revocation and non-renewal of a safety registration number.
@@ -10410,7 +12170,9 @@ Within six months of the date by which all safety registration recipients shall 
 
 
 
-*§ 28-420.6 Expiration of safety registration number. * ::
+
+
+*§ 28-420.6 Expiration of safety registration number.* ::
 
 
 A safety registration number shall expire on the third anniversary that such safety registration number was issued or such other date as determined by the commissioner by rule so as to evenly distribute the expiration dates of the safety registration numbers.
@@ -10418,7 +12180,9 @@ A safety registration number shall expire on the third anniversary that such saf
 
 
 
-*§ 28-420.7 Unlawful use of safety registration number. * ::
+
+
+*§ 28-420.7 Unlawful use of safety registration number.* ::
 
 
 On and after October 1, 2009, it shall be unlawful to represent or cause to be represented that a person who would qualify as a safety registration recipient has been issued a safety registration number by the department or to otherwise convey the impression that an individual, corporation, partnership or other business entity, or any person it employs, conducts business for the purposes that would qualify it as a safety registration recipient that has been issued a safety registration number, unless such individual, corporation, partnership or other business entity has received a safety registration number from the department in accordance with the provisions of this article.
@@ -10429,7 +12193,9 @@ On and after October 1, 2009, it shall be unlawful to represent or cause to be r
 
 **Article 421: Private Elevator Inspection Agency Director license**
 
-*§ 28-421.1 Private elevator inspection agency director license required. * ::
+
+
+*§ 28-421.1 Private elevator inspection agency director license required.* ::
 
 
 Only private elevator inspection agencies may perform and/or witness inspections and tests or enter into contracts pursuant to article 304 of chapter 3 of this code. Each such agency shall designate one director in responsible charge who shall be licensed pursuant to this article. The designated director in responsible charge shall be in the direct employ of the agency and shall supervise all the operations of the agency. All work performed by such agency pursuant to article 304 of chapter 3 of this code shall be performed by or under the direct and continuing supervision of the designated director in responsible charge.
@@ -10437,7 +12203,9 @@ Only private elevator inspection agencies may perform and/or witness inspections
 
 
 
-*§ 28-421.1.1 Additional directors. * ::
+
+
+*§ 28-421.1.1 Additional directors.* ::
 
 
 In addition to the designated director in responsible charge, the agency may have other individuals in its employ who may be issued private elevator inspection agency director licenses pursuant to this article. Notwithstanding any other provision of this chapter, such individuals may only perform inspections or other work pursuant to article 304 of chapter 3 of this code under the direct and continuing supervision of the designated director in responsible charge.
@@ -10445,7 +12213,9 @@ In addition to the designated director in responsible charge, the agency may hav
 
 
 
-*§ 28-421.2 Qualifications. * ::
+
+
+*§ 28-421.2 Qualifications.* ::
 
 
 All applicants for a private elevator inspection agency director license shall submit satisfactory proof establishing that the applicant:
@@ -10457,7 +12227,9 @@ All applicants for a private elevator inspection agency director license shall s
 
 
 
-*§ 28-421.3 Director restriction. * ::
+
+
+*§ 28-421.3 Director restriction.* ::
 
 
 Each private elevator inspection agency director shall perform work pursuant to article 304 of chapter 3 of this code for only one private elevator inspection agency, and shall not inspect and/or test elevators or related devices as an inspector or director for any other private elevator inspection agency.
@@ -10465,7 +12237,9 @@ Each private elevator inspection agency director shall perform work pursuant to 
 
 
 
-*§ 28-421.4 Place of business. * ::
+
+
+*§ 28-421.4 Place of business.* ::
 
 
 Every licensed private elevator inspection agency shall have a place of business within the city.
@@ -10476,7 +12250,9 @@ Every licensed private elevator inspection agency shall have a place of business
 
 **Article 422: Private Elevator Inspection Agency Inspector license**
 
-*§ 28-422.1 Private elevator inspection agency inspector license required. * ::
+
+
+*§ 28-422.1 Private elevator inspection agency inspector license required.* ::
 
 
 Individuals who witness and/or perform inspections and tests on behalf of a private elevator inspection agency pursuant to article 304 of chapter 3 of this code shall be licensed pursuant to this article. Licensed inspectors shall perform such work under the direct and continuing supervision of a designated director in responsible charge licensed pursuant to article 421 of this chapter.
@@ -10484,7 +12260,9 @@ Individuals who witness and/or perform inspections and tests on behalf of a priv
 
 
 
-*§ 28-422.2 Qualifications. * ::
+
+
+*§ 28-422.2 Qualifications.* ::
 
 
 Applicants for a private elevator agency inspector license shall submit satisfactory proof establishing that the applicant:
@@ -10494,7 +12272,9 @@ Applicants for a private elevator agency inspector license shall submit satisfac
 
 
 
-*§ 28-422.3 Inspector restriction. * ::
+
+
+*§ 28-422.3 Inspector restriction.* ::
 
 
 Each private elevator inspection agency inspector shall perform work pursuant to article 304 of chapter 3 of this code for only one private elevator inspection agency, and shall not witness and/or perform inspections and/or test elevators or related devices as an inspector or director for any other private elevator inspection agency.
@@ -10504,6 +12284,8 @@ Each private elevator inspection agency inspector shall perform work pursuant to
 
 
 **Article 423: Qualification for Gas Work**
+
+
 
 *§ 28-423.1 Qualification required.* ::
 
@@ -10525,6 +12307,8 @@ Exception: The provisions of this article shall not apply to gas work performed,
 
 
 
+
+
 *§ 28-423.2 Applications for gas work qualification.* ::
 
 
@@ -10535,10 +12319,14 @@ The commissioner shall issue gas work qualifications in accordance with sections
 
 
 
+
+
 *§ 28-423.2.1 Applications for gas work qualification submitted before January 1, 2019.* ::
 
 
 The commissioner shall issue a gas work qualification to a person who before January 1, 2019, submits satisfactory proof establishing that such person is a registered journeyman plumber pursuant to article 409 of this chapter.
+
+
 
 
 
@@ -10565,10 +12353,14 @@ The commissioner shall issue a gas work qualification to a person who on or afte
 
 
 
+
+
 *§ 28-423.2.3 Concurrent applications.* ::
 
 
 The commissioner shall establish a procedure for concurrently applying for a journeyman plumber registration pursuant to article 409 of this chapter and a gas work qualification pursuant to this section. No application fee shall be charged to an applicant for a gas work qualification if such applicant (i) is, at the time such application is filed, a registered journeyman plumber pursuant to such article or (ii) is applying concurrently for a journeyman plumber registration pursuant to such article and a gas work qualification.
+
+
 
 
 
@@ -10585,10 +12377,14 @@ The commissioner shall issue limited gas work qualifications in accordance with 
 
 
 
+
+
 *§ 28-423.3.1 Applications for limited gas work qualification submitted before January 1, 2019.* ::
 
 
 The commissioner shall issue a limited gas work qualification to a person who before January 1, 2019, submits satisfactory proof that such person has at least six months of full-time experience performing plumbing work under the direct and continuing supervision of a licensed master plumber.
+
+
 
 
 
@@ -10615,6 +12411,8 @@ The commissioner shall issue a limited gas qualification to a person who on or a
 
 
 
+
+
 *§ 28-423.4 Expiration.* ::
 
 
@@ -10627,6 +12425,8 @@ The gas work qualification shall have no expiration and need not be renewed or r
 
 
 **Article 424: Lift Director Registration**
+
+
 
 *§ 28-424.1 Lift director required.* ::
 
@@ -10652,10 +12452,14 @@ Exception: The requirement for a lift director does not apply to the assembly or
 
 
 
+
+
 *§ 28-424.2 Registration required.* ::
 
 
 Eighteen months after the department has established the requirements for the department-approved training course for lift directors as set forth in item 1 of section 28-424.3, it shall be unlawful for any person to act as a lift director or to perform the duties of a lift director unless such person is registered as a lift director pursuant to this article, or is licensed as a master rigger pursuant to article 404 of this chapter.
+
+
 
 
 
@@ -10692,7 +12496,9 @@ Chapter 5: Miscellaneous Provisions
 
 **Article 501: Maintenance Permit for Outdoor Signs**
 
-*§ 28-501.1 Permit required. * ::
+
+
+*§ 28-501.1 Permit required.* ::
 
 
 The commissioner may, in his or her discretion, when necessary in the public interest, establish a permit requirement for signs maintained in the areas described in this article in accordance with the provisions of this article and the rules of the department. On and after a date to be provided by the rules establishing such a permit requirement, and subject to the provisions of section 28-501.6 of this code, it shall be unlawful to place or maintain a sign, as defined in section 12-10 of the zoning resolution, on any building or premises unless a permit for the maintenance of such sign has been issued by the department pursuant to this article if such sign is within a distance of 900 linear feet (274 m) from and within view of an arterial highway or within a distance of 200 linear feet (60 960 mm) from and within view of a public park with an area of one half acre or more.
@@ -10700,7 +12506,9 @@ The commissioner may, in his or her discretion, when necessary in the public int
 
 
 
-*§ 28-501.1.1 Other permits notwithstanding. * ::
+
+
+*§ 28-501.1.1 Other permits notwithstanding.* ::
 
 
 Where a sign maintenance permit has been established by the commissioner pursuant to section 28-501.1 such permit shall be required for all signs maintained in the areas described in such section 28-501.1 and not otherwise excluded under section 28-501.6, whether or not a work permit is required and/or has been issued for the installation, alteration or erection of such sign pursuant to chapter 1 of this title.
@@ -10708,7 +12516,9 @@ Where a sign maintenance permit has been established by the commissioner pursuan
 
 
 
-*§ 28-501.1.2 Arterial highway. * ::
+
+
+*§ 28-501.1.2 Arterial highway.* ::
 
 
 For the purposes of this article, the term arterial highway shall include all highways that are shown on the master plan of arterial highways and major streets as principal routes parkways or toll crossings and that have been designated by the city planning commission as arterial highways to which the provisions of sections 42-55 and 32-66 of the zoning resolution shall apply as shown in appendix H "Designation of Arterial Highways" of the zoning resolution.
@@ -10716,7 +12526,9 @@ For the purposes of this article, the term arterial highway shall include all hi
 
 
 
-*§ 28-501.2 Application. * ::
+
+
+*§ 28-501.2 Application.* ::
 
 
 Application for a permit or for the renewal of a permit shall be made on forms to be furnished by the department and shall contain such information as the department shall prescribe. Except as otherwise provided in section 28-501.3, a permit shall remain in effect for a period to be determined by rule and may be renewed. The fee for a permit or for its renewal shall be established by rule. The identification number of the permit shall be displayed on the sign or on the building or premises on which the sign is located or both, in a manner to be provided by rule.
@@ -10724,7 +12536,9 @@ Application for a permit or for the renewal of a permit shall be made on forms t
 
 
 
-*§ 28-501.3 Permit expiration. * ::
+
+
+*§ 28-501.3 Permit expiration.* ::
 
 
 A permit issued pursuant to this article shall expire and be of no further force or effect where:
@@ -10736,7 +12550,9 @@ A permit issued pursuant to this article shall expire and be of no further force
 
 
 
-*§ 28-501.4 Civil penalties. * ::
+
+
+*§ 28-501.4 Civil penalties.* ::
 
 
 Any person who places or maintains a sign on a building or premises without an appropriate permit in violation of this article shall be liable for a civil penalty of, for a first violation, not more than fifteen thousand dollars and, for a second or subsequent violation, not more than twenty-five thousand dollars. Each day's continuance shall be a separate and distinct violation. Such civil penalties may be recovered in an action in any court of appropriate jurisdiction or in a proceeding before the environmental control board. Such board shall have the power to impose the civil penalties provided for in this article. Notwithstanding the provisions of section six hundred sixty-six of the charter, a notice of violation issued by the department pursuant to this section 28-501.4 shall not be subject to review by the board of standards and appeals.
@@ -10744,7 +12560,9 @@ Any person who places or maintains a sign on a building or premises without an a
 
 
 
-*§ 28-501.5 Construction. * ::
+
+
+*§ 28-501.5 Construction.* ::
 
 
 This chapter shall not be construed to grant the right to place or maintain a sign on any building or premises where the placement or maintenance of such sign would otherwise be prohibited pursuant to the zoning resolution, the administrative code or any other provision of law. No permit for a sign issued hereunder shall be deemed to constitute permission or authorization to maintain a sign which is unlawful pursuant to any other provisions of law nor shall any permit issued hereunder constitute a defense in an action or proceeding with respect to such an unlawful sign.
@@ -10752,7 +12570,9 @@ This chapter shall not be construed to grant the right to place or maintain a si
 
 
 
-*§ 28-501.6 Exemption. * ::
+
+
+*§ 28-501.6 Exemption.* ::
 
 
 The provisions of this article shall not apply to:
@@ -10766,6 +12586,8 @@ The provisions of this article shall not apply to:
 
 
 **Article 502: Outdoor Advertising Companies**
+
+
 
 *§ 28-502.1 Definitions.* ::
 
@@ -10787,7 +12609,9 @@ UNDER THE CONTROL OF AN OUTDOOR ADVERTISING COMPANY in reference to a sign, sign
 
 
 
-*§ 28-502.2 Registration of outdoor advertising companies. * ::
+
+
+*§ 28-502.2 Registration of outdoor advertising companies.* ::
 
 
 On and after a date to be provided by rule, it shall be unlawful for an outdoor advertising company to engage in the outdoor advertising business or, by way of advertising, promotions or other methods, hold itself out as engaging in the outdoor advertising business unless such company is registered in accordance with this code and the rules of the department. Such rules shall establish a procedure pursuant to which the department may require the single registration of an outdoor advertising company and its affiliates. An outdoor advertising company and its affiliates made subject to single registration shall be considered a single outdoor advertising company for purposes of this code.
@@ -10795,7 +12619,9 @@ On and after a date to be provided by rule, it shall be unlawful for an outdoor 
 
 
 
-*§ 28-502.2.1 Application. * ::
+
+
+*§ 28-502.2.1 Application.* ::
 
 
 Application for registration or the renewal of registration shall be made on forms to be furnished by the department, may be made through electronic means, and shall contain such information as the department shall prescribe. Registration shall remain in force for two years and may be renewed. The fee for such registration and for the renewal of such registration shall be established by rule and may be based on the number of signs in the registered inventory.
@@ -10803,7 +12629,9 @@ Application for registration or the renewal of registration shall be made on for
 
 
 
-*§ 28-502.2.2 Security. * ::
+
+
+*§ 28-502.2.2 Security.* ::
 
 
 Each outdoor advertising company shall post a bond or provide another form of security to the city in an amount to be determined by the department by rule to cover:
@@ -10815,7 +12643,9 @@ Each outdoor advertising company shall post a bond or provide another form of se
 
 
 
-*§ 28-502.3 Revocation or suspension of registration. * ::
+
+
+*§ 28-502.3 Revocation or suspension of registration.* ::
 
 
 The department may revoke, suspend or refuse to renew the registration of an outdoor advertising company or impose fines or other penalties where it is determined by the commissioner, after notice and the opportunity to be heard, that (i) such company has made statements that it knew or should have known are false in any application or certification filed with the department, (ii) such company has failed to comply with section—28-502.4 of this code or the rules adopted pursuant to its provisions by failing to file a listing of signs, sign structures and sign locations under its control as specified in such section within the time and in the manner required by department rules or by filing an incomplete listing of signs, sign structures and sign locations under its control as specified in such section, (iii) such company has been found liable for or has admitted to violations of the zoning resolution under section 28-502.6 of this code committed on three or more occasions within a 36 month period, where such violations relate to the erection, maintenance, attachment, affixing, painting or representation in any other manner on a building or premises of advertising signs, as defined in section 12-10 of the zoning resolution, at locations where the display of such advertising signs is not permitted under the zoning resolution or at locations where the display of such advertising signs violates the size, height, or illumination provisions of the zoning resolution, and such signs are located within a distance of nine hundred linear feet from and within view of an arterial highway or within 200 linear feet (60 960 mm) from and within view of a public park with an area of one half acre or more, (iv) such company has failed to pay any civil penalties imposed or amounts owed to the city pursuant to section 28-502.6 of this code or article 503 of this chapter or, (v) such company has violated the department's rules pertaining to outdoor advertising companies. No application for registration by an outdoor advertising company or any affiliate thereof shall be accepted for filing by the department for a period of five years after revocation of or the refusal to renew the registration of such outdoor advertising company pursuant to this code. The department shall not accept or process any applications for permits to install, erect or alter signs pursuant to this code or for the maintenance of signs pursuant to section 28-501.1 of this code where such applications are filed by or where such signs are under the control of an outdoor advertising company or any affiliate thereof after the registration of such outdoor advertising company has been revoked or not renewed or during the term of any period of suspension of such registration. The commissioner may settle any proceeding in which the revocation, suspension or renewal of an outdoor advertising company's registration is at issue upon such terms and conditions as he or she may deem appropriate including but not limited to the agreement of an outdoor advertising company to remove signs along with supporting sign structures as a condition for the dismissal of such proceeding.
@@ -10823,7 +12653,9 @@ The department may revoke, suspend or refuse to renew the registration of an out
 
 
 
-*§ 28-502.4 Reporting requirement. * ::
+
+
+*§ 28-502.4 Reporting requirement.* ::
 
 
 An outdoor advertising company shall provide the department with a list with the location of signs, sign structures and sign locations under the control of such outdoor advertising company in accordance with the following provisions:
@@ -10835,7 +12667,9 @@ An outdoor advertising company shall provide the department with a list with the
 
 
 
-*§ 28-502.4.1 Form of list. * ::
+
+
+*§ 28-502.4.1 Form of list.* ::
 
 
 The list shall be in such form, containing such information and filed at such periodic intervals or upon such other conditions, as the department shall prescribe by rule.
@@ -10843,7 +12677,9 @@ The list shall be in such form, containing such information and filed at such pe
 
 
 
-*§ 28-502.4.2 Other required information. * ::
+
+
+*§ 28-502.4.2 Other required information.* ::
 
 
 Such list shall also indicate the work permit identification numbers for the erection, alteration or installation of such signs pursuant to chapter 1 of this title and for the maintenance of such signs pursuant to article 501, unless a permit is not required pursuant to such provisions, as well as the name and license number of the master or special sign hanger who hung or erected each such sign.
@@ -10851,7 +12687,9 @@ Such list shall also indicate the work permit identification numbers for the ere
 
 
 
-*§ 28-502.4.3 Certification of list. * ::
+
+
+*§ 28-502.4.3 Certification of list.* ::
 
 
 Such list shall be accompanied by (i) a certification by an architect or engineer, co-signed by a responsible officer of the outdoor advertising company, that all signs reported on such list are in compliance with the zoning resolution; (ii) copies of proof that the sign complies with the zoning resolution and a certification by the sign's owner that to the best of the certifier's knowledge and belief the information provided is accurate, or (iii) a written opinion by the department, stating that the sign to which the opinion refers complies with the zoning resolution. Notwithstanding any inconsistent provision of this code, where, in accordance with the department's rules, the department renders an opinion, determination or decision relating to whether a sign is non-conforming or whether it is located in proximity to an arterial highway as defined by the zoning resolution, such decision, determination or opinion will be appealable to the board of standards and appeals in accordance with applicable law. If a timely appeal to such board is taken, the department shall not issue a notice of violation with respect to such sign pending a determination of such appeal by such board.
@@ -10859,7 +12697,9 @@ Such list shall be accompanied by (i) a certification by an architect or enginee
 
 
 
-*§ 28-502.4.4 Public access to list. * ::
+
+
+*§ 28-502.4.4 Public access to list.* ::
 
 
 The commissioner shall make all listings filed pursuant to this article accessible to the public.
@@ -10867,7 +12707,9 @@ The commissioner shall make all listings filed pursuant to this article accessib
 
 
 
-*§ 28-502.5 Display of name and registration number of outdoor advertising company. * ::
+
+
+*§ 28-502.5 Display of name and registration number of outdoor advertising company.* ::
 
 
 On and after a date to be prescribed by rule, the commissioner shall require that each outdoor advertising company display, in a manner to be provided by rule, on each sign under its control or on the building or premises where each sign under its control is located or both, (i) the name and registration number of such company and, (ii) unless a permit is not required, the work permit identification number for the installation, alteration or erection of the sign pursuant to chapter 1 of this code and, if applicable, for the maintenance of the sign pursuant to article 501.
@@ -10875,7 +12717,9 @@ On and after a date to be prescribed by rule, the commissioner shall require tha
 
 
 
-*§ 28-502.6 Criminal and civil penalties. * ::
+
+
+*§ 28-502.6 Criminal and civil penalties.* ::
 
 
 Outdoor advertising companies that violate the zoning resolution, this code, the 1968 building code or rules of the department shall be subject to criminal and civil penalties in accordance with this article.
@@ -10883,7 +12727,9 @@ Outdoor advertising companies that violate the zoning resolution, this code, the
 
 
 
-*§ 28-502.6.1 General. * ::
+
+
+*§ 28-502.6.1 General.* ::
 
 
 Notwithstanding any other provision of law, an outdoor advertising company shall be liable for a civil penalty in accordance with this article if a sign under its control has been erected, maintained, attached, affixed, painted on, or in any other manner represented on a building or premises in violation of any provision of the zoning resolution, this code, the 1968 building code or rules adopted pursuant thereto relating to signs.
@@ -10891,7 +12737,9 @@ Notwithstanding any other provision of law, an outdoor advertising company shall
 
 
 
-*§ 28-502.6.2 Unlawful for outdoor advertising company to sell space on illegal sign. * ::
+
+
+*§ 28-502.6.2 Unlawful for outdoor advertising company to sell space on illegal sign.* ::
 
 
 It shall be unlawful for an outdoor advertising company to sell, lease, market, manage or otherwise make available to others for advertising purposes space on a sign that has been erected, maintained, attached, affixed, painted on or in any other manner represented on a building or premises in violation of any provision of the zoning resolution, this code, the 1968 building code or rules adopted pursuant thereto or to enter into any agreement for such purpose.
@@ -10899,7 +12747,9 @@ It shall be unlawful for an outdoor advertising company to sell, lease, market, 
 
 
 
-*§ 28-502.6.3 Unlawful to transfer sign to unregistered outdoor advertising company. * ::
+
+
+*§ 28-502.6.3 Unlawful to transfer sign to unregistered outdoor advertising company.* ::
 
 
 On and after a date to be provided by rule, it shall be unlawful for an outdoor advertising company to sell or otherwise transfer control of a sign or sign location or of any right of such company to sell, lease, market, manage or otherwise make space on a sign or at a sign location available to others for advertising purposes to an outdoor advertising company that is not registered in accordance with this article and the rules of the department.
@@ -10907,7 +12757,9 @@ On and after a date to be provided by rule, it shall be unlawful for an outdoor 
 
 
 
-*§ 28-502.6.4 Civil penalty. * ::
+
+
+*§ 28-502.6.4 Civil penalty.* ::
 
 
 An outdoor advertising company that violates any of the provisions of this article shall be subject to a civil penalty of, for a first violation, not more than fifteen thousand dollars and, for a second or subsequent violation, not more than twenty-five thousand dollars. Each day's continuance shall be a separate and distinct violation.
@@ -10915,7 +12767,9 @@ An outdoor advertising company that violates any of the provisions of this artic
 
 
 
-*§ 28-502.6.5 Criminal penalty. * ::
+
+
+*§ 28-502.6.5 Criminal penalty.* ::
 
 
 Notwithstanding any inconsistent provision of law, an outdoor advertising company shall, upon being found guilty, be subject to fines or imprisonment or both pursuant to this code if a sign under its control has been erected, maintained, attached, affixed, painted on, or in any other manner represented on a building or premises in violation of any provision of the zoning resolution, this code, the 1968 building code or rules adopted pursuant thereto relating to signs.
@@ -10923,7 +12777,9 @@ Notwithstanding any inconsistent provision of law, an outdoor advertising compan
 
 
 
-*§ 28-502.6.6 Activity by unregistered company. * ::
+
+
+*§ 28-502.6.6 Activity by unregistered company.* ::
 
 
 On and after a date to be provided by rule, an outdoor advertising company that engages in the outdoor advertising business or, by way of advertisement, promotion or other methods holds itself out as engaging in the outdoor advertising business without registering with the department pursuant to this chapter, or, after such registration has been revoked or not renewed pursuant to this code continues to engage in such business beyond a date specified by the commissioner in his or her determination to revoke or not renew, shall be guilty of a misdemeanor subject to a fine not to exceed five thousand dollars or a sentence of imprisonment of not more than one year or both such fine and imprisonment for each offense. In the case of a continuing violation each day's continuance shall be a separate and distinct violation. Such company shall also be liable for a civil penalty of, for a first violation, not more than fifteen thousand dollars and, for a second or subsequent violation, not more than twenty-five thousand dollars. Each day's continuance shall be a separate and distinct violation.
@@ -10931,7 +12787,9 @@ On and after a date to be provided by rule, an outdoor advertising company that 
 
 
 
-*§ 28-502.6.7 Venue. * ::
+
+
+*§ 28-502.6.7 Venue.* ::
 
 
 Civil penalties may be recovered in an action in any court of appropriate jurisdiction or in a proceeding before the environmental control board. Such board shall have the power to impose the civil penalties provided for in this article. Notwithstanding the provisions of section six hundred sixty-six of the charter, a notice of violation issued by the department pursuant to this article shall not be subject to review by the board of standards and appeals.
@@ -10939,7 +12797,9 @@ Civil penalties may be recovered in an action in any court of appropriate jurisd
 
 
 
-*§ 28-502.7 Signs under control of unregistered outdoor advertising company are public nuisance. * ::
+
+
+*§ 28-502.7 Signs under control of unregistered outdoor advertising company are public nuisance.* ::
 
 
 On and after a date to be provided by rule, it shall be unlawful to erect, maintain, attach, affix, paint on, or in any other manner represent on a building or premises any sign that is under the control of an unregistered outdoor advertising company. In addition to or as an alternative to any other remedies or penalties provided under any other provision of law, the commissioner may commence a proceeding for the removal of such sign or its sign structure or both in accordance with the procedures set forth in this code for the abatement of a nuisance and any such sign and its sign structure is hereby declared to be a public nuisance pursuant thereto. All of the provisions of article 503 of this chapter shall apply to the removal of a sign pursuant to this article except that a sign under the control of an unregistered outdoor advertising company may be removed whether or not it is in compliance with the zoning resolution, this code, the 1968 building code or rules adopted pursuant thereto, and irrespective of whether it has a surface area greater than 200 square feet (19 m2).
@@ -10947,7 +12807,9 @@ On and after a date to be provided by rule, it shall be unlawful to erect, maint
 
 
 
-*§ 28-502.8 Franchise or concession disqualification. * ::
+
+
+*§ 28-502.8 Franchise or concession disqualification.* ::
 
 
 Notwithstanding any other provision of law to the contrary, an outdoor advertising company, or any affiliate thereof, that has been found guilty of a misdemeanor or liable for a civil penalty pursuant to this article or whose registration has been revoked shall be considered ineligible for the award of any city franchise or concession, and shall be prohibited from administering any advertising program on behalf of a city franchisee or concessionaire, for a period of five years following judgment or decision.
@@ -10955,7 +12817,9 @@ Notwithstanding any other provision of law to the contrary, an outdoor advertisi
 
 
 
-*§ 28-502.9 Investigations. * ::
+
+
+*§ 28-502.9 Investigations.* ::
 
 
 The department may investigate any matter within the jurisdiction conferred by this chapter and shall have full power to compel the attendance, examine and take testimony under oath of such persons as it may deem necessary in relation to such investigation, and to require the production of books, accounts, papers and other evidence relevant to such investigation. The department of investigation may, at the request of the commissioner, assist the department in any investigation conducted pursuant to this article.
@@ -10966,6 +12830,8 @@ The department may investigate any matter within the jurisdiction conferred by t
 
 **Article 503: Nuisance Abatement for Illegal Signs**
 
+
+
 *§ 28-503.1 General.* ::
 
 
@@ -10974,7 +12840,9 @@ A sign with a surface area greater than 200 square feet (19 m2) that is erected,
 
 
 
-*§ 28-503.2 Notice. * ::
+
+
+*§ 28-503.2 Notice.* ::
 
 
 The commissioner shall serve a notice of hearing with regard to the proposed nuisance abatement on the owner and mortgagee of record of the building or premises and other persons having a recorded interest in the property in the manner provided in article 212 of chapter 2 of this title for the service of an order of closure. If the sign is under the control of an outdoor advertising company and an address for such company is reasonably ascertainable, the notice shall also be served on such outdoor advertising company by mail to the last known address for such company or, if such company is registered in accordance with section 28-502.2, at the address provided to the department by the registrant.
@@ -10982,7 +12850,9 @@ The commissioner shall serve a notice of hearing with regard to the proposed nui
 
 
 
-*§ 28-503.3 Hearing. * ::
+
+
+*§ 28-503.3 Hearing.* ::
 
 
 The office of administrative trials and hearings shall conduct the hearing. The administrative law judge assigned to hear the matter shall submit his or her proposed findings of fact and recommended disposition to the commissioner. If based on such recommended disposition, proposed findings of fact and the record of the hearing the commissioner determines (i) that the sign has a surface area greater than 200 square feet (19 m2) and, (ii) that the sign has been erected, maintained, attached, affixed, painted on, or in any other manner represented on the building or premises in violation of the zoning resolution, this code, the 1968 building code or rules adopted pursuant thereto, he or she may order the removal of the illegal sign or its sign structure or both.
@@ -10990,7 +12860,9 @@ The office of administrative trials and hearings shall conduct the hearing. The 
 
 
 
-*§ 28-503.3.1 Lack of knowledge no defense. * ::
+
+
+*§ 28-503.3.1 Lack of knowledge no defense.* ::
 
 
 At such hearing it shall not be a defense that an owner or other person having an interest in the property lacked knowledge of or did not participate in the erection or maintenance of the illegal sign.
@@ -10998,7 +12870,9 @@ At such hearing it shall not be a defense that an owner or other person having a
 
 
 
-*§ 28-503.4 Posting of order. * ::
+
+
+*§ 28-503.4 Posting of order.* ::
 
 
 The commissioner's order of removal shall be posted, mailed and filed in the manner provided in this code for an order of closure.
@@ -11006,7 +12880,9 @@ The commissioner's order of removal shall be posted, mailed and filed in the man
 
 
 
-*§ 28-503.5 Enforcement of order. * ::
+
+
+*§ 28-503.5 Enforcement of order.* ::
 
 
 On or after the tenth business day after the posting of such order and upon the written directive of the commissioner, police officers and authorized representatives of the department shall act upon and enforce such order by removing, covering, painting over or otherwise rendering ineffective the illegal sign or its sign structure or both. Such work shall at all times be performed by a licensed sign hanger where required by law. Nothing in this article shall be construed to prohibit an owner or other person having an interest in the property from removing or causing the removal of an illegal sign or its sign structure prior to the arrival of such enforcement officers. On and after the posting of such removal order, no further permits for signs shall be issued for such building or premises pursuant to this code and, if the sign structure is not removed, no further display shall be exhibited on such sign structure unless and until the commissioner rescinds such order.
@@ -11014,7 +12890,9 @@ On or after the tenth business day after the posting of such order and upon the 
 
 
 
-*§ 28-503.6 Rescission of order. * ::
+
+
+*§ 28-503.6 Rescission of order.* ::
 
 
 The commissioner may rescind the order if the owner or other person having an interest in the building or premises provides assurance in a form satisfactory to the commissioner that all signs erected or maintained at such building or premises will be in compliance with the zoning resolution, this code, the 1968 building code or rules adopted pursuant to such provisions. If such order is rescinded, the commissioner shall, upon request of such owner, mortgagee or other person, provide a certified copy of such rescission which may be filed with the county clerk or register of the county in which such building or premises is located.
@@ -11022,7 +12900,9 @@ The commissioner may rescind the order if the owner or other person having an in
 
 
 
-*§ 28-503.7 Costs. * ::
+
+
+*§ 28-503.7 Costs.* ::
 
 
 The costs and expenses for painting over, covering, rendering ineffective or for the removal and storage of such sign and its sign structure may be recovered from the owner of the premises or, if the illegal sign is under the control of an outdoor advertising company and notice was served on such company in accordance with this article, from such outdoor advertising company. Such amounts may be recovered by the city in an action or proceeding in any court of appropriate jurisdiction and, with respect to amounts owed by an outdoor advertising company, by drawing upon any bond posted or other security provided by such company pursuant to section 28-502.2. Nothing in this article shall be construed to limit the ability of an owner to seek recovery of such costs and expenses from any other party.
@@ -11030,7 +12910,9 @@ The costs and expenses for painting over, covering, rendering ineffective or for
 
 
 
-*§ 28-503.8 Lien. * ::
+
+
+*§ 28-503.8 Lien.* ::
 
 
 In addition, such costs and expenses shall constitute a lien on the land and building on which the sign was located which may be entered and enforced pursuant to the provisions of this code in the same manner as an unpaid fee.
@@ -11038,7 +12920,9 @@ In addition, such costs and expenses shall constitute a lien on the land and bui
 
 
 
-*§ 28-503.9 Storage and disposal. * ::
+
+
+*§ 28-503.9 Storage and disposal.* ::
 
 
 The commissioner shall adopt rules to provide for the storage and disposal of any sign or sign structure removed pursuant to this article. If the identity and address of the owner of such property is reasonably ascertainable, notice of the removal shall be sent to the owner within a reasonable period of time after the removal. If such property is not claimed within thirty days after its removal, it shall be deemed to be abandoned and may be sold at a public auction after having been advertised in the City Record and the proceeds paid into the general fund or if the commissioner determines that the property is not saleable, he or she may turn over such property to the department of sanitation for disposal. Property removed pursuant to this article shall be released to the owner or other person lawfully entitled to possession upon payment of the costs of removal and storage as set forth in the rules of the department and any fines or civil penalties imposed for the violation or, if an action or proceeding for the violation is pending in court or before the environmental control board, upon the posting of a bond or other form of security acceptable to the department in an amount which will secure the payment of such costs and any fines or civil penalties which may be imposed for the violation.
@@ -11046,7 +12930,9 @@ The commissioner shall adopt rules to provide for the storage and disposal of an
 
 
 
-*§ 28-503.10 Definitions. * ::
+
+
+*§ 28-503.10 Definitions.* ::
 
 
 For the purposes of this article the terms "sign" and "surface area," in reference to a sign, shall be as defined under section 12-10 of the zoning resolution.
@@ -11054,7 +12940,9 @@ For the purposes of this article the terms "sign" and "surface area," in referen
 
 
 
-*§ 28-503.11 Review of order. * ::
+
+
+*§ 28-503.11 Review of order.* ::
 
 
 An order of the commissioner issued pursuant to this article shall be a final determination of the commissioner for purposes of review pursuant to article seventy-eight of the civil practice law and rules. Notwithstanding any inconsistent provision of paragraph (a) of subdivision six of section six hundred sixty-six of the New York city charter, such order shall not be subject to review by the board of standards and appeals.
@@ -11065,10 +12953,14 @@ An order of the commissioner issued pursuant to this article shall be a final de
 
 **Article 504: Bicycle Access to Buildings**
 
+
+
 *§ 28-504.1 Bicycle access to certain office buildings.* ::
 
 
 This section shall apply to buildings that satisfy each of the following conditions: (i) the main occupancy of such building is offices that are classified as occupancy group B, (ii) such building was in existence on December 11, 2009, or a permit for such building has been issued on or before such date but such building has not yet been completed, (iii) such building has a freight elevator that either complies with ASME 17.1 with regard to the carrying of passengers on freight elevators, as referenced in chapter 35 of the New York city building code, or is operated by a freight elevator operator, and (iv) is not subject to the bicycle parking provisions of section 25-80, 36-70 and 44-60 of the zoning resolution. It shall be presumed that if a freight elevator is available for carrying freight, it is available for carrying bicycles.
+
+
 
 
 
@@ -11085,6 +12977,8 @@ The tenant or subtenant of a building to which this section is applicable may re
 
 
 
+
+
 *§ 28-504.1.2 Bicycle access plan.* ::
 
 
@@ -11095,10 +12989,14 @@ Bicycle access plans shall comply with sections 28-504.1.2.1 through 28-504.1.2.
 
 
 
+
+
 *§ 28-504.1.2.1 Owner requirement.* ::
 
 
 Where a request for a bicycle access plan has been submitted pursuant to this section, the owner of such building shall, within 30 days after receipt of such request, complete and implement a bicycle access plan or provide to the tenant or subtenant a copy of the request for an exception that has been filed with the department of transportation in accordance with section 28-504.1.3.
+
+
 
 
 
@@ -11137,6 +13035,8 @@ A bicycle access plan shall be completed on a form provided by the department of
 
 
 
+
+
 *§ 28-504.1.2.3 Amendment of plan.* ::
 
 
@@ -11147,10 +13047,14 @@ A bicycle access plan may be amended from time to time to accommodate requests f
 
 
 
+
+
 *§ 28-504.1.2.4 Limitations.* ::
 
 
 If an owner of a building is issued a violation of this code or the New York city fire code, or a rule promulgated thereunder, that results from storage of a bicycle, and such owner shows that such violation occurred in an area of such building that is under the control of a tenant or subtenant, such owner may restrict or limit bicycle access under the bicycle access plan for such tenant or subtenant.
+
+
 
 
 
@@ -11173,10 +13077,14 @@ If an exception is sought pursuant to item 1 of this section, the department sha
 
 
 
+
+
 *§ 28-504.1.4 Posting and availability of bicycle access plan or letter of exception.* ::
 
 
 Bicycle access plans shall be posted and made available as provided in sections 28-504.1.4.1 through 28-504.1.4.3.
+
+
 
 
 
@@ -11193,10 +13101,14 @@ The owner of a building subject to this section shall either post in such buildi
 
 
 
+
+
 *§ 28-504.1.4.2 Posting of exception letter.* ::
 
 
 The owner of such building shall post in such building any letter of exception granted by the commissioner or commissioner of transportation, including the basis or bases for the exception and, if applicable, the route to alternate off-street or indoor parking, as provided in section 28-504.1.3, or shall post a notice in the building lobby that such letter is available in the office of the building manager upon request. Either such posting shall be made within five days after receipt of such letter of exception.
+
+
 
 
 
@@ -11213,10 +13125,14 @@ Plans, letters of exception or notices of availability of either shall be posted
 
 
 
+
+
 *§ 28-504.1.5 Filing of plan.* ::
 
 
 The department or department of transportation may require that plans implemented pursuant to the provisions of this section be filed with either such agency.
+
+
 
 
 
@@ -11233,6 +13149,8 @@ Nothing in this article shall be construed to require an owner of a building gov
 
 
 
+
+
 *§ 28-504.3 Foldable bicycle access.* ::
 
 
@@ -11243,10 +13161,14 @@ It shall be unlawful for an owner of a building the main occupancy of which is o
 
 
 
+
+
 *§ 28-504.4 Emergencies.* ::
 
 
 In an emergency that requires an evacuation of all or part of such a building, the owner may limit or restrict bicycles and foldable bicycles from being transported through any means of egress.
+
+
 
 
 
@@ -11269,6 +13191,8 @@ Exceptions:
 
 
 
+
+
 *§ 28-504.6 Foldable bicycles on passenger elevators in residential buildings.* ::
 
 
@@ -11282,10 +13206,14 @@ In any building classified in occupancy group R, it shall be unlawful for an own
 
 **Article 505: Certification of No Harassment Pilot Program**
 
+
+
 *§ 28-505.1 General.* ::
 
 
 The commissioner shall not approve construction documents, nor issue an initial or reinstated permit in connection therewith, for the alteration or demolition of a pilot program building identified by the department of housing preservation and development pursuant to section 27-2093.1 except as set forth in this article. Applications for post approval amendments to construction documents are subject to this article where the application proposes a change within a covered category of work as set forth in section 28-505.3.
+
+
 
 
 
@@ -11302,6 +13230,8 @@ LOW INCOME HOUSING. The term “low income housing” has the same meaning as in
 OWNER. The term “owner” has the same meaning as in section 27-2004 of the housing maintenance code,
 
 PILOT PROGRAM BUILDING. The term “pilot program building” has the same meaning as in section 27-2093.1 of the housing maintenance code.
+
+
 
 
 
@@ -11338,6 +13268,8 @@ Exceptions:
 
 
 
+
+
 *§ 28-505.4 Required submittal documents.* ::
 
 
@@ -11360,10 +13292,14 @@ The commissioner shall not approve any construction documents, nor issue an init
 
 
 
+
+
 *§ 28-505.5 Process.* ::
 
 
 Application for a certification of no harassment or waiver shall be made pursuant to section 27-2093.1 of the housing maintenance code.
+
+
 
 
 
@@ -11380,10 +13316,14 @@ The time period in which the commissioner is required to approve or reject an ap
 
 
 
+
+
 *§ 28-505.7 Certificate of occupancy.* ::
 
 
 The department shall not issue any temporary or permanent certificate of occupancy for any new or existing structure or portion thereof on a lot subject to an restrictive declaration pursuant to subdivision e of section 27-2093.1 of the housing maintenance code, other than for any low income housing located on such lot, until the department of housing preservation and development certifies that the low income housing required by such restrictive declaration has been completed in compliance with the restrictive declaration and the department has issued a temporary or permanent certificate of occupancy for each unit of low income housing covered by such restrictive declaration.
+
+
 
 
 

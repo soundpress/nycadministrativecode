@@ -4,7 +4,9 @@ Title 30: Emergency Management
 Chapter 1: Office Of Emergency Management
 --------------------------------------------------
 
-*§ 30-101 Definitions. * ::
+
+
+*§ 30-101 Definitions.* ::
 
 
 As used in this title:
@@ -18,7 +20,9 @@ c. "Emergency support functions" shall mean a functional area of response activi
 
 
 
-*§ 30-102 Protocols regarding weather emergencies. * ::
+
+
+*§ 30-102 Protocols regarding weather emergencies.* ::
 
 
 a. The commissioner shall develop protocols that shall include, but need not be limited to, the following: (1) what specific actions the office may take when the national weather service forecasts the occurrence of certain specified severe weather conditions, as determined by the office, including identifying what other agencies or offices of city, state or federal government shall be contacted or consulted; (2) based on the national weather service consultation and inter-agency communications, whether and at what level to activate emergency support functions; and (3) the circumstances under which the office would call upon the state emergency management office or other jurisdictions for assistance, or request mutual aid assistance from the state or other jurisdictions pursuant to article two-B of the executive law.
@@ -28,7 +32,9 @@ b.    On or before November fifteenth, 2011 and every November fifteenth ther
 
 
 
-*§ 30-103 Annual snow preparedness and response report. * ::
+
+
+*§ 30-103 Annual snow preparedness and response report.* ::
 
 
 a. For purposes of this subdivision, the term "snow event" shall mean any snowfall equal to or in excess of six inches within a period of twenty-four hours in any of the five boroughs based on the department of sanitation's measurements.
@@ -56,7 +62,9 @@ c. No later than November fifteenth, two thousand twelve, and every November fif
 
 
 
-*§ 30-104 Food and water access plan. * ::
+
+
+*§ 30-104 Food and water access plan.* ::
 
 
 In consultation with appropriate federal, state, and city government agencies, the commissioner shall develop or update, no later than December first, two thousand thirteen, a food and water access plan to be utilized after coastal storms and other severe weather and natural disaster events where such events may disrupt access to food and water or may impact the ability to purchase, prepare or consume food or water. Such plan shall include, but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
@@ -82,7 +90,9 @@ i. a mechanism to consult community based organizations and service providers wi
 
 
 
-*§ 30-105 Sheltering plan. * ::
+
+
+*§ 30-105 Sheltering plan.* ::
 
 
 The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update a sheltering plan no later than December first, two thousand thirteen, that anticipates the operation of shelters for short, medium or long-term periods of time as a result of coastal storms and other severe weather and natural disaster events. Such plan shall include, but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
@@ -116,7 +126,9 @@ m. a mechanism to consult community based organizations and service providers wi
 
 
 
-*§ 30-106 Community recovery plan. * ::
+
+
+*§ 30-106 Community recovery plan.* ::
 
 
 The commissioner shall develop or update, no later than December first, two thousand thirteen, a community recovery plan to be utilized before, during and after coastal storms and other severe weather and natural disaster events. Such plan shall specify steps that the office, along with relevant agencies and other partners, shall take in preparation for, during and immediately after such events. Such plan shall include, but not be limited to, the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency event:
@@ -142,7 +154,9 @@ g. an information dissemination strategy that identifies and utilizes major hubs
 
 
 
-*§ 30-107 Small business and non-profit organization recovery plan. * ::
+
+
+*§ 30-107 Small business and non-profit organization recovery plan.* ::
 
 
 a. (1)    The commissioner, in consultation with the commissioner of small business services and other government or private organizations having expertise in non-profit organization and insurance matters, shall develop or update no later than December first, two thousand thirteen, a small business and non-profit organization recovery plan to be utilized after coastal storms and other severe weather and natural disaster events.
@@ -156,7 +170,9 @@ b. To the extent practicable, all public communications, written or otherwise, w
 
 
 
-*§ 30-108 Traffic management plan. * ::
+
+
+*§ 30-108 Traffic management plan.* ::
 
 
 The commissioner shall develop or update, no later than December first, two thousand thirteen, a traffic management plan in consultation with other city agencies and relevant governmental entities, to be utilized during and after coastal storms and other severe weather and natural disaster events where such events severely impact automotive, subway, and/or commuter train transportation in the city of New York. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
@@ -180,7 +196,9 @@ h. a mechanism to provide that, to the extent practicable, all public communicat
 
 
 
-*§ 30-109 Fuel management plan. * ::
+
+
+*§ 30-109 Fuel management plan.* ::
 
 
 The commissioner shall develop or update, no later than December first, two thousand thirteen, a fuel management plan in consultation with other city agencies and other relevant governmental entities, to be utilized during and after coastal storms and other severe weather and natural disaster events where such events may disrupt or have disrupted the fuel supply in the city of New York. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
@@ -200,7 +218,9 @@ f. a mechanism to provide that, to the extent practicable, all public communicat
 
 
 
-*§ 30-110 Special medical needs shelters. * ::
+
+
+*§ 30-110 Special medical needs shelters.* ::
 
 
 The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update a plan no later than December first, two thousand thirteen for the tracking of persons in special medical needs shelters established as a result of coastal storms and other severe weather and natural disaster events. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
@@ -218,7 +238,9 @@ e. a mechanism for consulting community based organizations and service provider
 
 
 
-*§ 30-111 Plan for outreach and recovery to vulnerable and homebound individuals. * ::
+
+
+*§ 30-111 Plan for outreach and recovery to vulnerable and homebound individuals.* ::
 
 
 The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update, no later than December first, two thousand thirteen, an outreach and recovery plan to assist vulnerable and homebound individuals before, during and after coastal storms and other severe weather and natural disaster events. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
@@ -240,7 +262,9 @@ g. a mechanism for consulting community based organizations and service provider
 
 
 
-*§ 30-112 Emergency management plan reporting and review. * ::
+
+
+*§ 30-112 Emergency management plan reporting and review.* ::
 
 
 a. The commissioner shall provide to the city council a copy of any plan prepared by the New York city office of emergency management for the purpose of responding to coastal storms and other severe weather and natural disaster events, including but not limited to any plans created or updated in accordance with sections 30-104 through 30-111 of this chapter. The commissioner shall also provide the city council with updated versions of such plans within sixty days of plan revisions.
@@ -248,6 +272,8 @@ a. The commissioner shall provide to the city council a copy of any plan prepare
 b. The commissioner shall assess any plan referenced in subdivision a of this section whenever such plan is activated. Such assessment shall consider the reports and recommendations issued by any task force or commission following such activation. The commissioner shall report to the city council any subsequent changes to such plan and provide a copy of such updated plan to the city council, no later than sixty days after such assessment is completed. The commissioner shall also assess any such plan at least once every two years, whether or not such plan has been activated, and shall report to the city council any subsequent changes to such plan and provide a copy of such updated plan to the city council no later than sixty days after such assessment is completed.
 
 c. Notwithstanding the provisions of this section, the commissioner shall not be required to disclose to the council portions of plans or to report changes made to plans where disclosure of such information could compromise the safety of the public.
+
+
 
 
 
@@ -274,6 +300,8 @@ a. Coordinating with relevant agencies including the department of buildings, th
 
 
 
+
+
 *§ 30-114 Localized emergency preparedness materials.* ::
 
 
@@ -290,6 +318,8 @@ d. at the discretion of the commissioner, identify and provide contact informati
 e. provide any other information deemed relevant by the commissioner; and
 
 f. be distributed within communities at risk of evacuation due to coastal storms or hurricanes in the top ten most commonly spoken languages within each such community as determined by the commissioner in consultation with the department of city planning, and be made available online.
+
+
 
 
 

@@ -4,7 +4,9 @@ Title 9: Criminal Justice
 Chapter 1: Department of Correction
 --------------------------------------------------
 
-*§ 9-101 City correctional institutions. * ::
+
+
+*§ 9-101 City correctional institutions.* ::
 
 
 The commissioner of correction may designate any institution or part thereof under the jurisdiction of the commissioner for the safekeeping of persons committed to the department of correction. The commissioner may also designate any institution or part thereof under his or her jurisdiction for the safekeeping of female prisoners only. Officers charged with the transportation of persons committed to the department of correction shall deliver them to the institution or part thereof as may be directed by the commissioner.
@@ -12,7 +14,9 @@ The commissioner of correction may designate any institution or part thereof und
 
 
 
-*§ 9-102 Buildings for common jails. * ::
+
+
+*§ 9-102 Buildings for common jails.* ::
 
 
 The board of estimate by resolution may designate from time to time any building or buildings within the city to be the common jails of such city or of any of the counties therein. The building or buildings so designated shall be such common jails until changed by a like resolution of such board.
@@ -20,7 +24,9 @@ The board of estimate by resolution may designate from time to time any building
 
 
 
-*§ 9-103 Segregation of prisoners on Hart's Island. * ::
+
+
+*§ 9-103 Segregation of prisoners on Hart's Island.* ::
 
 
 The lands and buildings on Hart's Island shall be utilized for the segregation of prisoners transferred thereto by the commissioner of correction.
@@ -28,7 +34,9 @@ The lands and buildings on Hart's Island shall be utilized for the segregation o
 
 
 
-*§ 9-104 Transfer of inmates by commissioner of correction. * ::
+
+
+*§ 9-104 Transfer of inmates by commissioner of correction.* ::
 
 
 The commissioner of correction shall have power to transfer prisoners from any prison or correctional institution under his or her control to any other prison or correctional institution under the jurisdiction of the department.
@@ -36,7 +44,9 @@ The commissioner of correction shall have power to transfer prisoners from any p
 
 
 
-*§ 9-105 Commitment of witnesses in criminal proceedings. * ::
+
+
+*§ 9-105 Commitment of witnesses in criminal proceedings.* ::
 
 
 The commissioner of correction shall have authority concerning the care and custody of witnesses in criminal proceedings committed to the institutions under the commissioner's charge. Upon the recommendation of the district attorney, the commissioner of correction may transfer such witnesses from one institution under the commissioner's charge to another such institution.
@@ -44,7 +54,9 @@ The commissioner of correction shall have authority concerning the care and cust
 
 
 
-*§ 9-106 Legislative intent; narcotics treatment program. * ::
+
+
+*§ 9-106 Legislative intent; narcotics treatment program.* ::
 
 
 The charter empowers the council as the legislative body of the city of New York to pass laws "for the order, protection and government of persons and property; for the preservation of the public health, comfort, peace and prosperity of the city and its inhabitants." One of the major problems facing New York today, and one which involves almost every one of the above enumerated powers is the narcotics problem. There has been no abatement in the seriously burgeoning scourge of narcotic addiction in New York city despite the nineteen hundred sixty-two White House conference on narcotics and drug abuses and the nineteen hundred sixty-five Gracie Mansion conference on narcotics addiction, the enactment and administration of article nine of the mental hygiene law, and the various legislative expressions of interest and concern on federal, state and city levels. It has also been adequately demonstrated that the incarceration of an addict after an arrest and trial without a specific modality of medical and/or social therapy, even with the involvement of multi-million dollar expense and capital funding, offers no solution to the problem and even the establishment of many so-called "half-way houses" dealing with after-care and the social needs of the drug addict have failed. Sufficient studies have been made to determine that a program of treatment which blocks out the craving, narcotic hunger and euphoria associated with heroin is successful and by giving maintenance dosages of methadone hydrochloride as a complete substitute for heroin, we can start to drive down the rate of narcotics addiction in our city. Between December nineteen hundred sixty-seven and April nineteen hundred sixty-eight, the city prison at Rikers Island, was used for a demonstration project for the use of methadone hydrochloride to combat heroin addiction. This voluntary program involved twelve hard core, intractable, recidivist addicts, with multiple arrest and long conviction records and it achieved remarkable results. One of the conclusions of the final report of this demonstration project reveals that a large number of the four thousand to five thousand addict prisoners would be willing to accept methadone maintenance treatment if it were available. The applicants for interviews in the prison were so numerous that all could not be interviewed. Letters from prisoners still continue to arrive requesting treatment. Despite the demonstrated success of the program, it is being abandoned. The final report reflects the reason for not continuing and expanding the program to realistic dimensions; that reason is the unavailability of funds. This conclusion is difficult to comprehend in view of the multi-million dollar funding of other programs, which have neither revealed any new solutions nor have they demonstrated any degree of achievement. It is not anticipated that this legislation will solve the problem. Hopefully, it will reverse the ever mounting spiral of heroin addiction.
@@ -52,7 +64,9 @@ The charter empowers the council as the legislative body of the city of New York
 
 
 
-*§ 9-107 Narcotics treatment program. * ::
+
+
+*§ 9-107 Narcotics treatment program.* ::
 
 
 a. The commissioner of correction shall establish a program for the treatment of heroin addicts through the use of methadone hydrochloride therapy. The program shall be available on a voluntary basis only to such inmates as apply, subject to a medical evaluation, before acceptance, of their need for such treatment.
@@ -62,7 +76,9 @@ b. The commissioner of correction shall provide for the continuance of such trea
 
 
 
-*§ 9-108 Health services. * ::
+
+
+*§ 9-108 Health services.* ::
 
 
 The New York city health and hospital corporation shall arrange for and make available facilities for outpatient treatment and suitable amenities for the continuance of social therapy for all persons who have received such treatment in conformance with section 9-107 of this code. Such continued treatment shall be voluntary, and shall commence upon the discharge of such persons from any penal institution and/or upon the termination of any period of parole.
@@ -70,7 +86,9 @@ The New York city health and hospital corporation shall arrange for and make ava
 
 
 
-*§ 9-109 Classification. * ::
+
+
+*§ 9-109 Classification.* ::
 
 
 The commissioner of correction shall so far as practicable classify all felons, misdemeanants and violators of local laws under the commissioner's charge, so that the youthful or less hardened offenders shall be segregated from the older or more hardened offenders. The commissioner of correction may set apart one or more of the penal institutions for the custody of such youthful or less hardened offenders, and he or she is empowered to transfer such offenders thereto from any penal institution of the city. The commissioner of correction is empowered to classify the transferred inmates, so far as practicable, with regard to age, nature of offense, or other fact, and to separate or group such offenders according to such classification.
@@ -78,7 +96,9 @@ The commissioner of correction shall so far as practicable classify all felons, 
 
 
 
-*§ 9-110 Education and programming. * ::
+
+
+*§ 9-110 Education and programming.* ::
 
 
 The commissioner of correction may establish and maintain schools or classes for the instruction and training of the inmates of any institution under the commissioner's charge, and shall offer to all inmates incarcerated for more than 10 days a minimum of five hours per day of inmate programming or education, excluding weekends and holidays. Such programming or education may be provided by the department or by another provider, and need not be offered to inmates in punitive segregation, or to inmates who may be ineligible or unavailable for such programming or education, or where offering such programming or education would not be consistent with the safety of the inmate, staff or facility. Nothing in this section shall prohibit the department from offering such programming or education on the basis of incentive-based criteria developed by the department. For the purposes of this section, the term “inmate programming” has the same meaning as in section 9-144.
@@ -88,7 +108,9 @@ The commissioner of correction may establish and maintain schools or classes for
 
 
 
-*§ 9-111 Libraries. * ::
+
+
+*§ 9-111 Libraries.* ::
 
 
 a. The commissioner of correction is empowered to set aside in the city prison a sufficient space for the purposes of installing a library for the inmates. The commissioner of correction may do likewise in any other place in which persons are held for infractions of the law pending a determination by a court.
@@ -98,7 +120,9 @@ b. The commissioner of correction is authorized to accept contributions of books
 
 
 
-*§ 9-112 Suspension of members of the uniformed force. * ::
+
+
+*§ 9-112 Suspension of members of the uniformed force.* ::
 
 
 Where a member of the uniformed force shall be charged with the commission of a crime, he or she may be suspended without pay for the duration of the time that said criminal charges are pending final disposition. If the member is found not guilty of such criminal charges he or she shall be paid full back pay for the period of suspension. However, after the final disposition of said criminal charges no member of the uniformed force shall be suspended without pay for more than thirty days while awaiting disposition of departmental charges against such member. If the member is found not guilty of the departmental charges such member shall be paid full back pay for the period he or she had been suspended while awaiting disposition of the departmental charges against such member. In the event an award of back pay is made pursuant to this section, the amount of any salary or income earned by the member of the uniformed force during the period of suspension shall be deducted from the award.
@@ -106,7 +130,9 @@ Where a member of the uniformed force shall be charged with the commission of a 
 
 
 
-*§ 9-113 Resignation by members of the uniformed force of the department of correction. * ::
+
+
+*§ 9-113 Resignation by members of the uniformed force of the department of correction.* ::
 
 
 Absence, without leave and without an explanation, of any member of the force for five consecutive work days shall be deemed and held to be a resignation, and the member so absent shall, at the expiration of such period, cease to be a member of the force and be dismissed therefrom.
@@ -114,7 +140,9 @@ Absence, without leave and without an explanation, of any member of the force fo
 
 
 
-*§ 9-114 Discipline of inmates. * ::
+
+
+*§ 9-114 Discipline of inmates.* ::
 
 
 a. Officers in any institution in the department of correction shall use all suitable means to defend themselves, to enforce discipline, and to secure the persons of inmates who shall:
@@ -138,7 +166,9 @@ b. The officers in any institution of the department of correction shall not inf
 
 
 
-*§ 9-115 Correction officers (women) in prisons for women. * ::
+
+
+*§ 9-115 Correction officers (women) in prisons for women.* ::
 
 
 a. Women correction officers shall have charge of and shall supervise all female prisoners and all parts of prisons occupied by such prisoners, or such parts thereof as the officer in command shall designate to be under their supervision. At least one woman correction officer shall be on duty in each prison as long as any female prisoner is detained therein.
@@ -148,7 +178,9 @@ b. Women correction officers shall search all women visiting any part of such pr
 
 
 
-*§ 9-116 Three platoon system. * ::
+
+
+*§ 9-116 Three platoon system.* ::
 
 
 a. Unless expressly otherwise provided, whenever used in this section, the following terms shall mean and include:
@@ -170,7 +202,9 @@ f. All general or specific laws inconsistent with this section or with any part 
 
 
 
-*§ 9-117 Composition of uniformed force of department of correction; uniforms. * ::
+
+
+*§ 9-117 Composition of uniformed force of department of correction; uniforms.* ::
 
 
 a. The uniformed force of the department of correction shall consist of the following ranks:
@@ -196,7 +230,9 @@ c. The uniforms to be worn by the members of the force shall be prescribed by th
 
 
 
-*§ 9-117.1 Receipt of line of duty pay. * ::
+
+
+*§ 9-117.1 Receipt of line of duty pay.* ::
 
 
 a. A correction officer of the department of correction shall be entitled pursuant to this section to the full amount of his or her regular salary for the period of any incapacity due to illness or injury incurred in the performance and discharge of duty as a correction officer, as determined by the department.
@@ -212,7 +248,9 @@ e. As used in this section the term "incapacity" shall mean the inability to per
 
 
 
-*§ 9-118 Commissaries. * ::
+
+
+*§ 9-118 Commissaries.* ::
 
 
 a. The commissioner of correction may establish a commissary in any institution under the commissioner's jurisdiction for the use and benefit of the inmates and employees thereof. All moneys received from the sales of such commissaries shall be paid over semi-monthly to the commissioner of finance without deduction. Except as otherwise provided in this subdivision, the provisions of section 12-114 of the code shall apply to every officer or employee who receives such moneys in the performance of his or her duties in any such commissary. The accounts of the commissaries shall be subject to supervision, examination and audit by the comptroller and all other powers of the comptroller in accordance with the provisions of the charter and code.
@@ -238,7 +276,9 @@ f. Any officer or employee, whose duties in connection with the commissary fund 
 
 
 
-*§ 9-119 Requisitions. * ::
+
+
+*§ 9-119 Requisitions.* ::
 
 
 The chief officer of any institution under the charge of the commissioner of correction shall make his or her requisitions in writing upon the commissioner for all articles such officer deems necessary to be used in such institution. Such officer shall keep an accurate account thereof.
@@ -246,7 +286,9 @@ The chief officer of any institution under the charge of the commissioner of cor
 
 
 
-*§ 9-120 Reports of subordinate officers. * ::
+
+
+*§ 9-120 Reports of subordinate officers.* ::
 
 
 The chief officer of any institution under the charge of the commissioner of correction shall report once in each week to the commissioner of correction. Such report shall set forth:
@@ -266,7 +308,9 @@ The chief officer of any institution under the charge of the commissioner of cor
 
 
 
-*§ 9-121 Records of inmates of institutions. * ::
+
+
+*§ 9-121 Records of inmates of institutions.* ::
 
 
 The commissioner of correction shall keep and preserve a proper record of all persons who shall come under the commissioner's care or custody, and of the disposition of each, with full particulars as to the name, age, sex, color, nativity and religious faith, together with a statement of the cause and length of detention. Except as otherwise provided by law, the records kept pursuant to this section shall be public and shall be open to public inspection.
@@ -274,7 +318,9 @@ The commissioner of correction shall keep and preserve a proper record of all pe
 
 
 
-*§ 9-122 Labor of prisoners in other agencies; correction officers. * ::
+
+
+*§ 9-122 Labor of prisoners in other agencies; correction officers.* ::
 
 
 A correction officer or correction officers from the department of correction shall at all times direct and guard all inmates of any of the institutions in the department of correction who are performing work for any other agency.
@@ -282,7 +328,9 @@ A correction officer or correction officers from the department of correction sh
 
 
 
-*§ 9-123 Cultivation of land. * ::
+
+
+*§ 9-123 Cultivation of land.* ::
 
 
 The commissioner of correction may use for agricultural purposes all the lands under his or her jurisdiction which are capable of cultivation and which are not otherwise occupied or utilized.
@@ -290,7 +338,9 @@ The commissioner of correction may use for agricultural purposes all the lands u
 
 
 
-*§ 9-124 Manufacturing fund. * ::
+
+
+*§ 9-124 Manufacturing fund.* ::
 
 
 The establishment of a fund to be known as "manufacturing fund, department of correction," is authorized. The comptroller is directed to place in such fund all moneys received or realized through the sale of articles manufactured by the department of correction. The comptroller is authorized to charge against such fund any voucher received from the department of correction for the purchase of materials, supplies, equipment, repairs, replacements and royalties on manufacturing industry machines to be used in its manufacturing industries. The comptroller is further directed to transfer to the general fund of the city at the end of each calendar year any sums remaining in such manufacturing fund in excess of seventy-five thousand dollars of the unencumbered balance.
@@ -298,7 +348,9 @@ The establishment of a fund to be known as "manufacturing fund, department of co
 
 
 
-*§ 9-125 Civil jail. * ::
+
+
+*§ 9-125 Civil jail.* ::
 
 
 a. The commissioner of correction shall have custody of civil prisoners and the prisons wherein they are confined.
@@ -308,10 +360,14 @@ b. The commissioner of correction may keep in any place or places under the comm
 
 
 
-*§ 9-126 Jurisdiction of commissioner of correction over civil prisoners. * ::
+
+
+*§ 9-126 Jurisdiction of commissioner of correction over civil prisoners.* ::
 
 
 Any part of the institutions under the jurisdiction of the commissioner of correction which shall be set aside for the accommodation of prisoners detained by civil process shall be under the control of such commissioner of correction.
+
+
 
 
 
@@ -322,6 +378,8 @@ Any part of the institutions under the jurisdiction of the commissioner of corre
 a. The department of correction and the department of homeless services shall develop a process for identifying individuals who repeatedly are admitted to city correctional institutions and who, in addition, either immediately before their admission to or after their release from such institutions, are housed in shelter provided by the department of homeless services.
 
 b. The department of correction shall collect, from any sentenced inmate who will serve, after sentencing, ten days or more in any city correctional institution, information relating to such inmate's housing, employment and sobriety needs. The department of correction shall, with the consent of such inmate, provide such information to any social service organization that is providing discharge planning services to such inmate under contract with the department of correction. For the purposes of this section and sections 9-128 and 9-129 of this title, "discharge planning" shall mean the creation of a plan for post-release services and assistance with access to community-based resources and government benefits designed to promote an inmate's successful reintegration into the community.
+
+
 
 
 
@@ -346,6 +404,8 @@ b. Prior to the release of an eligible inmate from the custody of the department
 
 
 
+
+
 *§ 9-128 Applications for government benefits.* ::
 
 
@@ -354,6 +414,8 @@ a. The department of correction shall make applications for government benefits 
 b. The department of correction shall provide assistance with the preparation of applications for government benefits and identification to sentenced inmates who will serve, after sentencing, thirty days or more in any city correctional institution and who receive discharge planning services from the department of correction or any social services organization under contract with the department of correction, and, in its discretion, to any other inmate who may benefit from such assistance.
 
 c. Notwithstanding any other provision of law, any person born in the city of New York and sentenced to ninety days or more in a New York city correctional facility who will serve, after sentencing, thirty days or more in a New York city correctional facility, shall be provided by the department before or at release, or within two weeks thereafter if extenuating circumstances exist, at no cost to such person, a certified copy of his or her birth certificate to be used for any lawful purpose; provided that such person has requested a copy of his or her birth certificate from the department at least two weeks prior to release. Upon such request, the department shall request such certificate from the department of health and mental hygiene in a form and manner approved by the commissioner of the department of health and mental hygiene. The department shall inform such person of his or her ability to receive such certificate pursuant to the provisions of this subdivision within three days of his or her admission to a sentencing facility. No person shall receive more than one birth certificate without charge pursuant to this subdivision.
+
+
 
 
 
@@ -370,7 +432,11 @@ The commissioner of correction shall submit a report to the mayor and the counci
 
 
 
+
+
 *§ 9-130 Jail data reporting on adolescents. [Repealed]* ::
+
+
 
 
 
@@ -482,7 +548,9 @@ e. The information in subdivisions b, c and d of this section shall be compared 
 
 
 
-*§ 9-131 Persons not to be detained. * ::
+
+
+*§ 9-131 Persons not to be detained.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
@@ -592,10 +660,14 @@ h. Use of city land or facilities by federal immigration authorities and access 
 
 
 
+
+
 *§ 9-132 Hart's Island electronic burial database.* ::
 
 
 a. The department of correction shall post and maintain an electronic database of all burials on Hart's Island since nineteen hundred seventy-seven on the department's website, and shall not charge a fee to the public to search such database.
+
+
 
 
 
@@ -608,7 +680,9 @@ a. The department of correction shall reduce its Hart's Island visitation policy
 
 
 
-*§ 9-134 Jail segregated housing statistics. * ::
+
+
+*§ 9-134 Jail segregated housing statistics.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -642,7 +716,9 @@ b. For the quarter beginning October first, two thousand fourteen, commencing on
 
 
 
-*§ 9-135 Alternative housing unit waiting list. * ::
+
+
+*§ 9-135 Alternative housing unit waiting list.* ::
 
 
 The commissioner shall post a report every 60 days, on the department of correction website, setting forth the number of city jail inmates who have been found guilty of violating departmental rules but have yet to be placed in punitive segregation, restrictive housing or a clinical alternative to punitive segregation housing, or any successor to such housing units, disaggregated by inmates with "M" designations at the end of their book and case numbers, indicating that the inmates are known to mental health staff, and inmates without "M" designations. Such report shall state the number of inmates awaiting placement in any such housing unit categorized by the length of time such inmates have been awaiting placement in the following categories: 1-5 days, 6-15 days, 16-30 days, 31-60 days, and 61 days or longer. The commissioner shall also post, no later than 45 days after the end of each quarter, a quarterly report that sets forth the number of inmates awaiting transfer to the custody of the New York state department of health or the New York state department of people with developmental disabilities pursuant to section 730 of the criminal procedure law, the length of stay for such inmates, and the housing facility in which such inmates were placed.
@@ -654,7 +730,9 @@ Editor's note: the local law that enacted the above § 9-135 provides, in part, 
 
 
 
-*§ 9-136 Grievance statistics. * ::
+
+
+*§ 9-136 Grievance statistics.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -672,6 +750,8 @@ b. Forty-five days after the quarter beginning January 1, 2016, and no later tha
    3. The number of grievances, the stages of the grievance process, the stage in the grievance process at which they were resolved, and the categories for which any grievances were dismissed.
 
    4. The number of inmates that submitted grievances.
+
+
 
 
 
@@ -700,7 +780,9 @@ a. Within 45 days of the end of each quarter of the fiscal year, the department 
 
 
 
-*§ 9-138 Use of force directive. * ::
+
+
+*§ 9-138 Use of force directive.* ::
 
 
 The commissioner shall post on the department's website the directive stating the department's current policies regarding the use of force by departmental staff on inmates, including but not limited to the circumstances in which any use of force is justified, the circumstances in which various levels of force or various uses of equipment are justified, and the procedures staff must follow prior to using force. The commissioner may redact such directive as necessary to preserve safety and security in the facilities under the department's control.
@@ -710,7 +792,9 @@ The commissioner shall post on the department's website the directive stating th
 
 
 
-*§ 9-139 Inmate bill of rights. * ::
+
+
+*§ 9-139 Inmate bill of rights.* ::
 
 
 a. The department shall inform every inmate upon admission to the custody of the department, in writing, using plain and simple language, of their rights under department policy, which shall be consistent with federal, state, and local laws, and board of correction minimum standards, on the following topics: non-discriminatory treatment, personal hygiene, recreation, religion, attorney visits, access to legal reference materials, visitation, telephone calls and other correspondence, media access, due process in any disciplinary proceedings, health services, safety from violence, and the grievance system.
@@ -730,7 +814,9 @@ f. Upon admission to the custody of the department, each inmate shall also be of
 
 
 
-*§ 9-140 Jail visitation statistics. * ::
+
+
+*§ 9-140 Jail visitation statistics.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -764,10 +850,14 @@ c. The commissioner shall post a report containing the information in subdivisio
 
 
 
+
+
 *§ 9-141 Feminine hygiene products.* ::
 
 
 All female inmates in the custody of the department shall be provided, at the department’s expense, with feminine hygiene products as soon as practicable upon request. All female individuals arrested and detained in the custody of the department for at least 48 hours shall be provided, at the department’s expense, with feminine hygiene products as soon as practicable upon request. For purposes of this section, “feminine hygiene products” means tampons and sanitary napkins for use in connection with the menstrual cycle.
+
+
 
 
 
@@ -826,6 +916,8 @@ e. The information in subdivision d of this section shall be compared to previou
 
 
 
+
+
 *§ 9-143 Annual report on mentally ill inmates and recidivism.* ::
 
 
@@ -848,10 +940,14 @@ c. The information in subdivision b of this section shall be compared to previou
 
 
 
+
+
 *§ 9-144 Correction programming evaluation and report.* ::
 
 
 a. The department shall evaluate inmate programming each calendar year. For purposes of this section, “inmate programming” includes but is not limited to any structured services offered directly to inmates for the purposes of vocational training, counseling, cognitive behavioral therapy, addressing drug dependencies, or any similar purpose. No later than April 1 of each year, beginning in 2017, the department shall submit a summary of each evaluation to the mayor and the council, and post such summary to the department’s website. This summary shall include factors determined by the department, including, but not be limited to, information related to the following for each such program: (i) the amount of funding received; (ii) estimated number of inmates served; (iii) a brief description of the program including the estimated number of hours of programming offered and utilized, program length, goals, target populations, effectiveness, and outcome measurements, where applicable; and (iv) successful completion and compliance rates, if applicable. Such summary shall be permanently accessible from the department’s website and shall be provided in a format that permits automated processing, where appropriate. Each yearly summary shall include a comparison of the current year with the prior five years, where such information is available.
+
+
 
 
 
@@ -878,6 +974,8 @@ d. Reporting. No later than 90 days from January 1 of each year, beginning in 20
 
 
 
+
+
 *§ 9-146 Inmate court appearance transportation.* ::
 
 
@@ -896,10 +994,14 @@ c. The department shall make every effort to reach an agreement with the office 
 
 
 
+
+
 *§ 9-147 Inmate court appearance clothing.* ::
 
 
 Except as provided elsewhere in this section, the department shall provide every inmate appearing for a trial or before a grand jury with access to clothing in their personal property prior to transport for such appearance, and produce all such inmates for such appearances in such clothing. If such clothing is not available, or if an inmate chooses not to wear their personal clothing, the department shall provide such inmate with new or gently used, size appropriate clothing of a kind customarily worn by persons not in the custody of the department, unless (i) such inmate chooses to wear the uniform issued by the department, or (ii) such inmate is required to wear such uniform by an order of the court. The department shall permit personal clothing to be delivered to an inmate during such time as packages are permitted to be delivered under title 40 of the rules of the city of New York or during reasonable hours the day before an inmate's scheduled appearance for a trial or before a grand jury. New or gently used, weather- and size-appropriate clothing of a kind customarily worn by persons not in the custody of the department shall be offered to any inmate released from the custody of the department from a court, unless the inmate is wearing the inmate's own personal clothing.
+
+
 
 
 
@@ -932,6 +1034,8 @@ d. For the purposes of subdivision b, the term "required time period" means five
 (L.L. 2017/123, 7/22/2017, eff. 10/1/2017*)
 
 * Editor's note: Pursuant to § 2 of L.L. 2017/123, subsection c is effective 1/22/2018.
+
+
 
 
 
@@ -972,6 +1076,8 @@ d. Beginning July 1, 2018, the department or its designee shall submit to the co
 
 
 
+
+
 *§ 9-150 Bail facilitation.* ::
 
 
@@ -986,6 +1092,8 @@ a. Within 24 hours of taking custody of an eligible inmate, the department shall
 b. Within 24 hours of taking custody of eligible inmates, the department shall notify such inmates that they may post their own bail. Within such time period, the department shall, to the extent practicable and in a manner consistent with officer safety and all applicable laws, offer such inmates the opportunity to obtain property, including personal contact information and financial resources, that such inmates may require for the purpose of posting bail and which is stored in such inmate’s personal property, provided that any member of the department who accesses such inmate’s property pursuant to this subdivision shall request access only for the purpose of facilitating posting bail.
 
 c. The department shall ensure that bail facilitators meet with all eligible inmates within 48 hours of their admission to the custody of the department, that eligible inmates have continued access to bail facilitators, and that bail facilitators are provided with reasonable resources necessary to fulfill their duties.
+
+
 
 
 
@@ -1090,6 +1198,8 @@ e. The report by the department of education shall include a report on plans, if
 
 
 
+
+
 *§ 9-152 Report on use of force investigations.* ::
 
 
@@ -1120,10 +1230,14 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+
+
 *§ 9-153 Erroneous records.* ::
 
 
 The department shall make best efforts to provide records relating to an individual’s period of incarceration necessary to rectify erroneous warrants within three business days of the request for such records.
+
+
 
 
 
@@ -1143,7 +1257,9 @@ The city shall provide telephone services to individuals within the custody of t
 Chapter 2: Department of Probation
 --------------------------------------------------
 
-*§ 9-201 Probation administrative fee.** * ::
+
+
+*§ 9-201 Probation administrative fee.*** ::
 
 
 a. In accordance with section 257-c of the executive law, any individual currently serving or who shall be sentenced to a period of probation upon conviction of any crime under article thirty-one of the vehicle and traffic law shall pay to the department of probation an administrative fee of thirty dollars per month.
@@ -1161,7 +1277,9 @@ f. Monies collected pursuant to this section shall be utilized for probation ser
 
 
 
-*§ 9-202 Investigation fee. * ::
+
+
+*§ 9-202 Investigation fee.* ::
 
 
 a. In accordance with section 252-a of the family court act, when ordered by the court to conduct an investigation pursuant to section six hundred fifty-three of the family court act, the department of probation shall receive an investigation fee of not less than fifty dollars and not more than five hundred dollars from the parties in such proceeding for performing such investigation.
@@ -1173,6 +1291,8 @@ c. The court, in its discretion, may waive the investigation fee when the partie
 d. The court shall apportion the investigation fee between the parties based upon the respective financial circumstances of the parties and the equities of the case.
 
 e. Fees pursuant to this section shall be paid directly to the department of probation to be retained and utilized for local probation services.
+
+
 
 
 
@@ -1223,10 +1343,14 @@ d. The information required by subdivisions b and c of this section shall be com
 
 
 
-*§ 9-204 Probation programming report. * ::
+
+
+*§ 9-204 Probation programming report.* ::
 
 
 The department of probation shall evaluate the effectiveness of each program through which the department provides any structured service directly to probation clients. No later than 90 days from January 1 of each year, beginning in 2017, the department shall submit a summary of each evaluation to the mayor and the council, and post such summary to the department’s website. This summary shall include criteria determined by the department, which shall include, but not be limited to, information related to the following for each such program: (i) the amount of funding received; (ii) the number of individuals served; (iii) a brief description of the services provided, including a program’s length, requirements, and target populations, where applicable; and (iv) recidivism and compliance rates, if applicable, provided that such summary may calculate recidivism without using data for participants who only participated in such programming for a minimal period of time, where such period of time is identified in such summary.
+
+
 
 
 
@@ -1284,6 +1408,8 @@ Editor's note: Section 2 of L.L. 2017/226 provides: "This local law takes effect
 Chapter 3: Office of Criminal Justice
 --------------------------------------------------
 
+
+
 *§ 9-301 Definitions.* ::
 
 
@@ -1302,10 +1428,14 @@ Office. The term "office" means the office of criminal justice as defined in sec
 
 
 
+
+
 *§ 9-302 Bail information in courts.* ::
 
 
 The office or another office or agency designated by the mayor shall make reasonable efforts to work with the office of court administration to promote the availability of complete and accurate information regarding the bail posting process to persons seeking to post bail. Such efforts shall include promoting the display of information regarding posting bail conspicuously in locations in courthouses where such information would assist individuals in posting bail and the direct communication of such information to such persons. Such information shall include how to determine the amount and type of bail ordered and all processes required to post bail, including where and how to post bail.
+
+
 
 
 
@@ -1322,6 +1452,8 @@ a. The number of criminal summonses, in total and disaggregated by the number an
 b. The number and percentage of criminal summonses disaggregated by charge, and further disaggregated by agency.
 
 c. The number and percentage of criminal summonses disaggregated by agency, and further disaggregated by charge.
+
+
 
 
 
@@ -1346,6 +1478,8 @@ b. Within 30 days of the beginning of each calendar year, commencing in 2019, th
 
 
 
+
+
 *§ 9-305 Outstanding criminal warrants.* ::
 
 
@@ -1358,6 +1492,8 @@ a. It shall be a policy of the office to make best efforts to:
    3. Seek access to efficient processes for members of the public to rectify inaccurate criminal warrants.
 
 b. No later than February 1, 2019, and every February 1 thereafter, the office shall prepare and submit to the council and post on the office’s website an annual report regarding actions taken pursuant to this section for the previous calendar year. Such report shall include, to the extent this information is available, the number of outstanding criminal warrants in the city.
+
+
 
 
 

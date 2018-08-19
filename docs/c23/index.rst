@@ -4,7 +4,9 @@ Title 21-A: Education
 Chapter 1: Definitions
 --------------------------------------------------
 
-*§ 21-950 Definitions. * ::
+
+
+*§ 21-950 Definitions.* ::
 
 
 Whenever used in this title, unless otherwise specified, the following terms shall have the following meanings:
@@ -27,7 +29,9 @@ Whenever used in this title, unless otherwise specified, the following terms sha
 Chapter 2: Reporting On Co-located Schools
 --------------------------------------------------
 
-*§ 21-951 Annual reporting on co-located schools. * ::
+
+
+*§ 21-951 Annual reporting on co-located schools.* ::
 
 
 a. For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
@@ -42,7 +46,9 @@ c. No information that is otherwise required to be reported pursuant to this sec
 Chapter 3: Reporting On Guidance Counselors and social Workers
 --------------------------------------------------
 
-*§ 21-952 Annual reporting on guidance counselors and social workers. * ::
+
+
+*§ 21-952 Annual reporting on guidance counselors and social workers.* ::
 
 
 a. For the purposes of this section, the following terms shall have the following meanings:
@@ -63,7 +69,9 @@ c. No information that is otherwise required to be reported pursuant to this sec
 Chapter 4: Environmental Data Reporting
 --------------------------------------------------
 
-*§ 21-954 Environmental data reporting. * ::
+
+
+*§ 21-954 Environmental data reporting.* ::
 
 
 a. For the purposes of this section:
@@ -111,6 +119,8 @@ g. Not later than November first, two thousand fifteen and annually thereafter, 
 
 Chapter 5: Reporting on Students Receiving Special Education Services
 --------------------------------------------------
+
+
 
 *§ 21-955 Annual reporting on special education services.* ::
 
@@ -219,6 +229,8 @@ d. No information that is otherwise required to be reported pursuant to this sec
 Chapter 6: Reporting on Demographic Data in New York City Public Schools
 --------------------------------------------------
 
+
+
 *§ 21-956 Definitions.* ::
 
 
@@ -233,6 +245,8 @@ For the purposes of this chapter, the following terms shall have the following m
 "School" shall mean a school of the city school district of the city of New York.
 
 "Special programs" shall mean academic programs including but not limited to gifted and talented programs in grades kindergarten through five and dual language programs in grades kindergarten through eight.
+
+
 
 
 
@@ -287,6 +301,8 @@ f.    No information that is otherwise required to be reported pursuant to th
 
 
 
+
+
 *§ 21-958 Annual report on high school student demographics.* ::
 
 
@@ -335,6 +351,8 @@ f. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+
+
 *§ 21-959 Annual report on the demographics of students in pre-kindergarten programs operated by the department.* ::
 
 
@@ -351,6 +369,8 @@ b. No information that is otherwise required to be reported pursuant to this sec
 
 Chapter 7: Physical Education Reporting
 --------------------------------------------------
+
+
 
 *§ 21-960 Reporting on physical education.* ::
 
@@ -414,6 +434,8 @@ c. No information that is otherwise required to be reported pursuant to this sec
 Chapter 8: Student Health Services
 --------------------------------------------------
 
+
+
 *§ 21-965 Student health services.* ::
 
 
@@ -468,6 +490,8 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+
+
 *§ 21-966 Reporting on health education.* ::
 
 
@@ -507,6 +531,8 @@ d.    No information that is otherwise required to be reported pursuant to th
 
 
 
+
+
 *§ 21-967 Instructors receiving sexual health training.* ::
 
 
@@ -525,6 +551,8 @@ c. All information required to be reported by this section shall be aggregated c
 
 
 
+
+
 *§ 21-968 Provision of feminine hygiene products in schools.* ::
 
 
@@ -535,6 +563,8 @@ a. Definitions. For the purposes of this section, the following terms have the f
    School building. The term “school building” means any facility that is leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school, serving female students in grades six through twelve.
 
 b. The department shall make feminine hygiene products available at no cost to students in bathrooms of school buildings.
+
+
 
 
 
@@ -561,6 +591,8 @@ c. The department shall make available such educational materials in English and
 
 Chapter 9. Career and Technical Education Reporting
 --------------------------------------------------
+
+
 
 *§ 21-971 Reporting on career and technical education.* ::
 
@@ -607,6 +639,8 @@ e. This chapter expires five years after the effective date of the local law tha
 Chapter 10: Computer Science Education Reporting
 --------------------------------------------------
 
+
+
 *§ 21-972 Reporting on computer science education.* ::
 
 
@@ -647,6 +681,8 @@ d. This chapter expires ten years after the effective date of the local law that
 
 Chapter 11: Sexual Education Task Force
 --------------------------------------------------
+
+
 
 *§ 21-973 Sexual health education task force.** ::
 
@@ -701,6 +737,8 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
 --------------------------------------------------
 
+
+
 *§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
 
 
@@ -715,6 +753,8 @@ b. No later than November 1, 2017, and annually thereafter no later than Novembe
 
 Chapter 13: School Meal Participation
 --------------------------------------------------
+
+
 
 *§ 21-975 School meal participation data.* ::
 
@@ -765,6 +805,8 @@ e. No information that is otherwise required to be reported pursuant to this sec
 Chapter 14: Reporting on GSAs
 --------------------------------------------------
 
+
+
 *§ 21-976 Reporting on GSAs.* ::
 
 
@@ -795,6 +837,8 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 Chapter 15: Distribution of Information Regarding Interactions with Non-Local Law Enforcement
 --------------------------------------------------
+
+
 
 *§ 21-977 Distribution of information regarding educational rights and departmental policies related to interactions with non-local law enforcement.* ::
 
@@ -827,6 +871,8 @@ e. Upon any request by non-local law enforcement for access to a student or a st
 Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
 --------------------------------------------------
 
+
+
 *§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.* ::
 
 
@@ -856,6 +902,8 @@ d. No information that is otherwise required to be reported pursuant to this sec
 Chapter 17: Distribution of Information Regarding Summer Meals
 --------------------------------------------------
 
+
+
 *§ 21-979 Distribution of information regarding summer meals.* ::
 
 
@@ -874,6 +922,8 @@ b. No later than June 1, 2018, and annually thereafter no later than June 1, the
 
 Chapter 18: Bullying, Harassment, Intimidation and Discrimination
 --------------------------------------------------
+
+
 
 *§ 21-980 Reporting on student-to-student bullying, harassment, intimidation and discrimination.* ::
 
@@ -927,6 +977,8 @@ f. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+
+
 *§ 21-981 Posting of contact information for reports of bullying, harassment, intimidation, and discrimination.* ::
 
 
@@ -961,6 +1013,8 @@ d. Updates. The department shall update the names and contact information posted
 
 Chapter 20: Reporting on Students in Temporary Housing
 --------------------------------------------------
+
+
 
 *§ 21-987 [Reporting on students in temporary housing.]* ::
 
