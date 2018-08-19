@@ -915,7 +915,7 @@ Chapter 1: Mayor
 	
 	            (2)   Include capital costs, operations and maintenance, fuel costs, available federal, state and other non-city governmental funding assistance, and the social cost of carbon value as provided in paragraph 3 or pursuant to paragraph 4; provided that a site- or project-specific social cost of carbon value may be developed and used in lieu of the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4 if such site- or project-specific social cost of carbon value is higher than the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4.
 
-	      2.   If the geothermal system has the lowest net present value of all alternatives considered it shall be selected for implementation.
+      2.   If the geothermal system has the lowest net present value of all alternatives considered it shall be selected for implementation.
 
 
 
@@ -924,7 +924,7 @@ Chapter 1: Mayor
 
 
 
-	      3.   The social cost of carbon value shall be as follows:
+      3.   The social cost of carbon value shall be as follows:
 
 
 .. list-table::
