@@ -915,13 +915,13 @@ Chapter 1: Mayor
 	
 	            (2)   Include capital costs, operations and maintenance, fuel costs, available federal, state and other non-city governmental funding assistance, and the social cost of carbon value as provided in paragraph 3 or pursuant to paragraph 4; provided that a site- or project-specific social cost of carbon value may be developed and used in lieu of the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4 if such site- or project-specific social cost of carbon value is higher than the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4.
 
-      2.   If the geothermal system has the lowest net present value of all alternatives considered it shall be selected for implementation.
+	      2.   If the geothermal system has the lowest net present value of all alternatives considered it shall be selected for implementation.
 
 
 .. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=admin0-0-0-31-img$t=document-frame.htm$3.0$p=
 
 
-      3.   The social cost of carbon value shall be as follows:
+	      3.   The social cost of carbon value shall be as follows:
 
 
 .. list-table::
@@ -939,13 +939,13 @@ Chapter 1: Mayor
       - 140
     * - 2021
       - 142
+.
 
 
 
 
 
-
-4.   An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value.
+	  4.   An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value.
 
 
 
