@@ -921,23 +921,23 @@ Chapter 1: Mayor
 	
 	 
 .. list-table::
-	:header-rows: 1
+    :header-rows: 1
 
-	* - Year
-	  - Dollar value per metric ton of carbon dioxide equivalent
-	* - 2017
-	  - 128
-	* - 2018
-	  - 132
-	* - 2019
-	  - 136
-	* - 2020
-	  - 140
-	* - 2021
-	  - 142	
-	 
-	
-	      4.   An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value.
+    * - Year
+      - Dollar value per metric ton of carbon dioxide equivalent
+    * - 2017
+      - 128
+    * - 2018
+      - 132
+    * - 2019
+      - 136
+    * - 2020
+      - 140
+    * - 2021
+      - 142
+
+
+	        4.   An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value.
 	
 	   e.   By no later than six months after the end of each fiscal year, an office or agency designated by the mayor shall submit to the speaker of the council and make publicly available online a report containing the following information for each project described in subdivision c of this section that is completed during such fiscal year:
 	
