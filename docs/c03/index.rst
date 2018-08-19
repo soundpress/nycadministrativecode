@@ -1,8 +1,10 @@
 Title 4: Property of the City
 ===================================================
+
 Chapter 1: Real Estate Transactions
 --------------------------------------------------
-§ 4-101 Acquisition of certain lands; by reversion.  ::
+
+*§ 4-101 Acquisition of certain lands; by reversion. * ::
 
 
 In the event that any site or plot of ground, transferred to the United States, for the erection and maintenance of a light and fog signal at Hunt's Point Park, in the borough of the Bronx, should become unnecessary or cease to be used for such purposes, such site shall revert to the city, as if such transfer had not been made.
@@ -10,7 +12,7 @@ In the event that any site or plot of ground, transferred to the United States, 
 
 
 
-§ 4-102 Loss of certain lands; by reversion.  ::
+*§ 4-102 Loss of certain lands; by reversion. * ::
 
 
 The lands situate in the county of Westchester which were taken by the city, by virtue of the act entitled "An act to provide for supplying the city of New York with pure and wholesome water" passed May second, eighteen hundred thirty-four, shall be held and appropriated by the city for the use and purpose of introducing water into the city, and for purposes necessarily incident thereto, and for no other uses or purposes whatever. In case the city should use any of such lands situate in the county of Westchester for purposes other than in this section permitted, or in case such land should not be required for the purpose of introducing water into the city, such lands so improperly used, or not so required, shall become vested in the individual from whom such city obtained it, as full and perfectly as though such act had never been enacted, upon repaying to the city the amount originally paid for the same, after deducting from such amount the damages sustained by such individual by reason of any alteration or work which the city may have made upon such land.
@@ -18,7 +20,7 @@ The lands situate in the county of Westchester which were taken by the city, by 
 
 
 
-§ 4-104 Title to certain public beaches; limitations thereon.  ::
+*§ 4-104 Title to certain public beaches; limitations thereon. * ::
 
 
 a. Title acquired or to be acquired by the city to any uplands, filled in lands, lands under water, estates, rights, easements, interests or privileges for public beaches on the Atlantic ocean from the westernmost point of Coney Island to the westerly line of Beach Second street, in the borough of Queens, and on the lower New York bay from the southerly line of the United States reservation Fort Wadsworth to the northerly line of the United States reservation Miller Field, in the borough of Richmond, in each and every case shall be a title in fee in trust for the use of the public to pass and repass over and along such public beach and beaches in the same manner as public beaches ordinarily are used. The owners of property abutting on the inland side of any such public beach or beaches shall possess easements of light, air and access over, along and across such public beach or beaches to the Atlantic ocean and to the lower New York bay, as the case may be, and a frontage on and access to such public beaches, streets, parks, avenues, boulevards, promenades, walks and boardwalks as may be authorized and constructed within the same.
@@ -28,7 +30,7 @@ b. Where such owners have laid out and are maintaining pipes for the drawing and
 
 
 
-§ 4-105 Land in private or in closed or discontinued streets; conveyance to abutting owners or other persons.  ::
+*§ 4-105 Land in private or in closed or discontinued streets; conveyance to abutting owners or other persons. * ::
 
 
 a. Whenever the city shall have any right, title or interest in and to the land lying within a private street, however acquired, or within a street, closed or discontinued in whole or in part, the owner of land fronting thereon at the time of acquisition of such private street or at the time of such closing or discontinuance, or the owner's heirs or assigns, may acquire, such right, title and interest in and to any parcel or parcels of such land lying in front of the lands owned by such person or persons, upon payment to the commissioner of finance for the right title or interest to be acquired within such private street or within such closed or discontinued street of such consideration as shall be determined by the commissioner of citywide administrative services; provided, however, that, except as otherwise provided by law, such consideration shall be in an amount not less than the appraised value of such right, title or interest as determined by appraisal made within six months prior to the authorization of such conveyance.
@@ -44,7 +46,7 @@ e. The provisions of this section which refer to land or lands lying within a pr
 
 
 
-§ 4-106 City real property; exceptions to inalienability and to public sale of.  ::
+*§ 4-106 City real property; exceptions to inalienability and to public sale of. * ::
 
 
 Notwithstanding any provisions of law to the contrary, the board of estimate is authorized, subject to the provisions of sections one hundred ninety-seven-c and three hundred eighty-four of the charter, where applicable:
@@ -86,7 +88,7 @@ Notwithstanding any provisions of law to the contrary, the board of estimate is 
 
 
 
-§ 4-107 City real property; transfer of, to department of citywide administrative services.  ::
+*§ 4-107 City real property; transfer of, to department of citywide administrative services. * ::
 
 
 Whenever any real property of the city is unproductive, or the term for which it may have been leased or let shall have expired or be about to expire, the agency having jurisdiction over such real property shall forthwith transfer the same to the department of citywide administrative services.
@@ -94,7 +96,7 @@ Whenever any real property of the city is unproductive, or the term for which it
 
 
 
-§ 4-108 City real property; condition precedent to disposition of.  ::
+*§ 4-108 City real property; condition precedent to disposition of. * ::
 
 
 The board of estimate, before it shall dispose of any real property, shall determine that such real property is no longer required for a public use.
@@ -102,7 +104,7 @@ The board of estimate, before it shall dispose of any real property, shall deter
 
 
 
-§ 4-109 City real property; sale of.  ::
+*§ 4-109 City real property; sale of. * ::
 
 
 City real property, including buildings, fixtures and machinery therein, shall be sold in the manner prescribed in subdivision b of section three hundred eighty-four of the charter pursuant to a resolution adopted by the board of estimate, and such sale shall be under the sole supervision of such board. In case such buildings, fixtures and machinery be sold at public auction, the board of estimate may provide as a condition of such sale that such buildings, fixtures or machinery shall not in any case be relocated or re-erected within the lines of any proposed street or other public improvement, and if after such sale such buildings or parts of buildings or other structures be relocated or re-erected within the lines of any proposed street or other public improvement, title thereto shall thereupon become vested in the city and a resale at public or private sale may be made in the same manner as if no prior sale had been made of the same.
@@ -110,7 +112,7 @@ City real property, including buildings, fixtures and machinery therein, shall b
 
 
 
-§ 4-110 School lands; sale of, at auction.  ::
+*§ 4-110 School lands; sale of, at auction. * ::
 
 
 The board of estimate is authorized, upon the application of the board of education duly authorized and certified, to sell at public auction at such times and on such terms as they may deem most advantageous for the public interest, any land or lands and the buildings thereon, owned by the city, occupied or reserved for school purposes, and no longer required therefor. No property, however, shall be disposed of for a less sum than the same may be appraised by the board of estimate, or a majority of them, at a meeting to be held and on an appraisement made within two months prior to the date of the sale. At least thirty days notice of such sale, including a description of the property to be sold, shall be published in the City Record.
@@ -118,7 +120,7 @@ The board of estimate is authorized, upon the application of the board of educat
 
 
 
-§ 4-111 Market property; sale of.  ::
+*§ 4-111 Market property; sale of. * ::
 
 
 If the real property sold by the board of estimate be market property it shall be sold only pursuant to a resolution adopted by a three-fourths vote thereof.
@@ -126,7 +128,7 @@ If the real property sold by the board of estimate be market property it shall b
 
 
 
-§ 4-112 Deeds; execution of, by city.  ::
+*§ 4-112 Deeds; execution of, by city. * ::
 
 
 Whenever the sale of any real property of the city shall have been authorized pursuant to this charter or other applicable law, the mayor or the commissioner of citywide administrative services and the city clerk, or for a sale of real property of the city that is under the jurisdiction of the department of housing preservation and development, the mayor or the commissioner of the department of housing preservation and development and the city clerk, shall execute proper conveyances of such real property signed by them and bearing the seal of the city. A conveyance of such real property shall not be delivered to the grantee until the proceeds of such sale have been received by the city.
@@ -134,7 +136,7 @@ Whenever the sale of any real property of the city shall have been authorized pu
 
 
 
-§ 4-113 Power to exchange lands no longer used for public purpose.  ::
+*§ 4-113 Power to exchange lands no longer used for public purpose. * ::
 
 
 The board of estimate is authorized by a three-fourths vote upon the application of any agency of the city to whose use any lands of the city have been assigned and upon the determination of such board that such real property of the city as shall be specified in such application is no longer needed for departmental or public purposes, to convey any such land, with or without the improvements thereon, and, in exchange therefor, the mayor is authorized to acquire other land of equal or greater value of private owners lying within the same borough; provided that the mayor shall determine that such lands of private owners are needed for a public purpose. To determine the value of the land of the city, and of the land to be exchanged therefor, the board shall have such property of the city and the mayor shall have the property of the owners duly appraised by three discreet and disinterested appraisers to be appointed by such board and the mayor. The appraisers shall be residents of the borough in which such lands are situated, and such appraisal shall be made within three months prior to the date of such exchange. The corporation counsel, as directed by a resolution duly adopted and certified by the board and by order of the mayor, shall approve the form of all legal instruments necessary on the part of the city to effect such exchange in law, and the board and the mayor shall designate and authorize the proper officer to execute and deliver any and all legal instruments necessary to effectuate such exchange. The land so acquired by the exchange shall be assigned to the agency requiring the use of the same upon proper appplication therefor.
@@ -142,7 +144,7 @@ The board of estimate is authorized by a three-fourths vote upon the application
 
 
 
-§ 4-114 Boundary disputes; power to settle.  ::
+*§ 4-114 Boundary disputes; power to settle. * ::
 
 
 The board of estimate shall have power, by three-fourths vote, to settle and adjust by mutual conveyances or otherwise, and upon such terms and conditions as may seem to them proper, disputes existing between the city and private owners of real property, in respect to boundary lines, and to release such interest of the city in real property as the corporation counsel shall certify in writing to be mere clouds upon titles of private owners, in such manner and upon such terms and conditions as in its judgment shall seem proper.
@@ -150,7 +152,7 @@ The board of estimate shall have power, by three-fourths vote, to settle and adj
 
 
 
-§ 4-115 Demolition or removal of buildings.  ::
+*§ 4-115 Demolition or removal of buildings. * ::
 
 
 a. The board of estimate shall have discretion to direct the demolition or removal of all buildings or other structures owned by the city and not needed for any public purpose.
@@ -160,7 +162,7 @@ b. Upon the failure of the board of estimate to receive any bids for the demolit
 
 
 
-§ 4-116 Discrimination in housing.  ::
+*§ 4-116 Discrimination in housing. * ::
 
 
 Every deed, lease or instrument made or entered into by the city, or any agency thereof, for the conveyance, lease or disposal of real property or any interest therein for the purpose of housing construction pursuant to the provisions of article fifteen of the general municipal law and laws supplemental thereto and amendatory thereof shall provide that no person seeking dwelling accommodations in any structure erected or to be erected on such real property shall be discriminated against because of race, color, religion, national origin or ancestry.
@@ -168,7 +170,7 @@ Every deed, lease or instrument made or entered into by the city, or any agency 
 
 
 
-§ 4-117 Title to former town burial grounds; care, maintenance and operation; appropriation for care and maintenance; transfer of funds.  ::
+*§ 4-117 Title to former town burial grounds; care, maintenance and operation; appropriation for care and maintenance; transfer of funds. * ::
 
 
 a. Title to former town burial grounds. Title to any burial ground which formerly was the public property of any town, village or city, consolidated into and now a part of the city of New York, is hereby declared to vest in the city of New York.
@@ -184,7 +186,7 @@ e. All funds and property held by any trustee of such burial grounds, other than
 
 
 
-§ 4-118 Investment of trust funds for perpetual care and maintenance in cemeteries.  ::
+*§ 4-118 Investment of trust funds for perpetual care and maintenance in cemeteries. * ::
 
 
 In investing and reinvesting trust funds held by him or her pursuant to section 4-117 or otherwise for the perpetual care and maintenance of any lot, plot or part thereof in a cemetery or burial ground maintained and operated by the city of New York, and under the jurisdiction of the borough president of the respective borough in which such cemetery or burial ground exists, the comptroller may add moneys and property received by him or her, whether by contract, in trust or otherwise, to any similar trust fund or funds, and apportion shares or interests to each trust fund, showing upon his or her records at all times every share or interest, or he or she may combine two or more trust funds or portions of the same.
@@ -192,7 +194,7 @@ In investing and reinvesting trust funds held by him or her pursuant to section 
 
 
 
-§ 4-119 Acquisition of certain cemetery lands in the borough of the Bronx.  ::
+*§ 4-119 Acquisition of certain cemetery lands in the borough of the Bronx. * ::
 
 
 a. The city may acquire by gift, and maintain and continue to operate as a cemetery principally for the burial of members of the armed forces of the United States, the following described premises: All that piece or parcel of cemetery land situate in the borough of Bronx, city and state of New York, bounded and described as follows: Beginning at the corner formed by the intersection of the northerly side of East one hundred eightieth street, and the westerly side of Bryant avenue; running thence northerly along the said westerly side of Bryant avenue; one hundred ninety and eighty-seven one-hundredths (190.87) feet; thence westerly, parallel with the northerly side of East one hundred eightieth street, one hundred fifty-six and ninety-seven one-hundredths (156.97) feet; thence southerly, parallel with the westerly side of Bryant avenue, one hundred eighty-eight and nine one-hundredths (188.09) feet to the northerly side of East one hundred eightieth street; and running thence easterly, along the northerly side of East one hundred eightieth street, one hundred fifty-five and fifty-six one-hundredths (155.56) feet to the point or place of beginning. Be the said several distances and dimensions more or less.
@@ -204,7 +206,7 @@ c. There shall be appropriated by the city funds to provide for the proper care,
 
 
 
-§ 4-120 Minority and women-owned business enterprises. ::
+*§ 4-120 Minority and women-owned business enterprises.* ::
 
 
 Notwithstanding any provision of state or local law to the contrary, any agency of the city making a loan or disposing of property pursuant to the private housing finance law, or article fifteen or sixteen of the general municipal law may implement such measures as are appropriate and consistent with the equal protection clause to facilitate and encourage meaningful participation by minority or women-owned business enterprises.
@@ -214,7 +216,8 @@ Notwithstanding any provision of state or local law to the contrary, any agency 
 
 Chapter 2: Real Property Management
 --------------------------------------------------
-§ 4-201 Commissioner of citywide administrative services, functions.  ::
+
+*§ 4-201 Commissioner of citywide administrative services, functions. * ::
 
 
 a. The commissioner of citywide administrative services under the direction of the mayor may, in his or her discretion, require any person offering to sell to the city real property located within the city, or any agent of such person, or any officer or agent of a corporation offering to sell such real property to the city, to be sworn before the commissioner or a person deputized by the commissioner, and to answer orally as to the persons interested in the real property, the price paid by the owner therefor, the interest of any other person, as broker, agent or other intermediary, in effecting the proposed sale to the city, and as to any other facts and circumstances affecting the propriety of the purchase of such property by the city, and the fair market value thereof. Any other person having knowledge of any relevant and material fact or circumstance affecting the propriety of the proposed purchase by the city or the fair market value of the real property to be acquired, may likewise be examined under oath. Willful false swearing before the commissioner or a person deputized by the commissioner is perjury and punishable as such, and in a prosecution for perjury, it shall be no defense that such false swearing did not aid in effecting a sale of such property to the city, or in fixing the price paid therefor.
@@ -244,7 +247,7 @@ b. The commissioner, under the direction of the board of estimate, shall:
 
 
 
-§ 4-202 Collection of rents.  ::
+*§ 4-202 Collection of rents. * ::
 
 
 The commissioner of citywide administrative services shall collect all rents, charges and any other sums payable or due to the city from any tenant, occupant or other person, under any lease, rental agreement, permit, license or otherwise, for occupancy, use and occupation or other use of real property of the city or any portion of such property, which the commissioner is under the duty to manage and superintend. It shall be the duty of the commissioner to collect rental or other charges for temporary occupancy, use and occupation or other use of property acquired by the city for public purposes between the time of the acquisition thereof and the time when the same can be actually utilized for the purpose for which it was acquired, and for occupancy, use and occupation or other use of all property which, having been originally acquired for public purposes, has ceased to be used for such purposes. All such rents, charges and other sums collected by the commisssioner as provided in this section shall be paid by the commissioner daily to the commissioner of finance and a public record thereof shall be kept in the commissioner's office.
@@ -252,7 +255,7 @@ The commissioner of citywide administrative services shall collect all rents, ch
 
 
 
-§ 4-203 Leasing or renting of real property by commissioner of citywide administrative services.  ::
+*§ 4-203 Leasing or renting of real property by commissioner of citywide administrative services. * ::
 
 
 a. Under the conditions and subject to the restrictions hereinafter set forth in this section, the commissioner shall have power, without the concurrence of any other officer or agency, to lease or rent in behalf of the city to any person, or to grant to any person in behalf of the city, a permit or license or other authorization for the use of, any real property of the city or portion thereof which the commissioner is authorized to manage and super- intend.
@@ -268,7 +271,7 @@ e. In any case where the board of estimate and Triborough bridge and tunnel auth
 
 
 
-§ 4-204 Demolition of buildings and structures.  ::
+*§ 4-204 Demolition of buildings and structures. * ::
 
 
 a. The commissioner of citywide administrative services or the commissioner of housing preservation and development, when requested to do so by the mayor, may cause to be demolished any buildings or structures located on any real property which the commissioner is authorized to manage and superintend.
@@ -280,7 +283,7 @@ c. The commissioner may effect any demolition work mentioned in subdivision a or
 
 
 
-§ 4-205 Supervision of management activities of developers.  ::
+*§ 4-205 Supervision of management activities of developers. * ::
 
 
 The commissioner of citywide administrative services or, when designated by the mayor, the commissioner of design and construction, shall supervise the management activities of any party to a contract with the city which requires such party to develop any real property in accordance with the terms of such contract, in any case where such contract provides that the commissioner shall exercise such supervision.
@@ -288,7 +291,7 @@ The commissioner of citywide administrative services or, when designated by the 
 
 
 
-§ 4-206 Displaying a POW/MIA flag over public property.  ::
+*§ 4-206 Displaying a POW/MIA flag over public property. * ::
 
 
 Until such time as all persons listed as missing in action from any branch of the United States Armed Forces, and all persons from any branch of our armed forces who are prisoners of war, are accounted for by the United States government, the commissioner of citywide administrative services shall assure that the Prisoner of War/Missing in Action (POW/MIA) flag is flown:
@@ -300,7 +303,7 @@ Until such time as all persons listed as missing in action from any branch of th
 
 
 
-§ 4-207 Assessment of certain clean on-site power generation technologies.  ::
+*§ 4-207 Assessment of certain clean on-site power generation technologies. * ::
 
 
 a. By January 1, 2008, the department of citywide administrative services shall conduct an assessment of all facilities owned by the city with a five hundred kilowatt or greater peak demand to determine whether cogeneration and natural gas-based distributed generation projects are appropriate for such facilities. For purposes of this section, "cogeneration and natural gas-based distributed generation projects" shall only include those projects where such electric generation would be connected to the distribution level of the grid, would be located at or near the intended place of use and would produce fewer emissions of carbon dioxide and particulate matter per unit of useful energy output than a new combined-cycle natural-gas fired central power plant. Such assessment shall include, but not be limited to, the technical, physical and/or economic feasibility of installing such electric generation.
@@ -312,7 +315,7 @@ c. A report on the assessment and updates required to be completed pursuant to s
 
 
 
-§ 4-207.1 Photovoltaic systems for city-owned buildings. ::
+*§ 4-207.1 Photovoltaic systems for city-owned buildings.* ::
 
 
 a. As used in this section:
@@ -372,7 +375,7 @@ b. By December 31, 2016, and by September 1 of every second year thereafter, the
 
 
 
-§ 4-207.2 Monitoring electricity and fossil fuel usage in certain facilities. ::
+*§ 4-207.2 Monitoring electricity and fossil fuel usage in certain facilities.* ::
 
 
 a. For the purposes of this section:
@@ -420,7 +423,7 @@ d. Following installation of electricity usage telemetry equipment by the depart
 
 
 
-§ 4-208 List of City-Owned and Operated Real Property.  ::
+*§ 4-208 List of City-Owned and Operated Real Property. * ::
 
 
 a. The department of citywide administrative services shall keep and maintain a complete list of the location and current use of all real property owned or leased by the city. For each parcel of property, such list shall include, but need not be limited to, the following information to the extent such information is available:
@@ -562,7 +565,7 @@ c. Such list shall be made available to the public at no charge on a website mai
 
 
 
-§ 4-209 Automated external defibrillators at youth baseball games and practices on city land leased to youth leagues.  ::
+*§ 4-209 Automated external defibrillators at youth baseball games and practices on city land leased to youth leagues. * ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -602,7 +605,7 @@ j. The commissioner of the department shall promulgate any rules as may be neces
 
 
 
-§ 4-210 Access to city property. ::
+*§ 4-210 Access to city property.* ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -640,7 +643,7 @@ f. Training. All new or renewed city contracts for security services on city pro
 
 
 
-§ 4-211 Green energy in city-owned buildings. ::
+*§ 4-211 Green energy in city-owned buildings.* ::
 
 
 a. As used in this section:
