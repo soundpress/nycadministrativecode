@@ -942,13 +942,13 @@ Chapter 1: Mayor
       - 140
     * - 2021
       - 142
-.
 
 
 
 
 
-	  4.   An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value.
+
+  4.   An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value.
 
 
 
