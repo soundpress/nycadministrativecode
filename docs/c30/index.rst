@@ -7242,7 +7242,7 @@ Exception:The first due dates for city buildings shall be in accordance with a s
 § 28-308.7.2 Early compliance retro-commissioning.  ::
 
 
-	   a.   Retro-commissioning shall be acceptable for early compliance if it is completed after the effective date of this article and meets the following criteria:
+	a.   Retro-commissioning shall be acceptable for early compliance if it is completed after the effective date of this article and meets the following criteria:
 
       1.   The retro-commissioning shall be performed under a NYSERDA contract for base building retro-commissioning or certified by an individual who is not on the staff of the building and is (i) a registered design professional, (ii) a certified Refrigerating System Operating Engineer, or (iii) a licensed High Pressure Boiler Operating Engineer;
 
@@ -8566,7 +8566,7 @@ TOTAL BOOM. A boom including jibs and other extensions.
 § 28-401.19.2 Resolution of proceedings.  ::
 
 
-	   1.   Surrender of plate or seal. Upon surrender, suspension or revocation of a license for which the department has also issued a plate or seal, the license and such plate and/or seal shall be immediately surrendered to the department.
+	1.   Surrender of plate or seal. Upon surrender, suspension or revocation of a license for which the department has also issued a plate or seal, the license and such plate and/or seal shall be immediately surrendered to the department.
 
    2.   Posting of resolution of proceedings. The names of all licensees whose licenses were suspended or revoked or upon whom penalties have been imposed after a department determination following an office of administrative trials and hearings (OATH), or its successor agency, as applicable, report and recommendation shall be posted on the department's website. The department shall post the names of licensees who have entered into stipulations with the department unless the stipulation agreed to by the parties provides otherwise.
 

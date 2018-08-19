@@ -13,7 +13,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-102 City seal.  ::
 
 
-	   a.   Description. The following is hereby adopted as the device of the corporate seal of the city of New York, to-wit:
+	a.   Description. The following is hereby adopted as the device of the corporate seal of the city of New York, to-wit:
 
       1.   Arms: Upon a shield, saltire wise, the sails of a windmill. Between the sails, in chief a beaver, in base a beaver, and on each flank a flour barrel.
 
@@ -50,7 +50,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-103 Official city flag.  ::
 
 
-	   a.   The following design is hereby adopted as the design of the official flag of the city:
+	a.   The following design is hereby adopted as the design of the official flag of the city:
 
       1.   A flag combining the colors orange, white and blue arranged in perpendicular bars of equal dimensions (the blue being nearest to the flagstaff) with the standard design of the seal of the city in blue upon the middle, or white bar, omitting the legend "Sigillum Civitatis Novi Eboraci," which colors shall be the same as those of the flag of the United Netherlands in use in the year sixteen hundred twenty-five.
 
@@ -64,7 +64,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-104 Official flag—borough of the Bronx.  ::
 
 
-	   a.   The following design is hereby adopted as the design of the official flag of the borough of the Bronx.
+	a.   The following design is hereby adopted as the design of the official flag of the borough of the Bronx.
 
       1.   The colors orange, white, and blue as appears on the official city flag, arranged in horizontal bars of equal dimension, the orange being above the white and the blue below, with the following design in the center, encircled within a laurel wreath greater in diameter than the width of the white stripe: Crest: Upon a hemisphere, an American eagle with wings displayed. Shield: The sun with shining rays, rising from the sea. Legend: Upon a ribbon beneath the words "Ne Cede Malis".
 
@@ -76,7 +76,7 @@ Chapter 1: Powers and Rights of the Corporation; Emblems And Insignia
 § 2-105 Official flag; borough of Brooklyn.  ::
 
 
-	   a.   The following description is hereby adopted as the description of the official flag of the borough of Brooklyn. A white background in the center of which is the design of the seal. Within the seal appears a figure of the goddess of justice in gold holding Roman fasces in her left hand set on a background of light blue. Encircling her figure on a background of dark blue appear the words "Een Draght Mackt Maght" the old Dutch motto for "In unity there is strength" and below the words "borough of Brooklyn." The outside and inside trim of the seal is gold.
+	a.   The following description is hereby adopted as the description of the official flag of the borough of Brooklyn. A white background in the center of which is the design of the seal. Within the seal appears a figure of the goddess of justice in gold holding Roman fasces in her left hand set on a background of light blue. Encircling her figure on a background of dark blue appear the words "Een Draght Mackt Maght" the old Dutch motto for "In unity there is strength" and below the words "borough of Brooklyn." The outside and inside trim of the seal is gold.
 
    b.   This flag may be displayed at reviews, parades, receptions and other civic functions.
 

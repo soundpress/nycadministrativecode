@@ -15,7 +15,7 @@ Chapter 2: Division of Paid Care
 § 32-201 Definitions. ::
 
 
-	   For the purposes of this chapter, the following terms have the following meanings:
+	For the purposes of this chapter, the following terms have the following meanings:
 
    Advocate. The term "advocate" means the advocate of the division who reports to the division head.
 
@@ -45,7 +45,7 @@ Chapter 2: Division of Paid Care
 § 32-202 Division; powers and duties. ::
 
 
-	   a.   The division shall assist the director in developing policies and programs that apply to paid care workers.
+	a.   The division shall assist the director in developing policies and programs that apply to paid care workers.
 
    b.   The division shall conduct and promote public information and outreach campaigns, and in performing such activities the division shall seek to coordinate with appropriate stakeholders, such as other government agencies, worker advocacy groups, community and labor and employment organizations, paid care workers, employers and care recipients, to inform paid care workers, employers and care recipients about:
 
@@ -97,7 +97,7 @@ Chapter 2: Division of Paid Care
 § 32-203 Advocate; powers and duties. ::
 
 
-	   a.   The advocate and division staff shall engage with the paid care industry to address workforce concerns, including by:
+	a.   The advocate and division staff shall engage with the paid care industry to address workforce concerns, including by:
 
       1.   Developing a system to assist paid care workers to obtain information about their rights under federal, state and local labor and employment laws and about the appropriate federal, state and city agencies and officials, community organizations and legal services organizations that provide assistance with respect to potential violations of labor and employment laws;
 
@@ -127,7 +127,7 @@ Chapter 2: Division of Paid Care
 § 32-204 Website and reporting. ::
 
 
-	   The division shall post on the division's website and submit to the speaker of the council, beginning no later than one year after the effective date of this law and annually thereafter, the following information for the preceding calendar year:
+	The division shall post on the division's website and submit to the speaker of the council, beginning no later than one year after the effective date of this law and annually thereafter, the following information for the preceding calendar year:
 
    a.   The results of the research conducted as required by subdivision c of section 32-202;
 

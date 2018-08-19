@@ -21,7 +21,7 @@ Chapter 1: Real Estate Transactions
 § 4-104 Title to certain public beaches; limitations thereon.  ::
 
 
-	   a.   Title acquired or to be acquired by the city to any uplands, filled in lands, lands under water, estates, rights, easements, interests or privileges for public beaches on the Atlantic ocean from the westernmost point of Coney Island to the westerly line of Beach Second street, in the borough of Queens, and on the lower New York bay from the southerly line of the United States reservation Fort Wadsworth to the northerly line of the United States reservation Miller Field, in the borough of Richmond, in each and every case shall be a title in fee in trust for the use of the public to pass and repass over and along such public beach and beaches in the same manner as public beaches ordinarily are used. The owners of property abutting on the inland side of any such public beach or beaches shall possess easements of light, air and access over, along and across such public beach or beaches to the Atlantic ocean and to the lower New York bay, as the case may be, and a frontage on and access to such public beaches, streets, parks, avenues, boulevards, promenades, walks and boardwalks as may be authorized and constructed within the same.
+	a.   Title acquired or to be acquired by the city to any uplands, filled in lands, lands under water, estates, rights, easements, interests or privileges for public beaches on the Atlantic ocean from the westernmost point of Coney Island to the westerly line of Beach Second street, in the borough of Queens, and on the lower New York bay from the southerly line of the United States reservation Fort Wadsworth to the northerly line of the United States reservation Miller Field, in the borough of Richmond, in each and every case shall be a title in fee in trust for the use of the public to pass and repass over and along such public beach and beaches in the same manner as public beaches ordinarily are used. The owners of property abutting on the inland side of any such public beach or beaches shall possess easements of light, air and access over, along and across such public beach or beaches to the Atlantic ocean and to the lower New York bay, as the case may be, and a frontage on and access to such public beaches, streets, parks, avenues, boulevards, promenades, walks and boardwalks as may be authorized and constructed within the same.
 
    b.   Where such owners have laid out and are maintaining pipes for the drawing and discharging of sea water under the soil to be acquired for a public beach, they shall have the right to maintain such pipes under the soil of such public beach or beaches for the purpose only of drawing and discharging sea water, the maintenance of such pipes to be under the supervision of the commissioner of parks and recreation. Where owners have not laid and are not maintaining pipes under such soil for drawing and discharging of sea water, the board of estimate, under such terms and conditions as to it shall seem proper, may grant to such owners the right to lay and maintain pipes for the drawing and discharging of sea water only under the soil of such public beach or beaches.
 
@@ -31,7 +31,7 @@ Chapter 1: Real Estate Transactions
 § 4-105 Land in private or in closed or discontinued streets; conveyance to abutting owners or other persons.  ::
 
 
-	   a.   Whenever the city shall have any right, title or interest in and to the land lying within a private street, however acquired, or within a street, closed or discontinued in whole or in part, the owner of land fronting thereon at the time of acquisition of such private street or at the time of such closing or discontinuance, or the owner's heirs or assigns, may acquire, such right, title and interest in and to any parcel or parcels of such land lying in front of the lands owned by such person or persons, upon payment to the commissioner of finance for the right title or interest to be acquired within such private street or within such closed or discontinued street of such consideration as shall be determined by the commissioner of citywide administrative services; provided, however, that, except as otherwise provided by law, such consideration shall be in an amount not less than the appraised value of such right, title or interest as determined by appraisal made within six months prior to the authorization of such conveyance.
+	a.   Whenever the city shall have any right, title or interest in and to the land lying within a private street, however acquired, or within a street, closed or discontinued in whole or in part, the owner of land fronting thereon at the time of acquisition of such private street or at the time of such closing or discontinuance, or the owner's heirs or assigns, may acquire, such right, title and interest in and to any parcel or parcels of such land lying in front of the lands owned by such person or persons, upon payment to the commissioner of finance for the right title or interest to be acquired within such private street or within such closed or discontinued street of such consideration as shall be determined by the commissioner of citywide administrative services; provided, however, that, except as otherwise provided by law, such consideration shall be in an amount not less than the appraised value of such right, title or interest as determined by appraisal made within six months prior to the authorization of such conveyance.
 
    b.   Such owner or owners or owner's heirs or assigns or the department of citywide administrative services on behalf of such owner or owners or owner's heirs or assigns shall apply, in writing, to the department of city planning for such conveyance either simultaneously with an application for the closing or discontinuance of a street or not later than two years after the acquisition of such private street or not later than two years after the closing or discontinuance of such closed or discontinued street. The department of city planning shall process such application pursuant to sections one hundred ninety-seven-c and one hundred ninety-seven-d of the charter. The department of city planning shall notify or cause to be notified all other owners eligible to purchase such right, title or interest pursuant to the provisions of this section of the filing of such application prior to certifying that such application is complete. Such notice shall be served by registered or certified mail addressed to the last known address of such owner or owners, as the same appears in the records of the office of the commissioner of finance or if there is no name in such records, such notice may be served by ordinary mail addressed to "Owner" at the street address of the improvement parcel or property in question. Failure by the department to give such notice or cause such notice to be given shall not invalidate any proceedings with respect to such application. If the conveyance is approved by the mayor and in the manner prescribed by any applicable provisions of sections one hundred ninety-seven-c and one hundred ninety-seven-d of the charter, the mayor shall cause to be prepared and delivered to such owner or owners or owner's heirs or assigns a conveyance of the right, title and interest of the city in and to such parcel or parcels of land in such form as shall be approved by the corporation counsel. Such conveyance shall be delivered to such owner or owners or owner's heirs or assigns upon payment of the sum required by subdivision a hereof to be paid.
 
@@ -153,7 +153,7 @@ Chapter 1: Real Estate Transactions
 § 4-115 Demolition or removal of buildings.  ::
 
 
-	   a.   The board of estimate shall have discretion to direct the demolition or removal of all buildings or other structures owned by the city and not needed for any public purpose.
+	a.   The board of estimate shall have discretion to direct the demolition or removal of all buildings or other structures owned by the city and not needed for any public purpose.
 
    b.   Upon the failure of the board of estimate to receive any bids for the demolition or removal of buildings or other structures on land acquired by the city for a public improvement, the agency under whose jurisdiction such public improvement is to be made may provide for suchdemolition or removal in the contract or contracts relating to such improvement.
 
@@ -171,7 +171,7 @@ Chapter 1: Real Estate Transactions
 § 4-117 Title to former town burial grounds; care, maintenance and operation; appropriation for care and maintenance; transfer of funds.  ::
 
 
-	   a.   Title to former town burial grounds. Title to any burial ground which formerly was the public property of any town, village or city, consolidated into and now a part of the city of New York, is hereby declared to vest in the city of New York.
+	a.   Title to former town burial grounds. Title to any burial ground which formerly was the public property of any town, village or city, consolidated into and now a part of the city of New York, is hereby declared to vest in the city of New York.
 
    b.   Care and maintenance of said burial grounds. The agency designated by executive order of the mayor shall be charged with the care, maintenance and operation of said burial grounds.
 
@@ -195,7 +195,7 @@ Chapter 1: Real Estate Transactions
 § 4-119 Acquisition of certain cemetery lands in the borough of the Bronx.  ::
 
 
-	   a.   The city may acquire by gift, and maintain and continue to operate as a cemetery principally for the burial of members of the armed forces of the United States, the following described premises: All that piece or parcel of cemetery land situate in the borough of Bronx, city and state of New York, bounded and described as follows: Beginning at the corner formed by the intersection of the northerly side of East one hundred eightieth street, and the westerly side of Bryant avenue; running thence northerly along the said westerly side of Bryant avenue; one hundred ninety and eighty-seven one-hundredths (190.87) feet; thence westerly, parallel with the northerly side of East one hundred eightieth street, one hundred fifty-six and ninety-seven one-hundredths (156.97) feet; thence southerly, parallel with the westerly side of Bryant avenue, one hundred eighty-eight and nine one-hundredths (188.09) feet to the northerly side of East one hundred eightieth street; and running thence easterly, along the northerly side of East one hundred eightieth street, one hundred fifty-five and fifty-six one-hundredths (155.56) feet to the point or place of beginning. Be the said several distances and dimensions more or less.
+	a.   The city may acquire by gift, and maintain and continue to operate as a cemetery principally for the burial of members of the armed forces of the United States, the following described premises: All that piece or parcel of cemetery land situate in the borough of Bronx, city and state of New York, bounded and described as follows: Beginning at the corner formed by the intersection of the northerly side of East one hundred eightieth street, and the westerly side of Bryant avenue; running thence northerly along the said westerly side of Bryant avenue; one hundred ninety and eighty-seven one-hundredths (190.87) feet; thence westerly, parallel with the northerly side of East one hundred eightieth street, one hundred fifty-six and ninety-seven one-hundredths (156.97) feet; thence southerly, parallel with the westerly side of Bryant avenue, one hundred eighty-eight and nine one-hundredths (188.09) feet to the northerly side of East one hundred eightieth street; and running thence easterly, along the northerly side of East one hundred eightieth street, one hundred fifty-five and fifty-six one-hundredths (155.56) feet to the point or place of beginning. Be the said several distances and dimensions more or less.
 
    b.   The head of the agency designated by executive order of the mayor shall be charged with the care, maintenance and operation of said burial ground, and shall promulgate such regulations as he or she deems necessary and proper in relation thereto. The head of the agency designated by the mayor shall prescribe in such regulations interment fees and charges for the care of graves and other services customarily rendered in cemeteries. Notwithstanding any other provision of law, the agency so designated shall prescribe in such regulations, a schedule of prices as recommended by the commissioner of citywide administrative services for the sale of lots in the cemetery, and the commissioner of citywide administrative services shall be authorized to sell such lots for such prices without further approval of any other official. Instruments evidencing the ownership of any purchaser of such lot shall be executed by the commissioner of citywide administrative services and approved as to form by the corporation counsel. All fees, charges and other moneys received by such agency in connection with the care, maintenance and operation of the cemetery and all sums paid to the commissioner of citywide administrative services for lots shall be paid to the comptroller and deposited in and credited to the general fund.
 
@@ -217,7 +217,7 @@ Chapter 2: Real Property Management
 § 4-201 Commissioner of citywide administrative services, functions.  ::
 
 
-	   a.   The commissioner of citywide administrative services under the direction of the mayor may, in his or her discretion, require any person offering to sell to the city real property located within the city, or any agent of such person, or any officer or agent of a corporation offering to sell such real property to the city, to be sworn before the commissioner or a person deputized by the commissioner, and to answer orally as to the persons interested in the real property, the price paid by the owner therefor, the interest of any other person, as broker, agent or other intermediary, in effecting the proposed sale to the city, and as to any other facts and circumstances affecting the propriety of the purchase of such property by the city, and the fair market value thereof. Any other person having knowledge of any relevant and material fact or circumstance affecting the propriety of the proposed purchase by the city or the fair market value of the real property to be acquired, may likewise be examined under oath. Willful false swearing before the commissioner or a person deputized by the commissioner is perjury and punishable as such, and in a prosecution for perjury, it shall be no defense that such false swearing did not aid in effecting a sale of such property to the city, or in fixing the price paid therefor.
+	a.   The commissioner of citywide administrative services under the direction of the mayor may, in his or her discretion, require any person offering to sell to the city real property located within the city, or any agent of such person, or any officer or agent of a corporation offering to sell such real property to the city, to be sworn before the commissioner or a person deputized by the commissioner, and to answer orally as to the persons interested in the real property, the price paid by the owner therefor, the interest of any other person, as broker, agent or other intermediary, in effecting the proposed sale to the city, and as to any other facts and circumstances affecting the propriety of the purchase of such property by the city, and the fair market value thereof. Any other person having knowledge of any relevant and material fact or circumstance affecting the propriety of the proposed purchase by the city or the fair market value of the real property to be acquired, may likewise be examined under oath. Willful false swearing before the commissioner or a person deputized by the commissioner is perjury and punishable as such, and in a prosecution for perjury, it shall be no defense that such false swearing did not aid in effecting a sale of such property to the city, or in fixing the price paid therefor.
 
    b.   The commissioner, under the direction of the board of estimate, shall:
 
@@ -255,7 +255,7 @@ Chapter 2: Real Property Management
 § 4-203 Leasing or renting of real property by commissioner of citywide administrative services.  ::
 
 
-	   a.   Under the conditions and subject to the restrictions hereinafter set forth in this section, the commissioner shall have power, without the concurrence of any other officer or agency, to lease or rent in behalf of the city to any person, or to grant to any person in behalf of the city, a permit or license or other authorization for the use of, any real property of the city or portion thereof which the commissioner is authorized to manage and super- intend.
+	a.   Under the conditions and subject to the restrictions hereinafter set forth in this section, the commissioner shall have power, without the concurrence of any other officer or agency, to lease or rent in behalf of the city to any person, or to grant to any person in behalf of the city, a permit or license or other authorization for the use of, any real property of the city or portion thereof which the commissioner is authorized to manage and super- intend.
 
    b.   The commissioner may lease or rent, or grant any such permit, license or authorization with respect to any such property or portion thereof, for such rental or other charge and upon such terms and conditions as the commissioner may determine, in any case where the terms of such lease, rental agreement, permit, license or other authorization is less than one year except that where such property or portion thereof has previously been leased, rented, the subject of such a permit, license or other authorization, the term of such lease, rental agreement, permit, license or other authorization may be for a term of up to five years, and the rental or other charge fixed by the commissioner therein does not exceed five thousand dollars per month or any equivalent of such rental or charge. Before the commissioner shall enter into any such lease or rental agreement or issue any such permit, license or other authorization, there shall be filed in the department and with the board of estimate a written certification signed by two officers or employees of the department having the rank of senior real estate manager or an equivalent or higher rank, stating that the rental or other charge fixed therein is fair and reasonable.
 
@@ -271,7 +271,7 @@ Chapter 2: Real Property Management
 § 4-204 Demolition of buildings and structures.  ::
 
 
-	   a.   The commissioner of citywide administrative services or the commissioner of housing preservation and development, when requested to do so by the mayor, may cause to be demolished any buildings or structures located on any real property which the commissioner is authorized to manage and superintend.
+	a.   The commissioner of citywide administrative services or the commissioner of housing preservation and development, when requested to do so by the mayor, may cause to be demolished any buildings or structures located on any real property which the commissioner is authorized to manage and superintend.
 
    b.   Whenever a borough superintendent of the department of buildings requests, pursuant to the provisions of section 26-240 of the code, that the commissioner demolish any building or structure or part thereof as to which a precept has been issued pursuant to the provisions of section 26-239 of the code, the commissioner shall cause same to be demolished in accordance with such request.
 
@@ -303,7 +303,7 @@ Chapter 2: Real Property Management
 § 4-207 Assessment of certain clean on-site power generation technologies.  ::
 
 
-	   a.   By January 1, 2008, the department of citywide administrative services shall conduct an assessment of all facilities owned by the city with a five hundred kilowatt or greater peak demand to determine whether cogeneration and natural gas-based distributed generation projects are appropriate for such facilities. For purposes of this section, "cogeneration and natural gas-based distributed generation projects" shall only include those projects where such electric generation would be connected to the distribution level of the grid, would be located at or near the intended place of use and would produce fewer emissions of carbon dioxide and particulate matter per unit of useful energy output than a new combined-cycle natural-gas fired central power plant. Such assessment shall include, but not be limited to, the technical, physical and/or economic feasibility of installing such electric generation.
+	a.   By January 1, 2008, the department of citywide administrative services shall conduct an assessment of all facilities owned by the city with a five hundred kilowatt or greater peak demand to determine whether cogeneration and natural gas-based distributed generation projects are appropriate for such facilities. For purposes of this section, "cogeneration and natural gas-based distributed generation projects" shall only include those projects where such electric generation would be connected to the distribution level of the grid, would be located at or near the intended place of use and would produce fewer emissions of carbon dioxide and particulate matter per unit of useful energy output than a new combined-cycle natural-gas fired central power plant. Such assessment shall include, but not be limited to, the technical, physical and/or economic feasibility of installing such electric generation.
 
    b.   The assessment required to be completed pursuant to subdivision a of this section shall be reviewed by the department of citywide administrative services at a minimum of every five years and shall be updated, as appropriate, to reflect newly acquired facilities and changes in existing facilities that may alter the conclusions made in such assessment, as it may have been revised, as well as developments in the electric generation technologies specified in subdivision a of this section that affect the emissions of carbon dioxide or particulate matter resulting from the use of such technologies or affect prior technical, physical or economic feasibility assessments, including the availability of funding or financing sources.
 
@@ -315,7 +315,7 @@ Chapter 2: Real Property Management
 § 4-207.1 Photovoltaic systems for city-owned buildings. ::
 
 
-	   a.   As used in this section:
+	a.   As used in this section:
 
       City building. The term "city building" shall have the meaning ascribed to such term in section 28-309.2 of the code.
 
@@ -375,7 +375,7 @@ Chapter 2: Real Property Management
 § 4-207.2 Monitoring electricity and fossil fuel usage in certain facilities. ::
 
 
-	   a.   For the purposes of this section:
+	a.   For the purposes of this section:
 
       Covered facility. The term “covered facility” means a facility for which the city is responsible for the payment of electricity utility bills and where at least one electricity account exists for which demand was at least 300 kilowatts (kW) during the previous fiscal year.
 
@@ -423,7 +423,7 @@ Chapter 2: Real Property Management
 § 4-208 List of City-Owned and Operated Real Property.  ::
 
 
-	   a.   The department of citywide administrative services shall keep and maintain a complete list of the location and current use of all real property owned or leased by the city. For each parcel of property, such list shall include, but need not be limited to, the following information to the extent such information is available:
+	a.   The department of citywide administrative services shall keep and maintain a complete list of the location and current use of all real property owned or leased by the city. For each parcel of property, such list shall include, but need not be limited to, the following information to the extent such information is available:
 
       (1)    the map on which the property appears in the most recent atlas of the property;
 
@@ -565,7 +565,7 @@ Chapter 2: Real Property Management
 § 4-209 Automated external defibrillators at youth baseball games and practices on city land leased to youth leagues.  ::
 
 
-	   a.   Definitions. As used in this section, the following terms have the following meanings:
+	a.   Definitions. As used in this section, the following terms have the following meanings:
 
       Automated external defibrillator. The term "automated external defibrillator" means a medical device, approved by the United States food and drug administration, that: (i) is capable of recognizing the presence or absence in a patient of ventricular fibrillation and rapid ventricular tachycardia; (ii) is capable of determining, without intervention by an individual, whether defibrillation should be performed on a patient; (iii) upon determining that defibrillation should be performed, automatically charges and requests delivery of an electrical impulse to a patient's heart; and (iv) upon action by an individual, delivers an appropriate electrical impulse to a patient's heart to perform defibrillation.
 
@@ -605,7 +605,7 @@ Chapter 2: Real Property Management
 § 4-210 Access to city property. ::
 
 
-	   a.   Definitions. As used in this section, the following terms have the following meanings:
+	a.   Definitions. As used in this section, the following terms have the following meanings:
 
       City property. The term “city property” means any real property leased or owned by the city that serves a city governmental purpose and over which the city has operational control.
 
@@ -643,7 +643,7 @@ Chapter 2: Real Property Management
 § 4-211 Green energy in city-owned buildings. ::
 
 
-	   a.   As used in this section:
+	a.   As used in this section:
 
       City-owned building. The term “city-owned building” shall have the meaning ascribed to the term “city building” in section 28-308.1 of the code.
 

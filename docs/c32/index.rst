@@ -19,7 +19,7 @@ Chapter 1: Office Of Emergency Management
 § 30-102 Protocols regarding weather emergencies.  ::
 
 
-	   a.   The commissioner shall develop protocols that shall include, but need not be limited to, the following: (1) what specific actions the office may take when the national weather service forecasts the occurrence of certain specified severe weather conditions, as determined by the office, including identifying what other agencies or offices of city, state or federal government shall be contacted or consulted; (2) based on the national weather service consultation and inter-agency communications, whether and at what level to activate emergency support functions; and (3) the circumstances under which the office would call upon the state emergency management office or other jurisdictions for assistance, or request mutual aid assistance from the state or other jurisdictions pursuant to article two-B of the executive law.
+	a.   The commissioner shall develop protocols that shall include, but need not be limited to, the following: (1) what specific actions the office may take when the national weather service forecasts the occurrence of certain specified severe weather conditions, as determined by the office, including identifying what other agencies or offices of city, state or federal government shall be contacted or consulted; (2) based on the national weather service consultation and inter-agency communications, whether and at what level to activate emergency support functions; and (3) the circumstances under which the office would call upon the state emergency management office or other jurisdictions for assistance, or request mutual aid assistance from the state or other jurisdictions pursuant to article two-B of the executive law.
 
    b.    On or before November fifteenth, 2011 and every November fifteenth thereafter, the commissioner shall issue a report to the council setting forth the actions taken by the office pursuant to the protocols issued in accordance with subdivision a of this section.
 
@@ -29,7 +29,7 @@ Chapter 1: Office Of Emergency Management
 § 30-103 Annual snow preparedness and response report.  ::
 
 
-	   a.   For purposes of this subdivision, the term "snow event" shall mean any snowfall equal to or in excess of six inches within a period of twenty-four hours in any of the five boroughs based on the department of sanitation's measurements.
+	a.   For purposes of this subdivision, the term "snow event" shall mean any snowfall equal to or in excess of six inches within a period of twenty-four hours in any of the five boroughs based on the department of sanitation's measurements.
 
    b.   No later than November fifteenth, two thousand eleven, and on or before every November fifteenth thereafter, the commissioner shall submit to the council and make available to the public on the city's website a report describing the city's preparation for and response to all snow events during the preceding twelve-month period. Such report shall include but not be limited to the following:
 
@@ -143,7 +143,7 @@ Chapter 1: Office Of Emergency Management
 § 30-107 Small business and non-profit organization recovery plan.  ::
 
 
-	   a.   (1)    The commissioner, in consultation with the commissioner of small business services and other government or private organizations having expertise in non-profit organization and insurance matters, shall develop or update no later than December first, two thousand thirteen, a small business and non-profit organization recovery plan to be utilized after coastal storms and other severe weather and natural disaster events.
+	a.   (1)    The commissioner, in consultation with the commissioner of small business services and other government or private organizations having expertise in non-profit organization and insurance matters, shall develop or update no later than December first, two thousand thirteen, a small business and non-profit organization recovery plan to be utilized after coastal storms and other severe weather and natural disaster events.
 
       (2)    In developing such plan, the department of small business services shall, in consultation with other city agencies, chambers of commerce, or other private organizations having expertise in such matters, work with small business owners and non-profit organizations throughout New York city to identify critical resources necessary for the continued functioning of such small businesses and non-profit organizations during and after such events.
 
@@ -241,7 +241,7 @@ Chapter 1: Office Of Emergency Management
 § 30-112 Emergency management plan reporting and review.  ::
 
 
-	   a.   The commissioner shall provide to the city council a copy of any plan prepared by the New York city office of emergency management for the purpose of responding to coastal storms and other severe weather and natural disaster events, including but not limited to any plans created or updated in accordance with sections 30-104 through 30-111 of this chapter. The commissioner shall also provide the city council with updated versions of such plans within sixty days of plan revisions.
+	a.   The commissioner shall provide to the city council a copy of any plan prepared by the New York city office of emergency management for the purpose of responding to coastal storms and other severe weather and natural disaster events, including but not limited to any plans created or updated in accordance with sections 30-104 through 30-111 of this chapter. The commissioner shall also provide the city council with updated versions of such plans within sixty days of plan revisions.
 
    b.   The commissioner shall assess any plan referenced in subdivision a of this section whenever such plan is activated. Such assessment shall consider the reports and recommendations issued by any task force or commission following such activation. The commissioner shall report to the city council any subsequent changes to such plan and provide a copy of such updated plan to the city council, no later than sixty days after such assessment is completed. The commissioner shall also assess any such plan at least once every two years, whether or not such plan has been activated, and shall report to the city council any subsequent changes to such plan and provide a copy of such updated plan to the city council no later than sixty days after such assessment is completed.
 
@@ -253,7 +253,7 @@ Chapter 1: Office Of Emergency Management
 § 30-113 Weather emergencies and prolonged utility outage preparedness recommendations for residential and commercial buildings. ::
 
 
-	   a.   Coordinating with relevant agencies including the department of buildings, the department of housing preservation and development, and the fire department, the commissioner shall compile recommendations for how residential and commercial property owners may prepare for and communicate certain information to the tenants of such buildings in the event of a weather emergency, a natural disaster event or a utility outage which is expected to last for more than twenty-four hours. Such recommendations shall include, but not be limited to:
+	a.   Coordinating with relevant agencies including the department of buildings, the department of housing preservation and development, and the fire department, the commissioner shall compile recommendations for how residential and commercial property owners may prepare for and communicate certain information to the tenants of such buildings in the event of a weather emergency, a natural disaster event or a utility outage which is expected to last for more than twenty-four hours. Such recommendations shall include, but not be limited to:
 
       1.   Information on determining the property's flood zone and evacuation zone;
 
@@ -295,7 +295,7 @@ Chapter 1: Office Of Emergency Management
 § 30-115 Emergency notifications. ::
 
 
-	   a.   Any emergency alert originated by a city office or city agency that is issued through a commercial mobile service alert system established pursuant to 47 U.S.C. § 1201 shall, to the extent practicable and to the extent permissible under regulations enacted pursuant to such section, be issued in no fewer than the two most commonly spoken languages within the area covered by the emergency alert as determined by the commissioner in consultation with the department of city planning, provided that this subdivision does not require the issuance of an emergency alert in a language if exigent circumstances prohibit the issuance of an alert in such language.
+	a.   Any emergency alert originated by a city office or city agency that is issued through a commercial mobile service alert system established pursuant to 47 U.S.C. § 1201 shall, to the extent practicable and to the extent permissible under regulations enacted pursuant to such section, be issued in no fewer than the two most commonly spoken languages within the area covered by the emergency alert as determined by the commissioner in consultation with the department of city planning, provided that this subdivision does not require the issuance of an emergency alert in a language if exigent circumstances prohibit the issuance of an alert in such language.
 
    b.   Any emergency notification system operated and controlled by the office of emergency management for the purposes of aggregating information obtained from other offices or agencies to inform the public about emergencies or disruptive events through e-mail, text, phone, social media platform, or internet-based feed shall offer each notification in no fewer than the seven most commonly spoken languages within the city as determined by the commissioner in consultation with the department of city planning, provided that this requirement shall not delay or prohibit the immediate issuance of notifications in any individual language. Notifications shall be separated into distinct messages in separate feeds for each language. A general version of each notification may be used when a real-time translation is unavailable, provided that priority shall be placed upon making notifications available with the greatest specificity possible. Any dissemination limitation applicable to an English language notification may be applied to its equivalent notification in another language. If no potential recipient is registered for a specific language, then a notification need not be disseminated in that language.
 

@@ -5,7 +5,7 @@ Chapter 1: Contracts and Purchases
 § 6-101 Contracts; certificate of comptroller.  ::
 
 
-	   a.   Any contract, except as otherwise provided in this section, shall not be binding or of any force, unless the comptroller shall indorse thereon the comptroller's certificate that there remains unexpended and unapplied a balance of the appropriation or fund applicable thereto, sufficient to pay the estimated expense of executing such contract, as certified by the officer making the same.
+	a.   Any contract, except as otherwise provided in this section, shall not be binding or of any force, unless the comptroller shall indorse thereon the comptroller's certificate that there remains unexpended and unapplied a balance of the appropriation or fund applicable thereto, sufficient to pay the estimated expense of executing such contract, as certified by the officer making the same.
 
    b.   In contracts for the purchase of food supplies, forage, fuel, printing, stationery, books and other supplies required for daily or continuous use, or of supplies, materials and equipment needed for use immediately after the beginning of the next succeeding fiscal year, to be delivered within a period of one year from the date thereof, the comptroller shall indorse thereon the comptroller's certificate that there remains unexpended and unapplied a balance of the appropriation or fund applicable thereto, sufficient to pay the estimated expense of executing such contract in so far as the same is to be executed during the current fiscal year, as certified by the officer making the same. Upon the first of the following fiscal year the comptroller shall certify by indorsement upon such contract as to the portion of such contract then unexecuted, and such certification by the comptroller shall make any such contract binding and of full force.
 
@@ -19,7 +19,7 @@ Chapter 1: Contracts and Purchases
 § 6-102 Performance of contracts.  ::
 
 
-	   a.   Each agency shall require and enforce the faithful performance of every contract made by it.
+	a.   Each agency shall require and enforce the faithful performance of every contract made by it.
 
    b.   If the contractor or contractors shall fail in any respect to fulfill the contract within the time limited for its performance, then the agency in charge thereof shall complete the same in the manner provided for in the contract. The cost of such completion shall be a charge against such delinquent contractor or contractors.
 
@@ -39,7 +39,7 @@ Chapter 1: Contracts and Purchases
 § 6-104 Release from fines.  ::
 
 
-	   a.   It shall be unlawful for the comptroller to release any contractor from any fine or penalty incurred under a contract, except upon the unanimous recommendation of the board of estimate.
+	a.   It shall be unlawful for the comptroller to release any contractor from any fine or penalty incurred under a contract, except upon the unanimous recommendation of the board of estimate.
 
    b.   The board of estimate may, by resolution, authorize the comptroller to dispose of such cases without reference to or further action by the board where the sum released does not exceed five hundred dollars.
 
@@ -65,7 +65,7 @@ Chapter 1: Contracts and Purchases
 § 6-107 Warrants upon vouchers.  ::
 
 
-	   a.   All warrants upon vouchers for payment of amounts due under contracts, duly audited and approved, shall refer by number or other description to the voucher, the fund and the contract upon which the payment is to be made. All checks issued by the commissioner of finance on warrants duly approved and executed pursuant to law, as payments on contracts, may be mailed or delivered to the contractor or the contractor's authorized representative.
+	a.   All warrants upon vouchers for payment of amounts due under contracts, duly audited and approved, shall refer by number or other description to the voucher, the fund and the contract upon which the payment is to be made. All checks issued by the commissioner of finance on warrants duly approved and executed pursuant to law, as payments on contracts, may be mailed or delivered to the contractor or the contractor's authorized representative.
 
    b.   The indorsement by the contractor upon a check attached to such a warrant, which has been paid by the bank or depository upon which the same has been drawn, shall be considered as a receipt for the amount of such check.
 
@@ -75,7 +75,7 @@ Chapter 1: Contracts and Purchases
 § 6-107.1 Payments to city contractors to be made by electronic funds transfer.  ::
 
 
-	   a.   Definitions. For purposes of this section:
+	a.   Definitions. For purposes of this section:
 
       (1)   "Contract" means any written agreement, purchase order or instrument whereby the city is committed to expend or does expend funds in an amount greater than twenty-five thousand dollars in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing;
 
@@ -109,7 +109,7 @@ Chapter 1: Contracts and Purchases
 § 6-108 Discrimination in employment.  ::
 
 
-	   a.   It shall be unlawful for any person engaged in the construction, alteration or repair of buildings or engaged in the construction or repair of streets or highways pursuant to a contract with the city, or engaged in the manufacture, sale or distribution of materials, equipment or supplies pursuant to a contract with the city to refuse to employ or to refuse to continue in any employment any person on account of the race, color or creed of such person.
+	a.   It shall be unlawful for any person engaged in the construction, alteration or repair of buildings or engaged in the construction or repair of streets or highways pursuant to a contract with the city, or engaged in the manufacture, sale or distribution of materials, equipment or supplies pursuant to a contract with the city to refuse to employ or to refuse to continue in any employment any person on account of the race, color or creed of such person.
 
    b.   It shall be unlawful for any person or any servant, agent or employee of any person described in subdivision a to ask, indicate or transmit, orally or in writing, directly or indirectly, the race, color or creed or religious affiliation of any person employed or seeking employment from such person, firm or corporation.
 
@@ -123,7 +123,7 @@ Chapter 1: Contracts and Purchases
 § 6-108.1 Locally based enterprises.  ::
 
 
-	   a.   Definitions. As used in this section, the following terms have the following meanings:
+	a.   Definitions. As used in this section, the following terms have the following meanings:
 
       (1)   "Contract" means any written agreement whereby the city is committed to expend or does expend funds in connection with any construction project, except the term "contract" shall not include:
 
@@ -197,7 +197,7 @@ Chapter 1: Contracts and Purchases
 § 6-108.2 Small business enterprises. [Expired*] ::
 
 
-	   a.   Definitions. For purposes of this section only, the following terms shall have the following meanings:
+	a.   Definitions. For purposes of this section only, the following terms shall have the following meanings:
 
       (1)   "Base amount", for the time period commencing on the effective date of this paragraph and ending on December thirty-first, nineteen hundred eighty-nine, means the amount of seven hundred thousand dollars; for the year nineteen hundred ninety, means eight hundred fifty thousand dollars; for the year nineteen hundred ninety-one, means nine hundred thousand dollars; and for the time period commencing on January first, nineteen hundred ninety-two and ending on June thirtieth, nineteen hundred ninety-two, means nine hundred fifty thousand dollars.
 
@@ -277,7 +277,7 @@ Chapter 1: Contracts and Purchases
 § 6-109 [Living wage, prevailing wage and health benefits for certain city service contractors or subcontractors.]  ::
 
 
-	   a.   Definitions. For purposes of this section, the following terms shall have the following meanings:
+	a.   Definitions. For purposes of this section, the following terms shall have the following meanings:
 
       (1)   "City" means the City of New York.
 
@@ -519,7 +519,7 @@ Chapter 1: Contracts and Purchases
 § 6-111.2 Client services contracts.  ::
 
 
-	   a.   No request for proposal for new client services program contracts shall be released to the public unless at least 45 days prior to such release a concept report regarding such request for proposal is released to the public. Prior to the release of concept reports, the city shall publish a notification of the release in five consecutive editions of the city record and electronically on the city's website in a location that is accessible to the public, and upon release, concept reports shall be posted on the city's website in a location that is accessible by the public. For purposes of this subdivision, the term, "new client services program" shall mean any program that differs substantially in scope from an agency's current contractual client services programs, including, but not limited to, substantial differences in the number or types of clients, geographic areas, evaluation criteria, service design or price maximums or ranges per participant if applicable. For purposes of this subdivision, the term, "concept report", shall mean a document outlining the basic requirements of a request for proposal for client services contracts and shall include, but not be limited to, statements explaining:
+	a.   No request for proposal for new client services program contracts shall be released to the public unless at least 45 days prior to such release a concept report regarding such request for proposal is released to the public. Prior to the release of concept reports, the city shall publish a notification of the release in five consecutive editions of the city record and electronically on the city's website in a location that is accessible to the public, and upon release, concept reports shall be posted on the city's website in a location that is accessible by the public. For purposes of this subdivision, the term, "new client services program" shall mean any program that differs substantially in scope from an agency's current contractual client services programs, including, but not limited to, substantial differences in the number or types of clients, geographic areas, evaluation criteria, service design or price maximums or ranges per participant if applicable. For purposes of this subdivision, the term, "concept report", shall mean a document outlining the basic requirements of a request for proposal for client services contracts and shall include, but not be limited to, statements explaining:
 
       (i)   the purpose of the request for proposal;
 
@@ -543,7 +543,7 @@ Chapter 1: Contracts and Purchases
 § 6-111.3 Online reverse auction pilot program.  ::
 
 
-	   a.   The mayor may create a pilot program to determine the efficacy of online reverse auctions. The pilot program shall be for a period of twenty-four months during which period the mayor shall conduct at least six online reverse auctions for purchase contracts chosen by the mayor the combined value of which shall not be less than six million dollars. For purposes of this section the term, "online reverse auction," shall mean an auction for the purchase of goods by the city which is conducted online in electronic interactive format during which potential vendors bid against one another to provide goods for the city. The mayor may promulgate rules to implement the requirements of this section. The mayor shall submit a report to the Council and the Comptroller detailing the results of the online reverse auction pilot program no more than 60 days after the completion of such pilot program.
+	a.   The mayor may create a pilot program to determine the efficacy of online reverse auctions. The pilot program shall be for a period of twenty-four months during which period the mayor shall conduct at least six online reverse auctions for purchase contracts chosen by the mayor the combined value of which shall not be less than six million dollars. For purposes of this section the term, "online reverse auction," shall mean an auction for the purchase of goods by the city which is conducted online in electronic interactive format during which potential vendors bid against one another to provide goods for the city. The mayor may promulgate rules to implement the requirements of this section. The mayor shall submit a report to the Council and the Comptroller detailing the results of the online reverse auction pilot program no more than 60 days after the completion of such pilot program.
 
 
 
@@ -567,7 +567,7 @@ Chapter 1: Contracts and Purchases
 § 6-114 Participation in an international boycott.  ::
 
 
-	   a.   Every contract for or on behalf of the city for the manufacture, furnishing or purchasing of supplies, material or equipment or for the furnishing of work, labor or services, in an amount exceeding five thousand dollars, shall contain a stipulation, as a material condition of the contract, by which the contractor agrees that neither the contractor nor any substantially-owned affiliated company is participating or shall participate in an international boycott in violation of the provisions of the export administration act of nineteen hundred sixty-nine, as amended, or the regulations of the United States department of commerce promulgated thereunder.
+	a.   Every contract for or on behalf of the city for the manufacture, furnishing or purchasing of supplies, material or equipment or for the furnishing of work, labor or services, in an amount exceeding five thousand dollars, shall contain a stipulation, as a material condition of the contract, by which the contractor agrees that neither the contractor nor any substantially-owned affiliated company is participating or shall participate in an international boycott in violation of the provisions of the export administration act of nineteen hundred sixty-nine, as amended, or the regulations of the United States department of commerce promulgated thereunder.
 
    b.   Upon the final determination by the commerce department or any other agency of the United States as to, or conviction of any contractor or substantially-owned affiliated company thereof, participation in an international boycott in violation of the provisions of the export administration act of nineteen hundred sixty-nine, as amended, or the regulations promulgated thereunder, the comptroller may, at his or her option, render forfeit and void any contract containing the conditions specified in this section. In those instances where the comptroller determines that no action shall be taken pursuant to this section, the comptroller shall report the basis therefore to the city council.
 
@@ -581,7 +581,7 @@ Chapter 1: Contracts and Purchases
 § 6-115 Anti-apartheid contract provisions. [Repealed]  ::
 
 
-	   a.   With respect to contracts described in subdivisions b and c of this section, and in accordance with such provisions, no city agency shall contract for the supply of goods, services or construction with any person who does not agree to stipulate to the following as material conditions of the contract if there is another person who will contract to supply goods, services or construction of comparable quality at a comparable price:
+	a.   With respect to contracts described in subdivisions b and c of this section, and in accordance with such provisions, no city agency shall contract for the supply of goods, services or construction with any person who does not agree to stipulate to the following as material conditions of the contract if there is another person who will contract to supply goods, services or construction of comparable quality at a comparable price:
 
       (1)   That the contractor and its affiliates shall not during the term of such contract sell or agree to sell goods or services to Burma, the Government of Burma, or to any entity owned or controlled by the Government of Burma; and
 
@@ -653,7 +653,7 @@ Chapter 1: Contracts and Purchases
 § 6-115.1 Nondiscrimination in employment in Northern Ireland.  ::
 
 
-	   a.   Definitions. For the purposes of this section "MacBride Principles" shall mean those principles relating to nondiscrimination in employment and freedom of workplace opportunity which require employers doing business in Northern Ireland to:
+	a.   Definitions. For the purposes of this section "MacBride Principles" shall mean those principles relating to nondiscrimination in employment and freedom of workplace opportunity which require employers doing business in Northern Ireland to:
 
       (1)   increase the representation of individuals from underrepresented religious groups in the work force, including managerial, supervisory, administrative, clerical and technical jobs;
 
@@ -691,7 +691,7 @@ Chapter 1: Contracts and Purchases
 § 6-116 Additional contract provisions.  ::
 
 
-	   a.   Every contract shall contain a provision which permits the agency, in addition to any other right or remedy, to give notice to the contractor that the agency finds the contractor's performance to be improper, dilatory or otherwise not in compliance with the requirements of the contract.
+	a.   Every contract shall contain a provision which permits the agency, in addition to any other right or remedy, to give notice to the contractor that the agency finds the contractor's performance to be improper, dilatory or otherwise not in compliance with the requirements of the contract.
 
    b.   The contract shall provide that if such notice is given, upon the termination of the contract the contractor may be declared not to be a responsible bidder for a period of time which shall not exceed three years, following notice and the opportunity for a hearing at which the contractor shall have the right to be represented by counsel.
 
@@ -711,7 +711,7 @@ Chapter 1: Contracts and Purchases
 § 6-116.2 [Reporting of contracted goods and services; computerized data base.] ::
 
 
-	   a.   The comptroller and the mayor shall jointly maintain, at the financial information services agency, a computerized data base. Such data base shall contain information for every franchise and concession and every contract for goods or services involving the expenditure of more than ten thousand dollars or in the case of construction, repair, rehabilitation or alteration, the expenditure of more than fifteen thousand dollars, entered into by an agency, New York city affiliated agency, elected official or the council, including, but not limited to:
+	a.   The comptroller and the mayor shall jointly maintain, at the financial information services agency, a computerized data base. Such data base shall contain information for every franchise and concession and every contract for goods or services involving the expenditure of more than ten thousand dollars or in the case of construction, repair, rehabilitation or alteration, the expenditure of more than fifteen thousand dollars, entered into by an agency, New York city affiliated agency, elected official or the council, including, but not limited to:
 
       (1)   the name, address, and federal taxpayer's identification number of the contractor, franchisee or concessionaire where available in accordance with applicable law;
 
@@ -889,7 +889,7 @@ Chapter 1: Contracts and Purchases
 § 6-121 Purchase of low-emission motor vehicles.  ::
 
 
-	   a.   As used in this section, the terms "as defined" and "as specified" shall mean as defined and as specified from time to time in the relevant regulations of the administrator of the United States environmental protection agency.
+	a.   As used in this section, the terms "as defined" and "as specified" shall mean as defined and as specified from time to time in the relevant regulations of the administrator of the United States environmental protection agency.
 
    b.   As used in this section, the term "low-emission motor vehicle" shall mean a self-propelling light duty vehicle, as defined which is certified in accordance with the terms of subdivision d of this section.
 
@@ -921,7 +921,7 @@ Chapter 1: Contracts and Purchases
 § 6-122 Purchase of recycled paper products. [Repealed]  ::
 
 
-	   a.   For purposes of this section only, the following terms shall have the following meanings:
+	a.   For purposes of this section only, the following terms shall have the following meanings:
 
       (1)   "Contract" means any written agreement, purchase order or instrument whereby the city is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing.
 
@@ -951,7 +951,7 @@ Chapter 1: Contracts and Purchases
 § 6-124 [Apparel and textile services procurement by city.]  ::
 
 
-	   a.   For purposes of this section only, the following terms shall have the following meanings:
+	a.   For purposes of this section only, the following terms shall have the following meanings:
 
       (1)   "Contract" means any written agreement, purchase order or instrument whereby the city is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing.
 
@@ -1023,7 +1023,7 @@ Chapter 1: Contracts and Purchases
 § 6-125 [Emergency contraception to rape victims in hospital emergency department.] ::
 
 
-	   a.   For the purposes of this section only, the following terms shall have the following meanings:
+	a.   For the purposes of this section only, the following terms shall have the following meanings:
 
       (1)   "City agency" means a city, county, borough, administration, department, division bureau, board or commission, or a corporation, institution or agency of government the expenses of which are paid in whole or in part from the city treasury, but shall not include the health and hospitals corporation.
 
@@ -1057,7 +1057,7 @@ Chapter 1: Contracts and Purchases
 § 6-126 [Equal employment benefits to the employees of city contractors.]  ::
 
 
-	   a.   This section shall be known and may be cited as the "Equal Benefits Law."
+	a.   This section shall be known and may be cited as the "Equal Benefits Law."
 
    b.   For purposes of this section only, the following terms shall have the following meanings:
 
@@ -1139,7 +1139,7 @@ Chapter 1: Contracts and Purchases
 § 6-127 Procurement of energy-using products.* ::
 
 
-	   a.   Definitions. For purposes of this section only, the following terms shall have the following meanings:
+	a.   Definitions. For purposes of this section only, the following terms shall have the following meanings:
 
       (1)   "Affiliate" means any person that controls, is controlled by, or is under common control with another person, incluing any successors in interest. Control shall mean ownership of ten percent or more of any class of outstanding stock of a company or the power to direct or cause the direction of the management and policies of a person.
 
@@ -1353,7 +1353,7 @@ Chapter 1: Contracts and Purchases
 § 6-129 Participation by minority-owned and women-owned business enterprises and emerging business enterprises in city procurement.  ::
 
 
-	   a.   Programs established. There are hereby established a program, to be administered by the department of small business services in accordance with the provisions of this section, designed to enhance participation by minority-owned and women-owned business enterprises in city procurement and a program, also to be administered by such department in accordance with the provisions of this section, designed to enhance participation by emerging business enterprises in city procurement.
+	a.   Programs established. There are hereby established a program, to be administered by the department of small business services in accordance with the provisions of this section, designed to enhance participation by minority-owned and women-owned business enterprises in city procurement and a program, also to be administered by such department in accordance with the provisions of this section, designed to enhance participation by emerging business enterprises in city procurement.
 
    b.   Policy. It is the policy of the city to seek to ensure fair participation in city procurement; and in furtherance of such policy to fully and vigorously enforce all laws prohibiting discrimination, and to promote equal opportunity in city procurement by vigorously enforcing the city's contractual rights and pursuing its contractual remedies. The program established pursuant to this section is intended to address the impact of discrimination on the city's procurement process, and to promote the public interest in avoiding fraud and favoritism in the procurement process, increasing competition for city business, and lowering contract costs.
 
@@ -1927,7 +1927,7 @@ For goods contracts under one hundred thousand dollars:
 § 6-129.1 Nondiscrimination in public contracting. ::
 
 
-	   a.   For purposes of this section, the term “contract” means any agreement, purchase order or other instrument whereby the city is committed to expend or does expend funds in return for goods, services or construction.
+	a.   For purposes of this section, the term “contract” means any agreement, purchase order or other instrument whereby the city is committed to expend or does expend funds in return for goods, services or construction.
 
    b.   It is unlawful for an agency to deny a contract because of the actual or perceived race, creed, color, national origin, age, gender, disability, sexual orientation or alienage or citizenship status of the owners of the bidder or proposer.
 
@@ -1943,7 +1943,7 @@ For goods contracts under one hundred thousand dollars:
 § 6-130 New York state food purchased by city agencies.* ::
 
 
-	   a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
+	a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
 
       (1)   "Agency" shall mean a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
 
@@ -2013,7 +2013,7 @@ For goods contracts under one hundred thousand dollars:
 § 6-130 Prevailing wage for building service employees in city leased or financially assisted facilities.* ::
 
 
-	   a.   Definitions. For purposes of this section, the following terms shall have the following meanings:
+	a.   Definitions. For purposes of this section, the following terms shall have the following meanings:
 
       (1)   "Affordable housing project" means a project where not less than fifty percent of the residential units are affordable for households earning up to one hundred thirty percent of the area median income or in which all residential units are affordable to households earning up to one hundred sixty five percent of the area median income provided that at least twenty percent of units are affordable to households earning no more than fifty percent of area median income and at least one-third of residential units are occupied at the time of execution of the financial assistance, and where no more than thirty percent of the total square footage of the project area is used for commercial activities, defined as the buying, selling or otherwise providing of goods or services, or other lawful business or commercial activities otherwise permitted in mixed-use property.
 
@@ -2125,7 +2125,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-131 Public online database.  ::
 
 
-	   a.   No later than July first two thousand twelve, the mayor shall establish a public online searchable database on an official website of the city, that shall include summaries of the material terms of city contracts. Such contract summaries shall include, but not be limited to, the following categories of information, where applicable:
+	a.   No later than July first two thousand twelve, the mayor shall establish a public online searchable database on an official website of the city, that shall include summaries of the material terms of city contracts. Such contract summaries shall include, but not be limited to, the following categories of information, where applicable:
 
       (1)   the legal name of the contractor, franchisee or concessionaire where available, in accordance with applicable law;
 
@@ -2165,7 +2165,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-132 Posting of notice of whistleblower protection rights.  ::
 
 
-	   a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
+	a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
 
       (1)   "Contract" shall mean any written agreement, purchase order or instrument valued in excess of one hundred thousand dollars or more pursuant to which a contracting agency is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing, and shall include a subcontract between a contractor and a subcontractor.
 
@@ -2189,7 +2189,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-133 Notification of project cost increases.  ::
 
 
-	   a.   For the purposes of this section, "agency" means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
+	a.   For the purposes of this section, "agency" means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
 
    b.   If an agency that has entered into a contract for construction and/or services with a maximum expenditure of more than ten million dollars in connection with a project included in the capital budget enters into a contract modification or extension that results in a total revised maximum expenditure that exceeds the original contract maximum expenditure by twenty percent or more, the mayor shall notify the council of such contract modification or extension, including details of the basis for and scope of the estimated additional costs.
 
@@ -2203,7 +2203,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-134 Living Wage for Employees in City Financially Assisted Workplaces.  ::
 
 
-	   a.   This section shall be known as and may be cited as the "Fair Wages for New Yorkers Act".
+	a.   This section shall be known as and may be cited as the "Fair Wages for New Yorkers Act".
 
    b.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
 
@@ -2343,7 +2343,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-136 Reporting on preferred source procurement.  ::
 
 
-	   a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
+	a.   Definitions. For the purposes of this section, the following terms shall have the following meanings:
 
       (1)   "Agency" shall mean a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
 
@@ -2375,7 +2375,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-138 Reporting on the expenditure of Hurricane Sandy funds.* ::
 
 
-	   a.   Definitions. For purposes of this section, the following terms shall have the following meanings:
+	a.   Definitions. For purposes of this section, the following terms shall have the following meanings:
 
       (1)   "Hurricane Sandy funds" means any federal funds, or local or state funds derived from federal funds, appropriated by Federal Public Law 113-2, an act making supplemental appropriations for the fiscal year September 30, 2013, to improve and streamline disaster assistance for Hurricane Sandy, that are administered or disbursed by the city and provided to a recipient in an amount exceeding one hundred thousand dollars to recover or rebuild from Hurricane Sandy.
 
@@ -2425,7 +2425,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-139 Worker cooperatives.  ::
 
 
-	   a.   Definitions. As used in this section:
+	a.   Definitions. As used in this section:
 
       "City chief procurement officer" means the person to whom the mayor has delegated authority to coordinate and oversee the procurement activity of mayoral agency staff, including the agency chief contracting officers and any offices that have oversight responsibility for procurement.
 
@@ -2473,7 +2473,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-140 Car sharing in the city fleet.  ::
 
 
-	   a.   For the purposes of this section, the following terms shall have the following meanings:
+	a.   For the purposes of this section, the following terms shall have the following meanings:
 
       (1)   "Car sharing" means a shared-use motor vehicle program that provides a geographically distributed fleet of motor vehicles that is made available to entities or persons on an hourly or short-term basis, or provides technology that enables the city to share internally its city-owned or leased vehicles.
 
@@ -2509,7 +2509,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-141 Side guards in the city fleet.  ::
 
 
-	   a.   Definitions. For the purposes of this section:
+	a.   Definitions. For the purposes of this section:
 
       Department. The term "department" means the department of citywide administrative services.
 
@@ -2529,7 +2529,7 @@ Editor's note: See 6 RCNY Ch. 9.
 § 6-142 Subcontractor resource guide. ::
 
 
-	   a.   For purposes of this section, the following terms shall have the following meanings:
+	a.   For purposes of this section, the following terms shall have the following meanings:
 
       “Contracting agency” means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
 
@@ -2573,7 +2573,7 @@ Chapter 2: Franchises
 § 6-203 Long Island railroad.  ::
 
 
-	   a.   No freight or passenger car detached from an engine of the Long Island railroad company shall remain longer than ten minutes in any street. Bituminous coal shall not be used on any engine running upon such railroad. Whenever platforms are placed in the streets for accommodation of passengers, such company shall at its own expense keep the entire street between the platform and the curb in a cleanly and passable condition and this provision shall be construed to apply to each station and each platform wherever erected by such company within the city.
+	a.   No freight or passenger car detached from an engine of the Long Island railroad company shall remain longer than ten minutes in any street. Bituminous coal shall not be used on any engine running upon such railroad. Whenever platforms are placed in the streets for accommodation of passengers, such company shall at its own expense keep the entire street between the platform and the curb in a cleanly and passable condition and this provision shall be construed to apply to each station and each platform wherever erected by such company within the city.
 
    b.   Any railroad, or the manager or agent or employee thereof, who shall violate any provision of this section, or who shall permit same to be violated, shall be liable to a penalty of one hundred dollars.
 
@@ -2583,7 +2583,7 @@ Chapter 2: Franchises
 § 6-204 Grade crossings; gates and attendants.  ::
 
 
-	   a.   The Bronx.
+	a.   The Bronx.
 
       1.   Every person operating or controlling any railroad in the borough of the Bronx, upon which cars are drawn by locomotive engines, other than those known as "dummies", shall erect and maintain suitable and substantial gates or doors on either side of such railroad, at every point in such borough at which its roads or tracks cross any public street, at the grade thereof. Such gates or doors shall be kept well painted and in good repair, and shall be attended at all times during the approach and passage of cars or trains by sober, careful and experienced persons, whose duty it shall be to keep the tracks clear of all horses, cattle and vehicles, to warn all the persons against crossing the tracks during the approach of any train, locomotive or car, and to close the gates or doors at least one minute before the passage of any locomotive, engine or car over such public street. No person operating or controlling any railroad in the borough of the Bronx, shall run or allow to be run any locomotive or locomotive tender without cars across any public street in such borough, unless the gates or doors at such crossing are closed or down.
 
@@ -2607,7 +2607,7 @@ Chapter 2: Franchises
 § 6-205 Obstruction of streets; penalty.  ::
 
 
-	   a.   No train of cars, nor any part thereof, including the locomotive and tender, shall remain or be left across or upon any street or sidewalk, so as to obstruct or prevent free travel thereon for a longer period than five minutes, during any period or during any hour, unless the same shall be unavoidable.
+	a.   No train of cars, nor any part thereof, including the locomotive and tender, shall remain or be left across or upon any street or sidewalk, so as to obstruct or prevent free travel thereon for a longer period than five minutes, during any period or during any hour, unless the same shall be unavoidable.
 
    b.   Any railroad, or the manager or agent or employee thereof, who shall violate any provision of this section, or who shall permit the same to be violated, shall be liable to a penalty of one hundred dollars.
 
@@ -2617,7 +2617,7 @@ Chapter 2: Franchises
 § 6-206 Railroads from Long Island to East river to have unobstructed right-of-way.  ::
 
 
-	   a.   Any railroad running from any part of Long Island to the East river shall have unobstructed right to run to the East river with their locomotives and cars, but shall furnish suitable guards or signals at the street crossings, for the proper protection of the public.
+	a.   Any railroad running from any part of Long Island to the East river shall have unobstructed right to run to the East river with their locomotives and cars, but shall furnish suitable guards or signals at the street crossings, for the proper protection of the public.
 
    b.   Any person who shall violate any provision of this section, upon conviction thereof, shall be punished by a fine of not more than twentyfive dollars, or imprisonment for thirty days, or both.
 
@@ -2645,7 +2645,7 @@ Chapter 3: Environmental Purchasing
 § 6-301 Definitions.  ::
 
 
-	   a.   For the purposes of this chapter only, the following terms shall have the following meaning:
+	a.   For the purposes of this chapter only, the following terms shall have the following meaning:
 
       (1)   "Agricultural wastes" means materials that remain after the harvesting or production of annual crops, including but not limited to rice, flax, wheat and rye.
 
@@ -2723,7 +2723,7 @@ Chapter 3: Environmental Purchasing
 § 6-302 Applicability.  ::
 
 
-	   a.   Except where otherwise provided, the provisions of this chapter shall apply to any product:
+	a.   Except where otherwise provided, the provisions of this chapter shall apply to any product:
 
       (1)   purchased or leased by any agency;
 
@@ -2751,7 +2751,7 @@ Chapter 3: Environmental Purchasing
 § 6-303 Exemptions and waivers.  ::
 
 
-	   a.   This chapter shall not apply:
+	a.   This chapter shall not apply:
 
       (1)   to any product purchased or leased before the effective date of the local law that added this chapter;
 
@@ -2843,7 +2843,7 @@ Chapter 3: Environmental Purchasing
 § 6-305 Agency implementation.  ::
 
 
-	   a.   Each agency shall designate an environmental purchasing officer who shall:
+	a.   Each agency shall designate an environmental purchasing officer who shall:
 
       (1)   coordinate with the director to ensure agency compliance with the city's environmental purchasing standards; and
 
@@ -2857,7 +2857,7 @@ Chapter 3: Environmental Purchasing
 § 6-306 Energy efficiency standards.  ::
 
 
-	   a.   Any energy-using product purchased or leased by any agency for which the United States environmental protection agency and the United States department of energy have developed energy efficiency standards for compliance with the Energy Star program shall be ENERGY STAR labeled.
+	a.   Any energy-using product purchased or leased by any agency for which the United States environmental protection agency and the United States department of energy have developed energy efficiency standards for compliance with the Energy Star program shall be ENERGY STAR labeled.
 
    b.   Any faucet, showerhead, toilet, urinal, fluorescent tube lamp, fluorescent ballast, industrial HID luminaire, downlight luminaire, fluorescent luminaire or compact fluorescent lamp that is purchased or leased by any agency for which the federal energy management program of the United States department of energy has issued product energy efficiency recommendations shall achieve no less energy efficiency or flow rate than the minimum recommended in such recommendations.
 
@@ -2875,7 +2875,7 @@ Chapter 3: Environmental Purchasing
 § 6-307 Office equipment energy use reduction.  ::
 
 
-	   a.   Notwithstanding section 6-302 of this chapter, this section shall apply to any computer, printer, facsimile machine or photocopy machine owned or leased by any agency.
+	a.   Notwithstanding section 6-302 of this chapter, this section shall apply to any computer, printer, facsimile machine or photocopy machine owned or leased by any agency.
 
    b.   The power management software options of any computer, printer, facsimile machine or photocopy machine that contains such software shall be calibrated to achieve the highest energy savings practicable.
 
@@ -2889,7 +2889,7 @@ Chapter 3: Environmental Purchasing
 § 6-308 Minimum recycled material content.  ::
 
 
-	   a.   Any reprographic paper, tablet paper, envelope paper, file folder, commercial/industrial sanitary tissue, rock wool or fiberglass building insulation, polyester carpet, flowable fill, steel shower or restroom divider/partition, traffic cone, plastic fencing, plastic park bench, hydraulic mulch, garden or soaker hose, plastic trash bag, office recycling container, office waste receptacle, mat, signage or pallet, as such terms are utilized in the CPG: (i) purchased or leased by any agency; (ii) that can be procured at a reasonably competitive price; and (iii) that is listed in the CPG, for which the United States environmental protection agency has issued a recovered materials advisory notice, shall contain no less recovered material and postconsumer material than the minimum amount recommended in the most recent such notice, or, with respect to any paper or paper product, may, at the discretion of the director, contain no less than fifty percent agricultural wastes.
+	a.   Any reprographic paper, tablet paper, envelope paper, file folder, commercial/industrial sanitary tissue, rock wool or fiberglass building insulation, polyester carpet, flowable fill, steel shower or restroom divider/partition, traffic cone, plastic fencing, plastic park bench, hydraulic mulch, garden or soaker hose, plastic trash bag, office recycling container, office waste receptacle, mat, signage or pallet, as such terms are utilized in the CPG: (i) purchased or leased by any agency; (ii) that can be procured at a reasonably competitive price; and (iii) that is listed in the CPG, for which the United States environmental protection agency has issued a recovered materials advisory notice, shall contain no less recovered material and postconsumer material than the minimum amount recommended in the most recent such notice, or, with respect to any paper or paper product, may, at the discretion of the director, contain no less than fifty percent agricultural wastes.
 
    b.   Beginning January 1, 2008, the director shall make a determination whether or not any product: (i) purchased or leased by any agency; (ii) that can be procured at a reasonably competitive price; (iii) in any category listed in the CPG, but not specified in subdivision a of this section, for which the United States environmental protection agency has issued a recovered materials advisory notice, shall contain no less recovered material and postconsumer material than the minimum amount recommended in the most recent such notice. The director shall review any such determination not to require compliance with the CPG for any product at least once every two years.
 
@@ -2901,7 +2901,7 @@ Chapter 3: Environmental Purchasing
 § 6-309 Printing on recycled paper.  ::
 
 
-	   a.   Any document or graphic material prepared or printed for any agency pursuant to any contract with such agency, which can be procured at a reasonably competitive price and is of adequate quality for the intended use, shall be printed on paper with no less recovered material and postconsumer material, or agricultural wastes, than the minimum amount required pursuant to subdivision a of section 6-308 of this chapter and, where practicable, shall be printed double-sided.
+	a.   Any document or graphic material prepared or printed for any agency pursuant to any contract with such agency, which can be procured at a reasonably competitive price and is of adequate quality for the intended use, shall be printed on paper with no less recovered material and postconsumer material, or agricultural wastes, than the minimum amount required pursuant to subdivision a of section 6-308 of this chapter and, where practicable, shall be printed double-sided.
 
    b.   Any solicitation of any agency shall request that any response to such solicitation be printed double-sided and on paper with no less recovered material and postconsumer material than the minimum required pursuant to subdivision a of section 6-308 of this chapter, and shall require that such response indicate whether such requests have been met; provided, however, that nothing in this subdivision shall be construed as requiring a finding of non-responsiveness.
 
@@ -2913,7 +2913,7 @@ Chapter 3: Environmental Purchasing
 § 6-310 Paper waste reduction.  ::
 
 
-	   a.   Any printer purchased or leased by any agency that can print at a rate of twenty pages or faster per minute or that is considered a local area network printer shall have the capacity to print double-sided. Any copier purchased or leased by any agency that can print at a rate of twenty pages or faster per minute shall have the capacity to print double-sided and shall perform equally well with paper containing postconsumer material as with paper containing no postconsumer material.
+	a.   Any printer purchased or leased by any agency that can print at a rate of twenty pages or faster per minute or that is considered a local area network printer shall have the capacity to print double-sided. Any copier purchased or leased by any agency that can print at a rate of twenty pages or faster per minute shall have the capacity to print double-sided and shall perform equally well with paper containing postconsumer material as with paper containing no postconsumer material.
 
    b.   Notwithstanding section 6-302 of this chapter, this subdivision shall apply to any printer or copier purchased or leased by any agency after January 1, 2007 and, to the extent practicable, to any printer or copier purchased or leased by any agency before such date. The default parameters of any printer with the capacity to print double-sided, and any computer that utilizes such printer, shall be set to duplex mode, such that the printer prints double-sided pages. The default parameters of any copier with the capacity to print double-sided for which the default parameters can be adjusted, shall be set to duplex mode, such that the copier places images on both sides of a copy sheet, performing one-sided to two-sided copying, and two-sided to two-sided copying.
 
@@ -2931,7 +2931,7 @@ Chapter 3: Environmental Purchasing
 § 6-312 Hazardous content of electronic devices.  ::
 
 
-	   a.   No new covered electronic device purchased or leased by any agency shall contain lead, mercury, cadmium, hexavalent chromium, polybrominated biphenyls or polybrominated diphenyl ethers, except as provided by rules promulgated by the director.
+	a.   No new covered electronic device purchased or leased by any agency shall contain lead, mercury, cadmium, hexavalent chromium, polybrominated biphenyls or polybrominated diphenyl ethers, except as provided by rules promulgated by the director.
 
    b.   No new covered electronic device purchased or leased by any agency shall contain any hazardous substance in any amount exceeding that proscribed by the director through rulemaking. In developing such rules, the director shall consider European Union directive 2002/95/EC and any subsequent material directive issued by the European Parliament and the Council of the European Union.
 
@@ -2941,7 +2941,7 @@ Chapter 3: Environmental Purchasing
 § 6-313 Volatile organic compounds and other airborne hazards.  ::
 
 
-	   a.   (1)   No carpet, carpet cushion or carpet adhesive purchased or leased by any agency shall contain the following volatile organic compounds in any concentration exceeding that specified by the director through rulemaking:
+	a.   (1)   No carpet, carpet cushion or carpet adhesive purchased or leased by any agency shall contain the following volatile organic compounds in any concentration exceeding that specified by the director through rulemaking:
 
          (i)   for carpets, 4-phenylcyclohexene, formaldehyde or styrene;
 
@@ -2969,7 +2969,7 @@ Chapter 3: Environmental Purchasing
 § 6-315 Miscellaneous.  ::
 
 
-	   a.   By January 1, 2008, the director shall promulgate rules to reduce the city's purchase or lease of materials whose combustion may lead to the formation of dioxin or dioxin-like compounds.
+	a.   By January 1, 2008, the director shall promulgate rules to reduce the city's purchase or lease of materials whose combustion may lead to the formation of dioxin or dioxin-like compounds.
 
    b.   The director shall investigate the environmental and health effects of composite wood or agrifiber products that contain added urea-formaldehyde resins and, by January 1, 2008, where practicable, shall promulgate rules to reduce the city's purchase or lease of such products.
 
@@ -2979,7 +2979,7 @@ Chapter 3: Environmental Purchasing
 § 6-316 Green cleaning products.  ::
 
 
-	   a.   Beginning June 1, 2009, the city shall purchase and use green cleaning products to the extent and in the manner that such use is determined to be feasible through the pilot program established pursuant to the local law that added subchapter 6 of this chapter or through any other testing and evaluation conducted by the director. Such green cleaning products shall meet the health and environmental criteria for the relevant product category as established by the director under the pilot program or any such criteria as updated or revised by the director.
+	a.   Beginning June 1, 2009, the city shall purchase and use green cleaning products to the extent and in the manner that such use is determined to be feasible through the pilot program established pursuant to the local law that added subchapter 6 of this chapter or through any other testing and evaluation conducted by the director. Such green cleaning products shall meet the health and environmental criteria for the relevant product category as established by the director under the pilot program or any such criteria as updated or revised by the director.
 
    b.   No later than June 1, 2009, the director shall publish a list of green cleaning products that may be purchased by the city to comply with this section. At least once annually, such list shall be reviewed and revised, if necessary.
 
@@ -2989,7 +2989,7 @@ Chapter 3: Environmental Purchasing
 § 6-317 Packaging reduction guidelines for city agencies.  ::
 
 
-	   a.   The director of citywide environmental purchasing, after consultation with the mayor's office of long term planning and sustainability, shall establish packaging reduction guidelines for contracts entered into by city agencies for the purchase of goods.
+	a.   The director of citywide environmental purchasing, after consultation with the mayor's office of long term planning and sustainability, shall establish packaging reduction guidelines for contracts entered into by city agencies for the purchase of goods.
 
    b.   Such guidelines shall include but not be limited to the following agency requests:
 

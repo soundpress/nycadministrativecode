@@ -35,7 +35,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2004 Definitions.  ::
 
 
-	   a.   The following terms, as used in this chapter, shall have the following meanings:
+	a.   The following terms, as used in this chapter, shall have the following meanings:
 
       1.   The term department shall mean the department, bureau, division or other agency charged with the enforcement of this title.
 
@@ -251,7 +251,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2005 Duties of owner.  ::
 
 
-	   a.   The owner of a multiple dwelling shall keep the premises in good repair.
+	a.   The owner of a multiple dwelling shall keep the premises in good repair.
 
    b.   The owner of a multiple dwelling, in addition to the duty imposed upon such owner by subdivision a of this section, shall be responsible for compliance with the requirements of this code, except insofar as responsibility for compliance is imposed upon the tenant alone.
 
@@ -273,7 +273,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2006 Duties of tenant.  ::
 
 
-	   a.   A tenant shall, in addition to complying with all provisions of this code and the multiple dwelling law applicable to him or her, be responsible for violations of this code to the extent that he or she has the power to prevent the occurrence of a violation. A tenant has the power to prevent the occurrence of a violation if:
+	a.   A tenant shall, in addition to complying with all provisions of this code and the multiple dwelling law applicable to him or her, be responsible for violations of this code to the extent that he or she has the power to prevent the occurrence of a violation. A tenant has the power to prevent the occurrence of a violation if:
 
       (1)   It is caused by his or her own wilful act or that of a member of his or her family or household, or a guest; or
 
@@ -329,7 +329,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2009.1 Rights and responsibilities of owners and tenants in relation to pets.  ::
 
 
-	   a.   Legislative declaration. The council hereby finds that the enforcement of covenants contained in multiple dwelling leases which prohibit the harboring of household pets has led to widespread abuses by building owners or their agents, who knowing that a tenant has a pet for an extended period of time, seek to evict the tenant and/or his or her pet often for reasons unrelated to the creation of a nuisance. Because household pets are kept for reasons of safety and companionship and under the existence of a continuing housing emergency it is necessary to protect pet owners from retaliatory eviction and to safeguard the health, safety and welfare of tenants who harbor pets under the circumstances provided herein, it is hereby found that the enactment of the provisions of this section is necessary to prevent potential hardship and dislocation of tenants within this city.
+	a.   Legislative declaration. The council hereby finds that the enforcement of covenants contained in multiple dwelling leases which prohibit the harboring of household pets has led to widespread abuses by building owners or their agents, who knowing that a tenant has a pet for an extended period of time, seek to evict the tenant and/or his or her pet often for reasons unrelated to the creation of a nuisance. Because household pets are kept for reasons of safety and companionship and under the existence of a continuing housing emergency it is necessary to protect pet owners from retaliatory eviction and to safeguard the health, safety and welfare of tenants who harbor pets under the circumstances provided herein, it is hereby found that the enactment of the provisions of this section is necessary to prevent potential hardship and dislocation of tenants within this city.
 
    b.   Where a tenant in a multiple dwelling openly and notoriously for a period of three months or more following taking possession of a unit, harbors or has harbored a household pet or pets, the harboring of which is not prohibited by the multiple dwelling law, the housing maintenance or the health codes of the city of New York or any other applicable law, and the owner or his or her agent has knowledge of this fact, and such owner fails within this three month period to commence a summary proceeding or action to enforce a lease provision prohibiting the keeping of such household pets, such lease provision shall be deemed waived.
 
@@ -345,7 +345,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2009.2 Safe construction bill of rights. ::
 
 
-	   a.   Definitions. As used in this section:
+	a.   Definitions. As used in this section:
 
       Amenity. The term “amenity” means any equipment, feature or space within a multiple dwelling that may be used in common by the building occupants, including, but not limited to, entrances, elevators, stairways, freight elevators, laundry rooms, laundry equipment, exercise rooms, community rooms, outdoor areas, parking spaces, storage units, or wireless internet.
 
@@ -407,7 +407,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2012 Cleaning of interior of dwelling units.  ::
 
 
-	   a.   The occupant of a dwelling shall maintain the dwelling unit which he or she occupies and controls in a clean and sanitary condition except as provided in subdivision b of this section.
+	a.   The occupant of a dwelling shall maintain the dwelling unit which he or she occupies and controls in a clean and sanitary condition except as provided in subdivision b of this section.
 
    b.   The owner of all rooming units in a rooming house or an entire multiple dwelling used for single room occupancy, or the person in control of an apartment containing rooming units, shall clean any such unit before any change in occupancy and at least once a week during the period of occupancy and shall at all times maintain the same in a clean and sanitary condition.
 
@@ -417,7 +417,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2013 Painting of public parts and within dwellings.  ::
 
 
-	   a.   In the public parts of a multiple dwelling, and in a tenant-occupied dwelling unit in a one- or two-family dwelling, the owner shall:
+	a.   In the public parts of a multiple dwelling, and in a tenant-occupied dwelling unit in a one- or two-family dwelling, the owner shall:
 
       (1)   Paint or cover the walls and ceilings with wallpaper or other acceptable wall covering; and
 
@@ -447,7 +447,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2014 Window frames and fire escapes.  ::
 
 
-	   a.   At least once every five years, the owner of a dwelling shall paint all exterior window frames and sashes with one coat of an exterior paint. The department may require a more frequent repainting of any window frame or sash, as it deems necessary. This subdivision shall not apply to window frames and sashes of approved atmospheric corrosion resistant metal.
+	a.   At least once every five years, the owner of a dwelling shall paint all exterior window frames and sashes with one coat of an exterior paint. The department may require a more frequent repainting of any window frame or sash, as it deems necessary. This subdivision shall not apply to window frames and sashes of approved atmospheric corrosion resistant metal.
 
    b.   The owner of a dwelling shall paint every fire escape with two coats of paint of contrasting colors. The owner shall paint the first coat before and the second after erection of a new fire escape, except that this shall not apply to fire escapes constructed of approved atmospheric corrosion resistant metal. Whenever a fire escape becomes corroded, the owner shall scrape and remove the corrosion products and repaint it with two coats of paint of contrasting colors.
 
@@ -457,7 +457,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2015 Courts and shafts.  ::
 
 
-	   a.   The owner of a multiple dwelling shall whitewash the walls enclosing all courts and shafts not made of light-colored brick or stone or shall paint such walls a light color, and shall maintain them in a clean condition.
+	a.   The owner of a multiple dwelling shall whitewash the walls enclosing all courts and shafts not made of light-colored brick or stone or shall paint such walls a light color, and shall maintain them in a clean condition.
 
    b.   As often as it deems necessary, the department may require the owner of a multiple dwelling:
 
@@ -477,7 +477,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2016 Departmental regulations concerning paint and wall covering and quality and frequency of repainting or re-covering.  ::
 
 
-	   a.   The department may by regulation prescribe or approve the kind and quality of paints or wall covering which may be used to satisfy the requirements of this article.
+	a.   The department may by regulation prescribe or approve the kind and quality of paints or wall covering which may be used to satisfy the requirements of this article.
 
    b.   The department may by regulation extend the time for repainting when in its judgment the particular kind and quality of paint or wall covering used is designed to wear for considerably longer periods of time than the time set for repainting in this article. An owner who uses such long-wearing paints or wall covering shall inform the department prior to his or her doing so in accordance with departmental regulations.
 
@@ -501,7 +501,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2018 Rodent and insect eradication; mandatory extermination.  ::
 
 
-	   a.   The owner or occupant in control of a dwelling shall keep the premises free from rodents, and from infestations of insects and other pests, and from any condition conducive to rodent or insect and other pest life.
+	a.   The owner or occupant in control of a dwelling shall keep the premises free from rodents, and from infestations of insects and other pests, and from any condition conducive to rodent or insect and other pest life.
 
    b.   When any premises are subject to infestation by rodents or insects and other pests, the owner or occupant in control shall apply continuous eradication measures.
 
@@ -513,7 +513,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2018.1 Notice of bedbug infestation history.  ::
 
 
-	   a.   For housing accommodations subject to this code, an owner shall furnish to each tenant signing a vacancy lease, a notice in a form promulgated or approved by the state division of housing and community renewal that sets forth the property's bedbug infestation history for the previous year regarding the premises rented by the tenant and the building in which the premises are located.
+	a.   For housing accommodations subject to this code, an owner shall furnish to each tenant signing a vacancy lease, a notice in a form promulgated or approved by the state division of housing and community renewal that sets forth the property's bedbug infestation history for the previous year regarding the premises rented by the tenant and the building in which the premises are located.
 
    b.   Upon written complaint, in a form promulgated or approved by the division of housing and community renewal, by the tenant that he or she was not furnished with a copy of the notice required pursuant to subdivision a of this section, the division of housing and community renewal shall order the owner to furnish the notice.
 
@@ -531,7 +531,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2018.2 Reporting bedbug infestations. ::
 
 
-	   a.   An owner of a multiple dwelling shall annually report to the department, on an electronic form established by the department, the following information about such multiple dwelling:
+	a.   An owner of a multiple dwelling shall annually report to the department, on an electronic form established by the department, the following information about such multiple dwelling:
 
       1.   The street address;
 
@@ -585,7 +585,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2021 Receptacles for waste matter.  ::
 
 
-	   a.   The owner or occupant in control of a dwelling shall provide and maintain metal cans, or other receptacles jointly approved as to specifications by the department, the department of sanitation and the department of health and mental hygiene, for the exclusive use of each building, which shall be of sufficient size and number to contain the wastes accumulated in such building during a period of seventy-two hours. No receptacle shall be filled to a height so as to prevent the effective closure thereof and no receptacle shall weigh more than one hundred pounds when filled. The receptacles shall be so constructed as to hold their contents without leakage. Metal cans shall be provided with tight-fitting covers and other receptacles shall be effectively closed. When requested by the department of sanitation, the owner or occupant in control shall separate and place in separate receptacles, ashes, organic and inorganic wastes. Nothing contained in this subdivision shall prevent the department, the department of sanitation and the department of health and mental hygiene from jointly approving as to specifications other systems for the disposal of waste utilizing containers of larger size and different construction as may be appropriate for such systems.
+	a.   The owner or occupant in control of a dwelling shall provide and maintain metal cans, or other receptacles jointly approved as to specifications by the department, the department of sanitation and the department of health and mental hygiene, for the exclusive use of each building, which shall be of sufficient size and number to contain the wastes accumulated in such building during a period of seventy-two hours. No receptacle shall be filled to a height so as to prevent the effective closure thereof and no receptacle shall weigh more than one hundred pounds when filled. The receptacles shall be so constructed as to hold their contents without leakage. Metal cans shall be provided with tight-fitting covers and other receptacles shall be effectively closed. When requested by the department of sanitation, the owner or occupant in control shall separate and place in separate receptacles, ashes, organic and inorganic wastes. Nothing contained in this subdivision shall prevent the department, the department of sanitation and the department of health and mental hygiene from jointly approving as to specifications other systems for the disposal of waste utilizing containers of larger size and different construction as may be appropriate for such systems.
 
    b.   Metal cans shall be kept within the dwelling or as required by the department until the time for removal of their contents when they shall be placed in front of the dwelling. When inside storage is required, receptacles of other materials shall be kept in a metal can or a ratproof and fireproof room until the time of their removal when they shall be removed from the metal can and be neatly stacked in front of the dwelling. After the contents have been removed by the department of sanitation, any receptacles remaining shall be returned promptly to their place of storage. Metal cans shall be kept covered at all times and shall be disinfected regularly and maintained in a sanitary condition. Yard sweepings, hedge cuttings, grass, leaves, earth, stone, or bricks shall not be mixed with household wastes.
 
@@ -597,7 +597,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2022 Frequency of collection of waste matter from dwelling units in multiple dwellings.  ::
 
 
-	   a.   The owner of a multiple dwelling shall not allow the accumulation except in a lawful receptacle of ashes or any type of waste matter in any part of the premises.
+	a.   The owner of a multiple dwelling shall not allow the accumulation except in a lawful receptacle of ashes or any type of waste matter in any part of the premises.
 
    b.   In multiple dwellings where the owner provides dumbwaiter service, all waste matter shall be collected at least once daily and deposited in separate receptacles.
 
@@ -649,7 +649,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2027 Drainage of roofs and court yards.  ::
 
 
-	   a.   The owner of a dwelling shall grade and maintain the grading of all roofs, terraces, shafts, courts, yards, and other open spaces on the lot, and shall provide and maintain unobstructed drainage from these areas and spaces through a drain connected to a street storm-water main or combined sewer and street storm-water main. In the absence of a street storm-water main or combined sewer and street storm-water main, the department may permit the storm water from such areas to drain into a street gutter leading to a natural channel, water course, or dry well.
+	a.   The owner of a dwelling shall grade and maintain the grading of all roofs, terraces, shafts, courts, yards, and other open spaces on the lot, and shall provide and maintain unobstructed drainage from these areas and spaces through a drain connected to a street storm-water main or combined sewer and street storm-water main. In the absence of a street storm-water main or combined sewer and street storm-water main, the department may permit the storm water from such areas to drain into a street gutter leading to a natural channel, water course, or dry well.
 
    b.   The owner of a dwelling shall provide and maintain drainage from all roofs to carry off storm water, to prevent it from dripping to the ground, or from causing dampness in walls, ceilings, and open spaces.
 
@@ -675,7 +675,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2029 Minimum temperature to be maintained.  ::
 
 
-	   a.   During the period from October first through May thirty-first, centrally-supplied heat, in any dwelling in which such heat is required to be provided, shall be furnished so as to maintain, in every portion of such dwelling used or occupied for living purposes:
+	a.   During the period from October first through May thirty-first, centrally-supplied heat, in any dwelling in which such heat is required to be provided, shall be furnished so as to maintain, in every portion of such dwelling used or occupied for living purposes:
 
       (1)   between the hours of six a.m. and ten p.m., a temperature of at least sixty-eight degrees Fahrenheit whenever the outside temperature falls below fifty-five degrees; and
 
@@ -703,7 +703,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2032 Gas-fueled or electric heaters.  ::
 
 
-	   a.   Gas-fueled or electric space or water heaters, where permitted by this article as an alternative to a central supply of heat or hot water, shall be governed by the provisions of this section.
+	a.   Gas-fueled or electric space or water heaters, where permitted by this article as an alternative to a central supply of heat or hot water, shall be governed by the provisions of this section.
 
    b.   The capacity, number and location of such heaters shall be such as to furnish the same standard of heat or hot water supply, as the case may be, as is required to be furnished from a central heat or hot water system.
 
@@ -725,7 +725,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2033 Access to boiler room.  ::
 
 
-	   a.   The owner of every multiple dwelling shall have the area, where the building's heating system is located, readily accessible to members of the department to make inspection pursuant to this chapter. In the event such area is kept under lock, a key shall be kept on the premises at all times with such person as the owner shall designate; however, if there is a person residing on the premises who performs janitorial services, such person shall hold the key. The owner shall post a notice in a form approved by the department naming such designated person and his or her location.
+	a.   The owner of every multiple dwelling shall have the area, where the building's heating system is located, readily accessible to members of the department to make inspection pursuant to this chapter. In the event such area is kept under lock, a key shall be kept on the premises at all times with such person as the owner shall designate; however, if there is a person residing on the premises who performs janitorial services, such person shall hold the key. The owner shall post a notice in a form approved by the department naming such designated person and his or her location.
 
    b.   Multiple dwellings owned and operated by the New York city housing authority shall be exempt from the requirements of this section.
 
@@ -735,7 +735,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2034 Space and water heaters.  ::
 
 
-	   a.   Any gas-fueled space or water heater used in any dwelling unit, in addition to the provisions of section 27-2032 of article eight of this subchapter, shall comply with the provisions of this section and with the regulations of the department.
+	a.   Any gas-fueled space or water heater used in any dwelling unit, in addition to the provisions of section 27-2032 of article eight of this subchapter, shall comply with the provisions of this section and with the regulations of the department.
 
    b.   No person shall install or maintain in any dwelling unit a gas fuel-fired space or water heater unless the heater obtains combustion air directly from the outside of the building. In the alternative, a gas fuel-fired water heater that does not obtain its combustion air directly from the outside of the building may be installed, provided that such installation is in compliance with the conditions of subdivision i of section P107.26 of reference standard RS-16 of the building code.
 
@@ -757,7 +757,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2035 Gas-fired refrigerators.  ::
 
 
-	   a.   It shall be unlawful to install or furnish for use or to use, operate, or permit to be used or operated in a dwelling any gas-fired refrigerator:
+	a.   It shall be unlawful to install or furnish for use or to use, operate, or permit to be used or operated in a dwelling any gas-fired refrigerator:
 
       (1)   Which utilizes a water-cooled gas-fired refrigerator unit; or
 
@@ -791,7 +791,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2038 Electric lighting fixtures required in certain public parts of dwellings.  ::
 
 
-	   a.   Subject to any stricter minimum lighting requirement that may be applicable pursuant to the multiple dwelling law, in every multiple dwelling and tenant-occupied two-family dwelling light from electric lighting fixtures and daylight shall in the aggregate provide an illumination level of no less than one foot-candle, measured at the floor level, throughout all public hallways, stairs, fire stairs, and fire towers at all times of the day and night and throughout common laundry rooms at all times that such rooms are occupied. The owner shall install, position, operate and maintain sufficient electric lighting fixtures to assure that the required illumination level is maintained.
+	a.   Subject to any stricter minimum lighting requirement that may be applicable pursuant to the multiple dwelling law, in every multiple dwelling and tenant-occupied two-family dwelling light from electric lighting fixtures and daylight shall in the aggregate provide an illumination level of no less than one foot-candle, measured at the floor level, throughout all public hallways, stairs, fire stairs, and fire towers at all times of the day and night and throughout common laundry rooms at all times that such rooms are occupied. The owner shall install, position, operate and maintain sufficient electric lighting fixtures to assure that the required illumination level is maintained.
 
    b.   The owner of a multiple dwelling shall keep electric lighting fixtures on continuously, during the day as well as at night, in every fire stair and fire tower and in every stairway and public hall with no window opening on a street, court, yard, space above a setback or shaft supplying sufficient illumination to maintain the required illumination level during the daylight hours.
 
@@ -813,7 +813,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2039 Lighting to be provided at night; owner's responsibility. [Repealed]  ::
 
 
-	   a.   The owner of a multiple dwelling shall install and maintain one or more lights at or near the outside of the front entrance way of the building which shall in the aggregate provide not less than one hundred watts incandescent illumination or its equivalent for a building with a frontage up to twenty-two feet, and two hundred watts incandescent illumination or its equivalent or a building with a frontage in excess of twenty-two feet. In the case of a multiple dwelling with a frontage in excess of twenty-two feet and front entrance doors with a combined width in excess of five feet, the owners shall install at least two lights, one on each side of the entrance way, with an aggregate illumination of three hundred watts incandescent illumination or its equivalent. If the minimum level of illumination is maintained, the owner may determine details of location, design and installation of lighting fixtures, subject, however, to regulations of the department with respect to the maximum height above or distance from the entrance way of such fixtures, and the electrical and other safety of their installation. The lights required by this subdivision shall be kept burning from sunset on each day to sunrise on the day following.
+	a.   The owner of a multiple dwelling shall install and maintain one or more lights at or near the outside of the front entrance way of the building which shall in the aggregate provide not less than one hundred watts incandescent illumination or its equivalent for a building with a frontage up to twenty-two feet, and two hundred watts incandescent illumination or its equivalent or a building with a frontage in excess of twenty-two feet. In the case of a multiple dwelling with a frontage in excess of twenty-two feet and front entrance doors with a combined width in excess of five feet, the owners shall install at least two lights, one on each side of the entrance way, with an aggregate illumination of three hundred watts incandescent illumination or its equivalent. If the minimum level of illumination is maintained, the owner may determine details of location, design and installation of lighting fixtures, subject, however, to regulations of the department with respect to the maximum height above or distance from the entrance way of such fixtures, and the electrical and other safety of their installation. The lights required by this subdivision shall be kept burning from sunset on each day to sunrise on the day following.
 
    b.   The owner of a multiple dwelling shall install and maintain in every yard and court one or more lights of at least one hundred watts of incandescent illumination or its equivalent, in such locations as the department may prescribe. The lights required by this subdivision shall be kept burning from sunset on each day to sunrise on the day following.
 
@@ -831,7 +831,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2041.1 Self-closing doors. ::
 
 
-	   a.   It shall be the duty of the owner of a multiple dwelling, which is required to be equipped with self-closing doors pursuant to section 28-315.10, or any other applicable law, to keep and maintain such doors in good repair.
+	a.   It shall be the duty of the owner of a multiple dwelling, which is required to be equipped with self-closing doors pursuant to section 28-315.10, or any other applicable law, to keep and maintain such doors in good repair.
 
    b.   Any owner required to keep and maintain self-closing doors pursuant to subdivision a of this section who fails to keep or maintain such doors shall be liable for a class C immediately hazardous violation. Notwithstanding any other provision of law to the contrary, the time within which to correct such violation shall be twenty-one days after service of the notice of violation.
 
@@ -851,7 +851,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2043 Locks in dwelling unit doors.  ::
 
 
-	   a.   The owner of a dwelling shall provide a key lock in the entrance door to each dwelling unit and at least one key. In a class A multiple dwelling such door shall be equipped with a heavy duty latch set and a heavy duty dead bolt operable by a key from the outside and a thumb-turn from the inside.
+	a.   The owner of a dwelling shall provide a key lock in the entrance door to each dwelling unit and at least one key. In a class A multiple dwelling such door shall be equipped with a heavy duty latch set and a heavy duty dead bolt operable by a key from the outside and a thumb-turn from the inside.
 
    b.   Each dwelling unit entrance door in a class A multiple dwelling shall also be equipped with a chain door guard so as to permit partial opening of the door.
 
@@ -861,7 +861,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2043.1 Window guards.  ::
 
 
-	   a.   An owner of a multiple dwelling and an owner of a dwelling unit in a multiple dwelling owned as a condominium shall provide, install and maintain a window guard, in accordance with specifications established by the department of health and mental hygiene, on each window of each dwelling unit in which a child ten years of age or under resides, and on the windows, if any, in the public areas of a multiple dwelling in which such a child resides.
+	a.   An owner of a multiple dwelling and an owner of a dwelling unit in a multiple dwelling owned as a condominium shall provide, install and maintain a window guard, in accordance with specifications established by the department of health and mental hygiene, on each window of each dwelling unit in which a child ten years of age or under resides, and on the windows, if any, in the public areas of a multiple dwelling in which such a child resides.
 
    b.   Subdivision a of this section shall not apply to a window that gives access to a fire escape or to a window that is a required means of egress from a dwelling unit on the first floor of a multiple dwelling.
 
@@ -879,7 +879,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2044 Fire protection in certain old law tenements.  ::
 
 
-	   a.   In every old law tenement which is less than four stories in height:
+	a.   In every old law tenement which is less than four stories in height:
 
       (1)   Every door opening into any entrance hall or stair, or into any public hall connected therewith, shall be self-closing; every glazed opening or glazed panel in such a door shall be glazed with wire glass, and every transom opening upon any public hall shall be glazed with wire glass firmly secured in a closed position; and
 
@@ -903,7 +903,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2045 Duties of owner and occupant with respect to installation and maintenance of smoke detecting devices in class A multiple dwellings.  ::
 
 
-	   a.   It shall be the duty of the owner of a class A multiple dwelling which is required to be equipped with smoke detecting devices pursuant to section 907.2 of the New York city building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code to:
+	a.   It shall be the duty of the owner of a class A multiple dwelling which is required to be equipped with smoke detecting devices pursuant to section 907.2 of the New York city building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code to:
 
       (1)   provide and install one or more approved and operational smoke detecting devices in each dwelling unit and replace such devices in accordance with article 312 of chapter 3 of title 28 of the administrative code of the city of New York. Such devices shall be installed at locations specified in reference standard 17-12 of the 1968 building code or section 907.2.10 of the New York city building code, as applicable.
 
@@ -949,7 +949,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2046.1 Duties of owner and occupant with respect to installation and maintenance of carbon monoxide detecting devices in class A multiple dwellings and private dwellings.  ::
 
 
-	   a.   As used in paragraphs two through six of subdivision b of this section, the term "private dwelling" shall mean a dwelling unit in a one-family or two-family home which is occupied by a person or persons other than the owner of such unit or the owner's family.
+	a.   As used in paragraphs two through six of subdivision b of this section, the term "private dwelling" shall mean a dwelling unit in a one-family or two-family home which is occupied by a person or persons other than the owner of such unit or the owner's family.
 
    b.   It shall be the duty of the owner of a class A multiple dwelling and a private dwelling which is required to be equipped with one or more carbon monoxide detecting devices pursuant to section 908.7 of the New York city building code or sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code to:
 
@@ -985,7 +985,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2046.2 Duties of owner and occupant with respect to installation and maintenance of carbon monoxide detecting devices in class B multiple dwellings.  ::
 
 
-	   a.   It shall be the duty of the owner of a class B multiple dwelling which is required to be equipped with one or more carbon monoxide detecting devices pursuant to section 908.7 of the New York city building code or sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code to:
+	a.   It shall be the duty of the owner of a class B multiple dwelling which is required to be equipped with one or more carbon monoxide detecting devices pursuant to section 908.7 of the New York city building code or sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code to:
 
       (1)   provide and install one or more approved and operational carbon monoxide detecting devices in each dwelling unit or in the alternative, provide and install a line-operated zoned carbon monoxide detecting system with central annunciation and central office tie-in for all public corridors and public spaces, pursuant to rules promulgated by the commissioner in consultation with the department of buildings and the fire department;
 
@@ -1005,7 +1005,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2046.3 Safety devices for certain electrical outlets required. ::
 
 
-	   a.   The owner of a multiple dwelling shall install and maintain protective caps, covers or other safety devices over electrical outlets in the public parts of such multiple dwelling, except that (1) such devices shall not be required in public parts used exclusively for mechanical equipment or storage purposes, and (2) such devices shall not be required for electrical outlets that are listed tamper-resistant receptacles in accordance with the New York city electrical code.
+	a.   The owner of a multiple dwelling shall install and maintain protective caps, covers or other safety devices over electrical outlets in the public parts of such multiple dwelling, except that (1) such devices shall not be required in public parts used exclusively for mechanical equipment or storage purposes, and (2) such devices shall not be required for electrical outlets that are listed tamper-resistant receptacles in accordance with the New York city electrical code.
 
    b.   An owner who fails to install or maintain protective caps, covers or other safety devices in accordance with this section shall be liable for a class A violation.
 
@@ -1015,7 +1015,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2046.4 Stovetop protection. ::
 
 
-	   a.   An owner of a unit in a multiple dwelling, other than a dwelling unit in a multiple dwelling owned as a condominium or cooperative and used as the primary residence of such owner, shall provide stove knob covers for each knob located on the front of each gas-powered stove to tenants in each dwelling unit in which the owner knows or reasonably should know a child under six years of age resides, except where such owner has documented proof that there is no available stove knob cover that is compatible with the knobs on such stove. Such stove knob covers shall be made available within thirty days of such owner providing the notice required in subdivision b of this section unless such owner has previously made such stove knob covers available to the tenant and the tenant has not requested a replacement.
+	a.   An owner of a unit in a multiple dwelling, other than a dwelling unit in a multiple dwelling owned as a condominium or cooperative and used as the primary residence of such owner, shall provide stove knob covers for each knob located on the front of each gas-powered stove to tenants in each dwelling unit in which the owner knows or reasonably should know a child under six years of age resides, except where such owner has documented proof that there is no available stove knob cover that is compatible with the knobs on such stove. Such stove knob covers shall be made available within thirty days of such owner providing the notice required in subdivision b of this section unless such owner has previously made such stove knob covers available to the tenant and the tenant has not requested a replacement.
 
    b.   1.   Such owner shall provide an annual notice to each tenant of a unit regarding the owner’s obligation to provide stove knob covers pursuant to subdivision a of this section. Such notice shall inform the tenant of his or her option to refuse stove knob covers.
 
@@ -1091,7 +1091,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2053 Obligations of owner.  ::
 
 
-	   a.   The owner of a multiple dwelling shall provide adequate janitorial services.
+	a.   The owner of a multiple dwelling shall provide adequate janitorial services.
 
    b.   In a multiple dwelling of nine or more dwelling units, the owner shall either:
 
@@ -1117,7 +1117,7 @@ Chapter 2: Housing Maintenance Code
 § 27-2055 Certification of competency.  ::
 
 
-	   a.   Except as provided in subdivision b of this section, the owner who is required to employ a janitor shall certify in writing to the department that such owner's janitor is competent to perform janitorial services required to be performed by this article in a competent fashion and is capable of operating the incinerator and the furnace, boiler and other machinery that provides central heat and hot water. The owner shall submit a new certificate of the janitor's competency to the department no later than sixty days after hiring a new janitor.
+	a.   Except as provided in subdivision b of this section, the owner who is required to employ a janitor shall certify in writing to the department that such owner's janitor is competent to perform janitorial services required to be performed by this article in a competent fashion and is capable of operating the incinerator and the furnace, boiler and other machinery that provides central heat and hot water. The owner shall submit a new certificate of the janitor's competency to the department no later than sixty days after hiring a new janitor.
 
    b.   No such certification shall be required concerning a janitor who has satisfactorily completed a course of not less than fifteen hours given or approved by the department of buildings in the basic skills required for the performance of janitorial services. Such course should include, but need not be limited to, instruction on operation of the central heating plant; replacement of the smoke pipe from the furnace to the chimney; and the making of necessary minor repairs, such as replacement of washers and water faucets. Courses approved by the department of buildings may be offered by a school, association, labor union or other public agency.
 
@@ -1199,7 +1199,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.4 Owners' responsibility to notify occupants and to investigate.  ::
 
 
-	   a.   In any dwelling unit in a multiple dwelling erected prior to January first, nineteen hundred sixty where a child of applicable age resides, and in any dwelling unit in a multiple dwelling erected on or after January first, nineteen hundred sixty and before January first, nineteen hundred seventy-eight where a child of applicable age resides and the owner has actual knowledge of the presence of lead-based paint, and in common areas of such multiple dwellings, the owner shall cause an investigation to be made for peeling paint, chewable surfaces, deteriorated subsurfaces, friction surfaces and impact surfaces. Such investigation shall be undertaken at least once a year and more often if necessary, such as when, in the exercise of reasonable care, an owner knows or should have known of a condition that is reasonably foreseeable to cause a lead-based paint hazard, or an occupant makes a complaint concerning a condition that is likely to cause a lead-based paint hazard or requests an inspection, or the department issues a notice of violation or orders the correction of a violation that is likely to cause a lead-based paint hazard. The owner shall ascertain whether a child resides therein pursuant to the requirements of this section.
+	a.   In any dwelling unit in a multiple dwelling erected prior to January first, nineteen hundred sixty where a child of applicable age resides, and in any dwelling unit in a multiple dwelling erected on or after January first, nineteen hundred sixty and before January first, nineteen hundred seventy-eight where a child of applicable age resides and the owner has actual knowledge of the presence of lead-based paint, and in common areas of such multiple dwellings, the owner shall cause an investigation to be made for peeling paint, chewable surfaces, deteriorated subsurfaces, friction surfaces and impact surfaces. Such investigation shall be undertaken at least once a year and more often if necessary, such as when, in the exercise of reasonable care, an owner knows or should have known of a condition that is reasonably foreseeable to cause a lead-based paint hazard, or an occupant makes a complaint concerning a condition that is likely to cause a lead-based paint hazard or requests an inspection, or the department issues a notice of violation or orders the correction of a violation that is likely to cause a lead-based paint hazard. The owner shall ascertain whether a child resides therein pursuant to the requirements of this section.
 
    b.   No occupant in a dwelling unit in such multiple dwelling shall refuse or unreasonably fail to provide accurate and truthful information regarding the residency of a child of applicable age therein, nor shall an occupant refuse access to the owner at a reasonable time and upon reasonable prior notice to any part of the dwelling unit for the purpose of investigation and repair of lead-based paint hazards.
 
@@ -1239,7 +1239,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.5 Presumption.  ::
 
 
-	   a.   In any multiple dwelling erected prior to January 1, 1960, it shall be presumed that the paint or other similar surface-coating material in any dwelling unit where a child of applicable age resides or in the common areas is lead-based paint. The presumption established by this section may be rebutted by the owner of the dwelling or dwelling unit by submitting to the department a sworn written statement by the owner supported by lead-based paint testing or sampling results, a sworn written statement by the person who performed the testing if performed by an employee or agent of the owner, and such other proof as the department may require. Testing performed to rebut the presumption may only be performed by a person who has been certified as an inspector or risk assessor in accordance with subparts L and Q of 40 CFR part 745 or any successor regulations. The determination as to whether such proof is adequate to rebut the presumption established by this section shall be made by the department.
+	a.   In any multiple dwelling erected prior to January 1, 1960, it shall be presumed that the paint or other similar surface-coating material in any dwelling unit where a child of applicable age resides or in the common areas is lead-based paint. The presumption established by this section may be rebutted by the owner of the dwelling or dwelling unit by submitting to the department a sworn written statement by the owner supported by lead-based paint testing or sampling results, a sworn written statement by the person who performed the testing if performed by an employee or agent of the owner, and such other proof as the department may require. Testing performed to rebut the presumption may only be performed by a person who has been certified as an inspector or risk assessor in accordance with subparts L and Q of 40 CFR part 745 or any successor regulations. The determination as to whether such proof is adequate to rebut the presumption established by this section shall be made by the department.
 
    b.   The owner of a dwelling or a dwelling unit may apply to the department to have such dwelling or dwelling unit exempted from the presumption contained in subdivision a of this section when either (i) an inspection for lead-based paint in such dwelling or dwelling unit, performed in accordance with 40 CFR § 745.227, or any successor regulation, has determined that there is no lead-based paint present in such dwelling or dwelling unit, or (ii) substantial alterations have been made to such dwelling or dwelling unit and such alterations have resulted in the removal or permanent covering of all lead-based paint in that dwelling or dwelling unit. The department shall by rule determine the requirements needed to qualify for such an exemption. Sections 27-2056.4, 27-2056.8 and 27-2056.9 of this article shall not apply to any dwelling or dwelling unit that has been granted an exemption by the department.
 
@@ -1257,7 +1257,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.7 Audit and inspection by department following commissioner's order to abate.  ::
 
 
-	   a.   When the department of health and mental hygiene issues a commissioner's order to abate pursuant to section 173.13 of the New York city health code or a successor rule that addresses lead-based paint hazards in a specific dwelling unit in a multiple dwelling, the department, within fifteen days of such order, shall notify the owner of the multiple dwelling where the dwelling unit is located that the owner shall, within forty-five days of the department's notice, provide to the department all records required to be maintained under this article. Upon the department's receipt of those records and a determination that there may exist uncorrected lead-based paint hazards in dwelling units where a child of applicable age resides, the department within ten days shall attempt to inspect such units to determine whether there are any violations of section 27-2056.6 of this article.
+	a.   When the department of health and mental hygiene issues a commissioner's order to abate pursuant to section 173.13 of the New York city health code or a successor rule that addresses lead-based paint hazards in a specific dwelling unit in a multiple dwelling, the department, within fifteen days of such order, shall notify the owner of the multiple dwelling where the dwelling unit is located that the owner shall, within forty-five days of the department's notice, provide to the department all records required to be maintained under this article. Upon the department's receipt of those records and a determination that there may exist uncorrected lead-based paint hazards in dwelling units where a child of applicable age resides, the department within ten days shall attempt to inspect such units to determine whether there are any violations of section 27-2056.6 of this article.
 
    b.   If the owner does not provide to the department the records as mandated by subdivision a of this section, the department shall within forty-five days of such failure attempt to inspect dwelling units where a child of applicable age resides to determine whether there are any violations of section 27-2056.6 of this article in such units.
 
@@ -1271,7 +1271,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.8 Violation in a dwelling unit upon turnover.  ::
 
 
-	   a.   Upon turnover of any dwelling unit in a multiple dwelling erected prior to January 1, 1960 or a dwelling unit in a private dwelling erected prior to January 1, 1960 where each dwelling unit is to be occupied by persons other than the owner or the owner's family, the owner shall within such dwelling unit have the responsibility to:
+	a.   Upon turnover of any dwelling unit in a multiple dwelling erected prior to January 1, 1960 or a dwelling unit in a private dwelling erected prior to January 1, 1960 where each dwelling unit is to be occupied by persons other than the owner or the owner's family, the owner shall within such dwelling unit have the responsibility to:
 
       (1)   remediate all lead-based paint hazards and any underlying defects, when such underlying defects exist;
 
@@ -1291,7 +1291,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.9 Department inspections.  ::
 
 
-	   a.   When entering a dwelling unit in a multiple dwelling constructed prior to January 1, 1960 for the purpose of investigating the existence of any violation of this code, the department shall make diligent efforts to ascertain whether a child of applicable age resides therein and shall request from the occupant an acknowledgement as to whether such a child resides in the dwelling unit. Whenever a child of applicable age resides in a dwelling unit, the department shall immediately perform a room-by-room inspection of the dwelling unit and record for each room in a report of such inspection whether the paint or other similar surface-coating material in each room is peeling or intact. For each room where peeling paint is found, the department shall also inspect for evidence of an underlying defect and shall indicate on the inspection report the peeling paint's location within the room, the condition of the subsurface below it, and the location of any underlying defect. When performing such inspection, the department need only inspect those portions of the dwelling unit where furniture or other furnishings do not obstruct the view of a surface, except when there is visible evidence that causes the department to believe that the obstructed surface has peeling paint. Where, upon conducting an inspection, the department determines the existence of a condition constituting a violation of this article, the department shall serve a notice of violation within ten additional days.
+	a.   When entering a dwelling unit in a multiple dwelling constructed prior to January 1, 1960 for the purpose of investigating the existence of any violation of this code, the department shall make diligent efforts to ascertain whether a child of applicable age resides therein and shall request from the occupant an acknowledgement as to whether such a child resides in the dwelling unit. Whenever a child of applicable age resides in a dwelling unit, the department shall immediately perform a room-by-room inspection of the dwelling unit and record for each room in a report of such inspection whether the paint or other similar surface-coating material in each room is peeling or intact. For each room where peeling paint is found, the department shall also inspect for evidence of an underlying defect and shall indicate on the inspection report the peeling paint's location within the room, the condition of the subsurface below it, and the location of any underlying defect. When performing such inspection, the department need only inspect those portions of the dwelling unit where furniture or other furnishings do not obstruct the view of a surface, except when there is visible evidence that causes the department to believe that the obstructed surface has peeling paint. Where, upon conducting an inspection, the department determines the existence of a condition constituting a violation of this article, the department shall serve a notice of violation within ten additional days.
 
    b.   In any dwelling unit in a multiple dwelling erected prior to January 1, 1960 where a child of applicable age resides, the department shall conduct an inspection pursuant to subdivision a of this section no later than ten days after the department's receipt of a complaint describing peeling paint, or a deteriorated subsurface or underlying defect in the dwelling unit. The department shall make diligent efforts to ascertain whether a child of applicable age resides therein. Where the department attempts to perform an inspection of a dwelling unit within the time period required by this subdivision but is unable to gain access, the department shall be required to make a reasonable attempt to gain access to such dwelling unit within five days of such attempt. If the department is unable to gain access to that dwelling unit during this additional time period, the department shall provide written notice to the occupant of such dwelling unit that no further attempts at access shall be made unless a new complaint is submitted.
 
@@ -1309,7 +1309,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.10 Department implementation and enforcement.  ::
 
 
-	   a.   The department shall provide appropriate training for lead-based paint inspection and supervisory personnel. Department personnel who conduct a visual inspection pursuant to this article shall receive training which at a minimum, shall be the training approved by the United States department of housing and urban development for performance of visual inspections. Department personnel who perform lead-based paint inspections using XRF machines shall receive training required by the United States environmental protection agency pursuant to 40 CFR § 745.226(b) or successor regulations. Training of all inspection and supervisory personnel shall also include background information pertaining to applicable state and local lead-based paint laws and guidance on identifying violations in a multiple dwelling, and require that the individual has successfully demonstrated knowledge of the requirements of this article. The department shall provide for the continuing education of inspection and supervisory personnel.
+	a.   The department shall provide appropriate training for lead-based paint inspection and supervisory personnel. Department personnel who conduct a visual inspection pursuant to this article shall receive training which at a minimum, shall be the training approved by the United States department of housing and urban development for performance of visual inspections. Department personnel who perform lead-based paint inspections using XRF machines shall receive training required by the United States environmental protection agency pursuant to 40 CFR § 745.226(b) or successor regulations. Training of all inspection and supervisory personnel shall also include background information pertaining to applicable state and local lead-based paint laws and guidance on identifying violations in a multiple dwelling, and require that the individual has successfully demonstrated knowledge of the requirements of this article. The department shall provide for the continuing education of inspection and supervisory personnel.
 
    b.   The department, with the approval of the department of health and mental hygiene, shall promulgate a comprehensive written procedure to guide department personnel in implementing and enforcing this article. Where feasible, such procedures shall establish a uniform method for the department of health and mental hygiene and the department, following the method implemented by the department of health and mental hygiene, to describe violations and identify their location in a dwelling or dwelling unit. Such procedures shall include a methodology and a form to be used by department personnel when conducting an inspection to carry out and record an inspection pursuant to section 27-2056.9 of this article.
 
@@ -1337,7 +1337,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.11 Work practices.  ::
 
 
-	   a.   The department shall promulgate rules, with the approval of the department of health and mental hygiene, establishing work practices to which an owner shall be subject in each of the following circumstances:
+	a.   The department shall promulgate rules, with the approval of the department of health and mental hygiene, establishing work practices to which an owner shall be subject in each of the following circumstances:
 
       (1)   where an owner is performing work in order to comply with a notice of violation or order to correct issued by the department pursuant to this article, which shall be no less stringent than the safety standards required by the commissioner of health and mental hygiene whenever such commissioner shall order the abatement of lead-based paint hazards pursuant to section 173.13 of the health code or a successor rule. Such rules shall provide for temporary relocation provided by the owner of the occupants of a dwelling or dwelling unit to appropriate housing when work cannot be performed safely. Such rules shall provide that all such work be performed only by firms which have received certification to perform lead abatement under the regulations issued by the United States environmental protection agency at subpart L of 40 CFR part 745, or any successor regulations.
 
@@ -1375,7 +1375,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.12 Reporting.  ::
 
 
-	   a.   Within four months after the close of the first fiscal year after which this article takes effect and for every fiscal year thereafter, the commissioner shall provide to the council a written report on the department's implementation of this article during the preceding year. Such report shall include, at a minimum, an analysis of the department's program, a detailed statement of revenue and expenditures and statistical section designed to provide a detailed explanation of the department's enforcement including, but not limited to, the following:
+	a.   Within four months after the close of the first fiscal year after which this article takes effect and for every fiscal year thereafter, the commissioner shall provide to the council a written report on the department's implementation of this article during the preceding year. Such report shall include, at a minimum, an analysis of the department's program, a detailed statement of revenue and expenditures and statistical section designed to provide a detailed explanation of the department's enforcement including, but not limited to, the following:
 
       (1)   the number of complaints for peeling paint in pre-1960 dwelling units where a child of applicable age resides, disaggregated by city or non-city ownership of the building which is the subject of the complaint;
 
@@ -1415,7 +1415,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2056.15 Waiver of benefit void.  ::
 
 
-	   a.   No owner may seek to have an occupant of a dwelling unit waive the benefit or protection of any provision of this article. Any agreement by the occupant of a dwelling unit purporting to waive the benefit or protection of any provision of this article is void. Any owner who violates this section, or the rules promulgated hereunder, shall be guilty of a misdemeanor punishable by a fine of up to five hundred dollars or imprisonment for up to six months or both. In addition, any owner who violates this section shall be liable for a civil penalty of not more than five hundred dollars per violation.
+	a.   No owner may seek to have an occupant of a dwelling unit waive the benefit or protection of any provision of this article. Any agreement by the occupant of a dwelling unit purporting to waive the benefit or protection of any provision of this article is void. Any owner who violates this section, or the rules promulgated hereunder, shall be guilty of a misdemeanor punishable by a fine of up to five hundred dollars or imprisonment for up to six months or both. In addition, any owner who violates this section shall be liable for a civil penalty of not more than five hundred dollars per violation.
 
    b.   Notwithstanding any other provision of this article, nothing herein shall be construed to alter existing or future agreements which allocate responsibility for compliance with the provisions of this article between a tenant shareholder and a cooperative corporation or between the owner of a condominium unit and the board of managers of such condominium.
 
@@ -1451,7 +1451,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2057 Lighting and ventilation in multiple dwellings; general requirements.  ::
 
 
-	   a.   No multiple dwelling shall be so altered as to diminish the light and ventilation of any room in any way not approved by the department.
+	a.   No multiple dwelling shall be so altered as to diminish the light and ventilation of any room in any way not approved by the department.
 
    b.   Every required window shall be so located as to light properly all portions of the room.
 
@@ -1463,7 +1463,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2058 Lighting and ventilation of living rooms in multiple dwellings erected after nineteen hundred twenty-nine.  ::
 
 
-	   a.   Required windows. Every living room in a multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine, shall have at least one window opening on:
+	a.   Required windows. Every living room in a multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine, shall have at least one window opening on:
 
       (1)   a street;
 
@@ -1505,7 +1505,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2059 Lighting and ventilation of living rooms in converted dwellings.  ::
 
 
-	   a.   Required windows. Except as provided in subdivision c, every living room in a converted dwelling shall have at least one window opening on:
+	a.   Required windows. Except as provided in subdivision c, every living room in a converted dwelling shall have at least one window opening on:
 
       (1)   A street,
 
@@ -1535,7 +1535,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2060 Lighting and ventilation of living rooms in new law tenements.  ::
 
 
-	   a.   Required windows. Every living room in a new law tenement shall have a window opening on:
+	a.   Required windows. Every living room in a new law tenement shall have a window opening on:
 
       (1)   A street, or
 
@@ -1569,7 +1569,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2061 Lighting and ventilation of living rooms in old law tenements.  ::
 
 
-	   a.   Required windows. Every living room in an old law tenement shall either have a window opening:
+	a.   Required windows. Every living room in an old law tenement shall either have a window opening:
 
       (1)   On a street; or
 
@@ -1591,7 +1591,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2062 Lighting and ventilation in one- and two-family dwellings.  ::
 
 
-	   a.   Required windows. Every living room shall have at least one window open to a street, public place or an open and unobstructed yard, court or other required open space on the same lot as the dwelling.
+	a.   Required windows. Every living room shall have at least one window open to a street, public place or an open and unobstructed yard, court or other required open space on the same lot as the dwelling.
 
    b.   Size of windows; substitutes for windows.
 
@@ -1613,7 +1613,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2063 Location of water closets.  ::
 
 
-	   a.   Water closets are prohibited in any yard, court or other open space. The owner shall remove any such existing water closet or other similar receptacle and, under the direction of the department, disinfect the area where such receptacle was located.
+	a.   Water closets are prohibited in any yard, court or other open space. The owner shall remove any such existing water closet or other similar receptacle and, under the direction of the department, disinfect the area where such receptacle was located.
 
    b.   Water closets are prohibited in a cellar or basement, unless they are either provided for lawful cellar and basement dwelling units, or are supplementary to water closets required under the provisions of this article.
 
@@ -1631,7 +1631,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2064 Size and construction of water closet compartments.  ::
 
 
-	   a.   Every water closet compartment shall be at least two feet, four inches in clear width.
+	a.   Every water closet compartment shall be at least two feet, four inches in clear width.
 
    b.   The walls enclosing every water closet compartment shall extend from floor to ceiling except in general toilet or bath rooms.
 
@@ -1649,7 +1649,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2065 Light and ventilation of water closet compartments.  ::
 
 
-	   a.   In every water closet compartment, bathroom and general toilet room one of the following requirements for light and ventilation shall be met:
+	a.   In every water closet compartment, bathroom and general toilet room one of the following requirements for light and ventilation shall be met:
 
       (1)   There shall be a window opening upon a street, yard, court, partially enclosed balcony or space above a setback, on an offset or recess which may be less than six feet in width. Every such window shall be at least three square feet in area and one-half of its area shall open.
 
@@ -1665,7 +1665,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2066 Sanitary facilities in apartments.  ::
 
 
-	   a.   Multiple dwellings erected after nineteen hundred twenty-nine:
+	a.   Multiple dwellings erected after nineteen hundred twenty-nine:
 
       (1)   Every apartment in a multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine shall contain a water closet and a bath.
 
@@ -1705,7 +1705,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2067 Sanitary facilities in rooming units.  ::
 
 
-	   a.   Every building containing rooming units, and each individual apartment used for single room occupancy, shall contain at least one water closet, washbasin and bath or shower for each six persons lawfully occupying rooming units therein, and for any remainder of less than six persons. At least one water closet shall be located on any floor containing a rooming unit. If there are not more than two rooms on the first story above the basement in said rooming house, no water closet is required on such floor but the occupants of the room shall be counted in determining the required number of facilities.
+	a.   Every building containing rooming units, and each individual apartment used for single room occupancy, shall contain at least one water closet, washbasin and bath or shower for each six persons lawfully occupying rooming units therein, and for any remainder of less than six persons. At least one water closet shall be located on any floor containing a rooming unit. If there are not more than two rooms on the first story above the basement in said rooming house, no water closet is required on such floor but the occupants of the room shall be counted in determining the required number of facilities.
 
    b.   Every occupant of a rooming unit shall have access to each required water closet, washbasin and bath or shower without passing through any other rooming unit or portion of the dwelling reserved for other occupants.
 
@@ -1719,7 +1719,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2068 Sanitary facilities in certain multiple dwellings erected after nineteen hundred twenty-nine.  ::
 
 
-	   a.   Fireproof multiple dwelling. In a fireproof multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine, in which any living room opens directly upon a public hall without any intervening room, foyer or passage, or in which any suites of two living rooms open upon a foyer giving direct access to a public hall, there shall be one water closet for every three such living rooms on a story. Every such water closet shall be accessible to one or more such rooms without passage through a public hall or bedroom. In a class B multiple dwelling, where any such living room does not have access to a water closet without passage through a public hall or bedroom, there shall be at least one water closet for every such fifteen living rooms or fraction thereof, and every such living room shall have access to a water closet through a public hall.
+	a.   Fireproof multiple dwelling. In a fireproof multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine, in which any living room opens directly upon a public hall without any intervening room, foyer or passage, or in which any suites of two living rooms open upon a foyer giving direct access to a public hall, there shall be one water closet for every three such living rooms on a story. Every such water closet shall be accessible to one or more such rooms without passage through a public hall or bedroom. In a class B multiple dwelling, where any such living room does not have access to a water closet without passage through a public hall or bedroom, there shall be at least one water closet for every such fifteen living rooms or fraction thereof, and every such living room shall have access to a water closet through a public hall.
 
    b.   Fireproof class B dwelling. In a fireproof class B multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine, in which every living room, excluding rooms occupied by management and maintenance personnel of the dwelling, opens directly to a public hall without passing through any other room, foyer or private hall, there shall be two water closets for the first twenty living rooms or fraction thereof, and one additional water closet for each additional fifteen living rooms or fraction thereof. Such water closets may be located in compartments or in general toilet rooms accessible from every living room on the floor. A urinal may be substituted for a water closet on any story where seventeen or more rooms are occupied exclusively by males, but not more than one-quarter of the required facilities may be urinals.
 
@@ -1741,7 +1741,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2070 Facilities and equipment.  ::
 
 
-	   a.   The owner of a multiple dwelling shall provide every kitchen and kitchenette therein with gas or electricity or both for cooking.
+	a.   The owner of a multiple dwelling shall provide every kitchen and kitchenette therein with gas or electricity or both for cooking.
 
    b.   The owner of a multiple dwelling shall provide every kitchen and kitchenette therein with a sink with running water, equipped with a waste and trap at least two inches in diameter.
 
@@ -1769,7 +1769,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2072 Fire protection.  ::
 
 
-	   a.   In a multiple dwelling, the owner shall fire-retard in every kitchen and kitchenette all combustible material immediately underneath or within one foot of any apparatus used for cooking or warming food; or shall cover such combustible material with asbestos of at least three-sixteenths of an inch in thickness and twenty-six gauge metal, or with fire resistive material of equivalent rating, except where such cooking or warming apparatus is installed in accordance with requirements established by the department in conformity with generally accepted safety standards. There shall be at least two feet of clear space above the exposed cooking surface of any such apparatus.
+	a.   In a multiple dwelling, the owner shall fire-retard in every kitchen and kitchenette all combustible material immediately underneath or within one foot of any apparatus used for cooking or warming food; or shall cover such combustible material with asbestos of at least three-sixteenths of an inch in thickness and twenty-six gauge metal, or with fire resistive material of equivalent rating, except where such cooking or warming apparatus is installed in accordance with requirements established by the department in conformity with generally accepted safety standards. There shall be at least two feet of clear space above the exposed cooking surface of any such apparatus.
 
    b.   In a multiple dwelling, the owner shall, in every kitchenette, either fire-retard the ceilings and walls, exclusive of doors, or install one or more sprinkler heads to fuse at a temperature not higher than two hundred and twelve degrees Fahrenheit. Such heads shall be connected to the water supply through a pipe of at least one-half inch in diameter. Any kitchenette which was accepted or approved by the department on or before July first, nineteen hundred fifty-two and maintained in accordance with such acceptance or approval shall be deemed to be in compliance with this subdivision.
 
@@ -1799,7 +1799,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2074 Minimum room sizes.  ::
 
 
-	   a.   In all multiple dwellings erected after April eighteenth, nineteen hundred twenty-nine, every living room shall have a minimum height of eight feet, except as required for cellars and basements in section 27-2082 or 27-2083 of article five of this subchapter. In a multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine pursuant to plans filed and approved prior to December ninth, nineteen hundred fifty-five, and classified and recorded in the department, at least one living room in an apartment shall have a minimum floor area of one hundred thirty-two square feet; if erected, constructed or altered pursuant to plans filed on or after December ninth, nineteen hundred fifty-five, one living room shall have a minimum floor area of one hundred fifty square feet. Every other living room of an apartment in a multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine shall contain eighty square feet and have a least minimum dimension of eight feet, except:
+	a.   In all multiple dwellings erected after April eighteenth, nineteen hundred twenty-nine, every living room shall have a minimum height of eight feet, except as required for cellars and basements in section 27-2082 or 27-2083 of article five of this subchapter. In a multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine pursuant to plans filed and approved prior to December ninth, nineteen hundred fifty-five, and classified and recorded in the department, at least one living room in an apartment shall have a minimum floor area of one hundred thirty-two square feet; if erected, constructed or altered pursuant to plans filed on or after December ninth, nineteen hundred fifty-five, one living room shall have a minimum floor area of one hundred fifty square feet. Every other living room of an apartment in a multiple dwelling erected after April eighteenth, nineteen hundred twenty-nine shall contain eighty square feet and have a least minimum dimension of eight feet, except:
 
       (1)   A kitchen;
 
@@ -1843,7 +1843,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2075 Maximum permitted occupancy.  ::
 
 
-	   a.   No dwelling unit shall be occupied by a greater number of persons than is permitted by this section.
+	a.   No dwelling unit shall be occupied by a greater number of persons than is permitted by this section.
 
       (1)   Every person occupying an apartment in a class A or class B multiple dwelling or in a tenant-occupied apartment in a one- or two-family dwelling shall have a livable area of not less than eighty square feet. The maximum number of persons who may occupy any such apartment shall be determined by dividing the total livable floor area of the apartment by eighty square feet. For every two persons who may lawfully occupy an apartment, one child under four may also reside therein, except that a child under four is permitted in an apartment lawfully occupied by one person. No residual floor area of less than eighty square feet shall be counted in determining the maximum permitted occupancy for such apartment. The floor area of a kitchen or kitchenette shall be included in measuring the total liveable floor area of an apartment but the floor area for private halls, foyers, bathrooms or water closets shall be excluded.
 
@@ -1863,7 +1863,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2076 Prohibited occupancies.  ::
 
 
-	   a.   No kitchen shall be occupied for sleeping purposes.
+	a.   No kitchen shall be occupied for sleeping purposes.
 
    b.   No rooming unit shall be occupied by a family with a child under the age of sixteen years, except that if a child is born to a family residing in such accommodations, the unlawful occupancy shall not commence until one year after the birth of such child. In any case where such an unlawful occupancy continues for ten days after the service of a notice of violation upon both the tenant and owner, the department may, in addition to all other remedies, institute a proceeding for an injunction pursuant to article four of subchapter five of this chapter to obtain an order requiring that such violation be remedied by eviction or removal of the tenant. The provisions of this subdivision shall not prohibit such occupancy (1) in rooming units operated without profit by an educational, religious or charitable institution of the type described and for the purposes set forth in subdivision a of section 27-2077 of this article, or (2) in a summer resort dwelling.
 
@@ -1873,7 +1873,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2077 Conversions to rooming units prohibited.  ::
 
 
-	   a.   No rooming unit which was not classified and recorded as such in the department prior to May fifteenth, nineteen hundred fifty-four or converted to such use prior to April thirtieth, nineteen hundred fifty-six, shall be created in any dwelling, whether such conversion is effected with or without physical alterations, except for rooming units:
+	a.   No rooming unit which was not classified and recorded as such in the department prior to May fifteenth, nineteen hundred fifty-four or converted to such use prior to April thirtieth, nineteen hundred fifty-six, shall be created in any dwelling, whether such conversion is effected with or without physical alterations, except for rooming units:
 
       (1)   Owned or controlled and operated by a hospital for occupancy by nurses and interns on its staff; or
 
@@ -1891,7 +1891,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2078 Rental of rooms to boarders.  ::
 
 
-	   a.   A family may rent one or more living rooms in an apartment to not more than two boarders, roomers or lodgers, if every living room in such apartment has free and unobstructed access to each required exit from such apartment as provided in paragraphs (a), (b) and (c) of subdivision four of section two hundred forty-eight or paragraph (a) of subdivision one of section fifty-three of the multiple dwelling law, and if each such boarder, roomer or lodger has access to, and the right to use, at least one water closet, bath or shower and one washbasin as may be required in or for an apartment in this code.
+	a.   A family may rent one or more living rooms in an apartment to not more than two boarders, roomers or lodgers, if every living room in such apartment has free and unobstructed access to each required exit from such apartment as provided in paragraphs (a), (b) and (c) of subdivision four of section two hundred forty-eight or paragraph (a) of subdivision one of section fifty-three of the multiple dwelling law, and if each such boarder, roomer or lodger has access to, and the right to use, at least one water closet, bath or shower and one washbasin as may be required in or for an apartment in this code.
 
    b.   Where a tenant rents any part of an apartment in a multiple dwelling to more than two boarders, roomers or lodgers, such rental shall constitute a use of the apartment for single room occupancy and such rental in an apartment of a converted dwelling shall constitute an unlawful use as a rooming unit.
 
@@ -2001,7 +2001,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2084 Occupancy of cellars and basements in converted dwellings.  ::
 
 
-	   a.   Except as provided in 27-2082 of this article, no dwelling unit in the cellar of a converted dwelling may be occupied for living purposes unless:
+	a.   Except as provided in 27-2082 of this article, no dwelling unit in the cellar of a converted dwelling may be occupied for living purposes unless:
 
       (1)   The yard adjoining such dwelling unit; has a minimum depth of thirty feet or more at every point; is open and unobstructed except as permitted by subdivision nine of section twenty-six of the multiple dwelling law; and abuts the exterior wall of such dwelling at a level no higher than the floor of any room contained in the dwelling unit; and
 
@@ -2049,7 +2049,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2086 Occupancy of cellars and basements in old law tenements.  ::
 
 
-	   a.   No dwelling unit in the cellar of an old law tenement may be occupied unless it complies with the requirements of sections 27-2082, 27-2083, 27-2085 of this article or all of the following provisions:
+	a.   No dwelling unit in the cellar of an old law tenement may be occupied unless it complies with the requirements of sections 27-2082, 27-2083, 27-2085 of this article or all of the following provisions:
 
       (1)   Every room has a minimum height of eight feet in every part.
 
@@ -2075,7 +2075,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2087 Occupancy of cellars and basements in one- and two-family dwellings.  ::
 
 
-	   a.   Cellar occupancy: No room in the cellar of a one- or two-family dwelling shall be rented and no member of the family or families occupying the dwelling shall use such room for sleeping, eating or cooking purposes, except that a secondary kitchen for accessory cooking may be located in the cellar.
+	a.   Cellar occupancy: No room in the cellar of a one- or two-family dwelling shall be rented and no member of the family or families occupying the dwelling shall use such room for sleeping, eating or cooking purposes, except that a secondary kitchen for accessory cooking may be located in the cellar.
 
    b.   Use of basement by occupants of the dwelling: A room in the basement of a one- or two-family dwelling may be occupied for living purposes by members of the family or families in conjunction with their occupancy of the dwelling if the following conditions are met:
 
@@ -2107,7 +2107,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2089 Requirements for reoccupancy of vacant multiple dwellings.  ::
 
 
-	   a.   In every multiple dwelling, where all apartments, suites of rooms and single room units, at any time after July fourteenth, nineteen hundred sixty-seven:
+	a.   In every multiple dwelling, where all apartments, suites of rooms and single room units, at any time after July fourteenth, nineteen hundred sixty-seven:
 
       (1)   Became untenanted for a period of sixty days or more, or
 
@@ -2135,7 +2135,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2091 Power to issue orders.  ::
 
 
-	   a.   The department shall have power to issue notices and orders to secure compliance with the requirements of this code, of the multiple dwelling law, and of other state and local laws that impose requirements on dwellings.
+	a.   The department shall have power to issue notices and orders to secure compliance with the requirements of this code, of the multiple dwelling law, and of other state and local laws that impose requirements on dwellings.
 
    b.   The failure to comply with a notice or order of the department issued pursuant to this code within the time provided for such compliance in the order shall be dealt with in accordance with the provisions of this code. Nothing contained herein shall, however, limit or render inapplicable other provisions of the administrative code relating to the enforcement of orders of the department or commissioner of the department under other applicable provisions of law.
 
@@ -2165,7 +2165,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2093 Certification of no harassment with respect to single room occupancy multiple dwellings.  ::
 
 
-	   a.   For the purposes of this section, "harassment" shall mean any conduct by or on behalf of an owner of a single room occupancy multiple dwelling that includes:
+	a.   For the purposes of this section, "harassment" shall mean any conduct by or on behalf of an owner of a single room occupancy multiple dwelling that includes:
 
       (1)   the use or threatened use of force which causes or is intended to cause any person lawfully entitled to occupancy of a dwelling unit in such multiple dwelling to vacate such unit or to surrender or waive any rights in relation to such occupancy;
 
@@ -2237,7 +2237,7 @@ The council further finds that the administration and enforcement of the City's 
 § 27-2093.1 Certification of no harassment with respect to pilot program buildings. ::
 
 
-	   a.   Definitions. As used in this section the following terms have the following meanings:
+	a.   Definitions. As used in this section the following terms have the following meanings:
 
       Building qualification index. The term “building qualification index” means an index created by the department and promulgated in rules to evaluate prospective pilot program buildings for distress based on the department’s records of open and closed hazardous and immediately hazardous violations of the housing maintenance code, records of paid and unpaid liens for expenses incurred by the department for the repair or elimination of dangerous conditions under the emergency repair program, change of ownership or any other factor that reasonably indicates distress and would qualify such building for the certification of no harassment pilot program as determined by the department.
 
@@ -2417,7 +2417,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2094 Inspection of one- and two-family dwellings; voluntary registration of owner-occupant.  ::
 
 
-	   a.   Notwithstanding any other provision of this chapter, the department, its officers or inspectors, shall have no authority to inspect a one- or two-family dwelling, at least one dwelling unit of which is owner-occupied, for violations of this code, unless the department has received a signed complaint relating to conditions in such dwelling or has a warrant for such inspection.
+	a.   Notwithstanding any other provision of this chapter, the department, its officers or inspectors, shall have no authority to inspect a one- or two-family dwelling, at least one dwelling unit of which is owner-occupied, for violations of this code, unless the department has received a signed complaint relating to conditions in such dwelling or has a warrant for such inspection.
 
    b.   The owner of a one- or two-family dwelling who occupies a dwelling unit in such dwelling, may notify the department of such owner-occupancy, without payment of a fee, by filing a form to be prescribed by the department including the following information:
 
@@ -2433,7 +2433,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2095 Service of notices and orders.  ::
 
 
-	   a.   Except as otherwise expressly provided in this code, any notice of violation or other notice, or any order authorized or required to be served by the department under the provisions of this code, shall be served in the following manner on any person or corporation to whom or which such notice or order is directed:
+	a.   Except as otherwise expressly provided in this code, any notice of violation or other notice, or any order authorized or required to be served by the department under the provisions of this code, shall be served in the following manner on any person or corporation to whom or which such notice or order is directed:
 
       (1)   By delivering a copy of such notice or order to such person directly, or if it is directed to a corporation, by delivering a copy thereof to any officer or managing agent of such corporation personally; or
 
@@ -2457,7 +2457,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2096 False statements punishable.  ::
 
 
-	   a.   Any application filed with the department for the granting of any relief or the taking of any action by the commissioner or the department or for the granting of any permit under the provisions of this code and any answer to such application filed with the department, shall be signed by the person authorized or required to submit such application or answer under the provisions of this chapter, or if such application or answer is authorized or required to be submitted by a corporation, by an officer thereof.
+	a.   Any application filed with the department for the granting of any relief or the taking of any action by the commissioner or the department or for the granting of any permit under the provisions of this code and any answer to such application filed with the department, shall be signed by the person authorized or required to submit such application or answer under the provisions of this chapter, or if such application or answer is authorized or required to be submitted by a corporation, by an officer thereof.
 
    b.   Any person who signs any such application or answer, or any registration statement or designation of a managing agent authorized or required under the provisions of this code shall certify that all statements therein contained are true and correct.
 
@@ -2469,7 +2469,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2096.1 Application forms; languages required. ::
 
 
-	   a.   As used in this section, the following terms have the following meanings:
+	a.   As used in this section, the following terms have the following meanings:
 
       Application form. The term "application form" means any application form or corresponding instruction materials that the department uses to select persons to whom it will provide services.
 
@@ -2493,7 +2493,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2097 Registration; time to file.  ::
 
 
-	   a.   The owner of a dwelling required to register under this article shall register with the department in accordance with the provisions of this article.
+	a.   The owner of a dwelling required to register under this article shall register with the department in accordance with the provisions of this article.
 
    b.   A registration statement shall be filed:
 
@@ -2519,7 +2519,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2098 Registration statement; contents.  ::
 
 
-	   a.   The registration statement shall include the following information:
+	a.   The registration statement shall include the following information:
 
       (1)   An identification of the premises by block and lot number, and by the street numbers and names of all streets contiguous to the dwelling, or by such other description as will enable the department to locate the dwelling. If the dwelling is a garden-type maisonette dwelling project required to register pursuant to paragraph four of subdivision (b) of section 27-2099 of this article, the owner who files the first registration statement with the department for such project shall list on the registration statement the street numbers for each dwelling in the project and shall designate an address by which the project dwellings are to be identified by the department.
 
@@ -2545,7 +2545,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2099 Registration statement; change of ownership or title.  ::
 
 
-	   a.   When the owner of a dwelling, who is required to register under this article, conveys title to the dwelling to another, the transferor shall, on the day of such transfer, notify the department by regular mail of the name, residence and business address of the new owner, or, if the new owner is a corporation, of the name and address of such corporation. The registration statement in accordance with section 27-2098 of this article shall be presented by the new owner to the office of the register of the city of New York, or the county clerk as required by subdivision c of this section if such owner records such deed, or to the department if the deed is not recorded, and in no event more than five days from the date of taking of title; however, the failure by a new owner to file such registration statement shall not impair the validity of his or her title.
+	a.   When the owner of a dwelling, who is required to register under this article, conveys title to the dwelling to another, the transferor shall, on the day of such transfer, notify the department by regular mail of the name, residence and business address of the new owner, or, if the new owner is a corporation, of the name and address of such corporation. The registration statement in accordance with section 27-2098 of this article shall be presented by the new owner to the office of the register of the city of New York, or the county clerk as required by subdivision c of this section if such owner records such deed, or to the department if the deed is not recorded, and in no event more than five days from the date of taking of title; however, the failure by a new owner to file such registration statement shall not impair the validity of his or her title.
 
    b.   When the ownership of a dwelling changes by operation of law, the new owner, if required to register, shall file a registration statement in accordance with section 27-2098 of this article not more than thirty days from the date that title devolved upon him or her.
 
@@ -2569,7 +2569,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2101 Change of managing agent.  ::
 
 
-	   a.   The owner may terminate the designation of a managing agent at any time by filing with the department a statement designating a qualified successor.
+	a.   The owner may terminate the designation of a managing agent at any time by filing with the department a statement designating a qualified successor.
 
    b.   The managing agent may terminate his or her agency, but such termination shall not become effective until eight days after the filing of written notice with the department and the service of a copy of such notice on the owner. The notice to the department shall set forth the registration number and address of the building and the name and address of the owner together with an affidavit of proof of service upon the owner. Service upon the owner may be made by delivery of a copy personally to the owner or any officer, if the owner is a corporation, by registered mail to the address of any owner or officer, as set forth in the registration statement, or by delivery of a copy to any person of suitable age and discretion at the address of the owner or any officer as set forth in the registration statement. Prior to the effective termination date, the owner shall file with the department a statement designating a qualified successor.
 
@@ -2583,7 +2583,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2102 Registration statement; lease of an entire multiple dwelling.  ::
 
 
-	   a.   When an entire multiple dwelling is leased, both the owner and lessee of such entire multiple dwelling shall file registration statements in accordance with all the provisions of this article. The registration statement of the lessee shall be presented to the office of the register of the city of New York or the county clerk as required by subdivision c of section 27-2099 of this article if the lessee records such lease or memorandum of lease, or to the department if the lease is not recorded, and in no event more than five days from the taking of possession.
+	a.   When an entire multiple dwelling is leased, both the owner and lessee of such entire multiple dwelling shall file registration statements in accordance with all the provisions of this article. The registration statement of the lessee shall be presented to the office of the register of the city of New York or the county clerk as required by subdivision c of section 27-2099 of this article if the lessee records such lease or memorandum of lease, or to the department if the lease is not recorded, and in no event more than five days from the taking of possession.
 
    b.   The obligation of the owner to comply with the requirement for designating a managing agent, the filing of an emergency telephone number as required by section 27-2098 of this article and for the posting of the building serial number required in section 27-2104 of this article shall be deemed satisfied if the lessee complies with such requirements.
 
@@ -2611,7 +2611,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2105 Identification of managing agent or owner and agent designated by the owner for the collection of rental payments if different from the managing agent to tenant.  ::
 
 
-	   a.   At the time of each rental payment, either a rent bill or receipt for such payment of rent shall be issued to the tenant of an apartment or rooming unit stating the name and New York City address of the managing agent (or of the designee described in paragraph five of subdivision a of section 27-2098 of this article), or, owner as recorded in the current registration statement on file in the department, and of the agent designated by the owner for the collection of rental payments if different from the managing agent. The rent bill or receipt for such payment of rent shall be printed on the letterhead of the managing agent or on the letterhead of the New York City address of the building owner. If there is a new managing agent, owner, or agent designated by the owner for the collection of rental payments, the rent bill or receipt shall state this. The registered name and address of the owner may be substituted for that of the managing agent if the owner resides or maintains an office where he or she customarily transacts business within the city.
+	a.   At the time of each rental payment, either a rent bill or receipt for such payment of rent shall be issued to the tenant of an apartment or rooming unit stating the name and New York City address of the managing agent (or of the designee described in paragraph five of subdivision a of section 27-2098 of this article), or, owner as recorded in the current registration statement on file in the department, and of the agent designated by the owner for the collection of rental payments if different from the managing agent. The rent bill or receipt for such payment of rent shall be printed on the letterhead of the managing agent or on the letterhead of the New York City address of the building owner. If there is a new managing agent, owner, or agent designated by the owner for the collection of rental payments, the rent bill or receipt shall state this. The registered name and address of the owner may be substituted for that of the managing agent if the owner resides or maintains an office where he or she customarily transacts business within the city.
 
    b.   Written notice of a change of managing agent or of the agent designated by the owner for the collection of rental payments if different from the managing agent shall be delivered by the owner by regular mail to each tenant. Such notice shall be postmarked no later than fifteen days prior to the date the next rental payment is to be collected and shall contain the telephone number of the new managing agent or the new agent designated by the owner for collection of rental payments if different from the managing agent.
 
@@ -2621,7 +2621,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2106 Registration statement; proof of contents.  ::
 
 
-	   a.   The failure of the owner or lessee of an entire multiple dwelling to produce the receipt issued by the department acknowledging the filing of a registration statement, or the failure of a managing agent to produce the receipt issued by the department acknowledging the filing of a notice of termination, shall be prima facie evidence of failure to comply with the provisions of this article.
+	a.   The failure of the owner or lessee of an entire multiple dwelling to produce the receipt issued by the department acknowledging the filing of a registration statement, or the failure of a managing agent to produce the receipt issued by the department acknowledging the filing of a notice of termination, shall be prima facie evidence of failure to comply with the provisions of this article.
 
    b.   Any such registration statement shall be deemed prima facie proof of the statements therein contained in any action or proceeding instituted by a city agency or by a tenant against the owner, lessee of an entire multiple dwelling or managing agent.
 
@@ -2631,7 +2631,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2107 Failure to register; penalties.  ::
 
 
-	   a.   A person who is required to file a statement of registration or an amendment of a statement of registration or any other statement required under this article and who fails to file as required may, whenever appropriate, be punished under the provisions of article three of subchapter five of this code, and such person shall be subject to a civil penalty of not less than two hundred and fifty dollars and not more than five hundred dollars, recoverable by the department by civil action in a court of appropriate jurisdiction.
+	a.   A person who is required to file a statement of registration or an amendment of a statement of registration or any other statement required under this article and who fails to file as required may, whenever appropriate, be punished under the provisions of article three of subchapter five of this code, and such person shall be subject to a civil penalty of not less than two hundred and fifty dollars and not more than five hundred dollars, recoverable by the department by civil action in a court of appropriate jurisdiction.
 
    b.   An owner who is required to file a statement of registration under this article and who fails to file as required shall be denied the right to recover possession of the premises for nonpayment of rent during the period of noncompliance, and shall, in the discretion of the court, suffer a stay of proceedings to recover rents, during such period. In any action to recover possession under section seven hundred eleven of the real property actions and proceedings law, the owner shall set forth his or her registration number issued by the department, and shall allege that he or she has filed a statement of registration and shall annex a copy of the receipt of such registration to his or her petition.
 
@@ -2663,7 +2663,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2109.1 Notice by a mortgagee commencing an action to foreclose a mortgage on residential real property.  ::
 
 
-	   (a)   1.   Any mortgagee that commences an action in a court of competent jurisdiction in the state of New York to foreclose a mortgage on residential real property within the city of New York shall provide notice to the department, in a form prescribed by the department, within fifteen days of service of the pleadings commencing such action. If such action was commenced before the effective date of the local law that added this section, and remains pending as of such effective date, notification shall be provided within thirty days of such effective date, provided, however, that no notice shall be required for actions commenced prior to February 13, 2010, regardless of whether such action remains pending as of such effective date. Such notice shall include, but need not be limited to, the following information: (i) the name of the mortgagee plaintiff commencing such action and the mailing address, telephone number and e-mail address of such mortgagee plaintiff, and, when applicable, the name of a principal or corporate officer of such mortgagee plaintiff, and the mailing address, telephone number and e-mail address of such principal or corporate officer; (ii) the name of the defendant in such action; (iii) the identification of such residential real property by street address and block and lot number, (iv) the date of the commencement of such action, (v) the court in which such action was commenced, and (vi) such other information as the department may require by rule. For the purposes of this section, "mortgagee" shall mean any person that commences an action to foreclose a mortgage on residential real property including, but not limited to, a lender, assignee or mortgage loan service provider that commences such an action.
+	(a)   1.   Any mortgagee that commences an action in a court of competent jurisdiction in the state of New York to foreclose a mortgage on residential real property within the city of New York shall provide notice to the department, in a form prescribed by the department, within fifteen days of service of the pleadings commencing such action. If such action was commenced before the effective date of the local law that added this section, and remains pending as of such effective date, notification shall be provided within thirty days of such effective date, provided, however, that no notice shall be required for actions commenced prior to February 13, 2010, regardless of whether such action remains pending as of such effective date. Such notice shall include, but need not be limited to, the following information: (i) the name of the mortgagee plaintiff commencing such action and the mailing address, telephone number and e-mail address of such mortgagee plaintiff, and, when applicable, the name of a principal or corporate officer of such mortgagee plaintiff, and the mailing address, telephone number and e-mail address of such principal or corporate officer; (ii) the name of the defendant in such action; (iii) the identification of such residential real property by street address and block and lot number, (iv) the date of the commencement of such action, (v) the court in which such action was commenced, and (vi) such other information as the department may require by rule. For the purposes of this section, "mortgagee" shall mean any person that commences an action to foreclose a mortgage on residential real property including, but not limited to, a lender, assignee or mortgage loan service provider that commences such an action.
 
       2.   A mortgagee shall notify the department within fifteen days of the discontinuance of an action for which notice pursuant to paragraph one of this subdivision has been received by the department, the issuance of a judgment in such action, or the sale of the real property as a result of such action.
 
@@ -2695,7 +2695,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2109.52 Speculation watch list. ::
 
 
-	   a.   Within 300 days after the effective date of the local law that added this section, the department shall establish a speculation watch list. Such speculation watch list shall comprise certain multiple dwellings that contain six or more dwelling units in which a majority of such units are rent regulated, and shall be created by analyzing the capitalization rate for qualified transactions involving such multiple dwellings and applying the criteria promulgated by rule pursuant to subdivision b of this section.
+	a.   Within 300 days after the effective date of the local law that added this section, the department shall establish a speculation watch list. Such speculation watch list shall comprise certain multiple dwellings that contain six or more dwelling units in which a majority of such units are rent regulated, and shall be created by analyzing the capitalization rate for qualified transactions involving such multiple dwellings and applying the criteria promulgated by rule pursuant to subdivision b of this section.
 
    b.   The department shall promulgate by rule the criteria for inclusion of a multiple dwelling on the speculation watch list established pursuant to subdivision a. Such rules shall define a qualified transaction for purposes of analyzing capitalization rate, and may also include, but need not be limited to, establishing the amount or ratio per dwelling unit of open hazardous and immediately hazardous violations, the amount or ratio per dwelling unit of paid or unpaid emergency repair charges, and the number of dwelling units, for purposes of including a multiple dwelling on the speculation watch list. The department may also promulgate by rule the criteria for removal of a multiple dwelling from the speculation watch list in instances where the department’s analysis of the multiple dwelling has changed, or the multiple dwelling has entered into a regulatory agreement with the department requiring the operation of such building as affordable housing or the stabilization of rents in such building, or the multiple dwelling has obtained a certification of no harassment from the department.
 
@@ -2723,7 +2723,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2110 Style of legal actions by department; disposition of moneys collected.  ::
 
 
-	   a.   All actions or proceedings instituted to recover penalties imposed by this code, or to recover any costs, expenses and disbursements incurred by the department for the repair or rehabilitation of a dwelling that are reimbursable under the provisions of this code, shall be brought in the name of the department by the corporation counsel.
+	a.   All actions or proceedings instituted to recover penalties imposed by this code, or to recover any costs, expenses and disbursements incurred by the department for the repair or rehabilitation of a dwelling that are reimbursable under the provisions of this code, shall be brought in the name of the department by the corporation counsel.
 
    b.   All moneys recovered under this section shall be paid to the city officer who brings such actions and proceedings. Such officer shall pay the moneys to the commissioner of finance each month. The officer, on the first of each month, shall report to the commissioner of the department on the amount collected under this section, if any, and the necessary disbursements incurred in the prosecution of such actions and proceedings, if any.
 
@@ -2749,7 +2749,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2113 Notice of pendency of action.  ::
 
 
-	   a.   In any action or proceeding brought by the department, it may file a notice of pendency in the county clerk's office in the county where the premises affected by the action or proceeding are located. The department may file such notice at any time after it serves the notice of violation or order to repair, or at the time it commences the action or proceeding, or any time thereafter, before final judgment or order.
+	a.   In any action or proceeding brought by the department, it may file a notice of pendency in the county clerk's office in the county where the premises affected by the action or proceeding are located. The department may file such notice at any time after it serves the notice of violation or order to repair, or at the time it commences the action or proceeding, or any time thereafter, before final judgment or order.
 
    b.   The corporation counsel shall designate in writing on such notice of pendency the name of each person against whom the notice is filed and the number of each block on the land map of the county which is affected by the notice. The county clerk in whose office a notice of pendency is filed shall record and index such notice against the names and blocks designated.
 
@@ -2761,7 +2761,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2114 Responsibility of stockholders of corporations owning multiple dwellings declared nuisances.  ::
 
 
-	   a.   The term "nuisance" shall be held to embrace public nuisance as known at common law or in equity jurisprudence. Whatever is dangerous to human life or detrimental to health, and whatever dwelling is overcrowded with occupants or is not provided with adequate ingress or egress or is not sufficiently supported, ventilated, sewered, drained, cleaned or lighted in reference to its intended or actual use, and whatever renders the air or human food or drink unwholesome, are also severally, in contemplation of this section, nuisances. All such nuisances are unlawful.
+	a.   The term "nuisance" shall be held to embrace public nuisance as known at common law or in equity jurisprudence. Whatever is dangerous to human life or detrimental to health, and whatever dwelling is overcrowded with occupants or is not provided with adequate ingress or egress or is not sufficiently supported, ventilated, sewered, drained, cleaned or lighted in reference to its intended or actual use, and whatever renders the air or human food or drink unwholesome, are also severally, in contemplation of this section, nuisances. All such nuisances are unlawful.
 
    b.   Whenever the department shall certify that any multiple dwelling, or any part of its premises, or the plumbing, sewerage, drainage, lighting or ventilation thereof, is in a condition or in effect dangerous to life or detrimental to health, the department may, after giving notice to the owner and an opportunity to be heard at a hearing held for such purpose, declare the same, to the extent it may specify, a public nuisance. Such declaration shall be filed in the central violation bureau as provided by section three hundred twenty-eight of the multiple dwelling law, if applicable, or as a public record in the department. The officers of a corporation upon which notice of such hearing has been served, other than a banking organization as defined in section two of the banking law, a national banking association, a federal savings and loan association, the mortgage facilities corporation, savings banks life insurance fund, the savings banks retirement system, an authorized insurer as defined in section one hundred seven of the insurance law, or a trust company or other corporation organized under the laws of this state all the capital stock of which is owned by at least twenty savings banks or by at least twenty savings and loan associations or a subsidiary corporation all of the capital stock of which is owned by such trust company or other corporation, shall serve similar notice on all stockholders of record of the corporation and other persons known to be stockholders or beneficial owners of the stock of the corporation. A stockholder upon whom such notice has been served shall serve similar notice upon any persons holding a beneficial interest in such stockholder's stock.
 
@@ -2783,7 +2783,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2115 Imposition of civil penalty.  ::
 
 
-	   (a)   A person who violates any law relating to housing standards shall be subject to a civil penalty of not less than ten dollars nor more than fifty dollars for each non-hazardous violation, not less than twenty-five dollars nor more than one hundred dollars and ten dollars per day for each hazardous violation, fifty dollars per day for each immediately hazardous violation, occurring in a multiple dwelling containing five or fewer dwelling units, from the date set for correction in the notice of violation until the violation is corrected, and not less than fifty dollars nor more than one hundred fifty dollars and, in addition, one hundred twenty-five dollars per day for each immediately hazardous violation, occurring in a multiple dwelling containing more than five dwelling units, from the date set for correction in the notice of violation until the violation is corrected. A person wilfully making a false certification of correction of a violation shall be subject to a civil penalty of not less than fifty dollars nor more than two hundred fifty dollars for each violation falsely certified, in addition to the other penalties herein provided.
+	(a)   A person who violates any law relating to housing standards shall be subject to a civil penalty of not less than ten dollars nor more than fifty dollars for each non-hazardous violation, not less than twenty-five dollars nor more than one hundred dollars and ten dollars per day for each hazardous violation, fifty dollars per day for each immediately hazardous violation, occurring in a multiple dwelling containing five or fewer dwelling units, from the date set for correction in the notice of violation until the violation is corrected, and not less than fifty dollars nor more than one hundred fifty dollars and, in addition, one hundred twenty-five dollars per day for each immediately hazardous violation, occurring in a multiple dwelling containing more than five dwelling units, from the date set for correction in the notice of violation until the violation is corrected. A person wilfully making a false certification of correction of a violation shall be subject to a civil penalty of not less than fifty dollars nor more than two hundred fifty dollars for each violation falsely certified, in addition to the other penalties herein provided.
 
    (b)   The department shall serve a notice of violation upon the owner, his or her agent or other person responsible for its correction. The notice shall identify the condition constituting the violation, the provision of law applicable thereto, the department's order number, the classification of the violation according to its degree of hazard, the time for certifying the correction of such violation, and the amount of the possible penalty. It shall also advise that the department will, if requested, confer with the owner or his or her representative concerning the nature and extent of the work to be done to insure compliance and the methods of financing such work. In any case where the provisions of this section authorize the service of such notice by mail, the statement of any officer, clerk, or agent of the department, or of anyone authorized by the department to mail such notice of violation, subscribed and affirmed by such person as true under the penalties of perjury, which describes the mailing procedure used by the department, or by the department's mailing vendor, or which states that these procedures were in operation during the course of mailing a particular cycle of notices of violation, shall be admitted into evidence as presumptive evidence that a regular and systematic mailing procedure is followed by the department for the mailing of its notices of violation. Where the department introduces into evidence the business records which correspond to the various stages of the mailing of a particular cycle of notices of violation, pursuant to subdivision (c) of rule forty-five hundred eighteen of the civil practice law and rules, then a presumption shall have been established that the mailing procedure was followed in the case of such cycle, and that such notice of violation has been duly served.
 
@@ -2905,7 +2905,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2116 Enforcement of civil penalty; powers of housing part of the civil court, collection of judgment.  ::
 
 
-	   (a)   The department may bring an action in the housing part of the New York city civil court for the recovery of civil penalties, together with costs and disbursements. Leave of court, obtained by motion to the housing part thereof, shall be required for disclosure or for a bill of particulars, except for a notice under section three thousand one hundred twenty-three of the civil practice law and rules, which shall be granted only upon a showing that such disclosure or bill of particulars is necessary to the prosecution or defense of the action. If it is so noted on the summons, any motion for disclosure or a bill of particulars must be made in writing and on notice and must be filed with the clerk with proof of service no later than thirty days after joinder of issue.
+	(a)   The department may bring an action in the housing part of the New York city civil court for the recovery of civil penalties, together with costs and disbursements. Leave of court, obtained by motion to the housing part thereof, shall be required for disclosure or for a bill of particulars, except for a notice under section three thousand one hundred twenty-three of the civil practice law and rules, which shall be granted only upon a showing that such disclosure or bill of particulars is necessary to the prosecution or defense of the action. If it is so noted on the summons, any motion for disclosure or a bill of particulars must be made in writing and on notice and must be filed with the clerk with proof of service no later than thirty days after joinder of issue.
 
    (b)   The owner shall be responsible for the correction of all violations, but in an action for civil penalties may in defense or mitigation of such owner's liability for civil penalties show:
 
@@ -2929,7 +2929,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2117 Stay of accumulation of per diem penalties during pendency of action.  ::
 
 
-	   (a)   In any action for penalties under this article, the defendant may move at any time before the trial of the case for an order to stay the further accumulation of the per diem penalty from the day the action is commenced until the same is finally terminated by judgment or otherwise, including the time necessary for judicial review. The housing part of the civil court shall grant the motion if the defendant shows to the satisfaction of the court that there is a substantial and real issue of fact or law concerning the existence of the violation charged. The court may impose such conditions on the granting of the motion as justice may require.
+	(a)   In any action for penalties under this article, the defendant may move at any time before the trial of the case for an order to stay the further accumulation of the per diem penalty from the day the action is commenced until the same is finally terminated by judgment or otherwise, including the time necessary for judicial review. The housing part of the civil court shall grant the motion if the defendant shows to the satisfaction of the court that there is a substantial and real issue of fact or law concerning the existence of the violation charged. The court may impose such conditions on the granting of the motion as justice may require.
 
    (b)   Nothing in this article shall prevent an owner from contesting the finding of a violation by the department, in advance of the department's action for the collection of penalties in the housing part of the civil court of the city of New York or by any other means provided by law. In any such action or proceeding, the court may stay the further accumulation of the per diem penalty in the same manner and under the same conditions as provided in subdivision (a) of this section.
 
@@ -2939,7 +2939,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2118 Penalties; willful or reckless violations; false statements.  ::
 
 
-	   (a)   Any person who
+	(a)   Any person who
 
       (1)   Willfully or recklessly violates any provisions of this chapter; or
 
@@ -2967,7 +2967,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2120 Injunctions; mandatory and prohibitory.  ::
 
 
-	   a.   The department may institute an action in a court of competent jurisdiction for an order requiring the owner of property or other responsible person to abate or correct any violation of this code, or to comply with an order or notice of the department, or for such other relief as may be appropriate to secure continuing compliance with this code. An action for injunctive relief hereunder may be brought in addition to other sanctions and remedies for violations of the code, or may be joined with any action for such other sanctions and remedies except criminal prosecution.
+	a.   The department may institute an action in a court of competent jurisdiction for an order requiring the owner of property or other responsible person to abate or correct any violation of this code, or to comply with an order or notice of the department, or for such other relief as may be appropriate to secure continuing compliance with this code. An action for injunctive relief hereunder may be brought in addition to other sanctions and remedies for violations of the code, or may be joined with any action for such other sanctions and remedies except criminal prosecution.
 
    b.   Any tenant, or person or group of persons lawfully entitled to occupancy may individually or jointly apply to the housing part of the civil court for an order restraining the owner of the property from engaging in harassment. Except for an order on consent, such order may be granted upon or subsequent to a determination that a violation of subdivision d of section 27-2005 of this chapter has occurred.
 
@@ -2993,7 +2993,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2123 Court order of access to inspect premises.  ::
 
 
-	   a.   A judge of any civil court of competent jurisdiction may, upon appropriate application by the department supported by an affidavit or affirmation, issue an order directing that access be provided to an officer or inspector of the department to any premises or part thereof, whenever an inspection of any premises or part thereof is required or authorized by any state or local law or regulation or entry to such area is necessary for correction of a condition violating such law or regulation.
+	a.   A judge of any civil court of competent jurisdiction may, upon appropriate application by the department supported by an affidavit or affirmation, issue an order directing that access be provided to an officer or inspector of the department to any premises or part thereof, whenever an inspection of any premises or part thereof is required or authorized by any state or local law or regulation or entry to such area is necessary for correction of a condition violating such law or regulation.
 
    b.   If the application is found appropriate, the court may issue an order to show cause why the order of access should not be issued. If the respondent cannot with due diligence be served personally within the time fixed in such order, service may be made on such person by posting a copy thereof in a conspicuous place in the premises to which access is sought and by sending a copy thereof by certified mail, return receipt requested, to such person at his or her last known address.
 
@@ -3021,7 +3021,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2125 Power to cause or order corrections of violations.  ::
 
 
-	   a.   Whenever the department determines that because of any violation of this chapter or other applicable law, any dwelling or part of its premises is dangerous to human life and safety or detrimental to health, it may
+	a.   Whenever the department determines that because of any violation of this chapter or other applicable law, any dwelling or part of its premises is dangerous to human life and safety or detrimental to health, it may
 
       (1)   correct such conditions, or
 
@@ -3039,7 +3039,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2126 Registration of lead paint violations; enforcement. [Repealed]  ::
 
 
-	   a.   The department may elect to proceed to take action to correct violations under this article pursuant to a prior court order. If the department so elects, it may serve, with any order served pursuant to subdivision a or b of section 27-2125 of this article, a notice that upon failure to comply with the order within the stated time the department may apply for a court order directing it to execute the repair order.
+	a.   The department may elect to proceed to take action to correct violations under this article pursuant to a prior court order. If the department so elects, it may serve, with any order served pursuant to subdivision a or b of section 27-2125 of this article, a notice that upon failure to comply with the order within the stated time the department may apply for a court order directing it to execute the repair order.
 
    b.   Upon failure to comply with the repair order within the time fixed therein, the department may apply to a court of competent jurisdiction for an order directing the owner and any mortgagees or lienors of record to show cause why the department should not be directed to execute the order, and obtain a lien for the costs of such execution which shall have priority over all other liens and encumbrances. The application shall identify the dwelling, describe the violations covered by the repair order, the work required to remedy such violations and an estimate of the cost thereof, and contain proof of service of the repair order as required by this section.
 
@@ -3109,7 +3109,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2131 Notice to owner, mortgagees and lienors.  ::
 
 
-	   a.   If the department intends to seek the appointment of a receiver to remove or remedy a condition described in the preceding section, it shall serve upon the owner, along with the order pursuant to section 27-2125 of article five of this subchapter, a notice stating that in the event the violations covered by the order are not removed or remedied in the manner and within the time specified therein, the department may apply for the appointment of a receiver of the rents, issues and profits of the property with rights superior to those of the owner and any mortgagee or lienor.
+	a.   If the department intends to seek the appointment of a receiver to remove or remedy a condition described in the preceding section, it shall serve upon the owner, along with the order pursuant to section 27-2125 of article five of this subchapter, a notice stating that in the event the violations covered by the order are not removed or remedied in the manner and within the time specified therein, the department may apply for the appointment of a receiver of the rents, issues and profits of the property with rights superior to those of the owner and any mortgagee or lienor.
 
    b.   Within five days after service of the order and notice upon the owner, the department shall serve a copy of the order and notice upon every mortgagee and lienor of record, personally or by registered or certified mail, at the address set forth in the recorded mortgage or lien. If no address appears therein, a copy shall be sent by registered mail to the person at whose request the instrument was recorded.
 
@@ -3121,7 +3121,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2132 Order to show cause.  ::
 
 
-	   a.   The department, upon failure of the owner to comply with an order 27-2131 of this article within the time provided therein, may thereafter apply to a court of competent jurisdiction in the county where the property is situated for an order directing the owner and any mortgagees or lienors of record to show cause why the commissioner of housing preservation and development should not be appointed receiver of the rents, issues and profits of the property and why the receiver should not remove or remedy such condition and obtain a lien in favor of the department of housing preservation and development against the property having the priority provided in article eight of this subchapter to secure repayment of the costs incurred by the receiver in removing such conditions. Such application shall contain (a) proof by affidavit that an order of the department has been issued, served on the owner, mortgagees and lienors, and filed, in accordance with section 27-2131 of this article; (b) a statement that a serious fire hazard or a serious threat to life, health, or safety continued to exist in said dwelling after the time fixed in the department order for correction of the condition, and a description of the dwelling and conditions involved; (c) a brief description of the nature of the work required to remove or remedy the condition and an estimate as to the cost thereof.
+	a.   The department, upon failure of the owner to comply with an order 27-2131 of this article within the time provided therein, may thereafter apply to a court of competent jurisdiction in the county where the property is situated for an order directing the owner and any mortgagees or lienors of record to show cause why the commissioner of housing preservation and development should not be appointed receiver of the rents, issues and profits of the property and why the receiver should not remove or remedy such condition and obtain a lien in favor of the department of housing preservation and development against the property having the priority provided in article eight of this subchapter to secure repayment of the costs incurred by the receiver in removing such conditions. Such application shall contain (a) proof by affidavit that an order of the department has been issued, served on the owner, mortgagees and lienors, and filed, in accordance with section 27-2131 of this article; (b) a statement that a serious fire hazard or a serious threat to life, health, or safety continued to exist in said dwelling after the time fixed in the department order for correction of the condition, and a description of the dwelling and conditions involved; (c) a brief description of the nature of the work required to remove or remedy the condition and an estimate as to the cost thereof.
 
    b.   The order to show cause shall be returnable not less than five days after service is completed.
 
@@ -3133,7 +3133,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2133 Temporary appointment of receiver.  ::
 
 
-	   a.   If the condition of the premises is such that unless immediately cured irreparable damage may be caused to the building or it constitutes an imminent danger to its occupants or the occupants of adjoining properties, then the order to show cause may be returnable in the discretion of the court in less than five days, and in such case, service may be made by posting a copy of the order in a conspicuous place on the premises and by mailing a copy to the owner at the address registered with the department and to the mortgagees and lienors at their respective addresses. But any appointment of a receiver without service pursuant to subdivision c of section 27-2132 of this article shall be temporary only and expire not more than thirty days thereafter unless, prior to the expiration of the thirty days, the department shall serve notice on the owner, mortgagee and lienors in the manner provided for in subdivision c of section 27-2132 of this article of intention to apply to the court at a date fixed in such notice and not less than five days after the service of such notice, for an extension of the receivership. Upon such service the period of the appointment of the temporary receiver shall be automatically extended for a further period of fifteen days. The notice shall also contain, in addition to the order to show cause and the papers on which it is based, a statement of any expenditures made or obligations incurred by the receiver during the period of his or her temporary appointment. On the date fixed in the notice, the court shall determine whether or not to extend the period of receivership. Such determination shall be made as if the application were an original one for the appointment of a receiver.
+	a.   If the condition of the premises is such that unless immediately cured irreparable damage may be caused to the building or it constitutes an imminent danger to its occupants or the occupants of adjoining properties, then the order to show cause may be returnable in the discretion of the court in less than five days, and in such case, service may be made by posting a copy of the order in a conspicuous place on the premises and by mailing a copy to the owner at the address registered with the department and to the mortgagees and lienors at their respective addresses. But any appointment of a receiver without service pursuant to subdivision c of section 27-2132 of this article shall be temporary only and expire not more than thirty days thereafter unless, prior to the expiration of the thirty days, the department shall serve notice on the owner, mortgagee and lienors in the manner provided for in subdivision c of section 27-2132 of this article of intention to apply to the court at a date fixed in such notice and not less than five days after the service of such notice, for an extension of the receivership. Upon such service the period of the appointment of the temporary receiver shall be automatically extended for a further period of fifteen days. The notice shall also contain, in addition to the order to show cause and the papers on which it is based, a statement of any expenditures made or obligations incurred by the receiver during the period of his or her temporary appointment. On the date fixed in the notice, the court shall determine whether or not to extend the period of receivership. Such determination shall be made as if the application were an original one for the appointment of a receiver.
 
    b.   A temporary receiver shall have the powers and duties provided in section 27-2135 of this article, except that he or she shall not, without express order of the court, make any repairs or improvements to the property or incur any expenses in the operation thereof during the period of his or her temporary appointment except such as may be necessary (1) to remedy or remove the immediate condition or conditions which called for his or her appointment, and (2) to the ordinary operation and maintenance of the property. For such specific purpose the receiver shall be entitled to let such contracts and undertake such expenses as may be necesssary to accomplish the specific results without advertisements and without procuring competitive bids.
 
@@ -3143,7 +3143,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2134 Proceedings on return of order to show cause.  ::
 
 
-	   a.   On the return of the order to show cause, determination thereof shall have precedence over every other business of the court unless the court shall find that some other pending proceeding, having a similar statutory preference, has priority.
+	a.   On the return of the order to show cause, determination thereof shall have precedence over every other business of the court unless the court shall find that some other pending proceeding, having a similar statutory preference, has priority.
 
    b.   If the court finds that the facts stated in the application warrant the granting thereof, then it shall appoint the commissioner of housing preservation and development receiver of the rents, issues and profits of the property.
 
@@ -3155,7 +3155,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2135 Powers and duties of receiver.  ::
 
 
-	   a.   A receiver appointed pursuant to this article shall have all of the powers and duties of a receiver appointed in an action to foreclose a mortgage on real property, together with such additional powers and duties as herein granted and imposed. Such receiver shall not be required to file any bond.
+	a.   A receiver appointed pursuant to this article shall have all of the powers and duties of a receiver appointed in an action to foreclose a mortgage on real property, together with such additional powers and duties as herein granted and imposed. Such receiver shall not be required to file any bond.
 
    b.   The receiver shall with all reasonable speed remove violations in the dwelling and its premises, including those constituting a fire hazard or a threat to life, health or safety. He or she may also, in addition to ordinary repairs, maintenance and replacement, make other improvements to effect a rehabilitation of the property, in such fashion as is consistent with maintaining safe and habitable conditions over the remaining useful life of the dwelling. He or she shall have the power to let contracts or incur expenses therefor in accordance with the provisions of law applicable to contracts for public works except that advertisement shall not be required for each such contract. Notwithstanding any provision of law, the receiver may let contracts or incur expenses for individual items of repairs, improvements or supplies without the procurement of competitive bids where the total amount of any such individual item does not exceed twenty-five hundred dollars.
 
@@ -3177,7 +3177,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2137 Recovery of expenses of receivership; lien of receiver.  ::
 
 
-	   a.   The expenditures made by the receiver pursuant to section 27-2135 of this article shall, to the extent that they are not recovered from the rents and income of the property collected by the receiver, constitute a debt of the owner and a lien upon the building and lot, and upon the rents and income thereof. Except as otherwise provided in this section, the provisions of article eight of this subchapter shall govern the effect and enforcement of such debt and lien; references therein to the department shall, for purposes of this article be deemed to refer to the receiver and, after such receiver's discharge, the department of housing preservation and develop- ment.
+	a.   The expenditures made by the receiver pursuant to section 27-2135 of this article shall, to the extent that they are not recovered from the rents and income of the property collected by the receiver, constitute a debt of the owner and a lien upon the building and lot, and upon the rents and income thereof. Except as otherwise provided in this section, the provisions of article eight of this subchapter shall govern the effect and enforcement of such debt and lien; references therein to the department shall, for purposes of this article be deemed to refer to the receiver and, after such receiver's discharge, the department of housing preservation and develop- ment.
 
    b.   Failure to serve a copy of the order and notice required in the manner specified by section 27-2131 of this article, or failure to serve any mortgagee or lienor with a copy of the order to show cause as required by subdivision c of section 27-2132 of this article, shall not affect the validity of the proceeding or the appointment of a receiver, but the rights of the department of housing preservation and development or of the receiver shall not in such event be superior to the rights of any mortgagee or lienor who has not been served as provided therein.
 
@@ -3197,7 +3197,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2139 Power to order dwelling vacated.  ::
 
 
-	   a.   Any dwelling or part thereof, which, because of a structural or fire safety hazard, defects in plumbing, sewage, drainage, or cleanliness, or any other violation of this code or any other applicable law, constitutes a danger to the life, health, or safety of its occupants, shall be deemed to be unfit for human habitation.
+	a.   Any dwelling or part thereof, which, because of a structural or fire safety hazard, defects in plumbing, sewage, drainage, or cleanliness, or any other violation of this code or any other applicable law, constitutes a danger to the life, health, or safety of its occupants, shall be deemed to be unfit for human habitation.
 
    b.   The department may order or cause any dwelling or part thereof which is unfit for human habitation to be vacated.
 
@@ -3207,7 +3207,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2140 Content and effect of vacate order.  ::
 
 
-	   a.   An order issued pursuant to subdivision b of section 27-2139 of this article shall set forth the conditions which render the dwelling or part thereof unfit for human habitation.
+	a.   An order issued pursuant to subdivision b of section 27-2139 of this article shall set forth the conditions which render the dwelling or part thereof unfit for human habitation.
 
    b.   The order shall require all persons occupying the dwelling or part affected to vacate it within a period of time, not less than twenty-four hours nor more than ten days, to be stated in the order.
 
@@ -3227,7 +3227,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2141 Notice.  ::
 
 
-	   a.   The vacate order shall be served upon the owner by mailing a copy to the person last registered with the department as owner or agent by certified mail, return receipt requested. The affidavit of an employee or agent of the department, stating facts which show that the vacate order was duly addressed and mailed, shall be presumptive evidence that such vacate order was duly served.
+	a.   The vacate order shall be served upon the owner by mailing a copy to the person last registered with the department as owner or agent by certified mail, return receipt requested. The affidavit of an employee or agent of the department, stating facts which show that the vacate order was duly addressed and mailed, shall be presumptive evidence that such vacate order was duly served.
 
    b.   The vacate order shall be served upon the occupants of the dwelling by affixing a copy prominently on the dwelling which is the subject of the vacate order.
 
@@ -3241,7 +3241,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2142 Reoccupancy after vacate order.  ::
 
 
-	   a.   No person shall occupy, or cause or permit to be occupied, any dwelling or part thereof while such dwelling or part is subject to a vacate order. Notwithstanding any other provision of law, an owner or managing agent or other representative of such owner who violates this subdivision by permitting or allowing re-occupancy of a premises that is subject to a vacate order shall be subject to a civil penalty of not less than five thousand dollars for each reoccupied dwelling unit in such premises.
+	a.   No person shall occupy, or cause or permit to be occupied, any dwelling or part thereof while such dwelling or part is subject to a vacate order. Notwithstanding any other provision of law, an owner or managing agent or other representative of such owner who violates this subdivision by permitting or allowing re-occupancy of a premises that is subject to a vacate order shall be subject to a civil penalty of not less than five thousand dollars for each reoccupied dwelling unit in such premises.
 
    b.   If the department finds that the conditions rendering a building or part unfit for human habitation have been corrected, it may revoke a vacate order. If the department finds that the unlawful conditions are being corrected and that continued occupancy may be permitted consistent with health and safety, it may extend the time period for compliance fixed in the order.
 
@@ -3265,7 +3265,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2144 Lien on premises.  ::
 
 
-	   a.   There shall be filed in the office of the department a record of all work caused to be performed by or on behalf of the department. Such records shall be kept on a building-by-building basis and shall be accessible to the public during business hours. Such record may be made and maintained electronically. Within thirty days after the issuance of a purchase or work order to cause a repair to be made by or on behalf of the department, entry of such order shall be made on the records of the department. Such record may be made and maintained electronically. Such record shall be deemed to be entered on the date that such record is entered electronically on the records of the department. Such entry shall constitute notice to all parties.
+	a.   There shall be filed in the office of the department a record of all work caused to be performed by or on behalf of the department. Such records shall be kept on a building-by-building basis and shall be accessible to the public during business hours. Such record may be made and maintained electronically. Within thirty days after the issuance of a purchase or work order to cause a repair to be made by or on behalf of the department, entry of such order shall be made on the records of the department. Such record may be made and maintained electronically. Such record shall be deemed to be entered on the date that such record is entered electronically on the records of the department. Such entry shall constitute notice to all parties.
 
    b.   All expenses incurred by the department for the repair or the elimination of any dangerous or unlawful conditions therein, pursuant to this chapter or any other applicable provision of law, shall constitute a lien upon the premises when such charge is due and payable, which, notwithstanding any other provision of law, shall be the due and payable date for such charge provided on the second statement of account containing such charge. Such lien shall have a priority over all other liens and encumbrances on the premises except for the lien of taxes and assessments. However, no lien created pursuant to this chapter shall be enforced against a subsequent purchaser in good faith or mortgagee in good faith unless the requirements of subdivision a of this section are satisfied; this limitation shall only apply to transactions occurring after the date such record should have been entered pursuant to subdivision a and the date such entry was made.
 
@@ -3293,7 +3293,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2146 Validity of lien; grounds for challenge.  ::
 
 
-	   a.   In any proceedings to enforce or discharge the lien, the validity of the lien shall not be subject to challenge based on:
+	a.   In any proceedings to enforce or discharge the lien, the validity of the lien shall not be subject to challenge based on:
 
       (1)    The lawfulness of the repair or other work done; or
 
@@ -3311,7 +3311,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2147 Levy on rents.  ::
 
 
-	   a.   The department may serve upon any person liable for rent or other compensation for the occupancy of premises subject to this article a notice containing:
+	a.   The department may serve upon any person liable for rent or other compensation for the occupancy of premises subject to this article a notice containing:
 
       (1)   a statement of the contents of the certificate filed pursuant to section 27-2145 of this article, or of a judgment in an action under section 27-2116 of article two of this subchapter or section 27-2143 of this article or in an action to enforce a lien under this article;
 
@@ -3333,7 +3333,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2148 Appointment of receiver.  ::
 
 
-	   a.   Whenever the sum of any lien or liens established by this chapter, plus any lien or liens established pursuant to any other section of the administrative code for the expenses of repairs made by the department, shall amount to five thousand dollars or more, the department may issue an order appointing the commissioner of the department of housing preservation and development receiver of the rent and profits of the premises. Such receiver may be appointed upon thirty days' notice to the owner, mortgagees and lienors of record of such premises. Such notice shall contain the amounts of such lien or liens and give the owner, mortgagees and lienors of record an opportunity to either pay the outstanding liens or to contract in writing with the department on terms satisfactory to the department for such payment. Any mortgagee or lienor who pays the department shall be assigned the department's lien.
+	a.   Whenever the sum of any lien or liens established by this chapter, plus any lien or liens established pursuant to any other section of the administrative code for the expenses of repairs made by the department, shall amount to five thousand dollars or more, the department may issue an order appointing the commissioner of the department of housing preservation and development receiver of the rent and profits of the premises. Such receiver may be appointed upon thirty days' notice to the owner, mortgagees and lienors of record of such premises. Such notice shall contain the amounts of such lien or liens and give the owner, mortgagees and lienors of record an opportunity to either pay the outstanding liens or to contract in writing with the department on terms satisfactory to the department for such payment. Any mortgagee or lienor who pays the department shall be assigned the department's lien.
 
    b.    A receiver appointed pursuant to this section shall have all of the powers and duties of a receiver appointed in an action to foreclose a mortgage on real property. Such receiver shall not be required to file any bond.
 
@@ -3355,7 +3355,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2151 Withdrawal of single room occupancy dwelling units from the rental market prohibited.  ::
 
 
-	   a.   On and after June first, nineteen hundred eighty-seven, an owner of a single room occupancy multiple dwelling which is subject to the provisions of this section shall have a duty (1) to make habitable and maintain in a habitable condition all single room occupancy dwelling units and (2) to rent such habitable single room occupancy dwelling units to bona fide tenants. The duty to rent shall be satisfied by the owner if the owner has in fact rented all such units to bona fide tenants or has, in good faith, made a continuing public offer to rent such units at rents no greater than the rent authorized by law.
+	a.   On and after June first, nineteen hundred eighty-seven, an owner of a single room occupancy multiple dwelling which is subject to the provisions of this section shall have a duty (1) to make habitable and maintain in a habitable condition all single room occupancy dwelling units and (2) to rent such habitable single room occupancy dwelling units to bona fide tenants. The duty to rent shall be satisfied by the owner if the owner has in fact rented all such units to bona fide tenants or has, in good faith, made a continuing public offer to rent such units at rents no greater than the rent authorized by law.
 
    b.   The provisions of this section shall apply to all single room occupancy multiple dwellings which are subject to the provisions of subdivisions a and c of section 27-198.2 of the code during the time such subdivisions a and c are in full force and effect except:
 
@@ -3371,7 +3371,7 @@ Editor's note: Section 5 of L.L. 2018/001 provides: "This local law takes effect
 § 27-2152 Enforcement.  ::
 
 
-	   a.   If the commissioner has reasonable cause to believe that an owner has violated the provisions of subdivision a of section 27-2151, the commissioner shall serve a notice of violation and an order to correct such violation on the owner pursuant to sections 27-2091 and 27-2095 of this code. The order shall require the owner to comply with subdivision a of section 27-2151 in the manner specified in such order within ten days. A copy of the order shall be filed with the city register and any subsequent purchaser of the property shall be subject to such order.
+	a.   If the commissioner has reasonable cause to believe that an owner has violated the provisions of subdivision a of section 27-2151, the commissioner shall serve a notice of violation and an order to correct such violation on the owner pursuant to sections 27-2091 and 27-2095 of this code. The order shall require the owner to comply with subdivision a of section 27-2151 in the manner specified in such order within ten days. A copy of the order shall be filed with the city register and any subsequent purchaser of the property shall be subject to such order.
 
    b.   An owner may apply within the ten day period following service of the notice and order:
 
@@ -3593,7 +3593,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3005 Jurisdiction, powers and duties of the commissioner.  ::
 
 
-	   a.   The commissioner is authorized to exercise all powers necessary to enforce the electrical code and the electrical code technical standards, including but not limited to the power to:
+	a.   The commissioner is authorized to exercise all powers necessary to enforce the electrical code and the electrical code technical standards, including but not limited to the power to:
 
       1.   Promulgate rules respecting the installing, altering, maintaining or repairing of (i) electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm or data transmission and (ii) low voltage electrical wiring in or on any building, premises or lot in the city of New York.
 
@@ -3645,7 +3645,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3008 Public service corporations.  ::
 
 
-	   a.   Except as provided for in subdivision b of this section, the provisions of this chapter shall not apply to:
+	a.   Except as provided for in subdivision b of this section, the provisions of this chapter shall not apply to:
 
       1.   Electrical equipment used exclusively for the operation of railroads, railways and trackless trolleys, or
 
@@ -3661,7 +3661,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3009 Master electrician's and special electrician's license board.  ::
 
 
-	   a.   For each calendar year, the commissioner shall appoint a board to review the character and fitness of applicants for a master electrician's or special electrician's licenses and the approval of master electrician businesses, to advise the commissioner regarding allegations of illegal practices on the part of master and special electricians or master electrician businesses, to investigate and report on all proposed suspensions or revocations of licenses and approvals of master electrician businesses and all proposed penalties, and to perform any other responsibilities as may be requested by the commissioner and as set forth in rules promulgated by the department. The commissioner may, for good cause shown, remove any member thereof and shall fill any vacancy therein, which board shall consist of:
+	a.   For each calendar year, the commissioner shall appoint a board to review the character and fitness of applicants for a master electrician's or special electrician's licenses and the approval of master electrician businesses, to advise the commissioner regarding allegations of illegal practices on the part of master and special electricians or master electrician businesses, to investigate and report on all proposed suspensions or revocations of licenses and approvals of master electrician businesses and all proposed penalties, and to perform any other responsibilities as may be requested by the commissioner and as set forth in rules promulgated by the department. The commissioner may, for good cause shown, remove any member thereof and shall fill any vacancy therein, which board shall consist of:
 
       1.   Two officers or employees of the department.
 
@@ -3687,7 +3687,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3010 Qualification and Examination of applicants for master electrician's and special electrician's licenses.  ::
 
 
-	   a.   Qualification of Applicant. An applicant for a license as a master electrician or special electrician must be over the age of twenty-one years, of good moral character and, at the time of applying for examination, shall have had, during the ten (10) years immediately preceding his or her application, at least seven and one-half (71/2) years or the equivalent as indicated below and during such time a minimum of ten thousand five hundred (10,500) hours or the equivalent as indicated below of satisfactory experience in the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities. Except as otherwise provided below, such satisfactory experience must have been obtained while under the direct supervision of a licensed master electrician or special electrician or, with respect to experience outside the city, under the direct supervision of an individual with comparable qualifications as determined by the commissioner, and while in the employ of (i) a master electrician business as defined herein, or (ii) an individual, a partnership or a corporation owning, leasing or managing a building, buildings or parts thereof and employing a special electrician to perform electrical work in or on specific buildings, lots or parts thereof owned, leased or managed by such individual, corporation or partnership, or (iii) an individual, a partnership or a corporation deemed acceptable by the commissioner. No more than twenty-five percent (25%) of such satisfactory experience shall have been gained while working outside the United States unless the commissioner determines that the licensing system and electrical code of the foreign jurisdiction is essentially similar to licensing systems and electrical codes in the United States. The following shall be deemed to fulfill the satisfactory experience requirement:
+	a.   Qualification of Applicant. An applicant for a license as a master electrician or special electrician must be over the age of twenty-one years, of good moral character and, at the time of applying for examination, shall have had, during the ten (10) years immediately preceding his or her application, at least seven and one-half (71/2) years or the equivalent as indicated below and during such time a minimum of ten thousand five hundred (10,500) hours or the equivalent as indicated below of satisfactory experience in the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities. Except as otherwise provided below, such satisfactory experience must have been obtained while under the direct supervision of a licensed master electrician or special electrician or, with respect to experience outside the city, under the direct supervision of an individual with comparable qualifications as determined by the commissioner, and while in the employ of (i) a master electrician business as defined herein, or (ii) an individual, a partnership or a corporation owning, leasing or managing a building, buildings or parts thereof and employing a special electrician to perform electrical work in or on specific buildings, lots or parts thereof owned, leased or managed by such individual, corporation or partnership, or (iii) an individual, a partnership or a corporation deemed acceptable by the commissioner. No more than twenty-five percent (25%) of such satisfactory experience shall have been gained while working outside the United States unless the commissioner determines that the licensing system and electrical code of the foreign jurisdiction is essentially similar to licensing systems and electrical codes in the United States. The following shall be deemed to fulfill the satisfactory experience requirement:
 
       1.   A journeyman electrician who has worked at least seven and one-half (71/2) years and during such time a minimum of ten thousand five hundred (10,500) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for light, heat and power in or on buildings or comparable facilities, or
 
@@ -3717,7 +3717,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3011 Application for a license. [Repealed]  ::
 
 
-	   a.   Place of Business, generally.
+	a.   Place of Business, generally.
 
       1.   Every master electrician business shall at all times have a place of business at a specified address in the city at which the licensee may be contacted by the public and the department by mail, telephone or other modes of communication, located in a business zone in conformity with the zoning regulations and kept open during the usual business hours unless other means acceptable to the commissioner is provided.
 
@@ -3769,7 +3769,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3013.1 Business establishments and special electricians.  ::
 
 
-	   a.   Place of Business, generally.
+	a.   Place of Business, generally.
 
       1.   A special electrician shall at all times have a place of business at a specified address in the city at which the licensee may be contacted by the department by mail, telephone or other modes of communication. His or her license shall plainly indicate the address or addresses of the building, buildings or parts thereof for which such license is issued.
 
@@ -3791,7 +3791,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3014 Master electrician's and special electrician's licenses and fees.  ::
 
 
-	   a.   Before any master electrician's or special electrician's license will be issued or renewed, the applicant shall pay a license or renewal fee as prescribed by the department's rules. The commissioner may exempt any agency, as defined in chapter fifty-two of the charter, from paying the aforementioned fees for licensed special electricians who are employees of such agencies.
+	a.   Before any master electrician's or special electrician's license will be issued or renewed, the applicant shall pay a license or renewal fee as prescribed by the department's rules. The commissioner may exempt any agency, as defined in chapter fifty-two of the charter, from paying the aforementioned fees for licensed special electricians who are employees of such agencies.
 
    b.   Seal. The holder of a master electrician's license shall be issued a seal, of a design or form authorized by the commissioner, bearing the holder's full name, license number, and the legend "licensed master electrician." The holder of a special electrician's license shall be issued a seal, of a design and form authorized by the commissioner, bearing the holder's full name, license number, and the legend "licensed special electrician."
 
@@ -3813,7 +3813,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3015 Renewal of master electrician's and special electrician's licenses.  ::
 
 
-	   a.   Any license and seal issued hereunder shall expire one year from the year of issuance on the licensee's date of birth for that year irrespective of the date of issue. Such license may be renewed every year thereafter without examination, provided application for such renewal, accompanied by the renewal fees prescribed above and such information as may be required by the commissioner to ensure compliance with section 27-3016 of this chapter and evidence of insurance coverage in compliance with section 27-3013 of this chapter, shall have been filed prior to the expiration of the existing license.
+	a.   Any license and seal issued hereunder shall expire one year from the year of issuance on the licensee's date of birth for that year irrespective of the date of issue. Such license may be renewed every year thereafter without examination, provided application for such renewal, accompanied by the renewal fees prescribed above and such information as may be required by the commissioner to ensure compliance with section 27-3016 of this chapter and evidence of insurance coverage in compliance with section 27-3013 of this chapter, shall have been filed prior to the expiration of the existing license.
 
       1.   Where an applicant can show good and sufficient cause for his or her inability to renew his or her license and seal before its expiration, the commissioner may, upon submission of a complete application for late renewal within ninety (90) days after the expiration of such license, permit the issuance, without examination, of a new license and seal upon payment of the prescribed fees for such new license and seal within said ninety days. The commissioner may promulgate rules authorizing the renewal of a license up to six months after the expiration of such license for extenuating circumstances.
 
@@ -3831,7 +3831,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3016 Suspension, revocation or deactivation of master electrician's and special electrician's licenses and suspension or revocation of approval of master electrician business.  ::
 
 
-	   a.   1.   After notice and the opportunity for a hearing in accordance with the rules of the department, master electrician's or special electrician's licenses and/or approvals of master electrician businesses may be suspended or revoked by the commissioner and/or the commissioner may impose penalties, which shall not exceed five thousand dollars for each violation, for violation of this chapter or of any of the rules of the department and/or the commissioner may order the licensee to cause the repair of electrical damage, and any damage incidental thereto, resulting from any act or omission giving rise to a violation as set forth in this chapter or in rules, for any of the following:
+	a.   1.   After notice and the opportunity for a hearing in accordance with the rules of the department, master electrician's or special electrician's licenses and/or approvals of master electrician businesses may be suspended or revoked by the commissioner and/or the commissioner may impose penalties, which shall not exceed five thousand dollars for each violation, for violation of this chapter or of any of the rules of the department and/or the commissioner may order the licensee to cause the repair of electrical damage, and any damage incidental thereto, resulting from any act or omission giving rise to a violation as set forth in this chapter or in rules, for any of the following:
 
          (i)   Failure to file an application for a permit or inspection.
 
@@ -3889,7 +3889,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3016.1 Certification as low voltage installer; qualifications; issuance; fees.  ::
 
 
-	   a.   An individual who has been determined by the commissioner to be competent to perform low voltage electrical work in compliance with the electrical code and the electrical code technical standards, the building code and other applicable law and who otherwise qualifies in accordance with this section and the rules of the department may be certified as a low voltage installer.
+	a.   An individual who has been determined by the commissioner to be competent to perform low voltage electrical work in compliance with the electrical code and the electrical code technical standards, the building code and other applicable law and who otherwise qualifies in accordance with this section and the rules of the department may be certified as a low voltage installer.
 
    b.   An applicant for such certification shall be over the age of eighteen years, of good moral character and at the time of application shall have had two (2) years of satisfactory experience as set forth in the rules of the department.
 
@@ -3907,7 +3907,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3017 Electrical work by unauthorized persons; false representations.  ::
 
 
-	   a.   Work without appropriate license, false representation prohibited. 1. Except as otherwise provided in paragraph two of this subdivision, it shall be unlawful for any person to perform electrical work except under a license issued to a master electrician or special electrician as provided in this chapter. It shall be unlawful for any person to advertise or to hold himself, herself or itself out as authorized to engage in the business of performing electrical work unless such person is authorized to perform such work pursuant to this chapter under an appropriate master electrician's or special electrician's license. No person shall cause any such work to be done by any person unless he or she is an employee of and working under the direct supervision of a person authorized to perform such work pursuant to this chapter and the rules of the department. No person shall falsely represent that he, she or it is authorized to perform electrical work under a master electrician's or special electrician's license or shall use in any advertising the words "master electrician" or the words "licensed electrician" or the words "electrical contractor" or any words of similar meaning or import on any sign, card, letterhead or in any other manner unless such person is so authorized pursuant to this chapter and the rules of the department. 2. Notwithstanding any inconsistent provision of paragraph one of this subdivision, the commissioner may authorize business entities engaged in the business of installing, maintaining or repairing communication, signaling, alarm or data transmission systems to perform low voltage electrical work under a certification issued to a low voltage installer as provided in this chapter and the rules of the department.
+	a.   Work without appropriate license, false representation prohibited. 1. Except as otherwise provided in paragraph two of this subdivision, it shall be unlawful for any person to perform electrical work except under a license issued to a master electrician or special electrician as provided in this chapter. It shall be unlawful for any person to advertise or to hold himself, herself or itself out as authorized to engage in the business of performing electrical work unless such person is authorized to perform such work pursuant to this chapter under an appropriate master electrician's or special electrician's license. No person shall cause any such work to be done by any person unless he or she is an employee of and working under the direct supervision of a person authorized to perform such work pursuant to this chapter and the rules of the department. No person shall falsely represent that he, she or it is authorized to perform electrical work under a master electrician's or special electrician's license or shall use in any advertising the words "master electrician" or the words "licensed electrician" or the words "electrical contractor" or any words of similar meaning or import on any sign, card, letterhead or in any other manner unless such person is so authorized pursuant to this chapter and the rules of the department. 2. Notwithstanding any inconsistent provision of paragraph one of this subdivision, the commissioner may authorize business entities engaged in the business of installing, maintaining or repairing communication, signaling, alarm or data transmission systems to perform low voltage electrical work under a certification issued to a low voltage installer as provided in this chapter and the rules of the department.
 
    b.   False statement. No person shall, with intent to defraud or deceive, knowingly make a false statement, or cause or procure to be made or aid and assist in the making of a false statement in an application for a master electrician's or special electrician's license or for certification as a low voltage installer or in an application for approval of a master electrician business or the renewal of a license or certificate or in an application for a permit and approval or in any application provided for in this chapter, or in any proof or instrument in writing in connection therewith, or in any examination hereunder, deceive or substitute or cause another to deceive or substitute.
 
@@ -3921,7 +3921,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3017.1 Cooperation required.  ::
 
 
-	   a.   Any person, including any corporation, partnership, business or other entity, issued a license by the department shall, pursuant to a request or order of the commissioner or any city agency or office, cooperate fully and completely with respect to any department or city agency or office investigation. Evidence of cooperation shall include, but is not limited to, appearing before the department or other city agency or office, answering questions completely and accurately, and providing any and all requested documents. Failure to comply with such request or order may subject such person to disciplinary measures authorized by law, including but not limited to suspension or revocation of the license.
+	a.   Any person, including any corporation, partnership, business or other entity, issued a license by the department shall, pursuant to a request or order of the commissioner or any city agency or office, cooperate fully and completely with respect to any department or city agency or office investigation. Evidence of cooperation shall include, but is not limited to, appearing before the department or other city agency or office, answering questions completely and accurately, and providing any and all requested documents. Failure to comply with such request or order may subject such person to disciplinary measures authorized by law, including but not limited to suspension or revocation of the license.
 
    b.   Service of request or order. Such request or order by the commissioner or other city agency or office shall be mailed by regular mail to the person named therein to his or her last known business address or home address at least ten days before such appearance and shall contain the name of the person, the date, time and place of such appearance and, if known or applicable, a description of any requested documents. If the appearance or information is required immediately, the request or order may be transmitted via facsimile or delivered to the person's last known business or home address prior to the date and time specified therein.
 
@@ -3931,7 +3931,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3018 Inspection; application for permit and application fees.  ::
 
 
-	   a.   The commissioner or any officer or employee of the department authorized thereto by the commissioner, or any other person designated by the commissioner pursuant to section 27-3005 of this code, may enter or go upon any premises in or upon which there are any wiring or appliances for electric light, heat or power to make an inspection of the same. Any person who willfully refuses to permit such entry or inspection, shall be guilty of a violation of this subdivision, and upon conviction thereof, shall be punished by a fine of not more than one hundred dollars, imprisonment for a period not exceeding thirty days, or both.
+	a.   The commissioner or any officer or employee of the department authorized thereto by the commissioner, or any other person designated by the commissioner pursuant to section 27-3005 of this code, may enter or go upon any premises in or upon which there are any wiring or appliances for electric light, heat or power to make an inspection of the same. Any person who willfully refuses to permit such entry or inspection, shall be guilty of a violation of this subdivision, and upon conviction thereof, shall be punished by a fine of not more than one hundred dollars, imprisonment for a period not exceeding thirty days, or both.
 
    b.   Before commencing any electrical work, other than low voltage electrical work, a master electrician business or special electrician shall file with the commissioner an application for a work permit to be issued by the department. All applications for permits shall be submitted on forms furnished by the department. Applications shall include all information required by this code, other applicable law, including but not limited to the applicable energy conservation code, or the rules of the department. No such work shall be performed until the commissioner has reviewed and approved such application and issued an appropriate permit for such work. The permit shall be conspicuously posted at the work site at all times while the work is in progress. Each permit shall be issued with an expiration date of three years.
 
@@ -4085,7 +4085,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3019 Modification, suspension or revocation, electrical sign-off, permit or other authorization.  ::
 
 
-	   a.   The commissioner may at any time by an order in writing for good cause shown, modify, suspend or revoke any sign-off, permit or other authorization issued pursuant to this chapter for failure to comply with the provisions of this code or other applicable laws or rules; or whenever there has been any false statement or any misrepresentation as to a material fact in the application or submittal documents upon the basis of which such approval was issued; or whenever a permit has been issued in error and conditions are such that the permit should not have been issued. Such notice shall inform the permit holder of the reasons for the proposed action and that the permit holder has the right to present to the commissioner or his or her representative within ten business days of delivery of the notice by hand or fifteen calendar days of the posting of notice by mail, information as to why the permit should not be modified, suspended or revoked. A copy of any such order shall be served in the manner provided in this subchapter. No person other than the commissioner or an officer or employee of the department, duly authorized thereto by the commissioner, shall alter or amend any sign-off, permit or other authorization issued pursuant to this chapter or the rules of the department.
+	a.   The commissioner may at any time by an order in writing for good cause shown, modify, suspend or revoke any sign-off, permit or other authorization issued pursuant to this chapter for failure to comply with the provisions of this code or other applicable laws or rules; or whenever there has been any false statement or any misrepresentation as to a material fact in the application or submittal documents upon the basis of which such approval was issued; or whenever a permit has been issued in error and conditions are such that the permit should not have been issued. Such notice shall inform the permit holder of the reasons for the proposed action and that the permit holder has the right to present to the commissioner or his or her representative within ten business days of delivery of the notice by hand or fifteen calendar days of the posting of notice by mail, information as to why the permit should not be modified, suspended or revoked. A copy of any such order shall be served in the manner provided in this subchapter. No person other than the commissioner or an officer or employee of the department, duly authorized thereto by the commissioner, shall alter or amend any sign-off, permit or other authorization issued pursuant to this chapter or the rules of the department.
 
    b.   Immediate suspension in cases of imminent peril. The commissioner may immediately suspend any permit without prior notice to the permit holder when the commissioner has determined that an imminent peril to life or property exists. The commissioner shall immediately notify the permit holder that the permit has been suspended and the reasons therefore, that it is proposed to be revoked, and that the permit holder has the right to present to the commissioner or his or her representative within ten business days of delivery of the notice by hand or fifteen calendar days of the posting of notice by mail information as to why the permit should not be revoked.
 
@@ -4095,7 +4095,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3020 Supplying or discontinuing electrical energy.  ::
 
 
-	   a.   Except as otherwise provided in this code, no person, partnership or corporation shall supply, or cause to be supplied or used, electrical energy for light, heat or power, signaling, alarm or data transmission to any wiring or appliance in any building unless a sign-off or other authorization as set forth in the rules of the department authorizing the use of said wiring or appliance shall have been issued by the commissioner.
+	a.   Except as otherwise provided in this code, no person, partnership or corporation shall supply, or cause to be supplied or used, electrical energy for light, heat or power, signaling, alarm or data transmission to any wiring or appliance in any building unless a sign-off or other authorization as set forth in the rules of the department authorizing the use of said wiring or appliance shall have been issued by the commissioner.
 
    b.   If, in the judgment of the commissioner, after due inspection, the continued use of any electric wiring or appliances in or on any building or structure shall be unsafe or dangerous to persons or property, the commissioner may cause such wires or appliances to be disconnected from the supply of electrical energy and to seal the wiring and appliances so disconnected. Thereafter, no person shall cause or permit electrical energy to be supplied to the wiring or appliances so sealed until the same shall have been made safe and the commissioner shall have issued a certificate to that effect; provided, however, that no wiring or appliances shall be disconnected pursuant to this section until a notice in writing, stating specifically the reason why such wiring or appliances must be disconnected, shall have been served, as provided in this chapter, and a duplicate thereof shall have been delivered to the person supplying the electrical energy to such wiring or appliances.
 
@@ -4129,7 +4129,7 @@ SPECIAL PERMISSION: The written approval of the commissioner in circumstances in
 § 27-3024 Adoption of the electrical code technical standards.  ::
 
 
-	   a.   The city of New York hereby adopts the 2008 edition of the National Fire Protection Association NFPA 70 National Electrical Code as the minimum requirements for the design, installation, alteration or repair of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm and data transmission in the city subject to the amendments adopted by local law and set forth in section 27-3025 of this subchapter, which shall be known and cited as "the New York city amendments to the 2008 National Electrical Code". Such 2008 edition of the National Fire Protection Association NFPA 70 National Electrical Code with such New York city amendments shall together be known and cited as the "electrical code technical standards". The commissioner shall make a copy of the electrical code technical standards available for public inspection at the department of buildings.
+	a.   The city of New York hereby adopts the 2008 edition of the National Fire Protection Association NFPA 70 National Electrical Code as the minimum requirements for the design, installation, alteration or repair of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm and data transmission in the city subject to the amendments adopted by local law and set forth in section 27-3025 of this subchapter, which shall be known and cited as "the New York city amendments to the 2008 National Electrical Code". Such 2008 edition of the National Fire Protection Association NFPA 70 National Electrical Code with such New York city amendments shall together be known and cited as the "electrical code technical standards". The commissioner shall make a copy of the electrical code technical standards available for public inspection at the department of buildings.
 
    b.   No later than August thirty-first, two thousand twelve and on or before such date in every third year thereafter, the commissioner shall submit to the city council proposed amendments that he or she determines should be made to the electrical code technical standards to bring them up to date with the latest edition of the National Fire Protection Association NFPA 70 National Electrical Code or otherwise modify the provisions thereof. In addition, prior to the submission of such proposal to the city council, such proposal shall be submitted to an advisory committee established by the commissioner pursuant to this chapter for review and comment.
 
