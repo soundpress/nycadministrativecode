@@ -4,7 +4,9 @@ Title 19: Transportation
 Chapter 1: Streets and Sidewalks
 --------------------------------------------------
 
+
 **Subchapter 1: Construction, Maintenance, Repair, Obstruction and Closure of Streets**
+
 *§ 19-101 Definitions. * ::
 
 
@@ -1460,7 +1462,9 @@ d. In instances where a council member or a community board has made a complaint
 
 
 
+
 **Subchapter 2: Parking and Other Uses of Streets**
+
 *§ 19-162 Permissible parking for certain purposes. * ::
 
 
@@ -2019,7 +2023,9 @@ e. As part of the carsharing parking pilot program established pursuant to this 
 
 
 
+
 **Subchapter 3: Pedestrian Rights and Safety**
+
 *§ 19-176 Bicycle operation on sidewalks prohibited. * ::
 
 

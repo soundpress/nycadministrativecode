@@ -717,7 +717,9 @@ Not less than quarterly, the department of finance shall report to the speaker o
 Chapter 2: Real Property Assessment, Taxation and Charges
 --------------------------------------------------
 
+
 **Subchapter 1: Assessment On Real Property**
+
 *§ 11-201 Assessments on real property; general powers of finance department. * ::
 
 
@@ -1450,7 +1452,9 @@ e. Cessation of use. In the event that a property granted an exemption from taxa
 
 
 
+
 **Subchapter 2: Exemptions from Real Property Taxation**
+
 *§ 11-241 Discrimination in tax exempt projects. * ::
 
 
@@ -10818,7 +10822,9 @@ This chapter shall be construed and enforced in conformity with chapter three hu
 Chapter 17: City Personal Income Tax On Residents
 --------------------------------------------------
 
+
 **Subchapter 1: General**
+
 *§ 11-1701 Imposition of tax. * ::
 
 
@@ -12014,7 +12020,9 @@ Editor's note: there are two divisions designated (c) in this section.
 
 
 
+
 **Subchapter 2: Residents**
+
 *§ 11-1711 City taxable income of a city resident individual. * ::
 
 
@@ -12745,7 +12753,9 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 
 
+
 **Subchapter 3: Returns and Payment of Tax**
+
 *§ 11-1751 Returns and liabilities. * ::
 
 
@@ -13012,7 +13022,9 @@ Any election expressly authorized by this chapter may be changed on such terms a
 
 
 
+
 **Subchapter 4: Withholding of Tax**
+
 *§ 11-1771 Requirement of withholding tax from wages. * ::
 
 
@@ -13167,7 +13179,9 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 
 
 
+
 **Subchapter 5: Procedure and Administration**
+
 *§ 11-1781 Notice of deficiency. * ::
 
 
@@ -13947,7 +13961,9 @@ This chapter shall be construed and enforced in conformity with article thirty o
 Chapter 19: Earnings Tax On Nonresidents
 --------------------------------------------------
 
+
 **Subchapter 1: General**
+
 *§ 11-1901 Meaning of terms. * ::
 
 
@@ -14192,7 +14208,9 @@ The state tax commission may require:
 
 
 
+
 **Subchapter 2: Returns and Payment of Tax**
+
 *§ 11-1916 Returns and payment of tax. * ::
 
 
@@ -14285,7 +14303,9 @@ If the amount of a taxpayer's federal or New York state taxable income or self-e
 
 
 
+
 **Subchapter 3: Procedure and Administration**
+
 *§ 11-1923 Notice of deficiency. * ::
 
 
@@ -14795,7 +14815,9 @@ All taxes, penalties and interest imposed under this chapter which are paid to o
 Chapter 20: Sales, Excise and Related Taxes
 --------------------------------------------------
 
+
 **Subchapter 1: General Sales and Compensating Use Taxes**
+
 *§ 11-2001 Imposition of general sales and compensating use taxes. * ::
 
 
@@ -14852,7 +14874,9 @@ Chapter 20: Sales, Excise and Related Taxes
 
 
 
+
 **Subchapter 2: Tax On Motor Fuel Containing Tetra Ethyl Lead**
+
 *§ 11-2033 Definition. [Repealed] * ::
 
 
@@ -14969,7 +14993,9 @@ This subchapter shall take effect September first, nineteen hundred seventy-five
 
 
 
+
 **Subchapter 4: Additional Parking Tax**
+
 *§ 11-2048 Definitions. * ::
 
 
@@ -15078,7 +15104,9 @@ This subchapter shall be construed and enforced in conformity with articles twen
 
 
 
+
 **Subchapter 5: Tax On Beer and Liquor**
+
 *§ 11-2055 Definitions. * ::
 
 

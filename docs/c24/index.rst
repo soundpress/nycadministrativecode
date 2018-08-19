@@ -4,7 +4,9 @@ Title 22: Economic Affairs
 Chapter 1: Waterfront Properties Transactions and Trade
 --------------------------------------------------
 
+
 **Subchapter 1: Waterfront Property**
+
 *§ 22-101 Definitions. * ::
 
 
@@ -359,7 +361,9 @@ b. Every lease, contract or other instrument, executed in pursuance of authority
 
 
 
+
 **Subchapter 2: Water Front Terminals**
+
 *§ 22-131 Definitions. * ::
 
 
@@ -482,7 +486,9 @@ Nothing contained in this subchapter shall be construed as in any way limiting t
 
 
 
+
 **Subchapter 3: Transfer of Barge Canal Terminals To City**
+
 *§ 22-141 Definitions. * ::
 
 
@@ -7338,7 +7344,9 @@ c. Pursuant to the provisions of article 18-B of the general municipal law, such
 Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
 --------------------------------------------------
 
+
 **Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
+
 *§ 22-801 Definitions. * ::
 
 
@@ -7379,7 +7387,9 @@ d. The first such submission shall be provided no later than December 31, 2013 a
 
 
 
+
 **Subchapter 2: Contract Requirements for Entities Contracted to Provide Economic Development Benefits on Behalf of the City**
+
 *§ 22-821 Definitions.* ::
 
 

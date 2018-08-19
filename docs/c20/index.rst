@@ -498,7 +498,9 @@ Any person violating any of the provisions of sections 20-583 through 20-593 of 
 Chapter 4: Regulation of Commodities and Services
 --------------------------------------------------
 
+
 **Subchapter 1: Dealers In Second-hand Weighing Or Measuring Devices**
+
 *§ 20-601 License required. * ::
 
 
@@ -577,7 +579,9 @@ Any person violating any of the provisions of this subchapter, upon conviction t
 
 
 
+
 **Subchapter 2: Charcoal**
+
 *§ 20-609 Charcoal. * ::
 
 
@@ -596,7 +600,9 @@ All charcoal and charcoal briquettes shall be sold by weight and each container 
 
 
 
+
 **Subchapter 3: Etching Acid***
+
 *§ 20-611 Definitions. * ::
 
 
@@ -675,7 +681,9 @@ The commissioner may make and promulgate such rules and regulations as he or she
 
 
 
+
 **Subchapter 3: Language Assistance Services In Pharmacies***
+
 *§ 20-620 Definitions. * ::
 
 
@@ -750,7 +758,9 @@ b. All such proceedings shall be commenced by the service of a notice of violati
 
 
 
+
 **Subchapter 4: Hamburgers and Chopped Meat**
+
 *§ 20-667 Definitions. * ::
 
 
@@ -791,7 +801,9 @@ A violation of any of the provisions of this subchapter shall be punishable by a
 
 
 
+
 **Subchapter 5: Sales of Petroleum Products**
+
 *§ 20-672 Price displays. * ::
 
 
@@ -1008,7 +1020,9 @@ The commissioner shall have the authority to promulgate such rules and regulatio
 
 
 
+
 **Subchapter 6: Sale of Meats**
+
 *§ 20-676 Definitions. * ::
 
 
@@ -1065,7 +1079,9 @@ All pickled, pumped and cured meat and meat products shall be labeled as to net 
 
 
 
+
 **Subchapter 7: Sale of Prepackaged Meat**
+
 *§ 20-682 Sales of prepackaged meats. * ::
 
 
@@ -1084,7 +1100,9 @@ Any person who shall violate any of the provisions of this subchapter shall be l
 
 
 
+
 **Subchapter 8: Perishable Foods**
+
 *§ 20-684 Legislative intent. * ::
 
 
@@ -1127,7 +1145,9 @@ Any person, firm, corporation or association or agent or employee thereof, who s
 
 
 
+
 **Subchapter 9: Water Saving Plumbing Fixtures**
+
 *§ 20-689 Water saving plumbing fixtures. * ::
 
 
@@ -1152,7 +1172,9 @@ Any person who shall violate any of the provisions of this subchapter shall be l
 
 
 
+
 **Subchapter 9: Price Displays**
+
 *§ 20-691 Price displays. * ::
 
 
@@ -1189,7 +1211,9 @@ The commissioner shall promulgate such rules and regulations as he or she shall 
 
 
 
+
 **Subchapter 10: thermal-shock Protection Devices**
+
 *§ 20-694 Thermal-Shock Protection Devices. * ::
 
 
@@ -1206,7 +1230,9 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 
 
 
+
 **Subchapter 11: Gauges Utilizing Mercury**
+
 *§ 20-696 Gauges Utilizing Mercury. * ::
 
 
@@ -1223,7 +1249,9 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 
 
 
+
 **Subchapter 12: Endangered Or Threatened Species**
+
 *§ 20-698 Definitions. * ::
 
 
@@ -1311,7 +1339,9 @@ Notwithstanding any other provision of law, the department shall be authorized, 
 Chapter 5: Unfair Trade Practices
 --------------------------------------------------
 
+
 **Subchapter 1: Consumer Protection Law**
+
 *§ 20-700 Unfair trade practices prohibited. * ::
 
 
@@ -1458,7 +1488,9 @@ By December 1, 2016, the commissioner, in consultation with the commission on ge
 
 
 
+
 **Subchapter 2: Truth-in-pricing Law**
+
 *§ 20-707 Definitions. * ::
 
 
@@ -1597,7 +1629,9 @@ Any person who shall violate the provisions of section 20-708 or section 20-709 
 
 
 
+
 **Subchapter 3: Posting of Prescription Drug Prices and Notices**
+
 *§ 20-712 Definitions. * ::
 
 
@@ -1646,7 +1680,9 @@ Any person who shall violate the provisions of section 20-713, section 20-713.1,
 
 
 
+
 **Subchapter 4: Information With Respect To Room Air Conditioners**
+
 *§ 20-716 Legislative findings. * ::
 
 
@@ -1711,7 +1747,9 @@ Any person or agent or employee thereof who shall violate any provision of this 
 
 
 
+
 **Subchapter 5: Representations In Advertising**
+
 *§ 20-723 Representations in advertising. * ::
 
 
@@ -1904,7 +1942,9 @@ Any person, firm, corporation or association or agent or employee thereof, who s
 
 
 
+
 **Subchapter 6: Availability For Sale of Advertised Merchandise**
+
 *§ 20-727 Raincheck issuance disclosure. * ::
 
 
@@ -1929,7 +1969,9 @@ The commissioner may adopt such rules and regulations as may be necessary to eff
 
 
 
+
 **Subchapter 7: Information With Respect To Funeral Costs**
+
 *§ 20-730 Definitions. * ::
 
 
@@ -2060,7 +2102,9 @@ Violation of any provision of this subchapter shall be punishable by a civil pen
 
 
 
+
 **Subchapter 8: Income Tax Preparers**
+
 *§ 20-739 Definitions. * ::
 
 
@@ -2196,7 +2240,9 @@ d. such other relief as a court may deem appropriate.
 
 
 
+
 **Subchapter 9: Sale of Travel Tickets**
+
 *§ 20-744 Procurement or sale of tickets, reservations or passenger accommodations. * ::
 
 
@@ -2221,7 +2267,9 @@ i. This subchapter shall not apply to tickets, reservations or passenger accommo
 
 
 
+
 **Subchapter 10: Information Regarding Redemption of Beverage Containers**
+
 *§ 20-745 Definitions. * ::
 
 
@@ -2262,7 +2310,9 @@ Violation of this subchapter, or any regulation promulgated pursuant to it, shal
 
 
 
+
 **Subchapter 11: Posting of Prices In Retail Service Establishments**
+
 *§ 20-749 Definitions. * ::
 
 
@@ -2315,7 +2365,9 @@ Any person who shall violate the provisions of this subchapter or the regulation
 
 
 
+
 **Subchapter 12: Delayed Payment Transactions: Billing Practices**
+
 *§ 20-755 Definitions. * ::
 
 
@@ -2374,7 +2426,9 @@ Any provider or agent or employee thereof who shall violate any of the provision
 
 
 
+
 **Subchapter 13: Tobacco Product Promotion**
+
 *§ 20-760 Tobacco product promotion restriction. * ::
 
 
@@ -2389,7 +2443,9 @@ d. Nothing in this subchapter shall be deemed to prohibit sponsorship of or at e
 
 
 
+
 **Subchapter 13-A: Motorized Scooters**
+
 *§ 20-762 Motorized Scooters. * ::
 
 
@@ -2404,7 +2460,9 @@ d. Any motorized scooter that has been used or is being used in violation of the
 
 
 
+
 **Subchapter 14: Domestic Workers and Household Employees**
+
 *§ 20-770 Application. * ::
 
 
@@ -2449,7 +2507,9 @@ Any person who violates, and the officers of a corporation and stockholders hold
 
 
 
+
 **Subchapter 14-a: Immigration Assistance Services**
+
 *§ 20-775 Definitions.* ::
 
 
@@ -2698,7 +2758,9 @@ a. In conjunction with the mayor’s office of immigrant affairs, the department
 
 
 
+
 **Subchapter 15: Payday Loans***
+
 *§ 20-780 Definitions. * ::
 
 
@@ -2763,7 +2825,9 @@ Any person who shall violate any of the provisions of this subchapter shall be s
 
 
 
+
 **Subchapter 15: Disclosure of Information By Child Care Facilities***
+
 *§ 20-800 Definitions. * ::
 
 
@@ -2852,7 +2916,9 @@ If any section, subsection, sentence, clause, phrase or other portion of this su
 
 
 
+
 **Subchapter 16: Tenant Screening Report Disclosure**
+
 *§ 20-807 Definitions. * ::
 
 
@@ -2923,7 +2989,9 @@ b. All proceedings under this subchapter shall be commenced by the service of a 
 
 
 
+
 **Subchapter 17: Pregnancy Services Centers**
+
 *§ 20-815 Definitions. * ::
 
 
@@ -3036,7 +3104,9 @@ Any person claiming to be injured by the failure of a pregnancy services center 
 
 
 
+
 **Subchapter 18: Prohibition on the Sale of Expired Over-the-counter Medication**
+
 *§ 20-821 Definitions. * ::
 
 
@@ -3067,7 +3137,9 @@ The department, the police department, and other agencies designated by the comm
 
 
 
+
 **Subchapter 19: Conversion Therapy Prohibition**
+
 *§ 20-824 Definitions.* ::
 
 
@@ -3108,7 +3180,9 @@ The department may promulgate such rules and regulations as it deems necessary t
 
 
 
+
 **Subchapter 20: Required Disclosures by Bail Bond Agents**
+
 *§ 20-830 Definitions.* ::
 
 
@@ -3937,7 +4011,9 @@ c. One year after the effective date of the local law that added this chapter, a
 Chapter 12: Fair Work Practices
 --------------------------------------------------
 
+
 **Subchapter 1: General Provisions**
+
 *§ 20-1201 Definitions.* ::
 
 
@@ -4210,7 +4286,9 @@ c. Civil penalty. In any civil action commenced pursuant to subdivision a of thi
 
 
 
+
 **Subchapter 2: Advance Scheduling and Schedule Change Premiums**
+
 *§ 20-1221 Advance scheduling.* ::
 
 
@@ -4295,7 +4373,9 @@ c. Notwithstanding subdivisions a and b of this section, a fast food employer is
 
 
 
+
 **Subchapter 3: Minimum Time Between Shifts**
+
 *§ 20-1231 Minimum time between shifts.* ::
 
 
@@ -4306,7 +4386,9 @@ Unless the fast food employee requests or consents to work such hours in writing
 
 
 
+
 **Subchapter 4: Access to Hours**
+
 *§ 20-1241 Offering additional shifts to current fast food employees.* ::
 
 
@@ -4341,7 +4423,9 @@ j. The director may promulgate rules regarding how and to which fast food employ
 
 
 
+
 **Subchapter 5: On-Call Scheduling**
+
 *§ 20-1251 On-call scheduling prohibited.* ::
 
 
@@ -4400,7 +4484,9 @@ The provisions of this subchapter do not apply to any retail employee covered by
 
 
 
+
 **Subchapter 6: Temporary Changes to Work Schedules for Personal Events and Protections from Retaliation for Making Schedule Change Requests**
+
 *§ 20-1261 Definitions.* ::
 
 

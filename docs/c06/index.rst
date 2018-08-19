@@ -830,7 +830,9 @@ g. The city shall not be liable for any damages as a result of failure to provid
 Chapter 7: Nuisance Abatement Law
 --------------------------------------------------
 
+
 **Subchapter 1: [Public Nuisance Defined]**
+
 *§ 7-701 Legislative declaration. * ::
 
 
@@ -907,7 +909,9 @@ The following are declared to be public nuisances:
 
 
 
+
 **Subchapter 2: [Remedies For Public Nuisances Generally; Permanent Injunction]**
+
 *§ 7-705 Applicability. * ::
 
 
@@ -1060,7 +1064,9 @@ The corporation counsel shall show, by affidavit and such other evidence as may 
 
 
 
+
 **Subchapter 3: [Remedies For Promotion of Obscene Material; Seizure and Civil Penalty]**
+
 *§ 7-715 Applicability. * ::
 
 
@@ -1143,7 +1149,9 @@ This chapter shall not be construed to exclude any other remedy provided by law 
 
 
 
+
 **Subchapter 4: Authorized Dispositions and Orders**
+
 *§ 7-723 Limitations on exclusions of natural persons.* ::
 
 

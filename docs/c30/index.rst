@@ -4,7 +4,9 @@ Title 28: New York City Construction Codes
 Chapter 1: Administration
 --------------------------------------------------
 
-****
+
+**Article 101: General**
+
 *§ 28-101.1 Title. * ::
 
 
@@ -409,7 +411,9 @@ ZONING RESOLUTION. The zoning resolution of the city of New York, adopted Decemb
 
 
 
-****
+
+**Article 102: Applicability**
+
 *§ 28-102.1 General. * ::
 
 
@@ -506,7 +510,9 @@ References to provisions of the building code of the city of New York or to chap
 
 
 
-****
+
+**Article 103: Duties and Powers of Commissioner Of Buildings**
+
 *§ 28-103.1 Jurisdiction. * ::
 
 
@@ -1127,7 +1133,9 @@ The office of alternative energy shall maintain a website and shall post on such
 
 
 
-****
+
+**Article 104: Construction Documents**
+
 *§ 28-104.1 General. * ::
 
 
@@ -2341,7 +2349,9 @@ No permit for construction or demolition work for which training is required by 
 
 
 
-****
+
+**Article 106: Asbestos**
+
 *§ 28-106.1 Asbestos certification required. * ::
 
 
@@ -2410,7 +2420,9 @@ For the purposes of this article, the terms "asbestos" and "asbestos project" sh
 
 
 
-****
+
+**Article 107: Alteration Or Demolition of Single Room Occupancy Multiple Dwellings**
+
 *§ 28-107.1 General. * ::
 
 
@@ -2537,7 +2549,9 @@ Where the commissioner rejects or rescinds the approval of construction document
 
 
 
-****
+
+**Article 108: Pavement Plan**
+
 *§ 28-108.1 General. * ::
 
 
@@ -2572,7 +2586,9 @@ The commissioner shall insure that streets are suitably improved in accordance w
 
 
 
-****
+
+**Article 109: Fire Protection Plan**
+
 *§ 28-109.1 Fire protection plan required for covered buildings. * ::
 
 
@@ -2655,7 +2671,9 @@ The plan shall include the following information, where applicable:
 
 
 
-****
+
+**Article 110: Site Safety Plan**
+
 *§ 28-110.1 Site safety plan. * ::
 
 
@@ -2714,7 +2732,9 @@ Multiple layouts of the site safety features enumerated in section 28-110.1 may 
 
 
 
-****
+
+**Article 111: Temporary Structures and Uses**
+
 *§ 28-111.1 General. * ::
 
 
@@ -2785,7 +2805,9 @@ Notwithstanding any inconsistent provision of this article the use of a temporar
 
 
 
-****
+
+**Article 112: Fees**
+
 *§ 28-112.1 Payment of fees. * ::
 
 
@@ -3684,7 +3706,9 @@ The commissioner shall establish by rule a program for reducing the amount of an
 
 
 
-****
+
+**Article 113: Materials**
+
 *§ 28-113.1 General. * ::
 
 
@@ -3889,7 +3913,9 @@ Where a penalty is imposed pursuant to this article for work that has been perfo
 
 
 
-****
+
+**Article 114: Approved Agencies**
+
 *§ 28-114.1 General. * ::
 
 
@@ -3962,7 +3988,9 @@ An approved agency shall have its approval re-authorized in accordance with rule
 
 
 
-****
+
+**Article 115: Special Inspection Agencies and Special Inspectors**
+
 *§ 28-115.1 General. * ::
 
 
@@ -3987,7 +4015,9 @@ A special inspector shall maintain records of special inspections on a building 
 
 
 
-****
+
+**Article 116: Inspections and Sign-off of Completed Work**
+
 *§ 28-116.1 General. * ::
 
 
@@ -4298,7 +4328,9 @@ The commissioner shall not issue a certificate of operation to an outdoor tempor
 
 
 
-****
+
+**Article 118: Certificates of Occupancy**
+
 *§ 28-118.1 General provisions. * ::
 
 
@@ -4670,7 +4702,9 @@ Within 24 hours after gas service to a building is shut off by a utility company
 Chapter 2: Enforcement
 --------------------------------------------------
 
-****
+
+**Article 201: General**
+
 *§ 28-201.1 Unlawful acts. * ::
 
 
@@ -4813,7 +4847,9 @@ Civil penalties and criminal fines and imprisonment shall be imposed within the 
 
 
 
-****
+
+**Article 202: Civil Penalties**
+
 *§ 28-202.1 Civil penalties.* ::
 
 
@@ -4942,7 +4978,9 @@ In determining the amount of the civil penalty to be imposed the court shall con
 
 
 
-****
+
+**Article 203: Criminal Penalties**
+
 *§ 28-203.1 Criminal fines and imprisonment. * ::
 
 
@@ -4979,7 +5017,9 @@ In the case of continuing violations each day's continuance shall be a separate 
 
 
 
-****
+
+**Article 204: Environmental Control Board**
+
 *§ 28-204.1 General. * ::
 
 
@@ -5154,7 +5194,9 @@ The procedures provided in this section 28-204.6 for the enforcement of environm
 
 
 
-****
+
+**Article 205: Civil Judicial Proceedings**
+
 *§ 28-205.1 Civil judicial enforcement. * ::
 
 
@@ -5251,7 +5293,9 @@ The notice of pendency referred to in this section 28-205.1.5 may be filed at th
 
 
 
-****
+
+**Article 206: Criminal Judicial Proceedings**
+
 *§ 28-206.1 Criminal judicial enforcement. * ::
 
 
@@ -5268,7 +5312,9 @@ The criminal penalties provided by this code shall be in addition to or alternat
 
 
 
-****
+
+**Article 207: Peremptory Orders**
+
 *§ 28-207.1 Contents and service. * ::
 
 
@@ -5425,7 +5471,9 @@ Upon application, the commissioner shall rescind the cease use order when the co
 
 
 
-****
+
+**Article 208: Commissioner's Request for Corrective Action**
+
 *§ 28-208.1 Commissioner's request for corrective action. * ::
 
 
@@ -5458,7 +5506,9 @@ Nothing in this article shall be construed to limit the power of the commissione
 
 
 
-****
+
+**Article 209: Commissioner's Order to Correct Unlawful Use Or Condition**
+
 *§ 28-209.1 General. * ::
 
 
@@ -5475,7 +5525,9 @@ All orders issued by the commissioner shall contain a description of the buildin
 
 
 
-****
+
+**Article 210: Illegal Conversions**
+
 *§ 28-210.1 Illegal residential conversions. * ::
 
 
@@ -5542,7 +5594,9 @@ By no later than September 1 of each year, the department shall, with the cooper
 
 
 
-****
+
+**Article 211: False Statements**
+
 *§ 28-211.1 False statements in certificates, forms, written statements, applications, reports or certificates of correction. * ::
 
 
@@ -5575,7 +5629,9 @@ It shall be unlawful for any person to falsely represent himself or herself as a
 
 
 
-****
+
+**Article 212: Abatement of Public Nuisance Caused By Certain Illegal Occupancies**
+
 *§ 28-212.1 Abatement of public nuisances caused by illegal commercial or manufacturing occupancy in residence districts and certain other zoning districts. * ::
 
 
@@ -5720,7 +5776,9 @@ It shall be unlawful for any person to use or occupy or to permit any other pers
 
 
 
-****
+
+**Article 213: Penalty for Work Without A Permit**
+
 *§ 28-213.1 Department penalty for work without a permit. * ::
 
 
@@ -5813,7 +5871,9 @@ The department shall remove from the watch list created pursuant to section 28-2
 
 
 
-****
+
+**Article 214: Order to Seal, Secure and Close**
+
 *§ 28-214.1 Order to seal, secure and close. * ::
 
 
@@ -5920,7 +5980,9 @@ Payments pursuant to section 28-214.3.1 shall be made as a matter of grace and s
 
 
 
-****
+
+**Article 215: Emergency Powers of the Commissioner**
+
 *§ 28-215.1 Emergency work. * ::
 
 
@@ -5993,7 +6055,9 @@ Upon the failure to comply with any order of the commissioner within the time li
 
 
 
-****
+
+**Article 216: Unsafe Buildings**
+
 *§ 28-216.1 Conditions constituting an unsafe building or structure.* ::
 
 
@@ -6082,7 +6146,9 @@ Any costs and expenses incurred by any agency of the city pursuant to this artic
 
 
 
-****
+
+**Article 217: Buildings and Structures That Are Potentially Compromised**
+
 *§ 28-217.1 Buildings and structures that are potentially structurally compromised.* ::
 
 
@@ -6091,7 +6157,9 @@ For purposes of this article "potentially compromised" shall include a building 
 
 
 
-****
+
+**Article 218: Safety Compliance Officer**
+
 *§ 28-218.1 Definition.* ::
 
 
@@ -6148,7 +6216,9 @@ The SCO shall keep and maintain records relating to the services performed on be
 
 
 
-****
+
+**Article 219: Failure to Certify Correction of Certain Immediately Hazardous Violations**
+
 *§ 28-219.1 Department penalty for failure to certify correction.* ::
 
 
@@ -6198,7 +6268,9 @@ Exceptions:
 Chapter 3: Maintenance of Buildings
 --------------------------------------------------
 
-****
+
+**Article 301: General**
+
 *§ 28-301.1 Owner's responsibilities. * ::
 
 
@@ -6215,7 +6287,9 @@ Reports required to be filed under this chapter shall be filed in writing or ele
 
 
 
-****
+
+**Article 302: Maintenance of Exterior Walls**
+
 *§ 28-302.1 General. * ::
 
 
@@ -6280,7 +6354,9 @@ The registered design professional shall not file a report of a safe condition w
 
 
 
-****
+
+**Article 303: Periodic Boiler Inspections**
+
 *§ 28-303.1 General. * ::
 
 
@@ -6415,7 +6491,9 @@ The owner of each boiler subject to periodic inspection pursuant to this article
 
 
 
-****
+
+**Article 304: Elevators and Conveying Systems**
+
 *§ 28-304.1 General. * ::
 
 
@@ -6598,7 +6676,9 @@ When all elevators servicing a building or any section of a building are expecte
 
 
 
-****
+
+**Article 305: Retaining Walls, Partition Fences and Other Site structures**
+
 *§ 28-305.1 Retaining walls, partition fences and other site structures. * ::
 
 
@@ -6793,7 +6873,9 @@ The registered design professional shall not file a report of safe with repair a
 
 
 
-****
+
+**Article 306: Party Walls**
+
 *§ 28-306.1 Responsibility for party walls. * ::
 
 
@@ -6810,7 +6892,9 @@ Refer to section BC 3309 of the New York city building code for additional requi
 
 
 
-****
+
+**Article 307: Workplace Exits**
+
 *§ 28-307.1 Obstruction of workplace exits prohibited. * ::
 
 
@@ -6843,7 +6927,9 @@ It shall be unlawful for an employer or the agent of such employer to take a ret
 
 
 
-****
+
+**Article 308: Energy Audits and Retro-commissioning of Base Building Systems**
+
 *§ 28-308.1 Definitions. * ::
 
 
@@ -7302,7 +7388,9 @@ The department shall promulgate such rules as are necessary to carry out the pro
 
 
 
-****
+
+**Article 309: Benchmarking Energy and Water Use and Disclosure of Energy Efficiency Scores and Grades**
+
 *§ 28-309.1 General. * ::
 
 
@@ -7581,7 +7669,9 @@ The department shall, from time to time, audit information submitted for buildin
 
 
 
-****
+
+**Article 310: Required Upgrade of Lighting Systems**
+
 *§ 28-310.1 General. * ::
 
 
@@ -7632,7 +7722,9 @@ Exceptions:
 
 
 
-****
+
+**Article 311: Installation of Electrical Sub-meters In Tenant Spaces**
+
 *§ 28-311.1 General. * ::
 
 
@@ -7699,7 +7791,9 @@ The owner of each covered building shall file a report in accordance with the ru
 
 
 
-****
+
+**Article 312: Carbon Monoxide and Smoke Alarms**
+
 *§ 28-312.1 General. * ::
 
 
@@ -7754,7 +7848,9 @@ On or after January 1, 2021, smoke alarms and smoke detectors installed or repla
 
 
 
-****
+
+**Article 313: Accessibility**
+
 *§ 28-313.1 Retroactive requirement for directional signage at building entrances. * ::
 
 
@@ -7775,7 +7871,9 @@ Exception: Accessible entrance signs that are posted at building entrances in co
 
 
 
-****
+
+**Article 314: Periodic Wastewater Recycling System Inspection and Testing**
+
 *§ 28-314.1 General. * ::
 
 
@@ -7848,7 +7946,9 @@ All defects and violations identified during the inspection and testing process 
 
 
 
-****
+
+**Article 315: Retroactive Requirements**
+
 *§ 28-315.1 General. * ::
 
 
@@ -8093,7 +8193,9 @@ All doors providing access to interior corridors or stairs in occupancy groups R
 
 
 
-****
+
+**Article 316: Insulation of Concealed Pipes Exposed During Alteration or Repair**
+
 *§ 28-316.1 Required insulation of certain concealed piping exposed during alteration or repair. * ::
 
 
@@ -8110,7 +8212,9 @@ Exceptions:
 
 
 
-****
+
+**Article 317: Cooling Towers**
+
 *§ 28-317.1 General.* ::
 
 
@@ -8215,7 +8319,9 @@ Failure to register a cooling tower or submit a certification or statement requi
 
 
 
-****
+
+**Article 318: Periodic Inspection of Gas Piping Systems**
+
 *§ 28-318.1 General.* ::
 
 
@@ -8330,7 +8436,9 @@ Failure to submit a certification required by this article shall be classified a
 
 
 
-****
+
+**Article 319: Maintenance and Removal of Small Wind Turbines**
+
 *§ 28-319.1 Maintenance.* ::
 
 
@@ -8354,7 +8462,9 @@ The owner of a small wind turbine, as such term is defined in section 3113.2 of 
 Chapter 4: Licensing and Registration of Businesses, Trades And Occupations Engaged In Building Work
 --------------------------------------------------
 
-****
+
+**Article 401: General**
+
 *§ 28-401.1 Application. * ::
 
 
@@ -8677,7 +8787,9 @@ In the event that the holder of a license is no longer actively engaged as a lic
 
 
 
-****
+
+**Article 402: Site Safety Manager Certificate**
+
 *§ 28-402.1 Certificate required. * ::
 
 
@@ -8706,7 +8818,9 @@ All applicants for a site safety manager certificate shall submit satisfactory p
 
 
 
-****
+
+**Article 403: Site Safety Coordinator Certificate**
+
 *§ 28-403.1 Certificate required. * ::
 
 
@@ -8731,7 +8845,9 @@ All applicants for a site safety coordinator certificate shall submit satisfacto
 
 
 
-****
+
+**Article 404: Rigger License**
+
 *§ 28-404.1 Rigger license required. * ::
 
 
@@ -8848,7 +8964,9 @@ As a condition of license renewal or reinstatement, a licensed master or special
 
 
 
-****
+
+**Article 405: Hoisting Machine Operator License**
+
 *§ 28-405.1 Hoisting machine operator license required. * ::
 
 
@@ -8957,7 +9075,9 @@ Unless otherwise required by rule, licensed hoisting machine operators are exemp
 
 
 
-****
+
+**Article 406: Concrete Testing Laboratory License**
+
 *§ 28-406.1 Concrete testing laboratory license required. * ::
 
 
@@ -9006,7 +9126,9 @@ An examination shall not be required for a concrete testing laboratory license.
 
 
 
-****
+
+**Article 407: Welder License**
+
 *§ 28-407.1 Welder license required. * ::
 
 
@@ -9039,7 +9161,9 @@ Unless otherwise required by rule, licensed welders are exempt from the insuranc
 
 
 
-****
+
+**Article 408: Master Plumber License**
+
 *§ 28-408.1 Master plumber license required. * ::
 
 
@@ -9238,7 +9362,9 @@ Exception: The provisions of this section 28-408.6.6 shall not apply to minor al
 
 
 
-****
+
+**Article 409: Journeyman Plumber Registration**
+
 *§ 28-409.1 Journeyman plumber registration; additional qualifications. * ::
 
 
@@ -9279,7 +9405,9 @@ The registration card shall clearly state: "This registration is NOT A LICENSE, 
 
 
 
-****
+
+**Article 410: Master Fire Suppression Piping Contractor License**
+
 *§ 28-410.1 Master fire suppression piping contractor license required. * ::
 
 
@@ -9500,7 +9628,9 @@ Exception: The provisions of this section 28-410.8.6 shall not apply to minor al
 
 
 
-****
+
+**Article 411: Journeyman Fire Supression Piping Installer Registration**
+
 *§ 28-411.1 Journeyman fire suppression piping installer registration; additional qualifications.* ::
 
 
@@ -9541,7 +9671,9 @@ The registration shall clearly state: "This registration is NOT A LICENSE, and t
 
 
 
-****
+
+**Article 412: Oil-burning Equipment Installer License**
+
 *§ 28-412.1 Oil-burning equipment installer license required. * ::
 
 
@@ -9602,7 +9734,9 @@ Every licensed oil burning equipment installer shall have a place of business wi
 
 
 
-****
+
+**Article 413: High-pressure Boiler Operating Engineer License**
+
 *§ 28-413.1 High-pressure boiler operating engineer license required. * ::
 
 
@@ -9663,7 +9797,9 @@ Notwithstanding section 28-413.2, upon application, individuals who hold a porta
 
 
 
-****
+
+**Article 415: Sign Hanger License**
+
 *§ 28-415.1 Sign hanger license required. * ::
 
 
@@ -9758,7 +9894,9 @@ As a condition of license renewal or reinstatement, a licensed sign hanger shall
 
 
 
-****
+
+**Article 416: Filing Representative Registration**
+
 *§ 28-416.1 Filing representative registration required.* ::
 
 
@@ -9803,7 +9941,9 @@ The commissioner shall promulgate rules for the proper and efficient administrat
 
 
 
-****
+
+**Article 417: Boards**
+
 *§ 28-417.1 Plumbing and fire suppression piping contractor license board. * ::
 
 
@@ -9872,7 +10012,9 @@ The board may request the commissioner to appoint duly authorized representative
 
 
 
-****
+
+**Article 418: General Contractor Registration**
+
 *§ 28-418.1 Requirement of registration. * ::
 
 
@@ -10189,7 +10331,9 @@ In any forfeiture action commenced pursuant to this article, where the court awa
 
 
 
-****
+
+**Article 420: Requirement of Safety Registration Number**
+
 *§ 28-420.1 Requirement of application for safety registration number. * ::
 
 
@@ -10282,7 +10426,9 @@ On and after October 1, 2009, it shall be unlawful to represent or cause to be r
 
 
 
-****
+
+**Article 421: Private Elevator Inspection Agency Director license**
+
 *§ 28-421.1 Private elevator inspection agency director license required. * ::
 
 
@@ -10327,7 +10473,9 @@ Every licensed private elevator inspection agency shall have a place of business
 
 
 
-****
+
+**Article 422: Private Elevator Inspection Agency Inspector license**
+
 *§ 28-422.1 Private elevator inspection agency inspector license required. * ::
 
 
@@ -10354,7 +10502,9 @@ Each private elevator inspection agency inspector shall perform work pursuant to
 
 
 
-****
+
+**Article 423: Qualification for Gas Work**
+
 *§ 28-423.1 Qualification required.* ::
 
 
@@ -10475,7 +10625,9 @@ The gas work qualification shall have no expiration and need not be renewed or r
 
 
 
-****
+
+**Article 424: Lift Director Registration**
+
 *§ 28-424.1 Lift director required.* ::
 
 
@@ -10537,7 +10689,9 @@ Applicants for a lift director registration shall submit satisfactory proof esta
 Chapter 5: Miscellaneous Provisions
 --------------------------------------------------
 
-****
+
+**Article 501: Maintenance Permit for Outdoor Signs**
+
 *§ 28-501.1 Permit required. * ::
 
 
@@ -10610,7 +10764,9 @@ The provisions of this article shall not apply to:
 
 
 
-****
+
+**Article 502: Outdoor Advertising Companies**
+
 *§ 28-502.1 Definitions.* ::
 
 
@@ -10807,7 +10963,9 @@ The department may investigate any matter within the jurisdiction conferred by t
 
 
 
-****
+
+**Article 503: Nuisance Abatement for Illegal Signs**
+
 *§ 28-503.1 General.* ::
 
 
@@ -10904,7 +11062,9 @@ An order of the commissioner issued pursuant to this article shall be a final de
 
 
 
-****
+
+**Article 504: Bicycle Access to Buildings**
+
 *§ 28-504.1 Bicycle access to certain office buildings.* ::
 
 
@@ -11119,7 +11279,9 @@ In any building classified in occupancy group R, it shall be unlawful for an own
 
 
 
-****
+
+**Article 505: Certification of No Harassment Pilot Program**
+
 *§ 28-505.1 General.* ::
 
 

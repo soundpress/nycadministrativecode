@@ -2066,7 +2066,9 @@ e. This section shall not be construed to create a private right of action to en
 Chapter 3: Licenses and Permits
 --------------------------------------------------
 
+
 **Subchapter 1: Administrative Provisions**
+
 *§ 17-301 Language preference for inspections.* ::
 
 
@@ -2075,7 +2077,9 @@ Every application for a license or a permit, or the renewal of an existing licen
 
 
 
+
 **Subchapter 2: Food Vendors**
+
 *§ 17-306 Definitions.* ::
 
 
@@ -2628,7 +2632,9 @@ The department shall establish and implement a system for grading and classifyin
 
 
 
+
 **Subchapter 3: Rental Horse Licensing and Protection Law**
+
 *§ 17-326 Definitions.* ::
 
 
@@ -2809,7 +2815,9 @@ d. The training program shall be available only to persons holding a currently v
 
 
 
+
 **Subchapter 4: Inhalation therapy**
+
 *§ 17-335 Inhalation therapy.* ::
 
 
@@ -2932,7 +2940,9 @@ Compressed air to be used in tanks for underwater breathing that are offered for
 
 
 
+
 **Subchapter 6: Dangerous Dog Regulation and Protection Law**
+
 *§ 17-342 Definitions.* ::
 
 
@@ -3073,7 +3083,9 @@ If any provision of this subchapter is adjudged invalid by any court of competen
 
 
 
+
 **Subchapter 7: Tattoo Regulation Act**
+
 *§ 17-355 Short title.* ::
 
 
@@ -3188,7 +3200,9 @@ The commissioner shall promulgate rules in accordance with the provisions of thi
 
 
 
+
 **Subchapter 8: Boarding Kennel Regulation Act**
+
 *§ 17-364 Short title.* ::
 
 
@@ -3245,7 +3259,9 @@ Any owner or operator of a boarding kennel, business or establishment that viola
 
 
 
+
 **Subchapter 9: Pet Shops**
+
 *§ 17-371 Definitions.* ::
 
 
@@ -4320,7 +4336,9 @@ The costs associated with drug testing shall be borne by the motor carriers.
 Chapter 7: Regulation of Tobacco Products
 --------------------------------------------------
 
+
 **Subchapter 1: Tobacco Product Regulation Act**
+
 *§ 17-701 Short title.* ::
 
 
@@ -4581,7 +4599,9 @@ Nothing contained in this subchapter shall be construed to preclude the city of 
 
 
 
+
 **Subchapter 2: Regulation of the Sale of Flavored Tobacco Products and Regulation of Age of Entry to Non-Tobacco Hookah Establishments**
+
 *§ 17-713 Definitions.* ::
 
 
@@ -4900,7 +4920,9 @@ c. A pet shop that allows an animal shelter or animal rescue group to use such p
 Chapter 9: Lead-based Paint In Day Care Facilities
 --------------------------------------------------
 
+
 **Subchapter 1: Definitions**
+
 *§ 17-900 Definitions.* ::
 
 
@@ -4933,7 +4955,9 @@ For the purpose of this chapter the following terms shall have the following mea
 
 
 
+
 **Subchapter 2: Remediation of Lead-based Paint Hazards In Day Care Facilities**
+
 *§ 17-910 Presumption.* ::
 
 

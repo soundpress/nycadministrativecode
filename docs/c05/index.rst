@@ -2646,7 +2646,9 @@ Within five days after the final execution of any contract made pursuant to chap
 Chapter 3: Environmental Purchasing
 --------------------------------------------------
 
+
 **Subchapter 1: General Provisions**
+
 *§ 6-301 Definitions. * ::
 
 
@@ -2799,7 +2801,9 @@ d. Except as otherwise provided in this chapter, the director may exempt from th
 
 
 
+
 **Subchapter 2: Oversight of Environmental Purchasing**
+
 *§ 6-304 Director of citywide environmental purchasing. * ::
 
 
@@ -2860,7 +2864,9 @@ b. The department of education shall submit an annual report to the speaker of t
 
 
 
+
 **Subchapter 3: Energy Efficiency**
+
 *§ 6-306 Energy efficiency standards. * ::
 
 
@@ -2893,7 +2899,9 @@ d. Any agency need not comply with the provisions of this section if compliance 
 
 
 
+
 **Subchapter 4: Recycled Materials**
+
 *§ 6-308 Minimum recycled material content. * ::
 
 
@@ -2928,7 +2936,9 @@ b. Notwithstanding section 6-302 of this chapter, this subdivision shall apply t
 
 
 
+
 **Subchapter 5: Hazardous Substances**
+
 *§ 6-311 Reuse or recycling of electronic devices. * ::
 
 
@@ -2985,7 +2995,9 @@ b. The director shall investigate the environmental and health effects of compos
 
 
 
+
 **Subchapter 6: Cleaning Products**
+
 *§ 6-316 Green cleaning products. * ::
 
 
@@ -2996,7 +3008,9 @@ b. No later than June 1, 2009, the director shall publish a list of green cleani
 
 
 
+
 **Subchapter 7: Packaging Reduction**
+
 *§ 6-317 Packaging reduction guidelines for city agencies. * ::
 
 

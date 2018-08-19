@@ -1302,7 +1302,9 @@ c. "Person" means any governmental body, except the city of New York, public cor
 Chapter 3: Solid Waste Recycling
 --------------------------------------------------
 
+
 **Subchapter 1: Short Title, Policy and Definitions**
+
 *§ 16-301 Short title. * ::
 
 
@@ -1389,7 +1391,9 @@ When used in this chapter:
 
 
 
+
 **Subchapter 2: Citywide Recycling Program**
+
 *§ 16-304 Department-disposed of solid waste. [Repealed] * ::
 
 
@@ -1760,7 +1764,9 @@ d. The department shall perform such research and development activities, in coo
 
 
 
+
 **Subchapter 3: Recycling Studies**
+
 *§ 16-316 Recycling and composting economic development study. * ::
 
 
@@ -1813,7 +1819,9 @@ c. If the department determines that a voluntary recycling incentive pilot progr
 
 
 
+
 **Subchapter 4: Recycling Advisory Boards**
+
 *§ 16-317 Citizens' solid waste advisory boards; membership. * ::
 
 
@@ -1894,7 +1902,9 @@ b. When used in this section:
 
 
 
+
 **Subchapter 5: City Purchase of Recycled Products [Repealed]**
+
 *§ 16-322 City purchase of products made from secondary materials. [Repealed] * ::
 
 
@@ -1939,7 +1949,9 @@ f. Any person who violates section 16-329 of this chapter or any rule promulgate
 
 
 
+
 **Subchapter 7: Temporary Emergency Recycling Requirements**
+
 *§ 16-325 Temporary emergency recycling requirements. * ::
 
 
@@ -1956,7 +1968,9 @@ e. The mayor and council shall create a temporary task force in order to develop
 
 
 
+
 **Subchapter 8: Solid Waste and Recyclable Materials At Street Events**
+
 *§ 16-326 Definitions. * ::
 
 
@@ -2001,7 +2015,9 @@ In addition to any other applicable penalties, any producer/event manager, or an
 
 
 
+
 **Subchapter 9: Restrictions on the Sale or Use of Certain Expanded Polystyrene Items**
+
 *§ 16-329 Restrictions on the sale or use of certain expanded polystyrene items.* ::
 
 

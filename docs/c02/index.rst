@@ -4,7 +4,9 @@ Title 3: Elected officials
 Chapter 1: Mayor
 --------------------------------------------------
 
+
 **Subchapter 1: [No Title]**
+
 *§ 3-101 Flag of the mayor. * ::
 
 
@@ -727,7 +729,9 @@ Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in 
 
 
 
+
 **Subchapter 2: Office of Long-Term Planning and Sustainability**
+
 *§ 3-120 Annual city food system metrics report.** ::
 
 
@@ -1032,7 +1036,9 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 
 
 
+
 **Subchapter 3: Office of Veterans' Affairs [Repealed]**
+
 *§ 3-130 Employment resources. [Repealed] * ::
 
 
@@ -1065,7 +1071,9 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 
 
 
+
 **Subchapter 4: Office of Labor Standards**
+
 *§ 3-140 Office of Labor Standards.* ::
 
 
@@ -1086,7 +1094,9 @@ b. No later than February 15, 2017, and no later than every February fifteenth t
 
 
 
+
 **Subchapter 5: Reports Related to Public Housing**
+
 *§ 3-150 General.* ::
 
 
@@ -1175,7 +1185,9 @@ b. Such information shall be made publicly available in a non-proprietary format
 
 
 
+
 **Subchapter 6: Gender, Racial and Income Equity**
+
 *§ 3-160 Equity assessments.* ::
 
 
@@ -1235,7 +1247,9 @@ b. Training. Not later than July 15, 2020, the relevant city agencies shall prov
 Chapter 2: City Council and City Clerk
 --------------------------------------------------
 
+
 **Subchapter 1: [Council Districts; Powers and Duties]**
+
 *§ 3-201 Councilmanic flag. * ::
 
 
@@ -1536,7 +1550,9 @@ b. Other Persons. The council may require that any candidate for direct appointm
 
 
 
+
 **Subchapter 2: Regulation of Lobbying**
+
 *§ 3-211 Definitions. * ::
 
 
@@ -1953,7 +1969,9 @@ All statements and reports required under this subchapter shall contain the foll
 
 
 
+
 **Subchapter 3: Prohibition of Gifts By Lobbyists**
+
 *§ 3-224 Definitions. * ::
 
 
@@ -1986,7 +2004,9 @@ Any person required to be listed on the statement of registration pursuant to se
 
 
 
+
 **Subchapter 3: Domestic Partnerships**
+
 *§ 3-240 [Definitions.]** * ::
 
 

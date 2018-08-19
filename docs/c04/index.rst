@@ -144,7 +144,9 @@ It shall be unlawful for the city to make, or cause to be made, any alteration o
 Chapter 3: Condemnation Procedures
 --------------------------------------------------
 
+
 **Subchapter 1: Consolidated Condemnation Procedure**
+
 *§ 5-301 Definitions. * ::
 
 
@@ -583,7 +585,9 @@ Notwithstanding any provisions of the railroad law or of any other statute, gene
 
 
 
+
 **Subchapter 2: Excess Lands Acquisition Procedure**
+
 *§ 5-341 Definitions. * ::
 
 
@@ -682,7 +686,9 @@ b. Nothing in subdivision b of section three hundred eighty-four of the charter 
 
 
 
+
 **Subchapter 3: Acquisition of Real Property For Water Supply purposes**
+
 *§ 5-351 Definitions. * ::
 
 
@@ -955,7 +961,9 @@ c. If the city shall have been unable to secure such approval of the municipal a
 
 
 
+
 **Subchapter 3-a: Water Supply**
+
 *§ 5-376 Determination of additional sources of water supply; reports to board of estimate. * ::
 
 
@@ -1242,7 +1250,9 @@ Any reference to the former board of water supply occurring in any law, code, co
 
 
 
+
 **Subchapter 4: Street Closing Condemnation Procedure**
+
 *§ 5-430 Definitions. * ::
 
 

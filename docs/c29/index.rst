@@ -4,8 +4,12 @@ Title 27: Construction and Maintenance
 Chapter 2: Housing Maintenance Code
 --------------------------------------------------
 
+
 **Subchapter 1: General Provisions**
-****
+
+
+**Article 1: General Provisions**
+
 *§ 27-2001 Short title. * ::
 
 
@@ -252,8 +256,12 @@ b. Except as otherwise provided herein, all terms used in this chapter shall be 
 
 
 
+
 **Subchapter 2: Maintenance, Services, and Utilities**
-****
+
+
+**Article 1: Obligations of Owner and Tenant: Duty To Repair**
+
 *§ 27-2005 Duties of owner. * ::
 
 
@@ -394,7 +402,9 @@ h. Violations and penalties. Any owner who fails to comply this section shall be
 
 
 
-****
+
+**Article 2: Cleaning**
+
 *§ 27-2010 Cleaning of roofs, yards, courts and other open spaces. * ::
 
 
@@ -421,7 +431,9 @@ b. The owner of all rooming units in a rooming house or an entire multiple dwell
 
 
 
-****
+
+**Article 3: Painting**
+
 *§ 27-2013 Painting of public parts and within dwellings. * ::
 
 
@@ -492,7 +504,9 @@ b. The department may by regulation extend the time for repainting when in its j
 
 
 
-****
+
+**Article 4: Extermination and Rodent Eradication**
+
 *§ 27-2017 Definitions. * ::
 
 
@@ -577,7 +591,9 @@ All building material, lumber, boxes, cartons, barrels, containers, machinery, r
 
 
 
-****
+
+**Article 5: Collection of Wastes**
+
 *§ 27-2020 Definitions. * ::
 
 
@@ -632,7 +648,9 @@ The owner and occupants of a one or two-family dwelling shall provide for the re
 
 
 
-****
+
+**Article 6: Water Supply**
+
 *§ 27-2024 Water supply to buildings. * ::
 
 
@@ -649,7 +667,9 @@ The owner of a dwelling shall provide proper appliances for the use of every dwe
 
 
 
-****
+
+**Article 7: Sewers and Drainage**
+
 *§ 27-2026 Maintenance of sewer connections and plumbing fixtures. * ::
 
 
@@ -672,7 +692,9 @@ d. The owner of a dwelling may plant grass, sod, shrubs, trees and other vegetat
 
 
 
-****
+
+**Article 8: Heat and Hot Water**
+
 *§ 27-2028 Central heat or electric or gas heating system; when required. * ::
 
 
@@ -745,7 +767,9 @@ b. Multiple dwellings owned and operated by the New York city housing authority 
 
 
 
-****
+
+**Article 9: Gas Appliances**
+
 *§ 27-2034 Space and water heaters. * ::
 
 
@@ -794,7 +818,9 @@ The owner shall cause an inspection to be made by a licensed plumber, utility co
 
 
 
-****
+
+**Article 10: Artificial Lighting**
+
 *§ 27-2037 Duty to provide electric lighting equipment in all dwellings. * ::
 
 
@@ -835,7 +861,9 @@ b. The owner of a multiple dwelling shall install and maintain in every yard and
 
 
 
-****
+
+**Article 11: Protective Devices and Fire Protection**
+
 *§ 27-2041 Peepholes. * ::
 
 
@@ -1048,7 +1076,9 @@ d. Any owner who is required to provide stove knob covers pursuant to this secti
 
 
 
-****
+
+**Article 12: Miscellaneous Services and Facilities**
+
 *§ 27-2047 Mail service. * ::
 
 
@@ -1093,7 +1123,9 @@ Prior to the expectant arrival of a weather emergency, a natural disaster event 
 
 
 
-****
+
+**Article 13: Janitorial Services**
+
 *§ 27-2052 Definitions. * ::
 
 
@@ -1152,7 +1184,9 @@ The provisions of this article shall not be applicable to the New York city hous
 
 
 
-****
+
+**Article 14: Lead Poisoning Prevention and Control;sd**
+
 *§ 27-2056.1 Statement of findings and purposes. * ::
 
 
@@ -1467,8 +1501,12 @@ For the purposes of this article, the term "applicable age" shall mean "under se
 
 
 
+
 **Subchapter 3: Physical and Occupancy Standards For Dwelling Units**
-****
+
+
+**Article 1: Lighting and Ventilation**
+
 *§ 27-2057 Lighting and ventilation in multiple dwellings; general requirements. * ::
 
 
@@ -1631,7 +1669,9 @@ c. Noncomplying rooms.
 
 
 
-****
+
+**Article 2: Sanitary Facilities**
+
 *§ 27-2063 Location of water closets. * ::
 
 
@@ -1760,7 +1800,9 @@ The owner of a one- or two-family dwelling shall provide for the exclusive use o
 
 
 
-****
+
+**Article 3: Kitchens and Kitchenettes**
+
 *§ 27-2070 Facilities and equipment. * ::
 
 
@@ -1819,7 +1861,9 @@ f. The owner of a dwelling shall provide every kitchen and kitchenette with gas 
 
 
 
-****
+
+**Article 4: Minimum Room Sizes and Occupancy Regulations**
+
 *§ 27-2074 Minimum room sizes. * ::
 
 
@@ -1940,7 +1984,9 @@ An owner or lessee of any dwelling containing rooming house accommodations or an
 
 
 
-****
+
+**Article 5: Occupancy of Cellars and Basements**
+
 *§ 27-2081 Occupancy of cellars and basements in multiple dwellings; general requirements. * ::
 
 
@@ -2129,7 +2175,9 @@ The board of standards and appeals shall have those powers and authority as set 
 
 
 
-****
+
+**Article 6: Vacant Multiple Dwellings**
+
 *§ 27-2089 Requirements for reoccupancy of vacant multiple dwellings. * ::
 
 
@@ -2150,8 +2198,12 @@ b. The provisions of this article shall not apply to:
 
 
 
+
 **Subchapter 4: Administration**
-****
+
+
+**Article 1: Powers and Functions of the Department**
+
 *§ 27-2090 Power to make regulations. * ::
 
 
@@ -2518,7 +2570,9 @@ e. The department shall prominently display, on its website and in portions of i
 
 
 
-****
+
+**Article 2: Registration**
+
 *§ 27-2097 Registration; time to file. * ::
 
 
@@ -2705,7 +2759,9 @@ c. The provisions of this section shall not apply to any foreclosure actions bro
 
 
 
-****
+
+**Article 3: Speculation Watch List**
+
 *§ 27-2109.51 Definitions.* ::
 
 
@@ -2750,8 +2806,12 @@ g. On or after January 1, 2021, the department may change the methodology for id
 
 
 
+
 **Subchapter 5: Legal Remedies and Enforcement**
-****
+
+
+**Article 1: Enforcement Actions and Proceedings In General**
+
 *§ 27-2110 Style of legal actions by department; disposition of moneys collected. * ::
 
 
@@ -2812,7 +2872,9 @@ h. No civil or criminal liability or penalty shall attach to any person who shal
 
 
 
-****
+
+**Article 2: Civil Penalty**
+
 *§ 27-2115 Imposition of civil penalty. * ::
 
 
@@ -2969,7 +3031,9 @@ h. No civil or criminal liability or penalty shall attach to any person who shal
 
 
 
-****
+
+**Article 3: Criminal Penalty**
+
 *§ 27-2118 Penalties; willful or reckless violations; false statements. * ::
 
 
@@ -2998,7 +3062,9 @@ Any person (1) who refuses entry, or access to an officer or inspector of the de
 
 
 
-****
+
+**Article 4: Injunctive Relief**
+
 *§ 27-2120 Injunctions; mandatory and prohibitory. * ::
 
 
@@ -3053,7 +3119,9 @@ A person who fails to comply with an order issued pursuant to this article by a 
 
 
 
-****
+
+**Article 5: Repairs By Department**
+
 *§ 27-2125 Power to cause or order corrections of violations. * ::
 
 
@@ -3134,7 +3202,9 @@ In December 2016 and in each December thereafter, the department shall submit to
 
 
 
-****
+
+**Article 6: Receivership**
+
 *§ 27-2130 Grounds for appointment of receiver. * ::
 
 
@@ -3231,7 +3301,9 @@ Nothing herein contained shall be deemed to relieve the owner of any civil or cr
 
 
 
-****
+
+**Article 7: Vacate Orders**
+
 *§ 27-2139 Power to order dwelling vacated. * ::
 
 
@@ -3292,7 +3364,9 @@ d. The department may require as a condition for revocation of a vacate order, t
 
 
 
-****
+
+**Article 8: Recovery of Expenses**
+
 *§ 27-2143 Action against the owner for recovery of expenses. * ::
 
 
@@ -3383,7 +3457,9 @@ d. Such receivership shall continue until the amount of such liens and the commi
 
 
 
-****
+
+**Article 9: Withdrawal of Single Room Occupancy Dwelling Units from the Rental Market Prohibited**
+
 *§ 27-2150 Definitions. * ::
 
 
@@ -3440,7 +3516,9 @@ h. In the event of any inconsistency between the provisions of this article and 
 
 
 
-****
+
+**Article 10: Alternative Enforcement Program**
+
 *§ 27-2153 Alternative Enforcement Program. * ::
 
 
@@ -3546,7 +3624,9 @@ v. No later than July 31, 2012 and every two years thereafter the department sha
 Chapter 3: Electrical Code
 --------------------------------------------------
 
+
 **Subchapter 1: General Provisions and Definitions**
+
 *§ 27-3001 Short title. * ::
 
 
@@ -4159,7 +4239,9 @@ Except as otherwise provided in this chapter, any person or business who shall v
 
 
 
+
 **Subchapter 2: Technical Standards**
+
 *§ 27-3024 Adoption of the electrical code technical standards. * ::
 
 

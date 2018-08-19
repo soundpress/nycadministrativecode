@@ -4,7 +4,9 @@ Title 24: Environmental Protection and Utilities
 Chapter 1: Air Pollution Control
 --------------------------------------------------
 
+
 **Subchapter 1: Short Title, Policy, and Definitions**
+
 *§ 24-101 Short title. * ::
 
 
@@ -207,7 +209,9 @@ When used in the New York city air pollution control code:
 
 
 
+
 **Subchapter 2: General Provisions**
+
 *§ 24-105 General powers of the commissioner. * ::
 
 
@@ -440,7 +444,9 @@ The standards referenced in this code, including standards promulgated by ASTM I
 
 
 
+
 **Subchapter 3: Refuse Burning Equipment; Incinerators and Crematoriums**
+
 *§ 24-117 Existing refuse burning equipment. [Repealed.]* ::
 
 
@@ -475,7 +481,9 @@ No person shall cause or permit the installation of equipment designed to burn s
 
 
 
+
 **Subchapter 4: Work Permits and Certificates of Operation**
+
 *§ 24-120 Installation and alteration; work permit required. * ::
 
 
@@ -764,7 +772,9 @@ A work permit or certificate of operation that has been cancelled or revoked pur
 
 
 
+
 **Subchapter 5: Asbestos**
+
 *§ 24-136 Asbestos work. * ::
 
 
@@ -909,7 +919,9 @@ No person shall cause or permit the spraying of any substance containing asbesto
 
 
 
+
 **Subchapter 6: Emission Standards**
+
 *§ 24-141 Emission of odorous air contaminants. * ::
 
 
@@ -1316,7 +1328,9 @@ Editor's note: Former § 24-154 (environmental ratings; applications and appeals
 
 
 
+
 **Subchapter 7: Equipment and Apparatus: Use And maintenance**
+
 *§ 24-155 Maintenance of equipment and apparatus. * ::
 
 
@@ -2131,7 +2145,9 @@ No person shall use or permit the use of equipment or apparatus for a purpose or
 
 
 
+
 **Subchapter 8: Fuel Standards**
+
 *§ 24-168 Use of proper fuel in fuel burning equipment. * ::
 
 
@@ -2370,7 +2386,9 @@ No person shall cause or permit the shipment or delivery of fuel into the city o
 
 
 
+
 **Subchapter 9: Enforcement**
+
 *§ 24-178 Powers of the board. * ::
 
 
@@ -2735,7 +2753,9 @@ The board shall have authority from time to time to make, amend, and rescind suc
 Chapter 2: Noise Control
 --------------------------------------------------
 
+
 **Subchapter 1: Short Title, Policy and Definitions**
+
 *§ 24-201 Short title. * ::
 
 
@@ -2886,7 +2906,9 @@ When used in the New York city noise control code the following terms shall have
 
 
 
+
 **Subchapter 2: General Provisions**
+
 *§ 24-204 General powers of the commissioner. * ::
 
 
@@ -3097,7 +3119,9 @@ Unless otherwise specifically provided, all sound level measurements under this 
 
 
 
+
 **Subchapter 3: Prohibited Noise; General Prohibition**
+
 *§ 24-218 General prohibitions. * ::
 
 
@@ -3152,7 +3176,9 @@ d. Notice to patrons.
 
 
 
+
 **Subchapter 4: Construction Noise Management**
+
 *§ 24-219 Noise mitigation rules. * ::
 
 
@@ -3333,7 +3359,9 @@ It shall be unlawful to perform work at any construction site in the city that i
 
 
 
+
 **Subchapter 5: Prohibited Noise Specific Noise Sources=msound Level Standard**
+
 *§ 24-225 Refuse collection vehicles. * ::
 
 
@@ -3515,7 +3543,9 @@ No person shall cause or permit operation of a small wind turbine, as such term 
 
 
 
+
 **Subchapter 6: Specific Noise Sources Plainly Audible and Other Standards**
+
 *§ 24-233 Personal audio devices. * ::
 
 
@@ -3668,7 +3698,9 @@ The provisions of this code shall not apply to the operation of a snow blower fo
 
 
 
+
 **Subchapter 7: Certificates and Tunneling Permits**
+
 *§ 24-245 Operating certificates and renewal of operating certificates; tunneling permits; when required. * ::
 
 
@@ -3825,7 +3857,9 @@ The department may charge for a copy of its publications a fee in an amount not 
 
 
 
+
 **Subchapter 8: Enforcement**
+
 *§ 24-257 Powers of the board. * ::
 
 
@@ -4389,7 +4423,9 @@ Notwithstanding any inconsistent provision of law, the civil penalties for the v
 Chapter 3: Water Supply
 --------------------------------------------------
 
+
 **Subchapter 1: Water Supply To the City of New York**
+
 *§ 24-301 Assessment of city property used for water purposes. * ::
 
 
@@ -4910,7 +4946,9 @@ h. Unless otherwise specifically provided, service of any notice or order may be
 
 
 
+
 **Subchapter 2: Water Supply Sources Outside the City of New York**
+
 *§ 24-347 Commissioner of environmental protection to submit forms of contracts and specifications for approval of corporation counsel. * ::
 
 
@@ -5029,7 +5067,9 @@ Nothing herein contained shall authorize or empower the city to prohibit the pub
 
 
 
+
 **Subchapter 3: Water Supply To Other Municipalities**
+
 *§ 24-360 Water supply to municipalities other than New York city; connections; charges; regulations; quantity to be taken. * ::
 
 
@@ -5086,7 +5126,9 @@ g. All persons acting under the authority of the city shall have the right to us
 
 
 
+
 **Subchapter 4: Water Supply; Miscellaneous**
+
 *§ 24-364 Utilization of water to generate electric current. * ::
 
 
@@ -6423,7 +6465,9 @@ c.  This section expires 15 years after the effective date of the local law that
 Chapter 6: Hazardous Substance Emergencies
 --------------------------------------------------
 
+
 **Subchapter 1: Short Title, Policy and Definitions**
+
 *§ 24-601 Short title. * ::
 
 
@@ -6474,7 +6518,9 @@ h. "treatment" means any method, technique, or process, including neutralization
 
 
 
+
 **Subchapter 2: Cost Recovery**
+
 *§ 24-604 Recovery of emergency response costs. * ::
 
 
@@ -6541,7 +6587,9 @@ Upon the completion of any response measure giving rise to a lien, the city agen
 
 
 
+
 **Subchapter 3: Hazardous Substance Release; Emergency Response**
+
 *§ 24-607 Definitions. * ::
 
 

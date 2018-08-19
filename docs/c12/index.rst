@@ -4,7 +4,9 @@ Title 13: Retirement and Pensions
 Chapter 2: Police Pension Funds
 --------------------------------------------------
 
+
 **Subchapter 1: [Police Department, Subchapter One Pension Fund]**
+
 *§ 13-201 Definitions. * ::
 
 
@@ -303,7 +305,9 @@ g. Notwithstanding any other provision of law to the contrary, for all funding o
 
 
 
+
 **Subchapter 2: [Police Department, Subchapter Two Pension Fund]**
+
 *§ 13-214 Definitions. * ::
 
 
@@ -2226,7 +2230,9 @@ i. Nothing contained in this section shall be construed as affecting in any way 
 
 
 
+
 **Subchapter 3: [Police officer's Variable Supplements Fund]**
+
 *§ 13-268 Definitions. * ::
 
 
@@ -2495,7 +2501,9 @@ The superintendent of insurance may examine the affairs of the variable suppleme
 
 
 
+
 **Subchapter 4: [Police Superior officers' Variable Supplements Fund]**
+
 *§ 13-278 Definitions. * ::
 
 
@@ -2743,7 +2751,9 @@ The superintendent of insurance may examine the affairs of the variable suppleme
 Chapter 5: Miscellaneous Pension and Retirement Provisions
 --------------------------------------------------
 
+
 **Subchapter 1: Relief and Pension Fund of the Department Of Street Cleaning**
+
 *§ 13-601 Organization and membership. * ::
 
 
@@ -2918,7 +2928,9 @@ e. The privilege of electing to become a member of the New York city employees' 
 
 
 
+
 **Subchapter 2: Hunter College Retirement System of the City Of New York**
+
 *§ 13-615 Merger of system with teachers' retirement system and provisions relative thereto. * ::
 
 
@@ -2927,7 +2939,9 @@ Notwithstanding anything to the contrary in this code, on the first day of July 
 
 
 
+
 **Subchapter 3: Health Department Pension Fund**
+
 *§ 13-616 Organization and membership. * ::
 
 
@@ -3066,7 +3080,9 @@ All pensions, allowances, benefits, grants, awards or payments and any other ben
 
 
 
+
 **Subchapter 4: Miscellaneous Provisions**
+
 *§ 13-629 Transfer of officers and employees to the department of traffic. * ::
 
 
@@ -4949,7 +4965,9 @@ Notwithstanding any other provision of law to the contrary, the New York city em
 
 
 
+
 **Subchapter 5: Retirement By Board of Estimate**
+
 *§ 13-639 Board of estimate; authority to recommend retirement. * ::
 
 
@@ -4990,8 +5008,12 @@ This subchapter shall not apply to any person who is, or may be, entitled to sha
 
 
 
+
 **Subchapter 6: Supplemental Pensions**
-****
+
+
+**Article 1: [Supplemental Retirement Allowances For Certain City Retirees]**
+
 *§ 13-644 Definitions. * ::
 
 
@@ -5092,7 +5114,9 @@ No monies belonging to any retirement or pension system or plan shall be appropr
 
 
 
-****
+
+**Article 2: [Supplemental Retirement Allowances For certain City Retirees, Police Or Fire Retirees, Surviving Spouses Or Dependents, Police Or Fire Line-of-duty Surviving Spouses Or dependents, and Street Cleaning Surviving spouses Or Dependents]**
+
 *§ 13-652 Definitions. * ::
 
 
@@ -5259,7 +5283,9 @@ The supplemental retirement allowances provided pursuant to this article shall n
 
 
 
-****
+
+**Article 3: [Supplemental Retirement Allowances For Certain Police Retirees]**
+
 *§ 13-662 Definitions. * ::
 
 
@@ -5344,7 +5370,9 @@ The supplemental retirement allowances provided pursuant to this article shall n
 
 
 
-****
+
+**Article 4: [Supplemental Retirement Allowances For Certain Fire Retirees]**
+
 *§ 13-671 Definitions. * ::
 
 
@@ -5429,7 +5457,9 @@ The supplemental retirement allowances provided pursuant to this article shall n
 
 
 
-****
+
+**Article 5: Supplemental Retirement Allowances For Certain Retirees of the New York City Employees' Retirement System and Of The teachers' And Board Of Education Retirement Systems**
+
 *§ 13-680 Supplemental retirement allowances based on consumer price index. * ::
 
 
@@ -5724,7 +5754,9 @@ e. The provisions of this section shall apply to supplemental retirement allowan
 
 
 
-****
+
+**Article 6: Supplemental Retirement Allowances For Certain Police Or Fire Line-of-duty Widows Or Dependents, Based On the Cost-of-living Index**
+
 *§ 13-685 Definitions. * ::
 
 
@@ -5819,7 +5851,9 @@ The comptroller shall have authority to require any department or agency of the 
 
 
 
-****
+
+**Article 7: Supplemental Retirement Allowances For Retirees of Closed Pension Funds Or Plans, Based On the Cost-of-living Index**
+
 *§ 13-690 Definitions. * ::
 
 
@@ -6044,7 +6078,9 @@ The comptroller shall have authority to require any department or agency of the 
 
 
 
-****
+
+**Article 8: Funding of Certain Supplemental Retirement allowances**
+
 *§ 13-694 Definitions. * ::
 
 
