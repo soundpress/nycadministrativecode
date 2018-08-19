@@ -930,21 +930,19 @@ Chapter 1: Mayor
 .. list-table::
     :header-rows: 1
 
-    * - Year
-      - Dollar value per metric ton of carbon dioxide equivalent
-    * - 2017
-      - 128
-    * - 2018
-      - 132
-    * - 2019
-      - 136
-    * - 2020
-      - 140
-    * - 2021
-      - 142
-&nbsp;
-
-
+    * - Category:
+      - Participation goal:
+    * - Black Americans
+      - 7% of total annual agency expenditures on such contracts
+    * - Asian Americans
+      - 8% of total annual agency expenditures on such contracts
+    * - Hispanic Americans
+      - 5% of total annual agency expenditures on such contracts
+    * - Women
+      - 25% of total annual agency expenditures on such contracts
+    * - Emerging
+      - 6% of total annual agency expenditures on such contracts
+~
 
 
 
