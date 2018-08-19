@@ -19,23 +19,23 @@ Department. The term "department" means the New York city department of veterans
 § 31-102 Employment resources. ::
 
 
-a.   Definitions. For the purposes of this section:
+a. Definitions. For the purposes of this section:
 
-      Federal veterans job bank. The term "federal veterans job bank" means the job bank developed by the federal government for veterans or any subsequent online tool that the federal government utilizes to connect veterans with employment opportunities.
+ Federal veterans job bank. The term "federal veterans job bank" means the job bank developed by the federal government for veterans or any subsequent online tool that the federal government utilizes to connect veterans with employment opportunities.
 
-      City job. The term "city job" means employment with the government of the city of New York.
+ City job. The term "city job" means employment with the government of the city of New York.
 
-   b.   The department shall publish on its website information concerning resources intended to assist veterans in obtaining employment including, but not limited to:
+ b. The department shall publish on its website information concerning resources intended to assist veterans in obtaining employment including, but not limited to:
 
-      1.   a link to the federal veterans job bank;
+ 1. a link to the federal veterans job bank;
 
-      2.   links to websites describing veteran employment services provided by the federal government and New York state government, including, but not limited to, the websites of the United States department of labor, the New York state department of labor, the United States department of veterans affairs, and the New York state division of veterans' affairs; and
+ 2. links to websites describing veteran employment services provided by the federal government and New York state government, including, but not limited to, the websites of the United States department of labor, the New York state department of labor, the United States department of veterans affairs, and the New York state division of veterans' affairs; and
 
-      3.   links to any additional resources deemed relevant by the department.
+ 3. links to any additional resources deemed relevant by the department.
 
-   c.   The department shall consult with the department of citywide administrative services and other appropriate city agencies to identify city job postings for inclusion in the federal veterans job bank and shall also ensure that such city job postings are included in such job bank and are updated as necessary to maintain accuracy.
+ c. The department shall consult with the department of citywide administrative services and other appropriate city agencies to identify city job postings for inclusion in the federal veterans job bank and shall also ensure that such city job postings are included in such job bank and are updated as necessary to maintain accuracy.
 
-   d.   The department shall consult with the department of small business services to identify job postings that are received or maintained by the department for inclusion in the federal veterans job bank and shall also ensure that such job postings are included in such job bank and are updated as necessary to maintain accuracy.
+ d. The department shall consult with the department of small business services to identify job postings that are received or maintained by the department for inclusion in the federal veterans job bank and shall also ensure that such job postings are included in such job bank and are updated as necessary to maintain accuracy.
 
 
 
