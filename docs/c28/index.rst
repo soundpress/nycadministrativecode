@@ -2476,31 +2476,6 @@ d. Nothing contained in this chapter shall be construed as creating any private 
 
 
 
-Chapter 13: Certification of Certain Rent Payment*
---------------------------------------------------
-
-
-
-*§ 26-1301 Certification of payment.** ::
-
-
-(a) Whenever rent is paid by the human resources administration to a landlord on behalf of a tenant who is receiving public assistance, a certification of payment shall be made available to the tenant through an on-line client portal, ACCESS HRA. The certification of payment shall set forth:
-
-   (1) the date the payment was sent;
-
-   (2) the name of the landlord to whom the payment was sent;
-
-   (3) the address to which payment was sent; and
-
-   (4) the amount of payment sent.
-
-(b) At the time of approval of an application for public assistance, the human resource administration office shall provide the applicant for assistance with written notice of his or her right to access and receive certification of rent payments as provided in this section.
-
-
-
-
-
-
 Chapter 13: Provision of Legal Services in Eviction Proceedings*
 --------------------------------------------------
 
@@ -2658,6 +2633,31 @@ b. No later than September 1, 2018 and annually by each September 1 thereafter, 
 
 
 The coordinator may promulgate such rules as may be necessary to carry out the purposes of this chapter.
+
+
+
+
+
+
+Chapter 13: Certification of Certain Rent Payment*
+--------------------------------------------------
+
+
+
+*§ 26-1301 Certification of payment.** ::
+
+
+(a) Whenever rent is paid by the human resources administration to a landlord on behalf of a tenant who is receiving public assistance, a certification of payment shall be made available to the tenant through an on-line client portal, ACCESS HRA. The certification of payment shall set forth:
+
+   (1) the date the payment was sent;
+
+   (2) the name of the landlord to whom the payment was sent;
+
+   (3) the address to which payment was sent; and
+
+   (4) the amount of payment sent.
+
+(b) At the time of approval of an application for public assistance, the human resource administration office shall provide the applicant for assistance with written notice of his or her right to access and receive certification of rent payments as provided in this section.
 
 
 
