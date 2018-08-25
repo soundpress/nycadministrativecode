@@ -3274,3 +3274,158 @@ Within eighteen months after the effective date of the local law that added this
 
 
 
+Chapter 4-H: Reduced Permitted Capacity at Solid Waste Transfer Stations
+--------------------------------------------------
+
+
+
+*§ 16-498 Definitions.* ::
+
+
+When used in this chapter, terms defined in subdivision a of section 16-130 shall have the meanings given therein and the following terms shall have the following meanings:
+
+Designated community districts. The term "designated community districts" means community district one in the borough of Brooklyn, community districts one and two in the borough of the Bronx, and community district 12 in the borough of Queens, as identified on the effective date of the local law that added this section on the map of community districts established pursuant to section 2702 of the New York city charter.
+
+Emergency. The term "emergency" means the same as "emergency conditions and potential incidents" as described in subdivision a of section 497 of the New York city charter regardless of whether a multi-agency response is needed.
+
+Exempted day. The term "exempted day" means each of the following days: January second; the day after the third Monday in January; February thirteenth; the day after the third Monday in February; the day after the last Monday in May; July fifth; the day after the first Monday in September; the day after the second Monday in October; the Wednesday following the first Monday in November; November twelfth; the day after the fourth Thursday in November; and December twenty-sixth, except that if any such day falls on a Sunday, the exempted day shall be the next following business day.
+
+Operational date. The term "operational date" means, for Brooklyn community district one and Queens community district 12, the first date on which a marine transfer station operated by the department and located in the same borough as such district begins accepting residential waste from the department. For Bronx community districts one and two, such term shall mean the date on which the first marine transfer station operated by the department and located in the city begins accepting residential waste from the department.
+
+Organic waste. The term "organic waste" has the same meaning as set forth in section 16-303.
+
+Overconcentrated district. The term "overconcentrated district" means a community district that contains 10 percent or more of the total citywide permitted capacity for putrescible and non-putrescible solid waste transfer stations, including transfer stations operated by or on behalf of the department.
+
+Permitted capacity. The term "permitted capacity" means, for a putrescible solid waste transfer station, the total amount of solid waste that is permitted by the department to be delivered to such solid waste transfer station as measured in tons per day, and for a non-putrescible solid waste transfer station, the average tons per day permitted to be delivered to such solid waste transfer station over the quarter year. For purposes of this chapter, a non-putrescible transfer station shall not include a facility permitted as a fill material transfer station by the department pursuant to sections 16-130 and 16-131 of chapter 4 of this title.
+
+Quarter year. The term "quarter year" means any of the four three-month periods of a year that begin with the first day in the months of January, April, July and October.
+
+Total quarterly capacity. The term "total quarterly capacity" means, for a non-putrescible solid waste transfer station, the total amount of solid waste allowed to be delivered to such transfer station within any quarter year.
+
+
+
+
+
+
+
+
+*§ 16-498.1 Reduction of overall permitted capacity.* ::
+
+
+a. By October 1, 2019 or the relevant operational date, whichever is later, the commissioner shall, for each designated community district, set the permitted capacity for each putrescible and non-putrescible solid waste transfer station operating in such designated community district. The permitted capacity of each putrescible and non-putrescible solid waste transfer station in community district one in the borough of Brooklyn shall be reduced by 50 percent below the permitted capacity for such transfer station on the effective date of the local law that added this section. The permitted capacity of each putrescible and non-putrescible solid waste transfer station in community districts one and two in the borough of the Bronx and community district 12 in the borough of Queens shall be reduced by 33 percent below the permitted capacity for such transfer station on the effective date of the local law that added this section.
+
+b. Any reductions in permitted capacity required pursuant to this section for a transfer station in a designated community district shall be implemented at the time that the transfer station's permit is renewed.
+
+c. On exempted days occurring after the date that reductions under this section are implemented for a designated community district, a putrescible solid waste transfer station in such designated community district may process waste in an amount equivalent to such transfer station's permitted capacity prior to the reductions required by this section.
+
+
+
+
+
+
+
+
+*§ 16-498.2 Allocating reductions of permitted capacity.* ::
+
+
+a. The commissioner shall not impose the reductions to permitted capacity required by section 16-498.1 on any putrescible or non-putrescible solid waste transfer station that exports by rail all or the majority of the waste accepted at any such transfer station and which does not use a public street to transport such waste between such transfer station and the rail facility.
+
+b. The commissioner shall determine the average daily amount of solid waste transported by barge for the three years preceding October 1, 2019, or the operational date, whichever is later, by each putrescible solid waste transfer station within a designated community district. In calculating any required reduction in permitted capacity for a putrescible solid waste transfer station pursuant to section 16-498.1, the commissioner shall not include, in any amount required to be reduced, such average daily amount of waste transported by barge, provided that:
+
+   1. On or before April 1, 2019, the owner of such transfer station submits an application to the commissioner to modify its permit to restrict the use of its permitted capacity, or a portion thereof, exclusively to putrescible solid waste that is transported out of the city from such transfer station by barge, and that application is approved by the commissioner; and
+
+   2. By October 1, 2019, or the relevant operational date, whichever is later, any such transfer station restricts the use of its permitted capacity, or such portion thereof, exclusively to putrescible solid waste that is transported from such transfer station by barge.
+
+c. A putrescible solid waste transfer station may reserve up to 20 percent of its permitted capacity exclusively for source separated organic waste to be recycled. Such reserved amount shall not be included in the transfer station's permitted capacity when the commissioner calculates any required reduction in permitted capacity for such putrescible solid waste transfer station pursuant to section 16-498.1, provided that:
+
+   1. On or before April 1, 2019, the owner of such transfer station submits an application to the commissioner to modify its permit to restrict the use of its permitted capacity, or a portion thereof, exclusively to source separated organic waste, and that application is approved by the commissioner; and
+
+   2. By October 1, 2019, or the relevant operational date, whichever is later, any such transfer station restricts the use of its permitted capacity, or such portion reserved for source separated organic waste, exclusively to source separated organic waste.
+
+d. The commissioner shall determine the average daily amount of metal, glass, plastic, paper and corrugated cardboard recycled for the three years preceding October 1, 2019, or the operational date, whichever is later, by each transfer station within a designated community district. In calculating any required reduction in permitted capacity pursuant to section 16-498.1, the commissioner shall not include, in any amount required to be reduced, the lesser of (i) such average daily amount of recycled metal, glass, plastic, paper and corrugated cardboard or (ii) 20 percent of the transfer station's permitted capacity.
+
+e. The commissioner shall determine the average daily amount of construction and demolition debris recycled for the three years preceding October 1, 2019, or the operational date, whichever is later, by each non-putrescible solid waste transfer station within a designated community district. In calculating any required reduction in permitted capacity pursuant to section 16-498.1, the commissioner shall not include, in any amount required to be reduced, 50 percent of such average daily amount of construction and demolition debris.
+
+f. After a reduction in permitted capacity required by section 16-498.1 in a designated community district, each non-putrescible solid waste transfer station within such community district shall have a total quarterly capacity equal to the permitted capacity allocated to such transfer station multiplied by 78. The amount of non-putrescible waste that may be delivered to a non-putrescible transfer station on any single day may not exceed such transfer station's daily permitted capacity prior to the reductions required by this section.
+
+
+
+
+
+
+
+
+*§ 16-498.3 Waiver.* ::
+
+
+a. The commissioner may waive the reductions to permitted capacity and the limits to total quarterly capacity required by this chapter for the duration of any emergency.
+
+b. After the reductions in permitted capacity required by section 16-498.1 have been implemented at a transfer station in a designated community district, the commissioner may, on a one-time basis, increase the permitted capacity of any such transfer station that seeks a modification to its permit solely to increase the amount of organic waste or metal, glass, plastic, paper or corrugated cardboard that is separated for recycling, provided that such increase shall be no greater than 20 percent of the transfer station's then-existing permitted capacity.
+
+
+
+
+
+
+
+
+*§ 16-498.4 Overconcentrated districts.* ::
+
+
+After October 1, 2019, the commissioner shall not increase permitted capacity for any putrescible or non-putrescible solid waste transfer station in an overconcentrated district or increase permitted capacity for any community district that would result in such district becoming an overconcentrated district, except in accordance with section 16-498.3, and except the commissioner may allow increased permitted capacity for any putrescible or non-putrescible solid waste transfer station that exports by rail all or the majority of the waste accepted at any such transfer station and which does not use a public street to transport such waste between such transfer station and the rail facility, and except that the commissioner may authorize the transfer of permitted capacity from a putrescible solid waste transfer station within a designated community district to another putrescible solid waste transfer station, within the same community district, for which the commissioner has set a reduced permitted capacity in accordance with subdivision a of section 16-498.1, or from a non-putrescible solid waste transfer station within a designated community district to another non-putrescible solid waste transfer station, within the same community district, for which the commissioner has set a reduced permitted capacity in accordance with subdivision a of section 16-498.1, provided that a transfer station receiving a transfer of permitted capacity may use such transferred permitted capacity only after the implementation, in accordance with subdivision b of section 16-498.1, of such reduction, and provided further that the permitted capacity of any transfer station receiving a transfer of permitted capacity may not exceed the permitted capacity of such transfer station that was in effect before the commissioner set a reduced permitted capacity for such transfer station in accordance with subdivision a of section 16-498.1, and provided further that the transfer station that is transferring its permitted capacity will no longer be operating as a waste transfer station after the transfer.
+
+
+
+
+
+
+
+
+*§ 16-498.5 Reporting.* ::
+
+
+On or before October 1, 2020, and annually thereafter, the commissioner shall report to the mayor and the speaker of the council the following information:
+
+a. A list of permitted solid waste transfer stations and for each such station, organized by community district:
+
+   1. The community district in which such transfer station is located;
+
+   2. The type of material permitted for acceptance at such transfer station;
+
+   3. The permitted capacity of such transfer station;
+
+   4. The average amount of waste accepted daily at such transfer station for each quarter year of the previous calendar year; and
+
+   5. a. Any change to such transfer station's permitted capacity during the previous calendar year, specifying which changes were required pursuant to this chapter.
+
+      b. The feasibility of reducing truck traffic traveling through residential neighborhoods by means other than reductions to permitted capacity for transfer stations.
+
+
+
+
+
+
+
+
+*§ 16-498.6 Notification.* ::
+
+
+No later than 120 days after the end of each quarter year, the commissioner shall notify the mayor and the speaker of the council if the amount of waste delivered to permitted solid waste transfer stations located within any community district is in excess of 90 percent of the total permitted capacity for such transfer stations. Such notification shall include the percentage of the total citywide permitted capacity for putrescible and non-putrescible solid waste transfer stations, including transfer stations operated by or on behalf of the department, in such community district for the quarter year and the percentage of the total citywide putrescible and non-putrescible solid waste delivered to such community district for the quarter year.
+
+
+
+
+
+
+
+
+*§ 16-498.7 Displaced employee list.* ::
+
+
+The commissioner shall maintain a list containing the names and contact addresses or telephone numbers of persons formerly employed by a transfer station in a designated community district whose employment ended as a result of the a reduction in permitted capacity required pursuant to section 16-498.1. The addition or deletion of information on such list relating to a person on such list shall be made only upon the request of such person. A copy of such list shall be made available upon request by an owner or operator of a transfer facility and shall be sent to all transfer stations on an annual basis. The provision of such list shall in no way be construed as a recommendation by the city regarding the employment of any person on such list, nor shall the city be responsible for the accuracy of the information set forth therein.
+
+
+
+
+
+
