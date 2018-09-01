@@ -1321,7 +1321,9 @@ Except as the New York city fire code may otherwise provide, the construction do
 *§ 28-104.2 Application for approval of construction documents.* ::
 
 
-The department shall assign an application number to and docket all applications for approval of construction documents and any amendments thereto filed with it. The department shall examine the construction documents promptly after their submission. The examination shall be made under the direction of the commissioner for compliance with the provisions of this code and other applicable laws and rules. The personnel employed for the examination of construction documents shall be qualified registered design professionals, experienced in building construction and design.
+The department shall assign an application number to and docket all applications for approval of construction documents and any amendments thereto filed with it. The department shall examine the construction documents promptly after their submission. The examination shall be made under the direction of the commissioner for compliance with the provisions of this code and other applicable laws and rules. The personnel employed for the examination of construction documents shall be qualified registered design professionals, experienced in building construction and design. The department shall provide written notification to owners of adjoining property at the time such application is submitted.
+
+
 
 
 
@@ -1333,7 +1335,11 @@ The department shall assign an application number to and docket all applications
 
 The commissioner may, in the commissioner's discretion, establish a program whereby construction and related documents may be accepted with less than full examination by the department based on the professional certification of an applicant who is a registered design professional. On a monthly basis, the commissioner shall audit no less than 25 percent of construction documents which are for multiple dwellings where 25 percent or more of the dwelling units are occupied and such multiple dwellings, in whole or in part, either (i) are subject to rent regulation, (ii) are being rehabilitated or maintained as affordable housing through a department of housing preservation and development program, (iii) are subject to a city regulatory agreement mandating the creation or preservation of a certain number of affordable units, (iv) contain affordable housing units created, sponsored or preserved through other city programs or initiatives, or (v) where the department knows or has reason to know, are the subject of a rent overcharge application which is in the process of being investigated by the New York State division of housing and community renewal.
 
-Exception: Construction or related documents may not be subject to less than full examination if the building is listed on the department of housing preservation and development’s website pursuant to paragraph 6 of subdivision m of section 27-2115.
+Exceptions:
+
+1. Construction or related documents may not be subject to less than full examination if the building is listed on the department of housing preservation and development’s website pursuant to paragraph 6 of subdivision m of section 27-2115.
+
+2. Where a penalty is imposed pursuant to article 213 of chapter 2 of this title for work that has been performed without a permit on a building (i) construction and related documents for work at such building shall not be accepted with less than full examination by the department for one year after such imposition or (ii) if such work without a permit was performed on only part of such building and the owner of such part is not the owner of such building, construction and related documents for work on such part shall not be accepted with less than full examination by the department for one year after such imposition or until the date such part of such building changes owners, whichever is sooner.
 
 
 
@@ -1537,7 +1543,11 @@ Exceptions:
 *§ 28-104.2.7.1 Notification of approval.* ::
 
 
-The department shall, on a weekly basis, send council members and community boards, by electronic mail, a copy of all notices of approval for applications for a new building or an alteration that will require a new certificate of occupancy for a building, sent to applicants during the prior week, disaggregated by community board. In addition, the department shall post such information on its website on a weekly basis.
+The department shall, on a weekly basis, send council members and community boards, by electronic mail, and post on its website, a copy of all notices of approval for applications sent to applicants during the prior week, disaggregated by community board, for:
+
+1. A new building or an alteration that will require a new certificate of occupancy for a building; and
+
+2. Work at a building or part thereof for which construction and related documents shall not be accepted with less than full examination by the department pursuant to the exception to section 28-104.2.1.
 
 
 
@@ -2424,7 +2434,9 @@ A permit shall not be required for excavation performed for a geotechnical inves
 *§ 28-105.5 Application for permit.* ::
 
 
-All applications for permits shall be submitted on forms furnished by the department. Applications shall include all information required by this code, other applicable law or the rules of the department. The applicant shall list any portions of the design that have been approved for deferred submittal in accordance with section 28-104.2.6. The application shall set forth an inspection program for the project. An application for a permit shall be submitted no later than 12 months after the approval of all required construction documents (other than those documents approved for deferred submittal).
+All applications for permits shall be submitted on forms furnished by the department. Applications shall include all information required by this code, other applicable law or the rules of the department. The applicant shall list any portions of the design that have been approved for deferred submittal in accordance with section 28-104.2.6. The application shall set forth an inspection program for the project. An application for a permit shall be submitted no later than 12 months after the approval of all required construction documents (other than those documents approved for deferred submittal). The department shall provide written notification to owners of adjoining property at the time such application is submitted.
+
+
 
 
 
@@ -2598,9 +2610,11 @@ The commissioner may immediately suspend any permit without prior notice to the 
 *§ 28-105.11 Posting of permit.* ::
 
 
-The building permit or copy shall be posted in a conspicuous place at the work site, visible to the public for the duration of the work or the use and operation of the equipment, or until the expiration of the permit. No such permit shall be posted or displayed at any location other than the location of the premises or equipment for which the permit was issued. Where the permit is exposed to the weather, it shall be laminated or encased in a plastic covering to protect it from the elements.
+The building permit or copy shall be posted in a conspicuous place at the work site, visible to the public for the duration of the work or the use and operation of the equipment, or until the expiration of the permit. No such permit shall be posted or displayed at any location other than the location of the premises or equipment for which the permit was issued. Where the permit is exposed to the weather, it shall be laminated or encased in a plastic covering to protect it from the elements. The permit shall identify whether any dwelling unit within such building will be occupied during the work. If dwelling units within such building will be occupied during the work, the permit shall indicate the total number of dwelling units that will be occupied.
 
 Exception: Where a project information panel is required by section 3301.9.1 of the New York city building code, the permit shall be posted in accordance with such section, and no other permits shall be posted in any location readily visible to the public, except as provided in section 3301.9.5 of the New York city building code.
+
+
 
 
 
@@ -2690,7 +2704,9 @@ Where workers compensation, employee disability or liability insurance is requir
 *§ 28-105.12.7.1 Insurance coverage for adjacent properties.* ::
 
 
-A person who obtains a permit for construction or demolition operations shall, at such person's own expense, procure and maintain for the duration of the operations, insurance of a kind and in an amount specified by rule of the department, to insure any and all adjacent property owners and their lawful occupants fully for all risks of loss, damage to property or injury to or death of persons, arising out of or in connection with the performance of the proposed work. Such person shall submit proof of insurance to the department when applying for a permit for construction or demolition work.
+A person who obtains a permit for construction or demolition operations shall, at such person's own expense, procure and maintain for the duration of the operations, insurance of a kind and in an amount specified by rule of the department, to insure any and all adjacent property owners and their lawful occupants fully for all risks of loss, damage to property or injury to or death of persons, arising out of or in connection with the performance of the proposed work. Such person shall submit proof of insurance to the department when applying for a permit for construction or demolition work. The department shall provide such proof of such insurance together with the permit to the owners of adjoining property thirty days prior to the commencement of the construction or demolition work, except in the event that emergency work is authorized as defined in section 28-105.4.1 of this code. If such emergency work is necessary, the permit and proof of insurance shall be provided to owners of adjoining property within a reasonable timeframe.
+
+
 
 
 

@@ -4131,13 +4131,29 @@ rr. "Retail electronic cigarette store" means a retail store devoted primarily t
 
 ss. "Smokeless tobacco" means any tobacco product that is intended for any oral or nasal use other than smoking. Examples of smokeless tobacco include but are not limited to snuff, chewing tobacco, dipping tobacco, dissolvable tobacco products and snus.
 
-*zz. “Non-tobacco smoking product” means any product that does not contain tobacco or nicotine and that is designed for human use or consumption by the inhalation of smoke, including but not limited to (i) pipes, water pipes, rolling papers, and any other component, part, or accessory of such product and (ii) shisha, as defined in subdivision z of section 17-702, provided that such shisha does not contain tobacco or nicotine.
+tt. “Class A multiple dwelling” means a class A multiple dwelling as such term is defined in paragraph eight of subdivision a of section 27-2004.
+
+uu. “Smoking policy” means a written declaration that states in a clear and conspicuous fashion where smoking is permitted or prohibited on the premises of a class A multiple dwelling.
+
+vv. “Owner of a class A multiple dwelling” means the following:
+
+   (i) In the case of a building with one or more rental dwelling units, other than rental dwelling units in a condominium or a cooperative apartment corporation, the owner of record.
+
+   (ii) In the case of a condominium, including a rental dwelling unit in a condominium, the board of managers.
+
+   (iii) In the case of a cooperative apartment corporation, including a rental dwelling unit in a cooperative apartment corporation, the board of directors.
+
+ww. “Condominium unit owner” means the person or persons owning a dwelling unit in a condominium building.
+
+xx. “Tenant” means a tenant, tenant-shareholder of a cooperative apartment corporation, condominium unit owner, subtenant, lessee, sublessee or other person entitled to the possession or to the use or occupancy of a dwelling unit, when the term “tenant” is used in reference to a dwelling unit in a class A multiple dwelling.
+
+yy. “Tenant-shareholder” means the person who owns stock of a cooperative apartment corporation.
+
+zz. “Non-tobacco smoking product” means any product that does not contain tobacco or nicotine and that is designed for human use or consumption by the inhalation of smoke, including but not limited to (i) pipes, water pipes, rolling papers, and any other component, part, or accessory of such product and (ii) shisha, as defined in subdivision z of section 17-702, provided that such shisha does not contain tobacco or nicotine.
 
 aaa. “Non-tobacco hookah establishment” means an establishment that, as of the date of enactment of the local law that added this subdivision, generated fifty percent or more of its total annual gross sales during the preceding calendar year from the on-site sale of non-tobacco smoking products, and that has a permit issued by the department pursuant to section 17-513.5.
 
 
-
-*Editor's note: Subsections tt. through yy. are to be added by L.L. 2017/147, 8/28/2017, eff. 8/28/2018.
 
 
 
@@ -4403,15 +4419,27 @@ c. [Repealed.]
 
 d. It shall be unlawful for any person to smoke, use an electronic cigarette, or use smokeless tobacco in any area where such activity is prohibited under section 17-503, section 17-503.1 or section 17-504.
 
-e. Every person who violates subdivisions a or b of this section shall, for a first violation thereof, be liable for a civil penalty of not less than two hundred dollars nor more than four hundred dollars; for a second violation, both of which were committed within a period of twelve months, be liable for a civil penalty of not less than five hundred dollars nor more than one thousand dollars; and for a third or subsequent violation, all of which were committed within a period of twelve months, be liable for a civil penalty of not less than one thousand dollars nor more than two thousand dollars. Every person who violates subdivision d of this section shall be liable for a civil penalty of one hundred dollars for each violation, except that every person who violates subdivision d of this section by smoking, or using an electronic cigarette, in a pedestrian plaza as prohibited by paragraph seven of subdivision c of section 17-503 or in a park or other property under the jurisdiction of the department of parks and recreation as prohibited by paragraph three of subdivision d of section 17-503 shall be liable for a civil penalty of fifty dollars for each violation.
+d-1. It shall be unlawful for any owner of a class A multiple dwelling to fail to:
 
-f. A proceeding to recover any civil penalty authorized pursuant to the provisions of subdivision e of this section shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal established by the board of health, except that a proceeding to recover a civil penalty authorized pursuant to subdivision e for violation of subdivision d by smoking, or using an electronic cigarette, in a pedestrian plaza or in a park or other property under the jurisdiction of the department of parks and recreation, as prohibited by paragraph seven of subdivision c and by paragraph three of subdivision d of section 17-503 respectively, shall be commenced by the service of a notice of violation which shall be returnable to the environmental control board. The board of health's administrative tribunal and the environmental control board shall have the power to impose the civil penalties prescribed by subdivision e of this section.
+   1. adopt a smoking policy as required by subdivision a of section 17-506.1;
+
+   2. disclose such policy as required by subdivision b of such section;
+
+   3. provide notification of a material change to such policy as required by subdivision c of such section; or
+
+   4. make available copies of such policy as required by subdivision d of such section.
+
+d-2. It shall be unlawful for any tenant-shareholder, condominium unit owner, or tenant who rents or leases a dwelling unit to another person to fail to disclose a smoking policy as required by paragraph 3 or 6 of subdivision b of section 17-506.1.
+
+e. Every person who violates subdivisions a or b of this section shall, for a first violation thereof, be liable for a civil penalty of not less than two hundred dollars nor more than four hundred dollars; for a second violation, both of which were committed within a period of twelve months, be liable for a civil penalty of not less than five hundred dollars nor more than one thousand dollars; and for a third or subsequent violation, all of which were committed within a period of twelve months, be liable for a civil penalty of not less than one thousand dollars nor more than two thousand dollars. Every person who violates subdivision d of this section shall be liable for a civil penalty of one hundred dollars for each violation, except that every person who violates subdivision d of this section by smoking, or using an electronic cigarette, in a pedestrian plaza as prohibited by paragraph seven of subdivision c of section 17-503 or in a park or other property under the jurisdiction of the department of parks and recreation as prohibited by paragraph three of subdivision d of section 17-503 shall be liable for a civil penalty of fifty dollars for each violation. Every owner of a class A multiple dwelling who violates subdivision d-1 of this section, and every tenant-shareholder, condominium unit owner and tenant who violates subdivision d-2 of this section, shall be liable for a civil penalty of one hundred dollars for each violation, provided that a violation of paragraph two, three or four of subdivision d-1 shall be considered a single violation regardless of whether such owner failed to disclose a smoking policy, to provide notification of adoption of such policy or a material change to such policy, or to make available copies of such policy to more than one person.
+
+f. A proceeding to recover any civil penalty authorized pursuant to the provisions of subdivision e of this section shall be commenced by the service of a notice of violation which shall be returnable to the office of administrative trials and hearings, acting pursuant to section 558 and subdivision 2 of section 1048 of the charter, except that a proceeding to recover a civil penalty authorized pursuant to subdivision e for violation of subdivision d by smoking, or using an electronic cigarette, in a pedestrian plaza or in a park or other property under the jurisdiction of the department of parks and recreation, as prohibited by paragraph seven of subdivision c and by paragraph three of subdivision d of section 17-503 respectively, shall be commenced by the service of a notice of violation which shall be returnable to the environmental control board. The office of administrative trials and hearings, acting pursuant to section 558 and subdivision 2 of section 1048 of the charter, or acting pursuant to section 1049-a of the charter, shall have the power to impose the civil penalties prescribed by subdivision e of this section.
 
 g. Whenever a notice of violation of subdivision a or b of this section is served by a person with power to enforce the provisions of this chapter pursuant to subdivision a of section 17-507, such notice shall, where applicable, include an order which requires the respondent to correct the condition constituting the violation and to file a certification with the department that the condition has been corrected. Such order shall require that the condition be corrected within ten days from the date that the order is issued and that certification of the correction of the condition be filed with the department in a manner and form within such further period of time to be determined in accordance with rules and regulations promulgated by the commissioner.
 
 h. If the administrative tribunal established by the board of health or the environmental control board finds, upon good cause shown, that the respondent cannot correct the violation specified in subdivision g of this section, it may postpone the period for compliance with such order upon such terms and conditions and for such period of time as shall be appropriate under the circumstances.
 
-i. In any proceeding before the administrative tribunal established by the board of health or the environmental control board, if the tribunal finds that the department or other agency issuing the notice of violation has failed to prove the violation charged, it shall notify the department or other agency issuing the notice of violation, and the order requiring the respondent to correct the condition constituting the violation shall be deemed to be revoked.
+i. In any proceeding before the office of administrative trials and hearings, acting pursuant to subdivision g of this section, if such office finds that the department or other agency issuing the notice of violation has failed to prove the violation charged, it shall notify the department or other agency issuing the notice of violation, and the order requiring the respondent to correct the condition constituting the violation shall be deemed to be revoked.
 
 j. When the owner or operator of a bar has been found to be in violation of subparagraph c of paragraph twenty of subdivision a of section 17-503 on two or more occasions on the basis of one or more employees being in a separate smoking room at times not permitted under this chapter, the tribunal shall revoke the right of such owner or operator to maintain a separate smoking room in such bar.
 
@@ -4505,7 +4533,9 @@ d. Any entity that in good faith believes itself to be a non-tobacco hookah esta
 *§ 17-513.2 Construction.* ::
 
 
-The provisions of this chapter shall not be interpreted or construed to permit smoking, using electronic cigarettes, or using smokeless tobacco where such activity is prohibited or otherwise restricted by other applicable laws, rules or regulations.
+a. The provisions of this chapter shall not be interpreted or construed to permit smoking, using electronic cigarettes, or using smokeless tobacco where such activity is prohibited or otherwise restricted by other applicable laws, rules or regulations.
+
+b. Class A multiple dwelling smoking policy requirement. The civil penalty provided in subdivision e of section 17-508 shall be the sole remedy for violation of subdivision d-1 or d-2 of such section.
 
 
 
