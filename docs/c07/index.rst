@@ -709,7 +709,39 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
 26. Applicability; uniformed service. Notwithstanding any other provision of this section and except as otherwise provided by law, it is not an unlawful discriminatory practice for any person to afford any other person a preference or privilege based on such other person’s uniformed service, or to declare, print or circulate or cause to be declared, printed or circulated any statement, advertisement or publication, or to use any form of application or make any inquiry indicating any such lawful preference or privilege.
 
+27.*   Reserved.
 
+28. Reserved.
+
+29. Anti-sexual harassment rights and responsibilities; poster.
+
+   (a) Every employer must conspicuously display an anti-sexual harassment rights and responsibilities poster designed by the commission, in employee breakrooms or other common areas employees gather. Every employer at a minimum shall display such poster in English and in Spanish.
+
+   (b) The commission shall create a poster that sets forth in simple and understandable terms the following minimum requirements:
+
+      (1) An explanation of sexual harassment as a form of unlawful discrimination under local law;
+
+      (2) A statement that sexual harassment is also a form of unlawful discrimination under state and federal law;
+
+      (3) A description of sexual harassment, using examples;
+
+      (4) The complaint process available through, and directions on how to contact, the commission;
+
+      (5) The complaint process available through, and directions on how to contact, the state division of human rights;
+
+      (6) The complaint process available through, and directions on how to contact, the United States equal employment opportunity commission; and
+
+      (7) The prohibition against retaliation, pursuant to subdivision 7 of section 8-107.
+
+   (c) The size and style of the poster shall be at least 8 1/2 by 14 inches with a minimum 12 point type. Such poster shall be made available in English and Spanish and any other language deemed appropriate by the commission, however, any such poster shall only contain one language.
+
+   (d) Any poster required pursuant to this section shall be made available on the commission’s website for employers to download for legible color reproduction in English, Spanish and any other language deemed appropriate by the commission.
+
+   (e) The commission shall develop an information sheet on sexual harassment that employers shall distribute to individual employees at the time of hire. Such information sheet may be included in an employee handbook. Such information sheet shall contain, at a minimum, the same elements of paragraph (b) of this subdivision. The information sheet shall be made available in English and Spanish and any other language deemed appropriate by the commission.
+
+
+
+* Editor's note: subsection 27 will be added by L.L. 2018/063, 1/19/2018, eff. 10/16/2018,.
 
 
 

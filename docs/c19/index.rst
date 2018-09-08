@@ -3319,6 +3319,95 @@ c. The separate and additional approval of the mayor shall be necessary to the v
 
 
 
+Chapter 6: School Buses
+--------------------------------------------------
+
+
+
+*§ 19-601 Safety measures on school buses; declaration and findings.* ::
+
+
+The council hereby finds that a serious emergency exists as to the safety of handicapped children transported to and from schools in school buses and other vehicles. Handicapped school children have been grievously injured, maimed and killed due to lack of seat belts and guards or escorts on school buses. The council finds that in order to prevent further tragedies to our handicapped school children the provisions of this section are declared necessary and are designed to protect, the safety, health and general welfare of our school children.
+
+
+
+
+
+
+*§ 19-602 Seat belts.* ::
+
+
+All buses or other motor vehicles engaged in the business of transporting handicapped children to and from schools in the city shall be equipped with seat belts for each seat on such a bus, or other safety appliances prescribed by the national bureau of standards or other authorized governmental agencies promulgating rules relating to auto safety.
+
+
+
+
+
+
+*§ 19-603 Escorts.* ::
+
+
+a. All buses and other motor vehicles transporting handicapped children to and from school in the city shall be staffed, in addition to the driver thereof, with an escort. It shall be the duty and responsibility of such escort to generally supervise and aid the handicapped children riding such bus; to require each child to utilize a seat belt or other safety device and to escort the children on and off each bus to an area of safety.
+
+b. The driver of a bus transporting children to and from school in the city shall not proceed after having halted such bus to take on or discharge a passenger until he or she has received assurance from the escort that the children are seated, have fastened the safety belt on the seat and that it is otherwise safe to proceed.
+
+
+
+
+
+
+*§ 19-604 Dual opening doors.* ::
+
+
+All buses transporting handicapped children in the city, after September first, nineteen hundred seventy-five, shall be equipped with dual opening doors so that said doors shall open from no less than two sides of the motor vehicle.
+
+
+
+
+
+
+*§ 19-605 Air-conditioning.* ::
+
+
+a. Any bus or other motor vehicle transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be air-conditioned when the ambient outside temperature exceeds seventy degrees Fahrenheit. Drivers of all such vehicles shall utilize such air conditioning systems in order to make the internal climate of such vehicles comfortable to passengers in order to protect or enhance the health of children with disabilities. Any failure, mechanical or otherwise, of an air-conditioning system required by this section shall be repaired and restored to operable condition as soon as is practicable, but in no event more than three business days subsequent to the failure. For purposes of this section, "child with a disability" shall mean a child with a disability as defined in section 4401(1) of the education law who requires an air-conditioned environment for health reasons.
+
+b. The penalty provisions set forth in section 19-607 of this chapter shall not apply to any violation of the provisions of this section. Any owner, operator or contractor responsible for transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be liable for a civil penalty of four hundred dollars for each violation of this section.
+
+
+
+
+
+
+*§ 19-606 School bus service.* ::
+
+
+a. Except as provided in subdivisions d, e and f of this section, no student shall be allowed to board a school bus operated by or pursuant to a contract with the board of education unless a seat is available for the student.
+
+b. The board of education shall prepare and, when necessary, revise two school bus service plans annually to ensure that all students eligible to receive school bus service to and from the schools they legally attend shall be provided with a seat on a school bus. One plan shall relate to school bus service to be provided during the session of the school year beginning in September and ending in June and one plan shall relate to school bus service to be provided during a summer school session. Each plan shall be prepared prior to the first day of the session of the school year to which it relates and shall include the following information: (i) the criteria used by the board of education to determine whether a student is eligible to receive school bus service; (ii) for each school, a summary description of the school bus routes servicing the school; (iii) for each school bus route, the number of students eligible to ride on the school bus operating on the route and the maximum seating capacity of such school bus; and (iv) any other information the board of education deems relevant. Upon completion of the plans, they shall be submitted to the mayor and the speaker of the city council.
+
+c. If at any time during any session of a school year the number of students eligible to ride on a school bus operating on a particular school bus route exceeds the maximum seating capacity of the school bus operating on such route, the board of education shall revise the affected school bus service plan, and take all steps necessary to ensure that all students eligible to receive school bus service are provided with a seat on a school bus. A revised plan shall identify any changes to the information provided pursuant to paragraphs (i), (ii), (iii) and (iv) of subdivision b of this section and, in addition, shall describe, for each school bus route affected by the revision, the steps taken to ensure that the number of students eligible to ride on a school bus operating on a particular school bus route does not exceed the maximum seating capacity of the school bus operating on such route. Upon completion of a revised plan, it shall be submitted to the mayor and the speaker of the city council.
+
+d. Not later than ten days prior to the first day of the session of the school year beginning in September, and not later than ten days prior to the first day of a summer school session, the board of education shall prepare, and provide to each bus company that will be transporting students to or from school, lists of students eligible to ride on the school buses operating on the school bus routes serviced by such bus company. A separate list shall be compiled for each school bus route. Each list shall identify each eligible student by name, school bus stop and school, but shall not contain any other information relating to such student. The board of education shall require that bus companies provide to bus drivers the list appropriate for each school bus route. The board of education shall prepare, and promptly provide to each bus company, revised and updated lists that reflect any changes necessary to comply with the requirements of this section. All students listed as eligible to receive school bus service on a particular school bus route shall be entitled to board the school bus operating on such route. During transport to school at the beginning of the regular school day, students not listed as eligible to receive school bus service on a particular school bus route shall not be allowed to board the school bus operating on such route, provided, however, that where such students waiting to board such school bus are not accompanied by an adult, the bus driver shall allow such students to board such school bus. During transport from school at the close of the regular school day, students not listed as eligible to receive school bus service on a particular school bus route shall not be allowed to board the school bus operating on such route unless authorized to do so by personnel assigned by the principal pursuant to subdivision e of this section.
+
+e. The principal of each school to or from which students are transported by school bus shall assign personnel to monitor students exiting school buses at the beginning of the regular school day and boarding school buses at the close of the regular school day. Such personnel shall be provided with the same lists provided to bus drivers pursuant to subdivision d of this section. Such personnel shall: (i) at the close of the regular school day, determine whether to allow a student not listed as eligible to receive school bus service on a particular school bus route to board the school bus operating on such route; (ii) notify the parent or legal guardian of such student that he or she has been or may be prohibited from boarding a school bus; (iii) provide the parent or legal guardian with the name, address and telephone number of the office responsible for determining whether a student is eligible to receive school bus service; (iv) for each school bus, maintain a record of students not listed as eligible who exit or board the bus; and (v) determine whether information regarding such students should be referred to the office responsible for determining whether a student is eligible to receive school bus service and, where appropriate, report such information to such office. The information reported to such office, together with such other relevant information available to the board of education, shall be considered in determining whether and how to revise the affected school bus service plan and revise and update the lists of eligible students in accordance with subdivisions c and d of this section.
+
+f. Notwithstanding any other provision of this section to the contrary, during the first ten days of the session of the school year beginning in September and during the first ten days of a summer school session, a student waiting at a school bus stop to board a school bus transporting students to the school attended by the student may be allowed to board the school bus, whether or not such student is listed as eligible to receive school bus service on that school bus route and, at the close of the regular school day, may be allowed to board the school bus stopping at such school bus stop.
+
+g. The provisions of this section shall apply only to those school buses operated by or pursuant to a contract with the board of education.
+
+
+
+
+
+
+*§ 19-607 Penalty.* ::
+
+
+Any person, firm or corporation who shall violate the provisions of this chapter shall be punished by a fine of five hundred dollars, or by imprisonment not to exceed three months or by both such fine and imprisonment.
+
+
+
+
 Chapter 5: Transportation of Passengers For Hire By Motor Vehicles
 --------------------------------------------------
 
@@ -5081,95 +5170,6 @@ g. The commission shall no later than December 31, 2020 and annually thereafter 
 
 
 
-Chapter 6: School Buses
---------------------------------------------------
-
-
-
-*§ 19-601 Safety measures on school buses; declaration and findings.* ::
-
-
-The council hereby finds that a serious emergency exists as to the safety of handicapped children transported to and from schools in school buses and other vehicles. Handicapped school children have been grievously injured, maimed and killed due to lack of seat belts and guards or escorts on school buses. The council finds that in order to prevent further tragedies to our handicapped school children the provisions of this section are declared necessary and are designed to protect, the safety, health and general welfare of our school children.
-
-
-
-
-
-
-*§ 19-602 Seat belts.* ::
-
-
-All buses or other motor vehicles engaged in the business of transporting handicapped children to and from schools in the city shall be equipped with seat belts for each seat on such a bus, or other safety appliances prescribed by the national bureau of standards or other authorized governmental agencies promulgating rules relating to auto safety.
-
-
-
-
-
-
-*§ 19-603 Escorts.* ::
-
-
-a. All buses and other motor vehicles transporting handicapped children to and from school in the city shall be staffed, in addition to the driver thereof, with an escort. It shall be the duty and responsibility of such escort to generally supervise and aid the handicapped children riding such bus; to require each child to utilize a seat belt or other safety device and to escort the children on and off each bus to an area of safety.
-
-b. The driver of a bus transporting children to and from school in the city shall not proceed after having halted such bus to take on or discharge a passenger until he or she has received assurance from the escort that the children are seated, have fastened the safety belt on the seat and that it is otherwise safe to proceed.
-
-
-
-
-
-
-*§ 19-604 Dual opening doors.* ::
-
-
-All buses transporting handicapped children in the city, after September first, nineteen hundred seventy-five, shall be equipped with dual opening doors so that said doors shall open from no less than two sides of the motor vehicle.
-
-
-
-
-
-
-*§ 19-605 Air-conditioning.* ::
-
-
-a. Any bus or other motor vehicle transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be air-conditioned when the ambient outside temperature exceeds seventy degrees Fahrenheit. Drivers of all such vehicles shall utilize such air conditioning systems in order to make the internal climate of such vehicles comfortable to passengers in order to protect or enhance the health of children with disabilities. Any failure, mechanical or otherwise, of an air-conditioning system required by this section shall be repaired and restored to operable condition as soon as is practicable, but in no event more than three business days subsequent to the failure. For purposes of this section, "child with a disability" shall mean a child with a disability as defined in section 4401(1) of the education law who requires an air-conditioned environment for health reasons.
-
-b. The penalty provisions set forth in section 19-607 of this chapter shall not apply to any violation of the provisions of this section. Any owner, operator or contractor responsible for transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be liable for a civil penalty of four hundred dollars for each violation of this section.
-
-
-
-
-
-
-*§ 19-606 School bus service.* ::
-
-
-a. Except as provided in subdivisions d, e and f of this section, no student shall be allowed to board a school bus operated by or pursuant to a contract with the board of education unless a seat is available for the student.
-
-b. The board of education shall prepare and, when necessary, revise two school bus service plans annually to ensure that all students eligible to receive school bus service to and from the schools they legally attend shall be provided with a seat on a school bus. One plan shall relate to school bus service to be provided during the session of the school year beginning in September and ending in June and one plan shall relate to school bus service to be provided during a summer school session. Each plan shall be prepared prior to the first day of the session of the school year to which it relates and shall include the following information: (i) the criteria used by the board of education to determine whether a student is eligible to receive school bus service; (ii) for each school, a summary description of the school bus routes servicing the school; (iii) for each school bus route, the number of students eligible to ride on the school bus operating on the route and the maximum seating capacity of such school bus; and (iv) any other information the board of education deems relevant. Upon completion of the plans, they shall be submitted to the mayor and the speaker of the city council.
-
-c. If at any time during any session of a school year the number of students eligible to ride on a school bus operating on a particular school bus route exceeds the maximum seating capacity of the school bus operating on such route, the board of education shall revise the affected school bus service plan, and take all steps necessary to ensure that all students eligible to receive school bus service are provided with a seat on a school bus. A revised plan shall identify any changes to the information provided pursuant to paragraphs (i), (ii), (iii) and (iv) of subdivision b of this section and, in addition, shall describe, for each school bus route affected by the revision, the steps taken to ensure that the number of students eligible to ride on a school bus operating on a particular school bus route does not exceed the maximum seating capacity of the school bus operating on such route. Upon completion of a revised plan, it shall be submitted to the mayor and the speaker of the city council.
-
-d. Not later than ten days prior to the first day of the session of the school year beginning in September, and not later than ten days prior to the first day of a summer school session, the board of education shall prepare, and provide to each bus company that will be transporting students to or from school, lists of students eligible to ride on the school buses operating on the school bus routes serviced by such bus company. A separate list shall be compiled for each school bus route. Each list shall identify each eligible student by name, school bus stop and school, but shall not contain any other information relating to such student. The board of education shall require that bus companies provide to bus drivers the list appropriate for each school bus route. The board of education shall prepare, and promptly provide to each bus company, revised and updated lists that reflect any changes necessary to comply with the requirements of this section. All students listed as eligible to receive school bus service on a particular school bus route shall be entitled to board the school bus operating on such route. During transport to school at the beginning of the regular school day, students not listed as eligible to receive school bus service on a particular school bus route shall not be allowed to board the school bus operating on such route, provided, however, that where such students waiting to board such school bus are not accompanied by an adult, the bus driver shall allow such students to board such school bus. During transport from school at the close of the regular school day, students not listed as eligible to receive school bus service on a particular school bus route shall not be allowed to board the school bus operating on such route unless authorized to do so by personnel assigned by the principal pursuant to subdivision e of this section.
-
-e. The principal of each school to or from which students are transported by school bus shall assign personnel to monitor students exiting school buses at the beginning of the regular school day and boarding school buses at the close of the regular school day. Such personnel shall be provided with the same lists provided to bus drivers pursuant to subdivision d of this section. Such personnel shall: (i) at the close of the regular school day, determine whether to allow a student not listed as eligible to receive school bus service on a particular school bus route to board the school bus operating on such route; (ii) notify the parent or legal guardian of such student that he or she has been or may be prohibited from boarding a school bus; (iii) provide the parent or legal guardian with the name, address and telephone number of the office responsible for determining whether a student is eligible to receive school bus service; (iv) for each school bus, maintain a record of students not listed as eligible who exit or board the bus; and (v) determine whether information regarding such students should be referred to the office responsible for determining whether a student is eligible to receive school bus service and, where appropriate, report such information to such office. The information reported to such office, together with such other relevant information available to the board of education, shall be considered in determining whether and how to revise the affected school bus service plan and revise and update the lists of eligible students in accordance with subdivisions c and d of this section.
-
-f. Notwithstanding any other provision of this section to the contrary, during the first ten days of the session of the school year beginning in September and during the first ten days of a summer school session, a student waiting at a school bus stop to board a school bus transporting students to the school attended by the student may be allowed to board the school bus, whether or not such student is listed as eligible to receive school bus service on that school bus route and, at the close of the regular school day, may be allowed to board the school bus stopping at such school bus stop.
-
-g. The provisions of this section shall apply only to those school buses operated by or pursuant to a contract with the board of education.
-
-
-
-
-
-
-*§ 19-607 Penalty.* ::
-
-
-Any person, firm or corporation who shall violate the provisions of this chapter shall be punished by a fine of five hundred dollars, or by imprisonment not to exceed three months or by both such fine and imprisonment.
-
-
-
-
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
 --------------------------------------------------
 
@@ -5469,6 +5469,145 @@ a. No later than September 1, 2017, the department shall consult with the metrop
    3. Strategies to improve transit access to neighborhoods underserved by the subway system.
 
 b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
+
+
+
+
+
+
+Chapter 9: Photo Speed Violation Monitoring Program*
+--------------------------------------------------
+
+
+
+*§ 19-901 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms have the following meanings:
+
+OATH. The term "OATH" means an administrative tribunal within the jurisdiction of the office of administrative trials and hearings, as established in chapter 45-a of the charter.
+
+Owner. The term "owner" has the meaning provided in article 2-B of the vehicle and traffic law.
+
+Photo speed violation monitoring system. The term "photo speed violation monitoring system" means a vehicle sensor installed to work in conjunction with a speed measuring device which automatically produces two or more photographs, two or more microphotographs, a videotape or other recorded images of each vehicle at the time it is used or operated in a school speed zone in violation of section 19-902, in accordance with the provisions of this chapter.
+
+School speed zone. The term "school speed zone" means a distance not to exceed 1,320 feet on a street passing a school building, entrance or exit of a school abutting on the street.
+
+Vehicle. The term "vehicle" has the meaning provided in section 159 of the vehicle and traffic law.
+
+
+
+
+
+
+
+
+*§ 19-902 Speeding in school speed zones prohibited.* ::
+
+
+a. It shall be unlawful to exceed the posted maximum speed limit by more than 10 miles per hour in a school speed zone.
+
+b. The prohibition set forth in this section shall not affect the speed limits in effect as provided in subdivisions (b), (c), (d), (f) or (g) of section 1180 of the vehicle and traffic law or section 19-177 of this code, or otherwise in effect pursuant to applicable law. Nothing in this chapter shall affect the city's ability to enforce such speed limits.
+
+
+
+
+
+
+
+
+*§ 19-903 Penalties.* ::
+
+
+a. Notwithstanding any other provision of law, the owner of a vehicle shall be liable for the failure of an operator thereof to comply with section 19-902:
+
+   1. when a school speed limit is in effect as provided in paragraphs 1 and 2 of subdivision (c) of section 1180 of the vehicle and traffic law; or
+
+   2. when other speed limits are in effect as provided in subdivision (b), (d), (f) or (g) of section 1180 of the vehicle and traffic law during the following times:
+
+      (A) on school days during school hours and one hour before and one hour after the school day;
+
+      (B) a period during student activities at the school and up to 30 minutes immediately before and up to 30 minutes immediately after such student activities; and
+
+      (C) any other time as determined by the department of transportation, based on an analysis of speeding or crash data.
+
+b. The owner of a vehicle shall be liable for a penalty imposed pursuant to this section if such vehicle was used or operated with the permission of the owner, express or implied, within a school speed zone in violation of section 19-902 during the times authorized pursuant to subdivision a; provided however that no owner of a vehicle shall be liable for a penalty imposed pursuant to this section where the operator of such vehicle has been convicted of the underlying violation of subdivision (b), (c), (d), (f) or (g) of section 1180 of the vehicle and traffic law or section 19-902.
+
+c. A certificate, sworn to or affirmed by a technician employed by the city, or a facsimile thereof, based upon inspection of photographs, microphotographs, videotape or other recorded images produced by a photo speed violation monitoring system, shall be prima facie evidence of the facts contained therein. Any photographs, microphotographs, videotape or other recorded images evidencing such a violation shall include at least two date and time stamped images of the rear of the vehicle that include the same stationary object near the vehicle and shall be available for inspection reasonably in advance of and at any proceeding to adjudicate the liability for such violation pursuant to this section.
+
+d. An owner liable for a violation of section 19-902 pursuant to this section shall be liable for a monetary penalty of $50, recoverable in a proceeding before OATH. There shall be an additional penalty of $25 for each violation for the failure to respond within 30 days to a notice of liability.
+
+e. 1. A notice of liability shall be sent by first class mail to each person alleged to be liable as an owner for a violation of section 19-902 pursuant to this section, within 14 business days if such owner is a resident of this state and within 45 business days if such owner is a non-resident. Personal delivery on the owner shall not be required. A manual or automatic record of mailing prepared in the ordinary course of business shall be prima facie evidence of the facts contained therein.
+
+   2. A notice of liability shall contain (i) the name and address of the person alleged to be liable as an owner for a violation of section 19-902 pursuant to this section, (ii) the registration number of the vehicle involved in such violation, (iii) the location where such violation took place, (iv) the date and time of such violation, (v) the identification number of the camera which recorded the violation or other document locator number, (vi) at least two date and time stamped images of the rear of the vehicle that include the same stationary object near the vehicle, and (vii) the certificate charging the liability, which shall be a statement within the notice of liability that an owner violated this section and is liable for penalties in accordance with this section.
+
+   3. The notice of liability shall contain information advising the person charged of the manner and the time in which such person may contest the liability alleged in the notice. Such notice of liability shall also contain a prominent warning to advise the person charged that failure to contest in the manner and time provided shall be deemed an admission of liability and that a default may be entered thereon.
+
+   4. The notice of liability shall be prepared and mailed by the city or by any other entity authorized by the city to prepare and mail such notice of liability.
+
+f. If an owner receives a notice of liability pursuant to this section for any time period during which the vehicle or the number plate or plates of such vehicle was reported to the police department as having been stolen, it shall be a valid defense to an allegation of liability for a violation of section 19-902 pursuant to this section that the vehicle or the number plate or plates of such vehicle had been reported to the police as stolen prior to the time the violation occurred and had not been recovered by such time. For purposes of asserting the defense provided by this subdivision, it shall be sufficient that a certified copy of the police report on the stolen vehicle or number plate or plates of such vehicle be sent by first class mail to OATH.
+
+g. 1. An owner who is a lessor of a vehicle to which a notice of liability was issued pursuant to this section shall not be liable for the violation of section 19-902 pursuant to this section, provided that:
+
+      (i) prior to the violation, the lessor has filed in accordance with the provisions of section 239 of vehicle and traffic law; and
+
+      (ii) within 37 days after receiving notice from the city of the date and time of a violation, together with the other information contained in the original notice of liability, the lessor submits to the city the correct name and address of the lessee of the vehicle identified in the notice of liability at the time of such violation.
+
+   2. Failure to comply with subparagraph (ii) of paragraph 1 of this subdivision shall render the owner liable for the penalty prescribed in this section.
+
+   3. Where the lessor complies with the provisions of paragraph 1 of this subdivision, the lessee of such vehicle on the date of such violation shall be deemed to be the owner of such vehicle for purposes of this section, shall be subject to liability for such violation pursuant to this section and shall be sent a notice of liability pursuant to this section.
+
+h. 1. If the owner liable for a violation of section 19-902 pursuant to this section was not the operator of the vehicle at the time of the violation, the owner may maintain an action for indemnification against the operator.
+
+   2. Notwithstanding any other provision of this section, no owner of a vehicle shall be subject to a monetary penalty imposed pursuant to this section if the operator of such vehicle was operating such vehicle without the consent of the owner at the time such operator operated such vehicle in violation of section 19-902. For purposes of this section there shall be a presumption that the operator of such vehicle was operating such vehicle with the consent of the owner at the time such operator operated such vehicle in violation of section 19-902.
+
+i. It shall be a defense to any proceeding for a violation of section 19-902 pursuant to this section that such photo speed violation monitoring system was malfunctioning at the time of the alleged violation.
+
+
+
+
+
+
+
+
+*§ 19-904 System maintenance and operation.* ::
+
+
+a. No photo speed violation monitoring system shall be used in a school speed zone unless:
+
+   1. on the day it is to be used it has successfully passed a self-test of its functions; and
+
+   2. it has undergone an annual calibration check performed pursuant to subdivision d of this section.
+
+b. Operators of photo speed violation monitoring systems shall have completed training in the procedures for setting up, testing, and operating such systems. For each such system operated, each such operator shall complete and sign a daily set-up log that:
+
+   1. states the date and time when, and the location where, the system was set up that day, and
+
+   2. states that such operator successfully performed, and the system passed, the self-tests of such system before producing a recorded image that day.
+
+c. The city shall retain each such daily log until the later of the date on which the photo speed violation monitoring system to which it applies has been permanently removed from use or the final resolution of all cases involving notices of liability issued based on photographs, microphotographs, video or other recorded images produced by such system.
+
+d. Each photo speed violation monitoring system shall undergo an annual calibration check performed by an independent calibration laboratory which shall issue a signed certificate of calibration. The city shall keep each such annual certificate of calibration on file until the final resolution of all cases involving a notice of liability issued during such year which were based on photographs, microphotographs, videotape or other recorded images produced by such photo speed violation monitoring system.
+
+e. 1. The city shall utilize necessary technologies to ensure, to the extent practicable, that photographs, microphotographs, videotape or other recorded images produced by such photo speed violation monitoring systems do not include images that identify the driver, the passengers, or the contents of the vehicle. Provided, however, that except as required by state or federal law, no notice of liability issued pursuant to section 19-903 shall be dismissed solely because such a photograph, microphotograph, videotape or other recorded image allows for the identification of the driver, the passengers, or the contents of vehicles where the city shows that it made reasonable efforts to comply with the provisions of this paragraph in such case.
+
+   2. Photographs, microphotographs, videotape or any other recorded image from a photo speed violation monitoring system shall be for the exclusive use of the city for the purpose of the adjudication of liability imposed pursuant to section 19-903 and of the owner receiving a notice of liability pursuant to such section, and shall be destroyed by the city upon the final resolution of the notice of liability to which such photographs, microphotographs, videotape or other recorded images relate, or one year following the date of issuance of such notice of liability, whichever is later. Photographs, microphotographs, videotape or any other recorded image from a photo speed violation monitoring system shall not be open to the public, nor subject to civil or criminal process or discovery, nor used by any court or administrative or adjudicatory body in any action or proceeding therein except that which is necessary for the adjudication of a notice of liability issued pursuant to such section, and no public entity or employee, officer or agent thereof shall disclose such information, except that such photographs, microphotographs, videotape or any other recorded images from such systems:
+
+      (A) shall be available as required pursuant to state or federal law; and
+
+      (B) shall be available for inspection and copying and use by the vehicle owner and operator for so long as such photographs, microphotographs, videotape or other recorded images are required to be maintained or are maintained by such public entity, employee, officer or agent.
+
+
+
+
+
+
+
+
+*§ 19-905 Implementation.* ::
+
+
+The mayor may designate any city agency or office thereof or employees of any city agency to implement and enforce the provisions of this chapter.
 
 
 
