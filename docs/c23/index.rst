@@ -226,70 +226,6 @@ d. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-Chapter 7: Physical Education Reporting
---------------------------------------------------
-
-
-
-*§ 21-960 Reporting on physical education.* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Adaptive physical education. The term "adaptive physical education" means a specially designed physical education program of developmental activities, games, sports, and rhythms suited to the interests, capabilities, and limitations of students with disabilities who may not safely or successfully engage in unrestricted participation in the activities of a regular physical education program, as specified in a student's individualized education program. 
-											
-
-   Certified instructor. The term "certified instructor" means a teacher certified by the New York state department of education as a physical education instructor. 
-											
-
-   Co-located school. The term "co-located school" means any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school or organization in a building within the city school district of the city of New York. 
-											
-
-   Physical education instruction. The term "physical education instruction" means physical fitness activities which satisfy the requirements for physical education curricula pursuant to the New York state education department regulations for the relevant grade. 
-											
-
-   Substitutions. The term "substitutions" means any extracurricular activities including, but not limited to, intramural and extramural athletic team activities or any other program which the department deems satisfies the state requirement for physical education instruction. 
-											
-
-b. Not later than August 31, 2016, and annually thereafter on or before August 31, the department shall submit to the council and post conspicuously on the department's website, in a manner searchable by individual school, school district, and borough, a report for the preceding academic year which shall include, but not be limited to the following: 
-											
-
-   1. The average frequency and average total minutes per week of physical education instruction provided to students in each grade level in each school, 
-											
-
-   2. For each grade level in each school, data specifying the frequency and total minutes per week of physical education instruction received by students in that grade, including (i) the number and percentage of students who are receiving the required amount of physical education instruction; (ii) the number and percentage of students who are receiving less physical education than required; and (iii) the number and percentage of students who have an individualized education program that recommends adaptive physical education. This data shall be disaggregated by (i) race and ethnicity; (ii) gender; (iii) special education status; and (iv) English language learner status; 
-											
-
-   3. The number of designated full-time and part-time certified instructors providing instruction at the school; and the ratio of full time certified instructors to students at the school; 
-											
-
-   4. Information on all designated indoor and outdoor facilities used by the school for physical education instruction including, but not limited to: 
-											
-
-      (a) Information on all designated physical education instruction spaces inside or attached to the school including (i) the size of the space in square feet; (ii) whether the space is used for any purpose other than physical education instruction; and (iii) whether the space is used by any other schools including co-located schools in the same building; 
-											
-
-      (b) Information regarding all off-site indoor and outdoor spaces that are used by the school for the purpose of physical education instruction, including but not limited to (i) the name and the location of the off-site space or facility; and (ii) whether the space is being used by any other schools including co-located schools in the same building; 
-											
-
-   5. Information regarding the department's supplemental physical education program, including but not limited to, "Move to Improve"; 
-											
-
-   6. Information regarding the number of students who were permitted a substitution by the department; and 
-											
-
-   7. A list of schools, including co-located schools, that share certified instructors with at least one other school. 
-											
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol. 
-											
-
- 
-											
-
-
-
-
 Chapter 6: Reporting on Demographic Data in New York City Public Schools
 --------------------------------------------------
 
@@ -431,49 +367,66 @@ b. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-Chapter 9. Career and Technical Education Reporting
+Chapter 7: Physical Education Reporting
 --------------------------------------------------
 
 
 
-*§ 21-971 Reporting on career and technical education.* ::
+*§ 21-960 Reporting on physical education.* ::
 
 
 a. For the purposes of this section, the following terms have the following meanings:
 
-   Career and technical education. The term "career and technical education" or "CTE" means a curriculum designed to provide students with certain skills that will enable them to pursue a career in certain disciplines, including but not limited to, agricultural education, business and marketing, family and consumer sciences, health occupations, technology and trade, or technical and industrial education.
+   Adaptive physical education. The term "adaptive physical education" means a specially designed physical education program of developmental activities, games, sports, and rhythms suited to the interests, capabilities, and limitations of students with disabilities who may not safely or successfully engage in unrestricted participation in the activities of a regular physical education program, as specified in a student's individualized education program. 
+											
 
-   Certified instructor. The term "certified instructor" means a teacher who has earned a teaching license in a specific career and technical education subject.
+   Certified instructor. The term "certified instructor" means a teacher certified by the New York state department of education as a physical education instructor. 
+											
 
-   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school of the city school district of the city of New York, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
+   Co-located school. The term "co-located school" means any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school or organization in a building within the city school district of the city of New York. 
+											
 
-b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the council and post conspicuously on the department's website, a report for the preceding academic year which shall include, but not be limited to the following:
+   Physical education instruction. The term "physical education instruction" means physical fitness activities which satisfy the requirements for physical education curricula pursuant to the New York state education department regulations for the relevant grade. 
+											
 
-   1. The total number of high school-level CTE programs in schools of the city school district of the city of New York, including for each (i) the name of the program; (ii) the field or discipline for which the program prepares students; (iii) the number of industry partners associated with the program; (iv) the high school at which the program is located; (v) whether the high school is a CTE-designated high school; (vi) whether the CTE program has received approval through the New York state department of education's CTE approval process; (vii) the grade levels served by such program; and (viii) the number of students enrolled in such program;
+   Substitutions. The term "substitutions" means any extracurricular activities including, but not limited to, intramural and extramural athletic team activities or any other program which the department deems satisfies the state requirement for physical education instruction. 
+											
 
-   2. The number and percentage of students at each high school in a CTE program;
+b. Not later than August 31, 2016, and annually thereafter on or before August 31, the department shall submit to the council and post conspicuously on the department's website, in a manner searchable by individual school, school district, and borough, a report for the preceding academic year which shall include, but not be limited to the following: 
+											
 
-   3. The number and percentage of applicants who listed a CTE-designated high school as their first choice in the high school application process during the previous application year;
+   1. The average frequency and average total minutes per week of physical education instruction provided to students in each grade level in each school, 
+											
 
-   4. The number and percentage of applicants who listed a CTE-designated high school as their second choice in the high school application process during the previous application year;
+   2. For each grade level in each school, data specifying the frequency and total minutes per week of physical education instruction received by students in that grade, including (i) the number and percentage of students who are receiving the required amount of physical education instruction; (ii) the number and percentage of students who are receiving less physical education than required; and (iii) the number and percentage of students who have an individualized education program that recommends adaptive physical education. This data shall be disaggregated by (i) race and ethnicity; (ii) gender; (iii) special education status; and (iv) English language learner status; 
+											
 
-   5. The number and percentage of applicants who participated in the high school application process who enrolled in a CTE-designated high school;
+   3. The number of designated full-time and part-time certified instructors providing instruction at the school; and the ratio of full time certified instructors to students at the school; 
+											
 
-   6. The 4-year graduation rate for CTE-designated high schools;
+   4. Information on all designated indoor and outdoor facilities used by the school for physical education instruction including, but not limited to: 
+											
 
-   7. The 6-year graduation rate for CTE-designated high schools;
+      (a) Information on all designated physical education instruction spaces inside or attached to the school including (i) the size of the space in square feet; (ii) whether the space is used for any purpose other than physical education instruction; and (iii) whether the space is used by any other schools including co-located schools in the same building; 
+											
 
-   8. The number of designated full-time and part-time certified instructors providing instruction at each high school; and for each CTE-designated high school, the ratio of full-time certified instructors to students at such school; and
+      (b) Information regarding all off-site indoor and outdoor spaces that are used by the school for the purpose of physical education instruction, including but not limited to (i) the name and the location of the off-site space or facility; and (ii) whether the space is being used by any other schools including co-located schools in the same building; 
+											
 
-   9. The number of staff in each school or program who received professional development or training administered by the department and relating to CTE as of the prior school year.
+   5. Information regarding the department's supplemental physical education program, including but not limited to, "Move to Improve"; 
+											
 
-c. The data required to be reported pursuant to paragraphs two through seven of subdivision b of this section shall be disaggregated by (i) student race and ethnicity; (ii) student gender; (iii) student special education status; (iv) student English language learner status; (v) student eligibility for the free and reduced price lunch program; and (vi) community school district.
+   6. Information regarding the number of students who were permitted a substitution by the department; and 
+											
 
-d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
+   7. A list of schools, including co-located schools, that share certified instructors with at least one other school. 
+											
 
-e. This chapter expires five years after the effective date of the local law that added this chapter.
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol. 
+											
 
-
+ 
+											
 
 
 
@@ -630,6 +583,53 @@ a. Definitions. For the purposes of this section, the following terms have the f
 b. Each academic year, the department shall make available educational materials on drugs and opiates awareness and prevention developed by the department of health and mental hygiene pursuant to section 17-199.9 to students at each middle and high school.
 
 c. The department shall make available such educational materials in English and in each of the designated citywide languages as defined in section 23-1101 in each middle and high school and on the department’s website.
+
+
+
+
+
+
+Chapter 9. Career and Technical Education Reporting
+--------------------------------------------------
+
+
+
+*§ 21-971 Reporting on career and technical education.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Career and technical education. The term "career and technical education" or "CTE" means a curriculum designed to provide students with certain skills that will enable them to pursue a career in certain disciplines, including but not limited to, agricultural education, business and marketing, family and consumer sciences, health occupations, technology and trade, or technical and industrial education.
+
+   Certified instructor. The term "certified instructor" means a teacher who has earned a teaching license in a specific career and technical education subject.
+
+   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school of the city school district of the city of New York, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
+
+b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the council and post conspicuously on the department's website, a report for the preceding academic year which shall include, but not be limited to the following:
+
+   1. The total number of high school-level CTE programs in schools of the city school district of the city of New York, including for each (i) the name of the program; (ii) the field or discipline for which the program prepares students; (iii) the number of industry partners associated with the program; (iv) the high school at which the program is located; (v) whether the high school is a CTE-designated high school; (vi) whether the CTE program has received approval through the New York state department of education's CTE approval process; (vii) the grade levels served by such program; and (viii) the number of students enrolled in such program;
+
+   2. The number and percentage of students at each high school in a CTE program;
+
+   3. The number and percentage of applicants who listed a CTE-designated high school as their first choice in the high school application process during the previous application year;
+
+   4. The number and percentage of applicants who listed a CTE-designated high school as their second choice in the high school application process during the previous application year;
+
+   5. The number and percentage of applicants who participated in the high school application process who enrolled in a CTE-designated high school;
+
+   6. The 4-year graduation rate for CTE-designated high schools;
+
+   7. The 6-year graduation rate for CTE-designated high schools;
+
+   8. The number of designated full-time and part-time certified instructors providing instruction at each high school; and for each CTE-designated high school, the ratio of full-time certified instructors to students at such school; and
+
+   9. The number of staff in each school or program who received professional development or training administered by the department and relating to CTE as of the prior school year.
+
+c. The data required to be reported pursuant to paragraphs two through seven of subdivision b of this section shall be disaggregated by (i) student race and ethnicity; (ii) student gender; (iii) student special education status; (iv) student English language learner status; (v) student eligibility for the free and reduced price lunch program; and (vi) community school district.
+
+d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
+
+e. This chapter expires five years after the effective date of the local law that added this chapter.
 
 
 
