@@ -2301,87 +2301,6 @@ b. "Members of a marriage that is not recognized by the state of New York" for p
 
 
 
-Chapter 4: Board of Estimate
---------------------------------------------------
-
-
-
-*§ 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.* ::
-
-
-The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
-
-In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
-
-Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to Chapter 43 of Title 38 of the United States Code, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-
-
-
-
-
-
-
-*§ 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.* ::
-
-
-The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-
-
-
-
-
-*§ 3-403 Awards to survivors of certain civilian members of the police department.* ::
-
-
-a. Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-b. Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
-
-
-
-
-
-
-*§ 3-404 Awards to spouses and domestic partners of officers or employees of the city.* ::
-
-
-The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
-
-
-
-
-
-
-*§ 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.* ::
-
-
-Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
-
-
-
-
-
-
-*§ 3-406 Leases for public purposes.* ::
-
-
-All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
-
-
-
-
-
-
-*§ 3-407 Transfer of streets.* ::
-
-
-The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
-
-
-
-
 Chapter 3: Comptroller
 --------------------------------------------------
 
@@ -2639,6 +2558,87 @@ b. Whenever any such award or compensation shall be paid to any person not entit
 
 
 
+Chapter 4: Board of Estimate
+--------------------------------------------------
+
+
+
+*§ 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.* ::
+
+
+The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
+
+In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
+
+Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to Chapter 43 of Title 38 of the United States Code, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+
+
+
+
+
+
+
+*§ 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.* ::
+
+
+The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+
+
+
+
+
+*§ 3-403 Awards to survivors of certain civilian members of the police department.* ::
+
+
+a. Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+b. Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
+
+
+
+
+
+
+*§ 3-404 Awards to spouses and domestic partners of officers or employees of the city.* ::
+
+
+The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
+
+
+
+
+
+
+*§ 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.* ::
+
+
+Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
+
+
+
+
+
+
+*§ 3-406 Leases for public purposes.* ::
+
+
+All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
+
+
+
+
+
+
+*§ 3-407 Transfer of streets.* ::
+
+
+The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
+
+
+
+
 Chapter 5: Borough Presidents
 --------------------------------------------------
 
@@ -2781,65 +2781,6 @@ h. The commission shall have a budget as provided for by the mayor.
 i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
 
 
-
-
-
-
-Chapter 8: Transition and Inaugural Donations And Expenditures
---------------------------------------------------
-
-
-
-*§ 3-801 Transition and inauguration donations and expenses.* ::
-
-
-1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
-
-2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
-
-   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
-
-   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
-
-   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
-
-   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
-
-3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
-
-4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
-
-5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
-
-   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
-
-   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
-
-6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
-
-7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
-
-8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
-
-9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
-
-10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
-
-
-
-
-
-
-
-
-*§ 3-802 Penalties.* ::
-
-
-1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
-
-2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
-
-3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 
@@ -3765,6 +3706,226 @@ If a committee has failed to respond to a request for information made by board 
 
 
 
+Chapter 8: Transition and Inaugural Donations And Expenditures
+--------------------------------------------------
+
+
+
+*§ 3-801 Transition and inauguration donations and expenses.* ::
+
+
+1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
+
+2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
+
+   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
+
+   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
+
+   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
+
+   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
+
+3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
+
+4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
+
+5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
+
+   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
+
+   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
+
+6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
+
+7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
+
+8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
+
+9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
+
+10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
+
+
+
+
+
+
+
+
+*§ 3-802 Penalties.* ::
+
+
+1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
+
+2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
+
+3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
+
+
+
+
+Chapter 9: Organizations Affiliated with Elected Officials.
+--------------------------------------------------
+
+
+
+*§ 3-901 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings.
+
+Doing business database. The term "doing business database" means the doing business database as defined in section 3-702 of the administrative code.
+
+Donation. The term "donation" means any contribution from a non-governmental source, including in-kind donations, gifts, loans, advances or deposits of money, or anything of value.
+
+Elected official communications. The term "elected official communications" means a communication in the form of: (i) radio, television, cable or satellite broadcast; (ii) printed material such as advertisements, pamphlets, circulars, flyers, brochures or letters; (iii) telephone communication; or (iv) paid internet advertising; which includes the name, voice or likeness of the person holding office as mayor, comptroller, public advocate, borough president or member of the council with whom the entity making such communication is affiliated. Elected official communications do not include: (i) communications with a professional journalist or newscaster, including an editorial board or editorial or opinion writer of a newspaper, magazine, news agency, press association or wire service; or (ii) a communication that is: (A) directed, sent or distributed by the distributing organization only to individuals who affirmatively consent to be members of the distributing organization, contribute funds to the distributing organization, or, pursuant to the distributing organization's articles or bylaws, have the right to vote directly or indirectly for the election of directors or officers, or on changes to bylaws, disposition or all or substantially all of the distributing entity's assets or the merger or dissolution of the distributing entity; or (B) for the purpose of promoting or staging any candidate debate, town hall or similar forum to which at least two candidates seeking the same office, or two proponents of differing positions on a referendum or question submitted to voters, are invited as participants, and which does not promote or advance one candidate or position over another.
+
+Organization affiliated with an elected official. The term "organization affiliated with an elected official" means:
+
+   (i) a non-profit entity other than an agency, public authority, public benefit corporation or local development corporation;
+
+   (ii) which has received at least one donation in the previous or current calendar year; and
+
+   (iii) over which a person holding office as mayor, comptroller, public advocate, borough president or member of the council, or an agent of such a person, which shall include an appointee of such person serving at the pleasure of such person, exercises control. There shall be a rebuttable presumption of control by an elected official where such official, or such an agent, appoints a majority of seats on the board of the entity (not including appointees nominated by another individual or entity that is not such an agent of the elected official), or is a principal officer of the entity.
+
+In determining whether a person holding office as mayor, comptroller, public advocate, borough president or member of the council, or an agent or appointee of such a person, exercises control over such an organization, the conflicts of interest board shall consider the totality of the circumstances, including:
+
+   (i) whether the organization was created by such an elected official or their agent, or by an individual who was previously employed by, or was a paid political consultant of, the elected official, and, if so, how recently such organization was created;
+
+   (ii) whether the board of the organization is chaired by such an elected official or their agent;
+
+   (iii) whether board members appointed by such elected official serve for terms or are appointed only upon nomination of other individuals or entities that are not agents of such elected official;
+
+   (iv) the degree of involvement or direction by the elected official in such organization's policies, operations and activities; and
+
+   (v) other such factors as the conflicts of interest board shall promulgate by rule.
+
+Principal committees and political committees, as those terms are defined in section 3-702, are not organizations affiliated with an elected official.
+
+Person with business dealings with the city. The term "person with business dealings with the city" means any person who is listed in the doing business database, or any domestic partner, spouse, or unemancipated child of such a person.
+
+Spend. The term "spend" means to spend or to cause to be spent.
+
+
+
+
+
+
+
+
+*§ 3-902 Reporting and donor disclosure for organizations affiliated with elected officials.* ::
+
+
+a. All organizations affiliated with an elected official shall report to the conflicts of interest board annually by August 1, in a manner determined by the conflicts of interest board by rule. Such report shall include:
+
+   1. the name of the organization;
+
+   2. the name or names of the elected official, or of any agent of such a person or appointee serving at the pleasure of such elected official, who is affiliated with the organization;
+
+   3. the names of the principal officers and board members of the organization;
+
+   4. whether the organization has tax-exempt status pursuant to the internal revenue code and, if so, the section of such code that grants such status;
+
+   5. the website address of the organization, if any;
+
+   6. the names of any people who such organization knows had business dealings with the city on the date of such donation, or who were added to the doing business database within 180 days after the receipt of such donation, who made a donation to the organization during the previous calendar year, if any, and the city and state of residence, dates of donation, and value of donation of any such people;
+
+   7. the names of any other individuals who, or any entity that, made a donation with a reasonable value of $1,000 or more to the organization during the previous calendar year, if any, and the city and state of residence or state of incorporation as applicable, dates of donation, and value of donation of any such individuals or entities;
+
+   8. an accounting of the expenditures of the organization during the previous calendar year on the production or dissemination of elected official communications, in a manner and form determined by the conflicts of interest board;
+
+   9. for an organization affiliated with an elected official that did not spend or reasonably expect to spend at least 10% of their expenditures in the previous or current calendar year on elected official communications, a certification that they did not do so; and
+
+   10. any other information required to be included by the conflicts of interest board.
+
+b. The conflicts of interest board shall maintain and regularly update a list on its website of all organizations that reported, and all donor information disclosed, to such board pursuant to this section, provided however that the conflicts of interest board may determine that disclosure of donors shall not be made public if, based upon a review of the relevant facts presented by the reporting entity, such disclosure may cause harm, threats, harassment, or reprisals to the donor, or to individuals or property affiliated with the donor. The reporting entity may appeal the board's determination in New York State supreme court pursuant to article 78 of the civil practice law and rules. The conflicts of interest board shall not post the names of donors that are the subject of such appeal pending a final judicial determination.
+
+c. Donor written submissions received pursuant to section 3-903 shall be retained by the inquiring organization for at least three years from the date of receipt.
+
+
+
+
+
+
+
+
+*§ 3-903 Prohibition of acceptance of certain donations.* ::
+
+
+a. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations with a reasonable value in excess of $400 in a single calendar year by any person who such organization knows or should know has business dealings with the city on the date of such donation. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 20 days of receipt by such organization.
+
+b. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall return any donations with a reasonable value in excess of $400 in a single calendar year by any person who is not a person who such organization knows or should know has business dealings with the city on the date of such donation, but who is added to the doing business database within 180 days of receipt by the organization. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 200 days of receipt by such organization.
+
+c. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations by any entity or person other than a natural person, or from any person who fails to make the written submission required by subdivision d of this section.
+
+d. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall require a written submission in a manner and form determined by the conflicts of interest board from every individual making a donation with a reasonable value in excess of $400 in a single calendar year to determine whether such individual is a person with business dealings with the city.
+
+e. Entities that have, as their sole purpose, advocating for New York city as the location for a national or international sporting event, a national political convention, or another event publicly determined by the conflicts of interest board to be similar to such an event are not subject to the requirements or limitations of this section.
+
+
+
+
+
+
+
+
+*§ 3-904 Advisory opinions, outreach and determination of control.* ::
+
+
+a. The conflicts of interest board shall render advisory opinions with respect to all matters covered by this chapter. An advisory opinion shall be rendered on the request of a person holding office as mayor, comptroller, public advocate, borough president or member of the council, an agent of such officeholder, or any non-profit entity potentially subject to the provisions of this chapter, and shall apply only to the particular circumstances of such request. The request shall be in such form as the board may require and shall be signed by the person making the request, or, in the case of a request by a non-profit entity, by a responsible officer or other representative of such entity. The opinion of the board shall be based on such facts as are presented in the request or subsequently submitted in a written, signed document. Notwithstanding any inconsistent provision of law, opinions rendered by the board pursuant to this section shall be made publicly available.
+
+b. Within thirty days of a person taking office for the first time as mayor, comptroller, public advocate, borough president or member of the council, the conflicts of interest board shall notify each such elected official in writing of the obligations of organizations affiliated with such elected official set forth in this chapter.
+
+c. In addition to the advisory opinion process set forth in subdivision a, the conflicts of interest board shall promulgate rules establishing procedures whereby a non-profit entity may apply for a formal determination that an elected official or an agent of an elected official does not exercise control over such entity, consistent with the considerations included in the definition of "organization affiliated with an elected official" set forth in section 3-901, and may seek to rebut the presumption contained in such definition. To the extent practicable, the board shall make a determination within 60 days of receiving a complete application. The entity may appeal the board's determination in New York State supreme court pursuant to article 78 of the civil practice law and rules. Where the board has determined that the entity is not controlled by an elected official, such entity shall be exempt from the provisions of this chapter for so long as there is no material change in the circumstances set forth in the application for a formal determination made pursuant to this subdivision.
+
+
+
+
+
+
+
+
+*§ 3-905 Enforcement.* ::
+
+
+Complaints alleging violations of this chapter, or of rules or directives promulgated by the conflicts of interest board pursuant to this chapter, shall be made, received, investigated and adjudicated in a manner consistent with the procedures relating to investigations and adjudications of allegations of conflicts of interest set forth in chapters 34 and 68 of the charter.
+
+
+
+
+
+
+
+
+*§ 3-906 Penalties.* ::
+
+
+a. Any organization that violates any provision of section 3-902 shall be subject to a civil penalty of not more than $10,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates such subdivision, jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates such subdivision be held jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. In addition to such civil penalties, for the second and subsequent offense any person who knowingly and willfully violates any provision of section 3-902 shall be guilty of a class A misdemeanor.
+
+b. Any organization that violates subdivision a, b or c of section 3-903 shall be required to return any donations with a reasonable value in excess of the applicable donation limit, and shall be subject to a civil penalty, which for the first offense shall be not more than $5,000, for the second offense not more than $15,000, and for the third and subsequent offenses not more than $30,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates any such subdivision, jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates any such subdivision, be held jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation.
+
+c. Any organization that violates subdivision d of section 3-903 shall be subject to a civil penalty, which for the first offense shall be not more than $1,000, and for the second and subsequent offenses not more than $10,000.
+
+(L.L. 2016/181, 12/22/2016, eff. 1/1/2018*)
+
+* Editor's note: Pursuant to § 4 of L.L. 2016/181, subsection a is effective 1/1/2019.
+
+
+
+
+
+
+*§ 3-907 Rulemaking.* ::
+
+
+The conflicts of interest board shall promulgate such rules as are necessary to ensure the implementation of this chapter.
+
+
+
+
+
+
 Chapter 10: Environmental Justice
 --------------------------------------------------
 
@@ -4066,167 +4227,6 @@ c. By no later than December 31, 2018, the office of long-term planning and sust
    3. Agency programs that promote environmental justice and foster community engagement with and participation in agency decision-making that implicates environmental justice concerns; and
 
    4. New York state and federal programs that promote environmental justice.
-
-
-
-
-
-
-Chapter 9: Organizations Affiliated with Elected Officials.
---------------------------------------------------
-
-
-
-*§ 3-901 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings.
-
-Doing business database. The term "doing business database" means the doing business database as defined in section 3-702 of the administrative code.
-
-Donation. The term "donation" means any contribution from a non-governmental source, including in-kind donations, gifts, loans, advances or deposits of money, or anything of value.
-
-Elected official communications. The term "elected official communications" means a communication in the form of: (i) radio, television, cable or satellite broadcast; (ii) printed material such as advertisements, pamphlets, circulars, flyers, brochures or letters; (iii) telephone communication; or (iv) paid internet advertising; which includes the name, voice or likeness of the person holding office as mayor, comptroller, public advocate, borough president or member of the council with whom the entity making such communication is affiliated. Elected official communications do not include: (i) communications with a professional journalist or newscaster, including an editorial board or editorial or opinion writer of a newspaper, magazine, news agency, press association or wire service; or (ii) a communication that is: (A) directed, sent or distributed by the distributing organization only to individuals who affirmatively consent to be members of the distributing organization, contribute funds to the distributing organization, or, pursuant to the distributing organization's articles or bylaws, have the right to vote directly or indirectly for the election of directors or officers, or on changes to bylaws, disposition or all or substantially all of the distributing entity's assets or the merger or dissolution of the distributing entity; or (B) for the purpose of promoting or staging any candidate debate, town hall or similar forum to which at least two candidates seeking the same office, or two proponents of differing positions on a referendum or question submitted to voters, are invited as participants, and which does not promote or advance one candidate or position over another.
-
-Organization affiliated with an elected official. The term "organization affiliated with an elected official" means:
-
-   (i) a non-profit entity other than an agency, public authority, public benefit corporation or local development corporation;
-
-   (ii) which has received at least one donation in the previous or current calendar year; and
-
-   (iii) over which a person holding office as mayor, comptroller, public advocate, borough president or member of the council, or an agent of such a person, which shall include an appointee of such person serving at the pleasure of such person, exercises control. There shall be a rebuttable presumption of control by an elected official where such official, or such an agent, appoints a majority of seats on the board of the entity (not including appointees nominated by another individual or entity that is not such an agent of the elected official), or is a principal officer of the entity.
-
-In determining whether a person holding office as mayor, comptroller, public advocate, borough president or member of the council, or an agent or appointee of such a person, exercises control over such an organization, the conflicts of interest board shall consider the totality of the circumstances, including:
-
-   (i) whether the organization was created by such an elected official or their agent, or by an individual who was previously employed by, or was a paid political consultant of, the elected official, and, if so, how recently such organization was created;
-
-   (ii) whether the board of the organization is chaired by such an elected official or their agent;
-
-   (iii) whether board members appointed by such elected official serve for terms or are appointed only upon nomination of other individuals or entities that are not agents of such elected official;
-
-   (iv) the degree of involvement or direction by the elected official in such organization's policies, operations and activities; and
-
-   (v) other such factors as the conflicts of interest board shall promulgate by rule.
-
-Principal committees and political committees, as those terms are defined in section 3-702, are not organizations affiliated with an elected official.
-
-Person with business dealings with the city. The term "person with business dealings with the city" means any person who is listed in the doing business database, or any domestic partner, spouse, or unemancipated child of such a person.
-
-Spend. The term "spend" means to spend or to cause to be spent.
-
-
-
-
-
-
-
-
-*§ 3-902 Reporting and donor disclosure for organizations affiliated with elected officials.* ::
-
-
-a. All organizations affiliated with an elected official shall report to the conflicts of interest board annually by August 1, in a manner determined by the conflicts of interest board by rule. Such report shall include:
-
-   1. the name of the organization;
-
-   2. the name or names of the elected official, or of any agent of such a person or appointee serving at the pleasure of such elected official, who is affiliated with the organization;
-
-   3. the names of the principal officers and board members of the organization;
-
-   4. whether the organization has tax-exempt status pursuant to the internal revenue code and, if so, the section of such code that grants such status;
-
-   5. the website address of the organization, if any;
-
-   6. the names of any people who such organization knows had business dealings with the city on the date of such donation, or who were added to the doing business database within 180 days after the receipt of such donation, who made a donation to the organization during the previous calendar year, if any, and the city and state of residence, dates of donation, and value of donation of any such people;
-
-   7. the names of any other individuals who, or any entity that, made a donation with a reasonable value of $1,000 or more to the organization during the previous calendar year, if any, and the city and state of residence or state of incorporation as applicable, dates of donation, and value of donation of any such individuals or entities;
-
-   8. an accounting of the expenditures of the organization during the previous calendar year on the production or dissemination of elected official communications, in a manner and form determined by the conflicts of interest board;
-
-   9. for an organization affiliated with an elected official that did not spend or reasonably expect to spend at least 10% of their expenditures in the previous or current calendar year on elected official communications, a certification that they did not do so; and
-
-   10. any other information required to be included by the conflicts of interest board.
-
-b. The conflicts of interest board shall maintain and regularly update a list on its website of all organizations that reported, and all donor information disclosed, to such board pursuant to this section, provided however that the conflicts of interest board may determine that disclosure of donors shall not be made public if, based upon a review of the relevant facts presented by the reporting entity, such disclosure may cause harm, threats, harassment, or reprisals to the donor, or to individuals or property affiliated with the donor. The reporting entity may appeal the board's determination in New York State supreme court pursuant to article 78 of the civil practice law and rules. The conflicts of interest board shall not post the names of donors that are the subject of such appeal pending a final judicial determination.
-
-c. Donor written submissions received pursuant to section 3-903 shall be retained by the inquiring organization for at least three years from the date of receipt.
-
-
-
-
-
-
-
-
-*§ 3-903 Prohibition of acceptance of certain donations.* ::
-
-
-a. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations with a reasonable value in excess of $400 in a single calendar year by any person who such organization knows or should know has business dealings with the city on the date of such donation. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 20 days of receipt by such organization.
-
-b. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall return any donations with a reasonable value in excess of $400 in a single calendar year by any person who is not a person who such organization knows or should know has business dealings with the city on the date of such donation, but who is added to the doing business database within 180 days of receipt by the organization. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 200 days of receipt by such organization.
-
-c. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations by any entity or person other than a natural person, or from any person who fails to make the written submission required by subdivision d of this section.
-
-d. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall require a written submission in a manner and form determined by the conflicts of interest board from every individual making a donation with a reasonable value in excess of $400 in a single calendar year to determine whether such individual is a person with business dealings with the city.
-
-e. Entities that have, as their sole purpose, advocating for New York city as the location for a national or international sporting event, a national political convention, or another event publicly determined by the conflicts of interest board to be similar to such an event are not subject to the requirements or limitations of this section.
-
-
-
-
-
-
-
-
-*§ 3-904 Advisory opinions, outreach and determination of control.* ::
-
-
-a. The conflicts of interest board shall render advisory opinions with respect to all matters covered by this chapter. An advisory opinion shall be rendered on the request of a person holding office as mayor, comptroller, public advocate, borough president or member of the council, an agent of such officeholder, or any non-profit entity potentially subject to the provisions of this chapter, and shall apply only to the particular circumstances of such request. The request shall be in such form as the board may require and shall be signed by the person making the request, or, in the case of a request by a non-profit entity, by a responsible officer or other representative of such entity. The opinion of the board shall be based on such facts as are presented in the request or subsequently submitted in a written, signed document. Notwithstanding any inconsistent provision of law, opinions rendered by the board pursuant to this section shall be made publicly available.
-
-b. Within thirty days of a person taking office for the first time as mayor, comptroller, public advocate, borough president or member of the council, the conflicts of interest board shall notify each such elected official in writing of the obligations of organizations affiliated with such elected official set forth in this chapter.
-
-c. In addition to the advisory opinion process set forth in subdivision a, the conflicts of interest board shall promulgate rules establishing procedures whereby a non-profit entity may apply for a formal determination that an elected official or an agent of an elected official does not exercise control over such entity, consistent with the considerations included in the definition of "organization affiliated with an elected official" set forth in section 3-901, and may seek to rebut the presumption contained in such definition. To the extent practicable, the board shall make a determination within 60 days of receiving a complete application. The entity may appeal the board's determination in New York State supreme court pursuant to article 78 of the civil practice law and rules. Where the board has determined that the entity is not controlled by an elected official, such entity shall be exempt from the provisions of this chapter for so long as there is no material change in the circumstances set forth in the application for a formal determination made pursuant to this subdivision.
-
-
-
-
-
-
-
-
-*§ 3-905 Enforcement.* ::
-
-
-Complaints alleging violations of this chapter, or of rules or directives promulgated by the conflicts of interest board pursuant to this chapter, shall be made, received, investigated and adjudicated in a manner consistent with the procedures relating to investigations and adjudications of allegations of conflicts of interest set forth in chapters 34 and 68 of the charter.
-
-
-
-
-
-
-
-
-*§ 3-906 Penalties.* ::
-
-
-a. Any organization that violates any provision of section 3-902 shall be subject to a civil penalty of not more than $10,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates such subdivision, jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates such subdivision be held jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. In addition to such civil penalties, for the second and subsequent offense any person who knowingly and willfully violates any provision of section 3-902 shall be guilty of a class A misdemeanor.
-
-b. Any organization that violates subdivision a, b or c of section 3-903 shall be required to return any donations with a reasonable value in excess of the applicable donation limit, and shall be subject to a civil penalty, which for the first offense shall be not more than $5,000, for the second offense not more than $15,000, and for the third and subsequent offenses not more than $30,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates any such subdivision, jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates any such subdivision, be held jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation.
-
-c. Any organization that violates subdivision d of section 3-903 shall be subject to a civil penalty, which for the first offense shall be not more than $1,000, and for the second and subsequent offenses not more than $10,000.
-
-(L.L. 2016/181, 12/22/2016, eff. 1/1/2018*)
-
-* Editor's note: Pursuant to § 4 of L.L. 2016/181, subsection a is effective 1/1/2019.
-
-
-
-
-
-
-*§ 3-907 Rulemaking.* ::
-
-
-The conflicts of interest board shall promulgate such rules as are necessary to ensure the implementation of this chapter.
 
 
 

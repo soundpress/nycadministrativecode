@@ -3446,7 +3446,7 @@ a. Any person who requests application information directly from a prospective t
 
       (2) any prospective tenant against whom adverse action was taken based on information contained in a tenant screening report has the right to inspect and receive a free copy of such report by contacting the consumer reporting agency;
 
-      (3) every tenant or prospective tenant is entitled to one free tenant screening report from each national consumer reporting agency annually, in addition to a credit report that should be obtained from www.annualcreditreport.com &lt;http://www.annualcreditreport.com&gt; and
+      (3) every tenant or prospective tenant is entitled to one free tenant screening report from each national consumer reporting agency annually, in addition to a credit report that should be obtained from www.annualcreditreport.com and
 
       (4) every tenant or prospective tenant may dispute inaccurate or incorrect information contained in a tenant screening report directly with the consumer reporting agency.
 

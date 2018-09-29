@@ -411,11 +411,11 @@ d. Within fifteen months after the effective date of this section, the commissio
 *§ 16-119 Dumping prohibited.* ::
 
 
-a. It shall be unlawful for any person, his or her agent, employee or any person under his or her control to suffer or permit any dirt, sand, gravel, clay, loam, stone, rocks, rubble, building rubbish, sawdust, shavings or trade or household waste, refuse, ashes, manure, garbage, rubbish or debris of any sort or any other organic or inorganic material or thing or other offensive matter being transported in a dump truck or other vehicle to be dumped, deposited or otherwise disposed of in or upon any street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned.
+a. It shall be unlawful for any person, his or her agent, employee or any person under his or her control to suffer or permit any amount of dirt, sand, gravel, clay, loam, stone, rocks, rubble, building rubbish, sawdust, shavings or trade or household waste, refuse, ashes, manure, garbage, rubbish or debris of any sort or any other organic or inorganic material or thing or other offensive matter being transported in a dump truck or other vehicle to be dumped, deposited or otherwise disposed of in or upon any sidewalk, street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned.
 
-b. Any person who violates the provisions of this section shall be liable to arrest and upon conviction thereof shall be deemed guilty of a misdemeanor and shall be punished by a fine of not less than one thousand five hundred dollars nor more than ten thousand dollars or by imprisonment not to exceed ninety days or by both such fine and imprisonment.
+b. Any person who violates the provisions of this section while engaged in commercial activities shall be liable to arrest and upon conviction thereof shall be deemed guilty of a misdemeanor and shall be punished by a fine of $4,000 for the first offense and $9,000 for any subsequent offense or by imprisonment not to exceed 90 days or by both such fine and imprisonment.
 
-c. (1)    Any person who violates the provisions of subdivision a of this section shall also be liable for a civil penalty of not less than one thousand five hundred dollars nor more than ten thousand dollars for the first offense, and not less than five thousand dollars nor more than twenty thousand dollars for each subsequent offense. In addition, every owner of a dump truck or other vehicle shall be liable for a civil penalty of not less than one thousand five hundred dollars nor more than ten thousand dollars for the first offense and not less than five thousand dollars nor more than twenty thousand dollars for each subsequent offense of unlawful dumping described in subdivision a of this section by any person using or operating the same, in the business of such owner or otherwise, with the permission, express or implied, of such owner.
+c. (1)    Any person who violates the provisions of subdivision a of this section shall also be liable for a civil penalty of $4,000 for the first offense, $9,000 for the second offense within any eighteen-month period and $18,000 for each subsequent offense within any eighteen-month period. In addition, every owner of a dump truck or other vehicle shall be liable for a civil penalty of $4,000 for the first offense, $9,000 for the second offense within any eighteen-month period and $18,000 for each subsequent offense within any eighteen-month period of unlawful dumping described in subdivision a of this section by any person using or operating the dump truck or other vehicle, in the business of such owner or otherwise, with the permission, express or implied, of such owner. It shall not be a defense for any owner of a dump truck or other vehicle that the person using or operating the dump truck or other vehicle in violation of this section is a member of the owner's immediate family, including, but not limited to, spouse, domestic partner, sibling, child, grandchild, parent or grandparent.
 
    (2) Any owner, owner-operator or operator who is found in violation of this section in a proceeding before the environmental control board and who shall fail to pay the civil penalty imposed by such environmental control board shall be subject to the suspension of his or her driver's license, privilege to operate or vehicle registration or renewal thereof imposed pursuant to section twelve hundred twenty-a of the vehicle and traffic law, in addition to any other civil and criminal fines and penalties set forth in this section.
 
@@ -429,7 +429,7 @@ d. In the instance where the notice of violation, appearance ticket or summons i
 
 e. (1)    Any dump truck or other vehicle that has been used or is being used to violate the provisions of this section shall be impounded by the department and shall not be released until either all removal charges and storage fees and the applicable fine have been paid or a bond has been posted in an amount satisfactory to the commissioner or as otherwise provided in paragraph (2) of this subdivision. The commissioner shall have the power to establish regulations concerning the impoundment and release of vehicles and the payment of removal charges and storage fees for such vehicles, including the amounts and rates thereof.
 
-   (2) In addition to any other penalties provided in this section, the interest of an owner as defined in subdivision c of this section in any vehicle impounded pursuant to paragraph (1) of this subdivision shall be subject to forfeiture upon notice and judicial determination thereof if such owner (i) has been convicted of or found liable for a violation of this section in a civil or criminal proceeding or in a proceeding before the environmental control board three or more times, all of which violations were committed within an eighteen month period or (ii) has been convicted of or found liable for a violation of this section in a civil or criminal proceeding or in a proceeding before the environmental control board if the material unlawfully dumped is a material identified as a hazardous waste or an acute hazardous waste in regulations promulgated pursuant to section 27-0903 of the environmental conservation law.
+   (2) In addition to any other penalties provided in this section, the interest of an owner as defined in subdivision c of this section in any vehicle impounded pursuant to paragraph (1) of this subdivision shall be subject to forfeiture upon notice and judicial determination thereof if such owner (i) has been convicted of or found liable for a violation of this section in a civil or criminal proceeding or in a proceeding before the environmental control board two or more times, both of which violations were committed within an eighteen month period or (ii) has been convicted of or found liable for a violation of this section in a civil or criminal proceeding or in a proceeding before the environmental control board if the material unlawfully dumped is a material identified as a hazardous waste or an acute hazardous waste in regulations promulgated pursuant to section 27-0903 of the environmental conservation law.
 
    (3) Except as hereinafter provided, the city agency having custody of a vehicle, after judicial determination of forfeiture, shall no sooner than thirty days after such determination upon a notice of at least five days, sell such forfeited vehicle at public sale. Any person, other than an owner whose interest is forfeited pursuant to this section, who establishes a right of ownership in a vehicle, including a part ownership or security interest, shall be entitled to delivery of the vehicle if such person:
 
@@ -459,7 +459,7 @@ g. In addition to the foregoing penalties the offender shall be required to clea
 
 h. The commissioner shall post a sign in any area where the commissioner deems appropriate because of instances of illegal dumping. Such sign shall state the penalties for illegal dumping and the reward provisions therein.
 
-
+(Am. L.L. 2018/134, 7/29/2018; Am. L.L. 2018/135, 7/29/2018, eff. 9/27/2018.
 
 
 
@@ -477,15 +477,19 @@ c. Incinerator, residue, ashes, refuse and liquid waste shall be stored in the b
 
 d. Newspapers, wrapping paper or other light refuse or rubbish which is likely to be blown or scattered about the streets shall be securely bundled, tied or packed before being placed for collection. Such material shall be kept and placed for collection in the same manner as the receptacles.
 
-e. No person shall deposit household or commercial refuse or liquid wastes in a public litter basket placed on the streets by the department or any other person. There shall be a rebuttable presumption that the person whose name, or other identifying information, appears on any household or commercial refuse or liquid wastes deposited in such public litter basket violated this subdivision.
+e. (1) No person shall deposit household or commercial refuse or liquid wastes in a public litter basket placed on the streets by the department or any other person. There shall be a rebuttable presumption that the person whose name, or other identifying information, appears on any household or commercial refuse or liquid wastes deposited in such public litter basket violated this paragraph.
 
-f. Any person violating the provisions of this section, except subdivision e, shall be liable for a civil penalty of not less than twenty-five nor more than one hundred dollars for the first violation, not less than one hundred dollars nor more than two hundred dollars for a second violation within any twelve-month period, and not less than two hundred dollars nor more than three hundred dollars for a third or subsequent violation with any twelve-month period. Any person violating the provisions of subdivision e of this section shall be liable for a civil penalty of not less than one hundred dollars nor more than three hundred dollars for the first violation, not less than two hundred fifty dollars nor more than three hundred fifty dollars for a second violation within any twelve-month period, and not less than three hundred fifty dollars nor more than four hundred dollars for a third or subsequent violation within any twelve month period.
+   (2) No person shall place household or commercial refuse in or upon any sidewalk, street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned, except in accordance with rules of the department relating to collection (i) by the department or (ii) by a private carter that is required to be licensed or registered pursuant to chapter 1 of title 16-A of the code. There shall be a rebuttable presumption that the person whose name, or other identifying information, appears on any household or commercial refuse placed in or upon any sidewalk, street, lot, park, public place, wharf, pier, dock, bulkhead, slip, navigable waterway or other area whether publicly or privately owned violated this paragraph.
+
+f. Any person violating the provisions of this section, except subdivision e, shall be liable for a civil penalty of not less than $25 nor more than $100 for the first violation, not less than $100 nor more than $200 for a second violation within any twelve-month period, and not less than $200 nor more than $300 for a third or subsequent violation within any twelve-month period. Any person violating the provisions of paragraph (1) of subdivision e of this section shall be liable for a civil penalty of $100 for the first violation, $250 for a second violation within any twelve-month period, and $350 for a third or subsequent violation within any twelve-month period. Any person violating the provisions of paragraph (2) of subdivision e of this section shall be liable for a civil penalty $75 for the first violation, $300 for a second violation within any twelve-month period, and $400 for a third or subsequent violation within any twelve-month period.
 
 g. In the instance where a notice of violation is issued for breach of the provisions of this section such process shall be returnable to the environmental control board, which shall have the power to impose the civil penalties provided in subdivision f of this section.
 
-h. In the event that a person fails to answer such notice of violation within the time provided therefor by the environmental control board, that person shall become liable for additional penalties. The additional penalties shall not exceed three hundred dollars for each violation.
+h. In the event that a person fails to answer such notice of violation within the time provided therefor by the environmental control board, that person shall become liable for additional penalties. The additional penalties shall be $300 for each violation.
 
 i. Nothing herein contained shall be construed to supersede, substitute for or abrogate the provisions of article one hundred fifty-three of the health code or article five of subchapter two of chapter two of title twenty-seven of the code.
+
+(Am. L.L. 2018/135, 7/29/2018, eff. 9/27/2018.
 
 
 
@@ -2745,6 +2749,123 @@ h. The department shall have the authority to enforce all provisions of this cha
 
 
 
+Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
+--------------------------------------------------
+
+
+
+*§ 16-470 Definitions.* ::
+
+
+As used in this chapter: "In bulk" means fifty or more recyclable containers; "Motor vehicle" means any vehicle operated or driven upon a street that is propelled by any power other than human or animal power; "Owner" means a person, other than a lienholder, having the property in or title to a motor vehicle, including any person entitled to the use and possession of a motor vehicle subject to a security interest by another person and also includes any lessee or bailee of a motor vehicle having the exclusive use thereof, under a lease or otherwise, for a period greater than thirty days; "Person" means any individual, firm, corporation or other legal entity; "Recyclable container" means any bottle, can, jar or other container constructed from glass, metal or plastic that has been designated as a recyclable material pursuant to subdivision b of section 16-305 of this title; "Street" means any public street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, viaduct, square or place, including marginal streets.
+
+
+
+
+
+
+*§ 16-471 On-street acceptance or transfer of recyclable containers in bulk.* ::
+
+
+a. It shall be unlawful for any person using a motor vehicle to accept, receive or otherwise collect recyclable containers in bulk from more than one person on or in any street in the city of New York.
+
+b. It shall be unlawful for any person to transfer recyclable containers in bulk from one vehicle to another on or in any street in the city of New York where one or more of the vehicles involved in the transfer has a commercial license plate.
+
+c. This section shall not apply to authorized employees or agents of the city engaged in the collection of solid waste or recyclable materials, persons licensed pursuant to subdivision a of section 16-505 of this code, and persons registered or exempted from registration pursuant to subdivision b of section 16-505 of this code.
+
+d. The owner of any motor vehicle used in violation of this section shall also be liable for any such violation except where such vehicle owner establishes that the motor vehicle was used for purposes of violating the provisions of this section without such vehicle owner's permission.
+
+
+
+
+
+
+*§ 16-472 Registration.* ::
+
+
+a. On or after January 1, 2014, no person shall, while using a motor vehicle, accept, receive, transfer from one motor vehicle to another motor vehicle, or otherwise collect recyclable containers in bulk from more than two persons on private property in the city of New York without registering with the department pursuant to the provisions set forth in this section. Any application for registration or for renewal of a registration submitted to the department shall include the following:
+
+   i. name and address of each such person and owner of such motor vehicle used for acceptance of recyclable containers in bulk; and
+
+   ii. the location, including the street address or nearest street address of the property, and tax block and lot number or numbers if more than one lot, or other information identifying specifically where such motor vehicle will accept recyclable containers in bulk and the name of the owner of such property and a signed certification from such owner approving the use of such property for the purpose of in bulk container acceptance.
+
+b. Such registration shall be conspicuously posted in such motor vehicle.
+
+c. Prior to issuing a registration pursuant to this section, the department shall confirm that any location where a motor vehicle proposes to collect recyclable containers in bulk as specified pursuant to paragraph ii of subdivision a of this section is zoned for such use.
+
+d. The commissioner may establish, by rule, a fee to process applications for registration pursuant to this section.
+
+e. Any registration issued by the department pursuant to this section shall expire one year from its issuance, and may be renewed thereafter. A request for renewal shall be reviewed by the department prior to such expiration of such registration, if such request is submitted to the department no later than forty-five days prior to the expiration of such registration.
+
+
+
+
+
+
+*§ 16-473 Reporting requirements.* ::
+
+
+No later than January 31, 2015, and annually thereafter, any person registered pursuant to section 16-472 of this chapter shall submit an annual report to the department. Such report shall include, but not be limited to, the following:
+
+i. the name and address of each operator of the motor vehicle used for acceptance of recyclable containers in bulk;
+
+ii. any change to the information contained in each such operator's registration;
+
+iii. each location where collected recyclable containers are delivered; and
+
+iv. the total amount of refunds paid out and revenue generated, in the aggregate, by the registrant for the prior calendar year pursuant to the registration issued by the department.
+
+
+
+
+
+
+*§ 16-474 Operating requirements.* ::
+
+
+Any person registered pursuant to this chapter shall ensure that such person's motor vehicle accepts, receives, transfers from one motor vehicle to another motor vehicle or otherwise collects recyclable containers in bulk from another person on private property in the city of New York only at the location listed in the registration. Such person shall ensure that such property is operated and maintained in a safe and sanitary manner so as to avoid any nuisance or condition hazardous to public health or safety, including ensuring that the roadway, sidewalk and curb area abutting such property where such person operates is kept clean and free from obstruction and nuisances resulting directly from such person's activities, and that the roadway, sidewalk and curb area abutting any such property are free from garbage, refuse, rubbish, litter, debris and other offensive material including, but not limited to, unwanted recyclable containers.
+
+
+
+
+
+
+*§ 16-475 Exemption.* ::
+
+
+The provisions of sections 16-471, 16-472, 16-473 and 16-474 of this chapter shall not apply to persons using a motor vehicle to collect or receive recyclable containers in bulk on streets or private property from dealers, distributors or redemption centers as such terms are defined in section 27-1003 of the environmental conservation law.
+
+
+
+
+
+
+*§ 16-476 Enforcement.* ::
+
+
+a. Any person who violates section 16-471 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of one thousand dollars for each such violation.
+
+b. Any person who violates section 16-472 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of five hundred dollars for each such violation.
+
+c. Any person who violates sections 16-473 or 16-474 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of two hundred fifty dollars for each such violation.
+
+d. Any motor vehicle that has been used or is being used to collect recyclable containers in bulk in violation of section 16-471 of this chapter or without registering with the department in violation of section 16-472 of this chapter may be impounded by the department and shall not be released until either all storage fees and the applicable fine have been paid or a bond has been posted in an amount satisfactory to the commissioner. Rules of the department related to the impoundment and release of motor vehicles in chapter five of title sixteen of the rules of the city of New York shall be applicable to the impoundment and release of motor vehicles pursuant to this paragraph. Where it is determined that the motor vehicle was not used to commit a violation of section 16-471 or 16-472 of this chapter, such fees shall be promptly returned.
+
+e. The provisions of this chapter may be enforced by the department, the police department, the department of consumer affairs and the business integrity commission.
+
+
+
+
+
+
+*§ 16-477 Rulemaking authority.* ::
+
+
+The commissioner shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter.
+
+
+
+
 Chapter 4-C: Unlawful Removal and Acceptance of Recyclable Material
 --------------------------------------------------
 
@@ -2900,123 +3021,6 @@ i. Where a notice of violation is issued for a violation of any of the provision
 
 
 If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
-
-
-
-
-Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
---------------------------------------------------
-
-
-
-*§ 16-470 Definitions.* ::
-
-
-As used in this chapter: "In bulk" means fifty or more recyclable containers; "Motor vehicle" means any vehicle operated or driven upon a street that is propelled by any power other than human or animal power; "Owner" means a person, other than a lienholder, having the property in or title to a motor vehicle, including any person entitled to the use and possession of a motor vehicle subject to a security interest by another person and also includes any lessee or bailee of a motor vehicle having the exclusive use thereof, under a lease or otherwise, for a period greater than thirty days; "Person" means any individual, firm, corporation or other legal entity; "Recyclable container" means any bottle, can, jar or other container constructed from glass, metal or plastic that has been designated as a recyclable material pursuant to subdivision b of section 16-305 of this title; "Street" means any public street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, viaduct, square or place, including marginal streets.
-
-
-
-
-
-
-*§ 16-471 On-street acceptance or transfer of recyclable containers in bulk.* ::
-
-
-a. It shall be unlawful for any person using a motor vehicle to accept, receive or otherwise collect recyclable containers in bulk from more than one person on or in any street in the city of New York.
-
-b. It shall be unlawful for any person to transfer recyclable containers in bulk from one vehicle to another on or in any street in the city of New York where one or more of the vehicles involved in the transfer has a commercial license plate.
-
-c. This section shall not apply to authorized employees or agents of the city engaged in the collection of solid waste or recyclable materials, persons licensed pursuant to subdivision a of section 16-505 of this code, and persons registered or exempted from registration pursuant to subdivision b of section 16-505 of this code.
-
-d. The owner of any motor vehicle used in violation of this section shall also be liable for any such violation except where such vehicle owner establishes that the motor vehicle was used for purposes of violating the provisions of this section without such vehicle owner's permission.
-
-
-
-
-
-
-*§ 16-472 Registration.* ::
-
-
-a. On or after January 1, 2014, no person shall, while using a motor vehicle, accept, receive, transfer from one motor vehicle to another motor vehicle, or otherwise collect recyclable containers in bulk from more than two persons on private property in the city of New York without registering with the department pursuant to the provisions set forth in this section. Any application for registration or for renewal of a registration submitted to the department shall include the following:
-
-   i. name and address of each such person and owner of such motor vehicle used for acceptance of recyclable containers in bulk; and
-
-   ii. the location, including the street address or nearest street address of the property, and tax block and lot number or numbers if more than one lot, or other information identifying specifically where such motor vehicle will accept recyclable containers in bulk and the name of the owner of such property and a signed certification from such owner approving the use of such property for the purpose of in bulk container acceptance.
-
-b. Such registration shall be conspicuously posted in such motor vehicle.
-
-c. Prior to issuing a registration pursuant to this section, the department shall confirm that any location where a motor vehicle proposes to collect recyclable containers in bulk as specified pursuant to paragraph ii of subdivision a of this section is zoned for such use.
-
-d. The commissioner may establish, by rule, a fee to process applications for registration pursuant to this section.
-
-e. Any registration issued by the department pursuant to this section shall expire one year from its issuance, and may be renewed thereafter. A request for renewal shall be reviewed by the department prior to such expiration of such registration, if such request is submitted to the department no later than forty-five days prior to the expiration of such registration.
-
-
-
-
-
-
-*§ 16-473 Reporting requirements.* ::
-
-
-No later than January 31, 2015, and annually thereafter, any person registered pursuant to section 16-472 of this chapter shall submit an annual report to the department. Such report shall include, but not be limited to, the following:
-
-i. the name and address of each operator of the motor vehicle used for acceptance of recyclable containers in bulk;
-
-ii. any change to the information contained in each such operator's registration;
-
-iii. each location where collected recyclable containers are delivered; and
-
-iv. the total amount of refunds paid out and revenue generated, in the aggregate, by the registrant for the prior calendar year pursuant to the registration issued by the department.
-
-
-
-
-
-
-*§ 16-474 Operating requirements.* ::
-
-
-Any person registered pursuant to this chapter shall ensure that such person's motor vehicle accepts, receives, transfers from one motor vehicle to another motor vehicle or otherwise collects recyclable containers in bulk from another person on private property in the city of New York only at the location listed in the registration. Such person shall ensure that such property is operated and maintained in a safe and sanitary manner so as to avoid any nuisance or condition hazardous to public health or safety, including ensuring that the roadway, sidewalk and curb area abutting such property where such person operates is kept clean and free from obstruction and nuisances resulting directly from such person's activities, and that the roadway, sidewalk and curb area abutting any such property are free from garbage, refuse, rubbish, litter, debris and other offensive material including, but not limited to, unwanted recyclable containers.
-
-
-
-
-
-
-*§ 16-475 Exemption.* ::
-
-
-The provisions of sections 16-471, 16-472, 16-473 and 16-474 of this chapter shall not apply to persons using a motor vehicle to collect or receive recyclable containers in bulk on streets or private property from dealers, distributors or redemption centers as such terms are defined in section 27-1003 of the environmental conservation law.
-
-
-
-
-
-
-*§ 16-476 Enforcement.* ::
-
-
-a. Any person who violates section 16-471 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of one thousand dollars for each such violation.
-
-b. Any person who violates section 16-472 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of five hundred dollars for each such violation.
-
-c. Any person who violates sections 16-473 or 16-474 of this chapter shall be liable for a civil penalty recoverable in a proceeding before the environmental control board of two hundred fifty dollars for each such violation.
-
-d. Any motor vehicle that has been used or is being used to collect recyclable containers in bulk in violation of section 16-471 of this chapter or without registering with the department in violation of section 16-472 of this chapter may be impounded by the department and shall not be released until either all storage fees and the applicable fine have been paid or a bond has been posted in an amount satisfactory to the commissioner. Rules of the department related to the impoundment and release of motor vehicles in chapter five of title sixteen of the rules of the city of New York shall be applicable to the impoundment and release of motor vehicles pursuant to this paragraph. Where it is determined that the motor vehicle was not used to commit a violation of section 16-471 or 16-472 of this chapter, such fees shall be promptly returned.
-
-e. The provisions of this chapter may be enforced by the department, the police department, the department of consumer affairs and the business integrity commission.
-
-
-
-
-
-
-*§ 16-477 Rulemaking authority.* ::
-
-
-The commissioner shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter.
 
 
 
