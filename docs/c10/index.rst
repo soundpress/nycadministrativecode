@@ -11677,6 +11677,3271 @@ This chapter shall be construed and enforced in conformity with chapter three hu
 
 
 
+Chapter 17: City Personal Income Tax On Residents
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: General**
+
+
+
+*§ 11-1701 Imposition of tax.* ::
+
+
+General. A tax is hereby imposed on the city taxable income of every city resident individual, estate and trust determined in accordance with the rates set forth in subdivision (a) of this section for taxable years beginning before two thousand twenty-one, and in accordance with the rates set forth in subdivision (b) of this section for taxable years beginning after two thousand twenty. Provided, however, that if, for any taxable year beginning after two thousand twenty, the rates set forth in such subdivision (b) are rendered inapplicable and the rates set forth in such subdivision (a) are rendered applicable, then the tax for such taxable year shall be at the rates provided under subparagraph (A) of paragraphs one, two and three of such subdivision (a). Notwithstanding the foregoing sentences, for taxable years beginning after two thousand two and before two thousand six, a tax is hereby imposed on the city taxable income of every city resident individual, estate and trust determined in accordance with the rates set forth in subdivision (g) of this section and in accordance with the provisions of subdivision (h) of this section. During any taxable year beginning after two thousand two and before two thousand six, in which the tax imposed pursuant to this section is determined in accordance with subdivisions (g) and (h) of this section, the rates set forth in subdivisions (a) and (b) of this section shall be inapplicable, and the tax imposed pursuant to section 11-1704.1 of this chapter shall be suspended.
+
+(a) Rate of tax. A tax imposed pursuant to this section shall be determined as follows:
+
+   (1) Resident married individuals filing joint returns and resident surviving spouses. The tax under this section for each taxable year on the city taxable income of every city resident married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 of this chapter and on the city taxable income of every city resident surviving spouse shall be determined in accordance with the following tables:
+
+      (A) For taxable years beginning after two thousand sixteen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $21,600
+      -  2.7% of the city taxable income
+    * - Over $21,600 but not over $45,000
+      -  $583 plus 3.3% of excess over $21,600
+    * - Over $45,000 but not over $90,000
+      -  $1,355 plus 3.35% of excess over $45,000
+    * - Over $90,000
+      -  $2,863 plus 3.4% of excess over $90,000
+~
+
+
+
+ 
+
+      (B)    For taxable years beginning after two thousand fourteen and before two thousand seventeen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $21,600
+      -  2.55% of the city taxable income
+    * - Over $21,600 but not over $45,000
+      -  $551 plus 3.1% of excess over $21,600
+    * - Over $45,000 but not over $90,000
+      -  $1,276 plus 3.15% of excess over $45,000
+    * - Over $90,000 but not over $500,000
+      -  $2,694 plus 3.2% of excess over $90,000
+    * - Over $500,000
+      -  $16,803 plus 3.4% of excess over $500,000
+~
+
+
+
+ 
+
+      (C) For taxable years beginning after two thousand nine and before two thousand fifteen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $21,600
+      -  2.55% of the city taxable income
+    * - Over $21,600 but not over $45,000
+      -  $551 plus 3.1% of excess over $21,600
+    * - Over $45,000 but not over $90,000
+      -  $1,276 plus 3.15% of excess over $45,000
+    * - Over $90,000 but not over $500,000
+      -  $2,694 plus 3.2% of excess over $90,000
+    * - Over $500,000
+      -  $15,814 plus 3.4% of excess over $500,000
+~
+
+
+
+ 
+
+   (2) Resident heads of households. The tax under this section for each taxable year on the city taxable income of every city resident head of a household shall be determined in accordance with the following tables:
+
+      (A)    For taxable years beginning after two thousand sixteen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $14,400
+      -  2.7% of the city taxable income
+    * - Over $14,400 but not over $30,000
+      -  $389 plus 3.3% of excess over $14,400
+    * - Over $30,000 but not over $60,000
+      -  $904 plus 3.35% of excess over $30,000
+    * - Over $60,000
+      -  $1,909 plus 3.4% of excess over $60,000
+~
+
+
+
+ 
+
+      (B) For taxable years beginning after two thousand fourteen and before two thousand seventeen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $14,400
+      -  2.55% of the city taxable income
+    * - Over $14,400 but not over $30,000
+      -  $367 plus 3.1% of excess over $14,400
+    * - Over $30,000 but not over $60,000
+      -  $851 plus 3.15% of excess over $30,000
+    * - Over $60,000 but not over $500,000
+      -  $1,796 plus 3.2% of excess over $60,000
+    * - Over $500,000
+      -  $16,869 plus 3.4% of excess over $500,000
+~
+
+
+
+ 
+
+      (C) For taxable years beginning after two thousand nine and before two thousand fifteen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $14,400
+      -  2.55% of the city taxable income
+    * - Over $14,400 but not over $30,000
+      -  $367 plus 3.1% of excess over $14,400
+    * - Over $30,000 but not over $60,000
+      -  $851 plus 3.15% of excess over $30,000
+    * - Over $60,000 but not over $500,000
+      -  $1,796 plus 3.2% of excess over $60,000
+    * - Over $500,000
+      -  $15,876 plus 3.4% of excess over $500,000
+~
+
+
+
+ 
+
+   (3) Resident unmarried individuals, resident married individuals filing separate returns and resident estates and trusts. The tax under this section for each taxable year on the city taxable income of every city resident individual who is not a married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 of this chapter or a city resident head of a household or a city resident surviving spouse, and on the city taxable income of every city resident estate and trust shall be determined in accordance with the following tables:
+
+      (A) For taxable years beginning after two thousand sixteen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $12,000
+      -  2.7% of the city taxable income
+    * - Over $12,000 but not over $25,000
+      -  $324 plus 3.3% of excess over $12,000
+    * - Over $25,000 but not over $50,000
+      -  $753 plus 3.35% of excess over $25,000
+    * - Over $50,000
+      -  $1,591 plus 3.4% of excess over $50,000
+~
+
+
+
+ 
+
+      (B) For taxable years beginning after two thousand fourteen and before two thousand seventeen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $12,000
+      -  2.55% of the city taxable income
+    * - Over $12,000 but not over $25,000
+      -  $306 plus 3.1% of excess over $12,000
+    * - Over $25,000 but not over $50,000
+      -  $709 plus 3.15% of excess over $25,000
+    * - Over $50,000 but not over $500,000
+      -  $1,497 plus 3.2% of excess over $50,000
+    * - Over $500,000
+      -  $16,891 plus 3.4% of excess over $500,000
+~
+
+
+
+ 
+
+      (C) For taxable years beginning after two thousand nine and before two thousand fifteen: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $12,000
+      -  2.55% of the city taxable income
+    * - Over $12,000 but not over $25,000
+      -  $306 plus 3.1% of excess over $12,000
+    * - Over $25,000 but not over $50,000
+      -  $709 plus 3.15% of excess over $25,000
+    * - Over $50,000 but not over $500,000
+      -  $1,497 plus 3.2% of excess over $50,000
+    * - Over $500,000
+      -  $15,897 plus 3.4% of excess over $500,000
+~
+
+
+
+ 
+
+(b) Rate of tax. A tax imposed pursuant to this section shall be determined as follows:
+
+   (1) Resident married individuals filing joint returns and resident surviving spouses. The tax under this section for each taxable year on the city taxable income of every city resident married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 of this title and on the city taxable income of every city resident surviving spouse shall be determined in accordance with the following table:
+
+For taxable years beginning after two thousand twenty: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $21,600
+      -  1.18% of the city taxable income
+    * - Over $21,600 but not over $45,000
+      -  $255 plus 1.435% of excess over $21,600
+    * - Over $45,000 but not over $90,000
+      -  $591 plus 1.455% of excess over $45,000
+    * - Over $90,000
+      -  $1,245 plus 1.48% of excess over $90,000
+~
+
+
+
+ 
+
+   (2) Resident heads of households. The tax under this section for each taxable year on the city taxable income of every city resident head of a household shall be determined in accordance with the following table:
+
+For taxable years beginning after two thousand twenty: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $14,400
+      -  1.18% of the city taxable income
+    * - Over $14,400 but not over $30,000
+      -  $170 plus 1.435% of excess over $14,400
+    * - Over $30,000 but not over $60,000
+      -  $394 plus 1.455% of excess over $30,000
+    * - Over $60,000
+      -  $830 plus 1.48% of excess over $60,000
+~
+
+
+
+ 
+
+   (3) Resident unmarried individuals, resident married individuals filing separate returns and resident estates and trusts. The tax under this section for each taxable year on the city taxable income of every city resident individual who is not a married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 of this title or a city resident head of a household or a city resident surviving spouse, and on the city taxable income of every city resident estate and trust shall be determined in accordance with the following table:
+
+For taxable years beginning after two thousand twenty: 
+											
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $12,000
+      -  1.18% of the city taxable income
+    * - Over $12,000 but not over $25,000
+      -  $142 plus 1.435% of excess over $12,000
+    * - Over $25,000 but not over $50,000
+      -  $328 plus 1.455% of excess over $25,000
+    * - Over $50,000
+      -  $692 plus 1.48% of excess over $50,000
+~
+
+
+
+ 
+
+(c) Partners and partnerships. A partnership as such shall not be subject to tax under this chapter. Persons carrying on business as partners shall be liable for tax under this chapter only in their separate or individual capacities. As used in this chapter, the term "partnership" shall include, unless a different meaning is clearly required, a subchapter K limited liability company. The term "subchapter K limited liability company" shall mean a limited liability company classified as a partnership for federal income tax purposes. The term "limited liability company" means a domestic limited liability company or a foreign limited liability company, as defined in section one hundred two of the limited liability company law, a limited liability investment company formed pursuant to section five hundred seven of the banking law, or a limited liability company formed pursuant to section one hundred two-a of the banking law.
+
+(d) Associations taxable as corporations. An association, trust or other unincorporated organization which is taxable as a corporation for federal income tax purposes shall not be subject to tax under this chapter.
+
+(e) Exempt trusts and organizations. A trust or other unincorporated organization which by reason of its purposes or activities is exempt from federal income tax shall be exempt from tax under this chapter (regardless of whether subject to federal and state income tax on unrelated business taxable income).
+
+(f) Cross references. For definitions of city taxable income of:
+
+   (1) City resident individual, see section 11-1711.
+
+   (2) City resident estate or trust, see section 11-1718.
+
+(g) Rate of tax. For taxable years beginning after two thousand two and before two thousand six, the tax imposed pursuant to this section shall be determined as follows:
+
+   (1) Resident married individuals filing joint returns and resident surviving spouses. The tax under this section for each taxable year on the city taxable income of every city resident married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 of this title and on the city taxable income of every city resident surviving spouse shall be determined in accordance with the following tables:
+
+      (A) For taxable years beginning in two thousand five:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $21,600
+      -  2.907% of the city taxable income
+    * - Over $21,600 but not over $45,000
+      -  $628 plus 3.534% of excess over $21,600
+    * - Over $45,000 but not over $90,000
+      -  $1,455 plus 3.591% of excess over $45,000
+    * - Over $90,000 but not over $150,000
+      -  $3,071 plus 3.648% of excess over $90,000
+    * - Over $150,000 but not over $500,000
+      -  $5,260 plus 4.05% of excess over $150,000
+    * - Over $500,000
+      -  $19,435 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+      (B) For taxable years beginning in two thousand four:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $21,600
+      -  2.907% of the city taxable income
+    * - Over $21,600 but not over $45,000
+      -  $628 plus 3.534% of excess over $21,600
+    * - Over $45,000 but not over $90,000
+      -  $1,455 plus 3.591% of excess over $45,000
+    * - Over $90,000 but not over $150,000
+      -  $3,071 plus 3.648% of excess over $90,000
+    * - Over $150,000 but not over $500,000
+      -  $5,260 plus 4.175% of excess over $150,000
+    * - Over $500,000
+      - $19,872 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+      (C) For taxable years beginning in two thousand three:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $21,600
+      -  2.907% of the city taxable income
+    * - Over $21,600 but not over $45,000
+      -  $628 plus 3.534% of excess over $21,600
+    * - Over $45,000 but not over $90,000
+      -  $1,455 plus 3.591% of excess over $45,000
+    * - Over $90,000 but not over $150,000
+      -  $3,071 plus 3.648% of excess over $90,000
+    * - Over $150,000 but not over $500,000
+      -  $5,260 plus 4.25% of excess over $150,000
+    * - Over $500,000
+      - $20,135 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+   (2) Resident heads of households. The tax under this section for each taxable year on the city taxable income of every city resident head of a household shall be determined in accordance with the following tables:
+
+      (A) For taxable years beginning in two thousand five:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $14,400
+      -  2.907% of the city taxable income
+    * - Over $14,400 but not over $30,000
+      -  $419 plus 3.534% of excess over $14,400
+    * - Over $30,000 but not over $60,000
+      -  $970 plus 3.591% of excess over $30,000
+    * - Over $60,000 but not over $125,000
+      -  $2,047 plus 3.648% of excess over $60,000
+    * - Over $125,000 but not over $500,000
+      -  $4,418 plus 4.05% of excess over $125,000
+    * - Over $500,000
+      -  $19,606 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+      (B) For taxable years beginning in two thousand four:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $14,400
+      -  2.907% of the city taxable income
+    * - Over $14,400 but not over $30,000
+      -  $419 plus 3.534% of excess over $14,400
+    * - Over $30,000 but not over $60,000
+      -  $970 plus 3.591% of excess over $30,000
+    * - Over $60,000 but not over $125,000
+      -  $2,047 plus 3.648% of excess over $60,000
+    * - Over $125,000 but not over $500,000
+      -  $4,418 plus 4.175% of excess over $125,000
+    * - Over $500,000
+      -  $20,075 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+      (C) For taxable years beginning in two thousand three:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $14,400
+      -  2.907% of the city taxable income
+    * - Over $14,400 but not over $30,000
+      -  $419 plus 3.534% of excess over $14,400
+    * - Over $30,000 but not over $60,000
+      -  $970 plus 3.591% of excess over $30,000
+    * - Over $60,000 but not over $125,000
+      -  $2,047 plus 3.648% of excess over $60,000
+    * - Over $125,000 but not over $500,000
+      -  $4,418 plus 4.25% of excess over $125,000
+    * - Over $500,000
+      -  $20,356 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+   (3) Resident unmarried individuals, resident married individuals filing separate returns and resident estates and trusts. The tax under this section for each taxable year on the city taxable income of every city resident individual who is not a married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 
+											11-1751
+											 of this title or a city resident head of household or a city resident surviving spouse, and on the city taxable income of every city resident estate and trust shall be determined in accordance with the following tables:
+
+      (A) For taxable years beginning in two thousand five:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $12,000
+      -  2.907% of the city taxable income
+    * - Over $12,000 but not over $25,000
+      -  $349 plus 3.534% of excess over $12,000
+    * - Over $25,000 but not over $50,000
+      -  $808 plus 3.591% of excess over $25,000
+    * - Over $50,000 but not over $100,000
+      -  $1,706 plus 3.648% of excess over $50,000
+    * - Over $100,000 but not over $500,000
+      -  $3,530 plus 4.05% of excess over $100,000
+    * - Over $500,000
+      -  $19,730 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+      (B) For taxable years beginning in two thousand four:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $12,000
+      -  2.907% of the city taxable income
+    * - Over $12,000 but not over $25,000
+      -  $349 plus 3.534% of excess over $12,000
+    * - Over $25,000 but not over $50,000
+      -  $808 plus 3.591% of excess over $25,000
+    * - Over $50,000 but not over $100,000
+      -  $1,706 plus 3.648% of excess over $50,000
+    * - Over $100,000 but not over $500,000
+      -  $3,530 plus 4.175% of excess over $100,000
+    * - Over $500,000
+      -  $20,230 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+      (C) For taxable years beginning in two thousand three:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax is: 
+    * - Not over $12,000
+      -  2.907% of the city taxable income
+    * - Over $12,000 but not over $25,000
+      -  $349 plus 3.534% of excess over $12,000
+    * - Over $25,000 but not over $50,000
+      -  $808 plus 3.591% of excess over $25,000
+    * - Over $50,000 but not over $100,000
+      -  $1,706 plus 3.648% of excess over $50,000
+    * - Over $100,000 but not over $500,000
+      -  $3,530 plus 4.25% of excess over $100,000
+    * - Over $500,000
+      -  $20,530 plus 4.45% of excess over $500,000
+~
+
+
+
+ 
+
+(h) Tax table benefit recapture. For taxable years beginning after two thousand two and before two thousand six, there is hereby imposed a supplemental tax, in addition to the tax imposed under the opening paragraph of this section, for the purpose of recapturing the benefit of the tax tables contained in subdivision (g) of this section. The supplemental tax shall be an amount equal to the sum of the tax table benefits in paragraphs one and two of this subdivision multiplied by their respective fractions in such paragraphs provided, however, that paragraph one of this subdivision shall not apply to taxpayers who are not subject to the second highest rate of tax.
+
+   (1) Resident married individuals filing joint returns, surviving spouses, resident heads of households, resident unmarried individuals, resident married individuals filing separate returns and resident estates and trusts.
+
+      (A) The tax table benefit is the difference between (i) the amount of taxable income set forth in the tax table in subdivision (g) of this section not subject to the second highest rate of tax for the taxable year multiplied by such rate and (ii) the second highest dollar denominated tax for such amount of taxable income set forth in the tax table applicable to the taxable year in subdivision (g) of this section.
+
+      (B) The fraction is computed as follows: the numerator is the lesser of fifty thousand dollars or the excess of New York adjusted gross income for the taxable year over one hundred fifty thousand dollars and the denominator is fifty thousand dollars.
+
+      (C) This paragraph shall only apply to taxable years beginning after two thousand two and before two thousand six.
+
+   (2) Resident married individuals filing joint returns, surviving spouses, resident heads of households, resident unmarried individuals, resident married individuals filing separate returns and resident estates and trusts. 
+
+      (A) The tax table benefit is the difference between (i) the amount of taxable income set forth in the tax table in subdivision (g) of this section not subject to the highest rate of tax for the taxable year multiplied by such rate and (ii) the highest dollar denominated tax for such amount of taxable income set forth in the tax table applicable to the taxable year in subdivision (g) of this section less the sum of the tax table benefits in paragraph one of this subdivision.
+
+      (B) For such taxpayers with adjusted gross income over five hundred thousand dollars, the fraction is one. Provided, however, that the total tax prior to the application of any tax credits shall not exceed the highest rate of tax set forth in the tax table in subdivision (g) of this section multiplied by the taxpayer's taxable income.
+
+      (C) This paragraph shall only apply to taxable years beginning after two thousand two and before two thousand six.
+
+
+
+
+
+
+
+
+*§ 11-1701.2 Tax surcharge. [Repealed]* ::
+
+
+(a) Imposition of separate tax. In addition to any other tax imposed by this chapter, there is hereby imposed for each taxable year a separate tax on the ordinary income portion of a lump sum distribution of every city resident individual, estate and trust which has made an election of lump sum treatment under subsection (e) of section four hundred two of the internal revenue code. The recipient of a lump sum distribution shall be liable for the tax imposed by this section. The credits against tax under this chapter, except for the credit under section 11-1773, shall not be allowed against the tax imposed by this section.
+
+(b) Cross reference. For computation of tax, see section 11-1724.
+
+
+
+
+
+
+*§ 11-1704 Tax surcharge.* ::
+
+
+(a) In addition to the taxes imposed by sections 11-1701 and 11-1703, there is hereby imposed for each taxable year beginning after nineteen hundred eighty-ninety but before nineteen hundred ninety-nine, a tax surcharge on the city taxable income of every city resident individual, estate and trust.
+
+(b) The tax surcharge imposed pursuant to this section shall be determined as follows:
+
+   (1) Resident married individuals filing joint returns and resident surviving spouses. The tax surcharge under this section on the city taxable income of every city resident married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 and on the city taxable income of every city resident surviving spouse shall be determined in accordance with the following tables:
+
+      (A) For taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-five:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax surcharge is: 
+    * - Not over $15,500
+      -  0
+    * - Over $15,500 but not over $27,000
+      -  0.51% of city taxable income in excess of $15,500
+    * - Over $27,000 but not over $45,000
+      -  $59 plus 0.55% of excess over $27,000
+    * - Over $45,000 but not over $108,000
+      -  $158 plus 0.51% of excess over $45,000
+    * - Over $108,000
+      -  $479 plus 0.51% of excess over $108,000
+~
+
+
+
+ 
+
+      (B) For taxable years beginning after nineteen hundred ninety-four but before nineteen hundred ninety-nine:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax surcharge is: 
+    * - Not over $14,400
+      -  0
+    * - Over $14,400 but not over $27,000
+      -  0.51% of city taxable income in excess of $14,400
+    * - Over $27,000 but not over $45,000
+      -  $64 plus 0.55% of excess over $27,000
+    * - Over $45,000 but not over $108,000
+      -  $162 plus 0.51% of excess over $45,000
+    * - Over $108,000
+      -  $484 plus 0.51% of excess over $108,000
+~
+
+
+
+ 
+
+   (2) Resident heads of households. The tax surcharge under this section on the city taxable income of every city resident head of household shall be determined in accordance with the following tables:
+
+      (A)    For taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-five:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax surcharge is: 
+    * - Not over $8,800
+      -  0
+    * - Over $8,800 but not over $16,500
+      -  0.51% of city taxable income in excess of $8,800
+    * - Over $16,500 but not over $27,500
+      -  $39 plus 0.55% of excess over $16,500
+    * - Over $27,500 but not over $66,000
+      -  $100 plus 0.51% of excess over $27,500
+    * - Over $66,000
+      -  $296 plus 0.51% of excess over $66,000
+~
+
+
+
+ 
+
+      (B) For taxable years beginning after nineteen hundred ninety-four but before nineteen hundred ninety-nine:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax surcharge is: 
+    * - Not over $7,350
+      -  0
+    * - Over $7,350 but not over $9,200
+      -  0.42% of city taxable income in excess of $7,350
+    * - Over $9,200 but not over $17,250
+      -  $7 plus 0.51% of excess over $9,200
+    * - Over $17,250 but not over $28,750
+      -  $48 plus 0.55% of excess over $17,250
+    * - Over $28,750 but not over $69,000
+      -  $111 plus 0.51% of excess over $28,750
+    * - Over $69,000
+      -  $317 plus 0.51% of excess over $69,000
+~
+
+
+
+ 
+
+   (3) Resident unmarried individuals, resident married individuals filing separate returns and resident estates and trusts. The tax surcharge under this section on the city taxable income of every city resident individual who is not a city resident married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 or a city resident head of household or a city resident surviving spouse, and on the city taxable income of every city resident estate and trust shall be determined in accordance with the following tables:
+
+      (A) For taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-five:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax surcharge is: 
+    * - Not over $9,000
+      -  0
+    * - Over $9,000 but not over $15,000
+      -  0.51% of city taxable income in excess of $9,000
+    * - Over $15,000 but not over $25,000
+      -  $31 plus 0.55% of excess over $15,000
+    * - Over $25,000 but not over $60,000
+      -  $86 plus 0.51% of excess over $25,000
+    * - Over $60,000
+      -  $264 plus 0.51% of excess over $60,000
+~
+
+
+
+ 
+
+      (B) For taxable years beginning after nineteen hundred ninety-four but before nineteen hundred ninety-nine:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the city taxable income is: 
+      - The tax surcharge is: 
+    * - Not over $8,400
+      -  0
+    * - Over $8,400 but not over $15,000
+      -  0.51% of city taxable income in excess of $8,400
+    * - Over $15,000 but not over $25,000
+      -  $33 plus 0.55% of excess over $15,000
+    * - Over $25,000 but not over $60,000
+      -  $88 plus 0.51% of excess over $25,000
+    * - Over $60,000
+      -  $266 plus 0.51% of excess over $60,000
+~
+
+
+
+ 
+
+(c) The tax surcharge imposed pursuant to this section shall be administered, collected and distributed by the commissioner of taxation and finance in the same manner as the taxes imposed pursuant to sections 11-1701 and 11-1703, and all of the provisions of this chapter, including sections 11-1706, 11-1721 and 11-1773, shall apply to the tax surcharge imposed by this section.
+
+(d) (1) Notwithstanding subdivision (b) of this section, with respect to taxable years beginning in nineteen hundred ninety-three, nineteen hundred ninety-four, nineteen hundred ninety-five and nineteen hundred ninety-six, the mayor shall, by August first of nineteen hundred ninety-two, nineteen hundred ninety-four and nineteen hundred ninety-five, and by September fifteenth of nineteen hundred ninety-three, transmit to the commissioner of taxation and finance a certification setting forth the percentage of non-achievement regarding the combined police uniformed staffing level with respect to the fiscal year of the city ending on the immediately preceding June thirtieth, provided, however, that for the city fiscal year ending in nineteen hundred ninety-three the percentage of non-achievement shall be determined by the combined police uniformed staffing level existing on August thirtieth, nineteen hundred ninety-three, and further provided for all such fiscal years that the percentage of non-achievement shall be calculated according to the procedure specified in a memorandum of understanding relating to the New York city safe streets-safe city program and to the enactment of this subdivision dated February eleventh, nineteen hundred ninety-one, as amended, and executed by the governor, the temporary president of the state senate, the speaker of the state assembly, the minority leader of the state senate, the minority leader of the state assembly, the mayor and the speaker of the city council, any any* modification of such memorandum of understanding subsequently agreed upon by all such signatories in a single subsequent memorandum of understanding. If such percentage of non-achievement is equal to or exceeds twenty-five percent with respect to the fiscal year of the city of New York ending in nineteen hundred ninety-two, twenty percent with respect to the city fiscal year ending in nineteen hundred ninety-three or five percent with respect to the city fiscal years ending in nineteen hundred ninety-four and nineteen hundred ninety-five, then the rates of the tax surcharge imposed by this section for taxable years beginning in the calendar year beginning on January first next succeeding such August first or September fifteenth shall be the products of the rates set forth in subdivision (b) of this section and a percentage equal to the difference between one hundred percent and such percentage of nonachievement, such products computed to the nearest hundredth of a percent, and the dollar denominated amounts of the tax surcharge set forth in subdivision(b) of this section shall be reduced conformably.
+
+   (2) Notwithstanding subdivision (b) of this section, with respect to the taxable year beginning in nineteen hundred ninety-eight, the mayor shall, by August first of nineteen hundred ninety-seven, transmit to the state commissioner of taxation and finance a certification setting forth the percentage of non-achievement regarding the police uniformed staffing level with respect to the fiscal year ending on the immediately preceding June thirtieth, provided, however, that such percentage of non-achievement shall be calculated according to the procedure specified in a new memorandum of understanding relating to the enactment of this paragraph dated no later than thirty days after such enactment, as executed by the governor, the temporary president of the senate, the speaker of the assembly, the minority leader of the senate, the minority leader of the assembly, the mayor and the speaker of the city council and any modifications of such new memorandum of understanding subsequently agreed upon by all such signatories in a single subsequent memorandum of understanding. If such percentage of non-achievement exceeds two percent with respect to the fiscal year of the city ending in nineteen hundred ninety-seven, then the rates of the tax surcharge authorized by this section for the taxable years beginning in the calendar year beginning on January first, nineteen hundred ninety-eight shall be the products of the rates set forth in subdivision (b) of this section and a percentage equal to the difference between one hundred percent and the portion of the percentage of non-achievement that is in excess of two percent, such products computed to the nearest hundredth of a percent, and the dollar denominated amounts of the tax surcharge set forth in subdivision (b) of this section shall be reduced conformably.
+
+   (3) If the rates of the surcharge imposed by this section are modified pursuant to paragraph one or paragraph two of this subdivision, the state commissioner of taxation and finance shall promulgate regulations stating the modified rates.
+
+(e) Notwithstanding anything in this section or section 11-1798 of this chapter to the contrary, of the total revenue (including interest and penalties) from the tax surcharge imposed by this section which the state comptroller is required to pay, after June thirtieth, nineteen hundred ninety-two, to the chief fiscal officer of the city for payment into the treasury of the city, one hundred ten million dollars thereof paid to the chief fiscal officer during the fiscal year of the city commencing July first, nineteen hundred ninety-two, two hundred million dollars thereof paid to the chief fiscal officer during the fiscal year of the city commencing July first nineteen hundred ninety-three, one hundred sixty-seven million dollars thereof paid to the chief fiscal officer during the fiscal year of the city commencing July first, nineteen hundred ninety-four, and one hundred eighty-five million dollars thereof paid to the chief fiscal officer during the fiscal year of the city commencing July first, nineteen hundred ninety-five, shall be credited to and deposited in the criminal justice account established within the general fund of the city for the implementation of the Safe Streets-Safe City program. The balance of such revenue shall be credited to the general fund of the city and shall be applied exclusively to or in aid or support of the city's provision of criminal justice and fire protection services.
+
+(f) Notwithstanding anything in this article to the contrary, of the total revenue (including interest and penalties) from the tax surcharge imposed pursuant to the authority of this section which the state comptroller is required to pay to the chief fiscal officer of the city for payment into the treasury of the city, ninety million dollars thereof paid to such chief fiscal officer during the fiscal year of the city commencing during calendar year nineteen hundred ninety-six, and one hundred eighty-five million dollars thereof paid to such chief fiscal officer during the fiscal year of the city commencing during calendar year nineteen hundred ninety-seven, shall be credited to and deposited in a criminal justice account established by the city within its general fund. The balance of such revenue from such tax surcharge which the state comptroller is required to pay to such chief fiscal officer for payment into the treasury of the city for the taxable years beginning in the calendar years beginning on January first, nineteen hundred ninety-seven and January first, nineteen hundred ninety-eight shall be credited to the general fund of the city to be applied exclusively to or in aid or support of the city's provision of criminal justice and fire protection services; provided however, that, notwithstanding the foregoing, such balance shall be applied to implementation of the capital program for public schools within the city and a supplemental capital rehabilitation program for such schools, to the extent that such application is necessary for the timely implementation of such programs in accordance with the memorandum of understanding executed pursuant to paragraph two of subdivision (d) of this section and any modifications thereto.
+
+
+
+
+
+
+*§ 11-1704.1 Additional tax.* ::
+
+
+(a) (1) In addition to any other taxes imposed by this chapter, there is hereby imposed for each taxable year beginning after nineteen hundred ninety but before two thousand twenty, an additional tax on the city taxable income of every city resident individual, estate and trust, to be calculated for each taxable year as follows: (i) for each taxable year beginning after nineteen hundred ninety but before nineteen hundred ninety-nine, at the rate of fourteen percent of the sum of the taxes for each such taxable year determined pursuant to section 11-1701 and section 11-1704 of this subchapter; and (ii) for each taxable year beginning after nineteen hundred ninety-eight, at the rate of fourteen percent of the tax for such taxable year determined pursuant to such section 11-1701.
+
+   (2) Notwithstanding paragraph one of this subdivision, for each taxable year beginning after two thousand but before two thousand two, the additional tax shall be calculated as follows:
+
+      (i) Resident married individuals filing joint returns and resident surviving spouses. The additional tax under this section for each taxable year on the tax determined pursuant to section 11-1701 of every city resident married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 and on the tax determined pursuant to section 11-1701 of every city resident surviving spouse shall be determined as follows:
+
+         (A) If the tax determined pursuant to section 11-1701 is based on city taxable income equal to or less than $90,000, then the additional tax shall be 5.25% of such tax;
+
+         (B) If the tax determined pursuant to section 11-1701 is based on city taxable income over $90,000, then the additional tax shall be the sum of 5.25% of such tax on city taxable income up to and including $90,000 and 12.25% of such tax on city taxable income in excess of $90,000.
+
+      (ii) Resident heads of households. The additional tax under this section for each taxable year on the tax determined pursuant to section 11-1701 of every city resident head of a household shall be determined as follows:
+
+         (A) If the tax determined pursuant to section 11-1701 is based on city taxable income equal to or less than $60,000, then the additional tax shall be 5.25% of such tax;
+
+         (B) If the tax determined pursuant to section 11-1701 is based on city taxable income over $60,000, then the additional tax shall be the sum of 5.25% of such tax on city taxable income up to and including $60,000 and 12.25% of such tax on city taxable income in excess of $60,000.
+
+      (iii) Resident unmarried individuals, resident married individuals filing separate returns and resident estates and trusts. The additional tax under this section for each taxable year on the tax determined pursuant to section 11-1701 of every city resident individual who is not a married individual who makes a single return jointly with his or her spouse under subdivision (b) of section 11-1751 or a city resident head of a household or a city resident surviving spouse, and on the tax determined pursuant to section 11-1701 of every city resident estate and trust shall be determined as follows:
+
+         (A) If the tax determined pursuant to section 11-1701 is based on city taxable income equal to or less than $50,000, then the additional tax shall be 5.25% of such tax;
+
+         (B) If the tax determined pursuant to section 11-1701 is based on city taxable income over $50,000, then the additional tax shall be the sum of 5.25% of such tax on city taxable income up to and including $50,000 and 12.25% of such tax on city taxable income in excess of $50,000.
+
+(b) The additional tax imposed pursuant to this section shall be administered, collected and distributed by the commissioner of taxation and finance in the same manner as the other taxes imposed pursuant to this chapter, and all of the provisions of this chapter, including sections 11-1706, 11-1721 and 11-1773, shall apply to the additional tax imposed by this section.
+
+
+
+
+
+
+
+
+*§ 11-1705 General provisions and definitions.* ::
+
+
+(a) Accounting periods and methods.
+
+   (1) Accounting periods. A taxpayer's taxable year under this chapter shall be the same as his taxable year for federal income tax purposes.
+
+   (2) Change of accounting periods. If a taxpayer's taxable year is changed for federal income tax purposes, his taxable year for purposes of this chapter shall be similarly changed. If a taxable year of less than twelve months results from a change of a taxable year, the city standard deduction and the city exemptions shall be prorated under regulations of the tax commission.
+
+   (3) Accounting methods. A taxpayer's method of accounting under this chapter shall be the same as his method of accounting for federal income tax purposes. In the absence of any method of accounting for federal income tax purposes, city taxable income shall be computed under such method as in the opinion of the tax commission clearly reflects income.
+
+   (4) Change of accounting methods.
+
+      (A) If a taxpayer's method of accounting is changed for federal income tax purposes, his method of accounting for purposes of this chapter shall be similarly changed.
+
+      (B) If a taxpayer's method of accounting is changed, other than from an accrual to an installment method, any additional tax which results from adjustments determined to be necessary solely by reason of the change shall not be greater than if such adjustments were ratably allocated and included for the taxable year of the change and the preceding taxable years, not in excess of two, during which the taxpayer used the method of accounting from which the change is made.
+
+      (C) If a taxpayer's method of accounting is changed from an accrual to an installment method, any additional tax for the year of such change of method and for any subsequent year which is attributable to the receipt of installment payments properly accrued in a prior year, shall be reduced by the portion of tax for any prior taxable year attributable to the accrual of such installment payments, in accordance with regulations of the tax commission.
+
+(b) City resident and city nonresident defined. 
+
+   (1) City resident individual. A city resident individual means an individual:
+
+      (A) who is domiciled in this city, unless (i) the taxpayer maintains no permanent place of abode in this city, maintains a permanent place of abode elsewhere, and spends in the aggregate not more than thirty days of the taxable year in this city, or (ii) (I) within any period of five hundred forty-eight consecutive days the taxpayer is present in a foreign country or countries for at least four hundred fifty days, and (II) during the period of five hundred forty-eight consecutive days the taxpayer, the taxpayer's spouse (unless the spouse is legally separated) and the taxpayer's minor children are not present in this city for more than ninety days, and (III) during any period of less than twelve months, which would be treated as a separate taxable period pursuant to section 11-1754, and which period is contained within the period of five hundred forty-eight consecutive days, the taxpayer is present in this city for a number of days which does not exceed an amount which bears the same ratio to ninety as the number of days contained in that period of less than twelve months bears to five hundred forty-eight, or
+
+      (B) who maintains a permanent place of abode in this city and spends in the aggregate more than one hundred eighty-three days of the taxable year in this city, whether or not domiciled in this city for any portion of the taxable year, unless such individual is in active service in the armed forces of the United States.
+
+   (2) City nonresident individual. A city nonresident individual means an individual who is not a city resident.
+
+   (3) City resident estate or trust. A city resident estate or trust means:
+
+      (A) the estate of a decedent who at his death was domiciled in this city,
+
+      (B) a trust, or a portion of a trust, consisting of property transferred by will of a decedent who at his death was domiciled in this city, or
+
+      (C) a trust, or portion of a trust, consisting of the property of:
+
+         (i) a person domiciled in this city at the time such property was transferred to the trust, if such trust or portion of a trust was then irrevocable, or if it was then revocable and has not subsequently become irrevocable; or
+
+         (ii) a person domiciled in this city at the time such trust, or portion of a trust, became irrevocable, if it was revocable when such property was transferred to the trust but has subsequently become irrevocable. For the purposes of the foregoing, a trust or portion of a trust is revocable if it is subject to a power, exercisable immediately or at any future time, to revest title in the person whose property constitutes such trust or portion of a trust, and a trust or portion of a trust becomes irrevocable when the possibility that such power may be exercised has been terminated.
+
+   (4) City nonresident estate or trust. A city nonresident estate or trust means an estate or trust which is not a city resident estate or trust.
+
+   (5) Cross-reference. For effect of a change of resident status, see section 11-1754.
+
+(D) (i) Provided, however, a resident trust is not subject to tax under this article if all of the following conditions are satisfied:
+
+      (I) all the trustees are domiciled outside the city of New York;
+
+      (II) the entire corpus of the trusts, including real and tangible property, is located outside the city of New York; and
+
+      (III) all income and gains of the trust are derived from or connected with sources outside of the city of New York, determined as if the trust were a non-resident trust.
+
+   (ii) For purposes of item (II) of clause (i) of this subparagraph, intangible property shall be located in this city if one or more of the trustees are domiciled in the city of New York.
+
+   (iii) Provided further, that for the purposes of item (I) of clause (i) of this subparagraph, a trustee which is a banking corporation as defined in subdivision (a) of section 11-640 of this title and which is domiciled outside the city of New York at the time it becomes a trustee of the trust shall be deemed to continue to be a trustee domiciled outside the city of New York notwithstanding that it thereafter otherwise becomes a trustee domiciled in the city of New York by virtue of being acquired by, or becoming an office or branch of, a corporate trustee domiciled within the city of New York.
+
+
+
+
+
+
+
+
+*§ 11-1706 Credits against tax.* ::
+
+
+(a) Credit relating to net capital gain. For taxable years beginning in nineteen hundred eighty-seven, a credit against the tax imposed under section 11-1701 shall be allowed. The amount of the credit shall be one-half of one percent of net capital gain includible in city adjusted gross income for the taxable year. The credit allowed by this subdivision shall not exceed the tax imposed by section 11-1701 reduced by the credits permitted under section 11-1721 and subdivision (b) of this section.
+
+(b) Household credit.
+
+   (1) For taxable years beginning after nineteen hundred eighty-six, a credit against the city personal income tax imposed by section 11-1701 shall be allowed. The credit, computed as described in paragraph two of this subdivision, shall not exceed the tax imposed by section 11-1701, reduced by the credit permitted under section 11-1721.
+
+   (2) (A)    For any individual who is not married nor the head of a household nor a surviving spouse, the amount of the credit shall be determined in accordance with the following table:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If household gross income is:
+      -  
+      - The credit shall be:
+    * -  
+      - For taxable years beginning after 1986 and before 1996
+      - For taxable years beginning after 1995
+    * - Not over $7,500
+      - $15
+      - $15
+    * - Over $7,500 but not over $10,000
+      - $10
+      -  $15 
+    * - Over $10,000 but not over $12,500
+      -  $0
+      -  $10 
+~
+
+
+
+      (B) For any husband and wife, head of household or surviving spouse, the amount of the credit shall be determined by multiplying the number of exemptions for which the taxpayer (or in the case of a husband and wife, taxpayers) is entitled to a deduction for the taxable year for federal income tax purposes under subsections (b) and (c) of section one hundred fifty-one of the internal revenue code by the credit factor for the taxable year as specified in the following table:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If household gross income is:
+      -  
+      -  
+      -  
+      - The credit factor is:
+    * -  
+      - For taxable years beginning in 
+      - 
+      - 
+      - For taxable years beginning after 1995
+    * -  
+      - 1987
+      - 1988
+      - 1989 through 1995
+      -  
+    * - Not over $12,500
+      - $30
+      - $50
+      - $50
+      - $30
+    * - Over $12,500 but not over $15,000
+      - $20
+      - $40
+      - $50
+      - $30
+    * - Over $15,000 but not over $17,500
+      -  $10
+      - $20
+      - $25
+      - $25
+    * - Over $17,500 but not over $20,000
+      - $0
+      - $15
+      - $15
+      - $15
+    * - Over $20,000 but not over $22,500
+      - $0
+      - $0
+      - $0
+      - $10
+~
+
+ 
+
+   (3) For purposes of this subsection:
+
+      (A) "Household gross income" shall mean the aggregate federal adjusted gross income of a household, as the term household is defined in subparagraph (B) of this paragraph, for the taxable year.
+
+      (B) "Household" means a husband and wife, a head of household, a surviving spouse, or an individual who is not married nor the head of a household nor a surviving spouse nor a taxpayer with respect to whom a deduction under subsection (c) of section one hundred fifty-one of the internal revenue code is allowable to another taxpayer for the taxable year.
+
+      (C) "Household gross income of a husband and wife" shall be the aggregate of their federal adjusted gross incomes for the taxable year irrespective of whether joint or separate city income tax returns are filed. Provided, however, that a husband or wife who is required to file a separate city income tax return shall be permitted one-half the credit otherwise allowed his or her household, except as limited by paragraph one of this subdivision.
+
+      (D) "Household gross income" shall be computed in all cases as if each member of the household were a resident for the entire taxable year.
+
+      (E) If a taxpayer changes his status during his taxable year from resident to nonresident, or from nonresident to resident, the household credit shall be prorated according to the number of months in the period of residence. In the case of a husband and wife, if either or both changes his or her status from resident to nonresident or from nonresident to resident and separate returns are filed, the credit computed for the entire year shall be divided first as provided in subparagraph (C) of this paragraph and then prorated according to the number of months in the period of residence.
+
+(c)*    State school tax reduction credit.
+
+Editor's note: there are two divisions designated (c) in this section.
+
+   (1) For taxable years beginning after nineteen hundred ninety-seven and ending before two thousand sixteen, a state school tax reduction credit shall be allowed as provided in the following tables. The credit shall be allowed against the taxes authorized by this article reduced by the credits permitted by this article. If the credit exceeds the tax as so reduced, the taxpayer may receive, and the comptroller, subject to a certificate of the commissioner, shall pay as an overpayment, without interest, the amount of such excess. For purposes of this subsection, no credit shall be granted to an individual with respect to whom a deduction under subsection (c) of section one hundred fifty-one of the internal revenue code is allowable to another taxpayer for the taxable year.
+
+   (2) The amount of the credit under this paragraph shall be determined based upon the taxpayer's income as defined in subparagraph (ii) of paragraph (b) of subdivision four of section four hundred twenty-five of the real property tax law. For purposes of this paragraph, any taxpayer under subparagraphs (A) and (B) of this paragraph with income of more than two hundred fifty thousand dollars shall not receive a credit. Beginning in the two thousand ten tax year and each tax year thereafter through two thousand fifteen, the "more than two hundred fifty thousand dollar" income limitation shall be adjusted by applying the inflation factor set forth herein, and rounding each result to the nearest multiple of one hundred dollars. The department shall establish the income limitation to be associated with each subsequent tax year by applying the inflation factor set forth herein to the figures that define the income limitation that were applicable to the preceding tax year, as determined pursuant to this subsection, and rounding each result to the nearest multiple of one hundred dollars. Such determination shall be made no later than March first, two thousand ten and each year thereafter.
+
+      (A) Married individuals filing joint returns and surviving spouses. In the case of a husband and wife who make a single return jointly and of a surviving spouse:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - For taxable years beginning: 
+      - The credit shall be: 
+    * - in 2001 - 2005 
+      - $125 
+    * - in 2006 
+      - $230 
+    * - in 2007 - 2008 
+      - $290 
+    * - in 2009 - 2015
+      - $125 
+~
+
+
+
+ 
+
+      (B) All others. In the case of an unmarried individual, a head of a household or a married individual filing a separate return:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - For taxable years beginning: 
+      - The credit shall be: 
+    * - in 2001 - 2005 
+      - $ 62.50 
+    * - in 2006 
+      - $115  
+    * - in 2007 - 2008 
+      - $145  
+    * - in 2009 - 2015
+      - $ 62.50 
+~
+
+
+
+ 
+
+   (3) [Reserved.]
+
+   (4) Husband and wife who make a joint return. If a husband and wife make a single return jointly, the credit under this subdivision shall be determined under paragraph two of this subdivision, if either of them has attained the age of sixty-five on or before the close of the taxable year.
+
+   (5) Part-year residents. If a taxpayer changes status during the taxable year from resident to nonresident, or from nonresident to resident, the state school tax reduction credit shall be prorated according to the number of months in the period of residence.
+
+(c)*   Credit for unincorporated business taxes paid. 
+
+Editor's note: there are two divisions designated (c) in this section.
+
+   (1) A city resident individual, estate or trust whose city adjusted gross income includes income, gain, loss or deductions from one or more unincorporated businesses conducted by such city resident individual, estate or trust that are subject to the tax imposed by chapter five of this title, or a distributive share of income, gain, loss and deductions of, or guaranteed payments from, one or more partnerships that are subject to the tax imposed by such chapter, shall be allowed a credit as provided in paragraph two of this subdivision against the tax otherwise due under sections 11-1701, 11-1703, 11-1704 and 11-1704.1 of this chapter.
+
+   (2) (A)    Subject to the limitation set forth in subparagraph (B) of this paragraph, the credit allowed to a taxpayer for a taxable year under this subdivision shall be determined as follows:
+
+         (i) For taxable years beginning on or after January first, nineteen hundred ninety-seven:
+
+            (I) If the city taxable income is forty-two thousand dollars or less, the credit shall be sixty-five percent of the amount determined in paragraph three of this subdivision.
+
+            (II) If the city taxable income is greater than forty-two thousand dollars but not greater than one hundred forty-two thousand dollars, the amount of the credit shall be a percentage of the amount determined in paragraph three of this subdivision, such percentage to be determined by subtracting from sixty-five percent, one-tenth of a percentage point (.001) for every increment of two hundred dollars, or fractional part thereof, of city taxable income in excess of forty-two thousand dollars.
+
+            (III) If the city taxable income is greater than one hundred forty-two thousand dollars, the credit shall be fifteen percent of the amount determined in paragraph three of this subdivision.
+
+      (B) Notwithstanding anything to the contrary in subparagraph (A) of this paragraph, the credit allowed to a taxpayer for a taxable year under this subdivision shall not exceed the sum of the taxes that would otherwise be imposed by sections 11-1701, 11-1703, 11-1704 and 11-1704.1 of this chapter on such taxpayer for such taxable year after the allowance of any other credits allowed by this section or section 11-1721 of this chapter.
+
+   (3) Subject to the provisions of subparagraph (C) of this paragraph, the amount determined in this paragraph is the sum of:
+
+      (A) for each unincorporated business conducted by the taxpayer, the tax imposed by chapter five of this title on such unincorporated business for its taxable year ending with the taxable year of the taxpayer and paid by the unincorporated business; and
+
+      (B) for each unincorporated business in which the taxpayer is a partner, the product of:
+
+         (i) the sum of (I) the tax imposed by chapter five of this title on such unincorporated business for its taxable year ending within or with the taxable year of the partner and paid by the unincorporated business and (II) the amount of any credit or credits taken by the unincorporated business under subdivision (j) of section 11-503 of this title for its taxable year ending within or with the taxable year of the partner; and
+
+         (ii) a fraction, the numerator of which is the net total of the partner's distributive share of income, gain, loss and deductions of, and guaranteed payments from, the unincorporated business for such taxable year, and the denominator of which is the sum, for such taxable year, of the net total distributive shares of income, gain, loss and deductions of, and guaranteed payments to, all partners in the unincorporated business for whom or which such net total (as separately determined for each partner) is greater than zero.
+
+      (C) For a taxpayer that changes its status from a city resident to a city nonresident or from a city nonresident to a city resident during the taxable year:
+
+         (i) the amount determined in subparagraph (A) of this paragraph shall be, with respect to each unincorporated business conducted by the taxpayer, the tax imposed by chapter five of this title on such unincorporated business for its taxable year ending with the taxable year of the taxpayer and paid by the unincorporated business, multiplied by a fraction, the numerator of which is that portion of the income, gain, loss and deductions of the unincorporated business included in the taxpayer's adjusted gross income for the portion of the taxable year during which the taxpayer was a city resident, and the denominator of which is the total, for such taxable year, of the income, gain, loss and deductions of the unincorporated business, and
+
+         (ii) the amount determined in clause (ii) of subparagraph (B) of this paragraph shall be a fraction, the numerator of which is that portion of the taxpayer's net total distributive share of income, gain, loss and deductions of, and that portion of guaranteed payments from, the unincorporated business included in the taxpayer's city adjusted gross income for the portion of the taxable year during which the taxpayer was a city resident, and the denominator of which is the sum, for such taxable year, of the net total distributive shares of income, gain, loss and deductions of, and guaranteed payments to, all partners in the unincorporated business, for whom or which such net total (as separately determined for each partner) is greater than zero.
+
+   (4) For purposes of subdivision (c) of section 11-1902 of this title, in determining the amount of tax that a nonresident would be required to pay if such nonresident were a resident of the city and subject to the tax on personal income of residents, the credit allowed by this subdivision shall be taken into account.
+
+(d) Earned income tax credit.
+
+   (1)    For taxable years beginning after two thousand three, a credit against the city personal income tax shall be allowed, equal to five percent of the earned income credit allowed under section thirty-two of the internal revenue code for the same taxable year.
+
+   (2) In the case of a resident taxpayer, the credit provided by this subdivision shall be allowed against the taxes authorized by this chapter for the taxable year reduced by the credits permitted by this chapter. If the credit exceeds the tax as so reduced, the taxpayer may receive, and the state comptroller, subject to a certificate of the commissioner of the state department of taxation and finance, shall pay as an overpayment, without interest, the amount of such excess.
+
+   (3) If a taxpayer changes his or her status during the taxable year from city resident to city nonresident, or from city nonresident to city resident, the credit determined under this subdivision shall be limited to the amount determined by multiplying the amount of such credit by a fraction, the numerator of which is such taxpayer's city adjusted gross income, for the period of residence, and the denominator of which is such taxpayer's city adjusted gross income determined as if he or she were a city resident for the entire taxable year. City adjusted gross income shall be adjusted as provided in section 11-1754 of this chapter. The credit as so limited shall be applied as provided in paragraph two of this subdivision.
+
+   (4) Subject to the provisions of paragraph three of this subdivision, in the case of a husband and wife who file a joint return, but who are required to determine their city personal income taxes separately, the credit authorized pursuant to this subdivision may be applied against the tax of either or divided between them as they may elect. In the case of a husband and wife who are not required to file a federal return, the credit under this subsection shall be allowed only if such taxpayers file a joint city personal income tax return.
+
+(e) Credit for certain household and dependent care services necessary for gainful employment.
+
+   (1)    For taxable years beginning on or after January first, two thousand seven, a taxpayer shall be allowed a credit as provided herein equal to the applicable percentage of the credit allowed under subsection (c) of section six hundred six of the tax law with respect to qualifying individuals as defined in paragraph one of subsection (b) of section twenty-one of the internal revenue code (without regard to whether the taxpayer in fact claimed the credit under such section twenty-one for the taxable year) who are dependents of the taxpayer and who have not attained the age of four as of the end of the taxable year. The applicable percentage shall be determined as follows:
+
+      (A) If household gross income as defined in subparagraph (A) of paragraph three of subdivision (b) of this section is twenty-five thousand dollars or less, the applicable percentage shall be seventy-five percent.
+
+      (B) If such household gross income is greater than twenty-five thousand dollars but not greater than thirty thousand dollars, the applicable percentage shall be seventy-five percent multiplied by one minus a fraction, the numerator of which is such household gross income less twenty-five thousand dollars and the denominator of which is five thousand dollars.
+
+      (C) If such household gross income is greater than thirty thousand dollars, the applicable percentage shall be zero.
+
+   (2) The credit under this subdivision shall be allowed against the taxes imposed by this chapter reduced by the credits permitted by this chapter. If the credit exceeds the tax as so reduced, the taxpayer may receive, and the state comptroller, subject to the certificate of the state commissioner of taxation and finance, shall pay as an overpayment, without interest, the amount of such excess, provided, however, in the case of a taxpayer who is a part-year resident of New York city any such overpayment under this paragraph shall be limited to the amount of such excess multiplied by a fraction, the numerator of which is federal adjusted gross income for the period of residence, computed as if the taxable year for federal income tax purposes were limited to the period of residence, and the denominator of which is federal adjusted gross income for the taxable year.
+
+   (3) In the case of a husband and wife who filed a joint federal return, but who are required to determine their New York city taxes separately, the credit allowed pursuant to this subdivision may only be applied against the tax imposed on the spouse with the lower taxable income, computed without regard to such credit, provided, however, if the spouse with the lower taxable income is a nonresident of the city, no credit shall be allowed under this subdivision. In the case of a husband and wife who are not required to file a federal return, the credit under this subdivision shall be allowed only if such taxpayers file a joint New York city income tax return.
+
+(f) Credit for general corporation tax paid.
+
+   (1)    A city resident individual, estate or trust whose city adjusted gross income includes a pro rata share of income, loss and deductions described in paragraph one of subsection (a) of section thirteen hundred sixty-six of the internal revenue code, from one or more New York S corporations as defined in subdivision one-A of section two hundred eight of the tax law, or from one or more QSSSs as defined in subdivision one-B of section two hundred eight of the tax law, that are exempt QSSSs by reason of clause (A) of subparagraph one of paragraph (k) of subdivision nine of section two hundred eight of the tax law, on which a tax is imposed by subchapter two of chapter six of this title, shall be allowed a credit as provided in paragraph two of this subdivision against the tax otherwise due under sections 11-1701, 11-1703, 11-1704 and 11-1704.1 of this chapter.
+
+   (2) (A) Subject to the limitations set forth in subparagraphs (B) and (C) of this paragraph, the credit allowed to a taxpayer for a taxable year under this subdivision shall be determined as follows:
+
+         (i)    For taxable years beginning on or after January first, two thousand fourteen and before July first, two thousand nineteen:
+
+            (I) If the city taxable income is thirty-five thousand dollars or less, the amount of the credit shall be one hundred percent of the amount determined in paragraph three of this subdivision.
+
+            (II) If the city taxable income is greater than thirty-five thousand dollars but less than one hundred thousand dollars, the amount of the credit shall be a percentage of the amount determined in paragraph three of this subdivision, such percentage to be determined by subtracting from one hundred percent, a percentage determined by subtracting thirty-five thousand dollars from city taxable income, dividing the result by sixty-five thousand dollars and multiplying by one hundred percent.
+
+            (III) If the city taxable income is one hundred thousand dollars or greater, no credit shall be allowed.
+
+            (IV) Provided further that for any taxable year of a taxpayer for which this credit is effective that encompasses days occurring after June thirtieth, two thousand nineteen, the amount of the credit determined in item (I) or (II) of this clause shall be multiplied by a fraction, the numerator of which is the number of days in the taxpayer's taxable year occurring on or before June thirtieth, two thousand nineteen, and the denominator of which is the number of days in the taxpayer's taxable year.
+
+      (B) Notwithstanding anything to the contrary in subparagraph (A) of this paragraph, the credit allowed to a taxpayer for a taxable year under this subdivision shall not exceed the sum of the taxes that would otherwise be imposed by sections 11-1701, 11-1703, 11-1704 and 11-1704.1 of this chapter on such taxpayer for such taxable year after the allowance of any other credits allowed by subdivisions (a) and (b) of this section, and subdivision (c) of this section, as added by chapter four hundred eighty-one of the laws of nineteen hundred ninety-seven and subsequently amended, and section 11-1721 of this chapter.
+
+      (C) Notwithstanding anything to the contrary in subparagraph (A) of this paragraph, no credit shall be allowed for any amount of tax imposed, or credit allowed, by subchapter two of chapter six of this title on, or to, a combined group of corporations including a New York S corporation or an exempt QSSS, except where the combined group consists exclusively of one or more New York S corporations and one or more exempt QSSSs of such corporations as described in paragraph one of this subdivision, provided that each of the New York S corporations included in the group is wholly owned by the same interests and in the same proportions as each other New York S corporation included in the group.
+
+   (3) Subject to the provisions of subparagraph (B) of this paragraph and subparagraph (C) of paragraph two of this subdivision, the amount determined in this paragraph is the sum of the taxpayer's pro rata share of the amounts determined in subparagraph (A) of this paragraph for each New York S corporation, or exempt QSSS, described in paragraph one of this subsection, a pro rata share of whose income, loss and deductions described in paragraph one of subsection (a) of section thirteen hundred sixty-six of the internal revenue code, is included in the taxpayer's city adjusted gross income.
+
+      (A) The amount determined in this subparagraph is the sum of:
+
+         (i) the taxes imposed by subchapter two of chapter six of this title on such corporation, or a combined group including such corporation, for its taxable year ending within or with the taxable year of the taxpayer and paid by such corporation, or combined group; and
+
+         (ii) the amount of any credit or credits taken by such corporation, or a combined group including such corporation, under subdivision eighteen of section 11-604 of this title for its taxable year ending within or with the taxable year of the taxpayer.
+
+      (B) For purposes of this subdivision, the taxpayer's pro rata share of the amount in subparagraph (A) of this paragraph for the taxable year shall be the amount determined with respect to the taxpayer:
+
+         (i) by assigning an equal portion of the amount in subparagraph (A) of this paragraph to each day of the corporation's taxable year on which the corporation has shares outstanding,
+
+         (ii) then by dividing that portion pro rata among the shares outstanding on that day; provided, however,
+
+         (iii) if the taxable year of such corporation for purposes of chapter six of this title is different from its New York S year or S short year as defined in subdivision one-A of section two hundred eight of the tax law, or subsection (f) of section fourteen hundred fifty of the tax law, only those portions that are assigned to days of the taxable year that are also days of the New York S year or S short year shall be taken into account in determining the shareholder's pro rata share of the amount determined in subparagraph (A) of this paragraph.
+
+
+
+
+
+
+
+
+*§ 11-1707 Meaning of terms.* ::
+
+
+(a) General. Any term used in this chapter shall have the same meaning as when used in a comparable context in the laws of the United States relating to federal income taxes, unless a different meaning is clearly required but such meaning shall be subject to the exceptions or modifications prescribed in this chapter or by statute. Any reference in this chapter to the laws of the United States shall mean the provisions of the internal revenue code of nineteen hundred eighty-six (unless a reference to the internal revenue code of nineteen hundred fifty-four is clearly intended), and amendments thereto, and other provisions of the laws of the United States relating to federal income taxes, as the same may be or become effective at any time or from time to time for the taxable year, as included and quoted in the appendices (including any supplements and additions thereto) to this chapter. (Such quotation of the aforesaid laws of the United States is intended to make them a part of this chapter and to avoid constitutional uncertainties which might result if such laws were merely incorporated by reference. The quotation of a provision of the internal revenue code or of any other law of the United States in such appendices shall not necessarily mean that it is applicable or has relevance to this chapter).
+
+(b) Marital or other status. An individual's marital or other status under section 11-1701 and section 11-1714 shall be the same as his marital or other status for purposes of establishing the applicable federal income tax rates.
+
+(c) "City" and "this city" as used in this chapter means the city of New York; "tax commission" as used in this chapter means the tax commission of the state of New York; and "state" or "this state" as used in this chapter means the state of New York.
+
+
+
+
+
+
+
+**Subchapter 2: Residents**
+
+
+
+*§ 11-1711 City taxable income of a city resident individual.* ::
+
+
+(a) General. The city taxable income of a city resident individual shall be his city adjusted gross income less his city deduction and city exemptions, as determined under this chapter.
+
+(b) Husband and wife.
+
+   (1) If the federal taxable income of husband or wife, both of whom are residents, is determined on a separate federal return, their city taxable incomes shall be separately determined.
+
+   (2) If the federal taxable income of husband and wife, both of whom are residents, is determined on a joint federal return, their city taxable income shall be determined jointly.
+
+   (3) If neither husband or wife, both of whom are residents, files a federal return:
+
+      (A) their tax shall be determined on their joint city taxable income, or
+
+      (B) separate taxes may be determined on their separate city taxable incomes if they both so elect.
+
+   (4) If either husband or wife is a resident and the other is a nonresident, a separate tax shall be determined on the city taxable income of the resident spouse on a separate form unless such husband and wife determine their federal taxable income jointly and both elect to determine their joint city taxable income as if both were residents.
+
+
+
+
+
+
+*§ 11-1712 City adjusted gross income of a city resident individual.* ::
+
+
+(a) General. The city adjusted gross income of a city resident individual means his or her federal adjusted gross income as defined in the laws of the United States for the taxable year, with the modifications specified in this section.
+
+(b) Modifications increasing federal adjusted gross income. There shall be added to federal adjusted gross income:
+
+   (1) Interest income on obligations of any state other than this state, or of a political subdivision of any other such state unless created by compact or agreement to which this state is a party, to the extent not properly includible in federal adjusted gross income;
+
+   (2) Interest or dividend income on obligations or securities of any authority, commission, or instrumentality of the United States, which the laws of the United States exempt from federal income tax but not from state income taxes;
+
+   (3) Income taxes.
+
+      (A) General. Income taxes imposed by this state or any other taxing jurisdiciton, to the extent deductible in determining federal adjusted gross income and not credited against federal income tax.
+
+      (B) Shareholders of S corporations. In the case of a shareholder of an S corporation, with respect to taxes imposed upon or payable by the corporation, the term "income taxes" in subparagraph (A) of this paragraph shall also include the taxes imposed under articles nine-A and thirty-two of the tax law, regardless of the measure of such tax, but shall not otherwise include taxes imposed by this or any other state of the United States, or any political subdivision of this or any other state, or the District of Columbia.
+
+   (4) Interest on indebtedness incurred or continued to purchase or carry obligations or securities the interest on which is exempt from tax under this chapter, to the extent deductible in determining federal adjusted gross income.
+
+   (5) Expenses paid or incurred during the taxable year for:
+
+      (i) the production or collection of income which is exempt from tax under this chapter, or
+
+      (ii) the management, conservation or maintenance of property held for the production of such income, and the amortizable bond premium for the taxable year on any bond the interest on which is exempt from tax under this chapter, to the extent that such expenses and premiums are deductible in determining federal adjusted gross income.
+
+   (6) In the case of a taxpayer who has exercised the election permitted by subdivision (g) or (h) of this section, the amount or amounts required by said subdivisions to be added to federal adjusted gross income.
+
+   (7) In the case of a taxpayer who is a shareholder of a corporation organized under article fifteen or authorized to do business in this state under article fifteen-A of the business corporation law, for the taxpayer's taxable years beginning before nineteen hundred eighty-eight, the amount which is deductible by such corporation under paragraph one, two or three of subsection (a) of section four hundred four of the internal revenue code for its taxable year ending in or with such taxpayer's taxable year for contributions paid on behalf of such taxpayer minus the lesser of fifteen thousand dollars or fifteen percent of the earned income derived by such taxpayers from such corporation during such taxpayer's taxable year. In the case of a taxpayer on whose behalf contributions are paid under more than one plan to which this paragraph applies or under a plan, contributions to which on his behalf are subject to the limitations provided in section four hundred four (e) of the internal revenue code, this paragraph shall apply with respect to the aggregate of the contributions paid on his behalf under all such plans.
+
+   (8) [Repealed.]
+
+   (9) [Repealed.]
+
+   (10) The amount required to be added to federal adjusted gross income pursuant to subdivision (i) of this section.
+
+   (11) [Repealed.]
+
+   (12) [Reserved.]
+
+   (13) [Repealed.]
+
+   (14) [Repealed.]
+
+   (15) The amount allowed as an exclusion or deduction for the special additional mortgage recording taxes imposed by subdivision one-a of section two hundred fifty-three of the tax law in determining federal adjusted gross income for such taxable year.
+
+   (16) Unless the credit allowed pursuant to subsection (f) of section six hundred six of the tax law is reflected in the computation of the gain or loss so as to result in an increase in such gain or decrease in such loss, for federal income tax purposes, from the sale or other disposition of the property with respect to which the special additional mortgage recording tax imposed pursuant to subdivision one-a of section two hundred fifty-three of such law was paid, the amount of the special additional mortgage recording tax imposed by subdivision one-a of section two hundred fifty-three of such law which was paid and which is reflected in the computation of the basis of the property so as to result in a decrease in such gain or increase in such loss for federal income tax purposes from the sale or other disposition of the property with respect to which such tax was paid.
+
+   (17) The amount required to be added to federal adjusted gross income pursuant to subdivision (r) of this section.
+
+   (18) In the case of a shareholder of an S corporation:
+
+      (A) where the election provided for in subsection (a) of section six hundred sixty of the tax law is in effect with respect to such corporation, an amount equal to his pro rata share of the corporation's reductions for taxes described in paragraphs two and three of subsection (f) of section thirteen hundred sixty-six of the internal revenue code, and
+
+      (B) in the case of a New York S termination year, subparagraph (A) of this paragraph shall apply to the amount of reductions for taxes determined under subdivision (s) of this section.
+
+   (19) In the case of a shareholder of an S corporation:
+
+      (A) where the election provided for in subsection (a) of section six hundred sixty of the tax law has not been made with respect to such corporation, any item of loss or deduction of the corporation included in federal gross income pursuant to section thirteen hundred sixty-six of the internal revenue code, and
+
+      (B) in the case of a New York S termination year, subparagraph (A) of this paragraph shall apply to the amounts of loss or deduction determined under subdivision (s) of this section.
+
+   (20) S corporation distributions to the extent not included in federal gross income for the taxable year because of the application of section thirteen hundred sixty-eight, subsection (e) of section thirteen hundred seventy-one or subsection (c) of section thirteen hundred seventy-nine of the internal revenue code which represent income not previously subject to tax under this chapter because the election provided for in subsection (a) of section six hundred sixty of the tax law had not been made. Any such distribution treated in the manner described in paragraph two of subsection (b) of section thirteen hundred sixty-eight of the internal revenue code for federal income tax purposes shall be treated as ordinary income for purposes of this chapter.
+
+   (21) In relation to the disposition of stock or indebtedness of a corporation which elected under subchapter s of chapter one of the internal revenue code for any taxable year of such corporation beginning, in the case of a corporation taxable under article nine-A of the tax law, after December thirty-first, nineteen hundred eighty, and in the case of a corporation taxable under article thirty-two of the tax law, after December thirty-first, nineteen hundred ninety-six, the amount required to be added to federal adjusted gross income pursuant to subdivision (n) of this section.
+
+   (22) The amounts required to be added to federal adjusted gross income pursuant to subdivision (q) of this section.
+
+   (23) For taxable years beginning after December thirty-first, nineteen hundred eighty-one, except with respect to property which is a qualified mass commuting vehicle described in subparagraph (D) of paragraph eight of subsection (f) of section one hundred sixty-eight of the internal revenue code (relating to qualified mass commuting vehicles), any amount which the taxpayer claimed as a deduction in computing its federal adjusted gross income solely as a result of an election made pursuant to the provisions of such paragraph eight as it was in effect for agreements entered into prior to January first, nineteen hundred eighty-four;
+
+   (24) For taxable years beginning after December thirty-first, nineteen hundred eighty-one, except with respect to property which is a qualified mass commuting vehicle described in subparagraph (D) of paragraph eight of subsection (f) of section one hundred sixty-eight of the internal revenue code (relating to qualified mass commuting vehicles), any amount which the taxpayer would have been required to include in the computation of its federal adjusted gross income had it not made the election permitted pursuant to such paragraph eight as it was in effect for agreements entered into prior to January first, nineteen hundred eighty-four;
+
+   (25) In the case of property placed in service in taxable years beginning before nineteen hundred ninety-four, for taxable years beginning after December thirty-first, nineteen hundred eighty-one, except with respect to property subject to the provisions of section two hundred eighty-F of the internal revenue code and property subject to the provisions of section one hundred sixty-eight of the internal revenue code which is placed in service in this state in taxable years beginning after December thirty-first, nineteen hundred eighty-four, the amount allowable as a deduction determined under section one hundred sixty-eight of the internal revenue code.
+
+   (26)* The amount of member or employee contributions to a retirement system or pension fund picked up or paid by the employer pursuant to subdivision f of section five hundred seventeen or subdivision d of section six hundred thirteen of the retirement and social security law or section 13-225.1, 13-327.1, 13-125.1, 13-125.2 or 13-521.1 of title thirteen of the code or subdivision nineteen of section twenty-five hundred seventy-five of the education law.
+
+* Editor's note: see 1988 N.Y. Laws chs. 782 and 783 for provisions regarding the expiration of certain amendments to this division.
+
+   (26-a) The amount of member or employee contributions to a retirement system or pension fund picked up or paid by the employer for members of the Manhattan and Bronx surface transportation authority pension plan and treated as employer contributions in determining income tax treatment under section 414(h) of the Internal Revenue Code.
+
+   (27) Upon the disposition of property to which paragraph twenty-six of subdivision (c) of this section applies, the amount, if any, by which the aggregate of the modifications described in such paragraph twenty-six attributable to such property exceeds the aggregate of the modifications described in paragraph twenty-five of this subdivision attributable to such property.
+
+   (28) [Repealed.]
+
+   (29) When gain from the sale or other disposition of property is included in federal gross income, the amount of reduction in the basis of such property attributable to credit for solar and wind energy systems pursuant to paragraph nine of subsection (g) of section six hundred six of the tax law; but for taxable years beginning before nineteen hundred eighty-seven, if such gain affects the determination of a net capital gain for federal income tax purposes, forty percent of such amount.
+
+   (30) [Repealed.]
+
+   (31)*   The amount deducted or deferred from an employee's salary under a flexible benefits program established pursuant to section twenty-three of the general municipal law or section one thousand two hundred ten-a of the public authorities law.
+
+* Editor's note: see 1988 N.Y. Laws ch. 782 for provisions regarding the expiration of this division.
+
+   (32) The amount by which an employee's salary is reduced pursuant to the provisions of subdivision b of section 12-126.1 and subdivision b of section 12-126.2 of the code.
+
+   (33) Real property taxes paid on qualified agricultural property and deducted in determining federal adjusted gross income, to the extent of the amount of the agricultural property tax credit allowed under subsection (n) or (i) of section six hundred six of the tax law.
+
+   (34) The amount of any deduction allowed pursuant to section one hundred ninety-nine of the internal revenue code.
+
+   (35) The amount of any federal deduction for taxes imposed under article twenty-three of the tax law.
+
+   (36) in the case of a beneficiary of a trust that, in any tax year after its creation including its first tax year, was not subject to tax pursuant to subparagraph (D) of paragraph three of subsection (b) of section 11-1705 of this chapter (except for an incomplete gift non-grantor trust, as defined by paragraph thirty-seven of this subdivision), the amount described in the first sentence of section six hundred sixty-seven of the internal revenue code for the tax year to the extent not already included in federal gross income for the tax year, except that, in computing the amount to be added under this paragraph, such beneficiary shall disregard (i) subsection (c) of section six hundred sixty-five of the internal revenue code; (ii) the income earned by such trust in any tax year in which the trust was subject to tax under this article; and (iii) the income earned by such trust in a taxable year prior to when the beneficiary first became a resident of the city or in any taxable year starting before January first, two thousand fourteen. Except as otherwise provided in this paragraph, all of the provisions of the internal revenue code that are relevant to computing the amount described in the first sentence of subsection (a) of section six hundred sixty-seven of the internal revenue code shall apply to the provisions of this paragraph with the same force and effect as if the language of those internal revenue code provisions had been incorporated in full into this paragraph, except to the extent that any such provision is either inconsistent with or not relevant to this paragraph.
+
+   (37) In the case of a taxpayer who transferred property to an incomplete gift non-grantor trust, the income of the trust, less any deductions of such trust, to the extent such income and deductions of such trust would be taken into account in computing the taxpayer's federal taxable income if such trust in its entirety were treated as a grantor trust for federal tax purposes. For purposes of this paragraph, an "incomplete gift non-grantor trust" means a resident trust that meets the following conditions:
+
+      (i) the trust does not qualify as a grantor trust under section six hundred seventy-one through six hundred seventy-nine of the internal revenue code, and
+
+      (2) the grantor's transfer of assets to the trust is treated as an incomplete gift under section twenty five hundred eleven of the internal revenue code, and the regulations thereunder.
+
+   (38) The amount contributed to any or all of the following accounts within the charitable gifts trust fund set forth in section ninety-two-gg of the state finance law, to the extent the amount is claimed as an itemized deduction pursuant to section six hundred fifteen of the tax law: the health charitable account established by paragraph a of subdivision four of section ninety-two-gg of the state finance law, or the elementary and secondary education charitable account established by paragraph b of subdivision four of section ninety-two-gg of the state finance law.
+
+(c) Modifications reducing federal adjusted gross income. There shall be subtracted from federal adjusted gross income:
+
+   (1) Interest income on obligations of the United States and its possessions to the extent includible in gross income for federal income tax purposes; such interest income shall include the amount received as dividends from a regulated investment company, as defined in section eight hundred fifty-one of the internal revenue code, which has been designated as the amount of such interest income in a written notice to shareholders not later than sixty days following the close of its taxable year; provided that, at the close of each quarter of the taxable year of such regulated investment company, at least fifty percent of the value of its total assets, as defined in subsection (c) of section eight hundred fifty-one of the internal revenue code, consists of obligations of the United States and its possessions. The aggregate amount so designated by the regulated investment company for its taxable year shall not exceed the amount determined by multiplying the total distributions paid by such regulated investment company to its shareholders with respect to that taxable year (attributable to income earned in that year), including any such distributions paid after the close of the taxable year, as described in section eight hundred fifty-five of the internal revenue code, by the ratio that the interest income received in that taxable year on obligations of the United States and its possessions, after reduction for the deductions and expenses directly or indirectly attributable thereto, bears to the investment company taxable income of such regulated investment company for such taxable year, determined without regard to subparagraph (D) of paragraph two of subsection (b) of section eight hundred fifty-two of the internal revenue code;
+
+   (2) Interest or dividend income on obligations or securities of any authority, commission or instrumentality of the United States to the extent includible in gross income for federal income tax purposes but exempt from state income taxes under the laws of the United States;
+
+   (3) (i) Pensions to officers and employees of this state, its subdivisions and agencies, to the extent includible in gross income for federal income tax purposes;
+
+      (ii)*   Pensions to officers and employees of the United States of America, any territory or possession or political subdivision of such territory or possession, the District of Columbia, or any agency or instrumentality of any one of the foregoing, to the extent includible in gross income for federal income tax purposes;
+
+* Editor's note: see underlying legislation for provisions regarding the conditional expiration of this division.
+
+   (3-a) Pensions and annuities received by an individual who has attained the age of fifty-nine and one-half, not otherwise excluded pursuant to paragraph three of this subdivision, to the extent includible in gross income for federal income tax purposes, but not in excess of twenty thousand dollars, which are periodic payments attributable to personal services performed by such individual prior to his or her retirement from employment, which arise: (i) from an employer-employee relationship or (ii) from contributions to a retirement plan which are deductible for federal income tax purposes. However, the term "pensions and annuities" shall also include distributions received by an individual who has attained the age of fifty-nine and one-half from an individual retirement account or an individual retirement annuity, as defined in section four hundred eight of the internal revenue code, and distributions received by an individual who has attained the age of fifty-nine and one-half from self-employed individual and owner-employee retirement plans which qualify under section four hundred one of the internal revenue code, whether or not the payments are periodic in nature. Nevertheless, the term "pensions and annuities" shall not include any lump sum distribution, as defined in subparagraph (A) of paragraph four of subsection (e) of section four hundred two of the internal revenue code and taxed under section six hundred three of the tax law. Where a husband and wife file a joint city personal income tax return, the modification provided for in this paragraph shall be computed as if they were filing separate city personal income tax returns. Where a payment would otherwise come within the meaning of the term "pensions and annuities" as set forth in this paragraph except that such individual is deceased, such payment shall, nevertheless, be treated as a pension or annuity for purposes of this paragraph if such payment is received by such individual's beneficiary.
+
+   (3-b) (i) Disability income included in federal gross income, to the extent that such disability income would have been excluded from federal gross income pursuant to the provisions of subsection (d) of section one hundred five of the internal revenue code of nineteen hundred fifty-four had such provisions continued in effect for taxable years commencing after December thirty-first, nineteen hundred eighty-three as they were in effect immediately prior to the repeal of such subsection. Notwithstanding the foregoing, the sum of disability income excluded pursuant to this paragraph, and pension and annuity income excluded pursuant to paragraph three-a of this subdivision, shall not exceed twenty thousand dollars.
+
+      (ii) Notwithstanding subdivision (f) of this section, if a husband and wife determine their federal income tax on a joint return but are required to determine their city income taxes separately, the amounts of exclusion allowed under subparagraph (i) of this paragraph shall be determined in the same joint manner as such amounts would have been determined under the provisions of paragraph five of subsection (d) of section one hundred five of the internal revenue code as such provisions were in effect immediately prior to the repeal of such subsection, but shall be attributed for city income tax purposes to the spouse who would have been required to report any such amount as income if the spouses had determined their federal income taxes separately.
+
+      (iii) Where a husband and wife file a joint city income tax return, the twenty thousand dollar limitation provided in subparagraph (i) of this paragraph shall be applied as if they were filing separate city income tax returns.
+
+   (3-c) Social security benefits to the extent includible in gross income for federal income tax purposes pursuant to section eighty-six of the internal revenue code.
+
+   (4) The portion of any gain, from the sale or other disposition of property having a higher adjusted basis for New York state income tax purposes than for federal income tax purposes on the last day of the last taxable year for which article sixteen of the tax law imposes tax, that does not exceed such difference in basis.
+
+   (5) The amount necessary to prevent the taxation under this chapter of any annuity or other amount of income or gain which was properly included in income or gain and was taxable under article sixteen of the tax law to the taxpayer, or to a decedent by reason of whose death the taxpayer acquired the right to receive the income or gain, or to a trust or estate from which the taxpayer received the income or gain;
+
+   (6) Interest or dividend income on obligations or securities to the extent exempt from income tax under the laws of this state authorizing the issuance of such obligations on securities but includible in gross income for federal income tax purposes; and
+
+   (7) The amount of any refund or credit for overpayment of income taxes imposed by this city, any other taxing jurisdiction, or any taxes imposed by article twenty-three of the tax law to the extent properly included in gross income for federal income tax purposes.
+
+   (8) Compensation received for active service in the armed forces of the United States on or after October first, nineteen hundred sixty-one, and prior to September first, nineteen hundred sixty-two; provided, however, that the amount of such compensation to be deducted shall not exceed one hundred dollars for each month of the taxable year, subsequent to September, nineteen hundred sixty-one, during any part of which month the taxpayer was engaged in such service. For the purposes of this paragraph, the words "active service in the armed forces of the United States" shall mean active duty (other than for training) in the army, navy (including the marine corps), air force or coast guard of the United States as defined in Title 10 of the United States Code.
+
+   (8-a) Compensation and bonuses received for active service in the armed forces of the United States while a prisoner of war or missing in action during the hostilities in Vietnam, to the extent includible in gross income for federal income tax purposes.
+
+   (9) Interest on indebtedness incurred or continued to purchase or carry obligations or securities the interest on which is subject to tax under this chapter but exempt from federal income tax, to the extent that such interest on indebtedness is not deductible in determining federal adjusted gross income and is attributable to a trade or business carried on by the taxpayer.
+
+   (10) Ordinary and necessary expenses paid or incurred during the taxable year for: (i) the production or collection of income which is subject to tax under this chapter but exempt from federal income tax, or (ii) the management, conservation or maintenance of property held for the production of such income, and the amortizable bond premium for the taxable year on any bond the interest on which is subject to tax under this chapter but exempt from federal income tax, to the extent that such expenses and premiums are not deductible in determining federal adjusted gross income and are attributable to a trade or business carried on by the taxpayer.
+
+   (11) In the case of a taxpayer who has exercised the election permitted by subdivision (g) or (h) of this section, the amount or amounts required by said subdivisions to be subtracted from federal adjusted gross income.
+
+   (12) The amount necessary to prevent the taxation of amounts properly included in New York adjusted gross income in prior taxable years in accordance with paragraph seven of subdivision (b) of this section.
+
+   (13) The amount required to be subtracted from federal adjusted gross income pursuant to subdivision (i) of this section.
+
+   (14) The amount that may be subtracted from federal adjusted gross income pursuant to subdivision (j) of this section.
+
+   (15) That portion of wages or salaries paid or incurred for the taxable year for which a deduction is not allowed pursuant to the provisions of section two hundred eighty-C of the internal revenue code.
+
+   (16) [Repealed.]
+
+   (17) [Repealed.]
+
+   (18) [Repealed.]
+
+   (19) The amount which may be subtracted from federal adjusted gross income pursuant to subdivision (r) of this section.
+
+   (20) The amounts which may be subtracted from federal adjusted gross income pursuant to subdivision (o) of this section.
+
+   (21) In relation to the disposition of stock or indebtedness of a corporation which elected under subchapter s of chapter one of the internal revenue code for any taxable year of such corporation beginning, in the case of a corporation taxable under article nine-A of the tax law, after December thirty-first, nineteen hundred eighty, and in the case of a corporation taxable under article thirty-two of the tax law, after December thirty-first, nineteen hundred ninety-six, the amounts required to be subtracted from federal adjusted gross income pursuant to subdivision (n) of this section.
+
+   (22) In the case of a shareholder of an S corporation:
+
+      (A) where the election provided for in subsection (a) of section six hundred sixty of the tax law has not been made with respect to such corporation, any item of income of the corporation included in federal gross income pursuant to section thirteen hundred sixty-six of the internal revenue code, and
+
+      (B) in the case of a New York S termination year, subparagraph (A) of this paragraph shall apply to the amounts of income determined under subdivision (s) of this section.
+
+   (23) The amounts which may be subtracted from federal adjusted gross income pursuant to subdivision (p) of this section.
+
+   (24) For taxable years beginning after December thirty-first, nineteen hundred eighty-one, except with respect to property which is a qualified mass commuting vehicle described in subparagraph (D) of paragraph eight of subsection (f) of section one hundred sixty-eight of the internal revenue code (relating to qualified mass commuting vehicles), any amount which is included in the taxpayer's federal adjusted gross income solely as a result of an election made pursuant to the provisions of such paragraph eight as it was in effect for agreements entered into prior to January first, nineteen hundred eighty-four;
+
+   (25) For taxable years beginning after December thirty-first, nineteen hundred eighty-one, except with respect to property which is a qualified mass commuting vehicle described in subparagraph (D) of paragraph eight of subsection (f) of section one hundred sixty-eight of the internal revenue code (relating to qualified mass commuting vehicles), any amount which the taxpayer could have excluded from federal adjusted gross income had it not made the election provided for in such paragraph eight as it was in effect for agreements entered into prior to January first, nineteen hundred eighty-four;
+
+   (26) In the case of property placed in service in taxable years beginning before nineteen hundred ninety-four, for taxable years beginning after December thirty-first, nineteen hundred eighty-one, except with respect to property subject to the provisions of section two hundred eighty-F of the internal revenue code and property subject to the provisions of section one hundred sixty-eight of the internal revenue code which is placed in service in this state in taxable years beginning after December thirty-first, nineteen hundred eighty-four, an amount with respect to property which is subject to the provisions of section one hundred sixty-eight of the internal revenue code equal to the amount allowable as the depreciation deduction under section one hundred sixty-seven of the internal revenue code as such section would have applied to property placed in service on December thirty-first, nineteen hundred eighty.
+
+   (27) [Reserved.]
+
+   (28) Upon the disposition of property to which paragraph twenty-six of this subdivision applies, the amount, if any, by which the aggregate of the modifications described in paragraph twenty-five of subdivision (b) of this section attributable to such property exceeds the aggregate of the modifications described in paragraph twenty-six of this subdivision attributable to such property.
+
+   (29) Deduction for two-earner married couples.
+
+      (A) For the taxable year beginning in nineteen hundred eighty-seven, in the case of a husband and wife who each have qualified earned income and who have filed a joint return under subdivision (b) of section 11-1751 for the taxable year, an amount equal to ten percent of the lesser of:
+
+         (i) thirty thousand dollars or
+
+         (ii) the qualified earned income of the spouse with the lower qualified earned income for such taxable year.
+
+      (B) For purposes of this paragraph, eligibility for the deduction provided for herein and the term qualified earned income shall be determined in the manner such eligibility and such qualified earned income would have been determined pursuant to the provisions of section two hundred twenty-one of the internal revenue code of nineteen hundred fifty-four had such provisions continued in effect for taxable years commencing after December thirty-first, nineteen hundred eighty-six as they were in effect immediately prior to the repeal of such section. Provided, however, the determination of such qualified earned income shall be made with regard only to the items therein included in city adjusted gross income, with such adjusted gross income determined without regard to this paragraph, and only with regard to the deductions and exclusions which are of the type properly allowable to or chargeable against such qualified earned income in such taxable year.
+
+   (30) The amount received by any person as an accelerated payment or payments of part or all of the death benefit or special surrender value under a life insurance policy as a result of any of the diagnoses specified in subparagraph (A) or (B) of paragraph one of subsection (a) of section one thousand one hundred thirteen of the insurance law, and the amount received by any person as a viatical settlement pursuant to the provisions of article seventy-eight of the insurance law, to the extent includible in gross income for federal income tax purposes.
+
+   (31) [Repealed.]
+
+   (32) The portion of the fees paid during the taxable year by a taxpayer who is a resident of a continuing care retirement community, issued a certificate of authority pursuant to article forty-six of the public health law, attributable to the cost of providing long term care benefits pursuant to a continuing care contract. The portion of the fees so attributable shall be determined in accordance with regulations promulgated by the superintendent of insurance. The deduction may not exceed the limitation that would be applicable to the taxpayer for the taxable year, with respect to eligible long term care premiums, determined under paragraph (10) of subsection (d) of section 213 of the internal revenue code.
+
+   (33) Distributions, to the extent includible in adjusted gross income for federal income tax purposes, made to the taxpayer because of his or her status as a victim of Nazi persecution, as defined in P.L. 103-286, or as a spouse or a descendant in need of such victim.
+
+   (34) Items of income, to the extent includible in gross income for federal income tax purposes, attributable to, derived from or in any way related to assets stolen from, hidden from or otherwise lost to a victim of Nazi persecution, as defined in P.L. 103-286, immediately prior to, during and immediately after World War II, including, but not limited to interest on the proceeds receivable as insurance under policies issued to a victim of Nazi persecution, as defined in P.L. 103-286, by European insurance companies immediately prior to and during World War II. Provided, however, this subtraction from federal adjusted income does not apply to assets acquired with such assets or with the proceeds from the sale of such assets. Provided, further, this paragraph is only applicable to a taxpayer who was the first recipient of such assets after their recovery and who is a victim of Nazi persecution, as defined in P.L. 103-286, or a spouse or a descendant of such victim.
+
+   (35)*   as provided in section thirty-eight of the tax law, any income or gain, to the extent it is included in federal adjusted gross income of an individual who is the sole proprietor of a qualified entity or a member of a limited liability company, a partner in a partnership or a shareholder in a New York subchapter S corporation that is a qualified entity as defined in section sixteen-v of the New York state urban development corporation act attributable to the operations of such qualified entity at its location in or as part of a New York state innovation hot spot, as defined in paragraph (a) of subdivision one of section sixteen-v of the New York state urban development corporation act.
+
+* Editor's note: there are two divisions designated (c)(35) in this section.
+
+   (35)*   In the case of a taxpayer who is a small business who has business income and/or farm income as defined in the laws of the United States, an amount equal to three percent of the net items of income, gain, loss and deduction attributable to such business or farm entering into federal adjusted gross income, but not less than zero, for taxable years beginning after two thousand thirteen, an amount equal to three and three-quarters percent of the net items of income, gain, loss and deduction attributable to such business or farm entering into federal adjusted gross income, but not less than zero, for taxable years beginning after two thousand fourteen, and an amount equal to five percent of the net items of income, gain, loss and deduction attributable to such business or farm entering into federal adjusted gross income, but not less than zero, for taxable years beginning after two thousand fifteen. For the purposes of this paragraph, the term small business shall mean a sole proprietor or a farm business who employs one or more persons during the taxable year and who has net business income or net farm income of less than two hundred fifty thousand dollars.
+
+* Editor's note: there are two divisions designated (c)(35) in this section.
+
+   (36) Any wages received by an individual as an employee of a business located within a tax-free NY area during the first five years of such business's ten year taxable period specified in subdivision (a) of section thirty-nine of the tax law to the extent included in federal adjusted gross income and allowed under section thirty-nine of the tax law. During the second five years of such business's ten year taxable period, the first two hundred thousand dollars of such wages in the case of a taxpayer filing as a single individual, the first two hundred fifty thousand dollars of such wages in the case of a taxpayer filing as a head of household, and three hundred thousand dollars of such wages in the case of a taxpayer filing a joint return, to the extent included in federal adjusted gross income and allowed under section thirty-nine of the tax law.
+
+   (37) The amount of any award paid to a volunteer firefighter or volunteer ambulance worker from a length of service defined contribution plan or defined benefit plan as provided for in articles eleven-A, eleven-AA, eleven-AAA and eleven-AAAA of the general municipal law, to the extent that such award is includable in gross income for federal income tax purposes; provided, however, that such award is not distributed in the form of a lump sum distribution, as defined in subparagraph (D) of paragraph four of subsection (e) of section four hundred two of the internal revenue code and taxed under section six hundred three of the tax law; and provided, further, that such award is not distributed to a taxpayer who has not attained the age of fifty-nine and one-half years.
+
+(d) Modification for city fiduciary adjustment. There shall be added to or subtracted from federal adjusted gross income (as the case may be) the taxpayer's share, as beneficiary of an estate or trust, of the city fiduciary adjustment determined under section 11-1719.
+
+(e) Modifications of partners and shareholders of S corporations. 
+
+   (1) Partners and shareholders of S corporations which are not New York C corporations. The amounts of modifications required to be made under this section by a partner or by a shareholder of an S corporation (other than an S corporation which is a New York C corporation), which relate to partnership or S corporation items of income, gain, loss or deduction shall be determined under section 11-1717 and, in the case of a partner of a partnership doing an insurance business as members of the New York insurance exchange described in section six thousand two hundred one of the insurance law, under section 11-1717.1 of this chapter.
+
+   (2) Shareholders of S corporations which are New York C corporations. In the case of a shareholder of an S corporation which is a New York C corporation, the modifications under this section which relate to the corporation's items of income, loss and deduction shall not apply, except for the modifications provided under paragraph nineteen of subdivision (b) and paragraph twenty-two of subdivision (c) of this section.
+
+   (3) New York S termination year. In the case of a New York S termination year, the amounts of the modifications required under this section which relate to the S corporation's items of income, loss, deduction and reductions for taxes (as described in paragraphs two and three of subsection (f) of section thirteen hundred sixty-six of the internal revenue code) shall be adjusted in the same manner that the S corporation's items are adjusted under subdivision (s) of this section.
+
+(f) Husband and wife. If husband and wife determine their federal income tax on a joint return but are required to determine their city income taxes separately, they shall determine their city adjusted gross incomes separately as if their federal adjusted gross incomes had been determined separately.
+
+(g) Optional modifications. Subject to the conditions provided in paragraphs three and four of this subdivision, at the election of the taxpayer there shall also be subtracted from federal adjusted gross income either or both of the items set forth in paragraphs one and two of this subdivision, except that only one of such items shall be subtracted with respect to any one item of property, and except that a subtraction of the item set forth in such paragraph two may not be taken with respect to taxable years commencing on or after January first, nineteen hundred eighty-nine.
+
+   (1) Depreciation with respect to any property such as described in paragraph three or four of this subdivision, and subject to the conditions provided therein, not exceeding twice the depreciation allowed with respect to the same property for federal income tax purposes. Such modification shall be allowed only upon condition that any depreciation or amortization allowed with respect to the same property in determining federal adjusted gross income shall be added to federal adjusted gross income pursuant to paragraph six of subdivision (b) of this section. The total of all deductions allowed pursuant to this paragraph in any taxable year or years with respect to any property described in paragraph three of this subdivision shall not exceed its cost or other basis and, with respect to property described in paragraph four of this subdivision, which is used in a business carried on both within and without the state shall not exceed its cost or other basis multiplied by a percentage of the excess of the taxpayer's business income over its business deductions allocated to this state for the first year such depreciation is deducted. Such percentage shall be determined by apportionment and allocation under regulations of the tax commission.
+
+   (2) Expenditures paid or incurred during the taxable year for the construction, reconstruction, erection or acquisition of any property such as described in paragraph three or four of this subdivision, and subject to the conditions provided therein, which is used or to be used for purposes of research and development in the experimental or laboratory sense. Such purposes shall not be deemed to include the ordinary testing or inspection of materials or products for quality control, efficiency surveys, management studies, consumer surveys, advertising, promotions or research in connection with literary, historical or similar projects. Such modification shall be allowed only on condition that, with respect to property described in paragraph four of this subdivision, which is used in a business carried on both within and without the state the deduction shall not exceed the expenditures multiplied by a percentage of the excess of the taxpayer's business income over its business deductions allocated to this state for the first year such expenditures are deducted. Such percentage shall be determined by apportionment and allocation under regulations of the tax commission, and for the taxable year and all succeeding taxable years, any deductions allowed for federal income tax purposes on account of such expenditures or on account of depreciation of the same property, except to the extent that its basis may be attributable to factors other than such expenditures, shall be added to federal adjusted gross income pursuant to paragraph six of subdivision (b) of this section, or in case a modification is allowable pursuant to this paragraph for only a part of such expenditures, on condition that a proportionate part of any such deductions allowed for federal income tax purposes be added to federal adjusted gross income. With respect to property which is used or to be used for research and development only in part, or during only part of its useful life, the modification allowable pursuant to this paragraph shall be limited to a proportionate part of the expenditures relating thereto. If a modification shall have been allowed pursuant to this paragraph for all or part of such expenditures with respect to any property, and such property is used for purposes other than research and development to a greater extent than originally reported, the taxpayer shall report such use in his or her return for the first taxable year during which it occurs, and the tax commission may recompute the tax for the year or years for which such deduction was allowed, and may assess any additional tax resulting from such recomputation within the time fixed by subdivision (c) of section 11-1783.
+
+   (3) For purposes of this paragraph, such modifications shall be allowed only with respect to tangible property which is depreciable pursuant to section one hundred sixty-seven of the internal revenue code, having a situs in this state and used in the taxpayer's trade or business: (A) constructed, reconstructed or erected after December thirty-first, nineteen hundred sixty-three, pursuant to a contract which was, on or before December thirty-first, nineteen hundred sixty-seven, and at all times thereafter, binding on the taxpayer or, property, the physical construction, reconstruction or erection of which began on or before December thirty-first, nineteen hundred sixty-seven or which began after such date pursuant to an order placed on or before December thirty-first, nineteen hundred sixty-seven, and then only with respect to that portion of the basis thereof or the expenditures relating thereto which is properly attributable to such construction, reconstruction or erection after December thirty-first, nineteen hundred sixty-three, or (B) acquired after December thirty-first, nineteen hundred sixty-three, pursuant to a contract which was, on or before December thirty-first, nineteen hundred sixty-seven, and at all times thereafter, binding on the taxpayer or pursuant to an order placed on or before December thirty-first, nineteen hundred sixty-seven, by purchase as defined in section one hundred seventy-nine (d) of the internal revenue code, if the original use of such property commenced with the taxpayer, commenced in this state and commenced after December thirty-first, nineteen hundred sixty-three, or (C) acquired, constructed, reconstructed, or erected subsequent to December thirty-first, nineteen hundred sixty-seven, if such acquisition, construction, reconstruction or erection is pursuant to a plan of the taxpayer which was in existence December thirty-first, nineteen hundred sixty-seven and not thereafter substantially modified, and such acquisition, construction, reconstruction or erection would qualify under the rules in paragraph four, five or six of subdivision (h) of section forty-eight of the internal revenue code provided all references in such paragraphs four, five and six to the dates October nine, nineteen hundred sixty-six, and October ten, nineteen hundred sixty-six, shall be read as December thirty-first, nineteen hundred sixty-seven. A taxpayer shall be allowed a deduction under clause (A), (B) or (C) of this paragraph only if the tangible property shall be delivered or the construction, reconstruction or erection shall be completed on or before December thirty-first, nineteen hundred sixty-nine, except in the case of tangible property which is acquired, constructed, reconstructed or erected pursuant to a contract which was, on or before December thirty-first, nineteen hundred sixty-seven, and at all times thereafter, binding on the taxpayer. However, for any taxable year beginning on or after January first, nineteen hundred sixty-eight, a taxpayer shall not be allowed a modification under paragraph one of this subdivision with respect to tangible personal property leased to any other person or corporation. For purposes of the preceding sentence, any contract or agreement to lease or rent or for a license to use such property shall be considered a lease. With respect to property which a taxpayer uses for purposes other than leasing for part of a taxable year and leases for a part of a taxable year, a modification under paragraph one of this subdivision shall be allowed in proportion to the part of the year such property is used by the taxpayer.
+
+   (4) For purposes of this paragraph, such modifications shall be allowed only with respect to tangible property which is depreciable pursuant to section one hundred sixty-seven of the internal revenue code, having a situs in this state and used in the taxpayer's trade or business. The modifications provided for in paragraph one of this subdivision shall be allowed only with respect to tangible property which is: (A) constructed, reconstructed or erected after December thirty-first, nineteen hundred sixty-seven, pursuant to a contract which was, on or before December thirty-first, nineteen hundred sixty-eight, and at all times thereafter, binding on the taxpayer or, property, the physical construction, reconstruction or erection of which began on or before December thirty-first, nineteen hundred sixty-eight or which began after such date pursuant to an order placed on or before December thirty-first, nineteen hundred sixty-eight, and then only with respect to that portion of the basis thereof or the expenditures relating thereto which is properly attributable to such construction, reconstruction or erection after December thirty-first, nineteen hundred sixty-three, or (B) acquired after December thirty-first, nineteen hundred sixty-seven, pursuant to a contract which was, on or before December thirty-first, nineteen hundred sixty-eight, and at all times thereafter, binding on the taxpayer or pursuant to an order placed on or before December thirty-first, nineteen hundred sixty-eight, by purchase as defined in section one hundred seventy-nine (d) of the internal revenue code, if the original use of such property commenced with the taxpayer, commenced in this state and commenced after December thirty-first, nineteen hundred sixty-seven, or (C) acquired, constructed, reconstructed, or erected subsequent to December thirty-first, nineteen hundred sixty-eight, if such acquisition, construction, reconstruction or erection is pursuant to a plan of the taxpayer which was in existence December thirty-first, nineteen hundred sixty-eight, and not thereafter substantially modified, and such acquisition, construction, reconstruction or erection would qualify under the rules in paragraph four, five or six of subdivision (h) of section forty-eight of the internal revenue code provided all references in such paragraphs four, five and six to the dates October nine, nineteen hundred sixty-six, and October ten, nineteen hundred sixty-six, shall be read as December thirty-first, nineteen hundred sixty-eight. A taxpayer shall be allowed a deduction under clause (A), (B) or (C) of the preceding sentence of this paragraph only if the tangible property shall be delivered or the construction, reconstruction or erection shall be completed on or before December thirty-first, nineteen hundred seventy, except in the case of tangible property which is acquired, constructed, reconstructed or erected pursuant to a contract which was, on or before December thirty-first, nineteen hundred sixty-eight, and at all times thereafter binding on the taxpayer. The modification provided for in paragraph two of this subdivision shall be allowed only with respect to tangible property : (A) the construction, reconstruction or erection of which is completed after December thirty-first, nineteen hundred sixty-seven, and then only with respect to that portion of the basis thereof or the expenditures relating thereto which is properly attributable to such construction, reconstruction or erection after December thirty-first, nineteen hundred sixty-three, or (B) acquired after December thirty-first, nineteen hundred sixty-seven, by purchase as defined in section one hundred seventy-nine (d) of the internal revenue code, if the original use of such property commenced with the taxpayer, commenced in this state and commenced after December thirty-first, nineteen hundred sixty-three. Provided, however, a modification under paragraph one of this subdivision shall be allowed with respect to property described in this paragrpah only on condition that such property shall be principally used by the taxpayer in the production of goods by manufacturing; processing; assemblying; refining; mining; extracting; farming; agriculture; horticulture; floriculture; viticulture; or commerical fishing. For purposes of the preceding sentence, manufacturing shall mean the process of working raw materials into wares suitable for use or which gives new shapes, new qualities or new combinations to matter which already has gone through some artificial process by the use of machinery, tools, appliances and other similar equipment. Property used in the production of goods shall include machinery, equipment or other tangible property which is principally used in the repair and service of other machinery, equipment or other tangible property used principally in the production of goods and shall include all facilities used in the manufacturing operation, including storage of material to be used in manufacturing and of the products that are manufactured. At the option of the taxpayer, air and water pollution control facilities which qualify for elective deductions under subdivision (h) of this section may be treated, for purposes of this paragraph, as tangible property principally used in the production of goods by manufacturing; processing; assembling; refining; mining; extracting; farming; agriculture; horticulture; floriculture; viticulture; or commercial fishing, in which event, a deduction shall not be allowed under such subdivision (h). However, for any taxable year beginning on or after January first, nineteen hundred sixty-eight, a taxpayer shall not be allowed a modification under paragraph one of this subdivision with respect to tangible personal property leased to any other person or corporation. For purposes of the preceding sentence, any contract or agreement to lease or rent or for a license to use such property shall be considered a lease. With respect to property which a taxpayer uses for purposes other than leasing for part of a taxable year and leases for a part of a taxable year, a modification under paragraph one of this subdivision shall be allowed in proportion to the part of the year such property is used by the taxpayer.
+
+   (5) If the modifications allowable for any taxable year pursuant to this subdivision exceed the taxpayer's city adjusted gross income, determined without the allowance of such modifications, the excess may be carried over to the following taxable year or years and may be subtracted from federal adjusted gross income for such year or years.
+
+   (6) In any taxable year when property is sold or otherwise disposed of, with respect to which a modification has been allowed pursuant to paragraph one or two of this subdivision, the basis of such property shall be adjusted to reflect the modifications so allowed, and if the basis as so adjusted is lower than the adjusted basis of the same property for federal income tax purposes, there shall be added to federal adjusted gross income the amount of the difference between such adjusted bases.
+
+(h) Optional modification for waste treatment facility expenditures. For taxable years commencing prior to January first, nineteen hundred eighty-nine, at the election of the taxpayer, there shall also be subtracted from federal adjusted gross income expenditures paid or incurred during the taxable year for the construction, reconstruction, erection or improvement of industrial waste treatment facilities and air pollution control facilities.
+
+   (1) (A) The term "industrial waste treatment facilities" shall mean facilities for the treatment, neutralization, or stabilization of industrial waste (as the term "industrial waste" is defined in section 17-0105 of the environmental conservation law) from a point immediately preceding the point of such treatment, neutralization or stabilization to the point of disposal, including the necessary pumping and transmitting facilities, but excluding such facilities installed for the primary purpose of salvaging materials which are usable in the manufacturing process or are marketable.
+
+      (B) The term "air pollution control facilities" shall mean facilities which remove, reduce, or render less noxious air contaminants emitted from an air contamination source (as the terms "air contaminant" and "air contamination source" are defined in section 19-0107 of the environmental conservation law) from a point immediately preceding the point of such removal, reduction or rendering to the point of discharge of air, meeting emission standards as established by the air pollution control board, but excluding such facilities installed for the primary purpose of salvaging materials which are usable in the manufacturing process or are marketable and excluding those facilities which rely for their efficacy on dilution, dispersion or assimilation of air contaminants in the ambient air after emission.
+
+   (2) Such modifications shall be allowed only:
+
+      (A) with respect to tangible property which is depreciable, pursuant to section one hundred sixty-seven of the internal revenue code, having a situs in this state and used in the taxpayer's trade or business, the construction, reconstruction, erection or improvement of which, in the case of industrial waste treatment facilities, is initiated on or after January first, nineteen hundred sixty-five, or which, in the case of air pollution control facilities, is initiated on or after January first, nineteen hundred sixty-six, and
+
+      (B) on condition that such facilities have been certified by the commissioner of environmental conservation or his or her designated representative, in the same manner as provided for in section 17-0707 or 19-0309 of the environmental conservation law, as applicable, as complying with the provisions of such environmental conservation law, the state sanitary code and regulations, permits or orders promulgated pursuant thereto, and
+
+      (C) on condition that for the taxable year and all succeeding taxable years, any deductions allowed for federal income tax purposes for such expenditures or for depreciation or amortization of the same property, except to the extent that its basis may be attributable to factors other than such expenditures, be added to federal adjusted gross income pursuant to paragraph five of subdivision (b) of this section, or in case a modification is allowable pursuant to this paragraph for only a part of such expenditures, on condition that a proportionate amount of any such deductions allowed for federal income tax purposes be added to federal adjusted gross income, and
+
+      (D) where the election provided for in subdivision (g) of this section has not been exercised in respect to the same property.
+
+   (3) (A) If expenditures in respect to an industrial waste treatment facility or an air pollution control facility have been allowed as a modification as provided herein and if within ten years from the end of the taxable year in which such modification was allowed such property or any part thereof is used for the primary purpose of salvaging materials which are usable in the manufacturing process or are marketable, the taxpayer shall report such change of use in its return for the first taxable year during which it occurs, and the tax commission may recompute the tax for the year or years for which such modification was allowed, and may assess any additional tax resulting from such recomputation within the time fixed by paragraph eight of subdivision (c) of section 11-1783.
+
+      (B) If a modification is allowed as herein provided for expenditures paid or incurred during any taxable year on the basis of a temporary certificate of compliance issued pursuant to the environmental conservation law, and if the taxpayer fails to obtain a permanent certificate of compliance upon completion of the facilities with respect to which such temporary certificate was issued, the taxpayer shall report such failure in its report for the taxable year during which such facilities are completed, and the tax commission may recompute the tax for the year or years for which such modification was allowed, and may assess any additional tax resulting from such recomputation within the time fixed by paragraph eight of subdivision (c) of section 11-1783.
+
+      (C) If a modification is allowed as herein provided for expenditures paid or incurred during any taxable year in respect to an air pollution control facility on the basis of a certificate of compliance issued pursuant to the environmental conservation law and the certificate is revoked pursuant to section 19-0309 of the environmental conservation law, the tax commission may recompute the tax for the year or years for which the facility is not or was not in compliance with the applicable provisions of the environmental conservation law, the state sanitary code or codes, rules, regulations, permits or orders issued pursuant thereto, and for which a modification was allowed, and may assess any additional tax resulting from such recomputation within the time fixed by paragraph eight of subdivision (c) of section 11-1783.
+
+   (4) In any taxable year when property is sold or otherwise disposed of, with respect to which a modification has been allowed pursuant to this paragraph, such modification shall be disregarded in computing gain or loss, and the gain or loss on the sale or other disposition of such property shall be the gain or loss entering into the computation of federal adjusted gross income for such taxable year.
+
+(i) In the case of mines, oil and gas wells and other natural deposits, any allowance for percentage depletion pursuant to section six hundred thirteen or section six hundred thirteen A of the internal revenue code shall be added to federal adjusted gross income. However, with respect to the property as to which such addition to federal adjusted gross income is required, an allowance for depletion shall be subtracted from federal adjusted gross income in the amount that would be deductible under section six hundred eleven of such code if the deduction for an allowance for depletion were computed without reference to such section six hundred thirteen or section six hundred thirteen A. With respect to the computation of depletion pursuant to this subdivision, the basis for such computation shall be the basis for state income tax purposes provided for in subsection (i) of section six hundred twelve of the tax law. The portion of any gain from the sale or other disposition of such property having a higher adjusted basis for city income tax purposes than for federal income tax purposes, that does not exceed such difference in basis, shall be subtracted from federal adjusted gross income.
+
+(j) Modification for nonpublic school tuition.
+
+   (1) General. An individual shall be entitled to subtract from his or her federal adjusted gross income an amount shown in the table set forth in this paragraph for his or her city adjusted gross income for the taxable year, computed without the benefit of this modification, multiplied by the number of his or her dependents, not exceeding three, attending a nonpublic school on a full-time basis for at least four months during the regular school year for the education of such dependent in grades one through twelve, provided such individual is allowed an exemption under section 11-1716 for such dependent. Provided, further, that the modification under this paragraph may be taken only if such individual has paid at least fifty dollars for each such dependent in tuition to such nonpublic school for such education of such dependent. No taxpayer shall be entitled to the modification provided for in this paragraph if he or she claims a tuition reimbursement payment pursuant to article twelve-A of the education law.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If city adjusted gross income is:
+      - The amount allowable for each dependent is:
+    * - Less than $9,000
+      - $1,000 
+    * -  9,000—10,999
+      -   850 
+    * - 11,000—12,999
+      -   700 
+    * - 13,000—14,999
+      -   550 
+    * - 15,000—16,999
+      -   400 
+    * - 17,000—18,999
+      -   250 
+    * - 19,000—20,999
+      -   150 
+    * - 21,000—22,999
+      -   125 
+    * - 23,000—24,999
+      -   100 
+    * - 25,000 and over
+      -   0 
+~
+
+ 
+
+   (2) Husband and wife. In determining the applicable city adjusted gross income of a husband and wife for purposes of the table set forth in paragraph one of this subdivision, the city adjusted gross income of a husband and wife shall be the aggregate of their city adjusted gross incomes for the taxable year, determined without the benefit of the modification provided for in this subdivision, and the number of dependents with respect to which this modification may be claimed shall be no more than three in the aggregate.
+
+   (3) Definitions.
+
+      (A) "Tuition," as used in this subdivision, shall mean the amount actually paid during the taxable year by the taxpayer for the enrollment of a dependent during the regular school year at a nonpublic school.
+
+      (B) "Nonpublic school," as used in this subdivision, shall mean any non-profit elementary or secondary school in the state of New York, other than a public school, which: (i) is providing instruction in accordance with article seventeen and section thirty-two hundred four of the education law, (ii) has not been found to be in violation of title VI of the civil rights act of nineteen hundred sixty-four, 78 Stat. 252, 42 U.S.C. § 2000(d) and (iii) which is entitled to a tax exemption under sections five hundred one (a) and five hundred one (c) (3) of the federal internal revenue code of nineteen hundred fifty-four, as amended. The commissioner of education shall furnish to the tax commission by February first of each year, a certified list of nonpublic schools which comply with clause (i) of this subparagraph for the preceding calendar year and shall provide such other assistance with respect to whether nonpublic schools come within clause (i) as the tax commission may require.
+
+      (C) "Regular school year," as used in this subdivision, shall mean the months of the taxable year exclusive of July and August.
+
+   (4) Additional information. Any claim for a modification under this subdivision shall be accompained by such information as the tax commission may require.
+
+(k) [Repealed.]
+
+(l) [Repealed.]
+
+(m) [Reserved.]
+
+(n) Where gain or loss is recognized for federal income tax purposes upon the disposition of stock or indebtedness of a corporation electing under subchapter s of chapter one of the internal revenue code:
+
+   (1) There shall be added to federal adjusted gross income the amount of increase in basis with respect to such stock or indebtedness pursuant to subsection (a) of section thirteen hundred seventy-six of the internal revenue code as such section was in effect for taxable years beginning before January first, nineteen hundred eighty-three and subparagraphs (A) and (B) of paragraph one of subsection (a) of section thirteen hundred sixty-seven of such code, for each taxable year of the corporation beginning, in the case of a corporation taxable under article nine-A of the tax law, after December thirty-first, nineteen hundred eighty, and in the case of a corporation taxable under article thirty-two of the tax law, after December thirty-first, nineteen hundred ninety-six, for which the election provided for in subsection (a) of section six hundred sixty of the tax law was not in effect, and
+
+   (2) There shall be subtracted from federal adjusted gross income:
+
+      (A) the amount of reduction in basis with respect to such stock or indebtedness pursuant to subsection (b) of section thirteen hundred seventy-six of the internal revenue code as such section was in effect for taxable years beginning before January first, nineteen hundred eighty-three and subparagraphs (B) and (C) of paragraph two of subsection (a) of section thirteen hundred sixty-seven of such code, for each taxable year of the corporation beginning, in the case of a corporation taxable under article nine-A of the tax law, after December thirty-first, nineteen hundred eighty, and in the case of a corporation taxable under article thirty-two of the tax law, after December thirty-first, nineteen hundred ninety-six, for which the election provided for in subsection (a) of section six hundred sixty of the tax law was not in effect and
+
+      (B) the amount of any modifications to federal gross income with respect to such stock pursuant to paragraph twenty-one of subdivision (b) of this section.
+
+(o) Modifications for new business investment gains and certain new business investments.
+
+   1. For purposes of this subdivision, the following definitions shall apply:
+
+      (A) "New business investment gain" means gain from the sale of a new business investment issued to the taxpayer before January first, nineteen hundred eighty-eight, if:
+
+         (i) such new business investment is, in the hands of the person selling the same (whether or not the taxpayer), a capital asset as defined in section twelve hundred twenty-one of the internal revenue code of nineteen hundred fifty-four, as amended, and
+
+         (ii) such new business investment was held by such person for the period specified in paragraph two of this subdivision.
+
+      (B) "New business" means a corporation or partnership organized or formed under the laws of any state which:
+
+         (i) adopts a plan on or after July first, nineteen hundred eighty-one and before January first, nineteen hundred eighty-eight, to conduct a new business within the meaning and intent of this section and to issue new business investments, as defined in this subdivision, and
+
+         (ii) is, at the date of adoption of such plan, subject to taxation (whether or not any amount is owing) under section one hundred eighty-three, one hundred eighty-four or one hundred eighty-six of article nine of the tax law, or under article nine-a of the tax law or article twenty-three of the tax law, or would have been subject to tax under article twenty-three of such law (as such article was in effect on January first, nineteen hundred eighty) if such article were still in effect, and the first taxable period for which such new business became subject to such taxation commenced on or after July first, nineteen hundred eighty-one and before January first, nineteen hundred eighty-eight, and such first taxable period includes the date of adoption of such plan; if not so subject to taxation, the new business must be subject to taxation under such sections or articles for the first time within one year from the date of adoption of such plan, and
+
+         (iii) is conducted (or will be conducted, as evidenced by such plan) whereby at least ninety percent of the assets (valued at original cost) are located and employed in this state and eighty percent of the employees (as ascertained within the meaning and intent of subparagraph three of paragraph (a) of subdivision three of section two hundred ten of the tax law and, in addition, in the case of a partnership, excluding partners) are principally employed in this state during each taxable period, or part thereof, as required by clause (iv) of this subparagraph, and
+
+         (iv) within ninety days after adoption of such plan, or, if a return is required, as part of such return, under such article nine, article nine-a or article twenty-three, whichever is sooner, shall file a new business certificate with the tax commission attesting to whether it meets, if subject to taxation under such articles, or intends to meet, if not so subject, all of the conditions stated in clauses (i), (ii) and (iii) of this subparagraph within the time set forth therein. Thereafter, during the first four taxable years of such new business, along with, and as part of, any return required under such articles, such new business shall make and file a new business certificate for the period covered by such return attesting to whether it has met the conditions specified in this subparagraph during the taxable period covered by such return. If no return is required under such articles, such certificate shall be filed annually on or before the fifteenth day of March which shall cover the twelve consecutive calendar month period ending on the last day of December immediately preceding such March fifteenth. If such new business fails to meet such conditions specified in this subparagraph, it shall, in addition, give notice of this fact, within the time prescribed by the tax commission, to the holders of its "new business investments." The tax commission shall prescribe the form and content of such new business certification and may require a new business to file such certificate for periods (even if no return is filed or required, but for this section) covering up to eight years from the date of adoption of such plan, as in its discretion, it deems the same necessary for the enforcement of this section, and
+
+         (v) Special rules:
+
+            (1) For any taxable period, in order to constitute a new business, a business enterprise must have derived more than sixty percent of its aggregate gross receipts from sources other than royalties, rents, dividends, interest, annuities and sales or exchanges of stock or securities.
+
+            (2)*   A new business does not include:
+
+               (i) any new business of which twenty-five percent or more of the number of shares of stock that entitle the holders thereof to vote for the election of directors or trustees is owned, directly or indirectly, by a taxpayer subject to tax under section one hundred eighty-three, one hundred eighty-four, one hundred eighty-five or one hundred eighty-six of article nine of the tax law, or under article nine-a, thirty-two or thirty-three of the tax law or
+
+               (ii) any new business substantially similar in operation and in ownership, directly or indirectly, to a business entity (or entities) taxable, or previously taxable, under such section, such article, article twenty-three of the tax law or which would have been subject to tax under such article twenty-three (as such article was in effect on January first, nineteen hundred eighty) or the income (or losses) of which is (or was) includible under article twenty-two of such tax law whereby the intent and purpose of this section would be evaded.
+
+* Editor's note: see note below.
+
+            (2)**   A new business does not include:
+
+               (i) any new business of which twenty-five percent or more of the number of shares of stock that entitle the holders thereof to vote for the election of directors or trustees is owned, directly or indirectly, by a taxpayer subject to tax under section one hundred eighty-three, one hundred eighty-four, former section one hundred eighty-five or former section one hundred eighty-six of article nine of the tax law, or under article nine-A, thirty-two or thirty-three of the tax law or
+
+               (ii) any new business substantially similar in operation and in ownership, directly or indirectly, to a business entity (or entities) taxable, or previously taxable, under such section, such article, article twenty-three of the tax law or which would have been subject to tax under such article twenty-three (as such article was in effect on January first, nineteen hundred eighty) or the income (or losses) of which is (or was) includible under article twenty-two of such tax law whereby the intent and purpose of this section would be evaded.
+
+** Editor's note: this second version of division (o)1.(B)(v)(2) applies to taxable years beginning on or after 1/1/2018; see L.L. 2014/59.
+
+      (C) "New business investment" means and includes the following investments issued before January first, nineteen hundred eighty-eight by a new business pursuant to a plan described in clause (i) of subparagraph (B) of this paragraph for money or other property (other than stock or securities) on or before the expiration of the third taxable year of such new business (excluding any short period immediately preceding such taxable year because the new business was not in existence for an entire taxable year) or forty-two months from the adoption of such plan, whichever is sooner: (i) original issuance capital stock as part of a new issue, (ii) other original issuance securities of a new issue of a like nature as stocks which are designed as a means of investment and issued for the purpose of financing corporate enterprises and providing for a distribution of rights in such enterprises, (iii) debt obligations such as bonds and debentures for a term of at least one year, whether secured or unsecured, and (iv) certificates and other instruments representing proprietary interests, whether limited or otherwise, in and assumption of general liabilities, whether limited or otherwise, of a partnership enterprise.
+
+   2. A taxpayer may subtract from his federal adjusted gross income a portion of an amount constituting a new business investment gain, as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If new business investment held for:
+      - The modification is equal to the following proportion of the gain includible in federal adjusted gross income:
+    * - At least four years, but less than five years
+      - twenty-five percent 
+    * - At least five years, but less than six years
+      - fifty percent 
+    * - At least six years
+      - one hundred percent 
+~
+
+
+
+ 
+
+   3. Where, within six months of the realization of a new business investment gain allowable as the basis of a modification under paragraph two of this subdivision, such modification is equal to less than one hundred percent of the portion of the gain includible in federal adjusted gross income and the taxpayer purchases a new business investment which is then held for a period of at least six months, the taxpayer may subtract from his or her federal adjusted gross income ten percent (but not an amount that will reduce the portion of such gain included in his or her New York income below zero) of the amount of such gain where the purchase price of the new business investment is equal to or greater than the proceeds of the sale giving rise to such gain. Where the purchase price of the new business investment is less than an amount equal to the proceeds of such sale, the modification allowable under this paragraph shall be equal to ten percent of an amount equal to the product of: (A) the amount of the gain and (B) a fraction the numerator of which is the purchase price of the new investment and the denominator of which is an amount equal to the proceeds of such sale. The modification allowable under this paragraph may be utilized, at the option of the taxpayer, with respect to the taxable year in which the new business investment gain is realized or the year containing the last day of the six-month retention period described in this paragraph.
+
+   4. The tax commission may prescribe such rules and regulations as may be necessary to carry out the purposes of this subdivision.
+
+(p) New business investment deferral. For taxable years beginning before January first, nineteen hundred eighty-eight, at the option of the taxpayer, there may be subtracted from federal adjusted gross income a reinvested amount of long-term capital gain realized in a taxable year from the sale of a capital asset, as such term is defined in section twelve hundred twenty-one of the internal revenue code, which is not a new business investment. A reinvested amount of long-term capital gain shall mean an amount which bears the same ratio to the long-term capital gain realized from the sale of a capital asset which was includible in New York adjusted gross income as that portion of the sale proceeds which is reinvested, within one year from date of sale, in a New York new business bears to the total sale proceeds. For the purposes of this subdivision, a New York new business is a business enterprise which:
+
+   (1) has been a taxpayer under article nine-A, twenty-two, thirty-two or thirty-three of the tax law for no more than three taxable years (including short taxable years),
+
+   (2) over fifty percent of the number of shares of stock that entitle the holders thereof to vote for the election of directors or trustees is not owned, directly or indirectly, by a taxpayer subject to tax under section one hundred eighty-three, one hundred eighty-four, one hundred eighty-five or one hundred eighty-six of article nine of the tax law, or under article nine-A, thirty-two or thirty-three of the tax law,
+
+   (3) is not substantially similar in operation or ownership, directly or indirectly, to a business entity (or entities) taxable, or previously taxable, under such sections, such articles, article twenty-three of the tax law or which would have been subject to tax under article twenty-three (as such article was in effect on January first, nineteen hundred eighty) or the income (or losses) of which is (or was) includible under article twenty-two of the tax law whereby the intent and purpose of this subdivision would be evaded,
+
+   (4) locates and employs at least ninety percent of its assets in the state.
+
+   (5) employs principally in the state eighty percent of its employees (as ascertained within the meaning and intent of subparagraph three of paragraph (a) of subdivision three of section two hundred ten of the tax law and, in addition, in the case of a partnership, excluding partners), and
+
+   (6) derives less than forty percent of its gross income from dividends, interest, royalties (other than mineral, oil, or gas royalties or copyright royalties), annuities and
+
+   (7) reports at least twenty-five hundred dollars in gross income in any taxable year. The reinvested amount must qualify as a capital asset as defined pursuant to section twelve hundred twenty-one of the internal revenue code and must be retained by the taxpayer for at least twelve months. The modification allowable under this subdivision shall be utilized with respect to the taxable year in which the twelve month retention period ends.
+
+(q) An amount deferred under subdivision (p) hereof shall be added to federal adjusted gross income when the reinvestment in the New York new business which qualified a taxpayer for such deferral is sold.
+
+(r) In the case of a sale or other disposition of property acquired from a decedent and valued by the executor of the estate of such decedent for the purposes of the tax under article twenty-six of the tax law (i) pursuant to paragraph two of subsection (b) of section nine hundred fifty-four of the tax law, or (ii) pursuant to section nine hundred fifty-four-a of the tax law, where such estate was insufficient to require the filing of a federal estate tax return, the amount necessary to properly reflect the gain or loss from such sale or other disposition which would have been realized under this chapter, had, in the case of clause (i) of this subdivision, a federal estate tax return been filed similarly valuing such property pursuant to section two thousand thirty-two of the internal revenue code, or in the case of clause (ii) of this subdivision, pursuant to section two thousand thirty-two-A of such code.
+
+(s) New York S termination year. 
+
+   (1) General. In the case of a New York S termination year, the amount of any item of S corporation income, loss and deduction included in the shareholder's federal adjusted gross income and any reductions for taxes (as described in paragraphs two and three of subsection (f) of section thirteen hundred sixty-six of the internal revenue code) shall be adjusted in accordance with the treatment provided in paragraph two or three of this subdivision.
+
+   (2) Pro rata allocation. Unless paragraph three of this subdivision applies, an equal portion of each S corporation item shall be assigned to each day of the S corporation's taxable year for federal income tax purposes. The portion of each such item thereby assigned to the S short year shall be treated as an item of a New York S corporation, and the portion of each such item thereby assigned to the C short year shall be treated as an item of an S corporation which is a New York C corporation.
+
+   (3) Normal tax accounting. The portion of each S corporation item assigned to the S short year and the C short year shall be determined using normal tax accounting rules if:
+
+      (A) there is a sale or exchange of fifty percent or more of the stock in such corporation during the New York S termination year or
+
+      (B) the corporation so elects, as provided in subparagraph (B) of paragraph two of subsection (s) of section six hundred twelve of the tax law.
+
+(t) Related members expense add back.
+
+   (1) Definitions. 
+
+      (A) Related member. "Related member" means a related person as defined in subparagraph (c) of paragraph three of subsection (b) of section four hundred sixty-five of the internal revenue code, except that "fifty percent" shall be substituted for "ten percent".
+
+      (B) Effective rate of tax. "Effective rate of tax" means, as to any city, the maximum statutory rate of tax imposed by the city on or measured by a related member's net income multiplied by the apportionment percentage, if any, applicable to the related member under the laws of said jurisdiction. For purposes of this definition, the effective rate of tax as to any city is zero where the related member's net income tax liability in said city is reported on a combined or consolidated return including both the taxpayer and the related member where the reported transactions between the taxpayer and the related member are eliminated or offset. Also, for purposes of this definition, when computing the effective rate of tax for a city in which a related member's net income is eliminated or offset by a credit or similar adjustment that is dependent upon the related member either maintaining or managing intangible property or collecting interest income in that city, the maximum statutory rate of tax imposed by said city shall be decreased to reflect the statutory rate of tax that applies to the related member as effectively reduced by such credit or similar adjustment.
+
+      (C) Royalty payments. Royalty payments are payments directly connected to the acquisition, use, maintenance or management, ownership, sale, exchange, or any other disposition of licenses, trademarks, copyrights, trade names, trade dress, service marks, mask works, trade secrets, patents and any other similar types of intangible assets as determined by the state commissioner of taxation and finance, and include amounts allowable as interest deductions under section one hundred sixty-three of the internal revenue code to the extent such amounts are directly or indirectly for, related to or in connection with the acquisition, use, maintenance or management, ownership, sale, exchange or disposition of such intangible assets.
+
+      (D) Valid business purpose. A valid business purpose is one or more business purposes, other than the avoidance or reduction of taxation, which alone or in combination constitute the primary motivation for some business activity or transaction, which activity or transaction changes in a meaningful way, apart from tax effects, the economic position of the taxpayer. The economic position of the taxpayer includes an increase in the market share of the taxpayer, or the entry by the taxpayer into new business markets.
+
+   (2) Royalty expense add backs. 
+
+      (A) For the purpose of computing city adjusted gross income, a taxpayer must add back royalty payments directly or indirectly paid, accrued, or incurred in connection with one or more direct or indirect transactions with one or more related members during the taxable year to the extent deductible in calculating federal taxable income.
+
+      (B) Exceptions. 
+
+         (i) The adjustment required in this subdivision shall not apply to the portion of the royalty payment that the taxpayer establishes, by clear and convincing evidence of the type and in the form specified by the commissioner of finance, meets all of the following requirements:
+
+            (I) the related member was subject to tax in this city or another city within the United States or a foreign nation or some combination thereof on a tax base that included the royalty payment paid, accrued or incurred by the taxpayer;
+
+            (II) the related member during the same taxable year directly or indirectly paid, accrued or incurred such portion to a person that is not a related member; and (III) the transaction giving rise to the royalty payment between the taxpayer and the related member was undertaken for a valid business purpose.
+
+         (ii) The adjustment required in this subdivision shall not apply if the taxpayer establishes, by clear and convincing evidence of the type and in the form specified by the commissioner of finance, that:
+
+            (I) the related member was subject to tax on or measured by its net income in this city or another city within the United States, or some combination thereof;
+
+            (II) the tax base for said tax included the royalty payment paid, accrued or incurred by the taxpayer; and
+
+            (III) the aggregate effective rate of tax applied to the related member in those jurisdictions is no less than eighty percent of the statutory rate of tax that applied to the taxpayer under section 11-1701 of this chapter for the taxable year.
+
+         (iii) The adjustment required in this subdivision shall not apply if the taxpayer establishes, by clear and convincing evidence of the type and in the form specified by the commissioner of finance, that:
+
+            (I) the royalty payment was paid, accrued or incurred to a related member organized under the laws of a country other than the United States;
+
+            (II) the related member's income from the transaction was subject to a comprehensive income tax treaty between such country and the United States;
+
+            (III) the related member was subject to tax in a foreign nation on a tax base that included the royalty payment paid, accrued or incurred by the taxpayer;
+
+            (IV) the related member's income from the transaction was taxed in such country at an effective rate of tax at least equal to that imposed by this city; and
+
+            (V) the royalty payment was paid, accrued or incurred pursuant to a transaction that was undertaken for a valid business purpose and using terms that reflect an arm's length relationship.
+
+         (iv) The adjustment required in this subdivision shall not apply if the taxpayer and the commissioner of finance agree in writing to the application or use of alternative adjustments or computations. The commissioner of finance may, in his or her discretion, agree to the application or use of alternative adjustments or computations when he or she concludes that in the absence of such agreement the income of the taxpayer would not be properly reflected.
+
+(u) Alimony modifications.
+
+   (1) In the case of applicable alimony or separate maintenance payments, the following modifications shall apply:
+
+      (A) There shall be subtracted from federal adjusted gross income any applicable alimony or separate maintenance payments made by the taxpayer during the taxable year.
+
+      (B) There shall be added to federal adjusted gross income any applicable alimony or separate maintenance payments received by the taxpayer during the taxable year.
+
+   (2) (A) The term "alimony or separate maintenance payments" means payments as defined under section seventy-one of the internal revenue code in effect immediately prior to the enactment of Public Law 115-97.
+
+      (B) The term "applicable alimony or separate maintenance payments" means payments made under an alimony or separation instrument (as defined in section seventy-one of the internal revenue code in effect immediately prior to the enactment of Public Law 115-97) that was executed after December thirty-first, two thousand eighteen, and any divorce or separation instrument executed on or before such date and modified after such date if the modification expressly provides that the amendments made by this section apply to such modification.
+
+(v) Qualified moving expense reimbursement and moving expenses.
+
+   (1) In the case of applicable qualified moving expense reimbursement and moving expenses, the following modifications shall apply:
+
+      (A) There shall be subtracted from federal adjusted gross income any applicable qualified moving expense reimbursement received by the taxpayer during the taxable year.
+
+      (B) There shall be subtracted from federal adjusted gross income any applicable moving expenses paid by the taxpayer during the taxable year.
+
+   (2) Applicable qualified moving expense reimbursement and moving expenses are those deductions as allowed by paragraph (g) of section one hundred thirty-two and section two hundred seventeen, respectfully, of the internal revenue code immediately prior to the enactment of Public Law 115-97.
+
+
+
+
+
+
+
+
+*§ 11-1713 City deduction of a resident individual.* ::
+
+
+The city deduction of a city resident individual shall be his or her city standard deduction unless such resident individual elects to deduct his or her city itemized deduction under the conditions set forth in section 11-1715.
+
+
+
+
+
+
+*§ 11-1714 City standard deduction of a city resident individual.* ::
+
+
+(a) Unmarried individual. For taxable years beginning after nineteen hundred ninety-six, the city standard deduction of a city resident individual who is not married nor the head of a household nor a surviving spouse nor an individual who is claimed as a dependent by another New York state taxpayer shall be seven thousand five hundred dollars; for taxable years beginning in nineteen hundred ninety-six, such standard deduction shall be seven thousand four hundred dollars; for taxable years beginning in nineteen hundred ninety-five, such standard deduction shall be six thousand six hundred dollars; and for taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-five, such standard deduction shall be six thousand dollars.
+
+(b) Husband and wife filing jointly and surviving spouse. For taxable years beginning after nineteen hundred ninety-six, the city standard deduction of a husband and wife whose city taxable income is determined jointly or a surviving spouse shall be thirteen thousand dollars; for taxable years beginning in nineteen hundred ninety-six, such standard deduction shall be twelve thousand three hundred fifty dollars; for taxable years beginning in nineteen hundred ninety-five, such standard deduction shall be ten thousand eight hundred dollars; and for taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-five, such standard deduction shall be nine thousand five hundred dollars.
+
+(c) Head of household. For taxable years beginning after nineteen hundred ninety-six, the city standard deduction of an individual who is a head of household shall be ten thousand five hundred dollars; for taxable years beginning in nineteen hundred ninety-six, such standard deduction shall be ten thousand dollars; for taxable years beginning in nineteen hundred ninety-five, such standard deduction shall be eight thousand one hundred fifty dollars; and for taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-five, such standard deduction shall be seven thousand dollars.
+
+(d) Married individuals filing separately. For taxable years beginning after nineteen hundred ninety-six, the city standard deduction of a married individual filing a separate return shall be six thousand five hundred dollars; for taxable years beginning in nineteen hundred ninety-six, such standard deduction shall be six thousand one hundred seventy-five dollars; for taxable years beginning in nineteen hundred ninety-five, such standard deduction shall be five thousand four hundred dollars; and for taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-five, such standard deduction shall be four thousand seven hundred fifty dollars.
+
+(e) Standard deduction of a dependent individual. For taxable years beginning after nineteen hundred ninety-six, the city standard deduction of a city resident individual whose federal exemption amount is zero shall be three thousand dollars; for taxable years beginning in nineteen hundred ninety-six, such standard deduction shall be two thousand nine hundred dollars; and for taxable years beginning after nineteen hundred eighty-nine and before nineteen hundred ninety-six, such standard deduction shall be two thousand eight hundred dollars.
+
+(f) For taxable years beginning on or after January first, two thousand thirteen, the amounts of standard deductions set forth in this section shall be adjusted in the same manner as the amounts of standard deductions set forth in section six hundred fourteen of the tax law.
+
+
+
+
+
+
+
+
+*§ 11-1715 City itemized deduction of a city resident individual.* ::
+
+
+(a) General. If federal taxable income of a city resident individual is determined by itemizing deductions or claiming the federal standard deduction from his or her federal adjusted gross income, such resident individual may elect to deduct his or her city itemized deduction or claim his or her city standard deduction. The city itemized deduction of a city resident individual means the total amount of his or her deductions from federal adjusted gross income allowed, other than federal deductions for personal exemptions, as provided in the laws of the United States for the taxable year, as such deductions existed immediately prior to the enactment of Public Law 115-97 with the modifications specified in this section, except as provided for under subdivisions (f) and (g) of this section.
+
+(b) Husband and wife.
+
+   (1) A husband and wife, both of whom are required to file returns under this chapter, shall be allowed city itemized deductions only if both elect to take city itemized deductions.
+
+   (2) The total of the city itemized deductions of a husband and wife whose federal taxable income is determined on a joint return, but whose city taxable incomes are required to be determined separately, shall be divided between them as if their federal taxable incomes had been determined separately.
+
+(c) Modifications reducing federal itemized deductions. The total amount of deductions from federal adjusted gross income shall be reduced by the amount of such federal deductions for:
+
+   (1) state and local general sales taxes as defined in subsection (b) of section one hundred sixty-four of the internal revenue code, to the extent included in federal itemized deductions or income taxes imposed by this city or any other taxing jurisdiction, except city earnings taxes on nonresidents that are imposed upon and paid by taxpayers for taxable years beginning after December thirty-first, nineteen hundred seventy and before January first, two thousand, pursuant to the authority of former section twenty-five-m of the general city law, to the extent that the amount of such tax exceeds the tax computed as if the rates were one-fourth of one percent of wages subject to tax and three-eighths of one percent of net earnings from self-employment subject to tax;
+
+   (2) interest on indebtedness incurred or continued to purchase or carry obligations or securities the interest on which is exempt from tax under this chapter; and
+
+   (3) ordinary and necessary expenses paid or incurred during the taxable year for: (i) the production or collection of income which is exempt from tax under this chapter, or (ii) the management, conservation or maintenance of property held for the production of such income, and the amortizable bond premium for the taxable year on any bond the interest on which is exempt from tax under this chapter, to the extent that such expenses and premiums are deductible in determining federal taxable income.
+
+   (4) premiums paid for long-term care insurance to the extent that such premiums are deductible in determining federal taxable income.
+
+   (5) [Reserved.]
+
+   (6) in the case of a shareholder of an S corporation:
+
+      (A) where the election provided for in subsection (a) of section six hundred sixty of the tax law has not been made, S corporation items of deduction included in federal itemized deductions, and
+
+      (B) in the case of a New York S termination year, the portion of such items assigned to the period beginning on the day the election ceases to be effective, as determined under subdivision (s) of section 11-1712.
+
+   (7) [Repealed.]
+
+(d) Modifications increasing federal itemized deductions. The total amount of deductions from federal adjusted gross income shall be increased by:
+
+   (1) [Reserved.]
+
+   (2) interest on indebtedness incurred or continued to purchase or carry obligations or securities the interest on which is subject to tax under this chapter but exempt from federal income tax, to the extent that such interest on indebtedness is not deductible for federal income tax purposes and is not subtracted from federal adjusted gross income pursuant to paragraph nine of subdivision (c) of section 11-1712; and
+
+   (3) ordinary and necessary expenses paid or incurred during the taxable year for: (i) the production or collection of income which is subject to tax under this chapter but exempt from federal income tax, or (ii) the management, conservation or maintenance of property held for the production of such income, and the amortizable bond premium for the taxable year on any bond the interest on which is subject to tax under this chapter but exempt from federal income tax, to the extent that such expenses and premiums are not deductible in determining federal adjusted gross income and are not subtracted from federal adjusted gross income pursuant to paragraph ten of subdivision (c) of section 11-1712.
+
+   (4) allowable college tuition expenses, as defined in paragraph two of subsection (t) of section six hundred six of the tax law, multiplied by the applicable percentage. Such applicable percentage shall be twenty-five percent for taxable years beginning in two thousand one, fifty percent for taxable years beginning in two thousand two, seventy-five percent for taxable years beginning in two thousand three and one hundred percent for taxable years beginning after two thousand three. Provided, however, no deduction shall be allowed under this paragraph to a taxpayer who claims the credit provided under subsection (t) of section six hundred six of the tax law.
+
+(e) Modification of partners and shareholders of S corporations. 
+
+   (1) Partners and shareholders of S corporations which are not New York C corporations. The amounts of modifications under subdivision (c) or under paragraph two or three of subdivision (d) required to be made by a partner or by a shareholder of an S corporation (other than an S corporation which is a New York C corporation), with respect to items of deduction of a partnership or S corporation shall be determined under section 11-1717.
+
+   (2) Shareholders of S corporations which are New York C corporations. In the case of a shareholder of an S corporation which is a New York C corporation, the modifications under this section which relate to the corporation's items of deduction shall not apply, except for the modification provided under paragraph six of subdivision (c).
+
+   (3) New York S termination year. In the case of a New York S termination year, the amounts of the modifications required under this section which relate to the S corporation's items of deduction shall be adjusted in the same manner that the S corporation's items are adjusted under subdivision (s) of section 11-1712.
+
+(f) Except as otherwise provided under subdivision (g) of this section, the city itemized deduction otherwise allowable under this section shall be reduced by the sum of the amounts determined under paragraphs one and two of this subdivision.
+
+   (1) An amount equal to the city itemized deduction otherwise allowable under subdivision (a) of this section, multiplied by a percentage, such percentage to be determined by multiplying, for taxable years beginning in nineteen hundred eighty-eight, ten percent, and for taxable years beginning after nineteen hundred eighty-eight, twenty-five percent, by a fraction,
+
+      (A) in the case of an unmarried individual or married individual filing a separate return, the numerator of which is the lesser of fifty thousand dollars or the excess of such individual's city adjusted gross income over one hundred thousand dollars and the denominator of which is fifty thousand dollars;
+
+      (B) in the case of a married individual filing a joint return or a surviving spouse, the numerator of which is the lesser of fifty thousand dollars or the excess of such individual's city adjusted gross income over two hundred thousand dollars and the denominator of which is fifty thousand dollars;
+
+      (C) in the case of a head of household, the numerator of which is the lesser of fifty thousand dollars or the excess of such individual's city adjusted gross income over one hundred fifty thousand dollars and the denominator of which is fifty thousand dollars.
+
+   (2) An amount equal to the city itemized deduction of an individual otherwise allowable under subdivision (a) of this section, multiplied by a percentage, such percentage to be determined by multiplying, for taxable years beginning in nineteen hundred eighty-eight, ten percent, and for taxable years beginning after nineteen hundred eighty-eight, twenty-five percent, by a fraction, the numerator of which is the lesser of fifty thousand dollars or the excess of such individual's city adjusted gross income over four hundred seventy-five thousand dollars and the denominator of which is fifty thousand dollars.
+
+(g) (1) With respect to an individual whose New York adjusted gross income is over one million dollars but no more than ten million dollars, the New York itemized deduction shall be an amount equal to fifty percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning after two thousand nine and before two thousand twenty. With respect to an individual whose New York adjusted gross income is over one million dollars, the New York itemized deduction shall be an amount equal to fifty percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning in two thousand nine or after two thousand nineteen.
+
+   (2) With respect to an individual whose New York adjusted gross income is over ten million dollars, the New York itemized deduction shall be an amount equal to twenty-five percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning after two thousand nine and ending before two thousand twenty.
+
+
+
+
+
+
+
+
+*§ 11-1716 City exemptions of a city resident individual.* ::
+
+
+(a) General. For taxable years beginning after nineteen hundred eighty-seven, a city resident individual shall be allowed a city exemption of one thousand dollars for each exemption for which such resident individual is entitled to a deduction for the taxable year under subsection (c) of section one hundred fifty-one of the internal revenue code; and for taxable years beginning in nineteen hundred eighty-seven, a city resident individual other than a taxpayer whose federal exemption amount is zero shall be allowed a city exemption of nine hundred dollars for each exemption for which he is entitled to a deduction for the taxable year for federal income tax purposes.
+
+(b) Husband and wife. If the city income taxes of a husband and wife are required to be separately determined but their federal income tax is determined on a joint return, each of them shall be separately entitled to the city exemptions under subdivision (a) of this section to which each would be separately entitled for the taxable year if their federal income taxes had been determined on separate returns.
+
+
+
+
+
+
+*§ 11-1717 Resident partners and shareholders of S corporations.* ::
+
+
+(a) Partner's and shareholder's modifications. In determining city adjusted gross income and city taxable income of a city resident partner or a city resident shareholder of an S corporation (other than an S corporation which is a New York C corporation), any modification described in subdivision (b), (c) or (d) of section 11-1712, or subdivision (c) of section 11-1715 or paragraph two or three of subdivision (d) of such section, which relates to an item of partnership or S corporation income, gain, loss or deduction shall be made in accordance with the partner's distributive share or the shareholder's pro rata share, for federal income tax purposes, of the item to which the modification relates. Where a partner's distributive share or a shareholder's pro rata share of any such item is not required to be taken into account separately for federal income tax purposes, the partner's or shareholder's share of such item shall be determined in accordance with his or her share, for federal income tax purposes, of partnership or S corporation taxable income or loss generally. In the case of a New York S termination year, his or her pro rata share of any such item shall be determined under subdivision (s) of section 11-1712.
+
+(b) Character of items. Each item of partnership and S corporation income, gain, loss, or deduction shall have the same character for a partner or shareholder under this subchapter as for federal income tax purposes. Where an item is not characterized for federal income tax purposes, it shall have the same character for a partner or shareholder as if realized directly from the source from which realized by the partnership or S corporation or incurred in the same manner as incurred by the partnership or S corporation.
+
+(c) City tax avoidance or evasion. Where a partner's distributive share of an item of partnership income, gain, loss or deduction is determined for federal income tax purposes by special provision in the partnership agreement with respect to such item, and where the principal purpose of such provision is the avoidance or evasion of tax under this chapter, the partner's distributive share of such item, and any modification required with respect thereto, shall be determined as if the partnership agreement made no special provision with respect to such item.
+
+
+
+
+
+
+*§ 11-1717.1 Residents; special provisions.* ::
+
+
+Notwithstanding any other provisions of this chapter, the city adjusted gross income and the city taxable income of a resident individual or partner of a partnership doing an insurance business as a member of the New York insurance exchange described in section six thousand two hundred one of the insurance law, shall not include any item of income, gain, loss or deduction of such business, which is the individual's distributive or pro rata share for federal income tax purposes or which the individual is required to take into account separately for federal income tax purposes. Provided however, such individual's city adjusted gross income shall include his or her distributive or pro rata share of the allocated entire net income as determined by such business under sections fifteen hundred three and fifteen hundred four of the tax law. In the event such allocated entire net income is a loss, there shall not be subtracted from federal adjusted gross income in computing city adjusted gross income such individual's distributive share of such loss.
+
+
+
+
+
+
+*§ 11-1718 City taxable income of a city resident estate or trust.* ::
+
+
+The city taxable income of a city resident estate or trust means its federal taxable income as defined in the laws of the United States for the taxable year, with the following modifications:
+
+(1) [Repealed.]
+
+(2) There shall be subtracted the modifications described in paragraphs four and five of subdivision (c) of section 11-1712, with respect to gains from the sale or other disposition of property, to the extent such gains are excluded from federal distributable net income of the estate or trust.
+
+(3) There shall be added or subtracted (as the case may be) the share of the estate or trust in the city fiduciary adjustment determined under section 11-1719.
+
+(4) There shall be added or subtracted (as the case may be) the modifications described in paragraphs six, ten, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-seven, twenty-eight, twenty-nine, thirty-four and thirty-five of subdivision (b) and in paragraphs eleven, thirteen, fifteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six and twenty-eight of subdivision (c) of section 11-1712 of this subchapter.
+
+(5) In the case of a trust, there shall be added the amount of any includible gain, reduced by any deductions properly allocable thereto, upon which tax is imposed for the taxable year pursuant to section six hundred forty-four of the internal revenue code.
+
+
+
+
+
+
+*§ 11-1719 Share of a resident estate, trust or beneficiary in city fiduciary adjustment.* ::
+
+
+(a) General. An adjustment shall be made in determining city taxable income of a city resident estate or trust under section 11-1718, or city adjusted gross income of a city resident beneficiary of any estate or trust under subdivision (d) of section 11-1712, in the amount of the share of each in the city fiduciary adjustment as determined in this section.
+
+(b) Definition. The city fiduciary adjustment shall be the net amount of the modifications described in section 11-1712 (including subdivision (d) if the estate or trust is a beneficiary of another estate or trust), and in subdivision (c) and paragraphs two and three of subdivision (d) of section 11-1715, which relate to items of income, gain, loss or deduction of an estate or trust. The net amount of such modifications shall not include:
+
+   (1) Any modification described in paragraphs one and two of subdivision (b) and paragraphs one, two, four, five, six, and seven of subdivision (c) of section 11-1712 with respect to any amount which, pursuant to the terms of the governing instrument, is paid or permanently set aside for a charitable purpose during the taxable year, and
+
+   (2) Any modification described in paragraph four or five of subdivision (c) of section 11-1712, with respect to gains from the sale or other disposition of property, to the extent such gains are excluded from federal distributable net income of the estate or trust.
+
+(c) Shares of city fiduciary adjustment.
+
+   (1) The respective shares of an estate or trust and its beneficiaries (including, solely for the purpose of this allocation, nonresident beneficiaries) in the city fiduciary adjustment shall be in proportion to their respective shares of federal distributable net income of the estate or trust.
+
+   (2) If the estate or trust has no federal distributable net income for the taxable year, the share of each beneficiary in the city fiduciary adjustment shall be in proportion to his or her share of the estate or trust income for such year, under local law or the governing instrument, which is required to be distributed currently and any other amounts of such income distributed in such year. Any balance of the city fiduciary adjustment shall be allocated to the estate or trust.
+
+(d) Alternate attribution of modifications. The tax commission may by regulation establish such other method or methods of determining to whom the items comprising the fiduciary adjustment shall be attributed, as may be appropriate and equitable. Such method may be used by the fiduciary in his or her discretion whenever the allocation of the fiduciary adjustment pursuant to subdivision (c) of this section would result in an inequity which is substantial both in amount and in relation to the amount of the fiduciary adjustment.
+
+
+
+
+
+
+*§ 11-1721 Credits to trust beneficiary receiving accumulation distribution.* ::
+
+
+(a) General. A city resident beneficiary of a trust whose city adjusted gross income includes all or part of an accumulation distribution by such trust, as defined in section six hundred sixty-five of the internal revenue code, including a beneficiary who is required to make the modification required by paragraph thirty-six of subdivision (b) of section 11-1712 of this subchapter, shall be allowed (1) a credit against the tax otherwise due under this chapter for all or a proportionate part of any tax paid by the trust under this chapter or under former title T of chapter forty-six of this code, as it was in effect prior to September first, nineteen hundred eighty-six, for any preceding taxable year which would not have been payable if the trust had in fact made distributions to its beneficiaries at the times and in the amounts specified in section six hundred sixty-six of the internal revenue code; and (2) a credit against the taxes imposed by this chapter for the taxable year for any income tax imposed for the taxable year or any prior taxable year by another state of the United States, a political subdivision thereof, or the District of Columbia, upon income both derived therefrom and subject to tax under this chapter, provided that the amount of the credit shall not exceed the percentage of the tax otherwise due under this chapter determined by dividing the portion of the income that is both taxable to the trust in such other jurisdiction and taxable to the beneficiary under this chapter by the total amount of the beneficiary's New York city income.
+
+(b) Limitation. The credits under this section shall not reduce the tax otherwise due from the beneficiary under this chapter to an amount less than would have been due if the accumulation distribution or his or her part thereof were excluded from his or her city adjusted gross income.
+
+
+
+
+
+
+*§ 11-1722 City minimum taxable income of city resident individual. [Repealed]* ::
+
+
+(a) Amount of separate tax. The amount of tax imposed under section 11-1703 for any taxable year, with respect to the ordinary income portion of a lump sum distribution received by a city resident individual, estate or trust is an amount equal to five times the tax which would be imposed by section 11-1701 at the rate set forth in paragraph three of subdivision (a) or (b), whichever may be applicable, if the recipient of such lump sum distribution were an individual referred to in such subdivision and the city taxable income were an amount equal to one-fifth of the excess of:
+
+   (1) the total taxable amount of the lump sum distribution for the taxable year, over
+
+   (2) the minimum distribution allowance.
+
+(b) Minimum distribution allowance. For purposes of this section, the minimum distribution allowance shall be that which is calculated according to subparagraph (C) of paragraph one of subsection (e) of section four hundred two of the internal revenue code.
+
+(c) Multiple distributions and distributions of annuity contracts. For purposes of this section, the rules concerning multiple distributions and distributions of annuity contracts as specified by paragraph two of subsection (e) of section four hundred two of the internal revenue code shall be applicable, except that references to "paragraph (1) (A)" shall be deemed to be references to this section, and except that only lump sum distributions (or portions thereof) and distributions of annuity contracts subject to tax under this chapter shall be included, and except that references to the secretary shall be deemed to be references to the tax commission.
+
+(d) Definitions and special rules. For purposes of this section, the following provisions shall apply, to the extent applicable to the taxpayer's federal tax on lump sum distributions:
+
+   (1) the definitions and special rules as specified in paragraph four of subsection (e) of section four hundred two of the internal revenue code; and
+
+   (2) the special rules relating to (A) individuals who have attained the age of fifty before January first, nineteen hundred eighty-six and (B) capital gains, as specified in paragraphs three, four, five and six of subsection (h) of section eleven hundred twenty-two of the tax reform act of nineteen hundred eighty-six as enacted by public law 99-514, but (i) in the event that paragraph three of such subsection is applicable, clause (ii) of subparagraph (B) of such paragraph shall be applied using a rate of one and seventy-two hundredths percent, and (ii) in the event that paragraph five of such subsection is applicable, the words "five" and "one-fifth" in subdivision (a) of this section shall be read as "ten" and "one-tenth", respectively, and subdivision (a) of this section shall be applied by using the rate of tax specified in subdivision (a) of section 11-1702 as such subdivision was in effect for taxable years beginning in nineteen hundred eighty-six.
+
+
+
+
+
+
+
+**Subchapter 3: Returns and Payment of Tax**
+
+
+
+*§ 11-1751 Returns and liabilities.* ::
+
+
+(a) General. On or before the fifteenth day of the fourth month following the close of a taxable year, an income tax return under this chapter shall be made and filed by or for every city resident individual, estate or trust required to file a New York state personal income tax (including a separate tax on the ordinary income portion of lump sum distributions) return for the taxable year.
+
+(b) Husband and wife.
+
+   (1) If the New York state personal income tax liability of husband and wife is determined on a separate return, their city personal income tax liabilities and returns shall be separate.
+
+   (2) If the New York state personal income tax liabilities of husband and wife (other than a husband and wife described in paragraph three) are determined on a joint return, they shall file a joint city personal income tax return, and their tax liabilities shall be joint and several except as provided in paragraph five of this subdivision, section 11-1755 of this chapter and subsection (e) of section six hundred eighty-five of the tax law.
+
+   (3) If either husband or wife is a city resident and the other is a city nonresident, and their New York state personal income tax liabilities are determined on a joint return:
+
+      (A) they may elect to file a joint city personal income tax return as if both were residents, in which case their city personal income tax liabilities shall be joint and several except as provided in paragraph five of this subdivision, section 11-1755 of this chapter and subsection (e) of section six hundred eighty-five of the tax law, or
+
+      (B) the resident spouse may elect to file a separate city personal income tax return, in which case his city personal income tax liability shall be determined as if he were filing a separate New York state personal income tax return.
+
+   (4) [Repealed.]
+
+   (5) If a joint return has been made under this subdivision for a taxable year and only one spouse is liable for past-due support, or a past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or an amount of a default in repayment of a guaranteed student, state university or city university loan of which the state commissioner of taxation and finance has been notified pursuant to section one hundred seventy-one-c, one hundred seventy-one-d, one hundred seventy-one-e, one hundred seventy-one-f or one hundred seventy-one-l of the tax law, as the case may be, then an overpayment and interest thereon shall be credited against such past-due support, or a past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or such amount of a default in repayment of a guaranteed student, state university or city university loan, unless the spouse not liable for such past-due support, or a past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or such amount of a default in repayment of a guaranteed student, state university or city university loan demands, on a declaration made in accordance with regulations or instructions prescribed by the state commissioner of taxation and finance, that the portion of the overpayment and interest attributable to such spouse not be credited against the past-due support, or a past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or amount of a default in repayment of a guaranteed student, state university or city university loan owed by the other spouse. Upon such demand, the state commissioner of taxation and finance shall determine the amount of the overpayment attributable to each spouse in accordance with regulations prescribed by the state commissioner of taxation and finance and credit only that portion of the overpayment and interest thereon attributable to the spouse liable for past-due support, or a past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or amount of a default in repayment of a guaranteed student, state university or city university loan against such past-due support, or a past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or such amount of a default in repayment of a guaranteed student, state university or city university loan. Such demand may be filed (A) with the return of the spouse not liable for past-due support or past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or default in repayment of a guaranteed student, state university, or city university loan or (B) with the commissioner of taxation and finance within ten days after notification is provided such spouse by the commissioner of taxation and finance pursuant to subdivision seven of section one hundred seventy-one-c, subdivision six of section one hundred seventy-one-d, subdivision seven of section one hundred seventy-one-e, subdivision seven of section one hundred seventy-one-f or subdivision six of section one hundred seventy-one-l of the New York state tax law.
+
+   (6) The state commissioner of taxation and finance shall clearly alert married taxpayers, on all appropriate publications and instructions, that their liability for tax will be joint and several if they file joint income tax returns. The state commissioner of taxation and finance shall include notice of an individual's right to relief from joint and several liability pursuant to section six hundred fifty-four of the tax law in the disclosure of rights statement required by section three thousand four of the tax law and in any notice regarding collection of tax due with respect to a liability on a joint return.
+
+(c) Decedents. The return for any deceased individual shall be made and filed by his or her executor, administrator, or other person charged with his or her property. If a final return of a decedent is for a fractional part of a year, the due date of such return shall be the fifteenth day of the fourth month following the close of the twelve-month period which began with the first day of such fractional part of the year.
+
+(d) Individuals under a disability. The return for an individual who is unable to make a return by reason of minority or other disability shall be made and filed by his or her guardian, committee, fiduciary or other person charged with the care of his or her person or property (other than a receiver in possession of only a part of his or her property), or by his or her duly authorized agent.
+
+(e) Estates and trusts. The return for an estate or trust shall be made and filed by the fiduciary.
+
+(f) Joint fiduciaries. If two or more fiduciaries are acting jointly, the return may be made by any one of them.
+
+(h) Tax a debt. Any tax under this chapter, and any increase, interest or penalty thereon, shall, from the time it is due and payable, be a personal debt of the person liable to pay the same, to the city of New York.
+
+(i) Cross-reference. For provisions as to information returns by partnerships, employers and other persons, see section 11-1758.
+
+
+
+
+
+
+*§ 11-1752 Time and place for filing returns and paying tax.* ::
+
+
+(a) Except as provided in subdivision (b) of this section, a person required to make and file a return under this chapter shall, without assessment, notice or demand, pay any tax due thereon to the commissioner of taxation and finance on or before the date fixed for filing such return (determined without regard to any extension of time for filing the return). The commissioner shall prescribe by regulation the place for filing any return, statement, or other document required pursuant to this chapter and for payment of any tax.
+
+(b) The commissioner of taxation and finance may allow individuals who have income only from wages, salaries, tips and like remuneration for services performed as an employee, interest, dividends and unemployment compensation to elect to have the commissioner compute the tax due. To provide for expeditious and uniform administration of the tax computations which involve numerous variables, the commissioner may further qualify, with regard to period of residency, deductions, credits, exemptions, amount and character of gross income, and any other appropriate factors relative to calculation of tax, those individuals who may elect to have their taxes computed by the commissioner. Any such election shall be made on the form prescribed by the commissioner for this purpose. If a qualified taxpayer elects to have the commissioner compute the tax, the amount determined by the commissioner shall be paid (i) within ten days from the date of the issuance of a notice and demand therefor or (ii) on the date fixed for filing such return (determined without regard to any extension of time for filing), whichever is later.
+
+
+
+
+
+
+*§ 11-1753 Signing of returns and other documents.* ::
+
+
+(a) General. Any return, statement or other document required to be made pursuant to this chapter shall be signed in accordance with regulations or instructions prescribed by the tax commission. The fact that an individual's name is signed to a return, statement, or other document, shall be prima facie evidence for all purposes that the return, statement or other document was actually signed by such individual.
+
+(b) Partnerships. Any return, statement or other document required of a partnership shall be signed by one or more partners. The fact that a partner's name is signed to a return, statement, or other document, shall be prima facie evidence for all purposes that such partner is authorized to sign on behalf of the partnership.
+
+(c) Certifications. The making or filing of any return, statement or other document or copy thereof required to be made or filed pursuant to this chapter, including a copy of a federal return, shall constitute a certification by the person making or filing such return, statement or other document or copy thereof that the statements contained therein are true and that any copy filed is a true copy.
+
+
+
+
+
+
+*§ 11-1754 Change of resident status.* ::
+
+
+(a) General. If an individual changes his or her status during his or her taxable year from city resident to city nonresident, or from city nonresident to city resident, such individual shall file one return as a resident for the portion of the year during which he or she is a city resident, and a return under chapter nineteen of this title, for the portion of the year during which he or she is a city nonresident, subject to such exceptions as the tax commission may prescribe by regulation.
+
+(b) City taxable income as city resident. The city taxable income for the portion of the year during which he or she is a city resident shall be determined, except as provided in subdivision (c), as if his or her taxable year for federal income tax purposes were limited to the period of his or her city resident status.
+
+(c) Special accruals.
+
+   (1) If an individual changes his or her status from city resident to city nonresident, he or she shall, regardless of his or her method of accounting, accrue to the period of residence any items of income, gain, loss or deduction accruing prior to the change of status, if not otherwise properly includible (whether or not because of an election to report on an installment basis) or allowable for city income tax purposes for the portion of the taxable year prior to the change of status or for a prior taxable year. The amounts of such accrued items shall be determined with the applicable modifications described in sections 11-1712 and 11-1715 as if such accrued items were includible or allowable for federal income tax purposes.
+
+   (2) If an individual changes his or her status from city nonresident to city resident, he or she shall, regardless of his or her method of accounting, accrue to the period of nonresidence any items of income, gain, loss or deduction accruing prior to the change of status, other than items derived from or connected with New York state sources, if not otherwise properly includible (whether or not because of an election to report on an installment basis) or allowable for federal income tax purposes for the portion of the taxable year prior to the change of status or for a prior taxable year. The amounts of such accrued items shall be determined with the applicable modifications described in sections 11-1712 and 11-1715 as if such accrued items were includible or allowable for federal income tax purposes.
+
+   (3) No item of income, gain, loss or deduction which is accrued under this subdivision shall be taken into account in determining city adjusted gross income or the city itemized deduction for any subsequent taxable period.
+
+   (4) The accruals under this subdivision shall not be required if the individual files with the tax commission a bond or other security acceptable to the tax commission, conditioned upon the inclusion of amounts accruable under this subdivision in city adjusted gross income for one or more subsequent taxable years as if the individual had not changed his or her resident status.
+
+   (5) The foregoing provisions of this section shall apply if an individual changes his status from a city resident to city nonresident or from a city nonresident to a city resident during a taxable year, or at the beginning of a taxable year, as a result of a change of domicile or as a result of becoming a city resident or city nonresident based on the definition contained in subparagraph (B) of paragraph one of subdivision (b) of section 11-1705 of this chapter.
+
+   (6) Except as hereinafter provided, where an individual who is a member of a partnership or shareholder of an S corporation changes status from city resident to city nonresident, or from city nonresident to city resident, the portion of the distributive or pro rata share of income, gain and loss (less deductions attributable thereto) from a partnership or S corporation shall be allocated to the resident and nonresident periods of the partner or shareholder on a proportionate basis throughout the taxable year of the partnership or S corporation. In such event, the portion of the distributive or pro rata share allocated to the period of residency shall be determined based on the number of days of residency within the reporting period of the partnership or S corporation over the total number of days in the reporting period of the partnership or S corporation. Provided, however, that the commissioner may require, or the individual may elect, to accrue to the period of residence, and the period of nonresidence, the portion of the distributive or pro rata share of partnership or S corporation income, gain and loss (less deductions attributable thereto) accruing during the individual's respective resident and nonresident periods in a manner that reflects the date of accrual of said income, gain and loss by the partnership or S corporation.
+
+   (7) Except as hereinafter provided, where an individual who is a beneficiary of an estate or trust changes status from city resident to city nonresident, or from city nonresident to city resident, the portion of any estate or trust income credited, distributable, payable or required to be distributed to such beneficiary shall be allocated to the resident and nonresident periods of the beneficiary on a proportionate basis throughout the taxable year of the estate or trust. In such event, the portion of such estate or trust income allocated to the period of residency shall be determined based on the number of days of residency within the reporting period of the estate or trust. Provided, however, that the commissioner may require, or the beneficiary may elect, to accrue to the period of residence, and the period of nonresidence, the portion of such estate or trust income accruing during the beneficiary's respective resident and nonresident periods in a manner that reflects the date of accrual of said estate or trust income by the estate or trust.
+
+(d) City minimum tax. Where two returns are required under this section, the total of the taxes due thereon shall not be less than would be due if the city taxable incomes reportable on the two returns were included in one return.
+
+(e) Proration. Where a return is required under this section, the city personal exemptions allowable under section 11-1716 shall be prorated, under regulations of the tax commission, to reflect the portions of the entire taxable year during which the individual was a resident.
+
+(f) Standard deduction. Where a return is required under this section, the city standard deduction allowable on such return shall be the amount allowed pursuant to the provisions of section 11-1714, prorated according to the period covered by the return.
+
+(g) Trusts. If the status of a trust changes during its taxable year from city resident to city nonresident, or from city nonresident to city resident, the fiduciary shall file one return as a city resident trust for the portion of the year during which the trust is a city resident trust, and one return under chapter nineteen of this title for the portion of the year during which the trust is a city nonresident trust, subject to such exceptions as the tax commission may prescribe by regulations. The provisions of subdivisions (b), (c), (d) and (e) of this section shall apply for the purposes of this subdivision, except to the extent that any of such provisions may be inconsistent with the provisions of section 11-1718, and except that the term "individual" shall be read as "trust", the term "city adjusted gross income" shall be read as "city taxable income", reference to "gain" shall include any modification for includible gain under subdivision five of section 11-1718, and the phrase "personal exemptions allowable under section 11-1716" shall be read as "city exemptions allowable under section 11-1718."
+
+(h) Lump sum distributions. If the status of a taxpayer changes from city resident to city nonresident, or from city nonresident to city resident, the taxpayer shall, regardless of his or her method of accounting, accrue the total taxable amount of a lump sum distribution accruing prior to the change of status, if the ordinary income portion thereof is not otherwise subject to tax under section 11-1703 for the portion of the taxable year prior to the change in status or for a prior taxable year. No ordinary income portion of a lump sum distribution the total taxable amount of which is accrued under this subdivision shall be subject to tax under section 11-1703 for any subsequent taxable period. The accrual under this subdivision shall not be required if the taxpayer files with the tax commission a bond or other security acceptable to the tax commission, conditioned upon the payment of tax under section 11-1703, with respect to such amount accruable under this subdivision, for a subsequent taxable year as if the taxpayer had not changed its resident status.
+
+(i) Deduction for two-earner married couples. Where a return is required under this section, the amount of deduction under paragraph twenty-nine of subdivision (c) of section 11-1712 shall be equal to ten percent of the lesser of:
+
+   (1) thirty thousand dollars, pro rated according to the period covered by the return or
+
+   (2) the qualified earned income of the spouse with the lower qualified earned income for the period covered by the return.
+
+
+
+
+
+
+*§ 11-1755 Relief from joint and several liability on joint return.* ::
+
+
+(a) General. The provisions of section six thousand fifteen of the internal revenue code applicable to the liability of individuals who file joint income tax returns shall apply to the same extent as if such section of such code were contained in and made part of this section, except to the extent that any provision of such section is either inconsistent with or not relevant to this chapter and except as modified in subdivision (b) of this section, or with such other modifications as may be necessary to adapt the language of such provisions to the provisions of this chapter.
+
+(b) Modifications. Section six thousand fifteen of the internal revenue code shall be read as modified by this subdivision.
+
+   (1) "Secretary" shall be read as "state commissioner of taxation and finance".
+
+   (2) "Internal revenue service" shall be read as "department of taxation and finance".
+
+   (3) "Tax court" shall be read as "division of tax appeals".
+
+   (4) In the heading of subsection (a) and in clause (ii) of subparagraph (A) of paragraph three of subsection (c), the phrase "section 6013(d)(3)" shall be read as "paragraphs two and three of subdivision (b) of section 11-1751 of this chapter".
+
+   (5) In paragraph three of subsection (b), the phrase "section 6662(d)(2)(A)" shall be read as "subdivision (p) of section 11-1785 of this chapter".
+
+   (6) In subparagraph (B) of paragraph two of subsection (d), the phrase "section 1 or 55" shall be read as "section 11-1701 of this chapter".
+
+   (7) In clause (i) of subparagraph (B) of paragraph one of subsection (e), the phrase "section 6851 or 6861" shall be read as "section 11-1794 of this chapter" and "section 7485" shall be read as "subdivision (c) of section 11-1790 of this chapter".
+
+   (8) In paragraph two of subsection (e), the phrase "section 6502" shall be read as "section one hundred seventy-four-a of the tax law and section 11-1792 of this chapter".
+
+   (9) In subparagraph (A) of paragraph three of subsection (e), the phrase "section 6512(b), 7121, or 7122" shall be read as "subdivision fifteenth, eighteenth, eighteenth-a or eighteenth-d of section one hundred seventy-one of the tax law and subdivision (b) of section 11-1789 of this chapter".
+
+   (10) The following provisions of such section six thousand fifteen shall be disregarded: (A) The phrase "notwithstanding the provisions of section 7421(a)" contained in clause (ii) of subparagraph (B) of paragraph one of subsection (e); and (B) subparagraph (C) of paragraph three of subsection (e).
+
+(c) Federal determination. If an individual is relieved of a federal income tax liability pursuant to subsection (b) of section six thousand fifteen of the internal revenue code, there shall be a rebuttable presumption that such individual shall also be entitled to equivalent relief from liability under this section, to the extent that such individual has an understatement of tax under this chapter for the same taxable year that is attributable to the same erroneous item or items to which the individual's federal income tax liability was attributable.
+
+
+
+
+
+
+*§ 11-1757 Extensions of time.* ::
+
+
+(a) General. The commissioner of taxation and finance may grant a reasonable extension of time for payment of tax or estimated tax (or any installment), or for filing any return, statement, or other document required pursuant to this chapter, on such terms and conditions as it may require. Except for a taxpayer who is outside the United States or who intends to claim nonresident status pursuant to clause (ii) of subparagraph (A) of paragraph one of subdivision (b) of section 11-1705, no such extension for filing any return, statement or other document, shall exceed six months.
+
+(b) Furnishing of security. If any extension of time is granted for payment of any amount of tax, the tax commission may require the taxpayer to furnish a bond or other security in an amount not exceeding twice the amount for which the extension of time for payment is granted on such terms and conditions as the tax commission may require.
+
+
+
+
+
+
+*§ 11-1758 Requirements concerning returns, notices, records and statements.* ::
+
+
+(a) General. The tax commission may prescribe regulations as to the keeping of records, the content and form of returns and statements, and the filing of copies of federal income tax returns and determinations. The tax commission may require any person, by regulation or notice served upon such person, to make such returns, render such statements, or keep such records, as the tax commission may deem sufficient to show whether or not such person is liable under this chapter for tax or for collection of tax.
+
+(b) Identifying numbers. 
+
+   (1) When required by regulations prescribed by the tax commission:
+
+      (A) Inclusion in returns. Any person required under the authority of this chapter to make a return, statement, or other document shall include in such return, statement or other document such identifying number as may be prescribed for securing proper identification of such person.
+
+      (B) Furnishing number to other persons. Any person with respect to whom a return, statement or other document is required under the authority of this chapter to be made by another person shall furnish to such other person such identifying number as may be prescribed for securing his or her proper identification.
+
+      (C) Furnishing number of another person. Any person required under the authority of this chapter to make a return, statement, or other document with respect to another person shall request from such other person, and shall include in any such return, statement, or other document, such identifying number as may be prescribed for securing proper identification of such other person.
+
+   (2) Limitation.
+
+      (A) Except as provided in subparagraph (B), a return of any person with respect to his or her liability for tax, or any statement or other document in support thereof, shall not be considered for purposes of subparagraphs (B) and (C) of paragraph one of this subdivision as a return, statement or other document with respect to another person.
+
+      (B) For purposes of subparagraphs (B) and (C) of paragraph one of this subdivision, a return of an estate or trust with respect to its liability for tax, and any statement or other document in support thereof, shall be considered as a return, statement, or other document with respect to each beneficiary of such estate or trust.
+
+   (3) Requirement of information. For purposes of this section, the tax commission is authorized to require such information as may be necessary to assign an identifying number to any person.
+
+(c) Partnerships and S corporations.
+
+   (1) Partnerships. Every partnership having a city resident partner shall make a return for the taxable year setting forth all items of income, gain, loss and deduction and such other pertinent information as the tax commission may by regulations and instructions prescribe. Such return shall be filed on or before the fifteenth day of the fourth month following the close of each taxable year except that the due date for the return of a partnership consisting entirely of nonresident aliens shall be the date prescribed for the filing of its federal partnership return for the taxable year. For purposes of this paragraph, "taxable year" means a year or a period which would be a taxable year of the partnership if it were subject to tax under this chapter.
+
+   (2) S corporations. Every S corporation for which the election provided for in subsection (a) of section six hundred sixty of the tax law is in effect shall make a return setting forth all items of income, loss and deduction and such other pertinent information as the tax commission may by regulations and instructions prescribe. Such return shall be filed on or before the fifteenth day of the third month following the close of each taxable year.
+
+(d) Information at source. The tax commission may prescribe regulations and instructions requiring returns of information to be made and filed on or before February twenty-eighth of each year as to the payment or crediting in any calendar year of amounts of six hundred dollars or more to any taxpayer under this chapter. Such returns may be required of any persons, including lessees or mortgagors of real or personal property, fiduciaries, employers, and all officers and employees of this state, or of any municipal corporation or political subdivision of this state, having the control, receipt, custody, disposal or payment of interest, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments or other fixed or determinable gains, profits or income, except interest coupons payable to bearer. A duplicate of the statement as to tax withheld on wages, required to be furnished by an employer to an employee, shall constitute the return of information required to be made under this section with respect to such wages.
+
+(e) Notice of qualification as receiver, etc. Every receiver, trustee in bankruptcy, assignee for benefit of creditors, or other like fiduciary shall give notice of his or her qualification as such to the tax commission, as may be required by regulation.
+
+(f) [Repealed.]
+
+(g) Requirements applicable to tax return preparer.
+
+   (1) Signature of tax return preparer. Any individual who is a tax return preparer and prepares any return or claim for refund, shall sign such return or claim for refund in accordance with regulations or instructions prescribed by the commissioner of taxation and finance.
+
+   (2) Furnishing identifying numbers. Any return or claim for refund which is prepared by a tax return preparer shall include the identifying number of the preparer required by paragraph one of this subdivision to sign such return or claim for refund. In addition, where such individual preparer is an employee of an employer which is a tax return preparer with respect to such return or claim for refund, or where such preparer is a partner in a partnership which is a tax return preparer with respect to such return or claim for refund, then such return or claim for refund shall also include the identifying number of such employer or partnership. Such identifying numbers shall be as prescribed by the commissioner of taxation and finance in order to secure the proper identification of such individual preparer, partnership of employer. The responsibility for the inclusion of such identifying numbers shall be as set forth in paragraph two of subdivision (t) of section 11-1785.
+
+   (3) Furnishing copy to taxpayer. Any person who is a tax return preparer with respect to any return or claim for refund shall furnish a completed copy of such return or claim for refund to the taxpayer not later than the time such return or claim for refund is presented for such taxpayer's signature.
+
+   (4) Copy or list to be retained by tax return preparer. Any person who is a tax return preparer with respect to any return or claim for refund shall for a three year retention period described in paragraph nine of this subdivision:
+
+      (A) retain a completed copy of such return or claim for refund, or retain, on a list, the name and identification number of the taxpayer for whom such return or claim was prepared, and
+
+      (B) make such copy or list available for inspection upon request by the commissioner of taxation and finance.
+
+   (5) Tax return preparer defined. For purposes of this chapter, the term "tax return preparer" means any person who prepares for compensation, or who employs or engages one or more persons to prepare for compensation any return or claim for refund. The preparation of a substantial portion of a return or claim for refund shall be treated as if it were the preparation of such return or claim for refund. Where an employer and one or more employees of such employer are tax return preparers with respect to the same return or claim for refund, or where a partnershp and one or more partners in such partnership are tax return preparers with respect to the same return or claim for refund, for purposes of paragraphs three and four of this subdivision, such employer or such partnership shall be deemed to be the sole tax return preparer. A person shall not be a "tax return preparer" merely because such person—
+
+      (A) furnishes typing, reproducing, or other mechanical assistance,
+
+      (B) prepares a return or claim for refund of the employer (or of an officer or employee of the employer) by whom he is regularly and continuously employed, or
+
+      (C) prepares as a fiduciary a return or claim for refund for any person.
+
+   (6) Person defined. For purposes of this subdivision, the term "person" includes an individual, corporation (including a dissolved corporation) or partnership.
+
+   (7) Return defined. For purposes of this subdivision, the term "return" shall mean any return required under this chapter.
+
+   (8) Claim for refund defined. For purposes of this subdivision, the term "claim for refund" shall mean a claim for refund of or credit against any tax imposed under this chapter, and shall include any claim for refund of any credit treated as an overpayment of tax under this chapter.
+
+   (9) Retention period defined. For purposes of this subdivision, the term "retention period" shall mean:
+
+      (A) in the case of a tax return, the period ending the later of three years after the due date of such return (without regard to extensions) or three years after the date such return was presented to the taxpayer for such taxpayer's signature, and
+
+      (B) in the case of a claim for refund, the period ending three years after such claim for refund was presented to the taxpayer for such taxpayer's signature.
+
+   (10) Mandatory electronic filing by certain tax return preparers. 
+
+      (A) (i) If a tax return preparer prepared more than two hundred original returns during the calendar year beginning on January first, two thousand five, and if, in the calendar year beginning on January first, two thousand six, such tax return preparer prepares one or more authorized returns using tax software, then, for such calendar year two thousand six and for each subsequent calendar year thereafter, all authorized returns prepared by such tax return preparer shall be filed electronically, in accordance with instructions prescribed by the commissioner of taxation and finance.
+
+         (ii) If a tax return preparer prepared more than one hundred original returns during any calendar year beginning on or after January first, two thousand six, and if, in any succeeding calendar year such tax return preparer prepares one or more authorized returns using tax software, then, for such succeeding calendar year and for each subsequent calendar year thereafter, all authorized returns prepared by such tax return preparer shall be filed electronically, in accordance with instructions prescribed by the commissioner of taxation and finance.
+
+      (B) For purposes of this paragraph:
+
+         (i) "Electronic" means computer technology; provided, however, that the commissioner of taxation and finance may, in instructions, provide that use of barcode technology will also satisfy the mandatory electronic filing requirements of this section.
+
+         (ii) "Authorized return" means any return required under this article which the commissioner of taxation and finance has authorized to be filed electronically.
+
+         (iii) "Original return" means a return required under this article that is filed, without regard to extensions, during the calendar year for which that return is required to be filed.
+
+         (iv) "Tax software" means any computer software program intended for tax return preparation purposes.
+
+
+
+
+
+
+*§ 11-1759 Report of federal changes, corrections or disallowances.* ::
+
+
+If the amount of a taxpayer's federal taxable income, total taxable amount or ordinary income portion of a lump sum distribution or includible gain of a trust reported on his federal income tax return for any taxable year, or the amount of any claim of right adjustment, is changed or corrected by the United States internal revenue service or other competent authority, or as the result of a renegotiation of a contract or subcontract with the United States or the amount an employer is required to deduct and withhold from wages for federal income tax withholding purposes is changed or corrected by such service or authority or if a taxpayer's claim for credit or refund of federal income tax is disallowed in whole or in part, the taxpayer or employer shall report such change or correction or disallowance within ninety days after the final determination of such change, correction, renegotiation, or disallowance, or as otherwise required by the commissioner, and shall concede the accuracy of such determination or state wherein it is erroneous. The allowance of a tentative carryback adjustment based upon a net operating loss carryback pursuant to section sixty-four hundred eleven of the internal revenue code shall be treated as a final determination for purposes of this section. Any taxpayer filing an amended federal income tax return and any employer filing an amended federal return of income tax withheld shall also file within ninety days thereafter an amended return under this chapter, and shall give such information as the commissioner may require. The commissioner may by regulation prescribe such exceptions to the requirements of this section as he or she deems appropriate. For purposes of this section, (i) the term "taxpayer" shall include a partnership having a resident partner or having any income derived from New York sources, and a corporation with respect to which the taxable year of such change, correction, disallowance or amendment is a year with respect to which the election provided for in subsection (a) of section six hundred sixty of the tax law is in effect, and (ii) the term "federal income tax return" shall include the returns of income required under sections six thousand thirty-one and six thousand thirty-seven of the internal revenue code. In the case of such a corporation, such report shall also include any change or correction of the taxes described in paragraphs two and three of subsection (f) of section thirteen hundred sixty-six of the internal revenue code. Reports made under this section by a partnership or corporation shall indicate the portion of the change in each item of income, gain, loss or deduction (and, in the case of a corporation, of each change in, or disallowance of a claim for credit or refund of, a tax referred to in the preceding sentence) allocable to each partner or shareholder and shall set forth such identifying information with respect to such partner or shareholder as may be prescribed by the commissioner.
+
+
+
+
+
+
+*§ 11-1761 Change of election.* ::
+
+
+Any election expressly authorized by this chapter may be changed on such terms and conditions as the tax commission may prescribe by regulation.
+
+
+
+
+
+
+*§ 11-1762 Computation of tax where taxpayer restores substantial amount held under claim of right.* ::
+
+
+(a) General. If:
+
+   (1) an item was included in city adjusted gross income for a prior taxable year (or years) because it appeared that the taxpayer had an unrestricted right to such item, and
+
+   (2) for the current taxable year the provisions of paragraph five of subsection (a) of section thirteen hundred forty-one of the internal revenue code apply to such item, then the tax imposed by this chapter for the taxable year shall be an amount equal to
+
+   (3) the tax for the taxable year computed without regard to this section, minus
+
+   (4) the decrease in tax under this chapter for the prior taxable year (or years) which would result solely from the exclusion of such item (or portion thereof) from city adjusted gross income for such prior taxable year (or years).
+
+(b) Special rules. If the decrease in tax ascertained under paragraph four of subdivision (a) of this section exceeds the tax imposed by this chapter for the taxable year, such excess shall be considered a payment of tax on the last day prescribed by law for the payment of tax for the taxable year, and shall be refunded or credited in the same manner as if it were an overpayment for such taxable year.
+
+
+
+
+
+
+
+**Subchapter 4: Withholding of Tax**
+
+
+
+*§ 11-1771 Requirement of withholding tax from wages.* ::
+
+
+(a) General.
+
+   (1) Every employer maintaining an office or transacting business within this city or state and making payment on and after January first, nineteen hundred seventy-seven of any wages taxable under this chapter, or under section two of chapter eight hundred eighty-two of the laws of nineteen hundred seventy-five, as amended by chapter eight hundred eighty-six of the laws of nineteen hundred seventy-five, shall deduct and withhold from such wages for each payroll period a tax computed in such manner as to result, so far as practicable, in withholding from the employee's wages during each calendar year an amount substantially equivalent to the tax reasonably estimated to be due under this chapter or such section two resulting from the inclusion in the employee's city adjusted gross income of his or her wages received during such calendar year. The method of determining the amount to be withheld shall be prescribed by regulations of the tax commission, with due regard to the city withholding exemptions of the employee and the sum of any credits allowable against his or her tax. The section shall not apply to payments by the United States for service in the armed forces of the United States so long as the right to require deduction and withholding of tax from such payments is prohibited by the laws of the United States. Service in the armed forces of the United States shall have the same meaning as when used in a comparable context in the laws of the United States relating to withholding of city income taxes.
+
+   (2) The tax commission may provide, by regulations, for withholding:
+
+      (A) from remuneration for services performed by an employee for his or her employer which does not constitute wages, and
+
+      (B) from any other type of payment, with respect to which the tax commission finds that withholding would be appropriate under the provisions of this chapter, if the employer and the employee, or in the case of any other type of payment the person making and the person receiving the payment, agree to such withholding. Such agreement shall be made in such form and manner as the tax commission may by regulations provide. For purposes of this chapter, remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.
+
+   (3) The tax commission shall provide by regulation for an exemption from withholding for: (i) employees under eighteen years of age, (ii) employees under twenty-five years of age who are full-time students and (iii) employees over sixty-five years of age, provided such employees had no income tax liability in the prior year and can reasonably anticipate none in the current year.
+
+(b)*   Extension of withholding to certain periodic payments and gambling winnings.
+
+* Editor's note: there are two divisions designated (b) in this section.
+
+   (1) For purposes of this chapter, any payment subject to withholding, within the meaning of paragraph two of this subdivision, shall be treated as if it were wages paid by an employer to an employee.
+
+   (2) Payments subject to withholding. For purposes of paragraph one of this subdivision, a payment subject to withholding means:
+
+      (A) Any supplemental unemployment compensation benefit paid to an individual to the extent includible in such individual's city adjusted gross income.
+
+      (B) Any member or employee contributions to a retirement system or pension fund picked up by the employer pursuant to subdivision f of section five hundred seventeen or subdivision d of section six hundred thirteen of the retirement and social security law or section 13-225.1, 13-327.1, 13-125.1, 13-125.2 or 13-521.1 of the administrative code of the city of New York or subdivision nineteen of section twenty-five hundred seventy-five of the education law.
+
+      (C) Any payment of an annuity to an individual to the extent includible in such individual's city adjusted gross income, if at the time the payment is made a request that such annuity be subject to withholding under this chapter is in effect.
+
+      (D) Any payment of winnings from a wager placed in a lottery conducted by the division of the lottery, if the proceeds from such wager exceed five thousand dollars and such proceeds are payable pursuant to a prize claim made by an individual who was a resident of the city at the time of the selection of the prize winning lottery ticket.
+
+      (E) [Repealed.]
+
+      (F) Any amount deducted or deferred from an employee's salary under a flexible benefits program established pursuant to section twenty-three of the general municipal law or section one thousand two hundred ten-a of the public authorities law.
+
+      (G) Any amount by which an employee's salary is reduced pursuant to the provisions of subdivision b of section 12-126.1 and subdivision b of section 12-126.2 of the code.
+
+   (3) Additional provisions applicable to this subdivision.
+
+      (A) Request for annuity withholding. A request that an annuity be subject to withholding under this chapter shall be made by the payee in writing to the person making the annuity payments. Such a request may, notwithstanding any provision of law to the contrary, be terminated by furnishing to the person making the payments a written statement of termination. Such a request for withholding or statement of termination shall take effect in such manner as the commissioner of taxation and finance shall prescribe.
+
+      (B) Withholding on lottery winnings upon change of residence. If a payee of lottery winnings subject to the provisions of subparagraph (D) of paragraph two of this subdivision changes status from resident to nonresident, withholding in accordance with such subparagraph shall constitute other security acceptable to the commissioner of taxation and finance within the meaning of paragraph four of subdivision (c) of section 11-1754, unless such payee elects, in such manner as the commissioner of taxation and finance shall prescribe, to apply the provisions of paragraph one of such subdivision (c) to the proceeds, in which case withholding under this subdivision shall no longer apply to such proceeds.
+
+      (C) Proceeds. For purposes of subparagraphs (D) and (E) of paragraph two of this subdivision, proceeds from a wager shall be determined by reducing the amount received by the amount of the wager.
+
+      (D) Taxes withheld at maximum rate. The tax withheld on any payment subject to withholding under subparagraph (D) or (E) of paragraph two of this subdivision shall be withheld at the highest rate of tax on city taxable income, without any allowance for deductions or exemptions, in effect under this chapter for the taxable year in which the payment is made.
+
+      (E) Determination of residence. For purposes of applying the provisions of subparagraphs (D) and (E) of paragraph two of this subdivision, any payor of proceeds shall determine the residence of the payee of such proceeds in accordance with regulations or instructions of the commissioner of taxation and finance or, in the absence of any such regulations or instructions, in accordance with the address of the payee required under the provisions of paragraph six of subsection (q) of section thirty-four hundred two of the internal revenue code.
+
+(b)*   Extension of withholding to unemployment compensation benefits, annuity payments, and lottery winnings.
+
+* Editor's note: there are two divisions designated (b) in this section.
+
+   (1) For purposes of this chapter:
+
+      (A) any supplemental unemployment compensation benefit paid to an individual to the extent includible in such individual's city adjusted gross income,
+
+      (B) any payment of an annuity to an individual to the extent includible in such individual's city adjusted gross income, if at the time the payment is made a request that such annuity be subject to withholding under this chapter is in effect, and
+
+      (C) any periodic payment (but only where such payment is part of a series of payments extending over a period greater than one year), of lottery winnings by the division of the lottery, if at the time the payment is made a request that such lottery winnings be subject to withholding under this chapter is in effect, shall be treated as if it were a payment of wages by an employer to an employee for a payroll period.
+
+      (D) any member or employee contributions to a retirement system or pension fund picked up or paid by the employer for members of the Manhattan and Bronx surface transportation authority pension plan and treated as employer contributions in determining income tax treatment under section 414(h) of the Internal Revenue Code.
+
+   (2) Request for withholding. A request that an annuity be subject to withholding under this chapter shall be made by the payee in writing to the person making the annuity payments, and a request that lottery winnings be subject to withholding under this chapter shall be made by the payee in writing to the division of the lottery, in the manner prescribed by the commissioner of taxation and finance.
+
+   A request that an annuity be subject to withholding may, notwithstanding any provision of law to the contrary, be terminated by furnishing to the person making the payments a written statement of termination. A request that lottery winnings be subject to withholding under this chapter shall not be revocable while the payee is a nonresident, and shall constitute other security acceptable to the tax commission within the meaning of paragraph four of subdivision (c) of section 11-1754 of this chapter. Such a request for withholding or statement of termination shall take effect in such manner as the commissioner of taxation and finance shall provide by regulation.
+
+(c) Withholding exemptions. For purposes of this section:
+
+   (1) The number of city withholding exemptions which an employee receiving wages taxable under this chapter may claim shall not exceed the number of city exemptions allowed pursuant to the provisions of section 11-1716 and such additional city withholding exemptions as may be prescribed by regulations or instructions of the commissioner of taxation and finance, taking into account the applicable standard deduction and such other factors as he finds appropriate.
+
+   (2) The amount of each city withholding exemption shall be the amount of the city exemption allowed pursuant to the provisions of section 11-1716.
+
+   (3) Withholding exemption certificate. An employee shall be required to file with his employer a withholding exemption certificate in accordance with regulations or instructions prescribed by the commissioner of taxation and finance.
+
+
+
+
+
+
+*§ 11-1772 Information statement for employee.* ::
+
+
+Every employer required to deduct and withhold tax under this chapter from the wages of an employee, or who would have been required so to deduct and withhold tax if the employee had claimed no more than one withholding exemption, shall furnish to each such employee in respect of the wages paid by such employer to such employee during the calendar year on or before February fifteenth of the succeeding year, or, if his or her employment is terminated before the close of such calendar year, within thirty days from the date on which the last payment of the wages is made, a written statement as prescribed by the tax commission showing the amount of wages paid by the employer to the employee, the amount deducted and withheld as tax, and such other information as the tax commission shall prescribe. The written statement required herein may be furnished to such employee in an electronic format.
+
+
+
+
+
+
+*§ 11-1773 Credit for tax withheld.* ::
+
+
+Wages upon which tax is required to be withheld shall be taxable under this chapter as if no withholding were required, but any amount of tax actually deducted and withheld under this chapter in any calendar year shall be deemed to have been paid to the tax commission on behalf of the person from whom withheld, and such person shall be credited with having paid that amount of tax for the taxable year beginning in such calendar year. For a taxable year of less than twelve months, the credit shall be made under regulations of the tax commission.
+
+
+
+
+
+
+*§ 11-1774 Employer's return and payment of withheld taxes.* ::
+
+
+(a) General. Every employer required to deduct and withhold tax under this chapter shall file a withholding return and pay over to the tax commission or to a depository designated by the tax commission, the taxes so required to be deducted and withheld, as hereafter prescribed.
+
+   (1) If, after having made a payroll, an employer has been required to deduct and withhold, but has not paid over, a cumulative aggregate amount of seven hundred dollars or more of tax during a calendar quarter, such employer shall file a return and pay over the tax. If an employer was required to remit a cumulative aggregate amount of less than fifteen thousand dollars in withholding tax during the calendar year which precedes the previous calendar year, the tax shall be paid over on or before the fifth business day following the date of making such a payroll. If an employer was required to remit a cumulative aggregate amount more than or equal to fifteen thousand dollars in withholding tax during the calendar year which precedes the previous calendar year, the tax shall be paid over on or before the third business day following the date of making such a payroll. In the case of an "educational organization" as defined in paragraph two of subsection (a) of section nine of the tax law or a "health care provider" as defined in paragraph four of subsection (a) of section nine of the tax law, the tax shall be paid over on or before the fifth business day following the date of making such a payroll.
+
+   (2) If, at the close of any calendar quarter, an employer has been required to deduct and withhold, but has not paid over, a cumulative aggregate amount of less than seven hundred dollars of tax during such calendar quarter, such employer shall pay over the tax with the quarterly combined withholding, wage reporting and unemployment insurance return required to be filed for such quarter by paragraph four of this subdivision, on or before the last date prescribed by such paragraph for filing such return.
+
+   (3) If an employer makes more than one payroll per week, then such employer shall determine the applicability of the rules described in paragraphs one and two of this subdivision measured by the last payroll made within the week by such employer; provided, however, that in any week in which the end of a quarter occurs between the making of payrolls by an employer, any tax required to be deducted and withheld in a payroll or payrolls made during such week prior to or on the end of the quarter shall be paid over. If an employer was required to remit a cumulative aggregate amount of less than fifteen thousand dollars in withholding tax during the calendar year preceding the previous calendar year, the tax shall be paid over on or before the fifth business day following the date of making the last payroll in such quarter. If an employer was required to remit a cumulative aggregate amount more than or equal to fifteen thousand dollars in withholding tax during the calendar year preceding the previous calendar year, the tax shall be paid over on or before the third business day following the date of making the last payroll in such quarter. In the case of an "educational organization" as defined in paragraph two of subsection (a) of section nine of the tax law or a "health care provider" as defined in paragraph four of subsection (a) of section nine of the tax law, the tax shall be paid over on or before the fifth business day following the date of making such a payroll. For purposes of this paragraph, the term "week" shall mean the period Sunday through Saturday.
+
+   (4) (A) All employers described in paragraph one of subdivision (a) of section 11-1771, including those whose wages paid are not sufficient to require the withholding of tax from the wages of any of their employees, all employers required to provide the wage reporting information for the employees described in subdivision one of section one hundred seventy-one-a of the tax law, and all employers liable for unemployment insurance contributions or for payments in lieu of such contributions pursuant to article eighteen of the labor law, shall file a quarterly combined withholding, wage reporting and unemployment insurance return with the department of taxation and finance detailing the preceding calendar quarter's withholding tax transactions, such quarter's wage reporting information, such quarter's unemployment insurance contributions, and such other related information as the commissioner of taxation and finance or the commissioner of labor, as applicable, may prescribe. In addition, the return covering the last calendar quarter of each year shall also include withholding reconciliation information for such calendar year. Such returns shall be filed no later than the last day of the month following the last day of each calendar quarter; provided, however, that an employer may provide the wage reporting information covering the last calendar quarter of each year, and the withholding reconciliation information for such year no later than February twenty-eighth of the succeeding year.
+
+      (B) An employer shall, at the time prescribed by subparagraph (A) of this paragraph for filing each quarterly combined withholding, wage reporting and unemployment insurance return, pay over, in a single remittance, the unemployment insurance contributions and aggregate withholding taxes required to be paid over with such return. Notwithstanding any provision of law to the contrary, an overpayment of unemployment insurance contributions or of aggregate withholding taxes made by an employer with the quarterly combined withholding, wage reporting and unemployment insurance return for a calendar quarter may be only credited by such employer against such employer's liability for unemployment insurance contributions or aggregate withholding taxes, respectively.
+
+   (5) The tax commission may, if it believes such action necessary for the protection of the revenues, require any employer to make such return and pay to it the tax deducted and withheld at any time, or from time to time.
+
+   (6) "Aggregate amount" as used in paragraphs one, two and three of this subdivision means the aggregate of the aggregate amounts of New York state personal income tax, city personal income tax on residents and city earnings tax on nonresidents authorized pursuant to article two-E of the general city law required to be deducted and withheld.
+
+(b) Deposit in trust for tax commission. Whenever any employer fails to collect, truthfully account for, pay over the tax, or make returns of the tax as required in this section, the tax commission may serve a notice requiring such employer to collect the taxes which become collectible after service of such notice, to deposit such taxes in a bank approved by the tax commission, in a separate account, in trust for and payable to the tax commission, and to keep the amount of such tax in such account until payment over to the tax commission. Such notice shall remain in effect until a notice of cancellation is served by the tax commission.
+
+
+
+
+
+
+*§ 11-1775 Employer's liability for withheld taxes.* ::
+
+
+Every employer required to deduct and withhold tax under this chapter is hereby made liable for such tax. For purposes of assessment and collection, any amount required to be withheld and paid over to the tax commission, and any additions to tax, penalties and interest with respect thereto, shall be considered the tax of the employer. Any amount of tax actually deducted and withheld under this chapter shall be held to be a special fund in trust for the tax commission. No employee shall have any right of action against his or her employer in respect to any moneys deducted and withheld from his or her wages and paid over to the tax commission in compliance or in intended compliance with this chapter.
+
+
+
+
+
+
+*§ 11-1776 Employer's failure to withhold.* ::
+
+
+If an employer fails to deduct and withhold tax as required, and thereafter the tax against which such tax may be credited is paid, the tax so required to be deducted and withheld shall not be collected from the employer, but the employer shall not be relieved from liability for any penalties, interest, or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
+
+
+
+
+
+
+*§ 11-1777 Designation of third parties to perform acts required of employers.* ::
+
+
+In case a fiduciary, agent, or other person has the control, receipt, custody, or disposal of, or pays the wages of an employee or group of employees, employed by one or more employers, the tax commission, under regulations promulgated by it, is authorized to designate such fiduciary, agent, or other person to perform such acts as are required of employers under this chapter and as the tax commission may specify. Except as may be otherwise prescribed by the tax commission, all provisions of law (including penalties) applicable in respect of an employer shall be applicable to a fiduciary, agent, or other person so designated but, except as so provided, the employer for whom such fiduciary, agent, or other person acts shall remain subject to the provisions of law (including penalties) applicable in respect of employers.
+
+
+
+
+
+
+*§ 11-1778 Liability of third parties paying or providing for wages.* ::
+
+
+(a) Direct payment by third party. If a lender, surety or other person, who is not an employer with respect to an employee or group of employees, pays wages directly to such an employee or group of employees, employed by one or more employers, or to an agent on behalf of such employee or employees, such lender, surety or other person shall be liable for the amount of taxes (together with interest) required to be deducted and withheld from such wages by the employer.
+
+(b) Funds supplied to employer by third parties. If a lender, surety or other person supplies funds to or for the account of an employer for the specific purpose of paying wages of the employees of such employer, with actual notice or knowledge that such employer does not intend to or will not be able to make timely payment or deposit of the amounts of tax required by this chapter to be deducted and withheld by such employer from such wages, such lender, surety or other person shall be liable for the amount of the taxes (together with interest) which are not paid over to the tax commission by such employer with respect to such wages. However, the liability of such lender, surety or other person shall be limited to an amount equal to twenty-five percent of the amount so supplied to or for the account of such employer for such purpose.
+
+(c) Effect of payment. Any amounts paid to the tax commission pursuant to this section shall be credited against the liability of the employer.
+
+
+
+
+
+
+
+**Subchapter 5: Procedure and Administration**
+
+
+
+*§ 11-1781 Notice of deficiency.* ::
+
+
+(a) General. If upon examination of a taxpayer's return under this chapter the tax commission determines that there is a deficiency of income tax, it may mail a notice of deficiency to the taxpayer. If a taxpayer fails to file an income tax return required under this chapter, the tax commission is authorized to estimate the taxpayer's city taxable income and tax thereon, from any information in its possession, and to mail a notice of deficiency to the taxpayer. A notice of deficiency shall be mailed by certified or registered mail to the taxpayer at his or her last known address in or out of this state. If a husband and wife are jointly liable for tax, a notice of deficiency may be a single joint notice, except that if the tax commission has been notified by either spouse that separate residences have been established, then, in lieu of the single joint notice, a duplicate original of the joint notice shall be mailed to each spouse at his or her last known address in or out of this state. If the taxpayer is deceased or under a legal disability, a notice of deficiency may be mailed to his or her last known address in or out of this state, unless the tax commission has received notice of the existence of a fiduciary relationship with respect to the taxpayer.
+
+(b) Notice of deficiency as assessment. After ninety days from the mailing of a notice of deficiency, such notice shall be an assessment of the amount of tax specified in such notice, together with the interest, additions to tax and penalties stated in such notice, except only for any such tax or other amounts as to which the taxpayer has within such ninety day period filed with the tax commission a petition under section 11-1789. If the notice of deficiency is addressed to a person outside of the United States, such period shall be one hundred fifty days instead of ninety days.
+
+(c) Restrictions on assessment and levy. No assessment of a deficiency in tax and no levy or proceeding in court for its collection shall be made, begun or prosecuted, except as otherwise provided in section 11-1794, until a notice of deficiency has been mailed to the taxpayer, nor until the expiration of the time for filing a petition contesting such notice, nor, if a petition with respect to the taxable year has been filed with the tax commission, until the decision of the tax commission has become final. For exception in the case of judicial review of the decision of the tax commission, see subdivision (c) of section 11-1790.
+
+(d) Exceptions for mathematical errors. If a mathematical error appears on a return (including an overstatement of the credit for income tax withheld at the source, or of the amount paid as estimated income tax), the tax commission shall notify the taxpayer that an amount of tax in excess of that shown upon the return is due, and that such excess has been assessed. Such notice shall not be considered as a notice of deficiency for the purposes of this section, subdivision (f) of section 11-1787 (limiting credits or refunds after petition to the tax commission), or subdivision (b) of section 11-1789 (authorizing the filing of a petition with the tax commission based on a notice of deficiency) nor shall such assessment or collection be prohibited by the provisions of subdivision (c) of this section.
+
+(e) Exceptions where federal changes, corrections or disallowances are not reported. 
+
+   (1) If the taxpayer or employer fails to comply with section 11-1759, instead of the mode and time of assessment provided for in subdivision (b) of this section, the tax commission may assess a deficiency based upon such federal change, correction or disallowance by mailing to the taxpayer a notice of additional tax due specifying the amount of the deficiency, and such deficiency, together with the interest, additions to tax and penalties stated in such notice, shall be deemed assessed on the date such notice is mailed unless within thirty days after the mailing of such notice a report of the federal change, correction or disallowance or an amended return, where such return was required by section 11-1759, is filed accompanied by a statement showing wherein such federal determination and such notice of additional tax due are erroneous.
+
+   (2) Such notice shall not be considered as a notice of deficiency for the purposes of this section, subdivision (f) of section 11-1787 (limiting credits or refunds after petition to the tax commission), or subdivision (b) of section 11-1789 (authorizing the filing of a petition with the tax commission based on a notice of deficiency), nor shall such assessment or the collection thereof be prohibited by the provisions of subdivision (c) of this section.
+
+   (3) If a husband and wife are jointly liable for tax, a notice of additional tax due may be a single joint notice, except that if the tax commission has been notified by either spouse that separate residences have been established, then, in lieu of the joint notice, a duplicate original of the joint notice shall be mailed to each spouse at his or her last known address in or out of this state. If the taxpayer is deceased or under a legal disability, a notice of additional tax due may be mailed to his or her last known address in or out of this state, unless the tax commission has received notice of the existence of a fiduciary relationship with respect to the taxpayer.
+
+(f) Waiver of restrictions. The taxpayer shall at any time (whether or not a notice of deficiency has been issued) have the right to waive the restrictions on assessment and collection of the whole or any part of the deficiency by a signed notice in writing filed with the tax commission.
+
+(g) Deficiency defined. For purposes of this chapter, a deficiency means the amount of the tax imposed by this chapter, less (i) the amount shown as the tax upon the taxpayer's return (whether the return was made or the tax computed by such taxpayer or by the tax commission), and less (ii) the amounts previously assessed (or collected without assessment) as a deficiency and plus (iii) the amount of any rebates. For the purpose of this definition, the tax imposed by this chapter and the tax shown on the return shall both be determined without regard to payments on account of estimated tax or the credit for withholding tax; and a rebate means so much of an abatement, credit, refund or other repayment (whether or not erroneous) made on the ground that the amounts entering into the definition of a deficiency showed a balance in favor of the taxpayer.
+
+
+
+
+
+
+*§ 11-1782 Assessment.* ::
+
+
+(a) Assessment date. The amount of tax which a return shows to be due, or the amount of tax which a return would have shown to be due but for a mathematical error, shall be deemed to be assessed on the date of filing of the return (including any amended return showing an increase of tax). In the case of a return properly filed without computation of tax, the tax computed by the tax commission shall be deemed to be assessed on the date on which payment is due. If a notice of deficiency has been mailed, the amount of the deficiency shall be deemed to be assessed on the date specified in subdivision (b) of section 11-1781 if no petition to the tax commission is filed, or if a petition is filed, then upon the date when a decision of the tax commission establishing the amount of the deficiency becomes final. If an amended return or report filed pursuant to section 11-1759 concedes the accuracy of a federal change or correction, any deficiency in tax under this chapter resulting therefrom shall be deemed to be assessed on the date of filing such report or amended return, and such assessment shall be timely notwithstanding section 11-1783. If a notice of additional tax due, as prescribed in subdivision (e) of section 11-1781, has been mailed, the amount of the deficiency shall be deemed to be assessed on the date specified in such subdivision unless within thirty days after the mailing of such notice a report of the federal change or correction or an amended return, where such return was required by section 11-1759, is filed accompanied by a statement showing wherein such federal determination and such notice of additional tax due are erroneous. Any amount paid as a tax or in respect of a tax, other than amounts withheld at the source or paid as estimated income tax, shall be deemed to be assessed upon the date of receipt of payment, notwithstanding any other provisions.
+
+(b) Other assessment powers. If the mode or time for the assessment of any tax under this chapter (including interest, additions to tax and assessable penalties) is not otherwise provided for, the tax commission may establish the same by regulations.
+
+(c) Estimated income tax. No unpaid amount of estimated tax shall be assessed.
+
+(d) Supplemental assessment. The tax commission may, at any time within the period prescribed for assessment, make a supplemental assessment, subject to the provisions of section 11-1781 where applicable, whenever it is ascertained that any assessment is imperfect or incomplete in any material respect.
+
+(e) Cross-reference. For assessment in case of jeopardy, see section 11-1794.
+
+
+
+
+
+
+*§ 11-1783 Limitations on assessment.* ::
+
+
+(a) General. Except as otherwise provided in this section, any tax under this chapter shall be assessed within three years after the return was filed (whether or not such return was filed on or after the date prescribed).
+
+(b) Time return deemed filed.
+
+   (1) Early return. For purposes of this section a return of income tax, except withholding tax, filed before the last day prescribed by law or by regulations promulgated pursuant to law for the filing thereof, shall be deemed to be filed on such last day.
+
+   (2) Return of withholding tax. For purposes of this section, if a return of withholding tax for any period ending with or within a calendar year is filed before April fifteenth of the succeeding calendar year, such return shall be deemed to be filed on April fifteenth of such succeeding calendar year.
+
+(c) Exceptions.
+
+   (1)Assessment at any time. The tax may be assessed at any time if:
+
+      (A) no return is filed,
+
+      (B) a false or fraudulent return is filed with intent to evade tax, or
+
+      (C) the taxpayer or employer fails to comply with section 11-1759.
+
+   (2) Extension by agreement. Where, before the expiration of the time prescribed in this section for the assessment of tax, both the tax commission and the taxpayer have consented in writing to its assessment after such time, the tax may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.
+
+   (3) Report of federal changes, corrections or disallowances. If the taxpayer or employer complies with section 11-1759, the assessment (if not deemed to have been made upon the filing of the report or amended return) may be made at any time within two years after such report or amended return was filed. The amount of such assessment of tax shall not exceed the amount of the increase in city tax attributable to such federal change or correction. The provisions of this paragraph shall not affect the time within which or the amount for which an assessment may otherwise be made.
+
+   (4) Deficiency attributable to net operating loss carryback. If a deficiency is attributable to the application to the taxpayer of a net operating loss carryback, it may be assessed at any time that a deficiency for the taxable year of the loss may be assessed.
+
+   (5) Recovery of erroneous refund. An erroneous refund shall be considered an underpayment of tax on the date made, and an assessment of a deficiency arising out of an erroneous refund may be made at any time within two years from the making of the refund, except that the assessment may be made within five years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.
+
+   (6) Request for prompt assessment. If a return is required for a decedent or for a decedent's estate during the period of administration, the tax shall be assessed within eighteen months after written request therefor (made after the return is filed) by the executor, administrator or other person representing the estate of such decedent, but not more than three years after the return was filed, except as otherwise provided in this subdivision and subdivision (d) of this section.
+
+   (7) Report on use of certain property. Under the circumstances described in paragraph two of subdivision (g) of section 11-1712, the tax may be assessed within three years after the filing of a return reporting that property has been used for purposes other than research and development to a greater extent than originally reported.
+
+   (8) Report concerning waste treatment facility, air pollution control facility or eligible business facility. Under the circumstances described in paragraph three of subdivision (h) of section 11-1712 or in paragraph five of subsection (c) of section seven hundred one of the tax law, the tax may be assessed within three years after filing of the return containing the information required by such paragraph, or, if a certificate of compliance in respect to an air pollution control facility shall be revoked, within three years after the tax commission shall receive notice of such revocation from the taxpayer or as required by section 19-0309 of the environmental conservation law, whichever notice is received earlier.
+
+   (9) Except as otherwise provided in paragraph three of this subdivision, or as otherwise provided in this section where a longer period of time may apply, if a taxpayer files an amended return, an assessment of tax (if not deemed to have been made upon the filing of the amended return), including recovery of a previously paid refund, attributable to a change or correction on the amended return from a prior return may be made at any time within one year after such amended return is filed.
+
+(d) Omission of income, total taxable amount or ordinary income portion of a lump sum distribution on return. The tax may be assessed at any time within six years after the return was filed if:
+
+   (1) an individual omits from his city adjusted gross income the total taxable amount or ordinary income portion of a lump sum distribution an amount properly includible therein which is in excess of twenty-five percent of the amount of city adjusted gross income or the total taxable amount or ordinary income portion of a lump sum distribution stated in the return, or
+
+   (2) an estate or trust omits from its city adjusted gross income, or the total taxable amount or ordinary income portion of a lump sum distribution an amount properly includible therein which is in excess of twenty-five percent of the amount stated in the return of city adjusted gross income, or the total taxable amount or ordinary income portion of a lump sum distribution, respectively. For purposes of this paragraph, city adjusted gross income means New York adjusted gross income as determined under paragraph four of subsection (e) of section six hundred one of the tax law.
+
+For purposes of this subdivision there shall not be taken into account any amount which is omitted in the return if such amount is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the commissioner of the nature and amount of the item of income, the total taxable amount or ordinary income portion of a lump sum distribution.
+
+(e) Suspension of running of period of limitation. The running of the period of limitations on assessment or collection of tax or other amount (or of a transferee's liability) shall, after the mailing of a notice of deficiency, be suspended for the period during which the tax commission is prohibited under subdivision (c) of section 11-1781 from making the assessment or from collecting by levy.
+
+
+
+
+
+
+
+
+*§ 11-1784 Interest on underpayment.* ::
+
+
+(a) General. If any amount of income tax is not paid on or before the last date prescribed in this chapter for payment, interest on such amount at the underpayment rate set by the commissioner of taxation and finance pursuant to section 11-1797 of this subchapter, or if no rate is set, at the rate of seven and one-half percent per annum shall be paid for the period from such last date to the date paid, whether or not any extension of time for payment was granted. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar. If the time for filing of a return of tax withheld by an employer is extended, the employer shall pay interest for the period for which the extension is granted and may not charge such interest to the employee.
+
+(b) Exception as to estimated tax. This section shall not apply to any failure to pay estimated tax.
+
+(c) Exception for mathematical error. No interest shall be imposed on any underpayment of tax due solely to mathematical error if the taxpayer files a return within the time prescribed in this chapter (including any extension of time) and pays the amount of underpayment within three months after the due date of such return, as it may be extended.
+
+(d) Suspension of interest on deficiencies. If a waiver of restrictions on assessment of a deficiency has been filed by the taxpayer, and if notice and demand by the tax commission for payment of such deficiency is not made within thirty days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such thirtieth day and ending with the date of notice and demand.
+
+(e) Tax reduced by carryback. If the amount of tax for any taxable year is reduced by reason of a carryback of a net operating loss, such reduction in tax shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the net operating loss arises. Such filing date shall be determined without regard to extensions of time to file.
+
+(f) Interest treated as tax. Interest under this section shall be paid upon notice and demand and shall be assessed, collected and paid in the same manner as income tax. Any reference in this chapter to the tax imposed by this chapter shall be deemed also to refer to interest imposed by this section on such tax.
+
+(g) Interest on penalties or additions to tax. Interest shall be imposed under subdivision (a) of this section in respect of any assessable penalty or addition to tax only if such assessable penalty or addition to tax is not paid within twenty-one calendar days from the date of the notice and demand therefor under subdivision (b) of section 11-1792 of this title (ten business days if the amount for which such notice and demand is made equals or exceeds one hundred thousand dollars), and in such case interest shall be imposed only for the period from such date of the notice and demand to the date of payment.
+
+(h) Payment within specified period after notice and demand. If notice and demand is made for payment of any amount under subdivision (b) of section 11-1792 of this title, and if such amount is paid within twenty-one calendar days (ten business days if the amount for which such notice and demand is made equals or exceeds one hundred thousand dollars) after the date of such notice and demand, interest under this sectiuon on the amount so paid shall not be imposed for the period after the date of such notice and demand.
+
+(i) Limitation on assessment and collection. Interest prescribed under this section may be assessed and collected, at any time during the period within which the tax or other amount to which such interest relates may be assessed and collected, respectively.
+
+(j) Interest on erroneous refund. Any portion of tax or other amount which has been erroneously refunded, and which is recoverable by the commissioner of taxation and finance, shall bear interest at the underpayment rate set by such commissioner pursuant to section 11-1797 of this subchapter, or if no rate is set, at the rate of seven and one-half percent per annum from the date of the payment of the refund, but only if it appears that any part of the refund was induced by fraud or a misrepresentation of a material fact.
+
+(k) Satisfaction by credits. If any portion of a tax is satisfied by credit of an overpayment, then no interest shall be imposed under this section on the portion of the tax so satisfied for any period during which, if the credit had not been made, interest would have been allowable with respect to such overpayment.
+
+
+
+
+
+
+*§ 11-1785 Additions to tax and civil penalties.* ::
+
+
+(a) (1) Failure to file tax return.
+
+      (A) In case of failure to file a tax return under this chapter on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on such return five percent of the amount of such tax if the failure is for not more than one month, with an additional five percent for each additional month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate.
+
+      (B) In the case of a failure to file a return of tax within sixty days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax hereunder shall not be less than the lesser of one hundred dollars or one hundred percent of the amount required to be shown as tax on such return.
+
+      (C) For purposes of this paragraph, the amount of tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed upon the return.
+
+   (2) Failure to pay tax shown on return. In case of failure to pay the amounts shown as tax on any return required to be filed under this chapter on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent of the amount of such tax if the failure is not for more than one month, with an additional one-half of one percent for each additional month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate. For the purpose of computing the addition for any month, the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed upon the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
+
+   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed under this chapter which is not so shown (including an assessment made pursuant to subdivision (a) of section 11-1782 of this title) within twenty-one calendar days of the date of a notice and demand therefor (ten business days if the amount for which such notice and demand is made equals or exceeds one hundred thousand dollars), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent of such tax if the failure is not for more than one month, with an additional one-half of one percent for each additional month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
+
+   (4) Limitations on additions.
+
+      (A) With respect to any return, the amount of the addition under paragraph one of this subdivision shall be reduced by the amount of the addition under paragraph two of this subdivision for any month to which an addition applies under both paragraphs one and two of this subdivision. In any case described in subparagraph (B) of such paragraph one of this subdivision, the amount of the addition under such paragraph one shall not be reduced below the amount provided in such subparagraph.
+
+      (B) With respect to any return, the maximum amount of the addition permitted under paragraph three of this subdivision shall be reduced by the amount of the addition under paragraph one of this subdivision (determined without regard to subparagraph (B) of such paragraph) which is attributable to the tax for which the notice and demand is made and which is not paid within ten days of such notice and demand.
+
+(b) Deficiency due to negligence.
+
+   (1) If any part of a deficiency is due to negligence or intentional disregard of this chapter or rules or regulations hereunder (but without intent to defraud), there shall be added to the tax an amount equal to five percent of the deficiency.
+
+   (2) There shall be added to the tax (in addition to the amount determined under paragraph one of this subdivision) an amount equal to fifty percent of the interest payable under section 11-1784 with respect to the portion of the underpayment described in such paragraph one which is attributable to the negligence or intentional disregard referred to in such paragraph, for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+
+   (3) If any payment is shown on a return made by a payor with respect to dividends, patronage dividends and interest under subsection (a) of section six thousand forty-two, subsection (a) of section six thousand forty-four or subsection (a) of section six thousand forty-nine of the internal revenue code, respectively, and the payee fails to include any portion of such payment in city adjusted gross income, any portion of an underpayment attributable to such failure shall be treated, for purposes of this subdivision, as due to negligence in the absence of clear and convincing evidence to the contrary. If any penalty is imposed under this subdivision by reason of the preceding sentence, the amount of the penalty imposed by paragraph one of this subdivision shall be five percent of the portion of the underpayment which is attributable to the failure described in the preceding sentence.
+
+(c) Failure by individual to pay estimated income tax. 
+
+   (1) Addition to the tax. Except as otherwise provided in this subdivision and subdivision (d) of this section, in the case of any underpayment of estimated tax by an individual, there shall be added to the tax under this chapter for the taxable year an amount determined by applying the underpayment rate established under section 11-1797 of this subchapter, or if no rate is set, at the rate of seven and one-half percent per annum, to the amount of the underpayment for the period of the underpayment. Such period shall run from the due date for the required installment to the earlier of the fifteenth day of the fourth month following the close of the taxable year or, with respect to any portion of the underpayment, the date on which such portion is paid. For purposes of determining such date, a payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid. There shall be four required installments for each taxable year, due on April fifteenth, June fifteenth and September fifteenth of such taxable year and on January fifteenth of the following taxable year.
+
+   (2) Amount of underpayment. For purposes of paragraph one of this subdivision, the amount of the underpayment shall be the excess of the required installment over the amount, if any, of the installment paid on or before the due date for the installment.
+
+   (3) Required installment.
+
+      (A) Except as provided in paragraph four of this subdivision, the amount of any required installment shall be twenty-five percent of the required annual payment.
+
+      (B) The required annual payment is the lesser of
+
+         (i) ninety percent of the tax shown on the return for the taxable year (or, if no return is filed, ninety percent of the tax for such year), or
+
+         (ii) one hundred percent of the tax shown on the return of the individual for the preceding taxable year. Provided, however, that the tax shown on such return for taxable years beginning in two thousand eight shall be calculated as if paragraph three of subdivision (f) of section 11-1715 of this chapter was in effect for taxable years beginning in two thousand eight. Provided, however, that the tax shown on such return for taxable years beginning in two thousand nine shall be calculated as if paragraph two of subdivision (g) of section 11-1715 of this chapter was in effect for taxable years beginning in two thousand nine. Clause (ii) of this subparagraph shall not apply if the preceding taxable year was not a taxable year of twelve months or if the individual did not file a return for such preceding taxable year.
+
+      (C) Limitation on use of preceding year's tax.
+
+         (i) General. If the city adjusted gross income shown on the return of the individual for the preceding taxable year exceeds one hundred fifty thousand dollars, clause (ii) of subparagraph (B) of this paragraph shall be applied by substituting "one hundred ten percent" for "one hundred percent".
+
+         (ii) Separate returns. In the case of a husband and wife who file separate returns pursuant to subdivision (b) of section 11-1751 for the taxable year for which the amount of the installment is being determined, clause (i) of this subparagraph shall be applied by substituting "seventy-five thousand dollars" for "one hundred fifty thousand dollars".
+
+   (4) Annualized income installment.
+
+      (A) In general. In the case of any required installment, if the individual establishes that the annualized income installment determined under subparagraph (B) of this paragraph is less than the amount determined under paragraph three of this subdivision, the annualized income installment shall be the required installment. Any reduction in a required installment resulting from the application of this subparagraph shall be recaptured by increasing the amount of the next required installment determined under paragraph three of this subdivision by the amount of such reduction, and by increasing successive required installments as necessary to effect full recapture.
+
+      (B) Determination of annualized income installment. In the case of any required installment, the annualized income installment is the excess, if any, of an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income for months in the taxable year ending before the due date for the installment, over the aggregate amount of any prior required installments for the taxable year. The applicable percentage of the tax shall be twenty-two and one-half percent in the case of the first installment, forty-five percent in the case of the second installment, sixty-seven and one-half percent in the case of the third installment and ninety percent in the case of the fourth installment, and shall be computed without regard to any increase in the rates applicable to the taxable year unless such increase was enacted at least thirty days prior to the due date of the installment.
+
+   (5) Definitions and special rules. 
+
+      (A) Definition of the term tax and application of credits against tax. For purposes of this subdivision and subdivision (d) of this section, the term "tax" means the tax imposed under this chapter minus the credits against tax allowed under this chapter, other than the credit under section 11-1773, relating to tax withheld on wages. The credit allowed under section 11-1773 for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each installment due date for such taxable year, unless the taxpayer establishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
+
+      (B) Special rule where return filed on or before January thirty-first. If, on or before January thirty-first of the following taxable year, the taxpayer files a return for the taxable year and pays in full the amount computed on the return as payable, then no addition to tax shall be imposed under pargraph one of this subdivision with respect to any underpayment of the fourth required installment for the taxable year.
+
+      (C) Special rules for farmers and fishermen. For purposes of this subdivision, if an individual is a farmer or fisherman for any taxable year there shall be only one required installment for the taxable year, due on January fifteenth of the following taxable year in an amount equal to the required annual payment determined under paragraph three of this subdivision by substituting sixty-six and two-thirds percent for ninety percent and without regard to subparagraph (C) of paragraph three of this subdivision. Subparagraph (B) of this paragraph shall be applied by substituting March first for January thirty-first and by treating the required installment under this subparagraph as the fourth required installment. An individual is a farmer or fisherman for any taxable year if the individual's federal gross income from farming or fishing (including oyster farming) for the taxable year is at least two-thirds of the total federal gross income from all sources for the taxable year or if such individual's federal gross income from farming or fishing (including oyster farming) shown on the return of the individual for the preceding taxable year is at least two-thirds of the total federal gross income from all sources shown on such return.
+
+      (D) Fiscal years. In applying this subdivision to a taxable year beginning on any date other than January first, there shall be substituted, for the months specified in this subdivision, the months which correspond thereto.
+
+      (E) Short taxable year. This subdivision shall be applied to taxable years of less than twelve months in accordance with regulations prescribed by the tax commission.
+
+      (F) Joint estimated tax of husband and wife. A husband and wife may make the required annual payment determined under paragraph three of this subdivision as if they were one taxpayer, in which case the liability under paragraph one of this subdivision with respect to the estimated tax shall be joint and several. No such joint payment may be made if husband and wife are separated under a decree of divorce or separate maintenance, or if they have different taxable years. If a joint payment is made but husband and wife determine their taxes under this chapter separately, the estimated tax for such year may be treated as the estimated tax of either husband or wife, or may be divided between them, as they may elect.
+
+   (6) Trusts and certain estates.
+
+      (A) General. This subdivision shall apply to any trust or estate except as provided in subparagraphs (B) and (C) of this paragraph.
+
+      (B) Exception for estates and certain trusts. This subdivision shall not apply with respect to any taxable year ending before the date two years after the date of the decedent's death to (i) the estate of such decedent or (ii) any trust all of which was treated (under subpart E of part 1 of subchapter J of chapter one of the internal revenue code) as owned by the decedent and to which the residue of the decedent's estate will pass under his will (or, if no will is admitted to probate, which is the trust primarily responsible for paying debts, taxes and expenses of administration).
+
+      (C) Special rule for annualizations. In the case of any estate or trust, subparagraph (B) of paragraph four of this subdivision shall be applied by substituting "ending before the date one month before the due date for the installment" for "ending before the due date for the installment".
+
+      (D) In the case of a trust, the trustee may elect to treat any portion of a payment of estimated tax made by such trust for any taxable year of the trust as a payment made by a beneficiary of such trust. Any amount so treated shall be treated as paid or credited to the beneficiary on the last day of such taxable year, and for purposes of this subdivision, the amount so treated shall not be treated as a payment of estimated tax made by the trust, but shall be treated as a payment of estimated tax made by such beneficiary on the January fifteenth following the end of the trust's taxable year.
+
+      (E) An election under subparagraph (D) of this paragraph shall be made on or before the sixty-fifth day after the close of the taxable year and in such manner as the commissioner of taxation and finance may prescribe.
+
+      (F) Extension to last year of estate. In the case of a taxable year reasonably expected to be the last taxable year of an estate, any reference in subparagraph (D) of this paragraph to a trust shall be treated as including a reference to an estate, and the fiduciary of the estate shall be treated as the trustee.
+
+(d) Exceptions to addition to tax for failure to pay estimated income tax.
+
+   (1) Where tax is small amount. No addition to tax shall be imposed under subdivision (c) of this section for any taxable year if the tax shown on the return for such taxable year (or, if no return is filed, the tax), reduced by the credit allowable under section 11-1773, is less than three hundred dollars.
+
+   (2) Where no tax liability for preceding taxable year. No addition to tax shall be imposed under subdivision (c) of this section for any taxable year if the preceding taxable year was a taxable year of twelve months, the individual did not have any liability for tax under this chapter for the preceding taxable year and throughout the preceding taxable year the individual was a resident of this city or a nonresident who had city adjusted gross income.
+
+   (3) Installment due on or after individual's death. No addition to tax shall be imposed under subdivision (c) of this section with respect to any installment due on or after the individual's death.
+
+   (4) Waiver in certain cases.
+
+      (A) In general. No addition to tax shall be imposed under subdivision (c) of this section with respect to any underpayment to the extent the tax commission determines that by reason of casualty, disaster or other unusual circumstances the imposition of such addition to tax would be against equity and good conscience.
+
+      (B) Newly retired or disabled individuals. No addition to tax shall be imposed under subdivision (c) of this section with respect to any underpayment if the tax commission determines that in the taxable year for which estimated payments were required to be made or in the taxable year preceding such taxable year the taxpayer retired after having attained age sixty-two or became disabled, and that such underpayment was due to reasonable cause and not to willful neglect.
+
+(e) Deficiency due to fraud. 
+
+   (1) If any part of a deficiency is due to fraud, there shall be added to the tax an amount equal to fifty percent of the deficiency.
+
+   (2) There shall be added to the tax (in addition to the amount determined under paragraph one of this subdivision) an amount equal to fifty percent of the interest payable under section 11-1784 with respect to the portion of the underpayment described in such paragraph one which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+
+   (3) The addition to tax under this subdivision shall be in lieu of any other addition to tax imposed by subdivision (a) or (b) of this section.
+
+   (4) In the case of a joint return under section 11-1751, this subdivision shall not apply with respect to the tax of a spouse unless some part of the underpayment is due to the fraud of such spouse.
+
+(f) Non-willful failure to pay withholding tax. If any employer, without intent to evade or defeat any tax imposed by this chapter or the payment thereof, shall fail to make a return and pay a tax withheld by him or her at the time required by or under the provisions of section 11-1774, such employer shall be liable for such tax and shall pay the same together with interest thereon and the addition to tax provided in subdivision (a) of this section, and such interest and addition to tax shall not be charged to or collected from the employee by the employer. The tax commission shall have the same rights and powers for the collection of such tax, interest and addition to tax against such employer as are now prescribed by this chapter for the collection of tax against an individual taxpayer.
+
+(g) Willful failure to collect and pay over tax. Any person required to collect, truthfully account for, and pay over the tax imposed by this chapter who willfully fails to collect such tax or truthfully account for and pay over such tax or willfully attempts in any manner to evade or defeat the tax or the payment thereof, shall, in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No addition to tax under subdivision (b) or (e) of this section shall be imposed for any offense to which this subsection applies. The tax commission shall have the power, in its discretion, to waive, reduce or compromise any penalty under this subdivision.
+
+(h) Failure to file certain information returns. 
+
+   (1) Except as otherwise provided in this paragraph, in case of each failure to file a statement of a payment to another person, required under authority of subdivision (d) of section 11-1758 (relating to information at source, including the duplicate statement of tax withheld on wages) on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall, upon notice and demand by the tax commission and in the same manner as tax, be paid by the person so failing to file the statement, a penalty of fifty dollars for each statement not so filed, but the total amount imposed on the delinquent person for all such failures during any calendar year shall not exceed ten thousand dollars.
+
+   (2) If any partnership or S corporation required to file a return or report under subdivision (c) of section 11-1758 or under section 11-1759 for any taxable year fails to file such return or report at the time prescribed therefor (determined with regard to any extension of time for filing), or files a return or report which fails to show the information required under such subdivision (c) or section 11-1759, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall, upon notice and demand by the commissioner and in the same manner as tax, be paid by the partnership or S corporation a penalty for each month (or fraction thereof) during which such failure continues (but not to exceed five months). The amount of such penalty for any month is the product of fifty dollars, multiplied by the number of partners in the partnership or shareholders in the S corporation during any part of the taxable year who were subject to tax under this chapter during any part of such taxable year.
+
+   (3) [Repealed.]
+
+(i) Additional penalty. Any person who with fraudulent intent shall fail to pay, or to deduct or withhold and pay, any tax, or to make, render, sign or certify any return, or to supply any information within the time required by or under this chapter, shall be liable to penalty of not more than one thousand dollars, in addition to any other amounts required under this chapter, to be imposed, assessed and collected by the tax commission. The tax commission shall have the power, in its discretion, to waive, reduce or compromise any penalty under this subdivision.
+
+(j) Fraudulent statement or failure to furnish statement to employee. In addition to any criminal penalties provided by law, any person required under the provisions of section 11-1772 to furnish a statement to an employee, who willfully furnishes a false or fraudulent statement, or who willfully fails to furnish a statement in the manner, at the time, and showing the information required under section 11-1772, or regulations prescribed thereunder, shall for each such failure be subject to a penalty under this chapter of fifty dollars.
+
+(k) Failure to supply identifying numbers. If any person who is required by regulations prescribed under subdivision (b) of section 11-1758:
+
+   (1) to include his or her identifying number in any return, statement, or other document;
+
+   (2) to furnish his or her identifying number to another person; or
+
+   (3) to include in any return, statement or other document made with respect to another person the identifying number of such other person, fails to comply with such requirement at the time prescribed by such regulations, such person shall, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, pay a penalty of five dollars for each such failure described in paragraph one of this subdivision and fifty dollars for each such failure described in paragraph two of this subdivision, and this paragraph, except that the total amount imposed on such person for all such failures during any calendar year shall not exceed ten thousand dollars; except that for failure to include his or her own identification number in any return, statement or other document, such penalty shall not be imposed unless such person shall have failed to supply his or her identification number to the tax commission within thirty days after demand therefor.
+
+(l) Additions treated as tax. The additions to tax and penalties provided by this section shall be paid upon notice and demand and shall be assessed, collected and paid in the same manner as taxes, and any reference in this chapter to income tax or tax imposed by this chapter, shall be deemed also to refer to the additions to tax and penalties provided by this section. For purposes of section 11-1781, this subdivision shall not apply to:
+
+   (1) any addition to tax under subdivision (a) except as to that portion attributable to a deficiency;
+
+   (2) any addition to tax under subdivision (c);
+
+   (3) any penalty under subdivision (h) and any additional penalty under subdivision (i); and
+
+   (4) any penalties under subdivisions (j), (k), (q), (r), (s) and (t).
+
+(m) Determination of deficiency. For purposes of subdivisions (b) and (e) of this section, the amount shown as the tax by the taxpayer upon his or her return shall be taken into account in determining the amount of the deficiency only if such return was filed on or before the last day prescribed for the filing of such return, determined with regard to any extension of time for such filing.
+
+(n) Person defined. For purposes of subdivisions (g), (i), (o), (q) and (r) of this section, the term person includes an individual, corporation, partnership or limited liability company or an officer or employee of any corporation (including a dissolved corporation), or a member or employee of any partnership, or a member, manager or employee of a limited liability company, who as such officer, employee, manager or member is under a duty to perform the act in respect of which the violation occurs.
+
+(o) Failure to make deposits of taxes. In case of failure by any person required by this chapter, or by regulations of the tax commission under this chapter, to deposit on the date prescribed therefor any amount of tax imposed by this chapter in a depository authorized pursuant to subdivision (a) of section 11-1792 to receive such deposits, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be imposed on such person a penalty of five percent of the amount of the underpayment. For purposes of this subdivision the term "underpayment" means the excess of the amount of the tax required to be so deposited over the amount, if any, thereof, deposited on or before the date prescribed therefor.
+
+(p) Substantial understatement of liability. If there is a substantial understatement of income tax for any taxable year, there shall be added to the tax an amount equal to ten percent of the amount of any underpayment attributable to such understatement. For purposes of this subdivision, there is a substantial understatement of income tax for any taxable year if the amount of the understatement for the taxable year exceeds the greater of ten percent of the tax required to be shown on the return for the taxable year, or two thousand dollars. For purposes of the preceding sentence, the term "understatement" means the excess of the amount of the tax required to be shown on the return for the taxable year, over the amount of the tax imposed which is shown on the return reduced by any rebate (within the meaning of subdivision (g) of section 11-1781). The amount of such understatement shall be reduced by that portion of the understatement which is attributable to the tax treatment of any item by the taxpayer if there is or was substantial authority for such treatment, or any item with respect to which the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return. The tax commission may waive all or any part of the addition to tax provided by this subdivision on a showing by the taxpayer that there was reasonable cause for the understatement, or part thereof, and that the taxpayer acted in good faith.
+
+(q) Frivolous tax returns. If any individual files what purports to be a return of any tax imposed by this chapter but which does not contain information on which the substantial correctness of the self-assessment may be judged, or contains information that on its face indicates that the self-assessment is substantially incorrect; and such conduct is due to a position which is frivolous, or an intent (which appears on the purported return) to delay or impede the administration of this chapter, then such individual shall pay a penalty not exceeding five hundred dollars. This penalty shall be in addition to any other penalty provided by law.
+
+(r) Aiding or assisting in the giving of fraudulent returns, reports, statements or other documents. 
+
+   (1) Any person who, with the intent that tax be evaded, shall, for a fee or other compensation or as an incident to the performance of other services for which such person receives compensation, aid or assist in, or procure, counsel, or advise the preparation or presentation under, or in connection with any matter arising under this chapter of any return, report, declaration, statement or other document which is fraudulent or false as to any material matter, or supply any false or fraudulent information, whether or not such falsity or fraud is with the knowledge or consent of the person authorized or required to present such return, report, declaration, statement or other document shall pay a penalty not exceeding one thousand dollars.
+
+   (2) For purposes of paragraph one of this subdivision, the term "procures" includes ordering (or otherwise causing) a subordinate to do an act, and knowing of, and not attempting to prevent, participation by a subordinate in an act. The term "subordinate" means any other person (whether or not a director, officer, employee, or agent of the taxpayer involved) over whose activities the person has direction, supervision or control.
+
+   (3) For purposes of paragraph one of this subdivision, a person furnishing typing, reproducing, or other mechanical assistance with respect to a document shall not be treated as having aided or assisted in the preparation of such document by reason of such assistance.
+
+   (4) The penalty imposed by this subdivision shall be in addition to any other penalty provided by law.
+
+(s) False information with respect to withholding. In addition to any criminal penalty provided by law, if any individual makes a statement under section 11-1771 which results in a decrease in the amounts deducted and withheld under this chapter, and as of the time such statement was made, there was no reasonable basis for such statement, such individual shall pay a penalty of five hundred dollars for such statement. The tax commission shall waive the penalty imposed under this subdivision if the taxes imposed with respect to the individual under this chapter for the taxable year are equal to or less than the sum of the credits against such taxes allowed by this chapter, and the payments of estimated tax which are considered payments on account of such taxes.
+
+(t) Failure of tax return preparer to conform to certain requirements.
+
+   (1) Failure to sign return or claim for refund. Any individual who is a tax return preparer with respect to any return or claim for refund, who is required pursuant to paragraph one of subdivision (g) of section 11-1758 to sign such return or claim for refund, and who fails to comply with such requirement with respect to such return or claim for refund, shall be subject to a penalty of fifty dollars for each such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this paragraph on any person with respect to returns or claims for refund filed during any calendar year shall not exceed twenty-five thousand dollars.
+
+   (2) Failure to furnish identifying number. If any identifying number required to be included on any return or claim for refund pursuant to paragraph two of subdivision (g) of section 11-1758 is not so included, the person who is the tax return preparer with respect to such return or claim for refund shall be subject to a penalty of fifty dollars with respect to such return or claim for refund unless it is shown that such failure is due to reasonable cause and not willful neglect. For purposes of this paragraph, where an employer and one or more employees of such employer are tax return preparers with respect to the same return or claim for refund or where a partnership and one or more partners in such partnership are tax return preparers with respect to the same return or claim for refund, such employer or such partnership shall be deemed to be the sole tax return preparer with respect to such return or claim for refund. The maximum penalty imposed under this paragraph on any person with respect to returns or claims for refund filed during any calendar year shall not exceed twenty-five thousand dollars.
+
+   (3) Failure to furnish copy to taxpayer. Any person who is a tax return preparer with respect to any return or claim for refund, who is required under paragraph three of subdivision (g) of section 11-1758 to furnish a copy of such return or claim for refund to the taxpayer, and who fails to comply with such provision with respect to such return or claim for refund shall be subject to a penalty of fifty dollars for each such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this paragraph on any person with respect to returns or claims for refund filed during any calendar year shall not exceed twenty-five thousand dollars.
+
+   (4) Failure to retain copy or list. Any person who is a tax return preparer with respect to any return or claim for refund, who is required under paragraph four of subdivision (g) of section 11-1758 to: (i) retain a copy of such return or claim for refund or retain on a list the name and taxpayer identifying number of the taxpayer for whom such return or claim for refund was prepared and (ii) make such copy or list available for inspection upon request by the commissioner of taxation and finance, and who fails to comply with the retention requirement or who complies with the retention requirement but fails to comply with such request by the commissioner, shall be subject to a penalty of fifty dollars for each such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this paragraph on any person with respect to any calendar year shall not exceed twenty-five thousand dollars.
+
+   (5) Failure to electronically file. If a tax return preparer is required to file returns electronically pursuant to paragraph ten of subdivision (g) of section 11-1758, and such preparer fails to file one or more of such returns electronically, then such preparer shall be subject to a penalty of fifty dollars for each such failure to electronically file a return, unless it is shown that such failure is due to reasonable cause and not due to willful neglect.*
+
+* Editor's note: see 2011 N.Y. Laws ch. 61 for provisions regarding the effective date of this division (t)(5).
+
+
+
+
+
+
+*§ 11-1786 Overpayment.* ::
+
+
+(a) General. The state commissioner of taxation and finance, within the applicable period of limitations, may credit an overpayment of income tax and interest on such overpayment against any liability in respect of any tax imposed by this chapter or by chapter nineteen of this title on the person who made the overpayment or any other tax imposed on such person pursuant to the authority of the tax law or any other law if such tax is administered by the state commissioner of taxation and finance, against any liability in respect of any tax imposed on such person by the tax law and, as provided in sections one hundred seventy-one-c, one hundred seventy-one-d, one hundred seventy-one-e, one hundred seventy-one-f and one hundred seventy-one-l of the tax law, against past-due support, against a past-due legally enforceable debt, against a city of New York tax warrant judgment debt and against the amount of a default in repayment of a guaranteed student, state university or city university loan. The balance shall be refunded by the state comptroller out of the proceeds of the tax retained by him or her for such general purpose. Any refund under this section shall be made only upon the filing of a return and upon a certificate of the state commissioner of taxation and finance approved by the state comptroller. The state comptroller, as a condition precedent to the approval of such a certificate, may examine into the facts as disclosed by the return of the person who made the overpayment and other information and data available in the files of the state commissioner of taxation and finance.
+
+(b) Excessive withholding. If the amount allowable as a credit for tax withheld from the taxpayer exceeds his or her tax to which the credit relates, the excess shall be considered an overpayment.
+
+(c) Overpayment by employer. If there has been an overpayment of tax required to be deducted and withheld under section 11-1771, refund shall be made to the employer only to the extent that the amount of the overpayment was not deducted and withheld by the employer.
+
+(d) Overpayment by a deceased person. Notwithstanding section thirteen hundred ten of the surrogate's court procedure act, any overpayment by a decedent not in excess of one thousand dollars may be refunded to the decedent's surviving spouse unless the return for the decedent was filed by his or her executor or administrator.
+
+(e) Credits against estimated tax. The commissioner of taxation and finance may prescribe regulations providing for the crediting against the estimated income tax for any taxable year of the amount determined to be an overpayment of the income tax for a preceding taxable year. If any overpayment of income tax is so claimed as a credit against estimated tax for the succeeding taxable year, such amount shall be considered as a payment of the income tax for the succeeding taxable year, and no claim for credit or refund of such overpayment shall be allowed for the taxable year for which the overpayment arises, except upon request to the commissioner of taxation and finance on or before the last day prescribed for the filing of the return for the succeeding taxable year, determined with regard to any extension of time granted. If good cause is shown for reversing the credit, the commissioner of taxation and finance may, in his or her discretion, credit the overpayment against a liability or refund the overpayment without interest. Provided, the person who made the overpayment will not be relieved of liability for any penalty imposed for a consequent underpayment of estimated tax for the succeeding taxable year. The decision of the commissioner of taxation and finance to grant or deny the request is final and not subject to further administrative or judicial review.
+
+(f) Rule where no tax liability. If there is no tax liability for a period in respect of which an amount is paid as income tax, such amount shall be considered an overpayment.
+
+(g) Assessment and collection after limitation period. If any amount of income tax is assessed or collected after the expiration of the period of limitations properly applicable thereto, such amount shall be considered an overpayment.
+
+(h) Cross-reference. For provision barring application of article fifty-two of the civil practice law and rules to any amount to be refunded or credited to a taxpayer, see section seven of the tax law.
+
+
+
+
+
+
+*§ 11-1787 Limitations on credit or refund.* ::
+
+
+(a) General. Claim for credit or refund of an overpayment of income tax shall be filed by the taxpayer within three years from the time the return was filed or two years from the time the tax was paid, whichever of such periods expires the later, or if no return was filed, within two years from the time the tax was paid. If the claim is filed within the three year period, the amount of the credit or refund shall not exceed the portion of the tax paid within the three years immediately preceding the filing of the claim plus the period of any extension of time for filing the return. If the claim is not filed within the three year period, but is filed within the two year period, the amount of the credit or refund shall not exceed the portion of the tax paid during the two years immediately preceding the filing of the claim. Except as otherwise provided in this section, if no claim is filed, the amount of a credit or refund shall not exceed the amount which would be allowable if a claim had been filed on the date the credit or refund is allowed.
+
+(b) Extension of time by agreement. If an agreement under the provisions of paragraph two of subdivision (c) of section 11-1783 (extending the period for assessment of income tax) is made within the period prescribed in subdivision (a) of this section for the filing of a claim for credit or refund, the period for filing a claim for credit or refund, or for making credit or refund if no claim is filed, shall not expire prior to six months after the expiration of the period within which an assessment may be made pursuant to the agreement or any extension thereof. The amount of such credit or refund shall not exceed the portion of the tax paid after the execution of the agreement and before the filing of the claim or the making of the credit or refund, as the case may be, plus the portion of the tax paid within the period which would be applicable under subdivision (a) of this section if a claim had been filed on the date the agreement was executed.
+
+(c) Notice of federal change or correction. A claim for credit or refund of any overpayment of tax attributable to a federal change or correction required to be reported pursuant to section 11-1759 shall be filed by the taxpayer within two years from the time the notice of such change or correction or such amended return was required to be filed with the commissioner of taxation and finance. If the report or amended return required by section 11-1759 is not filed within the ninety day period therein specified, no interest shall be payable on any claim for credit or refund of the overpayment attributable to the federal change or correction. The amount of such credit or refund shall not exceed the amount of the reduction in tax attributable to such federal change, correction or items amended on the taxpayer's amended federal income tax return. This subdivision shall not affect the time within which or the amount for which a claim for credit or refund may be filed apart from this subdivision.
+
+(d) Overpayment attributable to net operating loss carryback. A claim for credit or refund of so much of an overpayment as is attributable to the application to the taxpayer of a net operating loss carryback shall be filed within three years from the time the return was due (including extensions thereof) for the taxable year of the loss, or within the period prescribed in subdivision (b) of this section in respect of such taxable year, or within the period prescribed in subdivision (c) of this section, where applicable, in respect of the taxable year to which the net operating loss is carried back, whichever expires the latest.
+
+(e) Failure to file claim within prescribed period. No credit or refund shall be allowed or made, except as provided in subdivision (f) of this section or subdivision (d) of section 11-1790, after the expiration of the applicable period of limitation specified in this chapter, unless a claim for credit or refund is filed by the taxpayer within such period. Any later credit shall be void and any later refund erroneous. No period of limitations specified in any other law shall apply to the recovery by a taxpayer of moneys paid in respect of taxes under this chapter.
+
+(f) Effect of petition to tax commission. If a notice of deficiency for a taxable year has been mailed to the taxpayer under section 11-1781 and if the taxpayer files a timely petition with the tax commission under section 11-1789, it may determine that the taxpayer has made an overpayment for such year (whether or not it also determines a deficiency for such a year). No separate claim for credit or refund for such year shall be filed, and no credit or refund for such year shall be allowed or made, except:
+
+   (1) as to overpayments determined by a decision of the tax commission which has become final; and
+
+   (2) as to any amount collected in excess of an amount computed in accordance with the decision of the tax commission which has become final; and
+
+   (3) as to any amount collected after the period of limitation upon the making of levy for collection has expired; and
+
+   (4) as to any amount claimed as a result of a change or correction described in subdivision (c) of this section.
+
+(g) Limit on amount of credit or refund. The amount of overpayment determined under subdivision (f) of this section shall, when the decision of the tax commission has become final, be credited or refunded in accordance with subdivision (a) of section 11-1786 and shall not exceed the amount of tax which the tax commission determines as part of its decision was paid:
+
+   (1) after the mailing of the notice of deficiency, or
+
+   (2) within the period which would be applicable under subdivision (a), (b) or (c) of this section, if on the date of the mailing of the notice of deficiency a claim had been filed (whether or not filed) stating the grounds upon which the tax commission finds that there is an overpayment.
+
+(h) Early return. For purposes of this section, any return filed before the last day prescribed for the filing thereof shall be considered as filed on such last day, determined without regard to any extension of time granted the taxpayer.
+
+(i) Prepaid income tax. For purposes of this section, any tax paid by the taxpayer before the last day prescribed for its payment, any income tax withheld from the taxpayer during any calendar year, and any amount paid by the taxpayer as estimated income tax for a taxable year shall be deemed to have been paid by him or her on the fifteenth day of the fourth month following the close of his or her taxable year with respect to which such amount constitutes a credit or payment.
+
+(j) Return and payment of withholding tax. Notwithstanding subdivision (h) of this section, for purposes of this section with respect to any withholding tax:
+
+   (1) if a return for any period ending with or within a calendar year is filed before April fifteenth of the succeeding calendar year, such return shall be considered filed on April fifteenth of such succeeding calendar year; and
+
+   (2) if a tax with respect to remuneration paid during any period ending with or within a calendar year is paid before April fifteenth of the succeeding calendar year, such tax shall be considered paid on April fifteenth of such succeeding calendar year.
+
+(k) Running of periods of limitation suspended while taxpayer is unable to manage financial affairs due to disability. 
+
+   (1) In the case of an individual taxpayer, the running of the periods specified in subdivisions (a), (b), and (c) of this section shall be suspended during any period of such individual's life that such individual is financially disabled. For purposes of this subdivision, an individual taxpayer is an individual who is subject to the tax imposed under this chapter.
+
+   (2) For purposes of paragraph one of this subdivision, an individual taxpayer is financially disabled if such individual is unable to manage his or her financial affairs by reason of a medically determinable physical or mental impairment of that individual which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months. An individual shall not be considered to have such impairment unless proof of the existence thereof is furnished in such form and manner as the commissioner of taxation and finance may require.
+
+   (3) An individual taxpayer shall not be treated as financially disabled during any period that such individual's spouse or any other person is authorized to act on behalf of such individual in financial matters.
+
+(l) Cross-reference. For provision barring refund of overpayment credited against tax of a succeeding year, except for good cause shown, see subdivision (e) of section 11-1786.
+
+
+
+
+
+
+*§ 11-1788 Interest on overpayment.* ::
+
+
+(a) General. Notwithstanding the provisions of section sixteen of the state finance law, interest shall be allowed and paid as follows at the overpayment rate set by the commissioner of taxation and finance pursuant to section 11-1797, or if no rate is set, at the rate of six percent per annum upon any overpayment in respect of the tax imposed by this chapter:
+
+   (1) from the date of the overpayment to the due date of an amount against which a credit is taken;
+
+   (2) from the date of the overpayment to a date (to be determined by the commissioner of taxation and finance) preceding the date of a refund check by not more than thirty days, whether or not such refund check is accepted by the taxpayer after tender of such check to the taxpayer. The acceptance of such check shall be without prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
+
+   (3) Late and amended returns and claims for credit or refund. Notwithstanding paragraph one or two of this subdivision, in the case of an overpayment claimed on a return of tax which is filed after the last date prescribed for filing such return (determined with regard to extensions), or claimed on an amended return of tax or claimed on a claim for credit or refund, no interest shall be allowed or paid for any day before the date on which such return or claim is filed.
+
+   (4) Interest on certain refunds. To the extent provided for in regulations promulgated by the commissioner of taxation and finance, if an item of income, gain, loss, deduction or credit is changed from the taxable year or period in which it is reported to the taxable year or period in which it belongs and the change results in an underpayment in a taxable year or period and an overpayment in some other taxable year or period, the provisions of paragraph three of this subdivision with respect to an overpayment shall not be applicable to the extent that the limitation in such paragraph on the right to interest would result in a taxpayer not being allowed interest for a length of time with respect to an overpayment while being required to pay interest on an equivalent amount of the related underpayment. However, this paragraph shall not be construed as limiting or mitigating the effect of any statute of limitations or any other provision of law relating to the authority of such commissioner to issue a notice of deficiency or to allow a credit or refund on an overpayment.
+
+   (5) Amounts of less than one dollar. No interest shall be allowed or paid if the amount thereof is less than one dollar.
+
+(b) Advance payment of tax, payment of estimated tax, and credit for income tax withholding. The provisions of subdivisions (h) and (i) of section 11-1787 applicable in determining the date of payment of tax for purposes of determining the period of limitations on credit or refund, shall be applicable in determining the date of payment for purposes of this section.
+
+(c) Income tax refund within forty-five days of claim for overpayment. If any overpayment of tax imposed by this chapter is credited or refunded within forty-five days after the last date prescribed (or permitted by extension of time) for filing the return of such tax on which such overpayment was claimed or within forty-five days after such return was filed, whichever is later, or within forty-five days after an amended return was filed claiming such overpayment or within forty-five days after a claim for credit or refund was filed on which such overpayment was claimed, or within six months after a demand is filed pursuant to paragraph six of subsection (b) of section six hundred fifty-one of the tax law, no interest shall be allowed under this section on any such overpayment. For purposes of this subdivision, any amended return or claim for credit or refund filed before the last day prescribed (or permitted by extension of time) for the filing of the return of tax for such year shall be considered as filed on such last day.
+
+(d) Refund of income tax caused by carryback. For purposes of this section, if any overpayment of tax imposed by this chapter results from a carryback of a net operating loss, such overpayment shall be deemed not to have been made prior to the filing date for the taxable year in which such net operating loss arises. Such filing date shall be determined without regard to extensions of time to file. For purposes of subdivision (c) of this section any overpayment described herein shall be treated as an overpayment for the loss year and such subdivision shall be applied with respect to such overpayment by treating the return for the loss year as not filed before claim for such overpayment is filed. The term "loss year" means the taxable year in which such loss arises.
+
+(e) No interest until return in processible form.
+
+   (1) For purposes of subdivisions (a) and (c) of this section, a return shall not be treated as filed until it is filed in processible form.
+
+   (2) For purposes of paragraph one of this subdivision, a return is in a processible form if:
+
+      (A) such return is filed on a permitted form, and
+
+      (B) such return contains:
+
+         (i) the taxpayer's name, address, and identifying number and the required signatures, and
+
+         (ii) sufficient required information (whether on the return or on required attachments) to permit the mathematical verification of tax liability shown on the return.
+
+(f) Overpayment credited against past-due support, or against a past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or defaulted guaranteed student, state university or city university loans. If interest is payable pursuant to this section on that portion of an overpayment of tax imposed by this chapter which is certified by the state commissioner of taxation and finance to the state comptroller as the amount to be credited against past-due support, or against a past-due legally enforceable debt, or a city of New York tax warrant judgment debt, or the amount of a default in repayment of a guaranteed student, state university or city university loan, as the case may be, pursuant to the provisions of section one hundred seventy-one-c, section one hundred seventy-one-d, section one hundred seventy-one-e, one hundred seventy-one-f or one hundred seventy-one-l of the tax law, such portion of such an overpayment shall cease to bear interest on the date of such certification.
+
+(g) Cross-reference. For provision with respect to interest after failure to file notice of federal change under section 11-1759, see subdivision (c) of section 11-1787.
+
+
+
+
+
+
+*§ 11-1789 Petition to tax commission.* ::
+
+
+(a) General. The form of a petition to the tax commission, and further proceedings before the tax commission in any case initiated by the filing of a petition, shall be governed by such rules as the tax commission shall prescribe. No petition shall be denied in whole or in part without opportunity for a hearing on reasonable prior notice. Such hearing shall be conducted by one or more members of the tax commission, or by a hearing officer designated by the tax commission to take evidence and report to the tax commission. The tax commissioners shall, acting as a body, jointly decide the case as quickly as practicable. Notice of the decision shall be mailed promptly to the taxpayer by certified or registered mail at his or her last known address, and such notice shall set forth the tax commission's findings of fact and a brief statement of the grounds of decision in each case decided in whole or in part adversely to the taxpayer.
+
+(b) Petition for redetermination of a deficiency. Within ninety days, or one hundred fifty days if the notice is addressed to a person outside of the United States, after the mailing of the notice of deficiency authorized by section 11-1781, the taxpayer may file a petition with the tax commission for a redetermination of the deficiency. Such petition may also assert a claim for refund for the same taxable year or years, subject to the limitations of subdivision (g) of section 11-1787.
+
+(c) Petition for refund. A taxpayer may file a petition with the tax commission for the amounts asserted in a claim for refund if:
+
+   (1) the taxpayer has filed a timely claim for refund with the tax commission,
+
+   (2) the taxpayer has not previously filed with the tax commission a timely petition under subdivision (b) of this section for the same taxable year unless the petition under this subdivision relates to a separate claim for credit or refund properly filed under subdivision (f) of section 11-1787, and
+
+   (3) either: (A) six months have expired since the claim was filed, or (B) the tax commission has mailed to the taxpayer, by registered or certified mail, a notice of disallowance of such claim in whole or in part. No petition under this subdivision shall be filed more than two years after the date of mailing of a notice of disallowance, unless prior to the expiration of such two year period it has been extended by written agreement between the taxpayer and the tax commission. If a taxpayer files a written waiver of the requirement that he or she be mailed a notice of disallowance, the two year period prescribed by this subdivision for filing a petition for refund shall begin on the date such waiver is filed.
+
+(d) Assertion of deficiency after filing petition.
+
+   (1) Petition for redetermination of deficiency. If a taxpayer files with the tax commission, a petition for redetermination of a deficiency, the tax commission shall have power to determine a greater deficiency than asserted in the notice of deficiency and to determine if there should be assessed any addition to tax or penalty provided in section 11-1785, if claim therefor is asserted at or before the hearing under rules of the tax commission.
+
+   (2) Petition for refund. If the taxpayer files with the tax commission a petition for credit or refund for a taxable year, the tax commission may:
+
+      (A) determine a deficiency for such year as to any amount of deficiency asserted at or before the hearing under rules of the tax commission, and within the period in which an assessment would be timely under section 11-1783, or
+
+      (B) deny so much of the amount for which credit or refund is sought in the petition, as is offset by other issues pertaining to the same taxable year which are asserted at or before the hearing under rules of the tax commission.
+
+   (3) Opportunity to respond. A taxpayer shall be given a reasonable opportunity to respond to any matters asserted by the tax commission under this subdivision.
+
+   (4) Restriction on further notices of deficiency. If the taxpayer files a petition with the tax commission under this section, no notice of deficiency under section 11-1781 may thereafter be issued by the tax commission for the same taxable year, except in case of fraud or with respect to a change or correction required to be reported under section 11-1759.
+
+(e) Burden of proof. In any case before the tax commission under this chapter, the burden of proof shall be upon the petitioner except for the following issues, as to which the burden of proof shall be upon the tax commission:
+
+   (1) whether the petitioner has been guilty of fraud with intent to evade tax;
+
+   (2) whether the petitioner is liable as the transferee of property of a taxpayer, but not to show that the taxpayer was liable for the tax;
+
+   (3) whether the petitioner is liable for any increase in a deficiency where such increase is asserted initially after a notice of deficiency was mailed and a petition under this section filed, unless such increase in deficiency is the result of a change or correction required to be reported under section 11-1759, and of which change or correction the tax commission had no notice at the time it mailed the notice of deficiency; and
+
+   (4) whether any person is liable for a penalty under subdivision (q) or (r) of section 11-1785.
+
+(f) Evidence of related federal determination. Evidence of a federal determination relating to issues raised in a case before the tax commission under this section shall be admissible, under rules established by the tax commission.
+
+(g) Jurisdiction over other years. The tax commission shall consider such facts with relation to the taxes for other years as may be necessary correctly to determine the tax for the taxable year, but in so doing shall have no jurisdiction to determine whether or not the tax for any other year has been overpaid or underpaid.
+
+
+
+
+
+
+*§ 11-1790 Review of tax commission decision.* ::
+
+
+(a) General. A decision of the tax commission shall be subject to judicial review at the instance of any taxpayer effected thereby in the manner provided by law for the review of a final decision or action of administrative agencies of the state. An application by a taxpayer for such review must be made within four months after notice of the decision is sent by certified or registered mail to the taxpayer.
+
+(b) Judicial review exclusive remedy of taxpayer. The review of a decision of the tax commission provided by this section shall be the exclusive remedy available to any taxpayer for the judicial determination of the liability of the taxpayer for the taxes imposed by this chapter.
+
+(c) Assessment pending review; review bond. Irrespective of any restrictions on the assessment and collection of deficiencies, the tax commission may assess a deficiency after the expiration of the period specified in subdivision (a) of this section, notwithstanding that an application for judicial review in respect of such deficiency has been duly made by the taxpayer, unless the taxpayer, at or before the time his or her application for review is made, has paid the deficiency, has deposited with the tax commission the amount of the deficiency, or has filed with the tax commission a bond (which may be a jeopardy bond under subdivision (h) of section 11-1794) in the amount of the portion of the deficiency (including interest and other amounts) in respect of which the application for review is made and all costs and charges which may accrue against him or her in the prosecution of the proceeding, including costs of all appeals, and with surety approved by a justice of the supreme court of the state of New York, conditioned upon the payment of the deficiency (including interest and other amounts) as finally determined and such costs and charges. If as a result of a waiver of the restrictions on the assessment and collection of a deficiency any part of the amount determined by the tax commission is paid after the filing of the review bond, such bond shall, at the request of the taxpayer, be proportionately reduced.
+
+(d) Credit, refund or abatement after review. If the amount of a deficiency determined by the tax commission is disallowed in whole or in part by the court of review, the amount so disallowed shall be credited or refunded to the taxpayer, without the making of claim therefor, or, if payment has not been made, shall be abated.
+
+(e) Date of finality of tax commission decision. A decision of the tax commission shall become final upon the expiration of the period specified in subdivision (a) of this section for making an application for review, if no such application has been duly made within such time, or if such application has been duly made, upon expiration of the time for all further judicial review, or upon the rendering by the tax commission of a decision in accordance with the mandate of the court on review. Notwithstanding the foregoing, for the purpose of making an application for review, the decision of the tax commission shall be deemed final on the date the notice of decision is sent by certified or registered mail to the taxpayer.
+
+
+
+
+
+
+*§ 11-1791 Mailing rules; holidays; miscellaneous.* ::
+
+
+(a) (1) Timely mailing. If any return, claim, statement, notice, petition, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of this chapter is, after such period or such date, delivered by United States mail to the tax commission, bureau, office, officer or person with which or with whom such document is required to be filed, or to which or to whom such payment is required to be made, the date of the United States postmark stamped on the envelope shall be deemed to be the date of delivery. This subdivision shall apply only if the postmark date falls within the prescribed period or on or before the prescribed date for the filing of such document, or for making the payment, including any extension granted for such filing or payment, and only if such document or payment was deposited in the mail, postage prepaid, properly addressed to the tax commission, bureau, office, officer or person with which or with whom the document is required to be filed or to which or to whom such payment is required to be made. If any document or payment is sent by United States registered mail, such registration shall be prima facie evidence that such document or payment was delivered to the tax commission, bureau, office, officer or person to which or to whom addressed. To the extent that the tax commission shall prescribe by regulation, certified mail may be used in lieu of registered mail under this section. This subdivision shall apply in the case of postmarks not made by the United States post office only if and to the extent provided by regulations of the tax commission.
+
+   (2) (A) Any reference in paragraph one of this subdivision to the United States mail shall be treated as including a reference to any delivery service designated by the secretary of the treasury of the United States pursuant to section seventy-five hundred two of the Internal Revenue Code and any reference in paragraph one of this subdivision to a postmark by the United States mail shall be treated as including a reference to any date recorded or marked in the manner described in section seventy-five hundred two of the Internal Revenue Code by a designated delivery service. If the commissioner of taxation and finance finds that any delivery service designated by such secretary is inadequate for the needs of the state, such commissioner may withdraw such designation for purposes of this article. Such commissioner may also designate additional delivery services meeting the criteria of section seventy-five hundred two of the Internal Revenue Code for purposes of this article, or may withdraw any such designation if such commissioner finds that a delivery service so designated is inadequate for the needs of the state. Any reference in paragraph one of this subdivision to the United States mail shall be treated as including a reference to any delivery service designated by such commissioner and any reference in paragraph one of this subdivision to a postmark by the United States mail shall be treated as including a reference to any date recorded or marked in the manner described in section seventy-five hundred two of the Internal Revenue Code by a delivery service designated by the commissioner.
+
+      (B) Any equivalent of registered or certified mail designated by the United States secretary of the treasury, or as may be designated by the commissioner of taxation and finance pursuant to the same criteria used by the secretary for such designation pursuant to section seventy-five hundred two of the Internal Revenue Code, shall be included within the meaning of registered or certified mail as used in paragraph one of this subdivision. If such commissioner finds that any equivalent of registered or certified mail designated by such secretary or such commissioner is inadequate for the needs of the state, such commissioner may withdraw such designation for purposes of this article.
+
+(b) Last known address. For purposes of this chapter, a taxpayer's last known address shall be the address given in the last return filed by such taxpayer, unless subsequent to the filing of such return the taxpayer shall have notified the tax commission of a change of address.
+
+(c) Last day a Saturday, Sunday or legal holiday. When the last day prescribed under authority of this chapter (including any extension of time) for performing any act falls on Saturday, Sunday, or a legal holiday in the state of New York, the performance of such act shall be considered timely if it is performed on the next succeeding day which is not a Saturday, Sunday or a legal holiday.
+
+(d) Certificate; unfiled return. For purposes of this chapter, the certificate of the tax commission to the effect that a tax has not been paid, that a return has not been filed, or that information has not been supplied, as required by or under the provisions of this chapter, shall be prima facie evidence that such tax has not been paid, that such return has not been filed, or that such information has not been supplied.
+
+(e) Attorney general; jurisdiction. The attorney general shall have concurrent jurisdiction with any district attorney in the prosecution of any offenses arising under article thirty-seven of the tax law with respect to the tax imposed under this chapter.
+
+
+
+
+
+
+*§ 11-1792 Collection, levy and liens.* ::
+
+
+(a) Collection procedures. The taxes imposed by this chapter shall be collected by the tax commission, and it may establish the mode or time for the collection of any amount due it under this chapter if not otherwise specified. The tax commission shall, upon request, give a receipt for any sum collected under this chapter. The tax commission may authorize banks or trust companies which are depositaries or financial agents of the state to receive and give a receipt for any tax imposed under this chapter in such manner, at such times, and under such conditions as the tax commission may prescribe; and the tax commission shall prescribe the manner, times and conditions under which the receipt of such tax by such banks and trust companies is to be treated as payment of such tax to the tax commission.
+
+(b) Notice and demand for tax. The tax commission shall as soon as practicable give notice to each person liable for any amount of tax, addition to tax, penalty or interest, which has been assessed but remains unpaid, stating the amount and demanding payment thereof. Such notice shall be left at the dwelling or usual place of business of such person or shall be sent by mail to such person's last known address. Except where the tax commission determines that collection would be jeopardized by delay, if any tax is assessed prior to the last date (including any date fixed by extension) prescribed for payment of such tax, payment of such tax shall not be demanded until after such date.
+
+(c) Issuance of warrant after notice and demand. If any person liable under this chapter for the payment of any tax, addition to tax, penalty or interest neglects or refuses to pay the same within twenty-one calendar days after notice and demand therefor is given to such person under subdivision (b) of this section (ten business days if the amount for which such notice and demand is made equals or exceeds one hundred thousand dollars), the commissioner of taxation and finance may within six years after the date of such assessment issue a warrant under such commissioner's official seal directed to the sheriff of any county of the state, or to any officer or employee of the department of taxation and finance, commanding him or her to levy upon and sell such person's real and personal property for the payment of the amount assessed, with the cost of executing the warrant, and to return such warrant to such commissioner and pay to him or her the money collected by virtue thereof within sixty days after the receipt of the warrant. If such commissioner finds that the collection of the tax or other amount is in jeopardy, notice and demand for immediate payment of such tax may be made by such commissioner and upon failure or refusal to pay such tax or other amount such commissioner may issue a warrant without regard to the twenty-one day period (or ten-day period if applicable) provided in this subdivision.
+
+(d) Copy of warrant to be filed and lien to be created. Any sheriff or officer or employee who receives a warrant under subdivision (c) of this section shall within five days thereafter file a copy with the clerk of the appropriate county. The clerk shall thereupon enter in the judgment docket, in the column for judgment debtors, the name of the taxpayer mentioned in the warrant, and in appropriate columns the tax or other amounts for which the warrant is issued and the date when such copy is filed; and such amount shall thereupon be a lien upon the title to and interest in real, personal and other property of the taxpayer. Such lien shall not apply to personal property unless such warrant is filed in the department of state.
+
+(e) Judgment. When a warrant has been filed with the county clerk the tax commission shall, in the right of the city, be deemed to have obtained judgment against the taxpayer for the tax or other amounts.
+
+(f) Execution. The sheriff or officer or employee shall thereupon proceed upon the warrant in all respects, with like effect, and in the same manner prescribed by law in respect to executions issued against property upon judgments of a court of record, and a sheriff shall be entitled to the same fees for his or her services in executing the warrant, to be collected in the same manner. An officer or employee of the department of taxation and finance may proceed in any county or counties of this state and shall have all the powers of execution conferred by law upon sheriffs, but shall be entitled to no fee or compensation in excess of actual expenses paid in connection with the execution of the warrant.
+
+(g) Taxpayer not a resident. Where a notice and demand under subdivision (b) of this section shall have been given to a taxpayer who is not then a resident, and it appears to the tax commission that it is not practicable to find in this state property of the taxpayer sufficient to pay the entire balance of tax or other amount owing by such taxpayer who is not then a resident, the tax commission may, in accordance with subdivision (c) of this section, issue a warrant directed to an officer or employee of the department of taxation and finance, a copy of which warrant shall be mailed by certified or registered mail to the taxpayer at his or her last known address, subject to the rules for mailing provided in subdivision (a) of section 11-1781. Such warrant shall command the officer or employee to proceed in Albany county, and he or she shall, within five days after receipt of the warrant, file the warrant and obtain a judgment in accordance with this section. Thereupon the tax commission may authorize the institution of any action or proceeding to collect or enforce the judgment in any place and by any procedure that a civil judgment of the supreme court of the state of New York could be collected or enforced. The tax commission may also, in its discretion, designate agents or retain counsel for the purpose of collecting, outside the state of New York, any unpaid taxes, additions to tax, penalties or interest which have been assessed under this chapter against taxpayers who are not residents of this state, may fix the compensation of such agents and counsel to be paid out of money appropriated or otherwise lawfully available for payment thereof, and may require of them bonds or other security for the faithful performance of their duties, in such form and in such amount as the tax commission shall deem proper and sufficient.
+
+(h) Action by state for recovery of taxes. Action may be brought by the attorney general at the instance of the tax commission in the name of the city or both to recover the amount of any unpaid taxes, additions to tax, penalties or interest which have been assessed under this chapter within six years prior to the date the action is commenced.
+
+(i) Release of lien. The tax commission, if it finds that the interests of the city will not thereby be jeopardized, and upon such conditions as it may require, may release any property from the lien of any warrant for unpaid taxes, additions to tax, penalties and interest filed pursuant to this section, and such release may be recorded in the office of any recording officer in which such warrant has been filed.
+
+
+
+
+
+
+*§ 11-1793 Transferees.* ::
+
+
+(a) General. The liability, at law or in equity, of a transferee of property of a taxpayer for any tax, additions to tax, penalty or interest due under this chapter, shall be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the tax to which the liability relates, except that the period of limitations for assessment against the transferee shall be extended by one year for each successive transfer, in order, from the original taxpayer to the transferee involved, but not by more than three years in the aggregate. The term transferee includes donee, heir, legatee, devisee and distributee.
+
+(b) Exceptions.
+
+   (1) If before the expiration of the period of limitations for assessment of liability of the transferee, a claim has been filed by the tax commission in any court against the original taxpayer or the last preceding transferee based upon the liability of the original taxpayer, then the period of limitation for assessment of liability of the transferee shall in no event expire prior to one year after such claim has been finally allowed, disallowed or otherwise disposed of.
+
+   (2) If, before the expiration of the time prescribed in subdivision (a) or the immediately preceding paragraph of this subdivision for the assessment of the liability, the tax commission and the transferee have both consented in writing to its assessment after such time, the liability may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon. For the purpose of determining the period of limitation on credit or refund to the transferee of overpayments of tax made by such transferee or overpayments of tax made by the transferor as to which the transferee is legally entitled to credit or refund, such agreement and any extension thereof shall be deemed an agreement and extension thereof referred to in subdivision (b) of section 11-1787. If the agreement is executed after the expiration of the period of limitation for assessment against the original taxpayer, then in applying the limitations under subdivision (b) of section 11-1787 on the amount of the credit or refund, the periods specified in subdivision (a) of section 11-1787 shall be increased by the period from the date of such expiration to the date of the agreement.
+
+(c) Deceased transferor. If any person is deceased, the period of limitation for assessment against such person shall be the period that would be in effect if he or she had lived.
+
+(d) Evidence. Notwithstanding the provisions of subdivision (e) of section 11-1797 the tax commission shall use its powers to make available to the transferee evidence necessary to enable the transferee to determine the liability of the original taxpayer and of any preceding transferees, but without undue hardship to the original taxpayer or preceding transferee. See subdivision (e) of section 11-1789 for rule as to burden of proof.
+
+
+
+
+
+
+*§ 11-1794 Jeopardy assessment.* ::
+
+
+(a) Authority for making. If the tax commission believes that the assessment or collection of a deficiency will be jeopardized by delay, it shall, notwithstanding the provisions of sections 11-1781 and 11-1796, immediately assess such deficiency (together with all interest, penalties and additions to tax provided for by law), and notice and demand shall be made by the tax commission for the payment thereof.
+
+(b) Notice of deficiency. If the jeopardy assessment is made before any notice in respect of the tax to which the jeopardy assessment relates has been mailed under section 11-1781, then the tax commission shall mail a notice under such section within sixty days after the making of the assessment.
+
+(c) Amount assessable before decision of tax commission. The jeopardy assessment may be made in respect of a deficiency greater or less than that of which notice is mailed to the taxpayer and whether or not the taxpayer has theretofore filed a petition with the tax commission. The tax commission may, at any time before rendering its decision, abate such assessment, or any unpaid portion thereof, to the extent that it believes the assessment to be excessive in amount. The tax commission may in its decision redetermine the entire amount of the deficiency and of all amounts assessed at the same time in connection therewith.
+
+(d) Amount assessable after decision of tax commission. If the jeopardy assessment is made after the decision of the tax commission is rendered, such assessment may be made only in respect of the deficiency determined by the tax commission in its decision.
+
+(e) Expiration of right to assess. A jeopardy assessment may not be made after the decision of the tax commission has become final or after the taxpayer has made an application for review of the decision of the tax commission.
+
+(f) Collection of unpaid amounts. When a petition has been filed with the tax commission and when the amount which should have been assessed has been determined by a decision of the tax commission which has become final, then any unpaid portion, the collection of which has been stayed by bond, shall be collected as part of the tax upon notice and demand from the tax commission, and any remaining portion of the assessment shall be abated. If the amount already collected exceeds the amount determined as the amount which should have been assessed, such excess shall be credited or refunded to the taxpayer as provided in section 11-1786 without the filing of claim therefor. If the amount determined as the amount which should have been assessed is greater than the amount actually assessed, then the difference shall be assessed and shall be collected as part of the tax upon notice and demand from the tax commission.
+
+(g) Abatement if jeopardy does not exist. The tax commission may abate the jeopardy assessment if it finds that jeopardy does not exist. Such abatement may not be made after a decision of the tax commission in respect of the deficiency has been rendered or, if no petition is filed with the tax commission, after the expiration of the period for filing such petition. The period of limitation on the making of assessments and levy or a proceeding for collection, in respect of any deficiency, shall be determined as if the jeopardy assessment so abated had not been made, except that the running of such period shall in any event be suspended for the period from the date of such jeopardy assessment until the expiration of the tenth day after the day on which such jeopardy assessment is abated.
+
+(h) Bond to stay collection. The collection of the whole or any amount of any jeopardy assessment may be stayed by filing with the tax commission, within such time as may be fixed by regulation, a bond in an amount equal to the amount as to which the stay is desired, conditioned upon the payment of the amount (together with interest thereon) the collection of which is stayed at the time at which, but for the making of the jeopardy assessment, such amount would be due. Upon the filing of the bond the collection of so much of the amount assessed as is covered by the bond shall be stayed. The taxpayer shall have the right to waive such stay at any time in respect of the whole or any part of the amount covered by the bond, and if as a result of such waiver any part of the amount covered by the bond is paid, then the bond shall at the request of the taxpayer, be proportionately reduced. If any portion of the jeopardy assessment is abated, or if a notice of deficiency under section 11-1781 is mailed to the taxpayer in a lesser amount, the bond shall, at the request of the taxpayer, be proportionately reduced.
+
+(i) Petition to tax commission. If the bond is given before the taxpayer has filed his or her petition under section 11-1789, the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, the collection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this subdivision. The bond shall be conditioned upon the payment of so much of such assessment (collection of which is stayed by the bond) as is not abated by a decision of the tax commission which has become final. If the tax commission determines that the amount assessed is greater than the amount which should have been assessed, then the bond shall, at the request of the taxpayer, be proportionately reduced when the decision of the tax commission is rendered.
+
+(j) Stay of sale of seized property pending tax commission decision. Where a jeopardy assessment is made, the property seized for the collection of the tax shall not be sold:
+
+   (1) if subdivision (b) of this section is applicable, prior to the issuance of the notice of deficiency and the expiration of the time provided in section 11-1789 for filing a petition with the tax commission, and
+
+   (2) if a petition is filed with the tax commission (whether before or after the making of such jeopardy assessment), prior to the expiration of the period during which the assessment of the deficiency would be prohibited if subdivision (a) of this section were not applicable. Such property may be sold if the taxpayer consents to the sale, or if the tax commission determines that the expenses of conservation and maintenance will greatly reduce the net proceeds, or if the property is perishable.
+
+(k) Interest. For the purpose of subdivision (a) of section 11-1784, the last date prescribed for payment shall be determined without regard to any notice and demand for payment issued under this section prior to the last date otherwise prescribed for such payment.
+
+(l) Early termination of taxable year. If the tax commission finds that a taxpayer designs quickly to depart from this state or to remove his or her property therefrom, or to conceal himself or herself or his or her property therein, or to do any other act tending to prejudice or to render wholly or partly ineffectual proceedings to collect the city personal income tax for the current or the preceding taxable year unless such proceedings be brought without delay, the tax commission shall declare the taxable period for such taxpayer immediately terminated, and shall cause notice of such finding and declaration to be given the taxpayer, together with a demand for immediate payment of the tax for the taxable period so declared terminated and of the tax for the preceding taxable year or so much of such tax as is unpaid, whether or not the time otherwise allowed by law for filing return and paying the tax has expired; and such taxes shall thereupon become immediately due and payable. In any proceeding brought to enforce payment of taxes made due and payable by virtue of the provisions of this subdivision, the finding of the tax commission made as herein provided, whether made after notice to the taxpayer or not, shall be for all purposes presumptive evidence of jeopardy.
+
+(m) Reopening of taxable period. Notwithstanding the termination of the taxable period of the taxpayer by the tax commission, as provided in subdivision (1), the tax commission may reopen such taxable period each time the taxpayer is found by the tax commission to have received income, within the current taxable year, since the termination of such period. A taxable period so terminated by the tax commission may be reopened by the taxpayer if he or she files with the tax commission a true and accurate return of taxable income and credits allowed under this chapter for such taxable period, together with such other information as the tax commission may by regulations prescribe.
+
+(n) Furnishing of bond where taxable year is closed by the tax commission. Payment of taxes shall not be enforced by any proceedings under the provisions of subdivision (1) of this section prior to the expiration of the time otherwise allowed for paying such taxes if the taxpayer furnishes, under regulations prescribed by the tax commission, a bond to insure the timely making of returns with respect to, and payment of, such taxes or any city personal income taxes for prior years.
+
+
+
+
+
+
+*§ 11-1795 Criminal penalties; cross-reference.* ::
+
+
+For criminal penalties, see article thirty-seven of the tax law.
+
+
+
+
+
+
+*§ 11-1796 Income taxes of members of armed forces and victims of certain terrorist attacks.* ::
+
+
+(a) Time to be disregarded. In the case of an individual serving in the armed forces of the United States, or serving in support of such armed forces, in an area designated by the president of the United States by executive order as a "combat zone" at any time during the period designated by the president by executive order as the period of combatant activities in such zone, or hospitalized inside or outside the state as a result of injury received while serving in such an area during such time, the period of service in such area, plus the period of continuous hospitalization inside or outside the state attributable to such injury, and the next one hundred eighty days thereafter, shall be disregarded in determining, under this chapter, in respect of the city personal income tax liability (including any interest, penalty, or addition to the tax) of such individual:
+
+   (1) Whether any of the following acts was performed within the time prescribed therefor:
+
+      (A) filing any return of income tax (except withholding tax);
+
+      (B) payment of any income tax (except withholding tax) or any installment thereof or of any other liability in respect thereof;
+
+      (C) filing a petition with the tax commission for credit or refund or for redetermination of a deficiency, or application for review of a decision rendered by the tax commission;
+
+      (D) allowance of a credit or refund of city personal income tax; (E) filing a claim for credit or refund of city personal income tax;
+
+      (F) assessment of city personal income tax;
+
+      (G) giving or making any notice or demand for the payment of any city personal income tax, or with respect to any liability to the city in respect of such income tax;
+
+      (H) collection, by the tax commission, by levy or otherwise of the amount of any liability in respect of such income tax;
+
+      (I) bringing suit by the city, the state, or any officer, on their behalf, in respect of any liability in respect of such income tax; and
+
+      (J) any other act required or permitted under this chapter or specified in regulations prescribed under this section by the tax commission.
+
+   (2) The amount of any credit or refund.
+
+(b) Special rule for overpayments. 
+
+   (1) Subdivision (a) of this section shall not apply for purposes of determining the amount of interest on any overpayment of tax.
+
+   (2) If an individual is entitled to the benefits of subdivision (a) of this section with respect to any return, amended return, or claim for credit or refund, and such return, amended return or claim is timely filed (determined after the application of such subdivision), paragraph three of subdivision (a) and subdivision (c) of section 11-1788 of this title shall not apply.
+
+(c) Action taken before ascertainment of right to benefits. The assessment or collection of the tax imposed by this chapter or of any liability in respect of such tax, or any action or proceeding by or on behalf of the city in connection therewith, may be made, taken, begun, or prosecuted in accordance with law, without regard to the provisions of subdivision (a) of this section, unless prior to such assessment, collection, action, or proceeding it is ascertained that the person concerned is entitled to the benefits of subdivision (a) of this section.
+
+(d) Members of armed forces dying in action. In the case of any person who dies while in active service as a member of the armed forces of the United States, if such death occurred while serving in a combat zone during a period of combatant activities in such zone, as described in subdivision (a) of this section, or as a result of wounds, disease or injury incurred while so serving, the tax imposed by this chapter shall not apply with respect to the taxable year in which falls the date of his or her death, or with respect to any prior taxable year ending on or after the first day so served in a combat zone, and no returns shall be required in behalf of such person or his or her estate for such year; and the tax for any such taxable year which is unpaid at the date of death, including interest, additions to tax and penalties, if any, shall not be assessed and, if assessed, the assessment shall be abated and, if collected, shall be refunded to the legal representative of such estate if one has been appointed and has qualified, or, if no legal representative has been appointed or has qualified, to the surviving spouse.
+
+(e) Treatment of individuals performing Desert Shield services. 
+
+   (1) Any individual who performed Desert Shield services shall be entitled to the benefits of subdivisions (a) and (b) of this section in the same manner as if such services were services referred to in subdivision (a) of this section.
+
+   (2) For purposes of this subdivision, the term "Desert Shield services" means any services in the armed forces of the United States or in support of such armed forces if
+
+      (A) such services are performed in the area designated by the president of the United States as the "Persian Gulf Desert Shield area", and
+
+      (B) such services are performed during the period beginning on August second, nineteen hundred ninety, and ending on the date on which any portion of the area referred to in subparagraph (A) of this paragraph is designated by the president as a combat zone pursuant to section one hundred twelve of the internal revenue code.
+
+(f) Relief for personnel under hostile fire. For purposes of this section, members of the armed forces of the United States who perform military service in an area outside an area designated by the president of the United States by executive order as a "combat zone", which service is in direct support of military operations in such zone and is performed under conditions which qualify such members for hostile fire pay, as authorized under subdivision (a) of section nine of the federal uniformed services pay act of nineteen hundred sixty-three, shall, during the period of such qualifying service, be deemed to have served in such combat zone.
+
+(g) Application to spouse. The provisions of subdivisions (a), (b), (c), (e) and (f) of this section shall apply to the spouse of any individual entitled to the benefits of subdivision (a) of this section; provided, however, that such subdivisions shall not apply for any spouse for any taxable year beginning more than two years after the date designated under section one hundred twelve of the internal revenue code as the date of termination of combatant activities in a combat zone.
+
+(h) Individuals dying as a result of certain attacks.
+
+   (1) General. In the case of a specified terrorist victim, any tax imposed by this chapter shall not apply:
+
+      (A) with respect to the taxable year in which falls the date of death; and
+
+      (B) with respect to any prior taxable year in the period beginning with the last taxable year ending before the taxable year in which the wounds or injury referred to in paragraph three of this subdivision were incurred.
+
+   (2) Taxation of certain benefits. Paragraph one of this subdivision shall not apply to the amount of any tax imposed by this chapter which would be computed by only taking into account the items of income, gain, or other amounts determined by the United States secretary of the treasury to be taxable pursuant to paragraph 692(d)(3) of the internal revenue code.
+
+   (3) Specified terrorist victim. For purposes of this subdivision, the term "specified terrorist victim" means any decedent who dies as a result of wounds or injury incurred as a result of the terrorist attacks against the United States on September eleventh, two thousand one, provided, however, such term shall not include any individual identified by the attorney general of the United States to have been a participant or conspirator in any such attack or a representative of such an individual.
+
+
+
+
+
+
+*§ 11-1797 General powers of tax commission.* ::
+
+
+(a) General. The tax commission shall administer and enforce the tax imposed by this chapter and it is authorized to make such rules and regulations, and to require such facts and information to be reported, as it may deem necessary to enforce the provisions of this chapter.
+
+(b) Examination of books and witnesses. 
+
+   (1) The tax commission for the purpose of ascertaining the correctness of any return, or for the purpose of making an estimate of taxable income of any person, shall have power to examine or to cause to have examined, by any agent or representative designated by it for that purpose, any books, papers, records or memoranda bearing upon the matters required to be included in the return, and may require the attendance of the person rendering the return or any officer or employee of such person, or the attendance of any other person having knowledge in the premises, and may take testimony and require proof material for its information, with power to administer oaths to such person or persons.
+
+   (2) The tax commission may take any action under paragraph one of this subdivision to inquire into the commission of any offense connected with the administration or enforcement of this chapter, provided, however, that notwithstanding the provisions of section 11-1774 no such action shall be taken after a referral by the department or the tax commission to the attorney general, a district attorney or any other prosecutorial agency is in effect.
+
+(c) Abatement authority. The tax commission, of its own motion, may abate any small unpaid balance of an assessment of city personal income tax, or any liability in respect thereof, if the tax commission determines under uniform rules prescribed by it that the administration and collection costs involved would not warrant collection of the amount due. It may also abate, of its own motion, the unpaid portion of the assessment of any tax or any liability in respect thereof, which is excessive in amount, or is assessed after the expiration of the period of limitation properly applicable thereto, or is erroneously or illegally assessed. No claim for abatement under this subdivision shall be filed by a taxpayer.
+
+(d) Special refund authority. Where no questions of fact or law are involved and it appears from the records of the tax commission that any moneys have been erroneously or illegally collected from any taxpayer or other person, or paid by such taxpayer or other person under a mistake of facts, pursuant to the provisions of this chapter, the tax commission at any time, without regard to any period of limitations, shall have the power, upon making a record of its reasons therefor in writing, to cause such moneys so paid and being erroneously and illegally held to be refunded and to issue therefor its certificate to the comptroller.
+
+(e) Secrecy requirement and penalties for violation. 
+
+   (1) Except in accordance with proper judicial order or as otherwise provided by law, it shall be unlawful for the tax commission, any tax commissioner, any officer or employee of the department of taxation and finance, any person engaged or retained by such department on an independent contract basis, any depositary to which any return may be delivered as provided in subdivision (h) or (i) of this section, any officer or employee of such depositary, or any person who, pursuant to this section, is permitted to inspect any report or return or to whom a copy, an abstract or a portion of any report or return is furnished, or to whom any information contained in any report or return is furnished, to divulge or make known in any manner the amount of income or any particulars set forth or disclosed in any report or return required under this chapter.
+
+   (2) The officers charged with the custody of such reports and returns shall not be required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the tax commission in an action or proceeding under the provisions of this chapter, the tax law or in any other action or proceeding involving the collection of a tax due under this chapter or such tax law to which the city, state or the tax commission is a party or a claimant, or on behalf of any party to any action or proceeding under the provisions of this chapter when the reports, returns or facts shown thereby are directly involved in such action or proceeding, in any of which events the court may require the production of, and may admit in evidence, so much of said reports, returns or of the facts shown thereby, as are pertinent to the action or proceeding and no more. The tax commission may, nevertheless, publish a copy or a summary of any decision rendered after the hearing required under section 11-1789.
+
+   (3) Nothing herein shall be construed to prohibit the delivery by the state commissioner of taxation and finance to the county clerk of a county within the city of New York of a mailing list of individuals to whom income tax forms are mailed by the state commissioner of taxation and finance for the sole purpose of compiling a list of prospective jurors as provided in article sixteen of the judiciary law. Provided, however, such delivery shall only be made pursuant to an order of the chief administrator of the courts, appointed pursuant to section two hundred ten of such law. No such order may be issued unless such chief administrator is satisfied that such mailing list is needed to compile a proper list of prospective jurors for the county for which such order is sought and that, in view of the responsibilities imposed by the various laws of the state on the department of taxation and finance, it is reasonable to require the state commissioner of taxation and finance to furnish such list. Such order shall provide that such list shall be used for the sole purpose of compiling a list of prospective jurors and that such county clerk shall take all necessary steps to insure that the list is kept confidential and that there is no unauthorized use or disclosure of such list. Furthermore, nothing herein shall be construed to prohibit the delivery to a taxpayer or his or her duly authorized representative of a certified copy of any return or report filed in connection with his or her tax or to prohibit the publication of statistics so classified as to prevent the identification of particular reports or returns and the items thereof, or the inspection by the attorney general or other legal representatives of the state or city of the report or return of any taxpayer who shall bring action to set aside or review the tax based thereon, or against whom an action or proceeding under this chapter has been recommended by the commissioner of taxation and finance, the corporation counsel or the attorney general or has been instituted, or the inspection of the reports or returns required under this chapter by the comptroller or duly designated officer or employee of the state department of audit and control, for purposes of the audit of a refund of any tax paid by a taxpayer under this chapter, or the furnishing to the state department of social services of the amount of an overpayment of tax and interest thereon certified to the comptroller to be credited against past-due support pursuant to section one hundred seventy-one-c of the tax law and of the name and social security number of the taxpayer who made such overpayment or the furnishing to the New York state higher education services corporation of the amount of an overpayment of tax and interest thereon certified to the comptroller to be credited against the amount of a default in repayment of a guaranteed student loan pursuant to section one hundred seventy-one-d of the tax law and of the name and social security number of the taxpayer who made such overpayment or the furnishing to the state university of New York or the city university of New York or the attorney general on behalf of such state or city university the amount of an overpayment of tax and interest thereon certified to the comptroller to be credited against the amount of a default in repayment of a state university loan or city university loan pursuant to section one hundred seventy-one-e of the tax law and of the name and social security number of the taxpayer who made such overpayment, or the disclosing to a state agency, pursuant to section one hundred seventy-one-f of the tax law, of the amount of an overpayment and interest thereon certified to the comptroller to be credited against a past-due legally enforceable debt owed to such agency and of the name and social security number of the taxpayer who made such overpayment, or the disclosing to the commissioner of finance of the city of New York, pursuant to section one hundred seventy-one-l of the tax law, of the amount of an overpayment and interest thereon certified to the comptroller to be credited against a city of New York tax warrant judgment debt and of the name and social security number of the taxpayer who made such overpayment. Reports and returns shall be preserved for three years and thereafter until the state commissioner of taxation and finance orders them to be destroyed.
+
+   (3-a) Notwithstanding the provisions of paragraph one of this subdivision, the state commissioner of taxation and finance or the commissioner of finance may disclose to a taxpayer or a taxpayer's related member, as defined in subdivision (t) of section 11-1712 of this chapter, information relating to any royalty paid, incurred or received by such taxpayer or related member to or from the other, including the treatment of such payments by the taxpayer or the related member in any report or return transmitted to the state commissioner of taxation and finance under this chapter or the New York state tax law or the commissioner of finance under this title.
+
+   (4) (A) Any officer or employee of the state, who willfully violates the provisions of this subdivision shall be dismissed from office and be incapable of holding any public office in this state for a period of five years thereafter.
+
+      (B) Cross-reference: For criminal penalties, see article thirty-seven of the tax law.
+
+(f) Cooperation with the United States and other states. Notwithstanding the provisions of subdivision (e) of this section, the tax commission may permit the secretary of the treasury of the United States or his or her delegates, or the proper tax officer of any state imposing an income tax upon the incomes of individuals, or the authorized representative of either such officer, to inspect any return filed under this chapter, or may furnish to such officer or his or her authorized representative an abstract of any such return or supply him or her with information concerning an item contained in any such return, or disclosed by any investigation of tax liability under this chapter, but such permission shall be granted or such information furnished to such officer or his or her representative only if the laws of the United States or of such other state, as the case may be, grant substantially similar privileges to the commission or officer of this state charged with the administration of the tax imposed by this chapter and such information is to be used for tax purposes only; and provided further the commissioner of taxation and finance may furnish to the commissioner of internal revenue or his or her authorized representative such returns filed under this chapter and other tax information, as he or she may consider proper, for use in court actions or proceedings under the internal revenue code, whether civil or criminal, where a written request therefor has been made to the commissioner of taxation and finance by the secretary of the treasury of the United States or his or her delegates, provided the laws of the United States grant substantially similar powers to the secretary of the treasury of the United States or his or her delegates. Where the commissioner of taxation and finance has so authorized use of returns and other information in such actions or proceedings, officers and employees of the department of taxation and finance may testify in such actions or proceedings in respect to such returns or other information.
+
+(g) Cooperation with the cities of the state of New York. Notwithstanding the provisions of subdivision (e) of this section, the tax commission may permit the proper city officer of any city of the state of New York imposing a personal income tax upon the incomes of residents, or an unincorporated business income tax, or an earnings tax on nonresidents, or the authorized representative of any such officer, to inspect any return filed under this chapter, or may furnish to such officer or his or her authorized representative an abstract of any such return or supply him or her with information concerning an item contained in any such return, or disclosed by any investigation of tax liability under this chapter, but such permission shall be granted or such information furnished to such officer or his or her representative only if the local laws of such city grant substantially similar privileges to the commission or officer of this state charged with the administration of the tax imposed by this chapter and such information is to be used for tax purposes only; and provided further the commissioner of taxation and finance may furnish to such city officer or the legal representative of such city such returns filed under this chapter and other tax information, as he or she may consider proper, for use in court actions or proceedings under such local law, whether civil or criminal, where a written request therefor has been made to the commissioner of taxation and finance by such city officer or his or her delegate, provided the local law of such city grants substantially similar powers to such city officer or his or her delegate. Where the commissioner of taxation and finance has so authorized use of returns and other information in such actions or proceedings, officers and employees of the department of taxation and finance may testify in such actions or proceedings in respect to such returns or other information.
+
+(h) Withholding returns. Notwithstanding the provisions of subdivision (e) of this section the tax commission in its discretion, when making deposits, pursuant to section 11-1798, of taxes withheld by employers, may deliver to the depositary the withholding returns filed by such employers as provided in section 11-1774, for the purpose of insuring that all money so deposited shall be correctly credited to taxpayers' accounts.
+
+(i) Filing returns and making payments to depository banks. Notwithstanding the provisions of subdivision (e) of this section, the tax commission, in its discretion, may require or permit any or all individuals, estates or trusts liable for any tax imposed by this chapter, to make payments on account of estimated tax and payment of any tax, penalty or interest imposed by this chapter to banks, banking houses or trust companies designated by the tax commission and to file reports and returns with such banks, banking houses or trust companies as agents of the tax commission, in lieu of making any such payment to the tax commission. However, the tax commission shall designate only such banks, banking houses or trust companies as are or shall be designated by the comptroller as depositories pursuant to section 11-1798.
+
+(j) (1) Authority to set interest rates. The commissioner of taxation and finance shall set the overpayment and underpayment rates of interest to be paid pursuant to sections 11-1784, 11-1785 and 11-1788 of this subchapter, but if no such rates of interest are set, such overpayment rate shall be deemed to be set at six percent per annum and the underpayment rate shall be deemed to be set at seven and one-half percent per annum. Such rates shall be the rates prescribed by paragraphs two and four of this subdivision, but the underpayment rate shall not be less than seven and one-half percent per annum. Any such rates set by such commissioner shall apply to taxes, or any portion thereof, which remain or become due or overpaid on or after the date on which such rates become effective and shall apply only with respect to interest computed or computable for periods or portions of periods occurring in the period during which such rates are in effect.
+
+   (2) Rates of interest. 
+
+      (A) Overpayment rate. The overpayment rate of interest set under this subdivision shall be the sum of (i) the federal short-term rate as provided under paragraph three of this subdivision, plus (ii) two percentage points.
+
+      (B) Underpayment rate. The underpayment rate of interest set under this subdivision shall be the sum of (i) the federal short-term rate as provided under paragraph three of this subdivision, plus (ii) five and one-half percentage points.
+
+   (3) Federal short-term rate. For the purposes of this subdivision:
+
+      (A) The federal short-term rate for any month shall be the federal short-term rate determined by the United States secretary of the treasury during such month in accordance with subsection (d) of section twelve hundred seventy-four of the internal revenue code for use in connection with section six thousand six hundred twenty-one of the internal revenue code. Any such rate shall be rounded to the nearest full percent (or, if a multiple of one-half of one percent, such rate shall be increased to the next highest full percent).
+
+      (B) Period during which rate applies.
+
+         (i) In general. Except as provided in clauses (ii) and (iii) of this subparagraph, the federal short-term rate for the first month in each calendar quarter shall apply during the first calendar quarter beginning after such month.
+
+         (ii) Special rule for individual estimated tax. In determining the addition to tax under subdivision (c) of section 11-1785 for failure to pay estimated tax for any taxable year, the federal short-term rate which applies during the third month following the taxable year shall also apply during the first fifteen days of the fourth month following such taxable year.
+
+         (iii) Special rule for the month of September, nineteen hundred eighty-nine. The federal short-term rate for the month of April, nineteen hundred eighty-nine shall apply with respect to setting the rate of interest for the month of September, nineteen hundred eighty-nine.
+
+   (4) Notwithstanding the provisions of paragraph two of this subdivision to the contrary, in the case of interest payable by an employer with respect to income taxes required to be withheld and paid over by him or her pursuant to the provisions of subchapter four of this chapter and with respect to interest payable to an employer pursuant to subdivision (c) of section 11-1786, the rates of interest prescribed by this section shall be the overpayment and underpayment rates of interest prescribed in paragraph two of subsection (e) of section one thousand ninety-six of the tax law.
+
+   (5) In computing the amount of any interest required to be paid under this article by the commissioner of taxation and finance or by the taxpayer, or any other amount determined by reference to such amount of interest, such interest and such amount shall be compounded daily. The preceding sentence shall not apply for purposes of computing the amount of any addition to tax for failure to pay estimated tax under subdivision (c) of section 11-1785.
+
+   (6) Publication of interest rates. The commissioner of taxation and finance shall cause to be published in the section for miscellaneous notices in the state register, and give other appropriate general notice of, the interest rates to be set under this subdivision no later than twenty days preceding the first day of the calendar quarter during which such interest rates apply. The setting and publication of such interest rates shall not be included within paragraph (a) of subdivision two of section one hundred two of the state administrative procedure act relating to the definition of a rule.
+
+   (7) Cross-reference. For provisions relating to the power of the commissioner of taxation and finance to abate small amounts of interest, see subdivision (c) of this section.
+
+(k) Disclosure of collection activities with respect to joint return. Notwithstanding the provisions of subdivision (e) of this section, if any deficiency of tax with respect to a joint return is assessed and the individuals filing such return are no longer married or no longer reside in the same household, upon request in writing by either of such individuals, the commissioner of taxation and finance shall disclose in writing to the individual making the request whether such commissioner has attempted to collect such deficiency from such other individual, the general nature of such collection activities, and the amount collected. The preceding sentence shall not apply to any deficiency which may not be collected by reason of expiration of time within which to issue a warrant under subdivision (c) of section 11-1792 of this title or within which to collect such tax by execution and levy or by court proceeding.
+
+(l) Disclosure of certain information where more than one person is subject to penalty. If the commissioner of taxation and finance determines that a person is liable for a penalty under subdivision (g) of section 11-1785 of this title with respect to any failure, upon request in writing of such person, such commissioner shall disclose in writing to such person (1) the name of any other person whom such commissioner has determined to be liable for such penalty with respect to such failure, and (2) whether such commissioner has attempted to collect such penalty from such other person, the general nature of such collection activities, and the amount collected.
+
+
+
+
+
+
+*§ 11-1798 Deposit and disposition of revenues.* ::
+
+
+All revenue collected by the state commissioner of taxation and finance from the taxes imposed pursuant to this chapter or chapter nineteen of this title shall be deposited daily with such responsible banks, banking houses or trust companies, as may be designated by the state comptroller, to the credit of the comptroller, in trust for the city. Such deposits shall be kept in trust and separate and apart from all other moneys in the possession of the comptroller. The state comptroller shall require adequate security from all such depositories of such revenue collected by the state commissioner of taxation and finance. The state comptroller shall retain in his or her hands such amounts as the commissioner of taxation and finance may determine to be necessary for refunds in respect to the taxes imposed by this chapter and such chapter nineteen and for reasonable costs of the state commissioner of taxation and finance in administering, collecting and distributing such taxes, out of which the comptroller shall pay any refunds of such taxes to which taxpayers shall be entitled under this chapter and such chapter nineteen and except further that he shall pay to a non-obligated spouse that amount of overpayment of tax imposed pursuant to the authority of article thirty of the New York state tax law or former article two-E of the general city law and the interest on such amount which has been credited pursuant to section one hundred seventy-one-c, one hundred seventy-one-d, one hundred seventy-one-e, one hundred seventy-one-f or one hundred seventy-one-l of the New York state tax law and which is certified to him by the commissioner of taxation and finance as the amount due such non-obligated spouse pursuant to paragraph six of subsection (b) of section six hundred fifty-one of the New York state tax law, and he shall deduct a like amount which he shall pay into the treasury to the credit of the general fund from amounts subsequently payable to the department of social services, the state university of New York, the city university of New York, the higher education services corporation, or to the revenue arrearage account or special offset fiduciary account pursuant to section ninety-one-a or ninety-one-c of the state finance law, as the case may be, whichever had been credited the amount originally withheld from such overpayment and, with respect to amounts originally withheld from such overpayment pursuant to section one hundred seventy-one-l of the tax law and paid to the city of New York, the comptroller shall collect a like amount from the city of New York. The state comptroller, after reserving such refund fund and such costs shall, on or before the fifteenth day of each month, pay to the chief fiscal officer of the city the balance of such taxes collected, to be paid into the treasury of the city to the credit of the general fund except that he shall pay to the state department of social services that amount of overpayments of the taxes imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against past-due support pursuant to subdivision six of section one hundred seventy-one-c of the New York state tax law and except that he shall pay to the New York state higher education services corporation that amount of overpayments of the taxes imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against the amount of defaults in repayment of guaranteed student loans pursuant to subdivision five of section one hundred seventy-one-d of the New York state tax law and except that he shall pay to the state university of New York or the city university of New York, respectively, that amount of overpayments of the taxes imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against the amount of defaults in repayment of state university or city university loans pursuant to subdivision six of section one hundred seventy-one-e of the New York state tax law, and except further that, notwithstanding any other provision of law, he shall credit to the revenue arrearage account, pursuant to section ninety-one-a of the state finance law, that amount of overpayments of the taxes imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against a past-due legally enforceable debt owed to a state agency pursuant to paragraph (a) of subdivision six of section one hundred seventy-one-f of the New York state tax law, provided, however, he shall credit to the special offset fiduciary account, pursuant to section ninety-one-c of the state finance law, any such amount creditable as a liability as set forth in paragraph (b) of subdivision six of section one hundred seventy-one-f of the tax law, and except further that he shall pay to the city of New York that amount of overpayments of tax imposed pursuant to this chapter or chapter nineteen of this title and the interest on such amount which is certified to him by the state commissioner of taxation and finance as the amount to be credited against city of New York tax warrant judgment debt pursuant to section one hundred seventy-one-l of the New York state tax law. The amount deducted for administering, collecting and distributing such taxes during such monthly period shall be paid by the state comptroller into the general fund of the state treasury to the credit of the state purposes fund therein. The first payment to such chief fiscal officer shall be made on or before March fifteenth, nineteen hundred seventy-six, which payment shall represent the balance of revenue after provision for refund and such reasonable costs, with respect to taxes collected from January first, nineteen hundred seventy-six through February twenty-ninth, nineteen hundred seventy-six. Subsequent payments shall be made on or before April fifteenth, nineteen hundred seventy-six and on or before the fifteenth day of each succeeding month thereafter, and shall represent the balance of revenue with respect to taxes collected the preceding calendar month. The amounts so payable shall be certified to the state comptroller by the state commissioner of taxation and finance or his or her delegate, either of whom shall not be held liable for any inaccuracy in such certificate. Where the amount so paid over to such chief fiscal officer is more or less than the amount then due such city, the amount of overpayment or underpayment shall be certified to the state comptroller by the state commissioner of taxation and finance or his or her delegate, either of whom shall not be held liable for any inaccuracy in such certificate. The amount of overpayment or underpayment shall be so certified to the state comptroller as soon after the discovery of the overpayment or underpayment as reasonably possible and subsequent payments by the state comptroller to such chief fiscal officer shall be adjusted by subtracting the amount of any such overpayment from, or by adding the amount of any such underpayment to such number of subsequent payments and distributions as the state comptroller and the state commissioner of taxation and finance shall consider reasonable in view of the amount of the overpayment or underpayment and all other facts and circumstances.
+
+
+
+
+
+
+*§ 11-1799 Transition provisions. Standard deduction. [Repealed.]* ::
+
+
+(a) If there is assessed a tax under this chapter and there is also assessed a tax or taxes against the same taxpayer pursuant to article twenty-two of the tax law or under chapter nineteen of this title and if the tax commission takes action under such article twenty-two or under such chapter nineteen with respect to the enforcement and collection of the tax or taxes assessed under such articles and/or chapter, the tax commission shall, wherever possible, accompany such action with a similar action under similar enforcement and collection provisions of this chapter.
+
+(b) Any moneys collected as a result of such joint action shall be deemed to have been collected in proportion to the amounts due, including tax, penalties, interest and additions to tax, under article twenty-two of the tax law and this city income tax.
+
+(c) Whenever the tax commission takes any action with respect to a deficiency of income tax under article twenty-two of such law or under chapter nineteen of this title, other than the action set forth in subdivision (a) of this section, it may in its discretion accompany such action with a similar action under such city income tax.
+
+
+
+
+
+
+*§ 11-1801 Administration, collection and review.* ::
+
+
+(a) Except as otherwise provided in this chapter, any tax imposed by this chapter shall be administered and collected by the tax commission in the same manner as the tax imposed by article twenty-two of the tax law is administered and collected by such commission. Whenever there is joint collection of state and city personal income taxes, it shall be deemed that such collections shall represent proportionately the applicable state and city personal income taxes in determining the amount to be remitted to the city.
+
+(b) The tax commission, in its discretion, may require or permit any or all persons liable for any tax imposed by this chapter to make payments on account of estimated tax and payment of any tax, penalty or interest to such banks, banking houses or trust companies designated by the tax commission and to file returns with such banks, banking houses or trust companies, as agent of the tax commission, in lieu of paying a tax imposed by this chapter directly to the tax commission. However, the tax commission shall designate only such banks, banking houses or trust companies which are designated by the comptroller as depositories of the state.
+
+(c) Notwithstanding any other provisions of this chapter, the tax commission may require:
+
+   (1) the filing of any or all of the following:
+
+      (A) a combined return which, in addition to the return provided for in section 11-1751, may also include any or both of the returns required to be filed by a resident individual of New York state pursuant to the provisions of section six hundred fifty-one of the tax law and which may be required to be filed by such individual pursuant to chapter nineteen of this title and
+
+      (B) a combined employer's return which, in addition to the employer's return provided for by this chapter, may also include any or both of the employer's returns required to be filed by the same employer pursuant to the provisions of section six hundred seventy-four of such law and required to be filed by such employer pursuant to such chapter nineteen of this title and
+
+   (2) where a combined return or employer's return is required, and with respect to the payment of estimated tax, the tax commission may also require the payment to it of a single amount which shall equal the total of the amounts which would have been required to be paid with the returns or employer's returns or in payment of estimated tax pursuant to the provisions of article twenty-two of such tax law, and the provisions of this chapter as if no combined return or employer's return were required.
+
+
+
+
+
+
+*§ 11-1802 Construction.* ::
+
+
+This chapter shall be construed and enforced in conformity with article thirty of the tax law, as added to such law by chapter eight hundred eighty-one of the laws of nineteen hundred seventy-five, pursuant to which article it is enacted.
+
+
+
+
 Chapter 19: Earnings Tax On Nonresidents
 --------------------------------------------------
 
