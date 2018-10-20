@@ -6641,11 +6641,11 @@ c. Food service establishment inspections ombuds office; annual report. No later
 
 a. For purposes of this section, the following terms have the following meanings:
 
-   Food service establishment.  The term “food service establishment” has the same meaning as such term is defined in section 81.03 of the New York City health code.
+   Food service establishment. The term “food service establishment” has the same meaning as such term is defined in section 81.03 of the New York City health code.
 
-   Senior center.  The term “senior center” has the same meaning as such term is defined in section 21-201.
+   Senior center. The term “senior center” has the same meaning as such term is defined in section 21-201.
 
-   Social adult day care.  The term “social adult day care” has the same meaning as such term is defined in section 21-201.
+   Social adult day care. The term “social adult day care” has the same meaning as such term is defined in section 21-201.
 
 b. Each senior center and social adult day care that is a food service establishment shall be inspected by the department at least annually in accordance with article 81 of the New York City health code.
 

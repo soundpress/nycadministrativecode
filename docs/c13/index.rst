@@ -1671,7 +1671,7 @@ b. Beginning with the calendar quarter starting on January 1, 2019, the commissi
 
    3. The number of times in the quarter that an officer administered an opioid antagonists to an overdose victim, disaggregated by patrol borough and by the way in which the opioid antagonist was administered to such overdose victim, such as by syringe injection or nasal atomizer. Such number shall be expressed in both absolute terms and as a percentage of all administrations.
 
-c. The report created pursuant to this section shall be provided within 30 days of the end of the quarter to which the report corresponds. Where necessary, the department may use preliminary data to prepare the required report.  If preliminary data is used, the department shall include an acknowledgment that such preliminary data is non-final and subject to change.
+c. The report created pursuant to this section shall be provided within 30 days of the end of the quarter to which the report corresponds. Where necessary, the department may use preliminary data to prepare the required report. If preliminary data is used, the department shall include an acknowledgment that such preliminary data is non-final and subject to change.
 
 
 

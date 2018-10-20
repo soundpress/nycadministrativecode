@@ -3711,7 +3711,7 @@ It shall be unlawful to perform work at any construction site in the city that i
 
    (2) Impulsive sound, attributable to the source, that is 15 dB(A) or more above the ambient sound level as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way. Impulsive sound levels shall be measured in the A-weighting network with the sound level meter set to fast response. The ambient sound level shall be taken in the A-weighting network with the sound level meter set to slow response.
 
-   (3) Sound  that exceeds the decibel levels set forth in subdivision (d) of section 24-223 during the time that an after hours authorization is required to be in effect.
+   (3) Sound that exceeds the decibel levels set forth in subdivision (d) of section 24-223 during the time that an after hours authorization is required to be in effect.
 
 (b) Where a particular sound source or device is subject to decibel level limits and requirements specifically prescribed for such source or device elsewhere in this code, such specific decibel limits shall apply to such device or source. However, if aggregate sound levels from a construction site exceed the limits set forth in this section, compliance with such specific decibel limits shall not be a defense in any proceeding relating to a violation of this section.
 

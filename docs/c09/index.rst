@@ -3198,3 +3198,223 @@ c. The administering agency shall issue a hit-and-run alert within 24 hours of t
 
 
 
+Chapter 10: Prevention of Interference With Reproductive Health Services
+--------------------------------------------------
+
+
+
+*§ 10-1001 Short title.* ::
+
+
+This chapter shall be known and may be cited as the "access to reproductive health care facilities law".
+
+
+
+
+
+
+
+
+*§ 10-1002 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Person. The term "person" means an individual, corporation, not-for-profit organization, partnership, association, group or any other entity.
+
+Premises of a reproductive health care facility. The term "premises of a reproductive health care facility" means the driveway, entrance, entryway, or exit of a reproductive health care facility and the building in which such facility is located and any parking lot in which the facility has an ownership or leasehold interest.
+
+Reproductive health care facility. The term "reproductive health care facility" means any building, structure or place, or any portion thereof, at which licensed, certified or otherwise legally authorized persons provide health care services or health care counseling relating to the human reproductive system.
+
+
+
+
+
+
+
+
+*§ 10-1003 Prohibition of activities to prevent access to reproductive health care facilities.* ::
+
+
+a. Unlawful conduct. It is unlawful for any person:
+
+   1. To knowingly physically obstruct or block another person from entering into or exiting from the premises of a reproductive health care facility by physically striking, shoving, restraining, grabbing, or otherwise subjecting a person to unwanted physical contact, or attempting to do the same;
+
+   2. To knowingly obstruct or block the premises of a reproductive health care facility, so as to impede access to or from the facility, or to attempt to do the same;
+
+   3. To follow and harass another person within 15 feet of the premises of a reproductive health care facility;
+
+   4. To engage in a course of conduct or repeatedly commit acts within 15 feet of the premises of a reproductive health care facility when such behavior places another person in reasonable fear of physical harm, or to attempt to do the same;
+
+   5. To physically damage a reproductive health care facility so as to interfere with its operation, or to attempt to do the same; or
+
+   6. To knowingly interfere with the operation of a reproductive health care facility, or to attempt to do the same, by activities that include, but are not limited to, interfering with, or attempting to interfere with (i) medical procedures being performed at such facility or (ii) the delivery of goods to such facility.
+
+b. Violations. Any person who violates any provision of subdivision a of this section is guilty of a misdemeanor punishable by a fine not to exceed $1,000 or imprisonment not to exceed six months, or both, for a first conviction under this section. For a second and each subsequent conviction under this section, the penalty shall be a fine not to exceed $5,000 or imprisonment not to exceed one year, or both.
+
+
+
+
+
+
+
+
+*§ 10-1004 Civil cause of action.* ::
+
+
+Where there has been a violation of subdivision a of section 10-1003, any person whose ability to access a reproductive health care facility has been interfered with, and any owner or operator of a reproductive health care facility or owner of a building in which such a facility is located, may bring a civil action in any court of competent jurisdiction for any or all of the following relief:
+
+a. Injunctive relief;
+
+b. Treble the amount of actual damages suffered as a result of such violation, including, where applicable, damages for pain and suffering and emotional distress, or damages in the amount of $5,000, whichever is greater; and
+
+c. Attorney's fees and costs.
+
+
+
+
+
+
+
+
+*§ 10-1005 Civil action by city to enjoin interference with access to reproductive health care facilities.* ::
+
+
+The corporation counsel may bring a civil action on behalf of the city in any court of competent jurisdiction for injunctive and other appropriate equitable relief in order to prevent or cure a violation of subdivision a of section 10-1003.
+
+
+
+
+
+
+
+
+*§ 10-1006 Joint and several liability.* ::
+
+
+If it is found, in any action brought pursuant to the provisions of this chapter, that two or more of the named defendants acted in concert pursuant to a common plan or design to violate any provision of subdivision a of section 10-1003, such defendants shall be held jointly and severally liable for any fines or penalties imposed or any damages awarded.
+
+
+
+
+
+
+
+
+*§ 10-1007 Construction.* ::
+
+
+a. This chapter does not limit the right of any person or entity to seek other available criminal penalties or civil remedies. The penalties and remedies provided under this chapter are cumulative and are not exclusive.
+
+b. This chapter does not prohibit expression protected by the first amendment of the constitution of the United States or section 8 of article 1 of the constitution of the state of New York.
+
+c. This chapter does not limit the lawful exercise of any authority vested in the owner or operator of a reproductive health care facility, the owner of the premises in which such a facility is located, or a law enforcement officer of the city, the state of New York or the United States acting within the scope of such person's official duties.
+
+
+
+
+
+
+Chapter 11: Actions By Victims of Gender-Motivated Violence
+--------------------------------------------------
+
+
+
+*§ 10-1101 Short title.* ::
+
+
+This chapter shall be known and may be cited as the "Victims of Gender-Motivated Violence Protection Law".
+
+
+
+
+
+
+
+
+*§ 10-1102 Declaration of legislative findings and intent.* ::
+
+
+Gender-motivated violence inflicts serious physical, psychological, emotional and economic harm on its victims. Congressional findings have documented that gender-motivated violence is widespread throughout the United States, representing the leading cause of injuries to women ages 15 to 44. Further statistics have shown that three out of four women will be the victim of a violent crime sometime during their lives, and as many as 4,000,000 women a year are victims of domestic violence. Senate hearings, various task forces and the United States department of justice have concluded that victims of gender-motivated violence frequently face a climate of condescension, indifference and hostility in the court system and have documented the legal system's hostility towards sexual assault and domestic violence claims. Recognizing this widespread problem, congress in 1994 provided victims of gender-motivated violence with a cause of action in federal court through the violence against women act (VAWA) (section 13981 of title 42 of the United States code). In a May 15, 2000, decision, the United States supreme court held that the constitution provided no basis for a federal cause of action by victims of gender-motivated violence against perpetrators of offenses committed against them either under the commerce clause or the equal protection clause of the fourteenth amendment. In so ruling, the court held that it could "think of no better example of the police power, which the Founders denied the National Government and reposed in the States, than the suppression of violent crime and vindication of its victims."
+
+
+
+
+
+
+
+
+*§ 10-1103 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Crime of violence. The term "crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
+
+Crime of violence motivated by gender. The term "crime of violence motivated by gender" means a crime of violence committed because of gender or on the basis of gender, and due, at least in part, to an animus based on the victim's gender.
+
+
+
+
+
+
+
+
+*§ 10-1104 Civil cause of action.* ::
+
+
+Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence motivated by gender has a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
+
+a. Compensatory and punitive damages;
+
+b. Injunctive and declaratory relief;
+
+c. Attorney's fees and costs; and
+
+d. Such other relief as a court may deem appropriate.
+
+
+
+
+
+
+
+
+*§ 10-1105 Limitations.* ::
+
+
+a. A civil action under this chapter shall be commenced within seven years after the alleged crime of violence motivated by gender occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to seven years after the inability to commence the action ceases.
+
+b. Except as otherwise permitted by law, nothing in this chapter entitles a person to a cause of action for random acts of violence unrelated to gender or for acts that cannot be demonstrated, by preponderance of the evidence, to be a crime of violence motivated by gender.
+
+c. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
+
+
+
+
+
+
+
+
+*§ 10-1106 Burden of proof.* ::
+
+
+Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter is conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence motivated by gender must be proved by a preponderance of the evidence.
+
+
+
+
+
+
+
+
+*§ 10-1107 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this chapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction, such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
+
+
+
+
+
+

@@ -1011,6 +1011,105 @@ d. Updates. The department shall update the names and contact information posted
 
 
 
+Chapter 19: Reports on Discipline and Certain Emergency Transports of Students
+--------------------------------------------------
+
+
+
+*§ 21-982 Definitions.* ::
+
+
+For purposes of this chapter, the following terms have the following meanings:
+
+Chancellor. The term "chancellor" means the chancellor of the city school district of the city, or the chancellor's designee.
+
+Data. The term "data" means final versions of statistical or factual information in alphanumeric form that can be digitally transmitted or processed.
+
+Department contact. The term "department contact" means an incident that occurs within a New York city public school, on school grounds, during school-related events or while taking public school transportation, for which the New York city police department is contacted.
+
+EMS transports. The term "EMS transports" means transports performed by emergency medical services, whether provided by the fire department or another authorized ambulance service, in which a student is taken from a New York city public school to a hospital.
+
+Homeless status. The term "homeless status" means the circumstance in which a student lacks a fixed, regular and adequate nighttime residence, as determined in accordance with applicable chancellor's regulations.
+
+Teacher removal. The term "teacher removal" means the removal from class, including at least one class period and for up to four complete school days, of a student in kindergarten through grade twelve whose conduct is substantially disruptive of the educational process or substantially interferes with a teacher's authority over the classroom, with notice and an opportunity to be heard pursuant to applicable chancellor's regulations.
+
+
+
+
+
+
+
+
+*§ 21-983 Confidentiality requirements.* ::
+
+
+No information that is otherwise required to be reported pursuant to this chapter shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information, including but not limited to restrictions with respect to personally identifiable information in education records set forth in section 1232g of title 20 of the United States code, or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If (i) the total number of students or incidents within a non-disaggregated category contains from one through five students or incidents, (ii) the total number of students or incidents within a disaggregated category, or reported pursuant to paragraph four of subdivision a of section 21-984, contains from zero through five students or incidents; or (iii) the total number of students or incidents within a category, whether or not disaggregated, contains an amount that would allow another category, whether or not disaggregated, that contains from one through five students or incidents to be deduced, then the number of students or incidents shall be replaced with a symbol or shall be subject to some other form of data suppression.
+
+
+
+
+
+
+
+
+*§ 21-984 Annual report on student discipline.* ::
+
+
+The chancellor shall submit to the city council and post to the department's website by October 31 of each year an annual report, based on data from the preceding school year, on the discipline of students.
+
+a. The data in this report shall be disaggregated by school and shall show the following:
+
+   1. The number of teacher removals, which shall additionally be disaggregated by infraction code and number of days removed;
+
+   2. The number of principal's suspensions, which shall additionally be disaggregated by infraction code and length of suspension;
+
+   3. The number of superintendent's suspensions, which shall additionally be disaggregated by infraction code and length of suspension;
+
+   4. The number of students subjected more than once to a teacher removal, principal's suspension, superintendent's suspension, or any combination thereof;
+
+   5. The number of students subjected to an expulsion; and
+
+   6. The number of incidents involving department contacts that also resulted in the suspension of the students who were the subjects of the department contacts.
+
+b. The data provided pursuant to subdivision a shall be disaggregated by race/ethnicity, gender, grade, year of birth, whether the individual is receiving special education services, whether the individual is an English language learner and homeless status. The report shall include school district and citywide total numbers for each disaggregated category.
+
+c. The report shall also include:
+
+   1. The citywide total number of transfers that were initiated during the superintendent's suspension process or during the period of any resulting superintendent's suspension, disaggregated by involuntary and voluntary transfers; and
+
+   2. The annual citywide percentage change in suspensions, disaggregated by school district.
+
+
+
+
+
+
+
+
+*§ 21-985 Biannual citywide report on suspensions.* ::
+
+
+The chancellor shall submit to the council and post to the department's website by October 31 and March 31 of each year a report on the discipline of students citywide, based on data from the first six months of the current calendar year and the second six months of the preceding calendar year respectively. Such report shall include the number of suspensions citywide for each month, disaggregated by superintendent's and principal's suspensions.
+
+
+
+
+
+
+
+
+*§ 21-986 Citywide report on emergency medical services student transports.* ::
+
+
+a. The chancellor shall submit to the council and post to the department's website by October 31 and March 31 of each year a citywide report on the total number of EMS transports and the number of EMS transports performed because of a student's psychological/emotional condition. The October report shall include EMS transports from the first six months of the current calendar year and the March report shall include EMS transports from the second six months of the preceding calendar year. Each report shall be disaggregated by school district and by month.
+
+b. The chancellor shall submit to the council and post to the department's website by October 31 of each year a citywide report on EMS transports during the twelve-month period ending on June 30 of the same year. Each report shall be disaggregated by school and by race/ethnicity, year of birth and whether the individual is receiving special education services.
+
+
+
+
+
+
 Chapter 20: Reporting on Students in Temporary Housing
 --------------------------------------------------
 
@@ -1056,6 +1155,94 @@ b. Not later than November 1, 2018, and annually thereafter on or before Novembe
    9. The dropout rate of students in temporary housing.
 
 c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains a number that would allow the number of individuals in another category that is five or fewer to be deduced, the number shall be replaced with a symbol.
+
+
+
+
+
+
+Chapter 21: Posting of Information Regarding the Process Used in Determining Identified Seat Need
+--------------------------------------------------
+
+
+
+*§ 21-988 Posting information regarding the process used in determining identified seat need.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Identified seat need. The term “identified seat need” means the number of seats required through the construction of new facilities to meet the enrollment needs in each community school district identified in the five-year educational facilities capital plan created by the department pursuant to section 2590-p of the education law.
+
+   Subdistrict. The term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools as defined in section 21-989.
+
+b. No later than December 1, 2019, and annually thereafter on or before December 1, the department shall, to the extent such information is accessible by the department, post conspicuously on its website a report, which shall include, but need not be limited to:
+
+   1. The process and inputs used to determine identified seat need, including but not limited to:
+
+      (a) any categories of non-quantitative criteria considered, which may include but need not be limited to, facility replacements, grade expansion and truncation, school rezonings, co-locating schools, and converting space in existing facilities; and
+
+      (b) the following information, reported at the community school district level, if utilized:
+
+         (1) enrollment projections and related confidence intervals;
+
+         (2) information about projected new housing;
+
+         (3) any formula used for measuring capacity including class size goals;
+
+         (4) any relevant standards required for instructional space;
+
+         (5) any data used for determining a projected public school ratio; and
+
+         (6) any new capacity projects expected to be initiated during the plan period;
+
+   2. The identified seat need;
+
+   3. The number of seats lost, including through lost leases; and
+
+   4. The number of seats gained, including through leases.
+
+c. The data provided in paragraph 2 of subdivision b of this section shall be listed for grade level kindergarten through 12 in total for the city school district and, if identified seat need is determined in such manner, shall also be listed by:
+
+   1. grade level nine through 12, disaggregated by borough;
+
+   2. grade level kindergarten through eight, disaggregated by community school district and subdistrict;
+
+   3. grade level six through eight, disaggregated by community school district and subdistrict; and
+
+   4. grade level kindergarten through five, disaggregated by community school district and subdistrict.
+
+d. The data provided in paragraphs 3 and 4 of subdivision b of this section shall be listed for grade level kindergarten through 12 in total for the city school district, and shall also be listed by:
+
+   1. grade level nine through 12, disaggregated by borough;
+
+   2. grade level kindergarten through eight, disaggregated by community school district and subdistrict;
+
+   3. grade level six through eight, disaggregated by community school district and subdistrict; and
+
+   4. grade level kindergarten through five, disaggregated by community school district and subdistrict.
+
+e. The data provided in paragraphs 2, 3 and 4 of subdivision b of this section shall be listed for prekindergarten programs in total for the city school district and, if available, by community school district.
+
+f. All data provided pursuant to this section shall be provided in machine readable format.
+
+g. Nothing in this section shall be construed to affect the authority or materially impede the ability of the department to determine the identified seat need or the methodology or information utilized in the determination of identified seat need.
+
+
+
+
+
+
+Chapter 22: Posting of Subdistrict Maps
+--------------------------------------------------
+
+
+
+*§ 21-989 Posting of subdistrict maps.* ::
+
+
+a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
+
+b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
 
 
 

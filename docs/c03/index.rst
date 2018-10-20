@@ -481,7 +481,7 @@ d. Following installation of electricity usage telemetry equipment by the depart
 
 
 
-*§ 4-208 List of City-Owned and Operated Real Property.* ::
+*§ 4-208 List of city-owned and operated real property.* ::
 
 
 a. The department of citywide administrative services shall keep and maintain a complete list of the location and current use of all real property owned or leased by the city. For each parcel of property, such list shall include, but need not be limited to, the following information to the extent such information is available:
@@ -755,6 +755,52 @@ d. The mayor shall include in each long-term sustainability plan required by sub
    7. The risks associated with providing building heating and hot water from green energy systems; and
 
    8. Reductions in greenhouse gases and any other environmental or energy benefits associated with providing building heating and hot water from green energy systems.
+
+
+
+
+
+
+
+
+*§ 4-212 School siting task force.* ::
+
+
+a. There shall be an interagency task force to review relevant city real estate transactions to identify opportunities for potential school sites. Such task force shall also review city-owned buildings, city-owned property and vacant land within the city to evaluate potential opportunities for new school construction or leasing for school use.
+
+b. The task force shall consist of the members specified in this subdivision, or their designees:
+
+   1. The chancellor of the city school district of the city of New York;
+
+   2. The commissioner of citywide administrative services;
+
+   3. The director of city planning;
+
+   4. The commissioner of housing and preservation development;
+
+   5. The speaker of the council; and
+
+   6. The president and chief executive officer of the New York city school construction authority, and the president or chief executive officer of a local development corporation or other not-for-profit corporation, a majority of whose members are appointed by the mayor, that contracts with the city to provide or administer economic development benefits on behalf of the city, may participate in the task force as members at the invitation of the mayor and the speaker.
+
+c. One member shall be designated as chairperson by the mayor after consultation with the speaker.
+
+d. The task force shall consult with agencies or offices with jurisdiction over environmental and planning concerns as appropriate, and may consult with interested members of the public, including but not limited to parents of students currently enrolled in the city school district of the city of New York.
+
+e. No later than July 31, 2019, the task force shall submit a report to the mayor, the speaker, the chancellor of the city school district of the city of New York and the president and chief executive officer of the New York city school construction authority on the results of its review pursuant to this section. Such report shall be updated thereafter as necessary, as determined by the task force.
+
+
+
+
+
+
+
+
+*§ 4-213 Notice to department of education and school construction authority regarding city-owned or leased property.* ::
+
+
+a. Definitions. For the purposes of this section, the term “department” means the department of citywide administrative services.
+
+b. Within 30 days of a determination by the department that city-owned or leased property with a lot size of at least 20,000 square feet has no current use, the department shall provide written notice to the department of education and the New York city school construction authority, which notice shall include the information required by subdivision a of section 4-208, to the extent such information is available.
 
 
 

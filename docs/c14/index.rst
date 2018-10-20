@@ -631,11 +631,11 @@ c. Such report shall include:
 
    2. The number of emergency medical technicians and other first responders employed by the department that are trained to administer opioid antagonists, disaggregated by borough and division;
 
-   3. The number of instances in the quarter that an emergency medical technician or other first responder employed by the department administered an opioid antagonist to a patient, disaggregated by borough, division, and  by method of administration, such as syringe injection or nasal atomizer; and
+   3. The number of instances in the quarter that an emergency medical technician or other first responder employed by the department administered an opioid antagonist to a patient, disaggregated by borough, division, and by method of administration, such as syringe injection or nasal atomizer; and
 
    4. The number, expressed in both absolute terms and as a percentage of all administrations, of instances in which the patient responded to the administration of an opioid antagonist.
 
-d. The report created pursuant to this section shall be provided within 30 days of the end of the quarter to which the report corresponds. Where necessary, the department may use preliminary data to prepare the required report.  If preliminary data is used, the department shall include an acknowledgment that such preliminary data is non-final and subject to change.
+d. The report created pursuant to this section shall be provided within 30 days of the end of the quarter to which the report corresponds. Where necessary, the department may use preliminary data to prepare the required report. If preliminary data is used, the department shall include an acknowledgment that such preliminary data is non-final and subject to change.
 
 
 

@@ -1254,6 +1254,62 @@ The city shall provide telephone services to individuals within the custody of t
 
 
 
+
+
+*§ 9-155 Emergency lock-in report.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Continuous lock-in. The term “continuous lock-in” means any period of time in which incarcerated individuals are confined to their cells or beds due to the combination of an emergency lock-in and either a scheduled lock-in or a lock-in extension, or both.
+
+   Department-wide emergency lock-in. The term “department-wide emergency lock-in” means any period of time during which incarcerated individuals are confined to their cells or beds throughout all department facilities, but shall not include any scheduled period of lock-in.
+
+   Facility emergency lock-in. The term “facility emergency lock-in” means any period of time during which incarcerated individuals are confined to their cells or beds within all housing areas of an individual departmental facility, but shall not include any scheduled period of lock-in.
+
+   Housing area emergency lock-in. The term “housing area emergency lock-in” means any period of time during which incarcerated individuals within an individual housing area within a facility are confined to their cells or beds, but shall not include any scheduled period of lock-in.
+
+   Lock-in extension. The term “lock-in extension” means when a scheduled period of lock-in is extended.
+
+   Mandated services. The term “mandated services” means incarcerated individual services required to be provided pursuant to local law or rule, including but not limited to access to: law library, recreation, religious services, sick call, visits, and educational services.
+
+   Partial facility emergency lock-in. The term “partial facility emergency lock-in” means any period of time during which incarcerated individuals are confined to their cells or beds within a segment of an individual departmental facility, but shall not include any scheduled period of lock-in. Any emergency lock-in that includes periods of full facility emergency lock-in and partial facility emergency lock-in shall be considered a full facility emergency lock-in.
+
+   Scheduled period of lock-in. The term “scheduled period of lock-in” means (1) during the evening, for an incarcerated individual count or for sleeping time, a period not to exceed 8 hours within any 24-hour period, (2) during the day, for an incarcerated individual count or for required facility business that can only be carried out when incarcerated individuals are locked in, a period not to exceed 2 hours within any 24-hour period, and (3) for any other period of regularly scheduled lock-in permitted by applicable law or board of correction rules pertaining to specialized housing areas. Nothing in this section invalidates or affects existing or future laws or board of correction rules regarding the extension of a scheduled period of lock-in.
+
+b. Sixty days after the end of the quarter beginning April 1, 2019, and no later than the sixtieth day after the end of each subsequent quarter, the department shall post on its website a report containing information pertaining to emergency lock-ins that occurred during the preceding quarter. All data shall be submitted in a machine readable format. Such report shall include:
+
+   1. the number of department-wide emergency lock-ins, in total and disaggregated by the reason for such emergency lock-in, as determined by the department;
+
+   2. the number of facility emergency lock-ins disaggregated by facility, in total and disaggregated by the reason for such emergency lock-in, as determined by the department;
+
+   3. the number of lock-in extensions disaggregated by facility and housing area, in total and disaggregated by housing area type and reason for lock-in extension;
+
+   4. the number of partial facility emergency lock-ins disaggregated by facility, in total and disaggregated by the reason for such emergency lock-in, as determined by the department;
+
+   5. the number of housing area emergency lock-ins disaggregated by facility and housing area, in total and disaggregated by the reason for such emergency lock-in, as determined by the department, and the housing area type;
+
+   6. the mean and median number of incarcerated individuals housed in areas affected by housing area emergency lock-ins disaggregated by facility, in total and disaggregated by the housing area type;
+
+   7. the mean and median duration of emergency lock-ins disaggregated by department-wide emergency lock-ins, in total and disaggregated by the reason for such emergency lock-in, as determined by the department; facility emergency lock-ins, in total and disaggregated by the reason for such emergency lock-in, as determined by the department; partial facility emergency lock-ins, in total and disaggregated by the reason for such emergency lock-in, as determined by the department; and housing area emergency lock-ins disaggregated by facility, in total and disaggregated by the reason for such emergency lock-in, as determined by the department, and housing area type;
+
+   8. the number of times mandated services are affected by an emergency lock-in or lock in extension, disaggregated by service type;
+
+   9. the mean and median duration of continuous lock-ins disaggregated by facility, in total and disaggregated by the reason for such emergency lock-in, as determined by the department, and the housing area type; and
+
+   10. the number of times that the duration of a continuous lock-in exceeds 24 hours, disaggregated by facility, in total and disaggregated by the reason for such emergency lock-in, as determined by the department, and the housing area type.
+
+c. Sixty days after January 1, 2020, and no later than the sixtieth day after the end of each subsequent year, the department shall post on its website a report containing the information from paragraphs 1 through 10 of subdivision b of this section for the preceding year. All data shall be submitted in a machine readable format.
+
+d. The information required by subdivisions b and c of this section shall be compared to the previous four reporting periods, and stored permanently, and accessible from the department’s website.
+
+
+
+Editor's note: Section 2 of L.L. 2018/164 provides: "This local law takes effect immediately, except the reporting required pursuant to paragraphs 6 through 10 of subdivision b of section 9-155 of the administrative code of the city of New York shall be due no later than sixty days following the end of the quarter beginning July 1, 2019."
+
+
+
+
 Chapter 2: Department of Probation
 --------------------------------------------------
 

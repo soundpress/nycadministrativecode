@@ -578,9 +578,9 @@ c. Such data may be included as part of the management report provided for in se
 
 a. For the purposes of this section, the following terms have the following meanings:
 
-   Homeless youth.  The term "homeless youth" means persons under the age of 21 who are in need of services and are without a place of shelter where supervision and care are available.
+   Homeless youth. The term "homeless youth" means persons under the age of 21 who are in need of services and are without a place of shelter where supervision and care are available.
 
-   Runaway youth.  The term "runaway youth" means persons under the age of 18 years who are absent from their legal residence without the consent of their parent, legal guardian or custodian.
+   Runaway youth. The term "runaway youth" means persons under the age of 18 years who are absent from their legal residence without the consent of their parent, legal guardian or custodian.
 
    Sexually exploited youth. The term “sexually exploited youth” means persons under the age of 18 who have been subject to sexual exploitation because they (a) are the victim of the crime of sex trafficking as defined in section 230.34 of the penal law; (b) engage in any act as defined in section 230.00 of the penal law; (c) are a victim of the crime of compelling prostitution as defined in section 230.33 of the penal law; or (d) engage in acts or conduct described in article 263 or section 240.37 of the penal law. The term shall also mean persons under the age of 18 who have been subject to incest in the third degree, second degree or first degree, as defined in sections 255.25, 255.26, and 255.27 of the penal law, respectively, or any of the sex offenses enumerated in article 130 of the penal law.
 

@@ -3163,7 +3163,7 @@ Building. The term “building” means a building as defined in the New York ci
 
 Class B multiple dwelling. The term “class B multiple dwelling” shall have the meaning ascribed to such term in the housing maintenance code.
 
-Directly or indirectly.  The term “directly or indirectly” means a person acting directly or indirectly through any subsidiary or affiliate thereof to perform the activity described in the definition of booking service.
+Directly or indirectly. The term “directly or indirectly” means a person acting directly or indirectly through any subsidiary or affiliate thereof to perform the activity described in the definition of booking service.
 
 Dwelling unit. The term “dwelling unit” means a dwelling unit, as such term is defined in the housing maintenance code, that is located in a building within the city.
 

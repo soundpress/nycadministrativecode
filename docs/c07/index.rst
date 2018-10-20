@@ -21,235 +21,211 @@ In the city of New York, with its great cosmopolitan population, there is no gre
 *§ 8-102 Definitions.* ::
 
 
-When used in this chapter:
+Except as otherwise expressly provided, when used in this chapter, the following terms have the following meanings:
 
-1. The term "person" includes one or more natural persons, proprietorships, partnerships, associations, group associations, organizations, governmental bodies or agencies, corporations, legal representatives, trustees, trustees in bankruptcy, or receivers.
+Acts or threats of violence. The term "acts or threats of violence" includes, but is not limited to, acts, which would constitute violations of the penal law.
 
-2. The term "employment agency" includes any person undertaking to procure employees or opportunities to work.
+Alienage or citizenship status. The term "alienage or citizenship status" means:
 
-3. The term "labor organization" includes any organization which exists and is constituted for the purpose, in whole or in part, of collective bargaining or of dealing with employers concerning grievances, terms and conditions of employment, or of other mutual aid or protection in connection with employment.
+   1. The citizenship of any person, or
 
-4. The term "unlawful discriminatory practice" includes only those practices specified in sections 8-107 and 8-107.1 of this chapter.
+   2. The immigration status of any person who is not a citizen or national of the United States.
 
-5. For purposes of subdivisions one, two, three, eleven-a, twenty-two, subparagraph one of paragraph a of subdivision twenty-one, and paragraph e of subdivision twenty-one of section 8-107 of this chapter, the term "employer" does not include any employer with fewer than four persons in his or her employ, provided, however, that in an action for unlawful discriminatory practice based on a claim of gender-based harassment pursuant to subdivision one of section 8-107, the term "employer" shall include any employer, including those with fewer than four persons in their employ. For purposes of this subdivision, natural persons employed as independent contractors to carry out work in furtherance of an employer's business enterprise who are not themselves employers shall be counted as persons in the employ of such employer.
+Caregiver. The term "caregiver" means a person who provides direct and ongoing care for a minor child or a care recipient. As used in this definition:
 
-6. The term "commission" unless a different meaning clearly appears from the text, means the city commission on human rights created by this chapter.
+   1. Care recipient. The term "care recipient" means a person with a disability who: (i) is a covered relative, or a person who resides in the caregiver's household and (ii) relies on the caregiver for medical care or to meet the needs of daily living.
 
-7. The term "national origin" shall, for the purposes of this chapter, include "ancestry."
+   2. Covered relative. The term "covered relative" means a caregiver's child, spouse, domestic partner, parent, sibling, grandchild or grandparent, or the child or parent of the caregiver's spouse or domestic partner, or any other individual in a familial relationship with the caregiver as designated by the rules of the commission.
 
-8. The term "educational institution" includes kindergartens, primary and secondary schools, academies, colleges, universities, professional schools, extension courses, and all other educational facilities.
+   3. Grandchild. The term "grandchild" means a child of a caregiver's child.
 
-9. The term "place or provider of public accommodation" shall include providers, whether licensed or unlicensed, of goods, services, facilities, accommodations, advantages or privileges of any kind, and places, whether licensed or unlicensed, where goods, services, facilities, accommodations, advantages or privileges of any kind are extended, offered, sold, or otherwise made available. Such term shall not include any club which proves that it is in its nature distinctly private. A club shall not be considered in its nature distinctly private if it has more than four hundred members, provides regular meal service and regularly receives payment for dues, fees, use of space, facilities, services, meals or beverages directly or indirectly from or on behalf of non-members for the furtherance of trade or business. For the purposes of this section a corporation incorporated under the benevolent orders law or described in the benevolent orders law but formed under any other law of this state, or a religious corporation incorporated under the education law or the religious corporation law shall be deemed to be in its nature distinctly private. No club which sponsors or conducts any amateur athletic contest or sparring exhibition and advertises or bills such contest or exhibition as a New York state championship contest or uses the words "New York state" in its announcement shall be deemed a private exhibition within the meaning of this section.
+   4. Grandparent. The term "grandparent" means a parent of a caregiver's parent.
 
-10. The term "housing accommodation" includes any building, structure, or portion thereof which is used or occupied or is intended, arranged or designed to be used or occupied, as the home, residence or sleeping place of one or more human beings. Except as otherwise specifically provided, such term shall include a publicly-assisted housing accommodation.
+   5. Parent. The term "parent" means a biological, foster, step- or adoptive parent, or a legal guardian of a caregiver, or a person who stood in loco parentis when the caregiver was a minor child.
 
-11. The term "publicly-assisted housing accommodations" shall include:
+   6. Sibling. The term "sibling" means a caregiver's brother or sister, including half-siblings, step-siblings and siblings related through adoption.
 
-   (a) Publicly-owned or operated housing accommodations.
+   7. Spouse. The term "spouse" means a person to whom a caregiver is legally married under the laws of the state of New York.
 
-   (b) Housing accommodations operated by housing companies under the supervision of the state commissioner of housing and community renewal, or the department of housing preservation and development.
+   8. Child. The term "child" means a biological, adopted or foster child, a legal ward or a child of a caregiver standing in loco parentis.
 
-   (c) Housing accommodations constructed after July first, nineteen hundred fifty, and housing accommodations sold after July first, nineteen hundred ninety-one:
+   9. Minor child. The term "minor child" means a child under the age of 18.
 
-      (1) which are exempt in whole or in part from taxes levied by the state or any of its political subdivisions,
+Commercial space. The term "commercial space" means any space in a building, structure or portion thereof which is used or occupied or is intended, arranged or designed to be used or occupied for the manufacture, sale, resale, processing, reprocessing, displaying, storing, handling, garaging or distribution of personal property; and any space which is used or occupied, or is intended, arranged or designed to be used or occupied as a business or professional unit or office in any building, structure or portion thereof.
 
-      (2) which are constructed on land sold below cost by the state or any of its political subdivisions or any agency thereof, pursuant to the federal housing act of nineteen hundred forty-nine,
+Commission. The term "commission," unless a different meaning clearly appears from the text, means the city commission on human rights.
 
-      (3) which are constructed in whole or in part on property acquired or assembled by the state or any of its political subdivisions or any agency thereof through the power of condemnation or otherwise for the purpose of such construction, or
+Consumer credit history. The term "consumer credit history" means an individual's credit worthiness, credit standing, credit capacity, or payment history, as indicated by: (i) a consumer credit report; (ii) credit score; or (iii) information an employer obtains directly from the individual regarding (1) details about credit accounts, including the individual's number of credit accounts, late or missed payments, charged-off debts, items in collections, credit limit, prior credit report inquiries, or (2) bankruptcies, judgments or liens. A consumer credit report shall include any written or other communication of any information by a consumer reporting agency that bears on a consumer's creditworthiness, credit standing, credit capacity or credit history.
 
-      (4) for the acquisition, construction, repair or maintenance for which the state or any of its political subdivisions or any agency thereof supplies funds or other financial assistance.
+Cooperative dialogue. The term “cooperative dialogue” means the process by which a covered entity and a person entitled to an accommodation, or who may be entitled to an accommodation under the law, engage in good faith in a written or oral dialogue concerning the person’s accommodation needs; potential accommodations that may address the person’s accommodation needs, including alternatives to a requested accommodation; and the difficulties that such potential accommodations may pose for the covered entity.
 
-   (d) Housing accommodations, the acquisition, construction, rehabilitation, repair or maintenance of which is, after July first, nineteen hundred fifty-five, financed in whole or in part by a loan, whether or not secured by a mortgage, the repayment of which is guaranteed or insured by the federal government or any agency thereof, or the state of any of its political subdivisions or any agency thereof.
+Covered entity. The term "covered entity" means a person required to comply with any provision of section 8-107.
 
-12. The term "family" as used in subparagraph four of paragraph a of subdivision five of section 8-107 of this chapter, means either a person occupying a dwelling and maintaining a household, with not more than four boarders, roomers or lodgers, or two or more persons occupying a dwelling, living together and maintaining a common household, with not more than four boarders, roomers or lodgers. A "boarder," "roomer" or "lodger" residing with a family means a person living within the household who pays a consideration for such residence and does not occupy such space within the household as an incident of employment therein.
+Disability. The term "disability" means any physical, medical, mental or psychological impairment, or a history or record of such impairment. As used in this definition:
 
-13. The term "commercial space" means any space in a building, structure, or portion thereof which is used or occupied or is intended, arranged or designed to be used or occupied for the manufacture, sale, resale, processing, reprocessing, displaying, storing, handling, garaging or distribution of personal property; and any space which is used or occupied, or is intended, arranged or designed to be used or occupied as a business or professional unit or office in any building, structure or portion thereof.
+   1. Physical, medical, mental, or psychological impairment. The term "physical, medical, mental, or psychological impairment" means:
 
-14. The term "real estate broker" means any person who, for another and for a fee, commission or other valuable consideration, lists for sale, sells, at auction or otherwise, exchanges, buys or rents, or offers or attempts to negotiate a sale at auction, or otherwise, exchange, purchase or rental of an estate or interest in real estate or collects or offers or attempts to collect rent for the use of real estate, or negotiates, or offers or attempts to negotiate, a loan secured or to be secured by a mortgage or other incumbrance upon or transfer of real estate. In the sale of lots pursuant to the provisions of article nine-a of the real property law, the term "real estate broker" shall also include any person employed by or on behalf of the owner or owners of lots or other parcels of real estate, at a stated salary, or upon commission, or upon a salary and commission, or otherwise, to sell such real estate, or any parts thereof, in lots or other parcels, and who shall sell or exchange, or offer or attempt or agree to negotiate the sale or exchange of any such lot or parcel of real estate.
+      (a) An impairment of any system of the body; including, but not limited to, the neurological system; the musculoskeletal system; the special sense organs and respiratory organs, including, but not limited to, speech organs; the cardiovascular system; the reproductive system; the digestive and genito-urinary systems; the hemic and lymphatic systems; the immunological systems; the skin; and the endocrine system; or
 
-15. The term "real estate salesperson" means a person employed by or authorized by a licensed real estate broker to list for sale, sell or offer for sale at auction or otherwise to buy or offer to buy or to negotiate the purchase or sale or exchange of real estate or to negotiate a loan on real estate or to lease or rent or offer to lease, rent or place for rent any real estate, or who collects or offers or attempts to collect rents for the use of real estate for or on behalf of such real estate broker.
+      (b) A mental or psychological impairment.
 
-16. (a)    The term "disability" means any physical, medical, mental or psychological impairment, or a history or record of such impairment.
+   2. In the case of alcoholism, drug addiction or other substance abuse, the term "disability" only applies to a person who (i) is recovering or has recovered and (ii) currently is free of such abuse, and does not include an individual who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.
 
-   (b) The term "physical, medical, mental, or psychological impairment" means:
+Domestic partner. The term "domestic partner" means any person who has a registered domestic partnership pursuant to section 3-240, a domestic partnership registered in accordance with executive order number 123, dated August 7, 1989, or a domestic partnership registered in accordance with executive order number 48, dated January 7, 1993.
 
-      (1) an impairment of any system of the body; including, but not limited to: the neurological system; the musculoskeletal system; the special sense organs and respiratory organs, including, but not limited to, speech organs; the cardiovascular system; the reproductive system; the digestive and genito-urinary systems; the hemic and lymphatic systems; the immunological systems; the skin; and the endocrine system; or
+Educational institution. The term "educational institution" includes kindergartens, primary and secondary schools, academies, colleges, universities, professional schools, extension courses, and all other educational facilities.
 
-      (2) a mental or psychological impairment.
+Employer. For purposes of subdivisions 1, 2, 3, 11-a, and 22, subparagraph 1 of paragraph a of subdivision 21, and paragraph e of subdivision 21 of section 8-107, the term "employer" does not include any employer with fewer than four persons in the employ of such employer, provided however, that in an action for unlawful discriminatory practice based on a claim of gender-based harassment pursuant to subdivision one of section 8-107, the term "employer" shall include any employer, including those with fewer than four persons in their employ. For purposes of this definition, natural persons employed as independent contractors to carry out work in furtherance of an employer's business enterprise who are not themselves employers shall be counted as persons in the employ of such employer.
 
-   (c) In the case of alcoholism, drug addiction or other substance abuse, the term "disability" shall only apply to a person who (1) is recovering or has recovered and (2) currently is free of such abuse, and shall not include an individual who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.
+Employment agency. The term "employment agency" includes any person undertaking to procure employees or opportunities to work.
 
-17. The term "covered entity" means a person required to comply with any provision of sections 8-107 or 8-107.1 of this chapter.
+Family. The term "family," as used in subparagraph (4) of paragraph a of subdivision 5 of section 8-107, means either a person occupying a dwelling and maintaining a household, with not more than four boarders, roomers or lodgers, or two or more persons occupying a dwelling, living together and maintaining a common household, with not more than four boarders, roomers or lodgers. As used in this definition, a "boarder," "roomer" or "lodger" residing with a family means a person living within the household who pays a consideration for such residence and does not occupy such space within the household as an incident of employment therein.
 
-18. The term "reasonable accommodation" means such accommodation that can be made that shall not cause undue hardship in the conduct of the covered entity's business. The covered entity shall have the burden of proving undue hardship. In making a determination of undue hardship with respect to claims filed under subdivisions one, two, or twenty-two of section 8-107, or section 8-107.1 of this chapter, the factors which may be considered include but shall not be limited to:
+Gender. The term "gender" includes actual or perceived sex, gender identity and gender expression, including a person's actual or perceived gender-related self-image, appearance, behavior, expression or other gender-related characteristic, regardless of the sex assigned to that person at birth.
 
-   (a) the nature and cost of the accommodation;
+Housing accommodation. The term "housing accommodation" includes any building, structure or portion thereof that is used or occupied or is intended, arranged or designed to be used or occupied, as the home, residence or sleeping place of one or more human beings. Except as otherwise specifically provided, such term includes a publicly-assisted housing accommodation.
 
-   (b) the overall financial resources of the facility or the facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;
+Intelligence information. The term "intelligence information" means records and data compiled for the purpose of criminal investigation or counterterrorism, including records and data relating to the order or security of a correctional facility, reports of informants, investigators or other persons, or from any type of surveillance associated with an identifiable individual, or investigation or analysis of potential terrorist threats.
 
-   (c) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees, the number, type, and location of its facilities; and
+Intern.
 
-   (d) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity. In making a determination of undue hardship with respect to claims for reasonable accommodation to an employee's or prospective employee's religious observance filed under subdivision three of section 8-107 of this chapter, the definition of "undue hardship" set forth in paragraph b of such subdivision shall apply.
+   1. The term "intern" means an individual who performs work for an employer on a temporary basis whose work:
 
-19. The term "occupation" means any lawful vocation, trade, profession or field of specialization.
+      (a) Provides training or supplements training given in an educational environment such that the employability of the individual performing the work may be enhanced;
 
-20. The term "sexual orientation" means an individual's actual or perceived romantic, physical or sexual attraction to other persons, or lack thereof, on the basis of gender. A continuum of sexual orientation exists and includes, but is not limited to, heterosexuality, homosexuality, bisexuality, asexuality, and pansexuality.
+      (b) Provides experience for the benefit of the individual performing the work; and
 
-21. The term "alienage or citizenship status" means:
+      (c) Is performed under the close supervision of existing staff.
 
-   (a) the citizenship of any person, or
+   2. The term includes such individuals without regard to whether the employer pays them a salary or wage.
 
-   (b) the immigration status of any person who is not a citizen or national of the United States.
+Labor organization. The term "labor organization" includes any organization that exists and is constituted for the purpose, in whole or in part, of collective bargaining or of dealing with employers concerning grievances, terms and conditions of employment, or of other mutual aid or protection in connection with employment.
 
-22. The term "hate crime" means a crime that manifests evidence of prejudice based on race, religion, ethnicity, disability, sexual orientation, national origin, age, gender, or alienage or citizenship status.
+Lawful source of income. The term "lawful source of income" includes income derived from social security, or any form of federal, state or local public assistance or housing assistance including section 8 vouchers.
 
-23. The term "gender" shall include actual or perceived sex, gender identity, and gender expression including a person's actual or perceived gender-related self-image, appearance, behavior, expression, or other gender-related characteristic, regardless of the sex assigned to that person at birth.
+National origin. The term "national origin" includes "ancestry."
 
-24. The term "partnership status" means the status of being in a domestic partnership, as defined by § 3-240(a) of the administrative code of the city of New York.
+National security information. The term "national security information" means any knowledge relating to the national defense or foreign relations of the United States, regardless of its physical form or characteristics, that is owned by, is produced by or for, or is under the control of the United States government and is defined as such by the United States government and its agencies and departments.
 
-25. The term "lawful source of income" shall include income derived from social security, or any form of federal, state or local public assistance or housing assistance including section 8 vouchers.
+Occupation. The term "occupation" means any lawful vocation, trade, profession or field of specialization.
 
-26. The term "cyberbullying" means willful and repeated harm inflicted through the use of computers, cell phones, and other electronic devices that is intended to frighten, harass, cause harm to, extort, or otherwise target another.
+Partnership status. The term "partnership status" means the status of being in a domestic partnership, as defined by subdivision a of section 3-240.
 
-27. The terms "unemployed" or "unemployment" shall mean not having a job, being available for work, and seeking employment.
+Person. The term "person" includes one or more natural persons, proprietorships, partnerships, associations, group associations, organizations, governmental bodies or agencies, corporations, legal representatives, trustees, trustees in bankruptcy, or receivers.
 
-28. The term "intern" shall mean an individual who performs work for an employer on a temporary basis whose work: (a) provides training or supplements training given in an educational environment such that the employability of the individual performing the work may be enhanced; (b) provides experience for the benefit of the individual performing the work; and (c) is performed under the close supervision of existing staff. The term shall include such individuals without regard to whether the employer pays them a salary or wage.
+Person aggrieved.
 
-29. The term "consumer credit history" means an individual's credit worthiness, credit standing, credit capacity, or payment history, as indicated by: (a) a consumer credit report; (b) credit score; or (c) information an employer obtains directly from the individual regarding (1) details about credit accounts, including the individual's number of credit accounts, late or missed payments, charged-off debts, items in collections, credit limit, prior credit report inquiries, or (2) bankruptcies, judgments or liens. A consumer credit report shall include any written or other communication of any information by a consumer reporting agency that bears on a consumer's creditworthiness, credit standing, credit capacity or credit history.
+   1. The term "person aggrieved," except as used in section 8-123, includes a person whose right created, granted or protected by this chapter is violated by a covered entity directly or through conduct of the covered entity to which the person's agent or employee is subjected while the agent or employee was acting, or as a result of the agent or employee having acted, within the scope of the agency or employment relationship. For purposes of this definition, an agent or employee's protected status is imputed to that person's principal or employer when the agent or employee acts within the scope of the agency or employment relationship. It is irrelevant whether or not the covered entity knows of the agency or employment relationship.
 
-30. (a) The term "caregiver" means a person who provides direct and ongoing care for a minor child or a care recipient.
+   2. A person is aggrieved even if that person's only injury is the deprivation of a right granted or protected by this chapter.
 
-   (b) The term "care recipient" means a person with a disability who: (i) is a covered relative, or a person who resides in the caregiver's household; and (ii) relies on the caregiver for medical care or to meet the needs of daily living.
+   3. This definition does not limit or exclude any other basis for a cause of action.
 
-   (c) The term "covered relative" means a caregiver's child, spouse, domestic partner, parent, sibling, grandchild or grandparent, or the child or parent of the caregiver's spouse or domestic partner, or any other individual in a familial relationship with the caregiver as designated by the rules of the Commission.
+Place or provider of public accommodation. The term "place or provider of public accommodation" includes providers, whether licensed or unlicensed, of goods, services, facilities, accommodations, advantages or privileges of any kind, and places, whether licensed or unlicensed, where goods, services, facilities, accommodations, advantages or privileges of any kind are extended, offered, sold, or otherwise made available. Such term does not include any club which proves that it is in its nature distinctly private. A club is not in its nature distinctly private if it has more than 400 members, provides regular meal service and regularly receives payment for dues, fees, use of space, facilities, services, meals or beverages directly or indirectly from or on behalf of non-members for the furtherance of trade or business. For the purposes of this definition, a corporation incorporated under the benevolent orders law or described in the benevolent orders law but formed under any other law of this state, or a religious corporation incorporated under the education law or the religious corporation law is deemed to be in its nature distinctly private. No club that sponsors or conducts any amateur athletic contest or sparring exhibition and advertises or bills such contest or exhibition as a New York state championship contest or uses the words "New York state" in its announcements is a private exhibition within the meaning of this definition.
 
-   (d) The term "grandchild" means a child of a caregiver's child.
+Publicly-assisted housing accommodations. The term "publicly-assisted housing accommodations" includes:
 
-   (e) The term "grandparent" means a parent of a caregiver's parent.
+   1. Publicly-owned or operated housing accommodations;
 
-   (f) The term "parent" means a biological, foster, step- or adoptive parent, or a legal guardian of a caregiver, or a person who stood in loco parentis when the caregiver was a minor child.
+   2. Housing accommodations operated by housing companies under the supervision of the state commissioner of housing and community renewal, or the department of housing preservation and development;
 
-   (g) The term "sibling" means a caregiver's brother or sister, including half-siblings, step-siblings and siblings related through adoption.
+   3. Housing accommodations constructed after July 1, 1950, and housing accommodations sold after July 1, 1991:
 
-   (h) The term "spouse" means a person to whom a caregiver is legally married under the laws of the state of New York.
+      (a) That are exempt in whole or in part from taxes levied by the state or any of its political subdivisions;
 
-   (i) The term "child" means a biological, adopted or foster child, a legal ward, or a child of a caregiver standing in loco parentis.
+      (b) That are constructed on land sold below cost by the state or any of its political subdivisions or any agency thereof, pursuant to the federal housing act of 1949;
 
-   (j) The term "minor child" means a child under the age of 18.
+      (c)  That are constructed in whole or in part on property acquired or assembled by the state or any of its political subdivisions or any agency thereof through the power of condemnation or otherwise for the purpose of such construction; or
 
-31. The term "domestic partner" means any person who has a registered domestic partnership pursuant to section 3-240 of the code, a domestic partnership registered in accordance with executive order number 123, dated August 7, 1989, or a domestic partnership registered in accordance with executive order number 48, dated January 7, 1993.
+      (d) For the acquisition, construction, repair or maintenance for which the state or any of its political subdivisions or any agency thereof supplies funds or other financial assistance; and
 
-32. a. The term "person aggrieved," except as used in section 8-123, includes a person whose right created, granted or protected by this chapter is violated by a covered entity directly or through conduct of the covered entity to which the person’s agent or employee is subjected while the agent or employee was acting, or as a result of the agent or employee having acted, within the scope of the agency or employment relationship. For purposes of this subdivision, an agent or employee's protected status is imputed to that person's principal or employer when the agent or employee acts within the scope of the agency or employment relationship. It is irrelevant whether or not the covered entity knows of the agency or employment relationship.
+   4. Housing accommodations, the acquisition, construction, rehabilitation, repair or maintenance of which is, after July 1, 1955, financed in whole or in part by a loan, whether or not secured by a mortgage, the repayment of which is guaranteed or insured by the federal government or any agency thereof, or the state or any of its political subdivisions or any agency thereof.
 
-   b. A person is aggrieved even if that person’s only injury is the deprivation of a right granted or protected by this chapter.
+Real estate broker. The term "real estate broker" means any person who, for another and for a fee, commission or other valuable consideration, lists for sale, sells, at auction or otherwise, exchanges, buys or rents, or offers or attempts to negotiate a sale at auction, or otherwise, exchange, purchase or rental of an estate or interest in real estate or collects or offers or attempts to collect rent for the use of real estate, or negotiates, or offers or attempts to negotiate, a loan secured or to be secured by a mortgage or other incumbrance upon or transfer of real estate. In the sale of lots pursuant to the provisions of article nine-a of the real property law, the term "real estate broker" shall also include any person employed by or on behalf of the owner or owners of lots or other parcels of real estate, at a stated salary, or upon commission, or upon a salary and commission, or otherwise, to sell such real estate, or any parts thereof, in lots or other parcels, and who shall sell or exchange, or offer or attempt or agree to negotiate the sale or exchange of any such lot or parcel of real estate.
 
-   c. This subdivision does not limit or exclude any other basis for a cause of action.
+Real estate salesperson. The term "real estate salesperson" means a person employed by or authorized by a licensed real estate broker to list for sale, sell or offer for sale at auction or otherwise to buy or offer to buy or to negotiate the purchase or sale or exchange of real estate or to negotiate a loan on real estate or to lease or rent or offer to lease, rent or place for rent any real estate, or who collects or offers or attempts to collect rents for the use of real estate for or on behalf of such real estate broker.
 
-33. The term “uniformed service” means:
+Reasonable accommodation.
 
-   a. Current or prior service in
+   1. The term "reasonable accommodation" means such accommodation that can be made that does not cause undue hardship in the conduct of the covered entity's business. The covered entity has the burden of proving undue hardship. In making a determination of undue hardship with respect to claims filed under subdivisions 1, 2, 22 or 27 of section 8-107, the factors which may be considered include but are not limited to:
 
-      (1) The United States army, navy, air force, marine corps, coast guard, the commissioned corps of the national oceanic and atmospheric administration, the commissioned corps of the United States public health services, army national guard or the air national guard;
+      (a) The nature and cost of the accommodation;
 
-      (2) The organized militia of the state of New York, as described in section 2 of the military law, or the organized militia of any other state, territory or possession of the United States;
+      (b) The overall financial resources of the facility or the facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;
 
-      (3) Any other service designated as part of the “uniformed services” pursuant to subsection (16) of section 4303 of title 38 of the United States code.
+      (c) The overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees, the number, type, and location of its facilities; and
 
-   b. Membership in any reserve component of the United States army, navy, air force, marine corps, or coast guard; or
+      (d) The type of operation or operations of the covered entity, including the composition, structure and functions of the workforce of such entity; the geographic separateness, administrative or fiscal relationship of the facility or facilities in question to the covered entity.
 
-   c. Being listed on the state reserve list or the state retired list as described in section 2 of the military law or comparable status for any other state, territory or possession of the United States.
+   2. In making a determination of undue hardship with respect to claims for reasonable accommodation to an employee's or prospective employee's religious observance filed under subdivision 3 of section 8-107, the definition of "undue hardship" set forth in paragraph b of such subdivision applies.
 
+Sexual orientation. The term "sexual orientation" means an individual's actual or perceived romantic, physical or sexual attraction to other persons, or lack thereof, on the basis of gender. A continuum of sexual orientation exists and includes, but is not limited to, heterosexuality, homosexuality, bisexuality, asexuality and pansexuality.
 
+Trade secrets. The term "trade secrets" means information that (i) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use; (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy; and (iii) can reasonably be said to be the end product of significant innovation. The term "trade secrets" does not include general proprietary company information such as handbooks and policies. The term "regular access to trade secrets" does not include access to or the use of client, customer or mailing lists.
 
+Unemployed or unemployment. The term "unemployed" or "unemployment" means not having a job, being available for work, and seeking employment.
 
+Uniformed service. The term "uniformed service" means:
 
+   1. Current or prior service in:
 
+      (a) The United States army, navy, air force, marine corps, coast guard, commissioned corps of the national oceanic and atmospheric administration, commissioned corps of the United States public health services, army national guard or air national guard;
 
+      (b) The organized militia of the state of New York, as described in section 2 of the military law, or the organized militia of any other state, territory or possession of the United States; or
 
-*§ 8-103 Commission on human rights.* ::
+      (c) Any other service designated as part of the "uniformed services" pursuant to subsection (16) of section 4303 of title 38 of the United States code;
 
+   2. Membership in any reserve component of the United States army, navy, air force, marine corps, or coast guard; or
 
-There is hereby created a commission on human rights. It shall consist of fifteen members, to be appointed by the mayor, one of whom shall be designated by the mayor as its chairperson and shall serve as such at the pleasure of the mayor. The chairperson shall devote his or her entire time to the chairperson's duties and shall not engage in any other occupation, profession or employment. Members other than the chairperson shall serve without compensation. Of the fifteen members first appointed, five shall be appointed for one year, five for two years and five for three years; thereafter all appointments to the commission shall be for a term of three years. In the event of the death or resignation of any member, his or her successor shall be appointed to serve for the unexpired period of the term for which such member had been appointed.
+   3. Being listed on the state reserve list or the state retired list as described in section 2 of the military law or comparable status for any other state, territory or possession of the United States.
 
+Unlawful discriminatory practice. The term "unlawful discriminatory practice" includes only those practices specified in section 8-107.
 
+Victim of domestic violence. The term "victim of domestic violence" means a person who has been subjected to acts or threats of violence, not including acts of self-defense, committed by a current or former spouse of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim, by a person who is or has been in a continuing social relationship of a romantic or intimate nature with the victim, or by a person who is or has continually or at regular intervals lived in the same household as the victim.
 
+Victim of sex offenses or stalking. The term "victim of sex offenses or stalking" means a victim of acts that would constitute violations of article 130 of the penal law or a victim of acts that would constitute violations of sections 120.45, 120.50, 120.55, or 120.60 of the penal law.
 
+(Am. L.L. 2015/063, 6/29/2015, eff. 10/27/2015; Am. L.L. 2016/001, 1/5/2016, eff. 5/4/2016; Am. L.L. 2016/040, 4/6/2016, eff. 8/4/2016; Am. L.L. 2017/119, 7/22/2017, eff. 11/19/2017; Am. L.L. 2018/038, 1/11/2018, eff. 5/11/2018; Am. L.L. 2018/059, 1/19/2018, eff. 10/16/2018; Am. L.L. 2018/063, 1/19/2018, eff. 10/16/2018; Am. L.L. 2018/098, 5/9/2018, eff. 5/9/2018 and 10/16/2018.
 
 
-*§ 8-104 Functions.* ::
 
 
-The functions of the commission shall be:
 
-(1) To foster mutual understanding and respect among all persons in the city of New York;
 
-(2) To encourage equality of treatment for, and prevent discrimination against, any group or its members;
+*§ 8-103 Commission on human rights. [Repealed]* ::
 
-(3) To cooperate with governmental and non-governmental agencies and organizations having like or kindred functions; and
 
-(4) To make such investigations and studies in the field of human relations as in the judgment of the commission will aid in effectuating its general purposes.
 
 
 
 
 
 
-*§ 8-105 Powers and duties.* ::
 
+*§ 8-104 Functions. [Repealed]* ::
 
-The powers and duties of the commission shall be:
 
-(1) To work together with federal, state, and city agencies in developing courses of instruction, for presentation to city employees and in public and private schools, public libraries, museums and other suitable places, on techniques for achieving harmonious intergroup relations within the city of New York, on types of bias-related harassment and repeated hostile behavior including conduct or verbal threats, taunting, intimidation, abuse, and cyberbullying, and to engage in other anti-discrimination activities.
 
-(2) To enlist the cooperation of various groups, and organizations, in mediation efforts, programs and campaigns devoted to eliminating group prejudice, intolerance, hate crimes, bigotry and discrimination.
 
-(3) To study the problems of prejudice, intolerance, bigotry, discrimination and disorder occasioned thereby in all or any fields of human relationship.
 
-(4) (a)    To receive, investigate and pass upon complaints and to initiate its own investigations of:
 
-      (i) Group tensions, prejudice, intolerance, bigotry and disorder occasioned thereby.
 
-      (ii) Discrimination against any person or group of persons, provided, however, that with respect to discrimination alleged to be committed by city officials or city agencies, such investigation shall be commenced after consultation with the mayor. Upon its own motion, to make, sign and file complaints alleging violations of this chapter.
 
-   (b) In the event that any investigation undertaken pursuant to paragraph a of this subdivision discloses information that any person or group of persons may be engaged in a pattern or practice that results in the denial to any person or group of persons of the full enjoyment of any right secured by this chapter, in addition to making, signing and filing a complaint upon its own motion pursuant to paragraph a of this subdivision, to refer such information to the corporation counsel for the purpose of commencing a civil action pursuant to chapter four of this title.
 
-(5) (a)    To issue subpoenas in the manner provided for in the civil practice law and rules compelling the attendance of witnesses and requiring the production of any evidence relating to any matter under investigation or any question before the commission, and to take proof with respect thereto;
+*§ 8-105 Powers and duties. [Repealed]* ::
 
-   (b) To hold hearings, administer oaths and take the testimony of any person under oath; and
 
-   (c) In accordance with applicable law, to require the production of any names of persons necessary for the investigation of any institution, club or other place or provider of accommodation.
 
-(6) In accordance with the provision of subdivision b of section 8-114 of this chapter, to require any person or persons who are the subject of an investigation by the commission to preserve such records as are in the possession of such person or persons and to continue to make and keep the type of records that have been made and kept by such person or persons in the ordinary course of business within the previous year, which records are relevant to the determination whether such person or persons have committed unlawful discriminatory practices with respect to activities in the city.
 
-(7) To issue publications and reports of investigations and research designed to promote good will and minimize or eliminate prejudice, intolerance, bigotry, discrimination and disorder occasioned thereby.
 
-(8) To appoint such employees and agents as it deems to be necessary to carry out its functions, powers and duties and to assign to such persons any of such functions, powers and duties; provided, however, that the commission shall not delegate its power to adopt rules, and, provided further, that the commission's power to order that records be preserved or made and kept pursuant to subdivision b of section 8-114 of this chapter and the commission's power to determine that a respondent has engaged in an unlawful discriminatory practice and to issue an order for such relief as is necessary and proper shall be delegated only to members of the commission. The expenses for the carrying on of the commission's activities shall be paid out of the funds in the city treasury. The commission's appointment and assignment powers as set forth in this subdivision may be exercised by the chairperson of the commission.
 
-(9) To recommend to the mayor and to the council, legislation to aid in carrying out the purpose of this chapter.
 
-(10) To submit an annual report by March 1 to the mayor and the council which shall be published in the City Record. Such annual report shall include information for the calendar year that is the subject of the report regarding: (i) inquiries received by the commission from the public; provided that such information for calendar years 2009 and 2010 must only be included in the annual report submitted by March 1, 2012, (ii) investigations initiated by the commission; (iii) complaints filed with the commission, and (iv) education and outreach efforts made by the commission.
 
-   (a) The information regarding inquiries received by the commission from the public shall include, but not be limited to: (i) the total number of inquiries; (ii) the number of inquiries made by limited English proficient persons disaggregated by language; (iii) the subject matter of inquiries disaggregated by the alleged category of unlawful discriminatory practice as set forth by sections 8-107 and 8-107.1(2) of this chapter and the protected class of person, and (iv) the number of inquiries resolved by pre-complaint intervention.
 
-   (b) The information regarding investigations initiated by the commission shall include, but not be limited to: (i) the total number of investigations initiated by the commission disaggregated by the category of unlawful discriminatory practice as set forth by sections 8-107 and 8-107.1(2) of this chapter and the protected class at issue; (ii) the total number of commission-initiated complaints filed pursuant to section 8-109 of this chapter after an investigation finding that a person or group of persons may be engaged in a pattern or practice of discrimination; (iii) the total number of investigations referred to the corporation counsel for the purpose of commencing a civil action pursuant to chapter four of this title; and (iv) the total number of publications and reports of investigations designed to promote good will and minimize or eliminate prejudice, intolerance, bigotry, discrimination and disorder occasioned thereby.
+*§ 8-106 Relations with city departments and agencies. [Repealed]* ::
 
-   (c) The information regarding complaints filed with the commission shall include, but not be limited to, the number of complaints filed with the commission and shall be disaggregated by: (i) the category of unlawful discriminatory practice, as set forth by sections 8-107 and 8-107.1(2) of this chapter, alleged; (ii) the basis of the alleged discriminatory practice based on protected class of the complainant; (iii) whether the complaint was resolved by mediation and conciliation, as set forth in section 8-115 of this chapter; a determination of no probable cause, as set forth in section 8-116 of this chapter; or a hearing, as set forth by section 8-119 of this chapter; (iv) the number of days the complaint was outstanding at the time such resolution occurred; and (v) whether a fine, penalty, or cash award was imposed and, if so, the dollar amount of such fine, penalty or cash award.
 
-   (d) The information regarding the commission's education and outreach efforts as required by sections 8-105(1) and 8-105(2) of this chapter shall include, but not be limited to: (i) the types of outreach initiated; (ii) the number of people with whom the commission made contact as a result of outreach; (iii) the number of limited English proficient persons served; and (iv) the languages in which such outreach was conducted.
 
-(11) To adopt rules to carry out the provisions of this chapter and the policies and procedures of the commission in connection therewith.
-
-
-
-
-
-
-
-
-*§ 8-106 Relations with city departments and agencies.* ::
-
-
-So far as practicable and subject to the approval of the mayor, the services of all other city departments and agencies shall be made available by their respective heads to the commission for the carrying out of the functions herein stated. The head of any department or agency shall furnish information in the possession of such department or agency when the commission so requests. The corporation counsel, upon request of the chairperson of the commission, may assign counsel to assist the commission in the conduct of its investigatory or prosecutorial functions.
 
 
 
@@ -275,31 +251,33 @@ So far as practicable and subject to the approval of the mayor, the services of 
 
    (d) For any employer, labor organization or employment agency or an employee or agent thereof to declare, print or circulate or cause to be declared, printed or circulated any statement, advertisement or publication, or to use any form of application for employment or to make any inquiry in connection with prospective employment, which expresses, directly or indirectly, any limitation, specification or discrimination as to age, race, creed, color, national origin, gender, disability, marital status, partnership status, caregiver status, sexual orientation, uniformed service or alienage or citizenship status, or any intent to make any such limitation, specification or discrimination.
 
-   (e) The provisions of this subdivision and subdivision two of this section: (i) as they apply to employee benefit plans, shall not be construed to preclude an employer from observing the provisions of any plan covered by the federal employment retirement income security act of nineteen hundred seventy-four that is in compliance with applicable federal discrimination laws where the application of the provisions of such subdivisions to such plan would be preempted by such act; (ii) shall not preclude the varying of insurance coverages according to an employee's age; (iii) shall not be construed to affect any retirement policy or system that is permitted pursuant to paragraph (e) and (f) of subdivison three-a of section two hundred ninety-six of the executive law; (iv) shall not be construed to affect the retirement policy or system of an employer where such policy or system is not a subterfuge to evade the purposes of this chapter.
+   (e) The provisions of this subdivision and subdivision 2 of this section: (i) as they apply to employee benefit plans, shall not be construed to preclude an employer from observing the provisions of any plan covered by the federal employment retirement income security act of 1974 that is in compliance with applicable federal discrimination laws where the application of the provisions of such subdivisions to such plan would be preempted by such act; (ii) shall not preclude the varying of insurance coverages according to an employee's age; (iii) shall not be construed to affect any retirement policy or system that is permitted pursuant to paragraphs (e) and (f) of subdivision 3-a of section 296 of the executive law; (iv) shall not be construed to affect the retirement policy or system of an employer where such policy or system is not a subterfuge to evade the purposes of this chapter.
 
-   (f) The provisions of this subdivision shall not govern the employment by an employer of his or her parents, spouse, domestic partner, or children; provided, however, that such family members shall be counted as persons employed by an employer for the purposes of subdivision five of section 8-102 of this chapter.
+   (f) The provisions of this subdivision shall not govern the employment by an employer of the employer's parents, spouse, domestic partner, or children; provided, however, that such family members shall be counted as persons employed by an employer for the purposes of the definition of employer set forth in section 8-102.
 
 2. Apprentice training programs. It shall be an unlawful discriminatory practice for an employer, labor organization, employment agency or any joint labor-management committee controlling apprentice training programs or an employee or agent thereof:
 
    (a) To select persons for an apprentice training program registered with the state of New York on any basis other than their qualifications, as determined by objective criteria which permit review.
 
-   (b) To deny to or withhold from any person because of his or her actual or perceived race, creed, color, national origin, gender, age, disability, marital status, partnership status, sexual orientation, uniformed service or alienage or citizenship status the right to be admitted to or participate in, a guidance program, an apprentice training program, on-the-job training program, or other occupational training or retraining program, or to represent that such program is not available when in fact it is available.
+   (b) To deny to or withhold from any person because of such person's actual or perceived race, creed, color, national origin, gender, age, disability, marital status, partnership status, sexual orientation, uniformed service, alienage or citizenship status or status as a victim of domestic violence or as a victim of sex offenses or stalking the right to be admitted to or participate in a guidance program, an apprentice training program, on-the-job training program, or other occupational training or retraining program, or to represent that such program is not available when in fact it is available.
 
-   (c) To discriminate against any person in his or her pursuit of such program or to discriminate against such a person in the terms, conditions or privileges of such program because of actual or perceived race, creed, color, national origin, gender, age, disability, marital status, partnership status, sexual orientation, uniformed service or alienage or citizenship status.
+   (c) To discriminate against any person in such person's pursuit of such program or to discriminate against such a person in the terms, conditions or privileges of such program because of actual or perceived race, creed, color, national origin, gender, age, disability, marital status, partnership status, sexual orientation, uniformed service, alienage or citizenship status or status as a victim of domestic violence or as a victim of sex offenses or stalking.
 
-   (d) To declare, print or circulate or cause to be declared, printed or circulated any statement, advertisement or publication, or to use any form of application for such program or to make any inquiry in connection with such program which expresses, directly or indirectly, any limitation, specification or discrimination as to race, creed, color, national origin, gender, age, disability, marital status, partnership status, sexual orientation, uniformed service or alienage or citizenship status, or any intent to make any such limitation, specification or discrimination.
+   (d) To declare, print or circulate or cause to be declared, printed or circulated any statement, advertisement or publication, or to use any form of application for such program or to make any inquiry in connection with such program which expresses, directly or indirectly, any limitation, specification or discrimination as to race, creed, color, national origin, gender, age, disability, marital status, partnership status, sexual orientation, uniformed service, alienage or citizenship status or status as a victim of domestic violence or as a victim of sex offenses or stalking, or any intent to make any such limitation, specification or discrimination.
 
 3. Employment; religious observance.
 
-   (a) It shall be an unlawful discriminatory practice for an employer or an employee or agent thereof to impose upon a person as a condition of obtaining or retaining employment any terms or conditions, compliance with which would require such person to violate, or forego a practice of, his or her creed or religion, including but not limited to the observance of any particular day or days or any portion thereof as a sabbath or holy day or the observance of any religious custom or usage, and the employer shall make reasonable accommodation to the religious needs of such person. Without in any way limiting the foregoing, no person shall be required to remain at his or her place of employment during any day or days or portion thereof that, as a requirement of such person's religion, he or she observes as a sabbath or other holy day, including a reasonable time prior and subsequent thereto for travel between his or her place of employment and his or her home, provided, however, that any such absence from work shall, wherever practicable in the judgment of the employer, be made up by an equivalent amount of time at some other mutually convenient time.
+   (a) It shall be an unlawful discriminatory practice for an employer or an employee or agent thereof to impose upon a person as a condition of obtaining or retaining employment any terms or conditions, compliance with which would require such person to violate, or forego a practice of, such person's creed or religion, including but not limited to the observance of any particular day or days or any portion thereof as a sabbath or holy day or the observance of any religious custom or usage, and the employer shall make reasonable accommodation to the religious needs of such person. Without in any way limiting the foregoing, no person shall be required to remain at such person's place of employment during any day or days or portion thereof that, as a requirement of such person's religion, such person observes as a sabbath or other holy day, including a reasonable time prior and subsequent thereto for travel between such person's place of employment and such person's home, provided, however, that any such absence from work shall, wherever practicable in the judgment of the employer, be made up by an equivalent amount of time at some other mutually convenient time.
 
    (b) "Reasonable accommodation", as used in this subdivision, shall mean such accommodation to an employee's or prospective employee's religious observance or practice as shall not cause undue hardship in the conduct of the employer's business. The employer shall have the burden of proof to show such hardship. "Undue hardship" as used in this subdivision shall mean an accommodation requiring significant expense or difficulty (including a significant interference with the safe or efficient operation of the workplace or a violation of a bona fide seniority system). Factors to be considered in determining whether the accommodation constitutes an undue economic hardship shall include, but not be limited to:
 
-      (i) the identifiable cost of the accommodation, including the costs of loss of productivity and of retaining or hiring employees or transferring employees from one facility to another, in relation to the size and operating cost of the employer;
+      (i) The identifiable cost of the accommodation, including the costs of loss of productivity and of retaining or hiring employees or transferring employees from one facility to another, in relation to the size and operating cost of the employer;
 
-      (ii) the number of individuals who will need the particular accommodation to a sincerely held religious observance or practice; and
+      (ii) The number of individuals who will need the particular accommodation to a sincerely held religious observance or practice; and
 
-      (iii) for an employer with multiple facilities, the degree to which the geographic separateness or administrative or fiscal relationship of the facilities will make the accommodation more difficult or expensive. Provided, however, an accommodation shall be considered to constitute an undue hardship, for purposes of this subdivision, if it will result in the inability of an employee who is seeking a religious accommodation to perform the essential functions of the position in which he or she is employed.
+      (iii) For an employer with multiple facilities, the degree to which the geographic separateness or administrative or fiscal relationship of the facilities will make the accommodation more difficult or expensive.
+
+   Provided, however, an accommodation shall be considered to constitute an undue hardship, for purposes of this subdivision, if it will result in the inability of an employee who is seeking a religious accommodation to perform the essential functions of the position in which the employee is employed.
 
 4. Public accommodations.
 
@@ -319,11 +297,11 @@ So far as practicable and subject to the approval of the mayor, the services of 
 
    b. Notwithstanding the foregoing, the provisions of this subdivision shall not apply, with respect to age or gender, to places or providers of public accommodation where the commission grants an exemption based on bona fide considerations of public policy.
 
-   c. The provisions of this subdivision relating to discrimination on the basis of gender shall not prohibit any educational institution subject to this subdivision from making gender distinctions which would be permitted (i) for educational institutions which are subject to section thirty-two hundred one-a of the education law or any rules or regulations promulgated by the state commissioner of education relating to gender or (ii) under 45 CFR §§ 86.32, 86.33 and 86.34 for educational institutions covered thereunder.
+   c. The provisions of this subdivision relating to discrimination on the basis of gender shall not prohibit any educational institution subject to this subdivision from making gender distinctions which would be permitted (i) for educational institutions which are subject to section 3201-a of the education law or any rules or regulations promulgated by the state commissioner of education relating to gender or (ii) under sections 86.32, 86.33 and 86.34 of title 45 of the code of federal regulations for educational institutions covered thereunder.
 
    d. Nothing in this subdivision shall be construed to preclude an educational institution—other than a publicly-operated educational institution—which establishes or maintains a policy of educating persons of one gender exclusively from limiting admissions to students of that gender.
 
-   e. The provisions of this section relating to disparate impact shall not apply to the use of standardized tests as defined by section three hundred forty of the education law by an educational institution subject to this subdivision provided that such test is used in the manner and for the purpose prescribed by the test agency which designed the test.
+   e. The provisions of this section relating to disparate impact shall not apply to the use of standardized tests as defined by section 340 of the education law by an educational institution subject to this subdivision provided that such test is used in the manner and for the purpose prescribed by the test agency which designed the test.
 
    f. The provisions of this subdivision as they relate to unlawful discriminatory practices by educational institutions shall not apply to matters that are strictly educational or pedagogic in nature.
 
@@ -395,17 +373,17 @@ So far as practicable and subject to the approval of the mayor, the services of 
 
    (f) Real estate related transactions. It shall be an unlawful discriminatory practice for any person whose business includes the appraisal of housing accommodations, land or commercial space or interest therein or an employee or agent thereof to discriminate in making available or in the terms or conditions of such appraisal on the basis of the actual or perceived race, creed, color, national origin, gender, disability, sexual orientation, uniformed service, age, marital status, partnership status, or alienage or citizenship status of any person or because children are, may be or would be residing with such person.
 
-   (g) Applicability; persons under eighteen years of age. The provisions of this subdivision, as they relate to unlawful discriminatory practices in housing accommodations, land and commercial space or an interest therein and lending practices on the basis of age, shall not apply to unemancipated persons under the age of eighteen years.
+   (g) Applicability; persons under 18 years of age. The provisions of this subdivision, as they relate to unlawful discriminatory practices in housing accommodations, land and commercial space or an interest therein and lending practices on the basis of age, shall not apply to unemancipated persons under the age of 18 years.
 
-   (h) Applicability; discrimination against persons with children. The provisions of this subdivision with respect to discrimination against persons with whom children are, may be or would be residing shall not apply to housing for older persons as defined in paragraphs two and three of 42 U.S.C. § 3607(b) and any regulations promulgated thereunder.
+   (h) Applicability; discrimination against persons with children. The provisions of this subdivision with respect to discrimination against persons with whom children are, may be or would be residing shall not apply to housing for older persons as defined in paragraphs 2 and 3 of subdivision (b) of section 3607 of title 42 of the United States code and any regulations promulgated thereunder.
 
-   (i) Applicability; senior citizen housing. The provisions of this subdivision with respect to discrimination on the basis of age shall not apply to the restriction of the sale, rental or lease of any housing accommodation, land or commercial space or an interest therein exclusively to persons fifty-five years of age or older. This paragraph shall not be construed to permit discrimination against such persons fifty-five years of age or older on the basis of whether children are, may be or would be residing in such housing accommodation or land or an interest therein unless such discrimination is otherwise permitted pursuant to paragraph (h) of this subdivision.
+   (i) Applicability; senior citizen housing. The provisions of this subdivision with respect to discrimination on the basis of age shall not apply to the restriction of the sale, rental or lease of any housing accommodation, land or commercial space or an interest therein exclusively to persons 55 years of age or older. This paragraph shall not be construed to permit discrimination against such persons 55 years of age or older on the basis of whether children are, may be or would be residing in such housing accommodation or land or an interest therein unless such discrimination is otherwise permitted pursuant to paragraph (h) of this subdivision.
 
-   (j) Applicability; dormitory residence operated by educational institution. The provisions of this subdivision relating to discrimination on the basis of gender in housing accommodations shall not prohibit any educational institution from making gender distinctions in dormitory residences which would be permitted under 45 CFR §§ 86.32 and 86.33 for educational institutions covered thereunder.
+   (j) Applicability; dormitory residence operated by educational institution. The provisions of this subdivision relating to discrimination on the basis of gender in housing accommodations shall not prohibit any educational institution from making gender distinctions in dormitory residences which would be permitted under sections 86.32 and 86.33 of title 45 of the code of federal regulations for educational institutions covered thereunder.
 
    (k) Applicability; dormitory-type housing accommodations. The provisions of this subdivision which prohibit distinctions on the basis of gender and whether children are, may be or would be residing with a person shall not apply to dormitory-type housing accommodations including, but not limited to, shelters for the homeless where such distinctions are intended to recognize generally accepted values of personal modesty and privacy or to protect the health, safety or welfare of families with children.
 
-   (l) Exemption for special needs of particular age group in publicly-assisted housing accommodations. Nothing in this subdivision shall restrict the consideration of age in the rental of publicly-assisted housing accommodations if the state division of human rights grants an exemption pursuant to section two hundred ninety-six of the executive law based on bona fide considerations of public policy for the purpose of providing for the special needs of a particular age group without the intent of prejudicing other age groups; provided however, that this paragraph shall not be construed to permit discrimination on the basis of whether children are, may be or would be residing in such housing accommodations unless such discrimination is otherwise permitted pursuant to paragraph (h) of this section.
+   (l) Exemption for special needs of particular age group in publicly-assisted housing accommodations. Nothing in this subdivision shall restrict the consideration of age in the rental of publicly-assisted housing accommodations if the state division of human rights grants an exemption pursuant to section 296 of the executive law based on bona fide considerations of public policy for the purpose of providing for the special needs of a particular age group without the intent of prejudicing other age groups; provided however, that this paragraph shall not be construed to permit discrimination on the basis of whether children are, may be or would be residing in such housing accommodations unless such discrimination is otherwise permitted pursuant to paragraph (h) of this subdivision.
 
    (m) Applicability; use of criteria or qualifications in publicly-assisted housing accommodations. The provisions of this subdivision shall not be construed to prohibit the use of criteria or qualifications of eligibility for the sale, rental, leasing or occupancy of publicly-assisted housing accommodations where such criteria or qualifications are required to comply with federal or state law, or are necessary to obtain the benefits of a federal or state program, or to prohibit the use of statements, advertisements, publications, applications or inquiries to the extent that they state such criteria or qualifications or request information necessary to determine or verify the eligibility of an applicant, tenant, purchaser, lessee or occupant.
 
@@ -439,11 +417,11 @@ So far as practicable and subject to the approval of the mayor, the services of 
 
       (2) Except as otherwise provided in paragraph (c) of this subdivision, for an agency authorized to issue a license, registration or permit or an employee thereof to declare, print or circulate or cause to be declared, printed or circulated any statement, advertisement or publication, or to use any form of application for a license, registration or permit or to make any inquiry in connection with any such application, which expresses, directly or indirectly, any limitation, specification or discrimination as to race, creed, color, national origin, age, gender, marital status, partnership status, disability, sexual orientation, uniformed service or alienage or citizenship status, or any intent to make any such limitation, specification or discrimination.
 
-      (3) For any person to deny any license, registration or permit to any applicant, or act adversely upon any holder of a license, registration or permit by reason of his or her having been convicted of one or more criminal offenses, or by reason of a finding of a lack of "good moral character" which is based on his or her having been convicted of one or more criminal offenses, when such denial or adverse action is in violation of the provisions of article twenty-three-a of the correction law.
+      (3) For any person to deny any license, registration or permit to any applicant, or act adversely upon any holder of a license, registration or permit by reason of such applicant or holder having been convicted of one or more criminal offenses, or by reason of a finding of a lack of "good moral character" which is based on such applicant or holder having been convicted of one or more criminal offenses, when such denial or adverse action is in violation of the provisions of article 23-a of the correction law.
 
-      (4) For any person to deny any license, registration or permit to any applicant, or act adversely upon any holder of a license, registration or permit by reason of his or her having been arrested or accused of committing a crime when such denial or adverse action is in violation of subdivision 16 of section 296 of article 15 of the New York state executive law.
+      (4) For any person to deny any license, registration or permit to any applicant, or act adversely upon any holder of a license, registration or permit by reason of such applicant or holder having been arrested or accused of committing a crime when such denial or adverse action is in violation of subdivision 16 of section 296 of article 15 of the executive law.
 
-      (5) For any person to make any inquiry, in writing or otherwise, regarding any arrest or criminal accusation of an applicant for any license, registration or permit when such inquiry is in violation of subdivision 16 of section 296 of article 15 of the New York state executive law.
+      (5) For any person to make any inquiry, in writing or otherwise, regarding any arrest or criminal accusation of an applicant for any license, registration or permit when such inquiry is in violation of subdivision 16 of section 296 of article 15 of the executive law.
 
    (b) (1) Except as otherwise provided in this paragraph, it shall be an unlawful discriminatory practice for an agency to request or use for licensing, registration or permitting purposes information contained in the consumer credit history of an applicant, licensee, registrant or permittee for licensing or permitting purposes.
 
@@ -455,7 +433,7 @@ So far as practicable and subject to the approval of the mayor, the services of 
 
    (c) The prohibition of this subdivision relating to inquiries, denials or other adverse action related to a person's record of arrests or convictions shall not apply to licensing activities in relation to the regulation of explosives, pistols, handguns, rifles, shotguns, or other firearms and deadly weapons. Nothing contained in this subdivision shall be construed to bar an agency authorized to issue a license, registration or permit from using age, disability, criminal conviction or arrest record as a criterion for determining eligibility or continuing fitness for a license, registration or permit when specifically required to do so by any other provision of law.
 
-   (d) (1)  Except as otherwise provided in this paragraph, it shall be an unlawful discriminatory practice for an agency to request or use for licensing or permitting purposes information contained in the consumer credit history of an applicant, licensee or permittee for licensing or permitting purposes.
+   (d) (1)  Except as otherwise provided in this paragraph, it shall be an unlawful discriminatory practice for an agency to request or use for licensing or permitting purposes information contained in the consumer credit history of an applicant, licensee or permittee.
 
       (2) Subparagraph (1) of this paragraph shall not apply to an agency required by state or federal law or regulations to use an individual's consumer credit history for licensing or permitting purposes.
 
@@ -469,17 +447,17 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
 10. Criminal conviction; employment.
 
-   (a) It shall be an unlawful discriminatory practice for any employer, employment agency or agent thereof to deny employment to any person or take adverse action against any employee by reason of such person or employee having been convicted of one or more criminal offenses, or by reason of a finding of a lack of "good moral character" which is based on such person or employee having been convicted of one or more criminal offenses, when such denial or adverse action is in violation of the provisions of article twenty-three-a of the correction law.
+   (a) It shall be an unlawful discriminatory practice for any employer, employment agency or agent thereof to deny employment to any person or take adverse action against any employee by reason of such person or employee having been convicted of one or more criminal offenses, or by reason of a finding of a lack of "good moral character" which is based on such person or employee having been convicted of one or more criminal offenses, when such denial or adverse action is in violation of the provisions of article 23-a of the correction law.
 
    (b) For purposes of this subdivision, "employment" shall not include membership in any law enforcement agency.
 
-   (c) Pursuant to section seven hundred fifty-five of the correction law, the provisions of this subdivision shall be enforceable against public agencies by a proceeding brought pursuant to article seventy-eight of the Civil Practice Law and Rules, and the provisions of this subdivision shall be enforceable against private employers by the commission through the administrative procedure provided for in this chapter or as provided in chapter five of this title. For purposes of this paragraph only, the terms "public agency" and "private employer" shall have the meaning given such terms in section seven hundred fifty of the correction law.
+   (c) Pursuant to section 755 of the correction law, the provisions of this subdivision shall be enforceable against public agencies by a proceeding brought pursuant to article 78 of the civil practice law and rules, and the provisions of this subdivision shall be enforceable against private employers by the commission through the administrative procedure provided for in this chapter or as provided in chapter 5 of this title. For purposes of this paragraph only, the terms "public agency" and "private employer" have the meaning given such terms in section 750 of the correction law.
 
 11. Arrest record; employment. It shall be an unlawful discriminatory practice, unless specifically required or permitted by any other law, for any person to:
 
-   (a) deny employment to any applicant or act adversely upon any employee by reason of an arrest or criminal accusation of such applicant or employee when such denial or adverse action is in violation of subdivision 16 of section 296 of article 15 of the New York state executive law; or
+   (a) Deny employment to any applicant or act adversely upon any employee by reason of an arrest or criminal accusation of such applicant or employee when such denial or adverse action is in violation of subdivision 16 of section 296 of article 15 of the executive law; or
 
-   (b) make any inquiry in writing or otherwise, regarding any arrest or criminal accusation of an applicant or employee when such inquiry is in violation of subdivision 16 of section 296 of article 15 of the New York state executive law.
+   (b) Make any inquiry in writing or otherwise, regarding any arrest or criminal accusation of an applicant or employee when such inquiry is in violation of subdivision 16 of section 296 of article 15 of the executive law.
 
 11-a. Arrest and conviction records; employer inquiries.
 
@@ -489,15 +467,15 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
       (2) Because of any person's arrest or criminal conviction, represent that any employment or position is not available, when in fact it is available to such person; or
 
-      (3) Make any inquiry or statement related to the pending arrest or criminal conviction record of any person who is in the process of applying for employment with such employer or agent thereof until after such employer or agent thereof has extended a conditional offer of employment to the applicant. For purposes of this subdivision, with respect to an applicant for temporary employment at a temporary help firm as such term is defined by subdivision five of section 916 of article 31 of the labor law, an offer to be placed in the temporary help firm's general candidate pool shall constitute a conditional offer of employment. For purposes of this subdivision, "any inquiry" means any question communicated to an applicant in writing or otherwise, or any searches of publicly available records or consumer reports that are conducted for the purpose of obtaining an applicant's criminal background information, and "any statement" means a statement communicated in writing or otherwise to the applicant for purposes of obtaining an applicant's criminal background information regarding: (i) an arrest record; (ii) a conviction record; or (iii) a criminal background check.
+      (3) Make any inquiry or statement related to the pending arrest or criminal conviction record of any person who is in the process of applying for employment with such employer or agent thereof until after such employer or agent thereof has extended a conditional offer of employment to the applicant. For purposes of this subdivision, with respect to an applicant for temporary employment at a temporary help firm as such term is defined by subdivision 5 of section 916 of article 31 of the labor law, an offer to be placed in the temporary help firm's general candidate pool shall constitute a conditional offer of employment. For purposes of this subdivision, "any inquiry" means any question communicated to an applicant in writing or otherwise, or any searches of publicly available records or consumer reports that are conducted for the purpose of obtaining an applicant's criminal background information, and "any statement" means a statement communicated in writing or otherwise to the applicant for purposes of obtaining an applicant's criminal background information regarding: (i) an arrest record; (ii) a conviction record; or (iii) a criminal background check.
 
    (b) After extending an applicant a conditional offer of employment, an employer, employment agency or agent thereof may inquire about the applicant's arrest or conviction record if before taking any adverse employment action based on such inquiry, the employer, employment agency or agent thereof:
 
-      (i) provides a written copy of the inquiry to the applicant in a manner to be determined by the commission;
+      (i) Provides a written copy of the inquiry to the applicant in a manner to be determined by the commission;
 
-      (ii) performs an analysis of the applicant under article twenty-three-a of the correction law and provides a written copy of such analysis to the applicant in a manner to be determined by the commission, which shall include but not be limited to supporting documents that formed the basis for an adverse action based on such analysis and the employer's or employment agency's reasons for taking any adverse action against such applicant; and
+      (ii) Performs an analysis of the applicant under article 23-a of the correction law and provides a written copy of such analysis to the applicant in a manner to be determined by the commission, which shall include but not be limited to supporting documents that formed the basis for an adverse action based on such analysis and the employer's or employment agency's reasons for taking any adverse action against such applicant; and
 
-      (iii) after giving the applicant the inquiry and analysis in writing pursuant to subparagraphs (i) and (ii) of this paragraph, allows the applicant a reasonable time to respond, which shall be no less than three business days and during this time, holds the position open for the applicant.
+      (iii) After giving the applicant the inquiry and analysis in writing pursuant to subparagraphs (i) and (ii) of this paragraph, allows the applicant a reasonable time to respond, which shall be no less than three business days and during this time, holds the position open for the applicant.
 
    (c) Nothing in this subdivision shall prevent an employer, employment agency or agent thereof from taking adverse action against any employee or denying employment to any applicant for reasons other than such employee or applicant's arrest or criminal conviction record.
 
@@ -507,11 +485,11 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
    (f) This subdivision shall not apply to any actions taken by an employer or agent thereof with regard to an applicant for employment:
 
-      (1) as a police officer or peace officer, as those terms are defined in subdivisions thirty-three and thirty-four of section 1.20 of the criminal procedure law, respectively, or at a law enforcement agency as that term is used in article 23-a of the correction law, including but not limited to the police department, the fire department, the department of correction, the department of investigation, the department of probation, the division of youth and family services, the business integrity commission, and the district attorneys' offices; or
+      (1) As a police officer or peace officer, as those terms are defined in subdivisions 33 and 34 of section 1.20 of the criminal procedure law, respectively, or at a law enforcement agency as that term is used in article 23-a of the correction law, including but not limited to the police department, the fire department, the department of correction, the department of investigation, the department of probation, the division of youth and family services, the business integrity commission, and the district attorneys' offices; or
 
-      (2) listed in the determinations of personnel published as a commissioner's calendar item and listed on the website of the department of citywide administrative services upon a determination by the commissioner of citywide administrative services that the position involves law enforcement, is susceptible to bribery or other corruption, or entails the provision of services to or safeguarding of persons who, because of age, disability, infirmity or other condition, are vulnerable to abuse. If the department takes adverse action against any applicant based on the applicant's arrest or criminal conviction record, it shall provide a written copy of such analysis performed under article twenty-three a of the correction law to the applicant in a form and manner to be determined by the department.
+      (2) listed in the determinations of personnel published as a commissioner's calendar item and listed on the website of the department of citywide administrative services upon a determination by the commissioner of citywide administrative services that the position involves law enforcement, is susceptible to bribery or other corruption, or entails the provision of services to or safeguarding of persons who, because of age, disability, infirmity or other condition, are vulnerable to abuse. If the department takes adverse action against any applicant based on the applicant's arrest or criminal conviction record, it shall provide a written copy of such analysis performed under article 23-a of the correction law to the applicant in a form and manner to be determined by the department.
 
-   (g) The provisions of this subdivision shall be enforceable against public agencies by a proceeding brought pursuant to article seventy-eight of the Civil Practice Law and Rules, and the provisions of this subdivision shall be enforceable against private employers by the commission through the administrative procedure provided for in this chapter or as provided in chapter five of this title. For purposes of this paragraph only, the terms "public agency" and "private employer" shall have the meaning given such terms in section seven hundred fifty of the correction law.
+   (g) The provisions of this subdivision shall be enforceable against public agencies by a proceeding brought pursuant to article 78 of the civil practice law and rules, and the provisions of this subdivision shall be enforceable against private employers by the commission through the administrative procedure provided for in this chapter or as provided in chapter 5 of this title. For purposes of this paragraph only, the terms "public agency" and "private employer" have the meaning given such terms in section 750 of the correction law.
 
 11-b. Arrest record; credit application. For purposes of issuing credit, it shall be an unlawful discriminatory practice, unless specifically required or permitted by any other law, to:
 
@@ -525,15 +503,15 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
 13. Employer liability for discriminatory conduct by employee, agent or independent contractor.
 
-   a. An employer shall be liable for an unlawful discriminatory practice based upon the conduct of an employee or agent which is in violation of any provision of this section other than subdivisions one and two of this section.
+   a. An employer shall be liable for an unlawful discriminatory practice based upon the conduct of an employee or agent which is in violation of any provision of this section other than subdivisions 1 and 2 of this section.
 
-   b. An employer shall be liable for an unlawful discriminatory practice based upon the conduct of an employee or agent which is in violation of subdivision one or two of this section only where:
+   b. An employer shall be liable for an unlawful discriminatory practice based upon the conduct of an employee or agent which is in violation of subdivision 1 or 2 of this section only where:
 
-      (1) the employee or agent exercised managerial or supervisory responsibility; or
+      (1) The employee or agent exercised managerial or supervisory responsibility; or
 
-      (2) the employer knew of the employee's or agent's discriminatory conduct, and acquiesced in such conduct or failed to take immediate and appropriate corrective action; an employer shall be deemed to have knowledge of an employee's or agent's discriminatory conduct where that conduct was known by another employee or agent who exercised managerial or superivsory responsibility; or
+      (2) The employer knew of the employee's or agent's discriminatory conduct, and acquiesced in such conduct or failed to take immediate and appropriate corrective action; an employer shall be deemed to have knowledge of an employee's or agent's discriminatory conduct where that conduct was known by another employee or agent who exercised managerial or supervisory responsibility; or
 
-      (3) the employer should have known of the employee's or agent's discriminatory conduct and failed to exercise reasonable diligence to prevent such discriminatory conduct.
+      (3) The employer should have known of the employee's or agent's discriminatory conduct and failed to exercise reasonable diligence to prevent such discriminatory conduct.
 
    c. An employer shall be liable for an unlawful discriminatory practice committed by a person employed as an independent contractor, other than an agent of such employer, to carry out work in furtherance of the employer's business enterprise only where such discriminatory conduct was committed in the course of such employment and the employer had actual knowledge of and acquiesced in such conduct.
 
@@ -551,15 +529,15 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
       (2) A record of no, or relatively few, prior incidents of discriminatory conduct by such employee, agent or person employed as an independent contractor or other employees, agents or persons employed as independent contractors.
 
-   e. The demonstration of any or all of the factors listed above in addition to any other relevant factors shall be considered in mitigation of the amount of civil penalties to be imposed by the commission pursuant to this chapter or in mitigation of civil penalties or punitive damages which may be imposed pursuant to chapter four or five of this title and shall be among the factors considered in determining an employer's liability under subparagraph three of paragraph b of this subdivision.
+   e. The demonstration of any or all of the factors listed above in addition to any other relevant factors shall be considered in mitigation of the amount of civil penalties to be imposed by the commission pursuant to this chapter or in mitigation of civil penalties or punitive damages which may be imposed pursuant to chapter 4 or 5 of this title and shall be among the factors considered in determining an employer's liability under subparagraph 3 of paragraph b of this subdivision.
 
-   f. The commission may establish by rule policies, programs and procedures which may be implemented by employers for the prevention and detection of unlawful discriminatory practices by employees, agents and persons employed as independent contractors. Notwithstanding any other provision of law to the contrary, an employer found to be liable for an unlawful discriminatory practice based solely on the conduct of an employee, agent or person employed as an independent contractor who pleads and proves that such policies, programs and procedures had been implemented and complied with at the time of the unlawful conduct shall not be liable for any civil penalties which may be imposed pursuant to this chapter or any civil penalties or punitive damages which may be imposed pursuant to chapter four or five of this title for such unlawful discriminatory practice.
+   f. The commission may establish by rule policies, programs and procedures which may be implemented by employers for the prevention and detection of unlawful discriminatory practices by employees, agents and persons employed as independent contractors. Notwithstanding any other provision of law to the contrary, an employer found to be liable for an unlawful discriminatory practice based solely on the conduct of an employee, agent or person employed as an independent contractor who pleads and proves that such policies, programs and procedures had been implemented and complied with at the time of the unlawful conduct shall not be liable for any civil penalties which may be imposed pursuant to this chapter or any civil penalties or punitive damages which may be imposed pursuant to chapter 4 or 5 of this title for such unlawful discriminatory practices.
 
-14. Applicability; alienage or citizenship status. Notwithstanding any other provision of this section, it shall not be an unlawful discriminatory practice for any person to discriminate on the ground of alienage or citizenship status, or to make any inquiry as to a person's alienage or citizenship status, or to give preference to a person who is a citizen or a national of the United States over an equally qualified person who is an alien, when such discrimination is required or when such preference is expressly permitted by any law or regulation of the United States, the state of New York or the city of New York, and when such law or regulation does not provide that state or local law may be more protective of aliens; provided, however, that this provision shall not prohibit inquiries or determinations based on alienage or citizenship status when such actions are necessary to obtain the benefits of a federal program. An applicant for a license or permit issued by the city of New York may be required to be authorized to work in the United States whenever by law or regulation there is a limit on the number of such licenses or permits which may be issued.
+14. Applicability; alienage or citizenship status. Notwithstanding any other provision of this section, it shall not be an unlawful discriminatory practice for any person to discriminate on the ground of alienage or citizenship status, or to make any inquiry as to a person's alienage or citizenship status, or to give preference to a person who is a citizen or national of the United States over an equally qualified person who is an alien, when such discrimination is required or when such preference is expressly permitted by any law or regulation of the United States, the state of New York or the city, and when such law or regulation does not provide that state or local law may be more protective of aliens; provided, however, that this provision shall not prohibit inquiries or determinations based on alienage or citizenship status when such actions are necessary to obtain the benefits of a federal program. An applicant for a license or permit issued by the city may be required to be authorized to work in the United States whenever by law or regulation there is a limit on the number of such licenses or permits which may be issued.
 
 15. Applicability; persons with disabilities.
 
-   (a) Requirement to make reasonable accommodation to the needs of persons with disabilities. Except as provided in paragraph (b), any person prohibited by the provisions of this section from discriminating on the basis of disability shall make reasonable accommodation to enable a person with a disability to satisfy the essential requisites of a job or enjoy the right or rights in question provided that the disability is known or should have been known by the covered entity.
+   (a) Requirement to make reasonable accommodation to the needs of persons with disabilities. Except as provided in paragraph (b), it is an unlawful discriminatory practice for any person prohibited by the provisions of this section from discriminating on the basis of disability not to provide a reasonable accommodation to enable a person with a disability to satisfy the essential requisites of a job or enjoy the right or rights in question provided that the disability is known or should have been known by the covered entity.
 
    (b) Affirmative defense in disability cases. In any case where the need for reasonable accommodation is placed in issue, it shall be an affirmative defense that the person aggrieved by the alleged discriminatory practice could not, with reasonable accommodation, satisfy the essential requisites of the job or enjoy the right or rights in question.
 
@@ -569,11 +547,11 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
 17. Disparate impact. 
 
-   a.    An unlawful discriminatory practice based upon disparate impact is established when:
+   a. An unlawful discriminatory practice based upon disparate impact is established when:
 
-      (1) the commission or a person who may bring an action under chapter four or five of this title demonstrates that a policy or practice of a covered entity or a group of policies or practices of a covered entity results in a disparate impact to the detriment of any group protected by the provisions of this chapter; and
+      (1) The commission or a person who may bring an action under chapter 4 or 5 of this title demonstrates that a policy or practice of a covered entity or a group of policies or practices of a covered entity results in a disparate impact to the detriment of any group protected by the provisions of this chapter; and
 
-      (2) the covered entity fails to plead and prove as an affirmative defense that each such policy or practice bears a significant relationship to a significant business objective of the covered entity or does not contribute to the disparate impact; provided, however, that if the commission or such person who may bring an action demonstrates that a group of policies or practices results in a disparate impact, the commission or such person shall not be required to demonstrate which specific policies or practices within the group results in such disparate impact; provided further, that a policy or practice or group of policies or practices demonstrated to result in a disparate impact shall be unlawful where the commission or such person who may bring an action produces substantial evidence that an alternative policy or practice with less disparate impact is available to the covered entity and the covered entity fails to prove that such alternative policy or practice would not serve the covered entity as well. "Significant business objective" shall include, but not be limited to, successful performance of the job.
+      (2) The covered entity fails to plead and prove as an affirmative defense that each such policy or practice bears a significant relationship to a significant business objective of the covered entity or does not contribute to the disparate impact; provided, however, that if the commission or such person who may bring an action demonstrates that a group of policies or practices results in a disparate impact, the commission or such person shall not be required to demonstrate which specific policies or practices within the group results in such disparate impact; provided further, that a policy or practice or group of policies or practices demonstrated to result in a disparate impact shall be unlawful where the commission or such person who may bring an action produces substantial evidence that an alternative policy or practice with less disparate impact is available to the covered entity and the covered entity fails to prove that such alternative policy or practice would not serve the covered entity as well. "Significant business objective" shall include, but not be limited to, successful performance of the job.
 
    b. The mere existence of a statistical imbalance between a covered entity's challenged demographic composition and the general population is not alone sufficient to establish a prima facie case of disparate impact violation unless the general population is shown to be the relevant pool for comparison, the imbalance is shown to be statistically significant and there is an identifiable policy or practice or group of policies or practices that allegedly causes the imbalance.
 
@@ -587,7 +565,7 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
    (c) Any form of expression that is protected by the First Amendment.
 
-19. Interference with protected rights. It shall be an unlawful discriminatory practice for any person to coerce, intimidate, threaten or interfere with, or attempt to coerce, intimidate, threaten or interfere with, any person in the exercise or enjoyment of, or on account of his or her having aided or encouraged any other person in the exercise or enjoyment of, any right granted or protected pursuant to this section.
+19. Interference with protected rights. It shall be an unlawful discriminatory practice for any person to coerce, intimidate, threaten or interfere with, or attempt to coerce, intimidate, threaten or interfere with, any person in the exercise or enjoyment of, or on account of such person having aided or encouraged any other person in the exercise or enjoyment of, any right granted or protected pursuant to this section.
 
 20. Relationship or association. The provisions of this section set forth as unlawful discriminatory practices shall be construed to prohibit such discrimination against a person because of the actual or perceived race, creed, color, national origin, disability, age, sexual orientation, uniformed service or alienage or citizenship status of a person with whom such person has a known relationship or association.
 
@@ -609,7 +587,7 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
    b. Effect of subdivision.
 
-      (1) Paragraph a of this subdivision shall not be construed to prohibit an employer, employment agency, or agent thereof from (a) considering an applicant's unemployment, where there is a substantially job-related reason for doing so; or (b) inquiring into the circumstances surrounding an applicant's separation from prior employment.
+      (1)  Paragraph a of this subdivision shall not be construed to prohibit an employer, employment agency, or agent thereof from (a) considering an applicant's unemployment, where there is a substantially job-related reason for doing so; or (b) inquiring into the circumstances surrounding an applicant's separation from prior employment.
 
       (2) Nothing set forth in this subdivision shall be construed as prohibiting an employer, employment agency, or agent thereof, when making employment decisions with regard to hiring, compensation, or the terms, conditions or privileges of employment, from considering any substantially job-related qualifications, including but not limited to: a current and valid professional or occupational license; a certificate, registration, permit, or other credential; a minimum level of education or training; or a minimum level of professional, occupational, or field experience.
 
@@ -617,71 +595,71 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
       (4) (a) Nothing set forth in this subdivision shall be construed as prohibiting an employer, employment agency, or agent thereof, when making employment decisions with regard to hiring, compensation, or the terms, conditions or privileges of employment, from determining that only applicants who are currently employed by the employer will be considered for employment or given priority for employment or with respect to compensation or terms, conditions or privileges of employment. In addition, nothing set forth in this subdivision shall prevent an employer from setting compensation or terms or conditions of employment for a person based on that person's actual amount of experience.
 
-         (b) For the purposes of this subparagraph, all persons whose salary or wages are paid from the city treasury, and all persons who are employed by public agencies or entities headed by officers or boards including one or more individuals appointed or recommended by officials of the city of New York, shall be deemed to have the same employer.
+         (b) For the purposes of this subparagraph, all persons whose salary or wages are paid from the city treasury, and all persons who are employed by public agencies or entities headed by officers or boards including one or more individuals appointed or recommended by officials of the city , shall be deemed to have the same employer.
 
-   c. Applicability of subdivision. 
+   c. Applicability of subdivision.
 
       (1) This subdivision shall not apply to:
 
-         (a) actions taken by the New York city department of citywide administrative services in furtherance of its responsibility for city personnel matters pursuant to chapter thirty-five of the charter or as a municipal civil service commission administering the civil service law and other applicable laws, or by the mayor in furtherance of the mayor's duties relating to city personnel matters pursuant to chapter thirty-five of the charter, including, but not limited to, the administration of competitive examinations, the establishment and administration of eligible lists, and the establishment and implementation of minimum qualifications for appointment to positions;
+         (a) Actions taken by the department of citywide administrative services in furtherance of its responsibility for city personnel matters pursuant to chapter 35 of the charter or as a municipal civil service commission administering the civil service law and other applicable laws, or by the mayor in furtherance of the mayor's duties relating to city personnel matters pursuant to chapter 35 of the charter, including, but not limited to, the administration of competitive examinations, the establishment and administration of eligible lists, and the establishment and implementation of minimum qualifications for appointment to positions;
 
-         (b) actions taken by officers or employees of other public agencies or entities charged with performing functions comparable to those performed by the department of citywide administrative services or the mayor as described in paragraph one of this subdivision;
+         (b) Actions taken by officers or employees of other public agencies or entities charged with performing functions comparable to those performed by the department of citywide administrative services or the mayor as described in paragraph 1 of this subdivision;
 
-         (c) agency appointments to competitive positions from eligible lists pursuant to subsection one of section sixty-one of the state civil service law; or
+         (c) Agency appointments to competitive positions from eligible lists pursuant to subsection 1 of section 61 of the civil service law; or
 
-         (d) the exercise of any right of an employer or employee pursuant to a collective bargaining agreement.
+         (d) The exercise of any right of an employer or employee pursuant to a collective bargaining agreement.
 
       (2) This subdivision shall apply to individual hiring decisions made by an agency or entity with respect to positions for which appointments are not required to be made from an eligible list resulting from a competitive examination.
 
    d. Public education campaign. The commission shall develop courses of instruction and conduct ongoing public education efforts as necessary to inform employers, employment agencies, and job applicants about their rights and responsibilities under this subdivision.
 
-   e. Disparate impact. An unlawful discriminatory practice based on disparate impact under this subdivision is established when: (1) the commission or a person who may bring an action under chapter four or five of this title demonstrates that a policy or practice of an employer, employment agency, or agent thereof, or a group of policies or practices of such an entity results in a disparate impact to the detriment of any group protected by the provisions of this subdivision; and (2) such entity fails to plead and prove as an affirmative defense that each such policy or practice has as its basis a substantially job-related qualification or does not contribute to the disparate impact; provided, however, that if the commission or such person who may bring an action demonstrates that a group of policies or practices results in a disparate impact, the commission or such person shall not be required to demonstrate which specific policies or practices within the group results in such disparate impact; provided further, that a policy or practice or group of policies or practices demonstrated to result in a disparate impact shall be unlawful where the commission or such person who may bring an action produces substantial evidence that an alternative policy or practice with less disparate impact is available to such entity and such entity fails to prove that such alternative policy or practice would not serve such entity as well. A "substantially job-related qualification" shall include, but not be limited to, a current and valid professional or occupational license; a certificate, registration, permit, or other credential; a minimum level of education or training; or a minimum level of professional, occupational, or field experience.
+   e. Disparate impact. An unlawful discriminatory practice based on disparate impact under this subdivision is established when: (1) the commission or a person who may bring an action under chapter 4 or 5 of this title demonstrates that a policy or practice of an employer, employment agency, or agent thereof, or a group of policies or practices of such an entity results in a disparate impact to the detriment of any group protected by the provisions of this subdivision; and (2) such entity fails to plead and prove as an affirmative defense that each such policy or practice has as its basis a substantially job-related qualification or does not contribute to the disparate impact; provided, however, that if the commission or such person who may bring an action demonstrates that a group of policies or practices results in a disparate impact, the commission or such person shall not be required to demonstrate which specific policies or practices within the group results in such disparate impact; provided further, that a policy or practice or group of policies or practices demonstrated to result in a disparate impact shall be unlawful where the commission or such person who may bring an action produces substantial evidence that an alternative policy or practice with less disparate impact is available to such entity and such entity fails to prove that such alternative policy or practice would not serve such entity as well. A "substantially job-related qualification" shall include, but not be limited to, a current and valid professional or occupational license; a certificate, registration, permit, or other credential; a minimum level of education or training; or a minimum level of professional, occupational, or field experience.
 
-22. Employment; pregnancy, childbirth, or a related medical condition. 
+22. Employment; Pregnancy, childbirth, or a related medical condition.
 
-   (a) It shall be an unlawful discriminatory practice for an employer to refuse to provide a reasonable accommodation, as defined in subdivision eighteen of section 8-102 of this chapter, to the needs of an employee for her pregnancy, childbirth, or related medical condition that will allow the employee to perform the essential requisites of the job, provided that such employee's pregnancy, childbirth, or related medical condition is known or should have been known by the employer. In any case pursuant to this subdivision where the need for reasonable accommodation is placed in issue, it shall be an affirmative defense that the person aggrieved by the alleged discriminatory practice could not, with reasonable accommodation, satisfy the essential requisites of the job.
+   (a) It shall be an unlawful discriminatory practice for an employer to refuse to provide a reasonable accommodation, as defined in section 8-102, to the needs of an employee for the employee's pregnancy, childbirth, or related medical condition that will allow the employee to perform the essential requisites of the job, provided that such employee's pregnancy, childbirth, or related medical condition is known or should have been known by the employer. In any case pursuant to this subdivision where the need for reasonable accommodation is placed in issue, it shall be an affirmative defense that the person aggrieved by the alleged discriminatory practice could not, with reasonable accommodation, satisfy the essential requisites of the job.
 
-   (b) Notice of rights. (i) An employer shall provide written notice in a form and manner to be determined by the commission of the right to be free from discrimination in relation to pregnancy, childbirth, and related medical conditions pursuant to this subdivision to: (1) new employees at the commencement of employment; and (2) existing employees within one hundred twenty days after the effective date of the local law that added this subdivision. Such notice may also be conspicuously posted at an employer's place of business in an area accessible to employees. (ii) The commission shall develop courses of instruction and conduct ongoing public education efforts as necessary to inform employers, employees, employment agencies, and job applicants about their rights and responsibilities under this subdivision.
+   (b) Notice of rights.
 
-   (c) This subdivision shall not be construed to affect any other provision of law relating to sex discrimination or pregnancy, or in any way to diminish the coverage of pregnancy, childbirth, or a medical condition related to pregnancy or childbirth under any other provision of this section.
+      (i) An employer shall provide written notice in a form and manner to be determined by the commission of the right to be free from discrimination in relation to pregnancy, childbirth, and related medical conditions pursuant to this subdivision to new employees at the commencement of employment. Such notice may also be conspicuously posted at an employer's place of business in an area accessible to employees.
+
+      (ii) The commission shall develop courses of instruction and conduct ongoing public education efforts as necessary to inform employers, employees, employment agencies, and job applicants about their rights and responsibilities under this subdivision.
+
+   (c) This subdivision shall not be construed to affect any other provision of law relating to discrimination on the basis of gender, or in any way to diminish the coverage of pregnancy, childbirth, or a medical condition related to pregnancy or childbirth under any other provision of this section.
 
 23. The provisions of this chapter relating to employees shall apply to interns.
 
 24. Employment; consumer credit history.
 
-   (a) Except as provided in this subdivision, it shall be an unlawful discriminatory practice for an employer, labor organization, employment agency, or agent thereof to request or to use for employment purposes the consumer credit history of an applicant for employment or employee, or otherwise discriminate against an applicant or employee with regard to hiring, compensation, or the terms, conditions or privileges of employment based on the consumer credit history of the applicant or employee.
+   (a)  Except as provided in this subdivision, it shall be an unlawful discriminatory practice for an employer, labor organization, employment agency, or agent thereof to request or to use for employment purposes the consumer credit history of an applicant for employment or employee, or otherwise discriminate against an applicant or employee with regard to hiring, compensation, or the terms, conditions or privileges of employment based on the consumer credit history of the applicant or employee.
 
    (b) Paragraph (a) of this subdivision shall not apply to:
 
-      (1) an employer, or agent thereof, that is required by state or federal law or regulations or by a self-regulatory organization as defined in section 3(a)(26) of the securities exchange act of 1934, as amended to use an individual's consumer credit history for employment purposes;
+      (1) An employer or agent thereof, that is required by state or federal law or regulations or by a self-regulatory organization as defined in section 3(a)(26) of the securities exchange act of 1934, as amended to use an individual's consumer credit history for employment purposes;
 
-      (2) persons applying for positions as or employed:
+      (2) Persons applying for positions as or employed:
 
-         (A) as police officers or peace officers, as those terms are defined in subdivisions thirty-three and thirty-four of section 1.20 of the criminal procedure law, respectively, or in a position with a law enforcement or investigative function at the department of investigation;
+         (A) As police officers or peace officers, as those terms are defined in subdivisions 33 and 34 of section 1.20 of the criminal procedure law, respectively, or in a position with a law enforcement or investigative function at the department of investigation;
 
-         (B) in a position that is subject to background investigation by the department of investigation, provided, however, that the appointing agency may not use consumer credit history information for employment purposes unless the position is an appointed position in which a high degree of public trust, as defined by the commission in rules, has been reposed.
+         (B) In a position that is subject to background investigation by the department of investigation, provided, however, that the appointing agency may not use consumer credit history information for employment purposes unless the position is an appointed position in which a high degree of public trust, as defined by the commission in rules, has been reposed;
 
-         (C) in a position in which an employee is required to be bonded under City, state or federal law;
+         (C) In a position in which an employee is required to be bonded under city, state or federal law;
 
-         (D) in a position in which an employee is required to possess security clearance under federal law or the law of any state;
+         (D) In a position in which an employee is required to possess security clearance under federal law or the law of any state;
 
-         (E) in a non-clerical position having regular access to trade secrets, intelligence information or national security information;
+         (E) In a non-clerical position having regular access to trade secrets, intelligence information or national security information;
 
-         (F) in a position: (i) having signatory authority over third party funds or assets valued at $10,000 or more; or (ii) that involves a fiduciary responsibility to the employer with the authority to enter financial agreements valued at $10,000 or more on behalf of the employer.
+         (F) In a position:
 
-         (G) in a position with regular duties that allow the employee to modify digital security systems established to prevent the unauthorized use of the employer's or client's networks or databases.
+            (i) having signatory authority over third party funds or assets valued at $10,000 or more; or
 
-   (c) Paragraph (a) of this subdivision shall not be construed to affect the obligations of persons required by section 12-110 of this code or by mayoral executive order relating to disclosures by city employees to the conflicts of interest board to report information regarding their creditors or debts, or the use of such information by government agencies for the purposes for which such information is collected.
+            (ii) that involves a fiduciary responsibility to the employer with the authority to enter financial agreements valued at $10,000 or more on behalf of the employer; or
 
-   (d) As used in this subdivision:
+         (G) In a position with regular duties that allow the employee to modify digital security systems established to prevent the unauthorized use of the employer's or client's networks or databases.
 
-      (1) The term "intelligence information" means records and data compiled for the purpose of criminal investigation or counterterrorism, including records and data relating to the order or security of a correctional facility, reports of informants, investigators or other persons, or from any type of surveillance associated with an identifiable individual, or investigation or analysis of potential terrorist threats.
+   (c) Paragraph (a) of this subdivision shall not be construed to affect the obligations of persons required by section 12-110 or by mayoral executive order relating to disclosures by city employees to the conflicts of interest board to report information regarding their creditors or debts, or the use of such information by government agencies for the purposes for which such information is collected.
 
-      (2) The term "national security information" means any knowledge relating to the national defense or foreign relations of the United States, regardless of its physical form or characteristics, that is owned by, produced by or for, or is under the control of the United States government and is defined as such by the United States government and its agencies and departments.
-
-      (3) The term "trade secrets" means information that: (a) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use; (b) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy; and (c) can reasonably be said to be the end product of significant innovation. The term "trade secrets" does not include general proprietary company information such as handbooks and policies. The term "regular access to trade secrets" does not include access to or the use of client, customer or mailing lists.
-
-   (e)  Nothing in this subdivision shall preclude an employer from requesting or receiving consumer credit history information pursuant to a lawful subpoena, court order or law enforcement investigation.
+   (d) Nothing in this subdivision precludes an employer from requesting or receiving consumer credit history information pursuant to a lawful subpoena, court order or law enforcement investigation.
 
 25. Employment; inquiries regarding salary history.
 
@@ -709,9 +687,57 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
 26. Applicability; uniformed service. Notwithstanding any other provision of this section and except as otherwise provided by law, it is not an unlawful discriminatory practice for any person to afford any other person a preference or privilege based on such other person’s uniformed service, or to declare, print or circulate or cause to be declared, printed or circulated any statement, advertisement or publication, or to use any form of application or make any inquiry indicating any such lawful preference or privilege.
 
-27.*   Reserved.
+27. Victims of domestic violence, sex offenses or stalking.
 
-28. Reserved.
+   a. Employment. It shall be an unlawful discriminatory practice for an employer, or an agent thereof, because of any individual's actual or perceived status as a victim of domestic violence, or as a victim of sex offenses or stalking:
+
+      (1) To represent that any employment or position is not available when in fact it is available;
+
+      (2) To refuse to hire or employ or to bar or to discharge from employment; or
+
+      (3) To discriminate against an individual in compensation or other terms, conditions, or privileges of employment.
+
+   b. Requirement to make reasonable accommodation to the needs of victims of domestic violence, sex offenses or stalking. Except as provided in paragraph d, it is an unlawful discriminatory practice for any person prohibited by paragraph a from discriminating on the basis of actual or perceived status as a victim of domestic violence or a victim of sex offenses or stalking not to provide a reasonable accommodation to enable a person who is a victim of domestic violence, or a victim of sex offenses or stalking to satisfy the essential requisites of a job provided that the status as a victim of domestic violence or a victim of sex offenses or stalking is known or should have been known by the covered entity.
+
+   c. Documentation of status. Any person required by paragraph b to make reasonable accommodation may require a person requesting reasonable accommodation pursuant to such paragraph to provide certification that the person is a victim of domestic violence, sex offenses or stalking. The person requesting reasonable accommodation pursuant to such paragraph shall provide a copy of such certification to the covered entity within a reasonable period after the request is made. A person may satisfy the certification requirement of this paragraph by providing documentation from an employee, agent, or volunteer of a victim services organization, an attorney, a member of the clergy, or a medical or other professional service provider, from whom the individual seeking a reasonable accommodation or that individual's family or household member has sought assistance in addressing domestic violence, sex offenses or stalking and the effects of the violence or stalking; a police or court record; or other corroborating evidence. All information provided to the covered entity pursuant to this paragraph, including a statement of the person requesting a reasonable accommodation or any other documentation, record, or corroborating evidence, and the fact that the individual has requested or obtained a reasonable accommodation pursuant to this subdivision, shall be retained in the strictest confidence by the covered entity, except to the extent that disclosure is requested or consented to in writing by the person requesting the reasonable accommodation, or otherwise required by applicable federal, state or local law.
+
+   d. Affirmative defense in domestic violence, sex offenses or stalking cases. In any case where the need for reasonable accommodation is placed in issue, it shall be an affirmative defense that the person aggrieved by the alleged discriminatory practice could not, with reasonable accommodation, satisfy the essential requisites of the job or enjoy the right or rights in question.
+
+   e. Housing accommodations. It shall be an unlawful discriminatory practice for the owner, lessor, lessee, sublessee, assignee, or managing agent of, or other person having the right to sell, rent or lease or approve the sale, rental or lease of a housing accommodation, constructed or to be constructed, or an interest therein, or any agent or employee thereof, because of any individual's actual or perceived status as a victim of domestic violence, or as a victim of sex offenses or stalking:
+
+      (1) To refuse to sell, rent, lease, approve the sale, rental or lease or otherwise deny to or withhold from any person or group of persons such a housing accommodation or an interest therein, or to discriminate in the terms, conditions, or privileges of the sale, rental or lease of any such housing accommodation or an interest therein or in the furnishing of facilities or services in connection therewith because of an actual or perceived status of said individual as a victim of domestic violence, or as a victim of sex offenses or stalking; or
+
+      (2) To represent that such housing accommodation or an interest therein is not available when in fact it is available.
+
+   f. The provisions of paragraph e shall not apply:
+
+      (1) To the rental of a housing accommodation, other than a publicly-assisted housing accommodation, in a building which contains housing accommodations for not more than two families living independently of each other, if the owner or members of the owner's family reside in one of such housing accommodations, and if the available housing accommodation has not been publicly advertised, listed, or otherwise offered to the general public; or
+
+      (2) To the rental of a room or rooms in a housing accommodation, other than a publicly-assisted housing accommodation, if such rental is by the occupant of the housing accommodation or by the owner of the housing accommodation and the owner or members of the owner's family reside in such housing accommodation.
+
+   g. For the purposes of this subdivision, practices "based on," "because of," "on account of," "as to," "on the basis of," or "motivated by" an individual's "status as a victim of domestic violence," or "status as a victim of sex offenses or stalking" include, but are not limited to, those based solely upon the actions of a person who has perpetrated acts or threats of violence against the individual.
+
+28. Reasonable accommodation; cooperative dialogue.
+
+   (a) Employment. It shall be an unlawful discriminatory practice for an employer, labor organization or employment agency or an employee or agent thereof to refuse or otherwise fail to engage in a cooperative dialogue within a reasonable time with a person who has requested an accommodation or who the covered entity has notice may require such an accommodation:
+
+      (1) For religious needs as provided in subdivision 3 of this section;
+
+      (2) Related to a disability as provided in subdivision 15 of this section;
+
+      (3) Related to pregnancy, childbirth or a related medical condition as provided in subdivision 22 of this section; or
+
+      (4) For such person’s needs as a victim of domestic violence, sex offenses or stalking as provided in subdivision 27 of this section.
+
+   (b) Public accommodations. It shall be an unlawful discriminatory practice for any person who is the owner, franchisor, franchisee, lessor, lessee, proprietor, manager, superintendent, agent or employee of any place or provider of public accommodation to refuse or otherwise fail to engage in a cooperative dialogue within a reasonable time with a person who has requested an accommodation or who the covered entity has notice may require an accommodation related to disability as provided in subdivision 15 of this section.
+
+   (c) Housing accommodation. It shall be an unlawful discriminatory practice for an owner, lessor, lessee, sublessee, assignee, or managing agent of, or other person having the right to sell, rent or lease or approve the sale, rental or lease of a housing accommodation, constructed or to be constructed, or an interest therein, or any agency or employee thereof to refuse or otherwise fail to engage in a cooperative dialogue within a reasonable time with a person who has requested an accommodation or who the covered entity has notice may require an accommodation related to disability as provided in subdivision 15 of this section.
+
+   (d) Upon reaching a final determination at the conclusion of a cooperative dialogue pursuant to paragraphs (a) and (c) of this subdivision, the covered entity shall provide any person requesting an accommodation who participated in the cooperative dialogue with a written final determination identifying any accommodation granted or denied.
+
+   (e) The determination that no reasonable accommodation would enable the person requesting an accommodation to satisfy the essential requisites of a job or enjoy the right or rights in question may only be made after the parties have engaged, or the covered entity has attempted to engage, in a cooperative dialogue.
+
+   (f) Rights and obligations set forth in this subdivision are supplemental to and independent of the rights and obligations provided by subdivisions 3, 15, 22 and 27. A covered entity’s compliance with this subdivision is not a defense to a claim of not providing a reasonable accommodation under provisions of title 8 other than this subdivision.
 
 29. Anti-sexual harassment rights and responsibilities; poster.
 
@@ -741,55 +767,17 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
 
 
-* Editor's note: subsection 27 will be added by L.L. 2018/063, 1/19/2018, eff. 10/16/2018,.
 
 
 
 
 
-
-*§ 8-107.1 Victims of domestic violence, sex offenses or stalking.* ::
-
-
-a. Definitions. Whenever used in this chapter the following terms have the following meanings:
-
-   "Acts or threats of violence" includes, but is not limited to, acts, which would constitute violations of the penal law.
-
-   "Victim of domestic violence" means a person who has been subjected to acts or threats of violence, not including acts of self-defense, committed by a current or former spouse of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim, by a person who is or has been in a continuing social relationship of a romantic or intimate nature with the victim, or a person who is or has continually or at regular intervals lived in the same household as the victim.
-
-   "Victim of sex offenses or stalking" means a victim of acts which would constitute violations of article 130 of the penal law, or a victim of acts which would constitute violations of sections 120.45, 120.50, 120.55, or 120.60 of the penal law.
-
-   Practices "based on," "because of," "on account of," "as to," "on the basis of," or "motivated by" an individual's "status as a victim of domestic violence," or "status as a victim of sex offenses or stalking" include, but are not limited to, those based solely upon the actions of a person who has perpetrated acts or threats of violence against the individual.
-
-b. Unlawful discriminatory practices.
-
-   1. (a) It shall be an unlawful discriminatory practice for an employer, or an agent thereof, because of any individual's actual or perceived status as a victim of domestic violence, or as a victim of sex offenses or stalking:
-
-         (1) To represent that any employment or position is not available when in fact it is available;
-
-         (2) To refuse to hire or employ or to bar or to discharge from employment; or
-
-         (3) To discriminate against an individual in compensation or other terms, conditions, or privileges of employment.
-
-      (b) Requirement to make reasonable accommodation to the needs of victims of domestic violence, sex offenses or stalking. Except as provided in subparagraph(d), any person prohibited by paragraph 1 from discriminating on the basis of actual or perceived status as a victim of domestic violence or a victim of sex offenses or stalking shall make reasonable accommodation to enable a person who is a victim of domestic violence, or a victim of sex offenses or stalking to satisfy the essential requisites of a job provided that the status as a victim of domestic violence or a victim of sex offenses or stalking is known or should have been known by the covered entity.
-
-      (c) Documentation of status. Any person required by subparagraph (b) to make reasonable accommodation may require a person requesting reasonable accommodation pursuant to subparagraph (b) to provide certification that the person is a victim of domestic violence, sex offenses or stalking. The person requesting reasonable accommodation pursuant to subparagraph(b) shall provide a copy of such certification to the covered entity within a reasonable period after the request is made. A person may satisfy the certification requirement of this paragraph by providing documentation from an employee, agent, or volunteer of a victim services organization, an attorney, a member of the clergy, or a medical or other professional service provider, from whom the individual seeking a reasonable accommodation or that individual's family or household member has sought assistance in addressing domestic violence, sex offenses or stalking and the effects of the violence or stalking; a police or court record; or other corroborating evidence. All information provided to the covered entity pursuant to this paragraph, including a statement of the person requesting a reasonable accommodation or any other documentation, record, or corroborating evidence, and the fact that the individual has requested or obtained a reasonable accommodation pursuant to this section, shall be retained in the strictest confidence by the covered entity, except to the extent that disclosure is requested or consented to in writing by the person requesting the reasonable accommodation; or otherwise required by applicable federal, state or local law.
-
-      (d) Affirmative defense in domestic violence, sex offenses or stalking cases. In any case where the need for reasonable accommodation is placed in issue, it shall be an affirmative defense that the person aggrieved by the alleged discriminatory practice could not, with reasonable accommodation, satisfy the essential requisites of the job or enjoy the right or rights in question.
-
-   2. (a) It shall be an unlawful discriminatory practice for the owner, lessor, lessee, sublessee, assignee, or managing agent of, or other person having the right to sell, rent or lease or approve the sale, rental or lease of a housing accommodation, constructed or to be constructed, or an interest therein, or any agent or employee thereof, because of any individual's actual or perceived status as a victim of domestic violence, or as a victim of sex offenses or stalking:
-
-         (1) To refuse to sell, rent, lease, approve the sale, rental or lease or otherwise deny to or withhold from any person or group of persons such a housing accommodation or an interest therein, or to discriminate in the terms, conditions, or privileges of the sale, rental or lease of any such housing accommodation or an interest therein or in the furnishing of facilities or services in connection therewith because of an actual or perceived status of said individual as a victim of domestic violence, or as a victim of sex offenses or stalking; or
-
-         (2) To represent that such housing accommodation or an interest therein is not available when in fact it is available.
-
-      (b) The provisions of this paragraph 2 shall not apply:
-
-         (1) To the rental of a housing accommodation, other than a publicly-assisted housing accommodation, in a building which contains housing accommodations for not more than two families living independently of each other, if the owner or members of the owner's family reside in one of such housing accommodations, and if the available housing accommodation has not been publicly advertised, listed, or otherwise offered to the general public; or
-
-         (2) To the rental of a room or rooms in a housing accommodation, other than a publicly-assisted housing accommodation, if such rental is by the occupant of the housing accommodation or by the owner of the housing accommodation and the owner or members of the owner's family reside in such housing accommodation.
+*§ 8-107.1 Victims of domestic violence, sex offenses or stalking. [Repealed]* ::
 
 
+
+
+*Editor's note: § 8-107.1 was amended and redesignated as subdivision 27 of § 8-107 by L.L. 2018/063, 1/19/2018, eff. 10/16/2018.
 
 
 
@@ -799,29 +787,29 @@ b. Unlawful discriminatory practices.
 *§ 8-109 Complaint.* ::
 
 
-(a) Any person aggrieved by an unlawful discriminatory practice or an act of discrimatory harassment or violence as set forth in chapter six of this title may, by himself or herself or such person's attorney, make, sign and file with the commission a verified complaint in writing which shall: (i) state the name of the person alleged to have committed the unlawful discriminatory practice or act of discriminatory harassment or violence complained of, and the address of such person if known; (ii) set forth the particulars of the alleged unlawful discriminatory practice or act of discriminatory harassment or violence; and (iii) contain such other information as may be required by the commission. The commission shall acknowledge the filing of the complaint and advise the complainant of the time limits set forth in this chapter.
+(a) Any person aggrieved by an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter 6 of this title, or such person's attorney, may make, sign and file with the commission a verified complaint in writing which shall: (i) state the name of the person alleged to have committed the unlawful discriminatory practice or act of discriminatory harassment or violence complained of, and the address of such person if known; (ii) set forth the particulars of the alleged unlawful discriminatory practice or act of discriminatory harassment or violence; and (iii) contain such other information as may be required by the commission. The commission shall acknowledge the filing of the complaint and advise the complainant of the time limits set forth in this chapter.
 
 (b) Any employer whose employee or agent refuses or threatens to refuse to cooperate with the provisions of this chapter may file with the commission a verified complaint asking for assistance by conciliation or other remedial action.
 
-(c) Commission-initiated complaints. The commission may itself make, sign and file a verified complaint alleging that a person has committed an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter six of this title.
+(c) Commission-initiated complaints. The commission may itself make, sign and file a verified complaint alleging that a person has committed an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter 6 of this title.
 
-(d) The commission shall serve a copy of the complaint upon the respondent and all persons it deems to be necessary parties and shall advise the respondent of his or her procedural rights and obligations as set forth herein.
+(d) The commission shall serve a copy of the complaint upon the respondent and all persons it deems to be necessary parties and shall advise the respondent of the respondent's procedural rights and obligations as set forth herein.
 
-(e) The commission shall not have jurisdiction over any complaint that has been filed more than one year after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter six of this title occurred; provided, however, that the commission shall have jurisdiction over a claim of gender-based harassment if such claim is filed within three years after the alleged harassing conduct occurred.
+(e) The commission shall not have jurisdiction over any complaint that has been filed more than one year after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter 6 of this title occurred.
 
 (f) The commission shall not have jurisdiction to entertain a complaint if:
 
-   (i) the complainant has previously initiated a civil action in a court of competent jurisdiction alleging an unlawful discriminatory practice as defined by this chapter or an act of discriminatory harassment or violence as set forth in chapter six of this title with respect to the same grievance which is the subject of the complaint under this chapter, unless such civil action has been dismissed without prejudice or withdrawn without prejudice; or
+   (i) The complainant has previously initiated a civil action in a court of competent jurisdiction alleging an unlawful discriminatory practice as defined by this chapter or an act of discriminatory harassment or violence as set forth in chapter 6 of this title with respect to the same grievance which is the subject of the complaint under this chapter, unless such civil action has been dismissed without prejudice or withdrawn without prejudice; or
 
-   (ii) the complainant has previously filed and has an action or proceeding before any administrative agency under any other law of the state alleging an unlawful discriminatory practice as defined by this chapter or an act of discriminatory harassment or violence as set forth in chapter six of this title with respect to the same grievance which is the subject of the complaint under this chapter; or
+   (ii) The complainant has previously filed and has an action or proceeding before any administrative agency under any other law of the state alleging an unlawful discriminatory practice as defined by this chapter or an act of discriminatory harassment or violence as set forth in chapter 6 of this title with respect to the same grievance which is the subject of the complaint under this chapter; or
 
-   (iii) the complainant has previously filed a complaint with the state division of human rights alleging an unlawful discriminatory practice as defined by this chapter or an act of discriminatory harassment or violence as set forth in chapter six of this title with respect to the same grievance with is the subject of the complaint under this chapter and a final determination has been made thereon.
+   (iii) The complainant has previously filed a complaint with the state division of human rights alleging an unlawful discriminatory practice as defined by this chapter or an act of discriminatory harassment or violence as set forth in chapter 6 of this title with respect to the same grievance which is the subject of the complaint under this chapter and a final determination has been made thereon.
 
-(g) In relation to complaints filed on or after September first, nineteen hundred ninety one, the commission shall commence proceedings with respect to the complaint, complete a thorough investigation of the allegations of the complaint and make a final disposition of the complaint promptly and within the time periods to be prescribed by rule of the commission. If the commission is unable to comply with the time periods specified for completing its in- vestigation and for final disposition of the complaint, it shall notify the complainant, respondent, and any necessary party in writing of the reasons for not doing so.
+(g) In relation to complaints filed on or after September 1, 1991, the commission shall commence proceedings with respect to the complaint, complete a thorough investigation of the allegations of the complaint and make a final disposition of the complaint promptly and within the time periods to be prescribed by rule of the commission. If the commission is unable to comply with the time periods specified for completing its investigation and for final disposition of the complaint, it shall notify the complainant, respondent, and any necessary party in writing of the reasons for not doing so.
 
 (h) Any complaint filed pursuant to this section may be amended pursuant to procedures prescribed by rule of the commission by filing such amended complaint with the commission and serving a copy thereof upon all parties to the proceeding.
 
-(i) Whenever a complaint is filed pursuant to paragraph (d) of subdivision five of section 8-107 of this chapter, no member of the commission nor any member of the commission staff shall make public in any manner whatsoever the name of any borrower or identify by a specific description the collateral for any loan to such borrower except when ordered to do so by a court of competent jurisdiction or where express permission has been first obtained in writing from the lender and the borrower to such publication; provided, however, that the name of any borrower and a specific description of the collateral for any loan to such borrower may, if otherwise relevant, be introduced in evidence in any hearing before the commission or any review by a court of competent jurisdiction of any order or decision by the commission.
+(i) Whenever a complaint is filed pursuant to paragraph (d) of subdivision 5 of section 8-107, no member of the commission nor any member of the commission staff shall make public in any manner whatsoever the name of any borrower or identify by a specific description the collateral for any loan to such borrower except when ordered to do so by a court of competent jurisdiction or where express permission has been first obtained in writing from the lender and the borrower to such publication; provided, however, that the name of any borrower and a specific description of the collateral for any loan to such borrower may, if otherwise relevant, be introduced in evidence in any hearing before the commission or any review by a court of competent jurisdiction of any order or decision by the commission.
 
 
 
@@ -833,7 +821,7 @@ b. Unlawful discriminatory practices.
 *§ 8-111 Answer.* ::
 
 
-a. Within thirty days after a copy of the complaint is served upon the respondent by the commission, the respondent shall file a written, verified answer thereto with the commission, and the commission shall cause a copy of such answer to be served upon the complainant and any necessary party.
+a. Within 30 days after a copy of the complaint is served upon the respondent by the commission, the respondent shall file a written, verified answer thereto with the commission, and the commission shall cause a copy of such answer to be served upon the complainant and any necessary party.
 
 b. The respondent shall specifically admit, deny, or explain each of the facts alleged in the complaint, unless the respondent is without knowledge or information sufficient to form a belief, in which case the respondent shall so state, and such statement shall operate as a denial.
 
@@ -852,6 +840,8 @@ g. Any answer filed pursuant to this section may be amended pursuant to procedur
 
 
 
+
+
 *§ 8-112 Withdrawal of complaints.* ::
 
 
@@ -861,11 +851,13 @@ b. A complaint may be withdrawn after the service of such notice at the discreti
 
 c. Unless such complaint is withdrawn pursuant to a conciliation agreement, the withdrawal of a complaint shall be without prejudice:
 
-   (i) to the continued prosecution of the complaint by the commission in accordance with rules of the commission;
+   1. To the continued prosecution of the complaint by the commission in accordance with rules of the commission;
 
-   (ii) to the initiation of a complaint by the commission based in whole or in part upon the same facts; or
+   2. To the initiation of a complaint by the commission based in whole or in part upon the same facts; or
 
-   (iii) to the commencement of a civil action by the corporation counsel based upon the same facts pursuant to chapter four of this title.
+   3. To the commencement of a civil action by the corporation counsel based upon the same facts pursuant to chapter 4 of this title.
+
+
 
 
 
@@ -877,27 +869,29 @@ c. Unless such complaint is withdrawn pursuant to a conciliation agreement, the 
 
 a. The commission may, in its discretion, dismiss a complaint for administrative convenience at any time prior to the taking of testimony at a hearing. Administrative convenience shall include, but not be limited to, the following circumstances:
 
-   (1) commission personnel have been unable to locate the complainant after diligent efforts to do so;
+   1. Commission personnel have been unable to locate the complainant after diligent efforts to do so;
 
-   (2) the complainant has repeatedly failed to appear at mutually agreed upon appointments with commission personnel or is unwilling to meet with commission personnel, provide requested documentation, or to attend a hearing;
+   2. The complainant has repeatedly failed to appear at mutually agreed upon appointments with commission personnel or is unwilling to meet with commission personnel, provide requested documentation, or to attend a hearing;
 
-   (3) the complainant has repeatedly engaged in conduct which is disruptive to the orderly functioning of the commission;
+   3. The complainant has repeatedly engaged in conduct which is disruptive to the orderly functioning of the commission;
 
-   (4) the complainant is unwilling to accept a reasonable proposed conciliation agreement;
+   4. The complainant is unwilling to accept a reasonable proposed conciliation agreement;
 
-   (5) prosecution of the complaint will not serve the public interest; and
+   5.  Prosecution of the complaint will not serve the public interest; and
 
-   (6) the complainant requests such dismissal, one hundred eighty days have elapsed since the filing of the complaint with the commission finds (a) that the complaint has not been actively investigated, and (b) that the respondent will not be unduly prejudiced thereby.
+   6. The complainant requests such dismissal, 180 days have elapsed since the filing of the complaint with the commission and the commission finds (a) that the complaint has not been actively investigated, and (b) that the respondent will not be unduly prejudiced thereby.
 
 b. The commission shall dismiss a complaint for administrative convenience at any time prior to the filing of an answer by the respondent, if the complainant requests such dismnissal, unless the commission has conducted an investigation of the complaint or has engaged the parties in conciliation after the filing of the complaint.
 
 c. In accordance with the rules of the commission, the commission shall dismiss a complaint if the complaint is not within the jurisdiction of the commission.
 
-d. If after investigation the commission determines that probable cause does not exist to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter six of this title, the commission shall dismiss the complaint as to such respondent.
+d. If after investigation the commission determines that probable cause does not exist to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter 6 of this title, the commission shall dismiss the complaint as to such respondent.
 
 e. The commission shall promptly serve notice upon the complainant, respondent and any necessary party of any dismissal pursuant to this section.
 
-f. The complainant or respondent may, within thirty days of such service, and in accordance with the rules of the commission, apply to the chairperson for review of any dismissal pursuant to this section. Upon such application, the chairperson shall review such action and issue an order affirming, reversing or modifying such determination or remanding the matter for further investigation and action. A copy of such order shall be served upon the complainant, respondent and any necessary party.
+f. The complainant or respondent may, within 30 days of such service, and in accordance with the rules of the commission, apply to the chairperson for review of any dismissal pursuant to this section. Upon such application, the chairperson shall review such action and issue an order affirming, reversing or modifying such determination or remanding the matter for further investigation and action. A copy of such order shall be served upon the complainant, respondent and any necessary party.
+
+
 
 
 
@@ -909,15 +903,17 @@ f. The complainant or respondent may, within thirty days of such service, and in
 
 a. The commis- sion may at any time issue subpoenas requiring attendance and giving of testimony by witnesses and the production of books, papers, documents and other evidence relating to any matter under investigation or any question before the commission. The issuance of such subpoenas shall be governed by the civil practice law and rules.
 
-b. Where the commission has initiated its own investigation or has conducted an investigation in connection with the filing of a complaint pursuant to this chapter, the commission may demand that any person or persons who are the subject of such investigation (i) preserve those records in the possession of such person or persons which are relevant to the determination of whether such person or persons have committed unlawful discriminatory practices with respect to activities in the city, and (ii) continue to make and keep the type of records made and kept by such person or persons in the ordinary course of business within the year preceding such demand which are relevant to the determination of whether such person or persons have committed unlawful discriminatory practices with respect to activities in the city. A demand made pursuant to this subdivision shall be effective immediately upon its service on the subject of an investigation and shall remain in effect until the termination of all proceedings relating to any complaint filed pursuant to this chapter or civil action commenced pursuant to chapter four of this title or if no complaint or civil action is filed or commenced shall expire two years after the date of such service. The commission's demand shall require that such records be made available for inspection by the commission and/or be filed with the commission.
+b. Where the commission has initiated its own investigation or has conducted an investigation in connection with the filing of a complaint pursuant to this chapter, the commission may demand that any person or persons who are the subject of such investigation (i) preserve those records in the possession of such person or persons which are relevant to the determination of whether such person or persons have committed unlawful discriminatory practices or other acts made unlawful by this chapter or chapter 6 of this title with respect to activities in the city, and (ii) continue to make and keep the type of records made and kept by such person or persons in the ordinary course of business within the year preceding such demand which are relevant to the determination of whether such person or persons have committed unlawful discriminatory practices or other acts made unlawful by this chapter or chapter 6 of this title with respect to activities in the city. A demand made pursuant to this subdivision shall be effective immediately upon its service on the subject of an investigation and shall remain in effect until the termination of all proceedings relating to any complaint filed pursuant to this chapter or civil action commenced pursuant to chapter 4 of this title or if no complaint or civil action is filed or commenced shall expire two years after the date of such service. The commission's demand shall require that such records be made available for inspection by the commission, be filed with the commission, or both.
 
-c. Any person upon whom a demand has been made pursuant to subdivision b of this section may, pursuant to procedures established by rule of the commission, assert an objection to such demand. Unless the commission orders otherwise, the assertion of an objection shall not stay compliance with the demand. The commission shall make a determination on an objection to a demand within thirty days after such an objection is filed with the commission, unless the party filing the objection consents to an extension of time.
+c. Any person upon whom a demand has been made pursuant to subdivision b of this section may, pursuant to procedures established by rule of the commission, assert an objection to such demand. Unless the commission orders otherwise, the assertion of an objection shall not stay compliance with the demand. The commission shall make a determination on an objection to a demand within 30 days after such an objection is filed with the commission, unless the party filing the objection consents to an extension of time.
 
 d. Upon the expiration of the time set pursuant to such rules for making an objection to such demand, or upon a determination that an objection to the demand shall not be sustained, the commission shall order compliance with the demand.
 
 e. Upon a determination that an objection to a demand shall be sustained, the commission shall order that the demand be vacated or modified.
 
 f. A proceeding may be brought on behalf of the commission in any court of competent jurisdiction seeking an order to compel compliance with an order issued pursuant to subdivision d of this section.
+
+
 
 
 
@@ -943,11 +939,13 @@ d. If a conciliation agreement is entered into, the commission shall embody such
 *§ 8-116 Determination of probable cause.* ::
 
 
-a. Except in connection with commission-initiated complaints which shall not require a determination of probable cause, where the commission determines that probable cause exists to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter six of this title, the commission shall issue a written notice to complainant and respondent so stating. A determination of probable cause is not a final order of the commission and shall not be administratively or judicially reviewable.
+a. Except in connection with commission-initiated complaints which shall not require a determination of probable cause, where the commission determines that probable cause exists to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice or an act of discriminatory harassment or violence as set forth in chapter 6 of this title, the commission shall issue a written notice to complainant and respondent so stating. A determination of probable cause is not a final order of the commission and shall not be administratively or judicially reviewable.
 
-b. If there is a determination of probable cause pursuant to subdivision a of this section in relation to a complaint alleging discrimination in housing accommodations, land or commercial space or an interest therein, or if a commission-initiated complaint relating to discrimination in housing accommodations, land or commercial space or an interest therein has been filed, and the property owner or the owner's duly authorized agent will not agree voluntarily to withhold from the market the subject housing accommodations, land or commercial space or an interest therein for a period of ten days from the date of such request the commission may cause to be posted for a period of ten days from the date of such request, in a conspicuous place on the land or on the door of such housing accommodations or commercial space, a notice stating that such accommodations, land or commercial space are the subject of a complaint before the commission and that prospective transferees will take such accommodations, land or commercial space at their peril. Any destruction, defacement, alteration or removal of such notice by the owner or the owner's agents or employees shall be a misdemeanor punishable on conviction thereof by a fine of not more than one thousand dollars or by imprisonment for not more than one year or both.
+b. If there is a determination of probable cause pursuant to subdivision a of this section in relation to a complaint alleging discrimination in housing accommodations, land or commercial space or an interest therein, or if a commission-initiated complaint relating to discrimination in housing accommodations, land or commercial space or an interest therein has been filed, and the property owner or the owner's duly authorized agent will not agree voluntarily to withhold from the market the subject housing accommodations, land or commercial space or an interest therein for a period of 10 days from the date of such request the commission may cause to be posted for a period of 10 days from the date of such request, in a conspicuous place on the land or on the door of such housing accommodations or commercial space, a notice stating that such accommodations, land or commercial space are the subject of a complaint before the commission and that prospective transferees will take such accommodations, land or commercial space at their peril. Any destruction, defacement, alteration or removal of such notice by the owner or the owner's agents or employees shall be a misdemeanor punishable on conviction thereof by a fine of not more than $1,000 or by imprisonment for not more than one year or both.
 
 c. If a determination is made pursuant to subdivision a of this section that probable cause exists, or if a commission-initiated complaint has been filed, the commission shall refer the complaint to an administrative law judge and shall serve a notice upon the complainant, respondent and any necessary party that the complaint has been so referred.
+
+
 
 
 
@@ -991,7 +989,7 @@ a. A hearing on the complaint shall be held before an administrative law judge d
 
 b. The case in support of the complaint shall be presented before the commission by the commission's prosecutorial bureau. The complainant may present additional testimony and cross-examine witnesses, in person or by counsel, if the complainant shall have intervened pursuant to rules established by the commission.
 
-c. The administrative law judge may, in his or her discretion, permit any person who has a substantial interest in the complaint to intervene as a party and may require the joinder of necessary parties.
+c. The administrative law judge may, in the administrative law judge's discretion, permit any person who has a substantial interest in the complaint to intervene as a party and may require the joinder of necessary parties.
 
 d. Evidence relating to endeavors at mediation or conciliation by, between or among the commission, the complainant and the respondent shall not be admissible.
 
@@ -1006,38 +1004,40 @@ g. The commission shall not be bound by the strict rules of evidence prevailing 
 
 
 
+
+
 *§ 8-120 Decision and order.* ::
 
 
-a. If, upon all the evidence at the hearing, and upon the findings of fact, conclusions of law and relief recommended by an administrative law judge, the commission shall find that a respondent has engaged in any unlawful discriminatory practice or any act of discriminatory harassment or violence as set forth in chapter six of this title, the commission shall state its findings of fact and conclusions of law and shall issue and cause to be served on such respondent an order requiring such respondent to cease and desist from such unlawful discriminatory practice or acts of discriminatory harassment or violence. Such order shall require the respondent to take such affirmative action as, in the judgment of the commission, will effectuate the purposes of this chapter including, but not limited to:
+a. If, upon all the evidence at the hearing, and upon the findings of fact, conclusions of law and relief recommended by an administrative law judge, the commission shall find that a respondent has engaged in any unlawful discriminatory practice or any act of discriminatory harassment or violence as set forth in chapter 6 of this title, the commission shall state its findings of fact and conclusions of law and shall issue and cause to be served on the complainant, respondent, any necessary party and any complainant who has not intervened an order requiring such respondent to cease and desist from such unlawful discriminatory practice or acts of discriminatory harassment or violence. Such order shall require the respondent to take such affirmative action as, in the judgment of the commission, will effectuate the purposes of this chapter or chapter 6 of this title, as applicable, including, but not limited to:
 
-   (1) hiring, reinstatement or upgrading of employees;
+   1. Hiring, reinstatement or upgrading of employees;
 
-   (2) the award of back pay and front pay;
+   2. The award of back pay and front pay;
 
-   (3) admission to membership in any respondent labor organization;
+   3. Admission to membership in any respondent labor organization;
 
-   (4) admission to or participation in a program, apprentice training program, on-the-job training program or other occupational training or retraining program;
+   4. Admission to or participation in a program, apprentice training program, on-the-job training program or other occupational training or retraining program;
 
-   (5) the extension of full, equal and unsegregated accommodations, ad- vantages, facilities and privileges;
+   5. The extension of full, equal and unsegregated accommodations, advantages, facilities and privileges;
 
-   (6) evaluating applications for membership in a club that is not distinctly private without discrimination based on race, creed, color, age, national origin, disability, marital status, partnership status, gender, sexual orientation or alienage or citizenship status;
+   6. Evaluating applications for membership in a club that is not distinctly private, without unlawful discrimination;
 
-   (7) selling, renting or leasing, or approving the sale, rental or lease of housing accommodations, land or commercial space or an interest therein, or the provision of credit with respect thereto, without unlawful discrimination;
+   7. Selling, renting or leasing, or approving the sale, rental or lease of housing accommodations, land or commercial space or an interest therein, or the provision of credit with respect thereto, without unlawful discrimination;
 
-   (8) payment of compensatory damages to the person aggrieved by such practice or act;
+   8. Payment of compensatory damages to the person aggrieved by such practice or act;
 
-   (9) submission of reports with respect to the manner of compliance; and
+   9. Submission of reports with respect to the manner of compliance; and
 
-   (10) payment of the complainant's reasonable attorney's fees, expert fees and other costs. The commission may consider matter-specific factors when determining the complainant's attorney's fee award, including, but not limited to:
+   10. Payment of the complainant's reasonable attorney's fees, expert fees and other costs. The commission may consider matter-specific factors when determining the complainant's attorney's fee award, including, but not limited to:
 
-      (i) novelty or difficulty of the issues presented;
+      (i) Novelty or difficulty of the issues presented;
 
-      (ii) skill and experience of the complainant's attorney; and
+      (ii) Skill and experience of the complainant's attorney; and
 
-      (iii) the hourly rate charged by attorneys of similar skill and experience litigating similar cases in New York county.
+      (iii) The hourly rate charged by attorneys of similar skill and experience litigating similar cases in New York county.
 
-b. If, upon all the evidence at the hearing, and upon the findings of fact and conclusions of law recommended by the administrative law judge, the commission shall find that a respondent has not engaged in any such unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter six of this title, the commission shall state its findings of fact and conclusions of law and shall issue and cause to be served on the complainant, respondent, and any necessary party and on any complainant who has not intervened an order dismissing the complaint as to such respondent.
+b. If, upon all the evidence at the hearing, and upon the findings of fact and conclusions of law recommended by the administrative law judge, the commission shall find that a respondent has not engaged in any such unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter 6 of this title, the commission shall state its findings of fact and conclusions of law and shall issue and cause to be served on the complainant, respondent, and any necessary party and on any complainant who has not intervened an order dismissing the complaint as to such respondent.
 
 
 
@@ -1059,7 +1059,9 @@ The commission may reopen any proceeding, or vacate or modify any order or deter
 *§ 8-122 Injunction and temporary restraining order.* ::
 
 
-At any time after the filing of a complaint alleging an unlawful discriminatory practice under this chapter or an act of discriminatory harrassment or violence as set forth in chapter six of this title, if the commission has reason to believe that the respondent or other person acting in concert with respondent is doing or procuring to be done any act or acts, tending to render ineffectual relief that could be ordered by the commission after a hearing as provided by section 8-120 of this chapter, a special proceeding may be commenced in accordance with article sixty-three of the civil practice law and rules on behalf of the commission in the supreme court for an order to show cause why the respondent and such other persons who are believed to be acting in concert with respondent should not be enjoined from doing or procuring to be done such acts. The special proceeding may be commenced in any county within the city of New York where the alleged unlawful discriminatory practice or act of discriminatory harassment or violence was committed, or where the commission maintains its principal office for the transaction of business, or where any respondent resides or maintains an office for the transaction of business, or where any person aggrieved by the unlawful discriminatory practice or act of discriminatory harassment or violence resides, or, if the complaint alleges an unlawful discriminatory practice under paragraphs (a), (b) or (c) of subdivision five of section 8-107 of this chapter, where the housing accommodation, land or commercial space specified in the complaint is located. The order to show cause may contain a temporary restraining order and shall be served in the manner provided therein. On the return date of the order to show cause, and after affording the commission, the person aggrieved and the respondent and any person alleged to be acting in concert with the respondent an opportunity to be heard, the court may grant appropriate injunctive relief upon such terms and conditions as the court deems proper.
+At any time after the filing of a complaint alleging an unlawful discriminatory practice under this chapter or an act of discriminatory harassment or violence as set forth in chapter 6 of this title, if the commission has reason to believe that the respondent or other person acting in concert with respondent is doing or procuring to be done any act or acts, tending to render ineffectual relief that could be ordered by the commission after a hearing as provided by section 8-120, a special proceeding may be commenced in accordance with article 63 of the civil practice law and rules on behalf of the commission in the supreme court for an order to show cause why the respondent and such other persons who are believed to be acting in concert with respondent should not be enjoined from doing or procuring to be done such acts. The special proceeding may be commenced in any county within the city where the alleged unlawful discriminatory practice or act of discriminatory harassment or violence was committed, or where the commission maintains its principal office for the transaction of business, or where any respondent resides or maintains an office for the transaction of business, or where any person aggrieved by the unlawful discriminatory practice or act of discriminatory harassment or violence resides, or, if the complaint alleges an unlawful discriminatory practice under paragraphs (a), (b) or (c) of subdivision 5 of section 8-107, where the housing accommodation, land or commercial space specified in the complaint is located. The order to show cause may contain a temporary restraining order and shall be served in the manner provided therein. On the return date of the order to show cause, and after affording the commission, the person aggrieved and the respondent and any person alleged to be acting in concert with the respondent an opportunity to be heard, the court may grant appropriate injunctive relief upon such terms and conditions as the court deems proper.
+
+
 
 
 
@@ -1071,7 +1073,7 @@ At any time after the filing of a complaint alleging an unlawful discriminatory 
 
 a. Any complainant, respondent or other person aggrieved by a final order of the commission issued pursuant to section 8-120 or section 8-126 of this chapter or an order of the chairperson issued pursuant to subdivision f of section 8-113 of this chapter affirming the dismissal of a complaint may obtain judicial review thereof in a proceeding as provided in this section.
 
-b. Such proceeding shall be brought in the supreme court of the state within any county within the city of New York wherein the unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter six of this title which is the subject of the commission's order occurs or wherein any person required in the order to cease and desist from an unlawful discriminatory practice or act of discriminatory harassment or violence or to take other affirmative action resides or transacts business.
+b. Such proceeding shall be brought in the supreme court of the state within any county within the city wherein the unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter 6 of this title which is the subject of the commission's order occurs or wherein any person required in the order to cease and desist from an unlawful discriminatory practice or act of discriminatory harassment or violence or to take other affirmative action resides or transacts business.
 
 c. Such proceeding shall be initiated by the filing of a petition in such court, together with a written transcript of the record upon the hearing, before the commission, and the issuance and service of a notice of motion returnable before such court. Thereupon the court shall have jurisdiction of the proceeding and of the questions determined therein, and shall have power to grant such relief as it deems just and proper, and to make and enter upon the pleadings, testimony, and proceedings set forth in such transcript an order annulling, confirming or modifying the order of the commission in whole or in part. No objection that has not been urged before the commission shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances.
 
@@ -1083,7 +1085,9 @@ f. All such proceedings shall be heard and determined by the court and by any ap
 
 g. The commission's copy of the testimony shall be available at all reasonable times to all parties for examination without cost and for the purposes of judicial review of the order of the commission. The appeal shall be heard on the record without requirement of printing.
 
-h. A proceeding under this section must be instituted within thirty days after the service of the order of the commission.
+h. A proceeding under this section must be instituted within 30 days after the service of the order of the commission.
+
+
 
 
 
@@ -1093,7 +1097,9 @@ h. A proceeding under this section must be instituted within thirty days after t
 *§ 8-124 Civil penalties for violating commission orders.* ::
 
 
-Any person who fails to comply with an order issued by the commission pursuant to section 8-115 or section 8-120 of this chapter shall be liable for a civil penalty of not more than fifty thousand dollars and an additional civil penalty of not more than one hundred dollars per day for each day that the violation continues.
+Any person who fails to comply with an order issued by the commission pursuant to section 8-115 or section 8-120 shall be liable for a civil penalty of not more than $50,000 and an additional civil penalty of not more than $100 per day for each day that the violation continues.
+
+
 
 
 
@@ -1115,13 +1121,15 @@ b. In any action or proceeding brought pursuant to subdivision a of this section
 *§ 8-126 Civil penalties imposed by commission for unlawful discriminatory practices or acts of discriminatory harassment or violence.* ::
 
 
-a. Except as otherwise provided in subdivision thirteen of section 8-107 of this chapter, in addition to any of the remedies and penalties set forth in subdivision a of section 8-120 of this chapter, where the commission finds that a person has engaged in an unlawful discriminatory practice, the commission may, to vindicate the public interest, impose a civil penalty of not more than one hundred and twenty-five thousand dollars. Where the commission finds that an unlawful discriminatory practice was the result of the respondent's willful, wanton or malicious act or where the commission finds that an act of discriminatory harassment or violence as set forth in chapter six of this title has occurred, the commission may, to vindicate the public interest, impose a civil penalty of not more than two hundred and fifty thousand dollars.
+a. Except as otherwise provided in subdivision 13 of section 8-107, in addition to any of the remedies and penalties set forth in subdivision a of section 8-120, where the commission finds that a person has engaged in an unlawful discriminatory practice, the commission may, to vindicate the public interest, impose a civil penalty of not more than $125,000. Where the commission finds that an unlawful discriminatory practice was the result of the respondent's willful, wanton or malicious act or where the commission finds that an act of discriminatory harassment or violence as set forth in chapter 6 of this title has occurred, the commission may, to vindicate the public interest, impose a civil penalty of not more than $250,000.
 
-b. A respondent that is found liable for an unlawful discriminatory practice or an act of discriminatory harassment or violence, as set forth in chapter six of this title, may, in relation to the determination of the appropriate amount of civil penalties to be imposed pursuant to subdivision a of this section, plead and prove any relevant mitigating factor.
+b. A respondent that is found liable for an unlawful discriminatory practice or an act of discriminatory harassment or violence, as set forth in chapter 6 of this title, may, in relation to the determination of the appropriate amount of civil penalties to be imposed pursuant to subdivision a of this section, plead and prove any relevant mitigating factor.
 
-c. In addition to any other penalties or sanctions which may be imposed pursuant to any other law, any person who knowingly makes a material false statement in any proceeding conducted, or document or record filed with the commission, or record required to be preserved or made and kept and subject to inspection by the commission pursuant to this chapter shall be liable for a civil penalty of not more than ten thousand dollars.
+c. In addition to any other penalties or sanctions which may be imposed pursuant to any other law, any person who knowingly makes a material false statement in any proceeding conducted, or document or record filed with the commission, or record required to be preserved or made and kept and subject to inspection by the commission pursuant to this chapter shall be liable for a civil penalty of not more than $10,000.
 
 d. An action or proceeding may be commenced in any court of competent jurisdiction on behalf of the commission for the recovery of the civil penalties provided for in this section.
+
+
 
 
 
@@ -1153,7 +1161,9 @@ Where any of the provisions of this chapter authorize an application to be made,
 *§ 8-129 Criminal penalties.* ::
 
 
-In addition to any other penalties or sanctions which may be imposed pursuant to this chapter or any other law, any person who shall wilfully resist, prevent, impede or interfere with the commission or any of its members or representatives in the performance of any duty under this chapter, or shall wilfully violate an order of the commission issued pursuant to section 8-115 or section 8-120 of this chapter, shall be guilty of a misdemeanor and be punishable by imprisonment for not more than one year, or by a fine of not more than ten thousand dollars, or by both; but the procedure for the review of the order shall not be deemed to be such wilful conduct.
+In addition to any other penalties or sanctions which may be imposed pursuant to this chapter or any other law, any person who shall willfully resist, prevent, impede or interfere with the commission or any of its members or representatives in the performance of any duty under this chapter, or shall willfully violate an order of the commission issued pursuant to section 8-115 or section 8-120, shall be guilty of a misdemeanor and be punishable by imprisonment for not more than one year, or by a fine of not more than $10,000, or by both; but the procedure for the review of the order shall not be deemed to be such willful conduct.
+
+
 
 
 
@@ -1179,7 +1189,9 @@ c. Cases that have correctly understood and analyzed the liberal construction re
 *§ 8-131 Applicability.* ::
 
 
-The provisions of this chapter which make acts of discriminatory harassment or violence as set forth in chapter six of this title subject to the jurisdiction of the commission shall not apply to acts committed by members of the police department in the course of performing their official duties as police officers whether the police officer is on or off duty.
+The provisions of this chapter which make acts of discriminatory harassment or violence as set forth in chapter 6 of this title subject to the jurisdiction of the commission shall not apply to acts committed by members of the police department in the course of performing their official duties as police officers whether the police officer is on or off duty.
+
+
 
 
 
@@ -1407,7 +1419,9 @@ It is hereby found that the letter and spirit of the constitution of the United 
 *§ 8-302 Removal of disability or disqualification.* ::
 
 
-Notwithstanding any provision of this code to the contrary, no person shall be denied any license, right, benefit or privilege extended by this code, or suffer any other disability or disqualification thereunder, or be denied the right of employment by the city of New York, solely because of any arrest, apprehension, detention, indictment or other accusation, arraignment, trial, conviction or any other aspect of conviction or adjudication of a crime had under the jurisdiction of the courts of any state or of the United States, which is founded on an act or acts arising out of any peaceful demonstration or other peaceful activity, the object of which is to resist discriminatory treatment in any place of public accommodation as defined by section forty of the civil rights law, or to achieve equal rights for all persons regardless of race, creed, color or national origin.
+Notwithstanding any provision of this code to the contrary, no person shall be denied any license, right, benefit or privilege extended by this code, or suffer any other disability or disqualification thereunder, or be denied the right of employment by the city, solely because of any arrest, apprehension, detention, indictment or other accusation, arraignment, trial, conviction or any other aspect of conviction or adjudication of a crime had under the jurisdiction of the courts of any state or of the United States, which is founded on an act or acts arising out of any peaceful demonstration or other peaceful activity, the object of which is to resist discriminatory treatment in any place of public accommodation as defined by section 40 of the civil rights law, or to achieve equal rights for all persons regardless of race, creed, color or national origin.
+
+
 
 
 
@@ -1430,7 +1444,7 @@ The council finds that certain forms of unlawful discrimination are systemic in 
 *§ 8-402 Civil action to eliminate unlawful discriminatory practices.* ::
 
 
-a. Whenever there is reasonable cause to believe that a person or group of persons is engaged in pattern or practice that results in the denial to any person of the full enjoyment of any right secured by chapter one of this title, a civil action on behalf of the commission or the city may be commenced in a court of competent jurisdiction, by filing a complaint setting forth facts pertaining to such pattern or practice and requesting such relief as may be deemed necessary to insure the full enjoyment of the rights described in such chapter, including, but not limited to, injunctive relief, damages, including punitive damages, and such other types of relief as are specified in subdivision a of section 8-120 of this title. Nothing in this section shall be construed to prohibit (i) an aggrieved person from filing a complaint pursuant to section 8-109 of chapter one of this title or from commencing a civil action pursuant to chapter five of this title based upon the same facts pertaining to such a pattern or practice as are alleged in the civil action, or (ii) the commission from filing a commission-initiated complaint pursuant to section 8-109 of chapter one of this title alleging a pattern or practice of discrimination, provided that a civil action prusuant to this section shall not have previously been commenced.
+a. Whenever there is reasonable cause to believe that a person or group of persons is engaged in a pattern or practice that results in the denial to any person of the full enjoyment of any right secured by chapter 1 of this title, a civil action on behalf of the commission or the city may be commenced in a court of competent jurisdiction, by filing a complaint setting forth facts pertaining to such pattern or practice and requesting such relief as may be deemed necessary to insure the full enjoyment of the rights described in such chapter, including, but not limited to, injunctive relief, damages, including punitive damages, and such other types of relief as are specified in subdivision a of section 8-120. Nothing in this section shall be construed to prohibit (i) an aggrieved person from filing a complaint pursuant to section 8-109 or from commencing a civil action pursuant to chapter 5 of this title based upon the same facts pertaining to such a pattern or practice as are alleged in the civil action, or (ii) the commission from filing a commission-initiated complaint pursuant to section 8-109 alleging a pattern or practice of discrimination, provided that a civil action pursuant to this section shall not have previously been commenced.
 
 b. A civil action commenced under this section must be commenced within three years after the alleged discriminatory practice occurred.
 
@@ -1441,10 +1455,14 @@ c. Such action may be instituted only by the corporation counsel, such attorneys
 
 
 
+
+
 *§ 8-403 Investigation.* ::
 
 
-The corporation counsel may initiate any investigation to ascertain such facts as may be necessary for the commencement of a civil action pursuant to section 8-402 of this chapter, and in connection therewith shall have the power to issue subpoenas to compel the attendance of witnesses and the production of documents, to administer oaths and to examine such persons as are deemed necessary.
+The corporation counsel may initiate any investigation to ascertain such facts as may be necessary for the commencement of a civil action pursuant to section 8-402, and in connection therewith shall have the power to issue subpoenas to compel the attendance of witnesses and the production of documents, to administer oaths and to examine such persons as are deemed necessary.
+
+
 
 
 
@@ -1454,7 +1472,9 @@ The corporation counsel may initiate any investigation to ascertain such facts a
 *§ 8-404 Civil penalty.* ::
 
 
-In any civil action commenced pursuant to section 8-402 of this chapter, the trier of fact may, to vindicate the public interest, impose upon any person who is found to have engaged in a pattern or practice that results in the denial to any person of the full enjoyment of any right secured by chapter one of this title a civil penalty of not more than two hundred fifty thousand dollars. In relation to determining the appropriate amount of civil penalties to be imposed pursuant to this section a liable party may plead and prove any relevant mitigating factor. Any civil penalties so recovered pursuant to this chapter shall be paid into the general fund of the city. Nothing in this section shall be construed to preclude the city from recovering damages, including punitive damages, and other relief pursuant to section 8-402 of this chapter in addition to civil penalties.
+In any civil action commenced pursuant to section 8-402, the trier of fact may, to vindicate the public interest, impose upon any person who is found to have engaged in a pattern or practice that results in the denial to any person of the full enjoyment of any right secured by chapter 1 of this title a civil penalty of not more than $250,000. In relation to determining the appropriate amount of civil penalties to be imposed pursuant to this section a liable party may plead and prove any relevant mitigating factor. Any civil penalties so recovered pursuant to this chapter shall be paid into the general fund of the city. Nothing in this section shall be construed to preclude the city from recovering damages, including punitive damages, and other relief pursuant to section 8-402 in addition to civil penalties.
+
+
 
 
 
@@ -1469,11 +1489,11 @@ Chapter 5: Civil Action By Persons Aggrieved By Unlawful Discriminatory Practice
 
 a. Except as otherwise provided by law, any person claiming to be a person aggrieved by an unlawful discriminatory practice as defined in chapter 1 of this title or by an act of discriminatory harassment or violence as set forth in chapter 6 of this title shall have a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, unless such person has filed a complaint with the city commission on human rights or with the state division of human rights with respect to such alleged unlawful discriminatory practice or act of discriminatory harassment or violence. For purposes of this subdivision, the filing of a complaint with a federal agency pursuant to applicable federal law prohibiting discrimination which is subsequently referred to the city commission on human rights or to the state division of human rights pursuant to such law shall not be deemed to constitute the filing of a complaint under this subdivision.
 
-b. Notwithstanding any inconsistent provision of subdivision a of this section, where a complaint filed with the city commission on human rights or the state division on human rights is dismissed by the city commission on human rights pursuant to subdivisions a, b or c of section 8-113 of chapter one of this title, or by the state division of human rights pursuant to subdivision nine of section two hundred ninety-seven of the executive law either for administrative convenience or on the grounds that such person's election of an administrative remedy is annulled, an aggrieved person shall maintain all rights to commence a civil action pursuant to this chapter as if no such complaint had been filed.
+b. Notwithstanding any inconsistent provision of subdivision a of this section, where a complaint filed with the city commission on human rights or the state division on human rights is dismissed by the city commission on human rights pursuant to subdivisions a, b or c of section 8-113, or by the state division of human rights pursuant to subdivision 9 of section 297 of the executive law either for administrative convenience or on the grounds that such person's election of an administrative remedy is annulled, an aggrieved person shall maintain all rights to commence a civil action pursuant to this chapter as if no such complaint had been filed.
 
 c. The city commission on human rights and the corporation counsel shall each designate a representative authorized to receive copies of complaints in actions commenced in whole or in part pursuant to subdivision a of this section. Within 10 days after having commenced a civil action pursuant to subdivision a of this section, the plaintiff shall serve a copy of the complaint upon such authorized representatives.
 
-d. A civil action commenced under this section must be commenced within three years after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter six of this title occurred. Upon the filing of a complaint with the city commission on human rights or the state division of human rights and during the pendency of such complaint and any court proceeding for review of the dismissal of such complaint, such three year limitations period shall be tolled.
+d. A civil action commenced under this section must be commenced within three years after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter 6 of this title occurred. Upon the filing of a complaint with the city commission on human rights or the state division of human rights and during the pendency of such complaint and any court proceeding for review of the dismissal of such complaint, such three-year limitations period shall be tolled.
 
 e. Notwithstanding any inconsistent provision of this section, where a complaint filed with the city commission on human rights or state division of human rights is dismissed for administrative convenience and such dismissal is due to the complainant's malfeasance, misfeasance or recalcitrance, the three year limitation period on commencing a civil action pursuant to this section shall not be tolled. Unwillingness to accept a reasonable proposed conciliation agreement shall not be considered malfeasance, misfeasance or recalcitrance.
 
@@ -1500,11 +1520,13 @@ Chapter 6: Discriminatory Harassment Or Violence
 *§ 8-602 Civil action to enjoin discriminatory harassment or violence; equitable remedies.* ::
 
 
-a. Whenever a person interferes by threats, intimidation or coercion or attempts to interfere by threats, intimidation or coercion with the exercise or enjoyment by any person of rights secured by the constitution or laws of the United States, the constitution or laws of this state, or local law of the city and such interference or attempted interference is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, whether children are, may or would be residing with such victim, marital status, partnership status, disability, or alienage or citizenship status as defined in chapter one of this title, the corporation counsel, at the request of the city commission on human rights or on his or her own initiative, may bring a civil action on behalf of the city for injunctive and other appropriate equitable relief in order to protect the peaceable exercise or enjoyment of the rights secured.
+a. Whenever a person interferes by threats, intimidation or coercion or attempts to interfere by threats, intimidation or coercion with the exercise or enjoyment by any person of rights secured by the constitution or laws of the United States, the constitution or laws of this state, or local law of the city and such interference or attempted interference is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, whether children are, may or would be residing with such victim, marital status, partnership status, disability, or alienage or citizenship status as defined in chapter 1 of this title, the corporation counsel, at the request of the city commission on human rights or on the corporation counsel's own initiative, may bring a civil action on behalf of the city for injunctive and other appropriate equitable relief in order to protect the peaceable exercise or enjoyment of the rights secured.
 
-b. An action pursuant to subdivision a may be brought in any court of competent jurisdiction.
+b. An action pursuant to subdivision a of this section may be brought in any court of competent jurisdiction.
 
-c. Violation of an order issued pursuant to subdivision a of this section may be punished by a proceeding for contempt brought pursuant to article nineteen of the judiciary law and, in addition to any relief thereunder, a civil penalty may be imposed not exceeding ten thousand dollars for each day that the violation continues.
+c. Violation of an order issued pursuant to subdivision a of this section may be punished by a proceeding for contempt brought pursuant to article 19 of the judiciary law and, in addition to any relief thereunder, a civil penalty may be imposed not exceeding $10,000 for each day that the violation continues.
+
+
 
 
 
@@ -1514,11 +1536,13 @@ c. Violation of an order issued pursuant to subdivision a of this section may be
 *§ 8-603 Discriminatory harassment; civil penalties.* ::
 
 
-a. No person shall by force or threat of force, knowingly injure, intimidate or interfere with, oppress, or threaten any other person in the free exercise or enjoyment of any right or privilege secured to him or her by the constitution or laws of this state or by the constitution or laws of the United States or by local law of the city when such injury, intimidation, interference, oppression or threat is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, marital status, partnership status, disability or alienage or citizenship status, as defined in chapter one of this title.
+a. No person shall by force or threat of force, knowingly injure, intimidate or interfere with, oppress, or threaten any other person in the free exercise or enjoyment of any right or privilege secured to such other person by the constitution or laws of this state or by the constitution or laws of the United States or by local law of the city when such injury, intimidation, interference, oppression or threat is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, marital status, partnership status, disability or alienage or citizenship status, as defined in chapter 1 of this title.
 
-b. No person shall knowingly deface, damage or destroy the real or personal property of any person for the purpose of intimidating or interfering with the free exercise or enjoyment of any right or privilege secured to the other person by the constitution or laws of this state or by the constitution or laws of the United States or by local law of the city when such defacement, damage or destruction of real or personal property is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, marital status, partnership status, or whether children are, may be, or would be residing with such victim, disability or alienage or citizenship status, as defined in chapter one of this title.
+b. No person shall knowingly deface, damage or destroy the real or personal property of any person for the purpose of intimidating or interfering with the free exercise or enjoyment of any right or privilege secured to the other person by the constitution or laws of this state or by the constitution or laws of the United States or by local law of the city when such defacement, damage or destruction of real or personal property is motivated in whole or in part by the victim's actual or perceived race, creed, color, national origin, gender, sexual orientation, age, marital status, partnership status, or whether children are, may be, or would be residing with such victim, disability or alienage or citizenship status, as defined in chapter 1 of this title.
 
-c. Any person who violates subdivision a or b of this section shall be liable for a civil penalty of not more than one hundred thousand dollars for each violation, which may be recovered by the corporation counsel in an action or proceeding in any court of competent jurisdiction.
+c. Any person who violates subdivision a or b of this section shall be liable for a civil penalty of not more than $100,000 for each violation, which may be recovered by the corporation counsel in an action or proceeding in any court of competent jurisdiction.
+
+
 
 
 
@@ -1551,13 +1575,15 @@ Boycotts or blacklists that are based on a person's race, color, creed, age, nat
 *§ 8-702 Definitions.* ::
 
 
-When used in this chapter
+As used in this chapter, the following terms have the following meanings:
 
-(1) The term "discriminatory boycott or blacklist" means any act that is an unlawful discriminatory practice under subdivision eighteen of section 8-107 of chapter one of this title.
+Commission. The term "commission" means the city commission on human rights.
 
-(2) The term "commission" means the New York city commission on human rights.
+Council. The term "council" means the council of the city of New York.
 
-(3) The term "council" means the council of the city of New York.
+Discriminatory boycott or blacklist. The term "discriminatory boycott or blacklist" means any act that is an unlawful discriminatory practice under subdivision 18 of section 8-107.
+
+
 
 
 
@@ -1569,545 +1595,38 @@ When used in this chapter
 
 The following requirements shall apply to all complaints alleging that a discriminatory boycott or blacklist is occurring:
 
-(1) The commission shall begin an investigation within twenty-four hours of the filing of a complaint which alleges that a discriminatory boycott or blacklist is occurring.
+(1) The commission shall begin an investigation within 24 hours of the filing of a complaint which alleges that a discriminatory boycott or blacklist is occurring.
 
 (2) Within three days after initiating such an investigation, the commission shall file a written report with the mayor. The report shall state:
 
-   (a) the allegations contained in the complaint;
+   (a) The allegations contained in the complaint;
 
-   (b) whether the commission has reason to believe a discriminatory boycott or blacklist is taking place; and
+   (b) Whether the commission has reason to believe a discriminatory boycott or blacklist is taking place; and
 
-   (c) steps the commission has taken to resolve the dispute.
+   (c) Steps the commission has taken to resolve the dispute.
 
-(3) If it is stated within the report described in subdivision two of this section that the commission has reason to believe that a discriminatory boycott or blacklist has taken place, within thirty days after filing such report, the commission shall file a second report with the mayor and the council. This second report shall contain:
+(3) If it is stated within the report described in subdivision 2 of this section that the commission has reason to believe that a discriminatory boycott or blacklist has taken place, within 30 days after filing such report, the commission shall file a second report with the mayor and the council. This second report shall contain:
 
-   (a) a brief description of the allegations contained in the complaint;
+   (a) A brief description of the allegations contained in the complaint;
 
-   (b) a determination of whether probable cause exists to believe a discriminatory boycott or blacklist is taking place;
+   (b) A determination of whether probable cause exists to believe a discriminatory boycott or blacklist is taking place;
 
-   (c) a recitation of the facts that form the basis of the commission's determination of probable cause; and
+   (c) A recitation of the facts that form the basis of the commission's determination of probable cause; and
 
-   (d) if the boycott or blacklist is continuing at the date of the report, a description of all actions the commission or other city agency has taken or will undertake to resolve the dispute.
+   (d) If the boycott or blacklist is continuing at the date of the report, a description of all actions the commission or other city agency has taken or will undertake to resolve the dispute.
 
-(4) If a finding of probable cause is not contained in the report required by subdivision three of this section and the boycott or blacklist continues for more than twenty days subsequent to the report's release, then, upon demand of the mayor or council the commission shall update such report. Report updates shall detail:
+(4) If a finding of probable cause is not contained in the report required by subdivision 3 of this section and the boycott or blacklist continues for more than 20 days subsequent to the report's release, then, upon demand of the mayor or council, the commission shall update such report. Report updates shall detail:
 
-   (a) whether or not the commission presently has probable cause to believe a discriminatory boycott or blacklist is taking place; and
+   (a) Whether or not the commission presently has probable cause to believe a discriminatory boycott or blacklist is taking place; and
 
-   (b) all new activity the commission or other city agency has taken or will undertake to resolve the dispute.
+   (b) All new activity the commission or other city agency has taken or will undertake to resolve the dispute.
 
 (5) If the commission determines that the disclosure of any information in a report required by this section may interfere with or compromise a pending investigation or efforts to resolve the dispute by mediation or conciliation, it shall file the report without such information and state in the report the reasons for omitting such information.
 
 
 
-
-Chapter 8: Prevention of Interference With Reproductive Health Services
---------------------------------------------------
-
-
-
-*§ 8-801 Short title.* ::
-
-
-This local law shall be known as the "access to reproductive health care facilities act."
-
-
-
-
-
-
-*§ 8-802 Definitions.* ::
-
-
-For the purposes of this chapter:
-
-a. "Reproductive health care facility" shall mean any building, structure or place, or any portion thereof, at which licensed, certified, or otherwise legally authorized persons provide health care services or health care counseling relating to the human reproductive system.
-
-b. "Person" shall mean an individual, corporation, not-for-profit organization, partnership, association, group or any other entity.
-
-c. "Premises of a reproductive health care facility" shall mean the driveway, entrance, entryway, or exit of a reproductive health care facility, the building in which such facility is located and any parking lot in which the facility has an ownership or leasehold interest.
-
-
-
-
-
-
-*§ 8-803 Prohibition of activities to prevent access to reproductive health care facilities.* ::
-
-
-a. It shall be unlawful for any person
-
-   (1) to knowingly physically obstruct or block another person from entering into or exiting from the premises of a reproductive health care facility by physically striking, shoving, restraining, grabbing, or otherwise subjecting a person to unwanted physical contact, or attempting to do the same;
-
-   (2) to knowingly obstruct or block the premises of a reproductive health care facility, so as to impede access to or from the facility, or attempt to do the same;
-
-   (3) to follow and harass another person within 15 feet of the premises of a reproductive health care facility;
-
-   (4) to engage in a course of conduct or repeatedly commit acts within 15 feet of the premises of a reproductive health care facility when such behavior places another person in reasonable fear of physical harm, or attempt to do the same;
-
-   (5) to physically damage a reproductive health care facility so as to interfere with its operation, or attempt to do the same; or
-
-   (6) to knowingly interfere with the operation of a reproductive health care facility, or attempt to do the same, by activities including, but not limited to, interfering with, or attempting to interfere with
-
-      (i) medical procedures being performed at such facility or
-
-      (ii) the delivery of goods to such facility.
-
-b. Violations. Any person who shall violate any provision of subdivision a of this section shall be guilty of a misdemeanor punishable by a fine not to exceed one thousand dollars or imprisonment not to exceed six months, or both, for a first conviction under this section. For a second and each subsequent conviction under this section, the penalty shall be a fine not to exceed five thousand dollars or imprisonment not to exceed one year, or both.
-
-
-
-
-
-
-*§ 8-804 Civil cause of action.* ::
-
-
-Where there has been a violation of subdivision (a) of section 8-803, any person whose ability to access a reproductive health care facility has been interfered with, and any owner or operator of a reproductive health care facility or owner of a building in which such a facility is located, may bring a civil action in any court of competent jurisdiction for any or all of the following relief:
-
-1. injunctive relief;
-
-2. treble the amount of actual damages suffered as a result of such violation, including where applicable, damages for pain and suffering and emotional distress, or damages in the amount of five thousand dollars, whichever is greater; and
-
-3. attorneys' fees and costs.
-
-
-
-
-
-
-*§ 8-805 Civil action by city of New York to enjoin interference with access to reproductive health care facilities.* ::
-
-
-The corporation counsel may bring a civil action on behalf of the city in any court of competent jurisdiction for injunctive and other appropriate equitable relief in order to prevent or cure a violation of subdivision a of section 8-803.
-
-
-
-
-
-
-*§ 8-806 Joint and several liability.* ::
-
-
-If it is found, in any action brought pursuant to the provisions of this chapter, that two or more of the named defendants acted in concert pursuant to a common plan or design to violate any provision of subdivision a of section 8-803, such defendants shall be held jointly and severally liable for any fines or penalties imposed or any damages awarded.
-
-
-
-
-
-
-*§ 8-807 Construction.* ::
-
-
-a. No provision of this chapter shall be construed or interpreted so as to limit the right of any person or entity to seek other available criminal penalties or civil remedies. The penalties and remedies provided under this chapter shall be cumulative and not exclusive.
-
-b. No provision of this chapter shall be construed or interpreted so as to prohibit expression protected by the First Amendment of the Constitution of the United States or section eight of article one of the Constitution of the State of New York.
-
-c. No provision of this chapter shall be construed or interpreted so as to limit the lawful exercise of any authority vested in the owner or operator of the reproductive health care facility, the owner of the premises in which such facility is located, or a law enforcement officer of New York City, New York State or the United States acting within the scope of his or her official duties.
-
-
-
-
-Chapter 9: Actions By Victims of Gender-motivated Violence
---------------------------------------------------
-
-
-
-*§ 8-901 Short Title.* ::
-
-
-This local law shall be known as the "Victims of Gender-Motivated Violence protection Act".
-
-
-
-
-
-
-*§ 8-902 Declaration of Legislative Findings and Intent.* ::
-
-
-Gender-motivated violence inflicts serious physical, psychological, emotional and economic harm on its victims. Congressional findings have documented that gender-motivated violence is widespread throughout the United States, representing the leading cause of injuries to women ages 15 to 44. Further statistics have shown that three out of four women will be the victim of a violent crime sometime during their lives, and as many as four million women a year are victims of domestic violence. Senate hearings, various task forces and the United States Department of Justice have concluded that victims of gender-motivated violence frequently face a climate of condescension indifference and hostility in the court system and have documented the legal system's hostility towards sexual assault and domestic violence claims. Recognizing this widespread problem, Congress in 1994 provided victims of gender-motivated violence with a cause of action in federal court through the Violence Against Women Act (VAWA) . In a May 15, 2000 decision, the United States Supreme Court held that the Constitution provided no basis for a federal cause of action by victims of gender-motivated violence against their perpetrators either under the Commerce Clause or the Equal Protection Clause of the Fourteenth Amendment. In so ruling the Court held that it could "think of no better example of the police power, which the Founders denied the National Government and reposed in the States, than the suppression of violent crime and vindication of its victims." In light of the void left by the Supreme Court's decision, this Council finds that victims of gender-motivated violence should have a private right of action against their perpetrators under the Administrative Code. This private right of action aims to resolve the difficulty that victims face in seeking court remedies by providing an officially sanctioned and legitimate cause of action for seeking redress for injuries resulting from gender-motivated violence.
-
-
-
-
-
-
-*§ 8-903 Definitions.* ::
-
-
-For purposes of this chapter:
-
-a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
-
-b. "Crime of violence motivated by gender" means a crime of violence committed because of gender or on the basis of gender, and due, at least in part, to an animus based on the victim's gender.
-
-
-
-
-
-
-*§ 8-904 Civil Cause of Action.* ::
-
-
-Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence motivated by gender as defined in section 8-903 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
-
-1. compensatory and punitive damages;
-
-2. injunctive and declaratory relief;
-
-3. attorneys' fees and costs;
-
-4. such other relief as a court may deem appropriate.
-
-
-
-
-
-
-*§ 8-905 Limitations.* ::
-
-
-a. A civil action under this chapter must be commenced within seven years after the alleged crime of violence motivated by gender as defined in section 8-903 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to seven years after the inability to commence the action ceases.
-
-b. Except as otherwise permitted by law, nothing in this chapter entitles a person to a cause of action for random acts of violence unrelated to gender or for acts that cannot be domonstrated, by preponderance of the evidence, to be motivated by gender as defined in Section 8-903.
-
-c. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
-
-
-
-
-
-
-*§ 8-906 Burden of Proof.* ::
-
-
-Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence motivated by gender must be proved by a preponderance of the evidence.
-
-
-
-
-
-
-*§ 8-907 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
-
-
-
-
-Chapter 10: Equal Access To Human Services
---------------------------------------------------
-
-
-
-*§ 8-1001 Short title.* ::
-
-
-This chapter shall be known and may be cited as the "Equal Access to Human Services Act of 2003."
-
-
-
-
-
-
-*§ 8-1002 Definitions.* ::
-
-
-For purposes of this chapter, the following terms have the following meanings:
-
-a. "Agency" means the human resources administration/department of social services, including any part, subdivision, field office or satellite facility thereof.
-
-b. "Agency office" means a job center, food stamp office, medical assistance program office, or other part, subdivision, field office or satellite facility of the agency or agency contractor office that performs a covered function.
-
-c. "Agency contractor" means any contractor that enters into a covered contract with the agency.
-
-d. "Agency personnel" means bilingual personnel or interpreter personnel who are employees of the agency.
-
-e. "Bilingual personnel" means agency, agency contractor, or other contractor employees, not including work experience program participants, who provide language assistance services in addition to other duties.
-
-f. "Contract" means any written agreement, purchase order or instrument whereby the city is committed to expend or does expend funds in return for work, labor or services.
-
-g. "Contractor" means any individual, sole proprietorship, partnership, joint venture or corporation or other form of doing business that enters into a contract.
-
-h. "Covered contract" means a contract between the agency and a contractor to perform a covered function.
-
-i. "Covered function" means any of the following functions:
-
-   1. Benefits or services offered or provided at agency offices;
-
-   2. Benefits or services provided by agency contractors to provide employment services in connection with participation of individuals engaged in activities required by sections 335 through 336-c of the social services law;
-
-   3. Home care services; and
-
-   4. Determinations regarding eligibility for subsidized child care.
-
-j. "Covered language" means Arabic, Chinese, Haitian Creole, Korean, Russian or Spanish.
-
-k. "Document" means the following forms and notices developed by the agency:
-
-   i. Application forms and corresponding instructional materials;
-
-   ii. Notices that require a response from the participant;
-
-   iii. Notices that concern the denial, termination, reduction, increase or issuance of a benefit or service;
-
-   iv. Notices regarding the rights of participants to a conference and fair hearing; and
-
-   v. Notices describing regulation changes that affect benefits.
-
-l. "Interpretation services" means oral, contemporaneous interpretation of oral communications.
-
-m. "Interpreter personnel" means agency, agency contractor, or other contractor employees, not including work experience program participants, whose sole responsibility is to provide language assistance services.
-
-n. "Language assistance services" means interpretation services and/or translation services provided by bilingual personnel or interpreter personnel to a limited English proficient individual in his/her primary language to ensure their ability to communicate effectively with agency or agency contractor personnel.
-
-o. "Limited English proficient individual" means an individual who identifies as being, or is evidently, unable to communicate meaningfully with agency or agency contractor personnel because English is not his/her primary language.
-
-p. "Other covered agency" means the administration for children's services; the department of homeless services; the department of health and mental hygiene; and all functions served by the agency that are not covered functions, including any part, subdivision, field office or satellite facility thereof.
-
-q. "Primary language" means the language in which a limited English proficient individual chooses to communicate with others.
-
-r. "Translation services" means oral explanation or written translation of documents.
-
-
-
-
-
-
-*§ 8-1003 Language assistance services.* ::
-
-
-a. The agency and all agency contractors shall provide free language assistance services as required by this chapter to limited English proficient individuals.
-
-b. When a limited English proficient individual seeks or receives benefits or services from an agency office or agency contractor, the agency office or agency contractor shall provide prompt language assistance services in all interactions with that individual, whether the interaction is by telephone or in person. The agency office or agency contractor shall meet its obligation to provide prompt language assistance services for purposes of this subdivision by ensuring that limited English proficient individuals do not have to wait unreasonably longer to receive assistance than individuals who do not require language assistance services.
-
-c. Where an application or form requires completion in English by a limited English proficient individual for submission to a state or federal authority, the agency or agency contractor shall provide oral translation of such application or form as well as certification by the limited English proficient individual that the form was translated and completed by an interpreter.
-
-d. The agency shall make all reasonable efforts to provide language assistance services in person by bilingual personnel.
-
-
-
-
-
-
-*§ 8-1004 Translation of Documents.* ::
-
-
-The agency shall translate all documents into every covered language as of the first day of the sixtieth month after the effective date of the local law that added this chapter.
-
-
-
-
-
-
-*§ 8-1005 Notices.* ::
-
-
-a. Upon initial contact, whether by telephone or in person, with an individual seeking benefits and/or services offered by the agency or an agency contractor, the agency or agency contractor shall determine the primary language of such individual. If it is determined that such individual's primary language is not English, the agency or agency contractor shall inform the individual in his/her primary language of the right to free language assistance services.
-
-b. The agency shall provide in all application and recertification packages an 81/2 inch × 11 inch or larger notice advising participants that free language assistance services are available at its offices and where to go if they would like an interpreter. This notice shall appear in all covered languages.
-
-c. The agency and each agency contractor shall post conspicuous signs in every covered language at all agency offices and agency contractor offices informing limited English proficient individuals of the availability of free language assistance services.
-
-d. Other covered agencies. Upon initial contact, whether by telephone or in person, with an individual seeking benefits and/or services offered by an other covered agency, the other covered agency shall determine the primary language of such individual. If it is determined that such individual's primary language is not English, the other covered agency shall inform the individual in his/her primary language of available language assistance services.
-
-
-
-
-
-
-*§ 8-1006 Screening and training.* ::
-
-
-The agency and each agency contractor shall screen bilingual personnel and interpreter personnel for their ability to provide language assistance services. The agency and each agency contractor shall provide annual training for bilingual personnel and interpreter personnel and ensure that they are providing appropriate language assistance services.
-
-
-
-
-
-
-*§ 8-1007 Recordkeeping.* ::
-
-
-a. No later than the first day of the sixtieth month after the effective date of the local law that added this chapter, the agency and each agency contractor shall maintain records of the primary language of every individual who seeks or receives benefits or services from the agency or agency contractor. At a minimum, the agency and each agency contractor shall maintain specific records of the following:
-
-   1. The number of limited English proficient individuals served, disaggregated by agency, agency contractor or contractor, agency office, type of language assistance required and primary language;
-
-   2. The number of bilingual personnel and the number of interpreter personnel employed by the agency, disaggregated by language translated or interpreted by such personnel;
-
-   3. Whether primary language determinations are recorded properly; and
-
-   4. Whether documents are translated accurately and disseminated properly.
-
-b. Other covered agencies. No later than the first day of the sixtieth month after the effective date of the local law that added this chapter, every other covered agency shall maintain records of the primary language of every individual who seeks or receives ongoing benefits or services. At a minimum, the other covered agency shall maintain specific records of the following:
-
-   1. The number of limited English proficient individuals served, disaggregated by type of language assistance required and primary language;
-
-   2. The number of bilingual personnel and the number of interpreter personnel employed by the other covered agency, disaggregated by language translated by such personnel;
-
-   3. Whether primary language determinations are recorded properly; and
-
-   4. Whether documents are translated accurately and disseminated properly.
-
-
-
-
-
-
-*§ 8-1008 Implementation.* ::
-
-
-a. The agency shall phase in language assistance services for covered functions as follows:
-
-   1. As of the first day of the twenty-fourth month after the effective date of the local law that added this chapter, no less than 20% of covered functions provided by agency offices.
-
-   2. As of the first day of the forty-eighth month after the effective date of the local law that added this chapter, no less than 40% of covered functions provided by agency offices.
-
-   3. As of the first day of the sixtieth month after the effective date of the local law that added this chapter, 100% of covered functions provided by agency offices.
-
-b. Contractors.
-
-   1. In all covered contracts entered into or renewed after January 1, 2005, the contractor shall certify that it shall make available language assistance services and maintain and provide access to records as required by this chapter.
-
-   2. Every covered contract must contain a provision in which the contractor acknowledges that the following responsibilities constitute material terms of the contract:
-
-      (a) to provide language assistance services as required by this chapter;
-
-      (b) to comply with the recordkeeping requirements set forth in this chapter;
-
-      (c) to provide the city access to its records for the purpose of audits or investigations to ascertain compliance with the provisions of this section, to the extent permitted by law; and
-
-      (d) to provide evidence to the city that the contractor is in compliance with the provisions of this section, upon request.
-
-   3. If an agency contractor enters into a subcontract agreement to provide any benefits or services under a covered contract, that subcontract will be considered a covered contract for purposes of this section and the provisions of this section will bind the subcontractor. Each contractor is required to include the contract provision set forth in paragraph 2 of this subdivision in any such subcontract agreement.
-
-c. Implementation plans. Within eight months of the effective date of the local law that added this chapter, the agency and each other covered agency shall develop an implementation plan that describes how and when the agency or other covered agency will meet the requirements imposed by this chapter. The agency and each other covered agency shall publish a copy of its implementation plan.
-
-d. Implementation updates and annual reports. No later than 90 days after the end of each calendar year after the publication of the implementation plan and before implementation is complete, the agency and each other covered agency shall publish an implementation update. The implementation update shall describe steps taken over the prior year to implement the requirements of this chapter and shall describe any changes in the agency or other covered agency's plan for implementing the remaining requirements of the local law that added this chapter before the date set forth in subdivision a of this section. The implementation update for every year after 2004 shall include a report on the number of limited English proficient people served, disaggregated by language and by agency office or other covered agency office. Not later than 90 days after the end of each calendar year beginning with 2008, the agency and each other covered agency shall publish an annual report on language assistance services. At a minimum, this annual report of the agency, each agency contractor and each other covered agency shall set forth the information required to be maintained by this chapter.
-
-
-
-
-
-
-*§ 8-1009 Rules.* ::
-
-
-The agency and each other covered agency shall promulgate such rules as are necessary for the purposes of implementing and carrying out the provisions of this chapter.
-
-
-
-
-
-
-*§ 8-1010 Miscellaneous.* ::
-
-
-a. Nothing in this chapter precludes the agency or an agency contractor from providing language assistance services beyond those required by this chapter.
-
-b. Nothing in this chapter precludes a limited English proficient individual from having an adult volunteer, relative, spouse or domestic partner accompany him/her to provide language assistance services with the agency office or agency contractor, provided that the agency office or agency contractor informs a limited English proficient individual of the availability of free language assistance services and the agency remains responsible for ensuring effective communication.
-
-c. This chapter does not apply to any contract with an agency contractor entered into or renewed prior to January 1, 2005.
-
-
-
-
-
-
-*§ 8-1011 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which shall continue in full force and effect.
-
-
-
-
-Chapter 11: Reports on Discipline and Certain Emergency Transports of Students
---------------------------------------------------
-
-
-
-*§ 8-1101 Definitions; confidentiality requirements.* ::
-
-
-a. For purposes of this chapter, the following terms shall have the following meanings:
-
-   Chancellor. The term "chancellor" means the chancellor of the city school district of the city of New York, or the chancellor's designee.
-
-   Data. The term "data" means final versions of statistical or factual information in alphanumeric form that can be digitally transmitted or processed.
-
-   Department contact. The term "department contact" means an incident that occurs within a New York city public school, on school grounds, during school-related events or while taking public school transportation, for which the New York city police department is contacted.
-
-   EMS transports. The term "EMS transports" means transports performed by emergency medical services, whether provided by the fire department or another authorized ambulance service, in which a student is taken from a New York city public school to a hospital.
-
-   Homeless status. The term "homeless status" means the circumstance in which a student lacks a fixed, regular and adequate nighttime residence, as determined in accordance with applicable chancellor's regulations.
-
-   Teacher removal. The term "teacher removal" means the removal from class, including at least one class period and for up to four complete school days, of a student in kindergarten through grade twelve whose conduct is substantially disruptive of the educational process or substantially interferes with a teacher's authority over the classroom, with notice and an opportunity to be heard pursuant to applicable chancellor's regulations.
-
-b. No information that is otherwise required to be reported pursuant to this chapter shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information, including but not limited to restrictions with respect to personally identifiable information in education records set forth in 20 U.S.C. § 1232g, or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If (i) the total number of students or incidents within a non-disaggregated category contains from one through five students or incidents, (ii) the total number of students or incidents within a disaggregated category, or reported pursuant to paragraph four of subdivision a of section 8-1102 of this chapter, contains from zero through five students or incidents; or (iii) the total number of students or incidents within a category, whether or not disaggregated, contains an amount that would allow another category, whether or not disaggregated, that contains from one through five students or incidents to be deduced, then the number of students or incidents shall be replaced with a symbol or shall be subject to some other form of data suppression.
-
-
-
-
-
-
-
-
-*§ 8-1102 Annual report on student discipline.* ::
-
-
-The chancellor shall submit to the city council and post to the department of education's website by October 31st of each year an annual report, based on data from the preceding school year, on the discipline of students.
-
-a. The data in this report shall be disaggregated by school and shall show the following:
-
-   1. The number of teacher removals, which shall additionally be disaggregated by infraction code and number of days removed;
-
-   2. The number of principal's suspensions, which shall additionally be disaggregated by infraction code and length of suspension;
-
-   3. The number of superintendent's suspensions, which shall additionally be disaggregated by infraction code and length of suspension;
-
-   4. The number of students subjected more than once to a teacher removal, principal's suspension, superintendent's suspension, or any combination thereof;
-
-   5. The number of students subjected to an expulsion; and
-
-   6. The number of incidents involving department contacts that also resulted in the suspension of the students who were the subjects of the department contacts.
-
-b. The data provided pursuant to subdivision a shall also be disaggregated by race/ethnicity, gender, grade, year of birth, whether the individual is receiving special education services, whether the individual is an English language learner and homeless status. The report shall include school district and citywide total numbers for each disaggregated category.
-
-c. The report shall also include:
-
-   1. The citywide total number of transfers that were initiated during the superintendent's suspension process or during the period of any resulting superintendent's suspension, disaggregated by involuntary and voluntary transfers; and
-
-   2. The annual citywide percentage change in suspensions, disaggregated by school district.
-
-
-
-
-
-
-
-
-*§ 8-1103 Biannual citywide report on suspensions.* ::
-
-
-The chancellor shall submit to the council and post to the department of education's website by October 31st and March 31st of each year a report on the discipline of students citywide, based on data from the first six months of the current calendar year and the second six months of the preceding calendar year, respectively. Such report shall include the number of suspensions citywide for each month, disaggregated by superintendent's and principal's suspensions.
-
-
-
-
-
-
-
-
-*§ 8-1104 Citywide report on emergency medical services student transports.* ::
-
-
-a. The chancellor shall submit to the council and post to the department of education's website by October 31st and March 31st of each year a citywide report on the total number of EMS transports and the number of EMS transports performed because of a student's psychological/emotional condition. The October report shall include EMS transports from the first six months of the current calendar year and the March report shall include EMS transports from the second six months of the preceding calendar year. Each report shall be disaggregated by school district and by month.
-
-b. The chancellor shall submit to the council and post to the department of education's website by October 31st of each year a citywide report on EMS transports during the twelve-month period ending on June 30th of the same year. Each report shall be disaggregated by school and by race/ethnicity, year of birth and whether the individual is receiving special education services.
-
-
+Editor's note: The following former provisions of this Title 8 have been renumbered by L.L. 2018/063, 1/19/2018, eff. 10/16/2018, as follows: 
+											Chapter 8: Prevention of Interference With Reproductive Health Services – See Title 10, Chapter 10Chapter 9: Actions By Victims of Gender-Motivated Violence – See Title 10, Chapter 11Chapter 10: Equal Access to Human Services – See Title 21, Chapter 1, Subchapter 1Chapter 11: Reports on Discipline and Certain Emergency Transports of Students – See Title 21-A, Chapter 19
 
 
 
