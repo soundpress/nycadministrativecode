@@ -2674,6 +2674,52 @@ b. The department shall ensure that such educational materials are available on 
 
 
 
+
+
+*§ 21-411 Posting and reporting requirements relating to information and referral services for runaway and homeless youth.* ::
+
+
+a. Definitions. For purposes of this section the following terms have the following meanings:
+
+   Youth hotline. The term “youth hotline” means any hotline operated by the department for the purpose of providing information, resources, and referrals to youth.
+
+   311 customer service center. The term “311 customer service center” means the existing 311 citizen service center, which generally provides callers with information and referrals to appropriate resources and services, including referral to emergency services as necessary.
+
+b. Posting information about youth hotline and 311 customer service center. All runaway and homeless youth services shall post in a conspicuous on-site location a sign indicating the phone numbers of the youth hotline and the 311 customer service center and including a statement indicating that any youth may dial either number if such youth has a question, comment, or complaint regarding any runaway and homeless youth service. The postings shall also include, but not be limited to:
+
+   1. Information regarding where youth may find a complete summary of the rules governing the runaway and homeless youth service as well as the conduct and responsibilities expected of runaway and homeless youth service participants;
+
+   2. A statement indicating that the runaway and homeless youth service receives funding from the department and is subject to its oversight;
+
+   3. Notice that the youth hotline or 311 customer service center may be called 24 hours a day to anonymously or confidentially communicate a question, comment, or complaint about the runaway and homeless youth service’s conduct and responsibilities, including the specific telephone numbers to dial and the hours during which each number is open to receive calls; and
+
+   4. A statement that any comprehensive hotline providing mental health resources established within any agency or agencies as determined by the mayor may, if such hotline exists, be contacted 24 hours a day for information, referrals, or counseling relating to an individual’s mental health and well-being, including the specific telephone number to dial.
+
+c. Reporting.
+
+   1. No later than October 1, 2019, and on or before October 1 annually thereafter, the department shall submit a report to the mayor and the speaker of the city council which shall include the number of calls and general nature of any questions, comments, and complaints regarding runaway and homeless youth service that are received by the youth hotline and 311 customer service center, and the status of the department’s response to any such questions, comments, or complaints. The report shall include data disaggregated by calls made to the youth hotline and 311 customer service center, respectively. The annual report shall also include a summary of any changes made to runaway and homeless youth services as a result of any questions, comments, or complaints made to the youth hotline and 311 customer service center.
+
+   2. The general nature of any questions, comments and complaints reported pursuant to paragraph 1 of this subdivision shall include the categories of such questions, comments and complaints including, but not limited to:
+
+      (a) Facility conditions;
+
+      (b) Treatment by staff;
+
+      (c) Treatment by other youth;
+
+      (d) Lack of resources, such as medical care or sleeping accommodating, or any other reported resources; and
+
+      (e) Failure of a runaway and homeless youth service to provide information required by law.
+
+d. Confidentiality. Any identifying information collected by the youth hotline, 311 customer service center, and department in relation to this section shall only be used, disclosed, and retained for the purposes set forth in this section, in accordance with applicable federal, state, and local laws, regulations, and city and agency policies relating to the privacy and confidentiality of such information. “Identifying information” has the same meaning as set forth in section 23-1201 of the code. Information received by the youth hotline and 311 customer service center may be submitted anonymously, and such information shall be maintained as anonymous to the extent permitted or required by law.
+
+e. Educational outreach. The department shall engage in educational outreach about the availability of the youth hotline and 311 customer service center for questions, comments, and complaints regarding runaway and homeless youth services and conduct such outreach in a manner designed to reach as many youth as practicable. Such outreach shall include, but not be limited to, posting information about the youth hotline and 311 customer service center on the department’s website and on the websites of any other agency as determined by the mayor, as well as dissemination of informational materials targeted specifically to runaway and homeless youth by the department and through runaway and homeless youth services.
+
+
+
+
+
+
 Chapter 5: Work Experience Program Grievance Procedure*
 --------------------------------------------------
 

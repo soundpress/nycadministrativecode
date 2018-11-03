@@ -1249,3 +1249,59 @@ b. The department shall post conspicuously on its website a map indicating the b
 
 
 
+Chapter 23: PTA and PA Reporting
+--------------------------------------------------
+
+
+
+*§ 21-990 PTA and PA reporting.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   PA. The term “PA” means a parent association in a school of the city school district of the city of New York, which is an organization of the parents of students created and established by the parents’ vote.
+
+   PTA. The term “PTA” means a parent-teacher association in a school of the city school district of the city of New York, which is established when the parent members of a PA vote to amend their bylaws to extend membership to teachers, as well as other categories of staff.
+
+   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade 12.
+
+b. Not later than December 1, 2019, and on or before December 1 annually thereafter, the department shall submit to the speaker of the council and post on the department’s website a report regarding the income and total expenditure for each PA and PTA in the prior school year.
+
+c. All information required to be reported by this section shall be aggregated citywide, as well as disaggregated by community school district and school. Information disaggregated by school shall be further disaggregated by student demographic information, including but not limited to race and ethnicity and English language learner status.
+
+
+
+
+
+
+Chapter 24: Distribution of Information Regarding Civil Service Examinations
+--------------------------------------------------
+
+
+
+*§ 21-991 Distribution of information regarding civil service examinations administered by the department of citywide administrative services.* ::
+
+
+a. Definitions. For purposes of this section, the term “school” means a school of the city school district of the city of New York.
+
+b. No later than November 1, 2019, and annually thereafter no later than November 1 of each year, the department of citywide administrative services shall provide and the department shall distribute to each school, to be shared with every student of such school who will be graduating from high school in the current school year, the following information in writing, in hard copy or electronically if availability of similar documents occurs electronically, using plain and simple language:
+
+   1. General information about the city’s civil service process, including the related application process, hiring system, descriptions of what such tests will include and the scoring process for such examinations;
+
+   2. The title of each upcoming civil service examination that is open to high school graduates, along with the relevant job descriptions and the relevant salaries;
+
+   3. The testing period for each such civil service examination and the related application and scheduling period, with a note that exact dates and times for both periods are usually released online each month;
+
+   4. Applicable fees for each such civil service examination, including information on fee waivers;
+
+   5. A link to the online application system for civil service examinations;
+
+   6. A link to the civil service examination information page of the department of citywide administrative services website, with a note that this online page contains additional and up-to-date information about examination locations and timing and job eligibility requirements; and
+
+   7. Any other information that the department deems relevant.
+
+
+
+
+
+

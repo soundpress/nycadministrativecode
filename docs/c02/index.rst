@@ -1104,6 +1104,102 @@ Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect
 
 
 
+*§ 3-127 Map of areas most vulnerable to flooding; mitigation plan.* ::
+
+
+a. In 2020 and no later than April 22, 2023 and no later than every four years after April 22, 2023, an office or agency designated by the mayor, with the cooperation of all relevant agencies, shall develop and make publicly available on its website:
+
+   1. A map of areas in the city most vulnerable to increased flooding due to the anticipated effects of climate change, including but not limited to increased precipitation, coastal storms and sea level rise; and
+
+   2. A long-term plan for preventing or mitigating such increased flooding, and the effects thereof, in such areas.
+
+b. Such office shall seek the cooperation of relevant federal and state agencies and other public or private persons as such office deems appropriate in developing such map and plan.
+
+
+
+
+
+
+
+
+*§ 3-128 Efficiency and efficacy study of existing geothermal systems.* ::
+
+
+a. For purposes of this section, the term “geothermal system” means a system used to exchange geothermal energy between the earth and one or more buildings to provide heating or cooling.
+
+b. An office or agency designated by the mayor shall conduct an efficiency and efficacy study of existing geothermal systems in city buildings.
+
+c. In order to complete such study, remote monitoring sensors and data loggers shall be installed in five or more city buildings with existing geothermal systems for the purpose of collecting data from any such system for a period of not less than 12 months.
+
+d. No later than two years after the installation of such remote monitoring sensors and data loggers, the office or agency designated by the mayor to conduct such study shall, prepare and electronically submit a report to the mayor and the speaker of the council, and make such report publicly available online.
+
+e. The report required by subdivision d of this section shall include, but need not be limited to, the following:
+
+   1. the cost of installing any such geothermal system;
+
+   2. any problems encountered in installing any such system and solutions developed to address such problems and any costs or savings associated with such solutions;
+
+   3. the cost of operating any such system, including energy consumption, maintenance, and other expenditures;
+
+   4. any problems encountered in operating any such system and solutions developed to address such problems;
+
+   5. an energy modeling analysis of the performance of any such system;
+
+   6. comparisons of such performance to the performance of conventional heating and cooling systems located in comparable city buildings; and
+
+   7. recommendations for continuing or expanding the use of geothermal systems.
+
+
+
+
+
+
+
+
+*§ 3-129 Study of beneficial reuse of dewatering discharge from the aquifers in Queens County.* ::
+
+
+a. An office or agency designated by the mayor shall conduct a feasibility study concerning the beneficial reuse of discharge waters as a result of continuous dewatering operations in southeastern Queens County. The results of such study shall be submitted to the mayor and the speaker of the council no later than two years after its commencement.
+
+b. Such study shall include, but need not be limited to, the following;
+
+   1. An investigation of the flow, temperature, quality, consistency and reliability of discharge waters and recommended measures for beneficial reuse including, but not limited to, landscaping, grey water systems, and the extraction or deposition of heat energy from or to such waters for the purposes of heating and/or cooling buildings;
+
+   2. An investigation of alternatives to dewatering;
+
+   3. An evaluation of existing buildings that are owned or operated by the city or receive financial assistance from the city that have demonstrated continuous groundwater infiltration to basements and cellars for the purpose of determining the feasibility of dewatering and subsequently reusing discharge waters in an open loop heat pump system for heating and cooling such buildings;
+
+   4. An evaluation of existing groundwater conditions at each such building site to identify adverse groundwater quality and hydrogeological conditions, if any;
+
+   5. An analysis of the environmental impacts and permitting requirements related to the discharge of groundwater, specifically groundwater that has been heated or cooled and discharged to a surface water body or other surface structures;
+
+   6. An evaluation of possible impacts of potential sea level rise in southeastern Queens County on geothermal systems; and
+
+   7. If such beneficial reuse is not feasible, identification of impediments to such beneficial reuse, whether such impediments may be addressed by the city and, if so, any plans to address to such impediments.
+
+
+
+
+
+
+
+
+*§ 3-130 Pilot program to provide heating and/or cooling or other beneficial reuse of discharge waters from dewatering operations in southeastern Queens County.* ::
+
+
+a. If the office or agency designated by the mayor to conduct the study required pursuant to section 3-129 determines, based on such study, that it may be feasible to use discharge waters from existing basements, cellars and other dewatering pumping operations in southeastern Queens County in connection with a heat pump system to provide heating and/or cooling to one or more buildings that are owned or operated by the city or receive financial assistance from the city, then such office or agency, in consultation with the department of design and construction and the department of environmental protection, shall develop a pilot program for the purpose of providing such heating and/or cooling.
+
+b. Such program shall continue for at least three years after the date on which the city commences providing heating and/or cooling through such system to such buildings.
+
+c. No later than February 1 in the second year that commences after heating and/or cooling has been provided to such buildings for three full calendar years through such program, such office or agency, in consultation with such departments, shall prepare and electronically submit, and make publicly available online, a report to the mayor and the speaker of the council with a detailed assessment of the impacts of such program, including recommendations for continuing or expanding such program.
+
+
+
+
+
+
+
+
 
 **Subchapter 3: Office of Veterans' Affairs [Repealed]**
 
@@ -2639,6 +2735,37 @@ b. Whenever any such award or compensation shall be paid to any person not entit
 
 
 
+Chapter 6: Advisory Commission For the Review of Compensation Levels Of Elected Officials
+--------------------------------------------------
+
+
+
+*§ 3-601 Quadrennial advisory commission for the review of compensation levels of elected officials.* ::
+
+
+a. Between the first and fifteenth day of January, 2020, and during the same period every fourth year thereafter, the mayor shall appoint three persons for the review of compensation levels of elected officials. The members of the commission shall be private citizens generally recognized for their knowledge and experience in management and compensation matters. The mayor shall appoint one of the members to be chairperson of the commission.
+
+b. The commission shall study the compensation levels for the mayor, the public advocate, the comptroller, the borough presidents, the council members and the district attorneys of the five counties within the city and shall recommend changes in those compensation levels, if warranted. In making its recommendations the commission shall take into consideration the duties and responsibilities of each position, the current salary of the position and the length of time since the last change, any change in the cost of living, compression of salary levels for other officers and employees of the city, and salaries and salary trends for positions with analogous duties and responsibilities both within government and in the private sector.
+
+c. The commission shall submit a report to the mayor not later than one hundred twenty days following its appointment containing its recommendations for changes in compensation levels for any elected position set forth in subdivision b or its recommendation that no changes are warranted.
+
+d. The mayor shall submit the report of the commission along with his or her recommendation for approval, disapproval or modification to the council not later than thirty days after receipt of the report of the commission.
+
+e. The council in its discretion shall consider the recommendations of the commission and of the mayor for changes in the compensation levels of any such elected position, if any, and approve a local law changing the compensation of the mayor, the public advocate, the comptroller, the borough presidents, the council members, and the district attorneys of the five counties within the city.
+
+f. The members of the commission shall serve without compensation except that each member shall be allowed his or her actual and necessary expenses, to be audited in the same manner as other city charges.
+
+g. The commission may hire or contract for necessary staff and technical assistance and may require city agencies to provide such assistance.
+
+h. The commission shall have a budget as provided for by the mayor.
+
+i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
+
+
+
+
+
+
 Chapter 5: Borough Presidents
 --------------------------------------------------
 
@@ -2750,96 +2877,6 @@ It shall be unlawful for any person to remove or cover up a monument or bolt for
 
 
 Any person who shall make any excavation or embankment, or lay or take up any pavement or flagging within three feet of any monument, bolt or other landmark, without having first obtained a permit to perform such work, or who shall in any way remove or deface any monument, bolt or other landmark, shall be punished for each offense by a fine of fifty dollars, imprisonment for not more than thirty days, or both.
-
-
-
-
-Chapter 6: Advisory Commission For the Review of Compensation Levels Of Elected Officials
---------------------------------------------------
-
-
-
-*§ 3-601 Quadrennial advisory commission for the review of compensation levels of elected officials.* ::
-
-
-a. Between the first and fifteenth day of January, 2020, and during the same period every fourth year thereafter, the mayor shall appoint three persons for the review of compensation levels of elected officials. The members of the commission shall be private citizens generally recognized for their knowledge and experience in management and compensation matters. The mayor shall appoint one of the members to be chairperson of the commission.
-
-b. The commission shall study the compensation levels for the mayor, the public advocate, the comptroller, the borough presidents, the council members and the district attorneys of the five counties within the city and shall recommend changes in those compensation levels, if warranted. In making its recommendations the commission shall take into consideration the duties and responsibilities of each position, the current salary of the position and the length of time since the last change, any change in the cost of living, compression of salary levels for other officers and employees of the city, and salaries and salary trends for positions with analogous duties and responsibilities both within government and in the private sector.
-
-c. The commission shall submit a report to the mayor not later than one hundred twenty days following its appointment containing its recommendations for changes in compensation levels for any elected position set forth in subdivision b or its recommendation that no changes are warranted.
-
-d. The mayor shall submit the report of the commission along with his or her recommendation for approval, disapproval or modification to the council not later than thirty days after receipt of the report of the commission.
-
-e. The council in its discretion shall consider the recommendations of the commission and of the mayor for changes in the compensation levels of any such elected position, if any, and approve a local law changing the compensation of the mayor, the public advocate, the comptroller, the borough presidents, the council members, and the district attorneys of the five counties within the city.
-
-f. The members of the commission shall serve without compensation except that each member shall be allowed his or her actual and necessary expenses, to be audited in the same manner as other city charges.
-
-g. The commission may hire or contract for necessary staff and technical assistance and may require city agencies to provide such assistance.
-
-h. The commission shall have a budget as provided for by the mayor.
-
-i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
-
-
-
-
-
-
-Chapter 8: Transition and Inaugural Donations And Expenditures
---------------------------------------------------
-
-
-
-*§ 3-801 Transition and inauguration donations and expenses.* ::
-
-
-1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
-
-2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
-
-   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
-
-   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
-
-   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
-
-   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
-
-3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
-
-4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
-
-5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
-
-   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
-
-   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
-
-6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
-
-7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
-
-8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
-
-9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
-
-10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
-
-
-
-
-
-
-
-
-*§ 3-802 Penalties.* ::
-
-
-1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
-
-2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
-
-3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 
@@ -3765,47 +3802,46 @@ If a committee has failed to respond to a request for information made by board 
 
 
 
-Chapter 9: Organizations Affiliated with Elected Officials.
+Chapter 8: Transition and Inaugural Donations And Expenditures
 --------------------------------------------------
 
 
 
-*§ 3-901 Definitions.* ::
+*§ 3-801 Transition and inauguration donations and expenses.* ::
 
 
-As used in this chapter, the following terms have the following meanings.
+1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
 
-Doing business database. The term "doing business database" means the doing business database as defined in section 3-702 of the administrative code.
+2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
 
-Donation. The term "donation" means any contribution from a non-governmental source, including in-kind donations, gifts, loans, advances or deposits of money, or anything of value.
+   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
 
-Elected official communications. The term "elected official communications" means a communication in the form of: (i) radio, television, cable or satellite broadcast; (ii) printed material such as advertisements, pamphlets, circulars, flyers, brochures or letters; (iii) telephone communication; or (iv) paid internet advertising; which includes the name, voice or likeness of the person holding office as mayor, comptroller, public advocate, borough president or member of the council with whom the entity making such communication is affiliated. Elected official communications do not include: (i) communications with a professional journalist or newscaster, including an editorial board or editorial or opinion writer of a newspaper, magazine, news agency, press association or wire service; or (ii) a communication that is: (A) directed, sent or distributed by the distributing organization only to individuals who affirmatively consent to be members of the distributing organization, contribute funds to the distributing organization, or, pursuant to the distributing organization's articles or bylaws, have the right to vote directly or indirectly for the election of directors or officers, or on changes to bylaws, disposition or all or substantially all of the distributing entity's assets or the merger or dissolution of the distributing entity; or (B) for the purpose of promoting or staging any candidate debate, town hall or similar forum to which at least two candidates seeking the same office, or two proponents of differing positions on a referendum or question submitted to voters, are invited as participants, and which does not promote or advance one candidate or position over another.
+   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
 
-Organization affiliated with an elected official. The term "organization affiliated with an elected official" means:
+   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
 
-   (i) a non-profit entity other than an agency, public authority, public benefit corporation or local development corporation;
+   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
 
-   (ii) which has received at least one donation in the previous or current calendar year; and
+3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
 
-   (iii) over which a person holding office as mayor, comptroller, public advocate, borough president or member of the council, or an agent of such a person, which shall include an appointee of such person serving at the pleasure of such person, exercises control. There shall be a rebuttable presumption of control by an elected official where such official, or such an agent, appoints a majority of seats on the board of the entity (not including appointees nominated by another individual or entity that is not such an agent of the elected official), or is a principal officer of the entity.
+4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
 
-In determining whether a person holding office as mayor, comptroller, public advocate, borough president or member of the council, or an agent or appointee of such a person, exercises control over such an organization, the conflicts of interest board shall consider the totality of the circumstances, including:
+5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
 
-   (i) whether the organization was created by such an elected official or their agent, or by an individual who was previously employed by, or was a paid political consultant of, the elected official, and, if so, how recently such organization was created;
+   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
 
-   (ii) whether the board of the organization is chaired by such an elected official or their agent;
+   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
 
-   (iii) whether board members appointed by such elected official serve for terms or are appointed only upon nomination of other individuals or entities that are not agents of such elected official;
+6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
 
-   (iv) the degree of involvement or direction by the elected official in such organization's policies, operations and activities; and
+7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
 
-   (v) other such factors as the conflicts of interest board shall promulgate by rule.
+8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
 
-Principal committees and political committees, as those terms are defined in section 3-702, are not organizations affiliated with an elected official.
+9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
 
-Person with business dealings with the city. The term "person with business dealings with the city" means any person who is listed in the doing business database, or any domestic partner, spouse, or unemancipated child of such a person.
+10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
 
-Spend. The term "spend" means to spend or to cause to be spent.
 
 
 
@@ -3813,115 +3849,14 @@ Spend. The term "spend" means to spend or to cause to be spent.
 
 
 
+*§ 3-802 Penalties.* ::
 
-*§ 3-902 Reporting and donor disclosure for organizations affiliated with elected officials.* ::
 
+1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
 
-a. All organizations affiliated with an elected official shall report to the conflicts of interest board annually by August 1, in a manner determined by the conflicts of interest board by rule. Such report shall include:
+2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
 
-   1. the name of the organization;
-
-   2. the name or names of the elected official, or of any agent of such a person or appointee serving at the pleasure of such elected official, who is affiliated with the organization;
-
-   3. the names of the principal officers and board members of the organization;
-
-   4. whether the organization has tax-exempt status pursuant to the internal revenue code and, if so, the section of such code that grants such status;
-
-   5. the website address of the organization, if any;
-
-   6. the names of any people who such organization knows had business dealings with the city on the date of such donation, or who were added to the doing business database within 180 days after the receipt of such donation, who made a donation to the organization during the previous calendar year, if any, and the city and state of residence, dates of donation, and value of donation of any such people;
-
-   7. the names of any other individuals who, or any entity that, made a donation with a reasonable value of $1,000 or more to the organization during the previous calendar year, if any, and the city and state of residence or state of incorporation as applicable, dates of donation, and value of donation of any such individuals or entities;
-
-   8. an accounting of the expenditures of the organization during the previous calendar year on the production or dissemination of elected official communications, in a manner and form determined by the conflicts of interest board;
-
-   9. for an organization affiliated with an elected official that did not spend or reasonably expect to spend at least 10% of their expenditures in the previous or current calendar year on elected official communications, a certification that they did not do so; and
-
-   10. any other information required to be included by the conflicts of interest board.
-
-b. The conflicts of interest board shall maintain and regularly update a list on its website of all organizations that reported, and all donor information disclosed, to such board pursuant to this section, provided however that the conflicts of interest board may determine that disclosure of donors shall not be made public if, based upon a review of the relevant facts presented by the reporting entity, such disclosure may cause harm, threats, harassment, or reprisals to the donor, or to individuals or property affiliated with the donor. The reporting entity may appeal the board's determination in New York State supreme court pursuant to article 78 of the civil practice law and rules. The conflicts of interest board shall not post the names of donors that are the subject of such appeal pending a final judicial determination.
-
-c. Donor written submissions received pursuant to section 3-903 shall be retained by the inquiring organization for at least three years from the date of receipt.
-
-
-
-
-
-
-
-
-*§ 3-903 Prohibition of acceptance of certain donations.* ::
-
-
-a. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations with a reasonable value in excess of $400 in a single calendar year by any person who such organization knows or should know has business dealings with the city on the date of such donation. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 20 days of receipt by such organization.
-
-b. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall return any donations with a reasonable value in excess of $400 in a single calendar year by any person who is not a person who such organization knows or should know has business dealings with the city on the date of such donation, but who is added to the doing business database within 180 days of receipt by the organization. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 200 days of receipt by such organization.
-
-c. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations by any entity or person other than a natural person, or from any person who fails to make the written submission required by subdivision d of this section.
-
-d. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall require a written submission in a manner and form determined by the conflicts of interest board from every individual making a donation with a reasonable value in excess of $400 in a single calendar year to determine whether such individual is a person with business dealings with the city.
-
-e. Entities that have, as their sole purpose, advocating for New York city as the location for a national or international sporting event, a national political convention, or another event publicly determined by the conflicts of interest board to be similar to such an event are not subject to the requirements or limitations of this section.
-
-
-
-
-
-
-
-
-*§ 3-904 Advisory opinions, outreach and determination of control.* ::
-
-
-a. The conflicts of interest board shall render advisory opinions with respect to all matters covered by this chapter. An advisory opinion shall be rendered on the request of a person holding office as mayor, comptroller, public advocate, borough president or member of the council, an agent of such officeholder, or any non-profit entity potentially subject to the provisions of this chapter, and shall apply only to the particular circumstances of such request. The request shall be in such form as the board may require and shall be signed by the person making the request, or, in the case of a request by a non-profit entity, by a responsible officer or other representative of such entity. The opinion of the board shall be based on such facts as are presented in the request or subsequently submitted in a written, signed document. Notwithstanding any inconsistent provision of law, opinions rendered by the board pursuant to this section shall be made publicly available.
-
-b. Within thirty days of a person taking office for the first time as mayor, comptroller, public advocate, borough president or member of the council, the conflicts of interest board shall notify each such elected official in writing of the obligations of organizations affiliated with such elected official set forth in this chapter.
-
-c. In addition to the advisory opinion process set forth in subdivision a, the conflicts of interest board shall promulgate rules establishing procedures whereby a non-profit entity may apply for a formal determination that an elected official or an agent of an elected official does not exercise control over such entity, consistent with the considerations included in the definition of "organization affiliated with an elected official" set forth in section 3-901, and may seek to rebut the presumption contained in such definition. To the extent practicable, the board shall make a determination within 60 days of receiving a complete application. The entity may appeal the board's determination in New York State supreme court pursuant to article 78 of the civil practice law and rules. Where the board has determined that the entity is not controlled by an elected official, such entity shall be exempt from the provisions of this chapter for so long as there is no material change in the circumstances set forth in the application for a formal determination made pursuant to this subdivision.
-
-
-
-
-
-
-
-
-*§ 3-905 Enforcement.* ::
-
-
-Complaints alleging violations of this chapter, or of rules or directives promulgated by the conflicts of interest board pursuant to this chapter, shall be made, received, investigated and adjudicated in a manner consistent with the procedures relating to investigations and adjudications of allegations of conflicts of interest set forth in chapters 34 and 68 of the charter.
-
-
-
-
-
-
-
-
-*§ 3-906 Penalties.* ::
-
-
-a. Any organization that violates any provision of section 3-902 shall be subject to a civil penalty of not more than $10,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates such subdivision, jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates such subdivision be held jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. In addition to such civil penalties, for the second and subsequent offense any person who knowingly and willfully violates any provision of section 3-902 shall be guilty of a class A misdemeanor.
-
-b. Any organization that violates subdivision a, b or c of section 3-903 shall be required to return any donations with a reasonable value in excess of the applicable donation limit, and shall be subject to a civil penalty, which for the first offense shall be not more than $5,000, for the second offense not more than $15,000, and for the third and subsequent offenses not more than $30,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates any such subdivision, jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates any such subdivision, be held jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation.
-
-c. Any organization that violates subdivision d of section 3-903 shall be subject to a civil penalty, which for the first offense shall be not more than $1,000, and for the second and subsequent offenses not more than $10,000.
-
-(L.L. 2016/181, 12/22/2016, eff. 1/1/2018*)
-
-* Editor's note: Pursuant to § 4 of L.L. 2016/181, subsection a is effective 1/1/2019.
-
-
-
-
-
-
-*§ 3-907 Rulemaking.* ::
-
-
-The conflicts of interest board shall promulgate such rules as are necessary to ensure the implementation of this chapter.
-
-
+3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 
@@ -4227,6 +4162,167 @@ c. By no later than December 31, 2018, the office of long-term planning and sust
    3. Agency programs that promote environmental justice and foster community engagement with and participation in agency decision-making that implicates environmental justice concerns; and
 
    4. New York state and federal programs that promote environmental justice.
+
+
+
+
+
+
+Chapter 9: Organizations Affiliated with Elected Officials.
+--------------------------------------------------
+
+
+
+*§ 3-901 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings.
+
+Doing business database. The term "doing business database" means the doing business database as defined in section 3-702 of the administrative code.
+
+Donation. The term "donation" means any contribution from a non-governmental source, including in-kind donations, gifts, loans, advances or deposits of money, or anything of value.
+
+Elected official communications. The term "elected official communications" means a communication in the form of: (i) radio, television, cable or satellite broadcast; (ii) printed material such as advertisements, pamphlets, circulars, flyers, brochures or letters; (iii) telephone communication; or (iv) paid internet advertising; which includes the name, voice or likeness of the person holding office as mayor, comptroller, public advocate, borough president or member of the council with whom the entity making such communication is affiliated. Elected official communications do not include: (i) communications with a professional journalist or newscaster, including an editorial board or editorial or opinion writer of a newspaper, magazine, news agency, press association or wire service; or (ii) a communication that is: (A) directed, sent or distributed by the distributing organization only to individuals who affirmatively consent to be members of the distributing organization, contribute funds to the distributing organization, or, pursuant to the distributing organization's articles or bylaws, have the right to vote directly or indirectly for the election of directors or officers, or on changes to bylaws, disposition or all or substantially all of the distributing entity's assets or the merger or dissolution of the distributing entity; or (B) for the purpose of promoting or staging any candidate debate, town hall or similar forum to which at least two candidates seeking the same office, or two proponents of differing positions on a referendum or question submitted to voters, are invited as participants, and which does not promote or advance one candidate or position over another.
+
+Organization affiliated with an elected official. The term "organization affiliated with an elected official" means:
+
+   (i) a non-profit entity other than an agency, public authority, public benefit corporation or local development corporation;
+
+   (ii) which has received at least one donation in the previous or current calendar year; and
+
+   (iii) over which a person holding office as mayor, comptroller, public advocate, borough president or member of the council, or an agent of such a person, which shall include an appointee of such person serving at the pleasure of such person, exercises control. There shall be a rebuttable presumption of control by an elected official where such official, or such an agent, appoints a majority of seats on the board of the entity (not including appointees nominated by another individual or entity that is not such an agent of the elected official), or is a principal officer of the entity.
+
+In determining whether a person holding office as mayor, comptroller, public advocate, borough president or member of the council, or an agent or appointee of such a person, exercises control over such an organization, the conflicts of interest board shall consider the totality of the circumstances, including:
+
+   (i) whether the organization was created by such an elected official or their agent, or by an individual who was previously employed by, or was a paid political consultant of, the elected official, and, if so, how recently such organization was created;
+
+   (ii) whether the board of the organization is chaired by such an elected official or their agent;
+
+   (iii) whether board members appointed by such elected official serve for terms or are appointed only upon nomination of other individuals or entities that are not agents of such elected official;
+
+   (iv) the degree of involvement or direction by the elected official in such organization's policies, operations and activities; and
+
+   (v) other such factors as the conflicts of interest board shall promulgate by rule.
+
+Principal committees and political committees, as those terms are defined in section 3-702, are not organizations affiliated with an elected official.
+
+Person with business dealings with the city. The term "person with business dealings with the city" means any person who is listed in the doing business database, or any domestic partner, spouse, or unemancipated child of such a person.
+
+Spend. The term "spend" means to spend or to cause to be spent.
+
+
+
+
+
+
+
+
+*§ 3-902 Reporting and donor disclosure for organizations affiliated with elected officials.* ::
+
+
+a. All organizations affiliated with an elected official shall report to the conflicts of interest board annually by August 1, in a manner determined by the conflicts of interest board by rule. Such report shall include:
+
+   1. the name of the organization;
+
+   2. the name or names of the elected official, or of any agent of such a person or appointee serving at the pleasure of such elected official, who is affiliated with the organization;
+
+   3. the names of the principal officers and board members of the organization;
+
+   4. whether the organization has tax-exempt status pursuant to the internal revenue code and, if so, the section of such code that grants such status;
+
+   5. the website address of the organization, if any;
+
+   6. the names of any people who such organization knows had business dealings with the city on the date of such donation, or who were added to the doing business database within 180 days after the receipt of such donation, who made a donation to the organization during the previous calendar year, if any, and the city and state of residence, dates of donation, and value of donation of any such people;
+
+   7. the names of any other individuals who, or any entity that, made a donation with a reasonable value of $1,000 or more to the organization during the previous calendar year, if any, and the city and state of residence or state of incorporation as applicable, dates of donation, and value of donation of any such individuals or entities;
+
+   8. an accounting of the expenditures of the organization during the previous calendar year on the production or dissemination of elected official communications, in a manner and form determined by the conflicts of interest board;
+
+   9. for an organization affiliated with an elected official that did not spend or reasonably expect to spend at least 10% of their expenditures in the previous or current calendar year on elected official communications, a certification that they did not do so; and
+
+   10. any other information required to be included by the conflicts of interest board.
+
+b. The conflicts of interest board shall maintain and regularly update a list on its website of all organizations that reported, and all donor information disclosed, to such board pursuant to this section, provided however that the conflicts of interest board may determine that disclosure of donors shall not be made public if, based upon a review of the relevant facts presented by the reporting entity, such disclosure may cause harm, threats, harassment, or reprisals to the donor, or to individuals or property affiliated with the donor. The reporting entity may appeal the board's determination in New York State supreme court pursuant to article 78 of the civil practice law and rules. The conflicts of interest board shall not post the names of donors that are the subject of such appeal pending a final judicial determination.
+
+c. Donor written submissions received pursuant to section 3-903 shall be retained by the inquiring organization for at least three years from the date of receipt.
+
+
+
+
+
+
+
+
+*§ 3-903 Prohibition of acceptance of certain donations.* ::
+
+
+a. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations with a reasonable value in excess of $400 in a single calendar year by any person who such organization knows or should know has business dealings with the city on the date of such donation. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 20 days of receipt by such organization.
+
+b. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall return any donations with a reasonable value in excess of $400 in a single calendar year by any person who is not a person who such organization knows or should know has business dealings with the city on the date of such donation, but who is added to the doing business database within 180 days of receipt by the organization. No violation shall issue and no penalty shall be imposed where any excess donation under this subdivision is refunded within 200 days of receipt by such organization.
+
+c. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall not accept donations by any entity or person other than a natural person, or from any person who fails to make the written submission required by subdivision d of this section.
+
+d. Organizations affiliated with an elected official that spend or reasonably expect to spend at least 10% of their expenditures in the current or next calendar year on the production or dissemination of elected official communications shall require a written submission in a manner and form determined by the conflicts of interest board from every individual making a donation with a reasonable value in excess of $400 in a single calendar year to determine whether such individual is a person with business dealings with the city.
+
+e. Entities that have, as their sole purpose, advocating for New York city as the location for a national or international sporting event, a national political convention, or another event publicly determined by the conflicts of interest board to be similar to such an event are not subject to the requirements or limitations of this section.
+
+
+
+
+
+
+
+
+*§ 3-904 Advisory opinions, outreach and determination of control.* ::
+
+
+a. The conflicts of interest board shall render advisory opinions with respect to all matters covered by this chapter. An advisory opinion shall be rendered on the request of a person holding office as mayor, comptroller, public advocate, borough president or member of the council, an agent of such officeholder, or any non-profit entity potentially subject to the provisions of this chapter, and shall apply only to the particular circumstances of such request. The request shall be in such form as the board may require and shall be signed by the person making the request, or, in the case of a request by a non-profit entity, by a responsible officer or other representative of such entity. The opinion of the board shall be based on such facts as are presented in the request or subsequently submitted in a written, signed document. Notwithstanding any inconsistent provision of law, opinions rendered by the board pursuant to this section shall be made publicly available.
+
+b. Within thirty days of a person taking office for the first time as mayor, comptroller, public advocate, borough president or member of the council, the conflicts of interest board shall notify each such elected official in writing of the obligations of organizations affiliated with such elected official set forth in this chapter.
+
+c. In addition to the advisory opinion process set forth in subdivision a, the conflicts of interest board shall promulgate rules establishing procedures whereby a non-profit entity may apply for a formal determination that an elected official or an agent of an elected official does not exercise control over such entity, consistent with the considerations included in the definition of "organization affiliated with an elected official" set forth in section 3-901, and may seek to rebut the presumption contained in such definition. To the extent practicable, the board shall make a determination within 60 days of receiving a complete application. The entity may appeal the board's determination in New York State supreme court pursuant to article 78 of the civil practice law and rules. Where the board has determined that the entity is not controlled by an elected official, such entity shall be exempt from the provisions of this chapter for so long as there is no material change in the circumstances set forth in the application for a formal determination made pursuant to this subdivision.
+
+
+
+
+
+
+
+
+*§ 3-905 Enforcement.* ::
+
+
+Complaints alleging violations of this chapter, or of rules or directives promulgated by the conflicts of interest board pursuant to this chapter, shall be made, received, investigated and adjudicated in a manner consistent with the procedures relating to investigations and adjudications of allegations of conflicts of interest set forth in chapters 34 and 68 of the charter.
+
+
+
+
+
+
+
+
+*§ 3-906 Penalties.* ::
+
+
+a. Any organization that violates any provision of section 3-902 shall be subject to a civil penalty of not more than $10,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates such subdivision, jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates such subdivision be held jointly and severally liable for any such penalties if such person knew or reasonably should have known of the violation. In addition to such civil penalties, for the second and subsequent offense any person who knowingly and willfully violates any provision of section 3-902 shall be guilty of a class A misdemeanor.
+
+b. Any organization that violates subdivision a, b or c of section 3-903 shall be required to return any donations with a reasonable value in excess of the applicable donation limit, and shall be subject to a civil penalty, which for the first offense shall be not more than $5,000, for the second offense not more than $15,000, and for the third and subsequent offenses not more than $30,000. The conflicts of interest board may hold the person holding office as mayor, comptroller, public advocate or borough president with whom such organization is affiliated, if any, or their agent who violates any such subdivision, jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation. The conflicts of interest board may recommend to the council that the person holding office as member of the council with whom such organization is affiliated, if any, or their agent who violates any such subdivision, be held jointly and severally liable for any such penalties, if such person knew or reasonably should have known of the violation.
+
+c. Any organization that violates subdivision d of section 3-903 shall be subject to a civil penalty, which for the first offense shall be not more than $1,000, and for the second and subsequent offenses not more than $10,000.
+
+(L.L. 2016/181, 12/22/2016, eff. 1/1/2018*)
+
+* Editor's note: Pursuant to § 4 of L.L. 2016/181, subsection a is effective 1/1/2019.
+
+
+
+
+
+
+*§ 3-907 Rulemaking.* ::
+
+
+The conflicts of interest board shall promulgate such rules as are necessary to ensure the implementation of this chapter.
 
 
 

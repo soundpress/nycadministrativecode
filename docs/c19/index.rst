@@ -2233,6 +2233,24 @@ e. As part of the carsharing parking pilot program established pursuant to this 
 
 
 
+*§ 19-175.6 On-street bus stops for sight-seeing buses.* ::
+
+
+a. The commissioner shall provide written authorization for on-street bus stops for sight-seeing bus companies pursuant to subdivision d of section 20-374 of this code on the basis of the following criteria: (i) traffic, bicycle and pedestrian flow, and public safety; (ii) preferences of the sight-seeing bus permit applicant; (iii) consultation with the local community board for the district encompassing the location to be authorized, including but not limited to a notice and comment period of 45 days prior to the authorization or permanent amendment thereto; (iv) the number of stops proposed and the viability of a proposed bus stop schedule as determined by the commissioner; (v) the availability and location of planned garage or other parking space for periods when buses picking up or discharging passengers at the authorized stops are not in use; and (vi) any other criteria deemed appropriate by the commissioner. The commissioner shall approve or deny such authorizations no later than 180 days from the date of the application.
+
+b. When authorizing one or more on-street bus stops for sight-seeing buses, the commissioner shall specify the conditions on which such authorization is based. Any violation of such conditions shall be grounds for revocation of such bus stop authorization. The commissioner shall notify the commissioner of consumer affairs of any such revocations as soon as practicable.
+
+c. As a condition for authorizing one or more on-street bus stops for sightseeing buses, the commissioner may require an owner of a sight-seeing bus company to collect and transmit to the commissioner bus location data in the form and frequency determined by the commissioner, including real time electronic location tracking data. Such data may be used by the commissioner in determining whether on-street bus stop authorizations should be granted, renewed or revoked.
+
+d. The commissioner shall by rule establish criteria under which sight-seeing bus companies that possess on-street bus stop authorizations prior to the effective date of this section may be issued an authorization to use such bus stops for a period of up to three years from the effective date of this section.
+
+
+
+
+
+
+
+
 
 **Subchapter 3: Pedestrian Rights and Safety**
 

@@ -7006,6 +7006,28 @@ j. (1) A Jamaica bay watershed protection plan advisory committee shall be estab
 
 
 
+*§ 24-527.1 New York City Jamaica Bay task force.* ::
+
+
+a. As used in this section the term “Jamaica Bay clean-up and resiliency project” means the cleanup of marine debris, management of combined sewer overflows and storm flows for the bay consistent with the Jamaica Bay watershed protection plan and taking into account the impacts of sea level rise.
+
+b. There shall be a Jamaica Bay task force, which, during its term, shall provide advice and recommendations in a biannual report to the city with respect to the Jamaica bay clean-up and resiliency project. Such report shall be transmitted to the mayor, the speaker of the city council, the Jamaica Bay Science and Resilience Institute and other relevant entities in a form and manner to be determined by such task force.
+
+c. The task force shall provide advice and recommendations on matters relating to or impacting the ongoing Jamaica Bay clean-up and resiliency project including but not limited to:
+
+   1. Review of measures proposed to restore and maintain the water quality and ecological integrity of the bay; and
+
+   2. Analysis of the impacts of sea-level rise on Jamaica Bay and the surrounding watershed including the underground aquifer and groundwater service area.
+
+d. The task force shall be comprised of eleven members, five of whom will be appointed by the speaker of the council and six members by the mayor. The members shall include a representative from each community board in the Jamaica Bay Watershed as well as at least two representatives from the communities that adjoin Jamaica Bay. The members shall also include persons with relevant expertise and experience in the fields of hydrology, biology, geology and oceanography. Members shall be appointed within 180 days after the effective date of this section and shall serve without compensation. A chairperson shall be elected from amongst the members. Members shall serve five-year terms. Any vacancy shall be filled in the same manner as the original appointment for the remainder of the unexpired term. The commissioner may provide administrative assistance to the task force.
+
+
+
+
+
+
+
+
 *§ 24-528 New York city comprehensive wetlands study and protection strategy.* ::
 
 
