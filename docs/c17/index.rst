@@ -1922,24 +1922,118 @@ No later than September 30, 2017, and annually no later than September 30 of eac
 
 
 
-*§ 17-199.3 Maternal mortality annual report.* ::
+*§ 17-199.3 Maternal mortality and morbidity annual report.* ::
 
 
 a. For purposes of this section, the following terms have the following meanings:
 
-   Maternal health. The term “maternal health” means the health of women during pregnancy, childbirth, and the postpartum period.
+   Maternal health. The term "maternal health" means the health of a person before, during, and after a pregnancy.
 
-   Maternal mortality. The term “maternal mortality” means the death of a woman while pregnant or within 42 days of the termination of pregnancy, from any cause related to or aggravated by the pregnancy or its management.
+   Maternal mortality. The term "maternal mortality" means the death of a person that occurs during a pregnancy, or within one year from the end of pregnancy, regardless of the duration of such pregnancy.
 
-b. No later than September 30, 2017, and not later than September 30 annually thereafter, the department shall submit to the speaker and publish in the annual summary of vital statistics the most recent calendar year data available regarding maternal mortality in New York City, to the extent such data is made available to the department, including, but not limited to:
+   Pregnancy-Associated Death. The term "pregnancy-associated death" means the death of a person from any cause during pregnancy or within one year from the end of pregnancy.
 
-   1. The number of maternal mortalities, disaggregated by race or ethnicity and borough of residence;
+   Pregnancy-Related Death. The term "pregnancy-related death" means the death of a person during pregnancy or within one year from the end of pregnancy that is due to a pregnancy complication, a chain of events initiated by pregnancy, or the aggravation of an unrelated condition by the physiologic effects of pregnancy.
 
-   2. The maternal mortality ratio, disaggregated by race or ethnicity and borough of residence where available and statistically reliable;
+   Severe maternal morbidity. The term "severe maternal morbidity" means a life-threatening complication affecting a person before, during, or after a pregnancy.
 
-   3. Recommendations regarding actions the department, the mayor, and the Council can take to improve maternal health, particularly in disproportionately impacted communities, and reduce maternal mortality; and
+b. No later than September 30, 2019 and no later than September 30 annually thereafter, the department shall submit to the speaker of the council and publish in a machine-readable format the most recent calendar year data available regarding maternal mortality in the city, to the extent such data is made available to the department. Data submitted shall not jeopardize the confidentiality of the pregnant person or mother and shall include, but not be limited to:
 
-   4. An update on the implementation of the recommendations made in previous reports made pursuant to this section regarding actions that the department or mayor can take to improve maternal health and reduce maternal mortality, if any.
+   1. The total number of live births; and the total number of maternal mortalities, disaggregated by information about the pregnant person or mother where such disaggregated data is available. Such data shall be disaggregated by, but not limited to, the following:
+
+      (a) race or ethnicity;
+
+      (b) borough of residence;
+
+      (c) most frequent causes of maternal mortality; and
+
+      (d) whether the death was pregnancy-associated or pregnancy-related;
+
+   2. The total number of severe maternal morbidities, disaggregated by information about the pregnant person or mother, where such disaggregated data is available and statistically reliable. Such data shall include, but not be limited to:
+
+      (a) race or ethnicity;
+
+      (b) education;
+
+      (c) borough of residence;
+
+      (d) whether such person was born domestically or abroad;
+
+      (e) age;
+
+      (f) insurance status;
+
+      (g) trimester of prenatal care entry;
+
+      (h) preexisting health conditions;
+
+      (i) whether such person worked during pregnancy;
+
+      (j) whether such person had any previous miscarriages or still births; and
+
+      (k) whether the pregnancy resulted in the first live birth for such person;
+
+   3. The maternal mortality ratio, disaggregated by race or ethnicity and borough of residence where available and statistically reliable;
+
+   4. Recommendations regarding actions the department, the mayor, and the council can take to improve maternal health, particularly in disproportionately impacted communities; reduce maternal mortality; and enhance cooperation among city agencies to improve maternal health, particularly those agencies that have a mandate related to maternal health, including but not limited to the commission on gender equity. In developing recommendations, the department may consider the following factors, to the extent such information is available:
+
+      (a) the impact of factors such as prenatal care, doulas, economic, civic and social well-being, and race on pregnant persons and mothers, as they relate to maternal mortality and morbidity;
+
+      (b) the use and effect of hospital and institutional practices, policies, and administrative tools, such as checklists related to pregnancy and parenting;
+
+      (c) any previous traumatic events the mother or pregnant person experienced, where this information is provided and available, and whether the stress or trauma from that event might have affected the outcomes of the mother or pregnant person's experience during pregnancy, childbirth, and the postpartum period; and
+
+      (d) ways to analyze complications experienced by expectant parents and mothers and ways to develop equitable strategies to respond to them;
+
+   5. An update on the implementation of the recommendations made in previous reports made pursuant to this section regarding actions that the department or mayor can take to improve maternal health and reduce maternal mortality, if any; and
+
+   6. A list of data sources used in the development of reports made pursuant to this section.
+
+c. No later than September 30, 2019, and by September 30 of every fifth year thereafter, the department shall submit to the speaker and publish in a machine-readable format additional data regarding maternal mortality in the city, for the most recent five-year period for which data is available. Data submitted shall not jeopardize the confidentiality of the pregnant person or mother and shall include, but not be limited to:
+
+   1. age;
+
+   2. education;
+
+   3. whether such person was born domestically or abroad;
+
+   4. whether the maternal mortality occurred in a hospital or inpatient setting, emergency room or outpatient setting, at home, or in another location;
+
+   5. trimester of prenatal care entry;
+
+   6. interval between end of pregnancy and maternal mortality, where available;
+
+   7. preexisting health conditions;
+
+   8. insurance status;
+
+   9. whether such person had any previous miscarriages or still births;
+
+   10. whether the pregnancy resulted in the first live birth for such person; and
+
+   11. whether such person worked during pregnancy.
+
+d. In the development of reports made pursuant to this section, the department shall consult any review or assessment produced by the committee established pursuant to section 17-199.3.1.
+
+
+
+
+
+
+
+
+*§ 17-199.3.1 Maternal mortality and morbidity review committee (M3RC).* ::
+
+
+a. The department shall establish a committee to examine maternal mortality, as such term is defined in subdivision a of section 17-199.3; severe maternal morbidity, as such term is defined in subdivision a of section 17-199.3; and analyze clinical factors and social determinants of health. Factors that such committee may consider include, but need not be limited to:
+
+   1. the cause of each maternal mortality; and
+
+   2. whether such mortality was pregnancy-related or not.
+
+b. Members of the committee shall represent a multi-disciplinary panel of representatives, including but not limited to representatives from various healthcare facilities and organizations, city agencies, community based organizations with relevant experience, the doula community, researchers with relevant experience, and first responders.
+
+c. The department shall post and update as necessary on its website a list of the disciplines represented on the committee established pursuant to this section.
 
 
 
@@ -2100,6 +2194,46 @@ b. The department shall develop age appropriate educational materials regarding 
 c. Such materials shall be made available by the department to DYCD and DOE at the beginning of each calendar year.
 
 d. The department shall make available such educational materials on the department’s website in English and in each of the designated citywide languages as defined in section 23-1101.
+
+
+
+
+
+
+
+
+*§ 17-199.10 Doulas.* ::
+
+
+a. Definitions. For the purposes of this section, “doula” means a trained person who provides continuous physical, emotional, and informational support to a pregnant person and the family before, during or shortly after childbirth, for the purpose of assisting a pregnant person through the birth experience; or a trained person who supports the family of a newborn during the first days and weeks after childbirth, providing evidence-based information, practical help, and advice to the family on newborn care, self-care, and nurturing of the new family unit.
+
+b. No later than June 30, 2019, the department shall submit to the speaker of the council and post on its website a plan to increase access to doulas for pregnant people in the city, including relevant timelines and strategies. In developing such plan, the department shall assess data regarding the needs of pregnant people and may consider the following factors:
+
+   1. The demand for doulas in the city;
+
+   2. The number of doulas in the city and any appropriate qualifications;
+
+   3. Existing city and community-based programs that provide doula services, including whether such programs offer training for doulas;
+
+   4. The availability of doula services that are low-cost, affordable, or free to the mother or pregnant person;
+
+   5. Areas or populations within the city in which residents experience disproportionately low access to doulas;
+
+   6. Areas or populations within the city in which residents experience disproportionately high rates of maternal mortality, cesarean birth, infant mortality, and other poor birth outcomes;
+
+   7. The average cost of doula services, and whether such services may be covered by an existing health plan or benefit; and
+
+   8. Any other information on the use of doulas and benefits associated with the use of doulas.
+
+Such plan shall additionally list the factors considered in development of the plan.
+
+c. No later than June 30, 2019, and on or before June 30 every year thereafter, the department shall submit to the speaker of the council and post on its website a report on the following information:
+
+   1. Known city and community-based programs that provide doula services, including whether such programs offer training for doulas;
+
+   2. Areas or populations within the city in which residents experience disproportionately high rates of maternal mortality, infant mortality, and other poor birth outcomes; and
+
+   3. Any updated information regarding implementation of the plan required by subdivision b of this section since the prior annual report.
 
 
 

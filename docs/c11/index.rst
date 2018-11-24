@@ -1005,6 +1005,32 @@ b. The department of citywide administrative services shall make available to ag
 
 
 
+
+
+*§ 12-208 Availability of diapers and baby wipes.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Child care center. The term “child care center” means a program regulated by article 43 or article 47 of the New York city health code and that is contracted by the administration for children’s services or contracted and funded by the department of education.
+
+   Covered entity. The term “covered entity” means a child care center, domestic violence shelter, family justice center, LYFE program, or temporary shelter.
+
+   Domestic violence shelter. The term “domestic violence shelter” means an emergency shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to section 459-b of the social services law or a tier II shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to the provisions of part 900 of title 18 of the New York codes, rules, and regulations.
+
+   Family justice center. The term “family justice center” means a center and any successor location through which the office to combat domestic violence or a successor entity provides services to victims of domestic and gender-based violence.
+
+   LYFE programs. The term “LYFE programs” means the living for the young family through education (LYFE) programs operated by the department of education to provide early childhood education to children of student parents.
+
+   Temporary shelter. The term “temporary shelter” means a facility with the capacity to shelter families with children operated by or under contract or similar agreement with the department of homeless services and the department of youth and community development.
+
+b. The department of citywide administrative services shall make available to agencies operating or contracting with a covered entity, a supply of diapers and baby wipes, for children three years old and younger, sufficient to meet the needs of residents or recipients utilizing services at such covered entity, when such residents or recipients are present at such covered entity. Each covered entity shall provide readily visible signage or other written notice, in at least each of the designated citywide languages, as such term is defined in section 23-1101, to all such residents or recipients, informing them of the availability of such diapers and baby wipes.
+
+
+
+
+
+
 Chapter 3: Collective Bargaining
 --------------------------------------------------
 

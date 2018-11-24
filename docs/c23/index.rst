@@ -431,6 +431,53 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+Chapter 9. Career and Technical Education Reporting
+--------------------------------------------------
+
+
+
+*§ 21-971 Reporting on career and technical education.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Career and technical education. The term "career and technical education" or "CTE" means a curriculum designed to provide students with certain skills that will enable them to pursue a career in certain disciplines, including but not limited to, agricultural education, business and marketing, family and consumer sciences, health occupations, technology and trade, or technical and industrial education.
+
+   Certified instructor. The term "certified instructor" means a teacher who has earned a teaching license in a specific career and technical education subject.
+
+   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school of the city school district of the city of New York, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
+
+b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the council and post conspicuously on the department's website, a report for the preceding academic year which shall include, but not be limited to the following:
+
+   1. The total number of high school-level CTE programs in schools of the city school district of the city of New York, including for each (i) the name of the program; (ii) the field or discipline for which the program prepares students; (iii) the number of industry partners associated with the program; (iv) the high school at which the program is located; (v) whether the high school is a CTE-designated high school; (vi) whether the CTE program has received approval through the New York state department of education's CTE approval process; (vii) the grade levels served by such program; and (viii) the number of students enrolled in such program;
+
+   2. The number and percentage of students at each high school in a CTE program;
+
+   3. The number and percentage of applicants who listed a CTE-designated high school as their first choice in the high school application process during the previous application year;
+
+   4. The number and percentage of applicants who listed a CTE-designated high school as their second choice in the high school application process during the previous application year;
+
+   5. The number and percentage of applicants who participated in the high school application process who enrolled in a CTE-designated high school;
+
+   6. The 4-year graduation rate for CTE-designated high schools;
+
+   7. The 6-year graduation rate for CTE-designated high schools;
+
+   8. The number of designated full-time and part-time certified instructors providing instruction at each high school; and for each CTE-designated high school, the ratio of full-time certified instructors to students at such school; and
+
+   9. The number of staff in each school or program who received professional development or training administered by the department and relating to CTE as of the prior school year.
+
+c. The data required to be reported pursuant to paragraphs two through seven of subdivision b of this section shall be disaggregated by (i) student race and ethnicity; (ii) student gender; (iii) student special education status; (iv) student English language learner status; (v) student eligibility for the free and reduced price lunch program; and (vi) community school district.
+
+d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
+
+e. This chapter expires five years after the effective date of the local law that added this chapter.
+
+
+
+
+
+
 Chapter 8: Student Health Services
 --------------------------------------------------
 
@@ -583,53 +630,6 @@ a. Definitions. For the purposes of this section, the following terms have the f
 b. Each academic year, the department shall make available educational materials on drugs and opiates awareness and prevention developed by the department of health and mental hygiene pursuant to section 17-199.9 to students at each middle and high school.
 
 c. The department shall make available such educational materials in English and in each of the designated citywide languages as defined in section 23-1101 in each middle and high school and on the department’s website.
-
-
-
-
-
-
-Chapter 9. Career and Technical Education Reporting
---------------------------------------------------
-
-
-
-*§ 21-971 Reporting on career and technical education.* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Career and technical education. The term "career and technical education" or "CTE" means a curriculum designed to provide students with certain skills that will enable them to pursue a career in certain disciplines, including but not limited to, agricultural education, business and marketing, family and consumer sciences, health occupations, technology and trade, or technical and industrial education.
-
-   Certified instructor. The term "certified instructor" means a teacher who has earned a teaching license in a specific career and technical education subject.
-
-   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school of the city school district of the city of New York, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
-
-b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the council and post conspicuously on the department's website, a report for the preceding academic year which shall include, but not be limited to the following:
-
-   1. The total number of high school-level CTE programs in schools of the city school district of the city of New York, including for each (i) the name of the program; (ii) the field or discipline for which the program prepares students; (iii) the number of industry partners associated with the program; (iv) the high school at which the program is located; (v) whether the high school is a CTE-designated high school; (vi) whether the CTE program has received approval through the New York state department of education's CTE approval process; (vii) the grade levels served by such program; and (viii) the number of students enrolled in such program;
-
-   2. The number and percentage of students at each high school in a CTE program;
-
-   3. The number and percentage of applicants who listed a CTE-designated high school as their first choice in the high school application process during the previous application year;
-
-   4. The number and percentage of applicants who listed a CTE-designated high school as their second choice in the high school application process during the previous application year;
-
-   5. The number and percentage of applicants who participated in the high school application process who enrolled in a CTE-designated high school;
-
-   6. The 4-year graduation rate for CTE-designated high schools;
-
-   7. The 6-year graduation rate for CTE-designated high schools;
-
-   8. The number of designated full-time and part-time certified instructors providing instruction at each high school; and for each CTE-designated high school, the ratio of full-time certified instructors to students at such school; and
-
-   9. The number of staff in each school or program who received professional development or training administered by the department and relating to CTE as of the prior school year.
-
-c. The data required to be reported pursuant to paragraphs two through seven of subdivision b of this section shall be disaggregated by (i) student race and ethnicity; (ii) student gender; (iii) student special education status; (iv) student English language learner status; (v) student eligibility for the free and reduced price lunch program; and (vi) community school district.
-
-d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
-
-e. This chapter expires five years after the effective date of the local law that added this chapter.
 
 
 
@@ -868,6 +868,27 @@ e. Upon any request by non-local law enforcement for access to a student or a st
 
 
 
+Chapter 17: Distribution of Information Regarding Summer Meals
+--------------------------------------------------
+
+
+
+*§ 21-979 Distribution of information regarding summer meals.* ::
+
+
+a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
+
+b. No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
+
+   1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
+
+   2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
+
+
+
+
+
+
 Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
 --------------------------------------------------
 
@@ -893,27 +914,6 @@ The data required to be reported pursuant to this subdivision b shall be disaggr
 c. Not later than May 15, 2018, and annually thereafter on or before May 15, the department shall submit to the speaker of the council and post conspicuously on the department’s website a report that shall include, but not be limited to, for each school, the total number of seats anticipated to be available in the following school year.
 
 d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
-
-
-
-
-
-
-Chapter 17: Distribution of Information Regarding Summer Meals
---------------------------------------------------
-
-
-
-*§ 21-979 Distribution of information regarding summer meals.* ::
-
-
-a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
-
-b. No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
-
-   1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
-
-   2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
 
 
 
