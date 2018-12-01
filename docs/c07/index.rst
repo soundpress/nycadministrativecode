@@ -185,7 +185,7 @@ Victim of domestic violence. The term "victim of domestic violence" means a pers
 
 Victim of sex offenses or stalking. The term "victim of sex offenses or stalking" means a victim of acts that would constitute violations of article 130 of the penal law or a victim of acts that would constitute violations of sections 120.45, 120.50, 120.55, or 120.60 of the penal law.
 
-(Am. L.L. 2015/063, 6/29/2015, eff. 10/27/2015; Am. L.L. 2016/001, 1/5/2016, eff. 5/4/2016; Am. L.L. 2016/040, 4/6/2016, eff. 8/4/2016; Am. L.L. 2017/119, 7/22/2017, eff. 11/19/2017; Am. L.L. 2018/038, 1/11/2018, eff. 5/11/2018; Am. L.L. 2018/059, 1/19/2018, eff. 10/16/2018; Am. L.L. 2018/063, 1/19/2018, eff. 10/16/2018; Am. L.L. 2018/098, 5/9/2018, eff. 5/9/2018 and 10/16/2018.
+.
 
 
 
@@ -795,7 +795,7 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
 (d) The commission shall serve a copy of the complaint upon the respondent and all persons it deems to be necessary parties and shall advise the respondent of the respondent's procedural rights and obligations as set forth herein.
 
-(e) The commission shall not have jurisdiction over any complaint that has been filed more than one year after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter 6 of this title occurred.
+(e) The commission shall not have jurisdiction over any complaint that has been filed more than one year after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter 6 of this title occurred; provided, however, that the commission shall have jurisdiction over a claim of gender-based harassment if such claim is filed within three years after the alleged harassing conduct occurred.
 
 (f) The commission shall not have jurisdiction to entertain a complaint if:
 

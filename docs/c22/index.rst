@@ -1866,305 +1866,6 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-Chapter 4: Department of Youth and Community Development
---------------------------------------------------
-
-
-
-*§ 21-401 Definitions.* ::
-
-
-For the purposes of this chapter the following terms have the following meanings:
-
-Commissioner. The term "commissioner" means the commissioner of the department of youth and community development.
-
-Department. The term "department" means the department of youth and community development.
-
-Homeless young adult. The term "homeless young adult" has the same meaning as provided in section 532-a of the executive law.
-
-Homeless youth. The term "homeless youth" has the same meaning as provided in section 532-a of the executive law. For the purposes of this chapter, the term homeless youth shall also include homeless young adults.
-
-Runaway and homeless youth crisis services program. The term "runaway and homeless youth crisis services program" has the same meaning as provided in section 532-a of the executive law.
-
-Runaway and homeless youth services. The term "runaway and homeless youth services" means department-funded street outreach and referral services, drop-in centers, runaway and homeless youth crisis services programs, and transitional independent living support programs.
-
-Runaway youth. The term "runaway youth" has the same meaning as provided in section 532-a of the executive law.
-
-Sexually exploited child. The term "sexually exploited child" has the same meaning as provided in subdivision one of section 447-a of the social services law.
-
-Shelter services. The term "shelter services" means residential programs within runaway and homeless youth crisis services programs and transitional independent living support programs.
-
-Transitional independent living support program. The term "transitional independent living support program" has the same meaning as provided in section 532-a of the executive law.
-
-Youth. The term "youth" means any person under 24 years of age.
-
-
-
-
-
-
-
-
-*§ 21-402 Reporting requirements to the city council.* ::
-
-
-a. The department shall submit to the city council two reports annually concerning the department's youth services programs, reported separately for community service block grants and other federal, state and city funding sources, respectively, providing indicators on the department's performance goals, actual performance and delivery of youth services within community districts and boroughs, to assist the city council in its oversight of the department's administration of funds and coordination of youth programs. The department shall present actual data for such indicators for the preceding fiscal year and for the current fiscal year, and shall project data for the following fiscal year. Information in the reports shall be presented in accordance with the following categories of indicators: financial indicators; department personnel indicators; performance goals and actual performance with respect to contract categories; and performance goals and actual performance with respect to individual programs. Provided, however, that such reports issued during the first calendar year following the effective date of this provision shall not be required to identify such information separately for each community district for those contracts previously awarded by the department for youth services.
-
-   A. Financial indicators. The department shall submit to the city council the following information on contracted services:
-
-      1. the number and dollar value of contracts with providers of youth services by community district and borough;
-
-      2. the number and dollar value of contracts with providers of youth services for contracts terminated prior to the expiration of the contract and for contracts withdrawn prior to the starting date of such contract by community district and borough; and
-
-      3. for contracts with providers of youth services having a dollar value of more than twenty-five thousand dollars for which programmatic and/or fiscal reviews were conducted, the number and dollar value of such contract by community district and borough.
-
-   B. Personnel indicators. The department shall submit to the city council the following information on department personnel:
-
-      1. the number of employees funded by city, state, community service block grants and other federal funds, respectively, and for each funding source the number of employees who are in each compensation category, such as, full-time, part-time, salaried, hourly or other, and the criteria utilized by the department to establish each category;
-
-      2. the number of personnel in administrative positions and the proportion of time spent on administrative functions.
-
-   C. Contract categories. The department shall assign to each contract a category from one of the following:
-
-      1. BEACON programs;
-
-      2. youth development programs;
-
-      3. services for runaway and homeless youth; and
-
-      4. any additional category deemed necessary by the commis- sioner.
-
-   D. Performance goals and actual performance reporting requirements with respect to contract categories. The department shall submit to the city council the following indicators on the performance goals and actual performance of services for each of the contract categories established pursuant to paragraph C of this subdivision:
-
-      1. the number and dollar value of contracts with providers of youth services; and
-
-      2. the allocation of funds by community services block grants and other federal, city, state and private funding sources, respec- tively.
-
-   E. Performance goals and actual performance reporting requirements with respect to individual programs. For every program it coordinates the department shall submit to the city council the following indicators:
-
-      1. the program sites for each contract with a provider of youth services by community district and borough;
-
-      2. the number of youth served pursuant to each such contract;
-
-      3. any outcomes required under the terms of each such contract and the final evaluation with respect to such outcomes; and
-
-      4. any other indicator required under the terms of each such contract deemed necessary by the commissioner to measure a program's performance.
-
-   F. One of the two annual reports containing the information described in paragraph A through E of this subdivision shall be submitted to the city council concurrent with the issuance of the mayor's management report, and the other annual report containing such information shall be submitted concurrent with the issuance of the preliminary mayor's management report. The period of reporting for the report issued concurrent with the issuance of the mayor's management report shall be the most recent fiscal year ended, and the period of reporting for the report issued concurrent with the issuance of the preliminary mayor's management report shall be the first four months of the fiscal year in which such report is issued.
-
-b. The commissioner shall submit to the city council copies of the following reports, and any revisions, updates or modifications to such reports, at the same time that each is submitted to the appropriate New York state agency or officer, or any successor thereto, elected official or other governmental body pursuant to any applicable statute, law, regulation or rule:
-
-   i. the community services block grant management plan required to be submitted to the department of state;
-
-   ii. the community services block grant program report required to be submitted to the governor and state legislature; and
-
-iii. the comprehensive planning report required to be submitted to the New York state division for youth within the executive department.
-
-c. Commencing on April 30, 2016 and annually thereafter, no later than every April 1, the commissioner, in consultation with the commissioner of the administration for children's services ("ACS") shall submit a yearly report to the speaker of the city council, and posted on the department's and ACS' websites, documenting the number of youth in contact with the department's runaway and homeless youth services or ACS who are referred as, self-report as, or who the department or ACS later determine to be sexually exploited children, disaggregated by age utilizing the following ranges under 12 years old, 12-15 years old, 16-18 years old and over 18 years old, by gender and by whether such children had contact with the department or ACS. The department and ACS shall also determine and document in such report the number of such children identified as having received services from both the department and ACS. Such report shall also include a description of the services provided by the department and ACS to meet the needs of youth who are or have been sexually exploited children including, but not limited to the number of beds designated for such children and the types of mental health and health services provided to such children. Such report shall also include the department's and ACS's methods for collecting data regarding the number of sexually exploited children. Nothing herein shall require the department or ACS to share information that identifies such children. No information that is required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of such children's information.
-
-
-
-
-
-
-
-
-*§ 21-403 Web-based information for youth and young adults aged sixteen through twenty applying for or receiving public assistance.* ::
-
-
-a. Definitions. For the purposes of this section the following terms shall have the following meanings:
-
-   1. "Public assistance" shall mean safety net assistance and family assistance provided by the New York city department of social services/human resources administration;
-
-   2. "Young adult" shall mean any person between and including the ages of eighteen and twenty; and
-
-   3. "Youth" shall mean any person between and including the ages of sixteen and seventeen.
-
-b. Web-based Information. No later than sixty days from the effective date of the local law that added this section, the department shall publish, through an easily identifiable link on its website, answers to frequently asked questions relating to the rights of and options available to youth and young adults who apply for or are receiving public assistance as head of household, including but not limited to a description of how to apply for public assistance, the types of public assistance that are available, and how recipients may satisfy work requirements through educational activities. Such information shall be updated as often as necessary and at a minimum on an annual basis.
-
-
-
-
-
-
-*§ 21-404 Homeless and runaway youth shelter access report.* ::
-
-
-a. Beginning July 31, 2018, and by each January 31 and July 31 thereafter, the department shall submit to the speaker and post on its website a report relating to the number of runaway and homeless youth who contacted or presented themselves to a runaway and homeless youth services program to request shelter and were not able to access shelter services during the six month periods ending on June 30 and December 31, respectively. Such report shall include, but not be limited to, the total number of youth eligible for a department-funded program on the date such program’s services were sought who could not access shelter services, disaggregated by:
-
-   1. The type of shelter services the youth was attempting to obtain, including, but not limited to, a runaway and homeless youth crisis services program or a transitional independent living support program;
-
-   2. The name of the runaway and homeless youth crisis services program or transitional independent living support program at which the youth did not access shelter services;
-
-   3. The bed capacity at such runaway and homeless youth crisis services program or transitional independent living support program;
-
-   4. The number of beds available at such runaway and homeless youth crisis services program or transitional independent living support program at the time the youth did not access shelter services;
-
-   5. The ages of youth who did not access shelter services;
-
-   6. Whether the youth who did not access shelter services identified as a member of the lesbian, gay, bisexual, transgender, queer or intersex community, if such information was volunteered by the youth; and
-
-   7. The reason why the youth did not access shelter services including, but not limited to, bed capacity, bed availability, insufficient beds in a specific type of program, or whether such youth chose not to accept a bed that was offered. Such information shall be further disaggregated by the reason such youth did not accept the bed, if such information is available.
-
-b. Beginning January 1, 2019, all providers under contract or similar agreement with the department to provide runaway and homeless youth crisis services or transitional independent living support programs shall submit the information required pursuant to this section to the department through an electronic database designated by the department and shall include the following information in the reports required pursuant to subdivision a of this section:
-
-   1. Whether the provider referred the youth to another department-funded runaway and homeless youth crisis services program or transitional independent living support program;
-
-   2. The name of the runaway and homeless youth services program or transitional independent living support program to which the provider referred the youth, if applicable; and
-
-   3. Whether that runaway and homeless youth services program or transitional independent living support program admitted the youth to receive shelter services.
-
-
-
-
-
-
-
-
-*§ 21-405 Intake and assessment of runaway and homeless youth.* ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   Assessment shelter. The term “assessment shelter” means a facility operated by the department of homeless services or a provider under contract or similar agreement with such department where individuals undergo assessments required to reside in such department’s shelter system.
-
-   Homeless youth. The term “homeless youth” has the same meaning as provided in section 532-a of the executive law. For the purposes of this section, the term “homeless youth” shall also include homeless young adults to the extent that services to homeless young adults are included in department-funded runaway and homeless youth shelter services contracts.
-
-   Intake and assessment. The term “intake and assessment” means the process for entry into a shelter operated by the department of homeless services or a provider under contract or similar agreement with such department.
-
-   Intake center. The term “intake centers” means a facility operated by the department of homeless services or a provider under contract or similar agreement with such department where individuals or families apply to enter such department’s homeless services shelter system.
-
-b. The department of homeless services and the department shall create and maintain an intake and assessment process for runaway youth and homeless youth who have reached the age and/or time limitations applicable to department-funded shelter services or, as designated by the department, other runaway or homeless youth receiving shelter services, and who seek to transition from runaway and homeless youth shelter services to a department of homeless services shelter. Such process shall permit eligible runaway youth or homeless youth to bypass entry into an intake center or assessment shelter operated by the department of homeless services when the department, or an organization that receives funding from the department to provide shelter services, provides demographic and social services information for any such youth, as agreed upon between the department and the department of homeless services, in advance of such youth’s presentation to the department of homeless services shelter system. Such process shall originate at a transitional independent living support program or a runaway and homeless youth crisis services program funded by the department. The intake and assessment bypass permitted pursuant to this section and any necessary information sharing between the department of homeless services and the department-funded program or the department shall only occur with the consent of such youth.
-
-c.  On or before July 31, 2018, and every six months thereafter, the department shall submit a report to the mayor and the speaker of the council which includes, but need not be limited to, the following information: a description of the intake and assessment process required by subdivision b of this section; the number of runaway and homeless youth referred through such process; where such youth were referred from; whether such youth accessed services through the process; and any recommendations for changes to the process.
-
-
-
-
-
-
-
-
-*§ 21-406 Services for homeless young adults.* ::
-
-
-The department shall include shelter services for homeless young adults as part of runaway and homeless youth services, but need not serve all such young adults.
-
-
-
-
-
-
-
-
-*§ 21-407 Time frames for runaway and homeless youth shelter services.* ::
-
-
-The department shall require that runaway youth and homeless youth are provided with shelter services pursuant to the following time frames:
-
-a. Consistent with section 532-b of the executive law, a runaway youth aged 14 or older receiving shelter services in a residential runaway and homeless youth crisis services program shall be provided with shelter services in such program on a voluntary basis for up to 60 days, or up to 120 days if the runaway youth and such youth’s parent, guardian or custodian agree in writing that such youth may remain in such program, or consistent with section 420 of the executive law, beyond such time limits if the office of children and family services is notified in writing within 60 days.
-
-b. Consistent with section 532-d of the executive law, a homeless youth receiving shelter services in a transitional independent living support program shall be provided with shelter services in such program for up to 24 months, or consistent with section 420 of the executive law, beyond 24 months limit if the homeless youth entered the transitional independent living support program under the age of 21 and the office of children and family services is notified in writing within 60 days.
-
-
-
-
-
-
-
-
-*§ 21-408 Runaway and homeless youth reporting.* ::
-
-
-a. Definitions. For the purposes of this section, the term “test assessing secondary completion (TASC)” means the New York state high school equivalency test which replaced the General Education Development (GED) as the primary pathway to a New York state high school equivalency diploma.
-
-b. Not later than October 1, 2018, and on or before October 1 annually thereafter, the department shall submit to the speaker of the council and post on its website annual reports on the prior fiscal year ending June 30th regarding runaway and homeless youth. Such reports shall include, but not be limited to, the following information:
-
-   1. A description of the size and characteristics of the current population of runaway and homeless youth, to the extent known, including but not limited to gender identity, sexual orientation, race, ethnicity, pregnancy and parenting status, and disabilities.
-
-   2. A description of the service needs of the current population of runaway and homeless youth, to the extent known, including but not limited to educational assistance, TASC preparation, medical services, mental health services, services for sexually exploited children, and temporary shelter.
-
-   3. A breakdown of the dispositions of runaway and homeless youth who exited the temporary shelter system in the previous calendar year disaggregated by categories including but not limited to transitioned from a runaway and homeless youth crisis services program to a transitional independent living support program, reconnected with family, transitioned to a department of homeless services shelter, transitioned to a New York city housing authority apartment, transitioned to a private apartment, and exited to an unknown location.
-
-   4. A description of the public resources available to serve runaway and homeless youth including any new services established since the submission of the previous report required pursuant to this section and any existing services that will be expanded.
-
-
-
-
-
-
-
-
-*§ 21-409 Capacity plan.* ::
-
-
-No later than October 1, 2018, the department shall develop and submit to the speaker of the council and post on its website a plan to provide shelter services to all runaway youth and homeless youth who request such shelter from the department, consistent with regulations of the office of children and family services. Such plan shall be informed by the report required pursuant to section 21-404.
-
-
-
-
-
-
-
-
-*§ 21-410 Distribution of educational materials on drugs and opiates to youth services programs.* ::
-
-
-a. The department shall make available the educational materials on drugs and opiates awareness and prevention developed by the department of health and mental hygiene pursuant to section 17-199.9 to youth attending afterschool programs funded by the department for students in grades six to twelve.
-
-b. The department shall ensure that such educational materials are available on the department’s website in English and in each of the designated citywide languages as defined in section 23-1101.
-
-
-
-
-
-
-
-
-*§ 21-411 Posting and reporting requirements relating to information and referral services for runaway and homeless youth.* ::
-
-
-a. Definitions. For purposes of this section the following terms have the following meanings:
-
-   Youth hotline. The term “youth hotline” means any hotline operated by the department for the purpose of providing information, resources, and referrals to youth.
-
-   311 customer service center. The term “311 customer service center” means the existing 311 citizen service center, which generally provides callers with information and referrals to appropriate resources and services, including referral to emergency services as necessary.
-
-b. Posting information about youth hotline and 311 customer service center. All runaway and homeless youth services shall post in a conspicuous on-site location a sign indicating the phone numbers of the youth hotline and the 311 customer service center and including a statement indicating that any youth may dial either number if such youth has a question, comment, or complaint regarding any runaway and homeless youth service. The postings shall also include, but not be limited to:
-
-   1. Information regarding where youth may find a complete summary of the rules governing the runaway and homeless youth service as well as the conduct and responsibilities expected of runaway and homeless youth service participants;
-
-   2. A statement indicating that the runaway and homeless youth service receives funding from the department and is subject to its oversight;
-
-   3. Notice that the youth hotline or 311 customer service center may be called 24 hours a day to anonymously or confidentially communicate a question, comment, or complaint about the runaway and homeless youth service’s conduct and responsibilities, including the specific telephone numbers to dial and the hours during which each number is open to receive calls; and
-
-   4. A statement that any comprehensive hotline providing mental health resources established within any agency or agencies as determined by the mayor may, if such hotline exists, be contacted 24 hours a day for information, referrals, or counseling relating to an individual’s mental health and well-being, including the specific telephone number to dial.
-
-c. Reporting.
-
-   1. No later than October 1, 2019, and on or before October 1 annually thereafter, the department shall submit a report to the mayor and the speaker of the city council which shall include the number of calls and general nature of any questions, comments, and complaints regarding runaway and homeless youth service that are received by the youth hotline and 311 customer service center, and the status of the department’s response to any such questions, comments, or complaints. The report shall include data disaggregated by calls made to the youth hotline and 311 customer service center, respectively. The annual report shall also include a summary of any changes made to runaway and homeless youth services as a result of any questions, comments, or complaints made to the youth hotline and 311 customer service center.
-
-   2. The general nature of any questions, comments and complaints reported pursuant to paragraph 1 of this subdivision shall include the categories of such questions, comments and complaints including, but not limited to:
-
-      (a) Facility conditions;
-
-      (b) Treatment by staff;
-
-      (c) Treatment by other youth;
-
-      (d) Lack of resources, such as medical care or sleeping accommodating, or any other reported resources; and
-
-      (e) Failure of a runaway and homeless youth service to provide information required by law.
-
-d. Confidentiality. Any identifying information collected by the youth hotline, 311 customer service center, and department in relation to this section shall only be used, disclosed, and retained for the purposes set forth in this section, in accordance with applicable federal, state, and local laws, regulations, and city and agency policies relating to the privacy and confidentiality of such information. “Identifying information” has the same meaning as set forth in section 23-1201 of the code. Information received by the youth hotline and 311 customer service center may be submitted anonymously, and such information shall be maintained as anonymous to the extent permitted or required by law.
-
-e. Educational outreach. The department shall engage in educational outreach about the availability of the youth hotline and 311 customer service center for questions, comments, and complaints regarding runaway and homeless youth services and conduct such outreach in a manner designed to reach as many youth as practicable. Such outreach shall include, but not be limited to, posting information about the youth hotline and 311 customer service center on the department’s website and on the websites of any other agency as determined by the mayor, as well as dissemination of informational materials targeted specifically to runaway and homeless youth by the department and through runaway and homeless youth services.
-
-
-
-
-
-
 Chapter 3: Department of Homeless Services
 --------------------------------------------------
 
@@ -2720,6 +2421,305 @@ b. The department shall refer any individual who discloses to their case manager
 
 
 
+Chapter 4: Department of Youth and Community Development
+--------------------------------------------------
+
+
+
+*§ 21-401 Definitions.* ::
+
+
+For the purposes of this chapter the following terms have the following meanings:
+
+Commissioner. The term "commissioner" means the commissioner of the department of youth and community development.
+
+Department. The term "department" means the department of youth and community development.
+
+Homeless young adult. The term "homeless young adult" has the same meaning as provided in section 532-a of the executive law.
+
+Homeless youth. The term "homeless youth" has the same meaning as provided in section 532-a of the executive law. For the purposes of this chapter, the term homeless youth shall also include homeless young adults.
+
+Runaway and homeless youth crisis services program. The term "runaway and homeless youth crisis services program" has the same meaning as provided in section 532-a of the executive law.
+
+Runaway and homeless youth services. The term "runaway and homeless youth services" means department-funded street outreach and referral services, drop-in centers, runaway and homeless youth crisis services programs, and transitional independent living support programs.
+
+Runaway youth. The term "runaway youth" has the same meaning as provided in section 532-a of the executive law.
+
+Sexually exploited child. The term "sexually exploited child" has the same meaning as provided in subdivision one of section 447-a of the social services law.
+
+Shelter services. The term "shelter services" means residential programs within runaway and homeless youth crisis services programs and transitional independent living support programs.
+
+Transitional independent living support program. The term "transitional independent living support program" has the same meaning as provided in section 532-a of the executive law.
+
+Youth. The term "youth" means any person under 24 years of age.
+
+
+
+
+
+
+
+
+*§ 21-402 Reporting requirements to the city council.* ::
+
+
+a. The department shall submit to the city council two reports annually concerning the department's youth services programs, reported separately for community service block grants and other federal, state and city funding sources, respectively, providing indicators on the department's performance goals, actual performance and delivery of youth services within community districts and boroughs, to assist the city council in its oversight of the department's administration of funds and coordination of youth programs. The department shall present actual data for such indicators for the preceding fiscal year and for the current fiscal year, and shall project data for the following fiscal year. Information in the reports shall be presented in accordance with the following categories of indicators: financial indicators; department personnel indicators; performance goals and actual performance with respect to contract categories; and performance goals and actual performance with respect to individual programs. Provided, however, that such reports issued during the first calendar year following the effective date of this provision shall not be required to identify such information separately for each community district for those contracts previously awarded by the department for youth services.
+
+   A. Financial indicators. The department shall submit to the city council the following information on contracted services:
+
+      1. the number and dollar value of contracts with providers of youth services by community district and borough;
+
+      2. the number and dollar value of contracts with providers of youth services for contracts terminated prior to the expiration of the contract and for contracts withdrawn prior to the starting date of such contract by community district and borough; and
+
+      3. for contracts with providers of youth services having a dollar value of more than twenty-five thousand dollars for which programmatic and/or fiscal reviews were conducted, the number and dollar value of such contract by community district and borough.
+
+   B. Personnel indicators. The department shall submit to the city council the following information on department personnel:
+
+      1. the number of employees funded by city, state, community service block grants and other federal funds, respectively, and for each funding source the number of employees who are in each compensation category, such as, full-time, part-time, salaried, hourly or other, and the criteria utilized by the department to establish each category;
+
+      2. the number of personnel in administrative positions and the proportion of time spent on administrative functions.
+
+   C. Contract categories. The department shall assign to each contract a category from one of the following:
+
+      1. BEACON programs;
+
+      2. youth development programs;
+
+      3. services for runaway and homeless youth; and
+
+      4. any additional category deemed necessary by the commis- sioner.
+
+   D. Performance goals and actual performance reporting requirements with respect to contract categories. The department shall submit to the city council the following indicators on the performance goals and actual performance of services for each of the contract categories established pursuant to paragraph C of this subdivision:
+
+      1. the number and dollar value of contracts with providers of youth services; and
+
+      2. the allocation of funds by community services block grants and other federal, city, state and private funding sources, respec- tively.
+
+   E. Performance goals and actual performance reporting requirements with respect to individual programs. For every program it coordinates the department shall submit to the city council the following indicators:
+
+      1. the program sites for each contract with a provider of youth services by community district and borough;
+
+      2. the number of youth served pursuant to each such contract;
+
+      3. any outcomes required under the terms of each such contract and the final evaluation with respect to such outcomes; and
+
+      4. any other indicator required under the terms of each such contract deemed necessary by the commissioner to measure a program's performance.
+
+   F. One of the two annual reports containing the information described in paragraph A through E of this subdivision shall be submitted to the city council concurrent with the issuance of the mayor's management report, and the other annual report containing such information shall be submitted concurrent with the issuance of the preliminary mayor's management report. The period of reporting for the report issued concurrent with the issuance of the mayor's management report shall be the most recent fiscal year ended, and the period of reporting for the report issued concurrent with the issuance of the preliminary mayor's management report shall be the first four months of the fiscal year in which such report is issued.
+
+b. The commissioner shall submit to the city council copies of the following reports, and any revisions, updates or modifications to such reports, at the same time that each is submitted to the appropriate New York state agency or officer, or any successor thereto, elected official or other governmental body pursuant to any applicable statute, law, regulation or rule:
+
+   i. the community services block grant management plan required to be submitted to the department of state;
+
+   ii. the community services block grant program report required to be submitted to the governor and state legislature; and
+
+iii. the comprehensive planning report required to be submitted to the New York state division for youth within the executive department.
+
+c. Commencing on April 30, 2016 and annually thereafter, no later than every April 1, the commissioner, in consultation with the commissioner of the administration for children's services ("ACS") shall submit a yearly report to the speaker of the city council, and posted on the department's and ACS' websites, documenting the number of youth in contact with the department's runaway and homeless youth services or ACS who are referred as, self-report as, or who the department or ACS later determine to be sexually exploited children, disaggregated by age utilizing the following ranges under 12 years old, 12-15 years old, 16-18 years old and over 18 years old, by gender and by whether such children had contact with the department or ACS. The department and ACS shall also determine and document in such report the number of such children identified as having received services from both the department and ACS. Such report shall also include a description of the services provided by the department and ACS to meet the needs of youth who are or have been sexually exploited children including, but not limited to the number of beds designated for such children and the types of mental health and health services provided to such children. Such report shall also include the department's and ACS's methods for collecting data regarding the number of sexually exploited children. Nothing herein shall require the department or ACS to share information that identifies such children. No information that is required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of such children's information.
+
+
+
+
+
+
+
+
+*§ 21-403 Web-based information for youth and young adults aged sixteen through twenty applying for or receiving public assistance.* ::
+
+
+a. Definitions. For the purposes of this section the following terms shall have the following meanings:
+
+   1. "Public assistance" shall mean safety net assistance and family assistance provided by the New York city department of social services/human resources administration;
+
+   2. "Young adult" shall mean any person between and including the ages of eighteen and twenty; and
+
+   3. "Youth" shall mean any person between and including the ages of sixteen and seventeen.
+
+b. Web-based Information. No later than sixty days from the effective date of the local law that added this section, the department shall publish, through an easily identifiable link on its website, answers to frequently asked questions relating to the rights of and options available to youth and young adults who apply for or are receiving public assistance as head of household, including but not limited to a description of how to apply for public assistance, the types of public assistance that are available, and how recipients may satisfy work requirements through educational activities. Such information shall be updated as often as necessary and at a minimum on an annual basis.
+
+
+
+
+
+
+*§ 21-404 Homeless and runaway youth shelter access report.* ::
+
+
+a. Beginning July 31, 2018, and by each January 31 and July 31 thereafter, the department shall submit to the speaker and post on its website a report relating to the number of runaway and homeless youth who contacted or presented themselves to a runaway and homeless youth services program to request shelter and were not able to access shelter services during the six month periods ending on June 30 and December 31, respectively. Such report shall include, but not be limited to, the total number of youth eligible for a department-funded program on the date such program’s services were sought who could not access shelter services, disaggregated by:
+
+   1. The type of shelter services the youth was attempting to obtain, including, but not limited to, a runaway and homeless youth crisis services program or a transitional independent living support program;
+
+   2. The name of the runaway and homeless youth crisis services program or transitional independent living support program at which the youth did not access shelter services;
+
+   3. The bed capacity at such runaway and homeless youth crisis services program or transitional independent living support program;
+
+   4. The number of beds available at such runaway and homeless youth crisis services program or transitional independent living support program at the time the youth did not access shelter services;
+
+   5. The ages of youth who did not access shelter services;
+
+   6. Whether the youth who did not access shelter services identified as a member of the lesbian, gay, bisexual, transgender, queer or intersex community, if such information was volunteered by the youth; and
+
+   7. The reason why the youth did not access shelter services including, but not limited to, bed capacity, bed availability, insufficient beds in a specific type of program, or whether such youth chose not to accept a bed that was offered. Such information shall be further disaggregated by the reason such youth did not accept the bed, if such information is available.
+
+b. Beginning January 1, 2019, all providers under contract or similar agreement with the department to provide runaway and homeless youth crisis services or transitional independent living support programs shall submit the information required pursuant to this section to the department through an electronic database designated by the department and shall include the following information in the reports required pursuant to subdivision a of this section:
+
+   1. Whether the provider referred the youth to another department-funded runaway and homeless youth crisis services program or transitional independent living support program;
+
+   2. The name of the runaway and homeless youth services program or transitional independent living support program to which the provider referred the youth, if applicable; and
+
+   3. Whether that runaway and homeless youth services program or transitional independent living support program admitted the youth to receive shelter services.
+
+
+
+
+
+
+
+
+*§ 21-405 Intake and assessment of runaway and homeless youth.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Assessment shelter. The term “assessment shelter” means a facility operated by the department of homeless services or a provider under contract or similar agreement with such department where individuals undergo assessments required to reside in such department’s shelter system.
+
+   Homeless youth. The term “homeless youth” has the same meaning as provided in section 532-a of the executive law. For the purposes of this section, the term “homeless youth” shall also include homeless young adults to the extent that services to homeless young adults are included in department-funded runaway and homeless youth shelter services contracts.
+
+   Intake and assessment. The term “intake and assessment” means the process for entry into a shelter operated by the department of homeless services or a provider under contract or similar agreement with such department.
+
+   Intake center. The term “intake centers” means a facility operated by the department of homeless services or a provider under contract or similar agreement with such department where individuals or families apply to enter such department’s homeless services shelter system.
+
+b. The department of homeless services and the department shall create and maintain an intake and assessment process for runaway youth and homeless youth who have reached the age and/or time limitations applicable to department-funded shelter services or, as designated by the department, other runaway or homeless youth receiving shelter services, and who seek to transition from runaway and homeless youth shelter services to a department of homeless services shelter. Such process shall permit eligible runaway youth or homeless youth to bypass entry into an intake center or assessment shelter operated by the department of homeless services when the department, or an organization that receives funding from the department to provide shelter services, provides demographic and social services information for any such youth, as agreed upon between the department and the department of homeless services, in advance of such youth’s presentation to the department of homeless services shelter system. Such process shall originate at a transitional independent living support program or a runaway and homeless youth crisis services program funded by the department. The intake and assessment bypass permitted pursuant to this section and any necessary information sharing between the department of homeless services and the department-funded program or the department shall only occur with the consent of such youth.
+
+c.  On or before July 31, 2018, and every six months thereafter, the department shall submit a report to the mayor and the speaker of the council which includes, but need not be limited to, the following information: a description of the intake and assessment process required by subdivision b of this section; the number of runaway and homeless youth referred through such process; where such youth were referred from; whether such youth accessed services through the process; and any recommendations for changes to the process.
+
+
+
+
+
+
+
+
+*§ 21-406 Services for homeless young adults.* ::
+
+
+The department shall include shelter services for homeless young adults as part of runaway and homeless youth services, but need not serve all such young adults.
+
+
+
+
+
+
+
+
+*§ 21-407 Time frames for runaway and homeless youth shelter services.* ::
+
+
+The department shall require that runaway youth and homeless youth are provided with shelter services pursuant to the following time frames:
+
+a. Consistent with section 532-b of the executive law, a runaway youth aged 14 or older receiving shelter services in a residential runaway and homeless youth crisis services program shall be provided with shelter services in such program on a voluntary basis for up to 60 days, or up to 120 days if the runaway youth and such youth’s parent, guardian or custodian agree in writing that such youth may remain in such program, or consistent with section 420 of the executive law, beyond such time limits if the office of children and family services is notified in writing within 60 days.
+
+b. Consistent with section 532-d of the executive law, a homeless youth receiving shelter services in a transitional independent living support program shall be provided with shelter services in such program for up to 24 months, or consistent with section 420 of the executive law, beyond 24 months limit if the homeless youth entered the transitional independent living support program under the age of 21 and the office of children and family services is notified in writing within 60 days.
+
+
+
+
+
+
+
+
+*§ 21-408 Runaway and homeless youth reporting.* ::
+
+
+a. Definitions. For the purposes of this section, the term “test assessing secondary completion (TASC)” means the New York state high school equivalency test which replaced the General Education Development (GED) as the primary pathway to a New York state high school equivalency diploma.
+
+b. Not later than October 1, 2018, and on or before October 1 annually thereafter, the department shall submit to the speaker of the council and post on its website annual reports on the prior fiscal year ending June 30th regarding runaway and homeless youth. Such reports shall include, but not be limited to, the following information:
+
+   1. A description of the size and characteristics of the current population of runaway and homeless youth, to the extent known, including but not limited to gender identity, sexual orientation, race, ethnicity, pregnancy and parenting status, and disabilities.
+
+   2. A description of the service needs of the current population of runaway and homeless youth, to the extent known, including but not limited to educational assistance, TASC preparation, medical services, mental health services, services for sexually exploited children, and temporary shelter.
+
+   3. A breakdown of the dispositions of runaway and homeless youth who exited the temporary shelter system in the previous calendar year disaggregated by categories including but not limited to transitioned from a runaway and homeless youth crisis services program to a transitional independent living support program, reconnected with family, transitioned to a department of homeless services shelter, transitioned to a New York city housing authority apartment, transitioned to a private apartment, and exited to an unknown location.
+
+   4. A description of the public resources available to serve runaway and homeless youth including any new services established since the submission of the previous report required pursuant to this section and any existing services that will be expanded.
+
+
+
+
+
+
+
+
+*§ 21-409 Capacity plan.* ::
+
+
+No later than October 1, 2018, the department shall develop and submit to the speaker of the council and post on its website a plan to provide shelter services to all runaway youth and homeless youth who request such shelter from the department, consistent with regulations of the office of children and family services. Such plan shall be informed by the report required pursuant to section 21-404.
+
+
+
+
+
+
+
+
+*§ 21-410 Distribution of educational materials on drugs and opiates to youth services programs.* ::
+
+
+a. The department shall make available the educational materials on drugs and opiates awareness and prevention developed by the department of health and mental hygiene pursuant to section 17-199.9 to youth attending afterschool programs funded by the department for students in grades six to twelve.
+
+b. The department shall ensure that such educational materials are available on the department’s website in English and in each of the designated citywide languages as defined in section 23-1101.
+
+
+
+
+
+
+
+
+*§ 21-411 Posting and reporting requirements relating to information and referral services for runaway and homeless youth.* ::
+
+
+a. Definitions. For purposes of this section the following terms have the following meanings:
+
+   Youth hotline. The term “youth hotline” means any hotline operated by the department for the purpose of providing information, resources, and referrals to youth.
+
+   311 customer service center. The term “311 customer service center” means the existing 311 citizen service center, which generally provides callers with information and referrals to appropriate resources and services, including referral to emergency services as necessary.
+
+b. Posting information about youth hotline and 311 customer service center. All runaway and homeless youth services shall post in a conspicuous on-site location a sign indicating the phone numbers of the youth hotline and the 311 customer service center and including a statement indicating that any youth may dial either number if such youth has a question, comment, or complaint regarding any runaway and homeless youth service. The postings shall also include, but not be limited to:
+
+   1. Information regarding where youth may find a complete summary of the rules governing the runaway and homeless youth service as well as the conduct and responsibilities expected of runaway and homeless youth service participants;
+
+   2. A statement indicating that the runaway and homeless youth service receives funding from the department and is subject to its oversight;
+
+   3. Notice that the youth hotline or 311 customer service center may be called 24 hours a day to anonymously or confidentially communicate a question, comment, or complaint about the runaway and homeless youth service’s conduct and responsibilities, including the specific telephone numbers to dial and the hours during which each number is open to receive calls; and
+
+   4. A statement that any comprehensive hotline providing mental health resources established within any agency or agencies as determined by the mayor may, if such hotline exists, be contacted 24 hours a day for information, referrals, or counseling relating to an individual’s mental health and well-being, including the specific telephone number to dial.
+
+c. Reporting.
+
+   1. No later than October 1, 2019, and on or before October 1 annually thereafter, the department shall submit a report to the mayor and the speaker of the city council which shall include the number of calls and general nature of any questions, comments, and complaints regarding runaway and homeless youth service that are received by the youth hotline and 311 customer service center, and the status of the department’s response to any such questions, comments, or complaints. The report shall include data disaggregated by calls made to the youth hotline and 311 customer service center, respectively. The annual report shall also include a summary of any changes made to runaway and homeless youth services as a result of any questions, comments, or complaints made to the youth hotline and 311 customer service center.
+
+   2. The general nature of any questions, comments and complaints reported pursuant to paragraph 1 of this subdivision shall include the categories of such questions, comments and complaints including, but not limited to:
+
+      (a) Facility conditions;
+
+      (b) Treatment by staff;
+
+      (c) Treatment by other youth;
+
+      (d) Lack of resources, such as medical care or sleeping accommodating, or any other reported resources; and
+
+      (e) Failure of a runaway and homeless youth service to provide information required by law.
+
+d. Confidentiality. Any identifying information collected by the youth hotline, 311 customer service center, and department in relation to this section shall only be used, disclosed, and retained for the purposes set forth in this section, in accordance with applicable federal, state, and local laws, regulations, and city and agency policies relating to the privacy and confidentiality of such information. “Identifying information” has the same meaning as set forth in section 23-1201 of the code. Information received by the youth hotline and 311 customer service center may be submitted anonymously, and such information shall be maintained as anonymous to the extent permitted or required by law.
+
+e. Educational outreach. The department shall engage in educational outreach about the availability of the youth hotline and 311 customer service center for questions, comments, and complaints regarding runaway and homeless youth services and conduct such outreach in a manner designed to reach as many youth as practicable. Such outreach shall include, but not be limited to, posting information about the youth hotline and 311 customer service center on the department’s website and on the websites of any other agency as determined by the mayor, as well as dissemination of informational materials targeted specifically to runaway and homeless youth by the department and through runaway and homeless youth services.
+
+
+
+
+
+
 Chapter 5: Work Experience Program Grievance Procedure*
 --------------------------------------------------
 
@@ -3012,33 +3012,6 @@ If any section, subsection, sentence, clause, phrase or other portion of this lo
 
 
 
-Chapter 8: Day Laborer Job Centers
---------------------------------------------------
-
-
-
-*§ 21-801 Temporary Commission on Day Laborer Job Centers.* ::
-
-
-a. There is hereby established a temporary advisory commission on immigrant day laborer job centers (the "Commission"), which shall examine the feasibility of fostering public/private partnerships to develop and implement job centers for day laborers.
-
-b. The Commission shall consist of 20 members, at least 12 of whom shall be immigrant day laborers or representatives of groups with experience working on issues affecting immigrant day laborers. The mayor shall appoint six of these members, at least three of whom shall be immigrant day laborers, and the speaker of the city council shall appoint six of these members, at least four of whom shall be immigrant day laborers. The mayor shall appoint four of the remaining members of the Commission, who shall include the commissioner of the mayor's office on immigrant affairs, the commissioner of the department for small business services and the commissioner of the new york city police department, or their designees. The speaker of the city council shall appoint four of the remaining members. The Commission shall be chaired by the commissioner for the mayor's office of immigrant affairs or a designee. The Commission shall include at least one person with experience in academic research regarding immigrant day labor.
-
-c. The members of the Commission shall be appointed within forty-five days of the effective date of this section and shall serve without compensation, except that each member shall be allowed actual and necessary expenses to be audited in the same manner as other city charges. Any member of the Commission may be removed from the Commission by the appointing official for cause. Any vacancy occurring by removal or for any other reason shall be filled by the appointing official in the same manner as the original appointment. The terms of members of the Commission shall expire one month after the Commission submits the report required by subdivision h of this section.
-
-d. Membership on the Commission shall not constitute the holding of a public office and members of the Commission shall not be required to take and file oaths of office before serving on the Commission.
-
-e. No person shall be ineligible for membership on the Commission because such person holds any public office, employment or trust, nor shall any person be made ineligible for or forfeit such person's right to any public office, employment or trust by reason of such appointment.
-
-f. The Commission may ask the mayor's office on immigrant affairs to provide staff assistance to the Commission in all matters under the Commission's jurisdiction.
-
-g. The Commission may request and may receive information from any agency as may be necessary to carry out the provisions of this chapter, in accordance with applicable laws, rules and regulations, including, but not limited to, the exceptions to disclosure of agency records contained in the public officers law. Nothing in this chapter shall be construed as limiting any right or obligation of agencies pursuant to the public officers law, including the exceptions to disclosure of agency records contained in such law, with respect to access to or disclosure of records or portions thereof. The commission also may request from any private organization providing services to immigrant day laborers information necessary to carry out the provisions of this chapter.
-
-h. No later than nine months from the effective date of the local law that added this chapter, the Commission shall submit to the Mayor and the Speaker of the Council a report containing the findings and recommendations of the Commission.
-
-
-
-
 Chapter 7: Education and Training For Public Assistance Recipients
 --------------------------------------------------
 
@@ -3220,6 +3193,33 @@ To the extent that provisions of this chapter are subject to the approval of the
 
 
 If any provision of this chapter, or the local law that added this chapter, or of any amendments thereto, shall be held invalid or ineffective in whole or in part or inapplicable to any person or situation, such holding shall not affect, impair or invalidate the remainder of this chapter or the local law that added this chapter, and all other provisions thereof shall nevertheless be separately and fully effective and the application of any such provision to other persons or situations shall not be affected.
+
+
+
+
+Chapter 8: Day Laborer Job Centers
+--------------------------------------------------
+
+
+
+*§ 21-801 Temporary Commission on Day Laborer Job Centers.* ::
+
+
+a. There is hereby established a temporary advisory commission on immigrant day laborer job centers (the "Commission"), which shall examine the feasibility of fostering public/private partnerships to develop and implement job centers for day laborers.
+
+b. The Commission shall consist of 20 members, at least 12 of whom shall be immigrant day laborers or representatives of groups with experience working on issues affecting immigrant day laborers. The mayor shall appoint six of these members, at least three of whom shall be immigrant day laborers, and the speaker of the city council shall appoint six of these members, at least four of whom shall be immigrant day laborers. The mayor shall appoint four of the remaining members of the Commission, who shall include the commissioner of the mayor's office on immigrant affairs, the commissioner of the department for small business services and the commissioner of the new york city police department, or their designees. The speaker of the city council shall appoint four of the remaining members. The Commission shall be chaired by the commissioner for the mayor's office of immigrant affairs or a designee. The Commission shall include at least one person with experience in academic research regarding immigrant day labor.
+
+c. The members of the Commission shall be appointed within forty-five days of the effective date of this section and shall serve without compensation, except that each member shall be allowed actual and necessary expenses to be audited in the same manner as other city charges. Any member of the Commission may be removed from the Commission by the appointing official for cause. Any vacancy occurring by removal or for any other reason shall be filled by the appointing official in the same manner as the original appointment. The terms of members of the Commission shall expire one month after the Commission submits the report required by subdivision h of this section.
+
+d. Membership on the Commission shall not constitute the holding of a public office and members of the Commission shall not be required to take and file oaths of office before serving on the Commission.
+
+e. No person shall be ineligible for membership on the Commission because such person holds any public office, employment or trust, nor shall any person be made ineligible for or forfeit such person's right to any public office, employment or trust by reason of such appointment.
+
+f. The Commission may ask the mayor's office on immigrant affairs to provide staff assistance to the Commission in all matters under the Commission's jurisdiction.
+
+g. The Commission may request and may receive information from any agency as may be necessary to carry out the provisions of this chapter, in accordance with applicable laws, rules and regulations, including, but not limited to, the exceptions to disclosure of agency records contained in the public officers law. Nothing in this chapter shall be construed as limiting any right or obligation of agencies pursuant to the public officers law, including the exceptions to disclosure of agency records contained in such law, with respect to access to or disclosure of records or portions thereof. The commission also may request from any private organization providing services to immigrant day laborers information necessary to carry out the provisions of this chapter.
+
+h. No later than nine months from the effective date of the local law that added this chapter, the Commission shall submit to the Mayor and the Speaker of the Council a report containing the findings and recommendations of the Commission.
 
 
 

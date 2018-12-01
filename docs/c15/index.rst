@@ -371,15 +371,23 @@ The commissioner shall have power to adopt rules and regulations:
 
       (2) not less than 250 and not more than 350 dollars for any second violation within any 12 month period, and
 
-      (3) not less than 350 and not more than 450 dollars for any third violation within any 12 month period; and
+      (3) not less than 350 and not more than 450 dollars for any third violation within any 12 month period;
 
    c. notwithstanding paragraph a of this subdivision, for any natural person violating subdivision 1 of this section:
 
       (1) 75 dollars for a first violation, and
 
-      (2) not less than 250 and not more than 350 dollars for any second violation within any 12 month period, and
+      (2) 300 dollars for any second violation within any 12 month period, and
 
-      (3) not less than 350 and not more than 450 dollars for any third violation within any 12 month period.
+      (3) 400 dollars for any third violation within any 12 month period; and
+
+   d. notwithstanding paragraph a of this subdivision, for any natural person violating subdivision 4 of this section:
+
+      (1) 200 dollars for a first violation; and
+
+      (2) 350 dollars for any second violation within any 12 month period; and
+
+      (3) 450 dollars for any third violation within any 12 month period.
 
 10. In the instance where a notice of violation is issued for breach of the provisions of this section and sets forth thereon civil penalties only, such process shall be returnable to the office of administrative trials and hearings pursuant to section 1049-a of the charter.
 

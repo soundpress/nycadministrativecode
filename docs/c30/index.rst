@@ -8243,6 +8243,8 @@ Exception: The term "city building" shall not include:
 
 5. Any cultural institution that is in the Cultural Institutions Group as determined by the department of cultural affairs.
 
+COOPERATIVE CORPORATION.  A corporation governed by the requirements of the state cooperative corporation law or general business law that, among other things, grants persons the right to reside in a cooperative apartment, that right existing by such person’s ownership of certificates of stock, proprietary lease, or other evidence of ownership of an interest in such entity.
+
 COVERED BUILDING. As it appears in the records of the department of finance: (i) a building that exceeds 50,000 gross square feet (4645 m2), (ii) two or more buildings on the same tax lot that together exceed 100,000 gross square feet (9290 m2), or (iii) two or more buildings held in the condominium form of ownership that are governed by the same board of managers and that together exceed 100,000 gross square feet (9290 m2).
 
 Exception: The term "covered building" shall not include real property classified as class one pursuant to subdivision one of section 1802 of the real property tax law of the state of New York.
@@ -8280,6 +8282,8 @@ SIMPLE PAYBACK. The number of years for the projected annual energy savings to e
 SPACE. An area within a building enclosed by floor to ceiling walls, partitions, windows and doors.
 
 SYSTEM OR SUBSYSTEM. Shall have the same definition as set forth in section 202 of the New York city energy conservation code.
+
+
 
 
 
@@ -8555,7 +8559,13 @@ The first energy efficiency reports for covered buildings in existence on the ef
 
 Owners of covered buildings (i) that are less than 10 years old at the commencement of their first assigned calendar year or (ii) that have undergone substantial rehabilitation, as certified by a registered design professional, within the 10 year period prior to any calendar year in which an energy efficiency report is due, such that at the commencement of such calendar year all of the base building systems of such building are in compliance with the New York city energy conservation code as in effect for new buildings constructed on and after July 1, 2010, or as in effect on the date of such substantial rehabilitation, whichever is later, may defer submitting an energy efficiency report for such building until the tenth calendar year after such assigned calendar year.
 
-Exception:The first due dates for city buildings shall be in accordance with a staggered schedule, commencing with calendar year 2013 and ending with calendar year 2022 for buildings in existence on the effective date of this article, to be submitted by the department of citywide administrative services to the department on or prior to December 31, 2011. A city building constructed after the effective date of this article shall be added to such schedule within 10 years after the issuance of the first certificate of occupancy for such building. Copies of energy efficiency reports submitted to the department with respect to city buildings that are not submitted by the department of citywide administrative services shall also be submitted to the department of citywide administrative services.
+Exceptions:
+
+1. The first due dates for city buildings shall be in accordance with a staggered schedule, commencing with calendar year 2013 and ending with calendar year 2022 for buildings in existence on the effective date of this article, to be submitted by the department of citywide administrative services to the department on or prior to December 31, 2011. A city building constructed after the effective date of this article shall be added to such schedule within 10 years after the issuance of the first certificate of occupancy for such building. Copies of energy efficiency reports submitted to the department with respect to city buildings that are not submitted by the department of citywide administrative services shall also be submitted to the department of citywide administrative services.
+
+2. A cooperative corporation that owns multiple covered buildings located on different tax block numbers, that is required to file an energy efficiency report for more than one covered building in different calendar years, may consolidate all such energy efficiency reports into one report, disaggregated by covered building, due no later than the year in which the last energy efficiency report would be due, which shall be accepted by the department in satisfaction of the requirements of this section for each covered building included in such consolidated report.
+
+
 
 
 
