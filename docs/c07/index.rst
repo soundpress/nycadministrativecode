@@ -1224,6 +1224,18 @@ a. The commission shall post conspicuously on the commission’s website online 
 
 
 
+
+
+*§ 8-133 Education and outreach regarding single-occupant toilet room requirements.* ::
+
+
+The commission on human rights, in conjunction with the department of buildings, shall conduct outreach to the public at large regarding single-occupant toilet room requirements, which shall, at a minimum, include educational materials to inform transgender and gender non-conforming individuals of a building owner’s required compliance with sections 403.2.1 and 403.4 of the New York city plumbing code and the violations and penalties that result from non-compliance with such sections. Such materials shall be available in the designated citywide languages as defined in section 23-1101 and shall include a statement that any non-compliance with such sections may be reported to 311 and shall be posted on the commission’s website.
+
+
+
+
+
+
 Chapter 2: Certain Unlawful Real Estate Practices
 --------------------------------------------------
 

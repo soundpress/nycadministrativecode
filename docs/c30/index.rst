@@ -1293,6 +1293,44 @@ The office of alternative energy shall maintain a website and shall post on such
 
 
 
+*§ 28-103.32 Education and outreach regarding single-occupant toilet room requirements.* ::
+
+
+The department, in conjunction with (i) the mayor’s office of immigrant affairs, (ii) the commission on human rights, (iii) the department of consumer affairs, (iv) the department of health and mental hygiene, (v) the department of small business services, (vi) the department of citywide administrative services and (vii) any other office or agency designated by the mayor, shall conduct education and outreach to increase awareness of sections 403.2.1 and 403.4 of the New York city plumbing code, regarding single-occupant toilet room requirements. Such education and outreach shall be tailored to business owners, and shall, at a minimum, include educational materials concerning such single-occupant toilet room requirements and the related posting and signage requirements, including samples of acceptable signage. Such materials and sample signage shall be available in the designated citywide languages as defined in section 23-1101. Information concerning such requirements shall also be made available on the department’s website.
+
+
+
+
+
+
+
+
+*§ 28-103.32.1 Reporting.* ::
+
+
+By no later than April 1, 2019, and annually thereafter until April 1, 2023, the commissioner of buildings shall submit to the mayor and the speaker of the council, and post on the department’s website, a report on:
+
+1. The education and outreach conducted as required by section 28-103.32 including a description of how such outreach was conducted and the number of business owners reached through the outreach;
+
+2. The number of complaints related to sections 403.2.1 and 403.4 of the New York city plumbing code reported to 311, disaggregated by online complaints and phone complaints;
+
+3. The number of violations issued as a result of such complaints;
+
+4. The total amount of penalties imposed as a result of such violations for the immediately preceding year; and
+
+5. Whether subsequent inspections were conducted by the department to ensure future compliance with such sections of the New York city plumbing code.
+
+The reports required pursuant to this section shall remain permanently accessible on the department’s website.
+
+
+
+* Editor's note: Section 5 of L.L. 2018/190 provides that this section will be repealed five years after it becomes law.
+
+
+
+
+
+
 
 **Article 104: Construction Documents**
 
@@ -8243,7 +8281,7 @@ Exception: The term "city building" shall not include:
 
 5. Any cultural institution that is in the Cultural Institutions Group as determined by the department of cultural affairs.
 
-COOPERATIVE CORPORATION.  A corporation governed by the requirements of the state cooperative corporation law or general business law that, among other things, grants persons the right to reside in a cooperative apartment, that right existing by such person’s ownership of certificates of stock, proprietary lease, or other evidence of ownership of an interest in such entity.
+COOPERATIVE CORPORATION. A corporation governed by the requirements of the state cooperative corporation law or general business law that, among other things, grants persons the right to reside in a cooperative apartment, that right existing by such person’s ownership of certificates of stock, proprietary lease, or other evidence of ownership of an interest in such entity.
 
 COVERED BUILDING. As it appears in the records of the department of finance: (i) a building that exceeds 50,000 gross square feet (4645 m2), (ii) two or more buildings on the same tax lot that together exceed 100,000 gross square feet (9290 m2), or (iii) two or more buildings held in the condominium form of ownership that are governed by the same board of managers and that together exceed 100,000 gross square feet (9290 m2).
 
@@ -9669,6 +9707,18 @@ Notwithstanding any other provision of law or rule requiring separate facilities
 
 
 All doors providing access to interior corridors or stairs in occupancy groups R-1 and R-2 shall be self-closing or equipped with a device that will ensure closing after having been opened by July 31, 2021.
+
+
+
+
+
+
+
+
+*§ 28-315.11 Buildings that are equipped with a fire alarm system and that contain Group A-1, A-2, A-3, Group B or Group M occupancies.* ::
+
+
+By January 1, 2021, existing buildings equipped with a fire alarm system and that contain group A-1, A-2 or A-3, Group B or Group M occupancies shall comply with the retroactive requirements of section 908.7.3.1 of the New York city building code.
 
 
 

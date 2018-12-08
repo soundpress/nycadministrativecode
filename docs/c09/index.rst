@@ -2002,36 +2002,6 @@ g. The mayor shall, in writing, designate one or more offices or agencies to adm
 
 
 
-*§ 10-177 Disorderly behavior.** ::
-
-
-a. Prohibition. A person is guilty of disorderly behavior when, with intent to cause public inconvenience, annoyance or alarm, or recklessly or with criminal negligence creating a risk thereof, such person:
-
-   1. Engages in fighting or in violent, tumultuous or threatening behavior;
-
-   2. Makes unreasonable noise;
-
-   3. In a public place, uses abusive or obscene language, or makes an obscene gesture;
-
-   4. Without lawful authority, disturbs any lawful assembly or meeting of persons;
-
-   5. Obstructs vehicular or pedestrian traffic;
-
-   6. Congregates with other persons in a public place and refuses to comply with a lawful order of the police to disperse; or
-
-   7. Creates a hazardous or physically offensive condition by any act which serves no legitimate purpose.
-
-b. Criminal penalty. The violation of subdivision a of this section constitutes an offense punishable by imprisonment of up to 5 days or a fine of up to 200 dollars.
-
-c. Civil penalty. Any person who violates subdivision a of this section shall be liable for a civil penalty of up to 75 dollars, which may be recoverable in a proceeding before the office of administrative trials and hearings, pursuant to chapter 45-A of the charter.
-
-
-
-
-
-
-
-
 *§ 10-177 Security measures at certain eating or drinking establishments.** ::
 
 
@@ -2086,6 +2056,36 @@ d. Exemptions. This section does not apply to:
 e. An eating or drinking establishment that is required to comply with subdivisions b and c of this section shall make available to the police department, upon request, such establishment’s certificate of occupancy or place of assembly certificate of operation.
 
 f. Penalties. Any violation of this section shall be subject to a civil penalty of not more than $1,000 for each such violation, except that the use or dissemination of recordings made by video surveillance cameras installed and maintained pursuant to subdivision b of this section in violation of the penal law or section 50 of the civil rights law shall result in a civil penalty of not less than $5,000 nor more than $50,000.
+
+
+
+
+
+
+
+
+*§ 10-177 Disorderly behavior.** ::
+
+
+a. Prohibition. A person is guilty of disorderly behavior when, with intent to cause public inconvenience, annoyance or alarm, or recklessly or with criminal negligence creating a risk thereof, such person:
+
+   1. Engages in fighting or in violent, tumultuous or threatening behavior;
+
+   2. Makes unreasonable noise;
+
+   3. In a public place, uses abusive or obscene language, or makes an obscene gesture;
+
+   4. Without lawful authority, disturbs any lawful assembly or meeting of persons;
+
+   5. Obstructs vehicular or pedestrian traffic;
+
+   6. Congregates with other persons in a public place and refuses to comply with a lawful order of the police to disperse; or
+
+   7. Creates a hazardous or physically offensive condition by any act which serves no legitimate purpose.
+
+b. Criminal penalty. The violation of subdivision a of this section constitutes an offense punishable by imprisonment of up to 5 days or a fine of up to 200 dollars.
+
+c. Civil penalty. Any person who violates subdivision a of this section shall be liable for a civil penalty of up to 75 dollars, which may be recoverable in a proceeding before the office of administrative trials and hearings, pursuant to chapter 45-A of the charter.
 
 
 

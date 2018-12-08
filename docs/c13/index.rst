@@ -1678,6 +1678,110 @@ c. The report created pursuant to this section shall be provided within 30 days 
 
 
 
+
+
+*§ 14-177 Harassment and sexual assault survivor sensitivity training.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Harassment. The term “harassment” means harassment, as defined under article 240 and consistent with the provisions of article 485 of the New York penal law, directed at a victim because of a belief or perception regarding the gender or sexual orientation of such victim, regardless of whether such belief or perception is correct.
+
+   Interactive training. The term “interactive training” means participatory teaching whereby the trainee is engaged in a trainer-trainee interaction, use of audio-visuals, computer or online training program or other participatory forms of training as determined by the commissioner. Such "interactive training" is not required to be live or facilitated by an in-person instructor.
+
+   Sexual assault. The term “sexual assault” means conduct defined under article 130 of the New York penal law.
+
+   Survivor. The term “survivor” means any person who has been the victim of harassment or sexual assault.
+
+b. Training.
+
+   1. New recruits. All new department recruits shall receive in person sensitivity training for responding to survivors of harassment and sexual assault as part of their academy training. The training shall be sensitive to cultural differences, gender, gender expression, and sexual orientation, and shall include a demonstration of proficiency in responding to survivors.
+
+   2. Ongoing training. All uniformed members of the department whose responsibilities include routinely interacting with victims of crime, shall receive interactive training, on a biennial basis, to assist them in responding to survivors of harassment and sexual assault.
+
+
+
+
+
+
+
+
+*§ 14-178 Special victims case management system.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Case management system. The term “case management system” means a digital and searchable means of tracking and monitoring investigations of the special victims division.
+
+   Identifying information. The term “identifying information” means any information that directly or indirectly identifies the victim of a crime.
+
+   Special victims division. The term “special victims division” means any division, unit, or other entity within the department that primarily investigates the violation of article 130 of the penal law.
+
+b. Case management system. The special victims division shall utilize a secure case management system capable of restricting access to identifying information to individuals who require such access in furtherance of their official functions. Such system shall be capable of creating a record in every instance a member of the department accesses a special victims division case.
+
+c. The department shall conduct quarterly random audits of the case management system to ensure the security of such system. Such audit shall include a review of all individuals outside of the special victims division who have accessed special victims division case files during the previous quarter. The department shall report the results of the audit to the council within 60 days of the end of each quarter.
+
+
+
+
+
+
+
+
+*§ 14-179 Special victims division staffing.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Case type. The term “case type” means the most serious offense committed, in the following types: a felony offense committed by an individual unknown to the victim, a felony offense committed by an individual known to the victim, a misdemeanor offense committed by an individual unknown to the victim, or a misdemeanor offense committed by an individual known to the victim.
+
+   Special victims division. The term “special victims division” means any division or other entity within the department that primarily investigates alleged violations of article 130 of the penal law.
+
+   Special victims investigator. The term “special victims investigator” means any member of the department whose primary duties include investigating sexual crimes and who regularly interacts with the victims of sexual crimes.
+
+   Unit. The term “unit” means any unit, squad, division or other means of allocating work within the special victims division.
+
+b. Beginning January 31, 2019, and every January 31 thereafter, the commissioner shall prepare a report on staffing for the special victims division for the previous year. Such report shall be sent to the council, and posted on the department’s website and shall include the following information:
+
+   1. Factors that the department utilized in determining staffing for the special victims division.
+
+   2. The number of cases referred to the special victims division in total and disaggregated by case type and unit, and also disaggregated by borough and further disaggregated by unit and further disaggregated by case type.
+
+   3. The number of special victims investigators, in total and disaggregated by borough, unit, and rank including detective grade.
+
+   4. The average number of cases assigned to each special victims investigator, in total and disaggregated by case type, and disaggregated by borough and further disaggregated by unit and further disaggregated by case type.
+
+c. Nothing in this section shall be construed to affect the authority or materially impede the ability of the department to determine the staffing for the special victims division or the factors or information utilized in such determination.
+
+
+
+
+
+
+
+
+*§ 14-180 Special victims training.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Sexual crimes. The term “sexual crimes” means any offense in article 130 of the penal law.
+
+   Special victims division. The term “special victims division” means any division, unit, or other entity within the department that primarily investigates the violation of article 130 of the penal law.
+
+   Special victims investigator. The term “special victims investigator” means any member of the department whose primary duties include investigating sexual crimes and who regularly interacts with the victims of sexual crimes.
+
+b. Special victims training program. The department, after considering information from outside experts, shall develop and implement a victim-centered special victims training program designed to develop skills related to the investigation of sexual crimes and the specific needs of victims of sexual crimes. The curriculum shall consider nationally recognized best practices and factors contributing to the additional complexity of sexual assault investigations including the depth of victimization, the negative social consequences of sexual assault, the trauma and neurobiological damage inflicted by sexual assault, the complexity of victim management, the falsity or partially truthful disclosure of complaints, the large unreported rate of sexual assaults and any other training deemed relevant to sexual assault cases by the commissioner. Such program shall include the following training components: the Forensic Experiential Trauma Interview method, specialized investigative training for sexual assault cases including non-stranger sexual assault and controlled communications, district attorney based training related to legal evidentiary standards and penal law article 130 crimes, Sexual Assault Forensic Examiner training, Sex Offender Registration Act training, hospital based training, victim advocate based training and any other training courses currently offered by the NYPD for special victims investigators including but not limited to DNA evidence, investigation of complex cases, drug-facilitated sexual assault, neurobiology of sexual assault, rape crisis counselor training, peer based investigative process training, abusive head trauma training and any other training deemed relevant to sexual assault cases by the commissioner, except that the commissioner may eliminate a training component or replace a training component with an alternative component in order to provide comprehensive victim-centered training. Such program shall include a proficiency examination or demonstration for each training component and shall be of a length the commissioner determines is sufficient to ensure that special victims investigators are capable of utilizing such skills.
+
+c. Training requirement. All newly assigned special victims investigators shall complete the special victims training program defined in subdivision b of this section and demonstrate proficiency in subject matters covered by such program prior to engaging with victims of sexual crimes, however, such investigators may engage with victims prior to completion of such program if such engagement is under the supervision of an experienced investigator, or supervisor, or in circumstances where no experienced investigator or supervisor is available. Any special victims investigators assigned to the special victims division as of the effective date of the local law that added this section must demonstrate proficiency in subject matters covered by such program within one year of such date.
+
+d. Special victims division training report. On January 30, 2020, and every January 30 thereafter, the department shall post on its website a report indicating the training components of the special victims training program defined in subdivision b of this section including the instructors, purpose, length, and format of each training component, the specific reasons for eliminating or replacing any training component, and the number of members of the service during the previous calendar year that: (i) participated in such program, (ii) failed to demonstrate proficiency required pursuant to subdivision c of this section on their first attempt, disaggregated by subject matter, and (iii) successfully demonstrated proficiency on all subject matters required pursuant to subdivision c of this section. Such report shall also include any experts consulted pursuant to subdivision b of this section in developing such training.
+
+
+
+
+
+
 Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 --------------------------------------------------
 
