@@ -1,6 +1,79 @@
 Title 5: Budget; Capital Projects
 ===================================================
 
+Chapter 2: Sinking Funds
+--------------------------------------------------
+
+
+
+*§ 5-201 Collection of income of sinking funds.* ::
+
+
+The comptroller shall supervise the collection of all moneys due the several sinking funds of the city established prior to July first, nineteen hundred eighty-one, and direct all necessary measures to complete their payment.
+
+
+
+
+
+
+*§ 5-202 Separate accounts to be kept for the several sinking funds.* ::
+
+
+The assets and accounts of each of the several sinking funds of the city established prior to July first, nineteen hundred eighty-one shall be kept separate and distinct, and they shall in all respects be administered as independent trusts, with the intent and purpose of preserving inviolate the rights of holders of corporate stock redeemable therefrom.
+
+
+
+
+
+
+*§ 5-203 Funds and revenues pledged to redemption of city debt.* ::
+
+
+Between the city and the holders of its corporate stock redeemable from the several sinking funds of the city established prior to July first, nineteen hundred eighty-one there is hereby declared to be a contract that the funds and revenues of the city, raised pursuant to section two hundred seventy-six of the charter and the rapid transit law as amended shall be applied to such sinking funds until all of such debt redeemable therefrom is fully redeemed and paid.
+
+
+
+
+
+
+*§ 5-204 Cancellation of city obligations held by the several sinking funds.* ::
+
+
+It shall be lawful for the comptroller in his or her discretion from time to time but not before maturity, to cancel any portion of the indebtedness of the city incurred on or after January first, eighteen hundred ninety-eight, which may be held by him or her in any sinking fund of the city established prior to July first, nineteen hundred eighty-one and which may by law be redeemable from such sinking fund.
+
+
+
+
+
+
+*§ 5-205 Procedure for investment of sinking fund moneys.* ::
+
+
+All obligations which shall be purchased by the comptroller with respect to the several sinking funds of the city established prior to July first, nineteen hundred eighty-one shall be transferred to the comptroller, and all transfers thereof shall be made by the comptroller. Obligations of the city which shall be purchased by the comptroller shall not be cancelled by the comptroller until the final redemption of the same, and all interest accruing therefrom shall regularly be paid to the appropriate sinking funds.
+
+
+
+
+
+
+*§ 5-206 Duties when accumulations in sinking funds are insufficient.* ::
+
+
+Whenever it shall appear to the mayor that the accumulations in any sinking fund of the city established prior to July first, nineteen hundred eighty-one will be insufficient to meet the payment of any corporate stock falling due in the next following fiscal year redeemable therefrom, it shall be the mayor's duty to include in the annual budget for such year, such an amount to be applied to the payment of such corporate stock as shall be sufficient to meet any such deficiency, and the amount shall be paid into such sinking fund.
+
+
+
+
+
+
+*§ 5-207 Alteration of rates prohibited.* ::
+
+
+It shall be unlawful for the city to make, or cause to be made, any alteration of rates or charges affecting any item or source of the revenues of the several sinking funds established prior to July first, nineteen hundred eighty-one or of the general fund which may tend to a diminution of the receipts from such sources of revenue, or either of them, except that it shall be lawful for the city to exempt places of public worship from the payment of any fee for the construction of vaults under the sidewalk or in front thereof.
+
+
+
+
 Chapter 1: Capital Projects and Budget
 --------------------------------------------------
 
@@ -92,79 +165,6 @@ Before any contract for any of the projects authorized within the capital budget
 
 
 So long as any notes or bonds of the New York city housing development corporation issued pursuant to article twelve of the private housing finance law shall be outstanding and unpaid, amounts needed for the purpose of restoring the capital reserve fund to the maximum capital reserve fund requirement pursuant to such article are hereby authorized to be paid to the corporation for deposit therein from the sources specified in paragraph e of subdivision one of section six hundred fifty-six of such law; provided, however, that no such amounts are authorized to be paid in notes or bonds of the corporation issued for the purpose of making loans pursuant to article eight of the private housing finance law. However, such payments may be made, notwithstanding the issuance of notes and bonds of the corporation for the purpose of making loans pursuant to article eight of the private housing finance law provided that: (1) the corporation shall have delivered to the council a report describing the site selection criteria, standards for development plans, management program and other safeguards it will impose in making loans pursuant to article eight of the private housing finance law, which said report shall in any event be delivered to the council no later than August eight, nineteen hundred seventy-two; (2) the aggregate amount of loans to be made by the corporation pursuant to article eight of the private housing finance law for any fiscal year of the city shall be set forth in a statement which shall accompany the proposed executive capital budget (but not be considered a part thereof), as submitted to the board of estimate and council pursuant to section two hundred nineteen of the charter, and such aggregate amounts shall be adopted, and may thereafter be amended, in accordance with the procedures set forth in chapter nine of the charter for the adoption and amendment of the capital budget; and (3) the chairperson of the corporation shall certify with respect to each mortgage loan issued pursuant to article eight of the private housing finance law that the estimated revenues from the mortgage property, including subsidies, after rehabilitation will be sufficient in amount to secure repayment of the loan and interest thereon and to pay all of the necessary expenses of the mortgagor relating to such property.
-
-
-
-
-Chapter 2: Sinking Funds
---------------------------------------------------
-
-
-
-*§ 5-201 Collection of income of sinking funds.* ::
-
-
-The comptroller shall supervise the collection of all moneys due the several sinking funds of the city established prior to July first, nineteen hundred eighty-one, and direct all necessary measures to complete their payment.
-
-
-
-
-
-
-*§ 5-202 Separate accounts to be kept for the several sinking funds.* ::
-
-
-The assets and accounts of each of the several sinking funds of the city established prior to July first, nineteen hundred eighty-one shall be kept separate and distinct, and they shall in all respects be administered as independent trusts, with the intent and purpose of preserving inviolate the rights of holders of corporate stock redeemable therefrom.
-
-
-
-
-
-
-*§ 5-203 Funds and revenues pledged to redemption of city debt.* ::
-
-
-Between the city and the holders of its corporate stock redeemable from the several sinking funds of the city established prior to July first, nineteen hundred eighty-one there is hereby declared to be a contract that the funds and revenues of the city, raised pursuant to section two hundred seventy-six of the charter and the rapid transit law as amended shall be applied to such sinking funds until all of such debt redeemable therefrom is fully redeemed and paid.
-
-
-
-
-
-
-*§ 5-204 Cancellation of city obligations held by the several sinking funds.* ::
-
-
-It shall be lawful for the comptroller in his or her discretion from time to time but not before maturity, to cancel any portion of the indebtedness of the city incurred on or after January first, eighteen hundred ninety-eight, which may be held by him or her in any sinking fund of the city established prior to July first, nineteen hundred eighty-one and which may by law be redeemable from such sinking fund.
-
-
-
-
-
-
-*§ 5-205 Procedure for investment of sinking fund moneys.* ::
-
-
-All obligations which shall be purchased by the comptroller with respect to the several sinking funds of the city established prior to July first, nineteen hundred eighty-one shall be transferred to the comptroller, and all transfers thereof shall be made by the comptroller. Obligations of the city which shall be purchased by the comptroller shall not be cancelled by the comptroller until the final redemption of the same, and all interest accruing therefrom shall regularly be paid to the appropriate sinking funds.
-
-
-
-
-
-
-*§ 5-206 Duties when accumulations in sinking funds are insufficient.* ::
-
-
-Whenever it shall appear to the mayor that the accumulations in any sinking fund of the city established prior to July first, nineteen hundred eighty-one will be insufficient to meet the payment of any corporate stock falling due in the next following fiscal year redeemable therefrom, it shall be the mayor's duty to include in the annual budget for such year, such an amount to be applied to the payment of such corporate stock as shall be sufficient to meet any such deficiency, and the amount shall be paid into such sinking fund.
-
-
-
-
-
-
-*§ 5-207 Alteration of rates prohibited.* ::
-
-
-It shall be unlawful for the city to make, or cause to be made, any alteration of rates or charges affecting any item or source of the revenues of the several sinking funds established prior to July first, nineteen hundred eighty-one or of the general fund which may tend to a diminution of the receipts from such sources of revenue, or either of them, except that it shall be lawful for the city to exempt places of public worship from the payment of any fee for the construction of vaults under the sidewalk or in front thereof.
 
 
 
