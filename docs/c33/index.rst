@@ -84,3 +84,75 @@ The department shall ensure that notice of any public meeting of the veterans' a
 
 
 
+
+
+*§ 31-106 Veterans resource centers.* ::
+
+
+a. The commissioner shall ensure that at least one veterans resource center is established and operational in each borough by no later than June 1, 2019. Each borough shall have a minimum of 20 hours of combined field and in-office service per week, including at least 10 consistent office hours, and shall be located in a geographic area that is easily accessible, including for persons with disabilities, and in close proximity to public transportation. Notice of a center’s hours of operation shall be clearly displayed on the premises and on the department’s website.
+
+b. Each veterans resource center shall provide veterans with up-to-date information, at no cost regarding, at a minimum, (i) matters within the department’s purview pursuant to this title, chapter 75 of the charter and state executive law section 358; (ii) housing; (iii) social services offered by public agencies and charitable and private organizations, including but not limited to the provision of specific contact information for such agencies and organizations; (iv) financial assistance and tax exemptions available to veterans; (v) discharge upgrade resources; and (vi) federal, state, and local benefits available to veterans.
+
+c. Each veterans resource center shall provide benefits counseling services and a hard copy resource guide pursuant to section 31-108, as well as information about relevant referral services.
+
+d. The department shall make available on its website information about each of the veterans resource centers, including its address, contact information, hours of operation and services provided.
+
+e. The commissioner, in consultation with any agencies identified by the mayor, shall establish and engage in outreach and education efforts to inform veterans about the veterans resource centers, including their locations, contact information, hours of operation and the services they provide.
+
+f. The commissioner shall, beginning January 1, 2020 and every six months thereafter, submit a report in machine-readable format to the mayor and the speaker of the council regarding the operation of the veterans resource centers established pursuant to this section. Such report shall include, but not be limited to, the following information for the prior six-month period, disaggregated by center: (i) the number of veterans utilizing such center; (ii) a summary of the services offered by such center; (iii) a description of the services and information most frequently requested by veterans utilizing such center; (iv) the number of full-time and part-time staff persons working at such center; and (v) the number of complaints received by and against such center from veterans regarding the services offered by such center, including feedback received by the 311 customer service center and a general description of the nature of such feedback.
+
+
+
+
+
+
+
+
+*§ 31-107 Benefits counseling.* ::
+
+
+The department shall provide counseling services to veterans seeking assistance regarding benefits offered by the city of New York, the state of New York and the United States department of veterans affairs to which they, their spouses or domestic partners, dependents or any family members may be entitled because of their military service. Counseling services shall include advice, evaluation and information, but shall not include the services identified by section 14.629(b) of title 38 of the code of federal regulations. Counseling services must be provided by trained staff and shall, at a minimum, be available in each of the five boroughs, including at each veterans resource center established pursuant to section 31-106.
+
+
+
+
+
+
+
+
+*§ 31-108 Veterans resource guide.* ::
+
+
+a. The department shall develop and maintain a resource guide for veterans. The department shall regularly update information provided in such guide as is necessary to maintain accuracy.
+
+b. The guide developed pursuant to subdivision a of this section shall include, but not be limited to, information about:
+
+   1. Federal, state and city benefits available to veterans and to their spouses or domestic partners, dependents and family members, as applicable, based upon the veterans’ military service, which shall include the criteria for eligibility to receive such benefits and information on organizations that employ accredited agents and attorneys to assist veterans with their claims;
+
+   2. Provisions of federal, state and local laws and regulations affording special rights and privileges to members of the armed forces and veterans and to their spouses or domestic partners, dependents and family members, as applicable, including, but not limited to, protections under the uniformed services employment and reemployment rights act;
+
+   3. Protections and remedies afforded to veterans under section 8-107;
+
+   4. Physical and mental health programs and resources;
+
+   5. Educational and training opportunities;
+
+   6. Available sources of low- or no-cost legal assistance;
+
+   7. Social services, including, but not limited to, housing and food security supports offered by public agencies and charitable and private organizations;
+
+   8. Programs and services administered by public agencies to support veteran-owned businesses;
+
+   9. Employment resources; and
+
+   10. Any other information deemed relevant by the department.
+
+c. The department shall make such guide available on the department’s website and in printed form upon request.
+
+d. The department shall publish on its website, and in any hard copy of such resource guide distributed, information about how relevant service providers can update the department on any changes in the services they offer to veterans.
+
+
+
+
+
+

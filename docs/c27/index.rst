@@ -1555,9 +1555,11 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-420.1 Steinway Street business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Steinway Street business improvement district beginning on July 1, 2014, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four hundred thousand dollars ($400,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Steinway Street business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of five hundred twenty thousand dollars ($520,000).
 
 b.    The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Steinway Street business improvement district plan.
+
+
 
 
 
@@ -1783,9 +1785,11 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 *§ 25-425 Graham Avenue business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Graham Avenue business improvement district beginning on July 1, 2002, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one hundred thirty-seven thousand six hundred thirty-eight dollars ($137,638).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Graham Avenue business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred fifty thousand dollars ($250,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Graham Avenue business improvement district plan.
+
+
 
 
 
@@ -1849,9 +1853,11 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-428.1 Lower East Side business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Lower East Side business improvement district beginning on July 1, 2013, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of nine hundred seventy-four thousand six hundred dollars ($974,600).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Lower East Side business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million three hundred thousand dollars ($1,300,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Lower East Side business improvement district plan.
+
+
 
 
 
@@ -1957,7 +1963,7 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-432.1 Fashion Center business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Fashion Center business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of eight million eight hundred thousand dollars ($8,800,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Fashion Center business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of thirteen million dollars ($13,000,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Fashion Center business improvement district plan.
 
@@ -2037,9 +2043,11 @@ b. The amount of such expenditure to be levied upon each property in the distric
 *§ 25-436 Grand Street business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Grand Street business improvement district beginning on July 1, 2013and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two hundred twenty-six thousand four hundred sixty dollars ($226,460).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Grand Street business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three hundred twenty-four thousand three hundred sixty dollars ($324,360).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Grand Street business improvement district plan.
+
+
 
 
 
@@ -2063,9 +2071,11 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-437.1 125th Street business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 125th Street business improvement district beginning on July 1, 2014, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million five thousand seven hundred ninety-three dollars ($1,005,793).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 125th Street business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million two hundred forty thousand four hundred sixty-two dollars ($1,240,462).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the 125th Street business improvement district plan.
+
+
 
 
 
@@ -2453,9 +2463,11 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-450.1 Lincoln Square business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Lincoln Square business improvement district beginning on July 1, 2013, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two million five hundred thousand dollars ($2,500,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Lincoln Square business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three million two hundred thousand dollars ($3,200,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Lincoln Square business improvement district plan.
+
+
 
 
 
@@ -2743,9 +2755,11 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-463.1 Madison/23rd/Flatiron/Chelsea business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Madison/23rd/Flatiron/Chelsea business improvement district beginning on July 1, 2012, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two million two hundred thousand dollars ($2,200,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Madison/23rd/Flatiron/Chelsea business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three million two hundred fifty thousand dollars ($3,250,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Madison/23rd/Flatiron/Chelsea business improvement district plan.
+
+
 
 
 
@@ -2899,7 +2913,7 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-467.1 Queens Plaza/Court Square business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Queens Plaza/Court Square business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of eight hundred thousand dollars ($800,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Queens Plaza/Court Square business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million dollars ($1,000,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Queens Plaza/Court Square business improvement district plan.
 
@@ -3041,7 +3055,7 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-471.1 Bay Ridge 5th Avenue business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Bay Ridge 5th Avenue business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four hundred twenty-seven thousand dollars ($427,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Bay Ridge 5th Avenue business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of five hundred thirty-four thousand dollars ($534,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Bay Ridge 5th Avenue business improvement district plan.
 
@@ -3069,7 +3083,7 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-472.1 Court-Livingston-Schermerhorn business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Court-Livingston-Schermerhorn business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of nine hundred seven thousand dollars ($907,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Court-Livingston-Schermerhorn business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million four hundred thousand dollars ($1,400,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Court-Livingston-Schermerhorn business improvement district plan.
 
@@ -3156,6 +3170,20 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Park Slope Fifth Avenue business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
+
+
+
+
+*§ 25-476.1 Park Slope Fifth Avenue business improvement district.* ::
+
+
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Park Slope Fifth Avenue business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of five hundred thousand dollars ($500,000).
+
+b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Park Slope Fifth Avenue business improvement district plan.
+
+
 
 
 
@@ -3358,6 +3386,20 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
+*§ 25-483.1 Chinatown business improvement district.* ::
+
+
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Chinatown business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million eight hundred thousand dollars ($1,800,000).
+
+b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Chinatown business improvement district plan.
+
+
+
+
+
+
+
+
 *§ 25-484 Westchester Square business improvement district.* ::
 
 
@@ -3366,6 +3408,20 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Westchester Square business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
+
+
+
+
+*§ 25-484.1 Westchester Square business improvement district.* ::
+
+
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Westchester Square business improvement district beginning on July 1, 2018, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four hundred twenty-five thousand nine hundred twenty dollars ($425,920).
+
+b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Westchester Square business improvement district plan.
+
+
 
 
 

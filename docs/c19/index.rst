@@ -4976,7 +4976,7 @@ c. A license for a high-volume for-hire service may be issued, or renewed, in wh
 
       (c) noise;
 
-   3. (a) Provides a description of all deductions, including any commissions, lease fees and other charges such high-volume for-hire service proposes to charge either the for-hire vehicle owner or the driver, or both, as applicable, including an estimate of the average gross hourly earnings of a driver, based upon actual or anticipated trips and fares, and affirms that it will not charge or deduct from any for-hire vehicle owner or driver any charge that has not been filed with the commission; and
+   3. (a) Provides a description of all deductions, including any commissions or other charges such high-volume for-hire service proposes to charge either the for-hire vehicle owner or the driver, or both, as applicable, including an estimate of the average gross hourly earnings of a driver, based upon actual or anticipated trips and fares, and affirms that, except for charges or deductions required by the rules of the commission, it will not charge or deduct from any for-hire vehicle owner or driver (i) any charge that has not been filed with the commission, (ii) any charge that violates the rules of the commission, regardless of whether such charge has been filed with the commission, and (iii) any automatically recurring payment for the rental, lease or purchase of a for-hire vehicle authorized pursuant to a contract entered into after the effective date of the local law that added this clause, unless such automatically recurring payment is optional and has been elected by the driver; and
 
       (b) Files its rates of fare with the commission; and
 
@@ -5012,7 +5012,7 @@ c. A license for a high-volume for-hire service may be issued, or renewed, in wh
 
 d. The penalty for operating a high-volume for-hire service without a valid license issued by the commission is $10,000 for each day such operation takes place, except that no such penalty shall be imposed upon a high-volume for-hire service while the initial licensing application of such service is pending and until the commission has made a determination pursuant to subdivision c of this section regarding the initial licensing of such service and communicated such determination in writing to the applicant.
 
-(L.L. 2018/149, 8/14/2018, eff. 12/12/2018*)
+
 
 * Editor's note: Section 3 of L.L. 2018/149 provides that § 19-548 takes effect on December 12, 2018, except that subdivision d. of § 19-548 takes effect on February 10, 2018.
 
@@ -5091,6 +5091,36 @@ e. The commission shall establish penalties to be imposed on a high-volume for-h
 f. A high-volume for-hire service shall not deduct any payment owed to any driver for a trip dispatched by such service for the payment of any penalties imposed by the commission pursuant to subdivision e of this section. The commission shall establish penalties no less than $500 and no greater than $1,000 for each violation of this subdivision.
 
 g. The commission shall no later than December 31, 2020 and annually thereafter submit to the council and the mayor a report on the effects of vehicle utilization standards and the regulation of the number of licenses issued to for-hire vehicles authorized by subdivision b of this section.
+
+
+
+
+
+
+
+
+*§ 19-551 Driver assistance.* ::
+
+
+a. Driver assistance services. The commission, in consultation with the department of consumer affairs, the department of small business services and any other agencies designated by the mayor, shall provide services and information to assist drivers, or owners of vehicles, licensed by the commission including but not limited to financial counseling, mental health services and referrals to non-profit organizations or other entities that may provide additional assistance to such drivers or owners. The commission may provide such services and information through the unit that issues licenses, the website of the commission, or such other means as the commission deems appropriate.
+
+b. Financial education for drivers. The commission, in consultation with the department of consumer affairs and any other agencies designated by the mayor, shall engage in outreach and education efforts that are intended to inform individuals who are considering whether to enter into purchase, rental, lease or loan agreements for the purpose of obtaining vehicles for use as for-hire vehicles, and individuals who are considering whether to purchase, refinance or lease a taxicab license, about the costs and benefits of entering into such arrangements and transactions. Such outreach and education efforts may include written materials describing the common terms of such arrangements and transactions and identifying resources intended to help an individual understand the terms of such arrangements and transactions. The commission shall make any materials designed for the purposes of conducting such outreach and education available in English and in the six languages most commonly spoken by drivers, as those languages are determined by the commission, and in any other languages the commission determines to be appropriate. The commission shall make such materials available on the commission's website.
+
+
+
+
+
+
+
+
+*§ 19-552 Risk of loss on trip payments.* ::
+
+
+a. Notwithstanding any inconsistent regulations, provisions of law or provisions of any contract entered into after the effective date of the local law that added this section, if a payment transaction for a completed trip dispatched by a high-volume for-hire service fails, such high-volume for-hire service shall ensure that the driver receives the entire amount owed to such driver for such completed trip.
+
+b. Notwithstanding subdivision a of this section, a high-volume for-hire service may refuse to deposit funds to a driver for rendering services upon a reasonable belief that the driver’s account is associated with fraudulent activity.
+
+c. Any high-volume for-hire service that violates this section is liable for a civil penalty of not less than $250 nor more than $500 for each offense.
 
 
 

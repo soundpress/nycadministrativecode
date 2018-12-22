@@ -2720,6 +2720,30 @@ e. Educational outreach. The department shall engage in educational outreach abo
 
 
 
+
+
+*§ 21-412 Educational outreach on bullying awareness and prevention resources.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Youth hotline. The term “youth hotline” means any hotline operated by the department for the purpose of providing information, resources and referrals to youth.
+
+   311 customer service center. The term “311 customer service center” means the existing 311 citizen service center, which generally provides callers with information and referrals to appropriate resources and services, including referral to emergency services as necessary.
+
+b. Educational outreach. The department shall engage in educational outreach regarding the availability of bullying awareness and prevention resources and conduct such outreach in a manner designed to reach as many youth as practicable. Such outreach shall include, but need not be limited to, posting bullying awareness and prevention resource information on the department’s website and on the websites of any other agency as determined by the mayor, as well as the dissemination of bullying awareness and prevention resource materials through existing departmental youth programs.
+
+c. Bullying awareness and prevention resources. The bullying awareness and prevention resources referenced in subdivision b of this section shall include, but need not be limited to:
+
+   1. Resources that provide confidential or anonymous counseling to youth via phone, text messaging, or internet-based chat functionality, including any comprehensive service providing mental health resources established within any agency or agencies as determined by the mayor, if such service exists, and any portal relating to the reporting of bullying, harassment, intimidation or discrimination operated by the department of education, if such resource exists; and
+
+   2. The numbers to text or to call, the operating hours applicable to each number or text function, and the website address for bullying awareness and prevention resources operated by the city, including but not limited to the 311 customer service center and, for materials directed at youth in a program funded by the department, the youth hotline.
+
+
+
+
+
+
 Chapter 5: Work Experience Program Grievance Procedure*
 --------------------------------------------------
 
