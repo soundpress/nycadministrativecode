@@ -26,6 +26,23 @@ Whenever used in this title, unless otherwise specified, the following terms sha
 
 
 
+Chapter 2: Reporting On Co-located Schools
+--------------------------------------------------
+
+
+
+*§ 21-951 Annual reporting on co-located schools.* ::
+
+
+a. For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
+
+b. Not later than the thirtieth day of August of the year 2015 and annually thereafter, the department shall submit to the council and post on the department's website a report regarding information on all co-located schools for the prior school year. Such report shall include, but not be limited to, (i) a comparison of demographic information including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for the free and reduced price lunch program and (ii) information regarding student academic performance, including but not limited to, student scores received on state examinations.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 9 students, or allows another category to be narrowed to between 0 and 9 students, the number shall be replaced with a symbol.
+
+
+
+
 Chapter 3: Reporting On Guidance Counselors and social Workers
 --------------------------------------------------
 
@@ -45,23 +62,6 @@ a. For the purposes of this section, the following terms shall have the followin
 b. Not later than February 15, 2015, and annually thereafter, the department shall submit to the council and post on the department's website a report of information regarding guidance counselors and social workers for the current school year. Such report shall include, but not be limited to: (i) the number of full and part-time guidance counselors and social workers in each school, (ii) the guidance counselor and social worker to student ratio in each school, (iii) whether the guidance counselor or social worker is providing counseling assistance to more than one school, (iv) the number of guidance counselors and social workers who provide counseling services as mandated by an IEP as of December 15 of the current school year, (v) the number of staff in each school who received professional development or training in postsecondary planning as of the prior school year, and (vi) the number of licensed and certified bilingual guidance counselors and social workers in each school. Such report shall also include the number of guidance counselors and social workers in the absent teacher reserve pool for grades seven through twelve, and information regarding any guidance memorandums issued by the department regarding college preparedness. Such report shall include demographic information for students in each school, including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for free and reduced price lunch pursuant to guidelines promulgated by the United States department of agriculture.
 
 c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
-
-
-
-
-Chapter 2: Reporting On Co-located Schools
---------------------------------------------------
-
-
-
-*§ 21-951 Annual reporting on co-located schools.* ::
-
-
-a. For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
-
-b. Not later than the thirtieth day of August of the year 2015 and annually thereafter, the department shall submit to the council and post on the department's website a report regarding information on all co-located schools for the prior school year. Such report shall include, but not be limited to, (i) a comparison of demographic information including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for the free and reduced price lunch program and (ii) information regarding student academic performance, including but not limited to, student scores received on state examinations.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 9 students, or allows another category to be narrowed to between 0 and 9 students, the number shall be replaced with a symbol.
 
 
 

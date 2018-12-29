@@ -1592,125 +1592,6 @@ c. No increase in maximum rental per room or surcharge thereto or any other pena
 
 
 
-Chapter 8: Cooperative and Condominium Conversions
---------------------------------------------------
-
-
-
-*§ 26-701 Application.* ::
-
-
-The provisions of this chapter shall apply to conversions from rental to cooperative or condominium status of a building or a group of buildings or a development for which a plan must be filed with the state department of law pursuant to section three hundred fifty-two-eeee of the general business law.
-
-
-
-
-
-
-*§ 26-702 Definitions.* ::
-
-
-As used in this chapter the following words shall mean:
-
-a. "Building" any building, group of buildings or development.
-
-b. "Total price"
-
-   (1) with respect to cooperative conversions, the number of all shares in the offering multiplied by the last price per share which was offered to tenants in occupancy prior to the effective date of the plan regardless of number of sales made;
-
-   (2) with respect to condominium conversions, the sum of the cost of all units in the offering at the last price which was offered to tenants in occupancy prior to the effective date of the plan regardless of number of sales made.
-
-c. "Capital replacement" a building-wide replacement of a major component of any of the following systems:
-
-   (1) elevator;
-
-   (2) heating, ventilation and air conditioning;
-
-   (3) plumbing;
-
-   (4) wiring;
-
-   (5) window; or, a major structural replacement to the building; provided, however, that replacements made to cure code violations of record shall not be included.
-
-d. "Offeror" the offeror, his or her nominees, assignees and successors in interest.
-
-
-
-
-
-
-*§ 26-703 Establishment of reserve fund.* ::
-
-
-a. Within thirty days after the closing of a conversion pursuant to an offering plan the offeror shall establish and transfer to the cooperative corporation or condominium board of managers, a reserve fund to be used exclusively for making capital repairs, replacements and improvements necessary for the health and safety of the residents of such buildings. Such reserve fund shall be exclusive of any other funds required to be reserved under the plan or applicable law or regulation of the state attorney general, except a fund for capital repairs, replacements and improvements substantially similar in purpose to and in an amount not less than the reserve fund mandated by this section. Such reserve fund also shall be exclusive of any working capital fund and shall not be subject to reduction for closing apportionments.
-
-b. Such fund shall be established in an amount equal to either (i) three per cent of the total price or, (ii) (A) three per cent of the actual sales price of all cooperative shares or condominium units sold by the offeror at the time the plan is declared effective, provided, however, that if such amount is less than one per cent of the total price, then the fund shall be established as a minimum of one per cent of the total price; plus (B) supplemental contributions to be made by the offeror at a rate of three per cent of the actual sales price of cooperative shares or condominium units for each unit or its allocable shares held by the offeror and sold to bona fide purchasers subsequent to the effective date of the plan and within five years of the closing of the conversion pursuant to such plan notwithstanding that the total amount contributed may exceed three per cent of the total price; and provided, further, that if five years from thirty days after the closing of the conversion pursuant to such plan the total contributions by the offeror to the fund are less than three per cent of the total price the offeror shall pay the difference between the amount contributed and three per cent of the total price. Supplemental contributions shall be made within thirty days of each sale.
-
-c. The contributions required pursuant to this section may be made earlier or in an amount greater than so provided. An offeror may claim and receive credit against the mandatory initial contribution to the reserve fund for the actual cost of capital replacements which he or she has begun after the plan is submitted for filing to the state department of law and before the plan is declared effective; provided, however, that any such replacements must be set forth in the plan together with their actual or estimated costs and further provided, that such credit shall not exceed the lesser of the actual cost of the capital replacements or one per cent of the total price.
-
-d. Any building, construction of which was completed within three years prior to the closing of a conversion pursuant to an offering plan, shall be exempt from the requirements of this section.
-
-
-
-
-
-
-*§ 26-704 Report on status of reserve fund.* ::
-
-
-The cooperative corporation or condominium board of managers shall report to shareholders and unit owners on a semi-annual basis with respect to all deposits into and withdrawals from the reserve fund mandated by section 26-703 of this chapter.
-
-
-
-
-
-
-*§ 26-705 Posting of violations.* ::
-
-
-The offeror, not later than the thirtieth day following the acceptance of a plan for filing by the state department of law pursuant to section three hundred fifty-two-eeee of the general business law and until the closing of the conversion pursuant to such plan, shall post and maintain in a prominent place, accessible to all tenants in each building covered by the plan, a listing of all violations of record against such buildings as determined by the department of buildings and the department of housing preservation and development. All newly issued violations shall be posted within fortyeight hours of their issuance and maintained as described above. The offeror may satisfy the requirements of this section by designating an agent on the premises with whom such listing shall be made available for inspection by the tenants.
-
-
-
-
-
-
-*§ 26-706 Report on condition of premises.* ::
-
-
-Where, pursuant to law or regulation of the state attorney general, an offeror is required to file a report with the state department of law describing the condition of the physical aspects of the premises to be converted and the surrounding neighborhood, a copy of such report shall be submitted simultaneously to the commissioner of buildings.
-
-
-
-
-
-
-*§ 26-707 No waiver of rights.* ::
-
-
-Any provision purporting to waive the provisions of this chapter in any contract to purchase or agreement between an offeror and the cooperative corporation or the condominium board of managers pursuant to a conversion plan shall be void as against public policy.
-
-
-
-
-
-
-*§ 26-708 Criminal and civil penalties; enforcement.* ::
-
-
-a. Except as otherwise provided in subdivision b of this section, any person who knowingly violates or assists in the violation of any section of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine of not less than one hundred nor more than one thousand dollars. Except as otherwise provided in subdivision b of this section, any person who violates or assists in the violation of any section of this chapter shall be subject to a civil penalty of one hundred dollars per day per unit for each day that a building is not in compliance with the provisions of such sections; provided, however, that such civil penalty shall not exceed one thousand dollars per unit.
-
-b. Any person who knowingly violates or assists in the violation of section 26-703 of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine not more than two times the amount required to be reserved by section 26-703 of this chapter which was not so reserved. Any person who violates or assists in the violation of section 26-703 of this chapter shall also be subject to a civil penalty of one thousand dollars per day for each day that the reserve fund required by section 26-703 of this chapter is not established; provided, however, that such civil penalty shall not exceed the amount required to be reserved pursuant to section 26-703 of this chapter.
-
-c. In addition, any other action or proceeding in any court of competent jurisdiction that may be appropriate or necessary for the enforcement of the provisions of this chapter may be brought in the name of the city, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any provision of this chapter, mandating compliance with the provisions of this chapter or for such other relief as may be appropriate. In any such action or proceeding the city may apply to any court of competent jurisdiction, or to a judge or justice thereof, for a temporary restraining order or preliminary injunction enjoining and restraining all persons from violating any provision of this chapter, mandating compliance with the provisions of this chapter, or for such other relief as may be appropriate, until the hearing and determination of such action or proceeding and the entry of final judgment or order therein. The court, or judge or justice thereof, to whom such application is made, is hereby authorized forthwith to make any or all of the orders above specified, as may be required in such application, with or without notice, and to make such other or further orders or directions as may be necessary to render the same effectual. No undertaking shall be required as a condition of the granting or issuing of such order, or by reason thereof.
-
-d. Nothing contained in this section shall impair any rights, remedies or causes of action accrued or accruing to purchasers of cooperative shares or condominium units.
-
-e. The department of housing preservation and development is empowered to enforce the provisions of this chapter.
-
-
-
-
 Chapter 7: Rent Increase Exemption For Low Income Elderly Persons and Persons With Disabilities
 --------------------------------------------------
 
@@ -1936,6 +1817,125 @@ The housing company which owns any dwelling subject to a mortgage insured by the
 
 
 To qualify as a person with a disability for the purposes of this section, an individual shall submit to such agency as the mayor shall designate proof (as specified by regulation of such agency as the mayor shall designate) showing that such individual is currently receiving social security disability insurance (SSDI) or supplemental security income (SSI) benefits under the federal social security act or disability pension or disability compensation benefits provided by the United States department of veterans affairs, or was previously eligible by virtue of receiving disability benefits under the supplemental security income program or the social security disability program and is currently receiving medical assistance benefits based on determination of disability as provided in section three hundred sixty-six of the social services law and whose income for the current income tax year, together with the income of all members of such individual's household, does not exceed fifty thousand dollars beginning July first, two thousand fourteen.
+
+
+
+
+Chapter 8: Cooperative and Condominium Conversions
+--------------------------------------------------
+
+
+
+*§ 26-701 Application.* ::
+
+
+The provisions of this chapter shall apply to conversions from rental to cooperative or condominium status of a building or a group of buildings or a development for which a plan must be filed with the state department of law pursuant to section three hundred fifty-two-eeee of the general business law.
+
+
+
+
+
+
+*§ 26-702 Definitions.* ::
+
+
+As used in this chapter the following words shall mean:
+
+a. "Building" any building, group of buildings or development.
+
+b. "Total price"
+
+   (1) with respect to cooperative conversions, the number of all shares in the offering multiplied by the last price per share which was offered to tenants in occupancy prior to the effective date of the plan regardless of number of sales made;
+
+   (2) with respect to condominium conversions, the sum of the cost of all units in the offering at the last price which was offered to tenants in occupancy prior to the effective date of the plan regardless of number of sales made.
+
+c. "Capital replacement" a building-wide replacement of a major component of any of the following systems:
+
+   (1) elevator;
+
+   (2) heating, ventilation and air conditioning;
+
+   (3) plumbing;
+
+   (4) wiring;
+
+   (5) window; or, a major structural replacement to the building; provided, however, that replacements made to cure code violations of record shall not be included.
+
+d. "Offeror" the offeror, his or her nominees, assignees and successors in interest.
+
+
+
+
+
+
+*§ 26-703 Establishment of reserve fund.* ::
+
+
+a. Within thirty days after the closing of a conversion pursuant to an offering plan the offeror shall establish and transfer to the cooperative corporation or condominium board of managers, a reserve fund to be used exclusively for making capital repairs, replacements and improvements necessary for the health and safety of the residents of such buildings. Such reserve fund shall be exclusive of any other funds required to be reserved under the plan or applicable law or regulation of the state attorney general, except a fund for capital repairs, replacements and improvements substantially similar in purpose to and in an amount not less than the reserve fund mandated by this section. Such reserve fund also shall be exclusive of any working capital fund and shall not be subject to reduction for closing apportionments.
+
+b. Such fund shall be established in an amount equal to either (i) three per cent of the total price or, (ii) (A) three per cent of the actual sales price of all cooperative shares or condominium units sold by the offeror at the time the plan is declared effective, provided, however, that if such amount is less than one per cent of the total price, then the fund shall be established as a minimum of one per cent of the total price; plus (B) supplemental contributions to be made by the offeror at a rate of three per cent of the actual sales price of cooperative shares or condominium units for each unit or its allocable shares held by the offeror and sold to bona fide purchasers subsequent to the effective date of the plan and within five years of the closing of the conversion pursuant to such plan notwithstanding that the total amount contributed may exceed three per cent of the total price; and provided, further, that if five years from thirty days after the closing of the conversion pursuant to such plan the total contributions by the offeror to the fund are less than three per cent of the total price the offeror shall pay the difference between the amount contributed and three per cent of the total price. Supplemental contributions shall be made within thirty days of each sale.
+
+c. The contributions required pursuant to this section may be made earlier or in an amount greater than so provided. An offeror may claim and receive credit against the mandatory initial contribution to the reserve fund for the actual cost of capital replacements which he or she has begun after the plan is submitted for filing to the state department of law and before the plan is declared effective; provided, however, that any such replacements must be set forth in the plan together with their actual or estimated costs and further provided, that such credit shall not exceed the lesser of the actual cost of the capital replacements or one per cent of the total price.
+
+d. Any building, construction of which was completed within three years prior to the closing of a conversion pursuant to an offering plan, shall be exempt from the requirements of this section.
+
+
+
+
+
+
+*§ 26-704 Report on status of reserve fund.* ::
+
+
+The cooperative corporation or condominium board of managers shall report to shareholders and unit owners on a semi-annual basis with respect to all deposits into and withdrawals from the reserve fund mandated by section 26-703 of this chapter.
+
+
+
+
+
+
+*§ 26-705 Posting of violations.* ::
+
+
+The offeror, not later than the thirtieth day following the acceptance of a plan for filing by the state department of law pursuant to section three hundred fifty-two-eeee of the general business law and until the closing of the conversion pursuant to such plan, shall post and maintain in a prominent place, accessible to all tenants in each building covered by the plan, a listing of all violations of record against such buildings as determined by the department of buildings and the department of housing preservation and development. All newly issued violations shall be posted within fortyeight hours of their issuance and maintained as described above. The offeror may satisfy the requirements of this section by designating an agent on the premises with whom such listing shall be made available for inspection by the tenants.
+
+
+
+
+
+
+*§ 26-706 Report on condition of premises.* ::
+
+
+Where, pursuant to law or regulation of the state attorney general, an offeror is required to file a report with the state department of law describing the condition of the physical aspects of the premises to be converted and the surrounding neighborhood, a copy of such report shall be submitted simultaneously to the commissioner of buildings.
+
+
+
+
+
+
+*§ 26-707 No waiver of rights.* ::
+
+
+Any provision purporting to waive the provisions of this chapter in any contract to purchase or agreement between an offeror and the cooperative corporation or the condominium board of managers pursuant to a conversion plan shall be void as against public policy.
+
+
+
+
+
+
+*§ 26-708 Criminal and civil penalties; enforcement.* ::
+
+
+a. Except as otherwise provided in subdivision b of this section, any person who knowingly violates or assists in the violation of any section of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine of not less than one hundred nor more than one thousand dollars. Except as otherwise provided in subdivision b of this section, any person who violates or assists in the violation of any section of this chapter shall be subject to a civil penalty of one hundred dollars per day per unit for each day that a building is not in compliance with the provisions of such sections; provided, however, that such civil penalty shall not exceed one thousand dollars per unit.
+
+b. Any person who knowingly violates or assists in the violation of section 26-703 of this chapter shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine not more than two times the amount required to be reserved by section 26-703 of this chapter which was not so reserved. Any person who violates or assists in the violation of section 26-703 of this chapter shall also be subject to a civil penalty of one thousand dollars per day for each day that the reserve fund required by section 26-703 of this chapter is not established; provided, however, that such civil penalty shall not exceed the amount required to be reserved pursuant to section 26-703 of this chapter.
+
+c. In addition, any other action or proceeding in any court of competent jurisdiction that may be appropriate or necessary for the enforcement of the provisions of this chapter may be brought in the name of the city, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any provision of this chapter, mandating compliance with the provisions of this chapter or for such other relief as may be appropriate. In any such action or proceeding the city may apply to any court of competent jurisdiction, or to a judge or justice thereof, for a temporary restraining order or preliminary injunction enjoining and restraining all persons from violating any provision of this chapter, mandating compliance with the provisions of this chapter, or for such other relief as may be appropriate, until the hearing and determination of such action or proceeding and the entry of final judgment or order therein. The court, or judge or justice thereof, to whom such application is made, is hereby authorized forthwith to make any or all of the orders above specified, as may be required in such application, with or without notice, and to make such other or further orders or directions as may be necessary to render the same effectual. No undertaking shall be required as a condition of the granting or issuing of such order, or by reason thereof.
+
+d. Nothing contained in this section shall impair any rights, remedies or causes of action accrued or accruing to purchasers of cooperative shares or condominium units.
+
+e. The department of housing preservation and development is empowered to enforce the provisions of this chapter.
 
 
 
@@ -2350,57 +2350,6 @@ b. In addition to any other penalty provided by law, any contractor or subcontra
 
 
 
-Chapter 12: Improperly Conditioning Residential Occupancy on Medical Treatment
---------------------------------------------------
-
-
-
-*§ 26-1201 Improperly conditioning residential occupancy on medical treatment.* ::
-
-
-a. Definitions. As used in this chapter:
-
-   Dwelling unit. The term "dwelling unit" has the meaning ascribed to such term in the housing maintenance code.
-
-   Medical treatment. The term "medical treatment" means any medical care, whether or not such care is provided by a licensed medical practitioner, including but not limited to any activity intended to further examination, diagnosis, counseling, physical or psychotherapy, preventive care, prescription or administration of medication, prescription or administration of prostheses, surgery, referral to a medical provider, any procedure to cure or abate any injury, illness, physical or mental condition or any treatment for substance abuse addiction.
-
-   Relative. The term "relative" means, with respect to a person, (i) a spouse, domestic partner, parent, grandparent, child, stepchild or stepparent of such person or (ii) any individual who is the direct descendant of the grandparents of such person or of the spouse or domestic partner of such person.
-
-b. It shall be unlawful for a person to condition occupancy of a dwelling unit or any term, benefit or right of such occupancy upon a lawful occupant seeking, receiving or refraining from submitting to medical treatment unless such person can establish that:
-
-   1. Each such occupant is a relative of such person; or
-
-   2. Such medical treatment is required in connection with one or more of the following programs, provided that such programs are currently licensed or certified by and in good standing with the appropriate government agency: (i) medically managed withdrawal and stabilization services as defined in section 816.4 of title 14 of the New York codes, rules and regulations; (ii) inpatient medically supervised withdrawal and stabilization services as defined in section 816.4 of title 14 of the New York codes, rules and regulations; (iii) chemical dependence residential rehabilitation services for youth established by part 817 of title 14 of the New York codes, rules and regulations; (iv) chemical dependence inpatient rehabilitation services established by part 818 of title 14 of the New York codes, rules and regulations; (v) intensive residential rehabilitation services established by section 819.8 of title 14 of the New York codes, rules and regulations; (vi) adult-care facilities as defined in section 485.2 of title 18 of the New York codes, rules and regulations; (vii) enriched housing programs as defined in section 488.2 of title 18 of the New York codes, rules and regulations; (ix) assisted living programs as defined in section 494.2 of title 18 of the New York codes, rules and regulations; (x) residential treatment facilities for children and youth established by part 584 of title 14 of the New York codes, rules and regulations; (xi) crisis residences as defined in section 589.4 of title 14 of the New York codes, rules and regulations; (xii) hospitals, nursing homes, and residential health care facilities as defined in section 2801 of the public health law; and (xiii) any other program regulated by state or federal law or rule that affirmatively permits conditioning occupancy, or any term, benefit or right thereof, upon seeking, receiving, or refraining from submitting to medical treatment.
-
-
-
-
-
-
-
-
-*§ 26-1202 Private right of action.* ::
-
-
-a. A lawful occupant of a dwelling unit or a group of such occupants in a building may bring an action alleging a violation of subdivision b of section 26-1201 in any court of competent jurisdiction. If such court finds that a person is in violation of such subdivision, such court shall, in addition to any other relief such court determines to be appropriate:
-
-   1. Award to each such occupant (i) compensatory damages and, in such court's discretion, punitive damages or (ii) at the election of each occupant, damages of $1,000;
-
-   2. Award to such occupants reasonable attorneys' fees and court costs; and
-
-   3. Issue an order restraining such person from engaging in further conduct in violation of such subdivision.
-
-b. Such occupant or occupants shall not be relieved of the obligation to pay rent for which such occupant or occupants are otherwise liable to a person found to be in violation of subdivision b of section 26-1201. Any monetary relief awarded to such occupant or occupants pursuant to subdivision a of this section shall be reduced by any amount of delinquent rent or other sum for which such court finds such occupant or occupants to be liable to such person.
-
-c. This section does not limit or abrogate any claim or cause of action a person has under common law or by other law or rule. The provisions of this section are in addition to any other remedies that may be provided for under common law or by other law or rule.
-
-d. Nothing contained in this chapter shall be construed as creating any private right of action against the city or any agency or employee thereof.
-
-
-
-
-
-
 Chapter 11: Housing Information Guide for Tenants and Owners
 --------------------------------------------------
 
@@ -2476,25 +2425,51 @@ Any owner who violates the provisions of subdivision a of section 26-1103 of thi
 
 
 
-Chapter 13: Certification of Certain Rent Payment*
+Chapter 12: Improperly Conditioning Residential Occupancy on Medical Treatment
 --------------------------------------------------
 
 
 
-*§ 26-1301 Certification of payment.** ::
+*§ 26-1201 Improperly conditioning residential occupancy on medical treatment.* ::
 
 
-(a) Whenever rent is paid by the human resources administration to a landlord on behalf of a tenant who is receiving public assistance, a certification of payment shall be made available to the tenant through an on-line client portal, ACCESS HRA. The certification of payment shall set forth:
+a. Definitions. As used in this chapter:
 
-   (1) the date the payment was sent;
+   Dwelling unit. The term "dwelling unit" has the meaning ascribed to such term in the housing maintenance code.
 
-   (2) the name of the landlord to whom the payment was sent;
+   Medical treatment. The term "medical treatment" means any medical care, whether or not such care is provided by a licensed medical practitioner, including but not limited to any activity intended to further examination, diagnosis, counseling, physical or psychotherapy, preventive care, prescription or administration of medication, prescription or administration of prostheses, surgery, referral to a medical provider, any procedure to cure or abate any injury, illness, physical or mental condition or any treatment for substance abuse addiction.
 
-   (3) the address to which payment was sent; and
+   Relative. The term "relative" means, with respect to a person, (i) a spouse, domestic partner, parent, grandparent, child, stepchild or stepparent of such person or (ii) any individual who is the direct descendant of the grandparents of such person or of the spouse or domestic partner of such person.
 
-   (4) the amount of payment sent.
+b. It shall be unlawful for a person to condition occupancy of a dwelling unit or any term, benefit or right of such occupancy upon a lawful occupant seeking, receiving or refraining from submitting to medical treatment unless such person can establish that:
 
-(b) At the time of approval of an application for public assistance, the human resource administration office shall provide the applicant for assistance with written notice of his or her right to access and receive certification of rent payments as provided in this section.
+   1. Each such occupant is a relative of such person; or
+
+   2. Such medical treatment is required in connection with one or more of the following programs, provided that such programs are currently licensed or certified by and in good standing with the appropriate government agency: (i) medically managed withdrawal and stabilization services as defined in section 816.4 of title 14 of the New York codes, rules and regulations; (ii) inpatient medically supervised withdrawal and stabilization services as defined in section 816.4 of title 14 of the New York codes, rules and regulations; (iii) chemical dependence residential rehabilitation services for youth established by part 817 of title 14 of the New York codes, rules and regulations; (iv) chemical dependence inpatient rehabilitation services established by part 818 of title 14 of the New York codes, rules and regulations; (v) intensive residential rehabilitation services established by section 819.8 of title 14 of the New York codes, rules and regulations; (vi) adult-care facilities as defined in section 485.2 of title 18 of the New York codes, rules and regulations; (vii) enriched housing programs as defined in section 488.2 of title 18 of the New York codes, rules and regulations; (ix) assisted living programs as defined in section 494.2 of title 18 of the New York codes, rules and regulations; (x) residential treatment facilities for children and youth established by part 584 of title 14 of the New York codes, rules and regulations; (xi) crisis residences as defined in section 589.4 of title 14 of the New York codes, rules and regulations; (xii) hospitals, nursing homes, and residential health care facilities as defined in section 2801 of the public health law; and (xiii) any other program regulated by state or federal law or rule that affirmatively permits conditioning occupancy, or any term, benefit or right thereof, upon seeking, receiving, or refraining from submitting to medical treatment.
+
+
+
+
+
+
+
+
+*§ 26-1202 Private right of action.* ::
+
+
+a. A lawful occupant of a dwelling unit or a group of such occupants in a building may bring an action alleging a violation of subdivision b of section 26-1201 in any court of competent jurisdiction. If such court finds that a person is in violation of such subdivision, such court shall, in addition to any other relief such court determines to be appropriate:
+
+   1. Award to each such occupant (i) compensatory damages and, in such court's discretion, punitive damages or (ii) at the election of each occupant, damages of $1,000;
+
+   2. Award to such occupants reasonable attorneys' fees and court costs; and
+
+   3. Issue an order restraining such person from engaging in further conduct in violation of such subdivision.
+
+b. Such occupant or occupants shall not be relieved of the obligation to pay rent for which such occupant or occupants are otherwise liable to a person found to be in violation of subdivision b of section 26-1201. Any monetary relief awarded to such occupant or occupants pursuant to subdivision a of this section shall be reduced by any amount of delinquent rent or other sum for which such court finds such occupant or occupants to be liable to such person.
+
+c. This section does not limit or abrogate any claim or cause of action a person has under common law or by other law or rule. The provisions of this section are in addition to any other remedies that may be provided for under common law or by other law or rule.
+
+d. Nothing contained in this chapter shall be construed as creating any private right of action against the city or any agency or employee thereof.
 
 
 
@@ -2658,6 +2633,31 @@ b. No later than September 1, 2018 and annually by each September 1 thereafter, 
 
 
 The coordinator may promulgate such rules as may be necessary to carry out the purposes of this chapter.
+
+
+
+
+
+
+Chapter 13: Certification of Certain Rent Payment*
+--------------------------------------------------
+
+
+
+*§ 26-1301 Certification of payment.** ::
+
+
+(a) Whenever rent is paid by the human resources administration to a landlord on behalf of a tenant who is receiving public assistance, a certification of payment shall be made available to the tenant through an on-line client portal, ACCESS HRA. The certification of payment shall set forth:
+
+   (1) the date the payment was sent;
+
+   (2) the name of the landlord to whom the payment was sent;
+
+   (3) the address to which payment was sent; and
+
+   (4) the amount of payment sent.
+
+(b) At the time of approval of an application for public assistance, the human resource administration office shall provide the applicant for assistance with written notice of his or her right to access and receive certification of rent payments as provided in this section.
 
 
 
