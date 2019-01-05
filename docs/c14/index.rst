@@ -642,6 +642,80 @@ d. The report created pursuant to this section shall be provided within 30 days 
 
 
 
+
+
+*§ 15-137 Report on emergency medical services supervisor to emergency medical services station staffing ratios.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Emergency medical services. The term “emergency medical services” means the services provided by the bureau of emergency medical services within the department.
+
+   Emergency medical services division. The term “emergency medical services division” means a collection of several emergency medical services stations, provided that if a division extends to two or more boroughs, the department shall report the information set forth below separately for each such borough.
+
+   Emergency medical services station. The term “emergency medical services station” means a location that houses ambulances, or other emergency vehicles, and emergency medical services staff.
+
+   Emergency medical services unit. The term “emergency medical services unit” means an individual ambulance or other emergency vehicle staffed by department personnel.
+
+b. No later than January 1, 2019, and at the beginning of each subsequent quarter, the department shall submit to the council a report on emergency medical services divisions and stations.
+
+c. Such report shall include, but need not be limited to, the following information:
+
+   1. The assigned number of each emergency medical services division and the general geographic area each such division covers;
+
+   2. The assigned number of each emergency medical services station within each emergency medical services division, the geographic area each such emergency medical services station covers, including any formal and commonly known names and the area in square miles, and the number of department personnel assigned to each such emergency medical services station;
+
+   3. The total number of emergency medical services units within each emergency medical services station;
+
+   4. The total number of designated emergency medical services supervising officers for each emergency medical services station within each emergency medical services division; and
+
+   5. For each emergency medical services division, the ratio of emergency medical services supervising officers to emergency medical services stations within each such division.
+
+
+
+Editor's note: Section 2 of L.L. 2019/007 provides that this section is deemed repealed 5 years after it becomes law.
+
+
+
+
+
+
+*§ 15-138 Annual report on the potential impact of certain rezonings on department services.* ::
+
+
+a. Definitions. For purposes of this section, the term “emergency medical services” means the services provided by the bureau of emergency medical services within the department.
+
+b. No later than February 1 of each year, the department, in consultation with the department of city planning, shall submit to the council a report, as set forth in subdivision c of this section, stating the potential impact of certain rezonings that occurred during the previous fiscal year on the services the department provides, in terms of fire protection and emergency medical services, in areas for which certain rezonings were approved in the previous fiscal year.
+
+c. Such report shall consider rezonings for which the department provided input in the city environmental quality review process and shall include for such rezonings, but need not be limited to, the following information:
+
+   1. The rezoned area, including the borough, formal and commonly known names of the area, major streets and avenues covered by the rezoning and the total area in square miles covered by the rezoning;
+
+   2. For each such rezoned area, a brief description of the type of rezoning that took place, including any substantial change in zoning district classification; and
+
+   3. For each such rezoned area, the potential impact of such rezoning on the services the department provides, as provided by the department in the city environmental quality review process, in terms of fire protection personnel and staffing, equipment, vehicles and stations, where applicable, with a separate category including information on the impact of such rezoning on the services the department provides in terms of emergency medical services personnel and staffing, equipment, vehicles and station locations, where applicable.
+
+
+
+
+
+
+
+
+*§ 15-139 Online applications for fire alarm plan examinations and inspections.* ::
+
+
+a. The department shall make all components of applications for fire alarm plan examinations available for online submission.
+
+b. The department shall make all components of applications for fire alarm inspections available for online submission.
+
+
+
+Editor's note: Section 2 of L.L. 2019/009 provides: "Subdivision a of section 15-139 of the administrative code of the city of New York, as added by section 1 of this local law, takes effect 180 days after it becomes law, and subdivision b of section 15-139 of the administrative code of the city of New York, as added by section 1 of this local law, takes effect 1 year after it becomes law, except that the fire department may take such measures prior to such date as are necessary for implementation of this local law, including the promulgation of rules.".
+
+
+
+
 Chapter 2: Unlawful Conduct
 --------------------------------------------------
 

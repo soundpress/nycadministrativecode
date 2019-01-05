@@ -555,7 +555,7 @@ b. The department may by regulation extend the time for repainting when in its j
 
 
 
-**Article 4: Extermination and Rodent Eradication**
+**Article 4: Control of Pests and Other Asthma Allergen Triggers**
 
 
 
@@ -564,25 +564,295 @@ b. The department may by regulation extend the time for repainting when in its j
 
 When used in this article:
 
-(a) Eradication means the elimination of rodents or insects and other pests from any premises through the use of traps, poisons, fumigation or any other method of extermination.
+Common area. The term "common area" means a portion of a multiple dwelling that is not within a dwelling unit and that is regularly used by occupants for access to and egress from any dwelling unit within such multiple dwelling, as well as commonly used areas such as a laundry room.
 
-(b) Insects and other pests include the members of class insecta, including houseflies, lice, bees, cockroaches, moths, silverfish, beetles, bedbugs, ants, termites, hornets, mosquitoes and wasps, and such members of the phylum arthropoda as spiders, mites, ticks, centipedes and wood lice.
+Harborage. The term "harborage" means any condition which provides shelter or protection for pests.
 
-(c) Harborage means any condition which provides shelter or protection for rodents or insects and other pests.
+Indoor allergen hazard. The term "indoor allergen hazard" means any indoor infestation of cockroaches, mice, or rats or conditions conducive to such infestation, or an indoor mold hazard.
+
+Indoor mold hazard. The term "indoor mold hazard" means any condition of mold growth on an indoor surface, building structure or ventilation system, including mold that is within wall cavities, that is likely to cause harm to a person or that has been cited as a violation by the department.
+
+Integrated pest management. The term "integrated pest management" means ongoing prevention, monitoring and pest control activities and reasonable efforts to eliminate pests from any building, lot, or dwelling. This includes, but is not limited to, reasonable efforts to eliminate of harborages and conditions conducive to pests, the use of traps, and, when necessary, the use of pesticides.
+
+Pest. The term "pest" means any unwanted member of the Class Insecta, including, but not limited to houseflies, lice, bees, cockroaches, moths, silverfish, beetles, bedbugs, ants, termites, hornets, mosquitoes and wasps, and such members of the Phylum Arthropoda as spiders, mites, ticks, centipedes and wood lice, or of the Order Rodentia, including but not limited to mice, Norway rats, and any other unwanted plant, animal or fungal life that is a pest because it is destructive, annoying or a nuisance.
+
+Remediation or remediate. The term "remediation" or "remediate" means reasonable efforts to eradicate pests in accordance with section 27-2017.8 and reasonable efforts to eradicate indoor mold hazards in accordance with rules promulgated pursuant to section 27-2017.9.
+
+Underlying defect. The term "underlying defect" means a condition that causes an indoor mold hazard, such as a water leak or water infiltration from plumbing or defective masonry pointing or other moisture condition, or causes an infestation of pests, including holes or entryway paths for pests.
+
+Visible mold. The term "visible mold" means mold that is readily identifiable by visual inspection, including mold that is behind furniture or other interior obstructions.
+
+(Am. L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
 
 
 
 
 
 
-*§ 27-2018 Rodent and insect eradication; mandatory extermination.* ::
+*§ 27-2017.1 Owners' responsibility to remediate.* ::
 
 
-a. The owner or occupant in control of a dwelling shall keep the premises free from rodents, and from infestations of insects and other pests, and from any condition conducive to rodent or insect and other pest life.
+The existence of an indoor allergen hazard in any dwelling unit in a multiple dwelling is hereby declared to constitute a condition dangerous to health. An owner of a dwelling shall take reasonable measures to keep the premises free from pests and other indoor allergen hazards and from any condition conducive to indoor allergen hazards, and shall take reasonable measures to prevent the reasonably foreseeable occurrence of such a conditions and shall expeditiously take reasonable measures to remediate such conditions and any underlying defect, when such underlying defect exists, consistent with section 27-2017.8 and the rules promulgated pursuant to section 27-2017.9.
 
-b. When any premises are subject to infestation by rodents or insects and other pests, the owner or occupant in control shall apply continuous eradication measures.
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
 
-c. When the department makes the determination that any premises are infested by rodents, insects or other pests, it may order such eradication measures as the department deems necessary.
+
+
+
+
+
+*§ 27-2017.2 Owners' responsibility to notify occupants and to investigate.* ::
+
+
+a. The owner of a multiple dwelling shall cause an investigation to be made for indoor allergen hazards in all occupied dwelling units and in common areas as set forth on subdivision b of this section.
+
+b. Investigations shall be undertaken at least once a year and more often if necessary, such as when, in the exercise of reasonable care, an owner knows or should have known of a condition that is reasonably foreseeable to cause an indoor allergen hazard, or an occupant makes a complaint concerning a condition that is likely to cause an indoor allergen hazard or requests an inspection, or the department issues a notice of violation or orders the correction of a violation that is likely to cause an indoor allergen hazard.
+
+c. All leases offered to tenants or prospective tenants in such multiple dwellings shall contain a notice, conspicuously set forth therein, which advises tenants of the obligations of the owner and tenant as set forth in this section. Such notice shall be approved by the department, and shall be in English and in the covered languages set forth in section 8-1002*. The owner of such multiple dwelling shall provide the tenant or prospective tenant of such dwelling unit with the pamphlet developed by the department of health and mental hygiene pursuant to section 17-199.7. Such pamphlet shall be made available in English and in the covered languages set forth in section 8-1002*.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+* Editor's note: Repealed. For current provisions, see Title 21, Chapter 1, Subchapter 1.
+
+
+
+
+
+
+*§ 27-2017.3. Violation for visible mold.* ::
+
+
+a. The presence of visible mold in any room in a dwelling unit in a multiple dwelling shall constitute an indoor mold hazard violation as provided in this section, except when such mold is present on tile or grout:
+
+   1. The presence of visible mold in an amount measuring in total less than ten square feet in a room within a dwelling unit shall constitute a non-hazardous violation.
+
+   2. The presence of visible mold in an amount measuring in total between ten square feet and thirty square feet in a room within a dwelling unit shall constitute a hazardous violation.
+
+   3. In addition, the presence of visible mold as provided in subparagraphs (a) or (b) of this paragraph shall constitute a hazardous violation if:
+
+      (a) there is an existing non-hazardous violation of paragraph one of this subdivision for which the certification period has expired and the non-hazardous violation has not been certified as corrected within the certification time period, and the mold condition that was the cause of the non-hazardous violation continues to be present in the same room in the dwelling unit; or
+
+      (b) The owner has submitted a false certification of correction of a non-hazardous violation issued pursuant to paragraph one of this subdivision and the mold condition that was the cause of such non-hazardous violation continues to be present in the same room in the dwelling unit.
+
+   4. The presence of visible mold in an amount measuring in total greater than or equal to thirty square feet in a room within a dwelling unit, shall constitute an immediately hazardous violation.
+
+   5. In addition, the presence of visible mold as provided in subparagraphs (a) or (b) of this paragraph shall constitute an immediately hazardous violation if:
+
+      (a) There is an existing hazardous violation pursuant to paragraph two of this subdivision for which the certification period has expired and such hazardous violation has not been certified as corrected within the certification time period, and the department has reinspected the unit within seventy days of the certification date of such hazardous violation and has found that the mold condition that was the cause of such hazardous violation continues to be present in the same room in the dwelling unit; or
+
+      (b) The owner has submitted a false certification of correction of a hazardous violation issued pursuant to paragraph two of this subdivision and the mold condition that was the cause of such hazardous violation continues to be present in the same room in the dwelling unit.
+
+b. The presence of visible mold in an amount measuring greater than or equal to thirty square feet in any one room or any one level of a hallway of a common area or fifty square feet in the aggregate shall constitute a hazardous violation. The presence of visible mold in an amount measuring less than thirty square feet in any one room or any one level of a hallway of a common area or fifty square feet in the aggregate shall constitute a non-hazardous violation.
+
+c. 1. The date for correction of a non-hazardous or hazardous violation pursuant to subdivisions a or b of this section shall be as set forth in subdivision c of section 27-2115.
+
+   2. The date for correction of an immediately hazardous violation pursuant to subdivision a of this section shall be twenty-one days after service of the notice of violation as provided on such notice.
+
+   3. The department may postpone the date by which an immediately hazardous violation issued pursuant to subdivision a of this section shall be corrected upon a showing, made within the time set for correction in the notice, that prompt action to correct the violation has been taken but that full correction cannot be completed within the time provided because of serious technical difficulties, inability to obtain necessary materials, funds or labor, inability to gain access to the dwelling unit wherein the violation exists, or such other portion of the building as may be necessary to make the required repair, provided, however, that where such immediately hazardous violation has been issued as a result of a reinspection of a hazardous violation that remained uncorrected, no postponement shall be granted. Such postponement shall not exceed fourteen days from the date of correction set forth in the notice of violation. The department may require such other conditions as are deemed necessary to correct the violation within the time set for the postponement.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27- 2017.4. Violation for pests* ::
+
+
+a. When the department makes the determination that any premises are infested by pests other than cockroaches, mice, or rats, it may order such eradication measures and work practices as the department deems necessary. Such violation shall be a hazardous violation pursuant to section 27-2115.
+
+b. Notwithstanding the provisions of subdivision a of this section, the presence of cockroaches, mice or rats in any room in a dwelling unit in a multiple dwelling or a common area shall constitute an immediately hazardous violation of this code as provided in this section and an owner shall comply with the work practices set out in subdivision a of section 27-2017.8 when correcting a such violation.
+
+c. The date for correction of an immediately hazardous violation for cockroaches, mice, or rats shall be twenty-one days after service of the notice of violation as provided on such notice.
+
+d. The department may postpone the date by which an immediately hazardous violation for cockroaches, mice, or rats shall be corrected upon a showing, made within the time set for correction in the notice, that prompt action to correct the violation has been taken but that full correction cannot be completed within the time provided because of serious technical difficulties, inability to obtain necessary materials, funds or labor, inability to gain access to the dwelling unit wherein the violation exists, or such other portion of the building as may be necessary to make the required repair. Such postponement shall not exceed fourteen days from the date of correction set forth in the notice of violation. The department may require such other conditions as are deemed necessary to correct the violation within the time set for the postponement.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27-2017.5 Removal of asthma triggers in a dwelling unit upon turnover.* ::
+
+
+a. Prior to the reoccupancy of any vacant dwelling unit in a multiple dwelling, the owner shall, within such dwelling unit, remediate all visible mold and pest infestations, and any underlying defects in such dwelling unit, and thoroughly clean and vacuum all carpeting and furniture provided by such owner to incoming occupants, consistent with the work practices set out in subdivision a of section 27-2017.8 and the rules promulgated pursuant to section 27-2017.9.
+
+b. The owner shall certify in writing to the incoming tenant or occupant of a unit of a multiple dwelling, in such form as may be promulgated by the department, that the unit is in compliance with subdivision a of this section.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27-2017.6 Department inspections.* ::
+
+
+a. When entering a dwelling unit in a multiple dwelling for the purpose of investigating the existence of any violation of the code, the department shall make diligent efforts to ascertain whether there are cockroaches, mice, rats, or visible mold in the dwelling unit and shall inquire of the occupant whether cockroaches, mice, rats or mold are present in the dwelling unit. When performing such inspection, the department need only inspect those portions of the dwelling unit where furniture or other furnishings do not obstruct the view of a surface, except when there is visible evidence that causes the department to believe that the obstructed surface has visible mold or cockroaches, mice, or rats.
+
+b. In any dwelling unit in a multiple dwelling the department shall conduct an inspection pursuant to subdivision a of this section no later than thirty days after the department's receipt of a complaint describing a condition that would constitute a violation under subdivision a of section 27-2017.3 or subdivision b of section 27-2017.4. Where the department attempts to perform an inspection of a dwelling unit within the time period required by this subdivision but is unable to gain access, the department shall provide written notice to the occupant of such dwelling unit that no further attempts at access shall be made unless a new complaint is submitted.
+
+c. Where, upon conducting an inspection, the department determines the existence of a condition constituting a violation of this article, the department shall serve a notice of violation within ten additional days of such inspection.
+
+d. The pamphlet developed by the department of health and mental hygiene pursuant to section 17-199.7 shall be left at the premises of the dwelling unit at the time of an inspection made by the department pursuant to this section. Such pamphlet shall be delivered by the department in conjunction with all notices of violation issued pursuant to paragraph one of subdivision o of section 27-2115. Failure to include such pamphlet with such notices of violation shall not render null and void the service of such notices of violation. Such pamphlet shall also be made available to any member of the public upon request.
+
+e. During the period from October first through May thirty-first, or in the event of disaster, the time for the department to conduct an inspection as provided in subdivision b of this section may be extended if the department resources so require. Notwithstanding any other provision of law, failure by the department or the department of health and mental hygiene to comply with any time period provided in this article or section 27-2115 relating to responsibilities of the department and the department of health and mental hygiene, shall not render null and void any notice of violation issued by the department or the department of health and mental hygiene pursuant to such article or section, and shall not provide a basis for defense or mitigation of an owner's liability for civil penalties for violation of such article.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27-2017.7 Department implementation and enforcement.* ::
+
+
+a. The department shall provide appropriate training for indoor allergen inspection and for supervisory personnel. The department shall provide for the continuing education of inspection and supervisory personnel regarding changes in applicable federal, state, and local laws and guidance documents and require that each such individual has successfully demonstrated knowledge of those materials and the requirements of this article.
+
+b. The department, with the approval of the department of health and mental hygiene, shall promulgate a comprehensive written procedure to guide department personnel in implementing and enforcing this article. Such procedures shall include a methodology and a form to be used by department personnel when conducting an inspection to carry out and record an inspection pursuant to section 27-2017.6.
+
+c. The department shall promulgate rules for the implementation and enforcement of this article and to effect compliance with all applicable provisions of this article, rules promulgated thereunder, and all applicable city, state or federal laws, rules or regulations. Such rules shall be subject to the approval of the department of health and mental hygiene prior to their promulgation and shall include, but need not be limited to, establishing:
+
+   1. Procedures by which an owner may apply to the department to postpone the date by which a violation shall be corrected pursuant to section 27-2017.3 or 27-2017.4; and
+
+   2. Procedures to implement and to enforce compliance with paragraph 2 of subdivision o of section 27-2115, which shall include, but not be limited to, the requirement that an owner certify to:
+
+      (a) the correction of a violation of this article,
+
+      (b) compliance with section 27-2017.8; and
+
+      (c) compliance with the rules promulgated by the department pursuant to section 27-2017.9.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27- 2017.8 Integrated pest management practices.* ::
+
+
+a. When any premises are subject to infestation by pests, or subject to a violation of subdivision a of section 27-2017.4 where directed by the department, or subject to a violation of subdivision b of section 27-2017.4, the owner shall use integrated pest management measures and eliminate conditions conducive to pests, and comply with following work practices:
+
+   1. inspect for, and physically remove pest nests, waste, and other debris by High-Efficiency Particulate Air (HEPA) vacuuming, washing surfaces, or otherwise collecting and discarding such debris;
+
+   2. eliminate points of entry and passage for pests by repairing and sealing any holes, gaps or cracks in walls, ceilings, floors, molding, base boards, around pipes and conduits, or around and within cabinets by using sealants, plaster, cement, wood, escutcheon plates, or other durable material. Attach door sweeps to any door leading to a hallway, basement, or outside the building to reduce gaps to no more than one-quarter inch; and
+
+   3. eliminate sources of water for pests by repairing drains, faucets, and other plumbing materials that accumulate water or leak. Remove and replace saturated materials in interior walls.
+
+   4. The use of pesticides shall not substitute for pest management measures described in this section. Any pesticide applied shall be applied by a pest professional licensed by New York state department of environmental conservation (DEC).
+
+b. An owner's certification of correction of a pest violation that was issued pursuant to subdivision a of section 27-2017.4 shall, where applicable, include an affidavit affirming that the work practices required pursuant to subdivision a of this section were properly performed. An owner's certification of correction of a pest violation that was issued pursuant to subdivision b of section 27-2017.4 shall include an affidavit affirming that the work practices required pursuant to subdivision a of this section were properly performed. The department may also by rule require additional documentation for certification of correction of a pest violation or a violation of subdivision b of 27-2017.4.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27-2017.9. Work practices.* ::
+
+
+a. The department shall promulgate rules, with the approval of the department of health and mental hygiene, establishing work practices when assessing and correcting indoor mold hazards, and underlying defects including violations cited by the department pursuant to this article. The department shall from time-to-time review and revise such rules based upon, among other things, the latest scientific data and developing federal, state, and local laws and industry standards.
+
+b. The work practices promulgated pursuant to subdivision a of this section shall include the requirement that when correcting an indoor mold hazard violation issued pursuant to this article, or when assessing and correcting an indoor mold hazard identified as a result of an inspection by an owner, such owner shall comply with the following work practices:
+
+   1. investigate and correct any underlying defect, including moisture or leak conditions, that are causing or may cause mold violations;
+
+   2. remove or securely cover with plastic sheeting any furniture or other items in the work area that cannot be removed;
+
+   3. minimize the dispersion of dust and debris from the work area to other parts of the dwelling unit through methods such as: sealing ventilation ducts/grills and other openings in the work area with plastic sheeting; isolating the work area with plastic sheeting and covering egress pathways; cleaning or gently misting surfaces with a dilute soap or detergent solution prior to removal; the use of HEPA vacuum-shrouded tools or a vacuum equipped with a HEPA filter at the point of dust generation;
+
+   4. clean mold with soap or detergent and water;
+
+   5. remove and discard materials that cannot be cleaned properly;
+
+   6. properly remove and discard plastic sheeting, cleaning implements, and contaminated materials in sealed, heavy weight plastic bags;
+
+   7. clean any remaining visible dust from the work area using wet cleaning methods or HEPA vacuuming; and
+
+   8. leave the work area dry and visibly free from mold, dust, and debris.
+
+The work practices shall also include a requirement that when correcting an indoor mold hazard violation issued pursuant to this article, or when assessing or correcting an indoor mold hazard identified as a result of an inspection by an owner, such assessments or work shall be performed in compliance with article 32 of New York state labor law and any rules promulgated thereunder, where applicable.
+
+c. An owner's certification of correction of an indoor mold hazard violation issued pursuant to this article shall include an affidavit affirming that the work practices required pursuant to this section were properly performed. The department may also by rule require additional documentation for certification of correction of an indoor mold hazard violation.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27-2017.10 Violations placed by the department of health and mental hygiene.* ::
+
+
+Where the owner of the dwelling or relevant dwelling unit within such dwelling fails to comply with an order of the department of health and mental hygiene to correct a violation placed by the department of health and mental hygiene pursuant to section 17-199.6, the department of health and mental hygiene shall certify such conditions to the department of housing preservation and development within ten days after the date set for correction in said order. The department of housing preservation and development may take such enforcement action as it deems necessary, including performing or arranging for the performance of work to correct the certified condition.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27-2017.11 Reporting.* ::
+
+
+a. Within four months after the close of the first fiscal year that begins after the effective date of the local law that added this section, and within four months after the close of each fiscal year thereafter, the commissioner shall provide to the council a written report on the department's implementation of this article during the preceding fiscal year. Such report shall include, at a minimum, an analysis of the department's program, a detailed statement of revenue and expenditures and a statistical section designed to provide a detailed explanation of the department's enforcement including, but not limited to, the following:
+
+   1. The number of complaints for visible mold, indoor mold hazards, and pests in dwelling units, disaggregated by city or non-city ownership of the building which is the subject of the complaint;
+
+   2. The number of inspections by the department pursuant to this article, disaggregated by the city or non-city ownership of the building where the inspection occurred;
+
+   3. The number of violations issued by the department pursuant to this article;
+
+   4. The number of violations issued pursuant to this article that were certified as corrected by the owner, the number of such certifications that did not result in the removal of such violations, and the number of civil actions brought by the department against such owners;
+
+   5. The number of jobs performed in which violations issued pursuant to this article were corrected by the department, the total amount spent by the department to correct the conditions that resulted in the violations, and the average amount spent per dwelling unit to correct such conditions;
+
+   6. A statistical profile with geographic indexing, such as by community district, council district, and/or zip code, of multiple dwellings in which violations are placed, indicating the ages and general condition of the multiple dwellings and other factors relevant to the prevalence of indoor mold hazards and pests, which may include asthma rates in the relevant community, outstanding violations, and emergency repair charges; and.
+
+   7. The number of trainings conducted for owners and building maintenance personnel on the appropriate work methods for controlling and removing indoor allergen hazards in rental housing.
+
+b. The department of health and mental hygiene shall annually prepare and publically post on the Environmental and Health Data Portal a statistical profile on asthma rates in the population, including asthma-related hospitalizations and asthma-related emergency department visits, city wide and by neighborhoods, based on the most recently available data. These data shall be utilized by the department to target intervention efforts to reduce the prevalence of asthma allergens.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27-2017.12 Waiver of benefit void.* ::
+
+
+a. No owner may seek to have an occupant of a dwelling unit waive the benefit or protection of any provision of this article. Any agreement by the occupant of a dwelling unit purporting to waive the benefit or protection of any provision of this article is void. Any owner who violates this section, or the rules promulgated hereunder, shall be guilty of a misdemeanor punishable by a fine of up to five hundred dollars or imprisonment for up to six months or both. In addition, any owner who violates this section shall be liable for a civil penalty of not more than five hundred dollars per violation.
+
+b. Notwithstanding any other provision of this article, nothing herein shall be construed to alter existing or future agreements which allocate responsibility for compliance with the provisions of this article between a tenant shareholder and a cooperative corporation or between the owner of a condominium unit and the board of managers of such condominium.
+
+c. The provisions of this article, other than section 27-2017.10, shall not apply to a dwelling unit in a multiple dwelling where (i) title to such multiple dwelling is held by a cooperative housing corporation or such dwelling unit is owned as a condominium unit, and (ii) such dwelling unit is occupied by the shareholder of record on the proprietary lease for such dwelling unit or the owner of record of such condominium unit, as is applicable, or the shareholder's or record owner's family.
+
+d. The provisions of this article shall not apply to dwelling units owned and operated by the New York city housing authority.
+
+(L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
+
+
+
+
+
+
+*§ 27-2018 Rodent and insect eradication; mandatory extermination. [Repealed]* ::
+
+
+(Repealed L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
 
 
 
@@ -2701,7 +2971,9 @@ d. Application.
 
    (2) Upon the receipt of an application for a certification of no harassment, the department shall publish notice in a publication of general circulation for a period of seven consecutive days, shall mail notice to the owner at the address provided on the application and the address provided in the last registration with the department, as well as to the owner who appears on the last deed recorded on the records of the department of finance, such occupants as the department shall identify, any community group designated by the department to survey the building, such other interested persons as the department shall identify, the local community board, city council member representing the district in which such building is situated, and appropriate government agencies, and shall post notice in a conspicuous place at the pilot program building for which the certification of no harassment is sought.
 
-   (3) The notice shall be published in English and in any other language prevalent in the district, as determined by the commissioner, and shall include a statement that such notice is available in any covered language, as defined in subdivision j of section 8-1002. Such notice shall also contain:
+   (3) The notice shall be published in English and in any other language prevalent in the district, as determined by the commissioner, and shall include a statement that such notice is available in any covered language, as defined in subdivision j of section 8-1002*. Such notice shall also contain:
+
+* Editor's note: Repealed. For current provisions, see Title 21, Chapter 1, Subchapter 1.
 
       (i) the location and general description of the pilot program building for which the certification is sought;
 
@@ -2853,7 +3125,9 @@ a. As used in this section, the following terms have the following meanings:
 
    Application form. The term "application form" means any application form or corresponding instruction materials that the department uses to select persons to whom it will provide services.
 
-   Mandatory language. The term "mandatory language" means English and any covered language, as defined by subdivision j of section 8-1002.
+   Mandatory language. The term "mandatory language" means English and any covered language, as defined by subdivision j of section 8-1002*.
+
+* Editor's note: Repealed. For current provisions, see Title 21, Chapter 1, Subchapter 1.
 
    Optional language. The term "optional language" means any language other than a mandatory language.
 
@@ -3344,9 +3618,35 @@ h. No civil or criminal liability or penalty shall attach to any person who shal
 
 (n) The provisions of subdivision d of section 27-2005 of this chapter, subdivision m of this section and subdivision b of section 27-2120 of this chapter shall not apply where a shareholder of record on a proprietary lease for a dwelling unit, the owner of record of a dwelling unit owned as a condominium, or those lawfully entitled to reside with such shareholder or record owner, resides in the dwelling unit for which the proprietary lease authorizes residency or in such condominium unit, as is applicable.
 
-(o) In any action brought by a lawful occupant or group of lawful occupants under subdivision h of this section for a violation of subdivision d of section 27-2005 of this chapter, the housing part shall, in addition to any other relief such court determines to be appropriate, award to each such occupant (i) compensatory damages or, at the election of such occupant, one thousand dollars and (ii) reasonable attorneys’ fees and costs. Such court may also, at its sole discretion, award punitive damages.
+(o)*   In any action brought by a lawful occupant or group of lawful occupants under subdivision h of this section for a violation of subdivision d of section 27-2005 of this chapter, the housing part shall, in addition to any other relief such court determines to be appropriate, award to each such occupant (i) compensatory damages or, at the election of such occupant, one thousand dollars and (ii) reasonable attorneys’ fees and costs. Such court may also, at its sole discretion, award punitive damages.
 
+* Editor's note: there are two subdivisions designates as (o) in this section.
 
+(o)*   (1) Notwithstanding any other provision of law, when the department serves a notice of violation to correct and certify a condition that constitutes a violation of article four of subchapter two of this chapter, the notice of violation shall specify the date by which the violation shall be corrected as provided in such article, and the procedure by which the owner, for good cause shown pursuant to this subdivision, may request a postponement. The notice of violation shall further specify that the violation shall be corrected in accordance with section 27-2017.8 and the rules established pursuant to section 27-2017.9, where applicable. The notice of violation shall be served by personal delivery to a person in charge of the premises or to the person last registered with the department as the owner or agent, or by registered or certified mail, return receipt requested, or by certified mail with proof of delivery, to the person in charge of the premises or to the person last registered with the department as the owner or agent; provided that where a managing agent has registered with the department, such notice of violation shall be served on the managing agent. Service of the notice of violation shall be deemed completed five days from the date of mailing. Notification, in a form to be determined by the department, of the issuance of such violation shall be sent simultaneously by regular mail to the occupant at the dwelling unit that is the subject of such notice of violation.
+
+* Editor's note: there are two subdivisions designates as (o) in this section.
+
+   (2) Notwithstanding any other provision of law, the notice of violation shall direct that the correction of each violation cited therein shall be certified to the department. Such certification shall be made in writing or electronically, under oath by the registered owner, a registered officer or director of a corporate owner or by the registered managing agent. Such certification shall include a statement that the violation was corrected in compliance with section 27-2017.8, where applicable, and the rules established pursuant to section 27-2017.9, where applicable. All certifications shall be delivered to the department and acknowledgment of receipt therefore obtained or shall be mailed to the department by certified or registered mail, return receipt requested, no later than five days after the date set for correction, or submitted electronically within five days after the date set for correction, and shall include the date when each violation was corrected. Such certification of correction shall be supported by a sworn statement saying that the violation was properly corrected by the person who performed the work if performed by an employee or agent of the owner. Notification of such certification shall be mailed to the complainant by the department not more than twelve full calendar days from the date of receipt of such certification by the department. Failure to file such certification shall establish a prima facie case that such violation has not been corrected.
+
+   (3) Whenever the department shall issue a notice of violation to correct a condition that constitutes a hazardous or immediately hazardous violation of subdivision a of section 27-2017.3 the department shall conduct a final inspection to verify that the violation has been corrected. Where the department determines that the violation has not been corrected, the department may take such enforcement action as is necessary, including performing or arranging for the performance of the work to correct the violation.
+
+   (4) Notwithstanding any other provision of law, a person making a false certification of correction of a violation issued pursuant to article four of subchapter two of this chapter, in addition to any other civil penalty, shall be subject to a civil penalty of not less than two thousand dollars nor more than ten thousand dollars for each false certification made, recoverable by the department in a civil action brought in a court of competent jurisdiction. If the person making such false certification is an employee of the owner then such owner shall be responsible for such civil penalty. In addition, any such person making a false certification of correction shall be guilty of a misdemeanor punishable by a fine of up to one thousand dollars or imprisonment for up to one year or both.
+
+   (5) Notwithstanding any other provision of law, and in addition to any penalties applicable under article three of subchapter five of this chapter, a person who violates article four of subchapter two of this chapter by failing to correct such violation in accordance with the work practices in section 27-2017.8 and in the rules established pursuant to section
+
+      (i) That the condition which constitutes the violation did not exist at the time the violation was placed; or
+
+      (ii) That he or she began to correct the condition which constitutes the violation promptly upon discovering it but that full correction could not be completed expeditiously because of serious technical difficulties, inability to obtain necessary materials, funds or labor;
+
+      (iii) That he or she was unable to gain access to the dwelling unit wherein the violation exists, or such other portion of the building as might be necessary to make the repair, provided that a postponement was granted pursuant to this subdivision; or
+
+      (iv) That he or she was unable to obtain a permit or license necessary to correct the violation, provided that diligent and prompt application was made therefore; or
+
+      (v) That the violation giving rise to the action was caused by the act of negligence, neglect or abuse of another not in the employ or subject to the direction of the owner, except that the owner shall be precluded from showing in defense or mitigation of such owner's liability for civil penalties evidence of any acts occurring, undertaken, or performed by any predecessor in title prior to the owner taking control of the premises. Where the aforesaid allegations are made by way of mitigation of penalties, the owner shall show, by competent proof, pertinent financial data and efforts made to obtain necessary materials, funds or labor or to gain access, or to obtain a permit or license and such other evidence as the court may require. If the court finds that sufficient mitigating circumstances exist, it may remit all or part of any penalties arising from the violations, but may condition such remission upon a correction of the violation within a time period fixed by the court.
+
+   (6) Notwithstanding any other provision of law, failure by the department to comply with any time period provided in this section relating to responsibilities of the department shall not render null and void any notice of violation issued by the department or the department of health and mental hygiene pursuant to such article or section, and shall not provide a basis for defense or mitigation of an owner's liability for civil penalties for violation of such article
+
+(Am. L.L. 2017/015, 2/15/2017, eff. 5/16/2017; Am. L.L. 2017/148, 8/30/2017, eff. 11/28/2017; Am. L.L. 2017/165, 8/30/2017, eff. 12/28/2017; Am. L.L. 2017/184, 10/8/2017, eff. 2/5/2018; Am. L.L. 2018/055, 1/19/2018, eff. 1/19/2019.
 
 
 
@@ -4042,7 +4342,9 @@ s. On or before February 15th of each year, the department shall prepare and sub
 
 t. Nothing in this section shall prevent the department from enforcing the provisions of this code or the multiple dwelling law pursuant to any other provision of this code, the multiple dwelling law or any other law where the department determines that additional enforcement mechanisms are necessary to do so. Nothing in this article shall be deemed to affect the duties of an owner, a tenant or the department under any other article of this code or the multiple dwelling law.
 
-u. Any notifications or information required by this section to be provided to an owner or occupant of a building shall be in English, the languages set forth in subdivision j of section 8-1002 of the administrative code of the city of New York and in such other languages as the department deems appropriate.
+u. Any notifications or information required by this section to be provided to an owner or occupant of a building shall be in English, the languages set forth in subdivision j of section 8-1002* of the administrative code of the city of New York and in such other languages as the department deems appropriate.
+
+* Editor's note: Repealed. For current provisions, see Title 21, Chapter 1, Subchapter 1.
 
 v. No later than July 31, 2012 and every two years thereafter the department shall conduct a study to evaluate the effectiveness of the alternative enforcement program. Such study shall examine, but shall not be limited to examining, the following:
 

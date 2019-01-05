@@ -859,13 +859,15 @@ c. When a new birth record is made the department shall substitute such new reco
 *§ 17-167.1 Sex designation on birth records.* ::
 
 
-a. The department shall make a new birth record when an applicant submits an application and supporting documentation pursuant to this subdivision and subdivision b of this section requesting the correction of sex designation to the applicant's birth record. Such application shall be made in a form or manner to be provided or approved by the department. If the department requests information, documentation or a copy of an acceptable current signed photographic identification, the department may not take into account the sex designation listed on such identification in reviewing such application.
+a. For the purposes of this section, "x" means a designation used to indicate a sex that is not exclusively male or female.
 
-b. An application made pursuant to subdivision a of this section shall be accompanied by supporting documentation that is an affirmation from a physician licensed to practice medicine in the United States, or an affidavit from a professional licensed to practice in the United States who is a: doctoral level psychologist (Ph.D. or Psy.D.) in clinical or counseling psychology, clinical social worker, master social worker, physician assistant, nurse practitioner, marriage and family therapist, mental health counselor or midwife. Such affirmation or affidavit shall include a declaration affirming or attesting under penalty of perjury that:
+b. The department shall make a new birth record when an applicant submits an application and supporting documentation pursuant to this subdivision and subdivision c of this section requesting the correction of sex designation to the applicant's birth record. Such application shall be made in a form or manner to be provided or approved by the department. If the department requests information, documentation or a copy of an acceptable current signed photographic identification, the department may not take into account the sex designation listed on such identification in reviewing such application.
 
-   1. the professional is licensed and in good standing in the jurisdiction in the United States in which such professional is licensed; and
+c. An application made pursuant to subdivision b of this section shall be accompanied by a signed and notarized statement from the applicant requesting that the sex designation be changed to female, male, or x in order to conform to the applicant's gender identity.
 
-   2. in keeping with contemporary expert standards regarding gender identity, the applicant's requested correction of sex designation of male or female more accurately reflects the applicant's sex or gender identity.
+d. In the event the applicant is less than 18 years old, an application made pursuant to subdivision b of this section requesting that the sex designation on the record be changed to female, male, or x to conform to the applicant's gender identity shall be made in a manner consistent with the requirements of section 207.05 of the New York city health code, or successor provision thereto.
+
+
 
 
 
@@ -943,7 +945,7 @@ b. The department shall make such college savings plan materials available on it
 
 a. Upon request the department shall issue a certified copy of the birth record or a certification of birth under the following conditions:
 
-   1. A certified copy of the record of birth shall be issued only upon order of a court of competent jurisdiction or upon a specific request therefor by the person, if eighteen years of age or more, or by a parent or to the legal representative of the person to whom the record of birth relates or by an attorney of law authorized in writing by the person if of the age of eighteen years or over to whom the record of birth relates. The department may issue a certified copy of a birth record for official use upon the request of a department, agency, or officer of any state government or subdivision thereof or the United States government.
+   1. A certified copy of the record of birth shall be issued only upon order of a court of competent jurisdiction or, if the person for whom the record of birth relates is still living, upon a specific request therefor by the person, if eighteen years of age or more, or by a parent or to the legal representative of the person to whom the record of birth relates or by an attorney of law authorized in writing by the person if of the age of eighteen years or over to whom the record of birth relates. If the person for whom the record of birth relates is deceased, the department may allow family members of that person to have access to a certified copy of the record of birth. The department may issue a certified copy of a birth record of any person for official use upon the request of a department, agency, or officer of any state government or subdivision thereof or the United States government.
 
    2. Upon request in all other cases, a certification of birth shall be issued by the department unless it does not appear to be necessary or required for a proper purpose. A certification of birth shall contain only the name, sex, date of birth and place of birth and date of filing in the department of the original certificate of birth of the person to whom it relates, and if upon request by, or on behalf of the person to whom it relates, or by a parent or legal representative of such person, the name or names of the parent or parents listed on the original certificate of birth, and none of the other data on the record of birth. Whenever a certification of birth may be issued, the department may, upon request, issue a wallet-size certification of birth, in a form and bearing a design provided by the department. Each applicant for a wallet-size certification of birth shall remit to the department with such application, a fee determined by the department.
 
@@ -952,6 +954,8 @@ b. A transcript of a record of fetal death, or death, upon such forms as the dep
 c. The United States department of health and human services may obtain, without expense to the city, transcripts of records of birth, fetal deaths and deaths without payment of fees here prescribed for use solely as statistical data. Any copy of the record of a birth, fetal death, or death, or any certificate of registration of birth, or certification of birth, when properly certified by the commissioner or persons authorized to act for such commissioner, shall be prima facie evidence of the facts therein stated, in all courts, and places, and in all actions, proceedings or applications, judicial, administrative or otherwise, and any such certificate of registration of birth or certification of birth shall be accepted with the same force and effect with respect to the facts therein stated as the original birth record or a certified copy thereof.
 
 d. Notwithstanding any other provision of law, any person born in the city of New York being released from a New York state correctional facility shall, prior to release, be provided by the department, at no cost to such person, a certified copy of his or her birth certificate to be used for any lawful purpose; provided that such person has requested a copy of his or her birth certificate at least ninety days prior to his or her release, from the (a) department, or (b) New York state department of correctional services and the New York state department of correctional services has submitted such request to the department. No person shall receive more than one birth certificate without charge pursuant to this subdivision.
+
+
 
 
 
@@ -2159,9 +2163,11 @@ d. The department shall report to the council and mayor no later than 24 months 
 *§ 17-199.7 Education about indoor allergen hazards.* ::
 
 
-The department shall develop a pamphlet which shall be in English and in the covered languages set forth in section 8-1002, explaining the hazards associated with indoor allergens and describing tenant rights and owner responsibilities under this law, including safe work practices and mechanisms through which the public may report indoor allergen hazards in the home. Such pamphlet shall be made available in accordance with section 27-2017.6. Such pamphlet shall also be made available to any member of the public upon request. The department shall also develop a training curriculum for educating owners and building maintenance personnel on the appropriate work methods for controlling and removing indoor allergen hazards in rental housing, including integrated pest management. Such training curriculum shall also be made available to any member of the public upon request.
+The department shall develop a pamphlet which shall be in English and in the covered languages set forth in section 8-1002*, explaining the hazards associated with indoor allergens and describing tenant rights and owner responsibilities under this law, including safe work practices and mechanisms through which the public may report indoor allergen hazards in the home. Such pamphlet shall be made available in accordance with section 27-2017.6. Such pamphlet shall also be made available to any member of the public upon request. The department shall also develop a training curriculum for educating owners and building maintenance personnel on the appropriate work methods for controlling and removing indoor allergen hazards in rental housing, including integrated pest management. Such training curriculum shall also be made available to any member of the public upon request.
 
 
+
+* Editor's note: Repealed. For current provisions, see Title 21, Chapter 1, Subchapter 1.
 
 
 
@@ -6299,7 +6305,9 @@ d. The department shall publish an informational pamphlet which shall, at a mini
 
    3. Describe the inspection process and the registration, licensing and permitting processes for child care programs.
 
-4. Advise parents seeking child care programs to ask child care program providers to see the program's current license, registration or permit and not to enroll a child in any program that does not have a current registration, license or permit or has a current suspension of its registration, license or permit. The informational pamphlet required by this section shall be translated into all covered languages as defined in § 8-1002 of the administrative code of the city of New York. Copies of the pamphlet shall be provided to all referral agencies.
+4. Advise parents seeking child care programs to ask child care program providers to see the program's current license, registration or permit and not to enroll a child in any program that does not have a current registration, license or permit or has a current suspension of its registration, license or permit. The informational pamphlet required by this section shall be translated into all covered languages as defined in § 8-1002* of the administrative code of the city of New York. Copies of the pamphlet shall be provided to all referral agencies.
+
+* Editor's note: Repealed. For current provisions, see Title 21, Chapter 1, Subchapter 1.
 
 
 

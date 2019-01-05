@@ -1686,11 +1686,13 @@ h. Notwithstanding any other provision of law, no vehicle bearing an annual on-s
 *§ 19-163 Holiday suspensions of parking rules.* ::
 
 
-a. All alternate side of the street parking rules shall be suspended on the following holidays: Christmas, Yom Kippur, Rosh Hashanah, Ash Wednesday, Holy Thursday, Good Friday, Ascension Thursday, Feast of the Assumption, Feast of All Saints, Feast of the Immaculate Conception, first two days of Succoth, Shemini Atzareth, Simchas Torah, Shevuoth, Purim, Orthodox Holy Thursday, Orthodox Good Friday, first two and last two days of Passover, the Muslim holidays of Eid Ul-Fitr and Eid Ul-Adha, Asian Lunar New Year, the Hindu festival of Diwali on the day that Lakshmi Puja is observed, and all state and national holidays.
+a. All alternate side of the street parking rules shall be suspended on the following holidays: Christmas, Yom Kippur, Rosh Hashanah, Ash Wednesday, Holy Thursday, Good Friday, Ascension Thursday, Feast of the Assumption, Feast of All Saints, Feast of the Immaculate Conception, first two days of Succoth, Shemini Atzareth, Simchas Torah, Shevuoth, Purim, Orthodox Holy Thursday, Orthodox Good Friday, first two and last two days of Passover, the Muslim holidays of Eid Ul-Fitr and Eid Ul-Adha, the day before Lunar New Year, Lunar New Year, the Hindu festival of Diwali on the day that Lakshmi Puja is observed, Three Kings’ Day, and all state and national holidays.
 
 b. Each year, as soon as possible after the days of observance of the Muslim holidays of Eid Ul-Fitr and Eid Ul-Adha have been fixed pursuant to religious law and tradition, the commissioner shall designate the three days applicable to each of the aforementioned holidays as days upon which alternate side of the street parking rules shall be suspended.
 
-c. The date of the Asian Lunar New Year shall be the first day of the second lunar month after the winter solstice in the preceding calendar year.
+c. The date of the Lunar New Year shall be the first day of the second lunar month after the winter solstice in the preceding calendar year.
+
+
 
 
 

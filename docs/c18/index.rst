@@ -1214,7 +1214,7 @@ Annual membership fees for each recreation center under the jurisdiction of the 
 
 
 
-*§ 18-150 Defibrillators at youth baseball games and practices in parks.* ::
+*§ 18-150 Defibrillators at youth baseball games and youth softball games and practices in parks.* ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -1229,15 +1229,15 @@ a. Definitions. As used in this section, the following terms have the following 
 
    Youth recreation. The term "youth recreation" means athletic activity with participants who are all 17 years old or younger, but includes grade school through high school athletic programs regardless of the age of the participants.
 
-b. Subject to the provision of a sufficient number of automated external defibrillators and training courses by the department pursuant to subdivision c, a youth league using a ballfield under the jurisdiction and management of the department to play or practice baseball shall:
+b. Subject to the provision of a sufficient number of automated external defibrillators and training courses by the department pursuant to subdivision c, a youth league using a ballfield under the jurisdiction and management of the department to play or practice baseball or softball shall:
 
-   1. make available an automated external defibrillator at every baseball game and practice in which any team in such league participates; and
+   1. make available an automated external defibrillator at every baseball or softball game and practice in which any team in such league participates; and
 
    2. where practicable, ensure that there is at least one coach, umpire or other qualified adult who is present at each such game and practice who has successfully completed a training course within 24 months of every such game and practice.
 
 c. The department shall provide to youth leagues subject to the requirements of subdivision b a sufficient number of automated external defibrillators and training courses at no cost to such leagues. Any defibrillator provided by the department to such a league shall be returned in satisfactory condition upon request of the department.
 
-d. The department shall not issue a permit to a youth league for the use of a ballfield under its jurisdiction and management to play baseball unless, for the duration of the season for which the permit is sought, such league certifies that it will comply with subdivision b.
+d. The department shall not issue a permit to a youth league for the use of a ballfield under its jurisdiction and management to play baseball or softball unless, for the duration of the season for which the permit is sought, such league certifies that it will comply with subdivision b.
 
 e. Each league shall maintain records that it possesses a sufficient number of automated external defibrillators to meet the requirements of subdivision b for three years from the date such league receives the permit that was the subject of the application.
 

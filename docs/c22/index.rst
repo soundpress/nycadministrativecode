@@ -2744,6 +2744,62 @@ c. Bullying awareness and prevention resources. The bullying awareness and preve
 
 
 
+
+
+*§ 21-413 Runaway and homeless youth immigration information plan.* ::
+
+
+a. Plan establishment, content, and goals.
+
+   1. Establishment. The department shall establish a plan to provide information about resources and services relating to immigration relief and benefits through runaway and homeless youth services. Such information shall include a statement that immigration relief may be available to runaway and homeless youth who have been subjected to factors including, but not limited to, the following, and subject to applicable law:
+
+      (a) Domestic violence, dating violence, sexual assault, and stalking;
+
+      (b) Trafficking or certain other crimes;
+
+      (c) Hostile conditions in one’s country of origin, such as war, political unrest, or natural disaster;
+
+      (d) Persecution or a fear of persecution in one’s country of origin as a result of race, religion, nationality, political opinion, or membership in a particular social group including, but not limited to, identification based on sexual orientation, gender, gender identity, or sex;
+
+      (e) Abandonment, abuse, or neglect by one or both parents of a youth; and
+
+      (f) Any other similar factor that, under applicable law, may provide the basis for immigration relief for runaway and homeless youth.
+
+   2. Plan contents. The plan established pursuant to paragraph 1 of this subdivision shall include the following:
+
+      (a) Descriptions of how the department, in coordination with other agencies as designated by the mayor, shall make available through runaway and homeless youth services information and referral resources for legal assistance related to immigration relief or immigration-related benefits, including information about applicable age limits or deadlines associated with such relief or benefits;
+
+      (b) Schedules of training sessions for staff of runaway and homeless youth services, as required by subparagraph (c) of paragraph 3 of this subdivision; and
+
+      (c) Identification of informational materials to be made available to runaway and homeless youth through runaway and homeless youth services.
+
+   3. Goals. The plan established pursuant to paragraph 1 of this subdivision shall describe strategies for how the department and runaway and homeless youth services will achieve the following goals:
+
+      (a) Informing as many runaway and homeless youth as practicable about the availability of immigration services and resources, including immigration-related legal services, in the covered languages identified in section 23-1101;
+
+      (b) Ensuring that the information provided to runaway and homeless youth about available resources for immigration relief or immigration-related benefits is current and accurate, including information about age limits or deadlines applicable to obtaining such relief or benefits, if any;
+
+      (c) Establishing mandatory trainings for staff of runaway and homeless youth services about providing information and referral resources to organizations that provide assistance related to immigration relief or immigration-related benefits, including how to confidentially respond to requests for such referral resources; and
+
+      (d) Assisting in a culturally appropriate manner runaway and homeless youth who identify as lesbian, gay, bisexual, transgender, or questioning, who are in need of information about immigration relief or immigration-related benefits.
+
+b. Plan due date. The department shall submit to the mayor and the speaker of the city council, and post on its website, the plan required by subdivision a of this section on or before June 1, 2019.
+
+c. Reporting. No later than June 1, 2020, and annually thereafter, the department shall post on its website and submit to the mayor and the speaker of the city council a report containing indicators of the department’s activities in connection with the goals of the plan required by subdivision a of this section, including but not limited to:
+
+   1. A summary of programs, procedures, memoranda, or training materials relating to the implementation and goals of the plan required by subdivision a of this section;
+
+   2. The number of mandatory trainings conducted for staff of runaway and homeless youth services in accordance with subparagraph (c) of paragraph 3 of subdivision a of this section; and
+
+   3. The total number of runaway and homeless youth informed of available legal resources for immigration relief or immigration-related benefits.
+
+d. Confidentiality. For purposes of this subdivision, any identifying information collected by runaway and homeless youth services and the department shall only be used, disclosed, and retained for the purposes set forth in this section, in accordance with applicable federal, state, and local laws, regulations, and city and agency policies relating to the privacy and confidentiality of such information. “Identifying information” has the same meaning as set forth in section 23-1201. Information received by runaway and homeless youth services and the department shall be submitted anonymously, and such information shall be maintained on an anonymous basis to the extent permitted or required by law.
+
+
+
+
+
+
 Chapter 5: Work Experience Program Grievance Procedure*
 --------------------------------------------------
 
