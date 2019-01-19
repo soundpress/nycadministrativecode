@@ -1317,3 +1317,30 @@ b. No later than November 1, 2019, and annually thereafter no later than Novembe
 
 
 
+Chapter 25: Reporting on Spending Allocations
+--------------------------------------------------
+
+
+
+*§ 21-992 Reporting on spending allocations.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Fair student funding formula. The term “fair student funding formula” means the formula used to determine each school’s funding allocation under the department’s fair student funding policy or any successor policy.
+
+   School. The term "school" means a school of the city school district of the city of New York.
+
+b. Beginning on September 30, 2019, and annually thereafter, the department shall submit to the speaker of the council and post conspicuously on the department’s website a single report covering the prior school year that shall include:
+
+   1. All school-level budget allocations for each school; and
+
+   2. The calculated fair student funding formula for each school, and the percentage of such calculated fair student funding formula result that each school is actually allocated.
+
+c. The information contained in the report required by this section shall be in a searchable, sortable, and machine-readable format.
+
+
+
+
+
+
