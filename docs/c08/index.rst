@@ -819,15 +819,25 @@ f. Upon admission to the custody of the department, each inmate shall also be of
 *§ 9-140 Jail visitation statistics.* ::
 
 
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
+a. Definitions. For the purposes of this section, the following terms have the following meanings: 
 
-   Borough jail facility. The term "borough jail facility" means any department facility in which inmates are housed by the department and that is located outside Rikers Island.
+   Borough jail facility. The term "borough jail facility" means any department facility in which incarcerated individuals are housed by the department and that is located outside Rikers Island. 
 
-   City jail. The term "city jail" means any department facility in which inmates are housed by the department.
+   City jail. The term "city jail" means any department facility in which incarcerated individuals are housed by the department. 
 
-   Professional. The term "professional" means a person who is properly identified as providing services or assistance to inmates, including lawyers, doctors, religious advisors, public officials, therapists, counselors, and media representatives.
+   Complaint. The term "complaint" means a report made to the department or received by the department from any other city entity regarding an alleged act of sexual abuse, sexual harassment, or intervention against a visitor, including reports made on behalf of another person. 
 
-   Visitor. The term "visitor" means any person who enters a city jail with the stated intention of visiting an inmate at any city jail, or any person who is screened by the department for visitation purposes, including but not limited to professionals and any person who registers to visit an inmate in the department's visitor tracking system. 
+   Intervention. The term "intervention" means an incident in which staff use their hands or other parts of their body, or other physical method to restrain, subdue, or compel a visitor to act or stop acting in a particular way. 
+
+   Professional. The term "professional" refers to people who are properly identified as providing services or assistance to incarcerated individuals, including but not limited to lawyers, doctors, religious advisors, public officials, therapists, counselors, and media representatives. 
+
+   Sexual abuse. The term "sexual abuse" includes any of the following acts against a visitor, performed by staff with or without consent of the visitor, including when such acts occur during the course of an otherwise authorized search procedure: (1) contact between the penis and the vulva or the penis and the anus, including but not limited to penetration, however slight; (2) contact between the mouth and the penis, vulva, or anus; (3) contact between the mouth and any body part where the staff has the intent to abuse, humiliate, arouse, or gratify sexual desire; (4) penetration of the anal or genital opening, however slight, by a hand, finger, object, or other instrument; (5) any other intentional contact, either directly or through clothing, of or with the genitalia, anus, groin, breast, inner thigh, or the buttocks where the staff has the intent to abuse, arouse, or gratify sexual desire; and (6) any attempt to engage in the activities described in paragraphs (1) through (5) of this definition. 
+
+   Sexual harassment. The term "sexual harassment" means acts conducted by staff on visitors, including (1) any unwelcome sexual advances, requests for sexual favors, or verbal comments, gestures, or actions of a derogatory or offensive sexual nature; and (2) any verbal comments or gestures of a sexual nature, including demeaning references to gender, sexual orientation, sexually suggestive or derogatory comments about body or clothing, or obscene language or gestures. 
+
+   Staff. The term "staff" means anyone other than an incarcerated individual who is directly employed by the department. 
+
+   Visitor. The term "visitor" means any person who enters a city jail with the stated intention of visiting an incarcerated individual at any city jail, or any person who is screened by the department for visitation purposes, including but not limited to professionals and any person who registers to visit an incarcerated individual in the department's visitor tracking system. 
 
 b. The commissioner shall post on the department website on a quarterly basis, within 30 days of the beginning of each quarter, a report containing information pertaining to the visitation of the inmate population in city jails for the prior quarter. Such quarterly report shall include the following information in total and disaggregated by whether the visitor is a professional, and also disaggregated by the type of services the professional provides:
 
@@ -843,7 +853,53 @@ b. The commissioner shall post on the department website on a quarterly basis, w
 
    6. The Rikers Island visitation rate, which shall be calculated by dividing the average daily number of visitors who visited inmates at city jails on Rikers Island during the reporting period by the average daily inmate population of city jails on Rikers Island during the reporting period.
 
-c. The commissioner shall post a report containing the information in subdivision b of this section for the four quarters prior to January 1, 2016, to the extent that such information is available.
+c. Within 90 days of July 1, 2019, and every six months thereafter, the department shall submit to the speaker of the council and the board of correction a report of alleged incidents of sexual abuse, sexual harassment and interventions against visitors by staff that occurred during the preceding six month period for which an investigation lasted longer than 90 days, provided that the information required in paragraphs 7 through 16 need not be included in such reports until the report due within 90 days of July 1, 2021. The information required by this subdivision shall be reported in a format capable of automatic processing. Such report shall include the following information for each allegation of sexual abuse, sexual harassment and intervention:
+
+   1. The date on which the incident occurred and whether the incident took place between the times of 7:00 AM and 3:00 PM, 3:00 PM and 11:00 PM, or 11:00PM and 7:00 AM;
+
+   2. Whether the incident occurred at Rikers Island or at a borough facility, and at which facility the incident occurred;
+
+   3. The method by which the incident was reported and the date of reporting;
+
+   4. Whether the alleged perpetrator completed staff training pursuant to subdivision f, and the last date such training was received;
+
+   5. The gender of the alleged victim;
+
+   6. Whether the alleged victim at the time of the incident was between the ages of 18-25, 26-35, 36-40, 41-60, over 60, or under 18;
+
+   7. Whether the alleged victim claimed that the perpetrator of the sexual abuse, sexual harassment or intervention intentionally selected  them in whole or in part because of a belief or perception regarding the alleged victim’s gender or sexual orientation, regardless of whether such belief or perception was correct;
+
+   8. Whether the alleged victim claimed that the perpetrator of the sexual abuse, sexual harassment or intervention intentionally committed the act in whole or in part because of a belief regarding the victim’s gender or sexual orientation, regardless of whether such belief or perception was correct;
+
+   9. For interventions, whether emergency medical services was called; 
+
+   10. The gender of the staff alleged to have engaged in sexual abuse, sexual harassment or an intervention against a visitor; 
+
+   11. Whether the incident occurred in a restroom, a visitor’s waiting area, or another location;
+
+   12. Whether the alleged victim is known to identify as transgender or intersex;
+
+   13. Whether the alleged victim is known to identify as lesbian, gay or bi-sexual;
+
+   14. The type of acts of sexual abuse or harassment as defined in subdivision a of this section;
+
+   15. For allegations of sexual abuse and harassment, whether such allegation consists of conduct consistent with the definition of sexual abuse or harassment under section 115.6 of title 28 of the code of federal regulations and any successor regulation; and
+
+   16. Whether the incident occurred during the course of an otherwise authorized search of the visitor.
+
+d. Within 90 days of July 1, 2019, and every six months thereafter, the department shall report to the speaker of the council and the board of correction a report of investigations of sexual abuse, sexual harassment and intervention against visitors by staff that were concluded during the preceding six-month period. Such report shall include the information set forth in paragraphs 1 through 16 of subdivision c of this section for each such concluded investigation of sexual abuse, sexual harassment and intervention; provided, however, that the information required in paragraphs 6 through 16 of subdivision c need not be included in such reports until the report due within 90 days of July 1, 2021. The information required by this subdivision shall be reported in a format capable of automatic processing. Reports made pursuant to this subdivision shall also include the following information for each such investigation:
+
+   1. Whether the department determined that the allegation was substantiated, unsubstantiated, or unfounded, and the date when such a determination was made; and
+
+   2. For substantiated allegations, whether the staff accused of sexual abuse, sexual harassment or intervention against a visitor resigned, retired, was suspended, placed on modified duty, placed on administrative leave or administered any other form of discipline, and whether criminal charges were brought.
+
+e. Within 90 days of July 1, 2019, and every six months thereafter, the department shall submit to the council and post on its website the information required in subdivisions c and d of this section in the aggregate, including the number and percentage of each data point, provided that such information that cannot be aggregated need not be included in such report. Such reports shall include the number of cases pending for over 90 days. Such reports shall be stored on the department’s website for at least ten years.
+
+f. The department shall implement annual training regarding the treatment of visitors for staff who interact regularly with visitors. The department shall issue reports on such trainings, including descriptions of the training materials and the number of staff who have received the training. Such reports shall be submitted to the speaker of the council, the board of correction and posted on the department’s website within 30 days of January 1 of each year.
+
+g. The department shall ensure that all data collected pursuant to this section is securely retained, and shall retain such data indefinitely after the date of initial collection unless federal or state law requires otherwise.
+
+h. The department shall report the information required pursuant to this subdivision notwithstanding any other provision of local law. Before making data collected pursuant to this section available to the speaker of the council, board of correction, and the public, the department shall remove an individual’s name, all personal identifying information as defined by subdivision (a) of section 10-501, and any other information the disclosure of which would violate any federal or state laws.
 
 
 
@@ -1306,6 +1362,124 @@ d. The information required by subdivisions b and c of this section shall be com
 
 
 Editor's note: Section 2 of L.L. 2018/164 provides: "This local law takes effect immediately, except the reporting required pursuant to paragraphs 6 through 10 of subdivision b of section 9-155 of the administrative code of the city of New York shall be due no later than sixty days following the end of the quarter beginning July 1, 2019."
+
+
+
+
+
+
+*§ 9-156 Sexual abuse reporting.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Correctional health authority. The term “correctional health authority” means the entity responsible for the delivery of health and mental health services to inmates in the custody of the department.
+
+   Facility investigation. The term "facility investigation" means any investigation of an incident conducted by staff within a departmental facility but does not include an investigation conducted by the investigation division.
+
+   Gender non-conforming. The term “gender non-conforming” describes a person who presents in a way that does not conform with traditional gender expectations.
+
+   Investigation division. The term "investigation division" means any departmental unit responsible for investigating allegations of staff misconduct.
+
+   Non-binary. The term “non-binary” describes a person who does not identify as male or female.
+
+   Sexual abuse. The term “sexual abuse” includes sexual abuse of an incarcerated individual by staff or sexual abuse by an incarcerated individual.
+
+   Sexual abuse by staff of an incarcerated individual. The term “sexual abuse by staff” includes any of the following acts conducted by staff, with or without consent of the incarcerated individual, including when such acts occur during the course of an otherwise authorized search procedure: (1) contact between the penis and the vulva or the penis and the anus, including penetration, however slight; (2) contact between the mouth and the penis, vulva, or anus; (3) contact between the mouth and any body part where the staff member has the intent to abuse, arouse, or gratify sexual desire; (4) penetration of the anal or genital opening, however slight, by a hand, finger, object, or other instrument; (5) any other intentional contact, either directly or through the clothing, of or with the genitalia, anus, groin, breast, inner thigh, or the buttocks where the staff member has the intent to abuse, arouse, or gratify sexual desire; and (6) any attempt to engage in the acts described in paragraphs (1) through (5) of this definition.
+
+   Sexual abuse by an incarcerated individual. The term “sexual abuse by an incarcerated individual” includes any of the following acts if the victim and perpetrator are both incarcerated individuals, and if the victim does not consent, is coerced into such act by overt or implied threats of violence, or is unable to consent or refuse: (1) contact between the penis and the vulva or the penis and the anus, including penetration, however slight; (2) contact between the mouth and the penis, vulva, or anus; (3)   penetration of the anal or genital opening of another person, however slight, by a hand, finger, object, or other instrument; and (4) any other intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or the buttocks of another person, excluding contact incidental to a physical altercation.
+
+   Sexual harassment.  The term “sexual harassment” includes (1) any unwelcome sexual advances, requests for sexual favors, or verbal comments, gestures, or actions of a derogatory or offensive sexual nature; and (2) any verbal comments or gestures of a sexual nature, including demeaning references to gender, sexually suggestive or derogatory comments about body or clothing, or obscene language or gestures.
+
+   Staff. The term “staff” means an employee who works directly for the department.
+
+b. Within 90 days of July 1, 2019 and every six months thereafter, the department shall provide to the speaker of the council and the board of correction a report of alleged incidents of sexual abuse and sexual harassment for which an investigation lasted longer than 90 days that occurred during the preceding six-month period, provided that the information required in paragraphs 14 through 25 of this subdivision need not be included in such reports until the report due within 90 days of July 1, 2021. All data shall be reported in a format capable of automated processing. Such report shall include the following information for each allegation of sexual abuse and sexual harassment:
+
+   1. The date on which the incident occurred and whether the incident took place between the times of 7:00 AM and 3:00 PM, 3:00 PM and 11:00 PM, and 11:00PM and 7:00 AM;
+
+   2. Whether the allegation is of sexual abuse or sexual harassment as defined in subdivision a of this section;
+
+   3. The date the incident was reported and an investigation was opened;
+
+   4. The gender of the alleged victim;
+
+   5. Whether the alleged victim at the time of the incident was between the ages of 18-25, 26-35, 36-40, 41-60, over 60, or under 18 when such individuals are in department custody;
+
+   6. The race and ethnic origin of the alleged victim;
+
+   7. Whether the alleged victim had been in custody for more than 24 hours and who, during such confinement, received treatment for a mental illness, not including incarcerated individuals seen by mental health staff on no more than two occasions during their confinement and assessed on the latter of those occasions as having no need for further treatment in any city correctional facility or upon their release from any such facility;
+
+   8. The gender of the alleged perpetrator;
+
+   9. Whether the alleged perpetrator was an incarcerated individual or staff;
+
+   10. If the alleged perpetrator was staff, the number of previous allegations against the staff that were substantiated and the outcome of each investigation;
+
+   11. If the alleged perpetrator was staff, the number of previous allegations against such staff that were unsubstantiated;
+
+   12. If the alleged perpetrator was staff, the number of previous allegations against such staff which are still pending;
+
+   13. The facility in which the incident occurred;
+
+   14. Whether the incident occurred in a service area or housing area;
+
+   15. If the incident occurred in a housing area, the housing area type; 
+
+   16. Whether video camera surveillance recorded the incident;
+
+   17. The type of sexual abuse or harassment as defined in subdivision a of this section;
+
+   18. Whether the alleged victim is known to identify as transgender or intersex;
+
+   19. Whether the alleged victim is known to identify as non-binary or gender non-conforming;
+
+   20. Whether the alleged victim is known to identify as lesbian, gay or bi-sexual;
+
+   21. Whether DNA or any other physical evidence was obtained;
+
+   22. Whether a rape kit was administered, declined or not applicable;
+
+   23. If a rape kit was deemed not applicable, whether that determination was the result of a delay in reporting, due to the type of abuse alleged to have occurred, or any other reason;
+
+   24. Whether a sexual assault nurse examiner or sexual assault response team was present during the administration of a rape kit; and
+
+   25. Whether the case was referred to the department of investigation, the date of such referral, and whether the department of investigation referred it back to the department of correction to investigate.
+
+c. Within 90 days of July 1, 2019, and every six months thereafter, the department shall report to the council and the board of correction a report of investigations of allegations of sexual abuse and sexual harassment that concluded during the preceding six-month period, provided that the information required in paragraphs 14 through 25 of subdivision b and paragraphs 8 through 11 of this subdivision need not be included in such reports until the report due within 90 days of July 1, 2021. All data shall be reported in a format capable of automated processing. Such report shall include the following information in addition to the information in paragraphs 1 through 25 of subdivision b of this section:
+
+   1. The date the investigation was opened and closed;
+
+   2. Whether the department determined that the incident was substantiated, unsubstantiated, or unfounded;
+
+   3. Whether the allegation was referred to a district attorney’s office and whether that district attorney’s office declined to prosecute, and whether the alleged perpetrator was convicted during the reporting period;
+
+   4. Whether the investigation was conducted by the facility or by the investigation division;
+
+   5. Where an investigation was referred to the investigation division, the reason for such referral;
+
+   6. Whether the investigation was referred back from the investigative division to the department facility and the reason for such referral;
+
+   7. Whether the alleged victim was notified regarding the outcome of the investigation;
+
+   8. Whether the alleged victim was referred to trauma or rape crisis services following the incident and if the victim accepted or declined such services while in custody;
+
+   9. Whether the alleged perpetrator and alleged victim were separated from physical contact during pendency of the investigation;
+
+   10. For substantiated allegations, if the perpetrator was a staff person, whether during the pendency of the investigation such staff person resigned, was suspended, placed on modified duty, assigned to a post without contact with incarcerated individuals, assigned to a post with restricted contact with incarcerated individuals, placed on administrative leave, or administered any other form of discipline;
+
+   11. For substantiated allegations, whether the allegation was referred for disciplinary action, including whether the department declined to file disciplinary charges, or if disciplinary charges were filed, the outcome of such disciplinary proceeding and whether the alleged staff perpetrator resigned or retired in lieu of charges or as part of a negotiated plea.
+
+d. Within 90 days of July 1, 2019, and every six months thereafter, the department shall post on its website the information required in subdivisions b and c of this section in the aggregate, including the number and percentage of each data point, provided that such information that cannot be aggregated need not be included in such report. Such aggregated reports shall include the number of cases pending for over 90 days. Such reports shall be stored on the department’s website for at least ten years.
+
+e. Unless otherwise precluded by law, the correctional health authority shall assist the department in collecting the data enumerated in subdivisions b and c of this section.
+
+f. The department shall review this incident data in order to assess and improve the effectiveness of its sexual abuse and sexual harassment prevention, detection, and response policies, practices, and training by identifying problem areas and trends, taking corrective action on an ongoing basis and providing a semiannual assessment report to the council on its findings and corrective actions for each facility, as well as the department as a whole. Such semiannual assessment report shall also review the need for policy and practice changes, assess whether vulnerable populations are particularly at risk and review whether staffing levels are adequate, whether investigation practices need to be revised and whether monitoring technology needs to be deployed or improved. Such semiannual assessment report shall include a comparison of the current six months’ data and corrective actions with those from the prior six months and shall provide an assessment of the department’s progress in addressing sexual abuse and sexual harassment. Such a report shall be provided to the public and to the speaker of the council within 90 days following the end of each reporting period starting on July 1, 2019 and every six months thereafter.
+
+g. The department shall ensure that all data collected pursuant to this section is securely retained, and shall retain such data indefinitely after the date of the initial collection unless federal or state law requires otherwise.
+
+h. The department shall report the information required pursuant to this subdivision notwithstanding any other provision of local law. Before making data collected pursuant to this section available to the speaker of the council, board of correction, and the public, the department shall remove an individual’s name, all personal identifying information as defined by subdivision (a) of section 10-501, and any other information the disclosure of which would violate any federal or state laws.
+
+
 
 
 

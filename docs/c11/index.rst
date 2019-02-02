@@ -1007,7 +1007,71 @@ b. The department of citywide administrative services shall make available to ag
 
 
 
-*§ 12-208 Availability of diapers and baby wipes.* ::
+*§ 12-208 Pay and employment equity data.** ::
+
+
+a. Definitions. As used in this section, the term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
+
+b. No later than November 30, 2019, and on or before November 30 annually thereafter, each agency, to the extent the department of citywide administrative services does not already have such information, shall provide to the department of citywide administrative services information relevant to pay and employment equity.  Such information for each current and former employee within such agency shall be as of the date of hire and shall, to the extent such information is available, include:
+
+   1. Agency;
+
+   2. Start date;
+
+   3. Civil service title;
+
+   4. Salary range for such title;
+
+   5. Business title;
+
+   6. Title classification (title description);
+
+   7. Job category;
+
+   8. Career level;
+
+   9. Base salary;
+
+   10. The department of citywide administrative services occupational group code and group name;
+
+   11. Whether such employee is a managerial or supervisory employee;
+
+   12. Minimum number of years of work experience required for such position;
+
+   13. Number of years of work experience of such employee;
+
+   14. Highest level of education attained by such employee;
+
+   15. Gender;
+
+   16. Racial group;
+
+   17. Ethnicity;
+
+   18. Date of birth;
+
+   19. Whether such employee is a provisional employee;
+
+   20. Whether such employee is full-time, part-time or seasonal;
+
+   21. Change in personnel status, including but not limited to, appointed, deceased, decrease, demoted, dismissed, increase, promoted, resigned, retired, terminated and transfer; and
+
+   22. Whether such employee was previously employed by the city of New York.
+
+c. No later than 90 days following receipt of the data collected pursuant to subdivision b of this section, the department of citywide administrative services shall provide such data to the office of data analytics.
+
+d. All agencies shall cooperate with the department as may be necessary and proper to ensure compliance with this subdivision. The department may request from any agency, including the office of payroll administration and financial information services agency, information it deems necessary to enable it to properly carry out its functions.
+
+e. The commissioner may promulgate such rules as are necessary to carry out the provisions of this section.
+
+
+
+
+
+
+
+
+*§ 12-208 Availability of diapers and baby wipes.** ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
