@@ -1344,3 +1344,186 @@ c. The information contained in the report required by this section shall be in 
 
 
 
+Chapter 26: Office of Pupil Transportation Reports
+--------------------------------------------------
+
+
+
+*§ 21-993 Reporting on school bus transportation services.* ::
+
+
+a. Definitions. For the purposes of this chapter, the following terms have the following meanings:
+
+   General education school bus route. The term “general education school bus route” means a school bus route for buses transporting solely school age students who do not have education plans designating specific requirements for their transportation.
+
+   Pre-kindergarten and early intervention students. The term “pre-kindergarten and early intervention students” means children who participate in pre-kindergarten programs, early intervention programs pursuant to their individualized education programs or individualized family service plans, and any other students under the age of five who may be eligible for school bus transportation services.
+
+   Pre-kindergarten and early intervention programs. The term “pre-kindergarten and early intervention programs” means pre-kindergarten, early intervention programs attended by children whose individualized education program or individualized family service plans specify attendance at such programs, and any other early childhood programs for students under the age of five who may be eligible for school bus transportation services.
+
+   Pre-k vendor. The term “pre-k vendor” means a company providing transportation services to pre-kindergarten students, early intervention program students, and any other students under the age of five who may be eligible for school bus transportation services, pursuant to contracts with the department.
+
+   Reporting period. The term “reporting period” means the preceding January 1 through June 30 for a report due on October 31, and the preceding July 1 through December 31 for a report due on April 30.
+
+   School age student. The term “school age student” means a student in kindergarten through grade 12.
+
+   School bus route. The term “school bus route” means any route traveled by a vehicle transporting a school age student to and from a transportation site pursuant to a contract with the department.
+
+   School bus transportation services. The term “school bus transportation services” means the transportation of students on school buses pursuant to a contract with the department.
+
+   School bus vendor. The term “school bus vendor” means a company providing school bus transportation services to school age students pursuant to one or more contracts with the department.
+
+   Special education school bus route. The term “special education school bus route” means a school bus route for buses transporting school age students with disabilities whose individualized education programs designate specific requirements for their transportation, which buses may also transport children who have disabilities but do not have education plans designating special transportation requirements or non-disabled children.
+
+   Students in temporary housing. The term “students in temporary housing” has the same meaning as that of the term “homeless children and youths” as defined in subsection 2 of section 11434a of title 42 of the United States code, provided that such individuals are enrolled in a school.
+
+   Transportation site. The term “transportation site” means any location to which the department provides school bus transportation services, including but not limited to public schools, nonpublic schools, charter schools, an office or other site that may be part of a special education plan, a student’s home pickup site, and a student’s home drop-off site.
+
+b. Beginning October 31, 2019, and on or before each April 30 and October 31 thereafter, the department shall submit to the speaker of the council and post on the department's website a report for the relevant reporting period, including:
+
+   1. The school bus vendors providing school bus transportation services, disaggregated by the number of school bus routes assigned to such vendor, and the number of students transported by each vendor and further disaggregated by students who are transported on special education school bus routes and students who are transported on general education school bus routes;
+
+   2. The total number of vehicles owned or ready to be used by each school bus vendor, disaggregated by vehicles for general education school bus routes and vehicles for special education school bus routes;
+
+   3. The total number of employees known to the department employed by each school bus vendor, disaggregated by type, including but not limited to drivers, attendants, and other;
+
+   4. The total number of school bus routes, disaggregated by school bus vendor, and further disaggregated by general education school bus routes and special education school bus routes;
+
+   5. The total number of transportation sites to or from which school age students are transported, disaggregated by type, borough, and sites outside of the city school district of the city of New York;
+
+   6. The total number of school age students for whom the department provided transportation, disaggregated by school bus transportation services and passes for public transportation, and further disaggregated by type of student, which shall include but not be limited to, students who are transported on special education school bus routes, students who are transported on general education school bus routes, students in temporary housing, disaggregated by students living in shelter and students living in any other location if available, students in foster care, grade level, public school students, and nonpublic school students;
+
+   7. The total number of students in foster care that applied to the department for transportation;
+
+   8. The total number of pre-k vendors providing transportation services, disaggregated by the number of students transported by each vendor and further disaggregated by the type of program attended by such students if known to the department, including but not limited to prekindergarten programs and early intervention programs;
+
+   9. The total number of transportation sites to or from which pre-kindergarten and early intervention students are transported, disaggregated by type, borough, and sites outside of the city school district of the city of New York; and
+
+   10. The total number of prekindergarten and early intervention students receiving school bus transportation services, disaggregated by type of student, which shall include but not be limited to, students who are transported to prekindergarten programs and students who are transported to early intervention programs if known by the department, students in temporary housing, disaggregated by students living in shelter and students living in any other location if available, students in foster care, grade level, public school students, and nonpublic school students; and
+
+   11. A list of the categories of students who are eligible for school bus transportation services and a list of the categories of students who are eligible for public transportation passes.
+
+
+
+
+
+
+
+
+*§ 21-994 Reporting on school bus delays.* ::
+
+
+a. Beginning October 31, 2019, and on or before each April 30 and October 31 thereafter, the department shall submit to the speaker of the council for the relevant reporting period information relating to each school bus route delay reported by school bus vendors, which shall include but not be limited to the length in minutes, cause, vendor, school, and whether or not the delay resulted in the failure to arrive at school.
+
+b. Beginning October 31, 2019, and on or before each April 30 and October 31 thereafter, the department shall post on the department’s website a report for the reporting period including:
+
+   1. The number of delays in school bus transportation services, disaggregated by school bus vendor; and
+
+   2. The number of times a bus failed to arrive at a transportation site, disaggregated by type of transportation site, and school bus vendor.
+
+
+
+
+
+
+
+
+*§ 21-995 Reporting on office of pupil transportation investigations.* ::
+
+
+a. Beginning October 31, 2019, and on or before each April 30 and October 31 thereafter, the department shall submit to the speaker of the council and post on the department's website a report for the relevant reporting period, including:
+
+   1. The total number of calls from authorized parents and guardians received by the department about school bus transportation services, disaggregated by the nature of such calls;
+
+   2. The total number of complaints from authorized parents and guardians received by the department about an employee of a school bus vendor, disaggregated by vendor, the nature of such complaint, whether such complaint led to a departmental determination of misconduct, and a description of the actions taken by the department for each complaint; and
+
+   3. The total number of investigations of employees of school bus vendors opened by the department, including following a complaint by an authorized parent or guardian and any other source of information that may lead to such investigation; the number of investigations in which the department found that an employee of a school bus vendor engaged in misconduct; and descriptions of outcomes relating to any investigations in which the department found that an employee of a school bus vendor engaged in misconduct.
+
+b. The data provided pursuant to subdivision a of this section shall be aggregated citywide, as well as disaggregated by school bus vendor and borough.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law related to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. Where necessary, the department may use preliminary data to prepare such reports and may include an acknowledgment that such preliminary data is non-final and subject to change.
+
+
+
+
+
+
+
+
+*§ 21-996 Reporting on school bus routes.* ::
+
+
+a. Beginning October 31, 2019, and on or before each April 30 and October 31 thereafter, the department shall submit to the speaker of the council and post on the department's website a report for the relevant reporting period, including
+
+   1. The number of general education school bus routes scheduled to take less than one hour to complete, the number scheduled to take between one and two hours to complete, and the number scheduled to take over two hours to complete;
+
+   2. The number of special education school bus routes scheduled to take less than one hour to complete, the number scheduled to take between one and two hours to complete, and the number scheduled to take over two hours to complete; and
+
+   3. For each community school district, the average length of time scheduled for general education school bus routes and for special education school bus routes.
+
+b. Beginning October 31, 2019, and on or before each October 31 and April 30 thereafter, the department shall submit to the speaker of the council and post on the department's website a report for the relevant reporting period, including:
+
+   1. The criteria used to design school bus routes;
+
+   2. A description of the department’s goals for the time it should take a vehicle to complete a school bus route, including any particular goals for special education school bus routes and general education school bus routes;
+
+   3. A description of any additional goals and priorities of the department in its provision of school bus transportation services for all eligible students, including but not limited to any goals and priorities relating to students in temporary housing and students in foster care; and
+
+   4. A summary of the requirements in each school bus vendor’s contract with the department relating to the performance of dry runs prior to the first day of school, a list of school bus vendors who are in compliance with such requirements, a list of school bus vendors who have been assessed with liquidated damages and have no further right of appeal for the failure to have performed dry runs as required by contract, and a list of any vendors who do not fall on either of the aforementioned lists and a description of why not.
+
+c. No later than 15 days before the start of the school year, the department shall provide, by electronic means, to authorized parents and guardians of students who receive school bus transportation services the following information with respect to the students of whom they are parents or guardians:
+
+   1. The school bus route for such students for the current school year;
+
+   2. The scheduled arrival time at school for each school bus route and the school session time for such students;
+
+   3. The scheduled departure time from school for each school bus route and the school session time for such students;
+
+   4. The school bus vendor assigned to transport such students;
+
+   5. Any process by which authorized parents and guardians, and relevant department personnel can provide feedback on, or make a request regarding, a school bus route; or
+
+   6. If such student shall receive school bus transportation services from a pre-k vendor, the contact information for such vendor and any other relevant information.
+
+d. The information required by subdivision c of this section shall be provided to authorized parents or guardians by regular mail if any such authorized parent or guardian does not provide the department with an electronic mail address.
+
+e. The department shall make available to authorized parents or guardians of students who receive school bus transportation services on general education school bus routes or special education school bus routes, on a daily basis, the following information with respect to the students of whom they are parents or guardians:
+
+   1. The scheduled arrival time at school for each school bus route and the school session time for such students and the actual arrival time at school for each school bus route if later than the school session time for such students;
+
+   2. The scheduled departure time from school for each school bus route and the school session time for such students and the actual departure time from school for each school bus route if earlier than the school session time or later than the scheduled departure time for such students; and
+
+   3. The school bus vendor assigned to each such school bus route.
+
+f. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law related to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
+
+
+
+
+
+
+
+
+*§ 21-997 School bus ridership guide.* ::
+
+
+a. No later than 15 days before the start of each school year, the department shall provide to students and authorized parents and guardians, in hard copy and electronically, plain language information relating to:
+
+   1. The eligibility for school bus transportation services for general education students, the services to be expected by general education students who receive school bus transportation services and such students’ authorized parents and guardians, and the responsibilities of students who receive general education school bus transportation services and such students’ authorized parents and guardians;
+
+   2. The eligibility for school bus transportation services for special education students, the services to be expected by special education students who receive school bus transportation services and such students’ authorized parents and guardians, and the responsibilities of students who receive special education school bus transportation services and such students’ authorized parents and guardians;
+
+   3. The eligibility for school bus transportation services for students in temporary housing living in shelters, students in temporary housing living anywhere other than shelters, and students in foster care, the expectations of such students and such students’ authorized parents and guardians, and the responsibilities of such students and such students’ authorized parents and guardians; and
+
+   4. Responses to common questions of authorized parents and guardians relating to school bus transportation services.
+
+   5. The procedure followed by the department when it receives notice of misconduct about an employee of a school bus vendor, including but not limited to, how authorized parents and guardians can file a complaint to the department relating to such employee, the steps taken by the department to investigate such notice and the average time frame associated with each such step, what outcomes may result from a substantiated complaint, and any opportunities for an employee of a school bus vendor to appeal.
+
+   6. The procedure followed by the department for general education school bus routes and special education school bus routes in the event of an inclement weather emergency.
+
+b. Such materials shall be made available on the department’s website in English and in each of the designated citywide languages as defined in section 23-1101.
+
+
+
+
+
+

@@ -3302,6 +3302,36 @@ b. Immediately upon adoption of this local law, the council shall file with the 
 
 
 
+*§ 25-479.2 Hudson Square business improvement district; increase in amount to be expended annually.* ::
+
+
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Hudson Square business improvement district beginning on July 1, 2019, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three million nine hundred thousand dollars ($3,900,000).
+
+b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Hudson Square business improvement district plan.
+
+
+
+
+
+
+
+
+*§ 25-479.3 Hudson Square business improvement district; extension of district.* ::
+
+
+a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Hudson Square business improvement district in the borough of Manhattan is hereby extended. Such district is extended in accordance with the amended district plan of 2018 required to be filed with the city clerk pursuant to subdivision b of this section.
+
+b.  Immediately upon adoption of this local law by the council, the council shall file with the city clerk the amended district plan of 2018 upon which the Hudson Square business improvement district, and the extension thereof, is based.
+
+c. The amended district plan of 2018 shall not be further amended except in accordance with chapter four of this title.
+
+
+
+
+
+
+
+
 *§ 25-480 Bed-Stuy Gateway business improvement district.* ::
 
 
@@ -3522,6 +3552,22 @@ c. The district plan shall not be amended except in accordance with chapter four
 a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the Morris Park business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
 
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Morris Park business improvement district is based.
+
+c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
+
+
+
+
+
+
+*§ 25-492 Throggs Neck business improvement district.* ::
+
+
+a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the establishment of the district; that all the real property benefited is included within the limits of the district; and that the establishment of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, there is hereby established in the borough of the Bronx, the Throggs Neck business improvement district. Such district is established in accordance with the district plan required to be filed with the city clerk pursuant to subdivision b of this section.
+
+b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the Throggs Neck business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
 

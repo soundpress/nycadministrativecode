@@ -6384,7 +6384,7 @@ Conditions for which the commissioner may issue a vacate order shall include but
 *§ 28-207.4.2 Enforcement of vacate order.* ::
 
 
-All orders issued pursuant to this section 28-207.4 shall be posted upon the premises and made available to the public. Immediately upon the posting of an order upon the premises, officers and employees of the police department, the department, and other authorized officers and employees of the city shall immediately act upon and enforce such order. The police department shall provide all reasonable assistance to the department and other authorized officers and employees necessary to carry out the provisions of this section 28-207.4. A copy of the vacate order shall be filed with the county clerk of the county in which the premises is located. Such filing shall be notice of the vacate order to any subsequent owner and such owner shall be subject to such order.
+All orders issued pursuant to this section 28-207.4 shall be posted upon the premises and made available to the public. Upon the posting of an order upon the premises, officers and employees of the police department, the department, and other authorized officers and employees of the city shall immediately act upon and enforce such order. The police department shall provide all reasonable assistance to the department and other authorized officers and employees necessary to carry out the provisions of this section 28-207.4. A copy of the vacate order may be filed with the county clerk of the county in which the premises is located and shall be filed with the department and accessible to the public. Such filing shall be notice of the vacate order to any subsequent owner and such owner shall be subject to such order.
 
 
 
@@ -6394,7 +6394,17 @@ All orders issued pursuant to this section 28-207.4 shall be posted upon the pre
 *§ 28-207.4.3 Rescission.* ::
 
 
-Upon application, the commissioner shall rescind the vacate order when the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted in accordance with department rules, or where the vacate order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such vacate order.
+Upon application, the commissioner may rescind the vacate order when the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted in accordance with department rules, or where the vacate order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such vacate order.
+
+
+
+
+
+
+*§ 28-207.4.4 Tampering.* ::
+
+
+It shall be unlawful to remove or deface a written posted vacate order from the location where it was affixed unless and until such vacate order has been rescinded by the commissioner. The owner or other person in control of the location shall ensure that the vacate order remains posted until rescinded by the commissioner.
 
 
 
@@ -6811,6 +6821,10 @@ It shall be unlawful for any person to use or occupy or to permit any other pers
 
 
 In addition to any penalties otherwise authorized by law pursuant to article 202 and the rules of the department, whenever any work for which a permit is required pursuant to this code has been performed without a permit, a penalty shall be imposed by the department as provided in this article.
+
+Exception: No such penalty shall be imposed for work performed without a permit to hang or attach upon or on the outside of any building a sign that is accessory to a use on the same zoning lot, as defined in section 12-10 of the zoning resolution that does not exceed one hundred fifty square feet in area, measured on one face only, or exceed one thousand two hundred pounds in weight. All such outstanding penalties imposed on or after December 28, 2017 shall be waived.
+
+
 
 
 

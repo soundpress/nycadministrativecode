@@ -867,7 +867,7 @@ c. Within 90 days of July 1, 2019, and every six months thereafter, the departme
 
    6. Whether the alleged victim at the time of the incident was between the ages of 18-25, 26-35, 36-40, 41-60, over 60, or under 18;
 
-   7. Whether the alleged victim claimed that the perpetrator of the sexual abuse, sexual harassment or intervention intentionally selected  them in whole or in part because of a belief or perception regarding the alleged victim’s gender or sexual orientation, regardless of whether such belief or perception was correct;
+   7. Whether the alleged victim claimed that the perpetrator of the sexual abuse, sexual harassment or intervention intentionally selected them in whole or in part because of a belief or perception regarding the alleged victim’s gender or sexual orientation, regardless of whether such belief or perception was correct;
 
    8. Whether the alleged victim claimed that the perpetrator of the sexual abuse, sexual harassment or intervention intentionally committed the act in whole or in part because of a belief regarding the victim’s gender or sexual orientation, regardless of whether such belief or perception was correct;
 
@@ -1387,9 +1387,9 @@ a. Definitions. For purposes of this section, the following terms have the follo
 
    Sexual abuse by staff of an incarcerated individual. The term “sexual abuse by staff” includes any of the following acts conducted by staff, with or without consent of the incarcerated individual, including when such acts occur during the course of an otherwise authorized search procedure: (1) contact between the penis and the vulva or the penis and the anus, including penetration, however slight; (2) contact between the mouth and the penis, vulva, or anus; (3) contact between the mouth and any body part where the staff member has the intent to abuse, arouse, or gratify sexual desire; (4) penetration of the anal or genital opening, however slight, by a hand, finger, object, or other instrument; (5) any other intentional contact, either directly or through the clothing, of or with the genitalia, anus, groin, breast, inner thigh, or the buttocks where the staff member has the intent to abuse, arouse, or gratify sexual desire; and (6) any attempt to engage in the acts described in paragraphs (1) through (5) of this definition.
 
-   Sexual abuse by an incarcerated individual. The term “sexual abuse by an incarcerated individual” includes any of the following acts if the victim and perpetrator are both incarcerated individuals, and if the victim does not consent, is coerced into such act by overt or implied threats of violence, or is unable to consent or refuse: (1) contact between the penis and the vulva or the penis and the anus, including penetration, however slight; (2) contact between the mouth and the penis, vulva, or anus; (3)   penetration of the anal or genital opening of another person, however slight, by a hand, finger, object, or other instrument; and (4) any other intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or the buttocks of another person, excluding contact incidental to a physical altercation.
+   Sexual abuse by an incarcerated individual. The term “sexual abuse by an incarcerated individual” includes any of the following acts if the victim and perpetrator are both incarcerated individuals, and if the victim does not consent, is coerced into such act by overt or implied threats of violence, or is unable to consent or refuse: (1) contact between the penis and the vulva or the penis and the anus, including penetration, however slight; (2) contact between the mouth and the penis, vulva, or anus; (3) penetration of the anal or genital opening of another person, however slight, by a hand, finger, object, or other instrument; and (4) any other intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or the buttocks of another person, excluding contact incidental to a physical altercation.
 
-   Sexual harassment.  The term “sexual harassment” includes (1) any unwelcome sexual advances, requests for sexual favors, or verbal comments, gestures, or actions of a derogatory or offensive sexual nature; and (2) any verbal comments or gestures of a sexual nature, including demeaning references to gender, sexually suggestive or derogatory comments about body or clothing, or obscene language or gestures.
+   Sexual harassment. The term “sexual harassment” includes (1) any unwelcome sexual advances, requests for sexual favors, or verbal comments, gestures, or actions of a derogatory or offensive sexual nature; and (2) any verbal comments or gestures of a sexual nature, including demeaning references to gender, sexually suggestive or derogatory comments about body or clothing, or obscene language or gestures.
 
    Staff. The term “staff” means an employee who works directly for the department.
 
@@ -1423,7 +1423,7 @@ b. Within 90 days of July 1, 2019 and every six months thereafter, the departmen
 
    14. Whether the incident occurred in a service area or housing area;
 
-   15. If the incident occurred in a housing area, the housing area type; 
+   15. If the incident occurred in a housing area, the housing area type;
 
    16. Whether video camera surveillance recorded the incident;
 

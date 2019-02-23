@@ -1012,7 +1012,7 @@ b. The department of citywide administrative services shall make available to ag
 
 a. Definitions. As used in this section, the term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
 
-b. No later than November 30, 2019, and on or before November 30 annually thereafter, each agency, to the extent the department of citywide administrative services does not already have such information, shall provide to the department of citywide administrative services information relevant to pay and employment equity.  Such information for each current and former employee within such agency shall be as of the date of hire and shall, to the extent such information is available, include:
+b. No later than November 30, 2019, and on or before November 30 annually thereafter, each agency, to the extent the department of citywide administrative services does not already have such information, shall provide to the department of citywide administrative services information relevant to pay and employment equity. Such information for each current and former employee within such agency shall be as of the date of hire and shall, to the extent such information is available, include:
 
    1. Agency;
 

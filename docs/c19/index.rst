@@ -3371,7 +3371,7 @@ e. "Vehicle license" means taxicab license, coach license, wheelchair accessible
 
 f. "Licensed vehicle" means a taxicab, coach, wheelchair accessible van or for-hire vehicle licensed by the commission.
 
-g. "For-hire vehicle" means a motor vehicle carrying passengers for hire in the city, with a seating capacity of twenty passengers or less, not including the driver, other than a taxicab, coach, wheelchair accessible van, commuter van or an authorized bus operating pursuant to applicable provisions of law. For the purpose of this subdivision, "seating capacity" shall include any plain view location which is capable of accommodating a normal adult as part of an overall seat configuration and design and is likely to be used as a seating position while the vehicle is in motion. For purposes of the provisions of this chapter relating to prohibitions against the operation of an unauthorized for-hire vehicle and to the enforcement of such prohibitions and to the imposition of penalties for violations of such prohibitions and to the seizure and forfeiture of for-hire vehicles, the term shall also include any common carrier of passengers by motor vehicle not subject to licensure as a taxicab, commuter van, or wheelchair accessible van and not operating as an authorized bus line pursuant to applicable provisions of law regardless of the seating capacity of any such vehicle.
+g. "For-hire vehicle" means a motor vehicle carrying passengers for hire in the city, with a seating capacity of twenty passengers or less, not including the driver, other than a taxicab, coach, wheelchair accessible van, commuter van or an authorized bus operating pursuant to applicable provisions of law. For the purpose of this subdivision, "seating capacity" shall include any plain view location which is capable of accommodating a normal adult is as part of an overall seat configuration and design and is likely to be used as a seating position while the vehicle is in motion. For purposes of the provisions of this chapter relating to prohibitions against the operation of an unauthorized for-hire vehicle, the enforcement of such prohibitions and the imposition of penalties for violations of such prohibitions and to the seizure and forfeiture of for-hire vehicles, the term shall also include any common carrier of passengers by motor vehicle not subject to licensure as a taxicab, commuter van, or wheelchair accessible van and not operating as a public or private bus transit service operated pursuant to a contract with the city, any county within the state of New York, the state of New York or any other state or local government that follows the applicable procurement rules and regulations of such jurisdiction regardless of the seating capacity of any such vehicle.
 
 h. "Medallion" means the metal plate issued by the commission for displaying the license number of a licensed taxicab on the outside of the vehicle.
 
@@ -3389,7 +3389,7 @@ n. "Handicapped transportation service" means one or more motor vehicles for hir
 
 o. "Central business district of the borough of Manhattan" means that area of the borough of Manhattan lying south of, and including, ninety-sixth street.
 
-p. "Commuter van" means a commuter van service having a seating capacity of at least nine passengers but not more than twenty passengers or such greater capacity as the commission may establish by rule and carrying passengers for hire in the city duly licensed as a commuter van by the commission and not permitted to accept hails from prospective passengers in the street. For purposes of the provisions of this chapter relating to prohibitions against the operation of an unauthorized commuter van service or an unlicensed commuter van and to the enforcement of such prohibitions and to the imposition of penalties for violations of such prohibitions and to the seizure and forfeiture of commuter vans, the term shall also include any common carrier of passengers by motor vehicle not subject to licensure as a taxicab, for-hire vehicle, or wheelchair accessible van and not operating as an authorized bus line pursuant to applicable provisions of law regardless of the seating capacity of any such vehicle. The commission shall submit to the council the text of any proposed rule relating to the maximum capacity of commuter vans at the time such proposed rule is published in the City Record.
+p.  "Commuter van" means a commuter van service having a seating capacity of at least nine passengers but not more than twenty passengers or such greater capacity as the commission may establish by rule and carrying passengers for hire in the city duly licensed as a commuter van by the commission and not permitted to accept hails from prospective passengers in the street. For purposes of the provisions of this chapter relating to prohibitions against the operation of an unauthorized commuter van service or an unlicensed commuter van, the enforcement of such prohibitions and the imposition of penalties for violations of such prohibitions and to the seizure and forfeiture of commuter vans, the term shall also include any common carrier of passengers by motor vehicle not subject to licensure as a taxicab, for-hire vehicle, or wheelchair accessible van and not operating as a public or private bus transit service operated pursuant to a contract with the city, any county within the state of New York, the state of New York or any other state or local government that follows the applicable procurement rules and regulations of such jurisdiction regardless of the seating capacity of any such vehicle. The commission shall submit to the council the text of any proposed rule relating to the maximum capacity of commuter vans at the time such proposed rule is published in the City Record.
 
 q. "Commuter van service" means a subclassification of common carriers by passengers of motor vehicles as such term is defined in subdivision seven of section two of the transportation law, that provides a transportation service through the use of one or more commuter vans on a prearranged regular daily basis, over non-specified or irregular routes, between a zone in a residential neighborhood and a location which shall be a work related central location, a mass transit or mass transportation facility, a shopping center, recreational facility or airport. A "commuter van service" shall not include any person who exclusively provides: (1) any one or more of the forms of transporation that are specifically exempted from article seven of the transportation law; or (2) any one or more of the forms of transportation regulated under this chapter other than transportation by commuter vans.
 
@@ -5214,6 +5214,48 @@ g. The provisions of this section shall apply only to those school buses operate
 
 
 Any person, firm or corporation who shall violate the provisions of this chapter shall be punished by a fine of five hundred dollars, or by imprisonment not to exceed three months or by both such fine and imprisonment.
+
+
+
+
+
+
+*§ 19-608 Communication devices on school buses.* ::
+
+
+a. Any bus or other motor vehicle used to transport students to or from schools pursuant to a contract between a school bus vendor and the department of education shall, at all times that students are present on such vehicle, be equipped with an operational two-way radio or other authorized communication device capable of allowing communication with the driver of such vehicle.
+
+b. The department of education shall promulgate rules regarding the safe usage of such communication devices.
+
+
+
+Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the first day of the 2019-2020 school year.
+
+
+
+
+
+
+*§ 19-609 Global positioning systems on school buses.* ::
+
+
+a. For purposes of this section, the term “GPS” means a global positioning system, or a comparable location tracking technology, that uses navigational satellites to determine a user’s location and velocity in real time.
+
+b. Any bus or other motor vehicle used to transport students to or from schools pursuant to a contract between a school bus vendor and the department of education shall, at all times that students are present on such vehicle, be equipped with a GPS tracking device.
+
+c. A GPS tracking device installed on any bus or other motor vehicle used to transport students to or from schools shall be operational at all times such vehicle is in use pursuant to the contract.
+
+d. GPS data regarding the real time location and velocity of the bus or other motor vehicle used to transport students to or from schools shall be made available electronically to the department, as well as to authorized parents or guardians of students who are being transported by such bus or other motor vehicle.
+
+e. Records created by any such GPS tracking devices shall be maintained in an electronic database.
+
+f. No information that is otherwise required to be reported or be made available electronically pursuant to this section shall be reported or be made available electronically in a manner that would violate any applicable provision of federal, state or local law related to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
+
+g. Beginning April 30, 2020, and on or before each October 31 and April 30 thereafter, the department shall submit to the speaker of the council for the relevant reporting period, as defined in section 21-993, the scheduled arrival and departure times for each transportation site, and data points, including the time of day corresponding with the actual arrival at the first and last transportation site of each special education school bus route and general education school bus route for each day of the reporting period. Such information shall also include the school bus vendor.
+
+
+
+Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the first day of the 2019-2020 school year.
 
 
 
