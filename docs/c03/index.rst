@@ -750,7 +750,7 @@ d. The mayor shall include in each long-term sustainability plan required by sub
 
    4. The types of green energy sources currently being used to provide building heating and hot water and the limitations to expanding these sources to additional buildings;
 
-   5. Identification of building heating and hot water systems or technologies using green energy systems , the current limitations of building heating and hot water systems or technologies and a timeline for when such systems or technologies may be commercially viable for installation in city-owned buildings;
+   5. Identification of building heating and hot water systems or technologies using green energy systems, the current limitations of building heating and hot water systems or technologies and a timeline for when such systems or technologies may be commercially viable for installation in city-owned buildings;
 
    6. The costs associated with providing building heating and hot water from green energy systems;
 

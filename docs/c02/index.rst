@@ -1,1496 +1,6 @@
 Title 3: Elected officials
 ===================================================
 
-Chapter 1: Mayor
---------------------------------------------------
-
-
-
-
-**Subchapter 1: [No Title]**
-
-
-
-*§ 3-101 Flag of the mayor.* ::
-
-
-The official flag of the mayor shall be the same in design as the official flag of the city. Upon the middle or white bar, however, and above the design of the seal in a semi-circle, there shall be five blue five-pointed stars, typifying the five boroughs of the city. The dimensions of such flag shall be thirty-three inches by forty-four inches.
-
-
-
-
-
-
-*§ 3-102 Flags and decorations; city hall park.* ::
-
-
-All authority to display flags or other decorations on, in or about the public buildings within the city hall park, is vested in the mayor, unless otherwise ordered by the council.
-
-a. A Prisoner of War/Missing in Action POW/(MIA) flag shall be flown over City Hall every day the American flag is flown until such time as all persons listed as missing in action, from any branch of the United States Armed Forces, and all persons from any branch of our armed forces who are prisoners of war, are accounted for by the United States Government.
-
-
-
-
-
-
-*§ 3-103 Apprehension and conviction of criminals.* ::
-
-
-The mayor, whenever he or she shall deem it necessary, may issue a proclamation offering a reward for information which shall lead to the apprehension or apprehension and conviction of any person who may have committed a crime within the city. In such proclamation, the mayor may offer a reward not exceeding five hundred dollars for the apprehension of any such person and not exceeding ten thousand dollars for the apprehension and conviction of any such person, provided, however, that the mayor may offer a reward not exceeding one hundred thousand dollars for the apprehension and conviction of any person found guilty in connection with an act of terrorism involving loss of life or substantial injury to persons or property. Any such reward shall be paid out of the city treasury upon a certificate of the mayor that the service required has been performed. For purposes of this section, "terrorism" means premediatated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents.
-
-
-
-
-
-
-*§ 3-104 Declaration of emergency.* ::
-
-
-Whenever the mayor determines that there has been an act of violence or a flagrant and substantial defiance of or resistance to a lawful exercise of public authority, and that, partly on account thereof, there is reason to believe that there exists a clear and present danger of a riot or other general public disorder, widespread disobedience of the law, and substantial injury to persons or to property, all of which constitutes a threat to public peace or order and to the general welfare of the city or a part or parts thereof, the mayor may declare that a state of emergency exists within the city or any part of parts thereof.
-
-
-
-
-
-
-*§ 3-105 Emergency measures.* ::
-
-
-1. Whenever the mayor, pursuant to section 3-104, declares that a state of emergency exists, (a) the emergency measures provided in subdivision two of this section shall thereupon be in effect during the period of said emergency and throughout the city and (b) the mayor may order and promulgate all or any of the emergency measures provided in subdivision three of this section, in whole or in part, and with such limitations and conditions as he or she may deem appropriate, and any such emergency measure so ordered and promulgated shall thereupon be in effect during the period of said emergency and in the area or areas for which the emergency has been declared.
-
-2. (a) The sale or other transfer of possession, with or without consideration, offer to sell or so transfer, and the purchase of any ammunition, guns and other firearms of any size or description is prohibited.
-
-   (b) The displaying by or in any store or shop of any ammunition, guns and other firearms of any size or description is prohibited.
-
-   (c) The possession in a public place of a rifle or shotgun by any person, except a duly authorized law enforcement official or person in military service acting in the official performance of his or her duty, is prohibited.
-
-   (d) The possession of any rifle or shotgun in any place, public or private, by a nonresident who has not been issued a permit by the police commissioner, for the purchase and possession of rifles and shotguns, is prohibited.
-
-3. (a)    The establishment of curfews, including, but not limited to, the prohibition of or restrictions on pedestrian and vehicular movement, standing and parking, except for the provision of designated essential services such as fire, police and hospital services including the transportation of patients thereto, utility emergency repairs and emergency calls by physicians.
-
-   (b) The prohibition of the sale of any alcoholic beverage.
-
-   (c) The prohibition of the possession on the person in a public place of any portable container containing any alcoholic beverage.
-
-   (d) The closing of places of public assemblage with designated exceptions.
-
-   (e) The prohibition of the sale or other transfer of possession, with or without consideration, of gasoline or any other flammable or combustible liquid altogether or except by delivery into a tank properly affixed to an operable motor-driven vehicle, bike, scooter, boat or airplane and necessary for the propulsion thereof.
-
-   (f) The prohibition of the possession in a public place of any portable container containing gasoline or any other flammable or combustible liquid.
-
-
-
-
-
-
-*§ 3-106 Filing and publication.* ::
-
-
-Any state of emergency or emergency measure declared or ordered and promulgated by virtue of the terms of the code shall, as promptly as practicable, be filed in the office of the city clerk and published in the City Record and shall also be delivered to appropriate news media for publication and radio and television broadcast thereby. If practicable, such state of emergency declaration or emergency measure shall also be publicized by other appropriate means such as by posting and loud-speakers.
-
-
-
-
-
-
-*§ 3-107 Duration and termination of emergency.* ::
-
-
-A state of emergency established under the code shall commence upon the declaration thereof by the mayor and shall terminate at the end of a period of five consecutive days thereafter, unless prior to the end of such five day period, the mayor shall either terminate such state of emergency or shall declare an additional state of emergency. Any such additional state of emergency shall commence and terminate as provided in section 3-104 and in this section.
-
-
-
-
-
-
-*§ 3-108 Violations.* ::
-
-
-Any knowing violation of a provision of any emergency measure established pursuant to this chapter shall be a class B misdemeanor punishable by a fine of not more than five hundred dollars, or by imprisonment for not more than three months, or both.
-
-
-
-
-
-
-*§ 3-109 Definitions.* ::
-
-
-For the purposes of this chapter:
-
-1. "Alcoholic beverage" shall mean an alcoholic beverage as that term is defined by section three of the alcoholic beverage control law but shall not include patented medicine.
-
-2. "Rifle" and "shotgun" shall mean a rifle and shotgun as those terms are defined by section 10-301 of the code.
-
-
-
-
-
-
-*§ 3-110 Parking spaces.* ::
-
-
-a. Notwithstanding any other provision of law, the mayor, within the appropriation provided therefor, shall have the power to establish parking spaces, pursuant to section seventy-two-j of the general municipal law and assign whatever functions are necessary in connection with the construction, operation and maintenance of such parking spaces to appropriate city departments or agencies.
-
-b. Any city department or agency to which functions are assigned by the mayor in connection with the operation and maintenance of such parking space may adopt rules and regulations necessary for the carrying out of such functions. Violation of such rules and regulations shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days imprisonment, a fine of not more than fifty dollars, or both.
-
-
-
-
-
-
-*§ 3-111 [Drug Enforcement and Drug Abuse Task Force.]* ::
-
-
-a. Composition.
-
-   (1) The mayor shall appoint a drug enforcement and drug abuse task force which shall be chaired by the criminal justice coordinator and shall consist of, but not be limited to, representatives of the police department; human resources administration; department of health and mental hygiene; department of correction; department of housing preservation and development; department of finance; department of probation; and the criminal justice coordinator.
-
-   (2) The Substance Abuse Task Force shall request that the following agencies or officers send their own representatives to serve on this task force: Health and Hospitals Corporation; Board of Education; the New York County, Kings County, Queens County, Richmond County and Bronx County District Attorney's offices; and the Special Narcotics Prosecutor.
-
-b. Report. The Drug Enforcement and Drug Abuse Task Force shall submit an informal quarterly report of its ongoing coordination activities and a formal annual report in September of each year to the Mayor and the Council. Such report shall include any findings and recommendations of the task force.
-
-
-
-
-
-
-*§ 3-111 Safety program. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-113 Notification of status of government services during severe weather conditions or other emergency.** ::
-
-
-a. An agency or agencies designated by the mayor shall notify the public of the status of any New York city government services that are suspended or significantly disrupted due to severe weather conditions or other emergency. Such government services shall include, but not be limited to, collection of solid waste, public transportation, on-street parking, and the operation of educational facilities. The notification shall be through any medium that is reasonably expected to reach a substantial proportion of the community or communities impacted by the suspension or disruption of government services, provided that, in addition to notification by any other media, the designated agency or agencies shall maintain a dedicated website on which all information regarding the status of disrupted government services shall be made publicly available.
-
-b. An agency or agencies designated by the mayor shall evaluate and determine the feasibility of posting information regarding the suspension or significant disruption of services provided by not-for-profit organizations, who contract with the city to provide such services, on the dedicated website established pursuant to this section.
-
-
-
-
-
-
-*§ 3-113 [Citywide temporary emergency housing and associated services; reports; date.]** ::
-
-
-a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
-
-   (1) "Adult" shall mean an individual 18 years of age or older;
-
-   (2) "Adult families" shall mean families comprised of adults and no children under the age of 18;
-
-   (3) "Children" shall mean individuals under the age of 18;
-
-   (4) "City-administered facilities" shall mean hotels, shelters and other accommodations or associated services, managed by or provided under contract or similar agreement with any city agency, provided to individuals or families who need temporary emergency housing or assistance finding or maintaining stable housing;
-
-   (5) "DHS" shall mean the department of homeless services;
-
-   (6) "DHS-administered facilities" shall mean city-administered facilities managed directly by DHS or by a provider under contract or similar agreement with DHS;
-
-   (7) "DHS drop-in centers" shall mean city-administered facilities that provide single adults with hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals and/or housing placement services, but not overnight housing;
-
-   (8) "DHS faith-based beds" shall mean city-administered facilities that provide overnight housing to individuals, are affiliated with one or more religious groups and receive client referrals through organizations under contract with DHS;
-
-   (9) "DHS safe havens" shall mean city-administered facilities that provide low-threshold, harm-reduction housing to chronic street homeless individuals, who are referred to such facilities through a DHS outreach program, without the obligation of entering into other supportive and rehabilitative services in order to reduce barriers to temporary housing;
-
-   (10) "DHS stabilization beds" shall mean city-administered facilities that provide a short-term housing option for a chronic street homeless individual while such individual works with his/her outreach team to locate a more permanent housing option;
-
-   (11) "DHS veterans shelters" shall mean city-administered facilities that provide short-term housing for people who actively served in the United States military;
-
-   (12) "DYCD" shall mean the department of youth and community development;
-
-   (13) "DYCD-administered crisis shelters" shall mean city-administered facilities that provide short-term emergency housing for runaway and homeless youth and are managed by a provider under contract or similar agreement with DYCD;
-
-   (14) "DYCD-administered drop-in centers" shall mean city-administered facilities that provide runaway and homeless youth and their families with services, counseling and referrals from trained youth workers;
-
-   (15) "DYCD-administered facilities" shall mean city-administered facilities managed by a provider under contract or similar agreement with DYCD;
-
-   (16) "DYCD-administered transitional independent living facilities" shall mean city-administered facilities that provide long-term residential services to runaway and homeless youth for up to 18 months and are managed by a provider under contract or similar agreement with DYCD;
-
-   (17) "Families with children" shall mean families with children under the age of 18, couples including at least one pregnant woman, single pregnant women, or parents or grandparents with a pregnant individual;
-
-   (18) "HPD" shall mean the department of housing preservation and development;
-
-   (19) "HPD-administered facilities" shall mean city-administered facilities managed by a provider under contract or similar agreement with HPD;
-
-   (20) "HPD emergency facilities" shall mean shelters providing emergency shelter managed by a provider under contract or similar agreement with HPD;
-
-   (21) "HPD emergency hotels" shall mean hotels providing emergency shelter to individuals or families displaced from their homes managed by a provider under contract or similar agreement with HPD;
-
-   (22) "HRA" shall mean the human resources administration;
-
-   (23) "HRA-administered facilities" shall mean city-administered facilities managed directly by HRA or by a provider under contract or similar agreement with HRA, excluding non-emergency supportive housing;
-
-   (24) "HRA domestic violence shelters" shall mean shelters for victims of domestic violence managed directly by HRA or by a provider under contract or similar agreement with HRA;
-
-   (25) "HRA HASA emergency housing" shall mean single room occupancy hotels managed by a provider under contract or similar agreement with HRA to provide emergency shelter for recipients of services from the HIV/AIDS Services Administration;
-
-   (26) "HRA HASA transitional housing" shall mean congregate facilities managed by a provider under contract or similar agreement with HRA to provide emergency shelter for recipients of services from the HIV/AIDS Services Administration; and
-
-   (27) "Unduplicated" shall mean counted only once within the reporting period.
-
-b. Reports of citywide utilization data. The mayor's office of operations shall create a portal on the NYCStat page of the city's website, or any successor pages of such website that are substantially similar in form and function, in order to publish citywide data regarding the utilization of city-administered facilities. Commencing on November 1, 2011, and no later than the first day of each month thereafter, the mayor's office of operations shall for each month, calendar year and fiscal year publish via such portal the:
-
-   (1) average daily overnight census for each of the following categories:
-
-      A. DHS drop-in centers, disaggregated by single men, single women and total single adults; and
-
-      B. DHS faith-based facilities, disaggregated by single men, single women and total single adults.
-
-   (2) average daily overnight census; and
-
-   (3) number of unduplicated persons or families utilizing city-administered facilities for each of the following categories:
-
-      A. [Reserved.]
-
-      B. [Reserved.]
-
-      C. all DHS-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      D. DHS safe havens, disaggregated by single men, single women and total single adults;
-
-      E. DHS stabilization beds, disaggregated by single men, single women and total single adults;
-
-      F. DHS veterans shelters, disaggregated by single men, single women and total single adults;
-
-      G. HPD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      H. HPD emergency facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      I. HPD emergency hotels, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      J. HRA-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      K. HRA domestic violence shelters, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      L. HRA HASA emergency housing, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      M. HRA HASA transitional housing, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults; and
-
-      N. all city-administered facilities, excluding DYCD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults.
-
-   (4) average monthly utilization rates; and
-
-   (5) number of unduplicated persons or families utilizing city-administered facilities for each of the following categories:
-
-      A. DYCD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      B. DYCD-administered crisis shelters, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
-
-      C. DYCD- administered drop-in centers, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults; and
-
-      D. DYCD-administered transitional independent living facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults.
-
-   (6) the number of individuals who are on wait-lists for DYCD-administered facilities, to the extent such wait-lists exist, disaggregated by:
-
-      A. type of DYCD-administered facility; and
-
-      B. families with children, adult families, total families, single men, single women, and total single adults.
-
-   (7) the average length of stay disaggregated by:
-
-      A. families with children, adult families, total families, single men, single women, and total single adults;
-
-      B. type of DHS-administered facility, excluding DHS drop-in centers and DHS faith-based beds;
-
-      C. type of DYCD-administered facility, excluding DYCD-administered drop-in centers;
-
-      D. type of HPD-administered facility; and
-
-      E. type of HRA-administered facility.
-
-   (8) the total number of facilities, disaggregated by DHS-administered facilities and facilities not administered by DHS.
-
-c. Application and entrance data. Commencing on November 1, 2011, and no later than the first day of each month thereafter, the mayor's office of operations shall for each month, calendar year and fiscal year publish in the same location on the NYCStat website as the data posted pursuant to subdivision b of this section, the following data for those seeking admission and entrance to DHS-administered facilities:
-
-   (1) the total number of:
-
-      A. applications;
-
-      B. unduplicated applicants;
-
-      C. applicants found eligible for shelter;
-
-      D. entrants to DHS administered facilities; and
-
-      E. unduplicated entrants to DHS-administered facilities. The data required by subparagraphs A, B, C, D and E of this paragraph shall be disaggregated by families with children, adult families, total families, single men, single women, and total single adults;
-
-   (2) the number of families with children found eligible for city-administered facilities;
-
-   (3) the percentage of eligible families with children who submitted one application;
-
-   (4) the percentage of eligible families with children who submitted two applications;
-
-   (5) the percentage of eligible families with children who submitted three applications;
-
-   (6) the percentage of eligible families with children who submitted four applications;
-
-   (7) the percentage of eligible families with children who submitted five applications;
-
-   (8) the percentage of eligible families with children who submitted six applications or more;
-
-   (9) the number of adult families found eligible for city-administered facilities;
-
-   (10) the percentage of eligible adult families who submitted one application;
-
-   (11) the percentage of eligible adult families who submitted two applications;
-
-   (12) the percentage of eligible adult families who submitted three applications;
-
-   (13) the percentage of eligible adult families who submitted four applications;
-
-   (14) the percentage of eligible adult families who submitted five applications; and
-
-   (15) the percentage of eligible adult families who submitted six applications or more.
-
-d. The data required to be published in subdivisions b and c above shall be published electronically on the portal specified in subdivision b in a commonly available non-proprietary database format that is suitable for analysis.
-
-
-
-
-
-
-*§ 3-113 Posting of executive orders and memoranda of understanding on the city's website.** ::
-
-
-a. (1) All mayoral executive orders issued on or after January 1, 1974 shall be posted on the city's website.
-
-   (2) All mayoral executive orders issued on or after July 1, 2011 shall be provided to the council and posted on the city's website within five business days from the date of execution.
-
-b. (1) All memoranda of understanding or similar agreements entered into between city agencies that materially affect the rights of or procedures available to the public and could not be withheld from disclosure under article six of the public officers law shall be posted on the city's website within thirty days after taking effect and thereafter during the period that they are in effect, unless their disclosure would impair law enforcement or emergency response operations.
-
-   (2) All memoranda of understanding or similar agreements entered into between city agencies and non-city governmental agencies that materially affect the rights of or procedures available to the public and could not be withheld from disclosure under article six of the public officers law shall be posted on the city's website within thirty days after taking effect and thereafter during the period that they are in effect, unless their disclosure would impair the ability of the city to enter into such memoranda or agreements with such non-city agencies or impair law enforcement or emergency response operations.
-
-   (3) The posting requirements set forth in this subdivision shall not apply if posting could reasonably result in material adverse consequences for city agency operations.
-
-c. Where the length of a memorandum of understanding or similar agreement is excessive, an agency may comply with this subdivision by posting an excerpt and a brief summary of such memorandum or agreement on the city's website, provided that the full version of such memorandum of understanding or similar agreement shall be made available upon request at no charge.
-
-d. The documents posted in accordance with this section shall be made available to the public on the city's website at no charge.
-
-e. This section shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this section shall not result in the invalidation of any mayoral executive order, memorandum of understanding or similar agreement, or action taken pursuant to such order or memorandum of understanding or similar agreement.
-
-
-
-
-
-
-*§ 3-114 Agency liaisons.* ::
-
-
-a. The chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall ensure that each relevant agency designates an employee or employees to serve as agency liaison(s) to such agency's regulated community or communities, including but not limited to relevant chambers of commerce and industry groups. Each liaison shall report to the chief business operations officer, or other representative of the office of the mayor designated by the mayor. Each liaison shall, to the extent practicable, meet regularly with such liaison's agency's regulated community or communities. For purposes of this subdivision, relevant agencies shall include the department of buildings, the department of consumer affairs, the department of health and mental hygiene, the department of environmental protection, the department of sanitation, and the fire department.
-
-b. No later than July 1, 2013, and no later than every July 1 thereafter, the chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall provide to the mayor and the speaker of the council a listing of the name and contact information of designated agency liaisons.
-
-
-
-
-
-
-*§ 3-115 New York city identity card.* ::
-
-
-a. Definitions.
-
-    "Administering Agency" shall mean the agency that the mayor designates to administer the New York city identity card program.
-
-   "New York city identity card" shall mean an identification card issued by the city of New York pursuant to subdivision b of this section.
-
-   "Resident" shall mean person who can establish that he or she is a current resident of the city of New York pursuant to paragraph two of subdivision d of this section.
-
-b. New York city identity card program.
-
-   (1) The mayor shall designate an agency to administer the New York city identity card program. The administering agency shall promulgate all rules necessary to effectuate the purposes of this subchapter.
-
-   (2) The administering agency shall designate access sites, including at least one site located within each of the five boroughs of the city of New York, where applications for such card shall be made available for pick-up and submission. The administering agency shall also make applications available online.
-
-c. Issuance of New York city identity cards.
-
-   (1) The New York city identity card shall display, at a minimum, the cardholder's photograph, name, date of birth, address, and an expiration date, provided that the administering agency may by rule establish procedures to protect the addresses of victims of domestic violence or alternate requirements for applicants who lack a permanent address. Such card shall also, at the cardholder's option, display the cardholder's self-designated gender. Such identification card shall be designed in a manner to deter fraud.
-
-   (2) The New York city identity card shall be available to any resident of the city of New York, provided that such resident is able to meet the requirements for establishing his or her identity and residency set forth in subdivision d of this section and rules adopted by the administering agency pursuant to this section, including rules establishing a minimum age requirement for eligibility for the city identity card and any restrictions the administering agency deems appropriate for the protection of minors.
-
-   (3) The administering agency may establish a reasonable fee for applications for a New York city identity card, and if such a fee is established, shall adopt rules permitting residents who cannot afford to pay such fee to receive a full or partial waiver.
-
-d. New York city identity card eligibility. In order to obtain a New York city identity card an applicant must establish proof of identity and proof of residency within the city as follows:
-
-   (1) Proof of identity. In order to establish identity, an applicant shall be required to produce one or more of the following documents:
-
-      (i) a U.S. or foreign passport;
-
-      (ii) a U.S. state driver's license;
-
-      (iii) a U.S. state identification card;
-
-      (iv) a U.S. permanent resident card;
-
-      (v) a consular identification card;
-
-      (vi) a photo identification card with name, address, date of birth, and expiration date issued by another country to its citizens or nationals as an alternative to a passport for re-entry to the issuing country;
-
-      (vii) a certified copy of U.S. or foreign birth certificate;
-
-      (viii) a Social Security card;
-
-      (ix) a national identification card with photo, name, address, date of birth, and expiration date;
-
-      (x) a foreign driver's license;
-
-      (xi) a U.S. or foreign military identification card;
-
-      (xii) a current visa issued by a government agency;
-
-      (xiii) a U.S. individual taxpayer identification number (ITIN) authorization letter;
-
-      (xiv) an electronic benefit transfer (EBT) card; or
-
-      (xv) any other documentation that the administering agency deems acceptable. The administering agency may by rule determine the weight to be given to each type of document provided in this paragraph, and require that an applicant produce more than one document to establish identity.
-
-   (2) Proof of residency. In order to establish residency, an applicant shall be required to produce one or more of the following items each of which must show the applicant's name and residential address located within the city and must be dated no more than sixty days prior to the date such document is presented, except as otherwise indicated in this paragraph:
-
-      (i) a utility bill;
-
-      (ii) a current residential property lease;
-
-      (iii) a local property tax statement dated within one year of the date it is submitted;
-
-      (iv) a local real property mortgage payment receipt;
-
-      (v) a bank account statement;
-
-      (vi) proof that the applicant has a minor child currently enrolled in a school located within the city;
-
-      (vii) an employment pay stub;
-
-      (viii) a jury summons or court order issued by a federal or state court;
-
-      (ix) a federal or state income tax or refund statement dated within one year of the date it is submitted;
-
-      (x) an insurance bill (homeowner, renter, health, life, or automobile insurance);
-
-      (xi) written verification issued by a homeless shelter that receives city funding confirming at least fifteen days residency;
-
-      (xii) written verification issued by a hospital, health clinic or social services agency located within the city of New York confirming at least fifteen days residency; or
-
-      (xiii) Any other documentation that the administering agency deems acceptable.
-
-      (xiv) The administering agency may by rule determine the weight to be given to each type of document provided in this paragraph, and require that an applicant produce more than one document to establish residency. The administering agency shall by rule create alternative methods by which individuals who are homeless can establish residency in the city notwithstanding the lack of fixed address.
-
-e. Confidentiality of New York city identity card eligibility information.
-
-   (1) Once every quarter the city shall destroy copies of records provided by applicants to prove identity or residency for a New York city identity card that have been retained more than two years, except where such records are required by law to be preserved as evidence for purposes of litigation.
-
-   (2) On or before December 31, 2016, the administering agency shall review data collected in the report described in subdivision h of this section and make a determination regarding the continuing need to retain records pursuant to paragraph one of this subdivision in order to effectively administer the New York city identity card program and shall make any appropriate modifications to the policy for retention of records related to the New York city identity card program.
-
-   (3) In the event that:
-
-      (i) the administering agency fails to make a determination on or before December 31, 2016 pursuant to paragraph (2) of this subdivision, or
-
-      (ii) the administering agency determines that records retention is no longer necessary, then the city shall not retain originals or copies of records provided by an applicant to prove identity or residency for a New York city identity card for longer than the time needed to review the application, and any such records in the city's possession prior to such date shall be destroyed on or before December 31, 2016 or, in the case of an application pending on such date, as soon as practicable after a final determination has been made regarding the application. Nothing in this paragraph shall be construed to prevent the city from retaining records where such records are required by law to be preserved as evidence for purposes of litigation.
-
-   (4) To the maximum extent allowed by applicable federal and state law, information collected about applicants for the card shall be treated as confidential and may only be disclosed if:
-
-      (i) Authorized in writing by the individual to whom such information pertains, or if such individual is a minor or is otherwise not legally competent, by such individual's parent or legal guardian;
-
-      (ii) So ordered by a court of competent jurisdiction;
-
-      (iii) To a requesting city agency for the limited purpose of administering the New York city identity card program or determining or facilitating the applicant's eligibility for additional benefits, services, and care, provided that such disclosure is made in accordance with all applicable federal and state privacy laws and regulations, and subject to the further requirement that such information shall not be redisclosed to any other governmental agency or entity, or third party; or
-
-      (iv) To a law enforcement agency that serves the administering agency a judicial subpoena or judicial warrant.
-
-   (5) The city shall not indicate on the application forms used to apply for a New York city identity card the type of records provided by an applicant to establish residency or identity.
-
-f. Access to services.
-
-   (1) All city agencies shall accept such card as proof of identity and residency for access to city services unless (i) such acceptance is prohibited by federal or state law, (ii) additional documentation is required to obtain the benefits of a federal or state program, or (iii) the agency has reasonable grounds to believe that the card is counterfeit, altered, or improperly issued, or the individual presenting the card is not the individual to whom the card was issued.
-
-   (2) The city shall seek to encourage eligible persons to apply for the card and expand the benefits associated with the card, including, at a minimum, by promoting acceptance of the card by banks and other public and private institutions.
-
-   (3) City agencies shall not require the possession of a New York city identity card where identification is not already required to obtain city services, provided, however that agencies may require the possession of a New York city identity card to obtain benefits or privileges offered exclusively to those who possess a New York city identity card as an incentive to apply for a New York city identity card.
-
-g. Language assistance services. The administering agency, in consultation with the mayor's office of immigrant affairs, shall identify and implement measures, including but not limited to staff training, community outreach, and language assistance tools, to address the needs of limited English proficient individuals in the administration of the New York city identity card program.
-
-h. Reporting. The administering agency shall prepare and submit to the mayor and the speaker of the city council a report on the New York city identity card program that includes the following information:
-
-   (1) the number of applications received by the city for the New York city identity card disaggregated by applicant borough of residency;
-
-   (2) the number of New York city identity cards issued;
-
-   (3) the number of New York city identity cards issued to minors;
-
-   (4) the number of requests made by city agencies for information collected about applicants for the New York city identity card disaggregated by requesting agency;
-
-   (5) the number of times the administering agency shared documents submitted by applicants to establish eligibility for the New York city identity card with other city agencies disaggregated by agency;
-
-   (6) the number of denials made to requesting agencies for information collected about applicants for the New York city identity card;
-
-   (7) the number of New York city identity card applicants whose information was disclosed to law enforcement, disaggregated by whether such disclosure was pursuant to a judicial warrant or judicial subpoena;
-
-   (8) the number of occurrences of fraud or other criminal activity related to issuance of the New York city identity card;
-
-   (9) the city's efforts to conduct outreach to prospective applicants relating to the New York city identity card program;
-
-   (10) the city's efforts to promote acceptance of the New York city identity card by banks and other public and private institutions;
-
-   (11) the types of services, other than city services, for which the New York city identity card is permitted as acceptable proof of identity and residency; and
-
-   (12) any other metric the administering agency deems appropriate, including but not limited to additional measures of fraudulent or other criminal activity related to the New York city identity card program. Such report shall be submitted on March 31, 2015 and every three months thereafter.
-
-
-
-
-
-
-*§ 3-116 Veterans receiving certain city services.* ::
-
-
-a. For the purposes of this section, the following terms shall have the following meanings:
-
-   (1) "Fee-exempt mobile food vending license" means any license as required by section 17-307 of this code for which the annual fee is waived pursuant to subdivision e of section 17-308 of this code;
-
-   (2) "Food vending permit" means any permit as required by section 17-307 of this code;
-
-   (3) "General vending license" means a license as required by section 20-453 of this code;
-
-   (4) "HUD-VASH voucher" means any voucher funded by the United States department of housing and urban development and United States department of veterans affairs supportive housing program;
-
-   (5) "Mitchell-Lama housing" means any housing development organized pursuant to article two of the private housing finance law that is supervised by the department of housing preservation and development;
-
-   (6) "Veteran" means a person who has served in the active military service of the United States and who has been released from such service otherwise than by dishonorable discharge.
-
-b. The mayor's office of operations shall report in writing to the director of the office of veterans' affairs, the veterans' advisory board, and the council the following data for the prior calendar year, to the extent practicable, disaggregated by borough: (1) the total number of Mitchell-Lama housing applications received from veterans or their surviving spouses who have identified themselves as the head of household on such applications; (2) the total number of Mitchell-Lama housing applications approved by the department of housing preservation and development for veterans or their surviving spouses who have identified themselves as the head of household on such application; (3) the total number of fee-exempt mobile food vending licenses and food vending permits issued by the department of health and mental hygiene to veterans, (4) the number of general vending licenses issued by the department of consumer affairs to veterans; (5) the total number of veterans who submitted an application to the department of consumer affairs for a general vending license; (6) the total number of veterans residing in the city who utilized a HUD-VASH voucher; and (7) the total number of civil service examination applications received by the department of citywide administrative services for which the applicant claimed a veterans credit as provided for in section 85 of the civil service law.
-
-c. Such data may be included as part of the management report provided for in section 12 of the charter, or may be issued as an independent report of the mayor's office of operations, with such independent report being due no later than October 15th of each year.
-
-
-
-
-
-
-*§ 3-117 Annual reporting on bail and the criminal justice system.** ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Homeless youth. The term "homeless youth" means persons under the age of 21 who are in need of services and are without a place of shelter where supervision and care are available.
-
-   Runaway youth. The term "runaway youth" means persons under the age of 18 years who are absent from their legal residence without the consent of their parent, legal guardian or custodian.
-
-   Sexually exploited youth. The term “sexually exploited youth” means persons under the age of 18 who have been subject to sexual exploitation because they (a) are the victim of the crime of sex trafficking as defined in section 230.34 of the penal law; (b) engage in any act as defined in section 230.00 of the penal law; (c) are a victim of the crime of compelling prostitution as defined in section 230.33 of the penal law; (d) are a victim of the crime of sex trafficking of a child as defined in section 230.34-a of the penal law; or (e) engage in acts or conduct described in article 263 or section 240.37 of the penal law. The term shall also mean persons under the age of 18 who have been subject to incest in the third degree, second degree or first degree, as defined in sections 255.25, 255.26, and 255.27 of the penal law, respectively, or any of the sex offenses enumerated in article 130 of the penal law.
-
-b. There shall be established a training coordinator, to be located in an agency designated by the mayor, who shall provide coordination, direction and guidance with respect to the provision of annual trainings to individuals whose positions involve regular contact with youth, focusing on best practices for identifying runaway, homeless or sexually exploited youth, and for connecting such youth to appropriate services. Such training shall be provided to the employees of the administration for children’s services, the department of parks and recreation, the department of homeless services, and the human resources administration/department of social services.
-
-c. The coordinator shall work with each agency identified in subdivision b of this section to identify employees whose job qualifications make them best suited for such training. The coordinator shall also be responsible for outreach efforts to other entities, including but not limited to the department of education, police department, the department of probation, health clinics, libraries, and hospitals, including emergency rooms, to encourage them to consider whether trainings similar to the ones described in this section would be appropriate for their personnel.
-
-d. As a condition of the contract with any of the agencies identified in subdivision b of this section, contractors and service providers shall provide to their employees whose positions involve regular contact with youth the training described in this section, and shall certify to the city agency responsible for such contract that such training has been conducted.
-
-e. The trainings required by this section shall be conducted in person, or through a web-based system capable of accepting, transmitting and displaying messages between a trainee and either a trainer or a provider entity, for the purpose of allowing question and answer upon receipt, or both, or through another platform or application that has been developed for such purposes.
-
-
-
-
-
-
-
-
-*§ 3-119 Modification or removal of deed restrictions.* ::
-
-
-a. Definitions. For the purposes of this section, the term "deed restriction" means a covenant set forth in a deed, lease that is for a term of 49 years or longer, or easement that limits the use of property located within the city and is imposed by the city when such property is sold or otherwise disposed of by the city.
-
-b. Approval.
-
-   1. The department of citywide administrative services shall not modify or remove any deed restriction without the approval of the mayor pursuant to this section.
-
-   2. The department of housing preservation and development shall not modify or remove any deed restriction without the approval of the mayor or the deputy mayor for housing and economic development or the official occupying any successor position, or his or her designee.
-
-c. Committee.
-
-   1. There shall be a committee to review preliminary recommendations by the department of citywide administrative services to modify or remove deed restrictions. The committee shall consist of four members, who shall be:
-
-      i. the first deputy mayor or the official occupying any successor position, or their designee;
-
-      ii. the deputy mayor for housing and economic development or the official occupying any successor position, or their designee;
-
-      iii. the corporation counsel, or their designee; and
-
-      iv. the director of the office of management and budget, or their designee.
-
-   2. Such committee shall review the preliminary recommendation and accompanying materials submitted by the department of citywide administrative services and determine whether to approve such recommendation. In reaching such determination, the committee shall consider whether approval furthers the best interests of the city, pursuant to the factors set forth in subdivision a of section 25-802.
-
-   3. (a) The committee shall issue a written determination of its approval or denial of the department of citywide administrative services' preliminary recommendation, including the committee's determination to approve or modify the consideration amount required, if any, for the modification or removal of the deed restriction, as proposed by the department, and the reasons for reaching such determinations. Any modification of the consideration amount by the committee shall be based on the appraisals provided by the department and in accordance with the calculation method developed by the department pursuant to subdivision b of section 25-804.
-
-      (b) Within three business days of reaching such a determination, the committee shall post online and send notice of such determination by mail and electronic mail to the department of citywide administrative services, community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located.
-
-      (c) The committee may modify its determination in the event that updated appraisals are provided to the committee after the department submits its preliminary recommendation.
-
-d. Mayoral approval.
-
-   1. Following the receipt of the department of citywide administrative services' final written recommendation for approval of a request to modify or remove a deed restriction submitted pursuant to section 25-805, the mayor, or the mayor's designee, shall approve or deny such request. Such request shall only be approved upon a determination by the mayor that the proposed modification or removal is appropriate and furthers the best interests of the city.
-
-   2. Within three business days of reaching a determination of approval or denial of such request, the mayor shall post notice of such determination online and send notice of such determination by mail and electronic mail to the department of citywide administrative services, community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located.
-
-e. Database of properties.*
-
-   1. The mayor or an agency or officer designated by the mayor shall maintain a searchable electronic database of all real property upon which a deed restriction was imposed on or after 1966 by the department of citywide administrative services and all requests for modification or removal of such deed restrictions made pursuant to the procedures set forth in chapter 8 of title 25. Data shall be added to such database as set forth in paragraph 2 of this subdivision and updates to such data shall be made not less than 30 days following any change to such data. Such database shall be posted on the city's website, shall have the ability to produce reports by query, and shall be published to the city's open data portal in a non-proprietary format that permits automated processing and shall include, but not be limited to, the following information:
-
-      i. The location of the property including the borough, community board district, block and lot number, and any commonly known name;
-
-      ii. The name and address of the person or entity to whom the property was disposed;
-
-      iii. A description of all restrictions contained in the deed to the property;
-
-      iv. A copy of or electronic link to the deed, lease that is for a term of 49 years or longer, or easement containing such restriction;
-
-      v. Information on requests for the modification or removal of a deed restriction made pursuant to the procedures set forth in chapter 8 of title 25, including, but not limited to, all information required to be posted online by the department for citywide administrative services pursuant to such section; and
-
-      vi. Any other information deemed relevant by the mayor or the agency or officer designated by the mayor to maintain such database.
-
-   2. Such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 2006. No later than one year following the effective date of this local law, such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 1996. No later than two years following the effective date of this local law, such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 1986. No later than three years following the effective date of this local law, such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 1976. No later than four years following the effective date of this local law, such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 1966.
-
-
-
-* Editor's note: Section 3 of L.L. 2016/175 provides: "This local law takes effect immediately, except that subdivision e of section 3-119 of the administrative code of the city of New York, as added by section two of this local law, takes effect one year after it becomes law; provided, however, that the department of citywide administrative services and the mayor or agency or officer designated by the mayor as set forth in section two of this local law may take all actions necessary for the implementation of this local law, including the promulgation of rules, prior to such effective date."
-
-
-
-
-
-
-*§ 3-119.1 Citywide census of vacant properties.* ::
-
-
-a. The mayor, or an agency designated by the mayor, shall analyze data provided under subdivisions b and c of this section to provide an estimate of the number of vacant residential buildings and vacant lots located in areas zoned to permit residential use. Such analysis need not be conducted with regard to vacant buildings or vacant lots located in coastal flood zones designated by the federal emergency management agency or other coastal flood zones designated or recognized by the city. The first such analysis shall be initiated no later than 90 days after the effective date of the local law that added this section and shall be completed within three years thereafter. A new vacancy analysis shall be conducted every five years thereafter.
-
-b. The departments of housing preservation and development, environmental protection, buildings and sanitation and the fire department, and any other agency upon request of the mayor or such designated agency, shall provide to the mayor or such designated agency such records as may be provided lawfully concerning the physical condition of and services provided to any building or parcel of land within the city in order to aid the mayor or such designated agency in determining whether any building or lot is vacant.
-
-c. The mayor or such designated agency shall compile a list of the potentially vacant buildings and potentially vacant lots disclosed as a result of such analysis. Sources of information relating to buildings and lots shall include, but need not be limited to, records of the department of housing preservation and development, the department of finance and the department of buildings, and each agency shall provide to the mayor or such designated agency such information as shall be requested and that may be provided lawfully.
-
-
-
-
-
-
-
-
-*§ 3-119.2 Annual reporting on workplace sexual harassment.* ::
-
-
-a. Definitions. For purposes of this section, the following terms have the following meanings:
-
-   Agency. The term “agency” has the same meaning as such term is defined in section 1150 of the charter and shall include the offices of the borough presidents, the comptroller and the public advocate.
-
-   Department. The term “department” means the department of citywide administrative services.
-
-   Reporting individual. The term “reporting individual” means a city job or internship applicant, or a current or former employee, intern, independent contractor or volunteer who brings forth a report of workplace sexual harassment.
-
-   Respondent. The term “respondent” means a city job or internship applicant, or a current or former employee, intern, independent contractor or volunteer accused of workplace sexual harassment who has entered into the agency’s official complaint process.
-
-b. Each agency shall report to the department complaints of workplace sexual harassment annually. The department shall annually compile complaints of workplace sexual harassment within each agency for the preceding fiscal year and shall annually submit by December 31 to the mayor, the council and commission on human rights, which shall post it on its website, a report containing the following information:
-
-   1. The number of such complaints that were filed;
-
-   2. Of those complaints in paragraph 1 of this subdivision, the number of complaints resolved;
-
-   3. Of those complaints in paragraph 2 of this subdivision, the number of complaints substantiated;
-
-   4. Of those complaints in paragraph 2 of this subdivision, the number of complaints not substantiated; and
-
-   5. The number of complaints in the agency’s official discrimination claim process that were closed because the complaint was withdrawn by the reporting individual prior to a final determination.
-
-c. The information required pursuant to subdivision b of this section shall be disaggregated by agency, except that agencies with 10 employees or less shall be aggregated together.
-
-d. No report required pursuant to subdivision b of this section shall contain personally identifiable information. If any category requested contains between 0 and 5 incidents of sexual harassment claims, the number shall be replaced with a symbol.
-
-
-
-
-
-
-
-
-*§ 3-120 Study on notification of public assistance eligibility.** ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   Notice. The term “notice” means a written communication sent through the mail or by electronic means.
-
-   Public assistance. The term “public assistance” means all forms of public benefits provided by the federal government, state of New York, or city of New York for which an individual may apply through the city including but not limited to: cash assistance; the home energy assistance program; medicaid; rent increase exemptions; child care subsidies; and the supplemental nutrition assistance program.
-
-   Renewal. The term “renewal” means the automatic or affirmative act of recertifying or re-applying for public assistance, as may be required on a periodic basis, for an individual already receiving such public assistance.
-
-   City administrative data. The term “administrative data” means data, including but not limited to individually identifiable data, that is maintained in databases managed by the city of New York, including but not limited to those maintained by the department of social services, the department of finance, the administration for children’s services, the department of small business services and the department of housing preservation and development.
-
-   Office. The term “office” means the office of operations established pursuant to section 15 of the charter or any other office or agency designated by the mayor.
-
-b. By December 31, 2018, the office, in collaboration with relevant agencies, shall complete a study regarding the feasibility and cost to the city of utilizing city administrative data to identify individuals who are likely eligible for public assistance and providing notice to such individuals of their likely eligibility. Such study shall include, but need not be limited to:
-
-   1. Assessing the city’s technical ability to collect, disclose, and electronically transmit city administrative data, in a manner that complies with applicable law and city and agency policies, including data provided by every individual who submits an application for public assistance or is in receipt of public assistance, in order to determine likely qualification for additional public assistance using eligibility screening tool(s);
-
-   2. Identifying and assessing the means available to provide notice to an individual of any public assistance or additional public assistance for which an the individual may qualify. Such notice may include a copy of the relevant applications and instructions on how to apply for such public assistance. In instances where public assistance may be applied for or renewed online, the office shall consider how notice may include a link to access the application or renewal online, and the option for individuals to decline receiving applications or renewals in paper form;
-
-   3. Assessing the technical ability to provide pre-filled applications with information obtained from an individual’s initial public assistance application or other existing city administrative data, in a manner that complies with applicable law and city and agency policies, such assessment considering: (i) renewal applications where an individual is already receiving such public assistance, (ii) in instances where public assistance may be applied for or renewed online, how an individual may be provided with a link to securely access the applicable public benefit application online that has been pre-filled with information obtained from such individual’s last public benefit application along with instructions, and (iii) the implications of enabling individuals to decline receiving applications or renewals in paper form;
-
-   4. Considering the implications of notifying individuals of their likely eligibility for certain public assistance benefits that, if claimed, may affect their eligibility for existing or other public assistance benefits;
-
-   5. Identifying additional options for the city to provide individuals with assistance in completing public assistance applications, including but not limited to online, over the phone through 311 and at a city agency accepting public assistance applications.
-
-
-
-
-
-
-
-
-*§ 3-121 Client information management systems study.** ::
-
-
-a. Definitions. For the purposes of this section the following terms have the following meanings:
-
-   Client information management system. The term “client information management system” means any electronic software used to collect, record, or manage information about social services that individuals may apply for or receive.
-
-   Office. The term “office” means the office of operations established pursuant to section 15 of the charter or any other office or agency designated by the mayor.
-
-b. By December 31, 2018, the office, in consultation with the relevant agencies as set forth in this subdivision, shall complete a study regarding client information management systems. Such study shall include, but need not be limited to:
-
-   1. Assessments of efforts to update and integrate the client information management systems of agencies that provide social services to city residents, including but not limited to the department of social services, the department of homeless services, the administration for children’s services, the department of education, and the department of housing preservation and development;
-
-   2. Strategies to help facilitate information sharing among such agencies so as to support improved inter-agency coordination of social services to city residents in a manner consistent with applicable laws and regulations, city and agency policies and technical requirements concerning the protection of individually identifiable information and student identifiable information;
-
-   3. Examination of how such agencies can use digital tools to interact with individuals served by such agencies, including but not limited to applying for social services, electronically uploading documents, reminders and updates by text message, electronic notification regarding available services, and potential technology investments;
-
-   4. Identification and recommendations of upgrades to client information management systems operated by the city and other governmental units that interact with client information management systems serving city residents; and
-
-   5. Recommendations of how the city can continue to monitor and evaluate existing client information management systems and updates to such systems in order to remain current in the use of technology to serve clients.
-
-c. By March 30, 2019, the office shall report its findings and recommendations to the mayor and the speaker of the council. By March 30 of each subsequent year until March 30, 2022, the office shall submit to the mayor and the speaker of the council information detailing progress made on the recommendations that resulted from such report and any additional relevant information as determined by the office.
-
-
-
-Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in effect until March 30, 2022, after which it shall be deemed repealed.
-
-
-
-
-
-
-
-**Subchapter 2: Office of Long-Term Planning and Sustainability**
-
-
-
-*§ 3-120 Annual city food system metrics report.** ::
-
-
-a. No later than September first, two thousand twelve, and no later than every September first thereafter, the office of long-term planning and sustainability shall prepare and submit to the mayor and the speaker of the city council a report regarding the production, processing, distribution and consumption of food in and for the city of New York during the previous fiscal year. Such report shall include:
-
-   1. the number, size in acres, county and type of production of, and annual dollar amount of city financial support received by, farms participating in the watershed agricultural program;
-
-   2. the total dollar amount of expenditures by the department of education on milk and other food products that are subject to the United States department of agriculture country of origin labeling requirements, disaggregated and sorted by the product and country of origin in which the essential components of such food products were grown, agriculturally produced and harvested, to the extent such information is reported to the department of education. For any such product where there are multiple countries of origin, the total dollar amount of expenditures, disaggregated by product, shall be separately listed, to the extent such information is reported to the department of education. If the country of origin of milk or fresh whole produce is the United States, for the report due no later than September first, two thousand thirteen, and in every report thereafter, and to the extent such information is reported to the department of education, such report shall include the total dollar amount of expenditures on such milk or fresh whole produce that is local or regional. For purposes of this paragraph, milk or fresh whole produce shall be considered "local" if grown, agriculturally produced and harvested within New York state, and shall be considered "regional" if such food products were grown, agriculturally produced and harvested within the states of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, Ohio, Pennsylvania, Rhode Island, Vermont, Virginia or West Virginia;
-
-   3. the location, sorted by community board and size in square feet, of each community garden located on city-owned property that is registered with and licensed by the department of parks and recreation, and whether each such garden engages in food production;
-
-   4. the number of food manufacturers receiving monetary benefits from the economic development corporation or industrial development agency and the annual dollar amount of such benefits per food manufacturer. For purposes of this paragraph, "food manufacturer" shall mean any natural person, partnership, corporation or other association that processes or fabricates food products from raw materials for commercial purposes, provided that it shall not include any establishment engaged solely in the warehousing, distribution or retail sale of products;
-
-   5. the daily number of truck and rail trips to or through Hunts Point Market for the purpose of delivering food to Hunts Point Market, to the extent such information is available. For purposes of this paragraph, "Hunts Point Market" shall mean the food distribution center located in Hunts Point in the borough of the Bronx, and shall include the meat, fish and produce markets operating at such location;
-
-   6. for the report due no later than September first, two thousand thirteen, and in every fifth report thereafter, the amount of grocery store space per capita, sorted by community board, and the number of grocery stores that opened during the past five calendar years, sorted by community board, to the extent such information is available. The office of long-term planning and sustainability shall request such information, as necessary, from the New York state department of agriculture and markets;
-
-   7. the number, community board, and number of employees, of grocery stores receiving financial benefits under the food retail expansion to support health program;
-
-   8. the number of establishments participating in the healthy bodega initiative administered by the department of health and mental hygiene, sorted by borough;
-
-   9. the number of job training programs administered by the department of small businesses services or the workforce investment board to aid individuals seeking work in food manufacturing, food supply, food service or related industries, sorted by borough;
-
-   10. the total number of meals served by city agencies or their contractors, including but not limited to meals served in public schools, hospitals, senior centers, correctional facilities, and homeless shelters, and not including food sold in vending machines or by a concessionaire, sorted by agency;
-
-   11. for each required city agency food standard developed pursuant to executive order number one hundred twenty-two, dated September nineteenth, two thousand eight, the total number of programs or other relevant entities that purchase, prepare or serve meals, not including food sold in vending machines or by a concessionaire, that are in full compliance with each such standard and the total number that are not in full compliance with each such standard, sorted by agency;
-
-   12. the number of and amount of annual revenue earned from vending machines located in facilities operated by the department of education;
-
-   13. the number of persons sixty-five years or older receiving benefits through the supplemental nutritional assistance program ("SNAP" ) administered by the United States department of agriculture;
-
-   14. the number and description of, and dollar amount spent by, the human resources administration on SNAP outreach programs;
-
-   15. the number and description of, and dollar amount spent on, nutrition education programs administered by the human resources administration and department of health and mental hygiene;
-
-   16. the number of salad bars in public schools and in hospitals operated by the health and hospitals corporation, respectively, sorted by borough;
-
-   17. the total amount expended by the department of citywide administrative services to purchase water other than tap water;
-
-   18. information concerning the green cart initiative administered by the department of health and mental hygiene, including the number of applications for permits, the number of permits issued, the number of persons on the waiting list, the number of violations issued to green carts, the location of such carts when such violations were issued and, to the extent such information is available, the number of permit holders who accept electronic benefit transfer, sorted by borough;
-
-   19. the number of vendors at greenmarkets, farmers' markets and similar markets operated by the council on the environment of New York city or any successor entity, and the average number of vendors at such markets, sorted by borough; and
-
-   20. for the report due no later than September first, two thousand fourteen, and in every report thereafter, contents of the report on food security as required by subdivision j of section 20 of the charter.
-
-b. Each annual report prepared pursuant to subdivision a of this section shall be made available to the public at no charge on a website maintained by or on behalf of the city of New York.
-
-
-
-
-
-
-*§ 3-121 Clean waterfront plan.** ::
-
-
-a. For purposes of this section, the following terms shall have the following meanings:
-
-   1. "Director" shall mean the director of long-term planning and sustainability;
-
-   2. "Office" shall mean the office of long-term planning and sustainability; and
-
-   3. "Waterfront dumping" shall mean any violation of subdivision a of section 16-119 of this code that occurs in or upon any wharf, pier, dock, bulkhead, slip or waterway or other area, whether publicly or privately owned, that is adjacent to any wharf, pier, dock, bulkhead, slip or waterway, and any violation of section 22-112 of this code.
-
-b. The director, in conjunction with the commissioner of environmental protection, the commissioner of sanitation, the commissioner of small business services and, where necessary and practicable, the police commissioner, and the heads of such other agencies as the mayor may designate, shall prepare a clean waterfront plan to prevent waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads. The plan shall include, but need not be limited to, the following:
-
-   1. a determination as to whether the promulgation of rules is necessary to implement the clean waterfront plan and a description of the nature of those rules, if any;
-
-   2. the creation of an accessible and centralized source of information consisting of laws, rules and regulations that relate to the clean waterfront plan;
-
-   3. a protocol to coordinate with federal, state, and multi-state agencies and authorities that have jurisdiction over the port of New York and waterways in the city of New York in relation to promoting a clean waterfront;
-
-   4. a protocol to coordinate the enforcement of all applicable laws, rules and regulations that relate to the clean waterfront plan and the promotion of a clean waterfront by the office, the department of environmental protection, the department of sanitation, the department of small business services and, where necessary and practicable, the police department, and such other agencies as the mayor may designate, that would include, but need not be limited to, a survey to identify sites where waterfront dumping occurs or is likely to occur, periodic inspections of waterfront properties, and the posting of signs to discourage waterfront dumping, littering and the abandonment of vehicles, vessels and crafts on waterfront property; and
-
-   5. a public education and outreach program to increase awareness about the clean waterfront plan.
-
-c. The director shall submit the clean waterfront plan to the mayor and the speaker of the city council on or before January 1, 2013 and shall post such plan on the city website.
-
-d. 1.    The director shall submit a report to the mayor and the speaker of the city council on or before April 1, 2014 and on or before April 1 of every other year thereafter, which shall include, but need not be limited to, the following information for the immediately preceding two calendar years:
-
-      (i) the number of complaints received by the city concerning conduct that constitutes waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads;
-
-      (ii) the number of summonses and notices of violation, respectively, issued by each agency for violations of any law, rule or regulation relating to waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads;
-
-      (iii) the total amount of civil penalties imposed for such notices of violation by the environmental control board;
-
-      (iv) any changes made to the clean waterfront plan;
-
-      (v) a summary of any rules promulgated to implement the clean waterfront plan; and
-
-      (vi) recommendations for appropriate legislation and improved enforcement with respect to the clean waterfront plan.
-
-   2. In the report issued on or before April 1, 2018 the director shall make a recommendation on the necessity of future reports issued pursuant to this subdivision.
-
-e. Three months prior to the submission of the plan or a report as required by subdivisions c and d of this section, respectively, the director shall make a draft of such plan or report available to the public for a sixty-day comment period. All comments received during such period shall be included as an appendix to the plan or report. The director shall provide notice of such opportunity to comment to any property owners and/or tenant organizations, manufacturing and commercial trade groups, community-based organizations, environmental advocacy organizations and members of the general public that have formally requested to be notified of such opportunity or other individuals or organizations that the director deems appropriate.
-
-
-
-
-
-
-*§ 3-122 New York city panel on climate change.* ::
-
-
-a. For the purposes of this section and section 3-123 of this subchapter, the following terms shall mean:
-
-   1. "Vulnerable populations" means persons or communities at increased risk of harm as a direct or indirect consequence of climate change based on one or more of the following risk factors: (i) proximity to disproportionally impacted areas; (ii) age, including senior citizen or minor status; (iii) income level; (iv) disability; (v) chronic or mental illness; and (vi) language.
-
-   2. "Public health" means impacts on physical health, mental health and social well-being and public or private services that treat and prevent disease, prolong life and promote health.
-
-   3. "Natural systems" means ecosystems and assets that provide ecologic benefits, including but not limited to waterbodies, trees, wetlands and parks.
-
-   4. "Critical infrastructure" means systems and assets, with the exception of residential and commercial buildings, that support vital city activities and for which the diminished functioning or destruction of such systems and assets would have a debilitating impact on public safety and/or economic security.
-
-b. There shall be a New York city panel on climate change whose members shall serve without compensation from the city. Members shall include, but not be limited to, climate change and climate impact scientists who shall be appointed by, and serve at the pleasure of, the mayor.
-
-c. 1. The panel shall meet at least twice a year for the purpose of (i) reviewing the most recent scientific data related to climate change and its potential impacts on the city's communities, vulnerable populations, public health, natural systems, critical infrastructure, buildings and economy; and (ii) advising the office of long-term planning and sustainability and the New York city climate change adaptation task force established pursuant to section 3-123 of this subchapter.
-
-   2. The panel shall make recommendations regarding (i) the near-, intermediate and long-term quantitative and qualitative climate change projections for the city of New York within one year of the release of an assessment report by the intergovernmental panel on climate change, but not less than once every three years; and (ii) a framework for stakeholders to incorporate climate change projections into their planning processes.
-
-d. The panel shall advise the office of long-term planning and sustainability on the development of a community- or borough-level communications strategy intended to ensure that the public is informed about the findings of the panel, including the creation of a summary of the climate change projections for dissemination to city residents.
-
-
-
-
-
-
-*§ 3-123 New York city climate change adaptation task force.* ::
-
-
-a. There shall be a New York city climate change adaptation task force consisting of city, state and federal agencies and private organizations and entities responsible for developing, maintaining, operating or overseeing the city's public health, natural systems, critical infrastructure, including telecommunications, buildings and economy. The task force shall be chaired by the office of long-term planning and sustainability, and shall include, but need not be limited to, representatives from the department of buildings, the department of design and construction, department of city planning, the department of environmental protection, the department of information technology and telecommunications, the department of parks and recreation, the department of sanitation, the department of transportation, the economic development corporation, the office of emergency management, the office of management and budget, the department for the aging and the department of health and mental hygiene. Public members shall include, but need not be limited to, representatives from organizations in the health care, telecommunications, energy and transportation fields, who shall be appointed by, and serve at the pleasure of, the mayor without compensation from the city. The mayor shall invite the appropriate federal, state and local agencies and authorities to participate.
-
-b. 1. The task force shall meet at least twice a year for the purposes of reviewing the climate change projections as recommended by the New York city panel on climate change pursuant to section 3-122 of this subchapter; evaluating the potential impacts to public health and the delivery of public health services to the city's communities and vulnerable populations and how such delivery may be affected by climate change; evaluating the potential impacts to the city's natural systems, critical infrastructure, including telecommunications, and buildings and how services provided by such systems, infrastructure, including telecommunications, and buildings may be affected by climate change; identifying the rules, policies and regulations governing public health, natural systems, critical infrastructure, including telecommunications, buildings and economy that may be affected by climate change; and formulating and updating coordinated strategies to address the potential impact of climate change on the city's communities, vulnerable populations, public health, natural systems, critical infrastructure, including telecommunications, buildings and economy.
-
-   2. Within one year of the development of recommended climate change projections pursuant to section 3-122 of this subchapter, the task force shall create an inventory of potential risks due to climate change to the city's communities, vulnerable populations, public health, natural systems, critical infrastructure, including telecommunications, buildings and economy; develop adaptation strategies to address such risks that may include design guidelines for new infrastructure, and short and long-term resiliency recommendations for existing public and private telecommunications infrastructure, including an evaluation of wireless infrastructure; and identify issues for further study. A report with recommendations shall be issued based on this information and submitted to the mayor and the city council and shall be made available to the public.
-
-   3. The task force shall conduct outreach to telecommunication service providers, including all telecommunication service providers with a franchise agreement with the city, and request their cooperation in obtaining information relevant to the task force's requirements under subdivision two of this section. The report will include a description of the efforts undertaken to obtain the cooperation of infrastructure providers and the results of such efforts, including specifically whether any such providers refused to cooperate.
-
-c. The office of long-term planning and sustainability shall develop a community- or borough-level communications strategy intended to ensure that the public is informed about the findings of the task force, including the creation of a summary of the report for dissemination to city residents. In developing such communications strategy, the director shall consult with non-governmental and community-based organizations.
-
-
-
-
-
-
-
-
-*§ 3-124 Study and report on the effects of wind on certain buildings.* ::
-
-
-a. The office of long-term planning and sustainability in consultation with the department of buildings shall undertake a study and submit a report to the mayor and the speaker of the city council, on the effects of wind on existing buildings, including existing buildings that are raised, and buildings that are under construction in the city of New York. Such report and accompanying recommendations shall be provided no later than two years from the effective date of the local law that added this section and shall include the following:
-
-   1. An analysis to determine the types of existing buildings that are at risk of causing falling debris, based on the age, construction classification, construction methods and materials, height, and occupancy use of such buildings;
-
-   2. An analysis of the effects of wind on existing buildings that are raised, lifted, elevated or moved in order to comply with Appendix G of the New York city building code or to address flood hazard concerns;
-
-   3. An analysis of the effects of wind on buildings that are under construction, including the effects of wind on buildings with incomplete facade assemblies, temporary installations used in construction, and construction materials that are stored on construction sites;
-
-   4. An analysis of forecasts related to potential changes in the frequency, intensity, and path of future storm events along with consideration of whether climate change may impact wind speeds; and
-
-   5. An examination of the benefits of installing and maintaining weather stations across the city, including on high-rise buildings, to better understand localized wind patterns.
-
-b. The report shall include recommendations on paragraphs one through five of subdivision a of this section as well as recommendations on whether the applicable wind loads under the city's building code should be revised; whether standard wind plans for sites in various stages of construction are needed, including plans regarding equipment and temporary structures such as cranes, derricks, scaffolds, concrete formwork and sidewalk bridges; how equipment and temporary structures such as cranes, derricks, scaffolds, concrete formwork and sidewalk bridges should be designed and secured in light of wind effects; whether changes to the building code or department of buildings rules related to facade work filing and inspection exemptions or safety inspection requirements are necessary and what wind load requirements should be applied to existing buildings.
-
-
-
-
-
-
-*§ 3-125 Geothermal systems.* ::
-
-
-a. As used in this section:
-
-   Criteria air pollutant. The term "criteria air pollutant" means a pollutant for which the United States environmental protection agency has set national ambient air quality standards pursuant to 40 CFR part 50.
-
-   Geothermal system. The term "geothermal system" means a geothermal system as defined in section one of local law number 32 for the year 2013.
-
-   Peak demand reduction. The term "peak demand reduction" means a reduced demand for electricity that occurs between 2 p.m. and 6 p.m., Monday through Friday from June 1 through September 30.
-
-b. No later than February 1, 2017, an office or agency designated by the mayor shall, in consultation with the department of buildings, the department of design and construction and other relevant agencies, develop and make publicly available online a screening tool that can be used to determine whether installation of a geothermal system may be cost-effective for a property.
-
-c. Such screening tool shall be used in the planning process for the new construction of a city-owned building and the retrofitting of an existing city-owned building's heating and cooling system where the planning process commences on or after February 1, 2017.
-
-d. 1. Where the use of such screening tool required pursuant to subdivision c of this section indicates that installation of a geothermal system may be cost-effective, an engineering and multi-criteria analysis of the use of a geothermal system, including, where appropriate, an analysis of the option of utilizing a photovoltaic system coupled with a geothermal system, shall be conducted. As part of such engineering and multi-criteria analysis, at a minimum, the following criteria shall be used to evaluate geothermal systems and compare such systems with other heating/cooling alternatives:
-
-      (a) Comparison of greenhouse gas emissions as a result of fuel and electricity consumption;
-
-      (b) Comparison of impacts on criteria air pollutant concentrations;
-
-      (c) Comparison of annual electricity consumption and impacts on peak demand reduction;
-
-      (d) Where applicable, comparison of a potential revenue stream generated from the peak demand reduction using a dollar metric;
-
-      (e) Comparison of fuel and power costs; and
-
-      (f) Comparison of the net present value of all alternatives considered, where such net present value shall:
-
-         (1) Be based on a 20-year life expectancy for each proposed option, unless a particular technology has a different life expectancy as documented by the manufacturer; and
-
-         (2) Include capital costs, operations and maintenance, fuel costs, available federal, state and other non-city governmental funding assistance, and the social cost of carbon value as provided in paragraph 3 or pursuant to paragraph 4; provided that a site- or project-specific social cost of carbon value may be developed and used in lieu of the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4 if such site- or project-specific social cost of carbon value is higher than the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4.
-
-   2. If the geothermal system has the lowest net present value of all alternatives considered it shall be selected for implementation.
-
-   3. The social cost of carbon value shall be as follows:
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Year
-      - Dollar value per metric ton of carbon dioxide equivalent
-    * - 2017
-      - 128
-    * - 2018
-      - 132
-    * - 2019
-      - 136
-    * - 2020
-      - 140
-    * - 2021
-      - 142
-~
-
-
-
- 
-
-   4. An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value.
-
-e. By no later than six months after the end of each fiscal year, an office or agency designated by the mayor shall submit to the speaker of the council and make publicly available online a report containing the following information for each project described in subdivision c of this section that is completed during such fiscal year:
-
-   1. A brief description of such project;
-
-   2. The street address of such project and the community district and council district in which such project is located;
-
-   3. Whether installation of a geothermal system for such project was determined to be cost-effective based on the use of the screening tool described in subdivision b of this section;
-
-   4. Whether installation of a geothermal system was selected for the project based on the detailed engineering and multi-criteria analysis pursuant to subdivision d of this section; and
-
-   5. Whether a geothermal system was installed for such project and, if not, the type of system installed.
-
-f. No later than 18 months after the effective date of the local law that added this subdivision, an office or agency designated by the mayor shall, in consultation with the relevant agencies, develop and submit to the mayor and the speaker of the council recommendations relating to:
-
-   1. Standards for the installation and maintenance of geothermal systems, including standards relating to assessing subsurface conditions and the design, commissioning, distribution and performance monitoring of such systems;
-
-   2. Required qualifications for persons who will design or install such systems;
-
-   3. Maintaining a publicly available registry of such persons;
-
-   4. Informing property owners and installers of geothermal systems regarding the potential benefits of coupling a photovoltaic system installation with a geothermal system for buildings within the city; and
-
-   5. The technical and regulatory feasibility of implementing a geothermal system for waterfront properties within the city by suspending closed loop coils or other heat exchange devices in the marine surface waters around the city.
-
-
-
-
-
-
-
-
-*§ 3-126 New York city energy policy.* ::
-
-
-a. Definitions. As used in this section:
-
-   Advisory subcommittee. The term “advisory subcommittee” means the New York city energy policy advisory subcommittee appointed to advise the city’s sustainability advisory board, as established by subdivision g of section 20 of the New York city charter, regarding the long-term energy goals of the city of New York.
-
-   Administering agency. The term “administering agency” means the office or agency designated by the mayor, pursuant to subdivision f of this section, to administer the provisions of this section.
-
-   Energy supply. The term “energy supply” means (i) power plants and any other facilities that generate energy that is used in the city; (ii) infrastructure that transmits or distributes energy that is used in the city; (iii) any fuels that are used in buildings or facilities in the city; and (iv) distributed generation sources of electricity, including cogeneration and energy storage facilities that are used in the city.
-
-   Renewable energy. The term “renewable energy” means energy generated from (i) hydropower, municipal solid waste, marine and hydrokinetic, wind, solar, biomass, geothermal, and biogas; (ii) any source that the administering agency determines is renewable; or (iii) any source that is determined by the administering agency to have a positive environmental impact or a substantially lower negative environmental impact than other sources of energy.
-
-b. New York city energy policy advisory subcommittee.
-
-   1. The administering agency shall convene a New York city energy policy advisory subcommittee.
-
-   2. The head of the administering agency or a designee of the mayor shall be the chair of the advisory subcommittee.
-
-   3. The mayor or his or her designee shall, in consultation with the speaker of the council, appoint the members of the advisory subcommittee. To the extent practicable, the appointed members shall include representatives of (i) governmental entities that regulate or have a significant interest in the development of the energy supply; (ii) energy utilities; (iii) the renewable energy industry; (iv) the energy industry; (v) consumer organizations advocating on energy issues; (vi) environmental advocacy organizations; (vii) licensed professional engineers; and (viii) other persons with experience or expertise deemed relevant by the mayor or his or her designee. Members of the advisory subcommittee shall serve without compensation and may be removed at any time by the mayor or his or her designee, in consultation with the speaker of the council.
-
-c. Meetings. The advisory subcommittee shall convene at least once every six months for the purpose of evaluating materials related to the adequacy and potential risks to the energy supply, and to provide advice and recommendations concerning the implementation of objectives regarding the development of the energy supply, as established by the long-term energy plan required by this section.
-
-d. The administering agency shall submit to the mayor and the speaker of the council, and make publicly available online, a long-term energy plan, in conjunction with the plan developed in accordance with subdivision e of section 20 of the New York city charter. The advisory subcommittee established by this section shall provide, as needed, advice and recommendations with respect to the development of such plan, which shall include, but not be limited to:
-
-   1. A review of the current energy supply and capacity;
-
-   2. A summary of the current citywide energy demand and a projection of the future citywide energy demand over the next four years, or such longer period as the advisory subcommittee may deem appropriate, including (i) an identification of factors that may affect demand; (ii) specific recommendations regarding the capacity that could be added to the current energy supply to meet such projected demand after consideration of such factors; and (iii) actions the city could take in connection with such recommendations;
-
-   3. A list of each governmental entity that regulates or exercises any authority over the energy supply, in whole or in part, and, for each such entity, a description of its role with respect to the energy supply;
-
-   4. An estimate of the renewable energy sources within or directly connected to Zone J plus an accounting of energy efficiency measures and distributed generation that have been deployed in the city;
-
-   5. Specific recommendations for developing and integrating additional renewable energy sources and energy efficiency measures to the maximum extent possible, including actions the city could take in connection with such recommendations, and actions the city could advocate be taken by the state and federal government in connection with such recommendations.
-
-e.  Where the administering agency has established a long-term energy plan in accordance with this section and in conjunction with the long-term sustainability plan required by subdivision e of section 20 of the New York city charter, the advisory subcommittee shall provide advice and recommendations with respect to:
-
-   1. Plans for providing information to city residents and other members of the public regarding energy efficiency initiatives and the purchase of renewable energy;
-
-   2. Plans for the dissemination of information to city residents and other members of the public about the benefits of and progress attained through such long-term energy plan; and
-
-   3. For any subsequent long-term energy plan, a review of the city’s objectives and recommendations established in the previous long-term energy plan.
-
-f. The mayor shall, in writing, designate one or more offices or agencies to administer the provisions of this section and may, from time to time, change such designation. Within 10 days after such designation or change thereof, a copy of such designation or change thereof shall be published on the city’s website and on the website of each such office or agency, and shall be electronically submitted to the speaker of the council.
-
-
-
-Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect immediately; provided, however, that the plan required by subdivision d of section 3-126 of the administrative code of the city of New York, as added by this local law, shall be completed by December 31, 2019 and shall be updated every four years thereafter."
-
-
-
-
-
-
-*§ 3-127 Map of areas most vulnerable to flooding; mitigation plan.* ::
-
-
-a. In 2020 and no later than April 22, 2023 and no later than every four years after April 22, 2023, an office or agency designated by the mayor, with the cooperation of all relevant agencies, shall develop and make publicly available on its website:
-
-   1. A map of areas in the city most vulnerable to increased flooding due to the anticipated effects of climate change, including but not limited to increased precipitation, coastal storms and sea level rise; and
-
-   2. A long-term plan for preventing or mitigating such increased flooding, and the effects thereof, in such areas.
-
-b. Such office shall seek the cooperation of relevant federal and state agencies and other public or private persons as such office deems appropriate in developing such map and plan.
-
-
-
-
-
-
-
-
-*§ 3-128 Efficiency and efficacy study of existing geothermal systems.* ::
-
-
-a. For purposes of this section, the term “geothermal system” means a system used to exchange geothermal energy between the earth and one or more buildings to provide heating or cooling.
-
-b. An office or agency designated by the mayor shall conduct an efficiency and efficacy study of existing geothermal systems in city buildings.
-
-c. In order to complete such study, remote monitoring sensors and data loggers shall be installed in five or more city buildings with existing geothermal systems for the purpose of collecting data from any such system for a period of not less than 12 months.
-
-d. No later than two years after the installation of such remote monitoring sensors and data loggers, the office or agency designated by the mayor to conduct such study shall, prepare and electronically submit a report to the mayor and the speaker of the council, and make such report publicly available online.
-
-e. The report required by subdivision d of this section shall include, but need not be limited to, the following:
-
-   1. the cost of installing any such geothermal system;
-
-   2. any problems encountered in installing any such system and solutions developed to address such problems and any costs or savings associated with such solutions;
-
-   3. the cost of operating any such system, including energy consumption, maintenance, and other expenditures;
-
-   4. any problems encountered in operating any such system and solutions developed to address such problems;
-
-   5. an energy modeling analysis of the performance of any such system;
-
-   6. comparisons of such performance to the performance of conventional heating and cooling systems located in comparable city buildings; and
-
-   7. recommendations for continuing or expanding the use of geothermal systems.
-
-
-
-
-
-
-
-
-*§ 3-129 Study of beneficial reuse of dewatering discharge from the aquifers in Queens County.* ::
-
-
-a. An office or agency designated by the mayor shall conduct a feasibility study concerning the beneficial reuse of discharge waters as a result of continuous dewatering operations in southeastern Queens County. The results of such study shall be submitted to the mayor and the speaker of the council no later than two years after its commencement.
-
-b. Such study shall include, but need not be limited to, the following;
-
-   1. An investigation of the flow, temperature, quality, consistency and reliability of discharge waters and recommended measures for beneficial reuse including, but not limited to, landscaping, grey water systems, and the extraction or deposition of heat energy from or to such waters for the purposes of heating and/or cooling buildings;
-
-   2. An investigation of alternatives to dewatering;
-
-   3. An evaluation of existing buildings that are owned or operated by the city or receive financial assistance from the city that have demonstrated continuous groundwater infiltration to basements and cellars for the purpose of determining the feasibility of dewatering and subsequently reusing discharge waters in an open loop heat pump system for heating and cooling such buildings;
-
-   4. An evaluation of existing groundwater conditions at each such building site to identify adverse groundwater quality and hydrogeological conditions, if any;
-
-   5. An analysis of the environmental impacts and permitting requirements related to the discharge of groundwater, specifically groundwater that has been heated or cooled and discharged to a surface water body or other surface structures;
-
-   6. An evaluation of possible impacts of potential sea level rise in southeastern Queens County on geothermal systems; and
-
-   7. If such beneficial reuse is not feasible, identification of impediments to such beneficial reuse, whether such impediments may be addressed by the city and, if so, any plans to address to such impediments.
-
-
-
-
-
-
-
-
-*§ 3-130 Pilot program to provide heating and/or cooling or other beneficial reuse of discharge waters from dewatering operations in southeastern Queens County.* ::
-
-
-a. If the office or agency designated by the mayor to conduct the study required pursuant to section 3-129 determines, based on such study, that it may be feasible to use discharge waters from existing basements, cellars and other dewatering pumping operations in southeastern Queens County in connection with a heat pump system to provide heating and/or cooling to one or more buildings that are owned or operated by the city or receive financial assistance from the city, then such office or agency, in consultation with the department of design and construction and the department of environmental protection, shall develop a pilot program for the purpose of providing such heating and/or cooling.
-
-b. Such program shall continue for at least three years after the date on which the city commences providing heating and/or cooling through such system to such buildings.
-
-c. No later than February 1 in the second year that commences after heating and/or cooling has been provided to such buildings for three full calendar years through such program, such office or agency, in consultation with such departments, shall prepare and electronically submit, and make publicly available online, a report to the mayor and the speaker of the council with a detailed assessment of the impacts of such program, including recommendations for continuing or expanding such program.
-
-
-
-
-
-
-
-
-
-**Subchapter 3: Office of Veterans' Affairs [Repealed]**
-
-
-
-*§ 3-130 Employment resources. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-131 Veteran liaisons. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-132 Veterans' advisory board electronic mail addresses. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 3-133 Additional notice of public meetings of the veterans' advisory board. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-
-**Subchapter 4: Office of Labor Standards**
-
-
-
-*§ 3-140 Office of Labor Standards.* ::
-
-
-a. For purposes of this section, "director" means the director of the office of labor standards.
-
-b. No later than February 15, 2017, and no later than every February fifteenth thereafter, the director shall post on the office's website the following information for the prior calendar year regarding enforcement of chapter 9 of title 20 of the code:
-
-   i.  the number of complaints against employers filed with the office;
-
-   ii. the number of investigations conducted by the director;
-
-   iii. the results of each enforcement action undertaken by the director; and
-
-   iv. such other information as the director may deem appropriate.
-
-
-
-
-
-
-
-
-
-**Subchapter 5: Reports Related to Public Housing**
-
-
-
-*§ 3-150 General.* ::
-
-
-a. As used in this subchapter:
-
-   Public housing. The term "public housing" means housing owned or operated by the New York city housing authority.
-
-b. Reports required under this subchapter shall only contain information in the aggregate and shall not contain any personally identifiable information.
-
-
-
-
-
-
-
-
-*§ 3-151 Report on outcomes of services provided to public housing residents.* ::
-
-
-a. In 2017 and each calendar year thereafter, the mayor, or an agency designated by the mayor, shall make publicly available online and submit to the council a report relating to outcomes of programs administered by or on behalf of the city, or funded in whole or in part by the city, that provide services to public housing residents. In developing this report, the mayor or such designated agency shall seek cooperation and assistance from the New York city housing authority. Such report shall include, at a minimum, the following information, disaggregated by public housing development, borough and council district, to the extent that such outcomes are tracked by such programs:
-
-   1. Outcomes of employment-related programs, including but not limited to:
-
-      (a) For each such program, the following information; provided that the term "employment program" includes, but is not limited to, the jobs-plus community revitalization initiative for public housing families as authorized by the omnibus consolidated rescissions and appropriations act of 1996, as enacted by section 204 of public law 104-134, such section 204 relating to public housing/section 8 moving to work demonstration, and as announced in page 66856 in number 244 of volume 61 of the federal register:
-
-         (1) Name of such program and date on which such program was initiated;
-
-         (2) Number of public housing residents who applied for such program;
-
-         (3) Number of public housing residents who were accepted and enrolled in such program;
-
-         (4) Number of public housing residents who were placed into full-time or part-time jobs through such program and the average wage of such residents;
-
-         (5) Number of public housing residents who received a referral for social services through such program;
-
-         (6) Number of public housing residents who enrolled in financial counseling services through such program;
-
-         (7) Number of public housing residents who enrolled in vocational training programs through such program;
-
-         (8) Number of public housing residents who enrolled in preparation courses for English for speakers of other languages (ESOL) or the test assessing secondary completion (TASC) through such program;
-
-         (9) Number of public housing residents who enrolled in college-readiness courses or participated in college-readiness activities through such program;
-
-      (b) Number of public housing residents who took the city civil service examination;
-
-   2. For each program that provides financial counseling or banking services, the following information:
-
-      (a) Name of such program and date on which such program was initiated;
-
-      (b) Number of public housing residents who received financial counseling or banking services through such program;
-
-      (c) Number of public housing residents who reported that their credit scores were improved through such program;
-
-      (d) Number of public housing residents who reported that their debt was reduced through such program;
-
-      (e) Number of public housing residents who reported that their savings increased through such program;
-
-   3. For each program that provides financial assistance to individuals for food, medical care or housing or otherwise for income support, the following information; provided that the term "program" as used in this paragraph includes, but is not limited to, the supplemental nutrition assistance program (SNAP), authorized under 7 U.S.C. Chapter 51, medicaid, authorized under subchapter xix of 42 U.S.C. Chapter 7, and medicare, authorized under subchapter xviii of 42 U.S.C. Chapter 7:
-
-      (a) Name of such program and date on which such program was initiated;
-
-      (b) Number of public housing residents who submitted applications for benefits under such program;
-
-      (c) Number of public housing residents who received benefits under such program;
-
-      (d) Number of public housing residents who were income-eligible for benefits under such program;
-
-   4. Adult education outcomes, including but not limited to:
-
-      (a) For each program that provides educational services for adults, the following information; provided that the term "program" as used in this paragraph includes, but is not limited to, the English for speakers of other languages (ESOL) and the adult basic education (ABE) program:
-
-         (1) Name of such program and date on which such program was initiated;
-
-         (2) Number of public housing residents who participated in such program;
-
-      (b) Number of public housing residents who passed the test assessing secondary completion (TASC); and
-
-   5. Outcomes of business-related programs that provide guidance, financing, or other assistance for developing business, including but not limited to:
-
-      (a) Name of such program and date on which such program was initiated;
-
-      (b) Number of public housing residents who enrolled in courses offered by such program or otherwise received guidance under such program;
-
-b. Such information shall be made publicly available in a non-proprietary format that permits automated processing.
-
-
-
-
-
-
-
-
-
-**Subchapter 6: Gender, Racial and Income Equity**
-
-
-
-*§ 3-160 Equity assessments.* ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   Equity assessment. The term “equity assessment” means a systematic process of identifying policies and practices that may be implemented to address disparate outcomes on the basis of, at a minimum, gender, race, income, and sexual orientation, and any other relevant population characteristics that may be identified by the mayor.
-
-   Gender. The term “gender” includes actual or perceived sex and shall also include a person’s gender identity, self-image, appearance, behavior, or expression, whether or not that gender identity, self-image, appearance, behavior or expression is different from that traditionally associated with the legal sex assigned to that person at birth.
-
-   Relevant city agencies. The term “relevant city agencies” means the department of health and mental hygiene, the administration for children’s services, the department of social services and any other agencies designated by the mayor.
-
-b. Equity assessment. Not later than July 1, 2018, relevant city agencies shall complete gender, racial, and income equity assessments, and sexual orientation where relevant data is available, equity assessments, of their actions, procedures, services and programs, employment, contracting practices, rulemaking and budgeting. Such assessments shall be submitted to the mayor, in a format and manner determined by the mayor’s office of operations or other city office that the mayor may designate.
-
-c. Equity action plan. Not later than January 1, 2019, the relevant city agencies shall:
-
-   1. Identify, and create a plan to address, any disparate outcomes based on gender, race, and income, and sexual orientation to the extent that relevant data is available, and any other population characteristics examined as part of equity assessments conducted by such agencies; and
-
-   2. Submit to the mayor a plan to address any disparate outcomes identified.
-
-d. Reporting requirement. Not later than July 1, 2019, and no later than July 1 every two years thereafter, the relevant city agencies shall report to the speaker and the mayor on efforts they have undertaken to implement their equity action plans. Such reports shall be made publicly available online.
-
-e. Equity committee.
-
-   1. There shall be an equity committee created to:
-
-      (a) make recommendations to the relevant city agencies, after seeking input from other employees and officials of the city having the necessary expertise, with respect to the nature and scope of equity assessments, and the development and implementation of equity action plans;
-
-      (b) review publicly available reports required pursuant to subdivision d of this section; and
-
-      (c)  make recommendations to the mayor and speaker based on such reports.
-
-   2. The committee shall consist of at least five members. The mayor shall appoint four members, including the chair of the committee, and the speaker shall appoint one member. Appointments to the committee shall occur within 90 days of the effective date of this section. Any vacancy in membership shall be filled in the same manner as the original appointment. The mayor shall have the discretion to appoint agency officials and outside experts to the committee, including, but not limited to, members of the commission on human rights and the commission on gender equity. Prior to the completion of the action plans, the committee shall meet as often as needed, as determined by the committee in consultation with the mayor, but not less than twice annually. The committee shall cease to exist following its submission to the mayor and the speaker of any recommendations it may make following its review of the third report required pursuant to subdivision d of this section.
-
-
-
-
-
-
-
-
-*§ 3-161 Gender and racial equity training.* ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   Gender. The term “gender” includes actual or perceived sex and shall also include a person’s gender identity, self-image, appearance, behavior, or expression, whether or not that gender identity, self-image, appearance, behavior or expression is different from that traditionally associated with the legal sex assigned to that person at birth.
-
-   Cultural competency. The term “cultural competency” means knowledge and skills that enable a person to appreciate, understand and interact with members of diverse populations within the local community.
-
-   Relevant city agencies. The term “relevant city agencies” means the department of health and mental hygiene, the administration for children’s services, the department of social services and any other agencies designated by the mayor.
-
-b. Training. Not later than July 15, 2020, the relevant city agencies shall provide all employees with trainings on all of the following: implicit bias, discrimination, cultural competency and structural inequity, including with respect to gender, race and sexual orientation, and on how these factors impact the work of such agencies.
-
-
-
-
-
-
-
-
-
-**Subchapter 7: Office of Data Analytics**
-
-
-
-*§ 3-170 General.* ::
-
-
-a. As used in this subchapter, the following terms have the following meanings:
-
-   Agency. The term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
-
-   Director. The term “director” means the director of the office of data analytics.
-
-   Machine-readable format. The term “machine-readable format” means a non-proprietary format that permits automated processing.
-
-   Office. The term “office” means the office of data analytics.
-
-   Open source analytics library. The term “open source analytics library” means the website where the source code for data analytics projects are shared and maintained by the mayor’s office of data analytics.
-
-b. All agencies shall cooperate with the office as may be necessary and proper to ensure compliance with this subchapter. The office may request information from any agency it deems necessary to enable it to properly carry out its functions.
-
-c. The director may promulgate such rules as are necessary to carry out the provisions of this subchapter.
-
-
-
-
-
-
-
-
-*§ 3-171 Pay and employment equity data.* ::
-
-
-a. Within 60 days following receipt of the data from the department of citywide administrative services pursuant to section 12-208, the office, in consultation with the department of information technology and telecommunications, shall make such data available to the council for 90 days through an application programming interface (API) in a machine-readable format as either comma separated value (CSV) or JavaScript Object Notation (json) for which the office shall provide a key to the council.
-
-b. 1. The office shall issue a report to the mayor and speaker of the council no later than May 31, 2020, and no later than May 31 annually thereafter, and shall post such report on the open source analytics library. Such report shall include aggregated data from each agency showing the frequency of full-time, part-time and seasonal employees by agency, EEO-4 job group, pay band, racial group, ethnicity and gender in a format that prevents the disclosure of the racial group, ethnicity and gender of any employee, while maximizing the level of detail at which such data is reported.
-
-   2. Pay bands for such report as required by paragraph 1 of this subdivision shall be for $2,500, $5,000 and $10,000; however, the department of citywide administrative services, in conjunction with the office, may determine by rule other appropriate pay bands, if any, that will maximize the level of detail at which data is reported.
-
-c. Ninety days after the second annual report is issued pursuant to subdivision b of this section, the office, in conjunction with the department of citywide administrative services, shall conduct an annual analysis of the data collected pursuant to section 12-208, including comparisons with data from previous years, in order to identify potential disparities based on gender, race or other protected classes as identified in section 8-101, in the following areas:
-
-   1. Pay;
-
-   2. Employment rates; and
-
-   3. Retention rates.
-
-d. The office shall conduct further analysis with relevant agencies where instances of disparities exist. Such analysis shall be included in the annual report as required pursuant to subdivision b of this section.
-
-e. The department of citywide administrative services shall be required to make recommendations on the development and implementation of pay, employment and retention equity action plans to the mayor and speaker of the council based on disparities identified in subdivision d of this section. Such recommendations shall be included in the annual report as required pursuant to subdivision b of this section.
-
-
-
-
-
-
 Chapter 2: City Council and City Clerk
 --------------------------------------------------
 
@@ -2456,6 +966,1664 @@ b. "Members of a marriage that is not recognized by the state of New York" for p
 
 
 
+Chapter 1: Mayor
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: [No Title]**
+
+
+
+*§ 3-101 Flag of the mayor.* ::
+
+
+The official flag of the mayor shall be the same in design as the official flag of the city. Upon the middle or white bar, however, and above the design of the seal in a semi-circle, there shall be five blue five-pointed stars, typifying the five boroughs of the city. The dimensions of such flag shall be thirty-three inches by forty-four inches.
+
+
+
+
+
+
+*§ 3-102 Flags and decorations; city hall park.* ::
+
+
+All authority to display flags or other decorations on, in or about the public buildings within the city hall park, is vested in the mayor, unless otherwise ordered by the council.
+
+a. A Prisoner of War/Missing in Action POW/(MIA) flag shall be flown over City Hall every day the American flag is flown until such time as all persons listed as missing in action, from any branch of the United States Armed Forces, and all persons from any branch of our armed forces who are prisoners of war, are accounted for by the United States Government.
+
+
+
+
+
+
+*§ 3-103 Apprehension and conviction of criminals.* ::
+
+
+The mayor, whenever he or she shall deem it necessary, may issue a proclamation offering a reward for information which shall lead to the apprehension or apprehension and conviction of any person who may have committed a crime within the city. In such proclamation, the mayor may offer a reward not exceeding five hundred dollars for the apprehension of any such person and not exceeding ten thousand dollars for the apprehension and conviction of any such person, provided, however, that the mayor may offer a reward not exceeding one hundred thousand dollars for the apprehension and conviction of any person found guilty in connection with an act of terrorism involving loss of life or substantial injury to persons or property. Any such reward shall be paid out of the city treasury upon a certificate of the mayor that the service required has been performed. For purposes of this section, "terrorism" means premediatated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents.
+
+
+
+
+
+
+*§ 3-104 Declaration of emergency.* ::
+
+
+Whenever the mayor determines that there has been an act of violence or a flagrant and substantial defiance of or resistance to a lawful exercise of public authority, and that, partly on account thereof, there is reason to believe that there exists a clear and present danger of a riot or other general public disorder, widespread disobedience of the law, and substantial injury to persons or to property, all of which constitutes a threat to public peace or order and to the general welfare of the city or a part or parts thereof, the mayor may declare that a state of emergency exists within the city or any part of parts thereof.
+
+
+
+
+
+
+*§ 3-105 Emergency measures.* ::
+
+
+1. Whenever the mayor, pursuant to section 3-104, declares that a state of emergency exists, (a) the emergency measures provided in subdivision two of this section shall thereupon be in effect during the period of said emergency and throughout the city and (b) the mayor may order and promulgate all or any of the emergency measures provided in subdivision three of this section, in whole or in part, and with such limitations and conditions as he or she may deem appropriate, and any such emergency measure so ordered and promulgated shall thereupon be in effect during the period of said emergency and in the area or areas for which the emergency has been declared.
+
+2. (a) The sale or other transfer of possession, with or without consideration, offer to sell or so transfer, and the purchase of any ammunition, guns and other firearms of any size or description is prohibited.
+
+   (b) The displaying by or in any store or shop of any ammunition, guns and other firearms of any size or description is prohibited.
+
+   (c) The possession in a public place of a rifle or shotgun by any person, except a duly authorized law enforcement official or person in military service acting in the official performance of his or her duty, is prohibited.
+
+   (d) The possession of any rifle or shotgun in any place, public or private, by a nonresident who has not been issued a permit by the police commissioner, for the purchase and possession of rifles and shotguns, is prohibited.
+
+3. (a)    The establishment of curfews, including, but not limited to, the prohibition of or restrictions on pedestrian and vehicular movement, standing and parking, except for the provision of designated essential services such as fire, police and hospital services including the transportation of patients thereto, utility emergency repairs and emergency calls by physicians.
+
+   (b) The prohibition of the sale of any alcoholic beverage.
+
+   (c) The prohibition of the possession on the person in a public place of any portable container containing any alcoholic beverage.
+
+   (d) The closing of places of public assemblage with designated exceptions.
+
+   (e) The prohibition of the sale or other transfer of possession, with or without consideration, of gasoline or any other flammable or combustible liquid altogether or except by delivery into a tank properly affixed to an operable motor-driven vehicle, bike, scooter, boat or airplane and necessary for the propulsion thereof.
+
+   (f) The prohibition of the possession in a public place of any portable container containing gasoline or any other flammable or combustible liquid.
+
+
+
+
+
+
+*§ 3-106 Filing and publication.* ::
+
+
+Any state of emergency or emergency measure declared or ordered and promulgated by virtue of the terms of the code shall, as promptly as practicable, be filed in the office of the city clerk and published in the City Record and shall also be delivered to appropriate news media for publication and radio and television broadcast thereby. If practicable, such state of emergency declaration or emergency measure shall also be publicized by other appropriate means such as by posting and loud-speakers.
+
+
+
+
+
+
+*§ 3-107 Duration and termination of emergency.* ::
+
+
+A state of emergency established under the code shall commence upon the declaration thereof by the mayor and shall terminate at the end of a period of five consecutive days thereafter, unless prior to the end of such five day period, the mayor shall either terminate such state of emergency or shall declare an additional state of emergency. Any such additional state of emergency shall commence and terminate as provided in section 3-104 and in this section.
+
+
+
+
+
+
+*§ 3-108 Violations.* ::
+
+
+Any knowing violation of a provision of any emergency measure established pursuant to this chapter shall be a class B misdemeanor punishable by a fine of not more than five hundred dollars, or by imprisonment for not more than three months, or both.
+
+
+
+
+
+
+*§ 3-109 Definitions.* ::
+
+
+For the purposes of this chapter:
+
+1. "Alcoholic beverage" shall mean an alcoholic beverage as that term is defined by section three of the alcoholic beverage control law but shall not include patented medicine.
+
+2. "Rifle" and "shotgun" shall mean a rifle and shotgun as those terms are defined by section 10-301 of the code.
+
+
+
+
+
+
+*§ 3-110 Parking spaces.* ::
+
+
+a. Notwithstanding any other provision of law, the mayor, within the appropriation provided therefor, shall have the power to establish parking spaces, pursuant to section seventy-two-j of the general municipal law and assign whatever functions are necessary in connection with the construction, operation and maintenance of such parking spaces to appropriate city departments or agencies.
+
+b. Any city department or agency to which functions are assigned by the mayor in connection with the operation and maintenance of such parking space may adopt rules and regulations necessary for the carrying out of such functions. Violation of such rules and regulations shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days imprisonment, a fine of not more than fifty dollars, or both.
+
+
+
+
+
+
+*§ 3-111 [Drug Enforcement and Drug Abuse Task Force.]* ::
+
+
+a. Composition.
+
+   (1) The mayor shall appoint a drug enforcement and drug abuse task force which shall be chaired by the criminal justice coordinator and shall consist of, but not be limited to, representatives of the police department; human resources administration; department of health and mental hygiene; department of correction; department of housing preservation and development; department of finance; department of probation; and the criminal justice coordinator.
+
+   (2) The Substance Abuse Task Force shall request that the following agencies or officers send their own representatives to serve on this task force: Health and Hospitals Corporation; Board of Education; the New York County, Kings County, Queens County, Richmond County and Bronx County District Attorney's offices; and the Special Narcotics Prosecutor.
+
+b. Report. The Drug Enforcement and Drug Abuse Task Force shall submit an informal quarterly report of its ongoing coordination activities and a formal annual report in September of each year to the Mayor and the Council. Such report shall include any findings and recommendations of the task force.
+
+
+
+
+
+
+*§ 3-111 Safety program. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-113 Notification of status of government services during severe weather conditions or other emergency.** ::
+
+
+a. An agency or agencies designated by the mayor shall notify the public of the status of any New York city government services that are suspended or significantly disrupted due to severe weather conditions or other emergency. Such government services shall include, but not be limited to, collection of solid waste, public transportation, on-street parking, and the operation of educational facilities. The notification shall be through any medium that is reasonably expected to reach a substantial proportion of the community or communities impacted by the suspension or disruption of government services, provided that, in addition to notification by any other media, the designated agency or agencies shall maintain a dedicated website on which all information regarding the status of disrupted government services shall be made publicly available.
+
+b. An agency or agencies designated by the mayor shall evaluate and determine the feasibility of posting information regarding the suspension or significant disruption of services provided by not-for-profit organizations, who contract with the city to provide such services, on the dedicated website established pursuant to this section.
+
+
+
+
+
+
+*§ 3-113 [Citywide temporary emergency housing and associated services; reports; date.]** ::
+
+
+a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
+
+   (1) "Adult" shall mean an individual 18 years of age or older;
+
+   (2) "Adult families" shall mean families comprised of adults and no children under the age of 18;
+
+   (3) "Children" shall mean individuals under the age of 18;
+
+   (4) "City-administered facilities" shall mean hotels, shelters and other accommodations or associated services, managed by or provided under contract or similar agreement with any city agency, provided to individuals or families who need temporary emergency housing or assistance finding or maintaining stable housing;
+
+   (5) "DHS" shall mean the department of homeless services;
+
+   (6) "DHS-administered facilities" shall mean city-administered facilities managed directly by DHS or by a provider under contract or similar agreement with DHS;
+
+   (7) "DHS drop-in centers" shall mean city-administered facilities that provide single adults with hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals and/or housing placement services, but not overnight housing;
+
+   (8) "DHS faith-based beds" shall mean city-administered facilities that provide overnight housing to individuals, are affiliated with one or more religious groups and receive client referrals through organizations under contract with DHS;
+
+   (9) "DHS safe havens" shall mean city-administered facilities that provide low-threshold, harm-reduction housing to chronic street homeless individuals, who are referred to such facilities through a DHS outreach program, without the obligation of entering into other supportive and rehabilitative services in order to reduce barriers to temporary housing;
+
+   (10) "DHS stabilization beds" shall mean city-administered facilities that provide a short-term housing option for a chronic street homeless individual while such individual works with his/her outreach team to locate a more permanent housing option;
+
+   (11) "DHS veterans shelters" shall mean city-administered facilities that provide short-term housing for people who actively served in the United States military;
+
+   (12) "DYCD" shall mean the department of youth and community development;
+
+   (13) "DYCD-administered crisis shelters" shall mean city-administered facilities that provide short-term emergency housing for runaway and homeless youth and are managed by a provider under contract or similar agreement with DYCD;
+
+   (14) "DYCD-administered drop-in centers" shall mean city-administered facilities that provide runaway and homeless youth and their families with services, counseling and referrals from trained youth workers;
+
+   (15) "DYCD-administered facilities" shall mean city-administered facilities managed by a provider under contract or similar agreement with DYCD;
+
+   (16) "DYCD-administered transitional independent living facilities" shall mean city-administered facilities that provide long-term residential services to runaway and homeless youth for up to 18 months and are managed by a provider under contract or similar agreement with DYCD;
+
+   (17) "Families with children" shall mean families with children under the age of 18, couples including at least one pregnant woman, single pregnant women, or parents or grandparents with a pregnant individual;
+
+   (18) "HPD" shall mean the department of housing preservation and development;
+
+   (19) "HPD-administered facilities" shall mean city-administered facilities managed by a provider under contract or similar agreement with HPD;
+
+   (20) "HPD emergency facilities" shall mean shelters providing emergency shelter managed by a provider under contract or similar agreement with HPD;
+
+   (21) "HPD emergency hotels" shall mean hotels providing emergency shelter to individuals or families displaced from their homes managed by a provider under contract or similar agreement with HPD;
+
+   (22) "HRA" shall mean the human resources administration;
+
+   (23) "HRA-administered facilities" shall mean city-administered facilities managed directly by HRA or by a provider under contract or similar agreement with HRA, excluding non-emergency supportive housing;
+
+   (24) "HRA domestic violence shelters" shall mean shelters for victims of domestic violence managed directly by HRA or by a provider under contract or similar agreement with HRA;
+
+   (25) "HRA HASA emergency housing" shall mean single room occupancy hotels managed by a provider under contract or similar agreement with HRA to provide emergency shelter for recipients of services from the HIV/AIDS Services Administration;
+
+   (26) "HRA HASA transitional housing" shall mean congregate facilities managed by a provider under contract or similar agreement with HRA to provide emergency shelter for recipients of services from the HIV/AIDS Services Administration; and
+
+   (27) "Unduplicated" shall mean counted only once within the reporting period.
+
+b. Reports of citywide utilization data. The mayor's office of operations shall create a portal on the NYCStat page of the city's website, or any successor pages of such website that are substantially similar in form and function, in order to publish citywide data regarding the utilization of city-administered facilities. Commencing on November 1, 2011, and no later than the first day of each month thereafter, the mayor's office of operations shall for each month, calendar year and fiscal year publish via such portal the:
+
+   (1) average daily overnight census for each of the following categories:
+
+      A. DHS drop-in centers, disaggregated by single men, single women and total single adults; and
+
+      B. DHS faith-based facilities, disaggregated by single men, single women and total single adults.
+
+   (2) average daily overnight census; and
+
+   (3) number of unduplicated persons or families utilizing city-administered facilities for each of the following categories:
+
+      A. [Reserved.]
+
+      B. [Reserved.]
+
+      C. all DHS-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      D. DHS safe havens, disaggregated by single men, single women and total single adults;
+
+      E. DHS stabilization beds, disaggregated by single men, single women and total single adults;
+
+      F. DHS veterans shelters, disaggregated by single men, single women and total single adults;
+
+      G. HPD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      H. HPD emergency facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      I. HPD emergency hotels, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      J. HRA-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      K. HRA domestic violence shelters, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      L. HRA HASA emergency housing, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      M. HRA HASA transitional housing, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults; and
+
+      N. all city-administered facilities, excluding DYCD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults.
+
+   (4) average monthly utilization rates; and
+
+   (5) number of unduplicated persons or families utilizing city-administered facilities for each of the following categories:
+
+      A. DYCD-administered facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      B. DYCD-administered crisis shelters, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults;
+
+      C. DYCD- administered drop-in centers, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults; and
+
+      D. DYCD-administered transitional independent living facilities, disaggregated by families with children, adult families, total families, total adults in families, total children, single men, single women and total single adults.
+
+   (6) the number of individuals who are on wait-lists for DYCD-administered facilities, to the extent such wait-lists exist, disaggregated by:
+
+      A. type of DYCD-administered facility; and
+
+      B. families with children, adult families, total families, single men, single women, and total single adults.
+
+   (7) the average length of stay disaggregated by:
+
+      A. families with children, adult families, total families, single men, single women, and total single adults;
+
+      B. type of DHS-administered facility, excluding DHS drop-in centers and DHS faith-based beds;
+
+      C. type of DYCD-administered facility, excluding DYCD-administered drop-in centers;
+
+      D. type of HPD-administered facility; and
+
+      E. type of HRA-administered facility.
+
+   (8) the total number of facilities, disaggregated by DHS-administered facilities and facilities not administered by DHS.
+
+c. Application and entrance data. Commencing on November 1, 2011, and no later than the first day of each month thereafter, the mayor's office of operations shall for each month, calendar year and fiscal year publish in the same location on the NYCStat website as the data posted pursuant to subdivision b of this section, the following data for those seeking admission and entrance to DHS-administered facilities:
+
+   (1) the total number of:
+
+      A. applications;
+
+      B. unduplicated applicants;
+
+      C. applicants found eligible for shelter;
+
+      D. entrants to DHS administered facilities; and
+
+      E. unduplicated entrants to DHS-administered facilities. The data required by subparagraphs A, B, C, D and E of this paragraph shall be disaggregated by families with children, adult families, total families, single men, single women, and total single adults;
+
+   (2) the number of families with children found eligible for city-administered facilities;
+
+   (3) the percentage of eligible families with children who submitted one application;
+
+   (4) the percentage of eligible families with children who submitted two applications;
+
+   (5) the percentage of eligible families with children who submitted three applications;
+
+   (6) the percentage of eligible families with children who submitted four applications;
+
+   (7) the percentage of eligible families with children who submitted five applications;
+
+   (8) the percentage of eligible families with children who submitted six applications or more;
+
+   (9) the number of adult families found eligible for city-administered facilities;
+
+   (10) the percentage of eligible adult families who submitted one application;
+
+   (11) the percentage of eligible adult families who submitted two applications;
+
+   (12) the percentage of eligible adult families who submitted three applications;
+
+   (13) the percentage of eligible adult families who submitted four applications;
+
+   (14) the percentage of eligible adult families who submitted five applications; and
+
+   (15) the percentage of eligible adult families who submitted six applications or more.
+
+d. The data required to be published in subdivisions b and c above shall be published electronically on the portal specified in subdivision b in a commonly available non-proprietary database format that is suitable for analysis.
+
+
+
+
+
+
+*§ 3-113 Posting of executive orders and memoranda of understanding on the city's website.** ::
+
+
+a. (1) All mayoral executive orders issued on or after January 1, 1974 shall be posted on the city's website.
+
+   (2) All mayoral executive orders issued on or after July 1, 2011 shall be provided to the council and posted on the city's website within five business days from the date of execution.
+
+b. (1) All memoranda of understanding or similar agreements entered into between city agencies that materially affect the rights of or procedures available to the public and could not be withheld from disclosure under article six of the public officers law shall be posted on the city's website within thirty days after taking effect and thereafter during the period that they are in effect, unless their disclosure would impair law enforcement or emergency response operations.
+
+   (2) All memoranda of understanding or similar agreements entered into between city agencies and non-city governmental agencies that materially affect the rights of or procedures available to the public and could not be withheld from disclosure under article six of the public officers law shall be posted on the city's website within thirty days after taking effect and thereafter during the period that they are in effect, unless their disclosure would impair the ability of the city to enter into such memoranda or agreements with such non-city agencies or impair law enforcement or emergency response operations.
+
+   (3) The posting requirements set forth in this subdivision shall not apply if posting could reasonably result in material adverse consequences for city agency operations.
+
+c. Where the length of a memorandum of understanding or similar agreement is excessive, an agency may comply with this subdivision by posting an excerpt and a brief summary of such memorandum or agreement on the city's website, provided that the full version of such memorandum of understanding or similar agreement shall be made available upon request at no charge.
+
+d. The documents posted in accordance with this section shall be made available to the public on the city's website at no charge.
+
+e. This section shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this section shall not result in the invalidation of any mayoral executive order, memorandum of understanding or similar agreement, or action taken pursuant to such order or memorandum of understanding or similar agreement.
+
+
+
+
+
+
+*§ 3-114 Agency liaisons.* ::
+
+
+a. The chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall ensure that each relevant agency designates an employee or employees to serve as agency liaison(s) to such agency's regulated community or communities, including but not limited to relevant chambers of commerce and industry groups. Each liaison shall report to the chief business operations officer, or other representative of the office of the mayor designated by the mayor. Each liaison shall, to the extent practicable, meet regularly with such liaison's agency's regulated community or communities. For purposes of this subdivision, relevant agencies shall include the department of buildings, the department of consumer affairs, the department of health and mental hygiene, the department of environmental protection, the department of sanitation, and the fire department.
+
+b. No later than July 1, 2013, and no later than every July 1 thereafter, the chief business operations officer, or other representative of the office of the mayor designated by the mayor, shall provide to the mayor and the speaker of the council a listing of the name and contact information of designated agency liaisons.
+
+
+
+
+
+
+*§ 3-115 New York city identity card.* ::
+
+
+a. Definitions.
+
+    "Administering Agency" shall mean the agency that the mayor designates to administer the New York city identity card program.
+
+   "New York city identity card" shall mean an identification card issued by the city of New York pursuant to subdivision b of this section.
+
+   "Resident" shall mean person who can establish that he or she is a current resident of the city of New York pursuant to paragraph two of subdivision d of this section.
+
+b. New York city identity card program.
+
+   (1) The mayor shall designate an agency to administer the New York city identity card program. The administering agency shall promulgate all rules necessary to effectuate the purposes of this subchapter.
+
+   (2) The administering agency shall designate access sites, including at least one site located within each of the five boroughs of the city of New York, where applications for such card shall be made available for pick-up and submission. The administering agency shall also make applications available online.
+
+c. Issuance of New York city identity cards.
+
+   (1) The New York city identity card shall display, at a minimum, the cardholder's photograph, name, date of birth, address, and an expiration date, provided that the administering agency may by rule establish procedures to protect the addresses of victims of domestic violence or alternate requirements for applicants who lack a permanent address. Such card shall also, at the cardholder's option, display the cardholder's self-designated gender. Such identification card shall be designed in a manner to deter fraud.
+
+   (2) The New York city identity card shall be available to any resident of the city of New York, provided that such resident is able to meet the requirements for establishing his or her identity and residency set forth in subdivision d of this section and rules adopted by the administering agency pursuant to this section, including rules establishing a minimum age requirement for eligibility for the city identity card and any restrictions the administering agency deems appropriate for the protection of minors.
+
+   (3) The administering agency may establish a reasonable fee for applications for a New York city identity card, and if such a fee is established, shall adopt rules permitting residents who cannot afford to pay such fee to receive a full or partial waiver.
+
+d. New York city identity card eligibility. In order to obtain a New York city identity card an applicant must establish proof of identity and proof of residency within the city as follows:
+
+   (1) Proof of identity. In order to establish identity, an applicant shall be required to produce one or more of the following documents:
+
+      (i) a U.S. or foreign passport;
+
+      (ii) a U.S. state driver's license;
+
+      (iii) a U.S. state identification card;
+
+      (iv) a U.S. permanent resident card;
+
+      (v) a consular identification card;
+
+      (vi) a photo identification card with name, address, date of birth, and expiration date issued by another country to its citizens or nationals as an alternative to a passport for re-entry to the issuing country;
+
+      (vii) a certified copy of U.S. or foreign birth certificate;
+
+      (viii) a Social Security card;
+
+      (ix) a national identification card with photo, name, address, date of birth, and expiration date;
+
+      (x) a foreign driver's license;
+
+      (xi) a U.S. or foreign military identification card;
+
+      (xii) a current visa issued by a government agency;
+
+      (xiii) a U.S. individual taxpayer identification number (ITIN) authorization letter;
+
+      (xiv) an electronic benefit transfer (EBT) card; or
+
+      (xv) any other documentation that the administering agency deems acceptable. The administering agency may by rule determine the weight to be given to each type of document provided in this paragraph, and require that an applicant produce more than one document to establish identity.
+
+   (2) Proof of residency. In order to establish residency, an applicant shall be required to produce one or more of the following items each of which must show the applicant's name and residential address located within the city and must be dated no more than sixty days prior to the date such document is presented, except as otherwise indicated in this paragraph:
+
+      (i) a utility bill;
+
+      (ii) a current residential property lease;
+
+      (iii) a local property tax statement dated within one year of the date it is submitted;
+
+      (iv) a local real property mortgage payment receipt;
+
+      (v) a bank account statement;
+
+      (vi) proof that the applicant has a minor child currently enrolled in a school located within the city;
+
+      (vii) an employment pay stub;
+
+      (viii) a jury summons or court order issued by a federal or state court;
+
+      (ix) a federal or state income tax or refund statement dated within one year of the date it is submitted;
+
+      (x) an insurance bill (homeowner, renter, health, life, or automobile insurance);
+
+      (xi) written verification issued by a homeless shelter that receives city funding confirming at least fifteen days residency;
+
+      (xii) written verification issued by a hospital, health clinic or social services agency located within the city of New York confirming at least fifteen days residency; or
+
+      (xiii) Any other documentation that the administering agency deems acceptable.
+
+      (xiv) The administering agency may by rule determine the weight to be given to each type of document provided in this paragraph, and require that an applicant produce more than one document to establish residency. The administering agency shall by rule create alternative methods by which individuals who are homeless can establish residency in the city notwithstanding the lack of fixed address.
+
+e. Confidentiality of New York city identity card eligibility information.
+
+   (1) Once every quarter the city shall destroy copies of records provided by applicants to prove identity or residency for a New York city identity card that have been retained more than two years, except where such records are required by law to be preserved as evidence for purposes of litigation.
+
+   (2) On or before December 31, 2016, the administering agency shall review data collected in the report described in subdivision h of this section and make a determination regarding the continuing need to retain records pursuant to paragraph one of this subdivision in order to effectively administer the New York city identity card program and shall make any appropriate modifications to the policy for retention of records related to the New York city identity card program.
+
+   (3) In the event that:
+
+      (i) the administering agency fails to make a determination on or before December 31, 2016 pursuant to paragraph (2) of this subdivision, or
+
+      (ii) the administering agency determines that records retention is no longer necessary, then the city shall not retain originals or copies of records provided by an applicant to prove identity or residency for a New York city identity card for longer than the time needed to review the application, and any such records in the city's possession prior to such date shall be destroyed on or before December 31, 2016 or, in the case of an application pending on such date, as soon as practicable after a final determination has been made regarding the application. Nothing in this paragraph shall be construed to prevent the city from retaining records where such records are required by law to be preserved as evidence for purposes of litigation.
+
+   (4) To the maximum extent allowed by applicable federal and state law, information collected about applicants for the card shall be treated as confidential and may only be disclosed if:
+
+      (i) Authorized in writing by the individual to whom such information pertains, or if such individual is a minor or is otherwise not legally competent, by such individual's parent or legal guardian;
+
+      (ii) So ordered by a court of competent jurisdiction;
+
+      (iii) To a requesting city agency for the limited purpose of administering the New York city identity card program or determining or facilitating the applicant's eligibility for additional benefits, services, and care, provided that such disclosure is made in accordance with all applicable federal and state privacy laws and regulations, and subject to the further requirement that such information shall not be redisclosed to any other governmental agency or entity, or third party; or
+
+      (iv) To a law enforcement agency that serves the administering agency a judicial subpoena or judicial warrant.
+
+   (5) The city shall not indicate on the application forms used to apply for a New York city identity card the type of records provided by an applicant to establish residency or identity.
+
+f. Access to services.
+
+   (1) All city agencies shall accept such card as proof of identity and residency for access to city services unless (i) such acceptance is prohibited by federal or state law, (ii) additional documentation is required to obtain the benefits of a federal or state program, or (iii) the agency has reasonable grounds to believe that the card is counterfeit, altered, or improperly issued, or the individual presenting the card is not the individual to whom the card was issued.
+
+   (2) The city shall seek to encourage eligible persons to apply for the card and expand the benefits associated with the card, including, at a minimum, by promoting acceptance of the card by banks and other public and private institutions.
+
+   (3) City agencies shall not require the possession of a New York city identity card where identification is not already required to obtain city services, provided, however that agencies may require the possession of a New York city identity card to obtain benefits or privileges offered exclusively to those who possess a New York city identity card as an incentive to apply for a New York city identity card.
+
+g. Language assistance services. The administering agency, in consultation with the mayor's office of immigrant affairs, shall identify and implement measures, including but not limited to staff training, community outreach, and language assistance tools, to address the needs of limited English proficient individuals in the administration of the New York city identity card program.
+
+h. Reporting. The administering agency shall prepare and submit to the mayor and the speaker of the city council a report on the New York city identity card program that includes the following information:
+
+   (1) the number of applications received by the city for the New York city identity card disaggregated by applicant borough of residency;
+
+   (2) the number of New York city identity cards issued;
+
+   (3) the number of New York city identity cards issued to minors;
+
+   (4) the number of requests made by city agencies for information collected about applicants for the New York city identity card disaggregated by requesting agency;
+
+   (5) the number of times the administering agency shared documents submitted by applicants to establish eligibility for the New York city identity card with other city agencies disaggregated by agency;
+
+   (6) the number of denials made to requesting agencies for information collected about applicants for the New York city identity card;
+
+   (7) the number of New York city identity card applicants whose information was disclosed to law enforcement, disaggregated by whether such disclosure was pursuant to a judicial warrant or judicial subpoena;
+
+   (8) the number of occurrences of fraud or other criminal activity related to issuance of the New York city identity card;
+
+   (9) the city's efforts to conduct outreach to prospective applicants relating to the New York city identity card program;
+
+   (10) the city's efforts to promote acceptance of the New York city identity card by banks and other public and private institutions;
+
+   (11) the types of services, other than city services, for which the New York city identity card is permitted as acceptable proof of identity and residency; and
+
+   (12) any other metric the administering agency deems appropriate, including but not limited to additional measures of fraudulent or other criminal activity related to the New York city identity card program. Such report shall be submitted on March 31, 2015 and every three months thereafter.
+
+
+
+
+
+
+*§ 3-116 Veterans receiving certain city services.* ::
+
+
+a. For the purposes of this section, the following terms shall have the following meanings:
+
+   (1) "Fee-exempt mobile food vending license" means any license as required by section 17-307 of this code for which the annual fee is waived pursuant to subdivision e of section 17-308 of this code;
+
+   (2) "Food vending permit" means any permit as required by section 17-307 of this code;
+
+   (3) "General vending license" means a license as required by section 20-453 of this code;
+
+   (4) "HUD-VASH voucher" means any voucher funded by the United States department of housing and urban development and United States department of veterans affairs supportive housing program;
+
+   (5) "Mitchell-Lama housing" means any housing development organized pursuant to article two of the private housing finance law that is supervised by the department of housing preservation and development;
+
+   (6) "Veteran" means a person who has served in the active military service of the United States and who has been released from such service otherwise than by dishonorable discharge.
+
+b. The mayor's office of operations shall report in writing to the director of the office of veterans' affairs, the veterans' advisory board, and the council the following data for the prior calendar year, to the extent practicable, disaggregated by borough: (1) the total number of Mitchell-Lama housing applications received from veterans or their surviving spouses who have identified themselves as the head of household on such applications; (2) the total number of Mitchell-Lama housing applications approved by the department of housing preservation and development for veterans or their surviving spouses who have identified themselves as the head of household on such application; (3) the total number of fee-exempt mobile food vending licenses and food vending permits issued by the department of health and mental hygiene to veterans, (4) the number of general vending licenses issued by the department of consumer affairs to veterans; (5) the total number of veterans who submitted an application to the department of consumer affairs for a general vending license; (6) the total number of veterans residing in the city who utilized a HUD-VASH voucher; and (7) the total number of civil service examination applications received by the department of citywide administrative services for which the applicant claimed a veterans credit as provided for in section 85 of the civil service law.
+
+c. Such data may be included as part of the management report provided for in section 12 of the charter, or may be issued as an independent report of the mayor's office of operations, with such independent report being due no later than October 15th of each year.
+
+
+
+
+
+
+*§ 3-117 Annual reporting on bail and the criminal justice system.** ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Homeless youth. The term "homeless youth" means persons under the age of 21 who are in need of services and are without a place of shelter where supervision and care are available.
+
+   Runaway youth. The term "runaway youth" means persons under the age of 18 years who are absent from their legal residence without the consent of their parent, legal guardian or custodian.
+
+   Sexually exploited youth. The term “sexually exploited youth” means persons under the age of 18 who have been subject to sexual exploitation because they (a) are the victim of the crime of sex trafficking as defined in section 230.34 of the penal law; (b) engage in any act as defined in section 230.00 of the penal law; (c) are a victim of the crime of compelling prostitution as defined in section 230.33 of the penal law; (d) are a victim of the crime of sex trafficking of a child as defined in section 230.34-a of the penal law; or (e) engage in acts or conduct described in article 263 or section 240.37 of the penal law. The term shall also mean persons under the age of 18 who have been subject to incest in the third degree, second degree or first degree, as defined in sections 255.25, 255.26, and 255.27 of the penal law, respectively, or any of the sex offenses enumerated in article 130 of the penal law.
+
+b. There shall be established a training coordinator, to be located in an agency designated by the mayor, who shall provide coordination, direction and guidance with respect to the provision of annual trainings to individuals whose positions involve regular contact with youth, focusing on best practices for identifying runaway, homeless or sexually exploited youth, and for connecting such youth to appropriate services. Such training shall be provided to the employees of the administration for children’s services, the department of parks and recreation, the department of homeless services, and the human resources administration/department of social services.
+
+c. The coordinator shall work with each agency identified in subdivision b of this section to identify employees whose job qualifications make them best suited for such training. The coordinator shall also be responsible for outreach efforts to other entities, including but not limited to the department of education, police department, the department of probation, health clinics, libraries, and hospitals, including emergency rooms, to encourage them to consider whether trainings similar to the ones described in this section would be appropriate for their personnel.
+
+d. As a condition of the contract with any of the agencies identified in subdivision b of this section, contractors and service providers shall provide to their employees whose positions involve regular contact with youth the training described in this section, and shall certify to the city agency responsible for such contract that such training has been conducted.
+
+e. The trainings required by this section shall be conducted in person, or through a web-based system capable of accepting, transmitting and displaying messages between a trainee and either a trainer or a provider entity, for the purpose of allowing question and answer upon receipt, or both, or through another platform or application that has been developed for such purposes.
+
+
+
+
+
+
+
+
+*§ 3-119 Modification or removal of deed restrictions.* ::
+
+
+a. Definitions. For the purposes of this section, the term "deed restriction" means a covenant set forth in a deed, lease that is for a term of 49 years or longer, or easement that limits the use of property located within the city and is imposed by the city when such property is sold or otherwise disposed of by the city.
+
+b. Approval.
+
+   1. The department of citywide administrative services shall not modify or remove any deed restriction without the approval of the mayor pursuant to this section.
+
+   2. The department of housing preservation and development shall not modify or remove any deed restriction without the approval of the mayor or the deputy mayor for housing and economic development or the official occupying any successor position, or his or her designee.
+
+c. Committee.
+
+   1. There shall be a committee to review preliminary recommendations by the department of citywide administrative services to modify or remove deed restrictions. The committee shall consist of four members, who shall be:
+
+      i. the first deputy mayor or the official occupying any successor position, or their designee;
+
+      ii. the deputy mayor for housing and economic development or the official occupying any successor position, or their designee;
+
+      iii. the corporation counsel, or their designee; and
+
+      iv. the director of the office of management and budget, or their designee.
+
+   2. Such committee shall review the preliminary recommendation and accompanying materials submitted by the department of citywide administrative services and determine whether to approve such recommendation. In reaching such determination, the committee shall consider whether approval furthers the best interests of the city, pursuant to the factors set forth in subdivision a of section 25-802.
+
+   3. (a) The committee shall issue a written determination of its approval or denial of the department of citywide administrative services' preliminary recommendation, including the committee's determination to approve or modify the consideration amount required, if any, for the modification or removal of the deed restriction, as proposed by the department, and the reasons for reaching such determinations. Any modification of the consideration amount by the committee shall be based on the appraisals provided by the department and in accordance with the calculation method developed by the department pursuant to subdivision b of section 25-804.
+
+      (b) Within three business days of reaching such a determination, the committee shall post online and send notice of such determination by mail and electronic mail to the department of citywide administrative services, community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located.
+
+      (c) The committee may modify its determination in the event that updated appraisals are provided to the committee after the department submits its preliminary recommendation.
+
+d. Mayoral approval.
+
+   1. Following the receipt of the department of citywide administrative services' final written recommendation for approval of a request to modify or remove a deed restriction submitted pursuant to section 25-805, the mayor, or the mayor's designee, shall approve or deny such request. Such request shall only be approved upon a determination by the mayor that the proposed modification or removal is appropriate and furthers the best interests of the city.
+
+   2. Within three business days of reaching a determination of approval or denial of such request, the mayor shall post notice of such determination online and send notice of such determination by mail and electronic mail to the department of citywide administrative services, community board for the community district in which the property is located, council member representing the council district in which the property is located, and borough president representing the borough in which the property is located.
+
+e. Database of properties.*
+
+   1. The mayor or an agency or officer designated by the mayor shall maintain a searchable electronic database of all real property upon which a deed restriction was imposed on or after 1966 by the department of citywide administrative services and all requests for modification or removal of such deed restrictions made pursuant to the procedures set forth in chapter 8 of title 25. Data shall be added to such database as set forth in paragraph 2 of this subdivision and updates to such data shall be made not less than 30 days following any change to such data. Such database shall be posted on the city's website, shall have the ability to produce reports by query, and shall be published to the city's open data portal in a non-proprietary format that permits automated processing and shall include, but not be limited to, the following information:
+
+      i. The location of the property including the borough, community board district, block and lot number, and any commonly known name;
+
+      ii. The name and address of the person or entity to whom the property was disposed;
+
+      iii. A description of all restrictions contained in the deed to the property;
+
+      iv. A copy of or electronic link to the deed, lease that is for a term of 49 years or longer, or easement containing such restriction;
+
+      v. Information on requests for the modification or removal of a deed restriction made pursuant to the procedures set forth in chapter 8 of title 25, including, but not limited to, all information required to be posted online by the department for citywide administrative services pursuant to such section; and
+
+      vi. Any other information deemed relevant by the mayor or the agency or officer designated by the mayor to maintain such database.
+
+   2. Such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 2006. No later than one year following the effective date of this local law, such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 1996. No later than two years following the effective date of this local law, such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 1986. No later than three years following the effective date of this local law, such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 1976. No later than four years following the effective date of this local law, such database shall contain all real property upon which a deed restriction was imposed by the department of citywide administrative services on or after January 1, 1966.
+
+
+
+* Editor's note: Section 3 of L.L. 2016/175 provides: "This local law takes effect immediately, except that subdivision e of section 3-119 of the administrative code of the city of New York, as added by section two of this local law, takes effect one year after it becomes law; provided, however, that the department of citywide administrative services and the mayor or agency or officer designated by the mayor as set forth in section two of this local law may take all actions necessary for the implementation of this local law, including the promulgation of rules, prior to such effective date."
+
+
+
+
+
+
+*§ 3-119.1 Citywide census of vacant properties.* ::
+
+
+a. The mayor, or an agency designated by the mayor, shall analyze data provided under subdivisions b and c of this section to provide an estimate of the number of vacant residential buildings and vacant lots located in areas zoned to permit residential use. Such analysis need not be conducted with regard to vacant buildings or vacant lots located in coastal flood zones designated by the federal emergency management agency or other coastal flood zones designated or recognized by the city. The first such analysis shall be initiated no later than 90 days after the effective date of the local law that added this section and shall be completed within three years thereafter. A new vacancy analysis shall be conducted every five years thereafter.
+
+b. The departments of housing preservation and development, environmental protection, buildings and sanitation and the fire department, and any other agency upon request of the mayor or such designated agency, shall provide to the mayor or such designated agency such records as may be provided lawfully concerning the physical condition of and services provided to any building or parcel of land within the city in order to aid the mayor or such designated agency in determining whether any building or lot is vacant.
+
+c. The mayor or such designated agency shall compile a list of the potentially vacant buildings and potentially vacant lots disclosed as a result of such analysis. Sources of information relating to buildings and lots shall include, but need not be limited to, records of the department of housing preservation and development, the department of finance and the department of buildings, and each agency shall provide to the mayor or such designated agency such information as shall be requested and that may be provided lawfully.
+
+
+
+
+
+
+
+
+*§ 3-119.2 Annual reporting on workplace sexual harassment.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Agency. The term “agency” has the same meaning as such term is defined in section 1150 of the charter and shall include the offices of the borough presidents, the comptroller and the public advocate.
+
+   Department. The term “department” means the department of citywide administrative services.
+
+   Reporting individual. The term “reporting individual” means a city job or internship applicant, or a current or former employee, intern, independent contractor or volunteer who brings forth a report of workplace sexual harassment.
+
+   Respondent. The term “respondent” means a city job or internship applicant, or a current or former employee, intern, independent contractor or volunteer accused of workplace sexual harassment who has entered into the agency’s official complaint process.
+
+b. Each agency shall report to the department complaints of workplace sexual harassment annually. The department shall annually compile complaints of workplace sexual harassment within each agency for the preceding fiscal year and shall annually submit by December 31 to the mayor, the council and commission on human rights, which shall post it on its website, a report containing the following information:
+
+   1. The number of such complaints that were filed;
+
+   2. Of those complaints in paragraph 1 of this subdivision, the number of complaints resolved;
+
+   3. Of those complaints in paragraph 2 of this subdivision, the number of complaints substantiated;
+
+   4. Of those complaints in paragraph 2 of this subdivision, the number of complaints not substantiated; and
+
+   5. The number of complaints in the agency’s official discrimination claim process that were closed because the complaint was withdrawn by the reporting individual prior to a final determination.
+
+c. The information required pursuant to subdivision b of this section shall be disaggregated by agency, except that agencies with 10 employees or less shall be aggregated together.
+
+d. No report required pursuant to subdivision b of this section shall contain personally identifiable information. If any category requested contains between 0 and 5 incidents of sexual harassment claims, the number shall be replaced with a symbol.
+
+
+
+
+
+
+
+
+*§ 3-120 Study on notification of public assistance eligibility.** ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Notice. The term “notice” means a written communication sent through the mail or by electronic means.
+
+   Public assistance. The term “public assistance” means all forms of public benefits provided by the federal government, state of New York, or city of New York for which an individual may apply through the city including but not limited to: cash assistance; the home energy assistance program; medicaid; rent increase exemptions; child care subsidies; and the supplemental nutrition assistance program.
+
+   Renewal. The term “renewal” means the automatic or affirmative act of recertifying or re-applying for public assistance, as may be required on a periodic basis, for an individual already receiving such public assistance.
+
+   City administrative data. The term “administrative data” means data, including but not limited to individually identifiable data, that is maintained in databases managed by the city of New York, including but not limited to those maintained by the department of social services, the department of finance, the administration for children’s services, the department of small business services and the department of housing preservation and development.
+
+   Office. The term “office” means the office of operations established pursuant to section 15 of the charter or any other office or agency designated by the mayor.
+
+b. By December 31, 2018, the office, in collaboration with relevant agencies, shall complete a study regarding the feasibility and cost to the city of utilizing city administrative data to identify individuals who are likely eligible for public assistance and providing notice to such individuals of their likely eligibility. Such study shall include, but need not be limited to:
+
+   1. Assessing the city’s technical ability to collect, disclose, and electronically transmit city administrative data, in a manner that complies with applicable law and city and agency policies, including data provided by every individual who submits an application for public assistance or is in receipt of public assistance, in order to determine likely qualification for additional public assistance using eligibility screening tool(s);
+
+   2. Identifying and assessing the means available to provide notice to an individual of any public assistance or additional public assistance for which an the individual may qualify. Such notice may include a copy of the relevant applications and instructions on how to apply for such public assistance. In instances where public assistance may be applied for or renewed online, the office shall consider how notice may include a link to access the application or renewal online, and the option for individuals to decline receiving applications or renewals in paper form;
+
+   3. Assessing the technical ability to provide pre-filled applications with information obtained from an individual’s initial public assistance application or other existing city administrative data, in a manner that complies with applicable law and city and agency policies, such assessment considering: (i) renewal applications where an individual is already receiving such public assistance, (ii) in instances where public assistance may be applied for or renewed online, how an individual may be provided with a link to securely access the applicable public benefit application online that has been pre-filled with information obtained from such individual’s last public benefit application along with instructions, and (iii) the implications of enabling individuals to decline receiving applications or renewals in paper form;
+
+   4. Considering the implications of notifying individuals of their likely eligibility for certain public assistance benefits that, if claimed, may affect their eligibility for existing or other public assistance benefits;
+
+   5. Identifying additional options for the city to provide individuals with assistance in completing public assistance applications, including but not limited to online, over the phone through 311 and at a city agency accepting public assistance applications.
+
+
+
+
+
+
+
+
+*§ 3-121 Client information management systems study.** ::
+
+
+a. Definitions. For the purposes of this section the following terms have the following meanings:
+
+   Client information management system. The term “client information management system” means any electronic software used to collect, record, or manage information about social services that individuals may apply for or receive.
+
+   Office. The term “office” means the office of operations established pursuant to section 15 of the charter or any other office or agency designated by the mayor.
+
+b. By December 31, 2018, the office, in consultation with the relevant agencies as set forth in this subdivision, shall complete a study regarding client information management systems. Such study shall include, but need not be limited to:
+
+   1. Assessments of efforts to update and integrate the client information management systems of agencies that provide social services to city residents, including but not limited to the department of social services, the department of homeless services, the administration for children’s services, the department of education, and the department of housing preservation and development;
+
+   2. Strategies to help facilitate information sharing among such agencies so as to support improved inter-agency coordination of social services to city residents in a manner consistent with applicable laws and regulations, city and agency policies and technical requirements concerning the protection of individually identifiable information and student identifiable information;
+
+   3. Examination of how such agencies can use digital tools to interact with individuals served by such agencies, including but not limited to applying for social services, electronically uploading documents, reminders and updates by text message, electronic notification regarding available services, and potential technology investments;
+
+   4. Identification and recommendations of upgrades to client information management systems operated by the city and other governmental units that interact with client information management systems serving city residents; and
+
+   5. Recommendations of how the city can continue to monitor and evaluate existing client information management systems and updates to such systems in order to remain current in the use of technology to serve clients.
+
+c. By March 30, 2019, the office shall report its findings and recommendations to the mayor and the speaker of the council. By March 30 of each subsequent year until March 30, 2022, the office shall submit to the mayor and the speaker of the council information detailing progress made on the recommendations that resulted from such report and any additional relevant information as determined by the office.
+
+
+
+Editor's note: Section 2 of L.L. 2018/075 provides that this section remains in effect until March 30, 2022, after which it shall be deemed repealed.
+
+
+
+
+
+
+
+**Subchapter 2: Office of Long-Term Planning and Sustainability**
+
+
+
+*§ 3-120 Annual city food system metrics report.** ::
+
+
+a. No later than September first, two thousand twelve, and no later than every September first thereafter, the office of long-term planning and sustainability shall prepare and submit to the mayor and the speaker of the city council a report regarding the production, processing, distribution and consumption of food in and for the city of New York during the previous fiscal year. Such report shall include:
+
+   1. the number, size in acres, county and type of production of, and annual dollar amount of city financial support received by, farms participating in the watershed agricultural program;
+
+   2. the total dollar amount of expenditures by the department of education on milk and other food products that are subject to the United States department of agriculture country of origin labeling requirements, disaggregated and sorted by the product and country of origin in which the essential components of such food products were grown, agriculturally produced and harvested, to the extent such information is reported to the department of education. For any such product where there are multiple countries of origin, the total dollar amount of expenditures, disaggregated by product, shall be separately listed, to the extent such information is reported to the department of education. If the country of origin of milk or fresh whole produce is the United States, for the report due no later than September first, two thousand thirteen, and in every report thereafter, and to the extent such information is reported to the department of education, such report shall include the total dollar amount of expenditures on such milk or fresh whole produce that is local or regional. For purposes of this paragraph, milk or fresh whole produce shall be considered "local" if grown, agriculturally produced and harvested within New York state, and shall be considered "regional" if such food products were grown, agriculturally produced and harvested within the states of Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, Ohio, Pennsylvania, Rhode Island, Vermont, Virginia or West Virginia;
+
+   3. the location, sorted by community board and size in square feet, of each community garden located on city-owned property that is registered with and licensed by the department of parks and recreation, and whether each such garden engages in food production;
+
+   4. the number of food manufacturers receiving monetary benefits from the economic development corporation or industrial development agency and the annual dollar amount of such benefits per food manufacturer. For purposes of this paragraph, "food manufacturer" shall mean any natural person, partnership, corporation or other association that processes or fabricates food products from raw materials for commercial purposes, provided that it shall not include any establishment engaged solely in the warehousing, distribution or retail sale of products;
+
+   5. the daily number of truck and rail trips to or through Hunts Point Market for the purpose of delivering food to Hunts Point Market, to the extent such information is available. For purposes of this paragraph, "Hunts Point Market" shall mean the food distribution center located in Hunts Point in the borough of the Bronx, and shall include the meat, fish and produce markets operating at such location;
+
+   6. for the report due no later than September first, two thousand thirteen, and in every fifth report thereafter, the amount of grocery store space per capita, sorted by community board, and the number of grocery stores that opened during the past five calendar years, sorted by community board, to the extent such information is available. The office of long-term planning and sustainability shall request such information, as necessary, from the New York state department of agriculture and markets;
+
+   7. the number, community board, and number of employees, of grocery stores receiving financial benefits under the food retail expansion to support health program;
+
+   8. the number of establishments participating in the healthy bodega initiative administered by the department of health and mental hygiene, sorted by borough;
+
+   9. the number of job training programs administered by the department of small businesses services or the workforce investment board to aid individuals seeking work in food manufacturing, food supply, food service or related industries, sorted by borough;
+
+   10. the total number of meals served by city agencies or their contractors, including but not limited to meals served in public schools, hospitals, senior centers, correctional facilities, and homeless shelters, and not including food sold in vending machines or by a concessionaire, sorted by agency;
+
+   11. for each required city agency food standard developed pursuant to executive order number one hundred twenty-two, dated September nineteenth, two thousand eight, the total number of programs or other relevant entities that purchase, prepare or serve meals, not including food sold in vending machines or by a concessionaire, that are in full compliance with each such standard and the total number that are not in full compliance with each such standard, sorted by agency;
+
+   12. the number of and amount of annual revenue earned from vending machines located in facilities operated by the department of education;
+
+   13. the number of persons sixty-five years or older receiving benefits through the supplemental nutritional assistance program ("SNAP") administered by the United States department of agriculture;
+
+   14. the number and description of, and dollar amount spent by, the human resources administration on SNAP outreach programs;
+
+   15. the number and description of, and dollar amount spent on, nutrition education programs administered by the human resources administration and department of health and mental hygiene;
+
+   16. the number of salad bars in public schools and in hospitals operated by the health and hospitals corporation, respectively, sorted by borough;
+
+   17. the total amount expended by the department of citywide administrative services to purchase water other than tap water;
+
+   18. information concerning the green cart initiative administered by the department of health and mental hygiene, including the number of applications for permits, the number of permits issued, the number of persons on the waiting list, the number of violations issued to green carts, the location of such carts when such violations were issued and, to the extent such information is available, the number of permit holders who accept electronic benefit transfer, sorted by borough;
+
+   19. the number of vendors at greenmarkets, farmers' markets and similar markets operated by the council on the environment of New York city or any successor entity, and the average number of vendors at such markets, sorted by borough; and
+
+   20. for the report due no later than September first, two thousand fourteen, and in every report thereafter, contents of the report on food security as required by subdivision j of section 20 of the charter.
+
+b. Each annual report prepared pursuant to subdivision a of this section shall be made available to the public at no charge on a website maintained by or on behalf of the city of New York.
+
+
+
+
+
+
+*§ 3-121 Clean waterfront plan.** ::
+
+
+a. For purposes of this section, the following terms shall have the following meanings:
+
+   1. "Director" shall mean the director of long-term planning and sustainability;
+
+   2. "Office" shall mean the office of long-term planning and sustainability; and
+
+   3. "Waterfront dumping" shall mean any violation of subdivision a of section 16-119 of this code that occurs in or upon any wharf, pier, dock, bulkhead, slip or waterway or other area, whether publicly or privately owned, that is adjacent to any wharf, pier, dock, bulkhead, slip or waterway, and any violation of section 22-112 of this code.
+
+b. The director, in conjunction with the commissioner of environmental protection, the commissioner of sanitation, the commissioner of small business services and, where necessary and practicable, the police commissioner, and the heads of such other agencies as the mayor may designate, shall prepare a clean waterfront plan to prevent waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads. The plan shall include, but need not be limited to, the following:
+
+   1. a determination as to whether the promulgation of rules is necessary to implement the clean waterfront plan and a description of the nature of those rules, if any;
+
+   2. the creation of an accessible and centralized source of information consisting of laws, rules and regulations that relate to the clean waterfront plan;
+
+   3. a protocol to coordinate with federal, state, and multi-state agencies and authorities that have jurisdiction over the port of New York and waterways in the city of New York in relation to promoting a clean waterfront;
+
+   4. a protocol to coordinate the enforcement of all applicable laws, rules and regulations that relate to the clean waterfront plan and the promotion of a clean waterfront by the office, the department of environmental protection, the department of sanitation, the department of small business services and, where necessary and practicable, the police department, and such other agencies as the mayor may designate, that would include, but need not be limited to, a survey to identify sites where waterfront dumping occurs or is likely to occur, periodic inspections of waterfront properties, and the posting of signs to discourage waterfront dumping, littering and the abandonment of vehicles, vessels and crafts on waterfront property; and
+
+   5. a public education and outreach program to increase awareness about the clean waterfront plan.
+
+c. The director shall submit the clean waterfront plan to the mayor and the speaker of the city council on or before January 1, 2013 and shall post such plan on the city website.
+
+d. 1.    The director shall submit a report to the mayor and the speaker of the city council on or before April 1, 2014 and on or before April 1 of every other year thereafter, which shall include, but need not be limited to, the following information for the immediately preceding two calendar years:
+
+      (i) the number of complaints received by the city concerning conduct that constitutes waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads;
+
+      (ii) the number of summonses and notices of violation, respectively, issued by each agency for violations of any law, rule or regulation relating to waterfront dumping, littering on any streets or public places located on waterfront property, the abandoning of vehicles, vessels and crafts on waterfront property and the improper handling and storage of merchandise and materials on wharves, piers, docks and bulkheads;
+
+      (iii) the total amount of civil penalties imposed for such notices of violation by the environmental control board;
+
+      (iv) any changes made to the clean waterfront plan;
+
+      (v) a summary of any rules promulgated to implement the clean waterfront plan; and
+
+      (vi) recommendations for appropriate legislation and improved enforcement with respect to the clean waterfront plan.
+
+   2. In the report issued on or before April 1, 2018 the director shall make a recommendation on the necessity of future reports issued pursuant to this subdivision.
+
+e. Three months prior to the submission of the plan or a report as required by subdivisions c and d of this section, respectively, the director shall make a draft of such plan or report available to the public for a sixty-day comment period. All comments received during such period shall be included as an appendix to the plan or report. The director shall provide notice of such opportunity to comment to any property owners and/or tenant organizations, manufacturing and commercial trade groups, community-based organizations, environmental advocacy organizations and members of the general public that have formally requested to be notified of such opportunity or other individuals or organizations that the director deems appropriate.
+
+
+
+
+
+
+*§ 3-122 New York city panel on climate change.* ::
+
+
+a. For the purposes of this section and section 3-123 of this subchapter, the following terms shall mean:
+
+   1. "Vulnerable populations" means persons or communities at increased risk of harm as a direct or indirect consequence of climate change based on one or more of the following risk factors: (i) proximity to disproportionally impacted areas; (ii) age, including senior citizen or minor status; (iii) income level; (iv) disability; (v) chronic or mental illness; and (vi) language.
+
+   2. "Public health" means impacts on physical health, mental health and social well-being and public or private services that treat and prevent disease, prolong life and promote health.
+
+   3. "Natural systems" means ecosystems and assets that provide ecologic benefits, including but not limited to waterbodies, trees, wetlands and parks.
+
+   4. "Critical infrastructure" means systems and assets, with the exception of residential and commercial buildings, that support vital city activities and for which the diminished functioning or destruction of such systems and assets would have a debilitating impact on public safety and/or economic security.
+
+b. There shall be a New York city panel on climate change whose members shall serve without compensation from the city. Members shall include, but not be limited to, climate change and climate impact scientists who shall be appointed by, and serve at the pleasure of, the mayor.
+
+c. 1. The panel shall meet at least twice a year for the purpose of (i) reviewing the most recent scientific data related to climate change and its potential impacts on the city's communities, vulnerable populations, public health, natural systems, critical infrastructure, buildings and economy; and (ii) advising the office of long-term planning and sustainability and the New York city climate change adaptation task force established pursuant to section 3-123 of this subchapter.
+
+   2. The panel shall make recommendations regarding (i) the near-, intermediate and long-term quantitative and qualitative climate change projections for the city of New York within one year of the release of an assessment report by the intergovernmental panel on climate change, but not less than once every three years; and (ii) a framework for stakeholders to incorporate climate change projections into their planning processes.
+
+d. The panel shall advise the office of long-term planning and sustainability on the development of a community- or borough-level communications strategy intended to ensure that the public is informed about the findings of the panel, including the creation of a summary of the climate change projections for dissemination to city residents.
+
+
+
+
+
+
+*§ 3-123 New York city climate change adaptation task force.* ::
+
+
+a. There shall be a New York city climate change adaptation task force consisting of city, state and federal agencies and private organizations and entities responsible for developing, maintaining, operating or overseeing the city's public health, natural systems, critical infrastructure, including telecommunications, buildings and economy. The task force shall be chaired by the office of long-term planning and sustainability, and shall include, but need not be limited to, representatives from the department of buildings, the department of design and construction, department of city planning, the department of environmental protection, the department of information technology and telecommunications, the department of parks and recreation, the department of sanitation, the department of transportation, the economic development corporation, the office of emergency management, the office of management and budget, the department for the aging and the department of health and mental hygiene. Public members shall include, but need not be limited to, representatives from organizations in the health care, telecommunications, energy and transportation fields, who shall be appointed by, and serve at the pleasure of, the mayor without compensation from the city. The mayor shall invite the appropriate federal, state and local agencies and authorities to participate.
+
+b. 1. The task force shall meet at least twice a year for the purposes of reviewing the climate change projections as recommended by the New York city panel on climate change pursuant to section 3-122 of this subchapter; evaluating the potential impacts to public health and the delivery of public health services to the city's communities and vulnerable populations and how such delivery may be affected by climate change; evaluating the potential impacts to the city's natural systems, critical infrastructure, including telecommunications, and buildings and how services provided by such systems, infrastructure, including telecommunications, and buildings may be affected by climate change; identifying the rules, policies and regulations governing public health, natural systems, critical infrastructure, including telecommunications, buildings and economy that may be affected by climate change; and formulating and updating coordinated strategies to address the potential impact of climate change on the city's communities, vulnerable populations, public health, natural systems, critical infrastructure, including telecommunications, buildings and economy.
+
+   2. Within one year of the development of recommended climate change projections pursuant to section 3-122 of this subchapter, the task force shall create an inventory of potential risks due to climate change to the city's communities, vulnerable populations, public health, natural systems, critical infrastructure, including telecommunications, buildings and economy; develop adaptation strategies to address such risks that may include design guidelines for new infrastructure, and short and long-term resiliency recommendations for existing public and private telecommunications infrastructure, including an evaluation of wireless infrastructure; and identify issues for further study. A report with recommendations shall be issued based on this information and submitted to the mayor and the city council and shall be made available to the public.
+
+   3. The task force shall conduct outreach to telecommunication service providers, including all telecommunication service providers with a franchise agreement with the city, and request their cooperation in obtaining information relevant to the task force's requirements under subdivision two of this section. The report will include a description of the efforts undertaken to obtain the cooperation of infrastructure providers and the results of such efforts, including specifically whether any such providers refused to cooperate.
+
+c. The office of long-term planning and sustainability shall develop a community- or borough-level communications strategy intended to ensure that the public is informed about the findings of the task force, including the creation of a summary of the report for dissemination to city residents. In developing such communications strategy, the director shall consult with non-governmental and community-based organizations.
+
+
+
+
+
+
+
+
+*§ 3-124 Study and report on the effects of wind on certain buildings.* ::
+
+
+a. The office of long-term planning and sustainability in consultation with the department of buildings shall undertake a study and submit a report to the mayor and the speaker of the city council, on the effects of wind on existing buildings, including existing buildings that are raised, and buildings that are under construction in the city of New York. Such report and accompanying recommendations shall be provided no later than two years from the effective date of the local law that added this section and shall include the following:
+
+   1. An analysis to determine the types of existing buildings that are at risk of causing falling debris, based on the age, construction classification, construction methods and materials, height, and occupancy use of such buildings;
+
+   2. An analysis of the effects of wind on existing buildings that are raised, lifted, elevated or moved in order to comply with Appendix G of the New York city building code or to address flood hazard concerns;
+
+   3. An analysis of the effects of wind on buildings that are under construction, including the effects of wind on buildings with incomplete facade assemblies, temporary installations used in construction, and construction materials that are stored on construction sites;
+
+   4. An analysis of forecasts related to potential changes in the frequency, intensity, and path of future storm events along with consideration of whether climate change may impact wind speeds; and
+
+   5. An examination of the benefits of installing and maintaining weather stations across the city, including on high-rise buildings, to better understand localized wind patterns.
+
+b. The report shall include recommendations on paragraphs one through five of subdivision a of this section as well as recommendations on whether the applicable wind loads under the city's building code should be revised; whether standard wind plans for sites in various stages of construction are needed, including plans regarding equipment and temporary structures such as cranes, derricks, scaffolds, concrete formwork and sidewalk bridges; how equipment and temporary structures such as cranes, derricks, scaffolds, concrete formwork and sidewalk bridges should be designed and secured in light of wind effects; whether changes to the building code or department of buildings rules related to facade work filing and inspection exemptions or safety inspection requirements are necessary and what wind load requirements should be applied to existing buildings.
+
+
+
+
+
+
+*§ 3-125 Geothermal systems.* ::
+
+
+a. As used in this section:
+
+   Criteria air pollutant. The term "criteria air pollutant" means a pollutant for which the United States environmental protection agency has set national ambient air quality standards pursuant to 40 CFR part 50.
+
+   Geothermal system. The term "geothermal system" means a geothermal system as defined in section one of local law number 32 for the year 2013.
+
+   Peak demand reduction. The term "peak demand reduction" means a reduced demand for electricity that occurs between 2 p.m. and 6 p.m., Monday through Friday from June 1 through September 30.
+
+b. No later than February 1, 2017, an office or agency designated by the mayor shall, in consultation with the department of buildings, the department of design and construction and other relevant agencies, develop and make publicly available online a screening tool that can be used to determine whether installation of a geothermal system may be cost-effective for a property.
+
+c. Such screening tool shall be used in the planning process for the new construction of a city-owned building and the retrofitting of an existing city-owned building's heating and cooling system where the planning process commences on or after February 1, 2017.
+
+d. 1. Where the use of such screening tool required pursuant to subdivision c of this section indicates that installation of a geothermal system may be cost-effective, an engineering and multi-criteria analysis of the use of a geothermal system, including, where appropriate, an analysis of the option of utilizing a photovoltaic system coupled with a geothermal system, shall be conducted. As part of such engineering and multi-criteria analysis, at a minimum, the following criteria shall be used to evaluate geothermal systems and compare such systems with other heating/cooling alternatives:
+
+      (a) Comparison of greenhouse gas emissions as a result of fuel and electricity consumption;
+
+      (b) Comparison of impacts on criteria air pollutant concentrations;
+
+      (c) Comparison of annual electricity consumption and impacts on peak demand reduction;
+
+      (d) Where applicable, comparison of a potential revenue stream generated from the peak demand reduction using a dollar metric;
+
+      (e) Comparison of fuel and power costs; and
+
+      (f) Comparison of the net present value of all alternatives considered, where such net present value shall:
+
+         (1) Be based on a 20-year life expectancy for each proposed option, unless a particular technology has a different life expectancy as documented by the manufacturer; and
+
+         (2) Include capital costs, operations and maintenance, fuel costs, available federal, state and other non-city governmental funding assistance, and the social cost of carbon value as provided in paragraph 3 or pursuant to paragraph 4; provided that a site- or project-specific social cost of carbon value may be developed and used in lieu of the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4 if such site- or project-specific social cost of carbon value is higher than the social cost of carbon value provided in paragraph 3 or pursuant to paragraph 4.
+
+   2. If the geothermal system has the lowest net present value of all alternatives considered it shall be selected for implementation.
+
+   3. The social cost of carbon value shall be as follows:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Year
+      - Dollar value per metric ton of carbon dioxide equivalent
+    * - 2017
+      - 128
+    * - 2018
+      - 132
+    * - 2019
+      - 136
+    * - 2020
+      - 140
+    * - 2021
+      - 142
+~
+
+
+
+ 
+
+   4. An office or agency designated by the mayor may by rule increase the social cost of carbon values provided in paragraph 3, and may promulgate rules establishing the social cost of carbon values for years after 2021, provided that any social cost of carbon value established by rule for years after 2021 may not be less than the social cost of carbon value for the year 2021 as provided in paragraph 3 and that any such rule shall disclose the social cost of carbon value, if any, determined by the United States environmental protection agency, for the year for which such rule establishes a social cost of carbon value.
+
+e. By no later than six months after the end of each fiscal year, an office or agency designated by the mayor shall submit to the speaker of the council and make publicly available online a report containing the following information for each project described in subdivision c of this section that is completed during such fiscal year:
+
+   1. A brief description of such project;
+
+   2. The street address of such project and the community district and council district in which such project is located;
+
+   3. Whether installation of a geothermal system for such project was determined to be cost-effective based on the use of the screening tool described in subdivision b of this section;
+
+   4. Whether installation of a geothermal system was selected for the project based on the detailed engineering and multi-criteria analysis pursuant to subdivision d of this section; and
+
+   5. Whether a geothermal system was installed for such project and, if not, the type of system installed.
+
+f. No later than 18 months after the effective date of the local law that added this subdivision, an office or agency designated by the mayor shall, in consultation with the relevant agencies, develop and submit to the mayor and the speaker of the council recommendations relating to:
+
+   1. Standards for the installation and maintenance of geothermal systems, including standards relating to assessing subsurface conditions and the design, commissioning, distribution and performance monitoring of such systems;
+
+   2. Required qualifications for persons who will design or install such systems;
+
+   3. Maintaining a publicly available registry of such persons;
+
+   4. Informing property owners and installers of geothermal systems regarding the potential benefits of coupling a photovoltaic system installation with a geothermal system for buildings within the city; and
+
+   5. The technical and regulatory feasibility of implementing a geothermal system for waterfront properties within the city by suspending closed loop coils or other heat exchange devices in the marine surface waters around the city.
+
+
+
+
+
+
+
+
+*§ 3-126 New York city energy policy.* ::
+
+
+a. Definitions. As used in this section:
+
+   Advisory subcommittee. The term “advisory subcommittee” means the New York city energy policy advisory subcommittee appointed to advise the city’s sustainability advisory board, as established by subdivision g of section 20 of the New York city charter, regarding the long-term energy goals of the city of New York.
+
+   Administering agency. The term “administering agency” means the office or agency designated by the mayor, pursuant to subdivision f of this section, to administer the provisions of this section.
+
+   Energy supply. The term “energy supply” means (i) power plants and any other facilities that generate energy that is used in the city; (ii) infrastructure that transmits or distributes energy that is used in the city; (iii) any fuels that are used in buildings or facilities in the city; and (iv) distributed generation sources of electricity, including cogeneration and energy storage facilities that are used in the city.
+
+   Renewable energy. The term “renewable energy” means energy generated from (i) hydropower, municipal solid waste, marine and hydrokinetic, wind, solar, biomass, geothermal, and biogas; (ii) any source that the administering agency determines is renewable; or (iii) any source that is determined by the administering agency to have a positive environmental impact or a substantially lower negative environmental impact than other sources of energy.
+
+b. New York city energy policy advisory subcommittee.
+
+   1. The administering agency shall convene a New York city energy policy advisory subcommittee.
+
+   2. The head of the administering agency or a designee of the mayor shall be the chair of the advisory subcommittee.
+
+   3. The mayor or his or her designee shall, in consultation with the speaker of the council, appoint the members of the advisory subcommittee. To the extent practicable, the appointed members shall include representatives of (i) governmental entities that regulate or have a significant interest in the development of the energy supply; (ii) energy utilities; (iii) the renewable energy industry; (iv) the energy industry; (v) consumer organizations advocating on energy issues; (vi) environmental advocacy organizations; (vii) licensed professional engineers; and (viii) other persons with experience or expertise deemed relevant by the mayor or his or her designee. Members of the advisory subcommittee shall serve without compensation and may be removed at any time by the mayor or his or her designee, in consultation with the speaker of the council.
+
+c. Meetings. The advisory subcommittee shall convene at least once every six months for the purpose of evaluating materials related to the adequacy and potential risks to the energy supply, and to provide advice and recommendations concerning the implementation of objectives regarding the development of the energy supply, as established by the long-term energy plan required by this section.
+
+d. The administering agency shall submit to the mayor and the speaker of the council, and make publicly available online, a long-term energy plan, in conjunction with the plan developed in accordance with subdivision e of section 20 of the New York city charter. The advisory subcommittee established by this section shall provide, as needed, advice and recommendations with respect to the development of such plan, which shall include, but not be limited to:
+
+   1. A review of the current energy supply and capacity;
+
+   2. A summary of the current citywide energy demand and a projection of the future citywide energy demand over the next four years, or such longer period as the advisory subcommittee may deem appropriate, including (i) an identification of factors that may affect demand; (ii) specific recommendations regarding the capacity that could be added to the current energy supply to meet such projected demand after consideration of such factors; and (iii) actions the city could take in connection with such recommendations;
+
+   3. A list of each governmental entity that regulates or exercises any authority over the energy supply, in whole or in part, and, for each such entity, a description of its role with respect to the energy supply;
+
+   4. An estimate of the renewable energy sources within or directly connected to Zone J plus an accounting of energy efficiency measures and distributed generation that have been deployed in the city;
+
+   5. Specific recommendations for developing and integrating additional renewable energy sources and energy efficiency measures to the maximum extent possible, including actions the city could take in connection with such recommendations, and actions the city could advocate be taken by the state and federal government in connection with such recommendations.
+
+e.  Where the administering agency has established a long-term energy plan in accordance with this section and in conjunction with the long-term sustainability plan required by subdivision e of section 20 of the New York city charter, the advisory subcommittee shall provide advice and recommendations with respect to:
+
+   1. Plans for providing information to city residents and other members of the public regarding energy efficiency initiatives and the purchase of renewable energy;
+
+   2. Plans for the dissemination of information to city residents and other members of the public about the benefits of and progress attained through such long-term energy plan; and
+
+   3. For any subsequent long-term energy plan, a review of the city’s objectives and recommendations established in the previous long-term energy plan.
+
+f. The mayor shall, in writing, designate one or more offices or agencies to administer the provisions of this section and may, from time to time, change such designation. Within 10 days after such designation or change thereof, a copy of such designation or change thereof shall be published on the city’s website and on the website of each such office or agency, and shall be electronically submitted to the speaker of the council.
+
+
+
+Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect immediately; provided, however, that the plan required by subdivision d of section 3-126 of the administrative code of the city of New York, as added by this local law, shall be completed by December 31, 2019 and shall be updated every four years thereafter."
+
+
+
+
+
+
+*§ 3-127 Map of areas most vulnerable to flooding; mitigation plan.* ::
+
+
+a. In 2020 and no later than April 22, 2023 and no later than every four years after April 22, 2023, an office or agency designated by the mayor, with the cooperation of all relevant agencies, shall develop and make publicly available on its website:
+
+   1. A map of areas in the city most vulnerable to increased flooding due to the anticipated effects of climate change, including but not limited to increased precipitation, coastal storms and sea level rise; and
+
+   2. A long-term plan for preventing or mitigating such increased flooding, and the effects thereof, in such areas.
+
+b. Such office shall seek the cooperation of relevant federal and state agencies and other public or private persons as such office deems appropriate in developing such map and plan.
+
+
+
+
+
+
+
+
+*§ 3-128 Efficiency and efficacy study of existing geothermal systems.* ::
+
+
+a. For purposes of this section, the term “geothermal system” means a system used to exchange geothermal energy between the earth and one or more buildings to provide heating or cooling.
+
+b. An office or agency designated by the mayor shall conduct an efficiency and efficacy study of existing geothermal systems in city buildings.
+
+c. In order to complete such study, remote monitoring sensors and data loggers shall be installed in five or more city buildings with existing geothermal systems for the purpose of collecting data from any such system for a period of not less than 12 months.
+
+d. No later than two years after the installation of such remote monitoring sensors and data loggers, the office or agency designated by the mayor to conduct such study shall, prepare and electronically submit a report to the mayor and the speaker of the council, and make such report publicly available online.
+
+e. The report required by subdivision d of this section shall include, but need not be limited to, the following:
+
+   1. the cost of installing any such geothermal system;
+
+   2. any problems encountered in installing any such system and solutions developed to address such problems and any costs or savings associated with such solutions;
+
+   3. the cost of operating any such system, including energy consumption, maintenance, and other expenditures;
+
+   4. any problems encountered in operating any such system and solutions developed to address such problems;
+
+   5. an energy modeling analysis of the performance of any such system;
+
+   6. comparisons of such performance to the performance of conventional heating and cooling systems located in comparable city buildings; and
+
+   7. recommendations for continuing or expanding the use of geothermal systems.
+
+
+
+
+
+
+
+
+*§ 3-129 Study of beneficial reuse of dewatering discharge from the aquifers in Queens County.* ::
+
+
+a. An office or agency designated by the mayor shall conduct a feasibility study concerning the beneficial reuse of discharge waters as a result of continuous dewatering operations in southeastern Queens County. The results of such study shall be submitted to the mayor and the speaker of the council no later than two years after its commencement.
+
+b. Such study shall include, but need not be limited to, the following;
+
+   1. An investigation of the flow, temperature, quality, consistency and reliability of discharge waters and recommended measures for beneficial reuse including, but not limited to, landscaping, grey water systems, and the extraction or deposition of heat energy from or to such waters for the purposes of heating and/or cooling buildings;
+
+   2. An investigation of alternatives to dewatering;
+
+   3. An evaluation of existing buildings that are owned or operated by the city or receive financial assistance from the city that have demonstrated continuous groundwater infiltration to basements and cellars for the purpose of determining the feasibility of dewatering and subsequently reusing discharge waters in an open loop heat pump system for heating and cooling such buildings;
+
+   4. An evaluation of existing groundwater conditions at each such building site to identify adverse groundwater quality and hydrogeological conditions, if any;
+
+   5. An analysis of the environmental impacts and permitting requirements related to the discharge of groundwater, specifically groundwater that has been heated or cooled and discharged to a surface water body or other surface structures;
+
+   6. An evaluation of possible impacts of potential sea level rise in southeastern Queens County on geothermal systems; and
+
+   7. If such beneficial reuse is not feasible, identification of impediments to such beneficial reuse, whether such impediments may be addressed by the city and, if so, any plans to address to such impediments.
+
+
+
+
+
+
+
+
+*§ 3-130 Pilot program to provide heating and/or cooling or other beneficial reuse of discharge waters from dewatering operations in southeastern Queens County.* ::
+
+
+a. If the office or agency designated by the mayor to conduct the study required pursuant to section 3-129 determines, based on such study, that it may be feasible to use discharge waters from existing basements, cellars and other dewatering pumping operations in southeastern Queens County in connection with a heat pump system to provide heating and/or cooling to one or more buildings that are owned or operated by the city or receive financial assistance from the city, then such office or agency, in consultation with the department of design and construction and the department of environmental protection, shall develop a pilot program for the purpose of providing such heating and/or cooling.
+
+b. Such program shall continue for at least three years after the date on which the city commences providing heating and/or cooling through such system to such buildings.
+
+c. No later than February 1 in the second year that commences after heating and/or cooling has been provided to such buildings for three full calendar years through such program, such office or agency, in consultation with such departments, shall prepare and electronically submit, and make publicly available online, a report to the mayor and the speaker of the council with a detailed assessment of the impacts of such program, including recommendations for continuing or expanding such program.
+
+
+
+
+
+
+
+
+
+**Subchapter 3: Office of Veterans' Affairs [Repealed]**
+
+
+
+*§ 3-130 Employment resources. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-131 Veteran liaisons. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-132 Veterans' advisory board electronic mail addresses. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 3-133 Additional notice of public meetings of the veterans' advisory board. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+
+**Subchapter 4: Office of Labor Standards**
+
+
+
+*§ 3-140 Office of Labor Standards.* ::
+
+
+a. For purposes of this section, "director" means the director of the office of labor standards.
+
+b. No later than February 15, 2017, and no later than every February fifteenth thereafter, the director shall post on the office's website the following information for the prior calendar year regarding enforcement of chapter 9 of title 20 of the code:
+
+   i.  the number of complaints against employers filed with the office;
+
+   ii. the number of investigations conducted by the director;
+
+   iii. the results of each enforcement action undertaken by the director; and
+
+   iv. such other information as the director may deem appropriate.
+
+
+
+
+
+
+
+
+
+**Subchapter 5: Reports Related to Public Housing**
+
+
+
+*§ 3-150 General.* ::
+
+
+a. As used in this subchapter:
+
+   Public housing. The term "public housing" means housing owned or operated by the New York city housing authority.
+
+b. Reports required under this subchapter shall only contain information in the aggregate and shall not contain any personally identifiable information.
+
+
+
+
+
+
+
+
+*§ 3-151 Report on outcomes of services provided to public housing residents.* ::
+
+
+a. In 2017 and each calendar year thereafter, the mayor, or an agency designated by the mayor, shall make publicly available online and submit to the council a report relating to outcomes of programs administered by or on behalf of the city, or funded in whole or in part by the city, that provide services to public housing residents. In developing this report, the mayor or such designated agency shall seek cooperation and assistance from the New York city housing authority. Such report shall include, at a minimum, the following information, disaggregated by public housing development, borough and council district, to the extent that such outcomes are tracked by such programs:
+
+   1. Outcomes of employment-related programs, including but not limited to:
+
+      (a) For each such program, the following information; provided that the term "employment program" includes, but is not limited to, the jobs-plus community revitalization initiative for public housing families as authorized by the omnibus consolidated rescissions and appropriations act of 1996, as enacted by section 204 of public law 104-134, such section 204 relating to public housing/section 8 moving to work demonstration, and as announced in page 66856 in number 244 of volume 61 of the federal register:
+
+         (1) Name of such program and date on which such program was initiated;
+
+         (2) Number of public housing residents who applied for such program;
+
+         (3) Number of public housing residents who were accepted and enrolled in such program;
+
+         (4) Number of public housing residents who were placed into full-time or part-time jobs through such program and the average wage of such residents;
+
+         (5) Number of public housing residents who received a referral for social services through such program;
+
+         (6) Number of public housing residents who enrolled in financial counseling services through such program;
+
+         (7) Number of public housing residents who enrolled in vocational training programs through such program;
+
+         (8) Number of public housing residents who enrolled in preparation courses for English for speakers of other languages (ESOL) or the test assessing secondary completion (TASC) through such program;
+
+         (9) Number of public housing residents who enrolled in college-readiness courses or participated in college-readiness activities through such program;
+
+      (b) Number of public housing residents who took the city civil service examination;
+
+   2. For each program that provides financial counseling or banking services, the following information:
+
+      (a) Name of such program and date on which such program was initiated;
+
+      (b) Number of public housing residents who received financial counseling or banking services through such program;
+
+      (c) Number of public housing residents who reported that their credit scores were improved through such program;
+
+      (d) Number of public housing residents who reported that their debt was reduced through such program;
+
+      (e) Number of public housing residents who reported that their savings increased through such program;
+
+   3. For each program that provides financial assistance to individuals for food, medical care or housing or otherwise for income support, the following information; provided that the term "program" as used in this paragraph includes, but is not limited to, the supplemental nutrition assistance program (SNAP), authorized under 7 U.S.C. Chapter 51, medicaid, authorized under subchapter xix of 42 U.S.C. Chapter 7, and medicare, authorized under subchapter xviii of 42 U.S.C. Chapter 7:
+
+      (a) Name of such program and date on which such program was initiated;
+
+      (b) Number of public housing residents who submitted applications for benefits under such program;
+
+      (c) Number of public housing residents who received benefits under such program;
+
+      (d) Number of public housing residents who were income-eligible for benefits under such program;
+
+   4. Adult education outcomes, including but not limited to:
+
+      (a) For each program that provides educational services for adults, the following information; provided that the term "program" as used in this paragraph includes, but is not limited to, the English for speakers of other languages (ESOL) and the adult basic education (ABE) program:
+
+         (1) Name of such program and date on which such program was initiated;
+
+         (2) Number of public housing residents who participated in such program;
+
+      (b) Number of public housing residents who passed the test assessing secondary completion (TASC); and
+
+   5. Outcomes of business-related programs that provide guidance, financing, or other assistance for developing business, including but not limited to:
+
+      (a) Name of such program and date on which such program was initiated;
+
+      (b) Number of public housing residents who enrolled in courses offered by such program or otherwise received guidance under such program;
+
+b. Such information shall be made publicly available in a non-proprietary format that permits automated processing.
+
+
+
+
+
+
+
+
+
+**Subchapter 6: Gender, Racial and Income Equity**
+
+
+
+*§ 3-160 Equity assessments.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Equity assessment. The term “equity assessment” means a systematic process of identifying policies and practices that may be implemented to address disparate outcomes on the basis of, at a minimum, gender, race, income, and sexual orientation, and any other relevant population characteristics that may be identified by the mayor.
+
+   Gender. The term “gender” includes actual or perceived sex and shall also include a person’s gender identity, self-image, appearance, behavior, or expression, whether or not that gender identity, self-image, appearance, behavior or expression is different from that traditionally associated with the legal sex assigned to that person at birth.
+
+   Relevant city agencies. The term “relevant city agencies” means the department of health and mental hygiene, the administration for children’s services, the department of social services and any other agencies designated by the mayor.
+
+b. Equity assessment. Not later than July 1, 2018, relevant city agencies shall complete gender, racial, and income equity assessments, and sexual orientation where relevant data is available, equity assessments, of their actions, procedures, services and programs, employment, contracting practices, rulemaking and budgeting. Such assessments shall be submitted to the mayor, in a format and manner determined by the mayor’s office of operations or other city office that the mayor may designate.
+
+c. Equity action plan. Not later than January 1, 2019, the relevant city agencies shall:
+
+   1. Identify, and create a plan to address, any disparate outcomes based on gender, race, and income, and sexual orientation to the extent that relevant data is available, and any other population characteristics examined as part of equity assessments conducted by such agencies; and
+
+   2. Submit to the mayor a plan to address any disparate outcomes identified.
+
+d. Reporting requirement. Not later than July 1, 2019, and no later than July 1 every two years thereafter, the relevant city agencies shall report to the speaker and the mayor on efforts they have undertaken to implement their equity action plans. Such reports shall be made publicly available online.
+
+e. Equity committee.
+
+   1. There shall be an equity committee created to:
+
+      (a) make recommendations to the relevant city agencies, after seeking input from other employees and officials of the city having the necessary expertise, with respect to the nature and scope of equity assessments, and the development and implementation of equity action plans;
+
+      (b) review publicly available reports required pursuant to subdivision d of this section; and
+
+      (c)  make recommendations to the mayor and speaker based on such reports.
+
+   2. The committee shall consist of at least five members. The mayor shall appoint four members, including the chair of the committee, and the speaker shall appoint one member. Appointments to the committee shall occur within 90 days of the effective date of this section. Any vacancy in membership shall be filled in the same manner as the original appointment. The mayor shall have the discretion to appoint agency officials and outside experts to the committee, including, but not limited to, members of the commission on human rights and the commission on gender equity. Prior to the completion of the action plans, the committee shall meet as often as needed, as determined by the committee in consultation with the mayor, but not less than twice annually. The committee shall cease to exist following its submission to the mayor and the speaker of any recommendations it may make following its review of the third report required pursuant to subdivision d of this section.
+
+
+
+
+
+
+
+
+*§ 3-161 Gender and racial equity training.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Gender. The term “gender” includes actual or perceived sex and shall also include a person’s gender identity, self-image, appearance, behavior, or expression, whether or not that gender identity, self-image, appearance, behavior or expression is different from that traditionally associated with the legal sex assigned to that person at birth.
+
+   Cultural competency. The term “cultural competency” means knowledge and skills that enable a person to appreciate, understand and interact with members of diverse populations within the local community.
+
+   Relevant city agencies. The term “relevant city agencies” means the department of health and mental hygiene, the administration for children’s services, the department of social services and any other agencies designated by the mayor.
+
+b. Training. Not later than July 15, 2020, the relevant city agencies shall provide all employees with trainings on all of the following: implicit bias, discrimination, cultural competency and structural inequity, including with respect to gender, race and sexual orientation, and on how these factors impact the work of such agencies.
+
+
+
+
+
+
+
+
+
+**Subchapter 7: Office of Data Analytics***
+
+
+
+*§ 3-170 General.** ::
+
+
+a. As used in this subchapter, the following terms have the following meanings:
+
+   Agency. The term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
+
+   Director. The term “director” means the director of the office of data analytics.
+
+   Machine-readable format. The term “machine-readable format” means a non-proprietary format that permits automated processing.
+
+   Office. The term “office” means the office of data analytics.
+
+   Open source analytics library. The term “open source analytics library” means the website where the source code for data analytics projects are shared and maintained by the mayor’s office of data analytics.
+
+b. All agencies shall cooperate with the office as may be necessary and proper to ensure compliance with this subchapter. The office may request information from any agency it deems necessary to enable it to properly carry out its functions.
+
+c. The director may promulgate such rules as are necessary to carry out the provisions of this subchapter.
+
+
+
+
+
+
+
+
+*§ 3-171 Pay and employment equity data.** ::
+
+
+a. Within 60 days following receipt of the data from the department of citywide administrative services pursuant to section 12-208, the office, in consultation with the department of information technology and telecommunications, shall make such data available to the council for 90 days through an application programming interface (API) in a machine-readable format as either comma separated value (CSV) or JavaScript Object Notation (json) for which the office shall provide a key to the council.
+
+b. 1. The office shall issue a report to the mayor and speaker of the council no later than May 31, 2020, and no later than May 31 annually thereafter, and shall post such report on the open source analytics library. Such report shall include aggregated data from each agency showing the frequency of full-time, part-time and seasonal employees by agency, EEO-4 job group, pay band, racial group, ethnicity and gender in a format that prevents the disclosure of the racial group, ethnicity and gender of any employee, while maximizing the level of detail at which such data is reported.
+
+   2. Pay bands for such report as required by paragraph 1 of this subdivision shall be for $2,500, $5,000 and $10,000; however, the department of citywide administrative services, in conjunction with the office, may determine by rule other appropriate pay bands, if any, that will maximize the level of detail at which data is reported.
+
+c. Ninety days after the second annual report is issued pursuant to subdivision b of this section, the office, in conjunction with the department of citywide administrative services, shall conduct an annual analysis of the data collected pursuant to section 12-208, including comparisons with data from previous years, in order to identify potential disparities based on gender, race or other protected classes as identified in section 8-101, in the following areas:
+
+   1. Pay;
+
+   2. Employment rates; and
+
+   3. Retention rates.
+
+d. The office shall conduct further analysis with relevant agencies where instances of disparities exist. Such analysis shall be included in the annual report as required pursuant to subdivision b of this section.
+
+e. The department of citywide administrative services shall be required to make recommendations on the development and implementation of pay, employment and retention equity action plans to the mayor and speaker of the council based on disparities identified in subdivision d of this section. Such recommendations shall be included in the annual report as required pursuant to subdivision b of this section.
+
+
+
+
+
+
+
+
+
+**Subchapter 7: Office to End Domestic and Gender-Based Violence***
+
+
+
+*§ 3-170 Definitions.** ::
+
+
+For the purposes of this subchapter, the following terms have the following meanings:
+
+Domestic violence. The term “domestic violence” means acts or threats of violence, not including acts of self-defense, committed by a family or household member against another family or household member.
+
+Family justice center. The term “family justice center” means the centers and any successor locations through which the office or successor entity provides criminal justice, civil legal, and social services to victims of domestic violence and gender-based violence.
+
+Family or household member. The term “family or household member” means the following individuals: (i) persons related by consanguinity or affinity; (ii) persons legally married to one another; (iii) persons formerly married to one another regardless of whether they still reside in the same household; (iv) persons who have a child in common regardless of whether such persons have been married or have lived together at any time; (v) persons not legally married, but currently living together in a family-type relationship; and (vi) persons not legally married, but who have formerly lived together in a family-type relationship.
+
+Office. The term “office” means the office to end domestic and gender-based violence.
+
+
+
+
+
+
+
+
+*§ 3-171 Reporting on domestic violence initiatives, indicators, and factors.** ::
+
+
+On June 1, 2019, and no later than January 31 annually thereafter, the office shall submit to the mayor and speaker of the council and post on its website an annual report regarding certain domestic violence initiatives, indicators, and factors. Such report shall include, but need not be limited to:
+
+1. The number of contracted legal service providers providing services in the family justice centers, disaggregated by the primary area of legal practice and languages spoken by the contracted legal service providers, for each family justice center and in total for all family justice centers;
+
+2. The number of contracted service providers providing non-legal services in the family justice centers, disaggregated by type of service, for each family justice center and in total for all family justice centers;
+
+3. The number of family justice center clients, disaggregated by: (i) the total number of client visits, (ii) the total number of unique clients, and (iii) the number of clients accessing each service type, for each family justice center and in total for all family justice centers;
+
+4. A list of all family justice center programs and services offered which pertain to economic empowerment, such as but not limited to those that promote short- and long-term financial planning or navigation of public benefits, disaggregated by type of program or service, for each family justice center and in total for all family justice centers;
+
+5. The total number of outreach events conducted by the office, disaggregated by type of event;
+
+6. The total number of prevention education workshops conducted by the office for youth, staff administering or operating youth programming, or caregivers for youth;
+
+7. The total number of trainings conducted by the office for: (i) city agency staff, (ii) non-profit staff, and (iii) community members; and
+
+8. A list of any new data or research reports published by the office.
+
+
+
+
+
+
+
+
+*§ 3-172 Outreach to cosmetologists.* ::
+
+
+a. Definitions. For the purposes of this section, the term “cosmetologist” means an individual who practices “cosmetology” as defined in subdivision 7 of section 400 of the general business law.
+
+b. The office shall conduct regular outreach to cosmetologists and post information on its website regarding the availability of resources related to domestic violence. Such outreach shall include, but not be limited to the following:
+
+   1. Connecting cosmetologists to trainings conducted by the office;
+
+   2. Making available online a toolkit tailored to cosmetology that includes, but need not be limited to, information on recognizing signs of domestic violence in clients; and
+
+   3. Providing cosmetologists with information about resources available for victims of domestic violence across the five boroughs.
+
+c. No later than November 1, 2019, and no later than November 1 annually thereafter, the office shall submit to the mayor and speaker of the council and post on its website a summary of outreach efforts to the cosmetology community, including the number of trainings provided for cosmetologists, disaggregated by borough, and any other factors that may be appropriate.
+
+
+
+
+
+
+
+
+*§ 3-173 Service satisfaction surveys.* ::
+
+
+The office shall provide all individuals receiving services at family justice centers with service satisfaction surveys during client visits. The family justice centers shall post a sign regarding the availability of this survey in a conspicuous place. Completion of such surveys shall be anonymous and shall not be mandatory. Not later than November 1, 2019, and annually thereafter, the office shall submit to the speaker of the council and post on its website the service satisfaction survey questions and all data aggregated from the service satisfaction surveys, completed from July 1 of the prior year to June 30 of the current year, disaggregated by borough. Such data shall include, where available, the type of service received by the individual completing the survey, whether the individual completing the survey utilized interpretation services and if so, in what language, and any other factors that may be appropriate.
+
+
+
+
+
+
+Chapter 4: Board of Estimate
+--------------------------------------------------
+
+
+
+*§ 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.* ::
+
+
+The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
+
+In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
+
+Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to Chapter 43 of Title 38 of the United States Code, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+
+
+
+
+
+
+
+*§ 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.* ::
+
+
+The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+
+
+
+
+
+*§ 3-403 Awards to survivors of certain civilian members of the police department.* ::
+
+
+a. Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+b. Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
+
+
+
+
+
+
+*§ 3-404 Awards to spouses and domestic partners of officers or employees of the city.* ::
+
+
+The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
+
+
+
+
+
+
+*§ 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.* ::
+
+
+Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
+
+
+
+
+
+
+*§ 3-406 Leases for public purposes.* ::
+
+
+All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
+
+
+
+
+
+
+*§ 3-407 Transfer of streets.* ::
+
+
+The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
+
+
+
+
 Chapter 3: Comptroller
 --------------------------------------------------
 
@@ -2713,87 +2881,6 @@ b. Whenever any such award or compensation shall be paid to any person not entit
 
 
 
-Chapter 4: Board of Estimate
---------------------------------------------------
-
-
-
-*§ 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.* ::
-
-
-The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
-
-In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
-
-Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to Chapter 43 of Title 38 of the United States Code, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-
-
-
-
-
-
-
-*§ 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.* ::
-
-
-The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-
-
-
-
-
-*§ 3-403 Awards to survivors of certain civilian members of the police department.* ::
-
-
-a. Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-b. Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
-
-
-
-
-
-
-*§ 3-404 Awards to spouses and domestic partners of officers or employees of the city.* ::
-
-
-The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
-
-
-
-
-
-
-*§ 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.* ::
-
-
-Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
-
-
-
-
-
-
-*§ 3-406 Leases for public purposes.* ::
-
-
-All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
-
-
-
-
-
-
-*§ 3-407 Transfer of streets.* ::
-
-
-The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
-
-
-
-
 Chapter 5: Borough Presidents
 --------------------------------------------------
 
@@ -2936,6 +3023,65 @@ h. The commission shall have a budget as provided for by the mayor.
 i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
 
 
+
+
+
+
+Chapter 8: Transition and Inaugural Donations And Expenditures
+--------------------------------------------------
+
+
+
+*§ 3-801 Transition and inauguration donations and expenses.* ::
+
+
+1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
+
+2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
+
+   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
+
+   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
+
+   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
+
+   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
+
+3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
+
+4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
+
+5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
+
+   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
+
+   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
+
+6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
+
+7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
+
+8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
+
+9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
+
+10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
+
+
+
+
+
+
+
+
+*§ 3-802 Penalties.* ::
+
+
+1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
+
+2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
+
+3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 
@@ -3130,11 +3276,11 @@ For purposes of this chapter, the following terms shall have the following meani
 
    (k) not accept and his or her principal committee must not accept, either directly or by transfer, any contribution, loan, guarantee, or other security for such loan from any political committee for all covered elections held in the same calendar year in which he or she is a participating candidate, except as is otherwise provided for contributions by political committees pursuant to section 3-707 of this chapter; and
 
-   (l) not accept and his or her principal committee or authorized committees must not accept, either directly or by transfer, any contribution, loan, guarantee, or other security for such loan from any corporation, limited liability company, limited liability partnership or partnership, other than a corporation, limited liability company, limited liability partnership or partnership that is a political committee as defined in subdivision eleven of section 3-702 of this chapter, for all covered elections held in the same calendar year in which he or she is a participating or non-participating candidate, provided, however, that where a contribution is from a contributor whose name is followed by a professional designation including but not limited to "M.D." , "Esq." and "C.P.A." the board shall not treat such contribution as coming from a corporation, limited liability company, limited liability partnership or partnership in the absence of further indicia that such contribution is from such an entity;
+   (l) not accept and his or her principal committee or authorized committees must not accept, either directly or by transfer, any contribution, loan, guarantee, or other security for such loan from any corporation, limited liability company, limited liability partnership or partnership, other than a corporation, limited liability company, limited liability partnership or partnership that is a political committee as defined in subdivision eleven of section 3-702 of this chapter, for all covered elections held in the same calendar year in which he or she is a participating or non-participating candidate, provided, however, that where a contribution is from a contributor whose name is followed by a professional designation including but not limited to "M.D.", "Esq." and "C.P.A." the board shall not treat such contribution as coming from a corporation, limited liability company, limited liability partnership or partnership in the absence of further indicia that such contribution is from such an entity;
 
    (m) fulfill the requirements of section 12-110 of the administrative code of the city of New York, including payment of any penalties as determined by the conflicts of interest board.
 
-      (i) The conflicts of interest board shall maintain a record of all candidates in compliance with section 12-110 of the administrative code of the city of New York . Such record shall indicate the date of filing of the candidate's most recent annual disclosure report and the status of the candidate's compliance with section 12-110 of the administrative code for all years for which the candidate is required to file. Such record shall be provided to the campaign finance board upon request.
+      (i) The conflicts of interest board shall maintain a record of all candidates in compliance with section 12-110 of the administrative code of the city of New York. Such record shall indicate the date of filing of the candidate's most recent annual disclosure report and the status of the candidate's compliance with section 12-110 of the administrative code for all years for which the candidate is required to file. Such record shall be provided to the campaign finance board upon request.
 
       (ii) A participating candidate shall fulfill the requirements of section 12-110 of the administrative code to the satisfaction of the conflicts of interest board by the last business day of July in the year of the covered election, or such other later date as the campaign finance board shall provide by rule, except that in a special election to fill a vacancy such deadline shall be established by campaign finance board rule.
 
@@ -3863,65 +4009,6 @@ If a committee has failed to respond to a request for information made by board 
 
 
 
-Chapter 8: Transition and Inaugural Donations And Expenditures
---------------------------------------------------
-
-
-
-*§ 3-801 Transition and inauguration donations and expenses.* ::
-
-
-1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
-
-2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
-
-   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
-
-   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
-
-   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
-
-   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
-
-3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
-
-4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
-
-5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
-
-   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
-
-   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
-
-6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
-
-7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
-
-8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
-
-9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
-
-10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
-
-
-
-
-
-
-
-
-*§ 3-802 Penalties.* ::
-
-
-1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
-
-2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
-
-3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
-
-
-
-
 Chapter 9: Organizations Affiliated with Elected Officials.
 --------------------------------------------------
 
@@ -4384,6 +4471,203 @@ c. By no later than December 31, 2018, the office of long-term planning and sust
    3. Agency programs that promote environmental justice and foster community engagement with and participation in agency decision-making that implicates environmental justice concerns; and
 
    4. New York state and federal programs that promote environmental justice.
+
+
+
+
+
+
+Chapter 11: Legal Defense Trusts
+--------------------------------------------------
+
+
+
+*§ 3-1101 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Appear. The term "appear" has the same meaning as set forth in subdivision 4 of section 2601 of the charter.
+
+Associated. The term "associated" has the same meaning as set forth in subdivision 5 of section 2601 of the charter.
+
+Beneficiary. The term "beneficiary" means (1) an individual who is or has been a city elected official or public servant who incurs expenses in relation to a governmental, administrative, criminal or civil investigation, audit, or action, or an entity, agent or other person acting on behalf of such elected official or public servant in relation to the underlying matter, for whom or which a legal defense trust spends money or (2) an individual who is not a city elected official or public servant and who incurs expenses in relation to such investigation, audit, or action.
+
+Business dealings with the city. The term "person having business dealings with the city" means any person on the database established pursuant to section 3-702 including, but not limited to, a lobbyist as defined in section 3-211, and the domestic partner, spouse, or unemancipated child of a person listed in such database.
+
+Donation. The term "donation" means any contribution from a non-governmental source, including an in-kind donation, pro bono assistance, loan, advance or deposit of money, or anything of value.
+
+Legal defense trust. The term "legal defense trust" means a trust created pursuant to and in accordance with the New York estates, powers and trusts law for the benefit of a beneficiary as provided in this chapter.
+
+Ministerial matter. The term "ministerial matter" has the same meaning as set forth in subdivision 15 of section 2601 of the charter.
+
+Principal committees and political committees, as those terms are defined in section 3-702, shall not be deemed legal defense trusts as defined in this section.
+
+Public servant. The term "public servant" has the same meaning as set forth in subdivision 19 of section 2601 of the charter.
+
+
+
+
+
+
+
+
+*§ 3-1102. Establishment and management of legal defense trusts.* ::
+
+
+a. Requirements for establishment. A legal defense trust may be established pursuant to this section only if the following conditions are met:
+
+   (1) (a) Each beneficiary has received a statement in writing from the corporation counsel stating that the corporation counsel has not represented and will not be representing such beneficiary in any applicable governmental, administrative, criminal or civil investigation, audit or action, or portion thereof, pursuant to section 50-k of the general municipal law or section 7-109;
+
+      (b) Where a legal defense trust has been established, if thereafter the essential nature of an investigation, audit or action changes so significantly that it can be deemed a new or different investigation, audit or action, the beneficiary of such trust shall obtain a new written statement from the corporation counsel asserting that the conditions set forth in subparagraph (a) of this paragraph have been met.
+
+   (2) At least one beneficiary is or was an elected official or public servant, as such term "beneficiary" is defined in section 3-1101 of this chapter, who incurs expenses in relation to the governmental, administrative, criminal or civil investigations, audits or actions for which a statement was received pursuant to paragraph (1) of this subdivision.
+
+b. Statement of organization. The trustee of a legal defense trust shall file a statement of organization with the conflicts of interest board, in such form as specified by the board by rule, within 10 days after the earlier of the date the trust first receives a donation or first makes an expenditure. A statement of organization required by this subdivision shall include the following information and documentation:
+
+   (1) The name, street address, and telephone number of the legal defense trust and its trustee(s). The name of such trust shall include the words "legal defense trust".
+
+   (2) The full name of, and position held, if any, by each beneficiary of the legal defense trust.
+
+   (3) The name and address of the financial institution in which the funds of the legal defense trust are, or are intended to be, deposited.
+
+   (4)  A description of the governmental, administrative, criminal or civil investigations, audits or actions in connection with which the legal defense trust was established and the purpose for which such trust was created.
+
+   (5)  The statement described in subparagraph (a) of paragraph (1) of subdivision a of this section for each beneficiary of the legal defense trust.
+
+   (6) A copy of the executed trust agreement establishing the legal defense trust.
+
+   (7) A sworn statement by each beneficiary of the legal defense trust that he or she will comply with the provisions of this chapter and that the trustee is responsible for the proper administration of the trust.
+
+c. Within 10 days of any material change in the information and documentation submitted in accordance with paragraphs (1) through (7) of this subdivision, the trustee shall submit a revised report to the conflicts of interest board identifying such changes. If the purpose for which the trust was created, as required to be identified by paragraph (4) of this section, is materially changed, the trustee shall submit such information to the board; provided, however, that any such changed purpose must be consistent with the requirements of this chapter.
+
+d. Trustee.
+
+   (1) There shall be one or more trustees, who shall not be a city elected official or public servant, a beneficiary, or a subordinate of or person associated with a beneficiary. The trustee(s) shall be responsible for authorizing expenditures and disbursements from the trust, the filing of quarterly reports required by section 3-1103, and the performance of tasks incidental to the administration of the trust.
+
+   (2) The trustee(s) shall be responsible for a legal defense trust's financial administration as required by this chapter. Such trustee(s) shall establish an account, separate from any other bank account held by the trustee or any beneficiary of the trust, at a bank or other financial institution with an office or branch in the city of New York, for the deposit and expenditure of the trust's moneys.
+
+   (3) Where there is more than one beneficiary of a legal defense trust, the trustee(s) may, in their discretion, allocate donations and expenditures attributable to trust administration in accordance with their fiduciary duties to the trust.
+
+   (4) Trustee(s) appointed pursuant to this section may be suspended or removed in accordance with the provisions of section 7-2.6 of the estates, powers and trusts law.
+
+e. Donations.
+
+   (1) A legal defense trust shall not accept a donation, and a city elected official or public servant may not raise funds for a legal defense trust, in an amount greater than $5,000 per donor.
+
+   (2) A legal defense trust shall not accept a donation, and a city elected official or public servant may not solicit a donation, of any amount from (a) any person who is a subordinate of such city elected official or public servant, or any person who is a subordinate of the city elected official or public servant for whose benefit the trust was established; (b) any person such trust knows or should know is a person with business dealings with the city as of the date of such donation or solicitation; (c) any person who as of the date of such donation or solicitation is appearing before or otherwise has a non-ministerial matter pending with the city; (d) a corporation, limited liability company, limited liability partnership or partnership; (e) any anonymous source; or (f) any source that fails to submit the disclosure document required pursuant to paragraph (3) of this subdivision.
+
+   (3) Whenever a donation is made to a legal defense trust, the donor shall submit a signed disclosure document to such trust, in such form as specified by the conflicts of interest board by rule, stating that such donor (a) is not a subordinate of the city elected official or public servant for whose benefit the trust was established, nor is a subordinate of the city elected official or public servant who solicited such donation, if applicable; (b) is not a person currently having business dealings with the city of New York; (c) is not appearing before the city; (d) has no non-ministerial matter with the city; and (e) has acknowledged that such donation will not affect any future business dealings with or the disposition of other matters with the city.
+
+   (4) For purposes of this subdivision, a solicitation for, or a donation to, a legal defense trust permitted by this subdivision shall be presumed not to be made because of a solicitor's or beneficiary's city position.
+
+   (5) No public servant shall solicit a donation to a legal defense trust (a) in his or her official capacity or (b) in an amount or from a source that is not permitted by this subdivision.
+
+   (6) No public servant, other than an elected official, who is a deputy mayor, or head of an agency or who is charged with substantial policy discretion as defined by rule of the conflicts of interest board, shall directly or indirectly request any person to make a donation to a legal defense trust, except for a legal defense trust of which such public servant is a beneficiary; provided that nothing contained in this paragraph shall be construed to prohibit such public servant from speaking on behalf of any beneficiary of a legal defense trust at an occasion where a solicitation for a donation to a legal defense trust may be made by others.
+
+   (7) No public servant shall, directly or indirectly (a) compel, induce or request any person to make a donation to a legal defense trust, under threat of prejudice to or promise of or to secure advantage in rank, compensation or other job-related status or function; or (b) make or promise to make a donation to a legal defense trust in consideration of having been or being nominated, elected or employed as such public servant or to secure advantage in rank, compensation or other job-related status or function.
+
+f. Expenditures.
+
+   (1) The funds of a legal defense trust may be used only to defray (a) legal expenses in connection with a governmental, administrative, criminal or civil investigation, audit or action described in a statement of organization filed pursuant to section 3-1102 that is related to (i) a political campaign; (ii) issue advocacy; or (iii) the holding of a civil office or appointment, public office or political party position, and (b) costs reasonably incurred in administering the trust, including but not limited to costs incident to the solicitation of donations, the hiring of service professionals, bank fees, and the creation and operation of the trust.
+
+   (2) The funds of a legal defense trust shall not be used for advertising expenses, political consultants, the payment of criminal fines or penalties imposed upon an individual beneficiary, or communications involving election or campaign activities.
+
+   (3) The funds of a legal defense trust shall not be used for the personal use of the trustee or beneficiary unrelated to the purposes of the trust.
+
+   (4) The funds of a legal defense trust shall not be used to defray legal expenses that have been paid for by the city. If the city pays any part of the legal expenses of a beneficiary after such beneficiary has received from the corporation counsel the letter required by subparagraph (a) of paragraph (1) of subdivision a of section 3-1102, such funds must be returned to the trust.
+
+g. Nothing in this chapter shall be construed to prohibit or limit expenditures by a political committee related to a campaign audit from being considered expenditures in furtherance of a political campaign for elective office pursuant to chapter 7 of title 3 of this code.
+
+
+
+
+
+
+
+
+*§ 3-1103 Reporting and disclosure by legal defense trusts.* ::
+
+
+a. Legal defense trusts shall report to the conflicts of interest board, in a manner specified by the board by rule, the following information:
+
+   (1) The names and addresses of all persons that made a donation having a reasonable value of $100 or more to the trust during the previous quarter, if any; the dates of donation; and the value of any such donation.
+
+   (2) An itemized accounting of each expenditure made during the previous quarter, including the name and address of each payee and the amount and the purpose of the expenditure, in a manner and form determined by the conflicts of interest board.
+
+   (3) The reports required to be filed by this section shall be filed no later than April 15 for the accounting period beginning January 1 and ending March 31; no later than July 15 for the accounting period beginning April 1 and ending June 30; no later than October 15 for the accounting period beginning July 1 and ending September 30; and no later than January 15 of the following calendar year, for the accounting period beginning October 1 and ending December 31.
+
+b. The conflicts of interest board shall maintain on its website and regularly update a list of all legal defense trusts that reported, and shall post on such website, in a machine readable format that permits automated processing, all information disclosed to the board pursuant to this section; provided, however, that the board shall maintain the confidentiality of all information it receives pursuant to this section where required by applicable law.
+
+c. Donor written disclosure submissions received by the legal defense trust pursuant to paragraph (3) of subdivision e of section 3-1102 shall be retained by the trust for at least three years from the date of receipt.
+
+
+
+
+
+
+
+
+*§ 3-1104. Dissolution of the legal defense trust.* ::
+
+
+a. The legal defense trust shall be terminated within 90 days of the date the last expenditure is made in relation to the governmental administrative, criminal or civil investigations, audits or actions, for which the trust is established.
+
+b. Funds remaining in the legal defense trust account following payment of all attorney's fees and other related legal costs for which the trust was established shall be distributed in the following manner:
+
+   (1) returned to the donors on a last in, first out basis or in accordance with another reasonable method as determined by the trustee(s); or
+
+   (2) transferred to a charitable organization having tax exempt status under section 501(c)(3) of the internal revenue code, as determined by the trustee(s), or to the general fund of the city of New York; provided, however, that such funds shall not be transferred to an organization with which the trustee or a beneficiary is associated.
+
+
+
+
+
+
+
+
+*§ 3-1105 Enforcement.* ::
+
+
+a. The conflicts of interest board shall conduct semiannual reviews, biennial audits and a final audit upon dissolution of any legal defense trust established pursuant to this chapter. Such audits shall be conducted in accordance with generally accepted government auditing standards. The board shall promulgate rules regarding what documentation is sufficient for demonstrating financial activities of each such trust.
+
+b. Complaints alleging violations of this chapter shall be made, received, investigated and adjudicated in a manner consistent with the procedures relating to investigations and adjudications of allegations of conflicts of interest as set forth in chapters 34 and 68 of the charter.
+
+
+
+
+
+
+
+
+*§ 3-1106 Rulemaking.* ::
+
+
+The conflicts of interest board shall promulgate such rules as are necessary to ensure the implementation of this chapter.
+
+
+
+
+
+
+
+
+*§ 3-1107 Penalties.* ::
+
+
+a. Any legal defense trust required to file a statement of organization with the conflicts of interest board pursuant to the provisions of subdivision b of section 3-1102 that has not so filed at the end of one week after the date required for filing shall be subject to a civil penalty of not less than $250 or more than $10,000.
+
+b. (1) Any legal defense trust that violates the provisions of paragraphs 1, 2, 5, 6 or 7 of subdivision e of section 3-1102 shall be required to return any donations and shall be subject to a civil penalty, which for the first offense shall be not more than $5,000, for the second offense not more than $15,000, and for the third and subsequent offenses not more than $30,000.
+
+   (2) No violation shall issue and no penalty shall be imposed where any donation made pursuant to this subdivision is refunded within 20 days of receipt by the legal defense trust.
+
+c. Any legal defense trust that violates any of the provisions of subdivision f of section 3-1102 shall be subject to a civil penalty, which for the first offense shall be not more than $1,000, and for the second and subsequent offenses not more than $10,000.
+
+d. Any legal defense trust that violates the provisions of subdivision a of section 3-1103, relating to the reporting of donations and expenditures, shall be subject to a civil penalty of not less than $250 or more than $10,000.
+
+e. Any legal defense trust that violates the provisions of section 3-1104, relating to the dissolution of such trust, shall be subject to a civil penalty of not less than $250 nor more than $10,000.
+
+f. The conflicts of interest board may hold a trustee or beneficiary jointly and severally liable for any of the foregoing penalties if such person knew or reasonably should have known of the violation.
 
 
 

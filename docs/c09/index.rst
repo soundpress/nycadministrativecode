@@ -2002,7 +2002,7 @@ g. The mayor shall, in writing, designate one or more offices or agencies to adm
 
 
 
-*§ 10-177 Security measures at certain eating or drinking establishments.** ::
+*§ 10-177 Security measures at certain eating or drinking establishments.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -2064,7 +2064,31 @@ f. Penalties. Any violation of this section shall be subject to a civil penalty 
 
 
 
-*§ 10-177 Disorderly behavior.** ::
+*§ 10-178 Immigration enforcement.* ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   City property. The term “city property” means any real property leased or owned by the city that serves a city governmental purpose and over which the city has operational control.
+
+   Immigration enforcement. The term “immigration enforcement” means the enforcement of any civil provision of the immigration and nationality act and any provision of such law that penalizes a person’s presence in, entry into, or reentry into the United States.
+
+b. No agency shall subject its officers or employees to the direction and supervision of the secretary of homeland security primarily in furtherance of immigration enforcement.
+
+c. No city resources, including, but not limited to, time spent by employees, officers, contractors, or subcontractors while on duty, or the use of city property, shall be utilized for immigration enforcement.
+
+d. Whenever any city officer or employee receives a request from a non-local law enforcement agency for the city to provide support or assistance intended to further immigration enforcement, such officer or employee’s agency shall make a record relating to such request, including any response or actions taken in response. An office of the mayor, or an agency the head of which is appointed by the mayor, shall be designated by the mayor to submit to the speaker of the council a quarterly report containing an anonymized compilation or summary of such requests and actions taken in response, disaggregated by the requesting non-local law enforcement agency and the agency receiving such a request; provided, however, disclosure of any such information shall not be required if: (i) such disclosure would interfere with law enforcement investigations or (ii) such disclosure is related to actions taken pursuant to clause (i) of subdivision e of this section and would compromise public safety. Such report shall not be required to include information contained in reports required pursuant to section 9-131, 9-205, or 14-154.
+
+e. Nothing in this section shall prohibit city officers and employees from performing their duties in accordance with state and local law by, including, but not limited to: (i) participating in cooperative arrangements with city, state, or federal law enforcement agencies that are not primarily intended to further immigration enforcement or utilizing city resources in connection with such cooperative arrangements and (ii) taking actions consistent with sections 9-205, 9-131, and 14-154. In addition, nothing in this section shall prevent any city officer or employee from complying with federal law or restrict their discretion to take any action if such restriction is prohibited by federal law.
+
+
+
+
+
+
+
+
+*§ 10-179 Disorderly behavior.* ::
 
 
 a. Prohibition. A person is guilty of disorderly behavior when, with intent to cause public inconvenience, annoyance or alarm, or recklessly or with criminal negligence creating a risk thereof, such person:
@@ -2094,7 +2118,7 @@ c. Civil penalty. Any person who violates subdivision a of this section shall be
 
 
 
-*§ 10-177 Unlawful disclosure of an intimate image.** ::
+*§ 10-180 Unlawful disclosure of an intimate image.* ::
 
 
 a. Definitions. As used in this section, the following terms have the following meanings:
@@ -2144,32 +2168,6 @@ e. Provisos. The prohibitions contained in subdivision b do not apply if:
    2. Such disclosure is made by a provider of an interactive computer service, as defined in paragraph (2) of subsection (f) of section 230 of title 47 of the United States code, with regard to content provided by another information content provider, as defined in paragraph (3) of such subsection; or
 
    3. Such disclosure or threat of disclosure is made in relation to a matter of legitimate public concern or is otherwise protected by the first amendment of the United States constitution.
-
-
-
-* Editor's note: Section 2 of L.L. 2017/242 provides: "This local law takes effect immediately, provided that subdivision c of section 10-177 of the administrative code of the city of New York, as added by this local law, takes effect 60 days after it becomes law".
-
-
-
-
-
-
-*§ 10-178 Immigration enforcement.* ::
-
-
-a. Definitions. As used in this section, the following terms have the following meanings:
-
-   City property. The term “city property” means any real property leased or owned by the city that serves a city governmental purpose and over which the city has operational control.
-
-   Immigration enforcement. The term “immigration enforcement” means the enforcement of any civil provision of the immigration and nationality act and any provision of such law that penalizes a person’s presence in, entry into, or reentry into the United States.
-
-b. No agency shall subject its officers or employees to the direction and supervision of the secretary of homeland security primarily in furtherance of immigration enforcement.
-
-c. No city resources, including, but not limited to, time spent by employees, officers, contractors, or subcontractors while on duty, or the use of city property, shall be utilized for immigration enforcement.
-
-d. Whenever any city officer or employee receives a request from a non-local law enforcement agency for the city to provide support or assistance intended to further immigration enforcement, such officer or employee’s agency shall make a record relating to such request, including any response or actions taken in response. An office of the mayor, or an agency the head of which is appointed by the mayor, shall be designated by the mayor to submit to the speaker of the council a quarterly report containing an anonymized compilation or summary of such requests and actions taken in response, disaggregated by the requesting non-local law enforcement agency and the agency receiving such a request; provided, however, disclosure of any such information shall not be required if: (i) such disclosure would interfere with law enforcement investigations or (ii) such disclosure is related to actions taken pursuant to clause (i) of subdivision e of this section and would compromise public safety. Such report shall not be required to include information contained in reports required pursuant to section 9-131, 9-205, or 14-154.
-
-e. Nothing in this section shall prohibit city officers and employees from performing their duties in accordance with state and local law by, including, but not limited to: (i) participating in cooperative arrangements with city, state, or federal law enforcement agencies that are not primarily intended to further immigration enforcement or utilizing city resources in connection with such cooperative arrangements and (ii) taking actions consistent with sections 9-205, 9-131, and 14-154. In addition, nothing in this section shall prevent any city officer or employee from complying with federal law or restrict their discretion to take any action if such restriction is prohibited by federal law.
 
 
 
@@ -2241,6 +2239,81 @@ h. Any person who engages in business as a retail dealer pursuant to section 20-
    2. a mandatory revocation of his or her retail dealer license, or of any subsequent license holder, for a second or subsequent violation of this section occurring on a different day at the same place of business within a three-year period, unless the subsequent license holder provides the commissioner of the agency that has commenced the proceeding to recover a civil penalty pursuant to subdivision d of this section with adequate documentation demonstrating that such subsequent license holder acquired the premises or business through an arm's length transaction, as defined in paragraph 5 of subdivision d of section 20-202 of the code, and that the sale or lease was not conducted, in whole or in part, for the purpose of permitting the original licensee to avoid the effect of violations on the premises.
 
 
+
+
+
+
+Chapter 4: Actions By Victims of Violent Crime
+--------------------------------------------------
+
+
+
+*§ 10-401 Short title.* ::
+
+
+This local law shall be known as the "Victims of Violent Crime Protection Act".
+
+
+
+
+
+
+*§ 10-402 Definition.* ::
+
+
+For purposes of this chapter:
+
+a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
+
+
+
+
+
+
+*§ 10-403 Civil cause of action.* ::
+
+
+Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
+
+1. compensatory and punitive damages;
+
+2. injunctive and declaratory relief;
+
+3. attorneys' fees and costs;
+
+4. such other relief as a court may deem appropriate.
+
+
+
+
+
+
+*§ 10-404 Limitations.* ::
+
+
+a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
+
+b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
+
+
+
+
+
+
+*§ 10-405 Burden of proof.* ::
+
+
+Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
+
+
+
+
+
+
+*§ 10-406 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
 
 
 
@@ -2772,81 +2845,6 @@ c. The provisions of this section shall not apply to weapons owned or lawfully p
 Prior to issuing a license or permit for possession of a firearm, the department must provide applicants with the following statement in printed form:“Warning: The presence of a firearm in the home is associated with an increased risk of suicide, death during domestic violence disputes, and unintentional deaths to children and others.”
 
 
-
-
-
-
-Chapter 4: Actions By Victims of Violent Crime
---------------------------------------------------
-
-
-
-*§ 10-401 Short title.* ::
-
-
-This local law shall be known as the "Victims of Violent Crime Protection Act".
-
-
-
-
-
-
-*§ 10-402 Definition.* ::
-
-
-For purposes of this chapter:
-
-a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
-
-
-
-
-
-
-*§ 10-403 Civil cause of action.* ::
-
-
-Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
-
-1. compensatory and punitive damages;
-
-2. injunctive and declaratory relief;
-
-3. attorneys' fees and costs;
-
-4. such other relief as a court may deem appropriate.
-
-
-
-
-
-
-*§ 10-404 Limitations.* ::
-
-
-a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
-
-b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
-
-
-
-
-
-
-*§ 10-405 Burden of proof.* ::
-
-
-Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
-
-
-
-
-
-
-*§ 10-406 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
 
 
 

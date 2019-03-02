@@ -6015,7 +6015,7 @@ SECTION 410.151
 
 Subsection 410.151(B)—Number the existing FPN as FPN No. 1, and add a second FPN to read as follows:
 
-FPN No. 2 : See the applicable Energy Conservation Code.
+FPN No. 2: See the applicable Energy Conservation Code.
 
 ARTICLE 422Appliances 
 
@@ -7558,7 +7558,7 @@ SECTION 820.25
 
 Section 820.25—Revise to read as follows:
 
-820.25 Abandoned Cables. The accessible portion of abandoned coaxial cables shall be removed. Where a coaxial cable is identified for future use with a tag , the tag shall be of sufficient durability.
+820.25 Abandoned Cables. The accessible portion of abandoned coaxial cables shall be removed. Where a coaxial cable is identified for future use with a tag, the tag shall be of sufficient durability.
 
 SECTION 820.100
 

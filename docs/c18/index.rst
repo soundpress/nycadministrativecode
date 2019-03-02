@@ -1,6 +1,25 @@
 Title 18: Parks
 ===================================================
 
+Chapter 2: Summer Camps For Children
+--------------------------------------------------
+
+
+
+*§ 18-201 Summer camps for children.* ::
+
+
+a. The board of estimate, within the amounts appropriated therefor, is authorized to establish camps in spaces provided therefor in parks adjacent to the city under the jurisdiction and control of the state council of parks, recreation and historic preservation. Such camps shall be used to furnish free instruction and maintenance of children between the ages of six and sixteen years and shall be under the jurisdiction of such agency as may be designated by the board.
+
+b. Such agency shall provide opportunity for children to receive instruction which shall not exceed ten hours per week in camp sanitation, elementary hygiene, first aid to the injured, life saving, swimming and physical training and such other similar subjects as it may deem proper. Such agency shall prescribe rules and regulations for admission to such camps and the conduct and discipline thereof.
+
+c. Such camps shall be operated between July first and August thirty-first of each year. Children shall be entitled to free instruction and maintenance in any such camp for a period of only two weeks during any one year.
+
+d. Such agency shall make an annual report to the mayor on or before the fifteenth day of February of matters relating to carrying out the provisions of this section.
+
+
+
+
 Chapter 1: Department of Parks and Recreation
 --------------------------------------------------
 
@@ -285,7 +304,7 @@ a. The commissioner shall have jurisdiction over and may conduct, operate and ma
 
    (i) for the study and exhibition of plant life and plantings suitable to the city of New York with special reference to the problems affecting growers of plants under urban conditions, and the promotion of extensive and effective use of plants and as a place for rest and passive recreation,
 
-   (ii) as a center for environmental and ecological studies, including oceanography, the ecology of the Hudson river , the city of New York and of the air and waters about it, urban management and planning, and the improvement of the urban environment (such studies may include but shall not be limited to scientific investigations, classes, demonstrations, exhibitions, lectures, educational activities, conferences and publications), and
+   (ii) as a center for environmental and ecological studies, including oceanography, the ecology of the Hudson river, the city of New York and of the air and waters about it, urban management and planning, and the improvement of the urban environment (such studies may include but shall not be limited to scientific investigations, classes, demonstrations, exhibitions, lectures, educational activities, conferences and publications), and
 
    (iii) as a place for such other educational and cultural activities compatible with the foregoing purposes as Wave Hill, Incorporated, with the concurrence of the commissioner shall in the discretion of its board of directors permit to be conducted.
 
@@ -1348,25 +1367,6 @@ b. By July 30, 2019, and every year thereafter, the commissioner shall submit to
    2. The total number of authorizations for bollard installation by third parties at locations under the jurisdiction of the department issued during the 12-month period ending on June 30 of such year.
 
 
-
-
-
-
-Chapter 2: Summer Camps For Children
---------------------------------------------------
-
-
-
-*§ 18-201 Summer camps for children.* ::
-
-
-a. The board of estimate, within the amounts appropriated therefor, is authorized to establish camps in spaces provided therefor in parks adjacent to the city under the jurisdiction and control of the state council of parks, recreation and historic preservation. Such camps shall be used to furnish free instruction and maintenance of children between the ages of six and sixteen years and shall be under the jurisdiction of such agency as may be designated by the board.
-
-b. Such agency shall provide opportunity for children to receive instruction which shall not exceed ten hours per week in camp sanitation, elementary hygiene, first aid to the injured, life saving, swimming and physical training and such other similar subjects as it may deem proper. Such agency shall prescribe rules and regulations for admission to such camps and the conduct and discipline thereof.
-
-c. Such camps shall be operated between July first and August thirty-first of each year. Children shall be entitled to free instruction and maintenance in any such camp for a period of only two weeks during any one year.
-
-d. Such agency shall make an annual report to the mayor on or before the fifteenth day of February of matters relating to carrying out the provisions of this section.
 
 
 

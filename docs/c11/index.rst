@@ -1082,7 +1082,7 @@ a. Definitions. For the purposes of this section, the following terms have the f
 
    Domestic violence shelter. The term “domestic violence shelter” means an emergency shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to section 459-b of the social services law or a tier II shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to the provisions of part 900 of title 18 of the New York codes, rules, and regulations.
 
-   Family justice center. The term “family justice center” means a center and any successor location through which the office to combat domestic violence or a successor entity provides services to victims of domestic and gender-based violence.
+   Family justice center. The term “family justice center” means a center and any successor location through which the office to end domestic and gender-based violence or a successor entity provides services to victims of domestic and gender-based violence.
 
    LYFE programs. The term “LYFE programs” means the living for the young family through education (LYFE) programs operated by the department of education to provide early childhood education to children of student parents.
 

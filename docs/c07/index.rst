@@ -367,7 +367,7 @@ Victim of sex offenses or stalking. The term "victim of sex offenses or stalking
 
    (e) Real estate services. It shall be an unlawful discriminatory practice, because of the actual or perceived race, creed, color, national origin, gender, disability, sexual orientation, uniformed service, age, marital status, partnership status, or alienage or citizenship status of any person or because children are, may be or would be residing with such person:
 
-      (1) To deny such person access to, membership in or participation in a multiple listing service, real estate brokers' organization, or other service ; or
+      (1) To deny such person access to, membership in or participation in a multiple listing service, real estate brokers' organization, or other service; or
 
       (2) To represent to such person that access to or membership in such service or organization is not available, when in fact it is available.
 
@@ -595,7 +595,7 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
       (4) (a) Nothing set forth in this subdivision shall be construed as prohibiting an employer, employment agency, or agent thereof, when making employment decisions with regard to hiring, compensation, or the terms, conditions or privileges of employment, from determining that only applicants who are currently employed by the employer will be considered for employment or given priority for employment or with respect to compensation or terms, conditions or privileges of employment. In addition, nothing set forth in this subdivision shall prevent an employer from setting compensation or terms or conditions of employment for a person based on that person's actual amount of experience.
 
-         (b) For the purposes of this subparagraph, all persons whose salary or wages are paid from the city treasury, and all persons who are employed by public agencies or entities headed by officers or boards including one or more individuals appointed or recommended by officials of the city , shall be deemed to have the same employer.
+         (b) For the purposes of this subparagraph, all persons whose salary or wages are paid from the city treasury, and all persons who are employed by public agencies or entities headed by officers or boards including one or more individuals appointed or recommended by officials of the city, shall be deemed to have the same employer.
 
    c. Applicability of subdivision.
 

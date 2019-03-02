@@ -14,7 +14,9 @@ Chapter 1: Administration
 *§ 28-101.1 Title.* ::
 
 
-The provisions of this chapter shall apply to the administration of the codes set forth in this title and the 1968 building code. This title shall be known and may be cited as the "New York city construction codes" and includes: The New York city plumbing code. The New York city building code. The New York city mechanical code. The New York city fuel gas code. The New York city energy conservation code.
+The provisions of this chapter shall apply to the administration of the codes set forth in this title and the 1968 building code. This title shall be known and may be cited as the "New York city construction codes" and includes:
+
+The New York city plumbing code.The New York city building code.The New York city mechanical code.The New York city fuel gas code.The New York city energy conservation code.
 
 
 
@@ -116,11 +118,11 @@ Exceptions:
 
 12. Roof recovering and replacements.
 
-12.1   Installation and materials. Work involving the recovering or replacing of an existing roof covering shall be governed by sections 1510.1 through 1510.6 of the New York city building code;
+   12.1   Installation and materials. Work involving the recovering or replacing of an existing roof covering shall be governed by sections 1510.1 through 1510.6 of the New York city building code;
 
-12.2   Cool roofs. Work involving the recovering or replacing of an existing roof covering shall comply with section 1504.9 of the New York city building code unless the area to be recovered or replaced is less than 50 percent of the roof area and less than 500 square feet.
+   12.2   Cool roofs. Work involving the recovering or replacing of an existing roof covering shall comply with section 1504.9 of the New York city building code unless the area to be recovered or replaced is less than 50 percent of the roof area and less than 500 square feet.
 
-12.3   Green roofs. Notwithstanding the applicant's election to use the 1968 building code or prior code, work involving green roof systems and container gardens shall be permitted to be performed pursuant to Chapter 15 of the New York city building code.
+   12.3   Green roofs. Notwithstanding the applicant's election to use the 1968 building code or prior code, work involving green roof systems and container gardens shall be permitted to be performed pursuant to Chapter 15 of the New York city building code.
 
 13. Handrails. Where the alteration of a building includes the addition or replacement of an entire stair enclosure including the stairs, handrails shall comply with section 1009.12 and section 1012 of the New York city building code. Where the alteration of a building includes the addition or replacement of ramps, handrails shall comply with section 1010.8 and section 1012 of such code.
 
@@ -236,13 +238,13 @@ BUILDING. Any structure used or intended for supporting or sheltering any use or
 
 CHARTER. The New York city charter.
 
-CERTIFICATE OF COMPLIANCE. A certificate stating that materials meet specified standards , that work was done in compliance with approved construction documents and other applicable provisions of law , or with respect to specified service equipment, a certificate issued by the department authorizing the operation of such equipment.
+CERTIFICATE OF COMPLIANCE. A certificate stating that materials meet specified standards, that work was done in compliance with approved construction documents and other applicable provisions of law, or with respect to specified service equipment, a certificate issued by the department authorizing the operation of such equipment.
 
 CITY. The city of New York.
 
 COMMISSIONER. The commissioner of buildings of the city of New York, or his or her duly authorized representative.
 
-CONSTRUCTION DOCUMENTS. Plans and specifications and other written, graphic and pictorial documents, prepared or assembled for describing the design, location , physical characteristics , and other elements of the project necessary for obtaining a building permit.
+CONSTRUCTION DOCUMENTS. Plans and specifications and other written, graphic and pictorial documents, prepared or assembled for describing the design, location, physical characteristics, and other elements of the project necessary for obtaining a building permit.
 
 DAY. A calendar day, computed in accordance with section 20 of the New York state general construction law, unless otherwise specified as a business day.
 
@@ -288,75 +290,75 @@ Category 1. An alteration to an oil burner/boiler system where the total cost of
 
 Category 2. An alteration to an oil burner/boiler system that is not subject to cost or duration limitations and that is limited to the following:
 
-1. Replacement of oil-burning boilers or water heater with heat input of 1 million Btu/h (293 kW) or less.
+   1. Replacement of oil-burning boilers or water heater with heat input of 1 million Btu/h (293 kW) or less.
 
-2. Replacement of oil burners with heat input of 2.8 million Btu/h (821 kW) or less.
+   2. Replacement of oil burners with heat input of 2.8 million Btu/h (821 kW) or less.
 
-3. Relocation of an oil burner or oil-burning boiler or water heater within the same, unaltered fire-rated enclosure or room.
+   3. Relocation of an oil burner or oil-burning boiler or water heater within the same, unaltered fire-rated enclosure or room.
 
-4. Placement of a temporary department of buildings registered oil fired mobile boiler at a site for emergency heating.
+   4. Placement of a temporary department of buildings registered oil fired mobile boiler at a site for emergency heating.
 
 LIMITED PLUMBING ALTERATIONS. An alteration to a plumbing or fuel gas piping system that is limited in scope, falling into one of the following categories:
 
 Category 1. An alteration to a plumbing or fuel gas piping system where the total cost of the proposed category 1 work in the building does not exceed thirty-five thousand dollars in any 12-month period and where the proposed work is limited to the following:
 
-1. The addition of not more than 5 plumbing fixtures or fixture connections in a building within any 12-month period, including any associated plumbing necessary to serve such additional fixtures or fixture connections;
+   1. The addition of not more than 5 plumbing fixtures or fixture connections in a building within any 12-month period, including any associated plumbing necessary to serve such additional fixtures or fixture connections;
 
-2. The installation of new plumbing or fuel gas piping, excluding work in Category 2;
+   2. The installation of new plumbing or fuel gas piping, excluding work in Category 2;
 
-3. The installation of up to five new sprinkler heads off of an existing domestic water system within any 12-month period;
+   3. The installation of up to five new sprinkler heads off of an existing domestic water system within any 12-month period;
 
-4. Rearrangement of not more than 20 sprinkler heads in areas classified in light hazard occupancy, as such term is defined in NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy, and provided further that all such sprinkler heads are off of a domestic water system;
+   4. Rearrangement of not more than 20 sprinkler heads in areas classified in light hazard occupancy, as such term is defined in NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy, and provided further that all such sprinkler heads are off of a domestic water system;
 
-5. Rearrangement of not more than 20 sprinkler heads in restaurant service areas classified in Group 1 ordinary hazard occupancy, as such term is defined by NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy, and provided further that all such sprinkler heads are off of a domestic water system;
+   5. Rearrangement of not more than 20 sprinkler heads in restaurant service areas classified in Group 1 ordinary hazard occupancy, as such term is defined by NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy, and provided further that all such sprinkler heads are off of a domestic water system;
 
-6. Rearrangement of not more than 20 sprinkler heads in mercantile areas classified in Group 2 ordinary hazard occupancy, as such term is defined by NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy, and provided further that all such sprinkler heads are off of a domestic water system;
+   6. Rearrangement of not more than 20 sprinkler heads in mercantile areas classified in Group 2 ordinary hazard occupancy, as such term is defined by NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy, and provided further that all such sprinkler heads are off of a domestic water system;
 
-7. In-kind replacement of piping and parts required for the operation of a standpipe, provided that a sprinkler is not connected or is not now being connected to such system; and
+   7. In-kind replacement of piping and parts required for the operation of a standpipe, provided that a sprinkler is not connected or is not now being connected to such system; and
 
-8. Replacement of parts required for the operation of a standpipe system that is not a combined standpipe system.
+   8. Replacement of parts required for the operation of a standpipe system that is not a combined standpipe system.
 
 Category 2. An alteration to a plumbing or fuel gas piping system that is not subject to cost or duration limitations and that is limited to the following:
 
-1. The rerouting of existing plumbing or fuel gas branch piping to serve the same number of fixtures and appliances;
+   1. The rerouting of existing plumbing or fuel gas branch piping to serve the same number of fixtures and appliances;
 
-2. The in-kind replacement of plumbing fixtures and gas appliances when not constituting a minor alteration or ordinary repair under this code;
+   2. The in-kind replacement of plumbing fixtures and gas appliances when not constituting a minor alteration or ordinary repair under this code;
 
-3. The relocation and mounting of new plumbing fixtures on existing roughing, other than the mere replacement of existing fixtures constituting a minor alteration or ordinary repair under this code;
+   3. The relocation and mounting of new plumbing fixtures on existing roughing, other than the mere replacement of existing fixtures constituting a minor alteration or ordinary repair under this code;
 
-4. The installation or replacement of primary backflow preventers;
+   4. The installation or replacement of primary backflow preventers;
 
-5. Replacement of gas-fired boilers with heat input of 1 million Btu/h (293 kW) or less;
+   5. Replacement of gas-fired boilers with heat input of 1 million Btu/h (293 kW) or less;
 
-6. Replacement of gas burners with heat input of 2.8 million Btu/h (821 kW) or less;
+   6. Replacement of gas burners with heat input of 2.8 million Btu/h (821 kW) or less;
 
-7. Relocation of a gas burner/boiler within the same, unaltered fire-rated enclosure or room;
+   7. Relocation of a gas burner/boiler within the same, unaltered fire-rated enclosure or room;
 
-8. In-kind replacement with the following direct-vent appliances that are vented directly through exterior walls serving buildings occupied exclusively as one- or two-family dwellings not more than four stories in height, as provided for in rules by the department, regarding gas-fired boilers, hot water heaters and furnaces;
+   8. In-kind replacement with the following direct-vent appliances that are vented directly through exterior walls serving buildings occupied exclusively as one- or two-family dwellings not more than four stories in height, as provided for in rules by the department, regarding gas-fired boilers, hot water heaters and furnaces;
 
-9. Installation of a new single domestic gas dryer that is vented directly through an exterior wall in buildings occupied exclusively as one- or two-family dwellings not more than four stories in height, as provided for in rules by the department;
+   9. Installation of a new single domestic gas dryer that is vented directly through an exterior wall in buildings occupied exclusively as one- or two-family dwellings not more than four stories in height, as provided for in rules by the department;
 
-10. Placement of a registered gas fired temporary boiler at a site for emergency heating; and
+   10. Placement of a registered gas fired temporary boiler at a site for emergency heating; and
 
-11. Replacement of up to thirty existing sprinkler heads providing that orifice sizes, type and deflector positions remain the same, and all such sprinkler heads are off of a domestic water system.
+   11. Replacement of up to thirty existing sprinkler heads providing that orifice sizes, type and deflector positions remain the same, and all such sprinkler heads are off of a domestic water system.
 
 LIMITED SPRINKLER ALTERATIONS. An alteration to a sprinkler system that is limited in scope, falling into one of the following categories:
 
 Category 1. An alteration to an existing sprinkler system where the total cost of the proposed category 1 work in the building does not exceed thirty-five thousand dollars in any 12-month period and where the proposed work is limited to the following:
 
-1. Replacement of parts required for the operation of a sprinkler system;
+   1. Replacement of parts required for the operation of a sprinkler system;
 
-2. Changes that do not alter the type of sprinkler system;
+   2. Changes that do not alter the type of sprinkler system;
 
-3. Relocation of piping that does not affect the operation of the sprinkler system;
+   3. Relocation of piping that does not affect the operation of the sprinkler system;
 
-4. Rearrangement of not more than 20 sprinkler heads in areas classified in light hazard occupancy, as such term is defined in NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy;
+   4. Rearrangement of not more than 20 sprinkler heads in areas classified in light hazard occupancy, as such term is defined in NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy;
 
-5. Rearrangement of not more than 20 sprinkler heads in restaurant service areas classified in Group 1 ordinary hazard occupancy, as such term is defined by NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy;
+   5. Rearrangement of not more than 20 sprinkler heads in restaurant service areas classified in Group 1 ordinary hazard occupancy, as such term is defined by NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy;
 
-6. Rearrangement of not more than 20 sprinkler heads in mercantile areas classified in Group 2 ordinary hazard occupancy, as such term is defined by NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy; and
+   6. Rearrangement of not more than 20 sprinkler heads in mercantile areas classified in Group 2 ordinary hazard occupancy, as such term is defined by NFPA 13 as amended by appendix Q of the New York city building code, provided such areas are already sprinklered and such areas will remain in such occupancy; and
 
-7. The installation of up to five new sprinkler heads off of an existing sprinkler system.
+   7. The installation of up to five new sprinkler heads off of an existing sprinkler system.
 
 Category 2. An alteration to an existing sprinkler system that is not subject to cost or duration limitations and that is limited to the replacement of sprinkler heads, provided that orifice sizes, type and deflector positions remain the same.
 
@@ -364,9 +366,9 @@ LIMITED STANDPIPE ALTERATIONS. An alteration to an existing combined standpipe s
 
 Category 1. An alteration to an existing combined standpipe system where the total cost of the proposed work in the building does not exceed thirty five thousand dollars in any 12-month period and the proposed work is limited to one or more of the following:
 
-1. Replacement of parts required for the operation of a combined standpipe system; and
+   1. Replacement of parts required for the operation of a combined standpipe system; and
 
-2. Relocation of combined standpipe auxiliary hose sources and cabinets within 10 feet (3048 mm) of their original location, provided that the existing covered area is not affected and provided that such relocation complies with this code for a new installation.
+   2. Relocation of combined standpipe auxiliary hose sources and cabinets within 10 feet (3048 mm) of their original location, provided that the existing covered area is not affected and provided that such relocation complies with this code for a new installation.
 
 LISTED. Material identified in a list published by an approved agency that maintains periodic inspection of production of listed material or periodic evaluation services and whose listing states either that the material meets identified nationally recognized standards or has been tested and found suitable for a specified purpose when installed in accordance with the manufacturer's installation instructions.
 
@@ -1479,7 +1481,7 @@ The department shall create and maintain a database of all registered design pro
 *§ 28-104.2.1.5 Applicant requirement.* ::
 
 
-The program shall include a condition that the applicant remain with the project until it is signed-off by the department and that if the applicant withdraws from or is unable to continue a project before the issuance of a letter of completion or certificate of occupancy, as applicable, all work shall stop and no permit, letter of completion or certificate of occupancy shall be issued until a successor registered design professional is designated as applicant of record and such person :
+The program shall include a condition that the applicant remain with the project until it is signed-off by the department and that if the applicant withdraws from or is unable to continue a project before the issuance of a letter of completion or certificate of occupancy, as applicable, all work shall stop and no permit, letter of completion or certificate of occupancy shall be issued until a successor registered design professional is designated as applicant of record and such person:
 
 1. Completes a thorough review and evaluation of the previously filed and accepted construction and other related documents to determine that they conform to the applicable laws and rules in accordance with rules of the board of regents, 8 NYCRR 29.3(a)3;
 
@@ -1775,10 +1777,10 @@ Table 104.7.6.1
       - To obtain equivalency: 
       - NGVD Elevations
     * - 10.000 
-      - $ add 2.608 $ 
+      - —&gt; add 2.608 —&gt;
       - 12.608 
     * -  7.392 
-      - $ add 2.608 $ 
+      - —&gt; add 2.608 —&gt;
       - 10.000 
 ~
 
@@ -1798,10 +1800,10 @@ Table 104.7.6.2
       - To obtain equivalency: 
       - NGVD Elevations
     * - 10.000 
-      - $ add 2.547 $ 
+      - —&gt; add 2.547 —&gt;
       - 12.547 
     * -  7.453 
-      - $ add 2.547 $ 
+      - —&gt; add 2.547 —&gt;
       - 10.000 
 ~
 
@@ -1821,10 +1823,10 @@ Table 104.7.6.3
       - To obtain equivalency: 
       - NGVD Elevations
     * - 10.000 
-      - $ add 2.752 $ 
+      - —&gt; add 2.752 —&gt;
       - 12.752 
     * -  7.248 
-      - $ add 2.752 $ 
+      - —&gt; add 2.752 —&gt;
       - 10.000 
 ~
 
@@ -1844,10 +1846,10 @@ Table 104.7.6.4
       - To obtain equivalency: 
       - NGVD Elevations
     * - 10.000 
-      - $ add 2.725 $ 
+      - —&gt; add 2.725 —&gt;
       - 12.725 
     * -  7.275 
-      - $ add 2.725 $ 
+      - —&gt; add 2.725 —&gt;
       - 10.000 
 ~
 
@@ -1867,10 +1869,10 @@ Table 104.7.6.5
       - To obtain equivalency: 
       - NGVD Elevations
     * - 10.000 
-      - $ add 3.192 $ 
+      - —&gt; add 3.192 —&gt;
       - 13.192 
     * -  6.808 
-      - $ add 3.192 $ 
+      - —&gt; add 3.192 —&gt;
       - 10.000
 ~
 
@@ -2200,7 +2202,7 @@ Construction documents shall not be approved unless all applicable agency approv
 *§ 28-104.11 Construction documents for sites within the MS4 area.* ::
 
 
-It shall be unlawful to construct, enlarge, alter, repair, move, demolish, remove or change the use or occupancy of any building or structure in the city, to change the use or occupancy of an open lot or portion thereof, or to erect, install, alter, repair, or use or operate any sign or service equipment in or in connection therewith, or to erect, install, alter, repair, remove, convert or replace any gas, mechanical, plumbing , fire suppression or fire protection system in or in connection therewith or to cause any such work to be done unless and until a written permit therefore shall have been issued by the commissioner in accordance with the requirements of this code, subject to such exceptions and exemptions as may be provided in section 28-105.4.
+It shall be unlawful to construct, enlarge, alter, repair, move, demolish, remove or change the use or occupancy of any building or structure in the city, to change the use or occupancy of an open lot or portion thereof, or to erect, install, alter, repair, or use or operate any sign or service equipment in or in connection therewith, or to erect, install, alter, repair, remove, convert or replace any gas, mechanical, plumbing, fire suppression or fire protection system in or in connection therewith or to cause any such work to be done unless and until a written permit therefore shall have been issued by the commissioner in accordance with the requirements of this code, subject to such exceptions and exemptions as may be provided in section 28-105.4.
 
 
 
@@ -2268,9 +2270,9 @@ For the purposes of this code, work permits shall be classified as follows:
 
 6. Plumbing permits: for the installation or alteration of plumbing and plumbing systems, including gas piping. Such permits shall include permits for limited plumbing alterations.
 
-7. Sign permits: for the erection, installation or alteration of signs .
+7. Sign permits: for the erection, installation or alteration of signs.
 
-8. Service equipment permits: for the installation or alteration of service equipment, including but not limited to air conditioning and ventilating systems, boilers, elevators, escalators, moving walkways , dumbwaiters, mobile boilers and mobile oil tanks. Such permits shall include permits for limited oil burner/boiler alterations.
+8. Service equipment permits: for the installation or alteration of service equipment, including but not limited to air conditioning and ventilating systems, boilers, elevators, escalators, moving walkways, dumbwaiters, mobile boilers and mobile oil tanks. Such permits shall include permits for limited oil burner/boiler alterations.
 
 9. Temporary construction equipment permits: for the erection, installation and use of temporary structures to facilitate construction and/or safety during construction, including but not limited to temporary fences, railings, catch platforms, over-the-sidewalk chutes, footbridges, sidewalk sheds, and scaffolds.
 
@@ -2446,7 +2448,9 @@ A sign permit shall not be required where the sign is:
 
 2. A wall sign of not more than six square feet (0.56 m2) in area;
 
-3. Erected by employees of a city agency, including traffic and other similar signs; 4 A ground sign offering the sale or rental of the premises on which it is erected, provided the sign does not exceed 12 square feet (1.1 m2) in area;
+3. Erected by employees of a city agency, including traffic and other similar signs;
+
+4    A ground sign offering the sale or rental of the premises on which it is erected, provided the sign does not exceed 12 square feet (1.1 m2) in area;
 
 5. Temporary and erected during construction work and related thereto; or
 
@@ -2596,7 +2600,7 @@ Every permit issued by the commissioner shall have his or her signature affixed 
 *§ 28-105.9 Expiration.* ::
 
 
-All permits issued by the commissioner shall expire by limitation and become invalid if the permitted work or use is not commenced within 12 months from the date of issuance of the permit . Subsequent to the 12-month period following the issuance of the initial permit, all permits shall expire if the permitted work is suspended or abandoned for a continuous period of 12 months unless such permits expire earlier pursuant to applicable provisions of this code. The permit shall automatically expire upon the expiration of required insurance or if the applicant holds a license issued by the department upon the expiration or revocation of such license during the term of the permit.
+All permits issued by the commissioner shall expire by limitation and become invalid if the permitted work or use is not commenced within 12 months from the date of issuance of the permit. Subsequent to the 12-month period following the issuance of the initial permit, all permits shall expire if the permitted work is suspended or abandoned for a continuous period of 12 months unless such permits expire earlier pursuant to applicable provisions of this code. The permit shall automatically expire upon the expiration of required insurance or if the applicant holds a license issued by the department upon the expiration or revocation of such license during the term of the permit.
 
 Exception: All permits for work in an area of special flood hazard shall comply with section G104 of appendix G of the New York city building code.
 
@@ -2894,23 +2898,23 @@ SINGLE ROOM OCCUPANCY MULTIPLE DWELLING. A single room occupancy multiple dwelli
 
 Exception: The term single room occupancy multiple dwelling shall not include:
 
-1. College or school dormitories;
+   1. College or school dormitories;
 
-2. Clubhouses;
+   2. Clubhouses;
 
-3. Luxury hotels, as such term is defined by the commissioner of housing preservation and development; or
+   3. Luxury hotels, as such term is defined by the commissioner of housing preservation and development; or
 
-4. Residences whose occupancy is restricted to an institutional use such as housing intended for use by the employees of a single company or institution;
+   4. Residences whose occupancy is restricted to an institutional use such as housing intended for use by the employees of a single company or institution;
 
-5. City-owned multiple dwellings; or
+   5. City-owned multiple dwellings; or
 
-6. Any multiple dwelling, other than a lodging house, containing fewer than nine sleeping rooms, rooming units, single room occupancy units, or hotel units unless the total number of such units is more than fifty percent of the total number of dwelling units in such multiple dwelling; or
+   6. Any multiple dwelling, other than a lodging house, containing fewer than nine sleeping rooms, rooming units, single room occupancy units, or hotel units unless the total number of such units is more than fifty percent of the total number of dwelling units in such multiple dwelling; or
 
-7. Any multiple dwelling that:
+   7. Any multiple dwelling that:
 
-   7.1. Is the subject of a program approved by the commissioner of housing preservation and development and related to the rehabilitation or preservation of a single room occupancy multiple dwelling or the provision of housing for persons of low or moderate income, other than a program consisting solely of real property tax abatement or tax exemption; and
+      7.1. Is the subject of a program approved by the commissioner of housing preservation and development and related to the rehabilitation or preservation of a single room occupancy multiple dwelling or the provision of housing for persons of low or moderate income, other than a program consisting solely of real property tax abatement or tax exemption; and
 
-   7.2. Has been exempted from the provisions of this article by the commissioner of housing preservation and development.
+      7.2. Has been exempted from the provisions of this article by the commissioner of housing preservation and development.
 
 
 
@@ -3356,9 +3360,9 @@ Table 28-112.2
     :header-rows: 1
 
     * - New Buildings
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
     * - New building work permit: One-, two- or three-family dwelling, where no existing building elements are to be retained in place as part of the new building. • Subsequent applications related to initial new building work permit application, filed prior to the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued
       - $0.06 for each square foot, or fraction thereof, of the total floor area of the new building, but not less than $100 for each structure The rates and fees set forth above shall be subject to increases as provided by department rules. $100
       - $100$100
@@ -3370,7 +3374,7 @@ Table 28-112.2
     * - New building work permit: Garage for not more than three cars when accessory to and filed with plans for one-, two- or three-family dwelling to which it is accessory on the same lot
       - $100
       - $100
-      -  
+      - 
     * - New building work permit: All other new buildings fewer than 7 stories and less than 100,000 square feet, where no existing building elements are to be retained in place as part of the new building. • Subsequent applications related to initial new building work permit application, filed prior to the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued
       - $0.26 for each square foot, or fraction thereof, of the total floor area of the new building, but not less than $280 for each structure. The rates and fees set forth above shall be subject to increases as provided by department rules. $100
       - $100$100
@@ -3396,73 +3400,73 @@ Table 28-112.2
       - $100
       - For the purposes of this fee schedule item,"building elements"means any portion of an existing building or structure, including but not limited to party walls foundations, footings, piles and slabs on grade.
     * - Alterations
-      -  
-      -  
-      -  
-    * - Alteration work permit: • One-, two or three-family dwelling. • Alteration Type 1 • Alteration Type 2 • Alteration Type 3 • Limited Alteration Application
+      - 
+      - 
+      - 
+    * - Alteration work permit: • One-, two or three-family dwelling• Alteration Type 1• Alteration Type 2• Alteration Type 3• Limited Alteration Application
       - Minimum Filing Fee - $170Minimum Filing Fee - $130Minimum Filing Fee - $130Minimum Filing Fee - $130Minimum filing fee for the first five thousand dollars or fraction thereof, of the cost of alteration; plus $2.60 for each one thousand dollars, or fraction thereof, of cost of alterations in excess of five thousand dollars. The rates and fees set forth above shall be subject to increases as provided by department rules.
       - $100
-      -  
-    * - Alteration work permit: Alterations in all other buildings and structures fewer than 7 stories and less than 100,000 square feet, including but not limited to aerial towers and masts, tank structures, fire escapes, etc., which are unoccupied and not easily valued by area. • Alteration Type 1 • Alteration Type 2 • Alteration Type 3 • Limited Alteration Application
+      - 
+    * - Alteration work permit: Alterations in all other buildings and structures fewer than 7 stories and less than 100,000 square feet, including but not limited to aerial towers and masts, tank structures, fire escapes, etc., which are unoccupied and not easily valued by area.• Alteration Type 1• Alteration Type 2• Alteration Type 3• Limited Alteration Application
       - Minimum Filing Fee - $280Minimum Filing Fee - $225Minimum Filing Fee- $195Minimum Filing Fee- $195Minimum filing fee for the first three thousand dollars, or fraction thereof, of the cost of alteration; plus $10.30 for each one thousand dollars, or fraction thereof, of the alteration cost in excess of three thousand dollars. The rates and fees set forth above shall be subject to increases as provided by department rules.
       - $100
-      - Such alterations work shall include: • Applications related to new building work permit application, filed after the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued. • Installation or alteration of elevators, escalators, amusement devices and other devices regulated under this code, except those filed under a new building application. 
-    * - Alteration work permit: Alterations in all other buildings and structures 7 stories or more, or 100,000 square feet or more, classified in occupancy group R-2, which are unoccupied and not easily valued by area, where at least 50 percent of the occupancy units are affordable to households whose income is less than 165 percent of the area median income for New York city, as determined by the United States department of housing and urban development or successor agency, and which are financed entirely or in part by a grant or loan from the city of New York or the New York city housing and development corporation. • Alteration Type 1 • Alteration Type 2 • Alteration Type 3 • Limited Alteration Application
+      - Such alterations work shall include:• Applications related to new building work permit application, filed after the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued.• Installation or alteration of elevators, escalators, amusement devices and other devices regulated under this code, except those filed under a new building application. 
+    * - Alteration work permit: Alterations in all other buildings and structures 7 stories or more, or 100,000 square feet or more, classified in occupancy group R-2, which are unoccupied and not easily valued by area, where at least 50 percent of the occupancy units are affordable to households whose income is less than 165 percent of the area median income for New York city, as determined by the United States department of housing and urban development or successor agency, and which are financed entirely or in part by a grant or loan from the city of New York or the New York city housing and development corporation.• Alteration Type 1• Alteration Type 2• Alteration Type 3• Limited Alteration Application
       - Minimum Filing Fee - $280Minimum Filing Fee - $225Minimum Filing Fee- $195Minimum Filing Fee- $195Minimum filing fee for the first three thousand dollars, or fraction thereof, of the cost of alteration; plus $10.30 for each one thousand dollars, or fraction thereof, of the alteration cost in excess of three thousand dollars. The rates and fees set forth above shall be subject to increases as provided by department rules.
       - $100
-      - Such alterations work shall include: • Applications related to new building work permit application, filed after the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued. • Installation or alteration of elevators, escalators, amusement devices and other devices regulated under this code, except those filed under a new building application.
-    * - Alteration work permit: Alterations in all other buildings and structures 7 stories or more, or 100,000 square feet or more, including but not limited to aerial towers and masts, tank structures, fire escapes, etc., which are unoccupied and not easily valued by area. • Alteration Type 1 • Subsequent or related filings
+      - Such alterations work shall include:• Applications related to new building work permit application, filed after the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued.• Installation or alteration of elevators, escalators, amusement devices and other devices regulated under this code, except those filed under a new building application.
+    * - Alteration work permit: Alterations in all other buildings and structures 7 stories or more, or 100,000 square feet or more, including but not limited to aerial towers and masts, tank structures, fire escapes, etc., which are unoccupied and not easily valued by area.• Alteration Type 1• Subsequent or related filings
       - Minimum Filing Fee- $290Minimum Filing Fee- $290 Minimum filing fee for the first three thousand dollars, or fraction thereof, of the cost of alteration; plus $17.75 for each one thousand dollars, or fraction thereof, of the alteration cost in excess of three thousand dollars. The rates and fees set forth above shall be subject to increases as provided by department rules.
       - $100
-      - Such alterations work shall include: • Applications related to new building work permit application, filed after the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued. • Installation or alteration of elevators, escalators, amusement devices and other devices regulated under this code, except those filed under a new building application.
-    * - Alteration work permit: Alterations in all other buildings and structures 7 stories or more, or 100,000 square feet or more, including but not limited to aerial towers and masts, tank structures, fire escapes, etc., which are unoccupied and not easily valued by area. • Alteration Type 2 • Alteration Type 3 • Limited Alteration Application
+      - Such alterations work shall include:• Applications related to new building work permit application, filed after the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued.• Installation or alteration of elevators, escalators, amusement devices and other devices regulated under this code, except those filed under a new building application.
+    * - Alteration work permit: Alterations in all other buildings and structures 7 stories or more, or 100,000 square feet or more, including but not limited to aerial towers and masts, tank structures, fire escapes, etc., which are unoccupied and not easily valued by area.• Alteration Type 2• Alteration Type 3• Limited Alteration Application
       - Minimum Filing Fee- $225Minimum Filing Fee- $195Minimum Filing Fee- $195Minimum filing fee for the first three thousand dollars, or fraction thereof, of the cost of alteration; plus $10.30 for each one thousand dollars, or fraction thereof, of the alteration cost in excess of three thousand dollars. The rates and fees set forth above shall be subject to increases as provided by department rules.
       - $100
-      - Such alterations work shall include: • Applications related to new building work permit application, filed after the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued. • Installation or alteration of elevators, escalators, amusement devices and other devices regulated under this code, except those filed under a new building application.
+      - Such alterations work shall include:• Applications related to new building work permit application, filed after the first temporary certificate of occupancy (TCO), or the final certificate of occupancy if no TCO is issued.• Installation or alteration of elevators, escalators, amusement devices and other devices regulated under this code, except those filed under a new building application.
     * - Permit to install or alter service equipment except plumbing and fire suppression piping service equipment.
       - Filing fee calculated as for respective building alteration.
       - $100
-      -  
-    * - Permit to install, alter or replace oil-burning equipment: • Where the storage tank exceeds two hundred seventy-five gallon capacity; or where the storage tank is less than two hundred seventy-five gallons and is to be buried, or is to be installed in a multiple dwelling or a place of assembly or in a building along the line of a subway, or is to deliver fuel oil to a burner installed above the lowest floor of a building with a primary Business Group B occupancy. • In all other conditions.
+      - 
+    * - Permit to install, alter or replace oil-burning equipment:• Where the storage tank exceeds two hundred seventy-five gallon capacity; or where the storage tank is less than two hundred seventy-five gallons and is to be buried, or is to be installed in a multiple dwelling or a place of assembly or in a building along the line of a subway, or is to deliver fuel oil to a burner installed above the lowest floor of a building with a primary Business Group B occupancy.• In all other conditions.
       - $130$65
       - $100$100
-      -  
+      - 
     * - Other
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
     * - Permit for foundation, earthwork or open space without roof, whether enclosed or unenclosed, on sites such as parking lots, gasoline or oil-selling stations, storage yards, sales or exhibition or show spaces used for generally similar purposes.
       - $10 for each two thousand square feet of area or fraction thereof, but not less than $130
       - $100
-      -  
+      - 
     * - Permit for golf driving range.
       - $7.50 for each twenty thousand square feet of area or fraction thereof, but not less than $130.
       - $100
-      -  
+      - 
     * - Accessory building to golf driving range, not to exceed one hundred forty-four square feet.
       - $130
       - $100
-      -  
+      - 
     * - Permit for demolition and removal.
       - Multiply building frontage in feet or fraction thereof x number of stories of the building x $2.60, but not less than $260. For corner lot, use the longer building frontage.
       - $100
-      -  
+      - 
     * - Curb cut, private dwelling
       - $3 for each linear foot including splay; minimum $130
-      -  
-      -  
+      - 
+      - 
     * - Curb cut, other
       - $6 for each linear foot including splay; minimum $130
-      -  
-      -  
+      - 
+      - 
     * - Filing of post-approval amendments to existing applications
       - The greater of $100 or the fees for the additional scope or cost of work as calculated pursuant to this Table 28-112.2.
-      -  
-      -  
+      - 
+      - 
     * - Signs
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
     * - Permit to erect, install or alter sign: Ground sign.
       - Filing fee calculated as for respective building alteration, plus $5 for each one hundred square feet of surface area, or fraction thereof, but not less than $35
       - $100
@@ -3493,40 +3497,40 @@ Table 28-112.2
       - Illuminated sign is subject to annual use fee: $0.75 for each square foot or part thereof annually, but not less than $100.
     * - Maintenance permit for outdoor signs.
       - As provided by department rules.
-      -  
-      -  
+      - 
+      - 
     * - Temporary Structures
-      -  
-      -  
-      -  
+      - 
+      - 
+      - 
     * - Sidewalk shed
       - $160 for the first twenty five feet or fraction thereof in the length of the shed; plus $10 for each additional twenty-five feet or fraction thereof.
       - $100
-      -  
+      - 
     * - Scaffold
       - $160
       - $100
-      -  
+      - 
     * - Construction Fence
       - $160
       - $100
-      -  
+      - 
     * - Permit for temporary shed, railing, footbridge, catch platform, building sidewalk shanty, over-the-sidewalk chute.
       - $160 for each permit
       - $100
-      -  
+      - 
     * - Permit for temporary structure other than those temporary structures listed above, including but not limited to tents, grandstands, stages.
       - For the initial 30 days of permit duration: $130 for the first one thousand square feet or fraction thereof; plus $0.10 for each square foot or fraction thereof in excess of one thousand square feet; $100 for each additional 30 day period of permit duration. 
       - $100 for each additional 30 days
-      -  
+      - 
     * - Reinstatement of Applications/Permits  
-      -  
-      -  
-      -  
-    * - Application/permit reinstatement fees: • Prior to first permit. • Following first permit issuance but prior to commencing work. • Following first permit, with work partially complete.
-      - Full fee at the rate in effect on the date of reinstatement Full fee at the rate in effect on the date of reinstatement Based upon the full fee at the rate in effect on the date of reinstatement, the percentage of the fee equal to the percentage of work remaining as determined by the department inspector, plus the renewal fee.
-      -  
-      -  
+      - 
+      - 
+      - 
+    * - Application/permit reinstatement fees:• Prior to first permit.• Following first permit issuance but prior to commencing work.• Following first permit, with work partially complete.
+      - Full fee at the rate in effect on the date of reinstatementFull fee at the rate in effect on the date of reinstatementBased upon the full fee at the rate in effect on the date of reinstatement, the percentage of the fee equal to the percentage of work remaining as determined by the department inspector, plus the renewal fee.
+      - 
+      - 
 ~
 
  
@@ -3541,7 +3545,7 @@ Table 28-112.2
 *§ 28-112.3 Building permit valuations.* ::
 
 
-An estimate of the cost of construction shall be provided at the time of application for construction document approval or, where no construction documents are required, at the time of application for a permit. Such costs shall include the total value of work proposed, including but not limited to materials , equipment and labor, with reasonable allowances for profit and overhead. If, in the opinion of the department, the cost is underestimated , the application shall be denied, unless the applicant can show detailed estimates to meet the approval of the department. A final affidavit with the total actual cost of construction, as built or installed, shall be submitted prior to signoff. The initial, amended and final building permit valuation shall be set by the department.
+An estimate of the cost of construction shall be provided at the time of application for construction document approval or, where no construction documents are required, at the time of application for a permit. Such costs shall include the total value of work proposed, including but not limited to materials, equipment and labor, with reasonable allowances for profit and overhead. If, in the opinion of the department, the cost is underestimated, the application shall be denied, unless the applicant can show detailed estimates to meet the approval of the department. A final affidavit with the total actual cost of construction, as built or installed, shall be submitted prior to signoff. The initial, amended and final building permit valuation shall be set by the department.
 
 
 
@@ -3727,8 +3731,18 @@ Table 28-112.7.1
       - Filing Fee
       - Renewal Fee
       - Comments
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - Prototype approval of one configuration of a mobile crane. One configuration shall be comprised of the crane with a main boom, one fixed jib and one set of counterweights.
-      - $2500 when testing has been monitored and certified by a competent individual or group, other than the manufacturer, acceptable to the commissioner;$4000 when, in lieu of moni- toring and certification of tests, the commissioner shall require design calculations for such items as the commissioner deems necessary to supplement the tests.
+      - $2,500 when testing has been monitored and certified by a competent individual or group, other than the manufacturer, acceptable to the commissioner;$4000 when, in lieu of moni- toring and certification of tests, the commissioner shall require design calculations for such items as the commissioner deems necessary to supplement the tests.
       - 
       - Additional configurations shall be subject to the same fee as the original configuration.
     * - Amendment to a configuration.
@@ -3736,7 +3750,7 @@ Table 28-112.7.1
       - 
       - 
     * - Prototype approval of a mobile crane with a hydraulic boom.
-      - $4000
+      - $4,000
       - 
       - 
     * - Certificate of approval for mobile crane with a boom less than two hundred feet in length; fee also includes initial certificate of operation.
@@ -3744,23 +3758,23 @@ Table 28-112.7.1
       - $250 annually
       - The boom length as herein specified shall include the jibs and any other extensions to the boom.
     * - Certificate of approval for mobile crane with a boom two hundred feet or more in length, but less than three hundred feet in length; fee also includes initial certificate of operation.
-      - $1000
+      - $1,000
       - $250 annually
       - The boom length as herein specified shall include the jibs and any other extensions to the boom.
     * - Certificate of approval for mobile crane with a boom three hundred feet or more in length but less than four hundred feet in length; fee also includes initial certificate of operation.
-      - $2000
+      - $2,000
       - $400 annually
       - The boom length as herein specified shall include the jibs and any other extensions to the boom.
     * - Certificate of approval for mobile crane with a boom four hundred feet or more in length; fee also includes initial certificate of operation.
-      - $3000
+      - $3,000
       - $400 annually
       - The boom length as herein specified shall include the jibs and any other extensions to the boom.
     * - Certificate of approval for master climber and tower cranes and derricks, regardless of length; fee also includes initial certificate of operation.
-      - $3000
+      - $3,000
       - $400 annually
       - 
     * - Certificate of approval for all other cranes; fee also includes initial certificate of operation.
-      - $1000
+      - $1,000
       - $250 annually
       - 
     * - Certificate of approval required for a mobile crane with a boom not exceeding fifty feet in length with a maximum rated capacity not exceeding three tons; fee also includes initial certificate of operation.
@@ -3879,28 +3893,28 @@ Table 28-112.7.3
       - Comments
     * - Each inspection of a temporary amusement device
       - $100
-      -  
-      -  
+      - 
+      - 
     * - Marquee inspection.
       - $15 annually for each one hundred square feet or fraction thereof.
-      -  
-      -  
+      - 
+      - 
     * - Place of assembly inspection, including following a violation.
       - $100 each inspection, each place of assembly.
-      -  
-      -  
+      - 
+      - 
     * - Search inspection of a building with a frontage of twenty-five feet or less and a depth of one hundred feet or less.
       - $20 for each floor for the first three floors;$10 for each additional floor;$100 minimum total.
-      -  
+      - 
       - A basement or a cellar shall count as a floor. Where both a basement and a cellar exist, the cellar shall not count as a floor in computing fee.
     * - ∙ Additional fee for building with frontage exceeding twenty-five feet.
       - Increase above fee by 40% for each floor for each additional twenty-five feet or fraction thereof.
-      -  
-      -  
+      - 
+      - 
     * - ∙ Additional fee for building with depth exceeding one hundred feet.
       - Increase above fee by 25% for each floor for each additional twenty-five feet or fraction thereof.
-      -  
-      -  
+      - 
+      - 
 ~
 
 
@@ -3969,6 +3983,16 @@ Table 28-112.8
       - Fee
       - Renewals
       - Comments
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - Accelerated plan review.
       - As provided by department rules.
       - 
@@ -5102,7 +5126,7 @@ No building, open lot or portion thereof hereafter altered so as to change from 
 *§ 28-118.3.2 Changes inconsistent with existing certificate of occupancy.* ::
 
 
-No change shall be made to a building , open lot or portion thereof inconsistent with the last issued certificate of occupancy or, where applicable, inconsistent with the last issued certificate of completion for such building or open lot or which would bring it under some special provision of this code or other applicable laws or rules, unless and until the commissioner has issued a new or amended certificate of occupancy.
+No change shall be made to a building, open lot or portion thereof inconsistent with the last issued certificate of occupancy or, where applicable, inconsistent with the last issued certificate of completion for such building or open lot or which would bring it under some special provision of this code or other applicable laws or rules, unless and until the commissioner has issued a new or amended certificate of occupancy.
 
 
 
@@ -5152,7 +5176,7 @@ Upon application by the owner of such a building or open lot in existence prior 
 *§ 28-118.3.4.2 Partial certificates of occupancy.* ::
 
 
-Partial certificates of occupancy may be issued pursuant to section 28-118.16 .
+Partial certificates of occupancy may be issued pursuant to section 28-118.16.
 
 
 
@@ -5538,7 +5562,11 @@ The commissioner shall promulgate rules classifying all violations of this code,
 
 The commissioner shall classify the following violations as immediately hazardous:
 
-1. A violation of section 28-210.1 in which a building legally approved for occupancy as a one-family or two-family dwelling (as set forth in the certificate of occupancy or if no certificate of occupancy is required, as evidenced by official records) is illegally converted to or maintained as a dwelling for occupancy by four or more families;
+1. With respect to violations of article 210 of this chapter:
+
+   1.1. A violation of section 28-210.1 in which a building legally approved for occupancy as a one-family or two-family dwelling (as set forth in the certificate of occupancy or if no certificate of occupancy is required, as evidenced by official records) is illegally converted to or maintained as a dwelling for occupancy by four or more families; or
+
+   1.2. A violation of sections 28-210.1 and 28-210.2 in any building involving the illegal conversion, maintenance or occupancy of three or more dwelling units than are legally authorized by the certificate of occupancy or if no certificate of occupancy is required as evidenced by official records.
 
 2. Any violation of section 28-211.1 false statement;
 
@@ -5596,7 +5624,7 @@ The commissioner shall classify the following violations as major violations:
 
 1. A violation of section 28-210.1 or 28-210.2 other than a violation that is directed to be classified as immediately hazardous.
 
-2. Failure to perform required facade, retaining wall, elevator and boiler inspections, structural inspections of buildings and structures that are potentially compromised as defined in section 28-216.12, and to file required reports within the applicable time period.
+2. Failure to perform required facade, retaining wall, elevator and boiler inspections or tests, structural inspections of buildings and structures that are potentially compromised as defined in section 28-217.1, and to file required reports within the applicable time period.
 
 3. Failure to provide the notice required by section 3314.1.1. of the New York city building code.
 
@@ -5654,7 +5682,7 @@ The commissioner may use any of the methods set forth in this code to enforce co
 *§ 28-201.3.1 Issuance.* ::
 
 
-Officers and employees of the department and of other city agencies designated by the commissioner shall have the power to issue summonses, appearance tickets and notices of violation for violations of this code, the 1968 building code, the zoning resolution or other laws or rules enforced by the department, orders, and requests for corrective action.
+Officers and employees of the department and of other city agencies designated by the commissioner shall have the power to issue summonses, appearance tickets, orders and notices of violation based on violations of this code, the 1968 building code, the zoning resolution or other laws or rules enforced by the department, orders, and requests for corrective action.
 
 
 
@@ -5927,7 +5955,7 @@ In any proceeding before the environmental control board, if the board finds tha
 *§ 28-204.4 Failure to certify the correction of a violation.* ::
 
 
-Failure to comply with an order of the commissioner issued pursuant to section 28-204.2 to correct and to certify correction of a violation within the applicable time period shall be a violation of this code for which penalties may be imposed in addition to the penalties that may be or have been imposed for the violation referred to in such order. Upon application, for good cause, the commissioner may extend the time for filing the certification of correction of a violation, but not for more than 30 days for each extension.
+Failure to comply with an order of the commissioner issued pursuant to section 28-204.2 or pursuant to any provision of law or rule enforced by the department in effect at the time the order was issued to correct and to certify correction of a violation within the applicable time period shall be a violation of this code for which penalties may be imposed in addition to the penalties that may be or have been imposed for the violation referred to in such order. Upon application, for good cause, the commissioner may extend the time for filing the certification of correction of a violation, but not for more than 30 days for each extension.
 
 
 
@@ -5999,7 +6027,7 @@ All such unpaid judgments shall constitute a lien upon the property named in the
 *§ 28-204.6.3 Notice.* ::
 
 
-A notice, stating the amount due and the nature of the charge, shall be mailed by the department of finance to the last known address of the person whose name appears on the records of the department as being the owner or agent of the property or as the person designated by the owner to receive tax bills or, where no name appears, to the property, addressed to either the "owner" or the "agent."
+A notice, stating the amount due and the nature of the charge, shall be mailed by the department of finance to the last known address of the person whose name appears on the records of the department of finance as being the owner or agent of the property or as the person designated by the owner to receive tax bills or, where no name appears, to the property, addressed to either the "owner" or the "agent."
 
 
 
@@ -6164,7 +6192,7 @@ The person in whose name the real estate affected by the action is recorded in t
 *§ 28-205.1.2.3 Presumption of employment or agency.* ::
 
 
-Whenever there is evidence that a person was the manager, operator, or supervisor or, in any other way, in charge of the premises, at the time the violation occurred, such evidence shall be presumptive that he or she was an agent or employee of the owner or lessee of the building, structure, or premises.
+Whenever there is evidence that a person was the manager, operator, or supervisor or, in any other way, in charge of the premises, at the time the violation occurred, such evidence shall be presumptive that he or she was an agent or employee of the owner and/or lessee of the building, structure, or premises.
 
 
 
@@ -6414,7 +6442,7 @@ It shall be unlawful to remove or deface a written posted vacate order from the 
 *§ 28-207.5 Cease use orders for service equipment.* ::
 
 
-Whenever the commissioner determines that the operation of any service equipment is or may be dangerous to life, health or safety, the commissioner may issue a cease use order requiring such equipment to be shut down or sealed or otherwise made inoperable. Upon the issuance of such order a tag or notice shall be affixed to the device warning that the equipment is unsafe for operation. It shall be unlawful to operate such equipment or to remove or deface such tag unless and until the cease use order is rescinded by the commissioner.
+Whenever the commissioner determines that the operation of any service equipment is or may be dangerous to life, health or safety, the commissioner may issue a cease use order requiring such equipment to be shut down or sealed or otherwise made inoperable. Upon the issuance of such order a tag or notice shall be affixed to the device warning that the equipment is unsafe for operation. It shall be unlawful to operate such equipment or to remove or deface such tag unless and until the cease use order is rescinded by the commissioner. The owner or other person in control of the service equipment shall ensure that such tag or notice remains affixed until rescinded by the commissioner.
 
 
 
@@ -6424,7 +6452,7 @@ Whenever the commissioner determines that the operation of any service equipment
 *§ 28-207.5.1 Rescission of cease use order.* ::
 
 
-Upon application, the commissioner shall rescind the cease use order when the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted in accordance with department rules or where the cease use order was issued in error or conditions are such that it should not have been issued.. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such cease use order.
+Upon application, the commissioner may rescind the cease use order when the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted in accordance with department rules or where the cease use order was issued in error or conditions are such that it should not have been issued.. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such cease use order.
 
 
 
@@ -6587,10 +6615,10 @@ By no later than September 1 of each year, the department shall, with the cooper
 
 
 
-*§ 28-211.1 False statements in certificates, forms, written statements, applications, reports or certificates of correction.* ::
+*§ 28-211.1 False statements in certificates, forms, written statements, applications, reports, or certificates of correction.* ::
 
 
-It shall be unlawful for any person to make a material false statement in any certificate, professional certification, form, signed statement, application, report or certification of the correction of a violation required under the provisions of this code or any rule of any agency promulgated thereunder that such person knew or should have known to be false.
+It shall be unlawful for any person to knowingly or negligently make or allow to be made a material false statement in any certificate, professional certification, form, signed statement, application, report or certification of the correction of a violation that is either submitted directly to the department or that is generated with the intent that the department rely on its assertions.
 
 
 
@@ -6617,7 +6645,7 @@ In addition to any other penalty provided by law, the commissioner may refuse to
 
 
 
-*§ 28-211.2 Falsely impersonating an officer.* ::
+*§ 28-211.2 Falsely impersonating department officer, inspector, or employee.* ::
 
 
 It shall be unlawful for any person to falsely represent himself or herself as an officer, inspector or employee of the department, or as acting under the authority of the department, or without authority to use, wear or display a shield or other insignia or emblem such as is worn by such officer, inspector or employee.
@@ -6795,7 +6823,7 @@ On the tenth business day after the posting of such order and upon the written d
 *§ 28-212.10 Rescission of order of closure.* ::
 
 
-If at any time after the issuance of such order, the owner, mortgagee, or other person having an interest in the property provides assurance, in a form satisfactory to the commissioner, that the illegal commercial or manufacturing use of the premises has been discontinued and will not reoccur, or such owner, mortgagee, or other person establishes that the premises may be lawfully occupied for such use, the commissioner shall rescind the closure order. If such order is rescinded, the commissioner shall, upon request of such owner, mortgagee, or other person, provide a copy of such rescission, which may be filed with the county clerk or register of the county in which such premises are located. No such re-occupancy shall be permitted without a certificate of occupancy authorizing such use.
+If at any time after the issuance of such order, the owner, mortgagee, or other person having an interest in the property provides assurance, in a form satisfactory to the commissioner, that the illegal commercial or manufacturing use of the premises has been discontinued and will not reoccur, or such owner, mortgagee, or other person establishes that the premises may be lawfully occupied for such use, the commissioner shall rescind the closure order. If such order is rescinded, the commissioner shall, upon request of such owner, mortgagee, or other person, provide a copy of such rescission, which may be filed with the county clerk or register of the county in which such premises are located. No such re-occupancy shall be permitted without a certificate of occupancy or other department records authorizing such use.
 
 
 
@@ -6938,10 +6966,10 @@ The department shall remove from the watch list created pursuant to section 28-2
 
 
 
-*§ 28-214.1 Order to seal, secure and close.* ::
+*§ 28-214.1 Order to seal, secure, and close.* ::
 
 
-If the commissioner determines such action is necessary to the preservation of life and safety the commissioner may order a building subject to a vacate order to be sealed, secured and closed, except that the commissioner shall not order sealed, secured and closed any dwelling unit or other space lawfully used for residential purposes unless such dwelling unit or other space is sealed pursuant to the provisions of article 216.
+If the commissioner determines such action is necessary to the preservation of life and safety the commissioner may order a building subject to a vacate order to be sealed, secured and closed.
 
 
 
@@ -7074,7 +7102,7 @@ Payments pursuant to section 28-214.3.1 shall be made as a matter of grace and s
 *§ 28-215.1 Emergency work.* ::
 
 
-Notwithstanding any other provisions of law, if the commissioner determines that a structure or any part thereof is in imminent danger of collapse and the exigency of the situation is such that any delay may cause further danger to the public safety, then the commissioner may direct the commissioner of housing preservation and development or the department of citywide administrative services, or other city agency to perform or arrange the performance of the emergency demolition of such structure or part thereof or such other work as deemed by the commissioner to make it safe.
+Notwithstanding any other provisions of law, if the commissioner determines that a structure or premises or any part thereof poses an imminent danger of serious physical injury or death to the public or is in imminent danger of collapse and the exigency of the situation is such that any delay may cause further danger to the public safety, then the commissioner may direct the commissioner of housing preservation and development or the department of citywide administrative services, or other authorized agency to perform or arrange the performance of the emergency work on, or demolition of such structure or premises or part thereof or such other work as deemed by the commissioner to make it safe.
 
 
 
@@ -7114,7 +7142,7 @@ See section 28-207.4.
 *§ 28-215.4 Violations of protective measures during construction or demolition.* ::
 
 
-During the construction or demolition of a structure, the commissioner shall notify the owner of the structure affected of any failure to comply with any of the provisions of this code that concern the protection of the public and workers during construction or demolition. Unless the owner so notified proceeds immediately to comply with the orders of the commissioner, the commissioner shall have full power to correct the violation. All expenses incurred therefore shall become a lien on the property pursuant to section 28-112.9.
+During the construction or demolition of a structure, the commissioner shall notify the owner of the structure affected of any failure to comply with any of the provisions of this code that concern the protection of life, safety and property during construction or demolition. Unless the owner so notified proceeds immediately to comply with the orders of the commissioner, the commissioner shall have full power to correct the violation. All expenses incurred therefore shall become a lien on the property pursuant to section 28-112.9.
 
 
 
@@ -7134,7 +7162,7 @@ When necessary to conduct an investigation of any occurrence affecting building 
 *§ 28-215.6 Closing streets temporarily.* ::
 
 
-The commissioner may, when necessary for the public safety, temporarily close the sidewalks, streets, structures or places adjacent to a structure or part thereof, and the police commissioner, or any of his or her subordinates shall enforce all orders or requirements made by the commissioner, when so requested by the commissioner.
+The commissioner may, when necessary for the public safety, temporarily close the sidewalks, streets, structures or places adjacent to a structure or part thereof, and the police commissioner or commissioner of the department of transportation, or any of his or her subordinates shall enforce all orders or requirements made by the commissioner, when so requested by the commissioner.
 
 
 
@@ -7154,7 +7182,7 @@ Where any persons are known or believed to be buried under the ruins of any fall
 *§ 28-215.8 Non-compliance with orders; execution of work by department.* ::
 
 
-Upon the failure to comply with any order of the commissioner within the time limited thereby, and subject to the provisions of article 216, any work required to be executed by such order may be executed by the commissioner through the officers, agents or contractors of the department; and the city shall be reimbursed promptly for all costs and expenses of such work. Such costs and expenses shall become a lien upon the premises involved and named in the commissioner's order, which may be enforced in accordance with the provisions of section 28-112.9 of this code.
+Upon the failure to comply with any order of the commissioner within the time limited thereby, and subject to the provisions of article 216, any work required to be executed by such order may be executed by the commissioner through the officers, agents or contractors of the department or other authorized agency; and the city shall be reimbursed promptly for all costs and expenses of such work. Such costs and expenses shall become a lien upon the premises involved and named in the commissioner's order, which may be enforced in accordance with the provisions of section 28-112.9 of this code.
 
 
 
@@ -7176,6 +7204,26 @@ Any building, structure or part thereof described in this article shall be deeme
 
 
 
+*§ 28-216.1.1 Compromised structures.* ::
+
+
+Any structure or premises or part of a structure or premises that from any cause may at any time become dangerous or unsafe, structurally or as a fire hazard, or dangerous or detrimental to human life, health or safety, shall be demolished and removed or made safe and secure.
+
+
+
+
+
+
+*§ 28-216.1.2 Vacant buildings.* ::
+
+
+Any vacant building not continuously guarded or not sealed and kept secure against unauthorized entry shall have all openings sealed in a manner approved by the commissioner, and it shall be the duty of the owner thereof promptly to make any repairs that may be necessary for the purpose of keeping such building sealed and secure.
+
+
+
+
+
+
 *§ 28-216.2 Record and notice of unsafe building, structure, or premises.* ::
 
 
@@ -7190,6 +7238,16 @@ The department shall cause a report to be filed on an unsafe building, structure
 
 
 The owner, executor, administrator, mortgagee, lessee or any other person who may have a recorded vested or recorded contingent interest in the unsafe building, structure or premises, shall be served with a notice of survey and summons containing a description of the unsafe building, structure or premises and an order requiring such building be sealed, secured, repaired, shored, or demolished and removed as may be deemed necessary by the commissioner.
+
+
+
+
+
+
+*§ 28-216.3.1 Content.* ::
+
+
+Such notice of survey and summons shall require the person thus served immediately to certify to the commissioner his or her acceptance or rejection of the order. The notice of survey and summons shall further notify said person(s) that upon his or her refusal or neglect to comply with any of the requirements of this provision, a survey of the building or premises named in such notice will be made at a time and place therein named. The notice of survey and summons shall also state that if, pursuant to the survey, it is found that the building, structure, or premises referred to therein is unsafe or dangerous by the surveyors, their report of survey will be placed before the supreme court for trial at a time and place named in such notice.
 
 
 
@@ -7226,6 +7284,46 @@ A survey of the building or premises shall be conducted as follows:
 
 
 
+*§ 28-216.6.1 Identity of surveyors.* ::
+
+
+The survey shall be made by three competent persons, of whom one shall be the commissioner or his or her designee; another shall be a registered design professional appointed by a recognized professional organization or by the commissioner; and the third shall be a registered design professional appointed by the person served with a notice pursuant to section 28-216.4. If the person served with such notice shall neglect or refuse to appoint such surveyor, the other two surveyors shall make the survey. In case they disagree, they shall appoint a third person to take part in such survey, who shall be a registered design professional of at least 10 years' practice, whose decision shall be final.
+
+
+
+
+
+
+*§ 28-216.6.2 Posting report of survey.* ::
+
+
+A copy of the report of the survey shall be posted on the structure that is the subject thereof by the persons holding the survey, immediately on their issuing such report.
+
+
+
+
+
+
+*§ 28-216.6.3 Compensation of surveyors.* ::
+
+
+The registered design professional appointed by the respective professional organization or by the commissioner, as hereinbefore provided, who may act on any survey called in accordance with the provisions of this section 28-216.6, and the third surveyor who may have been called in the case of disagreement provided for in this section 28-216.6, shall each be paid a sum to be determined by rule to be promulgated by the department.
+
+
+
+
+
+
+*§ 28-216.6.4 Cost of survey.* ::
+
+
+Any costs incurred by the city in connection with the survey shall become money due and owing to the city as part of the return of precept and judgment provided for in sections 28-216.9, 28-216.10 and 28-216.11 of this code or pursuant to lien provided for in section 28-112.9 of this code.
+
+
+
+
+
+
 *§ 28-216.7 Court proceeding.* ::
 
 
@@ -7236,10 +7334,124 @@ Whenever the report of survey shall recite that the building, structure or premi
 
 
 
+*§ 28-216.7.1 Precedence of proceeding.* ::
+
+
+The unsafe building proceeding shall have precedence over every other business of such supreme court. The trial on the issues in the unsafe building proceeding shall be held without delay, at the time specified in the notice, and shall be held by a justice of the court or by a referee, whose decision or report in the matter shall be final.
+
+
+
+
+
+
+*§ 28-216.7.2 Precept to abate.* ::
+
+
+If the justice or referee determines the building, structure or premises that is the subject of the report of survey is unsafe or dangerous, such justice or referee trying the case shall immediately issue a precept directed to the commissioner authorizing the commissioner forthwith to vacate pursuant to section 28-207.4, if necessary, and to seal, secure, shore, or demolish and remove the unsafe building, structure or premises named in such report. The precept shall be effective for a period of three years from the date of issuance.
+
+
+
+
+
+
+*§ 28-216.7.3 Notice of pendency.* ::
+
+
+A notice of pendency shall be filed in accordance with the following procedure:
+
+1. The notice of pendency shall be filed in accordance with the Civil Practice Law and Rules of the State of New York and shall be filed in the office of the clerk of the county where the property affected by such action, suit or proceeding is located. Such notice of pendency may be filed at any time after the service of the notice described in section 28-216.3.
+
+2. Any notice of pendency filed pursuant to the provisions of this section 28-216.7.3 that has not expired may be vacated and cancelled of record upon an order of a justice of the court in which such suit or proceeding was instituted or is pending, or upon the consent in writing of the corporation counsel. The clerk of the county where the notice is filed is hereby directed and required to mark any such notice of pendency, and any record or docket thereof, as vacated and cancelled of record upon the presentation and filing of a certified copy of such order or consent.
+
+
+
+
+
+
 *§ 28-216.8 Execution of precept.* ::
 
 
 A precept issued pursuant to section 28-216.7.2 shall be executed in accordance with the procedure set forth in sections 28-216.8.1 through 28-216.8.3.
+
+
+
+
+
+
+*§ 28-216.8.1 Work by the department.* ::
+
+
+Upon receiving a precept under the provisions of section 28-216.7.2, the commissioner shall execute such precept, as therein directed, and may employ such labor and assistance and furnish such materials as may be necessary for that purpose. The commissioner or his or her designee shall direct the commissioner of citywide administrative services or the department of housing preservation and development or other authorized agency to perform work in accordance with the precept. Such work shall be performed by or under the direction of citywide administrative services in accordance with the provisions of section 4-204 of the administrative code, or the department of housing preservation and development, or such other authorized agency.
+
+
+
+
+
+
+*§ 28-216.8.2 Owner application to perform work.* ::
+
+
+The owner of such unsafe building, structure, or premises, or any party interested therein, if such person applies to the commissioner immediately upon the issuing of such precept, shall be allowed to perform the requirements of such precept at his or her own cost and expense, if the performance shall be done immediately and in accordance with the requirements of such precept and other applicable laws and rules and such other requirements as the commissioner shall impose.
+
+
+
+
+
+
+*§ 28-216.8.3 Modification of precept.* ::
+
+
+The commissioner or his or her designee shall have authority to modify the requirements of any precept when such commissioner or designee shall be satisfied that such change will secure the safety of such structure or premises equally well.
+
+
+
+
+
+
+*§ 28-216.8.3.1 Upon application.* ::
+
+
+The commissioner shall also have authority to modify the requirements of any precept upon application to such commissioner in writing by the owner of the unsafe building, structure, or premises, or such owner's authorized representative. In addition, upon application to modify the requirements of any precept to seal, shore or demolish the structure by the commissioner of housing preservation and development, citywide administrative services or such other authorized agency, the commissioner or designee shall have authority to modify such precept accordingly when the commissioner shall be satisfied that such change will secure the safety of such structure or premises equally well.
+
+
+
+
+
+
+*§ 28-216.8.3.2 Notice.* ::
+
+
+After a determination to modify the precept is made by the commissioner, written notice of such determination shall be sent by regular mail to the owner and applicant for the modification if other than the owner, at his or her last known address.
+
+
+
+
+
+
+*§ 28-216.8.3.3 Failure of owner to perform work.* ::
+
+
+If no action in accordance with the modified precept is undertaken by the owner or applicant for modification within the time period provided in the modification following the granting of such application, the commissioner may direct the department of housing preservation and development or the department of citywide administrative services or other authorized    agency to execute the original precept, provided however that prior to such execution, notice shall be provided by regular mail to the owner of the unsafe building, structure or premises and applicant for the modification if other than the owner, at his or her last known address. The owner shall continue to have the right to request the commissioner to modify the requirements of the precept prior to the execution thereof.
+
+
+
+
+
+
+*§ 28-216.8.4 Interference prohibited.* ::
+
+
+It shall be unlawful for any person to interfere, obstruct or hinder the commissioner or the commissioner of citywide administrative services, housing preservation and development, or other authorized agency, or any person who, acting under the authority conferred on such person by such commissioner, in performing the work authorized by a precept issued out of any court or modified in accordance with section 28-216.8.3, or the work ordered by the commissioner in accordance with such precept under the provisions of section 28-216.8.3.3.
+
+
+
+
+
+
+*§ 28-216.8.5 Enforcement.* ::
+
+
+The police commissioner shall enforce such orders or requirements when requested by the commissioner and shall likewise enforce same at the request of the commissioner of citywide administrative services, housing preservation and development, or other authorized agency, with respect to work performed by or under the direction of such commissioner pursuant to the provisions of section 28-216.8.3.3.
 
 
 
@@ -7285,6 +7497,76 @@ Any costs and expenses incurred by any agency of the city pursuant to this artic
 
 
 For purposes of this article "potentially compromised" shall include a building or structure that has had an open roof for sixty days or longer, that has been shored and braced or otherwise temporarily safeguarded pursuant to an emergency declaration issued by the commissioner, that has been subject to a precept as a compromised structure under section 216.1.1 of this code or that may have suffered structural damage by fire or any other cause as determined by the commissioner.
+
+
+
+
+
+
+*§ 28-217.1.1 Structural inspections of potentially compromised buildings or structures.* ::
+
+
+When a building or structure has become potentially compromised, the owner shall cause a structural inspection of such building or structure to be performed. Such inspection shall be performed within 60 days of the opening of the roof, within 60 days of the shoring and bracing or other temporary safeguards pursuant to an emergency declaration, or within 60 days of damage by fire or a determination by the commissioner that the building has suffered structural damage by other cause. A report of such inspection shall be filed with the department within 30 days thereafter in such form and detail and with provision for periodic monitoring of the building or structure as the commissioner may require.
+
+
+
+
+
+
+*§ 28-217.1.2* ::
+
+
+Structural inspections shall only be performed by a registered design professional in good standing with the New York st ate department of education.
+
+
+
+
+
+
+*§ 28-217.1.3* ::
+
+
+If a violation of any applicable statute, law, rule or regulation or any unsafe condition that poses a threat to the structural integrity of the building or to the public is found during the course of such inspection, the registered design professional performing the inspection shall immediately notify the department and the owner of such violation or unsafe condition by calling 311 and in writing.
+
+
+
+
+
+
+*§ 28-217.1.4* ::
+
+
+An inspection of the buildings and structures subject to the inspection and filing requirements of section 28-216.12 shall be performed every year or, for a specified building or structure, within such other period as determined by the commissioner but not longer than two years, and shall continue until such time as the registered design professional documents and certifies that the building or structure is no longer potentially compromised and such certification is accepted by the commissioner.
+
+
+
+
+
+
+*§ 28-217.1.5* ::
+
+
+The owner shall hire a registered design professional to perform a structural inspection of buildings and structures subject to section 28-217.1 prior to the issuance of a permit to alter, repair, demolish or enlarge such building or structure, except that the commissioner may waive such inspection if a structural inspection of the entire building or structure has been performed within the prior year.
+
+
+
+
+
+
+*§ 28-217.1.6* ::
+
+
+Any owner of a building or structure shall notify the department in writing that such building or structure has become potentially compromised immediately after such owner knows or should have known of the condition. Such notice shall contain the name and business address of the owner of record of such building or structure and shall identify the building or structure by street address and tax block and lot. The notices required by this subdivision shall be in such form and manner as established by the commissioner by rule.
+
+
+
+
+
+
+*§ 28-217.1.7* ::
+
+
+If an owner subject to the inspection and filing requirements of this section fails to file such report, the owner shall be liable for a civil penalty in an amount not less than two thousand dollars. In such a case, the department may cause a structural inspection to be conducted and a report filed.
 
 
 
@@ -7391,6 +7673,26 @@ Where an immediately hazardous condition has been identified as posing a threat 
 2. The person to whom the violation has been directed has obtained an extension of time for filing the certificate of correction of the violation from the commissioner in accordance with section 28-204.4 and with any applicable rules of the department, and said extension of time to file has not yet expired; or
 
 3. The condition has been corrected in the presence of the commissioner.
+
+
+
+
+
+
+*§ 28-219.2.1 Continued noncompliance.* ::
+
+
+If, upon reinspection, the commissioner determines the condition continues to pose a threat of imminent danger to public safety or property, and the person against whom the initial violation was directed is not in compliance with section 28-204.4, the commissioner shall issue an appropriate violation and shall issue a stop-work order, pursuant to section 28-207.2, or the commissioner shall, if the commissioner is unable to obtain access to the premises, request the corporation counsel to institute legal proceedings to compel correction of the violation and abate the condition or take such other action as is appropriate.
+
+
+
+
+
+
+*§ 28-219.2.2 Inspections by the commissioner.* ::
+
+
+The commissioner shall continue to reinspect any condition that has given rise to an immediately hazardous violation that poses a threat of imminent danger to public safety or property every 60 days, and shall follow the procedures described in items 1, 2 and 3 of section 219.2 until the condition has been found by inspection or certification to be corrected or abated.
 
 
 
@@ -7732,10 +8034,10 @@ Exception: Elevators located in one-family, two-family or multiple-family dwelli
 
 
 
-*§ 28-304.3 Chair lifts , stairway chair lifts and vertical reciprocating conveyors (VRCs).* ::
+*§ 28-304.3 Chair lifts, stairway chair lifts and vertical reciprocating conveyors (VRCs).* ::
 
 
-Chair lifts , stairway chair lifts and VRCs shall be inspected and tested at intervals not exceeding one year. Inspections and tests shall be performed in accordance with Table N1.
+Chair lifts, stairway chair lifts and VRCs shall be inspected and tested at intervals not exceeding one year. Inspections and tests shall be performed in accordance with Table N1.
 
 
 
@@ -8154,7 +8456,7 @@ The commissioner may grant an extension of time of up to 90 days from the date o
 *§ 28-305.4.7.5 Further extension.* ::
 
 
-The commissioner may grant further extensions of time to complete the repairs required to remove an unsafe condition upon receipt and review of an application for a further extension submitted by the registered design professional together with such further documentation as may be prescribed by rule.
+The commissioner may grant further extensions of    time to complete the repairs required to remove an unsafe condition upon receipt and review of an application for a further extension submitted by the registered design professional together with such further documentation as may be prescribed by rule.
 
 
 
@@ -10170,7 +10472,7 @@ All applicants for a license or certificate of competence shall be at least 18 y
 *§ 28-401.7 Examination of applicant.* ::
 
 
-Except as otherwise specified for the particular license type, applicants for a license shall be required to take an examination in accordance with the rules of the department. Every applicant shall commence the license application process with the department within one year of passing the examination for licensure and shall furnish to the department a completed license application within one year of submission of the first filing. Failure to provide all requested documents in a timely manner will constitute an incomplete application and will result in denial of the license
+Except as otherwise specified for the particular license type, applicants for a license shall be required to take an examination in accordance with the rules of the department. Every applicant shall commence the license application process with the department within one year of passing the examination for licensure and shall furnish to the department a completed license application within one year of submission of the first filing. Failure to provide all requested documents in a timely manner will constitute an incomplete application and will result in denial of the license.
 
 
 
@@ -10549,7 +10851,7 @@ Rigger licenses shall be classified as follows:
 
    2.2   Hoist or lower any article not exceeding 2,000 pounds (907 kg) in weight on the outside of any building with a hoisting machine, provided the manufacturer rated capacity of such hoisting machine does not exceed 2,000 pounds (907 kg).
 
-3. Climber or tower crane rigger license. Authorizes the holder thereof to assemble, jump or disassemble a tower crane or a climber crane , or to supervise such work, and to install or use a derrick(s) in conjunction with such work and supervise such installation or use of the derrick.
+3. Climber or tower crane rigger license. Authorizes the holder thereof to assemble, jump or disassemble a tower crane or a climber crane, or to supervise such work, and to install or use a derrick(s) in conjunction with such work and supervise such installation or use of the derrick.
 
 
 
@@ -10688,11 +10990,11 @@ Hoisting machine operator licenses shall be classified as follows:
 
 3. Class C license: Special hoisting machine operator license to operate a specified class of hoisting machine of limited size and capacity as follows:
 
-   Class C1: License to operate wheel mounted cranes with telescoping, hydraulic, articulating or folding booms, including jibs and any other extensions to the boom, not exceeding 200 feet in length (60 960 mm) with a manufacturer's rated capacity of 50 tons (51 t) or less;
+      Class C1: License to operate wheel mounted cranes with telescoping, hydraulic, articulating or folding booms, including jibs and any other extensions to the boom, not exceeding 200 feet in length (60 960 mm) with a manufacturer's rated capacity of 50 tons (51 t) or less;
 
-   Class C2: License to operate boom trucks with telescoping, hydraulic, articulating or folding booms, including jibs and any other extensions to the boom, not exceeding 200 feet (60 960mm) in length with a manufacturer's rated capacity of 50 tons (51 t) or less;
+      Class C2: License to operate boom trucks with telescoping, hydraulic, articulating or folding booms, including jibs and any other extensions to the boom, not exceeding 200 feet (60 960mm) in length with a manufacturer's rated capacity of 50 tons (51 t) or less;
 
-   Class C3: License to operate boom trucks with telescoping, hydraulic, articulating or folding booms, including jibs and any other extensions to the boom, not exceeding 135 feet (41 148 mm) in length with a manufacturer's rated capacity of three tons or less, used exclusively for the erection, maintenance or removal of signs.
+      Class C3: License to operate boom trucks with telescoping, hydraulic, articulating or folding booms, including jibs and any other extensions to the boom, not exceeding 135 feet (41 148 mm) in length with a manufacturer's rated capacity of three tons or less, used exclusively for the erection, maintenance or removal of signs.
 
 
 
@@ -10949,7 +11251,7 @@ All applicants for a master plumber license shall submit satisfactory proof esta
 
 4. Has at least seven years total experience within the 10 years prior to application, with at least two years of such experience working in the planning or design, and installation, of plumbing systems under the direct and continuing supervision of a licensed master plumber in the United States. The balance of such required experience may be obtained by performing maintenance, replacement and repair plumbing work on existing buildings while in the employ of a city agency under the direct and continuing supervision of a licensed master plumber supervisor employed by the city agency. Three years after July 1, 2008 the two years experience in the planning or design, and installation, of plumbing systems set forth above may only be satisfied by working as a registered journeyman plumber; or
 
-5. Has experience as an employee of a government agency, private inspection agency or other entity, acceptable to the commissioner, whose duties primarily involve the inspection of plumbing work for compliance with the New York city plumbing code and/or other laws relating to the installation, alteration or repair of plumbing systems which shall be credited for fifty percent (50%) of the number of years that he or she has been satisfactorily employed in such duties within the ten (10) year period prior to application, which, however, in no event, shall exceed two and one-half (21/2) years credit of satisfactory experience. The balance of the required seven years must have been obtained by working in the planning or design, and installation, of plumbing systems under the direct and continuing supervision of a licensed master plumber in the United States except that the requirement of paragraph 1 of this section 28-408.3.1 that an applicant's working experience must have been within the ten (10) year period prior to application shall not apply to such balance of the work experience required pursuant to this paragraph.
+5. Has experience as an employee of a government agency, private inspection agency or other entity, acceptable to the commissioner, whose duties primarily involve the inspection of plumbing work for compliance with the New York city plumbing code and/or other laws relating to the installation, alteration or repair of plumbing systems which shall be credited for fifty percent (50%) of the number of years that he or she has been satisfactorily employed in such duties within the ten (10) year period prior to application, which, however, in no event, shall exceed two and one-half (2 1/2) years credit of satisfactory experience. The balance of the required seven years must have been obtained by working in the planning or design, and installation, of plumbing systems under the direct and continuing supervision of a licensed master plumber in the United States except that the requirement of paragraph 1 of this section 28-408.3.1 that an applicant's working experience must have been within the ten (10) year period prior to application shall not apply to such balance of the work experience required pursuant to this paragraph.
 
 
 
@@ -11113,7 +11415,7 @@ If a licensed master plumber withdraws from a master plumbing business operating
 *§ 28-408.6.4 Ownership limitations.* ::
 
 
-An individual who is a licensed master plumber whose interest or ownership in a master plumber business constitutes any portion of the 51 percent interest or control required by this section 28-408.6 shall be allowed to possess an interest or ownership in only one other master plumber business , where such interest or ownership would constitute any portion of the 51 percent interest or control required by this section 28-408.6. Both master plumber businesses in which the licensed master plumber has an interest shall be located at the same place of business. For the purposes of this section 28-408.6, where two or more individuals who are licensed master plumbers possess an interest or ownership in any master plumber business which together represents more than 51 percent of the interest or control of such entity, all of such licensees shall be deemed to possess a portion of the 51 percent interest or control required by this section 28-408.6.
+An individual who is a licensed master plumber whose interest or ownership in a master plumber business constitutes any portion of the 51 percent interest or control required by this section 28-408.6 shall be allowed to possess an interest or ownership in only one other master plumber business, where such interest or ownership would constitute any portion of the 51 percent interest or control required by this section 28-408.6. Both master plumber businesses in which the licensed master plumber has an interest shall be located at the same place of business. For the purposes of this section 28-408.6, where two or more individuals who are licensed master plumbers possess an interest or ownership in any master plumber business which together represents more than 51 percent of the interest or control of such entity, all of such licensees shall be deemed to possess a portion of the 51 percent interest or control required by this section 28-408.6.
 
 
 
@@ -11263,7 +11565,7 @@ All applicants for a master fire suppression piping contractor license shall sub
 
 4. Has at least seven years total experience within the 10 years prior to application, with at least two years of such experience working in the planning or design, and installation, of fire suppression piping systems under the direct and continuing supervision of a licensed master fire suppression piping contractor in the United States with the class of license for which application is made. The balance of such required experience may be obtained by performing maintenance, replacement and repair of fire suppression piping work on existing buildings while in the employ of a city agency under the direct and continuing supervision of a licensed master fire suppression piping contractor supervisor employed by the city agency with the class of license for which application is made. Three years after the effective date of this article the two years of experience in the planning or design, and installation, of fire suppression piping systems set forth above may only be satisfied by working as a registered journeyman fire suppression piping installer; or
 
-5. Has experience as an employee of a government agency, private inspection agency or other entity, acceptable to the commissioner, whose duties primarily involve the inspection of plumbing work for compliance with this the New York city plumbing code and/or other laws relating to the installation, alteration or repair of fire suppression piping systems which shall be credited for fifty percent (50%) of the number of years that he or she has been satisfactorily employed in such duties within the ten (10) year period prior to application, which, however, in no event, shall exceed two and one-half (21/2) years credit of satisfactory experience. The balance of the required seven years must have been obtained by working in the planning or design, and installation, of fire suppression piping systems under the direct and continuing supervision of a licensed fire suppression piping contractor in the United States except that the requirement of paragraph 1 of this section 28-410.4.1 that an applicant's working experience must have been within the ten (10) year period prior to application shall not apply to such balance of the work experience required pursuant to this paragraph.
+5. Has experience as an employee of a government agency, private inspection agency or other entity, acceptable to the commissioner, whose duties primarily involve the inspection of plumbing work for compliance with this the New York city plumbing code and/or other laws relating to the installation, alteration or repair of fire suppression piping systems which shall be credited for fifty percent (50%) of the number of years that he or she has been satisfactorily employed in such duties within the ten (10) year period prior to application, which, however, in no event, shall exceed two and one-half (2 1/2) years credit of satisfactory experience. The balance of the required seven years must have been obtained by working in the planning or design, and installation, of fire suppression piping systems under the direct and continuing supervision of a licensed fire suppression piping contractor in the United States except that the requirement of paragraph 1 of this section 28-410.4.1 that an applicant's working experience must have been within the ten (10) year period prior to application shall not apply to such balance of the work experience required pursuant to this paragraph.
 
 
 
@@ -11606,7 +11908,9 @@ Every licensed oil burning equipment installer shall have a place of business wi
 *§ 28-413.1 High-pressure boiler operating engineer license required.* ::
 
 
-It shall be unlawful to operate any high-pressure boiler for any purpose whatsoever, in the city of New York or in connection with any vessel on the waters in and around the city not subject to the jurisdiction of the United States, unless such boiler is operated by or under the direct and continuing supervision and in the presence of a person having a high-pressure boiler operating engineer license under the provisions of this article. Exceptions. A licensed high-pressure boiler operating engineer is not required to operate a high-pressure boiler that meets all of the following conditions:
+It shall be unlawful to operate any high-pressure boiler for any purpose whatsoever, in the city of New York or in connection with any vessel on the waters in and around the city not subject to the jurisdiction of the United States, unless such boiler is operated by or under the direct and continuing supervision and in the presence of a person having a high-pressure boiler operating engineer license under the provisions of this article.
+
+Exceptions. A licensed high-pressure boiler operating engineer is not required to operate a high-pressure boiler that meets all of the following conditions:
 
 1. The boiler is a stand-alone boiler;
 
@@ -11668,6 +11972,11 @@ Notwithstanding section 28-413.2, upon application, individuals who hold a porta
 
 
 
+
+
+
+
+**Article 414: Reserved**
 
 
 
@@ -12081,7 +12390,7 @@ The general contractor shall notify all of its suppliers of any pending suspensi
 
 
 
-*§ 28-418.6 [Reserved]* ::
+*§ 28-418.6 [Repealed]* ::
 
 
 On and after November 1, 2008 vehicles and tools used in connection with unlicensed or unregistered activity at the work site of a new residential structure containing no more than three dwelling units shall be subject to seizure and forfeiture.
@@ -12894,7 +13203,7 @@ Each outdoor advertising company shall post a bond or provide another form of se
 *§ 28-502.3 Revocation or suspension of registration.* ::
 
 
-The department may revoke, suspend or refuse to renew the registration of an outdoor advertising company or impose fines or other penalties where it is determined by the commissioner, after notice and the opportunity to be heard, that (i) such company has made statements that it knew or should have known are false in any application or certification filed with the department, (ii) such company has failed to comply with section—28-502.4 of this code or the rules adopted pursuant to its provisions by failing to file a listing of signs, sign structures and sign locations under its control as specified in such section within the time and in the manner required by department rules or by filing an incomplete listing of signs, sign structures and sign locations under its control as specified in such section, (iii) such company has been found liable for or has admitted to violations of the zoning resolution under section 28-502.6 of this code committed on three or more occasions within a 36 month period, where such violations relate to the erection, maintenance, attachment, affixing, painting or representation in any other manner on a building or premises of advertising signs, as defined in section 12-10 of the zoning resolution, at locations where the display of such advertising signs is not permitted under the zoning resolution or at locations where the display of such advertising signs violates the size, height, or illumination provisions of the zoning resolution, and such signs are located within a distance of nine hundred linear feet from and within view of an arterial highway or within 200 linear feet (60 960 mm) from and within view of a public park with an area of one half acre or more, (iv) such company has failed to pay any civil penalties imposed or amounts owed to the city pursuant to section 28-502.6 of this code or article 503 of this chapter or, (v) such company has violated the department's rules pertaining to outdoor advertising companies. No application for registration by an outdoor advertising company or any affiliate thereof shall be accepted for filing by the department for a period of five years after revocation of or the refusal to renew the registration of such outdoor advertising company pursuant to this code. The department shall not accept or process any applications for permits to install, erect or alter signs pursuant to this code or for the maintenance of signs pursuant to section 28-501.1 of this code where such applications are filed by or where such signs are under the control of an outdoor advertising company or any affiliate thereof after the registration of such outdoor advertising company has been revoked or not renewed or during the term of any period of suspension of such registration. The commissioner may settle any proceeding in which the revocation, suspension or renewal of an outdoor advertising company's registration is at issue upon such terms and conditions as he or she may deem appropriate including but not limited to the agreement of an outdoor advertising company to remove signs along with supporting sign structures as a condition for the dismissal of such proceeding.
+The department may revoke, suspend or refuse to renew the registration of an outdoor advertising company or impose fines or other penalties where it is determined by the commissioner, after notice and the opportunity to be heard, that (i) such company has made statements that it knew or should have known are false in any application or certification filed with the department, (ii) such company has failed to comply with section 28-502.4 of this code or the rules adopted pursuant to its provisions by failing to file a listing of signs, sign structures and sign locations under its control as specified in such section within the time and in the manner required by department rules or by filing an incomplete listing of signs, sign structures and sign locations under its control as specified in such section, (iii) such company has been found liable for or has admitted to violations of the zoning resolution under section 28-502.6 of this code committed on three or more occasions within a 36 month period, where such violations relate to the erection, maintenance, attachment, affixing, painting or representation in any other manner on a building or premises of advertising signs, as defined in section 12-10 of the zoning resolution, at locations where the display of such advertising signs is not permitted under the zoning resolution or at locations where the display of such advertising signs violates the size, height, or illumination provisions of the zoning resolution, and such signs are located within a distance of nine hundred linear feet from and within view of an arterial highway or within 200 linear feet (60 960 mm) from and within view of a public park with an area of one half acre or more, (iv) such company has failed to pay any civil penalties imposed or amounts owed to the city pursuant to section 28-502.6 of this code or article 503 of this chapter or, (v) such company has violated the department's rules pertaining to outdoor advertising companies. No application for registration by an outdoor advertising company or any affiliate thereof shall be accepted for filing by the department for a period of five years after revocation of or the refusal to renew the registration of such outdoor advertising company pursuant to this code. The department shall not accept or process any applications for permits to install, erect or alter signs pursuant to this code or for the maintenance of signs pursuant to section 28-501.1 of this code where such applications are filed by or where such signs are under the control of an outdoor advertising company or any affiliate thereof after the registration of such outdoor advertising company has been revoked or not renewed or during the term of any period of suspension of such registration. The commissioner may settle any proceeding in which the revocation, suspension or renewal of an outdoor advertising company's registration is at issue upon such terms and conditions as he or she may deem appropriate including but not limited to the agreement of an outdoor advertising company to remove signs along with supporting sign structures as a condition for the dismissal of such proceeding.
 
 
 

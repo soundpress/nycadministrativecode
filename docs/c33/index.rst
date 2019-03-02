@@ -156,3 +156,39 @@ d. The department shall publish on its website, and in any hard copy of such res
 
 
 
+
+
+*§ 31-109 Reporting requirements.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Engagements. The term “engagements” means any interactions for the purposes of providing services to veterans, caretakers, active servicemembers and their families, including those interactions in resource centers, the department’s office, or in the field.
+
+   Services. The term “services” means any activity or resource provided by the department to help veterans, including, but not limited to, providing information, offering referrals, connecting veterans with internal and external resources and any direct action taken for or on behalf of veterans.
+
+   Veteran. The term “veteran” means a person who has served in the Armed Forces, National Guard or Reserves of the United States.
+
+b. No later than December 15, 2019, and no later than December 15 annually thereafter, the department shall submit to the speaker of the council and post to its website an annual report regarding the department’s services and performance.
+
+c. The annual report shall include, but need not be limited to, the following information for the prior fiscal year:
+
+   1. A list and description of the services provided by the department;
+
+   2. The total number of employees, a list of functional titles, the number of employees in each functional title and a summary of the general responsibilities for each title;
+
+   3. The total number of engagements, per month, disaggregated by the types of services provided, whether the service was provided at the department’s office, a resource center or in the field, and borough;
+
+   4. The types of services veterans have inquired about, including through 311 calls, per month, disaggregated by type of service, and borough where applicable;
+
+   5. The methods by which the department provides information to veterans and their families, caretakers and active servicemembers and the methods by which veterans and their families learned about the department;
+
+   6. A list of the field services provided by the department in each borough, per month; and
+
+   7. The methods utilized by the department in calculating its report on the performance indicators herein.
+
+
+
+
+
+
