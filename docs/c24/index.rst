@@ -2734,223 +2734,6 @@ Chapter 6-d: Industrial Business Zones
 
 
 
-Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
---------------------------------------------------
-
-
-
-
-**Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
-
-
-
-*§ 22-801 Definitions.* ::
-
-
-"Lobbying"or "Lobbying activities" shall mean "lobbying" or "lobbying activities" as defined in section 3-211 of this code.
-
-"Person or organization" shall be construed not to include the not-for-profit corporation under contract with the city to provide or administer economic development benefits on behalf of the city.
-
-
-
-
-
-
-*§ 22-802 Reporting of lobbying activities.* ::
-
-
-a. A not-for-profit corporation of which a majority of its members are appointed by the mayor that is under contract with the city to provide or administer economic development benefits on behalf of the city shall be required to submit to the council quarterly reports identifying:
-
-   1. the contracted entity's retention or designation of a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and
-
-   2. the contracted entity's making or incurring an expenditure to, or on behalf of, a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board.
-
-b. Such reports need not identify:
-
-   1. any officer or employee of the city of New York or of such contracted entity and
-
-   2. any person or organization retained or designated by the contracted entity to provide advice and analysis directly applying any urban planning, urban design, engineering, scientific or similar technical discipline, or any legal, accounting, or other similar professional discipline.
-
-c. Each report shall set forth:
-
-   1. the name, address and telephone number of each person or organization so retained or designated;
-
-   2. a description of the subject or subjects on which the person or organization lobbied, including identification of the local law, resolution, real property or other matter on which the person or organization lobbied;
-
-   3. the person, and where applicable, the body before which the person or organization lobbied and the dates on which such lobbying occurred; and
-
-   4. the compensation paid or owed by the contracted entity to a person or organization for the purpose of engaging in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and any expenses expended, received or incurred by the person or organization for the purpose of lobbying before such bodies.
-
-d. The first such submission shall be provided no later than December 31, 2013 and shall cover the period from November 1, 2012 through November 30, 2013. All reports shall be filed thereafter within thirty days after the end of each quarter and simultaneously made available in a commonly available non-proprietary database format on the website of the contracted entity or, if no such website is maintained, on the website of the city of New York.
-
-
-
-
-
-
-
-**Subchapter 2: Contract Requirements for Entities Contracted to Provide Economic Development Benefits on Behalf of the City**
-
-
-
-*§ 22-821 Definitions.* ::
-
-
-As used in this subchapter:
-
-Affiliate. The term “affiliate” means (i) a business entity in which more than 50 percent is owned by, or is subject to a power or right of control of, or is managed by, a person that is a party to an active project agreement, or (ii) a person that owns more than 50 percent of a business entity that is party to an active project agreement or that exercises a power or right of control of a person that is a party to an active project agreement.
-
-Commissioner. The term “commissioner” means the commissioner of small business services.
-
-Contracted entity. The term “contracted entity” means a local development corporation or other not-for-profit corporation, a majority of whose members are appointed by the mayor, that contracts with the city to provide or administer economic development benefits on behalf of the city and expending city capital appropriations in connection therewith, except that such term does not include the Brooklyn navy yard development corporation or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard.
-
-Covered contract. The term “covered contract” means any contract under which a contracted entity is engaged in providing or administering economic development benefits on behalf of the city.
-
-Department. The term “department” means the department of small business services.
-
-Project agreement. The term “project agreement” means the contract or agreement providing assistance, as such assistance is described by subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to any project carried out pursuant to a covered contract.
-
-
-
-
-
-
-
-
-*§ 22-822 Public comment before project approval.* ::
-
-
-In each covered contract executed on or after the effective date of this section, the commissioner shall require, for each project that is required to be included in the report required by section 22-823, that the contracted entity, unless chapter 8 of the charter or any other law requires such project to be submitted for consideration to a community board, borough board or the council before commencement, shall:
-
-a. Prepare a description of such project, including an estimated project budget and an explanation of how any funding, benefits or financial assistance provided or allocated by the city for such project will be used and specifying a contact person to whom the speaker of the council may submit recommendations regarding the project within 30 days of receiving the description; and
-
-b. Submit the description required by subdivision a to the speaker of the council at the following times:
-
-   1. In the case of a project as to which the charter or any other law requires that a public hearing be held, at least 30 days before such hearing; and
-
-   2. In the case of a project as to which neither the charter nor any other law requires that any public hearing be held, at least 30 days before the project agreement is executed.
-
-
-
-
-
-
-
-
-*§ 22-823 Annual report.* ::
-
-
-a. Report required. In each covered contract executed on or after the effective date of this section, the commissioner shall require the contracted entity to submit each year to the mayor, the council, the city comptroller, the public advocate, the borough presidents and community planning boards a report for the prior fiscal year about projected and actual jobs created and retained in connection with projects described by this section.
-
-b. Projects receiving financial assistance in excess of $150,000.
-
-   1. (a) This subdivision applies to projects undertaken by a contracted entity for the purpose of creating or retaining jobs and in connection with which a person was provided project assistance in the form of a loan, grant or tax benefit valued in excess of $150,000, regardless of whether such project involves the expenditure of city capital appropriations.
-
-      (b) For purposes of this subdivision, “assistance” to be reported includes (i) a loan, grant or tax benefit, (ii) savings due to payments in lieu of taxes, calculated as the difference between such payments and the property tax that would have been owed without an agreement to make such payments, (iii) waived mortgage recording fees, (iv) related property tax abatements, (v) sales tax abatements, (vi) energy benefits and (vii) an estimated range of costs to the city of forgone income tax revenues due to the issuance of tax exempt bonds;
-
-   2. Except as otherwise provided in this section, the annual report required by this section shall contain for each such project the following information for the prior fiscal year, including an indication of the sources of all data relating to numbers of jobs:
-
-      (a) The project’s name;
-
-      (b) The project’s location;
-
-      (c) The time period during which such project is to receive any assistance from the contracted entity;
-
-      (d) The type of such assistance provided, including, where applicable, the name of any program through which such assistance is provided;
-
-      (e) (1) For projects that involve a specified limit on cumulative assistance available over the duration of the project agreement, a statement of such limit; and
-
-         (2) For projects that do not involve such a specified limit, the estimated amount of assistance over the duration of such project agreement, the amount of tax exempt bonds issued during the reporting year and the range of potential costs of such bonds;
-
-      (f) The amount of assistance received for the project during the reporting year, the amount of such assistance received since execution of the project agreement, and the present value of future assistance estimated to be given for the duration of the project agreement;
-
-      (g) The total number of employees at all sites covered by the project on the date of execution of the project agreement, including the number of permanent full-time jobs, the number of permanent part-time jobs, the number of full-time equivalents, and the number of contract employees if, pursuant to the project agreement, contract employees may be included in determining compliance with job creation or retention requirements;
-
-      (h) (1) The number of jobs that each person receiving assistance from such contracted entity is contractually obligated to retain and create over the duration of the project agreement or, in the case of a project agreement that contains annual job retention or creation requirements, the annual job retention or creation requirement for the reporting year;
-
-         (2) The base employment level such entity agrees to retain over the duration of the project agreement;
-
-         (3)  Any job creation scheduled to take place as a result of such project; and
-
-         (4) Where applicable, any job creation targets for the reporting year;
-
-      (i) For the reporting year:
-
-         (1) The total number of employees at all sites covered by the project, including the number of permanent full-time jobs, the number of permanent part-time jobs, and the number of contract jobs; and
-
-         (2) For each person that receives assistance from the contracted entity in connection with such project and employs 250 or more persons, (i) the percentage of total employees within the “exempt” and “non-exempt” categories, respectively, as those terms are defined under the United States fair labor standards act, and (ii) for employees within the “non-exempt” category, the percentage of employees earning $25,000 per year or less, the percentage of employees earning more than $25,000 per year but less than or equal to $40,000 per year and the percentage of employees earning more than $40,000 per year but less than or equal to $50,000 per year;
-
-      (j) The estimated amount of retained or additional tax revenue derived from the project, excluding real property tax revenue other than revenue generated by property tax improvements,
-
-         (1) Cumulatively to the date that the annual report is prepared;
-
-         (2) For the reporting year, and
-
-         (3) Projected to be derived over the duration of the project agreement;
-
-      (k) A statement of whether, throughout the reporting year, each person that received assistance from the contracted entity in connection with the project offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person at all sites covered by the project;
-
-      (l) For the reporting year, for employees at each site covered by the project, including all permanent and temporary full-time employees, permanent and temporary part-time employees, and contract employees, the number and percentage of employees earning less than a living wage, as that term is defined in section 6-134, disaggregated by job category, including industrial jobs, food service jobs, retail jobs and other jobs; except that, for projects for which assistance was received prior to July 1, 2012, the information required by this subparagraph need only be provided to the extent it can be reasonably obtained from available sources, including the city and the person to which such assistance was provided;
-
-      (m) For the reporting year, with respect to the persons receiving assistance for such project and their affiliates, the number and percentage of employees at all sites covered by the project agreement who reside in the city;
-
-      (n) A list of all commercial expansion program benefits, industrial and commercial incentive program benefits, and industrial and commercial abatement program benefits received by persons receiving assistance or their affiliates through the project agreement and relocation and employment assistance program benefits such persons and affiliates received and the estimated total value of each such benefit for the reporting year;
-
-      (o) A statement of compliance indicating whether, during the reporting year, the contracted entity has reduced, cancelled or recaptured assistance provided to a person in connection with such project, and, if so, the total amount of such reductions, cancellations or recaptures, and any penalty assessed and the reasons therefor.
-
-c. Projects receiving financial assistance of $150,000 or less. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs that do not meet the financial threshold in subparagraph (a) of paragraph 1 of subdivision b, such report shall include, at a minimum:
-
-   1. For such projects in aggregate, the information required by subparagraphs (g), (h), (i), (j), (l), (m) and (n) of paragraph 2 of subdivision b; and
-
-   2. The number of persons that received a loan, grant or tax benefit from such contracted entity in connection with such a project and that offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person employed at any project site throughout the prior fiscal reporting year.
-
-d. Sales or leases of city-owned land. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs (i) for which a contracted entity sold or leased city-owned land to a person, and (ii) that are estimated to create or retain at least 25 jobs, regardless of whether such project involves the expenditure of city capital appropriations, the annual report shall include the following information:
-
-   1. A list of each lease that has not terminated before the reporting year commences, regardless of when such lease commenced, and for each such lease, any terms or restrictions on the use of the leased land, including the rent received for such land in the reporting year;
-
-   2. A list of each sale of city-owned land that closed within 15 years of the report, and for each such sale, any terms or restrictions on the use of the sold land, including the price for which such land was sold and any terms or restrictions on the resale of such land; except that such list need not include sales that closed before January 1, 2005.
-
-e. Years covered. Except as provided in subdivision d, the report shall include each project from the date the project agreement is executed and any other documents applicable to such project through and including the final year that the contracted entity provides assistance for such project.
-
-f. Job-creation projects under prior rules.
-
-   1. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs and for which the contracted entity provided a loan, grant or tax or other benefit before July 1, 2005, the information required by this section need only be provided to the extent it can be reasonably derived from available sources, including the city and persons who received such assistance.
-
-   2. For projects that such contracted entity undertakes for the purpose of creating or retaining jobs and for which the project agreement was executed before June 6, 2011, the annual report need not contain information that persons were not required to report to the contracted entity at the time that the project agreement and any other documents applicable to the project were executed.
-
-g. Submission and publication.
-
-   1.  The report required by this section shall be submitted by January 31 of each year and shall bear the date that such report was submitted. Such report shall include a statement explaining any delay in its submission past the required due date.
-
-   2. Upon its submission, the report shall simultaneously be made available in electronic form on the website of the contracted entity or, if no such website is maintained, on the website of the city. The report shall simultaneously be made available in a non-proprietary format that permits automated processing on the website of the contracted entity or, if no such website is maintained, on the website of the city. Such non-proprietary database format need not include terms and restrictions on the use or resale of city-owned land.
-
-h. Methodology study. By March 1, 2007, and by March 1 of every second year thereafter, the contracted entity, upon receipt of recommendations from the speaker of the council and other persons selected jointly by the mayor and the speaker of the council who have extensive experience and knowledge in the fields of finance, economics, and public policy analysis, shall evaluate the methodology employed for making the determinations required for the report and shall generate recommendations, where appropriate, on the methodology for evaluating projects receiving economic development subsidies. The commissioner shall present to the mayor and the speaker of the council a report containing such recommendations no later than October 1 of every year in which such evaluation is required.
-
-
-
-
-
-
-
-
-*§ 22-824 Requirements for a contracted entity administering economic development benefits.* ::
-
-
-a. In each covered contract with a contracted entity executed on or after the effective date of this section, the commissioner shall require, for any project that must be reported on in the annual report required by section 22-823, that:
-
-   1. where such contracted entity administers assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to a person in connection with such project, such contracted entity, no later than 30 days before the commencement of such assistance, submit to the department and the speaker of the council an impact statement including, at a minimum, an estimate of the fiscal impact of such assistance upon the revenues and expenditures of the city during (i) the fiscal year in which such assistance commences, (ii) the succeeding fiscal year, and (iii) the first fiscal year in which the full fiscal impact of the economic development project is expected to occur, and job creation estimates for the first fiscal year in which the full fiscal impact of the economic development project is expected to occur; and
-
-   2. on the first business day of every second month, such contracted entity deliver to the mayor and speaker of the council and post on the website of such contracted entity, or, if no such website is maintained, the commissioner shall post on the department’s website, a report on projects for which assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, has been administered by such contracted entity and which are in default of one or more material terms of the project agreement under which such assistance was provided, which report shall contain: (i) descriptions of enforcement actions taken with regard to events of default as defined in such agreements, (ii) the persons against which enforcement actions have been undertaken, (iii) the number of ongoing projects outstanding, (iv) the percentage of projects with respect to which enforcement actions are being undertaken as compared against the number of ongoing projects outstanding, (v) events of default under such agreements for which no enforcement actions are currently contemplated, and (vi) the amounts recovered through enforcement actions.
-
-b. Information provided to the department pursuant to subdivision a of this section shall constitute a public data set for purposes of chapter 5 of title 23 of the code.
-
-
-
-Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provides: "For purposes of this local law, a contracted entity shall not include the Brooklyn navy yard development corporation, or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard."
-
-
-
-
 Chapter 7: Empire Zones
 --------------------------------------------------
 
@@ -7850,6 +7633,260 @@ c. Pursuant to the provisions of article 18-B of the general municipal law, such
 
 
 
+Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
+
+
+
+*§ 22-801 Definitions.* ::
+
+
+"Lobbying"or "Lobbying activities" shall mean "lobbying" or "lobbying activities" as defined in section 3-211 of this code.
+
+"Person or organization" shall be construed not to include the not-for-profit corporation under contract with the city to provide or administer economic development benefits on behalf of the city.
+
+
+
+
+
+
+*§ 22-802 Reporting of lobbying activities.* ::
+
+
+a. A not-for-profit corporation of which a majority of its members are appointed by the mayor that is under contract with the city to provide or administer economic development benefits on behalf of the city shall be required to submit to the council quarterly reports identifying:
+
+   1. the contracted entity's retention or designation of a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and
+
+   2. the contracted entity's making or incurring an expenditure to, or on behalf of, a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board.
+
+b. Such reports need not identify:
+
+   1. any officer or employee of the city of New York or of such contracted entity and
+
+   2. any person or organization retained or designated by the contracted entity to provide advice and analysis directly applying any urban planning, urban design, engineering, scientific or similar technical discipline, or any legal, accounting, or other similar professional discipline.
+
+c. Each report shall set forth:
+
+   1. the name, address and telephone number of each person or organization so retained or designated;
+
+   2. a description of the subject or subjects on which the person or organization lobbied, including identification of the local law, resolution, real property or other matter on which the person or organization lobbied;
+
+   3. the person, and where applicable, the body before which the person or organization lobbied and the dates on which such lobbying occurred; and
+
+   4. the compensation paid or owed by the contracted entity to a person or organization for the purpose of engaging in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and any expenses expended, received or incurred by the person or organization for the purpose of lobbying before such bodies.
+
+d. The first such submission shall be provided no later than December 31, 2013 and shall cover the period from November 1, 2012 through November 30, 2013. All reports shall be filed thereafter within thirty days after the end of each quarter and simultaneously made available in a commonly available non-proprietary database format on the website of the contracted entity or, if no such website is maintained, on the website of the city of New York.
+
+
+
+
+
+
+
+**Subchapter 2: Contract Requirements for Entities Contracted to Provide Economic Development Benefits on Behalf of the City**
+
+
+
+*§ 22-821 Definitions.* ::
+
+
+As used in this subchapter:
+
+Affiliate. The term “affiliate” means (i) a business entity in which more than 50 percent is owned by, or is subject to a power or right of control of, or is managed by, a person that is a party to an active project agreement, or (ii) a person that owns more than 50 percent of a business entity that is party to an active project agreement or that exercises a power or right of control of a person that is a party to an active project agreement.
+
+Commissioner. The term “commissioner” means the commissioner of small business services.
+
+Contracted entity. The term “contracted entity” means a local development corporation or other not-for-profit corporation, a majority of whose members are appointed by the mayor, that contracts with the city to provide or administer economic development benefits on behalf of the city and expending city capital appropriations in connection therewith, except that such term does not include the Brooklyn navy yard development corporation or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard.
+
+Covered contract. The term “covered contract” means any contract under which a contracted entity is engaged in providing or administering economic development benefits on behalf of the city.
+
+Department. The term “department” means the department of small business services.
+
+Project agreement. The term “project agreement” means the contract or agreement providing assistance, as such assistance is described by subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to any project carried out pursuant to a covered contract.
+
+
+
+
+
+
+
+
+*§ 22-822 Public comment before project approval.* ::
+
+
+In each covered contract executed on or after the effective date of this section, the commissioner shall require, for each project that is required to be included in the report required by section 22-823, that the contracted entity, unless chapter 8 of the charter or any other law requires such project to be submitted for consideration to a community board, borough board or the council before commencement, shall:
+
+a. Prepare a description of such project, including an estimated project budget and an explanation of how any funding, benefits or financial assistance provided or allocated by the city for such project will be used and specifying a contact person to whom the speaker of the council may submit recommendations regarding the project within 30 days of receiving the description; and
+
+b. Submit the description required by subdivision a to the speaker of the council at the following times:
+
+   1. In the case of a project as to which the charter or any other law requires that a public hearing be held, at least 30 days before such hearing; and
+
+   2. In the case of a project as to which neither the charter nor any other law requires that any public hearing be held, at least 30 days before the project agreement is executed.
+
+
+
+
+
+
+
+
+*§ 22-823 Annual report.* ::
+
+
+a. Report required. In each covered contract executed on or after the effective date of this section, the commissioner shall require the contracted entity to submit each year to the mayor, the council, the city comptroller, the public advocate, the borough presidents and community planning boards a report for the prior fiscal year about projected and actual jobs created and retained in connection with projects described by this section.
+
+b. Projects receiving financial assistance in excess of $150,000.
+
+   1. (a) This subdivision applies to projects undertaken by a contracted entity for the purpose of creating or retaining jobs and in connection with which a person was provided project assistance in the form of a loan, grant or tax benefit valued in excess of $150,000, regardless of whether such project involves the expenditure of city capital appropriations.
+
+      (b) For purposes of this subdivision, “assistance” to be reported includes (i) a loan, grant or tax benefit, (ii) savings due to payments in lieu of taxes, calculated as the difference between such payments and the property tax that would have been owed without an agreement to make such payments, (iii) waived mortgage recording fees, (iv) related property tax abatements, (v) sales tax abatements, (vi) energy benefits and (vii) an estimated range of costs to the city of forgone income tax revenues due to the issuance of tax exempt bonds;
+
+   2. Except as otherwise provided in this section, the annual report required by this section shall contain for each such project the following information for the prior fiscal year, including an indication of the sources of all data relating to numbers of jobs:
+
+      (a) The project’s name;
+
+      (b) The project’s location;
+
+      (c) The time period during which such project is to receive any assistance from the contracted entity;
+
+      (d) The type of such assistance provided, including, where applicable, the name of any program through which such assistance is provided;
+
+      (e) (1) For projects that involve a specified limit on cumulative assistance available over the duration of the project agreement, a statement of such limit; and
+
+         (2) For projects that do not involve such a specified limit, the estimated amount of assistance over the duration of such project agreement, the amount of tax exempt bonds issued during the reporting year and the range of potential costs of such bonds;
+
+      (f) The amount of assistance received for the project during the reporting year, the amount of such assistance received since execution of the project agreement, and the present value of future assistance estimated to be given for the duration of the project agreement;
+
+      (g) The total number of employees at all sites covered by the project on the date of execution of the project agreement, including the number of permanent full-time jobs, the number of permanent part-time jobs, the number of full-time equivalents, and the number of contract employees if, pursuant to the project agreement, contract employees may be included in determining compliance with job creation or retention requirements;
+
+      (h) (1) The number of jobs that each person receiving assistance from such contracted entity is contractually obligated to retain and create over the duration of the project agreement or, in the case of a project agreement that contains annual job retention or creation requirements, the annual job retention or creation requirement for the reporting year;
+
+         (2) The base employment level such entity agrees to retain over the duration of the project agreement;
+
+         (3)  Any job creation scheduled to take place as a result of such project; and
+
+         (4) Where applicable, any job creation targets for the reporting year;
+
+      (i) For the reporting year:
+
+         (1) The total number of employees at all sites covered by the project, including the number of permanent full-time jobs, the number of permanent part-time jobs, and the number of contract jobs; and
+
+         (2) For each person that receives assistance from the contracted entity in connection with such project and employs 250 or more persons, (i) the percentage of total employees within the “exempt” and “non-exempt” categories, respectively, as those terms are defined under the United States fair labor standards act, and (ii) for employees within the “non-exempt” category, the percentage of employees earning $25,000 per year or less, the percentage of employees earning more than $25,000 per year but less than or equal to $40,000 per year and the percentage of employees earning more than $40,000 per year but less than or equal to $50,000 per year;
+
+      (j) The estimated amount of retained or additional tax revenue derived from the project, excluding real property tax revenue other than revenue generated by property tax improvements,
+
+         (1) Cumulatively to the date that the annual report is prepared;
+
+         (2) For the reporting year, and
+
+         (3) Projected to be derived over the duration of the project agreement;
+
+      (k) A statement of whether, throughout the reporting year, each person that received assistance from the contracted entity in connection with the project offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person at all sites covered by the project;
+
+      (l) For the reporting year, for employees at each site covered by the project, including all permanent and temporary full-time employees, permanent and temporary part-time employees, and contract employees, the number and percentage of employees earning less than a living wage, as that term is defined in section 6-134, disaggregated by job category, including industrial jobs, food service jobs, retail jobs and other jobs; except that, for projects for which assistance was received prior to July 1, 2012, the information required by this subparagraph need only be provided to the extent it can be reasonably obtained from available sources, including the city and the person to which such assistance was provided;
+
+      (m) For the reporting year, with respect to the persons receiving assistance for such project and their affiliates, the number and percentage of employees at all sites covered by the project agreement who reside in the city;
+
+      (n) A list of all commercial expansion program benefits, industrial and commercial incentive program benefits, and industrial and commercial abatement program benefits received by persons receiving assistance or their affiliates through the project agreement and relocation and employment assistance program benefits such persons and affiliates received and the estimated total value of each such benefit for the reporting year;
+
+      (o) A statement of compliance indicating whether, during the reporting year, the contracted entity has reduced, cancelled or recaptured assistance provided to a person in connection with such project, and, if so, the total amount of such reductions, cancellations or recaptures, and any penalty assessed and the reasons therefor.
+
+c. Projects receiving financial assistance of $150,000 or less. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs that do not meet the financial threshold in subparagraph (a) of paragraph 1 of subdivision b, such report shall include, at a minimum:
+
+   1. For such projects in aggregate, the information required by subparagraphs (g), (h), (i), (j), (l), (m) and (n) of paragraph 2 of subdivision b; and
+
+   2. The number of persons that received a loan, grant or tax benefit from such contracted entity in connection with such a project and that offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person employed at any project site throughout the prior fiscal reporting year.
+
+d. Sales or leases of city-owned land. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs (i) for which a contracted entity sold or leased city-owned land to a person, and (ii) that are estimated to create or retain at least 25 jobs, regardless of whether such project involves the expenditure of city capital appropriations, the annual report shall include the following information:
+
+   1. A list of each lease that has not terminated before the reporting year commences, regardless of when such lease commenced, and for each such lease, any terms or restrictions on the use of the leased land, including the rent received for such land in the reporting year;
+
+   2. A list of each sale of city-owned land that closed within 15 years of the report, and for each such sale, any terms or restrictions on the use of the sold land, including the price for which such land was sold and any terms or restrictions on the resale of such land; except that such list need not include sales that closed before January 1, 2005.
+
+e. Years covered. Except as provided in subdivision d, the report shall include each project from the date the project agreement is executed and any other documents applicable to such project through and including the final year that the contracted entity provides assistance for such project.
+
+f. Job-creation projects under prior rules.
+
+   1. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs and for which the contracted entity provided a loan, grant or tax or other benefit before July 1, 2005, the information required by this section need only be provided to the extent it can be reasonably derived from available sources, including the city and persons who received such assistance.
+
+   2. For projects that such contracted entity undertakes for the purpose of creating or retaining jobs and for which the project agreement was executed before June 6, 2011, the annual report need not contain information that persons were not required to report to the contracted entity at the time that the project agreement and any other documents applicable to the project were executed.
+
+g. Submission and publication.
+
+   1.  The report required by this section shall be submitted by January 31 of each year and shall bear the date that such report was submitted. Such report shall include a statement explaining any delay in its submission past the required due date.
+
+   2. Upon its submission, the report shall simultaneously be made available in electronic form on the website of the contracted entity or, if no such website is maintained, on the website of the city. The report shall simultaneously be made available in a non-proprietary format that permits automated processing on the website of the contracted entity or, if no such website is maintained, on the website of the city. Such non-proprietary database format need not include terms and restrictions on the use or resale of city-owned land.
+
+h. Methodology study. By March 1, 2007, and by March 1 of every second year thereafter, the contracted entity, upon receipt of recommendations from the speaker of the council and other persons selected jointly by the mayor and the speaker of the council who have extensive experience and knowledge in the fields of finance, economics, and public policy analysis, shall evaluate the methodology employed for making the determinations required for the report and shall generate recommendations, where appropriate, on the methodology for evaluating projects receiving economic development subsidies. The commissioner shall present to the mayor and the speaker of the council a report containing such recommendations no later than October 1 of every year in which such evaluation is required.
+
+
+
+
+
+
+
+
+*§ 22-824 Requirements for a contracted entity administering economic development benefits.* ::
+
+
+a. In each covered contract with a contracted entity executed on or after the effective date of this section, the commissioner shall require, for any project that must be reported on in the annual report required by section 22-823, that:
+
+   1. where such contracted entity administers assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to a person in connection with such project, such contracted entity, no later than 30 days before the commencement of such assistance, submit to the department and the speaker of the council an impact statement including, at a minimum, an estimate of the fiscal impact of such assistance upon the revenues and expenditures of the city during (i) the fiscal year in which such assistance commences, (ii) the succeeding fiscal year, and (iii) the first fiscal year in which the full fiscal impact of the economic development project is expected to occur, and job creation estimates for the first fiscal year in which the full fiscal impact of the economic development project is expected to occur; and
+
+   2. on the first business day of every second month, such contracted entity deliver to the mayor and speaker of the council and post on the website of such contracted entity, or, if no such website is maintained, the commissioner shall post on the department’s website, a report on projects for which assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, has been administered by such contracted entity and which are in default of one or more material terms of the project agreement under which such assistance was provided, which report shall contain: (i) descriptions of enforcement actions taken with regard to events of default as defined in such agreements, (ii) the persons against which enforcement actions have been undertaken, (iii) the number of ongoing projects outstanding, (iv) the percentage of projects with respect to which enforcement actions are being undertaken as compared against the number of ongoing projects outstanding, (v) events of default under such agreements for which no enforcement actions are currently contemplated, and (vi) the amounts recovered through enforcement actions.
+
+b. Information provided to the department pursuant to subdivision a of this section shall constitute a public data set for purposes of chapter 5 of title 23 of the code.
+
+
+
+Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provides: "For purposes of this local law, a contracted entity shall not include the Brooklyn navy yard development corporation, or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard."
+
+
+
+
+Chapter 10: Small Businesses
+--------------------------------------------------
+
+
+
+*§ 22-1001 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Commissioner. The term “commissioner” means the commissioner of small business services.
+
+Department. The term “department” means the department of small business services.
+
+
+
+
+
+
+
+
+*§ 22-1002 Online business supports.* ::
+
+
+a. The commissioner shall post on the city’s website online business tools and resources, including but not limited to:
+
+   1. Tools provided by the department, which may include accounting, recordkeeping and bookkeeping resources; and
+
+   2. Such other tools and resources as the commissioner may deem appropriate.
+
+b. This section shall not be construed to create a private right of action to enforce its provisions or against the city for any action taken to comply with this section.
+
+
+
+
+
+
 Chapter 9: Non-Residential Tenant Harassment
 --------------------------------------------------
 
@@ -7937,43 +7974,6 @@ e. Nothing contained in this chapter shall be construed as creating any private 
 
 
 It is an affirmative defense to an allegation of commercial tenant harassment of the kind described in paragraphs 2, 3, 4, 6, 7, 8, 9 and 10 of subdivision a of section 22-902 that (i) such condition or service interruption was not intended to cause any commercial tenant to vacate a covered property or waive or surrender any rights in relation to such covered property, and (ii) the landlord acted in good faith in a reasonable manner to promptly correct such condition or service interruption, including providing notice to all affected lawful tenants in a covered property of such efforts, where appropriate.
-
-
-
-
-
-
-Chapter 10: Small Businesses
---------------------------------------------------
-
-
-
-*§ 22-1001 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Commissioner. The term “commissioner” means the commissioner of small business services.
-
-Department. The term “department” means the department of small business services.
-
-
-
-
-
-
-
-
-*§ 22-1002 Online business supports.* ::
-
-
-a. The commissioner shall post on the city’s website online business tools and resources, including but not limited to:
-
-   1. Tools provided by the department, which may include accounting, recordkeeping and bookkeeping resources; and
-
-   2. Such other tools and resources as the commissioner may deem appropriate.
-
-b. This section shall not be construed to create a private right of action to enforce its provisions or against the city for any action taken to comply with this section.
 
 
 
