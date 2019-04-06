@@ -5324,29 +5324,6 @@ Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the 
 
 
 
-Chapter 8: Citywide Transit Study
---------------------------------------------------
-
-
-
-*§ 19-801 Citywide transit study.* ::
-
-
-a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
-
-   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
-
-   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
-
-   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
-
-b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
-
-
-
-
-
-
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
 --------------------------------------------------
 
@@ -5629,115 +5606,23 @@ If any section, subdivision, sentence, clause, phrase or other portion of the lo
 
 
 
-Chapter 10: Special Hearing Procedures Applicable to Violations of Taxi and Limousine Commission Laws or Regulations
+Chapter 8: Citywide Transit Study
 --------------------------------------------------
 
 
 
-*§ 19-1001 Definitions.* ::
+*§ 19-801 Citywide transit study.* ::
 
 
-For purposes of this chapter, the following terms have the following meanings:
+a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
 
-Administrative law judge. The term “administrative law judge” means a person appointed by the chief administrative law judge of the office of administrative trials and hearings pursuant to section 1049 of the charter.
+   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
 
-Appeals unit. The term “appeals unit” means the unit authorized under section 6-19 of title 48 of the rules of the city of New York to review administrative law judge and hearing officer decisions.
+   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
 
-Commission. The term “commission” means the New York city taxi and limousine commission.
+   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
 
-Hearing officer. The term “hearing officer” means a person designated by the chief administrative law judge of the office of administrative trials and hearings, or such judge’s designee, to carry out the adjudicatory powers, duties and responsibilities of the tribunal.
-
-Petitioner. The term “petitioner” means the city agency authorized to issue notices of violation returnable to the tribunal.
-
-Respondent. The term “respondent” means the person against whom the charges alleged in a summons have been filed.
-
-Summons. The term “summons” means the document, including a notice of violation,that specifies the charges forming the basis of an adjudicatory proceeding before the tribunal.
-
-Tribunal. The term “tribunal” means the office of administrative trials and hearings hearings division, which includes the administrative tribunal referenced in section 19-506.1.
-
-
-
-
-
-
-
-
-*§ 19-1002 Appearances at commission-related hearings.* ::
-
-
-a. At a hearing before the tribunal on a violation of a law or regulation enforced by the commission, the petitioner shall appear in one of the following ways:
-
-   1. In person;
-
-   2. By sending an authorized representative who is an attorney admitted to practice law in New York state or another authorized representative as the office of administrative trials and hearings permits by rule; or
-
-   3. When the tribunal offers the opportunity to do so, by remote methods as the office of administrative trials and hearings permits by rule.
-
-b. Such hearing shall not proceed without the appearance of the petitioner.
-
-c. The tribunal shall dismiss such violation if a petitioner fails to appear within thirty minutes of the timely appearance by the respondent or to make a timely request to reschedule pursuant to title 48 of the rules of the city of New York. The tribunal shall carry out such dismissal in accordance with its rules of practice, pursuant to title 48 of the rules of the city of New York.
-
-d. At a hearing before the tribunal on a violation of a law or regulation enforced by the commission, the respondent may appear by remote methods, including the use of internet video, provided that any such method provides a visual image of the respondent sufficient to permit the respondent’s identity to be verified. The office of administrative trials and hearings and the commission shall establish a process for the submission of evidence by respondents who choose to appear by a remote method.
-
-
-
-
-
-
-
-
-*§ 19-1003 Administrative law judge and hearing officer discretion to reduce commission penalties.* ::
-
-
-a. If an administrative law judge or hearing officer finds a violation, except for a violation under section 19-507, such administrative law judge or hearing officer may, in the interest of justice, and upon the petition of the respondent, reduce the penalty for such violation set by the commission after determining that such reduction is appropriate because one or more compelling considerations or circumstances clearly demonstrates that imposing such penalty would constitute or result in injustice. In determining whether such compelling consideration or circumstance exists, the administrative law judge or hearing officer shall, to the extent applicable, consider, individually and collectively, the following factors:
-
-   1. The seriousness and circumstances of the violation;
-
-   2. The extent of harm caused by the violation;
-
-   3. The evidence supporting or refuting the violation charged, whether admissible or inadmissible at a hearing;
-
-   4. The history, character and condition of the respondent;
-
-   5. The effect of imposing upon the respondent the penalty set by the commission;
-
-   6. The impact of a penalty reduction on the safety or welfare of the community;
-
-   7. The impact of a penalty reduction on public confidence in the commission, the office of administrative trials and hearings and the implementation of laws by the city;
-
-   8. The position of the petitioner regarding the proposed fine reduction with reference to the specific circumstances of the respondent and the violation charged; and
-
-   9. Any other relevant fact indicating whether a decision to impose the penalty set by the commission on the respondent would serve a useful purpose.
-
-b. Upon determining that a penalty for a violation set by the commission should be reduced, the administrative law judge or hearing officer shall set forth the amount and the reasons for such reduction in the record. Such reasons and determination shall be transmitted to the chairperson of the commission.
-
-c. Within 20 business days of receipt of such reasons and determination, pursuant to subdivision b, the commission, or the chairperson of the commission acting pursuant to rules of the commission, may, in the commission or chairperson’s discretion, remove such reduction if the commission or chairperson determines such a reduction would not be in the interests of justice, pursuant to the factors in subdivision a, or lower such reduction.
-
-
-
-
-
-
-
-
-*§ 19-1004 Administrative law judge and hearing officer dismissal of a duplicate notice of violation.* ::
-
-
-a. An administrative law judge or hearing officer shall dismiss a notice of violation in relation to a hearing before the tribunal on a violation of a law or regulation enforced by the commission upon determining that such notice of violation is substantively identical to a violation received for the same act under commission rules or provisions of law other than commission rules, provided that such substantively identical violation has not already been dismissed by the relevant adjudicatory body.
-
-b. In order for such administrative law judge or hearing officer to determine whether to dismiss such notice of violation, the respondent shall provide proof to such administrative law judge or hearing officer at such hearing in the form of summonses pertaining to the duplicate or substantively identical violations.
-
-
-
-
-
-
-
-
-*§ 19-1005 Commission-related hearing deadline.* ::
-
-
-A respondent, or their representative, shall be considered to have made a timely appearance for a hearing provided they appear, whether in person or pursuant to subdivision (d) of section 19-1002, within 90 minutes of the scheduled time set forth in the summons. If a hearing does not begin within three hours of the timely appearance of both the respondent and the petitioner then the tribunal shall dismiss the notice of violation without prejudice.
+b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
 
 
 
@@ -5877,6 +5762,121 @@ e. 1. The city shall utilize necessary technologies to ensure, to the extent pra
 
 
 The mayor may designate any city agency or office thereof or employees of any city agency to implement and enforce the provisions of this chapter.
+
+
+
+
+
+
+Chapter 10: Special Hearing Procedures Applicable to Violations of Taxi and Limousine Commission Laws or Regulations
+--------------------------------------------------
+
+
+
+*§ 19-1001 Definitions.* ::
+
+
+For purposes of this chapter, the following terms have the following meanings:
+
+Administrative law judge. The term “administrative law judge” means a person appointed by the chief administrative law judge of the office of administrative trials and hearings pursuant to section 1049 of the charter.
+
+Appeals unit. The term “appeals unit” means the unit authorized under section 6-19 of title 48 of the rules of the city of New York to review administrative law judge and hearing officer decisions.
+
+Commission. The term “commission” means the New York city taxi and limousine commission.
+
+Hearing officer. The term “hearing officer” means a person designated by the chief administrative law judge of the office of administrative trials and hearings, or such judge’s designee, to carry out the adjudicatory powers, duties and responsibilities of the tribunal.
+
+Petitioner. The term “petitioner” means the city agency authorized to issue notices of violation returnable to the tribunal.
+
+Respondent. The term “respondent” means the person against whom the charges alleged in a summons have been filed.
+
+Summons. The term “summons” means the document, including a notice of violation,that specifies the charges forming the basis of an adjudicatory proceeding before the tribunal.
+
+Tribunal. The term “tribunal” means the office of administrative trials and hearings hearings division, which includes the administrative tribunal referenced in section 19-506.1.
+
+
+
+
+
+
+
+
+*§ 19-1002 Appearances at commission-related hearings.* ::
+
+
+a. At a hearing before the tribunal on a violation of a law or regulation enforced by the commission, the petitioner shall appear in one of the following ways:
+
+   1. In person;
+
+   2. By sending an authorized representative who is an attorney admitted to practice law in New York state or another authorized representative as the office of administrative trials and hearings permits by rule; or
+
+   3. When the tribunal offers the opportunity to do so, by remote methods as the office of administrative trials and hearings permits by rule.
+
+b. Such hearing shall not proceed without the appearance of the petitioner.
+
+c. The tribunal shall dismiss such violation if a petitioner fails to appear within thirty minutes of the timely appearance by the respondent or to make a timely request to reschedule pursuant to title 48 of the rules of the city of New York. The tribunal shall carry out such dismissal in accordance with its rules of practice, pursuant to title 48 of the rules of the city of New York.
+
+d. At a hearing before the tribunal on a violation of a law or regulation enforced by the commission, the respondent may appear by remote methods, including the use of internet video, provided that any such method provides a visual image of the respondent sufficient to permit the respondent’s identity to be verified. The office of administrative trials and hearings and the commission shall establish a process for the submission of evidence by respondents who choose to appear by a remote method.
+
+
+
+
+
+
+
+
+*§ 19-1003 Administrative law judge and hearing officer discretion to reduce commission penalties.* ::
+
+
+a. If an administrative law judge or hearing officer finds a violation, except for a violation under section 19-507, such administrative law judge or hearing officer may, in the interest of justice, and upon the petition of the respondent, reduce the penalty for such violation set by the commission after determining that such reduction is appropriate because one or more compelling considerations or circumstances clearly demonstrates that imposing such penalty would constitute or result in injustice. In determining whether such compelling consideration or circumstance exists, the administrative law judge or hearing officer shall, to the extent applicable, consider, individually and collectively, the following factors:
+
+   1. The seriousness and circumstances of the violation;
+
+   2. The extent of harm caused by the violation;
+
+   3. The evidence supporting or refuting the violation charged, whether admissible or inadmissible at a hearing;
+
+   4. The history, character and condition of the respondent;
+
+   5. The effect of imposing upon the respondent the penalty set by the commission;
+
+   6. The impact of a penalty reduction on the safety or welfare of the community;
+
+   7. The impact of a penalty reduction on public confidence in the commission, the office of administrative trials and hearings and the implementation of laws by the city;
+
+   8. The position of the petitioner regarding the proposed fine reduction with reference to the specific circumstances of the respondent and the violation charged; and
+
+   9. Any other relevant fact indicating whether a decision to impose the penalty set by the commission on the respondent would serve a useful purpose.
+
+b. Upon determining that a penalty for a violation set by the commission should be reduced, the administrative law judge or hearing officer shall set forth the amount and the reasons for such reduction in the record. Such reasons and determination shall be transmitted to the chairperson of the commission.
+
+c. Within 20 business days of receipt of such reasons and determination, pursuant to subdivision b, the commission, or the chairperson of the commission acting pursuant to rules of the commission, may, in the commission or chairperson’s discretion, remove such reduction if the commission or chairperson determines such a reduction would not be in the interests of justice, pursuant to the factors in subdivision a, or lower such reduction.
+
+
+
+
+
+
+
+
+*§ 19-1004 Administrative law judge and hearing officer dismissal of a duplicate notice of violation.* ::
+
+
+a. An administrative law judge or hearing officer shall dismiss a notice of violation in relation to a hearing before the tribunal on a violation of a law or regulation enforced by the commission upon determining that such notice of violation is substantively identical to a violation received for the same act under commission rules or provisions of law other than commission rules, provided that such substantively identical violation has not already been dismissed by the relevant adjudicatory body.
+
+b. In order for such administrative law judge or hearing officer to determine whether to dismiss such notice of violation, the respondent shall provide proof to such administrative law judge or hearing officer at such hearing in the form of summonses pertaining to the duplicate or substantively identical violations.
+
+
+
+
+
+
+
+
+*§ 19-1005 Commission-related hearing deadline.* ::
+
+
+A respondent, or their representative, shall be considered to have made a timely appearance for a hearing provided they appear, whether in person or pursuant to subdivision (d) of section 19-1002, within 90 minutes of the scheduled time set forth in the summons. If a hearing does not begin within three hours of the timely appearance of both the respondent and the petitioner then the tribunal shall dismiss the notice of violation without prejudice.
 
 
 

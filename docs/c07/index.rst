@@ -795,6 +795,48 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
 
    (e) The commission shall develop an information sheet on sexual harassment that employers shall distribute to individual employees at the time of hire. Such information sheet may be included in an employee handbook. Such information sheet shall contain, at a minimum, the same elements of paragraph (b) of this subdivision. The information sheet shall be made available in English and Spanish and any other language deemed appropriate by the commission.
 
+30. Anti-sexual harassment training.
+
+   (a) Definitions. For purposes of this subdivision, the following terms have the following meanings:
+
+      Interactive training. The term “interactive training” means participatory teaching whereby the trainee is engaged in a trainer-trainee interaction, use of audio-visuals, computer or online training program or other participatory forms of training as determined by the commission. However, such “interactive training” is not required to be live or facilitated by an in-person instructor in order to satisfy the provisions of this subdivision.
+
+   (b) Training. Employers with 15 or more employees shall annually conduct an anti-sexual harassment interactive training for all employees, including supervisory and managerial employees, of such employer employed within the city of New York. Such training shall be required after 90 days of initial hire for employees who work more than 80 hours in a calendar year who perform work on a full-time or part-time basis. Such training shall include, but need not be limited to, the following:
+
+      (1) An explanation of sexual harassment as a form of unlawful discrimination under local law;
+
+      (2) A statement that sexual harassment is also a form of unlawful discrimination under state and federal law;
+
+      (3) A description of what sexual harassment is, using examples;
+
+      (4) Any internal complaint process available to employees through their employer to address sexual harassment claims;
+
+      (5) The complaint process available through the commission, the division of human rights and the United States equal employment opportunity commission, including contact information;
+
+      (6) The prohibition of retaliation, pursuant to subdivision 7 of section 8-107, and examples thereof; and
+
+      (7) Information concerning bystander intervention, including but not limited to any resources that explain how to engage in bystander intervention.
+
+      (8) The specific responsibilities of supervisory and managerial employees in the prevention of sexual harassment and retaliation, and measures that such employees may take to appropriately address sexual harassment complaints.
+
+   (c) Compliance.
+
+      (1) Employers shall keep a record of all trainings, including a signed employee acknowledgement. Such acknowledgment may be electronic.
+
+      (2) Employers shall maintain such records for at least three years and such records must be made available for commission inspection upon request.
+
+      (3) The commission shall develop an online interactive training module that may be used by an employer as an option to satisfy the requirements of paragraph (b) of this subdivision, provided that an employer shall inform all employees of any internal complaint process available to employees through their employer to address sexual harassment claims. Such training module shall be made publicly available at no cost on the commission’s website. Such training module shall allow for the electronic provision of certification each time any such module is accessed and completed. The commission shall update such modules as needed.
+
+      (4) The training required by this subdivision is intended to establish a minimum threshold and shall not be construed to prohibit any private employer from providing more frequent or additional anti-sexual harassment training.
+
+   (d) For purposes of this subdivision the term “employer” shall not apply to (i) the United States government; (ii) the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary; or (iii) the city of New York or any local government, municipality or county or any entity governed by section 92 of the general municipal law or section 207 of the county law.
+
+   (e)  For purposes of this subdivision the term “employee” shall apply to interns.
+
+   (f) An employee who has received anti-sexual harassment training at one employer within the required training cycle shall not be required to receive additional anti-sexual harassment training at another employer until the next cycle.
+
+   (g) An employer that is subject to training requirements in multiple jurisdictions may assert that it is compliant with this subdivision provided that each provision in subparagraph b of this subdivision is fulfilled in an anti-sexual harassment training that such employer makes available to its employees on an annual basis and shall be allowed to provide proof of compliance.
+
 .
 
 

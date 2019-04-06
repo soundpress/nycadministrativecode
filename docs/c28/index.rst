@@ -3021,9 +3021,7 @@ a. For the purposes of this section:
 
    Supervising agency. The term “supervising agency” means the department of housing preservation and development.
 
-b. The supervising agency shall enter into a regulatory agreement with an eligible community land trust that applies for such regulatory agreement and meets such supervising agency’s standardized terms and conditions for such agreement. Such regulatory agreement shall also require that the community land trust enter into a 99-year ground lease agreement with the owners of structures or improvements located on land which is subject to the regulatory agreement.
-
-c. The supervising agency may enter into a regulatory agreement with an eligible community land trust, provided that such trust agrees to such terms and conditions as such agency deems necessary; and (i) is a recipient of a loan or grant from the city of New York; (ii) acquires real property or an interest therein from the city of New York; or (iii) receives a tax exemption approved by the council of the city of New York, upon the recommendation of the supervising agency.
+b. The supervising agency may enter into a regulatory agreement with an eligible community land trust provided that such trust agrees to such terms and conditions as such agency deems necessary; and (i) is a recipient of a loan or grant from the city of New York; (ii) acquires real property or an interest therein from the city of New York; or (iii) receives a tax exemption approved by the council of the city of New York, upon the recommendation of the supervisory agency. Such regulatory agreement shall also require that the community land trust enter into a 99-year ground lease agreement with the owners of structures or improvements located on land which is subject to the regulatory agreement.
 
 
 

@@ -568,3 +568,41 @@ c. Enforcement.
 
 
 
+
+
+*§ 16-527 Labor and Wage Violations.* ::
+
+
+Where the chair has reasonable cause to believe that a trade waste licensee or registrant has engaged in or is engaging in actions (i) involving egregious or habitual nonpayment or underpayment of wages or (ii) that constitute a significant violation of city, state or federal labor or employment law, the chair shall inform the New York state attorney general, the New York state department of labor, the United States department of labor or other relevant city, state or federal law enforcement agency of such actions.
+
+
+
+
+
+
+
+
+*§ 16-528 Workers’ rights information.* ::
+
+
+a. The commission shall require trade waste licensees and registrants to disseminate directly to their employees engaged in operating vehicles or handling waste, and post conspicuously, the following information:
+
+   (i) the maximum number of hours such employees are permitted to work in a twenty-four hour period;
+
+   (ii) the minimum wage such employees must be paid;
+
+   (iii) any required worker safety trainings for such employees;
+
+   (iv) information regarding what safety equipment must be provided by employers;
+
+   (v) a description of how to contact the commission to lodge a complaint; and
+
+   (vi) a list of additional government agencies that accept complaints about violations of workers’ rights, including the New York state attorney general, the New York state department of labor, and the United States department of labor, and contact information for such agencies.
+
+b. Additionally, the commission shall post the above information on its website, and shall include descriptions and examples of violations of workers’ rights under city, state and federal law that the commission is aware of having occurred in the trade waste industry.
+
+
+
+
+
+

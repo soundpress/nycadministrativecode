@@ -1333,6 +1333,18 @@ The reports required pursuant to this section shall remain permanently accessibl
 
 
 
+*§ 28-103.35 E-mail notice of construction project updates.* ::
+
+
+The department shall provide, free of charge, a service allowing users to register to receive an automated e-mail notification each time a change in status is recorded with respect to one or more construction projects, selected by such user. Such email notifications shall include any updates to work permits issued by the department for each such selected construction project, including issuance of any stop work order issued pursuant to section 28-207.2.
+
+
+
+
+
+
+
+
 
 **Article 104: Construction Documents**
 
