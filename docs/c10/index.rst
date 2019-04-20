@@ -13736,9 +13736,11 @@ The city deduction of a city resident individual shall be his or her city standa
 
    (2) An amount equal to the city itemized deduction of an individual otherwise allowable under subdivision (a) of this section, multiplied by a percentage, such percentage to be determined by multiplying, for taxable years beginning in nineteen hundred eighty-eight, ten percent, and for taxable years beginning after nineteen hundred eighty-eight, twenty-five percent, by a fraction, the numerator of which is the lesser of fifty thousand dollars or the excess of such individual's city adjusted gross income over four hundred seventy-five thousand dollars and the denominator of which is fifty thousand dollars.
 
-(g) (1) With respect to an individual whose New York adjusted gross income is over one million dollars but no more than ten million dollars, the New York itemized deduction shall be an amount equal to fifty percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning after two thousand nine and before two thousand twenty. With respect to an individual whose New York adjusted gross income is over one million dollars, the New York itemized deduction shall be an amount equal to fifty percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning in two thousand nine or after two thousand nineteen.
+(g) Notwithstanding subdivision (a) of this section, the city itemized deduction for charitable contributions shall be the amount allowed under section one hundred seventy of the internal revenue code, as limited by this subdivision.
 
-   (2) With respect to an individual whose New York adjusted gross income is over ten million dollars, the New York itemized deduction shall be an amount equal to twenty-five percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning after two thousand nine and ending before two thousand twenty.
+   (1) With respect to an individual whose New York adjusted gross income is over one million dollars but no more than ten million dollars, the New York itemized deduction shall be an amount equal to fifty percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning after two thousand nine and before two thousand twenty-five. With respect to an individual whose New York adjusted gross income is over one million dollars, the New York itemized deduction shall be an amount equal to fifty percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning in two thousand nine or after two thousand twenty-four.
+
+   (2) With respect to an individual whose New York adjusted gross income is over ten million dollars, the New York itemized deduction shall be an amount equal to twenty-five percent of any charitable contribution deduction allowed under section one hundred seventy of the internal revenue code for taxable years beginning after two thousand nine and ending before two thousand twenty-five.
 
 
 
@@ -13808,7 +13810,7 @@ The city taxable income of a city resident estate or trust means its federal tax
 
 (a) General. An adjustment shall be made in determining city taxable income of a city resident estate or trust under section 11-1718, or city adjusted gross income of a city resident beneficiary of any estate or trust under subdivision (d) of section 11-1712, in the amount of the share of each in the city fiduciary adjustment as determined in this section.
 
-(b) Definition. The city fiduciary adjustment shall be the net amount of the modifications described in section 11-1712 (including subdivision (d) if the estate or trust is a beneficiary of another estate or trust), and in subdivision (c) and paragraphs two and three of subdivision (d) of section 11-1715, which relate to items of income, gain, loss or deduction of an estate or trust. The net amount of such modifications shall not include:
+(b) Definition. The city fiduciary adjustment shall be the net amount of the modifications described in section 11-1712 (including subdivision (d) if the estate or trust is a beneficiary of another estate or trust), and in subdivision (c) and paragraphs two and three of subdivision (d) of section 11-1715, and in subdivision (e) of this section, which relate to items of income, gain, loss or deduction of an estate or trust. The net amount of such modifications shall not include:
 
    (1) Any modification described in paragraphs one and two of subdivision (b) and paragraphs one, two, four, five, six, and seven of subdivision (c) of section 11-1712 with respect to any amount which, pursuant to the terms of the governing instrument, is paid or permanently set aside for a charitable purpose during the taxable year, and
 
@@ -13821,6 +13823,16 @@ The city taxable income of a city resident estate or trust means its federal tax
    (2) If the estate or trust has no federal distributable net income for the taxable year, the share of each beneficiary in the city fiduciary adjustment shall be in proportion to his or her share of the estate or trust income for such year, under local law or the governing instrument, which is required to be distributed currently and any other amounts of such income distributed in such year. Any balance of the city fiduciary adjustment shall be allocated to the estate or trust.
 
 (d) Alternate attribution of modifications. The tax commission may by regulation establish such other method or methods of determining to whom the items comprising the fiduciary adjustment shall be attributed, as may be appropriate and equitable. Such method may be used by the fiduciary in his or her discretion whenever the allocation of the fiduciary adjustment pursuant to subdivision (c) of this section would result in an inequity which is substantial both in amount and in relation to the amount of the fiduciary adjustment.
+
+(e) Additional modifications.
+
+   (1) For any taxable year beginning after December thirty-first, two thousand seventeen, and before January first, two thousand twenty-six, to the extent that the estate or trust claimed a deduction for taxes under section 164 of the internal revenue code that was limited to ten thousand dollars as provided in section 164(b)(6)(B) or was denied as a result of section 164(b)(6)(A), there shall be subtracted the taxes paid or accrued in that taxable year by an estate or trust that the estate or trust was not able to deduct for federal income tax purposes because of such limitation or denial, other than state and local sales taxes and income taxes described in paragraph one of subdivision (c) of section 11-1715 of this subchapter. In determining the makeup of the ten thousand dollars of deduction claimed by the estate or trust under section 164 of the internal revenue code, it shall be presumed that the ten thousand dollars of deduction first comprises the state and local sales taxes or income taxes the estate or trust accrued or paid during the taxable year.
+
+   (2) For any taxable year beginning after December thirty-first, two thousand seventeen, and before January first, two thousand twenty-six, there shall be subtracted the miscellaneous itemized deductions as described in and limited by section 67 of the internal revenue code (but excluding the deductions described in subsection (e) of section 67), but determined without regard to subsection (g) of such section.
+
+   (3) For any taxable year, there shall be added the amount of any deduction allowed pursuant to section 199A of the internal revenue code.
+
+
 
 
 
@@ -16127,7 +16139,7 @@ Chapter 20: Sales, Excise and Related Taxes
 
    (7) omits the provision for refund or credit contained in clause six of subdivision (a) of section eleven hundred nineteen of the tax law; and
 
-   (8) makes inapplicable section eleven hundred five-C of the tax law, and imposes tax on receipts from every sale, other than sales for resale, of gas service or electric service of whatever nature, including the transportation, transmission or distribution of gas or electricity, even if sold separately, at the rate set forth in subdivision (a) of this section.
+   (8) [Repealed.]
 
 (c) The taxes imposed by this section shall be in addition to any and all other taxes authorized or imposed under any other provision of law.
 
@@ -16138,6 +16150,8 @@ Chapter 20: Sales, Excise and Related Taxes
 (f) Net collections from the taxes imposed by this section paid to this city by the state comptroller shall be credited to and deposited in the general fund of this city, but no part of such revenues may be expended unless appropriated in the annual budget of this city.
 
 (g) If any provision of this section or the application thereof shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this section but shall be confined in its operation to the provision thereof directly involved in the controversy in which such judgment shall have been rendered and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+
 
 
 

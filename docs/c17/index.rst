@@ -1404,6 +1404,32 @@ c. At a minimum, the department shall distribute the pamphlet produced pursuant 
 
 
 
+*§ 17-186.1 Education and outreach regarding childhood lead poisoning prevention.* ::
+
+
+a. The department shall establish and implement an education and outreach program to increase awareness of childhood lead poisoning prevention. Such education and outreach program shall at a minimum include the following information:
+
+   1. Health effects of lead poisoning in children and pregnant women;
+
+   2. Major sources of lead exposure for children;
+
+   3. Ways to prevent lead exposure and to address lead hazards;
+
+   4. Importance of lead screening and blood lead testing requirements for children and pregnant women; and
+
+   5. Requirements related to inspection and remediation of lead hazards in certain housing and facilities.
+
+b. The education and outreach program required by subdivision a of this section shall include linguistically and culturally competent education and outreach tailored to limited English proficient individuals and specific immigrant populations. To meet such requirement, the department, in consultation with the mayor’s office of immigrant affairs, shall identify and implement measures including but not limited to production of educational materials, language assistance tools, community outreach and advertisements in multiple languages in public locations.
+
+c. Any educational materials produced pursuant to subdivision b of this section shall be made available on the department’s website and submitted to the commissioner of the mayor’s office of immigrant affairs. The educational materials made available on the department’s website pursuant to this subdivision shall be made available in English; in the six languages most commonly spoken by limited English proficient individuals in the city as determined by the department of city planning; and in any other languages deemed appropriate by the commissioner.
+
+
+
+
+
+
+
+
 *§ 17-187 School nurses.* ::
 
 

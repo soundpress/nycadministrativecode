@@ -35,7 +35,7 @@ b. The department shall publish on its website information concerning resources 
 
    1. a link to the federal veterans job bank;
 
-   2. links to websites describing veteran employment services provided by the federal government and New York state government, including, but not limited to, the websites of the United States department of labor, the New York state department of labor, the United States department of veterans affairs, and the New York state division of veterans' affairs; and
+   2. links to websites describing veteran employment services provided by the federal government and New York state government, including, but not limited to, the websites of the United States department of labor, the New York state department of labor, the United States department of veterans affairs, and the New York state division of veterans' services; and
 
    3. links to any additional resources deemed relevant by the department.
 
