@@ -816,11 +816,11 @@ b. Within 30 days of a determination by the department that city-owned or leased
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
 
-   City development project. The term "city development project”  means a project undertaken by an agency, a city economic development entity, or by a party in contract with the city, for the purpose of improvement or development of real property, including, but not limited to, street, road and sewer improvements and maintenance.
+   City development project. The term "city development project” means a project undertaken by an agency, a city economic development entity, or by a party in contract with the city, for the purpose of improvement or development of real property, including, but not limited to, street, road and sewer improvements and maintenance.
 
    City economic development entity. The term “city economic development entity” means an entity that provides or administers economic development benefits under contract with the department of small business services.
 
-   Hazardous level of lead in soil.  The term “hazardous level of lead in soil” means soil containing a lead level of five parts per million or above as determined by the toxicity characteristic leaching procedure as defined in subpart C of part 261 of subchapter I of chapter I of title 40 of the code of federal regulations or any subsequent provisions.
+   Hazardous level of lead in soil. The term “hazardous level of lead in soil” means soil containing a lead level of five parts per million or above as determined by the toxicity characteristic leaching procedure as defined in subpart C of part 261 of subchapter I of chapter I of title 40 of the code of federal regulations or any subsequent provisions.
 
 b. Within five business days of discovering or becoming aware of a hazardous level of lead in soil as a result of an environmental subsurface investigation in any city development project that will expose such soil as part of the project, the agency or city economic development entity that is supervising a capital project shall:
 

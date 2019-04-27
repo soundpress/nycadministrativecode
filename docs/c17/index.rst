@@ -2921,9 +2921,15 @@ k. No food vendor shall vend on any street at any time where and when the operat
 
          (3) The southerly side of Barclay Street between Church Street and Broadway.
 
-   2. Food vendors shall be prohibited from vending on the following streets at the following days and times: BOROUGH OF MANHATTAN
+   2. Food vendors shall be prohibited from vending on the following streets at the following days and times:
 
-      Third Avenue: East 40th to East 57th Street, Monday through Friday, 8 am to 6 pm; East 58th to East 60th Street, Monday through Saturday, 8 am to 9 pm; Lexington Avenue: East 40th to East 57th Street, Monday through Saturday, 8 am to 7 pm; East 58th to East 60th Street, Monday through Saturday, 8 am to 9 pm; East 61st to East 69th Street, Monday through Saturday, 8 am to 6 pm; Park Avenue: East 34th to East 42nd Street, Monday through Friday, 8 am to 7 pm; East 55th to East 59th Street, Monday through Friday, 10 am to 7 pm; Vanderbilt Avenue: East 42nd to East 45th Street, Monday through Friday, 8 am to 7 pm; Madison Avenue: East 34th to East 45th Street, Monday through Friday, 8 am to 6 pm; East 46th to East 59th Street, Monday through Saturday, 10 am to 7 pm; Fifth Avenue: 32nd to 59th Street, Monday through Saturday, 8 am to 7 pm; Avenue of the Americas: West 32nd to West 59th Street, Monday through Saturday, 8 am to 7 pm; Broadway: West 32nd to West 52nd Street, Everyday, 8 am to 8 pm; Seventh Avenue: West 33rd to West 34th Street, Monday through Saturday, 8 am to 6 pm; West 35th to West 45th Street, Monday through Saturday, 8 am to midnight; West 46th to West 52nd Street, Monday through Saturday, 2 pm to 7 pm; Fourteenth Street: Broadway to Seventh Avenue, Monday through Saturday, noon to 8 pm; West Thirty-fourth Street: Fifth Avenue to Seventh Avenue, Monday through Saturday, 8 am to 7 pm; Fortysecond Street: Third Avenue to Eighth Avenue, Monday through Saturday, 8 am to 7 pm; West Forty-third Street: Broadway to Eighth Avenue, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-fourth Street: Broadway to Eighth Avenue, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-fifth Street: Broadway to Eighth Avenue, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-sixth Street: Seventh to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-seventh Street: Fifth to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-eighth Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-ninth Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Fiftieth Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Fifty-first Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Fifty-second Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Fifty-third Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm.
+BOROUGH OF MANHATTAN
+
+Third Avenue: East 40th to East 57th Street, Monday through Friday, 8 am to 6 pm; East 58th to East 60th Street, Monday through Saturday, 8 am to 9 pm; Lexington Avenue: East 40th to East 57th Street, Monday through Saturday, 8 am to 7 pm; East 58th to East 60th Street, Monday through Saturday, 8 am to 9 pm; East 61st to East 69th Street, Monday through Saturday, 8 am to 6 pm; Park Avenue: East 34th to East 42nd Street, Monday through Friday, 8 am to 7 pm; East 55th to East 59th Street, Monday through Friday, 10 am to 7 pm; Vanderbilt Avenue: East 42nd to East 45th Street, Monday through Friday, 8 am to 7 pm; Madison Avenue: East 34th to East 45th Street, Monday through Friday, 8 am to 6 pm; East 46th to East 59th Street, Monday through Saturday, 10 am to 7 pm; Fifth Avenue: 32nd to 59th Street, Monday through Saturday, 8 am to 7 pm; Avenue of the Americas: West 32nd to West 59th Street, Monday through Saturday, 8 am to 7 pm; Broadway: West 32nd to West 52nd Street, Everyday, 8 am to 8 pm; Seventh Avenue: West 33rd to West 34th Street, Monday through Saturday, 8 am to 6 pm; West 35th to West 45th Street, Monday through Saturday, 8 am to midnight; West 46th to West 52nd Street, Monday through Saturday, 2 pm to 7 pm; Fourteenth Street: Broadway to Seventh Avenue, Monday through Saturday, noon to 8 pm; West Thirty-fourth Street: Fifth Avenue to Seventh Avenue, Monday through Saturday, 8 am to 7 pm; Fortysecond Street: Third Avenue to Eighth Avenue, Monday through Saturday, 8 am to 7 pm; West Forty-third Street: Broadway to Eighth Avenue, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-fourth Street: Broadway to Eighth Avenue, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-fifth Street: Broadway to Eighth Avenue, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-sixth Street: Seventh to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-seventh Street: Fifth to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-eighth Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Forty-ninth Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Fiftieth Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Fifty-first Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Fifty-second Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm; West Fifty-third Street: Broadway to Eighth Avenues, Wednesday and Saturday, noon to 11 pm; Sunday, noon to 6 pm; Other days, 7 pm to 11 pm.
+
+BOROUGH OF QUEENS
+
+Main Street: Northern Boulevard to Sanford Avenue, every day, noon to midnight; 38th Avenue: Prince Street to 138th Street, every day, noon to midnight; Prince Street: 38th Avenue to 39th Avenue, every day, noon to midnight; 39th Avenue: College Point Boulevard to Union Street, every day, noon to midnight; Lippman Plaza: 39th Avenue to Roosevelt Avenue, every day, noon to midnight; Roosevelt Avenue: College Point Boulevard to Union Street, every day, noon to midnight; 41st Avenue: College Point Boulevard to Union Street, every day, noon to midnight; Kissena Boulevard: 41st Avenue to Barclay Avenue, every day, noon to midnight; Sanford Avenue: Frame Place to Main Street, every day, noon to midnight.
 
 
 
@@ -5721,6 +5727,75 @@ c. A pet shop that allows an animal shelter or animal rescue group to use such p
 
 
 
+Chapter 10: Prescription Drug Discount Card Act
+--------------------------------------------------
+
+
+
+*§ 17-1001 Short title.* ::
+
+
+This chapter shall be known and may be cited as the "Prescription Drug Discount Card Act."
+
+
+
+
+
+
+*§ 17-1002 Definitions.* ::
+
+
+When used in this chapter, the term "rebate" shall mean a refund of a certain portion of the wholesale price of a drug based on a negotiated agreement between a drug manufacturer and any administrator of the prescription drug discount card program created pursuant to this chapter.
+
+
+
+
+
+
+*§ 17-1003 Prescription drug discount card program.* ::
+
+
+a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
+
+b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
+
+c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
+
+d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
+
+
+
+
+
+
+*§ 17-1004 Report.* ::
+
+
+Not later than sixty days after the end of each twelve-month period during which the prescription drug discount card program has been in operation, the department shall provide the city council with a report regarding such program. Such report shall provide information regarding the operation of such program during the reporting period, including, but not limited to (i) the number of prescription drug discount card holders who used the prescription drug discount card at least once, (ii) the total cost savings to all card holders generated by the program, (iii) the average cost savings to a card holder per prescription, (iv) the source and method of cost savings under the program, (v) the major drug categories that are not discounted under the program and an explanation as to why such drugs are not listed, (vi) the drugs for which rebates are offered under the program, listed according to major drug category, (vii) the number of pharmacies participating in the program, and (viii) to the extent available, any costs incurred by pharmacies to participate in the program.
+
+
+
+
+
+
+*§ 17-1005 Implementation.* ::
+
+
+The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including, but not limited to, developing and/or administering the prescription drug discount card program established pursuant to section 17-1003 of this chapter and collecting information required by section 17-1004 of this chapter.
+
+
+
+
+
+
+*§ 17-1006 Rules.* ::
+
+
+The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
+
+
+
+
 Chapter 9: Lead-based Paint In Day Care Facilities
 --------------------------------------------------
 
@@ -5814,75 +5889,6 @@ The department shall promulgate such rules as may be necessary for the implement
 
 
 The operator of a day care facility shall conduct a survey of such facility annually, and more often if necessary, to determine the physical condition of surface-coating material throughout each such facility and shall provide a copy of the survey results to the department.
-
-
-
-
-Chapter 10: Prescription Drug Discount Card Act
---------------------------------------------------
-
-
-
-*§ 17-1001 Short title.* ::
-
-
-This chapter shall be known and may be cited as the "Prescription Drug Discount Card Act."
-
-
-
-
-
-
-*§ 17-1002 Definitions.* ::
-
-
-When used in this chapter, the term "rebate" shall mean a refund of a certain portion of the wholesale price of a drug based on a negotiated agreement between a drug manufacturer and any administrator of the prescription drug discount card program created pursuant to this chapter.
-
-
-
-
-
-
-*§ 17-1003 Prescription drug discount card program.* ::
-
-
-a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
-
-b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
-
-c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
-
-d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
-
-
-
-
-
-
-*§ 17-1004 Report.* ::
-
-
-Not later than sixty days after the end of each twelve-month period during which the prescription drug discount card program has been in operation, the department shall provide the city council with a report regarding such program. Such report shall provide information regarding the operation of such program during the reporting period, including, but not limited to (i) the number of prescription drug discount card holders who used the prescription drug discount card at least once, (ii) the total cost savings to all card holders generated by the program, (iii) the average cost savings to a card holder per prescription, (iv) the source and method of cost savings under the program, (v) the major drug categories that are not discounted under the program and an explanation as to why such drugs are not listed, (vi) the drugs for which rebates are offered under the program, listed according to major drug category, (vii) the number of pharmacies participating in the program, and (viii) to the extent available, any costs incurred by pharmacies to participate in the program.
-
-
-
-
-
-
-*§ 17-1005 Implementation.* ::
-
-
-The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including, but not limited to, developing and/or administering the prescription drug discount card program established pursuant to section 17-1003 of this chapter and collecting information required by section 17-1004 of this chapter.
-
-
-
-
-
-
-*§ 17-1006 Rules.* ::
-
-
-The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
 
 
 

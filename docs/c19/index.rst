@@ -904,6 +904,18 @@ a. It shall be unlawful for any person to hang or place any goods, wares or merc
 
    28. Such an obstruction is hereby forbidden from the building line on Queens Boulevard between 57th Avenue and Grand Avenue in the borough of Queens.
 
+   29. Such an obstruction is hereby forbidden from the building line on Main street between Northern boulevard and Sanford avenue in the borough of Queens. Such an obstruction is also forbidden on any intersecting street from the building line of any building on such portion of Main street.
+
+   30. Such an obstruction is hereby forbidden from the building line on Roosevelt avenue between College Point boulevard and Union street in the borough of Queens. Such an obstruction is also forbidden on any intersecting street from the building line of any building on such portion of Roosevelt avenue.
+
+   31. Such an obstruction is hereby forbidden from the building line on Kissena boulevard between 41st avenue and Barclay avenue in the borough of Queens. Such an obstruction is also forbidden on any intersecting street from the building line of any building on such portion of Kissena boulevard.
+
+   32. Such an obstruction is hereby forbidden from the building line on 40th road between Prince street and Main street in the borough of Queens.
+
+   33. Such an obstruction is hereby forbidden from the building line on 41st avenue between Main street and Union Street in the borough of Queens.
+
+   34. Such an obstruction is hereby forbidden from the building line on 41st road between Main street and Frame place in the borough of Queens.
+
 b. It shall be unlawful for any person, directly or indirectly, to use any portion of a sidewalk or courtyard, established by law, between the building line and the curb line for the parking, storage, display or sale of motor vehicles.
 
 c. 1. Except as otherwise hereinafter provided, in addition to the streets designated pursuant to subdivision a of this section, such an obstruction shall be prohibited on any street at such time where either general vending or food vending has been prohibited by local law or by the street vendor review panel pursuant to section 20-465.1 of this code and any rules promulgated thereunder.
@@ -965,6 +977,8 @@ j. Fixed stand coin operated rides.
    4. If a fixed stand coin operated ride is placed on the sidewalk in violation of the provisions of this subdivision, any authorized officer or employee of the department or the department of consumer affairs, or member of the police department, is authorized to provide for the removal of such fixed stand coin operated ride to any garage, automobile pound or other place of safety, and such ride may be subject to forfeiture upon notice and judicial determination. If a forfeiture hearing is not commenced, the owner or other person lawfully entitled to the possession of such ride may be charged with reasonable costs for removal and storage payable prior to the release of such device; provided, however, that a fixed stand coin operated ride that is not claimed within thirty days after its removal shall be deemed to be abandoned and may be sold at a public auction after having been advertised in the City Record, the proceeds thereof being paid into the general fund or such unclaimed fixed stand coin operated ride may be used or converted for use by the department or by another city agency or by a not-for-profit corporation.
 
    5. The provisions of subdivision e of this section and sections 19-149, 19-150 and 19-151 of this subchapter shall apply to fixed stand coin operated rides placed on sidewalks.
+
+
 
 
 
@@ -5324,6 +5338,29 @@ Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the 
 
 
 
+Chapter 8: Citywide Transit Study
+--------------------------------------------------
+
+
+
+*§ 19-801 Citywide transit study.* ::
+
+
+a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
+
+   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
+
+   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
+
+   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
+
+b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
+
+
+
+
+
+
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
 --------------------------------------------------
 
@@ -5602,29 +5639,6 @@ The department, the commission on human rights and operators of any water borne 
 
 
 If any section, subdivision, sentence, clause, phrase or other portion of the local law that added this chapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of the local law that added this chapter, which remaining portions shall continue in full force and effect.
-
-
-
-
-Chapter 8: Citywide Transit Study
---------------------------------------------------
-
-
-
-*§ 19-801 Citywide transit study.* ::
-
-
-a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
-
-   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
-
-   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
-
-   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
-
-b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
-
-
 
 
 
