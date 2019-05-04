@@ -5656,11 +5656,13 @@ Whenever used in this chapter, the following terms shall mean:
 
 3. "Class." Any class of real property defined in subdivision one of section eighteen hundred two of the real property tax law, and any subclassification of class two real property where such subclassification is established by rule of the commissioner of finance promulgated pursuant to this subdivision.
 
-4. "Distressed property." Any parcel of class one or class two real property that is subject to a tax lien or liens with a lien or liens to value ratio, as determined by the commissioner of finance, equal to or greater than fifteen percent and that meets one of the following two criteria:
+4. "Distressed property." Any parcel of class one or class two real property that is subject to a tax lien or liens that result from an environmental control board judgment against the owner of such parcel for a building code violation with a lien or liens to value ratio, as determined by the commissioner of finance, equal to or greater than 25 percent or any parcel of class one or class two real property that is subject to a tax lien or liens with a lien or liens to value ratio, as determined by the commissioner of finance, equal to or greater than fifteen percent and that meets one of the following two criteria:
 
    i. such parcel has an average of five or more hazardous or immediately hazardous violations of record of the housing maintenance code per dwelling unit; or
 
    ii. such parcel is subject to a lien or liens for any expenses incurred by the department of housing preservation and development for the repair or the elimination of any dangerous or unlawful conditions therein, pursuant to section 27-2144 of this code, in an amount equal to or greater than one thousand dollars.
+
+
 
 
 
@@ -16139,7 +16141,7 @@ Chapter 20: Sales, Excise and Related Taxes
 
    (7) omits the provision for refund or credit contained in clause six of subdivision (a) of section eleven hundred nineteen of the tax law; and
 
-   (8) [Repealed.]
+   (8) makes inapplicable section eleven hundred five-C of the tax law, and imposes tax on receipts from every sale, other than sales for resale, of gas service or electric service of whatever nature, including the transportation, transmission or distribution of gas or electricity, even if sold separately, at the rate set forth in subdivision (a) of this section.
 
 (c) The taxes imposed by this section shall be in addition to any and all other taxes authorized or imposed under any other provision of law.
 
@@ -16150,8 +16152,6 @@ Chapter 20: Sales, Excise and Related Taxes
 (f) Net collections from the taxes imposed by this section paid to this city by the state comptroller shall be credited to and deposited in the general fund of this city, but no part of such revenues may be expended unless appropriated in the annual budget of this city.
 
 (g) If any provision of this section or the application thereof shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this section but shall be confined in its operation to the provision thereof directly involved in the controversy in which such judgment shall have been rendered and the application of such provision to other persons or circumstances shall not be affected thereby.
-
-
 
 
 

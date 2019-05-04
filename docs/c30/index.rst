@@ -9550,14 +9550,16 @@ The owner of each covered building shall file a report in accordance with the ru
 
 
 
-**Article 312: Carbon Monoxide and Smoke Alarms**
+**Article 312: Carbon Monoxide, Smoke and Natural Gas Alarms**
 
 
 
 *§ 28-312.1 General.* ::
 
 
-Required carbon monoxide and smoke alarms shall comply with the provisions of this article.
+Required carbon monoxide, smoke and natural gas alarms shall comply with the provisions of this article.
+
+
 
 
 
@@ -9569,7 +9571,9 @@ Required carbon monoxide and smoke alarms shall comply with the provisions of th
 
 Carbon monoxide alarms required pursuant to section 908.7 of the New York city building code or sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code shall be replaced when the time elapsed since the installation of such alarm exceeds the manufacturer's suggested useful life of the alarm.
 
-Exception: A carbon monoxide alarm installed prior to the effective date of this article shall be replaced when the time elapsed since the installation of such alarm exceeds the manufacturer's suggested useful life of the alarm or within 6 months after the effective date of this article, whichever is later.
+Exception: A carbon monoxide alarm installed before April 25, 2012 shall be replaced when the time elapsed since the installation of such alarm exceeds the manufacturer's suggested useful life of the alarm or before October 25, 2012, whichever is later.
+
+
 
 
 
@@ -9579,7 +9583,9 @@ Exception: A carbon monoxide alarm installed prior to the effective date of this
 *§ 28-312.3 Audible notification of expiration of useful life of carbon monoxide alarms.* ::
 
 
-All carbon monoxide alarms installed after the effective date of this article shall comply with UL 2034 and be of a type that emits an audible notification at the expiration of the useful life of such alarm.
+All carbon monoxide alarms installed after April 25, 2012 shall comply with UL 2034 and be of a type that emits an audible notification at the expiration of the useful life of such alarm.
+
+
 
 
 
@@ -9589,9 +9595,9 @@ All carbon monoxide alarms installed after the effective date of this article sh
 *§ 28-312.4 Periodic replacement of smoke alarms.* ::
 
 
-Smoke alarms required pursuant to section 907.2 of the New York City building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code shall be replaced when the time elapsed since the installation of such alarm exceeds the manufacturer's suggested useful life of the alarm.
+Smoke alarms required pursuant to section 907.2 of the New York city building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code shall be replaced when the time elapsed since the installation of such alarm exceeds the manufacturer's suggested useful life of the alarm.
 
-Exception: A smoke alarm installed prior to the effective date of this section and whose end of useful life is not known shall be replaced with an alarm that complies with section 28-312.5 within 7 years after the effective date of this section.
+Exception: A smoke alarm installed before April 1, 2014 and whose end of useful life is not known shall be replaced with an alarm that complies with section 28-312.5 by no later than April 1, 2021.
 
 
 
@@ -9601,7 +9607,33 @@ Exception: A smoke alarm installed prior to the effective date of this section a
 *§ 28-312.5 Audible notification of expiration of useful life of smoke alarms.* ::
 
 
-All smoke alarms installed after the effective date of this section shall comply with UL 217, shall employ a non-removable, non-replaceable battery that powers the alarm for a minimum of 10 years, and shall be of the type that emits an audible notification at the expiration of the useful life of the alarm.
+All smoke alarms installed after April 1, 2014 shall comply with UL 217, shall employ a non-removable, non-replaceable battery that powers the alarm for a minimum of 10 years, and shall be of the type that emits an audible notification at the expiration of the useful life of the alarm.
+
+
+
+
+
+
+
+
+*§ 28-312.6 Periodic replacement of natural gas alarms.* ::
+
+
+Natural gas alarms required pursuant to section 908.10 of the New York city building code shall be replaced when the time elapsed since the installation of such alarm exceeds the manufacturer’s suggested useful life of the alarm.
+
+
+
+
+
+
+
+
+*§ 28-312.7 Audible notification of expiration of useful life of natural gas alarms.* ::
+
+
+All natural gas alarms installed after the effective date of the local law that added this section 28-312.7 shall comply with a standard established or adopted by department rule and shall be of the type that emits an audible notification at the expiration of the useful life of the alarm.
+
+
 
 
 
@@ -9804,6 +9836,18 @@ By December 31, 2016, animal service facilities shall comply with the retroactiv
 
 
 *§ 28-315.2.4 Natural gas alarms.* ::
+
+
+Natural gas alarms shall be provided and installed in accordance with section 908.10 of the New York city building code on or before May 1 of the first year that commences after the department, by rule, establishes or adopts a standard governing the installation and location of natural gas alarms.
+
+
+
+
+
+
+
+
+*§ 28-315.3 Sustainability.* ::
 
 
 The work specified in this section to enhance the sustainability of buildings must be completed by the dates specified herein.

@@ -1340,110 +1340,82 @@ b. In every old law tenement which is four stories or more in height:
 
 
 
-*§ 27-2045 Duties of owner and occupant with respect to installation and maintenance of smoke detecting devices in class A multiple dwellings.* ::
+*§ 27-2045 Duties of owner and occupant with respect to installation and maintenance of smoke detecting devices, carbon monoxide detecting devices and natural gas detecting devices.* ::
 
 
-a. It shall be the duty of the owner of a class A multiple dwelling which is required to be equipped with smoke detecting devices pursuant to section 907.2 of the New York city building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code to:
+a. As used in this section:
 
-   (1) provide and install one or more approved and operational smoke detecting devices in each dwelling unit and replace such devices in accordance with article 312 of chapter 3 of title 28 of the administrative code of the city of New York. Such devices shall be installed at locations specified in reference standard 17-12 of the 1968 building code or section 907.2.10 of the New York city building code, as applicable.
+   Class A multiple dwelling. The term “class A multiple dwelling” means a class A multiple dwelling as defined in paragraph 8 of subdivision a of section 27-2004, except that such term shall include garden-type maisonette dwellings constructed before April 18, 1954.
 
-   (2) post a notice in a form approved by the commissioner in a common area of the building informing the occupants of such building (i) that the owner is required by law to install one or more approved and operational smoke detecting devices in each dwelling unit in the building and to periodically replace such devices upon the expiration of their useful life in accordance with article 312 of chapter 3 of title 28 of the administrative code of the city of New York and (ii) that each occupant is responsible for the maintenance and repair of such devices and for replacing any or all such devices which are stolen, removed, missing or rendered inoperable during the occupancy of such dwelling unit with a device meeting the requirements of article 312 of chapter 3 of title 28 of the administrative code of the city of New York.
+   Garden-type maisonette dwelling. The term “garden-type maisonette dwelling” means a dwelling project consisting of a series of dwelling units that, together and in their aggregate, are arranged or designed to provide three or more apartments; are provided as a group collectively with all essential services such as, but not limited to, house sewers and heat; and are operated as a unit under single ownership, notwithstanding that certificates of occupancy were issued for portions thereof as private dwellings, as such term is defined in paragraph 6 of subdivision a of section 27-2004.
 
-   (3) replace any smoke detecting device which has been stolen, removed, missing or rendered inoperable during a prior occupancy of the dwelling unit and which has not been replaced by the prior occupant prior to the commencement of a new occupancy of a dwelling unit with a device meeting the requirements of article 312 of chapter 3 of title 28 of the administrative code of the city of New York.
+   Private dwelling. The term “private dwelling” means a dwelling unit in a one-family or two-family home that is occupied by a person or persons other than the owner of such unit or the owner’s family.
 
-   (4) replace within thirty calendar days after the receipt of written notice any such device which becomes inoperable within one year of the installation of such device due to a defect in the manufacture of such device and through no fault of the occupant of the dwelling unit.
+b. The owner of a class A multiple dwelling, class B multiple dwelling or private dwelling shall:
 
-   (5) keep such records as the commissioner shall prescribe relating to the installation and maintenance of smoke detecting devices in the building, including records showing that such devices meet the requirements of article 312 of chapter 3 of title 28 of the administrative code of the city of New York, and make such records available to the commissioner upon request.
+   1. (a) Provide and install one or more approved and operational smoke detecting devices in each dwelling unit in accordance with section 907.2 of the New York city building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code, as applicable, or, in the alternative for class B multiple dwellings, provide and install a line-operated zoned smoke detecting system with central annunciation and central office tie-in for all public corridors and public spaces, pursuant to rules promulgated by the commissioner of buildings, except that this paragraph shall not apply to private dwellings;
 
-b. Notwithstanding the provisions of subdivision a of section 27-2005 of article one of this subchapter and subdivision c of section 27-2006 of article one of this subchapter, it shall be the sole duty of the occupant of each dwelling unit in a class A multiple dwelling in which a smoke detecting device has been provided and installed by the owner pursuant to the provisions of section 907.2 of the New York city building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code to:
+      (b) Provide and install one or more approved and operational carbon monoxide detecting devices in each dwelling unit in accordance with section 908.7 of the New York city building code or sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code, as applicable, or, in the alternative for class B multiple dwellings, provide and install a line-operated zoned carbon monoxide detecting system with central annunciation and central office tie-in for all public corridors and public spaces, pursuant to rules promulgated by the commissioner of buildings or by the commissioner in consultation with the department of buildings and the fire department;
 
-   (1) keep and maintain such device in good repair; and
+      (c) Provide and install one or more approved and operational natural gas detecting devices in accordance with section 908.10 of the New York city building code or section 28-315.2.3 of the code, as applicable, or, in the alternative for class B multiple dwellings, provide and install a line-operated zoned natural gas detecting system with central annunciation and central office tie-in for all public corridors and public spaces, pursuant to rules promulgated by the commissioner of buildings or by the commissioner in consultation with the department of buildings and the fire department;
 
-   (2) replace any and all devices which are either stolen, removed, missing or rendered inoperable during the occupancy of such dwelling unit with a device meeting the requirements of article 312 of chapter 3 of title 28 of the administrative code of the city of New York.
+   2. Periodically replace any device required under paragraph 1 of this subdivision upon expiration of its useful life in accordance with article 312 of title 28 of the code;
 
-c. Except as otherwise provided in paragraphs three and four of subdivision a of this section and article 312 of chapter 3 of title 28 of the administrative code of the city of New York, an owner of a class A multiple dwelling who has provided and installed a smoke detecting device in a dwelling unit pursuant to this section shall not be required to keep and maintain such device in good repair or to replace any such device which is stolen, removed, missing or rendered inoperable during the occupancy of such dwelling unit.
+   3. (a) For a class A multiple dwelling or private dwelling, replace any such device that has been stolen, removed, found missing or rendered inoperable during a prior occupancy of the dwelling unit and that has not been replaced by the prior occupant before commencement of a new occupancy of such dwelling unit, except that this paragraph shall not apply to smoke detecting devices in private dwellings;
 
-d. The occupant of a dwelling unit in which a battery-operated smoke detecting device is provided and installed pursuant to this section shall reimburse the owner a maximum of twenty-five dollars, or a maximum of fifty dollars where a combined smoke and carbon monoxide detecting device is installed, for the cost of providing and installing each such device. The occupant shall have one year from the date of installation to make such reimbursement.
+      (b) For a class B multiple dwelling, replace any such device that has been stolen, removed, found missing or rendered inoperable before commencement of a new occupancy of such dwelling unit;
 
-e. For the purposes of this section, the term "class A" multiple dwelling shall include garden-type maisonette dwellings constructed before April eighteenth, nineteen hundred fifty-four and the term "garden-type maisonette dwellings" shall be defined as any dwelling project consisting of a series of dwelling units which together and in their aggregate are arranged or designed to provide three or more apartments, and are provided as a group collectively with all essential services such as, but not limited to, house sewers and heat, and which are operated as a unit under single ownership, notwithstanding that certificates of occupancy were issued for portions thereof as private dwellings.
+   4. Where any such device becomes inoperable within one year after installation due to a defect in the manufacture of such device and through no fault of the occupant of such dwelling unit, replace such device within 30 calendar days after receiving written notice that such device is inoperable, except that this paragraph shall not apply to class B multiple dwellings or smoke detecting devices in private dwellings;
 
+   5. Post a notice in a form approved by the commissioner in a common area of the building or, for private dwellings, provide to the occupants thereof a notice, indicating that (i) the owner is required by law to install such devices and to periodically replace such devices upon the expiration of their useful life, and (ii) each occupant is responsible for the maintenance and repair of such devices that are battery-operated and within such occupant’s dwelling unit and for replacing, in accordance with article 312 of title 28 of the code, any or all such devices which are stolen, removed, found missing or rendered inoperable during such occupant’s occupancy of such dwelling unit, except that this paragraph shall not apply to class B multiple dwellings or smoke detecting devices in private dwellings;
 
+   6. Provide to at least one adult occupant of such dwelling unit information relating to (i) the risks posed by carbon monoxide poisoning and, if natural gas detecting devices are required to be installed in such dwelling unit by rules promulgated by the commissioner of buildings, the risks posed by natural gas leaks, (ii) the testing and maintenance of smoke detecting devices, carbon monoxide detecting devices and, if natural gas detecting devices are required to be installed in such dwelling unit by rules promulgated by the commissioner of buildings, natural gas detecting devices, (iii) what to do if such devices alert, (iv) the useful life of such devices, (v) the owner’s duty to replace such devices pursuant to article 312 of title 28 and (vi) the occupant’s duty to maintain and repair such devices that are battery-operated and within such occupant’s dwelling unit and replace any or all such devices within such dwelling unit that are stolen, removed, found missing or rendered inoperable during such occupant’s occupancy of such dwelling unit; provided that the information provided in accordance with this paragraph may include material that is distributed by the manufacturer or material prepared or approved by the department of buildings; except that this paragraph shall not apply to class B multiple dwellings or smoke detecting devices in private dwellings; and
 
+   7. Keep such records as the commissioner shall prescribe relating to the installation and maintenance of smoke detecting devices, carbon monoxide detecting devices and natural gas detecting devices in the dwelling, including the manufacturer’s suggested useful life of such devices and records showing that such devices meet the requirements of all applicable laws and rules, and make such records available to the commissioner upon request.
 
+c. Notwithstanding the provisions of subdivision a of section 27-2005 and subdivision c of section 27-2006, the occupant of each dwelling unit in a class A multiple dwelling or private dwelling in which a device required by paragraph 1 of subdivision b of this section has been provided and installed shall:
 
+   1. Keep and maintain such device in good repair; and
 
-*§ 27-2046 Duties of owner with respect to installation and maintenance of smoke detecting devices in class B multiple dwellings.* ::
+   2. Replace such device if it is stolen, removed, found missing or rendered inoperable during the occupant’s occupancy of such dwelling unit.
 
+d. It shall be unlawful for any person to tamper with or render inoperable a required smoke detecting device, carbon monoxide detecting device or natural gas detecting device, except to replace the batteries of such device or for other maintenance purposes.
 
-It shall be the duty of the owner of a class B multiple dwelling which is required to be equipped with smoke detecting devices pursuant to section 907.2 of the New York city building code or sections 27-978, 27-979, 27-980 and 27-981 of the 1968 building code to:
+e. The occupant of a dwelling unit within a class A multiple dwelling or private dwelling in which a battery-operated smoke detecting device, carbon monoxide detecting device or natural gas detecting device is newly installed, or installed to replace a device that has exceeded the manufacturer’s useful life or that has been lost or damaged by such occupant or installed as a result of such occupant’s failure to maintain such device, shall reimburse the owner for the cost of providing and installing such device an amount not to exceed (i) $25 for each smoke detecting device, carbon monoxide detecting device or natural gas detecting device, (ii) $50 for each combined smoke and carbon monoxide detecting device, combined smoke and natural gas detecting device or combined carbon monoxide and natural gas detecting device and (iii) $75 for each  combined smoke, carbon monoxide and natural gas detecting device.
 
-(1) provide and install one or more approved and operational smoke detecting devices in each dwelling unit or, in the alternative, provide and install a line-operated zoned smoke detecting system with central annunciation and central office tie-in for all public corridors and public spaces, pursuant to rules and regulations promulgated by the commissioner of buildings.
-
-(2) keep and maintain smoke detecting devices in good repair and replace such devices in accordance with article 312 of chapter 3 of title 28 of the administrative code of the city of New York.
-
-(3) replace any smoke detecting device which has been stolen, removed, missing or rendered inoperable prior to the commencement of a new occupancy of a dwelling unit, in accordance with article 312 of chapter 3 of title 28 of the administrative code of the city of New York.
-
-(4) keep such records as the commissioner shall prescribe relating to the installation and maintenance of smoke detecting devices in each dwelling unit, including records showing that such devices meet the requirements of article 312 of chapter 3 of title 28 of the administrative code of the city of New York, and make such records available to the commissioner upon request.
-
-
-
-
-
-
-*§ 27-2046.1 Duties of owner and occupant with respect to installation and maintenance of carbon monoxide detecting devices in class A multiple dwellings and private dwellings.* ::
-
-
-a. As used in paragraphs two through six of subdivision b of this section, the term "private dwelling" shall mean a dwelling unit in a one-family or two-family home which is occupied by a person or persons other than the owner of such unit or the owner's family.
-
-b. It shall be the duty of the owner of a class A multiple dwelling and a private dwelling which is required to be equipped with one or more carbon monoxide detecting devices pursuant to section 908.7 of the New York city building code or sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code to:
-
-   (1) provide and install one or more approved and operational carbon monoxide detecting devices in each dwelling unit and replace such devices as necessary in accordance with article 12* of chapter 3 of title 28 of the administrative code
-
-   (2) post a notice in a form approved by the commissioner in a common area of a Class A multiple dwelling and otherwise provide such notice to the occupants of a private dwelling informing the occupants of such dwelling that the owner is required by law to install one or more approved and operational carbon monoxide detecting devices in each dwelling unit in the dwelling and to periodically replace such devices upon the expiration of their useful life, provided that an owner may choose to post or otherwise provide a single notice that complies with this provision as well as the provisions of paragraph two of subdivision a of section 27-2045 of this article;
-
-   (3) replace any carbon monoxide detecting device which has been stolen, removed, found missing or rendered inoperable during a prior occupancy of the dwelling unit and which has not been replaced by the prior occupant prior to the commencement of a new occupancy of a dwelling unit;
-
-   (4) replace within thirty calendar days after the receipt of written notice any such device which becomes inoperable within one year of the installation of such device due to a defect in the manufacture of such device and through no fault of the occupant of the dwelling unit;
-
-   (5) provide written information regarding the testing and maintenance of carbon monoxide detecting devices to at least one adult occupant of each dwelling unit including, but not limited to, general information concerning carbon monoxide poisoning and what to do if a carbon monoxide detecting device goes off; the useful life of the device and the owner's duty to replace such device pursuant to article 12 of chapter 3 of title 28 of the administrative code. Such information may include material that is distributed by the manufacturer, material prepared by the department of buildings or material approved by the department of buildings; and
-
-   (6) keep such records as the commissioner shall prescribe relating to the installation and maintenance of carbon monoxide detecting devices in the building, including the manufacturers suggested useful life of devices, and make such records available to the commissioner upon request.
-
-c. Notwithstanding the provisions of subdivision a of section 27-2005 and subdivision c of section 27-2006 of this chapter, it shall be the sole duty of the occupant of each dwelling unit in a class A multiple dwelling and the occupant of a dwelling unit in a private dwelling in which a carbon monoxide detecting device has been provided and installed by the owner pursuant to the provisions of section 908.7 of the New York city building code, sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code or article 12* of chapter 3 of title 28 of the administrative code to:
-
-   (1) keep and maintain such device in good repair; and
-
-   (2) replace any device which is either stolen, removed, missing or rendered inoperable during the occupancy of such dwelling unit.
-
-d. Except as otherwise provided in paragraphs three and four of subdivision a of this section, an owner of a dwelling who has provided and installed a carbon monoxide detecting device in a dwelling unit pursuant to this section shall not be required to keep and maintain such device in good repair or to replace any such device which is stolen, removed, missing or rendered inoperable during the occupancy of such dwelling unit.
-
-e. It shall be unlawful for any person to tamper with or render inoperable a carbon monoxide detecting device that is required under article seven of subchapter seventeen of chapter one of this title, except for replacing the batteries or for other maintenance purposes.
-
-f. The occupant of a dwelling unit in which a carbon monoxide detecting device is newly installed or installed to replace a device that has exceeded the manufacturers suggested useful life or as a result of such occupant's failure to maintain such device or where such device has been lost or damaged by such occupant, shall reimburse the owner in the amount of twenty-five dollars for the cost of such work. Such occupant shall have one year from the date of installation to make such reimbursement.
-
-g. The provisions of this section may be enforced by the department, the department of buildings, the fire department and the department of health and mental hygiene.
+f. This section may be enforced by the department, the department of buildings, the fire department and the department of health and mental hygiene.
 
 
 
 
 
 
-*§ 27-2046.2 Duties of owner and occupant with respect to installation and maintenance of carbon monoxide detecting devices in class B multiple dwellings.* ::
 
 
-a. It shall be the duty of the owner of a class B multiple dwelling which is required to be equipped with one or more carbon monoxide detecting devices pursuant to section 908.7 of the New York city building code or sections 27-981.1, 27-981.2 and 27-981.3 of the 1968 building code to:
+*§ 27-2046 Duties of owner with respect to installation and maintenance of smoke detecting devices in class B multiple dwellings.  [Repealed]* ::
 
-   (1) provide and install one or more approved and operational carbon monoxide detecting devices in each dwelling unit or in the alternative, provide and install a line-operated zoned carbon monoxide detecting system with central annunciation and central office tie-in for all public corridors and public spaces, pursuant to rules promulgated by the commissioner in consultation with the department of buildings and the fire department;
 
-   (2) keep and maintain carbon monoxide detecting devices in good repair and replace such devices when necessary in accordance with article 12* of chapter 3 of title 28 of the administrative code;
 
-   (3) replace any carbon monoxide detecting device which has been stolen, removed, found missing or rendered inoperable prior to the commencement of a new occupancy of a dwelling unit;
 
-   (4) keep such records as the commissioner shall prescribe relating to the installation and maintenance of carbon monoxide detecting devices in the building, including the manufacturers suggested useful life of devices, and make such records available to the commissioner upon request.
 
-b. It shall be unlawful for any person to tamper with or render inoperable a carbon monoxide detecting device that is required under article seven of subchapter seventeen of chapter one of this title, except for replacing the batteries or for other maintenance purposes.
 
-c. The provisions of this section may be enforced by the department, the department of buildings, the fire department and the department of health and mental hygiene.
+
+
+
+*§ 27-2046.1 Duties of owner and occupant with respect to installation and maintenance of carbon monoxide detecting devices in class A multiple dwellings and private dwellings.  [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 27-2046.2 Duties of owner and occupant with respect to installation and maintenance of carbon monoxide detecting devices in class B multiple dwellings. [Repealed]* ::
+
+
+
 
 
 

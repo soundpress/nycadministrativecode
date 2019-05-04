@@ -2274,6 +2274,48 @@ c. No later than June 30, 2019, and on or before June 30 every year thereafter, 
 
 
 
+
+
+*§ 17-199.11 Food service establishment beverage options for children’s meals.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Children’s meal. The term “children’s meal” means a food or combination of food items listed on a menu or menu board and intended for consumption by children to which the presumption described in subdivision e attaches.
+
+   Food. The term “food” has the same meaning as in article 71 of the New York city health code.
+
+   Food service establishment. The term “food service establishment” means any establishment inspected pursuant to the restaurant grading program established pursuant to subdivision a of section 81.51 of the New York city health code.
+
+   Menu or menu board. The term “menu or menu board” has the same meaning as in section 81.49 of the New York city health code.
+
+b. The selection of beverages listed as part of the children’s meal shall be limited to the following:
+
+   1. Water, sparkling water or flavored water, with no added natural or artificial sweeteners;
+
+   2. Flavored or unflavored nonfat or one percent fat dairy milk, or flavored or unflavored non-dairy beverage that is nutritionally equivalent to fluid milk, in a serving size of eight ounces or less; or
+
+   3. One hundred percent fruit or vegetable juice, or any combination thereof, with no added natural or artificial sweeteners, in a serving size of eight ounces or less. Such juice may contain water or carbonated water.
+
+c. Nothing in this section prohibits a food service establishment from providing upon request by a customer a substitute beverage other than the beverage required under subdivision b of this section.
+
+d. Any food service establishment that violates any of the provisions of this section or any rule promulgated by the department shall be liable for a civil penalty not to exceed $200. Where a person is found to have violated this section or any rule promulgated by the department, the department shall commence a proceeding to recover any civil penalty authorized by this section by the service of a summons returnable to the office of administrative trials and hearings.
+
+e. It shall be a rebuttable presumption that a food item or combination of food items on a menu or menu board is intended for consumption by children if the item or items are shown on the menu or menu board in any one of the following ways:
+
+   1. Alongside any of the following words: “child,” “children,” “kids,” “junior,” “little,” “kiddie,” “kiddo,” “tyke,” any synonym or abbreviation of such words, or any word the department determines would similarly identify a children’s meal;
+
+   2. Alongside a cartoon illustration, puzzle or game;
+
+   3. Accompanied or being offered with a toy or kid’s game; or
+
+   4. With a limitation on the maximum age of a person who can select the item or items.
+
+
+
+
+
+
 Chapter 2: Medical Examiner
 --------------------------------------------------
 
@@ -5727,75 +5769,6 @@ c. A pet shop that allows an animal shelter or animal rescue group to use such p
 
 
 
-Chapter 10: Prescription Drug Discount Card Act
---------------------------------------------------
-
-
-
-*§ 17-1001 Short title.* ::
-
-
-This chapter shall be known and may be cited as the "Prescription Drug Discount Card Act."
-
-
-
-
-
-
-*§ 17-1002 Definitions.* ::
-
-
-When used in this chapter, the term "rebate" shall mean a refund of a certain portion of the wholesale price of a drug based on a negotiated agreement between a drug manufacturer and any administrator of the prescription drug discount card program created pursuant to this chapter.
-
-
-
-
-
-
-*§ 17-1003 Prescription drug discount card program.* ::
-
-
-a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
-
-b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
-
-c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
-
-d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
-
-
-
-
-
-
-*§ 17-1004 Report.* ::
-
-
-Not later than sixty days after the end of each twelve-month period during which the prescription drug discount card program has been in operation, the department shall provide the city council with a report regarding such program. Such report shall provide information regarding the operation of such program during the reporting period, including, but not limited to (i) the number of prescription drug discount card holders who used the prescription drug discount card at least once, (ii) the total cost savings to all card holders generated by the program, (iii) the average cost savings to a card holder per prescription, (iv) the source and method of cost savings under the program, (v) the major drug categories that are not discounted under the program and an explanation as to why such drugs are not listed, (vi) the drugs for which rebates are offered under the program, listed according to major drug category, (vii) the number of pharmacies participating in the program, and (viii) to the extent available, any costs incurred by pharmacies to participate in the program.
-
-
-
-
-
-
-*§ 17-1005 Implementation.* ::
-
-
-The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including, but not limited to, developing and/or administering the prescription drug discount card program established pursuant to section 17-1003 of this chapter and collecting information required by section 17-1004 of this chapter.
-
-
-
-
-
-
-*§ 17-1006 Rules.* ::
-
-
-The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
-
-
-
-
 Chapter 9: Lead-based Paint In Day Care Facilities
 --------------------------------------------------
 
@@ -5889,6 +5862,75 @@ The department shall promulgate such rules as may be necessary for the implement
 
 
 The operator of a day care facility shall conduct a survey of such facility annually, and more often if necessary, to determine the physical condition of surface-coating material throughout each such facility and shall provide a copy of the survey results to the department.
+
+
+
+
+Chapter 10: Prescription Drug Discount Card Act
+--------------------------------------------------
+
+
+
+*§ 17-1001 Short title.* ::
+
+
+This chapter shall be known and may be cited as the "Prescription Drug Discount Card Act."
+
+
+
+
+
+
+*§ 17-1002 Definitions.* ::
+
+
+When used in this chapter, the term "rebate" shall mean a refund of a certain portion of the wholesale price of a drug based on a negotiated agreement between a drug manufacturer and any administrator of the prescription drug discount card program created pursuant to this chapter.
+
+
+
+
+
+
+*§ 17-1003 Prescription drug discount card program.* ::
+
+
+a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
+
+b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
+
+c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
+
+d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
+
+
+
+
+
+
+*§ 17-1004 Report.* ::
+
+
+Not later than sixty days after the end of each twelve-month period during which the prescription drug discount card program has been in operation, the department shall provide the city council with a report regarding such program. Such report shall provide information regarding the operation of such program during the reporting period, including, but not limited to (i) the number of prescription drug discount card holders who used the prescription drug discount card at least once, (ii) the total cost savings to all card holders generated by the program, (iii) the average cost savings to a card holder per prescription, (iv) the source and method of cost savings under the program, (v) the major drug categories that are not discounted under the program and an explanation as to why such drugs are not listed, (vi) the drugs for which rebates are offered under the program, listed according to major drug category, (vii) the number of pharmacies participating in the program, and (viii) to the extent available, any costs incurred by pharmacies to participate in the program.
+
+
+
+
+
+
+*§ 17-1005 Implementation.* ::
+
+
+The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including, but not limited to, developing and/or administering the prescription drug discount card program established pursuant to section 17-1003 of this chapter and collecting information required by section 17-1004 of this chapter.
+
+
+
+
+
+
+*§ 17-1006 Rules.* ::
+
+
+The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
 
 
 
