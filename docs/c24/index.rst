@@ -7850,43 +7850,6 @@ Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provide
 
 
 
-Chapter 10: Small Businesses
---------------------------------------------------
-
-
-
-*§ 22-1001 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Commissioner. The term “commissioner” means the commissioner of small business services.
-
-Department. The term “department” means the department of small business services.
-
-
-
-
-
-
-
-
-*§ 22-1002 Online business supports.* ::
-
-
-a. The commissioner shall post on the city’s website online business tools and resources, including but not limited to:
-
-   1. Tools provided by the department, which may include accounting, recordkeeping and bookkeeping resources; and
-
-   2. Such other tools and resources as the commissioner may deem appropriate.
-
-b. This section shall not be construed to create a private right of action to enforce its provisions or against the city for any action taken to comply with this section.
-
-
-
-
-
-
 Chapter 9: Non-Residential Tenant Harassment
 --------------------------------------------------
 
@@ -7974,6 +7937,43 @@ e. Nothing contained in this chapter shall be construed as creating any private 
 
 
 It is an affirmative defense to an allegation of commercial tenant harassment of the kind described in paragraphs 2, 3, 4, 6, 7, 8, 9 and 10 of subdivision a of section 22-902 that (i) such condition or service interruption was not intended to cause any commercial tenant to vacate a covered property or waive or surrender any rights in relation to such covered property, and (ii) the landlord acted in good faith in a reasonable manner to promptly correct such condition or service interruption, including providing notice to all affected lawful tenants in a covered property of such efforts, where appropriate.
+
+
+
+
+
+
+Chapter 10: Small Businesses
+--------------------------------------------------
+
+
+
+*§ 22-1001 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Commissioner. The term “commissioner” means the commissioner of small business services.
+
+Department. The term “department” means the department of small business services.
+
+
+
+
+
+
+
+
+*§ 22-1002 Online business supports.* ::
+
+
+a. The commissioner shall post on the city’s website online business tools and resources, including but not limited to:
+
+   1. Tools provided by the department, which may include accounting, recordkeeping and bookkeeping resources; and
+
+   2. Such other tools and resources as the commissioner may deem appropriate.
+
+b. This section shall not be construed to create a private right of action to enforce its provisions or against the city for any action taken to comply with this section.
 
 
 

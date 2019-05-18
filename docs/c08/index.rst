@@ -1083,13 +1083,17 @@ b. The department shall release any inmate for whom bail or bond has been paid o
 
    6. Section 520.30 of the criminal procedure law necessitates a delay.
 
-c. The department shall accept or facilitate the acceptance of cash bail payments for inmates in the custody of the department: (i) at any courthouse of the New York City Criminal Court, (ii) at any location within one half mile of any such courthouse during all operating hours of such courthouse and at least two hours subsequent to such courthouse's closing, or (iii) online.
+c. The department shall accept or facilitate the acceptance of cash bail payments for inmates in the custody of the department: (i) at any courthouse of the New York City Criminal Court, (ii) at any location within one half mile of any such courthouse during all operating hours of such courthouse and at least two hours subsequent to such courthouse's closing, or (iii) online.*
 
 d. For the purposes of subdivision b, the term "required time period" means five hours beginning on October 1, 2017, four hours beginning on April 1, 2018, and three hours beginning on October 1, 2018.
 
-(L.L. 2017/123, 7/22/2017, eff. 10/1/2017*)
+e. 1. No fee may be assessed on an online payment of bail, unless the chief administrator of the courts requires a party making a payment of bail to pay a reasonable administrative fee.*
 
-* Editor's note: Pursuant to § 2 of L.L. 2017/123, subsection c is effective 1/22/2018.
+   2. No fee may be assessed on an in person payment of bail, unless the chief administrator of the courts requires a party making a payment of bail to pay a reasonable administrative fee.*
+
+(L.L. 2017/123, 7/22/2017, eff. 10/1/2017 and 1/22/2018*; Am. L.L. 2019/089, 5/10/2019, eff. 11/10/2019 and 8/10/2020*)
+
+* Editor's note: Pursuant to § 2 of L.L. 2017/123, this section is effective 10/1/2017 except for subsection c, which is effective 1/22/2018. Pursuant to § 2 of L.L. 2019/089, subsection e.1. is effective 11/10/2019 and subsection e.2. is effective 8/10/2020.
 
 
 
@@ -1631,6 +1635,18 @@ g. Publication of policy required. The department shall publish on its website i
 
 
 Editor's note: Section 2 of L.L. 2017/226 provides: "This local law takes effect immediately, provided that subdivision g of section 9-205 of the administrative code of the city of New York, as added by section one of this local law, takes effect 90 days after it becomes law, and provided further that information newly required to be reported by subdivision f of section 9-205 of the administrative code of the city of New York, as added by section one of this local law, shall be required to be reported only for periods beginning 60 days after the effective date of this local law."
+
+
+
+
+
+
+*§ 9-206 Marijuana testing* ::
+
+
+a. The department of probation shall not require individuals on probation to submit to marijuana testing unless a determination is made, based on an individual’s history and personal circumstances, that abstinence from marijuana is necessary to otherwise lead an otherwise law-abiding life.
+
+
 
 
 
