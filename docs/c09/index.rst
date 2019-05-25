@@ -2243,6 +2243,81 @@ h. Any person who engages in business as a retail dealer pursuant to section 20-
 
 
 
+Chapter 4: Actions By Victims of Violent Crime
+--------------------------------------------------
+
+
+
+*§ 10-401 Short title.* ::
+
+
+This local law shall be known as the "Victims of Violent Crime Protection Act".
+
+
+
+
+
+
+*§ 10-402 Definition.* ::
+
+
+For purposes of this chapter:
+
+a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
+
+
+
+
+
+
+*§ 10-403 Civil cause of action.* ::
+
+
+Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
+
+1. compensatory and punitive damages;
+
+2. injunctive and declaratory relief;
+
+3. attorneys' fees and costs;
+
+4. such other relief as a court may deem appropriate.
+
+
+
+
+
+
+*§ 10-404 Limitations.* ::
+
+
+a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
+
+b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
+
+
+
+
+
+
+*§ 10-405 Burden of proof.* ::
+
+
+Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
+
+
+
+
+
+
+*§ 10-406 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
+
+
+
+
 Chapter 3: Firearms
 --------------------------------------------------
 
@@ -2774,81 +2849,6 @@ Prior to issuing a license or permit for possession of a firearm, the department
 
 
 
-Chapter 4: Actions By Victims of Violent Crime
---------------------------------------------------
-
-
-
-*§ 10-401 Short title.* ::
-
-
-This local law shall be known as the "Victims of Violent Crime Protection Act".
-
-
-
-
-
-
-*§ 10-402 Definition.* ::
-
-
-For purposes of this chapter:
-
-a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
-
-
-
-
-
-
-*§ 10-403 Civil cause of action.* ::
-
-
-Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
-
-1. compensatory and punitive damages;
-
-2. injunctive and declaratory relief;
-
-3. attorneys' fees and costs;
-
-4. such other relief as a court may deem appropriate.
-
-
-
-
-
-
-*§ 10-404 Limitations.* ::
-
-
-a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
-
-b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
-
-
-
-
-
-
-*§ 10-405 Burden of proof.* ::
-
-
-Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
-
-
-
-
-
-
-*§ 10-406 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
-
-
-
-
 Chapter 5: Disclosure of Security Breach
 --------------------------------------------------
 
@@ -3159,6 +3159,43 @@ e. The administering agency may use its discretion to issue a silver alert for a
 
 
 
+Chapter 9: Hit-and-Run Alert
+--------------------------------------------------
+
+
+
+*§ 10-901 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Administering agency. The term “administering agency” means any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor designates.
+
+Hit-and-run. The term “hit-and-run” means when any driver who, knowing or having cause to know that serious physical injury has been caused to another person due to an incident involving the driver's motor vehicle, leaves the scene of an incident without complying with all of the provisions of paragraph a of subdivision two of section six hundred of the vehicle and traffic law.
+
+Serious physical injury. The term "serious physical injury" has the same meaning as in section 10.00 of the penal law.
+
+
+
+
+
+
+
+
+*§ 10-902 Hit-and-run alert system.* ::
+
+
+a. The administering agency shall establish a hit-and-run alert system, pursuant to the provisions of this section, to provide rapid notification to the public when a hit-and-run involving serious physical injury or death occurs.
+
+b. The administering agency shall develop a protocol for notification to organizations such as media organizations, medical facilities and community organizations when a hit-and-run alert is issued.
+
+c. The administering agency shall issue a hit-and-run alert within 24 hours of the determination that a hit-and-run involving serious physical injury or death occurred, provided the perpetrator involved in such incident has not been located, and that sufficient information about the perpetrator of the hit-and-run incident or the subject motor vehicle is available to the administering agency. The administering agency may use its discretion to refrain from issuing such alert if the alert is inappropriate under the circumstances or would compromise a law enforcement investigation. The hit-and-run alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts, or radio broadcasts. The hit-and-run alert may be issued at repeated intervals within the discretion of the administering agency until the perpetrator involved in such hit-and-run has been located or until the administering agency determines that the issuance of a hit-and-run alert is no longer appropriate.
+
+
+
+
+
+
 Chapter 10: Prevention of Interference With Reproductive Health Services
 --------------------------------------------------
 
@@ -3270,43 +3307,6 @@ a. This chapter does not limit the right of any person or entity to seek other a
 b. This chapter does not prohibit expression protected by the first amendment of the constitution of the United States or section 8 of article 1 of the constitution of the state of New York.
 
 c. This chapter does not limit the lawful exercise of any authority vested in the owner or operator of a reproductive health care facility, the owner of the premises in which such a facility is located, or a law enforcement officer of the city, the state of New York or the United States acting within the scope of such person's official duties.
-
-
-
-
-
-
-Chapter 9: Hit-and-Run Alert
---------------------------------------------------
-
-
-
-*§ 10-901 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Administering agency. The term “administering agency” means any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor designates.
-
-Hit-and-run. The term “hit-and-run” means when any driver who, knowing or having cause to know that serious physical injury has been caused to another person due to an incident involving the driver's motor vehicle, leaves the scene of an incident without complying with all of the provisions of paragraph a of subdivision two of section six hundred of the vehicle and traffic law.
-
-Serious physical injury. The term "serious physical injury" has the same meaning as in section 10.00 of the penal law.
-
-
-
-
-
-
-
-
-*§ 10-902 Hit-and-run alert system.* ::
-
-
-a. The administering agency shall establish a hit-and-run alert system, pursuant to the provisions of this section, to provide rapid notification to the public when a hit-and-run involving serious physical injury or death occurs.
-
-b. The administering agency shall develop a protocol for notification to organizations such as media organizations, medical facilities and community organizations when a hit-and-run alert is issued.
-
-c. The administering agency shall issue a hit-and-run alert within 24 hours of the determination that a hit-and-run involving serious physical injury or death occurred, provided the perpetrator involved in such incident has not been located, and that sufficient information about the perpetrator of the hit-and-run incident or the subject motor vehicle is available to the administering agency. The administering agency may use its discretion to refrain from issuing such alert if the alert is inappropriate under the circumstances or would compromise a law enforcement investigation. The hit-and-run alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts, or radio broadcasts. The hit-and-run alert may be issued at repeated intervals within the discretion of the administering agency until the perpetrator involved in such hit-and-run has been located or until the administering agency determines that the issuance of a hit-and-run alert is no longer appropriate.
 
 
 

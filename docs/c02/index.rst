@@ -1073,7 +1073,7 @@ b. New York city energy policy advisory subcommittee.
 
 c. Meetings. The advisory subcommittee shall convene at least once every six months for the purpose of evaluating materials related to the adequacy and potential risks to the energy supply, and to provide advice and recommendations concerning the implementation of objectives regarding the development of the energy supply, as established by the long-term energy plan required by this section.
 
-d. The administering agency shall submit to the mayor and the speaker of the council, and make publicly available online, a long-term energy plan, in conjunction with the plan developed in accordance with subdivision e of section 20 of the New York city charter. The advisory subcommittee established by this section shall provide, as needed, advice and recommendations with respect to the development of such plan, which shall include, but not be limited to:
+d. The administering agency shall submit to the mayor and the speaker of the council, and make publicly available online, a long-term energy plan, in conjunction with the plan developed in accordance with subdivision e of section 20 of the New York city charter. Such plan must be completed by December 31, 2021, and shall be updated every four years thereafter. The advisory subcommittee established by this section shall provide, as needed, advice and recommendations with respect to the development of such plan, which shall include, but not be limited to:
 
    1. A review of the current energy supply and capacity;
 
@@ -1095,9 +1095,15 @@ e.  Where the administering agency has established a long-term energy plan in ac
 
 f. The mayor shall, in writing, designate one or more offices or agencies to administer the provisions of this section and may, from time to time, change such designation. Within 10 days after such designation or change thereof, a copy of such designation or change thereof shall be published on the city’s website and on the website of each such office or agency, and shall be electronically submitted to the speaker of the council.
 
+g.  The long-term energy plan developed in accordance with subdivision d of this section shall include the following:
+
+   1. An assessment of the feasibility of replacing in-city gas-fired power plants associated with the bulk power system with battery storage powered by renewable energy sources in a manner that is consistent with the New York state public service commission energy storage deployment policy developed pursuant to section 74 of the public service law;
+
+   2. An assessment of when such replacement, if feasible, can take place; and
+
+   3. A review of potential technologies for battery storage of energy.
 
 
-Editor's note: Section 2 of L.L. 2017/248 provides: "This local law takes effect immediately; provided, however, that the plan required by subdivision d of section 3-126 of the administrative code of the city of New York, as added by this local law, shall be completed by December 31, 2019 and shall be updated every four years thereafter."
 
 
 
@@ -2419,7 +2425,7 @@ Any person required to be listed on the statement of registration pursuant to se
 
 
 
-*§ 3-240 [Definitions.]*** ::
+*§ 3-240 [Definitions.]* ::
 
 
 As used in this section, the following terms shall have the following meanings:
@@ -3023,6 +3029,65 @@ h. The commission shall have a budget as provided for by the mayor.
 i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
 
 
+
+
+
+
+Chapter 8: Transition and Inaugural Donations And Expenditures
+--------------------------------------------------
+
+
+
+*§ 3-801 Transition and inauguration donations and expenses.* ::
+
+
+1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
+
+2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
+
+   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
+
+   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
+
+   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
+
+   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
+
+3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
+
+4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
+
+5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
+
+   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
+
+   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
+
+6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
+
+7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
+
+8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
+
+9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
+
+10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
+
+
+
+
+
+
+
+
+*§ 3-802 Penalties.* ::
+
+
+1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
+
+2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
+
+3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 
@@ -3964,65 +4029,6 @@ Nothing in this chapter shall be construed to restrict candidates from authorizi
 
 
 If a committee has failed to respond to a request for information made by board auditors or has inadequately responded during the post-election audit process and the board has satisfied the provisions of subdivision 1 of section 3-710, the time period for serving notice shall be tolled and extended by the number of days by which the committee has exceeded the original deadline for a response, provided that the committee has received timely written notice of: (a) the original deadline to provide the information, which shall not have been less than thirty days from the date such information was requested, and (b) the commencement of the tolling period pursuant to this section.
-
-
-
-
-Chapter 8: Transition and Inaugural Donations And Expenditures
---------------------------------------------------
-
-
-
-*§ 3-801 Transition and inauguration donations and expenses.* ::
-
-
-1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
-
-2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
-
-   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
-
-   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
-
-   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
-
-   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
-
-3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
-
-4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
-
-5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
-
-   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
-
-   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
-
-6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
-
-7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
-
-8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
-
-9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
-
-10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
-
-
-
-
-
-
-
-
-*§ 3-802 Penalties.* ::
-
-
-1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
-
-2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
-
-3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 

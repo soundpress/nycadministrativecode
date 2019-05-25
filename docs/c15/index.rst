@@ -3156,8 +3156,6 @@ Reusable carryout bag. The term "reusable carryout bag" means a bag with handles
 
 Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
 
- 
-
 
 
 
