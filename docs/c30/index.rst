@@ -588,7 +588,7 @@ This code shall be enforced by the commissioner of buildings, pursuant to the pr
 
 4. The maintenance of fire, smoke and carbon monoxide detection and alarm systems, fire extinguishing systems, refrigerating systems, storage tanks and auxiliary storage tanks for oil burning equipment, exit signs and path markings, and any fire or life safety system, equipment or device intended for use by fire fighting personnel or whose use or operation is subject to the New York city fire code or other law or rule enforced by the New York city fire department, and any related installation and signage;
 
-5. The installation and testing of fire alarm systems, smoke-detecting and carbon monoxide detecting devices that are interconnected with a fire alarm system or monitored by a central station, and fire extinguishing systems for commercial cooking appliances;
+5. The installation and testing of fire alarm systems, smoke-detecting and carbon monoxide detecting devices that are interconnected with a fire alarm system or monitored by a central station, alternative automatic fire extinguishing systems, including but not limited to fire extinguishing systems for commercial cooking equipment, and fire protection plans;
 
 6. Fire fighting equipment, access to and within premises upon or in which construction and demolition work is being conducted, and the conduct of all construction or demolition work affecting fire prevention and fire fighting;
 
@@ -601,10 +601,14 @@ This code shall be enforced by the commissioner of buildings, pursuant to the pr
 
 
 
+
+
 *§ 28-103.1.1 Installation of equipment required by the New York city fire code.* ::
 
 
-Where the installation of exit signs, emergency means of egress illumination, special mechanical ventilation and sprinkler and fire alarm systems is required by the New York city fire code, the fire commissioner shall require such installations to be in accordance with this code.
+Where the installation of exit signs, emergency means of egress illumination, special mechanical ventilation, sprinkler systems, fire alarm systems and alternative automatic fire extinguishing systems is required by the New York city fire code, the fire commissioner shall require such installations to be in accordance with this code.
+
+
 
 
 
@@ -2214,6 +2218,71 @@ Construction documents shall not be approved unless all applicable agency approv
 *§ 28-104.11 Construction documents for sites within the MS4 area.* ::
 
 
+Construction documents shall comply with section 28-104.11.1 through 28-104.11.4 relating to the MS4 area.
+
+
+
+
+
+
+
+
+*§ 28-104.11.1 Definitions.* ::
+
+
+As used in this code in connection with provisions relating to the jurisdiction of the department of environmental protection, the terms covered development project, development activity, MS4 area, post-construction stormwater management facility, stormwater construction permit, stormwater maintenance permit, and stormwater pollution prevention plan or SWPPP shall have the same definitions as such terms are defined in subchapter 1 of chapter 5-A of title 24 of the administrative code.
+
+
+
+
+
+
+
+
+*§ 28-104.11.2 Disclosure required.* ::
+
+
+It shall be the duty of an applicant for construction document approval to determine whether the site of the proposed work is part of a covered development project located within the MS4 area and to disclose such information on construction documents. Failure to disclose such information on construction documents shall be a violation of this code.
+
+
+
+
+
+
+
+
+*§ 28-104.11.3 Required documentation.* ::
+
+
+Applications for construction document approval shall include copies of any required stormwater construction permit issued by the department of environmental protection and the stormwater pollution prevention plan for the covered development project.
+
+
+
+
+
+
+
+
+*§ 28-104.11.4 Revocation of approval of construction documents.* ::
+
+
+Where the department finds after the approval of construction documents that the applicant failed to disclose the information required by this section, the department may revoke such approval and any associated work permits in accordance with the provisions of sections 28-104.2.10 and 28-104.2.10.1.
+
+
+
+
+
+
+
+
+
+**Article 105: Permits**
+
+
+
+*§ 28-105.1 General.* ::
+
+
 It shall be unlawful to construct, enlarge, alter, repair, move, demolish, remove or change the use or occupancy of any building or structure in the city, to change the use or occupancy of an open lot or portion thereof, or to erect, install, alter, repair, or use or operate any sign or service equipment in or in connection therewith, or to erect, install, alter, repair, remove, convert or replace any gas, mechanical, plumbing, fire suppression or fire protection system in or in connection therewith or to cause any such work to be done unless and until a written permit therefore shall have been issued by the commissioner in accordance with the requirements of this code, subject to such exceptions and exemptions as may be provided in section 28-105.4.
 
 
@@ -2231,7 +2300,7 @@ The commissioner, in consultation with the fire commissioner, shall establish a 
 
 
 
-*§ 28-105.1.2 Denial of permits for certain arrears.* ::
+*§ 28-105.1.2 Denial of permits for certain arrears.** ::
 
 
 The commissioner shall not issue a permit for a new building, demolition, place of assembly or major alteration that will change the use, egress or occupancy for a property if $25,000 or more in covered arrears is owed to the city with respect to such property or if the owners of such property owe, in aggregate, $25,000 or more in covered arrears to the city, provided that, where a dwelling unit within a property is owned as a condominium or held by a shareholder of a cooperative corporation under a proprietary lease, covered arrears owed to the city for such unit shall not be considered covered arrears owed to the city for such property. For the purposes of this section, the term “covered arrears” may include any of the following, but shall not include any such items that are currently in the appeals process:
@@ -2265,6 +2334,18 @@ Exceptions:
 
 
 
+*§ 28-105.1.2 Projects for which a stormwater construction permit is required.** ::
+
+
+It shall be a violation of this code to engage in any development activity with respect to a covered development project without a stormwater construction permit issued by the department of environmental protection. The issuance of a permit pursuant to this code shall not be construed to be permission for any activity that requires a stormwater construction permit issued by the department of environmental protection pursuant to chapter 5-A of title 24 of the administrative code. The issuance of a stormwater construction permit by the department of environmental protection shall not be construed as permission for work that requires a permit from the department of buildings pursuant to this code.
+
+
+
+
+
+
+
+
 *§ 28-105.2 Classification of work permits.* ::
 
 
@@ -2288,9 +2369,11 @@ For the purposes of this code, work permits shall be classified as follows:
 
 9. Temporary construction equipment permits: for the erection, installation and use of temporary structures to facilitate construction and/or safety during construction, including but not limited to temporary fences, railings, catch platforms, over-the-sidewalk chutes, footbridges, sidewalk sheds, and scaffolds.
 
-10. Fire protection and suppression system permits: for the installation and alteration of fire protection and suppression systems, including but not limited to sprinkler systems, standpipe systems, non-water systems, and fire suppression systems for commercial cooking equipment. Such permits shall include permits for limited sprinkler alterations and limited standpipe alterations.
+10. Fire protection and suppression system permits: for the installation and alteration of fire protection and suppression systems, including sprinkler systems and standpipe systems. Such permits shall include permits for limited sprinkler alterations and limited standpipe alterations.
 
 11. Crane and derrick permits: for the use of power operated cranes and derricks during construction.
+
+
 
 
 
@@ -2344,7 +2427,13 @@ Exemptions from permit requirements of this code shall not be deemed to grant au
 
 6. Geotechnical investigations, as set forth in section 28-105.4.6.
 
-7. Other categories of work as described in department rules, consistent with public safety.
+7. The installation, alteration or removal of alternative automatic fire extinguishing systems, including but not limited to fire extinguishing systems for commercial cooking equipment, subject to the approval of the fire department in accordance with section 105 of the New York city fire code.
+
+8. The installation, alteration or removal of fire alarm systems, emergency alarm systems and fire department in-building auxiliary radio communication systems, subject to the approval of the fire department in accordance with the requirements of this code. Such work shall be submitted in accordance with the rules and regulations of the fire department.
+
+9. Other categories of work as described in department rules, consistent with public safety.
+
+
 
 
 
@@ -3080,7 +3169,7 @@ The commissioner shall insure that streets are suitably improved in accordance w
 *§ 28-109.1 Fire protection plan required for covered buildings.* ::
 
 
-New building and alteration applications for covered buildings as set forth in section 28-109.2 shall include a fire protection plan prepared by or under the supervision of a registered design professional who shall professionally certify such plan. Such plan shall be approved by the department and the fire department prior to issuance of a certificate of occupancy, a temporary certificate of occupancy or a letter of completion, as applicable.
+New building and alteration applications for covered buildings as set forth in section 28-109.2 shall include a fire protection plan prepared by or under the supervision of a registered design professional who shall professionally certify such plan. Such plan shall be submitted for review and approval by the fire department for compliance with this code prior to issuance of a certificate of occupancy, a temporary certificate of occupancy or a letter of completion, as applicable. The fire protection plan shall be submitted in accordance with the rules and regulations of the fire department.
 
 Exception: No fire protection plan shall be required for an alteration that meets all three of the following requirements:
 
@@ -3089,6 +3178,8 @@ Exception: No fire protection plan shall be required for an alteration that meet
 2. The alteration does not exceed one million dollars; and
 
 3. The alteration does not create an inconsistency with a previously approved fire protection plan.
+
+
 
 
 
@@ -4947,6 +5038,23 @@ For all fabricated items, the approved fabricator shall submit a certificate of 
 *§ 28-116.7 Post-construction stormwater management facilities.* ::
 
 
+The department shall not issue a certificate of occupancy or letter of completion with respect to a building or premises that is part of a covered development project unless the applicant submits proof that the department of environmental protection has issued a stormwater maintenance permit for any post-construction stormwater management facilities serving such building or premises.
+
+
+
+
+
+
+
+
+
+**Article 117: Places of Assembly**
+
+
+
+*§ 28-117.1 Place of assembly certificate of operation.* ::
+
+
 It shall be unlawful to use or occupy any building or space, including an outdoor space, as a place of assembly without a certificate of operation issued by the commissioner. An application for a certificate of operation shall be made to the department in such form and containing such information as the commissioner shall provide. The department shall inspect every place of assembly space prior to the issuance of a certificate of operation. The commissioner shall not issue a certificate of operation unless the department determines that the space conforms substantially to the approved construction documents and to this code or the 1968 building code as applicable and that the certificate of occupancy authorizes such use. A certificate of operation shall not be issued to a place of assembly providing seating or other moveable furnishings unless the commissioner approves a plan conforming to this code or the 1968 building code as applicable and the rules of the department. Seating and other moveable furnishings shall be maintained at all times during occupancy in accordance with the approved plan. Any amendment of such plan shall be subject to the prior approval of the commissioner.
 
 
@@ -5490,6 +5598,23 @@ Exception. This section 28-118.21 shall not apply to prior code buildings.
 
 
 *§ 28-118.22 Post-construction stormwater management facilities.* ::
+
+
+The department shall not issue a certificate of occupancy with respect to a building or premises that is part of a covered development project unless the applicant submits proof that the department of environmental protection has issued a stormwater maintenance permit for any post-construction stormwater management facilities serving such building or premises.
+
+
+
+
+
+
+
+
+
+**Article 119: Service Utilities**
+
+
+
+*§ 28-119.1 Connection of service utilities.* ::
 
 
 It shall be unlawful for any utility company or utility corporation to supply gas to a building, place or premises in which new meters other than replacement are required until a certificate of approval of gas installation from the department is filed with such utility company or utility corporation. When new gas service piping has been installed it shall be locked-off by the utility company or utility corporation either by locking the gas service line valve or by installing a locking device on the outside gas service line valve. The lock shall not be removed until the gas meter piping (other than utility owned) and gas distribution piping have been inspected and certified as required by the department of buildings as being ready for service.

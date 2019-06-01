@@ -16141,7 +16141,7 @@ Chapter 20: Sales, Excise and Related Taxes
 
    (7) omits the provision for refund or credit contained in clause six of subdivision (a) of section eleven hundred nineteen of the tax law; and
 
-   (8) makes inapplicable section eleven hundred five-C of the tax law, and imposes tax on receipts from every sale, other than sales for resale, of gas service or electric service of whatever nature, including the transportation, transmission or distribution of gas or electricity, even if sold separately, at the rate set forth in subdivision (a) of this section.
+   (8) [Repealed.]
 
 (c) The taxes imposed by this section shall be in addition to any and all other taxes authorized or imposed under any other provision of law.
 
@@ -16152,6 +16152,8 @@ Chapter 20: Sales, Excise and Related Taxes
 (f) Net collections from the taxes imposed by this section paid to this city by the state comptroller shall be credited to and deposited in the general fund of this city, but no part of such revenues may be expended unless appropriated in the annual budget of this city.
 
 (g) If any provision of this section or the application thereof shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remainder of this section but shall be confined in its operation to the provision thereof directly involved in the controversy in which such judgment shall have been rendered and the application of such provision to other persons or circumstances shall not be affected thereby.
+
+
 
 
 
@@ -19045,7 +19047,7 @@ The administering agency shall annually verify and report on the installation an
 *§ 11-3007 Rulemaking.* ::
 
 
-The administering agency shall promulgate rules to implement this program. Such rules shall include, but need not be limited to, eligibility criteria for loans, terms and conditions for repayment of such loans and reporting and filing requirements related to such loans. Such rules shall also include criteria for persons to be certified pursuant to the program for purposes of conducting energy audits and renewable energy system feasibility studies, which shall be at least as stringent as the criteria for certification adopted by the authority for the purposes of article 5-L of the general municipal law. 
+The administering agency shall promulgate rules to implement this program. Such rules shall include, but need not be limited to, eligibility criteria for loans, terms and conditions for repayment of such loans and reporting and filing requirements related to such loans. Such rules shall also include criteria for persons to be certified pursuant to the program for purposes of conducting energy audits and renewable energy system feasibility studies, which shall be at least as stringent as the criteria for certification adopted by the authority for the purposes of article 5-L of the general municipal law.
 
 
 

@@ -1381,7 +1381,7 @@ c. Notwithstanding the provisions of subdivision a of section 27-2005 and subdiv
 
 d. It shall be unlawful for any person to tamper with or render inoperable a required smoke detecting device, carbon monoxide detecting device or natural gas detecting device, except to replace the batteries of such device or for other maintenance purposes.
 
-e. The occupant of a dwelling unit within a class A multiple dwelling or private dwelling in which a battery-operated smoke detecting device, carbon monoxide detecting device or natural gas detecting device is newly installed, or installed to replace a device that has exceeded the manufacturer’s useful life or that has been lost or damaged by such occupant or installed as a result of such occupant’s failure to maintain such device, shall reimburse the owner for the cost of providing and installing such device an amount not to exceed (i) $25 for each smoke detecting device, carbon monoxide detecting device or natural gas detecting device, (ii) $50 for each combined smoke and carbon monoxide detecting device, combined smoke and natural gas detecting device or combined carbon monoxide and natural gas detecting device and (iii) $75 for each  combined smoke, carbon monoxide and natural gas detecting device.
+e. The occupant of a dwelling unit within a class A multiple dwelling or private dwelling in which a battery-operated smoke detecting device, carbon monoxide detecting device or natural gas detecting device is newly installed, or installed to replace a device that has exceeded the manufacturer’s useful life or that has been lost or damaged by such occupant or installed as a result of such occupant’s failure to maintain such device, shall reimburse the owner for the cost of providing and installing such device an amount not to exceed (i) $25 for each smoke detecting device, carbon monoxide detecting device or natural gas detecting device, (ii) $50 for each combined smoke and carbon monoxide detecting device, combined smoke and natural gas detecting device or combined carbon monoxide and natural gas detecting device and (iii) $75 for each combined smoke, carbon monoxide and natural gas detecting device.
 
 f. This section may be enforced by the department, the department of buildings, the fire department and the department of health and mental hygiene.
 
@@ -1392,7 +1392,7 @@ f. This section may be enforced by the department, the department of buildings, 
 
 
 
-*§ 27-2046 Duties of owner with respect to installation and maintenance of smoke detecting devices in class B multiple dwellings.  [Repealed]* ::
+*§ 27-2046 Duties of owner with respect to installation and maintenance of smoke detecting devices in class B multiple dwellings. [Repealed]* ::
 
 
 
@@ -1402,7 +1402,7 @@ f. This section may be enforced by the department, the department of buildings, 
 
 
 
-*§ 27-2046.1 Duties of owner and occupant with respect to installation and maintenance of carbon monoxide detecting devices in class A multiple dwellings and private dwellings.  [Repealed]* ::
+*§ 27-2046.1 Duties of owner and occupant with respect to installation and maintenance of carbon monoxide detecting devices in class A multiple dwellings and private dwellings. [Repealed]* ::
 
 
 
