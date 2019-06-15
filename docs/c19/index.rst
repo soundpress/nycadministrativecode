@@ -2524,7 +2524,7 @@ b. The manual of policies and design guidelines and any updates thereto shall be
 
 
 
-*§ 19-183 Traffic calming devices.* ::
+*§ 19-183 Traffic calming devices and traffic flow designations.* ::
 
 
 a. For the purposes of this section, the following terms shall have the following meanings:
@@ -2535,7 +2535,13 @@ a. For the purposes of this section, the following terms shall have the followin
 
    3. "Traffic calming device" shall mean any device, not governed by the manual on uniform traffic control devices, including, but not limited to, speed humps, curb extensions, traffic diverters, median barriers and raised walkways, installed on a street and intended to slow, reduce or alter motor vehicle traffic to improve safety for pedestrians and bicyclists.
 
+   4. “Traffic flow designation” shall mean the designation of a street as a one-way or two-way street.
+
 b. The department shall establish guidelines governing the approval and placement of traffic calming devices. Such guidelines shall consider whether such traffic calming devices would be installed adjacent to a school or in a location where a high percentage of seniors use the streets, such as locations adjacent to senior centers and nursing homes, and any other locations as determined by the department. Such guidelines shall list the conditions under which installation of such traffic calming device may be appropriate. Such guidelines shall be distributed to any entity upon request and shall be published on the department's website.
+
+c. The department shall establish and maintain on its website guidelines regarding traffic flow designations. Such guidelines shall include the criteria and considerations for assessing proposed changes to traffic flow designations and the process by which changes in traffic flow designations can be requested. The department shall post on its website by August 1, 2020, and every August 1 thereafter, the number of requests for changes in traffic flow designations received by the department during the 12 months ending on the preceding June 30, disaggregated by location and by the category of requesting party, and the status of such requests.
+
+
 
 
 

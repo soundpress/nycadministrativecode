@@ -3357,3 +3357,135 @@ b. The department shall conduct outreach to council members representing expirin
 
 
 
+Chapter 24: Buyout Agreement Filing Requirements
+--------------------------------------------------
+
+
+
+*§ 26-2401 Application.* ::
+
+
+This chapter applies to all buyout agreements executed on or after the effective date of this chapter.
+
+
+
+
+
+
+
+
+*§ 26-2402 Definitions.* ::
+
+
+As used in this chapter:
+
+Buyout agreement. The term "buyout agreement" means an agreement wherein the owner of a dwelling unit exchanges money or other valuable consideration to induce any person lawfully entitled to occupancy of such unit to surrender or waive any rights in relation to such occupancy that results in the tenant vacating such unit.
+
+Commissioner. The term "commissioner" means the commissioner of housing preservation and development and any successor thereto.
+
+Department. The term "department" means the department of housing preservation and development and any successor thereto.
+
+
+
+
+
+
+
+
+*§ 26-2403 Owner filing requirements.* ::
+
+
+Within 90 days after the execution of a buyout agreement for a dwelling unit, the owner of such unit must electronically provide the following to the department in a manner prescribed by the commissioner of the department:
+
+1. The name of the owner;
+
+2. The address of the dwelling unit that is the subject of the buyout agreement;
+
+3. The amount of money or, if applicable, a description of other valuable consideration agreed upon in the buyout agreement. If such other valuable consideration included the dismissal of a pending action or proceeding, the caption, index number and county in which the pending action or proceeding was venued;
+
+4. The date that the buyout agreement was executed; and
+
+5. The amount of time, in months, remaining in the lease for the subject dwelling unit, provided that a tenant with a legal right to a lease renewal pursuant to state law shall be indicated as having an unlimited number of months remaining.
+
+
+
+
+
+
+
+
+*§ 26-2404 Department reporting requirements.* ::
+
+
+No later than January 31, 2021, and by January 31 of each year thereafter, the commissioner shall submit a report to the mayor and the speaker of the council that contains the total number of buyout agreements executed during the prior calendar year. Such report shall include, but need not be limited to, the following for each census tract:
+
+1. The amount of money or other consideration agreed upon in each such agreement;
+
+2. The date that each such agreement was executed; and
+
+3. The amount of time, in months, remaining in the lease for the dwelling unit subject to such agreement, provided that a tenant with a legal right to a lease renewal pursuant to state law shall be indicated as having an unlimited number of months remaining.
+
+
+
+
+
+
+
+
+*§ 26-2405 Penalties and enforcement.* ::
+
+
+An owner who is required to file a buyout agreement under this chapter and who fails to file in the time required by section 26-2403 shall be liable for a non-hazardous violation pursuant to section 27-2115.
+
+
+
+
+
+
+Chapter 25: Audits of Certifications of Correction
+--------------------------------------------------
+
+
+
+*§ 26-2501 Definitions.* ::
+
+
+As used in this chapter, the term "certification of correction" means the paper or electronic document filed with the department of buildings or the department of housing preservation and development by a property owner or managing agent to affirm that the violating conditions cited on a notice of violation have been corrected within the required timeframe.
+
+
+
+
+
+
+*§ 26-2502 Audits of certifications of correction.* ::
+
+
+a. The department of buildings shall audit no fewer than 15 percent of certifications of correction of immediately hazardous violations filed with such department. Such audit shall include, at minimum, an inspection by such department to ensure that the violating conditions cited in the notice of violation have been corrected.
+
+b. The department of housing preservation and development shall audit no fewer than 15 percent of all certifications of correction of class C violations filed with such department. Such audit shall include, at minimum, an inspection by such department to ensure that the violating conditions cited in the notice of violation have been corrected.
+
+
+
+
+
+
+*§ 26-2503 Reporting.* ::
+
+
+By March 31, 2020 and no later than March 31 annually thereafter, the department of buildings and the department of housing preservation and development shall each submit to the speaker of the council an electronic report describing the findings of the audits performed by such departments in the previous year pursuant to section 26-2502 of this chapter. Such report shall include, but not be limited to:
+
+1. The total number of audits conducted;
+
+2. The percentage of certifications of correction audited;
+
+3. The percentage of audited certifications of correction found to have been false;
+
+4. For audited certifications of correction found to have been false, the total amount of civil penalties collected and, if applicable, the number of additional sanctions imposed, disaggregated by type; and
+
+5. For buildings where an audited certification of correction is found to have been false in the reporting period, whether a certification of correction filed for such building has been audited by the department of buildings or the department of housing preservation and development in the previous five years, and whether such audit or audits resulted in a finding or findings of false certification.
+
+
+
+
+
+

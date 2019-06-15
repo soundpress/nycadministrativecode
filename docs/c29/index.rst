@@ -1628,9 +1628,15 @@ Whenever used in this article the following terms shall have the following meani
 
 (6) "Lead-based paint hazard" shall mean any condition in a dwelling or dwelling unit that causes exposure to lead from lead-contaminated dust, from lead-based paint that is peeling, or from lead-based paint that is present on chewable surfaces, deteriorated subsurfaces, friction surfaces, or impact surfaces that would result in adverse human health effects.
 
-(7) "Lead-based paint" shall mean paint or other similar surface coating material containing 1.0 milligrams of lead per square centimeter or greater, as determined by laboratory analysis, or by an x-ray fluorescence analyzer. If an x-ray fluorescence analyzer is used, readings shall be corrected for substrate bias when necessary as specified by the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings shall be classified as positive, negative or inconclusive in accordance with the United States department of housing and urban development "Guidelines for the Evaluation and Control of Lead-Based Paint Hazards in Housing"  and the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings that fall within the inconclusive zone, as determined by the performance characteristic sheets, shall be confirmed by laboratory analysis of paint chips, results shall be reported in milligrams of lead per square centimeter and the measure of such laboratory analysis shall be definitive. If laboratory analysis is used to determine lead content, results shall be reported in milligrams of lead per square centimeter. Where the surface area of a paint chip sample cannot be accurately measured or if an accurately measured paint chip sample cannot be removed, a laboratory analysis may be reported in percent by weight. In such case, lead-based paint shall mean any paint or other similar surface-coating material containing more than 0.5% of metallic lead, based on the non-volatile content of the paint or other similar surface-coating material.
+(7) (a) "Lead-based paint" shall mean paint or other similar surface coating material containing 1.0 milligrams of lead per square centimeter or greater, as determined by laboratory analysis, or by an x-ray fluorescence analyzer. If an x-ray fluorescence analyzer is used, readings shall be corrected for substrate bias when necessary as specified by the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings shall be classified as positive, negative or inconclusive in accordance with the United States department of housing and urban development "Guidelines for the Evaluation and Control of Lead-Based Paint Hazards in Housing"  and the performance characteristic sheets released by the United States environmental protection agency and the United States department of housing and urban development for the specific x-ray fluorescence analyzer used. X-ray fluorescence readings that fall within the inconclusive zone, as determined by the performance characteristic sheets, shall be confirmed by laboratory analysis of paint chips, results shall be reported in milligrams of lead per square centimeter and the measure of such laboratory analysis shall be definitive. If laboratory analysis is used to determine lead content, results shall be reported in milligrams of lead per square centimeter. Where the surface area of a paint chip sample cannot be accurately measured or if an accurately measured paint chip sample cannot be removed, a laboratory analysis may be reported in percent by weight. In such case, lead-based paint shall mean any paint or other similar surface-coating material containing more than 0.5 percent of metallic lead, based on the non-volatile content of the paint or other similar surface-coating material.
 
-(8) "Lead-contaminated dust" shall mean dust containing lead at a mass per area concentration of 40 or more micrograms per square foot on a floor, 250 or more micrograms per square foot on window sills, and 400 or more micrograms per square foot on window wells, or such more stringent standards as may be adopted by the department of health and mental hygiene.
+   (b) Notwithstanding paragraph (a) of this subdivision, no less than 10 months after the effective date of this section and upon the promulgation of a rule by the department stating that the federal department of housing and urban development has provided at least one performance characteristic sheet or other sufficient written technical guidance approving a commercially available x-ray fluorescence analyzer tested at the level of 0.5 milligrams of lead per square centimeter, “lead-based paint” shall mean paint or other similar surface coating material containing 0.5 milligrams of lead per square centimeter or greater, as determined by laboratory analysis, or by an x-ray fluorescence analyzer. X-ray fluorescence readings shall be classified as positive or negative in accordance with such performance characteristic sheet or other guidance. If laboratory analysis is used to determine lead content, results shall be reported in milligrams of lead per square centimeter. Where the surface area of a paint chip sample cannot be accurately measured or if an accurately measured paint chip sample cannot be removed, a laboratory analysis may be reported in percent by weight. In such case, lead-based paint shall mean any paint or other similar surface-coating material containing more than 0.25 percent of metallic lead, based on the non-volatile content of the paint or other similar surface-coating material.
+
+   (c) Before and until the effective date of the rule described in paragraph (b) of this subdivision, for the purposes of the department of health and mental hygiene finding unsafe lead paint in a dwelling unit and issuing an order to abate a condition in a dwelling unit where a child of applicable age with an elevated blood lead level resides, pursuant to section 173.13 of the health code, nothing in this article shall prevent the board of health from determining that unsafe lead paint may include paint with a concentration of lead content that is less than the concentration of lead content in paint set forth in paragraph (a) of this subdivision. Such a determination of unsafe lead paint may include paint with a concentration of lead content no less than 0.5 milligrams of lead per square centimeter, as determined by laboratory analysis, or by an x-ray fluorescence analyzer. X-ray fluorescence readings shall be classified as positive or negative in accordance with the manufacturer’s instructions. If laboratory analysis is used to determine lead content, results shall be reported in milligrams of lead per square centimeter. Where the surface area of a paint chip sample cannot be accurately measured or if an accurately measured paint chip sample cannot be removed, a laboratory analysis may be reported in percent by weight. For such purposes, such concentration determined by the board of health pursuant to this paragraph shall be no less than 0.25 percent of metallic lead, based on the non-volatile content of the paint or other similar surface-coating material.
+
+(8) (a) "Lead-contaminated dust" shall mean dust containing lead at a mass per area concentration of 10 or more micrograms per square foot on a floor, 50 or more micrograms per square foot on window sills, and 100 or more micrograms per square foot on window wells, or such more stringent standards as may be adopted by rule of the department of health and mental hygiene, provided that, if the federal environmental protection agency or a successor agency, or the federal department of housing and urban development or a successor agency, adopts lower definitions of lead-contaminated dust, the board of health shall define in the health code such lower levels for the purposes of this subchapter.
+
+   (b) Notwithstanding subdivision (a) of this section, on and after June 1, 2021, “lead-contaminated dust” shall mean dust containing lead at a mass per area concentration of 5 or more micrograms per square foot on a floor, 40 or more micrograms per square foot on window sills, and 100 or more micrograms per square foot on window wells, or such more stringent standards as may be adopted by the board of health, provided that, if the federal environmental protection agency or a successor agency, or the federal department of housing and urban development or a successor agency, adopts lower definitions of lead-contaminated dust, the board of health shall define in the health code such lower levels for the purposes of this subchapter.
 
 (9) "Lead-contaminated dust clearance test" shall mean a test for lead-contaminated dust on floors, window wells, and window sills in a dwelling, that is made in accordance with section 27-2056.11 of this article.
 
@@ -1645,6 +1651,8 @@ Whenever used in this article the following terms shall have the following meani
 (14) "Underlying defect" shall mean a physical condition in a dwelling or dwelling unit that is causing or has caused paint to peel or a painted surface to deteriorate or fail, such as a structural or plumbing failure that allows water to intrude into a dwelling or dwelling unit.
 
 (15) "Window" shall mean the non-glass parts of a window, including but not limited to any window sash, window well, window jamb, window sill, or window molding.
+
+
 
 
 
@@ -1728,13 +1736,15 @@ The existence of lead-based paint in any dwelling unit in a multiple dwelling wh
 *§ 27-2056.7 Audit and inspection by department following commissioner's order to abate.* ::
 
 
-a. When the department of health and mental hygiene issues a commissioner's order to abate pursuant to section 173.13 of the New York city health code or a successor rule that addresses lead-based paint hazards in a specific dwelling unit in a multiple dwelling, the department, within fifteen days of such order, shall notify the owner of the multiple dwelling where the dwelling unit is located that the owner shall, within forty-five days of the department's notice, provide to the department all records required to be maintained under this article. Upon the department's receipt of those records and a determination that there may exist uncorrected lead-based paint hazards in dwelling units where a child of applicable age resides, the department within ten days shall attempt to inspect such units to determine whether there are any violations of section 27-2056.6 of this article.
+a. When the department of health and mental hygiene issues a commissioner's order to abate pursuant to section 173.13 of the New York city health code or a successor rule that addresses lead-based paint hazards or unsafe lead paint in a specific dwelling unit in a multiple dwelling, the department, within fifteen days of such order, shall notify the owner of the multiple dwelling where the dwelling unit is located that the owner shall, within forty-five days of the department's notice, provide to the department all records required to be maintained under this article. Upon the department's receipt of those records and a determination that there may exist uncorrected lead-based paint hazards in dwelling units where a child of applicable age resides, the department within ten days shall attempt to inspect such units to determine whether there are any violations of section 27-2056.6 of this article.
 
 b. If the owner does not provide to the department the records as mandated by subdivision a of this section, the department shall within forty-five days of such failure attempt to inspect dwelling units where a child of applicable age resides to determine whether there are any violations of section 27-2056.6 of this article in such units.
 
 c. The department is not required to undertake the procedures specified in this section in a particular multiple dwelling if it has done so in such building during the prior twelve month period.
 
 d. Any owner who fails to comply with the provisions of this section in accordance with the rules of the department shall be liable for a class C immediately hazardous violation, and a civil penalty in an amount not to exceed one thousand dollars.
+
+
 
 
 
@@ -1818,7 +1828,7 @@ c. The department shall promulgate rules for the implementation and enforcement 
 
 a. The department shall promulgate rules, with the approval of the department of health and mental hygiene, establishing work practices to which an owner shall be subject in each of the following circumstances:
 
-   (1) where an owner is performing work in order to comply with a notice of violation or order to correct issued by the department pursuant to this article, which shall be no less stringent than the safety standards required by the commissioner of health and mental hygiene whenever such commissioner shall order the abatement of lead-based paint hazards pursuant to section 173.13 of the health code or a successor rule. Such rules shall provide for temporary relocation provided by the owner of the occupants of a dwelling or dwelling unit to appropriate housing when work cannot be performed safely. Such rules shall provide that all such work be performed only by firms which have received certification to perform lead abatement under the regulations issued by the United States environmental protection agency at subpart L of 40 CFR part 745, or any successor regulations.
+   (1) where an owner is performing work in order to comply with a notice of violation or order to correct issued by the department pursuant to this article, which shall be no less stringent than the safety standards required by the commissioner of health and mental hygiene whenever such commissioner shall order the abatement of lead-based paint hazards or unsafe lead paint pursuant to section 173.13 of the health code or a successor rule. Such rules shall provide for temporary relocation provided by the owner of the occupants of a dwelling or dwelling unit to appropriate housing when work cannot be performed safely. Such rules shall provide that all such work be performed only by firms which have received certification to perform lead abatement under the regulations issued by the United States environmental protection agency at subpart L of 40 CFR part 745, or any successor regulations.
 
    (2) where an owner, other than in response to an order to correct or notice of violation issued by the department or the department of health and mental hygiene, is performing work that will disturb lead-based paint or paint of unknown lead content in a dwelling unit where a child of applicable age resides or in the common area of the multiple dwelling in which such dwelling unit is located, where such multiple dwelling was erected prior to January first, nineteen hundred sixty, or where the owner has actual knowledge of the presence of lead-based paint and such multiple dwelling was erected on or after January first, nineteen hundred sixty and before January first, nineteen hundred seventy-eight.
 
@@ -1847,6 +1857,8 @@ b. No person shall perform a lead-contaminated dust clearance test pursuant to t
 c. The department, with the approval of the department of health and mental hygiene, shall promulgate rules requiring that all lead-contaminated dust clearance tests submitted to a laboratory for analysis include a sworn certification that such test was performed in compliance with all applicable rules and regulations and shall include any additional information that the department shall determine is necessary for the administration and enforcement of this section.
 
 d. Where an owner is performing work pursuant to paragraph (1) of subdivision a of this section, all lead-contaminated dust clearance test results shall be filed with the department, and a copy shall be provided by the owner to the occupant of the dwelling unit. Where an owner is performing work pursuant to paragraphs (2) and (3) of subdivision a of this section, a copy of all lead-contaminated dust clearance test results shall be provided to the occupant of the dwelling unit. Copies of lead-contaminated dust clearance test results provided to the occupant of the dwelling unit pursuant to this subparagraph shall be in a form satisfactory to or prescribed by the department of health and mental hygiene that provides a sufficiently clear explanation of the meaning of such results.
+
+
 
 
 
@@ -3118,6 +3130,18 @@ e. The department shall prominently display, on its website and in portions of i
 
 
 
+*§ 27-2096.2 Median asking rents.* ::
+
+
+By no later than September 1, 2019 and by September 1 of every year thereafter, the commissioner shall, upon the availability of a statistically significant and representative sample of data, submit to the mayor and the speaker of the council, and publish online, a listing of median asking rents for dwelling units, disaggregated by community district and, if such data is available in a statistically significant and representative sample, by the number of bedrooms.
+
+
+
+
+
+
+
+
 
 **Article 2: Registration**
 
@@ -3331,6 +3355,18 @@ c. The name or title and the address of the person to whom and where notices or 
 b. Any mortgagee who fails to notify the department in accordance with subdivision a of this section shall be liable for a civil penalty enforceable by the department. Such civil penalty shall not exceed one thousand dollars for each week that there is a failure to notify. The failure to notify shall not be deemed to affect in any way any pending legal proceeding related to such residential real property.
 
 c. The provisions of this section shall not apply to any foreclosure actions brought by a governmental entity.
+
+
+
+
+
+
+*§ 27-2109.2 Online portfolio report of registered property owners.* ::
+
+
+The department shall maintain through the department’s website a publicly accessible electronic interface that reports portfolio information based on the name of a property owner. The report shall be based on the last valid information registered with the department pursuant to section 27-2097. Such report shall include (i) the address of each registered property owned by such registered owner; (ii) the current number of outstanding violations issued by the department, disaggregated by class, for each property; (iii) the number of findings of harassment currently on record with the department; and (iv) the number and types of departmental orders pending on each property. The department may provide the aggregate data used to create such website to the public advocate upon request in a form that permits automated processing and downloading.
+
+
 
 
 

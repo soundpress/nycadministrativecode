@@ -1990,6 +1990,8 @@ The title sheet of construction documents for the following buildings shall list
 
 The title sheet of construction documents for a new or substantially improved building, as such term is defined in appendix G of the New York city building code, that contains space classified as an occupancy group I-2 hospital and that is located in an area of special flood hazard or shaded X-Zone, as such terms are defined in appendix G of the New York city building code, shall list whether the requirement to provide connections for temporary external boilers and chillers pursuant to Item 2 of section G304.5.2 is inapplicable as a result of such building having its boiler and chiller plants located at or above the applicable design flood elevation.
 
+Editor's note: § 28-104.7.16 has been added by L.L. 2019/106, 6/8/2019, eff. 3/8/2020.
+
 
 
 
@@ -2340,6 +2342,90 @@ Exceptions:
 It shall be a violation of this code to engage in any development activity with respect to a covered development project without a stormwater construction permit issued by the department of environmental protection. The issuance of a permit pursuant to this code shall not be construed to be permission for any activity that requires a stormwater construction permit issued by the department of environmental protection pursuant to chapter 5-A of title 24 of the administrative code. The issuance of a stormwater construction permit by the department of environmental protection shall not be construed as permission for work that requires a permit from the department of buildings pursuant to this code.
 
 
+
+
+
+
+
+
+*§ 28-105.1.3 Denial of permits for excessive violations.* ::
+
+
+The commissioner shall, no less than once every six months, compile a list of multiple dwellings that includes: (i) all multiple dwellings containing fewer than 35 units that have a ratio of open hazardous or immediately hazardous housing maintenance code violations or immediately hazardous or major construction code violations that equal in the aggregate three or more such violations for every dwelling unit in such multiple dwelling; and (ii) all multiple dwellings containing 35 units or more that have a ratio of open hazardous or immediately hazardous housing maintenance code violations or immediately hazardous or major construction code violations that equal in the aggregate two or more such violations for every dwelling unit in such multiple dwelling. The commissioner shall not issue permits for multiple dwellings on such list. If the owner of a multiple dwelling on such list corrects open hazardous or immediately hazardous housing maintenance code violations or immediately hazardous or major construction code violations in such multiple dwelling so that the ratio of such violations to the number of dwelling units in such multiple dwelling falls below those outlined in this section, the commissioner shall remove such multiple dwelling from such list. Such denial shall not apply where a dwelling unit within such multiple dwelling is owned as a condominium or held by a shareholder of a cooperative corporation under a proprietary lease.
+
+Exceptions:
+
+   1. Where the issuance of such permit is necessary to correct an outstanding violation of this code, the housing maintenance code or any other applicable provisions of law or rule.
+
+   2. Where the issuance of such permit is necessary to perform work to protect public health and safety.
+
+   3. For a portion of a property occupied by a tenant who is not an owner of such property or responsible for any existing violations in such property.
+
+   4. Where a property was the subject of an in rem foreclosure judgment in favor of the city and was transferred by the city to a third party pursuant to section 11-412.1 of the code.
+
+   5. Where a property is the subject of a court order appointing an administrator pursuant to article 7-a of the real property actions and proceedings law in a case brought by the department of housing preservation and development.
+
+   6. Where a property is the subject of a loan provided by or through the department of housing preservation and development or the New York city housing development corporation for the purpose of rehabilitation that has closed within the five years preceding the application for such permit.
+
+   7. For a property where the department of housing preservation and development or the New York city housing development corporation notifies the commissioner that the permit is required in connection with the implementation of a program of such department or corporation.
+
+
+
+
+
+
+
+
+*§ 28-105.1.4 Denial of permits for false statements on applications for construction document approval.* ::
+
+
+The commissioner shall not issue a permit for an occupied building for at least one year following the date of a determination by the commissioner that a false statement about the occupancy status of such building has been made in an application for construction document approval. Such denial shall not apply where a dwelling unit within such multiple dwelling is owned as a condominium or held by a shareholder of a cooperative corporation under a proprietary lease.
+
+Exceptions:
+
+   1. Where the issuance of such permit is necessary to correct an outstanding violation of this code, the housing maintenance code or any other applicable provisions of law or rule.
+
+   2. Where the issuance of such permit is necessary to perform work to protect public health and safety.
+
+   3. For a portion of a property occupied by a tenant who is not an owner of such property or responsible for any existing violations in such property.
+
+   4. Where a property was the subject of an in rem foreclosure judgment in favor of the city and was transferred by the city to a third party pursuant to section 11-412.1 of the code.
+
+   5. Where a property is the subject of a court order appointing an administrator pursuant to article 7-a of the real property actions and proceedings law in a case brought by the department of housing preservation and development.
+
+   6. Where a property is the subject of a loan provided by or through the department of housing preservation and development or the New York city housing development corporation for the purpose of rehabilitation that has closed within the five years preceding the application for such permit.
+
+   7. For a property where the department of housing preservation and development or the New York city housing development corporation notifies the commissioner that the permit is required in connection with the implementation of a program of such department or corporation.
+
+
+
+
+
+
+
+
+*§ 28-105.1.5 Denial of permits for work without permit on occupied building.* ::
+
+
+The commissioner shall not issue a permit for a building for at least one year following the date of a determination by the commissioner that work has been performed without a permit in such building and such building was occupied at the time such work was being performed. Such denial shall not apply where a dwelling unit within such multiple dwelling is owned as a condominium or held by a shareholder of a cooperative corporation under a proprietary lease.
+
+Exceptions:
+
+   1. Where the issuance of such permit is necessary to correct an outstanding violation of this code, the housing maintenance code or any other applicable provisions of law or rule.
+
+   2. Where the issuance of such permit is necessary to perform work to protect public health and safety.
+
+   3. For a portion of a property occupied by a tenant who is not an owner of such property or responsible for any existing violations in such property.
+
+   4. Where a property was the subject of an in rem foreclosure judgment in favor of the city and was transferred by the city to a third party pursuant to section 11-412.1 of the code.
+
+   5. Where a property is the subject of a court order appointing an administrator pursuant to article 7-a of the real property actions and proceedings law in a case brought by the department of housing preservation and development.
+
+   6. Where a property is the subject of a loan provided by or through the department of housing preservation and development or the New York city housing development corporation for the purpose of rehabilitation that has closed within the five years preceding the application for such permit.
+
+   7. For a property where the department of housing preservation and development or the New York city housing development corporation notifies the commissioner that the permit is required in connection with the implementation of a program of such department or corporation.
+
+ 
 
 
 
@@ -2872,6 +2958,18 @@ Where a site safety plan is required by this code or by the department, all work
 
 
 No permit for construction or demolition work for which training is required by section 3321 of the New York city building code shall be issued or renewed until the applicant has certified that all workers who will be working under such permit will have the requisite training throughout the duration of such permit.
+
+
+
+
+
+
+
+
+*§ 28-105.12.10 Tenant protection plan required.* ::
+
+
+Upon issuance of a permit and at any time during such permit period, the commissioner or his or her authorized representatives, in the discharge of their duties, shall have the right to enter, in accordance with applicable law, upon any buildings, enclosures, premises, or any part thereof, or attached thereto for the purposes of an inspection of work pursuant to such permit to ensure that such work is not occurring in an unsafe or dangerous manner, and that such work is being performed in compliance with applicable code provisions. If the commissioner or his or her authorized representative is unable to gain access to such property expeditiously for the purposes of an inspection of work pursuant to such permit and there is a reason to believe that the work is being done in violation of the law, the commissioner shall issue a stop work order. Such stop work order may be rescinded in accordance with section 28-207.2.3.
 
 
 
@@ -4855,6 +4953,18 @@ Before approving construction documents, the commissioner is authorized to exami
 
 
 
+*§ 28-116.2.1.1 Preliminary inspection reporting.* ::
+
+
+By January 1, 2021 and no later than January 1 annually thereafter, the department of buildings shall submit to the mayor and the speaker of the council a report describing the findings of preliminary inspections performed pursuant to section 28-116.2.1 in the preceding year. Such report shall include, but not be limited to: (i) the total number of applications found to have falsely indicated that a building was unoccupied; and (ii) for each application found to have falsely indicated that a building was unoccupied, the location of the associated building and date of filing for such application.
+
+
+
+
+
+
+
+
 *§ 28-116.2.2 Compliance inspections.* ::
 
 
@@ -5661,6 +5771,8 @@ Within 24 hours after gas service to a building is shut off by a utility company
 
 {L.L. 2016/154, 12/6/2016, eff. 3/6/2017)
 
+Editor's note: Article 120 has been added by L.L. 2019/106, 6/8/2019, eff. 3/8/2020 and further amended by L.L. 2019/116, 6/8/2019, eff. 3/8/2020 and L.L. 2019/118, 6/8/2019, eff. 3/8/2020.
+
 
 
 
@@ -6061,6 +6173,30 @@ In addition to any other penalties or remedies provided by law or rule, the foll
 3. Upon a finding by the office of administrative trials and hearings, acting pursuant to section 1049-a of the New York city charter, or a court of competent jurisdiction that a second or subsequent violation of section 3321 of the New York city building code has occurred at a building site, the commissioner shall conduct at least one unannounced inspection of such site at least once every three months to determine compliance with such section. Such inspections shall continue until at least two consecutive inspections do not result in the issuance of a notice of violation of such section.
 
 4. Upon a finding by the office of administrative trials and hearings, acting pursuant to section 1049-a of the New York city charter, or a court of competent jurisdiction that the owner of a building site, a permit holder at such site or a person employing or otherwise engaging workers at such site has violated section 3321 of the New York city building code and such violation is a second or subsequent violation of such section by such owner, permit holder or person, the commissioner shall conduct at least one unannounced inspection of (i) each building site owned by such owner, if such violation is a second or subsequent violation by such owner, (ii) each building site where such permit holder works, if such violation is a second or subsequent violation by such permit holder and (iii) each building site where such person works, if such violation is a second or subsequent violation by such person.
+
+
+
+
+
+
+
+
+*§ 28-204.1.2 Notice of violating conditions outside of occupied dwelling units.* ::
+
+
+An owner must post a copy of a notice of violation that relates to a violating condition outside of an occupied dwelling unit, including in a common area or affecting all residents, of such owner’s building in a conspicuous manner in the building’s lobby until such violation has been closed. In addition, such owner shall post a flyer or pamphlet, created by the department, with information about the adjudication process. Such notice of violation and flyer or pamphlet shall be posted as soon as practicable, but no later than five calendar days after it has been served.
+
+
+
+
+
+
+
+
+*§ 28-204.1.3 Notice to occupants of violating conditions in occupied dwelling units.* ::
+
+
+An owner must distribute a copy of a notice of violation to the resident of an occupied dwelling unit where such violation relates to a violating condition that is present within such dwelling unit, and to residents of occupied dwelling units adjacent to such dwelling unit. In addition, such owner shall provide such residents with a flyer or pamphlet, created by the department, with information about the adjudication process. Such notice of violation and flyer or pamphlet shall be distributed to such occupied dwelling units as soon as practicable, but no later than five calendar days after it has been served.
 
 
 
@@ -6786,6 +6922,54 @@ In addition to any other penalty provided by law, the commissioner may refuse to
 
 
 It shall be unlawful for any person to falsely represent himself or herself as an officer, inspector or employee of the department, or as acting under the authority of the department, or without authority to use, wear or display a shield or other insignia or emblem such as is worn by such officer, inspector or employee.
+
+
+
+
+
+
+*§ 28-211.1.3 Notification to other government agencies.* ::
+
+
+Where the department makes a determination that a person has violated section 28-211.1, the department shall send written notice to the council, the department of investigation, New York state division of housing and community renewal and the state tenant protection unit, and shall refer such finding to the district attorney of the county in which the property is located and the state attorney general.
+
+
+
+
+
+
+
+
+*§ 28-211.1.4 Reporting.* ::
+
+
+By no later than January 30 of each year, the department shall submit a report to the mayor and to the speaker of the council that indicates the actions it took in every instance in which it made a determination that a person had violated section 28-211.1.
+
+
+
+
+
+
+
+
+*§ 28-211.3 Identifying unlawful statements.* ::
+
+
+The department, in coordination with the department of finance, shall collect information from the department of finance regarding occupied and rent regulated buildings to identify violations of section 28-211.1. The department shall also request information from the New York state division of housing and community renewal regarding occupied and rent regulated buildings to identify violations of section 28-211.1.
+
+
+
+
+
+
+
+
+*§ 28-211.3.1 Required audits.* ::
+
+
+If the department determines that a person has violated section 28-211.1, or that the person has performed work in violation of section 28-105.1 in a building that is occupied as a dwelling, the department shall conduct an audit of filings for all buildings owned by such person and located in the city to determine if other violations of 28-211.1 have occurred with respect to other buildings owned by such person. If more than five amendments to approved construction documents have been submitted to the department within a six month period for a single building, and where such amendments indicate (i) a change in occupancy, (ii) a change in whether the building contains occupied housing accommodations subject to rent control or rent stabilization under chapters 3 and 4 of title 26 of the code or (iii) a change that would require the person to submit an application for a new permit to the department, the department shall conduct an audit of all properties owned by such person and located in the city to determine if any statements were made that are unlawful pursuant to section 28-211.1. At least once per year, the department shall audit no less than 25 percent of buildings placed on the watch list established by article 3 of subchapter 4 of chapter 2 of title 27 for compliance with building permit requirements, including whether section 28-211.1 has been violated.
+
+
 
 
 
