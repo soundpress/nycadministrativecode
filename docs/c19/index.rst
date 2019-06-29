@@ -3677,13 +3677,15 @@ a. An authorization to operate a commuter van service shall be revoked after the
 
    (3) Where a commuter van driver has had his or her license revoked pursuant to subdivision p of section 19-505 of this chapter while operating as part of such authorization and thereafter is found to be operating a commuter van as part of such authorization without a commuter van driver's license required pursuant to section 19-505 of this chapter three times within a six month period; or
 
-   (4) Where the number of violations of paragraph five of subdivision a of section 19-504.3 of this chapter occurring within a twelve month period is equal to the following: ninety percent of the number of commuter vans authorized to operate as part of such authorization rounded up to the next whole number, or five, whichever is greater.
+   (4) Where three or more violations of paragraph five of subdivision a of section 19-504.3 of this chapter occur within a six month period. Provided, however, that such authorization shall be suspended for 15 days where two violations of paragraph five of subdivision a of section 19-504.3 of this chapter occur within a six-month period after the holder of such authorization has had an opportunity for a hearing in accordance with procedures to be established by the commission.
 
 b. Any commuter van license shall be revoked after the holder of such license has had an opportunity for a hearing in accordance with procedures to be established by the commission and after which the holder of such license is found guilty of any of the following:
 
-   (1) Failure to maintain the required liability insurance three times within a period of one year; or
+   (1) Failure to maintain the required liability insurance three times within a period of one year;
 
-   (2) Operating without complying with any safety inspection requirements arising from any applicable law, rule or regulation three times within a period of one year.
+   (2) Operating without complying with any safety inspection requirements arising from any applicable law, rule or regulation three times within a period of one year; or
+
+   (3) Two or more violations of subdivision n of section 19-506 within a period of one year.
 
 c. The commission may refuse to renew any authorization to operate a commuter van service or any commuter van license or commuter van driver's license required by this chapter and, after due notice and an opportunity to be heard, may suspend or revoke any such authorization or license upon the occurrence of any one or more of the following conditions:
 
@@ -3710,6 +3712,8 @@ e. Where the commission suspends or revokes an authorization to operate a commut
 f. Notwithstanding any other provision of law, any person who has had an authorization to operate a commuter van service revoked by the commission pursuant to this section shall not be permitted to apply for an authorization to operate a commuter van service under this chapter for a period of six months after the date of such revocation.
 
 g. The commission shall notify the holder of an authorization to operate a commuter van sevice of all violations issued to any driver or vehicle operating pursuant to such authorization.
+
+
 
 
 
@@ -3852,6 +3856,8 @@ k. No driver of any vehicle with a valid HAIL license shall accept a passenger b
 l. A person is guilty of unlawful fleeing a New York city taxi and limousine enforcement officer or police officer when, knowing that he or she has been directed to remain stopped by a New York city taxi and limousine enforcement officer or police officer, the driver of a vehicle operating pursuant to a HAIL license who is stopped in a zone where he or she is not permitted to pick up street hails thereafter attempts to flee such officer by setting the vehicle in motion and either travels over three hundred feet without stopping or engages in conduct constituting reckless driving as defined in section twelve hundred twelve of the vehicle and traffic law. Unlawful fleeing a New York city taxi and limousine enforcement officer or police officer is a misdemeanor punishable by a fine of not less than seven hundred fifty dollars nor more than one thousand dollars, or by imprisonment of not more than ninety days or by both such fine and imprisonment. Notwithstanding any contrary provision of law, any charge alleging a violation of this subdivision shall be returnable before a court having jurisdiction over misdemeanors.
 
 m. On or before February 1, 2013 and on a quarterly basis thereafter, the commission shall post on its website and provide to the council a report for the prior quarter that includes, at a minimum, the following information, subject to the manner that such data is available: (i) the number of criminal actions commenced pursuant to paragraph one of subdivision b of this section; (ii) the number of criminal actions commenced pursuant to paragraph two of subdivision b of this section; (iii) the number of civil actions commenced pursuant to paragraph one of subdivision e of this section; (iv) the number of civil actions commenced pursuant to paragraph two of subdivision e of this section; and (v) the number of vehicles seized pursuant to paragraph one of subdivision h of this section, disaggregated by whether such vehicle was seized for a violation of paragraph one or two of subdivision b of this section. Such report shall also be disaggregated by borough and precinct.
+
+n. A person who holds a commuter van license must not allow such commuter van to be operated by a driver who does not hold a commuter van driver’s license issued pursuant to section 19-505. A violation of this subdivision shall result in a civil penalty of $500 and suspension of the commuter van license until the person who holds such license submits an affirmation to the commission affirming that the vehicle which gave rise to such violation will only be operated by a driver who holds a commuter van driver’s license issued pursuant to section 19-505.
 
 
 
