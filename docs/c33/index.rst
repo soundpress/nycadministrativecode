@@ -192,3 +192,17 @@ c. The annual report shall include, but need not be limited to, the following in
 
 
 
+
+
+*§ 31-110 Outreach and engagement on issues related to higher education.* ::
+
+
+a. The commissioner, in consultation with the department of consumer affairs and any other agencies identified by the mayor, shall establish and coordinate outreach and engagement efforts to inform veterans about financial issues and resources related to higher education, including, but not limited to: government programs and other resources available to veterans, resources on how to minimize student debt, student loan repayment options and programs for veterans, the risks of for-profit or fraudulent colleges and trade schools, how to identify predatory for-profit institutions and lower-cost alternatives to for-profit higher education.
+
+b. The materials developed pursuant to subdivision a of this section shall be made available on the department’s website, at each veterans resource centers established pursuant to section 31-106 and in printed form upon request.
+
+
+
+
+
+

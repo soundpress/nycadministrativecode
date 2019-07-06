@@ -9990,6 +9990,64 @@ Exception: Accessible entrance signs that are posted at building entrances in co
 
 
 
+*§ 28-313.3 Retroactive requirement for signage and safety requirements for portable ramps at inaccessible building entrances where such ramps are permissible.* ::
+
+
+The provisions of item 7 of section 1110.3 of the New York city building code requiring that signage stating a portable ramp is available, if provided by the building, and the phone number to request such ramp, be posted at inaccessible building entrances shall apply retroactively to all prior code buildings that have such portable ramps where use of such a ramp is permissible. The use of a portable ramp by any building must comply with all applicable laws, and must comply with Section 405 (Ramps) of ICC A117.1 except to the extent the commissioner has waived a requirement pursuant to section 28-313.3.1. All signage posted pursuant to this section shall comply with Section 1110 of the New York city building code and be maintained in good condition. Nothing in this section shall be construed to authorize the provision of a portable ramp where such provision would not otherwise be lawful.
+
+
+
+
+
+
+
+
+*§ 28-313.3.1 Waiver of requirements related to portable ramps at inaccessible building entrances where such ramps are permissible.* ::
+
+
+The commissioner may waive the requirement of section 28-313.3 that all portable ramps used by prior code buildings must comply with Section 405 (Ramps) of ICC A117.1, provided, however, that such waiver would not significantly adversely affect safety and that equally safe and proper alternatives are prescribed and, further, that such waiver is based upon a specific finding by the commissioner that strict compliance with the requirement:
+
+1. Would create an undue economic burden;
+
+2. Would not achieve its intended objective;
+
+3. Would be physically or legally impossible;
+
+4. Would be unnecessary in light of alternatives which ensure the achievement of the intended objective or which, without a loss in the level of safety, achieve the intended objective more efficiently, effectively or economically; or
+
+5. Would entail a change so slight as to produce a negligible additional benefit.
+
+
+
+
+
+
+
+
+*§ 28-313.3.2 Waiver application process.* ::
+
+
+Each application for a waiver under section 28-313.3.1 shall be made to the commissioner in writing, setting forth each requirement of Section 405 (Ramps) of ICC A117.1 sought to be waived and the specific reason or reasons therefore. The commissioner shall determine, under all of the circumstances presented by such application, which of such requirements may appropriately be waived. The commissioner shall render such determination in a writing, which shall set forth in detail the commissioner's findings and conclusions with respect to each requirement sought to be waived. A copy of such written determination shall be forwarded to the applicant. Such written determination shall be filed with the department and shall be available for public inspection.
+
+
+
+
+
+
+
+
+*§ 28-313.3.3 Waiver recommendation.* ::
+
+
+The mayor's office for people with disabilities, or its successor agency shall be consulted by and shall advise the commissioner concerning each application for a waiver under section 28-313.3.1.
+
+
+
+
+
+
+
+
 
 **Article 314: Periodic Wastewater Recycling System Inspection and Testing**
 
@@ -10276,6 +10334,18 @@ The posting of directional signage at inaccessible building entrances in accorda
 
 
 The posting of signage at accessible building entrances in accordance with the retroactive requirements of section 28-313.2 of this code shall be completed on or before August 1, 2013.
+
+
+
+
+
+
+*§ 28-315.6.3 Signage for portable ramps at inaccessible building entrances where such ramps are permissible.* ::
+
+
+The posting of signage for portable ramps at inaccessible building entrances where such a ramp is permissible in accordance with the requirements of item 7 of 1110.3 of the New York city building code shall be completed on or before March 1, 2020.
+
+
 
 
 

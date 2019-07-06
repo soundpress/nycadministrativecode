@@ -1640,6 +1640,40 @@ b. No fewer than two diagonally opposite corners on each street intersection sha
 
 
 
+*§ 19-159.3 Temporary bicycle lanes.* ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   Bicycle lane. The term “bicycle lane” means a portion of the roadway that has been marked off or separated for the preferential or exclusive use of bicycles.
+
+   Temporary bicycle lane. The term “temporary bicycle lane” means a bicycle lane intended to be used for a limited period of time during which construction or other work prevents or otherwise affects use of a bicycle lane on a roadway, street segment or intersection.
+
+b. Requirements. Any permit issued by the commissioner authorizing work affecting a street segment or intersection that has a bicycle lane shall include a stipulation requiring that the applicant maintain a temporary bicycle lane, and shall specify the particular manner in which the applicant shall maintain the temporary bicycle lane for such street segment or intersection. Notwithstanding the foregoing, in the event the commissioner determines that maintenance of a temporary bicycle lane is not feasible on such street segment or intersection, such determination shall not prohibit issuance of the permit, provided however that the permit shall set forth such other measures the applicant must take to protect public safety, including persons utilizing bicycles on such street segment or intersection.
+
+c. Notice requirement for work affecting a street segment or intersection that has a bicycle lane. Upon approving an application for a permit authorizing work affecting a street segment or intersection that has a bicycle lane, the department shall provide notice, through electronic means, to the affected borough president, the council member of the affected council district and the district manager of the affected community board. Such notice shall include the following information:
+
+   1. The name and contact information of the applicant;
+
+   2. The anticipated start and end dates of the work;
+
+   3. The location, nature and extent of the work to be performed;
+
+   4. The permit type;
+
+   5. Any permit stipulations related to the maintenance of a temporary bicycle lane; and
+
+   6. Contact information for a department office where questions may be directed.
+
+d. In the event a permittee violates any stipulation required by subdivision b of this section, the commissioner may revoke or refuse to renew such permit pursuant to subdivision e of section 19-103 or take any other action authorized by law.
+
+
+
+
+
+
+
+
 
 **Subchapter 2: Parking and Other Uses of Streets**
 
@@ -2518,6 +2552,38 @@ d. 1. For purposes of this subdivision, "arterial streets"shall mean high-capaci
 a. Every four years, the department shall publish a manual of policies and design guidelines for the improvement of roads and sidewalks in the city of New York. The manual shall serve as a comprehensive resource for promoting higher quality street designs and more efficient project implementation. The manual shall cover a variety of topics related to street design, including but not limited to complete street design features, materials, street lighting, street furniture, and landscaping. For purposes of this section, "complete street design features" shall mean roadway design features that accommodate and facilitate convenient access and mobility by all users, including current and projected users, particularly pedestrians, bicyclists and individuals of all ages and abilities, and may include, but need not be limited to: sidewalks, paved shoulders suitable for use by bicyclists, lane striping, bicycle lanes, share the road signage, crosswalks, road diets, pedestrian control signalization, bus pull outs, curb cuts, raised crosswalks, ramps and traffic calming measures.
 
 b. The manual of policies and design guidelines and any updates thereto shall be disseminated by electronic mail to other mayoral agencies, community boards, the speaker of the council and other city elected officials and posted on the department's official website by the thirtieth day of november, two thousand fifteen and every four years thereafter.
+
+
+
+
+
+
+*§ 19-182.2 Street design checklist* ::
+
+
+a. As used in this section, the following terms have the following meanings:
+
+   ADA accessibility. The term “ADA accessibility” means compliance with part 36 of title 28 of the code of federal regulations implementing the Americans with disabilities act of 1990.
+
+   Daylighting. The term “daylighting” means street design elements for enhancing visibility of cross traffic and pedestrians for motorists approaching an intersection.
+
+   Major transportation project. The term “major transportation project” has the same meaning as such term is defined in section 19-101.2.
+
+   Narrow vehicle lane. The term “narrow vehicle lane” means a vehicular lane that is not greater than 10 feet wide.
+
+   Pedestrian safety island. The term “pedestrian safety island” means an area located at a crosswalk that serves as pedestrian refuge separating traffic lanes or directions, particularly on wide roadways.
+
+   Protected bicycle lane. The term “protected bicycle lane” means a portion of a street or intersection intended for the preferential or exclusive use of bicycles separated from motorized vehicle traffic by vertical delineation or physical barriers in accordance with department design standards.
+
+   Wide sidewalk. The term “wide sidewalk” means a sidewalk that is at least eight feet wide.
+
+b. Notwithstanding any inconsistent provision of law or rule, the department shall develop a standard checklist of safety-enhancing street design elements for all major transportation projects. Such checklist shall include but need not be limited to the following elements: (i) ADA accessibility; (ii) protected bicycle lanes; (iii) dedicated mass transit facilities such as bus lanes and bus bulbs; (iv) dedicated vehicle loading and unloading zones; (v) narrow vehicle lanes; (vi) pedestrian safety islands; (vii) signal-protected pedestrian crossings; (viii) signal retiming; (ix) wide sidewalks; and (x) daylighting. The department may amend the standard checklist by rule to promote vehicular, pedestrian, and bicycle safety.
+
+c. The department shall post the standard checklist required by subdivision b of this section on its website. For each major transportation project to be implemented on or after November 1, 2019, the department shall post on its website, prior to implementation, a checklist for such project and, if any element on such checklist has not been included in the project, an explanation why such element was not applicable or otherwise not included.
+
+d. If an agency other than the department implements a major transportation project, such agency shall consider, in consultation with the department, if safety-enhancing street design elements, including those on the checklist, should be included in such project.
+
+
 
 
 

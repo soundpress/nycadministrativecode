@@ -392,40 +392,61 @@ a. For the purposes of this section, the following terms have the following mean
    Substitutions. The term "substitutions" means any extracurricular activities including, but not limited to, intramural and extramural athletic team activities or any other program which the department deems satisfies the state requirement for physical education instruction. 
 											
 
-b. Not later than August 31, 2016, and annually thereafter on or before August 31, the department shall submit to the council and post conspicuously on the department's website, in a manner searchable by individual school, school district, and borough, a report for the preceding academic year which shall include, but not be limited to the following: 
+b. Not later than August 31, 2016, and annually thereafter on or before August 31, the department shall submit to the council and post conspicuously on the department's website a physical education report for the preceding academic year which shall include, but not be limited to the following information on a citywide basis:
+
+   1. The total number of students and average physical education class size;
+
+   2. The average frequency and average total minutes per week of physical education instruction provided to students;
+
+   3. The number and percentage of students who are receiving the required amount of physical education instruction;
+
+   4. The number and percentage of students who have an individualized education program that recommends adaptive physical education;
+
+   5. The number of designated full-time and part-time certified instructors providing physical education instruction; the ratio of certified instructors to students, including whether such instructor is a full-time certified instructor, part-time certified instructor, or uncertified instructor; the number of certified instructors who have received professional development concerning physical education instruction provided by the department in the preceding two school years; and the total number of certified instructors who attended multiple sessions of professional development concerning physical education instruction provided by the department in the preceding two school years, disaggregated by the number of trainings attended;
+
+   6. Information on all designated indoor and outdoor facilities used by the school for physical education instruction including, but not limited to:
+
+      (a) Information on all designated physical education instruction spaces inside or attached to the school including (i) the size of the space in square feet; (ii) whether the space is used for any purpose other than physical education instruction; and (iii) whether the space is used by any other schools including co-located schools in the same building and the names of such schools;
+
+      (b) Information regarding all off-site indoor and outdoor spaces that are used by the school for the purpose of physical education instruction, including but not limited to (i) the name and the location of the off-site space or facility; and (ii) whether the space is being used by any other schools including co-located schools in the same building and the names of such schools;
+
+   7. Information regarding the department's supplemental physical education program, including but not limited to, "Move to Improve";
+
+   8. The number of students who were permitted a substitution by the department;
+
+   9. A cross-referenced list of schools, including co-located schools, that share certified instructors with at least one other school and the number of certified instructors that are shared;
+
+   10. A description of the department's physical education scope and sequence, including the topics covered by such physical education scope and sequence; whether the department's physical education scope and sequence satisfies the requirements for physical education instruction pursuant to the New York state education department regulations; and the date of the last assessment and update of the physical education scope and sequence; and
+
+c. Disaggregation of data.
+
+   1. The data required pursuant to this section shall be disaggregated by borough, community school district, district 75, and individual school. 
 											
 
-   1. The average frequency and average total minutes per week of physical education instruction provided to students in each grade level in each school, 
+   2. The data required pursuant to paragraphs 2, 3, 4, and 8 of subdivision b of this section shall be disaggregated by demographic information including, but not limited to, the following categories: 
 											
 
-   2. For each grade level in each school, data specifying the frequency and total minutes per week of physical education instruction received by students in that grade, including (i) the number and percentage of students who are receiving the required amount of physical education instruction; (ii) the number and percentage of students who are receiving less physical education than required; and (iii) the number and percentage of students who have an individualized education program that recommends adaptive physical education. This data shall be disaggregated by (i) race and ethnicity; (ii) gender; (iii) special education status; and (iv) English language learner status; 
+      (a) Grade; 
 											
 
-   3. The number of designated full-time and part-time certified instructors providing instruction at the school; and the ratio of full time certified instructors to students at the school; 
+      (b) Race or ethnicity; 
 											
 
-   4. Information on all designated indoor and outdoor facilities used by the school for physical education instruction including, but not limited to: 
+      (c) Gender; 
 											
 
-      (a) Information on all designated physical education instruction spaces inside or attached to the school including (i) the size of the space in square feet; (ii) whether the space is used for any purpose other than physical education instruction; and (iii) whether the space is used by any other schools including co-located schools in the same building; 
+      (d) Special education status; and 
 											
 
-      (b) Information regarding all off-site indoor and outdoor spaces that are used by the school for the purpose of physical education instruction, including but not limited to (i) the name and the location of the off-site space or facility; and (ii) whether the space is being used by any other schools including co-located schools in the same building; 
+      (e) English language learner status. 
 											
 
-   5. Information regarding the department's supplemental physical education program, including but not limited to, "Move to Improve"; 
+d. [Reserved.]
+
+e. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or allows another category to be narrowed to between one and five students, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information. 
 											
 
-   6. Information regarding the number of students who were permitted a substitution by the department; and 
-											
-
-   7. A list of schools, including co-located schools, that share certified instructors with at least one other school. 
-											
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol. 
-											
-
- 
+(L.L. 2015/102, 11/4/2015; Am. L.L. 2019/127, 6/29/2019) 
 											
 
 
@@ -1523,6 +1544,57 @@ a. No later than 15 days before the start of each school year, the department sh
 b. Such materials shall be made available on the department’s website in English and in each of the designated citywide languages as defined in section 23-1101.
 
 
+
+
+
+
+Chapter 27: After School Athletic Funding
+--------------------------------------------------
+
+
+
+*§ 21-998 After school athletic funding.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Athletic facility. The term “athletic facility” means an indoor or outdoor facility used by high schools for athletics.
+
+   Athletics. The term “athletics” means after school interscholastic athletic competition for students.
+
+   High school. The term “high school” means a school of the city school district of the city of New York that contains any combination of grades from and including grade nine through grade 12.
+
+   Student. The term “student” means any pupil under the age of 21 as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a high school.
+
+b. No later than December 1, 2019, and annually thereafter, the department shall submit to the speaker of the council and post on the department’s website an athletics report for the preceding academic year, which shall include, but not be limited to, the following:
+
+   1. For each high school, the total amount of funding provided by the department for athletics and the amount of such funding allocated for each of the following categories: (i) coaches and athletic directors, and (ii) other than personal service related to the public schools athletic league;
+
+   2. For each high school, the total number of students participating in athletics and the number and percentage of such students disaggregated by:
+
+      (a) Race or ethnicity;
+
+      (b) Gender;
+
+      (c) Special education status;
+
+      (d) English language learner status; and
+
+      (e) Calendar year of entry to grade nine;
+
+   3. A list of all criteria used by the department when making decisions about new team requests including any changes in the criteria from the preceding academic year;
+
+   4. A list of all new team requests received by the department, including the high school that submitted such request, whether each request was approved or denied by the department and the reason for such approval or denial; and
+
+   5. A list of all athletic facilities used by high schools in the prior academic year, including athletic facilities under the jurisdiction of the department of parks and recreation.
+
+c. The report required pursuant to this section shall provide citywide data, as well as data disaggregated by borough and community school district, except that paragraph 5 of subdivision b of this section shall be disaggregated solely by borough.
+
+d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interest of law enforcement. If a category contains between one and five students, or allows another category to be narrowed to between one and five students, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
+
+
+
+Editor's note: Section 2 of L.L. 2019/120 provides: "This local law takes effect immediately and expires and is deemed repealed upon the issuance of the report due on December 1, 2026 as required by section one of this local law."
 
 
 

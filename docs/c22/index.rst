@@ -1866,6 +1866,22 @@ e. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+
+
+*§ 21-209 Mental health training for senior center case workers.* ::
+
+
+a. Definitions. For the purposes of this section, the term “caseworker” means an individual employed by a senior center that receives funding from the department to provide services on-site pursuant to a contract procured under chapter 13 of the charter and through a source selection method established by procurement policy board rule, who provides case assistance, information and referrals for benefits and social services at such a senior center.
+
+b. Each caseworker shall complete a training to recognize the signs and symptoms of mental illness for older adults offered by the department of health and mental hygiene or a successor agency, provided that such department offers such training.
+
+c. At least once every three years after completing the training described in subdivision b of this section, each caseworker shall receive supplemental refresher training, provided that the department of health and mental hygiene or a successor agency offers such training.
+
+
+
+
+
+
 Chapter 3: Department of Homeless Services
 --------------------------------------------------
 
