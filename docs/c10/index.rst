@@ -15105,6 +15105,12 @@ For criminal penalties, see article thirty-seven of the tax law.
 
 (l) Disclosure of certain information where more than one person is subject to penalty. If the commissioner of taxation and finance determines that a person is liable for a penalty under subdivision (g) of section 11-1785 of this title with respect to any failure, upon request in writing of such person, such commissioner shall disclose in writing to such person (1) the name of any other person whom such commissioner has determined to be liable for such penalty with respect to such failure, and (2) whether such commissioner has attempted to collect such penalty from such other person, the general nature of such collection activities, and the amount collected.
 
+(m) (1) Notwithstanding the provisions of subdivision (e) of this section, upon written request from the chairperson of the committee on ways and means of the United States House of Representatives, the chairperson of the committee on finance of the United States Senate, or the chairperson of the joint committee on taxation of the United States Congress, the commissioner of taxation and finance shall furnish such committee with any current or prior year returns specified in such request that were filed under this article by the president of the United States, vice-president of the United States, member of the United States Congress representing New York state, or any person who served in or was employed by the executive branch of the government of the United States on the executive staff of the president, in the executive office of the president, or in an acting or confirmed capacity in a position subject to confirmation by the United States senate; or, in New York state: a statewide elected official, as defined in paragraph (a) of subdivision one of section seventy-three-a of the public officers law; a state officer or employee, as defined in subparagraph (i) of paragraph (c) of subdivision one of such section seventy-three-a; a political party chairperson, as defined in paragraph (h) of subdivision one of such section seventy-three-a; a local elected official, as defined in subdivisions one and two of section eight hundred ten of the general municipal law; a person appointed, pursuant to law, to serve due to vacancy or otherwise in the position of a local elected official, as defined in subdivisions one and two of section eight hundred ten of the general municipal law; a member of the state legislature; or a judge or justice of the unified court system; provided however that, prior to furnishing any return, the commissioner shall redact any copy of a federal return (or portion thereof) attached to, or any information on a federal return that is reflected on, such return, and any social security numbers, account numbers and residential address information.
+
+   (2) No returns shall be furnished pursuant to this subdivision unless the chairperson of the requesting committee certifies in writing that such returns have been requested related to, and in furtherance of, a legitimate task of the Congress, that the requesting committee has made a written request to the United States secretary of the treasury for related federal reports or returns or report or return information, pursuant to 26 U.S.C. Section 6103(f), and that if such requested returns are inspected by and/or submitted to another committee, to the United States House of Representatives, or to the United States Senate, then such inspection and/or submission shall occur in a manner consistent with federal law as informed by the requirements and procedures established in 26 U.S.C. Section 6103(f).
+
+
+
 
 
 
@@ -17042,6 +17048,39 @@ Where the conveyance consists of a transfer of property made as a result of an o
 
 
 
+Chapter 23: Surcharge On off-track Winnings
+--------------------------------------------------
+
+
+
+*§ 11-2301 Surcharge on off-track winnings.* ::
+
+
+There shall be a surcharge of five percent of the portion of pari-mutuel wagering pools distributable to persons having placed bets at off-track betting facilities located within the city. The revenues derived from such surcharge, plus the breaks, shall be held separate and apart from any amounts otherwise authorized to be retained from pari-mutuel pools.
+
+
+
+
+
+
+*§ 11-2302 Distribution of revenues.* ::
+
+
+The revenues received from the surcharge imposed by this chapter, plus the breaks, shall be distributed monthly as follows:
+
+(a) fifty percent to New York city, or to the counties and cities entitled to receive revenues from the regional off-track betting corporation pursuant to section five hundred sixteen of the racing, pari-mutuel wagering and breeding law and in the same proportion as provided therein, or to an off-track betting operator; and the balance as follows:
+
+(b) where the track conducting the race on which the bet was placed is located within a city with a population in excess of one hundred thousand, to such city;
+
+(c) where the track conducting the race on which the bet was placed is not located within a city with a population in excess of one hundred thousand, to the county in which such track is located; (d) where the track conducting the race on which the bet was placed is located partially within New York city and partially within a county, twenty-five percent of such balance to the city and the remainder to the county; and
+
+(e)*   where the track conducting the race on which the bet was placed is located outside the state, in the same manner as set forth in subdivision (a) of this section.
+
+* Editor's note: so in original.
+
+
+
+
 Chapter 22: Tax On Owners of Motor Vehicles
 --------------------------------------------------
 
@@ -17357,39 +17396,6 @@ This chapter shall be construed and enforced in conformity with subdivisions (g)
 
 
 All revenues resulting from the imposition of the tax under this chapter shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city, but no part of such revenues may be expended unless appropriated in the annual budget of the city.
-
-
-
-
-Chapter 23: Surcharge On off-track Winnings
---------------------------------------------------
-
-
-
-*§ 11-2301 Surcharge on off-track winnings.* ::
-
-
-There shall be a surcharge of five percent of the portion of pari-mutuel wagering pools distributable to persons having placed bets at off-track betting facilities located within the city. The revenues derived from such surcharge, plus the breaks, shall be held separate and apart from any amounts otherwise authorized to be retained from pari-mutuel pools.
-
-
-
-
-
-
-*§ 11-2302 Distribution of revenues.* ::
-
-
-The revenues received from the surcharge imposed by this chapter, plus the breaks, shall be distributed monthly as follows:
-
-(a) fifty percent to New York city, or to the counties and cities entitled to receive revenues from the regional off-track betting corporation pursuant to section five hundred sixteen of the racing, pari-mutuel wagering and breeding law and in the same proportion as provided therein, or to an off-track betting operator; and the balance as follows:
-
-(b) where the track conducting the race on which the bet was placed is located within a city with a population in excess of one hundred thousand, to such city;
-
-(c) where the track conducting the race on which the bet was placed is not located within a city with a population in excess of one hundred thousand, to the county in which such track is located; (d) where the track conducting the race on which the bet was placed is located partially within New York city and partially within a county, twenty-five percent of such balance to the city and the remainder to the county; and
-
-(e)*   where the track conducting the race on which the bet was placed is located outside the state, in the same manner as set forth in subdivision (a) of this section.
-
-* Editor's note: so in original.
 
 
 

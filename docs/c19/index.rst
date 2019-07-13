@@ -5732,136 +5732,50 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 
 
 
-*§ 19-901 Definitions.* ::
+*§ 19-901 Definitions. [Repealed]* ::
 
 
-For the purposes of this chapter, the following terms have the following meanings:
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
 
-OATH. The term "OATH" means an administrative tribunal within the jurisdiction of the office of administrative trials and hearings, as established in chapter 45-a of the charter.
 
-Owner. The term "owner" has the meaning provided in article 2-B of the vehicle and traffic law.
 
-Photo speed violation monitoring system. The term "photo speed violation monitoring system" means a vehicle sensor installed to work in conjunction with a speed measuring device which automatically produces two or more photographs, two or more microphotographs, a videotape or other recorded images of each vehicle at the time it is used or operated in a school speed zone in violation of section 19-902, in accordance with the provisions of this chapter.
 
-School speed zone. The term "school speed zone" means a distance not to exceed 1,320 feet on a street passing a school building, entrance or exit of a school abutting on the street.
 
-Vehicle. The term "vehicle" has the meaning provided in section 159 of the vehicle and traffic law.
 
+*§ 19-902 Speeding in school speed zones prohibited. [Repealed]* ::
 
 
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
 
 
 
 
 
-*§ 19-902 Speeding in school speed zones prohibited.* ::
 
+*§ 19-903 Penalties. [Repealed]* ::
 
-a. It shall be unlawful to exceed the posted maximum speed limit by more than 10 miles per hour in a school speed zone.
 
-b. The prohibition set forth in this section shall not affect the speed limits in effect as provided in subdivisions (b), (c), (d), (f) or (g) of section 1180 of the vehicle and traffic law or section 19-177 of this code, or otherwise in effect pursuant to applicable law. Nothing in this chapter shall affect the city's ability to enforce such speed limits.
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
 
 
 
 
 
 
+*§ 19-904 System maintenance and operation. [Repealed]* ::
 
 
-*§ 19-903 Penalties.* ::
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
 
 
-a. Notwithstanding any other provision of law, the owner of a vehicle shall be liable for the failure of an operator thereof to comply with section 19-902:
 
-   1. when a school speed limit is in effect as provided in paragraphs 1 and 2 of subdivision (c) of section 1180 of the vehicle and traffic law; or
 
-   2. when other speed limits are in effect as provided in subdivision (b), (d), (f) or (g) of section 1180 of the vehicle and traffic law during the following times:
 
-      (A) on school days during school hours and one hour before and one hour after the school day;
 
-      (B) a period during student activities at the school and up to 30 minutes immediately before and up to 30 minutes immediately after such student activities; and
+*§ 19-905 Implementation. [Repealed]* ::
 
-      (C) any other time as determined by the department of transportation, based on an analysis of speeding or crash data.
 
-b. The owner of a vehicle shall be liable for a penalty imposed pursuant to this section if such vehicle was used or operated with the permission of the owner, express or implied, within a school speed zone in violation of section 19-902 during the times authorized pursuant to subdivision a; provided however that no owner of a vehicle shall be liable for a penalty imposed pursuant to this section where the operator of such vehicle has been convicted of the underlying violation of subdivision (b), (c), (d), (f) or (g) of section 1180 of the vehicle and traffic law or section 19-902.
-
-c. A certificate, sworn to or affirmed by a technician employed by the city, or a facsimile thereof, based upon inspection of photographs, microphotographs, videotape or other recorded images produced by a photo speed violation monitoring system, shall be prima facie evidence of the facts contained therein. Any photographs, microphotographs, videotape or other recorded images evidencing such a violation shall include at least two date and time stamped images of the rear of the vehicle that include the same stationary object near the vehicle and shall be available for inspection reasonably in advance of and at any proceeding to adjudicate the liability for such violation pursuant to this section.
-
-d. An owner liable for a violation of section 19-902 pursuant to this section shall be liable for a monetary penalty of $50, recoverable in a proceeding before OATH. There shall be an additional penalty of $25 for each violation for the failure to respond within 30 days to a notice of liability.
-
-e. 1. A notice of liability shall be sent by first class mail to each person alleged to be liable as an owner for a violation of section 19-902 pursuant to this section, within 14 business days if such owner is a resident of this state and within 45 business days if such owner is a non-resident. Personal delivery on the owner shall not be required. A manual or automatic record of mailing prepared in the ordinary course of business shall be prima facie evidence of the facts contained therein.
-
-   2. A notice of liability shall contain (i) the name and address of the person alleged to be liable as an owner for a violation of section 19-902 pursuant to this section, (ii) the registration number of the vehicle involved in such violation, (iii) the location where such violation took place, (iv) the date and time of such violation, (v) the identification number of the camera which recorded the violation or other document locator number, (vi) at least two date and time stamped images of the rear of the vehicle that include the same stationary object near the vehicle, and (vii) the certificate charging the liability, which shall be a statement within the notice of liability that an owner violated this section and is liable for penalties in accordance with this section.
-
-   3. The notice of liability shall contain information advising the person charged of the manner and the time in which such person may contest the liability alleged in the notice. Such notice of liability shall also contain a prominent warning to advise the person charged that failure to contest in the manner and time provided shall be deemed an admission of liability and that a default may be entered thereon.
-
-   4. The notice of liability shall be prepared and mailed by the city or by any other entity authorized by the city to prepare and mail such notice of liability.
-
-f. If an owner receives a notice of liability pursuant to this section for any time period during which the vehicle or the number plate or plates of such vehicle was reported to the police department as having been stolen, it shall be a valid defense to an allegation of liability for a violation of section 19-902 pursuant to this section that the vehicle or the number plate or plates of such vehicle had been reported to the police as stolen prior to the time the violation occurred and had not been recovered by such time. For purposes of asserting the defense provided by this subdivision, it shall be sufficient that a certified copy of the police report on the stolen vehicle or number plate or plates of such vehicle be sent by first class mail to OATH.
-
-g. 1. An owner who is a lessor of a vehicle to which a notice of liability was issued pursuant to this section shall not be liable for the violation of section 19-902 pursuant to this section, provided that:
-
-      (i) prior to the violation, the lessor has filed in accordance with the provisions of section 239 of vehicle and traffic law; and
-
-      (ii) within 37 days after receiving notice from the city of the date and time of a violation, together with the other information contained in the original notice of liability, the lessor submits to the city the correct name and address of the lessee of the vehicle identified in the notice of liability at the time of such violation.
-
-   2. Failure to comply with subparagraph (ii) of paragraph 1 of this subdivision shall render the owner liable for the penalty prescribed in this section.
-
-   3. Where the lessor complies with the provisions of paragraph 1 of this subdivision, the lessee of such vehicle on the date of such violation shall be deemed to be the owner of such vehicle for purposes of this section, shall be subject to liability for such violation pursuant to this section and shall be sent a notice of liability pursuant to this section.
-
-h. 1. If the owner liable for a violation of section 19-902 pursuant to this section was not the operator of the vehicle at the time of the violation, the owner may maintain an action for indemnification against the operator.
-
-   2. Notwithstanding any other provision of this section, no owner of a vehicle shall be subject to a monetary penalty imposed pursuant to this section if the operator of such vehicle was operating such vehicle without the consent of the owner at the time such operator operated such vehicle in violation of section 19-902. For purposes of this section there shall be a presumption that the operator of such vehicle was operating such vehicle with the consent of the owner at the time such operator operated such vehicle in violation of section 19-902.
-
-i. It shall be a defense to any proceeding for a violation of section 19-902 pursuant to this section that such photo speed violation monitoring system was malfunctioning at the time of the alleged violation.
-
-
-
-
-
-
-
-
-*§ 19-904 System maintenance and operation.* ::
-
-
-a. No photo speed violation monitoring system shall be used in a school speed zone unless:
-
-   1. on the day it is to be used it has successfully passed a self-test of its functions; and
-
-   2. it has undergone an annual calibration check performed pursuant to subdivision d of this section.
-
-b. Operators of photo speed violation monitoring systems shall have completed training in the procedures for setting up, testing, and operating such systems. For each such system operated, each such operator shall complete and sign a daily set-up log that:
-
-   1. states the date and time when, and the location where, the system was set up that day, and
-
-   2. states that such operator successfully performed, and the system passed, the self-tests of such system before producing a recorded image that day.
-
-c. The city shall retain each such daily log until the later of the date on which the photo speed violation monitoring system to which it applies has been permanently removed from use or the final resolution of all cases involving notices of liability issued based on photographs, microphotographs, video or other recorded images produced by such system.
-
-d. Each photo speed violation monitoring system shall undergo an annual calibration check performed by an independent calibration laboratory which shall issue a signed certificate of calibration. The city shall keep each such annual certificate of calibration on file until the final resolution of all cases involving a notice of liability issued during such year which were based on photographs, microphotographs, videotape or other recorded images produced by such photo speed violation monitoring system.
-
-e. 1. The city shall utilize necessary technologies to ensure, to the extent practicable, that photographs, microphotographs, videotape or other recorded images produced by such photo speed violation monitoring systems do not include images that identify the driver, the passengers, or the contents of the vehicle. Provided, however, that except as required by state or federal law, no notice of liability issued pursuant to section 19-903 shall be dismissed solely because such a photograph, microphotograph, videotape or other recorded image allows for the identification of the driver, the passengers, or the contents of vehicles where the city shows that it made reasonable efforts to comply with the provisions of this paragraph in such case.
-
-   2. Photographs, microphotographs, videotape or any other recorded image from a photo speed violation monitoring system shall be for the exclusive use of the city for the purpose of the adjudication of liability imposed pursuant to section 19-903 and of the owner receiving a notice of liability pursuant to such section, and shall be destroyed by the city upon the final resolution of the notice of liability to which such photographs, microphotographs, videotape or other recorded images relate, or one year following the date of issuance of such notice of liability, whichever is later. Photographs, microphotographs, videotape or any other recorded image from a photo speed violation monitoring system shall not be open to the public, nor subject to civil or criminal process or discovery, nor used by any court or administrative or adjudicatory body in any action or proceeding therein except that which is necessary for the adjudication of a notice of liability issued pursuant to such section, and no public entity or employee, officer or agent thereof shall disclose such information, except that such photographs, microphotographs, videotape or any other recorded images from such systems:
-
-      (A) shall be available as required pursuant to state or federal law; and
-
-      (B) shall be available for inspection and copying and use by the vehicle owner and operator for so long as such photographs, microphotographs, videotape or other recorded images are required to be maintained or are maintained by such public entity, employee, officer or agent.
-
-
-
-
-
-
-
-
-*§ 19-905 Implementation.* ::
-
-
-The mayor may designate any city agency or office thereof or employees of any city agency to implement and enforce the provisions of this chapter.
-
-
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
 
 
 

@@ -3973,19 +3973,19 @@ b. (1) For the purpose of any actuarial valuation, determination or appraisal wh
       - First day and last day of fiscal year or series of fiscal years for which rate is effective
     * - NYCERS
       - 7%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - NYCTRS
       - 7%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - PPF
       - 7%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - FPF
       - 7%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - BERS
       - 7%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
 ~
 
 
@@ -4013,19 +4013,19 @@ f. (1) Subject to the provisions of subdivision h of this section, during the ap
       - First day and last day of fiscal year or series of fiscal years for which rate is effective
     * - NYCERS
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - NYCTRS
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - PPF
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - FPF
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - BERS
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
 ~
 
 
@@ -4049,19 +4049,19 @@ g. (1) Subject to the provisions of subdivision h of this section, during the ap
       - First day and last day of fiscal year or series of fiscal years for which rate is effective
     * - NYCERS
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - NYCTRS
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - PPF
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - FPF
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - BERS
       - 1 1/4%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
 ~
 
 
@@ -4097,19 +4097,19 @@ i. (1) Subject to the provisions of paragraph three of this subdivision, in addi
       - First day and last day of fiscal year or series of fiscal years for which rate is effective
     * - NYCERS
       - 0%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - NYCTRS
       - 0%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - PPF
       - 0%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - FPF
       - 0%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
     * - BERS
       - 0%
-      - July 1, 2011 to June 30, 2019
+      - July 1, 2011 to June 30, 2021
 ~
 
 
