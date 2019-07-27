@@ -1700,7 +1700,7 @@ f. Any owner of a building who violates subdivision b of this section or any of 
 
 
 
-*§ 17-194.1 [Cooling towers: maintenance, inspection, etc.]* ::
+*§ 17-194.1 Cooling towers; maintenance and inspection.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -1744,6 +1744,24 @@ i. Enforcement.
       (iii) A notice of violation served for civil penalties pursuant to this section shall be returnable at the environmental control board or any tribunal established within the office of administrative trials and hearings.
 
 j. Electronic reporting. The department may require any submission required by this section be submitted electronically.
+
+k. Guidance for building owners. The department, in consultation with the department of buildings, shall hold information sessions, at least twice annually, for interested building owners, regarding the requirements for maintaining, cleaning, and inspecting cooling towers in accordance with this section. The information provided in such information sessions shall also be posted on the website of the department in simple and understandable terms.
+
+l. The commissioner, in consultation with the department of buildings, shall submit a report to the mayor and the speaker of the city council on or before May 15 each year until May 15, 2025, reporting on the following information for the prior year:
+
+   1. The number of new cooling tower registrations pursuant to section 28-317.3 and the number of notifications of discontinued use of a cooling tower pursuant to section 28-317.3.1 received by the department of buildings through November 1 of the prior year;
+
+   2. The number of annual certifications that a cooling tower was inspected, tested, cleaned and disinfected pursuant to section 28-317.5 received by the department of buildings through November 1 of the prior year;
+
+   3. The number of reports of tests for the presence of microbes that reveal levels that present a serious health threat received by the department pursuant to paragraph 2 of subdivision e of this section;
+
+   4. The number of inspections of cooling towers conducted pursuant to subdivision i of this section and the rules of the department, the number and types of any violations cited during such inspections, and the number of buildings registered pursuant to subdivision b of this section by November 1 of the prior year that were not inspected;
+
+   5. The number of cleanings, disinfections or other actions performed by or on behalf of the department pursuant to subdivision f of this section; and
+
+   6. The number of persons diagnosed with legionnaires’ disease in the city in each of the previous 10 years, to the extent known or reasonably discoverable by the department.
+
+m. In addition to the requirements of section 23-502, the results of each inspection of a cooling tower by the department conducted after the effective date of this section pursuant to paragraph 1 of subdivision i of this section shall be posted in a searchable format on the website of the department and maintained on such website for no less than three years.
 
 
 

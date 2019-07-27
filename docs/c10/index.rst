@@ -8963,13 +8963,19 @@ a. In addition to any and all other taxes, including the compensating use tax, t
 
       (B) For the tax year beginning June first, nineteen hundred eighty-nine and ending May thirty-first, nineteen hundred ninety, on medallion taxicabs, five hundred dollars for each such vehicle.
 
-      (C) For tax years beginning on and after June first, nineteen hundred ninety, on medallion taxicabs, one thousand dollars for each such vehicle, and on all other motor vehicles for transportation of passengers, four hundred dollars for each such vehicle.
+      (C) For tax years beginning on and after June first, nineteen hundred ninety but before May thirty-first, two thousand nineteen, on medallion taxicabs, one thousand dollars for each such vehicle, and on all other motor vehicles for transportation of passengers, four hundred dollars for each such vehicle.
+
+Editor's note: Section 3 of L.L. 2019/137 provides: "Notwithstanding any provision of chapter 8 of title 11 of the administrative code of the city of New York to the contrary, the commissioner of finance may issue a refund or credit to any person who has paid the tax or portion thereof imposed under subparagraph (C) of paragraph 2 of subdivision a of section 11-802 of such code with respect to a medallion taxicab for the tax year beginning on June 1, 2019 to the extent such payment exceeds the tax obligation for any tax year beginning on or after June 1, 2019, and to the extent of such excess amount, such person shall not have any obligations under sections 11-807 or 11-808 of such code for any such tax year. The commissioner of finance may issue such a refund or credit without submission of a written application by the taxpayer."
+
+      (D) For tax years beginning on or after June first, two thousand nineteen, on all motor vehicles for transportation of passengers, including medallion taxicabs, four hundred dollars for each such vehicle.
 
 b. To the extent that the tax as imposed by subdivision a of this section may be invalid solely because it is based on the use in the city of the motor vehicles, the tax shall also be deemed to be based on the privilege of using the public highways or streets of the city by such motor vehicle. Under such circumstances the rate of tax shall be the same and all other provisions of this chapter shall be equally applicable.
 
 c. If the first use of any motor vehicle subject to the tax imposed hereunder occurs on or after December first and before March first in any tax year, the tax for that year shall be one-half of the tax hereinabove provided; and, if the first such use occurs on or after March first in any tax year, the tax for that tax year shall be one-fourth of the tax hereinabove provided.
 
 d. In applying the tax on commercial motor vehicles with respect to tractors, trailers and semi-trailers, the tax shall be measured by the weight of the tractor plus the maximum gross weight of the trailer or semi-trailer with the greatest such maximum gross weight to be drawn by such tractor. No trailer or semi-trailer shall be subject to any separate or additional tax under this chapter.
+
+
 
 
 
@@ -17048,39 +17054,6 @@ Where the conveyance consists of a transfer of property made as a result of an o
 
 
 
-Chapter 23: Surcharge On off-track Winnings
---------------------------------------------------
-
-
-
-*§ 11-2301 Surcharge on off-track winnings.* ::
-
-
-There shall be a surcharge of five percent of the portion of pari-mutuel wagering pools distributable to persons having placed bets at off-track betting facilities located within the city. The revenues derived from such surcharge, plus the breaks, shall be held separate and apart from any amounts otherwise authorized to be retained from pari-mutuel pools.
-
-
-
-
-
-
-*§ 11-2302 Distribution of revenues.* ::
-
-
-The revenues received from the surcharge imposed by this chapter, plus the breaks, shall be distributed monthly as follows:
-
-(a) fifty percent to New York city, or to the counties and cities entitled to receive revenues from the regional off-track betting corporation pursuant to section five hundred sixteen of the racing, pari-mutuel wagering and breeding law and in the same proportion as provided therein, or to an off-track betting operator; and the balance as follows:
-
-(b) where the track conducting the race on which the bet was placed is located within a city with a population in excess of one hundred thousand, to such city;
-
-(c) where the track conducting the race on which the bet was placed is not located within a city with a population in excess of one hundred thousand, to the county in which such track is located; (d) where the track conducting the race on which the bet was placed is located partially within New York city and partially within a county, twenty-five percent of such balance to the city and the remainder to the county; and
-
-(e)*   where the track conducting the race on which the bet was placed is located outside the state, in the same manner as set forth in subdivision (a) of this section.
-
-* Editor's note: so in original.
-
-
-
-
 Chapter 22: Tax On Owners of Motor Vehicles
 --------------------------------------------------
 
@@ -17396,6 +17369,39 @@ This chapter shall be construed and enforced in conformity with subdivisions (g)
 
 
 All revenues resulting from the imposition of the tax under this chapter shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city, but no part of such revenues may be expended unless appropriated in the annual budget of the city.
+
+
+
+
+Chapter 23: Surcharge On off-track Winnings
+--------------------------------------------------
+
+
+
+*§ 11-2301 Surcharge on off-track winnings.* ::
+
+
+There shall be a surcharge of five percent of the portion of pari-mutuel wagering pools distributable to persons having placed bets at off-track betting facilities located within the city. The revenues derived from such surcharge, plus the breaks, shall be held separate and apart from any amounts otherwise authorized to be retained from pari-mutuel pools.
+
+
+
+
+
+
+*§ 11-2302 Distribution of revenues.* ::
+
+
+The revenues received from the surcharge imposed by this chapter, plus the breaks, shall be distributed monthly as follows:
+
+(a) fifty percent to New York city, or to the counties and cities entitled to receive revenues from the regional off-track betting corporation pursuant to section five hundred sixteen of the racing, pari-mutuel wagering and breeding law and in the same proportion as provided therein, or to an off-track betting operator; and the balance as follows:
+
+(b) where the track conducting the race on which the bet was placed is located within a city with a population in excess of one hundred thousand, to such city;
+
+(c) where the track conducting the race on which the bet was placed is not located within a city with a population in excess of one hundred thousand, to the county in which such track is located; (d) where the track conducting the race on which the bet was placed is located partially within New York city and partially within a county, twenty-five percent of such balance to the city and the remainder to the county; and
+
+(e)*   where the track conducting the race on which the bet was placed is located outside the state, in the same manner as set forth in subdivision (a) of this section.
+
+* Editor's note: so in original.
 
 
 
