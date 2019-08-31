@@ -920,7 +920,7 @@ d. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-Chapter 17: Distribution of Information Regarding Summer Meals
+Chapter 17: Distribution of Information Regarding Summer School and Meals
 --------------------------------------------------
 
 
@@ -935,6 +935,22 @@ b. No later than June 1, 2018, and annually thereafter no later than June 1, the
    1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
 
    2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
+
+
+
+
+
+
+
+
+*§ 21-979.1 Posting summer school calendar information by school.* ::
+
+
+a. Definitions. For the purposes of this section, the term “school building” means any buildings, grounds, facilities, property, or portion thereof, owned or leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school.
+
+b. No later than June 30 of each year, the department shall post on its website information regarding the forthcoming summer school session, including but not limited to the locations of school buildings where summer school will be provided and the dates on which summer school will be in session at each such school building. Nothing contained herein shall prevent the department from making any change to such locations and such dates after June 30, provided however that if the department makes any such change the department shall update the information posted on its website regarding such locations and dates as appropriate.
+
+c. No later than June 30 of each year, the department of transportation shall post on its website information on the locations of school buildings and summer school dates posted in accordance with subdivision b of this section, and for each such school building where there are parking restrictions on a street immediately adjacent to such school building that are in effect only on school days, that such restrictions are in effect on such summer school dates.
 
 
 

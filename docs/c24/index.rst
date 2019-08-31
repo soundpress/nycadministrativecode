@@ -7957,6 +7957,8 @@ Commissioner. The term “commissioner” means the commissioner of small busine
 
 Department. The term “department” means the department of small business services.
 
+Microbusiness. The term “microbusiness” means a business that employs no less than one employee and no more than nine employees.
+
 
 
 
@@ -7974,6 +7976,90 @@ a. The commissioner shall post on the city’s website online business tools and
    2. Such other tools and resources as the commissioner may deem appropriate.
 
 b. This section shall not be construed to create a private right of action to enforce its provisions or against the city for any action taken to comply with this section.
+
+
+
+
+
+
+
+
+*§ 22-1003 State of storefront businesses assessment.** ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Storefront business. The term “storefront business” means a “ground floor commercial premises” as such term is defined in § 11-3001.
+
+   Storefront business assessment. The term “storefront business assessment” means an analysis of a community district’s storefront business environment, including, but not limited to, the following factors:
+
+      (i) district demographics;
+
+      (ii) number of storefront businesses;
+
+      (iii) types of goods or services provided by storefront businesses and consumer spending by each type;
+
+      (iv) number of vacant storefront properties;
+
+      (v) physical conditions of storefront businesses, including interior and exterior conditions of businesses, both occupied by commercial tenants and vacant;
+
+      (vi) built environment of the community district;
+
+      (vii) challenges facing commercial tenants of storefront businesses;
+
+      (viii) storefront business involvement with community based organizations; and
+
+      (viii)*   opportunities for promoting various types of commercial uses and improving the built environment within the community district.
+
+* Editor's note: As numbered in L.L. 2019/152.
+
+b. Beginning October 1, 2019 and no less frequently than once every three years thereafter, the department shall commence a storefront business assessment in at least twenty community districts in the city. As part of such assessment, the department shall distribute to and collect from storefront business owners in the district, a survey that shall include, but not be limited to, the following requests for information:
+
+   1. the business owners’ demographic information;
+
+   2. the business owners’ access to, and the accessibility of, information made publicly available by the department and other agencies to support storefront businesses;
+
+   3. business entity type and whether each storefront business is part of a franchise or chain;
+
+   4. number of owners and number of employees of each storefront business; and
+
+   5. number of years each storefront business has been located at its current location.
+
+Such assessment shall include input by at least one community based organization serving the district’s storefront business community, or if no organization is available, a record of outreach to at least three organizations requesting their participation.
+
+c. By September 1, 2019, and every three years thereafter, the department shall submit to the Council a list of the community districts for which storefront assessments shall be commenced and the criteria for such selections. At the completion of each assessment, the department shall make the results of such assessment including all disaggregated non-identifying survey data, available on its website.
+
+d. The department, in consultation with the departments of city planning and finance, shall produce a report containing information related to storefront businesses citywide, which shall be disaggregated by community district, and include but need not be limited to the following factors: (i) the number of storefront businesses; (ii) the types of economic activity being conducted at such storefronts; (iii) data relating to numbers of employees at such storefronts; (iv) data relating to annual sales and sales tax data at such storefronts; (v) the number of vacant storefront businesses; and (vi) demographics. The department shall post such report on its website no later than 24 months after the local law that added this section takes effect and shall update such report annually.
+
+
+
+
+
+
+
+
+*§ 22-1003 Business services including training and education to small businesses.* ::
+
+
+a. The department shall provide business services including training and education to small businesses regarding the following subjects:
+
+   1. Business operations, including the establishment and use of technological or other systems to deliver goods or services to customers efficiently, reduce costs, and maximize profits;
+
+   2. Marketing, including identifying market opportunities, preparing and executing marketing plans, developing pricing strategies, locating contract opportunities, negotiating contracts, utilizing public relations and advertising techniques, engaging in e-commerce, and retail merchandizing;
+
+   3. Compliance obligations, including education about regulatory requirements and assistance in understanding laws and rules applicable to small businesses; and
+
+   4. Such other training and education as the commissioner may deem appropriate.
+
+b. The department shall conduct outreach to the small business community in order to advertise such training and education.
+
+c. No later than January 1, 2020, and on or before January 1 annually thereafter, the department shall submit to the mayor and the speaker of the council and post on the department’s website an annual report regarding training and education offered to small businesses during the preceding fiscal year pursuant to this section. Such report shall include, but need not be limited to:
+
+   1. The total number of business services including training and education offered disaggregated by borough and whether such training and education was offered in multiple languages;
+
+   2. A general description of each business services including training and education offered; and
+
+   3. The total number of people who participated in each business services including training and education disaggregated by borough.
 
 
 

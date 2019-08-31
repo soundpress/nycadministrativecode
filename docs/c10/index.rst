@@ -18947,12 +18947,12 @@ Upon submission to the speaker of the council, the evaluator shall make each suc
 
 
 
-Chapter 30: New York City Sustainable Energy Loan Program
+Chapter 30: New York City Sustainable Energy Loan Program*
 --------------------------------------------------
 
 
 
-*§ 11-3001 Definitions.* ::
+*§ 11-3001 Definitions.** ::
 
 
 As used in this chapter, the following terms have the following meanings:
@@ -19072,6 +19072,137 @@ The administering agency shall promulgate rules to implement this program. Such 
 
 
 The mayor shall, in writing, designate one or more offices or agencies to implement, administer and enforce the provisions of this chapter and may, from time to time at the mayor's discretion, change such designation. Within 10 days after such designation or change thereof, a copy of such designation or change thereof shall be published on the website of each such office or agency, and shall be electronically submitted to the speaker of the council.
+
+
+
+
+
+
+Chapter 30: Ground Floor and Second Floor Commercial Premises Registry*
+--------------------------------------------------
+
+
+
+*§ 11-3001 Reporting of certain information relating to ground floor and second floor commercial premises by owner.** ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   Contact person. The term “contact person” means the person designated by the owner of a ground floor or second floor commercial premises commercial premises to manage such premises on behalf of the owner.
+
+   Current calendar year. The term “current calendar year” means the calendar year in which the registration statement prescribed by this chapter is required to be filed pursuant to rules of the department of finance.
+
+   Designated class one property. The term “designated class one property” means real property classified as class one pursuant to section 1802 of the real property tax law and, as of January 1st of the current calendar year, was located within a commercial district as established in the zoning resolution.
+
+   Ground floor. The term “ground floor” means visible from the street and directly accessible to the public from the street.
+
+   Ground floor commercial premises. The term “ground floor commercial premises” means any ground floor premises that is occupied or used, or could be occupied or used, for the purpose of offering or selling goods at retail.
+
+   Lease. The term “lease” means a lease or a rental agreement, license agreement or month to month tenancy.
+
+   Occupied. The term “occupied” means in use.
+
+   Rent. The term “rent” has the same meaning as set forth in section 7-01 of title 19 of the rules of the city of New York.
+
+   Second floor. The term “second floor” means the second floor of a building, visible from the street, and accessible to the public directly from the street or from the interior of a building.
+
+   Second floor commercial premises. The term “second floor commercial premises” means any second floor premises that is occupied or used, or could be occupied or used, for the purpose of offering of selling goods at retail.
+
+   Tenant. The term “tenant” has the same meaning as set forth in section 7-01 of title 19 of the rules of the city of New York.
+
+   Vacant. The term vacant means not occupied by a commercial tenant pursuant to a lease, excluding for purposes of construction or renovation.
+
+b. Owner’s obligation to register. No later than one year after the effective date of the local law adding this section, and in each year thereafter according to a schedule that shall be established by rule of the department of finance, every owner of a ground floor or second floor commercial premises, other than a ground floor or second floor commercial premises in real property classified as class one pursuant to section 1802 of the real property tax law, shall submit, in an electronic manner, to the department of finance a registration statement. Such registration statement shall include the following information:
+
+   1. The street address of the premises, including borough, community board district, block and lot number, and zip code;
+
+   2. The tax identification number of the property owner;
+
+   3. A brief description of the type of the premises, including its current use;
+
+   4. The total floor space of the premises, expressed in square feet;
+
+   5. The owner’s name and contact information;
+
+   6.  Contact information of an individual who shall be the contact person of the premises;
+
+   7. Whether the premises was occupied for any time period during the twelve months preceding the January 1st of the current calendar year, and the following information for each such occupancy:
+
+      (a) Whether the premises was occupied by a tenant or owner of the premises; and
+
+      (b) The type of economic activity that was or is being conducted at the premises;
+
+   8. For any such premises that was leased to a tenant for any time period during the twelve months preceding the January 1st of the current calendar year, the following:
+
+      (a) The start date and expiration or renewal date of each such lease;
+
+      (b) A schedule of rent escalations contained in each such lease, if any;
+
+      (c) A statement of whether concessions were granted to the lessee when each such lease was entered into, and if concessions were granted, a list of such concessions; and
+
+      (d) The average monthly rent per square foot charged for the premises during the twelve months preceding the January 1st of the current calendar year, excluding any period that the premises was not leased to a tenant;
+
+   9. For any such premises that was vacant for any time period during the twelve months preceding the January 1st of the current calendar year, the date as of which the premises became vacant and the duration of such vacancy;
+
+   10. For any such premises that was not leased to a tenant during the twelve months preceding the January 1st of the current calendar year, the monthly rent per square foot paid by the most recent tenant.
+
+   11. Any additional information as the department of finance may require.
+
+c. Class one property owner’s obligation to register. No later than one year after the effective date of the local law adding this section, and in each year thereafter according to a schedule that shall be established by rule of the department of finance, every owner of a ground floor or second floor commercial premises in a designated class one property that has not been leased to a tenant for any time period during the twelve months preceding the January 1st of the current calendar year, shall submit, in an electronic manner, to the department of finance a registration statement. Such registration statement shall include the following information:
+
+   1. The street address of the premises, including borough, community board district, block and lot number, and zip code;
+
+   2. The tax identification number of the property owner;
+
+   3. The owner’s name and contact information;
+
+   4. Contact information of an individual who shall be the contact person of the premises;
+
+   5. If such premises was leased to a tenant for any time period during the three years preceding January 1st of the current calendar year, the following information:
+
+      (a) The expiration date of the most recent lease;
+
+      (b) The use or type of economic activity conducted at the premises under the most recent lease;
+
+      (c) The monthly rent per square foot under the most recent lease; and
+
+      (d) Whether the premises has undergone construction during the three years preceding January 1st of the current calendar year and if so, the start date and completion date of each construction project.
+
+d. Supplemental registration. Every owner of a ground floor or second floor commercial premises who is required to file a registration statement pursuant to subdivision b of this section shall also submit a supplemental registration statement if the premises becomes vacant at any time during the period from January 1 through June 30 of the current calendar year or the ownership of the premises has changed during that period. Such supplemental registration statement shall be filed on forms and according to a schedule prescribed by the department of finance.
+
+e. The registration statements and supplemental registration required to be filed pursuant to this subdivisions b, c and d of this section shall be filed on forms prescribed by the department of finance and shall be accompanied by an appropriate filing fee as determined by rule of the department of finance, provided that no filing fee shall be required for any building owned by a not-for-profit organization fully exempt from property taxation under section 420-a or 420-b of the real property tax law, or any federal, state or local government agency.
+
+f. The department of finance shall require the registration statements and supplemental registration required to be filed pursuant this subdivisions b, c and d of this section to be filed as part of the income and expense statement required to be submitted to such department pursuant to section 11-208.1.
+
+g. Penalty. Failure to file a registration statement or supplemental registration required by this section shall constitute a failure to file the income and expense statement required pursuant to section 11-208.1, and any owner who fails to file any such registration may be subject to penalties pursuant to such section. An owner who is not required to file the income and expense statement but fails to submit a registration required by this section may be subject to any of the penalties provided in section 11-208.1 as if such owner had been required to file an income and expense statement but failed to do so. An owner who submits a registration required by this section and is found after audit to have substantially misrepresented information reported on such registration may also be subject to any of the penalties provided in section 11-208.1 as if such owner had been required to file an income and expense statement but failed to do so.
+
+h. Dataset. No later than six months after receiving owner submissions required by this registry and notwithstanding subdivision f of section 11-208.1, the department of finance shall:
+
+   1. Establish a public online searchable dataset. Such dataset shall be based upon registrations filed during the previous year and shall include a list of street addresses, including block and lot number, and zip code, for each ground floor and second floor commercial premises indicating whether or not such commercial premises was reported as being vacant as of December 31 of the previous calendar year, or as of June 30 of the current calendar year if a supplemental registration statement has been filed for such premises.
+
+   2. Present citywide data disaggregated by council district, census tract, provided that there are at least ten ground floor or second floor commercial premises located in any such tract, and any other geographic designation the department of finance deems appropriate. Such dataset shall be published to the city’s open data portal, and shall include, but need not be limited to, the following information:
+
+      a. The number of ground floor or second floor commercial premises reported as being leased to a tenant, and for such premises:
+
+         (i) The median and average total duration of leases;
+
+         (ii) The median and average remaining term to lease expiration;
+
+         (iii) The median and average size of rentable floor area per premises lease;
+
+         (iv) The number of such premises reported as being leased and vacant;
+
+         (v) The median and average rent; and
+
+         (vi) The number of such premises whose lease is due to expire within two years of June 1 of the current calendar year.
+
+      b. The number of ground floor or second floor commercial premises reported as not being leased to a tenant and for such commercial premises:
+
+         (i) The median and average duration of time that such premises have been reported as not being leased; and
+
+         (ii) The number of such premises reported as having construction documents on file with the department of buildings and the median and average age of such documents.
+
+      c. Any other information deemed relevant by the department of finance.
 
 
 

@@ -2052,13 +2052,17 @@ a. When parking is not otherwise restricted, no person shall park a commercial v
 
 b. Notwithstanding the foregoing, no person shall park a commercial vehicle on a residential street from 9 p.m. to 5 a.m. For the purpose of this subdivision, residential streets are defined as those streets, or parts thereof, which are located within a residential district under the zoning resolution. Where a commercial vehicle is parked in violation of this subdivision, it shall be an affirmative defense to said violation, with the burden of proof on the person who received the summons, that he or she was actively engaged in business at the time the summons was issued at a premises located within three city blocks of where the summons was issued. This subdivision shall not apply to vehicles owned or operated by gas or oil heat suppliers or gas or oil heat systems maintenance companies, the agents or employees, thereof, or any public utility.
 
-c. 1. Except as otherwise provided in paragraph two of this subdivision, a violation of this section shall be punishable by the monetary fine authorized for violation of the rules and regulations of the commissioner in paragraph one of subdivision a of section twenty nine hundred and three of the New York City Charter.
+c. 1. Except as otherwise provided in paragraphs 2 and 3 of this subdivision, a violation of this section shall be punishable by the monetary fine authorized for violation of the rules and regulations of the commissioner in paragraph 1 of subdivision a of section 2903 of the charter.
 
-   2. A first violation of this section, when the commercial vehicle is a tractor-trailer combination, tractor, truck trailer or semi-trailer, shall be punishable by a monetary fine of two hundred fifty dollars. Any such subsequent violation of this section by the same owner, as defined in paragraph a of subdivision one of section two hundred thirty-nine of the vehicle and traffic law, within a six month period shall be punishable by a monetary fine of five hundred dollars.
+   2. A first violation of this section, when the commercial vehicle is a tractor-trailer combination, tractor, truck trailer or semi-trailer, shall be punishable by a monetary fine of $250. Any such subsequent violation of this section by the same owner, as defined in paragraph a of subdivision 1 of section 239 of the vehicle and traffic law, within a six month period shall be punishable by a monetary fine of $500.
+
+   3. As an alternative to any other means of enforcement of this subdivision authorized by law, a first violation of subdivision b of this section, when the commercial vehicle is a tractor-trailer combination, tractor, truck trailer or semi-trailer, shall be punishable by a civil penalty of $400. Any such subsequent violation of subdivision b of this section by the same owner, as defined in paragraph a of subdivision 1 of section 239 of the vehicle and traffic law, within a six month period shall be punishable by a civil penalty of $800. Such civil penalties shall be recoverable in a proceeding before the office of administrative trials and hearings.
 
 d. Any commercial vehicle parked in violation of subdivision a or b of this section shall be subject to impoundment by the department. Any motor vehicle impounded pursuant to the provisions of this subdivision shall not be released until all applicable towing and storage fees have been paid. The commissioner shall be authorized to promulgate regulations concerning the procedure for the impoundment of vehicles.
 
 e. The sanctions and fees provided for in this section shall be in addition to any other sanctions, fees or remedies provided by law or regulation.
+
+
 
 
 
@@ -2311,6 +2315,18 @@ b. When authorizing one or more on-street bus stops for sight-seeing buses, the 
 c. As a condition for authorizing one or more on-street bus stops for sightseeing buses, the commissioner may require an owner of a sight-seeing bus company to collect and transmit to the commissioner bus location data in the form and frequency determined by the commissioner, including real time electronic location tracking data. Such data may be used by the commissioner in determining whether on-street bus stop authorizations should be granted, renewed or revoked.
 
 d. The commissioner shall by rule establish criteria under which sight-seeing bus companies that possess on-street bus stop authorizations prior to the effective date of this section may be issued an authorization to use such bus stops for a period of up to three years from the effective date of this section.
+
+
+
+
+
+
+
+
+*§ 19-175.7 Illegible parking signs.* ::
+
+
+Notwithstanding any rule or regulation to the contrary, when a notice of violation is issued to an owner of a vehicle for failure to observe a parking sign, it shall be an affirmative defense to such violation, with the burden of proof on the vehicle owner charged with such notice of violation, that both sides of such sign were not legible. If there are other legible parking signs on the same blockface that apply to the parking space and parking violation at issue, such affirmative defense will not be available. The term “blockface” has the same meaning as set forth in section 19-167.4.
 
 
 
@@ -2844,6 +2860,28 @@ Whenever pedestrian control signals are in operation, exhibiting symbols of a wa
 2. Flashing upraised hand or flashing upraised hand with pedestrian countdown display. Pedestrians facing such signal are advised that there may be insufficient time to cross the roadway. Pedestrians already in the roadway shall proceed to the nearest sidewalk or safety island in the direction of such signal. Other traffic shall yield the right of way to pedestrians proceeding across the roadway within the crosswalk towards such signal for as long as such signal remains flashing.
 
 3. Steady upraised hand. No pedestrians shall start to cross the roadway in the direction of such signal; provided, however that any pedestrians who have partially completed their crossing on a steady walking person signal or any flashing upraised hand signal shall proceed to the nearest sidewalk or safety island in the direction of such signal while such steady upraised hand signal is showing.
+
+
+
+
+
+
+
+
+*§ 19-195.1 Bicyclist rights and duties at an intersection.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Crosswalk. The term “crosswalk” means that part of a roadway, whether marked or unmarked, which is included within the extension of the sidewalk lines between opposite sides of the roadway at an intersection.
+
+   Intersection. The term “intersection” means the same as such term is defined in section 120 of the vehicle and traffic law or successor provision.
+
+   Pedestrian. The term “pedestrian” means the same as such term is defined in section 130 of the vehicle and traffic law or successor provision.
+
+b. A person operating a bicycle while crossing an intersection shall follow pedestrian control signals except where otherwise indicated by traffic control devices, and provided that such person shall yield to pedestrians in the crosswalk.
+
+c. The commissioner may promulgate such rules and regulations necessary to effectuate this section.
 
 
 
@@ -5422,6 +5460,29 @@ Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the 
 
 
 
+Chapter 8: Citywide Transit Study
+--------------------------------------------------
+
+
+
+*§ 19-801 Citywide transit study.* ::
+
+
+a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
+
+   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
+
+   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
+
+   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
+
+b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
+
+
+
+
+
+
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
 --------------------------------------------------
 
@@ -5700,29 +5761,6 @@ The department, the commission on human rights and operators of any water borne 
 
 
 If any section, subdivision, sentence, clause, phrase or other portion of the local law that added this chapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of the local law that added this chapter, which remaining portions shall continue in full force and effect.
-
-
-
-
-Chapter 8: Citywide Transit Study
---------------------------------------------------
-
-
-
-*§ 19-801 Citywide transit study.* ::
-
-
-a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
-
-   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
-
-   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
-
-   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
-
-b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
-
-
 
 
 
