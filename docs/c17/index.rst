@@ -1,6 +1,211 @@
 Title 17: Health
 ===================================================
 
+Chapter 2: Medical Examiner
+--------------------------------------------------
+
+
+
+*§ 17-201 Report of deaths; removal of body.* ::
+
+
+It shall be the duty of any citizen who becomes aware of the death of any person, occurring under the circumstances described in paragraph one of subdivision (f) of section five hundred fifty-seven of the charter, to report such death forthwith to the office of the chief medical examiner, and to a police officer who shall forthwith notify the officer in charge of the station-house in the police precinct in which such person died. Any person who shall wilfully neglect or refuse to report such death or who without written order from a medical examiner shall wilfully touch, remove or disturb the body of any such person, or wilfully touch, remove or disturb the clothing or any article upon or near such body, shall be guilty of a misdemeanor.
+
+
+
+
+
+
+*§ 17-202 Procedure in deaths reportable to the office of chief medical examiner.* ::
+
+
+a. Upon any such death, the officer in charge of the station-house in the police precinct in which such person died shall immediately notify the office of chief medical examiner of the known facts concerning the time, place, manner and circumstances of such death. Immediately upon receipt of such notification the chief medical examiner, or a deputy chief medical examiner, or a medical examiner, or a medical investigator, or a lay medical investigator shall go to and take charge of the dead body. Such medical examiner, medical investigator or lay medical investigator shall fully investigate the essential facts concerning the circumstances of the death, taking the names and addresses of as many witnesses thereto as it may be practicable to obtain, and shall record all such facts and file the same in the office of chief medical examiner. Such medical examiner, medical investigator or lay medical investigator shall take possession of any portable objects which, in his or her opinion, may be useful in establishing the cause of death, and except as provided in subdivision c hereof, shall deliver them to the police department.
+
+b. The police officer detailed in such cases shall, in the absence of next of kin of the deceased person, take possession of all property of value found on such person, make an exact inventory thereof on his or her report, and deliver such property to the police department, which shall surrender the same to the person entitled to its custody or possession.
+
+c. Notwithstanding the provisions of subdivisions a and b of this section, any suicide note or other written evidence of suicide found on such deceased person shall be delivered to the chief medical examiner and shall be retained by said medical examiner.
+
+d. Nothing in this section contained shall affect the powers and duties of a public administrator.
+
+
+
+
+
+
+*§ 17-203 Autopsies; findings.* ::
+
+
+If it may be concluded with reasonable certainty that death occurred from natural causes or obvious traumatic injury, and there are no other circumstances which would appear to require an autopsy, the chief medical examiner, deputy chief medical examiner or medical examiner or medical investigator in charge shall certify the cause of death and file a report of his or her findings in the office of chief medical examiner. If, however, in the opinion of a medical examiner, an autopsy is necessary, the same shall be performed by a medical examiner. Where indicated, the autopsy shall include toxicologic, histologic, microbiologic and serologic examinations. A detailed description of the findings of all autopsies shall be written or dictated. The findings of the investigation at the scene of death, the autopsy and any toxicologic, histologic, serologic and microbiologic examinations, and the conclusions drawn therefrom shall be filed in the office of chief medical examiner. Such findings and conclusions shall be signed by the medical examiner performing the autopsy.
+
+
+
+
+
+
+*§ 17-204 Cremation.* ::
+
+
+Whenever an application is made pursuant to law for a permit to cremate the body of any person, the department, board or office in which such application is filed shall forward such application to the chief medical examiner who shall thereupon cause an investigation and report to be made thereon. In the event that the chief medical examiner, or a deputy chief medical examiner, or a medical examiner shall, in the course of such investigation, determine that reasonable grounds exist therefor, an autopsy shall be performed upon such body by a medical examiner. Where indicated, the autopsy shall include toxicologic, histologic, microbiologic and serologic examinations. A detailed description of the findings of all autopsies shall be written or dictated. The findings of the investigation, the autopsy and any toxicologic, histologic, serologic and microbiologic examinations, and the conclusions drawn therefrom shall be filed in the office of chief medical examiner. Such findings and conclusions shall be signed by the medical examiners performing the autopsy.
+
+
+
+
+
+
+*§ 17-205 Records.* ::
+
+
+Records shall be kept in the office of the chief medical examiner, properly indexed, stating the name, if known, of every person dying under the circumstances described in paragraph one of subdivision (f) of section five hundred fifty-seven of the charter, the place where the body was found and the date of death. To the record of each case shall be attached the original report of the medical examiner and the detailed findings of the autopsy, if any. The appropriate district attorney and the police commissioner of the city may require from the chief medical examiner such further records, and such daily information, as they may deem necessary.
+
+
+
+
+
+
+*§ 17-206 Fees for copies of records.* ::
+
+
+a. Whenever the chief medical examiner shall furnish to any private individual a copy or transcript of any record or any photograph or photostat of such record, such chief medical examiner shall and is hereby authorized to charge as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 1. For each copy or photostat of medical examiner's report on cause of death
+      - five dollars per page
+    * - 2. For each copy or photostat of hospital report 
+      - five dollars per page
+    * - 3. For each copy or photostat of autopsy report 
+      - five dollars per page
+    * - 4. For each copy or photostat of toxicological chemical laboratory report 
+      - five dollars per page
+    * - 5. For each copy or photostat of identification form 
+      - five dollars per page
+    * - 6. For each copy or photostat of serological and/or bacteriological report 
+      - five dollars per page
+    * - 7. For each copy or photostat of notice of death slip 
+      - five dollars per page
+~
+
+
+
+ 
+
+It is provided that the charge for any single request for documents of a single case shall not exceed fifty dollars.
+
+b. The chief medical examiner shall waive such fee or any portion thereof when furnishing such copies to indigent next of kin.
+
+c. The chief medical examiner, in his or her discretion, shall have the power to waive such fee or any portion thereof when furnishing such copies to those engaged in scientific or other research.
+
+
+
+
+
+
+*§ 17-207 Root cause analysis, office of chief medical examiner.* ::
+
+
+a. For purposes of this subdivision, the following terms shall have the following meanings:
+
+   1. "Designated root cause analysis officer" shall mean an employee of the office of chief medical examiner who is responsible for determining whether a significant event has occurred within the office of chief medical examiner and, if such significant event has occurred, for convening the root cause analysis committee.
+
+   2. "Root cause analysis" shall mean a process for investigating the causal factors of a significant event that shall focus primarily on systems and processes, not on individual performance or human error, and shall identify appropriate corrective action, including strategies to prevent the reoccurrence of a significant event or potential improvements in systems or processes that will decrease the likelihood of a significant event occurring in the future.
+
+   3. "Root cause analysis committee" shall mean a committee composed of representatives of certain divisions of the office of chief medical examiner appointed by the designated root cause analysis officer and assembled in response to a significant event in order to conduct a root cause analysis and to produce a root cause analysis committee report pursuant to this section.
+
+   4. "Root cause analysis committee report" shall mean a final report issued by the root cause analysis committee that shall include the findings of the root cause analysis committee, including, but not limited to, the identification of the root cause or causes of the significant event and a corrective action plan.
+
+   5. "Significant event" shall mean an occurrence in the office of chief medical examiner involving a significant likelihood of an act, error or omission that affects the accuracy, reliability or integrity of the reported results of evidence examination or reported results of analysis. Such act, error or omission shall include, but not be limited to, any (i) act or acts by an employee of the office of chief medical examiner involving intentional fabrication of work product, evidence examination, analysis or test results; (ii) significant error or errors by an employee of the office of chief medical examiner, or deficiency in a system or procedure used by such office, that may have affected the accuracy of reported results of evidence examination or the accuracy of the reported results of analysis in one or more cases; (iii) failure by an employee of the office of chief medical examiner to follow such office's protocol that may have affected the accuracy of reported results of evidence examination or the accuracy of the reported results of analysis in one or more cases; or (iv) statement in the course of testimony by an employee of the office of chief medical examiner that significantly misrepresents or misstates her or his education, experience, training or qualifications, or the reported results of any evidence examination or analysis.
+
+b. The office of chief medical examiner shall appoint an employee of the office of chief medical examiner who shall serve as the designated root cause analysis officer.
+
+c. The office of chief medical examiner shall develop and post on its website root cause analysis guidelines to assist in the implementation of this section. Such guidelines shall provide guidance for:
+
+   1. determining whether a significant event has occurred, consistent with this section;
+
+   2. reporting a significant event;
+
+   3. creating a root cause analysis committee upon a determination of the root cause analysis officer that a significant event has occurred;
+
+   4. selecting individuals who shall serve as members of a root cause analysis committee;
+
+   5. determining the roles and responsibilities of members of a root cause analysis committee;
+
+   6. determining when and how frequently a root cause analysis committee shall meet once a committee has been assembled in response to a significant event;
+
+   7. producing a root cause analysis committee report in a timely manner;
+
+   8. identifying causal factors of a significant event;
+
+   9. identifying corrective action to be taken as a result of the root cause analysis; and
+
+   10. (i) recusing the designated root cause analysis officer in the event that the occurrence at issue is likely to involve acts or omissions by such officer, either acting in the capacity of the designated root cause analysis officer or any other capacity within the office of chief medical examiner, or in any other appropriate instance as specified in the guidelines; (ii) appointing an employee of the office of chief medical examiner to serve as the acting designated root cause analysis officer in the event of such recusal to fulfill the duties of the designated root cause analysis officer pursuant to subdivisions d, e and f of this section, provided that the occurrence at issue is not likely to involve acts or omissions by such individual appointed to serve as acting designated root cause analysis officer; and (iii) requiring a decision not to recuse the designated root cause analysis officer to be reviewed by the executive management of the office of chief medical examiner, such as a director or deputy commissioner.
+
+d. Within ten days of the discovery of an occurrence in the office of chief medical examiner involving the substantial likelihood of an act, error or omission that affects the accuracy, reliability and integrity of the reported results of evidence examination or reported results of analysis, or receipt of a report that a significant event has occurred in the office of chief medical examiner, the designated root cause analysis officer shall make a formal determination whether a significant event has occurred. In the event that the designated root cause analysis officer makes a determination that a significant event has not occurred, such officer shall provide written explanation to the chief medical examiner explaining why such occurrence does not constitute a significant event.
+
+e. Within five business days of a formal determination by the designated root cause analysis officer that a significant event has occurred within the office of chief medical examiner as provided in subdivision d of this section, such officer shall appoint a root cause analysis committee for the purpose of conducting a root cause analysis and producing a root cause analysis committee report. Such committee shall include at least six members, provided that:
+
+   (1) one member is the designated root cause analysis officer;
+
+   (2) at least one member is knowledgeable in the subject area relating to the significant event and is a lab worker or other employee who performs scientific or technical services and works in a non-managerial capacity;
+
+   (3) one member serves in the executive management of the office of chief medical examiner, such as a director or deputy commissioner;
+
+   (4) two members are from divisions, departments or laboratories of the office of chief medical examiner that are not implicated by the significant event, and at least one of the two members works in a non-managerial capacity; and
+
+   (5) one member is an external expert who works in a medical or scientific research field. Such member may serve without compensation. For the purpose of executing paragraph 5 of this subdivision, the office of chief medical examiner shall develop and maintain a list of external experts who may serve as an external expert on a root cause analysis committee if called upon to serve in such capacity.
+
+f. 1. Within thirty days of a determination of the designated root cause analysis officer that a significant event has occurred within the office of chief medical examiner, the office of chief medical examiner shall report the occurrence of such significant event to the mayor and the council of the city of New York, and to any district attorney and defense counsel of record that can be identified and who has a case or client that can reasonably be found to be affected by the significant event. In the event that the defense counsel of record works in the office of an institutional defender, notice shall also be given to the head of such office. In the event that defense counsel of record is assigned from the 18b panel of either the first or second department in the city of New York, notice shall also be given to the administrator of the 18b panel of the assigning department.
+
+   2. The root cause analysis committee shall submit a root cause analysis committee report no later than ninety days following the appointment of such committee, provided, however, that should it not be practicable to complete such report within ninety days, the committee shall report in writing to the mayor and council of the city of New York on the progress of the committee's findings and set forth a statement why such report is not yet completed and when completion is anticipated.
+
+   3. Within seven days of submission of a root cause analysis report to the mayor and council of the city of New York, the office of chief medical examiner shall send a copy of the root cause analysis report at a minimum to (i) the New York state commission on forensic science and any entity responsible for the accreditation of the department of forensic biology of the office of chief medical examiner, provided that the significant event that is the subject of such report is relevant to the department of forensic biology of the office of chief medical examiner, and (ii) to district attorney and defense counsel of record that can be identified and who has a case or client that can reasonably be found to be affected by the significant event. In the event that the defense counsel of record works in the office of an institutional defender, notice shall also be given to the head of such office. In the event that defense counsel of record is assigned from the 18b panel of either the first or second department in the city of New York, notice shall also be given to the administrator of the 18b panel of the assigning department.
+
+g. The root cause analysis report produced pursuant to subdivision f of this section shall not include the names of, or otherwise identify:
+
+   (1) any employee of the office of chief medical examiner;
+
+   (2) any complainant, victim or decedent; or
+
+   (3) any other individual who is the subject of investigations associated with forensic casework performed by the office of chief medical examiner.
+
+h. This section shall not be construed to create a private right of action to enforce any of its provisions.
+
+
+
+
+
+
+*§ 17-208 Transparency, office of chief medical examiner.* ::
+
+
+a. For the purpose of this section, the following terms shall have the following meanings:
+
+   1. "Forensic DNA laboratory" shall have the same meaning as set forth in subdivision two of section nine hundred ninety-five of article forty-nine-b of the New York state executive law, or any successor provision thereto.
+
+   2. "Proficiency test" shall mean such testing as is required by the New York state commission on forensic science and the New York state subcommittee on forensic DNA laboratories and forensic DNA testing pursuant to paragraph b of subdivision three of section nine hundred ninety-five-b of article forty-nine-b of the New York state executive law, or any successor provision thereto.
+
+   3. "Proficiency testing report" shall mean an annual report produced by the office of chief medical examiner which reports the number of employees working in the department of forensic biology of the office of chief medical examiner who have taken a proficiency test that year, and the percentage and number of those employees who passed such proficiency test.
+
+b. The office of chief medical examiner shall annually prepare a proficiency testing report and shall include comparison data for each of the previous five years as available. The proficiency testing report shall not include the names of, or otherwise identify, any employee of the department of forensic biology of the office of chief medical examiner.
+
+c. To the extent the office of chief medical examiner is authorized to publish such materials, the office of chief medical examiner shall post prominently and maintain on its website the following concerning the department of forensic biology of the office of chief medical examiner:
+
+   1. current copies, and copies used within the preceding two years, of all manuals, guidelines, or other documents relating to scientific procedures or protocols, quality assurance and quality control procedures or protocols, materials used for the training of lab workers, and evidence and case management procedures, including, but not limited to, accreditation standards and accreditation audit reports;
+
+   2. the most recent annual proficiency testing report; and
+
+   3. current copies of all certificates of accreditation issued to the department of forensic biology of the office of chief medical examiner, whether by a governmental entity or a non-governmental entity responsible for the accreditation of the department of forensic biology of the office of chief medical examiner.
+
+d. Historic copies of any manual, guidelines, or other document identified in paragraph one of subdivision c of this section used on or after January first, two thousand and not fully available on the website of the office of chief medical examiner shall be made available to any person upon request, and a notice describing such availability and how to make such a request shall be posted on the office's website.
+
+e. This section shall not be construed to create a private right of action to enforce any of its provisions.
+
+
+
+
 Chapter 1: Department of Health and Mental Hygiene
 --------------------------------------------------
 
@@ -1661,39 +1866,53 @@ d. Rules. The commissioner shall promulgate rules and regulations as may be nece
 
 a. Definitions. For purposes of this section, the following terms shall have the following meanings:
 
-   1. "Building" shall mean any building, structure, premises, or part thereof.
+   Building. The term "building" means any building, structure, premises, or part thereof.
 
-   2. "Drinking water" shall mean water used for human consumption or used directly or indirectly in connection with the preparation of food for human consumption, including, but not limited to, the cleaning of utensils used in the preparation of food.
+   Drinking water. The term "drinking water" means water used for human consumption or used directly or indirectly in connection with the preparation of food for human consumption, including, but not limited to, the cleaning of utensils used in the preparation of food.
 
-   3. "Owner" shall mean any owner, manager, operator or other person or persons having control of a building and any authorized agent thereof.
+   Owner. The term "owner" means any owner, manager, operator or other person or persons having control of a building and any authorized agent thereof.
 
-   4. "Water heater" shall mean any heating appliance or equipment that heats potable water and supplies such water to the potable hot water distribution system.
+   Water heater. The term "water heater" means any heating appliance or equipment that heats potable water and supplies such water to the potable hot water distribution system.
 
-   5. "Water tank" shall mean any device used to store drinking water that is distributed as part of the water supply system of a building, however such term shall not apply to domestic hot water heaters.
+   Water tank. The term "water tank" means any device used to store drinking water that is distributed as part of the water supply system of a building, however such term shall not apply to domestic hot water heaters.
 
-b. Any owner of a building that has a water tank as part of its drinking water supply system shall have such water tank inspected at least once annually. Such inspection shall ensure that the water tank complies with all provisions of the administrative code of the city of New York, the construction codes of the city of New York and the health code of the city of New York. The results of such inspection shall be recorded in a manner prescribed by the commissioner. Such results shall be maintained by the owner for at least five years from the date of inspection and shall be made available to the department upon request within five business days. Documentation of such annual inspection shall be submitted in a form and manner prescribed by the department. Such documentation shall state whether or not all applicable requirements were met at the time of inspection and provide a description of any non-compliance with applicable requirements.
+   Water tank inspector. The term "water tank inspector" means a person that inspects a water tank pursuant to this section and is (i) a licensed master plumber pursuant to article 408 of chapter 4 of title 28, (ii) works under the direct and continuing supervision of such a licensed master plumber, or (iii) is a registered design professional as defined in section 28-101.5.
 
-c. The owner of a building shall post a notice stating that (i) the water tank inspection results are maintained on file in a specific location and will be made available when a person makes such a request to either the building owner or manager and (ii) that a person may contact the department if the inspection results are not made available to such person by the building owner or manager. Upon receipt of such request, the owner or manager shall make a copy of the inspection results available within five business days. Such notice shall be posted in a location easily accessible to tenants and in a frame with a transparent cover, and may be combined with similar notices where not otherwise prohibited by law.
+b. Any owner of a building that has a water tank as part of its drinking water supply system shall have such water tank inspected at least once annually. Such inspection shall ensure that the water tank complies with all provisions of the administrative code of the city of New York, the construction codes of the city of New York and the health code of the city of New York. The results of such inspection shall be recorded in a manner prescribed by the commissioner. Such results shall be maintained by the owner and by the water tank inspector for at least five years from the date of inspection and shall be made available to the department upon request within five business days. An owner shall ensure that documentation of such annual inspection shall be submitted to the department by the water tank inspector, in a form and manner prescribed by the department. Such documentation shall state whether or not all applicable requirements were met at the time of inspection and provide a description of any non-compliance with applicable requirements. Such documentation shall include visual depictions, such as photographs or videos, which display the interior and exterior of the water tank. The department may require an owner to conduct additional inspections and provide any additional documentation, including receipts of work orders, or visual depictions such as photographs or videos. The department may require that any document submitted to the department pursuant to this section be submitted electronically.
 
-d. Beginning March 1, 2019, and each year thereafter, the department shall submit to the council a report which shall provide information about water tank inspections for the preceding calendar year including, but not limited to:
+c. The inspection of a water tank pursuant to subdivision b of this section shall be conducted by a water tank inspector. In addition to the requirements of the New York city health code, the cleaning, painting or coating of a water tank shall be conducted by a water tank inspector, or by a person who holds a commercial pesticide applicator certification in category 7G issued by the New York state department of environmental conservation or works under the direct supervision of a person holding such certification.
 
-   1. the estimated number of building water tanks and the estimated number of buildings serviced by such tanks;
+d. The owner of a building shall post a notice stating that (i) the water tank inspection results are maintained on file in a specific location and will be made available when a person makes such a request to either the building owner or manager and (ii) that a person may contact the department if the inspection results are not made available to such person by the building owner or manager. Upon receipt of such request, the owner or manager shall make a copy of the inspection results available within five business days. Such notice shall be posted in a location easily accessible to tenants and in a frame with a transparent cover, and may be combined with similar notices where not otherwise prohibited by law.
 
-   2. the number of complete building water tank inspection results received by the department pursuant to subdivision b of this section;
+e. Beginning March 1, 2019, and each year thereafter, the department shall submit to the council a report which shall provide information about water tank inspections for the preceding calendar year including, but not limited to:
 
-   3. the number of building water tank inspection results received by the department that documented compliance with applicable requirements; and
+   1.  The estimated number of building water tanks and the estimated number of buildings serviced by such tanks;
 
-   4. the number of violations issued by the department pursuant to subdivision f of this section, section 141.07 of the health code or chapter 31 of title 24 of the rules of the city of New York.
+   2. The number of complete building water tank inspection results received by the department pursuant to subdivision b of this section;
 
-e. Water tank inspection information on website. Within 35 business days of receiving the documentation of an annual inspection required pursuant to subdivision b, the department shall post such documentation on its website and the web portal providing access to public data sets described in section 23-502. The department's website shall provide notice that failure to conduct a required water tank inspection is a violation of law. Information available to the public shall include:
+   3. The number of building water tank inspection results received by the department that documented compliance with applicable requirements; and
 
-   1. guidance to assist users in accessing any prior inspection report for a building available on the web portal providing access to public data sets described in section 23-502;
+   4. The number of violations issued by the department pursuant to subdivision j of this section, section 141.07 of the health code or chapter 31 of title 24 of the rules of the city of New York.
 
-   2. guidance to assist users in determining whether a building is required to have a water tank inspection pursuant to this section or section 141.07 of the health code; and
+f. Water tank inspection information on website. Within 35 business days of receiving the documentation of an annual inspection required pursuant to subdivision b, the department shall post such documentation on its website and the web portal providing access to public data sets described in section 23-502. The department's website shall provide notice that failure to conduct a required water tank inspection is a violation of law. Information available to the public shall include:
 
-   3. information about how to submit a complaint about a water tank, or water from a water tank, to the department.
+   1. Guidance to assist users in accessing any prior inspection report for a building available on the web portal providing access to public data sets described in section 23-502;
 
-f. Any owner of a building who violates subdivision b of this section or any of the rules promulgated thereunder shall be liable for a civil penalty not less than two hundred and not to exceed two thousand dollars for each violation. Any owner of a building who violates subdivision c of this section or any of the rules promulgated thereunder shall be liable for a civil penalty not to exceed two hundred fifty dollars for each violation.
+   2. Guidance to assist users in determining whether a building is required to have a water tank inspection pursuant to this section or section 141.07 of the health code; and
+
+   3. Information about how to submit a complaint about a water tank, or water from a water tank, to the department.
+
+g. Any owner of a building shall have a duty to maintain a water tank and such water tank’s supporting structures in a safe condition. If, as a result of an annual inspection required by subdivision b of this section, it is determined that a water tank or its supporting structure is structurally unsafe or dangerous, the water tank inspector or owner shall take such actions as are required by section 28-301.1 and report such condition to the department of buildings in writing.
+
+h. 1. The department shall periodically audit a sample of buildings’ documentation of the annual inspections required to be maintained pursuant to subdivision b of this section. Such audit shall review such documentation for accuracy and the department may conduct such audits without prior notice to a building’s owner, as authorized by law. The department shall also annually inspect 125 water tanks, selected at random by the department, for compliance with this section.
+
+   2. The department shall post the results of such periodic audits and inspections on its website and the web portal providing access to public data sets described in section 23-502 within 35 days of conducting such a periodic audit or inspection.
+
+i. 1. Wherever harmful bacteria are found in a water tank and reported to the department in accordance with section 141.07 of the health code, or where a water tank has been the subject of certain violations within the prior 12 months identified by the department, the department shall review documentation of the annual inspections required by subdivision b of this section for such water tank. The department may review such documentation without prior notice to the building’s owner, as authorized by law.
+
+   2. The department shall post the results of the documentation review required by paragraph 1 of this subdivision on its website and the web portal providing access to public data sets described in section 23-502 within 35 days of such review.
+
+j. Any owner of a building who violates subdivisions b or c of this section or any of the rules promulgated thereunder shall be liable for a civil penalty not less than $200 and not to exceed $2,000 for each violation. Any owner of a building who violates subdivision d of this section or any of the rules promulgated thereunder shall be liable for a civil penalty not to exceed $250 for each violation. Any owner of a building who violates subdivision g of this section shall be liable for a civil penalty not less than $200 and not to exceed $2,000 for each violation.
 
 
 
@@ -2332,211 +2551,6 @@ e. It shall be a rebuttable presumption that a food item or combination of food 
    4. With a limitation on the maximum age of a person who can select the item or items.
 
 
-
-
-
-
-Chapter 2: Medical Examiner
---------------------------------------------------
-
-
-
-*§ 17-201 Report of deaths; removal of body.* ::
-
-
-It shall be the duty of any citizen who becomes aware of the death of any person, occurring under the circumstances described in paragraph one of subdivision (f) of section five hundred fifty-seven of the charter, to report such death forthwith to the office of the chief medical examiner, and to a police officer who shall forthwith notify the officer in charge of the station-house in the police precinct in which such person died. Any person who shall wilfully neglect or refuse to report such death or who without written order from a medical examiner shall wilfully touch, remove or disturb the body of any such person, or wilfully touch, remove or disturb the clothing or any article upon or near such body, shall be guilty of a misdemeanor.
-
-
-
-
-
-
-*§ 17-202 Procedure in deaths reportable to the office of chief medical examiner.* ::
-
-
-a. Upon any such death, the officer in charge of the station-house in the police precinct in which such person died shall immediately notify the office of chief medical examiner of the known facts concerning the time, place, manner and circumstances of such death. Immediately upon receipt of such notification the chief medical examiner, or a deputy chief medical examiner, or a medical examiner, or a medical investigator, or a lay medical investigator shall go to and take charge of the dead body. Such medical examiner, medical investigator or lay medical investigator shall fully investigate the essential facts concerning the circumstances of the death, taking the names and addresses of as many witnesses thereto as it may be practicable to obtain, and shall record all such facts and file the same in the office of chief medical examiner. Such medical examiner, medical investigator or lay medical investigator shall take possession of any portable objects which, in his or her opinion, may be useful in establishing the cause of death, and except as provided in subdivision c hereof, shall deliver them to the police department.
-
-b. The police officer detailed in such cases shall, in the absence of next of kin of the deceased person, take possession of all property of value found on such person, make an exact inventory thereof on his or her report, and deliver such property to the police department, which shall surrender the same to the person entitled to its custody or possession.
-
-c. Notwithstanding the provisions of subdivisions a and b of this section, any suicide note or other written evidence of suicide found on such deceased person shall be delivered to the chief medical examiner and shall be retained by said medical examiner.
-
-d. Nothing in this section contained shall affect the powers and duties of a public administrator.
-
-
-
-
-
-
-*§ 17-203 Autopsies; findings.* ::
-
-
-If it may be concluded with reasonable certainty that death occurred from natural causes or obvious traumatic injury, and there are no other circumstances which would appear to require an autopsy, the chief medical examiner, deputy chief medical examiner or medical examiner or medical investigator in charge shall certify the cause of death and file a report of his or her findings in the office of chief medical examiner. If, however, in the opinion of a medical examiner, an autopsy is necessary, the same shall be performed by a medical examiner. Where indicated, the autopsy shall include toxicologic, histologic, microbiologic and serologic examinations. A detailed description of the findings of all autopsies shall be written or dictated. The findings of the investigation at the scene of death, the autopsy and any toxicologic, histologic, serologic and microbiologic examinations, and the conclusions drawn therefrom shall be filed in the office of chief medical examiner. Such findings and conclusions shall be signed by the medical examiner performing the autopsy.
-
-
-
-
-
-
-*§ 17-204 Cremation.* ::
-
-
-Whenever an application is made pursuant to law for a permit to cremate the body of any person, the department, board or office in which such application is filed shall forward such application to the chief medical examiner who shall thereupon cause an investigation and report to be made thereon. In the event that the chief medical examiner, or a deputy chief medical examiner, or a medical examiner shall, in the course of such investigation, determine that reasonable grounds exist therefor, an autopsy shall be performed upon such body by a medical examiner. Where indicated, the autopsy shall include toxicologic, histologic, microbiologic and serologic examinations. A detailed description of the findings of all autopsies shall be written or dictated. The findings of the investigation, the autopsy and any toxicologic, histologic, serologic and microbiologic examinations, and the conclusions drawn therefrom shall be filed in the office of chief medical examiner. Such findings and conclusions shall be signed by the medical examiners performing the autopsy.
-
-
-
-
-
-
-*§ 17-205 Records.* ::
-
-
-Records shall be kept in the office of the chief medical examiner, properly indexed, stating the name, if known, of every person dying under the circumstances described in paragraph one of subdivision (f) of section five hundred fifty-seven of the charter, the place where the body was found and the date of death. To the record of each case shall be attached the original report of the medical examiner and the detailed findings of the autopsy, if any. The appropriate district attorney and the police commissioner of the city may require from the chief medical examiner such further records, and such daily information, as they may deem necessary.
-
-
-
-
-
-
-*§ 17-206 Fees for copies of records.* ::
-
-
-a. Whenever the chief medical examiner shall furnish to any private individual a copy or transcript of any record or any photograph or photostat of such record, such chief medical examiner shall and is hereby authorized to charge as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1. For each copy or photostat of medical examiner's report on cause of death
-      - five dollars per page
-    * - 2. For each copy or photostat of hospital report 
-      - five dollars per page
-    * - 3. For each copy or photostat of autopsy report 
-      - five dollars per page
-    * - 4. For each copy or photostat of toxicological chemical laboratory report 
-      - five dollars per page
-    * - 5. For each copy or photostat of identification form 
-      - five dollars per page
-    * - 6. For each copy or photostat of serological and/or bacteriological report 
-      - five dollars per page
-    * - 7. For each copy or photostat of notice of death slip 
-      - five dollars per page
-~
-
-
-
- 
-
-It is provided that the charge for any single request for documents of a single case shall not exceed fifty dollars.
-
-b. The chief medical examiner shall waive such fee or any portion thereof when furnishing such copies to indigent next of kin.
-
-c. The chief medical examiner, in his or her discretion, shall have the power to waive such fee or any portion thereof when furnishing such copies to those engaged in scientific or other research.
-
-
-
-
-
-
-*§ 17-207 Root cause analysis, office of chief medical examiner.* ::
-
-
-a. For purposes of this subdivision, the following terms shall have the following meanings:
-
-   1. "Designated root cause analysis officer" shall mean an employee of the office of chief medical examiner who is responsible for determining whether a significant event has occurred within the office of chief medical examiner and, if such significant event has occurred, for convening the root cause analysis committee.
-
-   2. "Root cause analysis" shall mean a process for investigating the causal factors of a significant event that shall focus primarily on systems and processes, not on individual performance or human error, and shall identify appropriate corrective action, including strategies to prevent the reoccurrence of a significant event or potential improvements in systems or processes that will decrease the likelihood of a significant event occurring in the future.
-
-   3. "Root cause analysis committee" shall mean a committee composed of representatives of certain divisions of the office of chief medical examiner appointed by the designated root cause analysis officer and assembled in response to a significant event in order to conduct a root cause analysis and to produce a root cause analysis committee report pursuant to this section.
-
-   4. "Root cause analysis committee report" shall mean a final report issued by the root cause analysis committee that shall include the findings of the root cause analysis committee, including, but not limited to, the identification of the root cause or causes of the significant event and a corrective action plan.
-
-   5. "Significant event" shall mean an occurrence in the office of chief medical examiner involving a significant likelihood of an act, error or omission that affects the accuracy, reliability or integrity of the reported results of evidence examination or reported results of analysis. Such act, error or omission shall include, but not be limited to, any (i) act or acts by an employee of the office of chief medical examiner involving intentional fabrication of work product, evidence examination, analysis or test results; (ii) significant error or errors by an employee of the office of chief medical examiner, or deficiency in a system or procedure used by such office, that may have affected the accuracy of reported results of evidence examination or the accuracy of the reported results of analysis in one or more cases; (iii) failure by an employee of the office of chief medical examiner to follow such office's protocol that may have affected the accuracy of reported results of evidence examination or the accuracy of the reported results of analysis in one or more cases; or (iv) statement in the course of testimony by an employee of the office of chief medical examiner that significantly misrepresents or misstates her or his education, experience, training or qualifications, or the reported results of any evidence examination or analysis.
-
-b. The office of chief medical examiner shall appoint an employee of the office of chief medical examiner who shall serve as the designated root cause analysis officer.
-
-c. The office of chief medical examiner shall develop and post on its website root cause analysis guidelines to assist in the implementation of this section. Such guidelines shall provide guidance for:
-
-   1. determining whether a significant event has occurred, consistent with this section;
-
-   2. reporting a significant event;
-
-   3. creating a root cause analysis committee upon a determination of the root cause analysis officer that a significant event has occurred;
-
-   4. selecting individuals who shall serve as members of a root cause analysis committee;
-
-   5. determining the roles and responsibilities of members of a root cause analysis committee;
-
-   6. determining when and how frequently a root cause analysis committee shall meet once a committee has been assembled in response to a significant event;
-
-   7. producing a root cause analysis committee report in a timely manner;
-
-   8. identifying causal factors of a significant event;
-
-   9. identifying corrective action to be taken as a result of the root cause analysis; and
-
-   10. (i) recusing the designated root cause analysis officer in the event that the occurrence at issue is likely to involve acts or omissions by such officer, either acting in the capacity of the designated root cause analysis officer or any other capacity within the office of chief medical examiner, or in any other appropriate instance as specified in the guidelines; (ii) appointing an employee of the office of chief medical examiner to serve as the acting designated root cause analysis officer in the event of such recusal to fulfill the duties of the designated root cause analysis officer pursuant to subdivisions d, e and f of this section, provided that the occurrence at issue is not likely to involve acts or omissions by such individual appointed to serve as acting designated root cause analysis officer; and (iii) requiring a decision not to recuse the designated root cause analysis officer to be reviewed by the executive management of the office of chief medical examiner, such as a director or deputy commissioner.
-
-d. Within ten days of the discovery of an occurrence in the office of chief medical examiner involving the substantial likelihood of an act, error or omission that affects the accuracy, reliability and integrity of the reported results of evidence examination or reported results of analysis, or receipt of a report that a significant event has occurred in the office of chief medical examiner, the designated root cause analysis officer shall make a formal determination whether a significant event has occurred. In the event that the designated root cause analysis officer makes a determination that a significant event has not occurred, such officer shall provide written explanation to the chief medical examiner explaining why such occurrence does not constitute a significant event.
-
-e. Within five business days of a formal determination by the designated root cause analysis officer that a significant event has occurred within the office of chief medical examiner as provided in subdivision d of this section, such officer shall appoint a root cause analysis committee for the purpose of conducting a root cause analysis and producing a root cause analysis committee report. Such committee shall include at least six members, provided that:
-
-   (1) one member is the designated root cause analysis officer;
-
-   (2) at least one member is knowledgeable in the subject area relating to the significant event and is a lab worker or other employee who performs scientific or technical services and works in a non-managerial capacity;
-
-   (3) one member serves in the executive management of the office of chief medical examiner, such as a director or deputy commissioner;
-
-   (4) two members are from divisions, departments or laboratories of the office of chief medical examiner that are not implicated by the significant event, and at least one of the two members works in a non-managerial capacity; and
-
-   (5) one member is an external expert who works in a medical or scientific research field. Such member may serve without compensation. For the purpose of executing paragraph 5 of this subdivision, the office of chief medical examiner shall develop and maintain a list of external experts who may serve as an external expert on a root cause analysis committee if called upon to serve in such capacity.
-
-f. 1. Within thirty days of a determination of the designated root cause analysis officer that a significant event has occurred within the office of chief medical examiner, the office of chief medical examiner shall report the occurrence of such significant event to the mayor and the council of the city of New York, and to any district attorney and defense counsel of record that can be identified and who has a case or client that can reasonably be found to be affected by the significant event. In the event that the defense counsel of record works in the office of an institutional defender, notice shall also be given to the head of such office. In the event that defense counsel of record is assigned from the 18b panel of either the first or second department in the city of New York, notice shall also be given to the administrator of the 18b panel of the assigning department.
-
-   2. The root cause analysis committee shall submit a root cause analysis committee report no later than ninety days following the appointment of such committee, provided, however, that should it not be practicable to complete such report within ninety days, the committee shall report in writing to the mayor and council of the city of New York on the progress of the committee's findings and set forth a statement why such report is not yet completed and when completion is anticipated.
-
-   3. Within seven days of submission of a root cause analysis report to the mayor and council of the city of New York, the office of chief medical examiner shall send a copy of the root cause analysis report at a minimum to (i) the New York state commission on forensic science and any entity responsible for the accreditation of the department of forensic biology of the office of chief medical examiner, provided that the significant event that is the subject of such report is relevant to the department of forensic biology of the office of chief medical examiner, and (ii) to district attorney and defense counsel of record that can be identified and who has a case or client that can reasonably be found to be affected by the significant event. In the event that the defense counsel of record works in the office of an institutional defender, notice shall also be given to the head of such office. In the event that defense counsel of record is assigned from the 18b panel of either the first or second department in the city of New York, notice shall also be given to the administrator of the 18b panel of the assigning department.
-
-g. The root cause analysis report produced pursuant to subdivision f of this section shall not include the names of, or otherwise identify:
-
-   (1) any employee of the office of chief medical examiner;
-
-   (2) any complainant, victim or decedent; or
-
-   (3) any other individual who is the subject of investigations associated with forensic casework performed by the office of chief medical examiner.
-
-h. This section shall not be construed to create a private right of action to enforce any of its provisions.
-
-
-
-
-
-
-*§ 17-208 Transparency, office of chief medical examiner.* ::
-
-
-a. For the purpose of this section, the following terms shall have the following meanings:
-
-   1. "Forensic DNA laboratory" shall have the same meaning as set forth in subdivision two of section nine hundred ninety-five of article forty-nine-b of the New York state executive law, or any successor provision thereto.
-
-   2. "Proficiency test" shall mean such testing as is required by the New York state commission on forensic science and the New York state subcommittee on forensic DNA laboratories and forensic DNA testing pursuant to paragraph b of subdivision three of section nine hundred ninety-five-b of article forty-nine-b of the New York state executive law, or any successor provision thereto.
-
-   3. "Proficiency testing report" shall mean an annual report produced by the office of chief medical examiner which reports the number of employees working in the department of forensic biology of the office of chief medical examiner who have taken a proficiency test that year, and the percentage and number of those employees who passed such proficiency test.
-
-b. The office of chief medical examiner shall annually prepare a proficiency testing report and shall include comparison data for each of the previous five years as available. The proficiency testing report shall not include the names of, or otherwise identify, any employee of the department of forensic biology of the office of chief medical examiner.
-
-c. To the extent the office of chief medical examiner is authorized to publish such materials, the office of chief medical examiner shall post prominently and maintain on its website the following concerning the department of forensic biology of the office of chief medical examiner:
-
-   1. current copies, and copies used within the preceding two years, of all manuals, guidelines, or other documents relating to scientific procedures or protocols, quality assurance and quality control procedures or protocols, materials used for the training of lab workers, and evidence and case management procedures, including, but not limited to, accreditation standards and accreditation audit reports;
-
-   2. the most recent annual proficiency testing report; and
-
-   3. current copies of all certificates of accreditation issued to the department of forensic biology of the office of chief medical examiner, whether by a governmental entity or a non-governmental entity responsible for the accreditation of the department of forensic biology of the office of chief medical examiner.
-
-d. Historic copies of any manual, guidelines, or other document identified in paragraph one of subdivision c of this section used on or after January first, two thousand and not fully available on the website of the office of chief medical examiner shall be made available to any person upon request, and a notice describing such availability and how to make such a request shall be posted on the office's website.
-
-e. This section shall not be construed to create a private right of action to enforce any of its provisions.
 
 
 
@@ -7185,6 +7199,67 @@ This law shall apply to all persons convicted of an animal abuse crime on or aft
 
 
 
+Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
+--------------------------------------------------
+
+
+
+*§ 17-1801 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms shall have the following meanings:
+
+Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
+
+Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
+
+Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
+
+Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
+
+Screened. The term “screened” means evaluated by a health care provider.
+
+
+
+
+
+
+
+
+*§ 17-1802 Arrestee health screening.* ::
+
+
+Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
+
+
+
+
+
+
+
+
+*§ 17-1803 Inmate health information from screening.* ::
+
+
+The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
+
+
+
+
+
+
+
+
+*§ 17-1804 Inmate health information exchange.* ::
+
+
+The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
+
+
+
+
+
+
 Chapter 17: Pet Shops
 --------------------------------------------------
 
@@ -7470,67 +7545,6 @@ d. The commissioner may impose upon the owner of a pet shop from which an animal
 
 
 The commissioner may promulgate such rules as are necessary to carry out the provisions of this chapter and to ensure the health and safety of any animal in a pet shop.
-
-
-
-
-Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
---------------------------------------------------
-
-
-
-*§ 17-1801 Definitions.* ::
-
-
-For the purposes of this chapter, the following terms shall have the following meanings:
-
-Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
-
-Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
-
-Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
-
-Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
-
-Screened. The term “screened” means evaluated by a health care provider.
-
-
-
-
-
-
-
-
-*§ 17-1802 Arrestee health screening.* ::
-
-
-Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
-
-
-
-
-
-
-
-
-*§ 17-1803 Inmate health information from screening.* ::
-
-
-The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
-
-
-
-
-
-
-
-
-*§ 17-1804 Inmate health information exchange.* ::
-
-
-The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
-
-
 
 
 

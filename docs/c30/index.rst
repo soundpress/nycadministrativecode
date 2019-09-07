@@ -1417,7 +1417,9 @@ Except as otherwise specified in this code or in the rules of the department, fo
 *§ 28-104.2.1.2 Program requirements.* ::
 
 
-The commissioner may establish qualifications and requirements for registered design professionals to participate in such program and may exclude, suspend or otherwise sanction participants for cause.
+The commissioner may establish qualifications and requirements for registered design professionals to participate in such program and may exclude, suspend or otherwise sanction participants for cause. The commissioner shall send an annual notification to registered design professionals who are currently participating in this program notifying them, in a manner to be determined by the commissioner, of the grounds upon which they may be excluded, suspended or otherwise sanctioned.
+
+
 
 
 
@@ -1447,7 +1449,9 @@ A registered design professional shall not be eligible to participate in the pro
 *§ 28-104.2.1.3.2 Mandatory sanctions.* ::
 
 
-The commissioner shall, after the opportunity for a hearing before the office of administrative trials and hearings in accordance with department rules, exclude, suspend or otherwise condition the participation of a registered design professional who (i) knowingly or negligently submits a professional certification of an application and/or construction and other related documents that contains false information or is not in compliance with all applicable provisions of law, or (ii) submits two professionally certified applications for construction document approval within any 12-month period containing errors that result in revocation of an associated permit or that otherwise demonstrate incompetence or a lack of knowledge of applicable laws. The term "otherwise condition" shall mean limitations on such professional's participation in the program, such as, but not limited to, audits and monitoring of the registered design professional's applications and other submissions. For purposes of this section, a professionally certified application shall include the professional certification of construction and other related documents and the satisfaction of objections issued at plan examination.
+The commissioner shall, after the opportunity for a hearing before the office of administrative trials and hearings in accordance with department rules, exclude, suspend or otherwise condition the participation of a registered design professional who (i) knowingly or negligently submits a professional certification of an application and/or construction and other related document that contains false information or is not in compliance with all applicable provisions of law, (ii) submits two professionally certified applications for construction document approval within any 12-month period containing errors that result in revocation of an associated permit or that otherwise demonstrate incompetence or a lack of knowledge of applicable laws, or (iii) knowingly orders or directs another registered design professional to submit a professional certification of an application and/or construction and any other related document that contains false information or is not in compliance with all applicable provisions of law or that otherwise demonstrates incompetence or a lack of knowledge of applicable laws, or with knowledge of such specific conduct, ratifies or assents to such conduct or with knowledge of such specific conduct and while acting as a supervisor otherwise fails to prevent it. The commissioner may, after the opportunity for a hearing before the office of administrative trials and hearings in accordance with department rules, exclude, suspend, or otherwise condition the participation of a registered design professional who submits two professionally certified applications for construction document approval within any 12-month period containing errors that result in a stop work order. The term "otherwise condition" shall mean limitations on such professional's participation in the program, such as, but not limited to, audits and monitoring of the registered design professional's applications and other submissions. For purposes of this section, a professionally certified application shall include the professional certification of construction and other related documents and the satisfaction of objections issued at plan examination.
+
+
 
 
 
@@ -1467,7 +1471,9 @@ A registered design professional who is excluded from the program in accordance 
 *§ 28-104.2.1.3.2.2 Mandatory permanent revocation.* ::
 
 
-The commissioner shall permanently revoke, without the opportunity of restoration, the professional certification privileges of an engineer or architect who, while on probation, professionally certifies an application, plans, construction or other related documents that contains false information or is not in compliance with all applicable provisions of law or who otherwise demonstrates incompetence or a lack of knowledge of applicable laws.
+The commissioner (i) shall permanently revoke, without the opportunity of restoration, the professional certification privileges of an engineer or architect who, while on probation, professionally certifies an application, plans, construction or other related document that contains false information or is not in compliance with all applicable provisions of law or who otherwise demonstrates incompetence or a lack of knowledge of applicable laws and (ii) may permanently revoke the professional certification privileges of an engineer or architect who knowingly orders or directs another registered design professional to, while on probation, professionally certify an application, plans, construction or other related document that contains false information or is not in compliance with all applicable provisions of law or that otherwise demonstrates incompetence or a lack of knowledge of applicable laws, or with knowledge of such specific conduct, ratifies or assents to, or with knowledge of such specific conduct and while acting as a supervisor otherwise fails to prevent it.
+
+
 
 
 
@@ -1487,7 +1493,9 @@ Nothing herein shall be construed to limit the commissioner's power, consistent 
 *§ 28-104.2.1.4 Database.* ::
 
 
-The department shall create and maintain a database of all registered design professionals who have been excluded, suspended or otherwise sanctioned by the department. Within 7 business days of the date a sanction is imposed, the department shall post on its website and shall make available upon request, the name of the registered design professional, a description of the sanction, the initial date of the sanction, the reinstatement date, if applicable, the address of the premises for which the application associated with the sanction was submitted, and whether the sanction was imposed after a hearing or a settlement. The department shall provide requested information concerning the exclusion, suspension or other sanction of a specific registered design professional within 30 days of such request.
+The department shall create and maintain a database of all registered design professionals who have been excluded, suspended or otherwise sanctioned by the department, all current firms of employment or affiliation of such professionals, if known or readily ascertainable, and the firm that employed such professionals, or with which such professional was affiliated, at the time such professionals were sanctioned, and the status of such sanction or sanctions. Within 7 business days of the date a sanction is imposed, the department shall post on its website, in a non-proprietary machine-readable format that permits automated processing, and shall make available upon request, the name of the registered design professional and the firm that employed such professionals, or with which such professionals were affiliated, at the time such professionals were sanctioned, and a description of the sanction, the initial date of the sanction, the reinstatement date, if applicable, the address of the premises for which the application associated with the sanction was submitted, and whether the sanction was imposed after a hearing or a settlement. The department shall provide requested information concerning the exclusion, suspension or other sanction of a specific registered design professional and the firm of employment of such professionals, or the firm with which such professionals were affiliated, when such professionals were sanctioned, within 30 days of such request.
+
+
 
 
 
