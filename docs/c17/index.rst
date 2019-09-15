@@ -1,211 +1,6 @@
 Title 17: Health
 ===================================================
 
-Chapter 2: Medical Examiner
---------------------------------------------------
-
-
-
-*§ 17-201 Report of deaths; removal of body.* ::
-
-
-It shall be the duty of any citizen who becomes aware of the death of any person, occurring under the circumstances described in paragraph one of subdivision (f) of section five hundred fifty-seven of the charter, to report such death forthwith to the office of the chief medical examiner, and to a police officer who shall forthwith notify the officer in charge of the station-house in the police precinct in which such person died. Any person who shall wilfully neglect or refuse to report such death or who without written order from a medical examiner shall wilfully touch, remove or disturb the body of any such person, or wilfully touch, remove or disturb the clothing or any article upon or near such body, shall be guilty of a misdemeanor.
-
-
-
-
-
-
-*§ 17-202 Procedure in deaths reportable to the office of chief medical examiner.* ::
-
-
-a. Upon any such death, the officer in charge of the station-house in the police precinct in which such person died shall immediately notify the office of chief medical examiner of the known facts concerning the time, place, manner and circumstances of such death. Immediately upon receipt of such notification the chief medical examiner, or a deputy chief medical examiner, or a medical examiner, or a medical investigator, or a lay medical investigator shall go to and take charge of the dead body. Such medical examiner, medical investigator or lay medical investigator shall fully investigate the essential facts concerning the circumstances of the death, taking the names and addresses of as many witnesses thereto as it may be practicable to obtain, and shall record all such facts and file the same in the office of chief medical examiner. Such medical examiner, medical investigator or lay medical investigator shall take possession of any portable objects which, in his or her opinion, may be useful in establishing the cause of death, and except as provided in subdivision c hereof, shall deliver them to the police department.
-
-b. The police officer detailed in such cases shall, in the absence of next of kin of the deceased person, take possession of all property of value found on such person, make an exact inventory thereof on his or her report, and deliver such property to the police department, which shall surrender the same to the person entitled to its custody or possession.
-
-c. Notwithstanding the provisions of subdivisions a and b of this section, any suicide note or other written evidence of suicide found on such deceased person shall be delivered to the chief medical examiner and shall be retained by said medical examiner.
-
-d. Nothing in this section contained shall affect the powers and duties of a public administrator.
-
-
-
-
-
-
-*§ 17-203 Autopsies; findings.* ::
-
-
-If it may be concluded with reasonable certainty that death occurred from natural causes or obvious traumatic injury, and there are no other circumstances which would appear to require an autopsy, the chief medical examiner, deputy chief medical examiner or medical examiner or medical investigator in charge shall certify the cause of death and file a report of his or her findings in the office of chief medical examiner. If, however, in the opinion of a medical examiner, an autopsy is necessary, the same shall be performed by a medical examiner. Where indicated, the autopsy shall include toxicologic, histologic, microbiologic and serologic examinations. A detailed description of the findings of all autopsies shall be written or dictated. The findings of the investigation at the scene of death, the autopsy and any toxicologic, histologic, serologic and microbiologic examinations, and the conclusions drawn therefrom shall be filed in the office of chief medical examiner. Such findings and conclusions shall be signed by the medical examiner performing the autopsy.
-
-
-
-
-
-
-*§ 17-204 Cremation.* ::
-
-
-Whenever an application is made pursuant to law for a permit to cremate the body of any person, the department, board or office in which such application is filed shall forward such application to the chief medical examiner who shall thereupon cause an investigation and report to be made thereon. In the event that the chief medical examiner, or a deputy chief medical examiner, or a medical examiner shall, in the course of such investigation, determine that reasonable grounds exist therefor, an autopsy shall be performed upon such body by a medical examiner. Where indicated, the autopsy shall include toxicologic, histologic, microbiologic and serologic examinations. A detailed description of the findings of all autopsies shall be written or dictated. The findings of the investigation, the autopsy and any toxicologic, histologic, serologic and microbiologic examinations, and the conclusions drawn therefrom shall be filed in the office of chief medical examiner. Such findings and conclusions shall be signed by the medical examiners performing the autopsy.
-
-
-
-
-
-
-*§ 17-205 Records.* ::
-
-
-Records shall be kept in the office of the chief medical examiner, properly indexed, stating the name, if known, of every person dying under the circumstances described in paragraph one of subdivision (f) of section five hundred fifty-seven of the charter, the place where the body was found and the date of death. To the record of each case shall be attached the original report of the medical examiner and the detailed findings of the autopsy, if any. The appropriate district attorney and the police commissioner of the city may require from the chief medical examiner such further records, and such daily information, as they may deem necessary.
-
-
-
-
-
-
-*§ 17-206 Fees for copies of records.* ::
-
-
-a. Whenever the chief medical examiner shall furnish to any private individual a copy or transcript of any record or any photograph or photostat of such record, such chief medical examiner shall and is hereby authorized to charge as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 1. For each copy or photostat of medical examiner's report on cause of death
-      - five dollars per page
-    * - 2. For each copy or photostat of hospital report 
-      - five dollars per page
-    * - 3. For each copy or photostat of autopsy report 
-      - five dollars per page
-    * - 4. For each copy or photostat of toxicological chemical laboratory report 
-      - five dollars per page
-    * - 5. For each copy or photostat of identification form 
-      - five dollars per page
-    * - 6. For each copy or photostat of serological and/or bacteriological report 
-      - five dollars per page
-    * - 7. For each copy or photostat of notice of death slip 
-      - five dollars per page
-~
-
-
-
- 
-
-It is provided that the charge for any single request for documents of a single case shall not exceed fifty dollars.
-
-b. The chief medical examiner shall waive such fee or any portion thereof when furnishing such copies to indigent next of kin.
-
-c. The chief medical examiner, in his or her discretion, shall have the power to waive such fee or any portion thereof when furnishing such copies to those engaged in scientific or other research.
-
-
-
-
-
-
-*§ 17-207 Root cause analysis, office of chief medical examiner.* ::
-
-
-a. For purposes of this subdivision, the following terms shall have the following meanings:
-
-   1. "Designated root cause analysis officer" shall mean an employee of the office of chief medical examiner who is responsible for determining whether a significant event has occurred within the office of chief medical examiner and, if such significant event has occurred, for convening the root cause analysis committee.
-
-   2. "Root cause analysis" shall mean a process for investigating the causal factors of a significant event that shall focus primarily on systems and processes, not on individual performance or human error, and shall identify appropriate corrective action, including strategies to prevent the reoccurrence of a significant event or potential improvements in systems or processes that will decrease the likelihood of a significant event occurring in the future.
-
-   3. "Root cause analysis committee" shall mean a committee composed of representatives of certain divisions of the office of chief medical examiner appointed by the designated root cause analysis officer and assembled in response to a significant event in order to conduct a root cause analysis and to produce a root cause analysis committee report pursuant to this section.
-
-   4. "Root cause analysis committee report" shall mean a final report issued by the root cause analysis committee that shall include the findings of the root cause analysis committee, including, but not limited to, the identification of the root cause or causes of the significant event and a corrective action plan.
-
-   5. "Significant event" shall mean an occurrence in the office of chief medical examiner involving a significant likelihood of an act, error or omission that affects the accuracy, reliability or integrity of the reported results of evidence examination or reported results of analysis. Such act, error or omission shall include, but not be limited to, any (i) act or acts by an employee of the office of chief medical examiner involving intentional fabrication of work product, evidence examination, analysis or test results; (ii) significant error or errors by an employee of the office of chief medical examiner, or deficiency in a system or procedure used by such office, that may have affected the accuracy of reported results of evidence examination or the accuracy of the reported results of analysis in one or more cases; (iii) failure by an employee of the office of chief medical examiner to follow such office's protocol that may have affected the accuracy of reported results of evidence examination or the accuracy of the reported results of analysis in one or more cases; or (iv) statement in the course of testimony by an employee of the office of chief medical examiner that significantly misrepresents or misstates her or his education, experience, training or qualifications, or the reported results of any evidence examination or analysis.
-
-b. The office of chief medical examiner shall appoint an employee of the office of chief medical examiner who shall serve as the designated root cause analysis officer.
-
-c. The office of chief medical examiner shall develop and post on its website root cause analysis guidelines to assist in the implementation of this section. Such guidelines shall provide guidance for:
-
-   1. determining whether a significant event has occurred, consistent with this section;
-
-   2. reporting a significant event;
-
-   3. creating a root cause analysis committee upon a determination of the root cause analysis officer that a significant event has occurred;
-
-   4. selecting individuals who shall serve as members of a root cause analysis committee;
-
-   5. determining the roles and responsibilities of members of a root cause analysis committee;
-
-   6. determining when and how frequently a root cause analysis committee shall meet once a committee has been assembled in response to a significant event;
-
-   7. producing a root cause analysis committee report in a timely manner;
-
-   8. identifying causal factors of a significant event;
-
-   9. identifying corrective action to be taken as a result of the root cause analysis; and
-
-   10. (i) recusing the designated root cause analysis officer in the event that the occurrence at issue is likely to involve acts or omissions by such officer, either acting in the capacity of the designated root cause analysis officer or any other capacity within the office of chief medical examiner, or in any other appropriate instance as specified in the guidelines; (ii) appointing an employee of the office of chief medical examiner to serve as the acting designated root cause analysis officer in the event of such recusal to fulfill the duties of the designated root cause analysis officer pursuant to subdivisions d, e and f of this section, provided that the occurrence at issue is not likely to involve acts or omissions by such individual appointed to serve as acting designated root cause analysis officer; and (iii) requiring a decision not to recuse the designated root cause analysis officer to be reviewed by the executive management of the office of chief medical examiner, such as a director or deputy commissioner.
-
-d. Within ten days of the discovery of an occurrence in the office of chief medical examiner involving the substantial likelihood of an act, error or omission that affects the accuracy, reliability and integrity of the reported results of evidence examination or reported results of analysis, or receipt of a report that a significant event has occurred in the office of chief medical examiner, the designated root cause analysis officer shall make a formal determination whether a significant event has occurred. In the event that the designated root cause analysis officer makes a determination that a significant event has not occurred, such officer shall provide written explanation to the chief medical examiner explaining why such occurrence does not constitute a significant event.
-
-e. Within five business days of a formal determination by the designated root cause analysis officer that a significant event has occurred within the office of chief medical examiner as provided in subdivision d of this section, such officer shall appoint a root cause analysis committee for the purpose of conducting a root cause analysis and producing a root cause analysis committee report. Such committee shall include at least six members, provided that:
-
-   (1) one member is the designated root cause analysis officer;
-
-   (2) at least one member is knowledgeable in the subject area relating to the significant event and is a lab worker or other employee who performs scientific or technical services and works in a non-managerial capacity;
-
-   (3) one member serves in the executive management of the office of chief medical examiner, such as a director or deputy commissioner;
-
-   (4) two members are from divisions, departments or laboratories of the office of chief medical examiner that are not implicated by the significant event, and at least one of the two members works in a non-managerial capacity; and
-
-   (5) one member is an external expert who works in a medical or scientific research field. Such member may serve without compensation. For the purpose of executing paragraph 5 of this subdivision, the office of chief medical examiner shall develop and maintain a list of external experts who may serve as an external expert on a root cause analysis committee if called upon to serve in such capacity.
-
-f. 1. Within thirty days of a determination of the designated root cause analysis officer that a significant event has occurred within the office of chief medical examiner, the office of chief medical examiner shall report the occurrence of such significant event to the mayor and the council of the city of New York, and to any district attorney and defense counsel of record that can be identified and who has a case or client that can reasonably be found to be affected by the significant event. In the event that the defense counsel of record works in the office of an institutional defender, notice shall also be given to the head of such office. In the event that defense counsel of record is assigned from the 18b panel of either the first or second department in the city of New York, notice shall also be given to the administrator of the 18b panel of the assigning department.
-
-   2. The root cause analysis committee shall submit a root cause analysis committee report no later than ninety days following the appointment of such committee, provided, however, that should it not be practicable to complete such report within ninety days, the committee shall report in writing to the mayor and council of the city of New York on the progress of the committee's findings and set forth a statement why such report is not yet completed and when completion is anticipated.
-
-   3. Within seven days of submission of a root cause analysis report to the mayor and council of the city of New York, the office of chief medical examiner shall send a copy of the root cause analysis report at a minimum to (i) the New York state commission on forensic science and any entity responsible for the accreditation of the department of forensic biology of the office of chief medical examiner, provided that the significant event that is the subject of such report is relevant to the department of forensic biology of the office of chief medical examiner, and (ii) to district attorney and defense counsel of record that can be identified and who has a case or client that can reasonably be found to be affected by the significant event. In the event that the defense counsel of record works in the office of an institutional defender, notice shall also be given to the head of such office. In the event that defense counsel of record is assigned from the 18b panel of either the first or second department in the city of New York, notice shall also be given to the administrator of the 18b panel of the assigning department.
-
-g. The root cause analysis report produced pursuant to subdivision f of this section shall not include the names of, or otherwise identify:
-
-   (1) any employee of the office of chief medical examiner;
-
-   (2) any complainant, victim or decedent; or
-
-   (3) any other individual who is the subject of investigations associated with forensic casework performed by the office of chief medical examiner.
-
-h. This section shall not be construed to create a private right of action to enforce any of its provisions.
-
-
-
-
-
-
-*§ 17-208 Transparency, office of chief medical examiner.* ::
-
-
-a. For the purpose of this section, the following terms shall have the following meanings:
-
-   1. "Forensic DNA laboratory" shall have the same meaning as set forth in subdivision two of section nine hundred ninety-five of article forty-nine-b of the New York state executive law, or any successor provision thereto.
-
-   2. "Proficiency test" shall mean such testing as is required by the New York state commission on forensic science and the New York state subcommittee on forensic DNA laboratories and forensic DNA testing pursuant to paragraph b of subdivision three of section nine hundred ninety-five-b of article forty-nine-b of the New York state executive law, or any successor provision thereto.
-
-   3. "Proficiency testing report" shall mean an annual report produced by the office of chief medical examiner which reports the number of employees working in the department of forensic biology of the office of chief medical examiner who have taken a proficiency test that year, and the percentage and number of those employees who passed such proficiency test.
-
-b. The office of chief medical examiner shall annually prepare a proficiency testing report and shall include comparison data for each of the previous five years as available. The proficiency testing report shall not include the names of, or otherwise identify, any employee of the department of forensic biology of the office of chief medical examiner.
-
-c. To the extent the office of chief medical examiner is authorized to publish such materials, the office of chief medical examiner shall post prominently and maintain on its website the following concerning the department of forensic biology of the office of chief medical examiner:
-
-   1. current copies, and copies used within the preceding two years, of all manuals, guidelines, or other documents relating to scientific procedures or protocols, quality assurance and quality control procedures or protocols, materials used for the training of lab workers, and evidence and case management procedures, including, but not limited to, accreditation standards and accreditation audit reports;
-
-   2. the most recent annual proficiency testing report; and
-
-   3. current copies of all certificates of accreditation issued to the department of forensic biology of the office of chief medical examiner, whether by a governmental entity or a non-governmental entity responsible for the accreditation of the department of forensic biology of the office of chief medical examiner.
-
-d. Historic copies of any manual, guidelines, or other document identified in paragraph one of subdivision c of this section used on or after January first, two thousand and not fully available on the website of the office of chief medical examiner shall be made available to any person upon request, and a notice describing such availability and how to make such a request shall be posted on the office's website.
-
-e. This section shall not be construed to create a private right of action to enforce any of its provisions.
-
-
-
-
 Chapter 1: Department of Health and Mental Hygiene
 --------------------------------------------------
 
@@ -2551,6 +2346,211 @@ e. It shall be a rebuttable presumption that a food item or combination of food 
    4. With a limitation on the maximum age of a person who can select the item or items.
 
 
+
+
+
+
+Chapter 2: Medical Examiner
+--------------------------------------------------
+
+
+
+*§ 17-201 Report of deaths; removal of body.* ::
+
+
+It shall be the duty of any citizen who becomes aware of the death of any person, occurring under the circumstances described in paragraph one of subdivision (f) of section five hundred fifty-seven of the charter, to report such death forthwith to the office of the chief medical examiner, and to a police officer who shall forthwith notify the officer in charge of the station-house in the police precinct in which such person died. Any person who shall wilfully neglect or refuse to report such death or who without written order from a medical examiner shall wilfully touch, remove or disturb the body of any such person, or wilfully touch, remove or disturb the clothing or any article upon or near such body, shall be guilty of a misdemeanor.
+
+
+
+
+
+
+*§ 17-202 Procedure in deaths reportable to the office of chief medical examiner.* ::
+
+
+a. Upon any such death, the officer in charge of the station-house in the police precinct in which such person died shall immediately notify the office of chief medical examiner of the known facts concerning the time, place, manner and circumstances of such death. Immediately upon receipt of such notification the chief medical examiner, or a deputy chief medical examiner, or a medical examiner, or a medical investigator, or a lay medical investigator shall go to and take charge of the dead body. Such medical examiner, medical investigator or lay medical investigator shall fully investigate the essential facts concerning the circumstances of the death, taking the names and addresses of as many witnesses thereto as it may be practicable to obtain, and shall record all such facts and file the same in the office of chief medical examiner. Such medical examiner, medical investigator or lay medical investigator shall take possession of any portable objects which, in his or her opinion, may be useful in establishing the cause of death, and except as provided in subdivision c hereof, shall deliver them to the police department.
+
+b. The police officer detailed in such cases shall, in the absence of next of kin of the deceased person, take possession of all property of value found on such person, make an exact inventory thereof on his or her report, and deliver such property to the police department, which shall surrender the same to the person entitled to its custody or possession.
+
+c. Notwithstanding the provisions of subdivisions a and b of this section, any suicide note or other written evidence of suicide found on such deceased person shall be delivered to the chief medical examiner and shall be retained by said medical examiner.
+
+d. Nothing in this section contained shall affect the powers and duties of a public administrator.
+
+
+
+
+
+
+*§ 17-203 Autopsies; findings.* ::
+
+
+If it may be concluded with reasonable certainty that death occurred from natural causes or obvious traumatic injury, and there are no other circumstances which would appear to require an autopsy, the chief medical examiner, deputy chief medical examiner or medical examiner or medical investigator in charge shall certify the cause of death and file a report of his or her findings in the office of chief medical examiner. If, however, in the opinion of a medical examiner, an autopsy is necessary, the same shall be performed by a medical examiner. Where indicated, the autopsy shall include toxicologic, histologic, microbiologic and serologic examinations. A detailed description of the findings of all autopsies shall be written or dictated. The findings of the investigation at the scene of death, the autopsy and any toxicologic, histologic, serologic and microbiologic examinations, and the conclusions drawn therefrom shall be filed in the office of chief medical examiner. Such findings and conclusions shall be signed by the medical examiner performing the autopsy.
+
+
+
+
+
+
+*§ 17-204 Cremation.* ::
+
+
+Whenever an application is made pursuant to law for a permit to cremate the body of any person, the department, board or office in which such application is filed shall forward such application to the chief medical examiner who shall thereupon cause an investigation and report to be made thereon. In the event that the chief medical examiner, or a deputy chief medical examiner, or a medical examiner shall, in the course of such investigation, determine that reasonable grounds exist therefor, an autopsy shall be performed upon such body by a medical examiner. Where indicated, the autopsy shall include toxicologic, histologic, microbiologic and serologic examinations. A detailed description of the findings of all autopsies shall be written or dictated. The findings of the investigation, the autopsy and any toxicologic, histologic, serologic and microbiologic examinations, and the conclusions drawn therefrom shall be filed in the office of chief medical examiner. Such findings and conclusions shall be signed by the medical examiners performing the autopsy.
+
+
+
+
+
+
+*§ 17-205 Records.* ::
+
+
+Records shall be kept in the office of the chief medical examiner, properly indexed, stating the name, if known, of every person dying under the circumstances described in paragraph one of subdivision (f) of section five hundred fifty-seven of the charter, the place where the body was found and the date of death. To the record of each case shall be attached the original report of the medical examiner and the detailed findings of the autopsy, if any. The appropriate district attorney and the police commissioner of the city may require from the chief medical examiner such further records, and such daily information, as they may deem necessary.
+
+
+
+
+
+
+*§ 17-206 Fees for copies of records.* ::
+
+
+a. Whenever the chief medical examiner shall furnish to any private individual a copy or transcript of any record or any photograph or photostat of such record, such chief medical examiner shall and is hereby authorized to charge as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 1. For each copy or photostat of medical examiner's report on cause of death
+      - five dollars per page
+    * - 2. For each copy or photostat of hospital report 
+      - five dollars per page
+    * - 3. For each copy or photostat of autopsy report 
+      - five dollars per page
+    * - 4. For each copy or photostat of toxicological chemical laboratory report 
+      - five dollars per page
+    * - 5. For each copy or photostat of identification form 
+      - five dollars per page
+    * - 6. For each copy or photostat of serological and/or bacteriological report 
+      - five dollars per page
+    * - 7. For each copy or photostat of notice of death slip 
+      - five dollars per page
+~
+
+
+
+ 
+
+It is provided that the charge for any single request for documents of a single case shall not exceed fifty dollars.
+
+b. The chief medical examiner shall waive such fee or any portion thereof when furnishing such copies to indigent next of kin.
+
+c. The chief medical examiner, in his or her discretion, shall have the power to waive such fee or any portion thereof when furnishing such copies to those engaged in scientific or other research.
+
+
+
+
+
+
+*§ 17-207 Root cause analysis, office of chief medical examiner.* ::
+
+
+a. For purposes of this subdivision, the following terms shall have the following meanings:
+
+   1. "Designated root cause analysis officer" shall mean an employee of the office of chief medical examiner who is responsible for determining whether a significant event has occurred within the office of chief medical examiner and, if such significant event has occurred, for convening the root cause analysis committee.
+
+   2. "Root cause analysis" shall mean a process for investigating the causal factors of a significant event that shall focus primarily on systems and processes, not on individual performance or human error, and shall identify appropriate corrective action, including strategies to prevent the reoccurrence of a significant event or potential improvements in systems or processes that will decrease the likelihood of a significant event occurring in the future.
+
+   3. "Root cause analysis committee" shall mean a committee composed of representatives of certain divisions of the office of chief medical examiner appointed by the designated root cause analysis officer and assembled in response to a significant event in order to conduct a root cause analysis and to produce a root cause analysis committee report pursuant to this section.
+
+   4. "Root cause analysis committee report" shall mean a final report issued by the root cause analysis committee that shall include the findings of the root cause analysis committee, including, but not limited to, the identification of the root cause or causes of the significant event and a corrective action plan.
+
+   5. "Significant event" shall mean an occurrence in the office of chief medical examiner involving a significant likelihood of an act, error or omission that affects the accuracy, reliability or integrity of the reported results of evidence examination or reported results of analysis. Such act, error or omission shall include, but not be limited to, any (i) act or acts by an employee of the office of chief medical examiner involving intentional fabrication of work product, evidence examination, analysis or test results; (ii) significant error or errors by an employee of the office of chief medical examiner, or deficiency in a system or procedure used by such office, that may have affected the accuracy of reported results of evidence examination or the accuracy of the reported results of analysis in one or more cases; (iii) failure by an employee of the office of chief medical examiner to follow such office's protocol that may have affected the accuracy of reported results of evidence examination or the accuracy of the reported results of analysis in one or more cases; or (iv) statement in the course of testimony by an employee of the office of chief medical examiner that significantly misrepresents or misstates her or his education, experience, training or qualifications, or the reported results of any evidence examination or analysis.
+
+b. The office of chief medical examiner shall appoint an employee of the office of chief medical examiner who shall serve as the designated root cause analysis officer.
+
+c. The office of chief medical examiner shall develop and post on its website root cause analysis guidelines to assist in the implementation of this section. Such guidelines shall provide guidance for:
+
+   1. determining whether a significant event has occurred, consistent with this section;
+
+   2. reporting a significant event;
+
+   3. creating a root cause analysis committee upon a determination of the root cause analysis officer that a significant event has occurred;
+
+   4. selecting individuals who shall serve as members of a root cause analysis committee;
+
+   5. determining the roles and responsibilities of members of a root cause analysis committee;
+
+   6. determining when and how frequently a root cause analysis committee shall meet once a committee has been assembled in response to a significant event;
+
+   7. producing a root cause analysis committee report in a timely manner;
+
+   8. identifying causal factors of a significant event;
+
+   9. identifying corrective action to be taken as a result of the root cause analysis; and
+
+   10. (i) recusing the designated root cause analysis officer in the event that the occurrence at issue is likely to involve acts or omissions by such officer, either acting in the capacity of the designated root cause analysis officer or any other capacity within the office of chief medical examiner, or in any other appropriate instance as specified in the guidelines; (ii) appointing an employee of the office of chief medical examiner to serve as the acting designated root cause analysis officer in the event of such recusal to fulfill the duties of the designated root cause analysis officer pursuant to subdivisions d, e and f of this section, provided that the occurrence at issue is not likely to involve acts or omissions by such individual appointed to serve as acting designated root cause analysis officer; and (iii) requiring a decision not to recuse the designated root cause analysis officer to be reviewed by the executive management of the office of chief medical examiner, such as a director or deputy commissioner.
+
+d. Within ten days of the discovery of an occurrence in the office of chief medical examiner involving the substantial likelihood of an act, error or omission that affects the accuracy, reliability and integrity of the reported results of evidence examination or reported results of analysis, or receipt of a report that a significant event has occurred in the office of chief medical examiner, the designated root cause analysis officer shall make a formal determination whether a significant event has occurred. In the event that the designated root cause analysis officer makes a determination that a significant event has not occurred, such officer shall provide written explanation to the chief medical examiner explaining why such occurrence does not constitute a significant event.
+
+e. Within five business days of a formal determination by the designated root cause analysis officer that a significant event has occurred within the office of chief medical examiner as provided in subdivision d of this section, such officer shall appoint a root cause analysis committee for the purpose of conducting a root cause analysis and producing a root cause analysis committee report. Such committee shall include at least six members, provided that:
+
+   (1) one member is the designated root cause analysis officer;
+
+   (2) at least one member is knowledgeable in the subject area relating to the significant event and is a lab worker or other employee who performs scientific or technical services and works in a non-managerial capacity;
+
+   (3) one member serves in the executive management of the office of chief medical examiner, such as a director or deputy commissioner;
+
+   (4) two members are from divisions, departments or laboratories of the office of chief medical examiner that are not implicated by the significant event, and at least one of the two members works in a non-managerial capacity; and
+
+   (5) one member is an external expert who works in a medical or scientific research field. Such member may serve without compensation. For the purpose of executing paragraph 5 of this subdivision, the office of chief medical examiner shall develop and maintain a list of external experts who may serve as an external expert on a root cause analysis committee if called upon to serve in such capacity.
+
+f. 1. Within thirty days of a determination of the designated root cause analysis officer that a significant event has occurred within the office of chief medical examiner, the office of chief medical examiner shall report the occurrence of such significant event to the mayor and the council of the city of New York, and to any district attorney and defense counsel of record that can be identified and who has a case or client that can reasonably be found to be affected by the significant event. In the event that the defense counsel of record works in the office of an institutional defender, notice shall also be given to the head of such office. In the event that defense counsel of record is assigned from the 18b panel of either the first or second department in the city of New York, notice shall also be given to the administrator of the 18b panel of the assigning department.
+
+   2. The root cause analysis committee shall submit a root cause analysis committee report no later than ninety days following the appointment of such committee, provided, however, that should it not be practicable to complete such report within ninety days, the committee shall report in writing to the mayor and council of the city of New York on the progress of the committee's findings and set forth a statement why such report is not yet completed and when completion is anticipated.
+
+   3. Within seven days of submission of a root cause analysis report to the mayor and council of the city of New York, the office of chief medical examiner shall send a copy of the root cause analysis report at a minimum to (i) the New York state commission on forensic science and any entity responsible for the accreditation of the department of forensic biology of the office of chief medical examiner, provided that the significant event that is the subject of such report is relevant to the department of forensic biology of the office of chief medical examiner, and (ii) to district attorney and defense counsel of record that can be identified and who has a case or client that can reasonably be found to be affected by the significant event. In the event that the defense counsel of record works in the office of an institutional defender, notice shall also be given to the head of such office. In the event that defense counsel of record is assigned from the 18b panel of either the first or second department in the city of New York, notice shall also be given to the administrator of the 18b panel of the assigning department.
+
+g. The root cause analysis report produced pursuant to subdivision f of this section shall not include the names of, or otherwise identify:
+
+   (1) any employee of the office of chief medical examiner;
+
+   (2) any complainant, victim or decedent; or
+
+   (3) any other individual who is the subject of investigations associated with forensic casework performed by the office of chief medical examiner.
+
+h. This section shall not be construed to create a private right of action to enforce any of its provisions.
+
+
+
+
+
+
+*§ 17-208 Transparency, office of chief medical examiner.* ::
+
+
+a. For the purpose of this section, the following terms shall have the following meanings:
+
+   1. "Forensic DNA laboratory" shall have the same meaning as set forth in subdivision two of section nine hundred ninety-five of article forty-nine-b of the New York state executive law, or any successor provision thereto.
+
+   2. "Proficiency test" shall mean such testing as is required by the New York state commission on forensic science and the New York state subcommittee on forensic DNA laboratories and forensic DNA testing pursuant to paragraph b of subdivision three of section nine hundred ninety-five-b of article forty-nine-b of the New York state executive law, or any successor provision thereto.
+
+   3. "Proficiency testing report" shall mean an annual report produced by the office of chief medical examiner which reports the number of employees working in the department of forensic biology of the office of chief medical examiner who have taken a proficiency test that year, and the percentage and number of those employees who passed such proficiency test.
+
+b. The office of chief medical examiner shall annually prepare a proficiency testing report and shall include comparison data for each of the previous five years as available. The proficiency testing report shall not include the names of, or otherwise identify, any employee of the department of forensic biology of the office of chief medical examiner.
+
+c. To the extent the office of chief medical examiner is authorized to publish such materials, the office of chief medical examiner shall post prominently and maintain on its website the following concerning the department of forensic biology of the office of chief medical examiner:
+
+   1. current copies, and copies used within the preceding two years, of all manuals, guidelines, or other documents relating to scientific procedures or protocols, quality assurance and quality control procedures or protocols, materials used for the training of lab workers, and evidence and case management procedures, including, but not limited to, accreditation standards and accreditation audit reports;
+
+   2. the most recent annual proficiency testing report; and
+
+   3. current copies of all certificates of accreditation issued to the department of forensic biology of the office of chief medical examiner, whether by a governmental entity or a non-governmental entity responsible for the accreditation of the department of forensic biology of the office of chief medical examiner.
+
+d. Historic copies of any manual, guidelines, or other document identified in paragraph one of subdivision c of this section used on or after January first, two thousand and not fully available on the website of the office of chief medical examiner shall be made available to any person upon request, and a notice describing such availability and how to make such a request shall be posted on the office's website.
+
+e. This section shall not be construed to create a private right of action to enforce any of its provisions.
 
 
 
@@ -5143,257 +5143,6 @@ The costs associated with drug testing shall be borne by the motor carriers.
 
 
 
-Chapter 8: Animal Shelters and Sterilization Act
---------------------------------------------------
-
-
-
-*§ 17-801 Legislative findings. [Repealed]* ::
-
-
-For the purposes of this chapter, the following terms shall be defined as follows:
-
-a. "Adoption" means the delivery of a dog or cat deemed appropriate and suitable by an animal shelter to an individual at least eighteen years of age who has been approved to own, care and provide for the animal by the animal shelter.
-
-b. "Animal rescue group" means a duly incorporated not-for-profit organization that accepts homeless, lost, stray, abandoned, seized, surrendered or unwanted animals from an animal shelter or other place and attempts to find homes for, and promote adoption of, such animals by the general public.
-
-c. "Animal shelter" means a not-for-profit facility holding a permit in accordance with § 161.09 of the New York city health code where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
-
-d. "Consumer" means any individual purchasing an animal from a pet shop. A pet shop shall not be considered a consumer.
-
-e. "Feral cat" means an animal of the species felis catus who has no owner, is unsocialized to humans and has a temperament of extreme fear of and resistance to contact with humans.
-
-f. "Full-service shelter" means a person required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code that houses lost, stray or homeless animals and:
-
-   (1) accepts dogs and cats twelve hours per day, seven days per week;
-
-   (2) has an adoption program available seven days per week; and
-
-   (3) provides sterilization services for dogs and cats and any other veterinary services deemed necessary by a licensed veterinarian at such shelter or at a veterinary facility.
-
-g. "Person" means any individual, corporation, partnership, association, municipality, or other legal entity.
-
-h. "Pet shop" has the same meaning as such term is defined in section 17-371 of this title.
-
-i. "Sterilization" means rendering a dog or cat that is at least eight weeks of age and that weighs at least two pounds unable to reproduce, by surgically altering such animal's reproductive organs as set forth in the rules of the department or by non-surgical methods or technologies approved by the United States food and drug administration or the United States department of agriculture and acceptable to the department. Such definition shall include the spaying of a female dog or cat or the neutering of a male dog or cat.
-
-j. "Trap-neuter-return" means a program to trap, vaccinate for rabies, sterilize and identify feral cats and return them to the locations where they were found.
-
-
-
-
-
-
-
-
-*§ 17-803 Animal shelters.* ::
-
-
-a. A full-service shelter shall be maintained and operated in each of three boroughs of the city of New York. At least one of the full-service shelters shall be open to the public for the purpose of receiving animals twenty-four hours per day, seven days per week.
-
-b. Facilities to receive lost, stray or homeless dogs and cats from the public shall be maintained seven days per week, twelve hours per day in those boroughs of the city in which there is not a full-service shelter.
-
-c. Field services having the capacity to pick up and bring to a shelter lost, stray, homeless or injured dogs and cats from all five boroughs shall be maintained and operated seven days per week, twelve hours per day. Where public health and safety is threatened, they shall have the capacity to pick up such animals twenty-four hours per day.
-
-
-
-
-
-
-*§ 17-804 Sterilization required.* ::
-
-
-a. No full-service shelter or other shelter for homeless animals required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code shall release a dog or cat to a person claiming ownership thereof, or to a person adopting such dog or cat, unless such dog or cat has been sterilized by a licensed veterinarian; provided, however, that such requirement shall not apply:
-
-   (1) if a licensed veterinarian certifies to such shelter that he or she has examined such dog or cat and found that because of a medical reason, the life of such dog or cat would be endangered by sterilization; provided, however, that such reason shall not consist solely of the youth of such dog or cat, if such dog or cat is at least eight weeks of age;
-
-   (2) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog has a breed ring show record from the American Kennel Club or United Kennel Club or other similar, registry association, dated no more than twelve months prior to the date such dog entered such shelter, or such person claiming ownership is able to provide proof that such dog has successfully completed the requirements of the American Kennel Club or United Kennel Club or other similar, registry association, for the title Champion or its equivalent, at any time prior to the arrival of the dog at the shelter;
-
-   (3) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog is a guide dog, hearing dog, service dog or police work dog; or
-
-   (4) in the case of a cat, if such cat within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of such shelter that such cat has a breed show record from the Cat Fancier Association or other similar, registry association dated no more than twelve months prior to the date such cat entered such shelter or such person claiming ownership is able to provide proof that such cat has successfully completed the requirements of the Cat Fancier Association or other similar, registry association for the title Champion, Grand Champion or its equivalent, at any time prior to the arrival of the cat at the shelter.
-
-b. No pet shop shall release to a consumer a dog or cat that has not been sterilized by a licensed veterinarian. Such veterinarian shall provide to the pet shop a certificate, in such form and manner as determined by rules promulgated by the department, stating the date on which such sterilization was performed.
-
-c. Every pet shop, in accordance with rules promulgated by the department, shall maintain records of all sales of dogs and cats, sterilization procedures performed at the request of the pet shop, and veterinarian letters and certificates received, and shall retain such records, letters and certificates for a period of five years. Such records, letters, and certificates shall be made available to the department according to rules promulgated by the department. The department may require that such documents be submitted by electronic means.
-
-d. Every owner of a cat who permits such cat to roam outside the interior of the owner's dwelling shall have such cat sterilized. At the request of employees or authorized agents of the department, owners shall provide proof satisfactory to the department that a cat found roaming has been sterilized. The Department shall not seize a cat solely on the ground that the cat has not been sterilized.
-
-e. The department shall post and maintain on its website a regularly updated list of organizations in New York city that offer trap-neuter-return information and conduct trap-neuter-return activities.
-
-f. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions b and c of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are made available for adoption.
-
-
-
-
-
-
-
-
-*§ 17-805 Reporting requirements.* ::
-
-
-The department shall provide the mayor and the city council with a report by February twenty-eight of each year which shall set forth information regarding the management and operation of all full-service shelters performing services pursuant to a contract with the city of New York, including but not limited to:
-
-a. The following information with respect to the previous calendar year:
-
-   (1) the total number of animals accepted by each full-service shelter;
-
-   (2) the total number of animals that were sterilized at each full-service shelter;
-
-   (3) the total number of animals that were humanely euthanized at each full-service shelter;
-
-   (4) the total number of healthy animals that were humanely euthanized at each full-service shelter;
-
-   (5) the total number of animals that were adopted at each full-service shelter;
-
-   (6) the total number of animals at each full-service shelter that were returned to their owner; and
-
-   (7) the number of animals at each full-service shelter that were provided to other shelters for adoption.
-
-b. The following information for each month of the previous calendar year:
-
-   (1) the total number of animals, disaggregated by borough, picked up by field services during regular business hours and delivered to (A) receiving facilities and (B) full-service shelters;
-
-   (2) the total number of animals, disaggregated by borough, picked up by field services during off hours and delivered to (A) receiving facilities and (B) full-service shelters;
-
-   (3) the total number of animals taken in and transferred to a full-service shelter from each receiving facility; and
-
-   (4) the staffing levels at all full-service shelters and receiving facilities.
-
-c. The department shall report to the mayor and the council each month the total number of healthy animals that were humanely euthanized at each full-service shelter during the previous month.
-
-d. No later than twenty-four months after the effective date of the local law that added this subdivision, the department shall provide to the mayor and the council a report that summarizes and describes trends in the reporting requirements provided annually in accordance with this section.
-
-
-
-
-
-
-*§ 17-806 Violations.* ::
-
-
-Any person found to be in violation of subdivision (b), (c) or (d) of section 17-804, section 17-814, or section 17-815 of this chapter or any of the rules promulgated thereunder shall be liable for a civil penalty of five hundred dollars for each violation. A proceeding to recover any civil penalty authorized pursuant to the provisions of this section shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal authorized to adjudicate violations of the health code or the administrative code.
-
-
-
-
-
-
-*§ 17-807 Rules.* ::
-
-
-The commissioner may promulgate such rules as are necessary for the purposes of implementing and carrying out the provisions of this chapter.
-
-
-
-
-
-
-*§ 17-808 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
-
-
-
-
-
-
-*§ 17-809 No limitation on additional services.* ::
-
-
-Nothing contained in this chapter shall be deemed to limit the department's authority to offer additional services or facilities to facilitate the decline in numbers of unwanted and uncared for animals in New York city.
-
-
-
-
-
-
-*§ 17-810 Euthanizing animals; time frame for making such determination.* ::
-
-
-In determining when a full-service shelter may euthanize a lost, stray or homeless animal held by it, such shelter shall exclude from the calculation of the number of hours that such shelter is required by law to hold such animal before euthanizing such animal those hours when such shelter is not required to accept dogs and cats pursuant to paragraph one of subdivision d of section 17-802 of this chapter. Such calculation of the number of hours shall not take into consideration the full-service shelter required to accept dogs and cats twenty-four hours per day pursuant to subdivision a of section 17-803 of this chapter.
-
-
-
-
-
-
-*§ 17-811 Animal population control program.* ::
-
-
-The department shall promulgate rules and regulations to establish and implement an animal population control program within one hundred eighty days from the effective date of this section. The purpose of this program shall be to reduce the population of unwanted stray dogs and cats thereby reducing potential threats to public health and safety and reducing the costs of caring for these animals. This program shall seek to accomplish its purpose by encouraging residents of the city of New York who are the owners of dogs and cats to have them spayed or neutered by providing no or low-cost spaying and neutering services to such owners. The department shall promulgate rules and regulations necessary to establish an animal population control program including, but not limited, to creating clinics or mobile units where such services shall be performed and establishing criteria for pet owner eligibility to use such services. Indicia of eligibility for pet owners seeking no or low-cost spay and neuter services shall include but not be limited to any criteria deemed acceptable by the agencies performing the services. The commissioner may solicit and accept funds from the animal population control fund established pursuant to section 17-812 of this chapter and any other public or private source to help carry out the provisions of this section.
-
-
-
-
-
-
-*§ 17-812 Animal population control fund.* ::
-
-
-1. There is hereby established in the joint custody of the city comptroller and commissioner of finance a fund to be known as the "animal population control fund" which shall be used by the department to subsidize the city's animal population control program as established by section 17-811 of this chapter.
-
-2. Such fund shall consist of all moneys collected from the animal population control program established pursuant to section 17-811 of this chapter, all moneys collected for the additional fee charged for a license to be issued or renewed for an unsterilized dog pursuant to subdivision three of section two of chapter one hundred fifteen of the laws of eighteen hundred ninety-four, that portion of any penalties assessed under section three of such chapter due to be paid to such fund, and all other moneys credited or transferred thereto from any other fund or source pursuant to law.
-
-3. Moneys of the fund shall be made available to the department and shall be expended for the purposes of carrying out animal population control programs pursuant to the provisions of section 17-811 of this chapter. Moneys shall be paid out of the fund on the audit and warrant of the city comptroller and approved by the commissioner. Any interest received by the city comptroller on moneys on deposit in the animal population control fund shall be retained in and become part of such fund.
-
-
-
-
-
-
-*§ 17-813 Dog license fee.* ::
-
-
-a. In addition to the fees required pursuant to chapter 115 of the laws of 1894, as amended, any person applying for a dog license shall pay twenty-five dollars and fifty cents for any dog four months of age or older that has not been spayed or neutered unless an owner presents with the license application a statement certified by a licensed veterinarian stating that he or she has examined the dog and found that because of old age or other reasons, the life of the dog would be endangered by spaying or neutering.
-
-b. Fees collected pursuant to the provisions of this section shall be directed to the animal population control fund established pursuant to section 17-812.
-
-
-
-
-
-
-*§ 17-814 Licensing of dogs required.* ::
-
-
-a. No pet shop or animal rescue group shall sell or release a dog to a purchaser or adopter unless such purchaser or adopter first completes an application for a license and tenders the license fees required by law. If such application is completed in connection with the purchase of a dog from a pet shop, such application shall include the following information: the date of purchase, the name and address of the pet shop, and if such pet shop has an operating permit issued by the department, such pet shop's permit number. Such pet shop or animal rescue group shall forward such completed application and license fees to the department in such manner as may be specified by the department.
-
-b. A pet shop or animal rescue group shall be exempt from the requirements of subdivision a of this section for any sale or adoption of a dog to a purchaser or adopter who executes and submits to such pet shop or animal rescue group a written statement that the dog to be purchased or adopted is to be harbored outside of the city and proof in a form determined by the department that the purchaser or adopter resides outside the city.
-
-c. Every pet shop shall, on at least a monthly basis, report to the department on a form furnished by the department all dogs which have been sold and adopted, indicating for each such dog whether or not the pet shop submitted to the department a license application. Such form shall include the name and address of each such dog's purchaser or adopter, the license or license application number if known, as well as any other descriptive information regarding such dog as may be required by the department.
-
-d. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
-
-
-
-
-
-
-
-
-*§ 17-815 Microchipping required.* ::
-
-
-a. No pet shop or animal rescue group shall release a dog or cat to a purchaser or adopter unless:
-
-   (1) such animal has been implanted with a microchip as a permanent identification;
-
-   (2) such pet shop or animal rescue group has registered such animal's microchip with such purchaser's contact information with a bona fide pet microchip registration company; and
-
-   (3) such pet shop or animal rescue group has provided such purchaser with (i) usage instructions for such microchip provided by the manufacturer of such microchip or the company with which such microchip is registered and (ii) written certification of compliance with paragraphs one and two of this subdivision, signed by such purchaser as acknowledgement of receipt, in a form and manner set forth in rules promulgated by the department.
-
-b. Every pet shop and animal rescue group shall retain for a period of ten years from the date of sale of any dog or cat, a copy of the certification signed by the purchaser required by paragraph three of subdivision a of this section.
-
-c. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
-
-
-
-
-
-
 Chapter 7: Regulation of Tobacco Products
 --------------------------------------------------
 
@@ -5803,71 +5552,253 @@ b. Non-tobacco hookah establishments, as defined in section 17-502, shall clean 
 
 
 
-Chapter 10: Prescription Drug Discount Card Act
+Chapter 8: Animal Shelters and Sterilization Act
 --------------------------------------------------
 
 
 
-*§ 17-1001 Short title.* ::
+*§ 17-801 Legislative findings. [Repealed]* ::
 
 
-This chapter shall be known and may be cited as the "Prescription Drug Discount Card Act."
+For the purposes of this chapter, the following terms shall be defined as follows:
 
+a. "Adoption" means the delivery of a dog or cat deemed appropriate and suitable by an animal shelter to an individual at least eighteen years of age who has been approved to own, care and provide for the animal by the animal shelter.
 
+b. "Animal rescue group" means a duly incorporated not-for-profit organization that accepts homeless, lost, stray, abandoned, seized, surrendered or unwanted animals from an animal shelter or other place and attempts to find homes for, and promote adoption of, such animals by the general public.
 
+c. "Animal shelter" means a not-for-profit facility holding a permit in accordance with § 161.09 of the New York city health code where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
 
+d. "Consumer" means any individual purchasing an animal from a pet shop. A pet shop shall not be considered a consumer.
 
+e. "Feral cat" means an animal of the species felis catus who has no owner, is unsocialized to humans and has a temperament of extreme fear of and resistance to contact with humans.
 
-*§ 17-1002 Definitions.* ::
+f. "Full-service shelter" means a person required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code that houses lost, stray or homeless animals and:
 
+   (1) accepts dogs and cats twelve hours per day, seven days per week;
 
-When used in this chapter, the term "rebate" shall mean a refund of a certain portion of the wholesale price of a drug based on a negotiated agreement between a drug manufacturer and any administrator of the prescription drug discount card program created pursuant to this chapter.
+   (2) has an adoption program available seven days per week; and
 
+   (3) provides sterilization services for dogs and cats and any other veterinary services deemed necessary by a licensed veterinarian at such shelter or at a veterinary facility.
 
+g. "Person" means any individual, corporation, partnership, association, municipality, or other legal entity.
 
+h. "Pet shop" has the same meaning as such term is defined in section 17-371 of this title.
 
+i. "Sterilization" means rendering a dog or cat that is at least eight weeks of age and that weighs at least two pounds unable to reproduce, by surgically altering such animal's reproductive organs as set forth in the rules of the department or by non-surgical methods or technologies approved by the United States food and drug administration or the United States department of agriculture and acceptable to the department. Such definition shall include the spaying of a female dog or cat or the neutering of a male dog or cat.
 
-
-*§ 17-1003 Prescription drug discount card program.* ::
-
-
-a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
-
-b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
-
-c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
-
-d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
-
-
-
-
-
-
-*§ 17-1004 Report.* ::
-
-
-Not later than sixty days after the end of each twelve-month period during which the prescription drug discount card program has been in operation, the department shall provide the city council with a report regarding such program. Such report shall provide information regarding the operation of such program during the reporting period, including, but not limited to (i) the number of prescription drug discount card holders who used the prescription drug discount card at least once, (ii) the total cost savings to all card holders generated by the program, (iii) the average cost savings to a card holder per prescription, (iv) the source and method of cost savings under the program, (v) the major drug categories that are not discounted under the program and an explanation as to why such drugs are not listed, (vi) the drugs for which rebates are offered under the program, listed according to major drug category, (vii) the number of pharmacies participating in the program, and (viii) to the extent available, any costs incurred by pharmacies to participate in the program.
+j. "Trap-neuter-return" means a program to trap, vaccinate for rabies, sterilize and identify feral cats and return them to the locations where they were found.
 
 
 
 
 
 
-*§ 17-1005 Implementation.* ::
 
 
-The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including, but not limited to, developing and/or administering the prescription drug discount card program established pursuant to section 17-1003 of this chapter and collecting information required by section 17-1004 of this chapter.
+*§ 17-803 Animal shelters.* ::
+
+
+a. A full-service shelter shall be maintained and operated in each of three boroughs of the city of New York. At least one of the full-service shelters shall be open to the public for the purpose of receiving animals twenty-four hours per day, seven days per week.
+
+b. Facilities to receive lost, stray or homeless dogs and cats from the public shall be maintained seven days per week, twelve hours per day in those boroughs of the city in which there is not a full-service shelter.
+
+c. Field services having the capacity to pick up and bring to a shelter lost, stray, homeless or injured dogs and cats from all five boroughs shall be maintained and operated seven days per week, twelve hours per day. Where public health and safety is threatened, they shall have the capacity to pick up such animals twenty-four hours per day.
 
 
 
 
 
 
-*§ 17-1006 Rules.* ::
+*§ 17-804 Sterilization required.* ::
 
 
-The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
+a. No full-service shelter or other shelter for homeless animals required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code shall release a dog or cat to a person claiming ownership thereof, or to a person adopting such dog or cat, unless such dog or cat has been sterilized by a licensed veterinarian; provided, however, that such requirement shall not apply:
+
+   (1) if a licensed veterinarian certifies to such shelter that he or she has examined such dog or cat and found that because of a medical reason, the life of such dog or cat would be endangered by sterilization; provided, however, that such reason shall not consist solely of the youth of such dog or cat, if such dog or cat is at least eight weeks of age;
+
+   (2) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog has a breed ring show record from the American Kennel Club or United Kennel Club or other similar, registry association, dated no more than twelve months prior to the date such dog entered such shelter, or such person claiming ownership is able to provide proof that such dog has successfully completed the requirements of the American Kennel Club or United Kennel Club or other similar, registry association, for the title Champion or its equivalent, at any time prior to the arrival of the dog at the shelter;
+
+   (3) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog is a guide dog, hearing dog, service dog or police work dog; or
+
+   (4) in the case of a cat, if such cat within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of such shelter that such cat has a breed show record from the Cat Fancier Association or other similar, registry association dated no more than twelve months prior to the date such cat entered such shelter or such person claiming ownership is able to provide proof that such cat has successfully completed the requirements of the Cat Fancier Association or other similar, registry association for the title Champion, Grand Champion or its equivalent, at any time prior to the arrival of the cat at the shelter.
+
+b. No pet shop shall release to a consumer a dog or cat that has not been sterilized by a licensed veterinarian. Such veterinarian shall provide to the pet shop a certificate, in such form and manner as determined by rules promulgated by the department, stating the date on which such sterilization was performed.
+
+c. Every pet shop, in accordance with rules promulgated by the department, shall maintain records of all sales of dogs and cats, sterilization procedures performed at the request of the pet shop, and veterinarian letters and certificates received, and shall retain such records, letters and certificates for a period of five years. Such records, letters, and certificates shall be made available to the department according to rules promulgated by the department. The department may require that such documents be submitted by electronic means.
+
+d. Every owner of a cat who permits such cat to roam outside the interior of the owner's dwelling shall have such cat sterilized. At the request of employees or authorized agents of the department, owners shall provide proof satisfactory to the department that a cat found roaming has been sterilized. The Department shall not seize a cat solely on the ground that the cat has not been sterilized.
+
+e. The department shall post and maintain on its website a regularly updated list of organizations in New York city that offer trap-neuter-return information and conduct trap-neuter-return activities.
+
+f. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions b and c of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are made available for adoption.
+
+
+
+
+
+
+
+
+*§ 17-805 Reporting requirements.* ::
+
+
+The department shall provide the mayor and the city council with a report by February twenty-eight of each year which shall set forth information regarding the management and operation of all full-service shelters performing services pursuant to a contract with the city of New York, including but not limited to:
+
+a. The following information with respect to the previous calendar year:
+
+   (1) the total number of animals accepted by each full-service shelter;
+
+   (2) the total number of animals that were sterilized at each full-service shelter;
+
+   (3) the total number of animals that were humanely euthanized at each full-service shelter;
+
+   (4) the total number of healthy animals that were humanely euthanized at each full-service shelter;
+
+   (5) the total number of animals that were adopted at each full-service shelter;
+
+   (6) the total number of animals at each full-service shelter that were returned to their owner; and
+
+   (7) the number of animals at each full-service shelter that were provided to other shelters for adoption.
+
+b. The following information for each month of the previous calendar year:
+
+   (1) the total number of animals, disaggregated by borough, picked up by field services during regular business hours and delivered to (A) receiving facilities and (B) full-service shelters;
+
+   (2) the total number of animals, disaggregated by borough, picked up by field services during off hours and delivered to (A) receiving facilities and (B) full-service shelters;
+
+   (3) the total number of animals taken in and transferred to a full-service shelter from each receiving facility; and
+
+   (4) the staffing levels at all full-service shelters and receiving facilities.
+
+c. The department shall report to the mayor and the council each month the total number of healthy animals that were humanely euthanized at each full-service shelter during the previous month.
+
+d. No later than twenty-four months after the effective date of the local law that added this subdivision, the department shall provide to the mayor and the council a report that summarizes and describes trends in the reporting requirements provided annually in accordance with this section.
+
+
+
+
+
+
+*§ 17-806 Violations.* ::
+
+
+Any person found to be in violation of subdivision (b), (c) or (d) of section 17-804, section 17-814, or section 17-815 of this chapter or any of the rules promulgated thereunder shall be liable for a civil penalty of five hundred dollars for each violation. A proceeding to recover any civil penalty authorized pursuant to the provisions of this section shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal authorized to adjudicate violations of the health code or the administrative code.
+
+
+
+
+
+
+*§ 17-807 Rules.* ::
+
+
+The commissioner may promulgate such rules as are necessary for the purposes of implementing and carrying out the provisions of this chapter.
+
+
+
+
+
+
+*§ 17-808 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
+
+
+
+
+
+
+*§ 17-809 No limitation on additional services.* ::
+
+
+Nothing contained in this chapter shall be deemed to limit the department's authority to offer additional services or facilities to facilitate the decline in numbers of unwanted and uncared for animals in New York city.
+
+
+
+
+
+
+*§ 17-810 Euthanizing animals; time frame for making such determination.* ::
+
+
+In determining when a full-service shelter may euthanize a lost, stray or homeless animal held by it, such shelter shall exclude from the calculation of the number of hours that such shelter is required by law to hold such animal before euthanizing such animal those hours when such shelter is not required to accept dogs and cats pursuant to paragraph one of subdivision d of section 17-802 of this chapter. Such calculation of the number of hours shall not take into consideration the full-service shelter required to accept dogs and cats twenty-four hours per day pursuant to subdivision a of section 17-803 of this chapter.
+
+
+
+
+
+
+*§ 17-811 Animal population control program.* ::
+
+
+The department shall promulgate rules and regulations to establish and implement an animal population control program within one hundred eighty days from the effective date of this section. The purpose of this program shall be to reduce the population of unwanted stray dogs and cats thereby reducing potential threats to public health and safety and reducing the costs of caring for these animals. This program shall seek to accomplish its purpose by encouraging residents of the city of New York who are the owners of dogs and cats to have them spayed or neutered by providing no or low-cost spaying and neutering services to such owners. The department shall promulgate rules and regulations necessary to establish an animal population control program including, but not limited, to creating clinics or mobile units where such services shall be performed and establishing criteria for pet owner eligibility to use such services. Indicia of eligibility for pet owners seeking no or low-cost spay and neuter services shall include but not be limited to any criteria deemed acceptable by the agencies performing the services. The commissioner may solicit and accept funds from the animal population control fund established pursuant to section 17-812 of this chapter and any other public or private source to help carry out the provisions of this section.
+
+
+
+
+
+
+*§ 17-812 Animal population control fund.* ::
+
+
+1. There is hereby established in the joint custody of the city comptroller and commissioner of finance a fund to be known as the "animal population control fund" which shall be used by the department to subsidize the city's animal population control program as established by section 17-811 of this chapter.
+
+2. Such fund shall consist of all moneys collected from the animal population control program established pursuant to section 17-811 of this chapter, all moneys collected for the additional fee charged for a license to be issued or renewed for an unsterilized dog pursuant to subdivision three of section two of chapter one hundred fifteen of the laws of eighteen hundred ninety-four, that portion of any penalties assessed under section three of such chapter due to be paid to such fund, and all other moneys credited or transferred thereto from any other fund or source pursuant to law.
+
+3. Moneys of the fund shall be made available to the department and shall be expended for the purposes of carrying out animal population control programs pursuant to the provisions of section 17-811 of this chapter. Moneys shall be paid out of the fund on the audit and warrant of the city comptroller and approved by the commissioner. Any interest received by the city comptroller on moneys on deposit in the animal population control fund shall be retained in and become part of such fund.
+
+
+
+
+
+
+*§ 17-813 Dog license fee.* ::
+
+
+a. In addition to the fees required pursuant to chapter 115 of the laws of 1894, as amended, any person applying for a dog license shall pay twenty-five dollars and fifty cents for any dog four months of age or older that has not been spayed or neutered unless an owner presents with the license application a statement certified by a licensed veterinarian stating that he or she has examined the dog and found that because of old age or other reasons, the life of the dog would be endangered by spaying or neutering.
+
+b. Fees collected pursuant to the provisions of this section shall be directed to the animal population control fund established pursuant to section 17-812.
+
+
+
+
+
+
+*§ 17-814 Licensing of dogs required.* ::
+
+
+a. No pet shop or animal rescue group shall sell or release a dog to a purchaser or adopter unless such purchaser or adopter first completes an application for a license and tenders the license fees required by law. If such application is completed in connection with the purchase of a dog from a pet shop, such application shall include the following information: the date of purchase, the name and address of the pet shop, and if such pet shop has an operating permit issued by the department, such pet shop's permit number. Such pet shop or animal rescue group shall forward such completed application and license fees to the department in such manner as may be specified by the department.
+
+b. A pet shop or animal rescue group shall be exempt from the requirements of subdivision a of this section for any sale or adoption of a dog to a purchaser or adopter who executes and submits to such pet shop or animal rescue group a written statement that the dog to be purchased or adopted is to be harbored outside of the city and proof in a form determined by the department that the purchaser or adopter resides outside the city.
+
+c. Every pet shop shall, on at least a monthly basis, report to the department on a form furnished by the department all dogs which have been sold and adopted, indicating for each such dog whether or not the pet shop submitted to the department a license application. Such form shall include the name and address of each such dog's purchaser or adopter, the license or license application number if known, as well as any other descriptive information regarding such dog as may be required by the department.
+
+d. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
+
+
+
+
+
+
+
+
+*§ 17-815 Microchipping required.* ::
+
+
+a. No pet shop or animal rescue group shall release a dog or cat to a purchaser or adopter unless:
+
+   (1) such animal has been implanted with a microchip as a permanent identification;
+
+   (2) such pet shop or animal rescue group has registered such animal's microchip with such purchaser's contact information with a bona fide pet microchip registration company; and
+
+   (3) such pet shop or animal rescue group has provided such purchaser with (i) usage instructions for such microchip provided by the manufacturer of such microchip or the company with which such microchip is registered and (ii) written certification of compliance with paragraphs one and two of this subdivision, signed by such purchaser as acknowledgement of receipt, in a form and manner set forth in rules promulgated by the department.
+
+b. Every pet shop and animal rescue group shall retain for a period of ten years from the date of sale of any dog or cat, a copy of the certification signed by the purchaser required by paragraph three of subdivision a of this section.
+
+c. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
+
+
 
 
 
@@ -6061,6 +5992,75 @@ The department shall promulgate such rules as may be necessary for the implement
 The operator of a covered facility shall conduct a survey of such facility annually, and more often if necessary, to determine the physical condition of surface-coating material throughout each such facility and shall provide a copy of the survey results (i) to the department, which will make the information publicly available online, and (ii) to the parent or guardian of each child that attends such facility, as required by rules of the department.
 
 
+
+
+
+
+Chapter 10: Prescription Drug Discount Card Act
+--------------------------------------------------
+
+
+
+*§ 17-1001 Short title.* ::
+
+
+This chapter shall be known and may be cited as the "Prescription Drug Discount Card Act."
+
+
+
+
+
+
+*§ 17-1002 Definitions.* ::
+
+
+When used in this chapter, the term "rebate" shall mean a refund of a certain portion of the wholesale price of a drug based on a negotiated agreement between a drug manufacturer and any administrator of the prescription drug discount card program created pursuant to this chapter.
+
+
+
+
+
+
+*§ 17-1003 Prescription drug discount card program.* ::
+
+
+a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
+
+b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
+
+c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
+
+d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
+
+
+
+
+
+
+*§ 17-1004 Report.* ::
+
+
+Not later than sixty days after the end of each twelve-month period during which the prescription drug discount card program has been in operation, the department shall provide the city council with a report regarding such program. Such report shall provide information regarding the operation of such program during the reporting period, including, but not limited to (i) the number of prescription drug discount card holders who used the prescription drug discount card at least once, (ii) the total cost savings to all card holders generated by the program, (iii) the average cost savings to a card holder per prescription, (iv) the source and method of cost savings under the program, (v) the major drug categories that are not discounted under the program and an explanation as to why such drugs are not listed, (vi) the drugs for which rebates are offered under the program, listed according to major drug category, (vii) the number of pharmacies participating in the program, and (viii) to the extent available, any costs incurred by pharmacies to participate in the program.
+
+
+
+
+
+
+*§ 17-1005 Implementation.* ::
+
+
+The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including, but not limited to, developing and/or administering the prescription drug discount card program established pursuant to section 17-1003 of this chapter and collecting information required by section 17-1004 of this chapter.
+
+
+
+
+
+
+*§ 17-1006 Rules.* ::
+
+
+The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
 
 
 
@@ -7199,67 +7199,6 @@ This law shall apply to all persons convicted of an animal abuse crime on or aft
 
 
 
-Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
---------------------------------------------------
-
-
-
-*§ 17-1801 Definitions.* ::
-
-
-For the purposes of this chapter, the following terms shall have the following meanings:
-
-Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
-
-Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
-
-Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
-
-Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
-
-Screened. The term “screened” means evaluated by a health care provider.
-
-
-
-
-
-
-
-
-*§ 17-1802 Arrestee health screening.* ::
-
-
-Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
-
-
-
-
-
-
-
-
-*§ 17-1803 Inmate health information from screening.* ::
-
-
-The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
-
-
-
-
-
-
-
-
-*§ 17-1804 Inmate health information exchange.* ::
-
-
-The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
-
-
-
-
-
-
 Chapter 17: Pet Shops
 --------------------------------------------------
 
@@ -7545,6 +7484,67 @@ d. The commissioner may impose upon the owner of a pet shop from which an animal
 
 
 The commissioner may promulgate such rules as are necessary to carry out the provisions of this chapter and to ensure the health and safety of any animal in a pet shop.
+
+
+
+
+Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
+--------------------------------------------------
+
+
+
+*§ 17-1801 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms shall have the following meanings:
+
+Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
+
+Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
+
+Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
+
+Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
+
+Screened. The term “screened” means evaluated by a health care provider.
+
+
+
+
+
+
+
+
+*§ 17-1802 Arrestee health screening.* ::
+
+
+Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
+
+
+
+
+
+
+
+
+*§ 17-1803 Inmate health information from screening.* ::
+
+
+The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
+
+
+
+
+
+
+
+
+*§ 17-1804 Inmate health information exchange.* ::
+
+
+The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
+
+
 
 
 
