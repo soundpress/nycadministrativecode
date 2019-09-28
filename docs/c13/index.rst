@@ -570,7 +570,7 @@ Whenever any horses used in the department shall have become unfit for use there
 
 
 
-*§ 14-140 Property clerk.* ::
+*§ 14-140 Property clerk.** ::
 
 
 a. Appointment, duties and security.
@@ -622,6 +622,8 @@ j. Property and money desired to be produced in criminal court. If any property 
 k. Public administrators not affected. Nothing in this section shall in any way contravene, modify or repeal any existing provision of law, general, special or local, relating to the jurisdiction, powers, privileges, personnel, duties and functions of any public administrator.
 
 
+
+* Editor's note: In McClendon v. Rossetti, 460 F.2d 111 , the court held that certain procedures of the police property clerk, which required persons from whom property was taken in the course of an arrest to commence a court proceeding to obtain the return of such property, combined with the provisions of section 14-140(f) of the Administrative Code, which required such persons to prove lawful possession of the property, denied such persons due process of law under the Fifth and Fourteenth amendments to the U.S. Constitution. Subsequent to the McClendon decision, the Police Department and the District Attorneys adopted procedures for claiming property taken or obtained by the police in the course of an arrest which were approved by the McClendon court. These procedures are codified as subchapter B of chapter 12 of title 38 of the Rules of the City of New York.
 
 
 
@@ -1856,6 +1858,58 @@ c. Training requirement. All newly assigned special victims investigators shall 
 d. Special victims division training report. On January 30, 2020, and every January 30 thereafter, the department shall post on its website a report indicating the training components of the special victims training program defined in subdivision b of this section including the instructors, purpose, length, and format of each training component, the specific reasons for eliminating or replacing any training component, and the number of members of the service during the previous calendar year that: (i) participated in such program, (ii) failed to demonstrate proficiency required pursuant to subdivision c of this section on their first attempt, disaggregated by subject matter, and (iii) successfully demonstrated proficiency on all subject matters required pursuant to subdivision c of this section. Such report shall also include any experts consulted pursuant to subdivision b of this section in developing such training.
 
 
+
+
+
+
+
+
+*§ 14-181 Child sensitive arrest policies.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Caregiver. The term “caregiver” means any individual responsible for the well-being of a child, including but not limited to a parent, legal guardian, relative, or other individual supervising a child.
+
+   Displaying. The term “displaying” means removing from a holster or utility belt.
+
+   Partner organization. The term “partner organization” means an agency or non-profit organization with the capacity to safeguard a child from potential trauma and minimize the effects of trauma to a child of an incarcerated parent.
+
+   Trauma. The term “trauma” means an experience that results from an event, series of events, or set of circumstances that are physically or emotionally harmful or threatening to an individual and that has lasting adverse effects on such individual’s functioning and physical, mental, social, emotional, or spiritual well-being.
+
+b. The department shall develop guidance for its officers with respect to the arrest of a caregiver in the presence of such caregiver’s child and post such guidance on the department’s website. Such guidance shall be designed to reduce the traumatic impact that the arrest of a caregiver may have on a child, and include the following:
+
+   1. Promptly ascertaining whether a child is present, relying on all available information including any information received from emergency call operators and any indications at the scene of arrest that a child may be present.
+
+   2. Only displaying firearms and other weapons within the sight of a child when necessary and consistent with departmental policy and officer safety.
+
+   3. Handcuffing and questioning an arrested caregiver in a location outside the presence of the sight and hearing of a child of such caregiver.
+
+   4. Reasonably avoiding the use of force to physically separate a child from the arrested caregiver.
+
+   5. Providing an arrested caregiver the opportunity to speak with a child who is present, prior to such caregiver being transported to a police facility. If such an opportunity is not practicable, having a police officer explain to such child, using age appropriate language, that that such child did nothing wrong and that the child will be safe and cared for.
+
+   6. Providing objects that provide comfort to the child of an arrested caregiver, such as toys, clothing, blankets, photographs, or food.
+
+   7.  Ascertaining any medical, behavioral, or psychological conditions or required treatments of the child of an arrested caregiver and securing any required medication for such child.
+
+   8. Permitting an arrested caregiver a reasonable opportunity, including providing access to telephone numbers stored in a mobile telephone or other location, to make alternate arrangements for the care of a child, including a child who is not present at the scene of the arrest, and to provide the department or a partner organization with contact information of a preferred alternate caregiver.
+
+   9. When an alternate caregiver is unable to arrive at the scene of arrest within a reasonable amount of time, making a referral to a partner organization or bringing the child to the borough’s child advocacy center. If no alternate caregiver is identified or the identified caregiver does not arrive in a reasonable amount of time, or if the child advocacy center or partner organization is unavailable, notifying the New York state central register of the office of children and family services and notifying the administration for children’s services borough field office or the administration for children’s services’ emergency children’s services program or its equivalent.
+
+   10. Not notifying the administration for children’s services and the state central register of the office of children and family services unless required by law.
+
+   11. After arrest and prior to arraignment in a criminal court, affording arrested caregivers adequate opportunities to make phone calls to check on the status and well-being of a child.
+
+   12. After an arrest and prior to arraignment in a criminal court, offering to make a referral to a partner organization that could provide appropriate services to the child and, with the caregiver’s consent, making such referral.
+
+c. Training. The department shall ensure that police officers whose duties include routine daily interaction with the public receive training in accordance with subdivision b of this section within one year of the date this law takes effect. Such training shall be developed with input from an outside entity with expertise in child and youth development.
+
+d. Reporting. Within 30 days of January 1, 2020, January 1, 2021, and January 1, 2022, the department shall submit to the speaker of the council and post on its website a report on the number of instances requiring a referral to a partner organization or transportation of the child to a child advocacy center pursuant to paragraph 9 of subdivision b of this section.
+
+(L.L. 2019/166, 9/14/2019, eff. 3/14/2020*)
+
+* Editor's note: Pursuant to Section 2 of L.L. 2019/166, paragraph 12 of subdivision b is effective 3/14/2021.
 
 
 

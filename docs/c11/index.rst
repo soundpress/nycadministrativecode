@@ -912,6 +912,22 @@ Employees of the city of New York shall be permitted to use pre-tax earnings to 
 
 
 
+
+
+*§ 12-140 Line of duty sick leave for World Trade Center rescue, recovery or cleanup operations.* ::
+
+
+(a) Notwithstanding any other law, rule or regulation to the contrary, officers and employees of a city with a population of one million or more who (i) do not receive benefits similar to those provided by this section pursuant to a collectively bargained agreement, section 14-122.1 of this code, section 15-108.1 of this code, or other statutory provision and (ii) filed and received approval for such filed notice of participation in World Trade Center rescue, recovery or cleanup operations and subsequently develop a qualifying World Trade Center condition, as defined in section two of the retirement and social security law, shall, after receipt of a written request for line of duty sick leave, be granted line of duty sick leave commencing on the date that such employee was diagnosed with a qualifying World Trade Center condition regardless of whether such officer or employee was employed by his or her current employer at the time that such officer or employee participated in World Trade Center rescue, recovery or cleanup operations. The officer or employee shall be compensated at his or her regular rate of pay for those regular work hours during which the officer or employee is absent from work. Such leave shall be provided without loss of an officer or employee's accrued sick leave.
+
+(b) A public employer shall not take any adverse personnel action against a public employee regarding the employee's employment because either (i) the employee utilizes, or requests to utilize, sick leave or any other available leave due to a qualifying World Trade Center condition, as such term is defined in section two of the retirement and social security law, or (ii) the employee utilizes or requests to utilize line of duty sick leave provided by this section.
+
+(c) For purposes of this section, an "adverse personnel action" means any discipline, including issuing a notice of discipline, discharge, suspension, demotion, penalization, or discrimination against an employee utilizing line of duty sick leave pursuant to subdivision (a) of this section. Nothing in this section shall limit an employer's power pursuant to another provision of law to discipline an officer or employee by termination, reduction of salary, or any other appropriate measure; to terminate an appointee who has not completed his or her probationary term; and to apply for ordinary or accident disability retirement for an officer or employee.
+
+
+
+
+
+
 Chapter 2: Department of Citywide Administrative Services
 --------------------------------------------------
 

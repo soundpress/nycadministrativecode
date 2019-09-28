@@ -1310,6 +1310,268 @@ b. Not later than March 1, 2019, and on or before March 1 annually thereafter, t
 
 
 
+*§ 21-142 Reporting on the termination and denial of public assistance.* ::
+
+
+a. For the purposes of this section the following terms have the following meanings:
+
+   Case head. The term “case head” means the head of household who is the member of the applicant household designated by the household to represent the household in all matters pertaining to its eligibility for and receipt of public assistance, as defined in Title 18 of New York Codes Rules and Regulations Part 387.1(u)(1), and as indicated in the welfare management system.
+
+   Reopened case. The term “reopened case” means a case of ongoing cash or supplemental nutrition assistance that was terminated and subsequently reopened within three months of termination.
+
+   Welfare management system. The term “welfare management system” means the system defined in section 21 of New York social services law.
+
+b. Termination report. The department shall post on its website and submit to the speaker of the council and the public advocate a report on instances in which ongoing cash or supplemental nutrition assistance was terminated during the relevant reporting period. The first such report shall be due on November 15, 2019, and shall cover the quarter that began on July 1, 2019. Subsequent reports shall be posted and submitted no later than 45 days after the end of each quarter thereafter. Such reports shall include the following information for the relevant reporting period:
+
+   1. The total number of ongoing cash and supplemental nutrition assistance cases terminated;
+
+   2. The total number of cases terminated, disaggregated by type of ongoing cash or supplemental nutrition assistance;
+
+   3. The total number of cases terminated, disaggregated by reason(s) why the ongoing cash or supplemental nutrition assistance was terminated, using the welfare management system closing codes;
+
+   4. The data required by paragraphs 1, 2 and 3 of this subdivision shall be further disaggregated by:
+
+      (a) The council district the case head lives in;
+
+      (b) The reported race, ethnicity, gender and age category of the case head;
+
+      (c) Whether the case head has limited English proficiency; and
+
+      (d) Whether the case head has received a reasonable accommodation for a disability from the department.
+
+c. Denial report. The department shall post on its website and submit to the speaker of the council and the public advocate a report on instances in which applications for ongoing cash or supplemental nutrition assistance were denied during the relevant reporting period. The first such report shall be due on November 15, 2019, and shall cover the quarter that began on July 1, 2019. Subsequent reports shall be posted and submitted no later than 45 days after the end of each quarter thereafter. Such reports shall include the following information for the relevant reporting period:
+
+   1. The total number of ongoing cash and supplemental nutrition assistance applications denied;
+
+   2. The total number of applications denied, disaggregated by type of ongoing cash or supplemental nutrition assistance;
+
+   3. The total number of each type of ongoing cash or supplemental nutrition assistance applications denied, disaggregated by the reason(s) why such applications were denied, using the welfare management system denial codes;
+
+   4. The data required by paragraphs 1, 2 and 3 of this subdivision shall be further disaggregated by:
+
+      (a) The council district the case head lives in;
+
+      (b) The reported race, ethnicity, gender and age category of the case head;
+
+      (c) Whether the case head has limited English proficiency; and
+
+      (d) Whether the case head has received a reasonable accommodation for a disability from the department.
+
+d. Re-open after termination. The department shall post on its website and submit to the speaker of the council and the public advocate a report on reopened cases for the relevant reporting period. The first such report shall be due on November 15, 2019, and shall cover the quarter that began on July 1, 2019. Subsequent reports shall be posted and submitted no later than 45 days after the end of each quarter thereafter. Such report shall include the following information for the relevant reporting period:
+
+   1. The total number of reopened cases;
+
+   2. The total number of reopened cases, disaggregated by the type of ongoing cash or supplemental nutrition assistance;
+
+   3. The total number of instances in which a case was reopened within three months of ongoing cash or supplemental nutrition assistance termination and was reopened for the same type of ongoing cash or supplemental nutrition assistance, disaggregated using the welfare management system reopen codes;
+
+   4. The total number of instances in which a public assistance case was terminated and at least one disbursement date passed before such case was reopened for the same type of ongoing cash or supplemental nutrition assistance;
+
+   5. The data required by paragraphs 1, 2, 3 and 4 of this subdivision shall be further disaggregated by:
+
+      (a) The council district the case head lives in;
+
+      (b) The reported race, ethnicity, gender and age category of the case head;
+
+      (c) Whether the case head has limited English proficiency; and
+
+      (d) Whether the case head has received a reasonable accommodation for a disability from the department.
+
+e. The reports produced pursuant to subdivisions b, c and d of this section shall be stored permanently and shall be accessible on the department's website. Reports required pursuant to this section shall not contain personally identifiable information.
+
+
+
+
+
+
+
+
+*§ 21-142.1 Arrests, summonses, removals, escorts and use of force incidents in a job center or SNAP center.* ::
+
+
+a. As used in this section, the following terms have the following meanings:
+
+   Basis for encounter. The term "basis for encounter" means the conduct, offense or reason that formed the basis for the initial approach by a peace officer or security guard that led to an arrest, summons, removal, escort or use of force incident.
+
+   Escort. The term “escort” means the accompaniment of an individual by a peace officer or security guard out of a job center or SNAP center following a request that such individual exit the job center or SNAP center.
+
+   Injury. The term “injury” means any physical harm an individual sustains as a result of a use of force incident, and consists of the following categories: (i) physical injury, such as minor swelling, a contusion, laceration, abrasion or complaint of substantial contracted pain; (ii) substantial physical injury, such as a significant contusion or laceration that requires sutures or any injury that appears to require treatment at a hospital emergency room; and (iii) serious physical injury, such as a broken or fractured bone, heart attack, stroke or any injury that appears to require hospital admission.
+
+   Job center. The term “job center” means any location designated by the department as a job center where individuals can complete an application for cash assistance in person.
+
+   Peace officer. The term “peace officer” means an individual who is designated as a peace officer pursuant to section 2.10 of the criminal procedure law and works for the department and is charged with promoting security within a job center or SNAP center.
+
+   Removal. The term “removal” means the taking into custody of an individual in a job center or SNAP center by a peace officer pursuant to section 9.41 of the mental hygiene law.
+
+   Security guard. The term “security guard” means an unarmed individual with a current and valid registration card issued in accordance with article 7-A of the general business law authorizing such individual to perform security services in New York, who is employed by an entity with which the department contracts to promote security within job centers and SNAP centers.
+
+   SNAP center. The term “SNAP center” means any location designated by the department as a SNAP center where individuals can complete an application for the supplemental nutrition assistance program in person.
+
+   Use of force incident. The term “use of force incident” means any instance where a peace officer or security guard responds to an incident or condition at a job center or SNAP center and takes action in a manner intended to have an immediate effect on the body of another person, and consists of the following categories: (i) the use of hand strikes, foot strikes, forcible take-downs or the wrestling of the subject to the ground; (ii) the discharge of oleoresin capsicum spray; (iii) the deployment of a conducted electrical weapon; (iv) the use of a mesh restraining blanket to secure an individual; (v) the intentional striking of a person with any object, including a baton or other equipment; (vi) a police canine bite; and (vii) the use of physical force that is readily capable of causing death or serious physical injury, including the discharge of a firearm.
+
+b. No later than January 31, 2020, and no later than 30 days after the end of each calendar quarter thereafter, the department shall post on its website and submit to the speaker of the council an aggregate report on arrests, summonses, removals, escorts and use of force incidents in job centers and SNAP centers for the preceding quarter. Reports required pursuant to this section shall not contain personally identifiable information. Such reports shall include:
+
+   1. The total number of arrests by a peace officer, disaggregated by:
+
+      (a) The job center or SNAP center where the arrest occurred;
+
+      (b) The offense charged; and
+
+      (c)  Whether the arrestee was issued a desk appearance ticket or was the subject of a live arrest;
+
+   2. The following information for each summons issued by a peace officer:
+
+      (a) The date the summons was issued;
+
+      (b) The job center or SNAP center where the summons was issued;
+
+      (c) The offense; and
+
+      (d) Whether the summons was civil or criminal;
+
+   3. The following information for each removal:
+
+      (a) The date the removal occurred;
+
+      (b) The job center or SNAP center where the removal occurred; and
+
+      (c) The basis for the encounter;
+
+   4. The following information for each use of force incident:
+
+      (a) The date the use of force incident occurred;
+
+      (b) The job center or SNAP center where the use of force incident occurred;
+
+      (c) The category of the use of force incident;
+
+      (d) The number and category of injuries to a peace officer or security guard;
+
+      (e) The number and category of injuries to any other individual;
+
+      (f) The basis for the encounter; and
+
+      (g) Whether or not an arrest was made;
+
+   5. The total number of times the department called the police department for assistance at a job center or SNAP center, disaggregated by:
+
+      (a) Whether a department employee witnessed an arrest being made; and
+
+      (b) Whether a department employee witnessed a police officer displaying a firearm, oleoresin capsicum spray, conducted electrical weapon, baton, or any other weapon; and
+
+   6. The total number of escorts, disaggregated by:
+
+      (a) The job center or SNAP center where the escort occurred; and
+
+      (b) The basis for the encounter.
+
+c. The reports produced pursuant to subdivision b of this section shall be stored permanently and shall be accessible on the department's website.
+
+
+
+
+
+
+
+
+*§ 21-142.2 Office of constituent services.* ::
+
+
+a. There shall be an office of constituent services within the department. The duties of such office shall include, but not be limited to:
+
+   1. Establishing a system to receive and respond to comments, questions and complaints from clients;
+
+   2. Conducting a review of all inquiries from clients about cases where any public benefits administered by the department have been or will be terminated including, but not limited to, the reason for such termination, whether the recipient was notified that such public benefits have been or will be terminated and whether the department has complied with the applicable statutes, rules and regulations with respect to such cases;
+
+   3. Establishing and maintaining policies regarding communication with clients in a timely manner in response to inquiries;
+
+   4. Developing strategies and recommendations for the commissioner regarding client communication; and
+
+   5. Performing such other duties and functions as may be appropriate.
+
+b. The department shall post on its website the phone number for the office of constituent services and a statement indicating that any person may contact such office if such person has a comment, question or complaint regarding any public benefit administered by the department.
+
+c. Beginning on January 31, 2020, the office of constituent services shall submit monthly reports to the commissioner indicating:
+
+   1. The number of comments, questions and complaints received;
+
+   2. The number of comments, questions and complaints received in which information was provided and the matter resolved;
+
+   3. The number of comments, questions and complaints received in which the matter was escalated for resolution, disaggregated by the 20 most frequent categories of inquiries; and
+
+   4. Recommendations made pursuant to paragraph 4 of subdivision a of this section.
+
+d. No later than January 31, 2021 and annually thereafter, the commissioner shall post on the department’s website and submit to the mayor and the speaker of the council a report that shall include a compilation of the monthly reports submitted pursuant to subdivision c of this section during the preceding calendar year.
+
+
+
+
+
+
+
+
+*§ 21-142.3 Social work services in job centers.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Job center. “Job center” has the same meaning as set forth in section 21-142.1.
+
+   Social work services. “Social work services” means the coordination of client services to expedite and assist clients with obtaining such services, where such coordination is provided primarily by a social worker.
+
+b. The department shall establish a pilot program for the design, development, staffing, implementation and provision of social work services at one job center in each borough. No later than July 15, 2020, the commissioner shall submit to the mayor and the speaker of the council a report outlining the findings of such pilot program.
+
+c. No later than January 1, 2021, the department shall ensure that social work services are expanded to all job centers and available during regular hours of operation of such centers.
+
+
+
+
+
+
+
+
+*§ 21-142.4 Space for children in job centers and SNAP centers.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Child. The term “child” means a natural person under the age of 13 years.
+
+   Client. The term “client” means a visitor who has made initial contact with the department at a job center or SNAP center, either through a self-service kiosk or with a staff member responsible for keeping track of visitors.
+
+   Job center. The term “Job center” has the same meaning as set forth in section 21-142.1.
+
+   SNAP center. “SNAP center” has the same meaning as set forth in section 21-142.1.
+
+b. The department shall designate a sanitary space in every job center and SNAP center for any client with a child in such center where providing such space is practicable and does not compromise the space needs of the department or safety of clients. Such designated space shall include comfortable seating and age-appropriate and educational materials for any child who utilizes such space.
+
+c. The department shall create a poster containing information on availability of space for children pursuant to this section and any additional accommodations for children. Such poster shall be displayed in a clear and conspicuous manner in all job centers and SNAP centers. Information about space for children in job centers and SNAP centers shall be made available on the department’s website. Within 30 days after the effective date of the local law adding this subdivision, the department shall create a list of all locations with spaces for children available pursuant to this section. The department shall submit such list to the speaker of the council and make such list available on the department’s website.
+
+
+
+
+
+
+
+
+*§ 21-142.5 Job center and SNAP center appointments.* ::
+
+
+a. For purposes of this section, the following terms have the following meanings:
+
+   Job center. The term “job center” has the same meaning as set forth in section 21-142.1.
+
+   SNAP center. The term “SNAP center” has the same meaning as set forth in section 21-142.1.
+
+b. The department shall maintain systems in which in-person appointments for services at job centers and SNAP centers can be rescheduled over the phone. The availability of such systems shall be communicated to clients in the written notice clients receive communicating the date, time and location of their appointments.
+
+
+
+
+
+
+
+
 
 **Subchapter 1: Equal Access to Human Services**
 

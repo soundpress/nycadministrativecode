@@ -1191,19 +1191,19 @@ No later than three months after the end of each fiscal year, the commissioner s
 
 
 
-*§ 28-103.30 Audits of training provided in connection with section 3321 of the New York city building code.* ::
+*§ 28-103.29.1 Audits of training provided in connection with section 3321 of the New York city building code.* ::
 
 
-n addition to any other enforcement mechanisms, the department shall periodically audit SST providers and training provided in connection with section 3321 of the New York city building code by such providers in order to ensure the integrity of such training and compliance with such section and any rules or department requirements relating to such training.
-
-
-
+In addition to any other enforcement mechanisms, the department shall periodically audit SST providers and training provided in connection with section 3321 of the New York city building code by such providers in order to ensure the integrity of such training and compliance with such section and any rules or department requirements relating to such training.
 
 
 
 
 
-*§ 28-103.31 Report on site safety manager and coordinator certifications.** ::
+
+
+
+*§ 28-103.31 Report on site safety manager and coordinator certifications.* ::
 
 
 The commissioner shall, in October of 2018 and each year thereafter, electronically submit to the city council and post on the department's website a report that includes the following information regarding site safety managers and site safety coordinators:
@@ -1221,76 +1221,6 @@ The commissioner shall, in October of 2018 and each year thereafter, electronica
 6. The (i) average length of time for an applicant who submitted an application for a site safety manager certificate during the preceding year to receive such certificate, measured from the date a completed application is submitted to the department and (ii) average length of time for an applicant who submitted an application for a site safety coordinator certificate during the preceding year to receive such certificate, measured from the date a completed application is submitted to the department; and
 
 7. The (i) average length of time for an applicant who submitted an application for a site safety manager certificate during the preceding year to complete a background check, if any, for such certificate, measured from the date such applicant submitted all documentation necessary to complete such check, (ii) average length of time for an applicant who submitted an application for a site safety coordinator certificate during the preceding year to complete a background check, if any, for such certificate, measured from the date such applicant submitted all documentation necessary to complete such check (iii) the main three reasons for completions of background checks for applicants who submitted applications for site safety manager certificates during the preceding year exceeding the average length of time for completion of such background checks and (iv) the main three reasons for completions of background checks for applicants who submitted applications for site safety coordinator certificates during the preceding year exceeding the average length of time for completion of such background checks.
-
-
-
-
-
-
-
-
-*§ 28-103.31 Office of alternative energy.** ::
-
-
-There is hereby established within the department an office of alternative energy.
-
-
-
-
-
-
-
-
-*§ 28-103.31.1 Definition.* ::
-
-
-As used in this section, the term “alternative energy project” means construction work on a building, as such term is defined in section 28-101.5 of the administrative code, that will result in such building having at least 50 kilowatts of alternative energy capacity installed onsite from:
-
-1. A qualified energy resource, as such term is defined in section 45 of title 26 of the United States code; or
-
-2. A source that is determined to be renewable by the commissioner or the head of another agency designated by the mayor.
-
-
-
-
-
-
-
-
-*§ 28-103.31.2 Duties of the office of alternative energy.* ::
-
-
-The duties of the office of alternative energy include, but need not be limited to:
-
-1. Establishing a program to (i) assist with the technical review and approval of applications and other documents submitted to the department in connection with alternative energy projects, (ii) provide guidance to applicants in connection with such projects, (iii) support technical research for advancing energy legislation and policy within the city and (iv) receive and respond to comments, questions and complaints with respect to such program;
-
-2. Coordinating with the office of long-term planning and sustainability, fire department, department of small business services, department of housing preservation and development, and other relevant agencies to ensure that policies are in place to encourage the installation and maintenance of alternative energy projects, and seeking cooperation and assistance from the city university of New York with respect to such policies; and
-
-3. Making recommendations to the commissioner and the heads of other agencies with respect to streamlining the process for obtaining the necessary approvals to install and maintain alternative energy projects.
-
-
-
-
-
-
-
-
-*§ 28-103.31.3 Reporting.* ::
-
-
-The head of the office of the alternative energy shall submit an annual report to the commissioner and to the head of any other relevant agency providing (i) a description of the most commonly received comments, questions and complaints received with respect to such office, (ii) a description of actions undertaken by such office to coordinate with other agencies and the results of such coordination, (iii) recommendations made pursuant to section 28-103.31.2 and (iv) recommendations with respect to expanding the definition of alternative energy project. By no later than three months after the end of each fiscal year, such office shall submit a report to the mayor and the speaker of the city council that includes a summary of the actions taken by any agency as a result of any comment, question, complaint or recommendation from or forwarded by such office.
-
-
-
-
-
-
-
-
-*§ 28-103.31.4 Posting of information.* ::
-
-
-The office of alternative energy shall maintain a website and shall post on such website the contact information for such office and a statement indicating that any person may contact such office if such person has a comment, question or complaint with respect to such office.
 
 
 
@@ -1331,6 +1261,92 @@ The reports required pursuant to this section shall remain permanently accessibl
 
 
 * Editor's note: Section 5 of L.L. 2018/190 provides that this section will be repealed five years after it becomes law.
+
+
+
+
+
+
+*§ 28-103.33 Office of alternative energy.* ::
+
+
+There is hereby established within the department an office of alternative energy.
+
+
+
+
+
+
+
+
+*§ 28-103.33.1 Definitions.* ::
+
+
+As used in this section, the following terms have the following meaning:
+
+ALTERNATIVE ENERGY PROJECT. Construction work on a building that will result in such building having at least 50 kilowatts of alternative energy capacity installed onsite from:
+
+   1. A qualified energy resource, as such term is defined in section 45 of title 26 of the United States code; or
+
+   2. A source that is determined to be renewable by the commissioner or the head of another agency designated by the mayor.
+
+GREEN ROOF SYSTEM. See section 1502.1 of the New York city building code.
+
+
+
+
+
+
+
+
+*§ 28-103.33.2 Duties of the office of alternative energy.* ::
+
+
+The duties of the office of alternative energy include, but need not be limited to:
+
+1. Establishing a program to (i) assist with the technical review and approval of applications and other documents submitted to the department in connection with alternative energy projects, (ii) provide guidance to applicants in connection with such projects, (iii) support technical research for advancing energy legislation and policy within the city and (iv) receive and respond to comments, questions and complaints with respect to such program;
+
+2. Coordinating with the office of long-term planning and sustainability, fire department, department of small business services, department of housing preservation and development, and other relevant agencies to ensure that policies are in place to encourage the installation and maintenance of alternative energy projects, and seeking cooperation and assistance from the city university of New York with respect to such policies; and
+
+3. Making recommendations to the commissioner and the heads of other agencies with respect to streamlining the process for obtaining the necessary approvals to install and maintain alternative energy projects.
+
+
+
+
+
+
+
+
+*§ 28-103.33.3 Reporting.* ::
+
+
+The head of the office of the alternative energy shall submit an annual report to the commissioner and to the head of any other relevant agency providing (i) a description of the most commonly received comments, questions and complaints received with respect to such office, (ii) a description of actions undertaken by such office to coordinate with other agencies and the results of such coordination, (iii) recommendations made pursuant to section 28-103.31.2 and (iv) recommendations with respect to expanding the definition of alternative energy project. By no later than three months after the end of each fiscal year, such office shall submit a report to the mayor and the speaker of the city council that includes a summary of the actions taken by any agency as a result of any comment, question, complaint or recommendation from or forwarded by such office.
+
+
+
+
+
+
+
+
+*§ 28-103.33.4 Posting of information.* ::
+
+
+The office of alternative energy shall maintain a website and shall post on such website the contact information for such office and a statement indicating that any person may contact such office if such person has a comment, question or complaint with respect to such office.
+
+
+
+
+
+
+
+
+*§ 28-103.33.4.1 Information regarding installation of green roof systems.* ::
+
+
+The office of alternative energy shall further post and maintain links on its website to information regarding the installation of green roof systems and other resources and materials regarding green roof systems.
+
+
 
 
 
@@ -2827,7 +2843,9 @@ The commissioner is authorized to suspend or revoke a permit issued under the pr
 *§ 28-105.10.1 Notice of proposed revocation.* ::
 
 
-The commissioner may, on written notice to the permit holder, revoke any permit for failure to comply with the provisions of this code or other applicable laws or rules; or whenever there has been any false statement or any misrepresentation as to a material fact in the application or submittal documents upon the basis of which such approval was issued; or whenever a permit has been issued in error and conditions are such that the permit should not have been issued. Such notice shall inform the permit holder of the reasons for the proposed revocation and that the applicant has the right to present to the commissioner or his or her representative within 10 business days of delivery of the notice by hand or 15 calendar days of the posting of notice by mail, information as to why the permit should not be revoked.
+The commissioner may, on written notice to the permit holder, revoke any permit for failure to comply with the provisions of this code or other applicable laws or rules; or whenever there has been any false statement or any misrepresentation as to a material fact in the application or submittal documents upon the basis of which such approval was issued; or whenever a permit has been issued in error and conditions are such that the permit should not have been issued. Such notice may be accompanied by a stop work order pursuant to section 28-207.2 of this code and shall inform the permit holder of the reasons for the proposed revocation and that the applicant has the right to present to the commissioner or his or her representative within 10 business days of delivery of the notice by hand or 15 calendar days of the posting of notice by mail, information as to why the permit should not be revoked.
+
+
 
 
 
@@ -6553,7 +6571,9 @@ Peremptory orders issued by the commissioner shall contain a description of the 
 *§ 28-207.2 Stop work orders.* ::
 
 
-Whenever the commissioner finds that any building work is being executed in violation of the provisions of this code, the 1968 building code, the zoning resolution or of any laws or rules enforced by the department, or in a dangerous or unsafe manner, the commissioner or his or her authorized representative may issue a stop work order.
+Whenever the commissioner has issued a notice of proposed revocation pursuant to section 28-105.10.1 of this code or finds that any building work is being executed in violation of the provisions of this code, the 1968 building code, the zoning resolution or of any laws or rules enforced by the department, or in a dangerous or unsafe manner, the commissioner or his or her authorized representative may issue a stop work order.
+
+
 
 
 
