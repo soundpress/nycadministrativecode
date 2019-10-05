@@ -1210,6 +1210,23 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+Chapter 22: Posting of Subdistrict Maps
+--------------------------------------------------
+
+
+
+*§ 21-989 Posting of subdistrict maps.* ::
+
+
+a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
+
+b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
+
+
+
+
+
+
 Chapter 21: Posting of Information Regarding the Process Used in Determining Identified Seat Need
 --------------------------------------------------
 
@@ -1275,23 +1292,6 @@ e. The data provided in paragraphs 2, 3 and 4 of subdivision b of this section s
 f. All data provided pursuant to this section shall be provided in machine readable format.
 
 g. Nothing in this section shall be construed to affect the authority or materially impede the ability of the department to determine the identified seat need or the methodology or information utilized in the determination of identified seat need.
-
-
-
-
-
-
-Chapter 22: Posting of Subdistrict Maps
---------------------------------------------------
-
-
-
-*§ 21-989 Posting of subdistrict maps.* ::
-
-
-a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
-
-b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
 
 
 

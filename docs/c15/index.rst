@@ -3128,6 +3128,21 @@ If any provision of this local law shall be adjudged to be unconstitutional or i
 
 
 
+Chapter 4-G: Food Donation Web Portal
+--------------------------------------------------
+
+
+
+*§ 16-497 Food donation web portal.* ::
+
+
+Within eighteen months after the effective date of the local law that added this section, the department or another agency or office designated by the mayor, shall, in conjunction with the department of information technology and telecommunications, create or modify and maintain a web portal that will allow prospective food donors and recipients, including but not limited to restaurants, grocery stores, produce markets, dining facilities and food rescue organizations, to post notifications concerning the availability of food, including food that would otherwise go to waste, and to arrange for the transportation or retrieval of such food. Such portal shall, at a minimum, allow (i) a prospective food donor to describe the type and amount of food available, including any information necessary to keep the food safe for human consumption, such as refrigeration requirements, as well as other information necessary to facilitate its donation, (ii) a prospective food recipient to specify the type and amount of food donations it will accept and the areas of the city from which it will accept donations and to receive prompt notification concerning the availability of food satisfying such specifications, and (iii) a prospective food donor and a prospective food recipient to communicate directly through a messaging system within such portal.
+
+
+
+
+
+
 Chapter 4-F: Carryout Bag Reduction
 --------------------------------------------------
 
@@ -3265,21 +3280,6 @@ e. No covered store that fails to post signs in accordance with subdivision a of
 
 
 Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-Chapter 4-G: Food Donation Web Portal
---------------------------------------------------
-
-
-
-*§ 16-497 Food donation web portal.* ::
-
-
-Within eighteen months after the effective date of the local law that added this section, the department or another agency or office designated by the mayor, shall, in conjunction with the department of information technology and telecommunications, create or modify and maintain a web portal that will allow prospective food donors and recipients, including but not limited to restaurants, grocery stores, produce markets, dining facilities and food rescue organizations, to post notifications concerning the availability of food, including food that would otherwise go to waste, and to arrange for the transportation or retrieval of such food. Such portal shall, at a minimum, allow (i) a prospective food donor to describe the type and amount of food available, including any information necessary to keep the food safe for human consumption, such as refrigeration requirements, as well as other information necessary to facilitate its donation, (ii) a prospective food recipient to specify the type and amount of food donations it will accept and the areas of the city from which it will accept donations and to receive prompt notification concerning the availability of food satisfying such specifications, and (iii) a prospective food donor and a prospective food recipient to communicate directly through a messaging system within such portal.
-
-
 
 
 

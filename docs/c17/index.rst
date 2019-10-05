@@ -7199,6 +7199,67 @@ This law shall apply to all persons convicted of an animal abuse crime on or aft
 
 
 
+Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
+--------------------------------------------------
+
+
+
+*§ 17-1801 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms shall have the following meanings:
+
+Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
+
+Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
+
+Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
+
+Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
+
+Screened. The term “screened” means evaluated by a health care provider.
+
+
+
+
+
+
+
+
+*§ 17-1802 Arrestee health screening.* ::
+
+
+Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
+
+
+
+
+
+
+
+
+*§ 17-1803 Inmate health information from screening.* ::
+
+
+The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
+
+
+
+
+
+
+
+
+*§ 17-1804 Inmate health information exchange.* ::
+
+
+The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
+
+
+
+
+
+
 Chapter 17: Pet Shops
 --------------------------------------------------
 
@@ -7484,67 +7545,6 @@ d. The commissioner may impose upon the owner of a pet shop from which an animal
 
 
 The commissioner may promulgate such rules as are necessary to carry out the provisions of this chapter and to ensure the health and safety of any animal in a pet shop.
-
-
-
-
-Chapter 18: Police and Correctional Healthcare Evaluation and Sharing
---------------------------------------------------
-
-
-
-*§ 17-1801 Definitions.* ::
-
-
-For the purposes of this chapter, the following terms shall have the following meanings:
-
-Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
-
-Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
-
-Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
-
-Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
-
-Screened. The term “screened” means evaluated by a health care provider.
-
-
-
-
-
-
-
-
-*§ 17-1802 Arrestee health screening.* ::
-
-
-Every arrestee held at the central booking area of a local criminal court prior to their arraignment at such court shall be screened for medical or mental health conditions that may require immediate attention. The department or its designee shall oversee such screening.
-
-
-
-
-
-
-
-
-*§ 17-1803 Inmate health information from screening.* ::
-
-
-The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
-
-
-
-
-
-
-
-
-*§ 17-1804 Inmate health information exchange.* ::
-
-
-The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.
-
-
 
 
 
