@@ -69,9 +69,11 @@ The charter empowers the council as the legislative body of the city of New York
 *§ 9-107 Narcotics treatment program.* ::
 
 
-a. The commissioner of correction shall establish a program for the treatment of heroin addicts through the use of methadone hydrochloride therapy. The program shall be available on a voluntary basis only to such inmates as apply, subject to a medical evaluation, before acceptance, of their need for such treatment.
+a. Correctional health services, or any entity with which the department of correction or the department of health and mental hygiene contracts to provide healthcare for incarcerated individuals, shall establish a program for the treatment of substance abuse through the use of medication assisted treatment, including the administration of methadone, buprenorphine, and naltrexone. The program shall be available on a voluntary basis only to such incarcerated individuals as apply, subject to a medical evaluation, before acceptance, of their need for such treatment.
 
-b. The commissioner of correction shall provide for the continuance of such treatment by establishing parole procedures and after-care evaluation and implementation after the incarceration has terminated, during the period of parole.
+b. The commissioner of correction shall ensure that any housing unit in which transgender, intersex, non-binary, or gender non-conforming individuals are housed has access to the same substance abuse treatment as other incarcerated individuals. Such treatment shall only be given voluntarily and based on the exercise of professional medical judgment of a medical provider following consultation between such medical provider and the incarcerated person.
+
+
 
 
 
@@ -1015,6 +1017,8 @@ a. The department shall evaluate inmate programming each calendar year. For purp
 
 a. Definitions. As used in this section, the following terms have the following meanings:
 
+   Correctional health services. The term “correctional health services” means the entity responsible for the delivery of health and mental health services to incarcerated individuals in the custody of the department.
+
    Staff. The term “staff” means any employee of the department or any person who regularly provides health or counseling services directly to inmates.
 
    Trauma-informed care. The term “trauma-informed care” means trauma-informed care as described by the substance abuse and mental health services administration of the United States department of health and human services, or any successor agency, department, or governmental entity.
@@ -1024,6 +1028,8 @@ b. Training. The department shall identify where trauma-informed care is appropr
 c. Usage. The department shall establish guidelines for the use of trauma-informed care consistent with standards developed by the substance abuse and mental health services administration of the United States department of health and human services. The department shall monitor staff to ensure that trauma-informed care is appropriately utilized in all city correctional facilities.
 
 d. Reporting. No later than 90 days from January 1 of each year, beginning in 2018, the department shall provide to the council and publish on its website an annual report regarding its use of trauma-informed care. Such report shall include but not be limited to information regarding the number of employees trained in such care, a description of the guidelines promulgated pursuant to subdivision c of this section, and any programing that utilizes trauma- informed care. Such report shall be stored permanently on the department’s website and shall be provided in a format that permits automated processing where appropriate. Each report shall include a comparison of the current year to the prior five years, where such information is available.
+
+e. Transgender care. Correctional health services shall ensure that all medical and substance abuse professionals working with transgender individuals receive specialized training on transgender and gender-affirming care conducted by an individual or organization with expertise in the subject.
 
 
 

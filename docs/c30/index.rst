@@ -10621,7 +10621,7 @@ Editor's note: this § 28-317.4 takes effect upon the promulgation of rules by t
 *§ 28-317.5 Annual certification.* ::
 
 
-The owner or operator of a cooling tower shall file a certification each year that such cooling tower was inspected, tested, cleaned and disinfected in compliance with section 17-194.1 of the administrative code and the rules of the department of health and mental hygiene, and that a maintenance program and plan has been developed and implemented as required by such section. Such certification shall be submitted by November 1, 2016 and by November 1 of each year thereafter, or as otherwise specified in the rules of the department.
+The owner or operator of a cooling tower shall file an annual certification that such cooling tower was inspected, tested, cleaned and disinfected in compliance with section 17-194.1 of the administrative code and the rules of the department of health and mental hygiene, and that a maintenance program and plan has been developed and implemented as required by such section. Such certification shall be submitted by November 1, 2016 and by November 1 of each year thereafter, or by a date otherwise specified in the rules of the department. The department of health and mental hygiene shall send an electronic reminder to each owner or operator of a cooling tower at least 30 days before such certification submission deadline. Such electronic reminder shall include a link to the website where such certification may be submitted.
 
 
 
