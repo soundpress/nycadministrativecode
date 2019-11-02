@@ -2559,119 +2559,6 @@ e. This section shall not be construed to create a private right of action to en
 
 
 
-Chapter 4: Standards Governing the Performance of sterilizations
---------------------------------------------------
-
-
-
-*§ 17-401 Findings and declaration.* ::
-
-
-The council declares that due to the irreversible nature of the sterilization procedure, it is essential that the patient fully comprehends the effects and possible complications of the operation. The patient should have a reasonable time to consider his or her decision and possible alternative methods of contraception before the operation is performed. Since it is within the purview of the public policy of the city to preserve, protect and improve the public health, safety and welfare, it is imperative that the council establish standards governing the performance of sterilizations.
-
-
-
-
-
-
-*§ 17-402 Definitions.* ::
-
-
-When used in this chapter:
-
-1. "Sterilization" shall mean any procedure or operation, the purpose of which is to render an individual permanently incapable of reproducing.
-
-2. "Patient" shall mean a person, twenty-one years of age or older, who is legally capable of giving his or her consent.
-
-
-
-
-
-
-*§ 17-403 Application of chapter.* ::
-
-
-This chapter shall apply to every sterilization performed within the city of New York.
-
-
-
-
-
-
-*§ 17-404 Waiting period.* ::
-
-
-A sterilization may not be performed sooner than thirty days following the initial informed consent given by the patient unless the patient waives the thirty-day waiting period under the following circumstances:
-
-1. A patient who has completed the appropriate forms and informational session, and who has signed the required informed consent form at least thirty days prior to her anticipated delivery date, may be sterilized in less than thirty days, but in no case less than seventy-two hours following the initial informed consent given by such patient if she delivers prior to the anticipated date and the sterilization is performed at the time of delivery.
-
-2. A patient who has completed the appropriate forms and informational session and who signs the required consent form at least thirty days prior to the anticipated sterilization may be sterilized in less than thirty days if that patient is, within the thirty-day period, admitted to a facility for emergency abdominal surgery and the sterilization is concurrent with the abdominal surgery, but in no case shall the sterilization occur less than seventy-two hours after the initial consent.
-
-3. If a patient appears for delivery or emergency abdominal surgery at a facility other than that at which the patient has completed the appropriate forms and informational session, the receiving facility shall contact, by telephone, the facility at which the forms and procedures were completed for verification of same. This must be noted in the record, with the name and title of the person providing the information, the date that the consent form was signed and the anticipated delivery date if under subdivision one of this section or sterilization date if under subdivision two of this section. If it is verified that the consent form was signed at least thirty days prior to the anticipated delivery or sterilization date, the receiving facility may perform the sterilization operation. Telephone verification may not be waived unless the patient presents a duplicate copy of the initial consent, duly signed, witnessed and dated at least thirty days prior to the anticipated delivery or sterilization date.
-
-
-
-
-
-
-*§ 17-405 Requirements for informed consent.* ::
-
-
-No sterilization shall be performed which does not meet the following conditions:
-
-1. Initial consent may not be elicited from a female patient during admission or hospitalization for childbirth or abortion.
-
-2. An informational session conducted by a counselor, who is not the operating physician, must precede the patient's consent. During the session, information about the irreversibility of sterilization, alternative methods of contraception, and the corresponding risks must be discussed in the preferred language of the patient.
-
-3. Written informed consent for sterilization must be obtained from each patient. A standardized consent form must be used to satisfy this requirement. The form, supplied by the department must be explained orally by the counselor in the presence of a witness. A copy of the signed consent form shall be provided the patient.
-
-4. On admission to the facility where the sterilization will be performed each patient must give written affirmation of his or her informed consent to the sterilization.
-
-5. The patient must be given oral and written assurance that medical services or benefits will not be lost as a result of refusing sterilization.
-
-6. Contraceptive devices will be prescribed for the patient's use during the thirty-day waiting period.
-
-7. Consent for the sterilization may be revoked any time prior to the operation.
-
-
-
-
-
-
-*§ 17-406 Consent form.* ::
-
-
-The standardized consent form provided by the department must include information about the irreversibility of sterilization, alternative methods of contraception and the corresponding risks.
-
-
-
-
-
-
-*§ 17-407 Reports.* ::
-
-
-The obstetrics or gynecology department of each hospital where sterilizations are performed, the administrator in charge of each clinic where sterilizations are performed, and physicians in private practice who perform sterilizations must submit monthly reports of the number of sterilizations performed to the department of health and mental hygiene. Forms will be provided by the department.
-
-
-
-
-
-
-*§ 17-408 Enforcement proceedings.* ::
-
-
-a. Notwithstanding the provisions of any other law, any person violating any of the provisions of this chapter shall be liable and responsible for a penalty of not more than one thousand dollars to be recovered in a civil action but in the name of the city in any court of record in the city.
-
-b. The commissioner may in his or her discretion request the corporation counsel to institute legal proceedings to restrain, correct or enjoin any violation of this chapter; and the corporation counsel shall thereupon institute such action or proceeding as may be necessary and appropriate for such purpose.
-
-c. Such actions and proceedings may be entered into by the corporation counsel in any court of civil jurisdiction within the city. In such actions and proceedings the city may apply for restraining orders, preliminary injunctions or other provisional remedies with or without notice.
-
-d. In no case shall the department or any officer or employee thereof be liable for costs in any such action or proceeding and officers and employees of the department, acting in good faith, shall be free from liability for acts done in any action or proceeding.
-
-
-
-
 Chapter 3: Licenses and Permits
 --------------------------------------------------
 
@@ -4283,267 +4170,115 @@ The commissioner may promulgate such rules and prescribe such forms as are neces
 
 
 
-Chapter 6: Drug Testing of School System Conveyance Drivers
+Chapter 4: Standards Governing the Performance of sterilizations
 --------------------------------------------------
 
 
 
-*§ 17-601 Definitions.* ::
+*§ 17-401 Findings and declaration.* ::
 
 
-As used in this chapter, the following terms shall be defined as follows:
+The council declares that due to the irreversible nature of the sterilization procedure, it is essential that the patient fully comprehends the effects and possible complications of the operation. The patient should have a reasonable time to consider his or her decision and possible alternative methods of contraception before the operation is performed. Since it is within the purview of the public policy of the city to preserve, protect and improve the public health, safety and welfare, it is imperative that the council establish standards governing the performance of sterilizations.
 
-a. "Driver" or "Bus driver" shall mean every person employed by a motor carrier who drives and operates a bus or other motor vehicle to transport school children and every person employed by a motor carrier who drives and operates a mobile instructional unit pursuant to a contract between the motor carrier and the board of education.
 
-b. "Motor carrier" shall mean any person, corporation, or entity who operates or employs others to operate buses or other motor vehicles to transport school children and any person, corporation, or entity who operates or employs others to operate mobile instructional units pursuant to a contract with the board of education.
 
-c. "The department" shall mean the New York city department of health and mental hygiene.
 
-d. "Board" or "Board of education" shall mean the New York city board of education.
 
-e. "Illegal drug" shall mean marijuana or concentrated cannabis, cocaine and its derivatives, opiates, amphetamines, phencyclidine and any other drug the board of education shall designate by rule pursuant to section 17-609 of this chapter.
 
-f. "Drug test" shall mean a scientific procedure employing an initial screening test and, where required by this chapter, a subsequent confirmatory test on urine to detect the presence of illegal drugs.
+*§ 17-402 Definitions.* ::
 
-g. "Sample" shall mean a portion of a urine specimen used for testing.
 
-h. "Screening test" shall mean an immunoassay screen using a test at least as reliable as the enzyme multiplied immunoassay test.
+When used in this chapter:
 
-i. "Confirmatory test" shall mean a second analytical procedure performed on a different sample of the same specimen that has tested positive on the screening test.
+1. "Sterilization" shall mean any procedure or operation, the purpose of which is to render an individual permanently incapable of reproducing.
 
-j. "Pre-employment test" shall mean a drug test given to an applicant for the position of driver.
+2. "Patient" shall mean a person, twenty-one years of age or older, who is legally capable of giving his or her consent.
 
-k. "Random test" shall mean a drug test given annually to a predetermined percentage of drivers who are selected on a scientifically defensible random and unannounced basis.
 
-l. "Post-accident test" shall mean a drug test administered to a driver after a serious accident or series of accidents, as defined in section 17-607, has occurred during his or her operation of a bus or other motor vehicle in the course of his or her employment.
 
-m. "Return to duty test" shall mean a drug test given to a driver who previously tested positive to a drug test and is returning to active duty, and any additional, unannounced drug test administered for a period of up to sixty months after a positive test result.
 
-n. "Serious accident" shall mean an accident associated with the operation of a bus or other motor vehicle used to transport school children in which an individual dies or must be taken to a medical treatment facility, or in which property damage is estimated to be more than two thousand five hundred dollars.
 
-o. "Chain of custody procedures" shall mean procedures to account for the integrity of each urine specimen by tracking its handling and storage from point of specimen collection to final disposition of the specimen.
 
-p. "Medical review officer" shall mean a licensed physician responsible for receiving and interpreting laboratory results generated by a drug testing program.
+*§ 17-403 Application of chapter.* ::
 
-q. "Positive test result" shall mean that the drug test result shows positive evidence that an illegal drug is present in a driver's system in a level established by the board of education pursuant to section 17-609.
 
-r. "Pass a drug test" shall mean that a medical review officer has determined, pursuant to section 17-609 herein, that the results of a drug test administered under this chapter: (1) showed no evidence or insufficient evidence of an illegal drug; (2) showed evidence of an illegal drug but there was a legitimate medical explanation for the result; (3) were scientifically insufficient to warrant further action; or (4) were suspect because of irregularities in the administration of the test or observation of chain of custody procedures.
+This chapter shall apply to every sterilization performed within the city of New York.
 
-s. "Active duty" shall mean the operation of a bus or other motor vehicle used for the transportation of school children.
 
-t. "School year" shall mean the period of time commencing September first and ending on August thirty-first.
 
-u. "Mobile instructional unit" shall mean a vehicle in which federally mandated educational services are provided to eligible non-public school children pursuant to title I of the Elementary and Secondary Education Act of 1965, as amended.
 
 
 
+*§ 17-404 Waiting period.* ::
 
 
+A sterilization may not be performed sooner than thirty days following the initial informed consent given by the patient unless the patient waives the thirty-day waiting period under the following circumstances:
 
-*§ 17-602 Drug testing of school system drivers.* ::
+1. A patient who has completed the appropriate forms and informational session, and who has signed the required informed consent form at least thirty days prior to her anticipated delivery date, may be sterilized in less than thirty days, but in no case less than seventy-two hours following the initial informed consent given by such patient if she delivers prior to the anticipated date and the sterilization is performed at the time of delivery.
 
+2. A patient who has completed the appropriate forms and informational session and who signs the required consent form at least thirty days prior to the anticipated sterilization may be sterilized in less than thirty days if that patient is, within the thirty-day period, admitted to a facility for emergency abdominal surgery and the sterilization is concurrent with the abdominal surgery, but in no case shall the sterilization occur less than seventy-two hours after the initial consent.
 
-Every motor carrier shall certify to the board of education that it requires all drivers employed by such motor carrier to submit to pre-employment drug testing, random drug testing, reasonable suspicion drug testing, post-accident drug testing and return to duty drug testing, in accordance with the requirements of this chapter and any rules promulgated pursuant hereto.
+3. If a patient appears for delivery or emergency abdominal surgery at a facility other than that at which the patient has completed the appropriate forms and informational session, the receiving facility shall contact, by telephone, the facility at which the forms and procedures were completed for verification of same. This must be noted in the record, with the name and title of the person providing the information, the date that the consent form was signed and the anticipated delivery date if under subdivision one of this section or sterilization date if under subdivision two of this section. If it is verified that the consent form was signed at least thirty days prior to the anticipated delivery or sterilization date, the receiving facility may perform the sterilization operation. Telephone verification may not be waived unless the patient presents a duplicate copy of the initial consent, duly signed, witnessed and dated at least thirty days prior to the anticipated delivery or sterilization date.
 
 
 
 
 
 
-*§ 17-603 Prior notice of testing policy.* ::
+*§ 17-405 Requirements for informed consent.* ::
 
 
-At the beginning of each school year, every motor carrier shall give written notice of its drug testing policy, as provided by the board of education pursuant to section 17-609(d)(2) of this chapter, to all drivers employed by it. The written notice shall contain the following information: the need for drug testing; the procedure for confirming an initial positive drug test result; the right to obtain an additional drug test on the same specimen at the driver's own expense; the consequences pursuant to this chapter of not passing a drug test or refusing to take a drug test; and the right to explain a positive test result.
+No sterilization shall be performed which does not meet the following conditions:
 
+1. Initial consent may not be elicited from a female patient during admission or hospitalization for childbirth or abortion.
 
+2. An informational session conducted by a counselor, who is not the operating physician, must precede the patient's consent. During the session, information about the irreversibility of sterilization, alternative methods of contraception, and the corresponding risks must be discussed in the preferred language of the patient.
 
+3. Written informed consent for sterilization must be obtained from each patient. A standardized consent form must be used to satisfy this requirement. The form, supplied by the department must be explained orally by the counselor in the presence of a witness. A copy of the signed consent form shall be provided the patient.
 
+4. On admission to the facility where the sterilization will be performed each patient must give written affirmation of his or her informed consent to the sterilization.
 
+5. The patient must be given oral and written assurance that medical services or benefits will not be lost as a result of refusing sterilization.
 
-*§ 17-604 Pre-employment testing.* ::
+6. Contraceptive devices will be prescribed for the patient's use during the thirty-day waiting period.
 
+7. Consent for the sterilization may be revoked any time prior to the operation.
 
-For the purposes of this chapter, a motor carrier shall not hire or assign an individual as a driver unless he or she passes a drug test in accordance with the provisions of this chapter.
 
 
 
 
 
+*§ 17-406 Consent form.* ::
 
-*§ 17-605 Random testing.* ::
 
+The standardized consent form provided by the department must include information about the irreversibility of sterilization, alternative methods of contraception and the corresponding risks.
 
-a. All drivers employed by a motor carrier subject to this chapter shall be subject to drug testing on an unannounced and random basis.
 
-b. During the school year commencing September 1, 1990 and ending August 31, 1991, every motor carrier shall administer a number of random drug tests equal to twenty-five percent of all drivers employed during that year. For each subsequent school year, every motor carrier shall administer a number of random drug tests equal to fifty percent of all drivers employed by such motor carrier during that year.
 
-c. Each driver shall be in a pool from which random selection is made. Each driver in the pool shall have an equal chance of selection and shall remain in the pool after he or she has been tested.
 
-d. A driver shall be selected for drug testing on a random basis by using a scientifically valid random number generation method.
 
-e. Testing shall be spread through the twelve-month period of the school year.
 
-f. The board of education shall select the dates and times that random drug tests shall be administered and shall be responsible for the driver selection process required by subdivision d of this section.
+*§ 17-407 Reports.* ::
 
 
+The obstetrics or gynecology department of each hospital where sterilizations are performed, the administrator in charge of each clinic where sterilizations are performed, and physicians in private practice who perform sterilizations must submit monthly reports of the number of sterilizations performed to the department of health and mental hygiene. Forms will be provided by the department.
 
 
 
 
-*§ 17-606 Reasonable suspicion testing.* ::
 
 
-Nothing in this chapter shall preclude a motor carrier from administering a drug test when the motor carrier has a reasonable suspicion that a driver is using an illegal drug or when the chancellor of the board of education, or his or her designee, has a reasonable suspicion that a driver is using an illegal drug and requests that a driver take a drug test.
+*§ 17-408 Enforcement proceedings.* ::
 
 
+a. Notwithstanding the provisions of any other law, any person violating any of the provisions of this chapter shall be liable and responsible for a penalty of not more than one thousand dollars to be recovered in a civil action but in the name of the city in any court of record in the city.
 
+b. The commissioner may in his or her discretion request the corporation counsel to institute legal proceedings to restrain, correct or enjoin any violation of this chapter; and the corporation counsel shall thereupon institute such action or proceeding as may be necessary and appropriate for such purpose.
 
+c. Such actions and proceedings may be entered into by the corporation counsel in any court of civil jurisdiction within the city. In such actions and proceedings the city may apply for restraining orders, preliminary injunctions or other provisional remedies with or without notice.
 
-
-*§ 17-607 Post-accident testing.* ::
-
-
-a. A drug test must be administered to any bus driver who, during the course of his or her employment, (i) is involved in a serious accident while operating a bus or other motor vehicle; or (ii) during any twelve month period, is involved in three or more accidents while operating a bus or other motor vehicle, regardless of the amount of property damage caused or injuries sustained.
-
-b. The specimen for a post-accident drug test required by this section shall be collected as soon after the accident as is practicable, but not later than thirty-two hours after the accident. In those cases involving testing under paragraph (ii) of subdivision a of this section, the specimen shall be collected in accordance with the requirements of this subdivision after the third accident.
-
-
-
-
-
-
-*§ 17-608 Return to active duty testing.* ::
-
-
-A driver who has been removed from active duty pursuant to this chapter may not resume active duty until he or she passes a drug test and the medical review officer has determined the driver is fit to return to active duty. A driver who is tested under this section may be administered one or more unannounced drug tests for up to sixty months after returning to active duty.
-
-
-
-
-
-
-*§ 17-609 Drug testing procedures.* ::
-
-
-a. All drug tests administered pursuant to this chapter shall utilize those reliable screening and confirmatory procedures set forth in rules promulgated by the board of education which are at least as reliable as the enzyme multiplied immunoassay screening test and the gas chromatography/mass spectrometry confirmatory test.
-
-b. If a sample yields a positive test result, another sample from the same specimen shall be re-tested using a test at least as reliable as the gas chromatography/mass spectrometry test. Such a confirmatory test shall use a portion of the same test specimen collected from the employee for use in the first test. If such confirmatory test yields a positive test result the driver may, at his or her option and expense, have an additional test conducted on a sample from the same specimen by any laboratory eligible to conduct drug testing under this chapter within thirty days of the administration of the original test.
-
-c. (1) All test results shall be interpreted and verified by a medical review officer employed by the motor carrier. The medical review officer shall be a licensed physician with knowledge of substance abuse disorders and appropriate medical training to interpret and evaluate an individual's test result together with his or her individual medical history and any other relevant biomedical information.
-
-   (2) The medical review officer shall (i) receive the results of all drug tests from the laboratory; (ii) verify that the laboratory report and assessment of all drug test results are reliable and treat the results as confidential until such verification is made; (iii) determine whether an individual passes a drug test; (iv) promptly report all test results to the driver in writing; (v) report each test that does not pass to the individual whom the motor carrier has designated to receive the results and the chancellor of the board of education or his or her designee; (vi) recommend to the motor carrier whether a driver who refused to take or did not pass a drug test administered under this chapter and who passes a subsequent return to active duty test may return to active duty; and (vii) maintain records of all recommendations to the motor carrier concerning removal from or return to active duty and in cases where rehabilitation is not recommended after a confirmed positive test result, the reasons for such recommendation shall be submitted to the chancellor of the board of education or his or her designee.
-
-   (3) When reviewing positive results of a confirmatory test under this section, the medical review officer may consider the individual's medical history, including any medical records and biomedical information provided, in determining whether there is a legitimate medical explanation for the result, including the use of a legally prescribed medication.
-
-   (4) A driver may submit a list of any legally prescribed medication he or she is using to the medical review officer prior to the administration of a drug test.
-
-d. (1) The board of education, in consultation with the department of health and mental hygiene, shall promulgate rules, which to the extent practicable are consistent with the procedures established by the United States department of transportation, to implement this chapter. Such rules shall include initial cutoff levels to be used when screening urine specimens to determine whether they test positive for illegal drugs, chain of custody procedures to account for the integrity of each urine specimen by tracking its handling and storage from point of specimen collection to final disposition, specimen collection procedures, quality assurance and quality control programs, procedures governing the reporting and review of test results and procedures to safeguard the confidentiality of drivers.
-
-   (2) The board of education shall provide motor carriers with written guidelines and procedures for the implementation of the drug testing program pursuant to this chapter no later than the effective date of this local law.
-
-e. Motor carriers subject to this chapter shall use only those laboratories certified under the United States department of health and human services mandatory guidelines for federal workplace drug testing programs or approved by the New York state department of health, to execute the drug testing program required by this chapter.
-
-f. Laboratories employed by motor carriers to execute the drug testing program pursuant to this chapter shall report drug test results to the medical review officer in writing within five days after a drug test has been administered. All drug test specimens shall be retained by such laboratories for at least six months.
-
-g. Two or more motor carriers may join together for the purpose of employing a medical review officer and/or a laboratory to comply with the requirements of this chapter. Notwithstanding the foregoing, each motor carrier shall be individually responsible for complying with the provisions of this chapter.
-
-
-
-
-
-
-*§ 17-610 Consequences of failure to pass a drug test; refusal to take a drug test.* ::
-
-
-a. Any driver who does not pass a drug test administered pursuant to this chapter shall immediately be removed from active duty. The medical review officer may, where appropriate, recommend rehabilitation or other treatment programs. No driver shall return to active duty unless he or she submits proof of successful completion of a rehabilitation program or other recommended treatment and passes a return to active duty drug test as required by section 17-608.
-
-b. Any driver who does not pass a drug test shall receive within ten days of the confirmatory test, together with written notification of his or her test result, written notice of the right to undergo an additional drug test performed on a sample of the same specimen, at his or her option and expense, within thirty days after the administration of the original drug test.
-
-c. Any driver who refuses to take a drug test shall immediately be removed from active duty for a period of at least one year and shall not return to active duty until passing a return to active duty drug test as required by section 17-608.
-
-
-
-
-
-
-*§ 17-611 Recordkeeping and reporting.* ::
-
-
-a. Motor carriers shall designate an individual or individuals to serve as drug testing program designees to ensure compliance with this chapter. The designees shall be responsible for the implementation of the drug testing program and maintaining all records related to the administration of drug tests. Motor carriers shall retain records related to the collection process and reports of individuals who have not passed a drug test for at least five years and records of individuals who have passed a drug test for at least one year.
-
-b. The medical review officer shall maintain records of individuals who have not passed a drug test for at least five years and the records of individuals who have passed a drug test for at least one year.
-
-c. A motor carrier shall permit the chancellor of the board of education or his or her designee to examine all records relating to the administration and results of the drug testing program established by such motor carrier pursuant to this chapter.
-
-d. A motor carrier shall promptly give written notice to the chancellor of the board of education or his or her designee whenever a driver is removed from active duty or returned to active duty pursuant to this chapter. Such written notice shall include the driver's name and the date of removal from or return to active duty.
-
-e. A motor carrier shall submit semi-annual reports to the board of education on April first and October first of each year summarizing the following information for the periods from September first through March first and March second through August thirtyfirst, respectively:
-
-   (1) The total number of drug tests administered;
-
-   (2) The number of drug tests administered and the dates of administration in each testing category (i.e., pre-employment, post-accident, reasonable suspicion, random, and return to duty);
-
-   (3) The number of post-accident drug tests administered and the dates of administration in each accident category (i.e., fatal, personal injury, property damage or three accidents);
-
-   (4) For post-accident tests, the number of hours between the accident and the collection of a urine specimen;
-
-   (5) The total number of individuals who did not pass a drug test; (6) The number of individuals who did not pass a drug test by testing category;
-
-   (7) The number of individuals who did not pass a post-accident drug test by accident category;
-
-   (8) The action taken by the motor carrier with respect to each individual who did not pass a drug test;
-
-   (9) The number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the immunoassay screening test in a sufficient quantity to warrant a confirmatory test;
-
-   (10) The total number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the confirmatory test in a sufficient quantity to be reported as positive to the medical review officer;
-
-   (11) The number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the confirmatory test in a sufficient quantity to be reported as positive by the medical review officer;
-
-   (12) Such other relevant information as the board of education shall require.
-
-f. The first semi-annual report required by this section shall be due on April 1, 1991.
-
-
-
-
-
-
-*§ 17-612 Certification of compliance.* ::
-
-
-a. A motor carrier shall certify to the board that it has established a drug testing program as required by the provisions of this chapter. Such certification shall be submitted to the board of education no later than one month after the effective date of this chapter, and annually thereafter.
-
-b. The text of the certification required by this section shall be as follows: I, [name], [title], certify that [name of motor carrier] has established and implemented a drug-testing program in accordance with the terms of chapter 6 of Title 17 of the administrative code of the city of New York.
-
-
-
-
-
-
-*§ 17-613 Termination of contracts.* ::
-
-
-The board of education may terminate the contract of any motor carrier that does not comply with the provisions of this chapter.
-
-
-
-
-
-
-*§ 17-614 No abrogation of rights.* ::
-
-
-Nothing contained in this chapter shall limit any right of a motor carrier to terminate or otherwise discipline any of its drivers who fail to pass a drug test.
-
-
-
-
-
-
-*§ 17-615 Costs.* ::
-
-
-The costs associated with drug testing shall be borne by the motor carriers.
+d. In no case shall the department or any officer or employee thereof be liable for costs in any such action or proceeding and officers and employees of the department, acting in good faith, shall be free from liability for acts done in any action or proceeding.
 
 
 
@@ -5147,253 +4882,267 @@ Not later than twelve months after the effective date of this local law, and eac
 
 
 
-Chapter 8: Animal Shelters and Sterilization Act
+Chapter 6: Drug Testing of School System Conveyance Drivers
 --------------------------------------------------
 
 
 
-*§ 17-801 Legislative findings. [Repealed]* ::
+*§ 17-601 Definitions.* ::
 
 
-For the purposes of this chapter, the following terms shall be defined as follows:
+As used in this chapter, the following terms shall be defined as follows:
 
-a. "Adoption" means the delivery of a dog or cat deemed appropriate and suitable by an animal shelter to an individual at least eighteen years of age who has been approved to own, care and provide for the animal by the animal shelter.
+a. "Driver" or "Bus driver" shall mean every person employed by a motor carrier who drives and operates a bus or other motor vehicle to transport school children and every person employed by a motor carrier who drives and operates a mobile instructional unit pursuant to a contract between the motor carrier and the board of education.
 
-b. "Animal rescue group" means a duly incorporated not-for-profit organization that accepts homeless, lost, stray, abandoned, seized, surrendered or unwanted animals from an animal shelter or other place and attempts to find homes for, and promote adoption of, such animals by the general public.
+b. "Motor carrier" shall mean any person, corporation, or entity who operates or employs others to operate buses or other motor vehicles to transport school children and any person, corporation, or entity who operates or employs others to operate mobile instructional units pursuant to a contract with the board of education.
 
-c. "Animal shelter" means a not-for-profit facility holding a permit in accordance with § 161.09 of the New York city health code where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
+c. "The department" shall mean the New York city department of health and mental hygiene.
 
-d. "Consumer" means any individual purchasing an animal from a pet shop. A pet shop shall not be considered a consumer.
+d. "Board" or "Board of education" shall mean the New York city board of education.
 
-e. "Feral cat" means an animal of the species felis catus who has no owner, is unsocialized to humans and has a temperament of extreme fear of and resistance to contact with humans.
+e. "Illegal drug" shall mean marijuana or concentrated cannabis, cocaine and its derivatives, opiates, amphetamines, phencyclidine and any other drug the board of education shall designate by rule pursuant to section 17-609 of this chapter.
 
-f. "Full-service shelter" means a person required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code that houses lost, stray or homeless animals and:
+f. "Drug test" shall mean a scientific procedure employing an initial screening test and, where required by this chapter, a subsequent confirmatory test on urine to detect the presence of illegal drugs.
 
-   (1) accepts dogs and cats twelve hours per day, seven days per week;
+g. "Sample" shall mean a portion of a urine specimen used for testing.
 
-   (2) has an adoption program available seven days per week; and
+h. "Screening test" shall mean an immunoassay screen using a test at least as reliable as the enzyme multiplied immunoassay test.
 
-   (3) provides sterilization services for dogs and cats and any other veterinary services deemed necessary by a licensed veterinarian at such shelter or at a veterinary facility.
+i. "Confirmatory test" shall mean a second analytical procedure performed on a different sample of the same specimen that has tested positive on the screening test.
 
-g. "Person" means any individual, corporation, partnership, association, municipality, or other legal entity.
+j. "Pre-employment test" shall mean a drug test given to an applicant for the position of driver.
 
-h. "Pet shop" has the same meaning as such term is defined in section 17-371 of this title.
+k. "Random test" shall mean a drug test given annually to a predetermined percentage of drivers who are selected on a scientifically defensible random and unannounced basis.
 
-i. "Sterilization" means rendering a dog or cat that is at least eight weeks of age and that weighs at least two pounds unable to reproduce, by surgically altering such animal's reproductive organs as set forth in the rules of the department or by non-surgical methods or technologies approved by the United States food and drug administration or the United States department of agriculture and acceptable to the department. Such definition shall include the spaying of a female dog or cat or the neutering of a male dog or cat.
+l. "Post-accident test" shall mean a drug test administered to a driver after a serious accident or series of accidents, as defined in section 17-607, has occurred during his or her operation of a bus or other motor vehicle in the course of his or her employment.
 
-j. "Trap-neuter-return" means a program to trap, vaccinate for rabies, sterilize and identify feral cats and return them to the locations where they were found.
+m. "Return to duty test" shall mean a drug test given to a driver who previously tested positive to a drug test and is returning to active duty, and any additional, unannounced drug test administered for a period of up to sixty months after a positive test result.
 
+n. "Serious accident" shall mean an accident associated with the operation of a bus or other motor vehicle used to transport school children in which an individual dies or must be taken to a medical treatment facility, or in which property damage is estimated to be more than two thousand five hundred dollars.
 
+o. "Chain of custody procedures" shall mean procedures to account for the integrity of each urine specimen by tracking its handling and storage from point of specimen collection to final disposition of the specimen.
 
+p. "Medical review officer" shall mean a licensed physician responsible for receiving and interpreting laboratory results generated by a drug testing program.
 
+q. "Positive test result" shall mean that the drug test result shows positive evidence that an illegal drug is present in a driver's system in a level established by the board of education pursuant to section 17-609.
 
+r. "Pass a drug test" shall mean that a medical review officer has determined, pursuant to section 17-609 herein, that the results of a drug test administered under this chapter: (1) showed no evidence or insufficient evidence of an illegal drug; (2) showed evidence of an illegal drug but there was a legitimate medical explanation for the result; (3) were scientifically insufficient to warrant further action; or (4) were suspect because of irregularities in the administration of the test or observation of chain of custody procedures.
 
+s. "Active duty" shall mean the operation of a bus or other motor vehicle used for the transportation of school children.
 
+t. "School year" shall mean the period of time commencing September first and ending on August thirty-first.
 
-*§ 17-803 Animal shelters.* ::
+u. "Mobile instructional unit" shall mean a vehicle in which federally mandated educational services are provided to eligible non-public school children pursuant to title I of the Elementary and Secondary Education Act of 1965, as amended.
 
 
-a. A full-service shelter shall be maintained and operated in each of three boroughs of the city of New York. At least one of the full-service shelters shall be open to the public for the purpose of receiving animals twenty-four hours per day, seven days per week.
 
-b. Facilities to receive lost, stray or homeless dogs and cats from the public shall be maintained seven days per week, twelve hours per day in those boroughs of the city in which there is not a full-service shelter.
 
-c. Field services having the capacity to pick up and bring to a shelter lost, stray, homeless or injured dogs and cats from all five boroughs shall be maintained and operated seven days per week, twelve hours per day. Where public health and safety is threatened, they shall have the capacity to pick up such animals twenty-four hours per day.
 
 
+*§ 17-602 Drug testing of school system drivers.* ::
 
 
+Every motor carrier shall certify to the board of education that it requires all drivers employed by such motor carrier to submit to pre-employment drug testing, random drug testing, reasonable suspicion drug testing, post-accident drug testing and return to duty drug testing, in accordance with the requirements of this chapter and any rules promulgated pursuant hereto.
 
 
-*§ 17-804 Sterilization required.* ::
 
 
-a. No full-service shelter or other shelter for homeless animals required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code shall release a dog or cat to a person claiming ownership thereof, or to a person adopting such dog or cat, unless such dog or cat has been sterilized by a licensed veterinarian; provided, however, that such requirement shall not apply:
 
-   (1) if a licensed veterinarian certifies to such shelter that he or she has examined such dog or cat and found that because of a medical reason, the life of such dog or cat would be endangered by sterilization; provided, however, that such reason shall not consist solely of the youth of such dog or cat, if such dog or cat is at least eight weeks of age;
 
-   (2) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog has a breed ring show record from the American Kennel Club or United Kennel Club or other similar, registry association, dated no more than twelve months prior to the date such dog entered such shelter, or such person claiming ownership is able to provide proof that such dog has successfully completed the requirements of the American Kennel Club or United Kennel Club or other similar, registry association, for the title Champion or its equivalent, at any time prior to the arrival of the dog at the shelter;
+*§ 17-603 Prior notice of testing policy.* ::
 
-   (3) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog is a guide dog, hearing dog, service dog or police work dog; or
 
-   (4) in the case of a cat, if such cat within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of such shelter that such cat has a breed show record from the Cat Fancier Association or other similar, registry association dated no more than twelve months prior to the date such cat entered such shelter or such person claiming ownership is able to provide proof that such cat has successfully completed the requirements of the Cat Fancier Association or other similar, registry association for the title Champion, Grand Champion or its equivalent, at any time prior to the arrival of the cat at the shelter.
+At the beginning of each school year, every motor carrier shall give written notice of its drug testing policy, as provided by the board of education pursuant to section 17-609(d)(2) of this chapter, to all drivers employed by it. The written notice shall contain the following information: the need for drug testing; the procedure for confirming an initial positive drug test result; the right to obtain an additional drug test on the same specimen at the driver's own expense; the consequences pursuant to this chapter of not passing a drug test or refusing to take a drug test; and the right to explain a positive test result.
 
-b. No pet shop shall release to a consumer a dog or cat that has not been sterilized by a licensed veterinarian. Such veterinarian shall provide to the pet shop a certificate, in such form and manner as determined by rules promulgated by the department, stating the date on which such sterilization was performed.
 
-c. Every pet shop, in accordance with rules promulgated by the department, shall maintain records of all sales of dogs and cats, sterilization procedures performed at the request of the pet shop, and veterinarian letters and certificates received, and shall retain such records, letters and certificates for a period of five years. Such records, letters, and certificates shall be made available to the department according to rules promulgated by the department. The department may require that such documents be submitted by electronic means.
 
-d. Every owner of a cat who permits such cat to roam outside the interior of the owner's dwelling shall have such cat sterilized. At the request of employees or authorized agents of the department, owners shall provide proof satisfactory to the department that a cat found roaming has been sterilized. The Department shall not seize a cat solely on the ground that the cat has not been sterilized.
 
-e. The department shall post and maintain on its website a regularly updated list of organizations in New York city that offer trap-neuter-return information and conduct trap-neuter-return activities.
 
-f. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions b and c of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are made available for adoption.
 
+*§ 17-604 Pre-employment testing.* ::
 
 
+For the purposes of this chapter, a motor carrier shall not hire or assign an individual as a driver unless he or she passes a drug test in accordance with the provisions of this chapter.
 
 
 
 
 
-*§ 17-805 Reporting requirements.* ::
 
+*§ 17-605 Random testing.* ::
 
-The department shall provide the mayor and the city council with a report by February twenty-eight of each year which shall set forth information regarding the management and operation of all full-service shelters performing services pursuant to a contract with the city of New York, including but not limited to:
 
-a. The following information with respect to the previous calendar year:
+a. All drivers employed by a motor carrier subject to this chapter shall be subject to drug testing on an unannounced and random basis.
 
-   (1) the total number of animals accepted by each full-service shelter;
+b. During the school year commencing September 1, 1990 and ending August 31, 1991, every motor carrier shall administer a number of random drug tests equal to twenty-five percent of all drivers employed during that year. For each subsequent school year, every motor carrier shall administer a number of random drug tests equal to fifty percent of all drivers employed by such motor carrier during that year.
 
-   (2) the total number of animals that were sterilized at each full-service shelter;
+c. Each driver shall be in a pool from which random selection is made. Each driver in the pool shall have an equal chance of selection and shall remain in the pool after he or she has been tested.
 
-   (3) the total number of animals that were humanely euthanized at each full-service shelter;
+d. A driver shall be selected for drug testing on a random basis by using a scientifically valid random number generation method.
 
-   (4) the total number of healthy animals that were humanely euthanized at each full-service shelter;
+e. Testing shall be spread through the twelve-month period of the school year.
 
-   (5) the total number of animals that were adopted at each full-service shelter;
+f. The board of education shall select the dates and times that random drug tests shall be administered and shall be responsible for the driver selection process required by subdivision d of this section.
 
-   (6) the total number of animals at each full-service shelter that were returned to their owner; and
 
-   (7) the number of animals at each full-service shelter that were provided to other shelters for adoption.
 
-b. The following information for each month of the previous calendar year:
 
-   (1) the total number of animals, disaggregated by borough, picked up by field services during regular business hours and delivered to (A) receiving facilities and (B) full-service shelters;
 
-   (2) the total number of animals, disaggregated by borough, picked up by field services during off hours and delivered to (A) receiving facilities and (B) full-service shelters;
 
-   (3) the total number of animals taken in and transferred to a full-service shelter from each receiving facility; and
+*§ 17-606 Reasonable suspicion testing.* ::
 
-   (4) the staffing levels at all full-service shelters and receiving facilities.
 
-c. The department shall report to the mayor and the council each month the total number of healthy animals that were humanely euthanized at each full-service shelter during the previous month.
+Nothing in this chapter shall preclude a motor carrier from administering a drug test when the motor carrier has a reasonable suspicion that a driver is using an illegal drug or when the chancellor of the board of education, or his or her designee, has a reasonable suspicion that a driver is using an illegal drug and requests that a driver take a drug test.
 
-d. No later than twenty-four months after the effective date of the local law that added this subdivision, the department shall provide to the mayor and the council a report that summarizes and describes trends in the reporting requirements provided annually in accordance with this section.
 
 
 
 
 
+*§ 17-607 Post-accident testing.* ::
 
-*§ 17-806 Violations.* ::
 
+a. A drug test must be administered to any bus driver who, during the course of his or her employment, (i) is involved in a serious accident while operating a bus or other motor vehicle; or (ii) during any twelve month period, is involved in three or more accidents while operating a bus or other motor vehicle, regardless of the amount of property damage caused or injuries sustained.
 
-Any person found to be in violation of subdivision (b), (c) or (d) of section 17-804, section 17-814, or section 17-815 of this chapter or any of the rules promulgated thereunder shall be liable for a civil penalty of five hundred dollars for each violation. A proceeding to recover any civil penalty authorized pursuant to the provisions of this section shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal authorized to adjudicate violations of the health code or the administrative code.
+b. The specimen for a post-accident drug test required by this section shall be collected as soon after the accident as is practicable, but not later than thirty-two hours after the accident. In those cases involving testing under paragraph (ii) of subdivision a of this section, the specimen shall be collected in accordance with the requirements of this subdivision after the third accident.
 
 
 
 
 
 
-*§ 17-807 Rules.* ::
+*§ 17-608 Return to active duty testing.* ::
 
 
-The commissioner may promulgate such rules as are necessary for the purposes of implementing and carrying out the provisions of this chapter.
+A driver who has been removed from active duty pursuant to this chapter may not resume active duty until he or she passes a drug test and the medical review officer has determined the driver is fit to return to active duty. A driver who is tested under this section may be administered one or more unannounced drug tests for up to sixty months after returning to active duty.
 
 
 
 
 
 
-*§ 17-808 Severability.* ::
+*§ 17-609 Drug testing procedures.* ::
 
 
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
+a. All drug tests administered pursuant to this chapter shall utilize those reliable screening and confirmatory procedures set forth in rules promulgated by the board of education which are at least as reliable as the enzyme multiplied immunoassay screening test and the gas chromatography/mass spectrometry confirmatory test.
 
+b. If a sample yields a positive test result, another sample from the same specimen shall be re-tested using a test at least as reliable as the gas chromatography/mass spectrometry test. Such a confirmatory test shall use a portion of the same test specimen collected from the employee for use in the first test. If such confirmatory test yields a positive test result the driver may, at his or her option and expense, have an additional test conducted on a sample from the same specimen by any laboratory eligible to conduct drug testing under this chapter within thirty days of the administration of the original test.
 
+c. (1) All test results shall be interpreted and verified by a medical review officer employed by the motor carrier. The medical review officer shall be a licensed physician with knowledge of substance abuse disorders and appropriate medical training to interpret and evaluate an individual's test result together with his or her individual medical history and any other relevant biomedical information.
 
+   (2) The medical review officer shall (i) receive the results of all drug tests from the laboratory; (ii) verify that the laboratory report and assessment of all drug test results are reliable and treat the results as confidential until such verification is made; (iii) determine whether an individual passes a drug test; (iv) promptly report all test results to the driver in writing; (v) report each test that does not pass to the individual whom the motor carrier has designated to receive the results and the chancellor of the board of education or his or her designee; (vi) recommend to the motor carrier whether a driver who refused to take or did not pass a drug test administered under this chapter and who passes a subsequent return to active duty test may return to active duty; and (vii) maintain records of all recommendations to the motor carrier concerning removal from or return to active duty and in cases where rehabilitation is not recommended after a confirmed positive test result, the reasons for such recommendation shall be submitted to the chancellor of the board of education or his or her designee.
 
+   (3) When reviewing positive results of a confirmatory test under this section, the medical review officer may consider the individual's medical history, including any medical records and biomedical information provided, in determining whether there is a legitimate medical explanation for the result, including the use of a legally prescribed medication.
 
+   (4) A driver may submit a list of any legally prescribed medication he or she is using to the medical review officer prior to the administration of a drug test.
 
-*§ 17-809 No limitation on additional services.* ::
+d. (1) The board of education, in consultation with the department of health and mental hygiene, shall promulgate rules, which to the extent practicable are consistent with the procedures established by the United States department of transportation, to implement this chapter. Such rules shall include initial cutoff levels to be used when screening urine specimens to determine whether they test positive for illegal drugs, chain of custody procedures to account for the integrity of each urine specimen by tracking its handling and storage from point of specimen collection to final disposition, specimen collection procedures, quality assurance and quality control programs, procedures governing the reporting and review of test results and procedures to safeguard the confidentiality of drivers.
 
+   (2) The board of education shall provide motor carriers with written guidelines and procedures for the implementation of the drug testing program pursuant to this chapter no later than the effective date of this local law.
 
-Nothing contained in this chapter shall be deemed to limit the department's authority to offer additional services or facilities to facilitate the decline in numbers of unwanted and uncared for animals in New York city.
+e. Motor carriers subject to this chapter shall use only those laboratories certified under the United States department of health and human services mandatory guidelines for federal workplace drug testing programs or approved by the New York state department of health, to execute the drug testing program required by this chapter.
 
+f. Laboratories employed by motor carriers to execute the drug testing program pursuant to this chapter shall report drug test results to the medical review officer in writing within five days after a drug test has been administered. All drug test specimens shall be retained by such laboratories for at least six months.
 
+g. Two or more motor carriers may join together for the purpose of employing a medical review officer and/or a laboratory to comply with the requirements of this chapter. Notwithstanding the foregoing, each motor carrier shall be individually responsible for complying with the provisions of this chapter.
 
 
 
 
-*§ 17-810 Euthanizing animals; time frame for making such determination.* ::
 
 
-In determining when a full-service shelter may euthanize a lost, stray or homeless animal held by it, such shelter shall exclude from the calculation of the number of hours that such shelter is required by law to hold such animal before euthanizing such animal those hours when such shelter is not required to accept dogs and cats pursuant to paragraph one of subdivision d of section 17-802 of this chapter. Such calculation of the number of hours shall not take into consideration the full-service shelter required to accept dogs and cats twenty-four hours per day pursuant to subdivision a of section 17-803 of this chapter.
+*§ 17-610 Consequences of failure to pass a drug test; refusal to take a drug test.* ::
 
 
+a. Any driver who does not pass a drug test administered pursuant to this chapter shall immediately be removed from active duty. The medical review officer may, where appropriate, recommend rehabilitation or other treatment programs. No driver shall return to active duty unless he or she submits proof of successful completion of a rehabilitation program or other recommended treatment and passes a return to active duty drug test as required by section 17-608.
 
+b. Any driver who does not pass a drug test shall receive within ten days of the confirmatory test, together with written notification of his or her test result, written notice of the right to undergo an additional drug test performed on a sample of the same specimen, at his or her option and expense, within thirty days after the administration of the original drug test.
 
+c. Any driver who refuses to take a drug test shall immediately be removed from active duty for a period of at least one year and shall not return to active duty until passing a return to active duty drug test as required by section 17-608.
 
 
-*§ 17-811 Animal population control program.* ::
 
 
-The department shall promulgate rules and regulations to establish and implement an animal population control program within one hundred eighty days from the effective date of this section. The purpose of this program shall be to reduce the population of unwanted stray dogs and cats thereby reducing potential threats to public health and safety and reducing the costs of caring for these animals. This program shall seek to accomplish its purpose by encouraging residents of the city of New York who are the owners of dogs and cats to have them spayed or neutered by providing no or low-cost spaying and neutering services to such owners. The department shall promulgate rules and regulations necessary to establish an animal population control program including, but not limited, to creating clinics or mobile units where such services shall be performed and establishing criteria for pet owner eligibility to use such services. Indicia of eligibility for pet owners seeking no or low-cost spay and neuter services shall include but not be limited to any criteria deemed acceptable by the agencies performing the services. The commissioner may solicit and accept funds from the animal population control fund established pursuant to section 17-812 of this chapter and any other public or private source to help carry out the provisions of this section.
 
 
+*§ 17-611 Recordkeeping and reporting.* ::
 
 
+a. Motor carriers shall designate an individual or individuals to serve as drug testing program designees to ensure compliance with this chapter. The designees shall be responsible for the implementation of the drug testing program and maintaining all records related to the administration of drug tests. Motor carriers shall retain records related to the collection process and reports of individuals who have not passed a drug test for at least five years and records of individuals who have passed a drug test for at least one year.
 
+b. The medical review officer shall maintain records of individuals who have not passed a drug test for at least five years and the records of individuals who have passed a drug test for at least one year.
 
-*§ 17-812 Animal population control fund.* ::
+c. A motor carrier shall permit the chancellor of the board of education or his or her designee to examine all records relating to the administration and results of the drug testing program established by such motor carrier pursuant to this chapter.
 
+d. A motor carrier shall promptly give written notice to the chancellor of the board of education or his or her designee whenever a driver is removed from active duty or returned to active duty pursuant to this chapter. Such written notice shall include the driver's name and the date of removal from or return to active duty.
 
-1. There is hereby established in the joint custody of the city comptroller and commissioner of finance a fund to be known as the "animal population control fund" which shall be used by the department to subsidize the city's animal population control program as established by section 17-811 of this chapter.
+e. A motor carrier shall submit semi-annual reports to the board of education on April first and October first of each year summarizing the following information for the periods from September first through March first and March second through August thirtyfirst, respectively:
 
-2. Such fund shall consist of all moneys collected from the animal population control program established pursuant to section 17-811 of this chapter, all moneys collected for the additional fee charged for a license to be issued or renewed for an unsterilized dog pursuant to subdivision three of section two of chapter one hundred fifteen of the laws of eighteen hundred ninety-four, that portion of any penalties assessed under section three of such chapter due to be paid to such fund, and all other moneys credited or transferred thereto from any other fund or source pursuant to law.
+   (1) The total number of drug tests administered;
 
-3. Moneys of the fund shall be made available to the department and shall be expended for the purposes of carrying out animal population control programs pursuant to the provisions of section 17-811 of this chapter. Moneys shall be paid out of the fund on the audit and warrant of the city comptroller and approved by the commissioner. Any interest received by the city comptroller on moneys on deposit in the animal population control fund shall be retained in and become part of such fund.
+   (2) The number of drug tests administered and the dates of administration in each testing category (i.e., pre-employment, post-accident, reasonable suspicion, random, and return to duty);
 
+   (3) The number of post-accident drug tests administered and the dates of administration in each accident category (i.e., fatal, personal injury, property damage or three accidents);
 
+   (4) For post-accident tests, the number of hours between the accident and the collection of a urine specimen;
 
+   (5) The total number of individuals who did not pass a drug test; (6) The number of individuals who did not pass a drug test by testing category;
 
+   (7) The number of individuals who did not pass a post-accident drug test by accident category;
 
+   (8) The action taken by the motor carrier with respect to each individual who did not pass a drug test;
 
-*§ 17-813 Dog license fee.* ::
+   (9) The number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the immunoassay screening test in a sufficient quantity to warrant a confirmatory test;
 
+   (10) The total number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the confirmatory test in a sufficient quantity to be reported as positive to the medical review officer;
 
-a. In addition to the fees required pursuant to chapter 115 of the laws of 1894, as amended, any person applying for a dog license shall pay twenty-five dollars and fifty cents for any dog four months of age or older that has not been spayed or neutered unless an owner presents with the license application a statement certified by a licensed veterinarian stating that he or she has examined the dog and found that because of old age or other reasons, the life of the dog would be endangered by spaying or neutering.
+   (11) The number of drug tests submitted to the laboratory that showed evidence of one or more illegal drugs in the confirmatory test in a sufficient quantity to be reported as positive by the medical review officer;
 
-b. Fees collected pursuant to the provisions of this section shall be directed to the animal population control fund established pursuant to section 17-812.
+   (12) Such other relevant information as the board of education shall require.
 
+f. The first semi-annual report required by this section shall be due on April 1, 1991.
 
 
 
 
 
-*§ 17-814 Licensing of dogs required.* ::
 
+*§ 17-612 Certification of compliance.* ::
 
-a. No pet shop or animal rescue group shall sell or release a dog to a purchaser or adopter unless such purchaser or adopter first completes an application for a license and tenders the license fees required by law. If such application is completed in connection with the purchase of a dog from a pet shop, such application shall include the following information: the date of purchase, the name and address of the pet shop, and if such pet shop has an operating permit issued by the department, such pet shop's permit number. Such pet shop or animal rescue group shall forward such completed application and license fees to the department in such manner as may be specified by the department.
 
-b. A pet shop or animal rescue group shall be exempt from the requirements of subdivision a of this section for any sale or adoption of a dog to a purchaser or adopter who executes and submits to such pet shop or animal rescue group a written statement that the dog to be purchased or adopted is to be harbored outside of the city and proof in a form determined by the department that the purchaser or adopter resides outside the city.
+a. A motor carrier shall certify to the board that it has established a drug testing program as required by the provisions of this chapter. Such certification shall be submitted to the board of education no later than one month after the effective date of this chapter, and annually thereafter.
 
-c. Every pet shop shall, on at least a monthly basis, report to the department on a form furnished by the department all dogs which have been sold and adopted, indicating for each such dog whether or not the pet shop submitted to the department a license application. Such form shall include the name and address of each such dog's purchaser or adopter, the license or license application number if known, as well as any other descriptive information regarding such dog as may be required by the department.
+b. The text of the certification required by this section shall be as follows: I, [name], [title], certify that [name of motor carrier] has established and implemented a drug-testing program in accordance with the terms of chapter 6 of Title 17 of the administrative code of the city of New York.
 
-d. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
 
 
 
 
 
+*§ 17-613 Termination of contracts.* ::
 
 
+The board of education may terminate the contract of any motor carrier that does not comply with the provisions of this chapter.
 
-*§ 17-815 Microchipping required.* ::
 
 
-a. No pet shop or animal rescue group shall release a dog or cat to a purchaser or adopter unless:
 
-   (1) such animal has been implanted with a microchip as a permanent identification;
 
-   (2) such pet shop or animal rescue group has registered such animal's microchip with such purchaser's contact information with a bona fide pet microchip registration company; and
 
-   (3) such pet shop or animal rescue group has provided such purchaser with (i) usage instructions for such microchip provided by the manufacturer of such microchip or the company with which such microchip is registered and (ii) written certification of compliance with paragraphs one and two of this subdivision, signed by such purchaser as acknowledgement of receipt, in a form and manner set forth in rules promulgated by the department.
+*§ 17-614 No abrogation of rights.* ::
 
-b. Every pet shop and animal rescue group shall retain for a period of ten years from the date of sale of any dog or cat, a copy of the certification signed by the purchaser required by paragraph three of subdivision a of this section.
 
-c. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
+Nothing contained in this chapter shall limit any right of a motor carrier to terminate or otherwise discipline any of its drivers who fail to pass a drug test.
 
 
+
+
+
+
+*§ 17-615 Costs.* ::
+
+
+The costs associated with drug testing shall be borne by the motor carriers.
 
 
 
@@ -5807,71 +5556,253 @@ b. Non-tobacco hookah establishments, as defined in section 17-502, shall clean 
 
 
 
-Chapter 10: Prescription Drug Discount Card Act
+Chapter 8: Animal Shelters and Sterilization Act
 --------------------------------------------------
 
 
 
-*§ 17-1001 Short title.* ::
+*§ 17-801 Legislative findings. [Repealed]* ::
 
 
-This chapter shall be known and may be cited as the "Prescription Drug Discount Card Act."
+For the purposes of this chapter, the following terms shall be defined as follows:
 
+a. "Adoption" means the delivery of a dog or cat deemed appropriate and suitable by an animal shelter to an individual at least eighteen years of age who has been approved to own, care and provide for the animal by the animal shelter.
 
+b. "Animal rescue group" means a duly incorporated not-for-profit organization that accepts homeless, lost, stray, abandoned, seized, surrendered or unwanted animals from an animal shelter or other place and attempts to find homes for, and promote adoption of, such animals by the general public.
 
+c. "Animal shelter" means a not-for-profit facility holding a permit in accordance with § 161.09 of the New York city health code where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
 
+d. "Consumer" means any individual purchasing an animal from a pet shop. A pet shop shall not be considered a consumer.
 
+e. "Feral cat" means an animal of the species felis catus who has no owner, is unsocialized to humans and has a temperament of extreme fear of and resistance to contact with humans.
 
-*§ 17-1002 Definitions.* ::
+f. "Full-service shelter" means a person required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code that houses lost, stray or homeless animals and:
 
+   (1) accepts dogs and cats twelve hours per day, seven days per week;
 
-When used in this chapter, the term "rebate" shall mean a refund of a certain portion of the wholesale price of a drug based on a negotiated agreement between a drug manufacturer and any administrator of the prescription drug discount card program created pursuant to this chapter.
+   (2) has an adoption program available seven days per week; and
 
+   (3) provides sterilization services for dogs and cats and any other veterinary services deemed necessary by a licensed veterinarian at such shelter or at a veterinary facility.
 
+g. "Person" means any individual, corporation, partnership, association, municipality, or other legal entity.
 
+h. "Pet shop" has the same meaning as such term is defined in section 17-371 of this title.
 
+i. "Sterilization" means rendering a dog or cat that is at least eight weeks of age and that weighs at least two pounds unable to reproduce, by surgically altering such animal's reproductive organs as set forth in the rules of the department or by non-surgical methods or technologies approved by the United States food and drug administration or the United States department of agriculture and acceptable to the department. Such definition shall include the spaying of a female dog or cat or the neutering of a male dog or cat.
 
-
-*§ 17-1003 Prescription drug discount card program.* ::
-
-
-a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
-
-b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
-
-c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
-
-d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
-
-
-
-
-
-
-*§ 17-1004 Report.* ::
-
-
-Not later than sixty days after the end of each twelve-month period during which the prescription drug discount card program has been in operation, the department shall provide the city council with a report regarding such program. Such report shall provide information regarding the operation of such program during the reporting period, including, but not limited to (i) the number of prescription drug discount card holders who used the prescription drug discount card at least once, (ii) the total cost savings to all card holders generated by the program, (iii) the average cost savings to a card holder per prescription, (iv) the source and method of cost savings under the program, (v) the major drug categories that are not discounted under the program and an explanation as to why such drugs are not listed, (vi) the drugs for which rebates are offered under the program, listed according to major drug category, (vii) the number of pharmacies participating in the program, and (viii) to the extent available, any costs incurred by pharmacies to participate in the program.
+j. "Trap-neuter-return" means a program to trap, vaccinate for rabies, sterilize and identify feral cats and return them to the locations where they were found.
 
 
 
 
 
 
-*§ 17-1005 Implementation.* ::
 
 
-The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including, but not limited to, developing and/or administering the prescription drug discount card program established pursuant to section 17-1003 of this chapter and collecting information required by section 17-1004 of this chapter.
+*§ 17-803 Animal shelters.* ::
+
+
+a. A full-service shelter shall be maintained and operated in each of three boroughs of the city of New York. At least one of the full-service shelters shall be open to the public for the purpose of receiving animals twenty-four hours per day, seven days per week.
+
+b. Facilities to receive lost, stray or homeless dogs and cats from the public shall be maintained seven days per week, twelve hours per day in those boroughs of the city in which there is not a full-service shelter.
+
+c. Field services having the capacity to pick up and bring to a shelter lost, stray, homeless or injured dogs and cats from all five boroughs shall be maintained and operated seven days per week, twelve hours per day. Where public health and safety is threatened, they shall have the capacity to pick up such animals twenty-four hours per day.
 
 
 
 
 
 
-*§ 17-1006 Rules.* ::
+*§ 17-804 Sterilization required.* ::
 
 
-The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
+a. No full-service shelter or other shelter for homeless animals required to have a permit issued pursuant to subdivision (b) of section 161.09 of the New York city health code shall release a dog or cat to a person claiming ownership thereof, or to a person adopting such dog or cat, unless such dog or cat has been sterilized by a licensed veterinarian; provided, however, that such requirement shall not apply:
+
+   (1) if a licensed veterinarian certifies to such shelter that he or she has examined such dog or cat and found that because of a medical reason, the life of such dog or cat would be endangered by sterilization; provided, however, that such reason shall not consist solely of the youth of such dog or cat, if such dog or cat is at least eight weeks of age;
+
+   (2) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog has a breed ring show record from the American Kennel Club or United Kennel Club or other similar, registry association, dated no more than twelve months prior to the date such dog entered such shelter, or such person claiming ownership is able to provide proof that such dog has successfully completed the requirements of the American Kennel Club or United Kennel Club or other similar, registry association, for the title Champion or its equivalent, at any time prior to the arrival of the dog at the shelter;
+
+   (3) in the case of a dog, if such dog, within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of the shelter that such dog is a guide dog, hearing dog, service dog or police work dog; or
+
+   (4) in the case of a cat, if such cat within the time period provided for by law, rule or regulation, is claimed by a person claiming ownership thereof, and such person demonstrates to the satisfaction of such shelter that such cat has a breed show record from the Cat Fancier Association or other similar, registry association dated no more than twelve months prior to the date such cat entered such shelter or such person claiming ownership is able to provide proof that such cat has successfully completed the requirements of the Cat Fancier Association or other similar, registry association for the title Champion, Grand Champion or its equivalent, at any time prior to the arrival of the cat at the shelter.
+
+b. No pet shop shall release to a consumer a dog or cat that has not been sterilized by a licensed veterinarian. Such veterinarian shall provide to the pet shop a certificate, in such form and manner as determined by rules promulgated by the department, stating the date on which such sterilization was performed.
+
+c. Every pet shop, in accordance with rules promulgated by the department, shall maintain records of all sales of dogs and cats, sterilization procedures performed at the request of the pet shop, and veterinarian letters and certificates received, and shall retain such records, letters and certificates for a period of five years. Such records, letters, and certificates shall be made available to the department according to rules promulgated by the department. The department may require that such documents be submitted by electronic means.
+
+d. Every owner of a cat who permits such cat to roam outside the interior of the owner's dwelling shall have such cat sterilized. At the request of employees or authorized agents of the department, owners shall provide proof satisfactory to the department that a cat found roaming has been sterilized. The Department shall not seize a cat solely on the ground that the cat has not been sterilized.
+
+e. The department shall post and maintain on its website a regularly updated list of organizations in New York city that offer trap-neuter-return information and conduct trap-neuter-return activities.
+
+f. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions b and c of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are made available for adoption.
+
+
+
+
+
+
+
+
+*§ 17-805 Reporting requirements.* ::
+
+
+The department shall provide the mayor and the city council with a report by February twenty-eight of each year which shall set forth information regarding the management and operation of all full-service shelters performing services pursuant to a contract with the city of New York, including but not limited to:
+
+a. The following information with respect to the previous calendar year:
+
+   (1) the total number of animals accepted by each full-service shelter;
+
+   (2) the total number of animals that were sterilized at each full-service shelter;
+
+   (3) the total number of animals that were humanely euthanized at each full-service shelter;
+
+   (4) the total number of healthy animals that were humanely euthanized at each full-service shelter;
+
+   (5) the total number of animals that were adopted at each full-service shelter;
+
+   (6) the total number of animals at each full-service shelter that were returned to their owner; and
+
+   (7) the number of animals at each full-service shelter that were provided to other shelters for adoption.
+
+b. The following information for each month of the previous calendar year:
+
+   (1) the total number of animals, disaggregated by borough, picked up by field services during regular business hours and delivered to (A) receiving facilities and (B) full-service shelters;
+
+   (2) the total number of animals, disaggregated by borough, picked up by field services during off hours and delivered to (A) receiving facilities and (B) full-service shelters;
+
+   (3) the total number of animals taken in and transferred to a full-service shelter from each receiving facility; and
+
+   (4) the staffing levels at all full-service shelters and receiving facilities.
+
+c. The department shall report to the mayor and the council each month the total number of healthy animals that were humanely euthanized at each full-service shelter during the previous month.
+
+d. No later than twenty-four months after the effective date of the local law that added this subdivision, the department shall provide to the mayor and the council a report that summarizes and describes trends in the reporting requirements provided annually in accordance with this section.
+
+
+
+
+
+
+*§ 17-806 Violations.* ::
+
+
+Any person found to be in violation of subdivision (b), (c) or (d) of section 17-804, section 17-814, or section 17-815 of this chapter or any of the rules promulgated thereunder shall be liable for a civil penalty of five hundred dollars for each violation. A proceeding to recover any civil penalty authorized pursuant to the provisions of this section shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal authorized to adjudicate violations of the health code or the administrative code.
+
+
+
+
+
+
+*§ 17-807 Rules.* ::
+
+
+The commissioner may promulgate such rules as are necessary for the purposes of implementing and carrying out the provisions of this chapter.
+
+
+
+
+
+
+*§ 17-808 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
+
+
+
+
+
+
+*§ 17-809 No limitation on additional services.* ::
+
+
+Nothing contained in this chapter shall be deemed to limit the department's authority to offer additional services or facilities to facilitate the decline in numbers of unwanted and uncared for animals in New York city.
+
+
+
+
+
+
+*§ 17-810 Euthanizing animals; time frame for making such determination.* ::
+
+
+In determining when a full-service shelter may euthanize a lost, stray or homeless animal held by it, such shelter shall exclude from the calculation of the number of hours that such shelter is required by law to hold such animal before euthanizing such animal those hours when such shelter is not required to accept dogs and cats pursuant to paragraph one of subdivision d of section 17-802 of this chapter. Such calculation of the number of hours shall not take into consideration the full-service shelter required to accept dogs and cats twenty-four hours per day pursuant to subdivision a of section 17-803 of this chapter.
+
+
+
+
+
+
+*§ 17-811 Animal population control program.* ::
+
+
+The department shall promulgate rules and regulations to establish and implement an animal population control program within one hundred eighty days from the effective date of this section. The purpose of this program shall be to reduce the population of unwanted stray dogs and cats thereby reducing potential threats to public health and safety and reducing the costs of caring for these animals. This program shall seek to accomplish its purpose by encouraging residents of the city of New York who are the owners of dogs and cats to have them spayed or neutered by providing no or low-cost spaying and neutering services to such owners. The department shall promulgate rules and regulations necessary to establish an animal population control program including, but not limited, to creating clinics or mobile units where such services shall be performed and establishing criteria for pet owner eligibility to use such services. Indicia of eligibility for pet owners seeking no or low-cost spay and neuter services shall include but not be limited to any criteria deemed acceptable by the agencies performing the services. The commissioner may solicit and accept funds from the animal population control fund established pursuant to section 17-812 of this chapter and any other public or private source to help carry out the provisions of this section.
+
+
+
+
+
+
+*§ 17-812 Animal population control fund.* ::
+
+
+1. There is hereby established in the joint custody of the city comptroller and commissioner of finance a fund to be known as the "animal population control fund" which shall be used by the department to subsidize the city's animal population control program as established by section 17-811 of this chapter.
+
+2. Such fund shall consist of all moneys collected from the animal population control program established pursuant to section 17-811 of this chapter, all moneys collected for the additional fee charged for a license to be issued or renewed for an unsterilized dog pursuant to subdivision three of section two of chapter one hundred fifteen of the laws of eighteen hundred ninety-four, that portion of any penalties assessed under section three of such chapter due to be paid to such fund, and all other moneys credited or transferred thereto from any other fund or source pursuant to law.
+
+3. Moneys of the fund shall be made available to the department and shall be expended for the purposes of carrying out animal population control programs pursuant to the provisions of section 17-811 of this chapter. Moneys shall be paid out of the fund on the audit and warrant of the city comptroller and approved by the commissioner. Any interest received by the city comptroller on moneys on deposit in the animal population control fund shall be retained in and become part of such fund.
+
+
+
+
+
+
+*§ 17-813 Dog license fee.* ::
+
+
+a. In addition to the fees required pursuant to chapter 115 of the laws of 1894, as amended, any person applying for a dog license shall pay twenty-five dollars and fifty cents for any dog four months of age or older that has not been spayed or neutered unless an owner presents with the license application a statement certified by a licensed veterinarian stating that he or she has examined the dog and found that because of old age or other reasons, the life of the dog would be endangered by spaying or neutering.
+
+b. Fees collected pursuant to the provisions of this section shall be directed to the animal population control fund established pursuant to section 17-812.
+
+
+
+
+
+
+*§ 17-814 Licensing of dogs required.* ::
+
+
+a. No pet shop or animal rescue group shall sell or release a dog to a purchaser or adopter unless such purchaser or adopter first completes an application for a license and tenders the license fees required by law. If such application is completed in connection with the purchase of a dog from a pet shop, such application shall include the following information: the date of purchase, the name and address of the pet shop, and if such pet shop has an operating permit issued by the department, such pet shop's permit number. Such pet shop or animal rescue group shall forward such completed application and license fees to the department in such manner as may be specified by the department.
+
+b. A pet shop or animal rescue group shall be exempt from the requirements of subdivision a of this section for any sale or adoption of a dog to a purchaser or adopter who executes and submits to such pet shop or animal rescue group a written statement that the dog to be purchased or adopted is to be harbored outside of the city and proof in a form determined by the department that the purchaser or adopter resides outside the city.
+
+c. Every pet shop shall, on at least a monthly basis, report to the department on a form furnished by the department all dogs which have been sold and adopted, indicating for each such dog whether or not the pet shop submitted to the department a license application. Such form shall include the name and address of each such dog's purchaser or adopter, the license or license application number if known, as well as any other descriptive information regarding such dog as may be required by the department.
+
+d. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
+
+
+
+
+
+
+
+
+*§ 17-815 Microchipping required.* ::
+
+
+a. No pet shop or animal rescue group shall release a dog or cat to a purchaser or adopter unless:
+
+   (1) such animal has been implanted with a microchip as a permanent identification;
+
+   (2) such pet shop or animal rescue group has registered such animal's microchip with such purchaser's contact information with a bona fide pet microchip registration company; and
+
+   (3) such pet shop or animal rescue group has provided such purchaser with (i) usage instructions for such microchip provided by the manufacturer of such microchip or the company with which such microchip is registered and (ii) written certification of compliance with paragraphs one and two of this subdivision, signed by such purchaser as acknowledgement of receipt, in a form and manner set forth in rules promulgated by the department.
+
+b. Every pet shop and animal rescue group shall retain for a period of ten years from the date of sale of any dog or cat, a copy of the certification signed by the purchaser required by paragraph three of subdivision a of this section.
+
+c. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
+
+
 
 
 
@@ -6065,6 +5996,75 @@ The department shall promulgate such rules as may be necessary for the implement
 The operator of a covered facility shall conduct a survey of such facility annually, and more often if necessary, to determine the physical condition of surface-coating material throughout each such facility and shall provide a copy of the survey results (i) to the department, which will make the information publicly available online, and (ii) to the parent or guardian of each child that attends such facility, as required by rules of the department.
 
 
+
+
+
+
+Chapter 10: Prescription Drug Discount Card Act
+--------------------------------------------------
+
+
+
+*§ 17-1001 Short title.* ::
+
+
+This chapter shall be known and may be cited as the "Prescription Drug Discount Card Act."
+
+
+
+
+
+
+*§ 17-1002 Definitions.* ::
+
+
+When used in this chapter, the term "rebate" shall mean a refund of a certain portion of the wholesale price of a drug based on a negotiated agreement between a drug manufacturer and any administrator of the prescription drug discount card program created pursuant to this chapter.
+
+
+
+
+
+
+*§ 17-1003 Prescription drug discount card program.* ::
+
+
+a. The department shall develop a prescription drug discount card program which shall be made available to all New York city residents, regardless of age, income, immigration status or health insurance coverage status, for the purpose of providing all New York city residents with a prescription drug discount card which may be used to buy prescription drugs at reduced prices at participating pharmacies. Such prescription drug discount card program shall enable each user of such program to purchase at a reduced price from a pharmacy that participates in the program any prescription drug that is eligible for a discount through such program. The prescription drug discount card program shall allow users to purchase a drug at the lower of either the drug price available through the prescription drug discount card program or the pharmacy's customary and usual price. Any prescription drug discount card issued pursuant to this section may not be utilized in conjunction with another type of prescription drug discount card for the same transaction.
+
+b. Nothing in this chapter shall be construed to provide any governmental entity other than the department with access to any individually identifiable information regarding users of the prescription drug discount card program established pursuant to this section. The department shall keep confidential all information concerning the identity of users of the program and the drugs that such users purchase through the program. The department may use such information solely to conduct epidemiological and health planning studies and to provide general information to users about the drugs such users are taking, the conditions for which such users are taking the drugs and other services of the department or the city of New York related to such conditions.
+
+c. No administrator of the prescription drug discount card program shall provide the prescription drug discount card developed pursuant to this section to any resident of the city of New York unless such administrator ensures that a portion of any rebate payments received from drug manufacturers is distributed to users of such program, including pharmacies participating in the program.
+
+d. Any duly licensed pharmacy willing to comply with the terms and conditions of the prescription drug discount card program shall be permitted to participate in the program.
+
+
+
+
+
+
+*§ 17-1004 Report.* ::
+
+
+Not later than sixty days after the end of each twelve-month period during which the prescription drug discount card program has been in operation, the department shall provide the city council with a report regarding such program. Such report shall provide information regarding the operation of such program during the reporting period, including, but not limited to (i) the number of prescription drug discount card holders who used the prescription drug discount card at least once, (ii) the total cost savings to all card holders generated by the program, (iii) the average cost savings to a card holder per prescription, (iv) the source and method of cost savings under the program, (v) the major drug categories that are not discounted under the program and an explanation as to why such drugs are not listed, (vi) the drugs for which rebates are offered under the program, listed according to major drug category, (vii) the number of pharmacies participating in the program, and (viii) to the extent available, any costs incurred by pharmacies to participate in the program.
+
+
+
+
+
+
+*§ 17-1005 Implementation.* ::
+
+
+The department may enter into contracts or agreements with third parties to implement the provisions of this chapter, including, but not limited to, developing and/or administering the prescription drug discount card program established pursuant to section 17-1003 of this chapter and collecting information required by section 17-1004 of this chapter.
+
+
+
+
+
+
+*§ 17-1006 Rules.* ::
+
+
+The department may promulgate such rules as may be necessary to implement the provisions of this chapter.
 
 
 
