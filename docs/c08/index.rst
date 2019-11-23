@@ -1524,12 +1524,84 @@ The department shall ensure that any housing unit where transgender, gender nonc
 
 
 
+
+
+*§ 9-159 Guiding principles for new correctional facilities.* ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   Dormitory. The term “dormitory” means a unit which houses multiple individuals. This term shall have the same meaning as the term “multiple occupancy housing unit” .
+
+   Housing unit. The term “housing unit” means a structure or part of a structure that contains single occupancy housing units or multiple occupancy housing units, as those terms are defined in the rules of the New York state commission of correction.
+
+   Living quarters. The term “living quarters” means an individual occupancy housing unit as defined in section 7040.4 of title 9 of the compilation of codes, rules and regulations of the state of New York or any successor provision.
+
+   Kitchenette. The term “kitchenette” means a space equipped to be used for heating food and water.
+
+b. Every city correctional facility under the sole jurisdiction and control of the department built after the effective date of the local law that added this section shall comply with the following requirements:
+
+   1. Design requirements. Each such facility shall be designed, where practicable, in a manner that deprioritizes an institutional appearance and the use of bars.
+
+   2. General requirements. Each such facility shall include:
+
+      (a) a call button or telephone in each room that incarcerated individuals may use to contact staff;
+
+      (b) infrastructure that provides internet capability, subject to security and safety protocols of the department;
+
+      (c) designated spaces for re-entry services and programming, with sufficient space and infrastructure to accomplish the purposes of the services offered therein;
+
+      (d) access to clinical space for each housing unit, with 24 hour access to emergency response;
+
+      (e) systems that provide heating and air conditioning;
+
+      (f) visiting spaces, waiting areas, and other spaces in which visitors frequent that include an area that is suitable for children; and
+
+      (g) an outdoor recreation area.
+
+   3. Individual living quarters. Each individual living quarter in such facility shall:
+
+      (a) be no less than 75 square feet (6.97 square meters) in total area and no less than six feet (1.83 meters) in any direction;
+
+      (b) contain a functioning toilet, sink with potable water, single bed, and a closeable storage container for personal property for a single person;
+
+      (c) have at least one window with access to natural light. The total area of all windows in each living quarter shall be a least one-tenth the floor area of such room;
+
+      (d) contain no more than one single bed and house no more than one person; and
+
+      (e) contain at least one light that can be turned on and off.
+
+   4. Dormitories. Each dormitory in such facility shall:
+
+      (a) be equipped with a sufficient number of toilets and sinks, and provide showers in accordance with the minimum standards of the New York city board of correction and the guidelines of the New York state commission of correction for multiple occupancy housing units;
+
+      (b) have at least one window with access to natural light in each living space within such dormitory. The total area of all windows in each dormitory shall be a least one-tenth the floor area of such space; and
+
+      (c) contain a minimum of 75 square feet (6.97 meters) of floor space per person in the sleeping area.
+
+   5. Housing units. Each housing unit in such facility shall
+
+      (a) include a recreation area with access to fresh air and natural light; and
+
+      (b) contain a kitchenette.
+
+   6. Bathrooms shall be accessible at all times to individuals housed in each such facility.
+
+c. The department shall digitize paper-based communications and ensure that correctional facilities built after the effective date of the local law that added this section are wired in such a fashion to allow for such electronic communications. Such communication shall include but not be limited to (1) the location of incarcerated individuals, (2) communications between staff, (3) the filing of grievances, and (4) communications regarding bail status, in accordance with standards set by correctional oversight agencies.
+
+d. This section is not intended to encompass the entirety of standards to apply to jail facilities.
+
+
+
+
+
+
 Chapter 2: Department of Probation
 --------------------------------------------------
 
 
 
-*§ 9-201 Probation administrative fee.*** ::
+*§ 9-201 Probation administrative fee.* ::
 
 
 a. In accordance with section 257-c of the executive law, any individual currently serving or who shall be sentenced to a period of probation upon conviction of any crime under article thirty-one of the vehicle and traffic law shall pay to the department of probation an administrative fee of thirty dollars per month.
@@ -1938,6 +2010,46 @@ a. Within 90 days of the beginning of each reporting period, the office of crimi
 
 
 * Editor's note: Formerly § 3-117.
+
+
+
+
+
+
+*§ 9-307 Report on the closure of jails on Rikers Island.* ::
+
+
+a. Beginning on the 30th day of January in the year 2020, the mayor’s office of criminal justice shall submit shall submit a biannual report to the council and post to the office’s website and the city’s open data portal, a progress report on closing jails on Rikers Island and opening jail facilities outside Rikers Island. Such report shall be submitted within 60 days of January 1 and July 1 of each year and shall include information on the following issues:
+
+   1. Trends in the jail population and the drivers of population changes, including the following:
+
+      (a) the average daily population in total and disaggregated by facility, by borough of arrest, and in the following categories: pretrial, sentenced, technical parole violation, pretrial with parole violations, and other;
+
+      (b) the average and median length of stay of incarcerated individuals detained pretrial, in total and disaggregated by borough of arrest and whether there is a co-occurring parole violations; and
+
+      (c) the number and percentage of pretrial detainees whose length of stay is longer than 30 days, 90 days, six months, and one year.
+
+   2. The total capacity and average daily population of each correctional facility solely operated by the department of correction, disaggregated by facility.
+
+   3. The timeline for closure of each correctional facility located on Rikers Island, any significant changes to such timeline, and any significant actions taken by the mayor in response to such changes.
+
+   4. The budget for closure, and any significant changes to such budget.
+
+   5. The procurement of contracts related to closure and construction of jail facilities, including any relevant timelines.
+
+   6. A general overview of the design and construction of new jail facilities and any related information regarding the timelines for the construction of new facilities.
+
+   7. Populations relocated as a result of new facility construction.
+
+   8. The progress of implementing an electronic management system for individuals in custody.
+
+   9. Staff plans, by facility, including but not limited to the following information for the reporting period: the number of uniform and civilian staff hired, the number of uniform and civilian staff terminated, and the number of uniform and civilian staff who left the department for reasons other than termination.
+
+b. No information that is required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of information.
+
+(L.L. 2019/192, 11/17/2019
+
+* Editor's note: Section 4 of L.L. 2019/192 provides that this section shall be repealed after July 1, 2028.
 
 
 

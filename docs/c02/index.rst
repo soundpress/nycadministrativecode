@@ -1375,6 +1375,48 @@ b. Such information shall be made publicly available in a non-proprietary format
 
 
 
+*§ 3-152 Three-quarter housing task force.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Rent allowance. The term “rent allowance” means the allowance provided pursuant to section 131-a of the social services law and paragraph (1) of subdivision (a) of section 352.3 of title 18 of the New York codes, rules and regulations.
+
+   Supportive housing. The term “supportive housing” means affordable, permanent housing with support services for residents.
+
+   Three-quarter housing. The term “three-quarter housing” means one- and two-family dwellings where 10 or more unrelated adults who receive a rent allowance are residing, but such term shall not include any nursing home as defined in section 2801 of the public health law or residential program for adults described in title two of article four of the social services law.
+
+b. There shall be a three-quarter housing task force comprised of representatives from the department of social services, the department of buildings, the fire department, the department of housing preservation and development, the department of health and mental hygiene and the mayor’s office. Each such agency shall assign representatives to such task force as needed. The mayor shall appoint the chair of the task force.
+
+c. The mayor shall appoint two advocates in the fields of housing or homelessness and two individuals who have previously resided or currently reside in three-quarter housing, and the speaker of the council shall appoint one advocate in the fields of housing or homelessness and one individual who has previously resided or currently resides in three-quarter housing, to advise the task force on an ongoing basis. Such appointees shall not be members of the task force. The task force shall meet no less than once every three months with the advocates and individuals appointed pursuant to this subdivision.
+
+d. The task force shall meet no less than once every quarter. At such meetings, members of agencies represented on the task force shall report on all violations, fines or liens placed against landlords of three-quarter housing for failing to timely correct violations.
+
+e. Task force representatives shall compile the following information for the task force’s use:
+
+   1. Addresses of one- and two-family dwellings where 10 or more unrelated adults who receive a rent allowance are residing,
+
+   2. All relevant information each respective agency has collected related to such dwellings, and
+
+   3. The addresses of one- and two-family dwellings where there is reason to suspect 10 or more unrelated adults who receive a rent allowance are residing based on complaints through 311 calls or any other mechanism.
+
+f. Agencies represented on the task force shall inspect, as necessary, one- and two-family dwellings identified as three-quarter housing and issue violations where appropriate. An initial inspection shall be conducted within four weeks of an address being referred to such task force and re-inspection of the dwelling shall be conducted twice annually for as long as the building is known or believed to be in use as three-quarter housing.
+
+g. During such inspections, individuals residing in the inspected dwellings shall be offered assistance, including but not limited to information about rental subsidies, supportive housing, how to obtain repairs from landlords, and unlawful evictions.
+
+h. A city agency or office designated by the mayor shall provide to the speaker of the council and publish on its website quarterly reports on the state of three-quarter housing in the city. The first such report shall be due 30 days following the calendar quarter ending September 30, 2020, and all subsequent reports shall be due 30 days following the last day of each succeeding calendar quarter. Such reports shall include, but need not be limited to:
+
+   1. The number of violations issued for each building inspected by agencies represented on the task force and identified as three-quarter housing, disaggregated by issuing agency, provided that each building shall be identified in such a way that does not disclose the building’s address; and
+
+   2. The number of individuals relocated from buildings inspected by the agencies represented on task force and identified as three-quarter housing, disaggregated by whether such individuals were given a rental assistance subsidy, the type of subsidy provided, and the type of housing to which the individual was relocated, including but not limited to private apartments, single room occupancy dwellings or temporary housing.
+
+
+
+
+
+
+
+
 
 **Subchapter 6: Gender, Racial and Income Equity**
 

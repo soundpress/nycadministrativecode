@@ -481,6 +481,76 @@ d. Following installation of electricity usage telemetry equipment by the depart
 
 
 
+*§ 4-207.3 Utility-scale energy storage systems for city buildings.* ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   Energy storage system. The term “energy storage system” means a set of methods and technologies for storing potential, kinetic, chemical, electromagnetic, thermal, or any other type of energy, including compressed air, flywheels, batteries, superconducting magnetic storage and ice storage, so that such energy may be used at a time other than when it is generated.
+
+   City building. The term “city building” means a building that is owned by the city or for which the city regularly pays all of the annual energy bills, or a cultural institution that is in the cultural institutions group as determined by the department of cultural affairs for which the city regularly pays all or part of the annual energy bills.
+
+   Commissioner. The term “commissioner” means the commissioner of citywide administrative services
+
+   Cost effective. The term “cost effective” means, with respect to the installation of an energy storage system, that the cumulative savings in energy costs expected to result from the use of such system will, within 15 years of installation of such system, be equal to or exceed the expected costs of the acquisition, installation, and maintenance of such system during that same time period. The determination of cost effectiveness shall not include any savings in energy costs directly attributed to federal, state and other non-city governmental assistance, but shall include the social cost of carbon value, as provided in paragraph 3 of subdivision d of section 3-125 or pursuant to paragraph 4 of subdivision d of section 3-125, provided however, that a site- or project-specific social cost of carbon value may be developed and used in lieu of the social cost of carbon value provided in or pursuant to such paragraphs if such site- or project-specific social cost of carbon value is higher than the social cost of carbon value provided in or pursuant to such paragraphs.
+
+   Department. The term “department” means the department of citywide administrative services.
+
+b. No later than April 30, 2021, the department, or any other agency authorized by the commissioner, shall complete a study regarding the feasibility of the installation and use of each available type of utility-scale energy storage systems in each city building, and submit to the mayor and the speaker of the council a copy of such study. Such study shall include a review of any available federal or state funds or incentives for the acquisition, installation, operation or maintenance of such systems.
+
+c. The department, or any other agency authorized by the commissioner, shall, in accordance with all applicable law, install utility-scale energy storage systems on all city buildings where the installation of such systems is cost effective, as determined by the study described in subdivision b.
+
+d. No later than December 15, 2021, the department shall report to the mayor and the speaker of the council:
+
+   1. The types of utility-scale energy storage systems that were studied, as applied to various city buildings;
+
+   2. The city buildings where the installation of a utility-scale energy storage system may be appropriate, as determined by the department and the projected annual energy and other cost savings for each such system, both individually and in the aggregate;
+
+   3. The number of city buildings where the installation of a utility-scale energy storage system has been commenced by the department or other agency authorized by the commissioner; and
+
+   4. The number of city buildings where the installation of a utility-scale energy storage system has been completed by the department or other agency authorized by the commissioner, the type of such system installed on such building, and the annual energy and other cost savings associated with the installation and use of such systems.
+
+
+
+
+
+
+
+
+*§ 4-207.4 Solar water heating and thermal energy systems for city-owned buildings.* ::
+
+
+a. As used in this section, the following terms have the following meanings:
+
+   City building. The term “city building” means a building that is owned by the city or for which the city regularly pays all of the annual energy bills, or a cultural institution that is in the cultural institutions group as determined by the department of cultural affairs for which the city regularly pays all or part of the annual energy bills.
+
+   Commissioner. The term “commissioner” means the commissioner of citywide administrative services.
+
+   Cost effective. The term “cost effective” means, with respect to the installation of a solar water heating or thermal energy system, that the cumulative savings expected to result from the use of such system, including expected savings in energy costs, will, within 25 years of such installation, be equal to or exceed the expected costs of the acquisition, installation, and maintenance of such system during that same time period. The determination of cost effectiveness shall not include any savings in costs directly attributed to federal, state and other non-city governmental assistance, but shall include the social cost of carbon value, as provided in paragraph 3 of subdivision d of section 3-125 or pursuant to paragraph 4 of subdivision d of section 3-125, provided, however, that a site- or project-specific social cost of carbon value may be developed and used in lieu of the social cost of carbon value provided in or pursuant to such paragraphs if such site- or project-specific social cost of carbon value is higher than the social cost of carbon value provided in or pursuant to such paragraphs.
+
+   Department. The term “department” means the department of citywide administrative services.
+
+b. No later than April 30, 2021, the department, or any other agency authorized by the commissioner, shall conduct a study identifying the types of city-owned buildings where solar water heating and thermal energy systems may be appropriate and cost-effective, and submit such study to the mayor and the speaker of the council. Such study shall describe any federal or state funds or incentives that would be available to defray costs related to the installation, operation or maintenance of such systems.
+
+c. The department, or any other agency authorized by the commissioner, shall, in accordance with all applicable law, install a solar water heating system or a thermal energy system on all city-owned buildings where the traditional hot water or space heating equipment has reached the end of its useful life, provided that such a solar water heating system or thermal energy system is cost effective, as determined by the study described in subdivision b.
+
+d. No later than December 15, 2021, the department shall report to the mayor and the speaker of the council:
+
+   1. The types of city buildings where the installation of a solar water heating or thermal energy system may be appropriate, as determined by the department;
+
+   2. The number of city buildings where the installation of a solar water heating or thermal energy system has been commenced by the department of other agency authorized by the commissioner;
+
+   3. The number of city buildings where the installation of a solar water heating or thermal energy system has been completed by the department of other agency authorized by the commissioner; and
+
+   4. The annual energy and other cost savings, and any other environmental benefits associated with the use of such completed systems.
+
+
+
+
+
+
+
+
 *§ 4-208 List of city-owned and operated real property.* ::
 
 

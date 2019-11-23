@@ -753,7 +753,7 @@ a. The New York City Police Department shall submit to the city council on a qua
 
    7. A report of the number of positions that are civilianizable, including a listing of each position by job title, and the number of positions that were civilianized. "Civilianizable" shall mean any position that does not require uniformed expertise.
 
-   8. A report of the number of firearms possessed in violation of law that have been seized, disaggregated by precinct and type of firearm. Such report shall also include, disaggregated by precinct: (i) the number of arrests made and type of crimes charged involving firearms possessed in violation of law, including arrests for the distribution and sale of such firearms; and (ii) the total number and type of firearms recovered in the course of arrests made.
+   8. A report of the number of firearms, including ghost guns and firearms created using a three-dimensional printer, or any piece or part thereof, possessed in violation of law that have been seized, disaggregated by precinct and type of firearm. Such report shall also include, disaggregated by precinct: (i) the number of arrests made and type of crimes charged involving firearms possessed in violation of law, including arrests for the distribution and sale of such firearms; and (ii) the total number and type of firearms recovered in the course of arrests made.
 
 b. The New York city police department shall submit to the city council on an annual basis a firearms discharge report, which shall include substantially the same information and data categories, disaggregated in substantially the same manner, as the department's 2007 Annual Firearms Discharge Report. It shall also include, at a minimum, in tabular form:
 
@@ -771,7 +771,31 @@ b. The New York city police department shall submit to the city council on an an
 
    7. A synopsis of each firearms incident resulting in the death of either a subject or an officer.
 
-   8. For purposes of this section, the following terms shall have the following meanings: (i) "firearms incident" means any incident during which one or more New York city police officers discharge any firearm, or when a firearm belonging to a New York city police officer is discharged by any person, except for a discharge during an authorized training session, or while lawfully engaged in target practice or hunting, or at a firearms safety station within a department facility; (ii) "subject" means a person engaged in adversarial conflict with an officer or third party, in which the conflict results in a firearms discharge; (iii) "civilian" means a person who is not the subject in the adversarial conflict but is included as a victim, bystander, and/or injured person; (iv) "officer" means a uniformed member of the department, at any rank; (v) "intentional firearms discharge" means a firearms discharge in which an officer intentionally discharges a firearm, which may include firearms discharges that are determined to be legally justified but outside department guidelines; (vi) "adversarial conflict" means an incident in which an officer acts in defense of self or another during an adversarial conflict with a subject and does not include an animal attack or situations in which an officer only intentionally discharges a firearm to summon assistance; (vii) "unintentional firearms discharge" means a firearms discharge in which an officer discharges a firearm without intent, regardless of the circumstance, commonly known as an accidental discharge; and (viii) "unauthorized use of a firearm" means a firearms discharge that is considered unauthorized and is not listed as an intentional firearms discharge, is being discharged without proper legal justification, and includes instances when an unauthorized person discharges an officer's firearm.
+   8. For purposes of this section, the following terms shall have the following meanings:
+
+      (a) "firearms incident" means any incident during which one or more New York city police officers discharge any firearm, or when a firearm belonging to a New York city police officer is discharged by any person, except for a discharge during an authorized training session, or while lawfully engaged in target practice or hunting, or at a firearms safety station within a department facility;
+
+      (b) "subject" means a person engaged in adversarial conflict with an officer or third party, in which the conflict results in a firearms discharge;
+
+      (c) "civilian" means a person who is not the subject in the adversarial conflict but is included as a victim, bystander, and/or injured person;
+
+      (d) "officer" means a uniformed member of the department, at any rank;
+
+      (e) "intentional firearms discharge" means a firearms discharge in which an officer intentionally discharges a firearm, which may include firearms discharges that are determined to be legally justified but outside department guidelines;
+
+      (f) "adversarial conflict" means an incident in which an officer acts in defense of self or another during an adversarial conflict with a subject and does not include an animal attack or situations in which an officer only intentionally discharges a firearm to summon assistance;
+
+      (g) "unintentional firearms discharge" means a firearms discharge in which an officer discharges a firearm without intent, regardless of the circumstance, commonly known as an accidental discharge;
+
+      (h) "unauthorized use of a firearm" means a firearms discharge that is considered unauthorized and is not listed as an intentional firearms discharge, is being discharged without proper legal justification, and includes instances when an unauthorized person discharges an officer's firearm;
+
+      (i) “frame or receiver” means a part of a firearm that provides housing for the hammer, bolt or breechblock, and firing mechanism, and that is usually threaded at its forward portion to receive the barrel;
+
+      (j) “ghost gun” means any firearm that is assembled from a frame or receiver that has been marketed or sold, either individually or as part of a kit, as an unfinished frame or receiver that could be used to assemble a firearm;
+
+      (k) “three-dimensional printer” means a computer-driven machine capable of producing a three-dimensional object from a digital model by adding layers of material in succession; and
+
+      (l) “unfinished frame or receiver” means a piece of any material that does not constitute the frame or receiver of a firearm but that has been shaped or formed in any way for the purpose of becoming the frame or receiver of a firearm with modification by the user.
 
 c. The information, data and reports requested in subdivisions a and b shall be provided to the council except where disclosure of such material could compromise the safety of the public or police officers or could otherwise compromise law enforcement operations. Notwithstanding any other provision of law, the information, data and reports requested in subdivisions a and b are not required to be transmitted in electronic format to the department of records and information services, or its successor agency, and are not required to be made available to the public on or through the department of records and information services' web site, or its successor's web site. These reports shall be provided to the council within 30 days of the end of the reporting period to which the reports correspond or for which the relevant data may be collected, whichever is later. Where necessary, the department may use preliminary data to prepare the required reports and may include an acknowledgment that such preliminary data is non-final and subject to change.
 

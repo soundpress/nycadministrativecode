@@ -1,205 +1,335 @@
-Title 31: Department of Veterans&apos; Services
+Title 30: Emergency Management
 ===================================================
 
-Title 31: Department of Veterans' Services
+Chapter 1: Office Of Emergency Management
 --------------------------------------------------
 
 
 
-*§ 31-101 Definitions.* ::
+*§ 30-101 Definitions.* ::
 
 
-As used in this title, the following terms have the following meanings:
+As used in this title:
 
-Commissioner. The term "commissioner" means the commissioner of veterans' services.
+a. "Office" shall mean the New York city office of emergency management and shall have the same meaning as set forth in section four hundred ninety-five of the New York city charter.
 
-Department. The term "department" means the New York city department of veterans' services.
+b. "Commissioner" shall mean the commissioner of the New York city office of emergency management.
 
+c. "Emergency support functions" shall mean a functional area of response activity established to facilitate coordinated delivery of assistance required to save lives, protect property and health, maintain public safety, and otherwise respond to emergency conditions.
 
 
 
 
 
 
+*§ 30-102 Protocols regarding weather emergencies.* ::
 
-*§ 31-102 Employment resources.* ::
 
+a. The commissioner shall develop protocols that shall include, but need not be limited to, the following: (1) what specific actions the office may take when the national weather service forecasts the occurrence of certain specified severe weather conditions, as determined by the office, including identifying what other agencies or offices of city, state or federal government shall be contacted or consulted; (2) based on the national weather service consultation and inter-agency communications, whether and at what level to activate emergency support functions; and (3) the circumstances under which the office would call upon the state emergency management office or other jurisdictions for assistance, or request mutual aid assistance from the state or other jurisdictions pursuant to article two-B of the executive law.
 
-a. Definitions. For the purposes of this section:
+b.    On or before November fifteenth, 2011 and every November fifteenth thereafter, the commissioner shall issue a report to the council setting forth the actions taken by the office pursuant to the protocols issued in accordance with subdivision a of this section.
 
-   Federal veterans job bank. The term "federal veterans job bank" means the job bank developed by the federal government for veterans or any subsequent online tool that the federal government utilizes to connect veterans with employment opportunities.
 
-   City job. The term "city job" means employment with the government of the city of New York.
 
-b. The department shall publish on its website information concerning resources intended to assist veterans in obtaining employment including, but not limited to:
 
-   1. a link to the federal veterans job bank;
 
-   2. links to websites describing veteran employment services provided by the federal government and New York state government, including, but not limited to, the websites of the United States department of labor, the New York state department of labor, the United States department of veterans affairs, and the New York state division of veterans' services; and
 
-   3. links to any additional resources deemed relevant by the department.
+*§ 30-103 Annual snow preparedness and response report.* ::
 
-c. The department shall consult with the department of citywide administrative services and other appropriate city agencies to identify city job postings for inclusion in the federal veterans job bank and shall also ensure that such city job postings are included in such job bank and are updated as necessary to maintain accuracy.
 
-d. The department shall consult with the department of small business services to identify job postings that are received or maintained by the department for inclusion in the federal veterans job bank and shall also ensure that such job postings are included in such job bank and are updated as necessary to maintain accuracy.
+a. For purposes of this subdivision, the term "snow event" shall mean any snowfall equal to or in excess of six inches within a period of twenty-four hours in any of the five boroughs based on the department of sanitation's measurements.
 
+b. No later than November fifteenth, two thousand eleven, and on or before every November fifteenth thereafter, the commissioner shall submit to the council and make available to the public on the city's website a report describing the city's preparation for and response to all snow events during the preceding twelve-month period. Such report shall include but not be limited to the following:
 
+   (1) a list of all snow events during the reporting period;
 
+   (2) a list of all city and state agencies or offices and private entities that acted on behalf of the city that were involved in snow event preparation and response, including a description of the responsibilities of each such agency, office or entity. Such agencies or offices, if involved in such preparation or response, shall include, but need not be limited to, the department of education, office of emergency management, department of environmental protection, fire department, office of the chief medical examiner, department of parks and recreation, police department, department of sanitation, department of transportation and to the extent information is available, the state office of emergency management, New York city housing authority, metropolitan transportation authority and port authority of New York and New Jersey;
 
+   (3) an assessment of the performance of each such agency or office for each snow event during the reporting period, including an assessment of interagency coordination;
 
+   (4) a list of any snow-related emergency warnings or declarations issued by the city or state during the reporting period and actions taken pursuant to each such warning or declaration; and
 
+   (5) recommendations for improving city snow event preparation and response including, but not limited to, revisions to snow management plans and other relevant protocols of any city agency or office.
 
+c. No later than November fifteenth, two thousand twelve, and every November fifteenth thereafter, the report required pursuant to subdivision b of this section shall include:
 
-*§ 31-103 Veteran liaisons.* ::
+   (1) an inventory of all city-owned snow management equipment and resources that were used during any snow event;
 
+   (2) an inventory of privately-owned snow management equipment and resources used by the city during any snow event, an assessment of how such equipment and resources were deployed and overseen by city agencies or offices and strategies, contracts or agreements used to ensure that such snow management equipment and resources were available to the city; and
 
-The head of each city agency shall designate an employee to act as liaison with veterans within such agency and shall notify the department of the name and contact information of such liaison. Such liaison shall advise veterans within such agency of benefits and services available to veterans at such agency and employee personnel policies applicable to veterans at such agency. At the request of the department, the head of each city agency shall make such liaison available to confer with and receive periodic training from the department. The department shall post on its website the names of persons designated to act as such liaison within each agency.
+   (3) the number of individuals who registered with the city to work during any snow event, and assessment on how such individuals were deployed and overseen by city agencies or offices and strategies, contracts or agreements used to ensure that such individuals were available to the city.
 
 
 
 
 
 
+*§ 30-104 Food and water access plan.* ::
 
 
-*§ 31-104 Veterans' advisory board electronic mail addresses.* ::
+In consultation with appropriate federal, state, and city government agencies, the commissioner shall develop or update, no later than December first, two thousand thirteen, a food and water access plan to be utilized after coastal storms and other severe weather and natural disaster events where such events may disrupt access to food and water or may impact the ability to purchase, prepare or consume food or water. Such plan shall include, but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
 
+a. a description of how the city will provide access to food and water, including but not limited to how and to what extent the city will disseminate information to the public about the availability of food and water services; manage requests for support from emergency, not-for-profit entities that provide food and water; arrange for or coordinate disaster feeding; coordinate the efforts of food benefits programs, food donations, food business and emergency food providers; and work to restore the public, private and non-profit sectors' ability to provide access to food and water;
 
-Upon appointment to the board, every member of the veterans' advisory board, as constituted pursuant to section 3103 of the charter, shall create an electronic mail address dedicated exclusively to the conduct of the business of the board. The department shall make such electronic mail address available to the public on the department's website no later than thirty days after the commencement of the member's term of appointment. Such electronic mail address may not be commingled with any other personal or professional electronic mail addresses held or maintained by the members of the board. The department may establish guidelines to promote uniformity in the formatting of any electronic mail address created pursuant to this section.
+b. a mechanism to assess the city's food and water needs prior to and after such conditions and incidents arise;
 
+c. a description of how the city personnel responsible for implementing such plan will be identified, including how a clear hierarchy and points of contact of such personnel will be established;
 
+d. criteria for how food and water distribution points are identified and how such distribution points will be publicized to ensure that the public is aware of the locations of such distribution points;
 
+e. a mechanism to provide that recipients of food benefits have continued access to such benefits during and immediately after such events and that affected communities experiencing transportation disruptions can access emergency food benefits locally;
 
+f. identification of contracts, if any, that can be activated during and immediately after such events for vendors that can provide and distribute food and water, including but not limited to, hot food providers, trucks and drivers;
 
+g. criteria for assessing transportation routes that allow for the distribution of food and water that accounts for emergency road and bridge closures;
 
+h. a mechanism to provide that, to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities; and
 
+i. a mechanism to consult community based organizations and service providers with relevant expertise in regard to the development of such plan.
 
-*§ 31-105 Additional notice of public meetings of the veterans' advisory board.* ::
 
 
-The department shall ensure that notice of any public meeting of the veterans' advisory board held pursuant to section 3103 of the charter is posted on the department's website with the date, time and location of each public meeting, and that such notice is posted not less than one week prior to each public meeting. The department shall also maintain and periodically update the contact information of veterans organizations located within the city and shall notify such organizations by regular or electronic mail of the date, time and location of each public meeting of the veterans' advisory board not less than one week prior to each public meeting.
 
 
 
+*§ 30-105 Sheltering plan.* ::
 
 
+The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update a sheltering plan no later than December first, two thousand thirteen, that anticipates the operation of shelters for short, medium or long-term periods of time as a result of coastal storms and other severe weather and natural disaster events. Such plan shall include, but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
 
+a. a description of the types of evacuation centers and shelters, number and location of evacuation centers, how persons are transferred from an evacuation center to a shelter, and a mechanism to identify locations to be used as shelters, including shelters that are adequate for habitability for long-term stays;
 
+b. a description of shelter staffing and management, including but not limited to an explanation of how key shelter staff positions such as shelter managers and clinical staff will be determined and how shelters will be adequately staffed with trained medical personnel to the extent necessary for each such shelter's needs;
 
-*§ 31-106 Veterans resource centers.* ::
+c. a mechanism for clearly identifying to residents, volunteers and other staff at each shelter the individuals filling key staff positions at such shelter;
 
+d. a mechanism to provide that to the extent practicable any shelter manager coordinates with a shelter manager on the immediately following shift at such shelter regarding requests for supplies, shelter conditions and other significant issues at such shelter;
 
-a. The commissioner shall ensure that at least one veterans resource center is established and operational in each borough by no later than June 1, 2019. Each borough shall have a minimum of 20 hours of combined field and in-office service per week, including at least 10 consistent office hours, and shall be located in a geographic area that is easily accessible, including for persons with disabilities, and in close proximity to public transportation. Notice of a center’s hours of operation shall be clearly displayed on the premises and on the department’s website.
+e. a mechanism to provide that there is adequate food and water at every shelter and that food options other than shelf stable items and meals ready to eat are available at any such shelter that is to be used for long term stays;
 
-b. Each veterans resource center shall provide veterans with up-to-date information, at no cost regarding, at a minimum, (i) matters within the department’s purview pursuant to this title, chapter 75 of the charter and state executive law section 358; (ii) housing; (iii) social services offered by public agencies and charitable and private organizations, including but not limited to the provision of specific contact information for such agencies and organizations; (iv) financial assistance and tax exemptions available to veterans; (v) discharge upgrade resources; and (vi) federal, state, and local benefits available to veterans.
+f. a reassessment of the emergency shelter supply stockpile at least annually, as well as immediately before and after such plan is activated, to determine whether appropriate supplies are available and adequate;
 
-c. Each veterans resource center shall provide benefits counseling services and a hard copy resource guide pursuant to section 31-108, as well as information about relevant referral services.
+g. to the extent practicable, a plan for shower and laundry facilities for persons who remain in shelters after three days;
 
-d. The department shall make available on its website information about each of the veterans resource centers, including its address, contact information, hours of operation and services provided.
+h. a mechanism for tracking the daily census at each shelter, including the number of persons with special medical needs, the number of persons who enter and exit each day, and to the extent practicable, a general description of the locations to which such persons exited;
 
-e. The commissioner, in consultation with any agencies identified by the mayor, shall establish and engage in outreach and education efforts to inform veterans about the veterans resource centers, including their locations, contact information, hours of operation and the services they provide.
+i. a mechanism to track the medical needs of persons at shelters who request assistance in meeting such needs, including but not limited to needed medications and placement in the proper type of shelter;
 
-f. The commissioner shall, beginning January 1, 2020 and every six months thereafter, submit a report in machine-readable format to the mayor and the speaker of the council regarding the operation of the veterans resource centers established pursuant to this section. Such report shall include, but not be limited to, the following information for the prior six-month period, disaggregated by center: (i) the number of veterans utilizing such center; (ii) a summary of the services offered by such center; (iii) a description of the services and information most frequently requested by veterans utilizing such center; (iv) the number of full-time and part-time staff persons working at such center; and (v) the number of complaints received by and against such center from veterans regarding the services offered by such center, including feedback received by the 311 customer service center and a general description of the nature of such feedback.
+j. a mechanism to advise persons who receive federal, state or city public assistance benefits of how to avoid disruption of such benefits due to an inability to meet program requirements as a result of their stay in such shelter;
 
+k. a mechanism to provide that all shelters are made usable to persons with disabilities to the extent practicable and to identify facilities in the shelter system that are accessible to persons with disabilities;
 
+l. a description of how persons, including those with disabilities, are assigned to shelter facilities; and
 
+m. a mechanism to consult community based organizations and service providers with relevant expertise in regard to the development of such plan.
 
 
 
 
 
-*§ 31-107 Benefits counseling.* ::
 
+*§ 30-106 Community recovery plan.* ::
 
-The department shall provide counseling services to veterans seeking assistance regarding benefits offered by the city of New York, the state of New York and the United States department of veterans affairs to which they, their spouses or domestic partners, dependents or any family members may be entitled because of their military service. Counseling services shall include advice, evaluation and information, but shall not include the services identified by section 14.629(b) of title 38 of the code of federal regulations. Counseling services must be provided by trained staff and shall, at a minimum, be available in each of the five boroughs, including at each veterans resource center established pursuant to section 31-106.
 
+The commissioner shall develop or update, no later than December first, two thousand thirteen, a community recovery plan to be utilized before, during and after coastal storms and other severe weather and natural disaster events. Such plan shall specify steps that the office, along with relevant agencies and other partners, shall take in preparation for, during and immediately after such events. Such plan shall include, but not be limited to, the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency event:
 
+a. the establishment of community recovery directors and deputy recovery directors or other such similar positions for each of the five boroughs, where appropriate for the geographic impact of the emergency event, including:
 
+   (1) the criteria for how such directors, deputies or other such similar positions are chosen; and
 
+   (2) a description of the basic duties and responsibilities of such directors, deputies or other such similar positions including, but not limited to: the timing of deployment in the field following such events; how such director and deputies or other such similar positions will be responsible to act as the main points of contact for providing general services and fulfilling the most critical needs of individuals in impacted areas; how such director, deputies or other such similar positions will work with federal and state representatives to assist impacted individuals with access to emergency disaster benefits; and how such director, deputies or other such similar positions will work with community based organizations, service providers and volunteers in recovery assistance operations;
 
+b. a description of ways to leverage the participation of community based organizations, service providers, and volunteers with the goal of commencing a unified recovery assistance operation as rapidly as possible;
 
+c. a description of ways to leverage federal and state resources in an expedited manner to provide that resources from all levels of government become available as soon as practicable after such events take place;
 
+d. the creation of a uniform information sharing and distribution plan to be used by each community recovery director to properly inform residents, elected officials and the press about the services available through the community recovery director and his or her team on the ground, and ways to contact community recovery personnel;
 
-*§ 31-108 Veterans resource guide.* ::
+e. the establishment of field recovery offices in or near affected communities as soon as practicable after such events take place;
 
+f. a description of how the administrative and functional items necessary for immediate and successful operation of field recovery offices will be established; and
 
-a. The department shall develop and maintain a resource guide for veterans. The department shall regularly update information provided in such guide as is necessary to maintain accuracy.
+g. an information dissemination strategy that identifies and utilizes major hubs and distribution centers, including partnering with non-city distribution sites, to share information about services available to clients, elected officials, and press, and that requires that to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities.
 
-b. The guide developed pursuant to subdivision a of this section shall include, but not be limited to, information about:
 
-   1. Federal, state and city benefits available to veterans and to their spouses or domestic partners, dependents and family members, as applicable, based upon the veterans’ military service, which shall include the criteria for eligibility to receive such benefits and information on organizations that employ accredited agents and attorneys to assist veterans with their claims;
 
-   2. Provisions of federal, state and local laws and regulations affording special rights and privileges to members of the armed forces and veterans and to their spouses or domestic partners, dependents and family members, as applicable, including, but not limited to, protections under the uniformed services employment and reemployment rights act;
 
-   3. Protections and remedies afforded to veterans under section 8-107;
 
-   4. Physical and mental health programs and resources;
 
-   5. Educational and training opportunities;
+*§ 30-107 Small business and non-profit organization recovery plan.* ::
 
-   6. Available sources of low- or no-cost legal assistance;
 
-   7. Social services, including, but not limited to, housing and food security supports offered by public agencies and charitable and private organizations;
+a. (1)    The commissioner, in consultation with the commissioner of small business services and other government or private organizations having expertise in non-profit organization and insurance matters, shall develop or update no later than December first, two thousand thirteen, a small business and non-profit organization recovery plan to be utilized after coastal storms and other severe weather and natural disaster events.
 
-   8. Programs and services administered by public agencies to support veteran-owned businesses;
+   (2)    In developing such plan, the department of small business services shall, in consultation with other city agencies, chambers of commerce, or other private organizations having expertise in such matters, work with small business owners and non-profit organizations throughout New York city to identify critical resources necessary for the continued functioning of such small businesses and non-profit organizations during and after such events.
 
-   9. Employment resources; and
+   (3) The plan developed or updated in accordance with this section shall include but need not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency: (i) an evaluation of the potential impact of disruptions on small businesses and non-profit organizations as a result of such events, including a mechanism to conduct an impact analysis for major categories of small businesses and non-profit organizations, as determined by the commissioner of small business services, in order to identify disruptions unique to each such category, and the implementation of measures to prevent or mitigate such disruptions and to support recovery of the small business and non-profit sectors; (ii) the establishment of a voluntary database of small businesses and non-profit organizations, including but not limited to utilizing any existing database of small businesses and non-profit organizations maintained by the department of small business services, to provide that such businesses and organizations receive alerts regarding such events, recovery assistance, and other relevant information and to conduct outreach with such small businesses and non-profit organizations to encourage their registration in such database; (iii) conducting a survey of small business owners and non-profit organizations after such events to identify resources necessary for recovery, which shall include but not be limited to an assessment of small businesses such as whether a business is open, closed or partially in operation, damage to business facilities, lost revenues, the number of employees affected and whether there is a plan for employees to return to such business if such employees are unable to work, whether additional workers are needed or hired to assist with recovery efforts, a description of the type of assistance necessary for recovery, the type and amount of insurance that such business has, and whether such business has filed insurance claims and the status of such claims; (iv) strategies to inform such small businesses and non-profit organizations about how to obtain such resources before, during and after such events; and (v) coordination with non-profit organizations that are capable of assisting small business owners with loan and grant applications, and business counseling services to facilitate and expedite recovery.
 
-   10. Any other information deemed relevant by the department.
+b. To the extent practicable, all public communications, written or otherwise, with small businesses and non-profit organizations as set forth in this section, shall be available in the most commonly spoken languages of affected communities.
 
-c. The department shall make such guide available on the department’s website and in printed form upon request.
 
-d. The department shall publish on its website, and in any hard copy of such resource guide distributed, information about how relevant service providers can update the department on any changes in the services they offer to veterans.
 
 
 
 
+*§ 30-108 Traffic management plan.* ::
 
 
+The commissioner shall develop or update, no later than December first, two thousand thirteen, a traffic management plan in consultation with other city agencies and relevant governmental entities, to be utilized during and after coastal storms and other severe weather and natural disaster events where such events severely impact automotive, subway, and/or commuter train transportation in the city of New York. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
 
+a. the installation of back-up power capability, including but not limited to the consideration of the effectiveness of installing solar power and other alternative energy sources with respect to street lights and traffic control signals to keep the roadway network functioning to the maximum possible extent during power outages;
 
-*§ 31-109 Reporting requirements.* ::
+b. alternative transportation options provided by governmental and/or private entities to be used in the event of subway service and/or major roadway shutdowns, including but not limited to expanded bus and ferry service;
 
+c. alternative bus routing, including but not limited to criteria for the closing of streets to all traffic except buses;
 
-a. For the purposes of this section, the following terms have the following meanings:
+d. the expanded use of vehicles licensed by the taxi and limousine commission;
 
-   Engagements. The term “engagements” means any interactions for the purposes of providing services to veterans, caretakers, active servicemembers and their families, including those interactions in resource centers, the department’s office, or in the field.
+e. some accessible transportation options for persons with special needs;
 
-   Services. The term “services” means any activity or resource provided by the department to help veterans, including, but not limited to, providing information, offering referrals, connecting veterans with internal and external resources and any direct action taken for or on behalf of veterans.
+f. closing or partially closing certain streets or designating that one or more lanes of traffic on such streets are closed to traffic except for emergency vehicles and/or vehicles driven by certain individuals involved in rescue, recovery and clean-up operations;
 
-   Veteran. The term “veteran” means a person who has served in the Armed Forces, National Guard or Reserves of the United States.
+g. where appropriate, recommending to the appropriate state transportation authorities the elimination or reduction of fares on buses, subways and ferries; and
 
-b. No later than December 15, 2019, and no later than December 15 annually thereafter, the department shall submit to the speaker of the council and post to its website an annual report regarding the department’s services and performance.
+h. a mechanism to provide that, to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities.
 
-c. The annual report shall include, but need not be limited to, the following information for the prior fiscal year:
 
-   1. A list and description of the services provided by the department;
 
-   2. The total number of employees, a list of functional titles, the number of employees in each functional title and a summary of the general responsibilities for each title;
 
-   3. The total number of engagements, per month, disaggregated by the types of services provided, whether the service was provided at the department’s office, a resource center or in the field, and borough;
 
-   4. The types of services veterans have inquired about, including through 311 calls, per month, disaggregated by type of service, and borough where applicable;
 
-   5. The methods by which the department provides information to veterans and their families, caretakers and active servicemembers and the methods by which veterans and their families learned about the department;
+*§ 30-109 Fuel management plan.* ::
 
-   6. A list of the field services provided by the department in each borough, per month; and
 
-   7. The methods utilized by the department in calculating its report on the performance indicators herein.
+The commissioner shall develop or update, no later than December first, two thousand thirteen, a fuel management plan in consultation with other city agencies and other relevant governmental entities, to be utilized during and after coastal storms and other severe weather and natural disaster events where such events may disrupt or have disrupted the fuel supply in the city of New York. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
 
+a. the procedures and criteria for determining when a fuel shortage exists and for rationing of fuel in the event of a fuel shortage in the city of New York;
 
+b. the criteria for determining the amount of fuel reserves in the city of New York that should be maintained and for what priority purposes;
 
+c. the establishment and maintenance of lines of communication between the city and the industries that provide fuel to the city of New York;
 
+d. the prioritization of fuel access for persons involved in rescue, recovery and clean-up operations, including but not limited to emergency services and critical health, public safety and sanitation personnel;
 
+e. a process for assessing transportation routes to maximize the delivery of fuel within the city of New York; and
 
+f. a mechanism to provide that, to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities.
 
 
-*§ 31-110 Outreach and engagement on issues related to higher education.* ::
 
 
-a. The commissioner, in consultation with the department of consumer affairs and any other agencies identified by the mayor, shall establish and coordinate outreach and engagement efforts to inform veterans about financial issues and resources related to higher education, including, but not limited to: government programs and other resources available to veterans, resources on how to minimize student debt, student loan repayment options and programs for veterans, the risks of for-profit or fraudulent colleges and trade schools, how to identify predatory for-profit institutions and lower-cost alternatives to for-profit higher education.
 
-b. The materials developed pursuant to subdivision a of this section shall be made available on the department’s website, at each veterans resource centers established pursuant to section 31-106 and in printed form upon request.
+
+*§ 30-110 Special medical needs shelters.* ::
+
+
+The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update a plan no later than December first, two thousand thirteen for the tracking of persons in special medical needs shelters established as a result of coastal storms and other severe weather and natural disaster events. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
+
+a. a mechanism to adequately track persons who enter or exit a special medical needs shelter;
+
+b. a mechanism for the dissemination of bracelets or other wearable identification devices to be used on a voluntary basis by any person entering a special medical needs shelter if such device has not been provided by the state, which shall include to the extent permitted by state and federal law such person's name, address, emergency contact information, and information provided regarding the medical needs of such person, or an identification number or other identifier that will enable the shelter operator to locate such information;
+
+c. a mechanism to track the medical needs of any person using a special medical needs shelter if such mechanism has not been provided by the state and to the extent information regarding such medical needs is available, including but not limited to needed medications;
+
+d. a mechanism for enabling persons who use special medical needs shelters and who do not object to disclosure of their location to be contacted by their family members and guardians, including the establishment of a designated point of contact for such information and a description of how such mechanism will be publicized; and
+
+e. a mechanism for consulting community based organizations and service providers with relevant expertise, including but not limited to those representing the interests of individuals with special medical needs, in regard to the development of such plan.
+
+
+
+
+
+
+*§ 30-111 Plan for outreach and recovery to vulnerable and homebound individuals.* ::
+
+
+The commissioner, in consultation with relevant federal, state and local agencies, shall develop or update, no later than December first, two thousand thirteen, an outreach and recovery plan to assist vulnerable and homebound individuals before, during and after coastal storms and other severe weather and natural disaster events. Such plan shall include but not be limited to the following features, provided that nothing herein shall be construed to interfere with the ability of agencies responding to an emergency to implement plans, modify plans, or take steps not described in any written plan, in a manner appropriate to circumstances particular to that emergency:
+
+a. a description of how the office will identify, conduct outreach to, communicate with, and otherwise assist vulnerable and homebound individuals before, during and after the impact of such events;
+
+b. the development of a mechanism for utilizing lists of homebound and vulnerable individuals, to the extent consistent with applicable confidentiality requirements, which shall include: (1) the use of existing lists of such individuals maintained by community based organizations, service providers and relevant agencies, including but not limited to the department for the aging, the department of health and mental hygiene, the department of social services/human resources administration, and the New York city housing authority; (2) the office's Advance Warning System or successor system; and (3) a process whereby vulnerable and homebound individuals receive information about how to request that they be included in such existing lists or system;
+
+c. a description of how the office will coordinate with relevant agencies, community based organizations and service providers to assist such individuals before, during and after the impact of such events;
+
+d. the creation of a Door-to-Door Task Force that will be responsible for developing and implementing a strategy to locate and assist vulnerable and homebound individuals, provide such individuals with information, and assist with any recovery efforts that take place after such events, including the delivery of necessary supplies and services;
+
+e. a description of how information, supplies, services, and transportation will be made available to such individuals to facilitate the relocation of such individuals if necessary;
+
+f. a mechanism to provide that, to the extent practicable, all public communications, written or otherwise, are available in the most commonly spoken languages of affected communities; and
+
+g. a mechanism for consulting community based organizations and service providers with relevant expertise, including but not limited to those representing the interests of homebound and vulnerable individuals, in regard to the development of such plan.
+
+
+
+
+
+
+*§ 30-112 Emergency management plan reporting and review.* ::
+
+
+a. The commissioner shall provide to the city council a copy of any plan prepared by the New York city office of emergency management for the purpose of responding to coastal storms and other severe weather and natural disaster events, including but not limited to any plans created or updated in accordance with sections 30-104 through 30-111 of this chapter. The commissioner shall also provide the city council with updated versions of such plans within sixty days of plan revisions.
+
+b. The commissioner shall assess any plan referenced in subdivision a of this section whenever such plan is activated. Such assessment shall consider the reports and recommendations issued by any task force or commission following such activation. The commissioner shall report to the city council any subsequent changes to such plan and provide a copy of such updated plan to the city council, no later than sixty days after such assessment is completed. The commissioner shall also assess any such plan at least once every two years, whether or not such plan has been activated, and shall report to the city council any subsequent changes to such plan and provide a copy of such updated plan to the city council no later than sixty days after such assessment is completed.
+
+c. Notwithstanding the provisions of this section, the commissioner shall not be required to disclose to the council portions of plans or to report changes made to plans where disclosure of such information could compromise the safety of the public.
+
+
+
+
+
+
+*§ 30-113 Weather emergencies and prolonged utility outage preparedness recommendations for residential and commercial buildings.* ::
+
+
+a. Coordinating with relevant agencies including the department of buildings, the department of housing preservation and development, and the fire department, the commissioner shall compile recommendations for how residential and commercial property owners may prepare for and communicate certain information to the tenants of such buildings in the event of a weather emergency, a natural disaster event or a utility outage which is expected to last for more than twenty-four hours. Such recommendations shall include, but not be limited to:
+
+   1. Information on determining the property's flood zone and evacuation zone;
+
+   2. The protective measures the building owner may provide or install to protect against flooding or other damage;
+
+   3. General advice on securing items appended to the building, such as window air conditioning units, patio furniture flower boxes, windows, doors and other loose items, during a weather emergency or natural disaster event;
+
+   4. General advice for buildings in flood zones on the use of electrical and mechanical equipment when there is a flood risk;
+
+   5. The types of options available to the property owner to rent equipment after a weather emergency, a natural disaster event or pending the restoration of utility services;
+
+   6. The methods that the property owner may use to communicate with tenants during and after a weather emergency, a natural disaster event or a utility outage which is expected to last for more than twenty-four hours and suggestions for communicating to tenants relevant building contacts for emergencies; and
+
+   7. The contact information for relevant city agencies to determine evacuation guidelines or learn other suggestions on how to protect persons and property during a weather emergency, a natural disaster event or a utility outage which is expected to last for more than twenty-four hours.
+
+
+
+
+
+
+*§ 30-114 Localized emergency preparedness materials.* ::
+
+
+The commissioner shall develop and disseminate localized emergency preparedness materials for communities in which there is a risk of evacuation due to coastal storms or hurricanes to increase public awareness as to the appropriate responses by members of the public to such risk and of the resources available during such coastal storm or hurricane within and near such communities. Such materials shall:
+
+a. be limited to information relevant to that community, as identified by zip code or contiguous zip codes in a geographic area;
+
+b. identify any local evacuation zones, evacuation centers or other such geographic information relevant to an evacuation;
+
+c. identify and provide contact information for any local patrol precinct or firehouse;
+
+d. at the discretion of the commissioner, identify and provide contact information for any charitable organization or not-for-profit organization that the commissioner identifies as having the potential to provide services or materials that may be beneficial to such community after a coastal storm or hurricane;
+
+e. provide any other information deemed relevant by the commissioner; and
+
+f. be distributed within communities at risk of evacuation due to coastal storms or hurricanes in the top ten most commonly spoken languages within each such community as determined by the commissioner in consultation with the department of city planning, and be made available online.
+
+
+
+
+
+
+*§ 30-115 Emergency notifications.* ::
+
+
+a. Any emergency alert originated by a city office or city agency that is issued through a commercial mobile service alert system established pursuant to 47 U.S.C. § 1201 shall, to the extent practicable and to the extent permissible under regulations enacted pursuant to such section, be issued in no fewer than the two most commonly spoken languages within the area covered by the emergency alert as determined by the commissioner in consultation with the department of city planning, provided that this subdivision does not require the issuance of an emergency alert in a language if exigent circumstances prohibit the issuance of an alert in such language.
+
+b. Any emergency notification system operated and controlled by the office of emergency management for the purposes of aggregating information obtained from other offices or agencies to inform the public about emergencies or disruptive events through e-mail, text, phone, social media platform, or internet-based feed shall offer each notification in no fewer than the seven most commonly spoken languages within the city as determined by the commissioner in consultation with the department of city planning, provided that this requirement shall not delay or prohibit the immediate issuance of notifications in any individual language. Notifications shall be separated into distinct messages in separate feeds for each language. A general version of each notification may be used when a real-time translation is unavailable, provided that priority shall be placed upon making notifications available with the greatest specificity possible. Any dissemination limitation applicable to an English language notification may be applied to its equivalent notification in another language. If no potential recipient is registered for a specific language, then a notification need not be disseminated in that language.
 
 
 

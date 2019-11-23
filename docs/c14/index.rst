@@ -512,16 +512,18 @@ c. The following information shall be provided on March 1 of each year for the p
 
 
 
-*§ 15-131 Report on smoke detectors and smoke alarms in fire-related deaths.* ::
+*§ 15-131 Report on smoke detectors, smoke alarms and fire sprinklers.* ::
 
 
-a. No later than April 1 of each year, the department shall submit to the mayor and the council, and post on the department’s website, a report indicating whether a smoke detector or alarm was found at the location of any fire in which there was a civilian fire fatality during the preceding calendar year. If a smoke detector or alarm was found, such report shall indicate the technology used by such smoke detector or alarm and whether such smoke detector or alarm was operational, provided that such information can be ascertained. Such report may also include any other information relevant in determining the role of smoke detectors or alarms in any civilian fire fatality.
+a. No later than April 1 of each year, the department shall submit to the mayor and the council, and post on the department's website, a report indicating the following:
+
+   (1) Whether a smoke detector or alarm was found at the location of any fire in which there was a civilian fire fatality or life-threatening injury during the preceding calendar year. For each fire in which there was a civilian fire fatality or life-threatening injury where a smoke detector or alarm was found, such report shall indicate the technology used by such smoke detector or alarm and whether such smoke detector or alarm was operational, provided that such information can be ascertained. Such report may also include any other information relevant in determining the role of smoke detectors or alarms in any fire in which there was a civilian fire fatality or life-threatening injury.
+
+   (2) Whether a fire sprinkler was found at the location of any fire greater than a first alarm fire during the preceding calendar year. For each fire greater than a first alarm fire in which a fire sprinkler was found, such report shall indicate whether such sprinkler was operational and activated during such incident, provided that it is possible for the department to obtain such information. For purposes of this subdivision, "first alarm fire" means a fire to which the fire department deploys three or fewer fire engines.
 
 b. The department shall ascertain from the office of the chief medical examiner the cause of death for any civilian fire fatality, as defined by such office. The report required by subdivision a of this section shall be disaggregated by each type of such cause.
 
 
-
-Editor's note: Pursuant to L.L. 2017/020, § 2, this section expires on Feburary 15, 2022.
 
 
 
@@ -560,7 +562,7 @@ Editor's note: Pursuant to L.L. 2018/116, § 2, subsection b. of this section wi
 
 
 
-*§ 15-134 Fire hydrant inspection standards and tracking.** ::
+*§ 15-134 Fire hydrant inspection standards and tracking.* ::
 
 
 a. The department shall inspect all fire hydrants maintained by the department of environmental protection at least twice per calendar year, the first inspection occurring by June 30 and the second inspection occurring by December 31.
@@ -576,18 +578,6 @@ b. By March 1 of each year, the department of environmental protection shall pos
    4. The total number of fire hydrants categorized as priority by the fire department found to be inoperable through inspection during the prior calendar year; and
 
    5. The total number of fire hydrants categorized as priority by the fire department that were found inoperable during the inspection to be conducted by June 30 and the total number of such hydrants that were not made operable by December 31, disaggregated by borough and council district.
-
-
-
-
-
-
-
-
-*§ 15-134 Emergency evacuation planning for individuals with limited mobility.** ::
-
-
-By March 1, 2019, the department, in consultation with the office of emergency management and the mayor’s office for people with disabilities, and in conjunction with fire code emergency preparedness requirements for apartment buildings, shall develop a planning checklist to be provided to residents in group R-2 occupancies, including individuals with disabilities or limited mobility, to assist in the development of individualized emergency evacuation plans. Such checklist shall inform residents about the availability of evacuation assistance devices and other means of evacuation, and outline recommended measures that individuals with disabilities or limited mobility can proactively take to prepare to safely evacuate a building in case of emergency, such as identifying neighbors who can provide assistance in an emergency. Such checklist shall be made available on the department’s website and included in the emergency preparedness guides required by the fire code to be distributed to the residents of such buildings.
 
 
 
@@ -712,6 +702,18 @@ b. The department shall make all components of applications for fire alarm inspe
 
 
 Editor's note: Section 2 of L.L. 2019/009 provides: "Subdivision a of section 15-139 of the administrative code of the city of New York, as added by section 1 of this local law, takes effect 180 days after it becomes law, and subdivision b of section 15-139 of the administrative code of the city of New York, as added by section 1 of this local law, takes effect 1 year after it becomes law, except that the fire department may take such measures prior to such date as are necessary for implementation of this local law, including the promulgation of rules.".
+
+
+
+
+
+
+*§ 15-140 Emergency evacuation planning for individuals with limited mobility.* ::
+
+
+By March 1, 2019, the department, in consultation with the office of emergency management and the mayor’s office for people with disabilities, and in conjunction with fire code emergency preparedness requirements for apartment buildings, shall develop a planning checklist to be provided to residents in group R-2 occupancies, including individuals with disabilities or limited mobility, to assist in the development of individualized emergency evacuation plans. Such checklist shall inform residents about the availability of evacuation assistance devices and other means of evacuation, and outline recommended measures that individuals with disabilities or limited mobility can proactively take to prepare to safely evacuate a building in case of emergency, such as identifying neighbors who can provide assistance in an emergency. Such checklist shall be made available on the department’s website and included in the emergency preparedness guides required by the fire code to be distributed to the residents of such buildings.
+
+
 
 
 

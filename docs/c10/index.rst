@@ -993,6 +993,10 @@ g. The commissioner shall be authorized to promulgate rules and regulations nece
 
 h. Subdivision f of this section shall be deemed a state statute for purposes of paragraph (a) of subdivision two of section eighty-seven of the public officers law.
 
+i. The owner of a ground floor or second floor commercial premises, including of a designated class one property, as such terms are defined in subdivision a of section 11-3001, shall be required to file registration statements and supplemental registrations pursuant to subdivisions b, c and d of such section, as part of the income and expense statement required to be submitted pursuant to this section.
+
+
+
 
 
 
