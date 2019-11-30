@@ -2354,6 +2354,40 @@ e. It shall be a rebuttable presumption that a food item or combination of food 
 
 
 
+
+
+*§ 17-200 Prohibited acts with respect to wild birds.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Take. The term “take” means to harry, bait, net, snare, trap, capture, hunt, shoot, injure or kill.
+
+   Wild bird. The term “wild bird” means any bird, including a pigeon, that lives in the wild or in an undomesticated state.
+
+b. Prohibited acts. No person other than an exempt person may take or attempt to take, or possess or attempt to possess, any wild bird. Provided, however, that this subdivision shall not apply to the persons and entities specified in subdivision d of this section.
+
+c. Penalty.
+
+   1.  Any person convicted of any prohibited act set forth in subdivision b of this section is guilty of a misdemeanor and subject to a fine of no more than $1,000, or imprisonment for no more than one year, or both, for each violation.
+
+   2. The penalties provided in this section shall not preclude the imposition of any other penalty provided for by law.
+
+d. Exempt persons. The penalties provided for in this section shall not apply:
+
+   1. To an employee of a law enforcement agency or of the department of parks and recreation when such employee is acting within the scope of their duties; or
+
+   2. To any person authorized by law, or by permit, license, or privilege issued or granted by the department of environmental conservation or by the department; or
+
+   3. To any other agency or person authorized to take, possess, receive, transport, buy or sell any wild bird, provided that such agency or person has not violated the terms of the provision of law or permit, license, or privilege which authorized such person to take, possess, receive, transport, buy or sell such wild bird; or
+
+   4. To any person attempting to rescue a wild bird that appears to be injured or endangered with the intention of transporting it to a place where it can be treated, provided that such attempt is not otherwise prohibited by law.
+
+
+
+
+
+
 Chapter 2: Medical Examiner
 --------------------------------------------------
 
@@ -5594,6 +5628,8 @@ i. "Sterilization" means rendering a dog or cat that is at least eight weeks of 
 
 j. "Trap-neuter-return" means a program to trap, vaccinate for rabies, sterilize and identify feral cats and return them to the locations where they were found.
 
+k. “Adoptable animal” means any companion animal subject to adoption as defined in subdivision a of this section.
+
 
 
 
@@ -5803,6 +5839,18 @@ a. No pet shop or animal rescue group shall release a dog or cat to a purchaser 
 b. Every pet shop and animal rescue group shall retain for a period of ten years from the date of sale of any dog or cat, a copy of the certification signed by the purchaser required by paragraph three of subdivision a of this section.
 
 c. A pet shop that allows an animal shelter or animal rescue group to use such pet shop's premises for the purpose of making animals available for adoption shall be exempt from the requirements of subdivisions a and b of this section with respect to such animals, provided such pet shop does not have an ownership interest in any of the animals that are being made available for adoption, and the pet shop does not derive a fee for providing such adoption services.
+
+
+
+
+
+
+
+
+*§ 17-816 Promotion of adoptable animals.* ::
+
+
+Any full-service animal shelter operated by New York city shall post photographs of, and relevant information about, each adoptable animal in its possession, including but not limited to age and sex, within three days of receiving such animal, provided that such animal is not affected by a medical or behavioral condition that makes it unsafe or unsuitable for photographing. The department shall encourage any other animal shelter that holds a permit under section 161.09 of the New York City health code to make its best efforts to promote the placement of adoptable animals.
 
 
 
@@ -7579,6 +7627,55 @@ c. Confidential medical condition letter. Within five business days prior to any
    6. Any relevant documentation related to referrals made by correctional health services for the purpose of discharge planning, if available.
 
 d. Notwithstanding the requirements of subdivision c, correctional health services shall not be required to issue a new confidential medical condition letter for a scheduled court appearance within one week of a prior scheduled court appearance.
+
+
+
+
+
+
+Chapter 19: Force-fed Products
+--------------------------------------------------
+
+
+
+*§ 17-1901 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms have the following meanings:
+
+Food service establishment. The term “food service establishment” means a place where food is provided for individual portion service directly to the consumer whether such food is provided free of charge or sold, and whether consumption occurs on or off the premises or is provided from a pushcart, stand or vehicle.
+
+Force-fed product. The term “force-fed product” means any product that is the result of force-feeding a bird, including but not limited to a duck or a goose, with the intent to fatten or enlarge the bird’s liver.
+
+Force-feeding. The term “force-feeding” means the practice of forcing, by any means, food or supplements into the throat, esophagus, crop or stomach of an animal.
+
+Retail food establishment. The term “retail food establishment” means a supermarket, grocery store, specialty food store or farmer’s market.
+
+
+
+
+
+
+
+
+*§ 17-1902 Prohibited conduct.* ::
+
+
+No retail food establishment or food service establishment, or agent thereof, shall store, keep, maintain, offer for sale, or sell any force-fed product or food containing a force-fed product. For purposes of this chapter, it shall be a rebuttable presumption that an item in a retail food establishment or food service establishment having the label “foie gras” or listed on a menu as “foie gras” is a force-fed product. A party seeking to rebut such presumption shall provide documentary evidence proving that the product they are storing, keeping, maintaining, offering for sale, or selling is not a force-fed product as defined in this chapter.
+
+
+
+
+
+
+
+
+*§ 17-1903 Enforcement.* ::
+
+
+a. Any person who is found to violate any provision of this chapter shall be subject to a civil penalty of not less than $500 and not more than $2,000 for each violation. Each such violation may be treated as a separate and distinct offense, and in the case of a continuing violation, each day's continuance thereof may be treated as a separate and distinct offense.
+
+b. The department shall commence a proceeding to recover a civil penalty in connection with a food service establishment by service of notice of violation returnable at the office of administrative trials and hearings or within any agency of the city designated to conduct such proceedings. The department of consumer affairs shall commence a proceeding to recover a civil penalty in connection with a retail food establishment by service of a notice of violation returnable at the office of administrative trials and hearings or within any agency of the city designated to conduct such proceedings.
 
 
 

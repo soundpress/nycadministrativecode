@@ -1940,6 +1940,26 @@ d. Reporting. Within 30 days of January 1, 2020, January 1, 2021, and January 1,
 
 
 
+
+
+*§ 14-182 Data regarding animal cruelty complaints.* ::
+
+
+a. For the purposes of this section, the term “animal cruelty” means a violation of sections 17-197 or 17-330 or of any of the provisions of article 26 of the agriculture and markets law.
+
+b. The department shall publish on its website on a semi-annual basis, no later than January 30 and July 30 of each year beginning in 2020, the following data regarding animal cruelty complaints:
+
+   (1) the number of complaint reports the department receives alleging an act of animal cruelty and
+
+   (2) the number of arrests made as a result of responses by the department to complaints of animal cruelty.
+
+The data required pursuant to this section shall be disaggregated by police precinct.
+
+
+
+
+
+
 Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 --------------------------------------------------
 
