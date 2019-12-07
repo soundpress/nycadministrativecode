@@ -1583,7 +1583,7 @@ c. The district plan shall not be amended except with accordance with chapter fo
 *§ 25-421.1 Metrotech Area business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Metrotech Area business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four million two hundred seventy-four thousand four hundred ninety-two dollars ($4,274,492), of which three million two hundred seventy-four thousand four hundred ninety-two dollars ($3,274,492) may be expended in the north subdistrict, and one million dollars ($1,000,000) may be expended in the south subdistrict.
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Metrotech Area business improvement district beginning on July 1, 2019, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of five million nine hundred eleven thousand seven hundred thirty-eight dollars ($5,911,738), of which four million nine hundred eleven thousand seven hundred thirty-eight dollars ($4,911,738) may be expended in the north subdistrict, and one million dollars ($1,000,000) may be expended in the south subdistrict.
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Metrotech Area business improvement district plan.
 
@@ -1719,7 +1719,7 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-423.1 34th Street business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 34th Street business improvement district beginning on July 1, 2017, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of twelve million six hundred forty thousand dollars ($12,640,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 34th Street business improvement district beginning on July 1, 2019, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of thirteen million dollars ($13,000,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the 34th Street business improvement district plan.
 
@@ -1935,7 +1935,7 @@ c. The district plan shall not be amended except in accordance with chapter four
 *§ 25-431.1 Fifth Avenue Association business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Times Square business improvement district beginning on July 1, 2016, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure three million two hundred seven thousand dollars ($3,207,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Times Square business improvement district beginning on July 1, 2019, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure six million four hundred fourteen thousand dollars ($6,414,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Fifth Avenue Association business improvement district plan.
 
@@ -2299,7 +2299,7 @@ c. The amended district plan shall not be further amended except in accordance w
 *§ 25-444.1 14th Street-Union Square business improvement district.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 14th Street-Union Square business improvement district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two million six hundred thousand dollars ($2,600,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the 14th Street-Union Square business improvement district beginning on July 1, 2019, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of four million two hundred thousand dollars ($4,200,000).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the 14th Street-Union Square business improvement district plan.
 
@@ -2344,6 +2344,20 @@ a. The city council having determined, pursuant to section 25-407 of chapter fou
 b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the district plan upon which the NoHo New York business improvement district is based.
 
 c. The district plan shall not be amended except in accordance with chapter four of this title.
+
+
+
+
+
+
+*§ 25-446.1 NoHo New York business improvement district; increase in the amount to be expended annually.* ::
+
+
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the NoHo New York business improvement district beginning on July 1, 2019, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of eight hundred thousand dollars ($800,000).
+
+b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the NoHo New York business improvement district plan.
+
+
 
 
 
@@ -3600,7 +3614,7 @@ c. The commissioner of finance shall prepare a roll setting forth separately the
 *§ 25-602 Fulton Mall Special Assessment District.* ::
 
 
-a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Fulton Mall special assessment district beginning on July 1, 2015, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of two million one hundred thousand dollars ($2,100,000).
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Fulton Mall special assessment district beginning on July 1, 2019, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of three million six thousand seven hundred fifty dollars ($3,006,750).
 
 b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Fulton mall special assessment act, as amended.
 
