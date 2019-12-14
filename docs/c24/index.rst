@@ -724,6 +724,23 @@ d. This chapter expires ten years after the effective date of the local law that
 
 
 
+Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
+--------------------------------------------------
+
+
+
+*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
+
+
+a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
+
+b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
+
+
+
+
+
+
 Chapter 11: Sexual Education Task Force
 --------------------------------------------------
 
@@ -775,23 +792,6 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 
 
 * Editor's note: pursuant to L.L. 2017/090, § 2, this section expires and is deemed repealed five years after the date of the local law that added the section.
-
-
-
-
-Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
---------------------------------------------------
-
-
-
-*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
-
-
-a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
-
-b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
-
-
 
 
 
@@ -880,6 +880,37 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
+--------------------------------------------------
+
+
+
+*§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve, including early education centers with which the department contracts to provide pre-kindergarten.
+
+   Student. The term "student" means any pupil under the age of twenty-one as of September first of the school year being reported, who does not have a high school diploma and who is enrolled in a school, excluding any child who is less than four years of age on or before December thirty-first of the school year being reported.
+
+b. The department shall submit to the speaker of the council, and post conspicuously on the department’s website, the following reports regarding application, offer, available seat and enrollment information:
+
+   1. Not later than May 15, 2018, and annually thereafter on or before May 15, a report including, but not limited to (a) for each community school district, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (b) for each school, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year;
+
+   2. Not later than March 15, 2019, and annually thereafter on or before March 15, a report including, but not limited to (a) for each community school district, the total number of students who enrolled in grades pre-kindergarten, kindergarten or six in a school located in such community school district in the current school year; and (b) for each school, the total number of students who enrolled in grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, in the current school year.
+
+The data required to be reported pursuant to this subdivision b shall be disaggregated by (i) community school district of residence of individuals or students, as applicable; (ii) zip code of residence of individuals or students, as applicable; (iii) primary home language of individuals or students, as applicable and (iv) grade level.
+
+c. Not later than May 15, 2018, and annually thereafter on or before May 15, the department shall submit to the speaker of the council and post conspicuously on the department’s website a report that shall include, but not be limited to, for each school, the total number of seats anticipated to be available in the following school year.
+
+d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
+
+
+
+
+
+
 Chapter 15: Distribution of Information Regarding Interactions with Non-Local Law Enforcement
 --------------------------------------------------
 
@@ -907,37 +938,6 @@ c. Prior to the release of any directory information pursuant to the family educ
 d. The department shall ensure that the information required to be distributed by subdivision b is additionally available in each school, each office where the department provides enrollment assistance and on the department's website.
 
 e. Upon any request by non-local law enforcement for access to a student or a student’s records, the department shall notify such student’s parent of such request unless such notification is prohibited by law or by a judicial order or lawfully issued subpoena, and shall provide such student and parent with information on available resources for seeking legal assistance in response to such request.
-
-
-
-
-
-
-Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
---------------------------------------------------
-
-
-
-*§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve, including early education centers with which the department contracts to provide pre-kindergarten.
-
-   Student. The term "student" means any pupil under the age of twenty-one as of September first of the school year being reported, who does not have a high school diploma and who is enrolled in a school, excluding any child who is less than four years of age on or before December thirty-first of the school year being reported.
-
-b. The department shall submit to the speaker of the council, and post conspicuously on the department’s website, the following reports regarding application, offer, available seat and enrollment information:
-
-   1. Not later than May 15, 2018, and annually thereafter on or before May 15, a report including, but not limited to (a) for each community school district, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (b) for each school, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year;
-
-   2. Not later than March 15, 2019, and annually thereafter on or before March 15, a report including, but not limited to (a) for each community school district, the total number of students who enrolled in grades pre-kindergarten, kindergarten or six in a school located in such community school district in the current school year; and (b) for each school, the total number of students who enrolled in grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, in the current school year.
-
-The data required to be reported pursuant to this subdivision b shall be disaggregated by (i) community school district of residence of individuals or students, as applicable; (ii) zip code of residence of individuals or students, as applicable; (iii) primary home language of individuals or students, as applicable and (iv) grade level.
-
-c. Not later than May 15, 2018, and annually thereafter on or before May 15, the department shall submit to the speaker of the council and post conspicuously on the department’s website a report that shall include, but not be limited to, for each school, the total number of seats anticipated to be available in the following school year.
-
-d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
 
 
 
