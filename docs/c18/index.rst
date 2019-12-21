@@ -4397,7 +4397,7 @@ aa. "Tobacco business" means a sole proprietorship, corporation, partnership or 
 
 bb. "Zoo" means any indoor area open to the public for the purpose of viewing animals. An aquarium is a "zoo" within the meaning of this sub- division.
 
-cc. "Day treatment program" means a facility which is (i) licensed by the state department of health or the office of alcoholism and substance abuse services, the office of mental health, or the office of mental retardation and developmental disabilities within the state department of mental hygiene to provide treatment to aid in the rehabilitation or recovery of its patients based on a structured environment requiring patient participation for no less than three hours each day; or (ii) which is authorized by the state commissioner of health to conduct a program pursuant to section 80.135 of title ten of the New York code of rules and regulations.
+cc. "Day treatment program" means a facility which is (i) licensed by the state department of health or the office of alcoholism and substance abuse services, the office of mental health, or the office for people with developmental disabilities within the state department of mental hygiene to provide treatment to aid in the rehabilitation or recovery of its patients based on a structured environment requiring patient participation for no less than three hours each day; or (ii) which is authorized by the state commissioner of health to conduct a program pursuant to section 80.135 of title ten of the New York code of rules and regulations.
 
 dd. "Health related service" means service in a facility which provides or offers lodging, board and physical care including, but not limited to, the recording of health information, dietary supervision and supervised hygienic services incident to such service.
 
@@ -5484,7 +5484,7 @@ Nothing contained in this subchapter shall be construed to preclude the city of 
 
 
 
-**Subchapter 2: Regulation of the Sale of Flavored Tobacco Products and Regulation of Age of Entry to Non-Tobacco Hookah Establishments**
+**Subchapter 2: Regulation of the Sale of Herbal Cigarettes and Flavored Tobacco Products and Regulation of Age of Entry to Non-Tobacco Hookah Establishments**
 
 
 
@@ -5607,6 +5607,8 @@ a. "Adoption" means the delivery of a dog or cat deemed appropriate and suitable
 b. "Animal rescue group" means a duly incorporated not-for-profit organization that accepts homeless, lost, stray, abandoned, seized, surrendered or unwanted animals from an animal shelter or other place and attempts to find homes for, and promote adoption of, such animals by the general public.
 
 c. "Animal shelter" means a not-for-profit facility holding a permit in accordance with § 161.09 of the New York city health code where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
+
+c-1. “Companion animal” means any dog or cat, and also means any other domesticated animal normally maintained in or near the household of the owner or person who cares for such other domesticated animal. “Companion animal” does not include a farm animal as defined in section 350 of the agriculture and markets law or a wild animal as defined in section 161.01 of the New York city health code.
 
 d. "Consumer" means any individual purchasing an animal from a pet shop. A pet shop shall not be considered a consumer.
 
@@ -5851,6 +5853,62 @@ c. A pet shop that allows an animal shelter or animal rescue group to use such p
 
 
 Any full-service animal shelter operated by New York city shall post photographs of, and relevant information about, each adoptable animal in its possession, including but not limited to age and sex, within three days of receiving such animal, provided that such animal is not affected by a medical or behavioral condition that makes it unsafe or unsuitable for photographing. The department shall encourage any other animal shelter that holds a permit under section 161.09 of the New York City health code to make its best efforts to promote the placement of adoptable animals.
+
+
+
+
+
+
+
+
+*§ 17-817 Disposal of deceased animals.* ::
+
+
+The department shall provide information regarding city services that are available for proper disposal of deceased animals and shall post such information to its website.
+
+
+
+
+
+
+
+
+*§ 17-818 Animals discovered during eviction or action taken pursuant to any order or judgment granting legal possession.* ::
+
+
+An animal shelter directed by a sheriff or city marshal executing a warrant of eviction or any order or judgment granting legal possession to retrieve a companion animal from such premises shall retrieve such companion animal as expeditiously as possible after receiving such direction.
+
+
+
+
+
+
+
+
+*§ 17-819 Civil cause of action for persons denied possession of companion animals.* ::
+
+
+a. Except as provided in this section or as otherwise provided by law, any person claiming to be denied possession of their companion animal by a landlord still in possession of such companion animal after the execution of a warrant of eviction or action taken pursuant to any order or judgment granting legal possession shall have a cause of action against such landlord in any court of competent jurisdiction for any or all of the following relief:
+
+   1. Compensatory and punitive damages;
+
+   2. Injunctive and declaratory relief;
+
+   3. An order of seizure pursuant to article 71 of the civil practice law and rules;
+
+   4. Attorney’s fees and costs.
+
+b. No person shall be liable under this section if a companion animal is received by its owner or by an animal shelter, animal rescue group or any animal care and control organization approved or designated by or acting on behalf of the department within three days of the warrant of eviction or action taken pursuant to any order or judgment granting legal possession.
+
+c. Nothing in this section shall be construed to create a cause of action against:
+
+   1. The city of New York, or any agency, officer, employee, or agent thereof, including, but not limited to, any city marshal;
+
+   2. The state or any county or any municipality of New York or any agency, officer, employee or agent thereof;
+
+   3. The United States, or any other officer, employee or agent thereof; or
+
+   4. Any animal shelter, animal rescue group, or animal care and control organization approved or designated by or acting on behalf of the department, or any officer, employee or agent thereof.
 
 
 

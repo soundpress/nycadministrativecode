@@ -1170,7 +1170,7 @@ The commissioner shall convene and provide staff for an SST task force in accord
 
 No later than three months after the end of each fiscal year, the commissioner shall report to the mayor and the speaker of the council, and make publicly available online, a report on implementation of section 3321 of the New York city building code. In addition to any information the commissioner deems relevant, such report shall include:
 
-1. The number of SST providers in existence at the end of such fiscal year.
+1. The number of SST providers in existence at the end of such fiscal year. Such number shall also be disaggregated by which condition of item 1 of the definition of “site safety training (SST) provider” set forth in section 3302.1 of the New York city building code is satisfied by each such provider.
 
 2. The number of SST cards issued in such fiscal year.
 

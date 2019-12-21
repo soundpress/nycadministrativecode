@@ -2016,7 +2016,7 @@ a. Within 90 days of the beginning of each reporting period, the office of crimi
 
 
 
-*§ 9-307 Report on the closure of jails on Rikers Island.* ::
+*§ 9-307 Report on the closure of jails on Rikers Island.** ::
 
 
 a. Beginning on the 30th day of January in the year 2020, the mayor’s office of criminal justice shall submit shall submit a biannual report to the council and post to the office’s website and the city’s open data portal, a progress report on closing jails on Rikers Island and opening jail facilities outside Rikers Island. Such report shall be submitted within 60 days of January 1 and July 1 of each year and shall include information on the following issues:
@@ -2050,6 +2050,32 @@ b. No information that is required to be reported pursuant to this section shall
 (L.L. 2019/192, 11/17/2019
 
 * Editor's note: Section 4 of L.L. 2019/192 provides that this section shall be repealed after July 1, 2028.
+
+
+
+
+
+
+*§ 9-307 Office of special enforcement reporting.** ::
+
+
+a. Within one month after the calendar year quarter ending December 31, 2019, and within one month of each quarter thereafter, the office shall ensure that the office of special enforcement submits to the council and posts to its website, in a machine readable format, a report on inspections of nightlife establishments overseen by the office of special enforcement. Such reports shall include the following information for each such inspection during the previous quarter:
+
+   1. The borough and council district of the inspection.
+
+   2. The conduct or complaint that resulted in the inspection, including any relevant 311, 911, department of building, fire department, finance department’s sheriff’s office, or other form of complaint.
+
+   3. The duration of the inspection, including the time the inspection commenced and the time spent inside the establishment.
+
+   4. The agencies present for the inspection, including the number of personnel from each agency.
+
+   5. Any civil or criminal summonses issued or criminal complaints filed, as defined in section 14-101, as a result of the inspection, as well as the agency responsible for issuing each such summons.
+
+   6. Whether the targeted establishment was ordered to cease operations during such inspection, and the duration of such closure.
+
+b. The term “office of special enforcement” means the office of special enforcement, as established under executive order number 96 for the year 2006, or such other agency as the mayor may designate by executive order.
+
+
 
 
 

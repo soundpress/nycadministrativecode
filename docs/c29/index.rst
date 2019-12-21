@@ -3509,3 +3509,123 @@ By March 31, 2020 and no later than March 31 annually thereafter, the department
 
 
 
+Chapter 26: Affordable Housing Placements
+--------------------------------------------------
+
+
+
+*§ 26-2601 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms have the following meanings:
+
+Affordable housing unit. The term “affordable housing unit” means “affordable housing unit” as defined in section 26-2201.
+
+Area median income. The term “area median income” means the income limits as defined annually by the United States department of housing and urban development (HUD) for the New York, NY HUD Metro FMR Area (HMFA), as established in section 3 of the housing act of 1937, as amended.
+
+Department. The term “department” means the department of housing preservation and development.
+
+Extremely low income household. The term “extremely low income household” means a household that has an income of no more than 30 percent of the area median income, adjusted for the size of the household.
+
+Low income household. The term “low income household” means a household that has an income of more than 50 percent of the area median income but no more than 80 percent of the area median income, adjusted for the size of the household.
+
+Middle income household. The term “middle income household” means a household that has an income of more than 120 percent of the area median income but no more than 165 percent of the area median income, adjusted for the size of the household.
+
+Moderate income household. The term “moderate income household” means a household that has an income of more than 80 percent of the area median income but no more than 120 percent of the area median income, adjusted for the size of the household.
+
+Very low income household. The term “very low income household” means a household that has an income of more than 30 percent of the area median income but no more than 50 percent of the area median income, adjusted for the size of the household.
+
+
+
+
+
+
+
+
+*§ 26-2602 Report.* ::
+
+
+a. No later than September 1, 2021 and on September 1 of each third year thereafter, the department shall submit to the mayor and the council, and publicly post on its website, a report on each lottery for affordable housing units that was administered by or on behalf of the department during the prior three fiscal years, provided that each affordable housing unit available through each such lottery was leased or purchased.
+
+b. The data in such report shall be presented at the citywide, borough and community district levels, with aggregated totals for each of the paragraphs in subdivision d, except that the data responsive to the inquiry specified in paragraph 4 of subdivision d shall be aggregated only at the borough level. For each required geographic level, data responsive to the inquiries specified in subdivision d shall be disaggregated by the following items:
+
+   1. Applicant household size; and
+
+   2. Applicant household income, broken down into bands of extremely low income households, very low income households, low income households, moderate income households and middle income households.
+
+c. Data responsive to the inquiries specified in subdivision d shall be disaggregated at the citywide and borough levels by each of the following items, except that data responsive to the inquiry specified in paragraph 4 of subdivision d shall be disaggregated only at the borough level:
+
+   1. Race or ethnicity of applicants, to the extent such information is reported to the department; and
+
+   2. Applicant preference category, such as veteran’s preference, if any (listing “none” otherwise).
+
+d. As described in subdivisions b and c, data for applicants who had applied through the housing lottery system for affordable housing units shall be provided for each of the following:
+
+   1. The number of applications received for affordable housing units;
+
+   2. The number of applicants invited to confirm their eligibility for affordable housing units;
+
+   3. The number of applicants selected for affordable housing units;
+
+   4. The number of applicants who signed leases for affordable housing units; and
+
+   5. The number of applicants who were selected for, but declined to sign a lease for, affordable housing units.
+
+e. The initial report submitted on September 1, 2021 shall include the information required by subdivisions b and c for all of the inquiries specified in subdivision d for the period from July 1, 2020 until June 30, 2021, where available, and shall also include the information required by subdivisions b and c for the inquiries specified in paragraphs 1 and 4 of subdivision d for the period from January 1, 2014 until June 30, 2020.
+
+f. If a category disaggregated in subdivisions b, c or d contains between 0 and 9 applicants, or allows another category to be narrowed to between 0 and 9 applicants, the number shall be replaced with a symbol.
+
+
+
+
+
+
+Chapter 27: Mitchell-Lama Development Reporting Requirements
+--------------------------------------------------
+
+
+
+*§ 26-2701 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Department. The term “department” means the department of housing preservation and development.
+
+Mitchell-Lama development. The term “Mitchell-Lama development” means a housing development organized pursuant to article two of the private housing finance law and supervised by the department.
+
+Waiting list. The term “waiting list” means a list of applicants from which the managing agent of a Mitchell-Lama development is required to process potential tenants or shareholders as applicable for subsequent occupancies of such development.
+
+
+
+
+
+
+
+
+*§ 26-2702 Mitchell-Lama development waiting list report.* ::
+
+
+By September 1, 2021 and by September 1 of each year thereafter, the department shall submit to the mayor, the speaker of the council and the public advocate, and post to its website, a report on waiting lists for Mitchell-Lama developments that have been digitized and are incorporated into the housing portal required by section 26-1802. Such report shall be disaggregated by each Mitchell-Lama development and include, but need not be limited to, the following:
+
+1. The number of unique applicants on the waiting list on the last day of the prior calendar year;
+
+2. The number of applicants on the waiting list:
+
+   (a) Who were not selected for occupancy in such development within the prior calendar year; and
+
+   (b) Whose position on the waiting list was sequentially prior to a person other than a veteran who was selected for occupancy in such development within the prior calendar year;
+
+3. The number of substantiated complaints received within the prior calendar year regarding the waiting list for such development, including, but not limited to:
+
+   (a) The selection for occupancy of an applicant whose position on the waiting list was sequentially later than applicants who were not selected for occupancy in such development from the same waiting list within the prior calendar year; and
+
+   (b) The waiting list process; and
+
+4. The number of applicants who were admitted under the preference for veterans for such development within the prior calendar year.
+
+
+
+
+
+
