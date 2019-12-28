@@ -460,7 +460,7 @@ b. Not later than August 31, 2016, and annually thereafter on or before August 3
 
    3. The number and percentage of students who are receiving the required amount of physical education instruction;
 
-   4. The number and percentage of students who have an individualized education program that recommends adaptive physical education;
+   4. The number and percentage of students who have an individualized education program that recommends adaptive physical education, disaggregated by classification of disability;
 
    5. The number of designated full-time and part-time certified instructors providing physical education instruction; the ratio of certified instructors to students, including whether such instructor is a full-time certified instructor, part-time certified instructor, or uncertified instructor; the number of certified instructors who have received professional development concerning physical education instruction provided by the department in the preceding two school years; and the total number of certified instructors who attended multiple sessions of professional development concerning physical education instruction provided by the department in the preceding two school years, disaggregated by the number of trainings attended;
 
@@ -477,6 +477,9 @@ b. Not later than August 31, 2016, and annually thereafter on or before August 3
    9. A cross-referenced list of schools, including co-located schools, that share certified instructors with at least one other school and the number of certified instructors that are shared;
 
    10. A description of the department's physical education scope and sequence, including the topics covered by such physical education scope and sequence; whether the department's physical education scope and sequence satisfies the requirements for physical education instruction pursuant to the New York state education department regulations; and the date of the last assessment and update of the physical education scope and sequence; and
+
+   11. Whether students with disabilities whose individualized education program recommends adaptive physical education are provided adaptive physical education and the number of students with disabilities whose individualized education program recommends adaptive physical education who receive adaptive physical education. 
+											
 
 c. Disaggregation of data.
 
@@ -501,12 +504,19 @@ c. Disaggregation of data.
       (e) English language learner status. 
 											
 
-d. [Reserved.]
+d. The report required pursuant to this section shall also include: 
+											
+
+   1. A summary of key findings; and 
+											
+
+   2. If the department is not in full compliance with physical education requirements pursuant to the New York state education department regulations, steps the department will take to achieve full compliance. 
+											
 
 e. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or allows another category to be narrowed to between one and five students, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information. 
 											
 
-(L.L. 2015/102, 11/4/2015; Am. L.L. 2019/127, 6/29/2019) 
+(L.L. 2015/102, 11/4/2015; Am. L.L. 2019/126, 6/29/2019, eff. 12/26/2019; Am. L.L. 2019/127, 6/29/2019) 
 											
 
 
@@ -940,37 +950,6 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
---------------------------------------------------
-
-
-
-*§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve, including early education centers with which the department contracts to provide pre-kindergarten.
-
-   Student. The term "student" means any pupil under the age of twenty-one as of September first of the school year being reported, who does not have a high school diploma and who is enrolled in a school, excluding any child who is less than four years of age on or before December thirty-first of the school year being reported.
-
-b. The department shall submit to the speaker of the council, and post conspicuously on the department’s website, the following reports regarding application, offer, available seat and enrollment information:
-
-   1. Not later than May 15, 2018, and annually thereafter on or before May 15, a report including, but not limited to (a) for each community school district, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (b) for each school, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year;
-
-   2. Not later than March 15, 2019, and annually thereafter on or before March 15, a report including, but not limited to (a) for each community school district, the total number of students who enrolled in grades pre-kindergarten, kindergarten or six in a school located in such community school district in the current school year; and (b) for each school, the total number of students who enrolled in grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, in the current school year.
-
-The data required to be reported pursuant to this subdivision b shall be disaggregated by (i) community school district of residence of individuals or students, as applicable; (ii) zip code of residence of individuals or students, as applicable; (iii) primary home language of individuals or students, as applicable and (iv) grade level.
-
-c. Not later than May 15, 2018, and annually thereafter on or before May 15, the department shall submit to the speaker of the council and post conspicuously on the department’s website a report that shall include, but not be limited to, for each school, the total number of seats anticipated to be available in the following school year.
-
-d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
-
-
-
-
-
-
 Chapter 15: Distribution of Information Regarding Interactions with Non-Local Law Enforcement
 --------------------------------------------------
 
@@ -998,6 +977,37 @@ c. Prior to the release of any directory information pursuant to the family educ
 d. The department shall ensure that the information required to be distributed by subdivision b is additionally available in each school, each office where the department provides enrollment assistance and on the department's website.
 
 e. Upon any request by non-local law enforcement for access to a student or a student’s records, the department shall notify such student’s parent of such request unless such notification is prohibited by law or by a judicial order or lawfully issued subpoena, and shall provide such student and parent with information on available resources for seeking legal assistance in response to such request.
+
+
+
+
+
+
+Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
+--------------------------------------------------
+
+
+
+*§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve, including early education centers with which the department contracts to provide pre-kindergarten.
+
+   Student. The term "student" means any pupil under the age of twenty-one as of September first of the school year being reported, who does not have a high school diploma and who is enrolled in a school, excluding any child who is less than four years of age on or before December thirty-first of the school year being reported.
+
+b. The department shall submit to the speaker of the council, and post conspicuously on the department’s website, the following reports regarding application, offer, available seat and enrollment information:
+
+   1. Not later than May 15, 2018, and annually thereafter on or before May 15, a report including, but not limited to (a) for each community school district, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (b) for each school, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year;
+
+   2. Not later than March 15, 2019, and annually thereafter on or before March 15, a report including, but not limited to (a) for each community school district, the total number of students who enrolled in grades pre-kindergarten, kindergarten or six in a school located in such community school district in the current school year; and (b) for each school, the total number of students who enrolled in grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, in the current school year.
+
+The data required to be reported pursuant to this subdivision b shall be disaggregated by (i) community school district of residence of individuals or students, as applicable; (ii) zip code of residence of individuals or students, as applicable; (iii) primary home language of individuals or students, as applicable and (iv) grade level.
+
+c. Not later than May 15, 2018, and annually thereafter on or before May 15, the department shall submit to the speaker of the council and post conspicuously on the department’s website a report that shall include, but not be limited to, for each school, the total number of seats anticipated to be available in the following school year.
+
+d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
 
 
 
@@ -1144,57 +1154,6 @@ The department shall distribute to each school for distribution to every student
 
 
 
-Chapter 20: Reporting on Students in Temporary Housing
---------------------------------------------------
-
-
-
-*§ 21-987 [Reporting on students in temporary housing.]* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Borough of origin. The term “borough of origin” means the borough in which a student attended school when permanently housed or the borough of the school in which the student was last enrolled.
-
-   School. The term “school” means a school of the city school district of the city of New York.
-
-   Student. The term “student” means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as defined in section 4410 of the education law.
-
-   Sharing the housing of others. The term “sharing the housing of others” means individuals who have reported to the department that they are living with other persons due to loss of housing, economic hardship or a similar reason.
-
-   Students in temporary housing. The term “students in temporary housing” has the same meaning as that of the term “homeless children and youths” as defined in subsection 2 of section 11434a of title 42 of the United States code, provided that such individuals are enrolled in a school.
-
-b. Not later than November 1, 2018, and annually thereafter on or before November 1, the department shall, in consultation with and as provided by the department of homeless services, the department of social services/human resources administration, the department of youth and community development and the department of housing preservation and development, as necessary, submit to the council and post online a report regarding information on students in temporary housing for the preceding school year. Such report shall include, but not be limited to, the following information:
-
-   1. The total number of students in temporary housing, as reported to the department, disaggregated by school, and further disaggregated by:
-
-      (a) the number of students who are residing in a shelter, disaggregated by whether students are residing in shelters operated by (i) the department of homeless services, (ii) the department of social services/human resources administration, (iii) the department of youth and community development and (iv) the department of housing preservation and development; and
-
-      (b) the number of students sharing the housing of others;
-
-   2. The number of students residing in shelters operated by the department of homeless services who remain enrolled in a school in their borough of origin;
-
-   3. The total number of students residing in shelters operated by the department of homeless services who have transferred to a different school;
-
-   4. The total number of students in temporary housing receiving metrocards;
-
-   5. The total number of students in temporary housing receiving busing;
-
-   6. The percentage of students in temporary housing citywide;
-
-   7. The attendance rate of students in temporary housing;
-
-   8. The retention rate of students in temporary housing; and
-
-   9. The dropout rate of students in temporary housing.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains a number that would allow the number of individuals in another category that is five or fewer to be deduced, the number shall be replaced with a symbol.
-
-
-
-
-
-
 Chapter 19: Reports on Discipline and Certain Emergency Transports of Students
 --------------------------------------------------
 
@@ -1294,17 +1253,51 @@ b. The chancellor shall submit to the council and post to the department's websi
 
 
 
-Chapter 22: Posting of Subdistrict Maps
+Chapter 20: Reporting on Students in Temporary Housing
 --------------------------------------------------
 
 
 
-*§ 21-989 Posting of subdistrict maps.* ::
+*§ 21-987 [Reporting on students in temporary housing.]* ::
 
 
-a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
+a. For the purposes of this section, the following terms have the following meanings:
 
-b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
+   Borough of origin. The term “borough of origin” means the borough in which a student attended school when permanently housed or the borough of the school in which the student was last enrolled.
+
+   School. The term “school” means a school of the city school district of the city of New York.
+
+   Student. The term “student” means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as defined in section 4410 of the education law.
+
+   Sharing the housing of others. The term “sharing the housing of others” means individuals who have reported to the department that they are living with other persons due to loss of housing, economic hardship or a similar reason.
+
+   Students in temporary housing. The term “students in temporary housing” has the same meaning as that of the term “homeless children and youths” as defined in subsection 2 of section 11434a of title 42 of the United States code, provided that such individuals are enrolled in a school.
+
+b. Not later than November 1, 2018, and annually thereafter on or before November 1, the department shall, in consultation with and as provided by the department of homeless services, the department of social services/human resources administration, the department of youth and community development and the department of housing preservation and development, as necessary, submit to the council and post online a report regarding information on students in temporary housing for the preceding school year. Such report shall include, but not be limited to, the following information:
+
+   1. The total number of students in temporary housing, as reported to the department, disaggregated by school, and further disaggregated by:
+
+      (a) the number of students who are residing in a shelter, disaggregated by whether students are residing in shelters operated by (i) the department of homeless services, (ii) the department of social services/human resources administration, (iii) the department of youth and community development and (iv) the department of housing preservation and development; and
+
+      (b) the number of students sharing the housing of others;
+
+   2. The number of students residing in shelters operated by the department of homeless services who remain enrolled in a school in their borough of origin;
+
+   3. The total number of students residing in shelters operated by the department of homeless services who have transferred to a different school;
+
+   4. The total number of students in temporary housing receiving metrocards;
+
+   5. The total number of students in temporary housing receiving busing;
+
+   6. The percentage of students in temporary housing citywide;
+
+   7. The attendance rate of students in temporary housing;
+
+   8. The retention rate of students in temporary housing; and
+
+   9. The dropout rate of students in temporary housing.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains a number that would allow the number of individuals in another category that is five or fewer to be deduced, the number shall be replaced with a symbol.
 
 
 
@@ -1382,31 +1375,17 @@ g. Nothing in this section shall be construed to affect the authority or materia
 
 
 
-Chapter 24: Distribution of Information Regarding Civil Service Examinations
+Chapter 22: Posting of Subdistrict Maps
 --------------------------------------------------
 
 
 
-*§ 21-991 Distribution of information regarding civil service examinations administered by the department of citywide administrative services.* ::
+*§ 21-989 Posting of subdistrict maps.* ::
 
 
-a. Definitions. For purposes of this section, the term “school” means a school of the city school district of the city of New York.
+a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
 
-b. No later than November 1, 2019, and annually thereafter no later than November 1 of each year, the department of citywide administrative services shall provide and the department shall distribute to each school, to be shared with every student of such school who will be graduating from high school in the current school year, the following information in writing, in hard copy or electronically if availability of similar documents occurs electronically, using plain and simple language:
-
-   1. General information about the city’s civil service process, including the related application process, hiring system, descriptions of what such tests will include and the scoring process for such examinations;
-
-   2. The title of each upcoming civil service examination that is open to high school graduates, along with the relevant job descriptions and the relevant salaries;
-
-   3. The testing period for each such civil service examination and the related application and scheduling period, with a note that exact dates and times for both periods are usually released online each month;
-
-   4. Applicable fees for each such civil service examination, including information on fee waivers;
-
-   5. A link to the online application system for civil service examinations;
-
-   6. A link to the civil service examination information page of the department of citywide administrative services website, with a note that this online page contains additional and up-to-date information about examination locations and timing and job eligibility requirements; and
-
-   7. Any other information that the department deems relevant.
+b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
 
 
 
@@ -1432,6 +1411,37 @@ a. Definitions. For the purposes of this section, the following terms have the f
 b. Not later than December 1, 2019, and on or before December 1 annually thereafter, the department shall submit to the speaker of the council and post on the department’s website a report regarding the income and total expenditure for each PA and PTA in the prior school year.
 
 c. All information required to be reported by this section shall be aggregated citywide, as well as disaggregated by community school district and school. Information disaggregated by school shall be further disaggregated by student demographic information, including but not limited to race and ethnicity and English language learner status.
+
+
+
+
+
+
+Chapter 24: Distribution of Information Regarding Civil Service Examinations
+--------------------------------------------------
+
+
+
+*§ 21-991 Distribution of information regarding civil service examinations administered by the department of citywide administrative services.* ::
+
+
+a. Definitions. For purposes of this section, the term “school” means a school of the city school district of the city of New York.
+
+b. No later than November 1, 2019, and annually thereafter no later than November 1 of each year, the department of citywide administrative services shall provide and the department shall distribute to each school, to be shared with every student of such school who will be graduating from high school in the current school year, the following information in writing, in hard copy or electronically if availability of similar documents occurs electronically, using plain and simple language:
+
+   1. General information about the city’s civil service process, including the related application process, hiring system, descriptions of what such tests will include and the scoring process for such examinations;
+
+   2. The title of each upcoming civil service examination that is open to high school graduates, along with the relevant job descriptions and the relevant salaries;
+
+   3. The testing period for each such civil service examination and the related application and scheduling period, with a note that exact dates and times for both periods are usually released online each month;
+
+   4. Applicable fees for each such civil service examination, including information on fee waivers;
+
+   5. A link to the online application system for civil service examinations;
+
+   6. A link to the civil service examination information page of the department of citywide administrative services website, with a note that this online page contains additional and up-to-date information about examination locations and timing and job eligibility requirements; and
+
+   7. Any other information that the department deems relevant.
 
 
 
