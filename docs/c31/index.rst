@@ -4976,7 +4976,9 @@ The inspections set forth in sections 28-116.2.1 through 28-116.2.4 are required
 *§ 28-116.2.1 Preliminary inspection.* ::
 
 
-Before approving construction documents, the commissioner is authorized to examine or cause to be examined structures or premises for which an application has been filed.
+Before approving construction documents, the commissioner is authorized to examine or cause to be examined structures or premises for which an application has been filed. The department shall conduct preliminary inspections of no less than 20 percent of buildings containing six or more units where (i) an application for construction documents is submitted to the department and (ii) the applicant has indicated that the building that is the subject of such application is unoccupied, in order to verify the occupancy status of such sites.
+
+
 
 
 
@@ -5929,7 +5931,9 @@ The commissioner shall classify the following violations as major violations:
 
 The commissioner shall classify the following violations as lesser violations:
 
-1. A violation of item 5 of section 1110.1 or of section 1110.2 of the New York city building code, or a violation of section 28-313.1 or 28-313.2 of the administrative code of the city of New York.
+1. A violation of item 5 of section 1110.1, of section 1110.2, or of item 7 of section 1110.3 of the New York city building code, or a violation of section 28-313.1, 28-313.2 or 28-313.3 of the administrative code of the city of New York.
+
+
 
 
 

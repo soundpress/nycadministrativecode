@@ -1229,9 +1229,9 @@ a. Definitions. As used in this section, the following terms have the following 
 
    Youth recreation. The term "youth recreation" means athletic activity with participants who are all 17 years old or younger, but includes grade school through high school athletic programs regardless of the age of the participants.
 
-b. Subject to the provision of a sufficient number of automated external defibrillators and training courses by the department pursuant to subdivision c, a youth league using a ballfield under the jurisdiction and management of the department to play or practice baseball or softball shall:
+b. Subject to the provision of a sufficient number of automated external defibrillators and training courses by the department pursuant to subdivision c or subdivision m, a youth league using a ballfield under the jurisdiction and management of the department to play or practice baseball or softball, or any other youth league provided with an automated external defibrillator pursuant to this section shall:
 
-   1. make available an automated external defibrillator at every baseball or softball game and practice in which any team in such league participates; and
+   1. make available an automated external defibrillator at every game and practice occurring at such field in which a team of such league participates; and
 
    2. where practicable, ensure that there is at least one coach, umpire or other qualified adult who is present at each such game and practice who has successfully completed a training course within 24 months of every such game and practice.
 
@@ -1256,6 +1256,8 @@ j. No ballfield permit shall be issued to any youth league that has a past due o
 k. The provision of automated external defibrillators and training courses authorized by this section shall be limited to the appropriation of funds available for this program. To the extent the department anticipates that the number of automated external defibrillators and training courses requested by youth leagues will exceed the funds available, the department shall provide such defibrillators and training courses authorized by subdivision c on an equitable basis until such funds are exhausted.
 
 l. The commissioner of the department shall promulgate any rules as may be necessary for the purposes of carrying out the provisions of this section.
+
+m. If the department has any undistributed automated external defibrillators remaining after complying with subdivision c of this section, the department may distribute such automated external defibrillators to any other youth league at no cost to such youth league. Any automated external defibrillator so distributed shall be returned in satisfactory condition upon request of the department.
 
 
 

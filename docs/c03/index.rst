@@ -706,13 +706,17 @@ a. Definitions. As used in this section, the following terms have the following 
 
    Training course. The term "training course" means a course approved by a nationally-recognized organization or the state emergency medical services council in the operation of automated external defibrillators.
 
-   Youth baseball league. The term "youth baseball league" means baseball leagues with participants who are all 17 years old or younger, but includes grade school through high school athletic programs regardless of the age of the participants, other than the public school leagues, including school leagues, little leagues, community based organization leagues, and unaffiliated leagues.
+   Youth baseball league. The term "youth baseball league" means a youth league that plays baseball.
 
-   Youth softball league. The term “youth softball league” means softball leagues with participants who are all 17 years old or younger, but includes grade school through high school athletic programs regardless of the age of the participants, other than the public school leagues, including school leagues, little leagues, community based organization leagues, and unaffiliated leagues.
+   Youth league. The term "youth league" means youth recreation sports leagues other than the public school leagues, including school leagues, little leagues, community based organization leagues, and unaffiliated leagues.
 
-b. Subject to the provision of a sufficient number of automated external defibrillators and training courses by the department pursuant to subdivision c, a youth baseball league or youth softball league using a field for which the department is the lessor shall:
+   Youth recreation. The term "youth recreation" means athletic activity with participants who are all 17 years old or younger, but includes grade school through high school athletic programs regardless of the age of the participants.
 
-   1. make available an automated external defibrillator at every baseball or softball game and practice occurring at such field in which a team of such league participates; and
+   Youth softball league. The term “youth softball league” means a youth league that plays softball.
+
+b. Subject to the provision of a sufficient number of automated external defibrillators and training courses by the department pursuant to subdivision c or subdivision k, a youth league provided with an automated external defibrillator pursuant to this section using a field for which the department is the lessor shall:
+
+   1. make available an automated external defibrillator at every game and practice occurring at such field in which a team of such league participates; and
 
    2. where practicable, ensure that there is at least one coach, umpire or other qualified adult who is present at each such game and practice who has successfully completed a training course within 24 months of each such game and practice.
 
@@ -726,11 +730,13 @@ f. Nothing contained in this section imposes any duty or obligation on any perso
 
 g. Nothing contained in this section affects the obligations or liability of emergency health providers pursuant to section 3000-b of the New York state public health law.
 
-h. Any youth baseball league or youth softball league that violates the provisions of subdivision b shall receive a warning for a first violation, and shall be liable for a civil penalty of $500 for each subsequent violation, recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings. Any youth baseball league or youth softball league that violates the provisions of subdivision c shall be liable for a civil penalty of no more than $2,500 for each automated external defibrillator that is not returned in satisfactory condition, recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings.
+h. Any youth league that violates the provisions of subdivision b shall receive a warning for a first violation, and shall be liable for a civil penalty of $500 for each subsequent violation, recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings. Any youth league provided with a device pursuant to this section that violates the provisions of subdivision c or subdivision k shall be liable for a civil penalty of no more than $2,500 for each automated external defibrillator that is not returned in satisfactory condition, recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings.
 
 i. The provision of automated external defibrillators and training courses authorized by this section shall be limited to the appropriation of funds available for this program. To the extent the department anticipates that the number of automated external defibrillators and training courses requested by youth baseball leagues and youth softball leagues will exceed the funds available, the department shall provide such defibrillators and training courses authorized by subdivision c on an equitable basis until such funds are exhausted.
 
 j. The commissioner of the department shall promulgate any rules as may be necessary for the purposes of carrying out the provisions of this section.
+
+k. If the department has any undistributed automated external defibrillators remaining after complying with subdivision c of this section, the department may distribute such automated external defibrillators to any other youth league at no cost to such youth league. Any automated external defibrillator so distributed shall be returned in satisfactory condition upon request of the department.
 
 
 
