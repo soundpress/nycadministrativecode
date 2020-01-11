@@ -130,6 +130,50 @@ Pursuant to the provisions of this section, the department of information techno
 
 
 
+
+
+*§ 23-304 Parking complaints.* ::
+
+
+a. The department of information technology and telecommunications shall implement and maintain on its 311 citizen center website and mobile device platforms the capability for the public to file a complaints under the category of “illegal parking.”
+
+b. Within such category, the public shall have the ability to submit complaints regarding improper use of a parking permit and complaints for parking in any of the following locations:
+
+   1. parking in “no standing” area;
+
+   2. parking in “no stopping” area;
+
+   3. parking on sidewalk;
+
+   4. parking in crosswalk;
+
+   5. parking in front of fire hydrant;
+
+   6. parking at bus stop;
+
+   7. parking in bus lane;
+
+   8. parking in bicycle lane;
+
+   9. parking as to obstruct a driveway; and
+
+   10. double parking.
+
+c. With respect to complaints filed pursuant to subdivision b, the public shall have ability to:
+
+   1. include information about whether the vehicles used were operated on behalf of the city; and
+
+   2. submit photographic evidence supporting such complaint.
+
+d. 1. The resolution of a complaint submitted pursuant to subdivision b alleging improper use of a parking permit shall be sent to the individual filing such complaint within eight hours.
+
+   2. On a monthly basis, no later than February 15, 2020, the department of information technology and telecommunications shall publish a report containing data for the previous month that shall include, but not be limited to, the number of complaints of illegal parking of vehicles operated on behalf of the city in the types of locations set forth in subdivision b.
+
+
+
+
+
+
 Chapter 4: [Public Pay Telephones]
 --------------------------------------------------
 

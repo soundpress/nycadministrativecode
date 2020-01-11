@@ -14503,6 +14503,149 @@ Applicants for a lift director registration shall submit satisfactory proof esta
 
 
 
+
+
+
+**Article 425: Elevator Agency Technician License**
+
+
+
+*§ 28-425.1 Elevator agency technician license required.* ::
+
+
+It shall be unlawful to perform elevator work as defined in this chapter, unless that work is performed by or under the direction of an elevator agency technician and under the supervision of a designated director of an elevator agency licensed pursuant to article 421 of this chapter.
+
+
+
+
+
+
+
+
+*§ 28-425.2 Restricted elevator agency technician license.* ::
+
+
+A restricted class of lift mechanic license shall be known as "accessibility technician". Such class of license shall be restricted to performing work involving platform lifts including those installed in private residences which are covered by the provisions of ASME (American society of mechanical engineers) codes and standards A18.1-2005. An applicant for such restricted license shall complete an application approved by the board and shall have at least three years verified work experience in constructing, maintaining and repairing those lifts covered by ASME A18.1-2005 and shall provide to the commissioner a certificate of completion of an accessibility training program for lifts under the scope of A18.1-2005 such as the certified accessibility training provided by the national association of elevator contractors, or an equivalent program as deemed by the department.
+
+
+
+
+
+
+
+
+*§ 28-425.3 Qualifications.* ::
+
+
+All applicants for an elevator agency technician's license shall submit satisfactory proof establishing that the applicant has satisfactorily completed, within two years prior to the date of application, a course that is at least ten hours in length and approved by the United States department of labor and the occupational safety and health administration in general industry training; and also satisfies one of the following qualifications:
+
+1. Acceptable proof that he or she has worked on elevator construction, maintenance or repair with direct and immediate supervision in this state for a period of not less than four years immediately prior to the effective date of this article, provided that such applicant shall file such application within one year of release and access to the licensing application as defined in this article; or
+
+2. Successful completion of a training program of at least four years for elevator maintenance, installation or repair, registered with the bureau of apprenticeship and training, United States department of labor or a New York state apprenticeship council, including but not limited to the national elevator industry elevator educational program; or
+
+3. A certificate of successful completion and successfully passing the mechanic examination of a nationally recognized training program for the elevator industry including, but not limited to, the national elevator industry educational program or its equivalent; or
+
+4. A certificate of successful completion of the joint apprentice and training committee of the elevator industry of local 3, IBEW, EE division training program or an apprenticeship program for elevator mechanics, having standards substantially equal to those of this chapter, and registered with the bureau of apprenticeship and training, U.S. department of labor or a state apprenticeship council. No licensing fees shall be charged to any individual who holds a New York state elevator mechanics license and seeks a New York city elevator technicians license.
+
+
+
+
+
+
+
+
+
+**Article 426: Elevator Agency Helper**
+
+
+
+*§ 28-426.1 Qualifications.* ::
+
+
+The agency may, by rule, establish qualifications for elevator agency helpers.
+
+
+
+
+
+
+
+
+
+**Article 427: Permits**
+
+
+
+*§ 28-427.1 Applications and permits.* ::
+
+
+All applications/permits issued to elevator contractors shall appear on the department of buildings website within forty-eight hours of issuance. The information required to be published must include, at a minimum, the date of issuance, the work covered by the permit, the elevator contractor or contractors involved and location and type of work to be performed. The department shall maintain and publish a registry of all licensed elevator agency helpers, technicians, and inspectors, which shall list and identify, all licensed elevator agency helpers, technicians, and inspectors, doing business in the city of New York. The department shall make the registry available on its website.
+
+
+
+
+
+
+
+
+*§ 28-427.2 Licensing and permitting exemptions.* ::
+
+
+Whenever an emergency exists in this state due to a disaster or act of god, which imperils the health, safety or welfare of an individual or individuals and placing such individual or individuals in imminent danger of injury or death and the number of persons in the state holding licenses granted by the board is insufficient to cope with such emergency, any person certified by a licensed elevator contractor to have an acceptable combination of documented experience and education to perform elevator work without direct and immediate supervision shall seek an emergency elevator mechanic's license from the commissioner within five business days after commencing work requiring a license. The commissioner shall issue emergency elevator mechanic's licenses to address the emergency that exists. The licensed elevator contractor shall furnish proof of competency as the commissioner may require. Each such license shall recite that it is valid for a period of fifteen days from the date thereof and for such particular elevators or geographical areas as the commissioner may designate to address the emergency and otherwise shall entitle the licensee to the rights and privileges of an elevator mechanic's license issued in this article. The commissioner shall renew an emergency elevator mechanic's license during the existence of an emergency as needed. No fee shall be charged for any emergency elevator mechanic's license or renewal thereof.
+
+
+
+
+
+
+
+
+*§ 28-427.3 License renewal.* ::
+
+
+The renewal of all licenses granted under the provisions of this section shall be conditioned upon the submission of a certificate of completion of a course designed to ensure the continuing education of licensees on new and existing national, state, and local conveyances codes and standards and on technology and technical education and workplace safety. Such course shall consist of not less than eight hours annually and completed preceding any such license renewal. The commissioner shall establish requirements for continuing education and training programs, and shall approve such programs, as well as maintain a list of approved programs, which shall be made available to license applicants, permit applicants, renewal applicants and other interested parties upon request. The commissioner shall promulgate rules and regulations setting forth the criteria for approval of such programs, the procedures to be followed in applying for such approval, and other rules and regulations as the commissioner deems necessary and proper to effectuate the purposes of this section. The renewal of all licenses granted under the provisions of this section shall be conditioned upon the submission of a certificate of completion of a course designed to ensure the continuing education of licensees on new and existing regulations of the department. Such course shall consist of not less than eight hours of instruction that shall be attended and completed annually prior to any such license renewal. The courses shall be taught through continuing education providers that may include, but shall not be limited to, association seminars, and labor training programs or programs that deliver an approved apprenticeship and are registered with the department or the New York state apprenticeship training council. The commissioner shall approve the continuing education providers.
+
+
+
+
+
+
+
+
+*§ 28-427.4 Renewal fees.* ::
+
+
+The commissioner shall assess a fee for each training program completion certificate and for each refresher training program completion certificate, provided, however, that in no event shall the cost of such certificates be assessed by the sponsor of such training program against the participants.
+
+
+
+
+
+
+
+
+*§ 28-427.5 Recordkeeping.* ::
+
+
+All instructors shall be exempt from the requirements of the preceding section with regard to their application for license renewal provided that such applicant was qualified as an instructor at any time during the one year immediately preceding the scheduled date for such renewal. Approved training providers shall keep uniform records, for a period of six years, of attendance of licensees following a format approved by the commissioner and such records shall be available for inspection by the commissioner at his or her request. Approved training providers shall be responsible for the security of all attendance records and certificates of completion; provided, however, that falsifying or knowingly allowing another to falsify such attendance records or certificates of completion shall constitute grounds for suspension or revocation of the approval required under this section.
+
+
+
+
+
+
+
+
+*§ 28-427.6 Equivalency.* ::
+
+
+The commissioner shall accept an elevator mechanic's license issued to any person over the age of eighteen years by the state of New York as equivalent to an elevator agency technician license in cities with populations of one million more, as defined in this article, without examination, application or fee, provided that they register annually with the agency.
+
+
+
+
+
+
 Chapter 5: Miscellaneous Provisions
 --------------------------------------------------
 

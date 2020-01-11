@@ -1749,6 +1749,112 @@ h. Notwithstanding any other provision of law, no vehicle bearing an annual on-s
 
 
 
+*§ 19-162.4 Comprehensive plan for city-issued parking permits.* ::
+
+
+a. For the purposes of this section, the term “city-issued parking permit” means a permit issued by a city agency that indicates permission to park in certain areas during certain times has been granted.
+
+b. By November 1, 2020, each city agency making use of city-issued parking permits shall develop a plan regarding the distribution and use of city-issued parking permits by such agency. Such plans shall be submitted to an agency or office as designated by the mayor which shall, by December 1, 2020, review such plans and develop a comprehensive plan, which shall make use of and include each issuing agency’s plan. Such comprehensive plan shall be posted online. Such agency plans shall include, but need not be limited to, the following:
+
+   1. criteria for the distribution and retention of city-issued parking permits;
+
+   2. an assessment of the appropriate number of city-issued parking permits necessary for essential government services; and
+
+   3. proposed steps to curb unnecessary or excessive issuance of city-issued parking permits.
+
+c. Such agency plans and the comprehensive plan shall be reviewed at least once every five years and may be revised as appropriate. Any such revision of the comprehensive plan shall be submitted to the council and the mayor and posted online within 30 days of the completion of such revision.
+
+
+
+
+
+
+
+
+*§ 19-162.3 City-issued parking permits.* ::
+
+
+a. Definition. For purposes of this section, the term “city-issued parking permit” means a permit issued by the department or the department of education, if the commissioner has delegated authority to the department of education pursuant to subdivision b, that indicates permission to park in certain areas during certain times has been granted. The term shall not include a parking permit issued pursuant to sections 19-162.1 or 19-162.2, a parking permit issued to individuals with disabilities, or a single-use parking permit.
+
+b. Issuance. Notwithstanding any other provision of law, and except as provided in section 14-183, no other city agency shall issue a permit that indicates permission to park in certain areas during certain times has been granted; however, the commissioner may delegate authority to the department of education to issue such permits. In the event of such delegation, city-issued parking permits issued by the department of education shall continue to be subject to the requirements of subdivisions c, d, e, f, h, and i and any applicable rules promulgated by the department pursuant to subdivision g.
+
+c. Term. A city-issued parking permit shall be valid for no more than one year unless suspended or revoked.
+
+d. Application.
+
+   1. Each person applying for a city-issued parking permit or renewal thereof on behalf of themselves, their agency or non-profit entity shall file an application in such form and detail as the commissioner may prescribe, which may include inputting the required information into a permit application system.
+
+   2. An application for a city-issued parking permit or renewal thereof shall include, but need not be limited to, the following information:
+
+      (a) if applying on behalf of a city agency, the name of the city agency and the employee’s relationship to such agency if issued to an individual;
+
+      (b) the license plate number of the vehicle or vehicles to be associated with such permit when associated with a specific vehicle or vehicles; and
+
+      (c) a statement articulating the justification for the permit need.
+
+   3. Upon the approval of an application, the department shall issue a city-issued parking permit to the applicant that may only be used with the vehicle or vehicles identified on such application when the permit is to be used with specific vehicles.
+
+   4. City-issued parking permits shall not be transferrable to another person or vehicle if issued to a specific individual or vehicle.
+
+   5. Whenever any information provided on such an application has changed, such agency shall notify the department within 10 days of such change.
+
+e. Form of permits. A city-issued parking permit may be a physical permit or a programmable feature associated with a license plate number and shall contain the name of the sponsoring city agency, the expiration date of the permit, and a unique identifier or other technology designed to allow the city to detect valid permits. Such permit may contain any additional information or features as required by the department.
+
+f. Permissible uses.
+
+   1. Parking with a city-issued parking permit shall be permitted in areas specified on or programmed into the permit and may allow for parking in some or all of the following areas:
+
+      (a) at parking meters;
+
+      (b) in truck loading and unloading zones;
+
+      (c) in “no standing/parking” areas except “authorized vehicles” or “authorized vehicle only”, when such permit authorizes such use; and
+
+      (d) in “no parking” areas.
+
+   2. Parking with a city-issued parking permit shall not be permitted in the following areas, in addition to any areas designated by rule or specified on or programmed into the permit:
+
+      (a) “no standing” areas;
+
+      (b) “no stopping” areas;
+
+      (c) fire hydrants;
+
+      (d) bus stops;
+
+      (e) areas where such parking would constitute double parking;
+
+      (f) driveways;
+
+      (g) bridges and highways; and
+
+      (h) carsharing parking spaces.
+
+g. Rules. The department may promulgate such rules as are necessary to implement the provisions of this section.
+
+h. Violations. Any violation of subdivision d of this section involving a material false statement or material fact concealed in connection with an application for a city-issued parking permit or renewal thereof shall upon conviction thereof be punishable by a civil penalty of not less than $250 nor more than $1,000. Civil violations issued pursuant to this section shall be adjudicated at the environmental control board or any tribunal established within the office of administrative trials and hearings designated by the commissioner.
+
+i. Posting information. No later than January 31, 2021, the department and agencies delegated to issue parking permits by the commissioner shall post information online regarding the issuance of city-issued parking permits, including, but not limited to, the number of applications submitted and the number of such permits issued in the previous year, disaggregated by the sponsoring city agency in the case of the department. Such information shall be updated at least annually.
+
+
+
+
+
+
+
+
+*§ 19-162.5 City vehicle obstructing a bicycle lane, bus lane, sidewalk, crosswalk, or fire hydrant.* ::
+
+
+No vehicle operated on behalf of the city shall obstruct a bicycle lane, bus lane when bus lane restrictions are in effect, sidewalk, crosswalk, or fire hydrant, except as otherwise permitted by law.
+
+
+
+
+
+
+
+
 *§ 19-163 Holiday suspensions of parking rules.* ::
 
 
@@ -1823,6 +1929,26 @@ Any person who without permission of the commissioner of transportation:
 5. Makes or engraves, or causes or procures to be made or engraved, or willingly aids or assists in making or engraving, upon any plate or other means of reproduction, any figures or words with intent that the same may be used for the purpose of altering any genuine card hereinbefore indicated or mentioned; or
 
 6. Has in his or her custody or possession any of the cards hereinbefore mentioned, or any copy or reproduction thereof; is guilty of an offense punishable by a fine of not less than two hundred fifty dollars, or imprisonment for not more than thirty days, or both.
+
+
+
+
+
+
+*§ 19-166.1 Misuse of city-issued parking permits.* ::
+
+
+a. For the purposes of this section, the term “city-issued parking permit” means a permit issued by a city agency that indicates permission to park in certain areas during certain times has been granted.
+
+b. City-issued parking permits shall be revoked in accordance with disciplinary procedures of the police department with regard to permits issued pursuant to section 14-183, and in accordance with procedures established by the department of transportation for all other city-issued parking permits from those individuals found guilty of:
+
+   1. three or more violations of a rule or law relating the misuse of a city-issued parking permit
+
+   2. notwithstanding paragraph 1 of this subdivision b, any violation of section 19-166; or
+
+   3. unpaid parking or traffic violations associated with the license plate or individual permit holder in excess of $350.
+
+
 
 
 
@@ -5544,29 +5670,6 @@ Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the 
 
 
 
-Chapter 8: Citywide Transit Study
---------------------------------------------------
-
-
-
-*§ 19-801 Citywide transit study.* ::
-
-
-a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
-
-   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
-
-   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
-
-   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
-
-b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
-
-
-
-
-
-
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
 --------------------------------------------------
 
@@ -5845,6 +5948,29 @@ The department, the commission on human rights and operators of any water borne 
 
 
 If any section, subdivision, sentence, clause, phrase or other portion of the local law that added this chapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of the local law that added this chapter, which remaining portions shall continue in full force and effect.
+
+
+
+
+Chapter 8: Citywide Transit Study
+--------------------------------------------------
+
+
+
+*§ 19-801 Citywide transit study.* ::
+
+
+a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
+
+   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
+
+   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
+
+   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
+
+b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
+
+
 
 
 
