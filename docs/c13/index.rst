@@ -2062,6 +2062,18 @@ d. The department shall report each month on summonses issued for misuse of a ci
 
 
 
+
+
+*§ 14-184 Removal of vehicles obstructing traffic.* ::
+
+
+When a vehicle is situated so as to constitute an obstruction of a sidewalk, crosswalk, fire hydrant, bicycle lane, or bus lane and such vehicle is unattended or the person in charge of such vehicle has not arranged for its immediate removal, a person designated by the commissioner may direct its removal by a police department tow truck upon a determination that such vehicle poses a threat to safety or would inhibit the safe and expeditious passage of buses operated by the metropolitan transportation authority.
+
+
+
+
+
+
 Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
 --------------------------------------------------
 

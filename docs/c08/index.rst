@@ -734,24 +734,58 @@ Editor's note: the local law that enacted the above § 9-135 provides, in part, 
 
 
 
-*§ 9-136 Grievance statistics.* ::
+*§ 9-136 Grievance process.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
 
-   Grievance. The term "grievance" means a written complaint submitted by an inmate in the custody of the department about an issue, condition, practice or action relating to the inmate's confinement that is subject to the inmate grievance and request program or any successor program.
+   Appeal. The term "appeal" means the action taken when an incarcerated individual's grievance is escalated to a higher level within the grievance process to review decisions regarding resolutions of grievances by incarcerated individuals.
 
-   Inmate grievance and request program. The term "inmate grievance and request program" means a formal process established by the department that provides inmates with the opportunity to resolve issues regarding their confinement through a structured process.
+   Grievable complaint. The term "grievable complaint" means a complaint handled by the office of constituent and grievance services. The term includes but is not limited to a complaint regarding classification, clothing, commissary, correspondence, employment, environmental, food, inmate account, housing, length of sentence, laundry, law library, medical, mental health, personal hygiene, phone, programs, property, recreation, religion, rules and regulations, school, search, social service, transportation, and visits.
 
-b. Forty-five days after the quarter beginning January 1, 2016, and no later than the forty-fifth day after the end of each subsequent quarter, the commissioner shall post on the department website a report containing the following information for the preceding quarter:
+   Non-grievable complaint. The term "non-grievable complaint" means any complaint which is not handled by the office of constituent and grievance services, including but not limited to a complaint regarding an allegation of assault, sexual assault/abuse, and verbal misconduct from a staff member; an allegation of assault, sexual assault/abuse, and non-sexual harassment from another incarcerated individual; individual security status; medical and mental health staff; request for accommodation due to a disability or claim of discrimination based on disability or perceived disability; request for protective custody; freedom of information laws, housing, and the grievance process.
 
-   1. The number of grievances submitted in all departmental facilities, in total and disaggregated by the facility and housing area type in which such grievance was submitted.
+   Office of constituent and grievance services. The "office of constituent and grievance services" means the unit within the department that facilitates a formal process established by the department that provides incarcerated individuals with the opportunity to resolve grievable complaints regarding their confinement.
 
-   2. The number of grievances submitted in all departmental facilities, disaggregated by grievance category, by the facility and housing area type in which such grievance was submitted, and by the method by which such grievance was submitted.
+b. Forty-five days after the quarter beginning January 1, 2016, and no later than the forty-fifth day after the end of each subsequent quarter, the commissioner shall post on the department website a report containing the following information for the preceding quarter, in addition to all information in paragraphs 1 through 5 of section d in the aggregate
 
-   3. The number of grievances, the stages of the grievance process, the stage in the grievance process at which they were resolved, and the categories for which any grievances were dismissed.
+   1. The number of grievable and non-grievable complaints submitted in all departmental facilities, in total and disaggregated by the facility and housing area type in which such grievance was submitted.
 
-   4. The number of inmates that submitted grievances.
+   2. The number of grievable and non-grievable complaints submitted in all departmental facilities, disaggregated by grievance category, by the facility and housing area type in which such grievance was submitted, and by the method by which such grievance was submitted.
+
+   3. The number of grievable complaints, the stages of the grievance process, the stage in the grievance process at which they were resolved, and the categories for which any grievances were dismissed.
+
+   4. For non-grievable complaints, where such complaints were referred;
+
+   5. The number of incarcerated individuals that submitted grievances.
+
+c. Reserved.
+
+d. The department shall utilize an electronic tracking system to record all grievable and non-grievable complaints handled by the office of constituent and grievance services and shall provide the board of correction access to such system. Such system shall track the following:
+
+   1. Whether a complaint is subject to the process established by the office of constituent and grievance services, and if not, if and where the incarcerated individual was directed;
+
+   2. Whether the incarcerated individual pursued an appeal;
+
+   3. How and when the complaint was resolved, and at what stage the complaint was resolved;
+
+   4. Whether the complaint was made by the affected incarcerated person, an attorney or other advocate, a public official, or another third party;
+
+   5. The housing facility and housing area type where the complaint was made;
+
+e. Complaints and requests made by or on behalf of an incarcerated individual to 311 and forwarded to the department shall be addressed by the office of constituent and grievance services.
+
+f. The department shall ensure equal access to the office of constituent and grievance services, including the following procedures:
+
+   1. Evaluating the need for grievance boxes and strategically placing a number of boxes in locations where individuals in department custody frequently congregate, and at least one box in each facility.
+
+   2. Placing a number of dedicated personnel in each housing unit to conduct outreach.
+
+   3. Developing caseload guidelines for grievance coordinators and officers.
+
+g. The department shall install grievance kiosks in each facility where incarcerated individuals may file grievances electronically by January 2026. Such kiosks shall be accessible in multiple languages and shall provide incarcerated individuals physical receipts confirming filing. If a request made through the kiosk is not subject to the inmate grievance and review process, the kiosks shall provide incarcerated individuals with information regarding where the grievance should be redirected.
+
+h. Incarcerated individuals unable to read, access, or understand the grievance process shall be provided with assistance necessary to meaningfully engage in such process.
 
 
 
@@ -810,6 +844,10 @@ d. The department shall publish on its website any documents created pursuant to
 e. Within 24 hours of admission to the custody of the department, the department shall provide to each inmate an oral summary of the rights and responsibilities enumerated in subdivisions a, b, and c of this section in the inmate's preferred language, if the language is accessible through the city's language access plan. The department shall make a good faith effort to provide an oral summary in languages that are not accessible through the city's language access plan as soon as practicable.
 
 f. Upon admission to the custody of the department, each inmate shall also be offered the option of being provided the Connections guidebook for formerly incarcerated people, or any similar or successor book or handbook that describes resources available to those re-entering society after being incarcerated.
+
+g. The department shall inform all incarcerated individuals in writing, using plain and simple language, of the protections against retaliation for filing a grievance, complaint, or request. The department shall also inform all incarcerated individuals in writing and in plain and simple language upon the filing of a grievance, complaint, or request, about which complaints are not subject to the grievance process; the process for resolving such complaints; and the protections against retaliation for filing such grievance, complaint, or request. Grievable complaints made through 311, to the board of correction, by email, by attorneys or other advocates, public officials, or other third parties on behalf of an incarcerated individual and over the phone shall be addressed by the office of constituent and grievance services.
+
+h. The department shall include on all grievance forms instructions on how to appeal resolutions and post such forms on the department’s website.
 
 
 

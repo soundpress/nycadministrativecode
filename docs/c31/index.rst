@@ -1369,6 +1369,18 @@ The department shall provide, free of charge, a service allowing users to regist
 
 
 
+*§ 28-103.36 Bird friendly design and construction requirements.* ::
+
+
+The department shall issue, and update as necessary, bird friendly building design and construction requirements. No later than October 1, 2020, the department shall post on its website such requirements and information about compliance with section 1403.8 of the New York city building code.
+
+
+
+
+
+
+
+
 
 **Article 104: Construction Documents**
 
