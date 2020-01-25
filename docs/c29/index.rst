@@ -3629,3 +3629,74 @@ By September 1, 2021 and by September 1 of each year thereafter, the department 
 
 
 
+Chapter 28: Set Asides in Housing Development Projects for Homeless Individuals and Families
+--------------------------------------------------
+
+
+
+*§ 26-2801 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+City financial assistance. The term "city financial assistance" means any loans, grants, tax credits, tax exemptions, tax abatements, subsidies, mortgages, debt forgiveness, land conveyances for less than appraised value or other thing of value allocated, conveyed or expended by the city other than as-of-right assistance, tax abatements or benefits, including but not limited to, benefits approved in accordance with sections 421-a or 489 of the real property tax law, or any assistance provided to a developer for a housing development project or a housing preservation project, the amount of which is based on an evaluation of as-of-right assistance, tax abatement or benefits for which such developer would have been eligible.
+
+Class A dwelling unit. The term "class A dwelling unit" means a dwelling unit in a class A multiple dwelling, as defined in section 4 of the multiple dwelling law.
+
+Department. The term "department" means the department of housing preservation and development.
+
+Developer. The term "developer" means an individual, sole proprietorship, partnership, joint venture, corporation or other entity that receives city financial assistance for a housing development project or a housing preservation project.
+
+Dwelling unit offered for rent. The term "dwelling unit offered for rent" means a class A dwelling unit that is: (i) occupied on a rental basis; or (ii) required pursuant to a regulatory agreement with a federal, state or local government agency to be offered for occupancy on a rental basis, regardless of whether such unit has been constructed.
+
+Housing development project. The term "housing development project" means construction of any multiple dwelling of no less than 41 new dwelling units offered for rent; provided that such multiple dwelling is subject to a regulatory agreement with a federal, state or local government agency, and provided, further, that the term "housing development project" shall not include any rehabilitation of a multiple dwelling or any construction of (i) any multiple dwelling that is owned by a limited-profit housing company organized pursuant to article 2 of the private housing finance law; or (ii) any multiple dwelling on HUD restricted land in which less than 100 percent of the class A dwelling units are subject to a regulatory agreement requiring that occupancy of such units be restricted based on the income of the occupants.
+
+Housing preservation project. The term "housing preservation project" means rehabilitation or alteration of any multiple dwelling by a developer that preserves at least one dwelling unit offered for rent; provided that such multiple dwelling is subject to a regulatory agreement with a federal, state or local government agency, and provided, further, that the term "housing preservation project" shall not include any rehabilitation or alteration of any multiple dwelling that is owned by a limited-profit housing company organized pursuant to article 2 of the private housing finance law, and shall not include any rehabilitation or alteration of any multiple dwelling on HUD restricted land.
+
+HUD restricted land. The term "HUD restricted land" means land that was subject to a declaration of trust or restrictive covenant in favor of the United States department of housing and urban development for the purpose of public housing.
+
+On-site supportive services. The term "on-site supportive services" means the provision of services to residents that may include, but are not limited to, assistance with the physical health, mental health, and substance abuse needs of such residents.
+
+Receives. The term "receives" means the execution of a written instrument that sets forth the provision of city financial assistance to a developer.
+
+Rehabilitation. The term "rehabilitation" means correction and restoration to a better condition, which includes but is not limited to:
+
+   (i) projects involving demolition of a multiple dwelling, reconstruction of a multiple dwelling in place of the demolished multiple dwelling and provision to tenants of such demolished multiple dwelling an opportunity to occupy the reconstructed multiple dwelling; and
+
+   (ii) projects involving demolition of dwelling units in a multiple dwelling and reconstruction of new dwelling units in such multiple dwelling.
+
+Supportive housing project. The term "supportive housing project" means a project for the provision of housing in which a developer has entered into a regulatory agreement with a federal, state or local government entity that requires (i) at least one residential unit in such project to be reserved for homeless, disabled individuals or homeless families with a disabled head-of-household, and (ii) the provision of on-site supportive services to the residents of such project.
+
+
+
+
+
+
+
+
+*§ 26-2802 Set asides.* ::
+
+
+The department shall require that any developer who receives city financial assistance for a housing development project sets aside for homeless individuals and families at least 15 percent of the number of dwelling units offered for rent in such housing development project that are subject to a regulatory agreement requiring that occupancy of such units be restricted based on the income of occupants in such housing development project.
+
+
+
+
+
+
+
+
+*§ 26-2803 Report.* ::
+
+
+By no later than September 30, 2021, and by September 30 in each year thereafter, the department shall submit to the mayor and the speaker of the council a report specifying the following data:
+
+a. For each housing development project that received city financial assistance in the preceding fiscal year, (i) the number of dwelling units offered for rent that are subject to a regulatory agreement requiring that occupancy of such units be restricted based on the income of the occupants, (ii) the number of such units set aside for homeless individuals and families and (iii) whether such housing development project is a supportive housing project; and
+
+b. For each housing preservation project that received city financial assistance in the preceding fiscal year, (i) the number of dwelling units offered for rent that are subject to a regulatory agreement requiring that occupancy of such units be restricted based on the income of the occupants, (ii) the number of such units set aside for homeless individuals and families and (iii) whether such housing preservation project is a supportive housing project.
+
+
+
+
+
+

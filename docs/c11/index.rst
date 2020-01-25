@@ -1,189 +1,6 @@
 Title 12: Personnel and Labor
 ===================================================
 
-Chapter 2: Department of Citywide Administrative Services
---------------------------------------------------
-
-
-
-*§ 12-201 City surveyors; examination, appointment of.* ::
-
-
-a. The commissioner of citywide administrative services shall have power and it shall be his or her duty to appoint an examining board which shall serve without compensation, consisting of a chairperson, two consulting or topographical engineers in the employ of the city, and two city surveyors engaged in private practice. Such board shall formulate and conduct examinations of applicants who apply to the commissioner for appointment as city surveyors of the city of New York. Every person applying for examination shall pay an examining fee to be fixed by the commissioner. The fee so collected shall be paid into the general fund. The commissioner, as soon as practicable thereafter, shall certify to the mayor all those applicants who have qualified by successfully passing such examination. To be eligible for appointment, the applicant must be licensed by the state of New York as a land surveyor and must have a minimum of six years surveying experience within the limits of the city.
-
-b. There shall be appointed by the mayor as many city surveyors as are qualified by successfully passing such examination. Each city surveyor, before entering on his or her duties shall take an oath well and truly to perform such duties.
-
-
-
-
-
-
-*§ 12-202 Commissioner of citywide administrative services to conduct examinations for licenses for master plumbers.* ::
-
-
-The commissioner of citywide administrative services, in addition to his or her other powers and duties, shall formulate and conduct examinations to determine the merit and fitness of applicants who apply, pursuant to section 26-143 of the code, to the commissioner of health for licenses to engage in the trade, business or calling of a duly registered and licensed master plumber. The department of citywide administrative services shall keep in its office an official roster of candidates who have succeeded in passing such examinations and shall certify to the commissioner of health the names of such candidates who are successful.
-
-
-
-
-
-
-*§ 12-203 Assistance of committee of plumbing industry.* ::
-
-
-The commissioner of citywide administrative services shall call upon the plumbing industry for assistance in the preparation, conduct and rating of the practical and written examination of all persons seeking a plumber's license, pursuant to section 26-143 of the code. Such assistance shall consist of the obtaining of the services of two registered and licensed master plumbers of not less than ten years' experience as such, and one journeyman plumber of not less than ten years' experience as such, for each examination. The commissioner may also call upon duly accredited sanitary engineers or physicians to assist in the preparation and conduct of such examination. The names of such master and journeyman plumbers selected to assist the commissioner shall be publicly drawn for each examination from a panel of not less than thirty names furnished to the commissioner by a special committee to consist of one experienced master plumber representing each of the established and recognized master plumbers' associations, or branches thereof, in the five boroughs of the city, and one experienced journeyman plumber representing the established and recognized organization having jurisdiction over journeyman plumbers in the city. Such committee members shall be named once each year by the incumbent presidents or boards of directors or governors of their respective associations or organizations. No such master or journeyman plumber shall serve as such assistant oftener than once in five years. The compensation of each such person selected by the commissioner to assist in the preparation, conduct and rating of the written and practical examinations shall be fixed by the commissioner.
-
-
-
-
-
-
-*§ 12-204 Qualifications of plumbers. [Repealed]* ::
-
-
-The commissioner of citywide administrative services shall have sole power to examine applicants for positions as inspectors of plumbing and no person shall be appointed an inspector for plumbing who shall not have obtained a certificate from such commissioner.
-
-
-
-
-
-
-*§ 12-206 Eligible List Reporting.* ::
-
-
-a. Definitions. For the purposes of this section only:
-
-   1. "Eligible list" shall mean any list established by the department of citywide administrative services after the administration of either an open-competitive or a promotional examination containing the names of persons eligible to be considered for appointment or promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
-
-   2. "Promotion list" shall mean the agency-specific list established by the department of citywide administrative services after the administration of a promotional examination containing the names of persons eligible to be considered for promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
-
-b. The commissioner of the department of citywide administrative services shall submit a report on an annual basis beginning in two thousand five to the mayor, comptroller, public advocate and speaker of the council of the city of New York, by the first day of June, for the previous calendar year, regarding eligible lists. Such report shall include, but not be limited to, the following:
-
-   1. each eligible list established during the reporting year by the department of citywide administrative services;
-
-   2. the dates such eligible lists were established;
-
-   3. the number of persons appointed or promoted from each eligible list and the agencies to which such appointments or promotions were made;
-
-   4. the number of persons appointed or promoted on a provisional basis during the reporting year and the agencies to which such appointments or promotions were made;
-
-   5. the number of persons who, during the reporting year, were considered and not selected three times from promotion lists;
-
-   6. the number of persons removed from eligible lists and the number of persons removed from promotion lists and the reason reported to the department of citywide administrative services by the agency for such removal; and
-
-   7. the number of persons restored to eligible lists and the number of persons restored to promotion lists after having been removed.
-
-
-
-
-
-
-*§ 12-207 Availability of feminine hygiene products.* ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   Feminine hygiene products. The term “feminine hygiene products” means tampons and sanitary napkins for use in connection with the menstrual cycle.
-
-   Temporary shelters. The term “temporary shelters” means department of homeless services family with children shelters, adult family shelters, single adult women shelters and single adult men shelters; and human resources administration domestic violence shelters and HIV/AIDS services administration (HASA) shelters.
-
-b. The department of citywide administrative services shall make available to agencies operating or having oversight of providers operating temporary shelters a supply of feminine hygiene products sufficient to meet the needs of residents. The department shall also make available a supply of feminine hygiene products sufficient to meet the needs of youth in secure detention facilities operated by the administration for children’s services, as well as youth in congregate care facilities operated by the administration for children’s services who are awaiting placement with a licensed foster care agency.
-
-
-
-
-
-
-
-
-*§ 12-208 Pay and employment equity data.** ::
-
-
-a. Definitions. As used in this section, the term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
-
-b. No later than November 30, 2019, and on or before November 30 annually thereafter, each agency, to the extent the department of citywide administrative services does not already have such information, shall provide to the department of citywide administrative services information relevant to pay and employment equity. Such information for each current and former employee within such agency shall be as of the date of hire and shall, to the extent such information is available, include:
-
-   1. Agency;
-
-   2. Start date;
-
-   3. Civil service title;
-
-   4. Salary range for such title;
-
-   5. Business title;
-
-   6. Title classification (title description);
-
-   7. Job category;
-
-   8. Career level;
-
-   9. Base salary;
-
-   10. The department of citywide administrative services occupational group code and group name;
-
-   11. Whether such employee is a managerial or supervisory employee;
-
-   12. Minimum number of years of work experience required for such position;
-
-   13. Number of years of work experience of such employee;
-
-   14. Highest level of education attained by such employee;
-
-   15. Gender;
-
-   16. Racial group;
-
-   17. Ethnicity;
-
-   18. Date of birth;
-
-   19. Whether such employee is a provisional employee;
-
-   20. Whether such employee is full-time, part-time or seasonal;
-
-   21. Change in personnel status, including but not limited to, appointed, deceased, decrease, demoted, dismissed, increase, promoted, resigned, retired, terminated and transfer; and
-
-   22. Whether such employee was previously employed by the city of New York.
-
-c. No later than 90 days following receipt of the data collected pursuant to subdivision b of this section, the department of citywide administrative services shall provide such data to the office of data analytics.
-
-d. All agencies shall cooperate with the department as may be necessary and proper to ensure compliance with this subdivision. The department may request from any agency, including the office of payroll administration and financial information services agency, information it deems necessary to enable it to properly carry out its functions.
-
-e. The commissioner may promulgate such rules as are necessary to carry out the provisions of this section.
-
-
-
-
-
-
-
-
-*§ 12-208 Availability of diapers and baby wipes.** ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   Child care center. The term “child care center” means a program regulated by article 43 or article 47 of the New York city health code and that is contracted by the administration for children’s services or contracted and funded by the department of education.
-
-   Covered entity. The term “covered entity” means a child care center, domestic violence shelter, family justice center, LYFE program, or temporary shelter.
-
-   Domestic violence shelter. The term “domestic violence shelter” means an emergency shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to section 459-b of the social services law or a tier II shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to the provisions of part 900 of title 18 of the New York codes, rules, and regulations.
-
-   Family justice center. The term “family justice center” means a center and any successor location through which the office to end domestic and gender-based violence or a successor entity provides services to victims of domestic and gender-based violence.
-
-   LYFE programs. The term “LYFE programs” means the living for the young family through education (LYFE) programs operated by the department of education to provide early childhood education to children of student parents.
-
-   Temporary shelter. The term “temporary shelter” means a facility with the capacity to shelter families with children operated by or under contract or similar agreement with the department of homeless services and the department of youth and community development.
-
-b. The department of citywide administrative services shall make available to agencies operating or contracting with a covered entity, a supply of diapers and baby wipes, for children three years old and younger, sufficient to meet the needs of residents or recipients utilizing services at such covered entity, when such residents or recipients are present at such covered entity. Each covered entity shall provide readily visible signage or other written notice, in at least each of the designated citywide languages, as such term is defined in section 23-1101, to all such residents or recipients, informing them of the availability of such diapers and baby wipes.
-
-
-
-
-
-
 Chapter 1: Officers and Employees
 --------------------------------------------------
 
@@ -832,7 +649,7 @@ b. Payment of health insurance costs. Except as otherwise provided in section 12
 
       (i) Where the death of a member of the uniformed forces of the police or fire departments is or was the natural and proximate result of an accident or injury sustained while in the performance of duty, the surviving spouse or domestic partner, until he or she dies, and the children under the age of nineteen years and any such child who is enrolled on a full-time basis in a program of undergraduate study in an accredited degree-granting institution of higher education until such child completes his or her educational program or reaches the age of twenty-six years, whichever comes first, shall be afforded the right to health insurance coverage, and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act, as is provided for city employees, city retirees and their dependents as set forth in paragraph one of this subdivision. Where the death of a uniformed member of the correction or sanitation departments has occurred while such employee was in active service as the natural and proximate result of an accident or injury sustained while in the performance of duty, the surviving spouse or domestic partner, until he or she dies, and the child of such employee who is under the age of nineteen years and any such child who is enrolled on a full-time basis in a program of undergraduate study in an accredited degree-granting institution of higher education until such child completes his or her educational program or reaches the age of twenty-six years, whichever comes first, shall be afforded the right to health insurance coverage, and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act, as is provided for city employees, city retirees and their dependents as set forth in paragraph one of this subdivision. Where the death of an employee of the fire department of the city of New York who was serving in a title whose duties are those of an emergency medical technician or advanced emergency medical technician (as those terms are defined in section three thousand one of the public health law), or whose duties required the direct supervision of employees whose duties are those of an emergency medical technician or advanced emergency medical technician (as those terms are defined in section three thousand one of the public health law) is or was the natural and proximate result of an accident or injury sustained while in the performance of duty on or after September eleventh, two thousand one, the surviving spouse or domestic partner, until he or she dies, and the children under the age of nineteen years and any such child who is enrolled on a full-time basis in a program of undergraduate study in an accredited degree-granting institution of higher education until such child completes his or her educational program or reaches the age of twenty-six years, whichever comes first, shall be afforded the right to health insurance coverage, and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act, as is provided for city employees, city retirees and their dependents as set forth in paragraph one of this subdivision.
 
-         The mayor may, in his or her discretion, authorize the provision of such health insurance coverage for the surviving spouses, domestic partners and children of employees of the fleet services division of the police department who died on or after October first, nineteen hundred ninety-eight and before April thirtieth, nineteen hundred ninety-nine; the surviving spouses, domestic partners and children of employees of the roadway repair and maintenance division or the bridges division of the department of transportation who died on or after September first, two thousand five and before September twenty-eighth, two thousand five, or on or after April 3, 2018 and before April 5, 2018; the surviving spouses, domestic partners and children of employees of the bureau of wastewater treatment of the department of environmental protection who died on or after January eighth, two thousand nine and before January tenth, two thousand nine or the surviving spouses, domestic partners and children of employees of the bureau of water supply of such agency who died on or after February second, two thousand fourteen and before February fourth, two thousand fourteen; the surviving spouses, domestic partners and children of employees of the traffic enforcement district of the transportation bureau of the police department who died on or after November first, two thousand thirteen and before December first, two thousand thirteen; and the surviving spouses, domestic partners and children of employees of the sanitation enforcement division of the department of sanitation who died on or after July twenty-eighth, two thousand fifteen and before July thirtieth, two thousand fifteen as a natural and proximate result of an accident or injury sustained while in the performance of duty, subject to the same terms, conditions and limitations set forth in the section. Provided, however, and notwithstanding any other provision of law to the contrary, and solely for the purposes of this subparagraph, a member otherwise covered by this subparagraph shall be deemed to have died as the natural and proximate result of an accident or injury sustained while in the performance of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+         The mayor may, in his or her discretion, authorize the provision of such health insurance coverage for the surviving spouses, domestic partners and children of employees of the fleet services division of the police department who died on or after October first, nineteen hundred ninety-eight and before April thirtieth, nineteen hundred ninety-nine; the surviving spouses, domestic partners and children of employees of the roadway repair and maintenance division or the bridges division of the department of transportation who died on or after September first, two thousand five and before September twenty-eighth, two thousand five, or on or after April 3, 2018 and before April 5, 2018 or on or after October 21, 2019 and before October 23, 2019; the surviving spouses, domestic partners and children of employees of the bureau of wastewater treatment of the department of environmental protection who died on or after January eighth, two thousand nine and before January tenth, two thousand nine or the surviving spouses, domestic partners and children of employees of the bureau of water supply of such agency who died on or after February second, two thousand fourteen and before February fourth, two thousand fourteen; the surviving spouses, domestic partners and children of employees of the traffic enforcement district of the transportation bureau of the police department who died on or after November first, two thousand thirteen and before December first, two thousand thirteen; the surviving spouses, domestic partners and children of employees of the sanitation enforcement division of the department of sanitation who died on or after July twenty-eighth, two thousand fifteen and before July thirtieth, two thousand fifteen; and the surviving spouses, domestic partners and children of employees of the bureau of motor equipment of the department of sanitation who died on or after September 23, 2019 and before September 25, 2019 as a natural and proximate result of an accident or injury sustained while in the performance of duty, subject to the same terms, conditions and limitations set forth in the section. Provided, however, and notwithstanding any other provision of law to the contrary, and solely for the purposes of this subparagraph, a member otherwise covered by this subparagraph shall be deemed to have died as the natural and proximate result of an accident or injury sustained while in the performance of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
 
       (ii) Where a retired member of the fire department dies and is enrolled in a health insurance plan, the surviving spouse shall be afforded the right to such health insurance coverage and health insurance coverage which is predicated on the insured's enrollment in the hospital and medical program for the aged and disabled under the social security act as is provided for retirees and their dependents as set forth in subparagraph (i) of this paragraph, provided such surviving spouse pays one hundred two percent of the group rate for such coverage, with two percent intended to cover administrative costs incurred, provided such spouse elects such health insurance coverage within one year of the death of his or her spouse. For purposes of this subparagraph, "retired member of the fire department" shall include persons who, immediately prior to retirement, were employed by the fire department of the city of New York in a title whose duties are those of an emergency medical technician or advanced emergency medical technician (as those terms are defined in section three thousand one of the public health law), or whose duties required the direct supervision of employees whose duties are those of an emergency medical technician or advanced emergency medical technician (as those terms are defined in section three thousand one of the public health law).
 
@@ -968,7 +785,9 @@ a. Any member of the uniformed forces of the fire or police departments or any p
 
 b. Any member of the uniformed forces of the fire or police department or any person employed in the department of sanitation in the sanitation service classification of the classified civil service or a person employed by the police commissioner as a school crossing guard who, while in the actual performance of duty, and by reason of the performance of such duty and without fault or misconduct on his or her part, shall receive injuries to an extent which may endanger his or her life, shall be received by any hospital for care and treatment, and shall be afforded such medical or surgical care and hospitalization as may be ordered by the chief medical officer of the respective departments in conformity with the provisions of this section. Such medical officer shall forthwith notify the comptroller of the care and hospitalization so ordered. The rate charged for such care and hospitalization for such member or such person shall not exceed the rate charged any person in receipt of an income equal to the salary of such member or of such person for the same accommodations. The comptroller and the heads of the departments affected shall make necessary rules and regulations to carry out the provisions of this section. Upon certification by the chief medical officer of the department concerned, the bill for such care and hospitalization, when certified by the superintendent or other person in charge of the hospital and approved by the head of the department concerned, shall be paid by the city. Notwithstanding any provision of law to the contrary, a provider of medical treatment or hospital care furnished pursuant to the provisions of this section shall not collect or attempt to collect reimbursement for such treatment or care from any such city employee.
 
-c. (1)    Each agency shall keep a record of any workers' compensation claim filed by an employee, the subject of which concerns an injury sustained in the course of duty while such employee was employed at such agency. Such record shall include, but not be limited to, the following data:
+c. (1) Definitions. For purposes of this subdivision, the term "occupational disease" has the same meaning as such term is defined in section 2 of the workers' compensation law.
+
+   (2) Each agency shall keep a record of, and shall, as soon as practicable, transmit to the law department, any workers' compensation claim filed by an employee, the subject of which concerns an injury sustained in the course of duty while such employee was employed at such agency. Such record shall include, but not be limited to, the following data:
 
       (i) the name of the agency where such employee worked;
 
@@ -978,27 +797,61 @@ c. (1)    Each agency shall keep a record of any workers' compensation claim 
 
       (iv) the date the city began to make payment for such claim, or the date such claim was established by the appropriate state office and the date the city began to make payment for such claim pursuant to such establishment, if any;
 
-      (v) the date such injury occurred;
+      (v) the date such injury occurred or occupational disease was contracted;
 
-      (vi) the location at which such injury occurred;
+      (vi) the location at which such injury occurred or occupational disease was contracted;
 
-      (vii) the nature of such injury, including, but not limited to, the circumstances of such injury, the type or diagnosis of such injury and a description of how such injury occurred;
+      (vii) the nature of such injury or occupational disease, including, but not limited to, the circumstances, the type or diagnosis and a description of how such injury occurred or such occupational disease was contracted;
 
-      (viii) the length of time such employee is unable to work due to such injury, if any; and
+      (viii) the length of time such employee is unable to work due to such injury or occupational disease, if any;
 
-      (ix) a list of any expenses paid as a result of such claim, including, but not limited to, expenses relating to wage replacement, medical costs, administrative costs and any penalties.
+      (ix) whether the employee was given modified assignment(s) or was transferred because of such injury or occupational disease and whether such employee suffered a loss of income or diminution of fringe benefits as a result of such transfer or modification; and
 
-   (2) Each agency shall transmit records gathered pursuant to paragraph (1) of subdivision c of this section, as soon as practicable, to the mayor of the city of New York.
+      (x) a list of any expenses paid as a result of such claim, including, but not limited to, expenses relating to wage replacement, medical costs, administrative costs and any penalties.
 
-   (3) The mayor of the city of New York shall ensure that an annual report is prepared utilizing the records received from each city agency pursuant to paragraph (2) of subdivision c of this section. Such report shall be transmitted to the mayor, the comptroller, the public advocate and the speaker of the council of the city of New York by the first day of May, covering the previous calendar year. Such report shall include, but not be limited to:
+   (3) Each agency shall collect and report to the law department, no later than February 15 of the year following the reporting year, the following information:
+
+      (i) the number of persons employed by such agency as of December 31 of the reporting year;
+
+      (ii) the number of persons employed in each job title as of December 31 of the reporting year;
+
+      (iii) the total, average and median number of days of lost time due to workers' compensation injuries within each job title;
+
+      (iv) the total amount of wages and workers' compensation paid for disability to injured persons within each job title;
+
+      (v) the total amount of medical expenses paid for diagnosis and treatment of injuries and occupational diseases suffered by persons within each job title;
+
+      (vi) the number and nature of injuries and occupational diseases suffered by agency employees within each job title;
+
+      (vii) the causal factor and nature of the injuries and occupational diseases suffered by agency employees as reported in subparagraph (vi) of this paragraph by category, including, but not limited to, lifting, assault, repetitive stress, infectious pathogen and chemical exposure;
+
+      (viii) the average and median number of days between the onset of disability as measured by the first day of lost time and the first date of payment; and
+
+      (ix) the total number of workers' compensation claims.
+
+   (4) The mayor, in coordination with the law department, shall ensure that an annual report is prepared utilizing the data received from each city agency pursuant to paragraphs (2) and (3) of this subdivision. Such report shall be transmitted to the department of records and information services pursuant to section 1133 of the charter, the mayor, the comptroller, the public advocate and the speaker of the council by the first day of May, covering the previous calendar year. Such report shall include, but not be limited to:
 
       (i) an analysis, with respect to each agency included in the report, of expenses paid as a result of workers' compensation claims, including, but not limited to, expenses relating to wage replacement, medical costs, administrative costs and any penalties paid by an agency;
 
-      (ii) a list of the occurrence of specific claims for each agency and for the city as a whole;
+      (ii) a list by agency of the cause, job title, number and cost of workers' compensation claims;
 
-      (iii) a list of the specific sites where injuries occurred for each agency and for the city as a whole;
+      (iii) a list of the occurrence of specific claims for each agency and for the city as a whole;
 
-      (iv) year-to-year comparisons of information compiled pursuant to this paragraph.
+      (iv) a list of the specific sites where injuries occurred or where occupational diseases were contracted for each agency and for the city as a whole;
+
+      (v) a ten-year comparison of data compiled pursuant to this paragraph; and
+
+      (vi) all data collected pursuant to paragraphs (2) and (3) of this subdivision.
+
+   (5) The law department may take appropriate steps to ensure the collection and reporting of information required pursuant to paragraphs (2) and (3) of this subdivision shall not violate any applicable federal, state or local law relating to privacy or confidentiality including, but not limited to, the confidentiality requirements of section 110-a of the workers' compensation law.
+
+   (6) Each agency shall develop and implement an annual accident and illness prevention program designed to reduce injuries and illnesses identified in the report required pursuant to paragraph (4) of this subdivision. A listing and description of these programs shall be included in the annual report required by paragraph (4) of this subdivision and made available at each agency.
+
+   (7) No later than 90 days after submission of the report required pursuant to paragraph (4) of this subdivision, the mayor shall submit to the comptroller, the public advocate and the speaker a report on steps the city will take to develop programs to mitigate injury and illness based on the data collected pursuant to paragraphs (2) and (3) of this subdivision.
+
+
+
+* Editor's note: Section 2 of L.L. 2020/022 provides: "This local law takes effect immediately; provided, however, that the report required by paragraph (4) of subdivision c of section 12-127 of the administrative code of the city of New York, as added by this local law, shall include data for the year 2021 and shall be submitted no later than May 1, 2022. Provided, further, that the report required by subdivision c of section 12-127 of the administrative code of the city of New York, as added by local law number 41 for the year 2004, shall be submitted for the years 2019 and 2020 prior to submission of the report required pursuant to this local law."
 
 
 
@@ -1105,6 +958,189 @@ Employees of the city of New York shall be permitted to use pre-tax earnings to 
 (b) A public employer shall not take any adverse personnel action against a public employee regarding the employee's employment because either (i) the employee utilizes, or requests to utilize, sick leave or any other available leave due to a qualifying World Trade Center condition, as such term is defined in section two of the retirement and social security law, or (ii) the employee utilizes or requests to utilize line of duty sick leave provided by this section.
 
 (c) For purposes of this section, an "adverse personnel action" means any discipline, including issuing a notice of discipline, discharge, suspension, demotion, penalization, or discrimination against an employee utilizing line of duty sick leave pursuant to subdivision (a) of this section. Nothing in this section shall limit an employer's power pursuant to another provision of law to discipline an officer or employee by termination, reduction of salary, or any other appropriate measure; to terminate an appointee who has not completed his or her probationary term; and to apply for ordinary or accident disability retirement for an officer or employee.
+
+
+
+
+
+
+Chapter 2: Department of Citywide Administrative Services
+--------------------------------------------------
+
+
+
+*§ 12-201 City surveyors; examination, appointment of.* ::
+
+
+a. The commissioner of citywide administrative services shall have power and it shall be his or her duty to appoint an examining board which shall serve without compensation, consisting of a chairperson, two consulting or topographical engineers in the employ of the city, and two city surveyors engaged in private practice. Such board shall formulate and conduct examinations of applicants who apply to the commissioner for appointment as city surveyors of the city of New York. Every person applying for examination shall pay an examining fee to be fixed by the commissioner. The fee so collected shall be paid into the general fund. The commissioner, as soon as practicable thereafter, shall certify to the mayor all those applicants who have qualified by successfully passing such examination. To be eligible for appointment, the applicant must be licensed by the state of New York as a land surveyor and must have a minimum of six years surveying experience within the limits of the city.
+
+b. There shall be appointed by the mayor as many city surveyors as are qualified by successfully passing such examination. Each city surveyor, before entering on his or her duties shall take an oath well and truly to perform such duties.
+
+
+
+
+
+
+*§ 12-202 Commissioner of citywide administrative services to conduct examinations for licenses for master plumbers.* ::
+
+
+The commissioner of citywide administrative services, in addition to his or her other powers and duties, shall formulate and conduct examinations to determine the merit and fitness of applicants who apply, pursuant to section 26-143 of the code, to the commissioner of health for licenses to engage in the trade, business or calling of a duly registered and licensed master plumber. The department of citywide administrative services shall keep in its office an official roster of candidates who have succeeded in passing such examinations and shall certify to the commissioner of health the names of such candidates who are successful.
+
+
+
+
+
+
+*§ 12-203 Assistance of committee of plumbing industry.* ::
+
+
+The commissioner of citywide administrative services shall call upon the plumbing industry for assistance in the preparation, conduct and rating of the practical and written examination of all persons seeking a plumber's license, pursuant to section 26-143 of the code. Such assistance shall consist of the obtaining of the services of two registered and licensed master plumbers of not less than ten years' experience as such, and one journeyman plumber of not less than ten years' experience as such, for each examination. The commissioner may also call upon duly accredited sanitary engineers or physicians to assist in the preparation and conduct of such examination. The names of such master and journeyman plumbers selected to assist the commissioner shall be publicly drawn for each examination from a panel of not less than thirty names furnished to the commissioner by a special committee to consist of one experienced master plumber representing each of the established and recognized master plumbers' associations, or branches thereof, in the five boroughs of the city, and one experienced journeyman plumber representing the established and recognized organization having jurisdiction over journeyman plumbers in the city. Such committee members shall be named once each year by the incumbent presidents or boards of directors or governors of their respective associations or organizations. No such master or journeyman plumber shall serve as such assistant oftener than once in five years. The compensation of each such person selected by the commissioner to assist in the preparation, conduct and rating of the written and practical examinations shall be fixed by the commissioner.
+
+
+
+
+
+
+*§ 12-204 Qualifications of plumbers. [Repealed]* ::
+
+
+The commissioner of citywide administrative services shall have sole power to examine applicants for positions as inspectors of plumbing and no person shall be appointed an inspector for plumbing who shall not have obtained a certificate from such commissioner.
+
+
+
+
+
+
+*§ 12-206 Eligible List Reporting.* ::
+
+
+a. Definitions. For the purposes of this section only:
+
+   1. "Eligible list" shall mean any list established by the department of citywide administrative services after the administration of either an open-competitive or a promotional examination containing the names of persons eligible to be considered for appointment or promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
+
+   2. "Promotion list" shall mean the agency-specific list established by the department of citywide administrative services after the administration of a promotional examination containing the names of persons eligible to be considered for promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
+
+b. The commissioner of the department of citywide administrative services shall submit a report on an annual basis beginning in two thousand five to the mayor, comptroller, public advocate and speaker of the council of the city of New York, by the first day of June, for the previous calendar year, regarding eligible lists. Such report shall include, but not be limited to, the following:
+
+   1. each eligible list established during the reporting year by the department of citywide administrative services;
+
+   2. the dates such eligible lists were established;
+
+   3. the number of persons appointed or promoted from each eligible list and the agencies to which such appointments or promotions were made;
+
+   4. the number of persons appointed or promoted on a provisional basis during the reporting year and the agencies to which such appointments or promotions were made;
+
+   5. the number of persons who, during the reporting year, were considered and not selected three times from promotion lists;
+
+   6. the number of persons removed from eligible lists and the number of persons removed from promotion lists and the reason reported to the department of citywide administrative services by the agency for such removal; and
+
+   7. the number of persons restored to eligible lists and the number of persons restored to promotion lists after having been removed.
+
+
+
+
+
+
+*§ 12-207 Availability of feminine hygiene products.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Feminine hygiene products. The term “feminine hygiene products” means tampons and sanitary napkins for use in connection with the menstrual cycle.
+
+   Temporary shelters. The term “temporary shelters” means department of homeless services family with children shelters, adult family shelters, single adult women shelters and single adult men shelters; and human resources administration domestic violence shelters and HIV/AIDS services administration (HASA) shelters.
+
+b. The department of citywide administrative services shall make available to agencies operating or having oversight of providers operating temporary shelters a supply of feminine hygiene products sufficient to meet the needs of residents. The department shall also make available a supply of feminine hygiene products sufficient to meet the needs of youth in secure detention facilities operated by the administration for children’s services, as well as youth in congregate care facilities operated by the administration for children’s services who are awaiting placement with a licensed foster care agency.
+
+
+
+
+
+
+
+
+*§ 12-208 Pay and employment equity data.** ::
+
+
+a. Definitions. As used in this section, the term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
+
+b. No later than November 30, 2019, and on or before November 30 annually thereafter, each agency, to the extent the department of citywide administrative services does not already have such information, shall provide to the department of citywide administrative services information relevant to pay and employment equity. Such information for each current and former employee within such agency shall be as of the date of hire and shall, to the extent such information is available, include:
+
+   1. Agency;
+
+   2. Start date;
+
+   3. Civil service title;
+
+   4. Salary range for such title;
+
+   5. Business title;
+
+   6. Title classification (title description);
+
+   7. Job category;
+
+   8. Career level;
+
+   9. Base salary;
+
+   10. The department of citywide administrative services occupational group code and group name;
+
+   11. Whether such employee is a managerial or supervisory employee;
+
+   12. Minimum number of years of work experience required for such position;
+
+   13. Number of years of work experience of such employee;
+
+   14. Highest level of education attained by such employee;
+
+   15. Gender;
+
+   16. Racial group;
+
+   17. Ethnicity;
+
+   18. Date of birth;
+
+   19. Whether such employee is a provisional employee;
+
+   20. Whether such employee is full-time, part-time or seasonal;
+
+   21. Change in personnel status, including but not limited to, appointed, deceased, decrease, demoted, dismissed, increase, promoted, resigned, retired, terminated and transfer; and
+
+   22. Whether such employee was previously employed by the city of New York.
+
+c. No later than 90 days following receipt of the data collected pursuant to subdivision b of this section, the department of citywide administrative services shall provide such data to the office of data analytics.
+
+d. All agencies shall cooperate with the department as may be necessary and proper to ensure compliance with this subdivision. The department may request from any agency, including the office of payroll administration and financial information services agency, information it deems necessary to enable it to properly carry out its functions.
+
+e. The commissioner may promulgate such rules as are necessary to carry out the provisions of this section.
+
+
+
+
+
+
+
+
+*§ 12-208 Availability of diapers and baby wipes.** ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Child care center. The term “child care center” means a program regulated by article 43 or article 47 of the New York city health code and that is contracted by the administration for children’s services or contracted and funded by the department of education.
+
+   Covered entity. The term “covered entity” means a child care center, domestic violence shelter, family justice center, LYFE program, or temporary shelter.
+
+   Domestic violence shelter. The term “domestic violence shelter” means an emergency shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to section 459-b of the social services law or a tier II shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to the provisions of part 900 of title 18 of the New York codes, rules, and regulations.
+
+   Family justice center. The term “family justice center” means a center and any successor location through which the office to end domestic and gender-based violence or a successor entity provides services to victims of domestic and gender-based violence.
+
+   LYFE programs. The term “LYFE programs” means the living for the young family through education (LYFE) programs operated by the department of education to provide early childhood education to children of student parents.
+
+   Temporary shelter. The term “temporary shelter” means a facility with the capacity to shelter families with children operated by or under contract or similar agreement with the department of homeless services and the department of youth and community development.
+
+b. The department of citywide administrative services shall make available to agencies operating or contracting with a covered entity, a supply of diapers and baby wipes, for children three years old and younger, sufficient to meet the needs of residents or recipients utilizing services at such covered entity, when such residents or recipients are present at such covered entity. Each covered entity shall provide readily visible signage or other written notice, in at least each of the designated citywide languages, as such term is defined in section 23-1101, to all such residents or recipients, informing them of the availability of such diapers and baby wipes.
 
 
 

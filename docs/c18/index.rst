@@ -2362,6 +2362,90 @@ e. It shall be a rebuttable presumption that a food item or combination of food 
 
 
 
+*§ 17-199.12 Report of early intervention services.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms shall have the following meanings:
+
+   Early intervention services. The term “early intervention services” has the same meaning as set forth in section 69-4.1 of title 10 of the New York codes, rules and regulations.
+
+   Evaluation. The term “evaluation” has the same meaning as set forth in section 69-4.1 of title 10 of the New York codes, rules and regulations.
+
+   Individualized family service plan. The term “individualized family service plan” or “IFSP” has the same meaning as set forth in section 69-4.1 of title 10 of the New York codes, rules and regulations.
+
+   IFSP meeting. The term “IFSP meeting” means a meeting for the purpose of developing a written plan for providing early intervention services to a child determined to be eligible for the early intervention program pursuant to section 69-4.11 of title 10 of the New York codes, rules and regulations.
+
+   Initial evaluation. The term “initial evaluation” means an evaluation to determine a child’s initial eligibility for the early intervention program.
+
+   Referral. The term “referral” means referral of child less than three years of age who is suspected of having a disability, which includes a developmental delay or a diagnosed physical or mental condition that has a high probability of resulting in developmental delay, pursuant to section 69-4.3 of title 10 of the New York codes, rules and regulations.
+
+   Reporting period. The term “reporting period” means the period beginning July 1 of the current calendar year until and including June 30 of the following subsequent calendar year.
+
+   Student in temporary housing. The term “student in temporary housing” has the same meaning as that of the term “homeless child” as such term is defined in section 100.2 of title 8 of the New York codes, rules and regulations.
+
+b. Report. No later than November 1 of each year, the department shall submit to the speaker of the council and post on the department’s website an annual report regarding children receiving early intervention services from the department. To the extent such information is available to the department, such report shall include, but shall not be limited to the following information, disaggregated by zip code, race/ethnicity, child’s dominant language, status as a student in temporary housing and gender:
+
+   1. The number of referrals for initial evaluations in total and disaggregated by referral source, including, but not limited to, referrals from parents, health professionals, child care providers, homeless shelters or nonprofits;
+
+   2. The number of initial evaluations conducted, including the number of such evaluations that resulted in a determination that the child was eligible for the early intervention program;
+
+   3. The number of IFSP meetings convened less than or equal to 45 calendar days from the date of referral;
+
+   4. The number of IFSP meetings that were convened more than 45 calendar days from the date of referral;
+
+   5. The total number of children who have an active IFSP (i) during the reporting period and (ii) as of June 30 of the reporting period;
+
+   6. The average number of calendar days between the date of the initial IFSP meeting and the date children begin receiving early intervention services;
+
+   7. The number and percentage of children with IFSPs who, (i) during the reporting period and (ii) as of June 30 of the reporting period, have IFSPs that recommend the following enumerated services as such services are defined in section 69-4.1 of title 10 of the New York codes, rules and regulations:
+
+      (a) Assistive technology services;
+
+      (b) Applied behavior analysis;
+
+      (c) Audiology;
+
+      (d) Family training, counseling, home visits or parent support groups;
+
+      (e) Medical services;
+
+      (f) Nursing services;
+
+      (g) Nutrition services;
+
+      (h) Occupational therapy;
+
+      (i) Physical therapy;
+
+      (j) Psychological services;
+
+      (k) Service coordination;
+
+      (l) Sign language or cued language services;
+
+      (m) Social work services;
+
+      (n) Special instruction;
+
+      (o) Speech-language pathology;
+
+      (p) Vision services;
+
+      (q) Health services; and
+
+      (r) Transportation services; and
+
+   8. The number and percentage of children with IFSPs who were, during the reporting period, receiving in full the early intervention services enumerated in subparagraphs (a) through (r) of paragraph 7 of this section as recommended in their IFSPs within 30 days of the meeting pursuant to section 69-4.11 of title 10 of the New York codes, rules and regulations; the number and percentage of children with IFSPs who were receiving in part such services within 30 days of such meeting and the number and percentage of children with IFSPs who were awaiting the provision of such services after 30 days of such meeting.
+
+c. No information that is required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of information. If a category contains between one and five children, or allows another category to be narrowed to between one and five children, the number shall be replaced with a symbol. A category that contains zero children shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to personally identifiable information.
+
+
+
+
+
+
+
+
 *§ 17-200 Prohibited acts with respect to wild birds.* ::
 
 
@@ -3264,29 +3348,35 @@ The department shall establish and implement a system for grading and classifyin
 *§ 17-326 Definitions.* ::
 
 
-Whenever used in this subchapter the following terms shall have the following meanings:
+Whenever used in this subchapter, the following terms have the following meanings:
 
-(a) "Person" means an individual, partnership, corporation, association or other legal entity.
+ASPCA. The term "ASPCA" means the American Society for the Prevention of Cruelty to Animals.
 
-(b) "Veterinarian" means a person licensed to practice veterinary medicine in the state of New York.
+Carriage horse. The term "carriage horse" means any horse which is used by its owner or any other person to pull any vehicle, carriage, sled, sleigh or other device in exchange for a fee. A horse rented or leased by its owner to another for any of the foregoing purposes shall be deemed to be a carriage horse for the purposes of this subchapter. A horse used for any other purpose shall not be deemed to be a carriage horse for the purposes of this subchapter.
 
-(c) "Work", a horse is considered to be at work when it is out of its stable and presented to the public as being available for riding, pulling carriages, vehicles or other devices, or when it is saddled or in harness or when it is being ridden or is pulling a carriage, vehicle or device.
+Equine heat index. The term "equine heat index" means the sum of the air temperature, in degrees Fahrenheit, and the relative humidity at a particular point in time.
 
-(d) "Owner" means the owner of a horse which is required to be licensed pursuant to this subchapter and the owner of a rental horse business in which such horse is used.
+Owner. The term "owner" means the owner of a horse which is required to be licensed pursuant to this subchapter and the owner of a rental horse business in which such horse is used.
 
-(e) "Riding horse" means a horse which is available to the public for a fee for the purpose of riding.
+Person. The term "person" means an individual, partnership, corporation, association or other legal entity.
 
-(f) "Carriage horse" means any horse which is used by its owner or any other person to pull any vehicle, carriage, sled, sleigh or other device in exchange for a fee. A horse rented or leased by its owner to another for any of the foregoing purposes shall be deemed to be a carriage horse for the purposes of this subchapter.
+Relative humidity. The term "relative humidity" means the value, expressed as a percentage, determined by a device designed to measure relative humidity
 
-(g) "Rental horse business" means a business enterprise which provides or offers the use of a horse to the public for a fee for the purpose of riding or drawing a horse drawn vehicle or which operates a horse drawn vehicle for hire such as a horse drawn cab.
+Rental horse. The term "rental horse" means a horse which is used in a rental horse business.
 
-(h) "Rental horse" means a horse which is used in a rental horse business.
+Rental horse business. The term "rental horse business" means a business enterprise which provides or offers the use of a horse to the public for a fee for the purpose of riding or drawing a horse drawn vehicle or which operates a horse drawn vehicle for hire such as a horse drawn cab.
 
-(i) "Under tack" means that a horse is equipped for riding or driving.
+Riding horse. The term "riding horse" means a horse which is available to the public for a fee for the purpose of riding.
 
-(j) "ASPCA" means the American Society for the Prevention of Cruelty to Animals.
+Stable. The term "stable" means any place, establishment or facility where one or more rental horses are housed or maintained.
 
-(k) "Stable" means any place, establishment or facility where one or more rental horses are housed or maintained.
+Under tack. The term "under tack" means that a horse is equipped for riding or driving.
+
+Veterinarian. The term "veterinarian" means a person licensed to practice veterinary medicine in the state of New York.
+
+Work. A horse is considered to be at "work" when it is out of its stable and presented to the public as being available for riding, pulling carriages, vehicles or other devices, or when it is saddled or in harness or when it is being ridden or is pulling a carriage, vehicle or device.
+
+
 
 
 
@@ -3370,19 +3460,21 @@ n. Every horse required to be licensed hereunder shall be examined by a veterina
 
 o. 1. Carriage horses shall not be worked whenever the air temperature is 18 degrees fahrenheit or below.
 
-   2. Carriage horses shall not be worked whenever the air temperature is 90 degrees fahrenheit or above.
+   2. Carriage horses shall not be worked whenever (i) the air temperature is 90 degrees Fahrenheit or above, or (ii) the air temperature is 80 degrees Fahrenheit or above and the equine heat index is 150 or above.
 
-   3. For purposes of this subdivision, temperatures shall be those measured by a state-of-the-art thermometer, as determined by the commissioner, as measured by the commissioner or his or her designee at street level at one of the stands designated pursuant to section 19-174 of the code.
+   3. For purposes of this subdivision, air temperatures shall be those measured by a state-of-the-art thermometer, as determined by the commissioner. Relative humidity shall be determined by a state-of-the-art hygrometer or any other device having the same capability to measure relative humidity, as determined by the commissioner. Air temperatures and relative humidity shall be measured by the commissioner or the commissioner's designee at street level at one of the stands designated pursuant to section 19-174.
 
-   4. If the temperature exceeds the limits set by this subdivision during the course of a particular ride, at the ride's conclusion, but no later than one-half hour after the temperature exceeds these limits, the operator must immediately cease working, move the horse to an area of shelter, where available, rest the horse and then walk it directly to its stable. All horses so returned to their stable must be unbridled and unharnessed and remain at the stable for at least one hour, and thereafter, until such time as the weather conditions shall once again reach acceptable limits.
+   4. If either of the limits set by paragraph 2 of this subdivision are exceeded during the course of a particular ride, at the ride's conclusion, but no later than one-half hour after either of these limits are exceeded, the operator must immediately cease working, move the horse to an area of shelter, where available, rest the horse and then walk it directly to its stable. All horses so returned to their stable must be unbridled and unharnessed and remain at the stable for at least one hour, and thereafter, until such time as the weather conditions shall once again reach acceptable limits.
 
-   5. No violation of this subdivision shall occur unless a written warning of violation is first issued by the authorized enforcement personnel to the operator advising that the air temperature limits of this subdivision have been exceeded and directing that the operator cease working a carriage horse in accordance with the provisions of this subdivision. A violation of this subdivision may be issued if an operator fails to comply with the direction contained in the written warning of violation. Failure to comply with such direction shall not be construed as a separate violation.
+   5. No violation of this subdivision shall occur unless a written warning of violation is first issued by the authorized enforcement personnel to the operator advising that either of the limits set in paragraph 2 of this subdivision have been exceeded and directing that the operator cease working a carriage horse in accordance with the provisions of this subdivision. A violation of this subdivision may be issued if an operator fails to comply with the direction contained in the written warning of violation. Failure to comply with such direction shall not be construed as a separate violation.
 
 p. Every carriage horse required to be licensed hereunder shall be equipped with a manure catching device. Such devices shall be affixed or attached to the carriage and shall at no time be affixed or attached to the horse.
 
 q. Carriage horses shall not be younger than five years at the time placed into service in any rental horse business and licensed. No carriage horse older than 26 years of age shall be licensed to work in a rental horse business. Acceptable proof of age shall include a signed letter from a licensed veterinarian stating the horse's age, a certificate from an officially recognized national registry of horses stating the horse's age, or another industry approved method of certifying age.
 
 r. Owners shall insure that during the months of November through April every carriage is equipped with a heavy winter horse blanket large enough to cover the horse from crest of neck to top of rump. Such blankets shall be used to cover carriage horses in cold weather. Waterproof horse blankets of a lighter material shall be provided at all times to cover the horse from withers to tail during periods of wet weather when the air temperature is 55 degrees or below.
+
+
 
 
 

@@ -1143,6 +1143,76 @@ b. Multiple dwellings owned and operated by the New York city housing authority 
 
 
 
+*§ 27-2033.1 Heat inspections and installation of internet capable temperature reporting devices.* ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   Heat season. The term “heat season” means the period from October 1 through May 31.
+
+   Internet capable temperature reporting device. The term “internet capable temperature reporting device” means a device that is capable of measuring the indoor air temperature not less than once per hour and recording such temperature, along with the date and time of such reading, for a period of time not less than the immediately preceding 90 days. Such device must be capable of making such information available through an ordinary internet connection or through other means when no such connection is present. Such information must be accessible to property owners and any tenant of the unit in which such device is placed.
+
+b. 1. No later than July 1, 2020, and every two years thereafter, the department shall select 50 class A multiple dwellings that shall be subject to the requirements of this subdivision. The department shall select such class A multiple dwellings pursuant to criteria set forth in rules of the department, which shall include, but need not be limited to: (i) the number of violations of subdivision a of section 27-2029 over the preceding two years, and (ii) whether the department has received heat complaints from more than one dwelling unit in such class A multiple dwelling.
+
+   2. Annually, for the duration of heat season, the department shall conduct inspections of each class A multiple dwelling selected pursuant to this subdivision at least once every two weeks, without receipt of complaints, for compliance with the requirements of this section, section 27-2028 and subdivision a of section 27-2029, consistent with applicable law and in accordance with rules of the department. If the department has not issued one or more notices of violation of paragraph three of this subdivision, section 27-2028 or subdivision a of section 27-2029 to a class A multiple dwelling selected pursuant to paragraph one by January 31 of such inspection period, the department may discontinue such inspections in such class A multiple dwelling.
+
+   3. For a period of no more than four years, beginning on the date a class A multiple dwelling was last selected pursuant to this subdivision, the owner of each such class A multiple dwelling shall:
+
+      (a) Notify all tenants, at a time and manner described in rules promulgated by the department, regarding the requirements of this section, including installation of such devices, instructions on how to access the information collected by such devices, and the tenant’s right of refusal;
+
+      (b) Provide and install one internet capable temperature reporting device in one living room of each dwelling unit in such class A multiple dwelling by October 1 of the year in which such class A multiple dwelling was selected pursuant to this subdivision;
+
+      (c) Replace any such device that was stolen, removed, found missing or rendered inoperable during a prior occupancy of the dwelling unit and was not replaced prior to the commencement of the current occupancy of such dwelling unit;
+
+      (d)  Replace such device within 30 days after the receipt of written notice provided by the tenant of the dwelling unit where such device is located that such device has become inoperable due to a defect in the manufacture or installation of such device and through no fault of the tenant;
+
+      (e) Maintain such records as the commissioner shall prescribe by rule relating to the installation and maintenance of such internet capable temperature reporting devices and collection of heat data from such devices, and make such records available to the commissioner upon request, consistent with applicable law and in accordance with rules of the department;
+
+      (f) Maintain a record of reasonable efforts, in accordance with procedures prescribed by rule of the department, to gain access to a tenant’s dwelling unit to install an internet capable temperature reporting device where the owner has been unable to gain such access and such tenant has not refused the installation of such device pursuant to paragraph six; and
+
+      (g) Maintain a written record of the number of each dwelling unit for which the tenant has refused installation of an internet capable temperature reporting device pursuant to paragraph six for not less than one year after such owner is no longer subject to the provisions of this section.
+
+   4. The tenant of each dwelling unit in a class A multiple dwelling in which an internet capable temperature reporting device has been provided and installed by the owner pursuant to this section shall:
+
+      (a) Keep and maintain such device in good repair; and
+
+      (b) Replace any such device that is stolen, removed, found missing or rendered inoperable during such tenant’s occupancy of such dwelling unit, except that the owner may make such replacement and charge such tenant a maximum of $50 for the cost of each such replacement.
+
+   5. The owner may not charge the tenant of a dwelling unit for the acquisition or installation of an internet capable temperature reporting device, nor for the replacement of such device where the replacement is due to wear or malfunction or pursuant to subparagraph (c) or subparagraph (d) of paragraph three of this subdivision, except as provided in subparagraph (b) of paragraph four of this subdivision.
+
+   6. A tenant of a dwelling unit in a class A multiple dwelling selected pursuant to this subdivision shall have the option to refuse an internet capable temperature reporting device installed in such tenant’s dwelling unit. The owner of such class A multiple dwelling shall receive from the tenant written confirmation of the tenant’s decision to opt out of such installation.
+
+   7. An owner of a class A multiple dwelling who is required to install an internet capable temperature reporting device pursuant to this section may apply to the department for discharge from such obligation in less than four years if the department did not issue any violation of this section, section 27-2028, or subdivision a of section 27-2029 during the immediately preceding heat season, or if such owner has demonstrated to the satisfaction of the department that such owner has taken permanent action to address the provision of heat for the next heat season. The department may establish a discharge process by rule.
+
+c. On August 1, 2021, and annually thereafter, the department shall submit to the mayor and the speaker of the council a report containing, at a minimum:
+
+   1. Information about the implementation of the requirements of this section;
+
+   2. A list of the class A multiple dwellings selected in the most recent selection cycle pursuant to subdivision b;
+
+   3. The number of heat complaints from each of the two immediately preceding heat seasons associated with each class A multiple dwelling on such list;
+
+   4. The number of violations of sections 27-2028 and 27-2029 issued in each of the two immediately preceding heat seasons to each class A multiple dwelling on such list;
+
+   5. Where such information is available to the department, whether the owner of a class A multiple dwelling on such list corrected the condition that resulted in any violation of sections 27-2028 and 27-2029;
+
+   6. An evaluation of information that was collected from internet capable temperature reporting devices installed pursuant to this section;
+
+   7. The number of complaints received and violations issued during the period of time that the internet capable temperature reporting device was installed pursuant to this section;
+
+   8. For the report due August 1, 2021, the report shall include the information required by paragraphs two and seven, provided that information required by paragraphs one, three, four, five and six shall be included to the extent available to the department; and
+
+   9. For the report due August 1, 2023, a recommendation based on the information required by paragraph six as to whether the requirements of this section should remain in effect.
+
+d. Failure to install an internet capable temperature reporting device pursuant to paragraph three of subdivision b may result in a hazardous violation.
+
+
+
+
+
+
+
+
 
 **Article 9: Gas Appliances**
 

@@ -122,36 +122,58 @@ Chapter 5: Reporting on Students Receiving Special Education Services
 
 
 
-*§ 21-955 Annual reporting on special education services.* ::
+*§ 21-955 Reporting on special education services.* ::
 
 
-a. For the purposes of this section, the following terms shall have the following meanings:
+a. For the purposes of this section, the following terms have the following meanings:
 
-   1. "Academic period" shall mean the period beginning July 1 of the current calendar year until and including June 30 of the following subsequent calendar year.
+   Academic period. The term "academic period" means the period beginning July 1 of the current calendar year until and including June 30 of the following subsequent calendar year.
 
-   2. "Committee on special education" shall have the same meaning as set forth in section 200.1 of title 8 of the official compilation of the codes, rules and regulations of the state of New York.
+   Committee on preschool special education. The term "committee on preschool special education" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations.
 
-   3. "Date of consent" shall mean the date on which the department received written consent to conduct an initial evaluation from the parent or person in parental relation.
+   Committee on special education. The term "committee on special education" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations.
 
-   4. "Date of referral for reevaluation" shall mean the date on which the department received a referral or referred a student with a disability for a reevaluation.
+   Date of consent. The term "date of consent" means the date on which the department received written consent to conduct an initial evaluation from the parent or person in parental relation.
 
-   5. "IEP meeting" shall mean a meeting of the committee on special education for the purpose of determining whether the student is a student with a disability and for the purpose of developing an IEP for any such student with a disability.
+   Date of referral for reevaluation. The term "date of referral for reevaluation" means the date on which the department received a referral or referred a student with a disability for a reevaluation.
 
-   6. "Initial evaluation" shall mean an evaluation to determine if a student is a student with a disability, conducted pursuant to sections 4401-a and 4402 of the education law and section 200.4 of title 8 of the official compilation of the codes, rules and regulations of the state of New York.
+   Home language. The term "home language" means the language most frequently used in the student's home, as indicated by the response provided by the parent or person in parental relation on the home language questionnaire as that term is defined in section 154-2.2 of title 8 of the New York codes, rules and regulations.
 
-   7. "Reevaluation" shall mean an evaluation of a student with a disability conducted pursuant to section 4402 of the education law and section 200.4 of title 8 of the official compilation of the codes, rules and regulations of the state of New York, provided that such term shall not include a three-year reevaluation.
+   Individualized education program. The term "individualized education program" or "IEP" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations.
 
-   8. "School" shall mean a school of the city school district of the city of New York.
+   IEP meeting. The term "IEP meeting" means a meeting of the committee on special education or committee on preschool special education for the purpose of determining whether the student is a student with a disability and for the purpose of developing an IEP for any such student with a disability.
 
-   9. "Special class" shall have the same meaning as set forth in section 200.1 of title 8 of the official compilation of the codes, rules and regulations of the state of New York.
+   Initial evaluation. The term "initial evaluation" means an evaluation to determine if a student is a student with a disability, conducted pursuant to sections 4401-a, 4402 and 4410 of the education law and section 200.4 of title 8 of the New York codes, rules and regulations.
 
-   10. "Student" shall mean any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
+   Integrated special class program. The term "integrated special class program" has the same meaning as set forth in section 200.9 of title 8 of the New York codes, rules and regulations.
 
-   11. "Student with a disability" shall have the same meaning as set forth in section 4401 of the education law, provided that student with a disability shall not include a pre-kindergarten student or a preschool child.
+   Preschool student. The term "preschool student" means a child aged three to five who is not enrolled in kindergarten.
 
-   12.  "Three-year reevaluation" shall mean a reevaluation that occurs at least once every three years unless otherwise agreed as set forth in section 200.4 of title 8 of the official compilation of the codes, rules and regulations of the state of New York.
+   Preschool student with a disability. The term "preschool student with a disability" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations.
 
-b. The department shall submit to the speaker of the council and post on the department's website an annual report regarding the evaluation of students for special education services and the provision of such services during the preceding academic period, which shall include, but shall not be limited to the following information:
+   Reevaluation. The term "reevaluation" means an evaluation of a student with a disability conducted pursuant to section 4402 of the education law and section 200.4 of title 8 of the New York codes, rules and regulations, provided that such term shall not include a three-year reevaluation.
+
+   Related services. The term "related services" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations.
+
+   Reporting period. The term “reporting period” means, as applicable, the period between July 1 of the prior calendar year until and including October 31 of the prior calendar year, for the report due on February 1; the period between November 1 of the prior calendar year until and including March 31 of the current calendar year, for the report due on June 1 and the period between April 1 of the current calendar year and June 30 of the current calendar year, for the report due on September 1 of the current calendar year.
+
+   School. The term "school" means any elementary, middle or high school within the jurisdiction of the New York city department of education and in any educational facility owned or leased by the city of New York, holding some combination thereof, including, but not limited to, district 75 schools.
+
+   Service recommendation. The term “service recommendation” means the type of services outlined in an individualized education program, including consultant teacher services, resource room programs, integrated co-teaching services, and special class as such terms are defined in section 200.1 of title 8 of the New York codes, rules and regulations.
+
+   Special class. The term "special class" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations.
+
+   Special education itinerant services. The term "special education itinerant services" has the same meaning as set forth in paragraph (k) of subdivision 1 of section 4410 of the education law.
+
+   Student. The term "student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
+
+   Student in temporary housing. The term "student in temporary housing" means a student who has been identified by the department as a "homeless child" as such term is defined in section 100.2 of title 8 of the New York codes, rules and regulations.
+
+   Student with a disability. The term "student with a disability" has the same meaning as set forth in section 4401 of the education law.
+
+   Three-year reevaluation. The term "three-year reevaluation" means a reevaluation that occurs at least once every three years unless otherwise agreed as set forth in section 200.4 of title 8 of the New York codes, rules and regulations.
+
+b. The department shall submit to the speaker of the council and post on the department's website an annual report regarding the evaluation of students, not including preschool students, for special education services and the provision of such services during the preceding academic period, which shall include, but shall not be limited to the following information:
 
    1. the number of referrals for initial evaluations and reevaluations pursuant to section 200.4 of title 8 of the official compilation of the codes, rules and regulations of the state of New York, disaggregated by district, eligibility for the free and reduced price lunch program, race/ethnicity, gender, English Language Learner status, recommended language of instruction, and grade level;
 
@@ -185,31 +207,37 @@ b. The department shall submit to the speaker of the council and post on the dep
 
    11. the number of three-year reevaluations conducted, including the number of such evaluations that were timely conducted, disaggregated by district, eligibility for the free and reduced price lunch program, race/ethnicity, gender, English Language Learner status, recommended language of instruction, and grade level;
 
-   12. the number and percentage of students who were receiving special education services:
+   12. the number and percentage of students, disaggregated by service recommendation, school and community school district, who were receiving special education services:
 
       (i) in full compliance with their IEPs by the end of the academic period; and
 
       (ii) in partial compliance with their IEPs by the end of the academic period;
 
-   13. the number and percentage of students who, by the end of the academic period, were receiving in full the services enumerated in subparagraphs (i) through (viii) of this paragraph as recommended on their IEPs, the number and percentage of students who as of the end of the academic period were receiving in part such services, and the number and percentage of students who were awaiting the provision of such services:
+   13. the number and percentage of students, disaggregated by service recommendation, school and community school district, who, by the end of the academic period, were receiving in full the services enumerated in subparagraphs (a) through (h) of this paragraph as recommended on their IEPs, the number and percentage of students who as of the end of the academic period were receiving in part such services, and the number and percentage of students who were awaiting the provision of such services:
 
-      (i) monolingual speech therapy;
+      (a) Monolingual speech therapy;
 
-      (ii) bilingual speech therapy;
+      (b) Bilingual speech therapy;
 
-      (iii) monolingual counseling;
+      (c)  Monolingual counseling;
 
-      (iv) bilingual counseling;
+      (d) Bilingual counseling;
 
-      (v) occupational therapy;
+      (e) Occupational therapy;
 
-      (vi) physical therapy;
+      (f) Physical therapy;
 
-      (vii) hearing education services; and
+      (g) Hearing education services;
 
-      (viii) vision education services;
+      (h) Vision education services;
 
-   14. the number and percentage of students with IEPs who are recommended for participation in the general education curriculum for:
+      (i) Assistive technology services; and
+
+      (j) Special transportation services.
+
+   14. The number and percentage of students, disaggregated by service recommendation, school and community school district, who have a behavioral intervention plan; and
+
+   15. the number and percentage of students with IEPs who are recommended for participation in the general education curriculum for:
 
       (i) 80% or more of the day;
 
@@ -219,7 +247,221 @@ b. The department shall submit to the speaker of the council and post on the dep
 
 c. The annual report required by subdivision (b) of this section shall be submitted and posted no later than November 1, provided that the first report, reporting data for the academic period beginning July 1, 2014 and ending June 30, 2015, shall be submitted and posted no later than February 29, 2016, and the second report, reporting data for the academic period beginning July 1, 2015 and ending June 30, 2016, shall be submitted and posted no later than November 1, 2016.
 
-d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or allows another category to be narrowed to between 1 and 5 students, the number shall be replaced with a symbol.
+d. The report required by subdivision b of this section shall also include, to the extent practicable, a narrative description of the provision of special education services for students enrolled in district 79 schools and programs.
+
+e.*   Beginning on September 1, 2020, the department shall also submit to the speaker of the council and post on the department's website a report regarding the provision of special education services during the applicable reporting period, including but not limited to the following information:
+
+* Editor's note: there are two subdivisions designated as e. This subdivision e. was added by L.L. 2020/017.
+
+   1. The number and percentage of students who were receiving special education services: (i) in full compliance with their IEPs by the end of the reporting period; and (ii) in partial compliance with their IEPs by the end of the reporting period;
+
+   2. The number and percentage of students who, by the end of the reporting period, were receiving in full the services enumerated in subparagraphs (a) through (j) of this paragraph as recommended on their IEPs, the number and percentage of students who as of the end of the reporting period were receiving in part such services, and the number and percentage of students who were awaiting the provision of such services:
+
+      (a) Monolingual speech therapy;
+
+      (b) Bilingual speech therapy;
+
+      (c)  Monolingual counseling;
+
+      (d) Bilingual counseling;
+
+      (e) Occupational therapy;
+
+      (f) Physical therapy;
+
+      (g) Hearing education services;
+
+      (h) Vision education services;
+
+      (i) Assistive technology services; and
+
+      (j) Special transportation services.
+
+The information required to be reported pursuant to this subdivision shall be submitted and posted no later than September 1, February 1and June 1 of each year.
+
+e.*   The department shall submit to the speaker of the council and post on the department’s website an annual report regarding the evaluation of preschool students for special education services and the provision of such services during the preceding academic period. To the extent such information is available, such report shall include, but shall not be limited to the following information, each disaggregated by community school district, eligibility for the free and reduced price lunch program, race/ethnicity, gender, recommended language of instruction or services, home language and status as a student in temporary housing:
+
+* Editor's note: there are two subdivisions designated as e. This subdivision e. was added by L.L. 2020/021.
+
+   1. The number of referrals for initial evaluations pursuant to section 200.4 of title 8 of the New York codes, rules and regulations;
+
+   2. The number of initial evaluations conducted, including the number of such evaluations that resulted in a determination that the child was a preschool student with a disability;
+
+   3. The number of requests for referral for an initial evaluation pursuant to section 200.4 of title 8 of the New York codes, rules and regulations, for which the department has not received consent from the parent or person in parental relation;
+
+   4. The number of IEP meetings that were convened less than or equal to 60 calendar days from the date of consent for initial evaluations;
+
+   5. The number of IEP meetings that were convened more than 60 calendar days from the date of consent for initial evaluations;
+
+   6. The total number of preschool students with a disability who have an IEP as of June 30 of the reported academic period;
+
+   7. The number and percentage of preschool students with a disability for whom appropriate special education programs and services were arranged to be provided within 60 school days from the date of consent for initial evaluations pursuant to section 200.4 of title 8 of the New York codes, rules and regulations;
+
+   8. The number and percentage of preschool students with a disability who, by the end of the academic period, have an IEP that recommends the following enumerated services:
+
+      (a) Related services only;
+
+      (b) Monolingual special education itinerant services;
+
+      (c) Bilingual special education itinerant services;
+
+      (d) Monolingual full-day integrated special class program;
+
+      (e) Monolingual half-day integrated special class program;
+
+      (f) Bilingual full-day integrated special class program;
+
+      (g) Bilingual half-day integrated special class program;
+
+      (h) Monolingual full-day special class, disaggregated by the following student-to-teacher-to-aid ratios:
+
+         (1) 6:1:2;
+
+         (2) 8:1:2;
+
+         (3) 12:1:2; or
+
+         (4) Other ratio;
+
+      (i) Monolingual half-day special class, disaggregated by the following student-to-teacher-to-aid ratios:
+
+         (1) 6:1:2;
+
+         (2) 8:1:2;
+
+         (3) 12:1:2; or
+
+         (4) Other ratio;
+
+      (j)  Bilingual full-day special class, disaggregated by the following student-to-teacher-to-aid ratios:
+
+         (1) 6:1:2;
+
+         (2) 8:1:2;
+
+         (3) 12:1:2; or
+
+         (4) Other ratio; and
+
+      (k) Bilingual half-day special class, disaggregated by the following student-to-teacher-to-aid ratios:
+
+         (1) 6:1:2;
+
+         (2) 8:1:2;
+
+         (3) 12:1:2; or
+
+         (4) Other ratio.
+
+   8. The number and percentage of preschool students with a disability who were receiving special education services in full compliance with their IEPs by the end of the academic period and in partial compliance with their IEPs by the end of the academic period;
+
+   9. The number and percentage of preschool students with a disability who, by the end of the academic period, were receiving in full the services enumerated in subparagraphs (a) through (s) of this paragraph as recommended in their IEPs; the number and percentage of preschool students with a disability who, as of the end of the academic period, were receiving in part such services; and the number and percentage of preschool students with a disability who, as of the end of the academic period, were awaiting the provision of such services:
+
+      (a) Monolingual speech therapy;
+
+      (b) Bilingual speech therapy;
+
+      (c) Monolingual counseling;
+
+      (d) Bilingual counseling;
+
+      (e) Occupational therapy;
+
+      (f) Physical therapy;
+
+      (g) Hearing education services;
+
+      (h) Vision education services;
+
+      (i) Special transportation services;
+
+      (j) Monolingual special education itinerant services;
+
+      (k) Bilingual special education itinerant services;
+
+      (l) Monolingual full-day integrated special class program;
+
+      (m) Monolingual half-day integrated special class program;
+
+      (n) Bilingual full-day integrated special class program;
+
+      (o) Bilingual half-day integrated special class program;
+
+      (p) Monolingual full-day special class, disaggregated by the following student-to-teacher-to-aid ratios:
+
+         (1) 6:1:2;
+
+         (2) 8:1:2;
+
+         (3) 12:1:2; or
+
+         (4) Other ratio;
+
+      (q) Monolingual half-day special class, disaggregated by the following student-to-teacher-to-aid ratios:
+
+         (1) 6:1:2;
+
+         (2) 8:1:2;
+
+         (3) 12:1:2; or
+
+         (4) Other ratio;
+
+      (r) Bilingual full-day special class, disaggregated by the following student-to-teacher-to-aid ratios:
+
+         (1) 6:1:2;
+
+         (2) 8:1:2;
+
+         (3) 12:1:2; or
+
+         (4) Other ratio; and
+
+      (s) Bilingual half-day special class, disaggregated by the following student-to-teacher-to-aid ratios:
+
+         (1) 6:1:2;
+
+         (2) 8:1:2;
+
+         (3) 12:1:2; or
+
+         (4) Other ratio;
+
+   10. The number and percentage of preschool students with a disability enrolled in 3-K or Pre-K for All programs at the end of the academic period, disaggregated by grade level where available;
+
+   11. The number and percentage of preschool students with a disability enrolled in 3-K or Pre-K for All programs who receive full services at the 3-K or Pre-K for All program where they are enrolled;
+
+   12. The number of preschool integrated special class programs in 3-K and Pre-K for All;
+
+   13. The number of non-public preschool special education programs approved by the state education department;
+
+   14. The number of preschool special classes administered by the department in 3-K and Pre-K for All, including programs in district 75 schools, in total and disaggregated by the following student-to-teacher-to-aid ratios:
+
+      (1) 6:1:2;
+
+      (2) 8:1:2;
+
+      (3) 12:1:2; or
+
+      (4) Other ratio; and
+
+   15. The number of non-public preschool special education programs approved by the state education department in total and disaggregated by the following student-to-teacher-to-aid ratio:
+
+      (1) 6:1:2;
+
+      (2) 8:1:2;
+
+      (3) 12:1:2; or
+
+      (4) Other ratio.
+
+f.*   No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or allows another category to be narrowed to between one and five students, the number shall be replaced with a symbol. A category that contains zero students shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
+
+* Editor's note: there are two subdivisions designated as f. This subdivision f. was added by L.L. 2020/017.
+
+f.*   The annual report required by subdivision e of this section shall be submitted and posted no later than November 1.
+
+* Editor's note: there are two subdivisions designated as f. This subdivision f. was added by L.L. 2020/021.
 
 
 
