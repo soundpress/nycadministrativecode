@@ -3544,7 +3544,7 @@ d. Notice to patrons.
 
 (d) The plan shall be amended whenever additional devices or activities unforeseen at the commencement of construction are employed at the site or at the direction of the commissioner in accordance with section 24-223 of this subchapter.
 
-(e) TThe plan shall be filed electronically with the department no later than 30 days after the commencement of construction if it conforms in all respects to the rules of the department with respect to construction devices and activities employed or performed at the construction site. A plan that deviates in any respect from such rules or an alternative noise mitigation plan required to be certified in conjunction with an undue hardship application pursuant to paragraph (5) of subdivision (e) of section 24-223 shall be subject to the prior approval of the commissioner in accordance with section 24-221 of this code.
+(e) The plan shall be filed electronically with the department no later than 30 days after the commencement of construction if it conforms in all respects to the rules of the department with respect to construction devices and activities employed or performed at the construction site. A plan that deviates in any respect from such rules or an alternative noise mitigation plan required to be certified in conjunction with an undue hardship application pursuant to paragraph (5) of subdivision (e) of section 24-223 shall be subject to the prior approval of the commissioner in accordance with section 24-221 of this code.
 
 (f) This section shall not apply to construction work in connection with the alteration or repair of an existing one or two family owner-occupied dwelling classified in occupancy group J-3 or a convent or rectory.
 

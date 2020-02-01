@@ -1913,22 +1913,26 @@ b. Nothing herein shall be construed to increase the number of hours of parking 
 
 
 
-*§ 19-166 Unlawful use or possession of official cards.* ::
+*§ 19-166 Unlawful use or possession of city-issued parking permits.* ::
 
 
-Any person who without permission of the commissioner of transportation:
+a. For the purposes of this section, the term "city-issued parking permit" means a permit issued by a city agency that indicates permission to park in certain areas during certain times has been granted.
 
-1. Makes or engraves, or causes or procures to be made or engraved, or willingly aids or assists in making or engraving, a plate or other means of reproducing or printing the resemblance or similitude of an official department of transportation special vehicle identification card or any other official card issued by the department of transportation; or
+b. Any person who without permission of the commissioner of transportation or the police commissioner in accordance with section 14-183 of the administrative code:
 
-2. Has in his or her possession or custody any implements, or materials, with intent that they shall be used for the purpose of making or engraving such a plate or means of reproduction; or
+   1. Makes or engraves, or causes or procures to be made or engraved, or willingly aids or assists in making or engraving, a plate or other means of reproducing or printing the resemblance or similitude of any city-issued parking permit; or
 
-3. Has in his or her possession or custody such a plate or means of reproduction with intent to use, or permit the same to be used, for the purpose of taking therefrom any impression or copy to be uttered; or
+   2. Has in his or her possession or custody any implements, or materials, with intent that they shall be used for the purpose of making or engraving such a plate or means of reproduction; or
 
-4. Has in his or her possession or custody any impression or copy taken from such a plate or means of reproduction, with intent to have the same filled up and completed for the purpose of being uttered; or
+   3. Has in his or her possession or custody such a plate or means of reproduction with intent to use, or permit the same to be used, for the purpose of taking therefrom any impression or copy to be uttered; or
 
-5. Makes or engraves, or causes or procures to be made or engraved, or willingly aids or assists in making or engraving, upon any plate or other means of reproduction, any figures or words with intent that the same may be used for the purpose of altering any genuine card hereinbefore indicated or mentioned; or
+   4. Has in his or her possession or custody any impression or copy taken from such a plate or means of reproduction, with intent to have the same filled up and completed for the purpose of being uttered; or
 
-6. Has in his or her custody or possession any of the cards hereinbefore mentioned, or any copy or reproduction thereof; is guilty of an offense punishable by a fine of not less than two hundred fifty dollars, or imprisonment for not more than thirty days, or both.
+   5. Makes or engraves, or causes or procures to be made or engraved, or willingly aids or assists in making or engraving, upon any plate or other means of reproduction, any figures or words with intent that the same may be used for the purpose of altering any genuine city-issued parking permit hereinbefore indicated or mentioned; or
+
+   6. Has in his or her custody or possession any city-issued parking permit or any copy or reproduction thereof; is guilty of an offense punishable by a fine of not less than $500, or imprisonment for not more than thirty days, or both.
+
+
 
 
 
