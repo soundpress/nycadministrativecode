@@ -3535,23 +3535,6 @@ c. The department shall keep a record of all notices of violation canceled pursu
 
 
 
-Chapter 4: Reduced Fare Contracts
---------------------------------------------------
-
-
-
-*§ 19-401 Authorization of reduced fare contracts.* ::
-
-
-a. The board of estimate shall have the power, pursuant to section one hundred nineteen-r of the general municipal law, to enter into a contract or contracts with any person, firm or corporation owning and operating a mass transportation facility within the city in order to provide transportation at a reduced fare during specified days and hours for eligible residents of the city who are over sixty-five years of age and not fully employed.
-
-b. Any such contract may provide for reimbursement of the actual or estimated difference between the reduced fare collected from such passengers and the established rate of fare, plus such other administrative costs as may be incurred by the contracting person, firm or corporation.
-
-c. The separate and additional approval of the mayor shall be necessary to the validity of any such contract.
-
-
-
-
 Chapter 3: Ferries
 --------------------------------------------------
 
@@ -3711,6 +3694,23 @@ j. (1)    On or before October 1, 2009 and every succeeding October 1 thereaf
 k. The commissioner shall conduct a study to determine the feasibility of utilizing in city ferries (i) alternative fuels, which shall include but need not be limited to the combustion of biodiesel of at least five percent biodiesel by volume (B5) and up to 20 percent biodiesel by volume (B20) and renewable diesel and (ii) alternative fuel technologies, which shall include but need not be limited to hybrid electric, battery electric and fuel-cell electric power trains. The study shall include a review of the types and classes of ferries used and planned to be used and, as applicable, their compatibility with the alternative fuels and alternative fuel technologies studied, the availability of such fuels and technologies, the mixing and storage of such fuels and technologies and other relevant issues including barriers, opportunities and regulatory requirements related to the use of such fuels and technologies in city ferries. No later than December 31, 2019, the commissioner shall electronically submit to the mayor and the speaker of the council, and make publicly available online, a report detailing the findings of this study with recommendations relating to the use of alternative fuels and technologies in city ferries and shall thereafter, to the fullest extent the commissioner determines to be practicable based upon such report, implement the use of such fuels or technologies in city ferries.
 
 
+
+
+
+
+Chapter 4: Reduced Fare Contracts
+--------------------------------------------------
+
+
+
+*§ 19-401 Authorization of reduced fare contracts.* ::
+
+
+a. The board of estimate shall have the power, pursuant to section one hundred nineteen-r of the general municipal law, to enter into a contract or contracts with any person, firm or corporation owning and operating a mass transportation facility within the city in order to provide transportation at a reduced fare during specified days and hours for eligible residents of the city who are over sixty-five years of age and not fully employed.
+
+b. Any such contract may provide for reimbursement of the actual or estimated difference between the reduced fare collected from such passengers and the established rate of fare, plus such other administrative costs as may be incurred by the contracting person, firm or corporation.
+
+c. The separate and additional approval of the mayor shall be necessary to the validity of any such contract.
 
 
 
@@ -5674,29 +5674,6 @@ Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the 
 
 
 
-Chapter 8: Citywide Transit Study
---------------------------------------------------
-
-
-
-*§ 19-801 Citywide transit study.* ::
-
-
-a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
-
-   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
-
-   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
-
-   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
-
-b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
-
-
-
-
-
-
 Chapter 7: Accessible Water Borne Commuter Services Facilities Transportation Act
 --------------------------------------------------
 
@@ -5975,6 +5952,29 @@ The department, the commission on human rights and operators of any water borne 
 
 
 If any section, subdivision, sentence, clause, phrase or other portion of the local law that added this chapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of the local law that added this chapter, which remaining portions shall continue in full force and effect.
+
+
+
+
+Chapter 8: Citywide Transit Study
+--------------------------------------------------
+
+
+
+*§ 19-801 Citywide transit study.* ::
+
+
+a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
+
+   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
+
+   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
+
+   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
+
+b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
+
+
 
 
 
