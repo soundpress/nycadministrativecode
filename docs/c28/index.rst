@@ -537,10 +537,10 @@ b. Not later than September 1, 2017 and no later than September 1 each year ther
 
 
 
-*§ 25-209 Notice of expiration of a variance.* ::
+*§ 25-209 Notice of expiration of a variance or special permit.* ::
 
 
-For any variance granted by the board after December 31, 2013 pursuant to sections 666 and 668 of the charter for which such board imposed a term, the board shall notify, no later than six months prior to the expiration of the term of such variance, the owner of record of the subject property that the term of such variance will expire. Such notification shall be sent via first class mail and, if practicable, via email. Use of such subject property after the expiration of such term in a manner that is inconsistent with the certificate of occupancy or with records of the department of buildings shall subject such property to a violation of section 28-118.3.2 of this code. Such notification shall also inform the owner of record of the subject property that the board may not approve an application to extend the term of a variance until penalties imposed pursuant to a violation of such section are paid in full.
+For any variance or special permit granted by the board after December 31, 2013 pursuant to sections 666 and 668 of the charter for which such board imposed a term, the board shall notify, no later than six months prior to the expiration of the term of such variance or special permit, the owner of record of the subject property and the community board for the community district in which the subject property is located that the term of such variance or special permit will expire. Such notification shall be sent via first class mail and, if practicable, via email. Use of such subject property after the expiration of such term in a manner that is inconsistent with the certificate of occupancy or with records of the department of buildings shall subject such property to a violation of section 28-118.3.2 of this code. Such notification shall also inform the owner of record of the subject property that the board may not approve an application to extend the term of a variance or special permit until penalties imposed pursuant to a violation of such section are paid in full.
 
 
 

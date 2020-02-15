@@ -1354,6 +1354,20 @@ b. By July 30, 2019, and every year thereafter, the commissioner shall submit to
 
 
 
+
+
+*§ 18-156 Soil lead testing.* ::
+
+
+a. For the purposes of this section, the term “covered capital project” means a capital project, as defined in section 5-101, that is within the jurisdiction of the department and that upon completion of construction is expected to include an area containing publicly accessible exposed soil that is intended for active play or passive recreation, provided that the design phase of such capital project commences after the effective date of this section.
+
+b. Before construction work on a covered capital project commences, the department shall determine the lead level of soil within the area of such covered capital project. Where such lead level is at or above the level set forth in paragraph (c) of section 745.65 of title 40 of the code of federal regulations, the department shall, as part of such covered capital project, cover, replace, make inaccessible or otherwise remediate any soil within such area that is designated for active play or passive recreation.
+
+
+
+
+
+
 Chapter 2: Summer Camps For Children
 --------------------------------------------------
 

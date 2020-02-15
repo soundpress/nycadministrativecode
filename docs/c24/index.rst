@@ -946,6 +946,49 @@ c. The department shall make available such educational materials in English and
 
 
 
+Chapter 10: Computer Science Education Reporting
+--------------------------------------------------
+
+
+
+*§ 21-972 Reporting on computer science education.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Computer science program. The term "computer science program" means any class, component of a class, or curriculum designed to enable students to learn computing concepts, including but not limited to abstraction, algorithms, programming, data and information, and networks.
+
+   Certified STEM instructor. The term "certified STEM instructor" means a teacher who is licensed to teach a specific STEM subject.
+
+   "School" means a school of the city school district of the city of New York.
+
+   "STEM" means science, technology, engineering or math.
+
+   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
+
+b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the speaker of the council and post conspicuously on the department's website a report for the preceding academic year which shall include, but not be limited to, the following:
+
+   1. The total number of computer science programs offered in each school, including information regarding the nature of the computer science programs and whether such programs are advanced placement computer science classes, to the extent such information is available;
+
+   2. The number and percentage of students who enrolled in a computer science program, disaggregated by (i) race and ethnicity; (ii) gender; (iii) special education status; (iv) English language learner status; (v) eligibility for the free and reduced price lunch program; (vi) grade level; and (vii) community school district;
+
+   3. The number of designated full-time and part-time certified STEM instructors providing instruction at each school; and the ratio of full-time certified STEM instructors to students at each school;
+
+   4. Information regarding the STEM institute administered by the department, including but not limited to, the nature of the training offered, the number of teachers trained, organizations involved, the funding provided and the source of such funding;
+
+   5. Information regarding the department's computer science initiatives; and
+
+   6. Information regarding the total available bandwidth in megabits per second provided in each school building; and for each such school building containing more than one school, the schools in such building.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
+
+d. This chapter expires ten years after the effective date of the local law that added this chapter.
+
+
+
+
+
+
 Chapter 9. Career and Technical Education Reporting
 --------------------------------------------------
 
@@ -993,43 +1036,17 @@ e. This chapter expires five years after the effective date of the local law tha
 
 
 
-Chapter 10: Computer Science Education Reporting
+Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
 --------------------------------------------------
 
 
 
-*§ 21-972 Reporting on computer science education.* ::
+*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
 
 
-a. For the purposes of this section, the following terms have the following meanings:
+a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
 
-   Computer science program. The term "computer science program" means any class, component of a class, or curriculum designed to enable students to learn computing concepts, including but not limited to abstraction, algorithms, programming, data and information, and networks.
-
-   Certified STEM instructor. The term "certified STEM instructor" means a teacher who is licensed to teach a specific STEM subject.
-
-   "School" means a school of the city school district of the city of New York.
-
-   "STEM" means science, technology, engineering or math.
-
-   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
-
-b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the speaker of the council and post conspicuously on the department's website a report for the preceding academic year which shall include, but not be limited to, the following:
-
-   1. The total number of computer science programs offered in each school, including information regarding the nature of the computer science programs and whether such programs are advanced placement computer science classes, to the extent such information is available;
-
-   2. The number and percentage of students who enrolled in a computer science program, disaggregated by (i) race and ethnicity; (ii) gender; (iii) special education status; (iv) English language learner status; (v) eligibility for the free and reduced price lunch program; (vi) grade level; and (vii) community school district;
-
-   3. The number of designated full-time and part-time certified STEM instructors providing instruction at each school; and the ratio of full-time certified STEM instructors to students at each school;
-
-   4. Information regarding the STEM institute administered by the department, including but not limited to, the nature of the training offered, the number of teachers trained, organizations involved, the funding provided and the source of such funding;
-
-   5. Information regarding the department's computer science initiatives; and
-
-   6. Information regarding the total available bandwidth in megabits per second provided in each school building; and for each such school building containing more than one school, the schools in such building.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
-
-d. This chapter expires ten years after the effective date of the local law that added this chapter.
+b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
 
 
 
@@ -1087,23 +1104,6 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 
 
 * Editor's note: pursuant to L.L. 2017/090, § 2, this section expires and is deemed repealed five years after the date of the local law that added the section.
-
-
-
-
-Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
---------------------------------------------------
-
-
-
-*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
-
-
-a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
-
-b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
-
-
 
 
 
@@ -1256,43 +1256,6 @@ d. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-Chapter 17: Distribution of Information Regarding Summer School and Meals
---------------------------------------------------
-
-
-
-*§ 21-979 Distribution of information regarding summer meals.* ::
-
-
-a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
-
-b. No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
-
-   1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
-
-   2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
-
-
-
-
-
-
-
-
-*§ 21-979.1 Posting summer school calendar information by school.* ::
-
-
-a. Definitions. For the purposes of this section, the term “school building” means any buildings, grounds, facilities, property, or portion thereof, owned or leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school.
-
-b. No later than June 30 of each year, the department shall post on its website information regarding the forthcoming summer school session, including but not limited to the locations of school buildings where summer school will be provided and the dates on which summer school will be in session at each such school building. Nothing contained herein shall prevent the department from making any change to such locations and such dates after June 30, provided however that if the department makes any such change the department shall update the information posted on its website regarding such locations and dates as appropriate.
-
-c. No later than June 30 of each year, the department of transportation shall post on its website information on the locations of school buildings and summer school dates posted in accordance with subdivision b of this section, and for each such school building where there are parking restrictions on a street immediately adjacent to such school building that are in effect only on school days, that such restrictions are in effect on such summer school dates.
-
-
-
-
-
-
 Chapter 18: Bullying, Harassment, Intimidation and Discrimination
 --------------------------------------------------
 
@@ -1390,6 +1353,43 @@ d. Updates. The department shall update the names and contact information posted
 
 
 The department shall distribute to each school for distribution to every student of such school information regarding how to access any online portal relating to the reporting of bullying, harassment, intimidation or discrimination operated by the department, if such portal exists.
+
+
+
+
+
+
+Chapter 17: Distribution of Information Regarding Summer School and Meals
+--------------------------------------------------
+
+
+
+*§ 21-979 Distribution of information regarding summer meals.* ::
+
+
+a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
+
+b. No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
+
+   1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
+
+   2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
+
+
+
+
+
+
+
+
+*§ 21-979.1 Posting summer school calendar information by school.* ::
+
+
+a. Definitions. For the purposes of this section, the term “school building” means any buildings, grounds, facilities, property, or portion thereof, owned or leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school.
+
+b. No later than June 30 of each year, the department shall post on its website information regarding the forthcoming summer school session, including but not limited to the locations of school buildings where summer school will be provided and the dates on which summer school will be in session at each such school building. Nothing contained herein shall prevent the department from making any change to such locations and such dates after June 30, provided however that if the department makes any such change the department shall update the information posted on its website regarding such locations and dates as appropriate.
+
+c. No later than June 30 of each year, the department of transportation shall post on its website information on the locations of school buildings and summer school dates posted in accordance with subdivision b of this section, and for each such school building where there are parking restrictions on a street immediately adjacent to such school building that are in effect only on school days, that such restrictions are in effect on such summer school dates.
 
 
 
