@@ -1,6 +1,23 @@
 Title 21-A: Education
 ===================================================
 
+Chapter 2: Reporting On Co-located Schools
+--------------------------------------------------
+
+
+
+*§ 21-951 Annual reporting on co-located schools.* ::
+
+
+a. For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
+
+b. Not later than the thirtieth day of August of the year 2015 and annually thereafter, the department shall submit to the council and post on the department's website a report regarding information on all co-located schools for the prior school year. Such report shall include, but not be limited to, (i) a comparison of demographic information including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for the free and reduced price lunch program and (ii) information regarding student academic performance, including but not limited to, student scores received on state examinations.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 9 students, or allows another category to be narrowed to between 0 and 9 students, the number shall be replaced with a symbol.
+
+
+
+
 Chapter 1: Definitions
 --------------------------------------------------
 
@@ -22,23 +39,6 @@ Whenever used in this title, unless otherwise specified, the following terms sha
 "Special education services or programs" or "special education services" shall mean specialized instructional services provided by a certified special education teacher or reading teacher.
 
 "Student" shall mean any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a district school or charter school within the city district, not including pre-kindergarten students.
-
-
-
-
-Chapter 2: Reporting On Co-located Schools
---------------------------------------------------
-
-
-
-*§ 21-951 Annual reporting on co-located schools.* ::
-
-
-a. For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
-
-b. Not later than the thirtieth day of August of the year 2015 and annually thereafter, the department shall submit to the council and post on the department's website a report regarding information on all co-located schools for the prior school year. Such report shall include, but not be limited to, (i) a comparison of demographic information including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for the free and reduced price lunch program and (ii) information regarding student academic performance, including but not limited to, student scores received on state examinations.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 9 students, or allows another category to be narrowed to between 0 and 9 students, the number shall be replaced with a symbol.
 
 
 
@@ -113,6 +113,207 @@ g. Not later than November first, two thousand fifteen and annually thereafter, 
    4. The current status of any site subject to a consent order or agreement with the United States environmental protection agency, the New York state department of environmental conservation or the New York state department of health.
 
    5. All information required by this subdivision shall be aggregated citywide, as well as disaggregated by school, community school district, council district and borough.
+
+
+
+
+Chapter 6: Reporting on Demographic Data in New York City Public Schools
+--------------------------------------------------
+
+
+
+*§ 21-956 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms have the following meanings:
+
+Over the counter. The term "over the counter" means a process of enrollment for high school students other than the citywide high school admissions process.
+
+Performance level. The term "performance level" means the classification of test scores received on the New York state English language arts and mathematics examinations into four proficiency categories as reported by the state.
+
+Resident in temporary housing. The term "resident in temporary housing" means satisfying the definition of "homeless child" as set forth in chancellor's regulation A-780.
+
+School. The term "school" means a school of the city school district of the city of New York, including charter schools under the jurisdiction of the department.
+
+Special programs. The term "special programs" means academic programs including but not limited to gifted and talented programs in grades kindergarten through five and dual language programs in grades kindergarten through eight.
+
+
+
+
+
+
+
+
+*§ 21-957 Annual report on the demographics of students in grades kindergarten through eight.* ::
+
+
+Not later than December 31, 2015, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
+
+a. For each community school district, school within such district, special program within such school, and grade within such school, the total number of public school students enrolled in the preceding school year in grades kindergarten through eight and the number and percentage of such students who:
+
+   1. Receive special education services;
+
+   2. Are English language learners;
+
+   3. Are eligible for the federal free or reduced price meals program;
+
+   4. Reside in temporary housing;
+
+   5. Are attending school out of the attendance zone in which the student resides; and
+
+   6. Are attending school out of the community school district in which the student resides.
+
+b. The data provided pursuant to subdivision a shall be disaggregated by:
+
+   1. Grade level;
+
+   2. Race or ethnicity;
+
+   3. Gender;
+
+   4. English language learner status; and
+
+   5. Primary home language.
+
+c. For students in grades three through eight, the data provided pursuant to subdivision a of this section shall indicate:
+
+   1. The number of students who completed the New York state mathematics examination, disaggregated by performance level; and
+
+   2. The number of students who completed the New York state English language arts examination, disaggregated by performance level.
+
+d. For each school and special program set forth in subdivision a of this section, the department shall report:
+
+   1. The admissions process used by such school or special program, including but not limited to, whether admission to such school or special program is based on a lottery; a geographic zone; an audition; a screening of candidates for such school; including a detailed description of such screening; or a standardized test;
+
+   2. Any criteria or methods that are used to supplement the admissions process, including but not limited to, preferences established under the department's diversity in admissions pilot, composite score formulas, waitlists or a principal's discretion;
+
+   3. A side-by-side comparison of the racial and ethnic demographics of such school or special program with the racial and ethnic demographics of all students in grades kindergarten through eight that reside within the applicable attendance zone, and, if the applicable attendance zone is smaller than the community school district, a side-by-side comparison of the racial and ethnic demographics of the school or special program, the applicable attendance zone and the applicable community school district; and
+
+   4. Whether such school or special program is becoming more or less similar to the racial and ethnic demographics of the applicable attendance zone and the community school district, based on the comparison required pursuant to paragraph 3 of this subdivision.
+
+e. For each community school district, the department shall report on whether the department made any efforts in such community school district during the preceding school year to encourage a diverse student body in its schools and special programs and, if so, the details of such efforts, including, but not limited to, strategic site selection of new schools and special programs, making recommendations to the community education council to draw attendance zones with recognition of the demographics of neighborhoods, the allocation of resources for schools and special programs, and targeted outreach and recruitment efforts.
+
+f. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or contains an amount that would allow another category that contains between one and five students to be deduced, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
+
+g. The report required pursuant to this section shall, to the extent the department has such information, include data regarding charter schools located within the five boroughs.
+
+
+
+
+
+
+
+
+*§ 21-957.1 Annual report on high school student demographics.* ::
+
+
+Not later than December 31, 2015, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
+
+a. For each public high school, the total number of students enrolled in grades nine through twelve in the preceding school year and the number and percentage of such students who:
+
+   1. Receive special education services;
+
+   2. Are English language learners;
+
+   3. Are eligible for the federal free or reduced price meals program;
+
+   4. Reside in temporary housing; and
+
+   5. Are enrolled over the counter.
+
+b. The data provided pursuant to subdivision a shall be disaggregated by:
+
+   1. Grade level;
+
+   2. Race or ethnicity;
+
+   3. Gender;
+
+   4. English language learner status; and
+
+   5. Primary home language.
+
+c. For students in grade nine, the data provided pursuant to subdivision a of this section shall provide:
+
+   1. The number of students who completed the New York state mathematics examination administered in eighth grade, disaggregated by performance level; and
+
+   2. The number of students who completed the New York state English language arts examination administered in eighth grade, disaggregated by performance level.
+
+d. For each high school set forth in subdivision a of this section, the department shall report:
+
+   1. The admissions process used by such school, such as whether admissions to such school is based on a lottery; a geographic zone; an audition; a screening of candidates for such school, including a detailed description of such screening; or a standardized test; and
+
+   2. Whether other criteria or methods are used for admissions including, but not limited to, preferences established under the department's diversity in admissions pilot, over the counter admissions, waitlists, or a principal's discretion.
+
+e. The department shall report, on an individual high school level, on efforts each individual high school has taken during the preceding school year to encourage a diverse student body including, but not limited to, strategic site selection of new schools and special programs, the allocation of resources for schools and special programs, and targeted outreach and recruitment efforts.
+
+f. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or contains an amount that would allow another category that contains between one and five students to be deduced, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
+
+
+
+
+
+
+
+
+*§ 21-957.2 Annual report on the demographics of students in pre-kindergarten programs operated by the department.* ::
+
+
+Not later than November 1, 2016, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
+
+a. For each school that offers a pre-kindergarten program, the total number of students enrolled in the preceding school year in such program, disaggregated by race or ethnicity and gender.
+
+b. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or contains an amount that would allow another category that contains between one and five students to be deduced, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
+
+
+
+
+
+
+
+
+*§ 21-958 Annual report on the demographics of school staff.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Leadership staff. The term “leadership staff” means principals and assistant principals employed by the department.
+
+   Other professional and paraprofessional staff. The term “other professional and paraprofessional staff” means paraprofessionals, therapists and other pedagogical staff employed by the department, including, but not limited to guidance counselors, social workers and school psychologists, that are not teaching staff or leadership staff.
+
+   School. The term “school” means a school of the city school district of the city of New York.
+
+   Teaching staff. The term “teaching staff” means teachers employed by the department.
+
+b. No later than December 1, 2020, and annually by December 1 thereafter, the department shall submit to the speaker of the council and post on its website a report for the previous school year including the following for each school:
+
+   1. The district borough number; and
+
+   2. The number of employees, disaggregated by:
+
+      (a) Teaching staff;
+
+      (b) Leadership staff; and
+
+      (c) Other professional and paraprofessional staff.
+
+   3. The data reported pursuant to paragraph 2 of this subdivision shall be further disaggregated by:
+
+      (a) Gender; and
+
+      (b) Race or ethnicity.
+
+   4. The data reported pursuant to subparagraphs (a) and (b) of paragraph 3 of this subdivision shall be further disaggregated by:
+
+      (a) Length of employment at such school; and
+
+      (b) Years of experience in such position.
+
+   5. The data reported pursuant to paragraph 2 of this subdivision shall be aggregated by community school district for schools serving students in grades pre-kindergarten through eight, by borough and citywide.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law related to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
+
+
 
 
 
@@ -462,207 +663,6 @@ f.*   No information that is otherwise required to be reported pursuant to th
 f.*   The annual report required by subdivision e of this section shall be submitted and posted no later than November 1.
 
 * Editor's note: there are two subdivisions designated as f. This subdivision f. was added by L.L. 2020/021.
-
-
-
-
-
-
-Chapter 6: Reporting on Demographic Data in New York City Public Schools
---------------------------------------------------
-
-
-
-*§ 21-956 Definitions.* ::
-
-
-For the purposes of this chapter, the following terms have the following meanings:
-
-Over the counter. The term "over the counter" means a process of enrollment for high school students other than the citywide high school admissions process.
-
-Performance level. The term "performance level" means the classification of test scores received on the New York state English language arts and mathematics examinations into four proficiency categories as reported by the state.
-
-Resident in temporary housing. The term "resident in temporary housing" means satisfying the definition of "homeless child" as set forth in chancellor's regulation A-780.
-
-School. The term "school" means a school of the city school district of the city of New York, including charter schools under the jurisdiction of the department.
-
-Special programs. The term "special programs" means academic programs including but not limited to gifted and talented programs in grades kindergarten through five and dual language programs in grades kindergarten through eight.
-
-
-
-
-
-
-
-
-*§ 21-957 Annual report on the demographics of students in grades kindergarten through eight.* ::
-
-
-Not later than December 31, 2015, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
-
-a. For each community school district, school within such district, special program within such school, and grade within such school, the total number of public school students enrolled in the preceding school year in grades kindergarten through eight and the number and percentage of such students who:
-
-   1. Receive special education services;
-
-   2. Are English language learners;
-
-   3. Are eligible for the federal free or reduced price meals program;
-
-   4. Reside in temporary housing;
-
-   5. Are attending school out of the attendance zone in which the student resides; and
-
-   6. Are attending school out of the community school district in which the student resides.
-
-b. The data provided pursuant to subdivision a shall be disaggregated by:
-
-   1. Grade level;
-
-   2. Race or ethnicity;
-
-   3. Gender;
-
-   4. English language learner status; and
-
-   5. Primary home language.
-
-c. For students in grades three through eight, the data provided pursuant to subdivision a of this section shall indicate:
-
-   1. The number of students who completed the New York state mathematics examination, disaggregated by performance level; and
-
-   2. The number of students who completed the New York state English language arts examination, disaggregated by performance level.
-
-d. For each school and special program set forth in subdivision a of this section, the department shall report:
-
-   1. The admissions process used by such school or special program, including but not limited to, whether admission to such school or special program is based on a lottery; a geographic zone; an audition; a screening of candidates for such school; including a detailed description of such screening; or a standardized test;
-
-   2. Any criteria or methods that are used to supplement the admissions process, including but not limited to, preferences established under the department's diversity in admissions pilot, composite score formulas, waitlists or a principal's discretion;
-
-   3. A side-by-side comparison of the racial and ethnic demographics of such school or special program with the racial and ethnic demographics of all students in grades kindergarten through eight that reside within the applicable attendance zone, and, if the applicable attendance zone is smaller than the community school district, a side-by-side comparison of the racial and ethnic demographics of the school or special program, the applicable attendance zone and the applicable community school district; and
-
-   4. Whether such school or special program is becoming more or less similar to the racial and ethnic demographics of the applicable attendance zone and the community school district, based on the comparison required pursuant to paragraph 3 of this subdivision.
-
-e. For each community school district, the department shall report on whether the department made any efforts in such community school district during the preceding school year to encourage a diverse student body in its schools and special programs and, if so, the details of such efforts, including, but not limited to, strategic site selection of new schools and special programs, making recommendations to the community education council to draw attendance zones with recognition of the demographics of neighborhoods, the allocation of resources for schools and special programs, and targeted outreach and recruitment efforts.
-
-f. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or contains an amount that would allow another category that contains between one and five students to be deduced, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
-
-g. The report required pursuant to this section shall, to the extent the department has such information, include data regarding charter schools located within the five boroughs.
-
-
-
-
-
-
-
-
-*§ 21-957.1 Annual report on high school student demographics.* ::
-
-
-Not later than December 31, 2015, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
-
-a. For each public high school, the total number of students enrolled in grades nine through twelve in the preceding school year and the number and percentage of such students who:
-
-   1. Receive special education services;
-
-   2. Are English language learners;
-
-   3. Are eligible for the federal free or reduced price meals program;
-
-   4. Reside in temporary housing; and
-
-   5. Are enrolled over the counter.
-
-b. The data provided pursuant to subdivision a shall be disaggregated by:
-
-   1. Grade level;
-
-   2. Race or ethnicity;
-
-   3. Gender;
-
-   4. English language learner status; and
-
-   5. Primary home language.
-
-c. For students in grade nine, the data provided pursuant to subdivision a of this section shall provide:
-
-   1. The number of students who completed the New York state mathematics examination administered in eighth grade, disaggregated by performance level; and
-
-   2. The number of students who completed the New York state English language arts examination administered in eighth grade, disaggregated by performance level.
-
-d. For each high school set forth in subdivision a of this section, the department shall report:
-
-   1. The admissions process used by such school, such as whether admissions to such school is based on a lottery; a geographic zone; an audition; a screening of candidates for such school, including a detailed description of such screening; or a standardized test; and
-
-   2. Whether other criteria or methods are used for admissions including, but not limited to, preferences established under the department's diversity in admissions pilot, over the counter admissions, waitlists, or a principal's discretion.
-
-e. The department shall report, on an individual high school level, on efforts each individual high school has taken during the preceding school year to encourage a diverse student body including, but not limited to, strategic site selection of new schools and special programs, the allocation of resources for schools and special programs, and targeted outreach and recruitment efforts.
-
-f. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or contains an amount that would allow another category that contains between one and five students to be deduced, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
-
-
-
-
-
-
-
-
-*§ 21-957.2 Annual report on the demographics of students in pre-kindergarten programs operated by the department.* ::
-
-
-Not later than November 1, 2016, and by December 1 of each year thereafter, the department shall submit to the speaker of the council and post on its website a report regarding the following:
-
-a. For each school that offers a pre-kindergarten program, the total number of students enrolled in the preceding school year in such program, disaggregated by race or ethnicity and gender.
-
-b. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between one and five students, or contains an amount that would allow another category that contains between one and five students to be deduced, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
-
-
-
-
-
-
-
-
-*§ 21-958 Annual report on the demographics of school staff.* ::
-
-
-a. Definitions. For purposes of this section, the following terms have the following meanings:
-
-   Leadership staff. The term “leadership staff” means principals and assistant principals employed by the department.
-
-   Other professional and paraprofessional staff. The term “other professional and paraprofessional staff” means paraprofessionals, therapists and other pedagogical staff employed by the department, including, but not limited to guidance counselors, social workers and school psychologists, that are not teaching staff or leadership staff.
-
-   School. The term “school” means a school of the city school district of the city of New York.
-
-   Teaching staff. The term “teaching staff” means teachers employed by the department.
-
-b. No later than December 1, 2020, and annually by December 1 thereafter, the department shall submit to the speaker of the council and post on its website a report for the previous school year including the following for each school:
-
-   1. The district borough number; and
-
-   2. The number of employees, disaggregated by:
-
-      (a) Teaching staff;
-
-      (b) Leadership staff; and
-
-      (c) Other professional and paraprofessional staff.
-
-   3. The data reported pursuant to paragraph 2 of this subdivision shall be further disaggregated by:
-
-      (a) Gender; and
-
-      (b) Race or ethnicity.
-
-   4. The data reported pursuant to subparagraphs (a) and (b) of paragraph 3 of this subdivision shall be further disaggregated by:
-
-      (a) Length of employment at such school; and
-
-      (b) Years of experience in such position.
-
-   5. The data reported pursuant to paragraph 2 of this subdivision shall be aggregated by community school district for schools serving students in grades pre-kindergarten through eight, by borough and citywide.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law related to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
 
 
 
@@ -1036,23 +1036,6 @@ e. This chapter expires five years after the effective date of the local law tha
 
 
 
-Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
---------------------------------------------------
-
-
-
-*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
-
-
-a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
-
-b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
-
-
-
-
-
-
 Chapter 11: Sexual Education Task Force
 --------------------------------------------------
 
@@ -1104,6 +1087,23 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 
 
 * Editor's note: pursuant to L.L. 2017/090, § 2, this section expires and is deemed repealed five years after the date of the local law that added the section.
+
+
+
+
+Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
+--------------------------------------------------
+
+
+
+*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
+
+
+a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
+
+b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
+
+
 
 
 
@@ -1256,6 +1256,43 @@ d. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+Chapter 17: Distribution of Information Regarding Summer School and Meals
+--------------------------------------------------
+
+
+
+*§ 21-979 Distribution of information regarding summer meals.* ::
+
+
+a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
+
+b. No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
+
+   1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
+
+   2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
+
+
+
+
+
+
+
+
+*§ 21-979.1 Posting summer school calendar information by school.* ::
+
+
+a. Definitions. For the purposes of this section, the term “school building” means any buildings, grounds, facilities, property, or portion thereof, owned or leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school.
+
+b. No later than June 30 of each year, the department shall post on its website information regarding the forthcoming summer school session, including but not limited to the locations of school buildings where summer school will be provided and the dates on which summer school will be in session at each such school building. Nothing contained herein shall prevent the department from making any change to such locations and such dates after June 30, provided however that if the department makes any such change the department shall update the information posted on its website regarding such locations and dates as appropriate.
+
+c. No later than June 30 of each year, the department of transportation shall post on its website information on the locations of school buildings and summer school dates posted in accordance with subdivision b of this section, and for each such school building where there are parking restrictions on a street immediately adjacent to such school building that are in effect only on school days, that such restrictions are in effect on such summer school dates.
+
+
+
+
+
+
 Chapter 18: Bullying, Harassment, Intimidation and Discrimination
 --------------------------------------------------
 
@@ -1353,43 +1390,6 @@ d. Updates. The department shall update the names and contact information posted
 
 
 The department shall distribute to each school for distribution to every student of such school information regarding how to access any online portal relating to the reporting of bullying, harassment, intimidation or discrimination operated by the department, if such portal exists.
-
-
-
-
-
-
-Chapter 17: Distribution of Information Regarding Summer School and Meals
---------------------------------------------------
-
-
-
-*§ 21-979 Distribution of information regarding summer meals.* ::
-
-
-a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
-
-b. No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
-
-   1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
-
-   2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
-
-
-
-
-
-
-
-
-*§ 21-979.1 Posting summer school calendar information by school.* ::
-
-
-a. Definitions. For the purposes of this section, the term “school building” means any buildings, grounds, facilities, property, or portion thereof, owned or leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school.
-
-b. No later than June 30 of each year, the department shall post on its website information regarding the forthcoming summer school session, including but not limited to the locations of school buildings where summer school will be provided and the dates on which summer school will be in session at each such school building. Nothing contained herein shall prevent the department from making any change to such locations and such dates after June 30, provided however that if the department makes any such change the department shall update the information posted on its website regarding such locations and dates as appropriate.
-
-c. No later than June 30 of each year, the department of transportation shall post on its website information on the locations of school buildings and summer school dates posted in accordance with subdivision b of this section, and for each such school building where there are parking restrictions on a street immediately adjacent to such school building that are in effect only on school days, that such restrictions are in effect on such summer school dates.
 
 
 

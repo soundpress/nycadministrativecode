@@ -2929,6 +2929,37 @@ The board of estimate may transfer the jurisdiction and control of any street fr
 
 
 
+Chapter 6: Advisory Commission For the Review of Compensation Levels Of Elected Officials
+--------------------------------------------------
+
+
+
+*§ 3-601 Quadrennial advisory commission for the review of compensation levels of elected officials.* ::
+
+
+a. Between the first and fifteenth day of January, 2020, and during the same period every fourth year thereafter, the mayor shall appoint three persons for the review of compensation levels of elected officials. The members of the commission shall be private citizens generally recognized for their knowledge and experience in management and compensation matters. The mayor shall appoint one of the members to be chairperson of the commission.
+
+b. The commission shall study the compensation levels for the mayor, the public advocate, the comptroller, the borough presidents, the council members and the district attorneys of the five counties within the city and shall recommend changes in those compensation levels, if warranted. In making its recommendations the commission shall take into consideration the duties and responsibilities of each position, the current salary of the position and the length of time since the last change, any change in the cost of living, compression of salary levels for other officers and employees of the city, and salaries and salary trends for positions with analogous duties and responsibilities both within government and in the private sector.
+
+c. The commission shall submit a report to the mayor not later than one hundred twenty days following its appointment containing its recommendations for changes in compensation levels for any elected position set forth in subdivision b or its recommendation that no changes are warranted.
+
+d. The mayor shall submit the report of the commission along with his or her recommendation for approval, disapproval or modification to the council not later than thirty days after receipt of the report of the commission.
+
+e. The council in its discretion shall consider the recommendations of the commission and of the mayor for changes in the compensation levels of any such elected position, if any, and approve a local law changing the compensation of the mayor, the public advocate, the comptroller, the borough presidents, the council members, and the district attorneys of the five counties within the city.
+
+f. The members of the commission shall serve without compensation except that each member shall be allowed his or her actual and necessary expenses, to be audited in the same manner as other city charges.
+
+g. The commission may hire or contract for necessary staff and technical assistance and may require city agencies to provide such assistance.
+
+h. The commission shall have a budget as provided for by the mayor.
+
+i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
+
+
+
+
+
+
 Chapter 5: Borough Presidents
 --------------------------------------------------
 
@@ -3040,37 +3071,6 @@ It shall be unlawful for any person to remove or cover up a monument or bolt for
 
 
 Any person who shall make any excavation or embankment, or lay or take up any pavement or flagging within three feet of any monument, bolt or other landmark, without having first obtained a permit to perform such work, or who shall in any way remove or deface any monument, bolt or other landmark, shall be punished for each offense by a fine of fifty dollars, imprisonment for not more than thirty days, or both.
-
-
-
-
-Chapter 6: Advisory Commission For the Review of Compensation Levels Of Elected Officials
---------------------------------------------------
-
-
-
-*§ 3-601 Quadrennial advisory commission for the review of compensation levels of elected officials.* ::
-
-
-a. Between the first and fifteenth day of January, 2020, and during the same period every fourth year thereafter, the mayor shall appoint three persons for the review of compensation levels of elected officials. The members of the commission shall be private citizens generally recognized for their knowledge and experience in management and compensation matters. The mayor shall appoint one of the members to be chairperson of the commission.
-
-b. The commission shall study the compensation levels for the mayor, the public advocate, the comptroller, the borough presidents, the council members and the district attorneys of the five counties within the city and shall recommend changes in those compensation levels, if warranted. In making its recommendations the commission shall take into consideration the duties and responsibilities of each position, the current salary of the position and the length of time since the last change, any change in the cost of living, compression of salary levels for other officers and employees of the city, and salaries and salary trends for positions with analogous duties and responsibilities both within government and in the private sector.
-
-c. The commission shall submit a report to the mayor not later than one hundred twenty days following its appointment containing its recommendations for changes in compensation levels for any elected position set forth in subdivision b or its recommendation that no changes are warranted.
-
-d. The mayor shall submit the report of the commission along with his or her recommendation for approval, disapproval or modification to the council not later than thirty days after receipt of the report of the commission.
-
-e. The council in its discretion shall consider the recommendations of the commission and of the mayor for changes in the compensation levels of any such elected position, if any, and approve a local law changing the compensation of the mayor, the public advocate, the comptroller, the borough presidents, the council members, and the district attorneys of the five counties within the city.
-
-f. The members of the commission shall serve without compensation except that each member shall be allowed his or her actual and necessary expenses, to be audited in the same manner as other city charges.
-
-g. The commission may hire or contract for necessary staff and technical assistance and may require city agencies to provide such assistance.
-
-h. The commission shall have a budget as provided for by the mayor.
-
-i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
-
-
 
 
 
