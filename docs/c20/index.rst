@@ -331,17 +331,7 @@ In the construction and installation of all new and reconstructed curbs at corne
 
 
 
-*§ 19-113* Construction generally.* ::
-
-
-Streets of twenty-two feet in width and upward shall have sidewalks on each side thereof. The materials and construction of streets, including the width of the sidewalks thereon, shall fully conform to department specifications for such work, all of which shall be prescribed by the commissioner and kept on file in his or her office.
-
-
-
-
-
-
-*§ 19-113** Construction generally.* ::
+*§ 19-113 Construction generally.* ::
 
 
 a. Streets of twenty-two feet in width and upward shall have sidewalks on each side thereof.
@@ -3222,6 +3212,123 @@ e. Public education campaign. The department shall conduct a public education ca
 
 
 
+
+
+
+**Subchapter 4: Dangerous Vehicle Abatement Law***
+
+
+
+*§ 19-199.2 Definitions.* ::
+
+
+For the purposes of this subchapter, the following terms have the following meanings:
+
+Covered vehicle. The term "covered vehicle" means any motor vehicle that, in accordance with the records of the department of finance, has accumulated five or more finally adjudicated red light camera violations as determined by the department, or 15 or more finally adjudicated school speed camera violations as determined by the department, within any 12-month period. Such term shall not include any vehicle owned or leased by the United States government or any state or local government.
+
+Person. The term "person" means a natural person, co-partnership, firm, company, association, joint stock association, corporation or other like organization.
+
+Predicate violation. The term "predicate violation" means a red light camera violation or school speed camera violation.
+
+Red light camera violation. The term "red light camera violation" means the notice of liability issued for failure of a vehicle operator to comply with section 1111-a of the vehicle and traffic law or section 19-210.
+
+School speed camera violation. The term "school speed camera violation" means the notice of liability issued for failure of a vehicle operator to comply with section 1180-b of the vehicle and traffic law.
+
+Safe vehicle operation course. The term "safe vehicle operation course" means a course approved by the department that educates vehicle owners about the dangers resulting from vehicle operators exceeding posted speed limits and failing to comply with traffic signals, including the potential to cause injury or death, by utilizing a skilled facilitator to actively engage participants in self-reflection and discussion to identify and commit to specific safe driving practices. The goal of such course is to prevent vehicles from becoming dangerous instruments by educating owners about responsible vehicle ownership.
+
+
+
+
+
+
+
+
+*§ 19-199.3 Notice to vehicle owners.* ::
+
+
+The department shall send by first-class mail, to all persons receiving a red light camera violation or a school speed camera violation, a notice that pursuant to this subchapter, a vehicle that incurs five or more red light camera violations or 15 or more school speed camera violations within any 12-month period may be determined to be a covered vehicle, and that such vehicle's registered owner may thereafter be required to enroll in and complete a safe vehicle operation course pursuant to this subchapter and the rules of the department. Such notice shall also contain a warning that failure to enroll in and complete such course may result in the seizure and impoundment of such vehicle, pending completion of such course.
+
+
+
+
+
+
+
+
+*§ 19-199.4 Covered vehicle notice.* ::
+
+
+a. The department may require a registered owner of a covered vehicle, pursuant to this subchapter, to complete a safe vehicle operation course in accordance with rules promulgated by the department and to certify completion of such course to the department within the time period set forth in such rules. The department shall serve a notice of such requirement by first-class mail to the registered owner.
+
+b. The registered owner may request review of the notice by the department, within the time period set forth in rules promulgated by the department. The registered owner shall have the opportunity to contest such notice from the department made pursuant to subdivision a of this section before the office of administrative trials and hearings. At such hearing, the owner may assert defenses, including but not limited to:
+
+   (1) a person other than the registered owner was driving the vehicle when the predicate violations were issued, provided that such other person has or will complete the course on behalf of the registered owner;
+
+   (2) there are insufficient finally adjudicated predicate violations for such covered vehicle notice;
+
+   (3) the registered owner in good faith attempted to enroll in the safe vehicle operation course but was unable to do so, due to no fault of their own; or
+
+   (4) employment, health or family circumstances beyond the control of the registered owner would cause undue hardship and prevent them from completing the safe vehicle operation course within the time frame required by this subchapter.
+
+c. Notwithstanding any inconsistent provision of subdivision b of this section, where the registered owner of a covered vehicle is a person other than a natural person, the registered owner shall identify to the department the natural person who operated or is responsible for overseeing the operation of such covered vehicle. The department may require proof that such person operated or is responsible for the operation of such covered vehicle. Such person shall complete the safe vehicle operation course on behalf of the registered owner, as set forth in rules promulgated by the department.
+
+d. If the office of administrative trials and hearings finds that such registered owner must complete the safe vehicle operation course, such registered owner shall complete such course within a period of time after such determination, as set forth in rules promulgated by the department.
+
+
+
+
+
+
+
+
+*§ 19-199.5 Seizure and impoundment.* ::
+
+
+a. Where a registered owner fails to complete the safe vehicle operation course in accordance with this subchapter, the covered vehicle may be subject to impoundment in accordance with this section.
+
+b. The department shall serve an order by first-class mail upon the registered owner of such covered vehicle. Such order shall require the owner to complete the safe vehicle operation course and certify to the department completion of such course within a period of time to be set forth in such order, or appear at a hearing before the office of administrative trials and hearings at a time and place set forth in such order, at which such registered owner may present reasons why their covered vehicle should not be seized and impounded until such registered owner completes the safe vehicle operation course. The determination of the office of administrative trials and hearings shall be a final determination for purposes of review, pursuant to article 78 of the civil practice law and rules.
+
+c. If the office of administrative trials and hearings sustains the order of seizure and impoundment, the department shall direct the city sheriff, after twenty days have passed from the date of such final determination, to seize and impound the covered vehicle. Such covered vehicle shall not be released until the owner provides certification of completion of the safe vehicle operation course, in accordance with rules promulgated by the department, and pays fees in the amount of the city's expenses for the seizure and impoundment of such covered vehicle.
+
+
+
+
+
+
+
+
+*§ 19-199.6 Successful completion of safe vehicle operation course.* ::
+
+
+If within six months after completing a safe vehicle operation course a vehicle does not accumulate any additional predicate violations, any red light camera or school speed camera violations accrued prior to the completion of such course shall not be counted as predicate violations for purposes of this subchapter.
+
+
+
+
+
+
+
+
+*§ 19-199.7 Program evaluation.* ::
+
+
+The department shall publish on its website and report to the mayor and the speaker of the city council on the implementation of this subchapter and the department's efforts to reduce dangerous driving, which shall contain, at a minimum, the following information:
+
+a. no later than 13 months after the effective date of the local law that added this subchapter, and every year thereafter, a report on the number of individuals who registered for the safe vehicle operation course and the number of individuals who completed such program, during the previous 12-month period;
+
+b. no later than 13 months after the effective date of the local law that added this subchapter, and every year thereafter, a report on the number of vehicles impounded pursuant to this subchapter, within the previous 12-month period;
+
+c. no less than three months prior to the expiration of the program established by the local law that added this subchapter, an evaluation of the effectiveness of the safe vehicle operation course, including, but not limited to, the number of individuals who completed such course found liable for a predicate violation following completion of such course and the number of such violations;
+
+d. no less than three months prior to the expiration of the program established by the local law that added this subchapter, a study of driving behavior to identify specific behaviors indicating a pattern of dangerous driving associated with traffic crashes, injuries, and fatalities, including, but limited to, and to the extent feasible, an analysis of hit-and-run police reports, convictions for traffic-related violations or crimes, including convictions pursuant to section 19-190 and section 1212 of the vehicle and traffic law; MV104AN crash reports attributing dangerous conduct to the driver, driving activity of vehicles registered to people with suspended or revoked licenses; and
+
+e. no less than three months prior to the expiration of the program established by the local law that added this subchapter, changes in patterns of dangerous driving and any additional interventions undertaken by the department or another city agency designed to address dangerous driving.
+
+
+
+
+
+
 Chapter 2: Parking Violations Bureau
 --------------------------------------------------
 
@@ -3535,23 +3642,6 @@ c. The department shall keep a record of all notices of violation canceled pursu
 
 
 
-Chapter 4: Reduced Fare Contracts
---------------------------------------------------
-
-
-
-*§ 19-401 Authorization of reduced fare contracts.* ::
-
-
-a. The board of estimate shall have the power, pursuant to section one hundred nineteen-r of the general municipal law, to enter into a contract or contracts with any person, firm or corporation owning and operating a mass transportation facility within the city in order to provide transportation at a reduced fare during specified days and hours for eligible residents of the city who are over sixty-five years of age and not fully employed.
-
-b. Any such contract may provide for reimbursement of the actual or estimated difference between the reduced fare collected from such passengers and the established rate of fare, plus such other administrative costs as may be incurred by the contracting person, firm or corporation.
-
-c. The separate and additional approval of the mayor shall be necessary to the validity of any such contract.
-
-
-
-
 Chapter 3: Ferries
 --------------------------------------------------
 
@@ -3711,6 +3801,154 @@ j. (1)    On or before October 1, 2009 and every succeeding October 1 thereaf
 k. The commissioner shall conduct a study to determine the feasibility of utilizing in city ferries (i) alternative fuels, which shall include but need not be limited to the combustion of biodiesel of at least five percent biodiesel by volume (B5) and up to 20 percent biodiesel by volume (B20) and renewable diesel and (ii) alternative fuel technologies, which shall include but need not be limited to hybrid electric, battery electric and fuel-cell electric power trains. The study shall include a review of the types and classes of ferries used and planned to be used and, as applicable, their compatibility with the alternative fuels and alternative fuel technologies studied, the availability of such fuels and technologies, the mixing and storage of such fuels and technologies and other relevant issues including barriers, opportunities and regulatory requirements related to the use of such fuels and technologies in city ferries. No later than December 31, 2019, the commissioner shall electronically submit to the mayor and the speaker of the council, and make publicly available online, a report detailing the findings of this study with recommendations relating to the use of alternative fuels and technologies in city ferries and shall thereafter, to the fullest extent the commissioner determines to be practicable based upon such report, implement the use of such fuels or technologies in city ferries.
 
 
+
+
+
+
+Chapter 4: Reduced Fare Contracts
+--------------------------------------------------
+
+
+
+*§ 19-401 Authorization of reduced fare contracts.* ::
+
+
+a. The board of estimate shall have the power, pursuant to section one hundred nineteen-r of the general municipal law, to enter into a contract or contracts with any person, firm or corporation owning and operating a mass transportation facility within the city in order to provide transportation at a reduced fare during specified days and hours for eligible residents of the city who are over sixty-five years of age and not fully employed.
+
+b. Any such contract may provide for reimbursement of the actual or estimated difference between the reduced fare collected from such passengers and the established rate of fare, plus such other administrative costs as may be incurred by the contracting person, firm or corporation.
+
+c. The separate and additional approval of the mayor shall be necessary to the validity of any such contract.
+
+
+
+
+Chapter 6: School Buses
+--------------------------------------------------
+
+
+
+*§ 19-601 Safety measures on school buses; declaration and findings.* ::
+
+
+The council hereby finds that a serious emergency exists as to the safety of handicapped children transported to and from schools in school buses and other vehicles. Handicapped school children have been grievously injured, maimed and killed due to lack of seat belts and guards or escorts on school buses. The council finds that in order to prevent further tragedies to our handicapped school children the provisions of this section are declared necessary and are designed to protect, the safety, health and general welfare of our school children.
+
+
+
+
+
+
+*§ 19-602 Seat belts.* ::
+
+
+All buses or other motor vehicles engaged in the business of transporting handicapped children to and from schools in the city shall be equipped with seat belts for each seat on such a bus, or other safety appliances prescribed by the national bureau of standards or other authorized governmental agencies promulgating rules relating to auto safety.
+
+
+
+
+
+
+*§ 19-603 Escorts.* ::
+
+
+a. All buses and other motor vehicles transporting handicapped children to and from school in the city shall be staffed, in addition to the driver thereof, with an escort. It shall be the duty and responsibility of such escort to generally supervise and aid the handicapped children riding such bus; to require each child to utilize a seat belt or other safety device and to escort the children on and off each bus to an area of safety.
+
+b. The driver of a bus transporting children to and from school in the city shall not proceed after having halted such bus to take on or discharge a passenger until he or she has received assurance from the escort that the children are seated, have fastened the safety belt on the seat and that it is otherwise safe to proceed.
+
+
+
+
+
+
+*§ 19-604 Dual opening doors.* ::
+
+
+All buses transporting handicapped children in the city, after September first, nineteen hundred seventy-five, shall be equipped with dual opening doors so that said doors shall open from no less than two sides of the motor vehicle.
+
+
+
+
+
+
+*§ 19-605 Air-conditioning.* ::
+
+
+a. Any bus or other motor vehicle transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be air-conditioned when the ambient outside temperature exceeds seventy degrees Fahrenheit. Drivers of all such vehicles shall utilize such air conditioning systems in order to make the internal climate of such vehicles comfortable to passengers in order to protect or enhance the health of children with disabilities. Any failure, mechanical or otherwise, of an air-conditioning system required by this section shall be repaired and restored to operable condition as soon as is practicable, but in no event more than three business days subsequent to the failure. For purposes of this section, "child with a disability" shall mean a child with a disability as defined in section 4401(1) of the education law who requires an air-conditioned environment for health reasons.
+
+b. The penalty provisions set forth in section 19-607 of this chapter shall not apply to any violation of the provisions of this section. Any owner, operator or contractor responsible for transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be liable for a civil penalty of four hundred dollars for each violation of this section.
+
+
+
+
+
+
+*§ 19-606 School bus service.* ::
+
+
+a. Except as provided in subdivisions d, e and f of this section, no student shall be allowed to board a school bus operated by or pursuant to a contract with the board of education unless a seat is available for the student.
+
+b. The board of education shall prepare and, when necessary, revise two school bus service plans annually to ensure that all students eligible to receive school bus service to and from the schools they legally attend shall be provided with a seat on a school bus. One plan shall relate to school bus service to be provided during the session of the school year beginning in September and ending in June and one plan shall relate to school bus service to be provided during a summer school session. Each plan shall be prepared prior to the first day of the session of the school year to which it relates and shall include the following information: (i) the criteria used by the board of education to determine whether a student is eligible to receive school bus service; (ii) for each school, a summary description of the school bus routes servicing the school; (iii) for each school bus route, the number of students eligible to ride on the school bus operating on the route and the maximum seating capacity of such school bus; and (iv) any other information the board of education deems relevant. Upon completion of the plans, they shall be submitted to the mayor and the speaker of the city council.
+
+c. If at any time during any session of a school year the number of students eligible to ride on a school bus operating on a particular school bus route exceeds the maximum seating capacity of the school bus operating on such route, the board of education shall revise the affected school bus service plan, and take all steps necessary to ensure that all students eligible to receive school bus service are provided with a seat on a school bus. A revised plan shall identify any changes to the information provided pursuant to paragraphs (i), (ii), (iii) and (iv) of subdivision b of this section and, in addition, shall describe, for each school bus route affected by the revision, the steps taken to ensure that the number of students eligible to ride on a school bus operating on a particular school bus route does not exceed the maximum seating capacity of the school bus operating on such route. Upon completion of a revised plan, it shall be submitted to the mayor and the speaker of the city council.
+
+d. Not later than ten days prior to the first day of the session of the school year beginning in September, and not later than ten days prior to the first day of a summer school session, the board of education shall prepare, and provide to each bus company that will be transporting students to or from school, lists of students eligible to ride on the school buses operating on the school bus routes serviced by such bus company. A separate list shall be compiled for each school bus route. Each list shall identify each eligible student by name, school bus stop and school, but shall not contain any other information relating to such student. The board of education shall require that bus companies provide to bus drivers the list appropriate for each school bus route. The board of education shall prepare, and promptly provide to each bus company, revised and updated lists that reflect any changes necessary to comply with the requirements of this section. All students listed as eligible to receive school bus service on a particular school bus route shall be entitled to board the school bus operating on such route. During transport to school at the beginning of the regular school day, students not listed as eligible to receive school bus service on a particular school bus route shall not be allowed to board the school bus operating on such route, provided, however, that where such students waiting to board such school bus are not accompanied by an adult, the bus driver shall allow such students to board such school bus. During transport from school at the close of the regular school day, students not listed as eligible to receive school bus service on a particular school bus route shall not be allowed to board the school bus operating on such route unless authorized to do so by personnel assigned by the principal pursuant to subdivision e of this section.
+
+e. The principal of each school to or from which students are transported by school bus shall assign personnel to monitor students exiting school buses at the beginning of the regular school day and boarding school buses at the close of the regular school day. Such personnel shall be provided with the same lists provided to bus drivers pursuant to subdivision d of this section. Such personnel shall: (i) at the close of the regular school day, determine whether to allow a student not listed as eligible to receive school bus service on a particular school bus route to board the school bus operating on such route; (ii) notify the parent or legal guardian of such student that he or she has been or may be prohibited from boarding a school bus; (iii) provide the parent or legal guardian with the name, address and telephone number of the office responsible for determining whether a student is eligible to receive school bus service; (iv) for each school bus, maintain a record of students not listed as eligible who exit or board the bus; and (v) determine whether information regarding such students should be referred to the office responsible for determining whether a student is eligible to receive school bus service and, where appropriate, report such information to such office. The information reported to such office, together with such other relevant information available to the board of education, shall be considered in determining whether and how to revise the affected school bus service plan and revise and update the lists of eligible students in accordance with subdivisions c and d of this section.
+
+f. Notwithstanding any other provision of this section to the contrary, during the first ten days of the session of the school year beginning in September and during the first ten days of a summer school session, a student waiting at a school bus stop to board a school bus transporting students to the school attended by the student may be allowed to board the school bus, whether or not such student is listed as eligible to receive school bus service on that school bus route and, at the close of the regular school day, may be allowed to board the school bus stopping at such school bus stop.
+
+g. The provisions of this section shall apply only to those school buses operated by or pursuant to a contract with the board of education.
+
+
+
+
+
+
+*§ 19-607 Penalty.* ::
+
+
+Any person, firm or corporation who shall violate the provisions of this chapter shall be punished by a fine of five hundred dollars, or by imprisonment not to exceed three months or by both such fine and imprisonment.
+
+
+
+
+
+
+*§ 19-608 Communication devices on school buses.* ::
+
+
+a. Any bus or other motor vehicle used to transport students to or from schools pursuant to a contract between a school bus vendor and the department of education shall, at all times that students are present on such vehicle, be equipped with an operational two-way radio or other authorized communication device capable of allowing communication with the driver of such vehicle.
+
+b. The department of education shall promulgate rules regarding the safe usage of such communication devices.
+
+
+
+Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the first day of the 2019-2020 school year.
+
+
+
+
+
+
+*§ 19-609 Global positioning systems on school buses.* ::
+
+
+a. For purposes of this section, the term “GPS” means a global positioning system, or a comparable location tracking technology, that uses navigational satellites to determine a user’s location and velocity in real time.
+
+b. Any bus or other motor vehicle used to transport students to or from schools pursuant to a contract between a school bus vendor and the department of education shall, at all times that students are present on such vehicle, be equipped with a GPS tracking device.
+
+c. A GPS tracking device installed on any bus or other motor vehicle used to transport students to or from schools shall be operational at all times such vehicle is in use pursuant to the contract.
+
+d. GPS data regarding the real time location and velocity of the bus or other motor vehicle used to transport students to or from schools shall be made available electronically to the department, as well as to authorized parents or guardians of students who are being transported by such bus or other motor vehicle.
+
+e. Records created by any such GPS tracking devices shall be maintained in an electronic database.
+
+f. No information that is otherwise required to be reported or be made available electronically pursuant to this section shall be reported or be made available electronically in a manner that would violate any applicable provision of federal, state or local law related to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
+
+g. Beginning April 30, 2020, and on or before each October 31 and April 30 thereafter, the department shall submit to the speaker of the council for the relevant reporting period, as defined in section 21-993, the scheduled arrival and departure times for each transportation site, and data points, including the time of day corresponding with the actual arrival at the first and last transportation site of each special education school bus route and general education school bus route for each day of the reporting period. Such information shall also include the school bus vendor.
+
+
+
+Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the first day of the 2019-2020 school year.
 
 
 
@@ -5543,154 +5781,36 @@ c. Requirements imposed by the rules promulgated pursuant to this section shall 
 
 
 
-Chapter 6: School Buses
---------------------------------------------------
 
 
+*§ 19-554 Dismissal of vehicle lights violation upon proof of correction.* ::
 
-*§ 19-601 Safety measures on school buses; declaration and findings.* ::
 
+a. Definitions. For purposes of this section, the following terms have the following meanings:
 
-The council hereby finds that a serious emergency exists as to the safety of handicapped children transported to and from schools in school buses and other vehicles. Handicapped school children have been grievously injured, maimed and killed due to lack of seat belts and guards or escorts on school buses. The council finds that in order to prevent further tragedies to our handicapped school children the provisions of this section are declared necessary and are designed to protect, the safety, health and general welfare of our school children.
+   Business day. The term “business day” means any calendar day, as such term is defined in section 19 of the general construction law, except Saturday, Sunday or a public holiday, as such term is defined in section 24 of the general construction law.
 
+   OATH. The term “OATH” means the office of administrative trials and hearings.
 
+   State. The term “state” means the state of New York.
 
+   Summons. The term “summons” means a document, including a notice of violation, issued by any agency authorized to issue notices of violation returnable to the tribunal that specifies the charges forming the basis of an adjudicatory proceeding before the tribunal.
 
+   Tribunal. The term “tribunal” means the OATH hearings division.
 
+b. The tribunal shall dismiss a violation issued to a driver or an owner of a vehicle for failing to personally inspect and reasonably determine the good working order of the lights of such vehicle pursuant to subdivision b of section 80-22 of title 35 of the rules of the city of New York or any successor provision when: (i) such driver or owner corrects such violation not later than one-half hour after sunset on the first full business day after the date of the violation as specified on the summons, (ii) such driver or owner provides to the commission, on or before the return date of such summons, a copy of such summons, any of the forms of proof of such correction listed in subdivision c of this section and an affirmation under penalty of perjury that such correction was made and (iii) the commission, upon inspection of such proof of correction, determines that such driver or owner corrected the violation and recommends that the tribunal dismiss the violation. Should the commission not recommend dismissal of such violation, such driver or owner may provide any of the forms of proof of correction described in subdivision c of this section at a hearing of the tribunal.
 
-*§ 19-602 Seat belts.* ::
+c. The following constitute proof of correction pursuant to subdivision b of this section:
 
+   1. A statement of correction from an official inspection station licensed pursuant to section 303 of the vehicle and traffic law, duly executed by the person who made such correction and bearing the facility number of the official inspection station;
 
-All buses or other motor vehicles engaged in the business of transporting handicapped children to and from schools in the city shall be equipped with seat belts for each seat on such a bus, or other safety appliances prescribed by the national bureau of standards or other authorized governmental agencies promulgating rules relating to auto safety.
+   2. A statement of correction from an automobile repair shop on its letterhead, duly executed by the person who made such correction;
 
+   3. A statement of correction from a person administering a fleet, as such term is defined in section 51-03 of title 35 of the rules of the city of New York or any successor provision, duly executed by the person who made such correction and countersigned by the fleet maintenance supervisor;
 
+   4. A signed statement of any police officer that the necessary correction has been made; or
 
-
-
-
-*§ 19-603 Escorts.* ::
-
-
-a. All buses and other motor vehicles transporting handicapped children to and from school in the city shall be staffed, in addition to the driver thereof, with an escort. It shall be the duty and responsibility of such escort to generally supervise and aid the handicapped children riding such bus; to require each child to utilize a seat belt or other safety device and to escort the children on and off each bus to an area of safety.
-
-b. The driver of a bus transporting children to and from school in the city shall not proceed after having halted such bus to take on or discharge a passenger until he or she has received assurance from the escort that the children are seated, have fastened the safety belt on the seat and that it is otherwise safe to proceed.
-
-
-
-
-
-
-*§ 19-604 Dual opening doors.* ::
-
-
-All buses transporting handicapped children in the city, after September first, nineteen hundred seventy-five, shall be equipped with dual opening doors so that said doors shall open from no less than two sides of the motor vehicle.
-
-
-
-
-
-
-*§ 19-605 Air-conditioning.* ::
-
-
-a. Any bus or other motor vehicle transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be air-conditioned when the ambient outside temperature exceeds seventy degrees Fahrenheit. Drivers of all such vehicles shall utilize such air conditioning systems in order to make the internal climate of such vehicles comfortable to passengers in order to protect or enhance the health of children with disabilities. Any failure, mechanical or otherwise, of an air-conditioning system required by this section shall be repaired and restored to operable condition as soon as is practicable, but in no event more than three business days subsequent to the failure. For purposes of this section, "child with a disability" shall mean a child with a disability as defined in section 4401(1) of the education law who requires an air-conditioned environment for health reasons.
-
-b. The penalty provisions set forth in section 19-607 of this chapter shall not apply to any violation of the provisions of this section. Any owner, operator or contractor responsible for transporting a child with a disability to and from a school in the city pursuant to any agreement or contract shall be liable for a civil penalty of four hundred dollars for each violation of this section.
-
-
-
-
-
-
-*§ 19-606 School bus service.* ::
-
-
-a. Except as provided in subdivisions d, e and f of this section, no student shall be allowed to board a school bus operated by or pursuant to a contract with the board of education unless a seat is available for the student.
-
-b. The board of education shall prepare and, when necessary, revise two school bus service plans annually to ensure that all students eligible to receive school bus service to and from the schools they legally attend shall be provided with a seat on a school bus. One plan shall relate to school bus service to be provided during the session of the school year beginning in September and ending in June and one plan shall relate to school bus service to be provided during a summer school session. Each plan shall be prepared prior to the first day of the session of the school year to which it relates and shall include the following information: (i) the criteria used by the board of education to determine whether a student is eligible to receive school bus service; (ii) for each school, a summary description of the school bus routes servicing the school; (iii) for each school bus route, the number of students eligible to ride on the school bus operating on the route and the maximum seating capacity of such school bus; and (iv) any other information the board of education deems relevant. Upon completion of the plans, they shall be submitted to the mayor and the speaker of the city council.
-
-c. If at any time during any session of a school year the number of students eligible to ride on a school bus operating on a particular school bus route exceeds the maximum seating capacity of the school bus operating on such route, the board of education shall revise the affected school bus service plan, and take all steps necessary to ensure that all students eligible to receive school bus service are provided with a seat on a school bus. A revised plan shall identify any changes to the information provided pursuant to paragraphs (i), (ii), (iii) and (iv) of subdivision b of this section and, in addition, shall describe, for each school bus route affected by the revision, the steps taken to ensure that the number of students eligible to ride on a school bus operating on a particular school bus route does not exceed the maximum seating capacity of the school bus operating on such route. Upon completion of a revised plan, it shall be submitted to the mayor and the speaker of the city council.
-
-d. Not later than ten days prior to the first day of the session of the school year beginning in September, and not later than ten days prior to the first day of a summer school session, the board of education shall prepare, and provide to each bus company that will be transporting students to or from school, lists of students eligible to ride on the school buses operating on the school bus routes serviced by such bus company. A separate list shall be compiled for each school bus route. Each list shall identify each eligible student by name, school bus stop and school, but shall not contain any other information relating to such student. The board of education shall require that bus companies provide to bus drivers the list appropriate for each school bus route. The board of education shall prepare, and promptly provide to each bus company, revised and updated lists that reflect any changes necessary to comply with the requirements of this section. All students listed as eligible to receive school bus service on a particular school bus route shall be entitled to board the school bus operating on such route. During transport to school at the beginning of the regular school day, students not listed as eligible to receive school bus service on a particular school bus route shall not be allowed to board the school bus operating on such route, provided, however, that where such students waiting to board such school bus are not accompanied by an adult, the bus driver shall allow such students to board such school bus. During transport from school at the close of the regular school day, students not listed as eligible to receive school bus service on a particular school bus route shall not be allowed to board the school bus operating on such route unless authorized to do so by personnel assigned by the principal pursuant to subdivision e of this section.
-
-e. The principal of each school to or from which students are transported by school bus shall assign personnel to monitor students exiting school buses at the beginning of the regular school day and boarding school buses at the close of the regular school day. Such personnel shall be provided with the same lists provided to bus drivers pursuant to subdivision d of this section. Such personnel shall: (i) at the close of the regular school day, determine whether to allow a student not listed as eligible to receive school bus service on a particular school bus route to board the school bus operating on such route; (ii) notify the parent or legal guardian of such student that he or she has been or may be prohibited from boarding a school bus; (iii) provide the parent or legal guardian with the name, address and telephone number of the office responsible for determining whether a student is eligible to receive school bus service; (iv) for each school bus, maintain a record of students not listed as eligible who exit or board the bus; and (v) determine whether information regarding such students should be referred to the office responsible for determining whether a student is eligible to receive school bus service and, where appropriate, report such information to such office. The information reported to such office, together with such other relevant information available to the board of education, shall be considered in determining whether and how to revise the affected school bus service plan and revise and update the lists of eligible students in accordance with subdivisions c and d of this section.
-
-f. Notwithstanding any other provision of this section to the contrary, during the first ten days of the session of the school year beginning in September and during the first ten days of a summer school session, a student waiting at a school bus stop to board a school bus transporting students to the school attended by the student may be allowed to board the school bus, whether or not such student is listed as eligible to receive school bus service on that school bus route and, at the close of the regular school day, may be allowed to board the school bus stopping at such school bus stop.
-
-g. The provisions of this section shall apply only to those school buses operated by or pursuant to a contract with the board of education.
-
-
-
-
-
-
-*§ 19-607 Penalty.* ::
-
-
-Any person, firm or corporation who shall violate the provisions of this chapter shall be punished by a fine of five hundred dollars, or by imprisonment not to exceed three months or by both such fine and imprisonment.
-
-
-
-
-
-
-*§ 19-608 Communication devices on school buses.* ::
-
-
-a. Any bus or other motor vehicle used to transport students to or from schools pursuant to a contract between a school bus vendor and the department of education shall, at all times that students are present on such vehicle, be equipped with an operational two-way radio or other authorized communication device capable of allowing communication with the driver of such vehicle.
-
-b. The department of education shall promulgate rules regarding the safe usage of such communication devices.
-
-
-
-Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the first day of the 2019-2020 school year.
-
-
-
-
-
-
-*§ 19-609 Global positioning systems on school buses.* ::
-
-
-a. For purposes of this section, the term “GPS” means a global positioning system, or a comparable location tracking technology, that uses navigational satellites to determine a user’s location and velocity in real time.
-
-b. Any bus or other motor vehicle used to transport students to or from schools pursuant to a contract between a school bus vendor and the department of education shall, at all times that students are present on such vehicle, be equipped with a GPS tracking device.
-
-c. A GPS tracking device installed on any bus or other motor vehicle used to transport students to or from schools shall be operational at all times such vehicle is in use pursuant to the contract.
-
-d. GPS data regarding the real time location and velocity of the bus or other motor vehicle used to transport students to or from schools shall be made available electronically to the department, as well as to authorized parents or guardians of students who are being transported by such bus or other motor vehicle.
-
-e. Records created by any such GPS tracking devices shall be maintained in an electronic database.
-
-f. No information that is otherwise required to be reported or be made available electronically pursuant to this section shall be reported or be made available electronically in a manner that would violate any applicable provision of federal, state or local law related to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
-
-g. Beginning April 30, 2020, and on or before each October 31 and April 30 thereafter, the department shall submit to the speaker of the council for the relevant reporting period, as defined in section 21-993, the scheduled arrival and departure times for each transportation site, and data points, including the time of day corresponding with the actual arrival at the first and last transportation site of each special education school bus route and general education school bus route for each day of the reporting period. Such information shall also include the school bus vendor.
-
-
-
-Editor's note: Pursuant to § 2 of L.L. 2019/032, this section takes effect the first day of the 2019-2020 school year.
-
-
-
-
-Chapter 8: Citywide Transit Study
---------------------------------------------------
-
-
-
-*§ 19-801 Citywide transit study.* ::
-
-
-a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
-
-   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
-
-   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
-
-   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
-
-b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
+   5. Evidence acceptable to the commission from any person that such person made the correction together with proof of purchase of any equipment needed to make such correction.
 
 
 
@@ -5975,6 +6095,29 @@ The department, the commission on human rights and operators of any water borne 
 
 
 If any section, subdivision, sentence, clause, phrase or other portion of the local law that added this chapter is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of the local law that added this chapter, which remaining portions shall continue in full force and effect.
+
+
+
+
+Chapter 8: Citywide Transit Study
+--------------------------------------------------
+
+
+
+*§ 19-801 Citywide transit study.* ::
+
+
+a. No later than September 1, 2017, the department shall consult with the metropolitan transportation authority and, with input from the public, submit to the council, the borough presidents, and the community boards and post on the department's website a citywide transit study. Such study shall include:
+
+   1. A plan to create a citywide network of bus rapid transit lines connecting the boroughs of the city of New York including the following: (a) areas of the city in need of additional bus rapid transit options; (b) strategies for serving areas of the city identified for growth by at least one of the following sources: the department of city planning, the department of housing preservation and development, or the economic development corporation; (c) identifying potential additional intra-borough and/or inter-borough bus rapid transit corridors the department intends to establish in the ten years following the release of such plan; (d) strategies for integration with current and future transit routes in the region; and (e) the anticipated capital and operating costs of such additional bus rapid transit lines;
+
+   2. Plans for transit improvement other than bus rapid transit, which may include local bus, light rail and subway, and other modes, to serve areas identified as part of such study to be in need of transit access; and
+
+   3. Strategies to improve transit access to neighborhoods underserved by the subway system.
+
+b. No later than September 1, 2019 and every two years thereafter through September 1, 2027, the department shall submit to the council, the borough presidents, and the community boards and post on the department's website a summary on the implementation of the plan required under paragraph 1 of subdivision a of this section, including, but not limited to: information on the establishment of additional bus rapid lines; any deviations from such plan and reasons for deviations; and monies allocated to capital and operating costs for such additional lines.
+
+
 
 
 

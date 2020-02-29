@@ -4020,7 +4020,9 @@ For the purposes of this section, the term "boarding kennel, business or establi
 *§ 17-366 Proof of vaccination required.* ::
 
 
-No dog shall be accepted at a boarding kennel, business or establishment unless the owner of such dog provides proof to such facility, including but not limited to a health certificate, a bill or receipt from a veterinarian or other documentation acceptable to the department, that such animal has been vaccinated against rabies, distemper, hepatitis, para influenza and parvo during the previous three years and against bordetella during the previous six months; provided that an owner of a dog shall not be required to provide proof of vaccination pursuant to this section if such owner provides a written statement from a veterinarian indicating that the dog of such owner should not be given such vaccination because of a standard veterinary contraindication and that such dog does not show symptoms of the disease or diseases for which such vaccination is contraindicated.
+No dog shall be accepted at a boarding kennel, business or establishment unless the owner of such dog is in compliance with section 161.15(e) of the New York city health code.
+
+
 
 
 

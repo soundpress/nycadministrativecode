@@ -1,23 +1,6 @@
 Title 21-A: Education
 ===================================================
 
-Chapter 2: Reporting On Co-located Schools
---------------------------------------------------
-
-
-
-*§ 21-951 Annual reporting on co-located schools.* ::
-
-
-a. For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
-
-b. Not later than the thirtieth day of August of the year 2015 and annually thereafter, the department shall submit to the council and post on the department's website a report regarding information on all co-located schools for the prior school year. Such report shall include, but not be limited to, (i) a comparison of demographic information including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for the free and reduced price lunch program and (ii) information regarding student academic performance, including but not limited to, student scores received on state examinations.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 9 students, or allows another category to be narrowed to between 0 and 9 students, the number shall be replaced with a symbol.
-
-
-
-
 Chapter 1: Definitions
 --------------------------------------------------
 
@@ -43,25 +26,19 @@ Whenever used in this title, unless otherwise specified, the following terms sha
 
 
 
-Chapter 3: Reporting On Guidance Counselors and social Workers
+Chapter 2: Reporting On Co-located Schools
 --------------------------------------------------
 
 
 
-*§ 21-952 Annual reporting on guidance counselors and social workers.* ::
+*§ 21-951 Annual reporting on co-located schools.* ::
 
 
-a. For the purposes of this section, the following terms shall have the following meanings:
+a. For the purposes of this section, the term "co-located school" shall mean any public school serving students in the elementary, middle or high school grades, or any combination thereof, including any charter school, which shares space with another public school in a building within the city school district of the city of New York.
 
-   1. "Guidance counselor" means any personnel, licensed and certified by New York state as a school counselor, hired to provide individual or group counseling assistance to students in the elementary, middle, or high school grades, within the city school district of the city of New York.
+b. Not later than the thirtieth day of August of the year 2015 and annually thereafter, the department shall submit to the council and post on the department's website a report regarding information on all co-located schools for the prior school year. Such report shall include, but not be limited to, (i) a comparison of demographic information including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for the free and reduced price lunch program and (ii) information regarding student academic performance, including but not limited to, student scores received on state examinations.
 
-   2. "Social worker" means any personnel, licensed and certified by New York state as a school social worker, hired to provide individual or group counseling assistance to students in the elementary, middle, or high school grades, within the city school district of the city of New York.
-
-   3. "Individualized education program (IEP)" means a written statement, developed, reviewed and revised in accordance with section 200.4 of title 8 of the compilation of codes, rules, and regulations of the state of New York, provided to meet the unique educational needs of a student with a disability.
-
-b. Not later than February 15, 2015, and annually thereafter, the department shall submit to the council and post on the department's website a report of information regarding guidance counselors and social workers for the current school year. Such report shall include, but not be limited to: (i) the number of full and part-time guidance counselors and social workers in each school, (ii) the guidance counselor and social worker to student ratio in each school, (iii) whether the guidance counselor or social worker is providing counseling assistance to more than one school, (iv) the number of guidance counselors and social workers who provide counseling services as mandated by an IEP as of December 15 of the current school year, (v) the number of staff in each school who received professional development or training in postsecondary planning as of the prior school year, and (vi) the number of licensed and certified bilingual guidance counselors and social workers in each school. Such report shall also include the number of guidance counselors and social workers in the absent teacher reserve pool for grades seven through twelve, and information regarding any guidance memorandums issued by the department regarding college preparedness. Such report shall include demographic information for students in each school, including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for free and reduced price lunch pursuant to guidelines promulgated by the United States department of agriculture.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 0 and 9 students, or allows another category to be narrowed to between 0 and 9 students, the number shall be replaced with a symbol.
 
 
 
@@ -113,6 +90,29 @@ g. Not later than November first, two thousand fifteen and annually thereafter, 
    4. The current status of any site subject to a consent order or agreement with the United States environmental protection agency, the New York state department of environmental conservation or the New York state department of health.
 
    5. All information required by this subdivision shall be aggregated citywide, as well as disaggregated by school, community school district, council district and borough.
+
+
+
+
+Chapter 3: Reporting On Guidance Counselors and social Workers
+--------------------------------------------------
+
+
+
+*§ 21-952 Annual reporting on guidance counselors and social workers.* ::
+
+
+a. For the purposes of this section, the following terms shall have the following meanings:
+
+   1. "Guidance counselor" means any personnel, licensed and certified by New York state as a school counselor, hired to provide individual or group counseling assistance to students in the elementary, middle, or high school grades, within the city school district of the city of New York.
+
+   2. "Social worker" means any personnel, licensed and certified by New York state as a school social worker, hired to provide individual or group counseling assistance to students in the elementary, middle, or high school grades, within the city school district of the city of New York.
+
+   3. "Individualized education program (IEP)" means a written statement, developed, reviewed and revised in accordance with section 200.4 of title 8 of the compilation of codes, rules, and regulations of the state of New York, provided to meet the unique educational needs of a student with a disability.
+
+b. Not later than February 15, 2015, and annually thereafter, the department shall submit to the council and post on the department's website a report of information regarding guidance counselors and social workers for the current school year. Such report shall include, but not be limited to: (i) the number of full and part-time guidance counselors and social workers in each school, (ii) the guidance counselor and social worker to student ratio in each school, (iii) whether the guidance counselor or social worker is providing counseling assistance to more than one school, (iv) the number of guidance counselors and social workers who provide counseling services as mandated by an IEP as of December 15 of the current school year, (v) the number of staff in each school who received professional development or training in postsecondary planning as of the prior school year, and (vi) the number of licensed and certified bilingual guidance counselors and social workers in each school. Such report shall also include the number of guidance counselors and social workers in the absent teacher reserve pool for grades seven through twelve, and information regarding any guidance memorandums issued by the department regarding college preparedness. Such report shall include demographic information for students in each school, including, but not limited to race, ethnicity, English language learner status, special education status, and the percentage of students eligible for free and reduced price lunch pursuant to guidelines promulgated by the United States department of agriculture.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
 
 
 
@@ -946,6 +946,53 @@ c. The department shall make available such educational materials in English and
 
 
 
+Chapter 9. Career and Technical Education Reporting
+--------------------------------------------------
+
+
+
+*§ 21-971 Reporting on career and technical education.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Career and technical education. The term "career and technical education" or "CTE" means a curriculum designed to provide students with certain skills that will enable them to pursue a career in certain disciplines, including but not limited to, agricultural education, business and marketing, family and consumer sciences, health occupations, technology and trade, or technical and industrial education.
+
+   Certified instructor. The term "certified instructor" means a teacher who has earned a teaching license in a specific career and technical education subject.
+
+   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school of the city school district of the city of New York, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
+
+b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the council and post conspicuously on the department's website, a report for the preceding academic year which shall include, but not be limited to the following:
+
+   1. The total number of high school-level CTE programs in schools of the city school district of the city of New York, including for each (i) the name of the program; (ii) the field or discipline for which the program prepares students; (iii) the number of industry partners associated with the program; (iv) the high school at which the program is located; (v) whether the high school is a CTE-designated high school; (vi) whether the CTE program has received approval through the New York state department of education's CTE approval process; (vii) the grade levels served by such program; and (viii) the number of students enrolled in such program;
+
+   2. The number and percentage of students at each high school in a CTE program;
+
+   3. The number and percentage of applicants who listed a CTE-designated high school as their first choice in the high school application process during the previous application year;
+
+   4. The number and percentage of applicants who listed a CTE-designated high school as their second choice in the high school application process during the previous application year;
+
+   5. The number and percentage of applicants who participated in the high school application process who enrolled in a CTE-designated high school;
+
+   6. The 4-year graduation rate for CTE-designated high schools;
+
+   7. The 6-year graduation rate for CTE-designated high schools;
+
+   8. The number of designated full-time and part-time certified instructors providing instruction at each high school; and for each CTE-designated high school, the ratio of full-time certified instructors to students at such school; and
+
+   9. The number of staff in each school or program who received professional development or training administered by the department and relating to CTE as of the prior school year.
+
+c. The data required to be reported pursuant to paragraphs two through seven of subdivision b of this section shall be disaggregated by (i) student race and ethnicity; (ii) student gender; (iii) student special education status; (iv) student English language learner status; (v) student eligibility for the free and reduced price lunch program; and (vi) community school district.
+
+d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
+
+e. This chapter expires five years after the effective date of the local law that added this chapter.
+
+
+
+
+
+
 Chapter 10: Computer Science Education Reporting
 --------------------------------------------------
 
@@ -989,47 +1036,17 @@ d. This chapter expires ten years after the effective date of the local law that
 
 
 
-Chapter 9. Career and Technical Education Reporting
+Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
 --------------------------------------------------
 
 
 
-*§ 21-971 Reporting on career and technical education.* ::
+*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
 
 
-a. For the purposes of this section, the following terms have the following meanings:
+a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
 
-   Career and technical education. The term "career and technical education" or "CTE" means a curriculum designed to provide students with certain skills that will enable them to pursue a career in certain disciplines, including but not limited to, agricultural education, business and marketing, family and consumer sciences, health occupations, technology and trade, or technical and industrial education.
-
-   Certified instructor. The term "certified instructor" means a teacher who has earned a teaching license in a specific career and technical education subject.
-
-   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school of the city school district of the city of New York, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
-
-b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the council and post conspicuously on the department's website, a report for the preceding academic year which shall include, but not be limited to the following:
-
-   1. The total number of high school-level CTE programs in schools of the city school district of the city of New York, including for each (i) the name of the program; (ii) the field or discipline for which the program prepares students; (iii) the number of industry partners associated with the program; (iv) the high school at which the program is located; (v) whether the high school is a CTE-designated high school; (vi) whether the CTE program has received approval through the New York state department of education's CTE approval process; (vii) the grade levels served by such program; and (viii) the number of students enrolled in such program;
-
-   2. The number and percentage of students at each high school in a CTE program;
-
-   3. The number and percentage of applicants who listed a CTE-designated high school as their first choice in the high school application process during the previous application year;
-
-   4. The number and percentage of applicants who listed a CTE-designated high school as their second choice in the high school application process during the previous application year;
-
-   5. The number and percentage of applicants who participated in the high school application process who enrolled in a CTE-designated high school;
-
-   6. The 4-year graduation rate for CTE-designated high schools;
-
-   7. The 6-year graduation rate for CTE-designated high schools;
-
-   8. The number of designated full-time and part-time certified instructors providing instruction at each high school; and for each CTE-designated high school, the ratio of full-time certified instructors to students at such school; and
-
-   9. The number of staff in each school or program who received professional development or training administered by the department and relating to CTE as of the prior school year.
-
-c. The data required to be reported pursuant to paragraphs two through seven of subdivision b of this section shall be disaggregated by (i) student race and ethnicity; (ii) student gender; (iii) student special education status; (iv) student English language learner status; (v) student eligibility for the free and reduced price lunch program; and (vi) community school district.
-
-d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
-
-e. This chapter expires five years after the effective date of the local law that added this chapter.
+b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
 
 
 
@@ -1087,23 +1104,6 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 
 
 * Editor's note: pursuant to L.L. 2017/090, § 2, this section expires and is deemed repealed five years after the date of the local law that added the section.
-
-
-
-
-Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
---------------------------------------------------
-
-
-
-*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
-
-
-a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
-
-b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
-
-
 
 
 
@@ -1192,6 +1192,37 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
+--------------------------------------------------
+
+
+
+*§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve, including early education centers with which the department contracts to provide pre-kindergarten.
+
+   Student. The term "student" means any pupil under the age of twenty-one as of September first of the school year being reported, who does not have a high school diploma and who is enrolled in a school, excluding any child who is less than four years of age on or before December thirty-first of the school year being reported.
+
+b. The department shall submit to the speaker of the council, and post conspicuously on the department’s website, the following reports regarding application, offer, available seat and enrollment information:
+
+   1. Not later than May 15, 2018, and annually thereafter on or before May 15, a report including, but not limited to (a) for each community school district, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (b) for each school, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year;
+
+   2. Not later than March 15, 2019, and annually thereafter on or before March 15, a report including, but not limited to (a) for each community school district, the total number of students who enrolled in grades pre-kindergarten, kindergarten or six in a school located in such community school district in the current school year; and (b) for each school, the total number of students who enrolled in grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, in the current school year.
+
+The data required to be reported pursuant to this subdivision b shall be disaggregated by (i) community school district of residence of individuals or students, as applicable; (ii) zip code of residence of individuals or students, as applicable; (iii) primary home language of individuals or students, as applicable and (iv) grade level.
+
+c. Not later than May 15, 2018, and annually thereafter on or before May 15, the department shall submit to the speaker of the council and post conspicuously on the department’s website a report that shall include, but not be limited to, for each school, the total number of seats anticipated to be available in the following school year.
+
+d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
+
+
+
+
+
+
 Chapter 15: Distribution of Information Regarding Interactions with Non-Local Law Enforcement
 --------------------------------------------------
 
@@ -1219,37 +1250,6 @@ c. Prior to the release of any directory information pursuant to the family educ
 d. The department shall ensure that the information required to be distributed by subdivision b is additionally available in each school, each office where the department provides enrollment assistance and on the department's website.
 
 e. Upon any request by non-local law enforcement for access to a student or a student’s records, the department shall notify such student’s parent of such request unless such notification is prohibited by law or by a judicial order or lawfully issued subpoena, and shall provide such student and parent with information on available resources for seeking legal assistance in response to such request.
-
-
-
-
-
-
-Chapter 16: Reporting on School Applications, Offers of Admission, Enrollment and Available Seats
---------------------------------------------------
-
-
-
-*§ 21-978 Reporting on school applications, offers of admission, enrollment and available seats.* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve, including early education centers with which the department contracts to provide pre-kindergarten.
-
-   Student. The term "student" means any pupil under the age of twenty-one as of September first of the school year being reported, who does not have a high school diploma and who is enrolled in a school, excluding any child who is less than four years of age on or before December thirty-first of the school year being reported.
-
-b. The department shall submit to the speaker of the council, and post conspicuously on the department’s website, the following reports regarding application, offer, available seat and enrollment information:
-
-   1. Not later than May 15, 2018, and annually thereafter on or before May 15, a report including, but not limited to (a) for each community school district, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten or six in a school located in such community school district for the following school year; and (b) for each school, the total number of individuals who (1) applied for admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year; and (2) received an offer of admission to grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, for the following school year;
-
-   2. Not later than March 15, 2019, and annually thereafter on or before March 15, a report including, but not limited to (a) for each community school district, the total number of students who enrolled in grades pre-kindergarten, kindergarten or six in a school located in such community school district in the current school year; and (b) for each school, the total number of students who enrolled in grades pre-kindergarten, kindergarten, six or nine in such school, as applicable, in the current school year.
-
-The data required to be reported pursuant to this subdivision b shall be disaggregated by (i) community school district of residence of individuals or students, as applicable; (ii) zip code of residence of individuals or students, as applicable; (iii) primary home language of individuals or students, as applicable and (iv) grade level.
-
-c. Not later than May 15, 2018, and annually thereafter on or before May 15, the department shall submit to the speaker of the council and post conspicuously on the department’s website a report that shall include, but not be limited to, for each school, the total number of seats anticipated to be available in the following school year.
-
-d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
 
 
 
@@ -1546,6 +1546,23 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+Chapter 22: Posting of Subdistrict Maps
+--------------------------------------------------
+
+
+
+*§ 21-989 Posting of subdistrict maps.* ::
+
+
+a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
+
+b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
+
+
+
+
+
+
 Chapter 21: Posting of Information Regarding the Process Used in Determining Identified Seat Need
 --------------------------------------------------
 
@@ -1611,23 +1628,6 @@ e. The data provided in paragraphs 2, 3 and 4 of subdivision b of this section s
 f. All data provided pursuant to this section shall be provided in machine readable format.
 
 g. Nothing in this section shall be construed to affect the authority or materially impede the ability of the department to determine the identified seat need or the methodology or information utilized in the determination of identified seat need.
-
-
-
-
-
-
-Chapter 22: Posting of Subdistrict Maps
---------------------------------------------------
-
-
-
-*§ 21-989 Posting of subdistrict maps.* ::
-
-
-a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
-
-b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
 
 
 

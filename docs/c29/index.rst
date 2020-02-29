@@ -2827,6 +2827,21 @@ On or before September 30, 2018, and annually thereafter, the department shall p
 
 
 
+Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
+--------------------------------------------------
+
+
+
+*§ 26-1901 City-owned vacant property under the jurisdiction of the department of housing preservation and development that may be suitable for the development of affordable housing.* ::
+
+
+By no later than November 1, 2018, and by November 1 of each year thereafter, the department of housing preservation and development shall, with the cooperation of all other appropriate agencies, report to the mayor and the speaker of the council the following information disaggregated by council district: a report of vacant buildings or lots under the jurisdiction of the department categorized according to the potential development or feasibility status of such buildings or lots as affordable housing.
+
+
+
+
+
+
 Chapter 18: Housing Portal
 --------------------------------------------------
 
@@ -3004,21 +3019,6 @@ b. For a second or subsequent violation of this chapter involving the same dwell
 c. The department may recover civil penalties pursuant to this section in an action in a court of appropriate jurisdiction or in a proceeding before the office of administrative trials and hearings acting pursuant to section 1049-a of the New York city charter.
 
 d. Upon receipt of a credible complaint alleging that an owner has violated any provision of this chapter with respect to an affordable unit, the department shall investigate and, upon verifying such allegation in a manner to be determined by department rules, such owner shall be subject to a civil penalty in accordance with this section. The department shall by rule establish criteria for determining whether such a complaint is credible.
-
-
-
-
-
-
-Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
---------------------------------------------------
-
-
-
-*§ 26-1901 City-owned vacant property under the jurisdiction of the department of housing preservation and development that may be suitable for the development of affordable housing.* ::
-
-
-By no later than November 1, 2018, and by November 1 of each year thereafter, the department of housing preservation and development shall, with the cooperation of all other appropriate agencies, report to the mayor and the speaker of the council the following information disaggregated by council district: a report of vacant buildings or lots under the jurisdiction of the department categorized according to the potential development or feasibility status of such buildings or lots as affordable housing.
 
 
 
