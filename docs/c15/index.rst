@@ -2920,6 +2920,101 @@ If any provision of this local law shall be adjudged to be unconstitutional or i
 
 
 
+Chapter 4-E: Recovery for Refrigerants
+--------------------------------------------------
+
+
+
+*§ 16-480 Definitions.* ::
+
+
+As used in this chapter:
+
+"Appliance" means any device that contains refrigerants and can be used for household purposes including, but not limited to, room air conditioners, refrigerators, water coolers, or freezers.
+
+"Original equipment manufacturer" means (1) a person or entity whose brand name appears on an appliance sold, offered for sale or distributed in the city or (2) a person or entity who manufacturers or has manufactured an appliance sold, offered for sale or distributed in the city.
+
+"Recover" or "recovery" means to remove refrigerants from an appliance in such a way that the refrigerants are not released into the atmosphere pursuant to subpart F of 40 CFR part 82.
+
+"Refrigerants" means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A "substitute substance" shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use.
+
+"Residential generator" means any person, entity, agency, or institution in the city of New York that receives solid waste or recycling collection service from the department.
+
+"Room air conditioner" means any electrical appliance that has a compressor, a condenser, an evaporator and a fan to cool and dehumidify the surrounding air and that is capable in ordinary usage of being mounted in a window or through a wall.
+
+"Serviced by the department" means the recovery of refrigerants by the department from appliances that are set out for department collection in the city of New York.
+
+
+
+
+
+
+*§ 16-481 Original equipment manufacturer responsibility for recovery.* ::
+
+
+a. On and after July first, two thousand fourteen, original equipment manufacturers shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators.
+
+b. An original equipment manufacturer may elect to (i) establish its own refrigerant recovery program, (ii) participate with other original equipment manufacturers in a refrigerant recovery program, or (iii) have its appliances serviced by the department in the refrigerant recovery program provided pursuant to section 16-482 of this chapter. No program established pursuant to paragraph one or two of this subdivision may include curbside collection of appliances.
+
+
+
+
+
+
+*§ 16-482 Department refrigerant recovery program.* ::
+
+
+a. The department shall provide a program for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
+
+b. The department shall establish, by rule, a fee for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
+
+c. An original equipment manufacturer whose appliance is serviced by the department shall be billed by the department and shall be responsible for the payment of the fee established by the department for the recovery of refrigerants.
+
+
+
+
+
+
+*§ 16-483 Improper disposal of appliances.* ::
+
+
+No original equipment manufacturer or its agent shall dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants.
+
+
+
+
+
+
+*§ 16-484 Enforcement.* ::
+
+
+a. The department shall have the authority to enforce the provisions of this chapter.
+
+b. Any original equipment manufacturer or agent of such manufacturer who violates section 16-483 of this chapter shall be liable for a civil penalty of five hundred dollars for each violation.
+
+
+
+
+
+
+*§ 16-485 Rulemaking authority.* ::
+
+
+The department shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter, including but not limited to rules relating to reporting by original equipment manufacturers and registration with the department by such manufacturers, which registration may require the submission of information related to such manufacturers' refrigerant recovery programs, if any, and establishing penalties for violations of such rules.
+
+
+
+
+
+
+*§ 16-486 Severability.* ::
+
+
+If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
+
+
+
+
 Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 --------------------------------------------------
 
@@ -3037,242 +3132,6 @@ The commissioner shall be authorized to promulgate such rules as are necessary t
 
 
 
-Chapter 4-E: Recovery for Refrigerants
---------------------------------------------------
-
-
-
-*§ 16-480 Definitions.* ::
-
-
-As used in this chapter:
-
-"Appliance" means any device that contains refrigerants and can be used for household purposes including, but not limited to, room air conditioners, refrigerators, water coolers, or freezers.
-
-"Original equipment manufacturer" means (1) a person or entity whose brand name appears on an appliance sold, offered for sale or distributed in the city or (2) a person or entity who manufacturers or has manufactured an appliance sold, offered for sale or distributed in the city.
-
-"Recover" or "recovery" means to remove refrigerants from an appliance in such a way that the refrigerants are not released into the atmosphere pursuant to subpart F of 40 CFR part 82.
-
-"Refrigerants" means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A "substitute substance" shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use.
-
-"Residential generator" means any person, entity, agency, or institution in the city of New York that receives solid waste or recycling collection service from the department.
-
-"Room air conditioner" means any electrical appliance that has a compressor, a condenser, an evaporator and a fan to cool and dehumidify the surrounding air and that is capable in ordinary usage of being mounted in a window or through a wall.
-
-"Serviced by the department" means the recovery of refrigerants by the department from appliances that are set out for department collection in the city of New York.
-
-
-
-
-
-
-*§ 16-481 Original equipment manufacturer responsibility for recovery.* ::
-
-
-a. On and after July first, two thousand fourteen, original equipment manufacturers shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators.
-
-b. An original equipment manufacturer may elect to (i) establish its own refrigerant recovery program, (ii) participate with other original equipment manufacturers in a refrigerant recovery program, or (iii) have its appliances serviced by the department in the refrigerant recovery program provided pursuant to section 16-482 of this chapter. No program established pursuant to paragraph one or two of this subdivision may include curbside collection of appliances.
-
-
-
-
-
-
-*§ 16-482 Department refrigerant recovery program.* ::
-
-
-a. The department shall provide a program for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
-
-b. The department shall establish, by rule, a fee for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
-
-c. An original equipment manufacturer whose appliance is serviced by the department shall be billed by the department and shall be responsible for the payment of the fee established by the department for the recovery of refrigerants.
-
-
-
-
-
-
-*§ 16-483 Improper disposal of appliances.* ::
-
-
-No original equipment manufacturer or its agent shall dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants.
-
-
-
-
-
-
-*§ 16-484 Enforcement.* ::
-
-
-a. The department shall have the authority to enforce the provisions of this chapter.
-
-b. Any original equipment manufacturer or agent of such manufacturer who violates section 16-483 of this chapter shall be liable for a civil penalty of five hundred dollars for each violation.
-
-
-
-
-
-
-*§ 16-485 Rulemaking authority.* ::
-
-
-The department shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter, including but not limited to rules relating to reporting by original equipment manufacturers and registration with the department by such manufacturers, which registration may require the submission of information related to such manufacturers' refrigerant recovery programs, if any, and establishing penalties for violations of such rules.
-
-
-
-
-
-
-*§ 16-486 Severability.* ::
-
-
-If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
-
-
-
-
-Chapter 4-F: Carryout Bag Reduction
---------------------------------------------------
-
-
-
-*§ 16-490 Definitions.* ::
-
-
-As used in this chapter:
-
-Carryout bag. The term "carryout bag" means any bag that is provided by a covered store to a customer at the point of sale and is used to carry goods from such store, provided, however, that such term shall not include any of the following: (i) a bag without handles used to carry produce, meats, poultry, fish, dairy, dry goods or other non-prepackaged food items to the point of sale within a covered store or to prevent such food items from coming into direct contact with other purchased items; (ii) a bag provided by a pharmacy to carry prescription drugs; (iii) a garment bag; or (iv) any other bag exempted from the provisions of this chapter by rule of the commissioner.
-
-Covered store. The term "covered store" means a general vendor, green cart or a retail or wholesale establishment engaged in the sale of personal, consumer or household items including but not limited to drug stores, pharmacies, grocery stores, supermarkets, convenience stores, foodmarts, apparel stores, home center and hardware stores, stationery and office supply stores, and food service establishments located within grocery stores, supermarkets, convenience stores or foodmarts that provide carryout bags to customers in which to place purchased items. Such term does not include food service establishments located outside of grocery stores, supermarkets, convenience stores, or foodmarts, including emergency food providers, mobile food vendors that are not green carts, or stores licensed pursuant to section 63 of the state alcoholic beverage control law to sell liquor at retail for consumption off the premises.
-
-Emergency food provider. The term "emergency food provider" means any facility, including soup kitchens and food pantries, operated by a not-for-profit corporation or by a federal, state, or local government agency that provides food to needy individuals at no charge.
-
-Food service establishment. The term "food service establishment" has the same meaning as in section 81.03 of the health code of the city of New York or any successor provision.
-
-General vendor. The term "general vendor" has the same meaning as in subdivision b of section 20-452.
-
-Green cart. The term "green cart" means a green cart as in subdivision s of section 17-306 or any other non-processing mobile food vending unit in or on which non-potentially hazardous uncut fruits and vegetables are sold or held for sale or service, regardless of geographic restrictions on operation of such green cart or mobile food vending unit.
-
-Reusable carryout bag. The term "reusable carryout bag" means a bag with handles that is specifically designed and manufactured for multiple reuse and is either (i) made of cloth or other machine washable material, but not film plastic, or (ii) defined as a reusable carryout bag by rule of the commissioner. Reusable carryout bags provided to customers pursuant to this chapter shall be conspicuously labeled as reusable.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-491 Carryout bag fee.* ::
-
-
-a. Except as provided in section 16-493 or subdivision e of section 16-492, covered stores shall charge a fee of not less than five cents for each carryout bag provided to any customer. All fees collected by a covered store under this chapter shall be retained by the store. Covered stores shall separately itemize the fee charged pursuant to this subdivision on the standard receipt provided to customers.
-
-b. No covered store shall charge a fee for, or prevent a customer from using, a carryout bag brought by the customer to such store to carry purchased goods from such store.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-492 Additional obligations for covered stores.* ::
-
-
-a. All covered stores shall post signs at or near the point of sale to notify customers of the provisions of this chapter. Such signs shall measure at least five inches by seven inches and shall read as follows: "Pursuant to New York City law, all carryout bags provided by this store to a customer, with limited exceptions, shall be subject to a fee of not less than five cents per bag. Carryout bags brought by customers into this store to carry purchased goods from this store shall not be subject to a fee."
-
-b. No covered store shall provide a credit to any customer specifically for the purpose of reducing or eliminating the carryout bag fee required by subdivision a of section 16-491.
-
-c. Paper carryout bags provided by covered stores to customers shall contain a minimum of forty percent post-consumer recycled content and be conspicuously labeled with the amount of post-consumer recycled content.
-
-d. Plastic carryout bags provided by covered stores to customers labeled as "compostable" must be certified as compliant with the ASTM D6400-12 standard specification for labeling of plastics designed to be aerobically composted in municipal or industrial facilities or other standard determined by rule of the commissioner. Plastic carryout bags provided by covered stores to customers shall not be labeled as "biodegradable," "degradable," or "decomposable."
-
-e. Covered stores may provide their customers with reusable carryout bags free of charge from February 15, 2017, to April 30, 2017. In addition, covered stores may provide their customers with reusable carryout bags free of charge for a two-week period each year from April 17 to April 30.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-493 Exemptions.* ::
-
-
-All covered stores that provide carryout bags to customers shall provide carryout bags free of charge for items purchased at such covered store by any customer using the supplemental nutrition assistance program, special supplemental nutrition program for women, infants and children, or any successor programs, as full or partial payment toward the items purchased in such covered store.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-494 Reporting.* ::
-
-
-No later than March 1, 2018, and annually thereafter, the commissioner, in collaboration with the commissioners of environmental protection and consumer affairs, and the head of any other department or office designated by the mayor, shall include in the department's annual recycling report pursuant to subdivision k of section 16-305, information on the progress of single-use carryout bag reduction including, but not limited to: (i) the general effectiveness of this chapter in reducing the use of single-use carryout bags in the city and increasing the use of reusable carryout bags; (ii) the waste- and litter-reduction benefits of this chapter, including, where practicable, the amount of single-use plastic bags in the waste stream; (iii) the number of notices of violation issued pursuant to this chapter; and (iv) any cost savings for the city attributable to single-use carryout bag reduction such as reduced contamination of the residential recycling stream or reduction in flooding or combined sewer overflows.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-495 Outreach and education.* ::
-
-
-a. The commissioner shall establish an outreach and education program aimed at educating residents and covered stores on reducing the use of single-use carryout bags and increasing the use of reusable carryout bags. This outreach and education program shall include, but not be limited to, a multilingual public education program, including advertisements about the program in newspapers of general circulation, radio, and public venues such as subways and buses.
-
-b. To the extent practicable, the commissioner shall seek the assistance of for-profit and not-for-profit corporations in providing and distributing reusable carryout bags to residents and in providing and distributing signs pursuant to subdivision a of section 16-492 to covered stores.
-
-c. In conducting outreach and distributing reusable carryout bags to residents pursuant to this section, the commissioner shall prioritize such outreach and reusable carryout bag distribution to residents in households with annual income below two hundred percent of the federal poverty line and covered stores and residents within the police precincts identified in subparagraph b of paragraph four of subdivision b of section 17-307.
-
-d. No later than three months following the date the local law that added this subdivision became law, the commissioner shall distribute a multilingual letter to all covered stores informing them of their obligations to comply with the provisions of this chapter and any rules promulgated pursuant thereto. Failure to receive a letter pursuant to this subdivision shall not eliminate or otherwise affect the obligations of a covered store pursuant to this chapter and any rules promulgated pursuant thereto.
-
-e. On or before March 1, 2019, the commissioner shall issue a study on the effect of the law on residents, which shall include, but need not be limited to, determining the percentage reduction in single-use plastic or paper carryout bags usage by residents; residents' attitudes toward the law, disaggregated by race and income; and whether residents are substituting other types of plastic bags for single-use carryout bags. The commissioner shall also include an assessment on the potential effectiveness of coupling a ban on single-use plastic carryout bags with the carryout bag fee in reducing the amount of carryout bags in the waste stream.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
-
-
-*§ 16-496 Enforcement.* ::
-
-
-a. Any notice of violation issued pursuant to this chapter shall be returnable to the environmental control board, which shall have the power to impose civil penalties as provided in this chapter.
-
-b. The department and the department of consumer affairs shall have the authority to enforce the provisions of this chapter.
-
-c. Any covered store that violates section 16-491 or subdivision b, c or d of section 16-492 or any rules promulgated pursuant thereto shall be liable for a civil penalty of $250 for a first violation and $500 for any subsequent violation of the same section or subdivision of this chapter or rule promulgated pursuant thereto within an eighteen-month period, except that the department and the department of consumer affairs shall not issue a notice of violation, but shall issue a warning for any violation that occurs during the six-month period from February 15, 2017, to August 14, 2017. For purposes of this chapter, each commercial transaction shall constitute no more than one violation.
-
-d. It shall not be a violation of this chapter for a general vendor or green cart to fail to provide a receipt to a customer that separately itemizes the carryout bag fee.
-
-e. No covered store that fails to post signs in accordance with subdivision a of section 16-492 shall be liable for a civil penalty.
-
-
-
-Editor's note: Moratorium on the adoption or implementation of any local law, ordinance, rule or regulation relating to charging a fee for carryout merchandise bags or a fee of similar effect, see 2017 N.Y. Laws Ch. 7, 2/14/2017.
-
-
-
-
 Chapter 4-G: Food Donation Web Portal
 --------------------------------------------------
 
@@ -3282,6 +3141,59 @@ Chapter 4-G: Food Donation Web Portal
 
 
 Within eighteen months after the effective date of the local law that added this section, the department or another agency or office designated by the mayor, shall, in conjunction with the department of information technology and telecommunications, create or modify and maintain a web portal that will allow prospective food donors and recipients, including but not limited to restaurants, grocery stores, produce markets, dining facilities and food rescue organizations, to post notifications concerning the availability of food, including food that would otherwise go to waste, and to arrange for the transportation or retrieval of such food. Such portal shall, at a minimum, allow (i) a prospective food donor to describe the type and amount of food available, including any information necessary to keep the food safe for human consumption, such as refrigeration requirements, as well as other information necessary to facilitate its donation, (ii) a prospective food recipient to specify the type and amount of food donations it will accept and the areas of the city from which it will accept donations and to receive prompt notification concerning the availability of food satisfying such specifications, and (iii) a prospective food donor and a prospective food recipient to communicate directly through a messaging system within such portal.
+
+
+
+
+
+
+Chapter 4-F: Paper Carryout Bag Reduction Fee
+--------------------------------------------------
+
+
+
+*§ 16-490 Definitions.* ::
+
+
+As used in this chapter:
+
+Exempt bag. The term “exempt bag” means: (i) a bag used solely to contain or wrap uncooked meat, fish or poultry; (ii) a bag used by a customer solely to package bulk items such as fruits, vegetables, grains or candy; (iii) a bag used solely to contain food sliced or prepared to order; (iv) a bag used solely to contain a newspaper for delivery to a subscriber of such newspaper; (v) a bag sold in bulk to a consumer at the point of sale; (vi) a trash bag; (vii) a bag used for food storage; (viii) a garment bag; (ix) a bag prepackaged for sale to a customer; (x) a plastic carryout bag provided by a restaurant, tavern or similar food service establishment, as defined in section 14-1.20 of title 10 of the New York codes, rules and regulations, to carry out or deliver food; or (xi) a bag provided by a pharmacy to carry prescription drugs.
+
+Paper carryout bag. The term “paper carryout bag” means a paper bag, other than an exempt bag, that is provided to a customer by a person required to collect tax to be used by the customer to carry tangible personal property, regardless of whether such person required to collect tax sells any tangible personal property or service to the customer, and regardless of whether any tangible personal property or service sold is exempt from tax under article 28 of the tax law.
+
+Person required to collect tax. The term “person required to collect tax” means any vendor of tangible personal property subject to the tax imposed by subdivision (a) of section 1105 of the tax law.
+
+
+
+
+
+
+
+
+*§ 16-491 Paper carryout bag reduction fee.* ::
+
+
+a. On and after March 1, 2020, there shall be a paper carryout bag reduction fee of five cents imposed on each paper carryout bag provided by any person required to collect tax to a customer.
+
+b. Any sales slip, invoice, receipt or other statement of price furnished by a person required to collect tax to a customer shall separately state and make payable the paper carryout bag reduction fee and shall state the number of paper carryout bags provided to the customer.
+
+c. Pursuant to paragraph (c) of subdivision 1 of section 27-2805 of the environmental conservation law, the transfer of a paper carryout bag to a customer by a person required to collect tax shall not constitute a retail sale and the fee imposed on paper carryout bags pursuant to this section shall not constitute a receipt for the sale of tangible personal property.
+
+d. Pursuant to subdivision 4 of section 27-2805 of the environmental conservation law, the paper carryout bag reduction fee shall be reported and paid by a person required to collect tax to the New York state commissioner of taxation and finance, accompanied by a return in the form and containing the information prescribed by such commissioner, on a quarterly basis on or before the twentieth day of the month following each quarterly period ending on the last day of February, May, August and November, respectively.
+
+
+
+
+
+
+
+
+*§ 16-492 Exemptions.* ::
+
+
+a. Pursuant to subdivision 3 of section 27-2805 of the environmental conservation law, the paper carryout bag reduction fee imposed pursuant to section 16-491 shall not apply to any customer using the supplemental nutritional assistance program, special supplemental nutrition program for women, infants and children, or any successor programs used as full or partial payment for the items purchased.
+
+b. Pursuant to subparagraph (1) of paragraph (b) of subdivision 6 of section 27-2805 of the environmental conservation law, the exemptions provided for in section 1116 of the tax law, other than the exemptions in paragraphs (1), (2) and (3) of subdivision (a) of such section, shall not apply to the paper carryout bag reduction fee imposed pursuant to section 16-491.
 
 
 

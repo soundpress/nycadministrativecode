@@ -6424,6 +6424,163 @@ b. (1) Any person providing a commercial lawn application who, having the culpab
 
 
 
+Chapter 13: Availability of Information Regarding Day care Services
+--------------------------------------------------
+
+
+
+*§ 17-1301 Definitions.* ::
+
+
+a. "Child care service" means any service which is permitted as a child care service in accordance with article 47 of the New York city health code.
+
+b. "Child care service permittee" means the person to whom a permit to operate a child care service is issued by the commissioner.
+
+c. "Permit" means an authorization to operate a child care service issued by the commissioner in accordance with article 47 of the New York city health code.
+
+d. "Serious injury" means a serious impairment of physical condition, including, but not limited to, the following: loss of consciousness; concussion; bone fracture; protracted loss or impairment of function of any bodily member or organ; a wound requiring extensive suturing; and serious disfigurement.
+
+e. "Summary child care service inspection report" is a report that includes, at a minimum, the following information:
+
+   (1) the name of the child care service;
+
+   (2) the name of the child care service permittee;
+
+   (3) the child care service permit number and expiration date;
+
+   (4) the address of the child care service;
+
+   (5) the date of the most recent inspection;
+
+   (6) the maximum number of children authorized to be present at any one time as specified in the child care service permit;
+
+   (7) any violations identified by the department during inspections conducted over the past three years; and
+
+   (8) whether a permit has been ordered suspended or revoked in the past twelve months; whether a child care service has, during the past three years, been ordered closed because its continued operation represented a danger to the health or safety of children; and the terms and conditions, if any, under which such child care service has been allowed to reopen and is authorized to operate.
+
+f. "Violation" means a citation issued by the department which alleges that a child care service has failed to comply with a provision of applicable law, rule or regulation.
+
+
+
+
+
+
+*§ 17-1302 Access to summary child care service inspection reports.* ::
+
+
+Following each inspection of a child care service, the department shall post a summary child care service inspection report on the department's website and shall make summary child care service inspection reports available by calling 311.
+
+
+
+
+
+
+*§ 17-1303 Posting of information on-site.* ::
+
+
+Every child care service must post a sign in a conspicuous place near its public entrance or entrances stating that the most recent summary child care service inspection report may be accessed through the website of the department or by calling 311. The sign, whose form and content shall be provided or approved by the department, shall be printed in clear and legible type, in such a manner as to be readily visible to parents or other persons entering the child care service and shall provide instructions on how to gain access to the summary child care service inspection reports through the department's website.
+
+
+
+
+
+
+*§ 17-1304 Denial of permit.* ::
+
+
+a. Every applicant for a new or renewal permit to operate a child care service shall disclose whether a serious injury or the death of a child in its care, or the care of any of its owners, directors, employees, volunteers or agents, has occurred. Every such permit applicant shall further disclose any civil or criminal court verdicts holding that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, or administrative agency decisions holding or finding that there is credible evidence that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, and whether any legal proceeding involving the serious injury or death of a child is pending against the applicant, or any of its owners, directors, employees, volunteers or agents. The department shall deny such a permit unless, on the basis of the application and other papers submitted, including the information provided pursuant to this section, and on the basis of department or city investigation, if any, it is satisfied that the provisions of the New York city health code and other applicable law will be met. The death of a child or the occurrence of more than one incident resulting in a serious injury to a child or children in the care of an applicant or permittee shall create a presumption in any proceeding brought by the department to deny or revoke such a permit of the inability of the applicant or permittee to comply with the provisions of said code or other applicable law. Nothing herein shall otherwise limit the department's authority to deny the issuance or renewal of a permit or to revoke a permit.
+
+b. To the extent permissible by law, where the department has received written notification that a person with responsibility for oversight and direction of a child care service has a felony conviction at any time for a sex offense, crime against a child, or a crime involving violence, or a felony conviction within the past five years for a drug-related offense, the department shall, when consistent with article twenty-three-A of the correction law, deny the application for a permit to operate such child care service.
+
+
+
+
+
+
+*§ 17-1305 Notification of authorities.* ::
+
+
+The department shall report to an appropriate state agency any serious injury or death of a child in child care services which has been reported to the department in accordance with applicable law, rules and regulations. Such report shall include the name of the child care service and the child care service permittee of any child care service in which a serious injury or death of a child has occurred.
+
+
+
+
+
+
+*§ 17-1306 Distribution of information to referral agencies.* ::
+
+
+a. Definitions.
+
+   1. "Child care program" means any program that provides child day care as defined in section 390 of the New York state social services law, including family day care home, group family day care home and school age child care as defined in section 390 of the New York state social services law, or child care services.
+
+   2. "Referral agency" means the administration for children's services, the department of social services/human resources administration or any state-funded child care resource and referral agency operating in New York city.
+
+b. To the extent permissible under law, the department shall promptly make available to referral agencies information regarding any child care program for which the department is aware of a current suspension of its license, registration or permit or that it has had its license, registration or permit terminated.
+
+c. The department shall request that referral agencies advise parents to seek additional information regarding any program to which a referral is made by consulting the department's website or by calling 311.
+
+d. The department shall publish an informational pamphlet which shall, at a minimum, do the following:
+
+   1. Describe the government authorities responsible for regulating child care programs, along with contact information for persons to use if they have questions or complaints about child care programs.
+
+   2. Describe key rules or regulations relating to child care programs, including mandated staff and adult/child ratios, maximum capacity and health and safety standards.
+
+   3. Describe the inspection process and the registration, licensing and permitting processes for child care programs.
+
+4. Advise parents seeking child care programs to ask child care program providers to see the program's current license, registration or permit and not to enroll a child in any program that does not have a current registration, license or permit or has a current suspension of its registration, license or permit. The informational pamphlet required by this section shall be translated into all covered languages as defined in § 8-1002* of the administrative code of the city of New York. Copies of the pamphlet shall be provided to all referral agencies.
+
+* Editor's note: Repealed. For current provisions, see Title 21, Chapter 1, Subchapter 1.
+
+
+
+
+
+
+*§ 17-1307 Reports regarding child care citywide.** ::
+
+
+a. Forty-five days after the end of the first full calendar quarter following the effective date of the local law that added this section and forty-five days after the end of each succeeding calendar quarter thereafter, the department shall furnish to the speaker of the city council a report regarding child care programs in New York city that includes, at a minimum, the following information concerning child care services, and to the extent that the department has access to such information, the following information concerning state-regulated family and group family day care homes and school-age child care programs:
+
+   1. number of programs currently holding a valid license, registration or permit issued under state or local law or regulations, disaggregated by borough and by type of program;
+
+   2. number of inspections of such child care programs conducted, disaggregated by borough and by the type of program inspected;
+
+   3. percentage of renewal applications that were not processed by the expiration date of the license, registration or permit being renewed, disaggregated by the type of child care program;
+
+   4. percentage of new applications for a license, registration or permit to operate a state-regulated child care program that resulted in a license or registration, disaggregated by the type of child care program;
+
+   5. percentage of new applications for licenses to operate a child care service that resulted in a license, registration or permit;
+
+   6. number of child care program slots created, disaggregated by type of child care program;
+
+   7. number of complaints received regarding child care programs operating with a license, registration or permit, disaggregated by the type of child care program and borough in which the child care program that is the subject of the complaint is located;
+
+   8. number of complaints received regarding child care programs operating without a license, registration or permit, disaggregated by the borough in which the child care program that is the subject of the complaint is located;
+
+   9. percentage of state-licensed or registered child care programs cited for having violations, disaggregated by borough and by the type of child care program;
+
+   10. total number of initial inspections of child care services and the percentage of child care services that required one or more compliance inspections;
+
+   11. number of child care program licenses, registrations or permits revoked, disaggregated by type of child care program;
+
+   12. number of child care program licenses, registrations or permits suspended, disaggregated by the type of child care program;
+
+   13. number of cease and desist orders issued, disaggregated by the type of state-licensed or registered child care program;
+
+   14. number of early childhood consultants employed in the department's bureau of child care as of the close of business on the final day of the reporting period;
+
+   15. number of early childhood consultant vacancies in the department's bureau of child care as of the close of business on the final day of the reporting period;
+
+   16. number of public health sanitarians employed in the department's bureau of child care as of the close of business on the final day of the reporting period; and
+
+   17. number of public health sanitarian vacancies in the department's bureau of child care as of the close of business on the final day of the reporting period.
+
+b. Within forty-five days after the end of each calendar year, the department shall publish and make available on its website an annual report containing the information set forth in subdivision a of this section for the prior calendar year.
+
+
+
+
 Chapter 12: Pesticide Use By City Agencies
 --------------------------------------------------
 
@@ -6619,159 +6776,217 @@ The commissioner shall promulgate any rules as may be necessary for the purposes
 
 
 
-Chapter 13: Availability of Information Regarding Day care Services
+Chapter 15: Food Service Establishments
 --------------------------------------------------
 
 
 
-*§ 17-1301 Definitions.* ::
+*§ 17-1501 Definitions.* ::
 
 
-a. "Child care service" means any service which is permitted as a child care service in accordance with article 47 of the New York city health code.
+As used in this Chapter the following terms shall have the following meanings:
 
-b. "Child care service permittee" means the person to whom a permit to operate a child care service is issued by the commissioner.
+a. "Consultative inspection" means an educational sanitary inspection of a food service establishment that shall not result in fines or a grade.
 
-c. "Permit" means an authorization to operate a child care service issued by the commissioner in accordance with article 47 of the New York city health code.
+b. "Covered languages" means Chinese, English, Haitian Creole, Korean, Bengali, Russian and Spanish, and any other language determined by the department.
 
-d. "Serious injury" means a serious impairment of physical condition, including, but not limited to, the following: loss of consciousness; concussion; bone fracture; protracted loss or impairment of function of any bodily member or organ; a wound requiring extensive suturing; and serious disfigurement.
+c. "Critical violations" shall have the meaning it is given in section 23-01 of title 24 of the rules of the city of New York.
 
-e. "Summary child care service inspection report" is a report that includes, at a minimum, the following information:
+d. "Food service establishment" means any establishment inspected pursuant to the restaurant grading program established pursuant to subdivision a of section 81.51 of the health code of the city of New York.
 
-   (1) the name of the child care service;
+e. "Food service establishment inspector" means any individual employed by the department who as part of his or her duties conducts inspections of food service establishments pursuant to subdivision a of section 81.51 of the health code of the city of New York.
 
-   (2) the name of the child care service permittee;
+f. "General violations" shall have the meaning it is given in section 23-01 of title 24 of the rules of the city of New York.
 
-   (3) the child care service permit number and expiration date;
+g. "Imminent health hazard or public health hazard" shall have the meaning it is given in section 81.03 of the health code of the city of New York.
 
-   (4) the address of the child care service;
+h. "Initial inspection" means the first sanitary inspection within an inspection cycle.
 
-   (5) the date of the most recent inspection;
+i. "Inspection cycle" means a series of related inspections of food service establishments consisting of at least an initial inspection and including, if triggered by the initial or any subsequent inspections within that cycle, a reinspection and any compliance inspections conducted by the department because of a previous inspection score in that cycle.
 
-   (6) the maximum number of children authorized to be present at any one time as specified in the child care service permit;
+j. "Notice of violation" means a written notice issued by a food service establishment inspector alleging that there was a violation of law or regulation at the food service establishment on the day of the food service establishment inspection.
 
-   (7) any violations identified by the department during inspections conducted over the past three years; and
+k. "Sanitary inspection" means any on-site review by the department of a food service establishment's physical facilities, food handling operations, equipment, sanitary condition, maintenance, and worker hygiene practices. The term may include, but shall not be limited to include, initial, reinspection, compliance and pre-permit inspections.
 
-   (8) whether a permit has been ordered suspended or revoked in the past twelve months; whether a child care service has, during the past three years, been ordered closed because its continued operation represented a danger to the health or safety of children; and the terms and conditions, if any, under which such child care service has been allowed to reopen and is authorized to operate.
 
-f. "Violation" means a citation issued by the department which alleges that a child care service has failed to comply with a provision of applicable law, rule or regulation.
 
 
 
 
+*§ 17-1502 Food Service Establishment Inspection Code of Conduct.* ::
 
 
-*§ 17-1302 Access to summary child care service inspection reports.* ::
+a. The commissioner shall develop a code of conduct pertaining to sanitary inspections. The inspection code of conduct shall inform owners and operators of food service establishments of their rights as they relate to sanitary inspections.
 
+b. The inspection code of conduct shall be in the form of a written document, drafted in plain language. The department shall distribute the inspection code of conduct to all food service establishment inspectors and food service establishments. Food service establishment inspectors shall also distribute the inspection code of conduct to food service establishment owners or operators prior to the beginning of an initial inspection. The department shall make the inspection code of conduct available on the department's website in the covered languages.
 
-Following each inspection of a child care service, the department shall post a summary child care service inspection report on the department's website and shall make summary child care service inspection reports available by calling 311.
+c. The code of conduct shall include, but not be limited to, the following requirements:
 
+   (1) the food service establishment inspector shall behave in a professional and courteous manner;
 
+   (2) upon arriving at the food service establishment to perform a sanitary inspection, the food service establishment inspector shall immediately identify himself or herself to the staff of the food service establishment, and note the type of inspection, in a manner that does not unreasonably interfere with the dining experience of patrons;
 
+   (3) the food service establishment inspector shall be as unobtrusive as possible during the inspection while conducting the inspection;
 
+   (4) the food service establishment inspector shall return any equipment he or she moved back to its original location, and reassemble any equipment he or she disassembled, during the course of the inspection;
 
+   (5) the food service establishment inspector shall have a sound knowledge of all relevant health code provisions and any other applicable laws and regulations.
 
-*§ 17-1303 Posting of information on-site.* ::
+   (6) the food service establishment inspector shall meaningfully communicate with the food service establishment owner or operator, and if necessary, utilize language assistance services to facilitate meaningful communication;
 
+   (7) the food service establishment inspector shall answer reasonable questions relating to the inspection;
 
-Every child care service must post a sign in a conspicuous place near its public entrance or entrances stating that the most recent summary child care service inspection report may be accessed through the website of the department or by calling 311. The sign, whose form and content shall be provided or approved by the department, shall be printed in clear and legible type, in such a manner as to be readily visible to parents or other persons entering the child care service and shall provide instructions on how to gain access to the summary child care service inspection reports through the department's website.
+   (8) the food service establishment inspector shall enforce agency rules in a fair and impartial manner;
 
+   (9) the food service establishment inspector shall, upon finding a violation, explain to the food service establishment owner or operator how to remedy such violation.
 
+   (10) the food service establishment inspector must provide information informing the food service establishment owner or operator how such owner or operator may contest a notice of violation before the relevant local tribunal; and
 
+(11) the food service establishment inspector shall provide information on how the food service establishment owner or operator may file a comment, compliment, or complaint about an inspector.
 
+   d. The commissioner shall regularly, but no less frequently than every two years, review and update the inspection code of conduct, as necessary.
 
+e. Nothing in this section or in the inspection code of conduct shall be construed to create a cause of action or constitute a defense in any legal, administrative, or other proceeding.
 
-*§ 17-1304 Denial of permit.* ::
 
 
-a. Every applicant for a new or renewal permit to operate a child care service shall disclose whether a serious injury or the death of a child in its care, or the care of any of its owners, directors, employees, volunteers or agents, has occurred. Every such permit applicant shall further disclose any civil or criminal court verdicts holding that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, or administrative agency decisions holding or finding that there is credible evidence that the applicant, or any of its owners, directors, employees, volunteers or agents, was responsible for such serious injury or death of a child, and whether any legal proceeding involving the serious injury or death of a child is pending against the applicant, or any of its owners, directors, employees, volunteers or agents. The department shall deny such a permit unless, on the basis of the application and other papers submitted, including the information provided pursuant to this section, and on the basis of department or city investigation, if any, it is satisfied that the provisions of the New York city health code and other applicable law will be met. The death of a child or the occurrence of more than one incident resulting in a serious injury to a child or children in the care of an applicant or permittee shall create a presumption in any proceeding brought by the department to deny or revoke such a permit of the inability of the applicant or permittee to comply with the provisions of said code or other applicable law. Nothing herein shall otherwise limit the department's authority to deny the issuance or renewal of a permit or to revoke a permit.
 
-b. To the extent permissible by law, where the department has received written notification that a person with responsibility for oversight and direction of a child care service has a felony conviction at any time for a sex offense, crime against a child, or a crime involving violence, or a felony conviction within the past five years for a drug-related offense, the department shall, when consistent with article twenty-three-A of the correction law, deny the application for a permit to operate such child care service.
 
 
+*§ 17-1503 Food Service Establishment Advisory Board.* ::
 
 
+a. There shall be an advisory board to advise the commissioner concerning matters related to the food service establishment sanitary inspection program and its effect on the restaurant industry, food safety and public health.
 
+b. Such advisory board shall consist of twenty members as follows:
 
-*§ 17-1305 Notification of authorities.* ::
+   i. Ten members shall be appointed by the mayor, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and four such members shall operate food service establishments;
 
+   ii. Nine members shall be appointed by the speaker of the council, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and three such members shall operate a food service establishment;
 
-The department shall report to an appropriate state agency any serious injury or death of a child in child care services which has been reported to the department in accordance with applicable law, rules and regulations. Such report shall include the name of the child care service and the child care service permittee of any child care service in which a serious injury or death of a child has occurred.
+   iii. The commissioner of the department of health and mental hygiene shall serve ex officio.
 
+c. At the invitation of the department, other individuals may participate in the discussions of the board.
 
+d. Each member, other than the member serving in an ex officio capacity, shall serve for a term of two years, to commence upon the first meeting of the advisory board. Any vacancies in the membership of the advisory board shall be filled in the same manner as the original appointment. A person filling such vacancy shall serve for the unexpired portion of the term of the succeeded member.
 
+e. No member of the advisory board shall be removed except for cause and upon notice and hearing by the appropriate appointing official.
 
+f. Members of the advisory board shall serve without compensation and shall meet no less often than every three months.
 
+g. The agendas for the first four meetings of the advisory board shall include, but not be limited to:
 
-*§ 17-1306 Distribution of information to referral agencies.* ::
+   1. a review of current health code violations for which points are assigned, including those violations that do not bear directly on food safety and public health;
 
+   2. a review of the current food safety inspector training curriculum;
 
-a. Definitions.
+   3. a review of the effect of letter grading on public health and food safety, including information on the top ten most commonly cited violations in the previous year and any change in the incidences of illness from food borne pathogens; and
 
-   1. "Child care program" means any program that provides child day care as defined in section 390 of the New York state social services law, including family day care home, group family day care home and school age child care as defined in section 390 of the New York state social services law, or child care services.
+   4. a review of the relationship between the food service industry and the department.
 
-   2. "Referral agency" means the administration for children's services, the department of social services/human resources administration or any state-funded child care resource and referral agency operating in New York city.
+h. On January 1, 2015, and every year thereafter on January first, the advisory board shall submit a report to the mayor, the commissioner, and the speaker of the council. Such report shall include, but not be limited to:
 
-b. To the extent permissible under law, the department shall promptly make available to referral agencies information regarding any child care program for which the department is aware of a current suspension of its license, registration or permit or that it has had its license, registration or permit terminated.
+   1. an assessment of the restaurant inspection program and its effect on the restaurant industry, public health and food safety, including information on the top ten most commonly cited violations in the previous year and any change in the incidences of illness from food borne pathogens; and
 
-c. The department shall request that referral agencies advise parents to seek additional information regarding any program to which a referral is made by consulting the department's website or by calling 311.
+   2. specific recommendations for changes and/or improvements to the restaurant inspection program and actions, if any, taken by the department in response to such recommendations.
 
-d. The department shall publish an informational pamphlet which shall, at a minimum, do the following:
 
-   1. Describe the government authorities responsible for regulating child care programs, along with contact information for persons to use if they have questions or complaints about child care programs.
 
-   2. Describe key rules or regulations relating to child care programs, including mandated staff and adult/child ratios, maximum capacity and health and safety standards.
 
-   3. Describe the inspection process and the registration, licensing and permitting processes for child care programs.
 
-4. Advise parents seeking child care programs to ask child care program providers to see the program's current license, registration or permit and not to enroll a child in any program that does not have a current registration, license or permit or has a current suspension of its registration, license or permit. The informational pamphlet required by this section shall be translated into all covered languages as defined in § 8-1002* of the administrative code of the city of New York. Copies of the pamphlet shall be provided to all referral agencies.
 
-* Editor's note: Repealed. For current provisions, see Title 21, Chapter 1, Subchapter 1.
+*§ 17-1504 Food Service Establishment Consultative Inspection Program.* ::
 
 
+a. The department shall implement a consultative inspection program for food service establishments.
 
+b. Such consultative inspections shall be optional, and performed for educational and informational purposes only. A consultative inspection shall not result in a notice of violation being issued for general violations, critical violations, imminent health hazards or public health hazards. A consultative inspection shall not impact a food service establishment's inspection cycle.
 
+c. Upon completion of a consultative inspection, the inspector shall review the results with the owner or operator of the food service establishment, and advise the owner or operator of potential violations and how to remedy such violations.
 
+d. Nothing in this section shall prohibit the department from taking appropriate action if a food service establishment fails to remedy a public health hazard at the time of the consultative inspection.
 
-*§ 17-1307 Reports regarding child care citywide.** ::
+e. The department may charge a fee which shall be set by rule promulgated by the commissioner.
 
+f. The department may schedule the consultative inspection based on factors, set by rule promulgated by the commissioner, including but not limited to demand, prioritization according to inspection history, and the inspection cycle of the food service establishment.
 
-a. Forty-five days after the end of the first full calendar quarter following the effective date of the local law that added this section and forty-five days after the end of each succeeding calendar quarter thereafter, the department shall furnish to the speaker of the city council a report regarding child care programs in New York city that includes, at a minimum, the following information concerning child care services, and to the extent that the department has access to such information, the following information concerning state-regulated family and group family day care homes and school-age child care programs:
+g. Within the consultative inspection program for food service establishments, the department shall develop a system for newly licensed food service establishments whereby such establishments may schedule the consultative inspection prior to their first initial inspections for a nominal fee which shall be set by rule promulgated by the commissioner.
 
-   1. number of programs currently holding a valid license, registration or permit issued under state or local law or regulations, disaggregated by borough and by type of program;
 
-   2. number of inspections of such child care programs conducted, disaggregated by borough and by the type of program inspected;
 
-   3. percentage of renewal applications that were not processed by the expiration date of the license, registration or permit being renewed, disaggregated by the type of child care program;
 
-   4. percentage of new applications for a license, registration or permit to operate a state-regulated child care program that resulted in a license or registration, disaggregated by the type of child care program;
 
-   5. percentage of new applications for licenses to operate a child care service that resulted in a license, registration or permit;
 
-   6. number of child care program slots created, disaggregated by type of child care program;
+*§ 17-1505 [Food service establishment inspections ombuds office.]* ::
 
-   7. number of complaints received regarding child care programs operating with a license, registration or permit, disaggregated by the type of child care program and borough in which the child care program that is the subject of the complaint is located;
 
-   8. number of complaints received regarding child care programs operating without a license, registration or permit, disaggregated by the borough in which the child care program that is the subject of the complaint is located;
+a. Food service establishment inspections ombuds office; office established. There is hereby established within the food safety program of the department a food service establishment inspections ombuds office.
 
-   9. percentage of state-licensed or registered child care programs cited for having violations, disaggregated by borough and by the type of child care program;
+b. Food service establishment inspections ombuds office; duties and responsibilities. The food service establishment inspections ombuds office shall have, but not be limited by, the following duties and responsibilities:
 
-   10. total number of initial inspections of child care services and the percentage of child care services that required one or more compliance inspections;
+   1. establishing a system to receive questions, comments, complaints, and compliments with respect to any food service establishment inspection, including but not limited to, the establishment, operation, and dissemination of a central telephone hotline and website to receive such questions, comments, complaints, and compliments;
 
-   11. number of child care program licenses, registrations or permits revoked, disaggregated by type of child care program;
+   2. investigating complaints received pursuant to paragraph one of this subdivision and taking any action it deems appropriate regarding such complaints, including but not limited to, withdrawing violations that concern the physical layout and/or major fixtures within a food service establishment where the department finds that such physical layout or fixture existed at the time of a prior inspection but was not the subject of a violation and the condition has not been altered since the time of such prior inspection, and identifying egregious inspection errors that ought to be rectified by the department in lieu of submission to the administrative tribunal;
 
-   12. number of child care program licenses, registrations or permits suspended, disaggregated by the type of child care program;
+   3. issuing guidance letters providing informal advisory opinions on matters pertaining to food service establishment inspections, including but not limited to appropriate inspection methods and food handling techniques, either upon request or the department's own initiative. Any such guidance letter issued by the ombuds office shall be posted on the department's website upon issuance and, to the greatest extent practicable, distributed to all food service establishment operators;
 
-   13. number of cease and desist orders issued, disaggregated by the type of state-licensed or registered child care program;
+   4. monitoring inspection results for trends and inconsistencies, including but not limited to, via the compilation and analysis on a quarterly basis of the type and number of violations issued by each inspector; and
 
-   14. number of early childhood consultants employed in the department's bureau of child care as of the close of business on the final day of the reporting period;
+   5. making recommendations to the commissioner regarding improvements to the food service establishment inspection process.
 
-   15. number of early childhood consultant vacancies in the department's bureau of child care as of the close of business on the final day of the reporting period;
+c. Food service establishment inspections ombuds office; annual report. No later than July 1, 2014, and every July 1 thereafter, the ombuds office shall submit to the commissioner an annual report regarding its activities during the previous twelve months. The ombuds office shall forward a copy of such report to the mayor and the speaker of the council. Such report shall include, but not be limited to:
 
-   16. number of public health sanitarians employed in the department's bureau of child care as of the close of business on the final day of the reporting period; and
+   1. the number, nature, and resolution of questions, comments, complaints, and compliments received by the ombuds office;
 
-   17. number of public health sanitarian vacancies in the department's bureau of child care as of the close of business on the final day of the reporting period.
+   2. the number and nature of guidance letter requested;
 
-b. Within forty-five days after the end of each calendar year, the department shall publish and make available on its website an annual report containing the information set forth in subdivision a of this section for the prior calendar year.
+   3. a copy of each guidance letter issued;
+
+   4. an analysis of trends and inconsistencies across inspection results; and
+
+   5. recommendations for improvements to the food service establishment inspection process in accordance with paragraph five of subdivision b of this section.
+
+
+
+
+
+
+*§ 17-1506 Inspections for social adult day cares and senior centers; reporting.* ::
+
+
+a. For purposes of this section, the following terms have the following meanings:
+
+   Food service establishment. The term “food service establishment” has the same meaning as such term is defined in section 81.03 of the New York City health code.
+
+   Senior center. The term “senior center” has the same meaning as such term is defined in section 21-201.
+
+   Social adult day care. The term “social adult day care” has the same meaning as such term is defined in section 21-201.
+
+b. Each senior center and social adult day care that is a food service establishment shall be inspected by the department at least annually in accordance with article 81 of the New York City health code.
+
+c. Inspection results and any related information for each senior center and social adult day care shall be posted and updated as necessary on the department’s website. Such inspection results shall show such senior center and social adult day care’s degree of compliance with the provisions of the New York city health code, the state sanitary code and other applicable laws that require such establishments to operate in a sanitary manner so as to protect public health.
+
+d. Beginning May 1, 2019, and by May 1 annually thereafter, the department shall submit a report to the mayor and the speaker of the city council regarding the department’s activities with respect to inspections of social adult day cares and senior centers that qualify as food service establishments. The report shall include the total number and the name of each social adult day care and senior center that qualify as a food service establishment, disaggregated by council district; the total number of such social adult day cares and senior centers inspected in the prior calendar year and information summarizing the results of such inspections, including but not limited to the number of violations cited, if any, and any required corrective action. The report shall also include the 10 most frequently cited violations during the prior calendar year for such social adult day cares and senior centers.
+
+
+
+
+
+
+
+
+*§ 17-1507 Required healthy eating information.* ::
+
+
+a. Every food service establishment that sells food for consumption on its premises shall display public information messaging created by the department pursuant to subdivision b of this section in a conspicuous location within such establishment.
+
+b. The department shall create public information messaging on healthy eating for all consumers, including, but not specific to, individuals with diet-related conditions such as diabetes, heart disease and hypertension. Such messaging shall include, but not be specific to, the risks of excessive sugar and carbohydrate intake. The department shall make such messaging available to food service establishments in each of the designated citywide languages as defined in section 23-1101.
+
+c. Any person who violates subdivision a of this section, or any rules promulgated pursuant to this section, shall be liable for a civil penalty of not more than $500, recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings.
+
+(L.L. 2019/138, 7/27/2019, eff. 7/27/2020*)
+
+* Editor's note: Pursuant to § 3 of L.L. 2019/138, subdivision c of this section is effective July 27, 2021.
 
 
 
@@ -7039,221 +7254,6 @@ Table IICarpet Cushion 24-Hour VOC Emissions Test Criteria
 
 
  
-
-
-
-
-Chapter 15: Food Service Establishments
---------------------------------------------------
-
-
-
-*§ 17-1501 Definitions.* ::
-
-
-As used in this Chapter the following terms shall have the following meanings:
-
-a. "Consultative inspection" means an educational sanitary inspection of a food service establishment that shall not result in fines or a grade.
-
-b. "Covered languages" means Chinese, English, Haitian Creole, Korean, Bengali, Russian and Spanish, and any other language determined by the department.
-
-c. "Critical violations" shall have the meaning it is given in section 23-01 of title 24 of the rules of the city of New York.
-
-d. "Food service establishment" means any establishment inspected pursuant to the restaurant grading program established pursuant to subdivision a of section 81.51 of the health code of the city of New York.
-
-e. "Food service establishment inspector" means any individual employed by the department who as part of his or her duties conducts inspections of food service establishments pursuant to subdivision a of section 81.51 of the health code of the city of New York.
-
-f. "General violations" shall have the meaning it is given in section 23-01 of title 24 of the rules of the city of New York.
-
-g. "Imminent health hazard or public health hazard" shall have the meaning it is given in section 81.03 of the health code of the city of New York.
-
-h. "Initial inspection" means the first sanitary inspection within an inspection cycle.
-
-i. "Inspection cycle" means a series of related inspections of food service establishments consisting of at least an initial inspection and including, if triggered by the initial or any subsequent inspections within that cycle, a reinspection and any compliance inspections conducted by the department because of a previous inspection score in that cycle.
-
-j. "Notice of violation" means a written notice issued by a food service establishment inspector alleging that there was a violation of law or regulation at the food service establishment on the day of the food service establishment inspection.
-
-k. "Sanitary inspection" means any on-site review by the department of a food service establishment's physical facilities, food handling operations, equipment, sanitary condition, maintenance, and worker hygiene practices. The term may include, but shall not be limited to include, initial, reinspection, compliance and pre-permit inspections.
-
-
-
-
-
-
-*§ 17-1502 Food Service Establishment Inspection Code of Conduct.* ::
-
-
-a. The commissioner shall develop a code of conduct pertaining to sanitary inspections. The inspection code of conduct shall inform owners and operators of food service establishments of their rights as they relate to sanitary inspections.
-
-b. The inspection code of conduct shall be in the form of a written document, drafted in plain language. The department shall distribute the inspection code of conduct to all food service establishment inspectors and food service establishments. Food service establishment inspectors shall also distribute the inspection code of conduct to food service establishment owners or operators prior to the beginning of an initial inspection. The department shall make the inspection code of conduct available on the department's website in the covered languages.
-
-c. The code of conduct shall include, but not be limited to, the following requirements:
-
-   (1) the food service establishment inspector shall behave in a professional and courteous manner;
-
-   (2) upon arriving at the food service establishment to perform a sanitary inspection, the food service establishment inspector shall immediately identify himself or herself to the staff of the food service establishment, and note the type of inspection, in a manner that does not unreasonably interfere with the dining experience of patrons;
-
-   (3) the food service establishment inspector shall be as unobtrusive as possible during the inspection while conducting the inspection;
-
-   (4) the food service establishment inspector shall return any equipment he or she moved back to its original location, and reassemble any equipment he or she disassembled, during the course of the inspection;
-
-   (5) the food service establishment inspector shall have a sound knowledge of all relevant health code provisions and any other applicable laws and regulations.
-
-   (6) the food service establishment inspector shall meaningfully communicate with the food service establishment owner or operator, and if necessary, utilize language assistance services to facilitate meaningful communication;
-
-   (7) the food service establishment inspector shall answer reasonable questions relating to the inspection;
-
-   (8) the food service establishment inspector shall enforce agency rules in a fair and impartial manner;
-
-   (9) the food service establishment inspector shall, upon finding a violation, explain to the food service establishment owner or operator how to remedy such violation.
-
-   (10) the food service establishment inspector must provide information informing the food service establishment owner or operator how such owner or operator may contest a notice of violation before the relevant local tribunal; and
-
-(11) the food service establishment inspector shall provide information on how the food service establishment owner or operator may file a comment, compliment, or complaint about an inspector.
-
-   d. The commissioner shall regularly, but no less frequently than every two years, review and update the inspection code of conduct, as necessary.
-
-e. Nothing in this section or in the inspection code of conduct shall be construed to create a cause of action or constitute a defense in any legal, administrative, or other proceeding.
-
-
-
-
-
-
-*§ 17-1503 Food Service Establishment Advisory Board.* ::
-
-
-a. There shall be an advisory board to advise the commissioner concerning matters related to the food service establishment sanitary inspection program and its effect on the restaurant industry, food safety and public health.
-
-b. Such advisory board shall consist of twenty members as follows:
-
-   i. Ten members shall be appointed by the mayor, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and four such members shall operate food service establishments;
-
-   ii. Nine members shall be appointed by the speaker of the council, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and three such members shall operate a food service establishment;
-
-   iii. The commissioner of the department of health and mental hygiene shall serve ex officio.
-
-c. At the invitation of the department, other individuals may participate in the discussions of the board.
-
-d. Each member, other than the member serving in an ex officio capacity, shall serve for a term of two years, to commence upon the first meeting of the advisory board. Any vacancies in the membership of the advisory board shall be filled in the same manner as the original appointment. A person filling such vacancy shall serve for the unexpired portion of the term of the succeeded member.
-
-e. No member of the advisory board shall be removed except for cause and upon notice and hearing by the appropriate appointing official.
-
-f. Members of the advisory board shall serve without compensation and shall meet no less often than every three months.
-
-g. The agendas for the first four meetings of the advisory board shall include, but not be limited to:
-
-   1. a review of current health code violations for which points are assigned, including those violations that do not bear directly on food safety and public health;
-
-   2. a review of the current food safety inspector training curriculum;
-
-   3. a review of the effect of letter grading on public health and food safety, including information on the top ten most commonly cited violations in the previous year and any change in the incidences of illness from food borne pathogens; and
-
-   4. a review of the relationship between the food service industry and the department.
-
-h. On January 1, 2015, and every year thereafter on January first, the advisory board shall submit a report to the mayor, the commissioner, and the speaker of the council. Such report shall include, but not be limited to:
-
-   1. an assessment of the restaurant inspection program and its effect on the restaurant industry, public health and food safety, including information on the top ten most commonly cited violations in the previous year and any change in the incidences of illness from food borne pathogens; and
-
-   2. specific recommendations for changes and/or improvements to the restaurant inspection program and actions, if any, taken by the department in response to such recommendations.
-
-
-
-
-
-
-*§ 17-1504 Food Service Establishment Consultative Inspection Program.* ::
-
-
-a. The department shall implement a consultative inspection program for food service establishments.
-
-b. Such consultative inspections shall be optional, and performed for educational and informational purposes only. A consultative inspection shall not result in a notice of violation being issued for general violations, critical violations, imminent health hazards or public health hazards. A consultative inspection shall not impact a food service establishment's inspection cycle.
-
-c. Upon completion of a consultative inspection, the inspector shall review the results with the owner or operator of the food service establishment, and advise the owner or operator of potential violations and how to remedy such violations.
-
-d. Nothing in this section shall prohibit the department from taking appropriate action if a food service establishment fails to remedy a public health hazard at the time of the consultative inspection.
-
-e. The department may charge a fee which shall be set by rule promulgated by the commissioner.
-
-f. The department may schedule the consultative inspection based on factors, set by rule promulgated by the commissioner, including but not limited to demand, prioritization according to inspection history, and the inspection cycle of the food service establishment.
-
-g. Within the consultative inspection program for food service establishments, the department shall develop a system for newly licensed food service establishments whereby such establishments may schedule the consultative inspection prior to their first initial inspections for a nominal fee which shall be set by rule promulgated by the commissioner.
-
-
-
-
-
-
-*§ 17-1505 [Food service establishment inspections ombuds office.]* ::
-
-
-a. Food service establishment inspections ombuds office; office established. There is hereby established within the food safety program of the department a food service establishment inspections ombuds office.
-
-b. Food service establishment inspections ombuds office; duties and responsibilities. The food service establishment inspections ombuds office shall have, but not be limited by, the following duties and responsibilities:
-
-   1. establishing a system to receive questions, comments, complaints, and compliments with respect to any food service establishment inspection, including but not limited to, the establishment, operation, and dissemination of a central telephone hotline and website to receive such questions, comments, complaints, and compliments;
-
-   2. investigating complaints received pursuant to paragraph one of this subdivision and taking any action it deems appropriate regarding such complaints, including but not limited to, withdrawing violations that concern the physical layout and/or major fixtures within a food service establishment where the department finds that such physical layout or fixture existed at the time of a prior inspection but was not the subject of a violation and the condition has not been altered since the time of such prior inspection, and identifying egregious inspection errors that ought to be rectified by the department in lieu of submission to the administrative tribunal;
-
-   3. issuing guidance letters providing informal advisory opinions on matters pertaining to food service establishment inspections, including but not limited to appropriate inspection methods and food handling techniques, either upon request or the department's own initiative. Any such guidance letter issued by the ombuds office shall be posted on the department's website upon issuance and, to the greatest extent practicable, distributed to all food service establishment operators;
-
-   4. monitoring inspection results for trends and inconsistencies, including but not limited to, via the compilation and analysis on a quarterly basis of the type and number of violations issued by each inspector; and
-
-   5. making recommendations to the commissioner regarding improvements to the food service establishment inspection process.
-
-c. Food service establishment inspections ombuds office; annual report. No later than July 1, 2014, and every July 1 thereafter, the ombuds office shall submit to the commissioner an annual report regarding its activities during the previous twelve months. The ombuds office shall forward a copy of such report to the mayor and the speaker of the council. Such report shall include, but not be limited to:
-
-   1. the number, nature, and resolution of questions, comments, complaints, and compliments received by the ombuds office;
-
-   2. the number and nature of guidance letter requested;
-
-   3. a copy of each guidance letter issued;
-
-   4. an analysis of trends and inconsistencies across inspection results; and
-
-   5. recommendations for improvements to the food service establishment inspection process in accordance with paragraph five of subdivision b of this section.
-
-
-
-
-
-
-*§ 17-1506 Inspections for social adult day cares and senior centers; reporting.* ::
-
-
-a. For purposes of this section, the following terms have the following meanings:
-
-   Food service establishment. The term “food service establishment” has the same meaning as such term is defined in section 81.03 of the New York City health code.
-
-   Senior center. The term “senior center” has the same meaning as such term is defined in section 21-201.
-
-   Social adult day care. The term “social adult day care” has the same meaning as such term is defined in section 21-201.
-
-b. Each senior center and social adult day care that is a food service establishment shall be inspected by the department at least annually in accordance with article 81 of the New York City health code.
-
-c. Inspection results and any related information for each senior center and social adult day care shall be posted and updated as necessary on the department’s website. Such inspection results shall show such senior center and social adult day care’s degree of compliance with the provisions of the New York city health code, the state sanitary code and other applicable laws that require such establishments to operate in a sanitary manner so as to protect public health.
-
-d. Beginning May 1, 2019, and by May 1 annually thereafter, the department shall submit a report to the mayor and the speaker of the city council regarding the department’s activities with respect to inspections of social adult day cares and senior centers that qualify as food service establishments. The report shall include the total number and the name of each social adult day care and senior center that qualify as a food service establishment, disaggregated by council district; the total number of such social adult day cares and senior centers inspected in the prior calendar year and information summarizing the results of such inspections, including but not limited to the number of violations cited, if any, and any required corrective action. The report shall also include the 10 most frequently cited violations during the prior calendar year for such social adult day cares and senior centers.
-
-
-
-
-
-
-
-
-*§ 17-1507 Required healthy eating information.* ::
-
-
-a. Every food service establishment that sells food for consumption on its premises shall display public information messaging created by the department pursuant to subdivision b of this section in a conspicuous location within such establishment.
-
-b. The department shall create public information messaging on healthy eating for all consumers, including, but not specific to, individuals with diet-related conditions such as diabetes, heart disease and hypertension. Such messaging shall include, but not be specific to, the risks of excessive sugar and carbohydrate intake. The department shall make such messaging available to food service establishments in each of the designated citywide languages as defined in section 23-1101.
-
-c. Any person who violates subdivision a of this section, or any rules promulgated pursuant to this section, shall be liable for a civil penalty of not more than $500, recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings.
-
-(L.L. 2019/138, 7/27/2019, eff. 7/27/2020*)
-
-* Editor's note: Pursuant to § 3 of L.L. 2019/138, subdivision c of this section is effective July 27, 2021.
 
 
 
