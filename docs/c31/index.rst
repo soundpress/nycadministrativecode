@@ -2030,7 +2030,17 @@ The title sheet of construction documents for the following buildings shall list
 
 The title sheet of construction documents for a new or substantially improved building, as such term is defined in appendix G of the New York city building code, that contains space classified as an occupancy group I-2 hospital and that is located in an area of special flood hazard or shaded X-Zone, as such terms are defined in appendix G of the New York city building code, shall list whether the requirement to provide connections for temporary external boilers and chillers pursuant to Item 2 of section G304.5.2 is inapplicable as a result of such building having its boiler and chiller plants located at or above the applicable design flood elevation.
 
-Editor's note: § 28-104.7.16 has been added by L.L. 2019/106, 6/8/2019, eff. 3/8/2020.
+
+
+
+
+
+*§ 28-104.7.16 Tenant protection plan.* ::
+
+
+The title sheet of construction documents shall contain a statement requiring a tenant protection plan be submitted in accordance with the requirements of article 120 prior to the issuance of a permit for alteration, construction or partial demolition work in a building containing one or more occupied dwelling units.
+
+
 
 
 
@@ -2040,7 +2050,9 @@ Editor's note: § 28-104.7.16 has been added by L.L. 2019/106, 6/8/2019, eff. 3/
 *§ 28-104.8 Applications.* ::
 
 
-All applications shall comply with sections 28-104.8.1 through 28-104.8.4.
+All applications shall comply with sections 28-104.8.1 through 28-104.8.3.
+
+
 
 
 
@@ -2054,21 +2066,29 @@ The application shall contain the following signed and sealed statements by the 
 
 1. A statement certifying that the applicant is authorized by the owner to make the application and certifying that, to the best of the applicant's knowledge and belief, the construction documents comply with the provisions of this code or the 1968 building code, if applicable, and other applicable laws and rules; if there exist practical difficulties in the way of carrying out the strict letter of the code, laws or rules, the applicant shall set forth the nature of such difficulties in such signed statement;
 
-2. A statement certifying (i) that the site of the building to be altered or demolished, or the site of the new building to be constructed, contains no occupied housing accommodations subject to rent control or rent stabilization under chapters 3 and 4 of title 26 of the administrative code, or (ii) that the owner has notified the New York state division of homes and community renewal of the owner's intention to file such plans and has complied with all requirements imposed by the regulations of such agency as preconditions for such filing; or (iii) that the owner has not notified such agency of the owner's intention to file because the nature and scope of the work proposed, pursuant to such regulations, does not require notification;
+2. A professional certification; and
 
-3. A professional certification; and
-
-4. A statement certifying compliance with the New York city energy conservation code.
+3. A statement certifying compliance with the New York city energy conservation code.
 
 
 
 
 
 
-*§ 28-104.8.2 Owner statement.* ::
 
 
-The application shall contain a signed statement by the owner, and, in the case of cooperative or condominium forms of ownership, the application shall also contain a statement by the cooperative or condominium board, affirming that the applicant is authorized to make the application and, if applicable, acknowledging that construction and related documents will be accepted with less than full examination by the department based on the professional certification of the applicant. Such statement shall list the owner's full name and address, as well as the names of the principal officers, partners or other principals if a corporation, partnership or other entity. Principal officers of a corporation shall be deemed to include the president, vice presidents, secretary and treasurer. Where a current deed holder with a valid property interest or a court appointed entity or equivalent in charge of the property, or in the case of a cooperative or condominium unit, the cooperative or condominium board, notifies the department in writing that the applicant does not have authority to make the application, the department is authorized pursuant to section 28-104.2.10 to revoke approval of construction documents.
+*§ 28-104.8.2 Owner statements.* ::
+
+
+The application shall contain a signed statement by the owner, and, in the case of cooperative or condominium forms of ownership, the application shall also contain a statement by the cooperative or condominium board, affirming that the applicant is authorized to make the application and, if applicable, acknowledging that construction and related documents will be accepted with less than full examination by the department based on the professional certification of the applicant. Such statement shall list the owner's full name and address, as well as the names of the principal officers, partners or other principals if a corporation, partnership or other entity. Principal officers of a corporation shall be deemed to include the president, vice presidents, secretary and treasurer. Where a current deed holder with a valid property interest or a court appointed entity or equivalent in charge of the property, or in the case of a cooperative or condominium unit, the cooperative or condominium board, notifies the department in writing that the applicant does not have authority to make the application, the department is authorized pursuant to section 28-104.2.10 to revoke approval of construction documents. In addition, the application shall contain the following:
+
+1. A signed statement certifying whether the building to be altered, constructed or demolished contains one or more occupied dwelling units;
+
+2. A signed statement indicating whether the building to be altered, constructed or demolished contains housing accommodations subject to rent control or rent stabilization under chapters 3 and 4 of title 26 of the administrative code or rent regulation under Article 7-C of the Multiple Dwelling Law; and
+
+3. If the building to be altered, constructed or demolished contains occupied housing accommodations subject to rent control under chapter 3 of title 26 of the administrative code, the application shall contain a signed statement indicating that the owner has notified the New York state division of homes and community renewal that the owner has complied with all requirements imposed by the regulations of such agency as preconditions for such filing; or that the owner has not notified such agency because the nature and scope of the work proposed, pursuant to such regulations, does not require notification; or, if the building is subject to Article 7-C of the Multiple Dwelling Law, the application shall contain a signed statement indicating that the owner will notify the New York City Loft Board of the filing of the construction documents and will comply with all requirements imposed by Multiple Dwelling Law Article 7-C and the Loft Board’s rules.
+
+
 
 
 
@@ -2087,76 +2107,6 @@ The application shall set forth the full names, addresses, telephone numbers, an
 3. The owner, and, in the case of cooperative or condominium forms of ownership, cooperative owners' corporation, or condominium owners' association; and
 
 4. Where a person other than the owner has engaged the applicant, such cooperative unit shareholder, condominium unit owner, lessee, or mortgagee.
-
-
-
-
-
-
-*§ 28-104.8.4 Tenant protection plan.* ::
-
-
-Construction documents for alterations of buildings in which any dwelling unit will be occupied during construction shall include a tenant protection plan. Such plan shall contain a statement that the building contains dwelling units that will be occupied during construction and shall indicate in sufficient detail the specific units that are or may be occupied during construction, the means and methods to be employed to safeguard the safety and health of the occupants throughout the construction, including, where applicable, details such as temporary fire-rated assemblies, opening protectives, or dust containment procedures. Such means and methods shall be described with particularity and in no case shall terms such as "code compliant," "approved," "legal," "protected in accordance with law" or similar terms be used as a substitute for such description. The elements of the tenant protection plan may vary depending on the nature and scope of the work but at a minimum shall make detailed and specific provisions for:
-
-1. Egress. At all times in the course of construction provision shall be made for adequate egress as required by this code and the tenant protection plan shall identify the egress that will be provided. Required egress shall not be obstructed at any time except where approved by the commissioner.
-
-2.  Fire safety. All necessary laws and controls, including those with respect to occupied dwellings, as well as additional safety measures necessitated by the construction shall be strictly observed.
-
-3. Health requirements. Specification of means and methods to be used for control of dust, disposal of construction debris, pest control and maintenance of sanitary facilities, and limitation of noise to acceptable levels shall be included.
-
-   3.1. There shall be included a statement of compliance with applicable provisions of law relating to lead and asbestos, and such statement shall describe with particularity what means and methods are being undertaken to meet such compliance.
-
-4. Compliance with housing standards. The requirements of the New York city housing maintenance code, and, where applicable, the New York state multiple dwelling law shall be strictly observed.
-
-5. Structural safety. No structural work shall be done that may endanger the occupants.
-
-6. Noise restrictions. Where hours of the day or the days of the week in which construction work may be undertaken are limited pursuant to the New York city noise control code, such limitations shall be stated.
-
-7. Maintaining essential services. Where heat, hot water, cold water, gas, electricity, or other utility services are provided in such building or in any dwelling unit located therein, the tenant protection plan shall specify the means and methods to be used for maintaining such services during such work in accordance with the requirements of the New York city housing maintenance code. If a disruption of any such service is anticipated during the work, then such plan shall specify the anticipated duration of such disruption and the means and methods to be employed to minimize such disruption, including the provision of sufficient alternatives for such service during such disruption.
-
-
-
-
-
-
-
-
-*§ 28-104.8.4.1 Public availability of tenant protection plan.* ::
-
-
-Upon issuance of a permit for work containing a tenant protection plan, the department shall make the tenant protection plan publicly available on its website.
-
-
-
-
-
-
-
-
-*§ 28-104.8.4.2 Provision of copy of tenant protection plan to occupants upon request.* ::
-
-
-The owner of a building undergoing work for which a tenant protection plan is required by section 28-104.8.4 shall, upon request from an occupant of a dwelling unit within such building, provide such occupant with a paper copy of the tenant protection plan approved by the department.
-
-
-
-
-
-
-
-
-*§ 28-104.8.4.3 Notice to occupants.* ::
-
-
-Upon issuance of a permit for work containing a tenant protection plan, the owner shall (i) distribute a notice regarding such plan to each occupied dwelling unit or (ii) post a notice regarding such plan in a conspicuous manner in the building lobby, as well as on each floor within ten feet of the elevator, or in a building where there is no elevator, within ten feet of or in the main stairwell on such floor. The notice shall be in a form created or approved by the department and shall include:
-
-1. A statement that occupants of the building may obtain a paper copy of such plan from the owner and may access such plan on the department website;
-
-2. The name and contact information for the site safety manager, site safety coordinator or superintendent of construction required by section 3301.3 of the New York city building code, as applicable, or, if there is no site safety manager, site safety coordinator or superintendent of construction, the name and contact information of the owner of the building or such owner’s designee; and
-
-3. A statement that occupants of the building may call 311 to make complaints about the work.
-
-
 
 
 
@@ -3009,6 +2959,18 @@ No permit for construction or demolition work for which training is required by 
 
 
 *§ 28-105.12.10 Tenant protection plan required.* ::
+
+
+Where a tenant protection plan is required by article 120, all work shall adhere to the tenant protection plan.
+
+
+
+
+
+
+
+
+*§ 28-105.12.11 Inspections.* ::
 
 
 Upon issuance of a permit and at any time during such permit period, the commissioner or his or her authorized representatives, in the discharge of their duties, shall have the right to enter, in accordance with applicable law, upon any buildings, enclosures, premises, or any part thereof, or attached thereto for the purposes of an inspection of work pursuant to such permit to ensure that such work is not occurring in an unsafe or dangerous manner, and that such work is being performed in compliance with applicable code provisions. If the commissioner or his or her authorized representative is unable to gain access to such property expeditiously for the purposes of an inspection of work pursuant to such permit and there is a reason to believe that the work is being done in violation of the law, the commissioner shall issue a stop work order. Such stop work order may be rescinded in accordance with section 28-207.2.3.
@@ -5815,7 +5777,116 @@ Within 24 hours after gas service to a building is shut off by a utility company
 
 {L.L. 2016/154, 12/6/2016, eff. 3/6/2017)
 
-Editor's note: Article 120 has been added by L.L. 2019/106, 6/8/2019, eff. 3/8/2020 and further amended by L.L. 2019/116, 6/8/2019, eff. 3/8/2020 and L.L. 2019/118, 6/8/2019, eff. 3/8/2020.
+
+
+
+
+
+
+**Article 120: Tenant Protection Plan**
+
+
+
+*§ 28-120.1 Tenant protection plan.* ::
+
+
+A tenant protection plan shall be prepared and submitted for the alteration, construction, or partial demolition of buildings in which any dwelling unit will be occupied during construction, including newly constructed buildings that are partially occupied where work is ongoing. The tenant protection plan shall be prepared by a registered design professional and filed with the department. The registered design professional preparing the tenant protection plan shall be retained by the general contractor performing the alteration, construction, or partial demolition work. No permit shall be issued for work that requires a tenant protection plan unless such plan is approved by the department. Such plan shall contain a statement signed by the owner and signed by the applicant affirming that the building contains dwelling units that will be occupied during construction and shall identify in sufficient detail the specific units that are or may be occupied during construction, the means and methods to be employed to safeguard the safety and health of the occupants throughout the construction, including, where applicable, details such as temporary fire-rated assemblies, opening protectives, or dust containment procedures. Such means and methods shall be described with particularity and in no case shall terms such as "code compliant," "approved," "legal," "protected in accordance with law" or similar terms be used as a substitute for such description. The tenant protection plan must be site specific. The elements of the tenant protection plan may vary depending on the nature and scope of the work but at a minimum, must comply with all applicable laws and regulations, including the New York city construction codes, the New York city housing maintenance code, the New York city noise control code and the New York city health code, and shall make detailed and specific provisions for:
+
+1. Egress. At all times in the course of construction provision shall be made for adequate egress as required by this code and the tenant protection plan shall identify the egress that will be provided. Required egress shall not be obstructed at any time except where approved by the commissioner.
+
+2. Fire safety. All necessary laws and controls, including those with respect to occupied dwellings, as well as additional safety measures necessitated by the construction shall be strictly observed.
+
+3. Health requirements. Specification of means and methods to be used for control of dust, disposal of construction debris, pest control and maintenance of sanitary facilities shall be included.
+
+   3.1. There shall be included a statement of compliance with applicable provisions of law relating to lead and asbestos, and such statement shall describe with particularity what means and methods are being undertaken to meet such compliance.
+
+4. Compliance with housing standards. The requirements of the New York city housing maintenance code, and, where applicable, the New York state multiple dwelling law shall be strictly observed.
+
+5. Structural safety. No structural work shall be done that may endanger the occupants.
+
+6. Noise restrictions. Specification of means and methods to be used for the limitation of noise to acceptable levels in accordance with the New York city noise control code shall be included. Where hours of the day or the days of the week in which construction work may be undertaken are limited pursuant to the New York city noise control code, such limitations shall be stated.
+
+7. Maintaining essential services. Where heat, hot water, cold water, gas, electricity, or other utility services are provided in such building or in any dwelling unit located therein, the tenant protection plan shall specify the means and methods to be used for maintaining such services during such work in accordance with the requirements of the New York city housing maintenance code. If a disruption of any such service is anticipated during the work, then such plan shall specify the anticipated duration of such disruption and the means and methods to be employed to minimize such disruption, including the provision of sufficient alternatives for such service during such disruption. Notification of the disruption must be given to all affected occupants of occupied dwelling units.
+
+Exception: In the following instances, the tenant protection plan may be prepared and filed by the registered design professional of record for the alteration, construction, or partial demolition work as part of the underlying application:
+
+1. Work in occupied one- and two-family homes.
+
+2. Work limited to the interior of a single dwelling unit of an occupied multiple dwelling with no disruption to the essential services of other units, where such dwelling is owner-occupied. For a dwelling unit within a property that is owned by a condominium or held by a shareholder of a cooperative corporation under a proprietary lease, the unit must be occupied by the owners of record for such unit.
+
+
+
+
+
+
+
+
+*§ 28-120.1.1 Public availability of tenant protection plan.* ::
+
+
+Upon issuance of a permit for work containing a tenant protection plan, the department shall make the tenant protection plan publicly available on its website.
+
+
+
+
+
+
+
+
+*§ 28-120.1.2 Provision of copy of tenant protection plan to occupants upon request.* ::
+
+
+The owner of a building undergoing work for which a tenant protection plan is required by section 28-120.1 shall, upon request from an occupant of a dwelling unit within such building, provide such occupant with a paper copy of the tenant protection plan approved by the department.
+
+
+
+
+
+
+
+
+*§ 28-120.1.3 Notice to occupants.* ::
+
+
+Upon issuance of a permit for work containing a tenant protection plan, the owner shall (i) distribute a notice regarding such plan to each occupied dwelling unit and (ii) post a notice regarding such plan in a conspicuous manner in the building lobby, as well as on each floor within ten feet of the elevator, or in a building where there is no elevator, within ten feet of or in the main stairwell on such floor. The notice shall be in a form created or approved by the department and shall include:
+
+1. A statement that occupants of the building may obtain a paper copy of such plan from the owner and may access such plan on the department website;
+
+2. The name and contact information for the site safety manager, site safety coordinator or superintendent of construction required by section 3301.3 of the New York city building code, as applicable, or, if there is no site safety manager, site safety coordinator or superintendent of construction, the name and contact information of the owner of the building or such owner’s designee; and
+
+3. A statement that occupants of the building may call 311 to make complaints about the work.
+
+
+
+
+
+
+
+
+*§ 28-120.2 Phased tenant protection plans.* ::
+
+
+Multiple layouts of the tenant protection features enumerated in section 28-120.1 may be submitted at any time during construction operations to show phased tenant protection plan designs consistent with the phase of anticipated work. Layouts submitted subsequent to a previously approved tenant protection plan shall constitute an amendment to such plan. Such amended plan shall be approved by the department prior to the commencement of the work requiring such amended plan.
+
+
+
+
+
+
+
+
+*§ 28-120.3 Contractor statement.* ::
+
+
+The permit holder for the underlying alteration, construction, or partial demolition shall sign a statement certifying that the tenant protection plan submitted by the registered design professional coordinates with the scope of work intended.
+
+Exception: This statement shall not be required for:
+
+1. Work in occupied one- and two-family homes.
+
+2. Work limited to the interior of a single dwelling unit of an occupied multiple dwelling with no disruption to the essential services of other units, where such dwelling is owner-occupied. For a dwelling unit within a property that is owned by a condominium or held by a shareholder of a cooperative corporation under a proprietary lease, the unit must be occupied by the owners of record for such unit.
+
+
 
 
 
@@ -6048,6 +6119,8 @@ Exceptions:
 
    10.2. The minimum civil penalty for a major violation of such article or chapter shall be $1,000, in addition to any separate monthly penalty imposed pursuant to item 2 of this section.
 
+11. For (i) a violation of section 28-211.1 or (ii) where a tenant protection plan is required pursuant to section 28-120.1, but has not been submitted to the department, the minimum civil penalty for a first offense shall be no less than $10,000 and, for each subsequent offense, no less than $25,000.
+
 
 
 
@@ -6166,6 +6239,8 @@ Exceptions:
 4. The minimum fine for an immediately hazardous violation of article 110 of this chapter or chapter 33 of the New York city building code shall be $2,000.
 
 5. The minimum fine for a major violation of article 110 of this chapter or chapter 33 of the New York city building code shall be $1,000.
+
+6. For (i) a violation of section 28-211.1 or (ii) where a tenant protection plan is required pursuant to section 28-120.1, but has not been submitted to the department, the minimum fine shall be no less than $10,000 and, for each subsequent offense, no less than $25,000.
 
 
 

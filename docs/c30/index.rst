@@ -427,7 +427,7 @@ c. Notice content. The notice required pursuant to this section shall contain th
 
    7.  The contact information for the relevant city and state agencies where occupants may submit complaints or ask questions about the work being performed.
 
-d. Tenant protection plan. When notice is required pursuant to this section, the owner shall (i) distribute a notice meeting the requirements of section 28-104.8.4.3 of the code regarding the tenant protection plan to each occupied dwelling unit or (ii) post such notice in a conspicuous manner in the building lobby, as well as on each floor within 10 feet of the elevator, or in a building where there is no elevator, within 10 feet of the main stairwell on such floor.
+d. Tenant protection plan. When notice is required pursuant to this section, the owner shall (i) distribute a notice meeting the requirements of article 120 of title 28 of the administrative code regarding the tenant protection plan to each occupied dwelling unit and (ii) post such notice in a conspicuous manner in the building lobby, as well as on each floor within 10 feet of the elevator, or in a building where there is no elevator, within 10 feet of the main stairwell on such floor.
 
 e. Language requirement. The notice required pursuant to this section shall be published in English, Spanish and such other languages as the department may provide by rule.
 

@@ -4653,6 +4653,263 @@ c. One year after the effective date of the local law that added this chapter, a
 
 
 
+Chapter 13: Pay Deductions for Contributions to Not-for-profit Organizations
+--------------------------------------------------
+
+
+
+*§ 20-1301 Definitions.* ::
+
+
+For purposes of this chapter, the following terms have the following meanings:
+
+Chain. The term "chain" means a set of establishments that share a common brand or that are characterized by standardized options for decor, marketing, packaging, products and services.
+
+Director. The term "director" means the director of the office of labor standards established pursuant to section 20-a of the charter.
+
+Employee. The term "employee" means any person covered by the definition of "employee" set forth in subdivision 5 of section 651 of the labor law or any person covered by the definition of "employee" set forth in 29 U.S.C. § 203(e), any person covered by the definition of an "employee" set forth in subsection (3) of 29 U.S.C. § 152, any person covered by the definition of "public employee" in subdivision 7 of section 201 of the civil service law, or any person covered by the definition of "employees" in subdivision 3 of section 701 of the labor law and who is employed within the city and who performs work on a full-time or part-time basis, including work performed in a transitional jobs program pursuant to section 336-f of the social services law, but not including work performed as a participant in a work experience program pursuant to section 336-c of the social services law. Notwithstanding any other provision of this section, the term "employee" does not include any person who is employed by (i) the United States government; (ii) the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary; or (iii) the city or any local government, municipality or county or any entity governed by section 92 of the general municipal law or section 207 of the county law.
+
+Employer. The term "employer" means any person or entity covered by the definition of "employer" set forth in subdivision 6 of section 651 of the labor law or any person or entity covered by the definition of "employer" set forth in in 29 U.S.C. § 203(d), any person or entity covered by the definition of "employer" set forth in subsection (2) of 29 U.S.C. § 152, any person or entity covered by the definition of a "public employer" in subdivision 6 of section 201 of the civil service law, or any person or entity covered by the definition of "employer" in subdivision 2 of section 701 of the labor law. Notwithstanding any other provision of this section, the term does not include (i) the United States government; (ii) the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary; or (iii) the city or any local government, municipality or county or agency or other body thereof.
+
+Fast food employee. The term "fast food employee" means any employee employed or permitted to work at or for a fast food establishment that is located within the city, by any employer, where such job duties include at least one of the following: customer service, cooking, food or drink preparation, delivery, security, stocking supplies or equipment, cleaning or routine maintenance.
+
+Fast food employer. The term "fast food employer" means any employer that employs a fast food employee at a fast food establishment.
+
+Fast food establishment. The term "fast food establishment" means any establishment (i) that has as its primary purpose serving food or drink items; (ii) where patrons order or select items and pay before eating and such items may be consumed on the premises, taken out or delivered to the customer's location; (iii) that offers limited service; (iv) that is part of a chain; and (v) that is one of 30 or more establishments nationally, including (A) an integrated enterprise that owns or operates 30 or more such establishments in the aggregate nationally or (B) an establishment operated pursuant to a franchise where the franchisor and the franchisees of such franchisor own or operate 30 or more such establishments in the aggregate nationally. The term "fast food establishment" includes such establishments located within non-fast food establishments.
+
+Franchise. The term "franchise" has the same definition as set forth in section 681 of the general business law.
+
+Franchisee. The term "franchisee" means a person or entity to whom a franchise is granted.
+
+Franchisor. The term "franchisor" means a person or entity who grants a franchise to another person or entity.
+
+Integrated enterprise. The term "integrated enterprise" means two or more entities sufficiently integrated so as to be considered a single employer as determined by application of the following factors: (i) degree of interrelation between the operations of multiple entities; (ii) degree to which the entities share common management; (iii) centralized control of labor relations; and (iv) degree of common ownership or financial control.
+
+Not-for-profit. The term "not-for-profit" means an entity that is organized under the not-for-profit corporation law or the law governing incorporation of not-for-profit organizations in the jurisdiction of its incorporation.
+
+Office. The term "office" means the office of labor standards established pursuant to section 20-a of the charter.
+
+
+
+
+
+
+
+
+*§ 20-1302 Requirement to deduct and remit voluntary contributions to not-for-profits.* ::
+
+
+a. A fast food employer shall, upon authorization from a fast food employee and upon receipt of a registration letter as provided in subdivision b of section 20-1303 pertaining to the relevant not-for-profit, deduct voluntary contributions from such fast food employee's paycheck and remit them to the not-for-profit designated by such fast food employee. An authorization shall be written, whether on paper or by an electronic or other method prescribed by the director, and shall include:
+
+   1. The fast food employee's signature;
+
+   2. The fast food employee's name and physical address;
+
+   3. The amount, frequency and start date of the contribution;
+
+   4. The name, physical address, email address, web address, if any, and phone number of the not-for-profit and a contact for an employee who seeks to revoke authorization and
+
+   5. A statement notifying the fast food employee that contributions are voluntary and that the authorization to deduct is revocable at any time by submitting a written revocation to the not-for-profit.
+
+b. An authorization may be submitted to a fast food employer by either a not-for-profit or a fast food employee.
+
+c. An authorization is in effect until the fast food employee revokes the authorization in writing, whether on paper or by an electronic or other method prescribed by the director, to the not-for-profit. The not-for-profit shall transmit the revocation to the fast food employer.
+
+d. The fast food employer shall provide a copy of any authorization and any revocation to the not-for-profit to which it pertains and to the fast food employee who submitted it within five business days of receipt.
+
+e. The fast food employer shall begin or end deductions no later than the first pay period after 15 days of receipt of the authorization or of receipt of the revocation. In the case of authorization, the fast food employer shall remit the deductions to the not-for-profit, by the method of transmission that such organization requests, no later than 15 days after deduction. Deductions may only be taken from paychecks issued after the date the fast food employer receives the authorization, and the deduction amount from any one paycheck shall not exceed the maximum amount specified by the fast food employee. The fast food employer must comply with state law regarding notation of deductions on fast food employees' statements of wages.
+
+f. A fast food employer is not required to honor an authorization for a contribution to a not-for-profit:
+
+   1. Of less than $6 per paycheck if the fast food employee is paid every two weeks, or less than $3 per paycheck if the fast food employee is paid every week; or
+
+   2. More than once per pay period.
+
+g. Processing fee. Upon request by a fast food employer, the not-for-profit shall reimburse the fast food employer for the costs associated with deduction and remittance, as calculated pursuant to rules of the office.
+
+h. Written notice of rights and obligations. A fast food employer shall provide written notice to its fast food employees of their rights and of the fast food employer's obligations under this section on a form provided by the office. Such notice shall be posted in a conspicuous place in the fast food establishment. Such notice shall include a statement that labor organizations as defined by the national labor relations act, employee organizations as defined by subdivision 5 of section 201 of the civil service law, and labor organizations as defined in subdivision 5 of section 701 of the labor law are not permitted to seek remittances under this chapter pursuant to subdivision b of section 20-1310.
+
+
+
+
+
+
+
+
+*§ 20-1303 Registration by not-for-profits required.* ::
+
+
+a. Before it may accept deductions pursuant to this chapter, a not-for-profit shall register with the office by providing the following in the manner prescribed by the office:
+
+   1. The name, physical address, email address, web address, if any, and phone number of the not-for-profit and a contact;
+
+   2. Proof of status as a not-for-profit that has not been suspended or dissolved pursuant to the laws of the state of its incorporation;
+
+   3. Facially valid written authorizations in the form described in subdivision a of section 20-1302 from at least 500 fast food employees, though such authorizations need not be from employees employed by the same fast food employer;
+
+   4. Proof that the not-for-profit has provided the information required by section 20-1304 to the fast food employee; and
+
+   5. The not-for-profit organization's form 990 of the Internal Revenue Service of the United States Department of the Treasury or other equivalent tax filing for the three most recent tax years for which such form was filed.
+
+b. The office shall issue a registration letter to the registered not-for-profit confirming that it has met the conditions required to trigger the requirements of this chapter. A not-for-profit or fast food employee seeking to have a fast food employer make payroll deductions pursuant to this chapter must provide a copy of the office's registration letter to the relevant fast food employer along with the request for such deductions authorization.
+
+
+
+
+
+
+
+
+*§ 20-1304 Not-for-profit required disclosure.* ::
+
+
+a. Before any deduction pursuant to this chapter is made, the not-for-profit shall provide the relevant fast food employee the following information concerning its operations:
+
+   1. Name, contact, physical address, email address, web address, if any, and phone number;
+
+   2. Information about the not-for-profit's governance, which shall include any officers and directors and may include members or shareholders as the director shall require;
+
+   3. Information about the not-for-profit's mission, programs and areas of focus;
+
+   4. When prescribed by the director, a list of the not-for-profit's employees;
+
+   5. Information about the not-for-profit's finances, including its sources of funding, budget and expenditures; and
+
+   6. A statement that labor organizations as defined by the national labor relations act, employee organizations as defined by subdivision 5 of section 201 of the civil service law, and labor organizations as defined in subdivision 5 of section 701 of the labor law are not permitted to seek remittances under this chapter pursuant to subdivision b of section 20-1310.
+
+b. The not-for-profit may satisfy the disclosure requirements of this section by the conspicuous posting of the information on a single webpage on the website of the covered not-for-profit dedicated to fulfilling the disclosure requirements of this section, provided that the website address of such page is included on the authorization described in section 20-1302 or other written document provided to the fast food employee and that such website address is preceded by language indicating that legally required disclosures are contained there.
+
+
+
+
+
+
+
+
+*§ 20-1305 Recordkeeping.* ::
+
+
+a. A fast food employer must keep records of the following for two years:
+
+   1. Deduction authorizations and revocations made pursuant to this chapter;
+
+   2. Remittances pursuant to this chapter;
+
+   3. Deductions pursuant to this chapter;
+
+   4. A copy of the authorization required by subdivision d of section 20-1302;
+
+   5. Proof of distribution of the notice to fast food employees required by subdivision h of section 20-1302;
+
+b. The failure to keep records required by this section creates an inference that such records would be unfavorable to that fast food employer, and a factfinder may use such inference to establish facts in support of a final determination pursuant to sections 20-1307 and 20-1308.
+
+
+
+
+
+
+
+
+*§ 20-1306 Retaliation prohibited.* ::
+
+
+No person shall take any adverse action against a fast food employee that penalizes such employee for, or is reasonably likely to deter such employee from, exercising or attempting to exercise any right protected under this chapter. Taking an adverse action includes threatening, intimidating, disciplining, discharging, demoting, suspending or harassing a fast food employee, reducing the hours or pay of a fast food employee, informing another employer that a fast food employee has engaged in activities protected by this chapter, and discriminating against the fast food employee, including actions related to perceived immigration status or work authorization. A fast food employee need not explicitly refer to this chapter or the rights enumerated herein to be protected from retaliation.
+
+
+
+
+
+
+
+
+*§ 20-1307 Enforcement.* ::
+
+
+a. The office shall investigate potential violations and enforce the provisions of this chapter consistent with sections 20-a and 2203 of the charter and with all powers and duties described therein and according to rules and policies of the office.
+
+b. Violations by fast food employers.
+
+   1. Except as provided in subdivision c of this section, an aggrieved fast food employee or duly authorized representative thereof or an aggrieved not-for-profit may file a complaint with the office regarding violations of this chapter by a fast food employer. Except for an allegation of retaliation in violation of section 20-1306, the office shall only investigate such a complaint if the relevant not-for-profit demonstrates that it has complied with sections 20-1303 and 20-1304 by providing a copy of the registration letter.
+
+   2. Except as otherwise provided in subdivision c of this section, if a fast food employer is found to have violated this chapter, including by retaliation, the office may award any of the following, in addition to any other remedy provided in the charter or other law:
+
+      (a) Deductions and remittances as authorized by the fast food employee and the payment of interest to the not-for-profit from the date of the failure to deduct or remit based on the interest rate then in effect as prescribed by the superintendent of banks pursuant to section 14-a of the banking law, but in any event at a rate of no less than six percent per year; and
+
+      (b) Payment of a further sum as a civil penalty in an amount not exceeding $500 for each violation of this chapter. However, in cases where a final disposition has been entered against a fast food employer twice within any consecutive three-year period determining that such fast food employer has willfully failed to deduct or remit funds in accordance with this chapter, or has retaliated against a fast food employee in violation of section 20-1306, the office may impose a civil penalty in an amount not exceeding $1,000 for each violation of this chapter.
+
+      (c) Reinstatement, back pay and other appropriate relief for any fast food employee found to have been subject to retaliation in violation of section 20-1306.
+
+   3. In assessing an appropriate remedy, due consideration shall be given to the gravity of the violation, the history of previous violations, and the good faith of the fast food employer. No procedure or remedy set forth in this section is exclusive of or a prerequisite for asserting a claim for relief to enforce any rights under this chapter in a court of competent jurisdiction.
+
+c. Failure to honor a revocation. A fast food employer or a not-for-profit that the office finds has failed to honor the revocation of a fast food employee of voluntary deductions and instead has retained contributions after revocation shall refund the fast food employee the amount of the contribution wrongfully retained. If the refund to the fast food employee is not made within 60 days of receipt of the revocation by the party that retained the contribution, the office may require the payment of interest on the amount of the refund owed based on the rate then in effect as prescribed by the superintendent of banks pursuant to section 14-a of the banking law, but in any event at a rate of no less than six percent per year.
+
+d. False or misleading disclosures to fast food employees. It is a violation of this chapter for a not-for-profit intentionally to make materially false or misleading disclosures to fast food employees under subdivision a of section 20-1304, and as set forth in rules prescribed by the director. Where a violation is established, such not-for-profit shall cure the false or misleading statements to fast food employees within 30 days. Upon establishing a second such violation within two years of a previous violation, the director shall revoke any previously issued letter of registration as set forth in subdivision b of section 20-1303.
+
+e. The office shall make rules establishing a process for such interested parties as the office may identify by rule to petition the director to re-examine or revoke a not-for-profit's registration pursuant to this chapter.
+
+f. Any party with rights under this chapter may bring an action pursuant to article 78 of the civil practice law and rules to enforce, vacate or modify an order, determination or other disposition of the office, the office of administrative trials and hearings or other relevant tribunal.
+
+
+
+
+
+
+
+
+*§ 20-1308 Civil action.* ::
+
+
+a. Except as otherwise provided by law, any person claiming to be aggrieved by a fast food employer's violation of this chapter has a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, if the relevant not-for-profit demonstrates that it has complied with sections 20-1303 and 20-1304 by providing a copy of the registration letter from the office unless such person has filed a complaint with the office with respect to such claim. If the court finds in favor of the plaintiff, it shall award such person, in addition to other relief, reasonable attorney's fees and costs.
+
+b. Notwithstanding any inconsistent provision of subdivision a of this section, if the office dismisses a complaint or the complaint is withdrawn, an aggrieved person maintains all rights to commence a civil action pursuant to this section.
+
+   1. An employee need not file a complaint with the office before bringing a civil action; however, no person shall file a civil action after filing a complaint with the office unless such complaint has been withdrawn or dismissed without prejudice to further action.
+
+   2. No person shall file a complaint with the office after filing a civil action unless such action has been withdrawn or dismissed without prejudice to further action.
+
+c. A civil action under this section shall be commenced in accordance with subdivision 2 of section 214 of the civil practice law and rules.
+
+d. This chapter does not limit a fast food employee's right to bring any other action authorized by law.
+
+
+
+
+
+
+
+
+*§ 20-1309 Limitations period.* ::
+
+
+The office shall not investigate violations of this chapter committed more than two years before the filing of a complaint or the commencement of such investigation, whichever is earlier. Each failure to comply with this chapter constitutes a separate violation; a pattern of such violations is a continuing violation for purposes of assessing the limitations period.
+
+
+
+
+
+
+
+
+*§ 20-1310 Application; exclusion of labor organizations.* ::
+
+
+a. This chapter does not discourage, prohibit, preempt or displace any law, regulation, rule, requirement, written policy or standard that is at least as protective of a fast food employee as the requirements of this chapter.
+
+b. This chapter does not authorize deductions prohibited by section 193 of the labor law or remittances to labor organizations. For purposes of this subdivision, the term "labor organization shall mean:
+
+   1. A "labor organization" as defined in subdivision 5 of section 701 of the labor law;
+
+   2. An "employee organization" as defined in subdivision 5 of section 201 of the civil service law; or
+
+   3. A "labor organization" within the meaning of subsection (5) of 29 U.S.C. § 152, which defines a labor organization as "any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work," as such definition is interpreted by the national labor relations board.
+
+c. The office shall promulgate rules necessary to ensure that this law will be applied in a manner consistent with federal or state labor law and will not affect the relationship among workers or employees and employers, and the entities described in subdivision b, except as specifically provided in this chapter.
+
+
+
+
+
+
 Chapter 12: Fair Work Practices
 --------------------------------------------------
 
@@ -5266,263 +5523,6 @@ a. Apply to any employee who:
    4. Works fewer than 80 hours in the city in a calendar year.
 
 b. Preempt, limit or otherwise affect the applicability of any provisions of any other law, regulation, requirement, policy or standard, other than a collective bargaining agreement, that provides comparable or superior benefits for employees to those required herein.
-
-
-
-
-
-
-Chapter 13: Pay Deductions for Contributions to Not-for-profit Organizations
---------------------------------------------------
-
-
-
-*§ 20-1301 Definitions.* ::
-
-
-For purposes of this chapter, the following terms have the following meanings:
-
-Chain. The term "chain" means a set of establishments that share a common brand or that are characterized by standardized options for decor, marketing, packaging, products and services.
-
-Director. The term "director" means the director of the office of labor standards established pursuant to section 20-a of the charter.
-
-Employee. The term "employee" means any person covered by the definition of "employee" set forth in subdivision 5 of section 651 of the labor law or any person covered by the definition of "employee" set forth in 29 U.S.C. § 203(e), any person covered by the definition of an "employee" set forth in subsection (3) of 29 U.S.C. § 152, any person covered by the definition of "public employee" in subdivision 7 of section 201 of the civil service law, or any person covered by the definition of "employees" in subdivision 3 of section 701 of the labor law and who is employed within the city and who performs work on a full-time or part-time basis, including work performed in a transitional jobs program pursuant to section 336-f of the social services law, but not including work performed as a participant in a work experience program pursuant to section 336-c of the social services law. Notwithstanding any other provision of this section, the term "employee" does not include any person who is employed by (i) the United States government; (ii) the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary; or (iii) the city or any local government, municipality or county or any entity governed by section 92 of the general municipal law or section 207 of the county law.
-
-Employer. The term "employer" means any person or entity covered by the definition of "employer" set forth in subdivision 6 of section 651 of the labor law or any person or entity covered by the definition of "employer" set forth in in 29 U.S.C. § 203(d), any person or entity covered by the definition of "employer" set forth in subsection (2) of 29 U.S.C. § 152, any person or entity covered by the definition of a "public employer" in subdivision 6 of section 201 of the civil service law, or any person or entity covered by the definition of "employer" in subdivision 2 of section 701 of the labor law. Notwithstanding any other provision of this section, the term does not include (i) the United States government; (ii) the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary; or (iii) the city or any local government, municipality or county or agency or other body thereof.
-
-Fast food employee. The term "fast food employee" means any employee employed or permitted to work at or for a fast food establishment that is located within the city, by any employer, where such job duties include at least one of the following: customer service, cooking, food or drink preparation, delivery, security, stocking supplies or equipment, cleaning or routine maintenance.
-
-Fast food employer. The term "fast food employer" means any employer that employs a fast food employee at a fast food establishment.
-
-Fast food establishment. The term "fast food establishment" means any establishment (i) that has as its primary purpose serving food or drink items; (ii) where patrons order or select items and pay before eating and such items may be consumed on the premises, taken out or delivered to the customer's location; (iii) that offers limited service; (iv) that is part of a chain; and (v) that is one of 30 or more establishments nationally, including (A) an integrated enterprise that owns or operates 30 or more such establishments in the aggregate nationally or (B) an establishment operated pursuant to a franchise where the franchisor and the franchisees of such franchisor own or operate 30 or more such establishments in the aggregate nationally. The term "fast food establishment" includes such establishments located within non-fast food establishments.
-
-Franchise. The term "franchise" has the same definition as set forth in section 681 of the general business law.
-
-Franchisee. The term "franchisee" means a person or entity to whom a franchise is granted.
-
-Franchisor. The term "franchisor" means a person or entity who grants a franchise to another person or entity.
-
-Integrated enterprise. The term "integrated enterprise" means two or more entities sufficiently integrated so as to be considered a single employer as determined by application of the following factors: (i) degree of interrelation between the operations of multiple entities; (ii) degree to which the entities share common management; (iii) centralized control of labor relations; and (iv) degree of common ownership or financial control.
-
-Not-for-profit. The term "not-for-profit" means an entity that is organized under the not-for-profit corporation law or the law governing incorporation of not-for-profit organizations in the jurisdiction of its incorporation.
-
-Office. The term "office" means the office of labor standards established pursuant to section 20-a of the charter.
-
-
-
-
-
-
-
-
-*§ 20-1302 Requirement to deduct and remit voluntary contributions to not-for-profits.* ::
-
-
-a. A fast food employer shall, upon authorization from a fast food employee and upon receipt of a registration letter as provided in subdivision b of section 20-1303 pertaining to the relevant not-for-profit, deduct voluntary contributions from such fast food employee's paycheck and remit them to the not-for-profit designated by such fast food employee. An authorization shall be written, whether on paper or by an electronic or other method prescribed by the director, and shall include:
-
-   1. The fast food employee's signature;
-
-   2. The fast food employee's name and physical address;
-
-   3. The amount, frequency and start date of the contribution;
-
-   4. The name, physical address, email address, web address, if any, and phone number of the not-for-profit and a contact for an employee who seeks to revoke authorization and
-
-   5. A statement notifying the fast food employee that contributions are voluntary and that the authorization to deduct is revocable at any time by submitting a written revocation to the not-for-profit.
-
-b. An authorization may be submitted to a fast food employer by either a not-for-profit or a fast food employee.
-
-c. An authorization is in effect until the fast food employee revokes the authorization in writing, whether on paper or by an electronic or other method prescribed by the director, to the not-for-profit. The not-for-profit shall transmit the revocation to the fast food employer.
-
-d. The fast food employer shall provide a copy of any authorization and any revocation to the not-for-profit to which it pertains and to the fast food employee who submitted it within five business days of receipt.
-
-e. The fast food employer shall begin or end deductions no later than the first pay period after 15 days of receipt of the authorization or of receipt of the revocation. In the case of authorization, the fast food employer shall remit the deductions to the not-for-profit, by the method of transmission that such organization requests, no later than 15 days after deduction. Deductions may only be taken from paychecks issued after the date the fast food employer receives the authorization, and the deduction amount from any one paycheck shall not exceed the maximum amount specified by the fast food employee. The fast food employer must comply with state law regarding notation of deductions on fast food employees' statements of wages.
-
-f. A fast food employer is not required to honor an authorization for a contribution to a not-for-profit:
-
-   1. Of less than $6 per paycheck if the fast food employee is paid every two weeks, or less than $3 per paycheck if the fast food employee is paid every week; or
-
-   2. More than once per pay period.
-
-g. Processing fee. Upon request by a fast food employer, the not-for-profit shall reimburse the fast food employer for the costs associated with deduction and remittance, as calculated pursuant to rules of the office.
-
-h. Written notice of rights and obligations. A fast food employer shall provide written notice to its fast food employees of their rights and of the fast food employer's obligations under this section on a form provided by the office. Such notice shall be posted in a conspicuous place in the fast food establishment. Such notice shall include a statement that labor organizations as defined by the national labor relations act, employee organizations as defined by subdivision 5 of section 201 of the civil service law, and labor organizations as defined in subdivision 5 of section 701 of the labor law are not permitted to seek remittances under this chapter pursuant to subdivision b of section 20-1310.
-
-
-
-
-
-
-
-
-*§ 20-1303 Registration by not-for-profits required.* ::
-
-
-a. Before it may accept deductions pursuant to this chapter, a not-for-profit shall register with the office by providing the following in the manner prescribed by the office:
-
-   1. The name, physical address, email address, web address, if any, and phone number of the not-for-profit and a contact;
-
-   2. Proof of status as a not-for-profit that has not been suspended or dissolved pursuant to the laws of the state of its incorporation;
-
-   3. Facially valid written authorizations in the form described in subdivision a of section 20-1302 from at least 500 fast food employees, though such authorizations need not be from employees employed by the same fast food employer;
-
-   4. Proof that the not-for-profit has provided the information required by section 20-1304 to the fast food employee; and
-
-   5. The not-for-profit organization's form 990 of the Internal Revenue Service of the United States Department of the Treasury or other equivalent tax filing for the three most recent tax years for which such form was filed.
-
-b. The office shall issue a registration letter to the registered not-for-profit confirming that it has met the conditions required to trigger the requirements of this chapter. A not-for-profit or fast food employee seeking to have a fast food employer make payroll deductions pursuant to this chapter must provide a copy of the office's registration letter to the relevant fast food employer along with the request for such deductions authorization.
-
-
-
-
-
-
-
-
-*§ 20-1304 Not-for-profit required disclosure.* ::
-
-
-a. Before any deduction pursuant to this chapter is made, the not-for-profit shall provide the relevant fast food employee the following information concerning its operations:
-
-   1. Name, contact, physical address, email address, web address, if any, and phone number;
-
-   2. Information about the not-for-profit's governance, which shall include any officers and directors and may include members or shareholders as the director shall require;
-
-   3. Information about the not-for-profit's mission, programs and areas of focus;
-
-   4. When prescribed by the director, a list of the not-for-profit's employees;
-
-   5. Information about the not-for-profit's finances, including its sources of funding, budget and expenditures; and
-
-   6. A statement that labor organizations as defined by the national labor relations act, employee organizations as defined by subdivision 5 of section 201 of the civil service law, and labor organizations as defined in subdivision 5 of section 701 of the labor law are not permitted to seek remittances under this chapter pursuant to subdivision b of section 20-1310.
-
-b. The not-for-profit may satisfy the disclosure requirements of this section by the conspicuous posting of the information on a single webpage on the website of the covered not-for-profit dedicated to fulfilling the disclosure requirements of this section, provided that the website address of such page is included on the authorization described in section 20-1302 or other written document provided to the fast food employee and that such website address is preceded by language indicating that legally required disclosures are contained there.
-
-
-
-
-
-
-
-
-*§ 20-1305 Recordkeeping.* ::
-
-
-a. A fast food employer must keep records of the following for two years:
-
-   1. Deduction authorizations and revocations made pursuant to this chapter;
-
-   2. Remittances pursuant to this chapter;
-
-   3. Deductions pursuant to this chapter;
-
-   4. A copy of the authorization required by subdivision d of section 20-1302;
-
-   5. Proof of distribution of the notice to fast food employees required by subdivision h of section 20-1302;
-
-b. The failure to keep records required by this section creates an inference that such records would be unfavorable to that fast food employer, and a factfinder may use such inference to establish facts in support of a final determination pursuant to sections 20-1307 and 20-1308.
-
-
-
-
-
-
-
-
-*§ 20-1306 Retaliation prohibited.* ::
-
-
-No person shall take any adverse action against a fast food employee that penalizes such employee for, or is reasonably likely to deter such employee from, exercising or attempting to exercise any right protected under this chapter. Taking an adverse action includes threatening, intimidating, disciplining, discharging, demoting, suspending or harassing a fast food employee, reducing the hours or pay of a fast food employee, informing another employer that a fast food employee has engaged in activities protected by this chapter, and discriminating against the fast food employee, including actions related to perceived immigration status or work authorization. A fast food employee need not explicitly refer to this chapter or the rights enumerated herein to be protected from retaliation.
-
-
-
-
-
-
-
-
-*§ 20-1307 Enforcement.* ::
-
-
-a. The office shall investigate potential violations and enforce the provisions of this chapter consistent with sections 20-a and 2203 of the charter and with all powers and duties described therein and according to rules and policies of the office.
-
-b. Violations by fast food employers.
-
-   1. Except as provided in subdivision c of this section, an aggrieved fast food employee or duly authorized representative thereof or an aggrieved not-for-profit may file a complaint with the office regarding violations of this chapter by a fast food employer. Except for an allegation of retaliation in violation of section 20-1306, the office shall only investigate such a complaint if the relevant not-for-profit demonstrates that it has complied with sections 20-1303 and 20-1304 by providing a copy of the registration letter.
-
-   2. Except as otherwise provided in subdivision c of this section, if a fast food employer is found to have violated this chapter, including by retaliation, the office may award any of the following, in addition to any other remedy provided in the charter or other law:
-
-      (a) Deductions and remittances as authorized by the fast food employee and the payment of interest to the not-for-profit from the date of the failure to deduct or remit based on the interest rate then in effect as prescribed by the superintendent of banks pursuant to section 14-a of the banking law, but in any event at a rate of no less than six percent per year; and
-
-      (b) Payment of a further sum as a civil penalty in an amount not exceeding $500 for each violation of this chapter. However, in cases where a final disposition has been entered against a fast food employer twice within any consecutive three-year period determining that such fast food employer has willfully failed to deduct or remit funds in accordance with this chapter, or has retaliated against a fast food employee in violation of section 20-1306, the office may impose a civil penalty in an amount not exceeding $1,000 for each violation of this chapter.
-
-      (c) Reinstatement, back pay and other appropriate relief for any fast food employee found to have been subject to retaliation in violation of section 20-1306.
-
-   3. In assessing an appropriate remedy, due consideration shall be given to the gravity of the violation, the history of previous violations, and the good faith of the fast food employer. No procedure or remedy set forth in this section is exclusive of or a prerequisite for asserting a claim for relief to enforce any rights under this chapter in a court of competent jurisdiction.
-
-c. Failure to honor a revocation. A fast food employer or a not-for-profit that the office finds has failed to honor the revocation of a fast food employee of voluntary deductions and instead has retained contributions after revocation shall refund the fast food employee the amount of the contribution wrongfully retained. If the refund to the fast food employee is not made within 60 days of receipt of the revocation by the party that retained the contribution, the office may require the payment of interest on the amount of the refund owed based on the rate then in effect as prescribed by the superintendent of banks pursuant to section 14-a of the banking law, but in any event at a rate of no less than six percent per year.
-
-d. False or misleading disclosures to fast food employees. It is a violation of this chapter for a not-for-profit intentionally to make materially false or misleading disclosures to fast food employees under subdivision a of section 20-1304, and as set forth in rules prescribed by the director. Where a violation is established, such not-for-profit shall cure the false or misleading statements to fast food employees within 30 days. Upon establishing a second such violation within two years of a previous violation, the director shall revoke any previously issued letter of registration as set forth in subdivision b of section 20-1303.
-
-e. The office shall make rules establishing a process for such interested parties as the office may identify by rule to petition the director to re-examine or revoke a not-for-profit's registration pursuant to this chapter.
-
-f. Any party with rights under this chapter may bring an action pursuant to article 78 of the civil practice law and rules to enforce, vacate or modify an order, determination or other disposition of the office, the office of administrative trials and hearings or other relevant tribunal.
-
-
-
-
-
-
-
-
-*§ 20-1308 Civil action.* ::
-
-
-a. Except as otherwise provided by law, any person claiming to be aggrieved by a fast food employer's violation of this chapter has a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, if the relevant not-for-profit demonstrates that it has complied with sections 20-1303 and 20-1304 by providing a copy of the registration letter from the office unless such person has filed a complaint with the office with respect to such claim. If the court finds in favor of the plaintiff, it shall award such person, in addition to other relief, reasonable attorney's fees and costs.
-
-b. Notwithstanding any inconsistent provision of subdivision a of this section, if the office dismisses a complaint or the complaint is withdrawn, an aggrieved person maintains all rights to commence a civil action pursuant to this section.
-
-   1. An employee need not file a complaint with the office before bringing a civil action; however, no person shall file a civil action after filing a complaint with the office unless such complaint has been withdrawn or dismissed without prejudice to further action.
-
-   2. No person shall file a complaint with the office after filing a civil action unless such action has been withdrawn or dismissed without prejudice to further action.
-
-c. A civil action under this section shall be commenced in accordance with subdivision 2 of section 214 of the civil practice law and rules.
-
-d. This chapter does not limit a fast food employee's right to bring any other action authorized by law.
-
-
-
-
-
-
-
-
-*§ 20-1309 Limitations period.* ::
-
-
-The office shall not investigate violations of this chapter committed more than two years before the filing of a complaint or the commencement of such investigation, whichever is earlier. Each failure to comply with this chapter constitutes a separate violation; a pattern of such violations is a continuing violation for purposes of assessing the limitations period.
-
-
-
-
-
-
-
-
-*§ 20-1310 Application; exclusion of labor organizations.* ::
-
-
-a. This chapter does not discourage, prohibit, preempt or displace any law, regulation, rule, requirement, written policy or standard that is at least as protective of a fast food employee as the requirements of this chapter.
-
-b. This chapter does not authorize deductions prohibited by section 193 of the labor law or remittances to labor organizations. For purposes of this subdivision, the term "labor organization shall mean:
-
-   1. A "labor organization" as defined in subdivision 5 of section 701 of the labor law;
-
-   2. An "employee organization" as defined in subdivision 5 of section 201 of the civil service law; or
-
-   3. A "labor organization" within the meaning of subsection (5) of 29 U.S.C. § 152, which defines a labor organization as "any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work," as such definition is interpreted by the national labor relations board.
-
-c. The office shall promulgate rules necessary to ensure that this law will be applied in a manner consistent with federal or state labor law and will not affect the relationship among workers or employees and employers, and the entities described in subdivision b, except as specifically provided in this chapter.
 
 
 
