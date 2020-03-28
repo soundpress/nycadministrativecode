@@ -783,7 +783,7 @@ f. The department shall ensure equal access to the office of constituent and gri
 
    3. Developing caseload guidelines for grievance coordinators and officers.
 
-g. The department shall install grievance kiosks in each facility where incarcerated individuals may file grievances electronically by January 2026. Such kiosks shall be accessible in multiple languages and shall provide incarcerated individuals physical receipts confirming filing. If a request made through the kiosk is not subject to the inmate grievance and review process, the kiosks shall provide incarcerated individuals with information regarding where the grievance should be redirected.
+g. The department shall install grievance kiosks in each facility where incarcerated individuals may file grievances electronically and in a private setting by December 31, 2026. Such kiosks shall be accessible in multiple languages and shall provide incarcerated individuals physical receipts confirming filing. If a request made through the kiosk is not subject to the grievance and review process, the kiosks shall provide incarcerated individuals with information regarding where the grievance should be redirected.
 
 h. Incarcerated individuals unable to read, access, or understand the grievance process shall be provided with assistance necessary to meaningfully engage in such process.
 
@@ -830,24 +830,32 @@ The commissioner shall post on the department's website the directive stating th
 
 
 
-*§ 9-139 Inmate bill of rights.* ::
+*§ 9-139 Bill of rights for incarcerated individuals.* ::
 
 
-a. The department shall inform every inmate upon admission to the custody of the department, in writing, using plain and simple language, of their rights under department policy, which shall be consistent with federal, state, and local laws, and board of correction minimum standards, on the following topics: non-discriminatory treatment, personal hygiene, recreation, religion, attorney visits, access to legal reference materials, visitation, telephone calls and other correspondence, media access, due process in any disciplinary proceedings, health services, safety from violence, and the grievance system.
+a. The department shall inform every incarcerated individual upon admission to the custody of the department, in writing, using plain and simple language, of their rights under department policy, which shall be consistent with federal, state, and local laws, and board of correction minimum standards, on the following topics: non-discriminatory treatment, personal hygiene, recreation, religion, attorney visits, access to legal reference materials, visitation, telephone calls and other correspondence, media access, due process in any disciplinary proceedings, health services, safety from violence, and the grievance system.
 
-b. The department shall inform every inmate upon admission to the custody of the department, in writing, using plain and simple language, of their responsibilities under the department's rules governing inmate conduct.
+b. The department shall inform every incarcerated individual upon admission to the custody of the department, in writing, using plain and simple language, of their responsibilities under the department's rules governing their conduct.
 
-c. The department shall inform every inmate upon admission to the custody of the department, in writing, using plain and simple language, of available services relating to education, vocational development, drug and alcohol treatment and counseling, and mental health treatment and counseling services.
+c. The department shall inform every incarcerated individual upon admission to the custody of the department, in writing, using plain and simple language, of available services relating to education, vocational development, drug and alcohol treatment and counseling, and mental health treatment and counseling services.
 
 d. The department shall publish on its website any documents created pursuant to this section. Such documents shall be available in English and Spanish.
 
-e. Within 24 hours of admission to the custody of the department, the department shall provide to each inmate an oral summary of the rights and responsibilities enumerated in subdivisions a, b, and c of this section in the inmate's preferred language, if the language is accessible through the city's language access plan. The department shall make a good faith effort to provide an oral summary in languages that are not accessible through the city's language access plan as soon as practicable.
+e. Within 24 hours of admission to the custody of the department, the department shall provide to each incarcerated individual an oral summary of the rights and responsibilities enumerated in subdivisions a, b, and c of this section in their preferred language, if the language is accessible through the city's language access plan. The department shall make a good faith effort to provide an oral summary in languages that are not accessible through the city's language access plan as soon as practicable.
 
-f. Upon admission to the custody of the department, each inmate shall also be offered the option of being provided the Connections guidebook for formerly incarcerated people, or any similar or successor book or handbook that describes resources available to those re-entering society after being incarcerated.
+f. Upon admission to the custody of the department, each incarcerated individual shall also be offered the option of being provided the Connections guidebook for formerly incarcerated people, or any similar or successor book or handbook that describes resources available to those re-entering society after being incarcerated.
 
-g. The department shall inform all incarcerated individuals in writing, using plain and simple language, of the protections against retaliation for filing a grievance, complaint, or request. The department shall also inform all incarcerated individuals in writing and in plain and simple language upon the filing of a grievance, complaint, or request, about which complaints are not subject to the grievance process; the process for resolving such complaints; and the protections against retaliation for filing such grievance, complaint, or request. Grievable complaints made through 311, to the board of correction, by email, by attorneys or other advocates, public officials, or other third parties on behalf of an incarcerated individual and over the phone shall be addressed by the office of constituent and grievance services.
+g.*   The department shall allow incarcerated individuals to decorate a designated area of their living quarters, with appropriate oversight from the department regarding safety and security considerations.
 
-h. The department shall include on all grievance forms instructions on how to appeal resolutions and post such forms on the department’s website.
+g.*   The department shall inform all incarcerated individuals in writing, using plain and simple language, of the protections against retaliation for filing a grievance, complaint, or request. The department shall also inform all incarcerated individuals in writing and in plain and simple language upon the filing of a grievance, complaint, or request, about which complaints are not subject to the grievance process; the process for resolving such complaints; and the protections against retaliation for filing such grievance, complaint, or request. Grievable complaints made through 311, to the board of correction, by email, by attorneys or other advocates, public officials, or other third parties on behalf of an incarcerated individual and over the phone shall be addressed by the office of constituent and grievance services.
+
+* Editor's note: there are two subsections designated as g.
+
+h.*   The department shall maintain a policy that requires its employees to refer to individuals in custody by their names and their preferred pronouns, if known and if practicable, and has zero tolerance for staff addressing individuals in custody using dehumanizing terms, such as the word “body.”
+
+h.*   The department shall include on all grievance forms instructions on how to appeal resolutions and post such forms on the department’s website.
+
+* Editor's note: there are two subsections designated as h.
 
 
 

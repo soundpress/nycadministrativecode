@@ -2727,51 +2727,6 @@ Where an audit performed pursuant to section 26-1502 reveals that a building own
 
 
 
-Chapter 16: Audits for Compliance with 421-a Tax Exemption Rent Registration Requirements
---------------------------------------------------
-
-
-
-*§ 26-1601 Definitions.* ::
-
-
-For the purposes of this chapter:
-
-Department. The term “department” means the department of housing preservation and development.
-
-Rent registration requirement. The term “rent registration requirement” means any requirement that one or more dwelling units within a building receiving benefits under section 421-a of the real property tax law be fully subject to rent stabilization for a prescribed period, including, but not limited to, the requirement that such units be registered as rent stabilized with the state division of housing and community renewal.
-
-Rent Stabilization. The term “rent stabilization” means, collectively, the rent stabilization law of 1969, the rent stabilization code, and the emergency tenant protection act of 1974, together with any successor statutes or regulations addressing substantially the same matter.
-
-
-
-
-
-
-
-
-*§ 26-1602 Audits.* ::
-
-
-The department shall audit no fewer than 20 percent of all buildings that have completed construction and are receiving benefits under section 421-a of the real property tax law annually to determine whether the owners of such buildings are in compliance with all applicable rent registration requirements.
-
-
-
-
-
-
-
-
-*§ 26-1603 Results of audit.* ::
-
-
-Where an audit performed pursuant to section 26-1602 reveals that a building owner is not in compliance with the applicable rent registration requirements, the department shall take action to bring such building into compliance, which action may include, but need but need not be limited to, commencing tax exemption revocation proceedings.
-
-
-
-
-
-
 Chapter 17: Periodic Reports on Inclusionary Housing Programs
 --------------------------------------------------
 
@@ -2821,6 +2776,66 @@ No later than September 1 of each year, the department, in consultation with the
 
 
 On or before September 30, 2018, and annually thereafter, the department shall publish on the department’s website a report on contributions to and expenditures from the affordable housing fund. The information in such report shall be indexed by borough and community district and shall include the total amount of money in such fund available for exclusive use in each community district and for use in each borough without regard to community district. Such report shall include, at a minimum, the following information about each zoning lot for which a contribution is made to such fund: (i) the name of the owner of such lot; (ii) the address, block and lot number; (iii) the total number of dwelling units located at such lot; (iv) the amount of affordable floor area that would otherwise be required at such lot in lieu of such contribution pursuant to section 23-154 of the New York city zoning resolution; and (v) the total amount of contributions made in connection with such lot.
+
+
+
+
+
+
+Chapter 16: Audits for Compliance with 421-a Tax Exemption Rent Registration Requirements
+--------------------------------------------------
+
+
+
+*§ 26-1601 Definitions.* ::
+
+
+For the purposes of this chapter:
+
+Department. The term “department” means the department of housing preservation and development.
+
+Rent registration requirement. The term “rent registration requirement” means any requirement that one or more dwelling units within a building receiving benefits under section 421-a of the real property tax law be fully subject to rent stabilization for a prescribed period, including, but not limited to, the requirement that such units be registered as rent stabilized with the state division of housing and community renewal.
+
+Rent Stabilization. The term “rent stabilization” means, collectively, the rent stabilization law of 1969, the rent stabilization code, and the emergency tenant protection act of 1974, together with any successor statutes or regulations addressing substantially the same matter.
+
+
+
+
+
+
+
+
+*§ 26-1602 Audits.* ::
+
+
+The department shall audit no fewer than 20 percent of all buildings that have completed construction and are receiving benefits under section 421-a of the real property tax law annually to determine whether the owners of such buildings are in compliance with all applicable rent registration requirements.
+
+
+
+
+
+
+
+
+*§ 26-1603 Results of audit.* ::
+
+
+Where an audit performed pursuant to section 26-1602 reveals that a building owner is not in compliance with the applicable rent registration requirements, the department shall take action to bring such building into compliance, which action may include, but need but need not be limited to, commencing tax exemption revocation proceedings.
+
+
+
+
+
+
+Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
+--------------------------------------------------
+
+
+
+*§ 26-1901 City-owned vacant property under the jurisdiction of the department of housing preservation and development that may be suitable for the development of affordable housing.* ::
+
+
+By no later than November 1, 2018, and by November 1 of each year thereafter, the department of housing preservation and development shall, with the cooperation of all other appropriate agencies, report to the mayor and the speaker of the council the following information disaggregated by council district: a report of vacant buildings or lots under the jurisdiction of the department categorized according to the potential development or feasibility status of such buildings or lots as affordable housing.
 
 
 
@@ -3004,21 +3019,6 @@ b. For a second or subsequent violation of this chapter involving the same dwell
 c. The department may recover civil penalties pursuant to this section in an action in a court of appropriate jurisdiction or in a proceeding before the office of administrative trials and hearings acting pursuant to section 1049-a of the New York city charter.
 
 d. Upon receipt of a credible complaint alleging that an owner has violated any provision of this chapter with respect to an affordable unit, the department shall investigate and, upon verifying such allegation in a manner to be determined by department rules, such owner shall be subject to a civil penalty in accordance with this section. The department shall by rule establish criteria for determining whether such a complaint is credible.
-
-
-
-
-
-
-Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
---------------------------------------------------
-
-
-
-*§ 26-1901 City-owned vacant property under the jurisdiction of the department of housing preservation and development that may be suitable for the development of affordable housing.* ::
-
-
-By no later than November 1, 2018, and by November 1 of each year thereafter, the department of housing preservation and development shall, with the cooperation of all other appropriate agencies, report to the mayor and the speaker of the council the following information disaggregated by council district: a report of vacant buildings or lots under the jurisdiction of the department categorized according to the potential development or feasibility status of such buildings or lots as affordable housing.
 
 
 

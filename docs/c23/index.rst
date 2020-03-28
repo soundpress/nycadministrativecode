@@ -939,9 +939,26 @@ b. The department shall, in coordination with the department for the aging, desi
 
 c. The department shall also, in coordination with the department for the aging, establish and implement an enrollment and recertification program to increase enrollment in and recertification for the supplemental nutrition assistance program, consistent with the requirements of state and federal law. Such enrollment and recertification program shall ensure that programming is offered at each senior center to explain the benefits of the supplemental nutrition assistance program and to enable eligible seniors to enroll in or recertify for the supplemental nutrition assistance program at each senior center.
 
-d. Beginning February 1, 2018, and annually thereafter, the department, in coordination with the department for the aging, shall submit a report to the speaker of the city council regarding the department’s activities with respect to supplemental nutrition assistance enrollment and recertification for seniors. Such report shall provide an overview of the department’s activities with respect to supplemental nutrition assistance enrollment and recertification for seniors, including the public campaign and the enrollment and recertification program, and shall include (i) the number of seniors enrolled in the supplemental nutrition assistance program in the previous calendar year; (ii) the number of seniors recertified for the supplemental nutrition assistance program in the previous calendar year; and (iii) a comparison of the annual rate of enrollment for seniors versus the number of seniors in the city that the department estimates are likely to be eligible based on readily available community data such as census data. Beginning on February 1, 2019, the report shall indicate how the data required by this subdivision compares to the previous year. The report shall further indicate the method by which seniors enrolled in or recertified for the supplemental nutrition assistance program, whether online, by mobile application, by telephone, by paper application, or by other means.
+d. Beginning April 1, 2021, and annually thereafter, the department, in coordination with the department for the aging, shall submit a report to the speaker of the city council regarding the department's activities with respect to supplemental nutrition assistance enrollment and recertification for seniors. Such report shall provide an overview of the department's activities with respect to supplemental nutrition assistance enrollment and recertification for seniors, including the public campaign and the enrollment and recertification program, and shall include (i) the number of seniors enrolled in the supplemental nutrition assistance program in the previous calendar year; (ii) the number of seniors recertified for the supplemental nutrition assistance program in the previous calendar year; (iii) a comparison of the annual rate of enrollment for seniors versus the number of seniors in the city that the department estimates are likely to be eligible based on readily available community data such as census data; (iv) identification of specific barriers to enrolling and recertifying eligible seniors who would benefit from participation in the supplemental nutrition assistance program, with particular consideration given to seniors who are unable to travel to senior centers, whether due to physical limitation or lack of access to transportation or other reasons, and seniors who are not receiving other social services; and (v) a plan, developed in collaboration with the department for the aging, to overcome such barriers to enrollment and recertification to reach eligible seniors who are unable to travel to senior centers and who are not receiving other social services. Such report shall also indicate how the data required by this subdivision compares to the previous year. The report shall further indicate the method by which seniors enrolled in or recertified for the supplemental nutrition assistance program, whether online, by mobile application, by telephone, by paper application, or by other means.
 
 
+
+
+
+
+
+
+*§ 21-131.2 Information regarding health bucks and farmers’ markets.* ::
+
+
+a. Definitions. For purposes of this section, the term “health bucks” means coupons issued by the department of health and mental hygiene that are redeemable for fruits and vegetables at farmers’ markets in the city.
+
+b. The department, in collaboration with the department of health and mental hygiene, shall provide information regarding health bucks and farmers’ markets in the city to individuals who receive or apply to receive supplemental nutrition assistance program benefits. Such information may be provided on paper or electronically and shall include, but need not be limited to, how to receive health bucks, how health bucks may be spent and the location of farmers’ markets in the city.
+
+(
+												L.L. 2020/038, 3/13/2020, eff. 9/9/2020
+												) 
+												
 
 
 

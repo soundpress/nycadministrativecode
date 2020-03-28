@@ -96,6 +96,18 @@ So long as any notes or bonds of the New York city housing development corporati
 
 
 
+
+
+*§ 5-108 Public online capital project database.* ::
+
+
+Upon the publication of the public online capital projects database created by the taskforce established by section two of the local law that added this section, an agency or office designated by the mayor shall maintain such public online capital projects database on the city website, and update the information contained in such database on a triannual basis pursuant to a schedule determined by such agency or office, and may otherwise modify the database as deemed appropriate by such agency or office consistent with the substantial continuation of the content of the database. Any agency implementing a capital project for which information or data is published in the public online capital projects database shall include a link to the website containing the public online capital projects database on such agency’s website.
+
+
+
+
+
+
 Chapter 2: Sinking Funds
 --------------------------------------------------
 

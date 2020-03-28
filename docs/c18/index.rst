@@ -7712,11 +7712,13 @@ For the purposes of this chapter, the following terms shall have the following m
 
 Arrestee. The term “arrestee” has the same meaning as set forth in subdivision a of section 14-163.
 
+Correctional health services. The term “correctional health services” means any health care entity designated by the city of New York as the agency or agencies responsible for health services for incarcerated individuals in the care and custody of the New York city department of correction. When the responsibility is contractually shared with an outside provider, this term shall also apply.
+
 Health care provider. The term “health care provider” means any person licensed or certified under federal or New York state law to provide medical services, including but not limited to doctors, nurses and emergency personnel.
 
 Health evaluation. The term “health evaluation” means any evaluation of an inmate’s health and mental health upon their admission to the custody of the department of correction pursuant to minimum standards of inmate care established by the board of correction.
 
-Inmate. The term “inmate” means any person in the custody of the New York city department of correction.
+Incarcerated Individual. The term “Incarcerated Individual” means any person in the custody of the New York city department of correction.
 
 Screened. The term “screened” means evaluated by a health care provider.
 
@@ -7739,7 +7741,7 @@ Every arrestee held at the central booking area of a local criminal court prior 
 
 
 
-*§ 17-1803 Inmate health information from screening.* ::
+*§ 17-1803 Health information from screening for incarcerated individuals.* ::
 
 
 The department or its designee shall establish procedures to make available reports received from the New York city police department pursuant to section 14-163 to any health care provider in a department of correction facility conducting a health evaluation, at such time as a health evaluation is conducted.
@@ -7751,7 +7753,7 @@ The department or its designee shall establish procedures to make available repo
 
 
 
-*§ 17-1804 Inmate health information exchange.* ::
+*§ 17-1804 Health information exchange for incarcerated individuals.* ::
 
 
 The department or its designee shall establish procedures to obtain the pre-arraignment screening record created pursuant to section 17-1802 and any medical records created and maintained by any hospital in connection with treatment provided to an arrestee who subsequently enters the custody of the department of correction, at the request of any health care provider conducting a health evaluation of such inmate.

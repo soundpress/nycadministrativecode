@@ -1062,13 +1062,12 @@ f. Each annual report shall be posted on the department's website and the data c
 
 
 
-*§ 18-145 Reporting on capital project expenditures in parks.* ::
+*§ 18-145 Reporting on capital project expenditures in parks. [Repealed]* ::
 
 
-The department shall post on the city's website, in a non-proprietary format that permits automated processing, the status of each capital project, as defined in section 5-101 of the administrative code of the city of New York, on property under the jurisdiction of the commissioner. Such information shall include (i) the actual or estimated starting date and actual or estimated completion date of the current phase of such project; (ii) the total amount of funds allocated to such project or, when applicable, a range of the funds available; (iii) the identification of each separate source of funding allocated to such project; (iv) a description of such project; (v) the location of such project; and (vi) a quarterly update. 
-												
-
- 
+(L.L. 2015/098, 11/4/2015; repealed 
+												L.L. 2020/037, 3/13/2020
+												) 
 												
 
 

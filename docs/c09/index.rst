@@ -3065,51 +3065,6 @@ Any violation by a gun offender of this chapter or of rules and regulations esta
 
 
 
-Chapter 8: Silver Alert System
---------------------------------------------------
-
-
-
-*§ 10-801 Definitions.* ::
-
-
-a. "Administering agency" shall mean any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor shall designate.
-
-b. "Silver alert" shall mean the communication to the public by a city agency of identifying information concerning a vulnerable senior who is reported missing to a law enforcement agency under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
-
-c. "Vulnerable senior" shall mean a person who is sixty-five years of age or older with dementia, as a result of Alzheimer's disease or a similar condition.
-
-
-
-
-
-
-*§ 10-802 Silver alert system.* ::
-
-
-The administering agency shall establish a silver alert system, pursuant to the provisions of this chapter of the code, that will provide rapid notification to the public when a vulnerable senior is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
-
-
-
-
-
-
-*§ 10-803 Procedures.* ::
-
-
-a. The administering agency shall develop a protocol for notification to organizations such as media organizations, senior service providers, medical facilities and community organizations when a silver alert is issued.
-
-b. The administering agency shall, as appropriate, consult with other city agencies, including, but not limited to, the police department, the fire department, the office of emergency management, the human resources administration, the department for the aging, the department of health and mental hygiene and the department of transportation, to collect and disseminate information regarding the person for whom the silver alert was issued.
-
-c. The administering agency shall issue a silver alert within twenty-four hours of the determination that a vulnerable senior has been reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death. The silver alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts or radio broadcasts. The silver alert may be issued at repeated intervals within the discretion of the administering agency until such missing person is found or until the administering agency determines that the issuance of a silver alert is no longer appropriate.
-
-d. The information about the person for whom the silver alert was issued, if available and capable of transmission, shall include, but not be limited to: (1) the person's name; (2) the person's age; (3) a physical description of the person; (4) the last known location where the person was seen, which shall not include the exact address of the person's home; (5) a recent photograph of the person; and (6) a description of any motor vehicle the person may have been driving, provided that the administering agency may refrain from disclosing any such information if disclosure is inappropriate under the circumstances.
-
-e. The administering agency may use its discretion to issue a silver alert for a person under the age of 65 who is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death, where such missing person has dementia, as a result of Alzheimer's disease or a similar condition.
-
-
-
-
 Chapter 7: Unauthorized Recording In A Place of Public Performance
 --------------------------------------------------
 
@@ -3175,6 +3130,88 @@ The operator of a venue as defined by paragraph (2) of subdivision b of § 10-70
 
 
 The police department may promulgate rules as necessary to carry out the provisions of this chapter.
+
+
+
+
+Chapter 8: Silver Alert System
+--------------------------------------------------
+
+
+
+*§ 10-801 Definitions.* ::
+
+
+a. "Administering agency" shall mean any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor shall designate.
+
+b. "Silver alert" shall mean the communication to the public by a city agency of identifying information concerning a vulnerable senior who is reported missing to a law enforcement agency under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
+
+c. "Vulnerable senior" shall mean a person who is sixty-five years of age or older with dementia, as a result of Alzheimer's disease or a similar condition.
+
+
+
+
+
+
+*§ 10-802 Silver alert system.* ::
+
+
+The administering agency shall establish a silver alert system, pursuant to the provisions of this chapter of the code, that will provide rapid notification to the public when a vulnerable senior is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
+
+
+
+
+
+
+*§ 10-803 Procedures.* ::
+
+
+a. The administering agency shall develop a protocol for notification to organizations such as media organizations, senior service providers, medical facilities and community organizations when a silver alert is issued.
+
+b. The administering agency shall, as appropriate, consult with other city agencies, including, but not limited to, the police department, the fire department, the office of emergency management, the human resources administration, the department for the aging, the department of health and mental hygiene and the department of transportation, to collect and disseminate information regarding the person for whom the silver alert was issued.
+
+c. The administering agency shall issue a silver alert within twenty-four hours of the determination that a vulnerable senior has been reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death. The silver alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts or radio broadcasts. The silver alert may be issued at repeated intervals within the discretion of the administering agency until such missing person is found or until the administering agency determines that the issuance of a silver alert is no longer appropriate.
+
+d. The information about the person for whom the silver alert was issued, if available and capable of transmission, shall include, but not be limited to: (1) the person's name; (2) the person's age; (3) a physical description of the person; (4) the last known location where the person was seen, which shall not include the exact address of the person's home; (5) a recent photograph of the person; and (6) a description of any motor vehicle the person may have been driving, provided that the administering agency may refrain from disclosing any such information if disclosure is inappropriate under the circumstances.
+
+e. The administering agency may use its discretion to issue a silver alert for a person under the age of 65 who is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death, where such missing person has dementia, as a result of Alzheimer's disease or a similar condition.
+
+
+
+
+Chapter 9: Hit-and-Run Alert
+--------------------------------------------------
+
+
+
+*§ 10-901 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Administering agency. The term “administering agency” means any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor designates.
+
+Hit-and-run. The term “hit-and-run” means when any driver who, knowing or having cause to know that serious physical injury has been caused to another person due to an incident involving the driver's motor vehicle, leaves the scene of an incident without complying with all of the provisions of paragraph a of subdivision two of section six hundred of the vehicle and traffic law.
+
+Serious physical injury. The term "serious physical injury" has the same meaning as in section 10.00 of the penal law.
+
+
+
+
+
+
+
+
+*§ 10-902 Hit-and-run alert system.* ::
+
+
+a. The administering agency shall establish a hit-and-run alert system, pursuant to the provisions of this section, to provide rapid notification to the public when a hit-and-run involving serious physical injury or death occurs.
+
+b. The administering agency shall develop a protocol for notification to organizations such as media organizations, medical facilities and community organizations when a hit-and-run alert is issued.
+
+c. The administering agency shall issue a hit-and-run alert within 24 hours of the determination that a hit-and-run involving serious physical injury or death occurred, provided the perpetrator involved in such incident has not been located, and that sufficient information about the perpetrator of the hit-and-run incident or the subject motor vehicle is available to the administering agency. The administering agency may use its discretion to refrain from issuing such alert if the alert is inappropriate under the circumstances or would compromise a law enforcement investigation. The hit-and-run alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts, or radio broadcasts. The hit-and-run alert may be issued at repeated intervals within the discretion of the administering agency until the perpetrator involved in such hit-and-run has been located or until the administering agency determines that the issuance of a hit-and-run alert is no longer appropriate.
+
+
 
 
 
@@ -3290,43 +3327,6 @@ a. This chapter does not limit the right of any person or entity to seek other a
 b. This chapter does not prohibit expression protected by the first amendment of the constitution of the United States or section 8 of article 1 of the constitution of the state of New York.
 
 c. This chapter does not limit the lawful exercise of any authority vested in the owner or operator of a reproductive health care facility, the owner of the premises in which such a facility is located, or a law enforcement officer of the city, the state of New York or the United States acting within the scope of such person's official duties.
-
-
-
-
-
-
-Chapter 9: Hit-and-Run Alert
---------------------------------------------------
-
-
-
-*§ 10-901 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Administering agency. The term “administering agency” means any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor designates.
-
-Hit-and-run. The term “hit-and-run” means when any driver who, knowing or having cause to know that serious physical injury has been caused to another person due to an incident involving the driver's motor vehicle, leaves the scene of an incident without complying with all of the provisions of paragraph a of subdivision two of section six hundred of the vehicle and traffic law.
-
-Serious physical injury. The term "serious physical injury" has the same meaning as in section 10.00 of the penal law.
-
-
-
-
-
-
-
-
-*§ 10-902 Hit-and-run alert system.* ::
-
-
-a. The administering agency shall establish a hit-and-run alert system, pursuant to the provisions of this section, to provide rapid notification to the public when a hit-and-run involving serious physical injury or death occurs.
-
-b. The administering agency shall develop a protocol for notification to organizations such as media organizations, medical facilities and community organizations when a hit-and-run alert is issued.
-
-c. The administering agency shall issue a hit-and-run alert within 24 hours of the determination that a hit-and-run involving serious physical injury or death occurred, provided the perpetrator involved in such incident has not been located, and that sufficient information about the perpetrator of the hit-and-run incident or the subject motor vehicle is available to the administering agency. The administering agency may use its discretion to refrain from issuing such alert if the alert is inappropriate under the circumstances or would compromise a law enforcement investigation. The hit-and-run alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts, or radio broadcasts. The hit-and-run alert may be issued at repeated intervals within the discretion of the administering agency until the perpetrator involved in such hit-and-run has been located or until the administering agency determines that the issuance of a hit-and-run alert is no longer appropriate.
 
 
 

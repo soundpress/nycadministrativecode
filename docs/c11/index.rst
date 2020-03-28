@@ -1,6 +1,189 @@
 Title 12: Personnel and Labor
 ===================================================
 
+Chapter 2: Department of Citywide Administrative Services
+--------------------------------------------------
+
+
+
+*§ 12-201 City surveyors; examination, appointment of.* ::
+
+
+a. The commissioner of citywide administrative services shall have power and it shall be his or her duty to appoint an examining board which shall serve without compensation, consisting of a chairperson, two consulting or topographical engineers in the employ of the city, and two city surveyors engaged in private practice. Such board shall formulate and conduct examinations of applicants who apply to the commissioner for appointment as city surveyors of the city of New York. Every person applying for examination shall pay an examining fee to be fixed by the commissioner. The fee so collected shall be paid into the general fund. The commissioner, as soon as practicable thereafter, shall certify to the mayor all those applicants who have qualified by successfully passing such examination. To be eligible for appointment, the applicant must be licensed by the state of New York as a land surveyor and must have a minimum of six years surveying experience within the limits of the city.
+
+b. There shall be appointed by the mayor as many city surveyors as are qualified by successfully passing such examination. Each city surveyor, before entering on his or her duties shall take an oath well and truly to perform such duties.
+
+
+
+
+
+
+*§ 12-202 Commissioner of citywide administrative services to conduct examinations for licenses for master plumbers.* ::
+
+
+The commissioner of citywide administrative services, in addition to his or her other powers and duties, shall formulate and conduct examinations to determine the merit and fitness of applicants who apply, pursuant to section 26-143 of the code, to the commissioner of health for licenses to engage in the trade, business or calling of a duly registered and licensed master plumber. The department of citywide administrative services shall keep in its office an official roster of candidates who have succeeded in passing such examinations and shall certify to the commissioner of health the names of such candidates who are successful.
+
+
+
+
+
+
+*§ 12-203 Assistance of committee of plumbing industry.* ::
+
+
+The commissioner of citywide administrative services shall call upon the plumbing industry for assistance in the preparation, conduct and rating of the practical and written examination of all persons seeking a plumber's license, pursuant to section 26-143 of the code. Such assistance shall consist of the obtaining of the services of two registered and licensed master plumbers of not less than ten years' experience as such, and one journeyman plumber of not less than ten years' experience as such, for each examination. The commissioner may also call upon duly accredited sanitary engineers or physicians to assist in the preparation and conduct of such examination. The names of such master and journeyman plumbers selected to assist the commissioner shall be publicly drawn for each examination from a panel of not less than thirty names furnished to the commissioner by a special committee to consist of one experienced master plumber representing each of the established and recognized master plumbers' associations, or branches thereof, in the five boroughs of the city, and one experienced journeyman plumber representing the established and recognized organization having jurisdiction over journeyman plumbers in the city. Such committee members shall be named once each year by the incumbent presidents or boards of directors or governors of their respective associations or organizations. No such master or journeyman plumber shall serve as such assistant oftener than once in five years. The compensation of each such person selected by the commissioner to assist in the preparation, conduct and rating of the written and practical examinations shall be fixed by the commissioner.
+
+
+
+
+
+
+*§ 12-204 Qualifications of plumbers. [Repealed]* ::
+
+
+The commissioner of citywide administrative services shall have sole power to examine applicants for positions as inspectors of plumbing and no person shall be appointed an inspector for plumbing who shall not have obtained a certificate from such commissioner.
+
+
+
+
+
+
+*§ 12-206 Eligible List Reporting.* ::
+
+
+a. Definitions. For the purposes of this section only:
+
+   1. "Eligible list" shall mean any list established by the department of citywide administrative services after the administration of either an open-competitive or a promotional examination containing the names of persons eligible to be considered for appointment or promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
+
+   2. "Promotion list" shall mean the agency-specific list established by the department of citywide administrative services after the administration of a promotional examination containing the names of persons eligible to be considered for promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
+
+b. The commissioner of the department of citywide administrative services shall submit a report on an annual basis beginning in two thousand five to the mayor, comptroller, public advocate and speaker of the council of the city of New York, by the first day of June, for the previous calendar year, regarding eligible lists. Such report shall include, but not be limited to, the following:
+
+   1. each eligible list established during the reporting year by the department of citywide administrative services;
+
+   2. the dates such eligible lists were established;
+
+   3. the number of persons appointed or promoted from each eligible list and the agencies to which such appointments or promotions were made;
+
+   4. the number of persons appointed or promoted on a provisional basis during the reporting year and the agencies to which such appointments or promotions were made;
+
+   5. the number of persons who, during the reporting year, were considered and not selected three times from promotion lists;
+
+   6. the number of persons removed from eligible lists and the number of persons removed from promotion lists and the reason reported to the department of citywide administrative services by the agency for such removal; and
+
+   7. the number of persons restored to eligible lists and the number of persons restored to promotion lists after having been removed.
+
+
+
+
+
+
+*§ 12-207 Availability of feminine hygiene products.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Feminine hygiene products. The term “feminine hygiene products” means tampons and sanitary napkins for use in connection with the menstrual cycle.
+
+   Temporary shelters. The term “temporary shelters” means department of homeless services family with children shelters, adult family shelters, single adult women shelters and single adult men shelters; and human resources administration domestic violence shelters and HIV/AIDS services administration (HASA) shelters.
+
+b. The department of citywide administrative services shall make available to agencies operating or having oversight of providers operating temporary shelters a supply of feminine hygiene products sufficient to meet the needs of residents. The department shall also make available a supply of feminine hygiene products sufficient to meet the needs of youth in secure detention facilities operated by the administration for children’s services, as well as youth in congregate care facilities operated by the administration for children’s services who are awaiting placement with a licensed foster care agency.
+
+
+
+
+
+
+
+
+*§ 12-208 Pay and employment equity data.** ::
+
+
+a. Definitions. As used in this section, the term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
+
+b. No later than November 30, 2019, and on or before November 30 annually thereafter, each agency, to the extent the department of citywide administrative services does not already have such information, shall provide to the department of citywide administrative services information relevant to pay and employment equity. Such information for each current and former employee within such agency shall be as of the date of hire and shall, to the extent such information is available, include:
+
+   1. Agency;
+
+   2. Start date;
+
+   3. Civil service title;
+
+   4. Salary range for such title;
+
+   5. Business title;
+
+   6. Title classification (title description);
+
+   7. Job category;
+
+   8. Career level;
+
+   9. Base salary;
+
+   10. The department of citywide administrative services occupational group code and group name;
+
+   11. Whether such employee is a managerial or supervisory employee;
+
+   12. Minimum number of years of work experience required for such position;
+
+   13. Number of years of work experience of such employee;
+
+   14. Highest level of education attained by such employee;
+
+   15. Gender;
+
+   16. Racial group;
+
+   17. Ethnicity;
+
+   18. Date of birth;
+
+   19. Whether such employee is a provisional employee;
+
+   20. Whether such employee is full-time, part-time or seasonal;
+
+   21. Change in personnel status, including but not limited to, appointed, deceased, decrease, demoted, dismissed, increase, promoted, resigned, retired, terminated and transfer; and
+
+   22. Whether such employee was previously employed by the city of New York.
+
+c. No later than 90 days following receipt of the data collected pursuant to subdivision b of this section, the department of citywide administrative services shall provide such data to the office of data analytics.
+
+d. All agencies shall cooperate with the department as may be necessary and proper to ensure compliance with this subdivision. The department may request from any agency, including the office of payroll administration and financial information services agency, information it deems necessary to enable it to properly carry out its functions.
+
+e. The commissioner may promulgate such rules as are necessary to carry out the provisions of this section.
+
+
+
+
+
+
+
+
+*§ 12-208 Availability of diapers and baby wipes.** ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Child care center. The term “child care center” means a program regulated by article 43 or article 47 of the New York city health code and that is contracted by the administration for children’s services or contracted and funded by the department of education.
+
+   Covered entity. The term “covered entity” means a child care center, domestic violence shelter, family justice center, LYFE program, or temporary shelter.
+
+   Domestic violence shelter. The term “domestic violence shelter” means an emergency shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to section 459-b of the social services law or a tier II shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to the provisions of part 900 of title 18 of the New York codes, rules, and regulations.
+
+   Family justice center. The term “family justice center” means a center and any successor location through which the office to end domestic and gender-based violence or a successor entity provides services to victims of domestic and gender-based violence.
+
+   LYFE programs. The term “LYFE programs” means the living for the young family through education (LYFE) programs operated by the department of education to provide early childhood education to children of student parents.
+
+   Temporary shelter. The term “temporary shelter” means a facility with the capacity to shelter families with children operated by or under contract or similar agreement with the department of homeless services and the department of youth and community development.
+
+b. The department of citywide administrative services shall make available to agencies operating or contracting with a covered entity, a supply of diapers and baby wipes, for children three years old and younger, sufficient to meet the needs of residents or recipients utilizing services at such covered entity, when such residents or recipients are present at such covered entity. Each covered entity shall provide readily visible signage or other written notice, in at least each of the designated citywide languages, as such term is defined in section 23-1101, to all such residents or recipients, informing them of the availability of such diapers and baby wipes.
+
+
+
+
+
+
 Chapter 1: Officers and Employees
 --------------------------------------------------
 
@@ -956,189 +1139,6 @@ Employees of the city of New York shall be permitted to use pre-tax earnings to 
 (b) A public employer shall not take any adverse personnel action against a public employee regarding the employee's employment because either (i) the employee utilizes, or requests to utilize, sick leave or any other available leave due to a qualifying World Trade Center condition, as such term is defined in section two of the retirement and social security law, or (ii) the employee utilizes or requests to utilize line of duty sick leave provided by this section.
 
 (c) For purposes of this section, an "adverse personnel action" means any discipline, including issuing a notice of discipline, discharge, suspension, demotion, penalization, or discrimination against an employee utilizing line of duty sick leave pursuant to subdivision (a) of this section. Nothing in this section shall limit an employer's power pursuant to another provision of law to discipline an officer or employee by termination, reduction of salary, or any other appropriate measure; to terminate an appointee who has not completed his or her probationary term; and to apply for ordinary or accident disability retirement for an officer or employee.
-
-
-
-
-
-
-Chapter 2: Department of Citywide Administrative Services
---------------------------------------------------
-
-
-
-*§ 12-201 City surveyors; examination, appointment of.* ::
-
-
-a. The commissioner of citywide administrative services shall have power and it shall be his or her duty to appoint an examining board which shall serve without compensation, consisting of a chairperson, two consulting or topographical engineers in the employ of the city, and two city surveyors engaged in private practice. Such board shall formulate and conduct examinations of applicants who apply to the commissioner for appointment as city surveyors of the city of New York. Every person applying for examination shall pay an examining fee to be fixed by the commissioner. The fee so collected shall be paid into the general fund. The commissioner, as soon as practicable thereafter, shall certify to the mayor all those applicants who have qualified by successfully passing such examination. To be eligible for appointment, the applicant must be licensed by the state of New York as a land surveyor and must have a minimum of six years surveying experience within the limits of the city.
-
-b. There shall be appointed by the mayor as many city surveyors as are qualified by successfully passing such examination. Each city surveyor, before entering on his or her duties shall take an oath well and truly to perform such duties.
-
-
-
-
-
-
-*§ 12-202 Commissioner of citywide administrative services to conduct examinations for licenses for master plumbers.* ::
-
-
-The commissioner of citywide administrative services, in addition to his or her other powers and duties, shall formulate and conduct examinations to determine the merit and fitness of applicants who apply, pursuant to section 26-143 of the code, to the commissioner of health for licenses to engage in the trade, business or calling of a duly registered and licensed master plumber. The department of citywide administrative services shall keep in its office an official roster of candidates who have succeeded in passing such examinations and shall certify to the commissioner of health the names of such candidates who are successful.
-
-
-
-
-
-
-*§ 12-203 Assistance of committee of plumbing industry.* ::
-
-
-The commissioner of citywide administrative services shall call upon the plumbing industry for assistance in the preparation, conduct and rating of the practical and written examination of all persons seeking a plumber's license, pursuant to section 26-143 of the code. Such assistance shall consist of the obtaining of the services of two registered and licensed master plumbers of not less than ten years' experience as such, and one journeyman plumber of not less than ten years' experience as such, for each examination. The commissioner may also call upon duly accredited sanitary engineers or physicians to assist in the preparation and conduct of such examination. The names of such master and journeyman plumbers selected to assist the commissioner shall be publicly drawn for each examination from a panel of not less than thirty names furnished to the commissioner by a special committee to consist of one experienced master plumber representing each of the established and recognized master plumbers' associations, or branches thereof, in the five boroughs of the city, and one experienced journeyman plumber representing the established and recognized organization having jurisdiction over journeyman plumbers in the city. Such committee members shall be named once each year by the incumbent presidents or boards of directors or governors of their respective associations or organizations. No such master or journeyman plumber shall serve as such assistant oftener than once in five years. The compensation of each such person selected by the commissioner to assist in the preparation, conduct and rating of the written and practical examinations shall be fixed by the commissioner.
-
-
-
-
-
-
-*§ 12-204 Qualifications of plumbers. [Repealed]* ::
-
-
-The commissioner of citywide administrative services shall have sole power to examine applicants for positions as inspectors of plumbing and no person shall be appointed an inspector for plumbing who shall not have obtained a certificate from such commissioner.
-
-
-
-
-
-
-*§ 12-206 Eligible List Reporting.* ::
-
-
-a. Definitions. For the purposes of this section only:
-
-   1. "Eligible list" shall mean any list established by the department of citywide administrative services after the administration of either an open-competitive or a promotional examination containing the names of persons eligible to be considered for appointment or promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
-
-   2. "Promotion list" shall mean the agency-specific list established by the department of citywide administrative services after the administration of a promotional examination containing the names of persons eligible to be considered for promotion by an appointing authority in the city of New York pursuant to article four of the New York state civil service law.
-
-b. The commissioner of the department of citywide administrative services shall submit a report on an annual basis beginning in two thousand five to the mayor, comptroller, public advocate and speaker of the council of the city of New York, by the first day of June, for the previous calendar year, regarding eligible lists. Such report shall include, but not be limited to, the following:
-
-   1. each eligible list established during the reporting year by the department of citywide administrative services;
-
-   2. the dates such eligible lists were established;
-
-   3. the number of persons appointed or promoted from each eligible list and the agencies to which such appointments or promotions were made;
-
-   4. the number of persons appointed or promoted on a provisional basis during the reporting year and the agencies to which such appointments or promotions were made;
-
-   5. the number of persons who, during the reporting year, were considered and not selected three times from promotion lists;
-
-   6. the number of persons removed from eligible lists and the number of persons removed from promotion lists and the reason reported to the department of citywide administrative services by the agency for such removal; and
-
-   7. the number of persons restored to eligible lists and the number of persons restored to promotion lists after having been removed.
-
-
-
-
-
-
-*§ 12-207 Availability of feminine hygiene products.* ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   Feminine hygiene products. The term “feminine hygiene products” means tampons and sanitary napkins for use in connection with the menstrual cycle.
-
-   Temporary shelters. The term “temporary shelters” means department of homeless services family with children shelters, adult family shelters, single adult women shelters and single adult men shelters; and human resources administration domestic violence shelters and HIV/AIDS services administration (HASA) shelters.
-
-b. The department of citywide administrative services shall make available to agencies operating or having oversight of providers operating temporary shelters a supply of feminine hygiene products sufficient to meet the needs of residents. The department shall also make available a supply of feminine hygiene products sufficient to meet the needs of youth in secure detention facilities operated by the administration for children’s services, as well as youth in congregate care facilities operated by the administration for children’s services who are awaiting placement with a licensed foster care agency.
-
-
-
-
-
-
-
-
-*§ 12-208 Pay and employment equity data.** ::
-
-
-a. Definitions. As used in this section, the term “agency” means any agency, the head of which holds office upon appointment of the mayor and those units within the executive office of the mayor designated by the mayor to be covered by the provisions of chapter 16 of the charter. Such term does not include agencies headed by boards, commissions, or other multi-member bodies, whether appointed by the mayor or otherwise, nor to elected officials, nor to other agencies the heads of which are appointed by officials other than the mayor or by multi-member bodies.
-
-b. No later than November 30, 2019, and on or before November 30 annually thereafter, each agency, to the extent the department of citywide administrative services does not already have such information, shall provide to the department of citywide administrative services information relevant to pay and employment equity. Such information for each current and former employee within such agency shall be as of the date of hire and shall, to the extent such information is available, include:
-
-   1. Agency;
-
-   2. Start date;
-
-   3. Civil service title;
-
-   4. Salary range for such title;
-
-   5. Business title;
-
-   6. Title classification (title description);
-
-   7. Job category;
-
-   8. Career level;
-
-   9. Base salary;
-
-   10. The department of citywide administrative services occupational group code and group name;
-
-   11. Whether such employee is a managerial or supervisory employee;
-
-   12. Minimum number of years of work experience required for such position;
-
-   13. Number of years of work experience of such employee;
-
-   14. Highest level of education attained by such employee;
-
-   15. Gender;
-
-   16. Racial group;
-
-   17. Ethnicity;
-
-   18. Date of birth;
-
-   19. Whether such employee is a provisional employee;
-
-   20. Whether such employee is full-time, part-time or seasonal;
-
-   21. Change in personnel status, including but not limited to, appointed, deceased, decrease, demoted, dismissed, increase, promoted, resigned, retired, terminated and transfer; and
-
-   22. Whether such employee was previously employed by the city of New York.
-
-c. No later than 90 days following receipt of the data collected pursuant to subdivision b of this section, the department of citywide administrative services shall provide such data to the office of data analytics.
-
-d. All agencies shall cooperate with the department as may be necessary and proper to ensure compliance with this subdivision. The department may request from any agency, including the office of payroll administration and financial information services agency, information it deems necessary to enable it to properly carry out its functions.
-
-e. The commissioner may promulgate such rules as are necessary to carry out the provisions of this section.
-
-
-
-
-
-
-
-
-*§ 12-208 Availability of diapers and baby wipes.** ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   Child care center. The term “child care center” means a program regulated by article 43 or article 47 of the New York city health code and that is contracted by the administration for children’s services or contracted and funded by the department of education.
-
-   Covered entity. The term “covered entity” means a child care center, domestic violence shelter, family justice center, LYFE program, or temporary shelter.
-
-   Domestic violence shelter. The term “domestic violence shelter” means an emergency shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to section 459-b of the social services law or a tier II shelter for domestic violence survivors managed by or under a contract or similar agreement with a city agency and subject to the provisions of part 900 of title 18 of the New York codes, rules, and regulations.
-
-   Family justice center. The term “family justice center” means a center and any successor location through which the office to end domestic and gender-based violence or a successor entity provides services to victims of domestic and gender-based violence.
-
-   LYFE programs. The term “LYFE programs” means the living for the young family through education (LYFE) programs operated by the department of education to provide early childhood education to children of student parents.
-
-   Temporary shelter. The term “temporary shelter” means a facility with the capacity to shelter families with children operated by or under contract or similar agreement with the department of homeless services and the department of youth and community development.
-
-b. The department of citywide administrative services shall make available to agencies operating or contracting with a covered entity, a supply of diapers and baby wipes, for children three years old and younger, sufficient to meet the needs of residents or recipients utilizing services at such covered entity, when such residents or recipients are present at such covered entity. Each covered entity shall provide readily visible signage or other written notice, in at least each of the designated citywide languages, as such term is defined in section 23-1101, to all such residents or recipients, informing them of the availability of such diapers and baby wipes.
 
 
 
