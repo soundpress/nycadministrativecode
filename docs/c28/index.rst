@@ -244,6 +244,28 @@ a. An application for changes in the zoning resolution pursuant to section 200 o
 
 
 
+
+
+*§ 25-116 Community gardens.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Community garden. The term “community garden” means a tax lot where a garden registered with the department of parks and recreation is located.
+
+   Land use category. The term “land use category” means a value assigned by the department of city planning to each tax lot in the primary land use tax lot output database that describes how such tax lot is primarily used.
+
+   Primary land use tax lot output database. The term “primary land use tax lot output database” means the publicly accessible data file compiled and maintained by the department of city planning that contains land use and geographic data at the tax lot level, or any successor data file that is similar in form or function.
+
+b. The department of city planning shall assign a land use category to a community garden, in accordance with its methodology for classifying such a lot, that describes such garden in the primary land use tax lot output database as open space, outdoor recreation, a community garden, or other similar description. The department shall not assign a community garden a land use category in such database that describes such garden as vacant.
+
+c. The department of city planning shall include a statement in the primary land use tax lot output database that the assignment of a land use category to any tax lot in such database is solely informational and does not confer or change a legal status for such tax lot.
+
+
+
+
+
+
 Chapter 2: Board of Standards and Appeals
 --------------------------------------------------
 

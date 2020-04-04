@@ -2446,6 +2446,30 @@ c. No information that is required to be reported pursuant to this section shall
 
 
 
+*§ 17-199.13 Farm-to-city projects.* ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   CSA. The term “CSA” means community supported agriculture partnerships, usually formed between farms and consumers, which allow communities or community members to invest in farms in exchange for regular receipt of such farms’ produce.
+
+   Farm-to-city project. The term “farm-to-city project” refers to neighborhood- or community-based local fresh food projects, which include CSAs, farmers’ markets, food boxes and food pantries.
+
+   Farmers’ market. The term “farmers’ market” means an open-air market held for the sale of products grown, raised, caught or baked by regional farmers, producers and fishers to the general public and that does not have a fundraising component. A farmers’ market may be run by a large, centrally-managed network, or by a single community organization, garden group, or other neighborhood or community entity.
+
+   Food box. The term “food box” means a program that aggregates fresh produce from participating providers and enables consumers to purchase or acquire fresh, regionally-grown produce at a set price that is typically below retail value.
+
+   Food pantry. The term “food pantry” means a food pantry, food bank, or other emergency food program operating in the city for which the location is published by the human resources administration or otherwise identified by the department.
+
+b. Farm-to-city project awareness campaign. The department shall develop materials for neighborhood-specific farm-to-city project awareness in each of the designated citywide languages as defined in section 23-1101, regarding farm-to-city projects available in each neighborhood throughout all five boroughs. The department shall also post this information on its website.
+
+
+
+
+
+
+
+
 *§ 17-200 Prohibited acts with respect to wild birds.* ::
 
 
