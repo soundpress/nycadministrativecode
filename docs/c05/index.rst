@@ -1497,7 +1497,7 @@ c. Definitions. For purposes of this section, the following terms shall have the
 
    (25) "MBE" means a minority-owned business enterprise certified in accordance with section 1304 of the charter.
 
-   (26) "Minority group" means Black Americans; Asian Americans, and Hispanic Americans, provided that the commissioner shall be authorized to add additional groups to this definition upon a finding that there is statistically significant disparity between the availability of firms owned by individuals in such a group and the utilization of such firms in city procurement.
+   (26) "Minority group" means Black Americans, Asian Americans, Hispanic Americans and Native Americans, provided that the commissioner shall be authorized to add additional groups to this definition upon a finding that there is statistically significant disparity between the availability of firms owned by individuals in such a group and the utilization of such firms in city procurement.
 
    (27) "Non-certified firm" means a business enterprise that has not been certified as an MBE, WBE or EBE in accordance with section 1304 of the charter.
 
@@ -1530,13 +1530,15 @@ For construction contracts:
     * - Category:
       - Participation goal:
     * - Black Americans
-      - 8% of total annual agency expenditures on such contracts
+      - 12% of total annual agency expenditures on such contracts
     * - Asian Americans
-      - 8% of total annual agency expenditures on such contracts
+      - 11.1% of total annual agency expenditures on such contracts
     * - Hispanic Americans
-      - 4% of total annual agency expenditures on such contracts
+      - 17.95% of total annual agency expenditures on such contracts
+    * - Native Americans
+      -  0.56% of total annual agency expenditures on such contracts
     * - Women
-      - 18% of total annual agency expenditures on such contracts
+      - 25.66% of total annual agency expenditures on such contracts
     * - Emerging
       - 6% of total annual agency expenditures on such contracts
 ~
@@ -1556,11 +1558,15 @@ For construction contracts:
     * - Category:
       - Participation goal:
     * - Black Americans
-      - 12% of total annual agency expenditures on such contracts
+      - 11.81% of total annual agency expenditures on such contracts
+    * - Asian Americans
+      - 9.4% of total annual agency expenditures on such contracts
     * - Hispanic Americans
-      - 8% of total annual agency expenditures on such contracts
+      - 8.99% of total annual agency expenditures on such contracts
+    * - Native Americans
+      - 0.65% of total annual agency expenditures on such contracts
     * - Women
-      - 37% of total annual agency expenditures on such contracts
+      - 36.67% of total annual agency expenditures on such contracts
     * - Emerging
       - 6% of total annual agency expenditures on such contracts
 ~
@@ -1580,13 +1586,15 @@ For standard services contracts:
     * - Category:
       - Participation goal:
     * - Black Americans
-      - 12% of total annual agency expenditures on such contracts
+      - 14.32% of total annual agency expenditures on such contracts
     * - Asian Americans
-      - 3% of total annual agency expenditures on such contracts
+      - 9.88% of total annual agency expenditures on such contracts
     * - Hispanic Americans
-      - 6% of total annual agency expenditures on such contracts
+      - 10.2% of total annual agency expenditures on such contracts
+    * - Native Americans
+      - 0.03% of total annual agency expenditures on such contracts
     * - Women
-      - 10% of total annual agency expenditures on such contracts
+      - 29.26% of total annual agency expenditures on such contracts
     * - Emerging
       - 6% of total annual agency expenditures on such contracts
 ~
@@ -1595,7 +1603,7 @@ For standard services contracts:
 
  
 
-For goods contracts under one hundred thousand dollars:
+For goods contracts under one million dollars:
 
  
 
@@ -1606,13 +1614,15 @@ For goods contracts under one hundred thousand dollars:
     * - Category:
       - Participation goal:
     * - Black Americans
-      - 7% of total annual agency expenditures on such contracts
+      - 5.94% of total annual agency expenditures on such contracts
     * - Asian Americans
-      - 8% of total annual agency expenditures on such contracts
+      - 10.59% of total annual agency expenditures on such contracts
     * - Hispanic Americans
-      - 5% of total annual agency expenditures on such contracts
+      - 7.07% of total annual agency expenditures on such contracts
+    * - Native Americans
+      - 2.44% of total annual agency expenditures on such contracts
     * - Women
-      - 25% of total annual agency expenditures on such contracts
+      - 30.51% of total annual agency expenditures on such contracts
     * - Emerging
       - 6% of total annual agency expenditures on such contracts
 ~
