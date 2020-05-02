@@ -594,6 +594,47 @@ c. At least once every school year, the principal of every school of the city sc
 
 
 
+Chapter 8: City Websites
+--------------------------------------------------
+
+
+
+*§ 23-801 Access to translation.* ::
+
+
+Every website maintained by or on behalf of the city or a city agency shall include a translation feature for viewing the text of that website, wherever practicable, in languages other than English. Such translation feature shall be indicated by a means, other than or in addition to English, that is comprehensible to speakers of the seven most commonly spoken languages within the city as determined by the department of city planning, which may include a rotating language sequence.
+
+
+
+
+
+
+
+
+*§ 23-802 Accessibility.* ::
+
+
+a. The mayor or the mayor's designee shall adopt a protocol for websites maintained by or on behalf of the city or a city agency relating to website accessibility for persons with disabilities. Such protocol shall provide for agency websites to use either of the following standards: 36 CFR § 1194.22 or the Web Content Accessibility Guidelines (WCAG) 2.0 Level AA, developed by the Worldwide Web Consortium, or any successor standards, provided that the adopted protocol may differ from these standards in specific instances when the mayor or mayor's designee determines, after consulting with experts in website design and reasonable accommodations for people with disabilities, and the holding of a public hearing, that such differences will provide effective communication for people with disabilities, and that such differences are documented in such protocol. Such protocol shall be made available online. This section does not require an agency to take any action that would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.
+
+b.  No later than July 1, 2017, and every two years thereafter, the mayor or the mayor's designee shall submit to the council a written report that documents the compliance of websites maintained by or on behalf of the city or a city agency with the protocol adopted pursuant to subdivision a of this section.
+
+
+
+
+
+
+
+
+*§ 23-803 Online interactive map.* ::
+
+
+The department of environmental protection shall provide to the public, at no charge, on the city’s website, an online interactive map pursuant to section 24-309.1. All information required by section 24-309.1 shall be available on the city’s website on or before June 1, 2019 and updated, at minimum, in June of each year. The mayor shall ensure that agencies provide such department with assistance and information as it requires to compile and update the interactive map.
+
+
+
+
+
+
 Chapter 10: Nondiscriminatory Access to Services
 --------------------------------------------------
 
@@ -673,47 +714,6 @@ d. All materials described in subdivision c of this section, to the extent pract
    4. any other accommodations for people with disabilities that will be available at the venue or venues for the event, which shall be indicated by the relevant international symbol if applicable.
 
 e. The mayor's office for people with disabilities shall develop, make available on its website, and distribute to each agency, and members of the public upon request, a guide to assist agencies in notifying the public about the availability of, and responding to requests for, reasonable accommodations described in subdivision d of this section. The guide shall contain a comprehensive list of common disability access symbols, and shall be periodically updated as appropriate.
-
-
-
-
-
-
-Chapter 8: City Websites
---------------------------------------------------
-
-
-
-*§ 23-801 Access to translation.* ::
-
-
-Every website maintained by or on behalf of the city or a city agency shall include a translation feature for viewing the text of that website, wherever practicable, in languages other than English. Such translation feature shall be indicated by a means, other than or in addition to English, that is comprehensible to speakers of the seven most commonly spoken languages within the city as determined by the department of city planning, which may include a rotating language sequence.
-
-
-
-
-
-
-
-
-*§ 23-802 Accessibility.* ::
-
-
-a. The mayor or the mayor's designee shall adopt a protocol for websites maintained by or on behalf of the city or a city agency relating to website accessibility for persons with disabilities. Such protocol shall provide for agency websites to use either of the following standards: 36 CFR § 1194.22 or the Web Content Accessibility Guidelines (WCAG) 2.0 Level AA, developed by the Worldwide Web Consortium, or any successor standards, provided that the adopted protocol may differ from these standards in specific instances when the mayor or mayor's designee determines, after consulting with experts in website design and reasonable accommodations for people with disabilities, and the holding of a public hearing, that such differences will provide effective communication for people with disabilities, and that such differences are documented in such protocol. Such protocol shall be made available online. This section does not require an agency to take any action that would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.
-
-b.  No later than July 1, 2017, and every two years thereafter, the mayor or the mayor's designee shall submit to the council a written report that documents the compliance of websites maintained by or on behalf of the city or a city agency with the protocol adopted pursuant to subdivision a of this section.
-
-
-
-
-
-
-
-
-*§ 23-803 Online interactive map.* ::
-
-
-The department of environmental protection shall provide to the public, at no charge, on the city’s website, an online interactive map pursuant to section 24-309.1. All information required by section 24-309.1 shall be available on the city’s website on or before June 1, 2019 and updated, at minimum, in June of each year. The mayor shall ensure that agencies provide such department with assistance and information as it requires to compile and update the interactive map.
 
 
 

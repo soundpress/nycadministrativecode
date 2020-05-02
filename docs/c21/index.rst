@@ -4020,6 +4020,31 @@ Editor's note: subdivision f of this § 20-910 became effective on 11/6/2015; se
 
 
 
+Chapter 9: Mass Transit Benefits
+--------------------------------------------------
+
+
+
+*§ 20-926 Election of qualified transportation benefits in lieu of taxable dollar compensation for certain non-governmental employees.* ::
+
+
+a. Except as provided in subdivision c of this section, every employer with twenty or more full-time employees in the city of New York shall offer full-time employees the opportunity to use pre-tax earnings to purchase qualified transportation fringe benefits, other than qualified parking, in accordance with federal law, provided that in the event that such employer's number of full-time employees is reduced to less than twenty, any employee eligible to be provided such opportunity prior to the employee reduction shall continue to be provided such opportunity for the duration of such employee's employment with such employer. For purposes of this section, "full-time employees" shall mean employees who work an average of thirty hours or more per week for such employer for such period of time as the commissioner establishes by rule.
+
+b. The provisions of this section shall be enforceable by the department. Any notice of violation issued by the department shall be returnable to the administrative tribunal authorized to adjudicate violations of this chapter as set forth in the department's rules. The department shall prescribe the form and wording of such notices of violation. Any employer found to be in violation of the provisions of this section shall be liable for a civil penalty payable to the city of New York of not less than one hundred dollars nor more than two hundred fifty dollars for the first violation. Such employer shall have ninety days to cure such first violation before a civil penalty shall be imposed. After the expiration of such cure period, every thirty-day period in which such employer fails to offer such benefit shall constitute a subsequent violation and a civil penalty of two hundred fifty dollars shall be imposed for each such subsequent violation. A civil penalty shall not be imposed on any individual employer more than once in any thirty-day period.
+
+c. Subdivision a of this section shall not apply (i) to the United States government, the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary, or the city of New York or any local government, municipality or county or any entity governed by general municipal law section 92 or county law section 207; (ii) where a collective bargaining agreement exists between any group of employees and an employer, except where the number of full-time employees not covered by any such agreement is twenty or more, in which case those full-time employees not covered by any such agreement shall be eligible for such benefit; or (iii) where such employer is not required by law to pay federal, state and city payroll taxes. In addition, the department may waive the requirements of this section for an employer if such employer has demonstrated to the satisfaction of the department that the offering of such benefit would be a financial hardship for such employer.
+
+d. The commissioner may promulgate such rules as he or she deems necessary to effectuate the provisions of this chapter, including, but not limited to, establishing civil penalties for the violation of such rules in amounts not exceeding two hundred fifty dollars for any such violation.
+
+e. For the purposes of this chapter, "department" shall mean such office or agency as the mayor shall designate pursuant to section 20-a of the charter and "commissioner" shall mean the head of such office or agency.
+
+
+
+Editor's note: the legislation that enacted this § 20-926 provides, in part, as follows: "This local law shall take effect January 1, 2016, provided that (i) [the] head of such office or agency as the mayor shall designate pursuant to section 20-a of the New York city charter, as added by [L.L. 2015/104], shall, prior to the effective date of this local law, promulgate such rules, and take such other steps, as may be necessary to effectuate the provisions of this local law on its effective date and (ii) in the event qualified transportation benefits are no longer permitted to be excluded from an employee's gross income for federal income tax purposes and from an employer's wages for federal payroll tax purposes, this local law shall no longer be effective." See L.L. 2014/053 § 3, 10/20/2014, as amended by L.L. 2015/104 § 7, 11/30/2015.
+
+
+
+
 Chapter 8: Earned Safe and Sick Time Act.
 --------------------------------------------------
 
@@ -4333,31 +4358,6 @@ f. The department shall annually report on its website the number and nature of 
 
 
 
-
-
-
-
-Chapter 9: Mass Transit Benefits
---------------------------------------------------
-
-
-
-*§ 20-926 Election of qualified transportation benefits in lieu of taxable dollar compensation for certain non-governmental employees.* ::
-
-
-a. Except as provided in subdivision c of this section, every employer with twenty or more full-time employees in the city of New York shall offer full-time employees the opportunity to use pre-tax earnings to purchase qualified transportation fringe benefits, other than qualified parking, in accordance with federal law, provided that in the event that such employer's number of full-time employees is reduced to less than twenty, any employee eligible to be provided such opportunity prior to the employee reduction shall continue to be provided such opportunity for the duration of such employee's employment with such employer. For purposes of this section, "full-time employees" shall mean employees who work an average of thirty hours or more per week for such employer for such period of time as the commissioner establishes by rule.
-
-b. The provisions of this section shall be enforceable by the department. Any notice of violation issued by the department shall be returnable to the administrative tribunal authorized to adjudicate violations of this chapter as set forth in the department's rules. The department shall prescribe the form and wording of such notices of violation. Any employer found to be in violation of the provisions of this section shall be liable for a civil penalty payable to the city of New York of not less than one hundred dollars nor more than two hundred fifty dollars for the first violation. Such employer shall have ninety days to cure such first violation before a civil penalty shall be imposed. After the expiration of such cure period, every thirty-day period in which such employer fails to offer such benefit shall constitute a subsequent violation and a civil penalty of two hundred fifty dollars shall be imposed for each such subsequent violation. A civil penalty shall not be imposed on any individual employer more than once in any thirty-day period.
-
-c. Subdivision a of this section shall not apply (i) to the United States government, the state of New York, including any office, department, independent agency, authority, institution, association, society or other body of the state including the legislature and the judiciary, or the city of New York or any local government, municipality or county or any entity governed by general municipal law section 92 or county law section 207; (ii) where a collective bargaining agreement exists between any group of employees and an employer, except where the number of full-time employees not covered by any such agreement is twenty or more, in which case those full-time employees not covered by any such agreement shall be eligible for such benefit; or (iii) where such employer is not required by law to pay federal, state and city payroll taxes. In addition, the department may waive the requirements of this section for an employer if such employer has demonstrated to the satisfaction of the department that the offering of such benefit would be a financial hardship for such employer.
-
-d. The commissioner may promulgate such rules as he or she deems necessary to effectuate the provisions of this chapter, including, but not limited to, establishing civil penalties for the violation of such rules in amounts not exceeding two hundred fifty dollars for any such violation.
-
-e. For the purposes of this chapter, "department" shall mean such office or agency as the mayor shall designate pursuant to section 20-a of the charter and "commissioner" shall mean the head of such office or agency.
-
-
-
-Editor's note: the legislation that enacted this § 20-926 provides, in part, as follows: "This local law shall take effect January 1, 2016, provided that (i) [the] head of such office or agency as the mayor shall designate pursuant to section 20-a of the New York city charter, as added by [L.L. 2015/104], shall, prior to the effective date of this local law, promulgate such rules, and take such other steps, as may be necessary to effectuate the provisions of this local law on its effective date and (ii) in the event qualified transportation benefits are no longer permitted to be excluded from an employee's gross income for federal income tax purposes and from an employer's wages for federal payroll tax purposes, this local law shall no longer be effective." See L.L. 2014/053 § 3, 10/20/2014, as amended by L.L. 2015/104 § 7, 11/30/2015.
 
 
 
