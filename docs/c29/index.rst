@@ -3509,55 +3509,6 @@ By March 31, 2020 and no later than March 31 annually thereafter, the department
 
 
 
-Chapter 27: Mitchell-Lama Development Reporting Requirements
---------------------------------------------------
-
-
-
-*§ 26-2701 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Department. The term “department” means the department of housing preservation and development.
-
-Mitchell-Lama development. The term “Mitchell-Lama development” means a housing development organized pursuant to article two of the private housing finance law and supervised by the department.
-
-Waiting list. The term “waiting list” means a list of applicants from which the managing agent of a Mitchell-Lama development is required to process potential tenants or shareholders as applicable for subsequent occupancies of such development.
-
-
-
-
-
-
-
-
-*§ 26-2702 Mitchell-Lama development waiting list report.* ::
-
-
-By September 1, 2021 and by September 1 of each year thereafter, the department shall submit to the mayor, the speaker of the council and the public advocate, and post to its website, a report on waiting lists for Mitchell-Lama developments that have been digitized and are incorporated into the housing portal required by section 26-1802. Such report shall be disaggregated by each Mitchell-Lama development and include, but need not be limited to, the following:
-
-1. The number of unique applicants on the waiting list on the last day of the prior calendar year;
-
-2. The number of applicants on the waiting list:
-
-   (a) Who were not selected for occupancy in such development within the prior calendar year; and
-
-   (b) Whose position on the waiting list was sequentially prior to a person other than a veteran who was selected for occupancy in such development within the prior calendar year;
-
-3. The number of substantiated complaints received within the prior calendar year regarding the waiting list for such development, including, but not limited to:
-
-   (a) The selection for occupancy of an applicant whose position on the waiting list was sequentially later than applicants who were not selected for occupancy in such development from the same waiting list within the prior calendar year; and
-
-   (b) The waiting list process; and
-
-4. The number of applicants who were admitted under the preference for veterans for such development within the prior calendar year.
-
-
-
-
-
-
 Chapter 26: Affordable Housing Placements
 --------------------------------------------------
 
@@ -3623,6 +3574,55 @@ d. As described in subdivisions b and c, data for applicants who had applied thr
 e. The initial report submitted on September 1, 2021 shall include the information required by subdivisions b and c for all of the inquiries specified in subdivision d for the period from July 1, 2020 until June 30, 2021, where available, and shall also include the information required by subdivisions b and c for the inquiries specified in paragraphs 1 and 4 of subdivision d for the period from January 1, 2014 until June 30, 2020.
 
 f. If a category disaggregated in subdivisions b, c or d contains between 0 and 9 applicants, or allows another category to be narrowed to between 0 and 9 applicants, the number shall be replaced with a symbol.
+
+
+
+
+
+
+Chapter 27: Mitchell-Lama Development Reporting Requirements
+--------------------------------------------------
+
+
+
+*§ 26-2701 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Department. The term “department” means the department of housing preservation and development.
+
+Mitchell-Lama development. The term “Mitchell-Lama development” means a housing development organized pursuant to article two of the private housing finance law and supervised by the department.
+
+Waiting list. The term “waiting list” means a list of applicants from which the managing agent of a Mitchell-Lama development is required to process potential tenants or shareholders as applicable for subsequent occupancies of such development.
+
+
+
+
+
+
+
+
+*§ 26-2702 Mitchell-Lama development waiting list report.* ::
+
+
+By September 1, 2021 and by September 1 of each year thereafter, the department shall submit to the mayor, the speaker of the council and the public advocate, and post to its website, a report on waiting lists for Mitchell-Lama developments that have been digitized and are incorporated into the housing portal required by section 26-1802. Such report shall be disaggregated by each Mitchell-Lama development and include, but need not be limited to, the following:
+
+1. The number of unique applicants on the waiting list on the last day of the prior calendar year;
+
+2. The number of applicants on the waiting list:
+
+   (a) Who were not selected for occupancy in such development within the prior calendar year; and
+
+   (b) Whose position on the waiting list was sequentially prior to a person other than a veteran who was selected for occupancy in such development within the prior calendar year;
+
+3. The number of substantiated complaints received within the prior calendar year regarding the waiting list for such development, including, but not limited to:
+
+   (a) The selection for occupancy of an applicant whose position on the waiting list was sequentially later than applicants who were not selected for occupancy in such development from the same waiting list within the prior calendar year; and
+
+   (b) The waiting list process; and
+
+4. The number of applicants who were admitted under the preference for veterans for such development within the prior calendar year.
 
 
 
