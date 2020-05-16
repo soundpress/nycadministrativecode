@@ -1716,6 +1716,19 @@ b. It shall be unlawful for any person to conduct, without a permit from such ex
 
 
 
+Chapter 4: Foreign Trade Zones
+--------------------------------------------------
+
+
+
+*§ 22-401 Foreign-trade zones.* ::
+
+
+The city is hereby authorized from time to time to make application to the board established by the act of congress, approved June eighteenth, nineteen hundred thirty-four, entitled "An act to provide for the establishment, operation and maintenance of foreign-trade zones in ports of entry of the United States, to expedite and encourage foreign commerce, and for other purposes," for a grant or grants or any extensions thereof to such city of the privilege of establishing, operating and maintaining a foreign-trade zone or zones or any extensions thereof in such city, pursuant to the provisions of such act, and if any such application be granted, to accept such grant or grants or any extensions thereof and to establish, operate and maintain any such zone or extension thereof in accordance with law. The authorization hereby granted shall extend to and cover any application heretofore made for any such purpose by the city pursuant to the act of congress hereinbefore described, and to any amendment of such an application.
+
+
+
+
 Chapter 3: Public Utility Service
 --------------------------------------------------
 
@@ -1765,19 +1778,6 @@ The fixing of rates for furnishing hydroelectric and other forms of energy to re
 
 
 Revenues received from the operation of the public utility service shall be paid into a fund to be known as the municipal energy fund. The revenues paid into such fund shall not be revenues of the city, and payments from such fund shall be made without appropriation and shall not be included in the expense budget of the city. Nothing herein shall prohibit the city from appropriating expense or capital funds in connection with the public utility service, nor shall payments from the municipal energy fund to the general fund be prohibited.
-
-
-
-
-Chapter 4: Foreign Trade Zones
---------------------------------------------------
-
-
-
-*§ 22-401 Foreign-trade zones.* ::
-
-
-The city is hereby authorized from time to time to make application to the board established by the act of congress, approved June eighteenth, nineteen hundred thirty-four, entitled "An act to provide for the establishment, operation and maintenance of foreign-trade zones in ports of entry of the United States, to expedite and encourage foreign commerce, and for other purposes," for a grant or grants or any extensions thereof to such city of the privilege of establishing, operating and maintaining a foreign-trade zone or zones or any extensions thereof in such city, pursuant to the provisions of such act, and if any such application be granted, to accept such grant or grants or any extensions thereof and to establish, operate and maintain any such zone or extension thereof in accordance with law. The authorization hereby granted shall extend to and cover any application heretofore made for any such purpose by the city pursuant to the act of congress hereinbefore described, and to any amendment of such an application.
 
 
 
@@ -2586,51 +2586,6 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 
-Chapter 6-d: Industrial Business Zones
---------------------------------------------------
-
-
-
-*§ 22-625 Industrial business zone boundary commission.* ::
-
-
-(a) The industrial business zone boundary commission shall consist of the commissioner of small business services, the director of city planning, the commissioner of buildings, the commissioner of finance, the commissioner of housing preservation and development, the commissioner of citywide administrative services, the president of the economic development corporation, a member of the community associated with industrial and manufacturing activities who shall be appointed by the mayor and serve at the mayor's pleasure, and the five borough presidents. The commissioner of small business services shall serve as chairperson of the commission. Each member of the commission, except the member of the community associated with industrial and manufacturing activities, shall have the power to designate an alternate to represent him or her at commission meetings and exercise all the rights and powers of such member, including the right to vote, provided that such designation is made in writing to the chairperson of the commission. A borough president shall be entitled to vote only on the designation of an industrial boundary zone, an amendment to the boundaries of such a zone, or the repeal of such a zone where all or part of the proposed zone or existing zone is within his or her borough. Commission members shall serve without compensation. A majority of members of such commission entitled to vote on a matter shall constitute a quorum for such issue. Decisions shall be made by majority vote of those present and entitled to vote on a matter.
-
-(b) The mission of the industrial business zone boundary commission shall be the preservation of industrial and manufacturing activities and related employment within the city of New York.
-
-
-
-
-
-
-*§ 22-626 Industrial business zones.* ::
-
-
-(a) The industrial business zone boundary commission shall publish notice at least once in the City Record or a newspaper of general circulation in the city setting forth:
-
-   (1) the boundaries of one or more industrial business zones that the commission proposes to be designated, amended or repealed; and
-
-   (2) the date, which shall not be earlier than five nor later than fifteen days following the publication of such notice, on which the commission will hold a public hearing to hear all persons interested in the proposed designation, amendment or repeal of such zone or zones.
-
-(b) If after such public hearing, the commission designates or repeals one or more industrial business zones or amends the boundaries of one or more such zones, it shall notify the local legislative body of such designation, repeal or amendment not later than thirty days after such designation, repeal or amendment.
-
-(c) The designation or repeal of an industrial business zone or the amendment of the boundaries of one or more such zones shall become effective upon (1) the vote of the commission approving such designation, repeal or amendment or (2) any other date provided for by the commission when it approves such designation, repeal or amendment.
-
-(d) (1) The commission may designate an area to be an industrial business zone if it determines that the market conditions in such zone are such that the availability of an industrial business zone tax credit is required in order to encourage industrial and manufacturing activities in such zone.
-
-   (2) The commission may repeal an existing industrial business zone if it determines that the market conditions in such zone are such that the availability of an industrial business zone tax credit is no longer required in order to encourage industrial and manufacturing activities in such zone.
-
-   (3) The commission may amend in whole or in part the boundaries of an existing industrial business zone if it determines: (A) for any new area or areas to be included within the zone, that the market conditions in such area or areas are such that the availability of an industrial business zone tax credit is required in order to encourage industrial and manufacturing activities in such area or areas; and (B) for any area or areas to be eliminated from such zone, that the market conditions in such area or areas are such that the availability of an industrial business zone tax credit is no longer required in order to encourage industrial and manufacturing activities in such area or areas.
-
-   (4) In making any of the determinations set forth in paragraphs one, two or three of this subdivision, the commission shall consider, among other factors it determines are appropriate for consideration, existing land uses, the industrial and manufacturing character of the relevant area, the relevant area's potential development for industrial and manufacturing activities, whether there is any as-of-right zoning for new residential development within such area, vehicular traffic patterns, and existing or proposed empire zone boundaries.
-
-   (5) Any land to be included in an industrial business zone shall be designated as M-1, M-2, or M-3 pursuant to the zoning resolution of the city of New York in effect at the time of designation.
-
-   (6) For the purposes of this subdivision, the term "industrial business zone tax credit" means an industrial business zone tax credit, as provided in subdivision (n) of section 11-503 or subdivision seventeen-b of section 11-604 of this code.
-
-
-
-
 Chapter 6-c: Lower Manhattan Relocation and Employment Assistance Program
 --------------------------------------------------
 
@@ -2734,6 +2689,51 @@ When used in this chapter the following terms shall have the following meanings:
 (e) For the duration of the benefit period, the recipient of benefits shall file annually, along with the aforementioned original and annual certificates of eligibility, the average wage and benefits offered to the applicable relocated employees used in determining eligible aggregate employment shares, pursuant to subdivision (i) of section 22-623 of this chapter. The department shall have the authority to require that statements filed under this subdivision be certified.
 
 
+
+
+
+
+Chapter 6-d: Industrial Business Zones
+--------------------------------------------------
+
+
+
+*§ 22-625 Industrial business zone boundary commission.* ::
+
+
+(a) The industrial business zone boundary commission shall consist of the commissioner of small business services, the director of city planning, the commissioner of buildings, the commissioner of finance, the commissioner of housing preservation and development, the commissioner of citywide administrative services, the president of the economic development corporation, a member of the community associated with industrial and manufacturing activities who shall be appointed by the mayor and serve at the mayor's pleasure, and the five borough presidents. The commissioner of small business services shall serve as chairperson of the commission. Each member of the commission, except the member of the community associated with industrial and manufacturing activities, shall have the power to designate an alternate to represent him or her at commission meetings and exercise all the rights and powers of such member, including the right to vote, provided that such designation is made in writing to the chairperson of the commission. A borough president shall be entitled to vote only on the designation of an industrial boundary zone, an amendment to the boundaries of such a zone, or the repeal of such a zone where all or part of the proposed zone or existing zone is within his or her borough. Commission members shall serve without compensation. A majority of members of such commission entitled to vote on a matter shall constitute a quorum for such issue. Decisions shall be made by majority vote of those present and entitled to vote on a matter.
+
+(b) The mission of the industrial business zone boundary commission shall be the preservation of industrial and manufacturing activities and related employment within the city of New York.
+
+
+
+
+
+
+*§ 22-626 Industrial business zones.* ::
+
+
+(a) The industrial business zone boundary commission shall publish notice at least once in the City Record or a newspaper of general circulation in the city setting forth:
+
+   (1) the boundaries of one or more industrial business zones that the commission proposes to be designated, amended or repealed; and
+
+   (2) the date, which shall not be earlier than five nor later than fifteen days following the publication of such notice, on which the commission will hold a public hearing to hear all persons interested in the proposed designation, amendment or repeal of such zone or zones.
+
+(b) If after such public hearing, the commission designates or repeals one or more industrial business zones or amends the boundaries of one or more such zones, it shall notify the local legislative body of such designation, repeal or amendment not later than thirty days after such designation, repeal or amendment.
+
+(c) The designation or repeal of an industrial business zone or the amendment of the boundaries of one or more such zones shall become effective upon (1) the vote of the commission approving such designation, repeal or amendment or (2) any other date provided for by the commission when it approves such designation, repeal or amendment.
+
+(d) (1) The commission may designate an area to be an industrial business zone if it determines that the market conditions in such zone are such that the availability of an industrial business zone tax credit is required in order to encourage industrial and manufacturing activities in such zone.
+
+   (2) The commission may repeal an existing industrial business zone if it determines that the market conditions in such zone are such that the availability of an industrial business zone tax credit is no longer required in order to encourage industrial and manufacturing activities in such zone.
+
+   (3) The commission may amend in whole or in part the boundaries of an existing industrial business zone if it determines: (A) for any new area or areas to be included within the zone, that the market conditions in such area or areas are such that the availability of an industrial business zone tax credit is required in order to encourage industrial and manufacturing activities in such area or areas; and (B) for any area or areas to be eliminated from such zone, that the market conditions in such area or areas are such that the availability of an industrial business zone tax credit is no longer required in order to encourage industrial and manufacturing activities in such area or areas.
+
+   (4) In making any of the determinations set forth in paragraphs one, two or three of this subdivision, the commission shall consider, among other factors it determines are appropriate for consideration, existing land uses, the industrial and manufacturing character of the relevant area, the relevant area's potential development for industrial and manufacturing activities, whether there is any as-of-right zoning for new residential development within such area, vehicular traffic patterns, and existing or proposed empire zone boundaries.
+
+   (5) Any land to be included in an industrial business zone shall be designated as M-1, M-2, or M-3 pursuant to the zoning resolution of the city of New York in effect at the time of designation.
+
+   (6) For the purposes of this subdivision, the term "industrial business zone tax credit" means an industrial business zone tax credit, as provided in subdivision (n) of section 11-503 or subdivision seventeen-b of section 11-604 of this code.
 
 
 

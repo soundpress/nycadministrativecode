@@ -1,6 +1,1840 @@
 Title 24: Environmental Protection and Utilities
 ===================================================
 
+Chapter 2: Noise Control
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: Short Title, Policy and Definitions**
+
+
+
+*§ 24-201 Short title.* ::
+
+
+This chapter shall be known and may be cited as the New York city noise control code.
+
+
+
+
+
+
+*§ 24-202 Declaration of policy.* ::
+
+
+It is hereby declared to be the public policy of the city to reduce the ambient sound level in the city, so as to preserve, protect and promote the public health, safety and welfare, and the peace and quiet of the inhabitants of the city, prevent injury to human, plant and animal life and property, foster the convenience and comfort of its inhabitants, and facilitate the enjoyment of the natural attractions of the city. It is the public policy of the city that every person is entitled to ambient sound levels that are not detrimental to life, health and enjoyment of his or her property. It is hereby declared that the making, creation or maintenance of excessive and unreasonable noises within the city affects and is a menace to public health, comfort, convenience, safety, welfare and the prosperity of the people of the city. For the purpose of controlling and reducing such noises, it is hereby declared to be the policy of the city to set the unreasonable and prohibited noise standards and decibel levels contained herein and to consolidate certain of its noise control legislation into this code. The necessity for legislation by enactment of the provisions of this chapter is hereby declared as matter of legislative determination. This code shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the emergency powers of the board of health or the right of the department of health and mental hygiene to engage in any of its necessary or proper activities. It is the intent of the council that the police department as well as other agencies of the city designated by the commissioner of the department of environmental protection shall have the authority to enforce the provisions of this code and police officers and designated employees of the department of environmental protection and of such other city agencies shall have the power to issue summonses, appearance tickets and notices of violation for violations of this code.
+
+
+
+
+
+
+*§ 24-203 General definitions.* ::
+
+
+When used in the New York city noise control code the following terms shall have the following meanings:
+
+(1) A" level means the sound level as measured with a sound level meter using the "A" weighting network. The unit of measurement is the dB(A). This frequency weighting network for the measurement of sound levels shall comply with standards established by the American National Standards Institute specifications for sound level meters S1.4-1971, as amended or S1.4-1983, as amended.
+
+(2) Activity means any act or combination of acts which actually results in the production of sound.
+
+(3) Air compressor means a device which draws in air or gas, compresses it, and delivers it at a higher pressure.
+
+(4) Air horn means a device intended to produce a sound signal by means of compressed air or gas or exhaust gas.
+
+(5) Airport means an area of land or water that is used or intended to be used for the landing and take off of aircraft, and includes its buildings and facilities, if any.
+
+(6) Ambient sound means the sound level at a given location that exists as a result of the combined contribution in that location of all sound sources, excluding the contribution of a source or sources under investigation for violation of this code and excluding the contribution of extraneous sound sources. For purposes of the enforcement of this code, the ambient sound level of a given location may be determined based upon measurements taken at a comparable site (which includes but is not limited to comparable physical locations and time of day) in the nearby area.
+
+(7) Apparatus means any mechanism which prevents, controls, detects, measures or records the production of sound.
+
+(8) Audible status indicator means any sound reproduction device on a motor vehicle that emits or causes to be emitted any continuous or near continuous sound (exceeding 5 seconds if tonal in nature or any duration if verbal in nature) for the purpose of warning that an audible burglar alarm has been installed on such motor vehicle and is operational or for creating the appearance that such an alarm has been installed on such motor vehicle and is operational.
+
+(9) Authorized emergency vehicle means an authorized emergency vehicle as defined by section 101 of the vehicle and traffic law.
+
+(10) Board means the environmental control board of the city of New York.
+
+(11) Building means a building as defined in section 27-232 of the administrative code.
+
+(12) Building aperture means any designed opening in a building to which a person may reasonably have access including but not limited to any door, gate, window, skylight or hatch.
+
+(13) Burglar alarm means any sound signal device designed and intended to produce a sound signal upon unauthorized entrance by a person into a building or motor vehicle.
+
+(14) "C" level means the sound level as measured with a sound level meter using the "C" weighting network. The unit of measurement is the dB(C). This frequency weighting network for the measurement of sound levels shall comply with standards established by the American National Standards Institute specifications for sound level meters S1.4-1971, as amended or S1.4-1983, as amended.
+
+(15) Certificate means an operating or temporary operating certificate.
+
+(16) Charter means the New York city charter including all of its amend- ments.
+
+(17) Circulation device means any device which circulates a gas or fluid, including but not limited to any air conditioner, pump, cooling tower, fan or blower.
+
+(18) Claxon means any manually, mechanically, or electrically powered device, other than an emergency signal device, including but not limited to a motor vehicle horn, which is intended to, and when operated actually does, emit a sound signal.
+
+(19) This code means the New York city noise control code.
+
+(20) Commissioner means commissioner of environmental protection or his or her authorized representative.
+
+(21) Construction or construction work means any or all activity necessary or incidental to the erection, demolition, assembling, altering, installing or equipping of buildings, public or private highways, roads, premises, parks, utility lines including such lines in already-constructed tunnels, or other property, including land clearing, grading, excavating and filling.
+
+(22) Construction device means any device designed and intended for use in construction including, but not limited to any air compressor, pile driver, sledgehammer, bulldozer, pneumatic hammer, steam shovel, derrick, crane, steam or electric hoist, construction vehicle or pneumatic or electric tool.
+
+(23) Construction material means any material, regardless of composition, designed and customarily used in construction including but not limited to any rails, pillars, columns, beams, bricks, flooring, wall, ceiling or roofing material, gravel, sand, cement or asphalt.
+
+(24) Container means any receptacle, regardless of contents, manufactured from wood, metal, plastic, paper or any other material including but not limited to any barrel, basket, box, crate, tub, bottle, can or refuse container.
+
+(25) Decibel means the practical unit of measurement for sound pressure level; the number of decibels of a measured sound is equal to 20 times the logarithm to the base 10 of the ratio of the sound pressure to the pressure of a reference sound (20 micropascals); abbreviated "dB".
+
+(26) Device means any mechanism which is intended to or which actually produces sound when operated or handled.
+
+(27) Department means the department of environmental protection.
+
+(28) Dwelling means any building lawfully occupied in whole or in part as the temporary or permanent residence of one or more natural persons.
+
+(29) Dynamic insertion loss means the difference between two sound pressure levels which are measured at the same point in space before and after a muffler is inserted between the measurement point and the sound source under operating conditions.
+
+(30) Emergency means a public calamity or an exposure of any person or property to imminent danger.
+
+(31) Emergency signal device means any gong, siren whistle, or siren or any air horn or any similar device the use of which on authorized emergency vehicles is permitted by subdivision twenty-six of section three hundred seventy-five of the vehicle and traffic law.
+
+(32) Exhaust source means a system which removes and transports air or gas from a device.
+
+(33) Extraneous sound is sound that is intense, intermittent, not representative of the relatively steady sound levels at a given location and not attributable to a source or sources under investigation for violation of this code. Such sound includes but is not limited to sirens of passing emergency vehicles, unusually loud motor vehicle braking (screeching) or exhaust noise, people shouting, animal vocalization, passing aircraft, horn honking, car door slamming and passing trains. Notwithstanding the foregoing provision, sounds that are individually persistent or controlling of the sound level at a given location shall not be considered to be extraneous sounds if they constitute more than 50 percent of the duration of an ambient or total sound level measurement such as for example the sound of a passing aircraft at a specific location if airplanes regularly pass over such location and the proximity of such passing aircraft to the location, its sound level, and the duration of such sound level, control the sound level at the given location at the time the sound source under investigation is being measured. For the purposes of the enforcement of this code, extraneous sounds are excluded when measuring the ambient sound level at a given location and when measuring the sound level of a source or sources under investigation for violation of this code except where such sounds are themselves under investigation for violation of this code.
+
+(34) Impulsive sound is sound that is of short duration, where each peak of sound lasts 2 seconds or less. The sound is characterized by abrupt onset and rapid decay. As used in this code, the term impulsive sound shall not include music.
+
+(35) Internal combustion engine means a device for the production of energy by means of the combustion under pressure of fossil fuel.
+
+(36) Lawn care device means any device powered mechanically, by electricity, by gasoline, by diesel fuel or by any other fuel, which is intended to be used or is actually used for the mowing of grass, the cutting or chipping of trees, tree roots or tree branches, or the clearing of leaves or other vegetation from lawns, sidewalks, public streets or public highways and shall include, but not be limited to, such devices as lawn mowers and lawn mower attachments, lawn edgers, leaf blowers, leaf vacuums, mulchers and chippers.
+
+(37) Lmax means the maximum measured sound level at any instant in time.
+
+(38) Motor vehicle means any device which is propelled by an engine in or upon which a person or material may be transported on the ground and which is intended to be operated upon a public highway.
+
+(39) Muffler means an apparatus generally consisting of but not limited to a series of chambers or baffles for the purpose of transmitting gases while reducing sound levels.
+
+(40) Owner means and includes the owner of the freehold of the premises or lesser estate therein, or mortgagee thereof, a lessee or agent of any of the above persons, a lessee of a device or his or her agent, a tenant, operator, or any other person who has regular control of a device or an apparatus.
+
+(41) Paving breaker means any powered construction device intended to cut or trench pavement, subbase macadam, gravel, concrete or hard ground.
+
+(42) Person means any individual, partnership, company, corporation, association, firm, organization, governmental agency, administration or department, or any other group of individuals, or any officer or employee thereof.
+
+(43) Personal audio device means a portable sound reproduction device as normally and customarily used for personal purposes including but not limited to a personal radio, phonograph, television receiver, tape recorder or compact disc player. For the purposes of this definition such term shall include a sound reproduction device installed in or operated from a motor vehicle whether or not portable.
+
+(44) Plainly audible sound means any sound for which any of the content of that sound, such as, but not limited to comprehensible musical rhythms, is communicated to a person using his or her unaided hearing faculties. For the purposes of the enforcement of this code, the detection of any component of music, including but not limited to the rhythmic bass by a person using his or her unaided hearing faculties is sufficient to verify plainly audible sound. It is not necessary for such person to determine the title, specific words or artist of such music. In the case of motor vehicles the detection of the sound of a muffler or of an exhaust by a person using his or her unaided hearing faculties is sufficient to verify plainly audible sound. Plainly audible sound does not require measurement with a sound level meter.
+
+(45) Power tool means any device powered mechanically, by electricity, by gasoline, by diesel fuel or by any other fuel, which is intended to be used or is actually used for, but shall not be limited to, the performance of such functions as cutting, nailing, stapling, sawing, vacuuming or drilling.
+
+(46) Public right-of-way means a public highway, road, street, avenue, alley, driveway, path, sidewalk, roadway or any other public place or public way.
+
+(47) Railroad means a railroad, other than a rapid transit railroad or street railroad, operated for public use in the conveyance of persons or property for compensation, with all bridges, ferries, tunnels, equipment, switches, spurs, tracks, stations and terminal facilities used, operated or owned by or in connection therewith.
+
+(48) Rapid transit railroad means a rapid transit railroad used for local service in the transportation of passengers as a common carrier for hire together with the appurtenances, facilities and equipment thereof.
+
+(49) Receiving property means real property, including but not limited to buildings, grounds, offices and dwelling units, from which sound levels from sound sources outside such property may be measured. For the purposes of this definition, individual offices or dwelling units within a building may constitute a receiving property.
+
+(50) Refuse collection vehicle means a motor vehicle designed or used to remove, collect, or transport refuse, solid waste or recyclables.
+
+(51) Sound means an oscillation in pressure, stress, particle displacement, particle velocity, etc., in a medium with internal forces (e.g., elastic, viscous), or the superposition of such propagated oscillation which evokes an auditory sensation.
+
+(52) Sound level meter means any instrument including a microphone, an amplifier, an output meter, and frequency weighting networks for the measurement of noise and sound levels in a specified manner and which complies with standards established by the Amercian National Standards Institute specifications for sound level meters S1.4-1971, as amended or S1.4-1983, as amended.
+
+(53) Sound pressure level (decibels) means an expression of the acoustic pressure calculated as twenty times the logarithm to the base ten of the ratio of the root mean square of the pressure of the sound to the reference pressure, 20 micropascals.
+
+(54) Sound reproduction device means a device intended primarily for the production or reproduction of sound, including but not limited to any musical instrument, radio receiver, television receiver, tape recorder, phonograph or electronic sound amplifying system.
+
+(55) Sound signal means any sound produced by a sound signal device designed to transmit information.
+
+(56) Sound signal device means a device designed to produce a sound signal when operated, including but not limited to any claxon, air horn, whistle, bell, gong, siren, but not an emergency signal device.
+
+(57) Sound source means any activity or device that emits sound.
+
+(58) This code means the New York city noise control code.
+
+(59) Total sound level means that measured sound level that represents the combined sound level of the source or sources under investigation and the ambient sound level. Total sound level measurements shall exclude extraneous sound sources.
+
+(60) Tunnel means an underground passage which is intended for use as a railway, aqueduct, road, sewer or major utility artery.
+
+(61) Tunneling means any activity necessary or incidental to the construction of any tunnel, including the sinking of shafts to tunnel or to an intermediate level and the surface activities required to sink the shafts and construct the tunnel.
+
+(62) Unreasonable noise means any excessive or unusually loud sound that disturbs the peace, comfort or repose of a reasonable person of normal sensitivities, injures or endangers the health or safety of a reasonable person of normal sensitivities or which causes injury to plant or animal life, or damage to property or business.
+
+(63) Refuse collection facility means any structure, building or other premises at which solid waste is received for the purpose of subsequent transfer to another location regardless of whether such solid waste is subject to any processing or reduction in volume at such structure, building or premises.
+
+
+
+
+
+
+
+**Subchapter 2: General Provisions**
+
+
+
+*§ 24-204 General powers of the commissioner.* ::
+
+
+(a) Subject to the provisions of this code, the commissioner may take such action as may be necessary to abate a sound source which causes or may cause, by itself or in combination with any other sound source or sources, an unreasonable or prohibited noise. The commissioner may exercise or delegate any of the functions, powers and duties vested in him or her or in the department by this code.
+
+(b) The commissioner shall promulgate such rules as are necessary to effectuate the purposes of this code, including, without limitation, rules setting forth specifications for the operation, installation, best available technology, or manufacture of sound generating equipment or devices, or sound mitigation equipment or devices.
+
+(c) The commissioner shall promulgate such rules as are necessary with regard to standards and procedures to be followed in the measurement of sound pressure levels governed by the provisions of this code, provided that such standards and procedures are substantially in compliance with any similar standards and procedures promulgated by the American National Standards Institute, International Standards Organization, Society of Automotive Engineers, Compressed Air and Gas Institute, American Society of Heating, Refrigeration, and Air Conditioning Engineers, American Refrigeration Institute or any generally recognized professional standard-setting organization.
+
+(d) The police department, as well as other agencies of the city designated by the commissioner, shall have the authority to enforce the provisions of this code and police officers and designated employees of the department and of such other city agencies shall have the power to issue summonses, appearance tickets and notices of violation for violations of this code.
+
+
+
+
+
+
+*§ 24-205 Investigations and studies by the commissioner.* ::
+
+
+(a) The commissioner may make or cause to be made any investigation or study which in his or her opinion is desirable for the purpose of enforcing this code or controlling or abating an unreasonable or prohibited noise. For such purposes, the commissioner may make tests, conduct hearings, compel the attendance of witnesses, and take their testimony under oath and may compel the production of books, papers and other things reasonably necessary to the matter under consideration.
+
+(b) The commissioner shall study and propose strategies to control and/or reduce sound levels associated with airports, rapid transit and railroad operations and within twenty-four months of the effective date of this section shall report to the mayor his or her findings and recommendations, specifically identifying those recommendations that may only be implemented through state or federal legislation or rules.
+
+(c) The commissioner, in conjunction with the police department, shall study noise abatement strategies for audible motor vehicle burglar alarms and within twenty-four months of the effective date of this section shall report to the mayor his or her findings and recommendations.
+
+(d) The commissioner, in conjunction with the police department, shall study on an ongoing basis emerging technology in acoustical measurement and shall periodically report to the mayor his or her findings and recommendations regarding the testing and potential use of equipment for enforcement of this code. In conjunction with such study, the commissioner may issue a request for expressions of interest to determine new and emerging technological solutions for accurate and efficient measurement of sounds as enumerated in this code.
+
+(e) The commissioner shall study the impact of motor vehicle back-up warning devices installed on motor vehicles on ambient sound levels and within twenty-four months of the effective date of this section shall report to the mayor his or her findings and recommendations, specifically identifying those recommendations that may only be implemented through state or federal legislation.
+
+
+
+
+
+
+*§ 24-206 Testing by order of the commissioner.* ::
+
+
+(a) If the commissioner has reasonable cause to believe that any device is in violation of this code, the commissioner may order the owner of the device to conduct such tests as are necessary in the opinion of the commissioner to determine whether the device or its operation is in violation of this code and to submit the test results to the commissioner within ten days after the tests are completed.
+
+(b) Such tests shall be conducted in a manner approved by the commissioner. If any part of the test is conducted at a place other than the site where the device is located, that part of the test shall be certified by a laboratory acceptable to the commissioner. The commissioner may require that the entire test results shall be reviewed and certified by (i) a professional engineer with acoustical experience as specified in the rules of the department or (ii) a noise consultant with qualifications of education and/or acoustical experience as set forth in the rules of the department.
+
+(c) If in the opinion of the commissioner, tests by the department are necessary, the commissioner may order the owner to provide such access to the device as the commissioner may reasonably request, to provide a power source suitable to the points of testing, and to provide allied facilities, exclusive of sound level meter. These provisions shall be made at the expense of the owner of the device. The owner shall be furnished with copies of the analytical results of the data collected.
+
+(d) If after the analysis of such testing, it is determined by the commissioner that such device or devices generate sound levels that exceed the limits of this code, the commissioner may make recommendations for modifications and/or mitigation measures to bring such device or devices into compliance.
+
+(e) The commissioner may issue a separate notice of violation for every 24-hour period of noncompliance with the orders of the commissioner issued pursuant to this section.
+
+
+
+
+
+
+*§ 24-207 Inspection.* ::
+
+
+(a) The department may inspect at any reasonable time and in a reasonable manner any device which creates or may create unreasonable or prohibited noise including but not limited to the premises where the device is used.
+
+(b) The department may inspect at any reasonable time and in a reasonable manner any record relating to a use of a device which creates or may create unreasonable or prohibited noise.
+
+(c) No person shall refuse entry or access into the public areas of a multiple dwelling or a place of business to an authorized employee of the department or other authorized city employee who presents appropriate credentials, nor shall any person refuse entry or access into any other portion of a premises to an authorized employee of the department or other authorized city employee who presents appropriate credentials and a warrant for such inspection.
+
+(d) No person shall refuse to allow an authorized employee of the department or other authorized city employee who presents appropriate credentials to perform reasonable sound testing on any device or devices, including but not limited to requiring the temporary shutting down of said device or devices for the purposes of such testing except that upon a showing that the inspection would produce a noticeable interruption of services that would cause discomfort to employees or customers or require a building engineer or other professional to work with the equipment, such authorized employee shall reschedule the inspection for a more convenient time.
+
+(e) The commissioner shall adopt rules prescribing specific time frames for inspections in response to after hours noise complaints received by the department in order to ensure that such inspections are most likely to occur at (i) a time that the alleged noise is continued from the time of the complaint or (ii) at a time when the alleged noise is likely to be repeated.
+
+*(f) The commissioner shall publish on the city’s website the manner by which noise levels shall be measured during inspections conducted pursuant to this section and in accordance with section 24-217.1 which shall be available online.
+
+*(f) By no later than January 31 of each year, the department shall submit to the mayor and the council, and publicly post on its website, a report, containing, at a minimum, for the previous calendar year:
+
+* Editor's note: there are two subsections designated as (f).
+
+   (i) the number of inspectors employed by the department;
+
+   (ii) the number of complaints regarding noise received by the department, disaggregated by the type of noise;
+
+   (iii) the number of after hours noise complaints responded to within the amount of time prescribed by rule as well as the number of duplicative after hours noise complaints;
+
+   (iv) the number of non-violation resolutions to complaints;
+
+   (v) the number of noise related violations issued;
+
+   (vi) the number of such violations which were dismissed;
+
+   (vii) the amount of civil penalties which were paid pursuant to such violations;
+
+   (viii) the number of alternative noise mitigation plans approved pursuant to section 24-221 of this code; and
+
+   (ix) the number of written stop work orders issued pursuant to section 24-223.1 of this code.
+
+
+
+
+
+
+
+
+*§ 24-208 Registrations.* ::
+
+
+(a) The commissioner may require the written registration of air compressors, paving breakers, refuse compacting vehicles and rapid transit railroads, including but not limited to its rolling stock, track and trackbeds, passenger stations, circulation devices rated 300,000 BTUs or higher, tunnels, elevated structures, yards, depots and garages. A period of sixty days shall be allowed for the filing of such registration measured from the date such registration is required by the commissioner or with respect to devices installed after such requirement is instituted measured from the date of installation. However, in cases of emergency, the commissioner may designate a shorter period of time.
+
+(b) Registration shall be made on forms furnished by the department. The forms may require information concerning the device covered by the registration, the sound level caused by the device or any additional information required by the commissioner for the purpose of enforcing this code. The registrant shall maintain the registration in current status by notifying the department of any change in any item of information furnished in compliance with this subdivision within a reasonable time not exceeding thirty days after the change is made.
+
+(c) Registration shall be made by the owner of the device. If a registrant is a partnership or group other than a corporation, the registration shall be made by one individual who is a member of the group. If the registrant is a corporation, the registration shall be made by an officer of the corporation.
+
+
+
+
+
+
+*§ 24-209 Interfering with or obstructing department personnel.* ::
+
+
+No person shall interfere with or obstruct the commissioner or any department employee in carrying out any duty for the commissioner or the board.
+
+
+
+
+
+
+*§ 24-210 False and misleading statements; unlawful reproduction or alteration of documents.* ::
+
+
+(a) No person shall knowingly make a false or misleading statement or submit a false or misleading document to the department as to any matter within the jurisdiction of the department.
+
+(b) No person shall make, reproduce or alter or cause to be made, reproduced or altered a tunneling permit, certificate or other document issued by the commissioner or required by this code if the purpose of such reproduction or alteration is to evade or violate any provision of this code or any other law.
+
+
+
+
+
+
+*§ 24-211 Display of permits and certificates.* ::
+
+
+Any tunneling permit or certificate required by this code shall be displayed in the vicinity of the device on the premises designated on the tunneling permit or certificate or in the vicinity of the place where the device will be operated or supervised.
+
+
+
+
+
+
+*§ 24-212 Enforcement of code by other than compulsory means.* ::
+
+
+Nothing in this code shall prevent the commissioner from making efforts to obtain voluntary compliance by way of warning, notice or educational means. However, such noncompulsory methods need not be used before proceeding by way of compulsory enforcement.
+
+
+
+
+
+
+*§ 24-213 Service of papers.* ::
+
+
+(a) Service of any written notice, order or decision required by this code shall be made on the owner as follows:
+
+   (1) Either by mailing the notice, order or decision directed to the owner of the device at the address listed in his or her application, tunneling permit or operating certificate or at the address where the device is located; or
+
+   (2) By leaving the notice, order or decision with the owner of the device, or if the owner is not an individual, with a member of the partnership or group concerned or with an officer or managing agent of the corporation.
+
+(b) Service of any written notice, order or decision required by this code shall be made on a person:
+
+   (1) Either by mailing the notice, order or decision directed to the person at his or her principal place of business or home address; or
+
+   (2) By leaving the notice, order or decision with the person, or if the person is not an individual, with a member of the partnership or group concerned, or with an officer or managing agent of the corporation.
+
+(c) Service of any written notice required by this code shall be made on the department, commissioner or board as follows:
+
+   (1) Either by mailing the notice to the commissioner; or
+
+   (2) By leaving the notice at the department or with an employee of the department designated for this purpose.
+
+
+
+
+
+
+*§ 24-214 Inconsistent provisions.* ::
+
+
+Insofar as the provisions of this code are inconsistent with any provision of any other title of the code, or any rule or regulation of any governmental agency of the city of New York, the provisions of this code shall be controlling.
+
+
+
+
+
+
+*§ 24-216 Noise abatement contract compliance.* ::
+
+
+(a) (1) Contract. As used in this section, the term "contract" means any written agreement, purchase order or instrument whereby the city is committed to expend or does expend funds authorized by the capital budget of the city of New York in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing; however, the term "contract" shall not include:
+
+      (i) contracts for financial or other assistance made with a government;
+
+      (ii) contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award and sale of bonds, certificates of indebtedness, notes or other fiscal obligations of the city, or consisting thereof;
+
+      (iii) employment by the city of officers and employees of the city.
+
+   (2) Contracting agency. As used in this section, the term "contracting agency" means any board, bureau, department, commission or other agency of the government of the city of New York, or any official thereof, who or which is authorized to and does, on behalf of the city, provide for, enter into, award or administer contracts or any other public agency which enters into, awards or administers contracts pursuant to which funds authorized by the capital budget of the city of New York are expended.
+
+(b) Contract provisions. No contract shall be awarded or entered into by a contracting agency, unless such contract contains provisions requiring that:
+
+   1. Devices and activities which will be operated, conducted, constructed or manufactured pursuant to the contract and which are subject to the provisions of the code will be operated, conducted, constructed or manufactured without causing a violation of the code; and
+
+   2. Such devices and activities incorporate advances in the art of noise control developed for the kind and level of noise emitted or produced by such devices and activities.
+
+(c) Regulations. The commissioner may from time to time promulgate regulations setting forth such specifications for the operation, conducting, construction or manufacture of devices and activities pursuant to city contracts as he or she deems necessary to comply with the provisions of this section.
+
+(d) No person shall cause or permit the operation of a device or conducting of an activity in such a way as to violate any provision of a contract required by this section or any regulation promulgated pursuant to this section.
+
+(e) No regulations promulgated pursuant to this section shall alter the terms, conditions and specifications of a contract for which bids have been opened, at the time of issuance of such regulation.
+
+
+
+
+
+
+*§ 24-217 Exemptions.* ::
+
+
+The provisions of this code shall not apply to the operation or use of any organ, bell, chimes or other similar instrument from on or within any church, synagogue, mosque or other house of worship.
+
+
+
+
+
+
+*§ 24-217.1 Measurements.* ::
+
+
+Unless otherwise specifically provided, all sound level measurements under this code shall be taken in Lmax with the sound level meter set to slow response.
+
+
+
+
+
+
+
+**Subchapter 3: Prohibited Noise; General Prohibition**
+
+
+
+*§ 24-218 General prohibitions.* ::
+
+
+(a) No person shall make, continue or cause or permit to be made or continued any unreasonable noise.
+
+(a-1) No person shall make, continue or cause to permit or be made or continued any unreasonable noise:
+
+   (1) for any commercial purpose or during the course of conducting any commercial activity; or
+
+   (2) through the use of a device, other than a device used within the interior living space of an individual residential unit, installed within or upon a multiple dwelling or a building used in part or in whole for non-residential purposes.
+
+(b) Unreasonable noise shall include but shall not be limited to sound, attributable to any device, that exceeds the following prohibited noise levels:
+
+   (1) Sound, other than impulsive sound, attributable to the source, measured at a level of 7 dB(A) or more above the ambient sound level at or after 10:00 p.m. and before 7:00 a.m., as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way.
+
+   (2) Sound, other than impulsive sound, attributable to the source, measured at a level of 10 dB(A) or more above the ambient sound level at or after 7:00 a.m. and before 10:00 p.m., as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way.
+
+   (3) Impulsive sound, attributable to the source, measured at a level of 15 dB(A) or more above the ambient sound level, as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way. Impulsive sound levels shall be measured in the A-weighting network with the sound level meter set to fast response. The ambient sound level shall be taken in the A-weighting network with the sound level meter set to slow response.
+
+(c) Notwithstanding the provisions of subdivision b of this section, where a particular sound source or device is subject to decibel level limits and requirements specifically prescribed for such source or device elsewhere in this code, the decibel level limits set forth in this section shall not apply to such sound source or device.
+
+(d) The decibel level limits set forth in this section shall not apply to sound attributable to construction devices and activities.
+
+(e) Where the commissioner finds that sound from any refuse collection facility regulated by the department of sanitation exceeds the decibel level limits set forth in this section, the commissioner shall order the operator of such facility to submit a certification by a professional engineer as to whether or not the facility is in compliance with the noise standards required by the department of sanitation rules (16 RCNY Ch. 4) and if not in compliance, the mitigation measures that will be undertaken to bring such facility into compliance. The testing and certification must be submitted to the department and to the department of sanitation within forty-five days after the issuance of such order. A facility that complies with an order issued pursuant to this section and with any required mitigation measures shall be deemed to be in compliance with the decibel limits of this section. With respect to any refuse collection facility owned or operated by the department of sanitation such facility shall be deemed to be in compliance with the decibel level limits of this section if it is in compliance with a best management practices plan developed in conjunction with the department. A notice of violation may only be issued for a refuse collection facility pursuant to this section where the operator of such facility fails to comply with an order of the commissioner issued pursuant to this subdivision or the mitigation measures set forth in a certification.
+
+
+
+
+
+
+
+
+*§ 24-218.1 Use of mobile telephones restricted in a place of public performance.* ::
+
+
+a. Definitions. For purposes of this section:
+
+   (1) The term "mobile telephone" shall mean a cellular, analog, wireless, digital or other similar telephone or communications device, which can be used to access two-way real time voice telecommunications service that is interconnected to a public switched telephone network and is provided by a commercial mobile radio service, as such term is defined by 47 CFR § 20.3.
+
+   (2) The term "use" shall mean to receive a mobile telephone call signaled by an audible sound, dial a mobile telephone, or talk or listen on a mobile telephone.
+
+   (3) The term "place of public performance" shall mean the area, room, or chamber of any indoor theatre, library, museum, gallery, motion picture theatre, concert hall, or building in which theatrical, musical, dance, motion picture, lecture, or other similar performances are exhibited. This term shall not include any area or venue in which professional or amateur sporting events are taking place.
+
+b. No person shall use a mobile telephone in a place of public performance while a theatrical, musical, dance, motion picture, lecture or other similar performance is taking place.
+
+c. Exception. The provisions of this section shall not apply to an individual who uses a mobile telephone to contact an emergency response operator, hospital, physician's office or health clinic, ambulance company, fire company, first aid squad or police department in an emergency situation or in any other circumstance which may be deemed an emergency.
+
+d. Notice to patrons.
+
+   (1) The owner, operator, manager or other person having control of any place of public performance shall, at every theatrical, musical, dance, motion picture, lecture or other similar performance, provide prominent and conspicuous notice to patrons by means of announcement, signage, printed material, or other similar means indicating that mobile telephone use is prohibited as prescribed in subdivision b of this section. The commissioner of environmental protection may promulgate rules regarding the size, style and location of such notices, but in promulgating such rules, the commissioner of environmental protection shall take into consideration the concerns of the various types of establishments regulated herein with respect to the style and design of such notices.
+
+   (2) In addition, the owner, operator, manager or other person having control of any motion picture theatre in which motion pictures are exhibited to the public shall, prior to the showing of each feature motion picture, show upon the movie screen information indicating that mobile telephone use is prohibited as prescribed in subdivision b of this section.
+
+
+
+
+
+
+
+**Subchapter 4: Construction Noise Management**
+
+
+
+*§ 24-219 Noise mitigation rules.* ::
+
+
+(a) The commissioner shall adopt rules prescribing noise mitigation strategies, methods, procedures and technology that shall be used where construction is occurring at any location (sites) whenever any one or more of the construction devices or activities listed below are employed or performed:
+
+   (1) air compressors.
+
+   (2) pile drivers.
+
+   (3) sledgehammers.
+
+   (4) bulldozers.
+
+   (5) pneumatic hammers.
+
+   (6) interior renovation as defined in such rules.
+
+   (7) derricks.
+
+   (8) cranes.
+
+   (9) electric powered hoists.
+
+   (10) off-road construction vehicles other than trucks.
+
+   (11) pumps.
+
+   (12) pneumatic tools.
+
+   (13) blasting.
+
+   (14) power tools.
+
+   (15) tunneling machines.
+
+   (16) construction devices with internal combustion engines.
+
+   (17) construction devices that emit impulsive sound.
+
+   (18) construction devices that create vibration.
+
+   (19) metal plates used in street construction to temporarily cover excavations.
+
+   (20) any other construction devices or activities specified in such rules.
+
+(b) Such rules shall include but shall not be limited to:
+
+   (1) The use of perimeter fences with acoustical insulation, where appropriate.
+
+   (2) The use of portable barriers with acoustical insulation, where appropriate.
+
+   (3) The use of acoustical blanket insulation, where appropriate.
+
+   (4) Testing of exhaust mufflers and certification, in a form and manner to be specified in the rules, that mufflers meet factory specifications for noise emissions at maximum loading at the commencement of construction at the site.
+
+   (5) The development of generic noise mitigation plans, where appropriate.
+
+   (6) Additional mitigation measures for sensitive receptors such as hospitals and schools, where appropriate.
+
+(c) The commissioner shall appoint an advisory committee, which shall include, but shall not be limited to, representatives of utility companies and the construction industry, including those industries related to heavy construction, persons with acoustical expertise and/or expertise regarding the health effects of noise, a representative of the city council and employees of the department and of other relevant city agencies. The committee shall provide advice and recommendations to the department relating to construction noise mitigation and shall assist the department in the development of the noise mitigation rules required by this section. The commissioner shall consult with the committee regarding any proposed amendments of such rules. In the development of such rules the commissioner shall consider factors such as the availability, cost and safety of proposed noise mitigation measures.
+
+(d) The commissioner shall ensure that all noise mitigation plans submitted in accordance with subdivision (e) of section 24-220 and all approved alternative noise mitigation plans submitted in accordance with section 24-221 to the department after the effective date of the local law that added this subdivision are made publicly available on the city’s website.
+
+
+
+
+
+
+
+
+*§ 24-220 Noise mitigation plan.* ::
+
+
+(a) Each person, corporation or other business entity performing construction work in the city shall adopt and implement a noise mitigation plan for each construction site in accordance with the provisions of this subchapter and such rules whenever any one or more of the construction devices or activities listed above or in the department's rules are employed or performed at the site.
+
+(b) Such plan shall be adopted prior to the commencement of construction at the site or, with respect to emergency work, as defined in the department's rules, within three days thereafter, and shall apply to all work at the site throughout the construction process. The plan shall provide in detail the noise mitigation strategies, methods, procedures and technology, as prescribed in the rules of the department or specifically approved by the commissioner in accordance with section 24-221 of this code, for each device or activity employed or performed at the site. Each permit holder or other person in charge of such construction site will be accountable for compliance with such rules and shall ensure that each person performing construction work at the site shall be aware of the plan and shall be responsible for complying with those provisions that affect his or her work.
+
+(c) A copy of the plan shall be kept at the construction site and shall be displayed in a conspicuous manner on the exterior of the construction site and made accessible for inspection by the public and persons authorized to enforce the provisions of this code provided that where there are no exterior structures on the construction site such plan need only be kept at the site and made accessible for inspection by the public and persons authorized to enforce the provisions of this code.
+
+(d) The plan shall be amended whenever additional devices or activities unforeseen at the commencement of construction are employed at the site or at the direction of the commissioner in accordance with section 24-223 of this subchapter.
+
+(e) The plan shall be filed electronically with the department no later than 30 days after the commencement of construction if it conforms in all respects to the rules of the department with respect to construction devices and activities employed or performed at the construction site. A plan that deviates in any respect from such rules or an alternative noise mitigation plan required to be certified in conjunction with an undue hardship application pursuant to paragraph (5) of subdivision (e) of section 24-223 shall be subject to the prior approval of the commissioner in accordance with section 24-221 of this code.
+
+(f) This section shall not apply to construction work in connection with the alteration or repair of an existing one or two family owner-occupied dwelling classified in occupancy group J-3 or a convent or rectory.
+
+
+
+
+
+
+
+
+*§ 24-221 Alternative noise mitigation plan.* ::
+
+
+(a) Upon application, the commissioner may approve an alternative noise mitigation plan for a particular construction site that deviates from strict compliance with the noise mitigation rules. Application for approval of such plan shall be electronically submitted to the department at least ten business days prior to the commencement of construction or as soon as practicable but no later than 24 hours prior to the commencement of construction in a form and manner and accompanied by such information and documentation as shall be set forth in the rules of the department. An application for approval may be submitted after the commencement of construction if an application includes a showing that all reasonable available mitigation measures have been implemented since the commencement of construction but aggregate sound levels from the site exceed or are reasonably anticipated to exceed one or more of the applicable limits in this chapter.
+
+The commissioner may approve such alternative noise mitigation plan if he or she finds that:
+
+   (1) strict compliance with the noise mitigation rules would not be possible or would create an undue hardship because of the location or unique characteristics of the site or of the construction devices or activities to be employed or performed at the site; and
+
+   (2) the alternative noise mitigation strategies, methods, procedures or equipment proposed are consistent with the purposes and policies of this code.
+
+(b) Where the commissioner rejects an alternative noise mitigation plan, an applicant may appeal such rejection in accordance with the rules of the department. An alternative plan shall not be in effect unless and until it has been approved by the commissioner except that where a timely alternative plan has been filed with the commissioner for approval, a construction site in compliance with such alternative plan shall be deemed to be in compliance with this section unless and until such plan is rejected by the commissioner and for a reasonable time thereafter as determined by the commissioner.
+
+(c) Notwithstanding any other provision of this chapter, construction work performed in accordance with an approved alternative noise mitigation plan containing decibel level limits and requirements prescribed for specific sources or devices that is in full compliance with this section and the rules promulgated by the department thereunder shall be deemed to be in full compliance with all decibel level limits set forth in any other section of this chapter.
+
+
+
+
+
+
+
+
+*§ 24-222 After hours and weekend limits on construction work.* ::
+
+
+Except as otherwise provided in this subchapter, it shall be unlawful to engage in or to cause or permit any person to engage in construction work other than on weekdays between the hours of 7 a.m. and 6 p.m. A person may however perform construction work in connection with the alteration or repair of an existing one or two family owner-occupied dwelling classified in occupancy group J-3 or a convent or rectory on Saturdays and Sundays between the hours of 10 a.m. and 4 p.m. provided that such dwelling is located more than 300 feet from a house of worship.
+
+
+
+
+
+
+*§ 24-223 After hours work authorization.* ::
+
+
+(a) Notwithstanding section 24-222 of this subchapter, an agency authorized to issue permits for construction work may, along with such permit, issue an after hours work authorization for the work site. Such after hours authorization may permit construction work to be performed at the site before 7 a.m. or after 6 p.m. on weekdays and/or on Saturdays and/or Sundays subject to the conditions and restrictions set forth in this section.
+
+(b) The agency issuing such authorization must obtain a certification from its permittee that the permittee has developed a noise mitigation plan for the site in accordance with this subchapter and that such plan is in compliance with the noise mitigation rules. In the case of emergency work such certification shall be submitted within 3 days after the commencement of the work.
+
+(c) If after hours work at the site is not being performed in compliance with such plan or where no plan is in effect, the department or the agency issuing such authorization, at the request of the commissioner or on its own account, may take appropriate action, including but not limited to the refusal to renew such after hours authorization.
+
+(d) During the time that an after hours authorization is in effect, notwithstanding full compliance with the noise mitigation plan the department shall issue an advisory or a violation where aggregate sound levels from the site exceed the following limits:
+
+   (1) 8dB(A), and on or after January 1, 2020, 7 dB(A) above the ambient sound level as measured in any residential receiving property dwelling unit with windows and doors that may affect the measurement closed, or
+
+   (2) the noise levels specified in section 24-228(a) of this code on a construction site that is not within 200 feet of a residential receptor, or
+
+   (3) except as provided in paragraph (4) of this subdivision, 80dB(A), and on or after January 1, 2020, 75 dB(A) as measured 50 or more feet from the source or sources at a point outside the property line where the source or sources are located or as measured 50 or more feet from the source or sources on a public right-of-way when that source is within 200 feet of a residential receptor, or
+
+   (4) 85dB(A) as measured 50 or more feet from the source or sources at a point outside the property line where the source or sources are located, or as measured 50 or more feet from the source or sources on a public-right-of-way when the source is street construction.
+
+(e) Authorization for after hours construction work may only be issued in the following circumstances:
+
+   (1) Emergency work. Agencies shall authorize such after hours construction work for emergency conditions, inside or outside the property line, involving a threat to public safety or causing or likely to cause the imminent interruption of service required by law, contract or franchise. An emergency authorization issued pursuant to this paragraph shall expire as determined by the agency but no later than the ninetieth day after its issuance and shall be renewable in accordance with agency procedures while the emergency continues.
+
+   (2) Public safety. Agencies may authorize such after hours work, inside or outside of the property line, where the agency determines that the work cannot reasonably or practicably be performed on weekdays between the hours of 7 a.m. and 6 p.m. because of traffic congestion and/or concern for worker and/or public safety. An authorization issued pursuant to this paragraph shall expire as determined by the agency but no later than the ninetieth day after its issuance and shall be renewable in accordance with agency procedures.
+
+   (3) City construction projects. Agencies may authorize after hours work by or on behalf of city agencies for projects that are judicially mandated or the subject of consent orders and/or where a project is necessary in the public interest including but not limited to facilities, equipment, and infrastructure for the provision of water, sewerage, sanitation, transportation and other services necessary for the health or safety of the public. An authorization issued pursuant to this paragraph for a city construction project shall remain in effect for the duration of the project.
+
+   (4) Construction activities with minimal noise impact. The commissioner shall promulgate rules setting forth a list of construction activities with minimal noise impact and specific noise mitigation measures applicable to such activities. Agencies may authorize the performance of such construction activities after hours in accordance with such rules.
+
+   (5) Undue hardship. Agencies may authorize after hours work if the commissioner certifies that the permit holder has substantiated a claim of undue hardship resulting from unique site characteristics, unforeseen conditions, scheduling commitments and/or financial considerations outside the control of the permit holder and that the applicant has received approval from the department of an alternative noise mitigation plan pursuant to section 24-221 of this subchapter, specifying the activities and devices that will be used for such after hours construction and setting forth the additional mitigation measures, above and beyond those measures otherwise required for such devices and activities pursuant to the department's rules, that the applicant will use to significantly limit noise emissions from the site of such after hours work. Applications for such certification shall be submitted to the department in a form and manner to be set forth in the rules of the department. The applicant for an after hours authorization under this paragraph shall submit such certification to the issuing agency.
+
+
+
+
+
+
+
+
+*§ 24-223.1 Stop work order.* ::
+
+
+(a) Whenever the department finds that any work is being performed in violation of section 24-222 or section 24-228 or any rules promulgated thereunder, and such work poses a threat to human health and safety, the department may issue a stop work order with respect to such work or solely with respect to the equipment used for work being performed in violation of section 24-222 or 24-228.
+
+(b) Such order may be given (i) verbally or (ii) posted at the site and served personally on or mailed to the owner, lessee or occupant of the site, or to the person executing the work at the site, or to the agent of any of them and shall include the reason for the issuance of the stop work order. A verbal stop work order shall be followed promptly by a written order in accordance with this subdivision.
+
+(c) Upon issuance of a stop work order, work specified in the order shall immediately cease, except work authorized or required by the commissioner or the head of any other agency to ensure public safety or to stabilize the site.
+
+(d) No person shall with knowledge or notice of a stop work order allow, authorize, promote, continue or cause to be continued such work that is the subject of the stop work order.
+
+(e) A stop work order issued pursuant to subdivision a of this section may be appealed in accordance with the rules of the department, and the commissioner shall provide notice and an opportunity to be heard within 14 days of the filing of such appeal. A stop work order shall be lifted if, upon appeal, the commissioner determines that the issuance of such order was not proper, or upon the submission of proof satisfactory to the commissioner that the requirements of such order have been satisfied. In the case of a verbal order, if the commissioner determines that the condition that gave rise to the order has been immediately corrected, including but not limited to which devices or activities may not be used or performed at the same time and which activities may be prohibited, such order shall be lifted at once and shall not be followed by a written order.
+
+
+
+
+
+
+
+
+*§ 24-224 Construction work without noise mitigation plan unlawful.* ::
+
+
+It shall be unlawful to perform work at any construction site in the city that is not in compliance with a noise mitigation plan where such plan is required pursuant to this subchapter and with the noise mitigation rules adopted pursuant to this subchapter.
+
+
+
+
+
+
+
+
+
+**Subchapter 5: Prohibited Noise Specific Noise Sources=msound Level Standard**
+
+
+
+*§ 24-225 Refuse collection vehicles.* ::
+
+
+(a) No person shall sell, offer for sale, operate or permit to be operated a refuse collection vehicle, equipped with a compacter, that produces a maximum sound level when the compacting mechanism is in the compacting cycle but not engaged in compacting a load that exceeds 80 dB(A), when measured by a sound level meter set for slow response at a distance of 35 feet or more from the compacting unit.
+
+(b) It shall be unlawful to operate or cause to be operated a refuse collection vehicle, including such a vehicle equipped with a compacter, within 50 feet of any residential receiving property at or after 11:00 p.m. and before 7:00 a.m. if the aggregate sound, not including impulsive sound, generated by the collection and compacting activities exceeds 85 dB(A) when measured by a sound level meter set to slow response at a distance of 35 feet or more from the vehicle. On and after July 1, 2012 such aggregate sound shall not exceed 80 dB(A). The provisions of this subdivision shall not apply to the operation of refuse collection vehicles during an emergency such as a storm or other event that causes delays in refuse collection.
+
+
+
+
+
+
+*§ 24-226 Air compressors.* ::
+
+
+(a) No person shall operate or cause to be operated an air compressor unless it is equipped with an appropriate muffler with no exhaust leaks.
+
+(b) No person shall sell, offer for sale for use within the city of New York, or operate or permit to be operated an air compressor that, when operated, produces a maximum sound level, when measured at a distance of one meter or more from the nearest major surface of such air compressor, exceeding 80 dB(A) for sizes greater than 350 cfm or exceeding 75 dB(A) for sizes 350 cfm or less.
+
+(c) Except for construction work outside the property line on a public right-of-way, no person shall operate or permit to be operated an air compressor so as to generate sound levels in excess of 75 dB(A) as measured at any receiving property.
+
+
+
+
+
+
+*§ 24-227 Circulation devices.* ::
+
+
+(a) No person shall operate or permit to be operated a circulation device in such a manner as to create a sound level in excess of 42 dB(A) when measured inside a receiving property dwelling unit. The measurement shall be taken with the window or terrace door open at a point three feet from the open portion of the window or terrace door.
+
+(b) On and after the effective date of this section, when a new circulation device is installed on any building lot or an existing device on any building lot is replaced, the cumulative sound from all circulation devices on such building lot owned or controlled by the owner or person in control of the new device being installed or the existing device being replaced shall not exceed 45 dB(A), when measured as specified in subdivision a of this section. For a period of two years after the effective date of this section, this subdivision shall not apply to the replacement of a circulation device that was installed on any building lot prior to the effective date of this section by a device of comparable capacity.
+
+(c) Except as otherwise provided in subdivision b of this section, with respect to circulation devices installed on any building lot prior to the effective date of this section, the sound level limit of 42 dB(A) referred to in subdivision a of this section shall apply to each individual device except that if the cumulative sound from all devices owned or controlled by the same person on a building lot exceeds 50 dB(A), when measured as specified in subdivision a of this section, the commissioner may order the owner or person in control of such devices to achieve a 5 dB(A) reduction in such cumulative sound level within not more than 12 months after the issuance of such order.
+
+(d) The commissioner may recommend to the board that there shall be no civil penalty imposed for a first violation of this section if, within forty five days of the return date set forth on the notice of violation, the respondent admits liability for the violation and files a certification with the department in a form and manner and containing such information and documentation as shall be prescribed in the department's rules that (i) permanent improvements or modifications have been made to the establishment, including but not limited to the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials; and (ii) appropriate sound measurements taken in accordance with the department's rules substantiate that the establishment is in full compliance with the sound levels set forth in this section. If the commissioner accepts such certification of compliance, he or she shall recommend to the board that no civil penalty shall be imposed for the violation. Such violation may nevertheless serve as a predicate for purposes of imposing penalties for subsequent violations of this section.
+
+
+
+
+
+
+*§ 24-228 Construction devices.* ::
+
+
+(a) No person shall operate or use or cause to be operated or used a construction device or combination of devices in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to sound that exceeds the following prohibited noise levels:
+
+   (1) Sound, other than impulsive sound, attributable to the source or sources, that exceeds 85 dB(A) as measured 50 or more feet from the source or sources at a point outside the property line where the source or sources are located or as measured 50 or more feet from the source or sources on a public right-of-way.
+
+   (2) Impulsive sound, attributable to the source, that is 15 dB(A) or more above the ambient sound level as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way. Impulsive sound levels shall be measured in the A-weighting network with the sound level meter set to fast response. The ambient sound level shall be taken in the A-weighting network with the sound level meter set to slow response.
+
+   (3) Sound that exceeds the decibel levels set forth in subdivision (d) of section 24-223 during the time that an after hours authorization is required to be in effect.
+
+(b) Where a particular sound source or device is subject to decibel level limits and requirements specifically prescribed for such source or device elsewhere in this code, such specific decibel limits shall apply to such device or source. However, if aggregate sound levels from a construction site exceed the limits set forth in this section, compliance with such specific decibel limits shall not be a defense in any proceeding relating to a violation of this section.
+
+
+
+
+
+
+
+
+*§ 24-228.1 Exhausts.* ::
+
+
+No person shall cause or permit discharge into the open air of the exhaust of any device, including but not limited to any steam engine, diesel engine, internal combustion engine, power tools, compressors or turbine engine, so as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to sound that exceeds the prohibited noise levels set forth in section 24-228.
+
+
+
+
+
+
+*§ 24-229 Containers and construction material.* ::
+
+
+(a) No person shall handle or transport or cause to be handled or transported on any public right-of-way any container or any construction material in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to the following prohibited noise levels:
+
+   (1) Sound, other than impulsive sound, attributable to the source measured at a level of 10 dB(A) or more above the ambient sound level, as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way.
+
+   (2) Impulsive sound, attributable to the source, measured at a level of 15 dB(A) or more above the ambient sound level, as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way. Impulsive sound levels shall be measured in the A-weighting network with the sound level meter set to fast response. The ambient sound level shall be taken in the A-weighting network with the sound level meter set to slow response.
+
+(b) This section shall not apply to the operation of refuse collection vehicles regulated pursuant to section 24-225.
+
+
+
+
+
+
+*§ 24-230 Paving breakers.* ::
+
+
+(a) No person shall operate or cause to be operated a paving breaker, other than one operated electrically or hydraulically, unless a pneumatic discharge muffler certified by the manufacturer of such muffler to provide a dynamic insertion loss of 5 dB(A) of the sound released from the air discharge of such paving breaker is installed on such air discharge.
+
+(b) No person shall sell, offer for sale for use within the city of New York, operate or permit to be operated a paving breaker that when operated produces a maximum sound level that exceeds 95 dB(A), when measured at a distance of one meter or more from a face of such paving breaker.
+
+
+
+
+
+
+*§ 24-231 Commercial music.* ::
+
+
+(a) No person shall make or cause or permit to be made or caused any music originating from or in connection with the operation of any commercial establishment or enterprise when the level of sound attributable to such music, as measured inside any receiving property dwelling unit:
+
+   (1) is in excess of 42 dB(A) as measured with a sound level meter; or
+
+   (2) is in excess of 45 dB in any one-third octave band having a center frequency between 63 hertz and 500 hertz (ANSI bands numbers 18 through 27, Inclusive), in accordance with American National Standards Institute standard S1.6-1984; or
+
+   (3) causes a 6 dB(C) or more increase in the total sound level above the ambient sound level as measured in decibels in the "C" weighting network provided that the ambient sound level is in excess of 62 dB(C).
+
+(b) (1) The commissioner may recommend to the board that there shall be no civil penalty imposed for a first violation of this section if, within 30 days after the issuance of such violation or, if applicable, within the time granted by the commissioner pursuant to paragraph two of this subdivision, the respondent admits liability for the violation and files a certification with the department in a form and manner and containing such information and documentation as shall be prescribed in the department's rules that (i) permanent improvements or modifications have been made to the establishment, including but not limited to the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials and (ii) appropriate sound measurements taken in accordance with the department's rules substantiate that the establishment is in full compliance with the sound levels set forth in this section. If the commissioner accepts such certification of compliance, he or she shall recommend to the board that no civil penalty shall be imposed for the violation. Such violation may nevertheless serve as a predicate for purposes of imposing penalties for subsequent violations of this section.
+
+   (2) Where the completion of appropriate permanent improvements or modifications and testing within 30 days after the issuance of the violation would cause the respondent undue hardship, the respondent may apply to the commissioner for additional time to submit an appropriate certification of compliance, but not more than 30 days. Application for such additional time must be submitted to the commissioner within 30 days after the issuance of the violation along with an admission of liability and appropriate documents in support of the claim of undue hardship.
+
+   (3) Nothing in this subdivision shall be construed to prohibit enforcement personnel from issuing additional notices of violation, summonses or appearance tickets where sound levels exceed the limits set forth in subdivision a of this section during the periods of time set forth in paragraphs one and two of this subdivision for submission of a certification of compliance for a first violation.
+
+(c) In any proceeding under this section it shall be an affirmative defense that the receiving property dwelling unit was not lawfully occupied at the time of the violation.
+
+(d) The commissioner may grant a variance from strict application of the limits set forth in subdivision (a) of this section for a commercial establishment or enterprise that was in operation at the same site prior to the date of enactment of the local law that added this section if he or she finds that there are practical difficulties or unnecessary hardship in the application of such provisions in the specific case, provided that as a condition to the grant of any such variance, sufficient evidence or data is submitted by an applicant that there are physical conditions or zoning district conditions, including irregularity in lot size characteristics and zoning changes, and that as a result of such physical or zoning district conditions, practical difficulties or unnecessary hardship arise in complying with such provisions. In granting a variance the commissioner may impose such terms and conditions as he or she deems necessary to carry out the intent of this section to minimize noise emissions from the site. Application for a waiver shall be submitted in such form and manner as shall be provided by rules of the department and shall include in detail proposed measures which the applicant proposes will minimize sound from the site. A variance granted pursuant to this subdivision shall not be transferable but shall expire upon a change in ownership, size or location of the commercial establishment or enterprise in accordance with the rules of the department. Violation of the conditions of any variance shall be deemed to be a violation of this section.
+
+
+
+
+
+
+*§ 24-232 Allowable decibel levels-octave band measurement.* ::
+
+
+(a) No person shall cause or permit a sound source operating in connection with any commercial or business enterprise to exceed the decibel levels in the designated octave bands shown below as measured within a receiving property as specified therein.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Octave Band
+      - Maximum Sound Pressure Levels (dB) as measured within a receiving property as specified below
+      - 
+    * - Frequency (Hz)
+      - Residential receiving property for mixed use buildings and residential buildings (as measured within any room of the residential portion of the building with windows open, if possible).
+      - Commercial receiving property (as measured within any room containing offices within the building with windows open, if possible).
+    * - 31.5
+      - 70
+      - 74
+    * - 63
+      - 61
+      - 64
+    * - 125
+      - 53
+      - 56
+    * - 250
+      - 46
+      - 50
+    * - 500
+      - 40
+      - 45
+    * - 1000
+      - 36
+      - 41
+    * - 2000
+      - 34
+      - 39
+    * - 4000
+      - 33
+      - 38
+    * - 8000
+      - 32
+      - 37
+~
+
+ 
+
+(b) All sources that are within the A-scale limits prescribed by any other section of this code must also comply with the octave band decibel levels as specified herein. Compliance with this section does not constitute a defense to violation of decibel limits set by any other section of this code.
+
+(c) Measurements performed on residential property shall not be taken in non-living areas such as closets and crawlspaces.
+
+(d) This section shall not apply to impulsive sound, music or construction devices or activities.
+
+(e) This section shall not apply to any utility structure in existence prior to January 1, 2004. For the purposes of this subdivision the term "utility structure" means any electric substation owned or operated by an electric, gas, or steam utility subject to the jurisdiction of the New York state public service commission.
+
+(f) This section shall not apply to any refuse collection facility owned, operated or regulated by the department of sanitation.
+
+
+
+
+
+
+*§ 24-232.1 Wind turbines.* ::
+
+
+No person shall cause or permit operation of a small wind turbine, as such term is defined in section 3113.2 of the New York city building code, or a large wind turbine as such term is defined in section 3114.2 of the New York city building code, so as to create a sound level in excess of 5 db(A) above the ambient sound level, as measured at the property line or at an elevated receptor of the property containing the nearest occupied building.
+
+
+
+
+
+
+
+
+
+**Subchapter 6: Specific Noise Sources Plainly Audible and Other Standards**
+
+
+
+*§ 24-233 Personal audio devices.* ::
+
+
+(a) No person shall operate or use or cause to be operated or used any personal audio device in such a manner as to create an unreasonable noise.
+
+(b) For the purposes of this section unreasonable noise shall include but shall not be limited to:
+
+   (1) the operation or use of a personal audio device on or in any public right-of-way so that sound emanating from such device is plainly audible to another individual at a distance of 25 feet or more from the source.
+
+   (2) the operation or use of a personal audio device from on or inside a motor vehicle, whether moving, parked, stopped or standing, on or in any public right-of-way so that sound emanating from such device is plainly audible to another individual outside of such motor vehicle at a distance of 25 feet or more from the source.
+
+(c) Nothing in this section shall be construed to permit the operation or use of a personal audio device where such operation or use would otherwise be prohibited pursuant to section 10-108 or 24-244 of the administrative code.
+
+
+
+
+
+
+*§ 24-234 Operation or use of sound reproduction device in or on rapid transit railroad, omnibus or ferry.* ::
+
+
+It shall be unlawful to operate or use a sound reproduction device in or on any rapid transit railroad, omnibus or ferry, other than a personal audio device with personal earphones such that sound from such earphones is not plainly audible to another individual at a distance of 5 feet or more from the source.
+
+
+
+
+
+
+*§ 24-235 Animals.* ::
+
+
+No person having charge, care, custody, or control of any animal shall cause or permit such animal to cause unreasonable noise including, but not limited to, any sound that is plainly audible at any location within any residential receiving property as set forth below:
+
+(a) At or after 7 a.m. and before 10 p.m., continuously for a period of 10 minutes or more.
+
+(b) At or after 10 p.m. and before 7 a.m., continuously for a period of 5 minutes or more.
+
+
+
+
+
+
+*§ 24-236 Motor vehicles.* ::
+
+
+(a) Motor vehicles, other than motorcycles, with a maximum gross weight of 10,000 lbs. or less. No person shall cause or permit any motor vehicle, other than a motorcycle, with a maximum gross weight of 10,000 lbs. or less to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 150 feet or more from the motor vehicle.
+
+(b) Motorcycles. No person shall cause or permit any motorcycle to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 200 feet or more from the motorcycle.
+
+(c) Motor vehicles with a maximum gross weight greater than 10,000 lbs. No person shall cause or permit any motor vehicle with a maximum gross weight greater than 10,000 lbs. to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 200 feet or more from the motor vehicle, except when compression brake systems are used in an emergency to stop the vehicle.
+
+(d) (1) No person operating a motor vehicle containing a compression brake system or systems shall apply such compression brake system or systems except when such system or systems are used in an emergency to stop the vehicle.
+
+   (2) The department is authorized to post signs at every entry point of the city containing the following information: THE USE OF COMPRESSION BRAKE SYSTEMS IS PROHIBITED ON STREETS WITHIN NEW YORK CITY WHERE THE SPEED LIMIT IS 35 MILES PER HOUR OR LESS EXCEPT IN CASE OF AN EMERGENCY.
+
+(e) No person shall cause or permit the total sound from a motor vehicle operating on any public right-of-way to exceed the sound level set forth in section 386 of the vehicle and traffic law and the rules adopted pursuant to such section.
+
+(f) Subdivisions a, b, c and paragraph one of subdivision d of this section may only be enforced on streets where the speed limit is 35 miles per hour or less.
+
+
+
+
+
+
+*§ 24-237 Sound signal devices.* ::
+
+
+(a) No person shall operate or use or cause to be operated or used any claxon installed on a motor vehicle, except as a sound signal of imminent danger or in connection with use as an audible motor vehicle burglar alarm as provided in section 24-238 of this code.
+
+(b) No person shall operate or use or cause to be operated or used an air horn or gong installed on any motor vehicle other than as provided in section 24-241 of this code.
+
+(c) No person shall operate or use or cause to be operated or used any steam whistle attached to any stationary boiler, except to give notice of the time to start and stop work or as a sound signal of imminent danger.
+
+(d) No person shall operate or use or cause to be operated or used on any public right-of-way any electrically operated or electronic sound signal device (other than a safety device, such as but not limited to a car horn or back up signal, that is actually used for its intended purpose) attached to, on or in a motor vehicle, wagon or manually propelled cart from which food or any other items are sold or offered for sale when the vehicle is stopped, standing or parked. For the purposes of this subdivision the term "stopped" means the halting of a vehicle, whether occupied or not, except when necessary to avoid conflict with other traffic or in compliance with a police officer or other authorized enforcement officer or a traffic control sign or signal. The terms "standing" and "parked" shall be as defined in the vehicle and traffic law.
+
+
+
+
+
+
+*§ 24-238 Audible burglar alarm and audible status indicator.* ::
+
+
+(a) No owner of a building or of a motor vehicle shall have in operation an audible burglar alarm thereon unless such burglar alarm shall be capable of and shall automatically terminate its operation within fifteen minutes of its being activated in the case of a building, and three minutes of its being activated in the case of a motor vehicle. No audible burglar alarm on a motor vehicle shall be capable of being activated except by:
+
+   (i) direct physical contact with that motor vehicle; or
+
+   (ii) through the use of an individual remote activation device, that is activated from no further than 15 feet away from such vehicle and, that is designed to be used with the audible burglar alarm system of a particular vehicle which alarm shall be capable of and shall terminate its audible response within three minutes of its being activated.
+
+(b) No owner of a motor vehicle shall have in operation an audible status indicator on such motor vehicle.
+
+
+
+
+
+
+*§ 24-239 Audible burglar alarm or audible status indicator may be disconnected.* ::
+
+
+(a) Notwithstanding the provisions of section 24-238, any member of the police department shall have the right to take such steps as may be reasonable and necessary to disconnect any audible burglar alarm or audible status indicator that is installed on a motor vehicle at any time during the period of its activation.
+
+(b) The operator of any motor vehicle on which an audible burglar alarm or audible status indicator has been installed shall when parked on a public highway or parking lot open to the public, prominently display the number and telephone number of the owner's local police precinct where information shall be on file to permit communication with the owner of such vehicle.
+
+
+
+
+
+
+*§ 24-240 Removal of vehicle with audible burglar alarm or audible status indicator.* ::
+
+
+(a) Notwithstanding the provisions of section 24-239, any member of the police department may arrange for the removal of a motor vehicle from a public highway or parking lot open to the public, when:
+
+   (i) an audible burglar alarm installed on such vehicle is operated in violation of this code or an audible status indicator is operated on such vehicle; and
+
+   (ii) all reasonable and necessary steps to disconnect such alarm or audible status indicator have been taken without success. Authorized personnel of the department or the department of transportation may request a member of the police department to arrange for removal of such vehicle. When such removal is requested, the notice of violation for operation of an audible burglar alarm in violation of this section or for operation of an audible status indicator shall state that a member of the police department took all reasonable and necessary steps to disconnect such alarm or such audible status indicator without success. Such removal may be accomplished by utilizing any existing city-operated tow-program, rotation tow program established pursuant to section 20-519 of the code or such other procedures as may be established. The cost of towing and storage of such motor vehicle shall be the responsibility of the owner or other person who claims such vehicle.
+
+(b) An opportunity for a hearing before the board shall be provided to the owner of a motor vehicle removed pursuant to this section within five business days after a request for a hearing is made to determine whether there was a basis for such removal. The board shall render a decision within two business days following the conclusion of the hearing. If it is determined that there was no basis for removal of a vehicle pursuant to this section, the owner of such vehicle may recover from the city any amounts paid by such owner for towing and storage.
+
+
+
+
+
+
+*§ 24-241 Emergency signal devices.* ::
+
+
+(a) No person shall operate or use or cause to be operated or used any emergency signal device, except on an authorized emergency vehicle when such vehicle is in the act of responding to an emergency; provided that such device shall not be operated for a period of time longer than is necessary to respond to such emergency. Notwithstanding the foregoing, such a device on a motor vehicle shall be lawful if designed and used solely as an audible motor vehicle burglar alarm in accordance with section 24-238 and a device attached to a vehicle for the purpose of providing an audible warning when the vehicle is backing up shall be permitted even though the audible warning may consist of a gong or bell sound.
+
+(b) No person shall operate or permit to be operated an emergency signal device installed on an authorized emergency vehicle that when operated at the maximum level creates a sound level in excess of 90 dB(A) when measured at a distance of fifty feet from the center of the forward face of such vehicle. Within one year after the effective date of this subdivision and every two years thereafter, emergency signal devices installed on authorized emergency vehicles shall be tested and certification shall be submitted, in a form approved by the department, that such devices meet the standard set forth in this subdivision for operation at maximum level. Notwithstanding the foregoing provisions, where compliance with the provisions of this subdivision would create an undue hardship, the owner or operator of an authorized emergency vehicle may submit a plan to the commissioner for emergency signal devices to meet the standard set forth in this subdivision within two years after the effective date of this subdivision. Such plan shall be submitted within one year after the effective date of this subdivision in lieu of the required certification. This subdivision shall not apply to authorized emergency vehicles of the police department, fire department or authorized emergency vehicles responding to medical emergencies.
+
+
+
+
+
+
+*§ 24-242 Lawn care devices.* ::
+
+
+(a) No person shall operate or use or cause to be operated or used any lawn care device:
+
+   (1) On weekdays before eight a.m. and after seven p.m. or sunset, whichever occurs later; or
+
+   (2) On weekends and New York state and federal holidays before nine a.m. and after six p.m.; or
+
+   (3) At any time in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to an aggregate sound level of 75 dB(A) or more, attributable to the source or sources, as measured at any point within a receiving property. The provisions of paragraph (1) of this subdivision shall not apply to an employee of the department of parks and recreation or an agent or contractor of the department of parks and recreation who operates or uses or causes to be operated or used any lawn care device between the hours of seven a.m. and eight a.m. in any location more than three hundred feet from any building that is lawfully occupied for residential use. The distance of three hundred feet shall be measured in a straight line from the point on the exterior wall of such building nearest to any point in the location at which such lawn care device is operated or used or caused to be operated or used.
+
+(b) No person shall operate or use or cause to be operated or used any leaf blower not equipped with a functioning muffler.
+
+
+
+
+
+
+*§ 24-243 Snow blowers.* ::
+
+
+The provisions of this code shall not apply to the operation of a snow blower for the purpose of complying with subdivision a of section 16-123 of the administrative code.
+
+
+
+
+
+
+*§ 24-244 Sound reproduction devices.* ::
+
+
+(a) Except as otherwise provided in section 10-108 of the code, no person shall operate or use or cause to be operated or used any sound reproduction device in such a manner as to create unreasonable noise.
+
+(b) No person shall operate or use or cause to be operated or used any sound reproduction device, for commercial or business advertising purposes or for the purpose of attracting attention to any performance, show, sale or display of merchandise, in connection with any commercial or business enterprise (including those engaged in the sale of radios, television sets, compact discs or tapes), (i) outside or in front of any building, place or premises or in or through any aperture of such building, place or premises, abutting on or adjacent to a public street, park or place; (ii) in or upon any vehicle operated, standing or being in or on any public street, park or place; (iii) from any stand, platform or other structure; (iv) from any airplane or other device used for flying, flying over the city; (v) from any boat on the waters within the jurisdiction of the city; or (vi) anywhere on the public streets, public sidewalks, parks or places where sound from such sound reproduction device may be heard upon any public street, sidewalk, park or place. Nothing in this section is intended to prohibit incidental sounds emanating from a sporting or an entertainment or a public event for which a permit under section 10-108 of the code has been issued.
+
+
+
+
+
+
+
+**Subchapter 7: Certificates and Tunneling Permits**
+
+
+
+*§ 24-245 Operating certificates and renewal of operating certificates; tunneling permits; when required.* ::
+
+
+(a) The commissioner shall at his or her discretion promulgate regulations pursuant to section eleven hundred five of the city charter directing the placement of air compressors, paving breakers, refuse compacting vehicles and rapid transit railroads, including but not limited to their rolling stock, track and track beds, passenger stations, tunnels, elevated structures, yards, depots and garages, onto an operating certificate list, setting out the reasons for such placement, and setting out the period of time from issuance or renewal during which such operating certificate shall be valid, unless sooner revoked or cancelled.
+
+(b) No person shall cause or permit the use or operation of any device placed on the operating certificate list pursuant to subdivision (a) of this section except for the purpose of testing such device without first obtaining an operating certificate from the commissioner. The placement of such a device not bearing an operating certificate at a location of its customary operation shall be considered a violation of this section in any proceeding pursuant to any applicable section of subchapter eight of this chapter of this code except section 24-269.
+
+(c) No person shall engage in or permit any person to engage in tunneling without first obtaining a tunneling permit from the commissioner. A separate permit shall be obtained for each shaft of a tunnel.
+
+(d) Prior to advertising for bids for contracts involving tunneling, the agency of the city of New York proposing to so advertise shall request the commissioner in writing for a statement of the requirements or standards that will govern the proposed tunneling activities pursuant to section 24-248 of this subchapter. The aforesaid requirements shall be furnished by the commissioner to the contracting agency in writing within thirty days after receipt of the request and shall be included by the contracting agency in the contract specifications for the proposed tunneling. The conditions under which the permit shall be granted to the contractor shall be consistent with the statement furnished by the commissioner to the contracting agency for inclusion in the contract specifications.
+
+(e) Notwithstanding the existence of a valid tunneling permit, no person shall, except in the case of urgent necessity in the interest of public safety, conduct or permit to be conducted blasting operations at any time other than on weekdays and other than between the hours of seven a.m. and seven p.m. unless a special permit is obtained from the fire department pursuant to subdivision d of section 27-4039.
+
+
+
+
+
+
+*§ 24-246 General requirements for applications for operating certificates and for tunneling permits, and removal of operating certificates.* ::
+
+
+(a) Application for an operating certificate or for the removal of an operating certificate shall be made by the owner of the device on forms furnished by the department.
+
+(b) Application for a tunneling permit shall be made on forms furnished by the department by or in behalf of the owner or lessee of the tunnel; and if made by a person other than the owner, the application shall be accompanied by a signed statement of the applicant declaring that he or she is authorized by the owner to make the application. The permittee shall in all cases be the applicant.
+
+(c) Each application hereunder shall be signed by the applicant. The signature of the applicant shall constitute an agreement that the applicant will assume responsibility for the operation or use of the device concerned or for tunneling in accordance with the requirements of this code. If the applicant is a partnership or group other than a corporation, the application shall be made by one individual who is a member of the group. If the applicant is a corporation, the application shall be made by an officer of the corporation.
+
+(d) Application for the removal of an operating certificate shall be postmarked or date-stamped by the department upon personal delivery no later than thirty days prior to the expiration of the certificate.
+
+
+
+
+
+
+*§ 24-247 Information required for applications for operating certificates and for tunneling permits.* ::
+
+
+(a) Each application for an operating certificate shall contain such information as the commissioner may require in order to determine whether a device covered by the application is or will operate in compliance with the provisions of this code, including but not limited to:
+
+   (1) The model number and operating characteristics of the device covered by the application;
+
+   (2) A report certified by an approved testing laboratory as to the sound level generated by the device when operated under normal operating conditions or a manufacturer's warranty as to sound level provided that the device is regularly tested in accordance with procedures established by the American national standards institute or other appropriate professional standard-setting organization listed in section 24-242*; and
+
+* Editor's note: this § 24-242 was repealed and the substance transferred to § 24-204(c).
+
+   (3) The proposed means, if any, for the prevention or control of unreasonable noise.
+
+(b) Each application for a tunneling permit shall contain such information as the commissioner may require to determine whether tunneling activities and the devices operated therein will be undertaken in compliance with the provisions of this code, including but not limited to:
+
+   (1) The types and operating characteristics of the devices employed in such tunneling;
+
+   (2) A detailed description of proposed tunneling; and
+
+   (3) The proposed means for the prevention of unreasonable noise.
+
+(c) Information concerning secret processes which may be required, ascertained or discovered by the department shall not be disclosed by any department employee, except that the information may be disclosed by the commissioner if the department is subpoenaed for the information or if in the course of a departmental court proceeding or departmental or board hearing, the information is relevant to the proceeding or hearing.
+
+
+
+
+
+
+*§ 24-248 Standards for granting operating certificates and tunneling permits.* ::
+
+
+(a) No operating certificate shall be granted unless the applicant shows to the satisfaction of the commissioner that:
+
+   (1) The device will be operated without causing a violation of the provisions of this code; and
+
+   (2) The device incorporates advances in the art of noise control developed for the kind and level of noise emitted by the applicant's device.
+
+(b) No tunneling permit shall be granted unless the applicant shows to the satisfaction of the commissioner that:
+
+   (1) The devices employed in such tunneling, including construction devices, storage bins and hoppers, will be operated or used without causing a violation of the provisions of this code;
+
+   (2) The motor vehicles employed in such tunneling will be routed at such times of day and such routes as not to cause unreasonable noise; and
+
+   (3) All advances in the art of noise control, including appropriate closures around devices, and sound deadening linings on storage bins and hoppers, developed for the kind and level of noise emitted by applicant's activities or devices have been incorporated into such tunneling activities and devices.
+
+(c) The commissioner may from time to time issue regulations for the guidance of applicants indicating the technical specifications which he or she deems will comply with the performance standards of this section.
+
+
+
+
+
+
+*§ 24-249 Testing before granting or renewing of operating certificates; testing before granting of tunneling permits.* ::
+
+
+(a) Before a tunneling permit is granted or before an operating certificate is granted or renewed, the commissioner may require the applicant to conduct such tests as are necessary in the opinion of the commissioner to determine the sound level emitted from a device or an activity or to determine whether the device or its operation or an activity is contributing to, or is in violation of this code. The test shall be made at the expense of the applicant.
+
+(b) Such test shall be conducted, reviewed and certified as provided by subdivision (b) of section 24-206 of this code. The applicant shall notify the department of the time and place of a test as provided by subdivision (c) of section 24-206* of this code. Reasonable facilities shall be made available for the department to witness the test. If in the opinion of the commissioner tests by the department are necessary, the facilities for such tests, exclusive of sound level meters, shall be furnished by and at the expense of the owner or lessee or his or her agent as provided by subdivision (d)** of section 24-206 of this code.
+
+
+
+
+
+
+*§ 24-250 Action on applications for certificates or tunneling permits.* ::
+
+
+(a) The commissioner shall act within a reasonable time not to exceed sixty days on an application for a tunneling permit, for an operating certificate, or for a renewal of an operating certificate, and shall notify the applicant in writing of his or her approval or disapproval of the application.
+
+(b) If an application is disapproved, the commissioner shall set forth his or her objections in the notice of disapproval or notice of violation.
+
+(c) Within sixty days after service on the applicant of the notice of disapproval, exclusive of the day of service, the applicant may request the commissioner to reconsider the application by answering in writing the commissioner's objection to the application.
+
+(d) The commissioner shall consider the applicant's answer to his or her objections, and shall notify the applicant in writing within a reasonable time, not to exceed sixty days, of his or her approval or denial of the application. Failure to answer or request an extension of time within sixty days after service of the notice of disapproval or a notice of violation shall be deemed a denial of the application.
+
+(e) The commissioner may grant a temporary operating certificate or tunneling permit for a period not to exceed sixty days upon receipt of an application for the granting or renewal of an operating certificate and may, at his or her discretion, renew a temporary operating certificate or tunneling permit for an additional period not to exceed sixty days.
+
+
+
+
+
+
+*§ 24-251 Conditions of certificates or tunneling permits to be observed.* ::
+
+
+The holder of a certificate or of a tunneling permit shall comply with the conditions and terms contained in his or her certificate or tunneling permit as well as all applicable provisions of this code.
+
+
+
+
+
+
+*§ 24-252 Suspension or revocation of certificates or tunneling permits.* ::
+
+
+(a) The commissioner shall suspend or revoke a tunneling permit or certificate when ordered to do so by the board pursuant to subchapter eight of this chapter of this code.
+
+(b) Suspension or revocation of a certificate or tunneling permit shall become final five days after service of notice, exclusive of the day of service, on the holder of the certificate or tunneling permit.
+
+
+
+
+
+
+*§ 24-253 Surrender of certificates or tunneling permits.* ::
+
+
+A certificate or tunneling permit which has been cancelled or revoked pursuant to this code shall be surrendered forthwith to the commissioner.
+
+
+
+
+
+
+*§ 24-254 Transfer of certificates.* ::
+
+
+Any purported or attempted transfer of a certificate automatically revokes the certificate, except that upon a conveyance of the premises in which the device is located a certificate may be transferred to a person other than the person named in the certificate.
+
+
+
+
+
+
+*§ 24-255 Operating certificate or tunneling permit fees.* ::
+
+
+(a) A person applying for an operating certificate, or a renewal of an operating certificate shall pay a fee of thirty dollars.
+
+(b) A person applying for a tunneling permit shall pay a fee of two hundred and fifty dollars.
+
+
+
+
+
+
+*§ 24-256 Departmental publication fees.* ::
+
+
+The department may charge for a copy of its publications a fee in an amount not to exceed the unit cost of the preparation and distribution of the publication.
+
+
+
+
+
+
+
+**Subchapter 8: Enforcement**
+
+
+
+*§ 24-257 Powers of the board.* ::
+
+
+(a) The board, in addition to other duties assigned to it by law, shall have the power to conduct hearings pursuant to this subchapter and, by the issuance of a subpoena, compel the attendance of witnesses and the production of any books, papers or other things relating to the matter under investigation.
+
+(b) The board may, upon notice pursuant to section 24-259 of this code, and after a hearing pursuant to section 24-263 of this code, or in default thereof pursuant to section 24-264 of this code:
+
+   (1) Order the commissioner to revoke or suspend a certificate or tunneling permit issued pursuant to this code for any device or activity where such device or activity causes, or is maintained or operated so as to cause a violation of any provision of this code or order or regulation promulgated by the commissioner or the board;
+
+   (2) Order the owner of any device which causes or is maintained or operated so as to cause a violation of any provision of this code or any order or regulation promulgated by the commissioner or the board, to install any apparatus which can reasonably be expected to correct the violation, or to repair, properly maintain, replace or alter such device in a manner which can reasonably be expected to correct the violation;
+
+   (3) Seal any device which causes or is maintained or operated so as to cause a violation of any provision of this code or order or regulation promulgated by the commissioner or the board, except as provided in subdivision (c) of this section;
+
+   (4) Order any person to cease and desist from any activity which causes or is conducted so as to cause a violation of any provision of this code or any order or regulation promulgated by the commissioner or the board, except as provided in subdivision (c) of this section;
+
+   (5) Impose a civil penalty in each instance in an amount as set out in table I against any person who violates a provision of this code, or of any order, rule or regulation promulgated by the commissioner or the board.
+
+Table I
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Violations related to section and subdivision
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 
+      - First Violation
+      - 
+      - Second Violation*
+      - 
+      - Third and Subsequent Violations*
+      - 
+    * - 
+      - Maximum
+      - Minimum
+      - Maximum
+      - Minimum
+      - Maximum
+      - Minimum
+    * - 24-216 (d)
+      - 2,625 
+      -   650 
+      -  5,250 
+      - 1,300 
+      -  7,875 
+      - 1,950 
+    * - 24-218(a) 
+      - 150
+      - 75
+      - 250
+      - 150
+      - 500
+      - 350
+    * - 24-218(a-1)
+      - 1,000 
+      -   350 
+      -  2,000 
+      -   700 
+      -  3,000 
+      - 1,050 
+    * - 24-218.1
+      -   50 
+      -   50 
+      -   50 
+      -   50 
+      -   50 
+      -   50 
+    * - 24-220
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-222
+      - 3,500 
+      -   875 
+      -  7,000 
+      - 1,750 
+      - 10,500 
+      - 2,625 
+    * - 24-223
+      - 3,500 
+      -   875 
+      -  7,000 
+      - 1,750 
+      - 10,500 
+      - 2,625 
+    * - 24-224
+      - 3,500 
+      -   875 
+      -  7,000 
+      - 1,750 
+      - 10,500 
+      - 2,625 
+    * - 24-225
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-226
+      - 1,400 
+      -   440 
+      - 2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-227
+      -   875 
+      -   0 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-228
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-229
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-230
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-231(a)
+      - 8,000 
+      -   0 
+      - 16,000 
+      - 4,000 
+      - 24,000 
+      - 6,000 
+    * - 24-231(b)
+      - 1,750 
+      -   440 
+      -  3,500 
+      -   880 
+      -  5,250 
+      - 1,320 
+    * - 24-231(c)
+      -   875 
+      -   350 
+      -  1,750 
+      -   700 
+      -  2,625 
+      - 1,050 
+    * - 24-232
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-233(a)
+      -   175 
+      -   50 
+      -   350 
+      -   100 
+      -   525 
+      -   150 
+    * - 24-233(b)(1)
+      -   175 
+      -   50 
+      -   350 
+      -   100 
+      -   525 
+      -   150 
+    * - 24-233(b)(2)
+      -   350 
+      -   100 
+      -   700 
+      -   200 
+      -  1,050 
+      -   300 
+    * - 24-234
+      -   175 
+      -   50 
+      -   350
+      -   100 
+      -   525 
+      -   150 
+    * - 24-235
+      -   175 
+      -   50 
+      -   350 
+      -   100 
+      -   525 
+      -   150 
+    * - 24-236(a)
+      -   525 
+      -   150 
+      -  1,050 
+      -   300 
+      -  1,575 
+      -   450 
+    * - 24-236(b)(c)(d)
+      - 1,440 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-237(a)
+      - 1,000 
+      -   150 
+      -  2,000 
+      -   300 
+      -  3,000 
+      -   450 
+    * - 24-237(b)
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-237(c)
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-237(d)
+      - 1,000 
+      -   350 
+      -  2,000 
+      -   700 
+      -  3,000 
+      - 1,050 
+    * - 24-238
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-239(b)
+      -   350 
+      -   100 
+      -   700 
+      -   200 
+      -  1,050 
+      -   300 
+    * - 24-241
+      - 1,400 
+      -   440 
+      -  2,800 
+      -   880 
+      -  4,200 
+      - 1,320 
+    * - 24-242
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+    * - 24-244
+      - 1,750 
+      -   440 
+      -  3,500 
+      -   880 
+      -  5,250 
+      - 1,320 
+    * - 24-245
+      - 2,625 
+      -   660 
+      -  5,250 
+      - 1,320 
+      -  7,875 
+      - 1,980 
+    * - All remaining sections and subdivisions
+      -   875 
+      -   220 
+      -  1,750 
+      -   440 
+      -  2,625 
+      -   660 
+~
+
+* By the same respondent of the same provision of law, order, rule or regulation and, if the respondent is the owner, agent, lessee or other person in control of the premises with respect to which the violation occurred, at the same premises (all violations committed within two years).
+
+Each day during which such violation continues shall constitute a separate violation. The board may remit, in whole or in part, such a civil penalty if, at the conclusion of the hearing or at the time of the board determination under section 24-266 of this code, the respondent is no longer in violation of a provision of this code, or of any order, rule or regulation promulgated by the commissioner or the board;
+
+   (6) Impose a civil penalty of not more than two hundred fifty dollars on any owner of a device for each day such equipment is sealed pursuant to this section;
+
+   (7) Impose a civil penalty of not less than one thousand nor more than four thousand dollars on any person who willfully breaks, or causes or permits the breaking of, a seal placed on a device pursuant to this section.
+
+   (8) Impose an additional civil penalty in the amount of twenty-five percent of that which would otherwise be imposed for each twelve decibels by which the sound or noise level measured exceeds the maximum sound level as contained in subchapters five and six of this chapter.
+
+   (9) Impose an additional civil penalty in the amount of ten percent of the penalty orginally imposed, for late payment of penalty for each month, or part thereof, that the penalty payment is in arrears. In no event shall the total additional civil penalty exceed the maximum set forth in the table of civil penalties, or as modified pursuant to paragraph eight of this subdivision or paragraph ten of this subdivision, or both.
+
+   (10) Order any person to be classified as a persistent violator if such person is found to be in violation of this code and has also on one or more prior occasions within the preceding five years been found to be in violation of this code, where such repeated violations evidence substanial* disregard thereof. If a person is classified as a persistent violator, the board shall in each instance double the amount of the penalty which it would otherwise impose pursuant to paragraph five of this subdivision. Such double penalties shall be imposed for violations which the board finds a person committed pursuant to the same proceeding at which it classified such person as a persistent violator and for all violations committed within two years immediately following such classification, after whcih such classification shall terminate. However, if at the end of such two year period such person is still in violation of this code because of a failure to take or complete a corrective action as required by the board, such classification shall continue until such time as such person is no longer in violation of this code because of such failure, at which time such classification shall cease. Thereafter, the board may again classify such person as a persistent violator, on the same basis it used originally.
+
+(c) The board may, upon notice pursuant to section 24-259 of this code:
+
+   (1) order any person to cease and desist from the operation of any listed device without a certificate as required by section 24-245 of this code and the board may also seal such device;
+
+   (2) order any person to cease and desist from tunneling without a tunneling permit as required by section 24-245 of this code and the board may also seal any device used in such tunneling;
+
+   (3) order any person not in possession of an after hours work authorization issued pursuant to section 24-223 of this code to cease and desist from construction activities other than during the permissible hours specified in section 24-222 of this code and the board may also seal any device used in such construction activities;
+
+   (4) order any person to cease and desist from the operation of a device without registration required by section 24-208 of this code and the board may also seal such device.
+
+(d) The board may order the commissioner to install any apparatus or to repair or alter any device or apparatus which causes or is maintained or operated so as to cause a violation of an order issued pursuant to paragraph two of subdivision (b) of this section, where such repairing or alteration can reasonably be expected to correct such a violation. Any work required under such an order may be executed by the commissioner through the officers, agents or contractors of the department. The department shall be reimbursed promptly for all costs and expenses of such work by the owner of the device to which the order relates and in respect to which such expenses were incurred. Such expenses may be recovered in a civil action brought in the name of the commissioner.
+
+(e) If an order of the board issued pursuant to subdivisions (b) and (c) of this section provides for a period of time during which a person subject to the order is permitted to correct a violation, the board may require the respondent to post a performance bond or other security with the department in a form and amount sufficient to assure the correction of such violation within the prescribed time. In the event of a failure to meet the schedule prescribed by the board, the sum named in the bond or other security shall be forfeited and shall be paid to the commissioner.
+
+(f) (1) The board may order any person to cease and desist from an activity which it reasonably believes causes unreasonable noise which creates imminent peril to the public health and well being, or to cease and desist from an activity which it reasonably believes constitutes a willful or continued violation of any provision of this code or order or regulation, promulgated by the commissioner or board. Such order shall be effective upon service thereof. Any party affected by such an order may request a hearing on written notice, and he or she shall be afforded a hearing, within twenty-four hours after service of such request, pursuant to section 24-263 of this code. If such an accelerated hearing is not requested, then a hearing shall be afforded within ten days of the issuance of the order. The board shall issue its final decision and order thereon within three days from the conclusion of a hearing held pursuant to this subdivision.
+
+(g) The default penalty imposed pursuant to paragraph 5 of subdivision (b) of this section for a violation of section 24-218(a), as set forth in section 3-115 of title 48 of the rules of the city of New York or any successor provision, shall not exceed 150 percent of the scheduled penalty set forth therein.
+
+
+
+
+
+
+
+
+*§ 24-258 The board.* ::
+
+
+(a) The board shall be convened by the chairperson or in the chairperson's absence the assistant commissioner of environmental compliance, or at the request of any three members thereof.
+
+(b) If a member of the board has presided over the initial hearing, he or she shall not be disqualified from reviewing the hearing.
+
+(c) Five members of the board, at least two of who shall not be city officials, shall constitute a quorum.
+
+
+
+
+
+
+*§ 24-259 Notice of violation.* ::
+
+
+(a) Notice, required by this chapter, shall be given by issuance of a notice of violation.
+
+(b) Whenever the commissioner has reasonable cause to believe that a violation of any provision of this code or any order or regulation promulgated by the commissioner or the board may exist, he or she may cause to have a notice of violation issued and served on:
+
+   (1) The person in violation; or
+
+   (2) An owner with an equity interest in the device in violation, if any; or
+
+   (3) If an owner with an equity interest in the device in violation cannot be located with due diligence, any other owner of said device.
+
+(c) A notice of violation shall:
+
+   (1) Specify the section or sections of this code, order, or regulation that such person or device is in violation of; and
+
+   (2) Indicate the amount of the civil penalty that such person is subject to; and
+
+   (3) Contain a brief statement of the nature of the violation; and
+
+   (4) Require a written response that conforms to section 24-260 of this code; and
+
+   (5) Require such person or owner of a device, unless a hearing is not required by section 24-257 of this code, to answer the allegations in the notice of violation at a time and place designated either in or with the notice of violation or in a subsequent notice to such person or owner.
+
+
+
+
+
+
+*§ 24-260 Written response.* ::
+
+
+(a) A written response in a form prescribed by the board shall be served upon the department and filed with the board within five days of receipt of the notice of violation.
+
+(b) If the allegation in the notice of violation is one for which a hearing is not required by section 24-257 of this code, and is contested, then the respondent must either:
+
+   (1) Include a copy of any tunneling permit or certificate that the respondent asserts was issued by the department; or
+
+   (2) Deny that such tunneling permit or certificate is required by law.
+
+(c) If any of the allegations in the notice of violation are those for which a hearing is required by section 24-257 of this code, and are contested, the written response shall contain a concise statement of the facts constituting each ground of defense.
+
+(d) If allegations in the notice of violation are admitted the written response of the respondent shall consist of:
+
+   (1) A statement that he or she admits all of the material allegations to be true; and
+
+   (2) A statement of any attempts subsequent to service of the notice of violation to comply with this code or with the order or regulation.
+
+   (e) Failure of the respondent to serve a written response within the time provided shall be deemed to constitute a waiver of his or her right to appear and contest the allegations in the notice.
+
+
+
+
+
+
+*§ 24-261 Citizen's complaint.* ::
+
+
+(a) Any person other than personnel of the department and employees of the city of New York authorized by law to serve summonses for violation of the code may serve upon the department a complaint in a form prescribed by the commissioner alleging that a person has violated a provision of this code set forth in table VI,* below, or an order or regulation promulgated under such provision together with evidence of such violation.
+
+TABLE VI
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Violation related to section or subdivision and order or regulation thereunder 
+    * - 24-208
+    * - 24-216
+    * - 24-220 (b)
+    * - 24-224
+    * - 24-232, except that the provisions of this section 24-261 shall apply only to violations by persons operating motor vehicles listed in subdivisions one and two of column I, and subdivisions one and two of column II of Table 1. 24-234 24-236 24-237, except that the provisions of this section 24-261 shall apply only to a violation by a person operating a circulation device with a rated capacity in excess of fifty thousand British thermal units per hour or its equivalent.
+    * - 24-238
+    * - 24-240
+    * - 24-241
+    * - 24-244
+    * - 24-245
+~
+
+ 
+
+(b) A person who has served a complaint pursuant to subdivision (a) of this section may serve upon the person allegedly in violation and upon the board a notice of violation in a form prescribed by the board, if within thirty days from service of such complaint:
+
+   (1) The department has failed to serve a notice of violation, pursuant to section 24-259 of this code, for the violation alleged in a complaint pursuant to subdivision (a) of this section; or
+
+   (2) The department fails to serve a written notice upon the complainant of its determination that his or her complaint is frivolous or duplicitous.
+
+(c) A person commencing a proceeding before the board pursuant to this section, shall prosecute such proceeding at his or her own expense. The department may intervene in such a proceeding at any time.
+
+(d) In any proceeding brought by the department after receiving a complaint pursuant to subdivision (a) of this section, the board shall award the complainant, out of the proceeds collected, fair and reasonable compensation, which shall not exceed twenty-five percent of the proceeds collected, for disclosure of information or evidence not in the possession of the department, which leads to the imposition of the civil penalty.
+
+(e) In any proceeding brought by a complainant, the board shall award, out of the proceeds collected, fifty percent of any civil penalty as fair and reasonable compensation to such person.
+
+
+
+
+
+
+*§ 24-262 Settlement of proceedings.* ::
+
+
+The board may settle any proceeding by stipulation and may exercise any or all of its powers under section 24-257 of this code thereby, at any time prior to the issuance of a decision pursuant to section 24-266 of this code.
+
+
+
+
+
+
+*§ 24-263 Hearings.* ::
+
+
+(a) The chairperson of the board shall designate a hearing officer or at least one member of the board to preside over hearings held pursuant to this subchapter. In any hearing in which a quorum of the board is present, such members shall be deemed to be sitting as the board.
+
+(b) All such hearings shall be open to the public.
+
+(c) At the request of any party to such a hearing, the board shall by the issuance of a subpoena compel the attendance of such witnesses and shall require the production of any such books, papers, or other things relating to the matter under investigation if such a request reasonably relates to such hearing.
+
+(d) Any party to a hearing may be represented by counsel, may make oral and written argument and cross-examine witnesses. All testimony taken before the board or the designated hearing officer shall be under oath and shall be recorded. The record shall be open to public inspection, and copies thereof shall be made available to any person upon payment of the actual cost of repro- duction.
+
+
+
+
+
+
+*§ 24-264 Default; vacating a default order.* ::
+
+
+(a) A respondent shall be in default when the respondent has:
+
+   (1) Failed to serve a written response pursuant to section 24-260 of this code; or
+
+   (2) Failed to appear at the designated time and place as required by the notice of violation or subsequent notice pursuant to section 24-259 or 24-261 of this code; or
+
+   (3) Neglected to proceed in a manner ordered by the board.
+
+(b) Within sixty days of a decision and order of the board issued pursuant to paragraph two of subdivision (c) of section 24-266 of this subchapter, the respondent may request the board to grant a stay of such order of the board and schedule a hearing. If the respondent has shown good cause and a meritorious defense, the board may grant such a request and hold a hearing pursuant to section 24-263 of this code. At the conclusion of the hearing, the board may adopt, amend or rescind its decision and order.
+
+
+
+
+
+
+*§ 24-265 Hearing officer's decision.* ::
+
+
+(a) At the conclusion of the hearing, the hearing officer or member of the board conducting the hearing shall prepare a decision stating findings of fact and conclusions, as well as reasons for his or her determination on all material issues, and making recommendations as to action which should be taken in the matter.
+
+(b) The hearing officer or member of the board conducting the hearing shall file his or her decision with the board and send copies by mail to the parties. Any party may file exceptions with the board within twenty days after service of such decision. If no exceptions have been filed within the described time, the recommendations of the hearing officer or member of the board conducting the hearing shall automatically become the decision of the board and shall constitute its findings, conclusions and order.
+
+(c) At the conclusion of a hearing conducted by the board, the board shall issue its decision and order. The decision of the board shall conform to the requirements of subdivisions (b) and (c) of section 24-266 of this code.
+
+
+
+
+
+
+*§ 24-266 Board decision and order.* ::
+
+
+(a) If any party files exceptions to the decision of the hearing officer or member of the board conducting a hearing within the prescribed time the board shall review the record and issue its decision and order in which it may adopt, modify or reject the findings, conclusions and recommendations of the hearing officer or member of the board who conducted the hearing.
+
+(b) The decision of the board shall contain findings of fact, conclusions of law and reasons for the decision on all material issues raised, and an order either dismissing the allegations of the notice of violation or sustaining them in whole or in part.
+
+(c) The board may exercise one or more of its powers pursuant to section 24-257 of this code, as it deems appropriate if:
+
+   (1) The allegations in the notice of violation are sustained in whole or in part;
+
+   (2) The respondent is in default under section 24-264 of this code.
+
+(d) The decision and order of the board shall be its final determination. A judicial proceeding must be commenced within two months after the service of such decision and order.
+
+
+
+
+
+
+*§ 24-267 Compliance with board decisions; orders and civil penalties.* ::
+
+
+(a) If the respondent fails or refuses to comply with the board's order, or the board otherwise deems it necessary, the corporation counsel for the city of New York, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order of the board.
+
+(b) A civil penalty imposed by the board pursuant to section 24-257 of this code may be collected in an action brought in the name of the city of New York.
+
+
+
+
+
+
+*§ 24-268 Procedural rules.* ::
+
+
+The board shall have authority from time to time to make, amend and rescind such procedural rules as may be necessary to carry out the provisions of this subchapter.
+
+
+
+
+
+
+*§ 24-269 Criminal penalties.* ::
+
+
+(a) Any person who shall knowingly make a false statement or who shall knowingly falsify or allow to be falsified any certification, registration, form, signed statement, application or report required under the provisions of this code or regulation promulgated by the commissioner or the board shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than one hundred dollars nor more than one thousand dollars, or by imprisonment not to exceed five months, or both.
+
+(b) Any person, other than a corporation, who violates any order of the commissioner or the board or any provision of section 24-245 of this code or who illegally breaks a seal on equipment, upon conviction shall be punished for each offense by a fine of not less than fifty dollars nor more than five hundred dollars, or by imprisonment for not more than thirty days or by both. Any corporation which violates any order of the commissioner or the board or any provision of section 24-245 of this code, or which illegally causes a seal to be broken, upon conviction shall be punished for each offense by a fine of not less than one hundred dollars nor more than two thousand dollars. Every day during which such violation occurs constitutes a separate offense.
+
+(c) Any person, other than a corporation, convicted of willful failure to pay a civil penalty imposed by the board pursuant to section 24-257 of this code shall be punished by a fine of double the amount of the civil penalty imposed by the board, or by imprisonment for not more than sixty days, or by both. Any corporation convicted of a wilful failure to pay a civil penalty imposed by the board pursuant to section 24-257 of this code shall be punished by a fine of double the amount of the civil penalty imposed by the board, but not more than two thousand dollars.
+
+(d) The failure of any person or corporation against whom an action has been brought to collect a civil penalty pursuant to subdivision (b) of section 24-267 of this code, who has been found liable by a court for such civil penalty and who does not pay such penalty after the judgment of such becomes final, shall be deemed guilty of a willful failure to pay a civil penalty.
+
+(e) Any person convicted of violating any of the provisions of this code or any regulation of the board not otherwise provided for by this section shall be punished by a fine of not less than fifty dollars nor more than five hundred dollars for the first offense, or by imprisonment for twenty days, or both; and by a fine of not less than one hundred dollars nor more than one thousand dollars, or by imprisonment for not more than thirty days, or both, for a second offense; and by a fine of not less than four hundred dollars nor more than five thousand dollars, or by imprisonment for not more than four months or both for a third or subsequent offense.
+
+(f) Twenty-five percent of any fine that is imposed pursuant to this section may be paid to the person or persons giving information which shall lead to conviction.
+
+
+
+
+
+
+*§ 24-270 Uniform civil penalties for unreasonable noise.* ::
+
+
+Notwithstanding any inconsistent provision of law, the civil penalties for the violation of paragraphs 1, 2, and 3 of section 1-05(d) of title 56 of the rules of the city of New York, or any successor rule of the department of parks and recreation that prohibits or regulates noise, or paragraphs 16 and 17 of subdivision c of section 18-146* of the administrative code, shall be no greater than the civil penalties established in section 24-257 of this chapter for a violation of section 24-218(a) of this chapter, except in such cases in which the respondent received notice of such violation while engaged in commercial activities.
+
+* Editor's note: this code presently includes multiple sections designated as 18-146. See, e.g., § 18-146, "Prohibitions in parks."
+
+
+
+
+
+
 Chapter 1: Air Pollution Control
 --------------------------------------------------
 
@@ -2986,1834 +4820,259 @@ The board shall have authority from time to time to make, amend, and rescind suc
 
 
 
-Chapter 2: Noise Control
+Chapter 4: Gas and Electric Lines
 --------------------------------------------------
 
 
 
+*§ 24-401 Engineers. [Repealed]* ::
 
-**Subchapter 1: Short Title, Policy and Definitions**
 
+a. It shall be unlawful for any person to take up the pavement of any street, or to excavate for the purpose of laying any gas distribution lines, or any electrical conductors underground, or of constructing subways, or of erecting poles, unless permission in writing therefor shall have been first obtained from the commissioner of transportation. It shall be unlawful to string, lay or maintain any gas distribution lines, or any electrical conductors above or below the surface of any street, in any part of the city, without written permission from the commissioner of transportation. The commissioner of transportation shall determine whether any extension of the existing electrical conductors of any person shall be by means of overhead or underground conductors.
 
+b. Violations. Any person who shall violate any provision of this section, upon conviction thereof, shall be punished by a fine of not less then two hundred fifty dollars nor more than five hundred dollars, or imprisonment for thirty days or both.
 
-*§ 24-201 Short title.* ::
 
 
-This chapter shall be known and may be cited as the New York city noise control code.
 
 
 
+*§ 24-405 Permit required.* ::
 
 
+a. It shall be unlawful for any gas, telephone or electric light company, or any person to lay or install any pipes, mains or conduits for the use and transmission of gas, electricity, pneumatic power or steam, or to perform any work that is under the jurisdiction, cognizance and control of the commissioner of transportation, in any street, or public place, without a written permit from the commissioner of transportation.
 
-*§ 24-202 Declaration of policy.* ::
+b. It shall be unlawful to violate any provision of this section or any notice or special direction thereunder, under a penalty of not less than two hundred fifty dollars nor more than five hundred dollars for each offense.
 
 
-It is hereby declared to be the public policy of the city to reduce the ambient sound level in the city, so as to preserve, protect and promote the public health, safety and welfare, and the peace and quiet of the inhabitants of the city, prevent injury to human, plant and animal life and property, foster the convenience and comfort of its inhabitants, and facilitate the enjoyment of the natural attractions of the city. It is the public policy of the city that every person is entitled to ambient sound levels that are not detrimental to life, health and enjoyment of his or her property. It is hereby declared that the making, creation or maintenance of excessive and unreasonable noises within the city affects and is a menace to public health, comfort, convenience, safety, welfare and the prosperity of the people of the city. For the purpose of controlling and reducing such noises, it is hereby declared to be the policy of the city to set the unreasonable and prohibited noise standards and decibel levels contained herein and to consolidate certain of its noise control legislation into this code. The necessity for legislation by enactment of the provisions of this chapter is hereby declared as matter of legislative determination. This code shall be liberally construed so as to effectuate the purposes described in this section. Nothing herein shall be construed to abridge the emergency powers of the board of health or the right of the department of health and mental hygiene to engage in any of its necessary or proper activities. It is the intent of the council that the police department as well as other agencies of the city designated by the commissioner of the department of environmental protection shall have the authority to enforce the provisions of this code and police officers and designated employees of the department of environmental protection and of such other city agencies shall have the power to issue summonses, appearance tickets and notices of violation for violations of this code.
 
 
 
 
+*§ 24-406 Removal of electric wires; Manhattan and the Bronx.* ::
 
 
-*§ 24-203 General definitions.* ::
+a. After the grade of any street in the boroughs of Manhattan and the Bronx shall have been finally determined and established, whenever, in the opinion of the board of estimate it shall be practicable to remove the electrical conductors above ground in such street and place them underground, the commissioner of transportation shall notify the owners or operators of such conductors. Notice shall be to the effect that such electrical conductors must be removed within a certain time, sufficient for removal, which shall be fixed by such commissioner. In the case of a corporation duly authorized to lay and operate electrical conductors underground in such street, the time shall be sufficient for the proper laying of conductors underground in place of those removed.
 
+b. All electrical conductors authorized to be placed underground, shall be so placed under and in accordance with the provisions of sections 24-410 through 24-415 of the code. Whenever application shall be made to the commissioner of transportation for permission to place underground electrical conductors in any such street, if such permission be granted, the subways therefor shall be constructed or provided, and such electrical conductors placed underground under and in accordance with the provisions of such sections. Such permission shall be granted only in accordance with the provisions of such sections.
 
-When used in the New York city noise control code the following terms shall have the following meanings:
 
-(1) A" level means the sound level as measured with a sound level meter using the "A" weighting network. The unit of measurement is the dB(A). This frequency weighting network for the measurement of sound levels shall comply with standards established by the American National Standards Institute specifications for sound level meters S1.4-1971, as amended or S1.4-1983, as amended.
 
-(2) Activity means any act or combination of acts which actually results in the production of sound.
 
-(3) Air compressor means a device which draws in air or gas, compresses it, and delivers it at a higher pressure.
 
-(4) Air horn means a device intended to produce a sound signal by means of compressed air or gas or exhaust gas.
 
-(5) Airport means an area of land or water that is used or intended to be used for the landing and take off of aircraft, and includes its buildings and facilities, if any.
+*§ 24-407 Underground electrical conductors; Manhattan and the Bronx.* ::
 
-(6) Ambient sound means the sound level at a given location that exists as a result of the combined contribution in that location of all sound sources, excluding the contribution of a source or sources under investigation for violation of this code and excluding the contribution of extraneous sound sources. For purposes of the enforcement of this code, the ambient sound level of a given location may be determined based upon measurements taken at a comparable site (which includes but is not limited to comparable physical locations and time of day) in the nearby area.
 
-(7) Apparatus means any mechanism which prevents, controls, detects, measures or records the production of sound.
+Any company, operating or intending to operate electrical conductors in the boroughs of Manhattan and the Bronx, if it shall desire or be required to place its conductors or any of them underground in any of the streets of such boroughs, must remove such conductors from the surface of such streets, when duly authorized so to do. It shall be obligatory upon such company to file with the commissioner of transportation a map or maps, made to scale, showing the streets which are desired to be used for such purpose, and giving the general location, dimensions and course of the underground conduits desired to be constructed. Before any such conduits shall be constructed, it shall be necessary to obtain the approval of such commissioner of transportation of the plan of construction proposed by such company. The commissioner of transportation has and shall have power to require that the work of removal and of constructing every such system of underground conductors shall be done according to such plan so approved, subject at all times to such modifications as shall be made by him or her from time to time, and subject also to such rules and regulations as may be promulgated by him.
 
-(8) Audible status indicator means any sound reproduction device on a motor vehicle that emits or causes to be emitted any continuous or near continuous sound (exceeding 5 seconds if tonal in nature or any duration if verbal in nature) for the purpose of warning that an audible burglar alarm has been installed on such motor vehicle and is operational or for creating the appearance that such an alarm has been installed on such motor vehicle and is operational.
 
-(9) Authorized emergency vehicle means an authorized emergency vehicle as defined by section 101 of the vehicle and traffic law.
 
-(10) Board means the environmental control board of the city of New York.
 
-(11) Building means a building as defined in section 27-232 of the administrative code.
 
-(12) Building aperture means any designed opening in a building to which a person may reasonably have access including but not limited to any door, gate, window, skylight or hatch.
 
-(13) Burglar alarm means any sound signal device designed and intended to produce a sound signal upon unauthorized entrance by a person into a building or motor vehicle.
+*§ 24-408 Electrical conductors; Manhattan and the Bronx; duties of commissioner of transportation.* ::
 
-(14) "C" level means the sound level as measured with a sound level meter using the "C" weighting network. The unit of measurement is the dB(C). This frequency weighting network for the measurement of sound levels shall comply with standards established by the American National Standards Institute specifications for sound level meters S1.4-1971, as amended or S1.4-1983, as amended.
 
-(15) Certificate means an operating or temporary operating certificate.
+a. It shall be the duty of the commissioner of transportation to carefully investigate any and all methods proposed by any company for electric lighting or electrical communication by the use of conductors along or across any street in the boroughs of Manhattan and the Bronx, and, before approving of any such method, such commissioner of transportation shall require that, so far as practicable, all such conductors when constructed shall be underground. The commissioner of transportation shall have full authority to compel all companies operating electric wires to use the subway prepared in accordance with the provisions of sections 24-407 through 24-409 of the code.
 
-(16) Charter means the New York city charter including all of its amend- ments.
+b. Wherever, along the streets, in sparsely inhabited or unoccupied portions of such boroughs, the public interests do not require the electrical conductors to be placed underground, and wherever, in any other locality in such boroughs, it is deemed by such commissioner to be, for any cause, impracticable to construct and successfully operate underground the electrical conductors required by any such company, then, it shall be the duty of such commissioner to examine and grant the application of any such company for permission to deviate from such underground system. The commissioner of transportation shall not, however, grant any such permission unless he or she shall be satisfied, upon investigation, that such a permit should be granted for one of the reasons stated above, and that it will not interfere with the successful working of underground conductors elsewhere in such boroughs. Any such permit shall be held and construed to authorize the construction and maintenance of the lines of conductors therein provided for, as and where prescribed by the commissioner of transportation.
 
-(17) Circulation device means any device which circulates a gas or fluid, including but not limited to any air conditioner, pump, cooling tower, fan or blower.
+c. It is hereby made the duty of such commissioner of transportation, in granting any such permit for other than underground electrical connections, to bear in mind the policy and purpose of sections 24-407 through 24-409 of the code, which is to convert the overhead systems of electrical wires and cables now in use in such boroughs to underground systems, as soon as possible, without impairing the efficiency of their service, and to require that, as far as practicable, all electrical conductors in any street in such boroughs shall be removed from the surface and placed and operated underground, as soon as may be consistent with the convenient use thereof by the public. It is intended to authorize other than underground electrical conductors, to be used in the streets, only when and where the public interests do not require the electrical conductors to be placed underground, or when and where it shall be deemed by the board of estimate to be impracticable to place and operate the conductors advantageously underground. It is also intended to make all aerial or other electrical connections merely incidental to such underground methods, and to require that they be authorized only when and where needed for the convenient use of the public or where the underground conductors can be made more useful thereby.
 
-(18) Claxon means any manually, mechanically, or electrically powered device, other than an emergency signal device, including but not limited to a motor vehicle horn, which is intended to, and when operated actually does, emit a sound signal.
+d. The work of constructing every line of conductors authorized by any such permit, so granted, shall be subject to the rules and regulations prescribed by the commissioner of transportation. Every such permit shall specify the location of the structures to be erected and to be used for sustaining the electrical conductors, and shall give the general dimensions thereof.
 
-(19) This code means the New York city noise control code.
+e. It shall be the duty of the commissioner of transportation to require that the subway may be used by the city for the electric wires or conductors operated by its police, fire or other agencies without expense, except that of the wires or conductors. The city shall not, however, be compelled to place any such wires or conductors underground until the money has been specifically raised therefor, and until that time the city may continue to use and extend such wires.
 
-(20) Commissioner means commissioner of environmental protection or his or her authorized representative.
 
-(21) Construction or construction work means any or all activity necessary or incidental to the erection, demolition, assembling, altering, installing or equipping of buildings, public or private highways, roads, premises, parks, utility lines including such lines in already-constructed tunnels, or other property, including land clearing, grading, excavating and filling.
 
-(22) Construction device means any device designed and intended for use in construction including, but not limited to any air compressor, pile driver, sledgehammer, bulldozer, pneumatic hammer, steam shovel, derrick, crane, steam or electric hoist, construction vehicle or pneumatic or electric tool.
 
-(23) Construction material means any material, regardless of composition, designed and customarily used in construction including but not limited to any rails, pillars, columns, beams, bricks, flooring, wall, ceiling or roofing material, gravel, sand, cement or asphalt.
 
-(24) Container means any receptacle, regardless of contents, manufactured from wood, metal, plastic, paper or any other material including but not limited to any barrel, basket, box, crate, tub, bottle, can or refuse container.
 
-(25) Decibel means the practical unit of measurement for sound pressure level; the number of decibels of a measured sound is equal to 20 times the logarithm to the base 10 of the ratio of the sound pressure to the pressure of a reference sound (20 micropascals); abbreviated "dB".
+*§ 24-409 Aerial electrical wires or cables; regulation.* ::
 
-(26) Device means any mechanism which is intended to or which actually produces sound when operated or handled.
 
-(27) Department means the department of environmental protection.
+Whenever the commissioner of transportation shall permit any aerial electrical wires or cables, carried along or across and above the surface of any of the streets of such boroughs, to be crossed by aerial electrical wires or cables, it shall be the duty of the commissioner of transportation to designate also, in such permit, the route and location thereof, and to prescribe and regulate the height at which such wires or cables shall be placed. Whenever any such permit shall be granted by the commissioner of transportation, in extending the connections of any subterranean electrical conductors, for the erection of any structure or structures for sustaining electrical conductors above the surface of any street, or for placing wires or cables on any such structure or elsewhere than underground, or for carrying any such wires or cables across or along and above the surface of any street, or for placing wires or cables on any such structure or elsewhere than underground, or for carrying any such wires or cables over or into or in the rear of any building in such boroughs, any and all such structures, and any and all such wires or cables, shall be so erected and maintained as not to interfere with the other public uses of such streets.
 
-(28) Dwelling means any building lawfully occupied in whole or in part as the temporary or permanent residence of one or more natural persons.
 
-(29) Dynamic insertion loss means the difference between two sound pressure levels which are measured at the same point in space before and after a muffler is inserted between the measurement point and the sound source under operating conditions.
 
-(30) Emergency means a public calamity or an exposure of any person or property to imminent danger.
 
-(31) Emergency signal device means any gong, siren whistle, or siren or any air horn or any similar device the use of which on authorized emergency vehicles is permitted by subdivision twenty-six of section three hundred seventy-five of the vehicle and traffic law.
 
-(32) Exhaust source means a system which removes and transports air or gas from a device.
 
-(33) Extraneous sound is sound that is intense, intermittent, not representative of the relatively steady sound levels at a given location and not attributable to a source or sources under investigation for violation of this code. Such sound includes but is not limited to sirens of passing emergency vehicles, unusually loud motor vehicle braking (screeching) or exhaust noise, people shouting, animal vocalization, passing aircraft, horn honking, car door slamming and passing trains. Notwithstanding the foregoing provision, sounds that are individually persistent or controlling of the sound level at a given location shall not be considered to be extraneous sounds if they constitute more than 50 percent of the duration of an ambient or total sound level measurement such as for example the sound of a passing aircraft at a specific location if airplanes regularly pass over such location and the proximity of such passing aircraft to the location, its sound level, and the duration of such sound level, control the sound level at the given location at the time the sound source under investigation is being measured. For the purposes of the enforcement of this code, extraneous sounds are excluded when measuring the ambient sound level at a given location and when measuring the sound level of a source or sources under investigation for violation of this code except where such sounds are themselves under investigation for violation of this code.
+*§ 24-410 Construction of conduits; removal of poles, wires.* ::
 
-(34) Impulsive sound is sound that is of short duration, where each peak of sound lasts 2 seconds or less. The sound is characterized by abrupt onset and rapid decay. As used in this code, the term impulsive sound shall not include music.
 
-(35) Internal combustion engine means a device for the production of energy by means of the combustion under pressure of fossil fuel.
+Whenever, in the opinion of the commissioner of transportation, a sufficient construction of conduits or subways under ground shall be made ready under the provisions of sections 24-410 through 24-414 of the code, in any street or locality in the boroughs of Manhattan and the Bronx, reference being had to the general direction and vicinity of the electrical conductors then in use overhead, the commissioner of transportation shall notify the owners or operators of the electrical conductors above ground in such street or locality. The notice shall inform them that they are to make such electrical connections in such street or through other streets, localities or parts of such boroughs with such underground conduits or subways as shall be determined by such commissioner of transportation, and to remove poles, wires, or other electrical conductors above ground and their supporting fixtures or other devices from such street and locality within ninety days after notice to such effect shall be given.
 
-(36) Lawn care device means any device powered mechanically, by electricity, by gasoline, by diesel fuel or by any other fuel, which is intended to be used or is actually used for the mowing of grass, the cutting or chipping of trees, tree roots or tree branches, or the clearing of leaves or other vegetation from lawns, sidewalks, public streets or public highways and shall include, but not be limited to, such devices as lawn mowers and lawn mower attachments, lawn edgers, leaf blowers, leaf vacuums, mulchers and chippers.
 
-(37) Lmax means the maximum measured sound level at any instant in time.
 
-(38) Motor vehicle means any device which is propelled by an engine in or upon which a person or material may be transported on the ground and which is intended to be operated upon a public highway.
 
-(39) Muffler means an apparatus generally consisting of but not limited to a series of chambers or baffles for the purpose of transmitting gases while reducing sound levels.
 
-(40) Owner means and includes the owner of the freehold of the premises or lesser estate therein, or mortgagee thereof, a lessee or agent of any of the above persons, a lessee of a device or his or her agent, a tenant, operator, or any other person who has regular control of a device or an apparatus.
 
-(41) Paving breaker means any powered construction device intended to cut or trench pavement, subbase macadam, gravel, concrete or hard ground.
+*§ 24-411 Removal of abandoned poles.* ::
 
-(42) Person means any individual, partnership, company, corporation, association, firm, organization, governmental agency, administration or department, or any other group of individuals, or any officer or employee thereof.
 
-(43) Personal audio device means a portable sound reproduction device as normally and customarily used for personal purposes including but not limited to a personal radio, phonograph, television receiver, tape recorder or compact disc player. For the purposes of this definition such term shall include a sound reproduction device installed in or operated from a motor vehicle whether or not portable.
+a. All telegraph, telephone and electric light poles, wires or conductors which shall hereafter remain or stand disused, or become disused or abandoned, in, or over or upon any street, shall be forthwith removed, but for sufficient cause shown the commissioner of transportation may extend the time for such removal, by one or more orders, for periods not exceeding one year each.
 
-(44) Plainly audible sound means any sound for which any of the content of that sound, such as, but not limited to comprehensible musical rhythms, is communicated to a person using his or her unaided hearing faculties. For the purposes of the enforcement of this code, the detection of any component of music, including but not limited to the rhythmic bass by a person using his or her unaided hearing faculties is sufficient to verify plainly audible sound. It is not necessary for such person to determine the title, specific words or artist of such music. In the case of motor vehicles the detection of the sound of a muffler or of an exhaust by a person using his or her unaided hearing faculties is sufficient to verify plainly audible sound. Plainly audible sound does not require measurement with a sound level meter.
+b. The persons owning, operating, managing or controlling poles, wires or appurtenances which may have been so disused or abandoned, or which may be dangerous or unsafe, shall take down and remove them, and upon their failure to do so, the commissioner of transportation shall remove the same forthwith, at the expense of such persons. Before such removal, the commissioner of transportation, except where a condition of danger exists, shall mail a notice thereof to the last known address of such persons, a copy of which shall be posted for a period of ten days on each of such poles prior to its removal.
 
-(45) Power tool means any device powered mechanically, by electricity, by gasoline, by diesel fuel or by any other fuel, which is intended to be used or is actually used for, but shall not be limited to, the performance of such functions as cutting, nailing, stapling, sawing, vacuuming or drilling.
+c. Any person convicted of a violation of any of the provisions of this section shall be punished by a fine of not less than $350 nor more than $750 dollars, imprisonment for not more than ten days, or both. In addition to or as an alternative to such penalty, such person shall also be subject to a civil penalty of no less than nor more than $100 per day such person is in violation of any provision of this section. Such civil penalties shall be imposed in the manner set forth in section 19-150.
 
-(46) Public right-of-way means a public highway, road, street, avenue, alley, driveway, path, sidewalk, roadway or any other public place or public way.
 
-(47) Railroad means a railroad, other than a rapid transit railroad or street railroad, operated for public use in the conveyance of persons or property for compensation, with all bridges, ferries, tunnels, equipment, switches, spurs, tracks, stations and terminal facilities used, operated or owned by or in connection therewith.
 
-(48) Rapid transit railroad means a rapid transit railroad used for local service in the transportation of passengers as a common carrier for hire together with the appurtenances, facilities and equipment thereof.
 
-(49) Receiving property means real property, including but not limited to buildings, grounds, offices and dwelling units, from which sound levels from sound sources outside such property may be measured. For the purposes of this definition, individual offices or dwelling units within a building may constitute a receiving property.
 
-(50) Refuse collection vehicle means a motor vehicle designed or used to remove, collect, or transport refuse, solid waste or recyclables.
 
-(51) Sound means an oscillation in pressure, stress, particle displacement, particle velocity, etc., in a medium with internal forces (e.g., elastic, viscous), or the superposition of such propagated oscillation which evokes an auditory sensation.
 
-(52) Sound level meter means any instrument including a microphone, an amplifier, an output meter, and frequency weighting networks for the measurement of noise and sound levels in a specified manner and which complies with standards established by the Amercian National Standards Institute specifications for sound level meters S1.4-1971, as amended or S1.4-1983, as amended.
 
-(53) Sound pressure level (decibels) means an expression of the acoustic pressure calculated as twenty times the logarithm to the base ten of the ratio of the root mean square of the pressure of the sound to the reference pressure, 20 micropascals.
+*§ 24-412 Agreement with Consolidated Telegraph and Electrical Subway Company; new contracts.* ::
 
-(54) Sound reproduction device means a device intended primarily for the production or reproduction of sound, including but not limited to any musical instrument, radio receiver, television receiver, tape recorder, phonograph or electronic sound amplifying system.
 
-(55) Sound signal means any sound produced by a sound signal device designed to transmit information.
+The agreement made by and between the commissioners of electrical subways or the commissioner of water supply, gas and electricity for the city of New York and the Consolidated Telegraph and Electrical Subway Company or its successor by merger, the Consolidated Edison Company of New York, under date of July twenty-seventh, eighteen hundred eighty-six, when and as amended and modified by a second and further contract or agreement between these parties, dated the seventh day of April, eighteen hundred eighty-seven, is hereby ratified and confirmed, subject, however to all the provisions of sections 24-410 through 24-414 of the code. But if at any time or for any reason the agreement so amended shall be or become inoperative or ineffectual for the accomplishment of its just purpose and the purposes of these sections, or if the company shall be unable, or after reasonable notice and opportunity given by such commissioner, it shall fail or decline to comply with or carry into effect the agreement in all its terms, then such commissioner may, with the approval of the mayor, make such new, further or different contracts with the same or other parties as may be reasonable or necessary to carry into effect the provisions and intent of sections 24-410 through 24-414 of the code.
 
-(56) Sound signal device means a device designed to produce a sound signal when operated, including but not limited to any claxon, air horn, whistle, bell, gong, siren, but not an emergency signal device.
 
-(57) Sound source means any activity or device that emits sound.
 
-(58) This code means the New York city noise control code.
 
-(59) Total sound level means that measured sound level that represents the combined sound level of the source or sources under investigation and the ambient sound level. Total sound level measurements shall exclude extraneous sound sources.
 
-(60) Tunnel means an underground passage which is intended for use as a railway, aqueduct, road, sewer or major utility artery.
 
-(61) Tunneling means any activity necessary or incidental to the construction of any tunnel, including the sinking of shafts to tunnel or to an intermediate level and the surface activities required to sink the shafts and construct the tunnel.
+*§ 24-413 Enforcement of agreement and of provisions of sections 24-407 through 24-414 of the code.* ::
 
-(62) Unreasonable noise means any excessive or unusually loud sound that disturbs the peace, comfort or repose of a reasonable person of normal sensitivities, injures or endangers the health or safety of a reasonable person of normal sensitivities or which causes injury to plant or animal life, or damage to property or business.
 
-(63) Refuse collection facility means any structure, building or other premises at which solid waste is received for the purpose of subsequent transfer to another location regardless of whether such solid waste is subject to any processing or reduction in volume at such structure, building or premises.
+Whenever it shall be made to appear to the satisfaction of any of the justices of the supreme court, that the commissioner of general services or his or her representatives, or any commissioner succeeding to the functions of such commissioner, or his or her representatives, or the Consolidated Telegraph and Electrical Subway Company or its successor by merger, the Consolidated Edison Company of New York, or any persons claiming under such commissioner, or under such company, shall have violated or shall have failed to observe and fully perform any of the provisions of sections 24-407 through 24-414 of the code, or of such agreement, or shall have failed to furnish just and equal facilities thereunder to any and all corporations lawfully competent to manufacture, use or supply electricity, or to operate electrical conductors in any street, applying for such facilities upon terms that to the court shall appear just and reasonable, then such justice or court may, by proper proceedings in the nature of an order of mandamus, enforce the provisions of sections 24-407 through 24-414 of the code, or of such agreement or of any agreement made under such sections or compel the granting of such facilities, or may grant such relief as may be proper. Such commissioner, or the city, or any person, company or corporation aggrieved, shall be entitled to institute and maintain such proceedings.
 
 
 
 
 
 
+*§ 24-414 Power to purchase subways, property and contracts of such company.* ::
 
-**Subchapter 2: General Provisions**
 
+The mayor, in his or her discretion, may purchase the subways constructed by such company, and the contracts and other property held or owned by it for any of the purposes of its incorporation, for and in the name of the city. The purchase price shall not exceed the actual cost of the property, with ten per cent added to such cost, as may be or may have been agreed upon between such company and the commissioner of general services. The payment therefor shall be made within four months after the delivery to the comptroller of good and sufficient and duly executed instruments of conveyance or transfer to the city, subject, however, to any valid liens outstanding thereon, not exceeding fifty per cent of the actual cost of such subways, and subject to all existing leases or contracts for the use of such subways.
 
 
-*§ 24-204 General powers of the commissioner.* ::
 
 
-(a) Subject to the provisions of this code, the commissioner may take such action as may be necessary to abate a sound source which causes or may cause, by itself or in combination with any other sound source or sources, an unreasonable or prohibited noise. The commissioner may exercise or delegate any of the functions, powers and duties vested in him or her or in the department by this code.
 
-(b) The commissioner shall promulgate such rules as are necessary to effectuate the purposes of this code, including, without limitation, rules setting forth specifications for the operation, installation, best available technology, or manufacture of sound generating equipment or devices, or sound mitigation equipment or devices.
 
-(c) The commissioner shall promulgate such rules as are necessary with regard to standards and procedures to be followed in the measurement of sound pressure levels governed by the provisions of this code, provided that such standards and procedures are substantially in compliance with any similar standards and procedures promulgated by the American National Standards Institute, International Standards Organization, Society of Automotive Engineers, Compressed Air and Gas Institute, American Society of Heating, Refrigeration, and Air Conditioning Engineers, American Refrigeration Institute or any generally recognized professional standard-setting organization.
+*§ 24-415 Conditions to granting permit for conduit construction; security.* ::
 
-(d) The police department, as well as other agencies of the city designated by the commissioner, shall have the authority to enforce the provisions of this code and police officers and designated employees of the department and of such other city agencies shall have the power to issue summonses, appearance tickets and notices of violation for violations of this code.
 
+a. The commissioner of transportation shall not grant a permit of the type mentioned in section 24-404 of the code unless, if the application be for underground construction, there is an existing demand for the construction of such conduits or subways, and the occupation of such conduits or subways is reasonably assured, and the public interests require their construction, or unless, if the application be for permission to deviate from an underground system, the case is one of those in which such deviation may be legally permitted under authority of sections 24-407 through 24-409 of the code. This section is made a police regulation in and for such boroughs.
 
+b. It shall be the duty of the commissioner of transportation to require of any corporation or individual making application for the construction of subways, that before the construction of such subways shall be ordered, the applicant shall furnish to the corporation which shall be ordered to build such subways, satisfactory security for the occupation by it of the subways which shall be constructed at its request, and the payment of the established rentals therefor yearly in advance, during such period, not less than five years, as the commissioner of transportation shall determine. The commissioner of transportation may establish and from time to time may alter, add to or amend all proper and necessary rules, regulations and provisions for the manner of use and management of the electrical conductors, and of the conduits or subways therefor, constructed or contemplated under the provisions of this section or of any law mentioned herein. This section shall not be construed to authorize any corporation or individual to take up the pavements of such boroughs, to excavate in any of such streets or to erect poles in any part of such boroughs, unless a permit in writing therefor shall have been first obtained from the commissioner of transportation.
 
 
 
 
-*§ 24-205 Investigations and studies by the commissioner.* ::
 
 
-(a) The commissioner may make or cause to be made any investigation or study which in his or her opinion is desirable for the purpose of enforcing this code or controlling or abating an unreasonable or prohibited noise. For such purposes, the commissioner may make tests, conduct hearings, compel the attendance of witnesses, and take their testimony under oath and may compel the production of books, papers and other things reasonably necessary to the matter under consideration.
+*§ 24-416 Underground electrical conductors; Brooklyn, Queens and Richmond.* ::
 
-(b) The commissioner shall study and propose strategies to control and/or reduce sound levels associated with airports, rapid transit and railroad operations and within twenty-four months of the effective date of this section shall report to the mayor his or her findings and recommendations, specifically identifying those recommendations that may only be implemented through state or federal legislation or rules.
 
-(c) The commissioner, in conjunction with the police department, shall study noise abatement strategies for audible motor vehicle burglar alarms and within twenty-four months of the effective date of this section shall report to the mayor his or her findings and recommendations.
+Whenever the board of estimate, after hearing all the parties interested, shall deem it desirable and practicable that the electrical conductors above ground in any street in the boroughs of Brooklyn, Queens and Richmond, be placed underground, the commissioner of transportation shall notify the owners or operators of such electrical conductors. The notice shall be to the effect that such electrical conductors shall be placed underground within a certain time, sufficient for the proper construction of underground conduits or other channels in such street, to be fixed by such commissioner. Whenever any duly authorized company operating or intending to operate electrical conductors in any such street, shall desire to place its conductors or any of them underground, it shall be obligatory upon such company to file with the commissioner of transportation a map or maps made to a scale, showing the streets which are desired to be used for such purpose, and giving the general location, dimensions and course of the underground conduit desired to be constructed. Before any such conduit shall be constructed it shall be necessary to obtain the approval of the commissioner of transportation of such plan of construction so proposed, and such commissioner shall have power to require that the work of removal and of constructing every such system of underground conductors shall be done according to such plan so approved.
 
-(d) The commissioner, in conjunction with the police department, shall study on an ongoing basis emerging technology in acoustical measurement and shall periodically report to the mayor his or her findings and recommendations regarding the testing and potential use of equipment for enforcement of this code. In conjunction with such study, the commissioner may issue a request for expressions of interest to determine new and emerging technological solutions for accurate and efficient measurement of sounds as enumerated in this code.
 
-(e) The commissioner shall study the impact of motor vehicle back-up warning devices installed on motor vehicles on ambient sound levels and within twenty-four months of the effective date of this section shall report to the mayor his or her findings and recommendations, specifically identifying those recommendations that may only be implemented through state or federal legislation.
 
 
 
 
+*§ 24-417 Telegraph, telephone or electric light poles on Eighth avenue between Flatbush avenue and Ninth street in Brooklyn.* ::
 
 
-*§ 24-206 Testing by order of the commissioner.* ::
+Telegraph, telephone or electric light poles, except such iron poles as are now or may hereafter be erected and maintained in connection with an underground system of wires, shall not be erected upon Eighth avenue, in Brooklyn, between Flatbush avenue and Ninth street, or any part thereof, unless the consent of a majority of the owners of property in numbers and value thereof on Eighth avenue between Flatbush avenue and Ninth street first be obtained in writing, duly acknowledged in the same manner as deeds entitled to be recorded.
 
 
-(a) If the commissioner has reasonable cause to believe that any device is in violation of this code, the commissioner may order the owner of the device to conduct such tests as are necessary in the opinion of the commissioner to determine whether the device or its operation is in violation of this code and to submit the test results to the commissioner within ten days after the tests are completed.
 
-(b) Such tests shall be conducted in a manner approved by the commissioner. If any part of the test is conducted at a place other than the site where the device is located, that part of the test shall be certified by a laboratory acceptable to the commissioner. The commissioner may require that the entire test results shall be reviewed and certified by (i) a professional engineer with acoustical experience as specified in the rules of the department or (ii) a noise consultant with qualifications of education and/or acoustical experience as set forth in the rules of the department.
 
-(c) If in the opinion of the commissioner, tests by the department are necessary, the commissioner may order the owner to provide such access to the device as the commissioner may reasonably request, to provide a power source suitable to the points of testing, and to provide allied facilities, exclusive of sound level meter. These provisions shall be made at the expense of the owner of the device. The owner shall be furnished with copies of the analytical results of the data collected.
 
-(d) If after the analysis of such testing, it is determined by the commissioner that such device or devices generate sound levels that exceed the limits of this code, the commissioner may make recommendations for modifications and/or mitigation measures to bring such device or devices into compliance.
 
-(e) The commissioner may issue a separate notice of violation for every 24-hour period of noncompliance with the orders of the commissioner issued pursuant to this section.
+*§ 24-418 Procedure.* ::
 
 
+The commissioner of transportation shall fix the time within which electrical conductors must be placed underground, and shall notify the owners or operators of any such electrical conductors in the city that such conductors must be removed or placed underground, in accordance with the resolution of the board of estimate. He or she shall give all persons or corporations owning or operating such electrical conductors, an opportunity to be heard on the question of the time necessary to place them underground, and shall hear such expert opinion as he or she may think advisable. Such owners or operators of electrical conductors above ground in such street or locality shall be required to remove all of such poles, wires or other electrical conductors and supporting fixtures or other devices from any such street or locality within thirty days after the expiration of the time so fixed by the commissioner of transportation.
 
 
 
 
-*§ 24-207 Inspection.* ::
 
 
-(a) The department may inspect at any reasonable time and in a reasonable manner any device which creates or may create unreasonable or prohibited noise including but not limited to the premises where the device is used.
+*§ 24-419 Certain sections to be police regulations.* ::
 
-(b) The department may inspect at any reasonable time and in a reasonable manner any record relating to a use of a device which creates or may create unreasonable or prohibited noise.
 
-(c) No person shall refuse entry or access into the public areas of a multiple dwelling or a place of business to an authorized employee of the department or other authorized city employee who presents appropriate credentials, nor shall any person refuse entry or access into any other portion of a premises to an authorized employee of the department or other authorized city employee who presents appropriate credentials and a warrant for such inspection.
+The provisions of sections 24-404, 24-406, 24-410, 24-416 and 24-418 of the code are made police regulations in and for the city. In case the owners of such poles, wires or other electrical conductors, fixtures and devices shall fail to have them removed from such streets or localities as required by the commissioner of transportation or by the determination of the board of estimate, or shall neglect or refuse to comply with any provisions of law with respect thereto, it shall be the duty of the commissioner of transportation to cause them to be removed from such streets.
 
-(d) No person shall refuse to allow an authorized employee of the department or other authorized city employee who presents appropriate credentials to perform reasonable sound testing on any device or devices, including but not limited to requiring the temporary shutting down of said device or devices for the purposes of such testing except that upon a showing that the inspection would produce a noticeable interruption of services that would cause discomfort to employees or customers or require a building engineer or other professional to work with the equipment, such authorized employee shall reschedule the inspection for a more convenient time.
 
-(e) The commissioner shall adopt rules prescribing specific time frames for inspections in response to after hours noise complaints received by the department in order to ensure that such inspections are most likely to occur at (i) a time that the alleged noise is continued from the time of the complaint or (ii) at a time when the alleged noise is likely to be repeated.
 
-*(f) The commissioner shall publish on the city’s website the manner by which noise levels shall be measured during inspections conducted pursuant to this section and in accordance with section 24-217.1 which shall be available online.
 
-*(f) By no later than January 31 of each year, the department shall submit to the mayor and the council, and publicly post on its website, a report, containing, at a minimum, for the previous calendar year:
 
-* Editor's note: there are two subsections designated as (f).
 
-   (i) the number of inspectors employed by the department;
+*§ 24-420 Replacement of lamp-posts or electric light poles.* ::
 
-   (ii) the number of complaints regarding noise received by the department, disaggregated by the type of noise;
 
-   (iii) the number of after hours noise complaints responded to within the amount of time prescribed by rule as well as the number of duplicative after hours noise complaints;
+a. Any person who shall take up and temporarily remove any lamp-post or electric light pole, under a permit or by other lawful authority, shall cause the same to be reset at his or her own expense immediately upon the completion of the work that necessitated its removal.
 
-   (iv) the number of non-violation resolutions to complaints;
+b. Any person who shall violate any provision of this section shall, upon conviction thereof, be punished by a fine of not less than two hundred fifty nor more than five hundred dollars, or by imprisonment for not exceeding thirty days, or by both.
 
-   (v) the number of noise related violations issued;
 
-   (vi) the number of such violations which were dismissed;
 
-   (vii) the amount of civil penalties which were paid pursuant to such violations;
 
-   (viii) the number of alternative noise mitigation plans approved pursuant to section 24-221 of this code; and
 
-   (ix) the number of written stop work orders issued pursuant to section 24-223.1 of this code.
 
+*§ 24-421 Electric light, power; inspection of; all wires to be inspected.* ::
 
 
+The commissioner of buildings shall cause all wires, currents and appliances that may be introduced into or placed in any building or structure in the city to be inspected, and shall furnish a certificate of such inspection to any person or corporation applying therefor.
 
 
 
 
 
-*§ 24-208 Registrations.* ::
 
+*§ 24-422 Commissioner of buildings to submit proposed local laws with respect to electrical equipment and energy.* ::
 
-(a) The commissioner may require the written registration of air compressors, paving breakers, refuse compacting vehicles and rapid transit railroads, including but not limited to its rolling stock, track and trackbeds, passenger stations, circulation devices rated 300,000 BTUs or higher, tunnels, elevated structures, yards, depots and garages. A period of sixty days shall be allowed for the filing of such registration measured from the date such registration is required by the commissioner or with respect to devices installed after such requirement is instituted measured from the date of installation. However, in cases of emergency, the commissioner may designate a shorter period of time.
 
-(b) Registration shall be made on forms furnished by the department. The forms may require information concerning the device covered by the registration, the sound level caused by the device or any additional information required by the commissioner for the purpose of enforcing this code. The registrant shall maintain the registration in current status by notifying the department of any change in any item of information furnished in compliance with this subdivision within a reasonable time not exceeding thirty days after the change is made.
+The commissioner of buildings shall from time to time submit for the consideration of the council proposed local laws in relation to electric wires, appliances and currents for furnishing light, heat or power when introduced into or placed in any building or structure in the city. Such proposed local laws shall prescribe the method of construction, operation, location, arrangement, insulation and use of such wires, appliances and currents as the commissioner of buildings shall from time to time deem necessary for the protection of life and property.
 
-(c) Registration shall be made by the owner of the device. If a registrant is a partnership or group other than a corporation, the registration shall be made by one individual who is a member of the group. If the registrant is a corporation, the registration shall be made by an officer of the corporation.
 
 
 
 
 
+*§ 24-423 Operators of motion-picture projecting machines. [Repealed.]* ::
 
-*§ 24-209 Interfering with or obstructing department personnel.* ::
 
 
-No person shall interfere with or obstruct the commissioner or any department employee in carrying out any duty for the commissioner or the board.
 
 
 
 
 
 
-*§ 24-210 False and misleading statements; unlawful reproduction or alteration of documents.* ::
+*§ 24-424 Annual safety report concerning gas infrastructure.* ::
 
 
-(a) No person shall knowingly make a false or misleading statement or submit a false or misleading document to the department as to any matter within the jurisdiction of the department.
+a. As used in this section, the terms "gas corporation" and "gas plant" shall have the meanings ascribed to such terms in section 2 of the public service law.
 
-(b) No person shall make, reproduce or alter or cause to be made, reproduced or altered a tunneling permit, certificate or other document issued by the commissioner or required by this code if the purpose of such reproduction or alteration is to evade or violate any provision of this code or any other law.
+b. Each gas corporation that owns, operates or manages a gas plant located in whole or in part in the city shall by July first in each year, beginning in 2017, submit to an agency or office designated by the mayor a report on gas asset conditions consistent with the reporting requirements of section 255.951 of title 16 of the New York codes, rules and regulations and 49 CFR § 191.11, including the operator's mains and services inventory by material, diameter, vintage and leaks; a summary of major planned infrastructure projects in the city; the gas corporation's investment priorities in the next year; and such other information as such designated agency or office may require by rule.
 
+c. Each gas corporation will meet annually with the head of such designated agency or office, the speaker of the council and the mayor, or designees of such persons, to discuss the information set forth in subdivision b of this section and related gas safety issues, including planned infrastructure in the city, leak reporting and surveillance activities, the operator's integrity management program and the general condition of the operator's gas assets.
 
 
 
 
 
-*§ 24-211 Display of permits and certificates.* ::
 
 
-Any tunneling permit or certificate required by this code shall be displayed in the vicinity of the device on the premises designated on the tunneling permit or certificate or in the vicinity of the place where the device will be operated or supervised.
 
+*§ 24-425 Identification of gas safety risk factors.* ::
 
 
+a. An agency or office designated by the mayor shall seek to identify risk factors that correlate to or otherwise indicate a violation of any law or rule that (i) relates to the delivery by pipe, or usage of, gas in residential or commercial buildings and (ii) poses a hazard to health and safety or a risk of damage to property. Such risk factors may include, but need not be limited to, unauthorized gas usage; unusual gas usage for a building based on its historic usage or usage for buildings of similar size, type or occupancy; abandoned structures; or structures condemned by the city.
 
+b. In developing such risk factors, such designated agency or office shall (i) seek the cooperation of each gas corporation that owns, operates or manages a gas plant located in whole or in part in the city and with each organized labor association that contracts with such corporations and (ii) share with each such corporation appropriate information necessary to minimize impacts of such risk factors. The terms "gas corporation" and "gas plant" as used in this section shall have the meanings ascribed to such terms in section 2 of the public service law.
 
-
-*§ 24-212 Enforcement of code by other than compulsory means.* ::
-
-
-Nothing in this code shall prevent the commissioner from making efforts to obtain voluntary compliance by way of warning, notice or educational means. However, such noncompulsory methods need not be used before proceeding by way of compulsory enforcement.
-
-
-
-
-
-
-*§ 24-213 Service of papers.* ::
-
-
-(a) Service of any written notice, order or decision required by this code shall be made on the owner as follows:
-
-   (1) Either by mailing the notice, order or decision directed to the owner of the device at the address listed in his or her application, tunneling permit or operating certificate or at the address where the device is located; or
-
-   (2) By leaving the notice, order or decision with the owner of the device, or if the owner is not an individual, with a member of the partnership or group concerned or with an officer or managing agent of the corporation.
-
-(b) Service of any written notice, order or decision required by this code shall be made on a person:
-
-   (1) Either by mailing the notice, order or decision directed to the person at his or her principal place of business or home address; or
-
-   (2) By leaving the notice, order or decision with the person, or if the person is not an individual, with a member of the partnership or group concerned, or with an officer or managing agent of the corporation.
-
-(c) Service of any written notice required by this code shall be made on the department, commissioner or board as follows:
-
-   (1) Either by mailing the notice to the commissioner; or
-
-   (2) By leaving the notice at the department or with an employee of the department designated for this purpose.
-
-
-
-
-
-
-*§ 24-214 Inconsistent provisions.* ::
-
-
-Insofar as the provisions of this code are inconsistent with any provision of any other title of the code, or any rule or regulation of any governmental agency of the city of New York, the provisions of this code shall be controlling.
-
-
-
-
-
-
-*§ 24-216 Noise abatement contract compliance.* ::
-
-
-(a) (1) Contract. As used in this section, the term "contract" means any written agreement, purchase order or instrument whereby the city is committed to expend or does expend funds authorized by the capital budget of the city of New York in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing; however, the term "contract" shall not include:
-
-      (i) contracts for financial or other assistance made with a government;
-
-      (ii) contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award and sale of bonds, certificates of indebtedness, notes or other fiscal obligations of the city, or consisting thereof;
-
-      (iii) employment by the city of officers and employees of the city.
-
-   (2) Contracting agency. As used in this section, the term "contracting agency" means any board, bureau, department, commission or other agency of the government of the city of New York, or any official thereof, who or which is authorized to and does, on behalf of the city, provide for, enter into, award or administer contracts or any other public agency which enters into, awards or administers contracts pursuant to which funds authorized by the capital budget of the city of New York are expended.
-
-(b) Contract provisions. No contract shall be awarded or entered into by a contracting agency, unless such contract contains provisions requiring that:
-
-   1. Devices and activities which will be operated, conducted, constructed or manufactured pursuant to the contract and which are subject to the provisions of the code will be operated, conducted, constructed or manufactured without causing a violation of the code; and
-
-   2. Such devices and activities incorporate advances in the art of noise control developed for the kind and level of noise emitted or produced by such devices and activities.
-
-(c) Regulations. The commissioner may from time to time promulgate regulations setting forth such specifications for the operation, conducting, construction or manufacture of devices and activities pursuant to city contracts as he or she deems necessary to comply with the provisions of this section.
-
-(d) No person shall cause or permit the operation of a device or conducting of an activity in such a way as to violate any provision of a contract required by this section or any regulation promulgated pursuant to this section.
-
-(e) No regulations promulgated pursuant to this section shall alter the terms, conditions and specifications of a contract for which bids have been opened, at the time of issuance of such regulation.
-
-
-
-
-
-
-*§ 24-217 Exemptions.* ::
-
-
-The provisions of this code shall not apply to the operation or use of any organ, bell, chimes or other similar instrument from on or within any church, synagogue, mosque or other house of worship.
-
-
-
-
-
-
-*§ 24-217.1 Measurements.* ::
-
-
-Unless otherwise specifically provided, all sound level measurements under this code shall be taken in Lmax with the sound level meter set to slow response.
-
-
-
-
-
-
-
-**Subchapter 3: Prohibited Noise; General Prohibition**
-
-
-
-*§ 24-218 General prohibitions.* ::
-
-
-(a) No person shall make, continue or cause or permit to be made or continued any unreasonable noise.
-
-(a-1) No person shall make, continue or cause to permit or be made or continued any unreasonable noise:
-
-   (1) for any commercial purpose or during the course of conducting any commercial activity; or
-
-   (2) through the use of a device, other than a device used within the interior living space of an individual residential unit, installed within or upon a multiple dwelling or a building used in part or in whole for non-residential purposes.
-
-(b) Unreasonable noise shall include but shall not be limited to sound, attributable to any device, that exceeds the following prohibited noise levels:
-
-   (1) Sound, other than impulsive sound, attributable to the source, measured at a level of 7 dB(A) or more above the ambient sound level at or after 10:00 p.m. and before 7:00 a.m., as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way.
-
-   (2) Sound, other than impulsive sound, attributable to the source, measured at a level of 10 dB(A) or more above the ambient sound level at or after 7:00 a.m. and before 10:00 p.m., as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way.
-
-   (3) Impulsive sound, attributable to the source, measured at a level of 15 dB(A) or more above the ambient sound level, as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way. Impulsive sound levels shall be measured in the A-weighting network with the sound level meter set to fast response. The ambient sound level shall be taken in the A-weighting network with the sound level meter set to slow response.
-
-(c) Notwithstanding the provisions of subdivision b of this section, where a particular sound source or device is subject to decibel level limits and requirements specifically prescribed for such source or device elsewhere in this code, the decibel level limits set forth in this section shall not apply to such sound source or device.
-
-(d) The decibel level limits set forth in this section shall not apply to sound attributable to construction devices and activities.
-
-(e) Where the commissioner finds that sound from any refuse collection facility regulated by the department of sanitation exceeds the decibel level limits set forth in this section, the commissioner shall order the operator of such facility to submit a certification by a professional engineer as to whether or not the facility is in compliance with the noise standards required by the department of sanitation rules (16 RCNY Ch. 4) and if not in compliance, the mitigation measures that will be undertaken to bring such facility into compliance. The testing and certification must be submitted to the department and to the department of sanitation within forty-five days after the issuance of such order. A facility that complies with an order issued pursuant to this section and with any required mitigation measures shall be deemed to be in compliance with the decibel limits of this section. With respect to any refuse collection facility owned or operated by the department of sanitation such facility shall be deemed to be in compliance with the decibel level limits of this section if it is in compliance with a best management practices plan developed in conjunction with the department. A notice of violation may only be issued for a refuse collection facility pursuant to this section where the operator of such facility fails to comply with an order of the commissioner issued pursuant to this subdivision or the mitigation measures set forth in a certification.
-
-
-
-
-
-
-
-
-*§ 24-218.1 Use of mobile telephones restricted in a place of public performance.* ::
-
-
-a. Definitions. For purposes of this section:
-
-   (1) The term "mobile telephone" shall mean a cellular, analog, wireless, digital or other similar telephone or communications device, which can be used to access two-way real time voice telecommunications service that is interconnected to a public switched telephone network and is provided by a commercial mobile radio service, as such term is defined by 47 CFR § 20.3.
-
-   (2) The term "use" shall mean to receive a mobile telephone call signaled by an audible sound, dial a mobile telephone, or talk or listen on a mobile telephone.
-
-   (3) The term "place of public performance" shall mean the area, room, or chamber of any indoor theatre, library, museum, gallery, motion picture theatre, concert hall, or building in which theatrical, musical, dance, motion picture, lecture, or other similar performances are exhibited. This term shall not include any area or venue in which professional or amateur sporting events are taking place.
-
-b. No person shall use a mobile telephone in a place of public performance while a theatrical, musical, dance, motion picture, lecture or other similar performance is taking place.
-
-c. Exception. The provisions of this section shall not apply to an individual who uses a mobile telephone to contact an emergency response operator, hospital, physician's office or health clinic, ambulance company, fire company, first aid squad or police department in an emergency situation or in any other circumstance which may be deemed an emergency.
-
-d. Notice to patrons.
-
-   (1) The owner, operator, manager or other person having control of any place of public performance shall, at every theatrical, musical, dance, motion picture, lecture or other similar performance, provide prominent and conspicuous notice to patrons by means of announcement, signage, printed material, or other similar means indicating that mobile telephone use is prohibited as prescribed in subdivision b of this section. The commissioner of environmental protection may promulgate rules regarding the size, style and location of such notices, but in promulgating such rules, the commissioner of environmental protection shall take into consideration the concerns of the various types of establishments regulated herein with respect to the style and design of such notices.
-
-   (2) In addition, the owner, operator, manager or other person having control of any motion picture theatre in which motion pictures are exhibited to the public shall, prior to the showing of each feature motion picture, show upon the movie screen information indicating that mobile telephone use is prohibited as prescribed in subdivision b of this section.
-
-
-
-
-
-
-
-**Subchapter 4: Construction Noise Management**
-
-
-
-*§ 24-219 Noise mitigation rules.* ::
-
-
-(a) The commissioner shall adopt rules prescribing noise mitigation strategies, methods, procedures and technology that shall be used where construction is occurring at any location (sites) whenever any one or more of the construction devices or activities listed below are employed or performed:
-
-   (1) air compressors.
-
-   (2) pile drivers.
-
-   (3) sledgehammers.
-
-   (4) bulldozers.
-
-   (5) pneumatic hammers.
-
-   (6) interior renovation as defined in such rules.
-
-   (7) derricks.
-
-   (8) cranes.
-
-   (9) electric powered hoists.
-
-   (10) off-road construction vehicles other than trucks.
-
-   (11) pumps.
-
-   (12) pneumatic tools.
-
-   (13) blasting.
-
-   (14) power tools.
-
-   (15) tunneling machines.
-
-   (16) construction devices with internal combustion engines.
-
-   (17) construction devices that emit impulsive sound.
-
-   (18) construction devices that create vibration.
-
-   (19) metal plates used in street construction to temporarily cover excavations.
-
-   (20) any other construction devices or activities specified in such rules.
-
-(b) Such rules shall include but shall not be limited to:
-
-   (1) The use of perimeter fences with acoustical insulation, where appropriate.
-
-   (2) The use of portable barriers with acoustical insulation, where appropriate.
-
-   (3) The use of acoustical blanket insulation, where appropriate.
-
-   (4) Testing of exhaust mufflers and certification, in a form and manner to be specified in the rules, that mufflers meet factory specifications for noise emissions at maximum loading at the commencement of construction at the site.
-
-   (5) The development of generic noise mitigation plans, where appropriate.
-
-   (6) Additional mitigation measures for sensitive receptors such as hospitals and schools, where appropriate.
-
-(c) The commissioner shall appoint an advisory committee, which shall include, but shall not be limited to, representatives of utility companies and the construction industry, including those industries related to heavy construction, persons with acoustical expertise and/or expertise regarding the health effects of noise, a representative of the city council and employees of the department and of other relevant city agencies. The committee shall provide advice and recommendations to the department relating to construction noise mitigation and shall assist the department in the development of the noise mitigation rules required by this section. The commissioner shall consult with the committee regarding any proposed amendments of such rules. In the development of such rules the commissioner shall consider factors such as the availability, cost and safety of proposed noise mitigation measures.
-
-(d) The commissioner shall ensure that all noise mitigation plans submitted in accordance with subdivision (e) of section 24-220 and all approved alternative noise mitigation plans submitted in accordance with section 24-221 to the department after the effective date of the local law that added this subdivision are made publicly available on the city’s website.
-
-
-
-
-
-
-
-
-*§ 24-220 Noise mitigation plan.* ::
-
-
-(a) Each person, corporation or other business entity performing construction work in the city shall adopt and implement a noise mitigation plan for each construction site in accordance with the provisions of this subchapter and such rules whenever any one or more of the construction devices or activities listed above or in the department's rules are employed or performed at the site.
-
-(b) Such plan shall be adopted prior to the commencement of construction at the site or, with respect to emergency work, as defined in the department's rules, within three days thereafter, and shall apply to all work at the site throughout the construction process. The plan shall provide in detail the noise mitigation strategies, methods, procedures and technology, as prescribed in the rules of the department or specifically approved by the commissioner in accordance with section 24-221 of this code, for each device or activity employed or performed at the site. Each permit holder or other person in charge of such construction site will be accountable for compliance with such rules and shall ensure that each person performing construction work at the site shall be aware of the plan and shall be responsible for complying with those provisions that affect his or her work.
-
-(c) A copy of the plan shall be kept at the construction site and shall be displayed in a conspicuous manner on the exterior of the construction site and made accessible for inspection by the public and persons authorized to enforce the provisions of this code provided that where there are no exterior structures on the construction site such plan need only be kept at the site and made accessible for inspection by the public and persons authorized to enforce the provisions of this code.
-
-(d) The plan shall be amended whenever additional devices or activities unforeseen at the commencement of construction are employed at the site or at the direction of the commissioner in accordance with section 24-223 of this subchapter.
-
-(e) The plan shall be filed electronically with the department no later than 30 days after the commencement of construction if it conforms in all respects to the rules of the department with respect to construction devices and activities employed or performed at the construction site. A plan that deviates in any respect from such rules or an alternative noise mitigation plan required to be certified in conjunction with an undue hardship application pursuant to paragraph (5) of subdivision (e) of section 24-223 shall be subject to the prior approval of the commissioner in accordance with section 24-221 of this code.
-
-(f) This section shall not apply to construction work in connection with the alteration or repair of an existing one or two family owner-occupied dwelling classified in occupancy group J-3 or a convent or rectory.
-
-
-
-
-
-
-
-
-*§ 24-221 Alternative noise mitigation plan.* ::
-
-
-(a) Upon application, the commissioner may approve an alternative noise mitigation plan for a particular construction site that deviates from strict compliance with the noise mitigation rules. Application for approval of such plan shall be electronically submitted to the department at least ten business days prior to the commencement of construction or as soon as practicable but no later than 24 hours prior to the commencement of construction in a form and manner and accompanied by such information and documentation as shall be set forth in the rules of the department. An application for approval may be submitted after the commencement of construction if an application includes a showing that all reasonable available mitigation measures have been implemented since the commencement of construction but aggregate sound levels from the site exceed or are reasonably anticipated to exceed one or more of the applicable limits in this chapter.
-
-The commissioner may approve such alternative noise mitigation plan if he or she finds that:
-
-   (1) strict compliance with the noise mitigation rules would not be possible or would create an undue hardship because of the location or unique characteristics of the site or of the construction devices or activities to be employed or performed at the site; and
-
-   (2) the alternative noise mitigation strategies, methods, procedures or equipment proposed are consistent with the purposes and policies of this code.
-
-(b) Where the commissioner rejects an alternative noise mitigation plan, an applicant may appeal such rejection in accordance with the rules of the department. An alternative plan shall not be in effect unless and until it has been approved by the commissioner except that where a timely alternative plan has been filed with the commissioner for approval, a construction site in compliance with such alternative plan shall be deemed to be in compliance with this section unless and until such plan is rejected by the commissioner and for a reasonable time thereafter as determined by the commissioner.
-
-(c) Notwithstanding any other provision of this chapter, construction work performed in accordance with an approved alternative noise mitigation plan containing decibel level limits and requirements prescribed for specific sources or devices that is in full compliance with this section and the rules promulgated by the department thereunder shall be deemed to be in full compliance with all decibel level limits set forth in any other section of this chapter.
-
-
-
-
-
-
-
-
-*§ 24-222 After hours and weekend limits on construction work.* ::
-
-
-Except as otherwise provided in this subchapter, it shall be unlawful to engage in or to cause or permit any person to engage in construction work other than on weekdays between the hours of 7 a.m. and 6 p.m. A person may however perform construction work in connection with the alteration or repair of an existing one or two family owner-occupied dwelling classified in occupancy group J-3 or a convent or rectory on Saturdays and Sundays between the hours of 10 a.m. and 4 p.m. provided that such dwelling is located more than 300 feet from a house of worship.
-
-
-
-
-
-
-*§ 24-223 After hours work authorization.* ::
-
-
-(a) Notwithstanding section 24-222 of this subchapter, an agency authorized to issue permits for construction work may, along with such permit, issue an after hours work authorization for the work site. Such after hours authorization may permit construction work to be performed at the site before 7 a.m. or after 6 p.m. on weekdays and/or on Saturdays and/or Sundays subject to the conditions and restrictions set forth in this section.
-
-(b) The agency issuing such authorization must obtain a certification from its permittee that the permittee has developed a noise mitigation plan for the site in accordance with this subchapter and that such plan is in compliance with the noise mitigation rules. In the case of emergency work such certification shall be submitted within 3 days after the commencement of the work.
-
-(c) If after hours work at the site is not being performed in compliance with such plan or where no plan is in effect, the department or the agency issuing such authorization, at the request of the commissioner or on its own account, may take appropriate action, including but not limited to the refusal to renew such after hours authorization.
-
-(d) During the time that an after hours authorization is in effect, notwithstanding full compliance with the noise mitigation plan the department shall issue an advisory or a violation where aggregate sound levels from the site exceed the following limits:
-
-   (1) 8dB(A), and on or after January 1, 2020, 7 dB(A) above the ambient sound level as measured in any residential receiving property dwelling unit with windows and doors that may affect the measurement closed, or
-
-   (2) the noise levels specified in section 24-228(a) of this code on a construction site that is not within 200 feet of a residential receptor, or
-
-   (3) except as provided in paragraph (4) of this subdivision, 80dB(A), and on or after January 1, 2020, 75 dB(A) as measured 50 or more feet from the source or sources at a point outside the property line where the source or sources are located or as measured 50 or more feet from the source or sources on a public right-of-way when that source is within 200 feet of a residential receptor, or
-
-   (4) 85dB(A) as measured 50 or more feet from the source or sources at a point outside the property line where the source or sources are located, or as measured 50 or more feet from the source or sources on a public-right-of-way when the source is street construction.
-
-(e) Authorization for after hours construction work may only be issued in the following circumstances:
-
-   (1) Emergency work. Agencies shall authorize such after hours construction work for emergency conditions, inside or outside the property line, involving a threat to public safety or causing or likely to cause the imminent interruption of service required by law, contract or franchise. An emergency authorization issued pursuant to this paragraph shall expire as determined by the agency but no later than the ninetieth day after its issuance and shall be renewable in accordance with agency procedures while the emergency continues.
-
-   (2) Public safety. Agencies may authorize such after hours work, inside or outside of the property line, where the agency determines that the work cannot reasonably or practicably be performed on weekdays between the hours of 7 a.m. and 6 p.m. because of traffic congestion and/or concern for worker and/or public safety. An authorization issued pursuant to this paragraph shall expire as determined by the agency but no later than the ninetieth day after its issuance and shall be renewable in accordance with agency procedures.
-
-   (3) City construction projects. Agencies may authorize after hours work by or on behalf of city agencies for projects that are judicially mandated or the subject of consent orders and/or where a project is necessary in the public interest including but not limited to facilities, equipment, and infrastructure for the provision of water, sewerage, sanitation, transportation and other services necessary for the health or safety of the public. An authorization issued pursuant to this paragraph for a city construction project shall remain in effect for the duration of the project.
-
-   (4) Construction activities with minimal noise impact. The commissioner shall promulgate rules setting forth a list of construction activities with minimal noise impact and specific noise mitigation measures applicable to such activities. Agencies may authorize the performance of such construction activities after hours in accordance with such rules.
-
-   (5) Undue hardship. Agencies may authorize after hours work if the commissioner certifies that the permit holder has substantiated a claim of undue hardship resulting from unique site characteristics, unforeseen conditions, scheduling commitments and/or financial considerations outside the control of the permit holder and that the applicant has received approval from the department of an alternative noise mitigation plan pursuant to section 24-221 of this subchapter, specifying the activities and devices that will be used for such after hours construction and setting forth the additional mitigation measures, above and beyond those measures otherwise required for such devices and activities pursuant to the department's rules, that the applicant will use to significantly limit noise emissions from the site of such after hours work. Applications for such certification shall be submitted to the department in a form and manner to be set forth in the rules of the department. The applicant for an after hours authorization under this paragraph shall submit such certification to the issuing agency.
-
-
-
-
-
-
-
-
-*§ 24-223.1 Stop work order.* ::
-
-
-(a) Whenever the department finds that any work is being performed in violation of section 24-222 or section 24-228 or any rules promulgated thereunder, and such work poses a threat to human health and safety, the department may issue a stop work order with respect to such work or solely with respect to the equipment used for work being performed in violation of section 24-222 or 24-228.
-
-(b) Such order may be given (i) verbally or (ii) posted at the site and served personally on or mailed to the owner, lessee or occupant of the site, or to the person executing the work at the site, or to the agent of any of them and shall include the reason for the issuance of the stop work order. A verbal stop work order shall be followed promptly by a written order in accordance with this subdivision.
-
-(c) Upon issuance of a stop work order, work specified in the order shall immediately cease, except work authorized or required by the commissioner or the head of any other agency to ensure public safety or to stabilize the site.
-
-(d) No person shall with knowledge or notice of a stop work order allow, authorize, promote, continue or cause to be continued such work that is the subject of the stop work order.
-
-(e) A stop work order issued pursuant to subdivision a of this section may be appealed in accordance with the rules of the department, and the commissioner shall provide notice and an opportunity to be heard within 14 days of the filing of such appeal. A stop work order shall be lifted if, upon appeal, the commissioner determines that the issuance of such order was not proper, or upon the submission of proof satisfactory to the commissioner that the requirements of such order have been satisfied. In the case of a verbal order, if the commissioner determines that the condition that gave rise to the order has been immediately corrected, including but not limited to which devices or activities may not be used or performed at the same time and which activities may be prohibited, such order shall be lifted at once and shall not be followed by a written order.
-
-
-
-
-
-
-
-
-*§ 24-224 Construction work without noise mitigation plan unlawful.* ::
-
-
-It shall be unlawful to perform work at any construction site in the city that is not in compliance with a noise mitigation plan where such plan is required pursuant to this subchapter and with the noise mitigation rules adopted pursuant to this subchapter.
-
-
-
-
-
-
-
-
-
-**Subchapter 5: Prohibited Noise Specific Noise Sources=msound Level Standard**
-
-
-
-*§ 24-225 Refuse collection vehicles.* ::
-
-
-(a) No person shall sell, offer for sale, operate or permit to be operated a refuse collection vehicle, equipped with a compacter, that produces a maximum sound level when the compacting mechanism is in the compacting cycle but not engaged in compacting a load that exceeds 80 dB(A), when measured by a sound level meter set for slow response at a distance of 35 feet or more from the compacting unit.
-
-(b) It shall be unlawful to operate or cause to be operated a refuse collection vehicle, including such a vehicle equipped with a compacter, within 50 feet of any residential receiving property at or after 11:00 p.m. and before 7:00 a.m. if the aggregate sound, not including impulsive sound, generated by the collection and compacting activities exceeds 85 dB(A) when measured by a sound level meter set to slow response at a distance of 35 feet or more from the vehicle. On and after July 1, 2012 such aggregate sound shall not exceed 80 dB(A). The provisions of this subdivision shall not apply to the operation of refuse collection vehicles during an emergency such as a storm or other event that causes delays in refuse collection.
-
-
-
-
-
-
-*§ 24-226 Air compressors.* ::
-
-
-(a) No person shall operate or cause to be operated an air compressor unless it is equipped with an appropriate muffler with no exhaust leaks.
-
-(b) No person shall sell, offer for sale for use within the city of New York, or operate or permit to be operated an air compressor that, when operated, produces a maximum sound level, when measured at a distance of one meter or more from the nearest major surface of such air compressor, exceeding 80 dB(A) for sizes greater than 350 cfm or exceeding 75 dB(A) for sizes 350 cfm or less.
-
-(c) Except for construction work outside the property line on a public right-of-way, no person shall operate or permit to be operated an air compressor so as to generate sound levels in excess of 75 dB(A) as measured at any receiving property.
-
-
-
-
-
-
-*§ 24-227 Circulation devices.* ::
-
-
-(a) No person shall operate or permit to be operated a circulation device in such a manner as to create a sound level in excess of 42 dB(A) when measured inside a receiving property dwelling unit. The measurement shall be taken with the window or terrace door open at a point three feet from the open portion of the window or terrace door.
-
-(b) On and after the effective date of this section, when a new circulation device is installed on any building lot or an existing device on any building lot is replaced, the cumulative sound from all circulation devices on such building lot owned or controlled by the owner or person in control of the new device being installed or the existing device being replaced shall not exceed 45 dB(A), when measured as specified in subdivision a of this section. For a period of two years after the effective date of this section, this subdivision shall not apply to the replacement of a circulation device that was installed on any building lot prior to the effective date of this section by a device of comparable capacity.
-
-(c) Except as otherwise provided in subdivision b of this section, with respect to circulation devices installed on any building lot prior to the effective date of this section, the sound level limit of 42 dB(A) referred to in subdivision a of this section shall apply to each individual device except that if the cumulative sound from all devices owned or controlled by the same person on a building lot exceeds 50 dB(A), when measured as specified in subdivision a of this section, the commissioner may order the owner or person in control of such devices to achieve a 5 dB(A) reduction in such cumulative sound level within not more than 12 months after the issuance of such order.
-
-(d) The commissioner may recommend to the board that there shall be no civil penalty imposed for a first violation of this section if, within forty five days of the return date set forth on the notice of violation, the respondent admits liability for the violation and files a certification with the department in a form and manner and containing such information and documentation as shall be prescribed in the department's rules that (i) permanent improvements or modifications have been made to the establishment, including but not limited to the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials; and (ii) appropriate sound measurements taken in accordance with the department's rules substantiate that the establishment is in full compliance with the sound levels set forth in this section. If the commissioner accepts such certification of compliance, he or she shall recommend to the board that no civil penalty shall be imposed for the violation. Such violation may nevertheless serve as a predicate for purposes of imposing penalties for subsequent violations of this section.
-
-
-
-
-
-
-*§ 24-228 Construction devices.* ::
-
-
-(a) No person shall operate or use or cause to be operated or used a construction device or combination of devices in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to sound that exceeds the following prohibited noise levels:
-
-   (1) Sound, other than impulsive sound, attributable to the source or sources, that exceeds 85 dB(A) as measured 50 or more feet from the source or sources at a point outside the property line where the source or sources are located or as measured 50 or more feet from the source or sources on a public right-of-way.
-
-   (2) Impulsive sound, attributable to the source, that is 15 dB(A) or more above the ambient sound level as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way. Impulsive sound levels shall be measured in the A-weighting network with the sound level meter set to fast response. The ambient sound level shall be taken in the A-weighting network with the sound level meter set to slow response.
-
-   (3) Sound that exceeds the decibel levels set forth in subdivision (d) of section 24-223 during the time that an after hours authorization is required to be in effect.
-
-(b) Where a particular sound source or device is subject to decibel level limits and requirements specifically prescribed for such source or device elsewhere in this code, such specific decibel limits shall apply to such device or source. However, if aggregate sound levels from a construction site exceed the limits set forth in this section, compliance with such specific decibel limits shall not be a defense in any proceeding relating to a violation of this section.
-
-
-
-
-
-
-
-
-*§ 24-228.1 Exhausts.* ::
-
-
-No person shall cause or permit discharge into the open air of the exhaust of any device, including but not limited to any steam engine, diesel engine, internal combustion engine, power tools, compressors or turbine engine, so as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to sound that exceeds the prohibited noise levels set forth in section 24-228.
-
-
-
-
-
-
-*§ 24-229 Containers and construction material.* ::
-
-
-(a) No person shall handle or transport or cause to be handled or transported on any public right-of-way any container or any construction material in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to the following prohibited noise levels:
-
-   (1) Sound, other than impulsive sound, attributable to the source measured at a level of 10 dB(A) or more above the ambient sound level, as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way.
-
-   (2) Impulsive sound, attributable to the source, measured at a level of 15 dB(A) or more above the ambient sound level, as measured at any point within a receiving property or as measured at a distance of 15 feet or more from the source on a public right-of-way. Impulsive sound levels shall be measured in the A-weighting network with the sound level meter set to fast response. The ambient sound level shall be taken in the A-weighting network with the sound level meter set to slow response.
-
-(b) This section shall not apply to the operation of refuse collection vehicles regulated pursuant to section 24-225.
-
-
-
-
-
-
-*§ 24-230 Paving breakers.* ::
-
-
-(a) No person shall operate or cause to be operated a paving breaker, other than one operated electrically or hydraulically, unless a pneumatic discharge muffler certified by the manufacturer of such muffler to provide a dynamic insertion loss of 5 dB(A) of the sound released from the air discharge of such paving breaker is installed on such air discharge.
-
-(b) No person shall sell, offer for sale for use within the city of New York, operate or permit to be operated a paving breaker that when operated produces a maximum sound level that exceeds 95 dB(A), when measured at a distance of one meter or more from a face of such paving breaker.
-
-
-
-
-
-
-*§ 24-231 Commercial music.* ::
-
-
-(a) No person shall make or cause or permit to be made or caused any music originating from or in connection with the operation of any commercial establishment or enterprise when the level of sound attributable to such music, as measured inside any receiving property dwelling unit:
-
-   (1) is in excess of 42 dB(A) as measured with a sound level meter; or
-
-   (2) is in excess of 45 dB in any one-third octave band having a center frequency between 63 hertz and 500 hertz (ANSI bands numbers 18 through 27, Inclusive), in accordance with American National Standards Institute standard S1.6-1984; or
-
-   (3) causes a 6 dB(C) or more increase in the total sound level above the ambient sound level as measured in decibels in the "C" weighting network provided that the ambient sound level is in excess of 62 dB(C).
-
-(b) (1) The commissioner may recommend to the board that there shall be no civil penalty imposed for a first violation of this section if, within 30 days after the issuance of such violation or, if applicable, within the time granted by the commissioner pursuant to paragraph two of this subdivision, the respondent admits liability for the violation and files a certification with the department in a form and manner and containing such information and documentation as shall be prescribed in the department's rules that (i) permanent improvements or modifications have been made to the establishment, including but not limited to the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials and (ii) appropriate sound measurements taken in accordance with the department's rules substantiate that the establishment is in full compliance with the sound levels set forth in this section. If the commissioner accepts such certification of compliance, he or she shall recommend to the board that no civil penalty shall be imposed for the violation. Such violation may nevertheless serve as a predicate for purposes of imposing penalties for subsequent violations of this section.
-
-   (2) Where the completion of appropriate permanent improvements or modifications and testing within 30 days after the issuance of the violation would cause the respondent undue hardship, the respondent may apply to the commissioner for additional time to submit an appropriate certification of compliance, but not more than 30 days. Application for such additional time must be submitted to the commissioner within 30 days after the issuance of the violation along with an admission of liability and appropriate documents in support of the claim of undue hardship.
-
-   (3) Nothing in this subdivision shall be construed to prohibit enforcement personnel from issuing additional notices of violation, summonses or appearance tickets where sound levels exceed the limits set forth in subdivision a of this section during the periods of time set forth in paragraphs one and two of this subdivision for submission of a certification of compliance for a first violation.
-
-(c) In any proceeding under this section it shall be an affirmative defense that the receiving property dwelling unit was not lawfully occupied at the time of the violation.
-
-(d) The commissioner may grant a variance from strict application of the limits set forth in subdivision (a) of this section for a commercial establishment or enterprise that was in operation at the same site prior to the date of enactment of the local law that added this section if he or she finds that there are practical difficulties or unnecessary hardship in the application of such provisions in the specific case, provided that as a condition to the grant of any such variance, sufficient evidence or data is submitted by an applicant that there are physical conditions or zoning district conditions, including irregularity in lot size characteristics and zoning changes, and that as a result of such physical or zoning district conditions, practical difficulties or unnecessary hardship arise in complying with such provisions. In granting a variance the commissioner may impose such terms and conditions as he or she deems necessary to carry out the intent of this section to minimize noise emissions from the site. Application for a waiver shall be submitted in such form and manner as shall be provided by rules of the department and shall include in detail proposed measures which the applicant proposes will minimize sound from the site. A variance granted pursuant to this subdivision shall not be transferable but shall expire upon a change in ownership, size or location of the commercial establishment or enterprise in accordance with the rules of the department. Violation of the conditions of any variance shall be deemed to be a violation of this section.
-
-
-
-
-
-
-*§ 24-232 Allowable decibel levels-octave band measurement.* ::
-
-
-(a) No person shall cause or permit a sound source operating in connection with any commercial or business enterprise to exceed the decibel levels in the designated octave bands shown below as measured within a receiving property as specified therein.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Octave Band
-      - Maximum Sound Pressure Levels (dB) as measured within a receiving property as specified below
-      - 
-    * - Frequency (Hz)
-      - Residential receiving property for mixed use buildings and residential buildings (as measured within any room of the residential portion of the building with windows open, if possible).
-      - Commercial receiving property (as measured within any room containing offices within the building with windows open, if possible).
-    * - 31.5
-      - 70
-      - 74
-    * - 63
-      - 61
-      - 64
-    * - 125
-      - 53
-      - 56
-    * - 250
-      - 46
-      - 50
-    * - 500
-      - 40
-      - 45
-    * - 1000
-      - 36
-      - 41
-    * - 2000
-      - 34
-      - 39
-    * - 4000
-      - 33
-      - 38
-    * - 8000
-      - 32
-      - 37
-~
-
- 
-
-(b) All sources that are within the A-scale limits prescribed by any other section of this code must also comply with the octave band decibel levels as specified herein. Compliance with this section does not constitute a defense to violation of decibel limits set by any other section of this code.
-
-(c) Measurements performed on residential property shall not be taken in non-living areas such as closets and crawlspaces.
-
-(d) This section shall not apply to impulsive sound, music or construction devices or activities.
-
-(e) This section shall not apply to any utility structure in existence prior to January 1, 2004. For the purposes of this subdivision the term "utility structure" means any electric substation owned or operated by an electric, gas, or steam utility subject to the jurisdiction of the New York state public service commission.
-
-(f) This section shall not apply to any refuse collection facility owned, operated or regulated by the department of sanitation.
-
-
-
-
-
-
-*§ 24-232.1 Wind turbines.* ::
-
-
-No person shall cause or permit operation of a small wind turbine, as such term is defined in section 3113.2 of the New York city building code, or a large wind turbine as such term is defined in section 3114.2 of the New York city building code, so as to create a sound level in excess of 5 db(A) above the ambient sound level, as measured at the property line or at an elevated receptor of the property containing the nearest occupied building.
-
-
-
-
-
-
-
-
-
-**Subchapter 6: Specific Noise Sources Plainly Audible and Other Standards**
-
-
-
-*§ 24-233 Personal audio devices.* ::
-
-
-(a) No person shall operate or use or cause to be operated or used any personal audio device in such a manner as to create an unreasonable noise.
-
-(b) For the purposes of this section unreasonable noise shall include but shall not be limited to:
-
-   (1) the operation or use of a personal audio device on or in any public right-of-way so that sound emanating from such device is plainly audible to another individual at a distance of 25 feet or more from the source.
-
-   (2) the operation or use of a personal audio device from on or inside a motor vehicle, whether moving, parked, stopped or standing, on or in any public right-of-way so that sound emanating from such device is plainly audible to another individual outside of such motor vehicle at a distance of 25 feet or more from the source.
-
-(c) Nothing in this section shall be construed to permit the operation or use of a personal audio device where such operation or use would otherwise be prohibited pursuant to section 10-108 or 24-244 of the administrative code.
-
-
-
-
-
-
-*§ 24-234 Operation or use of sound reproduction device in or on rapid transit railroad, omnibus or ferry.* ::
-
-
-It shall be unlawful to operate or use a sound reproduction device in or on any rapid transit railroad, omnibus or ferry, other than a personal audio device with personal earphones such that sound from such earphones is not plainly audible to another individual at a distance of 5 feet or more from the source.
-
-
-
-
-
-
-*§ 24-235 Animals.* ::
-
-
-No person having charge, care, custody, or control of any animal shall cause or permit such animal to cause unreasonable noise including, but not limited to, any sound that is plainly audible at any location within any residential receiving property as set forth below:
-
-(a) At or after 7 a.m. and before 10 p.m., continuously for a period of 10 minutes or more.
-
-(b) At or after 10 p.m. and before 7 a.m., continuously for a period of 5 minutes or more.
-
-
-
-
-
-
-*§ 24-236 Motor vehicles.* ::
-
-
-(a) Motor vehicles, other than motorcycles, with a maximum gross weight of 10,000 lbs. or less. No person shall cause or permit any motor vehicle, other than a motorcycle, with a maximum gross weight of 10,000 lbs. or less to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 150 feet or more from the motor vehicle.
-
-(b) Motorcycles. No person shall cause or permit any motorcycle to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 200 feet or more from the motorcycle.
-
-(c) Motor vehicles with a maximum gross weight greater than 10,000 lbs. No person shall cause or permit any motor vehicle with a maximum gross weight greater than 10,000 lbs. to operate on a public right-of-way where the muffler or exhaust generates a sound that is plainly audible to another individual at a distance of 200 feet or more from the motor vehicle, except when compression brake systems are used in an emergency to stop the vehicle.
-
-(d) (1) No person operating a motor vehicle containing a compression brake system or systems shall apply such compression brake system or systems except when such system or systems are used in an emergency to stop the vehicle.
-
-   (2) The department is authorized to post signs at every entry point of the city containing the following information: THE USE OF COMPRESSION BRAKE SYSTEMS IS PROHIBITED ON STREETS WITHIN NEW YORK CITY WHERE THE SPEED LIMIT IS 35 MILES PER HOUR OR LESS EXCEPT IN CASE OF AN EMERGENCY.
-
-(e) No person shall cause or permit the total sound from a motor vehicle operating on any public right-of-way to exceed the sound level set forth in section 386 of the vehicle and traffic law and the rules adopted pursuant to such section.
-
-(f) Subdivisions a, b, c and paragraph one of subdivision d of this section may only be enforced on streets where the speed limit is 35 miles per hour or less.
-
-
-
-
-
-
-*§ 24-237 Sound signal devices.* ::
-
-
-(a) No person shall operate or use or cause to be operated or used any claxon installed on a motor vehicle, except as a sound signal of imminent danger or in connection with use as an audible motor vehicle burglar alarm as provided in section 24-238 of this code.
-
-(b) No person shall operate or use or cause to be operated or used an air horn or gong installed on any motor vehicle other than as provided in section 24-241 of this code.
-
-(c) No person shall operate or use or cause to be operated or used any steam whistle attached to any stationary boiler, except to give notice of the time to start and stop work or as a sound signal of imminent danger.
-
-(d) No person shall operate or use or cause to be operated or used on any public right-of-way any electrically operated or electronic sound signal device (other than a safety device, such as but not limited to a car horn or back up signal, that is actually used for its intended purpose) attached to, on or in a motor vehicle, wagon or manually propelled cart from which food or any other items are sold or offered for sale when the vehicle is stopped, standing or parked. For the purposes of this subdivision the term "stopped" means the halting of a vehicle, whether occupied or not, except when necessary to avoid conflict with other traffic or in compliance with a police officer or other authorized enforcement officer or a traffic control sign or signal. The terms "standing" and "parked" shall be as defined in the vehicle and traffic law.
-
-
-
-
-
-
-*§ 24-238 Audible burglar alarm and audible status indicator.* ::
-
-
-(a) No owner of a building or of a motor vehicle shall have in operation an audible burglar alarm thereon unless such burglar alarm shall be capable of and shall automatically terminate its operation within fifteen minutes of its being activated in the case of a building, and three minutes of its being activated in the case of a motor vehicle. No audible burglar alarm on a motor vehicle shall be capable of being activated except by:
-
-   (i) direct physical contact with that motor vehicle; or
-
-   (ii) through the use of an individual remote activation device, that is activated from no further than 15 feet away from such vehicle and, that is designed to be used with the audible burglar alarm system of a particular vehicle which alarm shall be capable of and shall terminate its audible response within three minutes of its being activated.
-
-(b) No owner of a motor vehicle shall have in operation an audible status indicator on such motor vehicle.
-
-
-
-
-
-
-*§ 24-239 Audible burglar alarm or audible status indicator may be disconnected.* ::
-
-
-(a) Notwithstanding the provisions of section 24-238, any member of the police department shall have the right to take such steps as may be reasonable and necessary to disconnect any audible burglar alarm or audible status indicator that is installed on a motor vehicle at any time during the period of its activation.
-
-(b) The operator of any motor vehicle on which an audible burglar alarm or audible status indicator has been installed shall when parked on a public highway or parking lot open to the public, prominently display the number and telephone number of the owner's local police precinct where information shall be on file to permit communication with the owner of such vehicle.
-
-
-
-
-
-
-*§ 24-240 Removal of vehicle with audible burglar alarm or audible status indicator.* ::
-
-
-(a) Notwithstanding the provisions of section 24-239, any member of the police department may arrange for the removal of a motor vehicle from a public highway or parking lot open to the public, when:
-
-   (i) an audible burglar alarm installed on such vehicle is operated in violation of this code or an audible status indicator is operated on such vehicle; and
-
-   (ii) all reasonable and necessary steps to disconnect such alarm or audible status indicator have been taken without success. Authorized personnel of the department or the department of transportation may request a member of the police department to arrange for removal of such vehicle. When such removal is requested, the notice of violation for operation of an audible burglar alarm in violation of this section or for operation of an audible status indicator shall state that a member of the police department took all reasonable and necessary steps to disconnect such alarm or such audible status indicator without success. Such removal may be accomplished by utilizing any existing city-operated tow-program, rotation tow program established pursuant to section 20-519 of the code or such other procedures as may be established. The cost of towing and storage of such motor vehicle shall be the responsibility of the owner or other person who claims such vehicle.
-
-(b) An opportunity for a hearing before the board shall be provided to the owner of a motor vehicle removed pursuant to this section within five business days after a request for a hearing is made to determine whether there was a basis for such removal. The board shall render a decision within two business days following the conclusion of the hearing. If it is determined that there was no basis for removal of a vehicle pursuant to this section, the owner of such vehicle may recover from the city any amounts paid by such owner for towing and storage.
-
-
-
-
-
-
-*§ 24-241 Emergency signal devices.* ::
-
-
-(a) No person shall operate or use or cause to be operated or used any emergency signal device, except on an authorized emergency vehicle when such vehicle is in the act of responding to an emergency; provided that such device shall not be operated for a period of time longer than is necessary to respond to such emergency. Notwithstanding the foregoing, such a device on a motor vehicle shall be lawful if designed and used solely as an audible motor vehicle burglar alarm in accordance with section 24-238 and a device attached to a vehicle for the purpose of providing an audible warning when the vehicle is backing up shall be permitted even though the audible warning may consist of a gong or bell sound.
-
-(b) No person shall operate or permit to be operated an emergency signal device installed on an authorized emergency vehicle that when operated at the maximum level creates a sound level in excess of 90 dB(A) when measured at a distance of fifty feet from the center of the forward face of such vehicle. Within one year after the effective date of this subdivision and every two years thereafter, emergency signal devices installed on authorized emergency vehicles shall be tested and certification shall be submitted, in a form approved by the department, that such devices meet the standard set forth in this subdivision for operation at maximum level. Notwithstanding the foregoing provisions, where compliance with the provisions of this subdivision would create an undue hardship, the owner or operator of an authorized emergency vehicle may submit a plan to the commissioner for emergency signal devices to meet the standard set forth in this subdivision within two years after the effective date of this subdivision. Such plan shall be submitted within one year after the effective date of this subdivision in lieu of the required certification. This subdivision shall not apply to authorized emergency vehicles of the police department, fire department or authorized emergency vehicles responding to medical emergencies.
-
-
-
-
-
-
-*§ 24-242 Lawn care devices.* ::
-
-
-(a) No person shall operate or use or cause to be operated or used any lawn care device:
-
-   (1) On weekdays before eight a.m. and after seven p.m. or sunset, whichever occurs later; or
-
-   (2) On weekends and New York state and federal holidays before nine a.m. and after six p.m.; or
-
-   (3) At any time in such a way as to create an unreasonable noise. For the purposes of this section unreasonable noise shall include but shall not be limited to an aggregate sound level of 75 dB(A) or more, attributable to the source or sources, as measured at any point within a receiving property. The provisions of paragraph (1) of this subdivision shall not apply to an employee of the department of parks and recreation or an agent or contractor of the department of parks and recreation who operates or uses or causes to be operated or used any lawn care device between the hours of seven a.m. and eight a.m. in any location more than three hundred feet from any building that is lawfully occupied for residential use. The distance of three hundred feet shall be measured in a straight line from the point on the exterior wall of such building nearest to any point in the location at which such lawn care device is operated or used or caused to be operated or used.
-
-(b) No person shall operate or use or cause to be operated or used any leaf blower not equipped with a functioning muffler.
-
-
-
-
-
-
-*§ 24-243 Snow blowers.* ::
-
-
-The provisions of this code shall not apply to the operation of a snow blower for the purpose of complying with subdivision a of section 16-123 of the administrative code.
-
-
-
-
-
-
-*§ 24-244 Sound reproduction devices.* ::
-
-
-(a) Except as otherwise provided in section 10-108 of the code, no person shall operate or use or cause to be operated or used any sound reproduction device in such a manner as to create unreasonable noise.
-
-(b) No person shall operate or use or cause to be operated or used any sound reproduction device, for commercial or business advertising purposes or for the purpose of attracting attention to any performance, show, sale or display of merchandise, in connection with any commercial or business enterprise (including those engaged in the sale of radios, television sets, compact discs or tapes), (i) outside or in front of any building, place or premises or in or through any aperture of such building, place or premises, abutting on or adjacent to a public street, park or place; (ii) in or upon any vehicle operated, standing or being in or on any public street, park or place; (iii) from any stand, platform or other structure; (iv) from any airplane or other device used for flying, flying over the city; (v) from any boat on the waters within the jurisdiction of the city; or (vi) anywhere on the public streets, public sidewalks, parks or places where sound from such sound reproduction device may be heard upon any public street, sidewalk, park or place. Nothing in this section is intended to prohibit incidental sounds emanating from a sporting or an entertainment or a public event for which a permit under section 10-108 of the code has been issued.
-
-
-
-
-
-
-
-**Subchapter 7: Certificates and Tunneling Permits**
-
-
-
-*§ 24-245 Operating certificates and renewal of operating certificates; tunneling permits; when required.* ::
-
-
-(a) The commissioner shall at his or her discretion promulgate regulations pursuant to section eleven hundred five of the city charter directing the placement of air compressors, paving breakers, refuse compacting vehicles and rapid transit railroads, including but not limited to their rolling stock, track and track beds, passenger stations, tunnels, elevated structures, yards, depots and garages, onto an operating certificate list, setting out the reasons for such placement, and setting out the period of time from issuance or renewal during which such operating certificate shall be valid, unless sooner revoked or cancelled.
-
-(b) No person shall cause or permit the use or operation of any device placed on the operating certificate list pursuant to subdivision (a) of this section except for the purpose of testing such device without first obtaining an operating certificate from the commissioner. The placement of such a device not bearing an operating certificate at a location of its customary operation shall be considered a violation of this section in any proceeding pursuant to any applicable section of subchapter eight of this chapter of this code except section 24-269.
-
-(c) No person shall engage in or permit any person to engage in tunneling without first obtaining a tunneling permit from the commissioner. A separate permit shall be obtained for each shaft of a tunnel.
-
-(d) Prior to advertising for bids for contracts involving tunneling, the agency of the city of New York proposing to so advertise shall request the commissioner in writing for a statement of the requirements or standards that will govern the proposed tunneling activities pursuant to section 24-248 of this subchapter. The aforesaid requirements shall be furnished by the commissioner to the contracting agency in writing within thirty days after receipt of the request and shall be included by the contracting agency in the contract specifications for the proposed tunneling. The conditions under which the permit shall be granted to the contractor shall be consistent with the statement furnished by the commissioner to the contracting agency for inclusion in the contract specifications.
-
-(e) Notwithstanding the existence of a valid tunneling permit, no person shall, except in the case of urgent necessity in the interest of public safety, conduct or permit to be conducted blasting operations at any time other than on weekdays and other than between the hours of seven a.m. and seven p.m. unless a special permit is obtained from the fire department pursuant to subdivision d of section 27-4039.
-
-
-
-
-
-
-*§ 24-246 General requirements for applications for operating certificates and for tunneling permits, and removal of operating certificates.* ::
-
-
-(a) Application for an operating certificate or for the removal of an operating certificate shall be made by the owner of the device on forms furnished by the department.
-
-(b) Application for a tunneling permit shall be made on forms furnished by the department by or in behalf of the owner or lessee of the tunnel; and if made by a person other than the owner, the application shall be accompanied by a signed statement of the applicant declaring that he or she is authorized by the owner to make the application. The permittee shall in all cases be the applicant.
-
-(c) Each application hereunder shall be signed by the applicant. The signature of the applicant shall constitute an agreement that the applicant will assume responsibility for the operation or use of the device concerned or for tunneling in accordance with the requirements of this code. If the applicant is a partnership or group other than a corporation, the application shall be made by one individual who is a member of the group. If the applicant is a corporation, the application shall be made by an officer of the corporation.
-
-(d) Application for the removal of an operating certificate shall be postmarked or date-stamped by the department upon personal delivery no later than thirty days prior to the expiration of the certificate.
-
-
-
-
-
-
-*§ 24-247 Information required for applications for operating certificates and for tunneling permits.* ::
-
-
-(a) Each application for an operating certificate shall contain such information as the commissioner may require in order to determine whether a device covered by the application is or will operate in compliance with the provisions of this code, including but not limited to:
-
-   (1) The model number and operating characteristics of the device covered by the application;
-
-   (2) A report certified by an approved testing laboratory as to the sound level generated by the device when operated under normal operating conditions or a manufacturer's warranty as to sound level provided that the device is regularly tested in accordance with procedures established by the American national standards institute or other appropriate professional standard-setting organization listed in section 24-242*; and
-
-* Editor's note: this § 24-242 was repealed and the substance transferred to § 24-204(c).
-
-   (3) The proposed means, if any, for the prevention or control of unreasonable noise.
-
-(b) Each application for a tunneling permit shall contain such information as the commissioner may require to determine whether tunneling activities and the devices operated therein will be undertaken in compliance with the provisions of this code, including but not limited to:
-
-   (1) The types and operating characteristics of the devices employed in such tunneling;
-
-   (2) A detailed description of proposed tunneling; and
-
-   (3) The proposed means for the prevention of unreasonable noise.
-
-(c) Information concerning secret processes which may be required, ascertained or discovered by the department shall not be disclosed by any department employee, except that the information may be disclosed by the commissioner if the department is subpoenaed for the information or if in the course of a departmental court proceeding or departmental or board hearing, the information is relevant to the proceeding or hearing.
-
-
-
-
-
-
-*§ 24-248 Standards for granting operating certificates and tunneling permits.* ::
-
-
-(a) No operating certificate shall be granted unless the applicant shows to the satisfaction of the commissioner that:
-
-   (1) The device will be operated without causing a violation of the provisions of this code; and
-
-   (2) The device incorporates advances in the art of noise control developed for the kind and level of noise emitted by the applicant's device.
-
-(b) No tunneling permit shall be granted unless the applicant shows to the satisfaction of the commissioner that:
-
-   (1) The devices employed in such tunneling, including construction devices, storage bins and hoppers, will be operated or used without causing a violation of the provisions of this code;
-
-   (2) The motor vehicles employed in such tunneling will be routed at such times of day and such routes as not to cause unreasonable noise; and
-
-   (3) All advances in the art of noise control, including appropriate closures around devices, and sound deadening linings on storage bins and hoppers, developed for the kind and level of noise emitted by applicant's activities or devices have been incorporated into such tunneling activities and devices.
-
-(c) The commissioner may from time to time issue regulations for the guidance of applicants indicating the technical specifications which he or she deems will comply with the performance standards of this section.
-
-
-
-
-
-
-*§ 24-249 Testing before granting or renewing of operating certificates; testing before granting of tunneling permits.* ::
-
-
-(a) Before a tunneling permit is granted or before an operating certificate is granted or renewed, the commissioner may require the applicant to conduct such tests as are necessary in the opinion of the commissioner to determine the sound level emitted from a device or an activity or to determine whether the device or its operation or an activity is contributing to, or is in violation of this code. The test shall be made at the expense of the applicant.
-
-(b) Such test shall be conducted, reviewed and certified as provided by subdivision (b) of section 24-206 of this code. The applicant shall notify the department of the time and place of a test as provided by subdivision (c) of section 24-206* of this code. Reasonable facilities shall be made available for the department to witness the test. If in the opinion of the commissioner tests by the department are necessary, the facilities for such tests, exclusive of sound level meters, shall be furnished by and at the expense of the owner or lessee or his or her agent as provided by subdivision (d)** of section 24-206 of this code.
-
-
-
-
-
-
-*§ 24-250 Action on applications for certificates or tunneling permits.* ::
-
-
-(a) The commissioner shall act within a reasonable time not to exceed sixty days on an application for a tunneling permit, for an operating certificate, or for a renewal of an operating certificate, and shall notify the applicant in writing of his or her approval or disapproval of the application.
-
-(b) If an application is disapproved, the commissioner shall set forth his or her objections in the notice of disapproval or notice of violation.
-
-(c) Within sixty days after service on the applicant of the notice of disapproval, exclusive of the day of service, the applicant may request the commissioner to reconsider the application by answering in writing the commissioner's objection to the application.
-
-(d) The commissioner shall consider the applicant's answer to his or her objections, and shall notify the applicant in writing within a reasonable time, not to exceed sixty days, of his or her approval or denial of the application. Failure to answer or request an extension of time within sixty days after service of the notice of disapproval or a notice of violation shall be deemed a denial of the application.
-
-(e) The commissioner may grant a temporary operating certificate or tunneling permit for a period not to exceed sixty days upon receipt of an application for the granting or renewal of an operating certificate and may, at his or her discretion, renew a temporary operating certificate or tunneling permit for an additional period not to exceed sixty days.
-
-
-
-
-
-
-*§ 24-251 Conditions of certificates or tunneling permits to be observed.* ::
-
-
-The holder of a certificate or of a tunneling permit shall comply with the conditions and terms contained in his or her certificate or tunneling permit as well as all applicable provisions of this code.
-
-
-
-
-
-
-*§ 24-252 Suspension or revocation of certificates or tunneling permits.* ::
-
-
-(a) The commissioner shall suspend or revoke a tunneling permit or certificate when ordered to do so by the board pursuant to subchapter eight of this chapter of this code.
-
-(b) Suspension or revocation of a certificate or tunneling permit shall become final five days after service of notice, exclusive of the day of service, on the holder of the certificate or tunneling permit.
-
-
-
-
-
-
-*§ 24-253 Surrender of certificates or tunneling permits.* ::
-
-
-A certificate or tunneling permit which has been cancelled or revoked pursuant to this code shall be surrendered forthwith to the commissioner.
-
-
-
-
-
-
-*§ 24-254 Transfer of certificates.* ::
-
-
-Any purported or attempted transfer of a certificate automatically revokes the certificate, except that upon a conveyance of the premises in which the device is located a certificate may be transferred to a person other than the person named in the certificate.
-
-
-
-
-
-
-*§ 24-255 Operating certificate or tunneling permit fees.* ::
-
-
-(a) A person applying for an operating certificate, or a renewal of an operating certificate shall pay a fee of thirty dollars.
-
-(b) A person applying for a tunneling permit shall pay a fee of two hundred and fifty dollars.
-
-
-
-
-
-
-*§ 24-256 Departmental publication fees.* ::
-
-
-The department may charge for a copy of its publications a fee in an amount not to exceed the unit cost of the preparation and distribution of the publication.
-
-
-
-
-
-
-
-**Subchapter 8: Enforcement**
-
-
-
-*§ 24-257 Powers of the board.* ::
-
-
-(a) The board, in addition to other duties assigned to it by law, shall have the power to conduct hearings pursuant to this subchapter and, by the issuance of a subpoena, compel the attendance of witnesses and the production of any books, papers or other things relating to the matter under investigation.
-
-(b) The board may, upon notice pursuant to section 24-259 of this code, and after a hearing pursuant to section 24-263 of this code, or in default thereof pursuant to section 24-264 of this code:
-
-   (1) Order the commissioner to revoke or suspend a certificate or tunneling permit issued pursuant to this code for any device or activity where such device or activity causes, or is maintained or operated so as to cause a violation of any provision of this code or order or regulation promulgated by the commissioner or the board;
-
-   (2) Order the owner of any device which causes or is maintained or operated so as to cause a violation of any provision of this code or any order or regulation promulgated by the commissioner or the board, to install any apparatus which can reasonably be expected to correct the violation, or to repair, properly maintain, replace or alter such device in a manner which can reasonably be expected to correct the violation;
-
-   (3) Seal any device which causes or is maintained or operated so as to cause a violation of any provision of this code or order or regulation promulgated by the commissioner or the board, except as provided in subdivision (c) of this section;
-
-   (4) Order any person to cease and desist from any activity which causes or is conducted so as to cause a violation of any provision of this code or any order or regulation promulgated by the commissioner or the board, except as provided in subdivision (c) of this section;
-
-   (5) Impose a civil penalty in each instance in an amount as set out in table I against any person who violates a provision of this code, or of any order, rule or regulation promulgated by the commissioner or the board.
-
-Table I
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Violations related to section and subdivision
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-    * - 
-      - First Violation
-      - 
-      - Second Violation*
-      - 
-      - Third and Subsequent Violations*
-      - 
-    * - 
-      - Maximum
-      - Minimum
-      - Maximum
-      - Minimum
-      - Maximum
-      - Minimum
-    * - 24-216 (d)
-      - 2,625 
-      -   650 
-      -  5,250 
-      - 1,300 
-      -  7,875 
-      - 1,950 
-    * - 24-218(a) 
-      - 150
-      - 75
-      - 250
-      - 150
-      - 500
-      - 350
-    * - 24-218(a-1)
-      - 1,000 
-      -   350 
-      -  2,000 
-      -   700 
-      -  3,000 
-      - 1,050 
-    * - 24-218.1
-      -   50 
-      -   50 
-      -   50 
-      -   50 
-      -   50 
-      -   50 
-    * - 24-220
-      - 1,400 
-      -   440 
-      -  2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-222
-      - 3,500 
-      -   875 
-      -  7,000 
-      - 1,750 
-      - 10,500 
-      - 2,625 
-    * - 24-223
-      - 3,500 
-      -   875 
-      -  7,000 
-      - 1,750 
-      - 10,500 
-      - 2,625 
-    * - 24-224
-      - 3,500 
-      -   875 
-      -  7,000 
-      - 1,750 
-      - 10,500 
-      - 2,625 
-    * - 24-225
-      - 1,400 
-      -   440 
-      -  2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-226
-      - 1,400 
-      -   440 
-      - 2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-227
-      -   875 
-      -   0 
-      -  1,750 
-      -   440 
-      -  2,625 
-      -   660 
-    * - 24-228
-      - 1,400 
-      -   440 
-      -  2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-229
-      - 1,400 
-      -   440 
-      -  2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-230
-      - 1,400 
-      -   440 
-      -  2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-231(a)
-      - 8,000 
-      -   0 
-      - 16,000 
-      - 4,000 
-      - 24,000 
-      - 6,000 
-    * - 24-231(b)
-      - 1,750 
-      -   440 
-      -  3,500 
-      -   880 
-      -  5,250 
-      - 1,320 
-    * - 24-231(c)
-      -   875 
-      -   350 
-      -  1,750 
-      -   700 
-      -  2,625 
-      - 1,050 
-    * - 24-232
-      - 1,400 
-      -   440 
-      -  2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-233(a)
-      -   175 
-      -   50 
-      -   350 
-      -   100 
-      -   525 
-      -   150 
-    * - 24-233(b)(1)
-      -   175 
-      -   50 
-      -   350 
-      -   100 
-      -   525 
-      -   150 
-    * - 24-233(b)(2)
-      -   350 
-      -   100 
-      -   700 
-      -   200 
-      -  1,050 
-      -   300 
-    * - 24-234
-      -   175 
-      -   50 
-      -   350
-      -   100 
-      -   525 
-      -   150 
-    * - 24-235
-      -   175 
-      -   50 
-      -   350 
-      -   100 
-      -   525 
-      -   150 
-    * - 24-236(a)
-      -   525 
-      -   150 
-      -  1,050 
-      -   300 
-      -  1,575 
-      -   450 
-    * - 24-236(b)(c)(d)
-      - 1,440 
-      -   440 
-      -  2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-237(a)
-      - 1,000 
-      -   150 
-      -  2,000 
-      -   300 
-      -  3,000 
-      -   450 
-    * - 24-237(b)
-      -   875 
-      -   220 
-      -  1,750 
-      -   440 
-      -  2,625 
-      -   660 
-    * - 24-237(c)
-      -   875 
-      -   220 
-      -  1,750 
-      -   440 
-      -  2,625 
-      -   660 
-    * - 24-237(d)
-      - 1,000 
-      -   350 
-      -  2,000 
-      -   700 
-      -  3,000 
-      - 1,050 
-    * - 24-238
-      -   875 
-      -   220 
-      -  1,750 
-      -   440 
-      -  2,625 
-      -   660 
-    * - 24-239(b)
-      -   350 
-      -   100 
-      -   700 
-      -   200 
-      -  1,050 
-      -   300 
-    * - 24-241
-      - 1,400 
-      -   440 
-      -  2,800 
-      -   880 
-      -  4,200 
-      - 1,320 
-    * - 24-242
-      -   875 
-      -   220 
-      -  1,750 
-      -   440 
-      -  2,625 
-      -   660 
-    * - 24-244
-      - 1,750 
-      -   440 
-      -  3,500 
-      -   880 
-      -  5,250 
-      - 1,320 
-    * - 24-245
-      - 2,625 
-      -   660 
-      -  5,250 
-      - 1,320 
-      -  7,875 
-      - 1,980 
-    * - All remaining sections and subdivisions
-      -   875 
-      -   220 
-      -  1,750 
-      -   440 
-      -  2,625 
-      -   660 
-~
-
-* By the same respondent of the same provision of law, order, rule or regulation and, if the respondent is the owner, agent, lessee or other person in control of the premises with respect to which the violation occurred, at the same premises (all violations committed within two years).
-
-Each day during which such violation continues shall constitute a separate violation. The board may remit, in whole or in part, such a civil penalty if, at the conclusion of the hearing or at the time of the board determination under section 24-266 of this code, the respondent is no longer in violation of a provision of this code, or of any order, rule or regulation promulgated by the commissioner or the board;
-
-   (6) Impose a civil penalty of not more than two hundred fifty dollars on any owner of a device for each day such equipment is sealed pursuant to this section;
-
-   (7) Impose a civil penalty of not less than one thousand nor more than four thousand dollars on any person who willfully breaks, or causes or permits the breaking of, a seal placed on a device pursuant to this section.
-
-   (8) Impose an additional civil penalty in the amount of twenty-five percent of that which would otherwise be imposed for each twelve decibels by which the sound or noise level measured exceeds the maximum sound level as contained in subchapters five and six of this chapter.
-
-   (9) Impose an additional civil penalty in the amount of ten percent of the penalty orginally imposed, for late payment of penalty for each month, or part thereof, that the penalty payment is in arrears. In no event shall the total additional civil penalty exceed the maximum set forth in the table of civil penalties, or as modified pursuant to paragraph eight of this subdivision or paragraph ten of this subdivision, or both.
-
-   (10) Order any person to be classified as a persistent violator if such person is found to be in violation of this code and has also on one or more prior occasions within the preceding five years been found to be in violation of this code, where such repeated violations evidence substanial* disregard thereof. If a person is classified as a persistent violator, the board shall in each instance double the amount of the penalty which it would otherwise impose pursuant to paragraph five of this subdivision. Such double penalties shall be imposed for violations which the board finds a person committed pursuant to the same proceeding at which it classified such person as a persistent violator and for all violations committed within two years immediately following such classification, after whcih such classification shall terminate. However, if at the end of such two year period such person is still in violation of this code because of a failure to take or complete a corrective action as required by the board, such classification shall continue until such time as such person is no longer in violation of this code because of such failure, at which time such classification shall cease. Thereafter, the board may again classify such person as a persistent violator, on the same basis it used originally.
-
-(c) The board may, upon notice pursuant to section 24-259 of this code:
-
-   (1) order any person to cease and desist from the operation of any listed device without a certificate as required by section 24-245 of this code and the board may also seal such device;
-
-   (2) order any person to cease and desist from tunneling without a tunneling permit as required by section 24-245 of this code and the board may also seal any device used in such tunneling;
-
-   (3) order any person not in possession of an after hours work authorization issued pursuant to section 24-223 of this code to cease and desist from construction activities other than during the permissible hours specified in section 24-222 of this code and the board may also seal any device used in such construction activities;
-
-   (4) order any person to cease and desist from the operation of a device without registration required by section 24-208 of this code and the board may also seal such device.
-
-(d) The board may order the commissioner to install any apparatus or to repair or alter any device or apparatus which causes or is maintained or operated so as to cause a violation of an order issued pursuant to paragraph two of subdivision (b) of this section, where such repairing or alteration can reasonably be expected to correct such a violation. Any work required under such an order may be executed by the commissioner through the officers, agents or contractors of the department. The department shall be reimbursed promptly for all costs and expenses of such work by the owner of the device to which the order relates and in respect to which such expenses were incurred. Such expenses may be recovered in a civil action brought in the name of the commissioner.
-
-(e) If an order of the board issued pursuant to subdivisions (b) and (c) of this section provides for a period of time during which a person subject to the order is permitted to correct a violation, the board may require the respondent to post a performance bond or other security with the department in a form and amount sufficient to assure the correction of such violation within the prescribed time. In the event of a failure to meet the schedule prescribed by the board, the sum named in the bond or other security shall be forfeited and shall be paid to the commissioner.
-
-(f) (1) The board may order any person to cease and desist from an activity which it reasonably believes causes unreasonable noise which creates imminent peril to the public health and well being, or to cease and desist from an activity which it reasonably believes constitutes a willful or continued violation of any provision of this code or order or regulation, promulgated by the commissioner or board. Such order shall be effective upon service thereof. Any party affected by such an order may request a hearing on written notice, and he or she shall be afforded a hearing, within twenty-four hours after service of such request, pursuant to section 24-263 of this code. If such an accelerated hearing is not requested, then a hearing shall be afforded within ten days of the issuance of the order. The board shall issue its final decision and order thereon within three days from the conclusion of a hearing held pursuant to this subdivision.
-
-(g) The default penalty imposed pursuant to paragraph 5 of subdivision (b) of this section for a violation of section 24-218(a), as set forth in section 3-115 of title 48 of the rules of the city of New York or any successor provision, shall not exceed 150 percent of the scheduled penalty set forth therein.
-
-
-
-
-
-
-
-
-*§ 24-258 The board.* ::
-
-
-(a) The board shall be convened by the chairperson or in the chairperson's absence the assistant commissioner of environmental compliance, or at the request of any three members thereof.
-
-(b) If a member of the board has presided over the initial hearing, he or she shall not be disqualified from reviewing the hearing.
-
-(c) Five members of the board, at least two of who shall not be city officials, shall constitute a quorum.
-
-
-
-
-
-
-*§ 24-259 Notice of violation.* ::
-
-
-(a) Notice, required by this chapter, shall be given by issuance of a notice of violation.
-
-(b) Whenever the commissioner has reasonable cause to believe that a violation of any provision of this code or any order or regulation promulgated by the commissioner or the board may exist, he or she may cause to have a notice of violation issued and served on:
-
-   (1) The person in violation; or
-
-   (2) An owner with an equity interest in the device in violation, if any; or
-
-   (3) If an owner with an equity interest in the device in violation cannot be located with due diligence, any other owner of said device.
-
-(c) A notice of violation shall:
-
-   (1) Specify the section or sections of this code, order, or regulation that such person or device is in violation of; and
-
-   (2) Indicate the amount of the civil penalty that such person is subject to; and
-
-   (3) Contain a brief statement of the nature of the violation; and
-
-   (4) Require a written response that conforms to section 24-260 of this code; and
-
-   (5) Require such person or owner of a device, unless a hearing is not required by section 24-257 of this code, to answer the allegations in the notice of violation at a time and place designated either in or with the notice of violation or in a subsequent notice to such person or owner.
-
-
-
-
-
-
-*§ 24-260 Written response.* ::
-
-
-(a) A written response in a form prescribed by the board shall be served upon the department and filed with the board within five days of receipt of the notice of violation.
-
-(b) If the allegation in the notice of violation is one for which a hearing is not required by section 24-257 of this code, and is contested, then the respondent must either:
-
-   (1) Include a copy of any tunneling permit or certificate that the respondent asserts was issued by the department; or
-
-   (2) Deny that such tunneling permit or certificate is required by law.
-
-(c) If any of the allegations in the notice of violation are those for which a hearing is required by section 24-257 of this code, and are contested, the written response shall contain a concise statement of the facts constituting each ground of defense.
-
-(d) If allegations in the notice of violation are admitted the written response of the respondent shall consist of:
-
-   (1) A statement that he or she admits all of the material allegations to be true; and
-
-   (2) A statement of any attempts subsequent to service of the notice of violation to comply with this code or with the order or regulation.
-
-   (e) Failure of the respondent to serve a written response within the time provided shall be deemed to constitute a waiver of his or her right to appear and contest the allegations in the notice.
-
-
-
-
-
-
-*§ 24-261 Citizen's complaint.* ::
-
-
-(a) Any person other than personnel of the department and employees of the city of New York authorized by law to serve summonses for violation of the code may serve upon the department a complaint in a form prescribed by the commissioner alleging that a person has violated a provision of this code set forth in table VI,* below, or an order or regulation promulgated under such provision together with evidence of such violation.
-
-TABLE VI
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Violation related to section or subdivision and order or regulation thereunder 
-    * - 24-208
-    * - 24-216
-    * - 24-220 (b)
-    * - 24-224
-    * - 24-232, except that the provisions of this section 24-261 shall apply only to violations by persons operating motor vehicles listed in subdivisions one and two of column I, and subdivisions one and two of column II of Table 1. 24-234 24-236 24-237, except that the provisions of this section 24-261 shall apply only to a violation by a person operating a circulation device with a rated capacity in excess of fifty thousand British thermal units per hour or its equivalent.
-    * - 24-238
-    * - 24-240
-    * - 24-241
-    * - 24-244
-    * - 24-245
-~
-
- 
-
-(b) A person who has served a complaint pursuant to subdivision (a) of this section may serve upon the person allegedly in violation and upon the board a notice of violation in a form prescribed by the board, if within thirty days from service of such complaint:
-
-   (1) The department has failed to serve a notice of violation, pursuant to section 24-259 of this code, for the violation alleged in a complaint pursuant to subdivision (a) of this section; or
-
-   (2) The department fails to serve a written notice upon the complainant of its determination that his or her complaint is frivolous or duplicitous.
-
-(c) A person commencing a proceeding before the board pursuant to this section, shall prosecute such proceeding at his or her own expense. The department may intervene in such a proceeding at any time.
-
-(d) In any proceeding brought by the department after receiving a complaint pursuant to subdivision (a) of this section, the board shall award the complainant, out of the proceeds collected, fair and reasonable compensation, which shall not exceed twenty-five percent of the proceeds collected, for disclosure of information or evidence not in the possession of the department, which leads to the imposition of the civil penalty.
-
-(e) In any proceeding brought by a complainant, the board shall award, out of the proceeds collected, fifty percent of any civil penalty as fair and reasonable compensation to such person.
-
-
-
-
-
-
-*§ 24-262 Settlement of proceedings.* ::
-
-
-The board may settle any proceeding by stipulation and may exercise any or all of its powers under section 24-257 of this code thereby, at any time prior to the issuance of a decision pursuant to section 24-266 of this code.
-
-
-
-
-
-
-*§ 24-263 Hearings.* ::
-
-
-(a) The chairperson of the board shall designate a hearing officer or at least one member of the board to preside over hearings held pursuant to this subchapter. In any hearing in which a quorum of the board is present, such members shall be deemed to be sitting as the board.
-
-(b) All such hearings shall be open to the public.
-
-(c) At the request of any party to such a hearing, the board shall by the issuance of a subpoena compel the attendance of such witnesses and shall require the production of any such books, papers, or other things relating to the matter under investigation if such a request reasonably relates to such hearing.
-
-(d) Any party to a hearing may be represented by counsel, may make oral and written argument and cross-examine witnesses. All testimony taken before the board or the designated hearing officer shall be under oath and shall be recorded. The record shall be open to public inspection, and copies thereof shall be made available to any person upon payment of the actual cost of repro- duction.
-
-
-
-
-
-
-*§ 24-264 Default; vacating a default order.* ::
-
-
-(a) A respondent shall be in default when the respondent has:
-
-   (1) Failed to serve a written response pursuant to section 24-260 of this code; or
-
-   (2) Failed to appear at the designated time and place as required by the notice of violation or subsequent notice pursuant to section 24-259 or 24-261 of this code; or
-
-   (3) Neglected to proceed in a manner ordered by the board.
-
-(b) Within sixty days of a decision and order of the board issued pursuant to paragraph two of subdivision (c) of section 24-266 of this subchapter, the respondent may request the board to grant a stay of such order of the board and schedule a hearing. If the respondent has shown good cause and a meritorious defense, the board may grant such a request and hold a hearing pursuant to section 24-263 of this code. At the conclusion of the hearing, the board may adopt, amend or rescind its decision and order.
-
-
-
-
-
-
-*§ 24-265 Hearing officer's decision.* ::
-
-
-(a) At the conclusion of the hearing, the hearing officer or member of the board conducting the hearing shall prepare a decision stating findings of fact and conclusions, as well as reasons for his or her determination on all material issues, and making recommendations as to action which should be taken in the matter.
-
-(b) The hearing officer or member of the board conducting the hearing shall file his or her decision with the board and send copies by mail to the parties. Any party may file exceptions with the board within twenty days after service of such decision. If no exceptions have been filed within the described time, the recommendations of the hearing officer or member of the board conducting the hearing shall automatically become the decision of the board and shall constitute its findings, conclusions and order.
-
-(c) At the conclusion of a hearing conducted by the board, the board shall issue its decision and order. The decision of the board shall conform to the requirements of subdivisions (b) and (c) of section 24-266 of this code.
-
-
-
-
-
-
-*§ 24-266 Board decision and order.* ::
-
-
-(a) If any party files exceptions to the decision of the hearing officer or member of the board conducting a hearing within the prescribed time the board shall review the record and issue its decision and order in which it may adopt, modify or reject the findings, conclusions and recommendations of the hearing officer or member of the board who conducted the hearing.
-
-(b) The decision of the board shall contain findings of fact, conclusions of law and reasons for the decision on all material issues raised, and an order either dismissing the allegations of the notice of violation or sustaining them in whole or in part.
-
-(c) The board may exercise one or more of its powers pursuant to section 24-257 of this code, as it deems appropriate if:
-
-   (1) The allegations in the notice of violation are sustained in whole or in part;
-
-   (2) The respondent is in default under section 24-264 of this code.
-
-(d) The decision and order of the board shall be its final determination. A judicial proceeding must be commenced within two months after the service of such decision and order.
-
-
-
-
-
-
-*§ 24-267 Compliance with board decisions; orders and civil penalties.* ::
-
-
-(a) If the respondent fails or refuses to comply with the board's order, or the board otherwise deems it necessary, the corporation counsel for the city of New York, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order of the board.
-
-(b) A civil penalty imposed by the board pursuant to section 24-257 of this code may be collected in an action brought in the name of the city of New York.
-
-
-
-
-
-
-*§ 24-268 Procedural rules.* ::
-
-
-The board shall have authority from time to time to make, amend and rescind such procedural rules as may be necessary to carry out the provisions of this subchapter.
-
-
-
-
-
-
-*§ 24-269 Criminal penalties.* ::
-
-
-(a) Any person who shall knowingly make a false statement or who shall knowingly falsify or allow to be falsified any certification, registration, form, signed statement, application or report required under the provisions of this code or regulation promulgated by the commissioner or the board shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than one hundred dollars nor more than one thousand dollars, or by imprisonment not to exceed five months, or both.
-
-(b) Any person, other than a corporation, who violates any order of the commissioner or the board or any provision of section 24-245 of this code or who illegally breaks a seal on equipment, upon conviction shall be punished for each offense by a fine of not less than fifty dollars nor more than five hundred dollars, or by imprisonment for not more than thirty days or by both. Any corporation which violates any order of the commissioner or the board or any provision of section 24-245 of this code, or which illegally causes a seal to be broken, upon conviction shall be punished for each offense by a fine of not less than one hundred dollars nor more than two thousand dollars. Every day during which such violation occurs constitutes a separate offense.
-
-(c) Any person, other than a corporation, convicted of willful failure to pay a civil penalty imposed by the board pursuant to section 24-257 of this code shall be punished by a fine of double the amount of the civil penalty imposed by the board, or by imprisonment for not more than sixty days, or by both. Any corporation convicted of a wilful failure to pay a civil penalty imposed by the board pursuant to section 24-257 of this code shall be punished by a fine of double the amount of the civil penalty imposed by the board, but not more than two thousand dollars.
-
-(d) The failure of any person or corporation against whom an action has been brought to collect a civil penalty pursuant to subdivision (b) of section 24-267 of this code, who has been found liable by a court for such civil penalty and who does not pay such penalty after the judgment of such becomes final, shall be deemed guilty of a willful failure to pay a civil penalty.
-
-(e) Any person convicted of violating any of the provisions of this code or any regulation of the board not otherwise provided for by this section shall be punished by a fine of not less than fifty dollars nor more than five hundred dollars for the first offense, or by imprisonment for twenty days, or both; and by a fine of not less than one hundred dollars nor more than one thousand dollars, or by imprisonment for not more than thirty days, or both, for a second offense; and by a fine of not less than four hundred dollars nor more than five thousand dollars, or by imprisonment for not more than four months or both for a third or subsequent offense.
-
-(f) Twenty-five percent of any fine that is imposed pursuant to this section may be paid to the person or persons giving information which shall lead to conviction.
-
-
-
-
-
-
-*§ 24-270 Uniform civil penalties for unreasonable noise.* ::
-
-
-Notwithstanding any inconsistent provision of law, the civil penalties for the violation of paragraphs 1, 2, and 3 of section 1-05(d) of title 56 of the rules of the city of New York, or any successor rule of the department of parks and recreation that prohibits or regulates noise, or paragraphs 16 and 17 of subdivision c of section 18-146* of the administrative code, shall be no greater than the civil penalties established in section 24-257 of this chapter for a violation of section 24-218(a) of this chapter, except in such cases in which the respondent received notice of such violation while engaged in commercial activities.
-
-* Editor's note: this code presently includes multiple sections designated as 18-146. See, e.g., § 18-146, "Prohibitions in parks."
+c. By December first 2017, and every third year thereafter, such designated office or agency shall submit to the mayor and the speaker of the council, and make publicly available online, a report on how the city has made use of such risk factors in targeting enforcement of laws and rules relating to the delivery by pipe or usage of gas in residential and commercial buildings and the efficacy of such targeted enforcement.
 
 
 
@@ -5785,243 +6044,273 @@ b. 1. The department may issue a stop work order whenever the department finds t
 
 
 
-Chapter 4: Gas and Electric Lines
+Chapter 5-A: Water Pollution Control
 --------------------------------------------------
 
 
 
-*§ 24-401 Engineers. [Repealed]* ::
 
+**Subchapter 1: General**
 
-a. It shall be unlawful for any person to take up the pavement of any street, or to excavate for the purpose of laying any gas distribution lines, or any electrical conductors underground, or of constructing subways, or of erecting poles, unless permission in writing therefor shall have been first obtained from the commissioner of transportation. It shall be unlawful to string, lay or maintain any gas distribution lines, or any electrical conductors above or below the surface of any street, in any part of the city, without written permission from the commissioner of transportation. The commissioner of transportation shall determine whether any extension of the existing electrical conductors of any person shall be by means of overhead or underground conductors.
 
-b. Violations. Any person who shall violate any provision of this section, upon conviction thereof, shall be punished by a fine of not less then two hundred fifty dollars nor more than five hundred dollars, or imprisonment for thirty days or both.
 
+*§ 24-540 Policy.* ::
 
 
+Land development and associated increases in site impervious cover increase stormwater runoff causing flooding, soil erosion, and sediment transport and deposition in waterways. A high percentage of impervious area correlates with a higher rate of stormwater runoff, which generates greater pollutant loadings to the city’s separate stormwater and combined sewer systems. Pollutants found in urban runoff include, but are not limited to, nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs).
 
+Clearing and grading during construction may increase soil erosion and add to the loss of native vegetation necessary for terrestrial and aquatic habitats. Improperly designed and constructed stormwater management practices increase the velocity of stormwater runoff thereby increasing erosion and sedimentation. Impervious surfaces allow less water to percolate into the soil, thereby decreasing groundwater recharge and stream baseflow. Stormwater runoff, soil erosion and nonpoint source pollution can be controlled and minimized through the regulation of stormwater runoff from land development activities. Regulation of land development activities by means of performance standards governing long-term stormwater management and site design produces development compatible with the natural functions of a particular site and thereby mitigates the adverse effects of erosion and sedimentation from development.
 
+Material handling and storage, equipment maintenance and cleaning, and other activities at industrial facilities are often exposed to stormwater, which can pick up pollutants and transport them to surface waters directly or via a storm sewer. Appropriate stormwater management at industrial facilities can reduce these impacts.
 
-*§ 24-405 Permit required.* ::
+This chapter establishes stormwater management controls meeting the requirements of state and federal law in areas of the city where stormwater does not pass through wastewater treatment plants before it enters the waters of the state. In these areas water borne pollutants in stormwater runoff are more likely to enter and have an adverse impact on the waters of the state.
 
+The purpose and intent of this chapter is to (i) reduce pollutants discharged in stormwater runoff from construction activities in such areas to the maximum extent practicable through appropriate erosion and sediment controls; (ii) minimize, to the maximum extent practicable, increases in stormwater runoff volume and velocity, and pollutant loading in stormwater runoff, from development sites in such areas; (iii) ensure the proper maintenance of post-construction stormwater management practices; and (iv) ensure compliance by certain industrial facilities in such areas with applicable requirements to manage stormwater runoff in order to reduce pollutants in stormwater from industrial activities to the maximum extent practicable.
 
-a. It shall be unlawful for any gas, telephone or electric light company, or any person to lay or install any pipes, mains or conduits for the use and transmission of gas, electricity, pneumatic power or steam, or to perform any work that is under the jurisdiction, cognizance and control of the commissioner of transportation, in any street, or public place, without a written permit from the commissioner of transportation.
 
-b. It shall be unlawful to violate any provision of this section or any notice or special direction thereunder, under a penalty of not less than two hundred fifty dollars nor more than five hundred dollars for each offense.
 
 
 
 
 
 
-*§ 24-406 Removal of electric wires; Manhattan and the Bronx.* ::
+*§ 24-541 Definitions.* ::
 
 
-a. After the grade of any street in the boroughs of Manhattan and the Bronx shall have been finally determined and established, whenever, in the opinion of the board of estimate it shall be practicable to remove the electrical conductors above ground in such street and place them underground, the commissioner of transportation shall notify the owners or operators of such conductors. Notice shall be to the effect that such electrical conductors must be removed within a certain time, sufficient for removal, which shall be fixed by such commissioner. In the case of a corporation duly authorized to lay and operate electrical conductors underground in such street, the time shall be sufficient for the proper laying of conductors underground in place of those removed.
+As used in this chapter, the following terms have the following meanings:
 
-b. All electrical conductors authorized to be placed underground, shall be so placed under and in accordance with the provisions of sections 24-410 through 24-415 of the code. Whenever application shall be made to the commissioner of transportation for permission to place underground electrical conductors in any such street, if such permission be granted, the subways therefor shall be constructed or provided, and such electrical conductors placed underground under and in accordance with the provisions of such sections. Such permission shall be granted only in accordance with the provisions of such sections.
+Authorized inspection agent. The term “authorized inspection agent” means an individual who has been authorized pursuant to a contract entered into by the department to conduct inspections on behalf of the department.
 
+Commissioner. The term “commissioner” means the commissioner of environmental protection or the authorized representative of such commissioner.
 
+Covered development project. The term “covered development project” means development activity that involves or results in an amount of soil disturbance within the MS4 area greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section 24-553. Such term includes development activity that is part of a larger common plan of development or sale involving or resulting in soil disturbance within the MS4 area greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section 24-553. Such term shall include all development activity within the MS4 area that requires a stormwater pollution prevention plan pursuant to the NYSDEC construction general permit.
 
+Department. The term “department” means the department of environmental protection.
 
+Detention system. The term “detention system” means a system that slows and temporarily holds storm water runoff so that it can be released at a controlled rate.
 
+Developer. The term “developer” means a person that owns or leases land on which development activity that is part of a covered development project is occurring, and/or a person that has operational control over the development activity’s construction plans and specifications, including the ability to make modifications to the construction plans and specifications.
 
-*§ 24-407 Underground electrical conductors; Manhattan and the Bronx.* ::
+Development activity. The term “development activity” means soil disturbance on a site including but not limited to land contour work, clearing, grading, excavation, demolition, construction, reconstruction, new development, redevelopment, creation or replacement of impervious surface, stockpiling activities or placement of fill. Clearing activities include but are not limited to the cutting and skidding of trees, stump removal and/or brush root removal. Such term does not include routine maintenance (such as road resurfacing) that is performed to maintain the original line and grade, hydraulic capacity, or original purpose of a facility.
 
+Erosion and sediment controls. The term “erosion and sediment controls” means stormwater management practices designed to minimize the discharge of pollutants during development activities including, but not limited to, structural erosion and sediment control practices, construction sequencing to minimize exposed soils, soil stabilization, dewatering control measures, and other pollution prevention and good housekeeping practices appropriate for construction sites.
 
-Any company, operating or intending to operate electrical conductors in the boroughs of Manhattan and the Bronx, if it shall desire or be required to place its conductors or any of them underground in any of the streets of such boroughs, must remove such conductors from the surface of such streets, when duly authorized so to do. It shall be obligatory upon such company to file with the commissioner of transportation a map or maps, made to scale, showing the streets which are desired to be used for such purpose, and giving the general location, dimensions and course of the underground conduits desired to be constructed. Before any such conduits shall be constructed, it shall be necessary to obtain the approval of such commissioner of transportation of the plan of construction proposed by such company. The commissioner of transportation has and shall have power to require that the work of removal and of constructing every such system of underground conductors shall be done according to such plan so approved, subject at all times to such modifications as shall be made by him or her from time to time, and subject also to such rules and regulations as may be promulgated by him.
+Impaired water. The term “impaired water” includes (i) a water body for which NYSDEC has established a total maximum daily load (“TMDL”), (ii) a water body for which NYSDEC expects that existing controls such as permits will resolve the impairment, and (iii) a water body identified by NYSDEC as needing a TMDL. A list of impaired waters is issued by NYSDEC pursuant to section 303(d) of the federal water pollution control act, chapter 26 of title 33 of the United States code.
 
+Industrial stormwater source. The term “industrial stormwater source” means any premises or facility that is subject to the MSGP.
 
+Larger common plan of development or sale. The term “larger common plan of development or sale” means a contiguous area where multiple separate and distinct development activities are occurring, or will occur, under one plan. The term “plan” in “larger common plan of development or sale” is broadly defined as any announcement or piece of documentation including a sign, public notice of hearing, sales pitch, advertisement, drawing, permit application, uniform land use review procedure (ULURP) application, state environmental quality review act (SEQRA) or city environmental quality review (CEQR) application, application for a special permit, authorization, variance or certification pursuant to the zoning resolution, subdivision application, computer design, or physical demarcation (including boundary signs, lot stakes, and surveyor markings) indicating that development activities may occur on a specific plot. Such term does not include area-wide rezonings or projects discussed in general planning documents. For discrete development activities that are located within a larger common plan of development or sale that are at least 1/4 mile apart, each activity may be treated as a separate plan of development or sale provided that any interconnecting road, pipeline or utility project that is part of the same “common plan” is not concurrently being disturbed.
 
+Multi sector general permit or “MSGP.” The term “multi sector general permit” or “MSGP” means the New York state department of environmental conservation SPDES multi sector general permit for stormwater discharges associated with industrial activity, Permit No. GP-0-12-001 or its successor.
 
+MS4 SWPPP acceptance form. The term “MS4 SWPPP acceptance form” means the form developed by NYSDEC to be used to indicate acceptance of a SWPPP by a municipality.
 
+MS4 area. The term “MS4 area” means those portions of the city of New York served by separate storm sewers and separate stormwater outfalls owned or operated by the city of New York and areas in which municipal operations and facilities drain by overland flow to waters of the state, as determined by the department and described on maps of the MS4 area set forth in the rules of the department.
 
-*§ 24-408 Electrical conductors; Manhattan and the Bronx; duties of commissioner of transportation.* ::
+Municipal operations and facilities. The term “municipal operations and facilities” means any operation or facility serving a New York city governmental purpose and over which the city of New York has operational control.
 
+New development. The term “new development” means any construction or disturbance of a parcel of land that is currently undisturbed or unaltered by human activities and in a natural state.
 
-a. It shall be the duty of the commissioner of transportation to carefully investigate any and all methods proposed by any company for electric lighting or electrical communication by the use of conductors along or across any street in the boroughs of Manhattan and the Bronx, and, before approving of any such method, such commissioner of transportation shall require that, so far as practicable, all such conductors when constructed shall be underground. The commissioner of transportation shall have full authority to compel all companies operating electric wires to use the subway prepared in accordance with the provisions of sections 24-407 through 24-409 of the code.
+Notice of intent or NOI. The term “notice of intent” or “NOI” means the document submitted to NYSDEC to obtain coverage under the NYSDEC construction general permit.
 
-b. Wherever, along the streets, in sparsely inhabited or unoccupied portions of such boroughs, the public interests do not require the electrical conductors to be placed underground, and wherever, in any other locality in such boroughs, it is deemed by such commissioner to be, for any cause, impracticable to construct and successfully operate underground the electrical conductors required by any such company, then, it shall be the duty of such commissioner to examine and grant the application of any such company for permission to deviate from such underground system. The commissioner of transportation shall not, however, grant any such permission unless he or she shall be satisfied, upon investigation, that such a permit should be granted for one of the reasons stated above, and that it will not interfere with the successful working of underground conductors elsewhere in such boroughs. Any such permit shall be held and construed to authorize the construction and maintenance of the lines of conductors therein provided for, as and where prescribed by the commissioner of transportation.
+Notice of termination or NOT. The term “notice of termination” or “NOT” means the document submitted to NYSDEC to terminate coverage under the NYSDEC construction general permit.
 
-c. It is hereby made the duty of such commissioner of transportation, in granting any such permit for other than underground electrical connections, to bear in mind the policy and purpose of sections 24-407 through 24-409 of the code, which is to convert the overhead systems of electrical wires and cables now in use in such boroughs to underground systems, as soon as possible, without impairing the efficiency of their service, and to require that, as far as practicable, all electrical conductors in any street in such boroughs shall be removed from the surface and placed and operated underground, as soon as may be consistent with the convenient use thereof by the public. It is intended to authorize other than underground electrical conductors, to be used in the streets, only when and where the public interests do not require the electrical conductors to be placed underground, or when and where it shall be deemed by the board of estimate to be impracticable to place and operate the conductors advantageously underground. It is also intended to make all aerial or other electrical connections merely incidental to such underground methods, and to require that they be authorized only when and where needed for the convenient use of the public or where the underground conductors can be made more useful thereby.
+NYC MS4 Permit. The term “NYC MS4 permit” means the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York city, SPDES No. NY-0287890 or its successor.
 
-d. The work of constructing every line of conductors authorized by any such permit, so granted, shall be subject to the rules and regulations prescribed by the commissioner of transportation. Every such permit shall specify the location of the structures to be erected and to be used for sustaining the electrical conductors, and shall give the general dimensions thereof.
+NYSDEC. The term “NYSDEC” means the New York state department of environmental conservation.
 
-e. It shall be the duty of the commissioner of transportation to require that the subway may be used by the city for the electric wires or conductors operated by its police, fire or other agencies without expense, except that of the wires or conductors. The city shall not, however, be compelled to place any such wires or conductors underground until the money has been specifically raised therefor, and until that time the city may continue to use and extend such wires.
+NYSDEC construction general permit. The term “NYSDEC construction general permit” means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from construction activities, Permit No. GP-0-15-002 or its successor.
 
+NYSDEC MS4 general permit. The term “NYSDEC MS4 general permit” means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from municipal separate storm sewer systems (MS4s), Permit No. GP-0-15-003 or its successor.
 
+Owner. The term “owner” means a person having legal title to premises, a mortgagee or vendee in possession, a trustee in bankruptcy, a receiver, or any other person having legal ownership or control of premises.
 
+Person. The term “person” means an individual, corporation, partnership, limited liability company or other legal entity.
 
+Pollutant. The term “pollutant” means dredged soil, filter backwash, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand and industrial, municipal, and agricultural waste discharged into water; which may cause or might reasonably be expected to cause pollution of the waters of the state in contravention of the standards or guidance values adopted as provided in subdivision a of section 750-1.2 of title 6 of the New York codes, rules and regulations.
 
+Pollutants of concern. The term “pollutants of concern” means pollutants that might reasonably be expected to be present in stormwater in quantities that may cause or contribute to an exceedance of water quality standards. These pollutants include but are not limited to nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs).
 
-*§ 24-409 Aerial electrical wires or cables; regulation.* ::
+Post-construction stormwater management facility or post-construction facility. The term “post-construction stormwater management facility” or “post-construction facility” means a stormwater management practice serving a developed site and consisting of technology or strategies designed to reduce pollutants in stormwater runoff or reduce runoff rate or volume from the developed site through infiltration, retention, detention, or other method or treatment. Such term includes, but is not limited to, detention systems and retention systems.
 
+Premises. The term “premises” means any building, lot, parcel of land, or portion of land, whether improved or unimproved, including adjacent sidewalks and parking strips.
 
-Whenever the commissioner of transportation shall permit any aerial electrical wires or cables, carried along or across and above the surface of any of the streets of such boroughs, to be crossed by aerial electrical wires or cables, it shall be the duty of the commissioner of transportation to designate also, in such permit, the route and location thereof, and to prescribe and regulate the height at which such wires or cables shall be placed. Whenever any such permit shall be granted by the commissioner of transportation, in extending the connections of any subterranean electrical conductors, for the erection of any structure or structures for sustaining electrical conductors above the surface of any street, or for placing wires or cables on any such structure or elsewhere than underground, or for carrying any such wires or cables across or along and above the surface of any street, or for placing wires or cables on any such structure or elsewhere than underground, or for carrying any such wires or cables over or into or in the rear of any building in such boroughs, any and all such structures, and any and all such wires or cables, shall be so erected and maintained as not to interfere with the other public uses of such streets.
+Qualified inspector. The term “qualified inspector” means a person who is knowledgeable in the principles and practices of erosion and sediment control.
 
+Qualified professional. The term “qualified professional” means a person who is knowledgeable in the principles and practices of stormwater management and treatment.
 
+Redevelopment. The term “redevelopment” means reconstruction of or modification to any existing previously developed land such as residential, commercial, industrial, institutional or road/highway, which involves soil disturbance. Redevelopment is distinguished from new development in that new development refers to construction on land where there had not been previous construction. Redevelopment specifically applies to constructed areas with impervious surface or urban fill.
 
+Retention system. The term “retention system” means a system that captures storm water runoff on site with no release.
 
+Separate stormwater outfall. The term “separate stormwater outfall” means a point where stormwater from a storm sewer or other source of concentrated stormwater flow, owned or operated by the city of New York, is discharged into a water of the state or to a separate storm sewer system that requires coverage under the NYSDEC MS4 general permit.
 
+Storm sewer. The term “storm sewer” means a sewer, the primary purpose of which is to carry stormwater.
 
-*§ 24-410 Construction of conduits; removal of poles, wires.* ::
+Stormwater or stormwater runoff. The term “stormwater” or “stormwater runoff” means runoff that is generated when precipitation from rain events or snowmelt flows overland and does not percolate into the ground.
 
+Stormwater construction permit. The term “stormwater construction permit” means a permit issued by the department authorizing development activity on land on which there is a covered development project in accordance with an approved stormwater pollution prevention plan (SWPPP).
 
-Whenever, in the opinion of the commissioner of transportation, a sufficient construction of conduits or subways under ground shall be made ready under the provisions of sections 24-410 through 24-414 of the code, in any street or locality in the boroughs of Manhattan and the Bronx, reference being had to the general direction and vicinity of the electrical conductors then in use overhead, the commissioner of transportation shall notify the owners or operators of the electrical conductors above ground in such street or locality. The notice shall inform them that they are to make such electrical connections in such street or through other streets, localities or parts of such boroughs with such underground conduits or subways as shall be determined by such commissioner of transportation, and to remove poles, wires, or other electrical conductors above ground and their supporting fixtures or other devices from such street and locality within ninety days after notice to such effect shall be given.
+Stormwater maintenance permit. The term “stormwater maintenance permit” means a permit issued by the department where maintenance of post-construction stormwater management facilities by owners of real property is required.
 
+Stormwater management practices or SMPs. The term “stormwater management practices” or “SMPs” means measures to prevent flood damage and/or to prevent or reduce point source or nonpoint source pollution inputs to stormwater runoff and water bodies. Such term includes erosion and sediment controls, post-construction stormwater management facilities, and practices to manage stormwater runoff from industrial activities.
 
+Stormwater pollution prevention plan or SWPPP. The term “stormwater pollution prevention plan” or “SWPPP” means (i) when used in connection with a covered development project, a plan for controlling stormwater runoff and pollutants during construction and, where required by department rules, after construction is completed, or (ii) when used in connection with an industrial stormwater source, a plan, which is required by the MSGP, for controlling stormwater runoff and pollutants.
 
+Waters of the state. The term “waters of the state” means lakes, bays, sounds, ponds, impounding reservoirs, springs, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Atlantic ocean within the territorial seas of the state of New York and all other bodies of surface water, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters that do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction.
 
 
 
-*§ 24-411 Removal of abandoned poles.* ::
 
 
-a. All telegraph, telephone and electric light poles, wires or conductors which shall hereafter remain or stand disused, or become disused or abandoned, in, or over or upon any street, shall be forthwith removed, but for sufficient cause shown the commissioner of transportation may extend the time for such removal, by one or more orders, for periods not exceeding one year each.
 
-b. The persons owning, operating, managing or controlling poles, wires or appurtenances which may have been so disused or abandoned, or which may be dangerous or unsafe, shall take down and remove them, and upon their failure to do so, the commissioner of transportation shall remove the same forthwith, at the expense of such persons. Before such removal, the commissioner of transportation, except where a condition of danger exists, shall mail a notice thereof to the last known address of such persons, a copy of which shall be posted for a period of ten days on each of such poles prior to its removal.
 
-c. Any person convicted of a violation of any of the provisions of this section shall be punished by a fine of not less than $350 nor more than $750 dollars, imprisonment for not more than ten days, or both. In addition to or as an alternative to such penalty, such person shall also be subject to a civil penalty of no less than nor more than $100 per day such person is in violation of any provision of this section. Such civil penalties shall be imposed in the manner set forth in section 19-150.
 
+*§ 24-542 Entry and inspection.* ::
 
 
+An authorized representative of the department may enter on any property, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, to inspect for compliance with this chapter and rules of the department promulgated hereunder.
 
 
 
 
 
-*§ 24-412 Agreement with Consolidated Telegraph and Electrical Subway Company; new contracts.* ::
 
 
-The agreement made by and between the commissioners of electrical subways or the commissioner of water supply, gas and electricity for the city of New York and the Consolidated Telegraph and Electrical Subway Company or its successor by merger, the Consolidated Edison Company of New York, under date of July twenty-seventh, eighteen hundred eighty-six, when and as amended and modified by a second and further contract or agreement between these parties, dated the seventh day of April, eighteen hundred eighty-seven, is hereby ratified and confirmed, subject, however to all the provisions of sections 24-410 through 24-414 of the code. But if at any time or for any reason the agreement so amended shall be or become inoperative or ineffectual for the accomplishment of its just purpose and the purposes of these sections, or if the company shall be unable, or after reasonable notice and opportunity given by such commissioner, it shall fail or decline to comply with or carry into effect the agreement in all its terms, then such commissioner may, with the approval of the mayor, make such new, further or different contracts with the same or other parties as may be reasonable or necessary to carry into effect the provisions and intent of sections 24-410 through 24-414 of the code.
 
 
+**Subchapter 2: Construction and Post-Construction Stormwater Controls**
 
 
 
+*§ 24-550 General.* ::
 
-*§ 24-413 Enforcement of agreement and of provisions of sections 24-407 through 24-414 of the code.* ::
 
+This subchapter governs certain land development activities within the MS4 area.
 
-Whenever it shall be made to appear to the satisfaction of any of the justices of the supreme court, that the commissioner of general services or his or her representatives, or any commissioner succeeding to the functions of such commissioner, or his or her representatives, or the Consolidated Telegraph and Electrical Subway Company or its successor by merger, the Consolidated Edison Company of New York, or any persons claiming under such commissioner, or under such company, shall have violated or shall have failed to observe and fully perform any of the provisions of sections 24-407 through 24-414 of the code, or of such agreement, or shall have failed to furnish just and equal facilities thereunder to any and all corporations lawfully competent to manufacture, use or supply electricity, or to operate electrical conductors in any street, applying for such facilities upon terms that to the court shall appear just and reasonable, then such justice or court may, by proper proceedings in the nature of an order of mandamus, enforce the provisions of sections 24-407 through 24-414 of the code, or of such agreement or of any agreement made under such sections or compel the granting of such facilities, or may grant such relief as may be proper. Such commissioner, or the city, or any person, company or corporation aggrieved, shall be entitled to institute and maintain such proceedings.
 
 
 
 
 
 
-*§ 24-414 Power to purchase subways, property and contracts of such company.* ::
 
+*§ 24-551 Stormwater construction permit required.* ::
 
-The mayor, in his or her discretion, may purchase the subways constructed by such company, and the contracts and other property held or owned by it for any of the purposes of its incorporation, for and in the name of the city. The purchase price shall not exceed the actual cost of the property, with ten per cent added to such cost, as may be or may have been agreed upon between such company and the commissioner of general services. The payment therefor shall be made within four months after the delivery to the comptroller of good and sufficient and duly executed instruments of conveyance or transfer to the city, subject, however, to any valid liens outstanding thereon, not exceeding fifty per cent of the actual cost of such subways, and subject to all existing leases or contracts for the use of such subways.
 
+It shall be unlawful to commence or engage in any development activity on the site of a covered development project unless and until a stormwater construction permit has been issued by the department.
 
 
 
 
 
-*§ 24-415 Conditions to granting permit for conduit construction; security.* ::
 
 
-a. The commissioner of transportation shall not grant a permit of the type mentioned in section 24-404 of the code unless, if the application be for underground construction, there is an existing demand for the construction of such conduits or subways, and the occupation of such conduits or subways is reasonably assured, and the public interests require their construction, or unless, if the application be for permission to deviate from an underground system, the case is one of those in which such deviation may be legally permitted under authority of sections 24-407 through 24-409 of the code. This section is made a police regulation in and for such boroughs.
 
-b. It shall be the duty of the commissioner of transportation to require of any corporation or individual making application for the construction of subways, that before the construction of such subways shall be ordered, the applicant shall furnish to the corporation which shall be ordered to build such subways, satisfactory security for the occupation by it of the subways which shall be constructed at its request, and the payment of the established rentals therefor yearly in advance, during such period, not less than five years, as the commissioner of transportation shall determine. The commissioner of transportation may establish and from time to time may alter, add to or amend all proper and necessary rules, regulations and provisions for the manner of use and management of the electrical conductors, and of the conduits or subways therefor, constructed or contemplated under the provisions of this section or of any law mentioned herein. This section shall not be construed to authorize any corporation or individual to take up the pavements of such boroughs, to excavate in any of such streets or to erect poles in any part of such boroughs, unless a permit in writing therefor shall have been first obtained from the commissioner of transportation.
+*§ 24-552 Review of stormwater pollution prevention plan or SWPPP.* ::
 
 
+Before the commencement of development activity on the site of a covered development project the developer must submit to the department for review in accordance with rules of the department a stormwater pollution prevention plan, certified by a qualified professional, and for projects covered by the NYSDEC construction general permit a copy of the NOI. The department or a qualified professional designated by the department shall review the SWPPP within time periods to be specified in the rules of the department. If the department accepts the SWPPP the department shall issue a stormwater construction permit to the developer and, for projects subject to the NYSDEC construction general permit, shall issue an MS4 SWPPP acceptance form for filing with NYSDEC. If the department rejects the SWPPP the department shall send notice of such rejection to the developer indicating the specific deficiencies that caused the department to reject the SWPPP. The department may require that the SWPPP or other documents be submitted electronically.
 
 
 
 
-*§ 24-416 Underground electrical conductors; Brooklyn, Queens and Richmond.* ::
 
 
-Whenever the board of estimate, after hearing all the parties interested, shall deem it desirable and practicable that the electrical conductors above ground in any street in the boroughs of Brooklyn, Queens and Richmond, be placed underground, the commissioner of transportation shall notify the owners or operators of such electrical conductors. The notice shall be to the effect that such electrical conductors shall be placed underground within a certain time, sufficient for the proper construction of underground conduits or other channels in such street, to be fixed by such commissioner. Whenever any duly authorized company operating or intending to operate electrical conductors in any such street, shall desire to place its conductors or any of them underground, it shall be obligatory upon such company to file with the commissioner of transportation a map or maps made to a scale, showing the streets which are desired to be used for such purpose, and giving the general location, dimensions and course of the underground conduit desired to be constructed. Before any such conduit shall be constructed it shall be necessary to obtain the approval of the commissioner of transportation of such plan of construction so proposed, and such commissioner shall have power to require that the work of removal and of constructing every such system of underground conductors shall be done according to such plan so approved.
 
 
+*§ 24-553 Rules.* ::
 
 
+The department shall promulgate rules to carry out the provisions of this subchapter in accordance with the NYC MS4 permit and the NYSDEC construction general permit, including but not limited to rules that:
 
+a. Set forth the content of SWPPPs, consistent with the NYSDEC construction general permit, including identifying those development projects requiring only erosion and sediment controls during construction and those development projects requiring erosion and sediment controls and post-construction stormwater management facilities.
 
-*§ 24-417 Telegraph, telephone or electric light poles on Eighth avenue between Flatbush avenue and Ninth street in Brooklyn.* ::
+b. Establish design standards for erosion and sediment controls and post-construction stormwater management facilities which shall not be less stringent than the standards set forth or incorporated by reference in the NYSDEC construction general permit.
 
+c. Establish exemptions from permit requirements, consistent with the NYC MS4 permit and the NYSDEC construction general permit.
 
-Telegraph, telephone or electric light poles, except such iron poles as are now or may hereafter be erected and maintained in connection with an underground system of wires, shall not be erected upon Eighth avenue, in Brooklyn, between Flatbush avenue and Ninth street, or any part thereof, unless the consent of a majority of the owners of property in numbers and value thereof on Eighth avenue between Flatbush avenue and Ninth street first be obtained in writing, duly acknowledged in the same manner as deeds entitled to be recorded.
+d. After completion of the lot size soil disturbance study required by the NYC MS4 permit, provide for the regulation of development activity of less than one acre, based either on total disturbance of soil or on amount of impervious surface created or replaced, where an appropriate reduction in the threshold is necessary in accordance with the NYC MS4 permit.
 
+e. Establish procedures and fees for the review of SWPPPs and the issuance and renewal of permits required by this subchapter.
 
+f. Establish training, experience and/or education requirements for qualified professionals and qualified inspectors, which shall not be less stringent than those required by the NYSDEC construction general permit.
 
+g. Establish record keeping, inspection and reporting requirements for applicants and permittees to monitor compliance with this subchapter and approved SWPPPs.
 
+h. Establish requirements for compliance certifications by contractors to be included with SWPPPs.
 
+i. Establish standards for the maintenance, inspection, repair and replacement of required erosion and sediment controls and post-construction stormwater management facilities.
 
-*§ 24-418 Procedure.* ::
 
 
-The commissioner of transportation shall fix the time within which electrical conductors must be placed underground, and shall notify the owners or operators of any such electrical conductors in the city that such conductors must be removed or placed underground, in accordance with the resolution of the board of estimate. He or she shall give all persons or corporations owning or operating such electrical conductors, an opportunity to be heard on the question of the time necessary to place them underground, and shall hear such expert opinion as he or she may think advisable. Such owners or operators of electrical conductors above ground in such street or locality shall be required to remove all of such poles, wires or other electrical conductors and supporting fixtures or other devices from any such street or locality within thirty days after the expiration of the time so fixed by the commissioner of transportation.
 
 
 
 
 
+*§ 24-554 SWPPP to be retained on site.* ::
 
-*§ 24-419 Certain sections to be police regulations.* ::
 
+A copy of the SWPPP shall be retained at the site of the project from the date of initiation of development activities to the date notice of termination is submitted to NYSDEC and shall be made available to officers and employees of the department and/or qualified inspectors authorized by the department in accordance with the rules of the department.
 
-The provisions of sections 24-404, 24-406, 24-410, 24-416 and 24-418 of the code are made police regulations in and for the city. In case the owners of such poles, wires or other electrical conductors, fixtures and devices shall fail to have them removed from such streets or localities as required by the commissioner of transportation or by the determination of the board of estimate, or shall neglect or refuse to comply with any provisions of law with respect thereto, it shall be the duty of the commissioner of transportation to cause them to be removed from such streets.
 
 
 
 
 
 
-*§ 24-420 Replacement of lamp-posts or electric light poles.* ::
 
+*§ 24-555 Recordkeeping.* ::
 
-a. Any person who shall take up and temporarily remove any lamp-post or electric light pole, under a permit or by other lawful authority, shall cause the same to be reset at his or her own expense immediately upon the completion of the work that necessitated its removal.
 
-b. Any person who shall violate any provision of this section shall, upon conviction thereof, be punished by a fine of not less than two hundred fifty nor more than five hundred dollars, or by imprisonment for not exceeding thirty days, or by both.
+A developer shall keep and maintain records of all inspections and tests required to be performed pursuant to this subchapter and rules of the department, as follows: records of inspections and tests performed during construction must be maintained throughout construction and for 5 years after completion of construction; and records of post-construction inspections and tests must be maintained for 5 years after performance of such inspections or tests. Such records and tests shall be made available to the department in accordance with the rules of the department. The department may require such records to be maintained and provided to the department electronically.
 
 
 
 
 
 
-*§ 24-421 Electric light, power; inspection of; all wires to be inspected.* ::
 
 
-The commissioner of buildings shall cause all wires, currents and appliances that may be introduced into or placed in any building or structure in the city to be inspected, and shall furnish a certificate of such inspection to any person or corporation applying therefor.
+*§ 24-556 Compliance with terms and conditions of SWPPP required.* ::
 
 
+Every stormwater construction permit issued by the department shall include the condition that the applicant and all contractors and subcontractors performing work at the site will comply with this subchapter, rules of the department and the terms and conditions of the SWPPP. Any changes in the SWPPP are subject to the prior approval of the department in accordance with rules of the department.
 
 
 
 
-*§ 24-422 Commissioner of buildings to submit proposed local laws with respect to electrical equipment and energy.* ::
 
 
-The commissioner of buildings shall from time to time submit for the consideration of the council proposed local laws in relation to electric wires, appliances and currents for furnishing light, heat or power when introduced into or placed in any building or structure in the city. Such proposed local laws shall prescribe the method of construction, operation, location, arrangement, insulation and use of such wires, appliances and currents as the commissioner of buildings shall from time to time deem necessary for the protection of life and property.
 
 
+*§ 24-557 Suspension or revocation of permit.* ::
 
 
+The department may suspend or revoke a stormwater construction permit, after notice and the opportunity for a hearing in accordance with the rules of the department, when the department or NYSDEC finds that there is substantial non-compliance with this subchapter, the rules of the department, the NYSDEC construction general permit or the SWPPP, including any major change to erosion or sediment controls or any change in a post-construction stormwater management facility during construction that has or could have an effect on the discharge of pollutants, or when a permit was issued in error and conditions are such that a permit should not have been issued. When a permit is revoked or suspended all development activity at the project site shall cease and shall not be resumed until the issuance of a new permit or until such suspension is terminated except that the department may allow performance of work that is necessary to ensure public safety or to stabilize the construction site.
 
 
-*§ 24-423 Operators of motion-picture projecting machines. [Repealed.]* ::
 
 
 
 
 
 
+*§ 24-558 Stop work order.* ::
 
 
+a. Whenever the department finds that any development activity is being executed in violation of this subchapter, the SWPPP or rules of the department to the extent that work being performed at the site has or could have an effect on the discharge of pollutants or stormwater runoff volume or velocity, the department may issue a stop work order with respect to such work.
 
-*§ 24-424 Annual safety report concerning gas infrastructure.* ::
+b. Such order shall be posted at the site and served personally on or mailed to the owner or developer or to the person executing the work at the site or the agent of any of them. When there is an immediate danger of a release of pollutants a verbal order to stop work may be given followed promptly by a written order in accordance with this subdivision.
 
+c. Upon issuance of a stop work order, work specified in the order shall immediately cease, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site.
 
-a. As used in this section, the terms "gas corporation" and "gas plant" shall have the meanings ascribed to such terms in section 2 of the public service law.
+d. No person shall with knowledge or notice of a stop work order allow, authorize, promote, continue or cause to be continued any work covered by the stop work order, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site.
 
-b. Each gas corporation that owns, operates or manages a gas plant located in whole or in part in the city shall by July first in each year, beginning in 2017, submit to an agency or office designated by the mayor a report on gas asset conditions consistent with the reporting requirements of section 255.951 of title 16 of the New York codes, rules and regulations and 49 CFR § 191.11, including the operator's mains and services inventory by material, diameter, vintage and leaks; a summary of major planned infrastructure projects in the city; the gas corporation's investment priorities in the next year; and such other information as such designated agency or office may require by rule.
+e. Upon application in accordance with the rules of the department, the commissioner shall rescind the stop work order where the commissioner finds (i) that the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted or, (ii) that the stop work order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such stop work order.
 
-c. Each gas corporation will meet annually with the head of such designated agency or office, the speaker of the council and the mayor, or designees of such persons, to discuss the information set forth in subdivision b of this section and related gas safety issues, including planned infrastructure in the city, leak reporting and surveillance activities, the operator's integrity management program and the general condition of the operator's gas assets.
+f. It shall be unlawful to tamper with, remove or deface a written posted stop work order from the location where it was affixed unless and until such stop work order has been rescinded by the commissioner. The owner or other person in control of the location shall ensure that the stop work order remains posted until rescinded by the commissioner.
 
 
 
@@ -6030,14 +6319,248 @@ c. Each gas corporation will meet annually with the head of such designated agen
 
 
 
-*§ 24-425 Identification of gas safety risk factors.* ::
+*§ 24-559 Post-construction stormwater management facilities.* ::
 
 
-a. An agency or office designated by the mayor shall seek to identify risk factors that correlate to or otherwise indicate a violation of any law or rule that (i) relates to the delivery by pipe, or usage of, gas in residential or commercial buildings and (ii) poses a hazard to health and safety or a risk of damage to property. Such risk factors may include, but need not be limited to, unauthorized gas usage; unusual gas usage for a building based on its historic usage or usage for buildings of similar size, type or occupancy; abandoned structures; or structures condemned by the city.
+Where post-construction stormwater management facilities are required by the department, the department shall not accept the SWPPP or issue a stormwater construction permit for the project until the execution and recording of a maintenance easement, which shall be binding on all subsequent owners of the real property served by such post-construction stormwater management facility, except where the corporation counsel has determined that such a maintenance easement is not necessary due to the property's ownership or use by a public agency or instrumentality. For post-construction stormwater management facilities subject to such an exception, when there is a subsequent conveyance or cessation of public use, the corporation counsel may require the execution and recording of a maintenance easement at that time. The easement shall provide for access to post-construction stormwater management facilities at reasonable times in accordance with law for periodic inspection by the department or qualified professionals authorized by the department to ensure that such facilities are maintained in good working condition to meet the applicable design standards. The easement shall be recorded by the grantor in the office of the city register or, if applicable, the county clerk after approval by the corporation counsel.
 
-b. In developing such risk factors, such designated agency or office shall (i) seek the cooperation of each gas corporation that owns, operates or manages a gas plant located in whole or in part in the city and with each organized labor association that contracts with such corporations and (ii) share with each such corporation appropriate information necessary to minimize impacts of such risk factors. The terms "gas corporation" and "gas plant" as used in this section shall have the meanings ascribed to such terms in section 2 of the public service law.
 
-c. By December first 2017, and every third year thereafter, such designated office or agency shall submit to the mayor and the speaker of the council, and make publicly available online, a report on how the city has made use of such risk factors in targeting enforcement of laws and rules relating to the delivery by pipe or usage of gas in residential and commercial buildings and the efficacy of such targeted enforcement.
+
+
+
+
+
+
+*§ 24-560 Stormwater maintenance permit.* ::
+
+
+It is the duty of all owners of real property, jointly and severally, served by a post-construction stormwater management facility required by a SWPPP accepted by the department pursuant to this subchapter to provide for the inspection and maintenance of such facility in accordance with this section and the rules of the department. The department shall maintain a record of all such post-construction stormwater management facilities and the property served by each such facility. As soon as practicable after final stabilization of a site, the owner of property served by a post-construction stormwater management facility shall submit to the department a copy of the notice of termination and an application for a stormwater maintenance permit for such facility. Such owner shall provide for the renewal of such permit every 5 years in accordance with the rules of the department. The department shall issue or renew such permit upon receipt of a satisfactory inspection report certified by a qualified professional retained by the owner indicating that the facility has been installed and/or is operated and maintained in good working condition to meet applicable design standards and the rules of the department. A facility shall be maintained in good working condition throughout its useful life and replaced in accordance with the rules of the department.
+
+
+
+
+
+
+
+**Subchapter 3: Industrial Stormwater Sources**
+
+
+
+*§ 24-570 Applicability.* ::
+
+
+This subchapter applies only to portions of the city within the MS4 area.
+
+
+
+
+
+
+
+
+*§ 24-571 Authority to enter and inspect.* ::
+
+
+a. The department shall have the authority to enter and inspect any premises or facility, including, but not limited to, its equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection. Such entry and inspection shall be conducted during normal operating hours for purposes of determining whether such premises or facility generates significant contributions of pollutants of concern to an impaired water.
+
+b. The department shall have the authority to enter and inspect industrial stormwater sources including, but not limited to, their equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, and shall, at a minimum, conduct inspections of such sources in accordance with the schedule and requirements for such inspections set forth in the NYC MS4 Permit. Such entry and inspection shall be conducted during normal operating hours for purposes of determining compliance with this subchapter and any rule promulgated pursuant thereto. The department may enter and inspect such premises and facilities for purposes including, but not limited to, the following:
+
+   (1) To conduct a visual observation for evidence of unauthorized discharges, illicit connections, and potential discharges of pollutants to stormwater;
+
+   (2) To evaluate the facility's compliance with applicable MSGP requirements; and
+
+   (3) To evaluate the facility's compliance with any other relevant local stormwater requirements.
+
+
+
+
+
+
+
+
+*§ 24-572 Compliance with the MSGP.* ::
+
+
+All industrial stormwater sources must comply with all applicable conditions of the MSGP.
+
+
+
+
+
+
+
+
+*§ 24-573 Recordkeeping.* ::
+
+
+a. Industrial stormwater sources shall, upon the department's request or pursuant to the rules of the department, submit to the department any information or records necessary to determine compliance with the MSGP and this subchapter and any rule promulgated pursuant thereto. Such records may include, but need not be limited to, stormwater pollution prevention plans and reports of monitoring activities and results required pursuant to the MSGP.
+
+b. The department may require such records to be maintained and provided to the department electronically.
+
+
+
+
+
+
+
+
+
+**Subchapter 4: Enforcement**
+
+
+
+*§ 24-580 General.* ::
+
+
+Notwithstanding any other provision of law, the commissioner, and the environmental control board within the office of administrative trials and hearings, shall enforce the provisions of this chapter and the rules promulgated pursuant thereto.
+
+
+
+
+
+
+
+
+*§ 24-581 Orders.* ::
+
+
+The commissioner, and the environmental control board within the office of administrative trials and hearings, shall have the power to issue such orders as may be provided for in this chapter and the rules promulgated pursuant thereto and such additional orders as may be necessary for the enforcement of such provisions. Such orders may include, but are not limited to, orders requiring (i) inspection by a qualified inspector or qualified professional, (ii) maintenance, repair or replacement of post-construction stormwater management facilities, (iii) compliance with the MSGP through actions including, but not limited to, monitoring, analysis, and reporting or (iv) the installation, implementation and maintenance of SMPs. The department shall promulgate rules governing the appeal of such orders where they are issued by department employees or authorized inspection agents.
+
+
+
+
+
+
+
+
+*§ 24-582 Commissioner's cease and desist orders.* ::
+
+
+a. Whenever the commissioner has reasonable cause to believe that (i) a condition exists in violation of any of the provisions of sections 24-559, 24-560 or 24-572 or in violation of any order or rule issued by the board or commissioner pursuant to such provisions or to section 24-581 in furtherance of such provisions and (ii) that such condition creates or may create an imminent danger to the sewer system or to the public health or to the life or safety of persons, the commissioner may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation in which the condition is located to take such action as may be necessary to halt or prevent such condition.
+
+b. If service of the order cannot be made personally because such person cannot be located at such time then service may be made by delivering a copy to a person of suitable age and discretion at the residence or place of business of the person sought to be served. If service cannot be made personally or by such delivery to a person of suitable age and discretion because of inability to locate or to obtain the name or address of such person at such time, service may be made by conspicuously posting a copy of such order upon the property to which it relates and mailing the order to the most recent residential or business address of record of the person sought to be served. The posting and mailing of such order shall be sufficient notice of such order to all persons having a duty in relation thereto under the provisions of this subdivision.
+
+c. If the order is not complied with or so far complied with as such commissioner may regard as reasonable, within the time specified therein, such commissioner may act to halt or prevent such condition by:
+
+   i. sealing, blocking or otherwise inactivating any equipment, facility, or device;
+
+   ii. sealing, blocking or otherwise inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or
+
+   iii. any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property.
+
+d. Any person affected by such an order may make written application to the environmental control board within the office of administrative trials and hearings for a hearing. Such hearing shall be provided, pursuant to the rules of such board within such office, and shall be held within two business days after the receipt of such application. The board may suspend, modify or terminate such order.
+
+
+
+
+
+
+
+
+*§ 24-583 Environmental control board cease and desist orders.* ::
+
+
+a. In the case of any continued or knowing violation of the provisions of section 24-559, 24-560 or 24-572 or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant to such provisions or section 24-581 in furtherance of such provisions or where the board finds that the violation of any of such provisions or conditions presents or may present a danger to the environment or threatens to interfere with the operation of the sewer system, the board, after notice and the opportunity for a hearing in accordance with the rules of such board within such office, may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation to cease and desist from any activity or process which causes or is conducted so as to cause such violation within the time specified in such order.
+
+b. Such order may provide that if the order is not complied with or so far complied with as the commissioner may regard as reasonable within the time specified therein, the commissioner may take such action as shall be specified therein including but not limited to:
+
+   i. sealing, blocking or inactivating any equipment, facility or device;
+
+   ii. sealing, blocking or inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or
+
+   iii. any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property.
+
+
+
+
+
+
+
+
+*§ 24-584 Action by corporation counsel.* ::
+
+
+If the respondent fails to comply with any order issued by the environmental control board within the office of administrative trials and hearings, or the commissioner or the board or the commissioner otherwise deems it necessary, the corporation counsel, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order issued by the board or commissioner.
+
+
+
+
+
+
+
+
+*§ 24-585 Civil penalties.* ::
+
+
+Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant thereto shall be liable for a civil penalty not exceeding ten thousand dollars for each violation. In the case of a continuing violation each day's continuance shall be a separate and distinct offense. The office of administrative trials and hearings, pursuant to section 1049-a of the charter, shall have the power to impose such civil penalties. A proceeding to impose such penalties shall be commenced by the service of a notice of violation returnable to such office. Such office, after a hearing as provided in accordance with applicable law and rules, shall have the power to enforce its final decisions and orders imposing such civil penalties as if they were money judgments pursuant to subdivision d of section 1049-a of the charter. A civil penalty imposed by such office may also be collected in an action brought in the name of the city in any court of competent jurisdiction. The environmental control board within the office of administrative trials and hearings, in its discretion, may, within the limits set forth in this section, establish a schedule of civil penalties indicating the minimum and maximum penalty for each separate offense or may use a schedule adopted by the department.
+
+
+
+
+
+
+
+
+*§ 24-586 Criminal penalties.* ::
+
+
+In addition to the civil penalties set forth in section 24-585, any person who knowingly violates or fails to comply with any provision of this chapter or any order or rule issued by the commissioner, or the environmental control board within the office of administrative trials and hearings, pursuant thereto shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than two hundred fifty nor more than ten thousand dollars, or by imprisonment not exceeding thirty days, or both for each offense. In the case of a continuing violation each day's continuance shall be a separate and distinct offense. In addition to its application to any other person, the fine provided for in this paragraph shall be deemed a special fine for a corporation within the meaning of section 80.10 of the penal law of the state of New York.
+
+
+
+
+
+
+
+
+*§ 24-587 Liability to the city.* ::
+
+
+Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued pursuant thereto shall be liable to the city for any expense, including but not limited to costs for response, remediation and emergency services or any other loss or damage suffered by the city by reason of such violation.
+
+
+
+
+
+
+
+
+*§ 24-588 Service.* ::
+
+
+Unless otherwise provided in this chapter, service of any notice or order required by this subchapter may be made either personally or by mail.
+
+
+
+
+
+
+
+
+*§ 24-589 Issuance.* ::
+
+
+Officers and employees of the department and of other city agencies designated by the commissioner shall have the power to issue summonses, appearance tickets, orders and notices of violation based upon violations of this chapter or rules of the department promulgated hereunder.
+
+
+
+
+
+
+
+
+*§ 24-590 Delegation to authorized inspection agents.* ::
+
+
+a. The commissioner shall have the authority to delegate to authorized inspection agents the authority to:
+
+   (1) Carry out inspections pursuant to this chapter or any rule promulgated pursuant thereto;
+
+   (2) Issue orders pursuant to section 24-581, or issue orders pursuant to subdivision a of section 24-524 when deemed necessary and appropriate in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter;
+
+   (3) Issue notices of violation for civil penalties pursuant to section 24-585, or notices of violation pursuant to subdivision f of section 24-524 when the basis for such notice of violation is observed in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter.
+
+b. Authorized inspection agents shall perform their duties in accordance with this chapter and rules of the department promulgated pursuant thereto, which rules shall set forth the categories of violations for which such notices may be issued by such agents, the categories of orders that may be issued by such agents and the circumstances in which such agents shall obtain department approval or refer matters to the department for further action. In addition, the department shall, through standards imposed by means of procurement or rulemaking, ensure that such agents are subject to appropriate eligibility criteria, training requirements and grounds for revoking inspection and enforcement authority.
 
 
 
@@ -7234,529 +7757,6 @@ a. By no later than one year after the effective date of the local law that adde
 b. By no later than six months after the end of each fiscal year, beginning with the first fiscal year that commences more than one year after the effective date of the local law that added this section, the department of environmental protection shall submit to the mayor and the speaker of the council a report on progress in implementing the plan required by subdivision a of this section during the prior fiscal year. Each such report shall include, but not be limited to, a description of any changes to such plan, a description of any changes in funds committed by or on behalf of the city in furtherance of such plan and a description of all funds expended by or on behalf of the city in furtherance of such plan.
 
 c.  This section expires 15 years after the effective date of the local law that added this section.
-
-
-
-
-
-
-Chapter 5-A: Water Pollution Control
---------------------------------------------------
-
-
-
-
-**Subchapter 1: General**
-
-
-
-*§ 24-540 Policy.* ::
-
-
-Land development and associated increases in site impervious cover increase stormwater runoff causing flooding, soil erosion, and sediment transport and deposition in waterways. A high percentage of impervious area correlates with a higher rate of stormwater runoff, which generates greater pollutant loadings to the city’s separate stormwater and combined sewer systems. Pollutants found in urban runoff include, but are not limited to, nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs).
-
-Clearing and grading during construction may increase soil erosion and add to the loss of native vegetation necessary for terrestrial and aquatic habitats. Improperly designed and constructed stormwater management practices increase the velocity of stormwater runoff thereby increasing erosion and sedimentation. Impervious surfaces allow less water to percolate into the soil, thereby decreasing groundwater recharge and stream baseflow. Stormwater runoff, soil erosion and nonpoint source pollution can be controlled and minimized through the regulation of stormwater runoff from land development activities. Regulation of land development activities by means of performance standards governing long-term stormwater management and site design produces development compatible with the natural functions of a particular site and thereby mitigates the adverse effects of erosion and sedimentation from development.
-
-Material handling and storage, equipment maintenance and cleaning, and other activities at industrial facilities are often exposed to stormwater, which can pick up pollutants and transport them to surface waters directly or via a storm sewer. Appropriate stormwater management at industrial facilities can reduce these impacts.
-
-This chapter establishes stormwater management controls meeting the requirements of state and federal law in areas of the city where stormwater does not pass through wastewater treatment plants before it enters the waters of the state. In these areas water borne pollutants in stormwater runoff are more likely to enter and have an adverse impact on the waters of the state.
-
-The purpose and intent of this chapter is to (i) reduce pollutants discharged in stormwater runoff from construction activities in such areas to the maximum extent practicable through appropriate erosion and sediment controls; (ii) minimize, to the maximum extent practicable, increases in stormwater runoff volume and velocity, and pollutant loading in stormwater runoff, from development sites in such areas; (iii) ensure the proper maintenance of post-construction stormwater management practices; and (iv) ensure compliance by certain industrial facilities in such areas with applicable requirements to manage stormwater runoff in order to reduce pollutants in stormwater from industrial activities to the maximum extent practicable.
-
-
-
-
-
-
-
-
-*§ 24-541 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Authorized inspection agent. The term “authorized inspection agent” means an individual who has been authorized pursuant to a contract entered into by the department to conduct inspections on behalf of the department.
-
-Commissioner. The term “commissioner” means the commissioner of environmental protection or the authorized representative of such commissioner.
-
-Covered development project. The term “covered development project” means development activity that involves or results in an amount of soil disturbance within the MS4 area greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section 24-553. Such term includes development activity that is part of a larger common plan of development or sale involving or resulting in soil disturbance within the MS4 area greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section 24-553. Such term shall include all development activity within the MS4 area that requires a stormwater pollution prevention plan pursuant to the NYSDEC construction general permit.
-
-Department. The term “department” means the department of environmental protection.
-
-Detention system. The term “detention system” means a system that slows and temporarily holds storm water runoff so that it can be released at a controlled rate.
-
-Developer. The term “developer” means a person that owns or leases land on which development activity that is part of a covered development project is occurring, and/or a person that has operational control over the development activity’s construction plans and specifications, including the ability to make modifications to the construction plans and specifications.
-
-Development activity. The term “development activity” means soil disturbance on a site including but not limited to land contour work, clearing, grading, excavation, demolition, construction, reconstruction, new development, redevelopment, creation or replacement of impervious surface, stockpiling activities or placement of fill. Clearing activities include but are not limited to the cutting and skidding of trees, stump removal and/or brush root removal. Such term does not include routine maintenance (such as road resurfacing) that is performed to maintain the original line and grade, hydraulic capacity, or original purpose of a facility.
-
-Erosion and sediment controls. The term “erosion and sediment controls” means stormwater management practices designed to minimize the discharge of pollutants during development activities including, but not limited to, structural erosion and sediment control practices, construction sequencing to minimize exposed soils, soil stabilization, dewatering control measures, and other pollution prevention and good housekeeping practices appropriate for construction sites.
-
-Impaired water. The term “impaired water” includes (i) a water body for which NYSDEC has established a total maximum daily load (“TMDL”), (ii) a water body for which NYSDEC expects that existing controls such as permits will resolve the impairment, and (iii) a water body identified by NYSDEC as needing a TMDL. A list of impaired waters is issued by NYSDEC pursuant to section 303(d) of the federal water pollution control act, chapter 26 of title 33 of the United States code.
-
-Industrial stormwater source. The term “industrial stormwater source” means any premises or facility that is subject to the MSGP.
-
-Larger common plan of development or sale. The term “larger common plan of development or sale” means a contiguous area where multiple separate and distinct development activities are occurring, or will occur, under one plan. The term “plan” in “larger common plan of development or sale” is broadly defined as any announcement or piece of documentation including a sign, public notice of hearing, sales pitch, advertisement, drawing, permit application, uniform land use review procedure (ULURP) application, state environmental quality review act (SEQRA) or city environmental quality review (CEQR) application, application for a special permit, authorization, variance or certification pursuant to the zoning resolution, subdivision application, computer design, or physical demarcation (including boundary signs, lot stakes, and surveyor markings) indicating that development activities may occur on a specific plot. Such term does not include area-wide rezonings or projects discussed in general planning documents. For discrete development activities that are located within a larger common plan of development or sale that are at least 1/4 mile apart, each activity may be treated as a separate plan of development or sale provided that any interconnecting road, pipeline or utility project that is part of the same “common plan” is not concurrently being disturbed.
-
-Multi sector general permit or “MSGP.” The term “multi sector general permit” or “MSGP” means the New York state department of environmental conservation SPDES multi sector general permit for stormwater discharges associated with industrial activity, Permit No. GP-0-12-001 or its successor.
-
-MS4 SWPPP acceptance form. The term “MS4 SWPPP acceptance form” means the form developed by NYSDEC to be used to indicate acceptance of a SWPPP by a municipality.
-
-MS4 area. The term “MS4 area” means those portions of the city of New York served by separate storm sewers and separate stormwater outfalls owned or operated by the city of New York and areas in which municipal operations and facilities drain by overland flow to waters of the state, as determined by the department and described on maps of the MS4 area set forth in the rules of the department.
-
-Municipal operations and facilities. The term “municipal operations and facilities” means any operation or facility serving a New York city governmental purpose and over which the city of New York has operational control.
-
-New development. The term “new development” means any construction or disturbance of a parcel of land that is currently undisturbed or unaltered by human activities and in a natural state.
-
-Notice of intent or NOI. The term “notice of intent” or “NOI” means the document submitted to NYSDEC to obtain coverage under the NYSDEC construction general permit.
-
-Notice of termination or NOT. The term “notice of termination” or “NOT” means the document submitted to NYSDEC to terminate coverage under the NYSDEC construction general permit.
-
-NYC MS4 Permit. The term “NYC MS4 permit” means the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York city, SPDES No. NY-0287890 or its successor.
-
-NYSDEC. The term “NYSDEC” means the New York state department of environmental conservation.
-
-NYSDEC construction general permit. The term “NYSDEC construction general permit” means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from construction activities, Permit No. GP-0-15-002 or its successor.
-
-NYSDEC MS4 general permit. The term “NYSDEC MS4 general permit” means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from municipal separate storm sewer systems (MS4s), Permit No. GP-0-15-003 or its successor.
-
-Owner. The term “owner” means a person having legal title to premises, a mortgagee or vendee in possession, a trustee in bankruptcy, a receiver, or any other person having legal ownership or control of premises.
-
-Person. The term “person” means an individual, corporation, partnership, limited liability company or other legal entity.
-
-Pollutant. The term “pollutant” means dredged soil, filter backwash, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand and industrial, municipal, and agricultural waste discharged into water; which may cause or might reasonably be expected to cause pollution of the waters of the state in contravention of the standards or guidance values adopted as provided in subdivision a of section 750-1.2 of title 6 of the New York codes, rules and regulations.
-
-Pollutants of concern. The term “pollutants of concern” means pollutants that might reasonably be expected to be present in stormwater in quantities that may cause or contribute to an exceedance of water quality standards. These pollutants include but are not limited to nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs).
-
-Post-construction stormwater management facility or post-construction facility. The term “post-construction stormwater management facility” or “post-construction facility” means a stormwater management practice serving a developed site and consisting of technology or strategies designed to reduce pollutants in stormwater runoff or reduce runoff rate or volume from the developed site through infiltration, retention, detention, or other method or treatment. Such term includes, but is not limited to, detention systems and retention systems.
-
-Premises. The term “premises” means any building, lot, parcel of land, or portion of land, whether improved or unimproved, including adjacent sidewalks and parking strips.
-
-Qualified inspector. The term “qualified inspector” means a person who is knowledgeable in the principles and practices of erosion and sediment control.
-
-Qualified professional. The term “qualified professional” means a person who is knowledgeable in the principles and practices of stormwater management and treatment.
-
-Redevelopment. The term “redevelopment” means reconstruction of or modification to any existing previously developed land such as residential, commercial, industrial, institutional or road/highway, which involves soil disturbance. Redevelopment is distinguished from new development in that new development refers to construction on land where there had not been previous construction. Redevelopment specifically applies to constructed areas with impervious surface or urban fill.
-
-Retention system. The term “retention system” means a system that captures storm water runoff on site with no release.
-
-Separate stormwater outfall. The term “separate stormwater outfall” means a point where stormwater from a storm sewer or other source of concentrated stormwater flow, owned or operated by the city of New York, is discharged into a water of the state or to a separate storm sewer system that requires coverage under the NYSDEC MS4 general permit.
-
-Storm sewer. The term “storm sewer” means a sewer, the primary purpose of which is to carry stormwater.
-
-Stormwater or stormwater runoff. The term “stormwater” or “stormwater runoff” means runoff that is generated when precipitation from rain events or snowmelt flows overland and does not percolate into the ground.
-
-Stormwater construction permit. The term “stormwater construction permit” means a permit issued by the department authorizing development activity on land on which there is a covered development project in accordance with an approved stormwater pollution prevention plan (SWPPP).
-
-Stormwater maintenance permit. The term “stormwater maintenance permit” means a permit issued by the department where maintenance of post-construction stormwater management facilities by owners of real property is required.
-
-Stormwater management practices or SMPs. The term “stormwater management practices” or “SMPs” means measures to prevent flood damage and/or to prevent or reduce point source or nonpoint source pollution inputs to stormwater runoff and water bodies. Such term includes erosion and sediment controls, post-construction stormwater management facilities, and practices to manage stormwater runoff from industrial activities.
-
-Stormwater pollution prevention plan or SWPPP. The term “stormwater pollution prevention plan” or “SWPPP” means (i) when used in connection with a covered development project, a plan for controlling stormwater runoff and pollutants during construction and, where required by department rules, after construction is completed, or (ii) when used in connection with an industrial stormwater source, a plan, which is required by the MSGP, for controlling stormwater runoff and pollutants.
-
-Waters of the state. The term “waters of the state” means lakes, bays, sounds, ponds, impounding reservoirs, springs, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Atlantic ocean within the territorial seas of the state of New York and all other bodies of surface water, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters that do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction.
-
-
-
-
-
-
-
-
-*§ 24-542 Entry and inspection.* ::
-
-
-An authorized representative of the department may enter on any property, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, to inspect for compliance with this chapter and rules of the department promulgated hereunder.
-
-
-
-
-
-
-
-
-
-**Subchapter 2: Construction and Post-Construction Stormwater Controls**
-
-
-
-*§ 24-550 General.* ::
-
-
-This subchapter governs certain land development activities within the MS4 area.
-
-
-
-
-
-
-
-
-*§ 24-551 Stormwater construction permit required.* ::
-
-
-It shall be unlawful to commence or engage in any development activity on the site of a covered development project unless and until a stormwater construction permit has been issued by the department.
-
-
-
-
-
-
-
-
-*§ 24-552 Review of stormwater pollution prevention plan or SWPPP.* ::
-
-
-Before the commencement of development activity on the site of a covered development project the developer must submit to the department for review in accordance with rules of the department a stormwater pollution prevention plan, certified by a qualified professional, and for projects covered by the NYSDEC construction general permit a copy of the NOI. The department or a qualified professional designated by the department shall review the SWPPP within time periods to be specified in the rules of the department. If the department accepts the SWPPP the department shall issue a stormwater construction permit to the developer and, for projects subject to the NYSDEC construction general permit, shall issue an MS4 SWPPP acceptance form for filing with NYSDEC. If the department rejects the SWPPP the department shall send notice of such rejection to the developer indicating the specific deficiencies that caused the department to reject the SWPPP. The department may require that the SWPPP or other documents be submitted electronically.
-
-
-
-
-
-
-
-
-*§ 24-553 Rules.* ::
-
-
-The department shall promulgate rules to carry out the provisions of this subchapter in accordance with the NYC MS4 permit and the NYSDEC construction general permit, including but not limited to rules that:
-
-a. Set forth the content of SWPPPs, consistent with the NYSDEC construction general permit, including identifying those development projects requiring only erosion and sediment controls during construction and those development projects requiring erosion and sediment controls and post-construction stormwater management facilities.
-
-b. Establish design standards for erosion and sediment controls and post-construction stormwater management facilities which shall not be less stringent than the standards set forth or incorporated by reference in the NYSDEC construction general permit.
-
-c. Establish exemptions from permit requirements, consistent with the NYC MS4 permit and the NYSDEC construction general permit.
-
-d. After completion of the lot size soil disturbance study required by the NYC MS4 permit, provide for the regulation of development activity of less than one acre, based either on total disturbance of soil or on amount of impervious surface created or replaced, where an appropriate reduction in the threshold is necessary in accordance with the NYC MS4 permit.
-
-e. Establish procedures and fees for the review of SWPPPs and the issuance and renewal of permits required by this subchapter.
-
-f. Establish training, experience and/or education requirements for qualified professionals and qualified inspectors, which shall not be less stringent than those required by the NYSDEC construction general permit.
-
-g. Establish record keeping, inspection and reporting requirements for applicants and permittees to monitor compliance with this subchapter and approved SWPPPs.
-
-h. Establish requirements for compliance certifications by contractors to be included with SWPPPs.
-
-i. Establish standards for the maintenance, inspection, repair and replacement of required erosion and sediment controls and post-construction stormwater management facilities.
-
-
-
-
-
-
-
-
-*§ 24-554 SWPPP to be retained on site.* ::
-
-
-A copy of the SWPPP shall be retained at the site of the project from the date of initiation of development activities to the date notice of termination is submitted to NYSDEC and shall be made available to officers and employees of the department and/or qualified inspectors authorized by the department in accordance with the rules of the department.
-
-
-
-
-
-
-
-
-*§ 24-555 Recordkeeping.* ::
-
-
-A developer shall keep and maintain records of all inspections and tests required to be performed pursuant to this subchapter and rules of the department, as follows: records of inspections and tests performed during construction must be maintained throughout construction and for 5 years after completion of construction; and records of post-construction inspections and tests must be maintained for 5 years after performance of such inspections or tests. Such records and tests shall be made available to the department in accordance with the rules of the department. The department may require such records to be maintained and provided to the department electronically.
-
-
-
-
-
-
-
-
-*§ 24-556 Compliance with terms and conditions of SWPPP required.* ::
-
-
-Every stormwater construction permit issued by the department shall include the condition that the applicant and all contractors and subcontractors performing work at the site will comply with this subchapter, rules of the department and the terms and conditions of the SWPPP. Any changes in the SWPPP are subject to the prior approval of the department in accordance with rules of the department.
-
-
-
-
-
-
-
-
-*§ 24-557 Suspension or revocation of permit.* ::
-
-
-The department may suspend or revoke a stormwater construction permit, after notice and the opportunity for a hearing in accordance with the rules of the department, when the department or NYSDEC finds that there is substantial non-compliance with this subchapter, the rules of the department, the NYSDEC construction general permit or the SWPPP, including any major change to erosion or sediment controls or any change in a post-construction stormwater management facility during construction that has or could have an effect on the discharge of pollutants, or when a permit was issued in error and conditions are such that a permit should not have been issued. When a permit is revoked or suspended all development activity at the project site shall cease and shall not be resumed until the issuance of a new permit or until such suspension is terminated except that the department may allow performance of work that is necessary to ensure public safety or to stabilize the construction site.
-
-
-
-
-
-
-
-
-*§ 24-558 Stop work order.* ::
-
-
-a. Whenever the department finds that any development activity is being executed in violation of this subchapter, the SWPPP or rules of the department to the extent that work being performed at the site has or could have an effect on the discharge of pollutants or stormwater runoff volume or velocity, the department may issue a stop work order with respect to such work.
-
-b. Such order shall be posted at the site and served personally on or mailed to the owner or developer or to the person executing the work at the site or the agent of any of them. When there is an immediate danger of a release of pollutants a verbal order to stop work may be given followed promptly by a written order in accordance with this subdivision.
-
-c. Upon issuance of a stop work order, work specified in the order shall immediately cease, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site.
-
-d. No person shall with knowledge or notice of a stop work order allow, authorize, promote, continue or cause to be continued any work covered by the stop work order, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site.
-
-e. Upon application in accordance with the rules of the department, the commissioner shall rescind the stop work order where the commissioner finds (i) that the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted or, (ii) that the stop work order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such stop work order.
-
-f. It shall be unlawful to tamper with, remove or deface a written posted stop work order from the location where it was affixed unless and until such stop work order has been rescinded by the commissioner. The owner or other person in control of the location shall ensure that the stop work order remains posted until rescinded by the commissioner.
-
-
-
-
-
-
-
-
-*§ 24-559 Post-construction stormwater management facilities.* ::
-
-
-Where post-construction stormwater management facilities are required by the department, the department shall not accept the SWPPP or issue a stormwater construction permit for the project until the execution and recording of a maintenance easement, which shall be binding on all subsequent owners of the real property served by such post-construction stormwater management facility, except where the corporation counsel has determined that such a maintenance easement is not necessary due to the property's ownership or use by a public agency or instrumentality. For post-construction stormwater management facilities subject to such an exception, when there is a subsequent conveyance or cessation of public use, the corporation counsel may require the execution and recording of a maintenance easement at that time. The easement shall provide for access to post-construction stormwater management facilities at reasonable times in accordance with law for periodic inspection by the department or qualified professionals authorized by the department to ensure that such facilities are maintained in good working condition to meet the applicable design standards. The easement shall be recorded by the grantor in the office of the city register or, if applicable, the county clerk after approval by the corporation counsel.
-
-
-
-
-
-
-
-
-*§ 24-560 Stormwater maintenance permit.* ::
-
-
-It is the duty of all owners of real property, jointly and severally, served by a post-construction stormwater management facility required by a SWPPP accepted by the department pursuant to this subchapter to provide for the inspection and maintenance of such facility in accordance with this section and the rules of the department. The department shall maintain a record of all such post-construction stormwater management facilities and the property served by each such facility. As soon as practicable after final stabilization of a site, the owner of property served by a post-construction stormwater management facility shall submit to the department a copy of the notice of termination and an application for a stormwater maintenance permit for such facility. Such owner shall provide for the renewal of such permit every 5 years in accordance with the rules of the department. The department shall issue or renew such permit upon receipt of a satisfactory inspection report certified by a qualified professional retained by the owner indicating that the facility has been installed and/or is operated and maintained in good working condition to meet applicable design standards and the rules of the department. A facility shall be maintained in good working condition throughout its useful life and replaced in accordance with the rules of the department.
-
-
-
-
-
-
-
-**Subchapter 3: Industrial Stormwater Sources**
-
-
-
-*§ 24-570 Applicability.* ::
-
-
-This subchapter applies only to portions of the city within the MS4 area.
-
-
-
-
-
-
-
-
-*§ 24-571 Authority to enter and inspect.* ::
-
-
-a. The department shall have the authority to enter and inspect any premises or facility, including, but not limited to, its equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection. Such entry and inspection shall be conducted during normal operating hours for purposes of determining whether such premises or facility generates significant contributions of pollutants of concern to an impaired water.
-
-b. The department shall have the authority to enter and inspect industrial stormwater sources including, but not limited to, their equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, and shall, at a minimum, conduct inspections of such sources in accordance with the schedule and requirements for such inspections set forth in the NYC MS4 Permit. Such entry and inspection shall be conducted during normal operating hours for purposes of determining compliance with this subchapter and any rule promulgated pursuant thereto. The department may enter and inspect such premises and facilities for purposes including, but not limited to, the following:
-
-   (1) To conduct a visual observation for evidence of unauthorized discharges, illicit connections, and potential discharges of pollutants to stormwater;
-
-   (2) To evaluate the facility's compliance with applicable MSGP requirements; and
-
-   (3) To evaluate the facility's compliance with any other relevant local stormwater requirements.
-
-
-
-
-
-
-
-
-*§ 24-572 Compliance with the MSGP.* ::
-
-
-All industrial stormwater sources must comply with all applicable conditions of the MSGP.
-
-
-
-
-
-
-
-
-*§ 24-573 Recordkeeping.* ::
-
-
-a. Industrial stormwater sources shall, upon the department's request or pursuant to the rules of the department, submit to the department any information or records necessary to determine compliance with the MSGP and this subchapter and any rule promulgated pursuant thereto. Such records may include, but need not be limited to, stormwater pollution prevention plans and reports of monitoring activities and results required pursuant to the MSGP.
-
-b. The department may require such records to be maintained and provided to the department electronically.
-
-
-
-
-
-
-
-
-
-**Subchapter 4: Enforcement**
-
-
-
-*§ 24-580 General.* ::
-
-
-Notwithstanding any other provision of law, the commissioner, and the environmental control board within the office of administrative trials and hearings, shall enforce the provisions of this chapter and the rules promulgated pursuant thereto.
-
-
-
-
-
-
-
-
-*§ 24-581 Orders.* ::
-
-
-The commissioner, and the environmental control board within the office of administrative trials and hearings, shall have the power to issue such orders as may be provided for in this chapter and the rules promulgated pursuant thereto and such additional orders as may be necessary for the enforcement of such provisions. Such orders may include, but are not limited to, orders requiring (i) inspection by a qualified inspector or qualified professional, (ii) maintenance, repair or replacement of post-construction stormwater management facilities, (iii) compliance with the MSGP through actions including, but not limited to, monitoring, analysis, and reporting or (iv) the installation, implementation and maintenance of SMPs. The department shall promulgate rules governing the appeal of such orders where they are issued by department employees or authorized inspection agents.
-
-
-
-
-
-
-
-
-*§ 24-582 Commissioner's cease and desist orders.* ::
-
-
-a. Whenever the commissioner has reasonable cause to believe that (i) a condition exists in violation of any of the provisions of sections 24-559, 24-560 or 24-572 or in violation of any order or rule issued by the board or commissioner pursuant to such provisions or to section 24-581 in furtherance of such provisions and (ii) that such condition creates or may create an imminent danger to the sewer system or to the public health or to the life or safety of persons, the commissioner may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation in which the condition is located to take such action as may be necessary to halt or prevent such condition.
-
-b. If service of the order cannot be made personally because such person cannot be located at such time then service may be made by delivering a copy to a person of suitable age and discretion at the residence or place of business of the person sought to be served. If service cannot be made personally or by such delivery to a person of suitable age and discretion because of inability to locate or to obtain the name or address of such person at such time, service may be made by conspicuously posting a copy of such order upon the property to which it relates and mailing the order to the most recent residential or business address of record of the person sought to be served. The posting and mailing of such order shall be sufficient notice of such order to all persons having a duty in relation thereto under the provisions of this subdivision.
-
-c. If the order is not complied with or so far complied with as such commissioner may regard as reasonable, within the time specified therein, such commissioner may act to halt or prevent such condition by:
-
-   i. sealing, blocking or otherwise inactivating any equipment, facility, or device;
-
-   ii. sealing, blocking or otherwise inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or
-
-   iii. any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property.
-
-d. Any person affected by such an order may make written application to the environmental control board within the office of administrative trials and hearings for a hearing. Such hearing shall be provided, pursuant to the rules of such board within such office, and shall be held within two business days after the receipt of such application. The board may suspend, modify or terminate such order.
-
-
-
-
-
-
-
-
-*§ 24-583 Environmental control board cease and desist orders.* ::
-
-
-a. In the case of any continued or knowing violation of the provisions of section 24-559, 24-560 or 24-572 or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant to such provisions or section 24-581 in furtherance of such provisions or where the board finds that the violation of any of such provisions or conditions presents or may present a danger to the environment or threatens to interfere with the operation of the sewer system, the board, after notice and the opportunity for a hearing in accordance with the rules of such board within such office, may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation to cease and desist from any activity or process which causes or is conducted so as to cause such violation within the time specified in such order.
-
-b. Such order may provide that if the order is not complied with or so far complied with as the commissioner may regard as reasonable within the time specified therein, the commissioner may take such action as shall be specified therein including but not limited to:
-
-   i. sealing, blocking or inactivating any equipment, facility or device;
-
-   ii. sealing, blocking or inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or
-
-   iii. any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property.
-
-
-
-
-
-
-
-
-*§ 24-584 Action by corporation counsel.* ::
-
-
-If the respondent fails to comply with any order issued by the environmental control board within the office of administrative trials and hearings, or the commissioner or the board or the commissioner otherwise deems it necessary, the corporation counsel, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order issued by the board or commissioner.
-
-
-
-
-
-
-
-
-*§ 24-585 Civil penalties.* ::
-
-
-Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant thereto shall be liable for a civil penalty not exceeding ten thousand dollars for each violation. In the case of a continuing violation each day's continuance shall be a separate and distinct offense. The office of administrative trials and hearings, pursuant to section 1049-a of the charter, shall have the power to impose such civil penalties. A proceeding to impose such penalties shall be commenced by the service of a notice of violation returnable to such office. Such office, after a hearing as provided in accordance with applicable law and rules, shall have the power to enforce its final decisions and orders imposing such civil penalties as if they were money judgments pursuant to subdivision d of section 1049-a of the charter. A civil penalty imposed by such office may also be collected in an action brought in the name of the city in any court of competent jurisdiction. The environmental control board within the office of administrative trials and hearings, in its discretion, may, within the limits set forth in this section, establish a schedule of civil penalties indicating the minimum and maximum penalty for each separate offense or may use a schedule adopted by the department.
-
-
-
-
-
-
-
-
-*§ 24-586 Criminal penalties.* ::
-
-
-In addition to the civil penalties set forth in section 24-585, any person who knowingly violates or fails to comply with any provision of this chapter or any order or rule issued by the commissioner, or the environmental control board within the office of administrative trials and hearings, pursuant thereto shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than two hundred fifty nor more than ten thousand dollars, or by imprisonment not exceeding thirty days, or both for each offense. In the case of a continuing violation each day's continuance shall be a separate and distinct offense. In addition to its application to any other person, the fine provided for in this paragraph shall be deemed a special fine for a corporation within the meaning of section 80.10 of the penal law of the state of New York.
-
-
-
-
-
-
-
-
-*§ 24-587 Liability to the city.* ::
-
-
-Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued pursuant thereto shall be liable to the city for any expense, including but not limited to costs for response, remediation and emergency services or any other loss or damage suffered by the city by reason of such violation.
-
-
-
-
-
-
-
-
-*§ 24-588 Service.* ::
-
-
-Unless otherwise provided in this chapter, service of any notice or order required by this subchapter may be made either personally or by mail.
-
-
-
-
-
-
-
-
-*§ 24-589 Issuance.* ::
-
-
-Officers and employees of the department and of other city agencies designated by the commissioner shall have the power to issue summonses, appearance tickets, orders and notices of violation based upon violations of this chapter or rules of the department promulgated hereunder.
-
-
-
-
-
-
-
-
-*§ 24-590 Delegation to authorized inspection agents.* ::
-
-
-a. The commissioner shall have the authority to delegate to authorized inspection agents the authority to:
-
-   (1) Carry out inspections pursuant to this chapter or any rule promulgated pursuant thereto;
-
-   (2) Issue orders pursuant to section 24-581, or issue orders pursuant to subdivision a of section 24-524 when deemed necessary and appropriate in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter;
-
-   (3) Issue notices of violation for civil penalties pursuant to section 24-585, or notices of violation pursuant to subdivision f of section 24-524 when the basis for such notice of violation is observed in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter.
-
-b. Authorized inspection agents shall perform their duties in accordance with this chapter and rules of the department promulgated pursuant thereto, which rules shall set forth the categories of violations for which such notices may be issued by such agents, the categories of orders that may be issued by such agents and the circumstances in which such agents shall obtain department approval or refer matters to the department for further action. In addition, the department shall, through standards imposed by means of procurement or rulemaking, ensure that such agents are subject to appropriate eligibility criteria, training requirements and grounds for revoking inspection and enforcement authority.
 
 
 
