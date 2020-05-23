@@ -6118,59 +6118,6 @@ b. No later than September 1, 2019 and every two years thereafter through Septem
 
 
 
-Chapter 9: Photo Speed Violation Monitoring Program*
---------------------------------------------------
-
-
-
-*§ 19-901 Definitions. [Repealed]* ::
-
-
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
-
-
-
-
-
-
-*§ 19-902 Speeding in school speed zones prohibited. [Repealed]* ::
-
-
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
-
-
-
-
-
-
-*§ 19-903 Penalties. [Repealed]* ::
-
-
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
-
-
-
-
-
-
-*§ 19-904 System maintenance and operation. [Repealed]* ::
-
-
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
-
-
-
-
-
-
-*§ 19-905 Implementation. [Repealed]* ::
-
-
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
-
-
-
-
 Chapter 10: Special Hearing Procedures Applicable to Violations of Taxi and Limousine Commission Laws or Regulations
 --------------------------------------------------
 
@@ -6282,6 +6229,59 @@ b. In order for such administrative law judge or hearing officer to determine wh
 A respondent, or their representative, shall be considered to have made a timely appearance for a hearing provided they appear, whether in person or pursuant to subdivision (d) of section 19-1002, within 90 minutes of the scheduled time set forth in the summons. If a hearing does not begin within three hours of the timely appearance of both the respondent and the petitioner then the tribunal shall dismiss the notice of violation without prejudice.
 
 
+
+
+
+
+Chapter 9: Photo Speed Violation Monitoring Program*
+--------------------------------------------------
+
+
+
+*§ 19-901 Definitions. [Repealed]* ::
+
+
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
+
+
+
+
+
+*§ 19-902 Speeding in school speed zones prohibited. [Repealed]* ::
+
+
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
+
+
+
+
+
+*§ 19-903 Penalties. [Repealed]* ::
+
+
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
+
+
+
+
+
+*§ 19-904 System maintenance and operation. [Repealed]* ::
+
+
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
+
+
+
+
+
+*§ 19-905 Implementation. [Repealed]* ::
+
+
+(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
 
 
 
