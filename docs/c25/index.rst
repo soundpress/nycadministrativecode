@@ -1716,19 +1716,6 @@ b. It shall be unlawful for any person to conduct, without a permit from such ex
 
 
 
-Chapter 4: Foreign Trade Zones
---------------------------------------------------
-
-
-
-*§ 22-401 Foreign-trade zones.* ::
-
-
-The city is hereby authorized from time to time to make application to the board established by the act of congress, approved June eighteenth, nineteen hundred thirty-four, entitled "An act to provide for the establishment, operation and maintenance of foreign-trade zones in ports of entry of the United States, to expedite and encourage foreign commerce, and for other purposes," for a grant or grants or any extensions thereof to such city of the privilege of establishing, operating and maintaining a foreign-trade zone or zones or any extensions thereof in such city, pursuant to the provisions of such act, and if any such application be granted, to accept such grant or grants or any extensions thereof and to establish, operate and maintain any such zone or extension thereof in accordance with law. The authorization hereby granted shall extend to and cover any application heretofore made for any such purpose by the city pursuant to the act of congress hereinbefore described, and to any amendment of such an application.
-
-
-
-
 Chapter 3: Public Utility Service
 --------------------------------------------------
 
@@ -1782,220 +1769,15 @@ Revenues received from the operation of the public utility service shall be paid
 
 
 
-Chapter 6: Rebates of Charges For Energy
+Chapter 4: Foreign Trade Zones
 --------------------------------------------------
 
 
 
-*§ 22-601 Definitions.* ::
+*§ 22-401 Foreign-trade zones.* ::
 
 
-When used in this chapter the following terms shall have the following meanings:
-
-(a) "Commercial development pressure areas."
-
-   (1) The area delineated by a line beginning at the point of intersection of the Manhattan, Queens and Brooklyn borough lines and running easterly along the Queens borough line to the center line of Greenpoint Avenue; thence easterly along the center line of Greenpoint Avenue to the center line of Review Avenue; thence northerly along the center line of Review Avenue to the center line of Borden Avenue; thence easterly along the center line of Borden Avenue to the center line of Van Dam Street; thence northerly along the center line of Van Dam Street to the center line of Skillman Avenue; thence easterly along the center line of Skillman Avenue to the center line of Honeywell Street; thence northerly along the center line of Honeywell Street to the center line of Northern Boulevard; thence southwesterly along the center line of Northern Boulevard to the center line of Fortieth Road; thence westerly along the center line of Fortieth Road to the center line of Twenty-ninth Street; thence southerly along the center line of Twenty-ninth Street to the center line of Forty-first Avenue; thence westerly along the center line of Forty-first Avenue to the Queens borough line; thence southerly along the Queens borough line to the point of beginning; and
-
-   (2) The area delineated by a line beginning at the point of intersection of the Brooklyn borough line and the center line of Fulton Street and running southerly along the center line of Fulton Street to the center line of Prospect Street; thence easterly along the center line of Prospect Street to the center line of Adams Street; thence southerly along the center line of Adams Street to the center line of Tillary Street; thence easterly along the center line of Tillary Street to the center line of Duffield Street; thence northerly along the center line of Duffield Street to the Brooklyn borough line; thence westerly along the Brooklyn borough line to the point of beginning.
-
-(b) "Eligible areas." All areas of the city except (i) with respect to a person relocating therefrom, those designated as commercial development pressure areas in subdivision (a) of this section, and (ii) the area lying south of the center line of 96th Street, in the borough of Manhattan.
-
-(c) "Eligible charges", "eligible public utility service charges" and "eligible on-site cogenerator charges".
-
-   (1) (i) Eligible charges are charges for energy services purchased from a utility or from a vendor of energy services at a rate or rates established pursuant to an order or rule of the New York state public service commission or the federal energy regulatory commission, other than charges for the purchase of the commodity of natural gas or electricity, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph two of this subdivision.
-
-      (ii) Eligible public utility service charges are actual charges for energy services made by a public utility service, and shall include all taxes payable thereon, and shall exclude charges in accordance with paragraph two of this subdivision, provided, however, that the commissioner of small business services may by rule adjust eligible public utility charges for purposes of adjusting the special rebate based thereon to an amount that would be comparable to the special rebate available to a comparable customer of a utility as determined by such commissioner.
-
-      (iii) Except as otherwise provided in paragraph five of subdivision (a) of section 22-602 of this chapter with respect to eligible on-site cogenerators certified before July first, two thousand three, and clean on-site cogenerators certified after June thirtieth, two thousand three, eligible on-site cogenerator charges are charges for energy services purchased from a utility related to the delivery of natural gas to an on-site cogenerator at rates established pursuant to an order or rule of the New York state public service commission or the federal energy regulatory commission, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph two of this subdivision.
-
-   (2) (i) Eligible charges, eligible public utility service charges, and, except as otherwise provided in paragraph five of subdivision (a) of section 22-602 of this chapter with respect to eligible on-site cogenerators certified before July first, two thousand three and clean on-site cogenerators certified after June thirtieth, two thousand three, eligible on-site cogenerator charges shall not include the following charges: (A) any special charges on bills relating to energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by a vendor of energy services to an eligible energy user, qualified eligible energy user or on-site cogenerator for energy services, as authorized by subdivision (d) of this section; (B) charges for such energy services that are resold; and (C) charges for energy services used for heating the premises.
-
-      (ii) Eligible charges and eligible public utility service charges shall not include charges for energy services used in the production of electricity.
-
-      (iii) Eligible on-site cogenerator charges shall not include charges made by a utility for energy services relating to the sale or delivery of natural gas used by an on-site cogenerator to generate electricity used by any user not located on the same site as the on-site cogenerator or by any user for purposes of heating any premises.
-
-(d) "Eligible energy user." Any non-residential user of energy services, except a government agency, public benefit corporation, or instrumentality thereof, hotel, retail vendor or energy intensive facility, as defined in this section, that:
-
-   (1) takes occupancy of non-residential premises after May third, nineteen hundred eighty-five, for which it has, after such date, entered into a written agreement to buy or lease, provided that such premises are located in an eligible area and that such premises are a replacement for premises previously occupied by such energy user for a continuous period of twenty-four months during the thirty-month period immediately preceding such user's taking occupancy, which previously occupied premises were: (i) outside an eligible area, or (ii) within a commercial development pressure area, provided that such replacement premises are not located in a commercial development pressure area; or
-
-   (2) occupies, operates or manages specially eligible premises as defined in this section. Eligible energy users shall not include an occupant of premises contained within a commercial development pressure area that have been used principally for manufacturing activities at any time during the twelve-month period prior to such occupant's taking occupancy unless such occupant uses such premises principally for manufacturing activities or such user takes occupancy of such premises after June thirtieth, two thousand. In addition, an occupant of premises described in paragraph one or two of this subdivision shall not be an eligible energy user unless: (i) the energy services used and electricity or natural gas consumed by such occupant at such premises are individually and accurately metered and billed so as to enable a determination of the occupant's usage of energy services, natural gas or electricity; and (ii) for any occupant purchasing energy services, natural gas or electricity from a vendor of energy services, (A) the price charged by such vendor for such energy services, electricity and natural gas shall be no higher than the price that would have been charged such occupant directly by a utility pursuant to the applicable tariffs of the New York state public service commission or the federal energy regulatory commission, provided that an additional fee, not exceeding twelve percent of such price, may be charged by such vendor, and (B) the price, charges, fees (if any) and other terms and conditions for the sale of such energy services, electricity or natural gas to such occupant are clearly and separately set forth in a written contract or lease agreement between such occupant and such vendor, and such vendor shall separately state in each bill for such services, electricity and natural gas the price, charges and fees (if any) that are included in such bill and the amount of the special rebate made to such occupant or that no special rebate has been made.
-
-(e) "Hotel." A building or portion of it which is regularly used and kept open as such for the lodging of guests. The term "hotel" includes an apartment hotel, a motel, boarding house or club, whether or not meals are served.
-
-(f) "Manufacturing activity." An activity involving the assembly of goods to create a different article, the processing or fabrication or packaging of goods.
-
-(g) "Discount." The amount of a reduction in a bill for energy services rendered to a vendor of energy services or a public utility service by a utility in accordance with the requirements of section 22-602 of this chapter equal to the special rebates made by such vendor or public utility service to eligible energy users.
-
-(h) "Retail Vendor." Any person, including any corporation or other business entity which is predominantly engaged in the sale, other than through the mail, of tangible personal property to any person, for any purpose unrelated to the trade or business of such person, or which is predominantly engaged in selling services to individuals which services generally involve the physical, mental and/or spiritual care of such individuals, or the physical care of the personal property of such person unrelated to the trade or business of such person, provided however, where such sale of tangible personal property or services is performed only by one or more operating units, divisions or subdivisions of any person, only such operating units, divisions or subdivisions shall come within the definition contained herein.
-
-(i) "Specially eligible premises."
-
-   (1) Non-residential premises that are wholly contained in property that is eligible to obtain benefits under part four or part five of subchapter two of chapter two of title eleven of this code, or would be eligible to receive benefits under such chapter except that such property is exempt from real property taxation and the requirements of paragraph two of subdivision g of section 11-259 of this code, or the requirements of subparagraph (b) of paragraph two of subdivision e of section 11-270 of this code, whichever is applicable, have not been satisfied, provided that application for such benefits was made after May third, nineteen hundred eighty-five and prior to July first, two thousand twenty-three, that construction or renovation of such premises was described in such application, that such premises have been substantially improved by such construction or renovation so described, that the minimum required expenditure as defined in such part four or part five, whichever is applicable, has been made, and that such real property is located in an eligible area; or
-
-   (2) non-residential premises that are wholly contained in real property that has obtained approval after May third, nineteen hundred eighty-five and prior to November first, two thousand for financing by the city industrial development agency established pursuant to section nine hundred seventeen of the general municipal law, provided that such financing has been used in whole or in part to substantially improve such premises (by construction or renovation), and that expenditures have been made for improvements to such real property in excess of twenty per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, and that such real property is located in an eligible area; or
-
-   (3) non-residential premises that are wholly contained in real property that has obtained approval after October thirty-first, two thousand and prior to July first, two thousand twenty-three for financing by an industrial development agency established pursuant to article eighteen-A of the general municipal law, provided that such financing has been used in whole or in part to substantially improve such premises (by construction or renovation), and that expenditures have been made for improvements to such real property in excess of ten per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, that such expenditures have been made within thirty-six months after the earlier of (i) the issuance by such agency of bonds for such financing, or (ii) the conveyance of title to such property to such agency, and that such real property is located in an eligible area; or
-
-   (4) non-residential premises that are wholly contained in real property owned by the city of New York or the New York state urban development corporation, or a subsidiary thereof, a lease for which was approved in accordance with the applicable provisions of the charter and such approval was obtained after May third, nineteen hundred eighty-five and prior to November first, two thousand, provided, however that such premises were constructed or renovated subsequent to such approval, that expenditures have been made subsequent to such approval for improvements to such real property (by construction or renovation) in excess of twenty per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, and that such real property is located in an eligible area; or
-
-   (5) non-residential premises that are wholly contained in real property owned by such city or the New York state urban development corporation, or a subsidiary thereof, a lease for which was approved in accordance with the applicable provisions of the charter of such city or by the board of directors of such corporation, and such approval was obtained after October thirty-first, two thousand and prior to July first, two thousand twenty-three, provided, however, that such premises were constructed or renovated subsequent to such approval, that expenditures have been made subsequent to such approval for improvements to such real property (by construction or renovation) in excess of ten per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, that such expenditures have been made within thirty-six months after the effective date of such lease, and that such real property is located in an eligible area; or
-
-   (6) non-residential premises contained in real property not located in an eligible area that otherwise meet the criteria of paragraph one, two, three, four or five of this subdivision, where such premises shall be used primarily for manufacturing activities and provided that such premises shall be improved as a result of expenditures in an amount in excess of ten per centum of the assessed value of such real property attributable to such premises at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, except that the required expenditures for improvements to property eligible to obtain benefits under part five of subchapter two of chapter two of title eleven of this code shall be the amount that an applicant must expend on construction work for a project in order to qualify for benefits as provided in such part five. Attribution of value shall be made in accordance with the rules and regulations of the mayor. Only expenditures for improvements that have been identified as part of the construction or reconstruction project meeting the requirements of paragraph one, two, three, four or five of this subdivision, whichever is applicable, shall qualify for purposes of satisfying the minimum expenditure requirements of this subdivision. Notwithstanding the foregoing, for purposes of applying the criteria of this subdivision, the reference to May third, nineteen hundred eighty-five contained in paragraphs one, two and four of this subdivision shall be deemed a reference to May first, nineteen hundred eighty-six.
-
-   (7) provided, however, that no such premises described in paragraph one, two, three, four, five or six of this subdivision, contained in a newly constructed structure or building, shall come within this definition unless such premises meet the requirements of the New York state energy conservation construction code promulgated pursuant to article eleven of the energy law.
-
-(j) "Special rebate." The amount of a reduction in a bill rendered by a utility, a public utility service or a vendor of energy services for energy services to an eligible energy user or a qualified eligible energy user, or an agent of either, or an on-site cogenerator or a clean on-site cogenerator; and calculated in accordance with the applicable provisions of section 22-602 of this chapter and the rules of the department of small business services.
-
-(k) "Vendor of energy services." Any person, corporation or other entity not subject to the jurisdiction and general supervision of the New York state public service commission that furnishes or sells energy services to an eligible energy user, a qualified eligible energy user or an on-site cogenerator as an incident to leasing, subleasing, licensing or otherwise permitting such user to rent or occupy premises of such vendor.
-
-(l) "Empowerment zone". Empowerment zone shall mean an area within the city of New York that has been designated as an empowerment zone pursuant to the Omnibus Budget Reconciliation Act of 1993.
-
-(m) "Public utility service". A service established by the city of New York pursuant to article fourteen-A of the general municipal law, including the New York city public utility service.
-
-(n) "Empire zone." An area within the city that has been designated as an empire zone pursuant to article eighteen-B of the general municipal law.
-
-(o) "Utility". A person that provides energy services within the city of New York and is subject to the jurisdiction and general supervision of the New York state public service commission and to a tax imposed by such city under chapter eleven of title eleven of the code, except that the Long Island Power Authority, or its subsidiary, is a utility under this subdivision to the extent that it provides energy services within the city of New York and makes a payment to such city that is equivalent to the tax imposed on utilities pursuant to chapter eleven of title eleven of the code.
-
-(p) "Energy conservation measures". The construction, alteration, repair or improvement to a building or separate leased space within a building or to equipment affixed to, contained in, or on the grounds of a building, which reduces energy consumption.
-
-(q) "Simple payback period". The number of years necessary to recoup the cost of an energy conservation measure through annual energy cost savings.
-
-(r) "Qualified eligible energy user".
-
-   (1) A user of energy services that would have qualified as an eligible energy user under paragraph one of subdivision (d) of this section if the reference to May third, nineteen hundred eighty-five were deemed a reference to December thirty-first, nineteen hundred ninety, and that (i) agrees to expand the number of its full-time employees, within two years from the date of certification, by fifty employees or ten percent of the number of its full-time employees as of January first, nineteen hundred ninety-one, whichever is greater; provided, however, that one economically disadvantaged or unemployed person hired as a full-time employee after the date of certification shall be counted as two full-time employees and two part-time employees shall be counted as one full-time employee; and provided, further, that the mayor may define by rule full-time employees, part-time employees, unemployed persons, economically disadvantaged persons, and criteria for continued eligibility in relation to fluctuations in employment levels; or (ii) develops, implements, and maintains, in consultation with the New York city department of social services, the department of small business services or the New York city department of youth and community development, job training program which shall be certified and monitored by such department and which shall meet the standards for such programs as are established by the rules of the mayor; or
-
-   (2) Any non-residential user of energy services, except a government agency, public benefit corporation, or instrumentality thereof, hotel or retail vendor as defined in this section, that occupies, operates or manages targeted eligible premises. An occupant of targeted eligible premises described in paragraph one or two of this subdivision shall not be a qualified eligible energy user unless the energy services used by such occupant at such premises are individually and accurately metered and billed so as to enable a determination of the occupant's usage of such energy services to be made.
-
-(s) "Targeted eligible premises".
-
-   (1) non-residential premises that are wholly contained in property that is eligible to obtain benefits under part four of subchapter two of chapter two of title eleven, or would be eligible to receive benefits under such chapter except that such property is exempt from real property taxation and the requirements of paragraph two of subdivision g of section 11-259 of the code have not been satisfied, provided that application for such benefits was made after December thirty-first, nineteen hundred ninety and prior to November first, two thousand, that construction or renovation of such premises was described in such application, that such premises have been substantially improved by such construction or renovation so described, that twice the minimum required expenditure as defined in such chapter has been made, and that such real property is located in an eligible area; or
-
-   (2) non-residential premises that are wholly contained in real property which has obtained approval after December thirty-first, nineteen hundred ninety and prior to November first, two thousand for financing by an industrial development agency established pursuant to section nine hundred seventeen of the general municipal law, provided that such financing has been used in whole or in part to substantially improve such premises by construction or renovation, and that expenditures have been made for improvements to such real property in excess of forty per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, and that such real property is located in an eligible area; or
-
-   (3) non-residential premises that are wholly contained in real property owned by the city or the New York state urban development corporation, or a subsidiary thereof, a lease for which was approved in accordance with the applicable provisions of the charter, and such approval was obtained after December thirty-first, nineteen hundred ninety and prior to November first, two thousand, provided that such premises were constructed or renovated subsequent to such approval, that expenditures have been made subsequent to such approval for improvements to such real property by construction or renovation in excess of forty per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, and that such real property is located in an eligible area; or
-
-   (4) non-residential premises contained in real property not located in an eligible area that otherwise meet the criteria of paragraph one, two or three of this subdivision, where such premises shall be used primarily for manufacturing activities and provided that such premises shall be improved as a result of expenditures in an amount in excess of twenty per centum of the assessed value of such real property attributable to such premises at which such real property was assessed for tax purposes for the tax year in which such improvements commenced. Attribution of value shall be made in accordance with the rules of the mayor. Only expenditures for improvements that have been identified as part of the construction or renovation project meeting the requirements of paragraph one, two or three of this subdivision, whichever is applicable, shall qualify for purposes of satisfying the minimum expenditure requirements of this sub- division. Provided, however, that no such premises described in paragraph one, two, three or four of this subdivision, contained in a newly constructed structure or building, shall come within this definition unless such premises meet the requirements of the New York state energy conservation construction code promulgated pursuant to article eleven of the energy law. And provided, further, that (i) the qualified eligible energy user shall submit on an annual basis proof that the heating and cooling systems within the premises continue to meet the performance standards specified in section 7813.21 of the energy conservation construction code, or such predecessor section to which the premises, when constructed or substantially renovated, were subject and (ii) to the extent that the cost of motors or lighting equipment described in sections 7813.52 and 7813.53 of the energy conservation construction code is included as part of the minimum expenditures required in paragraph one, two, three or four of this subdivision, the qualified eligible energy user shall certify that all such compatible equipment with a simple payback period of five years or less has been installed.
-
-(t) "Energy services". The transmission and distribution of electricity or gas, and such other services that are associated with such transmission and distribution as shall be designated as energy services by rule of the commissioner of small business services as such commissioner deems necessary to promote economic development, provided that energy services shall not include the commodity of gas or electricity.
-
-(u) "On-site cogenerator". A person, other than a utility, that owns an electric generating facility that simultaneously or sequentially produces electricity and useful thermal energy, provided that substantially all of such electricity shall be used by an eligible energy user that occupies the same site as such generating facility. An on-site cogenerator may be the same or a separate person as such eligible energy user.
-
-(v) "Clean on-site cogenerator". An on-site cogenerator, the electricity generating facility of which has an emission rate for nitrous oxides of no more than three tenths of one pound per megawatt hour. The commissioner of the department of small business services shall establish by rule a megawatt hour equivalent for any useful thermal energy produced by the cogenerator for purposes of determining benefits under this chapter.
-
-
-
-
-
-
-
-
-*§ 22-602 Requirement of special rebates and discounts.* ::
-
-
-(a) (1) Utilities that provide energy services within the city of New York shall be required to make special rebates to eligible energy users and on-site cogenerators certified after June thirtieth, two thousand three, other than clean on-site cogenerators, and to make discounts to vendors of energy services and the New York public utility service as follows:
-
-      (i) a utility that sells energy services to an eligible energy user shall be required to make a special rebate to such eligible energy user equal to the product of the applicable percentage specified for special rebates in the schedule contained in paragraph four of this subdivision and the eligible charges for such energy services.
-
-      (ii) a utility that delivers natural gas to an on-site cogenerator, other than a clean on-site cogenerator, that uses such gas to produce electricity used by an eligible energy user, which cogenerator and user are certified after June thirtieth, two thousand three, shall be required to make a special rebate to such on-site cogenerator equal to the product of the applicable percentage specified for special rebates in the schedule contained in paragraph four of this subdivision and the eligible on-site cogenerator charges for the energy services related to such delivery of such gas.
-
-      (iii) a utility that sells energy services to a vendor of energy services shall be required to make a discount to such vendor in an amount equal to the sum of the special rebates certified to such utility by such vendor as having been made by such vendor to eligible energy users in accordance with subparagraphs (i) through (iii) of paragraph three of this subdivision.
-
-      (iv) a utility that sells energy services to a public utility service shall be required to make a discount to such public utility service in an amount equal to the sum of the special rebates and discounts certified to such utility by such public utility service as having been made by such public utility service in accordance with subparagraphs (i) through (iii) of paragraph two of this subdivision.
-
-   (2) A public utility service providing energy services within the city of New York shall be required to make special rebates to eligible energy users and qualified eligible energy users and discounts to vendors of energy services as follows:
-
-      (i) where, pursuant to a written agreement between a public utility service and the power authority of the state of New York, such public utility service sells energy services to an eligible energy user that has been individually approved by such power authority and certified pursuant to subdivision (c) of this section prior to November first, two thousand, such special rebate shall be in the amount or amounts derived by calculating the full amount of the special rebate to which such eligible energy user would have been entitled pursuant to the schedule contained in paragraph four of this subdivision for eligible charges relating to the purchase of such energy services had such eligible energy user purchased such energy services directly from the utility and subtracting from such full amount the difference between the eligible charges relating to the purchase of such energy services had such eligible energy user purchased the energy services directly from the utility and the eligible public utility service charges relating to the purchase of such energy services actually charged to such eligible energy user by such public utility service for actual purchases of energy services from such public utility service; except that (A) in no event shall the amount of such special rebate exceed the amount of the special rebate to which such eligible energy user would have been entitled pursuant to the schedule contained in paragraph four of this subdivision had such eligible energy user purchased the energy services directly from the utility at the price charged by such utility, and (B) for any monthly billing period where the calculation of such special rebate results in a negative number, the amount of such special rebate shall be deemed to be zero.
-
-      (ii) where, pursuant to a written agreement between a public utility service and the power authority of the state of New York, such public utility service (A) sells energy services to an eligible energy user that has been individually approved by such power authority and certified pursuant to subdivision (c) of this section after October thirty-first, two thousand, or (B) sells energy services to a qualified eligible energy user that has been individually approved by such power authority and certified pursuant to subdivision (c) of this section prior to November first, two thousand, such special rebate shall be the product of the applicable percentage for special rebates specified in the schedule contained in paragraph four of this subdivision and the eligible public utility service charges for such energy services.
-
-      (iii) a public utility service that sells energy services to a vendor of energy services shall be required to make a discount to such vendor of energy services equal to the sum of the special rebates certified to such public utility service by such vendor as having been made by such vendor to eligible energy users or qualified eligible energy users to which such vendor of energy services has resold such energy services in accordance with subparagraphs (i) through (iii) of paragraph three of this subdivision.
-
-   (3) Vendors of energy services may elect to provide a special rebate against an eligible energy user's, qualified eligible energy user's or on-site cogenerator's bill for energy services as follows:
-
-      (i) in the case of a vendor of energy services that sells energy services provided by a utility to an eligible energy user, such special rebate shall be the product of the applicable percentage specified for a special rebate in the schedule contained in paragraph four of this subdivision and the eligible charges for such sales of energy services made by such vendor of energy services.
-
-      (ii) in the case of a vendor of energy services that delivers natural gas to an on-site cogenerator that is other than a clean on-site cogenerator and that uses such gas to produce electricity used by an eligible energy user, which cogenerator and user are certified after June thirtieth, two thousand three, such special rebate shall be equal to the product of the applicable percentage specified in the schedule contained in paragraph four of this subdivision and the eligible on-site cogenerator charges for the energy services related to such delivery of such gas.
-
-      (iii) in the case of a vendor of energy services that sells energy services provided by a public utility service to a qualified eligible energy user that was certified prior to November first, two thousand, or to an eligible energy user that was certified after October thirty-first, two thousand, such special rebate shall be the product of the applicable percentage specified for a special rebate in the schedule contained in paragraph four of this subdivision and the eligible public utility service charges for sales of energy services made by such vendor of energy services.
-
-   (4) For purposes of determining special rebates for energy services relating to electricity and natural gas under the provisions of this subdivision, the applicable percentages are as follows:
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Months Following Certification
-      - Applicable % for Natural Gas
-      - Applicable % for Electricity
-    * - first through ninety-sixth
-      - 35% 
-      - 45% 
-    * - ninety-seventh through one hundred eighth 
-      - 28% 
-      - 36% 
-    * - one hundred ninth through one hundred twentieth
-      - 21% 
-      - 27% 
-    * - one hundred twenty-first through one hundred thirty-second
-      - 14% 
-      - 18% 
-    * - one hundred thirty-third through one hundred forty-fourth
-      -  7% 
-      -  9% 
-    * - 
-      - 
-      - 
-~
-
-
-
- 
-
-; provided, however, that the commissioner of the department of small business services may increase such percentages at the commissioner's discretion in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users.
-
-   (5) A utility that delivers natural gas to an on-site cogenerator that produces electricity for an eligible energy user, which cogenerator and user are certified before July first, two thousand three, or to a clean on-site cogenerator that produces electricity for an eligible energy user, shall be required to make special rebates against the energy bill rendered to such on-site cogenerator or clean on-site cogenerator by such utility for the sale or delivery, or both, of such gas in the amount or amounts derived by taking the product of a base adjustment multiplied by an eligibility factor, multiplied by the number of kilowatt hours of electricity produced by such on-site cogenerator or clean on-site cogenerator and used by such eligible energy user during the billing period, excluding charges for natural gas used to generate electricity used for heating any premises or by any energy user not located on the same site, any special charges on such bill, including but not limited to, collection charges, late payment charges, excess distribution charges, and charges for energy which is resold; where the base adjustment shall equal three cents increased by nine one-hundredths cent each January first occurring after December thirty-first, nineteen hundred eighty-seven, and ending on June thirtieth, two thousand three, and the eligibility factor shall equal one hundred percent during the first eight years after initial certification as an eligible energy user as defined in paragraphs one and two of subdivision (d) of section 22-601 of this chapter, eighty percent during the ninth such year, sixty percent during the tenth such year, forty percent during the eleventh such year and twenty percent during the twelfth and final such year, such years to be calculated in accordance with the provisions of this section, provided that the number of kilowatt hours on which the total of the special rebates payable to a clean on-site cogenerator is based in any year pursuant to this paragraph shall not exceed thirteen million one hundred forty thousand.
-
-   (6) Notwithstanding any provision of this subdivision, the special rebates and discounts provided by the Long Island Power Authority, or its subsidiary, pursuant to this subdivision shall not exceed the amount of the payment made by or on behalf of such authority to the city of New York as a payment that is equivalent to the tax imposed by such city pursuant to chapter eleven of title eleven of the code. Special rebates and discounts shall be reduced and/or allocated proportionate to the benefit they would otherwise be eligible for among eligible energy users, public utility services, vendors of energy services, and on-site cogenerators where necessary to comply with this paragraph pursuant to rules of the commissioner of the department of small business services.
-
-   (7) Notwithstanding any provisions of this subdivision, special rebates and discounts shall not exceed ten thousand dollars per year per employee or full-time equivalent with respect to applications certified pursuant to this chapter after June thirtieth, two thousand three.
-
-(b) Eligible energy users meeting the criteria in paragraph one of subdivision (d) and qualified eligible energy users meeting the criteria in paragraph one of subdivision (r) of section 22-601 of this chapter shall be eligible for special rebates for a period not to exceed one hundred forty-four months calculated from the beginning of the month immediately following their date of certification of eligibility. Eligible energy users meeting the criteria of paragraph two of subdivision (d) of section 22-601 of this chapter shall be eligible for special rebates for a period calculated from the beginning of the month immediately following their date of certification for so long as they remain in occupancy in the specially eligible premises, but not beyond the period of one hundred forty-four months from the beginning of the month immediately following the date of certification of the first eligible energy user occupying such specially eligible premises. The amounts of rebates made to such an eligible energy user meeting the criteria of such paragraph two shall be determined in accordance with the schedule contained in paragraph four of subdivision (a) of this section as if such eligible energy user had been certified at the same time as such first eligible energy user was certified. A qualified eligible energy user that takes occupancy of targeted eligible premises shall be eligible for special rebates for a period calculated from the beginning of the month immediately following its date of certification as a qualified eligible energy user for so long as it remains in occupancy in the targeted eligible premises, but not beyond the period of one hundred forty-four months from the beginning of the month immediately following the date of certification of the first qualified eligible energy user occupying such targeted eligible premises. The amounts of rebates made to a qualified eligible energy user that takes occupancy of targeted eligible premises shall be determined in accordance with the schedule contained in paragraph four of subdivision (a) of this section as if such qualified eligible energy user had been certified at the same time as such first qualified eligible energy user was certified. An on-site cogenerator or clean on-site cogenerator shall be eligible for special rebates for a period not to exceed the period during which the eligible energy user served by such on-site cogenerator or clean on-site cogenerator would have been eligible for a special rebate under the provisions of this subdivision had it purchased energy services directly from a utility.
-
-(c) (1) No eligible energy user, qualified eligible energy user, on-site cogenerator, clean on-site cogenerator or special eligible energy user shall receive a rebate pursuant to this chapter until it has obtained a certification as an eligible energy user, qualified eligible energy user, on-site cogenerator, clean on-site cogenerator or special eligible energy user, respectively, from the commissioner of small business services. No such certification for a qualified eligible energy user shall be issued on or after July first, two thousand three. No such certification of any other eligible energy user, on-site cogenerator or clean on-site cogenerator shall be issued on or after July first, two thousand twenty-three. The commissioner of small business services, after notice and hearing, may revoke a certification issued pursuant to this subdivision where it is found that eligibility criteria have not been met or that compliance with conditions for continued eligibility has not been maintained. The corporation counsel may maintain a civil action to recover an amount equal to any benefits improperly obtained.
-
-   (2) A utility and a vendor of energy services shall keep records of all transactions subject to this article and make such records available to the department of small business services.
-
-(d) (1)    Utilities subject to the provisions of subdivision (a) of this section shall reduce each bill for energy services or natural gas for each eligible energy user, vendor of energy services, on-site cogenerator or clean on-site cogenerator as follows:
-
-      (i) a bill for the sale and delivery of natural gas rendered to an on-site cogenerator or clean on-site cogenerator entitled to a special rebate pursuant to the provisions of paragraph five of subdivision (a) of this section shall be reduced by the full amount of the special rebate that shall have accrued for the period covered by each such bill;
-
-      (ii) a bill for energy services rendered to any other eligible energy user or on-site cogenerator shall be reduced by the full amount of the special rebate that shall have accrued for the period covered by each such bill.
-
-      (iii) a bill for energy services rendered to a vendor of energy services that has provided a special rebate to an eligible energy user or on-site cogenerator shall be reduced by such utility in accordance with paragraph three of subdivision (a) of this section by the aggregate amount of all such special rebates;
-
-      (iv) provided, however, such utility shall not be required to provide a special rebate or discount in an amount that exceeds the amount of such bill for the sale and delivery of natural gas rendered to an on-site cogenerator or clean on-site cogenerator entitled to a special rebate pursuant to the provisions of paragraph five of subdivision (a) of this section or, in the case of any other eligible energy user or on-site cogenerator, the amount of such bill for energy services, and provided, further, that no utility subject to the provisions of subdivision (a) of this section shall be required to carry forward on its books and records any special rebate or discounts not made in accordance with this sentence to such bills for subsequent periods. Such discount shall be made within four months from the time certification of special rebates is made in accordance with subparagraph (iii) or (iv) of paragraph one of subdivision (a) of this section. Such amount shall be separately stated and shown on each bill.
-
-   (2) A public utility service that provides special rebates for eligible energy users or qualified eligible energy users shall reduce each bill rendered to each such user by the full amount of the special rebate that shall have accrued for the period covered by each such bill in accordance with paragraph two of subdivision (a) of this section. Such amounts shall be separately stated and shown on such bills.
-
-   (3) Each such vendor of energy services that has elected to provide special rebates for eligible energy users, qualified eligible energy users or on-site cogenerators shall reduce each bill rendered to each such energy user or cogenerator by the full amount of the special rebate that shall have accrued for the period covered by each such bill in accordance with paragraph three of subdivision (a) of this section. Such amounts shall be separately stated and shown on such bills.
-
-(e) The commissioner of small business services shall, for the purpose of calculating eligible charges, eligible public utility service charges and eligible on-site cogenerator charges, promulgate rules to determine that portion of such charges that shall be deemed attributable to energy services or natural gas used for heating the premises. He or she shall, in addition, promulgate any other rules and regulations necessary to effectuate the purposes of this chapter, including rules to determine the extent to which charges are eligible charges, eligible public utility service charges or eligible on-site cogenerator charges and rules to provide for such administrative charges or fees as are necessary to defray expenses in administering the special rebates and discounts provided pursuant to this chapter.
-
-
-
-
-
-
-
-
-*§ 22-603 Construction.* ::
-
-
-Nothing contained in this title shall be construed as reducing the amount of a receipt for sales tax purposes under any of the sales taxes imposed or authorized by article twenty-eight or twenty-nine of the tax law, or as reducing the gross income of the gross operating income subject to tax pursuant to chapter eleven of title eleven of this code. The burden of establishing eligibility to receive the benefits of this chapter shall rest with the party claiming such benefits.
+The city is hereby authorized from time to time to make application to the board established by the act of congress, approved June eighteenth, nineteen hundred thirty-four, entitled "An act to provide for the establishment, operation and maintenance of foreign-trade zones in ports of entry of the United States, to expedite and encourage foreign commerce, and for other purposes," for a grant or grants or any extensions thereof to such city of the privilege of establishing, operating and maintaining a foreign-trade zone or zones or any extensions thereof in such city, pursuant to the provisions of such act, and if any such application be granted, to accept such grant or grants or any extensions thereof and to establish, operate and maintain any such zone or extension thereof in accordance with law. The authorization hereby granted shall extend to and cover any application heretofore made for any such purpose by the city pursuant to the act of congress hereinbefore described, and to any amendment of such an application.
 
 
 
@@ -2461,6 +2243,224 @@ The department, or an agency or office designated by the mayor, shall by March 1
 
 
 
+Chapter 6: Rebates of Charges For Energy
+--------------------------------------------------
+
+
+
+*§ 22-601 Definitions.* ::
+
+
+When used in this chapter the following terms shall have the following meanings:
+
+(a) "Commercial development pressure areas."
+
+   (1) The area delineated by a line beginning at the point of intersection of the Manhattan, Queens and Brooklyn borough lines and running easterly along the Queens borough line to the center line of Greenpoint Avenue; thence easterly along the center line of Greenpoint Avenue to the center line of Review Avenue; thence northerly along the center line of Review Avenue to the center line of Borden Avenue; thence easterly along the center line of Borden Avenue to the center line of Van Dam Street; thence northerly along the center line of Van Dam Street to the center line of Skillman Avenue; thence easterly along the center line of Skillman Avenue to the center line of Honeywell Street; thence northerly along the center line of Honeywell Street to the center line of Northern Boulevard; thence southwesterly along the center line of Northern Boulevard to the center line of Fortieth Road; thence westerly along the center line of Fortieth Road to the center line of Twenty-ninth Street; thence southerly along the center line of Twenty-ninth Street to the center line of Forty-first Avenue; thence westerly along the center line of Forty-first Avenue to the Queens borough line; thence southerly along the Queens borough line to the point of beginning; and
+
+   (2) The area delineated by a line beginning at the point of intersection of the Brooklyn borough line and the center line of Fulton Street and running southerly along the center line of Fulton Street to the center line of Prospect Street; thence easterly along the center line of Prospect Street to the center line of Adams Street; thence southerly along the center line of Adams Street to the center line of Tillary Street; thence easterly along the center line of Tillary Street to the center line of Duffield Street; thence northerly along the center line of Duffield Street to the Brooklyn borough line; thence westerly along the Brooklyn borough line to the point of beginning.
+
+(b) "Eligible areas." All areas of the city except (i) with respect to a person relocating therefrom, those designated as commercial development pressure areas in subdivision (a) of this section, and (ii) the area lying south of the center line of 96th Street, in the borough of Manhattan.
+
+(c) "Eligible charges", "eligible public utility service charges" and "eligible on-site cogenerator charges".
+
+   (1) (i) Eligible charges are charges for energy services purchased from a utility or from a vendor of energy services at a rate or rates established pursuant to an order or rule of the New York state public service commission or the federal energy regulatory commission, other than charges for the purchase of the commodity of natural gas or electricity, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph two of this subdivision.
+
+      (ii) Eligible public utility service charges are actual charges for energy services made by a public utility service, and shall include all taxes payable thereon, and shall exclude charges in accordance with paragraph two of this subdivision, provided, however, that the commissioner of small business services may by rule adjust eligible public utility charges for purposes of adjusting the special rebate based thereon to an amount that would be comparable to the special rebate available to a comparable customer of a utility as determined by such commissioner.
+
+      (iii) Except as otherwise provided in paragraph five of subdivision (a) of section 22-602 of this chapter with respect to eligible on-site cogenerators certified before July first, two thousand three, and clean on-site cogenerators certified after June thirtieth, two thousand three, eligible on-site cogenerator charges are charges for energy services purchased from a utility related to the delivery of natural gas to an on-site cogenerator at rates established pursuant to an order or rule of the New York state public service commission or the federal energy regulatory commission, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph two of this subdivision.
+
+   (2) (i) Eligible charges, eligible public utility service charges, and, except as otherwise provided in paragraph five of subdivision (a) of section 22-602 of this chapter with respect to eligible on-site cogenerators certified before July first, two thousand three and clean on-site cogenerators certified after June thirtieth, two thousand three, eligible on-site cogenerator charges shall not include the following charges: (A) any special charges on bills relating to energy services, including, but not limited to, collection charges, late payment charges or excess distribution charges, or any additional fee charged by a vendor of energy services to an eligible energy user, qualified eligible energy user or on-site cogenerator for energy services, as authorized by subdivision (d) of this section; (B) charges for such energy services that are resold; and (C) charges for energy services used for heating the premises.
+
+      (ii) Eligible charges and eligible public utility service charges shall not include charges for energy services used in the production of electricity.
+
+      (iii) Eligible on-site cogenerator charges shall not include charges made by a utility for energy services relating to the sale or delivery of natural gas used by an on-site cogenerator to generate electricity used by any user not located on the same site as the on-site cogenerator or by any user for purposes of heating any premises.
+
+(d) "Eligible energy user." Any non-residential user of energy services, except a government agency, public benefit corporation, or instrumentality thereof, hotel, retail vendor or energy intensive facility, as defined in this section, that:
+
+   (1) takes occupancy of non-residential premises after May third, nineteen hundred eighty-five, for which it has, after such date, entered into a written agreement to buy or lease, provided that such premises are located in an eligible area and that such premises are a replacement for premises previously occupied by such energy user for a continuous period of twenty-four months during the thirty-month period immediately preceding such user's taking occupancy, which previously occupied premises were: (i) outside an eligible area, or (ii) within a commercial development pressure area, provided that such replacement premises are not located in a commercial development pressure area; or
+
+   (2) occupies, operates or manages specially eligible premises as defined in this section. Eligible energy users shall not include an occupant of premises contained within a commercial development pressure area that have been used principally for manufacturing activities at any time during the twelve-month period prior to such occupant's taking occupancy unless such occupant uses such premises principally for manufacturing activities or such user takes occupancy of such premises after June thirtieth, two thousand. In addition, an occupant of premises described in paragraph one or two of this subdivision shall not be an eligible energy user unless: (i) the energy services used and electricity or natural gas consumed by such occupant at such premises are individually and accurately metered and billed so as to enable a determination of the occupant's usage of energy services, natural gas or electricity; and (ii) for any occupant purchasing energy services, natural gas or electricity from a vendor of energy services, (A) the price charged by such vendor for such energy services, electricity and natural gas shall be no higher than the price that would have been charged such occupant directly by a utility pursuant to the applicable tariffs of the New York state public service commission or the federal energy regulatory commission, provided that an additional fee, not exceeding twelve percent of such price, may be charged by such vendor, and (B) the price, charges, fees (if any) and other terms and conditions for the sale of such energy services, electricity or natural gas to such occupant are clearly and separately set forth in a written contract or lease agreement between such occupant and such vendor, and such vendor shall separately state in each bill for such services, electricity and natural gas the price, charges and fees (if any) that are included in such bill and the amount of the special rebate made to such occupant or that no special rebate has been made.
+
+(e) "Hotel." A building or portion of it which is regularly used and kept open as such for the lodging of guests. The term "hotel" includes an apartment hotel, a motel, boarding house or club, whether or not meals are served.
+
+(f) "Manufacturing activity." An activity involving the assembly of goods to create a different article, the processing or fabrication or packaging of goods.
+
+(g) "Discount." The amount of a reduction in a bill for energy services rendered to a vendor of energy services or a public utility service by a utility in accordance with the requirements of section 22-602 of this chapter equal to the special rebates made by such vendor or public utility service to eligible energy users.
+
+(h) "Retail Vendor." Any person, including any corporation or other business entity which is predominantly engaged in the sale, other than through the mail, of tangible personal property to any person, for any purpose unrelated to the trade or business of such person, or which is predominantly engaged in selling services to individuals which services generally involve the physical, mental and/or spiritual care of such individuals, or the physical care of the personal property of such person unrelated to the trade or business of such person, provided however, where such sale of tangible personal property or services is performed only by one or more operating units, divisions or subdivisions of any person, only such operating units, divisions or subdivisions shall come within the definition contained herein.
+
+(i) "Specially eligible premises."
+
+   (1) Non-residential premises that are wholly contained in property that is eligible to obtain benefits under part four or part five of subchapter two of chapter two of title eleven of this code, or would be eligible to receive benefits under such chapter except that such property is exempt from real property taxation and the requirements of paragraph two of subdivision g of section 11-259 of this code, or the requirements of subparagraph (b) of paragraph two of subdivision e of section 11-270 of this code, whichever is applicable, have not been satisfied, provided that application for such benefits was made after May third, nineteen hundred eighty-five and prior to July first, two thousand twenty-three, that construction or renovation of such premises was described in such application, that such premises have been substantially improved by such construction or renovation so described, that the minimum required expenditure as defined in such part four or part five, whichever is applicable, has been made, and that such real property is located in an eligible area; or
+
+   (2) non-residential premises that are wholly contained in real property that has obtained approval after May third, nineteen hundred eighty-five and prior to November first, two thousand for financing by the city industrial development agency established pursuant to section nine hundred seventeen of the general municipal law, provided that such financing has been used in whole or in part to substantially improve such premises (by construction or renovation), and that expenditures have been made for improvements to such real property in excess of twenty per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, and that such real property is located in an eligible area; or
+
+   (3) non-residential premises that are wholly contained in real property that has obtained approval after October thirty-first, two thousand and prior to July first, two thousand twenty-three for financing by an industrial development agency established pursuant to article eighteen-A of the general municipal law, provided that such financing has been used in whole or in part to substantially improve such premises (by construction or renovation), and that expenditures have been made for improvements to such real property in excess of ten per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, that such expenditures have been made within thirty-six months after the earlier of (i) the issuance by such agency of bonds for such financing, or (ii) the conveyance of title to such property to such agency, and that such real property is located in an eligible area; or
+
+   (4) non-residential premises that are wholly contained in real property owned by the city of New York or the New York state urban development corporation, or a subsidiary thereof, a lease for which was approved in accordance with the applicable provisions of the charter and such approval was obtained after May third, nineteen hundred eighty-five and prior to November first, two thousand, provided, however that such premises were constructed or renovated subsequent to such approval, that expenditures have been made subsequent to such approval for improvements to such real property (by construction or renovation) in excess of twenty per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, and that such real property is located in an eligible area; or
+
+   (5) non-residential premises that are wholly contained in real property owned by such city or the New York state urban development corporation, or a subsidiary thereof, a lease for which was approved in accordance with the applicable provisions of the charter of such city or by the board of directors of such corporation, and such approval was obtained after October thirty-first, two thousand and prior to July first, two thousand twenty-three, provided, however, that such premises were constructed or renovated subsequent to such approval, that expenditures have been made subsequent to such approval for improvements to such real property (by construction or renovation) in excess of ten per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, that such expenditures have been made within thirty-six months after the effective date of such lease, and that such real property is located in an eligible area; or
+
+   (6) non-residential premises contained in real property not located in an eligible area that otherwise meet the criteria of paragraph one, two, three, four or five of this subdivision, where such premises shall be used primarily for manufacturing activities and provided that such premises shall be improved as a result of expenditures in an amount in excess of ten per centum of the assessed value of such real property attributable to such premises at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, except that the required expenditures for improvements to property eligible to obtain benefits under part five of subchapter two of chapter two of title eleven of this code shall be the amount that an applicant must expend on construction work for a project in order to qualify for benefits as provided in such part five. Attribution of value shall be made in accordance with the rules and regulations of the mayor. Only expenditures for improvements that have been identified as part of the construction or reconstruction project meeting the requirements of paragraph one, two, three, four or five of this subdivision, whichever is applicable, shall qualify for purposes of satisfying the minimum expenditure requirements of this subdivision. Notwithstanding the foregoing, for purposes of applying the criteria of this subdivision, the reference to May third, nineteen hundred eighty-five contained in paragraphs one, two and four of this subdivision shall be deemed a reference to May first, nineteen hundred eighty-six.
+
+   (7) provided, however, that no such premises described in paragraph one, two, three, four, five or six of this subdivision, contained in a newly constructed structure or building, shall come within this definition unless such premises meet the requirements of the New York state energy conservation construction code promulgated pursuant to article eleven of the energy law.
+
+(j) "Special rebate." The amount of a reduction in a bill rendered by a utility, a public utility service or a vendor of energy services for energy services to an eligible energy user or a qualified eligible energy user, or an agent of either, or an on-site cogenerator or a clean on-site cogenerator; and calculated in accordance with the applicable provisions of section 22-602 of this chapter and the rules of the department of small business services.
+
+(k) "Vendor of energy services." Any person, corporation or other entity not subject to the jurisdiction and general supervision of the New York state public service commission that furnishes or sells energy services to an eligible energy user, a qualified eligible energy user or an on-site cogenerator as an incident to leasing, subleasing, licensing or otherwise permitting such user to rent or occupy premises of such vendor.
+
+(l) "Empowerment zone". Empowerment zone shall mean an area within the city of New York that has been designated as an empowerment zone pursuant to the Omnibus Budget Reconciliation Act of 1993.
+
+(m) "Public utility service". A service established by the city of New York pursuant to article fourteen-A of the general municipal law, including the New York city public utility service.
+
+(n) "Empire zone." An area within the city that has been designated as an empire zone pursuant to article eighteen-B of the general municipal law.
+
+(o) "Utility". A person that provides energy services within the city of New York and is subject to the jurisdiction and general supervision of the New York state public service commission and to a tax imposed by such city under chapter eleven of title eleven of the code, except that the Long Island Power Authority, or its subsidiary, is a utility under this subdivision to the extent that it provides energy services within the city of New York and makes a payment to such city that is equivalent to the tax imposed on utilities pursuant to chapter eleven of title eleven of the code.
+
+(p) "Energy conservation measures". The construction, alteration, repair or improvement to a building or separate leased space within a building or to equipment affixed to, contained in, or on the grounds of a building, which reduces energy consumption.
+
+(q) "Simple payback period". The number of years necessary to recoup the cost of an energy conservation measure through annual energy cost savings.
+
+(r) "Qualified eligible energy user".
+
+   (1) A user of energy services that would have qualified as an eligible energy user under paragraph one of subdivision (d) of this section if the reference to May third, nineteen hundred eighty-five were deemed a reference to December thirty-first, nineteen hundred ninety, and that (i) agrees to expand the number of its full-time employees, within two years from the date of certification, by fifty employees or ten percent of the number of its full-time employees as of January first, nineteen hundred ninety-one, whichever is greater; provided, however, that one economically disadvantaged or unemployed person hired as a full-time employee after the date of certification shall be counted as two full-time employees and two part-time employees shall be counted as one full-time employee; and provided, further, that the mayor may define by rule full-time employees, part-time employees, unemployed persons, economically disadvantaged persons, and criteria for continued eligibility in relation to fluctuations in employment levels; or (ii) develops, implements, and maintains, in consultation with the New York city department of social services, the department of small business services or the New York city department of youth and community development, job training program which shall be certified and monitored by such department and which shall meet the standards for such programs as are established by the rules of the mayor; or
+
+   (2) Any non-residential user of energy services, except a government agency, public benefit corporation, or instrumentality thereof, hotel or retail vendor as defined in this section, that occupies, operates or manages targeted eligible premises. An occupant of targeted eligible premises described in paragraph one or two of this subdivision shall not be a qualified eligible energy user unless the energy services used by such occupant at such premises are individually and accurately metered and billed so as to enable a determination of the occupant's usage of such energy services to be made.
+
+(s) "Targeted eligible premises".
+
+   (1) non-residential premises that are wholly contained in property that is eligible to obtain benefits under part four of subchapter two of chapter two of title eleven, or would be eligible to receive benefits under such chapter except that such property is exempt from real property taxation and the requirements of paragraph two of subdivision g of section 11-259 of the code have not been satisfied, provided that application for such benefits was made after December thirty-first, nineteen hundred ninety and prior to November first, two thousand, that construction or renovation of such premises was described in such application, that such premises have been substantially improved by such construction or renovation so described, that twice the minimum required expenditure as defined in such chapter has been made, and that such real property is located in an eligible area; or
+
+   (2) non-residential premises that are wholly contained in real property which has obtained approval after December thirty-first, nineteen hundred ninety and prior to November first, two thousand for financing by an industrial development agency established pursuant to section nine hundred seventeen of the general municipal law, provided that such financing has been used in whole or in part to substantially improve such premises by construction or renovation, and that expenditures have been made for improvements to such real property in excess of forty per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, and that such real property is located in an eligible area; or
+
+   (3) non-residential premises that are wholly contained in real property owned by the city or the New York state urban development corporation, or a subsidiary thereof, a lease for which was approved in accordance with the applicable provisions of the charter, and such approval was obtained after December thirty-first, nineteen hundred ninety and prior to November first, two thousand, provided that such premises were constructed or renovated subsequent to such approval, that expenditures have been made subsequent to such approval for improvements to such real property by construction or renovation in excess of forty per centum of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced, and that such real property is located in an eligible area; or
+
+   (4) non-residential premises contained in real property not located in an eligible area that otherwise meet the criteria of paragraph one, two or three of this subdivision, where such premises shall be used primarily for manufacturing activities and provided that such premises shall be improved as a result of expenditures in an amount in excess of twenty per centum of the assessed value of such real property attributable to such premises at which such real property was assessed for tax purposes for the tax year in which such improvements commenced. Attribution of value shall be made in accordance with the rules of the mayor. Only expenditures for improvements that have been identified as part of the construction or renovation project meeting the requirements of paragraph one, two or three of this subdivision, whichever is applicable, shall qualify for purposes of satisfying the minimum expenditure requirements of this sub- division. Provided, however, that no such premises described in paragraph one, two, three or four of this subdivision, contained in a newly constructed structure or building, shall come within this definition unless such premises meet the requirements of the New York state energy conservation construction code promulgated pursuant to article eleven of the energy law. And provided, further, that (i) the qualified eligible energy user shall submit on an annual basis proof that the heating and cooling systems within the premises continue to meet the performance standards specified in section 7813.21 of the energy conservation construction code, or such predecessor section to which the premises, when constructed or substantially renovated, were subject and (ii) to the extent that the cost of motors or lighting equipment described in sections 7813.52 and 7813.53 of the energy conservation construction code is included as part of the minimum expenditures required in paragraph one, two, three or four of this subdivision, the qualified eligible energy user shall certify that all such compatible equipment with a simple payback period of five years or less has been installed.
+
+(t) "Energy services". The transmission and distribution of electricity or gas, and such other services that are associated with such transmission and distribution as shall be designated as energy services by rule of the commissioner of small business services as such commissioner deems necessary to promote economic development, provided that energy services shall not include the commodity of gas or electricity.
+
+(u) "On-site cogenerator". A person, other than a utility, that owns an electric generating facility that simultaneously or sequentially produces electricity and useful thermal energy, provided that substantially all of such electricity shall be used by an eligible energy user that occupies the same site as such generating facility. An on-site cogenerator may be the same or a separate person as such eligible energy user.
+
+(v) "Clean on-site cogenerator". An on-site cogenerator, the electricity generating facility of which has an emission rate for nitrous oxides of no more than three tenths of one pound per megawatt hour. The commissioner of the department of small business services shall establish by rule a megawatt hour equivalent for any useful thermal energy produced by the cogenerator for purposes of determining benefits under this chapter.
+
+
+
+
+
+
+
+
+*§ 22-602 Requirement of special rebates and discounts.* ::
+
+
+(a) (1) Utilities that provide energy services within the city of New York shall be required to make special rebates to eligible energy users and on-site cogenerators certified after June thirtieth, two thousand three, other than clean on-site cogenerators, and to make discounts to vendors of energy services and the New York public utility service as follows:
+
+      (i) a utility that sells energy services to an eligible energy user shall be required to make a special rebate to such eligible energy user equal to the product of the applicable percentage specified for special rebates in the schedule contained in paragraph four of this subdivision and the eligible charges for such energy services.
+
+      (ii) a utility that delivers natural gas to an on-site cogenerator, other than a clean on-site cogenerator, that uses such gas to produce electricity used by an eligible energy user, which cogenerator and user are certified after June thirtieth, two thousand three, shall be required to make a special rebate to such on-site cogenerator equal to the product of the applicable percentage specified for special rebates in the schedule contained in paragraph four of this subdivision and the eligible on-site cogenerator charges for the energy services related to such delivery of such gas.
+
+      (iii) a utility that sells energy services to a vendor of energy services shall be required to make a discount to such vendor in an amount equal to the sum of the special rebates certified to such utility by such vendor as having been made by such vendor to eligible energy users in accordance with subparagraphs (i) through (iii) of paragraph three of this subdivision.
+
+      (iv) a utility that sells energy services to a public utility service shall be required to make a discount to such public utility service in an amount equal to the sum of the special rebates and discounts certified to such utility by such public utility service as having been made by such public utility service in accordance with subparagraphs (i) through (iii) of paragraph two of this subdivision.
+
+   (2) A public utility service providing energy services within the city of New York shall be required to make special rebates to eligible energy users and qualified eligible energy users and discounts to vendors of energy services as follows:
+
+      (i) where, pursuant to a written agreement between a public utility service and the power authority of the state of New York, such public utility service sells energy services to an eligible energy user that has been individually approved by such power authority and certified pursuant to subdivision (c) of this section prior to November first, two thousand, such special rebate shall be in the amount or amounts derived by calculating the full amount of the special rebate to which such eligible energy user would have been entitled pursuant to the schedule contained in paragraph four of this subdivision for eligible charges relating to the purchase of such energy services had such eligible energy user purchased such energy services directly from the utility and subtracting from such full amount the difference between the eligible charges relating to the purchase of such energy services had such eligible energy user purchased the energy services directly from the utility and the eligible public utility service charges relating to the purchase of such energy services actually charged to such eligible energy user by such public utility service for actual purchases of energy services from such public utility service; except that (A) in no event shall the amount of such special rebate exceed the amount of the special rebate to which such eligible energy user would have been entitled pursuant to the schedule contained in paragraph four of this subdivision had such eligible energy user purchased the energy services directly from the utility at the price charged by such utility, and (B) for any monthly billing period where the calculation of such special rebate results in a negative number, the amount of such special rebate shall be deemed to be zero.
+
+      (ii) where, pursuant to a written agreement between a public utility service and the power authority of the state of New York, such public utility service (A) sells energy services to an eligible energy user that has been individually approved by such power authority and certified pursuant to subdivision (c) of this section after October thirty-first, two thousand, or (B) sells energy services to a qualified eligible energy user that has been individually approved by such power authority and certified pursuant to subdivision (c) of this section prior to November first, two thousand, such special rebate shall be the product of the applicable percentage for special rebates specified in the schedule contained in paragraph four of this subdivision and the eligible public utility service charges for such energy services.
+
+      (iii) a public utility service that sells energy services to a vendor of energy services shall be required to make a discount to such vendor of energy services equal to the sum of the special rebates certified to such public utility service by such vendor as having been made by such vendor to eligible energy users or qualified eligible energy users to which such vendor of energy services has resold such energy services in accordance with subparagraphs (i) through (iii) of paragraph three of this subdivision.
+
+   (3) Vendors of energy services may elect to provide a special rebate against an eligible energy user's, qualified eligible energy user's or on-site cogenerator's bill for energy services as follows:
+
+      (i) in the case of a vendor of energy services that sells energy services provided by a utility to an eligible energy user, such special rebate shall be the product of the applicable percentage specified for a special rebate in the schedule contained in paragraph four of this subdivision and the eligible charges for such sales of energy services made by such vendor of energy services.
+
+      (ii) in the case of a vendor of energy services that delivers natural gas to an on-site cogenerator that is other than a clean on-site cogenerator and that uses such gas to produce electricity used by an eligible energy user, which cogenerator and user are certified after June thirtieth, two thousand three, such special rebate shall be equal to the product of the applicable percentage specified in the schedule contained in paragraph four of this subdivision and the eligible on-site cogenerator charges for the energy services related to such delivery of such gas.
+
+      (iii) in the case of a vendor of energy services that sells energy services provided by a public utility service to a qualified eligible energy user that was certified prior to November first, two thousand, or to an eligible energy user that was certified after October thirty-first, two thousand, such special rebate shall be the product of the applicable percentage specified for a special rebate in the schedule contained in paragraph four of this subdivision and the eligible public utility service charges for sales of energy services made by such vendor of energy services.
+
+   (4) For purposes of determining special rebates for energy services relating to electricity and natural gas under the provisions of this subdivision, the applicable percentages are as follows:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Months Following Certification
+      - Applicable % for Natural Gas
+      - Applicable % for Electricity
+    * - first through ninety-sixth
+      - 35% 
+      - 45% 
+    * - ninety-seventh through one hundred eighth 
+      - 28% 
+      - 36% 
+    * - one hundred ninth through one hundred twentieth
+      - 21% 
+      - 27% 
+    * - one hundred twenty-first through one hundred thirty-second
+      - 14% 
+      - 18% 
+    * - one hundred thirty-third through one hundred forty-fourth
+      -  7% 
+      -  9% 
+    * - 
+      - 
+      - 
+~
+
+
+
+ 
+
+; provided, however, that the commissioner of the department of small business services may increase such percentages at the commissioner's discretion in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users.
+
+   (5) A utility that delivers natural gas to an on-site cogenerator that produces electricity for an eligible energy user, which cogenerator and user are certified before July first, two thousand three, or to a clean on-site cogenerator that produces electricity for an eligible energy user, shall be required to make special rebates against the energy bill rendered to such on-site cogenerator or clean on-site cogenerator by such utility for the sale or delivery, or both, of such gas in the amount or amounts derived by taking the product of a base adjustment multiplied by an eligibility factor, multiplied by the number of kilowatt hours of electricity produced by such on-site cogenerator or clean on-site cogenerator and used by such eligible energy user during the billing period, excluding charges for natural gas used to generate electricity used for heating any premises or by any energy user not located on the same site, any special charges on such bill, including but not limited to, collection charges, late payment charges, excess distribution charges, and charges for energy which is resold; where the base adjustment shall equal three cents increased by nine one-hundredths cent each January first occurring after December thirty-first, nineteen hundred eighty-seven, and ending on June thirtieth, two thousand three, and the eligibility factor shall equal one hundred percent during the first eight years after initial certification as an eligible energy user as defined in paragraphs one and two of subdivision (d) of section 22-601 of this chapter, eighty percent during the ninth such year, sixty percent during the tenth such year, forty percent during the eleventh such year and twenty percent during the twelfth and final such year, such years to be calculated in accordance with the provisions of this section, provided that the number of kilowatt hours on which the total of the special rebates payable to a clean on-site cogenerator is based in any year pursuant to this paragraph shall not exceed thirteen million one hundred forty thousand.
+
+   (6) Notwithstanding any provision of this subdivision, the special rebates and discounts provided by the Long Island Power Authority, or its subsidiary, pursuant to this subdivision shall not exceed the amount of the payment made by or on behalf of such authority to the city of New York as a payment that is equivalent to the tax imposed by such city pursuant to chapter eleven of title eleven of the code. Special rebates and discounts shall be reduced and/or allocated proportionate to the benefit they would otherwise be eligible for among eligible energy users, public utility services, vendors of energy services, and on-site cogenerators where necessary to comply with this paragraph pursuant to rules of the commissioner of the department of small business services.
+
+   (7) Notwithstanding any provisions of this subdivision, special rebates and discounts shall not exceed ten thousand dollars per year per employee or full-time equivalent with respect to applications certified pursuant to this chapter after June thirtieth, two thousand three.
+
+(b) Eligible energy users meeting the criteria in paragraph one of subdivision (d) and qualified eligible energy users meeting the criteria in paragraph one of subdivision (r) of section 22-601 of this chapter shall be eligible for special rebates for a period not to exceed one hundred forty-four months calculated from the beginning of the month immediately following their date of certification of eligibility. Eligible energy users meeting the criteria of paragraph two of subdivision (d) of section 22-601 of this chapter shall be eligible for special rebates for a period calculated from the beginning of the month immediately following their date of certification for so long as they remain in occupancy in the specially eligible premises, but not beyond the period of one hundred forty-four months from the beginning of the month immediately following the date of certification of the first eligible energy user occupying such specially eligible premises. The amounts of rebates made to such an eligible energy user meeting the criteria of such paragraph two shall be determined in accordance with the schedule contained in paragraph four of subdivision (a) of this section as if such eligible energy user had been certified at the same time as such first eligible energy user was certified. A qualified eligible energy user that takes occupancy of targeted eligible premises shall be eligible for special rebates for a period calculated from the beginning of the month immediately following its date of certification as a qualified eligible energy user for so long as it remains in occupancy in the targeted eligible premises, but not beyond the period of one hundred forty-four months from the beginning of the month immediately following the date of certification of the first qualified eligible energy user occupying such targeted eligible premises. The amounts of rebates made to a qualified eligible energy user that takes occupancy of targeted eligible premises shall be determined in accordance with the schedule contained in paragraph four of subdivision (a) of this section as if such qualified eligible energy user had been certified at the same time as such first qualified eligible energy user was certified. An on-site cogenerator or clean on-site cogenerator shall be eligible for special rebates for a period not to exceed the period during which the eligible energy user served by such on-site cogenerator or clean on-site cogenerator would have been eligible for a special rebate under the provisions of this subdivision had it purchased energy services directly from a utility.
+
+(c) (1) No eligible energy user, qualified eligible energy user, on-site cogenerator, clean on-site cogenerator or special eligible energy user shall receive a rebate pursuant to this chapter until it has obtained a certification as an eligible energy user, qualified eligible energy user, on-site cogenerator, clean on-site cogenerator or special eligible energy user, respectively, from the commissioner of small business services. No such certification for a qualified eligible energy user shall be issued on or after July first, two thousand three. No such certification of any other eligible energy user, on-site cogenerator or clean on-site cogenerator shall be issued on or after July first, two thousand twenty-three. The commissioner of small business services, after notice and hearing, may revoke a certification issued pursuant to this subdivision where it is found that eligibility criteria have not been met or that compliance with conditions for continued eligibility has not been maintained. The corporation counsel may maintain a civil action to recover an amount equal to any benefits improperly obtained.
+
+   (2) A utility and a vendor of energy services shall keep records of all transactions subject to this article and make such records available to the department of small business services.
+
+(d) (1)    Utilities subject to the provisions of subdivision (a) of this section shall reduce each bill for energy services or natural gas for each eligible energy user, vendor of energy services, on-site cogenerator or clean on-site cogenerator as follows:
+
+      (i) a bill for the sale and delivery of natural gas rendered to an on-site cogenerator or clean on-site cogenerator entitled to a special rebate pursuant to the provisions of paragraph five of subdivision (a) of this section shall be reduced by the full amount of the special rebate that shall have accrued for the period covered by each such bill;
+
+      (ii) a bill for energy services rendered to any other eligible energy user or on-site cogenerator shall be reduced by the full amount of the special rebate that shall have accrued for the period covered by each such bill.
+
+      (iii) a bill for energy services rendered to a vendor of energy services that has provided a special rebate to an eligible energy user or on-site cogenerator shall be reduced by such utility in accordance with paragraph three of subdivision (a) of this section by the aggregate amount of all such special rebates;
+
+      (iv) provided, however, such utility shall not be required to provide a special rebate or discount in an amount that exceeds the amount of such bill for the sale and delivery of natural gas rendered to an on-site cogenerator or clean on-site cogenerator entitled to a special rebate pursuant to the provisions of paragraph five of subdivision (a) of this section or, in the case of any other eligible energy user or on-site cogenerator, the amount of such bill for energy services, and provided, further, that no utility subject to the provisions of subdivision (a) of this section shall be required to carry forward on its books and records any special rebate or discounts not made in accordance with this sentence to such bills for subsequent periods. Such discount shall be made within four months from the time certification of special rebates is made in accordance with subparagraph (iii) or (iv) of paragraph one of subdivision (a) of this section. Such amount shall be separately stated and shown on each bill.
+
+   (2) A public utility service that provides special rebates for eligible energy users or qualified eligible energy users shall reduce each bill rendered to each such user by the full amount of the special rebate that shall have accrued for the period covered by each such bill in accordance with paragraph two of subdivision (a) of this section. Such amounts shall be separately stated and shown on such bills.
+
+   (3) Each such vendor of energy services that has elected to provide special rebates for eligible energy users, qualified eligible energy users or on-site cogenerators shall reduce each bill rendered to each such energy user or cogenerator by the full amount of the special rebate that shall have accrued for the period covered by each such bill in accordance with paragraph three of subdivision (a) of this section. Such amounts shall be separately stated and shown on such bills.
+
+(e) The commissioner of small business services shall, for the purpose of calculating eligible charges, eligible public utility service charges and eligible on-site cogenerator charges, promulgate rules to determine that portion of such charges that shall be deemed attributable to energy services or natural gas used for heating the premises. He or she shall, in addition, promulgate any other rules and regulations necessary to effectuate the purposes of this chapter, including rules to determine the extent to which charges are eligible charges, eligible public utility service charges or eligible on-site cogenerator charges and rules to provide for such administrative charges or fees as are necessary to defray expenses in administering the special rebates and discounts provided pursuant to this chapter.
+
+
+
+
+
+
+
+
+*§ 22-603 Construction.* ::
+
+
+Nothing contained in this title shall be construed as reducing the amount of a receipt for sales tax purposes under any of the sales taxes imposed or authorized by article twenty-eight or twenty-nine of the tax law, or as reducing the gross income of the gross operating income subject to tax pursuant to chapter eleven of title eleven of this code. The burden of establishing eligibility to receive the benefits of this chapter shall rest with the party claiming such benefits.
+
+
+
+
 Chapter 6-B: Relocation and Employment Assistance Program
 --------------------------------------------------
 
@@ -2734,313 +2734,6 @@ Chapter 6-d: Industrial Business Zones
    (5) Any land to be included in an industrial business zone shall be designated as M-1, M-2, or M-3 pursuant to the zoning resolution of the city of New York in effect at the time of designation.
 
    (6) For the purposes of this subdivision, the term "industrial business zone tax credit" means an industrial business zone tax credit, as provided in subdivision (n) of section 11-503 or subdivision seventeen-b of section 11-604 of this code.
-
-
-
-
-Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
---------------------------------------------------
-
-
-
-
-**Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
-
-
-
-*§ 22-801 Definitions.* ::
-
-
-"Lobbying"or "Lobbying activities" shall mean "lobbying" or "lobbying activities" as defined in section 3-211 of this code.
-
-"Person or organization" shall be construed not to include the not-for-profit corporation under contract with the city to provide or administer economic development benefits on behalf of the city.
-
-
-
-
-
-
-*§ 22-802 Reporting of lobbying activities.* ::
-
-
-a. A not-for-profit corporation of which a majority of its members are appointed by the mayor that is under contract with the city to provide or administer economic development benefits on behalf of the city shall be required to submit to the council quarterly reports identifying:
-
-   1. the contracted entity's retention or designation of a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and
-
-   2. the contracted entity's making or incurring an expenditure to, or on behalf of, a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board.
-
-b. Such reports need not identify:
-
-   1. any officer or employee of the city of New York or of such contracted entity and
-
-   2. any person or organization retained or designated by the contracted entity to provide advice and analysis directly applying any urban planning, urban design, engineering, scientific or similar technical discipline, or any legal, accounting, or other similar professional discipline.
-
-c. Each report shall set forth:
-
-   1. the name, address and telephone number of each person or organization so retained or designated;
-
-   2. a description of the subject or subjects on which the person or organization lobbied, including identification of the local law, resolution, real property or other matter on which the person or organization lobbied;
-
-   3. the person, and where applicable, the body before which the person or organization lobbied and the dates on which such lobbying occurred; and
-
-   4. the compensation paid or owed by the contracted entity to a person or organization for the purpose of engaging in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and any expenses expended, received or incurred by the person or organization for the purpose of lobbying before such bodies.
-
-d. The first such submission shall be provided no later than December 31, 2013 and shall cover the period from November 1, 2012 through November 30, 2013. All reports shall be filed thereafter within thirty days after the end of each quarter and simultaneously made available in a commonly available non-proprietary database format on the website of the contracted entity or, if no such website is maintained, on the website of the city of New York.
-
-
-
-
-
-
-
-**Subchapter 2: Contract Requirements for Entities Contracted to Provide Economic Development Benefits on Behalf of the City**
-
-
-
-*§ 22-821 Definitions.* ::
-
-
-As used in this subchapter:
-
-Affiliate. The term “affiliate” means (i) a business entity in which more than 50 percent is owned by, or is subject to a power or right of control of, or is managed by, a person that is a party to an active project agreement, or (ii) a person that owns more than 50 percent of a business entity that is party to an active project agreement or that exercises a power or right of control of a person that is a party to an active project agreement.
-
-Commissioner. The term “commissioner” means the commissioner of small business services.
-
-Contracted entity. The term “contracted entity” means a local development corporation or other not-for-profit corporation, a majority of whose members are appointed by the mayor, that contracts with the city to provide or administer economic development benefits on behalf of the city and expending city capital appropriations in connection therewith, except that such term does not include the Brooklyn navy yard development corporation or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard.
-
-Covered contract. The term “covered contract” means any contract under which a contracted entity is engaged in providing or administering economic development benefits on behalf of the city.
-
-Department. The term “department” means the department of small business services.
-
-Project agreement. The term “project agreement” means the contract or agreement providing assistance, as such assistance is described by subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to any project carried out pursuant to a covered contract.
-
-
-
-
-
-
-
-
-*§ 22-822 Public comment before project approval.* ::
-
-
-In each covered contract executed on or after the effective date of this section, the commissioner shall require, for each project that is required to be included in the report required by section 22-823, that the contracted entity, unless chapter 8 of the charter or any other law requires such project to be submitted for consideration to a community board, borough board or the council before commencement, shall:
-
-a. Prepare a description of such project, including an estimated project budget and an explanation of how any funding, benefits or financial assistance provided or allocated by the city for such project will be used and specifying a contact person to whom the speaker of the council may submit recommendations regarding the project within 30 days of receiving the description; and
-
-b. Submit the description required by subdivision a to the speaker of the council at the following times:
-
-   1. In the case of a project as to which the charter or any other law requires that a public hearing be held, at least 30 days before such hearing; and
-
-   2. In the case of a project as to which neither the charter nor any other law requires that any public hearing be held, at least 30 days before the project agreement is executed.
-
-
-
-
-
-
-
-
-*§ 22-823 Annual report.* ::
-
-
-a. Report required. In each covered contract executed on or after the effective date of this section, the commissioner shall require the contracted entity to submit each year to the mayor, the council, the city comptroller, the public advocate, the borough presidents and community planning boards a report for the prior fiscal year about projected and actual jobs created and retained in connection with projects described by this section.
-
-b. Projects receiving financial assistance in excess of $150,000.
-
-   1. (a) This subdivision applies to projects undertaken by a contracted entity for the purpose of creating or retaining jobs and in connection with which a person was provided project assistance in the form of a loan, grant or tax benefit valued in excess of $150,000, regardless of whether such project involves the expenditure of city capital appropriations.
-
-      (b) For purposes of this subdivision, “assistance” to be reported includes (i) a loan, grant or tax benefit, (ii) savings due to payments in lieu of taxes, calculated as the difference between such payments and the property tax that would have been owed without an agreement to make such payments, (iii) waived mortgage recording fees, (iv) related property tax abatements, (v) sales tax abatements, (vi) energy benefits and (vii) an estimated range of costs to the city of forgone income tax revenues due to the issuance of tax exempt bonds;
-
-   2. Except as otherwise provided in this section, the annual report required by this section shall contain for each such project the following information for the prior fiscal year, including an indication of the sources of all data relating to numbers of jobs:
-
-      (a) The project’s name;
-
-      (b) The project’s location;
-
-      (c) The time period during which such project is to receive any assistance from the contracted entity;
-
-      (d) The type of such assistance provided, including, where applicable, the name of any program through which such assistance is provided;
-
-      (e) (1) For projects that involve a specified limit on cumulative assistance available over the duration of the project agreement, a statement of such limit; and
-
-         (2) For projects that do not involve such a specified limit, the estimated amount of assistance over the duration of such project agreement, the amount of tax exempt bonds issued during the reporting year and the range of potential costs of such bonds;
-
-      (f) The amount of assistance received for the project during the reporting year, the amount of such assistance received since execution of the project agreement, and the present value of future assistance estimated to be given for the duration of the project agreement;
-
-      (g) The total number of employees at all sites covered by the project on the date of execution of the project agreement, including the number of permanent full-time jobs, the number of permanent part-time jobs, the number of full-time equivalents, and the number of contract employees if, pursuant to the project agreement, contract employees may be included in determining compliance with job creation or retention requirements;
-
-      (h) (1) The number of jobs that each person receiving assistance from such contracted entity is contractually obligated to retain and create over the duration of the project agreement or, in the case of a project agreement that contains annual job retention or creation requirements, the annual job retention or creation requirement for the reporting year;
-
-         (2) The base employment level such entity agrees to retain over the duration of the project agreement;
-
-         (3)  Any job creation scheduled to take place as a result of such project; and
-
-         (4) Where applicable, any job creation targets for the reporting year;
-
-      (i) For the reporting year:
-
-         (1) The total number of employees at all sites covered by the project, including the number of permanent full-time jobs, the number of permanent part-time jobs, and the number of contract jobs; and
-
-         (2) For each person that receives assistance from the contracted entity in connection with such project and employs 250 or more persons, (i) the percentage of total employees within the “exempt” and “non-exempt” categories, respectively, as those terms are defined under the United States fair labor standards act, and (ii) for employees within the “non-exempt” category, the percentage of employees earning $25,000 per year or less, the percentage of employees earning more than $25,000 per year but less than or equal to $40,000 per year and the percentage of employees earning more than $40,000 per year but less than or equal to $50,000 per year;
-
-      (j) The estimated amount of retained or additional tax revenue derived from the project, excluding real property tax revenue other than revenue generated by property tax improvements,
-
-         (1) Cumulatively to the date that the annual report is prepared;
-
-         (2) For the reporting year, and
-
-         (3) Projected to be derived over the duration of the project agreement;
-
-      (k) A statement of whether, throughout the reporting year, each person that received assistance from the contracted entity in connection with the project offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person at all sites covered by the project;
-
-      (l) For the reporting year, for employees at each site covered by the project, including all permanent and temporary full-time employees, permanent and temporary part-time employees, and contract employees, the number and percentage of employees earning less than a living wage, as that term is defined in section 6-134, disaggregated by job category, including industrial jobs, food service jobs, retail jobs and other jobs; except that, for projects for which assistance was received prior to July 1, 2012, the information required by this subparagraph need only be provided to the extent it can be reasonably obtained from available sources, including the city and the person to which such assistance was provided;
-
-      (m) For the reporting year, with respect to the persons receiving assistance for such project and their affiliates, the number and percentage of employees at all sites covered by the project agreement who reside in the city;
-
-      (n) A list of all commercial expansion program benefits, industrial and commercial incentive program benefits, and industrial and commercial abatement program benefits received by persons receiving assistance or their affiliates through the project agreement and relocation and employment assistance program benefits such persons and affiliates received and the estimated total value of each such benefit for the reporting year;
-
-      (o) A statement of compliance indicating whether, during the reporting year, the contracted entity has reduced, cancelled or recaptured assistance provided to a person in connection with such project, and, if so, the total amount of such reductions, cancellations or recaptures, and any penalty assessed and the reasons therefor.
-
-c. Projects receiving financial assistance of $150,000 or less. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs that do not meet the financial threshold in subparagraph (a) of paragraph 1 of subdivision b, such report shall include, at a minimum:
-
-   1. For such projects in aggregate, the information required by subparagraphs (g), (h), (i), (j), (l), (m) and (n) of paragraph 2 of subdivision b; and
-
-   2. The number of persons that received a loan, grant or tax benefit from such contracted entity in connection with such a project and that offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person employed at any project site throughout the prior fiscal reporting year.
-
-d. Sales or leases of city-owned land. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs (i) for which a contracted entity sold or leased city-owned land to a person, and (ii) that are estimated to create or retain at least 25 jobs, regardless of whether such project involves the expenditure of city capital appropriations, the annual report shall include the following information:
-
-   1. A list of each lease that has not terminated before the reporting year commences, regardless of when such lease commenced, and for each such lease, any terms or restrictions on the use of the leased land, including the rent received for such land in the reporting year;
-
-   2. A list of each sale of city-owned land that closed within 15 years of the report, and for each such sale, any terms or restrictions on the use of the sold land, including the price for which such land was sold and any terms or restrictions on the resale of such land; except that such list need not include sales that closed before January 1, 2005.
-
-e. Years covered. Except as provided in subdivision d, the report shall include each project from the date the project agreement is executed and any other documents applicable to such project through and including the final year that the contracted entity provides assistance for such project.
-
-f. Job-creation projects under prior rules.
-
-   1. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs and for which the contracted entity provided a loan, grant or tax or other benefit before July 1, 2005, the information required by this section need only be provided to the extent it can be reasonably derived from available sources, including the city and persons who received such assistance.
-
-   2. For projects that such contracted entity undertakes for the purpose of creating or retaining jobs and for which the project agreement was executed before June 6, 2011, the annual report need not contain information that persons were not required to report to the contracted entity at the time that the project agreement and any other documents applicable to the project were executed.
-
-g. Submission and publication.
-
-   1.  The report required by this section shall be submitted by January 31 of each year and shall bear the date that such report was submitted. Such report shall include a statement explaining any delay in its submission past the required due date.
-
-   2. Upon its submission, the report shall simultaneously be made available in electronic form on the website of the contracted entity or, if no such website is maintained, on the website of the city. The report shall simultaneously be made available in a non-proprietary format that permits automated processing on the website of the contracted entity or, if no such website is maintained, on the website of the city. Such non-proprietary database format need not include terms and restrictions on the use or resale of city-owned land.
-
-h. Methodology study. By March 1, 2007, and by March 1 of every second year thereafter, the contracted entity, upon receipt of recommendations from the speaker of the council and other persons selected jointly by the mayor and the speaker of the council who have extensive experience and knowledge in the fields of finance, economics, and public policy analysis, shall evaluate the methodology employed for making the determinations required for the report and shall generate recommendations, where appropriate, on the methodology for evaluating projects receiving economic development subsidies. The commissioner shall present to the mayor and the speaker of the council a report containing such recommendations no later than October 1 of every year in which such evaluation is required.
-
-
-
-
-
-
-
-
-*§ 22-824 Requirements for a contracted entity administering economic development benefits.* ::
-
-
-a. In each covered contract with a contracted entity executed on or after the effective date of this section, the commissioner shall require, for any project that must be reported on in the annual report required by section 22-823, that:
-
-   1. where such contracted entity administers assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to a person in connection with such project, such contracted entity, no later than 30 days before the commencement of such assistance, submit to the department and the speaker of the council an impact statement including, at a minimum, an estimate of the fiscal impact of such assistance upon the revenues and expenditures of the city during (i) the fiscal year in which such assistance commences, (ii) the succeeding fiscal year, and (iii) the first fiscal year in which the full fiscal impact of the economic development project is expected to occur, and job creation estimates for the first fiscal year in which the full fiscal impact of the economic development project is expected to occur; and
-
-   2. on the first business day of every second month, such contracted entity deliver to the mayor and speaker of the council and post on the website of such contracted entity, or, if no such website is maintained, the commissioner shall post on the department’s website, a report on projects for which assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, has been administered by such contracted entity and which are in default of one or more material terms of the project agreement under which such assistance was provided, which report shall contain: (i) descriptions of enforcement actions taken with regard to events of default as defined in such agreements, (ii) the persons against which enforcement actions have been undertaken, (iii) the number of ongoing projects outstanding, (iv) the percentage of projects with respect to which enforcement actions are being undertaken as compared against the number of ongoing projects outstanding, (v) events of default under such agreements for which no enforcement actions are currently contemplated, and (vi) the amounts recovered through enforcement actions.
-
-b. Information provided to the department pursuant to subdivision a of this section shall constitute a public data set for purposes of chapter 5 of title 23 of the code.
-
-
-
-Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provides: "For purposes of this local law, a contracted entity shall not include the Brooklyn navy yard development corporation, or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard."
-
-
-
-
-
-
-*§ 22-825 Affordable retail space at covered development projects.* ::
-
-
-a. Definitions. For purposes of this section, the following terms have the following meanings:
-
-   Adjusted by the CPI. The term “adjusted by the CPI” means, commencing January 1, 2021, the amount so adjusted shall be adjusted based upon the percentage change, if any, in the consumer price index for all urban consumers published by the bureau of labor statistics of the United States department of labor for the geographic region New York - Newark - Jersey City (1982-84 = 100), or any successor index thereto, from January 1, 2021, to January 1 of the year in which such adjustment is made.
-
-   Affordable housing project. The term “affordable housing project” means any project for the improvement or development of real property that contains a multiple dwelling where no less than 30 percent of the residential units are subject to a regulatory agreement, restrictive declaration or similar written instrument requiring that such units be maintained as affordable units for a period of no less than 30 years.
-
-   Affordable retail space. The term “affordable retail space” means a portion of space in a covered development project that is available for lease to a retail business at a below market lease rate.
-
-   Assisted living facility. The term “assisted living facility” means any facility utilized to provide or support assisted living, home care or hospice services licensed or certified pursuant to the public health law, the social services law or the mental hygiene law.
-
-   Chain business. The term “chain business” means an establishment that is part of a group of establishments that share a common owner or principal who owns at least 30 percent of each establishment in such group and such establishments (i) engage in the same business or (ii) operate pursuant to franchise agreements with the same franchisor as such term is defined in section 681 of the general business law.
-
-   Consumer goods. The term “consumer goods” means products that are primarily for personal, household or family purposes, including but not limited to small appliances, clothing, electronics, groceries and household items.
-
-   Consumer services. The term “consumer services” means services that are primarily for personal, household or family purposes, including but not limited to food and drink establishments, personal services, medical services, repair services or household services.
-
-   Covered developer. The term “covered developer” means any person receiving financial assistance for a covered development project, unless such person is a not-for-profit corporation with an annual gross revenue of less than $7,500,000, adjusted by the CPI, in each of the last five years.
-
-   Covered development project. The term “covered development project” means a project for the improvement or development of real property pursuant to a project agreement for the purpose of economic development, job retention or growth, or other similar purposes where such project has received or is expected to receive financial assistance valued at no less than $15,000,000, adjusted by the CPI, and such project is expected to be greater than 750,000 square feet and to contain space available for lease to a retail business, except that a “covered development project” does not include any project located within an industrial business zone as such term is defined in section 22-626, or any project for a human or client services facility, a production facility, an affordable housing project, a life sciences facility, a photovoltaic system project, a health care facility or an assisted living facility, as such terms are defined in this section.
-
-   Financial assistance. The term “financial assistance” means any loans, grants, tax credits, tax exemptions, tax abatements, subsidies, mortgages, debt forgiveness, land conveyances for less than appraised value, or other thing of value allocated, conveyed or expended by the city or by a contracted entity for a covered development project, other than as-of-right assistance, tax abatements or benefits, including but not limited to, benefits approved in accordance with sections 421-a or 489 of the New York state real property tax law, or any assistance provided in a project agreement, the amount of which is based upon an evaluation of as-of-right assistance, tax abatements or benefits for which the covered developer would have been eligible.
-
-   Health care facility. The term “health care facility” means a hospital, nursing home or residential health care facility as such terms are defined in section 2801 of the public health law, or any facility or institution certified under article 31 of the mental hygiene law.
-
-   Human or client services facility. The term “human or client services facility” means real property used for the provision of human or client services pursuant to a contract with any city, state or federal agency, public authority or public benefit corporation.
-
-   Life sciences facility. The terms “life sciences facility” means real property used for research, development, technology transfer and commercialization related to any life science field.
-
-   Neighborhood. The term “neighborhood” means the geographical area surrounding a covered development project up to one-quarter of a mile from such project.
-
-   Neighborhood retail needs assessment. The term “neighborhood retail needs assessment” means an assessment of the retail environment of a neighborhood, which shall include, but need not be limited to an examination of:
-
-      (a) The neighborhood’s existing retail stores, vacancy rates for property that could be leased for retail businesses and market lease rates for such property;
-
-      (b) The presence of chain businesses in the neighborhood;
-
-      (c) The level of retail diversity and the types of retail businesses needed or lacking in the neighborhood; and
-
-      (d) Any community feedback received relating to the covered development project, including community needs and priorities.
-
-   Photovoltaic system project. The term “photovoltaic system project” means a project to construct, maintain, alter or operate a photovoltaic system that is connected to the electrical system and operated in conjunction with the transmission and distribution facilities of an electric corporation.
-
-   Production facility. The term “production facility” means real property where no less than 30 percent of the square footage of such property is utilized for manufacturing, warehousing or distribution.
-
-   Project agreement. The term “project agreement” means a written agreement between the city or a contracted entity and a covered developer providing for financial assistance for a covered development project, provided that such agreement is administered by a contracted entity.
-
-   Retail business. The term “retail business” means any entity that is engaged primarily in the sale of consumer goods or consumer services at a store within the city, but does not include a chain business.
-
-b. Affordable retail space at covered development projects required.
-
-   1. Prior to execution of a project agreement for a covered development project, a determination shall be made regarding whether affordable retail space for retail businesses must be provided in such project to meet an unmet need for consumer goods and consumer services in such neighborhood. Such determination shall be based upon a neighborhood retail needs assessment and shall be made by the party entering into such project agreement with the covered developer or by the designee of such party.
-
-   2. Where such party or such party’s designee determines, pursuant to paragraph 1, that affordable retail space in a covered development project must be provided, such party or such party’s designee shall establish the minimum percentage of affordable retail space that such project shall include, the maximum below market lease rate for which such affordable retail space may be leased, and the eligible type of retail business that may lease such space, based on a consideration of the following factors:
-
-      (a) Retail diversity and unmet needs for consumer goods and consumer services in the neighborhood in which such covered development project is located;
-
-      (b) Market lease rates for retail businesses in such neighborhood; and
-
-      (c) Commercial vacancy rates in such neighborhood.
-
-   3. Such party or such party’s designee may determine that a requirement for affordable retail space does not apply to a covered development project where such party or such party’s designee determines that such requirement would substantially hinder the provision of any community program, service or benefit required by the project agreement.
-
-c. Enforcement.
-
-   1. Within 30 days after the date by which 80 percent of space available for rent to a retail business in a covered development project has been leased, the covered developer for such project shall certify to the contracted entity administering the project agreement that such developer is in compliance with the terms of the project agreement relating to the provision of affordable retail space.
-
-   2. A contracted entity shall investigate any allegations that a covered developer has failed to comply with the terms of the project agreement relating to the provision of affordable retail space.
-
-   3. A finding that a covered developer has failed to provide affordable retail space as required by the project agreement may result in any of the following actions by the contracted entity administering such project agreement:
-
-      (a) Entering into an agreement with the covered developer requiring such developer to fulfill such terms;
-
-      (b) Finding the covered developer to be in default of the project agreement;
-
-      (c) Recovering from the covered developer part or all of the financial assistance disbursed or provided to such developer, including but not limited to requiring repayment of any taxes or interest abated or deferred; or
-
-      (d) Reporting such failure by the covered developer in the report required by subdivision a of section 22-824.
-
-
-
-Editor's note: Section 3 of L.L. 2020/035 provides: "This local law does not apply to any project agreement executed prior to the effective date of this local law, except that any extension, renewal, amendment or modification of such a project agreement occurring on or after the effective date of this local law that results in the grant of any additional financial assistance to the covered developer shall subject the covered development project to the requirements of this local law." Section 4 of L.L. 2020/035 provides: "This local law takes effect 180 days after it becomes law and expires and is deemed repealed seven years after it becomes law."
 
 
 
@@ -7940,6 +7633,313 @@ a. Pursuant to the provisions of article 18-B of the general municipal law, a bu
 b. By a resolution of the South Jamaica empire zone administrative board, dated December 9, 2008, such administrative board, in accordance with the provisions of article 18-B of the general municipal law, supported the designation of Epic Pharma LLC, having federal employer identification number 32-0254130 and located at 227-15 North Conduit Avenue, in the borough of Queens, as a regionally significant project.
 
 c. Pursuant to the provisions of article 18-B of the general municipal law, such regionally significant project shall be as set forth as follows: Epic Pharma LLC, having federal employer identification number 32-0254130 and located at 227-15 North Conduit Avenue, also known as Block: 13193 Lot: 170, in the borough of Queens.
+
+
+
+
+Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
+
+
+
+*§ 22-801 Definitions.* ::
+
+
+"Lobbying"or "Lobbying activities" shall mean "lobbying" or "lobbying activities" as defined in section 3-211 of this code.
+
+"Person or organization" shall be construed not to include the not-for-profit corporation under contract with the city to provide or administer economic development benefits on behalf of the city.
+
+
+
+
+
+
+*§ 22-802 Reporting of lobbying activities.* ::
+
+
+a. A not-for-profit corporation of which a majority of its members are appointed by the mayor that is under contract with the city to provide or administer economic development benefits on behalf of the city shall be required to submit to the council quarterly reports identifying:
+
+   1. the contracted entity's retention or designation of a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and
+
+   2. the contracted entity's making or incurring an expenditure to, or on behalf of, a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board.
+
+b. Such reports need not identify:
+
+   1. any officer or employee of the city of New York or of such contracted entity and
+
+   2. any person or organization retained or designated by the contracted entity to provide advice and analysis directly applying any urban planning, urban design, engineering, scientific or similar technical discipline, or any legal, accounting, or other similar professional discipline.
+
+c. Each report shall set forth:
+
+   1. the name, address and telephone number of each person or organization so retained or designated;
+
+   2. a description of the subject or subjects on which the person or organization lobbied, including identification of the local law, resolution, real property or other matter on which the person or organization lobbied;
+
+   3. the person, and where applicable, the body before which the person or organization lobbied and the dates on which such lobbying occurred; and
+
+   4. the compensation paid or owed by the contracted entity to a person or organization for the purpose of engaging in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and any expenses expended, received or incurred by the person or organization for the purpose of lobbying before such bodies.
+
+d. The first such submission shall be provided no later than December 31, 2013 and shall cover the period from November 1, 2012 through November 30, 2013. All reports shall be filed thereafter within thirty days after the end of each quarter and simultaneously made available in a commonly available non-proprietary database format on the website of the contracted entity or, if no such website is maintained, on the website of the city of New York.
+
+
+
+
+
+
+
+**Subchapter 2: Contract Requirements for Entities Contracted to Provide Economic Development Benefits on Behalf of the City**
+
+
+
+*§ 22-821 Definitions.* ::
+
+
+As used in this subchapter:
+
+Affiliate. The term “affiliate” means (i) a business entity in which more than 50 percent is owned by, or is subject to a power or right of control of, or is managed by, a person that is a party to an active project agreement, or (ii) a person that owns more than 50 percent of a business entity that is party to an active project agreement or that exercises a power or right of control of a person that is a party to an active project agreement.
+
+Commissioner. The term “commissioner” means the commissioner of small business services.
+
+Contracted entity. The term “contracted entity” means a local development corporation or other not-for-profit corporation, a majority of whose members are appointed by the mayor, that contracts with the city to provide or administer economic development benefits on behalf of the city and expending city capital appropriations in connection therewith, except that such term does not include the Brooklyn navy yard development corporation or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard.
+
+Covered contract. The term “covered contract” means any contract under which a contracted entity is engaged in providing or administering economic development benefits on behalf of the city.
+
+Department. The term “department” means the department of small business services.
+
+Project agreement. The term “project agreement” means the contract or agreement providing assistance, as such assistance is described by subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to any project carried out pursuant to a covered contract.
+
+
+
+
+
+
+
+
+*§ 22-822 Public comment before project approval.* ::
+
+
+In each covered contract executed on or after the effective date of this section, the commissioner shall require, for each project that is required to be included in the report required by section 22-823, that the contracted entity, unless chapter 8 of the charter or any other law requires such project to be submitted for consideration to a community board, borough board or the council before commencement, shall:
+
+a. Prepare a description of such project, including an estimated project budget and an explanation of how any funding, benefits or financial assistance provided or allocated by the city for such project will be used and specifying a contact person to whom the speaker of the council may submit recommendations regarding the project within 30 days of receiving the description; and
+
+b. Submit the description required by subdivision a to the speaker of the council at the following times:
+
+   1. In the case of a project as to which the charter or any other law requires that a public hearing be held, at least 30 days before such hearing; and
+
+   2. In the case of a project as to which neither the charter nor any other law requires that any public hearing be held, at least 30 days before the project agreement is executed.
+
+
+
+
+
+
+
+
+*§ 22-823 Annual report.* ::
+
+
+a. Report required. In each covered contract executed on or after the effective date of this section, the commissioner shall require the contracted entity to submit each year to the mayor, the council, the city comptroller, the public advocate, the borough presidents and community planning boards a report for the prior fiscal year about projected and actual jobs created and retained in connection with projects described by this section.
+
+b. Projects receiving financial assistance in excess of $150,000.
+
+   1. (a) This subdivision applies to projects undertaken by a contracted entity for the purpose of creating or retaining jobs and in connection with which a person was provided project assistance in the form of a loan, grant or tax benefit valued in excess of $150,000, regardless of whether such project involves the expenditure of city capital appropriations.
+
+      (b) For purposes of this subdivision, “assistance” to be reported includes (i) a loan, grant or tax benefit, (ii) savings due to payments in lieu of taxes, calculated as the difference between such payments and the property tax that would have been owed without an agreement to make such payments, (iii) waived mortgage recording fees, (iv) related property tax abatements, (v) sales tax abatements, (vi) energy benefits and (vii) an estimated range of costs to the city of forgone income tax revenues due to the issuance of tax exempt bonds;
+
+   2. Except as otherwise provided in this section, the annual report required by this section shall contain for each such project the following information for the prior fiscal year, including an indication of the sources of all data relating to numbers of jobs:
+
+      (a) The project’s name;
+
+      (b) The project’s location;
+
+      (c) The time period during which such project is to receive any assistance from the contracted entity;
+
+      (d) The type of such assistance provided, including, where applicable, the name of any program through which such assistance is provided;
+
+      (e) (1) For projects that involve a specified limit on cumulative assistance available over the duration of the project agreement, a statement of such limit; and
+
+         (2) For projects that do not involve such a specified limit, the estimated amount of assistance over the duration of such project agreement, the amount of tax exempt bonds issued during the reporting year and the range of potential costs of such bonds;
+
+      (f) The amount of assistance received for the project during the reporting year, the amount of such assistance received since execution of the project agreement, and the present value of future assistance estimated to be given for the duration of the project agreement;
+
+      (g) The total number of employees at all sites covered by the project on the date of execution of the project agreement, including the number of permanent full-time jobs, the number of permanent part-time jobs, the number of full-time equivalents, and the number of contract employees if, pursuant to the project agreement, contract employees may be included in determining compliance with job creation or retention requirements;
+
+      (h) (1) The number of jobs that each person receiving assistance from such contracted entity is contractually obligated to retain and create over the duration of the project agreement or, in the case of a project agreement that contains annual job retention or creation requirements, the annual job retention or creation requirement for the reporting year;
+
+         (2) The base employment level such entity agrees to retain over the duration of the project agreement;
+
+         (3)  Any job creation scheduled to take place as a result of such project; and
+
+         (4) Where applicable, any job creation targets for the reporting year;
+
+      (i) For the reporting year:
+
+         (1) The total number of employees at all sites covered by the project, including the number of permanent full-time jobs, the number of permanent part-time jobs, and the number of contract jobs; and
+
+         (2) For each person that receives assistance from the contracted entity in connection with such project and employs 250 or more persons, (i) the percentage of total employees within the “exempt” and “non-exempt” categories, respectively, as those terms are defined under the United States fair labor standards act, and (ii) for employees within the “non-exempt” category, the percentage of employees earning $25,000 per year or less, the percentage of employees earning more than $25,000 per year but less than or equal to $40,000 per year and the percentage of employees earning more than $40,000 per year but less than or equal to $50,000 per year;
+
+      (j) The estimated amount of retained or additional tax revenue derived from the project, excluding real property tax revenue other than revenue generated by property tax improvements,
+
+         (1) Cumulatively to the date that the annual report is prepared;
+
+         (2) For the reporting year, and
+
+         (3) Projected to be derived over the duration of the project agreement;
+
+      (k) A statement of whether, throughout the reporting year, each person that received assistance from the contracted entity in connection with the project offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person at all sites covered by the project;
+
+      (l) For the reporting year, for employees at each site covered by the project, including all permanent and temporary full-time employees, permanent and temporary part-time employees, and contract employees, the number and percentage of employees earning less than a living wage, as that term is defined in section 6-134, disaggregated by job category, including industrial jobs, food service jobs, retail jobs and other jobs; except that, for projects for which assistance was received prior to July 1, 2012, the information required by this subparagraph need only be provided to the extent it can be reasonably obtained from available sources, including the city and the person to which such assistance was provided;
+
+      (m) For the reporting year, with respect to the persons receiving assistance for such project and their affiliates, the number and percentage of employees at all sites covered by the project agreement who reside in the city;
+
+      (n) A list of all commercial expansion program benefits, industrial and commercial incentive program benefits, and industrial and commercial abatement program benefits received by persons receiving assistance or their affiliates through the project agreement and relocation and employment assistance program benefits such persons and affiliates received and the estimated total value of each such benefit for the reporting year;
+
+      (o) A statement of compliance indicating whether, during the reporting year, the contracted entity has reduced, cancelled or recaptured assistance provided to a person in connection with such project, and, if so, the total amount of such reductions, cancellations or recaptures, and any penalty assessed and the reasons therefor.
+
+c. Projects receiving financial assistance of $150,000 or less. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs that do not meet the financial threshold in subparagraph (a) of paragraph 1 of subdivision b, such report shall include, at a minimum:
+
+   1. For such projects in aggregate, the information required by subparagraphs (g), (h), (i), (j), (l), (m) and (n) of paragraph 2 of subdivision b; and
+
+   2. The number of persons that received a loan, grant or tax benefit from such contracted entity in connection with such a project and that offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person employed at any project site throughout the prior fiscal reporting year.
+
+d. Sales or leases of city-owned land. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs (i) for which a contracted entity sold or leased city-owned land to a person, and (ii) that are estimated to create or retain at least 25 jobs, regardless of whether such project involves the expenditure of city capital appropriations, the annual report shall include the following information:
+
+   1. A list of each lease that has not terminated before the reporting year commences, regardless of when such lease commenced, and for each such lease, any terms or restrictions on the use of the leased land, including the rent received for such land in the reporting year;
+
+   2. A list of each sale of city-owned land that closed within 15 years of the report, and for each such sale, any terms or restrictions on the use of the sold land, including the price for which such land was sold and any terms or restrictions on the resale of such land; except that such list need not include sales that closed before January 1, 2005.
+
+e. Years covered. Except as provided in subdivision d, the report shall include each project from the date the project agreement is executed and any other documents applicable to such project through and including the final year that the contracted entity provides assistance for such project.
+
+f. Job-creation projects under prior rules.
+
+   1. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs and for which the contracted entity provided a loan, grant or tax or other benefit before July 1, 2005, the information required by this section need only be provided to the extent it can be reasonably derived from available sources, including the city and persons who received such assistance.
+
+   2. For projects that such contracted entity undertakes for the purpose of creating or retaining jobs and for which the project agreement was executed before June 6, 2011, the annual report need not contain information that persons were not required to report to the contracted entity at the time that the project agreement and any other documents applicable to the project were executed.
+
+g. Submission and publication.
+
+   1.  The report required by this section shall be submitted by January 31 of each year and shall bear the date that such report was submitted. Such report shall include a statement explaining any delay in its submission past the required due date.
+
+   2. Upon its submission, the report shall simultaneously be made available in electronic form on the website of the contracted entity or, if no such website is maintained, on the website of the city. The report shall simultaneously be made available in a non-proprietary format that permits automated processing on the website of the contracted entity or, if no such website is maintained, on the website of the city. Such non-proprietary database format need not include terms and restrictions on the use or resale of city-owned land.
+
+h. Methodology study. By March 1, 2007, and by March 1 of every second year thereafter, the contracted entity, upon receipt of recommendations from the speaker of the council and other persons selected jointly by the mayor and the speaker of the council who have extensive experience and knowledge in the fields of finance, economics, and public policy analysis, shall evaluate the methodology employed for making the determinations required for the report and shall generate recommendations, where appropriate, on the methodology for evaluating projects receiving economic development subsidies. The commissioner shall present to the mayor and the speaker of the council a report containing such recommendations no later than October 1 of every year in which such evaluation is required.
+
+
+
+
+
+
+
+
+*§ 22-824 Requirements for a contracted entity administering economic development benefits.* ::
+
+
+a. In each covered contract with a contracted entity executed on or after the effective date of this section, the commissioner shall require, for any project that must be reported on in the annual report required by section 22-823, that:
+
+   1. where such contracted entity administers assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to a person in connection with such project, such contracted entity, no later than 30 days before the commencement of such assistance, submit to the department and the speaker of the council an impact statement including, at a minimum, an estimate of the fiscal impact of such assistance upon the revenues and expenditures of the city during (i) the fiscal year in which such assistance commences, (ii) the succeeding fiscal year, and (iii) the first fiscal year in which the full fiscal impact of the economic development project is expected to occur, and job creation estimates for the first fiscal year in which the full fiscal impact of the economic development project is expected to occur; and
+
+   2. on the first business day of every second month, such contracted entity deliver to the mayor and speaker of the council and post on the website of such contracted entity, or, if no such website is maintained, the commissioner shall post on the department’s website, a report on projects for which assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, has been administered by such contracted entity and which are in default of one or more material terms of the project agreement under which such assistance was provided, which report shall contain: (i) descriptions of enforcement actions taken with regard to events of default as defined in such agreements, (ii) the persons against which enforcement actions have been undertaken, (iii) the number of ongoing projects outstanding, (iv) the percentage of projects with respect to which enforcement actions are being undertaken as compared against the number of ongoing projects outstanding, (v) events of default under such agreements for which no enforcement actions are currently contemplated, and (vi) the amounts recovered through enforcement actions.
+
+b. Information provided to the department pursuant to subdivision a of this section shall constitute a public data set for purposes of chapter 5 of title 23 of the code.
+
+
+
+Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provides: "For purposes of this local law, a contracted entity shall not include the Brooklyn navy yard development corporation, or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard."
+
+
+
+
+
+
+*§ 22-825 Affordable retail space at covered development projects.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Adjusted by the CPI. The term “adjusted by the CPI” means, commencing January 1, 2021, the amount so adjusted shall be adjusted based upon the percentage change, if any, in the consumer price index for all urban consumers published by the bureau of labor statistics of the United States department of labor for the geographic region New York - Newark - Jersey City (1982-84 = 100), or any successor index thereto, from January 1, 2021, to January 1 of the year in which such adjustment is made.
+
+   Affordable housing project. The term “affordable housing project” means any project for the improvement or development of real property that contains a multiple dwelling where no less than 30 percent of the residential units are subject to a regulatory agreement, restrictive declaration or similar written instrument requiring that such units be maintained as affordable units for a period of no less than 30 years.
+
+   Affordable retail space. The term “affordable retail space” means a portion of space in a covered development project that is available for lease to a retail business at a below market lease rate.
+
+   Assisted living facility. The term “assisted living facility” means any facility utilized to provide or support assisted living, home care or hospice services licensed or certified pursuant to the public health law, the social services law or the mental hygiene law.
+
+   Chain business. The term “chain business” means an establishment that is part of a group of establishments that share a common owner or principal who owns at least 30 percent of each establishment in such group and such establishments (i) engage in the same business or (ii) operate pursuant to franchise agreements with the same franchisor as such term is defined in section 681 of the general business law.
+
+   Consumer goods. The term “consumer goods” means products that are primarily for personal, household or family purposes, including but not limited to small appliances, clothing, electronics, groceries and household items.
+
+   Consumer services. The term “consumer services” means services that are primarily for personal, household or family purposes, including but not limited to food and drink establishments, personal services, medical services, repair services or household services.
+
+   Covered developer. The term “covered developer” means any person receiving financial assistance for a covered development project, unless such person is a not-for-profit corporation with an annual gross revenue of less than $7,500,000, adjusted by the CPI, in each of the last five years.
+
+   Covered development project. The term “covered development project” means a project for the improvement or development of real property pursuant to a project agreement for the purpose of economic development, job retention or growth, or other similar purposes where such project has received or is expected to receive financial assistance valued at no less than $15,000,000, adjusted by the CPI, and such project is expected to be greater than 750,000 square feet and to contain space available for lease to a retail business, except that a “covered development project” does not include any project located within an industrial business zone as such term is defined in section 22-626, or any project for a human or client services facility, a production facility, an affordable housing project, a life sciences facility, a photovoltaic system project, a health care facility or an assisted living facility, as such terms are defined in this section.
+
+   Financial assistance. The term “financial assistance” means any loans, grants, tax credits, tax exemptions, tax abatements, subsidies, mortgages, debt forgiveness, land conveyances for less than appraised value, or other thing of value allocated, conveyed or expended by the city or by a contracted entity for a covered development project, other than as-of-right assistance, tax abatements or benefits, including but not limited to, benefits approved in accordance with sections 421-a or 489 of the New York state real property tax law, or any assistance provided in a project agreement, the amount of which is based upon an evaluation of as-of-right assistance, tax abatements or benefits for which the covered developer would have been eligible.
+
+   Health care facility. The term “health care facility” means a hospital, nursing home or residential health care facility as such terms are defined in section 2801 of the public health law, or any facility or institution certified under article 31 of the mental hygiene law.
+
+   Human or client services facility. The term “human or client services facility” means real property used for the provision of human or client services pursuant to a contract with any city, state or federal agency, public authority or public benefit corporation.
+
+   Life sciences facility. The terms “life sciences facility” means real property used for research, development, technology transfer and commercialization related to any life science field.
+
+   Neighborhood. The term “neighborhood” means the geographical area surrounding a covered development project up to one-quarter of a mile from such project.
+
+   Neighborhood retail needs assessment. The term “neighborhood retail needs assessment” means an assessment of the retail environment of a neighborhood, which shall include, but need not be limited to an examination of:
+
+      (a) The neighborhood’s existing retail stores, vacancy rates for property that could be leased for retail businesses and market lease rates for such property;
+
+      (b) The presence of chain businesses in the neighborhood;
+
+      (c) The level of retail diversity and the types of retail businesses needed or lacking in the neighborhood; and
+
+      (d) Any community feedback received relating to the covered development project, including community needs and priorities.
+
+   Photovoltaic system project. The term “photovoltaic system project” means a project to construct, maintain, alter or operate a photovoltaic system that is connected to the electrical system and operated in conjunction with the transmission and distribution facilities of an electric corporation.
+
+   Production facility. The term “production facility” means real property where no less than 30 percent of the square footage of such property is utilized for manufacturing, warehousing or distribution.
+
+   Project agreement. The term “project agreement” means a written agreement between the city or a contracted entity and a covered developer providing for financial assistance for a covered development project, provided that such agreement is administered by a contracted entity.
+
+   Retail business. The term “retail business” means any entity that is engaged primarily in the sale of consumer goods or consumer services at a store within the city, but does not include a chain business.
+
+b. Affordable retail space at covered development projects required.
+
+   1. Prior to execution of a project agreement for a covered development project, a determination shall be made regarding whether affordable retail space for retail businesses must be provided in such project to meet an unmet need for consumer goods and consumer services in such neighborhood. Such determination shall be based upon a neighborhood retail needs assessment and shall be made by the party entering into such project agreement with the covered developer or by the designee of such party.
+
+   2. Where such party or such party’s designee determines, pursuant to paragraph 1, that affordable retail space in a covered development project must be provided, such party or such party’s designee shall establish the minimum percentage of affordable retail space that such project shall include, the maximum below market lease rate for which such affordable retail space may be leased, and the eligible type of retail business that may lease such space, based on a consideration of the following factors:
+
+      (a) Retail diversity and unmet needs for consumer goods and consumer services in the neighborhood in which such covered development project is located;
+
+      (b) Market lease rates for retail businesses in such neighborhood; and
+
+      (c) Commercial vacancy rates in such neighborhood.
+
+   3. Such party or such party’s designee may determine that a requirement for affordable retail space does not apply to a covered development project where such party or such party’s designee determines that such requirement would substantially hinder the provision of any community program, service or benefit required by the project agreement.
+
+c. Enforcement.
+
+   1. Within 30 days after the date by which 80 percent of space available for rent to a retail business in a covered development project has been leased, the covered developer for such project shall certify to the contracted entity administering the project agreement that such developer is in compliance with the terms of the project agreement relating to the provision of affordable retail space.
+
+   2. A contracted entity shall investigate any allegations that a covered developer has failed to comply with the terms of the project agreement relating to the provision of affordable retail space.
+
+   3. A finding that a covered developer has failed to provide affordable retail space as required by the project agreement may result in any of the following actions by the contracted entity administering such project agreement:
+
+      (a) Entering into an agreement with the covered developer requiring such developer to fulfill such terms;
+
+      (b) Finding the covered developer to be in default of the project agreement;
+
+      (c) Recovering from the covered developer part or all of the financial assistance disbursed or provided to such developer, including but not limited to requiring repayment of any taxes or interest abated or deferred; or
+
+      (d) Reporting such failure by the covered developer in the report required by subdivision a of section 22-824.
+
+
+
+Editor's note: Section 3 of L.L. 2020/035 provides: "This local law does not apply to any project agreement executed prior to the effective date of this local law, except that any extension, renewal, amendment or modification of such a project agreement occurring on or after the effective date of this local law that results in the grant of any additional financial assistance to the covered developer shall subject the covered development project to the requirements of this local law." Section 4 of L.L. 2020/035 provides: "This local law takes effect 180 days after it becomes law and expires and is deemed repealed seven years after it becomes law."
 
 
 
