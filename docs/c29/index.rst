@@ -3025,29 +3025,6 @@ By no later than November 1, 2018, and by November 1 of each year thereafter, th
 
 
 
-Chapter 20: Community Land Trust Regulatory Agreements
---------------------------------------------------
-
-
-
-*§ 26-2001 Community land trust regulatory agreements.* ::
-
-
-a. For the purposes of this section:
-
-   Eligible community land trust. The term “eligible community land trust” means a corporation that satisfies the following criteria: (i)(a) is incorporated pursuant to article 11 of the private housing finance law and section 402 of the not-for-profit corporation law; (b) the certificate of incorporation of which specifically provides for the provision of housing for persons of low income in the form of a community land trust; (c) has submitted such disclosure statements as shall be required by the supervising agency and received the approval of such supervising agency; (d) lawfully acquired all of its real property in full compliance with such corporation’s certificate of incorporation and any agreements with a governmental entity with respect to such property or such corporation; and (ii) provides in its by-laws that it will (a) acquire parcels of land, primarily for conveyance under long-term ground leases, (b) transfer ownership of any structural improvements located on such leased parcels to the lessees, (c) retain a preemptive option to purchase any such structural improvement at a price determined by formula that is designed to ensure that the improvement remains affordable to low-income households, and (d) have a board of directors composed of lessees of housing associated with the entity, an adult resident of a particular geographic area specified in the bylaws of the organization and any other category of persons described in the bylaws of the organization.
-
-   Persons of low income. The term “persons of low income” means “persons of low income” as defined in section 2(19) of the private housing finance law.
-
-   Supervising agency. The term “supervising agency” means the department of housing preservation and development.
-
-b. The supervising agency may enter into a regulatory agreement with an eligible community land trust provided that such trust agrees to such terms and conditions as such agency deems necessary; and (i) is a recipient of a loan or grant from the city of New York; (ii) acquires real property or an interest therein from the city of New York; or (iii) receives a tax exemption approved by the council of the city of New York, upon the recommendation of the supervisory agency. Such regulatory agreement shall also require that the community land trust enter into a 99-year ground lease agreement with the owners of structures or improvements located on land which is subject to the regulatory agreement.
-
-
-
-
-
-
 Chapter 21: Affordable Housing Plan Report*
 --------------------------------------------------
 
@@ -3151,6 +3128,29 @@ The mayor shall, by September 30, 2019, and by September 30 in every year therea
 
 
 In developing a citywide plan for the creation and preservation of affordable housing, representatives of the department shall consult and meet with representatives from the real estate industry, building owners and managers, affordable housing developers, tenant advocacy organizations, affordable housing advocacy organizations, legal service providers and other relevant persons. Such plan shall include a description of outreach performed to fulfill the requirements of this section.
+
+
+
+
+
+
+Chapter 20: Community Land Trust Regulatory Agreements
+--------------------------------------------------
+
+
+
+*§ 26-2001 Community land trust regulatory agreements.* ::
+
+
+a. For the purposes of this section:
+
+   Eligible community land trust. The term “eligible community land trust” means a corporation that satisfies the following criteria: (i)(a) is incorporated pursuant to article 11 of the private housing finance law and section 402 of the not-for-profit corporation law; (b) the certificate of incorporation of which specifically provides for the provision of housing for persons of low income in the form of a community land trust; (c) has submitted such disclosure statements as shall be required by the supervising agency and received the approval of such supervising agency; (d) lawfully acquired all of its real property in full compliance with such corporation’s certificate of incorporation and any agreements with a governmental entity with respect to such property or such corporation; and (ii) provides in its by-laws that it will (a) acquire parcels of land, primarily for conveyance under long-term ground leases, (b) transfer ownership of any structural improvements located on such leased parcels to the lessees, (c) retain a preemptive option to purchase any such structural improvement at a price determined by formula that is designed to ensure that the improvement remains affordable to low-income households, and (d) have a board of directors composed of lessees of housing associated with the entity, an adult resident of a particular geographic area specified in the bylaws of the organization and any other category of persons described in the bylaws of the organization.
+
+   Persons of low income. The term “persons of low income” means “persons of low income” as defined in section 2(19) of the private housing finance law.
+
+   Supervising agency. The term “supervising agency” means the department of housing preservation and development.
+
+b. The supervising agency may enter into a regulatory agreement with an eligible community land trust provided that such trust agrees to such terms and conditions as such agency deems necessary; and (i) is a recipient of a loan or grant from the city of New York; (ii) acquires real property or an interest therein from the city of New York; or (iii) receives a tax exemption approved by the council of the city of New York, upon the recommendation of the supervisory agency. Such regulatory agreement shall also require that the community land trust enter into a 99-year ground lease agreement with the owners of structures or improvements located on land which is subject to the regulatory agreement.
 
 
 

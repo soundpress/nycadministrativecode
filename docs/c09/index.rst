@@ -2243,6 +2243,81 @@ h. Any person who engages in business as a retail dealer pursuant to section 20-
 
 
 
+Chapter 4: Actions By Victims of Violent Crime
+--------------------------------------------------
+
+
+
+*§ 10-401 Short title.* ::
+
+
+This local law shall be known as the "Victims of Violent Crime Protection Act".
+
+
+
+
+
+
+*§ 10-402 Definition.* ::
+
+
+For purposes of this chapter:
+
+a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
+
+
+
+
+
+
+*§ 10-403 Civil cause of action.* ::
+
+
+Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
+
+1. compensatory and punitive damages;
+
+2. injunctive and declaratory relief;
+
+3. attorneys' fees and costs;
+
+4. such other relief as a court may deem appropriate.
+
+
+
+
+
+
+*§ 10-404 Limitations.* ::
+
+
+a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
+
+b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
+
+
+
+
+
+
+*§ 10-405 Burden of proof.* ::
+
+
+Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
+
+
+
+
+
+
+*§ 10-406 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
+
+
+
+
 Chapter 3: Firearms
 --------------------------------------------------
 
@@ -2794,81 +2869,6 @@ b. Penalties. The violation of this section constitutes a class A misdemeanor fo
 
 
 
-Chapter 4: Actions By Victims of Violent Crime
---------------------------------------------------
-
-
-
-*§ 10-401 Short title.* ::
-
-
-This local law shall be known as the "Victims of Violent Crime Protection Act".
-
-
-
-
-
-
-*§ 10-402 Definition.* ::
-
-
-For purposes of this chapter:
-
-a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
-
-
-
-
-
-
-*§ 10-403 Civil cause of action.* ::
-
-
-Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
-
-1. compensatory and punitive damages;
-
-2. injunctive and declaratory relief;
-
-3. attorneys' fees and costs;
-
-4. such other relief as a court may deem appropriate.
-
-
-
-
-
-
-*§ 10-404 Limitations.* ::
-
-
-a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
-
-b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
-
-
-
-
-
-
-*§ 10-405 Burden of proof.* ::
-
-
-Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
-
-
-
-
-
-
-*§ 10-406 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
-
-
-
-
 Chapter 5: Disclosure of Security Breach
 --------------------------------------------------
 
@@ -3065,51 +3065,6 @@ Any violation by a gun offender of this chapter or of rules and regulations esta
 
 
 
-Chapter 8: Silver Alert System
---------------------------------------------------
-
-
-
-*§ 10-801 Definitions.* ::
-
-
-a. "Administering agency" shall mean any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor shall designate.
-
-b. "Silver alert" shall mean the communication to the public by a city agency of identifying information concerning a vulnerable senior who is reported missing to a law enforcement agency under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
-
-c. "Vulnerable senior" shall mean a person who is sixty-five years of age or older with dementia, as a result of Alzheimer's disease or a similar condition.
-
-
-
-
-
-
-*§ 10-802 Silver alert system.* ::
-
-
-The administering agency shall establish a silver alert system, pursuant to the provisions of this chapter of the code, that will provide rapid notification to the public when a vulnerable senior is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
-
-
-
-
-
-
-*§ 10-803 Procedures.* ::
-
-
-a. The administering agency shall develop a protocol for notification to organizations such as media organizations, senior service providers, medical facilities and community organizations when a silver alert is issued.
-
-b. The administering agency shall, as appropriate, consult with other city agencies, including, but not limited to, the police department, the fire department, the office of emergency management, the human resources administration, the department for the aging, the department of health and mental hygiene and the department of transportation, to collect and disseminate information regarding the person for whom the silver alert was issued.
-
-c. The administering agency shall issue a silver alert within twenty-four hours of the determination that a vulnerable senior has been reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death. The silver alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts or radio broadcasts. The silver alert may be issued at repeated intervals within the discretion of the administering agency until such missing person is found or until the administering agency determines that the issuance of a silver alert is no longer appropriate.
-
-d. The information about the person for whom the silver alert was issued, if available and capable of transmission, shall include, but not be limited to: (1) the person's name; (2) the person's age; (3) a physical description of the person; (4) the last known location where the person was seen, which shall not include the exact address of the person's home; (5) a recent photograph of the person; and (6) a description of any motor vehicle the person may have been driving, provided that the administering agency may refrain from disclosing any such information if disclosure is inappropriate under the circumstances.
-
-e. The administering agency may use its discretion to issue a silver alert for a person under the age of 65 who is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death, where such missing person has dementia, as a result of Alzheimer's disease or a similar condition.
-
-
-
-
 Chapter 7: Unauthorized Recording In A Place of Public Performance
 --------------------------------------------------
 
@@ -3175,6 +3130,51 @@ The operator of a venue as defined by paragraph (2) of subdivision b of § 10-70
 
 
 The police department may promulgate rules as necessary to carry out the provisions of this chapter.
+
+
+
+
+Chapter 8: Silver Alert System
+--------------------------------------------------
+
+
+
+*§ 10-801 Definitions.* ::
+
+
+a. "Administering agency" shall mean any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor shall designate.
+
+b. "Silver alert" shall mean the communication to the public by a city agency of identifying information concerning a vulnerable senior who is reported missing to a law enforcement agency under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
+
+c. "Vulnerable senior" shall mean a person who is sixty-five years of age or older with dementia, as a result of Alzheimer's disease or a similar condition.
+
+
+
+
+
+
+*§ 10-802 Silver alert system.* ::
+
+
+The administering agency shall establish a silver alert system, pursuant to the provisions of this chapter of the code, that will provide rapid notification to the public when a vulnerable senior is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
+
+
+
+
+
+
+*§ 10-803 Procedures.* ::
+
+
+a. The administering agency shall develop a protocol for notification to organizations such as media organizations, senior service providers, medical facilities and community organizations when a silver alert is issued.
+
+b. The administering agency shall, as appropriate, consult with other city agencies, including, but not limited to, the police department, the fire department, the office of emergency management, the human resources administration, the department for the aging, the department of health and mental hygiene and the department of transportation, to collect and disseminate information regarding the person for whom the silver alert was issued.
+
+c. The administering agency shall issue a silver alert within twenty-four hours of the determination that a vulnerable senior has been reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death. The silver alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts or radio broadcasts. The silver alert may be issued at repeated intervals within the discretion of the administering agency until such missing person is found or until the administering agency determines that the issuance of a silver alert is no longer appropriate.
+
+d. The information about the person for whom the silver alert was issued, if available and capable of transmission, shall include, but not be limited to: (1) the person's name; (2) the person's age; (3) a physical description of the person; (4) the last known location where the person was seen, which shall not include the exact address of the person's home; (5) a recent photograph of the person; and (6) a description of any motor vehicle the person may have been driving, provided that the administering agency may refrain from disclosing any such information if disclosure is inappropriate under the circumstances.
+
+e. The administering agency may use its discretion to issue a silver alert for a person under the age of 65 who is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death, where such missing person has dementia, as a result of Alzheimer's disease or a similar condition.
 
 
 
