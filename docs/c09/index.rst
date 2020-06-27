@@ -2243,81 +2243,6 @@ h. Any person who engages in business as a retail dealer pursuant to section 20-
 
 
 
-Chapter 4: Actions By Victims of Violent Crime
---------------------------------------------------
-
-
-
-*§ 10-401 Short title.* ::
-
-
-This local law shall be known as the "Victims of Violent Crime Protection Act".
-
-
-
-
-
-
-*§ 10-402 Definition.* ::
-
-
-For purposes of this chapter:
-
-a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
-
-
-
-
-
-
-*§ 10-403 Civil cause of action.* ::
-
-
-Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
-
-1. compensatory and punitive damages;
-
-2. injunctive and declaratory relief;
-
-3. attorneys' fees and costs;
-
-4. such other relief as a court may deem appropriate.
-
-
-
-
-
-
-*§ 10-404 Limitations.* ::
-
-
-a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
-
-b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
-
-
-
-
-
-
-*§ 10-405 Burden of proof.* ::
-
-
-Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
-
-
-
-
-
-
-*§ 10-406 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
-
-
-
-
 Chapter 3: Firearms
 --------------------------------------------------
 
@@ -2869,69 +2794,77 @@ b. Penalties. The violation of this section constitutes a class A misdemeanor fo
 
 
 
-Chapter 5: Disclosure of Security Breach
+Chapter 4: Actions By Victims of Violent Crime
 --------------------------------------------------
 
 
 
-*§ 10-501 Definitions.* ::
+*§ 10-401 Short title.* ::
 
 
-For the purposes of this chapter,
-
-a. The term "personal identifying information" shall mean any person's date of birth, social security number, driver's license number, non-driver photo identification card number, financial services account number or code, savings account number or code, checking account number or code, brokerage account number or code, credit card account number or code, debit card number or code, automated teller machine number or code, personal identification number, mother's maiden name, computer system password, electronic signature or unique biometric data that is a fingerprint, voice print, retinal image or iris image of another person. This term shall apply to all such data, notwithstanding the method by which such information is maintained.
-
-b. The term "breach of security" shall mean the unauthorized disclosure or use by an employee or agent of an agency, or the unauthorized possession by someone other than an employee or agent of an agency, of personal identifying information that compromises the security, confidentiality or integrity of such information. Good faith or inadvertent possession of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency, and good faith or legally mandated disclosure of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency shall not constitute a breach of security.
+This local law shall be known as the "Victims of Violent Crime Protection Act".
 
 
 
 
 
 
-*§ 10-502 Agency disclosure of a security breach.* ::
+*§ 10-402 Definition.* ::
 
 
-a. Any city agency that owns or leases data that includes personal identifying information and any city agency that maintains but does not own data that includes personal identifying information, shall immediately disclose to the police department any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach if such personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
+For purposes of this chapter:
 
-b. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that owns or leases data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to any person whose personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
-
-c. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that maintains but does not own data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to the owner, lessor or licensor of the data if the personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
-
-d. The disclosures required by subdivisions b and c of this section shall be made as soon as practicable by a method reasonable under the circumstances. Provided said method is not inconsistent with the legitimate needs of law enforcement or any other investigative or protective measures necessary to restore the reasonable integrity of the data system, disclosure shall be made by at least one of the following means:
-
-   1. Written notice to the individual at his or her last known address; or
-
-   2. Verbal notification to the individual by telephonic communication; or
-
-   3. Electronic notification to the individual at his or her last known e-mail address.
-
-e. Should disclosure pursuant to paragraph one, two or three of subdivision d be impracticable or inappropriate given the circumstances of the breach and the identity of the victim, such disclosure shall be made by a mechanism of the agency's election, provided such mechanism is reasonably targeted to the individual in a manner that does not further compromise the integrity of the personal information.
+a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
 
 
 
 
 
 
-*§ 10-503 Agency disposal of personal identifying information.* ::
+*§ 10-403 Civil cause of action.* ::
 
 
-An agency that discards records containing any individual's personal identifying information shall do so in a manner intended to prevent retrieval of the information contained therein or thereon.
+Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
+
+1. compensatory and punitive damages;
+
+2. injunctive and declaratory relief;
+
+3. attorneys' fees and costs;
+
+4. such other relief as a court may deem appropriate.
 
 
 
 
 
 
-*§ 10-504 Agency disposal of electronics.* ::
+*§ 10-404 Limitations.* ::
 
 
-a. Any agency that disposes of electronic equipment that contains a hard disk drive, solid state drive or similar device capable of storing information while powered off, including but not limited to printers, copiers and computers, shall ensure, before its disposal, the erasure of all information contained therein, either through degaussing, physical destruction of the drive, a data wiping that includes at least two full overwrites or another erasure method specified by the department of information technology and telecommunications after consultation with all relevant agencies. This requirement shall not apply to boot related firmware.
+a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
 
-b. Each agency shall require any third party who disposes of electronic equipment on its behalf to provide the agency a written certification that the disposal complies with the requirements set forth in this section and shall forward such certification to the department of information technology and telecommunications. Every two years each agency that has disposed of electronic equipment itself shall submit a statement to the department of information technology and telecommunications certifying that its disposal of such electronic equipment complies with the requirements set forth in this section.
-
-c. For the purposes of this section, the term "dispose" includes a transfer of electronic equipment from one agency to another when such equipment has stored information that is confidential or sensitive in nature and is not relevant to the work of the agency receiving such equipment.
+b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
 
 
+
+
+
+
+*§ 10-405 Burden of proof.* ::
+
+
+Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
+
+
+
+
+
+
+*§ 10-406 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
 
 
 
@@ -3061,6 +2994,73 @@ The commissioner may make and promulgate such rules and regulations and establis
 
 
 Any violation by a gun offender of this chapter or of rules and regulations established pursuant to this chapter, including any failure to register or to verify pursuant in the manner and within the time periods provided for in this chapter, shall be a misdemeanor punishable by a fine of not more than one thousand dollars or imprisonment of not more than one year or both. Failure to receive any form shall not excuse any violation of this chapter.
+
+
+
+
+Chapter 5: Disclosure of Security Breach
+--------------------------------------------------
+
+
+
+*§ 10-501 Definitions.* ::
+
+
+For the purposes of this chapter,
+
+a. The term "personal identifying information" shall mean any person's date of birth, social security number, driver's license number, non-driver photo identification card number, financial services account number or code, savings account number or code, checking account number or code, brokerage account number or code, credit card account number or code, debit card number or code, automated teller machine number or code, personal identification number, mother's maiden name, computer system password, electronic signature or unique biometric data that is a fingerprint, voice print, retinal image or iris image of another person. This term shall apply to all such data, notwithstanding the method by which such information is maintained.
+
+b. The term "breach of security" shall mean the unauthorized disclosure or use by an employee or agent of an agency, or the unauthorized possession by someone other than an employee or agent of an agency, of personal identifying information that compromises the security, confidentiality or integrity of such information. Good faith or inadvertent possession of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency, and good faith or legally mandated disclosure of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency shall not constitute a breach of security.
+
+
+
+
+
+
+*§ 10-502 Agency disclosure of a security breach.* ::
+
+
+a. Any city agency that owns or leases data that includes personal identifying information and any city agency that maintains but does not own data that includes personal identifying information, shall immediately disclose to the police department any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach if such personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
+
+b. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that owns or leases data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to any person whose personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
+
+c. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that maintains but does not own data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to the owner, lessor or licensor of the data if the personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
+
+d. The disclosures required by subdivisions b and c of this section shall be made as soon as practicable by a method reasonable under the circumstances. Provided said method is not inconsistent with the legitimate needs of law enforcement or any other investigative or protective measures necessary to restore the reasonable integrity of the data system, disclosure shall be made by at least one of the following means:
+
+   1. Written notice to the individual at his or her last known address; or
+
+   2. Verbal notification to the individual by telephonic communication; or
+
+   3. Electronic notification to the individual at his or her last known e-mail address.
+
+e. Should disclosure pursuant to paragraph one, two or three of subdivision d be impracticable or inappropriate given the circumstances of the breach and the identity of the victim, such disclosure shall be made by a mechanism of the agency's election, provided such mechanism is reasonably targeted to the individual in a manner that does not further compromise the integrity of the personal information.
+
+
+
+
+
+
+*§ 10-503 Agency disposal of personal identifying information.* ::
+
+
+An agency that discards records containing any individual's personal identifying information shall do so in a manner intended to prevent retrieval of the information contained therein or thereon.
+
+
+
+
+
+
+*§ 10-504 Agency disposal of electronics.* ::
+
+
+a. Any agency that disposes of electronic equipment that contains a hard disk drive, solid state drive or similar device capable of storing information while powered off, including but not limited to printers, copiers and computers, shall ensure, before its disposal, the erasure of all information contained therein, either through degaussing, physical destruction of the drive, a data wiping that includes at least two full overwrites or another erasure method specified by the department of information technology and telecommunications after consultation with all relevant agencies. This requirement shall not apply to boot related firmware.
+
+b. Each agency shall require any third party who disposes of electronic equipment on its behalf to provide the agency a written certification that the disposal complies with the requirements set forth in this section and shall forward such certification to the department of information technology and telecommunications. Every two years each agency that has disposed of electronic equipment itself shall submit a statement to the department of information technology and telecommunications certifying that its disposal of such electronic equipment complies with the requirements set forth in this section.
+
+c. For the purposes of this section, the term "dispose" includes a transfer of electronic equipment from one agency to another when such equipment has stored information that is confidential or sensitive in nature and is not relevant to the work of the agency receiving such equipment.
+
+
 
 
 
