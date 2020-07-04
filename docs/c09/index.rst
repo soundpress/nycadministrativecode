@@ -2869,6 +2869,73 @@ If any section, subsection, sentence, clause, phrase or other portion of this lo
 
 
 
+Chapter 5: Disclosure of Security Breach
+--------------------------------------------------
+
+
+
+*§ 10-501 Definitions.* ::
+
+
+For the purposes of this chapter,
+
+a. The term "personal identifying information" shall mean any person's date of birth, social security number, driver's license number, non-driver photo identification card number, financial services account number or code, savings account number or code, checking account number or code, brokerage account number or code, credit card account number or code, debit card number or code, automated teller machine number or code, personal identification number, mother's maiden name, computer system password, electronic signature or unique biometric data that is a fingerprint, voice print, retinal image or iris image of another person. This term shall apply to all such data, notwithstanding the method by which such information is maintained.
+
+b. The term "breach of security" shall mean the unauthorized disclosure or use by an employee or agent of an agency, or the unauthorized possession by someone other than an employee or agent of an agency, of personal identifying information that compromises the security, confidentiality or integrity of such information. Good faith or inadvertent possession of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency, and good faith or legally mandated disclosure of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency shall not constitute a breach of security.
+
+
+
+
+
+
+*§ 10-502 Agency disclosure of a security breach.* ::
+
+
+a. Any city agency that owns or leases data that includes personal identifying information and any city agency that maintains but does not own data that includes personal identifying information, shall immediately disclose to the police department any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach if such personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
+
+b. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that owns or leases data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to any person whose personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
+
+c. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that maintains but does not own data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to the owner, lessor or licensor of the data if the personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
+
+d. The disclosures required by subdivisions b and c of this section shall be made as soon as practicable by a method reasonable under the circumstances. Provided said method is not inconsistent with the legitimate needs of law enforcement or any other investigative or protective measures necessary to restore the reasonable integrity of the data system, disclosure shall be made by at least one of the following means:
+
+   1. Written notice to the individual at his or her last known address; or
+
+   2. Verbal notification to the individual by telephonic communication; or
+
+   3. Electronic notification to the individual at his or her last known e-mail address.
+
+e. Should disclosure pursuant to paragraph one, two or three of subdivision d be impracticable or inappropriate given the circumstances of the breach and the identity of the victim, such disclosure shall be made by a mechanism of the agency's election, provided such mechanism is reasonably targeted to the individual in a manner that does not further compromise the integrity of the personal information.
+
+
+
+
+
+
+*§ 10-503 Agency disposal of personal identifying information.* ::
+
+
+An agency that discards records containing any individual's personal identifying information shall do so in a manner intended to prevent retrieval of the information contained therein or thereon.
+
+
+
+
+
+
+*§ 10-504 Agency disposal of electronics.* ::
+
+
+a. Any agency that disposes of electronic equipment that contains a hard disk drive, solid state drive or similar device capable of storing information while powered off, including but not limited to printers, copiers and computers, shall ensure, before its disposal, the erasure of all information contained therein, either through degaussing, physical destruction of the drive, a data wiping that includes at least two full overwrites or another erasure method specified by the department of information technology and telecommunications after consultation with all relevant agencies. This requirement shall not apply to boot related firmware.
+
+b. Each agency shall require any third party who disposes of electronic equipment on its behalf to provide the agency a written certification that the disposal complies with the requirements set forth in this section and shall forward such certification to the department of information technology and telecommunications. Every two years each agency that has disposed of electronic equipment itself shall submit a statement to the department of information technology and telecommunications certifying that its disposal of such electronic equipment complies with the requirements set forth in this section.
+
+c. For the purposes of this section, the term "dispose" includes a transfer of electronic equipment from one agency to another when such equipment has stored information that is confidential or sensitive in nature and is not relevant to the work of the agency receiving such equipment.
+
+
+
+
+
+
 Chapter 6: Gun offender Registration Act
 --------------------------------------------------
 
@@ -2994,73 +3061,6 @@ The commissioner may make and promulgate such rules and regulations and establis
 
 
 Any violation by a gun offender of this chapter or of rules and regulations established pursuant to this chapter, including any failure to register or to verify pursuant in the manner and within the time periods provided for in this chapter, shall be a misdemeanor punishable by a fine of not more than one thousand dollars or imprisonment of not more than one year or both. Failure to receive any form shall not excuse any violation of this chapter.
-
-
-
-
-Chapter 5: Disclosure of Security Breach
---------------------------------------------------
-
-
-
-*§ 10-501 Definitions.* ::
-
-
-For the purposes of this chapter,
-
-a. The term "personal identifying information" shall mean any person's date of birth, social security number, driver's license number, non-driver photo identification card number, financial services account number or code, savings account number or code, checking account number or code, brokerage account number or code, credit card account number or code, debit card number or code, automated teller machine number or code, personal identification number, mother's maiden name, computer system password, electronic signature or unique biometric data that is a fingerprint, voice print, retinal image or iris image of another person. This term shall apply to all such data, notwithstanding the method by which such information is maintained.
-
-b. The term "breach of security" shall mean the unauthorized disclosure or use by an employee or agent of an agency, or the unauthorized possession by someone other than an employee or agent of an agency, of personal identifying information that compromises the security, confidentiality or integrity of such information. Good faith or inadvertent possession of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency, and good faith or legally mandated disclosure of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency shall not constitute a breach of security.
-
-
-
-
-
-
-*§ 10-502 Agency disclosure of a security breach.* ::
-
-
-a. Any city agency that owns or leases data that includes personal identifying information and any city agency that maintains but does not own data that includes personal identifying information, shall immediately disclose to the police department any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach if such personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
-
-b. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that owns or leases data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to any person whose personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
-
-c. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that maintains but does not own data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to the owner, lessor or licensor of the data if the personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
-
-d. The disclosures required by subdivisions b and c of this section shall be made as soon as practicable by a method reasonable under the circumstances. Provided said method is not inconsistent with the legitimate needs of law enforcement or any other investigative or protective measures necessary to restore the reasonable integrity of the data system, disclosure shall be made by at least one of the following means:
-
-   1. Written notice to the individual at his or her last known address; or
-
-   2. Verbal notification to the individual by telephonic communication; or
-
-   3. Electronic notification to the individual at his or her last known e-mail address.
-
-e. Should disclosure pursuant to paragraph one, two or three of subdivision d be impracticable or inappropriate given the circumstances of the breach and the identity of the victim, such disclosure shall be made by a mechanism of the agency's election, provided such mechanism is reasonably targeted to the individual in a manner that does not further compromise the integrity of the personal information.
-
-
-
-
-
-
-*§ 10-503 Agency disposal of personal identifying information.* ::
-
-
-An agency that discards records containing any individual's personal identifying information shall do so in a manner intended to prevent retrieval of the information contained therein or thereon.
-
-
-
-
-
-
-*§ 10-504 Agency disposal of electronics.* ::
-
-
-a. Any agency that disposes of electronic equipment that contains a hard disk drive, solid state drive or similar device capable of storing information while powered off, including but not limited to printers, copiers and computers, shall ensure, before its disposal, the erasure of all information contained therein, either through degaussing, physical destruction of the drive, a data wiping that includes at least two full overwrites or another erasure method specified by the department of information technology and telecommunications after consultation with all relevant agencies. This requirement shall not apply to boot related firmware.
-
-b. Each agency shall require any third party who disposes of electronic equipment on its behalf to provide the agency a written certification that the disposal complies with the requirements set forth in this section and shall forward such certification to the department of information technology and telecommunications. Every two years each agency that has disposed of electronic equipment itself shall submit a statement to the department of information technology and telecommunications certifying that its disposal of such electronic equipment complies with the requirements set forth in this section.
-
-c. For the purposes of this section, the term "dispose" includes a transfer of electronic equipment from one agency to another when such equipment has stored information that is confidential or sensitive in nature and is not relevant to the work of the agency receiving such equipment.
-
-
 
 
 
