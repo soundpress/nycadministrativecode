@@ -105,6 +105,8 @@ Lactation room. The term "lactation room" means a sanitary place, other than a r
 
 Lawful source of income. The term "lawful source of income" includes income derived from social security, or any form of federal, state or local public assistance or housing assistance including section 8 vouchers.
 
+Marijuana. The term “marijuana” has the same meaning as the term “marihuana” as such term is defined in subdivision 21 of section 3302 of the public health law.
+
 National origin. The term "national origin" includes "ancestry."
 
 National security information. The term "national security information" means any knowledge relating to the national defense or foreign relations of the United States, regardless of its physical form or characteristics, that is owned by, is produced by or for, or is under the control of the United States government and is defined as such by the United States government and its agencies and departments.
@@ -164,6 +166,8 @@ Reasonable accommodation.
 Sexual and reproductive health decisions. The term “sexual and reproductive health decisions” means any decision by an individual to receive services, which are arranged for or offered or provided to individuals relating to sexual and reproductive health, including the reproductive system and its functions. Such services include, but are not limited to, fertility-related medical procedures, sexually transmitted disease prevention, testing, and treatment, and family planning services and counseling, such as birth control drugs and supplies, emergency contraception, sterilization procedures, pregnancy testing, and abortion.
 
 Sexual orientation. The term "sexual orientation" means an individual's actual or perceived romantic, physical or sexual attraction to other persons, or lack thereof, on the basis of gender. A continuum of sexual orientation exists and includes, but is not limited to, heterosexuality, homosexuality, bisexuality, asexuality and pansexuality.
+
+Tetrahydrocannabinols. The term “tetrahydrocannabinols” has the same meaning as such term is defined in paragraph 21 of subdivision d of section 3306 of the public health law.
 
 Trade secrets. The term "trade secrets" means information that (i) derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use; (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy; and (iii) can reasonably be said to be the end product of significant innovation. The term "trade secrets" does not include general proprietary company information such as handbooks and policies. The term "regular access to trade secrets" does not include access to or the use of client, customer or mailing lists.
 
@@ -838,6 +842,36 @@ Editor's note: the provisions of this division 9(e) are retroactive to 10/25/201
    (f) An employee who has received anti-sexual harassment training at one employer within the required training cycle shall not be required to receive additional anti-sexual harassment training at another employer until the next cycle.
 
    (g) An employer that is subject to training requirements in multiple jurisdictions may assert that it is compliant with this subdivision provided that each provision in subparagraph b of this subdivision is fulfilled in an anti-sexual harassment training that such employer makes available to its employees on an annual basis and shall be allowed to provide proof of compliance.
+
+31. Employment; pre-employment drug testing policy.
+
+   (a) Prohibition. Except as otherwise provided by law, it shall be an unlawful discriminatory practice for an employer, labor organization, employment agency, or agent thereof to require a prospective employee to submit to testing for the presence of any tetrahydrocannabinols or marijuana in such prospective employee’s system as a condition of employment.
+
+   (b) Exceptions.
+
+      (1) The provisions of this subdivision shall not apply to persons applying to work:
+
+         (A) As police officers or peace officers, as those terms are defined in subdivisions 33 and 34 of section 1.20 of the criminal procedure law, respectively, or in a position with a law enforcement or investigative function at the department of investigation;
+
+         (B) In any position requiring compliance with section 3321 of the New York city building code or section 220-h of the labor law;
+
+         (C) In any position requiring a commercial driver’s license;
+
+         (D) In any position requiring the supervision or care of children, medical patients or vulnerable persons as defined in paragraph 15 of section 488 of the social services law; or
+
+         (E) In any position with the potential to significantly impact the health or safety of employees or members of the public, as determined by: (i) the commissioner of citywide administrative services for the classified service of the city of New York, and identified on the website of the department of citywide administrative services or (ii) the chairperson, and identified in regulations promulgated by the commission.
+
+      (2) The provisions of this subdivision shall not apply to drug testing required pursuant to:
+
+         (A) Any regulation promulgated by the federal department of transportation that requires testing of a prospective employee in accordance with 49 CFR 40 or any rule promulgated by the departments of transportation of this state or city adopting such regulation for purposes of enforcing the requirements of that regulation with respect to intrastate commerce;
+
+         (B) Any contract entered into between the federal government and an employer or any grant of financial assistance from the federal government to an employer that requires drug testing of prospective employees as a condition of receiving the contract or grant;
+
+         (C) Any federal or state statute, regulation, or order that requires drug testing of prospective employees for purposes of safety or security; or
+
+         (D) Any applicants whose prospective employer is a party to a valid collective bargaining agreement that specifically addresses the pre-employment drug testing of such applicants.
+
+   (c) Rules. The commission shall promulgate rules for the implementation of this subdivision.
 
 
 

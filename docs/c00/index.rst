@@ -192,3 +192,23 @@ e. The provisions of subdivision a of this section shall not apply to any law, d
 
 
 
+
+
+*§ 1-114 Language referring to noncitizens.* ::
+
+
+a. Any law, rule, order or other document, or material created by the city shall not use the terms “alien,” “illegal immigrant,” or “illegal migrant” to refer to an individual who is not a citizen of the United States, provided that:
+
+   1. A law, rule, order, or any other document or material shall not be deemed invalid due to the inclusion of such a term.
+
+   2. An agency shall not be required to dispose of any printed material that includes such a term if such material was produced prior to the effective date of the local law that added this section, and may use such material until it is exhausted.
+
+   3. An agency of the city may use such a term in a law, rule, order, or other document or material if the agency determines that using such a term is required pursuant to a state or federal law, or that excluding such term would be inconsistent with state or federal law, or that using such a term is reasonably necessary to achieve the agency’s purpose.
+
+b. No later than one year after the effective date of this section, each agency shall review its rules and other documents or materials to identify any use of the terms prohibited by subdivision a of this section, and amend any such rule that is in effect on the effective date of this section, or revise any such other document or material, in accordance with this section, provided that the failure to amend any such rule, document or material shall not change the validity thereof, and further provided that this paragraph shall not apply to orders issued before the effective date of this section.
+
+
+
+
+
+

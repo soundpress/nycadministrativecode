@@ -121,7 +121,9 @@ b. Instead of bringing the legal proceedings as in this section specified, such 
 *§ 21-110 Potter's field.* ::
 
 
-The commissioner shall have charge of the Potter's Fields, and when the necessity therefor shall arise, shall have power to lay out additional Potter's Fields or other public burial places for the poor and strangers and from time to time enclose and extend the same to make enclosures therein and to build vaults therein, and to provide all necessary labor and for interments therein. The Potter's Field on Hart's island, however, shall remain under the control of the department of correction, and the burial of deceased paupers therein shall continue under rules and regulations established by the joint action of the departments of social services and correction, or in case of disagreement between such departments, under such regulations as may be established by the mayor.
+The commissioner shall have charge of the Potter's Fields, and when the necessity therefor shall arise, shall have power to lay out additional Potter's Fields or other public burial places for the poor and strangers and from time to time enclose and extend the same to make enclosures therein and to build vaults therein, and to provide all necessary labor and for interments therein. The Potter's Field on Hart island, however, shall remain under the control of the department of correction until the earlier of (i) the commissioner laying out additional Potter's Fields, or (ii) July 1, 2021, at which time Hart island shall be under the control of the department of parks and recreation. At such time, burial of deceased paupers at Hart island shall occur under rules and regulations established by either the joint action of the departments of social services and parks and recreation, or by action of another agency designated by the mayor.
+
+
 
 
 
@@ -1866,6 +1868,329 @@ If any section, subsection, sentence, clause, phrase or other portion of this ch
 
 
 
+Chapter 2: Department For the Aging
+--------------------------------------------------
+
+
+
+*§ 21-201 Definitions.* ::
+
+
+Whenever used in this chapter, the following words shall have the following meanings:
+
+a. "Commissioner" shall mean the commissioner of the department for the aging.
+
+b. "Department" shall mean the department for the aging.
+
+c. "Regularly schedules activities" shall mean all activities which are funded in whole or in part by the city of New York.
+
+d. "Senior center" shall mean facilities operated by the city of New York or operated by an entity that has contracted with the department to provide services to senior citizens on a regular basis including, but not limited to meals, recreation and counseling.
+
+e. "Elder abuse" shall mean any knowing, intentional, or negligent act by a caregiver or any other person holding a trusting relationship with a vulnerable older adult, which causes harm or a serious risk of harm to that older adult including physical, emotional, sexual, or financial harm, or neglect, abandonment or confinement.
+
+f. "Social adult day care" has the same meaning as set forth in section two hundred fifteen of the elder law and any regulations promulgated by the director of the office for the aging pursuant to such section.
+
+
+
+
+
+
+*§ 21-202 Bill of rights required.* ::
+
+
+a. The commissioner shall require that every senior center adopt a statement of the rights of all senior citizens who participate in activities and take advantage of services provided by such senior center and treat all senior citizens in accordance with the provisions of such statement.
+
+b. Contents of bill of rights. Such statement of rights shall include the following:
+
+   1. Every senior citizen who otherwise qualifies for participation shall have the right to participate as a member of a senior center.
+
+   2. Every senior citizen shall have the right to participate in all regularly scheduled activities and take advantage of services provided by the center to the extent that funding and space limitations permit.
+
+   3. Every senior center shall have a senior advisory council which will be comprised of senior citizens from the senior center membership. Such advisory council shall advise the senior center's management of the needs of the senior citizens.
+
+   4. Every senior citizen attending a senior center's regularly scheduled meal period shall be offered a balanced and nutritious meal to the extent that funding and space limitations permit. Those senior citizens that do not receive a balanced and nutritious meal shall be offered nourishment during a senior center's regularly scheduled meal period to the extent that funding permits.
+
+   5. Every senior citizen attending a senior center shall have the opportunity to make a financial contribution which shall be voluntary and anonymous and shall be used by the senior center to enhance and increase services to senior citizens.
+
+   6. Every senior citizen shall be treated courteously, fairly and respectfully at a senior center.
+
+   7. Every senior citizen shall have the right not to be discriminated against based upon his or her actual or perceived race, creed, color, national origin, age, gender, disability, marital status, sexual orientation, alienage or citizenship status, in violation of the human rights law of the city of New York.
+
+   8. Every senior citizen shall have the right to be informed of those senior centers that are handicapped accessible.
+
+   9. Every senior citizen shall have the right to present grievances on behalf of himself or herself to the senior center's staff, board of directors or executive committee, or elected or other government officials, without fear of reprisal from officers or employees of the senior center.
+
+c. Posting required. Every senior center shall post conspicuously:
+
+   (i) in or near the entrance to such center a sign that states the rights of senior citizens as provided in this section;
+
+   (ii) all regularly scheduled activities as defined in this section; and
+
+   (iii) the department's phone number.
+
+d. Nothing in this section shall be construed to limit the department's authority to promulgate rules regarding matters within its jurisdiction pursuant to applicable law.
+
+
+
+
+
+
+*§ 21-203 Elder abuse training.* ::
+
+
+a. The commissioner shall develop a program to train senior service providers in the detection and reporting of elder abuse. Such program shall also include training on the counseling of elder abuse victims.
+
+b. The commissioner shall require that employees of senior centers and employees of entities that contract with the department to provide services to senior citizens, be trained in elder abuse detection, reporting and counseling, and receive supplemental refresher training regarding the same at least once every 3 years, if such employee has or is expected to have significant and direct person to person contact with senior citizens.
+
+c. The commissioner shall require senior centers to hold at least two educational sessions per year during which guests and members of the senior center will receive counseling regarding elder abuse prevention and awareness and be instructed on how to detect and report instances of elder abuse.
+
+d. The commissioner shall require that every senior center post signage in a prominent common area section within the center that directs those who need information regarding elder abuse detection, reporting, counseling and services to call either the 311 citizen service system or the department's Elderly Crime Victims Resource Center.
+
+
+
+
+
+
+*§ 21-204 Social adult day care.* ::
+
+
+a. 1. All social adult day cares that do not receive funding pursuant to section two hundred fifteen of the elder law shall meet the standards and requirements of any rules or regulations promulgated by the director of the office for the aging pursuant to such section related to program standards and participant rights, notwithstanding the fact that such social adult day cares do not receive such funding. For the purposes of this section, any reference to an "area agency on aging" in such rules and regulations means the department and any reference to a "participant" in such rules and regulations means an adult individual who is functionally impaired as defined in such rules and regulations and is eligible for and is receiving services from a social adult day care. Any references to "functionally impaired" and "social adult day care program" in such rules and regulations shall have the same meanings set forth therein.
+
+   2. All social adult day cares shall carry out the provisions of this section in accordance with all applicable provisions of the Americans with disabilities act of nineteen ninety.
+
+b. Registration.
+
+   1. An individual, partnership, corporation, limited liability company, joint venture, association, or other business entity shall not operate as a social adult day care without having registered with the department. Registration shall include registrant's name, address, corporate structure and ownership, and other information as the department may require and shall be filed on forms to be prescribed by the department. The department may require social adult day cares to register electronically.
+
+   2. Changes to information required under this subdivision must be submitted to the department no later than the effective date of such change in writing or electronically in a form and manner designated by the department.
+
+c. Civil penalties.
+
+   1. The department shall adopt rules establishing civil penalties of not less than two hundred fifty dollars per day and not more than five hundred dollars per day to be assessed against social adult day cares for violations of subdivision a and any regulations promulgated thereunder. Such rules establishing civil penalties shall specify the violations subject to penalty.
+
+   2. Any individual, partnership, corporation, limited liability company, joint venture, association, or other business entity that operates as a social adult day care without registering shall be subject to a civil penalty of not less than two hundred fifty dollars per day and not more than one thousand dollars per day such social adult day care operates without registering.
+
+   3. The department and officers and employees of city agencies designated by the mayor shall have the authority to issue notices of violation, returnable at the environmental control board, any administrative tribunal within such designated agency, or any tribunal established within the office of administrative trials and hearings as designated by the commissioner, for violations of this section or any rules promulgated by the department pursuant to such section.
+
+d. Social adult day care ombudsperson.
+
+   1. The department shall designate an ombudsperson whose duties shall include, but not be limited to:
+
+      (i) establishing a system to receive comments and complaints with respect to any social adult day care;
+
+      (ii) requesting a list from the state department of health at least once annually of providers operating social adult day cares within the city of New York and the street address of each such social adult day care; and
+
+      (iii) investigating complaints received pursuant to subparagraph (i) of this paragraph or based on any information known to the department related to a social adult day care that may be in violation of the provisions of subdivision a of this section and whether a social adult day care has violated subdivision a of this section and upon finding there has been such a violation:
+
+         (A) promptly informing in writing such social adult day care and any managed long term care organization known to be reimbursing such social adult day care of such finding, and that such finding is appealable by writing to the commissioner in accordance with the rules of the department, and requesting any informed managed long term care organization to respond to the ombudsperson in writing as to whether and how such violations will be addressed,
+
+         (B) at the ombudsperson's discretion, forwarding the results of such investigation and any such response from a managed long term care organization to the department of investigation, the state department of health or any office, agency, or entity responsible for the prevention, detection, and investigation of fraud and abuse in the medical assistance program described in title eleven of the social services law or for the recovery of any improperly expended medical assistance funds, and
+
+         (C) taking other appropriate actions as determined by the commissioner.
+
+   2. A social adult day care shall post in a conspicuous location on its premises a sign indicating how to contact the ombudsperson and a statement indicating that any person may contact such ombudsperson if such person has a comment or complaint regarding such social adult day care.
+
+   3. The department shall make available on its website the contact information of the ombudsperson as well as a statement indicating that any person may contact such ombudsperson with a comment or complaint regarding any social adult day care.
+
+   4. Not later than January 1, 2016 and annually thereafter, the ombudsperson shall provide a written report to the council regarding social adult day cares. Each such report shall include, but not be limited to:
+
+      (i) the total number of social adult day cares and the name and street address of each such social adult day care;
+
+      (ii) the total number of complaints received by the ombudsperson;
+
+      (iii) a general description of the reason for each such complaint;
+
+      (iv) the total number of investigations conducted by the ombudsperson, a general description of the reason for each such investigation, any findings that a social adult day care has violated of subdivision a of this section, and the outcome of each such investigation;
+
+      (v) the total number of notices of violation issued pursuant to subdivisions a and c of this section, disaggregated by the specific violation for which such notice was issued;
+
+      (vi) the total number of social adult day cares that failed to register pursuant to subdivision b as of the date of such report; and
+
+      (vii) any recommendations regarding the operation of social adult day cares.
+
+   5. Except as otherwise required by law, the department shall not share information that identifies any individual who made a complaint to the ombudsperson.
+
+e. Online public searchable database of social adult day cares.
+
+   1. The department shall create and maintain an online public searchable database of social adult day cares registered with the department pursuant with subdivision b of this section, which the public shall be able to search by the name under which the social adult day care registered, by the name under which the social adult day care is doing business, by borough, and by zip code. The database shall include the following information reported to the department pursuant to such subdivision: (i) the name, address, telephone number, and website, if any, of the social adult day care; (ii) the corporate structure and ownership of the social adult day care; (iii) the days and hours of operation of the social adult day care; (iv) the year the social adult day care was established; and (v) the name, address and telephone number of any managed long term care company with which the social adult day care has a formal agreement. The database shall further include any other relevant information reported to the department pursuant to this section.
+
+   2. If applicable, the database shall indicate the number of notices of violation issued and the outcome of any adjudication conducted pursuant to subdivision c. The year and nature of the notice of violation and the adjudication shall be posted, but may not contain personally identifying information about a complainant.
+
+   3. The database shall allow an individual to submit complaints electronically about a social adult day care to the ombudsperson.
+
+
+
+
+
+
+
+
+*§ 21-204.1 Inspections for social adult day cares and senior centers; reporting.* ::
+
+
+a. The department shall provide the department of health and mental hygiene a list of all social adult day cares registered with the department and a list of all senior centers in the city on an annual basis and update the department of health and mental hygiene monthly of any changes to either list.
+
+b. The department shall make available on its website information about the inspections of senior centers and social adult day cares conducted by the department of health and mental hygiene pursuant to subdivision b of section 17-1506.
+
+
+
+
+
+
+
+
+*§ 21-205 Aging in place guide.* ::
+
+
+In consultation with the department of buildings, the department of housing preservation and development, the mayor's office for people with disabilities, and businesses and nonprofit organizations with expertise in design for dwelling units occupied by older adults, the department shall develop, distribute, and publish on its website, not later than July 1, 2016, a guide for building owners regarding modifications and improvements that may be made to dwelling units to allow tenants to safely remain in such units for as long as possible as such tenants age. Such guide shall include, but not be limited to, information relating to: improving access for individuals with limited mobility; lighting, railings and grab bars; technological enhancements; and widening of doorways and hallways. Such guide shall also include information on available public and private sources of funding, including information on eligibility criteria and how to apply for such funding, to assist building owners in making modifications and improvements.
+
+
+
+
+
+
+
+
+*§ 21-206 Unpaid caregiver plan.* ::
+
+
+a. Definitions. For purposes of this section:
+
+   Adult. The term "adult" means an individual 18 years of age or older.
+
+   Unpaid caregiver. The term "unpaid caregiver" means 1) an adult family member or other adult providing unpaid care to a person 60 years of age or older; 2) an adult family member or other adult providing unpaid care to a person with Alzheimer's disease or other dementia; 3) a grandparent or other non-parent relative 55 years of age or older providing unpaid care to a child under the age of 18; and 4) an adult providing unpaid care to an individual with a disability between the age of 18 and 59.
+
+b. No later than February 15, 2017, the department shall develop and conduct a survey of unpaid caregivers and providers offering services to unpaid caregivers within the city to identify the needs of unpaid caregivers, as well as to assess existing caregiver services. Such survey shall be developed in consultation with academic experts in caregiving issues, service providers, and other appropriate stakeholders, and shall contain questions designed to collect information from a sample of unpaid caregivers and caregiver service providers on the following issues:
+
+   1. Availability of information about programs, services, and other resources designed to provide support to unpaid caregivers;
+
+   2. Accessibility of programs and services, including, but not limited to, hours of operation, location, transportation options for accessing such programs and services, cost, payment methods, eligibility restrictions, cultural competency, and language capacity;
+
+   3. Utilization of programs and services, including, but not limited to, the number of individuals requesting and receiving services, the types of services requested, and the number of individuals placed on waitlists for services where applicable; and
+
+   4. Recipient outcomes as a result of utilizing existing programs and services, including, but not limited to, the unpaid caregiver's health and employment circumstances, access to benefits, knowledge about the care recipient's illness or condition, and awareness and use of appropriate services for the care recipient's illness or condition.
+
+c. No later than August 30, 2017, the department shall deliver to the mayor and speaker of the council, and shall post on its website, a comprehensive plan to address the needs of unpaid caregivers within the city, in consultation with the department of social services, the mayor's office for people with disabilities, the department of health and mental hygiene, and such other appropriate agencies as the mayor shall determine. The department also shall consult with unpaid caregivers, academic experts in caregiving issues, service providers, advocates for senior citizens and individuals with disabilities, and any other stakeholders that the department may deem appropriate in developing such plan.
+
+d. The plan required by subdivision c of this section shall include, but not be limited to:
+
+   1. The results of the survey required by subdivision b of this section;
+
+   2. Data on:
+
+      (a) the estimated total number of unpaid caregivers providing care in the city, disaggregated by age, gender, race, ethnicity, language, income level, borough of residence, and employment status;
+
+      (b) the estimated average number of hours of care per week provided by unpaid caregivers, disaggregated by age, gender, race, ethnicity, language, income level, borough of residence, and employment status;
+
+      (c) care recipients, including but not limited to, age, gender, borough of residence, number of individuals providing care to recipients, daily activities necessitating assistance from a caregiver, health condition, and living situation; and
+
+   3. Recommendations about:
+
+      (a) how to increase information and outreach to unpaid caregivers;
+
+      (b) how to expand education and training for unpaid caregivers;
+
+      (c) how to educate and involve businesses in addressing workplace issues impacting unpaid caregivers;
+
+      (d) how to address issues and concerns with existing programs and services identified through the survey conducted pursuant to subdivision b of this section;
+
+      (e) additional programs and services that may be established to provide support to unpaid caregivers;
+
+      (f) how to increase civic engagement and volunteer opportunities to support unpaid caregivers; and
+
+      (g) Any other issues that the department deems appropriate.
+
+e. Beginning two years following the submission of the plan required by subdivision c of this section and every five years thereafter, the department shall submit to the mayor and the speaker a report detailing progress made on the recommendations, initiatives, and priorities that result from such plan, as well as updated data for the information described in paragraph 2 of subdivision d.
+
+f. The unpaid caregiver plan shall be revisited and revised as appropriate every four years after the submission of the initial plan.
+
+
+
+
+
+
+
+
+*§ 21-207 Users of life-sustaining equipment and individuals for whom a disruption in electrical service would create a medical emergency.* ::
+
+
+The department shall regularly provide written materials from the office of emergency management to all senior centers in the city and all naturally occurring retirement communities sponsored by the department on how to register with any utility providing electrical service within the city as a user of life-sustaining equipment or an individual for whom a disruption in electrical service would create a medical emergency. These materials shall also be posted electronically in a conspicuous location on the department’s website and on the website of the mayor’s office for people with disabilities.
+
+
+
+
+
+
+
+
+*§ 21-208 Senior centers.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Affiliated sites. The term “affiliated sites” means department-funded congregate sites affiliated with a senior center, including any social club, satellite, or extended/social services.
+
+   Senior. The term “senior” means a person 60 years of age and older.
+
+b. Not later than December 31, 2018, and by December 31 annually thereafter, the department shall submit to the speaker of the council and post to its website an annual report regarding the services of all department-funded senior centers.
+
+c. The annual report shall include, but need not be limited to, the following information in non-proprietary machine readable format for each such senior center for the prior fiscal year:
+
+   1. The program name, sponsor name, address, borough, council district, community district, designation as a neighborhood senior center or innovative senior center, and days and hours of operation as well as such information for each affiliated site;
+
+   2. The contract term, including any renewals;
+
+   3. The budgeted total annual contract amount and the total annual reimbursed expenditures paid;
+
+   4. The average number of daily participants;
+
+   5. The total annual reimbursed expenditures for congregate meals, disaggregated by kosher and non-kosher meals;
+
+   6. The cost per meal for each senior center, disaggregated by kosher and non-kosher meals;
+
+   7. The method by which the senior center provides congregate meals, either by in-house preparation or catered meals, and whether the senior center provides meals for any other senior center;
+
+   8. The combined total cost per person for providing services in the following areas: information and assistance; education and recreation; and health promotion. The report shall further include a brief description of the types of services provided in each such area;
+
+   9. The percentage service utilization based on actual units of service versus planned units of service comprising the combined total of services in the following areas: information and assistance; education and recreation; and health promotion;
+
+   10. The total number of employees, disaggregated by full-time and part-time employees; and
+
+   11. The total budgeted amount for personnel services.
+
+d. Not later than December 31, 2019, and by December 31 annually thereafter, the department shall submit to the speaker of the council and post to its website the following information in non-proprietary machine readable format for each department-funded senior center for the prior fiscal year:
+
+   1. The total number of participants per day, including the corresponding date;
+
+   2. The total number of congregate meals served per day, including the corresponding date; disaggregated by breakfast, lunch, or dinner, where applicable; and type of meal, including but not limited to kosher and non-kosher; and
+
+   3. The total number of participants served in each of the following areas per day, including the corresponding date, and the total number of participants served in the combined total of such areas: information and assistance; education and recreation; and health promotion.
+
+e. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
+
+
+
+* Editor's note: Section 2 of L.L. 2018/140 provides: "This local law takes effect immediately and remains in effect until January 1, 2028, when it is deemed repealed."
+
+
+
+
+
+
+*§ 21-209 Mental health training for senior center case workers.* ::
+
+
+a. Definitions. For the purposes of this section, the term “caseworker” means an individual employed by a senior center that receives funding from the department to provide services on-site pursuant to a contract procured under chapter 13 of the charter and through a source selection method established by procurement policy board rule, who provides case assistance, information and referrals for benefits and social services at such a senior center.
+
+b. Each caseworker shall complete a training to recognize the signs and symptoms of mental illness for older adults offered by the department of health and mental hygiene or a successor agency, provided that such department offers such training.
+
+c. At least once every three years after completing the training described in subdivision b of this section, each caseworker shall receive supplemental refresher training, provided that the department of health and mental hygiene or a successor agency offers such training.
+
+
+
+
+
+
 Chapter 3: Department of Homeless Services
 --------------------------------------------------
 
@@ -2415,329 +2740,6 @@ b. No later than January 31, 2018, and every weekday, Monday through Friday, the
 a. Definitions. For the purposes of this section, the term “shelter” means temporary emergency housing provided to homeless individuals by the department or by a provider under contract or similar agreement with the department.
 
 b. The department shall refer any individual who discloses to their case manager, as defined in section 21-314, that while in shelter they have received an opioid antagonist to combat the symptoms consistent with those of an opioid overdose, to appropriate service providers for appropriate additional services.
-
-
-
-
-
-
-Chapter 2: Department For the Aging
---------------------------------------------------
-
-
-
-*§ 21-201 Definitions.* ::
-
-
-Whenever used in this chapter, the following words shall have the following meanings:
-
-a. "Commissioner" shall mean the commissioner of the department for the aging.
-
-b. "Department" shall mean the department for the aging.
-
-c. "Regularly schedules activities" shall mean all activities which are funded in whole or in part by the city of New York.
-
-d. "Senior center" shall mean facilities operated by the city of New York or operated by an entity that has contracted with the department to provide services to senior citizens on a regular basis including, but not limited to meals, recreation and counseling.
-
-e. "Elder abuse" shall mean any knowing, intentional, or negligent act by a caregiver or any other person holding a trusting relationship with a vulnerable older adult, which causes harm or a serious risk of harm to that older adult including physical, emotional, sexual, or financial harm, or neglect, abandonment or confinement.
-
-f. "Social adult day care" has the same meaning as set forth in section two hundred fifteen of the elder law and any regulations promulgated by the director of the office for the aging pursuant to such section.
-
-
-
-
-
-
-*§ 21-202 Bill of rights required.* ::
-
-
-a. The commissioner shall require that every senior center adopt a statement of the rights of all senior citizens who participate in activities and take advantage of services provided by such senior center and treat all senior citizens in accordance with the provisions of such statement.
-
-b. Contents of bill of rights. Such statement of rights shall include the following:
-
-   1. Every senior citizen who otherwise qualifies for participation shall have the right to participate as a member of a senior center.
-
-   2. Every senior citizen shall have the right to participate in all regularly scheduled activities and take advantage of services provided by the center to the extent that funding and space limitations permit.
-
-   3. Every senior center shall have a senior advisory council which will be comprised of senior citizens from the senior center membership. Such advisory council shall advise the senior center's management of the needs of the senior citizens.
-
-   4. Every senior citizen attending a senior center's regularly scheduled meal period shall be offered a balanced and nutritious meal to the extent that funding and space limitations permit. Those senior citizens that do not receive a balanced and nutritious meal shall be offered nourishment during a senior center's regularly scheduled meal period to the extent that funding permits.
-
-   5. Every senior citizen attending a senior center shall have the opportunity to make a financial contribution which shall be voluntary and anonymous and shall be used by the senior center to enhance and increase services to senior citizens.
-
-   6. Every senior citizen shall be treated courteously, fairly and respectfully at a senior center.
-
-   7. Every senior citizen shall have the right not to be discriminated against based upon his or her actual or perceived race, creed, color, national origin, age, gender, disability, marital status, sexual orientation, alienage or citizenship status, in violation of the human rights law of the city of New York.
-
-   8. Every senior citizen shall have the right to be informed of those senior centers that are handicapped accessible.
-
-   9. Every senior citizen shall have the right to present grievances on behalf of himself or herself to the senior center's staff, board of directors or executive committee, or elected or other government officials, without fear of reprisal from officers or employees of the senior center.
-
-c. Posting required. Every senior center shall post conspicuously:
-
-   (i) in or near the entrance to such center a sign that states the rights of senior citizens as provided in this section;
-
-   (ii) all regularly scheduled activities as defined in this section; and
-
-   (iii) the department's phone number.
-
-d. Nothing in this section shall be construed to limit the department's authority to promulgate rules regarding matters within its jurisdiction pursuant to applicable law.
-
-
-
-
-
-
-*§ 21-203 Elder abuse training.* ::
-
-
-a. The commissioner shall develop a program to train senior service providers in the detection and reporting of elder abuse. Such program shall also include training on the counseling of elder abuse victims.
-
-b. The commissioner shall require that employees of senior centers and employees of entities that contract with the department to provide services to senior citizens, be trained in elder abuse detection, reporting and counseling, and receive supplemental refresher training regarding the same at least once every 3 years, if such employee has or is expected to have significant and direct person to person contact with senior citizens.
-
-c. The commissioner shall require senior centers to hold at least two educational sessions per year during which guests and members of the senior center will receive counseling regarding elder abuse prevention and awareness and be instructed on how to detect and report instances of elder abuse.
-
-d. The commissioner shall require that every senior center post signage in a prominent common area section within the center that directs those who need information regarding elder abuse detection, reporting, counseling and services to call either the 311 citizen service system or the department's Elderly Crime Victims Resource Center.
-
-
-
-
-
-
-*§ 21-204 Social adult day care.* ::
-
-
-a. 1. All social adult day cares that do not receive funding pursuant to section two hundred fifteen of the elder law shall meet the standards and requirements of any rules or regulations promulgated by the director of the office for the aging pursuant to such section related to program standards and participant rights, notwithstanding the fact that such social adult day cares do not receive such funding. For the purposes of this section, any reference to an "area agency on aging" in such rules and regulations means the department and any reference to a "participant" in such rules and regulations means an adult individual who is functionally impaired as defined in such rules and regulations and is eligible for and is receiving services from a social adult day care. Any references to "functionally impaired" and "social adult day care program" in such rules and regulations shall have the same meanings set forth therein.
-
-   2. All social adult day cares shall carry out the provisions of this section in accordance with all applicable provisions of the Americans with disabilities act of nineteen ninety.
-
-b. Registration.
-
-   1. An individual, partnership, corporation, limited liability company, joint venture, association, or other business entity shall not operate as a social adult day care without having registered with the department. Registration shall include registrant's name, address, corporate structure and ownership, and other information as the department may require and shall be filed on forms to be prescribed by the department. The department may require social adult day cares to register electronically.
-
-   2. Changes to information required under this subdivision must be submitted to the department no later than the effective date of such change in writing or electronically in a form and manner designated by the department.
-
-c. Civil penalties.
-
-   1. The department shall adopt rules establishing civil penalties of not less than two hundred fifty dollars per day and not more than five hundred dollars per day to be assessed against social adult day cares for violations of subdivision a and any regulations promulgated thereunder. Such rules establishing civil penalties shall specify the violations subject to penalty.
-
-   2. Any individual, partnership, corporation, limited liability company, joint venture, association, or other business entity that operates as a social adult day care without registering shall be subject to a civil penalty of not less than two hundred fifty dollars per day and not more than one thousand dollars per day such social adult day care operates without registering.
-
-   3. The department and officers and employees of city agencies designated by the mayor shall have the authority to issue notices of violation, returnable at the environmental control board, any administrative tribunal within such designated agency, or any tribunal established within the office of administrative trials and hearings as designated by the commissioner, for violations of this section or any rules promulgated by the department pursuant to such section.
-
-d. Social adult day care ombudsperson.
-
-   1. The department shall designate an ombudsperson whose duties shall include, but not be limited to:
-
-      (i) establishing a system to receive comments and complaints with respect to any social adult day care;
-
-      (ii) requesting a list from the state department of health at least once annually of providers operating social adult day cares within the city of New York and the street address of each such social adult day care; and
-
-      (iii) investigating complaints received pursuant to subparagraph (i) of this paragraph or based on any information known to the department related to a social adult day care that may be in violation of the provisions of subdivision a of this section and whether a social adult day care has violated subdivision a of this section and upon finding there has been such a violation:
-
-         (A) promptly informing in writing such social adult day care and any managed long term care organization known to be reimbursing such social adult day care of such finding, and that such finding is appealable by writing to the commissioner in accordance with the rules of the department, and requesting any informed managed long term care organization to respond to the ombudsperson in writing as to whether and how such violations will be addressed,
-
-         (B) at the ombudsperson's discretion, forwarding the results of such investigation and any such response from a managed long term care organization to the department of investigation, the state department of health or any office, agency, or entity responsible for the prevention, detection, and investigation of fraud and abuse in the medical assistance program described in title eleven of the social services law or for the recovery of any improperly expended medical assistance funds, and
-
-         (C) taking other appropriate actions as determined by the commissioner.
-
-   2. A social adult day care shall post in a conspicuous location on its premises a sign indicating how to contact the ombudsperson and a statement indicating that any person may contact such ombudsperson if such person has a comment or complaint regarding such social adult day care.
-
-   3. The department shall make available on its website the contact information of the ombudsperson as well as a statement indicating that any person may contact such ombudsperson with a comment or complaint regarding any social adult day care.
-
-   4. Not later than January 1, 2016 and annually thereafter, the ombudsperson shall provide a written report to the council regarding social adult day cares. Each such report shall include, but not be limited to:
-
-      (i) the total number of social adult day cares and the name and street address of each such social adult day care;
-
-      (ii) the total number of complaints received by the ombudsperson;
-
-      (iii) a general description of the reason for each such complaint;
-
-      (iv) the total number of investigations conducted by the ombudsperson, a general description of the reason for each such investigation, any findings that a social adult day care has violated of subdivision a of this section, and the outcome of each such investigation;
-
-      (v) the total number of notices of violation issued pursuant to subdivisions a and c of this section, disaggregated by the specific violation for which such notice was issued;
-
-      (vi) the total number of social adult day cares that failed to register pursuant to subdivision b as of the date of such report; and
-
-      (vii) any recommendations regarding the operation of social adult day cares.
-
-   5. Except as otherwise required by law, the department shall not share information that identifies any individual who made a complaint to the ombudsperson.
-
-e. Online public searchable database of social adult day cares.
-
-   1. The department shall create and maintain an online public searchable database of social adult day cares registered with the department pursuant with subdivision b of this section, which the public shall be able to search by the name under which the social adult day care registered, by the name under which the social adult day care is doing business, by borough, and by zip code. The database shall include the following information reported to the department pursuant to such subdivision: (i) the name, address, telephone number, and website, if any, of the social adult day care; (ii) the corporate structure and ownership of the social adult day care; (iii) the days and hours of operation of the social adult day care; (iv) the year the social adult day care was established; and (v) the name, address and telephone number of any managed long term care company with which the social adult day care has a formal agreement. The database shall further include any other relevant information reported to the department pursuant to this section.
-
-   2. If applicable, the database shall indicate the number of notices of violation issued and the outcome of any adjudication conducted pursuant to subdivision c. The year and nature of the notice of violation and the adjudication shall be posted, but may not contain personally identifying information about a complainant.
-
-   3. The database shall allow an individual to submit complaints electronically about a social adult day care to the ombudsperson.
-
-
-
-
-
-
-
-
-*§ 21-204.1 Inspections for social adult day cares and senior centers; reporting.* ::
-
-
-a. The department shall provide the department of health and mental hygiene a list of all social adult day cares registered with the department and a list of all senior centers in the city on an annual basis and update the department of health and mental hygiene monthly of any changes to either list.
-
-b. The department shall make available on its website information about the inspections of senior centers and social adult day cares conducted by the department of health and mental hygiene pursuant to subdivision b of section 17-1506.
-
-
-
-
-
-
-
-
-*§ 21-205 Aging in place guide.* ::
-
-
-In consultation with the department of buildings, the department of housing preservation and development, the mayor's office for people with disabilities, and businesses and nonprofit organizations with expertise in design for dwelling units occupied by older adults, the department shall develop, distribute, and publish on its website, not later than July 1, 2016, a guide for building owners regarding modifications and improvements that may be made to dwelling units to allow tenants to safely remain in such units for as long as possible as such tenants age. Such guide shall include, but not be limited to, information relating to: improving access for individuals with limited mobility; lighting, railings and grab bars; technological enhancements; and widening of doorways and hallways. Such guide shall also include information on available public and private sources of funding, including information on eligibility criteria and how to apply for such funding, to assist building owners in making modifications and improvements.
-
-
-
-
-
-
-
-
-*§ 21-206 Unpaid caregiver plan.* ::
-
-
-a. Definitions. For purposes of this section:
-
-   Adult. The term "adult" means an individual 18 years of age or older.
-
-   Unpaid caregiver. The term "unpaid caregiver" means 1) an adult family member or other adult providing unpaid care to a person 60 years of age or older; 2) an adult family member or other adult providing unpaid care to a person with Alzheimer's disease or other dementia; 3) a grandparent or other non-parent relative 55 years of age or older providing unpaid care to a child under the age of 18; and 4) an adult providing unpaid care to an individual with a disability between the age of 18 and 59.
-
-b. No later than February 15, 2017, the department shall develop and conduct a survey of unpaid caregivers and providers offering services to unpaid caregivers within the city to identify the needs of unpaid caregivers, as well as to assess existing caregiver services. Such survey shall be developed in consultation with academic experts in caregiving issues, service providers, and other appropriate stakeholders, and shall contain questions designed to collect information from a sample of unpaid caregivers and caregiver service providers on the following issues:
-
-   1. Availability of information about programs, services, and other resources designed to provide support to unpaid caregivers;
-
-   2. Accessibility of programs and services, including, but not limited to, hours of operation, location, transportation options for accessing such programs and services, cost, payment methods, eligibility restrictions, cultural competency, and language capacity;
-
-   3. Utilization of programs and services, including, but not limited to, the number of individuals requesting and receiving services, the types of services requested, and the number of individuals placed on waitlists for services where applicable; and
-
-   4. Recipient outcomes as a result of utilizing existing programs and services, including, but not limited to, the unpaid caregiver's health and employment circumstances, access to benefits, knowledge about the care recipient's illness or condition, and awareness and use of appropriate services for the care recipient's illness or condition.
-
-c. No later than August 30, 2017, the department shall deliver to the mayor and speaker of the council, and shall post on its website, a comprehensive plan to address the needs of unpaid caregivers within the city, in consultation with the department of social services, the mayor's office for people with disabilities, the department of health and mental hygiene, and such other appropriate agencies as the mayor shall determine. The department also shall consult with unpaid caregivers, academic experts in caregiving issues, service providers, advocates for senior citizens and individuals with disabilities, and any other stakeholders that the department may deem appropriate in developing such plan.
-
-d. The plan required by subdivision c of this section shall include, but not be limited to:
-
-   1. The results of the survey required by subdivision b of this section;
-
-   2. Data on:
-
-      (a) the estimated total number of unpaid caregivers providing care in the city, disaggregated by age, gender, race, ethnicity, language, income level, borough of residence, and employment status;
-
-      (b) the estimated average number of hours of care per week provided by unpaid caregivers, disaggregated by age, gender, race, ethnicity, language, income level, borough of residence, and employment status;
-
-      (c) care recipients, including but not limited to, age, gender, borough of residence, number of individuals providing care to recipients, daily activities necessitating assistance from a caregiver, health condition, and living situation; and
-
-   3. Recommendations about:
-
-      (a) how to increase information and outreach to unpaid caregivers;
-
-      (b) how to expand education and training for unpaid caregivers;
-
-      (c) how to educate and involve businesses in addressing workplace issues impacting unpaid caregivers;
-
-      (d) how to address issues and concerns with existing programs and services identified through the survey conducted pursuant to subdivision b of this section;
-
-      (e) additional programs and services that may be established to provide support to unpaid caregivers;
-
-      (f) how to increase civic engagement and volunteer opportunities to support unpaid caregivers; and
-
-      (g) Any other issues that the department deems appropriate.
-
-e. Beginning two years following the submission of the plan required by subdivision c of this section and every five years thereafter, the department shall submit to the mayor and the speaker a report detailing progress made on the recommendations, initiatives, and priorities that result from such plan, as well as updated data for the information described in paragraph 2 of subdivision d.
-
-f. The unpaid caregiver plan shall be revisited and revised as appropriate every four years after the submission of the initial plan.
-
-
-
-
-
-
-
-
-*§ 21-207 Users of life-sustaining equipment and individuals for whom a disruption in electrical service would create a medical emergency.* ::
-
-
-The department shall regularly provide written materials from the office of emergency management to all senior centers in the city and all naturally occurring retirement communities sponsored by the department on how to register with any utility providing electrical service within the city as a user of life-sustaining equipment or an individual for whom a disruption in electrical service would create a medical emergency. These materials shall also be posted electronically in a conspicuous location on the department’s website and on the website of the mayor’s office for people with disabilities.
-
-
-
-
-
-
-
-
-*§ 21-208 Senior centers.* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Affiliated sites. The term “affiliated sites” means department-funded congregate sites affiliated with a senior center, including any social club, satellite, or extended/social services.
-
-   Senior. The term “senior” means a person 60 years of age and older.
-
-b. Not later than December 31, 2018, and by December 31 annually thereafter, the department shall submit to the speaker of the council and post to its website an annual report regarding the services of all department-funded senior centers.
-
-c. The annual report shall include, but need not be limited to, the following information in non-proprietary machine readable format for each such senior center for the prior fiscal year:
-
-   1. The program name, sponsor name, address, borough, council district, community district, designation as a neighborhood senior center or innovative senior center, and days and hours of operation as well as such information for each affiliated site;
-
-   2. The contract term, including any renewals;
-
-   3. The budgeted total annual contract amount and the total annual reimbursed expenditures paid;
-
-   4. The average number of daily participants;
-
-   5. The total annual reimbursed expenditures for congregate meals, disaggregated by kosher and non-kosher meals;
-
-   6. The cost per meal for each senior center, disaggregated by kosher and non-kosher meals;
-
-   7. The method by which the senior center provides congregate meals, either by in-house preparation or catered meals, and whether the senior center provides meals for any other senior center;
-
-   8. The combined total cost per person for providing services in the following areas: information and assistance; education and recreation; and health promotion. The report shall further include a brief description of the types of services provided in each such area;
-
-   9. The percentage service utilization based on actual units of service versus planned units of service comprising the combined total of services in the following areas: information and assistance; education and recreation; and health promotion;
-
-   10. The total number of employees, disaggregated by full-time and part-time employees; and
-
-   11. The total budgeted amount for personnel services.
-
-d. Not later than December 31, 2019, and by December 31 annually thereafter, the department shall submit to the speaker of the council and post to its website the following information in non-proprietary machine readable format for each department-funded senior center for the prior fiscal year:
-
-   1. The total number of participants per day, including the corresponding date;
-
-   2. The total number of congregate meals served per day, including the corresponding date; disaggregated by breakfast, lunch, or dinner, where applicable; and type of meal, including but not limited to kosher and non-kosher; and
-
-   3. The total number of participants served in each of the following areas per day, including the corresponding date, and the total number of participants served in the combined total of such areas: information and assistance; education and recreation; and health promotion.
-
-e. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement.
-
-
-
-* Editor's note: Section 2 of L.L. 2018/140 provides: "This local law takes effect immediately and remains in effect until January 1, 2028, when it is deemed repealed."
-
-
-
-
-
-
-*§ 21-209 Mental health training for senior center case workers.* ::
-
-
-a. Definitions. For the purposes of this section, the term “caseworker” means an individual employed by a senior center that receives funding from the department to provide services on-site pursuant to a contract procured under chapter 13 of the charter and through a source selection method established by procurement policy board rule, who provides case assistance, information and referrals for benefits and social services at such a senior center.
-
-b. Each caseworker shall complete a training to recognize the signs and symptoms of mental illness for older adults offered by the department of health and mental hygiene or a successor agency, provided that such department offers such training.
-
-c. At least once every three years after completing the training described in subdivision b of this section, each caseworker shall receive supplemental refresher training, provided that the department of health and mental hygiene or a successor agency offers such training.
 
 
 

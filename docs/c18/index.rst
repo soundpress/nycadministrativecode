@@ -7485,9 +7485,9 @@ a. Any pet shop that displays, offers for sale, delivers, barters, auctions, giv
 
       (a) a finally determined "direct" non-compliant item citation pursuant to 7 U.S.C. § 2131, et seq., and regulations promulgated thereunder, as indicated on any United States department of agriculture inspection report at any time during the prior three years; or
 
-      (b) a finally determined citation for failure to provide inspectors access to property or records as required pursuant to 9 C.F.R. § 2.126, or successor regulations, as indicated on either of the two most recent United States department of agriculture inspection reports; or
+      (b) a finally determined citation for failure to provide inspectors access to property or records as required pursuant to 9 CFR § 2.126, or successor regulations, as indicated on either of the two most recent United States department of agriculture inspection reports; or
 
-      (c) three or more distinct finally determined non-compliant item citations pursuant to 7 U.S.C. § 2131, et seq., and regulations promulgated thereunder, other than citations for failure to provide inspectors access to property or records as required pursuant to 9 C.F.R. § 2.126, or successor regulations, as indicated on the most recent United States department of agriculture inspection report; or
+      (c) three or more distinct finally determined non-compliant item citations pursuant to 7 U.S.C. § 2131, et seq., and regulations promulgated thereunder, other than citations for failure to provide inspectors access to property or records as required pursuant to 9 CFR § 2.126, or successor regulations, as indicated on the most recent United States department of agriculture inspection report; or
 
       (d) one or more finally determined repeat non-compliant item citations pursuant to 7 U.S.C. § 2131, et seq., and regulations promulgated thereunder, as indicated on the most recent United States department of agriculture inspection report; or
 

@@ -512,23 +512,6 @@ No later than September fifteen, 2018, the department shall provide, and update 
 
 
 
-Chapter 6: City Issued Permits, Licenses, and Registrations
---------------------------------------------------
-
-
-
-*§ 23-601 Mobile access to additional information.* ::
-
-
-a. Any permit, license, or registration that is issued by any city agency, and which is required by any law or rule to be conspicuously posted or otherwise visible to the public, shall include technology or technologies, such as a quick response code or a near field communication tag, by which an individual with a properly equipped mobile device may directly access publicly available information maintained online by the agency relating specifically to such permit, license, or registration. "Scan for more info," or other similarly descriptive text describing the purpose or use of the technology, shall be printed near the technology or technologies on the permit, license, or registration.
-
-b. The requirements of subdivision a of this section shall not apply to any permit, license, or registration about which no publicly available information beyond that which is printed on such permit, license, or registration is maintained online by the agency issuing such permit, license, or registration. If publicly available information maintained by the agency beyond that which is printed on such permit, license, or registration is made available by the agency online subsequent to the issuance of such permit, license, or registration, the requirements of subdivision a of this section shall apply to the next issuance of such permit, license, or registration.
-
-c. The department of information technology and telecommunications, or any successor agency, shall prepare and publish a technical manual specifying the appropriate technology or technologies for inclusion on such permits, licenses, and registrations, taking into account, at a minimum, the cost, accessibility, and potential usefulness of the technology or technologies, and shall review, and update as necessary, such manual at least once every two years.
-
-
-
-
 Chapter 7: Department of Health and Mental Hygiene
 --------------------------------------------------
 
@@ -594,43 +577,19 @@ c. At least once every school year, the principal of every school of the city sc
 
 
 
-Chapter 8: City Websites
+Chapter 6: City Issued Permits, Licenses, and Registrations
 --------------------------------------------------
 
 
 
-*§ 23-801 Access to translation.* ::
+*§ 23-601 Mobile access to additional information.* ::
 
 
-Every website maintained by or on behalf of the city or a city agency shall include a translation feature for viewing the text of that website, wherever practicable, in languages other than English. Such translation feature shall be indicated by a means, other than or in addition to English, that is comprehensible to speakers of the seven most commonly spoken languages within the city as determined by the department of city planning, which may include a rotating language sequence.
+a. Any permit, license, or registration that is issued by any city agency, and which is required by any law or rule to be conspicuously posted or otherwise visible to the public, shall include technology or technologies, such as a quick response code or a near field communication tag, by which an individual with a properly equipped mobile device may directly access publicly available information maintained online by the agency relating specifically to such permit, license, or registration. "Scan for more info," or other similarly descriptive text describing the purpose or use of the technology, shall be printed near the technology or technologies on the permit, license, or registration.
 
+b. The requirements of subdivision a of this section shall not apply to any permit, license, or registration about which no publicly available information beyond that which is printed on such permit, license, or registration is maintained online by the agency issuing such permit, license, or registration. If publicly available information maintained by the agency beyond that which is printed on such permit, license, or registration is made available by the agency online subsequent to the issuance of such permit, license, or registration, the requirements of subdivision a of this section shall apply to the next issuance of such permit, license, or registration.
 
-
-
-
-
-
-
-*§ 23-802 Accessibility.* ::
-
-
-a. The mayor or the mayor's designee shall adopt a protocol for websites maintained by or on behalf of the city or a city agency relating to website accessibility for persons with disabilities. Such protocol shall provide for agency websites to use either of the following standards: 36 CFR § 1194.22 or the Web Content Accessibility Guidelines (WCAG) 2.0 Level AA, developed by the Worldwide Web Consortium, or any successor standards, provided that the adopted protocol may differ from these standards in specific instances when the mayor or mayor's designee determines, after consulting with experts in website design and reasonable accommodations for people with disabilities, and the holding of a public hearing, that such differences will provide effective communication for people with disabilities, and that such differences are documented in such protocol. Such protocol shall be made available online. This section does not require an agency to take any action that would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.
-
-b.  No later than July 1, 2017, and every two years thereafter, the mayor or the mayor's designee shall submit to the council a written report that documents the compliance of websites maintained by or on behalf of the city or a city agency with the protocol adopted pursuant to subdivision a of this section.
-
-
-
-
-
-
-
-
-*§ 23-803 Online interactive map.* ::
-
-
-The department of environmental protection shall provide to the public, at no charge, on the city’s website, an online interactive map pursuant to section 24-309.1. All information required by section 24-309.1 shall be available on the city’s website on or before June 1, 2019 and updated, at minimum, in June of each year. The mayor shall ensure that agencies provide such department with assistance and information as it requires to compile and update the interactive map.
-
-
+c. The department of information technology and telecommunications, or any successor agency, shall prepare and publish a technical manual specifying the appropriate technology or technologies for inclusion on such permits, licenses, and registrations, taking into account, at a minimum, the cost, accessibility, and potential usefulness of the technology or technologies, and shall review, and update as necessary, such manual at least once every two years.
 
 
 
@@ -714,6 +673,47 @@ d. All materials described in subdivision c of this section, to the extent pract
    4. any other accommodations for people with disabilities that will be available at the venue or venues for the event, which shall be indicated by the relevant international symbol if applicable.
 
 e. The mayor's office for people with disabilities shall develop, make available on its website, and distribute to each agency, and members of the public upon request, a guide to assist agencies in notifying the public about the availability of, and responding to requests for, reasonable accommodations described in subdivision d of this section. The guide shall contain a comprehensive list of common disability access symbols, and shall be periodically updated as appropriate.
+
+
+
+
+
+
+Chapter 8: City Websites
+--------------------------------------------------
+
+
+
+*§ 23-801 Access to translation.* ::
+
+
+Every website maintained by or on behalf of the city or a city agency shall include a translation feature for viewing the text of that website, wherever practicable, in languages other than English. Such translation feature shall be indicated by a means, other than or in addition to English, that is comprehensible to speakers of the seven most commonly spoken languages within the city as determined by the department of city planning, which may include a rotating language sequence.
+
+
+
+
+
+
+
+
+*§ 23-802 Accessibility.* ::
+
+
+a. The mayor or the mayor's designee shall adopt a protocol for websites maintained by or on behalf of the city or a city agency relating to website accessibility for persons with disabilities. Such protocol shall provide for agency websites to use either of the following standards: 36 CFR § 1194.22 or the Web Content Accessibility Guidelines (WCAG) 2.0 Level AA, developed by the Worldwide Web Consortium, or any successor standards, provided that the adopted protocol may differ from these standards in specific instances when the mayor or mayor's designee determines, after consulting with experts in website design and reasonable accommodations for people with disabilities, and the holding of a public hearing, that such differences will provide effective communication for people with disabilities, and that such differences are documented in such protocol. Such protocol shall be made available online. This section does not require an agency to take any action that would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.
+
+b.  No later than July 1, 2017, and every two years thereafter, the mayor or the mayor's designee shall submit to the council a written report that documents the compliance of websites maintained by or on behalf of the city or a city agency with the protocol adopted pursuant to subdivision a of this section.
+
+
+
+
+
+
+
+
+*§ 23-803 Online interactive map.* ::
+
+
+The department of environmental protection shall provide to the public, at no charge, on the city’s website, an online interactive map pursuant to section 24-309.1. All information required by section 24-309.1 shall be available on the city’s website on or before June 1, 2019 and updated, at minimum, in June of each year. The mayor shall ensure that agencies provide such department with assistance and information as it requires to compile and update the interactive map.
 
 
 

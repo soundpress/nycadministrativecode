@@ -261,11 +261,31 @@ a. The following terms, as used in this chapter, shall have the following meanin
 
          (4) knowingly falsifying or misrepresenting any information provided to such person;
 
-      f-4. repeatedly contacting or visiting any person lawfully entitled to occupancy of such unit (i) on Saturdays, Sundays or legal holidays, (ii) at times other than the hours between 9 a.m. and 5 p.m. or (iii) in such a manner as can reasonably be expected to abuse or harass such person, provided that if such person has notified such owner in writing that such person consents to being contacted or visited at specified hours or in a specified manner, such owner may also contact or visit such person during such specified hours and in such specified manner, and provided further that an owner may contact or visit such person for reasons specifically authorized or mandated by law or rule; or
+      f-4. repeatedly contacting or visiting any person lawfully entitled to occupancy of such unit (i) on Saturdays, Sundays or legal holidays, (ii) at times other than the hours between 9 a.m. and 5 p.m. or (iii) in such a manner as can reasonably be expected to abuse or harass such person, provided that if such person has notified such owner in writing that such person consents to being contacted or visited at specified hours or in a specified manner, such owner may also contact or visit such person during such specified hours and in such specified manner, and provided further that an owner may contact or visit such person for reasons specifically authorized or mandated by law or rule;
 
       f-5. threatening any person lawfully entitled to occupancy of such dwelling unit based on such person's actual or perceived age, race, creed, color, national origin, gender, disability, marital status, partnership status, caregiver status, uniformed service, sexual orientation, alienage or citizenship status, status as a victim of domestic violence, status as a victim of sex offenses or stalking, lawful source of income or because children are, may be or would be residing in such dwelling unit, as such terms are defined in sections 8-102 and 8-107.1 of the code;
 
-      f-6. requesting identifying documentation for any person lawfully entitled to occupancy of such dwelling unit that would disclose the citizenship status of such person, when such person has provided the owner with a current form of government-issued personal identification, as such term is defined in section 21-908, unless such documentation is otherwise required by law or is requested for a specific and limited purpose not inconsistent with this paragraph.
+      f-6. requesting identifying documentation for any person lawfully entitled to occupancy of such dwelling unit that would disclose the citizenship status of such person, when such person has provided the owner with a current form of government-issued personal identification, as such term is defined in section 21-908, unless such documentation is otherwise required by law or is requested for a specific and limited purpose not inconsistent with this paragraph; or
+
+      f-7. threatening any person lawfully entitled to occupancy of such dwelling unit based on such person’s actual or perceived status as an essential employee, status as a person impacted by COVID-19, or receipt of a rent concession or forbearance for any rent owed during the COVID-19 period; provided that for the purposes of this subparagraph:
+
+         (1) the term “COVID-19” means the 2019 novel coronavirus or 2019-nCoV;
+
+         (2) the term “COVID-19 period” means March 7, 2020 through the later of (i) the end of the first month that commences after the expiration of the moratorium on enforcement of evictions of any tenant residential or commercial set forth in executive order number 202.8, as issued by the governor on March 20, 2020 and extended thereafter or (ii) September 30, 2020, inclusive;
+
+         (3) the term “essential employee” means a person employed by or permitted to work at or for a business classified as an essential business by the New York state department of economic development in accordance with executive order number 202.6, as issued by the governor on March 18, 2020 and extended thereafter; and
+
+         (4) the term “person impacted by COVID-19” means a person who has experienced one or more of the following:
+
+            (i) such person was diagnosed with COVID-19 or is experiencing symptoms of COVID-19 and seeking a medical diagnosis;
+
+            (ii) a member of such person’s household was diagnosed with COVID-19;
+
+            (iii) such person was providing care for a family member or a member of such person’s household who was diagnosed with COVID-19;
+
+            (iv) such person became unemployed, partially unemployed, or could not commence employment as a direct result of COVID-19 or the state disaster emergency declared in executive order number 202, as issued by the governor on March 7, 2020; or
+
+            (v) such person became primarily responsible for providing financial support for the household of such person because the previous head of the household died as a direct result of COVID-19;
 
       g. other repeated acts or omissions of such significance as to substantially interfere with or disturb the comfort, repose, peace or quiet of any person lawfully entitled to occupancy of such dwelling unit and that cause or are intended to cause such person to vacate such dwelling unit or to surrender or waive any rights in relation to such occupancy, including improperly requiring such person to seek, receive or refrain from submitting to medical treatment in violation of subdivision b of section 26-1201.
 

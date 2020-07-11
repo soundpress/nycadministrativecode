@@ -3880,6 +3880,91 @@ e. 1. This subchapter shall not apply to a food store or retail establishment th
 
 
 
+
+
+
+**Subchapter 22: Third-Party Food Delivery Services**
+
+
+
+*§ 20-845 Definitions.* ::
+
+
+For the purposes of this subchapter, the following terms have the following meanings:
+
+Declared emergency. The term “declared emergency” means the period during which a state disaster emergency has been declared by the governor of the state of New York or a state of emergency has been declared by the mayor, such declaration is in effect in the city, and all food service establishments in the city are prohibited from providing food for consumption on-premises.
+
+Delivery fee. The term “delivery fee” means a fee charged by a third-party food delivery service for providing a food service establishment with a service that delivers food from such establishment to customers. The term does not include any other fee that may be charged by a third-party food delivery service to a food service establishment, such as fees for listing or advertising the food service establishment on the third-party food delivery service platform or fees related to processing the online order.
+
+Food service establishment. The term “food service establishment” has the same meaning as provided in subdivision s of section 81.03 of the health code of the city of New York.
+
+Online order. The term “online order” means any order placed by a customer through or with the assistance of a platform provided by a third-party food delivery service, including a telephone order.
+
+Purchase price. The term “purchase price” means the total price of the items contained in an online order that are listed on the menu of the food service establishment where such order is placed. Such term does not include taxes, gratuities and any other fees that may make up the total cost to the customer of an online order.
+
+Telephone order. The term “telephone order” means an order placed by a customer to a food service establishment through a telephone call forwarded by a call system provided by a third-party food delivery service.
+
+Third-party food delivery service. The term “third-party food delivery service” means any website, mobile application or other internet service that offers or arranges for the sale of food and beverages prepared by, and the same-day delivery or same-day pickup of food and beverages from, no fewer than 20 food service establishments located in the city that are owned and operated by different persons.
+
+
+
+
+
+
+
+
+*§ 20-846 Fee limits during declared emergencies.* ::
+
+
+a. It shall be unlawful for a third-party food delivery service to charge a food service establishment a delivery fee that totals more than 15% of the purchase price of each online order.
+
+b. It shall be unlawful for a third-party food delivery service to charge a food service establishment any fee or fees other than a delivery fee for the use of their service greater than 5% of the purchase price of each online order. Any fees or other charges from a third-party food delivery service to a food service establishment beyond such maximum 5% fee per order, and a delivery fee collected pursuant to subdivision a of this section, are unlawful.
+
+c. The requirements of this section apply only during a declared emergency and for a period of 90 days after the end of a declared emergency.
+
+
+
+
+
+
+
+
+*§ 20-847 Telephone orders.* ::
+
+
+a. No third-party food delivery service may charge any fee from a food service establishment for a telephone order if a telephone call between such establishment and a customer does not result in an actual transaction during such telephone call.
+
+b. The requirements of this section apply only during a declared emergency and for a period of 90 days after the end of a declared emergency.
+
+
+
+
+
+
+
+
+*§ 20-848 Penalties and enforcement.* ::
+
+
+a. Any person that violates any provision of section 20-846 or any rule promulgated pursuant thereto shall be subject to a civil penalty that shall not exceed $1,000 per violation. Any person that violates any provision of section 20-847 or any rule promulgated pursuant thereto shall be subject to a civil penalty that shall not exceed $500 per violation. Violations under this subchapter shall accrue on a daily basis for each day and for each food service establishment charged a fee in violation of this subchapter or any rule promulgated pursuant to this subchapter. A proceeding to recover any civil penalty authorized pursuant to this subchapter may be brought in any tribunal established within the office of administrative trials and hearings or within any agency of the city designated to conduct such proceedings.
+
+b. A civil action may be brought by the corporation counsel on behalf of the city in any court of competent jurisdiction to recover any or all of the following:
+
+   1. Any civil penalty authorized pursuant to this section;
+
+   2. Injunctive relief to restrain or enjoin any activity in violation of this section;
+
+   3. Restitution of an amount not to exceed the amount of fees collected by a third-party food delivery service that exceeded the maximum amounts permitted pursuant to this subchapter;
+
+   4. Attorneys’ fees and costs, and such other remedies as a court may deem appropriate.
+
+c. The corporation counsel may initiate any investigation to ascertain such facts as may be necessary for the commencement of a civil action pursuant to this section, and in connection therewith shall have the power to issue subpoenas to compel the attendance of witnesses and the production of documents, to administer oaths and to examine such persons as are deemed necessary.
+
+
+
+
+
+
 Chapter 6: No-fault Insurance Medical Clinics
 --------------------------------------------------
 

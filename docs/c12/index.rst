@@ -1884,6 +1884,42 @@ Upon the accidental death of a member before retirement, provided that evidence 
 
 
 
+*§ 13-244.1 COVID-19 benefit.* ::
+
+
+1. Notwithstanding any other provision of this title or of any general, special or local law to the contrary, and solely for the purpose of determining eligibility for benefits under this section, where:
+
+   (a) a member reported in person to such member's usual place of public employment at the direction of such member's public employer or to any alternate worksite as directed by such public employer, on or after March first, two thousand twenty, provided that such alternate worksite was not such member's home or residence;
+
+   (b) such member contracted COVID-19 within forty-five days after reporting to work as described in paragraph (a) of this subdivision, as confirmed by a positive laboratory test or as diagnosed before or after such member's death by a licensed, certified, registered or authorized physician, nurse practitioner, or physician's assistant currently in good standing in any state or the District of Columbia, or a physician, nurse practitioner, or physician's assistant authorized to practice in New York by executive order during the declared COVID-19 state of emergency; and
+
+   (c) Such member died on or before December thirty-first, two thousand twenty, and COVID-19 caused or contributed to such member's death, as documented on such member's death certificate, or as certified by a physician, nurse practitioner, or physician's assistant described in paragraph (b) of this subdivision who determines with a reasonable degree of medical certainty that COVID-19 caused or contributed to the member's death, such member's statutory beneficiary shall receive an accidental death benefit, unless such statutory beneficiary elects to receive an ordinary death benefit.
+
+2. Any amount payable as a result of this title shall be reduced by any amount paid by such member's retirement system to any recipient of ordinary death benefits under this title.
+
+3. Notwithstanding any provision of this title or of any general, special or local law to the contrary, and solely for the purpose of determining eligibility for benefits under this section, where a member:
+
+   (a) retired from his or her retirement system on or after March first, two thousand twenty, and before July first, two thousand twenty;
+
+   (b) on or after March first, two thousand twenty, reported in person to such member's usual place of public employment at the direction of such member's public employer or to any alternate worksite as directed by such public employer, provided that such alternate worksite was not such member's home or residence;
+
+   (c) contracted COVID-19 within forty-five days after any such date of reporting to work in person, as confirmed by a positive laboratory test or as diagnosed before or after such member's death by a licensed, certified, registered or authorized physician, nurse practitioner, or physician's assistant currently in good standing in any state or the District of Columbia, or a physician, nurse practitioner, or physician's assistant authorized to practice in New York by executive order during the declared COVID-19 state of emergency; and
+
+   (d) Such member died on or before December thirty-first, two thousand twenty, and COVID-19 caused or contributed to such member's death, as documented on such member's death certificate, or as certified by a physician, nurse practitioner, or physician's assistant described in paragraph (c) of this subdivision who determines with a reasonable degree of medical certainty that COVID-19 caused or contributed to the member's death, such member's statutory beneficiary shall receive an accidental death benefit if such statutory beneficiary elects conversion of the member's service or disability retirement benefit into an accidental death benefit.
+
+4. Such member's statutory beneficiary, as defined pursuant to this title, for purposes of accidental death benefits payable from such member's retirement system under this title, may, within ninety days of such member's retirement or September first, two thousand twenty, whichever is later, apply to such member's retirement system to request the conversion of such member's service or disability retirement benefit into an accidental death benefit. For purposes of the salary base upon which the accidental death benefit is calculated, such member shall be deemed to have died on the date of such member's retirement. At the time of such conversion, such statutory beneficiary shall relinquish all rights to the prospective benefits payable under the service or disability retirement statute, including any post-retirement death benefits, since such member's death. If the statutory beneficiary is not the only beneficiary receiving or entitled to receive a benefit under the service or disability retirement statute including, but not limited to, a post-retirement death benefit or benefit paid or payable pursuant to the member's option selection, the accidental death benefit payments to the statutory beneficiary will be reduced by any amounts paid or payable to any other statutory beneficiary.
+
+5. In order to be eligible for the benefit described in this title, the applicable retirement system or systems are authorized to promulgate rules and regulations to administer this benefit including, but not limited to, requiring a statement to be filed confirming the member contracted COVID-19 and the dates and locations of such member's employment.
+
+(2020 N.Y. Laws Ch. 89, 5/30/2020*)
+
+* Editor's note: 2020 N.Y. Laws Ch. 89, § 14, provides: "This act shall take effect immediately and shall be deemed to have been in full force and effect on and after March 1, 2020; provided that the provisions of this act shall expire and be deemed repealed on December 31, 2020."
+
+
+
+
+
+
 *§ 13-245 Accidental death benefits in the case of deaths occurring prior to July first, nineteen hundred sixty-five.* ::
 
 

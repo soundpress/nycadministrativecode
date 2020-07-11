@@ -6731,7 +6731,9 @@ The unincorporated business taxable income of an unincorporated business shall b
 
    (16) Notwithstanding any other provision of this chapter to the contrary, the amount allowed as an exclusion or deduction in determining federal gross income of any loss realized from the provision by an owner, lessee or fiduciary holding, leasing or managing real property of the service of parking, garaging or storing of motor vehicles on a monthly or longer term basis to tenants at such real property if, and to the extent that, the provision of such services to such tenants is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of subdivision (d) of section 11-502 of this chapter.
 
-   (17) For taxable years beginning in two thousand nineteen and two thousand twenty, the amount of the increase in the federal interest deduction allowed pursuant to section 163(j)(10)(A)(i) of the internal revenue code.
+   (17) For taxable years beginning in two thousand nineteen and two thousand twenty, the amount of the increase in the federal interest deduction allowed pursuant to section 163(j)(10) of the internal revenue code.
+
+   (18) Notwithstanding any other provision of this chapter to the contrary, for taxable years beginning before January first, two thousand twenty-one, the amount of increase in the federal deduction allowed pursuant to any amendment to section 461(l) of the internal revenue code made after March first, two thousand twenty.
 
 (c) Modifications reducing federal gross income. There shall be subtracted from federal gross income of the business the following items attributable to the business:
 
@@ -6833,6 +6835,8 @@ The unincorporated business deductions of an unincorporated business means the i
 
    (b) In the case of a partnership, no net operating loss carryback or carryover to any taxable year shall be allowed unless one or more of the partners during such taxable year were persons having a proportionate interest or interests, amounting to at least eighty percent of all such interests, in the unincorporated business gross income and unincorporated business deductions of the partnership which sustained the loss for which a carryback or carryover is claimed. In such event, the carryback or carryover allowable on account of such loss shall not exceed the percentage of the amount otherwise allowable, determined by dividing (A) the sum of the proportionate interests in the unincorporated business gross income and unincorporated business deductions of the partnership, for the year to which the loss is carried back or carried over, attributable to such partners, by (B) the sum of such proportionate interests owned by all partners for such taxable year. The amount by which the carryback or carryover otherwise allowable exceeds the amount allowable pursuant to the preceding sentence shall not be a carryback or carryover to any other taxable year.
 
+   (c) Notwithstanding any other provision of this chapter to the contrary, for taxable years beginning before January first, two thousand twenty-one, any amendment to section one hundred seventy-two of the internal revenue code made after March first, two thousand twenty shall not apply to this chapter.
+
 (3) No deduction shall be allowed (except as provided in section 11509 of this chapter) for amounts paid or incurred to a proprietor or partner for services or for use of capital.
 
 (4) No deduction shall be allowed for income taxes imposed by the city, this state or any other taxing jurisdiction, or the tax imposed by article thirteen-A of the tax law.
@@ -6896,6 +6900,8 @@ The unincorporated business deductions of an unincorporated business means the i
 (23) For taxable years beginning on or after January first, two thousand four, in the case of a taxpayer that is not an eligible farmer as defined in subsection (n) of section six hundred six of the tax law, no deduction shall be allowed for the amounts allowable as a deduction under sections one hundred seventy-nine, one hundred sixty-seven and one hundred sixty-eight of the internal revenue code with respect to a sport utility vehicle that is not a passenger automobile as defined in paragraph five of subsection (d) of section two hundred eighty F of the internal revenue code.
 
 (24) For taxable years beginning on or after January first, two thousand four, in the case of a taxpayer that is not an eligible farmer as defined in subsection (n) of section six hundred six of the tax law, a deduction shall be allowed with respect to a sport utility vehicle that is not a passenger automobile as defined in paragraph five of subsection (d) of section two hundred eighty F of the internal revenue code equal to the amounts allowable as a deduction under sections one hundred seventy-nine, one hundred sixty-seven and one hundred sixty-eight of the internal revenue code, determined as if such sport utility vehicle were a passenger automobile as defined in such paragraph five.
+
+
 
 
 

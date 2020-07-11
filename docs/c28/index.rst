@@ -2736,6 +2736,56 @@ c. The district plan shall not be amended except in accordance with chapter four
 
 
 
+*§ 25-460.1 Downtown Flushing Transit Hub business improvement district; increase in the amount to be expended annually.* ::
+
+
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the amount to be expended annually in the Downtown Flushing Transit Hub business improvement district beginning on July 1, 2020, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such increased expenditure, there is hereby authorized in such district an annual expenditure of one million dollars ($1,000,000).
+
+b. The amount of such expenditure to be levied upon each property in the district shall be determined in accordance with the method of assessment set forth in the Downtown Flushing Transit Hub business improvement district plan.
+
+
+
+
+
+
+
+
+*§ 25-460.2 Downtown Flushing Transit Hub business improvement district; extension of district.* ::
+
+
+a. The city council having determined, pursuant to section 25-407 of chapter four of this title: that notice of hearing for all hearings required to be held was published and mailed as required by law and was otherwise sufficient; that, except as otherwise provided in section 25-403 of chapter four of this title, all the real property within the boundaries of the district will benefit from the extension of the district; that all the real property benefited is included within the limits of the district; and that the extension of the district is in the public interest; and the council having determined further that the requisite number of owners have not objected as provided in section 25-406 of chapter four of this title, the Downtown Flushing Transit Hub business improvement district in the borough of Queens is hereby extended. Such district is extended in accordance with the amended district plan of 2019 required to be filed with the city clerk pursuant to subdivision b of this section.
+
+b. Immediately upon adoption of this local law by the council, the council shall file with the city clerk the amended district plan of 2019 upon which the Downtown Flushing Transit Hub business improvement district, and the extension thereof, is based.
+
+c. The amended district plan of 2019 shall not be further amended except in accordance with chapter four of this title.
+
+(L.L. 2020/050, 5/23/2020, retro. eff. 7/1/2020*)
+
+* Editor's note: Section 2 of L.L. 2020/050 numbered this as § 25-260.2; renumbered at the discretion of the editor. Section 4 of L.L. 2020/050 provides, in part, that this section "takes effect upon compliance with section 25-408 of chapter 4 of title 25 of the administrative code of the city of New York and is retroactive to and deemed to have been in full force and effect as of July 1, 2020".
+
+
+
+
+
+
+*§ 25-460.3 Downtown Flushing Transit Hub business improvement district; amendments to the district plan.* ::
+
+
+a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize additional services and modify existing services for the Downtown Flushing Transit Hub business improvement district and to authorize a change in the method of assessment upon which the district charge in the Downtown Flushing Transit Hub business improvement district is based, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such changes, there are hereby authorized in the Downtown Flushing Transit Hub business improvement district such changes as set forth in the amended district plan of 2019 required to be filed with the city clerk pursuant to subdivision c of this section.
+
+b. The city council having determined, pursuant to subdivision c of section 25-410 of chapter four of this title, that it is in the public interest to authorize an increase in the maximum total amount to be expended for improvements in the district, and the council having determined further that the tax and debt limits prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there is hereby authorized in the Downtown Flushing Transit Hub business improvement district such change as set forth in the amended district plan of 2019 required to be filed with the city clerk pursuant to subdivision c of this section.
+
+c. Immediately upon adoption of this local law, the council shall file with the city clerk the amended district plan of 2019 setting forth the additional services and modification of services and containing the change in the method of assessment authorized by subdivision a of this section and the increase in the maximum total amount to be expended for improvements authorized by subdivision b of this section.
+
+(L.L. 2020/050, 5/23/2020, retro. eff. 7/1/2020*)
+
+* Editor's note: Section 4 of L.L. 2020/050 provides, in part, that this section "takes effect upon compliance with section 25-408 of chapter 4 of title 25 of the administrative code of the city of New York and is retroactive to and deemed to have been in full force and effect as of July 1, 2020".
+
+
+
+
+
+
 *§ 25-461 Columbus/Amsterdam business improvement district.* ::
 
 

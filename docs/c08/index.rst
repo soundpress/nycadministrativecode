@@ -26,10 +26,10 @@ The board of estimate by resolution may designate from time to time any building
 
 
 
-*§ 9-103 Segregation of prisoners on Hart's Island.* ::
+*§ 9-103 Segregation of prisoners on Hart's Island. [Repealed]* ::
 
 
-The lands and buildings on Hart's Island shall be utilized for the segregation of prisoners transferred thereto by the commissioner of correction.
+
 
 
 
@@ -1642,6 +1642,70 @@ d. This section is not intended to encompass the entirety of standards to apply 
 
 
 
+
+
+*§ 9-160 Reports during public health emergencies.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   Application for compassionate release. The term “application for compassionate release” means an application submitted, with the consent of the incarcerated individual, by correctional health services to the incarcerated individual’s defense attorney to be used to request that a court release the incarcerated individual.
+
+   Cumulative infections. The term “cumulative infections” means the total number of positive infections of people who have been incarcerated during a given public health emergency, regardless of whether those individuals have been discharged after being confirmed positive while in the department's custody.
+
+   Infection. The term “infection” means any infection that is the subject of a public health emergency.
+
+   Public health emergency. The term “public health emergency” means any declared state of emergency made in response to an outbreak of an infectious disease.
+
+   Staff. The term “staff” means civilian and uniform staff of the department of correction and correctional health staff.
+
+b. During the duration of any public health emergency, the department and correctional health services shall submit to the speaker of the council, and make publicly available on the correctional health services website, a weekly report related to the outbreak of infectious diseases in city jails. Such report shall be submitted in a machine-readable format and stored permanently on correctional health services’ website, and include the following information for each day in the preceding week:
+
+   1. The number of incarcerated individuals tested for the infection, disaggregated by each day starting from the first day of the announcement of the public health emergency, or for the COVID-19 pandemic, each day starting from March 13, 2020, in total and disaggregated by whether such tests were positive, negative, or pending results. For those dates following the effective date of the local law that added this section, the number of incarcerated individuals tested for the infection shall be further disaggregated by the reason the test was administered;
+
+   2. The number of incarcerated individuals currently diagnosed with the infection; unless otherwise reported by the board of correction;
+
+   3. The number of currently incarcerated individuals who have been diagnosed with the infection but are no longer contagious;
+
+   4. The number of tests administered to incarcerated individuals;
+
+   5. The cumulative number of unique incarcerated individuals who have been tested for the infection, disaggregated by whether test results were positive or negative;
+
+   6. Cumulative number of tests administered, disaggregated by whether test results were positive or negative;
+
+   7. The cumulative number of staff who voluntarily self reported to be medically confirmed with the infection; disaggregated by whether such infections were of uniform, civilian, or correctional health staff; unless otherwise reported by the board of correction.
+
+   8. The total number of staff employed by the department, disaggregated by uniform and non-uniform staff; and further disaggregated by out sick and not out sick;
+
+   9. The number of deaths of incarcerated individuals related to the infection;
+
+   10. The cumulative number of incarcerated individuals provided applications for compassionate release, in total and disaggregated by number of such individuals released;
+
+   11. The number of incarcerated individuals known to correctional health services to be hospitalized due to the infection;
+
+   12. The cumulative number of incarcerated individuals known to correctional health services to be hospitalized due to the infection;
+
+   13. The number of people in custody with a serious mental illness; and
+
+c. During the duration of any public health emergency, the department of correction shall provide a weekly report related to the outbreak of infectious diseases in city jails to the board of correction and to the speaker. Such reports shall include, for the previous week and the previous month:
+
+   1. The number of individuals incarcerated solely on a definite sentence, disaggregated by how many such individuals have 30 or fewer, 31 - 60, and 60 - 90 days remaining to serve on such sentence;
+
+   2. The number of individuals incarcerated solely on a definite sentence, disaggregated by which individuals have been deemed medically vulnerable by correctional health services.
+
+   3. The number of calls made to any correctional health services phone number designed to handle calls from incarcerated individuals, and the number of voice messages left on such phone number;
+
+d. Correctional health services in collaboration with the department of correction shall provide and ensure the distribution of a weekly written communication to persons in custody including information about the public health emergency and a frequently asked questions section.
+
+e. During the duration of a public health emergency, the department and correctional health services shall submit to the speaker of the council, and make publicly available on the department’s website, a timeline of significant events related to the public health emergency, including but not limited to general criteria for testing and discharge planning related to the public health emergency. Such a timeline shall be updated weekly.
+
+f. Privacy. Reports required pursuant to this section shall not contain identifying information as defined in section 23-1201 of the administrative code of the city of New York. If a category to be reported contains fewer than ten individuals or contains an amount that would allow another category that contains fewer than ten individuals to be deduced, the number shall be replaced with a symbol.
+
+
+
+
+
+
 Chapter 2: Department of Probation
 --------------------------------------------------
 
@@ -1799,6 +1863,18 @@ Editor's note: Section 2 of L.L. 2017/226 provides: "This local law takes effect
 
 
 a. The department of probation shall not require individuals on probation to submit to marijuana testing unless a determination is made, based on an individual’s history and personal circumstances, that abstinence from marijuana is necessary to otherwise lead an otherwise law-abiding life.
+
+
+
+
+
+
+
+
+*§ 9-207 Local conditional release commission.* ::
+
+
+There is hereby established a local conditional release commission. Such commission shall have the powers, duties, and composition as set forth in article 12 of the correction law or any successor statute.
 
 
 
