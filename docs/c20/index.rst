@@ -6126,7 +6126,7 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 *§ 19-901 Definitions. [Repealed]* ::
 
 
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
 
 
 
@@ -6136,7 +6136,7 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 *§ 19-902 Speeding in school speed zones prohibited. [Repealed]* ::
 
 
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
 
 
 
@@ -6146,7 +6146,7 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 *§ 19-903 Penalties. [Repealed]* ::
 
 
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
 
 
 
@@ -6156,7 +6156,7 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 *§ 19-904 System maintenance and operation. [Repealed]* ::
 
 
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
 
 
 
@@ -6166,7 +6166,7 @@ Chapter 9: Photo Speed Violation Monitoring Program*
 *§ 19-905 Implementation. [Repealed]* ::
 
 
-(L.L. 2018/160, 9/4/2018, repealed eff. 7/11/19)
+
 
 
 

@@ -80,10 +80,36 @@ b. The commissioner of correction shall ensure that any housing unit in which tr
 
 
 
-*§ 9-108 Health services.* ::
+*§ 9-108 Sick call and clinic production.* ::
 
 
-The New York city health and hospital corporation shall arrange for and make available facilities for outpatient treatment and suitable amenities for the continuance of social therapy for all persons who have received such treatment in conformance with section 9-107 of this code. Such continued treatment shall be voluntary, and shall commence upon the discharge of such persons from any penal institution and/or upon the termination of any period of parole.
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Clinic production. The term “clinic production” means the department’s process by which an incarcerated individual is escorted for a medical appointment.
+
+   Correctional health services. The term “correctional health services” means any health care entity designated by the city of New York as the agency or agencies responsible for health services for incarcerated individuals in the care and custody of the department. When the responsibility is contractually shared with an outside provider this term shall also apply.
+
+   Health care professional. The term “health care professional” means a person who meets qualifications stipulated by their profession and who possesses all credentials and licenses required by New York state law.
+
+   Medical appointment. The term “medical appointment” means any patient encounter requested by correctional health services.
+
+   Non-production. The term “non-production” means an instance where an incarcerated individual is not escorted for a medical appointment requested by correctional health services.
+
+   Production refusal. The term “production refusal” means a refusal by an incarcerated individual to allow the department to produce such incarcerated individual to clinic for a medical appointment. Nothing in this definition, or in this section, is intended to contradict rules governing treatment set forth in chapter 3 of title 40 of the rules of the city of New York.
+
+   Sick call. The term “sick call” means the department’s process by which an incarcerated individual requests to be seen by a health care professional for the purpose of assessing or treating such incarcerated individual’s non-emergency medical complaint.
+
+   Walk-out. The term “walk-out” means an instance when an incarcerated individual leaves clinic without being seen by a health care professional for a medical appointment.
+
+b. The department shall retain all documents containing data relating to sick call and clinical production, including handwritten sign-up sheets, for at least three years from the time an incarcerated individual is released from custody of the department, and provide such documents to the board of correction upon request.
+
+c. The department shall provide all housing units with access to sick call on weekdays, excluding holidays, and subject to the exclusions set forth in chapter 3 of title 40 of the rules of the city of New York, or exclusions obtained through a variance pursuant to section 3-13 of such rules.
+
+d. Where individuals are not produced for medical appointments, department personnel shall record the facility, along with the reason for non-production, including but not limited to: “court”, “visits”, “production refusal”, “walkout”, “programming”, “barbershop,” “recreation,” and “other”. For the category, “other,” department personnel shall provide a brief narrative. If the reason for non-production is a refusal or walkout, the department will also record the reason for refusal or walkout, if given. The department shall make such records legible and available to the board of correction at any time. On a monthly basis, the department shall publish an aggregate report on non-production on its website and submit such a report to correctional health services and the city council. This report shall also contain an aggregate count of reasons for production refusal or walkout, if given, and the facility.
+
+e. Where individuals are not produced to a health care professional for a medical appointment, correctional health services will provide to the department the names of such individuals and a specified time-frame of when they should be produced as deemed clinically appropriate. When individuals are not produced within the specified time-frame, correctional health services shall notify the facility’s commanding officer, along with a production recommendation based on correctional health’s clinical expertise.
+
+
 
 
 

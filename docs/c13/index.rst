@@ -1,6 +1,139 @@
 Title 14: Police
 ===================================================
 
+Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
+--------------------------------------------------
+
+
+
+*§ 14-201 Regulation of solicitation by law enforcement affiliated organizations.* ::
+
+
+As used in this chapter, the following terms shall have the following meanings:
+
+1. "Law enforcement affiliated organization."
+
+   a. Any organization, association, or conference of present or former members of the force, sheriffs, deputy sheriffs, detectives, investigators, constables or similar law enforcement officers or peace officers or police officers as defined in subdivisions thirty-three and thirty-four of section 1.20 of the criminal procedure law, or any auxiliary or affiliate of such an organization, association, or conference composed of one or more such organizations.
+
+   b. Any organization, association or conference established for the benefit of, benevolence towards or support of present or former members of the force, sheriffs, deputy sheriffs, detectives, investigators, constables or similar law enforcement officers or peace officers or police officers as defined in subdivisions thirty-three and thirty-four of section 1.20 of the criminal procedure law, or the families of such law enforcement personnel.
+
+2. "Professional fund raiser." Any person who for compensation or other consideration plans, conducts, manages, or carries on any drive or campaign in the city for the purpose of soliciting funds or contributions for or on behalf of any law enforcement affiliated organization, or who engages in the business of, or holds himself or herself out to persons in the city as independently engaged in the business of soliciting contributions for such purposes.
+
+3. "Professional solicitor." Any person who is employed or retained for compensation by a professional fund raiser to solicit funds or contributions on behalf of any law enforcement affiliated organization from persons in the city.
+
+
+
+
+
+
+*§ 14-202 Registration of law enforcement affiliated organizations.* ::
+
+
+No law enforcement affiliated organization shall solicit funds or contributions from the public, or have funds or contributions solicited on its behalf, unless it has filed a registration statement with the commissioner or the commissioner's designee in accordance with the provisions of this section. Each registration statement shall be refiled and updated every twelve (12) months so long as the law enforcement affiliated organization is engaged in solicitation activities in the city. Such statements shall be made available to the public in a manner determined by the commissioner or the commissioner's designee and shall contain the following information:
+
+1. The name of the organization and the purpose for which it was organized;
+
+2. The principal address of the organization;
+
+3. A statement indicating whether the organization intends to use professional fund raisers to solicit funds or contributions from the public;
+
+4. The general purpose or purposes for which the contributions solicited shall be used;
+
+5. The names and business addresses of the person or persons in direct charge of conducting the solicitation;
+
+6. The names and business addresses of all professional fund raisers who will be connected with the solicitation;
+
+7. A statement to the effect that the fact of registration will not be used or represented in any way as an endorsement by the city or by the department of the solicitation conducted thereunder;
+
+8. Documents verifying the information provided under provisions one through six above, including all contracts and subsequent amendments thereto between a law enforcement affiliated organization and any professional fund raiser with whom it does business; 9. Once each year on the fifteenth day of February, a report shall be filed with the commissioner stating the amount of funds or contributions collected in the preceding calendar year, the amount expended and the specific recipients and purposes for which said amount was expended, the administrative expenses incurred in said period including a statement of the fees or other charges by any professional fund raisers and the amount paid to same.
+
+10. A statement to the effect that the organization acknowledges that the information contained in the registration statement shall be made available to the public in a manner determined by the commissioner or the commissioner's designee.
+
+
+
+
+
+
+*§ 14-203 Representation.* ::
+
+
+During the course of each and every solicitation for funds or contributions on behalf of a law enforcement affiliated organization and on an acknowledgement which shall be mailed to the person and/or persons who agree to contribute pursuant to the solicitation, the fund raiser, solicitor or any other person acting on behalf of the law enforcement affiliated organization shall make the following representations.
+
+1. The name and address of the organization represented;
+
+2. A description of the programs in which the organization is actually engaged and for which the funds or contributions will be used;
+
+3. A statement of the percentage of the funds collected during the preceding year which were actually used for the programs in which the organization was then engaged, and that the remaining funds were used for fund raising activities.
+
+
+
+
+
+
+*§ 14-204 Prohibited acts.* ::
+
+
+It shall be unlawful to solicit funds or contributions on behalf of a law enforcement affiliated organization:
+
+1. By using a name, symbol or statement so closely related to that used by another law enforcement affiliated organization or governmental agency that the use thereof would tend to confuse or mislead the public, including the use of statement or materials that would indicate that such funds or contributions were being raised for the department or the patrolman's benevolent association of the city of New York, unless such agency or association shall have given its written permission for the raising of such funds for it, and the use of its name in connection with the solicitation of funds;
+
+2. By means of a false pretense, representation or promise which includes representing:
+
+   (i) that the professional fund raisers or solicitors are members of the police force or employees of any law enforcement agency;
+
+   (ii) that funds collected will be used to aid surviving spouses, domestic partners or children of members of the police force slain in the line of duty or that the funds collected will be used for any other charitable program unless the organization is actually engaged in such a program;
+
+   (iii) that contributors will receive special benefits from members of the police force;
+
+   (iv) that contributions are tax exempt as a charitable contribution or as a business expense unless they so qualify under the applicable provisions of the internal revenue codes;
+
+   (v) by any manner, means, practice or device that misleads the person solicited as to the use of the funds or the nature of the organization.
+
+
+
+
+
+
+*§ 14-205 Criminal and civil penalties.* ::
+
+
+a. Any person who violates or assists in the violation of any of the provisions of this chapter shall be guilty of a misdemeanor punishable by a fine of not less than one thousand nor more than ten thousand dollars or up to one year imprisonment, or both. Each such violation shall be a separate and distinct offense.
+
+b. Such person shall also be subject to a civil penalty of not less than one thousand nor more than ten thousand dollars for each violation. Each such violation shall be a separate and distinct offense.
+
+
+
+
+
+
+*§ 14-206 Enforcement actions or proceedings.* ::
+
+
+The civil penalties prescribed by this chapter shall be recovered by an action or proceeding in any court of competent jurisdiction. All such actions or proceedings shall be brought in the name of the city by the corporation counsel. In addition, the corporation counsel may institute any other action or proceeding in any court of competent jurisdiction that may be appropriate or necessary for the enforcement of the provisions of this chapter, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any provision of this chapter, mandating compliance with the provisions of this chapter or for such other relief as may be appropriate. In any such action or proceeding the city may apply to any court of competent jurisdiction, or to a judge or justice thereof, for a temporary restraining order or preliminary injunction enjoining and restraining all persons from violating any provision of this chapter, mandating compliance with the provisions of this chapter, or for such other relief as may be appropriate, until the hearing and determination of such action or proceeding and the entry of final judgment or order therein. The court, or judge or justice thereof, to whom such application is made, is hereby authorized forthwith to make any or all of the orders above specified, as may be required in such application, with or without notice, and to make such other or further orders or directions as may be necessary to render the same effectual. No undertaking shall be required as a condition to the granting or issuing of such order, or by reason thereof.
+
+
+
+
+
+
+*§ 14-207 Scope of remedies.* ::
+
+
+The remedies and penalties provided for herein shall be in addition to any other remedies and penalties provided under other provisions of law.
+
+
+
+
+
+
+*§ 14-208 Construction.* ::
+
+
+The provisions of this chapter shall not be construed to apply to any law enforcement affiliated organizations when solicitation of contributions is confined to their membership. In addition, the provisions of this chapter shall not be construed to apply to any person or law enforcement affiliated organization which solicits contributions for the relief of any individual, specified by name at the time of solicitation, if all of the contributions collected, without any deductions whatsoever, are turned over to the named beneficiary.
+
+
+
+
 Chapter 1: Police Department
 --------------------------------------------------
 
@@ -1890,7 +2023,7 @@ d. Special victims division training report. On January 30, 2020, and every Janu
 
 
 
-*§ 14-181 Child sensitive arrest policies.** ::
+*§ 14-181 Child sensitive arrest policies.* ::
 
 
 a. Definitions. For the purposes of this section, the following terms have the following meanings:
@@ -1936,22 +2069,6 @@ d. Reporting. Within 30 days of January 1, 2020, January 1, 2021, and January 1,
 (L.L. 2019/166, 9/14/2019, eff. 3/14/2020*)
 
 * Editor's note: Pursuant to Section 2 of L.L. 2019/166, paragraph 12 of subdivision b is effective 3/14/2021.
-
-
-
-
-
-
-*§ 14-181 Multi-agency response to community hotspots.** ::
-
-
-a. Before an establishment becomes the subject of a multi-agency response to community hotspots operation, as defined in subdivision e of section 20-d of the charter, the department shall provide written notice to such an establishment at least 30 days prior to commencing such an operation, unless (i) providing such notice or complying with such waiting period would compromise an active criminal investigation or (ii) the department has specific reason to believe that providing such notice or complying with such waiting period would pose a serious risk to the health or safety of persons inside the establishment or in the vicinity thereof or to the health or safety of a particular person. Such notice shall contain information about the alleged conduct or complaint that could warrant making such an establishment the subject of such an operation and provide a means for the establishment owner, or an agent acting on behalf of such establishment, to provide information or materials to the department relevant to the resolution or attempted resolution of the conduct or complaint described in the notice. Such notice shall include contact information for the office of nightlife and a notice that such recipient may contact such office with any questions or concerns The department shall make such written notice available to any establishment, upon request, during or immediately subsequent to an operation.
-
-b. Nothing in this section shall be construed to create a private right of action on the part of any person or entity against the city of New York or any agency, official, or employee thereof, to enforce the provisions of this section.
-
-c. Nothing in this section shall be construed to prevent the city of New York or any agency, official, or employee thereof, from taking any action within its jurisdiction, including but not limited to enforcing any law, rule or regulation.
-
-
 
 
 
@@ -2074,135 +2191,200 @@ When a vehicle is situated so as to constitute an obstruction of a sidewalk, cro
 
 
 
-Chapter 2: Solicitation By Law Enforcement Affiliated Organizations
---------------------------------------------------
 
 
+*§ 14-185 Multi-agency response to community hotspots.* ::
 
-*§ 14-201 Regulation of solicitation by law enforcement affiliated organizations.* ::
 
+a. Before an establishment becomes the subject of a multi-agency response to community hotspots operation, as defined in subdivision e of section 20-d of the charter, the department shall provide written notice to such an establishment at least 30 days prior to commencing such an operation, unless (i) providing such notice or complying with such waiting period would compromise an active criminal investigation or (ii) the department has specific reason to believe that providing such notice or complying with such waiting period would pose a serious risk to the health or safety of persons inside the establishment or in the vicinity thereof or to the health or safety of a particular person. Such notice shall contain information about the alleged conduct or complaint that could warrant making such an establishment the subject of such an operation and provide a means for the establishment owner, or an agent acting on behalf of such establishment, to provide information or materials to the department relevant to the resolution or attempted resolution of the conduct or complaint described in the notice. Such notice shall include contact information for the office of nightlife and a notice that such recipient may contact such office with any questions or concerns The department shall make such written notice available to any establishment, upon request, during or immediately subsequent to an operation.
 
-As used in this chapter, the following terms shall have the following meanings:
+b. Nothing in this section shall be construed to create a private right of action on the part of any person or entity against the city of New York or any agency, official, or employee thereof, to enforce the provisions of this section.
 
-1. "Law enforcement affiliated organization."
+c. Nothing in this section shall be construed to prevent the city of New York or any agency, official, or employee thereof, from taking any action within its jurisdiction, including but not limited to enforcing any law, rule or regulation.
 
-   a. Any organization, association, or conference of present or former members of the force, sheriffs, deputy sheriffs, detectives, investigators, constables or similar law enforcement officers or peace officers or police officers as defined in subdivisions thirty-three and thirty-four of section 1.20 of the criminal procedure law, or any auxiliary or affiliate of such an organization, association, or conference composed of one or more such organizations.
 
-   b. Any organization, association or conference established for the benefit of, benevolence towards or support of present or former members of the force, sheriffs, deputy sheriffs, detectives, investigators, constables or similar law enforcement officers or peace officers or police officers as defined in subdivisions thirty-three and thirty-four of section 1.20 of the criminal procedure law, or the families of such law enforcement personnel.
 
-2. "Professional fund raiser." Any person who for compensation or other consideration plans, conducts, manages, or carries on any drive or campaign in the city for the purpose of soliciting funds or contributions for or on behalf of any law enforcement affiliated organization, or who engages in the business of, or holds himself or herself out to persons in the city as independently engaged in the business of soliciting contributions for such purposes.
 
-3. "Professional solicitor." Any person who is employed or retained for compensation by a professional fund raiser to solicit funds or contributions on behalf of any law enforcement affiliated organization from persons in the city.
 
 
 
 
+*§ 14-186 Internal disciplinary matrix.* ::
 
 
-*§ 14-202 Registration of law enforcement affiliated organizations.* ::
+a. Internal disciplinary matrix. Within six months of the date this local law takes effect, the department shall post on its website a disciplinary matrix that sets forth an advisory schedule of violations, penalties, and mitigating and aggravating circumstances, or any other factors considered by the commissioner to be relevant to the process of determining the appropriate discipline for police department personnel for substantiated violations of department rules or other policies.
 
+b. Disciplinary matrix development. Within three months of the date this local law takes effect, the department shall prepare and file with the mayor and the speaker of the council, and post on its website:
 
-No law enforcement affiliated organization shall solicit funds or contributions from the public, or have funds or contributions solicited on its behalf, unless it has filed a registration statement with the commissioner or the commissioner's designee in accordance with the provisions of this section. Each registration statement shall be refiled and updated every twelve (12) months so long as the law enforcement affiliated organization is engaged in solicitation activities in the city. Such statements shall be made available to the public in a manner determined by the commissioner or the commissioner's designee and shall contain the following information:
+   1. Factors relevant to developing the internal disciplinary matrix and steps undertaken by the department in developing the internal disciplinary matrix, including consultation with outside entities including stakeholders and community groups.
 
-1. The name of the organization and the purpose for which it was organized;
+   2. The proposed schedule of violations, penalties, and mitigating and aggravating circumstances, or any other factors considered by the commissioner to be relevant to the process of determining appropriate discipline.
 
-2. The principal address of the organization;
+c. Nothing in this section shall be construed to limit the discretion of the commissioner to impose discipline, and the commissioner may modify the disciplinary matrix at any time. A description of any such modifications shall be posted on the department website.
 
-3. A statement indicating whether the organization intends to use professional fund raisers to solicit funds or contributions from the public;
+d. No later than January 30, 2022, and by each January 30 in each year thereafter, the department shall post on its website and deliver to the speaker of the council a report that includes the number and percentage of instances within the preceding calendar year in which the commissioner imposed a discipline penalty that is different from the disciplinary matrix penalty.
 
-4. The general purpose or purposes for which the contributions solicited shall be used;
 
-5. The names and business addresses of the person or persons in direct charge of conducting the solicitation;
 
-6. The names and business addresses of all professional fund raisers who will be connected with the solicitation;
 
-7. A statement to the effect that the fact of registration will not be used or represented in any way as an endorsement by the city or by the department of the solicitation conducted thereunder;
 
-8. Documents verifying the information provided under provisions one through six above, including all contracts and subsequent amendments thereto between a law enforcement affiliated organization and any professional fund raiser with whom it does business; 9. Once each year on the fifteenth day of February, a report shall be filed with the commissioner stating the amount of funds or contributions collected in the preceding calendar year, the amount expended and the specific recipients and purposes for which said amount was expended, the administrative expenses incurred in said period including a statement of the fees or other charges by any professional fund raisers and the amount paid to same.
 
-10. A statement to the effect that the organization acknowledges that the information contained in the registration statement shall be made available to the public in a manner determined by the commissioner or the commissioner's designee.
 
 
+*§ 14-187 Shield numbers and rank designations.* ::
 
 
+a. An officer’s shield number or rank designation shall be visible at all times while such officer is in uniform and performing any activity under the color of law.
 
+b. 1. A claim of refusal to make a shield number or rank designation visible is established under this section when an individual demonstrates that they requested that an officer make their shield number or rank designation visible pursuant to subdivision a of this section and such officer did not comply.
 
-*§ 14-203 Representation.* ::
+   2. An individual subject to refusal to make a shield number or rank designation visible as described in paragraph 1 of subdivision b of this section may bring an action in any court of competent jurisdiction for any damages, including punitive damages, and for declaratory and injunctive relief and such other remedies as may be appropriate.
 
+   3. In any action or proceeding to enforce this section, the court shall award a prevailing plaintiff reasonable attorney's fees and court costs, and may include expert fees as part of the attorney's fees.
 
-During the course of each and every solicitation for funds or contributions on behalf of a law enforcement affiliated organization and on an acknowledgement which shall be mailed to the person and/or persons who agree to contribute pursuant to the solicitation, the fund raiser, solicitor or any other person acting on behalf of the law enforcement affiliated organization shall make the following representations.
+   4. Any action or proceeding to enforce this section shall be commenced no later than one year and 90 days after the date on which the violation of this section is committed.
 
-1. The name and address of the organization represented;
+c. This section does not limit or abrogate any claim or cause of action a person has under common law or by other law or rule. The provisions of this section are in addition to any other remedies that may be provided for under common law or by other law or rule.
 
-2. A description of the programs in which the organization is actually engaged and for which the funds or contributions will be used;
 
-3. A statement of the percentage of the funds collected during the preceding year which were actually used for the programs in which the organization was then engaged, and that the remaining funds were used for fund raising activities.
 
 
 
 
 
 
-*§ 14-204 Prohibited acts.* ::
+*§ 14-188 Annual surveillance reporting and evaluation.* ::
 
 
-It shall be unlawful to solicit funds or contributions on behalf of a law enforcement affiliated organization:
+a. Definitions. As used in this section, the following terms have the following meanings:
 
-1. By using a name, symbol or statement so closely related to that used by another law enforcement affiliated organization or governmental agency that the use thereof would tend to confuse or mislead the public, including the use of statement or materials that would indicate that such funds or contributions were being raised for the department or the patrolman's benevolent association of the city of New York, unless such agency or association shall have given its written permission for the raising of such funds for it, and the use of its name in connection with the solicitation of funds;
+   Surveillance technology. The term “surveillance technology” means equipment, software, or systems capable of, or used or designed for, collecting, retaining, processing, or sharing audio, video, location, thermal, biometric, or similar information, that is operated by or at the direction of the department. Surveillance technology does not include:
 
-2. By means of a false pretense, representation or promise which includes representing:
+      1. routine office equipment used primarily for departmental administrative purposes;
 
-   (i) that the professional fund raisers or solicitors are members of the police force or employees of any law enforcement agency;
+      2. parking ticket devices;
 
-   (ii) that funds collected will be used to aid surviving spouses, domestic partners or children of members of the police force slain in the line of duty or that the funds collected will be used for any other charitable program unless the organization is actually engaged in such a program;
+      3. technology used primarily for internal department communication; or
 
-   (iii) that contributors will receive special benefits from members of the police force;
+      4. cameras installed to monitor and protect the physical integrity of city infrastructure.
 
-   (iv) that contributions are tax exempt as a charitable contribution or as a business expense unless they so qualify under the applicable provisions of the internal revenue codes;
+   Surveillance technology impact and use policy. The term “surveillance impact and use policy” means a written document that includes the following information:
 
-   (v) by any manner, means, practice or device that misleads the person solicited as to the use of the funds or the nature of the organization.
+      1. a description of the capabilities of a surveillance technology;
 
+      2. rules, processes and guidelines issued by the department regulating access to or use of such surveillance technology as well as any prohibitions or restrictions on use, including whether the department obtains a court authorization for such use of a surveillance technology, and, if so, the specific type of court authorization sought;
 
+      3. safeguards or security measures designed to protect information collected by such surveillance technology from unauthorized access, including but not limited to the existence of encryption and access control mechanisms;
 
+      4. policies and/or practices relating to the retention, access, and use of data collected by such surveillance technology;
 
+      5. policies and procedures relating to access or use of the data collected through such surveillance technology by members of the public;
 
+      6. whether entities outside the department have access to the information and data collected by such surveillance technology, including: (a) whether the entity is a local governmental entity, state governmental entity, federal governmental entity or a private entity, (b) the type of information and data that may be disclosed by such entity, and (c) any safeguards or restrictions imposed by the department on such entity regarding the use or dissemination of the information collected by such surveillance technology;
 
-*§ 14-205 Criminal and civil penalties.* ::
+      7. whether any training is required by the department for an individual to use such surveillance technology or access information collected by such surveillance technology;
 
+      8. a description of internal audit and oversight mechanisms within the department to ensure compliance with the surveillance technology impact and use policy governing the use of such surveillance technology;
 
-a. Any person who violates or assists in the violation of any of the provisions of this chapter shall be guilty of a misdemeanor punishable by a fine of not less than one thousand nor more than ten thousand dollars or up to one year imprisonment, or both. Each such violation shall be a separate and distinct offense.
+      9. any tests or reports regarding the health and safety effects of the surveillance technology; and
 
-b. Such person shall also be subject to a civil penalty of not less than one thousand nor more than ten thousand dollars for each violation. Each such violation shall be a separate and distinct offense.
+      10. any potentially disparate impacts of the surveillance technology impact and use policy on any protected groups as defined in the New York city human rights law.
 
+b. Publication of surveillance technology impact and use policy. The department shall propose a surveillance technology impact and use policy and post such proposal on the department’s website, at least 90 days prior to the use of any new surveillance technology.
 
+c. Existing surveillance technology. For existing surveillance technology as of the effective date of the local law that added this section, the department shall propose a surveillance technology impact and use policy and post such proposal on the department’s website within 180 days of such effective date.
 
+d. Addendum to surveillance technology impact and use policies. When the department seeks to acquire or acquires enhancements to surveillance technology or uses such surveillance technology for a purpose or in a manner not previously disclosed through the surveillance technology impact and use policy, the department shall provide an addendum to the existing surveillance technology impact and use policy describing such enhancement or additional use.
 
+e. Upon publication of any proposed surveillance technology impact and use policy, the public shall have 45 days to submit comments on such policy to the commissioner.
 
+f. The commissioner shall consider public comments and provide the final surveillance technology impact and use policy to the speaker and the mayor, and shall post it on the department’s website no more than 45 days after the close of the public comment period established by subdivision e of this section.
 
-*§ 14-206 Enforcement actions or proceedings.* ::
 
 
-The civil penalties prescribed by this chapter shall be recovered by an action or proceeding in any court of competent jurisdiction. All such actions or proceedings shall be brought in the name of the city by the corporation counsel. In addition, the corporation counsel may institute any other action or proceeding in any court of competent jurisdiction that may be appropriate or necessary for the enforcement of the provisions of this chapter, including actions to secure permanent injunctions enjoining any acts or practices which constitute a violation of any provision of this chapter, mandating compliance with the provisions of this chapter or for such other relief as may be appropriate. In any such action or proceeding the city may apply to any court of competent jurisdiction, or to a judge or justice thereof, for a temporary restraining order or preliminary injunction enjoining and restraining all persons from violating any provision of this chapter, mandating compliance with the provisions of this chapter, or for such other relief as may be appropriate, until the hearing and determination of such action or proceeding and the entry of final judgment or order therein. The court, or judge or justice thereof, to whom such application is made, is hereby authorized forthwith to make any or all of the orders above specified, as may be required in such application, with or without notice, and to make such other or further orders or directions as may be necessary to render the same effectual. No undertaking shall be required as a condition to the granting or issuing of such order, or by reason thereof.
 
 
 
 
 
+*§ 14-189 Right to record police activities.* ::
 
-*§ 14-207 Scope of remedies.* ::
 
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
 
-The remedies and penalties provided for herein shall be in addition to any other remedies and penalties provided under other provisions of law.
+   Officer. The term “officer” means any peace officer or police officer as defined in the criminal procedure law who is employed by the city of New York, or any special patrolman appointed by the police commissioner pursuant to section 14-106.
 
+   Police activities. The term “police activities” means any activity of an officer acting under the color of law.
 
+   Record. The term “record” means to capture or attempt to capture any moving or still image, sound, or impression through the use of any recording device, camera, or any other device capable of capturing audio, moving or still images, or by way of written notes or observations.
 
+b. Right to record police activities. A person may record police activities and maintain custody and control of any such recording and of any property or instruments used in such recording. Nothing in this chapter shall be construed to permit a person to engage in actions that physically interfere with an official and lawful police function, or to prevent the seizure of any property or instruments used in a recording of police activities where the seizure is otherwise authorized by law, or to prohibit any officer from enforcing any other provision of law.
 
+c. Private right of action.
 
+   1. A claim of unlawful interference with recording police activities is established under this section when an individual demonstrates that he or she recorded or attempted to record police activities in accordance with subdivision b and an officer interfered with such person’s recording of police activities. Such interference includes but is not limited to the following actions:
 
-*§ 14-208 Construction.* ::
+      (a) preventing or attempting to prevent the recording of police activities;
 
+      (b) threatening or making any effort to intimidate a person recording police activities;
 
-The provisions of this chapter shall not be construed to apply to any law enforcement affiliated organizations when solicitation of contributions is confined to their membership. In addition, the provisions of this chapter shall not be construed to apply to any person or law enforcement affiliated organization which solicits contributions for the relief of any individual, specified by name at the time of solicitation, if all of the contributions collected, without any deductions whatsoever, are turned over to the named beneficiary.
+      (c) stopping, seizing, searching, issuing any summons, or arresting any individual because such individual recorded police activities; or
+
+      (d) seizing property or instruments used by any individual to record police activities.
+
+   2. It shall be an affirmative defense that (i) a reasonable officer in the position of such officer would have had probable cause to believe that the person recording police activities physically interfered with an official and lawful police function, or that such officer’s actions were otherwise authorized by law or (ii) such officer did not know, and a reasonable officer in the position of such officer would not know, that such person was recording or attempting to record police activities.
+
+   3. A person subject to unlawful interference with recording police activities as described in subdivision b of this section may bring an action in any court of competent jurisdiction for any damages, including punitive damages, and for declaratory and injunctive relief and such other remedies as may be appropriate.
+
+   4. In any action or proceeding to enforce this section, the court shall allow a prevailing plaintiff reasonable attorney's fees as part of the costs, and may include expert fees as part of the attorney's fees.
+
+   5. Any action or proceeding to enforce this section shall be commenced no later than one year and 90 days after the date on which the violation of this section is committed.
+
+d. Preservation of rights. This section shall be in addition to all rights, procedures, and remedies available under the United States constitution, section 1983 of title 42 of the United States code, the constitution of the state of New York and all other federal laws, state laws, laws of the city of New York including the administrative code, and all pre-existing civil remedies, including monetary damages, created by statute, ordinance, regulation or common law.
+
+e. Reporting. The commissioner shall submit to the speaker of the council, the public advocate and the mayor, and post on the department’s website, within 20 days after the beginning of the quarter that commences on January 1, 2021 and each quarter thereafter, a report containing the following information for the previous quarter: the number of arrests, criminal summonses, and civil summonses in which the person arrested or summonsed was recording police activities as defined in subdivision a of this section. Such report shall include this information in total and disaggregated by the following factors: the patrol precinct in which such arrest or summons occurred, the offense charged, and the apparent race, ethnicity, gender, and age of the person arrested or summonsed. The information to be reported pursuant to this section shall be compared with previous reporting periods, shall be permanently stored on the department’s website, and shall be stored in alphanumeric form that can be digitally transmitted or processed and not in portable document format or scanned copies of original documents.
+
+
+
+
+
+
+
+
+*§ 14-190 Early intervention system.* ::
+
+
+a. The department shall maintain a centralized system that is used to record, track, review, and evaluate officer activity and to identify officers who may be in need of enhanced training, monitoring, or reassignment. Such system shall collect and utilize, at a minimum, the following:
+
+   (i) information reported pursuant to section 7-114;
+
+   (ii) complaints received and results of investigations conducted by the civilian complaint review board;
+
+   (iii) complaints received and investigations conducted by the department, including but not limited to investigations conducted by the internal affairs bureau, and any disposition resulting from any such investigation;
+
+   (iv) complaints received pursuant to section 804 of the charter;
+
+   (v) use of force incidents and incidents of excessive force, as those terms are defined in section 14-158;
+
+   (vi) arrests and summonses for violations of sections 240.20, 195.05 and 205.30 of the penal law;
+
+   (vii) judicial or departmental determinations that detentions of individuals were not legally justified;
+
+   (viii) criminal arrests or investigations of an officer, to the extent known to the department;
+
+   (ix) judicial determinations that an officer’s testimony is not credible;
+
+   (x) vehicle pursuits and collisions involving department equipment;
+
+   (xi) violations of the department’s patrol guide;
+
+   (xii) disciplinary actions and ongoing disciplinary proceedings; and
+
+   (xiii) non-disciplinary corrective actions.
+
+b. By January 31 of each year, the department shall post on its website and submit to the mayor and the speaker of the council a report on the department’s use of the early intervention system during the previous year, including, but not limited to (i) any additional information, other than the information required to be included in such system by subdivision a of this section, that is collected and utilized through such system; (ii) the process for identifying, through such system, officers who may be in need of enhanced training or monitoring; (iii) the interventions utilized by the department with such officers; (iv) procedures and systems for ongoing monitoring of such officers to ensure improvement; and (v) any information required to be included in such system by subdivision a of this section that the department believes should be eliminated and the reasons why.
+
+
 
 
 

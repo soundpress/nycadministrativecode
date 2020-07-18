@@ -1288,6 +1288,21 @@ b. Unless otherwise provided, all items required to be reported pursuant to para
 
 
 
+Chapter 2: Business Activities In Public Places
+--------------------------------------------------
+
+
+
+*§ 22-205 Permits for movie-making, telecasting and photography in public places; violations; penalties.* ::
+
+
+a. The executive director of the office for economic development* shall not issue to any applicant any permit for any activity subject to the provisions of subdivision thirteen of section thirteen hundred** of the charter, unless and until (1) all other permits, approvals and sanctions required by any other provision of law for the conduct of such activities by the applicant have been obtained by the executive director, in the name and in behalf of the applicant, from the agency or agencies having jurisdiction and (2) all fees required to be paid by, or imposed pursuant to, any provision of law for the issuance of such other permits, approvals and sanctions have been paid by the applicant.
+
+b. It shall be unlawful for any person to conduct, without a permit from such executive director, any activity with respect to which such executive director is authorized to issue a permit under the provisions of the charter referred to in subdivision a of this section. Any violation of the provisions of this subdivision b shall be punishable by a fine of not more than five hundred dollars or by imprisonment for not more than ninety days, or both.
+
+
+
+
 Chapter 1-b: Other Public Markets
 --------------------------------------------------
 
@@ -1697,21 +1712,6 @@ a. No later than one week following the submission of the mayor's management rep
    viii. the amounts, by category, of all expenditures relating to enforcement of the provisions of this chapter.
 
 b. Unless otherwise provided, all items required to be reported pursuant to paragraphs i through viii of subdivision a of this section shall be reported separately for each public wholesale market.
-
-
-
-
-Chapter 2: Business Activities In Public Places
---------------------------------------------------
-
-
-
-*§ 22-205 Permits for movie-making, telecasting and photography in public places; violations; penalties.* ::
-
-
-a. The executive director of the office for economic development* shall not issue to any applicant any permit for any activity subject to the provisions of subdivision thirteen of section thirteen hundred** of the charter, unless and until (1) all other permits, approvals and sanctions required by any other provision of law for the conduct of such activities by the applicant have been obtained by the executive director, in the name and in behalf of the applicant, from the agency or agencies having jurisdiction and (2) all fees required to be paid by, or imposed pursuant to, any provision of law for the issuance of such other permits, approvals and sanctions have been paid by the applicant.
-
-b. It shall be unlawful for any person to conduct, without a permit from such executive director, any activity with respect to which such executive director is authorized to issue a permit under the provisions of the charter referred to in subdivision a of this section. Any violation of the provisions of this subdivision b shall be punishable by a fine of not more than five hundred dollars or by imprisonment for not more than ninety days, or both.
 
 
 

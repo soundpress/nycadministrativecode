@@ -1081,7 +1081,7 @@ a. Definitions. For purposes of this section:
 
    (5) "Public place" means any area to which the general public is invited or permitted, including but not limited to parks, streets, sidewalks or pedestrian concourses, sports arenas, pavilions, gymnasiums, public malls and property owned, occupied or operated by the city of New York or an agency thereof.
 
-   (6) "Tobacco product" means any product which contains tobacco that is intended for human consumption, including any component, part, or accessory of such product. Tobacco product shall include, but not be limited to, any cigar, little cigar, chewing tobacco, pipe tobacco, roll-your-own tobacco, snus, bidi, snuff, tobacco-containing shisha, or dissolvable tobacco product. Tobacco product shall not include cigarettes or any product that has been approved by the United States food and drug administration for sale as a tobacco use cessation product or for other medical purposes and that is being marketed and sold solely for such purposes.
+   (6) "Tobacco product" means any product which contains tobacco that is intended for human consumption, including any component, part, or accessory of such product. Tobacco product shall include, but not be limited to, any cigar, little cigar, chewing tobacco, pipe tobacco, roll-your-own tobacco, snus, bidi, snuff, tobacco-containing shisha, or dissolvable tobacco product. Tobacco product shall not include cigarettes, electronic cigarettes or e-liquid or any product that has been approved by the United States food and drug administration for sale as a tobacco use cessation product or for other medical purposes and that is being marketed and sold solely for such purposes.
 
 b. Distribution of tobacco products to the general public at less than basic cost prohibited in public places and at public events. No persons shall distribute a tobacco product for commercial purposes at less than the basic cost of such product to members of the general public in public places or at public events.
 
@@ -1094,6 +1094,8 @@ d. Penalties.
    (2) A proceeding to recover any civil penalty authorized pursuant to the provisions of this section shall be commenced by the service of a notice of violation which shall be returnable to the administrative tribunal established by the board of health or to any body succeeding the administrative tribunal. Such tribunal or its successor shall have the power to impose the civil penalties prescribed by this section.
 
    (3) The corporation counsel may make an application to the supreme court for an order restraining the continued violation of this section or enjoining the future commission of such practice.
+
+
 
 
 
@@ -1129,7 +1131,7 @@ a. Definitions. For purposes of this section:
 
    "Snus" means any smokeless tobacco product marketed and sold as snus, and sold in ready-to-use pouches or loose as a moist powder.
 
-   "Tobacco product" means any product which contains tobacco that is intended for human consumption, including any component, part, or accessory of such product. Tobacco product shall include, but not be limited to, any cigar, little cigar, chewing tobacco, pipe tobacco, roll-your-own tobacco, snus, bidi, snuff, shisha, or dissolvable tobacco product. Tobacco product shall not include cigarettes or any product that has been approved by the United States food and drug administration for sale as a tobacco use cessation product or for other medical purposes and that is being marketed and sold solely for such purposes.
+   "Tobacco product" means any product which contains tobacco that is intended for human consumption, including any component, part, or accessory of such product. Tobacco product shall include, but not be limited to, any cigar, little cigar, chewing tobacco, pipe tobacco, roll-your-own tobacco, snus, bidi, snuff, shisha, or dissolvable tobacco product. Tobacco product shall not include cigarettes, electronic cigarettes or e-liquid or any product that has been approved by the United States food and drug administration for sale as a tobacco use cessation product or for other medical purposes and that is being marketed and sold solely for such purposes.
 
 b. Prohibition on the sale of cigarettes for less than the listed price. No person shall:
 
@@ -5366,7 +5368,7 @@ p. "Taxicab minifleet" means a corporation licensed by the taxi and limousine co
 
 q. "Tobacco advertisement" means words, pictures, photographs, symbols, graphics or visual images of any kind, or any combination thereof, which bear a health warning required by federal statute, the purpose or effect of which is to identify a brand of a tobacco product, a trademark of a tobacco product or a trade name associated exclusively with a tobacco product, or to promote the use or sale of a tobacco product.
 
-r. "Tobacco product" means any product which contains tobacco that is intended for human consumption, including any component, part, or accessory of such product. Tobacco product shall include, but not be limited to, any cigar, little cigar, chewing tobacco, pipe tobacco, roll-your-own tobacco, snus, bidi, snuff, tobacco-containing shisha, or dissolvable tobacco product. Tobacco product shall not include cigarettes or any product that has been approved by the United States food and drug administration for sale as a tobacco use cessation product or for other medical purposes and that is being marketed and sold solely for such purposes.
+r. "Tobacco product" means any product which contains tobacco that is intended for human consumption, including any component, part, or accessory of such product. Tobacco product shall include, but not be limited to, any cigar, little cigar, chewing tobacco, pipe tobacco, roll-your-own tobacco, snus, bidi, snuff, tobacco-containing shisha, or dissolvable tobacco product. Tobacco product shall not include cigarettes, electronic cigarettes or e-liquid or any product that has been approved by the United States food and drug administration for sale as a tobacco use cessation product or for other medical purposes and that is being marketed and sold solely for such purposes.
 
 s. "Trademark" means any word, name, symbol, logo, emblem or device, or any combination thereof, used by a person to identify and distinguish his or her goods from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.
 
@@ -5386,7 +5388,7 @@ z. "Shisha" means any product made primarily of tobacco or other leaf, or any co
 
 aa. "Herbal cigarette" means a product that is meant to be smoked like a cigarette but is composed of one or more herbs and does not contain tobacco.
 
-bb. "Electronic cigarette" means a battery-operated device that heats a liquid, gel, herb, or other substance and delivers vapor for inhalation. Electronic cigarette shall include any refill, cartridge, and any other component of an electronic cigarette.
+bb. "Electronic cigarette" has the same meaning as such term is defined in section 20-560.
 
 cc. “Non-tobacco smoking product” means any product that does not contain tobacco or nicotine and that is designed for human use or consumption by the inhalation of smoke, including but not limited to (i) pipes, water pipes, rolling papers, and any other component, part, or accessory of such product and (ii) shisha, as defined in subdivision (z) of this section, provided that such shisha does not contain tobacco or nicotine.
 
@@ -5608,7 +5610,7 @@ Nothing contained in this subchapter shall be construed to preclude the city of 
 
 
 
-**Subchapter 2: Regulation of the Sale of Herbal Cigarettes and Flavored Tobacco Products and Regulation of Age of Entry to Non-Tobacco Hookah Establishments**
+**Subchapter 2: Regulation of the Sale of Flavored Tobacco Products, Flavored Electronic Cigarettes and Flavored E-liquid, and Regulation of Age of Entry to Non-Tobacco Hookah Establishments**
 
 
 
@@ -5617,25 +5619,25 @@ Nothing contained in this subchapter shall be construed to preclude the city of 
 
 Whenever used in this subchapter, the following terms shall be defined as follows:
 
-a. "Cigarette" means any roll for smoking made wholly or in part of tobacco or any other substance, irrespective of size or shape and whether or not such tobacco or substance is flavored, adulterated or mixed with any other ingredient, the wrapper or cover of which is made of paper or any other substance or material but is not made in whole or in part of tobacco.
+Characterizing flavor. The term "characterizing flavor" means a distinguishable taste or aroma, other than the taste or aroma of tobacco, imparted either prior to or during consumption of a tobacco product, electronic cigarette or e-liquid, including, but not limited to, tastes or aromas relating to any menthol, mint, wintergreen, fruit, chocolate, vanilla, honey, candy, cocoa, dessert, alcoholic beverage, herb, spice, or any "concept flavor" that imparts a taste or aroma that is distinguishable from tobacco flavor but may not relate to any particular known flavor; provided, however, that no tobacco product, electronic cigarette or e-liquid shall be determined to have a characterizing flavor solely because of the use of additives or flavorings or the provision of ingredient information.
 
-b. "Characterizing flavor" means a distinguishable taste or aroma, other than the taste or aroma of tobacco, menthol, mint or wintergreen, imparted either prior to or during consumption of a tobacco product or component part thereof, including, but not limited to, tastes or aromas relating to any fruit, chocolate, vanilla, honey, candy, cocoa, dessert, alcoholic beverage, herb or spice; provided, however, that no tobacco product shall be determined to have a characterizing flavor solely because of the use of additives or flavorings or the provision of ingredient information.
+Cigarette. The term "cigarette" means any roll for smoking made wholly or in part of tobacco or any other substance, irrespective of size or shape and whether or not such tobacco or substance is flavored, adulterated or mixed with any other ingredient, the wrapper or cover of which is made of paper or any other substance or material but is not made in whole or in part of tobacco.
 
-c. "Component part" means any element of a tobacco product, including, but not limited to, the tobacco, filter and paper, but not including any constituent.
+Electronic cigarette. The term "electronic cigarette" has the same meaning as such term is defined in section 20-560.
 
-d. "Constituent" means any ingredient, substance, chemical or compound, other than tobacco, water or reconstituted tobacco sheet, that is added by the manufacturer to a tobacco product during the processing, manufacture or packing of the tobacco product. Such term shall include a smoke constituent.
+E-liquid. The term "e-liquid" has the same meaning as such term is defined in section 20-560.
 
-e. "Flavored tobacco product" means any tobacco product or any component part thereof that contains a constituent that imparts a characterizing flavor. A public statement or claim made or disseminated by the manufacturer of a tobacco product, or by any person authorized or permitted by the manufacturer to make or disseminate public statements concerning such tobacco product, that such tobacco product has or produces a characterizing flavor shall constitute presumptive evidence that the tobacco product is a flavored tobacco product.
+Flavored electronic cigarette. The term "flavored electronic cigarette" means any electronic cigarette that imparts a characterizing flavor. A public statement or claim made or disseminated by the manufacturer of an electronic cigarette, or by any person authorized or permitted by the manufacturer to make or disseminate public statements concerning such electronic cigarette, that such electronic cigarette has or produces a characterizing flavor shall constitute presumptive evidence that such electronic cigarette is a flavored electronic cigarette.
 
-f. [Repealed.]
+Flavored e-liquid. The term "flavored e-liquid" means any e-liquid that imparts a characterizing flavor. A public statement or claim made or disseminated by the manufacturer of an e-liquid, or by any person authorized or permitted by the manufacturer to make or disseminate public statements concerning such e-liquid, that such e-liquid has or produces a characterizing flavor shall constitute presumptive evidence that such e-liquid is a flavored e-liquid.
 
-g. "Person" means any natural person, partnership, firm, joint stock company, corporation, or employee thereof, or other legal entity.
+Flavored tobacco product. The term "flavored tobacco product" means any tobacco product that imparts a characterizing flavor other than menthol, mint and wintergreen. A public statement or claim made or disseminated by the manufacturer of a tobacco product, or by any person authorized or permitted by the manufacturer to make or disseminate public statements concerning such tobacco product, that such tobacco product has or produces a characterizing flavor, other than menthol, mint and wintergreen, shall constitute presumptive evidence that the tobacco product is a flavored tobacco product.
 
-h. "Smoke constituent" means any chemical or chemical compound in mainstream or sidestream tobacco smoke that either transfers from any component of the tobacco product to the smoke or that is formed by the combustion or heating of tobacco, additives or other component of the tobacco product.
+Person. The term "person" means any natural person, partnership, firm, joint stock company, corporation, or employee thereof, or other legal entity.
 
-i. "Tobacco bar" has the meaning as such term is defined in subdivision jj of section 17-502 of this code.
+Tobacco bar. The term "tobacco bar" has the meaning as such term is defined in subdivision jj of section 17-502.
 
-j. "Tobacco product" means any product which contains tobacco that is intended for human consumption, including any component, part, or accessory of such product. Tobacco product shall include, but not be limited to, any cigar, little cigar, chewing tobacco, pipe tobacco, roll-your-own tobacco, snus, bidi, snuff, tobacco-containing shisha, or dissolvable tobacco product. Tobacco product shall not include cigarettes or any product that has been approved by the United States food and drug administration for sale as a tobacco use cessation product or for other medical purposes and that is being marketed and sold solely for such purposes.
+Tobacco product. The term "tobacco product" means any product which contains tobacco that is intended for human consumption, including any component, part, or accessory of such product. Tobacco product shall include, but not be limited to, any cigar, little cigar, chewing tobacco, pipe tobacco, roll-your-own tobacco, snus, bidi, snuff, tobacco-containing shisha, or dissolvable tobacco product. Tobacco product shall not include cigarettes, electronic cigarettes or e-liquid or any product that has been approved by the United States food and drug administration for sale as a tobacco use cessation product or for other medical purposes and that is being marketed and sold solely for such purposes.
 
 
 
@@ -5654,12 +5656,18 @@ j. "Tobacco product" means any product which contains tobacco that is intended f
 
 
 
-*§ 17-715 Sale of flavored tobacco products prohibited.* ::
+*§ 17-715 Sale of flavored tobacco products, flavored electronic cigarettes and flavored e-liquid prohibited.* ::
 
 
-a. It shall be unlawful for any person to sell or offer for sale, or to possess with intent to sell or offer for sale, any flavored tobacco product except in a tobacco bar.
+a. 1. It shall be unlawful for any person to sell or offer for sale, or to possess with intent to sell or offer for sale, any flavored tobacco product except in a tobacco bar.
 
-b. There shall be a presumption that a retail dealer in possession of four or more flavored tobacco products, which shall include individual tobacco products, packages of tobacco products, or any combination thereof, possesses such tobacco products with intent to sell or offer for sale.
+   2. There shall be a presumption that a retail dealer, as defined in section 17-702, in possession of four or more flavored tobacco products, which shall include individual tobacco products, packages of tobacco products, or any combination thereof, possesses such tobacco products with intent to sell or offer for sale.
+
+b. 1. It shall be unlawful for any person to sell or offer for sale, or to possess with intent to sell or offer for sale, any flavored electronic cigarette or flavored e-liquid.
+
+   2. There shall be a presumption that an electronic cigarette retail dealer, as defined in section 20-560, in possession of six or more flavored electronic cigarettes, or more than 12 fluid ounces (354.882 mL) of flavored e-liquid, possesses such flavored electronic cigarettes or flavored e-liquid with intent to sell or offer for sale.
+
+
 
 
 
@@ -5669,11 +5677,13 @@ b. There shall be a presumption that a retail dealer in possession of four or mo
 *§ 17-716 Violations and penalties.* ::
 
 
-a. Any person who violates section 17-715 of this subchapter shall be liable for a civil penalty of not more than one thousand dollars for the first violation, and not more than one thousand dollars for each additional violation found on that day; and not more than two thousand dollars for the second violation at the same place of business within a three-year period, and not more than two thousand dollars for each additional violation found on that day; and not more than five thousand dollars for the third and all subsequent violations at the same place of business within a three-year period. In addition, for a third violation occurring on a different day and all subsequent violations occurring on different days at the same place of business within a three-year period, any person who engages in business as a retail dealer, as such term is defined in section 20-201, shall be subject to the mandatory suspension of his or her license, issued pursuant to section 20-202, for such place of business, for a period not to exceed one year. Such license shall be suspended at the same hearing at which a retail dealer is found liable for a third violation or subsequent violations at the same place of business within a three-year period.
+a. Any person who violates subdivision a of section 17-715 shall be liable for a civil penalty of not more than one thousand dollars for the first violation, and not more than one thousand dollars for each additional violation found on that day; and not more than two thousand dollars for the second violation at the same place of business within a three-year period, and not more than two thousand dollars for each additional violation found on that day; and not more than five thousand dollars for the third and all subsequent violations at the same place of business within a three-year period. In addition, for a third violation occurring on a different day and all subsequent violations occurring on different days at the same place of business within a three-year period, any person who engages in business as a retail dealer, as such term is defined in section 20-201, shall be subject to the mandatory suspension of his or her license, issued pursuant to section 20-202, for such place of business, for a period not to exceed one year. Such license shall be suspended at the same hearing at which a retail dealer is found liable for a third violation or subsequent violations at the same place of business within a three-year period.
 
-b. Any person who violates subdivision a of section 17-719 shall be liable for a civil penalty of two hundred dollars for the first violation, and not more than two hundred dollars for each additional violation found on the same day; and five hundred dollars for the second violation and each subsequent violation at the same place of business. A proceeding to recover any such civil penalty shall be commenced by the service of a notice of violation returnable to any tribunal established within the office of administrative trials and hearings or within any agency of the city designated to conduct such proceedings. When a person has been found to be in violation of subdivision a of section 17-719 on two or more occasions at a non-tobacco hookah establishment, the commissioner shall revoke the non-tobacco hookah establishment permit issued to such person pursuant to section 17-513.5.
+a-1. Any person who violates subdivision b of section 17-715 shall be liable for a civil penalty of not more than one thousand dollars for the first violation, and not more than one thousand dollars for each additional violation found on that day; and not more than two thousand dollars for the second violation at the same place of business within a three-year period, and not more than two thousand dollars for each additional violation found on that day; and not more than five thousand dollars for the third and all subsequent violations at the same place of business within a three-year period. In addition, for a third violation occurring on a different day and all subsequent violations occurring on different days at the same place of business within a three-year period, any person who engages in business as an electronic cigarette retail dealer, as such term is defined in section 20-560, shall be subject to the mandatory suspension of his or her license, issued pursuant to section 20-561, for such place of business, for a period not to exceed one year. Such license shall be suspended at the same hearing at which an electronic cigarette retail dealer is found liable for a third violation or subsequent violations at the same place of business within a three-year period.
 
-c. Any person found to be in violation of subdivision b of section 17-719 shall be liable for a civil penalty of one hundred dollars for the first violation and not more than one hundred dollars for each additional violation found on the same day, and two hundred dollars for each subsequent violation at the same place of business. A proceeding to recover any such civil penalty shall be commenced by the service of a notice of violation returnable to any tribunal established within the office of administrative trials and hearings or within any agency of the city designated to conduct such proceedings.
+b. Any person who violates subdivision a of section 17-719 shall be liable for a civil penalty of two hundred dollars for the first violation, and not more than two hundred dollars for each additional violation found on the same day; and five hundred dollars for the second violation and each subsequent violation at the same place of business. A proceeding to recover any such civil penalty shall be commenced by the service of a notice of violation returnable to the office of administrative trials and hearings or any tribunal established within any agency of the city designated to conduct such proceedings. When a person has been found to be in violation of subdivision a of section 17-719 on two or more occasions at a non-tobacco hookah establishment, the commissioner shall revoke the non-tobacco hookah establishment permit issued to such person pursuant to section 17-513.5.
+
+c. Any person found to be in violation of subdivision b of section 17-719 shall be liable for a civil penalty of one hundred dollars for the first violation and not more than one hundred dollars for each additional violation found on the same day, and two hundred dollars for each subsequent violation at the same place of business. A proceeding to recover any such civil penalty shall be commenced by the service of a notice of violation returnable to the office of administrative trials and hearings or any tribunal established within any agency of the city designated to conduct such proceedings.
 
 
 

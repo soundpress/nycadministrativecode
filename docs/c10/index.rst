@@ -19614,7 +19614,7 @@ For purposes of the prosecution of offenses under the provisions of this title, 
 
 
 
-*§ 11-4024 Seizure and forfeiture of taxed and lawfully stamped cigarettes sold or possessed by unlicensed retail or wholesale dealers and flavored tobacco products.* ::
+*§ 11-4024 Seizure and forfeiture of taxed and lawfully stamped cigarettes sold or possessed by unlicensed retail or wholesale dealers, flavored tobacco products, flavored electronic cigarettes and flavored e-liquid.* ::
 
 
 (a) Whenever a police officer designated in section 1.20 of the criminal procedure law or a peace officer employed by the department of finance, including but not limited to the sheriff, undersheriff or deputy sheriffs of the city of New York designated as peace officers in subdivision two of section 2.10 of the criminal procedure law, shall discover (1) any cigarettes subject to any tax provided by chapter thirteen of this title, and upon which the tax has been paid and the stamps affixed as required by such chapter, but such cigarettes are sold, offered for sale or possessed by a person in violation of section 11-1303, 17-703 or 20-202 of this code, or (2) any flavored tobacco product that is sold, offered for sale or possessed with intent to sell in violation of section 17-715 of this code, he or she is hereby authorized and empowered forthwith to seize and take possession of such cigarettes or flavored tobacco product, together with any vending machine or receptacle in which such cigarettes or flavored tobacco product are held for sale. Such cigarettes or flavored tobacco product, vending machine or receptacle seized by such police officer or such peace officer shall be turned over to the commissioner of finance.
@@ -19624,6 +19624,10 @@ For purposes of the prosecution of offenses under the provisions of this title, 
 (c) The commissioner of finance may, within a reasonable time after the forfeiture to the city of such vending machine or receptacle under this section, upon publication of a notice to such effect for at least five successive days, in a newspaper published or circulated in the city, sell such forfeited vending machine or receptacle at public sale and pay the proceeds into the general fund of the city. Such seized vending machine or receptacle may be sold prior to forfeiture if the owner of the seized property consents to the sale. Cigarettes or flavored tobacco product forfeited to the city under this section shall be destroyed or used for law enforcement purposes, except that cigarettes that violate, or are suspected of violating, federal trademark laws or import laws shall not be used for law enforcement purposes. If the commissioner determines the cigarettes forfeited under this section may not be used for law enforcement purposes, the commissioner of finance must, within a reasonable time after the forfeiture to the city of such cigarettes, upon publication of a notice to such effect for at least five successive days, prior to destruction, in a newspaper published or circulated in the city, destroy such forfeited cigarettes.
 
 (d) In the alternative, the commissioner of finance, on reasonable notice by mail or otherwise, may permit the person from whom a seizure of cigarettes or flavored tobacco product under this section was made, to redeem any vending machine or receptacle seized with such cigarettes or flavored tobacco product, or may permit the owner of any such vending machine or receptacle to redeem the same, upon the payment of any civil penalty imposed pursuant to chapter seven of title seventeen or subchapter one of chapter two of title twenty of this code and the costs incurred in such proceeding.
+
+(e) For purposes of this section, a flavored tobacco product means a flavored tobacco product, flavored electronic cigarette or flavored e-liquid.
+
+
 
 
 

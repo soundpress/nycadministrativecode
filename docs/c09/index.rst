@@ -2174,6 +2174,22 @@ e. Provisos. The prohibitions contained in subdivision b do not apply if:
 
 
 
+
+
+*§ 10-181 Unlawful methods of restraint.* ::
+
+
+a. Unlawful methods of restraint. No person shall restrain an individual in a manner that restricts the flow of air or blood by compressing the windpipe or the carotid arteries on each side of the neck, or sitting, kneeling, or standing on the chest or back in a manner that compresses the diaphragm, in the course of effecting or attempting to effect an arrest.
+
+b. Penalties. Any person who violates subdivision a of this section shall be guilty of a misdemeanor punishable by imprisonment of not more than one year or a fine of not more than $2,500, or both.
+
+c. Any penalties resulting from a violation of subdivision a of this section shall not limit or preclude any cause of action available to any person or entity injured or aggrieved by such violation.
+
+
+
+
+
+
 Chapter 2: Unlawful Sale or Possession of Controlled Substances
 --------------------------------------------------
 
@@ -2239,81 +2255,6 @@ h. Any person who engages in business as a retail dealer pursuant to section 20-
    2. a mandatory revocation of his or her retail dealer license, or of any subsequent license holder, for a second or subsequent violation of this section occurring on a different day at the same place of business within a three-year period, unless the subsequent license holder provides the commissioner of the agency that has commenced the proceeding to recover a civil penalty pursuant to subdivision d of this section with adequate documentation demonstrating that such subsequent license holder acquired the premises or business through an arm's length transaction, as defined in paragraph 5 of subdivision d of section 20-202 of the code, and that the sale or lease was not conducted, in whole or in part, for the purpose of permitting the original licensee to avoid the effect of violations on the premises.
 
 
-
-
-
-
-Chapter 4: Actions By Victims of Violent Crime
---------------------------------------------------
-
-
-
-*§ 10-401 Short title.* ::
-
-
-This local law shall be known as the "Victims of Violent Crime Protection Act".
-
-
-
-
-
-
-*§ 10-402 Definition.* ::
-
-
-For purposes of this chapter:
-
-a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
-
-
-
-
-
-
-*§ 10-403 Civil cause of action.* ::
-
-
-Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
-
-1. compensatory and punitive damages;
-
-2. injunctive and declaratory relief;
-
-3. attorneys' fees and costs;
-
-4. such other relief as a court may deem appropriate.
-
-
-
-
-
-
-*§ 10-404 Limitations.* ::
-
-
-a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
-
-b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
-
-
-
-
-
-
-*§ 10-405 Burden of proof.* ::
-
-
-Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
-
-
-
-
-
-
-*§ 10-406 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
 
 
 
@@ -2865,6 +2806,81 @@ a. Restriction of possession. Notwithstanding any other provision of this chapte
 b. Penalties. The violation of this section constitutes a class A misdemeanor for each prohibited item disposed of or possessed.
 
 
+
+
+
+
+Chapter 4: Actions By Victims of Violent Crime
+--------------------------------------------------
+
+
+
+*§ 10-401 Short title.* ::
+
+
+This local law shall be known as the "Victims of Violent Crime Protection Act".
+
+
+
+
+
+
+*§ 10-402 Definition.* ::
+
+
+For purposes of this chapter:
+
+a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
+
+
+
+
+
+
+*§ 10-403 Civil cause of action.* ::
+
+
+Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
+
+1. compensatory and punitive damages;
+
+2. injunctive and declaratory relief;
+
+3. attorneys' fees and costs;
+
+4. such other relief as a court may deem appropriate.
+
+
+
+
+
+
+*§ 10-404 Limitations.* ::
+
+
+a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
+
+b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
+
+
+
+
+
+
+*§ 10-405 Burden of proof.* ::
+
+
+Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
+
+
+
+
+
+
+*§ 10-406 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
 
 
 
