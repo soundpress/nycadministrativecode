@@ -2502,62 +2502,10 @@ b. Not later than October first of each year, the city chief procurement officer
 
 
 
-*§ 6-138 Participation by veteran owned business enterprises in city procurement.** ::
+*§ 6-138 Participation by veteran owned business enterprises in city procurement.* ::
 
 
 The commissioner of the department of small business services, in consultation with the city chief procurement officer, shall analyze veteran owned business enterprises and opportunities for such business enterprises in city procurements and shall, by December 1, 2014, determine the need for a citywide program to promote opportunities in city procurement for veterans. At such time, the commissioner shall submit to the council a report on such analysis including the basis for such determination. If the commissioner determines that there is a need for such a citywide program, such report shall also contain recommendations concerning measures to enhance the opportunities of such businesses with respect to city procurement, which shall include but need not be limited to, outreach and notification of contract opportunities, certification of veteran owned business enterprises, recommendations regarding the establishment of participation goals, and tracking and reporting the utilization of such business enterprises.
-
-
-
-
-
-
-*§ 6-138 Reporting on the expenditure of Hurricane Sandy funds.** ::
-
-
-a. Definitions. For purposes of this section, the following terms shall have the following meanings:
-
-   (1) "Hurricane Sandy funds" means any federal funds, or local or state funds derived from federal funds, appropriated by Federal Public Law 113-2, an act making supplemental appropriations for the fiscal year September 30, 2013, to improve and streamline disaster assistance for Hurricane Sandy, that are administered or disbursed by the city and provided to a recipient in an amount exceeding one hundred thousand dollars to recover or rebuild from Hurricane Sandy.
-
-   (2) "Hurricane Sandy funded projects" means any construction, services, or programs, paid for, in whole or in part, with any Hurricane Sandy funds.
-
-   (3) "Recipient" means any person or entity, including any individual, sole proprietorship, partnership, association, joint venture, limited liability company, corporation or any other form of doing business, awarded Hurricane Sandy funds.
-
-b. The City shall establish and maintain a public online searchable and interactive database on the website of the city that shall include summaries of the administration of Hurricane Sandy funds as set forth in this section. The data included in such database shall be available in a format that permits automated processing and shall be available without any registration requirement, license requirement or restrictions on their use, provided that the city may require a third party providing to the public any data from such database, or any application utilizing such data, to explicitly identify the source and version of the data, and a description of any modifications made to such data. The database shall include but not be limited to the following information:
-
-   (1) For each Hurricane Sandy funded project for construction, the name of the contractor, and subcontractor, if known, a detailed description of the Hurricane Sandy funded project, including, but not limited to, the physical address, block and lot numbers, estimated dates of start and completion, and purpose of the project in relation to the city's recovery and rebuilding efforts, the value and type of funding provided, including but not limited to grants, loans, contracts, or other such forms of financial assistance, the total number of jobs at the time of award of Hurricane Sandy funds, and the total number of additional jobs to be created and retained over the life of the Hurricane Sandy funded project. For Hurricane Sandy funded projects relating to the rebuilding or repairing of four or fewer residential units, data shall not include the physical address, block and lot numbers, site-specific dates of start and completion and the value and type of funding provided; any data provided for such projects shall be aggregated by zip code;
-
-   (2) For each executed city procurement contract associated with Hurricane Sandy funding, including, but not limited to, the name of the contract vendor, contract identification number, purpose of the contract, original contract value in dollars, revised contract value in dollars, if applicable, whether the bid was subject to public bidding, original contract start and end date, revised contract end date, if applicable, contract status, information on the contract recipient's qualification for receipt of Hurricane Sandy funds for a Hurricane Sandy funded project, and the total number and type of jobs to be expected to be created and retained over the life of the Hurricane Sandy funded project. For city procurement contracts related to the rebuilding or repairing of four or fewer residential units, data shall not include information on the contract recipient's qualification for receipt of Hurricane Sandy funds for a Hurricane Sandy funded project if the recipient is a homeowner, tenant or resident of the affected units; and
-
-   (3) For each grant or loan issuance associated with Hurricane Sandy funding, including, but not limited to the recipient name, the purpose of the grant or loan, the grant or loan award amount, whether the grant or loan was subject to a selective award process and the nature of that process, grant or loan name, award status, information on the grant or loan recipient's qualification for receipt of Hurricane Sandy funds for a Hurricane Sandy funded project, and the total number and type of jobs to be expected to be created and retained over the life of the Hurricane Sandy funded project. For grants or loans related to the rebuilding or repairing of four or fewer residential units, data shall not include the grant or loan recipient's name or information on the recipient's qualification for receipt of Hurricane Sandy funds for a Hurricane Sandy funded project if the recipient is a homeowner, tenant or resident of the affected unit, and other grant or loan data provided for grants or loans related to the rebuilding or repairing of four or fewer residential units shall be aggregated by zip code;
-
-c. In addition to the provisions of subdivision b of this section, the website shall also include:
-
-   (1) the total number of jobs at the time of award of Hurricane Sandy funds and the total number of additional jobs to be created and retained in each Hurricane Sandy funding program (in the case of Community Development Block Grant assistance) or for each agency (in the case of Federal Emergency Management Agency), aggregated by zip code, based upon the best practicable methodology for calculating such number over the life of the Hurricane Sandy funded project, including the number of permanent full-time employees, the number of temporary full-time employees, the number of permanent part-time employees, the number of temporary part-time employees, and the total number of contract employees;
-
-   (2) the percentage of employees on Hurricane Sandy funded projects earning up to twenty thousand dollars per year; the percentage of employees on Hurricane Sandy funded projects earning more than twenty thousand dollars per year up to thirty-five thousand dollars per year; the percentage of employees on Hurricane Sandy funded projects earning more than thirty-five thousand dollars per year up to fifty thousand dollars per year; the percentage of employees on Hurricane Sandy funded projects earning more than fifty thousand dollars per year;
-
-   (3) the percentage of full-time employees on Hurricane Sandy funded projects and the percentage of part-time employees on Hurricane Sandy funded projects to whom their employers offer health benefits;
-
-   (4) the zip code of residence of employees on Hurricane Sandy funded projects and the zip code of the Hurricane Sandy funded project location on which the employee is employed, except that where the number of employees from one zip code is between one and five, the number of employees shall be replaced with a symbol;
-
-   (5) where the information is available, whether the recipient has, within the past ten years, been criminally convicted of any crime related to truthfulness or business conduct and the record of all sanctions imposed within the prior five years as a result of judicial or administrative disciplinary proceedings with respect to any professional licenses held by the recipient;
-
-   (6) where the information is available, whether the recipient participates in a union construction apprenticeship program and/or other local workforce development program, and, if any, the names of such programs;
-
-   (7) whether the recipient of Hurricane Sandy funds executed any legal documents subjecting any of the work to be done using such funds to the requirements of one or more prevailing wage laws;
-
-   (8) whether the Hurricane Sandy funded project is subject to and in compliance with Section 3 of the Housing &amp; Urban Development Act of 1968; and
-
-   (9) a list of all contractors, and subcontractors performing work on the Hurricane Sandy funded project. The provisions of this subdivision shall not apply to projects, grants or loans related to the rebuilding or repairing of four or fewer residential units if the recipient is a homeowner, tenant or resident of an affected unit.
-
-d. The provisions of this section shall not be construed to require the disclosure of information concerning contractors selected by recipients of Hurricane Sandy funds in relation to the rebuilding or repairing of four or fewer residential units where such recipients are homeowners, tenants or residents of affected units.
-
-e. Notwithstanding the provisions of this section, the website required pursuant to this section shall not be used to distribute information which, if disclosed, would jeopardize compliance with local, state or federal law, threaten public health, welfare, or safety, or harm the competitive economic position of a party.
-
-f. The public online database prescribed in subdivision b of this section shall be updated on a monthly basis.
-
-g. This section shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this section shall not result in liability for the city. The city shall not be deemed to warranty the completeness, accuracy, content or fitness for any particular purpose or use of any information provided by the city pursuant to this section, including but not limited to information provided to the city by a third party or information provided by the city that is based upon information provided by a third party.
 
 
 
@@ -2696,6 +2644,106 @@ d. The subcontractor resource guide shall serve as an informational document onl
 e. Nothing in this section shall be construed to limit an agency's authority to cancel or terminate a contract, issue a non-responsibility finding, issue a non-responsiveness finding, deny a person or entity pre-qualification, or otherwise deny a contractor city business.
 
 
+
+
+
+
+
+
+*§ 6-143 Reporting on the expenditure of Hurricane Sandy funds.* ::
+
+
+a. Definitions. For purposes of this section, the following terms shall have the following meanings:
+
+   (1) "Hurricane Sandy funds" means any federal funds, or local or state funds derived from federal funds, appropriated by Federal Public Law 113-2, an act making supplemental appropriations for the fiscal year September 30, 2013, to improve and streamline disaster assistance for Hurricane Sandy, that are administered or disbursed by the city and provided to a recipient in an amount exceeding one hundred thousand dollars to recover or rebuild from Hurricane Sandy.
+
+   (2) "Hurricane Sandy funded projects" means any construction, services, or programs, paid for, in whole or in part, with any Hurricane Sandy funds.
+
+   (3) "Recipient" means any person or entity, including any individual, sole proprietorship, partnership, association, joint venture, limited liability company, corporation or any other form of doing business, awarded Hurricane Sandy funds.
+
+b. The City shall establish and maintain a public online searchable and interactive database on the website of the city that shall include summaries of the administration of Hurricane Sandy funds as set forth in this section. The data included in such database shall be available in a format that permits automated processing and shall be available without any registration requirement, license requirement or restrictions on their use, provided that the city may require a third party providing to the public any data from such database, or any application utilizing such data, to explicitly identify the source and version of the data, and a description of any modifications made to such data. The database shall include but not be limited to the following information:
+
+   (1) For each Hurricane Sandy funded project for construction, the name of the contractor, and subcontractor, if known, a detailed description of the Hurricane Sandy funded project, including, but not limited to, the physical address, block and lot numbers, estimated dates of start and completion, and purpose of the project in relation to the city's recovery and rebuilding efforts, the value and type of funding provided, including but not limited to grants, loans, contracts, or other such forms of financial assistance, the total number of jobs at the time of award of Hurricane Sandy funds, and the total number of additional jobs to be created and retained over the life of the Hurricane Sandy funded project. For Hurricane Sandy funded projects relating to the rebuilding or repairing of four or fewer residential units, data shall not include the physical address, block and lot numbers, site-specific dates of start and completion and the value and type of funding provided; any data provided for such projects shall be aggregated by zip code;
+
+   (2) For each executed city procurement contract associated with Hurricane Sandy funding, including, but not limited to, the name of the contract vendor, contract identification number, purpose of the contract, original contract value in dollars, revised contract value in dollars, if applicable, whether the bid was subject to public bidding, original contract start and end date, revised contract end date, if applicable, contract status, information on the contract recipient's qualification for receipt of Hurricane Sandy funds for a Hurricane Sandy funded project, and the total number and type of jobs to be expected to be created and retained over the life of the Hurricane Sandy funded project. For city procurement contracts related to the rebuilding or repairing of four or fewer residential units, data shall not include information on the contract recipient's qualification for receipt of Hurricane Sandy funds for a Hurricane Sandy funded project if the recipient is a homeowner, tenant or resident of the affected units; and
+
+   (3) For each grant or loan issuance associated with Hurricane Sandy funding, including, but not limited to the recipient name, the purpose of the grant or loan, the grant or loan award amount, whether the grant or loan was subject to a selective award process and the nature of that process, grant or loan name, award status, information on the grant or loan recipient's qualification for receipt of Hurricane Sandy funds for a Hurricane Sandy funded project, and the total number and type of jobs to be expected to be created and retained over the life of the Hurricane Sandy funded project. For grants or loans related to the rebuilding or repairing of four or fewer residential units, data shall not include the grant or loan recipient's name or information on the recipient's qualification for receipt of Hurricane Sandy funds for a Hurricane Sandy funded project if the recipient is a homeowner, tenant or resident of the affected unit, and other grant or loan data provided for grants or loans related to the rebuilding or repairing of four or fewer residential units shall be aggregated by zip code;
+
+c. In addition to the provisions of subdivision b of this section, the website shall also include:
+
+   (1) the total number of jobs at the time of award of Hurricane Sandy funds and the total number of additional jobs to be created and retained in each Hurricane Sandy funding program (in the case of Community Development Block Grant assistance) or for each agency (in the case of Federal Emergency Management Agency), aggregated by zip code, based upon the best practicable methodology for calculating such number over the life of the Hurricane Sandy funded project, including the number of permanent full-time employees, the number of temporary full-time employees, the number of permanent part-time employees, the number of temporary part-time employees, and the total number of contract employees;
+
+   (2) the percentage of employees on Hurricane Sandy funded projects earning up to twenty thousand dollars per year; the percentage of employees on Hurricane Sandy funded projects earning more than twenty thousand dollars per year up to thirty-five thousand dollars per year; the percentage of employees on Hurricane Sandy funded projects earning more than thirty-five thousand dollars per year up to fifty thousand dollars per year; the percentage of employees on Hurricane Sandy funded projects earning more than fifty thousand dollars per year;
+
+   (3) the percentage of full-time employees on Hurricane Sandy funded projects and the percentage of part-time employees on Hurricane Sandy funded projects to whom their employers offer health benefits;
+
+   (4) the zip code of residence of employees on Hurricane Sandy funded projects and the zip code of the Hurricane Sandy funded project location on which the employee is employed, except that where the number of employees from one zip code is between one and five, the number of employees shall be replaced with a symbol;
+
+   (5) where the information is available, whether the recipient has, within the past ten years, been criminally convicted of any crime related to truthfulness or business conduct and the record of all sanctions imposed within the prior five years as a result of judicial or administrative disciplinary proceedings with respect to any professional licenses held by the recipient;
+
+   (6) where the information is available, whether the recipient participates in a union construction apprenticeship program and/or other local workforce development program, and, if any, the names of such programs;
+
+   (7) whether the recipient of Hurricane Sandy funds executed any legal documents subjecting any of the work to be done using such funds to the requirements of one or more prevailing wage laws;
+
+   (8) whether the Hurricane Sandy funded project is subject to and in compliance with Section 3 of the Housing &amp; Urban Development Act of 1968; and
+
+   (9) a list of all contractors, and subcontractors performing work on the Hurricane Sandy funded project. The provisions of this subdivision shall not apply to projects, grants or loans related to the rebuilding or repairing of four or fewer residential units if the recipient is a homeowner, tenant or resident of an affected unit.
+
+d. The provisions of this section shall not be construed to require the disclosure of information concerning contractors selected by recipients of Hurricane Sandy funds in relation to the rebuilding or repairing of four or fewer residential units where such recipients are homeowners, tenants or residents of affected units.
+
+e. Notwithstanding the provisions of this section, the website required pursuant to this section shall not be used to distribute information which, if disclosed, would jeopardize compliance with local, state or federal law, threaten public health, welfare, or safety, or harm the competitive economic position of a party.
+
+f. The public online database prescribed in subdivision b of this section shall be updated on a monthly basis.
+
+g. This section shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this section shall not result in liability for the city. The city shall not be deemed to warranty the completeness, accuracy, content or fitness for any particular purpose or use of any information provided by the city pursuant to this section, including but not limited to information provided to the city by a third party or information provided by the city that is based upon information provided by a third party.
+
+
+
+
+
+
+
+
+*§ 6-144 [Reporting on the expenditure of COVID-19 funds.]* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   COVID-19. The term “COVID-19” means the 2019 novel coronavirus or 2019-nCoV.
+
+   COVID-19 expenditure. The term “COVID-19 expenditure” means any expense or capital expenditure by a city agency for services, goods or materials, programs or construction paid for, in whole or in part, with any COVID-19 funds, provided that such term shall only include personnel expenditures that are tracked as such for reimbursement.
+
+   COVID-19 funds. The term “COVID-19 funds” means any federal, state or local funds allocated to or expended by any city agency to provide assistance for responding to COVID-19, including, but not limited to, preventing the spread among the population, containing or treating COVID-19 or mitigating the direct or indirect effects of COVID-19.
+
+   Recipient. The term “recipient” means any person or entity, including any individual, sole proprietorship, public authority, partnership, association, joint venture, limited liability company, corporation or any other form of doing business, awarded COVID-19 funds.
+
+b. 1. The mayor shall establish and maintain a public online searchable and interactive database on the website of the city that shall include summaries of the administration of COVID-19 funds as set forth in this section. The data included in such database shall be available in a format that permits automated processing and is downloadable, and shall be available without any registration requirement, license requirement or restrictions on their use, provided that the city may require a third party providing to the public any data from such database, or any application utilizing such data, to explicitly identify the source and version of the data, and a description of any modifications made to such data. The database shall include but not be limited to the following information, which shall, to the extent practicable, be disaggregated by federal, state and local COVID-19 funds, and, for federal funds, by the source of such funds:
+
+      (a) For each COVID-19 expense expenditure, where applicable, the administering agency, the unit of appropriation, the budget code, the amount submitted for reimbursement, the amount reimbursed and the source of reimbursement;
+
+      (b) For each COVID-19 capital expenditure, where applicable, the administering agency, the budget line, the project identification number, the project description, the amount submitted for reimbursement, the amount reimbursed and the source of reimbursement;
+
+      (c) For each executed city procurement contract funded in whole or in part by COVID-19 funds, the awarding agency, the unit of appropriation, the budget code, the name and address of the contractor and, if known, subcontractors, the contract identification number, the purpose of the contract, the original contract value in dollars and any applicable contract modification value in dollars, the contract award method, the contract type, the contract start and end date and any revised contract end date, the original contract registration date and the registration date of any applicable contract modification, the status of any contractor and, if known, subcontractor, as a minority and women-owned business enterprise, the contract status, to the extent practicable the amount spent to date on the contract and, if known, subcontracts, and information on the value of the contract and, if known, subcontracts, eligible for reimbursement from a COVID-19 funds award; and
+
+      (d) For each grant or loan issuance associated with COVID-19 funds, the awarding agency, the recipient name, the recipient’s zip code, the grant or loan name, the purpose of the grant or loan, the grant or loan award amount, whether the grant or loan was subject to a selective award process and the nature of that process, the award status and information on the value of the grant or loan eligible for reimbursement from a COVID-19 funds award.
+
+   2. To the extent that the city is awarded funding from any federal appropriation related to COVID-19 that is not covered by paragraph 1 of subdivision b of this section, the database shall include the amount of such funds, disaggregated by source, and how such funds were allocated and expended by agency, unit of appropriation and budget code.
+
+c. Notwithstanding any other provision of this section the database required by subdivision b of this section shall not be used to distribute information which, if disclosed, would jeopardize compliance with local, state or federal law, threaten public health, welfare, or safety, or harm the competitive economic position of a recipient.
+
+d. The database prescribed in subdivision b of this section shall be updated each quarter within 30 days of the end of such quarter.
+
+e. This section shall not be construed to create a private right of action to enforce its provisions. Failure to comply with this section shall not result in liability for the city. The city shall not be deemed to warranty the completeness, accuracy, content or fitness for any particular purpose or use of any information provided by the city pursuant to this section, including but not limited to information provided to the city by a third party or information provided by the city that is based upon information provided by a third party.
+
+
+
+* Editor's note: Sections 3, 4, and 5 of L.L. 2020/076 provide: 
+											§ 3. Section 6-144 of the administrative code of the city of New York, as added by section two of this local law, shall not require reporting on any contracts entered into prior to the effective date of this local law where the reporting requirements of this local law would require collecting information that is not available to the city, and cannot reasonably be obtained by the city.
+
+§ 4. If any provision of section 6-144 of the administrative code of the city of New York, as added by section two of this local law, or the application thereof shall for any reason be adjudged by any court of competent jurisdiction to be invalid or unconstitutional, such judgment shall not effect, impair or invalidate the remainder of such section.
+
+§ 5. Data maintained pursuant to section 6-144 of the administrative code of the city of New York, as added by section two of this local law, shall also be subject to chapter 5 of title 23 of such administrative code, where such chapter is otherwise applicable. 
+												
 
 
 

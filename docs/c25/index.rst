@@ -2586,51 +2586,6 @@ When used in this chapter the following terms shall have the following meanings:
 
 
 
-Chapter 6-d: Industrial Business Zones
---------------------------------------------------
-
-
-
-*§ 22-625 Industrial business zone boundary commission.* ::
-
-
-(a) The industrial business zone boundary commission shall consist of the commissioner of small business services, the director of city planning, the commissioner of buildings, the commissioner of finance, the commissioner of housing preservation and development, the commissioner of citywide administrative services, the president of the economic development corporation, a member of the community associated with industrial and manufacturing activities who shall be appointed by the mayor and serve at the mayor's pleasure, and the five borough presidents. The commissioner of small business services shall serve as chairperson of the commission. Each member of the commission, except the member of the community associated with industrial and manufacturing activities, shall have the power to designate an alternate to represent him or her at commission meetings and exercise all the rights and powers of such member, including the right to vote, provided that such designation is made in writing to the chairperson of the commission. A borough president shall be entitled to vote only on the designation of an industrial boundary zone, an amendment to the boundaries of such a zone, or the repeal of such a zone where all or part of the proposed zone or existing zone is within his or her borough. Commission members shall serve without compensation. A majority of members of such commission entitled to vote on a matter shall constitute a quorum for such issue. Decisions shall be made by majority vote of those present and entitled to vote on a matter.
-
-(b) The mission of the industrial business zone boundary commission shall be the preservation of industrial and manufacturing activities and related employment within the city of New York.
-
-
-
-
-
-
-*§ 22-626 Industrial business zones.* ::
-
-
-(a) The industrial business zone boundary commission shall publish notice at least once in the City Record or a newspaper of general circulation in the city setting forth:
-
-   (1) the boundaries of one or more industrial business zones that the commission proposes to be designated, amended or repealed; and
-
-   (2) the date, which shall not be earlier than five nor later than fifteen days following the publication of such notice, on which the commission will hold a public hearing to hear all persons interested in the proposed designation, amendment or repeal of such zone or zones.
-
-(b) If after such public hearing, the commission designates or repeals one or more industrial business zones or amends the boundaries of one or more such zones, it shall notify the local legislative body of such designation, repeal or amendment not later than thirty days after such designation, repeal or amendment.
-
-(c) The designation or repeal of an industrial business zone or the amendment of the boundaries of one or more such zones shall become effective upon (1) the vote of the commission approving such designation, repeal or amendment or (2) any other date provided for by the commission when it approves such designation, repeal or amendment.
-
-(d) (1) The commission may designate an area to be an industrial business zone if it determines that the market conditions in such zone are such that the availability of an industrial business zone tax credit is required in order to encourage industrial and manufacturing activities in such zone.
-
-   (2) The commission may repeal an existing industrial business zone if it determines that the market conditions in such zone are such that the availability of an industrial business zone tax credit is no longer required in order to encourage industrial and manufacturing activities in such zone.
-
-   (3) The commission may amend in whole or in part the boundaries of an existing industrial business zone if it determines: (A) for any new area or areas to be included within the zone, that the market conditions in such area or areas are such that the availability of an industrial business zone tax credit is required in order to encourage industrial and manufacturing activities in such area or areas; and (B) for any area or areas to be eliminated from such zone, that the market conditions in such area or areas are such that the availability of an industrial business zone tax credit is no longer required in order to encourage industrial and manufacturing activities in such area or areas.
-
-   (4) In making any of the determinations set forth in paragraphs one, two or three of this subdivision, the commission shall consider, among other factors it determines are appropriate for consideration, existing land uses, the industrial and manufacturing character of the relevant area, the relevant area's potential development for industrial and manufacturing activities, whether there is any as-of-right zoning for new residential development within such area, vehicular traffic patterns, and existing or proposed empire zone boundaries.
-
-   (5) Any land to be included in an industrial business zone shall be designated as M-1, M-2, or M-3 pursuant to the zoning resolution of the city of New York in effect at the time of designation.
-
-   (6) For the purposes of this subdivision, the term "industrial business zone tax credit" means an industrial business zone tax credit, as provided in subdivision (n) of section 11-503 or subdivision seventeen-b of section 11-604 of this code.
-
-
-
-
 Chapter 6-c: Lower Manhattan Relocation and Employment Assistance Program
 --------------------------------------------------
 
@@ -2734,6 +2689,358 @@ When used in this chapter the following terms shall have the following meanings:
 (e) For the duration of the benefit period, the recipient of benefits shall file annually, along with the aforementioned original and annual certificates of eligibility, the average wage and benefits offered to the applicable relocated employees used in determining eligible aggregate employment shares, pursuant to subdivision (i) of section 22-623 of this chapter. The department shall have the authority to require that statements filed under this subdivision be certified.
 
 
+
+
+
+
+Chapter 6-d: Industrial Business Zones
+--------------------------------------------------
+
+
+
+*§ 22-625 Industrial business zone boundary commission.* ::
+
+
+(a) The industrial business zone boundary commission shall consist of the commissioner of small business services, the director of city planning, the commissioner of buildings, the commissioner of finance, the commissioner of housing preservation and development, the commissioner of citywide administrative services, the president of the economic development corporation, a member of the community associated with industrial and manufacturing activities who shall be appointed by the mayor and serve at the mayor's pleasure, and the five borough presidents. The commissioner of small business services shall serve as chairperson of the commission. Each member of the commission, except the member of the community associated with industrial and manufacturing activities, shall have the power to designate an alternate to represent him or her at commission meetings and exercise all the rights and powers of such member, including the right to vote, provided that such designation is made in writing to the chairperson of the commission. A borough president shall be entitled to vote only on the designation of an industrial boundary zone, an amendment to the boundaries of such a zone, or the repeal of such a zone where all or part of the proposed zone or existing zone is within his or her borough. Commission members shall serve without compensation. A majority of members of such commission entitled to vote on a matter shall constitute a quorum for such issue. Decisions shall be made by majority vote of those present and entitled to vote on a matter.
+
+(b) The mission of the industrial business zone boundary commission shall be the preservation of industrial and manufacturing activities and related employment within the city of New York.
+
+
+
+
+
+
+*§ 22-626 Industrial business zones.* ::
+
+
+(a) The industrial business zone boundary commission shall publish notice at least once in the City Record or a newspaper of general circulation in the city setting forth:
+
+   (1) the boundaries of one or more industrial business zones that the commission proposes to be designated, amended or repealed; and
+
+   (2) the date, which shall not be earlier than five nor later than fifteen days following the publication of such notice, on which the commission will hold a public hearing to hear all persons interested in the proposed designation, amendment or repeal of such zone or zones.
+
+(b) If after such public hearing, the commission designates or repeals one or more industrial business zones or amends the boundaries of one or more such zones, it shall notify the local legislative body of such designation, repeal or amendment not later than thirty days after such designation, repeal or amendment.
+
+(c) The designation or repeal of an industrial business zone or the amendment of the boundaries of one or more such zones shall become effective upon (1) the vote of the commission approving such designation, repeal or amendment or (2) any other date provided for by the commission when it approves such designation, repeal or amendment.
+
+(d) (1) The commission may designate an area to be an industrial business zone if it determines that the market conditions in such zone are such that the availability of an industrial business zone tax credit is required in order to encourage industrial and manufacturing activities in such zone.
+
+   (2) The commission may repeal an existing industrial business zone if it determines that the market conditions in such zone are such that the availability of an industrial business zone tax credit is no longer required in order to encourage industrial and manufacturing activities in such zone.
+
+   (3) The commission may amend in whole or in part the boundaries of an existing industrial business zone if it determines: (A) for any new area or areas to be included within the zone, that the market conditions in such area or areas are such that the availability of an industrial business zone tax credit is required in order to encourage industrial and manufacturing activities in such area or areas; and (B) for any area or areas to be eliminated from such zone, that the market conditions in such area or areas are such that the availability of an industrial business zone tax credit is no longer required in order to encourage industrial and manufacturing activities in such area or areas.
+
+   (4) In making any of the determinations set forth in paragraphs one, two or three of this subdivision, the commission shall consider, among other factors it determines are appropriate for consideration, existing land uses, the industrial and manufacturing character of the relevant area, the relevant area's potential development for industrial and manufacturing activities, whether there is any as-of-right zoning for new residential development within such area, vehicular traffic patterns, and existing or proposed empire zone boundaries.
+
+   (5) Any land to be included in an industrial business zone shall be designated as M-1, M-2, or M-3 pursuant to the zoning resolution of the city of New York in effect at the time of designation.
+
+   (6) For the purposes of this subdivision, the term "industrial business zone tax credit" means an industrial business zone tax credit, as provided in subdivision (n) of section 11-503 or subdivision seventeen-b of section 11-604 of this code.
+
+
+
+
+Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
+
+
+
+*§ 22-801 Definitions.* ::
+
+
+"Lobbying"or "Lobbying activities" shall mean "lobbying" or "lobbying activities" as defined in section 3-211 of this code.
+
+"Person or organization" shall be construed not to include the not-for-profit corporation under contract with the city to provide or administer economic development benefits on behalf of the city.
+
+
+
+
+
+
+*§ 22-802 Reporting of lobbying activities.* ::
+
+
+a. A not-for-profit corporation of which a majority of its members are appointed by the mayor that is under contract with the city to provide or administer economic development benefits on behalf of the city shall be required to submit to the council quarterly reports identifying:
+
+   1. the contracted entity's retention or designation of a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and
+
+   2. the contracted entity's making or incurring an expenditure to, or on behalf of, a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board.
+
+b. Such reports need not identify:
+
+   1. any officer or employee of the city of New York or of such contracted entity and
+
+   2. any person or organization retained or designated by the contracted entity to provide advice and analysis directly applying any urban planning, urban design, engineering, scientific or similar technical discipline, or any legal, accounting, or other similar professional discipline.
+
+c. Each report shall set forth:
+
+   1. the name, address and telephone number of each person or organization so retained or designated;
+
+   2. a description of the subject or subjects on which the person or organization lobbied, including identification of the local law, resolution, real property or other matter on which the person or organization lobbied;
+
+   3. the person, and where applicable, the body before which the person or organization lobbied and the dates on which such lobbying occurred; and
+
+   4. the compensation paid or owed by the contracted entity to a person or organization for the purpose of engaging in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and any expenses expended, received or incurred by the person or organization for the purpose of lobbying before such bodies.
+
+d. The first such submission shall be provided no later than December 31, 2013 and shall cover the period from November 1, 2012 through November 30, 2013. All reports shall be filed thereafter within thirty days after the end of each quarter and simultaneously made available in a commonly available non-proprietary database format on the website of the contracted entity or, if no such website is maintained, on the website of the city of New York.
+
+
+
+
+
+
+
+**Subchapter 2: Contract Requirements for Entities Contracted to Provide Economic Development Benefits on Behalf of the City**
+
+
+
+*§ 22-821 Definitions.* ::
+
+
+As used in this subchapter:
+
+Affiliate. The term “affiliate” means (i) a business entity in which more than 50 percent is owned by, or is subject to a power or right of control of, or is managed by, a person that is a party to an active project agreement, or (ii) a person that owns more than 50 percent of a business entity that is party to an active project agreement or that exercises a power or right of control of a person that is a party to an active project agreement.
+
+Commissioner. The term “commissioner” means the commissioner of small business services.
+
+Contracted entity. The term “contracted entity” means a local development corporation or other not-for-profit corporation, a majority of whose members are appointed by the mayor, that contracts with the city to provide or administer economic development benefits on behalf of the city and expending city capital appropriations in connection therewith, except that such term does not include the Brooklyn navy yard development corporation or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard.
+
+Covered contract. The term “covered contract” means any contract under which a contracted entity is engaged in providing or administering economic development benefits on behalf of the city.
+
+Department. The term “department” means the department of small business services.
+
+Project agreement. The term “project agreement” means the contract or agreement providing assistance, as such assistance is described by subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to any project carried out pursuant to a covered contract.
+
+
+
+
+
+
+
+
+*§ 22-822 Public comment before project approval.* ::
+
+
+In each covered contract executed on or after the effective date of this section, the commissioner shall require, for each project that is required to be included in the report required by section 22-823, that the contracted entity, unless chapter 8 of the charter or any other law requires such project to be submitted for consideration to a community board, borough board or the council before commencement, shall:
+
+a. Prepare a description of such project, including an estimated project budget and an explanation of how any funding, benefits or financial assistance provided or allocated by the city for such project will be used and specifying a contact person to whom the speaker of the council may submit recommendations regarding the project within 30 days of receiving the description; and
+
+b. Submit the description required by subdivision a to the speaker of the council at the following times:
+
+   1. In the case of a project as to which the charter or any other law requires that a public hearing be held, at least 30 days before such hearing; and
+
+   2. In the case of a project as to which neither the charter nor any other law requires that any public hearing be held, at least 30 days before the project agreement is executed.
+
+
+
+
+
+
+
+
+*§ 22-823 Annual report.* ::
+
+
+a. Report required. In each covered contract executed on or after the effective date of this section, the commissioner shall require the contracted entity to submit each year to the mayor, the council, the city comptroller, the public advocate, the borough presidents and community planning boards a report for the prior fiscal year about projected and actual jobs created and retained in connection with projects described by this section.
+
+b. Projects receiving financial assistance in excess of $150,000.
+
+   1. (a) This subdivision applies to projects undertaken by a contracted entity for the purpose of creating or retaining jobs and in connection with which a person was provided project assistance in the form of a loan, grant or tax benefit valued in excess of $150,000, regardless of whether such project involves the expenditure of city capital appropriations.
+
+      (b) For purposes of this subdivision, “assistance” to be reported includes (i) a loan, grant or tax benefit, (ii) savings due to payments in lieu of taxes, calculated as the difference between such payments and the property tax that would have been owed without an agreement to make such payments, (iii) waived mortgage recording fees, (iv) related property tax abatements, (v) sales tax abatements, (vi) energy benefits and (vii) an estimated range of costs to the city of forgone income tax revenues due to the issuance of tax exempt bonds;
+
+   2. Except as otherwise provided in this section, the annual report required by this section shall contain for each such project the following information for the prior fiscal year, including an indication of the sources of all data relating to numbers of jobs:
+
+      (a) The project’s name;
+
+      (b) The project’s location;
+
+      (c) The time period during which such project is to receive any assistance from the contracted entity;
+
+      (d) The type of such assistance provided, including, where applicable, the name of any program through which such assistance is provided;
+
+      (e) (1) For projects that involve a specified limit on cumulative assistance available over the duration of the project agreement, a statement of such limit; and
+
+         (2) For projects that do not involve such a specified limit, the estimated amount of assistance over the duration of such project agreement, the amount of tax exempt bonds issued during the reporting year and the range of potential costs of such bonds;
+
+      (f) The amount of assistance received for the project during the reporting year, the amount of such assistance received since execution of the project agreement, and the present value of future assistance estimated to be given for the duration of the project agreement;
+
+      (g) The total number of employees at all sites covered by the project on the date of execution of the project agreement, including the number of permanent full-time jobs, the number of permanent part-time jobs, the number of full-time equivalents, and the number of contract employees if, pursuant to the project agreement, contract employees may be included in determining compliance with job creation or retention requirements;
+
+      (h) (1) The number of jobs that each person receiving assistance from such contracted entity is contractually obligated to retain and create over the duration of the project agreement or, in the case of a project agreement that contains annual job retention or creation requirements, the annual job retention or creation requirement for the reporting year;
+
+         (2) The base employment level such entity agrees to retain over the duration of the project agreement;
+
+         (3)  Any job creation scheduled to take place as a result of such project; and
+
+         (4) Where applicable, any job creation targets for the reporting year;
+
+      (i) For the reporting year:
+
+         (1) The total number of employees at all sites covered by the project, including the number of permanent full-time jobs, the number of permanent part-time jobs, and the number of contract jobs; and
+
+         (2) For each person that receives assistance from the contracted entity in connection with such project and employs 250 or more persons, (i) the percentage of total employees within the “exempt” and “non-exempt” categories, respectively, as those terms are defined under the United States fair labor standards act, and (ii) for employees within the “non-exempt” category, the percentage of employees earning $25,000 per year or less, the percentage of employees earning more than $25,000 per year but less than or equal to $40,000 per year and the percentage of employees earning more than $40,000 per year but less than or equal to $50,000 per year;
+
+      (j) The estimated amount of retained or additional tax revenue derived from the project, excluding real property tax revenue other than revenue generated by property tax improvements,
+
+         (1) Cumulatively to the date that the annual report is prepared;
+
+         (2) For the reporting year, and
+
+         (3) Projected to be derived over the duration of the project agreement;
+
+      (k) A statement of whether, throughout the reporting year, each person that received assistance from the contracted entity in connection with the project offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person at all sites covered by the project;
+
+      (l) For the reporting year, for employees at each site covered by the project, including all permanent and temporary full-time employees, permanent and temporary part-time employees, and contract employees, the number and percentage of employees earning less than a living wage, as that term is defined in section 6-134, disaggregated by job category, including industrial jobs, food service jobs, retail jobs and other jobs; except that, for projects for which assistance was received prior to July 1, 2012, the information required by this subparagraph need only be provided to the extent it can be reasonably obtained from available sources, including the city and the person to which such assistance was provided;
+
+      (m) For the reporting year, with respect to the persons receiving assistance for such project and their affiliates, the number and percentage of employees at all sites covered by the project agreement who reside in the city;
+
+      (n) A list of all commercial expansion program benefits, industrial and commercial incentive program benefits, and industrial and commercial abatement program benefits received by persons receiving assistance or their affiliates through the project agreement and relocation and employment assistance program benefits such persons and affiliates received and the estimated total value of each such benefit for the reporting year;
+
+      (o) A statement of compliance indicating whether, during the reporting year, the contracted entity has reduced, cancelled or recaptured assistance provided to a person in connection with such project, and, if so, the total amount of such reductions, cancellations or recaptures, and any penalty assessed and the reasons therefor.
+
+c. Projects receiving financial assistance of $150,000 or less. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs that do not meet the financial threshold in subparagraph (a) of paragraph 1 of subdivision b, such report shall include, at a minimum:
+
+   1. For such projects in aggregate, the information required by subparagraphs (g), (h), (i), (j), (l), (m) and (n) of paragraph 2 of subdivision b; and
+
+   2. The number of persons that received a loan, grant or tax benefit from such contracted entity in connection with such a project and that offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person employed at any project site throughout the prior fiscal reporting year.
+
+d. Sales or leases of city-owned land. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs (i) for which a contracted entity sold or leased city-owned land to a person, and (ii) that are estimated to create or retain at least 25 jobs, regardless of whether such project involves the expenditure of city capital appropriations, the annual report shall include the following information:
+
+   1. A list of each lease that has not terminated before the reporting year commences, regardless of when such lease commenced, and for each such lease, any terms or restrictions on the use of the leased land, including the rent received for such land in the reporting year;
+
+   2. A list of each sale of city-owned land that closed within 15 years of the report, and for each such sale, any terms or restrictions on the use of the sold land, including the price for which such land was sold and any terms or restrictions on the resale of such land; except that such list need not include sales that closed before January 1, 2005.
+
+e. Years covered. Except as provided in subdivision d, the report shall include each project from the date the project agreement is executed and any other documents applicable to such project through and including the final year that the contracted entity provides assistance for such project.
+
+f. Job-creation projects under prior rules.
+
+   1. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs and for which the contracted entity provided a loan, grant or tax or other benefit before July 1, 2005, the information required by this section need only be provided to the extent it can be reasonably derived from available sources, including the city and persons who received such assistance.
+
+   2. For projects that such contracted entity undertakes for the purpose of creating or retaining jobs and for which the project agreement was executed before June 6, 2011, the annual report need not contain information that persons were not required to report to the contracted entity at the time that the project agreement and any other documents applicable to the project were executed.
+
+g. Submission and publication.
+
+   1.  The report required by this section shall be submitted by January 31 of each year and shall bear the date that such report was submitted. Such report shall include a statement explaining any delay in its submission past the required due date.
+
+   2. Upon its submission, the report shall simultaneously be made available in electronic form on the website of the contracted entity or, if no such website is maintained, on the website of the city. The report shall simultaneously be made available in a non-proprietary format that permits automated processing on the website of the contracted entity or, if no such website is maintained, on the website of the city. Such non-proprietary database format need not include terms and restrictions on the use or resale of city-owned land.
+
+h. Methodology study. By March 1, 2007, and by March 1 of every second year thereafter, the contracted entity, upon receipt of recommendations from the speaker of the council and other persons selected jointly by the mayor and the speaker of the council who have extensive experience and knowledge in the fields of finance, economics, and public policy analysis, shall evaluate the methodology employed for making the determinations required for the report and shall generate recommendations, where appropriate, on the methodology for evaluating projects receiving economic development subsidies. The commissioner shall present to the mayor and the speaker of the council a report containing such recommendations no later than October 1 of every year in which such evaluation is required.
+
+
+
+
+
+
+
+
+*§ 22-824 Requirements for a contracted entity administering economic development benefits.* ::
+
+
+a. In each covered contract with a contracted entity executed on or after the effective date of this section, the commissioner shall require, for any project that must be reported on in the annual report required by section 22-823, that:
+
+   1. where such contracted entity administers assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to a person in connection with such project, such contracted entity, no later than 30 days before the commencement of such assistance, submit to the department and the speaker of the council an impact statement including, at a minimum, an estimate of the fiscal impact of such assistance upon the revenues and expenditures of the city during (i) the fiscal year in which such assistance commences, (ii) the succeeding fiscal year, and (iii) the first fiscal year in which the full fiscal impact of the economic development project is expected to occur, and job creation estimates for the first fiscal year in which the full fiscal impact of the economic development project is expected to occur; and
+
+   2. on the first business day of every second month, such contracted entity deliver to the mayor and speaker of the council and post on the website of such contracted entity, or, if no such website is maintained, the commissioner shall post on the department’s website, a report on projects for which assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, has been administered by such contracted entity and which are in default of one or more material terms of the project agreement under which such assistance was provided, which report shall contain: (i) descriptions of enforcement actions taken with regard to events of default as defined in such agreements, (ii) the persons against which enforcement actions have been undertaken, (iii) the number of ongoing projects outstanding, (iv) the percentage of projects with respect to which enforcement actions are being undertaken as compared against the number of ongoing projects outstanding, (v) events of default under such agreements for which no enforcement actions are currently contemplated, and (vi) the amounts recovered through enforcement actions.
+
+b. Information provided to the department pursuant to subdivision a of this section shall constitute a public data set for purposes of chapter 5 of title 23 of the code.
+
+
+
+Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provides: "For purposes of this local law, a contracted entity shall not include the Brooklyn navy yard development corporation, or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard."
+
+
+
+
+
+
+*§ 22-825 Affordable retail space at covered development projects.* ::
+
+
+a. Definitions. For purposes of this section, the following terms have the following meanings:
+
+   Adjusted by the CPI. The term “adjusted by the CPI” means, commencing January 1, 2021, the amount so adjusted shall be adjusted based upon the percentage change, if any, in the consumer price index for all urban consumers published by the bureau of labor statistics of the United States department of labor for the geographic region New York - Newark - Jersey City (1982-84 = 100), or any successor index thereto, from January 1, 2021, to January 1 of the year in which such adjustment is made.
+
+   Affordable housing project. The term “affordable housing project” means any project for the improvement or development of real property that contains a multiple dwelling where no less than 30 percent of the residential units are subject to a regulatory agreement, restrictive declaration or similar written instrument requiring that such units be maintained as affordable units for a period of no less than 30 years.
+
+   Affordable retail space. The term “affordable retail space” means a portion of space in a covered development project that is available for lease to a retail business at a below market lease rate.
+
+   Assisted living facility. The term “assisted living facility” means any facility utilized to provide or support assisted living, home care or hospice services licensed or certified pursuant to the public health law, the social services law or the mental hygiene law.
+
+   Chain business. The term “chain business” means an establishment that is part of a group of establishments that share a common owner or principal who owns at least 30 percent of each establishment in such group and such establishments (i) engage in the same business or (ii) operate pursuant to franchise agreements with the same franchisor as such term is defined in section 681 of the general business law.
+
+   Consumer goods. The term “consumer goods” means products that are primarily for personal, household or family purposes, including but not limited to small appliances, clothing, electronics, groceries and household items.
+
+   Consumer services. The term “consumer services” means services that are primarily for personal, household or family purposes, including but not limited to food and drink establishments, personal services, medical services, repair services or household services.
+
+   Covered developer. The term “covered developer” means any person receiving financial assistance for a covered development project, unless such person is a not-for-profit corporation with an annual gross revenue of less than $7,500,000, adjusted by the CPI, in each of the last five years.
+
+   Covered development project. The term “covered development project” means a project for the improvement or development of real property pursuant to a project agreement for the purpose of economic development, job retention or growth, or other similar purposes where such project has received or is expected to receive financial assistance valued at no less than $15,000,000, adjusted by the CPI, and such project is expected to be greater than 750,000 square feet and to contain space available for lease to a retail business, except that a “covered development project” does not include any project located within an industrial business zone as such term is defined in section 22-626, or any project for a human or client services facility, a production facility, an affordable housing project, a life sciences facility, a photovoltaic system project, a health care facility or an assisted living facility, as such terms are defined in this section.
+
+   Financial assistance. The term “financial assistance” means any loans, grants, tax credits, tax exemptions, tax abatements, subsidies, mortgages, debt forgiveness, land conveyances for less than appraised value, or other thing of value allocated, conveyed or expended by the city or by a contracted entity for a covered development project, other than as-of-right assistance, tax abatements or benefits, including but not limited to, benefits approved in accordance with sections 421-a or 489 of the New York state real property tax law, or any assistance provided in a project agreement, the amount of which is based upon an evaluation of as-of-right assistance, tax abatements or benefits for which the covered developer would have been eligible.
+
+   Health care facility. The term “health care facility” means a hospital, nursing home or residential health care facility as such terms are defined in section 2801 of the public health law, or any facility or institution certified under article 31 of the mental hygiene law.
+
+   Human or client services facility. The term “human or client services facility” means real property used for the provision of human or client services pursuant to a contract with any city, state or federal agency, public authority or public benefit corporation.
+
+   Life sciences facility. The terms “life sciences facility” means real property used for research, development, technology transfer and commercialization related to any life science field.
+
+   Neighborhood. The term “neighborhood” means the geographical area surrounding a covered development project up to one-quarter of a mile from such project.
+
+   Neighborhood retail needs assessment. The term “neighborhood retail needs assessment” means an assessment of the retail environment of a neighborhood, which shall include, but need not be limited to an examination of:
+
+      (a) The neighborhood’s existing retail stores, vacancy rates for property that could be leased for retail businesses and market lease rates for such property;
+
+      (b) The presence of chain businesses in the neighborhood;
+
+      (c) The level of retail diversity and the types of retail businesses needed or lacking in the neighborhood; and
+
+      (d) Any community feedback received relating to the covered development project, including community needs and priorities.
+
+   Photovoltaic system project. The term “photovoltaic system project” means a project to construct, maintain, alter or operate a photovoltaic system that is connected to the electrical system and operated in conjunction with the transmission and distribution facilities of an electric corporation.
+
+   Production facility. The term “production facility” means real property where no less than 30 percent of the square footage of such property is utilized for manufacturing, warehousing or distribution.
+
+   Project agreement. The term “project agreement” means a written agreement between the city or a contracted entity and a covered developer providing for financial assistance for a covered development project, provided that such agreement is administered by a contracted entity.
+
+   Retail business. The term “retail business” means any entity that is engaged primarily in the sale of consumer goods or consumer services at a store within the city, but does not include a chain business.
+
+b. Affordable retail space at covered development projects required.
+
+   1. Prior to execution of a project agreement for a covered development project, a determination shall be made regarding whether affordable retail space for retail businesses must be provided in such project to meet an unmet need for consumer goods and consumer services in such neighborhood. Such determination shall be based upon a neighborhood retail needs assessment and shall be made by the party entering into such project agreement with the covered developer or by the designee of such party.
+
+   2. Where such party or such party’s designee determines, pursuant to paragraph 1, that affordable retail space in a covered development project must be provided, such party or such party’s designee shall establish the minimum percentage of affordable retail space that such project shall include, the maximum below market lease rate for which such affordable retail space may be leased, and the eligible type of retail business that may lease such space, based on a consideration of the following factors:
+
+      (a) Retail diversity and unmet needs for consumer goods and consumer services in the neighborhood in which such covered development project is located;
+
+      (b) Market lease rates for retail businesses in such neighborhood; and
+
+      (c) Commercial vacancy rates in such neighborhood.
+
+   3. Such party or such party’s designee may determine that a requirement for affordable retail space does not apply to a covered development project where such party or such party’s designee determines that such requirement would substantially hinder the provision of any community program, service or benefit required by the project agreement.
+
+c. Enforcement.
+
+   1. Within 30 days after the date by which 80 percent of space available for rent to a retail business in a covered development project has been leased, the covered developer for such project shall certify to the contracted entity administering the project agreement that such developer is in compliance with the terms of the project agreement relating to the provision of affordable retail space.
+
+   2. A contracted entity shall investigate any allegations that a covered developer has failed to comply with the terms of the project agreement relating to the provision of affordable retail space.
+
+   3. A finding that a covered developer has failed to provide affordable retail space as required by the project agreement may result in any of the following actions by the contracted entity administering such project agreement:
+
+      (a) Entering into an agreement with the covered developer requiring such developer to fulfill such terms;
+
+      (b) Finding the covered developer to be in default of the project agreement;
+
+      (c) Recovering from the covered developer part or all of the financial assistance disbursed or provided to such developer, including but not limited to requiring repayment of any taxes or interest abated or deferred; or
+
+      (d) Reporting such failure by the covered developer in the report required by subdivision a of section 22-824.
+
+
+
+Editor's note: Section 3 of L.L. 2020/035 provides: "This local law does not apply to any project agreement executed prior to the effective date of this local law, except that any extension, renewal, amendment or modification of such a project agreement occurring on or after the effective date of this local law that results in the grant of any additional financial assistance to the covered developer shall subject the covered development project to the requirements of this local law." Section 4 of L.L. 2020/035 provides: "This local law takes effect 180 days after it becomes law and expires and is deemed repealed seven years after it becomes law."
 
 
 
@@ -7637,309 +7944,145 @@ c. Pursuant to the provisions of article 18-B of the general municipal law, such
 
 
 
-Chapter 8: Entities Contracted to Provide Economic Development Benefits on Behalf of the City*
+Chapter 9: Non-Residential Tenant Harassment
 --------------------------------------------------
 
 
 
+*§ 22-901 Definitions.* ::
 
-**Subchapter 1: Lobbying Activities by Entities Contracted to Provide Economic Development Benefits on Behalf of the City***
 
+As used in this chapter, the following terms have the following meanings:
 
+Commercial tenant. The term “commercial tenant” means a person or entity lawfully occupying a covered property pursuant to a lease or other rental agreement.
 
-*§ 22-801 Definitions.* ::
+Covered categories of work. The term “covered categories of work” means the following categories of work at a covered property:
 
+1. Demolition of all or part of such covered property;
 
-"Lobbying"or "Lobbying activities" shall mean "lobbying" or "lobbying activities" as defined in section 3-211 of this code.
+2. Change of use or occupancy of all or part of such covered property; or
 
-"Person or organization" shall be construed not to include the not-for-profit corporation under contract with the city to provide or administer economic development benefits on behalf of the city.
+3. Any change to the layout, configuration, or location of any portion of such covered property.
 
+Exceptions:
 
+   1. Work conducted in whole or in part for the purpose of making any portion of such covered property accessible to persons with disabilities.
 
+   2. Work conducted solely for the purpose of remediating hazardous or impending hazardous conditions, or protecting public health and safety.
 
+   3. Work performed pursuant to a lease or other agreement executed prior to the issuance of an order pursuant to paragraph (2) of subdivision a of section 22-903.
 
+   4. Work performed pursuant to an agreement entered into by a tenant of such covered property.
 
-*§ 22-802 Reporting of lobbying activities.* ::
+   5. Other categories of work that are excluded from the definition of covered categories of work by rule of the department.
 
+Covered property. The term “covered property” means any building or portion of a building (i) that is lawfully used for buying, selling or otherwise providing goods or services, or for other lawful business, commercial, professional services or manufacturing activities, and (ii) for which a certificate of occupancy authorizing residential use of such building or such portion of a building has not been issued.
 
-a. A not-for-profit corporation of which a majority of its members are appointed by the mayor that is under contract with the city to provide or administer economic development benefits on behalf of the city shall be required to submit to the council quarterly reports identifying:
+Essential service. The term “essential service” means a service that a landlord must furnish to a commercial tenant pursuant to a lease or other rental agreement between such commercial tenant and landlord, or pursuant to applicable law.
 
-   1. the contracted entity's retention or designation of a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and
+Landlord. The term “landlord” means an owner of covered property or such owner’s agent.
 
-   2. the contracted entity's making or incurring an expenditure to, or on behalf of, a person or organization to engage in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board.
 
-b. Such reports need not identify:
 
-   1. any officer or employee of the city of New York or of such contracted entity and
 
-   2. any person or organization retained or designated by the contracted entity to provide advice and analysis directly applying any urban planning, urban design, engineering, scientific or similar technical discipline, or any legal, accounting, or other similar professional discipline.
 
-c. Each report shall set forth:
 
-   1. the name, address and telephone number of each person or organization so retained or designated;
 
-   2. a description of the subject or subjects on which the person or organization lobbied, including identification of the local law, resolution, real property or other matter on which the person or organization lobbied;
 
-   3. the person, and where applicable, the body before which the person or organization lobbied and the dates on which such lobbying occurred; and
+*§ 22-902 Commercial tenant harassment.* ::
 
-   4. the compensation paid or owed by the contracted entity to a person or organization for the purpose of engaging in lobbying or lobbying activities before the council or any member thereof, the city planning commission, a borough president, a borough board or a community board and any expenses expended, received or incurred by the person or organization for the purpose of lobbying before such bodies.
 
-d. The first such submission shall be provided no later than December 31, 2013 and shall cover the period from November 1, 2012 through November 30, 2013. All reports shall be filed thereafter within thirty days after the end of each quarter and simultaneously made available in a commonly available non-proprietary database format on the website of the contracted entity or, if no such website is maintained, on the website of the city of New York.
+a. A landlord shall not engage in commercial tenant harassment. Except as provided in subdivision b of this section, commercial tenant harassment is any act or omission by or on behalf of a landlord that (i) would reasonably cause a commercial tenant to vacate covered property, or to surrender or waive any rights under a lease or other rental agreement or under applicable law in relation to such covered property, and (ii) includes one or more of the following:
 
+   1. using force against or making express or implied threats that force will be used against a commercial tenant or such tenant’s invitee;
 
+   2. causing repeated interruptions or discontinuances of one or more essential services;
 
+   3. causing an interruption or discontinuance of an essential service for an extended period of time;
 
+   4. causing an interruption or discontinuance of an essential service where such interruption or discontinuance substantially interferes with a commercial tenant’s business;
 
+   5. repeatedly commencing frivolous court proceedings against a commercial tenant;
 
+   6. removing from a covered property any personal property belonging to a commercial tenant or such tenant’s invitee;
 
-**Subchapter 2: Contract Requirements for Entities Contracted to Provide Economic Development Benefits on Behalf of the City**
+   7. removing the door at the entrance to a covered property occupied by a commercial tenant; removing, plugging or otherwise rendering the lock on such entrance door inoperable; or changing the lock on such entrance door without supplying a key to the new lock to the commercial tenant occupying the covered property;
 
+   8. preventing a commercial tenant or such tenant’s invitee from entering a covered property occupied by such tenant;
 
+   9. substantially interfering with a commercial tenant’s business by commencing unnecessary construction or repairs on or near covered property;
 
-*§ 22-821 Definitions.* ::
+   10.    engaging in any other repeated or enduring acts or omissions that substantially interfere with the operation of a commercial tenant’s business;
 
+   11. threatening a commercial tenant based on (i) such person's actual or perceived age, race, creed, color, national origin, gender, disability, marital status, partnership status, caregiver status, uniformed service, sexual orientation, alienage or citizenship status, status as a victim of domestic violence or status as a victim of sex offenses or stalking, or (ii) the commercial tenant's status as a person or business impacted by COVID-19, or the commercial tenant's receipt of a rent concession or forbearance for any rent owed during the COVID-19 period; provided that for the purposes of this paragraph:
 
-As used in this subchapter:
+      (a) the term “COVID-19 period” means March 7, 2020 through the later of (i) the end of the first month that commences after the expiration of the moratorium on enforcement of evictions of any tenant, residential or commercial, set forth in executive order number 202.8, as issued by the governor on March 20, 2020 and extended thereafter, (ii) the end of the first month that commences after the expiration of the moratorium on certain residential evictions set forth in section 4024 of the coronavirus aid, relief, and economic security, or CARES, act and any subsequent amendments to such section or (iii) September 30, 2020, inclusive;
 
-Affiliate. The term “affiliate” means (i) a business entity in which more than 50 percent is owned by, or is subject to a power or right of control of, or is managed by, a person that is a party to an active project agreement, or (ii) a person that owns more than 50 percent of a business entity that is party to an active project agreement or that exercises a power or right of control of a person that is a party to an active project agreement.
+      (b) the term “impacted by COVID-19” means a person who has experienced one or more of the following situations:
 
-Commissioner. The term “commissioner” means the commissioner of small business services.
+         (1) such person was diagnosed with COVID-19 or is experiencing symptoms of COVID-19 and seeking a medical diagnosis; provided that for the purposes of this subparagraph, the term “COVID-19” means the 2019 novel coronavirus or 2019-nCoV;
 
-Contracted entity. The term “contracted entity” means a local development corporation or other not-for-profit corporation, a majority of whose members are appointed by the mayor, that contracts with the city to provide or administer economic development benefits on behalf of the city and expending city capital appropriations in connection therewith, except that such term does not include the Brooklyn navy yard development corporation or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard.
+         (2) a member of such person’s household was diagnosed with COVID-19;
 
-Covered contract. The term “covered contract” means any contract under which a contracted entity is engaged in providing or administering economic development benefits on behalf of the city.
+         (3) such person was providing care for a family member or a member of such person’s household who was diagnosed with COVID-19;
 
-Department. The term “department” means the department of small business services.
+         (4) a member of such person’s household for whom such person had primary caregiving responsibility was unable to attend school or another facility that was closed as a direct result of the COVID-19 state disaster emergency and such school or facility care was required for the person to work; provided that for the purposes of this subparagraph, the term “COVID-19 state disaster emergency” means the state disaster emergency declared by the governor in executive order number 202 issued on March 7, 2020;
 
-Project agreement. The term “project agreement” means the contract or agreement providing assistance, as such assistance is described by subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to any project carried out pursuant to a covered contract.
+         (5) such person was unable to reach their place of business because of a quarantine imposed as a direct result of the COVID-19 state disaster emergency or because such person was advised by a health care provider to self-quarantine due to concerns related to COVID-19;
 
+         (6) such person became primarily responsible for providing financial support for the household of such person because the previous head of the household died as a direct result of COVID-19;
 
+         (7) such person’s business is closed as a direct result of the COVID-19 state disaster emergency; and
 
+      (c) a business is “impacted by COVID-19” if (i) it was subject to seating, occupancy or on-premises service limitations pursuant to an executive order issue by the governor or mayor during the COVID-19 period or (ii) its revenues during any three-month period within the COVID-19 period were less than 50 percent of its revenues for the same three-month period in 2019 or less than 50 percent of its aggregate revenues for the months of December 2019, January 2020, and February 2020 and such revenue loss was the direct result of the COVID-19 state disaster emergency. A revenue loss shall be deemed to be the direct result of the COVID-19 state disaster emergency when such disaster emergency was the proximate cause of such revenue loss;
 
+   12. requesting identifying documentation that would disclose the citizenship status of a commercial tenant, an invitee of a commercial tenant or any person seeking entry to the covered property in order to patronize such commercial tenant;
 
+   13. unreasonably refusing to cooperate with a tenant’s permitted repairs or construction activities; or
 
+   14. attempting to enforce a personal liability provision that the landlord knows or reasonably should know is not enforceable pursuant to section 22-1005 of the code.
 
+b. A landlord’s lawful termination of a tenancy, lawful refusal to renew or extend a lease or other rental agreement, or lawful reentry and repossession of the covered property shall not constitute commercial tenant harassment for purposes of this chapter.
 
-*§ 22-822 Public comment before project approval.* ::
 
 
-In each covered contract executed on or after the effective date of this section, the commissioner shall require, for each project that is required to be included in the report required by section 22-823, that the contracted entity, unless chapter 8 of the charter or any other law requires such project to be submitted for consideration to a community board, borough board or the council before commencement, shall:
 
-a. Prepare a description of such project, including an estimated project budget and an explanation of how any funding, benefits or financial assistance provided or allocated by the city for such project will be used and specifying a contact person to whom the speaker of the council may submit recommendations regarding the project within 30 days of receiving the description; and
 
-b. Submit the description required by subdivision a to the speaker of the council at the following times:
 
-   1. In the case of a project as to which the charter or any other law requires that a public hearing be held, at least 30 days before such hearing; and
 
-   2. In the case of a project as to which neither the charter nor any other law requires that any public hearing be held, at least 30 days before the project agreement is executed.
 
+*§ 22-903 Private right of action.* ::
 
 
+a.    A commercial tenant may bring an action in any court of competent jurisdiction for a claim of commercial tenant harassment. If a court of competent jurisdiction finds that a landlord has engaged in commercial tenant harassment in relation to such commercial tenant, the court shall impose a civil penalty in an amount not less than ten thousand dollars and not more than fifty thousand dollars for each covered property in which such commercial tenant has been the subject of commercial tenant harassment and may further:
 
+   1.    issue an order restraining the landlord from engaging in commercial tenant harassment and directing the landlord to ensure that no further violation occurs;
 
+   2.  issue an order to the department of buildings directing such department not to approve construction documents for, or not to issue or renew permits for, covered categories of work in the covered property in which such commercial tenant has been the subject of commercial tenant harassment, for a period of time deemed appropriate by the court; and
 
+   3.    award such other relief as the court deems appropriate, including but not limited to injunctive relief, equitable relief, compensatory damages, punitive damages and reasonable attorneys’ fees and court costs.
 
+b.    The commercial tenant shall not be relieved of the obligation to pay any rent for which the commercial tenant is otherwise liable. Any monetary remedy awarded to a commercial tenant pursuant to subdivision a of this section shall be reduced by any amount of delinquent rent or other sum for which a court finds such commercial tenant is liable to the landlord.
 
-*§ 22-823 Annual report.* ::
+c.    This section does not limit or abrogate any claim or cause of action a person has under common law or by statute. The provisions of this section are in addition to any such common law and statutory remedies.
 
+d.    Nothing contained in this chapter shall be construed as creating any cause of action for a commercial tenant’s invitee.
 
-a. Report required. In each covered contract executed on or after the effective date of this section, the commissioner shall require the contracted entity to submit each year to the mayor, the council, the city comptroller, the public advocate, the borough presidents and community planning boards a report for the prior fiscal year about projected and actual jobs created and retained in connection with projects described by this section.
+e. Nothing contained in this chapter shall be construed as creating any private right of action against the city or any agency or employee thereof.
 
-b. Projects receiving financial assistance in excess of $150,000.
 
-   1. (a) This subdivision applies to projects undertaken by a contracted entity for the purpose of creating or retaining jobs and in connection with which a person was provided project assistance in the form of a loan, grant or tax benefit valued in excess of $150,000, regardless of whether such project involves the expenditure of city capital appropriations.
 
-      (b) For purposes of this subdivision, “assistance” to be reported includes (i) a loan, grant or tax benefit, (ii) savings due to payments in lieu of taxes, calculated as the difference between such payments and the property tax that would have been owed without an agreement to make such payments, (iii) waived mortgage recording fees, (iv) related property tax abatements, (v) sales tax abatements, (vi) energy benefits and (vii) an estimated range of costs to the city of forgone income tax revenues due to the issuance of tax exempt bonds;
 
-   2. Except as otherwise provided in this section, the annual report required by this section shall contain for each such project the following information for the prior fiscal year, including an indication of the sources of all data relating to numbers of jobs:
 
-      (a) The project’s name;
 
-      (b) The project’s location;
 
-      (c) The time period during which such project is to receive any assistance from the contracted entity;
 
-      (d) The type of such assistance provided, including, where applicable, the name of any program through which such assistance is provided;
+*§ 22-904 Affirmative defenses.* ::
 
-      (e) (1) For projects that involve a specified limit on cumulative assistance available over the duration of the project agreement, a statement of such limit; and
 
-         (2) For projects that do not involve such a specified limit, the estimated amount of assistance over the duration of such project agreement, the amount of tax exempt bonds issued during the reporting year and the range of potential costs of such bonds;
+It is an affirmative defense to an allegation of commercial tenant harassment of the kind described in paragraphs 2, 3, 4, 6, 7, 8, 9 and 10 of subdivision a of section 22-902 that (i) such condition or service interruption was not intended to cause any commercial tenant to vacate a covered property or waive or surrender any rights in relation to such covered property, and (ii) the landlord acted in good faith in a reasonable manner to promptly correct such condition or service interruption, including providing notice to all affected lawful tenants in a covered property of such efforts, where appropriate.
 
-      (f) The amount of assistance received for the project during the reporting year, the amount of such assistance received since execution of the project agreement, and the present value of future assistance estimated to be given for the duration of the project agreement;
 
-      (g) The total number of employees at all sites covered by the project on the date of execution of the project agreement, including the number of permanent full-time jobs, the number of permanent part-time jobs, the number of full-time equivalents, and the number of contract employees if, pursuant to the project agreement, contract employees may be included in determining compliance with job creation or retention requirements;
-
-      (h) (1) The number of jobs that each person receiving assistance from such contracted entity is contractually obligated to retain and create over the duration of the project agreement or, in the case of a project agreement that contains annual job retention or creation requirements, the annual job retention or creation requirement for the reporting year;
-
-         (2) The base employment level such entity agrees to retain over the duration of the project agreement;
-
-         (3)  Any job creation scheduled to take place as a result of such project; and
-
-         (4) Where applicable, any job creation targets for the reporting year;
-
-      (i) For the reporting year:
-
-         (1) The total number of employees at all sites covered by the project, including the number of permanent full-time jobs, the number of permanent part-time jobs, and the number of contract jobs; and
-
-         (2) For each person that receives assistance from the contracted entity in connection with such project and employs 250 or more persons, (i) the percentage of total employees within the “exempt” and “non-exempt” categories, respectively, as those terms are defined under the United States fair labor standards act, and (ii) for employees within the “non-exempt” category, the percentage of employees earning $25,000 per year or less, the percentage of employees earning more than $25,000 per year but less than or equal to $40,000 per year and the percentage of employees earning more than $40,000 per year but less than or equal to $50,000 per year;
-
-      (j) The estimated amount of retained or additional tax revenue derived from the project, excluding real property tax revenue other than revenue generated by property tax improvements,
-
-         (1) Cumulatively to the date that the annual report is prepared;
-
-         (2) For the reporting year, and
-
-         (3) Projected to be derived over the duration of the project agreement;
-
-      (k) A statement of whether, throughout the reporting year, each person that received assistance from the contracted entity in connection with the project offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person at all sites covered by the project;
-
-      (l) For the reporting year, for employees at each site covered by the project, including all permanent and temporary full-time employees, permanent and temporary part-time employees, and contract employees, the number and percentage of employees earning less than a living wage, as that term is defined in section 6-134, disaggregated by job category, including industrial jobs, food service jobs, retail jobs and other jobs; except that, for projects for which assistance was received prior to July 1, 2012, the information required by this subparagraph need only be provided to the extent it can be reasonably obtained from available sources, including the city and the person to which such assistance was provided;
-
-      (m) For the reporting year, with respect to the persons receiving assistance for such project and their affiliates, the number and percentage of employees at all sites covered by the project agreement who reside in the city;
-
-      (n) A list of all commercial expansion program benefits, industrial and commercial incentive program benefits, and industrial and commercial abatement program benefits received by persons receiving assistance or their affiliates through the project agreement and relocation and employment assistance program benefits such persons and affiliates received and the estimated total value of each such benefit for the reporting year;
-
-      (o) A statement of compliance indicating whether, during the reporting year, the contracted entity has reduced, cancelled or recaptured assistance provided to a person in connection with such project, and, if so, the total amount of such reductions, cancellations or recaptures, and any penalty assessed and the reasons therefor.
-
-c. Projects receiving financial assistance of $150,000 or less. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs that do not meet the financial threshold in subparagraph (a) of paragraph 1 of subdivision b, such report shall include, at a minimum:
-
-   1. For such projects in aggregate, the information required by subparagraphs (g), (h), (i), (j), (l), (m) and (n) of paragraph 2 of subdivision b; and
-
-   2. The number of persons that received a loan, grant or tax benefit from such contracted entity in connection with such a project and that offered health benefits to (i) all full-time employees of such person; (ii) all part-time employees of such person; or (iii) all full-time and part-time employees of such person employed at any project site throughout the prior fiscal reporting year.
-
-d. Sales or leases of city-owned land. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs (i) for which a contracted entity sold or leased city-owned land to a person, and (ii) that are estimated to create or retain at least 25 jobs, regardless of whether such project involves the expenditure of city capital appropriations, the annual report shall include the following information:
-
-   1. A list of each lease that has not terminated before the reporting year commences, regardless of when such lease commenced, and for each such lease, any terms or restrictions on the use of the leased land, including the rent received for such land in the reporting year;
-
-   2. A list of each sale of city-owned land that closed within 15 years of the report, and for each such sale, any terms or restrictions on the use of the sold land, including the price for which such land was sold and any terms or restrictions on the resale of such land; except that such list need not include sales that closed before January 1, 2005.
-
-e. Years covered. Except as provided in subdivision d, the report shall include each project from the date the project agreement is executed and any other documents applicable to such project through and including the final year that the contracted entity provides assistance for such project.
-
-f. Job-creation projects under prior rules.
-
-   1. For projects undertaken by a contracted entity for the purpose of creating or retaining jobs and for which the contracted entity provided a loan, grant or tax or other benefit before July 1, 2005, the information required by this section need only be provided to the extent it can be reasonably derived from available sources, including the city and persons who received such assistance.
-
-   2. For projects that such contracted entity undertakes for the purpose of creating or retaining jobs and for which the project agreement was executed before June 6, 2011, the annual report need not contain information that persons were not required to report to the contracted entity at the time that the project agreement and any other documents applicable to the project were executed.
-
-g. Submission and publication.
-
-   1.  The report required by this section shall be submitted by January 31 of each year and shall bear the date that such report was submitted. Such report shall include a statement explaining any delay in its submission past the required due date.
-
-   2. Upon its submission, the report shall simultaneously be made available in electronic form on the website of the contracted entity or, if no such website is maintained, on the website of the city. The report shall simultaneously be made available in a non-proprietary format that permits automated processing on the website of the contracted entity or, if no such website is maintained, on the website of the city. Such non-proprietary database format need not include terms and restrictions on the use or resale of city-owned land.
-
-h. Methodology study. By March 1, 2007, and by March 1 of every second year thereafter, the contracted entity, upon receipt of recommendations from the speaker of the council and other persons selected jointly by the mayor and the speaker of the council who have extensive experience and knowledge in the fields of finance, economics, and public policy analysis, shall evaluate the methodology employed for making the determinations required for the report and shall generate recommendations, where appropriate, on the methodology for evaluating projects receiving economic development subsidies. The commissioner shall present to the mayor and the speaker of the council a report containing such recommendations no later than October 1 of every year in which such evaluation is required.
-
-
-
-
-
-
-
-
-*§ 22-824 Requirements for a contracted entity administering economic development benefits.* ::
-
-
-a. In each covered contract with a contracted entity executed on or after the effective date of this section, the commissioner shall require, for any project that must be reported on in the annual report required by section 22-823, that:
-
-   1. where such contracted entity administers assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, to a person in connection with such project, such contracted entity, no later than 30 days before the commencement of such assistance, submit to the department and the speaker of the council an impact statement including, at a minimum, an estimate of the fiscal impact of such assistance upon the revenues and expenditures of the city during (i) the fiscal year in which such assistance commences, (ii) the succeeding fiscal year, and (iii) the first fiscal year in which the full fiscal impact of the economic development project is expected to occur, and job creation estimates for the first fiscal year in which the full fiscal impact of the economic development project is expected to occur; and
-
-   2. on the first business day of every second month, such contracted entity deliver to the mayor and speaker of the council and post on the website of such contracted entity, or, if no such website is maintained, the commissioner shall post on the department’s website, a report on projects for which assistance, as such assistance is described in subparagraph (b) of paragraph 1 of subdivision b of section 22-823, has been administered by such contracted entity and which are in default of one or more material terms of the project agreement under which such assistance was provided, which report shall contain: (i) descriptions of enforcement actions taken with regard to events of default as defined in such agreements, (ii) the persons against which enforcement actions have been undertaken, (iii) the number of ongoing projects outstanding, (iv) the percentage of projects with respect to which enforcement actions are being undertaken as compared against the number of ongoing projects outstanding, (v) events of default under such agreements for which no enforcement actions are currently contemplated, and (vi) the amounts recovered through enforcement actions.
-
-b. Information provided to the department pursuant to subdivision a of this section shall constitute a public data set for purposes of chapter 5 of title 23 of the code.
-
-
-
-Editor's note: Section 2 of L.L. 2017/220 and Section 2 of L.L. 2017/221 provides: "For purposes of this local law, a contracted entity shall not include the Brooklyn navy yard development corporation, or any successor entity that becomes the lessee and/or operator of block 2023, lots 1, 50 and 150 in Kings county, commonly known as the Brooklyn navy yard."
-
-
-
-
-
-
-*§ 22-825 Affordable retail space at covered development projects.* ::
-
-
-a. Definitions. For purposes of this section, the following terms have the following meanings:
-
-   Adjusted by the CPI. The term “adjusted by the CPI” means, commencing January 1, 2021, the amount so adjusted shall be adjusted based upon the percentage change, if any, in the consumer price index for all urban consumers published by the bureau of labor statistics of the United States department of labor for the geographic region New York - Newark - Jersey City (1982-84 = 100), or any successor index thereto, from January 1, 2021, to January 1 of the year in which such adjustment is made.
-
-   Affordable housing project. The term “affordable housing project” means any project for the improvement or development of real property that contains a multiple dwelling where no less than 30 percent of the residential units are subject to a regulatory agreement, restrictive declaration or similar written instrument requiring that such units be maintained as affordable units for a period of no less than 30 years.
-
-   Affordable retail space. The term “affordable retail space” means a portion of space in a covered development project that is available for lease to a retail business at a below market lease rate.
-
-   Assisted living facility. The term “assisted living facility” means any facility utilized to provide or support assisted living, home care or hospice services licensed or certified pursuant to the public health law, the social services law or the mental hygiene law.
-
-   Chain business. The term “chain business” means an establishment that is part of a group of establishments that share a common owner or principal who owns at least 30 percent of each establishment in such group and such establishments (i) engage in the same business or (ii) operate pursuant to franchise agreements with the same franchisor as such term is defined in section 681 of the general business law.
-
-   Consumer goods. The term “consumer goods” means products that are primarily for personal, household or family purposes, including but not limited to small appliances, clothing, electronics, groceries and household items.
-
-   Consumer services. The term “consumer services” means services that are primarily for personal, household or family purposes, including but not limited to food and drink establishments, personal services, medical services, repair services or household services.
-
-   Covered developer. The term “covered developer” means any person receiving financial assistance for a covered development project, unless such person is a not-for-profit corporation with an annual gross revenue of less than $7,500,000, adjusted by the CPI, in each of the last five years.
-
-   Covered development project. The term “covered development project” means a project for the improvement or development of real property pursuant to a project agreement for the purpose of economic development, job retention or growth, or other similar purposes where such project has received or is expected to receive financial assistance valued at no less than $15,000,000, adjusted by the CPI, and such project is expected to be greater than 750,000 square feet and to contain space available for lease to a retail business, except that a “covered development project” does not include any project located within an industrial business zone as such term is defined in section 22-626, or any project for a human or client services facility, a production facility, an affordable housing project, a life sciences facility, a photovoltaic system project, a health care facility or an assisted living facility, as such terms are defined in this section.
-
-   Financial assistance. The term “financial assistance” means any loans, grants, tax credits, tax exemptions, tax abatements, subsidies, mortgages, debt forgiveness, land conveyances for less than appraised value, or other thing of value allocated, conveyed or expended by the city or by a contracted entity for a covered development project, other than as-of-right assistance, tax abatements or benefits, including but not limited to, benefits approved in accordance with sections 421-a or 489 of the New York state real property tax law, or any assistance provided in a project agreement, the amount of which is based upon an evaluation of as-of-right assistance, tax abatements or benefits for which the covered developer would have been eligible.
-
-   Health care facility. The term “health care facility” means a hospital, nursing home or residential health care facility as such terms are defined in section 2801 of the public health law, or any facility or institution certified under article 31 of the mental hygiene law.
-
-   Human or client services facility. The term “human or client services facility” means real property used for the provision of human or client services pursuant to a contract with any city, state or federal agency, public authority or public benefit corporation.
-
-   Life sciences facility. The terms “life sciences facility” means real property used for research, development, technology transfer and commercialization related to any life science field.
-
-   Neighborhood. The term “neighborhood” means the geographical area surrounding a covered development project up to one-quarter of a mile from such project.
-
-   Neighborhood retail needs assessment. The term “neighborhood retail needs assessment” means an assessment of the retail environment of a neighborhood, which shall include, but need not be limited to an examination of:
-
-      (a) The neighborhood’s existing retail stores, vacancy rates for property that could be leased for retail businesses and market lease rates for such property;
-
-      (b) The presence of chain businesses in the neighborhood;
-
-      (c) The level of retail diversity and the types of retail businesses needed or lacking in the neighborhood; and
-
-      (d) Any community feedback received relating to the covered development project, including community needs and priorities.
-
-   Photovoltaic system project. The term “photovoltaic system project” means a project to construct, maintain, alter or operate a photovoltaic system that is connected to the electrical system and operated in conjunction with the transmission and distribution facilities of an electric corporation.
-
-   Production facility. The term “production facility” means real property where no less than 30 percent of the square footage of such property is utilized for manufacturing, warehousing or distribution.
-
-   Project agreement. The term “project agreement” means a written agreement between the city or a contracted entity and a covered developer providing for financial assistance for a covered development project, provided that such agreement is administered by a contracted entity.
-
-   Retail business. The term “retail business” means any entity that is engaged primarily in the sale of consumer goods or consumer services at a store within the city, but does not include a chain business.
-
-b. Affordable retail space at covered development projects required.
-
-   1. Prior to execution of a project agreement for a covered development project, a determination shall be made regarding whether affordable retail space for retail businesses must be provided in such project to meet an unmet need for consumer goods and consumer services in such neighborhood. Such determination shall be based upon a neighborhood retail needs assessment and shall be made by the party entering into such project agreement with the covered developer or by the designee of such party.
-
-   2. Where such party or such party’s designee determines, pursuant to paragraph 1, that affordable retail space in a covered development project must be provided, such party or such party’s designee shall establish the minimum percentage of affordable retail space that such project shall include, the maximum below market lease rate for which such affordable retail space may be leased, and the eligible type of retail business that may lease such space, based on a consideration of the following factors:
-
-      (a) Retail diversity and unmet needs for consumer goods and consumer services in the neighborhood in which such covered development project is located;
-
-      (b) Market lease rates for retail businesses in such neighborhood; and
-
-      (c) Commercial vacancy rates in such neighborhood.
-
-   3. Such party or such party’s designee may determine that a requirement for affordable retail space does not apply to a covered development project where such party or such party’s designee determines that such requirement would substantially hinder the provision of any community program, service or benefit required by the project agreement.
-
-c. Enforcement.
-
-   1. Within 30 days after the date by which 80 percent of space available for rent to a retail business in a covered development project has been leased, the covered developer for such project shall certify to the contracted entity administering the project agreement that such developer is in compliance with the terms of the project agreement relating to the provision of affordable retail space.
-
-   2. A contracted entity shall investigate any allegations that a covered developer has failed to comply with the terms of the project agreement relating to the provision of affordable retail space.
-
-   3. A finding that a covered developer has failed to provide affordable retail space as required by the project agreement may result in any of the following actions by the contracted entity administering such project agreement:
-
-      (a) Entering into an agreement with the covered developer requiring such developer to fulfill such terms;
-
-      (b) Finding the covered developer to be in default of the project agreement;
-
-      (c) Recovering from the covered developer part or all of the financial assistance disbursed or provided to such developer, including but not limited to requiring repayment of any taxes or interest abated or deferred; or
-
-      (d) Reporting such failure by the covered developer in the report required by subdivision a of section 22-824.
-
-
-
-Editor's note: Section 3 of L.L. 2020/035 provides: "This local law does not apply to any project agreement executed prior to the effective date of this local law, except that any extension, renewal, amendment or modification of such a project agreement occurring on or after the effective date of this local law that results in the grant of any additional financial assistance to the covered developer shall subject the covered development project to the requirements of this local law." Section 4 of L.L. 2020/035 provides: "This local law takes effect 180 days after it becomes law and expires and is deemed repealed seven years after it becomes law."
 
 
 
@@ -8087,149 +8230,6 @@ A provision in a commercial lease or other rental agreement involving real prope
    (c) The tenant was required to close to members of the public under executive order number 202.7 issued by the governor on March 19, 2020.
 
 2. The default or other event causing such natural persons to become wholly or partially personally liable for such obligation occurred between March 7, 2020 and September 30, 2020, inclusive.
-
-
-
-
-
-
-Chapter 9: Non-Residential Tenant Harassment
---------------------------------------------------
-
-
-
-*§ 22-901 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Commercial tenant. The term “commercial tenant” means a person or entity lawfully occupying a covered property pursuant to a lease or other rental agreement.
-
-Covered categories of work. The term “covered categories of work” means the following categories of work at a covered property:
-
-1. Demolition of all or part of such covered property;
-
-2. Change of use or occupancy of all or part of such covered property; or
-
-3. Any change to the layout, configuration, or location of any portion of such covered property.
-
-Exceptions:
-
-   1. Work conducted in whole or in part for the purpose of making any portion of such covered property accessible to persons with disabilities.
-
-   2. Work conducted solely for the purpose of remediating hazardous or impending hazardous conditions, or protecting public health and safety.
-
-   3. Work performed pursuant to a lease or other agreement executed prior to the issuance of an order pursuant to paragraph (2) of subdivision a of section 22-903.
-
-   4. Work performed pursuant to an agreement entered into by a tenant of such covered property.
-
-   5. Other categories of work that are excluded from the definition of covered categories of work by rule of the department.
-
-Covered property. The term “covered property” means any building or portion of a building (i) that is lawfully used for buying, selling or otherwise providing goods or services, or for other lawful business, commercial, professional services or manufacturing activities, and (ii) for which a certificate of occupancy authorizing residential use of such building or such portion of a building has not been issued.
-
-Essential service. The term “essential service” means a service that a landlord must furnish to a commercial tenant pursuant to a lease or other rental agreement between such commercial tenant and landlord, or pursuant to applicable law.
-
-Landlord. The term “landlord” means an owner of covered property or such owner’s agent.
-
-
-
-
-
-
-
-
-*§ 22-902 Commercial tenant harassment.* ::
-
-
-a. A landlord shall not engage in commercial tenant harassment. Except as provided in subdivision b of this section, commercial tenant harassment is any act or omission by or on behalf of a landlord that (i) would reasonably cause a commercial tenant to vacate covered property, or to surrender or waive any rights under a lease or other rental agreement or under applicable law in relation to such covered property, and (ii) includes one or more of the following:
-
-   1. using force against or making express or implied threats that force will be used against a commercial tenant or such tenant’s invitee;
-
-   2. causing repeated interruptions or discontinuances of one or more essential services;
-
-   3. causing an interruption or discontinuance of an essential service for an extended period of time;
-
-   4. causing an interruption or discontinuance of an essential service where such interruption or discontinuance substantially interferes with a commercial tenant’s business;
-
-   5. repeatedly commencing frivolous court proceedings against a commercial tenant;
-
-   6. removing from a covered property any personal property belonging to a commercial tenant or such tenant’s invitee;
-
-   7. removing the door at the entrance to a covered property occupied by a commercial tenant; removing, plugging or otherwise rendering the lock on such entrance door inoperable; or changing the lock on such entrance door without supplying a key to the new lock to the commercial tenant occupying the covered property;
-
-   8. preventing a commercial tenant or such tenant’s invitee from entering a covered property occupied by such tenant;
-
-   9. substantially interfering with a commercial tenant’s business by commencing unnecessary construction or repairs on or near covered property;
-
-   10.    engaging in any other repeated or enduring acts or omissions that substantially interfere with the operation of a commercial tenant’s business;
-
-   11. threatening a commercial tenant based on (i) such person's actual or perceived age, race, creed, color, national origin, gender, disability, marital status, partnership status, caregiver status, uniformed service, sexual orientation, alienage or citizenship status, status as a victim of domestic violence or status as a victim of sex offenses or stalking, or (ii) the commercial tenant's status as a person or business impacted by COVID-19, or the commercial tenant's receipt of a rent concession or forbearance for any rent owed during the COVID-19 period; provided that for the purposes of this paragraph:
-
-      (a) the term “COVID-19 period” means March 7, 2020 through the later of (i) the end of the first month that commences after the expiration of the moratorium on enforcement of evictions of any tenant, residential or commercial, set forth in executive order number 202.8, as issued by the governor on March 20, 2020 and extended thereafter, (ii) the end of the first month that commences after the expiration of the moratorium on certain residential evictions set forth in section 4024 of the coronavirus aid, relief, and economic security, or CARES, act and any subsequent amendments to such section or (iii) September 30, 2020, inclusive;
-
-      (b) the term “impacted by COVID-19” means a person who has experienced one or more of the following situations:
-
-         (1) such person was diagnosed with COVID-19 or is experiencing symptoms of COVID-19 and seeking a medical diagnosis; provided that for the purposes of this subparagraph, the term “COVID-19” means the 2019 novel coronavirus or 2019-nCoV;
-
-         (2) a member of such person’s household was diagnosed with COVID-19;
-
-         (3) such person was providing care for a family member or a member of such person’s household who was diagnosed with COVID-19;
-
-         (4) a member of such person’s household for whom such person had primary caregiving responsibility was unable to attend school or another facility that was closed as a direct result of the COVID-19 state disaster emergency and such school or facility care was required for the person to work; provided that for the purposes of this subparagraph, the term “COVID-19 state disaster emergency” means the state disaster emergency declared by the governor in executive order number 202 issued on March 7, 2020;
-
-         (5) such person was unable to reach their place of business because of a quarantine imposed as a direct result of the COVID-19 state disaster emergency or because such person was advised by a health care provider to self-quarantine due to concerns related to COVID-19;
-
-         (6) such person became primarily responsible for providing financial support for the household of such person because the previous head of the household died as a direct result of COVID-19;
-
-         (7) such person’s business is closed as a direct result of the COVID-19 state disaster emergency; and
-
-      (c) a business is “impacted by COVID-19” if (i) it was subject to seating, occupancy or on-premises service limitations pursuant to an executive order issue by the governor or mayor during the COVID-19 period or (ii) its revenues during any three-month period within the COVID-19 period were less than 50 percent of its revenues for the same three-month period in 2019 or less than 50 percent of its aggregate revenues for the months of December 2019, January 2020, and February 2020 and such revenue loss was the direct result of the COVID-19 state disaster emergency. A revenue loss shall be deemed to be the direct result of the COVID-19 state disaster emergency when such disaster emergency was the proximate cause of such revenue loss;
-
-   12. requesting identifying documentation that would disclose the citizenship status of a commercial tenant, an invitee of a commercial tenant or any person seeking entry to the covered property in order to patronize such commercial tenant;
-
-   13. unreasonably refusing to cooperate with a tenant’s permitted repairs or construction activities; or
-
-   14. attempting to enforce a personal liability provision that the landlord knows or reasonably should know is not enforceable pursuant to section 22-1005 of the code.
-
-b. A landlord’s lawful termination of a tenancy, lawful refusal to renew or extend a lease or other rental agreement, or lawful reentry and repossession of the covered property shall not constitute commercial tenant harassment for purposes of this chapter.
-
-
-
-
-
-
-
-
-*§ 22-903 Private right of action.* ::
-
-
-a.    A commercial tenant may bring an action in any court of competent jurisdiction for a claim of commercial tenant harassment. If a court of competent jurisdiction finds that a landlord has engaged in commercial tenant harassment in relation to such commercial tenant, the court shall impose a civil penalty in an amount not less than ten thousand dollars and not more than fifty thousand dollars for each covered property in which such commercial tenant has been the subject of commercial tenant harassment and may further:
-
-   1.    issue an order restraining the landlord from engaging in commercial tenant harassment and directing the landlord to ensure that no further violation occurs;
-
-   2.  issue an order to the department of buildings directing such department not to approve construction documents for, or not to issue or renew permits for, covered categories of work in the covered property in which such commercial tenant has been the subject of commercial tenant harassment, for a period of time deemed appropriate by the court; and
-
-   3.    award such other relief as the court deems appropriate, including but not limited to injunctive relief, equitable relief, compensatory damages, punitive damages and reasonable attorneys’ fees and court costs.
-
-b.    The commercial tenant shall not be relieved of the obligation to pay any rent for which the commercial tenant is otherwise liable. Any monetary remedy awarded to a commercial tenant pursuant to subdivision a of this section shall be reduced by any amount of delinquent rent or other sum for which a court finds such commercial tenant is liable to the landlord.
-
-c.    This section does not limit or abrogate any claim or cause of action a person has under common law or by statute. The provisions of this section are in addition to any such common law and statutory remedies.
-
-d.    Nothing contained in this chapter shall be construed as creating any cause of action for a commercial tenant’s invitee.
-
-e. Nothing contained in this chapter shall be construed as creating any private right of action against the city or any agency or employee thereof.
-
-
-
-
-
-
-
-
-*§ 22-904 Affirmative defenses.* ::
-
-
-It is an affirmative defense to an allegation of commercial tenant harassment of the kind described in paragraphs 2, 3, 4, 6, 7, 8, 9 and 10 of subdivision a of section 22-902 that (i) such condition or service interruption was not intended to cause any commercial tenant to vacate a covered property or waive or surrender any rights in relation to such covered property, and (ii) the landlord acted in good faith in a reasonable manner to promptly correct such condition or service interruption, including providing notice to all affected lawful tenants in a covered property of such efforts, where appropriate.
 
 
 

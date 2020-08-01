@@ -1256,6 +1256,43 @@ d. No information that is otherwise required to be reported pursuant to this sec
 
 
 
+Chapter 17: Distribution of Information Regarding Summer School and Meals
+--------------------------------------------------
+
+
+
+*§ 21-979 Distribution of information regarding summer meals.* ::
+
+
+a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
+
+b. No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
+
+   1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
+
+   2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
+
+
+
+
+
+
+
+
+*§ 21-979.1 Posting summer school calendar information by school.* ::
+
+
+a. Definitions. For the purposes of this section, the term “school building” means any buildings, grounds, facilities, property, or portion thereof, owned or leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school.
+
+b. No later than June 30 of each year, the department shall post on its website information regarding the forthcoming summer school session, including but not limited to the locations of school buildings where summer school will be provided and the dates on which summer school will be in session at each such school building. Nothing contained herein shall prevent the department from making any change to such locations and such dates after June 30, provided however that if the department makes any such change the department shall update the information posted on its website regarding such locations and dates as appropriate.
+
+c. No later than June 30 of each year, the department of transportation shall post on its website information on the locations of school buildings and summer school dates posted in accordance with subdivision b of this section, and for each such school building where there are parking restrictions on a street immediately adjacent to such school building that are in effect only on school days, that such restrictions are in effect on such summer school dates.
+
+
+
+
+
+
 Chapter 18: Bullying, Harassment, Intimidation and Discrimination
 --------------------------------------------------
 
@@ -1381,94 +1418,6 @@ c. No information that is required to be reported pursuant to this section shall
 
 
 
-Chapter 17: Distribution of Information Regarding Summer School and Meals
---------------------------------------------------
-
-
-
-*§ 21-979 Distribution of information regarding summer meals.* ::
-
-
-a. For the purposes of this section, the term "summer meal" means any meal provided to children by the department, or by any city agency collaborating with the department, following the end of the current school year and prior to the beginning of the next school year.
-
-b. No later than June 1, 2018, and annually thereafter no later than June 1, the department shall make available information regarding summer meals including, but not limited to, locations where such meals will be available, the times and dates during which such meals will be available and any guidelines regarding eligibility for such meals. Such information shall be:
-
-   1. posted on the department’s website, the website of any city agency collaborating with the department and the website of the 311 customer service center; and
-
-   2. distributed to council members, borough presidents, community boards, community education councils, parent associations and parent teacher associations.
-
-
-
-
-
-
-
-
-*§ 21-979.1 Posting summer school calendar information by school.* ::
-
-
-a. Definitions. For the purposes of this section, the term “school building” means any buildings, grounds, facilities, property, or portion thereof, owned or leased by the department or over which the department has care, custody and control, in which there is a public school, including a charter school.
-
-b. No later than June 30 of each year, the department shall post on its website information regarding the forthcoming summer school session, including but not limited to the locations of school buildings where summer school will be provided and the dates on which summer school will be in session at each such school building. Nothing contained herein shall prevent the department from making any change to such locations and such dates after June 30, provided however that if the department makes any such change the department shall update the information posted on its website regarding such locations and dates as appropriate.
-
-c. No later than June 30 of each year, the department of transportation shall post on its website information on the locations of school buildings and summer school dates posted in accordance with subdivision b of this section, and for each such school building where there are parking restrictions on a street immediately adjacent to such school building that are in effect only on school days, that such restrictions are in effect on such summer school dates.
-
-
-
-
-
-
-Chapter 20: Reporting on Students in Temporary Housing
---------------------------------------------------
-
-
-
-*§ 21-987 [Reporting on students in temporary housing.]* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Borough of origin. The term “borough of origin” means the borough in which a student attended school when permanently housed or the borough of the school in which the student was last enrolled.
-
-   School. The term “school” means a school of the city school district of the city of New York.
-
-   Student. The term “student” means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as defined in section 4410 of the education law.
-
-   Sharing the housing of others. The term “sharing the housing of others” means individuals who have reported to the department that they are living with other persons due to loss of housing, economic hardship or a similar reason.
-
-   Students in temporary housing. The term “students in temporary housing” has the same meaning as that of the term “homeless children and youths” as defined in subsection 2 of section 11434a of title 42 of the United States code, provided that such individuals are enrolled in a school.
-
-b. Not later than November 1, 2018, and annually thereafter on or before November 1, the department shall, in consultation with and as provided by the department of homeless services, the department of social services/human resources administration, the department of youth and community development and the department of housing preservation and development, as necessary, submit to the council and post online a report regarding information on students in temporary housing for the preceding school year. Such report shall include, but not be limited to, the following information:
-
-   1. The total number of students in temporary housing, as reported to the department, disaggregated by school, and further disaggregated by:
-
-      (a) the number of students who are residing in a shelter, disaggregated by whether students are residing in shelters operated by (i) the department of homeless services, (ii) the department of social services/human resources administration, (iii) the department of youth and community development and (iv) the department of housing preservation and development; and
-
-      (b) the number of students sharing the housing of others;
-
-   2. The number of students residing in shelters operated by the department of homeless services who remain enrolled in a school in their borough of origin;
-
-   3. The total number of students residing in shelters operated by the department of homeless services who have transferred to a different school;
-
-   4. The total number of students in temporary housing receiving metrocards;
-
-   5. The total number of students in temporary housing receiving busing;
-
-   6. The percentage of students in temporary housing citywide;
-
-   7. The attendance rate of students in temporary housing;
-
-   8. The retention rate of students in temporary housing; and
-
-   9. The dropout rate of students in temporary housing.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains a number that would allow the number of individuals in another category that is five or fewer to be deduced, the number shall be replaced with a symbol.
-
-
-
-
-
-
 Chapter 19: Reports on Discipline and Certain Emergency Transports of Students
 --------------------------------------------------
 
@@ -1568,6 +1517,74 @@ b. The chancellor shall submit to the council and post to the department's websi
 
 
 
+Chapter 20: Reporting on Students in Temporary Housing
+--------------------------------------------------
+
+
+
+*§ 21-987 [Reporting on students in temporary housing.]* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Borough of origin. The term “borough of origin” means the borough in which a student attended school when permanently housed or the borough of the school in which the student was last enrolled.
+
+   School. The term “school” means a school of the city school district of the city of New York.
+
+   Student. The term “student” means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as defined in section 4410 of the education law.
+
+   Sharing the housing of others. The term “sharing the housing of others” means individuals who have reported to the department that they are living with other persons due to loss of housing, economic hardship or a similar reason.
+
+   Students in temporary housing. The term “students in temporary housing” has the same meaning as that of the term “homeless children and youths” as defined in subsection 2 of section 11434a of title 42 of the United States code, provided that such individuals are enrolled in a school.
+
+b. Not later than November 1, 2018, and annually thereafter on or before November 1, the department shall, in consultation with and as provided by the department of homeless services, the department of social services/human resources administration, the department of youth and community development and the department of housing preservation and development, as necessary, submit to the council and post online a report regarding information on students in temporary housing for the preceding school year. Such report shall include, but not be limited to, the following information:
+
+   1. The total number of students in temporary housing, as reported to the department, disaggregated by school, and further disaggregated by:
+
+      (a) the number of students who are residing in a shelter, disaggregated by whether students are residing in shelters operated by (i) the department of homeless services, (ii) the department of social services/human resources administration, (iii) the department of youth and community development and (iv) the department of housing preservation and development; and
+
+      (b) the number of students sharing the housing of others;
+
+   2. The number of students residing in shelters operated by the department of homeless services who remain enrolled in a school in their borough of origin;
+
+   3. The total number of students residing in shelters operated by the department of homeless services who have transferred to a different school;
+
+   4. The total number of students in temporary housing receiving metrocards;
+
+   5. The total number of students in temporary housing receiving busing;
+
+   6. The percentage of students in temporary housing citywide;
+
+   7. The attendance rate of students in temporary housing;
+
+   8. The retention rate of students in temporary housing; and
+
+   9. The dropout rate of students in temporary housing.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains a number that would allow the number of individuals in another category that is five or fewer to be deduced, the number shall be replaced with a symbol.
+
+
+
+
+
+
+Chapter 22: Posting of Subdistrict Maps
+--------------------------------------------------
+
+
+
+*§ 21-989 Posting of subdistrict maps.* ::
+
+
+a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
+
+b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
+
+
+
+
+
+
 Chapter 21: Posting of Information Regarding the Process Used in Determining Identified Seat Need
 --------------------------------------------------
 
@@ -1633,23 +1650,6 @@ e. The data provided in paragraphs 2, 3 and 4 of subdivision b of this section s
 f. All data provided pursuant to this section shall be provided in machine readable format.
 
 g. Nothing in this section shall be construed to affect the authority or materially impede the ability of the department to determine the identified seat need or the methodology or information utilized in the determination of identified seat need.
-
-
-
-
-
-
-Chapter 22: Posting of Subdistrict Maps
---------------------------------------------------
-
-
-
-*§ 21-989 Posting of subdistrict maps.* ::
-
-
-a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
-
-b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
 
 
 
