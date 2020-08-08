@@ -1036,23 +1036,6 @@ d. This chapter expires ten years after the effective date of the local law that
 
 
 
-Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
---------------------------------------------------
-
-
-
-*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
-
-
-a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
-
-b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
-
-
-
-
-
-
 Chapter 11: Sexual Education Task Force
 --------------------------------------------------
 
@@ -1104,6 +1087,23 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 
 
 * Editor's note: pursuant to L.L. 2017/090, § 2, this section expires and is deemed repealed five years after the date of the local law that added the section.
+
+
+
+
+Chapter 12: Distribution of Gifted and Talented Program Information and Exam Materials
+--------------------------------------------------
+
+
+
+*§ 21-974 Distribution of gifted and talented program information and exam materials.* ::
+
+
+a. For the purposes of this section, the term “student” means any pupil who is enrolled in pre-kindergarten in any school of the city school district of the city of New York or in an early education center with which the department contracts to provide pre-kindergarten.
+
+b. No later than November 1, 2017, and annually thereafter no later than November 1 of each year, the department shall distribute to the parents of each student information regarding the department’s gifted and talented programs, examination and application process.
+
+
 
 
 
@@ -1568,23 +1568,6 @@ c. No information that is otherwise required to be reported pursuant to this sec
 
 
 
-Chapter 22: Posting of Subdistrict Maps
---------------------------------------------------
-
-
-
-*§ 21-989 Posting of subdistrict maps.* ::
-
-
-a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
-
-b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
-
-
-
-
-
-
 Chapter 21: Posting of Information Regarding the Process Used in Determining Identified Seat Need
 --------------------------------------------------
 
@@ -1650,6 +1633,23 @@ e. The data provided in paragraphs 2, 3 and 4 of subdivision b of this section s
 f. All data provided pursuant to this section shall be provided in machine readable format.
 
 g. Nothing in this section shall be construed to affect the authority or materially impede the ability of the department to determine the identified seat need or the methodology or information utilized in the determination of identified seat need.
+
+
+
+
+
+
+Chapter 22: Posting of Subdistrict Maps
+--------------------------------------------------
+
+
+
+*§ 21-989 Posting of subdistrict maps.* ::
+
+
+a. Definitions. For the purposes of this section, the term “subdistrict” means all geographic boundaries used by the department and the New York city school construction authority to identify where new capital funding will be targeted for building new schools.
+
+b. The department shall post conspicuously on its website a map indicating the boundaries and associated identifiers of all subdistricts in the city school district of the city of New York. Such map shall be posted in a machine readable geographic format.
 
 
 
