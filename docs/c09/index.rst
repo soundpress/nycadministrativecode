@@ -1,6 +1,75 @@
 Title 10: Public Safety
 ===================================================
 
+Chapter 2: Unlawful Sale or Possession of Controlled Substances
+--------------------------------------------------
+
+
+
+*§ 10-201 Unlawful possession of controlled substances.* ::
+
+
+No person shall unlawfully posses or sell any controlled substance the possession or sale of which would constitute a felony pursuant to articles two hundred twenty or two hundred twenty-one of the penal law.
+
+
+
+
+
+
+*§ 10-202 Civil Action.* ::
+
+
+a. Any person who has been convicted of the possession or sale of a controlled substance in an amount which constitutes a felony pursuant to articles two hundred twenty or two hundred twenty-one of the penal law shall be liable to the city for a civil penalty in the amount of not less than ten thousand dollars nor more than one hundred thousand dollars for each count of an indictment for unlawful possession or sale which has resulted in a conviction under the penal law.
+
+b. The corporation counsel, upon notification by an appropriate law enforcement agency that there is reason to believe that a person who has been convicted of an offense under articles two hundred twenty or two hundred twenty-one of the penal law has substantial assets and that there is a significant likelihood that a civil judgment obtained pursuant to this section shall be capable of satisfaction, may commence a civil action under this section.
+
+c. In any civil action brought pursuant to this section, the city may recover, in addition to the amount set forth in subdivision a, the costs of the investigation and prosecution of the person in the criminal action resulting in conviction pursuant to articles two hundred twenty and two hundred twenty-one of the penal law, and the costs of the civil action, including reasonable attorney's fees.
+
+
+
+
+
+
+*§ 10-203 Unlawful manufacture, distribution or sale of a synthetic cannabinoid or synthetic phenethylamine.* ::
+
+
+a. No person or entity shall knowingly manufacture, sell, offer for sale, display for sale, distribute for sale, or possess with intent to sell:
+
+   1. any synthetic cannabinoid or synthetic phenethylamine, as such terms are defined by part 9 of title 10 of the New York codes, rules and regulations as of the date of the violation, or as included in schedule I of the federal drug enforcement administration schedules of controlled substances, as listed in 21 CFR § 1308.11, or successor regulation, as of the date of the violation, or any cannabimimetic agent, as defined in 21 U.S.C. § 812, as of the date of the violation; or
+
+   2. any analogue of a synthetic cannabinoid, synthetic phenethylamine or cannabimimetic agent. For the purposes of this paragraph, "analogue of a synthetic cannabinoid, synthetic phenethylamines or cannabimimetic agent" means a substance that has a chemical structure that is substantially similar to the chemical structure of a substance described in paragraph 1 of this subdivision and has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of such a substance described in paragraph 1 of this subdivision; or
+
+   3. any substance commonly known as synthetic marijuana, K-2 or bath salts, including but not limited to a substance so identified as an embargoed product by order of the commissioner of the department of health and mental hygiene, that is represented as being intended for human consumption. Evidence of representations that a substance commonly known as synthetic marijuana, K-2 or bath salts is intended for human consumption may include, but is not limited to, oral, visual or written representations by the manufacturer, distributor or seller about the substance with regard to its nature, use or effect; or
+
+   4. any purported synthetic drug. In any proceeding commenced in connection with an alleged violation of this paragraph, it shall be necessary to prove that the purported synthetic drug was represented to be a substance described in paragraph 1, 2 or 3 of this subdivision; provided, however, that it shall not be a defense to prosecution under this section that the accused believed the purported synthetic drug to be such a substance. For the purposes of this subdivision, the term "purported synthetic drug" means a substance that, by dosage unit appearance, including color, shape and size, and by a representation, is represented to be a substance described in paragraph 1, 2 or 3 of this subdivision. Evidence of such a representation may include, but is not limited to, oral, visual or written representations by the manufacturer, distributor or seller about the substance with regard to:
+
+      (a) its price, nature, use or effect as a substance described in paragraph 1, 2 or 3 of this subdivision; or
+
+      (b) its packaging in a manner normally used for substances described in paragraph 1, 2 or 3 of this subdivision.
+
+b. Possession of ten or more packets, individual containers or other separate units of a substance described in subdivision a of this section is presumptive evidence that the possessing person or entity is distributing such substance for sale or possesses such substances with intent to sell.
+
+c. Any person or entity that violates subdivision a of this section shall be guilty of a misdemeanor punishable by a fine of not more than $5,000 or imprisonment of up to one year, or both.
+
+d. In addition to the penalties prescribed in subdivision c of this section, any person or entity that violates subdivision a of this section shall be liable for a civil penalty of not less than $1,000 and not more than $10,000 recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings, provided that upon the first such violation, and any other such violations by the same person or entity on the same day as such first violation, such person or entity shall be liable for a civil penalty of not less than $500 and not more than $5,000 if such violation is not in conjunction with the commission of any crime other than possession, manufacture, distribution or sale of any synthetic cannabinoid, synthetic phenethylamine, or other substance described in subdivision a of this section. The manufacture, distribution, sale, offer for sale, display for sale, or possession with intent to sell of each packet, individual container or other separate unit of substance described in subdivision a of this section shall constitute a separate violation under this subdivision, with a maximum civil liability of $50,000 for violations in a day for a single person or entity under this subdivision.
+
+e. Any police officer, or sheriff, undersheriff, or deputy sheriff of the city of New York, or any peace officer acting pursuant to his or her special duties may enforce the provisions of this section. A proceeding to recover any civil penalty authorized pursuant to subdivision d of this section shall be commenced by the service of a notice of violation returnable to any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged.
+
+f. Whenever a police officer, or sheriff, undersheriff, or deputy sheriff of the city of New York, or any peace officer acting pursuant to his or her special duties, discovers any substance described in subdivision a being possessed in a manner that violates such subdivision, such officer is authorized and empowered to seize and take possession of such substance, which shall be destroyed or used either for law enforcement purposes or for evidentiary purposes in connection with any enforcement proceeding conducted pursuant to this section.
+
+g. In any proceeding commenced pursuant to this section, it shall be no defense that the substance's packaging or other representation states or indicates that the substance is not intended for human consumption.
+
+h. Any person who engages in business as a retail dealer pursuant to section 20-202 of the code shall be subject to:
+
+   1. a mandatory suspension of his or her retail dealer license for a period of thirty days for a violation of this section; or
+
+   2. a mandatory revocation of his or her retail dealer license, or of any subsequent license holder, for a second or subsequent violation of this section occurring on a different day at the same place of business within a three-year period, unless the subsequent license holder provides the commissioner of the agency that has commenced the proceeding to recover a civil penalty pursuant to subdivision d of this section with adequate documentation demonstrating that such subsequent license holder acquired the premises or business through an arm's length transaction, as defined in paragraph 5 of subdivision d of section 20-202 of the code, and that the sale or lease was not conducted, in whole or in part, for the purpose of permitting the original licensee to avoid the effect of violations on the premises.
+
+
+
+
+
+
 Chapter 1: Public Safety
 --------------------------------------------------
 
@@ -2190,150 +2259,6 @@ c. Any penalties resulting from a violation of subdivision a of this section sha
 
 
 
-Chapter 2: Unlawful Sale or Possession of Controlled Substances
---------------------------------------------------
-
-
-
-*§ 10-201 Unlawful possession of controlled substances.* ::
-
-
-No person shall unlawfully posses or sell any controlled substance the possession or sale of which would constitute a felony pursuant to articles two hundred twenty or two hundred twenty-one of the penal law.
-
-
-
-
-
-
-*§ 10-202 Civil Action.* ::
-
-
-a. Any person who has been convicted of the possession or sale of a controlled substance in an amount which constitutes a felony pursuant to articles two hundred twenty or two hundred twenty-one of the penal law shall be liable to the city for a civil penalty in the amount of not less than ten thousand dollars nor more than one hundred thousand dollars for each count of an indictment for unlawful possession or sale which has resulted in a conviction under the penal law.
-
-b. The corporation counsel, upon notification by an appropriate law enforcement agency that there is reason to believe that a person who has been convicted of an offense under articles two hundred twenty or two hundred twenty-one of the penal law has substantial assets and that there is a significant likelihood that a civil judgment obtained pursuant to this section shall be capable of satisfaction, may commence a civil action under this section.
-
-c. In any civil action brought pursuant to this section, the city may recover, in addition to the amount set forth in subdivision a, the costs of the investigation and prosecution of the person in the criminal action resulting in conviction pursuant to articles two hundred twenty and two hundred twenty-one of the penal law, and the costs of the civil action, including reasonable attorney's fees.
-
-
-
-
-
-
-*§ 10-203 Unlawful manufacture, distribution or sale of a synthetic cannabinoid or synthetic phenethylamine.* ::
-
-
-a. No person or entity shall knowingly manufacture, sell, offer for sale, display for sale, distribute for sale, or possess with intent to sell:
-
-   1. any synthetic cannabinoid or synthetic phenethylamine, as such terms are defined by part 9 of title 10 of the New York codes, rules and regulations as of the date of the violation, or as included in schedule I of the federal drug enforcement administration schedules of controlled substances, as listed in 21 CFR § 1308.11, or successor regulation, as of the date of the violation, or any cannabimimetic agent, as defined in 21 U.S.C. § 812, as of the date of the violation; or
-
-   2. any analogue of a synthetic cannabinoid, synthetic phenethylamine or cannabimimetic agent. For the purposes of this paragraph, "analogue of a synthetic cannabinoid, synthetic phenethylamines or cannabimimetic agent" means a substance that has a chemical structure that is substantially similar to the chemical structure of a substance described in paragraph 1 of this subdivision and has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of such a substance described in paragraph 1 of this subdivision; or
-
-   3. any substance commonly known as synthetic marijuana, K-2 or bath salts, including but not limited to a substance so identified as an embargoed product by order of the commissioner of the department of health and mental hygiene, that is represented as being intended for human consumption. Evidence of representations that a substance commonly known as synthetic marijuana, K-2 or bath salts is intended for human consumption may include, but is not limited to, oral, visual or written representations by the manufacturer, distributor or seller about the substance with regard to its nature, use or effect; or
-
-   4. any purported synthetic drug. In any proceeding commenced in connection with an alleged violation of this paragraph, it shall be necessary to prove that the purported synthetic drug was represented to be a substance described in paragraph 1, 2 or 3 of this subdivision; provided, however, that it shall not be a defense to prosecution under this section that the accused believed the purported synthetic drug to be such a substance. For the purposes of this subdivision, the term "purported synthetic drug" means a substance that, by dosage unit appearance, including color, shape and size, and by a representation, is represented to be a substance described in paragraph 1, 2 or 3 of this subdivision. Evidence of such a representation may include, but is not limited to, oral, visual or written representations by the manufacturer, distributor or seller about the substance with regard to:
-
-      (a) its price, nature, use or effect as a substance described in paragraph 1, 2 or 3 of this subdivision; or
-
-      (b) its packaging in a manner normally used for substances described in paragraph 1, 2 or 3 of this subdivision.
-
-b. Possession of ten or more packets, individual containers or other separate units of a substance described in subdivision a of this section is presumptive evidence that the possessing person or entity is distributing such substance for sale or possesses such substances with intent to sell.
-
-c. Any person or entity that violates subdivision a of this section shall be guilty of a misdemeanor punishable by a fine of not more than $5,000 or imprisonment of up to one year, or both.
-
-d. In addition to the penalties prescribed in subdivision c of this section, any person or entity that violates subdivision a of this section shall be liable for a civil penalty of not less than $1,000 and not more than $10,000 recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings, provided that upon the first such violation, and any other such violations by the same person or entity on the same day as such first violation, such person or entity shall be liable for a civil penalty of not less than $500 and not more than $5,000 if such violation is not in conjunction with the commission of any crime other than possession, manufacture, distribution or sale of any synthetic cannabinoid, synthetic phenethylamine, or other substance described in subdivision a of this section. The manufacture, distribution, sale, offer for sale, display for sale, or possession with intent to sell of each packet, individual container or other separate unit of substance described in subdivision a of this section shall constitute a separate violation under this subdivision, with a maximum civil liability of $50,000 for violations in a day for a single person or entity under this subdivision.
-
-e. Any police officer, or sheriff, undersheriff, or deputy sheriff of the city of New York, or any peace officer acting pursuant to his or her special duties may enforce the provisions of this section. A proceeding to recover any civil penalty authorized pursuant to subdivision d of this section shall be commenced by the service of a notice of violation returnable to any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged.
-
-f. Whenever a police officer, or sheriff, undersheriff, or deputy sheriff of the city of New York, or any peace officer acting pursuant to his or her special duties, discovers any substance described in subdivision a being possessed in a manner that violates such subdivision, such officer is authorized and empowered to seize and take possession of such substance, which shall be destroyed or used either for law enforcement purposes or for evidentiary purposes in connection with any enforcement proceeding conducted pursuant to this section.
-
-g. In any proceeding commenced pursuant to this section, it shall be no defense that the substance's packaging or other representation states or indicates that the substance is not intended for human consumption.
-
-h. Any person who engages in business as a retail dealer pursuant to section 20-202 of the code shall be subject to:
-
-   1. a mandatory suspension of his or her retail dealer license for a period of thirty days for a violation of this section; or
-
-   2. a mandatory revocation of his or her retail dealer license, or of any subsequent license holder, for a second or subsequent violation of this section occurring on a different day at the same place of business within a three-year period, unless the subsequent license holder provides the commissioner of the agency that has commenced the proceeding to recover a civil penalty pursuant to subdivision d of this section with adequate documentation demonstrating that such subsequent license holder acquired the premises or business through an arm's length transaction, as defined in paragraph 5 of subdivision d of section 20-202 of the code, and that the sale or lease was not conducted, in whole or in part, for the purpose of permitting the original licensee to avoid the effect of violations on the premises.
-
-
-
-
-
-
-Chapter 4: Actions By Victims of Violent Crime
---------------------------------------------------
-
-
-
-*§ 10-401 Short title.* ::
-
-
-This local law shall be known as the "Victims of Violent Crime Protection Act".
-
-
-
-
-
-
-*§ 10-402 Definition.* ::
-
-
-For purposes of this chapter:
-
-a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
-
-
-
-
-
-
-*§ 10-403 Civil cause of action.* ::
-
-
-Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
-
-1. compensatory and punitive damages;
-
-2. injunctive and declaratory relief;
-
-3. attorneys' fees and costs;
-
-4. such other relief as a court may deem appropriate.
-
-
-
-
-
-
-*§ 10-404 Limitations.* ::
-
-
-a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
-
-b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
-
-
-
-
-
-
-*§ 10-405 Burden of proof.* ::
-
-
-Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
-
-
-
-
-
-
-*§ 10-406 Severability.* ::
-
-
-If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
-
-
-
-
 Chapter 3: Firearms
 --------------------------------------------------
 
@@ -2885,69 +2810,77 @@ b. Penalties. The violation of this section constitutes a class A misdemeanor fo
 
 
 
-Chapter 5: Disclosure of Security Breach
+Chapter 4: Actions By Victims of Violent Crime
 --------------------------------------------------
 
 
 
-*§ 10-501 Definitions.* ::
+*§ 10-401 Short title.* ::
 
 
-For the purposes of this chapter,
-
-a. The term "personal identifying information" shall mean any person's date of birth, social security number, driver's license number, non-driver photo identification card number, financial services account number or code, savings account number or code, checking account number or code, brokerage account number or code, credit card account number or code, debit card number or code, automated teller machine number or code, personal identification number, mother's maiden name, computer system password, electronic signature or unique biometric data that is a fingerprint, voice print, retinal image or iris image of another person. This term shall apply to all such data, notwithstanding the method by which such information is maintained.
-
-b. The term "breach of security" shall mean the unauthorized disclosure or use by an employee or agent of an agency, or the unauthorized possession by someone other than an employee or agent of an agency, of personal identifying information that compromises the security, confidentiality or integrity of such information. Good faith or inadvertent possession of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency, and good faith or legally mandated disclosure of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency shall not constitute a breach of security.
+This local law shall be known as the "Victims of Violent Crime Protection Act".
 
 
 
 
 
 
-*§ 10-502 Agency disclosure of a security breach.* ::
+*§ 10-402 Definition.* ::
 
 
-a. Any city agency that owns or leases data that includes personal identifying information and any city agency that maintains but does not own data that includes personal identifying information, shall immediately disclose to the police department any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach if such personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
+For purposes of this chapter:
 
-b. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that owns or leases data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to any person whose personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
-
-c. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that maintains but does not own data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to the owner, lessor or licensor of the data if the personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
-
-d. The disclosures required by subdivisions b and c of this section shall be made as soon as practicable by a method reasonable under the circumstances. Provided said method is not inconsistent with the legitimate needs of law enforcement or any other investigative or protective measures necessary to restore the reasonable integrity of the data system, disclosure shall be made by at least one of the following means:
-
-   1. Written notice to the individual at his or her last known address; or
-
-   2. Verbal notification to the individual by telephonic communication; or
-
-   3. Electronic notification to the individual at his or her last known e-mail address.
-
-e. Should disclosure pursuant to paragraph one, two or three of subdivision d be impracticable or inappropriate given the circumstances of the breach and the identity of the victim, such disclosure shall be made by a mechanism of the agency's election, provided such mechanism is reasonably targeted to the individual in a manner that does not further compromise the integrity of the personal information.
+a. "Crime of violence" means an act or series of acts that would constitute a misdemeanor or felony against the person as defined in state or federal law or that would constitute a misdemeanor or felony against property as defined in state or federal law if the conduct presents a serious risk of physical injury to another, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction.
 
 
 
 
 
 
-*§ 10-503 Agency disposal of personal identifying information.* ::
+*§ 10-403 Civil cause of action.* ::
 
 
-An agency that discards records containing any individual's personal identifying information shall do so in a manner intended to prevent retrieval of the information contained therein or thereon.
+Except as otherwise provided by law, any person claiming to be injured by an individual who commits a crime of violence as defined in section 10-402 of this chapter, shall have a cause of action against such individual in any court of competent jurisdiction for any or all of the following relief:
+
+1. compensatory and punitive damages;
+
+2. injunctive and declaratory relief;
+
+3. attorneys' fees and costs;
+
+4. such other relief as a court may deem appropriate.
 
 
 
 
 
 
-*§ 10-504 Agency disposal of electronics.* ::
+*§ 10-404 Limitations.* ::
 
 
-a. Any agency that disposes of electronic equipment that contains a hard disk drive, solid state drive or similar device capable of storing information while powered off, including but not limited to printers, copiers and computers, shall ensure, before its disposal, the erasure of all information contained therein, either through degaussing, physical destruction of the drive, a data wiping that includes at least two full overwrites or another erasure method specified by the department of information technology and telecommunications after consultation with all relevant agencies. This requirement shall not apply to boot related firmware.
+a. A civil action under this chapter must be commenced within six years after the alleged crime of violence as defined in section 10-402 of this chapter occurred. If, however, due to injury or disability resulting from an act or acts giving rise to a cause of action under this chapter, or due to infancy as defined in the civil procedure law and rules, a person entitled to commence an action under this chapter is unable to do so at the time such cause of action accrues, then the time within which the action must be commenced shall be extended to six years after the inability to commence the action ceases.
 
-b. Each agency shall require any third party who disposes of electronic equipment on its behalf to provide the agency a written certification that the disposal complies with the requirements set forth in this section and shall forward such certification to the department of information technology and telecommunications. Every two years each agency that has disposed of electronic equipment itself shall submit a statement to the department of information technology and telecommunications certifying that its disposal of such electronic equipment complies with the requirements set forth in this section.
-
-c. For the purposes of this section, the term "dispose" includes a transfer of electronic equipment from one agency to another when such equipment has stored information that is confidential or sensitive in nature and is not relevant to the work of the agency receiving such equipment.
+b. Nothing in this section requires a prior criminal complaint, prosecution or conviction to establish the elements of a cause of action under this chapter.
 
 
+
+
+
+
+*§ 10-405 Burden of proof.* ::
+
+
+Conviction of a crime arising out of the same transaction, occurrence or event giving rise to a cause of action under this chapter shall be considered conclusive proof of the underlying facts of that crime for purposes of an action brought under this chapter. That such crime was a crime of violence must be proved by preponderance of the evidence.
+
+
+
+
+
+
+*§ 10-406 Severability.* ::
+
+
+If any section, subsection, sentence, clause, phrase or other portion of this local law is, for any reason, declared unconstitutional or invalid, in whole or in part, by any court of competent jurisdiction such portion shall be deemed severable, and such unconstitutionality or invalidity shall not affect the validity of the remaining portions of this law, which remaining portions shall continue in full force and effect.
 
 
 
@@ -3081,47 +3014,69 @@ Any violation by a gun offender of this chapter or of rules and regulations esta
 
 
 
-Chapter 8: Silver Alert System
+Chapter 5: Disclosure of Security Breach
 --------------------------------------------------
 
 
 
-*§ 10-801 Definitions.* ::
+*§ 10-501 Definitions.* ::
 
 
-a. "Administering agency" shall mean any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor shall designate.
+For the purposes of this chapter,
 
-b. "Silver alert" shall mean the communication to the public by a city agency of identifying information concerning a vulnerable senior who is reported missing to a law enforcement agency under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
+a. The term "personal identifying information" shall mean any person's date of birth, social security number, driver's license number, non-driver photo identification card number, financial services account number or code, savings account number or code, checking account number or code, brokerage account number or code, credit card account number or code, debit card number or code, automated teller machine number or code, personal identification number, mother's maiden name, computer system password, electronic signature or unique biometric data that is a fingerprint, voice print, retinal image or iris image of another person. This term shall apply to all such data, notwithstanding the method by which such information is maintained.
 
-c. "Vulnerable senior" shall mean a person who is sixty-five years of age or older with dementia, as a result of Alzheimer's disease or a similar condition.
-
-
-
-
-
-
-*§ 10-802 Silver alert system.* ::
-
-
-The administering agency shall establish a silver alert system, pursuant to the provisions of this chapter of the code, that will provide rapid notification to the public when a vulnerable senior is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
+b. The term "breach of security" shall mean the unauthorized disclosure or use by an employee or agent of an agency, or the unauthorized possession by someone other than an employee or agent of an agency, of personal identifying information that compromises the security, confidentiality or integrity of such information. Good faith or inadvertent possession of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency, and good faith or legally mandated disclosure of any personal identifying information by an employee or agent of an agency for the legitimate purposes of the agency shall not constitute a breach of security.
 
 
 
 
 
 
-*§ 10-803 Procedures.* ::
+*§ 10-502 Agency disclosure of a security breach.* ::
 
 
-a. The administering agency shall develop a protocol for notification to organizations such as media organizations, senior service providers, medical facilities and community organizations when a silver alert is issued.
+a. Any city agency that owns or leases data that includes personal identifying information and any city agency that maintains but does not own data that includes personal identifying information, shall immediately disclose to the police department any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach if such personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
 
-b. The administering agency shall, as appropriate, consult with other city agencies, including, but not limited to, the police department, the fire department, the office of emergency management, the human resources administration, the department for the aging, the department of health and mental hygiene and the department of transportation, to collect and disseminate information regarding the person for whom the silver alert was issued.
+b. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that owns or leases data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to any person whose personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
 
-c. The administering agency shall issue a silver alert within twenty-four hours of the determination that a vulnerable senior has been reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death. The silver alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts or radio broadcasts. The silver alert may be issued at repeated intervals within the discretion of the administering agency until such missing person is found or until the administering agency determines that the issuance of a silver alert is no longer appropriate.
+c. Subsequent to compliance with the provisions set forth in subdivision a of this section, any city agency that maintains but does not own data that includes personal identifying information shall disclose, in accordance with the procedures set forth in subdivision d of this section, any breach of security following discovery by a supervisor or manager, or following notification to a supervisor or manager, of such breach to the owner, lessor or licensor of the data if the personal identifying information was, or is reasonably believed to have been, acquired by an unauthorized person.
 
-d. The information about the person for whom the silver alert was issued, if available and capable of transmission, shall include, but not be limited to: (1) the person's name; (2) the person's age; (3) a physical description of the person; (4) the last known location where the person was seen, which shall not include the exact address of the person's home; (5) a recent photograph of the person; and (6) a description of any motor vehicle the person may have been driving, provided that the administering agency may refrain from disclosing any such information if disclosure is inappropriate under the circumstances.
+d. The disclosures required by subdivisions b and c of this section shall be made as soon as practicable by a method reasonable under the circumstances. Provided said method is not inconsistent with the legitimate needs of law enforcement or any other investigative or protective measures necessary to restore the reasonable integrity of the data system, disclosure shall be made by at least one of the following means:
 
-e. The administering agency may use its discretion to issue a silver alert for a person under the age of 65 who is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death, where such missing person has dementia, as a result of Alzheimer's disease or a similar condition.
+   1. Written notice to the individual at his or her last known address; or
+
+   2. Verbal notification to the individual by telephonic communication; or
+
+   3. Electronic notification to the individual at his or her last known e-mail address.
+
+e. Should disclosure pursuant to paragraph one, two or three of subdivision d be impracticable or inappropriate given the circumstances of the breach and the identity of the victim, such disclosure shall be made by a mechanism of the agency's election, provided such mechanism is reasonably targeted to the individual in a manner that does not further compromise the integrity of the personal information.
+
+
+
+
+
+
+*§ 10-503 Agency disposal of personal identifying information.* ::
+
+
+An agency that discards records containing any individual's personal identifying information shall do so in a manner intended to prevent retrieval of the information contained therein or thereon.
+
+
+
+
+
+
+*§ 10-504 Agency disposal of electronics.* ::
+
+
+a. Any agency that disposes of electronic equipment that contains a hard disk drive, solid state drive or similar device capable of storing information while powered off, including but not limited to printers, copiers and computers, shall ensure, before its disposal, the erasure of all information contained therein, either through degaussing, physical destruction of the drive, a data wiping that includes at least two full overwrites or another erasure method specified by the department of information technology and telecommunications after consultation with all relevant agencies. This requirement shall not apply to boot related firmware.
+
+b. Each agency shall require any third party who disposes of electronic equipment on its behalf to provide the agency a written certification that the disposal complies with the requirements set forth in this section and shall forward such certification to the department of information technology and telecommunications. Every two years each agency that has disposed of electronic equipment itself shall submit a statement to the department of information technology and telecommunications certifying that its disposal of such electronic equipment complies with the requirements set forth in this section.
+
+c. For the purposes of this section, the term "dispose" includes a transfer of electronic equipment from one agency to another when such equipment has stored information that is confidential or sensitive in nature and is not relevant to the work of the agency receiving such equipment.
+
+
 
 
 
@@ -3191,6 +3146,51 @@ The operator of a venue as defined by paragraph (2) of subdivision b of § 10-70
 
 
 The police department may promulgate rules as necessary to carry out the provisions of this chapter.
+
+
+
+
+Chapter 8: Silver Alert System
+--------------------------------------------------
+
+
+
+*§ 10-801 Definitions.* ::
+
+
+a. "Administering agency" shall mean any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor shall designate.
+
+b. "Silver alert" shall mean the communication to the public by a city agency of identifying information concerning a vulnerable senior who is reported missing to a law enforcement agency under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
+
+c. "Vulnerable senior" shall mean a person who is sixty-five years of age or older with dementia, as a result of Alzheimer's disease or a similar condition.
+
+
+
+
+
+
+*§ 10-802 Silver alert system.* ::
+
+
+The administering agency shall establish a silver alert system, pursuant to the provisions of this chapter of the code, that will provide rapid notification to the public when a vulnerable senior is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death.
+
+
+
+
+
+
+*§ 10-803 Procedures.* ::
+
+
+a. The administering agency shall develop a protocol for notification to organizations such as media organizations, senior service providers, medical facilities and community organizations when a silver alert is issued.
+
+b. The administering agency shall, as appropriate, consult with other city agencies, including, but not limited to, the police department, the fire department, the office of emergency management, the human resources administration, the department for the aging, the department of health and mental hygiene and the department of transportation, to collect and disseminate information regarding the person for whom the silver alert was issued.
+
+c. The administering agency shall issue a silver alert within twenty-four hours of the determination that a vulnerable senior has been reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death. The silver alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts or radio broadcasts. The silver alert may be issued at repeated intervals within the discretion of the administering agency until such missing person is found or until the administering agency determines that the issuance of a silver alert is no longer appropriate.
+
+d. The information about the person for whom the silver alert was issued, if available and capable of transmission, shall include, but not be limited to: (1) the person's name; (2) the person's age; (3) a physical description of the person; (4) the last known location where the person was seen, which shall not include the exact address of the person's home; (5) a recent photograph of the person; and (6) a description of any motor vehicle the person may have been driving, provided that the administering agency may refrain from disclosing any such information if disclosure is inappropriate under the circumstances.
+
+e. The administering agency may use its discretion to issue a silver alert for a person under the age of 65 who is reported missing under circumstances indicating that the person is in imminent danger of serious bodily harm or death, where such missing person has dementia, as a result of Alzheimer's disease or a similar condition.
 
 
 
