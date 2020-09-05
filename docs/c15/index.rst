@@ -2920,6 +2920,101 @@ If any provision of this local law shall be adjudged to be unconstitutional or i
 
 
 
+Chapter 4-E: Recovery for Refrigerants
+--------------------------------------------------
+
+
+
+*§ 16-480 Definitions.* ::
+
+
+As used in this chapter:
+
+"Appliance" means any device that contains refrigerants and can be used for household purposes including, but not limited to, room air conditioners, refrigerators, water coolers, or freezers.
+
+"Original equipment manufacturer" means (1) a person or entity whose brand name appears on an appliance sold, offered for sale or distributed in the city or (2) a person or entity who manufacturers or has manufactured an appliance sold, offered for sale or distributed in the city.
+
+"Recover" or "recovery" means to remove refrigerants from an appliance in such a way that the refrigerants are not released into the atmosphere pursuant to subpart F of 40 CFR part 82.
+
+"Refrigerants" means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A "substitute substance" shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use.
+
+"Residential generator" means any person, entity, agency, or institution in the city of New York that receives solid waste or recycling collection service from the department.
+
+"Room air conditioner" means any electrical appliance that has a compressor, a condenser, an evaporator and a fan to cool and dehumidify the surrounding air and that is capable in ordinary usage of being mounted in a window or through a wall.
+
+"Serviced by the department" means the recovery of refrigerants by the department from appliances that are set out for department collection in the city of New York.
+
+
+
+
+
+
+*§ 16-481 Original equipment manufacturer responsibility for recovery.* ::
+
+
+a. On and after July first, two thousand fourteen, original equipment manufacturers shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators.
+
+b. An original equipment manufacturer may elect to (i) establish its own refrigerant recovery program, (ii) participate with other original equipment manufacturers in a refrigerant recovery program, or (iii) have its appliances serviced by the department in the refrigerant recovery program provided pursuant to section 16-482 of this chapter. No program established pursuant to paragraph one or two of this subdivision may include curbside collection of appliances.
+
+
+
+
+
+
+*§ 16-482 Department refrigerant recovery program.* ::
+
+
+a. The department shall provide a program for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
+
+b. The department shall establish, by rule, a fee for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
+
+c. An original equipment manufacturer whose appliance is serviced by the department shall be billed by the department and shall be responsible for the payment of the fee established by the department for the recovery of refrigerants.
+
+
+
+
+
+
+*§ 16-483 Improper disposal of appliances.* ::
+
+
+No original equipment manufacturer or its agent shall dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants.
+
+
+
+
+
+
+*§ 16-484 Enforcement.* ::
+
+
+a. The department shall have the authority to enforce the provisions of this chapter.
+
+b. Any original equipment manufacturer or agent of such manufacturer who violates section 16-483 of this chapter shall be liable for a civil penalty of five hundred dollars for each violation.
+
+
+
+
+
+
+*§ 16-485 Rulemaking authority.* ::
+
+
+The department shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter, including but not limited to rules relating to reporting by original equipment manufacturers and registration with the department by such manufacturers, which registration may require the submission of information related to such manufacturers' refrigerant recovery programs, if any, and establishing penalties for violations of such rules.
+
+
+
+
+
+
+*§ 16-486 Severability.* ::
+
+
+If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
+
+
+
+
 Chapter 4-D: Acceptance of Recyclable Containers in Bulk Using Motor Vehicles
 --------------------------------------------------
 
@@ -3037,97 +3132,17 @@ The commissioner shall be authorized to promulgate such rules as are necessary t
 
 
 
-Chapter 4-E: Recovery for Refrigerants
+Chapter 4-G: Food Donation Web Portal
 --------------------------------------------------
 
 
 
-*§ 16-480 Definitions.* ::
+*§ 16-497 Food donation web portal.* ::
 
 
-As used in this chapter:
-
-"Appliance" means any device that contains refrigerants and can be used for household purposes including, but not limited to, room air conditioners, refrigerators, water coolers, or freezers.
-
-"Original equipment manufacturer" means (1) a person or entity whose brand name appears on an appliance sold, offered for sale or distributed in the city or (2) a person or entity who manufacturers or has manufactured an appliance sold, offered for sale or distributed in the city.
-
-"Recover" or "recovery" means to remove refrigerants from an appliance in such a way that the refrigerants are not released into the atmosphere pursuant to subpart F of 40 CFR part 82.
-
-"Refrigerants" means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A "substitute substance" shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use.
-
-"Residential generator" means any person, entity, agency, or institution in the city of New York that receives solid waste or recycling collection service from the department.
-
-"Room air conditioner" means any electrical appliance that has a compressor, a condenser, an evaporator and a fan to cool and dehumidify the surrounding air and that is capable in ordinary usage of being mounted in a window or through a wall.
-
-"Serviced by the department" means the recovery of refrigerants by the department from appliances that are set out for department collection in the city of New York.
+Within eighteen months after the effective date of the local law that added this section, the department or another agency or office designated by the mayor, shall, in conjunction with the department of information technology and telecommunications, create or modify and maintain a web portal that will allow prospective food donors and recipients, including but not limited to restaurants, grocery stores, produce markets, dining facilities and food rescue organizations, to post notifications concerning the availability of food, including food that would otherwise go to waste, and to arrange for the transportation or retrieval of such food. Such portal shall, at a minimum, allow (i) a prospective food donor to describe the type and amount of food available, including any information necessary to keep the food safe for human consumption, such as refrigeration requirements, as well as other information necessary to facilitate its donation, (ii) a prospective food recipient to specify the type and amount of food donations it will accept and the areas of the city from which it will accept donations and to receive prompt notification concerning the availability of food satisfying such specifications, and (iii) a prospective food donor and a prospective food recipient to communicate directly through a messaging system within such portal.
 
 
-
-
-
-
-*§ 16-481 Original equipment manufacturer responsibility for recovery.* ::
-
-
-a. On and after July first, two thousand fourteen, original equipment manufacturers shall be responsible for the lawful recovery of refrigerants from their appliances that are disposed of by residential generators.
-
-b. An original equipment manufacturer may elect to (i) establish its own refrigerant recovery program, (ii) participate with other original equipment manufacturers in a refrigerant recovery program, or (iii) have its appliances serviced by the department in the refrigerant recovery program provided pursuant to section 16-482 of this chapter. No program established pursuant to paragraph one or two of this subdivision may include curbside collection of appliances.
-
-
-
-
-
-
-*§ 16-482 Department refrigerant recovery program.* ::
-
-
-a. The department shall provide a program for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
-
-b. The department shall establish, by rule, a fee for the recovery of refrigerants from appliances that are set out for department collection in the city of New York.
-
-c. An original equipment manufacturer whose appliance is serviced by the department shall be billed by the department and shall be responsible for the payment of the fee established by the department for the recovery of refrigerants.
-
-
-
-
-
-
-*§ 16-483 Improper disposal of appliances.* ::
-
-
-No original equipment manufacturer or its agent shall dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants.
-
-
-
-
-
-
-*§ 16-484 Enforcement.* ::
-
-
-a. The department shall have the authority to enforce the provisions of this chapter.
-
-b. Any original equipment manufacturer or agent of such manufacturer who violates section 16-483 of this chapter shall be liable for a civil penalty of five hundred dollars for each violation.
-
-
-
-
-
-
-*§ 16-485 Rulemaking authority.* ::
-
-
-The department shall be authorized to promulgate such rules as are necessary to implement the provisions of this chapter, including but not limited to rules relating to reporting by original equipment manufacturers and registration with the department by such manufacturers, which registration may require the submission of information related to such manufacturers' refrigerant recovery programs, if any, and establishing penalties for violations of such rules.
-
-
-
-
-
-
-*§ 16-486 Severability.* ::
-
-
-If any provision of this local law shall be adjudged to be unconstitutional or invalid, such judgment shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the provision directly involved in the controversy in which such judgment shall have been rendered.
 
 
 
@@ -3179,21 +3194,6 @@ d. Pursuant to subdivision 4 of section 27-2805 of the environmental conservatio
 a. Pursuant to subdivision 3 of section 27-2805 of the environmental conservation law, the paper carryout bag reduction fee imposed pursuant to section 16-491 shall not apply to any customer using the supplemental nutritional assistance program, special supplemental nutrition program for women, infants and children, or any successor programs used as full or partial payment for the items purchased.
 
 b. Pursuant to subparagraph (1) of paragraph (b) of subdivision 6 of section 27-2805 of the environmental conservation law, the exemptions provided for in section 1116 of the tax law, other than the exemptions in paragraphs (1), (2) and (3) of subdivision (a) of such section, shall not apply to the paper carryout bag reduction fee imposed pursuant to section 16-491.
-
-
-
-
-
-
-Chapter 4-G: Food Donation Web Portal
---------------------------------------------------
-
-
-
-*§ 16-497 Food donation web portal.* ::
-
-
-Within eighteen months after the effective date of the local law that added this section, the department or another agency or office designated by the mayor, shall, in conjunction with the department of information technology and telecommunications, create or modify and maintain a web portal that will allow prospective food donors and recipients, including but not limited to restaurants, grocery stores, produce markets, dining facilities and food rescue organizations, to post notifications concerning the availability of food, including food that would otherwise go to waste, and to arrange for the transportation or retrieval of such food. Such portal shall, at a minimum, allow (i) a prospective food donor to describe the type and amount of food available, including any information necessary to keep the food safe for human consumption, such as refrigeration requirements, as well as other information necessary to facilitate its donation, (ii) a prospective food recipient to specify the type and amount of food donations it will accept and the areas of the city from which it will accept donations and to receive prompt notification concerning the availability of food satisfying such specifications, and (iii) a prospective food donor and a prospective food recipient to communicate directly through a messaging system within such portal.
 
 
 

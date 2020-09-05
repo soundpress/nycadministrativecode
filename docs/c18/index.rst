@@ -6810,6 +6810,221 @@ b. Within forty-five days after the end of each calendar year, the department sh
 
 
 
+Chapter 15: Food Service Establishments
+--------------------------------------------------
+
+
+
+*§ 17-1501 Definitions.* ::
+
+
+As used in this Chapter the following terms shall have the following meanings:
+
+a. "Consultative inspection" means an educational sanitary inspection of a food service establishment that shall not result in fines or a grade.
+
+b. "Covered languages" means Chinese, English, Haitian Creole, Korean, Bengali, Russian and Spanish, and any other language determined by the department.
+
+c. "Critical violations" shall have the meaning it is given in section 23-01 of title 24 of the rules of the city of New York.
+
+d. "Food service establishment" means any establishment inspected pursuant to the restaurant grading program established pursuant to subdivision a of section 81.51 of the health code of the city of New York.
+
+e. "Food service establishment inspector" means any individual employed by the department who as part of his or her duties conducts inspections of food service establishments pursuant to subdivision a of section 81.51 of the health code of the city of New York.
+
+f. "General violations" shall have the meaning it is given in section 23-01 of title 24 of the rules of the city of New York.
+
+g. "Imminent health hazard or public health hazard" shall have the meaning it is given in section 81.03 of the health code of the city of New York.
+
+h. "Initial inspection" means the first sanitary inspection within an inspection cycle.
+
+i. "Inspection cycle" means a series of related inspections of food service establishments consisting of at least an initial inspection and including, if triggered by the initial or any subsequent inspections within that cycle, a reinspection and any compliance inspections conducted by the department because of a previous inspection score in that cycle.
+
+j. "Notice of violation" means a written notice issued by a food service establishment inspector alleging that there was a violation of law or regulation at the food service establishment on the day of the food service establishment inspection.
+
+k. "Sanitary inspection" means any on-site review by the department of a food service establishment's physical facilities, food handling operations, equipment, sanitary condition, maintenance, and worker hygiene practices. The term may include, but shall not be limited to include, initial, reinspection, compliance and pre-permit inspections.
+
+
+
+
+
+
+*§ 17-1502 Food Service Establishment Inspection Code of Conduct.* ::
+
+
+a. The commissioner shall develop a code of conduct pertaining to sanitary inspections. The inspection code of conduct shall inform owners and operators of food service establishments of their rights as they relate to sanitary inspections.
+
+b. The inspection code of conduct shall be in the form of a written document, drafted in plain language. The department shall distribute the inspection code of conduct to all food service establishment inspectors and food service establishments. Food service establishment inspectors shall also distribute the inspection code of conduct to food service establishment owners or operators prior to the beginning of an initial inspection. The department shall make the inspection code of conduct available on the department's website in the covered languages.
+
+c. The code of conduct shall include, but not be limited to, the following requirements:
+
+   (1) the food service establishment inspector shall behave in a professional and courteous manner;
+
+   (2) upon arriving at the food service establishment to perform a sanitary inspection, the food service establishment inspector shall immediately identify himself or herself to the staff of the food service establishment, and note the type of inspection, in a manner that does not unreasonably interfere with the dining experience of patrons;
+
+   (3) the food service establishment inspector shall be as unobtrusive as possible during the inspection while conducting the inspection;
+
+   (4) the food service establishment inspector shall return any equipment he or she moved back to its original location, and reassemble any equipment he or she disassembled, during the course of the inspection;
+
+   (5) the food service establishment inspector shall have a sound knowledge of all relevant health code provisions and any other applicable laws and regulations.
+
+   (6) the food service establishment inspector shall meaningfully communicate with the food service establishment owner or operator, and if necessary, utilize language assistance services to facilitate meaningful communication;
+
+   (7) the food service establishment inspector shall answer reasonable questions relating to the inspection;
+
+   (8) the food service establishment inspector shall enforce agency rules in a fair and impartial manner;
+
+   (9) the food service establishment inspector shall, upon finding a violation, explain to the food service establishment owner or operator how to remedy such violation.
+
+   (10) the food service establishment inspector must provide information informing the food service establishment owner or operator how such owner or operator may contest a notice of violation before the relevant local tribunal; and
+
+(11) the food service establishment inspector shall provide information on how the food service establishment owner or operator may file a comment, compliment, or complaint about an inspector.
+
+   d. The commissioner shall regularly, but no less frequently than every two years, review and update the inspection code of conduct, as necessary.
+
+e. Nothing in this section or in the inspection code of conduct shall be construed to create a cause of action or constitute a defense in any legal, administrative, or other proceeding.
+
+
+
+
+
+
+*§ 17-1503 Food Service Establishment Advisory Board.* ::
+
+
+a. There shall be an advisory board to advise the commissioner concerning matters related to the food service establishment sanitary inspection program and its effect on the restaurant industry, food safety and public health.
+
+b. Such advisory board shall consist of twenty members as follows:
+
+   i. Ten members shall be appointed by the mayor, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and four such members shall operate food service establishments;
+
+   ii. Nine members shall be appointed by the speaker of the council, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and three such members shall operate a food service establishment;
+
+   iii. The commissioner of the department of health and mental hygiene shall serve ex officio.
+
+c. At the invitation of the department, other individuals may participate in the discussions of the board.
+
+d. Each member, other than the member serving in an ex officio capacity, shall serve for a term of two years, to commence upon the first meeting of the advisory board. Any vacancies in the membership of the advisory board shall be filled in the same manner as the original appointment. A person filling such vacancy shall serve for the unexpired portion of the term of the succeeded member.
+
+e. No member of the advisory board shall be removed except for cause and upon notice and hearing by the appropriate appointing official.
+
+f. Members of the advisory board shall serve without compensation and shall meet no less often than every three months.
+
+g. The agendas for the first four meetings of the advisory board shall include, but not be limited to:
+
+   1. a review of current health code violations for which points are assigned, including those violations that do not bear directly on food safety and public health;
+
+   2. a review of the current food safety inspector training curriculum;
+
+   3. a review of the effect of letter grading on public health and food safety, including information on the top ten most commonly cited violations in the previous year and any change in the incidences of illness from food borne pathogens; and
+
+   4. a review of the relationship between the food service industry and the department.
+
+h. On January 1, 2015, and every year thereafter on January first, the advisory board shall submit a report to the mayor, the commissioner, and the speaker of the council. Such report shall include, but not be limited to:
+
+   1. an assessment of the restaurant inspection program and its effect on the restaurant industry, public health and food safety, including information on the top ten most commonly cited violations in the previous year and any change in the incidences of illness from food borne pathogens; and
+
+   2. specific recommendations for changes and/or improvements to the restaurant inspection program and actions, if any, taken by the department in response to such recommendations.
+
+
+
+
+
+
+*§ 17-1504 Food Service Establishment Consultative Inspection Program.* ::
+
+
+a. The department shall implement a consultative inspection program for food service establishments.
+
+b. Such consultative inspections shall be optional, and performed for educational and informational purposes only. A consultative inspection shall not result in a notice of violation being issued for general violations, critical violations, imminent health hazards or public health hazards. A consultative inspection shall not impact a food service establishment's inspection cycle.
+
+c. Upon completion of a consultative inspection, the inspector shall review the results with the owner or operator of the food service establishment, and advise the owner or operator of potential violations and how to remedy such violations.
+
+d. Nothing in this section shall prohibit the department from taking appropriate action if a food service establishment fails to remedy a public health hazard at the time of the consultative inspection.
+
+e. The department may charge a fee which shall be set by rule promulgated by the commissioner.
+
+f. The department may schedule the consultative inspection based on factors, set by rule promulgated by the commissioner, including but not limited to demand, prioritization according to inspection history, and the inspection cycle of the food service establishment.
+
+g. Within the consultative inspection program for food service establishments, the department shall develop a system for newly licensed food service establishments whereby such establishments may schedule the consultative inspection prior to their first initial inspections for a nominal fee which shall be set by rule promulgated by the commissioner.
+
+
+
+
+
+
+*§ 17-1505 [Food service establishment inspections ombuds office.]* ::
+
+
+a. Food service establishment inspections ombuds office; office established. There is hereby established within the food safety program of the department a food service establishment inspections ombuds office.
+
+b. Food service establishment inspections ombuds office; duties and responsibilities. The food service establishment inspections ombuds office shall have, but not be limited by, the following duties and responsibilities:
+
+   1. establishing a system to receive questions, comments, complaints, and compliments with respect to any food service establishment inspection, including but not limited to, the establishment, operation, and dissemination of a central telephone hotline and website to receive such questions, comments, complaints, and compliments;
+
+   2. investigating complaints received pursuant to paragraph one of this subdivision and taking any action it deems appropriate regarding such complaints, including but not limited to, withdrawing violations that concern the physical layout and/or major fixtures within a food service establishment where the department finds that such physical layout or fixture existed at the time of a prior inspection but was not the subject of a violation and the condition has not been altered since the time of such prior inspection, and identifying egregious inspection errors that ought to be rectified by the department in lieu of submission to the administrative tribunal;
+
+   3. issuing guidance letters providing informal advisory opinions on matters pertaining to food service establishment inspections, including but not limited to appropriate inspection methods and food handling techniques, either upon request or the department's own initiative. Any such guidance letter issued by the ombuds office shall be posted on the department's website upon issuance and, to the greatest extent practicable, distributed to all food service establishment operators;
+
+   4. monitoring inspection results for trends and inconsistencies, including but not limited to, via the compilation and analysis on a quarterly basis of the type and number of violations issued by each inspector; and
+
+   5. making recommendations to the commissioner regarding improvements to the food service establishment inspection process.
+
+c. Food service establishment inspections ombuds office; annual report. No later than July 1, 2014, and every July 1 thereafter, the ombuds office shall submit to the commissioner an annual report regarding its activities during the previous twelve months. The ombuds office shall forward a copy of such report to the mayor and the speaker of the council. Such report shall include, but not be limited to:
+
+   1. the number, nature, and resolution of questions, comments, complaints, and compliments received by the ombuds office;
+
+   2. the number and nature of guidance letter requested;
+
+   3. a copy of each guidance letter issued;
+
+   4. an analysis of trends and inconsistencies across inspection results; and
+
+   5. recommendations for improvements to the food service establishment inspection process in accordance with paragraph five of subdivision b of this section.
+
+
+
+
+
+
+*§ 17-1506 Inspections for social adult day cares and senior centers; reporting.* ::
+
+
+a. For purposes of this section, the following terms have the following meanings:
+
+   Food service establishment. The term “food service establishment” has the same meaning as such term is defined in section 81.03 of the New York City health code.
+
+   Senior center. The term “senior center” has the same meaning as such term is defined in section 21-201.
+
+   Social adult day care. The term “social adult day care” has the same meaning as such term is defined in section 21-201.
+
+b. Each senior center and social adult day care that is a food service establishment shall be inspected by the department at least annually in accordance with article 81 of the New York City health code.
+
+c. Inspection results and any related information for each senior center and social adult day care shall be posted and updated as necessary on the department’s website. Such inspection results shall show such senior center and social adult day care’s degree of compliance with the provisions of the New York city health code, the state sanitary code and other applicable laws that require such establishments to operate in a sanitary manner so as to protect public health.
+
+d. Beginning May 1, 2019, and by May 1 annually thereafter, the department shall submit a report to the mayor and the speaker of the city council regarding the department’s activities with respect to inspections of social adult day cares and senior centers that qualify as food service establishments. The report shall include the total number and the name of each social adult day care and senior center that qualify as a food service establishment, disaggregated by council district; the total number of such social adult day cares and senior centers inspected in the prior calendar year and information summarizing the results of such inspections, including but not limited to the number of violations cited, if any, and any required corrective action. The report shall also include the 10 most frequently cited violations during the prior calendar year for such social adult day cares and senior centers.
+
+
+
+
+
+
+
+
+*§ 17-1507 Required healthy eating information.* ::
+
+
+a. Every food service establishment that sells food for consumption on its premises shall display public information messaging created by the department pursuant to subdivision b of this section in a conspicuous location within such establishment.
+
+b. The department shall create public information messaging on healthy eating for all consumers, including, but not specific to, individuals with diet-related conditions such as diabetes, heart disease and hypertension. Such messaging shall include, but not be specific to, the risks of excessive sugar and carbohydrate intake. The department shall make such messaging available to food service establishments in each of the designated citywide languages as defined in section 23-1101.
+
+c. Any person who violates subdivision a of this section, or any rules promulgated pursuant to this section, shall be liable for a civil penalty of not more than $500, recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings.
+
+(L.L. 2019/138, 7/27/2019, eff. 7/27/2020*)
+
+* Editor's note: Pursuant to § 3 of L.L. 2019/138, subdivision c of this section is effective July 27, 2021.
+
+
+
+
 Chapter 14: Limits On Volatile Organic Compound Emissions In Carpet and Carpet Cushion
 --------------------------------------------------
 
@@ -7073,221 +7288,6 @@ Table IICarpet Cushion 24-Hour VOC Emissions Test Criteria
 
 
  
-
-
-
-
-Chapter 15: Food Service Establishments
---------------------------------------------------
-
-
-
-*§ 17-1501 Definitions.* ::
-
-
-As used in this Chapter the following terms shall have the following meanings:
-
-a. "Consultative inspection" means an educational sanitary inspection of a food service establishment that shall not result in fines or a grade.
-
-b. "Covered languages" means Chinese, English, Haitian Creole, Korean, Bengali, Russian and Spanish, and any other language determined by the department.
-
-c. "Critical violations" shall have the meaning it is given in section 23-01 of title 24 of the rules of the city of New York.
-
-d. "Food service establishment" means any establishment inspected pursuant to the restaurant grading program established pursuant to subdivision a of section 81.51 of the health code of the city of New York.
-
-e. "Food service establishment inspector" means any individual employed by the department who as part of his or her duties conducts inspections of food service establishments pursuant to subdivision a of section 81.51 of the health code of the city of New York.
-
-f. "General violations" shall have the meaning it is given in section 23-01 of title 24 of the rules of the city of New York.
-
-g. "Imminent health hazard or public health hazard" shall have the meaning it is given in section 81.03 of the health code of the city of New York.
-
-h. "Initial inspection" means the first sanitary inspection within an inspection cycle.
-
-i. "Inspection cycle" means a series of related inspections of food service establishments consisting of at least an initial inspection and including, if triggered by the initial or any subsequent inspections within that cycle, a reinspection and any compliance inspections conducted by the department because of a previous inspection score in that cycle.
-
-j. "Notice of violation" means a written notice issued by a food service establishment inspector alleging that there was a violation of law or regulation at the food service establishment on the day of the food service establishment inspection.
-
-k. "Sanitary inspection" means any on-site review by the department of a food service establishment's physical facilities, food handling operations, equipment, sanitary condition, maintenance, and worker hygiene practices. The term may include, but shall not be limited to include, initial, reinspection, compliance and pre-permit inspections.
-
-
-
-
-
-
-*§ 17-1502 Food Service Establishment Inspection Code of Conduct.* ::
-
-
-a. The commissioner shall develop a code of conduct pertaining to sanitary inspections. The inspection code of conduct shall inform owners and operators of food service establishments of their rights as they relate to sanitary inspections.
-
-b. The inspection code of conduct shall be in the form of a written document, drafted in plain language. The department shall distribute the inspection code of conduct to all food service establishment inspectors and food service establishments. Food service establishment inspectors shall also distribute the inspection code of conduct to food service establishment owners or operators prior to the beginning of an initial inspection. The department shall make the inspection code of conduct available on the department's website in the covered languages.
-
-c. The code of conduct shall include, but not be limited to, the following requirements:
-
-   (1) the food service establishment inspector shall behave in a professional and courteous manner;
-
-   (2) upon arriving at the food service establishment to perform a sanitary inspection, the food service establishment inspector shall immediately identify himself or herself to the staff of the food service establishment, and note the type of inspection, in a manner that does not unreasonably interfere with the dining experience of patrons;
-
-   (3) the food service establishment inspector shall be as unobtrusive as possible during the inspection while conducting the inspection;
-
-   (4) the food service establishment inspector shall return any equipment he or she moved back to its original location, and reassemble any equipment he or she disassembled, during the course of the inspection;
-
-   (5) the food service establishment inspector shall have a sound knowledge of all relevant health code provisions and any other applicable laws and regulations.
-
-   (6) the food service establishment inspector shall meaningfully communicate with the food service establishment owner or operator, and if necessary, utilize language assistance services to facilitate meaningful communication;
-
-   (7) the food service establishment inspector shall answer reasonable questions relating to the inspection;
-
-   (8) the food service establishment inspector shall enforce agency rules in a fair and impartial manner;
-
-   (9) the food service establishment inspector shall, upon finding a violation, explain to the food service establishment owner or operator how to remedy such violation.
-
-   (10) the food service establishment inspector must provide information informing the food service establishment owner or operator how such owner or operator may contest a notice of violation before the relevant local tribunal; and
-
-(11) the food service establishment inspector shall provide information on how the food service establishment owner or operator may file a comment, compliment, or complaint about an inspector.
-
-   d. The commissioner shall regularly, but no less frequently than every two years, review and update the inspection code of conduct, as necessary.
-
-e. Nothing in this section or in the inspection code of conduct shall be construed to create a cause of action or constitute a defense in any legal, administrative, or other proceeding.
-
-
-
-
-
-
-*§ 17-1503 Food Service Establishment Advisory Board.* ::
-
-
-a. There shall be an advisory board to advise the commissioner concerning matters related to the food service establishment sanitary inspection program and its effect on the restaurant industry, food safety and public health.
-
-b. Such advisory board shall consist of twenty members as follows:
-
-   i. Ten members shall be appointed by the mayor, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and four such members shall operate food service establishments;
-
-   ii. Nine members shall be appointed by the speaker of the council, provided that two such members shall represent food service industry associations, two such members shall have advanced specialized training in food safety, two such members shall have advanced specialized training in nutrition, and three such members shall operate a food service establishment;
-
-   iii. The commissioner of the department of health and mental hygiene shall serve ex officio.
-
-c. At the invitation of the department, other individuals may participate in the discussions of the board.
-
-d. Each member, other than the member serving in an ex officio capacity, shall serve for a term of two years, to commence upon the first meeting of the advisory board. Any vacancies in the membership of the advisory board shall be filled in the same manner as the original appointment. A person filling such vacancy shall serve for the unexpired portion of the term of the succeeded member.
-
-e. No member of the advisory board shall be removed except for cause and upon notice and hearing by the appropriate appointing official.
-
-f. Members of the advisory board shall serve without compensation and shall meet no less often than every three months.
-
-g. The agendas for the first four meetings of the advisory board shall include, but not be limited to:
-
-   1. a review of current health code violations for which points are assigned, including those violations that do not bear directly on food safety and public health;
-
-   2. a review of the current food safety inspector training curriculum;
-
-   3. a review of the effect of letter grading on public health and food safety, including information on the top ten most commonly cited violations in the previous year and any change in the incidences of illness from food borne pathogens; and
-
-   4. a review of the relationship between the food service industry and the department.
-
-h. On January 1, 2015, and every year thereafter on January first, the advisory board shall submit a report to the mayor, the commissioner, and the speaker of the council. Such report shall include, but not be limited to:
-
-   1. an assessment of the restaurant inspection program and its effect on the restaurant industry, public health and food safety, including information on the top ten most commonly cited violations in the previous year and any change in the incidences of illness from food borne pathogens; and
-
-   2. specific recommendations for changes and/or improvements to the restaurant inspection program and actions, if any, taken by the department in response to such recommendations.
-
-
-
-
-
-
-*§ 17-1504 Food Service Establishment Consultative Inspection Program.* ::
-
-
-a. The department shall implement a consultative inspection program for food service establishments.
-
-b. Such consultative inspections shall be optional, and performed for educational and informational purposes only. A consultative inspection shall not result in a notice of violation being issued for general violations, critical violations, imminent health hazards or public health hazards. A consultative inspection shall not impact a food service establishment's inspection cycle.
-
-c. Upon completion of a consultative inspection, the inspector shall review the results with the owner or operator of the food service establishment, and advise the owner or operator of potential violations and how to remedy such violations.
-
-d. Nothing in this section shall prohibit the department from taking appropriate action if a food service establishment fails to remedy a public health hazard at the time of the consultative inspection.
-
-e. The department may charge a fee which shall be set by rule promulgated by the commissioner.
-
-f. The department may schedule the consultative inspection based on factors, set by rule promulgated by the commissioner, including but not limited to demand, prioritization according to inspection history, and the inspection cycle of the food service establishment.
-
-g. Within the consultative inspection program for food service establishments, the department shall develop a system for newly licensed food service establishments whereby such establishments may schedule the consultative inspection prior to their first initial inspections for a nominal fee which shall be set by rule promulgated by the commissioner.
-
-
-
-
-
-
-*§ 17-1505 [Food service establishment inspections ombuds office.]* ::
-
-
-a. Food service establishment inspections ombuds office; office established. There is hereby established within the food safety program of the department a food service establishment inspections ombuds office.
-
-b. Food service establishment inspections ombuds office; duties and responsibilities. The food service establishment inspections ombuds office shall have, but not be limited by, the following duties and responsibilities:
-
-   1. establishing a system to receive questions, comments, complaints, and compliments with respect to any food service establishment inspection, including but not limited to, the establishment, operation, and dissemination of a central telephone hotline and website to receive such questions, comments, complaints, and compliments;
-
-   2. investigating complaints received pursuant to paragraph one of this subdivision and taking any action it deems appropriate regarding such complaints, including but not limited to, withdrawing violations that concern the physical layout and/or major fixtures within a food service establishment where the department finds that such physical layout or fixture existed at the time of a prior inspection but was not the subject of a violation and the condition has not been altered since the time of such prior inspection, and identifying egregious inspection errors that ought to be rectified by the department in lieu of submission to the administrative tribunal;
-
-   3. issuing guidance letters providing informal advisory opinions on matters pertaining to food service establishment inspections, including but not limited to appropriate inspection methods and food handling techniques, either upon request or the department's own initiative. Any such guidance letter issued by the ombuds office shall be posted on the department's website upon issuance and, to the greatest extent practicable, distributed to all food service establishment operators;
-
-   4. monitoring inspection results for trends and inconsistencies, including but not limited to, via the compilation and analysis on a quarterly basis of the type and number of violations issued by each inspector; and
-
-   5. making recommendations to the commissioner regarding improvements to the food service establishment inspection process.
-
-c. Food service establishment inspections ombuds office; annual report. No later than July 1, 2014, and every July 1 thereafter, the ombuds office shall submit to the commissioner an annual report regarding its activities during the previous twelve months. The ombuds office shall forward a copy of such report to the mayor and the speaker of the council. Such report shall include, but not be limited to:
-
-   1. the number, nature, and resolution of questions, comments, complaints, and compliments received by the ombuds office;
-
-   2. the number and nature of guidance letter requested;
-
-   3. a copy of each guidance letter issued;
-
-   4. an analysis of trends and inconsistencies across inspection results; and
-
-   5. recommendations for improvements to the food service establishment inspection process in accordance with paragraph five of subdivision b of this section.
-
-
-
-
-
-
-*§ 17-1506 Inspections for social adult day cares and senior centers; reporting.* ::
-
-
-a. For purposes of this section, the following terms have the following meanings:
-
-   Food service establishment. The term “food service establishment” has the same meaning as such term is defined in section 81.03 of the New York City health code.
-
-   Senior center. The term “senior center” has the same meaning as such term is defined in section 21-201.
-
-   Social adult day care. The term “social adult day care” has the same meaning as such term is defined in section 21-201.
-
-b. Each senior center and social adult day care that is a food service establishment shall be inspected by the department at least annually in accordance with article 81 of the New York City health code.
-
-c. Inspection results and any related information for each senior center and social adult day care shall be posted and updated as necessary on the department’s website. Such inspection results shall show such senior center and social adult day care’s degree of compliance with the provisions of the New York city health code, the state sanitary code and other applicable laws that require such establishments to operate in a sanitary manner so as to protect public health.
-
-d. Beginning May 1, 2019, and by May 1 annually thereafter, the department shall submit a report to the mayor and the speaker of the city council regarding the department’s activities with respect to inspections of social adult day cares and senior centers that qualify as food service establishments. The report shall include the total number and the name of each social adult day care and senior center that qualify as a food service establishment, disaggregated by council district; the total number of such social adult day cares and senior centers inspected in the prior calendar year and information summarizing the results of such inspections, including but not limited to the number of violations cited, if any, and any required corrective action. The report shall also include the 10 most frequently cited violations during the prior calendar year for such social adult day cares and senior centers.
-
-
-
-
-
-
-
-
-*§ 17-1507 Required healthy eating information.* ::
-
-
-a. Every food service establishment that sells food for consumption on its premises shall display public information messaging created by the department pursuant to subdivision b of this section in a conspicuous location within such establishment.
-
-b. The department shall create public information messaging on healthy eating for all consumers, including, but not specific to, individuals with diet-related conditions such as diabetes, heart disease and hypertension. Such messaging shall include, but not be specific to, the risks of excessive sugar and carbohydrate intake. The department shall make such messaging available to food service establishments in each of the designated citywide languages as defined in section 23-1101.
-
-c. Any person who violates subdivision a of this section, or any rules promulgated pursuant to this section, shall be liable for a civil penalty of not more than $500, recoverable in a proceeding before any tribunal established within the office of administrative trials and hearings or within any agency of the city of New York designated to conduct such proceedings.
-
-(L.L. 2019/138, 7/27/2019, eff. 7/27/2020*)
-
-* Editor's note: Pursuant to § 3 of L.L. 2019/138, subdivision c of this section is effective July 27, 2021.
 
 
 
