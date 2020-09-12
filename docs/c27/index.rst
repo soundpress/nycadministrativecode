@@ -6044,529 +6044,6 @@ c. By December first 2017, and every third year thereafter, such designated offi
 
 
 
-Chapter 5-A: Water Pollution Control
---------------------------------------------------
-
-
-
-
-**Subchapter 1: General**
-
-
-
-*§ 24-540 Policy.* ::
-
-
-Land development and associated increases in site impervious cover increase stormwater runoff causing flooding, soil erosion, and sediment transport and deposition in waterways. A high percentage of impervious area correlates with a higher rate of stormwater runoff, which generates greater pollutant loadings to the city’s separate stormwater and combined sewer systems. Pollutants found in urban runoff include, but are not limited to, nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs).
-
-Clearing and grading during construction may increase soil erosion and add to the loss of native vegetation necessary for terrestrial and aquatic habitats. Improperly designed and constructed stormwater management practices increase the velocity of stormwater runoff thereby increasing erosion and sedimentation. Impervious surfaces allow less water to percolate into the soil, thereby decreasing groundwater recharge and stream baseflow. Stormwater runoff, soil erosion and nonpoint source pollution can be controlled and minimized through the regulation of stormwater runoff from land development activities. Regulation of land development activities by means of performance standards governing long-term stormwater management and site design produces development compatible with the natural functions of a particular site and thereby mitigates the adverse effects of erosion and sedimentation from development.
-
-Material handling and storage, equipment maintenance and cleaning, and other activities at industrial facilities are often exposed to stormwater, which can pick up pollutants and transport them to surface waters directly or via a storm sewer. Appropriate stormwater management at industrial facilities can reduce these impacts.
-
-This chapter establishes stormwater management controls meeting the requirements of state and federal law in areas of the city where stormwater does not pass through wastewater treatment plants before it enters the waters of the state. In these areas water borne pollutants in stormwater runoff are more likely to enter and have an adverse impact on the waters of the state.
-
-The purpose and intent of this chapter is to (i) reduce pollutants discharged in stormwater runoff from construction activities in such areas to the maximum extent practicable through appropriate erosion and sediment controls; (ii) minimize, to the maximum extent practicable, increases in stormwater runoff volume and velocity, and pollutant loading in stormwater runoff, from development sites in such areas; (iii) ensure the proper maintenance of post-construction stormwater management practices; and (iv) ensure compliance by certain industrial facilities in such areas with applicable requirements to manage stormwater runoff in order to reduce pollutants in stormwater from industrial activities to the maximum extent practicable.
-
-
-
-
-
-
-
-
-*§ 24-541 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Authorized inspection agent. The term “authorized inspection agent” means an individual who has been authorized pursuant to a contract entered into by the department to conduct inspections on behalf of the department.
-
-Commissioner. The term “commissioner” means the commissioner of environmental protection or the authorized representative of such commissioner.
-
-Covered development project. The term “covered development project” means development activity that involves or results in an amount of soil disturbance within the MS4 area greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section 24-553. Such term includes development activity that is part of a larger common plan of development or sale involving or resulting in soil disturbance within the MS4 area greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section 24-553. Such term shall include all development activity within the MS4 area that requires a stormwater pollution prevention plan pursuant to the NYSDEC construction general permit.
-
-Department. The term “department” means the department of environmental protection.
-
-Detention system. The term “detention system” means a system that slows and temporarily holds storm water runoff so that it can be released at a controlled rate.
-
-Developer. The term “developer” means a person that owns or leases land on which development activity that is part of a covered development project is occurring, and/or a person that has operational control over the development activity’s construction plans and specifications, including the ability to make modifications to the construction plans and specifications.
-
-Development activity. The term “development activity” means soil disturbance on a site including but not limited to land contour work, clearing, grading, excavation, demolition, construction, reconstruction, new development, redevelopment, creation or replacement of impervious surface, stockpiling activities or placement of fill. Clearing activities include but are not limited to the cutting and skidding of trees, stump removal and/or brush root removal. Such term does not include routine maintenance (such as road resurfacing) that is performed to maintain the original line and grade, hydraulic capacity, or original purpose of a facility.
-
-Erosion and sediment controls. The term “erosion and sediment controls” means stormwater management practices designed to minimize the discharge of pollutants during development activities including, but not limited to, structural erosion and sediment control practices, construction sequencing to minimize exposed soils, soil stabilization, dewatering control measures, and other pollution prevention and good housekeeping practices appropriate for construction sites.
-
-Impaired water. The term “impaired water” includes (i) a water body for which NYSDEC has established a total maximum daily load (“TMDL”), (ii) a water body for which NYSDEC expects that existing controls such as permits will resolve the impairment, and (iii) a water body identified by NYSDEC as needing a TMDL. A list of impaired waters is issued by NYSDEC pursuant to section 303(d) of the federal water pollution control act, chapter 26 of title 33 of the United States code.
-
-Industrial stormwater source. The term “industrial stormwater source” means any premises or facility that is subject to the MSGP.
-
-Larger common plan of development or sale. The term “larger common plan of development or sale” means a contiguous area where multiple separate and distinct development activities are occurring, or will occur, under one plan. The term “plan” in “larger common plan of development or sale” is broadly defined as any announcement or piece of documentation including a sign, public notice of hearing, sales pitch, advertisement, drawing, permit application, uniform land use review procedure (ULURP) application, state environmental quality review act (SEQRA) or city environmental quality review (CEQR) application, application for a special permit, authorization, variance or certification pursuant to the zoning resolution, subdivision application, computer design, or physical demarcation (including boundary signs, lot stakes, and surveyor markings) indicating that development activities may occur on a specific plot. Such term does not include area-wide rezonings or projects discussed in general planning documents. For discrete development activities that are located within a larger common plan of development or sale that are at least 1/4 mile apart, each activity may be treated as a separate plan of development or sale provided that any interconnecting road, pipeline or utility project that is part of the same “common plan” is not concurrently being disturbed.
-
-Multi sector general permit or “MSGP.” The term “multi sector general permit” or “MSGP” means the New York state department of environmental conservation SPDES multi sector general permit for stormwater discharges associated with industrial activity, Permit No. GP-0-12-001 or its successor.
-
-MS4 SWPPP acceptance form. The term “MS4 SWPPP acceptance form” means the form developed by NYSDEC to be used to indicate acceptance of a SWPPP by a municipality.
-
-MS4 area. The term “MS4 area” means those portions of the city of New York served by separate storm sewers and separate stormwater outfalls owned or operated by the city of New York and areas in which municipal operations and facilities drain by overland flow to waters of the state, as determined by the department and described on maps of the MS4 area set forth in the rules of the department.
-
-Municipal operations and facilities. The term “municipal operations and facilities” means any operation or facility serving a New York city governmental purpose and over which the city of New York has operational control.
-
-New development. The term “new development” means any construction or disturbance of a parcel of land that is currently undisturbed or unaltered by human activities and in a natural state.
-
-Notice of intent or NOI. The term “notice of intent” or “NOI” means the document submitted to NYSDEC to obtain coverage under the NYSDEC construction general permit.
-
-Notice of termination or NOT. The term “notice of termination” or “NOT” means the document submitted to NYSDEC to terminate coverage under the NYSDEC construction general permit.
-
-NYC MS4 Permit. The term “NYC MS4 permit” means the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York city, SPDES No. NY-0287890 or its successor.
-
-NYSDEC. The term “NYSDEC” means the New York state department of environmental conservation.
-
-NYSDEC construction general permit. The term “NYSDEC construction general permit” means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from construction activities, Permit No. GP-0-15-002 or its successor.
-
-NYSDEC MS4 general permit. The term “NYSDEC MS4 general permit” means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from municipal separate storm sewer systems (MS4s), Permit No. GP-0-15-003 or its successor.
-
-Owner. The term “owner” means a person having legal title to premises, a mortgagee or vendee in possession, a trustee in bankruptcy, a receiver, or any other person having legal ownership or control of premises.
-
-Person. The term “person” means an individual, corporation, partnership, limited liability company or other legal entity.
-
-Pollutant. The term “pollutant” means dredged soil, filter backwash, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand and industrial, municipal, and agricultural waste discharged into water; which may cause or might reasonably be expected to cause pollution of the waters of the state in contravention of the standards or guidance values adopted as provided in subdivision a of section 750-1.2 of title 6 of the New York codes, rules and regulations.
-
-Pollutants of concern. The term “pollutants of concern” means pollutants that might reasonably be expected to be present in stormwater in quantities that may cause or contribute to an exceedance of water quality standards. These pollutants include but are not limited to nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs).
-
-Post-construction stormwater management facility or post-construction facility. The term “post-construction stormwater management facility” or “post-construction facility” means a stormwater management practice serving a developed site and consisting of technology or strategies designed to reduce pollutants in stormwater runoff or reduce runoff rate or volume from the developed site through infiltration, retention, detention, or other method or treatment. Such term includes, but is not limited to, detention systems and retention systems.
-
-Premises. The term “premises” means any building, lot, parcel of land, or portion of land, whether improved or unimproved, including adjacent sidewalks and parking strips.
-
-Qualified inspector. The term “qualified inspector” means a person who is knowledgeable in the principles and practices of erosion and sediment control.
-
-Qualified professional. The term “qualified professional” means a person who is knowledgeable in the principles and practices of stormwater management and treatment.
-
-Redevelopment. The term “redevelopment” means reconstruction of or modification to any existing previously developed land such as residential, commercial, industrial, institutional or road/highway, which involves soil disturbance. Redevelopment is distinguished from new development in that new development refers to construction on land where there had not been previous construction. Redevelopment specifically applies to constructed areas with impervious surface or urban fill.
-
-Retention system. The term “retention system” means a system that captures storm water runoff on site with no release.
-
-Separate stormwater outfall. The term “separate stormwater outfall” means a point where stormwater from a storm sewer or other source of concentrated stormwater flow, owned or operated by the city of New York, is discharged into a water of the state or to a separate storm sewer system that requires coverage under the NYSDEC MS4 general permit.
-
-Storm sewer. The term “storm sewer” means a sewer, the primary purpose of which is to carry stormwater.
-
-Stormwater or stormwater runoff. The term “stormwater” or “stormwater runoff” means runoff that is generated when precipitation from rain events or snowmelt flows overland and does not percolate into the ground.
-
-Stormwater construction permit. The term “stormwater construction permit” means a permit issued by the department authorizing development activity on land on which there is a covered development project in accordance with an approved stormwater pollution prevention plan (SWPPP).
-
-Stormwater maintenance permit. The term “stormwater maintenance permit” means a permit issued by the department where maintenance of post-construction stormwater management facilities by owners of real property is required.
-
-Stormwater management practices or SMPs. The term “stormwater management practices” or “SMPs” means measures to prevent flood damage and/or to prevent or reduce point source or nonpoint source pollution inputs to stormwater runoff and water bodies. Such term includes erosion and sediment controls, post-construction stormwater management facilities, and practices to manage stormwater runoff from industrial activities.
-
-Stormwater pollution prevention plan or SWPPP. The term “stormwater pollution prevention plan” or “SWPPP” means (i) when used in connection with a covered development project, a plan for controlling stormwater runoff and pollutants during construction and, where required by department rules, after construction is completed, or (ii) when used in connection with an industrial stormwater source, a plan, which is required by the MSGP, for controlling stormwater runoff and pollutants.
-
-Waters of the state. The term “waters of the state” means lakes, bays, sounds, ponds, impounding reservoirs, springs, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Atlantic ocean within the territorial seas of the state of New York and all other bodies of surface water, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters that do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction.
-
-
-
-
-
-
-
-
-*§ 24-542 Entry and inspection.* ::
-
-
-An authorized representative of the department may enter on any property, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, to inspect for compliance with this chapter and rules of the department promulgated hereunder.
-
-
-
-
-
-
-
-
-
-**Subchapter 2: Construction and Post-Construction Stormwater Controls**
-
-
-
-*§ 24-550 General.* ::
-
-
-This subchapter governs certain land development activities within the MS4 area.
-
-
-
-
-
-
-
-
-*§ 24-551 Stormwater construction permit required.* ::
-
-
-It shall be unlawful to commence or engage in any development activity on the site of a covered development project unless and until a stormwater construction permit has been issued by the department.
-
-
-
-
-
-
-
-
-*§ 24-552 Review of stormwater pollution prevention plan or SWPPP.* ::
-
-
-Before the commencement of development activity on the site of a covered development project the developer must submit to the department for review in accordance with rules of the department a stormwater pollution prevention plan, certified by a qualified professional, and for projects covered by the NYSDEC construction general permit a copy of the NOI. The department or a qualified professional designated by the department shall review the SWPPP within time periods to be specified in the rules of the department. If the department accepts the SWPPP the department shall issue a stormwater construction permit to the developer and, for projects subject to the NYSDEC construction general permit, shall issue an MS4 SWPPP acceptance form for filing with NYSDEC. If the department rejects the SWPPP the department shall send notice of such rejection to the developer indicating the specific deficiencies that caused the department to reject the SWPPP. The department may require that the SWPPP or other documents be submitted electronically.
-
-
-
-
-
-
-
-
-*§ 24-553 Rules.* ::
-
-
-The department shall promulgate rules to carry out the provisions of this subchapter in accordance with the NYC MS4 permit and the NYSDEC construction general permit, including but not limited to rules that:
-
-a. Set forth the content of SWPPPs, consistent with the NYSDEC construction general permit, including identifying those development projects requiring only erosion and sediment controls during construction and those development projects requiring erosion and sediment controls and post-construction stormwater management facilities.
-
-b. Establish design standards for erosion and sediment controls and post-construction stormwater management facilities which shall not be less stringent than the standards set forth or incorporated by reference in the NYSDEC construction general permit.
-
-c. Establish exemptions from permit requirements, consistent with the NYC MS4 permit and the NYSDEC construction general permit.
-
-d. After completion of the lot size soil disturbance study required by the NYC MS4 permit, provide for the regulation of development activity of less than one acre, based either on total disturbance of soil or on amount of impervious surface created or replaced, where an appropriate reduction in the threshold is necessary in accordance with the NYC MS4 permit.
-
-e. Establish procedures and fees for the review of SWPPPs and the issuance and renewal of permits required by this subchapter.
-
-f. Establish training, experience and/or education requirements for qualified professionals and qualified inspectors, which shall not be less stringent than those required by the NYSDEC construction general permit.
-
-g. Establish record keeping, inspection and reporting requirements for applicants and permittees to monitor compliance with this subchapter and approved SWPPPs.
-
-h. Establish requirements for compliance certifications by contractors to be included with SWPPPs.
-
-i. Establish standards for the maintenance, inspection, repair and replacement of required erosion and sediment controls and post-construction stormwater management facilities.
-
-
-
-
-
-
-
-
-*§ 24-554 SWPPP to be retained on site.* ::
-
-
-A copy of the SWPPP shall be retained at the site of the project from the date of initiation of development activities to the date notice of termination is submitted to NYSDEC and shall be made available to officers and employees of the department and/or qualified inspectors authorized by the department in accordance with the rules of the department.
-
-
-
-
-
-
-
-
-*§ 24-555 Recordkeeping.* ::
-
-
-A developer shall keep and maintain records of all inspections and tests required to be performed pursuant to this subchapter and rules of the department, as follows: records of inspections and tests performed during construction must be maintained throughout construction and for 5 years after completion of construction; and records of post-construction inspections and tests must be maintained for 5 years after performance of such inspections or tests. Such records and tests shall be made available to the department in accordance with the rules of the department. The department may require such records to be maintained and provided to the department electronically.
-
-
-
-
-
-
-
-
-*§ 24-556 Compliance with terms and conditions of SWPPP required.* ::
-
-
-Every stormwater construction permit issued by the department shall include the condition that the applicant and all contractors and subcontractors performing work at the site will comply with this subchapter, rules of the department and the terms and conditions of the SWPPP. Any changes in the SWPPP are subject to the prior approval of the department in accordance with rules of the department.
-
-
-
-
-
-
-
-
-*§ 24-557 Suspension or revocation of permit.* ::
-
-
-The department may suspend or revoke a stormwater construction permit, after notice and the opportunity for a hearing in accordance with the rules of the department, when the department or NYSDEC finds that there is substantial non-compliance with this subchapter, the rules of the department, the NYSDEC construction general permit or the SWPPP, including any major change to erosion or sediment controls or any change in a post-construction stormwater management facility during construction that has or could have an effect on the discharge of pollutants, or when a permit was issued in error and conditions are such that a permit should not have been issued. When a permit is revoked or suspended all development activity at the project site shall cease and shall not be resumed until the issuance of a new permit or until such suspension is terminated except that the department may allow performance of work that is necessary to ensure public safety or to stabilize the construction site.
-
-
-
-
-
-
-
-
-*§ 24-558 Stop work order.* ::
-
-
-a. Whenever the department finds that any development activity is being executed in violation of this subchapter, the SWPPP or rules of the department to the extent that work being performed at the site has or could have an effect on the discharge of pollutants or stormwater runoff volume or velocity, the department may issue a stop work order with respect to such work.
-
-b. Such order shall be posted at the site and served personally on or mailed to the owner or developer or to the person executing the work at the site or the agent of any of them. When there is an immediate danger of a release of pollutants a verbal order to stop work may be given followed promptly by a written order in accordance with this subdivision.
-
-c. Upon issuance of a stop work order, work specified in the order shall immediately cease, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site.
-
-d. No person shall with knowledge or notice of a stop work order allow, authorize, promote, continue or cause to be continued any work covered by the stop work order, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site.
-
-e. Upon application in accordance with the rules of the department, the commissioner shall rescind the stop work order where the commissioner finds (i) that the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted or, (ii) that the stop work order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such stop work order.
-
-f. It shall be unlawful to tamper with, remove or deface a written posted stop work order from the location where it was affixed unless and until such stop work order has been rescinded by the commissioner. The owner or other person in control of the location shall ensure that the stop work order remains posted until rescinded by the commissioner.
-
-
-
-
-
-
-
-
-*§ 24-559 Post-construction stormwater management facilities.* ::
-
-
-Where post-construction stormwater management facilities are required by the department, the department shall not accept the SWPPP or issue a stormwater construction permit for the project until the execution and recording of a maintenance easement, which shall be binding on all subsequent owners of the real property served by such post-construction stormwater management facility, except where the corporation counsel has determined that such a maintenance easement is not necessary due to the property's ownership or use by a public agency or instrumentality. For post-construction stormwater management facilities subject to such an exception, when there is a subsequent conveyance or cessation of public use, the corporation counsel may require the execution and recording of a maintenance easement at that time. The easement shall provide for access to post-construction stormwater management facilities at reasonable times in accordance with law for periodic inspection by the department or qualified professionals authorized by the department to ensure that such facilities are maintained in good working condition to meet the applicable design standards. The easement shall be recorded by the grantor in the office of the city register or, if applicable, the county clerk after approval by the corporation counsel.
-
-
-
-
-
-
-
-
-*§ 24-560 Stormwater maintenance permit.* ::
-
-
-It is the duty of all owners of real property, jointly and severally, served by a post-construction stormwater management facility required by a SWPPP accepted by the department pursuant to this subchapter to provide for the inspection and maintenance of such facility in accordance with this section and the rules of the department. The department shall maintain a record of all such post-construction stormwater management facilities and the property served by each such facility. As soon as practicable after final stabilization of a site, the owner of property served by a post-construction stormwater management facility shall submit to the department a copy of the notice of termination and an application for a stormwater maintenance permit for such facility. Such owner shall provide for the renewal of such permit every 5 years in accordance with the rules of the department. The department shall issue or renew such permit upon receipt of a satisfactory inspection report certified by a qualified professional retained by the owner indicating that the facility has been installed and/or is operated and maintained in good working condition to meet applicable design standards and the rules of the department. A facility shall be maintained in good working condition throughout its useful life and replaced in accordance with the rules of the department.
-
-
-
-
-
-
-
-**Subchapter 3: Industrial Stormwater Sources**
-
-
-
-*§ 24-570 Applicability.* ::
-
-
-This subchapter applies only to portions of the city within the MS4 area.
-
-
-
-
-
-
-
-
-*§ 24-571 Authority to enter and inspect.* ::
-
-
-a. The department shall have the authority to enter and inspect any premises or facility, including, but not limited to, its equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection. Such entry and inspection shall be conducted during normal operating hours for purposes of determining whether such premises or facility generates significant contributions of pollutants of concern to an impaired water.
-
-b. The department shall have the authority to enter and inspect industrial stormwater sources including, but not limited to, their equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, and shall, at a minimum, conduct inspections of such sources in accordance with the schedule and requirements for such inspections set forth in the NYC MS4 Permit. Such entry and inspection shall be conducted during normal operating hours for purposes of determining compliance with this subchapter and any rule promulgated pursuant thereto. The department may enter and inspect such premises and facilities for purposes including, but not limited to, the following:
-
-   (1) To conduct a visual observation for evidence of unauthorized discharges, illicit connections, and potential discharges of pollutants to stormwater;
-
-   (2) To evaluate the facility's compliance with applicable MSGP requirements; and
-
-   (3) To evaluate the facility's compliance with any other relevant local stormwater requirements.
-
-
-
-
-
-
-
-
-*§ 24-572 Compliance with the MSGP.* ::
-
-
-All industrial stormwater sources must comply with all applicable conditions of the MSGP.
-
-
-
-
-
-
-
-
-*§ 24-573 Recordkeeping.* ::
-
-
-a. Industrial stormwater sources shall, upon the department's request or pursuant to the rules of the department, submit to the department any information or records necessary to determine compliance with the MSGP and this subchapter and any rule promulgated pursuant thereto. Such records may include, but need not be limited to, stormwater pollution prevention plans and reports of monitoring activities and results required pursuant to the MSGP.
-
-b. The department may require such records to be maintained and provided to the department electronically.
-
-
-
-
-
-
-
-
-
-**Subchapter 4: Enforcement**
-
-
-
-*§ 24-580 General.* ::
-
-
-Notwithstanding any other provision of law, the commissioner, and the environmental control board within the office of administrative trials and hearings, shall enforce the provisions of this chapter and the rules promulgated pursuant thereto.
-
-
-
-
-
-
-
-
-*§ 24-581 Orders.* ::
-
-
-The commissioner, and the environmental control board within the office of administrative trials and hearings, shall have the power to issue such orders as may be provided for in this chapter and the rules promulgated pursuant thereto and such additional orders as may be necessary for the enforcement of such provisions. Such orders may include, but are not limited to, orders requiring (i) inspection by a qualified inspector or qualified professional, (ii) maintenance, repair or replacement of post-construction stormwater management facilities, (iii) compliance with the MSGP through actions including, but not limited to, monitoring, analysis, and reporting or (iv) the installation, implementation and maintenance of SMPs. The department shall promulgate rules governing the appeal of such orders where they are issued by department employees or authorized inspection agents.
-
-
-
-
-
-
-
-
-*§ 24-582 Commissioner's cease and desist orders.* ::
-
-
-a. Whenever the commissioner has reasonable cause to believe that (i) a condition exists in violation of any of the provisions of sections 24-559, 24-560 or 24-572 or in violation of any order or rule issued by the board or commissioner pursuant to such provisions or to section 24-581 in furtherance of such provisions and (ii) that such condition creates or may create an imminent danger to the sewer system or to the public health or to the life or safety of persons, the commissioner may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation in which the condition is located to take such action as may be necessary to halt or prevent such condition.
-
-b. If service of the order cannot be made personally because such person cannot be located at such time then service may be made by delivering a copy to a person of suitable age and discretion at the residence or place of business of the person sought to be served. If service cannot be made personally or by such delivery to a person of suitable age and discretion because of inability to locate or to obtain the name or address of such person at such time, service may be made by conspicuously posting a copy of such order upon the property to which it relates and mailing the order to the most recent residential or business address of record of the person sought to be served. The posting and mailing of such order shall be sufficient notice of such order to all persons having a duty in relation thereto under the provisions of this subdivision.
-
-c. If the order is not complied with or so far complied with as such commissioner may regard as reasonable, within the time specified therein, such commissioner may act to halt or prevent such condition by:
-
-   i. sealing, blocking or otherwise inactivating any equipment, facility, or device;
-
-   ii. sealing, blocking or otherwise inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or
-
-   iii. any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property.
-
-d. Any person affected by such an order may make written application to the environmental control board within the office of administrative trials and hearings for a hearing. Such hearing shall be provided, pursuant to the rules of such board within such office, and shall be held within two business days after the receipt of such application. The board may suspend, modify or terminate such order.
-
-
-
-
-
-
-
-
-*§ 24-583 Environmental control board cease and desist orders.* ::
-
-
-a. In the case of any continued or knowing violation of the provisions of section 24-559, 24-560 or 24-572 or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant to such provisions or section 24-581 in furtherance of such provisions or where the board finds that the violation of any of such provisions or conditions presents or may present a danger to the environment or threatens to interfere with the operation of the sewer system, the board, after notice and the opportunity for a hearing in accordance with the rules of such board within such office, may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation to cease and desist from any activity or process which causes or is conducted so as to cause such violation within the time specified in such order.
-
-b. Such order may provide that if the order is not complied with or so far complied with as the commissioner may regard as reasonable within the time specified therein, the commissioner may take such action as shall be specified therein including but not limited to:
-
-   i. sealing, blocking or inactivating any equipment, facility or device;
-
-   ii. sealing, blocking or inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or
-
-   iii. any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property.
-
-
-
-
-
-
-
-
-*§ 24-584 Action by corporation counsel.* ::
-
-
-If the respondent fails to comply with any order issued by the environmental control board within the office of administrative trials and hearings, or the commissioner or the board or the commissioner otherwise deems it necessary, the corporation counsel, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order issued by the board or commissioner.
-
-
-
-
-
-
-
-
-*§ 24-585 Civil penalties.* ::
-
-
-Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant thereto shall be liable for a civil penalty not exceeding ten thousand dollars for each violation. In the case of a continuing violation each day's continuance shall be a separate and distinct offense. The office of administrative trials and hearings, pursuant to section 1049-a of the charter, shall have the power to impose such civil penalties. A proceeding to impose such penalties shall be commenced by the service of a notice of violation returnable to such office. Such office, after a hearing as provided in accordance with applicable law and rules, shall have the power to enforce its final decisions and orders imposing such civil penalties as if they were money judgments pursuant to subdivision d of section 1049-a of the charter. A civil penalty imposed by such office may also be collected in an action brought in the name of the city in any court of competent jurisdiction. The environmental control board within the office of administrative trials and hearings, in its discretion, may, within the limits set forth in this section, establish a schedule of civil penalties indicating the minimum and maximum penalty for each separate offense or may use a schedule adopted by the department.
-
-
-
-
-
-
-
-
-*§ 24-586 Criminal penalties.* ::
-
-
-In addition to the civil penalties set forth in section 24-585, any person who knowingly violates or fails to comply with any provision of this chapter or any order or rule issued by the commissioner, or the environmental control board within the office of administrative trials and hearings, pursuant thereto shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than two hundred fifty nor more than ten thousand dollars, or by imprisonment not exceeding thirty days, or both for each offense. In the case of a continuing violation each day's continuance shall be a separate and distinct offense. In addition to its application to any other person, the fine provided for in this paragraph shall be deemed a special fine for a corporation within the meaning of section 80.10 of the penal law of the state of New York.
-
-
-
-
-
-
-
-
-*§ 24-587 Liability to the city.* ::
-
-
-Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued pursuant thereto shall be liable to the city for any expense, including but not limited to costs for response, remediation and emergency services or any other loss or damage suffered by the city by reason of such violation.
-
-
-
-
-
-
-
-
-*§ 24-588 Service.* ::
-
-
-Unless otherwise provided in this chapter, service of any notice or order required by this subchapter may be made either personally or by mail.
-
-
-
-
-
-
-
-
-*§ 24-589 Issuance.* ::
-
-
-Officers and employees of the department and of other city agencies designated by the commissioner shall have the power to issue summonses, appearance tickets, orders and notices of violation based upon violations of this chapter or rules of the department promulgated hereunder.
-
-
-
-
-
-
-
-
-*§ 24-590 Delegation to authorized inspection agents.* ::
-
-
-a. The commissioner shall have the authority to delegate to authorized inspection agents the authority to:
-
-   (1) Carry out inspections pursuant to this chapter or any rule promulgated pursuant thereto;
-
-   (2) Issue orders pursuant to section 24-581, or issue orders pursuant to subdivision a of section 24-524 when deemed necessary and appropriate in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter;
-
-   (3) Issue notices of violation for civil penalties pursuant to section 24-585, or notices of violation pursuant to subdivision f of section 24-524 when the basis for such notice of violation is observed in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter.
-
-b. Authorized inspection agents shall perform their duties in accordance with this chapter and rules of the department promulgated pursuant thereto, which rules shall set forth the categories of violations for which such notices may be issued by such agents, the categories of orders that may be issued by such agents and the circumstances in which such agents shall obtain department approval or refer matters to the department for further action. In addition, the department shall, through standards imposed by means of procurement or rulemaking, ensure that such agents are subject to appropriate eligibility criteria, training requirements and grounds for revoking inspection and enforcement authority.
-
-
-
-
-
-
 Chapter 5: Drainage and Sewer Control
 --------------------------------------------------
 
@@ -7757,6 +7234,529 @@ a. By no later than one year after the effective date of the local law that adde
 b. By no later than six months after the end of each fiscal year, beginning with the first fiscal year that commences more than one year after the effective date of the local law that added this section, the department of environmental protection shall submit to the mayor and the speaker of the council a report on progress in implementing the plan required by subdivision a of this section during the prior fiscal year. Each such report shall include, but not be limited to, a description of any changes to such plan, a description of any changes in funds committed by or on behalf of the city in furtherance of such plan and a description of all funds expended by or on behalf of the city in furtherance of such plan.
 
 c.  This section expires 15 years after the effective date of the local law that added this section.
+
+
+
+
+
+
+Chapter 5-A: Water Pollution Control
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: General**
+
+
+
+*§ 24-540 Policy.* ::
+
+
+Land development and associated increases in site impervious cover increase stormwater runoff causing flooding, soil erosion, and sediment transport and deposition in waterways. A high percentage of impervious area correlates with a higher rate of stormwater runoff, which generates greater pollutant loadings to the city’s separate stormwater and combined sewer systems. Pollutants found in urban runoff include, but are not limited to, nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs).
+
+Clearing and grading during construction may increase soil erosion and add to the loss of native vegetation necessary for terrestrial and aquatic habitats. Improperly designed and constructed stormwater management practices increase the velocity of stormwater runoff thereby increasing erosion and sedimentation. Impervious surfaces allow less water to percolate into the soil, thereby decreasing groundwater recharge and stream baseflow. Stormwater runoff, soil erosion and nonpoint source pollution can be controlled and minimized through the regulation of stormwater runoff from land development activities. Regulation of land development activities by means of performance standards governing long-term stormwater management and site design produces development compatible with the natural functions of a particular site and thereby mitigates the adverse effects of erosion and sedimentation from development.
+
+Material handling and storage, equipment maintenance and cleaning, and other activities at industrial facilities are often exposed to stormwater, which can pick up pollutants and transport them to surface waters directly or via a storm sewer. Appropriate stormwater management at industrial facilities can reduce these impacts.
+
+This chapter establishes stormwater management controls meeting the requirements of state and federal law in areas of the city where stormwater does not pass through wastewater treatment plants before it enters the waters of the state. In these areas water borne pollutants in stormwater runoff are more likely to enter and have an adverse impact on the waters of the state.
+
+The purpose and intent of this chapter is to (i) reduce pollutants discharged in stormwater runoff from construction activities in such areas to the maximum extent practicable through appropriate erosion and sediment controls; (ii) minimize, to the maximum extent practicable, increases in stormwater runoff volume and velocity, and pollutant loading in stormwater runoff, from development sites in such areas; (iii) ensure the proper maintenance of post-construction stormwater management practices; and (iv) ensure compliance by certain industrial facilities in such areas with applicable requirements to manage stormwater runoff in order to reduce pollutants in stormwater from industrial activities to the maximum extent practicable.
+
+
+
+
+
+
+
+
+*§ 24-541 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Authorized inspection agent. The term “authorized inspection agent” means an individual who has been authorized pursuant to a contract entered into by the department to conduct inspections on behalf of the department.
+
+Commissioner. The term “commissioner” means the commissioner of environmental protection or the authorized representative of such commissioner.
+
+Covered development project. The term “covered development project” means development activity that involves or results in an amount of soil disturbance within the MS4 area greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section 24-553. Such term includes development activity that is part of a larger common plan of development or sale involving or resulting in soil disturbance within the MS4 area greater than or equal to one acre or as established pursuant to rules of the department in accordance with subdivision d of section 24-553. Such term shall include all development activity within the MS4 area that requires a stormwater pollution prevention plan pursuant to the NYSDEC construction general permit.
+
+Department. The term “department” means the department of environmental protection.
+
+Detention system. The term “detention system” means a system that slows and temporarily holds storm water runoff so that it can be released at a controlled rate.
+
+Developer. The term “developer” means a person that owns or leases land on which development activity that is part of a covered development project is occurring, and/or a person that has operational control over the development activity’s construction plans and specifications, including the ability to make modifications to the construction plans and specifications.
+
+Development activity. The term “development activity” means soil disturbance on a site including but not limited to land contour work, clearing, grading, excavation, demolition, construction, reconstruction, new development, redevelopment, creation or replacement of impervious surface, stockpiling activities or placement of fill. Clearing activities include but are not limited to the cutting and skidding of trees, stump removal and/or brush root removal. Such term does not include routine maintenance (such as road resurfacing) that is performed to maintain the original line and grade, hydraulic capacity, or original purpose of a facility.
+
+Erosion and sediment controls. The term “erosion and sediment controls” means stormwater management practices designed to minimize the discharge of pollutants during development activities including, but not limited to, structural erosion and sediment control practices, construction sequencing to minimize exposed soils, soil stabilization, dewatering control measures, and other pollution prevention and good housekeeping practices appropriate for construction sites.
+
+Impaired water. The term “impaired water” includes (i) a water body for which NYSDEC has established a total maximum daily load (“TMDL”), (ii) a water body for which NYSDEC expects that existing controls such as permits will resolve the impairment, and (iii) a water body identified by NYSDEC as needing a TMDL. A list of impaired waters is issued by NYSDEC pursuant to section 303(d) of the federal water pollution control act, chapter 26 of title 33 of the United States code.
+
+Industrial stormwater source. The term “industrial stormwater source” means any premises or facility that is subject to the MSGP.
+
+Larger common plan of development or sale. The term “larger common plan of development or sale” means a contiguous area where multiple separate and distinct development activities are occurring, or will occur, under one plan. The term “plan” in “larger common plan of development or sale” is broadly defined as any announcement or piece of documentation including a sign, public notice of hearing, sales pitch, advertisement, drawing, permit application, uniform land use review procedure (ULURP) application, state environmental quality review act (SEQRA) or city environmental quality review (CEQR) application, application for a special permit, authorization, variance or certification pursuant to the zoning resolution, subdivision application, computer design, or physical demarcation (including boundary signs, lot stakes, and surveyor markings) indicating that development activities may occur on a specific plot. Such term does not include area-wide rezonings or projects discussed in general planning documents. For discrete development activities that are located within a larger common plan of development or sale that are at least 1/4 mile apart, each activity may be treated as a separate plan of development or sale provided that any interconnecting road, pipeline or utility project that is part of the same “common plan” is not concurrently being disturbed.
+
+Multi sector general permit or “MSGP.” The term “multi sector general permit” or “MSGP” means the New York state department of environmental conservation SPDES multi sector general permit for stormwater discharges associated with industrial activity, Permit No. GP-0-12-001 or its successor.
+
+MS4 SWPPP acceptance form. The term “MS4 SWPPP acceptance form” means the form developed by NYSDEC to be used to indicate acceptance of a SWPPP by a municipality.
+
+MS4 area. The term “MS4 area” means those portions of the city of New York served by separate storm sewers and separate stormwater outfalls owned or operated by the city of New York and areas in which municipal operations and facilities drain by overland flow to waters of the state, as determined by the department and described on maps of the MS4 area set forth in the rules of the department.
+
+Municipal operations and facilities. The term “municipal operations and facilities” means any operation or facility serving a New York city governmental purpose and over which the city of New York has operational control.
+
+New development. The term “new development” means any construction or disturbance of a parcel of land that is currently undisturbed or unaltered by human activities and in a natural state.
+
+Notice of intent or NOI. The term “notice of intent” or “NOI” means the document submitted to NYSDEC to obtain coverage under the NYSDEC construction general permit.
+
+Notice of termination or NOT. The term “notice of termination” or “NOT” means the document submitted to NYSDEC to terminate coverage under the NYSDEC construction general permit.
+
+NYC MS4 Permit. The term “NYC MS4 permit” means the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York city, SPDES No. NY-0287890 or its successor.
+
+NYSDEC. The term “NYSDEC” means the New York state department of environmental conservation.
+
+NYSDEC construction general permit. The term “NYSDEC construction general permit” means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from construction activities, Permit No. GP-0-15-002 or its successor.
+
+NYSDEC MS4 general permit. The term “NYSDEC MS4 general permit” means the state pollutant discharge elimination system (SPDES) general permit for stormwater discharges from municipal separate storm sewer systems (MS4s), Permit No. GP-0-15-003 or its successor.
+
+Owner. The term “owner” means a person having legal title to premises, a mortgagee or vendee in possession, a trustee in bankruptcy, a receiver, or any other person having legal ownership or control of premises.
+
+Person. The term “person” means an individual, corporation, partnership, limited liability company or other legal entity.
+
+Pollutant. The term “pollutant” means dredged soil, filter backwash, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand and industrial, municipal, and agricultural waste discharged into water; which may cause or might reasonably be expected to cause pollution of the waters of the state in contravention of the standards or guidance values adopted as provided in subdivision a of section 750-1.2 of title 6 of the New York codes, rules and regulations.
+
+Pollutants of concern. The term “pollutants of concern” means pollutants that might reasonably be expected to be present in stormwater in quantities that may cause or contribute to an exceedance of water quality standards. These pollutants include but are not limited to nitrogen, phosphorus, silt and sediment, pathogens, floatables, petroleum hydrocarbons, heavy metals, and polycyclic aromatic hydrocarbons (PAHs).
+
+Post-construction stormwater management facility or post-construction facility. The term “post-construction stormwater management facility” or “post-construction facility” means a stormwater management practice serving a developed site and consisting of technology or strategies designed to reduce pollutants in stormwater runoff or reduce runoff rate or volume from the developed site through infiltration, retention, detention, or other method or treatment. Such term includes, but is not limited to, detention systems and retention systems.
+
+Premises. The term “premises” means any building, lot, parcel of land, or portion of land, whether improved or unimproved, including adjacent sidewalks and parking strips.
+
+Qualified inspector. The term “qualified inspector” means a person who is knowledgeable in the principles and practices of erosion and sediment control.
+
+Qualified professional. The term “qualified professional” means a person who is knowledgeable in the principles and practices of stormwater management and treatment.
+
+Redevelopment. The term “redevelopment” means reconstruction of or modification to any existing previously developed land such as residential, commercial, industrial, institutional or road/highway, which involves soil disturbance. Redevelopment is distinguished from new development in that new development refers to construction on land where there had not been previous construction. Redevelopment specifically applies to constructed areas with impervious surface or urban fill.
+
+Retention system. The term “retention system” means a system that captures storm water runoff on site with no release.
+
+Separate stormwater outfall. The term “separate stormwater outfall” means a point where stormwater from a storm sewer or other source of concentrated stormwater flow, owned or operated by the city of New York, is discharged into a water of the state or to a separate storm sewer system that requires coverage under the NYSDEC MS4 general permit.
+
+Storm sewer. The term “storm sewer” means a sewer, the primary purpose of which is to carry stormwater.
+
+Stormwater or stormwater runoff. The term “stormwater” or “stormwater runoff” means runoff that is generated when precipitation from rain events or snowmelt flows overland and does not percolate into the ground.
+
+Stormwater construction permit. The term “stormwater construction permit” means a permit issued by the department authorizing development activity on land on which there is a covered development project in accordance with an approved stormwater pollution prevention plan (SWPPP).
+
+Stormwater maintenance permit. The term “stormwater maintenance permit” means a permit issued by the department where maintenance of post-construction stormwater management facilities by owners of real property is required.
+
+Stormwater management practices or SMPs. The term “stormwater management practices” or “SMPs” means measures to prevent flood damage and/or to prevent or reduce point source or nonpoint source pollution inputs to stormwater runoff and water bodies. Such term includes erosion and sediment controls, post-construction stormwater management facilities, and practices to manage stormwater runoff from industrial activities.
+
+Stormwater pollution prevention plan or SWPPP. The term “stormwater pollution prevention plan” or “SWPPP” means (i) when used in connection with a covered development project, a plan for controlling stormwater runoff and pollutants during construction and, where required by department rules, after construction is completed, or (ii) when used in connection with an industrial stormwater source, a plan, which is required by the MSGP, for controlling stormwater runoff and pollutants.
+
+Waters of the state. The term “waters of the state” means lakes, bays, sounds, ponds, impounding reservoirs, springs, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Atlantic ocean within the territorial seas of the state of New York and all other bodies of surface water, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters that do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction.
+
+
+
+
+
+
+
+
+*§ 24-542 Entry and inspection.* ::
+
+
+An authorized representative of the department may enter on any property, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, to inspect for compliance with this chapter and rules of the department promulgated hereunder.
+
+
+
+
+
+
+
+
+
+**Subchapter 2: Construction and Post-Construction Stormwater Controls**
+
+
+
+*§ 24-550 General.* ::
+
+
+This subchapter governs certain land development activities within the MS4 area.
+
+
+
+
+
+
+
+
+*§ 24-551 Stormwater construction permit required.* ::
+
+
+It shall be unlawful to commence or engage in any development activity on the site of a covered development project unless and until a stormwater construction permit has been issued by the department.
+
+
+
+
+
+
+
+
+*§ 24-552 Review of stormwater pollution prevention plan or SWPPP.* ::
+
+
+Before the commencement of development activity on the site of a covered development project the developer must submit to the department for review in accordance with rules of the department a stormwater pollution prevention plan, certified by a qualified professional, and for projects covered by the NYSDEC construction general permit a copy of the NOI. The department or a qualified professional designated by the department shall review the SWPPP within time periods to be specified in the rules of the department. If the department accepts the SWPPP the department shall issue a stormwater construction permit to the developer and, for projects subject to the NYSDEC construction general permit, shall issue an MS4 SWPPP acceptance form for filing with NYSDEC. If the department rejects the SWPPP the department shall send notice of such rejection to the developer indicating the specific deficiencies that caused the department to reject the SWPPP. The department may require that the SWPPP or other documents be submitted electronically.
+
+
+
+
+
+
+
+
+*§ 24-553 Rules.* ::
+
+
+The department shall promulgate rules to carry out the provisions of this subchapter in accordance with the NYC MS4 permit and the NYSDEC construction general permit, including but not limited to rules that:
+
+a. Set forth the content of SWPPPs, consistent with the NYSDEC construction general permit, including identifying those development projects requiring only erosion and sediment controls during construction and those development projects requiring erosion and sediment controls and post-construction stormwater management facilities.
+
+b. Establish design standards for erosion and sediment controls and post-construction stormwater management facilities which shall not be less stringent than the standards set forth or incorporated by reference in the NYSDEC construction general permit.
+
+c. Establish exemptions from permit requirements, consistent with the NYC MS4 permit and the NYSDEC construction general permit.
+
+d. After completion of the lot size soil disturbance study required by the NYC MS4 permit, provide for the regulation of development activity of less than one acre, based either on total disturbance of soil or on amount of impervious surface created or replaced, where an appropriate reduction in the threshold is necessary in accordance with the NYC MS4 permit.
+
+e. Establish procedures and fees for the review of SWPPPs and the issuance and renewal of permits required by this subchapter.
+
+f. Establish training, experience and/or education requirements for qualified professionals and qualified inspectors, which shall not be less stringent than those required by the NYSDEC construction general permit.
+
+g. Establish record keeping, inspection and reporting requirements for applicants and permittees to monitor compliance with this subchapter and approved SWPPPs.
+
+h. Establish requirements for compliance certifications by contractors to be included with SWPPPs.
+
+i. Establish standards for the maintenance, inspection, repair and replacement of required erosion and sediment controls and post-construction stormwater management facilities.
+
+
+
+
+
+
+
+
+*§ 24-554 SWPPP to be retained on site.* ::
+
+
+A copy of the SWPPP shall be retained at the site of the project from the date of initiation of development activities to the date notice of termination is submitted to NYSDEC and shall be made available to officers and employees of the department and/or qualified inspectors authorized by the department in accordance with the rules of the department.
+
+
+
+
+
+
+
+
+*§ 24-555 Recordkeeping.* ::
+
+
+A developer shall keep and maintain records of all inspections and tests required to be performed pursuant to this subchapter and rules of the department, as follows: records of inspections and tests performed during construction must be maintained throughout construction and for 5 years after completion of construction; and records of post-construction inspections and tests must be maintained for 5 years after performance of such inspections or tests. Such records and tests shall be made available to the department in accordance with the rules of the department. The department may require such records to be maintained and provided to the department electronically.
+
+
+
+
+
+
+
+
+*§ 24-556 Compliance with terms and conditions of SWPPP required.* ::
+
+
+Every stormwater construction permit issued by the department shall include the condition that the applicant and all contractors and subcontractors performing work at the site will comply with this subchapter, rules of the department and the terms and conditions of the SWPPP. Any changes in the SWPPP are subject to the prior approval of the department in accordance with rules of the department.
+
+
+
+
+
+
+
+
+*§ 24-557 Suspension or revocation of permit.* ::
+
+
+The department may suspend or revoke a stormwater construction permit, after notice and the opportunity for a hearing in accordance with the rules of the department, when the department or NYSDEC finds that there is substantial non-compliance with this subchapter, the rules of the department, the NYSDEC construction general permit or the SWPPP, including any major change to erosion or sediment controls or any change in a post-construction stormwater management facility during construction that has or could have an effect on the discharge of pollutants, or when a permit was issued in error and conditions are such that a permit should not have been issued. When a permit is revoked or suspended all development activity at the project site shall cease and shall not be resumed until the issuance of a new permit or until such suspension is terminated except that the department may allow performance of work that is necessary to ensure public safety or to stabilize the construction site.
+
+
+
+
+
+
+
+
+*§ 24-558 Stop work order.* ::
+
+
+a. Whenever the department finds that any development activity is being executed in violation of this subchapter, the SWPPP or rules of the department to the extent that work being performed at the site has or could have an effect on the discharge of pollutants or stormwater runoff volume or velocity, the department may issue a stop work order with respect to such work.
+
+b. Such order shall be posted at the site and served personally on or mailed to the owner or developer or to the person executing the work at the site or the agent of any of them. When there is an immediate danger of a release of pollutants a verbal order to stop work may be given followed promptly by a written order in accordance with this subdivision.
+
+c. Upon issuance of a stop work order, work specified in the order shall immediately cease, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site.
+
+d. No person shall with knowledge or notice of a stop work order allow, authorize, promote, continue or cause to be continued any work covered by the stop work order, except work authorized or required by the commissioner to ensure public safety or to stabilize the construction site.
+
+e. Upon application in accordance with the rules of the department, the commissioner shall rescind the stop work order where the commissioner finds (i) that the condition that gave rise to its issuance has been corrected and either all civil penalties or criminal fines assessed for any violation of such order have been paid or, where a violation is pending, security for the payment of such penalties or fines has been posted or, (ii) that the stop work order was issued in error or conditions are such that it should not have been issued. The commissioner may by rule require the payment of a fee in the amount of the expense of additional inspection and administrative expense related to such stop work order.
+
+f. It shall be unlawful to tamper with, remove or deface a written posted stop work order from the location where it was affixed unless and until such stop work order has been rescinded by the commissioner. The owner or other person in control of the location shall ensure that the stop work order remains posted until rescinded by the commissioner.
+
+
+
+
+
+
+
+
+*§ 24-559 Post-construction stormwater management facilities.* ::
+
+
+Where post-construction stormwater management facilities are required by the department, the department shall not accept the SWPPP or issue a stormwater construction permit for the project until the execution and recording of a maintenance easement, which shall be binding on all subsequent owners of the real property served by such post-construction stormwater management facility, except where the corporation counsel has determined that such a maintenance easement is not necessary due to the property's ownership or use by a public agency or instrumentality. For post-construction stormwater management facilities subject to such an exception, when there is a subsequent conveyance or cessation of public use, the corporation counsel may require the execution and recording of a maintenance easement at that time. The easement shall provide for access to post-construction stormwater management facilities at reasonable times in accordance with law for periodic inspection by the department or qualified professionals authorized by the department to ensure that such facilities are maintained in good working condition to meet the applicable design standards. The easement shall be recorded by the grantor in the office of the city register or, if applicable, the county clerk after approval by the corporation counsel.
+
+
+
+
+
+
+
+
+*§ 24-560 Stormwater maintenance permit.* ::
+
+
+It is the duty of all owners of real property, jointly and severally, served by a post-construction stormwater management facility required by a SWPPP accepted by the department pursuant to this subchapter to provide for the inspection and maintenance of such facility in accordance with this section and the rules of the department. The department shall maintain a record of all such post-construction stormwater management facilities and the property served by each such facility. As soon as practicable after final stabilization of a site, the owner of property served by a post-construction stormwater management facility shall submit to the department a copy of the notice of termination and an application for a stormwater maintenance permit for such facility. Such owner shall provide for the renewal of such permit every 5 years in accordance with the rules of the department. The department shall issue or renew such permit upon receipt of a satisfactory inspection report certified by a qualified professional retained by the owner indicating that the facility has been installed and/or is operated and maintained in good working condition to meet applicable design standards and the rules of the department. A facility shall be maintained in good working condition throughout its useful life and replaced in accordance with the rules of the department.
+
+
+
+
+
+
+
+**Subchapter 3: Industrial Stormwater Sources**
+
+
+
+*§ 24-570 Applicability.* ::
+
+
+This subchapter applies only to portions of the city within the MS4 area.
+
+
+
+
+
+
+
+
+*§ 24-571 Authority to enter and inspect.* ::
+
+
+a. The department shall have the authority to enter and inspect any premises or facility, including, but not limited to, its equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection. Such entry and inspection shall be conducted during normal operating hours for purposes of determining whether such premises or facility generates significant contributions of pollutants of concern to an impaired water.
+
+b. The department shall have the authority to enter and inspect industrial stormwater sources including, but not limited to, their equipment, practices, operations and records, consistent with applicable law and in accordance with rules of the department related to such entry and inspection, and shall, at a minimum, conduct inspections of such sources in accordance with the schedule and requirements for such inspections set forth in the NYC MS4 Permit. Such entry and inspection shall be conducted during normal operating hours for purposes of determining compliance with this subchapter and any rule promulgated pursuant thereto. The department may enter and inspect such premises and facilities for purposes including, but not limited to, the following:
+
+   (1) To conduct a visual observation for evidence of unauthorized discharges, illicit connections, and potential discharges of pollutants to stormwater;
+
+   (2) To evaluate the facility's compliance with applicable MSGP requirements; and
+
+   (3) To evaluate the facility's compliance with any other relevant local stormwater requirements.
+
+
+
+
+
+
+
+
+*§ 24-572 Compliance with the MSGP.* ::
+
+
+All industrial stormwater sources must comply with all applicable conditions of the MSGP.
+
+
+
+
+
+
+
+
+*§ 24-573 Recordkeeping.* ::
+
+
+a. Industrial stormwater sources shall, upon the department's request or pursuant to the rules of the department, submit to the department any information or records necessary to determine compliance with the MSGP and this subchapter and any rule promulgated pursuant thereto. Such records may include, but need not be limited to, stormwater pollution prevention plans and reports of monitoring activities and results required pursuant to the MSGP.
+
+b. The department may require such records to be maintained and provided to the department electronically.
+
+
+
+
+
+
+
+
+
+**Subchapter 4: Enforcement**
+
+
+
+*§ 24-580 General.* ::
+
+
+Notwithstanding any other provision of law, the commissioner, and the environmental control board within the office of administrative trials and hearings, shall enforce the provisions of this chapter and the rules promulgated pursuant thereto.
+
+
+
+
+
+
+
+
+*§ 24-581 Orders.* ::
+
+
+The commissioner, and the environmental control board within the office of administrative trials and hearings, shall have the power to issue such orders as may be provided for in this chapter and the rules promulgated pursuant thereto and such additional orders as may be necessary for the enforcement of such provisions. Such orders may include, but are not limited to, orders requiring (i) inspection by a qualified inspector or qualified professional, (ii) maintenance, repair or replacement of post-construction stormwater management facilities, (iii) compliance with the MSGP through actions including, but not limited to, monitoring, analysis, and reporting or (iv) the installation, implementation and maintenance of SMPs. The department shall promulgate rules governing the appeal of such orders where they are issued by department employees or authorized inspection agents.
+
+
+
+
+
+
+
+
+*§ 24-582 Commissioner's cease and desist orders.* ::
+
+
+a. Whenever the commissioner has reasonable cause to believe that (i) a condition exists in violation of any of the provisions of sections 24-559, 24-560 or 24-572 or in violation of any order or rule issued by the board or commissioner pursuant to such provisions or to section 24-581 in furtherance of such provisions and (ii) that such condition creates or may create an imminent danger to the sewer system or to the public health or to the life or safety of persons, the commissioner may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation in which the condition is located to take such action as may be necessary to halt or prevent such condition.
+
+b. If service of the order cannot be made personally because such person cannot be located at such time then service may be made by delivering a copy to a person of suitable age and discretion at the residence or place of business of the person sought to be served. If service cannot be made personally or by such delivery to a person of suitable age and discretion because of inability to locate or to obtain the name or address of such person at such time, service may be made by conspicuously posting a copy of such order upon the property to which it relates and mailing the order to the most recent residential or business address of record of the person sought to be served. The posting and mailing of such order shall be sufficient notice of such order to all persons having a duty in relation thereto under the provisions of this subdivision.
+
+c. If the order is not complied with or so far complied with as such commissioner may regard as reasonable, within the time specified therein, such commissioner may act to halt or prevent such condition by:
+
+   i. sealing, blocking or otherwise inactivating any equipment, facility, or device;
+
+   ii. sealing, blocking or otherwise inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or
+
+   iii. any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property.
+
+d. Any person affected by such an order may make written application to the environmental control board within the office of administrative trials and hearings for a hearing. Such hearing shall be provided, pursuant to the rules of such board within such office, and shall be held within two business days after the receipt of such application. The board may suspend, modify or terminate such order.
+
+
+
+
+
+
+
+
+*§ 24-583 Environmental control board cease and desist orders.* ::
+
+
+a. In the case of any continued or knowing violation of the provisions of section 24-559, 24-560 or 24-572 or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant to such provisions or section 24-581 in furtherance of such provisions or where the board finds that the violation of any of such provisions or conditions presents or may present a danger to the environment or threatens to interfere with the operation of the sewer system, the board, after notice and the opportunity for a hearing in accordance with the rules of such board within such office, may issue a cease and desist order requiring any person who owns, leases, operates, controls or supervises any building, structure, facility or installation to cease and desist from any activity or process which causes or is conducted so as to cause such violation within the time specified in such order.
+
+b. Such order may provide that if the order is not complied with or so far complied with as the commissioner may regard as reasonable within the time specified therein, the commissioner may take such action as shall be specified therein including but not limited to:
+
+   i. sealing, blocking or inactivating any equipment, facility or device;
+
+   ii. sealing, blocking or inactivating any private sewer or drain emptying directly or indirectly into the sewer system; or
+
+   iii. any other means or method that is reasonable under the circumstances. For such purpose, in accordance with applicable law, the commissioner may enter on any public or private property.
+
+
+
+
+
+
+
+
+*§ 24-584 Action by corporation counsel.* ::
+
+
+If the respondent fails to comply with any order issued by the environmental control board within the office of administrative trials and hearings, or the commissioner or the board or the commissioner otherwise deems it necessary, the corporation counsel, acting in the name of the city, may maintain an action or proceeding in a court of competent jurisdiction to compel compliance with or restrain by injunction the violation of any order issued by the board or commissioner.
+
+
+
+
+
+
+
+
+*§ 24-585 Civil penalties.* ::
+
+
+Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued by the environmental control board within the office of administrative trials and hearings or the commissioner pursuant thereto shall be liable for a civil penalty not exceeding ten thousand dollars for each violation. In the case of a continuing violation each day's continuance shall be a separate and distinct offense. The office of administrative trials and hearings, pursuant to section 1049-a of the charter, shall have the power to impose such civil penalties. A proceeding to impose such penalties shall be commenced by the service of a notice of violation returnable to such office. Such office, after a hearing as provided in accordance with applicable law and rules, shall have the power to enforce its final decisions and orders imposing such civil penalties as if they were money judgments pursuant to subdivision d of section 1049-a of the charter. A civil penalty imposed by such office may also be collected in an action brought in the name of the city in any court of competent jurisdiction. The environmental control board within the office of administrative trials and hearings, in its discretion, may, within the limits set forth in this section, establish a schedule of civil penalties indicating the minimum and maximum penalty for each separate offense or may use a schedule adopted by the department.
+
+
+
+
+
+
+
+
+*§ 24-586 Criminal penalties.* ::
+
+
+In addition to the civil penalties set forth in section 24-585, any person who knowingly violates or fails to comply with any provision of this chapter or any order or rule issued by the commissioner, or the environmental control board within the office of administrative trials and hearings, pursuant thereto shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than two hundred fifty nor more than ten thousand dollars, or by imprisonment not exceeding thirty days, or both for each offense. In the case of a continuing violation each day's continuance shall be a separate and distinct offense. In addition to its application to any other person, the fine provided for in this paragraph shall be deemed a special fine for a corporation within the meaning of section 80.10 of the penal law of the state of New York.
+
+
+
+
+
+
+
+
+*§ 24-587 Liability to the city.* ::
+
+
+Any person who violates or fails to comply with any of the provisions of this chapter or any order or rule issued pursuant thereto shall be liable to the city for any expense, including but not limited to costs for response, remediation and emergency services or any other loss or damage suffered by the city by reason of such violation.
+
+
+
+
+
+
+
+
+*§ 24-588 Service.* ::
+
+
+Unless otherwise provided in this chapter, service of any notice or order required by this subchapter may be made either personally or by mail.
+
+
+
+
+
+
+
+
+*§ 24-589 Issuance.* ::
+
+
+Officers and employees of the department and of other city agencies designated by the commissioner shall have the power to issue summonses, appearance tickets, orders and notices of violation based upon violations of this chapter or rules of the department promulgated hereunder.
+
+
+
+
+
+
+
+
+*§ 24-590 Delegation to authorized inspection agents.* ::
+
+
+a. The commissioner shall have the authority to delegate to authorized inspection agents the authority to:
+
+   (1) Carry out inspections pursuant to this chapter or any rule promulgated pursuant thereto;
+
+   (2) Issue orders pursuant to section 24-581, or issue orders pursuant to subdivision a of section 24-524 when deemed necessary and appropriate in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter;
+
+   (3) Issue notices of violation for civil penalties pursuant to section 24-585, or notices of violation pursuant to subdivision f of section 24-524 when the basis for such notice of violation is observed in the course of implementing duties delegated to such authorized inspection agent pursuant to this chapter.
+
+b. Authorized inspection agents shall perform their duties in accordance with this chapter and rules of the department promulgated pursuant thereto, which rules shall set forth the categories of violations for which such notices may be issued by such agents, the categories of orders that may be issued by such agents and the circumstances in which such agents shall obtain department approval or refer matters to the department for further action. In addition, the department shall, through standards imposed by means of procurement or rulemaking, ensure that such agents are subject to appropriate eligibility criteria, training requirements and grounds for revoking inspection and enforcement authority.
 
 
 

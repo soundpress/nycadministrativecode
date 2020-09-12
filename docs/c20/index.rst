@@ -3666,23 +3666,6 @@ c. The department shall keep a record of all notices of violation canceled pursu
 
 
 
-Chapter 4: Reduced Fare Contracts
---------------------------------------------------
-
-
-
-*§ 19-401 Authorization of reduced fare contracts.* ::
-
-
-a. The board of estimate shall have the power, pursuant to section one hundred nineteen-r of the general municipal law, to enter into a contract or contracts with any person, firm or corporation owning and operating a mass transportation facility within the city in order to provide transportation at a reduced fare during specified days and hours for eligible residents of the city who are over sixty-five years of age and not fully employed.
-
-b. Any such contract may provide for reimbursement of the actual or estimated difference between the reduced fare collected from such passengers and the established rate of fare, plus such other administrative costs as may be incurred by the contracting person, firm or corporation.
-
-c. The separate and additional approval of the mayor shall be necessary to the validity of any such contract.
-
-
-
-
 Chapter 3: Ferries
 --------------------------------------------------
 
@@ -3842,6 +3825,23 @@ j. (1)    On or before October 1, 2009 and every succeeding October 1 thereaf
 k. The commissioner shall conduct a study to determine the feasibility of utilizing in city ferries (i) alternative fuels, which shall include but need not be limited to the combustion of biodiesel of at least five percent biodiesel by volume (B5) and up to 20 percent biodiesel by volume (B20) and renewable diesel and (ii) alternative fuel technologies, which shall include but need not be limited to hybrid electric, battery electric and fuel-cell electric power trains. The study shall include a review of the types and classes of ferries used and planned to be used and, as applicable, their compatibility with the alternative fuels and alternative fuel technologies studied, the availability of such fuels and technologies, the mixing and storage of such fuels and technologies and other relevant issues including barriers, opportunities and regulatory requirements related to the use of such fuels and technologies in city ferries. No later than December 31, 2019, the commissioner shall electronically submit to the mayor and the speaker of the council, and make publicly available online, a report detailing the findings of this study with recommendations relating to the use of alternative fuels and technologies in city ferries and shall thereafter, to the fullest extent the commissioner determines to be practicable based upon such report, implement the use of such fuels or technologies in city ferries.
 
 
+
+
+
+
+Chapter 4: Reduced Fare Contracts
+--------------------------------------------------
+
+
+
+*§ 19-401 Authorization of reduced fare contracts.* ::
+
+
+a. The board of estimate shall have the power, pursuant to section one hundred nineteen-r of the general municipal law, to enter into a contract or contracts with any person, firm or corporation owning and operating a mass transportation facility within the city in order to provide transportation at a reduced fare during specified days and hours for eligible residents of the city who are over sixty-five years of age and not fully employed.
+
+b. Any such contract may provide for reimbursement of the actual or estimated difference between the reduced fare collected from such passengers and the established rate of fare, plus such other administrative costs as may be incurred by the contracting person, firm or corporation.
+
+c. The separate and additional approval of the mayor shall be necessary to the validity of any such contract.
 
 
 
