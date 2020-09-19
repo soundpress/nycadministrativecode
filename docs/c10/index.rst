@@ -17100,39 +17100,6 @@ Where the conveyance consists of a transfer of property made as a result of an o
 
 
 
-Chapter 23: Surcharge On off-track Winnings
---------------------------------------------------
-
-
-
-*§ 11-2301 Surcharge on off-track winnings.* ::
-
-
-There shall be a surcharge of five percent of the portion of pari-mutuel wagering pools distributable to persons having placed bets at off-track betting facilities located within the city. The revenues derived from such surcharge, plus the breaks, shall be held separate and apart from any amounts otherwise authorized to be retained from pari-mutuel pools.
-
-
-
-
-
-
-*§ 11-2302 Distribution of revenues.* ::
-
-
-The revenues received from the surcharge imposed by this chapter, plus the breaks, shall be distributed monthly as follows:
-
-(a) fifty percent to New York city, or to the counties and cities entitled to receive revenues from the regional off-track betting corporation pursuant to section five hundred sixteen of the racing, pari-mutuel wagering and breeding law and in the same proportion as provided therein, or to an off-track betting operator; and the balance as follows:
-
-(b) where the track conducting the race on which the bet was placed is located within a city with a population in excess of one hundred thousand, to such city;
-
-(c) where the track conducting the race on which the bet was placed is not located within a city with a population in excess of one hundred thousand, to the county in which such track is located; (d) where the track conducting the race on which the bet was placed is located partially within New York city and partially within a county, twenty-five percent of such balance to the city and the remainder to the county; and
-
-(e)*   where the track conducting the race on which the bet was placed is located outside the state, in the same manner as set forth in subdivision (a) of this section.
-
-* Editor's note: so in original.
-
-
-
-
 Chapter 22: Tax On Owners of Motor Vehicles
 --------------------------------------------------
 
@@ -17448,6 +17415,39 @@ This chapter shall be construed and enforced in conformity with subdivisions (g)
 
 
 All revenues resulting from the imposition of the tax under this chapter shall be paid into the treasury of the city and shall be credited to and deposited in the general fund of the city, but no part of such revenues may be expended unless appropriated in the annual budget of the city.
+
+
+
+
+Chapter 23: Surcharge On off-track Winnings
+--------------------------------------------------
+
+
+
+*§ 11-2301 Surcharge on off-track winnings.* ::
+
+
+There shall be a surcharge of five percent of the portion of pari-mutuel wagering pools distributable to persons having placed bets at off-track betting facilities located within the city. The revenues derived from such surcharge, plus the breaks, shall be held separate and apart from any amounts otherwise authorized to be retained from pari-mutuel pools.
+
+
+
+
+
+
+*§ 11-2302 Distribution of revenues.* ::
+
+
+The revenues received from the surcharge imposed by this chapter, plus the breaks, shall be distributed monthly as follows:
+
+(a) fifty percent to New York city, or to the counties and cities entitled to receive revenues from the regional off-track betting corporation pursuant to section five hundred sixteen of the racing, pari-mutuel wagering and breeding law and in the same proportion as provided therein, or to an off-track betting operator; and the balance as follows:
+
+(b) where the track conducting the race on which the bet was placed is located within a city with a population in excess of one hundred thousand, to such city;
+
+(c) where the track conducting the race on which the bet was placed is not located within a city with a population in excess of one hundred thousand, to the county in which such track is located; (d) where the track conducting the race on which the bet was placed is located partially within New York city and partially within a county, twenty-five percent of such balance to the city and the remainder to the county; and
+
+(e)*   where the track conducting the race on which the bet was placed is located outside the state, in the same manner as set forth in subdivision (a) of this section.
+
+* Editor's note: so in original.
 
 
 
