@@ -1739,6 +1739,57 @@ c. The information contained in the report required by this section shall be in 
 
 
 
+Chapter 27: After School Athletic Funding
+--------------------------------------------------
+
+
+
+*§ 21-998 After school athletic funding.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Athletic facility. The term “athletic facility” means an indoor or outdoor facility used by high schools for athletics.
+
+   Athletics. The term “athletics” means after school interscholastic athletic competition for students.
+
+   High school. The term “high school” means a school of the city school district of the city of New York that contains any combination of grades from and including grade nine through grade 12.
+
+   Student. The term “student” means any pupil under the age of 21 as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a high school.
+
+b. No later than December 1, 2019, and annually thereafter, the department shall submit to the speaker of the council and post on the department’s website an athletics report for the preceding academic year, which shall include, but not be limited to, the following:
+
+   1. For each high school, the total amount of funding provided by the department for athletics and the amount of such funding allocated for each of the following categories: (i) coaches and athletic directors, and (ii) other than personal service related to the public schools athletic league;
+
+   2. For each high school, the total number of students participating in athletics and the number and percentage of such students disaggregated by:
+
+      (a) Race or ethnicity;
+
+      (b) Gender;
+
+      (c) Special education status;
+
+      (d) English language learner status; and
+
+      (e) Calendar year of entry to grade nine;
+
+   3. A list of all criteria used by the department when making decisions about new team requests including any changes in the criteria from the preceding academic year;
+
+   4. A list of all new team requests received by the department, including the high school that submitted such request, whether each request was approved or denied by the department and the reason for such approval or denial; and
+
+   5. A list of all athletic facilities used by high schools in the prior academic year, including athletic facilities under the jurisdiction of the department of parks and recreation.
+
+c. The report required pursuant to this section shall provide citywide data, as well as data disaggregated by borough and community school district, except that paragraph 5 of subdivision b of this section shall be disaggregated solely by borough.
+
+d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interest of law enforcement. If a category contains between one and five students, or allows another category to be narrowed to between one and five students, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
+
+
+
+Editor's note: Section 2 of L.L. 2019/120 provides: "This local law takes effect immediately and expires and is deemed repealed upon the issuance of the report due on December 1, 2026 as required by section one of this local law."
+
+
+
+
 Chapter 26: Office of Pupil Transportation Reports
 --------------------------------------------------
 
@@ -1918,57 +1969,6 @@ a. No later than 15 days before the start of each school year, the department sh
 b. Such materials shall be made available on the department’s website in English and in each of the designated citywide languages as defined in section 23-1101.
 
 
-
-
-
-
-Chapter 27: After School Athletic Funding
---------------------------------------------------
-
-
-
-*§ 21-998 After school athletic funding.* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Athletic facility. The term “athletic facility” means an indoor or outdoor facility used by high schools for athletics.
-
-   Athletics. The term “athletics” means after school interscholastic athletic competition for students.
-
-   High school. The term “high school” means a school of the city school district of the city of New York that contains any combination of grades from and including grade nine through grade 12.
-
-   Student. The term “student” means any pupil under the age of 21 as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a high school.
-
-b. No later than December 1, 2019, and annually thereafter, the department shall submit to the speaker of the council and post on the department’s website an athletics report for the preceding academic year, which shall include, but not be limited to, the following:
-
-   1. For each high school, the total amount of funding provided by the department for athletics and the amount of such funding allocated for each of the following categories: (i) coaches and athletic directors, and (ii) other than personal service related to the public schools athletic league;
-
-   2. For each high school, the total number of students participating in athletics and the number and percentage of such students disaggregated by:
-
-      (a) Race or ethnicity;
-
-      (b) Gender;
-
-      (c) Special education status;
-
-      (d) English language learner status; and
-
-      (e) Calendar year of entry to grade nine;
-
-   3. A list of all criteria used by the department when making decisions about new team requests including any changes in the criteria from the preceding academic year;
-
-   4. A list of all new team requests received by the department, including the high school that submitted such request, whether each request was approved or denied by the department and the reason for such approval or denial; and
-
-   5. A list of all athletic facilities used by high schools in the prior academic year, including athletic facilities under the jurisdiction of the department of parks and recreation.
-
-c. The report required pursuant to this section shall provide citywide data, as well as data disaggregated by borough and community school district, except that paragraph 5 of subdivision b of this section shall be disaggregated solely by borough.
-
-d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interest of law enforcement. If a category contains between one and five students, or allows another category to be narrowed to between one and five students, the number shall be replaced with a symbol. A category that contains zero shall be reported as zero, unless such reporting would violate any applicable provision of federal, state or local law relating to the privacy of student information.
-
-
-
-Editor's note: Section 2 of L.L. 2019/120 provides: "This local law takes effect immediately and expires and is deemed repealed upon the issuance of the report due on December 1, 2026 as required by section one of this local law."
 
 
 

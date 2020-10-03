@@ -1,6 +1,3250 @@
 Title 27: Construction and Maintenance
 ===================================================
 
+Chapter 3: Electrical Code
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: General Provisions and Definitions**
+
+
+
+*§ 27-3001 Short title.* ::
+
+
+This chapter shall be known and may be cited as the "electrical code".
+
+
+
+
+
+
+*§ 27-3002 Purpose.* ::
+
+
+Since there is danger to life and property inherent in the use of electrical energy, the electrical code is enacted to regulate the business of installing, altering or repairing wiring and appliances for electrical light, heat, power, signaling, communication, alarm or data transmission in the city of New York and the licensing of all persons who engage in such business.
+
+
+
+
+
+
+*§ 27-3003 Construction.* ::
+
+
+This chapter shall be liberally construed to accomplish its purpose. Words used herein which have jacquired a particular meaning in the usage of the electrical trades shall be construed as understood in the trade.
+
+
+
+
+
+
+*§ 27-3003.1 Areas of special flood hazard and shaded X-Zones.* ::
+
+
+Electrical work performed on structures located in areas of special flood hazard and shaded X-Zones, as defined in section G201.2 of the New York city building code, shall also comply with the provisions of appendix G of the New York city building code. Where, in any specific case, the provisions of this code conflict with the provisions of appendix G of the New York city building code, the more restrictive shall govern.
+
+
+
+
+
+
+*§ 27-3004 Definitions.* ::
+
+
+Unless otherwise expressly stated, the following terms, whenever used in this chapter or in any rule or reference standard promulgated pursuant to this chapter, shall mean:
+
+CITY AGENCY: A city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid, in whole or in part, from the city treasury.
+
+COMMISSIONER: The commissioner of buildings.
+
+DEPARTMENT: The department of buildings.
+
+DIRECT EMPLOY: Direct employment shall be evidenced by payroll records, such as social security payments, income tax withholding or the disbursement of other funds as required by law for the benefit of such employee, timekeeping records, such as time cards and sign-in sheets, work orders, and assignment or route logs.
+
+DIRECT SUPERVISION: Control exercised by a licensed individual, either personally or through one or more demonstrated levels of competent supervision over individuals (i) in the direct employ of a master electrician's business or (ii) in the direct employ of an individual, partnership, corporation or city agency employing a special electrician. Direct supervision includes field inspection, supervision of job sites, and the maintenance of records of such supervision and such other records required by the commissioner.
+
+ELECTRICAL WORK: The installation, alteration, maintenance, or repair of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm or data transmission.
+
+EMPLOYEE: An individual who is on the payroll of an employer and who under the usual common law rules applicable in determining the employee-employer relationship has the status of an employee. Such term shall not include an independent contractor.
+
+JOURNEYMAN ELECTRICIAN: An individual who has demonstrated a progressive understanding, proficiency and competence in the electrical trade, which shall include:
+
+a. A working familiarity with the electrical code and the electrical code technical standards and the ability to apply the code requirements correctly;
+
+b. The application of basic electrical theory and the utilization of trade math skills on the job site;
+
+c. A working knowledge of the tools of the trade and the ability to utilize them properly; and
+
+d. An ability to draft simple diagrams and interpret from drawings for the purpose of the installation, alteration or repair of electric wiring or appliances for light, heat and power.
+
+LOW VOLTAGE ELECTRICAL WORK: The installation, alteration, maintenance or repair of electrical wiring that is designed to operate at less than fifty volts for signaling, communication, alarm, and data transmission circuits except that such term shall not include the installation, alteration, maintenance or repair, regardless of voltage, of any such wiring which connects to, is a part of or is located within:
+
+(a) life safety systems as defined by rule of the commissioner, including but not limited to (i) those safety systems and features listed in subparagraphs a through n of paragraph three of subdivision a of section 27-228.2 of the administrative code and (ii) alarm and extinguishing systems subject to building code reference standards RS 17-3, RS 17-3A, RS 17-3B, and/or RS 17-3C,
+
+(b) class I, II or III hazardous locations as described in the electrical code technical standards, including but not limited to certain areas within commercial garages as set forth therein, aircraft hangars, gasoline dispensing and service stations, bulk fuel storage plants and facilities which may be utilized for spray applications or for a dipping and coating process,
+
+(c) intrinsically safe systems as described in the electrical code technical standards, or
+
+(d) a point of connection to or interfacing with a control circuit which activates light, heat or power circuits.
+
+LOW VOLTAGE INSTALLER: An individual who is certified by the commissioner to act as the representative of a business entity authorized pursuant to this chapter and the rules of the department to perform low voltage electrical work in or on any building, premises or lot in the city. An individual so certified shall have full responsibility on behalf of such business entity for the manner in which such work is done and for the selection, supervision and control of employees of such business entity who perform such work. Such individual shall be an employee of the business entity which he or she represents and shall supervise, direct and be responsible for only the work of the employees of such business entity. Such individual shall not represent more than one business entity.
+
+MASTER ELECTRICIAN BUSINESS: A sole proprietorship, partnership or corporation authorized by the commissioner to engage in or carry on, as an independent contractor and as its regular business, the business of performing electrical work in or on any building, premises or lot in the city under a license issued to a master electrician.
+
+MASTER ELECTRICIAN'S LICENSE: The license issued to an individual who has passed the required examination and tests and who otherwise qualifies for the issuance of such license pursuant to this chapter. An individual who holds such license shall be known as a master electrician.
+
+RESPONSIBLE REPRESENTATIVE: A master electrician who has the authority to make final determinations and who has full responsibility on behalf of a master electrician business for the manner in which electrical work is done and for the selection, supervision and control of all employees of such business who perform such work. A partnership or corporation shall designate one master electrician who is a partner of such partnership or an officer of such corporation to be the responsible representative of such partnership or corporation. The proprietor of a sole proprietorship shall be the responsible representative of such sole proprietorship. A master electrician shall not be the responsible representative of more than one partnership or corporation and shall file for, supervise, direct and be responsible for only the work of such partnership or corporation. If the master electrician business is in the form of a sole proprietorship, only the master electrician who owns such business shall be the responsible representative of such business and shall file for, supervise, direct and be responsible for only his or her own work and the work of his or her employees. Notwithstanding the foregoing provisions, where the department has issued a violation notice for work performed by an unlicensed person or work performed without the required permit and where such work is otherwise in compliance with the electrical code and the electrical code technical standards, a responsible representative may file an application for a permit or take any other actions with respect to such work directed by the department to address the violation.
+
+SPECIAL ELECTRICIAN'S LICENSE: The written authorization of the commissioner to an individual who is an employee of an individual, a partnership or a corporation owning, leasing or managing a building, buildings or parts thereof to perform electrical work in or on specific buildings, lots or parts thereof owned, leased or managed by such individual, corporation or partnership. An individual who has obtained such authorization shall be known as a special electrician. A special electrician shall determine the method of doing the work in or on such buildings and shall have sole responsibility for supervising and directing the employees of such owner, lessee or manager who perform such work. A special electrician shall not supervise the work of individuals who are not employees of the owner, lessee or manager of the buildings on which the special electrician is authorized by his or her license to perform electrical work. A special electrician's license shall not authorize the holder to engage in or carry on the business of performing electrical work as an independent contractor.
+
+SPECIAL PERMISSION: The written approval of the commissioner in circumstances involving the exercise of his or her discretion and in circumstances not covered by this chapter.
+
+
+
+
+
+
+*§ 27-3005 Jurisdiction, powers and duties of the commissioner.* ::
+
+
+a. The commissioner is authorized to exercise all powers necessary to enforce the electrical code and the electrical code technical standards, including but not limited to the power to:
+
+   1. Promulgate rules respecting the installing, altering, maintaining or repairing of (i) electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm or data transmission and (ii) low voltage electrical wiring in or on any building, premises or lot in the city of New York.
+
+   2. Cause any wiring or appliances for electrical light, heat or power to be examined and inspected, and the approval thereof to be certified in writing,
+
+      (a) by an officer or employee of the department designated by him or her for that purpose, or
+
+      (b) by any inspection agency certified by the commissioner in accordance with rules promulgated by the commissioner, or
+
+      (c) when such wiring or appliances are located in a building owned by the city or any city agency, (i) by a licensed professional engineer, or (ii) by a person with a baccalaureate degree in electrical engineering, or (iii) by any person who holds the job title of electrical inspector or any job title equivalent thereto, as classified by the commissioner of citywide administrative services pursuant to section eight hundred fourteen of the charter; provided, however, that such licensed professional engineer or person with a baccalaureate degree in electrical engineering or person holding the job title of electrical inspector shall not have performed the work to be inspected and shall be an officer or employee of the city agency which contracted for such work.
+
+   3. Order the remedying of any defect or deficiency in the installing, altering or repairing of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm or data transmission.
+
+   4. Cause any order issued by him or her which has not been complied with to be enforced and to take any civil or criminal proceedings or actions for its enforcement.
+
+   5. Order any person or corporation engaged in supplying electrical energy to discontinue such supply as specified in such order if the wiring or appliances for electric light, heat, power, signaling, communication, alarm or data transmission shall be dangerous to persons or property therein.
+
+   6. (a) Promulgate rules fixing the date, scope and subject matter of examinations of applicants to become licensed as master electricians and special electricians and, upon recommendation of the license board, promulgate rules respecting the issuance, suspension and revocation of such licenses.
+
+      (b) Promulgate rules fixing the date, scope and subject matter of examinations of applicants for certification as low voltage installer and respecting the issuance, suspension and revocation of such certification.
+
+   7. Appoint, in accordance with the rules of the department and at his or her discretion, special boards or committees to provide advice or assistance in the implementation, interpretation, variation or amendment of any provision of the electrical code or the electrical code technical standards or any rule promulgated pursuant to this chapter.
+
+   8. Promulgate rules regarding the issuance of approvals for the use of electrical appliances and materials and the granting of special permission to use wiring or appliances in cases involving the exercise of his or her discretion and in cases not covered by this chapter.
+
+   9. Designate as prescribed in section 14-106 of title fourteen of the code, with the consent of the police commissioner, certain electrical inspectors as special patrolmen of the police department. Such special patrolmen shall possess powers to perform the duties of and be subject to the orders, rules and regulations of the police department in the same manner as regular patrolmen. Each special patrolman shall have a badge and card, as furnished by the police department. He or she shall have power to issue summonses returnable in the New York city criminal court, covering violations of this chapter.
+
+b. The foregoing provisions are detailed statements of certain powers possessed by the commissioner and shall not be construed as limiting his or her authority.
+
+
+
+
+
+
+*§ 27-3006 Federal and state buildings.* ::
+
+
+Nothing in this chapter shall be construed to apply to any building, the electrical equipment of which is under the control of the United States of America or the state of New York or of any department, bureau or officer thereof.
+
+
+
+
+
+
+*§ 27-3007 City departments.* ::
+
+
+The various departments, boards and officers of the city shall be subject to the provisions of this chapter.
+
+
+
+
+
+
+*§ 27-3008 Public service corporations.* ::
+
+
+a. Except as provided for in subdivision b of this section, the provisions of this chapter shall not apply to:
+
+   1. Electrical equipment used exclusively for the operation of railroads, railways and trackless trolleys, or
+
+   2. Installations, including associated lighting, under the exclusive control and use of electric utilities for the purpose of communications, metering, generation, control transformation, transmission or distribution of electric energy. Such installations shall be located in buildings used exclusively by utilities for such purpose, in buildings in enclosures containing only metering equipment, outdoors on property owned or leased by the utility, on public highways, streets or roads or outdoors on private property by established rights such as easements, or
+
+   3. Communication equipment used exclusively for communicating or signal purposes provided that such equipment is installed by and under the exclusive control and use of communications utilities subject to the jurisdiction of the public service commission and is located outdoors or in building spaces used only for such equipment.
+
+b. The provisions of this chapter shall apply to such portions of commercial, industrial or office buildings owned or leased by the above mentioned persons or corporations, not used for the operations of such persons or corporations, such as public spaces leased or rented to other persons or corporations.
+
+
+
+
+
+
+*§ 27-3009 Master electrician's and special electrician's license board.* ::
+
+
+a. For each calendar year, the commissioner shall appoint a board to review the character and fitness of applicants for a master electrician's or special electrician's licenses and the approval of master electrician businesses, to advise the commissioner regarding allegations of illegal practices on the part of master and special electricians or master electrician businesses, to investigate and report on all proposed suspensions or revocations of licenses and approvals of master electrician businesses and all proposed penalties, and to perform any other responsibilities as may be requested by the commissioner and as set forth in rules promulgated by the department. The commissioner may, for good cause shown, remove any member thereof and shall fill any vacancy therein, which board shall consist of:
+
+   1. Two officers or employees of the department.
+
+   2. Two licensed master electricians actively engaged in the trade.
+
+   3. A journeyman electrician.
+
+   4. An electrical inspector in the employ of an inspection agency certified by the commissioner.
+
+   5. An electrician in the employ of a public service corporation of the city.
+
+   6. A registered architect or licensed professional engineer of at least five years experience.
+
+   7. A real estate owner or manager.
+
+b. A member of the board who is an officer or employee of the department shall serve as chairperson and all members shall serve without compensation. Five members including the chairperson, who shall be entitled to vote, shall constitute a quorum of the board for the transaction of business; but no recommendation for the issue, modification, suspension or revocation of a license or of a proposed penalty shall be adopted except by the vote of at least five members of the board.
+
+c. The license board shall investigate the character and fitness of all applicants for licenses who shall have passed the required examination and shall report to the commissioner the results of such examination. It shall investigate and hear all written complaints against holders of such licenses and master electrician businesses and report to the commissioner its findings and recommendations. It shall keep minutes of its proceedings and hearings and records of its investigations and examinations of applicants for licenses and approvals of master electrician businesses. Upon the holding of any hearing, the chairperson of the board presiding at such hearing may administer oaths, and the board may issue and cause to be served subpoenas requiring the attendance of witnesses and the production of books and papers pertinent to any hearing held by it upon written complaint. Such subpoenas shall be signed by the commissioner and the fees and mileage paid to witnesses upon the service of such subpoenas shall be those prescribed in section fifteen hundred thirty-nine of the civil practice law and rules.
+
+
+
+
+
+
+*§ 27-3010 Qualification and Examination of applicants for master electrician's and special electrician's licenses.* ::
+
+
+a. Qualification of Applicant. An applicant for a license as a master electrician or special electrician must be over the age of twenty-one years, of good moral character and, at the time of applying for examination, shall have had, during the ten (10) years immediately preceding his or her application, at least seven and one-half (71/2) years or the equivalent as indicated below and during such time a minimum of ten thousand five hundred (10,500) hours or the equivalent as indicated below of satisfactory experience in the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities. Except as otherwise provided below, such satisfactory experience must have been obtained while under the direct supervision of a licensed master electrician or special electrician or, with respect to experience outside the city, under the direct supervision of an individual with comparable qualifications as determined by the commissioner, and while in the employ of (i) a master electrician business as defined herein, or (ii) an individual, a partnership or a corporation owning, leasing or managing a building, buildings or parts thereof and employing a special electrician to perform electrical work in or on specific buildings, lots or parts thereof owned, leased or managed by such individual, corporation or partnership, or (iii) an individual, a partnership or a corporation deemed acceptable by the commissioner. No more than twenty-five percent (25%) of such satisfactory experience shall have been gained while working outside the United States unless the commissioner determines that the licensing system and electrical code of the foreign jurisdiction is essentially similar to licensing systems and electrical codes in the United States. The following shall be deemed to fulfill the satisfactory experience requirement:
+
+   1. A journeyman electrician who has worked at least seven and one-half (71/2) years and during such time a minimum of ten thousand five hundred (10,500) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for light, heat and power in or on buildings or comparable facilities, or
+
+   2. A graduate of a college or university who holds a degree in electrical engineering, either a master of science (M.S.) or bachelor of science (B.S.) and has in addition worked at least (i) with respect to an applicant with an M.S. degree, two and one-half (21/2) years and during such time a minimum of thirty-five hundred (3500) hours of such experience or, (ii) with respect to an applicant with a B.S. degree, three and one-half (31/2) years and during such time a minimum of forty-nine hundred (4900) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities, or
+
+   3. A graduate of a vocational, industrial, trade school, or apprenticeship program[,] registered with the New York state department of labor, specializing in electrical wiring, installation and design or applied electricity, who has worked at least five and one-half (51/2) years and during such time a minimum of seventy-seven hundred (7700) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities, or
+
+   4. Any person who attended courses in a college or university leading to a degree in electrical engineering, mechanical engineering, bachelor of science in electrical engineering or mechanical engineering, who passed all subjects in the required courses shall be credited with satisfactory experience equal to fifty per cent (50%) of the number of curricula years he or she has satisfactorily completed which, in no event, however, shall exceed two and one-half (21/2) years credit of satisfactory experience, the balance of the required seven and one-half (71/2) years, i.e., five (5) years and during such time a minimum of seven thousand (7000) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and apparatus for light, heat and power in or on buildings or comparable facilities, or
+
+   5. Any person who attended courses in a vocational, industrial or trade school, registered with the New York state department of labor, specializing in electrical wiring, installation and design or applied electricity who has passed all subjects in the required courses shall be credited with fifty per cent (50%) of the number of curricula years that he or she has satisfactorily completed which, however, in no event, shall exceed two (2) years credit of such experience, the balance of the required seven and one-half (71/2) years, i.e., five and one-half (51/2) years of such experience and during such time a minimum of seventy-seven hundred (7700) hours must have been obtained by working with his or her tools on the installation and repair of wiring for electric light, heat and power in or on buildings or comparable facilities, or
+
+   6. An employee of a government agency, private inspection agency or other entity, acceptable to the commissioner, whose duties primarily involve the inspection of electrical work for compliance with the electrical code and the electrical code technical standards and/or other laws relating to the installation, alteration or repair of electrical wiring or appliances shall be credited with fifty percent (50%) of the number of years that he or she has been satisfactorily employed in such duties within the ten (10) year period prior to application, which, however, in no event, shall exceed two and one-half (2 1/2) years credit of satisfactory experience. The balance of the required seven and one-half (7 1/2) years, i.e., five (5) years and during such time a minimum of seven thousand (7000) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities except that the requirement of subdivision a of this section that an applicant's working experience must have been within the ten (10) year period prior to application shall not apply to such balance of five (5) years working experience required pursuant to this paragraph.
+
+b. Examination of Applicant.
+
+   1. Every application for a master electrician's or special electrician's license shall be made in writing in such form and shall furnish such information as the commissioner may, from time to time, prescribe, and set forth in the rules of the department. It is a condition of the license that information in the application be kept correct and current. Any change in required information that occurs prior to the issuance of the license shall be reported to the department within fourteen days of the change.
+
+   2. Every applicant shall be required to take an examination in accordance with the rules of the department. However, where the application is on behalf of a city agency, the commissioner may waive the examination requirement if the applicant has sufficient experience qualifications of a type and duration comparable to those set forth in subdivision a of this section as determined by the commissioner.
+
+   3. Every applicant shall submit to such investigation by the license board as may be proper to determine the applicant's character and fitness. Every applicant shall commence the application process with the department within one year of passing the examination for licensure and shall furnish to the department a completed application within one year of submission of the first filing. Failure to provide all requested documents in a timely manner will constitute an incomplete application and may result in denial of the license.
+
+   4. Every applicant shall be required to submit such documentation as is required to establish a place of business within ninety days after the license board's recommendation that the applicant has the required character and fitness for licensure. Where all requested documents are not provided in a timely manner an application will be deemed incomplete and may result in the denial of the license.
+
+
+
+
+
+
+*§ 27-3011 Application for a license. [Repealed]* ::
+
+
+a. Place of Business, generally.
+
+   1. Every master electrician business shall at all times have a place of business at a specified address in the city at which the licensee may be contacted by the public and the department by mail, telephone or other modes of communication, located in a business zone in conformity with the zoning regulations and kept open during the usual business hours unless other means acceptable to the commissioner is provided.
+
+   2. At such place of business, there shall at all times be prominently displayed a permanent sign of a minimum size of one hundred fifty square inches, stating the name of such license holder, the license number of such licensee, and the words "licensed electrician" or "licensed electrical contractor" on a plate glass window and the name of the master electrician business if different than the name of the license holder; or an outside sign of permanent construction fastened and readily visible to pedestrians; or if such place of business be an office, commercial or industrial building, the names shall be indicated on the entrance door of the particular portion of the premises or on a bulletin board on the main floor.
+
+   3. All business vehicles, advertising, websites and stationery used in connection with electrical work required to be performed under a license issued to a master electrician shall display prominently the words "N.Y.C. Licensed Electrician", the license number of the responsible representative of such business and of all other master electricians associated with such business, the authorization number of the master electrician business and the business address. If the business is conducted under a trade name, or is a partnership or corporation, the trade name, partnership, or corporate name shall contain the root word "electric" and be displayed prominently.
+
+   4. The applicant for approval of a master electrician business under a license issued to a master electrician shall have filed with the commissioner, in such form as the commissioner may direct, proof that such applicant carries all insurance required by law including, but not limited to, workers' compensation, disability and one million dollars of general liability insurance listing the department as certificate holder, and that the applicant business is financially responsible. Each policy of insurance shall contain a provision of continuing liability notwithstanding any recovery under such policy.
+
+   5. The applicant shall indicate the name and license number of the master electrician who shall serve as the responsible representative of such business, and, if the business is a partnership or corporation, the names of all other master electricians associated with such business. Upon approval of such application the commissioner shall issue an authorization number to the business. The authorization number shall be included on all applications for permits and any other documents required to be filed with the department.
+
+   6. The office or other place where the master electrician business is to be conducted may be shared by one or more master electrician businesses. However, each business whether in the form of a sole proprietorship, partnership or corporation, shall distinguish its identity from any other business sharing the same office space. Such distinctions shall be maintained in a manner satisfactory to the department.
+
+b. Business Conduct.
+
+   1. A master electrician business shall be principally engaged in the business of performing electrical work in or on buildings, premises or lots in the city.
+
+   2. In the case of a partnership or corporation, a master electrician's license may be separately held by more than one partner or officer as a representative of such partnership or corporation; however, only one master electrician shall be the responsible representative of such corporation or partnership. Under no circumstances shall any one licensee represent more than one business at any one time.
+
+   3. A master electrician representing a master electrician business shall, during the hours the business is engaged in the performance of electrical work, devote his or her full time to the operation of such business.
+
+   4. (i) Applications for permits and any other document that the commissioner may require to be filed with the department, shall bear the stamp of the master electrician's seal as well as the signature of the responsible representative of the master electrician business or, if the business is a partnership or corporation, such document may bear the stamp of the seal and the signature of a master electrician who files on behalf of such business acting pursuant to a written delegation, filed with the department, from the responsible representative of such business. For applications and other documents submitted electronically, the digital signature and imprint of the seal may be submitted in a manner authorized by the commissioner.
+
+      (ii) The responsible representative of a business may not delegate such authority to a master electrician who is not an officer of such corporation or a partner of such partnership. Such person shall personally sign applications for permits. The responsible representative of a business shall have the authority to make final determinations and shall have full responsibility for the manner in which the work is done, except that where work is done under a permit issued pursuant to an application bearing the signature and seal of a master electrician acting pursuant to a written delegation from the responsible representative of such business, both the responsible representative of such business and the master electrician who signed and affixed his or her seal to the application for such permit shall be jointly and severally responsible for the manner in which the work is done.
+
+c. Changes to Business.
+
+   1. The holder of a master electrician's license shall report in writing to the license board any change in the place of business within thirty (30) days of the change. If such change occurs prior to issuance of the license, an applicant shall report the change to the license board within fourteen (14) days of the change.
+
+   2. The approval of a master electrician business is valid only as long as the responsible representative identified on the application for approval of the master electrician business actively participates in the actual operation of the business. In the event a responsible representative leaves a master electrician business, both the representative and the business must notify the license board within thirty (30) days of the change.
+
+      (i) A corporation or partnership must notify the license board of the death of a responsible representative within thirty (30) days after such death. Failure to do so shall be deemed sufficient cause for suspending or revoking the approval to do business of the master electrician business or the license of the master electrician. The decedent licensee's legal representative may, with the commissioner's consent, retain the licensee's license and seal for the purpose of completing all unfinished work of such licensee for which plans have been approved and permits issued, provided that such work is performed by or under the direct supervision of a licensed electrician.
+
+      (ii) Except as otherwise provided by rule, a master electrician business whether in the form of a corporation, a partnership or a sole proprietorship, may continue to engage in the business of performing electrical work only so long as the responsible representative of such business identified on the application for approval of the master electrician business remains an officer of such corporation, a partner of such partnership or the proprietor of such sole proprietorship unless the department approves a change in the responsible representative as provided in this section. The commissioner may promulgate rules providing for the continuation of a master electrician business pending the approval of a new responsible representative.
+
+      (iii) Except as otherwise provided in such rules, the revocation, suspension, license deactivation or non-renewal of the master electrician's license of the responsible representative of a master electrician business automatically revokes its approval to do business and cancels any delegation of authority given by such responsible representative to another master electrician associated with such business pending the approval by the department of a new responsible representative.
+
+   3. Except as otherwise provided by rule, a master electrician business shall not change its name, form or designate a new responsible representative without the prior approval of the license board. Approval of an application for a change is conditional upon the following: filing the necessary forms, payment of the prescribed fee and full payment of all fees incurred with respect to such business prior to the date of the change. Except as otherwise provided by rule, a requested change shall not be approved if there are any outstanding fees related to the licensee's or master electrician business's professional dealings due and owing to the department or outstanding violation notices attributable to the licensee or the master electrician business.
+
+   4. A master electrician's license and a special electrician's license and seal shall not be held by any person at the same time.
+
+   5. The holder of a master electrician's license, upon entering employment as a special electrician, shall deactivate his or her master electrician's license and seal and change over to a special electrician's license and seal to cover the building, buildings, or parts thereof, for which he or she will be employed.
+
+   6. Nothing in this chapter shall be construed to prevent two or more master electrician businesses from entering into a joint venture of limited duration for a particular project in accordance with the rules of the department. An application for a permit involving a joint venture shall so indicate on the application and shall identify all of the master electrician businesses that are parties to such joint venture by name and authorization number and the names and license numbers of the responsible representatives of such businesses. The application shall be signed by the responsible representative of one of the parties to the joint venture on behalf of all such parties and all of such parties shall be jointly and severally liable for any fees due with respect to electrical work performed by such joint venture and for violations of this chapter and the rules of the department arising out of such work.
+
+
+
+
+
+
+*§ 27-3013.1 Business establishments and special electricians.* ::
+
+
+a. Place of Business, generally.
+
+   1. A special electrician shall at all times have a place of business at a specified address in the city at which the licensee may be contacted by the department by mail, telephone or other modes of communication. His or her license shall plainly indicate the address or addresses of the building, buildings or parts thereof for which such license is issued.
+
+   2. The commissioner may issue more than one special license for a building or buildings if, in the commissioner's judgment, he or she deems it necessary for the proper operation and maintenance of the electric wiring and equipment of the building or buildings involved.
+
+b. Insurance. An applicant for approval as a special electrician shall have filed with the commissioner, in such form as the commissioner may direct, proof that such applicant's employer carries all insurance required by law including, but not limited to, workers' compensation, disability and one million dollars of general liability insurance listing the department as certificate holder. Each policy of insurance shall contain a provision of continuing liability notwithstanding any recovery under such policy.
+
+c. Conduct.
+
+   1. A special electrician shall be principally engaged in the business of performing electrical work in or on buildings, premises or lots so authorized under the license.
+
+   2. The holder of a special electrician's license shall report in writing any change in employment to the license board within thirty days of the change. If such change occurs prior to issuance of the license, an applicant shall report the change to the license board within fourteen days of the change.
+
+   3. Applications for permits and any other document that the commissioner may require to be filed with the department, shall bear the stamp of the special electrician's seal as well as the signature of a person holding such license. Such person shall personally sign applications for permits and shall have the authority to make final determinations and full responsibility for the manner in which the work is done. For applications and other documents submitted electronically, the digital signature and imprint of the seal may be submitted in a manner authorized by the commissioner.
+
+
+
+
+
+
+*§ 27-3014 Master electrician's and special electrician's licenses and fees.* ::
+
+
+a. Before any master electrician's or special electrician's license will be issued or renewed, the applicant shall pay a license or renewal fee as prescribed by the department's rules. The commissioner may exempt any agency, as defined in chapter fifty-two of the charter, from paying the aforementioned fees for licensed special electricians who are employees of such agencies.
+
+b. Seal. The holder of a master electrician's license shall be issued a seal, of a design or form authorized by the commissioner, bearing the holder's full name, license number, and the legend "licensed master electrician." The holder of a special electrician's license shall be issued a seal, of a design and form authorized by the commissioner, bearing the holder's full name, license number, and the legend "licensed special electrician."
+
+c. No license shall be transferable. The seal is the property of the department and is not transferable by the licensee.
+
+d. The loss or theft of a license or seal must be reported to the department within five calendar days. Before any license or seal will be reissued, the applicant shall pay a reissuance fee as prescribed by the department's rules.
+
+e. An application for a change of license from master electrician to special electrician shall involve the issuance of a new license and seal with or without examinations as the commissioner may direct.
+
+f. An application for a change of license from special to master electrician shall be granted only upon compliance by the special electrician with all applicable provisions of this chapter and the rules of the department.
+
+g. Each license and seal shall be issued for one year and the full fee shall be payable irrespective of the date of issue.
+
+h. Not more than one license and/or seal shall be issued to an individual and no individual shall make or cause to be made a duplicate of such license or seal.
+
+
+
+
+
+
+*§ 27-3015 Renewal of master electrician's and special electrician's licenses.* ::
+
+
+a. Any license and seal issued hereunder shall expire one year from the year of issuance on the licensee's date of birth for that year irrespective of the date of issue. Such license may be renewed every year thereafter without examination, provided application for such renewal, accompanied by the renewal fees prescribed above and such information as may be required by the commissioner to ensure compliance with section 27-3016 of this chapter and evidence of insurance coverage in compliance with section 27-3013 of this chapter, shall have been filed prior to the expiration of the existing license.
+
+   1. Where an applicant can show good and sufficient cause for his or her inability to renew his or her license and seal before its expiration, the commissioner may, upon submission of a complete application for late renewal within ninety (90) days after the expiration of such license, permit the issuance, without examination, of a new license and seal upon payment of the prescribed fees for such new license and seal within said ninety days. The commissioner may promulgate rules authorizing the renewal of a license up to six months after the expiration of such license for extenuating circumstances.
+
+   2. No license shall be renewed and no new license and seal shall be issued unless all outstanding fees required by section 27-3018 of this code have been paid.
+
+   3. Renewal shall also be subject to the licensee's good moral character. As provided in department rule, the licensee's failure to clear open violations in a timely manner may result in the refusal to renew a license until the violations are resolved.
+
+   4. The commissioner may promulgate rules requiring applicants for the renewal of master or special electrician's licenses to submit proof, in such form as he or she shall determine, that, in each year of the license term, such applicant completed at least eight hours of continuing education courses approved by the department. Such proof shall be submitted with the license renewal application.
+
+b. If a master electrician's or special electrician's license is suspended for cause, and the restoration thereof is conditional upon some action to be taken by the holder of the master electrician's or special electrician's license and the holder fails to take action before the expiration of the license, such failure shall be cause for the denial of the subsequent application to renew the license and seal.
+
+
+
+
+
+
+*§ 27-3016 Suspension, revocation or deactivation of master electrician's and special electrician's licenses and suspension or revocation of approval of master electrician business.* ::
+
+
+a. 1. After notice and the opportunity for a hearing in accordance with the rules of the department, master electrician's or special electrician's licenses and/or approvals of master electrician businesses may be suspended or revoked by the commissioner and/or the commissioner may impose penalties, which shall not exceed five thousand dollars for each violation, for violation of this chapter or of any of the rules of the department and/or the commissioner may order the licensee to cause the repair of electrical damage, and any damage incidental thereto, resulting from any act or omission giving rise to a violation as set forth in this chapter or in rules, for any of the following:
+
+      (i) Failure to file an application for a permit or inspection.
+
+      (ii) Failure, upon receipt of a notice of violation, to take the action called for in such notice.
+
+      (iii) Performance of electrical work in a manner contrary to the requirements of the electrical code, [or] the electrical code technical standards or other applicable laws and rules enforced by the department.
+
+      (iv) Negligence, incompetence, lack of knowledge, or disregard of the code and related laws and rules.
+
+      (v) Engaging or assisting in any act that endangers the public safety and welfare.
+
+      (vi) Contract work by holders of special electrician's licenses.
+
+      (vii) Fraudulent dealing or misrepresentation.
+
+      (viii) Conviction of a criminal offense where the underlying act arises out of the individual's professional dealings with the city or any other governmental entity.
+
+      (ix) False statement in an application for a license or the renewal of a license or in an application for approval of a master electrician business or other application or certification required by this code or the rules of the commissioner, or in any proof or instrument in writing in connection therewith.
+
+      (x) The making of a material false or misleading statement on any form or report filed with the department or other governmental entity.
+
+      (xi) The failure to file a statement, report or form required by law to be filed.
+
+      (xii) Willfully impeding or obstructing the filing of a statement, report or form of another required by law to be filed.
+
+      (xiii) Poor moral character that adversely reflects on the licensee's fitness to conduct work regulated by this code.
+
+      (xiv) Failure to pay outstanding fees owed pursuant to section 27-3018 of this chapter.
+
+      (xv) Failure to comply with this code or any order, rule, or requirement lawfully made by the commissioner including failure to cooperate with investigations related to the electrical field conducted by the commissioner or other government entity.
+
+      (xvi) Failure to provide documents, including payroll records, workers' compensation or other insurance documents, employee timekeeping records and corporate tax returns, required or requested by the commis- sioner.
+
+   2. Notwithstanding any inconsistent provision of paragraph one of this subdivision if, after due inspection, the commissioner determines that a licensee and/or a master electrician business has performed electrical work which is not in compliance with the electrical code, the electrical code technical standards, or any other laws or rules enforced by the department, and which has resulted in a condition severely hazardous to life or property, the commissioner may suspend his or her license and/or the authorization of a master electrician business represented by such licensee without a prior hearing. Notice of such suspension shall be served on the licensee and/or the master electrician business. The commissioner shall provide the licensee and/or the master electrician business with the opportunity for a hearing within five (5) calendar days after such suspension.
+
+b. In the event the holder of a master electrician's license is no longer engaged in a master electrician business or a special electrician is engaged during normal working hours in a business activity that does not involve the installation, alteration, or repair of electrical wiring for light, heat or power, then he or she shall so notify the department and submit his or her license and seal for deactivation provided that (i) such license and seal will be reinstated without examination if such application is made prior to the date on which it would have otherwise expired, or (ii) if application is made after such date a new license and seal will be issued, without written re-examination, after the submission of satisfactory evidence of continued competence in the electrical field and satisfaction of any applicable continuing education requirements during the period of deactivation; provided that at the time of the submission of the license for deactivation:
+
+   1. All outstanding fees required by section 27-3018 of this chapter are paid, and
+
+   2. There are no outstanding violation notices for electrical work performed under such license, and
+
+   3. Open applications filed under such license have been scheduled for inspection in accordance with department procedures, re-filed by another licensee or have been withdrawn.
+
+c. During the period of deactivation, the licensee must continue to pay the license renewal fee required by this chapter for each year of the deactivation period.
+
+d. During any period of deactivation, or upon the suspension or revocation, of a master electrician's or special electrician's license, the holder shall surrender his or her seal to the department. Upon the death of a holder, his or her seal shall be immediately surrendered to the department.
+
+e. The fees required for the reinstatement of a license after deactivation or suspension shall be the same as those required to obtain the license.
+
+f. If reinstatement of the license is not requested within thirty days of the expiration of a suspension, late fees shall be imposed as prescribed by the department's rules.
+
+
+
+
+
+
+*§ 27-3016.1 Certification as low voltage installer; qualifications; issuance; fees.* ::
+
+
+a. An individual who has been determined by the commissioner to be competent to perform low voltage electrical work in compliance with the electrical code and the electrical code technical standards, the building code and other applicable law and who otherwise qualifies in accordance with this section and the rules of the department may be certified as a low voltage installer.
+
+b. An applicant for such certification shall be over the age of eighteen years, of good moral character and at the time of application shall have had two (2) years of satisfactory experience as set forth in the rules of the department.
+
+c. Every such application shall be made in writing in such form and shall furnish such information as the commissioner shall prescribe and set forth in the rules of the department. Every applicant shall submit to an investigation to determine the applicant's character and fitness.
+
+d. Such certification shall be issued for such term and shall be subject to renewal in accordance with such conditions as shall be prescribed in the rules of the department.
+
+e. The fee for such certification and for the renewal thereof shall be prescribed by rule.
+
+f. Certification as a low voltage installer may be suspended or revoked for cause in accordance with the rules of the department and/or the department may impose penalties which shall not exceed one thousand dollars for each violation for violations of this chapter, the electrical code, the electrical code technical standards or the rules of the department.
+
+
+
+
+
+
+*§ 27-3017 Electrical work by unauthorized persons; false representations.* ::
+
+
+a. Work without appropriate license, false representation prohibited. 1. Except as otherwise provided in paragraph two of this subdivision, it shall be unlawful for any person to perform electrical work except under a license issued to a master electrician or special electrician as provided in this chapter. It shall be unlawful for any person to advertise or to hold himself, herself or itself out as authorized to engage in the business of performing electrical work unless such person is authorized to perform such work pursuant to this chapter under an appropriate master electrician's or special electrician's license. No person shall cause any such work to be done by any person unless he or she is an employee of and working under the direct supervision of a person authorized to perform such work pursuant to this chapter and the rules of the department. No person shall falsely represent that he, she or it is authorized to perform electrical work under a master electrician's or special electrician's license or shall use in any advertising the words "master electrician" or the words "licensed electrician" or the words "electrical contractor" or any words of similar meaning or import on any sign, card, letterhead or in any other manner unless such person is so authorized pursuant to this chapter and the rules of the department. 2. Notwithstanding any inconsistent provision of paragraph one of this subdivision, the commissioner may authorize business entities engaged in the business of installing, maintaining or repairing communication, signaling, alarm or data transmission systems to perform low voltage electrical work under a certification issued to a low voltage installer as provided in this chapter and the rules of the department.
+
+b. False statement. No person shall, with intent to defraud or deceive, knowingly make a false statement, or cause or procure to be made or aid and assist in the making of a false statement in an application for a master electrician's or special electrician's license or for certification as a low voltage installer or in an application for approval of a master electrician business or the renewal of a license or certificate or in an application for a permit and approval or in any application provided for in this chapter, or in any proof or instrument in writing in connection therewith, or in any examination hereunder, deceive or substitute or cause another to deceive or substitute.
+
+c. Penalty. Any person, partnership or corporation who shall violate any of the provisions of this section shall be guilty of a misdemeanor punishable in accordance with chapter two of title 28 of this code.
+
+
+
+
+
+
+
+
+*§ 27-3017.1 Cooperation required.* ::
+
+
+a. Any person, including any corporation, partnership, business or other entity, issued a license by the department shall, pursuant to a request or order of the commissioner or any city agency or office, cooperate fully and completely with respect to any department or city agency or office investigation. Evidence of cooperation shall include, but is not limited to, appearing before the department or other city agency or office, answering questions completely and accurately, and providing any and all requested documents. Failure to comply with such request or order may subject such person to disciplinary measures authorized by law, including but not limited to suspension or revocation of the license.
+
+b. Service of request or order. Such request or order by the commissioner or other city agency or office shall be mailed by regular mail to the person named therein to his or her last known business address or home address at least ten days before such appearance and shall contain the name of the person, the date, time and place of such appearance and, if known or applicable, a description of any requested documents. If the appearance or information is required immediately, the request or order may be transmitted via facsimile or delivered to the person's last known business or home address prior to the date and time specified therein.
+
+
+
+
+
+
+*§ 27-3018 Inspection; application for permit and application fees.* ::
+
+
+a. The commissioner or any officer or employee of the department authorized thereto by the commissioner, or any other person designated by the commissioner pursuant to section 27-3005 of this code, may enter or go upon any premises in or upon which there are any wiring or appliances for electric light, heat or power to make an inspection of the same. Any person who willfully refuses to permit such entry or inspection, shall be guilty of a violation of this subdivision, and upon conviction thereof, shall be punished by a fine of not more than one hundred dollars, imprisonment for a period not exceeding thirty days, or both.
+
+b. Before commencing any electrical work, other than low voltage electrical work, a master electrician business or special electrician shall file with the commissioner an application for a work permit to be issued by the department. All applications for permits shall be submitted on forms furnished by the department. Applications shall include all information required by this code, other applicable law, including but not limited to the applicable energy conservation code, or the rules of the department. No such work shall be performed until the commissioner has reviewed and approved such application and issued an appropriate permit for such work. The permit shall be conspicuously posted at the work site at all times while the work is in progress. Each permit shall be issued with an expiration date of three years.
+
+   1. Permits shall be deemed to incorporate the provisions that the applicant, the owner, and their employees, shall carry out the permitted work in accordance with the provisions of this code and other applicable laws or rules, whether specified or not, except as variations have been legally permitted or authorized.
+
+   2. All work shall conform to the approved submittal documents and any approved amendments thereto. Changes and revisions during the course of work shall conform to the requirements of this code.
+
+   3. The permit shall expire by operation of law if the insurance required pursuant to section 27-3013 of this chapter, and upon which the permit was conditioned, lapses, expires or is cancelled, unless the permit holder files proof of valid insurance before such event.
+
+c. Fees. The fee for a permit for minor electrical work as described in subdivision h of this section shall be fifteen dollars, payable upon filing of the application.
+
+   1. An initial application fee for electrical work requiring a permit shall be payable as follows: forty dollars upon filing of the application for such work.
+
+   2. The balance of the application fee shall be payable at electrical sign-off from the department or as otherwise provided by the department's rules.
+
+   3. The fee for electrical work requiring a work permit by the department shall be computed as follows but shall not exceed five thousand dollars:
+
+      (i) Each outlet, each fixture, each horsepower or fraction thereof of a motor or generator, each kilowatt or fraction thereof of a heater, each horsepower or fraction thereof of an air conditioner, each kilovolt-ampere or fraction thereof of a transformer installed, altered or repaired shall be assigned the value of one unit. In computing the aforementioned fee, the sum of the units will determine the charges as set forth herein below: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  Sum of units
+      - Fee 
+    * - 1-10
+      - $0.00
+    * - Over 10
+      - $0.25 per unit
+    * - (ii) For each service switch installed, altered or repaired: 
+      - 
+    * - 0-100 Amperes
+      - $ 8.00
+    * - 101-200 Amperes
+      - $ 30.00
+    * - 201-600 Amperes
+      - $105.00
+    * - 601-1200 Amperes
+      - $225.00
+    * - Over 1200 Amperes
+      - $375.00
+    * - (iii) For each set of service entrance cables and for each set of feeder conductors installed, altered or repaired:
+      - 
+    * - Up to #2 Conductors
+      - $ 15.00
+    * - Over #2 to #1/0 Conductors
+      - $ 30.00
+    * - Over #1/0 to 250 MCM
+      - $ 45.00
+    * - Over 250 MCM
+      - $ 75.00
+    * - (iv) For each panel installed, altered or repaired:
+      - 
+    * - 1 Phase up to 20-1 or 10-2 pole cutouts or breakers
+      - $ 15.00
+    * - 1 Phase over 20-1 or 10-2 pole cutouts or breakers
+      - $ 37.50
+    * - 3 Phase up to 225 amperes
+      - $ 50.00
+    * - 3 Phase over 225 amperes
+      - $ 75.00
+    * - (v) (a) For each sign manufactured (in-shop inspections): 
+      - $ 40.00
+    * - (b) For each sign manufactured (on-site inspections):
+      - 
+    * - 0 to 30 square feet
+      - $ 65.00
+    * - 31 to 60 square feet
+      - $ 90.00
+    * - Over 60 square feet
+      - $115.00
+    * - (vi) For each elevator:
+      - 
+    * - 10 floors or less
+      - $125.00
+    * - Each additional ten or fewer floors
+      - $ 83.00
+    * - (vii) For wiring or rewiring boiler controls in buildings:
+      - $ 12.00
+~
+
+ 
+
+d. If, after inspection, such wiring or appliances shall be found to have been installed, altered or repaired in conformity with the requirements of this chapter, the electrical code, the electrical code technical standards and the rules of the department, and the required fees paid, the commissioner shall issue to the applicant a sign-off of the approved work completed. The provisions of this subdivision shall not apply to work performed pursuant to a permit for minor electrical work as defined in subdivision h of this section.
+
+e. Whenever a master electrician business or special electrician files an application for a permit covering electrical work installed by an unlicensed or unauthorized person, it shall be his or her duty to specify such fact upon the application.
+
+f. The commissioner shall be entitled to charge the following special fees:
+
+   1. For an application with respect to electrical work made after a violation was issued for failure to file an application for a permit for such work—up to ten times the total fee that would otherwise be payable as set forth in subdivisions c and d of this section.
+
+   2. Duplicate copy of notice of violation—$5.
+
+g. No application or fees shall be required for electrical work relating to the construction and maintenance of city street lights and city traffic lights owned, operated or controlled by the city government or any agency thereof.
+
+h. 1. For purposes of this section a permit for minor electrical work may be issued for any of the following:
+
+      (i) replacement of defective circuit breakers or switches rated thirty amperes or less, excluding main service disconnects;
+
+      (ii) replacement of parts in electrical panels where voltage does not exceed one hundred fifty volts to ground;
+
+      (iii) replacement of minor elevator parts as defined by rule;
+
+      (iv) replacement of defective controls rated at thirty amperes or less;
+
+      (v) repair of defective fixtures;
+
+      (vi) replacement of fixtures in existing outlets, provided the number of such fixtures does not exceed five and does not increase existing wattage; (vii) replacement, repair, disconnection or reconnection of motors not to exceed one horsepower, and associated devices;
+
+      (viii) repairs to low pressure heating plants with a capacity of less than fifteen pounds per square inch, except as may otherwise be required by rule of the commissioner.
+
+      (ix) installation of any ten or fewer units not requiring the installation of an additional branch circuit;
+
+      (x) installation of motors of fractional horsepower;
+
+      (xi) installation of transformers rated at one thousand volt amperes or less.
+
+   2. Notwithstanding any other provision of this chapter, an electrical sign-off by the department shall not be required for electrical work performed pursuant to a permit for minor electrical work.
+
+   3. Notwithstanding any other provision of this chapter, the commissioner may promulgate a rule providing that minor electrical work may be performed without a permit or the payment of a fee under the conditions to be prescribed in such rule.
+
+i. The department shall not issue a permit or, if applicable, an electrical sign-off pursuant to an application that involves the energizing of a meter in a one-, two-, three-, or four-family residence, if the department finds that such action will cause the total number of meters for the building to exceed the number of dwelling units specified for such building in the certificate of occupancy, or if there is no certificate of occupancy, as determined by the department, except as permitted herein. A building specified as a one-family residence in the certificate of occupancy or, if there is no certificate of occupancy, as determined by the department, may have only one electric meter. A building in which two or more dwelling units have been constructed in accordance with the certificate of occupancy, or if there is no certificate of occupancy, as determined by the department, may have one meter for each dwelling unit and one additional meter for the common areas of the building, provided that smoke detecting devices are installed in all common areas in accordance with departmental requirements. Such common areas may include boiler rooms, shared hallway lighting, shared stairway lighting, and outdoor perimeter lighting but shall not include any habitable space. In the event that a meter has been found to have been installed or to exist in violation of this section, the department may take action leading to the disconnecting of such meter in accordance with the notice requirements set forth in section 27-3020 of this chapter.
+
+j. Any application for a permit filed with the department in relation to a request for the authorization to power or energize/electrical wiring or appliances or power generation equipment, or in relation to work that will result in the issuance of a new or amended certificate of occupancy must include a statement, signed and sealed by the electrician, that the building owner or his or her authorized representative has authorized in writing the work to be performed. This signed authorization must be available upon request by the department. In addition, any electrical application filed with the department involving the energizing of a meter, must include as well, a statement, signed and sealed by the electrician, that the building owner or his or her authorized representative has indicating in writing the intended use or purpose of such meter and has affirmed that such meter will be maintained in compliance with the provisions of this section. This statement must be available upon request by the department.
+
+k. Any authorization to power or energize electrical wiring or appliances issued by the department shall expire ninety days after the date of issuance unless a sign-off has been issued by the department or an extension of such authorization has been granted by the department. In the event no such sign-off has been issued or extension authorization granted, the department may take action leading to the disconnecting of such meter(s) in accordance with the notice requirements set forth in section 27-3020 of this chapter.
+
+l. Any permit application filed with the department that requires the selective coordination of overcurrent protective devices must include documentation from a professional engineer demonstrating how selective coordination was achieved, including but not limited to short circuit overlay curves and calculations. Such documentation shall be submitted to the department prior to sign off.
+
+m. For permit applications requiring compliance with the applicable energy conservation code, documentation demonstrating compliance must be available upon request by the department.
+
+n. The provisions of this section shall not apply to low voltage electrical work.
+
+o. An application for a work permit may be amended by filing with the department a post-approval amendment in a form prescribed by rule of the department.
+
+
+
+
+
+
+*§ 27-3019 Modification, suspension or revocation, electrical sign-off, permit or other authorization.* ::
+
+
+a. The commissioner may at any time by an order in writing for good cause shown, modify, suspend or revoke any sign-off, permit or other authorization issued pursuant to this chapter for failure to comply with the provisions of this code or other applicable laws or rules; or whenever there has been any false statement or any misrepresentation as to a material fact in the application or submittal documents upon the basis of which such approval was issued; or whenever a permit has been issued in error and conditions are such that the permit should not have been issued. Such notice shall inform the permit holder of the reasons for the proposed action and that the permit holder has the right to present to the commissioner or his or her representative within ten business days of delivery of the notice by hand or fifteen calendar days of the posting of notice by mail, information as to why the permit should not be modified, suspended or revoked. A copy of any such order shall be served in the manner provided in this subchapter. No person other than the commissioner or an officer or employee of the department, duly authorized thereto by the commissioner, shall alter or amend any sign-off, permit or other authorization issued pursuant to this chapter or the rules of the department.
+
+b. Immediate suspension in cases of imminent peril. The commissioner may immediately suspend any permit without prior notice to the permit holder when the commissioner has determined that an imminent peril to life or property exists. The commissioner shall immediately notify the permit holder that the permit has been suspended and the reasons therefore, that it is proposed to be revoked, and that the permit holder has the right to present to the commissioner or his or her representative within ten business days of delivery of the notice by hand or fifteen calendar days of the posting of notice by mail information as to why the permit should not be revoked.
+
+
+
+
+
+
+*§ 27-3020 Supplying or discontinuing electrical energy.* ::
+
+
+a. Except as otherwise provided in this code, no person, partnership or corporation shall supply, or cause to be supplied or used, electrical energy for light, heat or power, signaling, alarm or data transmission to any wiring or appliance in any building unless a sign-off or other authorization as set forth in the rules of the department authorizing the use of said wiring or appliance shall have been issued by the commissioner.
+
+b. If, in the judgment of the commissioner, after due inspection, the continued use of any electric wiring or appliances in or on any building or structure shall be unsafe or dangerous to persons or property, the commissioner may cause such wires or appliances to be disconnected from the supply of electrical energy and to seal the wiring and appliances so disconnected. Thereafter, no person shall cause or permit electrical energy to be supplied to the wiring or appliances so sealed until the same shall have been made safe and the commissioner shall have issued a certificate to that effect; provided, however, that no wiring or appliances shall be disconnected pursuant to this section until a notice in writing, stating specifically the reason why such wiring or appliances must be disconnected, shall have been served, as provided in this chapter, and a duplicate thereof shall have been delivered to the person supplying the electrical energy to such wiring or appliances.
+
+
+
+
+
+
+*§ 27-3021 Service of orders and notices.* ::
+
+
+Any order or notice issued pursuant to the provisions of this chapter may be served personally upon the person, partnership or corporation to whom or to which it is addressed, or may be served by mailing the same in a sealed envelope with postage prepaid, directed, in the case of the holder of any license, to the address furnished by such license holder to the department of buildings as his or her business address, or the address of the master electrician business represented by the licensee and, in the case of any other person, partnership or corporation, to the premises where the defects recited in such order are alleged to exist and by the posting in a conspicuous place on such premises of a copy of such notice or order. The service as above described, by mailing and posting, shall be the equivalent of personal service.
+
+
+
+
+
+
+*§ 27-3021.1 Electric meter installation; restriction.* ::
+
+
+No public utility shall supply electricity to a one, two, three or four family residence building, nor shall such utility energize more electrical meters in a building than the number of distinct and separate residences in such building as authorized in the certificate of occupancy applicable thereto, or if there is no certificate of occupancy, as determined by the department, without first receiving a sign-off from the department. In the event that an owner of a one, two, three or four family building wants to install an additional electrical meter other than provided for herein, approval shall be obtained in writing from the department. A public utility shall not install such additional electrical meter without such approval. A building in which two or more dwelling units have been constructed in accordance with the certificate of occupancy, or if there is no certificate of occupancy, as determined by the department, may have one meter for each dwelling unit and one additional meter for the common areas of the building, provided that smoke detecting devices are installed in all common areas in accordance with departmental requirements. Such common areas may include boiler rooms, shared hallway lighting, shared stairway lighting, and outdoor perimeter lighting but shall not include any habitable space. In the event that a meter has been found to have been installed or to exist in violation of this section, the utility must report such findings to the department, which may take action leading to the disconnecting of such meter in accordance with the notice requirements set forth in section 27-3020 of this code.
+
+
+
+
+
+
+*§ 27-3021.2 Violations.* ::
+
+
+Except as otherwise provided in this chapter, any person or business who shall violate any of the provisions of this chapter or who shall fail to comply with any requirement thereof or with the electrical code technical standards or who shall violate or fail to comply with any order or rule of the commissioner made thereunder shall, for each and every violation or noncompliance be subject to penalties and other enforcement actions in accordance with the provisions of chapter 2 of title 28 of the administrative code.
+
+
+
+
+
+
+
+**Subchapter 2: Technical Standards**
+
+
+
+*§ 27-3024 Adoption of the electrical code technical standards.* ::
+
+
+a. The city of New York hereby adopts the 2008 edition of the National Fire Protection Association NFPA 70 National Electrical Code as the minimum requirements for the design, installation, alteration or repair of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm and data transmission in the city subject to the amendments adopted by local law and set forth in section 27-3025 of this subchapter, which shall be known and cited as "the New York city amendments to the 2008 National Electrical Code". Such 2008 edition of the National Fire Protection Association NFPA 70 National Electrical Code with such New York city amendments shall together be known and cited as the "electrical code technical standards". The commissioner shall make a copy of the electrical code technical standards available for public inspection at the department of buildings.
+
+b. No later than August thirty-first, two thousand twelve and on or before such date in every third year thereafter, the commissioner shall submit to the city council proposed amendments that he or she determines should be made to the electrical code technical standards to bring them up to date with the latest edition of the National Fire Protection Association NFPA 70 National Electrical Code or otherwise modify the provisions thereof. In addition, prior to the submission of such proposal to the city council, such proposal shall be submitted to an advisory committee established by the commissioner pursuant to this chapter for review and comment.
+
+
+
+
+
+
+*§ 27-3025 The New York city amendments to the 2005 National Electrical Code.* ::
+
+
+The following New York City amendments to the 2005 National Electrical Code are hereby adopted as set forth in this section. In the event of conflicts between technical provisions, the more restrictive shall apply:
+
+2008 NEC NEW YORK CITY AMENDMENT
+
+ARTICLE 90Introduction
+
+SECTION 90.2
+
+Subsection 90.2(B)(5)—Delete paragraph (b) and add a new paragraph (b) to read as follows:
+
+(b) Are located in legally established easements, rights-of-way, or by other agreements either designated by or recognized by public service commissions, utility commissions, or other regulatory agencies having jurisdiction for such installations, or
+
+CHAPTER 1General
+
+ARTICLE 100Definitions 
+
+Coordination (Selective) Add a new sentence at the end of the definition of Coordination (Selective) to read as follows:
+
+For the purposes of this code two overcurrent protective devices shall be deemed selectively coordinated if their respective time-current characteristic curves do not intersect at a time of 0.1 seconds (6 cycles on 60 Hz systems) or longer.
+
+Electric Closet. Add a new definition of Electric Closet immediately after "Dwelling Unit", to read as follows:
+
+Electric Closet. A room designed for or dedicated to the purpose of containing electrical distribution equipment such as vertical risers, bus ducts, transformers or panelboards.
+
+ARTICLE 110Requirements for Electrical Installations 
+
+SECTION 110.2
+
+Section 110.2—Delete in its entirety and add a new section 110.2 to read as follows:
+
+110.2 Approval of Electrical Materials, Equipment and Installations.
+
+(A) Listed and Approved Materials and Equipment. All electrical equipment, apparatus, materials, devices, appliances or wiring thereto installed or used in any electrical construction or installation regulated by the terms of this code, shall be designed and constructed so as to be safe and suitable for the purpose intended.
+
+   (1) All electrical equipment, apparatus, materials, devices, appliances and wiring used in New York City shall be approved by the commissioner, with submissions required in accordance with rules of the department.
+
+   (2) The maker's name, trademark or other identification, symbol and number shall be placed on fittings, equipment and materials. Additional markings shall be provided, stating voltage, current, wattage or other appropriate ratings as prescribed elsewhere in this code.
+
+(B) Installations. All electrical installations regulated by the terms of this code shall be designed and constructed so as to be safe and suitable for the purpose intended.
+
+No electrical installations as described in (1) through (5) below shall be constructed unless a submission for approval has been made to the commissioner and approval has been granted. For the purpose of this section an electrical "installation" shall refer to the installation of service equipment, transformers, UPS systems, generators, electrical wiring of assembled photovoltaic arrays, generator paralleling equipment or other sources.
+
+   (1) A new installation of new equipment totaling 1000 kVA or larger.
+
+   (2) Any change in an installation with a rating of 1000 kVA or larger, up to and including 2nd level overcurrent protection unless it was fully described and approved as "future" on the original approved plan.
+
+   (3) Any addition to an existing installation, which would bring the total to 1000 kVA or larger.
+
+   (4) The addition of any equipment in a room, which would affect clearances around the equipment of a 1000 kVA installation.
+
+   (5) A new installation or revised installation above 600V irrespective of kVA rating.
+
+Exception No. 1: No submission is required solely for fire alarm service taps.
+
+Exception No. 2: No submission is required for the addition of one 2nd level overcurrent protection device 200 amperes or less.
+
+(C) Capacity.
+
+   (1) The capacity of a utility service, in kVA, shall be determined by summing the maximum ampere ratings of each service disconnecting means and calculating total kVA at the operating voltage. Service disconnecting means supplying fire pumps shall be included at 125 percent of the fire pump full load amps. The calculation shall include all new and existing service disconnecting means supplied from the common service entrance.
+
+   (2) The capacity of a transformer, UPS system, generator or other source shall be its maximum KVA output rating.
+
+FPN: See 90.7, Examination of Equipment for Safety, and 110.3, Examination, Identification, Installation, and Use of Equipment. See definitions of "Approved," "Identified," "Labeled," and "Listed."
+
+SECTION 110.4
+
+Section 110.4—Add a FPN at the end of the section to read as follows:
+
+FPN: See Section 27-3004 of the Administrative Code for the definitions of Low Voltage Electrical Work and Low Voltage Installer, and Section 27-3016.1 for the certification requirements of a Low Voltage Installer.
+
+SECTION 110.25
+
+Section 110.25—Add a new section 110.25 to read as follows:
+
+110.25 Electric Closets. Electric closets shall be dedicated to electrical distribution equipment. Electric closets shall be identified as such, shall be sized to provide the applicable working space requirements, and shall not be used for any other purpose including storage. Electric closets shall be accessible to authorized persons only.
+
+Exception: Other systems that are required to be installed by a licensed electrician, such as Fire Alarm Panels, Building Management Systems and Lighting Control Systems may be installed in Electric Closets.
+
+SECTION 110.26
+
+Subsection 110.26(H)—Add a new subsection 110.26(H) to read as follows:
+
+(H) Network Compartments. All network compartments shall have at least two means of access. Each door shall access an area that leads to a legal exit.
+
+SECTION 110.31
+
+Section 110.31—Revise the second sentence of the second paragraph to read as follows:
+
+A fence shall not be less than 2.44m (8 ft) in height.
+
+Subsection 110.31(A)—Revise the second sentence to read as follows:
+
+The floors of vaults in contact with the earth shall be of concrete that is not less than 6 in. (150 mm) thick, but where the vault is constructed with a vacant space or other stories below it, the floor shall have adequate structural strength for the load imposed on it and a minimum fire resistance of 3 hours.
+
+SECTION 110.33
+
+Subsection 110.33(A)—Revise the first sentence of the subsection to read as follows:
+
+At least one entrance to enclosures for electrical installations as described in 110.31 not less than 762 mm (30 in.) wide and 2 m (61/2 ft) high shall be provided to give access to the working space around the electrical equipment.
+
+SECTION 110.34
+
+Subsection 110.34(A)—Revise the last sentence of the Exception to read as follows:
+
+Where rear access is required to work on de-energized parts on the back of enclosed equipment, a minimum working space of 900 mm (36 in.) horizontally shall be provided.
+
+CHAPTER 2Wiring and Protection 
+
+ARTICLE 210Branch Circuits 
+
+SECTION 210.11
+
+Subsection 210.11(C)(4)—Add a new subsection 210.11(C)(4) to read as follows:
+
+(4) Air-Conditioning Branch Circuit. In addition to the number of branch circuits required by other parts of this section, an individual branch circuit shall be provided for each air-conditioning receptacle required by 210.52(I).
+
+SECTION 210.19
+
+Subsection 210.19(A)(1)—Add a new sentence at the end of the paragraph before the first Exception to read as follows:
+
+Conductors of branch circuits shall be sized to allow for a maximum voltage drop of 3 percent at the last outlet supplying light, heat or power and the maximum voltage drop allowable for feeders and branch circuit combined shall not exceed 5 percent.
+
+FPN No. 4—Delete the FPN in its entirety.
+
+Subsection 210.19(A)(4)—Revise the first sentence of the paragraph by replacing "14 AWG" with "12 AWG"
+
+Exception No. 3: Add a new Exception No. 3 to read as follows:
+
+Exception No.3: Where compliance with the applicable Energy Conservation Code is mandated voltage drop requirements of that code shall apply.
+
+SECTION 210.24
+
+Section 210.24 Table—Replace the value "14" that appears twice in the column headed 15A, and once each in the columns headed 20A and 30A in the Circuit Rating Section with the value "12."
+
+SECTION 210.25
+
+Section 210.25—Add an Exception to (A) and (B) to read as follows:
+
+Exception to (A) and (B): Buildings built prior to January 1, 2003 are exempt from the requirements of 210.25 (A) and (B) under either of the following conditions:(1) undergoing renovation less than 50 percent.(2) repair to or replacement of existing equipment.
+
+SECTION 210.52
+
+Subsection 210.52(E)(3)—Delete the Exception in its entirety.
+
+Subsection 210.52(I)—Add a new subsection 210.52(I) to read as follows:
+
+(I) Outlet Requirements For Residential-Type Occupancies. In addition to the requirements set forth in subsections (A) through (H) of this section, living rooms, bedrooms, dining rooms or similar rooms shall have at least one receptacle outlet installed for air conditioners. Such outlets shall be supplied by an individual branch circuit.
+
+Exception: Buildings with central air conditioning systems that serve any of the above areas shall not require separate outlets in those areas.
+
+ARTICLE 215Feeders 
+
+SECTION 215.2
+
+Subsection 215.2(A)(1)—Add two new sentences at the end of the first paragraph, before the Exception, to read as follows:
+
+Feeder conductors shall be sized so that the maximum voltage drop at the last overcurrent device does not exceed 3 percent and the total maximum voltage drop of feeder and branch circuit conductors to the last outlet does not exceed 5 percent. The minimum feeder size feeding a dwelling unit shall be 8 AWG copper or 6 AWG aluminum or copper-clad aluminum conductors.
+
+Add three new Exceptions No. 3, No. 4 &amp; No. 5 and a FPN, to read as follows:
+
+Exception No. 3: For residential occupancies and portions of the electrical system of mixed use buildings serving exclusively residential occupancies, the maximum voltage drop from the service point to the last overcurrent device shall not exceed 4 percent and the total maximum voltage drop to the last outlet shall not exceed 5 percent.
+
+Exception No. 4: Where the distance between the utility service point and the service disconnecting means exceeds 15.2 m (50 ft), the voltage drop between the service point and the service disconnecting means may be calculated utilizing the service capacity limits defined by the utility company in lieu of the computed load. The distance between the service point and the service disconnecting means, the computed load and a letter on utility company letterhead indicating service limits shall be submitted for department approval.
+
+Exception No. 5: Where compliance with the applicable Energy Conservation Code is mandated voltage drop requirements of that code shall apply.
+
+FPN: When using Exception No. 4, potential future increases in the utility service capacity limits should be considered to avoid exceeding voltage drop limits at a later date.
+
+Subsection 215.2(A)(3)—Delete FPN No. 2.—Renumber FPN No. 3 as FPN No. 2, and revise to read as follows:
+
+FPN No. 2: See amended 210.19(A) for voltage drop on branch circuits.
+
+ARTICLE 220Branch-Circuit, Feeder, and Service Calculations 
+
+SECTION 220.14
+
+Section 220.14—Delete the reference to subdivision (L) in the first paragraph and replace it with a reference to subdivision (M) to read as follows:
+
+In all occupancies, the minimum load for each outlet for general-use receptacles and outlets not used for general illumination shall not be less than that calculated in 220.14(A) through (M), the loads shown being based on nominal branch-circuit voltages.
+
+Subsection 220.14(M)—Add a new subsection 220.14(M) to read as follows:
+
+(M) Air Conditioning Circuits: A load of not less than 1500VA shall be included with each 2 wire circuit. This load shall be permitted to be included with the general lighting load and subject to section 220.42 and table 220.42.
+
+SECTION 220.87
+
+220.87 Determining Existing Loads.
+
+Delete "or service" from the first sentence.
+
+ARTICLE 225Outside Branch Circuits and Feeders 
+
+SECTION 225.10
+
+Section 225.10—Revise the first sentence to read as follows:
+
+The installation of outside wiring on surfaces of buildings shall be permitted for circuits of not over 600 Volts, nominal, as multiconductor cable, as type MI cable, as messenger supported wiring, in rigid metal conduit, in intermediate metal conduit, in cable trays, as cablebus, in wireways, in auxiliary gutters, in liquidtight flexible metal conduit and in busways.
+
+SECTION 225.11
+
+Section 225.11—Revise the first sentence to read as follows:
+
+Where outside branch and feeder circuits leave or enter a building, the requirements of 230.54 shall apply.
+
+SECTION 225.36
+
+Section 225.36—At the end of the sentence, add the following:
+
+and shall comply with all the requirements of Article 408 and its amendments.
+
+ARTICLE 230Services 
+
+SECTION 230.6(5)
+
+Subsection 230.6(5)—Add a new subsection 230.6(5) to read as follows:
+
+(5) Where installed in service and fire pump rooms having 2 hour rated construction.
+
+SECTION 230.30
+
+Section 230.30—Delete the Exception in its entirety.
+
+SECTION 230.31
+
+Subsection 230.31(B)—Revise to read as follows:
+
+(B) Minimum Size. The conductors shall not be smaller than 4 AWG copper or 2 AWG aluminum or copper-clad aluminum.
+
+Exception: Conductors supplying only limited loads of a single branch circuit—such as small polyphase power, controlled water heaters, and similar loads—shall not be smaller than 10 AWG copper or 8 AWG aluminum or copper-clad aluminum.
+
+SECTION 230.42
+
+Subsection 230.42(A)—Revise to read as follows:
+
+(A) General. The ampacity of the service-entrance conductors before the application of any adjustment or correction factors shall not be less than (A)(1) or (A)(2) below. Loads shall be determined in accordance with Part III, IV or V of Article 220, as applicable. Ampacity shall be determined from 310.15 for respective conductor types at 75°C. When service-entrance conductors consist of busbars contained in either service busway or other service equipment, bus sizing shall conform to the following table:
+
+ Table 230.42 Service Equipment Bus Bar Ampere Density
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Current Rating of Bus
+      - Maximum Current Per Square Inch in Amperes 
+      - 
+      - 
+      - 
+    * - Ventilated Housing
+      - 
+      - Unventilated Housing
+      - 
+      - 
+    * - Copper Bar
+      - Alum. Bar
+      - Copper Bar
+      - Alum. Bar
+      - 
+    * - Up to 1200 Amp
+      - 1000 
+      - 750 
+      - 800 
+      - 600 
+    * - 1201 to 2000 Amp
+      -  800 
+      - 600 
+      - 700 
+      - 525 
+    * - 2001 Amp and greater
+      -  700 
+      - 525 
+      - 500 
+      - 375 
+~
+
+
+
+ 
+
+(1) Ampacity of the service-entrance conductors for service below 1000 kVA shall not be less than either a or b:
+
+   (a) The sum of the noncontinuous loads plus 125 percent of the continuous loads.
+
+   (b) The sum of the noncontinuous loads plus the continuous loads if the service-entrance conductors terminate in an overcurrent device where both the overcurrent device and its assembly are listed for operation at 100 percent of their rating.
+
+(2) Ampacity of the service-entrance conductors for services 1000 kVA and larger shall not be less than the sum of the maximum ampere ratings of the service disconnecting means. When including fire pump disconnects in the calculation, 125 percent of the fire pump full load amperes shall be added.
+
+Exception: The ampacity of service-entrance conductors need not exceed the maximum demand calculated in accordance with Article 220, up to a maximum of 4000 amps per service.
+
+FPN: See Subsection 110.2(C)(1) for determining service capacity.
+
+SECTION 230.43
+
+Section 230.43—Revise to read as follows:
+
+230.43 Wiring Methods for 600 Volts, Nominal, or Less. Service-entrance conductors shall be installed in accordance with the applicable requirements of this Code covering the type of wiring method used and shall be limited to the following methods:
+
+(1) Type IGS cable.
+
+(2) Rigid metal conduit.
+
+(3) Intermediate metal conduit.
+
+(4) Electrical metallic tubing.
+
+(5) Metallic wireways.
+
+(6) Busways.
+
+(7) Metallic auxiliary gutters.
+
+(8) Rigid nonmetallic conduit, underground.
+
+(9) Mineral-insulated, metal-sheathed cable.
+
+(10) Flexible metal conduit not over 1.83 m (6 ft) long or liquidtight flexible metal conduit not over 1.83 m (6 ft) long between raceways, or between raceway and service equipment, with equipment bonding jumper routed with the flexible metal conduit or the liquidtight flexible metal conduit according to the provisions of Section 250.102(A), (B), (C), and (E).Service entrance conductors shall not run within the hollow spaces of frame buildings.
+
+SECTION 230.46
+
+Section 230.46—Revise to read as follows:
+
+230.46 Unspliced Conductors. Service-entrance conductors shall not be spliced before terminating at the service disconnecting means, except for the following terminations that are permitted:
+
+(1) in a service end line box.
+
+(2) taps supplying two to six service disconnecting means when grouped.
+
+(3) approved terminals in meter enclosures.
+
+(4) service-entrance conductors in the form of busway, shall be connected as required in order to assemble the various fittings and sections.
+
+SECTION 230.50
+
+Subsection 230.50(B)(1)(3)—Delete the subsection in its entirety.
+
+Subsection 230.50(B)(1)(4)—Delete the subsection in its entirety.
+
+SECTION 230.52
+
+Section 230.52—Delete the section in its entirety.
+
+SECTION 230.54
+
+Section 230.54—Delete in its entirely and add a new section 230.54 to read as follows:
+
+230.54 Overhead Service Locations.
+
+(A) Raintight Service Head. Service raceways shall be equipped with a raintight service head at the point of connection to service-drop conductors.
+
+(B) Service Heads Above Service-Drop Attachment. Service heads shall be locatedabove the point of attachment of the service-drop conductors to the building or other structure.
+
+Exception: Where it is impracticable to locate the service head above the point of attachment, the service head location shall be permitted not farther than 600 mm (24 in.) from the point of attachment.
+
+(C) Separately Bushed Openings. Service heads shall have conductors of different potential brought out through separately bushed openings.
+
+(D) Drip Loops. Drip loops shall be formed on individual conductors. To prevent the entrance of water, service-entrance conductors shall be connected to the service-drop conductors below the level of the service head.
+
+(E) Arranged that Water Will Not Enter Service Raceway or Equipment. Service-drop conductors and service-entrance conductors shall be arranged so that water will not enter service raceway or equipment.
+
+SECTION 230.64
+
+Section 230.64—Add a new section 230.64 to read as follows:
+
+230.64 Service Rooms or Areas.
+
+(A) General. The minimum sufficient working space shall be as provided in Section 110.26 or 110.34 as applicable, in order to assure the safety of operation, inspection, and repairs within the vicinity of the service equipment.
+
+(B) Service Equipment Totaling 1000 kVA, or Larger. Where service equipment totaling 1000 kVA or larger is installed separately, or as part of a switchboard, the room in which such switchboard is located shall be constructed of noncombustible materials having a 2 hour fire rating and shall be of dimensions adequate to house the switchboard and to provide the following minimum clearances:
+
+   (1) At least 1.5 m (5 ft) in front of the switchboard if it is in one line, and at least 2.1 m (7 ft) in front of the board if boards are installed facing each other.
+
+   (2) At least 300 mm (12 in.) from the floor to any energized part of the switchboard, except by special permission.
+
+   (3) Where side and/or rear access is required, the following shall also apply:
+
+      ∙
+											 At least 900 mm (3 ft) at each end of the board
+
+      ∙
+											 At least 900 mm (3 ft) at the rear of the board clear of all obstructions or as specified in Table 110.26(A)(1) or Table 110.34(A) as applicable, whichever is greater.
+
+   (4) Front-only accessible switchboards may be installed 300 mm (12 in.) or less from a wall. However, if the front-only accessible switchboard is installed more than 300 mm (12 in.) from the wall, access must be sealed at each end or comply with the restrictions herein.
+
+   (5) Service equipment shall be arranged so that it is reachable from the entrance door without having to pass in front of, or behind any other electrical equipment in the room. This requirement shall be waived if a second entrance door is provided and located as remotely as practical from the first. Each door shall access an area, which leads to a legal exit.
+
+SECTION 230.70
+
+Subsection 230.70(A)(1)—Revise to read as follows:
+
+(1) Readily Accessible Location. The service disconnecting means shall be installed at a readily accessible location inside of a building or structure nearest the point of entrance of the service conductors.
+
+Exception: Service disconnecting means may be installed on the outside of residential buildings of one through four dwelling units.
+
+Subsection 230.70(B)—Revise to read as follows:
+
+(B) Marketing. Each service disconnecting means shall be permanently marked to identify it as a service disconnect. Each disconnecting means shall be marked to indicate the load served.
+
+SECTION 230.76
+
+Section 230.76—Add a new paragraph at the end of section 230.76 to read as follows:
+
+Where remote control devices are used on service equipment or manually operated circuit breaker devices totaling 1000 kVA or larger, it shall be the responsibility of the owner of the building or such owner's authorized agent to have the opening and closing mechanism of each service switch or service breaker tested at least once every year. The testing need not be performed under load. A record showing the date and signature of the qualified person making the test shall be kept posted at the switch or circuit breaker.
+
+SECTION 230.94
+
+Section 230.94—Revise Exception No. 3 to read as follows:
+
+Exception No. 3: Circuits for load management devices and emergency supply shall be permitted to be connected on the supply side of the service overcurrent device where separately provided with overcurrent protection.
+
+ARTICLE 240Overcurrent Protection 
+
+SECTION 240.12
+
+Subsection 240.12(A)—Add a new subsection 240.12(A) to read as follows:
+
+(A) Service Overcurrent Protective Device.
+
+Where the service overcurrent protective device (OCPD) rating or setting is above 601 Amps, such device shall be selectively coordinated with the next downstream OCPD.
+
+FPN No. 1: See definition of "Coordination (Selective)."
+
+Exception No. 1: Selective coordination shall not be required between two OCPDs in series with one another when no loads are connected in parallel with the downstream device.
+
+Exception No. 2: When the second level OCPD is a single main device having the same rating or setting as the service OCPD, selective coordination shall be required between the third level devices and the two upstream devices.
+
+Exception No. 3: Selective coordination shall not be required between transformer primary and secondary OCPDs, where only one OCPD exists on the transformer secondary.
+
+Renumber first paragraph of 240.12 as new subsection 240.12(B), and retitle as follows:
+
+(B) Orderly Shutdown.
+
+SECTION 240.86
+
+Section 240.86—Add a FPN after first paragraph to read as follows:
+
+FPN: See 240.12, 700.27 and 708.54.
+
+ARTICLE 250Grounding and Bonding
+
+SECTION 250.52
+
+Subsection 250.52(A)(1)—Delete the Exception in its entirety.
+
+ARTICLE 285Surge-Protective Devices (SPDs), 1 kV or Less 
+
+SECTION 285.25
+
+Section 285.25—Add a FPN at end of paragraph to read as follows:
+
+FPN: Device to be used as per manufacturer's listing, available fault current should be considered.
+
+CHAPTER 3Wiring Methods and Materials
+
+ARTICLE 300Wiring Methods 
+
+SECTION 300.3
+
+Subsection 300.3(C)(1)(a)—Add a new subsection 300.3(C)(1)(a) to read as follows:
+
+(a) Barriers shall be provided to isolate conductors energized from different sources when system voltage exceeds 250 volts nominal and conductors are protected by first or second level overcurrent protective devices. Sources include service entrance points, secondaries of different transformers, generators and UPS systems.
+
+SECTION 300.5
+
+Subsection 300.5(A)—Revise to read as follows:
+
+(A) Minimum Cover Requirements. Direct-buried cable or conduit or other raceways shall be installed to meet the minimum cover requirements of Table 300.5. Direct-buried cable shall not be installed except by special permission from the commissioner.
+
+SECTION 300.6
+
+Subsection 300.6(B)—Revise to read as follows:
+
+(B) Aluminum Metal Equipment. Aluminum raceways, cable trays, cablebus, auxiliary gutters, cable armor, boxes, cable sheathing, cabinets, elbows, couplings, nipples, fittings, supports and support hardware shall not be permitted to be embedded in concrete or come in direct contact with the earth.
+
+SECTION 300.22
+
+Subsection 300.22(C)—Revise the first paragraph to read as follows:
+
+(C) Other Space Used for Environmental Air. This section applies to non-fire rated spaces used for environmental air-handling purposes other than ducts and plenums as specified in 300.22(A) and (B). It does not include habitable rooms or areas of buildings, the prime purpose of which is not air handling.
+
+ARTICLE 328Medium Voltage Cable: Type MV 
+
+SECTION 328.10
+
+Section 328.10—Revise to read as follows:
+
+328.10 Uses Permitted. Type MV cables shall be permitted for use on power systems rated up to 35,000 volts nominal as follows:
+
+(1) In wet or dry locations,
+
+(2) In raceways.
+
+SECTION 328.12
+
+Section 328.12—Revise to read as follows:
+
+328.12 Uses Not Permitted. Type MV cable shall not be used:
+
+(1) Where exposed to direct sunlight,(2) In cable trays,(3) Direct-buried,(4) In messenger-supported wiring.
+
+SECTION 328.80
+
+Section 328.80—Delete the last sentence.
+
+ARTICLE 330Metal-Clad Cable: Type MC
+
+SECTION 330.10
+
+Subsection 330.10(A)(1)—Delete the word "services".
+
+Subsection 330.10(A)(3)—Delete the words "or outdoors".
+
+Subsection 330.10(A)(5)—Revise to read as follows:
+
+To be direct-buried where identified for such use and by special permission.
+
+Subsection 330.10(A)(8)—Delete the subsection in its entirety.
+
+Subsection 330.10(B)(3)—Delete the subsection in its entirety.
+
+SECTION 330.12
+
+Section 330.12—Revise the first sentence to read as follows:
+
+330.12 Uses Not Permitted. Type MC cable shall not be used under any of the following conditions.
+
+Subsection 330.12(3)—Add a new subsection 330.12(3) to read as follows:
+
+(3) Where used as service conductors.
+
+Subsection 330.12(4)—Add a new subsection 330.12(4) to read as follows:
+
+(4) Where the cable has an outer jacket of PVC, in residential buildings exceeding three floors above grade.
+
+Subsection 330.12(5)—Add a new subsection 330.12(5) to read as follows:
+
+(5) Where the cable has an outer jacket of PVC, in any nonresidential building unless concealed within non-plenum walls, floors and ceilings where the walls, floors and ceilings provide a thermal barrier of material that has at least a one hour rated assembly as indentified in listings of fire rated assemblies.
+
+ARTICLE 334Nonmetallic-Sheathed Cable: Types NM, NMC, and NMS 
+
+SECTION 334.10
+
+Section 334.10—Revise to read as follows:
+
+334.10 Uses Permitted. Type NM, Type NMC, and Type NMS cables shall be permitted to be used in the following:(1) One- and two-family dwellings.(2) Multifamily dwellings, except as prohibited in Section 334.12.
+
+FPN: See Section 310.10 for temperature limitation of conductors.
+
+Subsection 334.10(A)(1)—Revise to read as follows:
+
+(1) For both exposed and concealed work in normally dry locations.
+
+Subsection 334.10(B)(1)—Revise to read as follows:
+
+(1) For both exposed and concealed work in dry, moist, damp or corrosive locations.
+
+Subsection 334.10(C)(1)—Revise to read as follows:
+
+(1) For both exposed and concealed work in normally dry locations.
+
+SECTION 334.12
+
+Subsection 334.12(A)(1)—Revise to read as follows:
+
+(1) In any multifamily dwelling exceeding three floors above grade.
+
+Subsection 334.12(A)(1)—Delete the Exception in its entirety.
+
+Subsection 334.12(A)(11)—Add a new subsection 334.12 (A)(11) to read as follows:
+
+(11) In non-residential buildings.
+
+SECTION 334.15
+
+Subsection 334.15(B)—Change reference from 300.4(E) to 300.4(F).
+
+SECTION 334.30
+
+Subsection 334.30(C)—Delete the subsection in its entirety.
+
+ARTICLE 336Power and Control Tray Cable: Type TC
+
+SECTION 336.10
+
+Subsection 336.10(6)—Delete the subsection in its entirety.
+
+SECTION 336.12
+
+Subsection 336.12(5)—Add a new subsection 336.12 (5) to read as follows:
+
+(5) As fire alarm circuit wiring.
+
+SECTION 336.104
+
+Subsection 336.104(A)—Delete the subsection in its entirety.
+
+ARTICLE 338Service-Entrance Cable: Types SE and USE 
+
+SECTION 338.10
+
+Subsection 338.10(A)—Add a second sentence to read as follows:
+
+Where installed as service entrance conductors, Type SE cable shall be enclosed in a threaded metallic conduit.
+
+Subsection 338.10(B)(2)—Delete the Exception in its entirety.
+
+Subsection 338.10(B)(4)(b)—Revise to read as follows:
+
+(b) Exterior Installations. In addition to the provisions of this article, service-entrance cable used for feeders or branch circuits, where installed as exterior wiring, shall be installed in a threaded metallic conduit.
+
+ARTICLE 340Underground Feeder and Branch-Circuit Cable: Type UF
+
+SECTION 340.10
+
+Subsection 340.10(1)—Revise to read as follows:
+
+(1) For use underground. For underground requirements, see 300.5.
+
+Subsection 340.10(5)—Delete the subsection in its entirety.
+
+Subsection 340.10(6)—Delete the subsection in its entirety.
+
+SECTION 340.12
+
+Subsection 340.12(12)—Add a new subsection 340.12(12) to read as follows:
+
+(12) Direct burial.
+
+Subsection 340.12(13)—Add a new subsection 340.12(13) to read as follows:
+
+(13) For Solar Photovoltaic Systems.
+
+SECTION 344.10
+
+Subsection 344.10(A)(3)—Revise the second sentence of subsection 344.10(A)(3) to read as follows:
+
+Aluminum RMC shall not be permitted to be encased in concrete or used for direct burial.
+
+Subsection 344.10(B)(2)—Delete the subsection in its entirety.
+
+ARTICLE 350Liquidtight Flexible Metal Conduit: Type LFMC 
+
+SECTION 350.12
+
+Subsection 350.12(3)—Add a new subsection 350.12(3) to read as follows:
+
+(3) In lengths exceeding 1.83m (6 ft).
+
+ARTICLE 352Rigid Polyvinyl Chloride Conduit: Type PVC 
+
+SECTION 352.10
+
+Subsection 352.10(I)—Add a new subsection 352.10(I) to read as follows:
+
+(I) Residential Use. In any residential building or dwelling unit not exceeding three floors above grade.
+
+Subsection 352.10(J)—Add a new subsection 352.10(J) to read as follows:
+
+(J) Non Residential Use. Unless prohibited elsewhere by other articles of this code, PVC conduit shall be permitted in any nonresidential building or residential building over 3 stories high. Rigid nonmetallic conduit shall be concealed within non-plenum walls, floors and ceilings where the walls, floors and ceilings provide a thermal barrier of material that has at least a one hour rated assembly as identified in listings of fire-rated assemblies.
+
+ARTICLE 354Nonmetallic Underground Conduit with Conductors: Type NUCC 
+
+SECTION 354.10
+
+Section 354.10—Revise the heading and the first sentence to read as follows:
+
+354.10 Uses Permitted by Special Permission Only. The use of NUCC and fittings shall be permitted by special permission only, as follows:
+
+ARTICLE 355Reinforced Thermosetting Resin Conduit: Type RTRC 
+
+SECTION 355.10
+
+Subsection 355.10(I)—Add a new subsection 355.10(I) to read as follows:
+
+(I) Residential Use. In any residential building or dwelling unit not exceeding three floors above grade.
+
+Subsection 355.10(J)—Add a new subsection 355.10(J) to read as follows:
+
+(J) Non Residential Use. Unless prohibited elsewhere by other articles of this code, RTRC conduit shall be permitted in any nonresidential building or residential building over 3 stories high. RTRC conduit shall be concealed within non-plenum walls, floors and ceilings where the walls, floors and ceilings provide a thermal barrier of material that has at least a one hour rated assembly as identified in listings of fire-rated assemblies.
+
+ARTICLE 356Liquidtight Flexible Nonmetallic Conduit: Type LFNC 
+
+SECTION 356.10
+
+Section 356.10—Revise the heading and the first sentence to read as follows:
+
+356.10 Uses Permitted by Special Permission Only. The use of LFNC shall be permitted by special permission only, as follows:
+
+ARTICLE 358Electrical Metallic Tubing: Type EMT 
+
+SECTION 358.10
+
+Subsection 358.10(C)—Delete the subsection in its entirety.
+
+SECTION 358.12
+
+Subsection 358.12(7)—Add a new subsection 358.12(7) to read as follows:
+
+(7) For underground or exterior installations or in wet locations.
+
+ARTICLE 362Electrical Nonmetallic Tubing: Type ENT 
+
+SECTION 362.10
+
+Section 362.10—Revise to read as follows:
+
+362.10 Uses Permitted. The use of electrical nonmetallic tubing and fittings shall be permitted:
+
+(1) Concealed within walls, floors, and ceilings where the walls, floors, and ceilings provide a thermal barrier of material which has at least a 1 hour finish rating as identified in listings of fire-rated assemblies.
+
+(2) In locations subject to severe corrosive influences as covered in 300.6 and where subject to chemicals for which the materials are specifically approved.
+
+(3) In concealed, dry, and damp locations not prohibited by 362.12.
+
+(4) Above suspended ceilings where the suspended ceilings provide a thermal barrier of material, which has at least a 1 hour finish rating as identified in listings of fire-rated assemblies.
+
+(5) Embedded in poured concrete, provided fittings approved for this purpose are used for connections.
+
+(6) For wet locations indoors or in a concrete slab on or below grade, with fittings listed and approved for the purpose.
+
+FPN No. 1: Extreme cold may cause some types of nonmetallic conduits to become brittle and, therefore, more susceptible to damage from physical contact.
+
+FPN No. 2: Extreme cold may cause some types of nonmetallic tubing to become brittle and, therefore, more susceptible to damage from physical contact.
+
+SECTION 362.12
+
+Subsection 362.12(11)—Add a new subsection 362.12(11) to read as follows:
+
+(11) In ducts, plenums and other air handling spaces.
+
+ARTICLE 366Auxiliary Gutters 
+
+SECTION 366.10
+
+Subsection 366.10(B)—Revise the first sentence to read as follows:
+
+Nonmetallic auxiliary gutters may only be installed by special permission and shall be listed for the maximum ambient temperature of the installation and marked for the installed conductor insulation temperature rating.
+
+ARTICLE 368Busways 
+
+SECTION 368.2
+
+Section 368.2—Change title from "Definition" to " Definitions" and add a new definition to read as follows:
+
+Service Busway. For the purpose of this article, service busway is busway used to connect from the service point to the line terminals of the service equipment.
+
+SECTION 368.119
+
+Section 368.119—Add a new section 368.119, after the heading "III. Construction", to read as follows:
+
+368.119 Service Busway. Service busway shall conform to the specifications listed in (A) through (I) below.
+
+(A) Ampacity and Ratings of Busbars. Ampacity and ratings of busbars shall be in accordance with 230.42(A).
+
+(B) Length. Service busway shall be limited to a maximum of 3.0 m (10 ft) in length.
+
+Exception: By special permission.
+
+(C) Insulation. Busbars shall be insulated with a material listed for the purpose and rated for use at a minimum of 600 Volts.
+
+Exception: Bolted busbar joints requiring maintenance shall be permitted to be uninsulated.
+
+(D) Enclosure. Enclosure shall be fabricated from aluminum, minimum 3.2 mm (1/8 in.) thick or other non-magnetic material approved by the commissioner.
+
+(E) Enclosure Vents. Ventilating openings shall be permitted in the sides and bottom of the enclosure. Top of enclosure must be solid.
+
+(F) Mounting. Busbars shall be mounted on insulating supports, properly spaced and braced to withstand the maximum available short circuit current.
+
+(G) Clearance. A minimum clearance of 102 mm (4 in.) shall be provided from the phase bars to the enclosure.
+
+(H) Plating. All busbar joints and connections shall be plated with silver, tin or nickel.
+
+(I) Accessibility. All busbar joints and connections shall be accessible.
+
+ARTICLE 370Cablebus 
+
+SECTION 370.3
+
+Section 370.3—Delete "and services" from the last sentence of the first paragraph, so that it reads as follows:
+
+Cablebus shall be permitted to be used for branch circuits and feeders.
+
+ARTICLE 376Metal Wireways 
+
+SECTION 376.22
+
+Section 376.22—Add an Exception after subsection (B) to read as follows:
+
+Exception: Metallic auxiliary gutters may contain up to 40 service entrance conductors without applying derating factors.
+
+ARTICLE 378Nonmetallic Wireways 
+
+SECTION 378.10
+
+Section 378.10—Revise the heading and first sentence of the section to read as follows:
+
+378.10 Uses Permitted by Special Permission Only. The use of nonmetallic wireways shall be permitted by special permission only as follows:
+
+ARTICLE 380Multioutlet Assembly
+
+SECTION 380.2
+
+Subsection 380.2(B)(7)—Add a new subsection 380.2(B)(7) to read as follows:
+
+(7) Where cord and plug connected unless listed for the purpose.
+
+ARTICLE 382Nonmetallic Extensions 
+
+SECTION 382 II
+
+Section 382 II—After subheading "II. Installation" of the Article, add a sentence to read as follows and delete remainder of the Article:
+
+II. Installation
+
+Installation of non-metallic extensions shall not be permitted.
+
+ARTICLE 388Surface Nonmetallic Raceways 
+
+SECTION 388.12
+
+Subsection 388.12(8)—Add a new subsection 388.12(8) to read as follows:
+
+(8) In residential buildings exceeding three floors above grade.
+
+Subsection 388.12(9)—Add a new subsection 388.12(9) to read as follows:
+
+(9) In non-residential buildings.
+
+ARTICLE 392Cable Trays
+
+Subsection 392.3(E)—Add a new sentence at end of existing paragraph to read as follows:
+
+Nonmetallic cable trays may be used by special permission only.
+
+ARTICLE 394Concealed Knob-and-Tube Wiring 
+
+SECTION 394 II
+
+Section 394 II—After subheading "II. Installation" of this Article, add a sentence to read as follows and delete the rest of the Article:
+
+II. Installation
+
+Installation of Concealed Knob-and-Tube Wiring shall not be permitted.
+
+ARTICLE 396Messenger-Supported Wiring 
+
+SECTION 396
+
+Table 396.10(A)—Delete second line of Table in its entirety.
+
+CHAPTER 4Equipment for General Use
+
+ARTICLE 404Switches 
+
+SECTION 404.10
+
+Subsection 404.10(A)—Delete the subsection in its entirety.
+
+ARTICLE 406Receptacles, Cord Connectors, and Attachment Plugs (Caps)
+
+SECTION 406.11
+
+Section 406.11—Revise to read as follows:
+
+406.11 Tamper-Resistant Receptacles in Dwelling Units and Multifamily Dwellings. In all areas specified in 210.52, and in all public parts, as such term is defined in the New York City Housing Maintenance Code, of multifamily dwellings, all 125-volt, 15- and 20-ampere receptacles shall be listed tamper-resistant receptacles.
+
+Exception: Public parts of multifamily dwellings that are used exclusively for mechanical equipment or storage purposes.
+
+ARTICLE 408Switchboards and Panelboards 
+
+SECTION 408.60
+
+Section 408.60—Add new section 408.60 to read as follows:
+
+408.60 Special Requirements. Switchboards shall be listed, approved and constructed in accordance with UL 891, Eleventh Edition, Standard for Switchboards. Panelboards shall be listed, approved and constructed in accordance with UL 67, Eleventh Edition, Standard for Panelboards. Additional construction specifications shall be in accordance with (A) thru (G) below.
+
+(A) Neutral Disconnect Link in Service Switchboards. A bus link shall be provided for disconnecting the neutral service conductor(s) from the outgoing load neutral conductor(s). Such disconnect link shall be readily accessible and located downstream of the main bonding jumper and grounding electrode conductor terminal. In a multi-section switchboard a single neutral disconnect link may be provided for all service disconnects.
+
+Exception: A single cable lug accommodating a maximum of two cables may be used in lieu of a neutral disconnect link for service disconnects 800 amperes or less.
+
+(B) Dielectric Test. All service and distribution equipment, switchboards, control panels, and panelboards shall be given a 60 Hz AC dielectric test, phase to phase and phase to ground, at twice rated voltage plus 1,000 volts for one minute (minimum 1500 volts) prior to shipment from factory. A dielectric test voltage which is 20 percent higher than that in the one minute test may be applied for one second as an alternative to the one minute test. The date of the test and the name and title of the individual certifying the test shall be clearly shown on a label affixed to the equipment.
+
+(C) Warning Label. All 480/277 volt switchboards, panelboards and panelboard back boxes shall have a visible label, clearly marked "WARNING 480/277 VOLTS" and in compliance with ANSI Standard Z535.4.
+
+(D) Grounding Switchboard Frames. Switchboard frames and structures supporting switching equipment shall be grounded. A multisection switchboard shall be provided with an internal ground bus, which will electrically connect all of the sections of the switchboard. This ground bus shall have a minimum cross section of 1/2 square inch of copper or 3/4 square inch of aluminum. The contact surfaces of the equipment ground connections shall provide an effective electrical ground path for fault currents.
+
+Exception: Frames of direct current, single-polarity switchboards shall not be required to be grounded if effectively insulated.
+
+(E) Busbars.
+
+   (1) General. Busbars shall be sized based on 1000 amperes per square inch for copper and 750 amperes per square inch for aluminum.
+
+Exception: In service switchboards, generator paralleling switchboards and when connecting to devices rated over 2500 amperes. See 408.60(E)(2) and (E)(3) below.
+
+   (2) In Service Equipment And Switchboards Supplied Directly From Separately Derived Systems. Line-side busbars in service switchboards and all busbars in generator paralleling switchboards shall be considered service conductors and shall comply with the requirements of 230.42(A).
+
+   (3) Connection to Devices Rated over 2500 Amperes. Busbars shall be sized in accordance with (a) and (b) below when connected to a device (switch or circuit breaker) over 2500 amperes:
+
+      (a) Over 2500 amperes but less than 5000 amperes, busbars shall be sized based on 800 amperes per square inch for copper and 600 amperes per square inch for aluminum.
+
+      (b) 5000 amperes and over, busbars shall be sized based on 700 amperes per square inch for copper and 525 amperes per square inch for aluminum.
+
+Exception: Beyond a minimum distance of 1.2m (4 ft) along the current path from the device, the busbar may be reduced in size, in accordance with 408.60(E)(1) above.
+
+   (4) Ampacity of Through (Main) Bus. The through (main) bus that feeds four or more overcurrent protective devices of a switchboard shall have a minimum ampacity of 70 percent of the sum of the frame ratings of all devices fed by that through bus. If provisions are made for the addition of overcurrent protective devices in the future, the expected overcurrent protective device ratings shall be included in the above calculations. The through bus ampacity shall not be required to be greater than the frame rating of the upstream overcurrent protective device.
+
+Exception: In service equipment and switchboards supplied directly from separately derived systems and for devices rated over 2500 amperes refer to 408.60(E)(2) and (E)(3) above.
+
+   (5) Ampacity of Section Bus. The section bus is that portion of the bus that serves one or more overcurrent protective devices in the switchboard section and includes that part of the bus between the through bus and the branch distribution bus. The minimum ampacity of the section bus of a switchboard shall be determined by the table below. The section bus ampacity shall not be required to be greater than that of the through bus.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Total Number of Branch Overcurrent Devices
+      - Minimum Ampacity of Section Bus as a %of the Sum Total of Branch OvercurrentDevices*
+    * - 1-2 
+      - 100 
+    * - 3-4
+      - 80 
+    * - Over 4 
+      - 70
+~
+
+
+
+ 
+
+* For fusible switches, the maximum fuse size shall be used. For interchangeable trip circuit breakers, the maximum trip rating shall be used. If provisions are made for the future installation of branch overcurrent protective devices, the ampacity of these units shall be included in the calculation.
+
+Exception: In service equipment and switchboards supplied directly from separately derived systems and for devices rated over 2500 amperes refer to 408.60(E)(2) and (E)(3) above.
+
+   (6) Busbar Joints. All busbar joints and connections shall be plated with silver, tin or nickel. The current density at contact surfaces in busbar joints shall not exceed 200 amperes per square inch for copper and 150 amperes per square inch for aluminum. A permanent label providing torque values or tightening instructions for all busbar joints shall be affixed to each section of a switchboard.
+
+(F) Hinged Doors. Freestanding switchboards, which have rear access, shall have hinged rear doors fastened by captive screws or suitable latches.
+
+(G) Barriers In Switchboards Rated Over 150 Volts To Ground. Listed and approved barriers shall be placed between adjacent sections of the switchboard. Listed and approved barriers shall be placed between the switchboard and its pullbox, whether located at the top or bottom of the equipment. All openings in the barriers for busbars and cables shall be closed with snug fitting, listed and approved non-hygroscopic, arc resistant material.
+
+ARTICLE 409Industrial Control Panels 
+
+SECTION 409.108
+
+Section 409.108—At the end of the first paragraph, add "and shall comply with section 408.60."
+
+ARTICLE 410Luminaires, Lampholders, and Lamps
+
+SECTION 410.30
+
+Subsection 410.30(B)(1)—At the first sentence, insert "intended for use in a wet location" between "A pole" and "shall have"
+
+SECTION 410.151
+
+Subsection 410.151(B)—Number the existing FPN as FPN No. 1, and add a second FPN to read as follows:
+
+FPN No. 2: See the applicable Energy Conservation Code.
+
+ARTICLE 422Appliances 
+
+SECTION 422.12
+
+Section 422.12—Revise to read as follows:
+
+422.12 Central Heating Equipment. Central heating equipment other than fixed electric space-heating equipment shall be supplied by an individual branch circuit.
+
+Exception No. 1: Auxiliary equipment, such as a pump, valve, humidifier, or electrostatic air cleaner directly associated with the heating equipment, may be connected to the same branch circuit.
+
+Exception No. 2: Permanently connected air-conditioning equipment may be connected to the same branch circuit.
+
+(A) Low Pressure Boiler. Any steam boiler operating at 15 psig or less, any hot water boiler operating below 160 psig, or any boiler rated at 10 horsepower or less, regardless of pressure.
+
+(B) Controls on Low Pressure Boilers. An electrical pressure switch with normally closed contacts shall be connected to the steam drum of every boiler ahead of all valves. The pressure switch shall be set to open at safe working pressure of the boiler. This boiler electrical high-pressure cut-off switch shall be designed to reclose only by a reset device, which shall be manually controlled. One and two family residences are exempt from these provisions.
+
+(C) Circuit Voltage and Safety Devices Connections. Conductors of the control circuits shall only be connected to circuits not exceeding 150 volts to ground, or not more than 150 volts between conductors.
+
+All safety devices, such as pressure controls, fire controls, relays, etc. shall have their electric switching mechanism connected to the ungrounded conductor.
+
+SECTION 422.16
+
+Subsection 422.16(B)(4)—Replace the term "range hood(s)" with the term "combination range hood/microwave oven(s)" in the title, first paragraph and the Exception.
+
+ARTICLE 430Motors, Motor Circuits, and Controllers 
+
+SECTION 430.5
+
+Table 430.5—Add the following items to the Table: "Services 230" and "Switchboards and Panelboards 408"
+
+SECTION 430.95
+
+Section 430.95—At the end of the first paragraph add a new sentence to read as follows:
+
+When the equipment is utilized as service equipment, a means for disconnecting the neutral service conductor(s) complying with 408.60(A) is required.
+
+SECTION 430.97
+
+Section 430.97—After the title, add a new sentence to read as follows:
+
+When the equipment is utilized as service equipment, the busbars shall comply with 408.51.
+
+ARTICLE 450Transformers and Transformer Vaults (Including Secondary Ties)
+
+SECTION 450.9
+
+Section 450.9—Add a new third paragraph to read as follows:
+
+Mechanical ventilation and/or air conditioning shall be provided and shall be adequate to dispose of the transformer full-load losses without exceeding 40°C (104°F) ambient temperature in the room.
+
+SECTION 450.25
+
+Section 450.25—Delete the section in its entirety.
+
+SECTION 450.42
+
+Section 450.42—Revise to read as follows:
+
+450.42 Walls, Roofs and Floors. The vault shall be of such dimension as to permit the installation of all electrical equipment in accordance with 110.26 or 110.34 as applicable. The vault shall be of fireproof construction with a minimum fire resistance rating of three hours with floors, walls and ceilings 152 mm (6 in.) thick if made of concrete, or 203 mm (8 in.) thick if made of brick, or 203 mm (8 in.) thick if made of filled cement block. All building steel forming part of the vault construction shall have a comparable fire resistance rating. Each compartment within a vault shall be built to the same specifications in respect to the thickness of walls and fireproof door, as the vault. The floors shall be of ample strength to carry the weight of the equipment to be installed in the vault. The floors and wall, to the height of the sill, shall be given a hard impervious finish and painted to prevent the absorption of oil.
+
+Exception: Where transformers are protected with automatic sprinkler, carbon dioxide, or gas suppression system, construction of 1-hour rating shall be permitted.
+
+SECTION 450.43
+
+Subsection 450.43(A)—Delete the FPN, and revise the subsection and Exception to read as follows:
+
+(A) Type of Door. Each doorway leading into a vault from the building interior shall be provided with a tight-fitting door that has a minimum fire rating of 3 hours. Where practicable, basement vaults or vaults opening up on a roof shall be provided with an outside entrance so that no entrance directly into the vault from the interior of the building will be necessary. Where entrance into the vault is from the interior of the building, the vault shall open upon a vestibule, passage hall or switchboard room not commonly in public use.
+
+Exception: Where transformers are protected with automatic sprinkler, carbon dioxide, or gas suppression system, construction of 1-hour rating shall be permitted.
+
+SECTION 450.45
+
+Section 450.45—Revise the first paragraph to read as follows:
+
+A system of ventilation shall be provided to dispose of transformer full load losses and maintain a vault ambient temperature not to exceed 40°C (104°F). Minimum criteria for ventilation shall be in accordance with (A) through (F) below:
+
+Subsection 450.45(C)—Add an Exception to read as follows:
+
+Exception: Where required to meet the ventilation conditions of this section, the minimum of three square inches per kVA of natural ventilation may be supplemented by a dedicated mechanical ventilation system.
+
+SECTION 450.46
+
+Section 450.46—Revise to read as follows:
+
+450.46 Drainage. Where practicable, vaults containing more than 100 kVA transformer capacity shall be provided with a drain or other means that will carry off any accumulation of oil or water in the vault unless local conditions make this impracticable. The floor shall be pitched to the drain where provided. Drainage shall be permitted to carry off water accumulation. Such drainage shall prevent drainage of transformer coolant into the water drainage system and shall be provided in accordance with the New York City Construction Codes and other authorities having applicable regulations.
+
+CHAPTER 5Special Occupancies
+
+ARTICLE 500Hazardous (Classified) Locations, Classes I, II, and III, Divisions 1 and 2 
+
+SECTION 500.8
+
+Subsection 500.8(A)(3)—Revise to read as follows:
+
+(3) Evidence acceptable to the authority having jurisdiction.
+
+ARTICLE 501Class I Locations 
+
+SECTION 501.10
+
+Subsection 501.10(B)(1)(7)—Delete the words "and Schedule 80 PVC conduit, factory elbows, and associated fittings" from the first paragraph.
+
+Subsection 501.10(B)(2)—Delete item (4) "Liquidtight flexible nonmetallic conduit with listed fittings".
+
+ARTICLE 502Class II Locations 
+
+SECTION 502.10
+
+Subsection 502.10(A)(2)—Delete item (3) "Liquidtight flexible nonmetallic conduit with listed fittings".
+
+SECTION 502.100
+
+Subsection 502.100(B)(2)—Revise to read as follows:
+
+(2) Containing Askarel. The use of transformers containing Askarel is prohibited. Delete (1), (2), (3).
+
+ARTICLE 503Class III Locations 
+
+SECTION 503.10
+
+Subsection 503.10(A)—Delete the words "rigid nonmetallic conduit".
+
+Subsection 503.10(A)(2)—Delete the words "liquidtight flexible nonmetallic conduit with listed fittings".
+
+ARTICLE 505Class I, Zone 0, 1, and 2 Locations 
+
+SECTION 505.15
+
+Subsection 505.15(C)(1)(g)—Delete the words "and Schedule 80 PVC conduit, factory elbows, and associated fittings".
+
+Subsection 505.15(C)(2)—Delete the words "liquidtight flexible nonmetallic conduit with listed fittings".
+
+ARTICLE 506Zone 20, 21, and 22 Locations for Combustible Dusts or Ignitible Fibers/Flyings
+
+SECTION 506.9
+
+Subsection 506.9(A)(3)—Delete the words "such as a manufacturer's self-evaluation or an owner's engineering judgment".
+
+SECTION 506.15
+
+Subsection 506.15(A)(5)—Delete the words "liquidtight flexible nonmetallic conduit with listed fittings".
+
+ARTICLE 511Commercial Garages, Repair and Storage 
+
+SECTION 511.7
+
+Subsection 511.7(A)(1)—Delete the words "rigid nonmetallic conduit, electrical nonmetallic tubing" and "or liquidtight flexible nonmetallic conduit".
+
+ARTICLE 515Bulk Storage Plants 
+
+SECTION 515.7
+
+Subsection 515.7(A)—Delete the words ", Schedule 80 PVC conduit".
+
+ARTICLE 516Spray Application, Dipping and Coating Processes 
+
+SECTION 516.3
+
+Subsection 516.3(C)(2)(a)—Revise to read as follows:
+
+(a) The exhaust ventilation system shall be interlocked with the spray application equipment, the Division 2 or Zone 2 location shall extend 1.5 m (5 ft) horizontally and 900 mm (3 ft) vertically from the open face or open front of the booth or room, as shown in figure 516.3(B)(2), top.
+
+Subsection 516.3(C)(2)(b)—Delete the subsection in its entirety.
+
+ARTICLE 517Health Care Facilities 
+
+SECTION 517.30
+
+Subsection 517.30(B)(4)—At the end of the paragraph, add the following:
+
+A separate automatic transfer switch shall be required for:(1) The fire pump. For fire pump requirements refer to Article 695—Fire Pumps.(2) Alarm and alerting systems.(3) Automatic smoke control or venting.(4) Stair pressurization systems.
+
+FPN Figures 517.30, No. 1 and 517.30, No. 2, add the following:
+
+This figure does not reflect the switches and automatic transfer switches required above.
+
+Subsection 517.30(C)(3)(1)—Delete the words ", or Schedule 80 PVC conduit".
+
+SECTION 517.41
+
+Subsection 517.41(B)—At the end of the paragraph, add the following:
+
+A separate automatic transfer switch shall be required for:(1) The fire pump. For fire pump requirements refer to Article 695- Fire Pumps.(2) Alarm and alerting systems.(3) Automatic smoke control or venting.(4) Stair pressurization systems.
+
+FPN Figures 517.41, No. 1 and 517.41, No. 2, add the following:
+
+This figure does not reflect the switches and automatic transfer switches required above.
+
+ARTICLE 518Assembly Occupancies
+
+SECTION 518.1
+
+Section 518.1—Revise to read as follows:
+
+518.1 Scope. This article covers all buildings or portions of buildings or structures classified as Assembly Occupancies in the New York City Construction Codes.
+
+SECTION 518.2
+
+Subsection 518.2(A)—Delete the first sentence and replace with the following:
+
+(A) General. Assembly Occupancies shall be classified as places of assembly in accordance with New York City Construction Codes and the Fire Code (under Titles 28 &amp; 29 of the New York City Administrative Code) and shall include the following:
+
+Subsection 518.2(B)—Revise to read as follows:
+
+(B) Multiple Occupancies. Multiple occupancies shall be classified in accordance with the New York City Construction Codes.
+
+SECTION 518.4
+
+Subsection 518.4 (B)—Delete the subsection in its entirety.
+
+Subsection 518.4(C)—Delete the subsection in its entirety.
+
+ARTICLE 520Theaters, Audience Areas of Motion Picture and Television Studios, Performance Areas, and Similar Locations 
+
+SECTION 520.5
+
+Subsection 520.5(C)—Delete the subsection in its entirety.
+
+SECTION 520.6
+
+Section 520.6—Delete the words "rigid nonmetallic conduit as permitted in this article," from the first sentence.
+
+ARTICLE 522Control Systems for Permanent Amusement Attractions 
+
+SECTION 522.1
+
+Subsection 522.1—Before "electrical equipment" insert the words "(new and existing)".
+
+ARTICLE 525Carnivals, Circuses, Fairs, and Similar Events 
+
+SECTION 525.20
+
+Subsection 525.20(G)—In the first sentence, delete the words "permitted to be" and add the word "secured" in front of "nonconductive matting".
+
+ARTICLE 545Manufactured Buildings
+
+SECTION 545.3
+
+Section 545.3—Add new section 545.3 to read as follows:
+
+545.3 Wiring Generally. Approval of all wiring within manufactured buildings, including branch circuit wiring, shall be subject to the installation and permitting requirements of this code.
+
+SECTION 545.4
+
+Subsection 545.4(A)—Revise to read as follows:
+
+(A) Methods Permitted. The wiring shall be installed in accordance with the requirements of Chapter 3.
+
+SECTION 545.6
+
+Section 545.6—Delete the Exception in its entirety.
+
+SECTION 545.10
+
+Section 545.10—Delete the section in its entirety.
+
+ARTICLE 547Agricultural Buildings 
+
+SECTION 547.5 
+
+Subsection 547.5(A)—Delete the words "liquidtight flexible nonmetallic conduit".
+
+Subsection 547.5(D)—Delete the words "liquidtight flexible nonmetallic conduit".
+
+ARTICLE 550Mobile Homes, Manufactured Homes, and Mobile Home Parks 
+
+SECTION 550.3
+
+Section 550.3—Add a new section 550.3 to read as follows:
+
+550.3 Wiring Generally. Approval of all wiring within mobile and manufactured homes, including branch circuit wiring, shall be subject to the installation and permitting requirements of this code.
+
+ARTICLE 590Temporary Installations 
+
+SECTION 590.4
+
+Subsection 590.4(J)—Add the following at the beginning of the subsection:
+
+Temporary wiring for lighting shall be properly and substantially supported on noncombustible, nonabsorbtive insulators and shall be kept off the floor and free and clear of contact with woodwork, metal pipes and metal portions of the building structure.
+
+Subsection 590.4(K)—Add a new subsection 590.4(K) to read as follows:
+
+(K) Permanent Feeders and Branch Circuits used for Temporary Light and Power. Permanent feeders may be used for temporary light, heat or power service if run in approved raceways or conduits from the source of supply directly to the distribution center. Temporary polarized lampholders may be connected to permanent branch circuit wiring pending the erection of the permanent fixtures.
+
+Subsection 590.4(L)—Add a new subsection 590.4(L) to read as follows:
+
+(L) Grounding. All portable machines shall be grounded. All grounding shall conform with Article 250.
+
+SECTION 590.6
+
+Section 590.6—Add an Exception after the first paragraph, to read as follows:
+
+Exception: Temporary wiring installations that are accessible to the public and used to supply temporary power for illumination of outdoor areas during construction, remodeling, maintenance, repair, or demolition of buildings, structures, equipment, or similar activities shall comply with all other requirements of this code for permanent wiring and shall be provided with ground-fault protection for personnel.
+
+SECTION 590.8
+
+Section 590.8—Add a new section 590.8 to read as follows:
+
+590.8 Sidewalk Shed Lighting. All sidewalk shed lighting installations shall comply with the following conditions in addition to all other relevant provisions of this code:
+
+(1) Such lighting shall be installed in a metal raceway approved for outdoor use.
+
+(2) All junction boxes shall be suitable for damp or wet locations.
+
+(3) A minimum wire size of 12 AWG shall be used for the installation.
+
+(4) All fixtures shall be suitable for outdoor locations.
+
+(5) Ground-Fault Circuit Interrupter (GFCI) protection is required on receptacles and lighting.
+
+(6) The installation shall be properly grounded and bonded.
+
+(7) The panel supplying power to the sidewalk shed lighting shall have a directory that clearly indicates which circuit is being used to supply power.
+
+CHAPTER 6Special Equipment 
+
+ARTICLE 600Electric Signs and Outline Lighting 
+
+SECTION 600.3
+
+Section 600.3—Add the following subsections:
+
+(C) Inspection. Electric signs manufactured for installation in the city shall be inspected by the department and approved prior to installation. The department may direct that such inspection take place at the factory before final assembly or at the place of installation.
+
+(D) Relocated Signs. The relocation of an approved sign from one location to another may be permitted without inspection provided that no alterations in or additions to the existing sign are made, and the application to connect at the new location shows the previous location, lettering, and the connected electrical load of the sign.
+
+(E) Plastic Materials. All plastic materials to be used in the manufacture of electric signs shall be submitted for approval.
+
+(F) Markings. Each individual plastic section or letter shall be permanently marked with the material manufacturer's name, trademark, or other identification symbol.
+
+(G) Receptacles. Only receptacles for sign maintenance shall be installed in or on sign enclosures.
+
+SECTION 600.7
+
+Subsection 600.7(B)(7)(a)—Replace "14 AWG" with "12 AWG".
+
+SECTION 600.8
+
+Subsection 600.8(C)—Revise to read as follows:
+
+(C) Minimum Thickness of Enclosure Metal. Sheet steel shall be at least 0.635mm (0.0250 in./24 U.S.S.G.) thick. Sheet copper or aluminum shall be of equivalent strength.
+
+ARTICLE 604Manufactured Wiring Systems
+
+SECTION 604.1
+
+Subsection 604.1(A)—Add a new subsection 604.1(A) to read as follows:
+
+(A) General. All such wiring systems shall be approved by the department, and shall comply with the installation requirements of this code in addition to the standards listed below. Each manufactured wiring system manufacturer shall add the following to its installation instructions:
+
+   (1) With the electrical permit application for each installation, or any subsequent modification thereof, the licensed electrician shall include a diagram or specification sheet clearly defining the boundaries where the wiring method will be installed.
+
+   (2) Manufactured wiring systems shall not be used for emergency exit signs or emergency lighting.
+
+   (3) Such wiring shall be used only for general lighting circuits above an accessible hung ceiling or where no finished ceiling exists.
+
+SECTION 604.4
+
+Section 604.4—Delete Exceptions No. 1 and No. 2 in their entirety.
+
+SECTION 604.6
+
+Subsection 604.6(A)(2)—Revise the first paragraph by inserting the word "metal" between "liquidtight flexible" and "conduit".
+
+ARTICLE 605Office Furnishings (Consisting of Lighting Accessories and Wired Partitions) 
+
+SECTION 605.4
+
+Section 605.4—Revise to read as follows:
+
+605.4 Partition Interconnections. The electrical connection between partitions shall be flexible assemblies listed and approved for use with wired partitions or metallic raceways that do not exceed 610mm (2 ft) in length.
+
+SECTION 605.6
+
+Section 605.6—Revise to read as follows:
+
+605.6 Fixed-Type and Freestanding-Type Partitions. Wired partitions that are fixed (secured to building surfaces) or freestanding (not fixed) shall be permanently connected to the building electrical system by one of the wiring methods of this code. Where liquidtight flexible metal conduit is used, the maximum length shall be 457mm (18 in.).
+
+SECTION 605.7
+
+Section 605.7—Delete the section in its entirety.
+
+SECTION 605.8
+
+Section 605.8—Delete the section in its entirety.
+
+ARTICLE 620Elevators, Dumbwaiters, Escalators, Moving Walks, Platform Lifts, and Stairway Chairlifts 
+
+SECTION 620.12
+
+Subsection 620.12(B)—Revise to read as follows:
+
+(B) Other Wiring. All signaling and operating control circuits shall be minimum 24 AWG copper.
+
+SECTION 620.21
+
+Section 620.21—Delete the words "rigid nonmetallic conduit" and "liquidtight flexible nonmetallic conduit" throughout.
+
+Subsection 620.21(A)(1)(d)—Delete paragraphs (d)(3) and (d)(4) in their entirety.
+
+Subsection 620.21(A)(2)(d)—Delete paragraphs (d)(3) and (d)(4) in their entirety.
+
+Subsection 620.21(A)(3)(e)—Delete the subsection in its entirety.
+
+Subsection 620.21(A)(4)—Delete the subsection in its entirety.
+
+SECTION 620.23
+
+Subsection 620.23(C)—Insert the words "with ground-fault circuit interrupter" between "duplex receptacle" and "shall be provided".
+
+SECTION 620.24
+
+Subsection 620.24(A)—Revise the second sentence to read as follows:
+
+Required lighting and/or sump pump shall not be connected to the load side of a ground-fault circuit interrupter.
+
+FPN—replace "2004" with "2003".
+
+SECTION 620.61
+
+Section 620.61—Add a second sentence to read as follows:
+
+For multiple elevators connected to the same feeder, each elevator circuit must be properly protected.
+
+SECTION 620.82
+
+Section 620.82—Insert the words "including all door panels" between "metal enclosures" and "for all electrical equipment".
+
+ARTICLE 640Audio Signal Processing, Amplification, and Reproduction Equipment 
+
+SECTION 640.3
+
+Subsection 640.3(J)—Delete the subsection in its entirety.
+
+ARTICLE 645Information Technology Equipment 
+
+SECTION 645.17
+
+Subsection 645.17—Delete the words: "each panelboard has no more than 42 overcurrent devices and".
+
+ARTICLE 668Electrolytic Cells 
+
+SECTION 668.1
+
+Section 668.1—Add a new paragraph at the end of the section to read as follows:
+
+No new electrolytic cell line shall be installed, nor any existing cell line modified, without special permission.
+
+ARTICLE 680Swimming Pools, Fountains, and Similar Installations 
+
+SECTION 680.4
+
+Section 680.4—At the end of the paragraph add the following:
+
+All applicable provisions of the New York City Construction Codes shall apply.
+
+SECTION 680.9
+
+Section 680.9—At the end of the paragraph add the following:
+
+All such circuits shall be provided with GFPE. Electric water heaters of the immersion or submersible type shall not be permitted.
+
+SECTION 680.21
+
+Subsection 680.21(A)(3)—Revise by deleting the words "or liquidtight flexible nonmetallic conduit".
+
+SECTION 680.23
+
+Subsection 680.23(B)(1)—Revise the first sentence to read as follows:
+
+Listed and approved forming shells shall be installed for the mounting of all wet-niche underwater luminaires (fixtures) and shall be equipped with provisions for conduit entries.
+
+Subsection 680.23(B)(2)—Revise by deleting the words "liquidtight flexible nonmetallic" throughout.
+
+Subsection 680.23 (B)(2)(b)—Revise the first sentence to read as follows:
+
+Where a rigid nonmetallic conduit is used, an 8 AWG insulated solid or stranded copper equipment grounding conductor shall be installed in this conduit unless a listed low-voltage lighting system not requiring grounding is used.
+
+Subsection 680.23(D)—Revise to read as follows:
+
+(D) No-Niche Luminaires (Fixtures). A no-niche lighting fixture shall be supplied from a transformer meeting the requirements of 680.23(A)(2) and shall:
+
+   (1) Have no exposed metal parts(2) Have an impact resistant polymeric lens and body, and(3) Be listed and approved for the purpose
+
+Subsection 680.23(F)(1)—Revise to read as follows:
+
+(1) Wiring Methods. Branch-circuit wiring on the supply side of enclosures and junction boxes connected to conduits run to wet-niche and no-niche luminaires (fixtures), and the field wiring compartments of dry-niche luminaires (fixtures), shall be installed using listed and approved rigid metal conduit, intermediate metal conduit, or rigid nonmetallic conduit.
+
+Exception: Electrical metallic tubing shall be permitted to be used to protect conductors, when installed within buildings.
+
+SECTION 680.33
+
+Section 680.33—Revise to read as follows:
+
+680.33 Storable Pool Luminaires (Lighting Fixtures). Luminaires (lighting fixtures) for storable pools shall not be permitted.
+
+SECTION 680.41
+
+Section 680.41—Revise section by deleting the last sentence.
+
+SECTION 680.42
+
+Subsection 680.42(A)(1)—Revise subsection by deleting the words "liquidtight flexible nonmetallic conduit" throughout.
+
+ARTICLE 682Natural and Artificially Made Bodies of Water 
+
+SECTION 682.1
+
+Section 682.1—Add the words "and water parks" at the end of the section.
+
+SECTION 682.2
+
+Section 682.2—Add the words "and water parks" at the end of the first sentence of the definition of "Artificially Made Bodies of Water".
+
+SECTION 682.13
+
+Section 682.13—In the first sentence delete the words "or liquidtight flexible nonmetallic conduit".
+
+ARTICLE 690Solar Photovoltaic Systems
+
+SECTION 690.1
+
+Section 690.1—At the end of the section add the following:
+
+A detailed diagram of the photovoltaic system must be made available upon request of the department.
+
+ARTICLE 695Fire Pumps 
+
+SECTION 695.1
+
+Subsection 695.1(A)(3)—Add a new subsection 695.1(A)(3) to read as follows:
+
+(3) Modification of existing fire pump power supply.
+
+SECTION 695.2
+
+Section 695.2—After the first definition, "Fault Tolerant External Control Circuits", add two new definitions to read as follows:
+
+Fire Pump. For the purposes of this section, a fire pump is any Manual Standpipe Fire Pump, Automatic Standpipe Fire Pump, Sprinkler Booster Pump, Special Service Fire Pump, Spray Mist Fire Pump or Foam Fire Pump located at or below street level or with a motor rating exceeding 30hp.
+
+Limited Service Fire Pump. For the purposes of this section, a Limited Service Fire Pump is a fire pump located above street level with a motor rating not exceeding 30hp and connected to a limited service fire pump controller.
+
+Revise the third definition, "On-Site Standby Generator", to read as follows:
+
+On-Site Emergency Generator. An on-site facility producing electric power as the alternate supply of electric power meeting the requirements of Article 700.
+
+After the last definition, "On-Site Standby Generator", add a new definition to read as follows:
+
+Sprinkler booster pump. For the purposes of this section, a Sprinkler Booster Pump is a fire pump installed in J-2 occupancies, where a minimum of 5 psig is maintained at the highest line of sprinklers, that complies with the definition of Limited Service Fire Pump.
+
+SECTION 695.3
+
+Subsection 695.3(B)—Revise to read as follows:
+
+(B) Multiple Sources. Where required by the New York City Construction Codes, power from sources described in 695.3(A) shall be supplied from an approved combination of two or more such sources or an approved combination of one such source and an on-site emergency generator. The on-site emergency generator, complying with this section, shall be of sufficient capacity to allow normal starting and running of the motor(s) driving the fire pump(s) while supplying all other simultaneously operated loads. Optional standby loads shall be automatically shed when necessary to ensure the proper starting and operation of the fire pump.
+
+Subsection 695.3(C)—Add a new subsection 695.3(C) to read as follows:
+
+(C) Multiple Independent Sources. Two or more feeder sources routed separately to the building and independently operated may be permitted for compliance with this section, as approved by the commissioner, where the reliability of the sources can be demonstrated.
+
+SECTION 695.4
+
+Section 695.4—Revise to read as follows:
+
+695.4 Continuity of Power. Circuits that supply electric motor-driven fire pumps shall be supervised from inadvertent disconnection in accordance with (A) or (B) below.
+
+(A) General. Each utility and generator supply circuit that supplies an electric motor-driven fire pump or limited service fire pump shall be supplied from a single dedicated service disconnecting means and associated overcurrent protective device installed between the power source and one of the following:
+
+   (1) A listed fire pump controller(2) A listed fire pump power transfer switch(3) A listed combination fire pump controller and power transfer switch
+
+Exception 1: The service conductors may directly connect the power source to either the listed fire pump controller or combination fire pump controller and power transfer switch where available short circuit current is less than the rating of the fire pump controller or combination fire pump controller and power transfer switch.
+
+Exception 2: Where a limited service fire pump is connected to an emergency generator in addition to the electric utility source, the disconnecting means for either source is not required to be a service disconnecting means.
+
+Exception 3: Where the building service disconnecting means consists of multiple utility sources over 600 volts arranged through transformers to supply a network secondary, a disconnecting means connected to the network complies with the requirements of this section.
+
+(B) Disconnecting Means and Overcurrent Protection
+
+   (1) Utility Service. Fire pumps and limited service fire pumps shall have overcurrent protection selected as to allow the operation of the fire pump for as long as the fire pump remains capable of running, except where direct connection is made in accordance with 695.4(A)(3)
+
+Exception 1:
+
+(1) Fire Pump. Fire pump overcurrent protection shall be selected at between 300 percent and 600 percent of motor full load current.
+
+(2) Limited Service Fire Pump. Limited service fire pumps shall be protected by overcurrent devices selected at 150 percent of motor full load current. The next larger available device size may be used where selection results in a non-standard device size.
+
+(3) Disconnecting means shall be listed to accept the selected overcurrent device with no modification.
+
+   (2) Generator Supply. When required to be connected to an emergency generator, fire pumps and limited service fire pumps shall have overcurrent protection selected in accordance with the following, except where direct connection is made in accordance with 695.4(A)(3)
+
+Exception 1:
+
+(1) Fire Pump. Fire pumps shall be protected by an over current device selected at not less than 150 percent and not more than 300 percent of motor full load current.
+
+(2) Limited Service Fire Pump. Limited service fire pumps shall be protected by an overcurrent device selected at 150 percent of motor full load current. The next larger available size may be used where selection results in a non-standard size.
+
+(3) Disconnecting means shall be listed to accept the selected fuse or circuit breaker trip with no modification.
+
+(4) A tap ahead of the on-site emergency generator disconnecting means shall be required for the fire pumps.
+
+Exception: Where multiple generators operate in parallel, the fire pump tap may be made on the parallel distribution bus.
+
+   (3) Disconnecting Means. The disconnecting means shall comply with the following:
+
+      (1) Be identified as suitable for use as service equipment.
+
+      (2) Be lockable in the closed position. Locking provisions shall remain in place with or without an installed lock.
+
+      (3) Not located within equipment that feeds loads other than the fire pump.
+
+      (4) Be located as remote as practicable from other service disconnecting means with a minimum separation of 305mm (12 in.).
+
+Exception: (1), (3), and (4) shall not apply to fire pumps and limited service fire pumps connected to emergency generators.
+
+   (4) Disconnect Marking. The disconnecting means shall be marked "Fire Pump—Do Not Disconnect". The letters shall be at least 25mm (1 in.) in height, and they shall be visible without opening enclosure doors. Disconnecting means shall be red in color.
+
+   (5) Controller Marking. A placard shall be placed adjacent to the fire pump controller stating overcurrent setting at 300 percent of motor full load current, the location of the disconnecting means, and the location of the key (if the disconnecting means is locked).
+
+   (6) Supervision. The power continuity shall be supervised by one of the following:
+
+      (1) Central station signals confirming power source availability and pump running where central station connection is provided as required by building occupancy or use.
+
+      (2) Local signaling device, audible and visual, for power source availability and pump running which is activated at a continuously attended location where central station connection is not otherwise required.
+
+SECTION 695.5
+
+Section 695.5—Revise to read as follows:
+
+695.5 Accessory Equipment
+
+(A) Transformers. Where the service or system voltage is different from the utilization voltage of the fire pump motor, a transformer protected by disconnecting means and overcurrent devices shall be permitted to be installed between the system supply and the fire pump controller in accordance with the following.
+
+   (1) Size. Transformers shall be rated at a minimum of 125 percent of the sum of the fire pump motor(s) and pressure maintenance pump(s) motor loads, and 100 percent of the remaining load supplied by the transformer.
+
+   (2) Overcurrent Protection. Primary disconnecting means and overcurrent devices shall be selected in accordance with 695.4(B)(1). Secondary disconnecting means and overcurrent devices shall not be permitted.
+
+   (3) Feeder Source. The feeders on the primary and secondary of the transformer shall be sized in accordance with the requirements of 695.6 adjusted for the primary and secondary voltage.
+
+(B) Utility Meters. Metering of fire pumps shall be current transformer driven or bypass type such that meter removal will not interrupt service to the fire pump. Metering may be dedicated to the fire pump or coincident with other building power use.
+
+(C) Rectifiers. Rectifiers may be used to supply existing DC fire pump installation in accordance with the following.
+
+   (1) Size. Where a rectifier supplies an existing DC electric fire pump, it shall be rated at a minimum of 125 percent of the fire pump full load current plus 100 percent of the full load current of all other equipment connected to the rectifier.
+
+Exception: If largest motor is other than the fire pump, rectifier shall be sized at 125 percent of the largest motor and 100 percent of all other equipment.
+
+   (2) Overcurrent Protection. The primary disconnecting means and overcurrent device shall be rated at 150 percent of the rectifier full load current. The DC fire pump shall be supplied by a dedicated connection on the secondary of the rectifier. Disconnecting means and overcurrent devices shall not be permitted.
+
+   (3) Feeder Source. The feeders on the primary and secondary of the rectifier shall be sized in accordance with the requirements of 695.6 adjusted for the primary and secondary voltage.
+
+   (4) Other Loads. Rectifiers installed to supply existing DC fire pumps shall be permitted to supply other loads. Rectifier capacity shall be increased in accordance with 695.5(C)(1). Each DC supply shall include a disconnecting means and overcurrent device sized in accordance with applicable sections of the code.
+
+SECTION 695.6
+
+Section 695.6—Revise to read as follows:
+
+695.6 Power Wiring. Power circuits and wiring methods shall comply with the requirements in 695.6(A) through (E), and as permitted in 230.90(A), Exception 4; 230.94, Exception 4; 230.208; 240.4(A); 240.13 and 430.31.
+
+(A) Supply Conductors: Fire pump and limited service fire pump supply conductors shall be physically routed outside a building(s) and shall be installed as service entrance conductors. Where supply conductors cannot be physically routed outside buildings, routing through buildings is permitted where installed in accordance with Section 230.6(1), (2), (4) or (5).
+
+Exception: The supply conductors located in the electrical service room and generator room where they originate and in the fire pump room shall not be required to have the minimum 2-hour fire separation or fire resistive rating.
+
+(B) Circuit Conductors:
+
+   (1) Fire Pumps. Fire pump supply conductors, including emergency supply conductors where emergency power is provided, on the load side of the final disconnecting means and overcurrent device shall be kept entirely independent of all other wiring. They shall supply only loads that are directly associated with the fire pump system, and shall be protected to resist potential damage by fire, structural failure, or operational damage. They shall be permitted to be routed through a building(s) using one of the following methods:
+
+      (1) Encased in a minimum of 50mm (2 in.) concrete using rigid metal conduit (steel RMC), intermediate metal conduit, electrical metallic tubing or schedule 80 non-metallic conduit.
+
+      (2) Rigid metal conduit (steel RMC) within an enclosed construction dedicated to the fire pump circuit(s) having a minimum of a 2-hour fire resistance rating.
+
+      (3) A listed electrical circuit protective system with a minimum 2-hour fire resistance rating. The installation shall comply with any restrictions provided in the listing of the electrical circuit protective system.
+
+Exception: The supply conductors located in the electrical service room and generator room where they originate and in the fire pump room shall not be required to have the minimum 2-hour fire separation or fire resistive rating.
+
+   (2) Limited Service Fire Pumps. Limited service fire pump supply conductors shall be installed in rigid metal conduit (steel RMC) or intermediate metal conduit (steel IMC).
+
+Exception: Where there are multiple sources of supply with means of automatic transfer from one source to the other, electrical metallic tubing (EMT) shall also be permitted.
+
+(C) Conductor Size. Conductors supplying a fire pump or a limited service fire pump shall have a rating not less than 125 percent of the full load current of the pump motor selected at no greater than 75 degrees operating temperature of the conductor type used.
+
+(D) Overload Protection. See 695.5(C)(2) for overload protection requirements.
+
+(E) Pump Wiring. All wiring from the controllers to the pump motors shall be in rigid metal conduit (steel RMC) or have a minimum 1-hour fire separation or fire resistance rating.
+
+Exception No. 1: Liquidtight flexible metal conduit (maximum of 915mm (36 in.)) is permitted for final connection to motor terminal housing.
+
+Exception No. 2: Intermediate metal conduit (steel IMC) and electrical metallic tubing (EMT) shall be permitted for limited service fire pumps.
+
+SECTION 695.10
+
+Section 695.10—Revise to read as follows:
+
+695.10 Listed Equipment. Diesel engine driven fire pump controllers, electric fire pump controllers, electric motors, fire pump transfer switches, foam pump controllers, and limited service controllers shall be listed and approved for fire pump use.
+
+SECTION 695.14
+
+Subsection 695.14(E):—Revise to read as follows:
+
+(E) Electric Fire Pump Control Wiring Methods. All electric motor driven fire pump control wiring shall be in rigid metal conduit, intermediate metal conduit, liquidtight flexible metal conduit or Type MI cable.
+
+Exception: Electrical metallic tubing (EMT) shall be permitted for limited service fire pump control wiring.
+
+Subsection 695.14(F)—Add an Exception to read as follows:
+
+Exception: Electrical metallic tubing shall be permitted for limited service fire pump control wiring where provided with emergency generator supply.
+
+CHAPTER 7SPECIAL CONDITIONS 
+
+ARTICLE 700Emergency Systems 
+
+SECTION 700.4
+
+Subsection 700.4(A)—Revise to read as follows:
+
+(A) Acceptance Test. A licensed professional shall submit to the department a testing report of the complete system upon installation. Such testing report shall be from an authorized testing entity.
+
+Subsection 700.4(E)—Revise to read as follows:
+
+(E) Installation Test Requirements. The installation test shall be conducted and documented in accordance with NFPA 110-2005, Section 7-13, amended as follows:
+
+   7.13.3: Delete in its entirety.
+
+   7.13.4.1(11): Revise to read as follows: The load test with building load or other loads that simulate intended load shall continue for 2 hours observing and recording load changes and the resultant effect on voltage and frequency.
+
+   7.13.10.2: Delete and replace with the following: The complete crank/rest cycle shall consist of 3-15 second crank cycles with 15 second rest periods between cranks.
+
+   7.13.13: Add a new paragraph to read as follows: Transfer switches shall be tested in accordance with 8.4.6 as modified herein.
+
+Subsection 700.4(F)—Add a new subsection 700.4(F) to read as follows:
+
+(F) Maintenance and Operational Testing. Maintenance and operational testing shall be performed and documented in accordance with NFPA 110-2005, Section 8, amended as follows:
+
+   8.2: Delete in its entirety.
+
+   8.3.4: Delete and replace with the following: A written record of the EPSS inspection, tests, exercising, operation, and repairs shall be maintained on premises and made available to the department on request. Records shall be inclusive of the transfer switches and storage batteries.
+
+   8.4.4.1: Add a new sentence to read as follows: Inspection shall consist of examination of all EPSS components for leaks, abnormal device position and of all alarm/trouble indicators.
+
+   8.4.5: Delete in its entirety.
+
+   8.4.6: Replace "monthly" with "semi-annually".
+
+   8.4.6.1: Replace "monthly" with "semi-annually".
+
+SECTION 700.5
+
+Subsection 700.5 (B)—Delete third paragraph of subsection 700.5(B), revise the first paragraph of such subsection and add a FPN to read as follows:
+
+FPN: Peak reduction program may require utility approval.
+
+SECTION 700.6
+
+Subsection 700.6 (E)—Add a new subsection 700.6(E) to read as follows:
+
+(E) Mechanical Operation. Means shall be provided to mechanically operate the switch without hazard to personnel.
+
+Subsection 700.6 (F)—Add a new subsection 700.6(F) to read as follows:
+
+(F) Temporary Connections for Portable Generators. Temporary connection of a portable generator without transfer equipment shall be permitted where qualified persons maintain and supervise service of the installation and where the normal source of supply is physically isolated by a lockable disconnecting means or by disconnection of the normal supply conductors. Portable generators shall not be paralleled except by special permission.
+
+Subsection 700.6 (G)—Add a new subsection 700.6(G) to read as follows:
+
+(G) Permanent Connections for Portable Generators. Where a permanent connection is made for a portable generator, a disconnecting means and overcurrent protection shall be provided at the point of connection for the portable generator. Capacity shall not exceed the capacity of the permanent installation.
+
+SECTION 700.7
+
+Section 700.7—Revise to read as follows:
+
+Audible and visual signal devices shall be provided at a continuously supervised location for the following purposes:
+
+SECTION 700.9
+
+Subsection 700.9(A)—At the end of the subsection add the following:
+
+All accessible raceways, boxes and enclosures (including transfer switches, generators and power panels) for emergency circuits shall be permanently marked so they will be readily identified as a component of an emergency circuit or system. Accessible raceways shall be marked at least once every 3 m (10 ft). Acceptable means of marking shall include, but is not limited to, a permanently affixed identification nameplate, yellow in color with black lettering.
+
+Subsection 700.9(B)—Revise Exception to (5)(b) to read as follows:
+
+Exception to (5)(b): Overcurrent protection shall be permitted at the source for the equipment, provided the overcurrent protection is selectively coordinated in the overcurrent range with the downstream overcurrent protection.
+
+SECTION 700.10
+
+Section 700.10—Add a new section 700.10 to read as follows:
+
+700.10 Conductors for Emergency Circuits.
+
+(A) Ampacity. See 445.13.
+
+(B) Installation of Generator Conductors. Generator conductors shall be installed in accordance with the requirements of Article 230.
+
+(C) Overcurrent Devices. There shall be no limit to the number of overcurrent devices connected to the generator terminal devices.
+
+(D) Fire System Pumps. Fire system pumps or fire protection pumps requiring connection directly to the emergency generator as defined in the New York City Construction Codes shall be connected as follows:
+
+   (1) Circuits supplying fire system pumps shall be connected directly to the emergency generator with only one overcurrent protective device which shall be rated at not less than 150 percent and not more than 600 percent of the pump full load current.
+
+Exception: Limited service fire pumps shall be protected by an overcurrent device selected at 150 percent of motor full load current. The next largest available device size may be used where selection results in a non-standard device size.
+
+   (2) Where multiple generators are paralleled, the connection for the fire system pumps shall be taken from the generator paralleling bus.
+
+Exception: Limited service fire pumps are not required to be directly connected to the emergency generator and may have additional overcurrent protective devices.
+
+   (3) Conductors and transformers feeding the system shall be sized at 125 percent of the pump full load current.
+
+   (4) Separate circuits shall be used for each fire system pump.
+
+(E) Alarm Systems. All building-wide fire alarm systems shall be provided with a dedicated transfer switch and be directly connected to the emergency generator overcurrent protective devices as follows:
+
+   (1) 208/120V systems-by a dedicated fused disconnecting means.
+
+   (2) 460/265V systems-by a dedicated fused disconnecting means with fused disconnecting means on the secondary of the associated transformer.
+
+SECTION 700.12
+
+Section 700.12—Revise the fourth paragraph, add a new Exception to read as follows and delete the FPNs:
+
+Fire, sprinkler, standpipe, smoke detection, oxygen, nitrous oxide and other alarm or extinguishing systems shall be connected to the line side of the service equipment and shall have separate overcurrent protection.
+
+Exception: Such systems installed for local area protection only, may connect ahead of the supply to the area protected.
+
+Subsection 700.12(A)—Revise the first paragraph and add a FPN to read as follows:
+
+Storage batteries may be used as a source of power for emergency lighting systems and shall be of suitable rating and capacity to supply and maintain the total load for a minimum period of 11/2 hours, without the voltage applied to the load falling below 871/2 percent of normal. Storage batteries may be used for other emergency systems only where special permission is granted for such use.
+
+FPN: See Article 760 for additional information on the use of batteries for fire alarm systems.
+
+Subsection 700.12(B)(2)—Revise first sentence and add a FPN to read as follows:
+
+Where internal combustion engines are used as the prime mover, an on-site fuel supply shall be provided sufficient for not less than 6 hours of operation at full demand load.
+
+FPN: Some installations may require more than 6 hours of fuel supply. See Articles 517 and 708.
+
+Subsection 700.12(B)(6)—Revise to read as follows:
+
+(6) Outdoor Generator Sets. Where an outdoor generator set is permanently installed and is equipped with a disconnecting means and such generator set is located within sight of the building or structure supplied, an additional disconnecting means shall not be required where ungrounded conductors pass through the building or structure. Appropriate signage shall be provided at the generator set and at the first disconnecting means within the building or structure supplied.
+
+Subsection 700.12(B)(7)—Add new subsection 700.12(B)(7) to read as follows:
+
+(7) Temporary Generators. The equipment grounding conductor(s) of the derived system shall be bonded to the grounding electrode system.
+
+FPN: See 250.34 for grounding of generator frame.
+
+   (a) Separately Derived System. Where a temporary portable generator is a separately derived system, it shall be grounded in accordance with 250.30.
+
+   (b) Not A Separately Derived System. Where a temporary portable generator is not a separately derived system, a grounding connection shall not be made to the grounded circuit conductor.
+
+Subsection 700.12(C)—Revise to read as follows:
+
+(C) Uninterruptible Power Supplies. Uninterruptible power supplies may be used to provide power for emergency systems only where special permission is granted for such use.
+
+Subsection 700.12(D)—Revise the first sentence of subsection to read as follows:
+
+Where acceptable to the commissioner as suitable for use as an emergency source, a second service independent of the source normally supplying the building shall be permitted.
+
+Subsection 700.12(E)—Revise the first sentence to read as follows: Fuel cell systems shall be permitted to be used as a source of power for emergency systems in R-2 occupancies and shall be of suitable rating and capacity to supply and maintain the total load for not less than 6 hours of full-demand operation.
+
+SECTION 700.26
+
+Section 700.26—Revise to read as follows:
+
+700.26 Ground Fault Protection of Equipment. The alternate source for emergency systems shall not be permitted to have ground fault protection for equipment with automatic disconnecting means. Ground fault indication of the emergency source shall be provided pursuant to 700.7(D).
+
+SECTION 700.27
+
+Section 700.27—Revise to read as follows:
+
+700.27 Coordination. Emergency system(s) overcurrent devices shall be selectively coordinated in the overcurrent range with all supply side overcurrent protective devices.
+
+SECTION 700.30
+
+Section 700.30—Add a new section 700.30 under a new part "VII Grounding" to read as follows:
+
+VII. Grounding
+
+700.30 General. Grounding shall be in accordance with the provisions of Article 250.
+
+SECTION 700.31
+
+Section 700.31—Add a new section 700.31 to read as follows:
+
+700.31 Control Circuits.
+
+(A) Grounding. Low voltage control circuits and DC control circuits derived from engine generator starting batteries shall have one leg grounded.
+
+(B) Arrangements. Control circuits shall be arranged so that an additional accidental ground shall not cause operation of the connected devices.
+
+(C) Return Path. Control circuits shall not make use of the equipment grounding conductor as a circuit path.
+
+ARTICLE 701Legally Required Standby Systems
+
+SECTION 701.5
+
+Subsection 701.5(A)—Revise to read as follows:
+
+(A) Acceptance Test. A licensed professional shall submit to the department a testing report of the complete system upon installation. Such testing report shall be from an authorized testing entity.
+
+Subsection 701.5(E)—Revise to read as follows:
+
+(E) Installation Test Requirements. The installation test shall be conducted and documented in accordance with 700.4(E).
+
+Subsection 701.5(F)—Add a new subsection 701.5(F) to read as follows:
+
+(F) Maintenance and Operational Testing. Maintenance and operational testing shall be performed and documented in accordance with 700.4(F).
+
+SECTION 701.6
+
+Section 701.6—Add a new FPN to read as follows:
+
+FPN: Peak reduction program may require utility approval.
+
+SECTION 701.7
+
+Subsection 701.7(D)—Add a new subsection 701.7(D) to read as follows:
+
+(D) Mechanical Operation. Means shall be provided to mechanically operate the switch without hazard to personnel.
+
+Subsection 701.7(E)—Add a new subsection 701.7(E) to read as follows:
+
+(E) Temporary Connections for Portable Generators. Temporary connection of a portable generator without transfer equipment shall be permitted where qualified persons maintain and supervise service of the installation, and where the normal source of supply is physically isolated by a lockable disconnecting means or by a disconnection of the normal supply conductors. Portable generators shall not be paralleled except by special permission.
+
+Subsection 701.7(F)—Add a new subsection 701.7(F) to read as follows:
+
+(F) Permanent Connections for Portable Generators. Where a permanent connection is made for a portable generator, a disconnecting means and overcurrent protection shall be provided at the point of connection for the portable generator. Capacity shall not exceed the capacity of the permanent installation.
+
+SECTION 701.8
+
+Section 701.8—Revise the first sentence to read as follows:
+
+Audible and visual signal devices shall be provided at a continuously supervised location for the following purposes:
+
+SECTION 701.10
+
+Section 701.10—Revise to read as follows:
+
+701.10 Wiring and Conductors for Legally Required Standby Systems.
+
+(A) Wiring. Wiring for legally required standby systems shall be permitted to occupy the same raceways, cables, boxes, and cabinets as other general wiring.
+
+(B) Conductors.
+
+   (1) Ampacity. See 445.13.
+
+   (2) Installation of Generator Conductors. Generator conductors to the first disconnecting means shall be installed in accordance with the requirements of Article 230.
+
+   (3) Overcurrent Devices. There shall be no limit to the number of overcurrent devices connected to the generator terminal devices.
+
+SECTION 701.11
+
+Subsection 701.11(B)(2)—Revise to read as follows:
+
+(2) Internal Combustion Engines as Prime Mover. Where internal combustion engines are used as the prime mover, an on-site fuel supply shall be provided sufficient for not less than 6 hours of operation at full demand load.
+
+Exception: Legally required standby generators relying on natural gas as a fuel supply shall not be required to maintain an on-site fuel supply.
+
+FPN: Some installations may require more than 6 hours of fuel supply. See Articles 517 and 708.
+
+(6) Temporary Generators. The equipment grounding conductors of the derived system shall be bonded to the grounding electrode system.
+
+FPN: See 250.34 for grounding of the generator frame.
+
+(a) Separately Derived System. Where a temporary portable generator is a separately derived system, it shall be grounded in accordance with 250.30.
+
+(b) Not A Separately Derived System. Where a temporary portable generator is not a separately derived system, a grounding connection shall not be made to the grounded circuit conductor.
+
+Subsection 701.11(F)—Revise the first sentence to read as follows: Fuel cell systems used as a source of power for legally required standby systems shall be of suitable rating and capacity to supply and maintain the total load for not less than 6 hours of full-demand operation.
+
+SECTION 701.18
+
+Section 701.18-Revise to read as follows:
+
+701.18 Coordination. Legally required standby system(s) overcurrent devices shall be selectively coordinated in the overcurrent range with all supply side overcurrent protective devices.
+
+ARTICLE 702Optional Standby Systems 
+
+SECTION 702.2
+
+Section 702.2—Revise the first sentence to read as follows:
+
+Those systems not required by municipal, state, federal, or other codes or by any governmental agency having jurisdiction.
+
+SECTION 702.6
+
+Section 702.6—At the Exception, add a second sentence to read as follows:
+
+Portable generators shall not be paralleled with permanent optional standby sources, except by special permission.
+
+SECTION 702.12
+
+Section 702.12—Add a new section 702.12 to read as follows:
+
+702.12 Portable and Temporary Generators. Portable and temporary generators shall comply with 700.6(G) and 700.12(B)(7).
+
+ARTICLE 705Interconnected Electric Power Production Sources 
+
+SECTION 705.40
+
+Section 705.40—Add a new paragraph after the first paragraph to read as follows:
+
+Special detection methods shall be required to determine that a primary source supply system outage has occurred, and whether there should be automatic disconnection. When the primary source supply is restored, special detection methods shall be required to limit exposure of power production to out-of-phase reconnection.
+
+Delete the Exception in its entirety.
+
+Delete FPN No. 1 in its entirety.
+
+SECTION 705.42
+
+Section 705.42—Delete the words "or legally required standby" from the last sentence and delete the Exception in its entirety.
+
+ARTICLE 708Critical Operations Power Systems (COPS)
+
+Re-designate FPN as FPN No. 2 and add FPN No. 1 to read as follows:
+
+FPN No. 1: Determination of a Designated Critical Operations Area (DCOA) and the Critical Operations Power Systems (COPS) needed in its support shall be made by the local, state or federal authority having jurisdiction (AHJ) over the operation. Such authority will establish the basis for the risk assessment, confirm acceptability of the mitigation strategy and determine compliance with the requirements of this article.
+
+ARTICLE 725Class 1, Class 2, and Class 3 Remote-Control, Signaling, and Power-Limited Circuits
+
+SECTION 725.2
+
+Section 725.2—Revise the first definition, "Abandoned Class 2, Class 3, and PLTC Cable" and FPN as follows:
+
+Abandoned Class 2, Class 3 and PLTC Cable. Installed Class 2, Class 3 and PLTC Cable that are not terminated at equipment and not identified for future use with a tag at each end identifying the location of the opposing end.
+
+FPN Replace "725.21" with "725.41".
+
+SECTION 725.3
+
+Subsection 725.3(C)—Revise the Exception to read as follows:
+
+Exception: Type CL2P or Type CLP3P cables shall be permitted for Class 2 and Class 3 circuits installed in other spaces used for environmental air in accordance with 725.154(A).
+
+SECTION 725.24
+
+Section 725.24—Revise the third sentence and add a new FPN to read as follows:
+
+Such cables shall be supported by approved non-combustible straps, staples, cable ties, hangers or similar fittings and related installation accessories designed and installed so as not to damage the cables.
+
+FPN: Exposed wiring is intended to be securely held in place to avoid entanglement of fire response personnel during fire conditions.
+
+SECTION 725.25
+
+Section 725.25—Revise the title to read as follows:
+
+Abandoned Cables, Power Sources and Other Associated Equipment.
+
+Add an additional sentence at the end of the paragraph to read as follows:
+
+Abandoned Cables, Power Sources and other associated equipment shall be removed. Power sources and other associated equipment not tagged for future use shall be de-energized.
+
+SECTION 725.127
+
+Section 725.127—Revise the Exception by replacing "14 AWG" with "12 AWG."
+
+SECTION 725.130
+
+Section 725.130(A)—Delete Exception No. 2 and the FPN in their entirety.
+
+SECTION 725.136
+
+Section 725.136—Delete the words "non-power limited fire alarm".
+
+Subsection 725.136(B)—Delete the words "non-power limited fire alarm".
+
+Subsection 725.136(C)—Delete the words "non-power limited fire alarm".
+
+Subsection 725.136(D)—Delete the words "non-power limited fire alarm".
+
+Subsection 725.136(H)—Delete the words "rigid nonmetallic conduit," and "liquidtight flexible nonmetallic conduit,".
+
+SECTION 725.139
+
+Section 725.139(E)(1)—Delete the subsection in its entirety.
+
+SECTION 725.154
+
+Section 725.154(A)—Revise the title and first and second sentences to read as follows:
+
+(A) Spaces Used For Environmental Air. Cables installed in spaces used for environmental air shall be Class CL2P or CL3P. Cables shall not be installed in ducts or plenums.
+
+ARTICLE 727Instrumentation Tray Cable: Type ITC 
+
+SECTION 727.4
+
+Section 727.4—Revise to read as follows:
+
+727.4 Uses Permitted. Where approved, Type ITC cable shall be permitted to be used as follows in industrial establishments where conditions of maintenance and supervision ensure that only qualified persons will service the installation:
+
+(1) In cable trays.
+
+(2) In raceways.
+
+(3) In hazardous locations as permitted in 501.10, 502.10, 503.10, 504.20, 504.30, 504.80 and 505.15.
+
+(4) Enclosed in a smooth metallic sheath, continuous corrugated metallic sheath, or interlocking tape armor applied over the nonmetallic sheath in accordance with 727.6. The cable shall be supported and secured at intervals not exceeding 1.83m (6 ft).
+
+(5) Between cable tray and equipment in lengths not to exceed 7.62 m (25 ft), where the cable complies with the crush and impact requirements of Type MC cable and is identified for such use. The cable shall be supported and secured at intervals not exceeding 1.83m (6 ft).
+
+ARTICLE 760Fire Alarm Systems 
+
+SECTION 760.1
+
+Section 760.1—Revise FPN No. 1 by deleting the words "guard's tour," in first sentence and revise the last sentence to read as follows:
+
+For further information on the installation and monitoring of integrity requirements for fire alarm systems, refer to NFPA 72, National Fire Alarm Code, 2002 edition.
+
+Add a new FPN No. 3 to read as follows:
+
+FPN No. 3: See Section BC 907 of the NYC Building Code for components description and use.
+
+SECTION 760.2
+
+Section 760.2—At the end of the definition of "Abandoned Fire Alarm Cable" add the following words: "However, a tag shall be securely fixed to each end indicating location of opposing end."
+
+SECTION 760.3
+
+Subsection 760.3(B)—Delete the subsection in its entirety.
+
+Subsection 760.3(F)—Revise to read as follows:
+
+(F) Optical Fiber Cables. Where optical fiber cables are utilized for fire alarm circuits, the cables shall be supervised and installed in raceway per Articles 342, 344 or 358 in accordance with Article 770 and terminated in equipment listed for fire alarm use.
+
+Subsection 760.3(G)—Revise to read as follows:
+
+(G) Installations of Conductors with Other Systems. Installations shall comply with 300.8 and 760.136.
+
+SECTION 760.24
+
+Section 760.24—Add the following words at the end of the paragraph: "Raceways, where installed shall be minimum 1.9cm (3/4 in.) trade size. See 760.52 and 760.131 for installations requiring raceways."
+
+SECTION 760.25
+
+Section 760.25—Add the following words at the end of the paragraph: " and securely fixed to each end indicating location of opposing end."
+
+SECTION 760.32
+
+Section 760.32—Revise to read as follows:
+
+760.32 Fire Alarm Circuits Extending Beyond One Building. Power-limited fire alarm circuits that extend beyond one building and run outdoors shall be installed in raceway in accordance with Articles 342 or 344. Non-power limited fire alarm circuits that extend beyond one building and run outdoors shall meet the installation requirements of Part 1 of Article 300 and the applicable sections of Part 1 of Article 225 and shall be installed in raceway in accordance with Article 342 or 344.
+
+SECTION 760.33
+
+Section 760.33—Add a new section 760.33 to read as follows;
+
+760.33 Fire Alarm Circuit and Equipment Grounding. Fire alarm circuits and equipment shall be grounded in accordance with Article 250 and shall comply with the following requirements:
+
+(A) Grounding Electrode Conductor. A grounding electrode conductor shall be sized and installed in accordance with Article 250, Table 250.66, using a minimum of 10 AWG, at the primary and secondary power source supplying the fire alarm system.
+
+(B) Equipment Grounding Conductor. A separate green insulated equipment grounding conductor shall be sized and installed in accordance with Article 250, Table 250.122, using a minimum of 10AWG, where there are conduits supplying 120V to the fire command center, control unit or distributed control cabinets.
+
+(C) Grounding Separately Derived Supply. A green insulated equipment grounding conductor shall be sized and installed in accordance with Article 250, Table 250.122, using a minimum of 10 AWG, in distributed cabinets where the 120V supply is not derived from the main fire alarm power supply. In steel framed buildings, an additional connection to local steel shall be permitted.
+
+SECTION 760.41
+
+Section 760.41- Delete the section in its entirety and replace to read as follows:
+
+760.41 Power Source Requirements. The power source for fire alarm circuits shall comply with the following:
+
+(A) Primary Power Source. All fire alarm circuits shall be provided with a primary power source. The primary power source shall be generated electric power not exceeding 277/480 volts, supplied by utility company power or isolated plant. The primary power supply to the fire alarm system shall comply with the following:
+
+   (1) Primary Power Supply for the Fire Alarm System. Primary power supply for the fire alarm system shall be connected to the primary power source ahead of all building service disconnecting means so that the building service disconnecting means can be opened without de-energizing the fire alarm supply. All utility metering of the fire alarm system, including disabling or removal of meters, shall maintain power continuity to the fire alarm system at all times.
+
+   (2) Limited Interior Fire Alarm Systems. Primary power supply for sub-systems or other limited interior fire alarm systems may be connected to the power supply through the protected area of such systems by means of a connection ahead of the disconnecting means for the power supply to the protected area.
+
+FPN: Sub-systems and limited interior fire alarm systems may also use the connected means defined in paragraph (1) where available.
+
+(B) Secondary Power Source. Where an emergency power system is provided or required to be provided for emergency system loads, the fire alarm circuits shall be provided with a secondary power source. Batteries shall not be a substitute for connection to a secondary power source. The secondary power source shall comply with the requirements for emergency power systems and/or emergency generator that are used for emergency systems loads as articulated below:
+
+   (1) Generally. Emergency power systems complying with Chapter 27 of the 2008 Building Code shall be permitted to serve as a secondary power source or
+
+   (2) Existing Buildings. Emergency power systems and/or emergency generators in existing buildings in compliance with Title 27, chapter 1, subchapter 6, section 27-396.4 of the Administrative Code (also referred to as the 1968 Building Code) shall be permitted to serve as the secondary power source.
+
+The secondary power supply shall be connected such that all other disconnecting means serving other building emergency loads can be opened without de-energizing the facility fire alarm secondary power supply.
+
+FPN: The use of a main disconnecting means on the output of the generator(s) is permitted where the disconnection of all other loads does not interrupt the facility fire alarm system secondary power supply.
+
+(C) Battery. Regardless of whether a secondary power source is also provided, each fire alarm system and subsystem shall be equipped with a storage battery power supply sized to meet the operating power requirements of the system in accordance with (1), (2) or (3) below and shall automatically connect to and operate the fire alarm system upon failure of the primary or secondary power supply or sources. Batteries shall not be a substitute for connection to a secondary power source when a secondary power source is required pursuant to subsection (B) above.
+
+   (1) With Voice Communications Capability. Supervisory operation for 24 hours followed by full load operation for 6 hours for systems with voice communications capability.
+
+FPN: A 45 minute period of voice and alarm operation at the maximum connected load shall be considered equivalent to 6 hours of total system operation.
+
+   (2) Without Voice Communications Capability. Supervisory operation for 24 hours followed by full load operation for 15 minutes for systems without voice communications capability.
+
+   (3) Sub-systems or Other Limited Interior Fire Alarm Systems. Supervisory operation for 24 hours followed by full load operation for 5 minutes for sub-systems or other limited interior fire alarm systems operating within a facility that reports to the overall facility fire alarm system.
+
+(D) Arrangement of Power Sources. One source of power shall be connected to the fire alarm system at all times. The primary and secondary power sources shall be arranged and controlled by automatic transfer switches dedicated to the fire alarm system such that the secondary source will be automatically connected to the fire alarm system should the primary power source fail. The following conditions shall be observed:
+
+   (1) Intermediary devices between the fire alarm system power supply and the power source, other than fused disconnect switches, transformers and automatic transfer switches are prohibited. Such disconnect switches, transformers and automatic transfer switches shall supply only the fire alarm system and other systems specifically permitted by applicable New York City rules and regulations.
+
+   (2) The primary and secondary power source shall each be provided with a means of disconnect from the fire alarm system. Each disconnect shall consist of a fused disconnect switch, locked in the ON position and the key shall be kept on premises and made accessible only to authorized personnel. Such disconnect shall be painted red and permanently identified as a fire alarm circuit and labeled as to system/location served, with a means of interrupting the unfused grounded and all ungrounded conductors.
+
+   (3) The fire alarm system fused disconnect switch on the transformer secondary side shall comply with the requirements of the primary and secondary power source fused disconnect switches pursuant to Article 240.
+
+   (4) For buildings served at up to 300 volts to ground, the service voltage shall be transformed to 208/120 volts and a fire alarm fuse disconnect provided within a circuit length of ten (10) feet, shall be connected at the transformer secondary on the 208/120 volt side. Fused cutouts shall be provided where multiple circuits are required to support the fire alarm system and related auxiliaries mounted in a fused cutout panel suitable for the number of circuits needed.
+
+SECTION 760.43
+
+Section 760.43—Revise the first sentence by replacing "14 AWG" with "12 AWG" and delete the last sentence.
+
+SECTION 760.45
+
+Section 760.45—Delete the Exceptions and the FPN in their entirety.
+
+SECTION 760.46
+
+Section 760.46—Revise to read as follows:
+
+760.46 NPLFA Circuit Wiring. Installation of non-power limited fire alarm circuits shall be in accordance with applicable portions of 110.3(B), 300.7, 300.15, 300.17 and other appropriate articles of Chapter 3 using raceway methods described in 342 and 344 or use Type MI Cable in accordance with 332.
+
+Exception No. 1: As provided in 760.48 through 760.53.
+
+Exception No. 2: Where other articles of this Code require other methods.
+
+SECTION 760.48
+
+Subsection 760.48(A)—Revise to read as follows:
+
+(A) NPLFA Circuits. Non-power limited fire alarm circuit conductors shall not be permitted to occupy the same cable, enclosure or raceway with circuit conductors of other systems.
+
+Subsection 760.48(B)—Revise to read as follows:
+
+(B) Fire Alarm with Power-Supply Circuits. Power supply and fire alarm circuit conductors shall be permitted in the same enclosure only where connected to the same equipment.
+
+SECTION 760.49
+
+Subsection 760.49(A)—Revise to read as follows:
+
+(A) Sizes and Use. Only copper conductors size 12 AWG and larger shall be permitted to be used as NPLFA circuit conductors.
+
+Subsection 760.49(B)—Delete the FPN in its entirety and revise to read as follows:
+
+(B) Insulation. Insulation on conductors shall be suitable for 600 volts, 90 degrees C, and shall comply with Article 310. Conductors shall be Type THHN, THWN/THHN, TFFN, TFN, FEP, RHH, RHW2, XHH, XHHW, MI or CI-NYC Certified Cable. Application of conductor ampacity shall be in accordance with 110.14 for terminal device ratings.
+
+Subsection 760.49(C)—Revise to read as follows:
+
+(C) Conductor Materials. Conductors shall be solid copper up to size 10 AWG. Stranded copper conductors shall be used for sizes 8 AWG and larger.
+
+SECTION 760.51
+
+Subsection 760.51(A)—Delete the words "and Class 1 Circuits" in title and "and Class 1 circuit" in text.
+
+Subsection 760.51(B)—Delete the subsection in its entirety.
+
+Subsection 760.51(C)—Revise to read as follows:
+
+(C) Cable Trays. Where non-power limited fire alarm circuit conductors are installed in cable trays, they shall comply with 392.9 through 392.11 and shall be barriered from any other wiring installed in the cable tray
+
+SECTION 760.52
+
+Section 760.52—Add a new section 760.52 to read as follows:
+
+760.52 Mechanical Execution of Work. Installation shall comply with the following:
+
+(A) Mechanical Rooms, Elevator Rooms, Garages and Loading Docks. All wiring installed up to 2.4m (8 ft.) above the finished floor in garages, loading docks, mechanical rooms, and elevator rooms shall meet the installation requirements of Article 344. All wiring installed over 2.4m (8 ft.) above the finished floor shall meet the installation requirements of Articles 332, 342, 344 or 358.
+
+Exception: For mechanical rooms and elevator rooms having a floor area of less than 900 square feet, installation pursuant to Articles 332, 342, 344 or 358 is permitted without height limitation.
+
+(B) Installation. Installation of raceways, boxes, enclosures, cabinets and wiring shall conform to the following requirements:
+
+   (1) Covers of boxes, enclosures and cabinets shall be painted red and permanently identified as to use.
+
+   (2) Penetrations through rated walls, ceilings and floors shall be fire stopped.
+
+   (3) Raceways or wiring shall not penetrate the top of any control equipment cabinet or enclosure.
+
+   (4) Raceways installed up to 2.4m (8 ft.) in stairways shall not reduce or obstruct required stairway radius or egress path.
+
+SECTION 760.53
+
+Section 760.53—Delete the section in its entirety and replace to read as follows:
+
+760.53 Fire Alarm Circuit Integrity (CI) Cable. Cables suitable for use in fire alarm systems to ensure survivability of critical circuits during a specified time under fire conditions shall be listed as circuit integrity cable. Cables so identified shall have the classification "CI-NYC certified fire alarm cable"
+
+SECTION 760.121Subsection 760.121(A)—Delete FPN Nos. 1 and 2 in their entirety.
+
+SECTION 760.124Section 760.124 -Delete the FPN in its entirety.
+
+SECTION 760.127Section 760.127 -Delete the Exception in its entirety.
+
+SECTION 760.130Subsection 760.130(A)—Revise Exception No. 2 by adding "760.51" after "760.49", delete Exception No. 3 and delete the FPN in their entirety.
+
+Subsection 760.130(B)—Revise the last sentence to read as follows:
+
+Devices shall be installed in accordance with Sections 110.3(B), 300.11(A) and 300.15 with all wiring supported independently from the building structure.
+
+Subsection 760.130(B)(1)—Revise to read as follows:
+
+(1) Exposed or Fished in Concealed Spaces. In raceway or exposed above 2.4m (8 ft.) on the surface of ceiling and sidewalls or fished in concealed spaces, cable splices or terminations shall be made in listed fittings, boxes, enclosures, fire alarm devices or utilization equipment. Where installed exposed, cables shall be supported at a maximum of 1.5m (5 ft.) spacing and installed in such a way that maximum protection against physical damage is afforded by building construction. Where located within 2.4m (8 ft.) of the floor, cables shall be installed in raceway as per Article 342, 344, 358 or 386.
+
+Subsection 760.130(B)(2)—Revise to read as follows:
+
+(2) Passing Through a Floor or Wall. In metal raceways where passing through a floor or wall to a height of 2.4m (8 ft.) above the floor, unless adequate protection can be afforded by building construction as per 760.130(B)(1) or unless an equivalent solid guard is provided.
+
+FPN: Protection by building construction includes, but is not limited to, raised floors, shafts, telephone and communications equipment rooms and closets, and rooms used exclusively for fire alarm equipment.
+
+Subsection 760.130(B)(3)—Delete the words "rigid nonmetallic conduit,".
+
+Subsection 760.130(B)(4)- Add a new subsection 760.130(B)(4) to read as follows:
+
+(4) Terminations and Splices. Terminations and splices shall be made with terminal blocks and in listed fittings, boxes, enclosures, fire alarm devices or utilization equipment. Splices shall be limited to locations where the conditions of installation require the use of splices. Splices and terminations in riser cables are prohibited except where made in fire alarm equipment terminal cabinets. Conductors shall be mechanical connections listed in accordance with UL 486 (2003) A &amp; C or if soldered, conductors shall first be joined so as to be mechanically and electrically secure prior to soldering. Temperature rating of completed splices shall be equal to or exceed the temperature rating of the highest rated conductor.
+
+SECTION 760.131
+
+Section 760.131—Add a new section 760.131, to read as follows:
+
+760.131 Mechanical Execution of Work. Installation shall conform to the following requirements:
+
+(A) Mechanical Rooms, Elevator Rooms, Garages and Loading Docks. All wiring installed up to 2.4m (8 ft.) above the finished floor in garages, loading docks, mechanical rooms, and elevator rooms shall meet the installation requirements of Article 344.
+
+Exception: For mechanical rooms and elevator rooms having a floor area of less than 900 square feet, installation pursuant to Articles 332, 342, 344 or 358 is permitted without height limitation.
+
+(B) Extinguishing Systems. Extinguishing and suppression systems activated by automatic fire detection and using fire alarm cables shall be installed pursuant to Articles 332, 342, 344 or 358. Such systems shall include, but not be limited to, pre-action sprinkler, deluge sprinkler, water mist, clean air agent, Halon, range hood, CO2, and dry chemicals.
+
+(C) Installation. Installation of raceways, boxes, enclosures, cabinets and wiring shall conform to the following requirements:
+
+   (1) Covers of boxes, enclosures and cabinets shall be painted red and permanently identified as to use.
+
+   (2) Penetrations through rated walls, ceilings and floors shall be fire stopped.
+
+   (3) Raceways or wiring shall not penetrate the top of any control equipment cabinet or enclosure.
+
+   (4) Raceways installed up to 2.4m (8 ft.) in stairways shall not reduce or obstruct required stairway radius or egress path.
+
+   (5) Cables shall be secured by cable ties, straps or similar fittings designed and installed so as to not damage cables. Such fittings shall be secured in place at intervals not exceeding 1.5m (5 ft.) on center and within 0.3m (1 ft.) of associated cabinet, enclosure, or box.
+
+SECTION 760.136
+
+Subsection 760.136(D)(2)(a)—Replace "Type FPL, FPLR, FPLP or permitted substitute cables" with "type FPLP 'NYC certified fire alarm cable"' or other NYC certified fire alarm cable".
+
+Subsection 760.136(D)(2)(b)—Delete the subsection in its entirety.
+
+Subsection 760.136(F)—From the first sentence, delete "rigid nonmetallic conduit" and "liquidtight flexible nonmetallic conduit".
+
+Subsection 760.136(G)(1)(b)—Revise to read as follows:
+
+(b) all of the power-limited fire alarm circuit conductors are in a raceway or metal-sheathed or metal-clad cables.
+
+SECTION 760.139Section 760.139—Delete the section in its entirety.
+
+SECTION 760.142Section 760.142—Revise to read as follows:
+
+760.142 Conductor Size. Conductors shall not be smaller than 18 AWG in size.
+
+SECTION 760.143
+
+Section 760.143—Revise to read as follows:
+
+760.143 Support of Conductors. Power-limited fire alarm circuit conductors shall not be strapped, taped, or attached by any means to the exterior of any piping, duct, conduit, or raceway as a means of support.
+
+SECTION 760.154
+
+Subsection 760.154(A)—Revise to read as follows:
+
+(A) Cables in Other Spaces Used for Environmental Air. Cables installed in other spaces used for environmental air, or where permitted to run exposed in other areas, shall be Type FPLP "NYC Certified Fire Alarm Cable".
+
+Subsection 760.154(B)(1)—Replace "Type FPLR" with "Type FPLP 'NYC Certified Fire Alarm Cable' or other NYC Certified Fire Alarm Cable" in each of two locations.
+
+Subsection 760.154(B)(2)—At the beginning of the sentence, replace "Other cables" with "FPLP 'NYC Certified Fire Alarm Cable"'.
+
+Subsection 760.154(C)—Delete the subsection in its entirety and revise to read as follows:
+
+(C) Other Wiring Within Buildings. Cables installed in building locations other than those covered in 760.154(A) or (B) shall be Type FPLP "NYC Certified Fire Alarm Cable."
+
+Subsection 760.154(D)—Revise the subsection to read as follows:
+
+(D) Fire Alarm Cable Substitutions. Substitutions of Type FPLP "NYC Certified Fire Alarm Cable" or other NYC Certified Fire Alarm Cables shall not be permitted.
+
+Delete the Figure, Table and FPN in their entirety.
+
+SECTION 760.176
+
+Section 760.176 (G)—Delete the first sentence of the first paragraph, the FPN and the Table in their entirety.
+
+SECTION 760.179
+
+Section 760.179—Revise the title to read as follows:
+
+760.179 Listing and Marking of PLFA Cables and Insulated Continuous Line-Type Fire Detectors.
+
+Subsection 760.179(B)—Revise to read as follows:
+
+(B) Conductor Size.
+											 The size of conductors in single or multi-conductor cables shall not be smaller than 18 AWG.
+
+Subsection 760.179(D)—Delete the FPN in its entirety and revise to read as follows:
+
+(D) Type FPLP. Type FPLP power-limited fire alarm cable shall be listed to UL 1424-05, Standard for Cables for Power-Limited- Fire-Alarm Circuits with the listing agency certifying compliance with the following requirements:
+
+   (1) Type FPLP only; minimum insulation thickness 15 mils; minimum temperature 150 C.
+
+   (2) Red colored jacket overall; minimum thickness 25 mils.
+
+   (3) Cable marked as per UL 1424 must bear additional description "ALSO CLASSIFIED NYC CERT. FIRE ALARM CABLE," legible without removing jacket.
+
+Subsection 760.179(E)—Delete the subsection in its entirety.
+
+Subsection 760.179(F)—Delete the subsection in its entirety.
+
+Subsection 760.179(G)—Revise by deleting "CI" from the first sentence of the first paragraph and replacing with "CI- 'NYC Certified Circuit Integrity Fire Alarm Cable"' and deleting "(E), (F)" in the second sentence of the first paragraph.
+
+Subsection 760.179(H)—Replace "Type FPLP, FPLR, or FPL cable" at end of sentence with "Type FPLP 'NYC certified fire alarm cable"'.
+
+Subsection 760.179(I)—Delete subsection 760.179(I) and add a new 760.179(I) to read as follows:
+
+(I) Cable Marking. The cable shall be marked in accordance with subsection 760.179(D)(3) and its rating as NYC Cert. Fire Alarm Cable or NYC Cert. Circuit Integrity Cable.
+
+Subsection 760.179(J)—Delete "through (F)" in fourth line of the paragraph.
+
+Subsection 760.179(K)—Add new subsection 760.179(K) to read as follows:
+
+760.179(K) Listed Fire-Rated Assemblies. MI cable meeting the requirements of Article 332 or listed fire-rated assemblies that have a minimum fire rating of 2 hours shall be permitted when installed in accordance with the listing requirements.
+
+ARTICLE 770Optical Fiber Cables and Raceways
+
+SECTION 770.2
+
+Section 770.2—Revise the definition of "Abandoned Optical Fiber Cable" to read as follows:
+
+Abandoned Optical Fiber Cable. Installed optical fiber cable that is not terminated at equipment other than a connector and not identified for future use with a tag securely fixed to each end and indicating the location of the opposing end.
+
+SECTION 770.3
+
+Section 770.3—Revise first sentence to read as follows:
+
+Circuits and equipment shall comply with 770.3(A), (B) and (C).
+
+Subsection 770.3(C)—Add a new subsection 770.3(C) to read as follows:
+
+(C) Electric Closets. Fiber optic circuits and equipment shall not be installed in electric closets.
+
+SECTION 770.25
+
+Section 770.25—Revise title to read "Abandoned Cables and Power Sources." and add a new third sentence to read as follows:
+
+Abandoned Power Sources and other associated equipment shall be removed. Power sources and other associated equipment not tagged for future use shall be de-energized.
+
+SECTION 770.48
+
+Subsection 770.48(A)—Revise subsection 770.48(A) to read as follows:
+
+(A) Conductive and Nonconductive Cables. Unlisted conductive and nonconductive outside plant optical fiber cables shall be permitted to be installed in locations as described in 770.154(C), where the length of the cable within the building, measured from its point of entrance does not exceed 15 m (50 ft) and the cable enters the building from the outside and is terminated in an enclosure. All other cables shall be considered to be within the building.
+
+Exception No. 1: In areas of special flood hazard, as defined in Section G201.2 of Appendix G of the New York City Building Code, the length of such cabling may exceed 15 m (50 ft) to the extent necessary to provide direct delivery to a level 1.52 m (5 ft) above the design flood elevation specified in Section 7.1 (Table 7-1) of Section G501.1 of Appendix G of the New York City Building Code, provided that:(1) Such cabling shall not extend more than 3 m (10 ft) beyond the lowest story having its floor above the design flood elevation; and(2) Such cabling shall not be installed in ducts used for environmental air or in plenums used for environmental air.
+
+Exception No. 2: In areas designated within a shaded X-Zone, as defined in Section G201.2 of Appendix G of the New York City Building Code, the length of such cabling may exceed 15 m (50 ft) to the extent necessary to provide direct delivery to a level 1.52 m (5 ft) above the 500-year flood elevation, as defined in Section G201.2 of Appendix G of the New York City Building Code, provided that:(1) Such cabling shall not extend more than 3 m (10 ft) beyond the lowest story having its floor above the design flood elevation; and(2) Such cabling shall not be installed in ducts used for environmental air or in plenums used for environmental air.
+
+FPN No. 1: Splice cases or terminal boxes, both metallic and plastic types, typically are used as enclosures for splicing or terminating optical fiber cables.
+
+FPN No. 2: See 770.2 for the definition of Point of Entrance.
+
+Subsection 770.48(B)—Delete the words "Article 352, Rigid Polyvinyl Chloride Conduit: Type PVC".
+
+SECTION 770.100
+
+Subsection 770.100(A)(3)—Revise the first sentence by replacing "14 AWG" with "12 AWG".
+
+SECTION 770.133
+
+Subsection 770.133(A)—Delete the words "non-power-limited fire alarm" throughout.
+
+Subsection 770.133(B)(2)—Delete the subsection in its entirety.
+
+Subsection 770.133(D)—Add a new subsection 770.133(D) to read as follows:
+
+(D) Electric Closets. Equipment and cabling shall not be installed in electric closets.
+
+SECTION 770.154
+
+Subsection 770.154(A)—Revise to read as follows:
+
+(A) Spaces Used for Environmental Air. Cables shall not be installed in ducts or plenums. Cables installed in spaces used for environmental air shall be Type OFNP or OFCP. Abandoned cables shall not be permitted to remain. Types OFNR, OFCR, OFNG, OFN, OFCG, and OFC cables installed in compliance with 300.22 shall be permitted. Listed plenum optical fiber raceways shall be permitted in spaces used to convey environmental air or as described in 300.22(c). Only Type OFNG, and OFCP cables shall be permitted to be installed in these raceways.
+
+CHAPTER 8Communications Systems
+
+ARTICLE 800Communications Circuits 
+
+SECTION 800.2
+
+Section 800.2—Revise the definition of "Abandoned Communications Cable" to read as follows:
+
+Abandoned Communications Cable. Installed communications cable that is not terminated at both ends at a connector or other equipment and not identified for future use with a tag securely fixed to each end and indicating the location of the opposing end.
+
+SECTION 800.24
+
+Section 800.24—Revise the second sentence to read as follows:
+
+Cables installed exposed on the surface of ceilings and sidewalls shall be supported by the building structure in such a manner that the cable will not be damaged by normal building use or present a safety hazard.
+
+SECTION 800.25
+
+Section 800.25—Revise the title and first sentence to read as follows:
+
+800.25 Abandoned Cables, Power Sources &amp; Other Associated Equipment. The accessible portion of abandoned communications cables, power sources and other special equipment shall be removed. Cables, power sources and other special equipment not tagged for future use shall be de-energized.
+
+SECTION 800.48
+
+Section 800.48—Add two exceptions to the end of section 800.48 to read as follows:
+
+Exception No. 1: In areas of special flood hazard, as defined in Section G201.2 of Appendix G of the New York City Building Code, the length of such cabling may exceed 15 m (50 ft) to the extent necessary to provide direct delivery to a level 1.52 m (5 ft) above the design flood elevation specified in Section 7.1 (Table 7-1) of Section G501.1 of Appendix G of the New York City Building Code, provided that:(1) Such cabling shall not extend more than 3 m (10 ft) beyond the lowest story having its floor above the design flood elevation; and(2) Such cabling shall not be installed in ducts used for environmental air or in plenums used for environmental air.
+
+Exception No. 2: In areas designated within a shaded X-Zone, as defined in Section G201.2 of Appendix G of the New York City Building Code, the length of such cabling may exceed 15 m (50 ft) to the extent necessary to provide direct delivery to a level 1.52 m (5 ft) above the 500-year flood elevation, as defined in Section G201.2 of Appendix G of the New York City Building Code, provided that:(1) Such cabling shall not extend more than 3 m (10 ft) beyond the lowest story having its floor above the design flood elevation; and(2) Such cabling shall not be installed in ducts used for environmental air or in plenums used for environmental air.
+
+SECTION 800.100
+
+Subsection 800.100(A)(3)—Replace "14 AWG" with "12 AWG".
+
+SECTION 800.133
+
+Section 800.133—Revise to read as follows:
+
+800.133 Communications wires, cables and equipment inside of buildings shall not be installed in electric closets and shall comply with 800.133(A) through (D).
+
+Subsection 800.133(D)—Add a new subsection 800.133(D) to read as follows:
+
+(D) Electric Closets. Communications equipment and cabling shall not be installed in Electric Closets.
+
+SECTION 800.154
+
+Subsection 800.154(A)—Revise to read as follows:
+
+(A) Spaces Used for Environmental Air. Cables installed in spaces used for environmental air shall be Type CMP. Cables and raceways shall not be installed in ducts or plenums. Abandoned cables shall not be permitted to remain. Types CMP, CMR, CMG, CM, and CMX and communications wire installed in compliance with 300.22 shall be permitted. Listed plenum communications raceways shall be permitted to be installed in spaces used for environmental air as described in 300.22(C). Only Type CMP cable shall be permitted to be installed in raceways.
+
+Installation of hybrid power and communications cable shall be performed by licensed master or special electricians.
+
+ARTICLE 810Radio and Television Equipment 
+
+SECTION 810.58
+
+Subsection 810.58(C)—Replace "14 AWG" with "12 AWG".
+
+ARTICLE 820Community Antenna Television and Radio Distribution Systems 
+
+SECTION 820.2
+
+Section 820.2—Revise the definition of "Abandoned Coaxial Cable" to read as follows:
+
+Abandoned Coaxial Cable. Installed coaxial cable that is not terminated at equipment other than a coaxial connector and not identified for future use with a tag securely fixed to each end and indicating the location of the opposing end.
+
+SECTION 820.25
+
+Section 820.25—Revise to read as follows:
+
+820.25 Abandoned Cables. The accessible portion of abandoned coaxial cables shall be removed. Where a coaxial cable is identified for future use with a tag, the tag shall be of sufficient durability.
+
+SECTION 820.100
+
+Subsection 820.100(A)(3)—Replace "14 AWG" with "12 AWG".
+
+SECTION 820.133
+
+Subsection 820.133(A)(1) Exception No. 1—Delete the words "non-power-limited fire alarm,".
+
+Subsection 820.133(A)(1)(a)(2)—Delete 820.133(A)(1)(a)(2) in its entirety.
+
+Subsection 820.133(A)(2) Exception No. 1—Delete the words "non-power-limited fire alarm,".
+
+Subsection 820.133(A)(2)—Delete Exception No. 2 in its entirety.
+
+Subsection 820.133(C)—Add a new subsection 820.133(C) to read as follows:
+
+(C) Electric Closets. Television and radio equipment and cabling shall not be installed in Electric Closets.
+
+SECTION 820.154
+
+820.154(A) Revise the title to read as follows:
+
+(A) Spaces Used for Environmental Air
+
+ARTICLE 830Network—Powered Broadband Communications Systems 
+
+SECTION 830.2Section 830.2—Revise the definition of "Abandoned Network-Powered Broadband Communications Cable" to read as follows:
+
+Abandoned Network-Powered Broadband Communications Cable. Installed network-powered broadband communications cable that is not terminated at equipment other than a connector and not identified for future use with a tag securely fixed to each end and indicating the location of the opposing end.
+
+SECTION 830.25Section 830.25—Revise the second sentence to read as follows:
+
+Where a network-powered broadband communications cable is identified for future use with a tag, the tag shall be of sufficient durability.
+
+SECTION 830.100
+
+Subsection 830.100(A)(3)—Replace "14 AWG" with "12 AWG".
+
+SECTION 830.133
+
+Subsection 830.133(A)(1)(b)(2)—Delete the subsection in its entirety.
+
+Subsection 830.133(A)(1)(d)—Delete the following words from Exception No. 1: "non-power limited fire alarm".
+
+Subsection 830.133(D)—Add a new subsection 830.133(D) to read as follows:
+
+(D) Electric Closets. Broadband communications equipment and cabling shall not be installed in Electric Closets.
+
+
+
+
 Chapter 2: Housing Maintenance Code
 --------------------------------------------------
 
@@ -4515,3250 +7759,6 @@ v. No later than July 31, 2012 and every two years thereafter the department sha
    (7) information on the compliance levels achieved by multiple dwellings which remain in the program for failure to achieve substantial compliance and recommendations on how to achieve higher compliance levels for those multiple dwellings; and
 
    (8) for those multiple dwellings that were discharged from the program, information on the number of such buildings that were able to correct all identified violations prior to discharge or that were able to achieve a higher compliance level than required by this program in order to be discharged and an assessment of why such buildings were able to achieve such results. Such study shall also include recommendations as to whether the program should be continued or modified in any way and the reasons therefore.
-
-
-
-
-Chapter 3: Electrical Code
---------------------------------------------------
-
-
-
-
-**Subchapter 1: General Provisions and Definitions**
-
-
-
-*§ 27-3001 Short title.* ::
-
-
-This chapter shall be known and may be cited as the "electrical code".
-
-
-
-
-
-
-*§ 27-3002 Purpose.* ::
-
-
-Since there is danger to life and property inherent in the use of electrical energy, the electrical code is enacted to regulate the business of installing, altering or repairing wiring and appliances for electrical light, heat, power, signaling, communication, alarm or data transmission in the city of New York and the licensing of all persons who engage in such business.
-
-
-
-
-
-
-*§ 27-3003 Construction.* ::
-
-
-This chapter shall be liberally construed to accomplish its purpose. Words used herein which have jacquired a particular meaning in the usage of the electrical trades shall be construed as understood in the trade.
-
-
-
-
-
-
-*§ 27-3003.1 Areas of special flood hazard and shaded X-Zones.* ::
-
-
-Electrical work performed on structures located in areas of special flood hazard and shaded X-Zones, as defined in section G201.2 of the New York city building code, shall also comply with the provisions of appendix G of the New York city building code. Where, in any specific case, the provisions of this code conflict with the provisions of appendix G of the New York city building code, the more restrictive shall govern.
-
-
-
-
-
-
-*§ 27-3004 Definitions.* ::
-
-
-Unless otherwise expressly stated, the following terms, whenever used in this chapter or in any rule or reference standard promulgated pursuant to this chapter, shall mean:
-
-CITY AGENCY: A city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid, in whole or in part, from the city treasury.
-
-COMMISSIONER: The commissioner of buildings.
-
-DEPARTMENT: The department of buildings.
-
-DIRECT EMPLOY: Direct employment shall be evidenced by payroll records, such as social security payments, income tax withholding or the disbursement of other funds as required by law for the benefit of such employee, timekeeping records, such as time cards and sign-in sheets, work orders, and assignment or route logs.
-
-DIRECT SUPERVISION: Control exercised by a licensed individual, either personally or through one or more demonstrated levels of competent supervision over individuals (i) in the direct employ of a master electrician's business or (ii) in the direct employ of an individual, partnership, corporation or city agency employing a special electrician. Direct supervision includes field inspection, supervision of job sites, and the maintenance of records of such supervision and such other records required by the commissioner.
-
-ELECTRICAL WORK: The installation, alteration, maintenance, or repair of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm or data transmission.
-
-EMPLOYEE: An individual who is on the payroll of an employer and who under the usual common law rules applicable in determining the employee-employer relationship has the status of an employee. Such term shall not include an independent contractor.
-
-JOURNEYMAN ELECTRICIAN: An individual who has demonstrated a progressive understanding, proficiency and competence in the electrical trade, which shall include:
-
-a. A working familiarity with the electrical code and the electrical code technical standards and the ability to apply the code requirements correctly;
-
-b. The application of basic electrical theory and the utilization of trade math skills on the job site;
-
-c. A working knowledge of the tools of the trade and the ability to utilize them properly; and
-
-d. An ability to draft simple diagrams and interpret from drawings for the purpose of the installation, alteration or repair of electric wiring or appliances for light, heat and power.
-
-LOW VOLTAGE ELECTRICAL WORK: The installation, alteration, maintenance or repair of electrical wiring that is designed to operate at less than fifty volts for signaling, communication, alarm, and data transmission circuits except that such term shall not include the installation, alteration, maintenance or repair, regardless of voltage, of any such wiring which connects to, is a part of or is located within:
-
-(a) life safety systems as defined by rule of the commissioner, including but not limited to (i) those safety systems and features listed in subparagraphs a through n of paragraph three of subdivision a of section 27-228.2 of the administrative code and (ii) alarm and extinguishing systems subject to building code reference standards RS 17-3, RS 17-3A, RS 17-3B, and/or RS 17-3C,
-
-(b) class I, II or III hazardous locations as described in the electrical code technical standards, including but not limited to certain areas within commercial garages as set forth therein, aircraft hangars, gasoline dispensing and service stations, bulk fuel storage plants and facilities which may be utilized for spray applications or for a dipping and coating process,
-
-(c) intrinsically safe systems as described in the electrical code technical standards, or
-
-(d) a point of connection to or interfacing with a control circuit which activates light, heat or power circuits.
-
-LOW VOLTAGE INSTALLER: An individual who is certified by the commissioner to act as the representative of a business entity authorized pursuant to this chapter and the rules of the department to perform low voltage electrical work in or on any building, premises or lot in the city. An individual so certified shall have full responsibility on behalf of such business entity for the manner in which such work is done and for the selection, supervision and control of employees of such business entity who perform such work. Such individual shall be an employee of the business entity which he or she represents and shall supervise, direct and be responsible for only the work of the employees of such business entity. Such individual shall not represent more than one business entity.
-
-MASTER ELECTRICIAN BUSINESS: A sole proprietorship, partnership or corporation authorized by the commissioner to engage in or carry on, as an independent contractor and as its regular business, the business of performing electrical work in or on any building, premises or lot in the city under a license issued to a master electrician.
-
-MASTER ELECTRICIAN'S LICENSE: The license issued to an individual who has passed the required examination and tests and who otherwise qualifies for the issuance of such license pursuant to this chapter. An individual who holds such license shall be known as a master electrician.
-
-RESPONSIBLE REPRESENTATIVE: A master electrician who has the authority to make final determinations and who has full responsibility on behalf of a master electrician business for the manner in which electrical work is done and for the selection, supervision and control of all employees of such business who perform such work. A partnership or corporation shall designate one master electrician who is a partner of such partnership or an officer of such corporation to be the responsible representative of such partnership or corporation. The proprietor of a sole proprietorship shall be the responsible representative of such sole proprietorship. A master electrician shall not be the responsible representative of more than one partnership or corporation and shall file for, supervise, direct and be responsible for only the work of such partnership or corporation. If the master electrician business is in the form of a sole proprietorship, only the master electrician who owns such business shall be the responsible representative of such business and shall file for, supervise, direct and be responsible for only his or her own work and the work of his or her employees. Notwithstanding the foregoing provisions, where the department has issued a violation notice for work performed by an unlicensed person or work performed without the required permit and where such work is otherwise in compliance with the electrical code and the electrical code technical standards, a responsible representative may file an application for a permit or take any other actions with respect to such work directed by the department to address the violation.
-
-SPECIAL ELECTRICIAN'S LICENSE: The written authorization of the commissioner to an individual who is an employee of an individual, a partnership or a corporation owning, leasing or managing a building, buildings or parts thereof to perform electrical work in or on specific buildings, lots or parts thereof owned, leased or managed by such individual, corporation or partnership. An individual who has obtained such authorization shall be known as a special electrician. A special electrician shall determine the method of doing the work in or on such buildings and shall have sole responsibility for supervising and directing the employees of such owner, lessee or manager who perform such work. A special electrician shall not supervise the work of individuals who are not employees of the owner, lessee or manager of the buildings on which the special electrician is authorized by his or her license to perform electrical work. A special electrician's license shall not authorize the holder to engage in or carry on the business of performing electrical work as an independent contractor.
-
-SPECIAL PERMISSION: The written approval of the commissioner in circumstances involving the exercise of his or her discretion and in circumstances not covered by this chapter.
-
-
-
-
-
-
-*§ 27-3005 Jurisdiction, powers and duties of the commissioner.* ::
-
-
-a. The commissioner is authorized to exercise all powers necessary to enforce the electrical code and the electrical code technical standards, including but not limited to the power to:
-
-   1. Promulgate rules respecting the installing, altering, maintaining or repairing of (i) electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm or data transmission and (ii) low voltage electrical wiring in or on any building, premises or lot in the city of New York.
-
-   2. Cause any wiring or appliances for electrical light, heat or power to be examined and inspected, and the approval thereof to be certified in writing,
-
-      (a) by an officer or employee of the department designated by him or her for that purpose, or
-
-      (b) by any inspection agency certified by the commissioner in accordance with rules promulgated by the commissioner, or
-
-      (c) when such wiring or appliances are located in a building owned by the city or any city agency, (i) by a licensed professional engineer, or (ii) by a person with a baccalaureate degree in electrical engineering, or (iii) by any person who holds the job title of electrical inspector or any job title equivalent thereto, as classified by the commissioner of citywide administrative services pursuant to section eight hundred fourteen of the charter; provided, however, that such licensed professional engineer or person with a baccalaureate degree in electrical engineering or person holding the job title of electrical inspector shall not have performed the work to be inspected and shall be an officer or employee of the city agency which contracted for such work.
-
-   3. Order the remedying of any defect or deficiency in the installing, altering or repairing of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm or data transmission.
-
-   4. Cause any order issued by him or her which has not been complied with to be enforced and to take any civil or criminal proceedings or actions for its enforcement.
-
-   5. Order any person or corporation engaged in supplying electrical energy to discontinue such supply as specified in such order if the wiring or appliances for electric light, heat, power, signaling, communication, alarm or data transmission shall be dangerous to persons or property therein.
-
-   6. (a) Promulgate rules fixing the date, scope and subject matter of examinations of applicants to become licensed as master electricians and special electricians and, upon recommendation of the license board, promulgate rules respecting the issuance, suspension and revocation of such licenses.
-
-      (b) Promulgate rules fixing the date, scope and subject matter of examinations of applicants for certification as low voltage installer and respecting the issuance, suspension and revocation of such certification.
-
-   7. Appoint, in accordance with the rules of the department and at his or her discretion, special boards or committees to provide advice or assistance in the implementation, interpretation, variation or amendment of any provision of the electrical code or the electrical code technical standards or any rule promulgated pursuant to this chapter.
-
-   8. Promulgate rules regarding the issuance of approvals for the use of electrical appliances and materials and the granting of special permission to use wiring or appliances in cases involving the exercise of his or her discretion and in cases not covered by this chapter.
-
-   9. Designate as prescribed in section 14-106 of title fourteen of the code, with the consent of the police commissioner, certain electrical inspectors as special patrolmen of the police department. Such special patrolmen shall possess powers to perform the duties of and be subject to the orders, rules and regulations of the police department in the same manner as regular patrolmen. Each special patrolman shall have a badge and card, as furnished by the police department. He or she shall have power to issue summonses returnable in the New York city criminal court, covering violations of this chapter.
-
-b. The foregoing provisions are detailed statements of certain powers possessed by the commissioner and shall not be construed as limiting his or her authority.
-
-
-
-
-
-
-*§ 27-3006 Federal and state buildings.* ::
-
-
-Nothing in this chapter shall be construed to apply to any building, the electrical equipment of which is under the control of the United States of America or the state of New York or of any department, bureau or officer thereof.
-
-
-
-
-
-
-*§ 27-3007 City departments.* ::
-
-
-The various departments, boards and officers of the city shall be subject to the provisions of this chapter.
-
-
-
-
-
-
-*§ 27-3008 Public service corporations.* ::
-
-
-a. Except as provided for in subdivision b of this section, the provisions of this chapter shall not apply to:
-
-   1. Electrical equipment used exclusively for the operation of railroads, railways and trackless trolleys, or
-
-   2. Installations, including associated lighting, under the exclusive control and use of electric utilities for the purpose of communications, metering, generation, control transformation, transmission or distribution of electric energy. Such installations shall be located in buildings used exclusively by utilities for such purpose, in buildings in enclosures containing only metering equipment, outdoors on property owned or leased by the utility, on public highways, streets or roads or outdoors on private property by established rights such as easements, or
-
-   3. Communication equipment used exclusively for communicating or signal purposes provided that such equipment is installed by and under the exclusive control and use of communications utilities subject to the jurisdiction of the public service commission and is located outdoors or in building spaces used only for such equipment.
-
-b. The provisions of this chapter shall apply to such portions of commercial, industrial or office buildings owned or leased by the above mentioned persons or corporations, not used for the operations of such persons or corporations, such as public spaces leased or rented to other persons or corporations.
-
-
-
-
-
-
-*§ 27-3009 Master electrician's and special electrician's license board.* ::
-
-
-a. For each calendar year, the commissioner shall appoint a board to review the character and fitness of applicants for a master electrician's or special electrician's licenses and the approval of master electrician businesses, to advise the commissioner regarding allegations of illegal practices on the part of master and special electricians or master electrician businesses, to investigate and report on all proposed suspensions or revocations of licenses and approvals of master electrician businesses and all proposed penalties, and to perform any other responsibilities as may be requested by the commissioner and as set forth in rules promulgated by the department. The commissioner may, for good cause shown, remove any member thereof and shall fill any vacancy therein, which board shall consist of:
-
-   1. Two officers or employees of the department.
-
-   2. Two licensed master electricians actively engaged in the trade.
-
-   3. A journeyman electrician.
-
-   4. An electrical inspector in the employ of an inspection agency certified by the commissioner.
-
-   5. An electrician in the employ of a public service corporation of the city.
-
-   6. A registered architect or licensed professional engineer of at least five years experience.
-
-   7. A real estate owner or manager.
-
-b. A member of the board who is an officer or employee of the department shall serve as chairperson and all members shall serve without compensation. Five members including the chairperson, who shall be entitled to vote, shall constitute a quorum of the board for the transaction of business; but no recommendation for the issue, modification, suspension or revocation of a license or of a proposed penalty shall be adopted except by the vote of at least five members of the board.
-
-c. The license board shall investigate the character and fitness of all applicants for licenses who shall have passed the required examination and shall report to the commissioner the results of such examination. It shall investigate and hear all written complaints against holders of such licenses and master electrician businesses and report to the commissioner its findings and recommendations. It shall keep minutes of its proceedings and hearings and records of its investigations and examinations of applicants for licenses and approvals of master electrician businesses. Upon the holding of any hearing, the chairperson of the board presiding at such hearing may administer oaths, and the board may issue and cause to be served subpoenas requiring the attendance of witnesses and the production of books and papers pertinent to any hearing held by it upon written complaint. Such subpoenas shall be signed by the commissioner and the fees and mileage paid to witnesses upon the service of such subpoenas shall be those prescribed in section fifteen hundred thirty-nine of the civil practice law and rules.
-
-
-
-
-
-
-*§ 27-3010 Qualification and Examination of applicants for master electrician's and special electrician's licenses.* ::
-
-
-a. Qualification of Applicant. An applicant for a license as a master electrician or special electrician must be over the age of twenty-one years, of good moral character and, at the time of applying for examination, shall have had, during the ten (10) years immediately preceding his or her application, at least seven and one-half (71/2) years or the equivalent as indicated below and during such time a minimum of ten thousand five hundred (10,500) hours or the equivalent as indicated below of satisfactory experience in the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities. Except as otherwise provided below, such satisfactory experience must have been obtained while under the direct supervision of a licensed master electrician or special electrician or, with respect to experience outside the city, under the direct supervision of an individual with comparable qualifications as determined by the commissioner, and while in the employ of (i) a master electrician business as defined herein, or (ii) an individual, a partnership or a corporation owning, leasing or managing a building, buildings or parts thereof and employing a special electrician to perform electrical work in or on specific buildings, lots or parts thereof owned, leased or managed by such individual, corporation or partnership, or (iii) an individual, a partnership or a corporation deemed acceptable by the commissioner. No more than twenty-five percent (25%) of such satisfactory experience shall have been gained while working outside the United States unless the commissioner determines that the licensing system and electrical code of the foreign jurisdiction is essentially similar to licensing systems and electrical codes in the United States. The following shall be deemed to fulfill the satisfactory experience requirement:
-
-   1. A journeyman electrician who has worked at least seven and one-half (71/2) years and during such time a minimum of ten thousand five hundred (10,500) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for light, heat and power in or on buildings or comparable facilities, or
-
-   2. A graduate of a college or university who holds a degree in electrical engineering, either a master of science (M.S.) or bachelor of science (B.S.) and has in addition worked at least (i) with respect to an applicant with an M.S. degree, two and one-half (21/2) years and during such time a minimum of thirty-five hundred (3500) hours of such experience or, (ii) with respect to an applicant with a B.S. degree, three and one-half (31/2) years and during such time a minimum of forty-nine hundred (4900) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities, or
-
-   3. A graduate of a vocational, industrial, trade school, or apprenticeship program[,] registered with the New York state department of labor, specializing in electrical wiring, installation and design or applied electricity, who has worked at least five and one-half (51/2) years and during such time a minimum of seventy-seven hundred (7700) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities, or
-
-   4. Any person who attended courses in a college or university leading to a degree in electrical engineering, mechanical engineering, bachelor of science in electrical engineering or mechanical engineering, who passed all subjects in the required courses shall be credited with satisfactory experience equal to fifty per cent (50%) of the number of curricula years he or she has satisfactorily completed which, in no event, however, shall exceed two and one-half (21/2) years credit of satisfactory experience, the balance of the required seven and one-half (71/2) years, i.e., five (5) years and during such time a minimum of seven thousand (7000) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and apparatus for light, heat and power in or on buildings or comparable facilities, or
-
-   5. Any person who attended courses in a vocational, industrial or trade school, registered with the New York state department of labor, specializing in electrical wiring, installation and design or applied electricity who has passed all subjects in the required courses shall be credited with fifty per cent (50%) of the number of curricula years that he or she has satisfactorily completed which, however, in no event, shall exceed two (2) years credit of such experience, the balance of the required seven and one-half (71/2) years, i.e., five and one-half (51/2) years of such experience and during such time a minimum of seventy-seven hundred (7700) hours must have been obtained by working with his or her tools on the installation and repair of wiring for electric light, heat and power in or on buildings or comparable facilities, or
-
-   6. An employee of a government agency, private inspection agency or other entity, acceptable to the commissioner, whose duties primarily involve the inspection of electrical work for compliance with the electrical code and the electrical code technical standards and/or other laws relating to the installation, alteration or repair of electrical wiring or appliances shall be credited with fifty percent (50%) of the number of years that he or she has been satisfactorily employed in such duties within the ten (10) year period prior to application, which, however, in no event, shall exceed two and one-half (2 1/2) years credit of satisfactory experience. The balance of the required seven and one-half (7 1/2) years, i.e., five (5) years and during such time a minimum of seven thousand (7000) hours of such experience must have been obtained by working with his or her tools on the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings or comparable facilities except that the requirement of subdivision a of this section that an applicant's working experience must have been within the ten (10) year period prior to application shall not apply to such balance of five (5) years working experience required pursuant to this paragraph.
-
-b. Examination of Applicant.
-
-   1. Every application for a master electrician's or special electrician's license shall be made in writing in such form and shall furnish such information as the commissioner may, from time to time, prescribe, and set forth in the rules of the department. It is a condition of the license that information in the application be kept correct and current. Any change in required information that occurs prior to the issuance of the license shall be reported to the department within fourteen days of the change.
-
-   2. Every applicant shall be required to take an examination in accordance with the rules of the department. However, where the application is on behalf of a city agency, the commissioner may waive the examination requirement if the applicant has sufficient experience qualifications of a type and duration comparable to those set forth in subdivision a of this section as determined by the commissioner.
-
-   3. Every applicant shall submit to such investigation by the license board as may be proper to determine the applicant's character and fitness. Every applicant shall commence the application process with the department within one year of passing the examination for licensure and shall furnish to the department a completed application within one year of submission of the first filing. Failure to provide all requested documents in a timely manner will constitute an incomplete application and may result in denial of the license.
-
-   4. Every applicant shall be required to submit such documentation as is required to establish a place of business within ninety days after the license board's recommendation that the applicant has the required character and fitness for licensure. Where all requested documents are not provided in a timely manner an application will be deemed incomplete and may result in the denial of the license.
-
-
-
-
-
-
-*§ 27-3011 Application for a license. [Repealed]* ::
-
-
-a. Place of Business, generally.
-
-   1. Every master electrician business shall at all times have a place of business at a specified address in the city at which the licensee may be contacted by the public and the department by mail, telephone or other modes of communication, located in a business zone in conformity with the zoning regulations and kept open during the usual business hours unless other means acceptable to the commissioner is provided.
-
-   2. At such place of business, there shall at all times be prominently displayed a permanent sign of a minimum size of one hundred fifty square inches, stating the name of such license holder, the license number of such licensee, and the words "licensed electrician" or "licensed electrical contractor" on a plate glass window and the name of the master electrician business if different than the name of the license holder; or an outside sign of permanent construction fastened and readily visible to pedestrians; or if such place of business be an office, commercial or industrial building, the names shall be indicated on the entrance door of the particular portion of the premises or on a bulletin board on the main floor.
-
-   3. All business vehicles, advertising, websites and stationery used in connection with electrical work required to be performed under a license issued to a master electrician shall display prominently the words "N.Y.C. Licensed Electrician", the license number of the responsible representative of such business and of all other master electricians associated with such business, the authorization number of the master electrician business and the business address. If the business is conducted under a trade name, or is a partnership or corporation, the trade name, partnership, or corporate name shall contain the root word "electric" and be displayed prominently.
-
-   4. The applicant for approval of a master electrician business under a license issued to a master electrician shall have filed with the commissioner, in such form as the commissioner may direct, proof that such applicant carries all insurance required by law including, but not limited to, workers' compensation, disability and one million dollars of general liability insurance listing the department as certificate holder, and that the applicant business is financially responsible. Each policy of insurance shall contain a provision of continuing liability notwithstanding any recovery under such policy.
-
-   5. The applicant shall indicate the name and license number of the master electrician who shall serve as the responsible representative of such business, and, if the business is a partnership or corporation, the names of all other master electricians associated with such business. Upon approval of such application the commissioner shall issue an authorization number to the business. The authorization number shall be included on all applications for permits and any other documents required to be filed with the department.
-
-   6. The office or other place where the master electrician business is to be conducted may be shared by one or more master electrician businesses. However, each business whether in the form of a sole proprietorship, partnership or corporation, shall distinguish its identity from any other business sharing the same office space. Such distinctions shall be maintained in a manner satisfactory to the department.
-
-b. Business Conduct.
-
-   1. A master electrician business shall be principally engaged in the business of performing electrical work in or on buildings, premises or lots in the city.
-
-   2. In the case of a partnership or corporation, a master electrician's license may be separately held by more than one partner or officer as a representative of such partnership or corporation; however, only one master electrician shall be the responsible representative of such corporation or partnership. Under no circumstances shall any one licensee represent more than one business at any one time.
-
-   3. A master electrician representing a master electrician business shall, during the hours the business is engaged in the performance of electrical work, devote his or her full time to the operation of such business.
-
-   4. (i) Applications for permits and any other document that the commissioner may require to be filed with the department, shall bear the stamp of the master electrician's seal as well as the signature of the responsible representative of the master electrician business or, if the business is a partnership or corporation, such document may bear the stamp of the seal and the signature of a master electrician who files on behalf of such business acting pursuant to a written delegation, filed with the department, from the responsible representative of such business. For applications and other documents submitted electronically, the digital signature and imprint of the seal may be submitted in a manner authorized by the commissioner.
-
-      (ii) The responsible representative of a business may not delegate such authority to a master electrician who is not an officer of such corporation or a partner of such partnership. Such person shall personally sign applications for permits. The responsible representative of a business shall have the authority to make final determinations and shall have full responsibility for the manner in which the work is done, except that where work is done under a permit issued pursuant to an application bearing the signature and seal of a master electrician acting pursuant to a written delegation from the responsible representative of such business, both the responsible representative of such business and the master electrician who signed and affixed his or her seal to the application for such permit shall be jointly and severally responsible for the manner in which the work is done.
-
-c. Changes to Business.
-
-   1. The holder of a master electrician's license shall report in writing to the license board any change in the place of business within thirty (30) days of the change. If such change occurs prior to issuance of the license, an applicant shall report the change to the license board within fourteen (14) days of the change.
-
-   2. The approval of a master electrician business is valid only as long as the responsible representative identified on the application for approval of the master electrician business actively participates in the actual operation of the business. In the event a responsible representative leaves a master electrician business, both the representative and the business must notify the license board within thirty (30) days of the change.
-
-      (i) A corporation or partnership must notify the license board of the death of a responsible representative within thirty (30) days after such death. Failure to do so shall be deemed sufficient cause for suspending or revoking the approval to do business of the master electrician business or the license of the master electrician. The decedent licensee's legal representative may, with the commissioner's consent, retain the licensee's license and seal for the purpose of completing all unfinished work of such licensee for which plans have been approved and permits issued, provided that such work is performed by or under the direct supervision of a licensed electrician.
-
-      (ii) Except as otherwise provided by rule, a master electrician business whether in the form of a corporation, a partnership or a sole proprietorship, may continue to engage in the business of performing electrical work only so long as the responsible representative of such business identified on the application for approval of the master electrician business remains an officer of such corporation, a partner of such partnership or the proprietor of such sole proprietorship unless the department approves a change in the responsible representative as provided in this section. The commissioner may promulgate rules providing for the continuation of a master electrician business pending the approval of a new responsible representative.
-
-      (iii) Except as otherwise provided in such rules, the revocation, suspension, license deactivation or non-renewal of the master electrician's license of the responsible representative of a master electrician business automatically revokes its approval to do business and cancels any delegation of authority given by such responsible representative to another master electrician associated with such business pending the approval by the department of a new responsible representative.
-
-   3. Except as otherwise provided by rule, a master electrician business shall not change its name, form or designate a new responsible representative without the prior approval of the license board. Approval of an application for a change is conditional upon the following: filing the necessary forms, payment of the prescribed fee and full payment of all fees incurred with respect to such business prior to the date of the change. Except as otherwise provided by rule, a requested change shall not be approved if there are any outstanding fees related to the licensee's or master electrician business's professional dealings due and owing to the department or outstanding violation notices attributable to the licensee or the master electrician business.
-
-   4. A master electrician's license and a special electrician's license and seal shall not be held by any person at the same time.
-
-   5. The holder of a master electrician's license, upon entering employment as a special electrician, shall deactivate his or her master electrician's license and seal and change over to a special electrician's license and seal to cover the building, buildings, or parts thereof, for which he or she will be employed.
-
-   6. Nothing in this chapter shall be construed to prevent two or more master electrician businesses from entering into a joint venture of limited duration for a particular project in accordance with the rules of the department. An application for a permit involving a joint venture shall so indicate on the application and shall identify all of the master electrician businesses that are parties to such joint venture by name and authorization number and the names and license numbers of the responsible representatives of such businesses. The application shall be signed by the responsible representative of one of the parties to the joint venture on behalf of all such parties and all of such parties shall be jointly and severally liable for any fees due with respect to electrical work performed by such joint venture and for violations of this chapter and the rules of the department arising out of such work.
-
-
-
-
-
-
-*§ 27-3013.1 Business establishments and special electricians.* ::
-
-
-a. Place of Business, generally.
-
-   1. A special electrician shall at all times have a place of business at a specified address in the city at which the licensee may be contacted by the department by mail, telephone or other modes of communication. His or her license shall plainly indicate the address or addresses of the building, buildings or parts thereof for which such license is issued.
-
-   2. The commissioner may issue more than one special license for a building or buildings if, in the commissioner's judgment, he or she deems it necessary for the proper operation and maintenance of the electric wiring and equipment of the building or buildings involved.
-
-b. Insurance. An applicant for approval as a special electrician shall have filed with the commissioner, in such form as the commissioner may direct, proof that such applicant's employer carries all insurance required by law including, but not limited to, workers' compensation, disability and one million dollars of general liability insurance listing the department as certificate holder. Each policy of insurance shall contain a provision of continuing liability notwithstanding any recovery under such policy.
-
-c. Conduct.
-
-   1. A special electrician shall be principally engaged in the business of performing electrical work in or on buildings, premises or lots so authorized under the license.
-
-   2. The holder of a special electrician's license shall report in writing any change in employment to the license board within thirty days of the change. If such change occurs prior to issuance of the license, an applicant shall report the change to the license board within fourteen days of the change.
-
-   3. Applications for permits and any other document that the commissioner may require to be filed with the department, shall bear the stamp of the special electrician's seal as well as the signature of a person holding such license. Such person shall personally sign applications for permits and shall have the authority to make final determinations and full responsibility for the manner in which the work is done. For applications and other documents submitted electronically, the digital signature and imprint of the seal may be submitted in a manner authorized by the commissioner.
-
-
-
-
-
-
-*§ 27-3014 Master electrician's and special electrician's licenses and fees.* ::
-
-
-a. Before any master electrician's or special electrician's license will be issued or renewed, the applicant shall pay a license or renewal fee as prescribed by the department's rules. The commissioner may exempt any agency, as defined in chapter fifty-two of the charter, from paying the aforementioned fees for licensed special electricians who are employees of such agencies.
-
-b. Seal. The holder of a master electrician's license shall be issued a seal, of a design or form authorized by the commissioner, bearing the holder's full name, license number, and the legend "licensed master electrician." The holder of a special electrician's license shall be issued a seal, of a design and form authorized by the commissioner, bearing the holder's full name, license number, and the legend "licensed special electrician."
-
-c. No license shall be transferable. The seal is the property of the department and is not transferable by the licensee.
-
-d. The loss or theft of a license or seal must be reported to the department within five calendar days. Before any license or seal will be reissued, the applicant shall pay a reissuance fee as prescribed by the department's rules.
-
-e. An application for a change of license from master electrician to special electrician shall involve the issuance of a new license and seal with or without examinations as the commissioner may direct.
-
-f. An application for a change of license from special to master electrician shall be granted only upon compliance by the special electrician with all applicable provisions of this chapter and the rules of the department.
-
-g. Each license and seal shall be issued for one year and the full fee shall be payable irrespective of the date of issue.
-
-h. Not more than one license and/or seal shall be issued to an individual and no individual shall make or cause to be made a duplicate of such license or seal.
-
-
-
-
-
-
-*§ 27-3015 Renewal of master electrician's and special electrician's licenses.* ::
-
-
-a. Any license and seal issued hereunder shall expire one year from the year of issuance on the licensee's date of birth for that year irrespective of the date of issue. Such license may be renewed every year thereafter without examination, provided application for such renewal, accompanied by the renewal fees prescribed above and such information as may be required by the commissioner to ensure compliance with section 27-3016 of this chapter and evidence of insurance coverage in compliance with section 27-3013 of this chapter, shall have been filed prior to the expiration of the existing license.
-
-   1. Where an applicant can show good and sufficient cause for his or her inability to renew his or her license and seal before its expiration, the commissioner may, upon submission of a complete application for late renewal within ninety (90) days after the expiration of such license, permit the issuance, without examination, of a new license and seal upon payment of the prescribed fees for such new license and seal within said ninety days. The commissioner may promulgate rules authorizing the renewal of a license up to six months after the expiration of such license for extenuating circumstances.
-
-   2. No license shall be renewed and no new license and seal shall be issued unless all outstanding fees required by section 27-3018 of this code have been paid.
-
-   3. Renewal shall also be subject to the licensee's good moral character. As provided in department rule, the licensee's failure to clear open violations in a timely manner may result in the refusal to renew a license until the violations are resolved.
-
-   4. The commissioner may promulgate rules requiring applicants for the renewal of master or special electrician's licenses to submit proof, in such form as he or she shall determine, that, in each year of the license term, such applicant completed at least eight hours of continuing education courses approved by the department. Such proof shall be submitted with the license renewal application.
-
-b. If a master electrician's or special electrician's license is suspended for cause, and the restoration thereof is conditional upon some action to be taken by the holder of the master electrician's or special electrician's license and the holder fails to take action before the expiration of the license, such failure shall be cause for the denial of the subsequent application to renew the license and seal.
-
-
-
-
-
-
-*§ 27-3016 Suspension, revocation or deactivation of master electrician's and special electrician's licenses and suspension or revocation of approval of master electrician business.* ::
-
-
-a. 1. After notice and the opportunity for a hearing in accordance with the rules of the department, master electrician's or special electrician's licenses and/or approvals of master electrician businesses may be suspended or revoked by the commissioner and/or the commissioner may impose penalties, which shall not exceed five thousand dollars for each violation, for violation of this chapter or of any of the rules of the department and/or the commissioner may order the licensee to cause the repair of electrical damage, and any damage incidental thereto, resulting from any act or omission giving rise to a violation as set forth in this chapter or in rules, for any of the following:
-
-      (i) Failure to file an application for a permit or inspection.
-
-      (ii) Failure, upon receipt of a notice of violation, to take the action called for in such notice.
-
-      (iii) Performance of electrical work in a manner contrary to the requirements of the electrical code, [or] the electrical code technical standards or other applicable laws and rules enforced by the department.
-
-      (iv) Negligence, incompetence, lack of knowledge, or disregard of the code and related laws and rules.
-
-      (v) Engaging or assisting in any act that endangers the public safety and welfare.
-
-      (vi) Contract work by holders of special electrician's licenses.
-
-      (vii) Fraudulent dealing or misrepresentation.
-
-      (viii) Conviction of a criminal offense where the underlying act arises out of the individual's professional dealings with the city or any other governmental entity.
-
-      (ix) False statement in an application for a license or the renewal of a license or in an application for approval of a master electrician business or other application or certification required by this code or the rules of the commissioner, or in any proof or instrument in writing in connection therewith.
-
-      (x) The making of a material false or misleading statement on any form or report filed with the department or other governmental entity.
-
-      (xi) The failure to file a statement, report or form required by law to be filed.
-
-      (xii) Willfully impeding or obstructing the filing of a statement, report or form of another required by law to be filed.
-
-      (xiii) Poor moral character that adversely reflects on the licensee's fitness to conduct work regulated by this code.
-
-      (xiv) Failure to pay outstanding fees owed pursuant to section 27-3018 of this chapter.
-
-      (xv) Failure to comply with this code or any order, rule, or requirement lawfully made by the commissioner including failure to cooperate with investigations related to the electrical field conducted by the commissioner or other government entity.
-
-      (xvi) Failure to provide documents, including payroll records, workers' compensation or other insurance documents, employee timekeeping records and corporate tax returns, required or requested by the commis- sioner.
-
-   2. Notwithstanding any inconsistent provision of paragraph one of this subdivision if, after due inspection, the commissioner determines that a licensee and/or a master electrician business has performed electrical work which is not in compliance with the electrical code, the electrical code technical standards, or any other laws or rules enforced by the department, and which has resulted in a condition severely hazardous to life or property, the commissioner may suspend his or her license and/or the authorization of a master electrician business represented by such licensee without a prior hearing. Notice of such suspension shall be served on the licensee and/or the master electrician business. The commissioner shall provide the licensee and/or the master electrician business with the opportunity for a hearing within five (5) calendar days after such suspension.
-
-b. In the event the holder of a master electrician's license is no longer engaged in a master electrician business or a special electrician is engaged during normal working hours in a business activity that does not involve the installation, alteration, or repair of electrical wiring for light, heat or power, then he or she shall so notify the department and submit his or her license and seal for deactivation provided that (i) such license and seal will be reinstated without examination if such application is made prior to the date on which it would have otherwise expired, or (ii) if application is made after such date a new license and seal will be issued, without written re-examination, after the submission of satisfactory evidence of continued competence in the electrical field and satisfaction of any applicable continuing education requirements during the period of deactivation; provided that at the time of the submission of the license for deactivation:
-
-   1. All outstanding fees required by section 27-3018 of this chapter are paid, and
-
-   2. There are no outstanding violation notices for electrical work performed under such license, and
-
-   3. Open applications filed under such license have been scheduled for inspection in accordance with department procedures, re-filed by another licensee or have been withdrawn.
-
-c. During the period of deactivation, the licensee must continue to pay the license renewal fee required by this chapter for each year of the deactivation period.
-
-d. During any period of deactivation, or upon the suspension or revocation, of a master electrician's or special electrician's license, the holder shall surrender his or her seal to the department. Upon the death of a holder, his or her seal shall be immediately surrendered to the department.
-
-e. The fees required for the reinstatement of a license after deactivation or suspension shall be the same as those required to obtain the license.
-
-f. If reinstatement of the license is not requested within thirty days of the expiration of a suspension, late fees shall be imposed as prescribed by the department's rules.
-
-
-
-
-
-
-*§ 27-3016.1 Certification as low voltage installer; qualifications; issuance; fees.* ::
-
-
-a. An individual who has been determined by the commissioner to be competent to perform low voltage electrical work in compliance with the electrical code and the electrical code technical standards, the building code and other applicable law and who otherwise qualifies in accordance with this section and the rules of the department may be certified as a low voltage installer.
-
-b. An applicant for such certification shall be over the age of eighteen years, of good moral character and at the time of application shall have had two (2) years of satisfactory experience as set forth in the rules of the department.
-
-c. Every such application shall be made in writing in such form and shall furnish such information as the commissioner shall prescribe and set forth in the rules of the department. Every applicant shall submit to an investigation to determine the applicant's character and fitness.
-
-d. Such certification shall be issued for such term and shall be subject to renewal in accordance with such conditions as shall be prescribed in the rules of the department.
-
-e. The fee for such certification and for the renewal thereof shall be prescribed by rule.
-
-f. Certification as a low voltage installer may be suspended or revoked for cause in accordance with the rules of the department and/or the department may impose penalties which shall not exceed one thousand dollars for each violation for violations of this chapter, the electrical code, the electrical code technical standards or the rules of the department.
-
-
-
-
-
-
-*§ 27-3017 Electrical work by unauthorized persons; false representations.* ::
-
-
-a. Work without appropriate license, false representation prohibited. 1. Except as otherwise provided in paragraph two of this subdivision, it shall be unlawful for any person to perform electrical work except under a license issued to a master electrician or special electrician as provided in this chapter. It shall be unlawful for any person to advertise or to hold himself, herself or itself out as authorized to engage in the business of performing electrical work unless such person is authorized to perform such work pursuant to this chapter under an appropriate master electrician's or special electrician's license. No person shall cause any such work to be done by any person unless he or she is an employee of and working under the direct supervision of a person authorized to perform such work pursuant to this chapter and the rules of the department. No person shall falsely represent that he, she or it is authorized to perform electrical work under a master electrician's or special electrician's license or shall use in any advertising the words "master electrician" or the words "licensed electrician" or the words "electrical contractor" or any words of similar meaning or import on any sign, card, letterhead or in any other manner unless such person is so authorized pursuant to this chapter and the rules of the department. 2. Notwithstanding any inconsistent provision of paragraph one of this subdivision, the commissioner may authorize business entities engaged in the business of installing, maintaining or repairing communication, signaling, alarm or data transmission systems to perform low voltage electrical work under a certification issued to a low voltage installer as provided in this chapter and the rules of the department.
-
-b. False statement. No person shall, with intent to defraud or deceive, knowingly make a false statement, or cause or procure to be made or aid and assist in the making of a false statement in an application for a master electrician's or special electrician's license or for certification as a low voltage installer or in an application for approval of a master electrician business or the renewal of a license or certificate or in an application for a permit and approval or in any application provided for in this chapter, or in any proof or instrument in writing in connection therewith, or in any examination hereunder, deceive or substitute or cause another to deceive or substitute.
-
-c. Penalty. Any person, partnership or corporation who shall violate any of the provisions of this section shall be guilty of a misdemeanor punishable in accordance with chapter two of title 28 of this code.
-
-
-
-
-
-
-
-
-*§ 27-3017.1 Cooperation required.* ::
-
-
-a. Any person, including any corporation, partnership, business or other entity, issued a license by the department shall, pursuant to a request or order of the commissioner or any city agency or office, cooperate fully and completely with respect to any department or city agency or office investigation. Evidence of cooperation shall include, but is not limited to, appearing before the department or other city agency or office, answering questions completely and accurately, and providing any and all requested documents. Failure to comply with such request or order may subject such person to disciplinary measures authorized by law, including but not limited to suspension or revocation of the license.
-
-b. Service of request or order. Such request or order by the commissioner or other city agency or office shall be mailed by regular mail to the person named therein to his or her last known business address or home address at least ten days before such appearance and shall contain the name of the person, the date, time and place of such appearance and, if known or applicable, a description of any requested documents. If the appearance or information is required immediately, the request or order may be transmitted via facsimile or delivered to the person's last known business or home address prior to the date and time specified therein.
-
-
-
-
-
-
-*§ 27-3018 Inspection; application for permit and application fees.* ::
-
-
-a. The commissioner or any officer or employee of the department authorized thereto by the commissioner, or any other person designated by the commissioner pursuant to section 27-3005 of this code, may enter or go upon any premises in or upon which there are any wiring or appliances for electric light, heat or power to make an inspection of the same. Any person who willfully refuses to permit such entry or inspection, shall be guilty of a violation of this subdivision, and upon conviction thereof, shall be punished by a fine of not more than one hundred dollars, imprisonment for a period not exceeding thirty days, or both.
-
-b. Before commencing any electrical work, other than low voltage electrical work, a master electrician business or special electrician shall file with the commissioner an application for a work permit to be issued by the department. All applications for permits shall be submitted on forms furnished by the department. Applications shall include all information required by this code, other applicable law, including but not limited to the applicable energy conservation code, or the rules of the department. No such work shall be performed until the commissioner has reviewed and approved such application and issued an appropriate permit for such work. The permit shall be conspicuously posted at the work site at all times while the work is in progress. Each permit shall be issued with an expiration date of three years.
-
-   1. Permits shall be deemed to incorporate the provisions that the applicant, the owner, and their employees, shall carry out the permitted work in accordance with the provisions of this code and other applicable laws or rules, whether specified or not, except as variations have been legally permitted or authorized.
-
-   2. All work shall conform to the approved submittal documents and any approved amendments thereto. Changes and revisions during the course of work shall conform to the requirements of this code.
-
-   3. The permit shall expire by operation of law if the insurance required pursuant to section 27-3013 of this chapter, and upon which the permit was conditioned, lapses, expires or is cancelled, unless the permit holder files proof of valid insurance before such event.
-
-c. Fees. The fee for a permit for minor electrical work as described in subdivision h of this section shall be fifteen dollars, payable upon filing of the application.
-
-   1. An initial application fee for electrical work requiring a permit shall be payable as follows: forty dollars upon filing of the application for such work.
-
-   2. The balance of the application fee shall be payable at electrical sign-off from the department or as otherwise provided by the department's rules.
-
-   3. The fee for electrical work requiring a work permit by the department shall be computed as follows but shall not exceed five thousand dollars:
-
-      (i) Each outlet, each fixture, each horsepower or fraction thereof of a motor or generator, each kilowatt or fraction thereof of a heater, each horsepower or fraction thereof of an air conditioner, each kilovolt-ampere or fraction thereof of a transformer installed, altered or repaired shall be assigned the value of one unit. In computing the aforementioned fee, the sum of the units will determine the charges as set forth herein below: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  Sum of units
-      - Fee 
-    * - 1-10
-      - $0.00
-    * - Over 10
-      - $0.25 per unit
-    * - (ii) For each service switch installed, altered or repaired: 
-      - 
-    * - 0-100 Amperes
-      - $ 8.00
-    * - 101-200 Amperes
-      - $ 30.00
-    * - 201-600 Amperes
-      - $105.00
-    * - 601-1200 Amperes
-      - $225.00
-    * - Over 1200 Amperes
-      - $375.00
-    * - (iii) For each set of service entrance cables and for each set of feeder conductors installed, altered or repaired:
-      - 
-    * - Up to #2 Conductors
-      - $ 15.00
-    * - Over #2 to #1/0 Conductors
-      - $ 30.00
-    * - Over #1/0 to 250 MCM
-      - $ 45.00
-    * - Over 250 MCM
-      - $ 75.00
-    * - (iv) For each panel installed, altered or repaired:
-      - 
-    * - 1 Phase up to 20-1 or 10-2 pole cutouts or breakers
-      - $ 15.00
-    * - 1 Phase over 20-1 or 10-2 pole cutouts or breakers
-      - $ 37.50
-    * - 3 Phase up to 225 amperes
-      - $ 50.00
-    * - 3 Phase over 225 amperes
-      - $ 75.00
-    * - (v) (a) For each sign manufactured (in-shop inspections): 
-      - $ 40.00
-    * - (b) For each sign manufactured (on-site inspections):
-      - 
-    * - 0 to 30 square feet
-      - $ 65.00
-    * - 31 to 60 square feet
-      - $ 90.00
-    * - Over 60 square feet
-      - $115.00
-    * - (vi) For each elevator:
-      - 
-    * - 10 floors or less
-      - $125.00
-    * - Each additional ten or fewer floors
-      - $ 83.00
-    * - (vii) For wiring or rewiring boiler controls in buildings:
-      - $ 12.00
-~
-
- 
-
-d. If, after inspection, such wiring or appliances shall be found to have been installed, altered or repaired in conformity with the requirements of this chapter, the electrical code, the electrical code technical standards and the rules of the department, and the required fees paid, the commissioner shall issue to the applicant a sign-off of the approved work completed. The provisions of this subdivision shall not apply to work performed pursuant to a permit for minor electrical work as defined in subdivision h of this section.
-
-e. Whenever a master electrician business or special electrician files an application for a permit covering electrical work installed by an unlicensed or unauthorized person, it shall be his or her duty to specify such fact upon the application.
-
-f. The commissioner shall be entitled to charge the following special fees:
-
-   1. For an application with respect to electrical work made after a violation was issued for failure to file an application for a permit for such work—up to ten times the total fee that would otherwise be payable as set forth in subdivisions c and d of this section.
-
-   2. Duplicate copy of notice of violation—$5.
-
-g. No application or fees shall be required for electrical work relating to the construction and maintenance of city street lights and city traffic lights owned, operated or controlled by the city government or any agency thereof.
-
-h. 1. For purposes of this section a permit for minor electrical work may be issued for any of the following:
-
-      (i) replacement of defective circuit breakers or switches rated thirty amperes or less, excluding main service disconnects;
-
-      (ii) replacement of parts in electrical panels where voltage does not exceed one hundred fifty volts to ground;
-
-      (iii) replacement of minor elevator parts as defined by rule;
-
-      (iv) replacement of defective controls rated at thirty amperes or less;
-
-      (v) repair of defective fixtures;
-
-      (vi) replacement of fixtures in existing outlets, provided the number of such fixtures does not exceed five and does not increase existing wattage; (vii) replacement, repair, disconnection or reconnection of motors not to exceed one horsepower, and associated devices;
-
-      (viii) repairs to low pressure heating plants with a capacity of less than fifteen pounds per square inch, except as may otherwise be required by rule of the commissioner.
-
-      (ix) installation of any ten or fewer units not requiring the installation of an additional branch circuit;
-
-      (x) installation of motors of fractional horsepower;
-
-      (xi) installation of transformers rated at one thousand volt amperes or less.
-
-   2. Notwithstanding any other provision of this chapter, an electrical sign-off by the department shall not be required for electrical work performed pursuant to a permit for minor electrical work.
-
-   3. Notwithstanding any other provision of this chapter, the commissioner may promulgate a rule providing that minor electrical work may be performed without a permit or the payment of a fee under the conditions to be prescribed in such rule.
-
-i. The department shall not issue a permit or, if applicable, an electrical sign-off pursuant to an application that involves the energizing of a meter in a one-, two-, three-, or four-family residence, if the department finds that such action will cause the total number of meters for the building to exceed the number of dwelling units specified for such building in the certificate of occupancy, or if there is no certificate of occupancy, as determined by the department, except as permitted herein. A building specified as a one-family residence in the certificate of occupancy or, if there is no certificate of occupancy, as determined by the department, may have only one electric meter. A building in which two or more dwelling units have been constructed in accordance with the certificate of occupancy, or if there is no certificate of occupancy, as determined by the department, may have one meter for each dwelling unit and one additional meter for the common areas of the building, provided that smoke detecting devices are installed in all common areas in accordance with departmental requirements. Such common areas may include boiler rooms, shared hallway lighting, shared stairway lighting, and outdoor perimeter lighting but shall not include any habitable space. In the event that a meter has been found to have been installed or to exist in violation of this section, the department may take action leading to the disconnecting of such meter in accordance with the notice requirements set forth in section 27-3020 of this chapter.
-
-j. Any application for a permit filed with the department in relation to a request for the authorization to power or energize/electrical wiring or appliances or power generation equipment, or in relation to work that will result in the issuance of a new or amended certificate of occupancy must include a statement, signed and sealed by the electrician, that the building owner or his or her authorized representative has authorized in writing the work to be performed. This signed authorization must be available upon request by the department. In addition, any electrical application filed with the department involving the energizing of a meter, must include as well, a statement, signed and sealed by the electrician, that the building owner or his or her authorized representative has indicating in writing the intended use or purpose of such meter and has affirmed that such meter will be maintained in compliance with the provisions of this section. This statement must be available upon request by the department.
-
-k. Any authorization to power or energize electrical wiring or appliances issued by the department shall expire ninety days after the date of issuance unless a sign-off has been issued by the department or an extension of such authorization has been granted by the department. In the event no such sign-off has been issued or extension authorization granted, the department may take action leading to the disconnecting of such meter(s) in accordance with the notice requirements set forth in section 27-3020 of this chapter.
-
-l. Any permit application filed with the department that requires the selective coordination of overcurrent protective devices must include documentation from a professional engineer demonstrating how selective coordination was achieved, including but not limited to short circuit overlay curves and calculations. Such documentation shall be submitted to the department prior to sign off.
-
-m. For permit applications requiring compliance with the applicable energy conservation code, documentation demonstrating compliance must be available upon request by the department.
-
-n. The provisions of this section shall not apply to low voltage electrical work.
-
-o. An application for a work permit may be amended by filing with the department a post-approval amendment in a form prescribed by rule of the department.
-
-
-
-
-
-
-*§ 27-3019 Modification, suspension or revocation, electrical sign-off, permit or other authorization.* ::
-
-
-a. The commissioner may at any time by an order in writing for good cause shown, modify, suspend or revoke any sign-off, permit or other authorization issued pursuant to this chapter for failure to comply with the provisions of this code or other applicable laws or rules; or whenever there has been any false statement or any misrepresentation as to a material fact in the application or submittal documents upon the basis of which such approval was issued; or whenever a permit has been issued in error and conditions are such that the permit should not have been issued. Such notice shall inform the permit holder of the reasons for the proposed action and that the permit holder has the right to present to the commissioner or his or her representative within ten business days of delivery of the notice by hand or fifteen calendar days of the posting of notice by mail, information as to why the permit should not be modified, suspended or revoked. A copy of any such order shall be served in the manner provided in this subchapter. No person other than the commissioner or an officer or employee of the department, duly authorized thereto by the commissioner, shall alter or amend any sign-off, permit or other authorization issued pursuant to this chapter or the rules of the department.
-
-b. Immediate suspension in cases of imminent peril. The commissioner may immediately suspend any permit without prior notice to the permit holder when the commissioner has determined that an imminent peril to life or property exists. The commissioner shall immediately notify the permit holder that the permit has been suspended and the reasons therefore, that it is proposed to be revoked, and that the permit holder has the right to present to the commissioner or his or her representative within ten business days of delivery of the notice by hand or fifteen calendar days of the posting of notice by mail information as to why the permit should not be revoked.
-
-
-
-
-
-
-*§ 27-3020 Supplying or discontinuing electrical energy.* ::
-
-
-a. Except as otherwise provided in this code, no person, partnership or corporation shall supply, or cause to be supplied or used, electrical energy for light, heat or power, signaling, alarm or data transmission to any wiring or appliance in any building unless a sign-off or other authorization as set forth in the rules of the department authorizing the use of said wiring or appliance shall have been issued by the commissioner.
-
-b. If, in the judgment of the commissioner, after due inspection, the continued use of any electric wiring or appliances in or on any building or structure shall be unsafe or dangerous to persons or property, the commissioner may cause such wires or appliances to be disconnected from the supply of electrical energy and to seal the wiring and appliances so disconnected. Thereafter, no person shall cause or permit electrical energy to be supplied to the wiring or appliances so sealed until the same shall have been made safe and the commissioner shall have issued a certificate to that effect; provided, however, that no wiring or appliances shall be disconnected pursuant to this section until a notice in writing, stating specifically the reason why such wiring or appliances must be disconnected, shall have been served, as provided in this chapter, and a duplicate thereof shall have been delivered to the person supplying the electrical energy to such wiring or appliances.
-
-
-
-
-
-
-*§ 27-3021 Service of orders and notices.* ::
-
-
-Any order or notice issued pursuant to the provisions of this chapter may be served personally upon the person, partnership or corporation to whom or to which it is addressed, or may be served by mailing the same in a sealed envelope with postage prepaid, directed, in the case of the holder of any license, to the address furnished by such license holder to the department of buildings as his or her business address, or the address of the master electrician business represented by the licensee and, in the case of any other person, partnership or corporation, to the premises where the defects recited in such order are alleged to exist and by the posting in a conspicuous place on such premises of a copy of such notice or order. The service as above described, by mailing and posting, shall be the equivalent of personal service.
-
-
-
-
-
-
-*§ 27-3021.1 Electric meter installation; restriction.* ::
-
-
-No public utility shall supply electricity to a one, two, three or four family residence building, nor shall such utility energize more electrical meters in a building than the number of distinct and separate residences in such building as authorized in the certificate of occupancy applicable thereto, or if there is no certificate of occupancy, as determined by the department, without first receiving a sign-off from the department. In the event that an owner of a one, two, three or four family building wants to install an additional electrical meter other than provided for herein, approval shall be obtained in writing from the department. A public utility shall not install such additional electrical meter without such approval. A building in which two or more dwelling units have been constructed in accordance with the certificate of occupancy, or if there is no certificate of occupancy, as determined by the department, may have one meter for each dwelling unit and one additional meter for the common areas of the building, provided that smoke detecting devices are installed in all common areas in accordance with departmental requirements. Such common areas may include boiler rooms, shared hallway lighting, shared stairway lighting, and outdoor perimeter lighting but shall not include any habitable space. In the event that a meter has been found to have been installed or to exist in violation of this section, the utility must report such findings to the department, which may take action leading to the disconnecting of such meter in accordance with the notice requirements set forth in section 27-3020 of this code.
-
-
-
-
-
-
-*§ 27-3021.2 Violations.* ::
-
-
-Except as otherwise provided in this chapter, any person or business who shall violate any of the provisions of this chapter or who shall fail to comply with any requirement thereof or with the electrical code technical standards or who shall violate or fail to comply with any order or rule of the commissioner made thereunder shall, for each and every violation or noncompliance be subject to penalties and other enforcement actions in accordance with the provisions of chapter 2 of title 28 of the administrative code.
-
-
-
-
-
-
-
-**Subchapter 2: Technical Standards**
-
-
-
-*§ 27-3024 Adoption of the electrical code technical standards.* ::
-
-
-a. The city of New York hereby adopts the 2008 edition of the National Fire Protection Association NFPA 70 National Electrical Code as the minimum requirements for the design, installation, alteration or repair of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm and data transmission in the city subject to the amendments adopted by local law and set forth in section 27-3025 of this subchapter, which shall be known and cited as "the New York city amendments to the 2008 National Electrical Code". Such 2008 edition of the National Fire Protection Association NFPA 70 National Electrical Code with such New York city amendments shall together be known and cited as the "electrical code technical standards". The commissioner shall make a copy of the electrical code technical standards available for public inspection at the department of buildings.
-
-b. No later than August thirty-first, two thousand twelve and on or before such date in every third year thereafter, the commissioner shall submit to the city council proposed amendments that he or she determines should be made to the electrical code technical standards to bring them up to date with the latest edition of the National Fire Protection Association NFPA 70 National Electrical Code or otherwise modify the provisions thereof. In addition, prior to the submission of such proposal to the city council, such proposal shall be submitted to an advisory committee established by the commissioner pursuant to this chapter for review and comment.
-
-
-
-
-
-
-*§ 27-3025 The New York city amendments to the 2005 National Electrical Code.* ::
-
-
-The following New York City amendments to the 2005 National Electrical Code are hereby adopted as set forth in this section. In the event of conflicts between technical provisions, the more restrictive shall apply:
-
-2008 NEC NEW YORK CITY AMENDMENT
-
-ARTICLE 90Introduction
-
-SECTION 90.2
-
-Subsection 90.2(B)(5)—Delete paragraph (b) and add a new paragraph (b) to read as follows:
-
-(b) Are located in legally established easements, rights-of-way, or by other agreements either designated by or recognized by public service commissions, utility commissions, or other regulatory agencies having jurisdiction for such installations, or
-
-CHAPTER 1General
-
-ARTICLE 100Definitions 
-
-Coordination (Selective) Add a new sentence at the end of the definition of Coordination (Selective) to read as follows:
-
-For the purposes of this code two overcurrent protective devices shall be deemed selectively coordinated if their respective time-current characteristic curves do not intersect at a time of 0.1 seconds (6 cycles on 60 Hz systems) or longer.
-
-Electric Closet. Add a new definition of Electric Closet immediately after "Dwelling Unit", to read as follows:
-
-Electric Closet. A room designed for or dedicated to the purpose of containing electrical distribution equipment such as vertical risers, bus ducts, transformers or panelboards.
-
-ARTICLE 110Requirements for Electrical Installations 
-
-SECTION 110.2
-
-Section 110.2—Delete in its entirety and add a new section 110.2 to read as follows:
-
-110.2 Approval of Electrical Materials, Equipment and Installations.
-
-(A) Listed and Approved Materials and Equipment. All electrical equipment, apparatus, materials, devices, appliances or wiring thereto installed or used in any electrical construction or installation regulated by the terms of this code, shall be designed and constructed so as to be safe and suitable for the purpose intended.
-
-   (1) All electrical equipment, apparatus, materials, devices, appliances and wiring used in New York City shall be approved by the commissioner, with submissions required in accordance with rules of the department.
-
-   (2) The maker's name, trademark or other identification, symbol and number shall be placed on fittings, equipment and materials. Additional markings shall be provided, stating voltage, current, wattage or other appropriate ratings as prescribed elsewhere in this code.
-
-(B) Installations. All electrical installations regulated by the terms of this code shall be designed and constructed so as to be safe and suitable for the purpose intended.
-
-No electrical installations as described in (1) through (5) below shall be constructed unless a submission for approval has been made to the commissioner and approval has been granted. For the purpose of this section an electrical "installation" shall refer to the installation of service equipment, transformers, UPS systems, generators, electrical wiring of assembled photovoltaic arrays, generator paralleling equipment or other sources.
-
-   (1) A new installation of new equipment totaling 1000 kVA or larger.
-
-   (2) Any change in an installation with a rating of 1000 kVA or larger, up to and including 2nd level overcurrent protection unless it was fully described and approved as "future" on the original approved plan.
-
-   (3) Any addition to an existing installation, which would bring the total to 1000 kVA or larger.
-
-   (4) The addition of any equipment in a room, which would affect clearances around the equipment of a 1000 kVA installation.
-
-   (5) A new installation or revised installation above 600V irrespective of kVA rating.
-
-Exception No. 1: No submission is required solely for fire alarm service taps.
-
-Exception No. 2: No submission is required for the addition of one 2nd level overcurrent protection device 200 amperes or less.
-
-(C) Capacity.
-
-   (1) The capacity of a utility service, in kVA, shall be determined by summing the maximum ampere ratings of each service disconnecting means and calculating total kVA at the operating voltage. Service disconnecting means supplying fire pumps shall be included at 125 percent of the fire pump full load amps. The calculation shall include all new and existing service disconnecting means supplied from the common service entrance.
-
-   (2) The capacity of a transformer, UPS system, generator or other source shall be its maximum KVA output rating.
-
-FPN: See 90.7, Examination of Equipment for Safety, and 110.3, Examination, Identification, Installation, and Use of Equipment. See definitions of "Approved," "Identified," "Labeled," and "Listed."
-
-SECTION 110.4
-
-Section 110.4—Add a FPN at the end of the section to read as follows:
-
-FPN: See Section 27-3004 of the Administrative Code for the definitions of Low Voltage Electrical Work and Low Voltage Installer, and Section 27-3016.1 for the certification requirements of a Low Voltage Installer.
-
-SECTION 110.25
-
-Section 110.25—Add a new section 110.25 to read as follows:
-
-110.25 Electric Closets. Electric closets shall be dedicated to electrical distribution equipment. Electric closets shall be identified as such, shall be sized to provide the applicable working space requirements, and shall not be used for any other purpose including storage. Electric closets shall be accessible to authorized persons only.
-
-Exception: Other systems that are required to be installed by a licensed electrician, such as Fire Alarm Panels, Building Management Systems and Lighting Control Systems may be installed in Electric Closets.
-
-SECTION 110.26
-
-Subsection 110.26(H)—Add a new subsection 110.26(H) to read as follows:
-
-(H) Network Compartments. All network compartments shall have at least two means of access. Each door shall access an area that leads to a legal exit.
-
-SECTION 110.31
-
-Section 110.31—Revise the second sentence of the second paragraph to read as follows:
-
-A fence shall not be less than 2.44m (8 ft) in height.
-
-Subsection 110.31(A)—Revise the second sentence to read as follows:
-
-The floors of vaults in contact with the earth shall be of concrete that is not less than 6 in. (150 mm) thick, but where the vault is constructed with a vacant space or other stories below it, the floor shall have adequate structural strength for the load imposed on it and a minimum fire resistance of 3 hours.
-
-SECTION 110.33
-
-Subsection 110.33(A)—Revise the first sentence of the subsection to read as follows:
-
-At least one entrance to enclosures for electrical installations as described in 110.31 not less than 762 mm (30 in.) wide and 2 m (61/2 ft) high shall be provided to give access to the working space around the electrical equipment.
-
-SECTION 110.34
-
-Subsection 110.34(A)—Revise the last sentence of the Exception to read as follows:
-
-Where rear access is required to work on de-energized parts on the back of enclosed equipment, a minimum working space of 900 mm (36 in.) horizontally shall be provided.
-
-CHAPTER 2Wiring and Protection 
-
-ARTICLE 210Branch Circuits 
-
-SECTION 210.11
-
-Subsection 210.11(C)(4)—Add a new subsection 210.11(C)(4) to read as follows:
-
-(4) Air-Conditioning Branch Circuit. In addition to the number of branch circuits required by other parts of this section, an individual branch circuit shall be provided for each air-conditioning receptacle required by 210.52(I).
-
-SECTION 210.19
-
-Subsection 210.19(A)(1)—Add a new sentence at the end of the paragraph before the first Exception to read as follows:
-
-Conductors of branch circuits shall be sized to allow for a maximum voltage drop of 3 percent at the last outlet supplying light, heat or power and the maximum voltage drop allowable for feeders and branch circuit combined shall not exceed 5 percent.
-
-FPN No. 4—Delete the FPN in its entirety.
-
-Subsection 210.19(A)(4)—Revise the first sentence of the paragraph by replacing "14 AWG" with "12 AWG"
-
-Exception No. 3: Add a new Exception No. 3 to read as follows:
-
-Exception No.3: Where compliance with the applicable Energy Conservation Code is mandated voltage drop requirements of that code shall apply.
-
-SECTION 210.24
-
-Section 210.24 Table—Replace the value "14" that appears twice in the column headed 15A, and once each in the columns headed 20A and 30A in the Circuit Rating Section with the value "12."
-
-SECTION 210.25
-
-Section 210.25—Add an Exception to (A) and (B) to read as follows:
-
-Exception to (A) and (B): Buildings built prior to January 1, 2003 are exempt from the requirements of 210.25 (A) and (B) under either of the following conditions:(1) undergoing renovation less than 50 percent.(2) repair to or replacement of existing equipment.
-
-SECTION 210.52
-
-Subsection 210.52(E)(3)—Delete the Exception in its entirety.
-
-Subsection 210.52(I)—Add a new subsection 210.52(I) to read as follows:
-
-(I) Outlet Requirements For Residential-Type Occupancies. In addition to the requirements set forth in subsections (A) through (H) of this section, living rooms, bedrooms, dining rooms or similar rooms shall have at least one receptacle outlet installed for air conditioners. Such outlets shall be supplied by an individual branch circuit.
-
-Exception: Buildings with central air conditioning systems that serve any of the above areas shall not require separate outlets in those areas.
-
-ARTICLE 215Feeders 
-
-SECTION 215.2
-
-Subsection 215.2(A)(1)—Add two new sentences at the end of the first paragraph, before the Exception, to read as follows:
-
-Feeder conductors shall be sized so that the maximum voltage drop at the last overcurrent device does not exceed 3 percent and the total maximum voltage drop of feeder and branch circuit conductors to the last outlet does not exceed 5 percent. The minimum feeder size feeding a dwelling unit shall be 8 AWG copper or 6 AWG aluminum or copper-clad aluminum conductors.
-
-Add three new Exceptions No. 3, No. 4 &amp; No. 5 and a FPN, to read as follows:
-
-Exception No. 3: For residential occupancies and portions of the electrical system of mixed use buildings serving exclusively residential occupancies, the maximum voltage drop from the service point to the last overcurrent device shall not exceed 4 percent and the total maximum voltage drop to the last outlet shall not exceed 5 percent.
-
-Exception No. 4: Where the distance between the utility service point and the service disconnecting means exceeds 15.2 m (50 ft), the voltage drop between the service point and the service disconnecting means may be calculated utilizing the service capacity limits defined by the utility company in lieu of the computed load. The distance between the service point and the service disconnecting means, the computed load and a letter on utility company letterhead indicating service limits shall be submitted for department approval.
-
-Exception No. 5: Where compliance with the applicable Energy Conservation Code is mandated voltage drop requirements of that code shall apply.
-
-FPN: When using Exception No. 4, potential future increases in the utility service capacity limits should be considered to avoid exceeding voltage drop limits at a later date.
-
-Subsection 215.2(A)(3)—Delete FPN No. 2.—Renumber FPN No. 3 as FPN No. 2, and revise to read as follows:
-
-FPN No. 2: See amended 210.19(A) for voltage drop on branch circuits.
-
-ARTICLE 220Branch-Circuit, Feeder, and Service Calculations 
-
-SECTION 220.14
-
-Section 220.14—Delete the reference to subdivision (L) in the first paragraph and replace it with a reference to subdivision (M) to read as follows:
-
-In all occupancies, the minimum load for each outlet for general-use receptacles and outlets not used for general illumination shall not be less than that calculated in 220.14(A) through (M), the loads shown being based on nominal branch-circuit voltages.
-
-Subsection 220.14(M)—Add a new subsection 220.14(M) to read as follows:
-
-(M) Air Conditioning Circuits: A load of not less than 1500VA shall be included with each 2 wire circuit. This load shall be permitted to be included with the general lighting load and subject to section 220.42 and table 220.42.
-
-SECTION 220.87
-
-220.87 Determining Existing Loads.
-
-Delete "or service" from the first sentence.
-
-ARTICLE 225Outside Branch Circuits and Feeders 
-
-SECTION 225.10
-
-Section 225.10—Revise the first sentence to read as follows:
-
-The installation of outside wiring on surfaces of buildings shall be permitted for circuits of not over 600 Volts, nominal, as multiconductor cable, as type MI cable, as messenger supported wiring, in rigid metal conduit, in intermediate metal conduit, in cable trays, as cablebus, in wireways, in auxiliary gutters, in liquidtight flexible metal conduit and in busways.
-
-SECTION 225.11
-
-Section 225.11—Revise the first sentence to read as follows:
-
-Where outside branch and feeder circuits leave or enter a building, the requirements of 230.54 shall apply.
-
-SECTION 225.36
-
-Section 225.36—At the end of the sentence, add the following:
-
-and shall comply with all the requirements of Article 408 and its amendments.
-
-ARTICLE 230Services 
-
-SECTION 230.6(5)
-
-Subsection 230.6(5)—Add a new subsection 230.6(5) to read as follows:
-
-(5) Where installed in service and fire pump rooms having 2 hour rated construction.
-
-SECTION 230.30
-
-Section 230.30—Delete the Exception in its entirety.
-
-SECTION 230.31
-
-Subsection 230.31(B)—Revise to read as follows:
-
-(B) Minimum Size. The conductors shall not be smaller than 4 AWG copper or 2 AWG aluminum or copper-clad aluminum.
-
-Exception: Conductors supplying only limited loads of a single branch circuit—such as small polyphase power, controlled water heaters, and similar loads—shall not be smaller than 10 AWG copper or 8 AWG aluminum or copper-clad aluminum.
-
-SECTION 230.42
-
-Subsection 230.42(A)—Revise to read as follows:
-
-(A) General. The ampacity of the service-entrance conductors before the application of any adjustment or correction factors shall not be less than (A)(1) or (A)(2) below. Loads shall be determined in accordance with Part III, IV or V of Article 220, as applicable. Ampacity shall be determined from 310.15 for respective conductor types at 75°C. When service-entrance conductors consist of busbars contained in either service busway or other service equipment, bus sizing shall conform to the following table:
-
- Table 230.42 Service Equipment Bus Bar Ampere Density
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Current Rating of Bus
-      - Maximum Current Per Square Inch in Amperes 
-      - 
-      - 
-      - 
-    * - Ventilated Housing
-      - 
-      - Unventilated Housing
-      - 
-      - 
-    * - Copper Bar
-      - Alum. Bar
-      - Copper Bar
-      - Alum. Bar
-      - 
-    * - Up to 1200 Amp
-      - 1000 
-      - 750 
-      - 800 
-      - 600 
-    * - 1201 to 2000 Amp
-      -  800 
-      - 600 
-      - 700 
-      - 525 
-    * - 2001 Amp and greater
-      -  700 
-      - 525 
-      - 500 
-      - 375 
-~
-
-
-
- 
-
-(1) Ampacity of the service-entrance conductors for service below 1000 kVA shall not be less than either a or b:
-
-   (a) The sum of the noncontinuous loads plus 125 percent of the continuous loads.
-
-   (b) The sum of the noncontinuous loads plus the continuous loads if the service-entrance conductors terminate in an overcurrent device where both the overcurrent device and its assembly are listed for operation at 100 percent of their rating.
-
-(2) Ampacity of the service-entrance conductors for services 1000 kVA and larger shall not be less than the sum of the maximum ampere ratings of the service disconnecting means. When including fire pump disconnects in the calculation, 125 percent of the fire pump full load amperes shall be added.
-
-Exception: The ampacity of service-entrance conductors need not exceed the maximum demand calculated in accordance with Article 220, up to a maximum of 4000 amps per service.
-
-FPN: See Subsection 110.2(C)(1) for determining service capacity.
-
-SECTION 230.43
-
-Section 230.43—Revise to read as follows:
-
-230.43 Wiring Methods for 600 Volts, Nominal, or Less. Service-entrance conductors shall be installed in accordance with the applicable requirements of this Code covering the type of wiring method used and shall be limited to the following methods:
-
-(1) Type IGS cable.
-
-(2) Rigid metal conduit.
-
-(3) Intermediate metal conduit.
-
-(4) Electrical metallic tubing.
-
-(5) Metallic wireways.
-
-(6) Busways.
-
-(7) Metallic auxiliary gutters.
-
-(8) Rigid nonmetallic conduit, underground.
-
-(9) Mineral-insulated, metal-sheathed cable.
-
-(10) Flexible metal conduit not over 1.83 m (6 ft) long or liquidtight flexible metal conduit not over 1.83 m (6 ft) long between raceways, or between raceway and service equipment, with equipment bonding jumper routed with the flexible metal conduit or the liquidtight flexible metal conduit according to the provisions of Section 250.102(A), (B), (C), and (E).Service entrance conductors shall not run within the hollow spaces of frame buildings.
-
-SECTION 230.46
-
-Section 230.46—Revise to read as follows:
-
-230.46 Unspliced Conductors. Service-entrance conductors shall not be spliced before terminating at the service disconnecting means, except for the following terminations that are permitted:
-
-(1) in a service end line box.
-
-(2) taps supplying two to six service disconnecting means when grouped.
-
-(3) approved terminals in meter enclosures.
-
-(4) service-entrance conductors in the form of busway, shall be connected as required in order to assemble the various fittings and sections.
-
-SECTION 230.50
-
-Subsection 230.50(B)(1)(3)—Delete the subsection in its entirety.
-
-Subsection 230.50(B)(1)(4)—Delete the subsection in its entirety.
-
-SECTION 230.52
-
-Section 230.52—Delete the section in its entirety.
-
-SECTION 230.54
-
-Section 230.54—Delete in its entirely and add a new section 230.54 to read as follows:
-
-230.54 Overhead Service Locations.
-
-(A) Raintight Service Head. Service raceways shall be equipped with a raintight service head at the point of connection to service-drop conductors.
-
-(B) Service Heads Above Service-Drop Attachment. Service heads shall be locatedabove the point of attachment of the service-drop conductors to the building or other structure.
-
-Exception: Where it is impracticable to locate the service head above the point of attachment, the service head location shall be permitted not farther than 600 mm (24 in.) from the point of attachment.
-
-(C) Separately Bushed Openings. Service heads shall have conductors of different potential brought out through separately bushed openings.
-
-(D) Drip Loops. Drip loops shall be formed on individual conductors. To prevent the entrance of water, service-entrance conductors shall be connected to the service-drop conductors below the level of the service head.
-
-(E) Arranged that Water Will Not Enter Service Raceway or Equipment. Service-drop conductors and service-entrance conductors shall be arranged so that water will not enter service raceway or equipment.
-
-SECTION 230.64
-
-Section 230.64—Add a new section 230.64 to read as follows:
-
-230.64 Service Rooms or Areas.
-
-(A) General. The minimum sufficient working space shall be as provided in Section 110.26 or 110.34 as applicable, in order to assure the safety of operation, inspection, and repairs within the vicinity of the service equipment.
-
-(B) Service Equipment Totaling 1000 kVA, or Larger. Where service equipment totaling 1000 kVA or larger is installed separately, or as part of a switchboard, the room in which such switchboard is located shall be constructed of noncombustible materials having a 2 hour fire rating and shall be of dimensions adequate to house the switchboard and to provide the following minimum clearances:
-
-   (1) At least 1.5 m (5 ft) in front of the switchboard if it is in one line, and at least 2.1 m (7 ft) in front of the board if boards are installed facing each other.
-
-   (2) At least 300 mm (12 in.) from the floor to any energized part of the switchboard, except by special permission.
-
-   (3) Where side and/or rear access is required, the following shall also apply:
-
-      ∙
-											 At least 900 mm (3 ft) at each end of the board
-
-      ∙
-											 At least 900 mm (3 ft) at the rear of the board clear of all obstructions or as specified in Table 110.26(A)(1) or Table 110.34(A) as applicable, whichever is greater.
-
-   (4) Front-only accessible switchboards may be installed 300 mm (12 in.) or less from a wall. However, if the front-only accessible switchboard is installed more than 300 mm (12 in.) from the wall, access must be sealed at each end or comply with the restrictions herein.
-
-   (5) Service equipment shall be arranged so that it is reachable from the entrance door without having to pass in front of, or behind any other electrical equipment in the room. This requirement shall be waived if a second entrance door is provided and located as remotely as practical from the first. Each door shall access an area, which leads to a legal exit.
-
-SECTION 230.70
-
-Subsection 230.70(A)(1)—Revise to read as follows:
-
-(1) Readily Accessible Location. The service disconnecting means shall be installed at a readily accessible location inside of a building or structure nearest the point of entrance of the service conductors.
-
-Exception: Service disconnecting means may be installed on the outside of residential buildings of one through four dwelling units.
-
-Subsection 230.70(B)—Revise to read as follows:
-
-(B) Marketing. Each service disconnecting means shall be permanently marked to identify it as a service disconnect. Each disconnecting means shall be marked to indicate the load served.
-
-SECTION 230.76
-
-Section 230.76—Add a new paragraph at the end of section 230.76 to read as follows:
-
-Where remote control devices are used on service equipment or manually operated circuit breaker devices totaling 1000 kVA or larger, it shall be the responsibility of the owner of the building or such owner's authorized agent to have the opening and closing mechanism of each service switch or service breaker tested at least once every year. The testing need not be performed under load. A record showing the date and signature of the qualified person making the test shall be kept posted at the switch or circuit breaker.
-
-SECTION 230.94
-
-Section 230.94—Revise Exception No. 3 to read as follows:
-
-Exception No. 3: Circuits for load management devices and emergency supply shall be permitted to be connected on the supply side of the service overcurrent device where separately provided with overcurrent protection.
-
-ARTICLE 240Overcurrent Protection 
-
-SECTION 240.12
-
-Subsection 240.12(A)—Add a new subsection 240.12(A) to read as follows:
-
-(A) Service Overcurrent Protective Device.
-
-Where the service overcurrent protective device (OCPD) rating or setting is above 601 Amps, such device shall be selectively coordinated with the next downstream OCPD.
-
-FPN No. 1: See definition of "Coordination (Selective)."
-
-Exception No. 1: Selective coordination shall not be required between two OCPDs in series with one another when no loads are connected in parallel with the downstream device.
-
-Exception No. 2: When the second level OCPD is a single main device having the same rating or setting as the service OCPD, selective coordination shall be required between the third level devices and the two upstream devices.
-
-Exception No. 3: Selective coordination shall not be required between transformer primary and secondary OCPDs, where only one OCPD exists on the transformer secondary.
-
-Renumber first paragraph of 240.12 as new subsection 240.12(B), and retitle as follows:
-
-(B) Orderly Shutdown.
-
-SECTION 240.86
-
-Section 240.86—Add a FPN after first paragraph to read as follows:
-
-FPN: See 240.12, 700.27 and 708.54.
-
-ARTICLE 250Grounding and Bonding
-
-SECTION 250.52
-
-Subsection 250.52(A)(1)—Delete the Exception in its entirety.
-
-ARTICLE 285Surge-Protective Devices (SPDs), 1 kV or Less 
-
-SECTION 285.25
-
-Section 285.25—Add a FPN at end of paragraph to read as follows:
-
-FPN: Device to be used as per manufacturer's listing, available fault current should be considered.
-
-CHAPTER 3Wiring Methods and Materials
-
-ARTICLE 300Wiring Methods 
-
-SECTION 300.3
-
-Subsection 300.3(C)(1)(a)—Add a new subsection 300.3(C)(1)(a) to read as follows:
-
-(a) Barriers shall be provided to isolate conductors energized from different sources when system voltage exceeds 250 volts nominal and conductors are protected by first or second level overcurrent protective devices. Sources include service entrance points, secondaries of different transformers, generators and UPS systems.
-
-SECTION 300.5
-
-Subsection 300.5(A)—Revise to read as follows:
-
-(A) Minimum Cover Requirements. Direct-buried cable or conduit or other raceways shall be installed to meet the minimum cover requirements of Table 300.5. Direct-buried cable shall not be installed except by special permission from the commissioner.
-
-SECTION 300.6
-
-Subsection 300.6(B)—Revise to read as follows:
-
-(B) Aluminum Metal Equipment. Aluminum raceways, cable trays, cablebus, auxiliary gutters, cable armor, boxes, cable sheathing, cabinets, elbows, couplings, nipples, fittings, supports and support hardware shall not be permitted to be embedded in concrete or come in direct contact with the earth.
-
-SECTION 300.22
-
-Subsection 300.22(C)—Revise the first paragraph to read as follows:
-
-(C) Other Space Used for Environmental Air. This section applies to non-fire rated spaces used for environmental air-handling purposes other than ducts and plenums as specified in 300.22(A) and (B). It does not include habitable rooms or areas of buildings, the prime purpose of which is not air handling.
-
-ARTICLE 328Medium Voltage Cable: Type MV 
-
-SECTION 328.10
-
-Section 328.10—Revise to read as follows:
-
-328.10 Uses Permitted. Type MV cables shall be permitted for use on power systems rated up to 35,000 volts nominal as follows:
-
-(1) In wet or dry locations,
-
-(2) In raceways.
-
-SECTION 328.12
-
-Section 328.12—Revise to read as follows:
-
-328.12 Uses Not Permitted. Type MV cable shall not be used:
-
-(1) Where exposed to direct sunlight,(2) In cable trays,(3) Direct-buried,(4) In messenger-supported wiring.
-
-SECTION 328.80
-
-Section 328.80—Delete the last sentence.
-
-ARTICLE 330Metal-Clad Cable: Type MC
-
-SECTION 330.10
-
-Subsection 330.10(A)(1)—Delete the word "services".
-
-Subsection 330.10(A)(3)—Delete the words "or outdoors".
-
-Subsection 330.10(A)(5)—Revise to read as follows:
-
-To be direct-buried where identified for such use and by special permission.
-
-Subsection 330.10(A)(8)—Delete the subsection in its entirety.
-
-Subsection 330.10(B)(3)—Delete the subsection in its entirety.
-
-SECTION 330.12
-
-Section 330.12—Revise the first sentence to read as follows:
-
-330.12 Uses Not Permitted. Type MC cable shall not be used under any of the following conditions.
-
-Subsection 330.12(3)—Add a new subsection 330.12(3) to read as follows:
-
-(3) Where used as service conductors.
-
-Subsection 330.12(4)—Add a new subsection 330.12(4) to read as follows:
-
-(4) Where the cable has an outer jacket of PVC, in residential buildings exceeding three floors above grade.
-
-Subsection 330.12(5)—Add a new subsection 330.12(5) to read as follows:
-
-(5) Where the cable has an outer jacket of PVC, in any nonresidential building unless concealed within non-plenum walls, floors and ceilings where the walls, floors and ceilings provide a thermal barrier of material that has at least a one hour rated assembly as indentified in listings of fire rated assemblies.
-
-ARTICLE 334Nonmetallic-Sheathed Cable: Types NM, NMC, and NMS 
-
-SECTION 334.10
-
-Section 334.10—Revise to read as follows:
-
-334.10 Uses Permitted. Type NM, Type NMC, and Type NMS cables shall be permitted to be used in the following:(1) One- and two-family dwellings.(2) Multifamily dwellings, except as prohibited in Section 334.12.
-
-FPN: See Section 310.10 for temperature limitation of conductors.
-
-Subsection 334.10(A)(1)—Revise to read as follows:
-
-(1) For both exposed and concealed work in normally dry locations.
-
-Subsection 334.10(B)(1)—Revise to read as follows:
-
-(1) For both exposed and concealed work in dry, moist, damp or corrosive locations.
-
-Subsection 334.10(C)(1)—Revise to read as follows:
-
-(1) For both exposed and concealed work in normally dry locations.
-
-SECTION 334.12
-
-Subsection 334.12(A)(1)—Revise to read as follows:
-
-(1) In any multifamily dwelling exceeding three floors above grade.
-
-Subsection 334.12(A)(1)—Delete the Exception in its entirety.
-
-Subsection 334.12(A)(11)—Add a new subsection 334.12 (A)(11) to read as follows:
-
-(11) In non-residential buildings.
-
-SECTION 334.15
-
-Subsection 334.15(B)—Change reference from 300.4(E) to 300.4(F).
-
-SECTION 334.30
-
-Subsection 334.30(C)—Delete the subsection in its entirety.
-
-ARTICLE 336Power and Control Tray Cable: Type TC
-
-SECTION 336.10
-
-Subsection 336.10(6)—Delete the subsection in its entirety.
-
-SECTION 336.12
-
-Subsection 336.12(5)—Add a new subsection 336.12 (5) to read as follows:
-
-(5) As fire alarm circuit wiring.
-
-SECTION 336.104
-
-Subsection 336.104(A)—Delete the subsection in its entirety.
-
-ARTICLE 338Service-Entrance Cable: Types SE and USE 
-
-SECTION 338.10
-
-Subsection 338.10(A)—Add a second sentence to read as follows:
-
-Where installed as service entrance conductors, Type SE cable shall be enclosed in a threaded metallic conduit.
-
-Subsection 338.10(B)(2)—Delete the Exception in its entirety.
-
-Subsection 338.10(B)(4)(b)—Revise to read as follows:
-
-(b) Exterior Installations. In addition to the provisions of this article, service-entrance cable used for feeders or branch circuits, where installed as exterior wiring, shall be installed in a threaded metallic conduit.
-
-ARTICLE 340Underground Feeder and Branch-Circuit Cable: Type UF
-
-SECTION 340.10
-
-Subsection 340.10(1)—Revise to read as follows:
-
-(1) For use underground. For underground requirements, see 300.5.
-
-Subsection 340.10(5)—Delete the subsection in its entirety.
-
-Subsection 340.10(6)—Delete the subsection in its entirety.
-
-SECTION 340.12
-
-Subsection 340.12(12)—Add a new subsection 340.12(12) to read as follows:
-
-(12) Direct burial.
-
-Subsection 340.12(13)—Add a new subsection 340.12(13) to read as follows:
-
-(13) For Solar Photovoltaic Systems.
-
-SECTION 344.10
-
-Subsection 344.10(A)(3)—Revise the second sentence of subsection 344.10(A)(3) to read as follows:
-
-Aluminum RMC shall not be permitted to be encased in concrete or used for direct burial.
-
-Subsection 344.10(B)(2)—Delete the subsection in its entirety.
-
-ARTICLE 350Liquidtight Flexible Metal Conduit: Type LFMC 
-
-SECTION 350.12
-
-Subsection 350.12(3)—Add a new subsection 350.12(3) to read as follows:
-
-(3) In lengths exceeding 1.83m (6 ft).
-
-ARTICLE 352Rigid Polyvinyl Chloride Conduit: Type PVC 
-
-SECTION 352.10
-
-Subsection 352.10(I)—Add a new subsection 352.10(I) to read as follows:
-
-(I) Residential Use. In any residential building or dwelling unit not exceeding three floors above grade.
-
-Subsection 352.10(J)—Add a new subsection 352.10(J) to read as follows:
-
-(J) Non Residential Use. Unless prohibited elsewhere by other articles of this code, PVC conduit shall be permitted in any nonresidential building or residential building over 3 stories high. Rigid nonmetallic conduit shall be concealed within non-plenum walls, floors and ceilings where the walls, floors and ceilings provide a thermal barrier of material that has at least a one hour rated assembly as identified in listings of fire-rated assemblies.
-
-ARTICLE 354Nonmetallic Underground Conduit with Conductors: Type NUCC 
-
-SECTION 354.10
-
-Section 354.10—Revise the heading and the first sentence to read as follows:
-
-354.10 Uses Permitted by Special Permission Only. The use of NUCC and fittings shall be permitted by special permission only, as follows:
-
-ARTICLE 355Reinforced Thermosetting Resin Conduit: Type RTRC 
-
-SECTION 355.10
-
-Subsection 355.10(I)—Add a new subsection 355.10(I) to read as follows:
-
-(I) Residential Use. In any residential building or dwelling unit not exceeding three floors above grade.
-
-Subsection 355.10(J)—Add a new subsection 355.10(J) to read as follows:
-
-(J) Non Residential Use. Unless prohibited elsewhere by other articles of this code, RTRC conduit shall be permitted in any nonresidential building or residential building over 3 stories high. RTRC conduit shall be concealed within non-plenum walls, floors and ceilings where the walls, floors and ceilings provide a thermal barrier of material that has at least a one hour rated assembly as identified in listings of fire-rated assemblies.
-
-ARTICLE 356Liquidtight Flexible Nonmetallic Conduit: Type LFNC 
-
-SECTION 356.10
-
-Section 356.10—Revise the heading and the first sentence to read as follows:
-
-356.10 Uses Permitted by Special Permission Only. The use of LFNC shall be permitted by special permission only, as follows:
-
-ARTICLE 358Electrical Metallic Tubing: Type EMT 
-
-SECTION 358.10
-
-Subsection 358.10(C)—Delete the subsection in its entirety.
-
-SECTION 358.12
-
-Subsection 358.12(7)—Add a new subsection 358.12(7) to read as follows:
-
-(7) For underground or exterior installations or in wet locations.
-
-ARTICLE 362Electrical Nonmetallic Tubing: Type ENT 
-
-SECTION 362.10
-
-Section 362.10—Revise to read as follows:
-
-362.10 Uses Permitted. The use of electrical nonmetallic tubing and fittings shall be permitted:
-
-(1) Concealed within walls, floors, and ceilings where the walls, floors, and ceilings provide a thermal barrier of material which has at least a 1 hour finish rating as identified in listings of fire-rated assemblies.
-
-(2) In locations subject to severe corrosive influences as covered in 300.6 and where subject to chemicals for which the materials are specifically approved.
-
-(3) In concealed, dry, and damp locations not prohibited by 362.12.
-
-(4) Above suspended ceilings where the suspended ceilings provide a thermal barrier of material, which has at least a 1 hour finish rating as identified in listings of fire-rated assemblies.
-
-(5) Embedded in poured concrete, provided fittings approved for this purpose are used for connections.
-
-(6) For wet locations indoors or in a concrete slab on or below grade, with fittings listed and approved for the purpose.
-
-FPN No. 1: Extreme cold may cause some types of nonmetallic conduits to become brittle and, therefore, more susceptible to damage from physical contact.
-
-FPN No. 2: Extreme cold may cause some types of nonmetallic tubing to become brittle and, therefore, more susceptible to damage from physical contact.
-
-SECTION 362.12
-
-Subsection 362.12(11)—Add a new subsection 362.12(11) to read as follows:
-
-(11) In ducts, plenums and other air handling spaces.
-
-ARTICLE 366Auxiliary Gutters 
-
-SECTION 366.10
-
-Subsection 366.10(B)—Revise the first sentence to read as follows:
-
-Nonmetallic auxiliary gutters may only be installed by special permission and shall be listed for the maximum ambient temperature of the installation and marked for the installed conductor insulation temperature rating.
-
-ARTICLE 368Busways 
-
-SECTION 368.2
-
-Section 368.2—Change title from "Definition" to " Definitions" and add a new definition to read as follows:
-
-Service Busway. For the purpose of this article, service busway is busway used to connect from the service point to the line terminals of the service equipment.
-
-SECTION 368.119
-
-Section 368.119—Add a new section 368.119, after the heading "III. Construction", to read as follows:
-
-368.119 Service Busway. Service busway shall conform to the specifications listed in (A) through (I) below.
-
-(A) Ampacity and Ratings of Busbars. Ampacity and ratings of busbars shall be in accordance with 230.42(A).
-
-(B) Length. Service busway shall be limited to a maximum of 3.0 m (10 ft) in length.
-
-Exception: By special permission.
-
-(C) Insulation. Busbars shall be insulated with a material listed for the purpose and rated for use at a minimum of 600 Volts.
-
-Exception: Bolted busbar joints requiring maintenance shall be permitted to be uninsulated.
-
-(D) Enclosure. Enclosure shall be fabricated from aluminum, minimum 3.2 mm (1/8 in.) thick or other non-magnetic material approved by the commissioner.
-
-(E) Enclosure Vents. Ventilating openings shall be permitted in the sides and bottom of the enclosure. Top of enclosure must be solid.
-
-(F) Mounting. Busbars shall be mounted on insulating supports, properly spaced and braced to withstand the maximum available short circuit current.
-
-(G) Clearance. A minimum clearance of 102 mm (4 in.) shall be provided from the phase bars to the enclosure.
-
-(H) Plating. All busbar joints and connections shall be plated with silver, tin or nickel.
-
-(I) Accessibility. All busbar joints and connections shall be accessible.
-
-ARTICLE 370Cablebus 
-
-SECTION 370.3
-
-Section 370.3—Delete "and services" from the last sentence of the first paragraph, so that it reads as follows:
-
-Cablebus shall be permitted to be used for branch circuits and feeders.
-
-ARTICLE 376Metal Wireways 
-
-SECTION 376.22
-
-Section 376.22—Add an Exception after subsection (B) to read as follows:
-
-Exception: Metallic auxiliary gutters may contain up to 40 service entrance conductors without applying derating factors.
-
-ARTICLE 378Nonmetallic Wireways 
-
-SECTION 378.10
-
-Section 378.10—Revise the heading and first sentence of the section to read as follows:
-
-378.10 Uses Permitted by Special Permission Only. The use of nonmetallic wireways shall be permitted by special permission only as follows:
-
-ARTICLE 380Multioutlet Assembly
-
-SECTION 380.2
-
-Subsection 380.2(B)(7)—Add a new subsection 380.2(B)(7) to read as follows:
-
-(7) Where cord and plug connected unless listed for the purpose.
-
-ARTICLE 382Nonmetallic Extensions 
-
-SECTION 382 II
-
-Section 382 II—After subheading "II. Installation" of the Article, add a sentence to read as follows and delete remainder of the Article:
-
-II. Installation
-
-Installation of non-metallic extensions shall not be permitted.
-
-ARTICLE 388Surface Nonmetallic Raceways 
-
-SECTION 388.12
-
-Subsection 388.12(8)—Add a new subsection 388.12(8) to read as follows:
-
-(8) In residential buildings exceeding three floors above grade.
-
-Subsection 388.12(9)—Add a new subsection 388.12(9) to read as follows:
-
-(9) In non-residential buildings.
-
-ARTICLE 392Cable Trays
-
-Subsection 392.3(E)—Add a new sentence at end of existing paragraph to read as follows:
-
-Nonmetallic cable trays may be used by special permission only.
-
-ARTICLE 394Concealed Knob-and-Tube Wiring 
-
-SECTION 394 II
-
-Section 394 II—After subheading "II. Installation" of this Article, add a sentence to read as follows and delete the rest of the Article:
-
-II. Installation
-
-Installation of Concealed Knob-and-Tube Wiring shall not be permitted.
-
-ARTICLE 396Messenger-Supported Wiring 
-
-SECTION 396
-
-Table 396.10(A)—Delete second line of Table in its entirety.
-
-CHAPTER 4Equipment for General Use
-
-ARTICLE 404Switches 
-
-SECTION 404.10
-
-Subsection 404.10(A)—Delete the subsection in its entirety.
-
-ARTICLE 406Receptacles, Cord Connectors, and Attachment Plugs (Caps)
-
-SECTION 406.11
-
-Section 406.11—Revise to read as follows:
-
-406.11 Tamper-Resistant Receptacles in Dwelling Units and Multifamily Dwellings. In all areas specified in 210.52, and in all public parts, as such term is defined in the New York City Housing Maintenance Code, of multifamily dwellings, all 125-volt, 15- and 20-ampere receptacles shall be listed tamper-resistant receptacles.
-
-Exception: Public parts of multifamily dwellings that are used exclusively for mechanical equipment or storage purposes.
-
-ARTICLE 408Switchboards and Panelboards 
-
-SECTION 408.60
-
-Section 408.60—Add new section 408.60 to read as follows:
-
-408.60 Special Requirements. Switchboards shall be listed, approved and constructed in accordance with UL 891, Eleventh Edition, Standard for Switchboards. Panelboards shall be listed, approved and constructed in accordance with UL 67, Eleventh Edition, Standard for Panelboards. Additional construction specifications shall be in accordance with (A) thru (G) below.
-
-(A) Neutral Disconnect Link in Service Switchboards. A bus link shall be provided for disconnecting the neutral service conductor(s) from the outgoing load neutral conductor(s). Such disconnect link shall be readily accessible and located downstream of the main bonding jumper and grounding electrode conductor terminal. In a multi-section switchboard a single neutral disconnect link may be provided for all service disconnects.
-
-Exception: A single cable lug accommodating a maximum of two cables may be used in lieu of a neutral disconnect link for service disconnects 800 amperes or less.
-
-(B) Dielectric Test. All service and distribution equipment, switchboards, control panels, and panelboards shall be given a 60 Hz AC dielectric test, phase to phase and phase to ground, at twice rated voltage plus 1,000 volts for one minute (minimum 1500 volts) prior to shipment from factory. A dielectric test voltage which is 20 percent higher than that in the one minute test may be applied for one second as an alternative to the one minute test. The date of the test and the name and title of the individual certifying the test shall be clearly shown on a label affixed to the equipment.
-
-(C) Warning Label. All 480/277 volt switchboards, panelboards and panelboard back boxes shall have a visible label, clearly marked "WARNING 480/277 VOLTS" and in compliance with ANSI Standard Z535.4.
-
-(D) Grounding Switchboard Frames. Switchboard frames and structures supporting switching equipment shall be grounded. A multisection switchboard shall be provided with an internal ground bus, which will electrically connect all of the sections of the switchboard. This ground bus shall have a minimum cross section of 1/2 square inch of copper or 3/4 square inch of aluminum. The contact surfaces of the equipment ground connections shall provide an effective electrical ground path for fault currents.
-
-Exception: Frames of direct current, single-polarity switchboards shall not be required to be grounded if effectively insulated.
-
-(E) Busbars.
-
-   (1) General. Busbars shall be sized based on 1000 amperes per square inch for copper and 750 amperes per square inch for aluminum.
-
-Exception: In service switchboards, generator paralleling switchboards and when connecting to devices rated over 2500 amperes. See 408.60(E)(2) and (E)(3) below.
-
-   (2) In Service Equipment And Switchboards Supplied Directly From Separately Derived Systems. Line-side busbars in service switchboards and all busbars in generator paralleling switchboards shall be considered service conductors and shall comply with the requirements of 230.42(A).
-
-   (3) Connection to Devices Rated over 2500 Amperes. Busbars shall be sized in accordance with (a) and (b) below when connected to a device (switch or circuit breaker) over 2500 amperes:
-
-      (a) Over 2500 amperes but less than 5000 amperes, busbars shall be sized based on 800 amperes per square inch for copper and 600 amperes per square inch for aluminum.
-
-      (b) 5000 amperes and over, busbars shall be sized based on 700 amperes per square inch for copper and 525 amperes per square inch for aluminum.
-
-Exception: Beyond a minimum distance of 1.2m (4 ft) along the current path from the device, the busbar may be reduced in size, in accordance with 408.60(E)(1) above.
-
-   (4) Ampacity of Through (Main) Bus. The through (main) bus that feeds four or more overcurrent protective devices of a switchboard shall have a minimum ampacity of 70 percent of the sum of the frame ratings of all devices fed by that through bus. If provisions are made for the addition of overcurrent protective devices in the future, the expected overcurrent protective device ratings shall be included in the above calculations. The through bus ampacity shall not be required to be greater than the frame rating of the upstream overcurrent protective device.
-
-Exception: In service equipment and switchboards supplied directly from separately derived systems and for devices rated over 2500 amperes refer to 408.60(E)(2) and (E)(3) above.
-
-   (5) Ampacity of Section Bus. The section bus is that portion of the bus that serves one or more overcurrent protective devices in the switchboard section and includes that part of the bus between the through bus and the branch distribution bus. The minimum ampacity of the section bus of a switchboard shall be determined by the table below. The section bus ampacity shall not be required to be greater than that of the through bus.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Total Number of Branch Overcurrent Devices
-      - Minimum Ampacity of Section Bus as a %of the Sum Total of Branch OvercurrentDevices*
-    * - 1-2 
-      - 100 
-    * - 3-4
-      - 80 
-    * - Over 4 
-      - 70
-~
-
-
-
- 
-
-* For fusible switches, the maximum fuse size shall be used. For interchangeable trip circuit breakers, the maximum trip rating shall be used. If provisions are made for the future installation of branch overcurrent protective devices, the ampacity of these units shall be included in the calculation.
-
-Exception: In service equipment and switchboards supplied directly from separately derived systems and for devices rated over 2500 amperes refer to 408.60(E)(2) and (E)(3) above.
-
-   (6) Busbar Joints. All busbar joints and connections shall be plated with silver, tin or nickel. The current density at contact surfaces in busbar joints shall not exceed 200 amperes per square inch for copper and 150 amperes per square inch for aluminum. A permanent label providing torque values or tightening instructions for all busbar joints shall be affixed to each section of a switchboard.
-
-(F) Hinged Doors. Freestanding switchboards, which have rear access, shall have hinged rear doors fastened by captive screws or suitable latches.
-
-(G) Barriers In Switchboards Rated Over 150 Volts To Ground. Listed and approved barriers shall be placed between adjacent sections of the switchboard. Listed and approved barriers shall be placed between the switchboard and its pullbox, whether located at the top or bottom of the equipment. All openings in the barriers for busbars and cables shall be closed with snug fitting, listed and approved non-hygroscopic, arc resistant material.
-
-ARTICLE 409Industrial Control Panels 
-
-SECTION 409.108
-
-Section 409.108—At the end of the first paragraph, add "and shall comply with section 408.60."
-
-ARTICLE 410Luminaires, Lampholders, and Lamps
-
-SECTION 410.30
-
-Subsection 410.30(B)(1)—At the first sentence, insert "intended for use in a wet location" between "A pole" and "shall have"
-
-SECTION 410.151
-
-Subsection 410.151(B)—Number the existing FPN as FPN No. 1, and add a second FPN to read as follows:
-
-FPN No. 2: See the applicable Energy Conservation Code.
-
-ARTICLE 422Appliances 
-
-SECTION 422.12
-
-Section 422.12—Revise to read as follows:
-
-422.12 Central Heating Equipment. Central heating equipment other than fixed electric space-heating equipment shall be supplied by an individual branch circuit.
-
-Exception No. 1: Auxiliary equipment, such as a pump, valve, humidifier, or electrostatic air cleaner directly associated with the heating equipment, may be connected to the same branch circuit.
-
-Exception No. 2: Permanently connected air-conditioning equipment may be connected to the same branch circuit.
-
-(A) Low Pressure Boiler. Any steam boiler operating at 15 psig or less, any hot water boiler operating below 160 psig, or any boiler rated at 10 horsepower or less, regardless of pressure.
-
-(B) Controls on Low Pressure Boilers. An electrical pressure switch with normally closed contacts shall be connected to the steam drum of every boiler ahead of all valves. The pressure switch shall be set to open at safe working pressure of the boiler. This boiler electrical high-pressure cut-off switch shall be designed to reclose only by a reset device, which shall be manually controlled. One and two family residences are exempt from these provisions.
-
-(C) Circuit Voltage and Safety Devices Connections. Conductors of the control circuits shall only be connected to circuits not exceeding 150 volts to ground, or not more than 150 volts between conductors.
-
-All safety devices, such as pressure controls, fire controls, relays, etc. shall have their electric switching mechanism connected to the ungrounded conductor.
-
-SECTION 422.16
-
-Subsection 422.16(B)(4)—Replace the term "range hood(s)" with the term "combination range hood/microwave oven(s)" in the title, first paragraph and the Exception.
-
-ARTICLE 430Motors, Motor Circuits, and Controllers 
-
-SECTION 430.5
-
-Table 430.5—Add the following items to the Table: "Services 230" and "Switchboards and Panelboards 408"
-
-SECTION 430.95
-
-Section 430.95—At the end of the first paragraph add a new sentence to read as follows:
-
-When the equipment is utilized as service equipment, a means for disconnecting the neutral service conductor(s) complying with 408.60(A) is required.
-
-SECTION 430.97
-
-Section 430.97—After the title, add a new sentence to read as follows:
-
-When the equipment is utilized as service equipment, the busbars shall comply with 408.51.
-
-ARTICLE 450Transformers and Transformer Vaults (Including Secondary Ties)
-
-SECTION 450.9
-
-Section 450.9—Add a new third paragraph to read as follows:
-
-Mechanical ventilation and/or air conditioning shall be provided and shall be adequate to dispose of the transformer full-load losses without exceeding 40°C (104°F) ambient temperature in the room.
-
-SECTION 450.25
-
-Section 450.25—Delete the section in its entirety.
-
-SECTION 450.42
-
-Section 450.42—Revise to read as follows:
-
-450.42 Walls, Roofs and Floors. The vault shall be of such dimension as to permit the installation of all electrical equipment in accordance with 110.26 or 110.34 as applicable. The vault shall be of fireproof construction with a minimum fire resistance rating of three hours with floors, walls and ceilings 152 mm (6 in.) thick if made of concrete, or 203 mm (8 in.) thick if made of brick, or 203 mm (8 in.) thick if made of filled cement block. All building steel forming part of the vault construction shall have a comparable fire resistance rating. Each compartment within a vault shall be built to the same specifications in respect to the thickness of walls and fireproof door, as the vault. The floors shall be of ample strength to carry the weight of the equipment to be installed in the vault. The floors and wall, to the height of the sill, shall be given a hard impervious finish and painted to prevent the absorption of oil.
-
-Exception: Where transformers are protected with automatic sprinkler, carbon dioxide, or gas suppression system, construction of 1-hour rating shall be permitted.
-
-SECTION 450.43
-
-Subsection 450.43(A)—Delete the FPN, and revise the subsection and Exception to read as follows:
-
-(A) Type of Door. Each doorway leading into a vault from the building interior shall be provided with a tight-fitting door that has a minimum fire rating of 3 hours. Where practicable, basement vaults or vaults opening up on a roof shall be provided with an outside entrance so that no entrance directly into the vault from the interior of the building will be necessary. Where entrance into the vault is from the interior of the building, the vault shall open upon a vestibule, passage hall or switchboard room not commonly in public use.
-
-Exception: Where transformers are protected with automatic sprinkler, carbon dioxide, or gas suppression system, construction of 1-hour rating shall be permitted.
-
-SECTION 450.45
-
-Section 450.45—Revise the first paragraph to read as follows:
-
-A system of ventilation shall be provided to dispose of transformer full load losses and maintain a vault ambient temperature not to exceed 40°C (104°F). Minimum criteria for ventilation shall be in accordance with (A) through (F) below:
-
-Subsection 450.45(C)—Add an Exception to read as follows:
-
-Exception: Where required to meet the ventilation conditions of this section, the minimum of three square inches per kVA of natural ventilation may be supplemented by a dedicated mechanical ventilation system.
-
-SECTION 450.46
-
-Section 450.46—Revise to read as follows:
-
-450.46 Drainage. Where practicable, vaults containing more than 100 kVA transformer capacity shall be provided with a drain or other means that will carry off any accumulation of oil or water in the vault unless local conditions make this impracticable. The floor shall be pitched to the drain where provided. Drainage shall be permitted to carry off water accumulation. Such drainage shall prevent drainage of transformer coolant into the water drainage system and shall be provided in accordance with the New York City Construction Codes and other authorities having applicable regulations.
-
-CHAPTER 5Special Occupancies
-
-ARTICLE 500Hazardous (Classified) Locations, Classes I, II, and III, Divisions 1 and 2 
-
-SECTION 500.8
-
-Subsection 500.8(A)(3)—Revise to read as follows:
-
-(3) Evidence acceptable to the authority having jurisdiction.
-
-ARTICLE 501Class I Locations 
-
-SECTION 501.10
-
-Subsection 501.10(B)(1)(7)—Delete the words "and Schedule 80 PVC conduit, factory elbows, and associated fittings" from the first paragraph.
-
-Subsection 501.10(B)(2)—Delete item (4) "Liquidtight flexible nonmetallic conduit with listed fittings".
-
-ARTICLE 502Class II Locations 
-
-SECTION 502.10
-
-Subsection 502.10(A)(2)—Delete item (3) "Liquidtight flexible nonmetallic conduit with listed fittings".
-
-SECTION 502.100
-
-Subsection 502.100(B)(2)—Revise to read as follows:
-
-(2) Containing Askarel. The use of transformers containing Askarel is prohibited. Delete (1), (2), (3).
-
-ARTICLE 503Class III Locations 
-
-SECTION 503.10
-
-Subsection 503.10(A)—Delete the words "rigid nonmetallic conduit".
-
-Subsection 503.10(A)(2)—Delete the words "liquidtight flexible nonmetallic conduit with listed fittings".
-
-ARTICLE 505Class I, Zone 0, 1, and 2 Locations 
-
-SECTION 505.15
-
-Subsection 505.15(C)(1)(g)—Delete the words "and Schedule 80 PVC conduit, factory elbows, and associated fittings".
-
-Subsection 505.15(C)(2)—Delete the words "liquidtight flexible nonmetallic conduit with listed fittings".
-
-ARTICLE 506Zone 20, 21, and 22 Locations for Combustible Dusts or Ignitible Fibers/Flyings
-
-SECTION 506.9
-
-Subsection 506.9(A)(3)—Delete the words "such as a manufacturer's self-evaluation or an owner's engineering judgment".
-
-SECTION 506.15
-
-Subsection 506.15(A)(5)—Delete the words "liquidtight flexible nonmetallic conduit with listed fittings".
-
-ARTICLE 511Commercial Garages, Repair and Storage 
-
-SECTION 511.7
-
-Subsection 511.7(A)(1)—Delete the words "rigid nonmetallic conduit, electrical nonmetallic tubing" and "or liquidtight flexible nonmetallic conduit".
-
-ARTICLE 515Bulk Storage Plants 
-
-SECTION 515.7
-
-Subsection 515.7(A)—Delete the words ", Schedule 80 PVC conduit".
-
-ARTICLE 516Spray Application, Dipping and Coating Processes 
-
-SECTION 516.3
-
-Subsection 516.3(C)(2)(a)—Revise to read as follows:
-
-(a) The exhaust ventilation system shall be interlocked with the spray application equipment, the Division 2 or Zone 2 location shall extend 1.5 m (5 ft) horizontally and 900 mm (3 ft) vertically from the open face or open front of the booth or room, as shown in figure 516.3(B)(2), top.
-
-Subsection 516.3(C)(2)(b)—Delete the subsection in its entirety.
-
-ARTICLE 517Health Care Facilities 
-
-SECTION 517.30
-
-Subsection 517.30(B)(4)—At the end of the paragraph, add the following:
-
-A separate automatic transfer switch shall be required for:(1) The fire pump. For fire pump requirements refer to Article 695—Fire Pumps.(2) Alarm and alerting systems.(3) Automatic smoke control or venting.(4) Stair pressurization systems.
-
-FPN Figures 517.30, No. 1 and 517.30, No. 2, add the following:
-
-This figure does not reflect the switches and automatic transfer switches required above.
-
-Subsection 517.30(C)(3)(1)—Delete the words ", or Schedule 80 PVC conduit".
-
-SECTION 517.41
-
-Subsection 517.41(B)—At the end of the paragraph, add the following:
-
-A separate automatic transfer switch shall be required for:(1) The fire pump. For fire pump requirements refer to Article 695- Fire Pumps.(2) Alarm and alerting systems.(3) Automatic smoke control or venting.(4) Stair pressurization systems.
-
-FPN Figures 517.41, No. 1 and 517.41, No. 2, add the following:
-
-This figure does not reflect the switches and automatic transfer switches required above.
-
-ARTICLE 518Assembly Occupancies
-
-SECTION 518.1
-
-Section 518.1—Revise to read as follows:
-
-518.1 Scope. This article covers all buildings or portions of buildings or structures classified as Assembly Occupancies in the New York City Construction Codes.
-
-SECTION 518.2
-
-Subsection 518.2(A)—Delete the first sentence and replace with the following:
-
-(A) General. Assembly Occupancies shall be classified as places of assembly in accordance with New York City Construction Codes and the Fire Code (under Titles 28 &amp; 29 of the New York City Administrative Code) and shall include the following:
-
-Subsection 518.2(B)—Revise to read as follows:
-
-(B) Multiple Occupancies. Multiple occupancies shall be classified in accordance with the New York City Construction Codes.
-
-SECTION 518.4
-
-Subsection 518.4 (B)—Delete the subsection in its entirety.
-
-Subsection 518.4(C)—Delete the subsection in its entirety.
-
-ARTICLE 520Theaters, Audience Areas of Motion Picture and Television Studios, Performance Areas, and Similar Locations 
-
-SECTION 520.5
-
-Subsection 520.5(C)—Delete the subsection in its entirety.
-
-SECTION 520.6
-
-Section 520.6—Delete the words "rigid nonmetallic conduit as permitted in this article," from the first sentence.
-
-ARTICLE 522Control Systems for Permanent Amusement Attractions 
-
-SECTION 522.1
-
-Subsection 522.1—Before "electrical equipment" insert the words "(new and existing)".
-
-ARTICLE 525Carnivals, Circuses, Fairs, and Similar Events 
-
-SECTION 525.20
-
-Subsection 525.20(G)—In the first sentence, delete the words "permitted to be" and add the word "secured" in front of "nonconductive matting".
-
-ARTICLE 545Manufactured Buildings
-
-SECTION 545.3
-
-Section 545.3—Add new section 545.3 to read as follows:
-
-545.3 Wiring Generally. Approval of all wiring within manufactured buildings, including branch circuit wiring, shall be subject to the installation and permitting requirements of this code.
-
-SECTION 545.4
-
-Subsection 545.4(A)—Revise to read as follows:
-
-(A) Methods Permitted. The wiring shall be installed in accordance with the requirements of Chapter 3.
-
-SECTION 545.6
-
-Section 545.6—Delete the Exception in its entirety.
-
-SECTION 545.10
-
-Section 545.10—Delete the section in its entirety.
-
-ARTICLE 547Agricultural Buildings 
-
-SECTION 547.5 
-
-Subsection 547.5(A)—Delete the words "liquidtight flexible nonmetallic conduit".
-
-Subsection 547.5(D)—Delete the words "liquidtight flexible nonmetallic conduit".
-
-ARTICLE 550Mobile Homes, Manufactured Homes, and Mobile Home Parks 
-
-SECTION 550.3
-
-Section 550.3—Add a new section 550.3 to read as follows:
-
-550.3 Wiring Generally. Approval of all wiring within mobile and manufactured homes, including branch circuit wiring, shall be subject to the installation and permitting requirements of this code.
-
-ARTICLE 590Temporary Installations 
-
-SECTION 590.4
-
-Subsection 590.4(J)—Add the following at the beginning of the subsection:
-
-Temporary wiring for lighting shall be properly and substantially supported on noncombustible, nonabsorbtive insulators and shall be kept off the floor and free and clear of contact with woodwork, metal pipes and metal portions of the building structure.
-
-Subsection 590.4(K)—Add a new subsection 590.4(K) to read as follows:
-
-(K) Permanent Feeders and Branch Circuits used for Temporary Light and Power. Permanent feeders may be used for temporary light, heat or power service if run in approved raceways or conduits from the source of supply directly to the distribution center. Temporary polarized lampholders may be connected to permanent branch circuit wiring pending the erection of the permanent fixtures.
-
-Subsection 590.4(L)—Add a new subsection 590.4(L) to read as follows:
-
-(L) Grounding. All portable machines shall be grounded. All grounding shall conform with Article 250.
-
-SECTION 590.6
-
-Section 590.6—Add an Exception after the first paragraph, to read as follows:
-
-Exception: Temporary wiring installations that are accessible to the public and used to supply temporary power for illumination of outdoor areas during construction, remodeling, maintenance, repair, or demolition of buildings, structures, equipment, or similar activities shall comply with all other requirements of this code for permanent wiring and shall be provided with ground-fault protection for personnel.
-
-SECTION 590.8
-
-Section 590.8—Add a new section 590.8 to read as follows:
-
-590.8 Sidewalk Shed Lighting. All sidewalk shed lighting installations shall comply with the following conditions in addition to all other relevant provisions of this code:
-
-(1) Such lighting shall be installed in a metal raceway approved for outdoor use.
-
-(2) All junction boxes shall be suitable for damp or wet locations.
-
-(3) A minimum wire size of 12 AWG shall be used for the installation.
-
-(4) All fixtures shall be suitable for outdoor locations.
-
-(5) Ground-Fault Circuit Interrupter (GFCI) protection is required on receptacles and lighting.
-
-(6) The installation shall be properly grounded and bonded.
-
-(7) The panel supplying power to the sidewalk shed lighting shall have a directory that clearly indicates which circuit is being used to supply power.
-
-CHAPTER 6Special Equipment 
-
-ARTICLE 600Electric Signs and Outline Lighting 
-
-SECTION 600.3
-
-Section 600.3—Add the following subsections:
-
-(C) Inspection. Electric signs manufactured for installation in the city shall be inspected by the department and approved prior to installation. The department may direct that such inspection take place at the factory before final assembly or at the place of installation.
-
-(D) Relocated Signs. The relocation of an approved sign from one location to another may be permitted without inspection provided that no alterations in or additions to the existing sign are made, and the application to connect at the new location shows the previous location, lettering, and the connected electrical load of the sign.
-
-(E) Plastic Materials. All plastic materials to be used in the manufacture of electric signs shall be submitted for approval.
-
-(F) Markings. Each individual plastic section or letter shall be permanently marked with the material manufacturer's name, trademark, or other identification symbol.
-
-(G) Receptacles. Only receptacles for sign maintenance shall be installed in or on sign enclosures.
-
-SECTION 600.7
-
-Subsection 600.7(B)(7)(a)—Replace "14 AWG" with "12 AWG".
-
-SECTION 600.8
-
-Subsection 600.8(C)—Revise to read as follows:
-
-(C) Minimum Thickness of Enclosure Metal. Sheet steel shall be at least 0.635mm (0.0250 in./24 U.S.S.G.) thick. Sheet copper or aluminum shall be of equivalent strength.
-
-ARTICLE 604Manufactured Wiring Systems
-
-SECTION 604.1
-
-Subsection 604.1(A)—Add a new subsection 604.1(A) to read as follows:
-
-(A) General. All such wiring systems shall be approved by the department, and shall comply with the installation requirements of this code in addition to the standards listed below. Each manufactured wiring system manufacturer shall add the following to its installation instructions:
-
-   (1) With the electrical permit application for each installation, or any subsequent modification thereof, the licensed electrician shall include a diagram or specification sheet clearly defining the boundaries where the wiring method will be installed.
-
-   (2) Manufactured wiring systems shall not be used for emergency exit signs or emergency lighting.
-
-   (3) Such wiring shall be used only for general lighting circuits above an accessible hung ceiling or where no finished ceiling exists.
-
-SECTION 604.4
-
-Section 604.4—Delete Exceptions No. 1 and No. 2 in their entirety.
-
-SECTION 604.6
-
-Subsection 604.6(A)(2)—Revise the first paragraph by inserting the word "metal" between "liquidtight flexible" and "conduit".
-
-ARTICLE 605Office Furnishings (Consisting of Lighting Accessories and Wired Partitions) 
-
-SECTION 605.4
-
-Section 605.4—Revise to read as follows:
-
-605.4 Partition Interconnections. The electrical connection between partitions shall be flexible assemblies listed and approved for use with wired partitions or metallic raceways that do not exceed 610mm (2 ft) in length.
-
-SECTION 605.6
-
-Section 605.6—Revise to read as follows:
-
-605.6 Fixed-Type and Freestanding-Type Partitions. Wired partitions that are fixed (secured to building surfaces) or freestanding (not fixed) shall be permanently connected to the building electrical system by one of the wiring methods of this code. Where liquidtight flexible metal conduit is used, the maximum length shall be 457mm (18 in.).
-
-SECTION 605.7
-
-Section 605.7—Delete the section in its entirety.
-
-SECTION 605.8
-
-Section 605.8—Delete the section in its entirety.
-
-ARTICLE 620Elevators, Dumbwaiters, Escalators, Moving Walks, Platform Lifts, and Stairway Chairlifts 
-
-SECTION 620.12
-
-Subsection 620.12(B)—Revise to read as follows:
-
-(B) Other Wiring. All signaling and operating control circuits shall be minimum 24 AWG copper.
-
-SECTION 620.21
-
-Section 620.21—Delete the words "rigid nonmetallic conduit" and "liquidtight flexible nonmetallic conduit" throughout.
-
-Subsection 620.21(A)(1)(d)—Delete paragraphs (d)(3) and (d)(4) in their entirety.
-
-Subsection 620.21(A)(2)(d)—Delete paragraphs (d)(3) and (d)(4) in their entirety.
-
-Subsection 620.21(A)(3)(e)—Delete the subsection in its entirety.
-
-Subsection 620.21(A)(4)—Delete the subsection in its entirety.
-
-SECTION 620.23
-
-Subsection 620.23(C)—Insert the words "with ground-fault circuit interrupter" between "duplex receptacle" and "shall be provided".
-
-SECTION 620.24
-
-Subsection 620.24(A)—Revise the second sentence to read as follows:
-
-Required lighting and/or sump pump shall not be connected to the load side of a ground-fault circuit interrupter.
-
-FPN—replace "2004" with "2003".
-
-SECTION 620.61
-
-Section 620.61—Add a second sentence to read as follows:
-
-For multiple elevators connected to the same feeder, each elevator circuit must be properly protected.
-
-SECTION 620.82
-
-Section 620.82—Insert the words "including all door panels" between "metal enclosures" and "for all electrical equipment".
-
-ARTICLE 640Audio Signal Processing, Amplification, and Reproduction Equipment 
-
-SECTION 640.3
-
-Subsection 640.3(J)—Delete the subsection in its entirety.
-
-ARTICLE 645Information Technology Equipment 
-
-SECTION 645.17
-
-Subsection 645.17—Delete the words: "each panelboard has no more than 42 overcurrent devices and".
-
-ARTICLE 668Electrolytic Cells 
-
-SECTION 668.1
-
-Section 668.1—Add a new paragraph at the end of the section to read as follows:
-
-No new electrolytic cell line shall be installed, nor any existing cell line modified, without special permission.
-
-ARTICLE 680Swimming Pools, Fountains, and Similar Installations 
-
-SECTION 680.4
-
-Section 680.4—At the end of the paragraph add the following:
-
-All applicable provisions of the New York City Construction Codes shall apply.
-
-SECTION 680.9
-
-Section 680.9—At the end of the paragraph add the following:
-
-All such circuits shall be provided with GFPE. Electric water heaters of the immersion or submersible type shall not be permitted.
-
-SECTION 680.21
-
-Subsection 680.21(A)(3)—Revise by deleting the words "or liquidtight flexible nonmetallic conduit".
-
-SECTION 680.23
-
-Subsection 680.23(B)(1)—Revise the first sentence to read as follows:
-
-Listed and approved forming shells shall be installed for the mounting of all wet-niche underwater luminaires (fixtures) and shall be equipped with provisions for conduit entries.
-
-Subsection 680.23(B)(2)—Revise by deleting the words "liquidtight flexible nonmetallic" throughout.
-
-Subsection 680.23 (B)(2)(b)—Revise the first sentence to read as follows:
-
-Where a rigid nonmetallic conduit is used, an 8 AWG insulated solid or stranded copper equipment grounding conductor shall be installed in this conduit unless a listed low-voltage lighting system not requiring grounding is used.
-
-Subsection 680.23(D)—Revise to read as follows:
-
-(D) No-Niche Luminaires (Fixtures). A no-niche lighting fixture shall be supplied from a transformer meeting the requirements of 680.23(A)(2) and shall:
-
-   (1) Have no exposed metal parts(2) Have an impact resistant polymeric lens and body, and(3) Be listed and approved for the purpose
-
-Subsection 680.23(F)(1)—Revise to read as follows:
-
-(1) Wiring Methods. Branch-circuit wiring on the supply side of enclosures and junction boxes connected to conduits run to wet-niche and no-niche luminaires (fixtures), and the field wiring compartments of dry-niche luminaires (fixtures), shall be installed using listed and approved rigid metal conduit, intermediate metal conduit, or rigid nonmetallic conduit.
-
-Exception: Electrical metallic tubing shall be permitted to be used to protect conductors, when installed within buildings.
-
-SECTION 680.33
-
-Section 680.33—Revise to read as follows:
-
-680.33 Storable Pool Luminaires (Lighting Fixtures). Luminaires (lighting fixtures) for storable pools shall not be permitted.
-
-SECTION 680.41
-
-Section 680.41—Revise section by deleting the last sentence.
-
-SECTION 680.42
-
-Subsection 680.42(A)(1)—Revise subsection by deleting the words "liquidtight flexible nonmetallic conduit" throughout.
-
-ARTICLE 682Natural and Artificially Made Bodies of Water 
-
-SECTION 682.1
-
-Section 682.1—Add the words "and water parks" at the end of the section.
-
-SECTION 682.2
-
-Section 682.2—Add the words "and water parks" at the end of the first sentence of the definition of "Artificially Made Bodies of Water".
-
-SECTION 682.13
-
-Section 682.13—In the first sentence delete the words "or liquidtight flexible nonmetallic conduit".
-
-ARTICLE 690Solar Photovoltaic Systems
-
-SECTION 690.1
-
-Section 690.1—At the end of the section add the following:
-
-A detailed diagram of the photovoltaic system must be made available upon request of the department.
-
-ARTICLE 695Fire Pumps 
-
-SECTION 695.1
-
-Subsection 695.1(A)(3)—Add a new subsection 695.1(A)(3) to read as follows:
-
-(3) Modification of existing fire pump power supply.
-
-SECTION 695.2
-
-Section 695.2—After the first definition, "Fault Tolerant External Control Circuits", add two new definitions to read as follows:
-
-Fire Pump. For the purposes of this section, a fire pump is any Manual Standpipe Fire Pump, Automatic Standpipe Fire Pump, Sprinkler Booster Pump, Special Service Fire Pump, Spray Mist Fire Pump or Foam Fire Pump located at or below street level or with a motor rating exceeding 30hp.
-
-Limited Service Fire Pump. For the purposes of this section, a Limited Service Fire Pump is a fire pump located above street level with a motor rating not exceeding 30hp and connected to a limited service fire pump controller.
-
-Revise the third definition, "On-Site Standby Generator", to read as follows:
-
-On-Site Emergency Generator. An on-site facility producing electric power as the alternate supply of electric power meeting the requirements of Article 700.
-
-After the last definition, "On-Site Standby Generator", add a new definition to read as follows:
-
-Sprinkler booster pump. For the purposes of this section, a Sprinkler Booster Pump is a fire pump installed in J-2 occupancies, where a minimum of 5 psig is maintained at the highest line of sprinklers, that complies with the definition of Limited Service Fire Pump.
-
-SECTION 695.3
-
-Subsection 695.3(B)—Revise to read as follows:
-
-(B) Multiple Sources. Where required by the New York City Construction Codes, power from sources described in 695.3(A) shall be supplied from an approved combination of two or more such sources or an approved combination of one such source and an on-site emergency generator. The on-site emergency generator, complying with this section, shall be of sufficient capacity to allow normal starting and running of the motor(s) driving the fire pump(s) while supplying all other simultaneously operated loads. Optional standby loads shall be automatically shed when necessary to ensure the proper starting and operation of the fire pump.
-
-Subsection 695.3(C)—Add a new subsection 695.3(C) to read as follows:
-
-(C) Multiple Independent Sources. Two or more feeder sources routed separately to the building and independently operated may be permitted for compliance with this section, as approved by the commissioner, where the reliability of the sources can be demonstrated.
-
-SECTION 695.4
-
-Section 695.4—Revise to read as follows:
-
-695.4 Continuity of Power. Circuits that supply electric motor-driven fire pumps shall be supervised from inadvertent disconnection in accordance with (A) or (B) below.
-
-(A) General. Each utility and generator supply circuit that supplies an electric motor-driven fire pump or limited service fire pump shall be supplied from a single dedicated service disconnecting means and associated overcurrent protective device installed between the power source and one of the following:
-
-   (1) A listed fire pump controller(2) A listed fire pump power transfer switch(3) A listed combination fire pump controller and power transfer switch
-
-Exception 1: The service conductors may directly connect the power source to either the listed fire pump controller or combination fire pump controller and power transfer switch where available short circuit current is less than the rating of the fire pump controller or combination fire pump controller and power transfer switch.
-
-Exception 2: Where a limited service fire pump is connected to an emergency generator in addition to the electric utility source, the disconnecting means for either source is not required to be a service disconnecting means.
-
-Exception 3: Where the building service disconnecting means consists of multiple utility sources over 600 volts arranged through transformers to supply a network secondary, a disconnecting means connected to the network complies with the requirements of this section.
-
-(B) Disconnecting Means and Overcurrent Protection
-
-   (1) Utility Service. Fire pumps and limited service fire pumps shall have overcurrent protection selected as to allow the operation of the fire pump for as long as the fire pump remains capable of running, except where direct connection is made in accordance with 695.4(A)(3)
-
-Exception 1:
-
-(1) Fire Pump. Fire pump overcurrent protection shall be selected at between 300 percent and 600 percent of motor full load current.
-
-(2) Limited Service Fire Pump. Limited service fire pumps shall be protected by overcurrent devices selected at 150 percent of motor full load current. The next larger available device size may be used where selection results in a non-standard device size.
-
-(3) Disconnecting means shall be listed to accept the selected overcurrent device with no modification.
-
-   (2) Generator Supply. When required to be connected to an emergency generator, fire pumps and limited service fire pumps shall have overcurrent protection selected in accordance with the following, except where direct connection is made in accordance with 695.4(A)(3)
-
-Exception 1:
-
-(1) Fire Pump. Fire pumps shall be protected by an over current device selected at not less than 150 percent and not more than 300 percent of motor full load current.
-
-(2) Limited Service Fire Pump. Limited service fire pumps shall be protected by an overcurrent device selected at 150 percent of motor full load current. The next larger available size may be used where selection results in a non-standard size.
-
-(3) Disconnecting means shall be listed to accept the selected fuse or circuit breaker trip with no modification.
-
-(4) A tap ahead of the on-site emergency generator disconnecting means shall be required for the fire pumps.
-
-Exception: Where multiple generators operate in parallel, the fire pump tap may be made on the parallel distribution bus.
-
-   (3) Disconnecting Means. The disconnecting means shall comply with the following:
-
-      (1) Be identified as suitable for use as service equipment.
-
-      (2) Be lockable in the closed position. Locking provisions shall remain in place with or without an installed lock.
-
-      (3) Not located within equipment that feeds loads other than the fire pump.
-
-      (4) Be located as remote as practicable from other service disconnecting means with a minimum separation of 305mm (12 in.).
-
-Exception: (1), (3), and (4) shall not apply to fire pumps and limited service fire pumps connected to emergency generators.
-
-   (4) Disconnect Marking. The disconnecting means shall be marked "Fire Pump—Do Not Disconnect". The letters shall be at least 25mm (1 in.) in height, and they shall be visible without opening enclosure doors. Disconnecting means shall be red in color.
-
-   (5) Controller Marking. A placard shall be placed adjacent to the fire pump controller stating overcurrent setting at 300 percent of motor full load current, the location of the disconnecting means, and the location of the key (if the disconnecting means is locked).
-
-   (6) Supervision. The power continuity shall be supervised by one of the following:
-
-      (1) Central station signals confirming power source availability and pump running where central station connection is provided as required by building occupancy or use.
-
-      (2) Local signaling device, audible and visual, for power source availability and pump running which is activated at a continuously attended location where central station connection is not otherwise required.
-
-SECTION 695.5
-
-Section 695.5—Revise to read as follows:
-
-695.5 Accessory Equipment
-
-(A) Transformers. Where the service or system voltage is different from the utilization voltage of the fire pump motor, a transformer protected by disconnecting means and overcurrent devices shall be permitted to be installed between the system supply and the fire pump controller in accordance with the following.
-
-   (1) Size. Transformers shall be rated at a minimum of 125 percent of the sum of the fire pump motor(s) and pressure maintenance pump(s) motor loads, and 100 percent of the remaining load supplied by the transformer.
-
-   (2) Overcurrent Protection. Primary disconnecting means and overcurrent devices shall be selected in accordance with 695.4(B)(1). Secondary disconnecting means and overcurrent devices shall not be permitted.
-
-   (3) Feeder Source. The feeders on the primary and secondary of the transformer shall be sized in accordance with the requirements of 695.6 adjusted for the primary and secondary voltage.
-
-(B) Utility Meters. Metering of fire pumps shall be current transformer driven or bypass type such that meter removal will not interrupt service to the fire pump. Metering may be dedicated to the fire pump or coincident with other building power use.
-
-(C) Rectifiers. Rectifiers may be used to supply existing DC fire pump installation in accordance with the following.
-
-   (1) Size. Where a rectifier supplies an existing DC electric fire pump, it shall be rated at a minimum of 125 percent of the fire pump full load current plus 100 percent of the full load current of all other equipment connected to the rectifier.
-
-Exception: If largest motor is other than the fire pump, rectifier shall be sized at 125 percent of the largest motor and 100 percent of all other equipment.
-
-   (2) Overcurrent Protection. The primary disconnecting means and overcurrent device shall be rated at 150 percent of the rectifier full load current. The DC fire pump shall be supplied by a dedicated connection on the secondary of the rectifier. Disconnecting means and overcurrent devices shall not be permitted.
-
-   (3) Feeder Source. The feeders on the primary and secondary of the rectifier shall be sized in accordance with the requirements of 695.6 adjusted for the primary and secondary voltage.
-
-   (4) Other Loads. Rectifiers installed to supply existing DC fire pumps shall be permitted to supply other loads. Rectifier capacity shall be increased in accordance with 695.5(C)(1). Each DC supply shall include a disconnecting means and overcurrent device sized in accordance with applicable sections of the code.
-
-SECTION 695.6
-
-Section 695.6—Revise to read as follows:
-
-695.6 Power Wiring. Power circuits and wiring methods shall comply with the requirements in 695.6(A) through (E), and as permitted in 230.90(A), Exception 4; 230.94, Exception 4; 230.208; 240.4(A); 240.13 and 430.31.
-
-(A) Supply Conductors: Fire pump and limited service fire pump supply conductors shall be physically routed outside a building(s) and shall be installed as service entrance conductors. Where supply conductors cannot be physically routed outside buildings, routing through buildings is permitted where installed in accordance with Section 230.6(1), (2), (4) or (5).
-
-Exception: The supply conductors located in the electrical service room and generator room where they originate and in the fire pump room shall not be required to have the minimum 2-hour fire separation or fire resistive rating.
-
-(B) Circuit Conductors:
-
-   (1) Fire Pumps. Fire pump supply conductors, including emergency supply conductors where emergency power is provided, on the load side of the final disconnecting means and overcurrent device shall be kept entirely independent of all other wiring. They shall supply only loads that are directly associated with the fire pump system, and shall be protected to resist potential damage by fire, structural failure, or operational damage. They shall be permitted to be routed through a building(s) using one of the following methods:
-
-      (1) Encased in a minimum of 50mm (2 in.) concrete using rigid metal conduit (steel RMC), intermediate metal conduit, electrical metallic tubing or schedule 80 non-metallic conduit.
-
-      (2) Rigid metal conduit (steel RMC) within an enclosed construction dedicated to the fire pump circuit(s) having a minimum of a 2-hour fire resistance rating.
-
-      (3) A listed electrical circuit protective system with a minimum 2-hour fire resistance rating. The installation shall comply with any restrictions provided in the listing of the electrical circuit protective system.
-
-Exception: The supply conductors located in the electrical service room and generator room where they originate and in the fire pump room shall not be required to have the minimum 2-hour fire separation or fire resistive rating.
-
-   (2) Limited Service Fire Pumps. Limited service fire pump supply conductors shall be installed in rigid metal conduit (steel RMC) or intermediate metal conduit (steel IMC).
-
-Exception: Where there are multiple sources of supply with means of automatic transfer from one source to the other, electrical metallic tubing (EMT) shall also be permitted.
-
-(C) Conductor Size. Conductors supplying a fire pump or a limited service fire pump shall have a rating not less than 125 percent of the full load current of the pump motor selected at no greater than 75 degrees operating temperature of the conductor type used.
-
-(D) Overload Protection. See 695.5(C)(2) for overload protection requirements.
-
-(E) Pump Wiring. All wiring from the controllers to the pump motors shall be in rigid metal conduit (steel RMC) or have a minimum 1-hour fire separation or fire resistance rating.
-
-Exception No. 1: Liquidtight flexible metal conduit (maximum of 915mm (36 in.)) is permitted for final connection to motor terminal housing.
-
-Exception No. 2: Intermediate metal conduit (steel IMC) and electrical metallic tubing (EMT) shall be permitted for limited service fire pumps.
-
-SECTION 695.10
-
-Section 695.10—Revise to read as follows:
-
-695.10 Listed Equipment. Diesel engine driven fire pump controllers, electric fire pump controllers, electric motors, fire pump transfer switches, foam pump controllers, and limited service controllers shall be listed and approved for fire pump use.
-
-SECTION 695.14
-
-Subsection 695.14(E):—Revise to read as follows:
-
-(E) Electric Fire Pump Control Wiring Methods. All electric motor driven fire pump control wiring shall be in rigid metal conduit, intermediate metal conduit, liquidtight flexible metal conduit or Type MI cable.
-
-Exception: Electrical metallic tubing (EMT) shall be permitted for limited service fire pump control wiring.
-
-Subsection 695.14(F)—Add an Exception to read as follows:
-
-Exception: Electrical metallic tubing shall be permitted for limited service fire pump control wiring where provided with emergency generator supply.
-
-CHAPTER 7SPECIAL CONDITIONS 
-
-ARTICLE 700Emergency Systems 
-
-SECTION 700.4
-
-Subsection 700.4(A)—Revise to read as follows:
-
-(A) Acceptance Test. A licensed professional shall submit to the department a testing report of the complete system upon installation. Such testing report shall be from an authorized testing entity.
-
-Subsection 700.4(E)—Revise to read as follows:
-
-(E) Installation Test Requirements. The installation test shall be conducted and documented in accordance with NFPA 110-2005, Section 7-13, amended as follows:
-
-   7.13.3: Delete in its entirety.
-
-   7.13.4.1(11): Revise to read as follows: The load test with building load or other loads that simulate intended load shall continue for 2 hours observing and recording load changes and the resultant effect on voltage and frequency.
-
-   7.13.10.2: Delete and replace with the following: The complete crank/rest cycle shall consist of 3-15 second crank cycles with 15 second rest periods between cranks.
-
-   7.13.13: Add a new paragraph to read as follows: Transfer switches shall be tested in accordance with 8.4.6 as modified herein.
-
-Subsection 700.4(F)—Add a new subsection 700.4(F) to read as follows:
-
-(F) Maintenance and Operational Testing. Maintenance and operational testing shall be performed and documented in accordance with NFPA 110-2005, Section 8, amended as follows:
-
-   8.2: Delete in its entirety.
-
-   8.3.4: Delete and replace with the following: A written record of the EPSS inspection, tests, exercising, operation, and repairs shall be maintained on premises and made available to the department on request. Records shall be inclusive of the transfer switches and storage batteries.
-
-   8.4.4.1: Add a new sentence to read as follows: Inspection shall consist of examination of all EPSS components for leaks, abnormal device position and of all alarm/trouble indicators.
-
-   8.4.5: Delete in its entirety.
-
-   8.4.6: Replace "monthly" with "semi-annually".
-
-   8.4.6.1: Replace "monthly" with "semi-annually".
-
-SECTION 700.5
-
-Subsection 700.5 (B)—Delete third paragraph of subsection 700.5(B), revise the first paragraph of such subsection and add a FPN to read as follows:
-
-FPN: Peak reduction program may require utility approval.
-
-SECTION 700.6
-
-Subsection 700.6 (E)—Add a new subsection 700.6(E) to read as follows:
-
-(E) Mechanical Operation. Means shall be provided to mechanically operate the switch without hazard to personnel.
-
-Subsection 700.6 (F)—Add a new subsection 700.6(F) to read as follows:
-
-(F) Temporary Connections for Portable Generators. Temporary connection of a portable generator without transfer equipment shall be permitted where qualified persons maintain and supervise service of the installation and where the normal source of supply is physically isolated by a lockable disconnecting means or by disconnection of the normal supply conductors. Portable generators shall not be paralleled except by special permission.
-
-Subsection 700.6 (G)—Add a new subsection 700.6(G) to read as follows:
-
-(G) Permanent Connections for Portable Generators. Where a permanent connection is made for a portable generator, a disconnecting means and overcurrent protection shall be provided at the point of connection for the portable generator. Capacity shall not exceed the capacity of the permanent installation.
-
-SECTION 700.7
-
-Section 700.7—Revise to read as follows:
-
-Audible and visual signal devices shall be provided at a continuously supervised location for the following purposes:
-
-SECTION 700.9
-
-Subsection 700.9(A)—At the end of the subsection add the following:
-
-All accessible raceways, boxes and enclosures (including transfer switches, generators and power panels) for emergency circuits shall be permanently marked so they will be readily identified as a component of an emergency circuit or system. Accessible raceways shall be marked at least once every 3 m (10 ft). Acceptable means of marking shall include, but is not limited to, a permanently affixed identification nameplate, yellow in color with black lettering.
-
-Subsection 700.9(B)—Revise Exception to (5)(b) to read as follows:
-
-Exception to (5)(b): Overcurrent protection shall be permitted at the source for the equipment, provided the overcurrent protection is selectively coordinated in the overcurrent range with the downstream overcurrent protection.
-
-SECTION 700.10
-
-Section 700.10—Add a new section 700.10 to read as follows:
-
-700.10 Conductors for Emergency Circuits.
-
-(A) Ampacity. See 445.13.
-
-(B) Installation of Generator Conductors. Generator conductors shall be installed in accordance with the requirements of Article 230.
-
-(C) Overcurrent Devices. There shall be no limit to the number of overcurrent devices connected to the generator terminal devices.
-
-(D) Fire System Pumps. Fire system pumps or fire protection pumps requiring connection directly to the emergency generator as defined in the New York City Construction Codes shall be connected as follows:
-
-   (1) Circuits supplying fire system pumps shall be connected directly to the emergency generator with only one overcurrent protective device which shall be rated at not less than 150 percent and not more than 600 percent of the pump full load current.
-
-Exception: Limited service fire pumps shall be protected by an overcurrent device selected at 150 percent of motor full load current. The next largest available device size may be used where selection results in a non-standard device size.
-
-   (2) Where multiple generators are paralleled, the connection for the fire system pumps shall be taken from the generator paralleling bus.
-
-Exception: Limited service fire pumps are not required to be directly connected to the emergency generator and may have additional overcurrent protective devices.
-
-   (3) Conductors and transformers feeding the system shall be sized at 125 percent of the pump full load current.
-
-   (4) Separate circuits shall be used for each fire system pump.
-
-(E) Alarm Systems. All building-wide fire alarm systems shall be provided with a dedicated transfer switch and be directly connected to the emergency generator overcurrent protective devices as follows:
-
-   (1) 208/120V systems-by a dedicated fused disconnecting means.
-
-   (2) 460/265V systems-by a dedicated fused disconnecting means with fused disconnecting means on the secondary of the associated transformer.
-
-SECTION 700.12
-
-Section 700.12—Revise the fourth paragraph, add a new Exception to read as follows and delete the FPNs:
-
-Fire, sprinkler, standpipe, smoke detection, oxygen, nitrous oxide and other alarm or extinguishing systems shall be connected to the line side of the service equipment and shall have separate overcurrent protection.
-
-Exception: Such systems installed for local area protection only, may connect ahead of the supply to the area protected.
-
-Subsection 700.12(A)—Revise the first paragraph and add a FPN to read as follows:
-
-Storage batteries may be used as a source of power for emergency lighting systems and shall be of suitable rating and capacity to supply and maintain the total load for a minimum period of 11/2 hours, without the voltage applied to the load falling below 871/2 percent of normal. Storage batteries may be used for other emergency systems only where special permission is granted for such use.
-
-FPN: See Article 760 for additional information on the use of batteries for fire alarm systems.
-
-Subsection 700.12(B)(2)—Revise first sentence and add a FPN to read as follows:
-
-Where internal combustion engines are used as the prime mover, an on-site fuel supply shall be provided sufficient for not less than 6 hours of operation at full demand load.
-
-FPN: Some installations may require more than 6 hours of fuel supply. See Articles 517 and 708.
-
-Subsection 700.12(B)(6)—Revise to read as follows:
-
-(6) Outdoor Generator Sets. Where an outdoor generator set is permanently installed and is equipped with a disconnecting means and such generator set is located within sight of the building or structure supplied, an additional disconnecting means shall not be required where ungrounded conductors pass through the building or structure. Appropriate signage shall be provided at the generator set and at the first disconnecting means within the building or structure supplied.
-
-Subsection 700.12(B)(7)—Add new subsection 700.12(B)(7) to read as follows:
-
-(7) Temporary Generators. The equipment grounding conductor(s) of the derived system shall be bonded to the grounding electrode system.
-
-FPN: See 250.34 for grounding of generator frame.
-
-   (a) Separately Derived System. Where a temporary portable generator is a separately derived system, it shall be grounded in accordance with 250.30.
-
-   (b) Not A Separately Derived System. Where a temporary portable generator is not a separately derived system, a grounding connection shall not be made to the grounded circuit conductor.
-
-Subsection 700.12(C)—Revise to read as follows:
-
-(C) Uninterruptible Power Supplies. Uninterruptible power supplies may be used to provide power for emergency systems only where special permission is granted for such use.
-
-Subsection 700.12(D)—Revise the first sentence of subsection to read as follows:
-
-Where acceptable to the commissioner as suitable for use as an emergency source, a second service independent of the source normally supplying the building shall be permitted.
-
-Subsection 700.12(E)—Revise the first sentence to read as follows: Fuel cell systems shall be permitted to be used as a source of power for emergency systems in R-2 occupancies and shall be of suitable rating and capacity to supply and maintain the total load for not less than 6 hours of full-demand operation.
-
-SECTION 700.26
-
-Section 700.26—Revise to read as follows:
-
-700.26 Ground Fault Protection of Equipment. The alternate source for emergency systems shall not be permitted to have ground fault protection for equipment with automatic disconnecting means. Ground fault indication of the emergency source shall be provided pursuant to 700.7(D).
-
-SECTION 700.27
-
-Section 700.27—Revise to read as follows:
-
-700.27 Coordination. Emergency system(s) overcurrent devices shall be selectively coordinated in the overcurrent range with all supply side overcurrent protective devices.
-
-SECTION 700.30
-
-Section 700.30—Add a new section 700.30 under a new part "VII Grounding" to read as follows:
-
-VII. Grounding
-
-700.30 General. Grounding shall be in accordance with the provisions of Article 250.
-
-SECTION 700.31
-
-Section 700.31—Add a new section 700.31 to read as follows:
-
-700.31 Control Circuits.
-
-(A) Grounding. Low voltage control circuits and DC control circuits derived from engine generator starting batteries shall have one leg grounded.
-
-(B) Arrangements. Control circuits shall be arranged so that an additional accidental ground shall not cause operation of the connected devices.
-
-(C) Return Path. Control circuits shall not make use of the equipment grounding conductor as a circuit path.
-
-ARTICLE 701Legally Required Standby Systems
-
-SECTION 701.5
-
-Subsection 701.5(A)—Revise to read as follows:
-
-(A) Acceptance Test. A licensed professional shall submit to the department a testing report of the complete system upon installation. Such testing report shall be from an authorized testing entity.
-
-Subsection 701.5(E)—Revise to read as follows:
-
-(E) Installation Test Requirements. The installation test shall be conducted and documented in accordance with 700.4(E).
-
-Subsection 701.5(F)—Add a new subsection 701.5(F) to read as follows:
-
-(F) Maintenance and Operational Testing. Maintenance and operational testing shall be performed and documented in accordance with 700.4(F).
-
-SECTION 701.6
-
-Section 701.6—Add a new FPN to read as follows:
-
-FPN: Peak reduction program may require utility approval.
-
-SECTION 701.7
-
-Subsection 701.7(D)—Add a new subsection 701.7(D) to read as follows:
-
-(D) Mechanical Operation. Means shall be provided to mechanically operate the switch without hazard to personnel.
-
-Subsection 701.7(E)—Add a new subsection 701.7(E) to read as follows:
-
-(E) Temporary Connections for Portable Generators. Temporary connection of a portable generator without transfer equipment shall be permitted where qualified persons maintain and supervise service of the installation, and where the normal source of supply is physically isolated by a lockable disconnecting means or by a disconnection of the normal supply conductors. Portable generators shall not be paralleled except by special permission.
-
-Subsection 701.7(F)—Add a new subsection 701.7(F) to read as follows:
-
-(F) Permanent Connections for Portable Generators. Where a permanent connection is made for a portable generator, a disconnecting means and overcurrent protection shall be provided at the point of connection for the portable generator. Capacity shall not exceed the capacity of the permanent installation.
-
-SECTION 701.8
-
-Section 701.8—Revise the first sentence to read as follows:
-
-Audible and visual signal devices shall be provided at a continuously supervised location for the following purposes:
-
-SECTION 701.10
-
-Section 701.10—Revise to read as follows:
-
-701.10 Wiring and Conductors for Legally Required Standby Systems.
-
-(A) Wiring. Wiring for legally required standby systems shall be permitted to occupy the same raceways, cables, boxes, and cabinets as other general wiring.
-
-(B) Conductors.
-
-   (1) Ampacity. See 445.13.
-
-   (2) Installation of Generator Conductors. Generator conductors to the first disconnecting means shall be installed in accordance with the requirements of Article 230.
-
-   (3) Overcurrent Devices. There shall be no limit to the number of overcurrent devices connected to the generator terminal devices.
-
-SECTION 701.11
-
-Subsection 701.11(B)(2)—Revise to read as follows:
-
-(2) Internal Combustion Engines as Prime Mover. Where internal combustion engines are used as the prime mover, an on-site fuel supply shall be provided sufficient for not less than 6 hours of operation at full demand load.
-
-Exception: Legally required standby generators relying on natural gas as a fuel supply shall not be required to maintain an on-site fuel supply.
-
-FPN: Some installations may require more than 6 hours of fuel supply. See Articles 517 and 708.
-
-(6) Temporary Generators. The equipment grounding conductors of the derived system shall be bonded to the grounding electrode system.
-
-FPN: See 250.34 for grounding of the generator frame.
-
-(a) Separately Derived System. Where a temporary portable generator is a separately derived system, it shall be grounded in accordance with 250.30.
-
-(b) Not A Separately Derived System. Where a temporary portable generator is not a separately derived system, a grounding connection shall not be made to the grounded circuit conductor.
-
-Subsection 701.11(F)—Revise the first sentence to read as follows: Fuel cell systems used as a source of power for legally required standby systems shall be of suitable rating and capacity to supply and maintain the total load for not less than 6 hours of full-demand operation.
-
-SECTION 701.18
-
-Section 701.18-Revise to read as follows:
-
-701.18 Coordination. Legally required standby system(s) overcurrent devices shall be selectively coordinated in the overcurrent range with all supply side overcurrent protective devices.
-
-ARTICLE 702Optional Standby Systems 
-
-SECTION 702.2
-
-Section 702.2—Revise the first sentence to read as follows:
-
-Those systems not required by municipal, state, federal, or other codes or by any governmental agency having jurisdiction.
-
-SECTION 702.6
-
-Section 702.6—At the Exception, add a second sentence to read as follows:
-
-Portable generators shall not be paralleled with permanent optional standby sources, except by special permission.
-
-SECTION 702.12
-
-Section 702.12—Add a new section 702.12 to read as follows:
-
-702.12 Portable and Temporary Generators. Portable and temporary generators shall comply with 700.6(G) and 700.12(B)(7).
-
-ARTICLE 705Interconnected Electric Power Production Sources 
-
-SECTION 705.40
-
-Section 705.40—Add a new paragraph after the first paragraph to read as follows:
-
-Special detection methods shall be required to determine that a primary source supply system outage has occurred, and whether there should be automatic disconnection. When the primary source supply is restored, special detection methods shall be required to limit exposure of power production to out-of-phase reconnection.
-
-Delete the Exception in its entirety.
-
-Delete FPN No. 1 in its entirety.
-
-SECTION 705.42
-
-Section 705.42—Delete the words "or legally required standby" from the last sentence and delete the Exception in its entirety.
-
-ARTICLE 708Critical Operations Power Systems (COPS)
-
-Re-designate FPN as FPN No. 2 and add FPN No. 1 to read as follows:
-
-FPN No. 1: Determination of a Designated Critical Operations Area (DCOA) and the Critical Operations Power Systems (COPS) needed in its support shall be made by the local, state or federal authority having jurisdiction (AHJ) over the operation. Such authority will establish the basis for the risk assessment, confirm acceptability of the mitigation strategy and determine compliance with the requirements of this article.
-
-ARTICLE 725Class 1, Class 2, and Class 3 Remote-Control, Signaling, and Power-Limited Circuits
-
-SECTION 725.2
-
-Section 725.2—Revise the first definition, "Abandoned Class 2, Class 3, and PLTC Cable" and FPN as follows:
-
-Abandoned Class 2, Class 3 and PLTC Cable. Installed Class 2, Class 3 and PLTC Cable that are not terminated at equipment and not identified for future use with a tag at each end identifying the location of the opposing end.
-
-FPN Replace "725.21" with "725.41".
-
-SECTION 725.3
-
-Subsection 725.3(C)—Revise the Exception to read as follows:
-
-Exception: Type CL2P or Type CLP3P cables shall be permitted for Class 2 and Class 3 circuits installed in other spaces used for environmental air in accordance with 725.154(A).
-
-SECTION 725.24
-
-Section 725.24—Revise the third sentence and add a new FPN to read as follows:
-
-Such cables shall be supported by approved non-combustible straps, staples, cable ties, hangers or similar fittings and related installation accessories designed and installed so as not to damage the cables.
-
-FPN: Exposed wiring is intended to be securely held in place to avoid entanglement of fire response personnel during fire conditions.
-
-SECTION 725.25
-
-Section 725.25—Revise the title to read as follows:
-
-Abandoned Cables, Power Sources and Other Associated Equipment.
-
-Add an additional sentence at the end of the paragraph to read as follows:
-
-Abandoned Cables, Power Sources and other associated equipment shall be removed. Power sources and other associated equipment not tagged for future use shall be de-energized.
-
-SECTION 725.127
-
-Section 725.127—Revise the Exception by replacing "14 AWG" with "12 AWG."
-
-SECTION 725.130
-
-Section 725.130(A)—Delete Exception No. 2 and the FPN in their entirety.
-
-SECTION 725.136
-
-Section 725.136—Delete the words "non-power limited fire alarm".
-
-Subsection 725.136(B)—Delete the words "non-power limited fire alarm".
-
-Subsection 725.136(C)—Delete the words "non-power limited fire alarm".
-
-Subsection 725.136(D)—Delete the words "non-power limited fire alarm".
-
-Subsection 725.136(H)—Delete the words "rigid nonmetallic conduit," and "liquidtight flexible nonmetallic conduit,".
-
-SECTION 725.139
-
-Section 725.139(E)(1)—Delete the subsection in its entirety.
-
-SECTION 725.154
-
-Section 725.154(A)—Revise the title and first and second sentences to read as follows:
-
-(A) Spaces Used For Environmental Air. Cables installed in spaces used for environmental air shall be Class CL2P or CL3P. Cables shall not be installed in ducts or plenums.
-
-ARTICLE 727Instrumentation Tray Cable: Type ITC 
-
-SECTION 727.4
-
-Section 727.4—Revise to read as follows:
-
-727.4 Uses Permitted. Where approved, Type ITC cable shall be permitted to be used as follows in industrial establishments where conditions of maintenance and supervision ensure that only qualified persons will service the installation:
-
-(1) In cable trays.
-
-(2) In raceways.
-
-(3) In hazardous locations as permitted in 501.10, 502.10, 503.10, 504.20, 504.30, 504.80 and 505.15.
-
-(4) Enclosed in a smooth metallic sheath, continuous corrugated metallic sheath, or interlocking tape armor applied over the nonmetallic sheath in accordance with 727.6. The cable shall be supported and secured at intervals not exceeding 1.83m (6 ft).
-
-(5) Between cable tray and equipment in lengths not to exceed 7.62 m (25 ft), where the cable complies with the crush and impact requirements of Type MC cable and is identified for such use. The cable shall be supported and secured at intervals not exceeding 1.83m (6 ft).
-
-ARTICLE 760Fire Alarm Systems 
-
-SECTION 760.1
-
-Section 760.1—Revise FPN No. 1 by deleting the words "guard's tour," in first sentence and revise the last sentence to read as follows:
-
-For further information on the installation and monitoring of integrity requirements for fire alarm systems, refer to NFPA 72, National Fire Alarm Code, 2002 edition.
-
-Add a new FPN No. 3 to read as follows:
-
-FPN No. 3: See Section BC 907 of the NYC Building Code for components description and use.
-
-SECTION 760.2
-
-Section 760.2—At the end of the definition of "Abandoned Fire Alarm Cable" add the following words: "However, a tag shall be securely fixed to each end indicating location of opposing end."
-
-SECTION 760.3
-
-Subsection 760.3(B)—Delete the subsection in its entirety.
-
-Subsection 760.3(F)—Revise to read as follows:
-
-(F) Optical Fiber Cables. Where optical fiber cables are utilized for fire alarm circuits, the cables shall be supervised and installed in raceway per Articles 342, 344 or 358 in accordance with Article 770 and terminated in equipment listed for fire alarm use.
-
-Subsection 760.3(G)—Revise to read as follows:
-
-(G) Installations of Conductors with Other Systems. Installations shall comply with 300.8 and 760.136.
-
-SECTION 760.24
-
-Section 760.24—Add the following words at the end of the paragraph: "Raceways, where installed shall be minimum 1.9cm (3/4 in.) trade size. See 760.52 and 760.131 for installations requiring raceways."
-
-SECTION 760.25
-
-Section 760.25—Add the following words at the end of the paragraph: " and securely fixed to each end indicating location of opposing end."
-
-SECTION 760.32
-
-Section 760.32—Revise to read as follows:
-
-760.32 Fire Alarm Circuits Extending Beyond One Building. Power-limited fire alarm circuits that extend beyond one building and run outdoors shall be installed in raceway in accordance with Articles 342 or 344. Non-power limited fire alarm circuits that extend beyond one building and run outdoors shall meet the installation requirements of Part 1 of Article 300 and the applicable sections of Part 1 of Article 225 and shall be installed in raceway in accordance with Article 342 or 344.
-
-SECTION 760.33
-
-Section 760.33—Add a new section 760.33 to read as follows;
-
-760.33 Fire Alarm Circuit and Equipment Grounding. Fire alarm circuits and equipment shall be grounded in accordance with Article 250 and shall comply with the following requirements:
-
-(A) Grounding Electrode Conductor. A grounding electrode conductor shall be sized and installed in accordance with Article 250, Table 250.66, using a minimum of 10 AWG, at the primary and secondary power source supplying the fire alarm system.
-
-(B) Equipment Grounding Conductor. A separate green insulated equipment grounding conductor shall be sized and installed in accordance with Article 250, Table 250.122, using a minimum of 10AWG, where there are conduits supplying 120V to the fire command center, control unit or distributed control cabinets.
-
-(C) Grounding Separately Derived Supply. A green insulated equipment grounding conductor shall be sized and installed in accordance with Article 250, Table 250.122, using a minimum of 10 AWG, in distributed cabinets where the 120V supply is not derived from the main fire alarm power supply. In steel framed buildings, an additional connection to local steel shall be permitted.
-
-SECTION 760.41
-
-Section 760.41- Delete the section in its entirety and replace to read as follows:
-
-760.41 Power Source Requirements. The power source for fire alarm circuits shall comply with the following:
-
-(A) Primary Power Source. All fire alarm circuits shall be provided with a primary power source. The primary power source shall be generated electric power not exceeding 277/480 volts, supplied by utility company power or isolated plant. The primary power supply to the fire alarm system shall comply with the following:
-
-   (1) Primary Power Supply for the Fire Alarm System. Primary power supply for the fire alarm system shall be connected to the primary power source ahead of all building service disconnecting means so that the building service disconnecting means can be opened without de-energizing the fire alarm supply. All utility metering of the fire alarm system, including disabling or removal of meters, shall maintain power continuity to the fire alarm system at all times.
-
-   (2) Limited Interior Fire Alarm Systems. Primary power supply for sub-systems or other limited interior fire alarm systems may be connected to the power supply through the protected area of such systems by means of a connection ahead of the disconnecting means for the power supply to the protected area.
-
-FPN: Sub-systems and limited interior fire alarm systems may also use the connected means defined in paragraph (1) where available.
-
-(B) Secondary Power Source. Where an emergency power system is provided or required to be provided for emergency system loads, the fire alarm circuits shall be provided with a secondary power source. Batteries shall not be a substitute for connection to a secondary power source. The secondary power source shall comply with the requirements for emergency power systems and/or emergency generator that are used for emergency systems loads as articulated below:
-
-   (1) Generally. Emergency power systems complying with Chapter 27 of the 2008 Building Code shall be permitted to serve as a secondary power source or
-
-   (2) Existing Buildings. Emergency power systems and/or emergency generators in existing buildings in compliance with Title 27, chapter 1, subchapter 6, section 27-396.4 of the Administrative Code (also referred to as the 1968 Building Code) shall be permitted to serve as the secondary power source.
-
-The secondary power supply shall be connected such that all other disconnecting means serving other building emergency loads can be opened without de-energizing the facility fire alarm secondary power supply.
-
-FPN: The use of a main disconnecting means on the output of the generator(s) is permitted where the disconnection of all other loads does not interrupt the facility fire alarm system secondary power supply.
-
-(C) Battery. Regardless of whether a secondary power source is also provided, each fire alarm system and subsystem shall be equipped with a storage battery power supply sized to meet the operating power requirements of the system in accordance with (1), (2) or (3) below and shall automatically connect to and operate the fire alarm system upon failure of the primary or secondary power supply or sources. Batteries shall not be a substitute for connection to a secondary power source when a secondary power source is required pursuant to subsection (B) above.
-
-   (1) With Voice Communications Capability. Supervisory operation for 24 hours followed by full load operation for 6 hours for systems with voice communications capability.
-
-FPN: A 45 minute period of voice and alarm operation at the maximum connected load shall be considered equivalent to 6 hours of total system operation.
-
-   (2) Without Voice Communications Capability. Supervisory operation for 24 hours followed by full load operation for 15 minutes for systems without voice communications capability.
-
-   (3) Sub-systems or Other Limited Interior Fire Alarm Systems. Supervisory operation for 24 hours followed by full load operation for 5 minutes for sub-systems or other limited interior fire alarm systems operating within a facility that reports to the overall facility fire alarm system.
-
-(D) Arrangement of Power Sources. One source of power shall be connected to the fire alarm system at all times. The primary and secondary power sources shall be arranged and controlled by automatic transfer switches dedicated to the fire alarm system such that the secondary source will be automatically connected to the fire alarm system should the primary power source fail. The following conditions shall be observed:
-
-   (1) Intermediary devices between the fire alarm system power supply and the power source, other than fused disconnect switches, transformers and automatic transfer switches are prohibited. Such disconnect switches, transformers and automatic transfer switches shall supply only the fire alarm system and other systems specifically permitted by applicable New York City rules and regulations.
-
-   (2) The primary and secondary power source shall each be provided with a means of disconnect from the fire alarm system. Each disconnect shall consist of a fused disconnect switch, locked in the ON position and the key shall be kept on premises and made accessible only to authorized personnel. Such disconnect shall be painted red and permanently identified as a fire alarm circuit and labeled as to system/location served, with a means of interrupting the unfused grounded and all ungrounded conductors.
-
-   (3) The fire alarm system fused disconnect switch on the transformer secondary side shall comply with the requirements of the primary and secondary power source fused disconnect switches pursuant to Article 240.
-
-   (4) For buildings served at up to 300 volts to ground, the service voltage shall be transformed to 208/120 volts and a fire alarm fuse disconnect provided within a circuit length of ten (10) feet, shall be connected at the transformer secondary on the 208/120 volt side. Fused cutouts shall be provided where multiple circuits are required to support the fire alarm system and related auxiliaries mounted in a fused cutout panel suitable for the number of circuits needed.
-
-SECTION 760.43
-
-Section 760.43—Revise the first sentence by replacing "14 AWG" with "12 AWG" and delete the last sentence.
-
-SECTION 760.45
-
-Section 760.45—Delete the Exceptions and the FPN in their entirety.
-
-SECTION 760.46
-
-Section 760.46—Revise to read as follows:
-
-760.46 NPLFA Circuit Wiring. Installation of non-power limited fire alarm circuits shall be in accordance with applicable portions of 110.3(B), 300.7, 300.15, 300.17 and other appropriate articles of Chapter 3 using raceway methods described in 342 and 344 or use Type MI Cable in accordance with 332.
-
-Exception No. 1: As provided in 760.48 through 760.53.
-
-Exception No. 2: Where other articles of this Code require other methods.
-
-SECTION 760.48
-
-Subsection 760.48(A)—Revise to read as follows:
-
-(A) NPLFA Circuits. Non-power limited fire alarm circuit conductors shall not be permitted to occupy the same cable, enclosure or raceway with circuit conductors of other systems.
-
-Subsection 760.48(B)—Revise to read as follows:
-
-(B) Fire Alarm with Power-Supply Circuits. Power supply and fire alarm circuit conductors shall be permitted in the same enclosure only where connected to the same equipment.
-
-SECTION 760.49
-
-Subsection 760.49(A)—Revise to read as follows:
-
-(A) Sizes and Use. Only copper conductors size 12 AWG and larger shall be permitted to be used as NPLFA circuit conductors.
-
-Subsection 760.49(B)—Delete the FPN in its entirety and revise to read as follows:
-
-(B) Insulation. Insulation on conductors shall be suitable for 600 volts, 90 degrees C, and shall comply with Article 310. Conductors shall be Type THHN, THWN/THHN, TFFN, TFN, FEP, RHH, RHW2, XHH, XHHW, MI or CI-NYC Certified Cable. Application of conductor ampacity shall be in accordance with 110.14 for terminal device ratings.
-
-Subsection 760.49(C)—Revise to read as follows:
-
-(C) Conductor Materials. Conductors shall be solid copper up to size 10 AWG. Stranded copper conductors shall be used for sizes 8 AWG and larger.
-
-SECTION 760.51
-
-Subsection 760.51(A)—Delete the words "and Class 1 Circuits" in title and "and Class 1 circuit" in text.
-
-Subsection 760.51(B)—Delete the subsection in its entirety.
-
-Subsection 760.51(C)—Revise to read as follows:
-
-(C) Cable Trays. Where non-power limited fire alarm circuit conductors are installed in cable trays, they shall comply with 392.9 through 392.11 and shall be barriered from any other wiring installed in the cable tray
-
-SECTION 760.52
-
-Section 760.52—Add a new section 760.52 to read as follows:
-
-760.52 Mechanical Execution of Work. Installation shall comply with the following:
-
-(A) Mechanical Rooms, Elevator Rooms, Garages and Loading Docks. All wiring installed up to 2.4m (8 ft.) above the finished floor in garages, loading docks, mechanical rooms, and elevator rooms shall meet the installation requirements of Article 344. All wiring installed over 2.4m (8 ft.) above the finished floor shall meet the installation requirements of Articles 332, 342, 344 or 358.
-
-Exception: For mechanical rooms and elevator rooms having a floor area of less than 900 square feet, installation pursuant to Articles 332, 342, 344 or 358 is permitted without height limitation.
-
-(B) Installation. Installation of raceways, boxes, enclosures, cabinets and wiring shall conform to the following requirements:
-
-   (1) Covers of boxes, enclosures and cabinets shall be painted red and permanently identified as to use.
-
-   (2) Penetrations through rated walls, ceilings and floors shall be fire stopped.
-
-   (3) Raceways or wiring shall not penetrate the top of any control equipment cabinet or enclosure.
-
-   (4) Raceways installed up to 2.4m (8 ft.) in stairways shall not reduce or obstruct required stairway radius or egress path.
-
-SECTION 760.53
-
-Section 760.53—Delete the section in its entirety and replace to read as follows:
-
-760.53 Fire Alarm Circuit Integrity (CI) Cable. Cables suitable for use in fire alarm systems to ensure survivability of critical circuits during a specified time under fire conditions shall be listed as circuit integrity cable. Cables so identified shall have the classification "CI-NYC certified fire alarm cable"
-
-SECTION 760.121Subsection 760.121(A)—Delete FPN Nos. 1 and 2 in their entirety.
-
-SECTION 760.124Section 760.124 -Delete the FPN in its entirety.
-
-SECTION 760.127Section 760.127 -Delete the Exception in its entirety.
-
-SECTION 760.130Subsection 760.130(A)—Revise Exception No. 2 by adding "760.51" after "760.49", delete Exception No. 3 and delete the FPN in their entirety.
-
-Subsection 760.130(B)—Revise the last sentence to read as follows:
-
-Devices shall be installed in accordance with Sections 110.3(B), 300.11(A) and 300.15 with all wiring supported independently from the building structure.
-
-Subsection 760.130(B)(1)—Revise to read as follows:
-
-(1) Exposed or Fished in Concealed Spaces. In raceway or exposed above 2.4m (8 ft.) on the surface of ceiling and sidewalls or fished in concealed spaces, cable splices or terminations shall be made in listed fittings, boxes, enclosures, fire alarm devices or utilization equipment. Where installed exposed, cables shall be supported at a maximum of 1.5m (5 ft.) spacing and installed in such a way that maximum protection against physical damage is afforded by building construction. Where located within 2.4m (8 ft.) of the floor, cables shall be installed in raceway as per Article 342, 344, 358 or 386.
-
-Subsection 760.130(B)(2)—Revise to read as follows:
-
-(2) Passing Through a Floor or Wall. In metal raceways where passing through a floor or wall to a height of 2.4m (8 ft.) above the floor, unless adequate protection can be afforded by building construction as per 760.130(B)(1) or unless an equivalent solid guard is provided.
-
-FPN: Protection by building construction includes, but is not limited to, raised floors, shafts, telephone and communications equipment rooms and closets, and rooms used exclusively for fire alarm equipment.
-
-Subsection 760.130(B)(3)—Delete the words "rigid nonmetallic conduit,".
-
-Subsection 760.130(B)(4)- Add a new subsection 760.130(B)(4) to read as follows:
-
-(4) Terminations and Splices. Terminations and splices shall be made with terminal blocks and in listed fittings, boxes, enclosures, fire alarm devices or utilization equipment. Splices shall be limited to locations where the conditions of installation require the use of splices. Splices and terminations in riser cables are prohibited except where made in fire alarm equipment terminal cabinets. Conductors shall be mechanical connections listed in accordance with UL 486 (2003) A &amp; C or if soldered, conductors shall first be joined so as to be mechanically and electrically secure prior to soldering. Temperature rating of completed splices shall be equal to or exceed the temperature rating of the highest rated conductor.
-
-SECTION 760.131
-
-Section 760.131—Add a new section 760.131, to read as follows:
-
-760.131 Mechanical Execution of Work. Installation shall conform to the following requirements:
-
-(A) Mechanical Rooms, Elevator Rooms, Garages and Loading Docks. All wiring installed up to 2.4m (8 ft.) above the finished floor in garages, loading docks, mechanical rooms, and elevator rooms shall meet the installation requirements of Article 344.
-
-Exception: For mechanical rooms and elevator rooms having a floor area of less than 900 square feet, installation pursuant to Articles 332, 342, 344 or 358 is permitted without height limitation.
-
-(B) Extinguishing Systems. Extinguishing and suppression systems activated by automatic fire detection and using fire alarm cables shall be installed pursuant to Articles 332, 342, 344 or 358. Such systems shall include, but not be limited to, pre-action sprinkler, deluge sprinkler, water mist, clean air agent, Halon, range hood, CO2, and dry chemicals.
-
-(C) Installation. Installation of raceways, boxes, enclosures, cabinets and wiring shall conform to the following requirements:
-
-   (1) Covers of boxes, enclosures and cabinets shall be painted red and permanently identified as to use.
-
-   (2) Penetrations through rated walls, ceilings and floors shall be fire stopped.
-
-   (3) Raceways or wiring shall not penetrate the top of any control equipment cabinet or enclosure.
-
-   (4) Raceways installed up to 2.4m (8 ft.) in stairways shall not reduce or obstruct required stairway radius or egress path.
-
-   (5) Cables shall be secured by cable ties, straps or similar fittings designed and installed so as to not damage cables. Such fittings shall be secured in place at intervals not exceeding 1.5m (5 ft.) on center and within 0.3m (1 ft.) of associated cabinet, enclosure, or box.
-
-SECTION 760.136
-
-Subsection 760.136(D)(2)(a)—Replace "Type FPL, FPLR, FPLP or permitted substitute cables" with "type FPLP 'NYC certified fire alarm cable"' or other NYC certified fire alarm cable".
-
-Subsection 760.136(D)(2)(b)—Delete the subsection in its entirety.
-
-Subsection 760.136(F)—From the first sentence, delete "rigid nonmetallic conduit" and "liquidtight flexible nonmetallic conduit".
-
-Subsection 760.136(G)(1)(b)—Revise to read as follows:
-
-(b) all of the power-limited fire alarm circuit conductors are in a raceway or metal-sheathed or metal-clad cables.
-
-SECTION 760.139Section 760.139—Delete the section in its entirety.
-
-SECTION 760.142Section 760.142—Revise to read as follows:
-
-760.142 Conductor Size. Conductors shall not be smaller than 18 AWG in size.
-
-SECTION 760.143
-
-Section 760.143—Revise to read as follows:
-
-760.143 Support of Conductors. Power-limited fire alarm circuit conductors shall not be strapped, taped, or attached by any means to the exterior of any piping, duct, conduit, or raceway as a means of support.
-
-SECTION 760.154
-
-Subsection 760.154(A)—Revise to read as follows:
-
-(A) Cables in Other Spaces Used for Environmental Air. Cables installed in other spaces used for environmental air, or where permitted to run exposed in other areas, shall be Type FPLP "NYC Certified Fire Alarm Cable".
-
-Subsection 760.154(B)(1)—Replace "Type FPLR" with "Type FPLP 'NYC Certified Fire Alarm Cable' or other NYC Certified Fire Alarm Cable" in each of two locations.
-
-Subsection 760.154(B)(2)—At the beginning of the sentence, replace "Other cables" with "FPLP 'NYC Certified Fire Alarm Cable"'.
-
-Subsection 760.154(C)—Delete the subsection in its entirety and revise to read as follows:
-
-(C) Other Wiring Within Buildings. Cables installed in building locations other than those covered in 760.154(A) or (B) shall be Type FPLP "NYC Certified Fire Alarm Cable."
-
-Subsection 760.154(D)—Revise the subsection to read as follows:
-
-(D) Fire Alarm Cable Substitutions. Substitutions of Type FPLP "NYC Certified Fire Alarm Cable" or other NYC Certified Fire Alarm Cables shall not be permitted.
-
-Delete the Figure, Table and FPN in their entirety.
-
-SECTION 760.176
-
-Section 760.176 (G)—Delete the first sentence of the first paragraph, the FPN and the Table in their entirety.
-
-SECTION 760.179
-
-Section 760.179—Revise the title to read as follows:
-
-760.179 Listing and Marking of PLFA Cables and Insulated Continuous Line-Type Fire Detectors.
-
-Subsection 760.179(B)—Revise to read as follows:
-
-(B) Conductor Size.
-											 The size of conductors in single or multi-conductor cables shall not be smaller than 18 AWG.
-
-Subsection 760.179(D)—Delete the FPN in its entirety and revise to read as follows:
-
-(D) Type FPLP. Type FPLP power-limited fire alarm cable shall be listed to UL 1424-05, Standard for Cables for Power-Limited- Fire-Alarm Circuits with the listing agency certifying compliance with the following requirements:
-
-   (1) Type FPLP only; minimum insulation thickness 15 mils; minimum temperature 150 C.
-
-   (2) Red colored jacket overall; minimum thickness 25 mils.
-
-   (3) Cable marked as per UL 1424 must bear additional description "ALSO CLASSIFIED NYC CERT. FIRE ALARM CABLE," legible without removing jacket.
-
-Subsection 760.179(E)—Delete the subsection in its entirety.
-
-Subsection 760.179(F)—Delete the subsection in its entirety.
-
-Subsection 760.179(G)—Revise by deleting "CI" from the first sentence of the first paragraph and replacing with "CI- 'NYC Certified Circuit Integrity Fire Alarm Cable"' and deleting "(E), (F)" in the second sentence of the first paragraph.
-
-Subsection 760.179(H)—Replace "Type FPLP, FPLR, or FPL cable" at end of sentence with "Type FPLP 'NYC certified fire alarm cable"'.
-
-Subsection 760.179(I)—Delete subsection 760.179(I) and add a new 760.179(I) to read as follows:
-
-(I) Cable Marking. The cable shall be marked in accordance with subsection 760.179(D)(3) and its rating as NYC Cert. Fire Alarm Cable or NYC Cert. Circuit Integrity Cable.
-
-Subsection 760.179(J)—Delete "through (F)" in fourth line of the paragraph.
-
-Subsection 760.179(K)—Add new subsection 760.179(K) to read as follows:
-
-760.179(K) Listed Fire-Rated Assemblies. MI cable meeting the requirements of Article 332 or listed fire-rated assemblies that have a minimum fire rating of 2 hours shall be permitted when installed in accordance with the listing requirements.
-
-ARTICLE 770Optical Fiber Cables and Raceways
-
-SECTION 770.2
-
-Section 770.2—Revise the definition of "Abandoned Optical Fiber Cable" to read as follows:
-
-Abandoned Optical Fiber Cable. Installed optical fiber cable that is not terminated at equipment other than a connector and not identified for future use with a tag securely fixed to each end and indicating the location of the opposing end.
-
-SECTION 770.3
-
-Section 770.3—Revise first sentence to read as follows:
-
-Circuits and equipment shall comply with 770.3(A), (B) and (C).
-
-Subsection 770.3(C)—Add a new subsection 770.3(C) to read as follows:
-
-(C) Electric Closets. Fiber optic circuits and equipment shall not be installed in electric closets.
-
-SECTION 770.25
-
-Section 770.25—Revise title to read "Abandoned Cables and Power Sources." and add a new third sentence to read as follows:
-
-Abandoned Power Sources and other associated equipment shall be removed. Power sources and other associated equipment not tagged for future use shall be de-energized.
-
-SECTION 770.48
-
-Subsection 770.48(A)—Revise subsection 770.48(A) to read as follows:
-
-(A) Conductive and Nonconductive Cables. Unlisted conductive and nonconductive outside plant optical fiber cables shall be permitted to be installed in locations as described in 770.154(C), where the length of the cable within the building, measured from its point of entrance does not exceed 15 m (50 ft) and the cable enters the building from the outside and is terminated in an enclosure. All other cables shall be considered to be within the building.
-
-Exception No. 1: In areas of special flood hazard, as defined in Section G201.2 of Appendix G of the New York City Building Code, the length of such cabling may exceed 15 m (50 ft) to the extent necessary to provide direct delivery to a level 1.52 m (5 ft) above the design flood elevation specified in Section 7.1 (Table 7-1) of Section G501.1 of Appendix G of the New York City Building Code, provided that:(1) Such cabling shall not extend more than 3 m (10 ft) beyond the lowest story having its floor above the design flood elevation; and(2) Such cabling shall not be installed in ducts used for environmental air or in plenums used for environmental air.
-
-Exception No. 2: In areas designated within a shaded X-Zone, as defined in Section G201.2 of Appendix G of the New York City Building Code, the length of such cabling may exceed 15 m (50 ft) to the extent necessary to provide direct delivery to a level 1.52 m (5 ft) above the 500-year flood elevation, as defined in Section G201.2 of Appendix G of the New York City Building Code, provided that:(1) Such cabling shall not extend more than 3 m (10 ft) beyond the lowest story having its floor above the design flood elevation; and(2) Such cabling shall not be installed in ducts used for environmental air or in plenums used for environmental air.
-
-FPN No. 1: Splice cases or terminal boxes, both metallic and plastic types, typically are used as enclosures for splicing or terminating optical fiber cables.
-
-FPN No. 2: See 770.2 for the definition of Point of Entrance.
-
-Subsection 770.48(B)—Delete the words "Article 352, Rigid Polyvinyl Chloride Conduit: Type PVC".
-
-SECTION 770.100
-
-Subsection 770.100(A)(3)—Revise the first sentence by replacing "14 AWG" with "12 AWG".
-
-SECTION 770.133
-
-Subsection 770.133(A)—Delete the words "non-power-limited fire alarm" throughout.
-
-Subsection 770.133(B)(2)—Delete the subsection in its entirety.
-
-Subsection 770.133(D)—Add a new subsection 770.133(D) to read as follows:
-
-(D) Electric Closets. Equipment and cabling shall not be installed in electric closets.
-
-SECTION 770.154
-
-Subsection 770.154(A)—Revise to read as follows:
-
-(A) Spaces Used for Environmental Air. Cables shall not be installed in ducts or plenums. Cables installed in spaces used for environmental air shall be Type OFNP or OFCP. Abandoned cables shall not be permitted to remain. Types OFNR, OFCR, OFNG, OFN, OFCG, and OFC cables installed in compliance with 300.22 shall be permitted. Listed plenum optical fiber raceways shall be permitted in spaces used to convey environmental air or as described in 300.22(c). Only Type OFNG, and OFCP cables shall be permitted to be installed in these raceways.
-
-CHAPTER 8Communications Systems
-
-ARTICLE 800Communications Circuits 
-
-SECTION 800.2
-
-Section 800.2—Revise the definition of "Abandoned Communications Cable" to read as follows:
-
-Abandoned Communications Cable. Installed communications cable that is not terminated at both ends at a connector or other equipment and not identified for future use with a tag securely fixed to each end and indicating the location of the opposing end.
-
-SECTION 800.24
-
-Section 800.24—Revise the second sentence to read as follows:
-
-Cables installed exposed on the surface of ceilings and sidewalls shall be supported by the building structure in such a manner that the cable will not be damaged by normal building use or present a safety hazard.
-
-SECTION 800.25
-
-Section 800.25—Revise the title and first sentence to read as follows:
-
-800.25 Abandoned Cables, Power Sources &amp; Other Associated Equipment. The accessible portion of abandoned communications cables, power sources and other special equipment shall be removed. Cables, power sources and other special equipment not tagged for future use shall be de-energized.
-
-SECTION 800.48
-
-Section 800.48—Add two exceptions to the end of section 800.48 to read as follows:
-
-Exception No. 1: In areas of special flood hazard, as defined in Section G201.2 of Appendix G of the New York City Building Code, the length of such cabling may exceed 15 m (50 ft) to the extent necessary to provide direct delivery to a level 1.52 m (5 ft) above the design flood elevation specified in Section 7.1 (Table 7-1) of Section G501.1 of Appendix G of the New York City Building Code, provided that:(1) Such cabling shall not extend more than 3 m (10 ft) beyond the lowest story having its floor above the design flood elevation; and(2) Such cabling shall not be installed in ducts used for environmental air or in plenums used for environmental air.
-
-Exception No. 2: In areas designated within a shaded X-Zone, as defined in Section G201.2 of Appendix G of the New York City Building Code, the length of such cabling may exceed 15 m (50 ft) to the extent necessary to provide direct delivery to a level 1.52 m (5 ft) above the 500-year flood elevation, as defined in Section G201.2 of Appendix G of the New York City Building Code, provided that:(1) Such cabling shall not extend more than 3 m (10 ft) beyond the lowest story having its floor above the design flood elevation; and(2) Such cabling shall not be installed in ducts used for environmental air or in plenums used for environmental air.
-
-SECTION 800.100
-
-Subsection 800.100(A)(3)—Replace "14 AWG" with "12 AWG".
-
-SECTION 800.133
-
-Section 800.133—Revise to read as follows:
-
-800.133 Communications wires, cables and equipment inside of buildings shall not be installed in electric closets and shall comply with 800.133(A) through (D).
-
-Subsection 800.133(D)—Add a new subsection 800.133(D) to read as follows:
-
-(D) Electric Closets. Communications equipment and cabling shall not be installed in Electric Closets.
-
-SECTION 800.154
-
-Subsection 800.154(A)—Revise to read as follows:
-
-(A) Spaces Used for Environmental Air. Cables installed in spaces used for environmental air shall be Type CMP. Cables and raceways shall not be installed in ducts or plenums. Abandoned cables shall not be permitted to remain. Types CMP, CMR, CMG, CM, and CMX and communications wire installed in compliance with 300.22 shall be permitted. Listed plenum communications raceways shall be permitted to be installed in spaces used for environmental air as described in 300.22(C). Only Type CMP cable shall be permitted to be installed in raceways.
-
-Installation of hybrid power and communications cable shall be performed by licensed master or special electricians.
-
-ARTICLE 810Radio and Television Equipment 
-
-SECTION 810.58
-
-Subsection 810.58(C)—Replace "14 AWG" with "12 AWG".
-
-ARTICLE 820Community Antenna Television and Radio Distribution Systems 
-
-SECTION 820.2
-
-Section 820.2—Revise the definition of "Abandoned Coaxial Cable" to read as follows:
-
-Abandoned Coaxial Cable. Installed coaxial cable that is not terminated at equipment other than a coaxial connector and not identified for future use with a tag securely fixed to each end and indicating the location of the opposing end.
-
-SECTION 820.25
-
-Section 820.25—Revise to read as follows:
-
-820.25 Abandoned Cables. The accessible portion of abandoned coaxial cables shall be removed. Where a coaxial cable is identified for future use with a tag, the tag shall be of sufficient durability.
-
-SECTION 820.100
-
-Subsection 820.100(A)(3)—Replace "14 AWG" with "12 AWG".
-
-SECTION 820.133
-
-Subsection 820.133(A)(1) Exception No. 1—Delete the words "non-power-limited fire alarm,".
-
-Subsection 820.133(A)(1)(a)(2)—Delete 820.133(A)(1)(a)(2) in its entirety.
-
-Subsection 820.133(A)(2) Exception No. 1—Delete the words "non-power-limited fire alarm,".
-
-Subsection 820.133(A)(2)—Delete Exception No. 2 in its entirety.
-
-Subsection 820.133(C)—Add a new subsection 820.133(C) to read as follows:
-
-(C) Electric Closets. Television and radio equipment and cabling shall not be installed in Electric Closets.
-
-SECTION 820.154
-
-820.154(A) Revise the title to read as follows:
-
-(A) Spaces Used for Environmental Air
-
-ARTICLE 830Network—Powered Broadband Communications Systems 
-
-SECTION 830.2Section 830.2—Revise the definition of "Abandoned Network-Powered Broadband Communications Cable" to read as follows:
-
-Abandoned Network-Powered Broadband Communications Cable. Installed network-powered broadband communications cable that is not terminated at equipment other than a connector and not identified for future use with a tag securely fixed to each end and indicating the location of the opposing end.
-
-SECTION 830.25Section 830.25—Revise the second sentence to read as follows:
-
-Where a network-powered broadband communications cable is identified for future use with a tag, the tag shall be of sufficient durability.
-
-SECTION 830.100
-
-Subsection 830.100(A)(3)—Replace "14 AWG" with "12 AWG".
-
-SECTION 830.133
-
-Subsection 830.133(A)(1)(b)(2)—Delete the subsection in its entirety.
-
-Subsection 830.133(A)(1)(d)—Delete the following words from Exception No. 1: "non-power limited fire alarm".
-
-Subsection 830.133(D)—Add a new subsection 830.133(D) to read as follows:
-
-(D) Electric Closets. Broadband communications equipment and cabling shall not be installed in Electric Closets.
 
 
 

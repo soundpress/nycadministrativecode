@@ -3195,6 +3195,43 @@ e. The administering agency may use its discretion to issue a silver alert for a
 
 
 
+Chapter 9: Hit-and-Run Alert
+--------------------------------------------------
+
+
+
+*§ 10-901 Definitions.* ::
+
+
+As used in this chapter, the following terms have the following meanings:
+
+Administering agency. The term “administering agency” means any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor designates.
+
+Hit-and-run. The term “hit-and-run” means when any driver who, knowing or having cause to know that serious physical injury has been caused to another person due to an incident involving the driver's motor vehicle, leaves the scene of an incident without complying with all of the provisions of paragraph a of subdivision two of section six hundred of the vehicle and traffic law.
+
+Serious physical injury. The term "serious physical injury" has the same meaning as in section 10.00 of the penal law.
+
+
+
+
+
+
+
+
+*§ 10-902 Hit-and-run alert system.* ::
+
+
+a. The administering agency shall establish a hit-and-run alert system, pursuant to the provisions of this section, to provide rapid notification to the public when a hit-and-run involving serious physical injury or death occurs.
+
+b. The administering agency shall develop a protocol for notification to organizations such as media organizations, medical facilities and community organizations when a hit-and-run alert is issued.
+
+c. The administering agency shall issue a hit-and-run alert within 24 hours of the determination that a hit-and-run involving serious physical injury or death occurred, provided the perpetrator involved in such incident has not been located, and that sufficient information about the perpetrator of the hit-and-run incident or the subject motor vehicle is available to the administering agency. The administering agency may use its discretion to refrain from issuing such alert if the alert is inappropriate under the circumstances or would compromise a law enforcement investigation. The hit-and-run alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts, or radio broadcasts. The hit-and-run alert may be issued at repeated intervals within the discretion of the administering agency until the perpetrator involved in such hit-and-run has been located or until the administering agency determines that the issuance of a hit-and-run alert is no longer appropriate.
+
+
+
+
+
+
 Chapter 10: Prevention of Interference With Reproductive Health Services
 --------------------------------------------------
 
@@ -3306,43 +3343,6 @@ a. This chapter does not limit the right of any person or entity to seek other a
 b. This chapter does not prohibit expression protected by the first amendment of the constitution of the United States or section 8 of article 1 of the constitution of the state of New York.
 
 c. This chapter does not limit the lawful exercise of any authority vested in the owner or operator of a reproductive health care facility, the owner of the premises in which such a facility is located, or a law enforcement officer of the city, the state of New York or the United States acting within the scope of such person's official duties.
-
-
-
-
-
-
-Chapter 9: Hit-and-Run Alert
---------------------------------------------------
-
-
-
-*§ 10-901 Definitions.* ::
-
-
-As used in this chapter, the following terms have the following meanings:
-
-Administering agency. The term “administering agency” means any city agency, office, department, division, bureau or institution of government, the expenses of which are paid in whole or in part from the city treasury, as the mayor designates.
-
-Hit-and-run. The term “hit-and-run” means when any driver who, knowing or having cause to know that serious physical injury has been caused to another person due to an incident involving the driver's motor vehicle, leaves the scene of an incident without complying with all of the provisions of paragraph a of subdivision two of section six hundred of the vehicle and traffic law.
-
-Serious physical injury. The term "serious physical injury" has the same meaning as in section 10.00 of the penal law.
-
-
-
-
-
-
-
-
-*§ 10-902 Hit-and-run alert system.* ::
-
-
-a. The administering agency shall establish a hit-and-run alert system, pursuant to the provisions of this section, to provide rapid notification to the public when a hit-and-run involving serious physical injury or death occurs.
-
-b. The administering agency shall develop a protocol for notification to organizations such as media organizations, medical facilities and community organizations when a hit-and-run alert is issued.
-
-c. The administering agency shall issue a hit-and-run alert within 24 hours of the determination that a hit-and-run involving serious physical injury or death occurred, provided the perpetrator involved in such incident has not been located, and that sufficient information about the perpetrator of the hit-and-run incident or the subject motor vehicle is available to the administering agency. The administering agency may use its discretion to refrain from issuing such alert if the alert is inappropriate under the circumstances or would compromise a law enforcement investigation. The hit-and-run alert may be issued by any appropriate means, including, but not limited to, email notifications, text messages, telephone calls, television broadcasts, or radio broadcasts. The hit-and-run alert may be issued at repeated intervals within the discretion of the administering agency until the perpetrator involved in such hit-and-run has been located or until the administering agency determines that the issuance of a hit-and-run alert is no longer appropriate.
 
 
 

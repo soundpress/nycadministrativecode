@@ -17452,6 +17452,93 @@ The revenues received from the surcharge imposed by this chapter, plus the break
 
 
 
+Chapter 23-B: Wireless Communications Service Surcharge
+--------------------------------------------------
+
+
+
+*§ 11-2341 Short title.* ::
+
+
+This chapter shall be known and may be cited as the "wireless communications service surcharge act."
+
+
+
+
+
+
+*§ 11-2342 Definitions.* ::
+
+
+(a) "Wireless communications device" means any equipment used to access a wireless communications service.
+
+(b) "Wireless communications service" means all commercial mobile services, as that term is defined in 47 U.S.C. § 332(d), as amended from time to time, including, but not limited to, all broadband personal communications services, wireless radio telephone services, geographic area specialized and enhanced specialized mobile radio services, and incumbent-wide area specialized mobile radio licensees, which offer real time, two-way voice or data service that is interconnected with the public switched telephone network or otherwise provides access to emergency communications services.
+
+(c) "Wireless communications service supplier" means any commercial entity that operates a wireless communications service.
+
+(d) "Place of primary use" means the street address that is representative of where the customer's use of the wireless communications service primarily occurs, which address must be either the residential street address or the primary business street address of the customer; and within the licensed service area of the wireless communications service provider.
+
+
+
+
+
+
+*§ 11-2343 Establishment of surcharge for wireless communications devices.* ::
+
+
+(a) In accordance with the provisions of article six of the county law, as amended, there is hereby established a surcharge of thirty cents per month on wireless communications service in the city of New York. The surcharge shall be imposed on each wireless communications device and shall be reflected and made payable on bills rendered for wireless communications service that is provided to a customer whose place of primary use is within the city of New York.
+
+(b) The surcharge imposed by subdivision (a) of this section shall be used to pay for the costs associated with the design, construction, operation, maintenance, and administration of public safety communications networks serving the city of New York.
+
+(c) All wireless communications service suppliers that provide service to customers whose place of primary use is within the city of New York shall begin to add the monthly surcharge as provided in subdivision (a) of this section to all service bills no later than the forty-fifth day after the effective date of the local law that added this chapter.
+
+(d) Notwithstanding any provision of law to the contrary, no surcharge shall be imposed pursuant to this chapter on or after December 1, 2017.
+
+
+
+
+
+
+
+
+*§ 11-2344 Collection of surcharge.* ::
+
+
+(a) Each wireless communications service supplier serving the city of New York shall act as collection agent for the city of New York and shall remit the funds collected pursuant to the surcharge imposed under the provisions of this chapter to the commissioner of finance each month. Such funds shall be remitted no later than thirty days after the last business day of the month.
+
+(b) Each wireless communications service supplier shall be entitled to retain, as an administrative fee, an amount equal to two per cent of its collections of the surcharge.
+
+(c) The surcharge required to be collected by the wireless communications service supplier shall be added to and stated separately in its billings to customers.
+
+(d) Each wireless communications service supplier shall annually provide to the city of New York an accounting of the surcharge amounts billed and collected.
+
+
+
+
+
+
+*§ 11-2345 Liability for surcharge.* ::
+
+
+(a) Each wireless communications service customer who is subject to the provisions of this chapter shall be liable to the city of New York for the surcharge until it has been paid to the city except that payment to a wireless communications service supplier is sufficient to relieve the customer from further liability for such surcharge.
+
+(b) No wireless communications service supplier shall have a legal obligation to enforce the collection of any surcharge imposed under the provisions of this chapter, provided, however, that whenever the wireless communications service supplier remits the funds collected to the city of New York, it shall also provide the city with the name and address of any customer refusing or failing to pay the surcharge and shall state the amount of such surcharge remaining unpaid.
+
+
+
+
+
+
+*§ 11-2346 Systems revenues; adjustment of surcharge.* ::
+
+
+(a) All surcharge monies remitted to the city of New York by a wireless communications service supplier shall be expended only upon authorization of the council and only for payment of system costs or other costs associated with the design, construction, operation, maintenance, and administration of public safety communications networks serving the city of New York. The finance commissioner and the director of the office of management and budget shall separately account for and keep adequate books and records of the amount and source of all such monies and of the amount and object or purpose of all expenditures thereof.
+
+(b) If, at the end of any fiscal year, the total amount of all such monies exceeds the amount necessary for payment of the above mentioned costs in such fiscal year, such excess shall be reserved and carried over for the payment of those costs in the following fiscal year.
+
+
+
+
 Chapter 23-A: Enhanced 911 Telephone Surcharge
 --------------------------------------------------
 
@@ -17563,93 +17650,6 @@ When used in this chapter the following terms shall mean:
 (a) All surcharge monies remitted to the commissioner of finance by a service supplier and all other monies dedicated to the payment of system costs from whatever source derived or received by the city of New York shall be expended only upon authorization of the council, and only for payment of system costs as permitted by this chapter. The finance commissioner and the director of the office of management and budget shall separately account for and keep adequate records of the amount and source of all such revenues and of the amount and object or purpose of all expenditures thereof.
 
 (b) If at the end of any fiscal year the total amount of all such revenues exceeds the amount necessary for payment of system costs in such fiscal year, such excess shall be reserved and carried over for the payment of system costs in the following fiscal year in conformance with applicable law. However, if at the end of any fiscal year such E911 reserved fund balance exceeds an amount equal to five per cent of that necessary for the payment of system costs in such fiscal year, the council shall by local law reduce the surcharge for the following fiscal year to a level that more adequately reflects the system cost requirements of its E911 system. The council may also reestablish or increase such surcharge, subject to the provisions of section three hundred three of the county law, if the revenues generated by such surcharge and by any other source are not adequate to pay for system costs.
-
-
-
-
-Chapter 23-B: Wireless Communications Service Surcharge
---------------------------------------------------
-
-
-
-*§ 11-2341 Short title.* ::
-
-
-This chapter shall be known and may be cited as the "wireless communications service surcharge act."
-
-
-
-
-
-
-*§ 11-2342 Definitions.* ::
-
-
-(a) "Wireless communications device" means any equipment used to access a wireless communications service.
-
-(b) "Wireless communications service" means all commercial mobile services, as that term is defined in 47 U.S.C. § 332(d), as amended from time to time, including, but not limited to, all broadband personal communications services, wireless radio telephone services, geographic area specialized and enhanced specialized mobile radio services, and incumbent-wide area specialized mobile radio licensees, which offer real time, two-way voice or data service that is interconnected with the public switched telephone network or otherwise provides access to emergency communications services.
-
-(c) "Wireless communications service supplier" means any commercial entity that operates a wireless communications service.
-
-(d) "Place of primary use" means the street address that is representative of where the customer's use of the wireless communications service primarily occurs, which address must be either the residential street address or the primary business street address of the customer; and within the licensed service area of the wireless communications service provider.
-
-
-
-
-
-
-*§ 11-2343 Establishment of surcharge for wireless communications devices.* ::
-
-
-(a) In accordance with the provisions of article six of the county law, as amended, there is hereby established a surcharge of thirty cents per month on wireless communications service in the city of New York. The surcharge shall be imposed on each wireless communications device and shall be reflected and made payable on bills rendered for wireless communications service that is provided to a customer whose place of primary use is within the city of New York.
-
-(b) The surcharge imposed by subdivision (a) of this section shall be used to pay for the costs associated with the design, construction, operation, maintenance, and administration of public safety communications networks serving the city of New York.
-
-(c) All wireless communications service suppliers that provide service to customers whose place of primary use is within the city of New York shall begin to add the monthly surcharge as provided in subdivision (a) of this section to all service bills no later than the forty-fifth day after the effective date of the local law that added this chapter.
-
-(d) Notwithstanding any provision of law to the contrary, no surcharge shall be imposed pursuant to this chapter on or after December 1, 2017.
-
-
-
-
-
-
-
-
-*§ 11-2344 Collection of surcharge.* ::
-
-
-(a) Each wireless communications service supplier serving the city of New York shall act as collection agent for the city of New York and shall remit the funds collected pursuant to the surcharge imposed under the provisions of this chapter to the commissioner of finance each month. Such funds shall be remitted no later than thirty days after the last business day of the month.
-
-(b) Each wireless communications service supplier shall be entitled to retain, as an administrative fee, an amount equal to two per cent of its collections of the surcharge.
-
-(c) The surcharge required to be collected by the wireless communications service supplier shall be added to and stated separately in its billings to customers.
-
-(d) Each wireless communications service supplier shall annually provide to the city of New York an accounting of the surcharge amounts billed and collected.
-
-
-
-
-
-
-*§ 11-2345 Liability for surcharge.* ::
-
-
-(a) Each wireless communications service customer who is subject to the provisions of this chapter shall be liable to the city of New York for the surcharge until it has been paid to the city except that payment to a wireless communications service supplier is sufficient to relieve the customer from further liability for such surcharge.
-
-(b) No wireless communications service supplier shall have a legal obligation to enforce the collection of any surcharge imposed under the provisions of this chapter, provided, however, that whenever the wireless communications service supplier remits the funds collected to the city of New York, it shall also provide the city with the name and address of any customer refusing or failing to pay the surcharge and shall state the amount of such surcharge remaining unpaid.
-
-
-
-
-
-
-*§ 11-2346 Systems revenues; adjustment of surcharge.* ::
-
-
-(a) All surcharge monies remitted to the city of New York by a wireless communications service supplier shall be expended only upon authorization of the council and only for payment of system costs or other costs associated with the design, construction, operation, maintenance, and administration of public safety communications networks serving the city of New York. The finance commissioner and the director of the office of management and budget shall separately account for and keep adequate books and records of the amount and source of all such monies and of the amount and object or purpose of all expenditures thereof.
-
-(b) If, at the end of any fiscal year, the total amount of all such monies exceeds the amount necessary for payment of the above mentioned costs in such fiscal year, such excess shall be reserved and carried over for the payment of those costs in the following fiscal year.
 
 
 
@@ -18502,6 +18502,73 @@ The tax imposed by this chapter shall be in addition to any taxes imposed by sec
 
 
 
+Chapter 28: Claims Against Fire Insurance Proceeds
+--------------------------------------------------
+
+
+
+*§ 11-2801 Claims against fire insurance proceeds.* ::
+
+
+1. Definitions. As used in this chapter, any inconsistent provision of law notwithstanding, the following terms shall have the following meanings:
+
+   (a) "Commissioner" means the commissioner of finance.
+
+   (b) "Real property" means property upon which there is erected any residential, commercial or industrial building or structure except a one or two family residential structure.
+
+   (c) "Lien" means any lien including liens for taxes, special ad valorem levies, special assessments and municipal charges arising by operation of law against property in favor of the city and remaining undischarged for a period of one year or more.
+
+   (d) "Board" means the board created by subdivision five of this section.
+
+   (e) "Special lien" means a lien upon fire insurance proceeds pursuant to this chapter and chapter seven hundred thirty-eight of the laws of nineteen hundred seventy-seven.
+
+   (f) "Fund" means the fire insurance proceeds fund created pursuant to subdivision ten of this section.
+
+2. The commissioner shall file a notice of intention to claim against the proceeds of fire insurance policies pursuant to section twenty-two of the general municipal law with the state superintendent of insurance for entry in the index of liens maintained by him or her as provided in section three hundred thirty-one of the insurance law.
+
+3. Prior to the payment of any proceeds of a policy of insurance for damages caused by fire to real property, which policy insures the interest of an owner and is issued on real property located within the city, and following notification to the commissioner by an insurer of the filing of a claim for payment of such proceeds, the commissioner shall claim, by serving a certificate of lien, against such proceeds to the extent of any lien (including interest and penalties to the date of the claim) thereon, which claim when made and perfected in the manner provided for in section twenty-two of the general municipal law and section three hundred thirty-one of the insurance law, shall constitute a special lien against such proceeds and shall, as to such proceeds, be prior to all other liens and claims except the claim of a mortgagee of record named in such policy. Notice of the service of the certificate of the special lien shall be given to the insured by certified mail.
+
+4. The provisions of this chapter shall not be deemed or construed to alter or impair the right of the city to acquire or enforce any lien against property but shall be in addition to any other power provided by law to acquire or enforce such right.
+
+5. The fire insurance proceeds claims board is hereby established to administer the provisions of subdivisions six through thirteen of this section. The board shall consist of the first deputy mayor, who shall be chairperson, the commissioner of buildings, the commissioner of housing preservation and development, the commissioner of finance and the deputy mayor for economic development, each of whom shall have the power to designate an alternate to represent him or her at board meetings with all the rights and powers, including the right to vote, reserved to all board members, provided that such designation shall be in writing to the chairperson. So far as practicable and subject to the approval of the mayor, the services of all other city departments and agencies shall be made available by their respective heads to the board for the carrying out of its functions. Each member shall serve without additional compensation except for expenses actually incurred.
+
+6. Whenever the proceeds of policy of fire insurance which will be or has been paid to the city instead of an insured, all or part of such proceeds may be paid or released to the insured if the insured satisfies the board that the affected premises have been or will be repaired or restored, that such repairs or restoration are in the public interest, and the insured is issued and complies with a certificate of the board pursuant to this chapter. To secure such payment or release of proceeds the insured must notify the board within forty-five days after the mailing to the insured of a notice of the service of the certificate of special lien pursuant to subdivision three hereof, of the intention to restore or repair the affected premises and must file with the board a completed application with all required supporting documentation pursuant to subdivision seven of this section within sixty days thereafter, unless the board grants an extension for a stated period of time.
+
+7. The release or return to the insured of any amounts to which he or she or it would otherwise be entitled to claim shall be subject to the following conditions:
+
+   (a) Such release or return shall be subject to the repair or restoration of the affected premises, in accordance with applicable building laws, to the condition it was in prior to the time the lien of the city arose, or to an improved condition.
+
+   (b) The insured shall file with the board an application in affidavit form, with such supporting documentation as the board shall require, containing the following:
+
+      (i) A complete description of the nature and extent of the damage to the insured premises and of the condition of the premises prior to the time the lien of the city arose;
+
+      (ii) A complete description of the nature of the repairs or restoration to be undertaken and the cost thereof;
+
+      (iii) A statement as to the source of funds needed to complete such repairs or restoration if the insurance proceeds are not sufficient therefor;
+
+      (iv) The name and address of each contractor who will effect such repairs or restoration;
+
+      (v) An estimated time schedule showing how long the repairs or restoration, and each phase thereof, will take; and
+
+      (vi) Such other information as may be required by the board to enable it to determine whether the repairs or restoration are in the public interest and will be or have been timely and properly made.
+
+   (c) Upon a preliminary approval by the board of an application pursuant to paragraph (b) of this subdivision, the board may issue a certificate, to be signed by the chairperson or his or her designee; evidencing the right of release to the insured of amounts representing insurance proceeds, upon such conditions as may be set forth therein. The repairs or restoration required by the board shall be completed in compliance with the terms and conditions of the certificate prior to the release or return of any part of the insurance proceeds, provided however that the board may, upon the written request of the insured and in its sole discretion, approve a prior release of such proceeds or a portion thereof, in a lump sum or in installments, where the insured certifies and demonstrates that such release is required to permit such repairs or restoration to go forward. Any such insurance proceeds released or returned prior to the completion of the repairs or restoration required by the board may be paid directly to the contractor or contractors responsible for making such repairs or restoration. Such payment shall, to the extent thereof, release the board from further liability to the insured.
+
+8. If the insured: (i) fails to notify the city of his or her or its intention to repair or restore the affected premises as required in subdivision six of this section, (ii) fails to file a completed application pursuant to this chapter, or (iii) fails to obtain a certificate from the board or comply therewith within the time set forth, the right of the insured to assert a claim against the insurance proceeds, except to the extent they exceed the amount of the lien, shall terminate.
+
+9. Until such termination, any insurance proceeds received by the city shall be deposited in a special fund and shall be retained therein. Upon termination of the insured's right to claim against the proceeds, the proceeds and any interest accrued thereon shall be applied to the liens affecting the premises in a manner determined by the board and may be transferred to the general fund.
+
+10. There shall be established in the office of the commissioner a fund for the deposit of fire insurance proceeds to be held and applied in accordance with this chapter. Such funds shall not be held together with the general tax levies in the general fund.
+
+11. The lien or liens against the affected premises upon which the special lien against proceeds is based shall continue in full force and effect except to the extent that such lien or liens are or have been paid.
+
+12. The board may, pursuant to this chapter, release, compromise or adjust the special lien upon insurance proceeds created by this chapter. Any certificate issued by such board pursuant to this chapter shall be for the purpose of preserving and evidencing the right of release of the special lien created by this chapter, shall be subject solely to the provisions of this chapter, and shall not be deemed to be a contract subject to city regulation. Any repair or restoration performed in anticipation of a release of insurance proceeds shall not be deemed to be a public work or municipal project nor to have been done pursuant to a muncipal contract.
+
+13. The board shall be empowered to promulgate rules and regulations and to adopt approved forms to be used by applicants.
+
+
+
+
 Chapter 27: Annual Vault Charge
 --------------------------------------------------
 
@@ -18881,73 +18948,6 @@ This chapter shall be construed and enforced in conformity with chapter nine hun
 
 
 This chapter shall take effect July first, nineteen hundred sixty-two and shall remain in effect so long as the power of the city to adopt such laws for revenue purposes shall exist.
-
-
-
-
-Chapter 28: Claims Against Fire Insurance Proceeds
---------------------------------------------------
-
-
-
-*§ 11-2801 Claims against fire insurance proceeds.* ::
-
-
-1. Definitions. As used in this chapter, any inconsistent provision of law notwithstanding, the following terms shall have the following meanings:
-
-   (a) "Commissioner" means the commissioner of finance.
-
-   (b) "Real property" means property upon which there is erected any residential, commercial or industrial building or structure except a one or two family residential structure.
-
-   (c) "Lien" means any lien including liens for taxes, special ad valorem levies, special assessments and municipal charges arising by operation of law against property in favor of the city and remaining undischarged for a period of one year or more.
-
-   (d) "Board" means the board created by subdivision five of this section.
-
-   (e) "Special lien" means a lien upon fire insurance proceeds pursuant to this chapter and chapter seven hundred thirty-eight of the laws of nineteen hundred seventy-seven.
-
-   (f) "Fund" means the fire insurance proceeds fund created pursuant to subdivision ten of this section.
-
-2. The commissioner shall file a notice of intention to claim against the proceeds of fire insurance policies pursuant to section twenty-two of the general municipal law with the state superintendent of insurance for entry in the index of liens maintained by him or her as provided in section three hundred thirty-one of the insurance law.
-
-3. Prior to the payment of any proceeds of a policy of insurance for damages caused by fire to real property, which policy insures the interest of an owner and is issued on real property located within the city, and following notification to the commissioner by an insurer of the filing of a claim for payment of such proceeds, the commissioner shall claim, by serving a certificate of lien, against such proceeds to the extent of any lien (including interest and penalties to the date of the claim) thereon, which claim when made and perfected in the manner provided for in section twenty-two of the general municipal law and section three hundred thirty-one of the insurance law, shall constitute a special lien against such proceeds and shall, as to such proceeds, be prior to all other liens and claims except the claim of a mortgagee of record named in such policy. Notice of the service of the certificate of the special lien shall be given to the insured by certified mail.
-
-4. The provisions of this chapter shall not be deemed or construed to alter or impair the right of the city to acquire or enforce any lien against property but shall be in addition to any other power provided by law to acquire or enforce such right.
-
-5. The fire insurance proceeds claims board is hereby established to administer the provisions of subdivisions six through thirteen of this section. The board shall consist of the first deputy mayor, who shall be chairperson, the commissioner of buildings, the commissioner of housing preservation and development, the commissioner of finance and the deputy mayor for economic development, each of whom shall have the power to designate an alternate to represent him or her at board meetings with all the rights and powers, including the right to vote, reserved to all board members, provided that such designation shall be in writing to the chairperson. So far as practicable and subject to the approval of the mayor, the services of all other city departments and agencies shall be made available by their respective heads to the board for the carrying out of its functions. Each member shall serve without additional compensation except for expenses actually incurred.
-
-6. Whenever the proceeds of policy of fire insurance which will be or has been paid to the city instead of an insured, all or part of such proceeds may be paid or released to the insured if the insured satisfies the board that the affected premises have been or will be repaired or restored, that such repairs or restoration are in the public interest, and the insured is issued and complies with a certificate of the board pursuant to this chapter. To secure such payment or release of proceeds the insured must notify the board within forty-five days after the mailing to the insured of a notice of the service of the certificate of special lien pursuant to subdivision three hereof, of the intention to restore or repair the affected premises and must file with the board a completed application with all required supporting documentation pursuant to subdivision seven of this section within sixty days thereafter, unless the board grants an extension for a stated period of time.
-
-7. The release or return to the insured of any amounts to which he or she or it would otherwise be entitled to claim shall be subject to the following conditions:
-
-   (a) Such release or return shall be subject to the repair or restoration of the affected premises, in accordance with applicable building laws, to the condition it was in prior to the time the lien of the city arose, or to an improved condition.
-
-   (b) The insured shall file with the board an application in affidavit form, with such supporting documentation as the board shall require, containing the following:
-
-      (i) A complete description of the nature and extent of the damage to the insured premises and of the condition of the premises prior to the time the lien of the city arose;
-
-      (ii) A complete description of the nature of the repairs or restoration to be undertaken and the cost thereof;
-
-      (iii) A statement as to the source of funds needed to complete such repairs or restoration if the insurance proceeds are not sufficient therefor;
-
-      (iv) The name and address of each contractor who will effect such repairs or restoration;
-
-      (v) An estimated time schedule showing how long the repairs or restoration, and each phase thereof, will take; and
-
-      (vi) Such other information as may be required by the board to enable it to determine whether the repairs or restoration are in the public interest and will be or have been timely and properly made.
-
-   (c) Upon a preliminary approval by the board of an application pursuant to paragraph (b) of this subdivision, the board may issue a certificate, to be signed by the chairperson or his or her designee; evidencing the right of release to the insured of amounts representing insurance proceeds, upon such conditions as may be set forth therein. The repairs or restoration required by the board shall be completed in compliance with the terms and conditions of the certificate prior to the release or return of any part of the insurance proceeds, provided however that the board may, upon the written request of the insured and in its sole discretion, approve a prior release of such proceeds or a portion thereof, in a lump sum or in installments, where the insured certifies and demonstrates that such release is required to permit such repairs or restoration to go forward. Any such insurance proceeds released or returned prior to the completion of the repairs or restoration required by the board may be paid directly to the contractor or contractors responsible for making such repairs or restoration. Such payment shall, to the extent thereof, release the board from further liability to the insured.
-
-8. If the insured: (i) fails to notify the city of his or her or its intention to repair or restore the affected premises as required in subdivision six of this section, (ii) fails to file a completed application pursuant to this chapter, or (iii) fails to obtain a certificate from the board or comply therewith within the time set forth, the right of the insured to assert a claim against the insurance proceeds, except to the extent they exceed the amount of the lien, shall terminate.
-
-9. Until such termination, any insurance proceeds received by the city shall be deposited in a special fund and shall be retained therein. Upon termination of the insured's right to claim against the proceeds, the proceeds and any interest accrued thereon shall be applied to the liens affecting the premises in a manner determined by the board and may be transferred to the general fund.
-
-10. There shall be established in the office of the commissioner a fund for the deposit of fire insurance proceeds to be held and applied in accordance with this chapter. Such funds shall not be held together with the general tax levies in the general fund.
-
-11. The lien or liens against the affected premises upon which the special lien against proceeds is based shall continue in full force and effect except to the extent that such lien or liens are or have been paid.
-
-12. The board may, pursuant to this chapter, release, compromise or adjust the special lien upon insurance proceeds created by this chapter. Any certificate issued by such board pursuant to this chapter shall be for the purpose of preserving and evidencing the right of release of the special lien created by this chapter, shall be subject solely to the provisions of this chapter, and shall not be deemed to be a contract subject to city regulation. Any repair or restoration performed in anticipation of a release of insurance proceeds shall not be deemed to be a public work or municipal project nor to have been done pursuant to a muncipal contract.
-
-13. The board shall be empowered to promulgate rules and regulations and to adopt approved forms to be used by applicants.
 
 
 
