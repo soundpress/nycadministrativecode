@@ -581,1005 +581,6 @@ Editor's note: the local law that enacted the above § 20-119 shall expire and b
 
 
 
-Chapter 4: Regulation of Commodities and Services
---------------------------------------------------
-
-
-
-
-**Subchapter 1: Dealers In Second-hand Weighing Or Measuring Devices**
-
-
-
-*§ 20-601 License required.* ::
-
-
-It shall be unlawful for any person to engage in or conduct the business of dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices without a permit therefor.
-
-
-
-
-
-
-*§ 20-602 Application for permit.* ::
-
-
-a. Any person before engaging in such business shall file a written application with the commissioner for such permit, stating in such application the location of the place in which such business is to be conducted.
-
-b. Such application shall be in the form prescribed by such commissioner.
-
-c. Such permit shall be granted only to a person of the age of eighteen years or over.
-
-
-
-
-
-
-*§ 20-603 Permit; fee.* ::
-
-
-a. After the filing of such an application, and investigation thereof duly made, the commissioner, if he or she approves of such application, may issue a permit conditioned upon compliance with the provisions of this subchapter and with the rules and regulations of any city agency applicable to such permittee.
-
-b. The fee for such permit for a year, or any portion thereof, shall be sixty dollars, and shall be payable upon the filing of such application.
-
-c. Such permit shall expire on the twenty-eighth day of February next succeeding the date of issuance thereof.
-
-
-
-
-
-
-*§ 20-604 Notice as to repaired devices.* ::
-
-
-Every person engaged in the business of dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices, within five days after the making of a repair, or the sale and delivery of a repaired, rebuilt, or used weighing or measuring device, shall serve notice in writing on the commissioner giving the name and address of the person for whom such repair has been made, or to whom a repaired, rebuilt or used weighing or measuring device has been sold or delivered, and shall include a statement that such device has been so altered, rebuilt or repaired as to conform to the standard specifications and regulations of such department.
-
-
-
-
-
-
-*§ 20-605 Condemned devices; return of tags.* ::
-
-
-Any person who accepts weighing or measuring devices in trade for others shall remove the condemned tags from those devices which have been condemned by the department and which are intended for dismantling or destruction. Such tags shall be returned to the department within five days thereafter, with a statement describing the weighing or measuring device, giving the name and address of the person from whom it was received, and a statement to the effect that it has been dismantled or destroyed.
-
-
-
-
-
-
-*§ 20-606 Records.* ::
-
-
-a. Every person duly registered pursuant to the provisions of this subchapter shall maintain a book or register in which the following information shall be kept:
-
-   1. The name and address of every person for whom weighing or measuring devices are repaired;
-
-   2. The name and address of every person to whom a repaired, rebuilt, or used weighing or measuring device has been sold or delivered.
-
-b. Such books shall be open for inspection at all reasonable times to any police officer, inspector or person duly authorized by the commissioner, or by any judge of the criminal court of the city of New York.
-
-
-
-
-
-
-*§ 20-607 Comparison of testing equipment.* ::
-
-
-All persons dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices, shall submit their testing equipment at least once a year, to the testing station of the department for comparison and calibration with the prime standards maintained by such department, after which the department shall issue to such person a statement or certificate of its findings.
-
-
-
-
-
-
-*§ 20-608 Violations.* ::
-
-
-Any person violating any of the provisions of this subchapter, upon conviction thereof, shall be fined a sum of not more than one hundred dollars for each offense, or by imprisonment not exceeding ten days, or by both, and, in the discretion of the commissioner, shall be liable to have his or her permit suspended, revoked or cancelled.
-
-
-
-
-
-
-
-**Subchapter 2: Charcoal**
-
-
-
-*§ 20-609 Charcoal.* ::
-
-
-All charcoal and charcoal briquettes shall be sold by weight and each container in which charcoal or charcoal briquettes are sold or delivered, shall be plainly and conspicuously marked to show the net quantity of the contents in letters and figures commensurate with the size of the container as shall be determined and fixed by the commissioner, and shall also bear the legend "CAUTION COOK ONLY IN PROPERLY VENTILATED AREAS," or a substantially similar legend as may be approved by the commissioner in a size commensurate with the size of the container and so placed on the container as shall be determined and fixed by the commissioner.
-
-
-
-
-
-
-*§ 20-610 Punishment.* ::
-
-
-(a) Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars ($100) for each violation.
-
-(b) Any person who shall violate any of the provisions of this subchapter shall be guilty of an offense punishable by a fine of not less than twenty-five dollars ($25) nor more than two hundred fifty dollars ($250) for each offense, or by imprisonment for not less than thirty (30) days, or both.
-
-
-
-
-
-
-
-**Subchapter 3: Etching Acid***
-
-
-
-*§ 20-611 Definitions.* ::
-
-
-Whenever used in this subchapter, the following terms shall have the following meanings:
-
-1. "Dealer of etching acid" shall mean any person, firm, partnership, corporation or company that engages in the business of dispensing etching acid.
-
-2. "Dispense" shall mean to dispose of, give away, give, lease, loan, keep for sale, offer, offer for sale, sell, transfer or otherwise dispose of.
-
-3. "Etching acid" shall have the same meaning set forth in subdivision e of section 10-117.
-
-4. "Personal information" shall mean data pertaining to the purchaser of etching acid that may be used to identify such purchaser. Such information shall be limited to the purchaser's name, address, type of identification used in the purchase, identification number, if applicable, the date of purchase and amount of acid dispensed to the purchaser.
-
-5. "Purchasing records" shall mean all written or electronically recorded personal information about a purchaser of etching acid gathered at the time of purchase by a dealer of etching acid as required by this subchapter.
-
-
-
-
-
-
-*§ 20-612 Requirements for purchase or sale.* ::
-
-
-1. Every dealer of etching acid shall request valid photo identification from each purchaser of etching acid at the time of such purchase and contemporaneously record in writing or electronically such purchaser's personal information.
-
-2. No person shall purchase etching acid without first providing his or her personal information to the dealer of etching acid pursuant to this subchapter. It shall be an affirmative defense to a violation of this subdivision that the dealer failed to request personal information from the purchaser of etching acid.
-
-3. It shall be unlawful for any person to dispense etching acid to any person without recording such purchaser's personal information.
-
-
-
-
-
-
-*§ 20-613 Posting notice.* ::
-
-
-Every dealer of etching acid shall conspicuously post at every table, desk or counter where orders are placed and/or payment is made a notice, the form and manner of which are to be provided by rule of the commissioner, indicating that all purchasers of etching acid shall be required to provide valid photo identification and their personal information and such information shall be recorded by the dealer of etching acid prior to purchase.
-
-
-
-
-
-
-*§ 20-614 Records of purchase.* ::
-
-
-1. Purchasing records shall be kept in a secure location and made available only to the commissioner and his or her designee, or a police officer, and shall be used solely for the purposes of enforcement of this subchapter and of state and local anti-graffiti laws and rules.
-
-2. a. Purchasing records shall be kept by dealers of etching acid for one year.
-
-   b. All purchasing records and any other information pertaining to the purchase or sale of etching acid shall be disposed of by the following methods only:
-
-      i. shredding the records before the disposal of the records; or
-
-      ii. destroying the personal information contained in the records; or
-
-      iii. modifying the records to make the personal information unreadable; or
-
-      iv. taking actions consistent with commonly accepted industry practices reasonably believed to ensure that no unauthorized person will have access to the personal information contained in the records.
-
-
-
-
-
-
-*§ 20-615 Rules.* ::
-
-
-The commissioner may make and promulgate such rules and regulations as he or she may deem necessary for the proper implementation and enforcement of this subchapter.
-
-
-
-
-
-
-*§ 20-616 Penalties.* ::
-
-
-1. Any person who violates the provisions of this subchapter shall be guilty of a violation punishable by a fine of not less than one hundred dollars and not more than two hundred fifty dollars.
-
-2. Any person violating this subchapter shall be subject to a civil penalty of not less than one hundred dollars and not more than two hundred fifty dollars. A proceeding to recover any civil penalty pursuant to this subchapter shall be commenced by the service of a notice of hearing that shall be returnable to the administrative tribunal of the department.
-
-3. Any person who subsequently violates this subchapter within a period of one year of the date of the first violation shall be guilty of a violation, punishable by a fine not less than five hundred dollars.
-
-
-
-
-
-
-
-**Subchapter 3: Language Assistance Services In Pharmacies***
-
-
-
-*§ 20-620 Definitions.* ::
-
-
-For the purposes of this subchapter, the following terms shall have the following meanings:
-
-a. "Chain pharmacy" shall mean any pharmacy that is part of a group of four or more establishments that (1) conduct business under the same business name or (2) operate under common ownership or management or pursuant to a franchise agreement with the same franchisor.
-
-b. "Competent oral interpretation" shall mean oral communication in which (1) a person acting as an interpreter comprehends a spoken message and re-expresses that message accurately in another language, utilizing all necessary pharmaceutical- and health-related terminology; (2) a bilingual pharmacy staff member communicates proficiently with an LEP individual in the LEP individual's primary language utilizing all necessary pharmaceutical- and health-related terminology; or (3) a person acting as an interpreter or a bilingual pharmacy staff member accurately translates a written document orally for an LEP individual utilizing all necessary pharmaceutical- and health-related terminology.
-
-c. "Competent translation" shall mean written communication in which a person or device translates a written message and re-writes that message accurately in another language.
-
-d. "Language assistance services" shall mean competent oral interpretation and/or competent translation provided to a limited English proficient individual in his or her primary language to ensure that such individual understands medication labels, warning labels and instructions for drug usage.
-
-e. "Limited English proficient individual" or "LEP individual" shall mean an individual who identifies as being, or is evidently, unable to speak, read or write English at a level that permits such individual to understand health-related and pharmaceutical information communicated in English.
-
-f. "Other written material" shall mean any written material other than a prescription label or warning label that the pharmacy considers vital to an LEP individual's safe and effective use of prescription medications.
-
-g. "Pharmacy" shall mean any retail establishment that is located within the city of New York in which prescription drugs are sold.
-
-h. "Pharmacy primary languages" shall mean the top seven languages spoken by LEP individuals in New York city, as determined biennially by the department of city planning based on data from the American Community Survey and made available to each chain pharmacy.
-
-i. "Primary language" shall mean the language identified by an LEP individual as the language to be used in communicating with such individual.
-
-
-
-
-
-
-*§ 20-621 Provision of interpretation services required.* ::
-
-
-a. Every chain pharmacy shall provide free, competent oral interpretation services to each LEP individual filling a prescription at such chain pharmacy in the LEP individual's primary language for the purposes of counseling such individual about his or her prescription medications or when soliciting information necessary to maintain a patient medication profile, unless the LEP individual is offered and refuses such services.
-
-b. Every chain pharmacy shall provide free, competent oral interpretation of prescription medication labels, warning labels and other written material to each LEP individual filling a prescription at such chain pharmacy, unless the LEP individual is offered and refuses such services.
-
-c. The services required by this section may be provided by a staff member of the pharmacy or a third-party paid or volunteer contractor. Such services must be provided on an immediate basis but need not be provided in-person or face-to-face in order to meet the requirements of this section.
-
-
-
-
-
-
-*§ 20-622 Provision of translation services required.* ::
-
-
-Every chain pharmacy shall provide free, competent translation of prescription medication labels, warning labels and other written material to each LEP individual filling a prescription at such chain pharmacy if that individual's primary language is one of the pharmacy primary languages, in addition to providing such labels and materials in English. Nothing in this section shall prohibit a chain pharmacy from providing dual- or multi-language medication labels, warning labels or other written materials to LEP individuals who speak one of the pharmacy primary languages if one of the languages included on such labels or sheets is the LEP individual's primary language.
-
-
-
-
-
-
-*§ 20-623 Notification relating to language assistance services.* ::
-
-
-a. Every chain pharmacy shall conspicuously post, at or adjacent to each counter over which prescription drugs are sold, a notification of the right to free language assistance services for limited English proficient individuals as provided for in sections 20-621 and 20-622 of this subchapter. Such notifications shall be provided in all of the pharmacy's primary languages. The size, style and placement of such notice shall be determined in accordance with rules promulgated by the department.
-
-
-
-
-
-
-*§ 20-624 Penalties.* ::
-
-
-a. Any chain pharmacy that violates the provisions of sections 20-621 or 20-622 of this subchapter or any rules promulgated pursuant to such sections shall be liable for a civil penalty of not less than two hundred fifty dollars nor more than two thousand five hundred dollars for the first violation and for each succeeding violation a civil penalty of not less than five hundred dollars nor more than five thousand dollars.
-
-b. Any chain pharmacy that violates the provisions of section 20-623 of this subchapter or any rules promulgated pursuant to such section shall be liable for a civil penalty of not less than two hundred dollars nor more than five hundred dollars for the first violation and for each succeeding violation a civil penalty of not less than three hundred dollars nor more than one thousand dollars.
-
-
-
-
-
-
-*§ 20-625 Hearing authority.* ::
-
-
-a. Notwithstanding any other provision of law, the department shall be authorized upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter and any rules promulgated thereunder. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-624 of this subchapter for each such violation. All proceedings authorized pursuant to this section shall be conducted in accordance with rules promulgated by the commissioner. The penalties provided for in section 20-624 of this subchapter shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
-
-b. All such proceedings shall be commenced by the service of a notice of violation returnable to the administrative tribunal of the department. The commissioner shall prescribe the form and wording of notices of violation. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged, and, if sworn to or affirmed, shall be prima facie evidence of the facts contained therein.
-
-
-
-
-
-
-
-**Subchapter 4: Hamburgers and Chopped Meat**
-
-
-
-*§ 20-667 Definitions.* ::
-
-
-Whenever used in this subchapter "hamburger" shall mean chopped fresh beef with or without the addition of beef fat, and of seasoning.
-
-
-
-
-
-
-*§ 20-668 Standard for hamburger.* ::
-
-
-It shall be unlawful for any person to sell or offer for sale meat as hamburger unless it shall consist of chopped fresh beef with or without the addition of beef fat, or of seasoning, and in no case shall it contain more than thirty percent of beef fat.
-
-
-
-
-
-
-*§ 20-669 Labeling of chopped meat.* ::
-
-
-It shall be unlawful for any person to sell or offer for sale meat chopped in advance of sale as chopped meat unless it is labeled specifically to state the types of meat which it contains, and in no case shall such chopped meat contain more than thirty percent of fat.
-
-
-
-
-
-
-*§ 20-670 Sale of meat ground upon request by customer.* ::
-
-
-All meats purchased, whether prepackaged or cut to order, and then requested by customer to be ground on the premises, shall be ground in a meat grinder which shall be in clear and unobstructed view of the public.
-
-
-
-
-
-
-*§ 20-671 Violations.* ::
-
-
-A violation of any of the provisions of this subchapter shall be punishable by a fine of not less than twenty-five dollars nor more than two hundred fifty dollars for each offense, or by imprisonment not in excess of ten days, or both.
-
-
-
-
-
-
-
-**Subchapter 5: Sales of Petroleum Products**
-
-
-
-*§ 20-672 Price displays.* ::
-
-
-a. Except as provided in subdivision five of section one hundred ninety-two of the agriculture and markets law, it shall be unlawful for any person, in connection with the sale or offer for sale at retail of any petroleum products for use in motor vehicles or motor boats, to post or maintain at such place of sale any sign, placard or other display that states the price at which such petroleum products are sold or offered for sale, except as follows:
-
-   1. The price on such sign, placard or other display shall be stated by the unit of the measure at which such petroleum products are customarily sold at retail and shall include all applicable taxes;
-
-   2. The name, trade name, brand, mark or symbol, and grade or quality classification, if any, and method of processing of such petroleum products shall be clearly stated on such sign, placard or other display, and, if such petroleum products are sold without identification by name, trade name, brand, mark or symbol, such sign, placard or other display shall refer clearly to such petroleum products as unbranded;
-
-   3. In relation to the sale of gasoline for use in motor vehicles or motor boats, the price for the lowest grade of gasoline offered for sale shall be stated; and
-
-   4. Where the price for purchases made with cash or other specified form of payment is less than the price for purchases made with any other form of payment, such sign, poster, or placard shall state the price for each type of accepted payment.
-
-b. A retail dealer shall only sell petroleum products at the price stated on any sign, placard or other display subject to subdivision a of this section. It shall be unlawful to raise the price stated on any sign, placard or other display subject to subdivision a of this section for at least 24 hours.
-
-c. All numbers referring to price shall be the same height, width and thickness. Identification of the petroleum products offered for sale, and any non-numerical language distinguishing the prices charged for different forms of payment shall be in letters and numbers not less than one-half of the height, width and thickness of the numbers referring to price. Letters and numbers shall be black on a white background or displayed on an illuminated light-emitting diode sign.
-
-d. Price per gallon indicator. Except as otherwise provided in article sixteen of the agriculture and markets law or in any rule or regulations promulgated thereunder, every gasoline or diesel motor fuel dispensing device shall be equipped with a price per gallon indicator that shall correspond with the price per gallon stated on any sign, placard or other display subject to subdivision a of this section.
-
-e. Price indicator. Every gasoline or diesel motor fuel dispensing device shall be equipped with a total delivery indicator that shall record the correct price computed on the basis of the stated price per gallon and number of gallons delivered.
-
-f. Notwithstanding the foregoing, subdivisions a, b and c of this section shall not apply to the posting of information and labeling of dispensing devices with respect to the lead content of gasoline for motor vehicles, which shall be governed by the provisions of subdivision d and e of section 20-673.1 of this subchapter and any rules or regulations promulgated thereunder, and subdivisions a, b and c of this section shall not apply to the posting of information and labeling of dispensing devices with respect to the octane rating of gasoline for motor vehicles, which shall be governed by the provisions of subdivision d of section 20-673.2 of this subchapter and any rules or regulations promulgated thereunder.
-
-
-
-
-
-
-
-
-*§ 20-672.1 Sales Record Keeping Requirements.* ::
-
-
-a. Every retail dealer of petroleum products shall maintain a daily sales record of all petroleum products for which prices are required to be posted as provided in section 20-672. Such records shall document the total volume of each such type of product sold each day, the unit price and the total daily amount of sales for each such type of product, and the date and time when a change to the price posting specified in section 20-672 was made.
-
-b. All records required to be maintained shall be preserved in a manner that ensures their security and accessibility for inspection by the department for a period of one year.
-
-c. All records required to be maintained shall be kept in chronological order, either in writing or electronically, and shall be available for inspection by the department as follows:
-
-   1. Records maintained in writing shall be retained at the premises where sales are made for each of the immediately preceding thirty days. Such records shall be made available on demand to the department at such premises. The records required to be kept for the period beyond the immediately preceding thirty days shall be presented at the offices of the department within five business days after demand to produce them has been served on a retail dealer.
-
-   2. Records maintained electronically shall be retained on the premises in a manner that displays the data for the entire period for which the electronic data system retains such data to permit an inspector to view it on demand on the device, and if such period is for less than the immediately preceding thirty days, then the data must be provided on demand in a chronologically ordered print-out for the full thirty days. A complete and accurate print out of the electronically maintained records that are required to be kept for the period beyond the immediately preceding thirty days shall be presented at the offices of the department within five business days after demand to produce them has been served on a retail dealer.
-
-
-
-
-
-
-*§ 20-673 Fraudulent practices prohibited.* ::
-
-
-It shall be unlawful for any person to sell or offer for sale gasoline or other petroleum products for use in motor vehicles or motor boats in any manner so as to deceive or tend to deceive the purchaser as to the price, nature, quality or identity thereof; provided, however, that this section shall not apply to the prohibition of deceptive practices involving the representation of gasoline for motor vehicles as unleaded, which shall be governed by the provisions of section 20-673.1 of this subchapter and any rules or regulations promulgated thereunder, and provided, further, that this section shall not apply to the prohibition of deceptive practices involving the certification, display or representation of the octane rating of gasoline for motor vehicles, which shall be governed by the provisions of section 20-673.2 of this subchapter and any rules or regulations promulgated thereunder. It shall be unlawful for any person to sell or offer for sale from any pump, dispensing devices or container any gasoline or other petroleum products other than gasoline or other petroleum products manufactured or distributed by the manufacturer or distributor marketing such gasoline or other petroleum products under the name, trade name, brand, symbol or mark affixed to or contained on such pump, dispensing device or container, or to substitute, mix or adulterate gasoline or other petroleum products sold or offered for sale under a name, trade name, brand, symbol or mark.
-
-
-
-
-
-
-*§ 20-673.1 Sale of unleaded gasoline.* ::
-
-
-a. Definitions. For purposes of this section, the following terms shall have the following meanings:
-
-   1. "Distributor" shall mean any person who transports or stores or causes the transportation or storage of gasoline at any point between any plant at which gasoline is produced and any retail outlet or facility of a wholesale purchaser-consumer.
-
-   2. "Gasoline" shall mean any fuel sold for use in motor vehicles and motor vehicle engines, and commonly or commercially known or sold as gasoline.
-
-   3. "Lead additive" shall mean any substance containing lead or lead compounds.
-
-   4. "Leaded gasoline" shall mean gasoline which is produced with the use of any lead additive or which contains more than five one hundredths of a gram of lead per gallon or more than five one thousandths of a gram of phosphorus per gallon.
-
-   5. "Refiner" shall mean any person who owns, leases, operates, controls or supervises a plant at which gasoline is produced.
-
-   6. "Reseller" shall mean any person who purchases gasoline identified by the corporate, trade or brand name of a refiner from such refiner or a distributor and resells or transfers it to retailers or wholesale purchaser-consumers displaying the refiner's brand, and whose assets or facilities are not substantially owned, leased or controlled by such refiner.
-
-   7. "Retail outlet" shall mean any establishment at which gasoline is sold or offered for sale for use in motor vehicles.
-
-   8. "Retailer" shall mean any person who owns, leases, operates, controls, or supervises a retail outlet.
-
-   9. "Unleaded gasoline" shall mean gasoline which is produced without the use of any lead additive and which contains not more than five one hundredths of a gram of lead per gallon and not more than five one thousandths of a gram of phosphorus per gallon.
-
-   10. "Wholesale purchaser-consumer" shall mean any organization that is an ultimate consumer of gasoline and which purchases or obtains gasoline from a supplier for use in motor vehicles and receives delivery of that product into a storage tank of at least five hundred fifty gallon capacity substantially under the control of that organization.
-
-b. No distributor shall sell or transfer to any other distributor, retailer or wholesale purchaser-consumer any gasoline which is represented to be unleaded unless such gasoline meets the defined requirements for unleaded gasoline set forth in subdivision a of this section.
-
-c. No retailer or employee or agent of a retailer, and no wholesale purchaser-consumer or employee or agent of a wholesale purchaser-consumer, shall sell, dispense or offer for sale gasoline represented to be unleaded unless such gasoline meets the defined requirements for unleaded gasoline set forth in subdivision a of this section.
-
-d. Every retailer and wholesale purchaser-consumer shall affix to each gasoline pump stand in a location so as to be readily visible to the employees of such retailer or wholesale purchaser-consumer and to person* operating motor vehicles into which gasoline is to be dispensed a permanent legible label as follows: (i) for gasoline pump stands containing pumps for introduction of unleaded gasoline into motor vehicles, the label shall state: "Unleaded gasoline"; and (ii) for gasoline pump stands containing pumps for introduction of leaded gasoline into motor vehicles, the label shall state: "Contains lead anti-knock compounds"; provided, however, that where more than one grade of unleaded gasoline is offered for sale at a retail outlet, compliance with this subdivision is required for only one grade.
-
-e. Notwithstanding any other provisions of law to the contrary, in any proceeding to adjudicate a violation of subdivision d of this section, a retailer or wholesale purchaser-consumer may be found not to be liable for violation thereof where it is shown that more than one grade of gasoline is dispensed from a gasoline pump or pump stand and it is demonstrated to the satisfaction of the commissioner that an alternative system of labeling furthers the objectives of such subdivision.
-
-f. Any violation of subdivision c of this section by a retailer or wholesale purchaser-consumer shall also be deemed a violation by:
-
-   (1) the reseller, if any, and the refiner, where the corporate, trade or brand name of such refiner or any of its marketing subsidiaries appears on the pump stand or is displayed at the retail outlet or wholesale purchaser-consumer facility from which the gasoline was sold, dispensed or offered for sale. Except as provided in subdivision g of this section, the refiner shall be deemed in violation of subdivision c of this section irrespective of whether any other refiner, distributor, retailer or wholesale purchaser-consumer may have caused or permitted the violation; or
-
-   (2) the distributor who sold such retailer or wholesale purchaser-consumer gasoline contained in the storage tank which supplied the pump from which the gasoline was sold, dispensed or offered for sale which gave rise to the violation, where the corporate, trade or brand name of a refiner or any of its marketing subsidiaries does not appear on the pump stand and is not displayed at the retail outlet or wholesale purchaser-consumer facility from which the gasoline was sold, dispensed or offered for sale.
-
-g. (1) In any case in which a retailer or wholesale purchaser-consumer and any refiner or distributor would be in violation or be deemed in violation of subdivision c of this section, the retailer or wholesale purchaser-consumer shall not be liable if he or she can demonstrate that the violation was not caused by such retailer or wholesale purchaser-consumer or his or her employee or agent.
-
-   (2) In any case in which a retailer or wholesale purchaser-consumer would be in violation of subdivision c of this section, and a reseller, if any, and any refiner would be deemed in violation under paragraph one of subdivision f of this section, the refiner shall not be deemed in violation if he or she can demonstrate:
-
-      (a) that the violation was not caused by such refiner or his or her employee or agent, and
-
-      (b) that the violation was caused by an act in violation of any law, other than the provisions of this section, or an act of sabotage, vandalism, or deliberate commingling of leaded and unleaded gasoline, whether or not such acts are violations of law in the jurisdiction where the violation of the requirements of this section occurred, or
-
-      (c) that the violation was caused by the action of a reseller or a retailer supplied by such reseller, in violation of a contractual undertaking imposed by the refiner on such reseller designed to prevent such action, and despite reasonable efforts by the refiner to insure compliance with such contractual obligation, such as periodic sampling, or
-
-      (d) that the violation was caused by the action of a retailer who is supplied directly by the refiner and not by a reseller, in violation of a contractual undertaking imposed by the refiner on such retailer designed to prevent such action, and despite reasonable efforts by the refiner to insure compliance with such contractual obligation, such as periodic sampling, or
-
-      (e) that the violation was caused by the action of a distributor subject to a contract with the refiner for transportation of gasoline from a terminal to a distributor, retailer or wholesale purchaser-consumer, in violation of a contractual undertaking imposed by the refiner on such distributor designed to prevent such action, and despite reasonable efforts by the refiner to insure compliance with such contractual obligation, such as periodic sampling, or
-
-      (f) that the violation was caused by a distributor (such as a common carrier) not subject to a contract with the refiner but engaged by him or her for transportation of gasoline from a terminal to a distributor, retailer or wholesale purchaser-consumer, despite reasonable efforts by the refiner to prevent such action, such as specification or inspection of equipment, or
-
-      (g) that the violation occurred at a wholesale purchaser-consumer facility; provided, however, that if such wholesale purchaser-consumer was supplied by a reseller, the refiner must demonstrate that the violation could not have been prevented by such reseller's compliance with a contractual undertaking imposed by the refiner on such reseller as provided in subparagraph c of this paragraph.
-
-(h) For purposes of subparagraphs (b) through (f) of this paragraph, the term "was caused" means that the refiner must demonstrate by reasonably specific showings by direct or circumstantial evidence that the violation was caused or must have been caused by another.
-
-   (3) In any case in which a retailer or wholesale purchaser-consumer would be in violation of subdivision c of this section, and a reseller and any refiner would be deemed in violation under paragraph one of subdivision f of this section, the reseller shall not be deemed in violation if he or she can demonstrate that the violation was not caused by such reseller or his or her employee or agent.
-
-   (4) In any case in which a retailer or wholesale purchaser-consumer would be in violation of subdivision c of this section, and any distributor would be deemed in violation under paragraph two of subdivision f of this section, the distributor will not be deemed in violation if he or she can demonstrate that the violation was not caused by such distributor or his or her employee or agent.
-
-
-
-
-
-
-*§ 20-673.2 Certification, display and representation of octane rating.* ::
-
-
-a. For purposes of this section, the following terms shall have the following meanings:
-
-   1. "Gasoline" shall mean gasoline of a type distributed for use as a fuel in any motor vehicle.
-
-   2. "Distributor" shall mean any person who receives gasoline and distributes such gasoline to another person other than the ultimate purchaser.
-
-   3. "Retailer" shall mean any person who markets gasoline to the general public for ultimate consumption.
-
-   4. "Knock" shall mean the combustion of a fuel spontaneously in localized areas of a cylinder of a spark-ignition engine, instead of the combustion of such fuel progressing from the spark.
-
-   5. "Octane rating" shall mean the rating of the anti-knock characteristics of a grade or type of gasoline as determined by dividing by two the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under paragraph three of 15 U.S.C. § 2823(c), in which case such term shall mean the rating of such characteristics as determined under the procedure so prescribed.
-
-   6. "Refiner" shall mean any person engaged in the refining of crude oil to produce gasoline or the importation of gasoline.
-
-   7. "Research octane number" and "motor octane number" shall have the meaning given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled "Standard Specifications for Automotive Gasoline" designated D 439 and, with respect to any grade or type of gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700, or such other meaning given such terms in any regulations promulgated by the federal trade commission pursuant to 15 U.S.C. § 2823.
-
-   8. "Ultimate purchaser" shall mean, with respect to any item, the first person who purchases such item for purposes other than resale.
-
-b. Each refiner who distributes gasoline shall:
-
-   (1) determine the octane rating of any such gasoline; and
-
-   (2) if such refiner distributes such gasoline to any person other than the ultimate purchaser, certify, consistent with the determination made under paragraph one of this subdivision, the octane rating of such gasoline.
-
-c. Each distributor who receives gasoline, the octane rating of which is certified to the distributor under this section, and distributes such gasoline to another person other than the ultimate purchaser shall certify to such other person the octane rating of such gasoline consistent with:
-
-   (1) the octane rating of such gasoline certified to such distributor; or
-
-   (2) if such distributor elects, in accordance with the regulations of the federal trade commission, the octane rating of such gasoline determined by such distributor.
-
-d. Each retailer shall display at the point of sale to ultimate purchasers of gasoline, the octane rating of such gasoline, in accordance with the posting requirements and label specifications to be prescribed by the commissioner by regulation. Such octane rating shall be consistent with:
-
-   (1) the octane rating of such gasoline certified to such retailer under paragraph two of subdivision b of this section or under subdivision c of this section;
-
-   (2) if such retailer elects, in accordance with the regulations of the federal trade commission, the octane rating of such gasoline determined by such retailer for such gasoline; or
-
-   (3) if such retailer is a refiner, the octane rating of such gasoline determined under paragraph one of subdivision b of this section.
-
-e. No person who distributes gasoline may make any representation respecting the anti-knock characteristics of such gasoline unless such representation fairly discloses the octane rating of such gasoline consistent with such gasoline's octane rating as certified to, or determined by, such person under the foregoing subdivisions of this section.
-
-f. For purposes of this section, the octane rating of any gasoline shall be considered to be certified, displayed or represented by any person consistent with the rating certified to, or determined by, such person:
-
-   (1) in the case of gasoline which consists of a blend of two or more quantities of gasoline of differing octane ratings, only if the rating certified, displayed or represented by such person is the average of the octane ratings of such quantities, weighted by volume; or
-
-   (2) in the case of gasoline which does not consist of such a blend, only if the octane rating such person certifies, displays or represents is the same as the octane rating of such gasoline certified to, or determined by, such person.
-
-
-
-
-
-
-*§ 20-673.3 Inspection, investigation; recordkeeping.* ::
-
-
-a. The commissioner or the commissioner's designee, upon presentation of appropriate credentials, shall be authorized to enter upon or through the business premises of any person who sells or offers for sale gasoline or other petroleum products for use in motor vehicles or motor boats or any place where such gasoline or petroleum products is stored, for the purposes of making inspections, taking samples and conducting tests to determine compliance with the provisions of this subchapter or any rules* or regulation promulgated hereunder.
-
-b. Whenever the commissioner has reason to believe that a violation of this subchapter or any rule or regulation has occurred, he or she shall be authorized to make such investigation as he or she shall deem necessary, and to the extent necessary for this purpose, he or she may examine any person and may compel the production of all relevant records.
-
-c. Any person subject to the provisions of this subchapter shall maintain such written records as the commissioner may prescribe by regulation.
-
-
-
-
-
-
-*§ 20-674 Violations.* ::
-
-
-a. (1) Any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, shall be guilty of a misdemeanor punishable by a fine of not less than five hundred dollars nor more than ten thousand dollars, or by imprisonment for not more than thirty days, or by both such fine and imprisonment.
-
-   (2) Any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, who has been found guilty of a violation of any such sections or such rules or regulations two times within the preceding twenty-four month period shall be guilty of a misdemeanor punishable by a fine of not less than one thousand dollars nor more than fifteen thousand dollars, or by imprisonment for not more than ninety days, or by both such fine and imprisonment.
-
-   (3) In addition to the penalties prescribed by paragraph one of subdivision a of this section, any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, shall be liable for a civil penalty of not less than five hundred dollars nor more than ten thousand dollars.
-
-   (4) In addition to the penalties prescribed by paragraph two of subdivision a of this section, any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, who has been found guilty of a violation of any such sections or such rules or regulations two times within the preceding twenty-four month period shall be liable for a civil penalty of not less than one thousand dollars nor more than fifteen thousand dollars.
-
-b. Any person who violates the provisions of section 20-673.1 of this subchapter or any rules or regulations promulgated thereunder shall be liable for a civil penalty of not less than five hundred dollars nor more than ten thousand dollars.
-
-c. (1)    If, after providing due notice and an opportunity to be heard, the commissioner finds that a person has violated any of the provisions of section 20-673.2 of this subchapter or any rule or regulation promulgated thereunder, he or she shall be authorized to issue and serve upon such person an order requiring such person to cease and desist from engaging in the prohibited activity. Such order shall become final (i) upon the expiration of the time allowed for filing any administrative appeal which may be available and for commencing a proceeding pursuant to article seventy-eight of the civil practice law and rules or (ii) upon the exhaustion of all appeals arising out of the proceedings described in item (i) of this paragraph. Any person who violates an order of the commissioner issued hereunder after it has become final shall be liable for a civil penalty of not less than five hundred dollars nor more than ten thousand dollars for each violation.
-
-   (2) Any person who violates the provisions of section 20-673.2 of this subchapter or any rules or regulations promulgated thereunder with actual knowledge or knowledge fairly implied on the basis of objective circumstances that the act or practice underlying the violation is unfair or deceptive shall be liable for a civil penalty of not less than five hundred dollars nor more than ten thousand dollars; provided, however, that in order for any retailer to be held liable under this paragraph for violating any of the provisions of subdivisions d or e of such section 20-673.2, such retailer shall be shown to have had actual knowledge that the act or practice underlying the violation is unfair or deceptive. In determining the amount of any civil penalty imposed under this paragraph, the following shall be considered: the degree of culpability; any history of prior such conduct; ability to pay; effect on ability to continue to do business; and such other matters as justice may require.
-
-d. In the case of a violation through continuing failure to comply with any of the provisions of this subchapter, any rules or regulations promulgated thereunder, or any order of the commissioner issued pursuant to subdivision c of this section, each day of the continuance of such failure shall be treated as a separate violation.
-
-e. The civil penalties prescribed by the provisions of this section may be imposed by the commissioner after due notice and an opportunity to be heard have been provided or may be recovered in a civil action in the name of the city, commenced in a court of competent jurisdiction. In any civil action commenced to recover civil penalties for violation of a final order of the commissioner issued pursuant to subdivision c of this section, the supreme court of New York is empowered to grant such injunctive or equitable relief as the court deems appropriate in the enforcement of such final order.
-
-f. Notwithstanding the foregoing, the commissioner shall cause to be published in the City Record once each month the name and business location of any person, firm or corporation that has been found to have violated any provision of sections 20-673.1 or 20-673.2 during the month immediately preceding.
-
-
-
-
-
-
-*§ 20-675 Rules and regulations.* ::
-
-
-The commissioner shall have the authority to promulgate such rules and regulations as the commissioner shall deem necessary to effectuate the purpose of this subchapter, including but not limited to the size, the composition, the type size to be used for lettering, and the placement of signs which are provided for in section 20-672 of this subchapter.
-
-
-
-
-
-
-
-**Subchapter 6: Sale of Meats**
-
-
-
-*§ 20-676 Definitions.* ::
-
-
-As used in this subchapter, the following terms shall mean and include:
-
-(a) "Pickled." Preserved by soaking in a curing solution.
-
-(b) "Pumped." Injected with a curing solution through the veins, arteries or muscular structure.
-
-(c) "Curing solution." A liquid solution for the pickling or curing of meats.
-
-
-
-
-
-
-*§ 20-677 Sales at retail.* ::
-
-
-It shall be unlawful for any person to sell or offer for sale, at retail, any pickled, pumped, cured, or otherwise processed meats or meat products which shall contain added curing solution or any other liquid more than ten percent, by weight, of the total weight of the meat, except that pickled, pumped, cured, or otherwise processed beef brisket shall not contain more than twenty percent, by weight, of added curing solution or any other liquid.
-
-
-
-
-
-
-*§ 20-678 Sales at wholesale.* ::
-
-
-It shall be unlawful for any person to sell, or offer for sale at wholesale, any pickled, pumped, cured, or otherwise processed meats or meat products which shall contain added curing solution or any other liquid more than ten percent, by weight, of the total weight of the meat, except that pickled, pumped, cured, or otherwise processed beef brisket shall not contain more than twenty percent, by weight, of added curing solution or any other liquid.
-
-
-
-
-
-
-*§ 20-679 Injection devices.* ::
-
-
-It shall be unlawful for any person to have in or upon any vehicle transporting meat and meat products within the city of New York, any hypodermic, syringe, pump, or other device that can be used for the injection or pumping of any fluid or other substance into the meat.
-
-
-
-
-
-
-*§ 20-680 Labeling of pickled, pumped and cured meats and meat products.* ::
-
-
-All pickled, pumped and cured meat and meat products shall be labeled as to net weight and shall specify the percentage, by weight, of added curing solution.
-
-
-
-
-
-
-*§ 20-681 Punishment.* ::
-
-
-(a) Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
-
-(b) Any person who shall violate any of the provisions of this subchapter shall be guilty of an offense and punishable by a fine of not less than twenty-five dollars nor more than two hundred fifty dollars, for each offense, or by imprisonment for not more than thirty (30) days, or both.
-
-
-
-
-
-
-
-**Subchapter 7: Sale of Prepackaged Meat**
-
-
-
-*§ 20-682 Sales of prepackaged meats.* ::
-
-
-a. It shall be unlawful for any owner, manager, or supervisor of a retail store or any independently operated department within, to sell or offer or expose for sale, at retail any prepackaged unprocessed or untreated fresh or frozen meat unless at least one of the sides with the greatest surface area of the package is colorless and transparent, exclusive of labeling; which labeling shall not occupy more than ten percent of that side of the package, or six and one quarter (6.25) square inches, whichever is greater. This section shall be applicable solely in those cases where the packaging is performed on the premises of the sale. This section shall not apply to the sale of ground meat.
-
-b. A sign shall be posted at the point of display of any prepackaged unprocessed or untreated fresh or frozen meat, the packaging of which is colorless and transparent on only one side in accordance with the provisions of subdivision a of this section, stating that the retailer shall accept the return of such prepackaged meat found to be unsatisfactory upon the request of a consumer who provides proof of purchase and further stating that the retailer shall either refund the full purchase price or provide a satisfactory replacement for such purchase. The size and wording of such sign shall be determined by rule of the commissioner.
-
-
-
-
-
-
-*§ 20-683 Punishment.* ::
-
-
-Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than five hundred dollars for each violation.
-
-
-
-
-
-
-
-**Subchapter 8: Perishable Foods**
-
-
-
-*§ 20-684 Legislative intent.* ::
-
-
-The council finds that consumers cannot be certain that food offered for sale is fresh or that it will remain fresh for a reasonable period of time after it is purchased. The council particularly recognizes consumer concern with the freshness of foods including, but not limited to, meat, poultry, fish, dairy products, eggs, fruit, vegetables and baked goods. The council further finds that the food industry's practice of controlling food freshness through coded dates has proven inadequate for protection of the public. The council has concluded that a mandatory system of clear and legible dating accompanied by a statement of recommended conditions of storage is the best way to assure consumers of the freshness of the foods that they buy in stores.
-
-
-
-
-
-
-*§ 20-685 Perishable foods.* ::
-
-
-It shall be unlawful to sell or offer for sale any perishable food designated by the commissioner in accordance with section 20-686 hereof unless there is stamped, printed or otherwise plainly and conspicuously marked on the top cover or principal panel of its container or any label affixed thereto the statements indicating recommended conditions and methods of storage, and the fact that it is not to be sold after a clearly specified date for human consumption as food.
-
-
-
-
-
-
-*§ 20-686 Regulations.* ::
-
-
-The commissioner shall promulgate regulations designating those perishable foods which shall come within the scope of section 20-685 of this subchapter wherever the commissioner shall find that because of the nature of the commodity, the mode of packaging or other consideration, such information about the commodity shall be necessary and proper to provide adequate information to the consumer as to the perishable nature of such commodity and conditions of storage.
-
-
-
-
-
-
-*§ 20-687 Powers of the commissioner.* ::
-
-
-(a) The commissioner shall receive and evaluate complaints and initiate his or her own investigations relating to these matters and take appropriate action related thereto including stop-sale and stop-removal orders where necessary and proper.
-
-(b) The commissioner shall have the power after reasonable notice and hearing, to determine the reasonableness of any statement or representation as to the date and conditions of storage affixed pursuant to section 20-685 of this subchapter.
-
-
-
-
-
-
-*§ 20-688 Penalties.* ::
-
-
-Any person, firm, corporation or association or agent or employee thereof, who shall violate any of the provisions of this subchapter or of the regulations promulgated pursuant to section 20-686 shall pay a civil penalty of not less than twenty-five dollars nor more than two hundred fifty dollars for each violation; and shall, upon conviction thereof, be punished by a fine of not less than twenty-five nor more than two hundred fifty dollars for each such violation.
-
-
-
-
-
-
-
-**Subchapter 9: Water Saving Plumbing Fixtures**
-
-
-
-*§ 20-689 Water saving plumbing fixtures.* ::
-
-
-(1) It shall be unlawful for any person to sell or offer for sale any plumbing fixture that does not comply with section 604.4 of the New York city plumbing code.
-
-(2) All product packaging containing such fixtures shall include the following information:
-
-   i. the manufacturer's name or registered trademark and the model number of the fixture or fixtures; and
-
-   ii. the gallon/liter water consumption rate per flush of a water closet or urinal; and
-
-   iii. a. "Water Use Guide" label that is designed for the purpose of educating and promoting water and water-related cost savings; the label shall state the monthly and yearly cost of the fixture based on the average monthly and yearly usage and the cost of water and sewer service per thousand gallons for the range of water rates existing in the city of New York.
-
-
-
-
-
-
-*§ 20-690 Punishment.* ::
-
-
-Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than five hundred dollars for each violation.
-
-
-
-
-
-
-
-**Subchapter 9: Price Displays**
-
-
-
-*§ 20-691 Price displays.* ::
-
-
-a. In any food store which has one or more cash registers with item cost indicators, said indicators shall at all times remain visible to customers making payment for items purchased or for services rendered.
-
-b. Cash registers purchased for use in food stores in the city on and after the effective date of this section shall have item cost indicators and shall comply with the requirements of subdivision a hereof.
-
-c. For the purpose of this section, "food store" shall be defined as a store selling primarily food and food products, cosmetics or toiletries at retail, for consumption or use off the premises.
-
-d. For the purposes of this section, "food" and "food products" shall be defined as all material, solid, liquid or mixed, whether simple or compound, used or intended for consumption by human beings or domestic animals normally kept as household pets and all substances or ingredients to be added thereto for any purpose.
-
-e. For the purposes of this section, "cash register" shall be defined as any business machine designed for the prupose of, or which may be used for, the aggregation of several items or units of measure in number form as a total selling price. Cash register shall include, but not be limited to, devices which have a cash drawer or other cash receptacle or depository.
-
-f. For the purposes of this section "item cost indicators" shall be defined as any indicator either built in to a cash register or appurtenant thereto, which mechanically or electronically, or in any other way, indicates or displays the price charged for each item or unit of measure purchased.
-
-
-
-
-
-
-*§ 20-692 Punishment.* ::
-
-
-Any person who shall violate any of the provisions of subdivisions a or b of section 20-691 shall be subject to a civil penalty of not less than one hundred dollars nor more than one hundred fifty dollars for each violation.
-
-b. Each day a violation is continued shall constitute a separate violation.
-
-
-
-
-
-
-*§ 20-693 Rules and regulations.* ::
-
-
-The commissioner shall promulgate such rules and regulations as he or she shall deem necessary to effectuate the purposes of this subchapter.
-
-
-
-
-
-
-
-**Subchapter 10: thermal-shock Protection Devices**
-
-
-
-*§ 20-694 Thermal-Shock Protection Devices.* ::
-
-
-It shall be unlawful for any person to distribute, sell, offer for sale or import any water supply control valve which does not meet the standards of subdivision P107.6 of section P107.0 of the appendix to chapter one of title twenty-seven of this code.
-
-
-
-
-
-
-*§ 20-695 Penalty.* ::
-
-
-Any person who shall violate any of the provisions of this subchapter shall be subject to a civil penalty of not less than one hundred dollars nor more than five hundred dollars for each violation.
-
-
-
-
-
-
-
-**Subchapter 11: Gauges Utilizing Mercury**
-
-
-
-*§ 20-696 Gauges Utilizing Mercury.* ::
-
-
-It shall be unlawful for any person to distribute, sell or offer for sale any gauge that utilizes mercury to test the pressure of gas piping, drainage or vent systems or for any person to distribute, sell or offer for sale replacement mercury for use in such gauges.
-
-
-
-
-
-
-*§ 20-697 Penalty.* ::
-
-
-Any person who shall violate any of the provisions of this subchapter shall be subject to a civil penalty of not less than two hundred fifty dollars nor more than one thousand dollars for each violation.
-
-
-
-
-
-
-
-**Subchapter 12: Endangered Or Threatened Species**
-
-
-
-*§ 20-698 Definitions.* ::
-
-
-Whenever used in this subchapter:
-
-a. "Endangered or threatened species" shall mean any fish or wildlife family, genus, species, subspecies or population that is designated by or pursuant to New York law as endangered or threatened.
-
-b. "Fish or wildlife" shall mean any member of the animal kingdom, including without limitation any mammal, fish, bird, amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or parts thereof.
-
-c. "Population" shall mean a group of fish or wildlife of the same species or subspecies inhabiting a defined geographical area.
-
-
-
-
-
-
-*§ 20-699 Prohibition.* ::
-
-
-a. Except with a federal or state permit or license or under any exception under federal or state law, it shall be unlawful to buy or sell, offer or attempt to buy or sell, or cause any person to buy or sell:
-
-   (1) any product, item, or substance described in an offer for sale, labeled, or advertised as derived from any endangered or threatened species, or described in an offer for sale, labeled, or advertised as containing any substance derived from any endangered or threatened species; or
-
-   (2) any product, item, or substance that is intended for human consumption or application and is described in an offer for sale, labeled, or advertised as derived from any species of rhinoceros or tiger, or described in an offer for sale, labeled, or advertised as containing any substance derived from any species of rhinoceros or tiger; or
-
-   (3) any species described in an offer for sale, labeled, or advertised as any endangered or threatened species.
-
-b. It shall be unlawful to include false or misleading information in any offer for sale, label, or advertisement for any endangered or threatened species or any product, item, or substance derived from or containing any substance derived from any endangered or threatened species. For the purposes of this subchapter, any omission of or failure to state a material fact shall be considered inclusion of false or misleading information.
-
-c. The prohibitions of this subchapter shall apply to any offer for sale, label or advertisement that refers to any endangered or threatened species by its common name or by its scientific name.
-
-
-
-
-
-
-*§ 20-699.1 Publication of endangered and threatened species list.* ::
-
-
-No later than April 1, 2005, and at least annually thereafter, the commissioner shall publish a list using the department's website for the purpose of ensuring compliance by merchants with the provisions of this subchapter. Such list shall include guidance regarding the identification of any fish or wildlife family, genus, species, subspecies or population designated by or pursuant to New York law as endangered or threatened and shall also separately specify whether all populations of any family or genus so identified are designated as endangered or threatened by or pursuant to New York law. Such list shall be published in English and Chinese.
-
-
-
-
-
-
-*§ 20-699.2 Penalties.* ::
-
-
-Any person that violates any provision of section 20-699 after October 1, 2005 shall be subject to a civil penalty of not more than five hundred dollars for the first violation and each additional violation occurring on the same day as the first violation, and not less than five hundred dollars nor more than one thousand five hundred dollars for each subsequent violation occurring within a period of twenty-four months.
-
-
-
-
-
-
-*§ 20-699.3 Seizure and forfeiture.* ::
-
-
-Any product, item, substance, or species bought or sold, or attempted to be bought or sold, after October 1, 2005 in violation of section 20-699 or any regulation issued pursuant to this subchapter shall be subject to forfeiture upon notice and judicial determination.
-
-
-
-
-
-
-*§ 20-699.4 Rules.* ::
-
-
-The commissioner shall have the authority to promulgate such rules and regulations as the commissioner shall deem necessary to implement the provisions of this subchapter.
-
-
-
-
-
-
-*§ 20-699.5 Enforcement.* ::
-
-
-The commissioner and the members of the police department shall have the authority to enforce this subchapter.
-
-
-
-
-
-
-*§ 20-699.6 Hearing authority.* ::
-
-
-Notwithstanding any other provision of law, the department shall be authorized, after October 1, 2005, upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-699.2 of this subchapter for each such violation. All proceedings authorized pursuant to this subdivision shall be conducted in accordance with rules promulgated by the commissioner. The remedies and penalties provided for in this subdivision shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
-
-(2)*   All such proceedings shall be commenced by the service of a notice of violation returnable to the administrative tribunal of the department. The commissioner shall prescribe the form and wording of notices of violation. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged, and, if sworn to or affirmed, shall be prima facie evidence of the facts contained therein. In addition to serving the notice on the person being charged, where written authorization is filed with the department, the department shall deliver by first class mail a copy of the notice to the corporate headquarters or wholesale supplier of such person.
-
-* Editor's note: so in original; there is no subdivision (1).
-
-
-
-
 Chapter 5: Unfair Trade Practices
 --------------------------------------------------
 
@@ -3961,6 +2962,1005 @@ b. A civil action may be brought by the corporation counsel on behalf of the cit
 c. The corporation counsel may initiate any investigation to ascertain such facts as may be necessary for the commencement of a civil action pursuant to this section, and in connection therewith shall have the power to issue subpoenas to compel the attendance of witnesses and the production of documents, to administer oaths and to examine such persons as are deemed necessary.
 
 
+
+
+
+
+Chapter 4: Regulation of Commodities and Services
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: Dealers In Second-hand Weighing Or Measuring Devices**
+
+
+
+*§ 20-601 License required.* ::
+
+
+It shall be unlawful for any person to engage in or conduct the business of dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices without a permit therefor.
+
+
+
+
+
+
+*§ 20-602 Application for permit.* ::
+
+
+a. Any person before engaging in such business shall file a written application with the commissioner for such permit, stating in such application the location of the place in which such business is to be conducted.
+
+b. Such application shall be in the form prescribed by such commissioner.
+
+c. Such permit shall be granted only to a person of the age of eighteen years or over.
+
+
+
+
+
+
+*§ 20-603 Permit; fee.* ::
+
+
+a. After the filing of such an application, and investigation thereof duly made, the commissioner, if he or she approves of such application, may issue a permit conditioned upon compliance with the provisions of this subchapter and with the rules and regulations of any city agency applicable to such permittee.
+
+b. The fee for such permit for a year, or any portion thereof, shall be sixty dollars, and shall be payable upon the filing of such application.
+
+c. Such permit shall expire on the twenty-eighth day of February next succeeding the date of issuance thereof.
+
+
+
+
+
+
+*§ 20-604 Notice as to repaired devices.* ::
+
+
+Every person engaged in the business of dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices, within five days after the making of a repair, or the sale and delivery of a repaired, rebuilt, or used weighing or measuring device, shall serve notice in writing on the commissioner giving the name and address of the person for whom such repair has been made, or to whom a repaired, rebuilt or used weighing or measuring device has been sold or delivered, and shall include a statement that such device has been so altered, rebuilt or repaired as to conform to the standard specifications and regulations of such department.
+
+
+
+
+
+
+*§ 20-605 Condemned devices; return of tags.* ::
+
+
+Any person who accepts weighing or measuring devices in trade for others shall remove the condemned tags from those devices which have been condemned by the department and which are intended for dismantling or destruction. Such tags shall be returned to the department within five days thereafter, with a statement describing the weighing or measuring device, giving the name and address of the person from whom it was received, and a statement to the effect that it has been dismantled or destroyed.
+
+
+
+
+
+
+*§ 20-606 Records.* ::
+
+
+a. Every person duly registered pursuant to the provisions of this subchapter shall maintain a book or register in which the following information shall be kept:
+
+   1. The name and address of every person for whom weighing or measuring devices are repaired;
+
+   2. The name and address of every person to whom a repaired, rebuilt, or used weighing or measuring device has been sold or delivered.
+
+b. Such books shall be open for inspection at all reasonable times to any police officer, inspector or person duly authorized by the commissioner, or by any judge of the criminal court of the city of New York.
+
+
+
+
+
+
+*§ 20-607 Comparison of testing equipment.* ::
+
+
+All persons dealing in, trading in, selling, receiving or repairing condemned, rebuilt or used weighing or measuring devices, shall submit their testing equipment at least once a year, to the testing station of the department for comparison and calibration with the prime standards maintained by such department, after which the department shall issue to such person a statement or certificate of its findings.
+
+
+
+
+
+
+*§ 20-608 Violations.* ::
+
+
+Any person violating any of the provisions of this subchapter, upon conviction thereof, shall be fined a sum of not more than one hundred dollars for each offense, or by imprisonment not exceeding ten days, or by both, and, in the discretion of the commissioner, shall be liable to have his or her permit suspended, revoked or cancelled.
+
+
+
+
+
+
+
+**Subchapter 2: Charcoal**
+
+
+
+*§ 20-609 Charcoal.* ::
+
+
+All charcoal and charcoal briquettes shall be sold by weight and each container in which charcoal or charcoal briquettes are sold or delivered, shall be plainly and conspicuously marked to show the net quantity of the contents in letters and figures commensurate with the size of the container as shall be determined and fixed by the commissioner, and shall also bear the legend "CAUTION COOK ONLY IN PROPERLY VENTILATED AREAS," or a substantially similar legend as may be approved by the commissioner in a size commensurate with the size of the container and so placed on the container as shall be determined and fixed by the commissioner.
+
+
+
+
+
+
+*§ 20-610 Punishment.* ::
+
+
+(a) Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars ($100) for each violation.
+
+(b) Any person who shall violate any of the provisions of this subchapter shall be guilty of an offense punishable by a fine of not less than twenty-five dollars ($25) nor more than two hundred fifty dollars ($250) for each offense, or by imprisonment for not less than thirty (30) days, or both.
+
+
+
+
+
+
+
+**Subchapter 3: Etching Acid***
+
+
+
+*§ 20-611 Definitions.* ::
+
+
+Whenever used in this subchapter, the following terms shall have the following meanings:
+
+1. "Dealer of etching acid" shall mean any person, firm, partnership, corporation or company that engages in the business of dispensing etching acid.
+
+2. "Dispense" shall mean to dispose of, give away, give, lease, loan, keep for sale, offer, offer for sale, sell, transfer or otherwise dispose of.
+
+3. "Etching acid" shall have the same meaning set forth in subdivision e of section 10-117.
+
+4. "Personal information" shall mean data pertaining to the purchaser of etching acid that may be used to identify such purchaser. Such information shall be limited to the purchaser's name, address, type of identification used in the purchase, identification number, if applicable, the date of purchase and amount of acid dispensed to the purchaser.
+
+5. "Purchasing records" shall mean all written or electronically recorded personal information about a purchaser of etching acid gathered at the time of purchase by a dealer of etching acid as required by this subchapter.
+
+
+
+
+
+
+*§ 20-612 Requirements for purchase or sale.* ::
+
+
+1. Every dealer of etching acid shall request valid photo identification from each purchaser of etching acid at the time of such purchase and contemporaneously record in writing or electronically such purchaser's personal information.
+
+2. No person shall purchase etching acid without first providing his or her personal information to the dealer of etching acid pursuant to this subchapter. It shall be an affirmative defense to a violation of this subdivision that the dealer failed to request personal information from the purchaser of etching acid.
+
+3. It shall be unlawful for any person to dispense etching acid to any person without recording such purchaser's personal information.
+
+
+
+
+
+
+*§ 20-613 Posting notice.* ::
+
+
+Every dealer of etching acid shall conspicuously post at every table, desk or counter where orders are placed and/or payment is made a notice, the form and manner of which are to be provided by rule of the commissioner, indicating that all purchasers of etching acid shall be required to provide valid photo identification and their personal information and such information shall be recorded by the dealer of etching acid prior to purchase.
+
+
+
+
+
+
+*§ 20-614 Records of purchase.* ::
+
+
+1. Purchasing records shall be kept in a secure location and made available only to the commissioner and his or her designee, or a police officer, and shall be used solely for the purposes of enforcement of this subchapter and of state and local anti-graffiti laws and rules.
+
+2. a. Purchasing records shall be kept by dealers of etching acid for one year.
+
+   b. All purchasing records and any other information pertaining to the purchase or sale of etching acid shall be disposed of by the following methods only:
+
+      i. shredding the records before the disposal of the records; or
+
+      ii. destroying the personal information contained in the records; or
+
+      iii. modifying the records to make the personal information unreadable; or
+
+      iv. taking actions consistent with commonly accepted industry practices reasonably believed to ensure that no unauthorized person will have access to the personal information contained in the records.
+
+
+
+
+
+
+*§ 20-615 Rules.* ::
+
+
+The commissioner may make and promulgate such rules and regulations as he or she may deem necessary for the proper implementation and enforcement of this subchapter.
+
+
+
+
+
+
+*§ 20-616 Penalties.* ::
+
+
+1. Any person who violates the provisions of this subchapter shall be guilty of a violation punishable by a fine of not less than one hundred dollars and not more than two hundred fifty dollars.
+
+2. Any person violating this subchapter shall be subject to a civil penalty of not less than one hundred dollars and not more than two hundred fifty dollars. A proceeding to recover any civil penalty pursuant to this subchapter shall be commenced by the service of a notice of hearing that shall be returnable to the administrative tribunal of the department.
+
+3. Any person who subsequently violates this subchapter within a period of one year of the date of the first violation shall be guilty of a violation, punishable by a fine not less than five hundred dollars.
+
+
+
+
+
+
+
+**Subchapter 3: Language Assistance Services In Pharmacies***
+
+
+
+*§ 20-620 Definitions.* ::
+
+
+For the purposes of this subchapter, the following terms shall have the following meanings:
+
+a. "Chain pharmacy" shall mean any pharmacy that is part of a group of four or more establishments that (1) conduct business under the same business name or (2) operate under common ownership or management or pursuant to a franchise agreement with the same franchisor.
+
+b. "Competent oral interpretation" shall mean oral communication in which (1) a person acting as an interpreter comprehends a spoken message and re-expresses that message accurately in another language, utilizing all necessary pharmaceutical- and health-related terminology; (2) a bilingual pharmacy staff member communicates proficiently with an LEP individual in the LEP individual's primary language utilizing all necessary pharmaceutical- and health-related terminology; or (3) a person acting as an interpreter or a bilingual pharmacy staff member accurately translates a written document orally for an LEP individual utilizing all necessary pharmaceutical- and health-related terminology.
+
+c. "Competent translation" shall mean written communication in which a person or device translates a written message and re-writes that message accurately in another language.
+
+d. "Language assistance services" shall mean competent oral interpretation and/or competent translation provided to a limited English proficient individual in his or her primary language to ensure that such individual understands medication labels, warning labels and instructions for drug usage.
+
+e. "Limited English proficient individual" or "LEP individual" shall mean an individual who identifies as being, or is evidently, unable to speak, read or write English at a level that permits such individual to understand health-related and pharmaceutical information communicated in English.
+
+f. "Other written material" shall mean any written material other than a prescription label or warning label that the pharmacy considers vital to an LEP individual's safe and effective use of prescription medications.
+
+g. "Pharmacy" shall mean any retail establishment that is located within the city of New York in which prescription drugs are sold.
+
+h. "Pharmacy primary languages" shall mean the top seven languages spoken by LEP individuals in New York city, as determined biennially by the department of city planning based on data from the American Community Survey and made available to each chain pharmacy.
+
+i. "Primary language" shall mean the language identified by an LEP individual as the language to be used in communicating with such individual.
+
+
+
+
+
+
+*§ 20-621 Provision of interpretation services required.* ::
+
+
+a. Every chain pharmacy shall provide free, competent oral interpretation services to each LEP individual filling a prescription at such chain pharmacy in the LEP individual's primary language for the purposes of counseling such individual about his or her prescription medications or when soliciting information necessary to maintain a patient medication profile, unless the LEP individual is offered and refuses such services.
+
+b. Every chain pharmacy shall provide free, competent oral interpretation of prescription medication labels, warning labels and other written material to each LEP individual filling a prescription at such chain pharmacy, unless the LEP individual is offered and refuses such services.
+
+c. The services required by this section may be provided by a staff member of the pharmacy or a third-party paid or volunteer contractor. Such services must be provided on an immediate basis but need not be provided in-person or face-to-face in order to meet the requirements of this section.
+
+
+
+
+
+
+*§ 20-622 Provision of translation services required.* ::
+
+
+Every chain pharmacy shall provide free, competent translation of prescription medication labels, warning labels and other written material to each LEP individual filling a prescription at such chain pharmacy if that individual's primary language is one of the pharmacy primary languages, in addition to providing such labels and materials in English. Nothing in this section shall prohibit a chain pharmacy from providing dual- or multi-language medication labels, warning labels or other written materials to LEP individuals who speak one of the pharmacy primary languages if one of the languages included on such labels or sheets is the LEP individual's primary language.
+
+
+
+
+
+
+*§ 20-623 Notification relating to language assistance services.* ::
+
+
+a. Every chain pharmacy shall conspicuously post, at or adjacent to each counter over which prescription drugs are sold, a notification of the right to free language assistance services for limited English proficient individuals as provided for in sections 20-621 and 20-622 of this subchapter. Such notifications shall be provided in all of the pharmacy's primary languages. The size, style and placement of such notice shall be determined in accordance with rules promulgated by the department.
+
+
+
+
+
+
+*§ 20-624 Penalties.* ::
+
+
+a. Any chain pharmacy that violates the provisions of sections 20-621 or 20-622 of this subchapter or any rules promulgated pursuant to such sections shall be liable for a civil penalty of not less than two hundred fifty dollars nor more than two thousand five hundred dollars for the first violation and for each succeeding violation a civil penalty of not less than five hundred dollars nor more than five thousand dollars.
+
+b. Any chain pharmacy that violates the provisions of section 20-623 of this subchapter or any rules promulgated pursuant to such section shall be liable for a civil penalty of not less than two hundred dollars nor more than five hundred dollars for the first violation and for each succeeding violation a civil penalty of not less than three hundred dollars nor more than one thousand dollars.
+
+
+
+
+
+
+*§ 20-625 Hearing authority.* ::
+
+
+a. Notwithstanding any other provision of law, the department shall be authorized upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter and any rules promulgated thereunder. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-624 of this subchapter for each such violation. All proceedings authorized pursuant to this section shall be conducted in accordance with rules promulgated by the commissioner. The penalties provided for in section 20-624 of this subchapter shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
+
+b. All such proceedings shall be commenced by the service of a notice of violation returnable to the administrative tribunal of the department. The commissioner shall prescribe the form and wording of notices of violation. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged, and, if sworn to or affirmed, shall be prima facie evidence of the facts contained therein.
+
+
+
+
+
+
+
+**Subchapter 4: Hamburgers and Chopped Meat**
+
+
+
+*§ 20-667 Definitions.* ::
+
+
+Whenever used in this subchapter "hamburger" shall mean chopped fresh beef with or without the addition of beef fat, and of seasoning.
+
+
+
+
+
+
+*§ 20-668 Standard for hamburger.* ::
+
+
+It shall be unlawful for any person to sell or offer for sale meat as hamburger unless it shall consist of chopped fresh beef with or without the addition of beef fat, or of seasoning, and in no case shall it contain more than thirty percent of beef fat.
+
+
+
+
+
+
+*§ 20-669 Labeling of chopped meat.* ::
+
+
+It shall be unlawful for any person to sell or offer for sale meat chopped in advance of sale as chopped meat unless it is labeled specifically to state the types of meat which it contains, and in no case shall such chopped meat contain more than thirty percent of fat.
+
+
+
+
+
+
+*§ 20-670 Sale of meat ground upon request by customer.* ::
+
+
+All meats purchased, whether prepackaged or cut to order, and then requested by customer to be ground on the premises, shall be ground in a meat grinder which shall be in clear and unobstructed view of the public.
+
+
+
+
+
+
+*§ 20-671 Violations.* ::
+
+
+A violation of any of the provisions of this subchapter shall be punishable by a fine of not less than twenty-five dollars nor more than two hundred fifty dollars for each offense, or by imprisonment not in excess of ten days, or both.
+
+
+
+
+
+
+
+**Subchapter 5: Sales of Petroleum Products**
+
+
+
+*§ 20-672 Price displays.* ::
+
+
+a. Except as provided in subdivision five of section one hundred ninety-two of the agriculture and markets law, it shall be unlawful for any person, in connection with the sale or offer for sale at retail of any petroleum products for use in motor vehicles or motor boats, to post or maintain at such place of sale any sign, placard or other display that states the price at which such petroleum products are sold or offered for sale, except as follows:
+
+   1. The price on such sign, placard or other display shall be stated by the unit of the measure at which such petroleum products are customarily sold at retail and shall include all applicable taxes;
+
+   2. The name, trade name, brand, mark or symbol, and grade or quality classification, if any, and method of processing of such petroleum products shall be clearly stated on such sign, placard or other display, and, if such petroleum products are sold without identification by name, trade name, brand, mark or symbol, such sign, placard or other display shall refer clearly to such petroleum products as unbranded;
+
+   3. In relation to the sale of gasoline for use in motor vehicles or motor boats, the price for the lowest grade of gasoline offered for sale shall be stated; and
+
+   4. Where the price for purchases made with cash or other specified form of payment is less than the price for purchases made with any other form of payment, such sign, poster, or placard shall state the price for each type of accepted payment.
+
+b. A retail dealer shall only sell petroleum products at the price stated on any sign, placard or other display subject to subdivision a of this section. It shall be unlawful to raise the price stated on any sign, placard or other display subject to subdivision a of this section for at least 24 hours.
+
+c. All numbers referring to price shall be the same height, width and thickness. Identification of the petroleum products offered for sale, and any non-numerical language distinguishing the prices charged for different forms of payment shall be in letters and numbers not less than one-half of the height, width and thickness of the numbers referring to price. Letters and numbers shall be black on a white background or displayed on an illuminated light-emitting diode sign.
+
+d. Price per gallon indicator. Except as otherwise provided in article sixteen of the agriculture and markets law or in any rule or regulations promulgated thereunder, every gasoline or diesel motor fuel dispensing device shall be equipped with a price per gallon indicator that shall correspond with the price per gallon stated on any sign, placard or other display subject to subdivision a of this section.
+
+e. Price indicator. Every gasoline or diesel motor fuel dispensing device shall be equipped with a total delivery indicator that shall record the correct price computed on the basis of the stated price per gallon and number of gallons delivered.
+
+f. Notwithstanding the foregoing, subdivisions a, b and c of this section shall not apply to the posting of information and labeling of dispensing devices with respect to the lead content of gasoline for motor vehicles, which shall be governed by the provisions of subdivision d and e of section 20-673.1 of this subchapter and any rules or regulations promulgated thereunder, and subdivisions a, b and c of this section shall not apply to the posting of information and labeling of dispensing devices with respect to the octane rating of gasoline for motor vehicles, which shall be governed by the provisions of subdivision d of section 20-673.2 of this subchapter and any rules or regulations promulgated thereunder.
+
+
+
+
+
+
+
+
+*§ 20-672.1 Sales Record Keeping Requirements.* ::
+
+
+a. Every retail dealer of petroleum products shall maintain a daily sales record of all petroleum products for which prices are required to be posted as provided in section 20-672. Such records shall document the total volume of each such type of product sold each day, the unit price and the total daily amount of sales for each such type of product, and the date and time when a change to the price posting specified in section 20-672 was made.
+
+b. All records required to be maintained shall be preserved in a manner that ensures their security and accessibility for inspection by the department for a period of one year.
+
+c. All records required to be maintained shall be kept in chronological order, either in writing or electronically, and shall be available for inspection by the department as follows:
+
+   1. Records maintained in writing shall be retained at the premises where sales are made for each of the immediately preceding thirty days. Such records shall be made available on demand to the department at such premises. The records required to be kept for the period beyond the immediately preceding thirty days shall be presented at the offices of the department within five business days after demand to produce them has been served on a retail dealer.
+
+   2. Records maintained electronically shall be retained on the premises in a manner that displays the data for the entire period for which the electronic data system retains such data to permit an inspector to view it on demand on the device, and if such period is for less than the immediately preceding thirty days, then the data must be provided on demand in a chronologically ordered print-out for the full thirty days. A complete and accurate print out of the electronically maintained records that are required to be kept for the period beyond the immediately preceding thirty days shall be presented at the offices of the department within five business days after demand to produce them has been served on a retail dealer.
+
+
+
+
+
+
+*§ 20-673 Fraudulent practices prohibited.* ::
+
+
+It shall be unlawful for any person to sell or offer for sale gasoline or other petroleum products for use in motor vehicles or motor boats in any manner so as to deceive or tend to deceive the purchaser as to the price, nature, quality or identity thereof; provided, however, that this section shall not apply to the prohibition of deceptive practices involving the representation of gasoline for motor vehicles as unleaded, which shall be governed by the provisions of section 20-673.1 of this subchapter and any rules or regulations promulgated thereunder, and provided, further, that this section shall not apply to the prohibition of deceptive practices involving the certification, display or representation of the octane rating of gasoline for motor vehicles, which shall be governed by the provisions of section 20-673.2 of this subchapter and any rules or regulations promulgated thereunder. It shall be unlawful for any person to sell or offer for sale from any pump, dispensing devices or container any gasoline or other petroleum products other than gasoline or other petroleum products manufactured or distributed by the manufacturer or distributor marketing such gasoline or other petroleum products under the name, trade name, brand, symbol or mark affixed to or contained on such pump, dispensing device or container, or to substitute, mix or adulterate gasoline or other petroleum products sold or offered for sale under a name, trade name, brand, symbol or mark.
+
+
+
+
+
+
+*§ 20-673.1 Sale of unleaded gasoline.* ::
+
+
+a. Definitions. For purposes of this section, the following terms shall have the following meanings:
+
+   1. "Distributor" shall mean any person who transports or stores or causes the transportation or storage of gasoline at any point between any plant at which gasoline is produced and any retail outlet or facility of a wholesale purchaser-consumer.
+
+   2. "Gasoline" shall mean any fuel sold for use in motor vehicles and motor vehicle engines, and commonly or commercially known or sold as gasoline.
+
+   3. "Lead additive" shall mean any substance containing lead or lead compounds.
+
+   4. "Leaded gasoline" shall mean gasoline which is produced with the use of any lead additive or which contains more than five one hundredths of a gram of lead per gallon or more than five one thousandths of a gram of phosphorus per gallon.
+
+   5. "Refiner" shall mean any person who owns, leases, operates, controls or supervises a plant at which gasoline is produced.
+
+   6. "Reseller" shall mean any person who purchases gasoline identified by the corporate, trade or brand name of a refiner from such refiner or a distributor and resells or transfers it to retailers or wholesale purchaser-consumers displaying the refiner's brand, and whose assets or facilities are not substantially owned, leased or controlled by such refiner.
+
+   7. "Retail outlet" shall mean any establishment at which gasoline is sold or offered for sale for use in motor vehicles.
+
+   8. "Retailer" shall mean any person who owns, leases, operates, controls, or supervises a retail outlet.
+
+   9. "Unleaded gasoline" shall mean gasoline which is produced without the use of any lead additive and which contains not more than five one hundredths of a gram of lead per gallon and not more than five one thousandths of a gram of phosphorus per gallon.
+
+   10. "Wholesale purchaser-consumer" shall mean any organization that is an ultimate consumer of gasoline and which purchases or obtains gasoline from a supplier for use in motor vehicles and receives delivery of that product into a storage tank of at least five hundred fifty gallon capacity substantially under the control of that organization.
+
+b. No distributor shall sell or transfer to any other distributor, retailer or wholesale purchaser-consumer any gasoline which is represented to be unleaded unless such gasoline meets the defined requirements for unleaded gasoline set forth in subdivision a of this section.
+
+c. No retailer or employee or agent of a retailer, and no wholesale purchaser-consumer or employee or agent of a wholesale purchaser-consumer, shall sell, dispense or offer for sale gasoline represented to be unleaded unless such gasoline meets the defined requirements for unleaded gasoline set forth in subdivision a of this section.
+
+d. Every retailer and wholesale purchaser-consumer shall affix to each gasoline pump stand in a location so as to be readily visible to the employees of such retailer or wholesale purchaser-consumer and to person* operating motor vehicles into which gasoline is to be dispensed a permanent legible label as follows: (i) for gasoline pump stands containing pumps for introduction of unleaded gasoline into motor vehicles, the label shall state: "Unleaded gasoline"; and (ii) for gasoline pump stands containing pumps for introduction of leaded gasoline into motor vehicles, the label shall state: "Contains lead anti-knock compounds"; provided, however, that where more than one grade of unleaded gasoline is offered for sale at a retail outlet, compliance with this subdivision is required for only one grade.
+
+e. Notwithstanding any other provisions of law to the contrary, in any proceeding to adjudicate a violation of subdivision d of this section, a retailer or wholesale purchaser-consumer may be found not to be liable for violation thereof where it is shown that more than one grade of gasoline is dispensed from a gasoline pump or pump stand and it is demonstrated to the satisfaction of the commissioner that an alternative system of labeling furthers the objectives of such subdivision.
+
+f. Any violation of subdivision c of this section by a retailer or wholesale purchaser-consumer shall also be deemed a violation by:
+
+   (1) the reseller, if any, and the refiner, where the corporate, trade or brand name of such refiner or any of its marketing subsidiaries appears on the pump stand or is displayed at the retail outlet or wholesale purchaser-consumer facility from which the gasoline was sold, dispensed or offered for sale. Except as provided in subdivision g of this section, the refiner shall be deemed in violation of subdivision c of this section irrespective of whether any other refiner, distributor, retailer or wholesale purchaser-consumer may have caused or permitted the violation; or
+
+   (2) the distributor who sold such retailer or wholesale purchaser-consumer gasoline contained in the storage tank which supplied the pump from which the gasoline was sold, dispensed or offered for sale which gave rise to the violation, where the corporate, trade or brand name of a refiner or any of its marketing subsidiaries does not appear on the pump stand and is not displayed at the retail outlet or wholesale purchaser-consumer facility from which the gasoline was sold, dispensed or offered for sale.
+
+g. (1) In any case in which a retailer or wholesale purchaser-consumer and any refiner or distributor would be in violation or be deemed in violation of subdivision c of this section, the retailer or wholesale purchaser-consumer shall not be liable if he or she can demonstrate that the violation was not caused by such retailer or wholesale purchaser-consumer or his or her employee or agent.
+
+   (2) In any case in which a retailer or wholesale purchaser-consumer would be in violation of subdivision c of this section, and a reseller, if any, and any refiner would be deemed in violation under paragraph one of subdivision f of this section, the refiner shall not be deemed in violation if he or she can demonstrate:
+
+      (a) that the violation was not caused by such refiner or his or her employee or agent, and
+
+      (b) that the violation was caused by an act in violation of any law, other than the provisions of this section, or an act of sabotage, vandalism, or deliberate commingling of leaded and unleaded gasoline, whether or not such acts are violations of law in the jurisdiction where the violation of the requirements of this section occurred, or
+
+      (c) that the violation was caused by the action of a reseller or a retailer supplied by such reseller, in violation of a contractual undertaking imposed by the refiner on such reseller designed to prevent such action, and despite reasonable efforts by the refiner to insure compliance with such contractual obligation, such as periodic sampling, or
+
+      (d) that the violation was caused by the action of a retailer who is supplied directly by the refiner and not by a reseller, in violation of a contractual undertaking imposed by the refiner on such retailer designed to prevent such action, and despite reasonable efforts by the refiner to insure compliance with such contractual obligation, such as periodic sampling, or
+
+      (e) that the violation was caused by the action of a distributor subject to a contract with the refiner for transportation of gasoline from a terminal to a distributor, retailer or wholesale purchaser-consumer, in violation of a contractual undertaking imposed by the refiner on such distributor designed to prevent such action, and despite reasonable efforts by the refiner to insure compliance with such contractual obligation, such as periodic sampling, or
+
+      (f) that the violation was caused by a distributor (such as a common carrier) not subject to a contract with the refiner but engaged by him or her for transportation of gasoline from a terminal to a distributor, retailer or wholesale purchaser-consumer, despite reasonable efforts by the refiner to prevent such action, such as specification or inspection of equipment, or
+
+      (g) that the violation occurred at a wholesale purchaser-consumer facility; provided, however, that if such wholesale purchaser-consumer was supplied by a reseller, the refiner must demonstrate that the violation could not have been prevented by such reseller's compliance with a contractual undertaking imposed by the refiner on such reseller as provided in subparagraph c of this paragraph.
+
+(h) For purposes of subparagraphs (b) through (f) of this paragraph, the term "was caused" means that the refiner must demonstrate by reasonably specific showings by direct or circumstantial evidence that the violation was caused or must have been caused by another.
+
+   (3) In any case in which a retailer or wholesale purchaser-consumer would be in violation of subdivision c of this section, and a reseller and any refiner would be deemed in violation under paragraph one of subdivision f of this section, the reseller shall not be deemed in violation if he or she can demonstrate that the violation was not caused by such reseller or his or her employee or agent.
+
+   (4) In any case in which a retailer or wholesale purchaser-consumer would be in violation of subdivision c of this section, and any distributor would be deemed in violation under paragraph two of subdivision f of this section, the distributor will not be deemed in violation if he or she can demonstrate that the violation was not caused by such distributor or his or her employee or agent.
+
+
+
+
+
+
+*§ 20-673.2 Certification, display and representation of octane rating.* ::
+
+
+a. For purposes of this section, the following terms shall have the following meanings:
+
+   1. "Gasoline" shall mean gasoline of a type distributed for use as a fuel in any motor vehicle.
+
+   2. "Distributor" shall mean any person who receives gasoline and distributes such gasoline to another person other than the ultimate purchaser.
+
+   3. "Retailer" shall mean any person who markets gasoline to the general public for ultimate consumption.
+
+   4. "Knock" shall mean the combustion of a fuel spontaneously in localized areas of a cylinder of a spark-ignition engine, instead of the combustion of such fuel progressing from the spark.
+
+   5. "Octane rating" shall mean the rating of the anti-knock characteristics of a grade or type of gasoline as determined by dividing by two the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under paragraph three of 15 U.S.C. § 2823(c), in which case such term shall mean the rating of such characteristics as determined under the procedure so prescribed.
+
+   6. "Refiner" shall mean any person engaged in the refining of crude oil to produce gasoline or the importation of gasoline.
+
+   7. "Research octane number" and "motor octane number" shall have the meaning given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled "Standard Specifications for Automotive Gasoline" designated D 439 and, with respect to any grade or type of gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700, or such other meaning given such terms in any regulations promulgated by the federal trade commission pursuant to 15 U.S.C. § 2823.
+
+   8. "Ultimate purchaser" shall mean, with respect to any item, the first person who purchases such item for purposes other than resale.
+
+b. Each refiner who distributes gasoline shall:
+
+   (1) determine the octane rating of any such gasoline; and
+
+   (2) if such refiner distributes such gasoline to any person other than the ultimate purchaser, certify, consistent with the determination made under paragraph one of this subdivision, the octane rating of such gasoline.
+
+c. Each distributor who receives gasoline, the octane rating of which is certified to the distributor under this section, and distributes such gasoline to another person other than the ultimate purchaser shall certify to such other person the octane rating of such gasoline consistent with:
+
+   (1) the octane rating of such gasoline certified to such distributor; or
+
+   (2) if such distributor elects, in accordance with the regulations of the federal trade commission, the octane rating of such gasoline determined by such distributor.
+
+d. Each retailer shall display at the point of sale to ultimate purchasers of gasoline, the octane rating of such gasoline, in accordance with the posting requirements and label specifications to be prescribed by the commissioner by regulation. Such octane rating shall be consistent with:
+
+   (1) the octane rating of such gasoline certified to such retailer under paragraph two of subdivision b of this section or under subdivision c of this section;
+
+   (2) if such retailer elects, in accordance with the regulations of the federal trade commission, the octane rating of such gasoline determined by such retailer for such gasoline; or
+
+   (3) if such retailer is a refiner, the octane rating of such gasoline determined under paragraph one of subdivision b of this section.
+
+e. No person who distributes gasoline may make any representation respecting the anti-knock characteristics of such gasoline unless such representation fairly discloses the octane rating of such gasoline consistent with such gasoline's octane rating as certified to, or determined by, such person under the foregoing subdivisions of this section.
+
+f. For purposes of this section, the octane rating of any gasoline shall be considered to be certified, displayed or represented by any person consistent with the rating certified to, or determined by, such person:
+
+   (1) in the case of gasoline which consists of a blend of two or more quantities of gasoline of differing octane ratings, only if the rating certified, displayed or represented by such person is the average of the octane ratings of such quantities, weighted by volume; or
+
+   (2) in the case of gasoline which does not consist of such a blend, only if the octane rating such person certifies, displays or represents is the same as the octane rating of such gasoline certified to, or determined by, such person.
+
+
+
+
+
+
+*§ 20-673.3 Inspection, investigation; recordkeeping.* ::
+
+
+a. The commissioner or the commissioner's designee, upon presentation of appropriate credentials, shall be authorized to enter upon or through the business premises of any person who sells or offers for sale gasoline or other petroleum products for use in motor vehicles or motor boats or any place where such gasoline or petroleum products is stored, for the purposes of making inspections, taking samples and conducting tests to determine compliance with the provisions of this subchapter or any rules* or regulation promulgated hereunder.
+
+b. Whenever the commissioner has reason to believe that a violation of this subchapter or any rule or regulation has occurred, he or she shall be authorized to make such investigation as he or she shall deem necessary, and to the extent necessary for this purpose, he or she may examine any person and may compel the production of all relevant records.
+
+c. Any person subject to the provisions of this subchapter shall maintain such written records as the commissioner may prescribe by regulation.
+
+
+
+
+
+
+*§ 20-674 Violations.* ::
+
+
+a. (1) Any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, shall be guilty of a misdemeanor punishable by a fine of not less than five hundred dollars nor more than ten thousand dollars, or by imprisonment for not more than thirty days, or by both such fine and imprisonment.
+
+   (2) Any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, who has been found guilty of a violation of any such sections or such rules or regulations two times within the preceding twenty-four month period shall be guilty of a misdemeanor punishable by a fine of not less than one thousand dollars nor more than fifteen thousand dollars, or by imprisonment for not more than ninety days, or by both such fine and imprisonment.
+
+   (3) In addition to the penalties prescribed by paragraph one of subdivision a of this section, any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, shall be liable for a civil penalty of not less than five hundred dollars nor more than ten thousand dollars.
+
+   (4) In addition to the penalties prescribed by paragraph two of subdivision a of this section, any person who violates the provisions of this subchapter or any rules or regulations promulgated thereunder, other than sections 20-673.1 and 20-673.2 and any rules or regulations promulgated thereunder, who has been found guilty of a violation of any such sections or such rules or regulations two times within the preceding twenty-four month period shall be liable for a civil penalty of not less than one thousand dollars nor more than fifteen thousand dollars.
+
+b. Any person who violates the provisions of section 20-673.1 of this subchapter or any rules or regulations promulgated thereunder shall be liable for a civil penalty of not less than five hundred dollars nor more than ten thousand dollars.
+
+c. (1)    If, after providing due notice and an opportunity to be heard, the commissioner finds that a person has violated any of the provisions of section 20-673.2 of this subchapter or any rule or regulation promulgated thereunder, he or she shall be authorized to issue and serve upon such person an order requiring such person to cease and desist from engaging in the prohibited activity. Such order shall become final (i) upon the expiration of the time allowed for filing any administrative appeal which may be available and for commencing a proceeding pursuant to article seventy-eight of the civil practice law and rules or (ii) upon the exhaustion of all appeals arising out of the proceedings described in item (i) of this paragraph. Any person who violates an order of the commissioner issued hereunder after it has become final shall be liable for a civil penalty of not less than five hundred dollars nor more than ten thousand dollars for each violation.
+
+   (2) Any person who violates the provisions of section 20-673.2 of this subchapter or any rules or regulations promulgated thereunder with actual knowledge or knowledge fairly implied on the basis of objective circumstances that the act or practice underlying the violation is unfair or deceptive shall be liable for a civil penalty of not less than five hundred dollars nor more than ten thousand dollars; provided, however, that in order for any retailer to be held liable under this paragraph for violating any of the provisions of subdivisions d or e of such section 20-673.2, such retailer shall be shown to have had actual knowledge that the act or practice underlying the violation is unfair or deceptive. In determining the amount of any civil penalty imposed under this paragraph, the following shall be considered: the degree of culpability; any history of prior such conduct; ability to pay; effect on ability to continue to do business; and such other matters as justice may require.
+
+d. In the case of a violation through continuing failure to comply with any of the provisions of this subchapter, any rules or regulations promulgated thereunder, or any order of the commissioner issued pursuant to subdivision c of this section, each day of the continuance of such failure shall be treated as a separate violation.
+
+e. The civil penalties prescribed by the provisions of this section may be imposed by the commissioner after due notice and an opportunity to be heard have been provided or may be recovered in a civil action in the name of the city, commenced in a court of competent jurisdiction. In any civil action commenced to recover civil penalties for violation of a final order of the commissioner issued pursuant to subdivision c of this section, the supreme court of New York is empowered to grant such injunctive or equitable relief as the court deems appropriate in the enforcement of such final order.
+
+f. Notwithstanding the foregoing, the commissioner shall cause to be published in the City Record once each month the name and business location of any person, firm or corporation that has been found to have violated any provision of sections 20-673.1 or 20-673.2 during the month immediately preceding.
+
+
+
+
+
+
+*§ 20-675 Rules and regulations.* ::
+
+
+The commissioner shall have the authority to promulgate such rules and regulations as the commissioner shall deem necessary to effectuate the purpose of this subchapter, including but not limited to the size, the composition, the type size to be used for lettering, and the placement of signs which are provided for in section 20-672 of this subchapter.
+
+
+
+
+
+
+
+**Subchapter 6: Sale of Meats**
+
+
+
+*§ 20-676 Definitions.* ::
+
+
+As used in this subchapter, the following terms shall mean and include:
+
+(a) "Pickled." Preserved by soaking in a curing solution.
+
+(b) "Pumped." Injected with a curing solution through the veins, arteries or muscular structure.
+
+(c) "Curing solution." A liquid solution for the pickling or curing of meats.
+
+
+
+
+
+
+*§ 20-677 Sales at retail.* ::
+
+
+It shall be unlawful for any person to sell or offer for sale, at retail, any pickled, pumped, cured, or otherwise processed meats or meat products which shall contain added curing solution or any other liquid more than ten percent, by weight, of the total weight of the meat, except that pickled, pumped, cured, or otherwise processed beef brisket shall not contain more than twenty percent, by weight, of added curing solution or any other liquid.
+
+
+
+
+
+
+*§ 20-678 Sales at wholesale.* ::
+
+
+It shall be unlawful for any person to sell, or offer for sale at wholesale, any pickled, pumped, cured, or otherwise processed meats or meat products which shall contain added curing solution or any other liquid more than ten percent, by weight, of the total weight of the meat, except that pickled, pumped, cured, or otherwise processed beef brisket shall not contain more than twenty percent, by weight, of added curing solution or any other liquid.
+
+
+
+
+
+
+*§ 20-679 Injection devices.* ::
+
+
+It shall be unlawful for any person to have in or upon any vehicle transporting meat and meat products within the city of New York, any hypodermic, syringe, pump, or other device that can be used for the injection or pumping of any fluid or other substance into the meat.
+
+
+
+
+
+
+*§ 20-680 Labeling of pickled, pumped and cured meats and meat products.* ::
+
+
+All pickled, pumped and cured meat and meat products shall be labeled as to net weight and shall specify the percentage, by weight, of added curing solution.
+
+
+
+
+
+
+*§ 20-681 Punishment.* ::
+
+
+(a) Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than one hundred dollars for each violation.
+
+(b) Any person who shall violate any of the provisions of this subchapter shall be guilty of an offense and punishable by a fine of not less than twenty-five dollars nor more than two hundred fifty dollars, for each offense, or by imprisonment for not more than thirty (30) days, or both.
+
+
+
+
+
+
+
+**Subchapter 7: Sale of Prepackaged Meat**
+
+
+
+*§ 20-682 Sales of prepackaged meats.* ::
+
+
+a. It shall be unlawful for any owner, manager, or supervisor of a retail store or any independently operated department within, to sell or offer or expose for sale, at retail any prepackaged unprocessed or untreated fresh or frozen meat unless at least one of the sides with the greatest surface area of the package is colorless and transparent, exclusive of labeling; which labeling shall not occupy more than ten percent of that side of the package, or six and one quarter (6.25) square inches, whichever is greater. This section shall be applicable solely in those cases where the packaging is performed on the premises of the sale. This section shall not apply to the sale of ground meat.
+
+b. A sign shall be posted at the point of display of any prepackaged unprocessed or untreated fresh or frozen meat, the packaging of which is colorless and transparent on only one side in accordance with the provisions of subdivision a of this section, stating that the retailer shall accept the return of such prepackaged meat found to be unsatisfactory upon the request of a consumer who provides proof of purchase and further stating that the retailer shall either refund the full purchase price or provide a satisfactory replacement for such purchase. The size and wording of such sign shall be determined by rule of the commissioner.
+
+
+
+
+
+
+*§ 20-683 Punishment.* ::
+
+
+Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than five hundred dollars for each violation.
+
+
+
+
+
+
+
+**Subchapter 8: Perishable Foods**
+
+
+
+*§ 20-684 Legislative intent.* ::
+
+
+The council finds that consumers cannot be certain that food offered for sale is fresh or that it will remain fresh for a reasonable period of time after it is purchased. The council particularly recognizes consumer concern with the freshness of foods including, but not limited to, meat, poultry, fish, dairy products, eggs, fruit, vegetables and baked goods. The council further finds that the food industry's practice of controlling food freshness through coded dates has proven inadequate for protection of the public. The council has concluded that a mandatory system of clear and legible dating accompanied by a statement of recommended conditions of storage is the best way to assure consumers of the freshness of the foods that they buy in stores.
+
+
+
+
+
+
+*§ 20-685 Perishable foods.* ::
+
+
+It shall be unlawful to sell or offer for sale any perishable food designated by the commissioner in accordance with section 20-686 hereof unless there is stamped, printed or otherwise plainly and conspicuously marked on the top cover or principal panel of its container or any label affixed thereto the statements indicating recommended conditions and methods of storage, and the fact that it is not to be sold after a clearly specified date for human consumption as food.
+
+
+
+
+
+
+*§ 20-686 Regulations.* ::
+
+
+The commissioner shall promulgate regulations designating those perishable foods which shall come within the scope of section 20-685 of this subchapter wherever the commissioner shall find that because of the nature of the commodity, the mode of packaging or other consideration, such information about the commodity shall be necessary and proper to provide adequate information to the consumer as to the perishable nature of such commodity and conditions of storage.
+
+
+
+
+
+
+*§ 20-687 Powers of the commissioner.* ::
+
+
+(a) The commissioner shall receive and evaluate complaints and initiate his or her own investigations relating to these matters and take appropriate action related thereto including stop-sale and stop-removal orders where necessary and proper.
+
+(b) The commissioner shall have the power after reasonable notice and hearing, to determine the reasonableness of any statement or representation as to the date and conditions of storage affixed pursuant to section 20-685 of this subchapter.
+
+
+
+
+
+
+*§ 20-688 Penalties.* ::
+
+
+Any person, firm, corporation or association or agent or employee thereof, who shall violate any of the provisions of this subchapter or of the regulations promulgated pursuant to section 20-686 shall pay a civil penalty of not less than twenty-five dollars nor more than two hundred fifty dollars for each violation; and shall, upon conviction thereof, be punished by a fine of not less than twenty-five nor more than two hundred fifty dollars for each such violation.
+
+
+
+
+
+
+
+**Subchapter 9: Water Saving Plumbing Fixtures**
+
+
+
+*§ 20-689 Water saving plumbing fixtures.* ::
+
+
+(1) It shall be unlawful for any person to sell or offer for sale any plumbing fixture that does not comply with section 604.4 of the New York city plumbing code.
+
+(2) All product packaging containing such fixtures shall include the following information:
+
+   i. the manufacturer's name or registered trademark and the model number of the fixture or fixtures; and
+
+   ii. the gallon/liter water consumption rate per flush of a water closet or urinal; and
+
+   iii. a. "Water Use Guide" label that is designed for the purpose of educating and promoting water and water-related cost savings; the label shall state the monthly and yearly cost of the fixture based on the average monthly and yearly usage and the cost of water and sewer service per thousand gallons for the range of water rates existing in the city of New York.
+
+
+
+
+
+
+*§ 20-690 Punishment.* ::
+
+
+Any person who shall violate any of the provisions of this subchapter shall be liable to forfeit and pay a civil penalty in the sum of not more than five hundred dollars for each violation.
+
+
+
+
+
+
+
+**Subchapter 9: Price Displays**
+
+
+
+*§ 20-691 Price displays.* ::
+
+
+a. In any food store which has one or more cash registers with item cost indicators, said indicators shall at all times remain visible to customers making payment for items purchased or for services rendered.
+
+b. Cash registers purchased for use in food stores in the city on and after the effective date of this section shall have item cost indicators and shall comply with the requirements of subdivision a hereof.
+
+c. For the purpose of this section, "food store" shall be defined as a store selling primarily food and food products, cosmetics or toiletries at retail, for consumption or use off the premises.
+
+d. For the purposes of this section, "food" and "food products" shall be defined as all material, solid, liquid or mixed, whether simple or compound, used or intended for consumption by human beings or domestic animals normally kept as household pets and all substances or ingredients to be added thereto for any purpose.
+
+e. For the purposes of this section, "cash register" shall be defined as any business machine designed for the prupose of, or which may be used for, the aggregation of several items or units of measure in number form as a total selling price. Cash register shall include, but not be limited to, devices which have a cash drawer or other cash receptacle or depository.
+
+f. For the purposes of this section "item cost indicators" shall be defined as any indicator either built in to a cash register or appurtenant thereto, which mechanically or electronically, or in any other way, indicates or displays the price charged for each item or unit of measure purchased.
+
+
+
+
+
+
+*§ 20-692 Punishment.* ::
+
+
+Any person who shall violate any of the provisions of subdivisions a or b of section 20-691 shall be subject to a civil penalty of not less than one hundred dollars nor more than one hundred fifty dollars for each violation.
+
+b. Each day a violation is continued shall constitute a separate violation.
+
+
+
+
+
+
+*§ 20-693 Rules and regulations.* ::
+
+
+The commissioner shall promulgate such rules and regulations as he or she shall deem necessary to effectuate the purposes of this subchapter.
+
+
+
+
+
+
+
+**Subchapter 10: thermal-shock Protection Devices**
+
+
+
+*§ 20-694 Thermal-Shock Protection Devices.* ::
+
+
+It shall be unlawful for any person to distribute, sell, offer for sale or import any water supply control valve which does not meet the standards of subdivision P107.6 of section P107.0 of the appendix to chapter one of title twenty-seven of this code.
+
+
+
+
+
+
+*§ 20-695 Penalty.* ::
+
+
+Any person who shall violate any of the provisions of this subchapter shall be subject to a civil penalty of not less than one hundred dollars nor more than five hundred dollars for each violation.
+
+
+
+
+
+
+
+**Subchapter 11: Gauges Utilizing Mercury**
+
+
+
+*§ 20-696 Gauges Utilizing Mercury.* ::
+
+
+It shall be unlawful for any person to distribute, sell or offer for sale any gauge that utilizes mercury to test the pressure of gas piping, drainage or vent systems or for any person to distribute, sell or offer for sale replacement mercury for use in such gauges.
+
+
+
+
+
+
+*§ 20-697 Penalty.* ::
+
+
+Any person who shall violate any of the provisions of this subchapter shall be subject to a civil penalty of not less than two hundred fifty dollars nor more than one thousand dollars for each violation.
+
+
+
+
+
+
+
+**Subchapter 12: Endangered Or Threatened Species**
+
+
+
+*§ 20-698 Definitions.* ::
+
+
+Whenever used in this subchapter:
+
+a. "Endangered or threatened species" shall mean any fish or wildlife family, genus, species, subspecies or population that is designated by or pursuant to New York law as endangered or threatened.
+
+b. "Fish or wildlife" shall mean any member of the animal kingdom, including without limitation any mammal, fish, bird, amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or parts thereof.
+
+c. "Population" shall mean a group of fish or wildlife of the same species or subspecies inhabiting a defined geographical area.
+
+
+
+
+
+
+*§ 20-699 Prohibition.* ::
+
+
+a. Except with a federal or state permit or license or under any exception under federal or state law, it shall be unlawful to buy or sell, offer or attempt to buy or sell, or cause any person to buy or sell:
+
+   (1) any product, item, or substance described in an offer for sale, labeled, or advertised as derived from any endangered or threatened species, or described in an offer for sale, labeled, or advertised as containing any substance derived from any endangered or threatened species; or
+
+   (2) any product, item, or substance that is intended for human consumption or application and is described in an offer for sale, labeled, or advertised as derived from any species of rhinoceros or tiger, or described in an offer for sale, labeled, or advertised as containing any substance derived from any species of rhinoceros or tiger; or
+
+   (3) any species described in an offer for sale, labeled, or advertised as any endangered or threatened species.
+
+b. It shall be unlawful to include false or misleading information in any offer for sale, label, or advertisement for any endangered or threatened species or any product, item, or substance derived from or containing any substance derived from any endangered or threatened species. For the purposes of this subchapter, any omission of or failure to state a material fact shall be considered inclusion of false or misleading information.
+
+c. The prohibitions of this subchapter shall apply to any offer for sale, label or advertisement that refers to any endangered or threatened species by its common name or by its scientific name.
+
+
+
+
+
+
+*§ 20-699.1 Publication of endangered and threatened species list.* ::
+
+
+No later than April 1, 2005, and at least annually thereafter, the commissioner shall publish a list using the department's website for the purpose of ensuring compliance by merchants with the provisions of this subchapter. Such list shall include guidance regarding the identification of any fish or wildlife family, genus, species, subspecies or population designated by or pursuant to New York law as endangered or threatened and shall also separately specify whether all populations of any family or genus so identified are designated as endangered or threatened by or pursuant to New York law. Such list shall be published in English and Chinese.
+
+
+
+
+
+
+*§ 20-699.2 Penalties.* ::
+
+
+Any person that violates any provision of section 20-699 after October 1, 2005 shall be subject to a civil penalty of not more than five hundred dollars for the first violation and each additional violation occurring on the same day as the first violation, and not less than five hundred dollars nor more than one thousand five hundred dollars for each subsequent violation occurring within a period of twenty-four months.
+
+
+
+
+
+
+*§ 20-699.3 Seizure and forfeiture.* ::
+
+
+Any product, item, substance, or species bought or sold, or attempted to be bought or sold, after October 1, 2005 in violation of section 20-699 or any regulation issued pursuant to this subchapter shall be subject to forfeiture upon notice and judicial determination.
+
+
+
+
+
+
+*§ 20-699.4 Rules.* ::
+
+
+The commissioner shall have the authority to promulgate such rules and regulations as the commissioner shall deem necessary to implement the provisions of this subchapter.
+
+
+
+
+
+
+*§ 20-699.5 Enforcement.* ::
+
+
+The commissioner and the members of the police department shall have the authority to enforce this subchapter.
+
+
+
+
+
+
+*§ 20-699.6 Hearing authority.* ::
+
+
+Notwithstanding any other provision of law, the department shall be authorized, after October 1, 2005, upon due notice and hearing, to impose civil penalties for the violation of any provision of this subchapter. The department shall have the power to render decisions and orders and to impose civil penalties not to exceed the amounts specified in section 20-699.2 of this subchapter for each such violation. All proceedings authorized pursuant to this subdivision shall be conducted in accordance with rules promulgated by the commissioner. The remedies and penalties provided for in this subdivision shall be in addition to any other remedies or penalties provided for the enforcement of such provisions under any other law including, but not limited to, civil or criminal actions or proceedings.
+
+(2)*   All such proceedings shall be commenced by the service of a notice of violation returnable to the administrative tribunal of the department. The commissioner shall prescribe the form and wording of notices of violation. The notice of violation or copy thereof when filled in and served shall constitute notice of the violation charged, and, if sworn to or affirmed, shall be prima facie evidence of the facts contained therein. In addition to serving the notice on the person being charged, where written authorization is filed with the department, the department shall deliver by first class mail a copy of the notice to the corporate headquarters or wholesale supplier of such person.
+
+* Editor's note: so in original; there is no subdivision (1).
 
 
 
