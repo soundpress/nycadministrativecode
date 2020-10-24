@@ -1414,19 +1414,6 @@ No disposition reached or order issued pursuant to an action brought under this 
 
 
 
-Chapter 9: Public Administrators
---------------------------------------------------
-
-
-
-*§ 7-901 Compensation.* ::
-
-
-The public administrators of the counties within the city shall receive as compensation ninety percent of the amount paid to the judges of the surrogate's court of the counties within the city.
-
-
-
-
 Chapter 8: New York City False Claims Act
 --------------------------------------------------
 
@@ -1708,6 +1695,19 @@ Nothing in the local law that added this chapter is intended to modify, supersed
 
 
 The corporation counsel and the commissioner of investigation shall promulgate such rules as are necessary to effectuate the purposes of this chapter.
+
+
+
+
+Chapter 9: Public Administrators
+--------------------------------------------------
+
+
+
+*§ 7-901 Compensation.* ::
+
+
+The public administrators of the counties within the city shall receive as compensation ninety percent of the amount paid to the judges of the surrogate's court of the counties within the city.
 
 
 

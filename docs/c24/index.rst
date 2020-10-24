@@ -946,49 +946,6 @@ c. The department shall make available such educational materials in English and
 
 
 
-Chapter 10: Computer Science Education Reporting
---------------------------------------------------
-
-
-
-*§ 21-972 Reporting on computer science education.* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Computer science program. The term "computer science program" means any class, component of a class, or curriculum designed to enable students to learn computing concepts, including but not limited to abstraction, algorithms, programming, data and information, and networks.
-
-   Certified STEM instructor. The term "certified STEM instructor" means a teacher who is licensed to teach a specific STEM subject.
-
-   "School" means a school of the city school district of the city of New York.
-
-   "STEM" means science, technology, engineering or math.
-
-   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
-
-b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the speaker of the council and post conspicuously on the department's website a report for the preceding academic year which shall include, but not be limited to, the following:
-
-   1. The total number of computer science programs offered in each school, including information regarding the nature of the computer science programs and whether such programs are advanced placement computer science classes, to the extent such information is available;
-
-   2. The number and percentage of students who enrolled in a computer science program, disaggregated by (i) race and ethnicity; (ii) gender; (iii) special education status; (iv) English language learner status; (v) eligibility for the free and reduced price lunch program; (vi) grade level; and (vii) community school district;
-
-   3. The number of designated full-time and part-time certified STEM instructors providing instruction at each school; and the ratio of full-time certified STEM instructors to students at each school;
-
-   4. Information regarding the STEM institute administered by the department, including but not limited to, the nature of the training offered, the number of teachers trained, organizations involved, the funding provided and the source of such funding;
-
-   5. Information regarding the department's computer science initiatives; and
-
-   6. Information regarding the total available bandwidth in megabits per second provided in each school building; and for each such school building containing more than one school, the schools in such building.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
-
-d. This chapter expires ten years after the effective date of the local law that added this chapter.
-
-
-
-
-
-
 Chapter 9. Career and Technical Education Reporting
 --------------------------------------------------
 
@@ -1030,6 +987,49 @@ c. The data required to be reported pursuant to paragraphs two through seven of 
 d. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
 
 e. This chapter expires five years after the effective date of the local law that added this chapter.
+
+
+
+
+
+
+Chapter 10: Computer Science Education Reporting
+--------------------------------------------------
+
+
+
+*§ 21-972 Reporting on computer science education.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Computer science program. The term "computer science program" means any class, component of a class, or curriculum designed to enable students to learn computing concepts, including but not limited to abstraction, algorithms, programming, data and information, and networks.
+
+   Certified STEM instructor. The term "certified STEM instructor" means a teacher who is licensed to teach a specific STEM subject.
+
+   "School" means a school of the city school district of the city of New York.
+
+   "STEM" means science, technology, engineering or math.
+
+   "Student" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law.
+
+b. Not later than April 30, 2017, and annually thereafter on or before April 30, the department shall submit to the speaker of the council and post conspicuously on the department's website a report for the preceding academic year which shall include, but not be limited to, the following:
+
+   1. The total number of computer science programs offered in each school, including information regarding the nature of the computer science programs and whether such programs are advanced placement computer science classes, to the extent such information is available;
+
+   2. The number and percentage of students who enrolled in a computer science program, disaggregated by (i) race and ethnicity; (ii) gender; (iii) special education status; (iv) English language learner status; (v) eligibility for the free and reduced price lunch program; (vi) grade level; and (vii) community school district;
+
+   3. The number of designated full-time and part-time certified STEM instructors providing instruction at each school; and the ratio of full-time certified STEM instructors to students at each school;
+
+   4. Information regarding the STEM institute administered by the department, including but not limited to, the nature of the training offered, the number of teachers trained, organizations involved, the funding provided and the source of such funding;
+
+   5. Information regarding the department's computer science initiatives; and
+
+   6. Information regarding the total available bandwidth in megabits per second provided in each school building; and for each such school building containing more than one school, the schools in such building.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains an amount that would allow the amount of another category that is five or less to be deduced, the number shall be replaced with a symbol.
+
+d. This chapter expires ten years after the effective date of the local law that added this chapter.
 
 
 
@@ -1108,39 +1108,6 @@ e. No later than December 1, 2017, the task force shall submit to the mayor and 
 
 
 
-Chapter 14: Reporting on GSAs
---------------------------------------------------
-
-
-
-*§ 21-976 Reporting on GSAs.* ::
-
-
-a. For the purposes of this chapter, the following terms have the following meanings:
-
-   GSA. The term “GSA” means student-led groups that focus on issues of sexual and gender orientation, including but not limited to, combating homophobia and transphobia. These groups are commonly referred to as gay-straight alliances or gender-sexuality alliances.
-
-   LGBTQGNC training. The term “LGBTQGNC training” means training or professional development provided by the department that relates to supporting lesbian, gay, bisexual, transgender, queer or questioning and gender non-conforming students.
-
-   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from grade six up to and including grade twelve.
-
-b. No later than June 1, 2019, and annually thereafter on or before June 1, the department shall submit to the council and post online a report for the current academic year regarding the status of GSAs at each school. The report shall contain the following information for each school:
-
-   1. Whether such school has a GSA;
-
-   2. The number of teachers at such school that have received LGBTQGNC training;
-
-   3. The number of administrators, including the principal, at such school that have received LGBTQGNC training; and
-
-   4. A narrative description of the LGBTQGNC training offered to teachers and administrators, including whether any such training includes training related to GSAs.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would conflict with the interests of law enforcement or the safety of students.
-
-
-
-
-
-
 Chapter 13: School Meal Participation
 --------------------------------------------------
 
@@ -1186,6 +1153,39 @@ c. Such report shall also include the steps the department has taken to increase
 d. All information required to be reported pursuant to this section shall be aggregated citywide, as well as disaggregated by school, community school district and borough.
 
 e. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interest of law enforcement.
+
+
+
+
+
+
+Chapter 14: Reporting on GSAs
+--------------------------------------------------
+
+
+
+*§ 21-976 Reporting on GSAs.* ::
+
+
+a. For the purposes of this chapter, the following terms have the following meanings:
+
+   GSA. The term “GSA” means student-led groups that focus on issues of sexual and gender orientation, including but not limited to, combating homophobia and transphobia. These groups are commonly referred to as gay-straight alliances or gender-sexuality alliances.
+
+   LGBTQGNC training. The term “LGBTQGNC training” means training or professional development provided by the department that relates to supporting lesbian, gay, bisexual, transgender, queer or questioning and gender non-conforming students.
+
+   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from grade six up to and including grade twelve.
+
+b. No later than June 1, 2019, and annually thereafter on or before June 1, the department shall submit to the council and post online a report for the current academic year regarding the status of GSAs at each school. The report shall contain the following information for each school:
+
+   1. Whether such school has a GSA;
+
+   2. The number of teachers at such school that have received LGBTQGNC training;
+
+   3. The number of administrators, including the principal, at such school that have received LGBTQGNC training; and
+
+   4. A narrative description of the LGBTQGNC training offered to teachers and administrators, including whether any such training includes training related to GSAs.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would conflict with the interests of law enforcement or the safety of students.
 
 
 
@@ -1418,57 +1418,6 @@ c. No information that is required to be reported pursuant to this section shall
 
 
 
-Chapter 20: Reporting on Students in Temporary Housing
---------------------------------------------------
-
-
-
-*§ 21-987 [Reporting on students in temporary housing.]* ::
-
-
-a. For the purposes of this section, the following terms have the following meanings:
-
-   Borough of origin. The term “borough of origin” means the borough in which a student attended school when permanently housed or the borough of the school in which the student was last enrolled.
-
-   School. The term “school” means a school of the city school district of the city of New York.
-
-   Student. The term “student” means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as defined in section 4410 of the education law.
-
-   Sharing the housing of others. The term “sharing the housing of others” means individuals who have reported to the department that they are living with other persons due to loss of housing, economic hardship or a similar reason.
-
-   Students in temporary housing. The term “students in temporary housing” has the same meaning as that of the term “homeless children and youths” as defined in subsection 2 of section 11434a of title 42 of the United States code, provided that such individuals are enrolled in a school.
-
-b. Not later than November 1, 2018, and annually thereafter on or before November 1, the department shall, in consultation with and as provided by the department of homeless services, the department of social services/human resources administration, the department of youth and community development and the department of housing preservation and development, as necessary, submit to the council and post online a report regarding information on students in temporary housing for the preceding school year. Such report shall include, but not be limited to, the following information:
-
-   1. The total number of students in temporary housing, as reported to the department, disaggregated by school, and further disaggregated by:
-
-      (a) the number of students who are residing in a shelter, disaggregated by whether students are residing in shelters operated by (i) the department of homeless services, (ii) the department of social services/human resources administration, (iii) the department of youth and community development and (iv) the department of housing preservation and development; and
-
-      (b) the number of students sharing the housing of others;
-
-   2. The number of students residing in shelters operated by the department of homeless services who remain enrolled in a school in their borough of origin;
-
-   3. The total number of students residing in shelters operated by the department of homeless services who have transferred to a different school;
-
-   4. The total number of students in temporary housing receiving metrocards;
-
-   5. The total number of students in temporary housing receiving busing;
-
-   6. The percentage of students in temporary housing citywide;
-
-   7. The attendance rate of students in temporary housing;
-
-   8. The retention rate of students in temporary housing; and
-
-   9. The dropout rate of students in temporary housing.
-
-c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains a number that would allow the number of individuals in another category that is five or fewer to be deduced, the number shall be replaced with a symbol.
-
-
-
-
-
-
 Chapter 19: Reports on Discipline and Certain Emergency Transports of Students
 --------------------------------------------------
 
@@ -1568,6 +1517,57 @@ b. The chancellor shall submit to the council and post to the department's websi
 
 
 
+Chapter 20: Reporting on Students in Temporary Housing
+--------------------------------------------------
+
+
+
+*§ 21-987 [Reporting on students in temporary housing.]* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Borough of origin. The term “borough of origin” means the borough in which a student attended school when permanently housed or the borough of the school in which the student was last enrolled.
+
+   School. The term “school” means a school of the city school district of the city of New York.
+
+   Student. The term “student” means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as defined in section 4410 of the education law.
+
+   Sharing the housing of others. The term “sharing the housing of others” means individuals who have reported to the department that they are living with other persons due to loss of housing, economic hardship or a similar reason.
+
+   Students in temporary housing. The term “students in temporary housing” has the same meaning as that of the term “homeless children and youths” as defined in subsection 2 of section 11434a of title 42 of the United States code, provided that such individuals are enrolled in a school.
+
+b. Not later than November 1, 2018, and annually thereafter on or before November 1, the department shall, in consultation with and as provided by the department of homeless services, the department of social services/human resources administration, the department of youth and community development and the department of housing preservation and development, as necessary, submit to the council and post online a report regarding information on students in temporary housing for the preceding school year. Such report shall include, but not be limited to, the following information:
+
+   1. The total number of students in temporary housing, as reported to the department, disaggregated by school, and further disaggregated by:
+
+      (a) the number of students who are residing in a shelter, disaggregated by whether students are residing in shelters operated by (i) the department of homeless services, (ii) the department of social services/human resources administration, (iii) the department of youth and community development and (iv) the department of housing preservation and development; and
+
+      (b) the number of students sharing the housing of others;
+
+   2. The number of students residing in shelters operated by the department of homeless services who remain enrolled in a school in their borough of origin;
+
+   3. The total number of students residing in shelters operated by the department of homeless services who have transferred to a different school;
+
+   4. The total number of students in temporary housing receiving metrocards;
+
+   5. The total number of students in temporary housing receiving busing;
+
+   6. The percentage of students in temporary housing citywide;
+
+   7. The attendance rate of students in temporary housing;
+
+   8. The retention rate of students in temporary housing; and
+
+   9. The dropout rate of students in temporary housing.
+
+c. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of student information or that would interfere with law enforcement investigations or otherwise conflict with the interests of law enforcement. If a category contains between 1 and 5 students, or contains a number that would allow the number of individuals in another category that is five or fewer to be deduced, the number shall be replaced with a symbol.
+
+
+
+
+
+
 Chapter 22: Posting of Subdistrict Maps
 --------------------------------------------------
 
@@ -1656,6 +1656,31 @@ g. Nothing in this section shall be construed to affect the authority or materia
 
 
 
+Chapter 23: PTA and PA Reporting
+--------------------------------------------------
+
+
+
+*§ 21-990 PTA and PA reporting.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms have the following meanings:
+
+   PA. The term “PA” means a parent association in a school of the city school district of the city of New York, which is an organization of the parents of students created and established by the parents’ vote.
+
+   PTA. The term “PTA” means a parent-teacher association in a school of the city school district of the city of New York, which is established when the parent members of a PA vote to amend their bylaws to extend membership to teachers, as well as other categories of staff.
+
+   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade 12.
+
+b. Not later than December 1, 2019, and on or before December 1 annually thereafter, the department shall submit to the speaker of the council and post on the department’s website a report regarding the income and total expenditure for each PA and PTA in the prior school year.
+
+c. All information required to be reported by this section shall be aggregated citywide, as well as disaggregated by community school district and school. Information disaggregated by school shall be further disaggregated by student demographic information, including but not limited to race and ethnicity and English language learner status.
+
+
+
+
+
+
 Chapter 24: Distribution of Information Regarding Civil Service Examinations
 --------------------------------------------------
 
@@ -1681,31 +1706,6 @@ b. No later than November 1, 2019, and annually thereafter no later than Novembe
    6. A link to the civil service examination information page of the department of citywide administrative services website, with a note that this online page contains additional and up-to-date information about examination locations and timing and job eligibility requirements; and
 
    7. Any other information that the department deems relevant.
-
-
-
-
-
-
-Chapter 23: PTA and PA Reporting
---------------------------------------------------
-
-
-
-*§ 21-990 PTA and PA reporting.* ::
-
-
-a. Definitions. For the purposes of this section, the following terms have the following meanings:
-
-   PA. The term “PA” means a parent association in a school of the city school district of the city of New York, which is an organization of the parents of students created and established by the parents’ vote.
-
-   PTA. The term “PTA” means a parent-teacher association in a school of the city school district of the city of New York, which is established when the parent members of a PA vote to amend their bylaws to extend membership to teachers, as well as other categories of staff.
-
-   School. The term “school” means a school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade 12.
-
-b. Not later than December 1, 2019, and on or before December 1 annually thereafter, the department shall submit to the speaker of the council and post on the department’s website a report regarding the income and total expenditure for each PA and PTA in the prior school year.
-
-c. All information required to be reported by this section shall be aggregated citywide, as well as disaggregated by community school district and school. Information disaggregated by school shall be further disaggregated by student demographic information, including but not limited to race and ethnicity and English language learner status.
 
 
 
