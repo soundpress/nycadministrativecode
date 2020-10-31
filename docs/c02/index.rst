@@ -1,6 +1,971 @@
 Title 3: Elected officials
 ===================================================
 
+Chapter 2: City Council and City Clerk
+--------------------------------------------------
+
+
+
+
+**Subchapter 1: [Council Districts; Powers and Duties]**
+
+
+
+*§ 3-201 Councilmanic flag.* ::
+
+
+The official flag of the council shall be the same in design as the official flag of the city, except that upon the middle or white bar there shall be below the design of the seal, in a straight line, the word "Council"; the dimensions of such flag shall be the same as the standard size of flags used for state and parade occasions.
+
+
+
+
+
+
+*§ 3-202 Council districts.* ::
+
+
+a. The city is hereby divided into thirty-five council districts for the election of council members other than the public advocate, the boundaries of which are hereby established and described as follows:
+
+   1. First district. That part of the Borough of Staten Island bounded by a line described as follows: BEGINNING at a point in waters of Arthur Kill between border lines of New Jersey, and Richmond County, at Goethals Bridge, proceeding southeast, to Railroad cut, then proceeding east, to Gulf Avenue, to Staten Island Expressway, to Bengal Avenue, to Fahy Avenue, to Arlene Street, to Lander Avenue, to Richmond Avenue, to Victory Boulevard, to Willowbrook Road, to Watchogue Road, to Victory Boulevard, to Manor Road, to Ocean Terrace, to Todt Hill Road, to Richmond Road, proceeding northerly, to Cromwell Avenue, to Hylan Boulevard, to Old Town Road, to Staten Island Rapid Transit Line, proceeding north on Staten Island Rapid Transit Line, to West Fingerboard Road, to Steuben Street, to Hylan Boulevard, to Hickory Avenue, to McClean Avenue, to Lily Pond Avenue, extended to waters of the Atlantic Ocean; thence southerly and westerly through waters of the Atlantic Ocean, Raritan Bay, to the waters of Arthur Kill, along the intersection New Jersey-New York Line, proceeding northerly and including Island of Meadows, and Pralls Island, to the point or place of beginning.
+
+   2. Second district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the East River at East Twentieth Street extended, to East Twentieth Street, to First Avenue, to East Fourteenth Street, to Fourth Avenue, to East Eighth Street, to Broadway, to West Houston Street, to West Houston Street extended in the waters of the Hudson River, thence southerly, easterly, and northerly, along the East River, to the point or place of beginning; this District is intended to include that part of the City of New York known as Governor's Island, Ellis Island and Liberty Island, (Bedloe's Island).
+
+   3. Third district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the Hudson River, at West Houston Street extended, to West Houston Street, to Broadway, to East Eighth Street, to Fourth Avenue, to East Fourteenth Street, to First Avenue, to East Twentieth Street, to East Twentieth Street extended in the waters of the East River, north to East Thirty-ninth Street extended in the waters of the East River, west on East Thirty-ninth Street and its easterly prolongation to Second Avenue, to East Sixtieth Street, to Fifth Avenue, to Central Park South, to Avenue of the Americas, to West Fifty-fifth Street, to Seventh Avenue, to West Forty-eighth Street, to Eighth Avenue, to West Twenty-ninth Street, to Tenth Avenue, to West Thirty-sixth Street, to West Thirty-sixth Street extended to the waters of the Hudson River, thence southerly to the point or place of beginning.
+
+   4. Fourth district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the Hudson River at the Manhattan borough line and West Ninety-ninth Street extended, to West Ninety-ninth Street, to Broadway, to West Ninety-eighth Street, to Amsterdam Avenue, to West One Hundredth Street, to Central Park West, to Central Park South, to Avenue of the Americas, to West Fifty-fifth Street, to Seventh Avenue, to West Forty-eighth Street, to Eighth Avenue, to West Twenty-ninth Street, to Tenth Avenue, to West Thirty-sixth Street, extended into the waters of the Hudson River to the Manhattan borough line, thence northerly along said borough line to the point or place of beginning.
+
+   5. Fifth district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the Hudson River at the Manhattan borough line and West One Hundred Thirteenth Street extended, to West One Hundred Thirteenth Street, to Amsterdam Avenue, to Cathedral Parkway--Central Park North, to Fifth Avenue, to West One Hundred Twentieth Street, to Mount Morris Park West, to West One Hundred Twenty-fourth Street, to Fifth Avenue, to East One Hundred Thirty-second Street, extended into the waters of the Harlem River to the Manhattan borough line, thence northerly along said borough line to West One Hundred Sixty-fifth Street extended, to the Harlem River Drive, to Saint Nicholas Place, to West One Hundred Fifty-first Street, to Saint Nicholas Avenue, to West One Hundred Fifty-second Street, to Amsterdam Avenue, to West One Hundred Fifty-first Street, to Broadway, to West One Hundred Fiftieth Street, extended into the waters of the Hudson River to the Manhattan borough line, thence southerly along said borough line to the point or place of beginning.
+
+   6. Sixth district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the Hudson River at the Manhattan borough line at West One Hundred Fiftieth Street extended, to West One Hundred Fiftieth Street, to Broadway, to West One Hundred Fifty-first Street, to Amsterdam Avenue, to West One Hundred Fifty-second Street, to Saint Nicholas Avenue, to West One Hundred Fifty-first Street, to Saint Nicholas Place, to the Harlem River Drive, to West One Hundred Sixty-fifth Street extended, into the waters of the Harlem River to the Manhattan borough line, thence northerly, westerly and southerly along said borough line to the point or place of beginning.
+
+   7. Seventh district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the East River at the easterly prolongation of East Thirty-ninth Street extended to Franklin D. Roosevelt Drive along said East Thirty-ninth Street, to Second Avenue, to Sixtieth Street, to Fifth Avenue, to Central Park South, to Central Park West, to West Eighty-sixth Street, proceeding easterly through Central Park, to East Eighty-fourth Street, to Madison Avenue, to East Eighty-sixth Street, to Park Avenue, to East Ninety-first Street, to Lexington Avenue, to East Ninety-second Street, to First Avenue, to East Ninety-sixth Street extended into the waters of the East River, thence running southerly to the point or place of beginning; this district is intended to include that part of the City of New York known as Franklin D. Roosevelt Island.
+
+   8. Eighth district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the East River at the Manhattan borough line and East Ninety-sixth Street extended, to East Ninety-sixth Street, to First Avenue, to East Ninety-second Street, to Lexington Avenue, to East Ninety-first Street, to Park Avenue, to East Eighty-sixth Street, to Madison Avenue, to East Eighty-fourth Street, thence through Central Park to Central Park West at West Eighty-sixth Street, to West One Hundredth Street, to Amsterdam Avenue, to West Ninety-eighth Street, to Broadway, to West Ninety-ninth Street, extended into the waters of the Hudson River to the Manhattan borough line, thence northerly along said borough line to West One Hundred Thirteenth Street extended, to West One Hundred Thirteenth Street, to Amsterdam Avenue, to Cathedral Parkway – Central Park North, to Fifth Avenue, to East One Hundred Twentieth Street, to Mount Morris Park West, to West One Hundred Twenty-fourth Street, to Fifth Avenue, to East One Hundred Thirty-second Street, extended into the waters of the Harlem River to the Manhattan borough line, thence southerly along said borough line to the point or place of beginning. This district is intended to include that part of the City of New York known as Randall's Island and Ward's Island; this district is further intended to include that part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point in the Harlem River at the Macombs Dam Bridge, extended along the Macombs Dam Bridge, to Jerome Avenue, to East One Hundred Sixty-fifth Street, to Gerard Avenue, to East One Hundred Sixty-fourth Street, to Grand Concourse, to East One Hundred Fifty-third Street, to Morris Avenue, to Third Avenue, to Major Deegan Expressway, to Bruckner Boulevard, to Leggett Avenue, to Truxton Street, to Spofford Avenue, to Halleck Street, to Ryawa Avenue, to Manida Street, extended into the waters of the East River to the Bronx borough line, thence westerly and northerly along said borough line to the point or place of beginning. This District is intended to include that part of the City of New York known as North Brother Island and South Brother Island.
+
+   9. Ninth district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point at the intersection of the Bronx borough line and West Kingsbridge Road, to Major Deegan Expressway, to West Two Hundred Thirtieth Street, to Kingsbridge Terrace, to West Two Hundred Twenty-ninth Street, to Sedgwick Avenue, to Fordham Road, to University Avenue, to Burnside Avenue, to Jerome Avenue, to East One Hundred Sixty-eighth Street, to Grand Concourse, to East One Hundred Seventy-second Street, to Teller Avenue, to East One Hundred Seventieth Street, to East One Hundred Seventy-first Street, to Third Avenue, to Saint Paul's Place, to Crotona Park South, to Crotona Avenue, to Prospect Avenue, to East One Hundred Sixty-fifth Street, to Union Avenue, to East One Hundred Sixty-first Street, to Third Avenue, to East One Hundred Fifty-ninth Street, to Courtlandt Avenue, to East One Hundred Fifty-sixth Street, to Melrose Avenue, to Third Avenue, to Morris Avenue, to East One Hundred Fifty-third Street, to Grand Concourse, to East One Hundred Sixty-fourth Street, to Gerard Avenue, to East One Hundred Sixty-fifth Street, to Jerome Avenue, extended into the waters of the Harlem River to the Bronx borough line, thence northerly along said borough line to the point or place of beginning.
+
+   10. Tenth district. The part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point where the Bronx-Westchester County line intersects the Hutchinson River Parkway, thence southerly along the Hutchinson River Parkway, to the Hutchinson River, thence easterly in the waters of said River, to the Harlem River Division Penn Central Railroad tracks, thence southerly along said Railroad tracks, to Hunter Avenue, to Hutchinson River Parkway, to the New England Thruway, to Conner Street, to Provost Avenue, to Light Street, to Harper Avenue, to Garrett Place, to Pratt Avenue, to East Two Hundred Thirty-third Street, to Monticello Avenue, to Strang Avenue, to Myrdok Avenue, to Edenwald Avenue, to Wylder Avenue, to Pitman Avenue, to Barnes Avenue, to East Two Hundred Thirty-third Street, to White Plains Road, to East Two Hundred Thirtieth Street, to Carpenter Avenue, to East Two Hundred Twenty-ninth Street, to Bronx Boulevard, to East Gun Hill Road, to the Harlem Division Penn Central Railroad tracks, to East Two Hundred Eleventh Street, to Perry Avenue, to East Two Hundred Fifth Street, to Bainbridge Avenue, to East Mosholu Parkway South, to Briggs Avenue, to Bedford Park Boulevard, to Grand Concourse, to East One Hundred Ninety-eighth Street, to Jerome Avenue, to Kingsbridge Road, to University Avenue, to West One Hundred Ninetieth Street, to Webb Avenue, to Sedgwick Avenue, to West Two Hundred Twenty-ninth Street, to Kingsbridge Terrace, to West Two Hundred Thirtieth Street, to Major Deegan Expressway, to West Kingsbridge Road, to the Bronx borough line, thence westerly, northerly and easterly along said borough line to the point or place of beginning.
+
+   11. Eleventh district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point in the waters of the East River at the intersection of the Bronx-Queens County line and Olmstead Avenue extended, thence northerly through the waters of Pugsley's Creek, to Lacombe Avenue, to Olmstead Avenue, to Lafayette Avenue, to Pugsley Avenue, to Cross Bronx Expressway, to East One Hundred Seventy-seventh Street, to DeVoe Avenue, to East Tremont Avenue, to Bronx Street, to East One Hundred Eightieth Street, to Boston Road, to Bronx Park South, to Vyse Avenue, to Cross Bronx Expressway, to Sheridan Expressway, to East One Hundred Sixty-fifth Street, to Westchester Avenue, to East One Hundred Sixty-fifth Street, to Union Avenue, to East One Hundred Sixty-first Street, to Third Avenue, to East One Hundred Fifty-ninth Street, to Courtlandt Avenue, to East One Hundred Fifty-sixth Street, to Melrose Avenue, to Third Avenue, to Major Deegan Expressway, to Bruckner Boulevard, to Leggett Avenue, to Truxton Street, to Spofford Avenue, to Halleck Street, to Ryawa Avenue, to Manida Street, extended into the waters of the East River to the Bronx borough line, thence easterly and northerly along said borough line to the point or place of beginning; this District is intended to include that part of the City of New York known as Riker's Island.
+
+   12. Twelfth district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point in the waters of the East River at the intersection of the Bronx-Queens County line and Olmstead Avenue extended, thence northerly through the waters of Pugsley's Creek, to Lacombe Avenue, to Olmstead Avenue, to Lafayette Avenue, to Pugsley Avenue, to Cross Bronx Expressway, to East One Hundred Seventy-seventh Street, to Devoe Avenue, to East Tremont Avenue, to Bronx Street, to East One Hundred Eightieth Street, to Boston Road, to Bronx Park South, to Southern Boulevard, to Fordham Road, to Pelham Parkway, to Burr Avenue, to Bruckner Expressway, to Middletown Road, to Stadium Avenue, to Watt Avenue, extended to the waters of Long Island Sound, thence northerly and easterly to the Bronx borough line, thence southerly and westerly along said borough line to the point or place of beginning; this District is intended to include that part of the City of New York known as City Island and Hart Island.
+
+   13. Thirteenth district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point at the intersection of Sedgwick Avenue and Fordham Road, thence easterly along Fordham Road, to University Avenue, to West Burnside Avenue, to Jerome Avenue, to East One Hundred Sixty-eighth Street, to Grand Concourse, to East One Hundred Seventy-second Street, to Teller Avenue, to East One Hundred Seventieth Street, to East One Hundred Seventy-first Street, to Third Avenue, to Saint Paul's Place, to Crotona Park South, to Crotona Avenue, to Prospect Avenue, to East One Hundred Sixty-fifth Street, to Westchester Avenue, to East One Hundred Sixty-fifth Street, to Sheridan Expressway, to Cross Bronx Expressway, to Vyse Avenue, to Bronx Park South, to East One Hundred Eighty-second Street, to Quarry Road, to East One Hundred Eighty-first Street, to Third Avenue, to East One Hundred Eighty-second Street, to Park Avenue, to Fordham Road, to Webster Avenue, to East One Hundred Ninety-eighth Street, to Jerome Avenue, to Kingsbridge Road, to University Avenue, to West One Hundred Ninetieth Street, to Webb Avenue, to Sedgwick Avenue, to the point or place of beginning.
+
+   14. Fourteenth district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point where the Bronx-Westchester County line intersects the Hutchinson River Parkway, thence southerly along the Hutchinson River Parkway, to the Hutchinson River, thence easterly in the waters of said River, to the Harlem River Division Penn Central Railroad tracks, thence southerly along said Railroad tracks, to Hunter Avenue, to Hutchinson River Parkway, to the New England Thruway, to Conner Street, to Provost Avenue, to Light Street, to Harper Avenue, to Garrett Place, to Pratt Avenue, to East Two Hundred Thirty-third Street, to Monticello Avenue, to Strang Avenue, to Murdock Avenue, to Edenwald Avenue, to Wilder Avenue, to Pitman Avenue, to Barnes Avenue, to East Two Hundred Thirty-third Street, to White Plains Road, to East Two Hundred Thirtieth Street, to Carpenter Avenue, to East Two Hundred Twenty-ninth Street, to Bronx Boulevard, to East Gun Hill Road, to the Harlem Division Penn Central Railroad tracks, to East Two Hundred Eleventh Street, to Perry Avenue, to East Two Hundred Fifth Street, to Bainbridge Avenue, to East Mosholu Parkway South, to Briggs Avenue, to Bedford Park Boulevard, to Grand Concourse, to East One Hundred Ninety-eighth Street, to Webster Avenue, to Fordham Road, to Park Avenue, to East One Hundred Eighty-second Street, to Third Avenue, to East One Hundred Eighty-first Street, to Quarry Road, to East One Hundred Eighty-second Street, to Southern Boulevard, to Fordham Road, to Pelham Parkway, to Burr Avenue, to Bruckner Expressway, to Middletown Road, to Stadium Avenue, to Watt Avenue, extended to the waters of Long Island Sound, thence northerly to the Bronx-Westchester County line, thence westerly along said County line to the point or place of beginning.
+
+   15. Fifteenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point in the waters of the Atlantic Ocean, proceeding easterly along the Brooklyn-Queens borough line, into Rockaway Inlet, thence, easterly and northerly along the border of the Brooklyn-Queens borough line, through Spring Creek following the Brooklyn-Queens borough line, to One Hundred Fifty-fifth Avenue, proceeding north on Sapphire Street, to Dumont Avenue, to Ruby Street, to Liberty Avenue, to Drew Street, to Ninety-fifth Avenue, to Eldert Lane, extended to the Brooklyn-Queens borough line, following said Brooklyn-Queens borough line, westerly to Sunnyside Park, north to Robert Place, to Robert Street, to Hendricks Street, to Vermont Avenue, following the Brooklyn-Queens borough line through the Cemetery of the Evergreens, to Irving Avenue, to Eldert Street, to Wycoff Avenue, to Gates Avenue, to Nicholas Avenue, to Menahan Street, to Cypress Avenue, to Stanhope Street, to Grandview Avenue, to Gates Avenue, to Forest Avenue, to Putman Avenue, to Woodward Avenue, to Catalpa Avenue, to Fresh Pond Road, to Myrtle Avenue, to Central Avenue, to Sixty-sixth Street, to Myrtle Avenue, to Eighty-eighth Street, to Eighty-third Drive, to Eighty-ninth Street, to Myrtle Avenue, to Woodhaven Boulevard, to Jamaica Avenue, to Eighty-seventh Street, to Atlantic Avenue, to Ninety-second Street, to Ninety-seventh Avenue, to Eighty-eighth Street, to Rockaway Boulevard, to Cross Bay Boulevard, to North Conduit Avenue, to Cohancy Street, proceeding southerly, to South Conduit Avenue, to Nassau Expressway, to One Hundred Fiftieth Street, running thence easterly and southerly along the northerly and easterly and southerly borders of the John F. Kennedy International Airport, thence following the Queens-Nassau County borderline to the Atlantic Ocean, thence westerly, including that part of the City of New York known as the Rockaways to the point or place of beginning.
+
+   16. Sixteenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where the Queens-Nassau County boundary line intersects Twenty-fourth Avenue, extended into the waters of Little Neck Bay, to the Cross Island Parkway, thence southerly, to Thirty-seventh Avenue, thence easterly across Little Neck Bay along Thirty-seventh Avenue, to Two Hundred Thirty-third Street, to Bay Street, to Two Hundred Thirty-fourth Street, thence westerly across Little Neck Bay, to Forty-first Avenue, to Two Hundred Fifteenth Street, to Northern Boulevard, to Clearview Expressway, to Forty-fifth Road, to Francis Lewis Boulevard, to Forty-fifth Avenue, to One Hundred Ninety-second Street, to Forty-seventh Avenue, to Auburndale Lane, to Meadow Road, to Fresh Meadow Lane, to Long Island Expressway, to Bell Boulevard, to Sixty-seventh Avenue, to Two Hundred Ninth Street, to Richland Avenue, to Hollis Court Boulevard, to Union Turnpike, to Utopia Parkway, southerly, to Home Lawn Street, to One Hundred Seventieth Street, to Jamaica Avenue, to Hollis Avenue, to Ninety-ninth Avenue, to Francis Lewis Boulevard, to Jamaica Avenue, to Two Hundred Eleventh Street, to Hollis Avenue, to Two Hundred Thirteenth Street, to Witthoff Street, to Two Hundred Twelfth Street, to One Hundred Fifteenth Avenue, to Two Hundred Twenty-fourth Street, to One Hundred Fifteenth Road, to Two Hundred Thirtieth Street, to One Hundred Fifteenth Avenue, to Cross Island Parkway, to Queens-Nassau County boundary line, thence proceeding northerly and easterly to the point or place of beginning.
+
+   17. Seventeenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where Jamaica Avenue intersects Sutphin Boulevard, thence along Jamaica Avenue, to Hollis Avenue, to Ninety-ninth Avenue, to Francis Lewis Boulevard, to Jamaica Avenue, to Two Hundred Eleventh Street, to Hollis Avenue, to Two Hundred Thirteenth Street, to Witthoff Street, to Two Hundred Twelfth Street, to One Hundred Fifteenth Avenue, to Two Hundred Twenty-fourth Street, to One Hundred Fifteenth Road, to Two Hundred Thirtieth Street, to One Hundred Fifteenth Avenue, to the Cross Island Parkway, to the Queens-Nassau County boundary line, proceeding southerly along said line to the point where Quigley Boulevard intersects Rockaway Boulevard, thence proceeding northerly and westerly along the John F. Kennedy International Airport, to One Hundred Fiftieth Street, to North Conduit Avenue, to Van Wyck Expressway, to Rockaway Boulevard, to One Hundred Sixteenth Avenue, to Sutphin Boulevard, to the point or place of beginning.
+
+   18. Eighteenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where Jamaica Avenue, intersects Sutphin Boulevard, proceeding easterly along Jamaica Avenue, to One Hundred Seventieth Street, to Hillside Avenue, to Home Lawn Street, to Union Turnpike easterly, to Hollis Court Boulevard, to Richland Avenue, to Two Hundred Tenth Street, to Sixty-seventh Avenue, to Bell Boulevard, to Long Island Expressway westerly to Fresh Meadow Lane, to Booth Memorial Avenue, to One Hundred Sixty-fourth Street, to Oak Avenue, to Parsons Boulevard, to Kalmia Avenue, to One Hundred Fifty-sixth Street, to Forty-sixth Avenue, to Parsons Boulevard, to Forty-fifth Avenue, to Kissena Boulevard, to Elder Avenue, to Main Street, to Peck Avenue, to Elder Avenue, to One Hundred Thirty-third Street, to Booth Memorial Avenue, to College Point Boulevard, to Park Drive East, to the end of Park Drive East, thence easterly along the northern boundary of Grand Central Parkway, to Main Street, to Manton Street, to One Hundred Thirty-fourth Street, to Interborough Parkway, to Park Lane, to Park Lane South, to Metropolitan Avenue, to Van Wyck Expressway, to Altantic Avenue, to One Hundred Twenty-seventh Street, to One Hundred Third Avenue, to One Hundred Thirty-first Street, to One Hundred Ninth Avenue, to One Hundred Twenty-fourth Street, to Rockaway Boulevard, westerly, to One Hundred Twenty-third Street, to One Hundred Thirty-third Avenue, to One Hundred Fourteenth Street, to North Conduit Avenue, to Hawtree Avenue southerly, to Cohancy Street, to Nassau Expressway, to One Hundred Fiftieth Street, to North Conduit Avenue, to Van Wyck Expressway, to Rockaway Boulevard, to One Hundred Sixteenth Avenue, to Sutphin Boulevard, to the point or place of beginning.
+
+   19. Nineteenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where the Queens-Nassau County boundary line intersects Twenty-fourth Avenue, extended into the waters of Little Neck Bay, to Cross Island Parkway, thence southerly, to Thirty-seventh Avenue, thence easterly across Little Neck Bay, along Thirty-seventh Avenue, to Two Hundred Thirty-third Street, to Bay Street, to Two Hundred Thirty-fourth Street, thence westerly across Little Neck Bay, to Forty-first Avenue, to Two Hundred Fifteenth Street, to Northern Boulevard, to Clearview Expressway, to Forty-fifth Road, to Francis Lewis Boulevard, to Forty-fifth Avenue, to One Hundred Ninety-second Street, to Forty-seventh Avenue, to Auburndale Lane, to Meadow Road, to Fresh Meadow Lane, to Booth Memorial Avenue, to One Hundred Sixty-fourth Street, to Oak Avenue, to Parsons Boulevard, to Kalmia Avenue, to One Hundred Fifty-sixth Street, to Forty-sixth Avenue, to Parsons Boulevard, to Forty-fifth Avenue, to Kissena Boulevard, to Elder Avenue, to Main Street, to Peck Avenue, to Elder Avenue, to One Hundred Thirty-third Street, to Booth Memorial Road, to College Point Boulevard, to Long Island Expressway, to the southwest corner of Flushing Meadow Park, proceeding north around said park, to Forty-fifth Avenue, to One Hundred Second Street, to Roosevelt Avenue, to Ninety-ninth Street, to Thirty-fifth Avenue, to Ninety-seventh Street, to Northern Boulevard, to College Point Boulevard, to Whitestone Expressway, to Fourteenth Avenue, to Parsons Boulevard, to Thirteenth Avenue, to One Hundred Forty-seventh Street, to Fourteenth Avenue, to One Hundred Forty-eighth Street, to Fifteenth Avenue, to Francis Lewis Boulevard, to Cross Island Parkway, to One Hundred Fifty-fourth Street, to Twelfth Avenue, to One Hundred Fifty-seventh Street, to Powells Cove Boulevard, to One Hundred Fifty-eighth Street, to Riverside Drive, to One Hundred Sixty-first Street, extended into the East River, thence proceeding easterly and southerly to the point or place of beginning.
+
+   20. Twentieth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where the waters of the East River intersects Thirty-third Road, to Vernon Boulevard, to Thirty-fourth Avenue, to Northern Boulevard, to Forty-ninth Street, to Broadway, to Forty-eighth Street, to Thirty-first Avenue, to Brooklyn-Queens Expressway, to Thirtieth Avenue, to Seventy-first Street, to Northern Boulevard, to College Point Boulevard, to Whitestone Expressway, to Fourteenth Avenue, to Parsons Boulevard, to Thirteenth Avenue, to One Hundred Forty-seventh Street, to Fourteenth Avenue, to One Hundred Forty-ninth Street, to Fifteenth Avenue, to Francis Lewis Boulevard, to Cross Island Parkway, to One Hundred Fifty-fourth Street, to Twelfth Avenue, to One Hundred Fifty-seventh Street, to Powells Cove Boulevard, to One Hundred Fifty-eighth Street, to Riverside Drive, to One Hundred Sixty-first Street, extended into the East River, proceeding westerly, along the Bronx-Queens County border, to the point or place of beginning.
+
+   21. Twenty-first district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where the waters of the East River intersects Thirty-third Road, to Vernon Boulevard, to Thirty-fourth Avenue, to Northern Boulevard, to Forty-ninth Street, to Broadway, to Forty-eighth Street, to Thirty-first Avenue, to Brooklyn-Queens Expressway, to Thirtieth Avenue, southerly to Seventy-first Street, to Thirty-fifth Avenue, to Leverich Street, to Thirty-seventh Avenue, to Eightieth Street, to Forty-first Avenue, to Baxter Avenue, to Woodside Avenue, to Seventy-ninth Street, to Forty-fifth Avenue, to Broadway, to Maurice Avenue, to Queens Boulevard, to Goldsmith Street, to Van Horn Street, to Fifty-sixth Avenue, to Haspel Street, to Fifty-seventh Avenue, to Long Island Expressway, to Eighty-fourth Street, to Caldwell Avenue, to Eightieth Street, to Sixty-second Avenue, to Juniper Boulevard North, to Seventy-fifth Street, to Eliot Avenue, proceeding southerly around Juniper Valley Park, to Juniper Boulevard South, to Seventy-seventh Street, to Furmanville Avenue, to Seventy-ninth Street, to Metropolitan Avenue, to Sixty-ninth Street, to Sixty-third Avenue, to Mount Olivet Crescent, to Sixty-second Avenue, to Sixty-fourth Street, to Metropolitan Avenue, to Sixtieth Street, to Sixtieth Road, to Rust Street, along Bushwick Junction Railroad, to Flushing Avenue, to Fifty-fifth Street, to Arnold Avenue, to Rene Court, to Grandview Avenue, to Stanhope Street, to Cypress Avenue, northerly and westerly along the Kings-Queens border, to the waters of the East River Channel, proceeding northerly to the point or place of beginning.
+
+   22. Twenty-second district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at the intersection of Metropolitan Avenue and Jamaica Avenue, proceeding along Metropolitan Avenue, to Park Lane South, to Park Lane, to Interborough Parkway, to One Hundred Thirty-fourth Street, to Eighty-third Avenue, to Manton Street, to Main Street, to Grand Central Parkway, along said Parkway, to Union Turnpike, proceeding westerly to Park Drive East, to Long Island Expressway, proceeding westerly on said Expressway, to Ninety-seventh Place, to Sixty-second Drive, to Ninety-seventh Street, to Sixty-third Road, to Queens Boulevard, to Sixty-third Avenue, to Woodhaven Boulevard, to Sixty-seventh Avenue, to Fitchett Street, to Sixty-sixth Road, to Alderton Street, to Dieterle Crescent, to Thornton Place, to Fleet Street, to Selfridge Street, to Metropolitan Avenue, to Woodhaven Boulevard, to Union Turnpike, to Pedestrian Way, thence southerly to Myrtle Avenue, to Woodhaven Boulevard, to Jamaica Avenue, to Eighty-seventh Street, to Atlantic Avenue, to Ninety-second Street, to Ninety-seventh Avenue, to Eighty-eighth Street, to Rockaway Boulevard, to Cross Bay Boulevard, to North Conduit Avenue, to One Hundred Fourteenth Street, to One Hundred Thirty-third Avenue, to One Hundred Twenty-third Street, to Rockaway Boulevard, to One Hundred Twenty-fourth Street, to One Hundred Ninth Avenue, to One Hundred Thirty-first Street, to One Hundred Third Avenue, to One Hundred Twenty-seventh Street, to Atlantic Avenue, to Van Wyck Expressway, to Jamaica Avenue, to the point or place of beginning.
+
+   23. Twenty-third district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn-Queens borough line at Sheridan Avenue extended, to Flatlands Avenue, to East One Hundred Third Street, to Glenwood Road, to East One Hundred Fifth Street, to Farragut Road, to East One Hundred Eighth Street, to Stanley Avenue, to Louisiana Avenue, to Dewitt Avenue, to Van Sinderen Avenue, to Linden Boulevard, to Rockaway Avenue, to Ditmas Avenue, to Rockaway Parkway, to Avenue D, to Foster Avenue, to Ralph Avenue, to the Long Island Railroad tracks, to East Fifty-sixth Street extended, to East Fifty-sixth Street, to Avenue D, to Kings Highway, to Foster Avenue, to Utica Avenue, to Glenwood Road, to Flatbush Avenue, to Avenue H, to East Thirty-fourth Street, to Avenue K, to East Thirty-fifth Street, to Avenue M, to East Thirty-sixth Street, to Flatlands Avenue, to East Thirty-seventh Street, to Quentin Road, to Nostrand Avenue, to Gerritsen Avenue, to Batchelder Street, to Avenue V, to Bragg Street, to Avenue X, to Batchelder Street, to Avenue Z, to Nostrand Avenue, to Emmons Avenue, to East Twenty-seventh Street, to Sheepshead Bay, thence easterly along Sheepshead Bay to Knapp Street extended, thence southerly to the Brooklyn borough line, thence easterly and northerly along said borough line to the point or place of beginning.
+
+   24. Twenty-fourth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn-Queens borough line at Sheridan Avenue extended, to Flatlands Avenue, to East One Hundred Third Street, to Glenwood Road, to East One Hundred Fifth Street, to Farragut Road, to East One Hundred Eighth Street, to Stanley Avenue, to Louisiana Avenue, to Dewitt Avenue, to Van Sinderen Avenue, to Linden Boulevard, to Rockaway Avenue, to Ditmas Avenue, to Rockaway Parkway, to Avenue D, to Foster Avenue, to Ralph Avenue, to the Long Island Railroad tracks, to East Fifty-sixth Street extended, to East Fifty-sixth Street, to Avenue D, to East Fifty-fourth Street, to Church Avenue, to East Fifty-fifth Street, to Clarkson Avenue, to Remsen Avenue, to Lenox Road, to East Ninety-sixth Street, to Kings Highway, to East Ninety-eighth Street, to Livonia Avenue, to Saratoga Avenue, to Dumont Avenue, to Rockaway Avenue, to East New York Avenue, to Hopkinson Avenue, to Fulton Street, to Saratoga Avenue, to Broadway, to Jamaica Avenue, to Pennsylvania Avenue, to Liberty Avenue, to Autumn Avenue, to McKinley Avenue, to the Brooklyn-Queens borough line at Drew Street, thence southerly along said borough line to the point or place of beginning.
+
+   25. Twenty-fifth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Ocean Parkway and Avenue H, thence along Avenue H to East Eighth Street, to Avenue I, to East Twelfth Street, to Avenue H, to East Seventeenth Street, to Avenue I, to East Twenty-seventh Street to the Long Island Railroad tracks, to Nostrand Avenue, to Avenue H, to Flatbush Avenue, to Glenwood Road, to Utica Avenue, to Foster Avenue, to Kings Highway, to East Fifty-fourth Street, to Church Avenue, to East Fifty-fifth Street, to Linden Boulevard, to East Forty-ninth Street, to Clarkson Avenue, to Flatbush Avenue, to Parkside Avenue, to Parade Place, to Caton Avenue, to Coney Island Avenue, to Church Avenue, to East Fourth Street, to Ditmas Avenue, to East Eighth Street, to Eighteenth Avenue, to Ocean Parkway, to Avenue H, to the point or place of beginning.
+
+   26. Twenty-sixth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Broadway and Saratoga Avenue, to Fulton Street, to Hopkinson Avenue, to East New York Avenue, to Rockaway Avenue, to Dumont Avenue, to Saratoga Avenue, to Livonia Avenue, to East Ninety-eighth Street, to Kings Highway, to East Ninety-sixth Street, to Lenox Avenue, to Remsen Avenue, to Clarkson Avenue, to East Fifty-fifth Street, to Linden Boulevard, to East Forty-ninth Street, to Clarkson Avenue, to Flatbush Avenue, to Parkside Avenue, to Ocean Avenue, to Lincoln Road, to Flatbush Avenue, to Washington Avenue, to Lefferts Avenue, to Schenectady Avenue, to Eastern Parkway, to Kingston Avenue, to Pacific Street, to Brooklyn Avenue, to Fulton Street, to Tompkins Avenue, to Jefferson Avenue, to Throop Avenue, to Park Avenue, to Broadway, to the point or place of beginning.
+
+   27. Twenty-seventh district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Eldert Lane and Ninety-fifth Avenue at the Brooklyn-Queens borough line to Drew Street, to McKinley Avenue, to Autumn Avenue, to Liberty Avenue, to Pennsylvania Avenue, to Jamaica Avenue, to Broadway, to Park Avenue, to Throop Avenue, to Myrtle Avenue, to Bedford Avenue, to Lynch Street, to Broadway, to Berry Street, to Metropolitan Avenue, to Roebling Street, to North Fifth Street, to Havemeyer Street, to Metropolitan Avenue, to Union Avenue, to Powers Street, to Lorimer Street, to Maujer Street, to Leonard Street, to Grand Street, to Morgan Avenue, to Johnson Avenue, to Stewart Avenue, to Flushing Avenue, to Wyckoff Avenue, to Stockholm Street, to the Brooklyn-Queens borough line, thence southerly, easterly, and southerly along said borough line to the point or place of beginning.
+
+   28. Twenty-eighth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Lincoln Road and Ocean Avenue, to Flatbush Avenue, to Grand Army Plaza, around the eastern boundary of said Plaza to Vanderbilt Avenue, to Sterling Place, to Flatbush Avenue, to Myrtle Avenue, to Vanderbilt Avenue, to Brooklyn-Queens Expressway, to Flushing Avenue, to Bedford Avenue, to Myrtle Avenue, to Throop Avenue, to Jefferson Avenue, to Tompkins Avenue, to Fulton Street, to Brooklyn Avenue, to Pacific Street, to Kingston Avenue, to Eastern Parkway, to Schenectady Avenue, to Lefferts Avenue, to Washington Avenue, to Flatbush Avenue, to Lincoln Road, to the point or place of beginning.
+
+   29. Twenty-ninth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of Buttermilk Channel at Hamilton Avenue extended, to Hamilton Avenue-Ferry Place, to Van Brunt Street, to DeGraw Street, to Court Street, to Douglas Court, to Douglas Street, to Gowanus Canal, to Carroll Street, to Fourth Avenue, to Fifth Street, to Eighth Avenue, to Union Street, to Grand Army Plaza, around the eastern boundary of said Plaza, to Vanderbilt Avenue, to Sterling Place, to Flatbush Avenue, to Myrtle Avenue, to Vanderbilt Avenue, to Brooklyn-Queens Expressway, to Flushing Avenue, to Bedford Avenue, to Lynch Street, to Broadway, to Berry Street, to Metropolitan Avenue, to Roebling Street, to North Fifth Street, to Havemeyer Street, to Metropolitan Avenue, to Union Avenue, to Powers Street, to Lorimer Street, to Maujer Street, to Leonard Street, to Grand Street, to Morgan Avenue, to Johnson Avenue, to Stewart Avenue, to Flushing Avenue, to Wyckoff Avenue, to Stockholm Street, to Brooklyn-Queens borough line, thence northerly westerly, and southerly along the Brooklyn borough line to the point or place of beginning.
+
+   30. Thirtieth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of Buttermilk Channel at Hamilton Avenue extended, to Hamilton Avenue-Ferry Place, to Van Brunt Street, to DeGraw Street, to Court Street, to Douglas Court, to Douglas Street, to Gowanus Canal, to Carroll Street, to Fourth Avenue, to Fifth Street, to Eighth Avenue, to Union Street, to Grand Army Plaza, to Flatbush Avenue, to Ocean Avenue, to Parkside Avenue, to Parade Place, to Caton Avenue, to Coney Island Avenue, to Church Avenue, to Dahill Road, to Sixteenth Avenue, to Forty-sixth Street, to Thirteenth Avenue, to Fifty-fifth Street, to Third Avenue, to Fifty-fourth Street, to Second Avenue, to Fifty-seventh Street, extended into the waters of the Upper Bay to the Brooklyn borough line, thence northerly along said borough line to the point or place of beginning.
+
+   31. Thirty-first district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of the Upper Bay at Fifty-seventh Street extended, to Fifty-seventh Street, to Second Avenue, to Fifty-fourth Street, to Third Avenue, to Fifty-fifth Street, to New Utrecht Avenue, to Sixty-seventh Street, to Eighteenth Avenue, to Sixty-sixth Street, to Nineteenth Avenue, to Seventy-seventh Street, to Twentieth Avenue, to Benson Avenue, to Eighteenth Avenue, to Cropsey Avenue, to Bay Nineteenth Street, to Shore Parkway, to Bay Eighth Street, to Cropsey Avenue, to Fourteenth Avenue, to Poly Place, to Battery Avenue, thence northerly and westerly along the border of the United States Government reservation known as Fort Hamilton, to Gowanus Expressway, to Fort Hamilton Parkway, to One Hundred First Street, to Fourth Avenue, extended into the waters of the Narrows to Brooklyn borough line, thence northerly along said borough line to the point or place of beginning.
+
+   32. Thirty-second district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Church Avenue and Dahill Road, to East Fourth Street, to Ditmas Avenue, to East Eighth Street, to Eighteenth Avenue, to Ocean Parkway, to Avenue H, to East Eighth Street, to Avenue I, to East Twelfth Street, to Avenue H, to East Seventeenth Street, to Avenue I, to East Twenty-seventh Street, to the Long Island Railroad tracks, to Nostrand Avenue, to Avenue H, to East Thirty-fourth Street, to Avenue K, to East Thirty-fifth Street, to Avenue M, to East Thirty-sixth Street, to Flatlands Avenue, to East Thirty-seventh Street, to Quentin Road, to Nostrand Avenue, to Gerritsen Avenue, to Batchelder Street, to Avenue U, to East Twenty-ninth Street, to Avenue T, to East Sixteenth Street, to Avenue S, to East Fifteenth Street, to Avenue R, to East Twelfth Street, to Quentin Road, to West Twelfth Street, to Kings Highway, to Bay Parkway, to Seventy-seventh Street, to Nineteenth Avenue, to Sixty-sixth Street, to Eighteenth Avenue, to Sixty-seventh Street, to New Utrecht Avenue, to Thirteenth Avenue, to Forty-sixth Street, to Sixteenth Avenue, to Dahill Road, to the point or place of beginning.
+
+   33. Thirty-third district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of Lower New York Bay at Twenty-sixth Avenue extended, to Twenty-sixth Avenue, to Harway Avenue, to Stillwell Avenue, to Avenue U, to West Ninth Street, to Avenue T, to West Twelfth Street, to Quentin Road, to East Twelfth Street, to Avenue R, to East Fifteenth Street, to Avenue S, to East Sixteenth Street, to Avenue T, to East Twenty-ninth Street, to Avenue U, to Batchelder Street, to Avenue V, to Bragg Street, to Avenue X, to Batchelder Street, to Avenue Z, to Nostrand Avenue, to Emmons Avenue, to East Twenty-seventh Street, to Sheepshead Bay, thence easterly along Sheepshead Bay to Knapp Street extended, thence southerly to the Brooklyn borough line, thence westerly and northerly along said borough line to the point or place of beginning.
+
+   34. Thirty-fourth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point at the intersection of Northern Boulevard and Seventy-first Street, proceeding easterly to Ninety-seventh Street, to Thirty-fifth Avenue, to Ninety-ninth Street, to Roosevelt Avenue, to One Hundred Second Street, to Forty-fifth Avenue, to One Hundred Eleventh Street, (along outer line of Flushing-Corona Park), to Long Island Expressway, thence westerly, to Ninety-seventh Place, to Sixty-second Drive, to Ninety-seventh Street, to Sixty-third Road, to Queens Boulevard, to Sixty-third Avenue, to Woodhaven Boulevard, to Sixty-seventh Avenue, to Fitchett Street, to Sixty-sixth Road, to Alderton Street, to Dieterle Crescent, to Thornton Place, to Fleet Street, to Selfridge Street, to Metropolitan Avenue, to Woodhaven Boulevard, to Union Turnpike, to Pedestrian Way, thence south and southeast, along the line of Forest Park, to Myrtle Avenue, to Eighty-ninth Street, to Eighty-third Drive, to Eighty-eighth Street, to Myrtle Avenue, to Sixty-sixth Street, to Central Avenue, to Sixty-first Street, to Fresh Pond Road, to Catalpa Avenue to Woodward Avenue, to Putnam Avenue, to Forest Avenue, to Gates Avenue, to Grandview Avenue, to Rene Court, to Metropolitan Avenue, to Arnold Avenue, to Fifty-fifth Street, to Flushing Avenue, to Rust Street, to Andrews Street, to Forest Avenue, to Metropolitan Avenue, thence easterly, to Sixty-fourth Street, to Sixty-second Avenue, to Mount Olivet Crescent, to Sixty-third Avenue, to Sixty-ninth Street, to Metropolitan Avenue, to Seventy-ninth Street, to Furmanville Avenue, to Seventy-seventh Street, to Juniper Boulevard South, thence westerly to Sixty-second Drive, thence northerly and easterly around Juniper Valley Park along Juniper Boulevard North, to Sixty-second Avenue, to Eightieth Street, to Caldwell Avenue, to Eighty-fourth Street, to Long Island Expressway, to Long Island Railroad Cut, to Fifty-seventh Avenue, crossing the Long Island Railroad Cut, to Fifty-sixth Street, to Van Horn Street, to Grand Avenue, to Goldsmith Street, to Queens Boulevard, to Maurice Avenue, to Broadway to Forty-fifth Avenue, to Seventy-ninth Street, to Woodside Avenue, to Baxter Avenue, to Forty-first Avenue, to Eightieth Street, to Thirty-seventh Avenue, to Leverich Street, to Thirty-fifth Avenue, to Northern Boulevard, to the point or place of beginning.
+
+   35. Thirty-fifth district. That part of the Borough of Staten Island bounded by a line described as follows: BEGINNING at a point in waters of Arthur Kill between border lines of New Jersey, and Richmond County, at Goethals Bridge, proceeding southeast, to Railroad cut, then proceeding east, to Gulf Avenue, to Staten Island Expressway, to Bengal Avenue, to Fahy Avenue, to Arlene Street, to Lander Avenue, to Richmond Avenue, to Victory Boulevard, to Willowbrook Road, to Watchogue Road, to Victory Boulevard, to Manor Road, to Ocean Terrace, to Todt Hill Road, to Richmond Road, proceeding northerly, to Cromwell Avenue, to Hylan Boulevard, to Old Town Road, to Staten Island Rapid Transit Line, proceeding north on Staten Island Rapid Transit Line, to West Fingerboard Road, to Steuben Street, to Hylan Boulevard, to Hickory Avenue, to McClean Avenue, to Lily Pond Avenue, extended to waters of Atlantic Ocean; thence northerly and westerly through the Narrows, through the Kill Van Kull Waters, including the entire part of the City of New York known as Snooter's Island, to the waters of the Arthur Kill, to the point or place of beginning; this district is further intended to include that part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of Gravesend Bay at Twenty-sixth Avenue, extended to Harway Avenue, to Stillwell Avenue, to Avenue U, to West Ninth Street, to Avenue T, to West Twelfth Street, to Kings Highway, to Bay Parkway, to Seventy-seventh Street, to Twentieth Avenue, to Benson Avenue, to Eighteenth Avenue, to Cropsey Avenue, to Bay Nineteenth Street, to Shore Parkway, to Shore Road extension, to Bay Eighth Street, to Cropsey Avenue, to Fourteenth Avenue, to Poly Place, to Battery Avenue, thence northerly and westerly along the border of the United States Government reservation known as Fort Hamilton, to Gowanus Expressway, to Fort Hamilton Parkway, to One Hundred First Street, to Fourth Avenue, extended in the waters of The Narrows, at the Brooklyn borough line, thence projected into the waters of the Lower Bay, on the north side of and parallel to the Verrazano Narrows Bridge thence southerly and easterly to the point or place of beginning.
+
+b. If any numbered paragraph of subdivision a of this section or any clause, sentence or part of any such numbered paragraph shall be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate any other numbered paragraph of subdivision a of this section, but shall be confined in its operation to the numbered paragraph which was directly involved in the controversy or of which a clause, sentence, or part was directly involved in such controversy.
+
+c. The provisions of this section shall apply to the nomination and election of council members at the primary and general election in the year nineteen hundred eighty-one and thereafter and elections by the voters for the filling of vacancies in the offices of the council members so elected arising otherwise than by expiration of the term, for the balance thereof.
+
+
+
+
+
+
+*§ 3-203 Public advocate; member of all committees.* ::
+
+
+The public advocate, ex-officio, shall be a member of all the committees thereof.
+
+
+
+
+
+
+*§ 3-204 Salaries; additional compensation for officers of council.* ::
+
+
+The mayor, pursuant to the provisions of section one hundred twenty-three of the charter, may fix any additional remuneration to be paid to the vice-chairman of the council, the leader of the dominant minority party, the chairperson of the finance committee, the chairperson of the general welfare committee, and during a vacancy in the office of mayor or the office of public advocate, the person designated to act as leader of the majority party, over and above the salaries paid to them as council members.
+
+
+
+
+
+
+*§ 3-204.1 Transfer and disposal of surplus old desks and chairs, councilmanic chambers.* ::
+
+
+a. The commissioner of citywide administrative services in the case of the disposal of surplus old desks and chairs no longer needed for use of the city council in the councilmanic chambers shall transfer such chairs and desks to the control and custody of the city clerk, clerk of the council.
+
+b. The city clerk, clerk of the council, shall have the power, upon request, to transfer and deliver one such desk and/or chair in the following order of priority: (1) museum of the city of New York; (2) metropolitan museum of art; (3) New York historical society; (4) present member of the council; (5) former member of the council. Such museum, member of the council or former member of the council shall file its or his or her written request with the city clerk, clerk of the council, accompanied with the sum of ten dollars per desk or chair, which sums shall be deposited with the commissioner of finance, except that the aforesaid museums and historical society shall not be required to pay anything.
+
+c. The provisions of this section shall be effective notwithstanding the provisions of any general or special law or provision or regulation relating to the disposal of personal property and any such statute or part or parts thereof, relating to such disposal of surplus material, insofar as they are inconsistent with the provisions of this section, are hereby superseded.
+
+
+
+
+
+
+*§ 3-204.2 Transfer of councilmanic chairs at termination of office.* ::
+
+
+(a) The city clerk, clerk of the council shall have the power at the request of any member of the council who shall hereafter resign or whose term of office shall hereafter terminate, or a surviving spouse or domestic partner of such member, to sell and transfer to such member or to such surviving spouse or domestic partner the chair last occupied by such member in the councilmanic chamber for the fair market value as determined by the commissioner of citywide administrative services, depositing any monies received from such sale with the commissioner of finance; provided however, that a written request therefore accompanied by the payment herein provided be submitted to the city clerk, clerk of the council within sixty days after any such resignation or termination of term of office. The commissioner of citywide administrative services shall upon notice from the city clerk, clerk of the council make prompt replacement of such chair so transferred or sold.
+
+(b) The provisions of this section shall apply solely to members of the council who have been elected at a general election.
+
+(c) The provision of this section shall be effective notwithstanding the provisions of any general or special law or provision or regulation relating to the disposal of personal property and any such statute, or part, or parts thereof are hereby superseded.
+
+
+
+
+
+
+*§ 3-204.3 Workers' compensation for city council employees.* ::
+
+
+a. As used in this section, the term "city council employees" shall include all duly sworn members of the city council as well as all salaried employees who comprise the staff of the city council on a full-time or part-time basis.
+
+b. Pursuant to the authorization contained in group nineteen of subdivision one of section three of the state workers' compensation law, the coverage of the workers' compensation law is extended to cover all city council employees.
+
+
+
+
+
+
+*§ 3-204.4 Representation; council members.* ::
+
+
+Council Members shall be represented by the corporation counsel and indemnified by the city pursuant to Section 50-k of the General Municipal Law, subject to the conditions contained therein, for actions undertaken in the performance of their constituent responsibilities.
+
+
+
+
+
+
+*§ 3-205 City clerk; employees; bonds.* ::
+
+
+Each of the following officers or employees in the office of the city clerk shall execute a bond to the city, conditioned for the faithful performance of the duties of his or her office, with one or more sureties, to be approved by the comptroller, in the penal sum as follows: city clerk, twenty thousand dollars; city clerk's cashier, and assistant cashier, three thousand dollars each; deputy city clerk, borough of Brooklyn, five thousand dollars; deputy city clerks, boroughs of the Bronx, Queens, and Staten Island, one thousand dollars each.
+
+
+
+
+
+
+*§ 3-206 City clerk; proceedings of council.* ::
+
+
+Immediately after the adjournment of each meeting of the council, the city clerk shall prepare a brief extract, omitting technical and formal details, of all resolutions and local laws introduced or passed, all recommendations of committees, all final proceedings and full copies of all messages from the mayor and all reports of city agencies. The city clerk shall forthwith transmit the same for publication in the City Record to the director thereof.
+
+
+
+
+
+
+*§ 3-207 City clerk; fees.* ::
+
+
+The city clerk shall collect the following fees:
+
+1. For a copy of any book, account, record or paper other than a marriage record filed in the city clerk's office, one dollar for each photocopy;
+
+2. For a certification of any book, account, record, or paper other than a marriage record filed in the city clerk's office, fifty cents and five cents in addition for each folio in excess of five;
+
+3. For each bond filed in the city clerk's office, twenty-five cents;
+
+4. For filing of all other papers, required by law to be filed in the city clerk's office nine dollars;
+
+5. For a certificate of appointment of a commissioner of deeds, fifty cents;
+
+6. For a certified extract from any marriage record file in the city clerk's office, ten dollars;
+
+7. For any certifications furnished by the city clerk, one dollar for each such certification;
+
+8. For certification of marriage status to be used by applicant in foreign jurisdictions fifteen dollars;
+
+9. In any instance where the personal hand signature of the city clerk or his or her first deputy is requested, ten dollars;
+
+10. For filing an application for correcting a marriage record, pursuant to section twenty of the domestic relations law, forty dollars, which shall include a photostatic copy of the existing marriage record and the issuance of a new amended certificate. Such fee shall not be returned in the event of the application is rejected for insufficiency or other pertinent reason. Upon denial of such application, ten dollars shall be refunded;
+
+11. For solemnization of marriage pursuant to section eleven-a of the domestic relations law, twenty-five dollars;
+
+12. For issuance of a certificate of marriage registration pursuant to section fourteen-a of the domestic relations law, ten dollars.
+
+13. For issuance of a second or subsequent certificate of marriage registration or a photograph, microphotograph or photocopy of the original marriage license pursuant to section fourteen-a of the domestic relations law, ten dollars.
+
+14. For persons registering to perform marriage ceremonies with the clerk of the city of New York pursuant to section 11-b of the domestic relations law, fifteen dollars.
+
+
+
+
+
+
+*§ 3-207.1 Marriage notification.* ::
+
+
+a. The city clerk shall prominently post the following information on the section(s) of the city clerk's website, or any successor website maintained by or on behalf of the city clerk or a successor officer, relating to marriage, domestic partnerships or other similar subjects: (i) a list of all domestic and international jurisdictions that perform same sex marriages; and (ii) the following text: "Lawfully married individuals, including individuals in same sex marriages, are entitled to more New York State rights and benefits than those registered as domestic partners here in New York City. If an individual lawfully enters into a same sex marriage in a jurisdiction outside New York, they are entitled to most of the New York State rights and benefits available to people lawfully married in New York. If you are considering entering into a marriage in one of the jurisdictions listed above, it is recommended that you contact that jurisdiction beforehand in order to learn about any applicable marriage requirements or restrictions."
+
+b. All information required to be made available on the internet pursuant to this local law shall also be prominently displayed and distributed free of charge in hard copy at the marriage bureau in the city clerk's office.
+
+c. The obligations of the city clerk under this section shall be continuing and the city clerk shall make all reasonable efforts to ensure that all information provided pursuant to this section is accurate and current and shall update such information as appropriate.
+
+
+
+
+
+
+*§ 3-208 Local laws; public hearings; publication of notice.* ::
+
+
+The notice prescribed in subdivision five of section twenty of the municipal home rule law shall be published in the City Record and in such daily newspaper or newspapers, published in the city of New York, as shall be selected by the mayor for that purpose.
+
+
+
+
+
+
+*§ 3-209 [Young adult voter registration.]* ::
+
+
+a. Short title. This section shall be known and may be cited as the "Young Adult Voter Registration Act."
+
+b. Registration of voters. Each public or private high school within the city shall make available during the school year to seniors such materials as may be published by the board of elections relating to voter registration and, where appropriate, shall provide applications for registration and enrollment, and may assist in the execution of such applications.
+
+c. Registration of graduating seniors. The department of education of the city of New York shall provide a postage paid board of elections of the city of New York voter registration form to each graduating student who receives a high school diploma, including but not limited to a Regents, local, general equivalency or Individualized Education Program diploma. The department shall deliver such voter registration form to each graduating student at the same time and in the same manner as it delivers diplomas to each such student.
+
+d. Forms to be available at school. The department of education of the city of New York shall ensure that postage paid board of elections voter registration forms are available in the main or central office of each high school under the jurisdiction of the department for students who wish to obtain one. The department shall also ensure that each such high school provides adequate notice to its students of the availability of such forms in its main or central office.
+
+e. Sufficient quantity of forms. The department shall request from the board of elections of the city of New York a sufficient quantity of voter registration forms to meet the requirements of this subdivision.
+
+
+
+
+
+
+*§ 3-209.1 Distribution of library card application materials.* ::
+
+
+a. Definitions. For the purposes of this section, the following terms shall be defined as follows:
+
+   1. "Department" shall mean the department of education.
+
+   2. "Public library systems" shall mean the New York Public Library, the Brooklyn Public Library and the Queens Borough Public Library.
+
+   3. "School" shall mean any public school in the city of New York under the jurisdiction of the department of education that contains any combination of grades from and including pre-kindergarten through grade twelve.
+
+   4. "Participating agencies" shall mean the administration for children's services, the department of homeless services, the department of youth and community development and the human resources administration.
+
+   5. "Young person" shall mean any person under the age of 24.
+
+b. The department and participating agencies, in consultation with the public library systems, shall obtain from the public library systems or develop written or electronic materials containing information regarding each public library system and how students and young persons can obtain a library card. At a minimum, such written or electronic materials shall include: (i) a description of the public library system; (ii) an application for a library card; and (iii) instructions on how to obtain a library card. Such written or electronic materials shall be produced and distributed by the department to each school for distribution to every student of such school upon his or her entry into pre-kindergarten, kindergarten, grade six and grade nine and to every student upon his or her entry into a school as a new student; and obtained or produced and made available by participating agencies for every young person who receives services from such agencies. In addition, the department and participating agencies shall make such materials conspicuously available on their respective websites.
+
+c. The department shall ensure that written or electronic materials developed pursuant to subdivision b of this section are provided to all schools in sufficient quantity to satisfy the requirements of subdivisions b and d of this section.
+
+d. The department shall ensure that such written materials are available in the main or central office in each school for students and parents who wish to obtain such materials.
+
+e. Participating agencies may include instructions in all new or renewed agreements with contractors and subcontractors having regular contact with young persons in the administration of their business to follow the guidelines of subdivision b of this section.
+
+
+
+
+
+
+*§ 3-209.2 Distribution of college-savings plan materials in schools.* ::
+
+
+a. Definitions. For the purposes of this section:
+
+   Department. The term"department" means the department of education.
+
+   School. The term"school" means a public school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve.
+
+b.  The department shall develop educational materials regarding college savings plans. At a minimum, such materials shall include the following:
+
+   1. Information regarding college savings programs available to students and their family members including, but not limited to, New York's 529 college savings program;
+
+   2. Information regarding tuition at colleges under the authority of the city university of New York and at colleges under the authority of the state university of New York and financial aid eligibility; and
+
+   3. Information regarding other resources available to parents and students regarding financial planning for post-secondary education, including education at colleges, universities and vocational schools.
+
+c. Such materials shall be produced and distributed by the department to each school for distribution to every student of such school upon his or her entry into pre-kindergarten, kindergarten, grade six and grade nine and to every student upon his or her entry into a school as a new student, and such materials shall be made available in English and in additional languages as determined by the department.
+
+d. The department shall ensure that materials developed pursuant to subdivision b of this section are provided to all schools in sufficient quantity to satisfy the requirements of subdivisions c and e of this section.
+
+e. The department shall ensure that such written materials are available in the main or central office in each school and that such materials are available on the department's website for students and parents who wish to obtain such materials.
+
+
+
+
+
+
+
+
+*§ 3-210 Registration of voters. [Repealed]* ::
+
+
+a. Employees. The council shall require that any applicant or appointee for future employment by the council be fingerprinted as part of the application process. Such fingerprints and physical descriptive data are to be provided for the purpose of securing criminal history records from the state division of criminal justice services. The applicant shall pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require applicants or appointees under this subdivison to be fingerprinted if criminal history records concerning such applicants or appointees are not made available by the state division of criminal justice services.
+
+b. Other Persons. The council may require that any candidate for direct appointment, designation, nomination, recommendation and advice and consent by the council as required by state legislation, the charter or administrative code be fingerprinted as part of the background investigation. Such fingerprints are to be provided for the purposes of securing criminal history records from the state division of criminal justice services. The applicant may pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require candidates under this subdivision to be fingerprinted if criminal history records concerning such candidates are not made available by the state division of criminal justice services.
+
+
+
+
+
+
+
+**Subchapter 2: Regulation of Lobbying**
+
+
+
+*§ 3-211 Definitions.* ::
+
+
+Whenever used in this subchapter, the following words and phrases shall be construed as defined in this section:
+
+(a) The term "lobbyist" shall mean every person or organization retained, employed or designated by any client to engage in lobbying. The term "lobbyist" shall not include any officer or employee of the city of New York, the State of New York, any political subdivision of the State, or any public corporation, agency or commission, or the United States when discharging his or her official duties.
+
+(b) The term "client" shall mean every person or organization who retains, employs or designates any person or organization to carry on lobbying activities on behalf of such client.
+
+(c) (1) The term "lobbying" or "lobbying activities" shall mean any attempt to influence:
+
+      (i) any determination made by the city council or any member thereof with respect to the introduction, passage, defeat, or substance of any local legislation or resolution,
+
+      (ii) any determination made by the mayor to support, oppose, approve, or disapprove any local legislation or resolution, whether or not such legislation or resolution has been introduced in the city council,
+
+      (iii) any determination made by an elected city official or an officer or employee of the city with respect to the procurement of goods, services or construction, including the preparation of contract specifications, or the solicitation, award or administration of a contract, or with respect to the solicitation, award or administration of a grant, loan, or agreement involving the disbursement of public monies,
+
+      (iv) any determination made by the mayor, the city council, the city planning commission, a borough president, a borough board or a community board with respect to zoning or the use, development or improvement of real property subject to city regulation,
+
+      (v) any determination made by an elected city official or an officer or employee of the city with respect to the terms of the acquisition or disposition by the city of any interest in real property, with respect to a license or permit for the use of real property of or by the city, or with respect to a franchise, concession or revocable consent,
+
+      (vi) the proposal, adoption, amendment or rejection by an agency of any rule having the force and effect of law,
+
+      (vii) the decision to hold, timing or outcome of any rate making proceeding before an agency,
+
+      (viii) the agenda or any determination of a board or commission,
+
+      (ix) any determination regarding the calendaring or scope of any city council oversight hearing,
+
+      (x) the issuance, repeal, modification or substance of a mayoral executive order, or
+
+      (xi) any determination made by an elected city official or an officer or employee of the city to support or oppose any state or federal legislation, rule or regulation, including any determination made to support or oppose that is contingent on any amendment of such legislation, rule or regulation, whether or not such legislation has been formally introduced and whether or not such rule or regulation has been formally proposed.
+
+   (2) The definition of the term "lobbying" or "lobbying activities" shall not apply to any determination in an adjudicatory proceeding.
+
+   (3) The following persons and organizations shall be deemed not to be engaged in "lobbying activities":
+
+      (i) persons engaged in advising clients, rendering opinions and drafting, in relation to proposed legislation, resolutions, rules, rates, or other proposed legislative, executive or administrative action, where such persons do not themselves engage in an attempt to influence such action;
+
+      (ii) newspapers and other periodicals and radio and television stations, and owners and employees thereof, provided that their activities are limited to the publication or broadcast of news items, editorials or other comment, or paid advertisements;
+
+      (iii) persons who participate as witnesses, attorneys or other representatives in public rule making or rate making proceedings of an agency, with respect to all participation by such persons which is part of the public record thereof and all preparation by such persons for such participation;
+
+      (iv) persons who appear before an agency in an adjudicatory proceeding;
+
+      (v) persons who prepare or submit a response to a request for information or comments by the city council or one of its committees, the mayor, or other elected city official or an agency;
+
+      (vi) (A) contractors or prospective contractors who communicate with or appear before city contracting officers or employees in the regular course of procurement planning, contract development, the contractor selection process, the administration of a contract, or the audit of a contract, when such communications or appearances are made by such contractors or prospective contractors personally, or through;
+
+            1. such officers and employees of the contractors or prospective contractor who are charged with the performance of functions relating to contracts:
+
+            2. subcontractors or prospective subcontractors who are or will be engaged in the delivery of goods, services or construction pursuant to the contract of such officers and employees of the subcontractor or prospective subcontractor who are charged with the performance of functions relating to contracts; or
+
+            3. persons who provide technical or professional services, as defined in clause (B) of this subparagraph, on behalf of such contractor, prospective contractor, subcontractor or prospective subcontractor.
+
+         (B) For the purposes of clause (A) of this subparagraph:
+
+            1. "technical services" shall be limited to advice and analysis directly applying any engineering, scientific, or other similar technical discipline;
+
+            2. "professional services" shall be limited to advice and analysis directly applying any legal, accounting or other similar professional discipline in connection with the following elements of the procurement process only: dispute resolution, vendor protests, responsiveness and responsibility determinations, determinations of prequalification, suspensions, debarments, objections to registration pursuant to section 328 of the charter, contract interpretation, negotiation of contract terms after the award of a contract, defaults, the termination of contracts and audit of contracts. Any person who provides professional services pursuant to this subparagraph in connection with elements of the procurement process not specified above in this item, whether prior to, in connection with or after the award of a contract, shall be deemed to be engaged in lobbying activities, unless such person is deemed not to be engaged in lobbying activities under another provision of this paragraph; and
+
+            3. "city contracting officers or employees" shall not include elected officials or deputies of elected officials or any person not duly authorized to enter into and administer contracts and make determinations with respect thereto;
+
+      (vii) persons or organizations who advertise the availability of goods or services with fliers, leaflets or other advertising circulars;
+
+      (viii) architects and engineers who communicate with or appear before a community board with respect to any action of such board, provided that the proceeding before the final decision-making board or commission to which the action relates is an adjudicatory proceeding;
+
+      (ix) architects and engineers who perform design work and draft plans pursuant to their state-issued professional license, or persons who work under the direct supervision of an architect or engineer who holds such a license, even if such work is preceded or followed by lobbying or lobbying activity as defined in paragraph one of this subdivision;
+
+      (x) (A) architects and engineers who communicate with or appear before boards or commissions with respect to:
+
+            1. an authorization by the city planning commission pursuant to the zoning resolution designated as minor by the city clerk; or
+
+            2. a decision related to real property by any other board or commission designated as minor by the city clerk.
+
+         (B) For the purposes of clause (A) of this subparagraph, the city clerk shall promulgate rules designating authorizations and decisions as "minor" based on the following factors:
+
+            1. the size and cost of the relevant project;
+
+            2. the size, class, and/or value of the property to which the relevant project relates; and
+
+            3. the size of the architecture or engineering firm typically involved in the type of project at issue.
+
+         (C) For the purposes of this subparagraph, "class" shall mean any of the classes of property defined in section 1802 of the real property tax law; and
+
+      (xi) architects and engineers, or their designees, who perform work, including communications with and appearances before boards or commissions, on capital projects under the direction of a city agency, provided that such work is performed pursuant to a contract, or subcontract of such contract, between such architects or engineers and the city agency directing such capital project.
+
+(d) The term "organization" shall include any corporation, company, foundation, association, labor organization, firm, partnership, society, or joint stock company.
+
+(e) The term "compensation" shall mean any salary, fee, gift, payment, subscription, loan, advance or any other thing of value paid, owed, given or promised by the client to the lobbyist for the purpose of lobbying.
+
+(f) The terms "expenditure" or "expense" shall mean any expenditures or expenses, respectively, incurred by or reimbursed to the lobbyist for lobbying.
+
+(g) The term "public servant" shall mean a public servant as defined in subdivision nineteen of section two thousand six hundred one of the charter.
+
+(h) The term "fundraising activities" shall mean solicitation or collection of contributions for a candidate for nomination for election, or election, to the office of mayor, public advocate, comptroller, borough president or member of the city council, or for the political committee of any such candidate by a lobbyist, or the solicitation or collection of contributions for any public servant who is a candidate for nomination for election, or election, to any elective office, or for the political committee of any such candidate by a lobbyist. For purposes of this subchapter, the term "contribution" shall have the meaning set forth in subdivision eight of section 3-702 of the administrative code, and the term "political committee" shall have the meaning set forth in subdivision eleven of such section. The term "lobbyist" shall mean a lobbyist as defined in subdivision (a) of this section and the spouse or domestic partner and unemancipated children of the lobbyist, and if the lobbyist is an organization, the term "lobbyist" shall mean only that division of the organization that engages in lobbying activities and any officer or employee of such lobbyist who engages in lobbying activities of the organization or is employed in an organization's division that engages in lobbying activities of the organization and the spouse or domestic partner and unemancipated children of such officers or employees.
+
+(i) The term "political consulting activities" shall mean the activities of a lobbyist who for compensation by or on behalf of the candidate or elected official, as applicable, (i) participates in the campaign of any candidate for nomination for election, or election, to the office of mayor, public advocate, comptroller, borough president or member of the city council by providing political advice, or (ii) participates in the campaign of any public servant who is a candidate for nomination for election, or election, to any elective office by providing political advice, or (iii) provides political advice to the mayor, public advocate, comptroller, borough president or member of the city council.
+
+(j) The terms "architect" or "architecture firm" shall include landscape architects and landscape architecture firms, respectively.
+
+
+
+
+
+
+*§ 3-212 Powers and duties of the city clerk.* ::
+
+
+(a) In addition to any other powers and duties specified by law, the city clerk shall have the power and duty to administer and enforce all the provisions of this subchapter, subpoena witnesses and records, issue advisory opinions to those under its jurisdiction, conduct any investigation and audits necessary to carry out the provisions of this subchapter, prepare uniform forms for the statements and reports required by this subchapter and promulgate such rules as he or she deems necessary for the proper administration of this subchapter.
+
+(b) In addition to any audits required to enforce the provisions of this subchapter, the city clerk shall conduct random audits of the statements and reports required to be filed by lobbyists and clients pursuant to this subchapter. The city clerk shall select statements and reports for random audit in a manner pursuant to which the identity of any particular lobbyist or client whose statements or reports are selected for audit is unknown to the city clerk. In conducting such random audits, the city clerk shall require the production of such witnesses and records as may have been relevant to the preparation of the statements or reports audited.
+
+(c) The city clerk shall prepare and post on the internet an annual report relating to the administration and enforcement of the provisions of this subchapter. Such report shall contain information regarding (i) the number of complaints received from the public and the disposition of such complaints; (ii) the number and amount of civil penalties imposed pursuant to subdivisions (a), (b), (c) and (d) of section 3-223 of this subchapter; (iii) the number and duration of orders issued pursuant to subdivision (a) of section 3-223 of this subchapter; (iv) the number of random audits conducted by the city clerk and outcomes thereof; (v) compliance programs developed and implemented for lobbyists and clients; (vi) the types and number of requests for assistance related to the lobbying law received by the city clerk, and, as soon as practicable, the average response and resolution times of such requests; (vii) the number of lobbyists filing statements of registration pursuant to section 3-213 of this subchapter for the first time; (viii) the subject matter of lobbying activity most frequently reported by lobbyists; (ix) the lobbying targets most frequently reported by lobbyists; (x) the lobbyists that received the highest compensation; and (xi) such other information and analysis as the city clerk deems appropriate. Such report shall be posted on the internet no later than March first of each year and shall contain information relating to the preceding calendar year.
+
+(d) The city clerk shall, as soon as practicable after the issuance of an order pursuant to subdivision (a) of section 3-223 of this subchapter or imposition of a civil penalty pursuant to subdivision (a), (b), (c) or (d) of section 3-223 of this subchapter, post on the internet information identifying the lobbyist or client who committed the violation that resulted in the issuance of such order or imposition of such penalty, the provision of law violated, the duration of such order or the amount of such penalty.
+
+(e) (1) The city clerk shall develop a protocol to review sources of information that may assist the city clerk in identifying lobbyists required to file statements of registration pursuant to section 3-213 of this subchapter who have not filed. Such review shall include, but need not be limited to, the following sources:
+
+      (i) statements of registration filed with the state joint commission on public ethics pursuant to section 1-e of the legislative law that contain information indicating that the lobbyist expects to engage in "lobbying" or "lobbying activities" as defined in paragraph one of subdivision c of section 3-211 of this subchapter;
+
+      (ii) notices of appearances compiled by city agencies, including, but not limited to, the landmarks preservation commission and the city planning commission, identifying the representative of an applicant; and
+
+      (iii) the "doing business database" as defined in subdivision twenty of section 3-702 of the code.
+
+   (2) The city clerk shall work with city agencies and the city council to develop notices and advertisements to be placed in print and electronic media intended to reach persons and organizations doing business with the city that will inform them of the requirements set forth in this subchapter.
+
+(f) The city clerk shall develop an online training program for lobbyists. Such program shall include information and training regarding conduct that may subject lobbyists and clients to the criminal and civil penalties set forth in this subchapter. As soon as practicable, the city clerk, in conjunction with the department of investigation, shall incorporate an anti-corruption component in such training.
+
+(g) Between thirty-six and forty-eight months after the effective date of the section of the local law that amended this subdivision, the mayor and the city council shall jointly appoint a commission to review and evaluate the activities and performance of the city clerk in implementing the provisions of this subchapter. Within six months of such appointment the commission shall report to the mayor and city council on its review and evaluation which report shall include any administrative and legislative recommendations on improving the administration and enforcement of this subchapter. The commission shall be comprised of five members and the mayor and the city council shall jointly designate a chair from among the members.
+
+
+
+
+
+
+*§ 3-213 Statement of registration.* ::
+
+
+(a) (1) Every lobbyist shall annually file with the city clerk, on forms prescribed by the city clerk, a statement of registration for each calendar year, provided, however, that the filing of such statement of registration shall not be required of any lobbyist who in any year does not earn or incur an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, of combined reportable compensation and expenses, as provided in paragraph five of subdivision (b) of section 3-216 of this subchapter, for the purposes of lobbying.
+
+   (2) Such filing shall be completed on or before January fifteenth by those persons who have been retained, employed or designated as lobbyists on or before December thirty-first of the previous calendar year who reasonably anticipate that in the coming year they will earn or incur combined reportable compensation and expenses in an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars. For those lobbyists retained, employed or designated after December thirty-first, and for those lobbyists who, subsequent to their retainer, employment or designation, reasonably anticipate combined reportable compensation and expenses in excess of such amount, such filing must be completed within fifteen days thereafter.
+
+   (3) Before a lobbyist files a statement of registration pursuant to paragraph one of this subdivision, the lobbyist and its client shall enroll in the electronic filing system.
+
+(b) Such statements of registration shall be kept in electronic form in the office of the city clerk and shall be available for public inspection.
+
+(c) Such statement of registration shall contain:
+
+   (1) the name, home and business addresses and business telephone number of the lobbyist and the name and home and business addresses of the spouse or domestic partner of the lobbyist, and if the lobbyist is an organization the name, home and business addresses and business telephone number of any officer or employee of such lobbyist who engages in any lobbying activities or who is employed in an organization's division that engages in lobbying activities of the organization and the name and home and business addresses of the spouse or domestic partner of such officers or employees, provided that, notwithstanding any provision of this subchapter to the contrary, the home address of the lobbyist, including, if the lobbyist is an organization, the home address of any officer or employee of such lobbyist who engages in any lobbying activities or who is employed in an organization's division that engages in lobbying activities of the organization, and the names and home and business addresses of spouses and domestic partners of such lobbyists, officers and employees, whether contained in an original or amended statement of registration, shall not be made available to the public, but may be accessed by the campaign finance board for the sole purpose of determining whether a campaign contribution is matchable pursuant to section 3-702 of the New York City campaign finance act; provided, however, that notwithstanding any other provision of law, in making information on campaign contributions publicly available, the campaign finance board shall not disclose that any specific contributor is the spouse, domestic partner or unemancipated child of such a lobbyist, officer or employee;
+
+   (2) the name, address and telephone number of the client by whom or on whose behalf the lobbyist is retained, employed or designated;
+
+   (3) if such lobbyist is retained or employed pursuant to a written agreement of retainer or employment, a copy of such shall also be attached and if such retainer or employment is oral, a statement of the substance thereof;
+
+   (4) a written authorization from the client by whom the lobbyist is authorized to lobby, unless such lobbyist has filed a written agreement of retainer or employment pursuant to paragraph three of this subdivision;
+
+   (5) a description of the subject or subjects on which the lobbyist is lobbying or expects to lobby, including information sufficient to identify the local law or resolution, procurement, real property, rule, rate making proceeding, determination of a board or commission, or other matter on which the lobbyist is lobbying or expects to lobby;
+
+   (6) the names of the persons and agencies before which the lobbyist has lobbied or expects to lobby;
+
+   (7) if the lobbyist has a financial interest in the client, direct or indirect, information as to the extent of such interest and the date on which it was acquired; and
+
+   (8) if the lobbyist is retained, employed or designated by more than one client, a separate statement of registration shall be required for each such client.
+
+(d) (1) Whenever there is a change in the information filed by the lobbyist in the statement of registration, other than a change to information submitted pursuant to paragraphs five and six of subdivision (c) of this section, an amended statement shall be submitted to the city clerk on forms prescribed by the city clerk within ten days after such change occurs, except as provided in paragraph two of this subdivision.
+
+   (2) Whenever a contribution, as defined in subdivision eight of section 3-702 of the New York City campaign finance act, is made by the unemancipated child of a lobbyist or by the unemancipated child of the spouse or domestic partner of a lobbyist or, if the lobbyist is an organization, by the unemancipated child of any officer or employee of such lobbyist who engages in lobbying activities or who is employed in an organization's division that engages in lobbying activities of the organization or by the unemancipated child of the spouse or domestic partner of any such officer or employee, in the calendar year for which a statement of registration is filed, the lobbyist shall file an amended statement of registration within forty-eight hours of the making of such contribution. Such amended statement of registration shall contain the name and the home address of such unemancipated child and the home and business addresses of the unemancipated child's parent, if such parent's home and business addresses were reported pursuant to paragraph one of subdivision (c) of this section. Such amendment shall not require the lobbyist to amend the entire registration form. If such contribution was made in the calendar year for which a statement of registration is filed, but before the filing of such statement of registration, then the original statement of registration shall contain the name and the home address of such unemancipated child and the home and business addresses of the unemancipated child's parent, if such parent's home and business addresses were reported pursuant to paragraph one of subdivision (c) of this section. Notwithstanding any provision of this chapter to the contrary, the names and addresses of unemancipated children shall not be made available to the public, but may be accessed by the campaign finance board for the sole purpose of determining whether a campaign contribution is matchable pursuant to such section 3-702; provided, however, that notwithstanding any other provision of law, in making information on campaign contributions publicly available, the campaign finance board shall not disclose that any specific contributor is the spouse, domestic partner or unemancipated child of such a lobbyist, officer or employee. For purposes of this paragraph, the term "unemancipated child" shall mean any son, daughter, stepson or stepdaughter who is under age eighteen, unmarried and living in the household of such lobbyist or spouse or domestic partner of such lobbyist or, if such lobbyist is an organization, living in the household of such officer or employee or spouse or domestic partner of such officer or employee.
+
+(e) Each statement of registration filed annually by each lobbyist shall be accompanied by a registration fee of one hundred fifty dollars. An additional fee may be imposed not to exceed fifty dollars for each client in excess of one identified on such statement.
+
+(f) In the event of the retention, employment or designation of an organization wherein more than one member of the organization will be engaging in lobbying activities on behalf of a client, one statement of registration shall be filed by the organization with a listing of all such persons.
+
+(g) If the city clerk grants an extension allowing a lobbyist to file a statement of registration later than the deadline contained in paragraph two of subdivision (a) of this section, the city clerk shall forward notice of such extension no later than the end of the following business day to the mayor's office of contract services for inclusion in the "doing business database" as defined in subdivision twenty of section 3-702 of the code.
+
+
+
+
+
+
+*§ 3-214 Monthly registration docket. [Repealed]* ::
+
+
+Upon the termination of a lobbyist's retainer, employment or designation, such lobbyist and the client on whose behalf such service has been rendered shall both give notice to the city clerk in the electronic filing system within thirty days after the lobbyist ceases the activity that required such lobbyist to file a statement of registration; however, such lobbyist shall nevertheless comply with the reporting requirements of section 3-216.1 of this subchapter and the reporting requirements for the last periodic reporting period up to the date such activity has ceased as required by this subchapter and both such parties shall each file the annual report required by section 3-217 of this subchapter.
+
+
+
+
+
+
+*§ 3-216 Periodic reports.* ::
+
+
+(a) (1) Any lobbyist, except a lobbyist described in paragraph two of this subdivision, required to file a statement of registration pursuant to section 3-213 of this subchapter who in any lobbying year earns or incurs combined reportable compensation and expenses in an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, as provided in paragraph five of subdivision (b) of this section, for the purpose of lobbying, shall file with the city clerk periodic reports, on forms prescribed by the city clerk, by the fifteenth day next succeeding the end of the reporting period on which the cumulative total for such lobbying year equaled such sum. Such reporting periods shall be the period from January first through the last day of February, March first through April thirtieth, May first through June thirtieth, July first through August thirty-first, September first through October thirty-first, and November first through December thirty-first.
+
+   (2) Any lobbyist that is an organization required to file a statement of registration pursuant to section 3-213 of this subchapter that lobbies solely on its own behalf by utilizing the services of its employees and that, in any lobbying year, earns or incurs combined reportable compensation and expenses in an amount in excess of five thousand dollars, but equal to or less than ten thousand dollars, as provided in paragraph five of subdivision (b) of this section, for the purpose of lobbying, shall file with the city clerk periodic reports, on forms prescribed by the city clerk, by the fifteenth day next succeeding the end of the reporting period on which the cumulative total for such lobbying year equaled such sum. Such reporting periods shall be the period from January first to June thirtieth, and July first to December thirty-first.
+
+   (3) Any lobbyist making a report pursuant to paragraph one or two of this subdivision shall thereafter file with the city clerk, on forms prescribed by the city clerk, a periodic report for each reporting period that such person earns or incurs combined reportable compensation and expenses in an amount in excess of one thousand dollars for the purposes of lobbying during such reporting period. Such report shall be filed not later than the fifteenth day next succeeding the end of such reporting period and shall include the amounts so earned or incurred during such reporting period and the cumulative total during the lobbying year.
+
+(b) Such periodic report shall contain:
+
+   (1) the name, address and telephone number of the lobbyist;
+
+   (2) the name, address and telephone number of the client by whom or on whose behalf the lobbyist is retained, employed or designated;
+
+   (3) a description of the subject or subjects on which the lobbyist has lobbied, including information sufficient to identify the local law or resolution, procurement, real property, rule, rate making proceeding, determination of a board or commission, or other matter on which the lobbyist has lobbied;
+
+   (4) the names of the persons and agencies before which the lobbyist has lobbied;
+
+   (5) (i) the compensation paid or owed to the lobbyist, and any expenses incurred by the lobbyist for the purpose of lobbying.
+
+      (ii) expenses required to be reported pursuant to subparagraph (i) of this paragraph shall be listed in the aggregate if seventy-five dollars or less and if more than seventy-five dollars such expenses shall be detailed as to amount, to whom paid, and for what purpose; and where such expense is more than seventy-five dollars on behalf of any one person, the name of such person shall be listed.
+
+      (iii) for the purpose of this paragraph, expenses shall not include:
+
+         (A) personal sustenance, lodging and travel disbursements of such lobbyist;
+
+         (B) expenses, not in excess of five hundred dollars in any one calendar year, directly incurred for the printing or other means of reproduction or mailing of letters, memoranda or other written communications.
+
+      (iv) expenses paid or incurred for salaries other than that of the lobbyist shall be listed in the aggregate.
+
+      (v) expenses of more than fifty dollars shall be paid by check or substantiated by receipts.
+
+      (vi) the expenses reimbursed by the client.
+
+(c) Notwithstanding any inconsistent provision of this section, where a lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter is not required to file a periodic report pursuant to subdivision (a) or (b) of this section because such lobbyist has not earned or incurred compensation and expenses as therein specified, such lobbyist shall file a periodic report stating that such lobbyist has not earned or incurred such compensation and expenses by the fifteenth day next succeeding the end of the reporting period.
+
+(d) Whenever there is a change in the information filed by a lobbyist in a report filed pursuant to this section, an amended report shall be submitted to the city clerk on forms prescribed by the city clerk.
+
+(e) If the city clerk grants an extension allowing a lobbyist to file a periodic report later than the deadline contained in paragraph one or two of subdivision (a) of this section, as applicable, the city clerk shall forward notice of such extension no later than the end of the following business day to the mayor's office of contract services for inclusion in the "doing business database" as defined in subdivision twenty of section 3-702 of the code.
+
+(e) (1) All such periodic reports shall be subject to review by the city clerk.
+
+   (2) Such periodic reports shall be kept in electronic form in the office of the city clerk and shall be available for public inspection.
+
+
+
+
+
+
+*§ 3-216.1 Fundraising and political consulting reports.* ::
+
+
+(a) Any lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter who in any calendar year to which the statement of registration relates, or in the six months preceding such calendar year, engages in fundraising or political consulting activities shall file with the city clerk, on forms prescribed by the city clerk, a fundraising and/or political consulting report. Such report shall be filed in accordance with the schedule applicable to the filing of periodic reports, provided that the first fundraising and/or political consulting report filed in any calendar year shall include information on fundraising and/or political consulting activities that occurred in any period beginning six months preceding the calendar year to which the statement of registration relates through the end of the reporting period for which the report is filed, to the extent such information has not been reported in a fundraising and/or political consulting report filed in the preceding calendar year. Each subsequent fundraising and/or political consulting report filed in or with respect to the calendar year to which the statement of registration relates shall include information on fundraising and/or political consulting activities that occurred since the end of the reporting period for which the previous report was filed through the end of the reporting period for which the current report is filed. Such activities shall be reported whether they are conducted directly by the lobbyist, or through any other entity of which such lobbyist is a principal. Such fundraising and/or political consulting reports shall be filed not later than the fifteenth day next succeeding the end of such reporting period.
+
+(b) Such fundraising and/or political consulting report shall contain:
+
+   (1) the name, address and telephone number of the lobbyist and the individuals employed by the lobbyist engaged in such fundraising and/or political consulting activities;
+
+   (2) the name, address and telephone number of the candidate, public servant, or elected official to whom or on whose behalf the lobbyist provided fundraising and/or political consulting services;
+
+   (3) (i) the compensation paid or owed to the lobbyist and any expenses incurred by the lobbyist for such fundraising and/or political consulting activities;
+
+      (ii) a list of all persons or entities with whom the lobbyist contracted for the purpose of providing fundraising and/or political consulting services;
+
+   (4) in the case of fundraising activities, the total dollar amount raised for each candidate for which such activities were performed.
+
+(c) All such fundraising and/or political consulting reports shall be subject to review by the city clerk.
+
+(d) Whenever there is a change in the information filed by a lobbyist in a report filed pursuant to this section, an amended report shall be submitted to the city clerk on forms prescribed by the city clerk.
+
+(e) Such fundraising and/or political consulting reports shall be kept in electronic form in the office of the city clerk and shall be available for public inspection.
+
+
+
+
+
+
+*§ 3-217 Annual reports.* ::
+
+
+(a) Annual reports shall be filed by:
+
+   (1) every lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter;
+
+   (2) any client retaining, employing or designating a lobbyist or lobbyists, if during the year such client owed an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, of combined reportable compensation and expenses, as provided in paragraph five of subdivision (c) of this section, for the purposes of lobbying.
+
+(b) Such report pursuant to paragraph one of subdivision (a) of this section shall be filed with the city clerk, on forms prescribed by the city clerk, by the fifteenth day of January next following the year for which such report is made and shall contain on an annual cumulative basis all the information required in periodic reports by section 3-216 of this subchapter and all the information required in fundraising and/or political consulting reports by section 3-216.1 of this subchapter;
+
+(c) Such report pursuant to paragraph two of subdivision (a) of this section shall be filed with the city clerk on forms prescribed by the city clerk by the fifteenth day of January next following the year for which such report is made and shall contain:
+
+   (1) the name, address and telephone number of the client;
+
+   (2) the name, address and telephone number of each lobbyist retained, employed or designated by such client;
+
+   (3) a description of the subject or subjects on which each lobbyist retained, employed or designated by such client has lobbied, including information sufficient to identify the local law or resolution, procurement, real property, rule, rate making proceeding, determination of a board or commission, or other matter on which each lobbyist retained, employed or designated by such client has lobbied;
+
+   (4) the names of the persons and agencies before which such lobbyist has lobbied;
+
+   (5) (i) the compensation earned by each such lobbyist, and any other expenses paid or incurred by such client for the purpose of lobbying.
+
+      (ii) any expenses required to be reported pursuant to subparagraph (i) of this paragraph shall be listed in the aggregate if seventy-five dollars or less and if more than seventy-five dollars such expenses shall be detailed as to amount, to whom paid, and for what purpose; and where such expenses are more than seventy-five dollars on behalf of any one person, the name of such person shall be listed.
+
+      (iii) for the purposes of this paragraph, expenses shall not include:
+
+         (A) personal sustenance, lodging and travel disbursements of such lobbyist and client;
+
+         (B) expenses, not in excess of five hundred dollars, directly incurred for the printing or other means of reproduction or mailing of letters, memoranda or other written communications.
+
+      (iv) expenses paid or incurred for salaries other than that of the lobbyist shall be listed in the aggregate.
+
+      (v) expenses of more than fifty dollars must be paid by check or substantiated by receipts.
+
+(d) (1) All such annual reports shall be subject to review by the city clerk.
+
+   (2) Such annual reports shall be kept in electronic form in the office of the city clerk and shall be available for public inspection.
+
+
+
+
+
+
+*§ 3-218 Contingent retainer.* ::
+
+
+No client shall retain or employ any lobbyist for compensation, the rate or amount of which compensation in whole or part is contingent or dependent upon legislative, executive or administrative action where efforts by a lobbyist to influence such action are subject to the jurisdiction of the city clerk, and no person shall accept such a retainer or employment.
+
+
+
+
+
+
+*§ 3-219 Obligations of lobbyists.* ::
+
+
+Any person who is required to file a statement of registration under this subchapter has the following obligations:
+
+a. To abstain from doing any act, with the express purpose and intent of placing a member of the city council, the mayor or any officer or employee charged by law with making a decision on a matter pending or proposed, under personal obligation to him or her or to his or her employer.
+
+b. Never to knowingly deceive or attempt to deceive a member of the city council, the mayor or any officer or employee charged by law with making a decision on a local law, resolution or matter pending or proposed, as to any material fact pertinent to any pending or proposed local law, resolution or matter.
+
+c. Never to cause or influence the introduction of any local law or resolution at the city council for the purpose of thereafter being employed to secure its granting, denial, confirmation, rejection, passage or defeat.
+
+d. To abstain from any attempt to create a fictitious appearance of public favor or disfavor of any proposed local law or resolution before the city council or to cause any communication to be sent to a member of the city council, or the mayor, or any officer or employee charged by law with making a decision on a matter pending or proposed, in the name of any fictitious person or in the name of any real person, except with the consent of such real person.
+
+e. Not to represent, either directly or indirectly through word of mouth or otherwise, that he or she can control or obtain the vote or action of the mayor, any member of the city council, or any employee or officer of the city charged by law with making a decision on a matter pending or proposed, or the approval or disapproval of an local law or resolution by the mayor of the city of New York.
+
+f. Not to represent or solicit representation of, an interest adverse to such person's employer nor to represent employers whose interests are known to such person to be adverse.
+
+g. To retain all books, papers and documents necessary to substantiate the financial reports required to be made under this subchapter for a period of five years.
+
+h. To complete a training program on the requirements of this subchapter, developed by the city clerk, as follows:
+
+   (1) Each lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter that (i) lists five or more officers or employees who engage in lobbying activities or who are employed in the division that engages in lobbying activities and (ii) identifies thirty or more clients on whose behalf such organization has been retained shall designate two officers or employees to complete the training program biennially. At least one such officer or employee shall have engaged in lobbying activities in the year prior to such training.
+
+   (2) All other lobbyists required to file a statement of registration pursuant to section 3-213 of this subchapter shall designate at least one officer or employee to complete the training program biennially.
+
+   (3) Any lobbyist filing a statement of registration pursuant to section 3-213 of this subchapter for the first time shall designate at least one officer or employee who shall register for such training program within fifteen days of the lobbyist's commencement of lobbying.
+
+
+
+
+
+
+*§ 3-220 Retention of records.* ::
+
+
+Every person to whom this subchapter is applicable shall keep for at least five years a detailed and exact account of:
+
+(a) all compensation of any amount or value whatsoever;
+
+(b) the name and address of every person paying or promising to pay compensation of fifty dollars or more and the date thereof;
+
+(c) all expenditures made by or on behalf of the client; and
+
+(d) the name and address of every person to whom any item of expenditure exceeding fifty dollars is made, the date thereof and receipted bill for such expenditure.
+
+
+
+
+
+
+*§ 3-221 Filing of statements and reports.* ::
+
+
+(a) Any statement or report required by this subchapter shall be filed by electronic transmission in a standard format as required by the city clerk. Statements, reports and any other information required to be kept on file in the office of the city clerk for public inspection pursuant to this subchapter shall be kept in a computerized database and shall be posted on the internet as soon as practicable.
+
+(b) The computerized database maintained pursuant to subdivision (a) of this section shall be searchable by, at a minimum, lobbyist name, client name, person or agency before which lobbying activities took place, and the local law number with year, bill number, resolution number, rule number, or other information sufficient to identify the matter on which lobbying has occurred.
+
+
+
+
+
+
+*§ 3-222 Certification.* ::
+
+
+All statements and reports required under this subchapter shall contain the following declaration: "I certify that all statements made on this statement are true and correct to the best of my knowledge and belief and I understand that the willful making of any false statement of material fact herein will subject me to the provisions of law relevant to the making and filing of false instruments and will render such statement null and void."
+
+
+
+
+
+
+*§ 3-223 Penalties.* ::
+
+
+(a) Except as provided for in subdivision (b) of this section, any person or organization who knowingly and willfully violates any provision of this subchapter shall be guilty of a class A misdemeanor. In addition to such criminal penalties, such person or organization shall be subject to a civil penalty, in an amount not to exceed thirty thousand dollars, to be assessed by the city clerk, or an order to cease all lobbying activities subject to the jurisdiction of the city clerk for a period of time as determined by such clerk not to exceed sixty days, or both such civil penalty and order.
+
+(b) Any person or organization who violates a cease and desist order of the city clerk issued under subdivision a of this section or enters into a contingency agreement or accepts or pays any contingency fees as proscribed in section 3-218 of this subchapter, shall be guilty of a class A misdemeanor. In addition to such criminal penalties, said person or organization shall be subject to a civil penalty, in an amount not to exceed thirty thousand dollars, to be assessed by the city clerk.
+
+(c) (1) Following a failure to make and file any statement or report required by this subchapter, the city clerk shall notify the person or organization of such fact by certified mail that such filing must be made within fourteen business days of the date of mailing of such notice. The failure to file any statement or report within such time shall constitute a class A misdemeanor. In addition to such criminal penalties, such person or organization shall be subject to a civil penalty, in an amount not to exceed twenty thousand dollars, to be assessed by the city clerk. For the purposes of this subdivision, the chief administrative officer of any organization required to file a statement or report shall be the person responsible for making and filing such statement or report unless some other person prior to the due date thereof has been duly designated to make and file such statement or report.
+
+   (2) Any lobbyist or client who has never previously filed a statement of registration or any other report required by this subchapter shall be charged a late filing penalty of ten dollars for each day a required statement or report is late. If more than one statement or report is late, the total late filing penalty shall be equal to the sum of ten dollars per day multiplied by the number of such late statements or reports. Any other lobbyist or client shall be charged a late filing penalty of twenty-five dollars for each day a required statement or report is late. If more than one statement or report is late, the total late filing penalty shall be equal to the sum of twenty-five dollars per day multiplied by the number of such late statements or reports. Late filing penalties may be waived or reduced at the discretion of the city clerk. A lobbyist or client seeking a waiver or reduction of late filing penalties shall submit documentation as required by the city clerk. A decision to grant such a waiver or reduction shall be made in writing by the city clerk. The city clerk shall take the following factors into account in determining whether a waiver or reduction is appropriate:
+
+      (i) whether and how often the lobbyist or client has filed late in the past;
+
+      (ii) the annual operating budget of the lobbyist or client;
+
+      (iii) whether the lobbyist lobbies solely on its own behalf;
+
+      (iv) for periodic reports, the number of lobbying matters, number of hours spent working on those matters, and amount of compensation and expenditures that were not reported during the relevant period; and
+
+      (v) the significance of the impediments to timely filing faced by the lobbyist or client.
+
+(d) Any person or organization who violates any provision of this subchapter not punishable under subdivisions (a), (b) or (c) of this section shall be subject to a civil penalty, in an amount not to exceed twenty thousand dollars, to be assessed by the city clerk.
+
+(e) Any civil penalty to be assessed under subdivision (d) of this section, or any order issued under subdivision (a) of this section, may only be imposed or issued after written notice of violation and the expiration of fourteen business days from the date of mailing of such notice. If such violation is cured within such fourteen-day period, then such civil penalty or order shall not be imposed or issued.
+
+(f) The amount of any assessment made or duration of order issued pursuant to this section shall be determined only after a hearing at which the party shall be entitled to appear and be heard. Any assessment imposed under this section may be recovered in an action brought by the corporation counsel.
+
+(g) The city clerk shall be charged with the duty of reviewing all statements and reports required under this subchapter for violations, and it shall be his duty, if he deems such to be willful, to report such determination to the department of investigation. Where the city clerk receives a report or otherwise suspects that a criminal violation of law, other than a violation of this subchapter, has been or may have been committed, the city clerk shall report any information relating thereto to the department of investigation.
+
+(h) The department of investigation shall provide assistance to the city clerk for the purpose of training personnel who are responsible for the administration and enforcement of the provisions of this subchapter. The city clerk shall develop compliance programs for lobbyists and clients.
+
+(i) (1) The city clerk shall by rule establish an amnesty program for any lobbyist who was required to have filed, but has never filed, a statement of registration pursuant to section 3-213 of this subchapter, or any client who was required to have filed, but has never filed, an annual report pursuant to section 3-217 of this subchapter, at any time on or after December tenth, two thousand six.
+
+   (2) Any lobbyist or client intending to participate in the amnesty program may file a written notice of intent to participate with the city clerk on forms prescribed by the city clerk, stating his, her or its intention to participate in such program, at any time prior to the effective date of the amnesty program. The city clerk shall not assess any late filing penalties or any civil penalties authorized by this section that could be assessed against any such lobbyist or client for the period from December tenth, two thousand six to the date of the filing of such notice. Any lobbyist or client filing a notice pursuant to this paragraph shall comply with all applicable provisions of this subchapter beginning on the day of such filing.
+
+   (3) Any lobbyist or client intending to participate in the amnesty program, including any lobbyist or client who has filed a notice pursuant to paragraph two of this subdivision, shall file a written application on forms prescribed by the city clerk on or after the effective date of the amnesty program, but prior to the expiration of such program. Such application shall include a summary, which shall meet the requirements of the city clerk, of the lobbying activities, fundraising activities or political consulting activities performed by such lobbyist or received by such client from one year prior to the effective date of the amnesty program until the date of such application or valid filing pursuant to paragraph two of this subdivision. Such amnesty program shall provide that upon the filing of such application and upon compliance with all applicable provisions of this subchapter, the city clerk shall waive any late filing penalties and any civil penalties authorized by this section that could be assessed against any such lobbyist or client for the period from December tenth, two thousand six to the date of the filing of such application or, if the lobbyist or client made a valid filing pursuant to paragraph two of this subdivision, to the date of such filing. In addition, any such lobbyist or client shall not be subject to any criminal penalties authorized by this section for the period from December tenth, two thousand six to the date of the filing of such application or, if the lobbyist or client made a valid filing pursuant to paragraph two of this subdivision, to the date of such filing.
+
+   (4) The term of the amnesty program established pursuant to this subdivision by rule of the city clerk shall not exceed six months, after which no application for amnesty shall be accepted. Prior to the commencement of, and during the term of, the amnesty program, the city clerk shall publicize the amnesty program so as to maximize public awareness of and participation in such program. The city clerk shall consult with city agencies and the city council to develop notices and advertisements to be placed in print and electronic media that are intended to reach persons and organizations doing business with the city.
+
+   (5) Notwithstanding any provision of this subdivision to the contrary, any lobbyist or client who is the subject of any criminal investigation relating to any violation of this subchapter and any lobbyist or client who is a party to any criminal litigation in any court of this state or the United States relating to any violation of this subchapter shall be ineligible to file the notice pursuant to paragraph two of this subdivision or the application pursuant to paragraph three of this subdivision or to otherwise receive relief from late filing penalties, or civil or criminal penalties under the amnesty program established pursuant to this subdivision.
+
+   (6) The city clerk shall promulgate such rules, issue forms and instructions, and take any and all other actions necessary to implement the provisions of this subdivision.
+
+
+
+
+
+
+
+**Subchapter 3: Prohibition of Gifts By Lobbyists**
+
+
+
+*§ 3-224 Definitions.* ::
+
+
+Whenever used in this subchapter, the term "public servant" shall mean a public servant as defined in subdivision nineteen of section two thousand six hundred one of the charter.
+
+
+
+
+
+
+*§ 3-225 Prohibition of gifts.* ::
+
+
+No person required to be listed on a statement of registration pursuant to section 3-213(c)(1) of subchapter 2 of this chapter shall offer or give a gift to any public servant.
+
+
+
+
+
+
+*§ 3-226 Enforcement.* ::
+
+
+Complaints alleging violations of this subchapter shall be made, received, investigated and adjudicated in a manner consistent with investigations and adjudications of conflicts of interest pursuant to chapters sixty-eight and thirty-four of the charter.
+
+
+
+
+
+
+*§ 3-227 Penalties.* ::
+
+
+Any person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates any provision of this subchapter shall be subject to a civil penalty, which for the first offense shall be not less than two thousand five hundred dollars and not more than five thousand dollars, for the second offense not less than five thousand dollars and not more than fifteen thousand dollars, and for the third and subsequent offenses not less than fifteen thousand dollars and not more than thirty thousand dollars. In addition to such civil penalties, for the second and subsequent offenses a person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates the provisions of this subchapter shall also be guilty of a class A misdemeanor.
+
+
+
+
+
+
+
+**Subchapter 3: Domestic Partnerships**
+
+
+
+*§ 3-240 [Definitions.]* ::
+
+
+As used in this section, the following terms shall have the following meanings:
+
+a. "Domestic partners" shall mean persons who have a registered domestic partnership, which shall include any partnership registered pursuant to this chapter, any partnership registered in accordance with executive order number 123, dated August 7, 1989, and any partnership registered in accordance with executive order number 48, dated January 7, 1993, and persons who are members of a marriage that is not recognized by the state of New York, domestic partnership, or civil union, lawfully entered into in another jurisdiction. Nothing in this code shall affect a partnership that has been registered pursuant to either such executive order and has not been terminated in accordance with such executive orders or this chapter.
+
+b. "Registry of domestic partnerships" shall mean the registry maintained by the city clerk pursuant to this chapter, and shall include all domestic partnerships registered by the city clerk pursuant to executive order number 48, dated January 7, 1993, and all domestic partnerships registered with the former department of personnel pursuant to executive order number 123, dated August 7, 1989. Within ten days of the effective date of the local law that added this definition, the department of citywide administrative services shall transfer to the city clerk the records of domestic partnerships registered with the former department of personnel.
+
+c. "Affidavit of domestic partnership" shall mean an affidavit prepared by the office of the city clerk in accordance with rules adopted by the city clerk.
+
+
+
+
+
+
+*§ 3-241 Domestic partnership registration.* ::
+
+
+a. A domestic partnership may be registered by two people who meet all of the following conditions:
+
+   1. Either:
+
+      (a) both persons are residents of the city of New York or
+
+      (b) at least one partner is employed by the city of New York on the date of registration;
+
+   2. Both persons are eighteen years of age or older;
+
+   3. Neither of the persons is married;
+
+   4. Neither of the persons is a party to another domestic partnership, or has been a party to another domestic partnership within the six months immediately prior to registration;
+
+   5. The persons are not related to each other by blood in a manner that would bar their marriage in the state of New York;
+
+   6. The persons have a close and committed personal relationship, live together and have been living together on a continuous basis.
+
+b. In order to register, persons shall execute an affidavit of domestic partnership and submit it to the city clerk, who shall maintain a registry of domestic partnerships. Both parties to the partnership shall be present when the affidavit is submitted.
+
+c. Except when one of the parties is confined to a prison, in a hospital or other health care facility, or is unable to travel to the office of the city clerk because of a disability, the affidavits shall be submitted to the city clerk at the office of the city clerk. The city clerk may adopt such rules as are necessary to implement the domestic partnership registration program. Such rules shall include provisions necessary to provide for the registration of domestic partners when one of the partners is in prison or unable to travel, which shall be equivalent to the rules applicable to persons in such circumstances who apply for a marriage license.
+
+
+
+
+
+
+*§ 3-242 Termination of domestic partnership.* ::
+
+
+a. If either party or both parties to a registered domestic partnership determines that the partnership has terminated, one of the partners shall file a termination statement with the city clerk. The person filing the termination statement shall declare that the domestic partnership is terminated and, if the termination statement has not been signed by both domestic partners, that the other domestic partner has been notified of such termination by registered mail, return receipt requested.
+
+b. A domestic partnership shall terminate whenever one of the parties to the partnership marries.
+
+
+
+
+
+
+*§ 3-243 Confidentiality of domestic partnership information.* ::
+
+
+The city clerk shall establish procedures to ensure the confidentiality of information in the registry of domestic partnerships.
+
+a. In the ordinary course of business, such records shall be released only:
+
+   1. To the parties to the domestic partnership;
+
+   2. To individuals presenting written authorization from one of the parties to the domestic partnership;
+
+   3. To attorneys in cases where such records are required as evidence in a legal proceeding.
+
+b. The following restrictions shall not apply to records that are at least fifty years old, or to records where both parties to the domestic partnership are deceased:
+
+   1. Where a party to the domestic partnership sends a third party to obtain their domestic partnership record without a letter of authorization, the third party may make the request and pay any applicable fee if the third party consents to having the record mailed directly to the party to the domestic partnership. The record shall not be released directly to the unauthorized third party.
+
+   2. If a person requires information concerning the prior history of domestic partnerships of a person who is that person's domestic partner or spouse or prospective domestic partner or spouse, the office of the City Clerk shall, upon receiving adequate assurance that such person's interest is as described in this paragraph, payment of the appropriate fee, and the furnishing of an approximate date of the registration of the partnership and sufficient information to search under at least one party's name, confirm only the fact of a prior domestic partnership by a "yes" or "no" answer.
+
+c. Nothing herein shall be construed to prohibit the publication of statistics pertaining to domestic partnerships which have been registered by the city clerk, provided that appropriate measures are taken to prevent identification of persons registered.
+
+
+
+
+
+
+*§ 3-244 Certificate of domestic partnership registration.* ::
+
+
+a. Issuance of certificate of domestic partnership registration. The city clerk shall issue a certificate of domestic partnership registration to persons who have registered pursuant to this subchapter. Such a certificate shall constitute notice of a registered domestic partnership when persons apply for rights or benefits available to domestic partners, including but not limited to:
+
+   1. Bereavement leave and child care leave of absence for city employees;
+
+   2. Visitation in city correctional and juvenile detention facilities;
+
+   3. Visitation in facilities operated by the New York City health and hospitals corporation;
+
+   4. Eligibility to qualify as a family member to be added by the New York City housing authority to an existing tenancy as a permanent resident;
+
+   5. Eligibility to qualify as a family member entitled to succeed to the tenancy or occupancy rights of a tenant or cooperator in buildings supervised by or under the jurisdiction of the department of housing preservation and development;
+
+   6. Health benefits provided by the city to city employees and retirees and eligible members of their families, pursuant to stipulation or collective bargaining;
+
+   7. Such other rights or benefits as may be established pursuant to applicable law.
+
+b. Access to city benefits and services.
+
+   1. To the extent permitted by state and federal law, any benefit or service directly provided by the city of New York to persons based on spousal relationship shall be available to persons who are domestic partners pursuant to section 3-244 of the administrative code or in a relationship recognized as a domestic partnership pursuant to section 3-245 of the administrative code. For any person applying for such benefits or services, a certificate of domestic partnership registration or its equivalent as recognized pursuant to section 3-245 of the administrative code constitutes sufficient proof of domestic partnership.
+
+   2. Within 90 days of the effective date of the local law that added this subdivision, the administration shall furnish a report to the council that sets forth any benefit or service provided directly by the city that is available to persons based on spousal relationship and is not available to domestic partners on the same basis, and the reasons for why such benefits or services are not provided to such persons.
+
+
+
+
+
+
+*§ 3-245 Recognition of marriages not recognized by the state of New York, domestic partnerships, and civil unions of other jurisdictions.* ::
+
+
+a. Members of a marriage that is not recognized by the state of New York, a domestic partnership, or a civil union, lawfully entered into in another jurisdiction, shall be entitled to all the rights and benefits available to domestic partners registered pursuant to this subchapter. A certificate of such domestic partnership, civil union or marriage issued by another jurisdiction shall constitute sufficient proof of entitlement to such rights and benefits.
+
+b. "Members of a marriage that is not recognized by the state of New York" for purposes of this section and of section 3-240(a) of this title does not include a marriage prohibited by section 5 or section 6 of the New York State Domestic Relations Law.
+
+
+
+
 Chapter 1: Mayor
 --------------------------------------------------
 
@@ -1626,967 +2591,83 @@ The office shall provide all individuals receiving services at family justice ce
 
 
 
-Chapter 2: City Council and City Clerk
+Chapter 4: Board of Estimate
 --------------------------------------------------
 
 
 
+*§ 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.* ::
 
-**Subchapter 1: [Council Districts; Powers and Duties]**
 
+The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
 
+In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
 
-*§ 3-201 Councilmanic flag.* ::
+Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to Chapter 43 of Title 38 of the United States Code, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
 
 
-The official flag of the council shall be the same in design as the official flag of the city, except that upon the middle or white bar there shall be below the design of the seal, in a straight line, the word "Council"; the dimensions of such flag shall be the same as the standard size of flags used for state and parade occasions.
 
 
 
 
 
 
-*§ 3-202 Council districts.* ::
+*§ 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.* ::
 
 
-a. The city is hereby divided into thirty-five council districts for the election of council members other than the public advocate, the boundaries of which are hereby established and described as follows:
+The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
 
-   1. First district. That part of the Borough of Staten Island bounded by a line described as follows: BEGINNING at a point in waters of Arthur Kill between border lines of New Jersey, and Richmond County, at Goethals Bridge, proceeding southeast, to Railroad cut, then proceeding east, to Gulf Avenue, to Staten Island Expressway, to Bengal Avenue, to Fahy Avenue, to Arlene Street, to Lander Avenue, to Richmond Avenue, to Victory Boulevard, to Willowbrook Road, to Watchogue Road, to Victory Boulevard, to Manor Road, to Ocean Terrace, to Todt Hill Road, to Richmond Road, proceeding northerly, to Cromwell Avenue, to Hylan Boulevard, to Old Town Road, to Staten Island Rapid Transit Line, proceeding north on Staten Island Rapid Transit Line, to West Fingerboard Road, to Steuben Street, to Hylan Boulevard, to Hickory Avenue, to McClean Avenue, to Lily Pond Avenue, extended to waters of the Atlantic Ocean; thence southerly and westerly through waters of the Atlantic Ocean, Raritan Bay, to the waters of Arthur Kill, along the intersection New Jersey-New York Line, proceeding northerly and including Island of Meadows, and Pralls Island, to the point or place of beginning.
 
-   2. Second district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the East River at East Twentieth Street extended, to East Twentieth Street, to First Avenue, to East Fourteenth Street, to Fourth Avenue, to East Eighth Street, to Broadway, to West Houston Street, to West Houston Street extended in the waters of the Hudson River, thence southerly, easterly, and northerly, along the East River, to the point or place of beginning; this District is intended to include that part of the City of New York known as Governor's Island, Ellis Island and Liberty Island, (Bedloe's Island).
 
-   3. Third district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the Hudson River, at West Houston Street extended, to West Houston Street, to Broadway, to East Eighth Street, to Fourth Avenue, to East Fourteenth Street, to First Avenue, to East Twentieth Street, to East Twentieth Street extended in the waters of the East River, north to East Thirty-ninth Street extended in the waters of the East River, west on East Thirty-ninth Street and its easterly prolongation to Second Avenue, to East Sixtieth Street, to Fifth Avenue, to Central Park South, to Avenue of the Americas, to West Fifty-fifth Street, to Seventh Avenue, to West Forty-eighth Street, to Eighth Avenue, to West Twenty-ninth Street, to Tenth Avenue, to West Thirty-sixth Street, to West Thirty-sixth Street extended to the waters of the Hudson River, thence southerly to the point or place of beginning.
 
-   4. Fourth district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the Hudson River at the Manhattan borough line and West Ninety-ninth Street extended, to West Ninety-ninth Street, to Broadway, to West Ninety-eighth Street, to Amsterdam Avenue, to West One Hundredth Street, to Central Park West, to Central Park South, to Avenue of the Americas, to West Fifty-fifth Street, to Seventh Avenue, to West Forty-eighth Street, to Eighth Avenue, to West Twenty-ninth Street, to Tenth Avenue, to West Thirty-sixth Street, extended into the waters of the Hudson River to the Manhattan borough line, thence northerly along said borough line to the point or place of beginning.
 
-   5. Fifth district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the Hudson River at the Manhattan borough line and West One Hundred Thirteenth Street extended, to West One Hundred Thirteenth Street, to Amsterdam Avenue, to Cathedral Parkway--Central Park North, to Fifth Avenue, to West One Hundred Twentieth Street, to Mount Morris Park West, to West One Hundred Twenty-fourth Street, to Fifth Avenue, to East One Hundred Thirty-second Street, extended into the waters of the Harlem River to the Manhattan borough line, thence northerly along said borough line to West One Hundred Sixty-fifth Street extended, to the Harlem River Drive, to Saint Nicholas Place, to West One Hundred Fifty-first Street, to Saint Nicholas Avenue, to West One Hundred Fifty-second Street, to Amsterdam Avenue, to West One Hundred Fifty-first Street, to Broadway, to West One Hundred Fiftieth Street, extended into the waters of the Hudson River to the Manhattan borough line, thence southerly along said borough line to the point or place of beginning.
 
-   6. Sixth district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the Hudson River at the Manhattan borough line at West One Hundred Fiftieth Street extended, to West One Hundred Fiftieth Street, to Broadway, to West One Hundred Fifty-first Street, to Amsterdam Avenue, to West One Hundred Fifty-second Street, to Saint Nicholas Avenue, to West One Hundred Fifty-first Street, to Saint Nicholas Place, to the Harlem River Drive, to West One Hundred Sixty-fifth Street extended, into the waters of the Harlem River to the Manhattan borough line, thence northerly, westerly and southerly along said borough line to the point or place of beginning.
+*§ 3-403 Awards to survivors of certain civilian members of the police department.* ::
 
-   7. Seventh district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the East River at the easterly prolongation of East Thirty-ninth Street extended to Franklin D. Roosevelt Drive along said East Thirty-ninth Street, to Second Avenue, to Sixtieth Street, to Fifth Avenue, to Central Park South, to Central Park West, to West Eighty-sixth Street, proceeding easterly through Central Park, to East Eighty-fourth Street, to Madison Avenue, to East Eighty-sixth Street, to Park Avenue, to East Ninety-first Street, to Lexington Avenue, to East Ninety-second Street, to First Avenue, to East Ninety-sixth Street extended into the waters of the East River, thence running southerly to the point or place of beginning; this district is intended to include that part of the City of New York known as Franklin D. Roosevelt Island.
 
-   8. Eighth district. That part of the Borough of Manhattan bounded by a line described as follows: BEGINNING at a point in the waters of the East River at the Manhattan borough line and East Ninety-sixth Street extended, to East Ninety-sixth Street, to First Avenue, to East Ninety-second Street, to Lexington Avenue, to East Ninety-first Street, to Park Avenue, to East Eighty-sixth Street, to Madison Avenue, to East Eighty-fourth Street, thence through Central Park to Central Park West at West Eighty-sixth Street, to West One Hundredth Street, to Amsterdam Avenue, to West Ninety-eighth Street, to Broadway, to West Ninety-ninth Street, extended into the waters of the Hudson River to the Manhattan borough line, thence northerly along said borough line to West One Hundred Thirteenth Street extended, to West One Hundred Thirteenth Street, to Amsterdam Avenue, to Cathedral Parkway – Central Park North, to Fifth Avenue, to East One Hundred Twentieth Street, to Mount Morris Park West, to West One Hundred Twenty-fourth Street, to Fifth Avenue, to East One Hundred Thirty-second Street, extended into the waters of the Harlem River to the Manhattan borough line, thence southerly along said borough line to the point or place of beginning. This district is intended to include that part of the City of New York known as Randall's Island and Ward's Island; this district is further intended to include that part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point in the Harlem River at the Macombs Dam Bridge, extended along the Macombs Dam Bridge, to Jerome Avenue, to East One Hundred Sixty-fifth Street, to Gerard Avenue, to East One Hundred Sixty-fourth Street, to Grand Concourse, to East One Hundred Fifty-third Street, to Morris Avenue, to Third Avenue, to Major Deegan Expressway, to Bruckner Boulevard, to Leggett Avenue, to Truxton Street, to Spofford Avenue, to Halleck Street, to Ryawa Avenue, to Manida Street, extended into the waters of the East River to the Bronx borough line, thence westerly and northerly along said borough line to the point or place of beginning. This District is intended to include that part of the City of New York known as North Brother Island and South Brother Island.
+a. Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
 
-   9. Ninth district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point at the intersection of the Bronx borough line and West Kingsbridge Road, to Major Deegan Expressway, to West Two Hundred Thirtieth Street, to Kingsbridge Terrace, to West Two Hundred Twenty-ninth Street, to Sedgwick Avenue, to Fordham Road, to University Avenue, to Burnside Avenue, to Jerome Avenue, to East One Hundred Sixty-eighth Street, to Grand Concourse, to East One Hundred Seventy-second Street, to Teller Avenue, to East One Hundred Seventieth Street, to East One Hundred Seventy-first Street, to Third Avenue, to Saint Paul's Place, to Crotona Park South, to Crotona Avenue, to Prospect Avenue, to East One Hundred Sixty-fifth Street, to Union Avenue, to East One Hundred Sixty-first Street, to Third Avenue, to East One Hundred Fifty-ninth Street, to Courtlandt Avenue, to East One Hundred Fifty-sixth Street, to Melrose Avenue, to Third Avenue, to Morris Avenue, to East One Hundred Fifty-third Street, to Grand Concourse, to East One Hundred Sixty-fourth Street, to Gerard Avenue, to East One Hundred Sixty-fifth Street, to Jerome Avenue, extended into the waters of the Harlem River to the Bronx borough line, thence northerly along said borough line to the point or place of beginning.
+b. Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
 
-   10. Tenth district. The part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point where the Bronx-Westchester County line intersects the Hutchinson River Parkway, thence southerly along the Hutchinson River Parkway, to the Hutchinson River, thence easterly in the waters of said River, to the Harlem River Division Penn Central Railroad tracks, thence southerly along said Railroad tracks, to Hunter Avenue, to Hutchinson River Parkway, to the New England Thruway, to Conner Street, to Provost Avenue, to Light Street, to Harper Avenue, to Garrett Place, to Pratt Avenue, to East Two Hundred Thirty-third Street, to Monticello Avenue, to Strang Avenue, to Myrdok Avenue, to Edenwald Avenue, to Wylder Avenue, to Pitman Avenue, to Barnes Avenue, to East Two Hundred Thirty-third Street, to White Plains Road, to East Two Hundred Thirtieth Street, to Carpenter Avenue, to East Two Hundred Twenty-ninth Street, to Bronx Boulevard, to East Gun Hill Road, to the Harlem Division Penn Central Railroad tracks, to East Two Hundred Eleventh Street, to Perry Avenue, to East Two Hundred Fifth Street, to Bainbridge Avenue, to East Mosholu Parkway South, to Briggs Avenue, to Bedford Park Boulevard, to Grand Concourse, to East One Hundred Ninety-eighth Street, to Jerome Avenue, to Kingsbridge Road, to University Avenue, to West One Hundred Ninetieth Street, to Webb Avenue, to Sedgwick Avenue, to West Two Hundred Twenty-ninth Street, to Kingsbridge Terrace, to West Two Hundred Thirtieth Street, to Major Deegan Expressway, to West Kingsbridge Road, to the Bronx borough line, thence westerly, northerly and easterly along said borough line to the point or place of beginning.
 
-   11. Eleventh district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point in the waters of the East River at the intersection of the Bronx-Queens County line and Olmstead Avenue extended, thence northerly through the waters of Pugsley's Creek, to Lacombe Avenue, to Olmstead Avenue, to Lafayette Avenue, to Pugsley Avenue, to Cross Bronx Expressway, to East One Hundred Seventy-seventh Street, to DeVoe Avenue, to East Tremont Avenue, to Bronx Street, to East One Hundred Eightieth Street, to Boston Road, to Bronx Park South, to Vyse Avenue, to Cross Bronx Expressway, to Sheridan Expressway, to East One Hundred Sixty-fifth Street, to Westchester Avenue, to East One Hundred Sixty-fifth Street, to Union Avenue, to East One Hundred Sixty-first Street, to Third Avenue, to East One Hundred Fifty-ninth Street, to Courtlandt Avenue, to East One Hundred Fifty-sixth Street, to Melrose Avenue, to Third Avenue, to Major Deegan Expressway, to Bruckner Boulevard, to Leggett Avenue, to Truxton Street, to Spofford Avenue, to Halleck Street, to Ryawa Avenue, to Manida Street, extended into the waters of the East River to the Bronx borough line, thence easterly and northerly along said borough line to the point or place of beginning; this District is intended to include that part of the City of New York known as Riker's Island.
 
-   12. Twelfth district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point in the waters of the East River at the intersection of the Bronx-Queens County line and Olmstead Avenue extended, thence northerly through the waters of Pugsley's Creek, to Lacombe Avenue, to Olmstead Avenue, to Lafayette Avenue, to Pugsley Avenue, to Cross Bronx Expressway, to East One Hundred Seventy-seventh Street, to Devoe Avenue, to East Tremont Avenue, to Bronx Street, to East One Hundred Eightieth Street, to Boston Road, to Bronx Park South, to Southern Boulevard, to Fordham Road, to Pelham Parkway, to Burr Avenue, to Bruckner Expressway, to Middletown Road, to Stadium Avenue, to Watt Avenue, extended to the waters of Long Island Sound, thence northerly and easterly to the Bronx borough line, thence southerly and westerly along said borough line to the point or place of beginning; this District is intended to include that part of the City of New York known as City Island and Hart Island.
 
-   13. Thirteenth district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point at the intersection of Sedgwick Avenue and Fordham Road, thence easterly along Fordham Road, to University Avenue, to West Burnside Avenue, to Jerome Avenue, to East One Hundred Sixty-eighth Street, to Grand Concourse, to East One Hundred Seventy-second Street, to Teller Avenue, to East One Hundred Seventieth Street, to East One Hundred Seventy-first Street, to Third Avenue, to Saint Paul's Place, to Crotona Park South, to Crotona Avenue, to Prospect Avenue, to East One Hundred Sixty-fifth Street, to Westchester Avenue, to East One Hundred Sixty-fifth Street, to Sheridan Expressway, to Cross Bronx Expressway, to Vyse Avenue, to Bronx Park South, to East One Hundred Eighty-second Street, to Quarry Road, to East One Hundred Eighty-first Street, to Third Avenue, to East One Hundred Eighty-second Street, to Park Avenue, to Fordham Road, to Webster Avenue, to East One Hundred Ninety-eighth Street, to Jerome Avenue, to Kingsbridge Road, to University Avenue, to West One Hundred Ninetieth Street, to Webb Avenue, to Sedgwick Avenue, to the point or place of beginning.
 
-   14. Fourteenth district. That part of the Borough of the Bronx bounded by a line described as follows: BEGINNING at a point where the Bronx-Westchester County line intersects the Hutchinson River Parkway, thence southerly along the Hutchinson River Parkway, to the Hutchinson River, thence easterly in the waters of said River, to the Harlem River Division Penn Central Railroad tracks, thence southerly along said Railroad tracks, to Hunter Avenue, to Hutchinson River Parkway, to the New England Thruway, to Conner Street, to Provost Avenue, to Light Street, to Harper Avenue, to Garrett Place, to Pratt Avenue, to East Two Hundred Thirty-third Street, to Monticello Avenue, to Strang Avenue, to Murdock Avenue, to Edenwald Avenue, to Wilder Avenue, to Pitman Avenue, to Barnes Avenue, to East Two Hundred Thirty-third Street, to White Plains Road, to East Two Hundred Thirtieth Street, to Carpenter Avenue, to East Two Hundred Twenty-ninth Street, to Bronx Boulevard, to East Gun Hill Road, to the Harlem Division Penn Central Railroad tracks, to East Two Hundred Eleventh Street, to Perry Avenue, to East Two Hundred Fifth Street, to Bainbridge Avenue, to East Mosholu Parkway South, to Briggs Avenue, to Bedford Park Boulevard, to Grand Concourse, to East One Hundred Ninety-eighth Street, to Webster Avenue, to Fordham Road, to Park Avenue, to East One Hundred Eighty-second Street, to Third Avenue, to East One Hundred Eighty-first Street, to Quarry Road, to East One Hundred Eighty-second Street, to Southern Boulevard, to Fordham Road, to Pelham Parkway, to Burr Avenue, to Bruckner Expressway, to Middletown Road, to Stadium Avenue, to Watt Avenue, extended to the waters of Long Island Sound, thence northerly to the Bronx-Westchester County line, thence westerly along said County line to the point or place of beginning.
 
-   15. Fifteenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point in the waters of the Atlantic Ocean, proceeding easterly along the Brooklyn-Queens borough line, into Rockaway Inlet, thence, easterly and northerly along the border of the Brooklyn-Queens borough line, through Spring Creek following the Brooklyn-Queens borough line, to One Hundred Fifty-fifth Avenue, proceeding north on Sapphire Street, to Dumont Avenue, to Ruby Street, to Liberty Avenue, to Drew Street, to Ninety-fifth Avenue, to Eldert Lane, extended to the Brooklyn-Queens borough line, following said Brooklyn-Queens borough line, westerly to Sunnyside Park, north to Robert Place, to Robert Street, to Hendricks Street, to Vermont Avenue, following the Brooklyn-Queens borough line through the Cemetery of the Evergreens, to Irving Avenue, to Eldert Street, to Wycoff Avenue, to Gates Avenue, to Nicholas Avenue, to Menahan Street, to Cypress Avenue, to Stanhope Street, to Grandview Avenue, to Gates Avenue, to Forest Avenue, to Putman Avenue, to Woodward Avenue, to Catalpa Avenue, to Fresh Pond Road, to Myrtle Avenue, to Central Avenue, to Sixty-sixth Street, to Myrtle Avenue, to Eighty-eighth Street, to Eighty-third Drive, to Eighty-ninth Street, to Myrtle Avenue, to Woodhaven Boulevard, to Jamaica Avenue, to Eighty-seventh Street, to Atlantic Avenue, to Ninety-second Street, to Ninety-seventh Avenue, to Eighty-eighth Street, to Rockaway Boulevard, to Cross Bay Boulevard, to North Conduit Avenue, to Cohancy Street, proceeding southerly, to South Conduit Avenue, to Nassau Expressway, to One Hundred Fiftieth Street, running thence easterly and southerly along the northerly and easterly and southerly borders of the John F. Kennedy International Airport, thence following the Queens-Nassau County borderline to the Atlantic Ocean, thence westerly, including that part of the City of New York known as the Rockaways to the point or place of beginning.
+*§ 3-404 Awards to spouses and domestic partners of officers or employees of the city.* ::
 
-   16. Sixteenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where the Queens-Nassau County boundary line intersects Twenty-fourth Avenue, extended into the waters of Little Neck Bay, to the Cross Island Parkway, thence southerly, to Thirty-seventh Avenue, thence easterly across Little Neck Bay along Thirty-seventh Avenue, to Two Hundred Thirty-third Street, to Bay Street, to Two Hundred Thirty-fourth Street, thence westerly across Little Neck Bay, to Forty-first Avenue, to Two Hundred Fifteenth Street, to Northern Boulevard, to Clearview Expressway, to Forty-fifth Road, to Francis Lewis Boulevard, to Forty-fifth Avenue, to One Hundred Ninety-second Street, to Forty-seventh Avenue, to Auburndale Lane, to Meadow Road, to Fresh Meadow Lane, to Long Island Expressway, to Bell Boulevard, to Sixty-seventh Avenue, to Two Hundred Ninth Street, to Richland Avenue, to Hollis Court Boulevard, to Union Turnpike, to Utopia Parkway, southerly, to Home Lawn Street, to One Hundred Seventieth Street, to Jamaica Avenue, to Hollis Avenue, to Ninety-ninth Avenue, to Francis Lewis Boulevard, to Jamaica Avenue, to Two Hundred Eleventh Street, to Hollis Avenue, to Two Hundred Thirteenth Street, to Witthoff Street, to Two Hundred Twelfth Street, to One Hundred Fifteenth Avenue, to Two Hundred Twenty-fourth Street, to One Hundred Fifteenth Road, to Two Hundred Thirtieth Street, to One Hundred Fifteenth Avenue, to Cross Island Parkway, to Queens-Nassau County boundary line, thence proceeding northerly and easterly to the point or place of beginning.
 
-   17. Seventeenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where Jamaica Avenue intersects Sutphin Boulevard, thence along Jamaica Avenue, to Hollis Avenue, to Ninety-ninth Avenue, to Francis Lewis Boulevard, to Jamaica Avenue, to Two Hundred Eleventh Street, to Hollis Avenue, to Two Hundred Thirteenth Street, to Witthoff Street, to Two Hundred Twelfth Street, to One Hundred Fifteenth Avenue, to Two Hundred Twenty-fourth Street, to One Hundred Fifteenth Road, to Two Hundred Thirtieth Street, to One Hundred Fifteenth Avenue, to the Cross Island Parkway, to the Queens-Nassau County boundary line, proceeding southerly along said line to the point where Quigley Boulevard intersects Rockaway Boulevard, thence proceeding northerly and westerly along the John F. Kennedy International Airport, to One Hundred Fiftieth Street, to North Conduit Avenue, to Van Wyck Expressway, to Rockaway Boulevard, to One Hundred Sixteenth Avenue, to Sutphin Boulevard, to the point or place of beginning.
+The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
 
-   18. Eighteenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where Jamaica Avenue, intersects Sutphin Boulevard, proceeding easterly along Jamaica Avenue, to One Hundred Seventieth Street, to Hillside Avenue, to Home Lawn Street, to Union Turnpike easterly, to Hollis Court Boulevard, to Richland Avenue, to Two Hundred Tenth Street, to Sixty-seventh Avenue, to Bell Boulevard, to Long Island Expressway westerly to Fresh Meadow Lane, to Booth Memorial Avenue, to One Hundred Sixty-fourth Street, to Oak Avenue, to Parsons Boulevard, to Kalmia Avenue, to One Hundred Fifty-sixth Street, to Forty-sixth Avenue, to Parsons Boulevard, to Forty-fifth Avenue, to Kissena Boulevard, to Elder Avenue, to Main Street, to Peck Avenue, to Elder Avenue, to One Hundred Thirty-third Street, to Booth Memorial Avenue, to College Point Boulevard, to Park Drive East, to the end of Park Drive East, thence easterly along the northern boundary of Grand Central Parkway, to Main Street, to Manton Street, to One Hundred Thirty-fourth Street, to Interborough Parkway, to Park Lane, to Park Lane South, to Metropolitan Avenue, to Van Wyck Expressway, to Altantic Avenue, to One Hundred Twenty-seventh Street, to One Hundred Third Avenue, to One Hundred Thirty-first Street, to One Hundred Ninth Avenue, to One Hundred Twenty-fourth Street, to Rockaway Boulevard, westerly, to One Hundred Twenty-third Street, to One Hundred Thirty-third Avenue, to One Hundred Fourteenth Street, to North Conduit Avenue, to Hawtree Avenue southerly, to Cohancy Street, to Nassau Expressway, to One Hundred Fiftieth Street, to North Conduit Avenue, to Van Wyck Expressway, to Rockaway Boulevard, to One Hundred Sixteenth Avenue, to Sutphin Boulevard, to the point or place of beginning.
 
-   19. Nineteenth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where the Queens-Nassau County boundary line intersects Twenty-fourth Avenue, extended into the waters of Little Neck Bay, to Cross Island Parkway, thence southerly, to Thirty-seventh Avenue, thence easterly across Little Neck Bay, along Thirty-seventh Avenue, to Two Hundred Thirty-third Street, to Bay Street, to Two Hundred Thirty-fourth Street, thence westerly across Little Neck Bay, to Forty-first Avenue, to Two Hundred Fifteenth Street, to Northern Boulevard, to Clearview Expressway, to Forty-fifth Road, to Francis Lewis Boulevard, to Forty-fifth Avenue, to One Hundred Ninety-second Street, to Forty-seventh Avenue, to Auburndale Lane, to Meadow Road, to Fresh Meadow Lane, to Booth Memorial Avenue, to One Hundred Sixty-fourth Street, to Oak Avenue, to Parsons Boulevard, to Kalmia Avenue, to One Hundred Fifty-sixth Street, to Forty-sixth Avenue, to Parsons Boulevard, to Forty-fifth Avenue, to Kissena Boulevard, to Elder Avenue, to Main Street, to Peck Avenue, to Elder Avenue, to One Hundred Thirty-third Street, to Booth Memorial Road, to College Point Boulevard, to Long Island Expressway, to the southwest corner of Flushing Meadow Park, proceeding north around said park, to Forty-fifth Avenue, to One Hundred Second Street, to Roosevelt Avenue, to Ninety-ninth Street, to Thirty-fifth Avenue, to Ninety-seventh Street, to Northern Boulevard, to College Point Boulevard, to Whitestone Expressway, to Fourteenth Avenue, to Parsons Boulevard, to Thirteenth Avenue, to One Hundred Forty-seventh Street, to Fourteenth Avenue, to One Hundred Forty-eighth Street, to Fifteenth Avenue, to Francis Lewis Boulevard, to Cross Island Parkway, to One Hundred Fifty-fourth Street, to Twelfth Avenue, to One Hundred Fifty-seventh Street, to Powells Cove Boulevard, to One Hundred Fifty-eighth Street, to Riverside Drive, to One Hundred Sixty-first Street, extended into the East River, thence proceeding easterly and southerly to the point or place of beginning.
 
-   20. Twentieth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where the waters of the East River intersects Thirty-third Road, to Vernon Boulevard, to Thirty-fourth Avenue, to Northern Boulevard, to Forty-ninth Street, to Broadway, to Forty-eighth Street, to Thirty-first Avenue, to Brooklyn-Queens Expressway, to Thirtieth Avenue, to Seventy-first Street, to Northern Boulevard, to College Point Boulevard, to Whitestone Expressway, to Fourteenth Avenue, to Parsons Boulevard, to Thirteenth Avenue, to One Hundred Forty-seventh Street, to Fourteenth Avenue, to One Hundred Forty-ninth Street, to Fifteenth Avenue, to Francis Lewis Boulevard, to Cross Island Parkway, to One Hundred Fifty-fourth Street, to Twelfth Avenue, to One Hundred Fifty-seventh Street, to Powells Cove Boulevard, to One Hundred Fifty-eighth Street, to Riverside Drive, to One Hundred Sixty-first Street, extended into the East River, proceeding westerly, along the Bronx-Queens County border, to the point or place of beginning.
 
-   21. Twenty-first district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point where the waters of the East River intersects Thirty-third Road, to Vernon Boulevard, to Thirty-fourth Avenue, to Northern Boulevard, to Forty-ninth Street, to Broadway, to Forty-eighth Street, to Thirty-first Avenue, to Brooklyn-Queens Expressway, to Thirtieth Avenue, southerly to Seventy-first Street, to Thirty-fifth Avenue, to Leverich Street, to Thirty-seventh Avenue, to Eightieth Street, to Forty-first Avenue, to Baxter Avenue, to Woodside Avenue, to Seventy-ninth Street, to Forty-fifth Avenue, to Broadway, to Maurice Avenue, to Queens Boulevard, to Goldsmith Street, to Van Horn Street, to Fifty-sixth Avenue, to Haspel Street, to Fifty-seventh Avenue, to Long Island Expressway, to Eighty-fourth Street, to Caldwell Avenue, to Eightieth Street, to Sixty-second Avenue, to Juniper Boulevard North, to Seventy-fifth Street, to Eliot Avenue, proceeding southerly around Juniper Valley Park, to Juniper Boulevard South, to Seventy-seventh Street, to Furmanville Avenue, to Seventy-ninth Street, to Metropolitan Avenue, to Sixty-ninth Street, to Sixty-third Avenue, to Mount Olivet Crescent, to Sixty-second Avenue, to Sixty-fourth Street, to Metropolitan Avenue, to Sixtieth Street, to Sixtieth Road, to Rust Street, along Bushwick Junction Railroad, to Flushing Avenue, to Fifty-fifth Street, to Arnold Avenue, to Rene Court, to Grandview Avenue, to Stanhope Street, to Cypress Avenue, northerly and westerly along the Kings-Queens border, to the waters of the East River Channel, proceeding northerly to the point or place of beginning.
 
-   22. Twenty-second district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at the intersection of Metropolitan Avenue and Jamaica Avenue, proceeding along Metropolitan Avenue, to Park Lane South, to Park Lane, to Interborough Parkway, to One Hundred Thirty-fourth Street, to Eighty-third Avenue, to Manton Street, to Main Street, to Grand Central Parkway, along said Parkway, to Union Turnpike, proceeding westerly to Park Drive East, to Long Island Expressway, proceeding westerly on said Expressway, to Ninety-seventh Place, to Sixty-second Drive, to Ninety-seventh Street, to Sixty-third Road, to Queens Boulevard, to Sixty-third Avenue, to Woodhaven Boulevard, to Sixty-seventh Avenue, to Fitchett Street, to Sixty-sixth Road, to Alderton Street, to Dieterle Crescent, to Thornton Place, to Fleet Street, to Selfridge Street, to Metropolitan Avenue, to Woodhaven Boulevard, to Union Turnpike, to Pedestrian Way, thence southerly to Myrtle Avenue, to Woodhaven Boulevard, to Jamaica Avenue, to Eighty-seventh Street, to Atlantic Avenue, to Ninety-second Street, to Ninety-seventh Avenue, to Eighty-eighth Street, to Rockaway Boulevard, to Cross Bay Boulevard, to North Conduit Avenue, to One Hundred Fourteenth Street, to One Hundred Thirty-third Avenue, to One Hundred Twenty-third Street, to Rockaway Boulevard, to One Hundred Twenty-fourth Street, to One Hundred Ninth Avenue, to One Hundred Thirty-first Street, to One Hundred Third Avenue, to One Hundred Twenty-seventh Street, to Atlantic Avenue, to Van Wyck Expressway, to Jamaica Avenue, to the point or place of beginning.
 
-   23. Twenty-third district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn-Queens borough line at Sheridan Avenue extended, to Flatlands Avenue, to East One Hundred Third Street, to Glenwood Road, to East One Hundred Fifth Street, to Farragut Road, to East One Hundred Eighth Street, to Stanley Avenue, to Louisiana Avenue, to Dewitt Avenue, to Van Sinderen Avenue, to Linden Boulevard, to Rockaway Avenue, to Ditmas Avenue, to Rockaway Parkway, to Avenue D, to Foster Avenue, to Ralph Avenue, to the Long Island Railroad tracks, to East Fifty-sixth Street extended, to East Fifty-sixth Street, to Avenue D, to Kings Highway, to Foster Avenue, to Utica Avenue, to Glenwood Road, to Flatbush Avenue, to Avenue H, to East Thirty-fourth Street, to Avenue K, to East Thirty-fifth Street, to Avenue M, to East Thirty-sixth Street, to Flatlands Avenue, to East Thirty-seventh Street, to Quentin Road, to Nostrand Avenue, to Gerritsen Avenue, to Batchelder Street, to Avenue V, to Bragg Street, to Avenue X, to Batchelder Street, to Avenue Z, to Nostrand Avenue, to Emmons Avenue, to East Twenty-seventh Street, to Sheepshead Bay, thence easterly along Sheepshead Bay to Knapp Street extended, thence southerly to the Brooklyn borough line, thence easterly and northerly along said borough line to the point or place of beginning.
+*§ 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.* ::
 
-   24. Twenty-fourth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn-Queens borough line at Sheridan Avenue extended, to Flatlands Avenue, to East One Hundred Third Street, to Glenwood Road, to East One Hundred Fifth Street, to Farragut Road, to East One Hundred Eighth Street, to Stanley Avenue, to Louisiana Avenue, to Dewitt Avenue, to Van Sinderen Avenue, to Linden Boulevard, to Rockaway Avenue, to Ditmas Avenue, to Rockaway Parkway, to Avenue D, to Foster Avenue, to Ralph Avenue, to the Long Island Railroad tracks, to East Fifty-sixth Street extended, to East Fifty-sixth Street, to Avenue D, to East Fifty-fourth Street, to Church Avenue, to East Fifty-fifth Street, to Clarkson Avenue, to Remsen Avenue, to Lenox Road, to East Ninety-sixth Street, to Kings Highway, to East Ninety-eighth Street, to Livonia Avenue, to Saratoga Avenue, to Dumont Avenue, to Rockaway Avenue, to East New York Avenue, to Hopkinson Avenue, to Fulton Street, to Saratoga Avenue, to Broadway, to Jamaica Avenue, to Pennsylvania Avenue, to Liberty Avenue, to Autumn Avenue, to McKinley Avenue, to the Brooklyn-Queens borough line at Drew Street, thence southerly along said borough line to the point or place of beginning.
 
-   25. Twenty-fifth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Ocean Parkway and Avenue H, thence along Avenue H to East Eighth Street, to Avenue I, to East Twelfth Street, to Avenue H, to East Seventeenth Street, to Avenue I, to East Twenty-seventh Street to the Long Island Railroad tracks, to Nostrand Avenue, to Avenue H, to Flatbush Avenue, to Glenwood Road, to Utica Avenue, to Foster Avenue, to Kings Highway, to East Fifty-fourth Street, to Church Avenue, to East Fifty-fifth Street, to Linden Boulevard, to East Forty-ninth Street, to Clarkson Avenue, to Flatbush Avenue, to Parkside Avenue, to Parade Place, to Caton Avenue, to Coney Island Avenue, to Church Avenue, to East Fourth Street, to Ditmas Avenue, to East Eighth Street, to Eighteenth Avenue, to Ocean Parkway, to Avenue H, to the point or place of beginning.
+Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
 
-   26. Twenty-sixth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Broadway and Saratoga Avenue, to Fulton Street, to Hopkinson Avenue, to East New York Avenue, to Rockaway Avenue, to Dumont Avenue, to Saratoga Avenue, to Livonia Avenue, to East Ninety-eighth Street, to Kings Highway, to East Ninety-sixth Street, to Lenox Avenue, to Remsen Avenue, to Clarkson Avenue, to East Fifty-fifth Street, to Linden Boulevard, to East Forty-ninth Street, to Clarkson Avenue, to Flatbush Avenue, to Parkside Avenue, to Ocean Avenue, to Lincoln Road, to Flatbush Avenue, to Washington Avenue, to Lefferts Avenue, to Schenectady Avenue, to Eastern Parkway, to Kingston Avenue, to Pacific Street, to Brooklyn Avenue, to Fulton Street, to Tompkins Avenue, to Jefferson Avenue, to Throop Avenue, to Park Avenue, to Broadway, to the point or place of beginning.
 
-   27. Twenty-seventh district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Eldert Lane and Ninety-fifth Avenue at the Brooklyn-Queens borough line to Drew Street, to McKinley Avenue, to Autumn Avenue, to Liberty Avenue, to Pennsylvania Avenue, to Jamaica Avenue, to Broadway, to Park Avenue, to Throop Avenue, to Myrtle Avenue, to Bedford Avenue, to Lynch Street, to Broadway, to Berry Street, to Metropolitan Avenue, to Roebling Street, to North Fifth Street, to Havemeyer Street, to Metropolitan Avenue, to Union Avenue, to Powers Street, to Lorimer Street, to Maujer Street, to Leonard Street, to Grand Street, to Morgan Avenue, to Johnson Avenue, to Stewart Avenue, to Flushing Avenue, to Wyckoff Avenue, to Stockholm Street, to the Brooklyn-Queens borough line, thence southerly, easterly, and southerly along said borough line to the point or place of beginning.
 
-   28. Twenty-eighth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Lincoln Road and Ocean Avenue, to Flatbush Avenue, to Grand Army Plaza, around the eastern boundary of said Plaza to Vanderbilt Avenue, to Sterling Place, to Flatbush Avenue, to Myrtle Avenue, to Vanderbilt Avenue, to Brooklyn-Queens Expressway, to Flushing Avenue, to Bedford Avenue, to Myrtle Avenue, to Throop Avenue, to Jefferson Avenue, to Tompkins Avenue, to Fulton Street, to Brooklyn Avenue, to Pacific Street, to Kingston Avenue, to Eastern Parkway, to Schenectady Avenue, to Lefferts Avenue, to Washington Avenue, to Flatbush Avenue, to Lincoln Road, to the point or place of beginning.
 
-   29. Twenty-ninth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of Buttermilk Channel at Hamilton Avenue extended, to Hamilton Avenue-Ferry Place, to Van Brunt Street, to DeGraw Street, to Court Street, to Douglas Court, to Douglas Street, to Gowanus Canal, to Carroll Street, to Fourth Avenue, to Fifth Street, to Eighth Avenue, to Union Street, to Grand Army Plaza, around the eastern boundary of said Plaza, to Vanderbilt Avenue, to Sterling Place, to Flatbush Avenue, to Myrtle Avenue, to Vanderbilt Avenue, to Brooklyn-Queens Expressway, to Flushing Avenue, to Bedford Avenue, to Lynch Street, to Broadway, to Berry Street, to Metropolitan Avenue, to Roebling Street, to North Fifth Street, to Havemeyer Street, to Metropolitan Avenue, to Union Avenue, to Powers Street, to Lorimer Street, to Maujer Street, to Leonard Street, to Grand Street, to Morgan Avenue, to Johnson Avenue, to Stewart Avenue, to Flushing Avenue, to Wyckoff Avenue, to Stockholm Street, to Brooklyn-Queens borough line, thence northerly westerly, and southerly along the Brooklyn borough line to the point or place of beginning.
 
-   30. Thirtieth district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of Buttermilk Channel at Hamilton Avenue extended, to Hamilton Avenue-Ferry Place, to Van Brunt Street, to DeGraw Street, to Court Street, to Douglas Court, to Douglas Street, to Gowanus Canal, to Carroll Street, to Fourth Avenue, to Fifth Street, to Eighth Avenue, to Union Street, to Grand Army Plaza, to Flatbush Avenue, to Ocean Avenue, to Parkside Avenue, to Parade Place, to Caton Avenue, to Coney Island Avenue, to Church Avenue, to Dahill Road, to Sixteenth Avenue, to Forty-sixth Street, to Thirteenth Avenue, to Fifty-fifth Street, to Third Avenue, to Fifty-fourth Street, to Second Avenue, to Fifty-seventh Street, extended into the waters of the Upper Bay to the Brooklyn borough line, thence northerly along said borough line to the point or place of beginning.
 
-   31. Thirty-first district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of the Upper Bay at Fifty-seventh Street extended, to Fifty-seventh Street, to Second Avenue, to Fifty-fourth Street, to Third Avenue, to Fifty-fifth Street, to New Utrecht Avenue, to Sixty-seventh Street, to Eighteenth Avenue, to Sixty-sixth Street, to Nineteenth Avenue, to Seventy-seventh Street, to Twentieth Avenue, to Benson Avenue, to Eighteenth Avenue, to Cropsey Avenue, to Bay Nineteenth Street, to Shore Parkway, to Bay Eighth Street, to Cropsey Avenue, to Fourteenth Avenue, to Poly Place, to Battery Avenue, thence northerly and westerly along the border of the United States Government reservation known as Fort Hamilton, to Gowanus Expressway, to Fort Hamilton Parkway, to One Hundred First Street, to Fourth Avenue, extended into the waters of the Narrows to Brooklyn borough line, thence northerly along said borough line to the point or place of beginning.
+*§ 3-406 Leases for public purposes.* ::
 
-   32. Thirty-second district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the intersection of Church Avenue and Dahill Road, to East Fourth Street, to Ditmas Avenue, to East Eighth Street, to Eighteenth Avenue, to Ocean Parkway, to Avenue H, to East Eighth Street, to Avenue I, to East Twelfth Street, to Avenue H, to East Seventeenth Street, to Avenue I, to East Twenty-seventh Street, to the Long Island Railroad tracks, to Nostrand Avenue, to Avenue H, to East Thirty-fourth Street, to Avenue K, to East Thirty-fifth Street, to Avenue M, to East Thirty-sixth Street, to Flatlands Avenue, to East Thirty-seventh Street, to Quentin Road, to Nostrand Avenue, to Gerritsen Avenue, to Batchelder Street, to Avenue U, to East Twenty-ninth Street, to Avenue T, to East Sixteenth Street, to Avenue S, to East Fifteenth Street, to Avenue R, to East Twelfth Street, to Quentin Road, to West Twelfth Street, to Kings Highway, to Bay Parkway, to Seventy-seventh Street, to Nineteenth Avenue, to Sixty-sixth Street, to Eighteenth Avenue, to Sixty-seventh Street, to New Utrecht Avenue, to Thirteenth Avenue, to Forty-sixth Street, to Sixteenth Avenue, to Dahill Road, to the point or place of beginning.
 
-   33. Thirty-third district. That part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of Lower New York Bay at Twenty-sixth Avenue extended, to Twenty-sixth Avenue, to Harway Avenue, to Stillwell Avenue, to Avenue U, to West Ninth Street, to Avenue T, to West Twelfth Street, to Quentin Road, to East Twelfth Street, to Avenue R, to East Fifteenth Street, to Avenue S, to East Sixteenth Street, to Avenue T, to East Twenty-ninth Street, to Avenue U, to Batchelder Street, to Avenue V, to Bragg Street, to Avenue X, to Batchelder Street, to Avenue Z, to Nostrand Avenue, to Emmons Avenue, to East Twenty-seventh Street, to Sheepshead Bay, thence easterly along Sheepshead Bay to Knapp Street extended, thence southerly to the Brooklyn borough line, thence westerly and northerly along said borough line to the point or place of beginning.
+All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
 
-   34. Thirty-fourth district. That part of the Borough of Queens bounded by a line described as follows: BEGINNING at a point at the intersection of Northern Boulevard and Seventy-first Street, proceeding easterly to Ninety-seventh Street, to Thirty-fifth Avenue, to Ninety-ninth Street, to Roosevelt Avenue, to One Hundred Second Street, to Forty-fifth Avenue, to One Hundred Eleventh Street, (along outer line of Flushing-Corona Park), to Long Island Expressway, thence westerly, to Ninety-seventh Place, to Sixty-second Drive, to Ninety-seventh Street, to Sixty-third Road, to Queens Boulevard, to Sixty-third Avenue, to Woodhaven Boulevard, to Sixty-seventh Avenue, to Fitchett Street, to Sixty-sixth Road, to Alderton Street, to Dieterle Crescent, to Thornton Place, to Fleet Street, to Selfridge Street, to Metropolitan Avenue, to Woodhaven Boulevard, to Union Turnpike, to Pedestrian Way, thence south and southeast, along the line of Forest Park, to Myrtle Avenue, to Eighty-ninth Street, to Eighty-third Drive, to Eighty-eighth Street, to Myrtle Avenue, to Sixty-sixth Street, to Central Avenue, to Sixty-first Street, to Fresh Pond Road, to Catalpa Avenue to Woodward Avenue, to Putnam Avenue, to Forest Avenue, to Gates Avenue, to Grandview Avenue, to Rene Court, to Metropolitan Avenue, to Arnold Avenue, to Fifty-fifth Street, to Flushing Avenue, to Rust Street, to Andrews Street, to Forest Avenue, to Metropolitan Avenue, thence easterly, to Sixty-fourth Street, to Sixty-second Avenue, to Mount Olivet Crescent, to Sixty-third Avenue, to Sixty-ninth Street, to Metropolitan Avenue, to Seventy-ninth Street, to Furmanville Avenue, to Seventy-seventh Street, to Juniper Boulevard South, thence westerly to Sixty-second Drive, thence northerly and easterly around Juniper Valley Park along Juniper Boulevard North, to Sixty-second Avenue, to Eightieth Street, to Caldwell Avenue, to Eighty-fourth Street, to Long Island Expressway, to Long Island Railroad Cut, to Fifty-seventh Avenue, crossing the Long Island Railroad Cut, to Fifty-sixth Street, to Van Horn Street, to Grand Avenue, to Goldsmith Street, to Queens Boulevard, to Maurice Avenue, to Broadway to Forty-fifth Avenue, to Seventy-ninth Street, to Woodside Avenue, to Baxter Avenue, to Forty-first Avenue, to Eightieth Street, to Thirty-seventh Avenue, to Leverich Street, to Thirty-fifth Avenue, to Northern Boulevard, to the point or place of beginning.
 
-   35. Thirty-fifth district. That part of the Borough of Staten Island bounded by a line described as follows: BEGINNING at a point in waters of Arthur Kill between border lines of New Jersey, and Richmond County, at Goethals Bridge, proceeding southeast, to Railroad cut, then proceeding east, to Gulf Avenue, to Staten Island Expressway, to Bengal Avenue, to Fahy Avenue, to Arlene Street, to Lander Avenue, to Richmond Avenue, to Victory Boulevard, to Willowbrook Road, to Watchogue Road, to Victory Boulevard, to Manor Road, to Ocean Terrace, to Todt Hill Road, to Richmond Road, proceeding northerly, to Cromwell Avenue, to Hylan Boulevard, to Old Town Road, to Staten Island Rapid Transit Line, proceeding north on Staten Island Rapid Transit Line, to West Fingerboard Road, to Steuben Street, to Hylan Boulevard, to Hickory Avenue, to McClean Avenue, to Lily Pond Avenue, extended to waters of Atlantic Ocean; thence northerly and westerly through the Narrows, through the Kill Van Kull Waters, including the entire part of the City of New York known as Snooter's Island, to the waters of the Arthur Kill, to the point or place of beginning; this district is further intended to include that part of the Borough of Brooklyn bounded by a line described as follows: BEGINNING at a point at the Brooklyn borough line in the waters of Gravesend Bay at Twenty-sixth Avenue, extended to Harway Avenue, to Stillwell Avenue, to Avenue U, to West Ninth Street, to Avenue T, to West Twelfth Street, to Kings Highway, to Bay Parkway, to Seventy-seventh Street, to Twentieth Avenue, to Benson Avenue, to Eighteenth Avenue, to Cropsey Avenue, to Bay Nineteenth Street, to Shore Parkway, to Shore Road extension, to Bay Eighth Street, to Cropsey Avenue, to Fourteenth Avenue, to Poly Place, to Battery Avenue, thence northerly and westerly along the border of the United States Government reservation known as Fort Hamilton, to Gowanus Expressway, to Fort Hamilton Parkway, to One Hundred First Street, to Fourth Avenue, extended in the waters of The Narrows, at the Brooklyn borough line, thence projected into the waters of the Lower Bay, on the north side of and parallel to the Verrazano Narrows Bridge thence southerly and easterly to the point or place of beginning.
 
-b. If any numbered paragraph of subdivision a of this section or any clause, sentence or part of any such numbered paragraph shall be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate any other numbered paragraph of subdivision a of this section, but shall be confined in its operation to the numbered paragraph which was directly involved in the controversy or of which a clause, sentence, or part was directly involved in such controversy.
 
-c. The provisions of this section shall apply to the nomination and election of council members at the primary and general election in the year nineteen hundred eighty-one and thereafter and elections by the voters for the filling of vacancies in the offices of the council members so elected arising otherwise than by expiration of the term, for the balance thereof.
 
 
+*§ 3-407 Transfer of streets.* ::
 
 
-
-
-*§ 3-203 Public advocate; member of all committees.* ::
-
-
-The public advocate, ex-officio, shall be a member of all the committees thereof.
-
-
-
-
-
-
-*§ 3-204 Salaries; additional compensation for officers of council.* ::
-
-
-The mayor, pursuant to the provisions of section one hundred twenty-three of the charter, may fix any additional remuneration to be paid to the vice-chairman of the council, the leader of the dominant minority party, the chairperson of the finance committee, the chairperson of the general welfare committee, and during a vacancy in the office of mayor or the office of public advocate, the person designated to act as leader of the majority party, over and above the salaries paid to them as council members.
-
-
-
-
-
-
-*§ 3-204.1 Transfer and disposal of surplus old desks and chairs, councilmanic chambers.* ::
-
-
-a. The commissioner of citywide administrative services in the case of the disposal of surplus old desks and chairs no longer needed for use of the city council in the councilmanic chambers shall transfer such chairs and desks to the control and custody of the city clerk, clerk of the council.
-
-b. The city clerk, clerk of the council, shall have the power, upon request, to transfer and deliver one such desk and/or chair in the following order of priority: (1) museum of the city of New York; (2) metropolitan museum of art; (3) New York historical society; (4) present member of the council; (5) former member of the council. Such museum, member of the council or former member of the council shall file its or his or her written request with the city clerk, clerk of the council, accompanied with the sum of ten dollars per desk or chair, which sums shall be deposited with the commissioner of finance, except that the aforesaid museums and historical society shall not be required to pay anything.
-
-c. The provisions of this section shall be effective notwithstanding the provisions of any general or special law or provision or regulation relating to the disposal of personal property and any such statute or part or parts thereof, relating to such disposal of surplus material, insofar as they are inconsistent with the provisions of this section, are hereby superseded.
-
-
-
-
-
-
-*§ 3-204.2 Transfer of councilmanic chairs at termination of office.* ::
-
-
-(a) The city clerk, clerk of the council shall have the power at the request of any member of the council who shall hereafter resign or whose term of office shall hereafter terminate, or a surviving spouse or domestic partner of such member, to sell and transfer to such member or to such surviving spouse or domestic partner the chair last occupied by such member in the councilmanic chamber for the fair market value as determined by the commissioner of citywide administrative services, depositing any monies received from such sale with the commissioner of finance; provided however, that a written request therefore accompanied by the payment herein provided be submitted to the city clerk, clerk of the council within sixty days after any such resignation or termination of term of office. The commissioner of citywide administrative services shall upon notice from the city clerk, clerk of the council make prompt replacement of such chair so transferred or sold.
-
-(b) The provisions of this section shall apply solely to members of the council who have been elected at a general election.
-
-(c) The provision of this section shall be effective notwithstanding the provisions of any general or special law or provision or regulation relating to the disposal of personal property and any such statute, or part, or parts thereof are hereby superseded.
-
-
-
-
-
-
-*§ 3-204.3 Workers' compensation for city council employees.* ::
-
-
-a. As used in this section, the term "city council employees" shall include all duly sworn members of the city council as well as all salaried employees who comprise the staff of the city council on a full-time or part-time basis.
-
-b. Pursuant to the authorization contained in group nineteen of subdivision one of section three of the state workers' compensation law, the coverage of the workers' compensation law is extended to cover all city council employees.
-
-
-
-
-
-
-*§ 3-204.4 Representation; council members.* ::
-
-
-Council Members shall be represented by the corporation counsel and indemnified by the city pursuant to Section 50-k of the General Municipal Law, subject to the conditions contained therein, for actions undertaken in the performance of their constituent responsibilities.
-
-
-
-
-
-
-*§ 3-205 City clerk; employees; bonds.* ::
-
-
-Each of the following officers or employees in the office of the city clerk shall execute a bond to the city, conditioned for the faithful performance of the duties of his or her office, with one or more sureties, to be approved by the comptroller, in the penal sum as follows: city clerk, twenty thousand dollars; city clerk's cashier, and assistant cashier, three thousand dollars each; deputy city clerk, borough of Brooklyn, five thousand dollars; deputy city clerks, boroughs of the Bronx, Queens, and Staten Island, one thousand dollars each.
-
-
-
-
-
-
-*§ 3-206 City clerk; proceedings of council.* ::
-
-
-Immediately after the adjournment of each meeting of the council, the city clerk shall prepare a brief extract, omitting technical and formal details, of all resolutions and local laws introduced or passed, all recommendations of committees, all final proceedings and full copies of all messages from the mayor and all reports of city agencies. The city clerk shall forthwith transmit the same for publication in the City Record to the director thereof.
-
-
-
-
-
-
-*§ 3-207 City clerk; fees.* ::
-
-
-The city clerk shall collect the following fees:
-
-1. For a copy of any book, account, record or paper other than a marriage record filed in the city clerk's office, one dollar for each photocopy;
-
-2. For a certification of any book, account, record, or paper other than a marriage record filed in the city clerk's office, fifty cents and five cents in addition for each folio in excess of five;
-
-3. For each bond filed in the city clerk's office, twenty-five cents;
-
-4. For filing of all other papers, required by law to be filed in the city clerk's office nine dollars;
-
-5. For a certificate of appointment of a commissioner of deeds, fifty cents;
-
-6. For a certified extract from any marriage record file in the city clerk's office, ten dollars;
-
-7. For any certifications furnished by the city clerk, one dollar for each such certification;
-
-8. For certification of marriage status to be used by applicant in foreign jurisdictions fifteen dollars;
-
-9. In any instance where the personal hand signature of the city clerk or his or her first deputy is requested, ten dollars;
-
-10. For filing an application for correcting a marriage record, pursuant to section twenty of the domestic relations law, forty dollars, which shall include a photostatic copy of the existing marriage record and the issuance of a new amended certificate. Such fee shall not be returned in the event of the application is rejected for insufficiency or other pertinent reason. Upon denial of such application, ten dollars shall be refunded;
-
-11. For solemnization of marriage pursuant to section eleven-a of the domestic relations law, twenty-five dollars;
-
-12. For issuance of a certificate of marriage registration pursuant to section fourteen-a of the domestic relations law, ten dollars.
-
-13. For issuance of a second or subsequent certificate of marriage registration or a photograph, microphotograph or photocopy of the original marriage license pursuant to section fourteen-a of the domestic relations law, ten dollars.
-
-14. For persons registering to perform marriage ceremonies with the clerk of the city of New York pursuant to section 11-b of the domestic relations law, fifteen dollars.
-
-
-
-
-
-
-*§ 3-207.1 Marriage notification.* ::
-
-
-a. The city clerk shall prominently post the following information on the section(s) of the city clerk's website, or any successor website maintained by or on behalf of the city clerk or a successor officer, relating to marriage, domestic partnerships or other similar subjects: (i) a list of all domestic and international jurisdictions that perform same sex marriages; and (ii) the following text: "Lawfully married individuals, including individuals in same sex marriages, are entitled to more New York State rights and benefits than those registered as domestic partners here in New York City. If an individual lawfully enters into a same sex marriage in a jurisdiction outside New York, they are entitled to most of the New York State rights and benefits available to people lawfully married in New York. If you are considering entering into a marriage in one of the jurisdictions listed above, it is recommended that you contact that jurisdiction beforehand in order to learn about any applicable marriage requirements or restrictions."
-
-b. All information required to be made available on the internet pursuant to this local law shall also be prominently displayed and distributed free of charge in hard copy at the marriage bureau in the city clerk's office.
-
-c. The obligations of the city clerk under this section shall be continuing and the city clerk shall make all reasonable efforts to ensure that all information provided pursuant to this section is accurate and current and shall update such information as appropriate.
-
-
-
-
-
-
-*§ 3-208 Local laws; public hearings; publication of notice.* ::
-
-
-The notice prescribed in subdivision five of section twenty of the municipal home rule law shall be published in the City Record and in such daily newspaper or newspapers, published in the city of New York, as shall be selected by the mayor for that purpose.
-
-
-
-
-
-
-*§ 3-209 [Young adult voter registration.]* ::
-
-
-a. Short title. This section shall be known and may be cited as the "Young Adult Voter Registration Act."
-
-b. Registration of voters. Each public or private high school within the city shall make available during the school year to seniors such materials as may be published by the board of elections relating to voter registration and, where appropriate, shall provide applications for registration and enrollment, and may assist in the execution of such applications.
-
-c. Registration of graduating seniors. The department of education of the city of New York shall provide a postage paid board of elections of the city of New York voter registration form to each graduating student who receives a high school diploma, including but not limited to a Regents, local, general equivalency or Individualized Education Program diploma. The department shall deliver such voter registration form to each graduating student at the same time and in the same manner as it delivers diplomas to each such student.
-
-d. Forms to be available at school. The department of education of the city of New York shall ensure that postage paid board of elections voter registration forms are available in the main or central office of each high school under the jurisdiction of the department for students who wish to obtain one. The department shall also ensure that each such high school provides adequate notice to its students of the availability of such forms in its main or central office.
-
-e. Sufficient quantity of forms. The department shall request from the board of elections of the city of New York a sufficient quantity of voter registration forms to meet the requirements of this subdivision.
-
-
-
-
-
-
-*§ 3-209.1 Distribution of library card application materials.* ::
-
-
-a. Definitions. For the purposes of this section, the following terms shall be defined as follows:
-
-   1. "Department" shall mean the department of education.
-
-   2. "Public library systems" shall mean the New York Public Library, the Brooklyn Public Library and the Queens Borough Public Library.
-
-   3. "School" shall mean any public school in the city of New York under the jurisdiction of the department of education that contains any combination of grades from and including pre-kindergarten through grade twelve.
-
-   4. "Participating agencies" shall mean the administration for children's services, the department of homeless services, the department of youth and community development and the human resources administration.
-
-   5. "Young person" shall mean any person under the age of 24.
-
-b. The department and participating agencies, in consultation with the public library systems, shall obtain from the public library systems or develop written or electronic materials containing information regarding each public library system and how students and young persons can obtain a library card. At a minimum, such written or electronic materials shall include: (i) a description of the public library system; (ii) an application for a library card; and (iii) instructions on how to obtain a library card. Such written or electronic materials shall be produced and distributed by the department to each school for distribution to every student of such school upon his or her entry into pre-kindergarten, kindergarten, grade six and grade nine and to every student upon his or her entry into a school as a new student; and obtained or produced and made available by participating agencies for every young person who receives services from such agencies. In addition, the department and participating agencies shall make such materials conspicuously available on their respective websites.
-
-c. The department shall ensure that written or electronic materials developed pursuant to subdivision b of this section are provided to all schools in sufficient quantity to satisfy the requirements of subdivisions b and d of this section.
-
-d. The department shall ensure that such written materials are available in the main or central office in each school for students and parents who wish to obtain such materials.
-
-e. Participating agencies may include instructions in all new or renewed agreements with contractors and subcontractors having regular contact with young persons in the administration of their business to follow the guidelines of subdivision b of this section.
-
-
-
-
-
-
-*§ 3-209.2 Distribution of college-savings plan materials in schools.* ::
-
-
-a. Definitions. For the purposes of this section:
-
-   Department. The term"department" means the department of education.
-
-   School. The term"school" means a public school of the city school district of the city of New York that contains any combination of grades from and including pre-kindergarten through grade twelve.
-
-b.  The department shall develop educational materials regarding college savings plans. At a minimum, such materials shall include the following:
-
-   1. Information regarding college savings programs available to students and their family members including, but not limited to, New York's 529 college savings program;
-
-   2. Information regarding tuition at colleges under the authority of the city university of New York and at colleges under the authority of the state university of New York and financial aid eligibility; and
-
-   3. Information regarding other resources available to parents and students regarding financial planning for post-secondary education, including education at colleges, universities and vocational schools.
-
-c. Such materials shall be produced and distributed by the department to each school for distribution to every student of such school upon his or her entry into pre-kindergarten, kindergarten, grade six and grade nine and to every student upon his or her entry into a school as a new student, and such materials shall be made available in English and in additional languages as determined by the department.
-
-d. The department shall ensure that materials developed pursuant to subdivision b of this section are provided to all schools in sufficient quantity to satisfy the requirements of subdivisions c and e of this section.
-
-e. The department shall ensure that such written materials are available in the main or central office in each school and that such materials are available on the department's website for students and parents who wish to obtain such materials.
-
-
-
-
-
-
-
-
-*§ 3-210 Registration of voters. [Repealed]* ::
-
-
-a. Employees. The council shall require that any applicant or appointee for future employment by the council be fingerprinted as part of the application process. Such fingerprints and physical descriptive data are to be provided for the purpose of securing criminal history records from the state division of criminal justice services. The applicant shall pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require applicants or appointees under this subdivison to be fingerprinted if criminal history records concerning such applicants or appointees are not made available by the state division of criminal justice services.
-
-b. Other Persons. The council may require that any candidate for direct appointment, designation, nomination, recommendation and advice and consent by the council as required by state legislation, the charter or administrative code be fingerprinted as part of the background investigation. Such fingerprints are to be provided for the purposes of securing criminal history records from the state division of criminal justice services. The applicant may pay a processing fee as required by the state division of criminal justice services. Notwithstanding the foregoing, the council need not require candidates under this subdivision to be fingerprinted if criminal history records concerning such candidates are not made available by the state division of criminal justice services.
-
-
-
-
-
-
-
-**Subchapter 2: Regulation of Lobbying**
-
-
-
-*§ 3-211 Definitions.* ::
-
-
-Whenever used in this subchapter, the following words and phrases shall be construed as defined in this section:
-
-(a) The term "lobbyist" shall mean every person or organization retained, employed or designated by any client to engage in lobbying. The term "lobbyist" shall not include any officer or employee of the city of New York, the State of New York, any political subdivision of the State, or any public corporation, agency or commission, or the United States when discharging his or her official duties.
-
-(b) The term "client" shall mean every person or organization who retains, employs or designates any person or organization to carry on lobbying activities on behalf of such client.
-
-(c) (1) The term "lobbying" or "lobbying activities" shall mean any attempt to influence:
-
-      (i) any determination made by the city council or any member thereof with respect to the introduction, passage, defeat, or substance of any local legislation or resolution,
-
-      (ii) any determination made by the mayor to support, oppose, approve, or disapprove any local legislation or resolution, whether or not such legislation or resolution has been introduced in the city council,
-
-      (iii) any determination made by an elected city official or an officer or employee of the city with respect to the procurement of goods, services or construction, including the preparation of contract specifications, or the solicitation, award or administration of a contract, or with respect to the solicitation, award or administration of a grant, loan, or agreement involving the disbursement of public monies,
-
-      (iv) any determination made by the mayor, the city council, the city planning commission, a borough president, a borough board or a community board with respect to zoning or the use, development or improvement of real property subject to city regulation,
-
-      (v) any determination made by an elected city official or an officer or employee of the city with respect to the terms of the acquisition or disposition by the city of any interest in real property, with respect to a license or permit for the use of real property of or by the city, or with respect to a franchise, concession or revocable consent,
-
-      (vi) the proposal, adoption, amendment or rejection by an agency of any rule having the force and effect of law,
-
-      (vii) the decision to hold, timing or outcome of any rate making proceeding before an agency,
-
-      (viii) the agenda or any determination of a board or commission,
-
-      (ix) any determination regarding the calendaring or scope of any city council oversight hearing,
-
-      (x) the issuance, repeal, modification or substance of a mayoral executive order, or
-
-      (xi) any determination made by an elected city official or an officer or employee of the city to support or oppose any state or federal legislation, rule or regulation, including any determination made to support or oppose that is contingent on any amendment of such legislation, rule or regulation, whether or not such legislation has been formally introduced and whether or not such rule or regulation has been formally proposed.
-
-   (2) The definition of the term "lobbying" or "lobbying activities" shall not apply to any determination in an adjudicatory proceeding.
-
-   (3) The following persons and organizations shall be deemed not to be engaged in "lobbying activities":
-
-      (i) persons engaged in advising clients, rendering opinions and drafting, in relation to proposed legislation, resolutions, rules, rates, or other proposed legislative, executive or administrative action, where such persons do not themselves engage in an attempt to influence such action;
-
-      (ii) newspapers and other periodicals and radio and television stations, and owners and employees thereof, provided that their activities are limited to the publication or broadcast of news items, editorials or other comment, or paid advertisements;
-
-      (iii) persons who participate as witnesses, attorneys or other representatives in public rule making or rate making proceedings of an agency, with respect to all participation by such persons which is part of the public record thereof and all preparation by such persons for such participation;
-
-      (iv) persons who appear before an agency in an adjudicatory proceeding;
-
-      (v) persons who prepare or submit a response to a request for information or comments by the city council or one of its committees, the mayor, or other elected city official or an agency;
-
-      (vi) (A) contractors or prospective contractors who communicate with or appear before city contracting officers or employees in the regular course of procurement planning, contract development, the contractor selection process, the administration of a contract, or the audit of a contract, when such communications or appearances are made by such contractors or prospective contractors personally, or through;
-
-            1. such officers and employees of the contractors or prospective contractor who are charged with the performance of functions relating to contracts:
-
-            2. subcontractors or prospective subcontractors who are or will be engaged in the delivery of goods, services or construction pursuant to the contract of such officers and employees of the subcontractor or prospective subcontractor who are charged with the performance of functions relating to contracts; or
-
-            3. persons who provide technical or professional services, as defined in clause (B) of this subparagraph, on behalf of such contractor, prospective contractor, subcontractor or prospective subcontractor.
-
-         (B) For the purposes of clause (A) of this subparagraph:
-
-            1. "technical services" shall be limited to advice and analysis directly applying any engineering, scientific, or other similar technical discipline;
-
-            2. "professional services" shall be limited to advice and analysis directly applying any legal, accounting or other similar professional discipline in connection with the following elements of the procurement process only: dispute resolution, vendor protests, responsiveness and responsibility determinations, determinations of prequalification, suspensions, debarments, objections to registration pursuant to section 328 of the charter, contract interpretation, negotiation of contract terms after the award of a contract, defaults, the termination of contracts and audit of contracts. Any person who provides professional services pursuant to this subparagraph in connection with elements of the procurement process not specified above in this item, whether prior to, in connection with or after the award of a contract, shall be deemed to be engaged in lobbying activities, unless such person is deemed not to be engaged in lobbying activities under another provision of this paragraph; and
-
-            3. "city contracting officers or employees" shall not include elected officials or deputies of elected officials or any person not duly authorized to enter into and administer contracts and make determinations with respect thereto;
-
-      (vii) persons or organizations who advertise the availability of goods or services with fliers, leaflets or other advertising circulars;
-
-      (viii) architects and engineers who communicate with or appear before a community board with respect to any action of such board, provided that the proceeding before the final decision-making board or commission to which the action relates is an adjudicatory proceeding;
-
-      (ix) architects and engineers who perform design work and draft plans pursuant to their state-issued professional license, or persons who work under the direct supervision of an architect or engineer who holds such a license, even if such work is preceded or followed by lobbying or lobbying activity as defined in paragraph one of this subdivision;
-
-      (x) (A) architects and engineers who communicate with or appear before boards or commissions with respect to:
-
-            1. an authorization by the city planning commission pursuant to the zoning resolution designated as minor by the city clerk; or
-
-            2. a decision related to real property by any other board or commission designated as minor by the city clerk.
-
-         (B) For the purposes of clause (A) of this subparagraph, the city clerk shall promulgate rules designating authorizations and decisions as "minor" based on the following factors:
-
-            1. the size and cost of the relevant project;
-
-            2. the size, class, and/or value of the property to which the relevant project relates; and
-
-            3. the size of the architecture or engineering firm typically involved in the type of project at issue.
-
-         (C) For the purposes of this subparagraph, "class" shall mean any of the classes of property defined in section 1802 of the real property tax law; and
-
-      (xi) architects and engineers, or their designees, who perform work, including communications with and appearances before boards or commissions, on capital projects under the direction of a city agency, provided that such work is performed pursuant to a contract, or subcontract of such contract, between such architects or engineers and the city agency directing such capital project.
-
-(d) The term "organization" shall include any corporation, company, foundation, association, labor organization, firm, partnership, society, or joint stock company.
-
-(e) The term "compensation" shall mean any salary, fee, gift, payment, subscription, loan, advance or any other thing of value paid, owed, given or promised by the client to the lobbyist for the purpose of lobbying.
-
-(f) The terms "expenditure" or "expense" shall mean any expenditures or expenses, respectively, incurred by or reimbursed to the lobbyist for lobbying.
-
-(g) The term "public servant" shall mean a public servant as defined in subdivision nineteen of section two thousand six hundred one of the charter.
-
-(h) The term "fundraising activities" shall mean solicitation or collection of contributions for a candidate for nomination for election, or election, to the office of mayor, public advocate, comptroller, borough president or member of the city council, or for the political committee of any such candidate by a lobbyist, or the solicitation or collection of contributions for any public servant who is a candidate for nomination for election, or election, to any elective office, or for the political committee of any such candidate by a lobbyist. For purposes of this subchapter, the term "contribution" shall have the meaning set forth in subdivision eight of section 3-702 of the administrative code, and the term "political committee" shall have the meaning set forth in subdivision eleven of such section. The term "lobbyist" shall mean a lobbyist as defined in subdivision (a) of this section and the spouse or domestic partner and unemancipated children of the lobbyist, and if the lobbyist is an organization, the term "lobbyist" shall mean only that division of the organization that engages in lobbying activities and any officer or employee of such lobbyist who engages in lobbying activities of the organization or is employed in an organization's division that engages in lobbying activities of the organization and the spouse or domestic partner and unemancipated children of such officers or employees.
-
-(i) The term "political consulting activities" shall mean the activities of a lobbyist who for compensation by or on behalf of the candidate or elected official, as applicable, (i) participates in the campaign of any candidate for nomination for election, or election, to the office of mayor, public advocate, comptroller, borough president or member of the city council by providing political advice, or (ii) participates in the campaign of any public servant who is a candidate for nomination for election, or election, to any elective office by providing political advice, or (iii) provides political advice to the mayor, public advocate, comptroller, borough president or member of the city council.
-
-(j) The terms "architect" or "architecture firm" shall include landscape architects and landscape architecture firms, respectively.
-
-
-
-
-
-
-*§ 3-212 Powers and duties of the city clerk.* ::
-
-
-(a) In addition to any other powers and duties specified by law, the city clerk shall have the power and duty to administer and enforce all the provisions of this subchapter, subpoena witnesses and records, issue advisory opinions to those under its jurisdiction, conduct any investigation and audits necessary to carry out the provisions of this subchapter, prepare uniform forms for the statements and reports required by this subchapter and promulgate such rules as he or she deems necessary for the proper administration of this subchapter.
-
-(b) In addition to any audits required to enforce the provisions of this subchapter, the city clerk shall conduct random audits of the statements and reports required to be filed by lobbyists and clients pursuant to this subchapter. The city clerk shall select statements and reports for random audit in a manner pursuant to which the identity of any particular lobbyist or client whose statements or reports are selected for audit is unknown to the city clerk. In conducting such random audits, the city clerk shall require the production of such witnesses and records as may have been relevant to the preparation of the statements or reports audited.
-
-(c) The city clerk shall prepare and post on the internet an annual report relating to the administration and enforcement of the provisions of this subchapter. Such report shall contain information regarding (i) the number of complaints received from the public and the disposition of such complaints; (ii) the number and amount of civil penalties imposed pursuant to subdivisions (a), (b), (c) and (d) of section 3-223 of this subchapter; (iii) the number and duration of orders issued pursuant to subdivision (a) of section 3-223 of this subchapter; (iv) the number of random audits conducted by the city clerk and outcomes thereof; (v) compliance programs developed and implemented for lobbyists and clients; (vi) the types and number of requests for assistance related to the lobbying law received by the city clerk, and, as soon as practicable, the average response and resolution times of such requests; (vii) the number of lobbyists filing statements of registration pursuant to section 3-213 of this subchapter for the first time; (viii) the subject matter of lobbying activity most frequently reported by lobbyists; (ix) the lobbying targets most frequently reported by lobbyists; (x) the lobbyists that received the highest compensation; and (xi) such other information and analysis as the city clerk deems appropriate. Such report shall be posted on the internet no later than March first of each year and shall contain information relating to the preceding calendar year.
-
-(d) The city clerk shall, as soon as practicable after the issuance of an order pursuant to subdivision (a) of section 3-223 of this subchapter or imposition of a civil penalty pursuant to subdivision (a), (b), (c) or (d) of section 3-223 of this subchapter, post on the internet information identifying the lobbyist or client who committed the violation that resulted in the issuance of such order or imposition of such penalty, the provision of law violated, the duration of such order or the amount of such penalty.
-
-(e) (1) The city clerk shall develop a protocol to review sources of information that may assist the city clerk in identifying lobbyists required to file statements of registration pursuant to section 3-213 of this subchapter who have not filed. Such review shall include, but need not be limited to, the following sources:
-
-      (i) statements of registration filed with the state joint commission on public ethics pursuant to section 1-e of the legislative law that contain information indicating that the lobbyist expects to engage in "lobbying" or "lobbying activities" as defined in paragraph one of subdivision c of section 3-211 of this subchapter;
-
-      (ii) notices of appearances compiled by city agencies, including, but not limited to, the landmarks preservation commission and the city planning commission, identifying the representative of an applicant; and
-
-      (iii) the "doing business database" as defined in subdivision twenty of section 3-702 of the code.
-
-   (2) The city clerk shall work with city agencies and the city council to develop notices and advertisements to be placed in print and electronic media intended to reach persons and organizations doing business with the city that will inform them of the requirements set forth in this subchapter.
-
-(f) The city clerk shall develop an online training program for lobbyists. Such program shall include information and training regarding conduct that may subject lobbyists and clients to the criminal and civil penalties set forth in this subchapter. As soon as practicable, the city clerk, in conjunction with the department of investigation, shall incorporate an anti-corruption component in such training.
-
-(g) Between thirty-six and forty-eight months after the effective date of the section of the local law that amended this subdivision, the mayor and the city council shall jointly appoint a commission to review and evaluate the activities and performance of the city clerk in implementing the provisions of this subchapter. Within six months of such appointment the commission shall report to the mayor and city council on its review and evaluation which report shall include any administrative and legislative recommendations on improving the administration and enforcement of this subchapter. The commission shall be comprised of five members and the mayor and the city council shall jointly designate a chair from among the members.
-
-
-
-
-
-
-*§ 3-213 Statement of registration.* ::
-
-
-(a) (1) Every lobbyist shall annually file with the city clerk, on forms prescribed by the city clerk, a statement of registration for each calendar year, provided, however, that the filing of such statement of registration shall not be required of any lobbyist who in any year does not earn or incur an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, of combined reportable compensation and expenses, as provided in paragraph five of subdivision (b) of section 3-216 of this subchapter, for the purposes of lobbying.
-
-   (2) Such filing shall be completed on or before January fifteenth by those persons who have been retained, employed or designated as lobbyists on or before December thirty-first of the previous calendar year who reasonably anticipate that in the coming year they will earn or incur combined reportable compensation and expenses in an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars. For those lobbyists retained, employed or designated after December thirty-first, and for those lobbyists who, subsequent to their retainer, employment or designation, reasonably anticipate combined reportable compensation and expenses in excess of such amount, such filing must be completed within fifteen days thereafter.
-
-   (3) Before a lobbyist files a statement of registration pursuant to paragraph one of this subdivision, the lobbyist and its client shall enroll in the electronic filing system.
-
-(b) Such statements of registration shall be kept in electronic form in the office of the city clerk and shall be available for public inspection.
-
-(c) Such statement of registration shall contain:
-
-   (1) the name, home and business addresses and business telephone number of the lobbyist and the name and home and business addresses of the spouse or domestic partner of the lobbyist, and if the lobbyist is an organization the name, home and business addresses and business telephone number of any officer or employee of such lobbyist who engages in any lobbying activities or who is employed in an organization's division that engages in lobbying activities of the organization and the name and home and business addresses of the spouse or domestic partner of such officers or employees, provided that, notwithstanding any provision of this subchapter to the contrary, the home address of the lobbyist, including, if the lobbyist is an organization, the home address of any officer or employee of such lobbyist who engages in any lobbying activities or who is employed in an organization's division that engages in lobbying activities of the organization, and the names and home and business addresses of spouses and domestic partners of such lobbyists, officers and employees, whether contained in an original or amended statement of registration, shall not be made available to the public, but may be accessed by the campaign finance board for the sole purpose of determining whether a campaign contribution is matchable pursuant to section 3-702 of the New York City campaign finance act; provided, however, that notwithstanding any other provision of law, in making information on campaign contributions publicly available, the campaign finance board shall not disclose that any specific contributor is the spouse, domestic partner or unemancipated child of such a lobbyist, officer or employee;
-
-   (2) the name, address and telephone number of the client by whom or on whose behalf the lobbyist is retained, employed or designated;
-
-   (3) if such lobbyist is retained or employed pursuant to a written agreement of retainer or employment, a copy of such shall also be attached and if such retainer or employment is oral, a statement of the substance thereof;
-
-   (4) a written authorization from the client by whom the lobbyist is authorized to lobby, unless such lobbyist has filed a written agreement of retainer or employment pursuant to paragraph three of this subdivision;
-
-   (5) a description of the subject or subjects on which the lobbyist is lobbying or expects to lobby, including information sufficient to identify the local law or resolution, procurement, real property, rule, rate making proceeding, determination of a board or commission, or other matter on which the lobbyist is lobbying or expects to lobby;
-
-   (6) the names of the persons and agencies before which the lobbyist has lobbied or expects to lobby;
-
-   (7) if the lobbyist has a financial interest in the client, direct or indirect, information as to the extent of such interest and the date on which it was acquired; and
-
-   (8) if the lobbyist is retained, employed or designated by more than one client, a separate statement of registration shall be required for each such client.
-
-(d) (1) Whenever there is a change in the information filed by the lobbyist in the statement of registration, other than a change to information submitted pursuant to paragraphs five and six of subdivision (c) of this section, an amended statement shall be submitted to the city clerk on forms prescribed by the city clerk within ten days after such change occurs, except as provided in paragraph two of this subdivision.
-
-   (2) Whenever a contribution, as defined in subdivision eight of section 3-702 of the New York City campaign finance act, is made by the unemancipated child of a lobbyist or by the unemancipated child of the spouse or domestic partner of a lobbyist or, if the lobbyist is an organization, by the unemancipated child of any officer or employee of such lobbyist who engages in lobbying activities or who is employed in an organization's division that engages in lobbying activities of the organization or by the unemancipated child of the spouse or domestic partner of any such officer or employee, in the calendar year for which a statement of registration is filed, the lobbyist shall file an amended statement of registration within forty-eight hours of the making of such contribution. Such amended statement of registration shall contain the name and the home address of such unemancipated child and the home and business addresses of the unemancipated child's parent, if such parent's home and business addresses were reported pursuant to paragraph one of subdivision (c) of this section. Such amendment shall not require the lobbyist to amend the entire registration form. If such contribution was made in the calendar year for which a statement of registration is filed, but before the filing of such statement of registration, then the original statement of registration shall contain the name and the home address of such unemancipated child and the home and business addresses of the unemancipated child's parent, if such parent's home and business addresses were reported pursuant to paragraph one of subdivision (c) of this section. Notwithstanding any provision of this chapter to the contrary, the names and addresses of unemancipated children shall not be made available to the public, but may be accessed by the campaign finance board for the sole purpose of determining whether a campaign contribution is matchable pursuant to such section 3-702; provided, however, that notwithstanding any other provision of law, in making information on campaign contributions publicly available, the campaign finance board shall not disclose that any specific contributor is the spouse, domestic partner or unemancipated child of such a lobbyist, officer or employee. For purposes of this paragraph, the term "unemancipated child" shall mean any son, daughter, stepson or stepdaughter who is under age eighteen, unmarried and living in the household of such lobbyist or spouse or domestic partner of such lobbyist or, if such lobbyist is an organization, living in the household of such officer or employee or spouse or domestic partner of such officer or employee.
-
-(e) Each statement of registration filed annually by each lobbyist shall be accompanied by a registration fee of one hundred fifty dollars. An additional fee may be imposed not to exceed fifty dollars for each client in excess of one identified on such statement.
-
-(f) In the event of the retention, employment or designation of an organization wherein more than one member of the organization will be engaging in lobbying activities on behalf of a client, one statement of registration shall be filed by the organization with a listing of all such persons.
-
-(g) If the city clerk grants an extension allowing a lobbyist to file a statement of registration later than the deadline contained in paragraph two of subdivision (a) of this section, the city clerk shall forward notice of such extension no later than the end of the following business day to the mayor's office of contract services for inclusion in the "doing business database" as defined in subdivision twenty of section 3-702 of the code.
-
-
-
-
-
-
-*§ 3-214 Monthly registration docket. [Repealed]* ::
-
-
-Upon the termination of a lobbyist's retainer, employment or designation, such lobbyist and the client on whose behalf such service has been rendered shall both give notice to the city clerk in the electronic filing system within thirty days after the lobbyist ceases the activity that required such lobbyist to file a statement of registration; however, such lobbyist shall nevertheless comply with the reporting requirements of section 3-216.1 of this subchapter and the reporting requirements for the last periodic reporting period up to the date such activity has ceased as required by this subchapter and both such parties shall each file the annual report required by section 3-217 of this subchapter.
-
-
-
-
-
-
-*§ 3-216 Periodic reports.* ::
-
-
-(a) (1) Any lobbyist, except a lobbyist described in paragraph two of this subdivision, required to file a statement of registration pursuant to section 3-213 of this subchapter who in any lobbying year earns or incurs combined reportable compensation and expenses in an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, as provided in paragraph five of subdivision (b) of this section, for the purpose of lobbying, shall file with the city clerk periodic reports, on forms prescribed by the city clerk, by the fifteenth day next succeeding the end of the reporting period on which the cumulative total for such lobbying year equaled such sum. Such reporting periods shall be the period from January first through the last day of February, March first through April thirtieth, May first through June thirtieth, July first through August thirty-first, September first through October thirty-first, and November first through December thirty-first.
-
-   (2) Any lobbyist that is an organization required to file a statement of registration pursuant to section 3-213 of this subchapter that lobbies solely on its own behalf by utilizing the services of its employees and that, in any lobbying year, earns or incurs combined reportable compensation and expenses in an amount in excess of five thousand dollars, but equal to or less than ten thousand dollars, as provided in paragraph five of subdivision (b) of this section, for the purpose of lobbying, shall file with the city clerk periodic reports, on forms prescribed by the city clerk, by the fifteenth day next succeeding the end of the reporting period on which the cumulative total for such lobbying year equaled such sum. Such reporting periods shall be the period from January first to June thirtieth, and July first to December thirty-first.
-
-   (3) Any lobbyist making a report pursuant to paragraph one or two of this subdivision shall thereafter file with the city clerk, on forms prescribed by the city clerk, a periodic report for each reporting period that such person earns or incurs combined reportable compensation and expenses in an amount in excess of one thousand dollars for the purposes of lobbying during such reporting period. Such report shall be filed not later than the fifteenth day next succeeding the end of such reporting period and shall include the amounts so earned or incurred during such reporting period and the cumulative total during the lobbying year.
-
-(b) Such periodic report shall contain:
-
-   (1) the name, address and telephone number of the lobbyist;
-
-   (2) the name, address and telephone number of the client by whom or on whose behalf the lobbyist is retained, employed or designated;
-
-   (3) a description of the subject or subjects on which the lobbyist has lobbied, including information sufficient to identify the local law or resolution, procurement, real property, rule, rate making proceeding, determination of a board or commission, or other matter on which the lobbyist has lobbied;
-
-   (4) the names of the persons and agencies before which the lobbyist has lobbied;
-
-   (5) (i) the compensation paid or owed to the lobbyist, and any expenses incurred by the lobbyist for the purpose of lobbying.
-
-      (ii) expenses required to be reported pursuant to subparagraph (i) of this paragraph shall be listed in the aggregate if seventy-five dollars or less and if more than seventy-five dollars such expenses shall be detailed as to amount, to whom paid, and for what purpose; and where such expense is more than seventy-five dollars on behalf of any one person, the name of such person shall be listed.
-
-      (iii) for the purpose of this paragraph, expenses shall not include:
-
-         (A) personal sustenance, lodging and travel disbursements of such lobbyist;
-
-         (B) expenses, not in excess of five hundred dollars in any one calendar year, directly incurred for the printing or other means of reproduction or mailing of letters, memoranda or other written communications.
-
-      (iv) expenses paid or incurred for salaries other than that of the lobbyist shall be listed in the aggregate.
-
-      (v) expenses of more than fifty dollars shall be paid by check or substantiated by receipts.
-
-      (vi) the expenses reimbursed by the client.
-
-(c) Notwithstanding any inconsistent provision of this section, where a lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter is not required to file a periodic report pursuant to subdivision (a) or (b) of this section because such lobbyist has not earned or incurred compensation and expenses as therein specified, such lobbyist shall file a periodic report stating that such lobbyist has not earned or incurred such compensation and expenses by the fifteenth day next succeeding the end of the reporting period.
-
-(d) Whenever there is a change in the information filed by a lobbyist in a report filed pursuant to this section, an amended report shall be submitted to the city clerk on forms prescribed by the city clerk.
-
-(e) If the city clerk grants an extension allowing a lobbyist to file a periodic report later than the deadline contained in paragraph one or two of subdivision (a) of this section, as applicable, the city clerk shall forward notice of such extension no later than the end of the following business day to the mayor's office of contract services for inclusion in the "doing business database" as defined in subdivision twenty of section 3-702 of the code.
-
-(e) (1) All such periodic reports shall be subject to review by the city clerk.
-
-   (2) Such periodic reports shall be kept in electronic form in the office of the city clerk and shall be available for public inspection.
-
-
-
-
-
-
-*§ 3-216.1 Fundraising and political consulting reports.* ::
-
-
-(a) Any lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter who in any calendar year to which the statement of registration relates, or in the six months preceding such calendar year, engages in fundraising or political consulting activities shall file with the city clerk, on forms prescribed by the city clerk, a fundraising and/or political consulting report. Such report shall be filed in accordance with the schedule applicable to the filing of periodic reports, provided that the first fundraising and/or political consulting report filed in any calendar year shall include information on fundraising and/or political consulting activities that occurred in any period beginning six months preceding the calendar year to which the statement of registration relates through the end of the reporting period for which the report is filed, to the extent such information has not been reported in a fundraising and/or political consulting report filed in the preceding calendar year. Each subsequent fundraising and/or political consulting report filed in or with respect to the calendar year to which the statement of registration relates shall include information on fundraising and/or political consulting activities that occurred since the end of the reporting period for which the previous report was filed through the end of the reporting period for which the current report is filed. Such activities shall be reported whether they are conducted directly by the lobbyist, or through any other entity of which such lobbyist is a principal. Such fundraising and/or political consulting reports shall be filed not later than the fifteenth day next succeeding the end of such reporting period.
-
-(b) Such fundraising and/or political consulting report shall contain:
-
-   (1) the name, address and telephone number of the lobbyist and the individuals employed by the lobbyist engaged in such fundraising and/or political consulting activities;
-
-   (2) the name, address and telephone number of the candidate, public servant, or elected official to whom or on whose behalf the lobbyist provided fundraising and/or political consulting services;
-
-   (3) (i) the compensation paid or owed to the lobbyist and any expenses incurred by the lobbyist for such fundraising and/or political consulting activities;
-
-      (ii) a list of all persons or entities with whom the lobbyist contracted for the purpose of providing fundraising and/or political consulting services;
-
-   (4) in the case of fundraising activities, the total dollar amount raised for each candidate for which such activities were performed.
-
-(c) All such fundraising and/or political consulting reports shall be subject to review by the city clerk.
-
-(d) Whenever there is a change in the information filed by a lobbyist in a report filed pursuant to this section, an amended report shall be submitted to the city clerk on forms prescribed by the city clerk.
-
-(e) Such fundraising and/or political consulting reports shall be kept in electronic form in the office of the city clerk and shall be available for public inspection.
-
-
-
-
-
-
-*§ 3-217 Annual reports.* ::
-
-
-(a) Annual reports shall be filed by:
-
-   (1) every lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter;
-
-   (2) any client retaining, employing or designating a lobbyist or lobbyists, if during the year such client owed an amount in excess of five thousand dollars or, if the lobbyist is an architect or engineer, or an architecture or engineering firm, ten thousand dollars, of combined reportable compensation and expenses, as provided in paragraph five of subdivision (c) of this section, for the purposes of lobbying.
-
-(b) Such report pursuant to paragraph one of subdivision (a) of this section shall be filed with the city clerk, on forms prescribed by the city clerk, by the fifteenth day of January next following the year for which such report is made and shall contain on an annual cumulative basis all the information required in periodic reports by section 3-216 of this subchapter and all the information required in fundraising and/or political consulting reports by section 3-216.1 of this subchapter;
-
-(c) Such report pursuant to paragraph two of subdivision (a) of this section shall be filed with the city clerk on forms prescribed by the city clerk by the fifteenth day of January next following the year for which such report is made and shall contain:
-
-   (1) the name, address and telephone number of the client;
-
-   (2) the name, address and telephone number of each lobbyist retained, employed or designated by such client;
-
-   (3) a description of the subject or subjects on which each lobbyist retained, employed or designated by such client has lobbied, including information sufficient to identify the local law or resolution, procurement, real property, rule, rate making proceeding, determination of a board or commission, or other matter on which each lobbyist retained, employed or designated by such client has lobbied;
-
-   (4) the names of the persons and agencies before which such lobbyist has lobbied;
-
-   (5) (i) the compensation earned by each such lobbyist, and any other expenses paid or incurred by such client for the purpose of lobbying.
-
-      (ii) any expenses required to be reported pursuant to subparagraph (i) of this paragraph shall be listed in the aggregate if seventy-five dollars or less and if more than seventy-five dollars such expenses shall be detailed as to amount, to whom paid, and for what purpose; and where such expenses are more than seventy-five dollars on behalf of any one person, the name of such person shall be listed.
-
-      (iii) for the purposes of this paragraph, expenses shall not include:
-
-         (A) personal sustenance, lodging and travel disbursements of such lobbyist and client;
-
-         (B) expenses, not in excess of five hundred dollars, directly incurred for the printing or other means of reproduction or mailing of letters, memoranda or other written communications.
-
-      (iv) expenses paid or incurred for salaries other than that of the lobbyist shall be listed in the aggregate.
-
-      (v) expenses of more than fifty dollars must be paid by check or substantiated by receipts.
-
-(d) (1) All such annual reports shall be subject to review by the city clerk.
-
-   (2) Such annual reports shall be kept in electronic form in the office of the city clerk and shall be available for public inspection.
-
-
-
-
-
-
-*§ 3-218 Contingent retainer.* ::
-
-
-No client shall retain or employ any lobbyist for compensation, the rate or amount of which compensation in whole or part is contingent or dependent upon legislative, executive or administrative action where efforts by a lobbyist to influence such action are subject to the jurisdiction of the city clerk, and no person shall accept such a retainer or employment.
-
-
-
-
-
-
-*§ 3-219 Obligations of lobbyists.* ::
-
-
-Any person who is required to file a statement of registration under this subchapter has the following obligations:
-
-a. To abstain from doing any act, with the express purpose and intent of placing a member of the city council, the mayor or any officer or employee charged by law with making a decision on a matter pending or proposed, under personal obligation to him or her or to his or her employer.
-
-b. Never to knowingly deceive or attempt to deceive a member of the city council, the mayor or any officer or employee charged by law with making a decision on a local law, resolution or matter pending or proposed, as to any material fact pertinent to any pending or proposed local law, resolution or matter.
-
-c. Never to cause or influence the introduction of any local law or resolution at the city council for the purpose of thereafter being employed to secure its granting, denial, confirmation, rejection, passage or defeat.
-
-d. To abstain from any attempt to create a fictitious appearance of public favor or disfavor of any proposed local law or resolution before the city council or to cause any communication to be sent to a member of the city council, or the mayor, or any officer or employee charged by law with making a decision on a matter pending or proposed, in the name of any fictitious person or in the name of any real person, except with the consent of such real person.
-
-e. Not to represent, either directly or indirectly through word of mouth or otherwise, that he or she can control or obtain the vote or action of the mayor, any member of the city council, or any employee or officer of the city charged by law with making a decision on a matter pending or proposed, or the approval or disapproval of an local law or resolution by the mayor of the city of New York.
-
-f. Not to represent or solicit representation of, an interest adverse to such person's employer nor to represent employers whose interests are known to such person to be adverse.
-
-g. To retain all books, papers and documents necessary to substantiate the financial reports required to be made under this subchapter for a period of five years.
-
-h. To complete a training program on the requirements of this subchapter, developed by the city clerk, as follows:
-
-   (1) Each lobbyist required to file a statement of registration pursuant to section 3-213 of this subchapter that (i) lists five or more officers or employees who engage in lobbying activities or who are employed in the division that engages in lobbying activities and (ii) identifies thirty or more clients on whose behalf such organization has been retained shall designate two officers or employees to complete the training program biennially. At least one such officer or employee shall have engaged in lobbying activities in the year prior to such training.
-
-   (2) All other lobbyists required to file a statement of registration pursuant to section 3-213 of this subchapter shall designate at least one officer or employee to complete the training program biennially.
-
-   (3) Any lobbyist filing a statement of registration pursuant to section 3-213 of this subchapter for the first time shall designate at least one officer or employee who shall register for such training program within fifteen days of the lobbyist's commencement of lobbying.
-
-
-
-
-
-
-*§ 3-220 Retention of records.* ::
-
-
-Every person to whom this subchapter is applicable shall keep for at least five years a detailed and exact account of:
-
-(a) all compensation of any amount or value whatsoever;
-
-(b) the name and address of every person paying or promising to pay compensation of fifty dollars or more and the date thereof;
-
-(c) all expenditures made by or on behalf of the client; and
-
-(d) the name and address of every person to whom any item of expenditure exceeding fifty dollars is made, the date thereof and receipted bill for such expenditure.
-
-
-
-
-
-
-*§ 3-221 Filing of statements and reports.* ::
-
-
-(a) Any statement or report required by this subchapter shall be filed by electronic transmission in a standard format as required by the city clerk. Statements, reports and any other information required to be kept on file in the office of the city clerk for public inspection pursuant to this subchapter shall be kept in a computerized database and shall be posted on the internet as soon as practicable.
-
-(b) The computerized database maintained pursuant to subdivision (a) of this section shall be searchable by, at a minimum, lobbyist name, client name, person or agency before which lobbying activities took place, and the local law number with year, bill number, resolution number, rule number, or other information sufficient to identify the matter on which lobbying has occurred.
-
-
-
-
-
-
-*§ 3-222 Certification.* ::
-
-
-All statements and reports required under this subchapter shall contain the following declaration: "I certify that all statements made on this statement are true and correct to the best of my knowledge and belief and I understand that the willful making of any false statement of material fact herein will subject me to the provisions of law relevant to the making and filing of false instruments and will render such statement null and void."
-
-
-
-
-
-
-*§ 3-223 Penalties.* ::
-
-
-(a) Except as provided for in subdivision (b) of this section, any person or organization who knowingly and willfully violates any provision of this subchapter shall be guilty of a class A misdemeanor. In addition to such criminal penalties, such person or organization shall be subject to a civil penalty, in an amount not to exceed thirty thousand dollars, to be assessed by the city clerk, or an order to cease all lobbying activities subject to the jurisdiction of the city clerk for a period of time as determined by such clerk not to exceed sixty days, or both such civil penalty and order.
-
-(b) Any person or organization who violates a cease and desist order of the city clerk issued under subdivision a of this section or enters into a contingency agreement or accepts or pays any contingency fees as proscribed in section 3-218 of this subchapter, shall be guilty of a class A misdemeanor. In addition to such criminal penalties, said person or organization shall be subject to a civil penalty, in an amount not to exceed thirty thousand dollars, to be assessed by the city clerk.
-
-(c) (1) Following a failure to make and file any statement or report required by this subchapter, the city clerk shall notify the person or organization of such fact by certified mail that such filing must be made within fourteen business days of the date of mailing of such notice. The failure to file any statement or report within such time shall constitute a class A misdemeanor. In addition to such criminal penalties, such person or organization shall be subject to a civil penalty, in an amount not to exceed twenty thousand dollars, to be assessed by the city clerk. For the purposes of this subdivision, the chief administrative officer of any organization required to file a statement or report shall be the person responsible for making and filing such statement or report unless some other person prior to the due date thereof has been duly designated to make and file such statement or report.
-
-   (2) Any lobbyist or client who has never previously filed a statement of registration or any other report required by this subchapter shall be charged a late filing penalty of ten dollars for each day a required statement or report is late. If more than one statement or report is late, the total late filing penalty shall be equal to the sum of ten dollars per day multiplied by the number of such late statements or reports. Any other lobbyist or client shall be charged a late filing penalty of twenty-five dollars for each day a required statement or report is late. If more than one statement or report is late, the total late filing penalty shall be equal to the sum of twenty-five dollars per day multiplied by the number of such late statements or reports. Late filing penalties may be waived or reduced at the discretion of the city clerk. A lobbyist or client seeking a waiver or reduction of late filing penalties shall submit documentation as required by the city clerk. A decision to grant such a waiver or reduction shall be made in writing by the city clerk. The city clerk shall take the following factors into account in determining whether a waiver or reduction is appropriate:
-
-      (i) whether and how often the lobbyist or client has filed late in the past;
-
-      (ii) the annual operating budget of the lobbyist or client;
-
-      (iii) whether the lobbyist lobbies solely on its own behalf;
-
-      (iv) for periodic reports, the number of lobbying matters, number of hours spent working on those matters, and amount of compensation and expenditures that were not reported during the relevant period; and
-
-      (v) the significance of the impediments to timely filing faced by the lobbyist or client.
-
-(d) Any person or organization who violates any provision of this subchapter not punishable under subdivisions (a), (b) or (c) of this section shall be subject to a civil penalty, in an amount not to exceed twenty thousand dollars, to be assessed by the city clerk.
-
-(e) Any civil penalty to be assessed under subdivision (d) of this section, or any order issued under subdivision (a) of this section, may only be imposed or issued after written notice of violation and the expiration of fourteen business days from the date of mailing of such notice. If such violation is cured within such fourteen-day period, then such civil penalty or order shall not be imposed or issued.
-
-(f) The amount of any assessment made or duration of order issued pursuant to this section shall be determined only after a hearing at which the party shall be entitled to appear and be heard. Any assessment imposed under this section may be recovered in an action brought by the corporation counsel.
-
-(g) The city clerk shall be charged with the duty of reviewing all statements and reports required under this subchapter for violations, and it shall be his duty, if he deems such to be willful, to report such determination to the department of investigation. Where the city clerk receives a report or otherwise suspects that a criminal violation of law, other than a violation of this subchapter, has been or may have been committed, the city clerk shall report any information relating thereto to the department of investigation.
-
-(h) The department of investigation shall provide assistance to the city clerk for the purpose of training personnel who are responsible for the administration and enforcement of the provisions of this subchapter. The city clerk shall develop compliance programs for lobbyists and clients.
-
-(i) (1) The city clerk shall by rule establish an amnesty program for any lobbyist who was required to have filed, but has never filed, a statement of registration pursuant to section 3-213 of this subchapter, or any client who was required to have filed, but has never filed, an annual report pursuant to section 3-217 of this subchapter, at any time on or after December tenth, two thousand six.
-
-   (2) Any lobbyist or client intending to participate in the amnesty program may file a written notice of intent to participate with the city clerk on forms prescribed by the city clerk, stating his, her or its intention to participate in such program, at any time prior to the effective date of the amnesty program. The city clerk shall not assess any late filing penalties or any civil penalties authorized by this section that could be assessed against any such lobbyist or client for the period from December tenth, two thousand six to the date of the filing of such notice. Any lobbyist or client filing a notice pursuant to this paragraph shall comply with all applicable provisions of this subchapter beginning on the day of such filing.
-
-   (3) Any lobbyist or client intending to participate in the amnesty program, including any lobbyist or client who has filed a notice pursuant to paragraph two of this subdivision, shall file a written application on forms prescribed by the city clerk on or after the effective date of the amnesty program, but prior to the expiration of such program. Such application shall include a summary, which shall meet the requirements of the city clerk, of the lobbying activities, fundraising activities or political consulting activities performed by such lobbyist or received by such client from one year prior to the effective date of the amnesty program until the date of such application or valid filing pursuant to paragraph two of this subdivision. Such amnesty program shall provide that upon the filing of such application and upon compliance with all applicable provisions of this subchapter, the city clerk shall waive any late filing penalties and any civil penalties authorized by this section that could be assessed against any such lobbyist or client for the period from December tenth, two thousand six to the date of the filing of such application or, if the lobbyist or client made a valid filing pursuant to paragraph two of this subdivision, to the date of such filing. In addition, any such lobbyist or client shall not be subject to any criminal penalties authorized by this section for the period from December tenth, two thousand six to the date of the filing of such application or, if the lobbyist or client made a valid filing pursuant to paragraph two of this subdivision, to the date of such filing.
-
-   (4) The term of the amnesty program established pursuant to this subdivision by rule of the city clerk shall not exceed six months, after which no application for amnesty shall be accepted. Prior to the commencement of, and during the term of, the amnesty program, the city clerk shall publicize the amnesty program so as to maximize public awareness of and participation in such program. The city clerk shall consult with city agencies and the city council to develop notices and advertisements to be placed in print and electronic media that are intended to reach persons and organizations doing business with the city.
-
-   (5) Notwithstanding any provision of this subdivision to the contrary, any lobbyist or client who is the subject of any criminal investigation relating to any violation of this subchapter and any lobbyist or client who is a party to any criminal litigation in any court of this state or the United States relating to any violation of this subchapter shall be ineligible to file the notice pursuant to paragraph two of this subdivision or the application pursuant to paragraph three of this subdivision or to otherwise receive relief from late filing penalties, or civil or criminal penalties under the amnesty program established pursuant to this subdivision.
-
-   (6) The city clerk shall promulgate such rules, issue forms and instructions, and take any and all other actions necessary to implement the provisions of this subdivision.
-
-
-
-
-
-
-
-**Subchapter 3: Prohibition of Gifts By Lobbyists**
-
-
-
-*§ 3-224 Definitions.* ::
-
-
-Whenever used in this subchapter, the term "public servant" shall mean a public servant as defined in subdivision nineteen of section two thousand six hundred one of the charter.
-
-
-
-
-
-
-*§ 3-225 Prohibition of gifts.* ::
-
-
-No person required to be listed on a statement of registration pursuant to section 3-213(c)(1) of subchapter 2 of this chapter shall offer or give a gift to any public servant.
-
-
-
-
-
-
-*§ 3-226 Enforcement.* ::
-
-
-Complaints alleging violations of this subchapter shall be made, received, investigated and adjudicated in a manner consistent with investigations and adjudications of conflicts of interest pursuant to chapters sixty-eight and thirty-four of the charter.
-
-
-
-
-
-
-*§ 3-227 Penalties.* ::
-
-
-Any person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates any provision of this subchapter shall be subject to a civil penalty, which for the first offense shall be not less than two thousand five hundred dollars and not more than five thousand dollars, for the second offense not less than five thousand dollars and not more than fifteen thousand dollars, and for the third and subsequent offenses not less than fifteen thousand dollars and not more than thirty thousand dollars. In addition to such civil penalties, for the second and subsequent offenses a person required to be listed on the statement of registration pursuant to section 3-213(c)(1) that knowingly and willfully violates the provisions of this subchapter shall also be guilty of a class A misdemeanor.
-
-
-
-
-
-
-
-**Subchapter 3: Domestic Partnerships**
-
-
-
-*§ 3-240 [Definitions.]* ::
-
-
-As used in this section, the following terms shall have the following meanings:
-
-a. "Domestic partners" shall mean persons who have a registered domestic partnership, which shall include any partnership registered pursuant to this chapter, any partnership registered in accordance with executive order number 123, dated August 7, 1989, and any partnership registered in accordance with executive order number 48, dated January 7, 1993, and persons who are members of a marriage that is not recognized by the state of New York, domestic partnership, or civil union, lawfully entered into in another jurisdiction. Nothing in this code shall affect a partnership that has been registered pursuant to either such executive order and has not been terminated in accordance with such executive orders or this chapter.
-
-b. "Registry of domestic partnerships" shall mean the registry maintained by the city clerk pursuant to this chapter, and shall include all domestic partnerships registered by the city clerk pursuant to executive order number 48, dated January 7, 1993, and all domestic partnerships registered with the former department of personnel pursuant to executive order number 123, dated August 7, 1989. Within ten days of the effective date of the local law that added this definition, the department of citywide administrative services shall transfer to the city clerk the records of domestic partnerships registered with the former department of personnel.
-
-c. "Affidavit of domestic partnership" shall mean an affidavit prepared by the office of the city clerk in accordance with rules adopted by the city clerk.
-
-
-
-
-
-
-*§ 3-241 Domestic partnership registration.* ::
-
-
-a. A domestic partnership may be registered by two people who meet all of the following conditions:
-
-   1. Either:
-
-      (a) both persons are residents of the city of New York or
-
-      (b) at least one partner is employed by the city of New York on the date of registration;
-
-   2. Both persons are eighteen years of age or older;
-
-   3. Neither of the persons is married;
-
-   4. Neither of the persons is a party to another domestic partnership, or has been a party to another domestic partnership within the six months immediately prior to registration;
-
-   5. The persons are not related to each other by blood in a manner that would bar their marriage in the state of New York;
-
-   6. The persons have a close and committed personal relationship, live together and have been living together on a continuous basis.
-
-b. In order to register, persons shall execute an affidavit of domestic partnership and submit it to the city clerk, who shall maintain a registry of domestic partnerships. Both parties to the partnership shall be present when the affidavit is submitted.
-
-c. Except when one of the parties is confined to a prison, in a hospital or other health care facility, or is unable to travel to the office of the city clerk because of a disability, the affidavits shall be submitted to the city clerk at the office of the city clerk. The city clerk may adopt such rules as are necessary to implement the domestic partnership registration program. Such rules shall include provisions necessary to provide for the registration of domestic partners when one of the partners is in prison or unable to travel, which shall be equivalent to the rules applicable to persons in such circumstances who apply for a marriage license.
-
-
-
-
-
-
-*§ 3-242 Termination of domestic partnership.* ::
-
-
-a. If either party or both parties to a registered domestic partnership determines that the partnership has terminated, one of the partners shall file a termination statement with the city clerk. The person filing the termination statement shall declare that the domestic partnership is terminated and, if the termination statement has not been signed by both domestic partners, that the other domestic partner has been notified of such termination by registered mail, return receipt requested.
-
-b. A domestic partnership shall terminate whenever one of the parties to the partnership marries.
-
-
-
-
-
-
-*§ 3-243 Confidentiality of domestic partnership information.* ::
-
-
-The city clerk shall establish procedures to ensure the confidentiality of information in the registry of domestic partnerships.
-
-a. In the ordinary course of business, such records shall be released only:
-
-   1. To the parties to the domestic partnership;
-
-   2. To individuals presenting written authorization from one of the parties to the domestic partnership;
-
-   3. To attorneys in cases where such records are required as evidence in a legal proceeding.
-
-b. The following restrictions shall not apply to records that are at least fifty years old, or to records where both parties to the domestic partnership are deceased:
-
-   1. Where a party to the domestic partnership sends a third party to obtain their domestic partnership record without a letter of authorization, the third party may make the request and pay any applicable fee if the third party consents to having the record mailed directly to the party to the domestic partnership. The record shall not be released directly to the unauthorized third party.
-
-   2. If a person requires information concerning the prior history of domestic partnerships of a person who is that person's domestic partner or spouse or prospective domestic partner or spouse, the office of the City Clerk shall, upon receiving adequate assurance that such person's interest is as described in this paragraph, payment of the appropriate fee, and the furnishing of an approximate date of the registration of the partnership and sufficient information to search under at least one party's name, confirm only the fact of a prior domestic partnership by a "yes" or "no" answer.
-
-c. Nothing herein shall be construed to prohibit the publication of statistics pertaining to domestic partnerships which have been registered by the city clerk, provided that appropriate measures are taken to prevent identification of persons registered.
-
-
-
-
-
-
-*§ 3-244 Certificate of domestic partnership registration.* ::
-
-
-a. Issuance of certificate of domestic partnership registration. The city clerk shall issue a certificate of domestic partnership registration to persons who have registered pursuant to this subchapter. Such a certificate shall constitute notice of a registered domestic partnership when persons apply for rights or benefits available to domestic partners, including but not limited to:
-
-   1. Bereavement leave and child care leave of absence for city employees;
-
-   2. Visitation in city correctional and juvenile detention facilities;
-
-   3. Visitation in facilities operated by the New York City health and hospitals corporation;
-
-   4. Eligibility to qualify as a family member to be added by the New York City housing authority to an existing tenancy as a permanent resident;
-
-   5. Eligibility to qualify as a family member entitled to succeed to the tenancy or occupancy rights of a tenant or cooperator in buildings supervised by or under the jurisdiction of the department of housing preservation and development;
-
-   6. Health benefits provided by the city to city employees and retirees and eligible members of their families, pursuant to stipulation or collective bargaining;
-
-   7. Such other rights or benefits as may be established pursuant to applicable law.
-
-b. Access to city benefits and services.
-
-   1. To the extent permitted by state and federal law, any benefit or service directly provided by the city of New York to persons based on spousal relationship shall be available to persons who are domestic partners pursuant to section 3-244 of the administrative code or in a relationship recognized as a domestic partnership pursuant to section 3-245 of the administrative code. For any person applying for such benefits or services, a certificate of domestic partnership registration or its equivalent as recognized pursuant to section 3-245 of the administrative code constitutes sufficient proof of domestic partnership.
-
-   2. Within 90 days of the effective date of the local law that added this subdivision, the administration shall furnish a report to the council that sets forth any benefit or service provided directly by the city that is available to persons based on spousal relationship and is not available to domestic partners on the same basis, and the reasons for why such benefits or services are not provided to such persons.
-
-
-
-
-
-
-*§ 3-245 Recognition of marriages not recognized by the state of New York, domestic partnerships, and civil unions of other jurisdictions.* ::
-
-
-a. Members of a marriage that is not recognized by the state of New York, a domestic partnership, or a civil union, lawfully entered into in another jurisdiction, shall be entitled to all the rights and benefits available to domestic partners registered pursuant to this subchapter. A certificate of such domestic partnership, civil union or marriage issued by another jurisdiction shall constitute sufficient proof of entitlement to such rights and benefits.
-
-b. "Members of a marriage that is not recognized by the state of New York" for purposes of this section and of section 3-240(a) of this title does not include a marriage prohibited by section 5 or section 6 of the New York State Domestic Relations Law.
+The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
 
 
 
@@ -2848,87 +2929,6 @@ b. Whenever any such award or compensation shall be paid to any person not entit
 
 
 
-Chapter 4: Board of Estimate
---------------------------------------------------
-
-
-
-*§ 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.* ::
-
-
-The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
-
-In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
-
-Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to Chapter 43 of Title 38 of the United States Code, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-
-
-
-
-
-
-
-*§ 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.* ::
-
-
-The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-
-
-
-
-
-*§ 3-403 Awards to survivors of certain civilian members of the police department.* ::
-
-
-a. Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-b. Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
-
-
-
-
-
-
-*§ 3-404 Awards to spouses and domestic partners of officers or employees of the city.* ::
-
-
-The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
-
-
-
-
-
-
-*§ 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.* ::
-
-
-Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
-
-
-
-
-
-
-*§ 3-406 Leases for public purposes.* ::
-
-
-All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
-
-
-
-
-
-
-*§ 3-407 Transfer of streets.* ::
-
-
-The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
-
-
-
-
 Chapter 5: Borough Presidents
 --------------------------------------------------
 
@@ -3071,65 +3071,6 @@ h. The commission shall have a budget as provided for by the mayor.
 i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
 
 
-
-
-
-
-Chapter 8: Transition and Inaugural Donations And Expenditures
---------------------------------------------------
-
-
-
-*§ 3-801 Transition and inauguration donations and expenses.* ::
-
-
-1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
-
-2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
-
-   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
-
-   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for a non-participating candidate for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
-
-   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
-
-   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
-
-3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
-
-4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
-
-5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
-
-   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
-
-   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
-
-6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
-
-7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
-
-8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
-
-9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
-
-10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
-
-
-
-
-
-
-
-
-*§ 3-802 Penalties.* ::
-
-
-1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
-
-2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
-
-3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 
@@ -4087,6 +4028,65 @@ f. For participating candidates and their principal committees seeking office in
 
 
 * Editor's note: Section 29 of L.L. 2019/128 provides that this section expires and is deemed repealed on January 1, 2022.
+
+
+
+
+Chapter 8: Transition and Inaugural Donations And Expenditures
+--------------------------------------------------
+
+
+
+*§ 3-801 Transition and inauguration donations and expenses.* ::
+
+
+1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
+
+2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
+
+   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
+
+   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for a non-participating candidate for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
+
+   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
+
+   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
+
+3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
+
+4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
+
+5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
+
+   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
+
+   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
+
+6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
+
+7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
+
+8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
+
+9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
+
+10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
+
+
+
+
+
+
+
+
+*§ 3-802 Penalties.* ::
+
+
+1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
+
+2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
+
+3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 

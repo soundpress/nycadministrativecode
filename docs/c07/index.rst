@@ -1599,6 +1599,39 @@ In any civil action commenced pursuant to section 8-402, the trier of fact may, 
 
 
 
+Chapter 5: Civil Action By Persons Aggrieved By Unlawful Discriminatory Practices
+--------------------------------------------------
+
+
+
+*§ 8-502 Civil action by persons aggrieved by unlawful discriminatory practices.* ::
+
+
+a. Except as otherwise provided by law, any person claiming to be a person aggrieved by an unlawful discriminatory practice as defined in chapter 1 of this title or by an act of discriminatory harassment or violence as set forth in chapter 6 of this title shall have a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, unless such person has filed a complaint with the city commission on human rights or with the state division of human rights with respect to such alleged unlawful discriminatory practice or act of discriminatory harassment or violence. For purposes of this subdivision, the filing of a complaint with a federal agency pursuant to applicable federal law prohibiting discrimination which is subsequently referred to the city commission on human rights or to the state division of human rights pursuant to such law shall not be deemed to constitute the filing of a complaint under this subdivision.
+
+b. Notwithstanding any inconsistent provision of subdivision a of this section, where a complaint filed with the city commission on human rights or the state division on human rights is dismissed by the city commission on human rights pursuant to subdivisions a, b or c of section 8-113, or by the state division of human rights pursuant to subdivision 9 of section 297 of the executive law either for administrative convenience or on the grounds that such person's election of an administrative remedy is annulled, an aggrieved person shall maintain all rights to commence a civil action pursuant to this chapter as if no such complaint had been filed.
+
+c. The city commission on human rights and the corporation counsel shall each designate a representative authorized to receive copies of complaints in actions commenced in whole or in part pursuant to subdivision a of this section. Within 10 days after having commenced a civil action pursuant to subdivision a of this section, the plaintiff shall serve a copy of the complaint upon such authorized representatives.
+
+d. A civil action commenced under this section must be commenced within three years after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter 6 of this title occurred. Upon the filing of a complaint with the city commission on human rights or the state division of human rights and during the pendency of such complaint and any court proceeding for review of the dismissal of such complaint, such three-year limitations period shall be tolled.
+
+e. Notwithstanding any inconsistent provision of this section, where a complaint filed with the city commission on human rights or state division of human rights is dismissed for administrative convenience and such dismissal is due to the complainant's malfeasance, misfeasance or recalcitrance, the three year limitation period on commencing a civil action pursuant to this section shall not be tolled. Unwillingness to accept a reasonable proposed conciliation agreement shall not be considered malfeasance, misfeasance or recalcitrance.
+
+f. The provisions of this section which provide a cause of action to persons claiming to be persons aggrieved by an act of discriminatory harassment or violence as set forth in chapter 6 of this title shall not apply to acts committed by members of the police department in the course of performing their official duties as police officers whether the police officer is on or off duty. This subdivision shall in no way affect rights or causes of action created by section 14-151.
+
+g. In any civil action commenced pursuant to this section, the court, in its discretion, may award the prevailing party reasonable attorney's fees, expert fees and other costs. For the purposes of this subdivision, the term "prevailing" includes a plaintiff whose commencement of litigation has acted as a catalyst to effect policy change on the part of the defendant, regardless of whether that change has been implemented voluntarily, as a result of a settlement or as a result of a judgment in such plaintiff's favor. The court shall apply the hourly rate charged by attorneys of similar skill and experience litigating similar cases in New York county when it chooses to factor the hourly rate into the attorney's fee award.
+
+h. 1. The term "person aggrieved" includes a person whose right created, granted or protected by chapters 1 or 6 of this title is violated by a covered entity directly or through conduct of the covered entity to which the person's agent or employee is subjected while the agent or employee was acting, or as a result of the agent or employee having acted, within the scope of the agency or employment relationship. For purposes of this subdivision, an agent or employee's protected status is imputed to that person's principal or employer when the agent or employee acts within the scope of the agency or employment relationship. It is irrelevant whether or not the covered entity knows of the agency or employment relationship.
+
+   2. A person is aggrieved even if that person's only injury is the deprivation of a right granted or protected by chapters 1 or 6 of this title.
+
+   3. This subdivision does not limit or exclude any other basis for a cause of action.
+
+
+
+
+
+
 Chapter 6: Discriminatory Harassment Or Violence
 --------------------------------------------------
 
@@ -1640,39 +1673,6 @@ c. Any person who violates subdivision a or b of this section shall be liable fo
 
 
 Any civil penalties recovered by the corporation counsel pursuant to this chapter shall be paid into the general fund of the city.
-
-
-
-
-Chapter 5: Civil Action By Persons Aggrieved By Unlawful Discriminatory Practices
---------------------------------------------------
-
-
-
-*§ 8-502 Civil action by persons aggrieved by unlawful discriminatory practices.* ::
-
-
-a. Except as otherwise provided by law, any person claiming to be a person aggrieved by an unlawful discriminatory practice as defined in chapter 1 of this title or by an act of discriminatory harassment or violence as set forth in chapter 6 of this title shall have a cause of action in any court of competent jurisdiction for damages, including punitive damages, and for injunctive relief and such other remedies as may be appropriate, unless such person has filed a complaint with the city commission on human rights or with the state division of human rights with respect to such alleged unlawful discriminatory practice or act of discriminatory harassment or violence. For purposes of this subdivision, the filing of a complaint with a federal agency pursuant to applicable federal law prohibiting discrimination which is subsequently referred to the city commission on human rights or to the state division of human rights pursuant to such law shall not be deemed to constitute the filing of a complaint under this subdivision.
-
-b. Notwithstanding any inconsistent provision of subdivision a of this section, where a complaint filed with the city commission on human rights or the state division on human rights is dismissed by the city commission on human rights pursuant to subdivisions a, b or c of section 8-113, or by the state division of human rights pursuant to subdivision 9 of section 297 of the executive law either for administrative convenience or on the grounds that such person's election of an administrative remedy is annulled, an aggrieved person shall maintain all rights to commence a civil action pursuant to this chapter as if no such complaint had been filed.
-
-c. The city commission on human rights and the corporation counsel shall each designate a representative authorized to receive copies of complaints in actions commenced in whole or in part pursuant to subdivision a of this section. Within 10 days after having commenced a civil action pursuant to subdivision a of this section, the plaintiff shall serve a copy of the complaint upon such authorized representatives.
-
-d. A civil action commenced under this section must be commenced within three years after the alleged unlawful discriminatory practice or act of discriminatory harassment or violence as set forth in chapter 6 of this title occurred. Upon the filing of a complaint with the city commission on human rights or the state division of human rights and during the pendency of such complaint and any court proceeding for review of the dismissal of such complaint, such three-year limitations period shall be tolled.
-
-e. Notwithstanding any inconsistent provision of this section, where a complaint filed with the city commission on human rights or state division of human rights is dismissed for administrative convenience and such dismissal is due to the complainant's malfeasance, misfeasance or recalcitrance, the three year limitation period on commencing a civil action pursuant to this section shall not be tolled. Unwillingness to accept a reasonable proposed conciliation agreement shall not be considered malfeasance, misfeasance or recalcitrance.
-
-f. The provisions of this section which provide a cause of action to persons claiming to be persons aggrieved by an act of discriminatory harassment or violence as set forth in chapter 6 of this title shall not apply to acts committed by members of the police department in the course of performing their official duties as police officers whether the police officer is on or off duty. This subdivision shall in no way affect rights or causes of action created by section 14-151.
-
-g. In any civil action commenced pursuant to this section, the court, in its discretion, may award the prevailing party reasonable attorney's fees, expert fees and other costs. For the purposes of this subdivision, the term "prevailing" includes a plaintiff whose commencement of litigation has acted as a catalyst to effect policy change on the part of the defendant, regardless of whether that change has been implemented voluntarily, as a result of a settlement or as a result of a judgment in such plaintiff's favor. The court shall apply the hourly rate charged by attorneys of similar skill and experience litigating similar cases in New York county when it chooses to factor the hourly rate into the attorney's fee award.
-
-h. 1. The term "person aggrieved" includes a person whose right created, granted or protected by chapters 1 or 6 of this title is violated by a covered entity directly or through conduct of the covered entity to which the person's agent or employee is subjected while the agent or employee was acting, or as a result of the agent or employee having acted, within the scope of the agency or employment relationship. For purposes of this subdivision, an agent or employee's protected status is imputed to that person's principal or employer when the agent or employee acts within the scope of the agency or employment relationship. It is irrelevant whether or not the covered entity knows of the agency or employment relationship.
-
-   2. A person is aggrieved even if that person's only injury is the deprivation of a right granted or protected by chapters 1 or 6 of this title.
-
-   3. This subdivision does not limit or exclude any other basis for a cause of action.
-
-
 
 
 
