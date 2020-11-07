@@ -2213,6 +2213,81 @@ Any person aggrieved by an appraisal determination made pursuant to section 26-8
 
 
 
+Chapter 11: Housing Information Guide for Tenants and Owners
+--------------------------------------------------
+
+
+
+*§ 26-1101 Definitions.* ::
+
+
+For purposes of this chapter, the following terms are defined as follows:
+
+"Department" means the department of housing preservation and development.
+
+"Dwelling unit" means a dwelling unit as defined in paragraph thirteen of subdivision a of section 27-2004 of the code.
+
+"Multiple dwelling" means a dwelling as defined in paragraph seven of subdivision a of section 27-2004 of the code.
+
+"Owner" means an owner as defined in paragraph forty-five of subdivision a of section 27-2004 of the code.
+
+"Tenant" means any lawful occupant of a dwelling unit in a multiple dwelling.
+
+
+
+
+
+
+*§ 26-1102 Housing information guide for tenants and owners.* ::
+
+
+a. The department shall maintain a housing information guide for tenants and owners in English, Spanish and, in the discretion of the department, other languages. Such guide shall be available on the department's website and shall be available in printed form upon request.
+
+b. The guide maintained pursuant to this section shall include, but not be limited to, information about:
+
+   (1) owners' responsibilities with respect to eviction, heat and hot water, pest management, repairs and maintenance, tenant organizations, rent-regulated leases, rental assistance for elderly or disabled tenants, and housing discrimination;
+
+   (2) tenants' responsibilities with respect to responding to required notices, allowing access for inspections and repairs, and not causing violations;
+
+   (3) the availability of free and low-cost legal services; and
+
+   (4) other topics deemed relevant by the department.
+
+
+
+
+
+
+*§ 26-1103 Notice of housing information guide for tenants and owners.* ::
+
+
+a. Posting required. Every owner of a multiple dwelling shall post a notice in English and Spanish regarding the availability of the housing information guide for tenants and owners maintained pursuant to section 26-1102 of this chapter. Such notice shall be posted in a conspicuous place within view of the area in the multiple dwelling to which mail is delivered.
+
+b. Upon request by a tenant occupying a dwelling unit in a multiple dwelling, the owner of such multiple dwelling shall make best efforts to provide the notice required by subdivision a in a language other than English or Spanish.
+
+c. The notice required by subdivision a of this section shall, at a minimum, indicate that the guide maintained pursuant to section 26-1102 of this chapter includes information about:
+
+   (1) owners' responsibilities with respect to eviction, heat and hot water, pest management, repairs and maintenance, tenant organizations, rent-regulated leases, rental assistance for elderly or disabled tenants, and housing discrimination;
+
+   (2) topics related to tenants' responsibilities; and
+
+   (3) the availability of free and low-cost legal services.
+
+d. Contents of posted notice. The department shall determine the form of the notice required pursuant to subdivision a of this section.
+
+
+
+
+
+
+*§ 26-1104 Violations and penalties.* ::
+
+
+Any owner who violates the provisions of subdivision a of section 26-1103 of this chapter shall be liable for a civil penalty of two hundred fifty dollars. For purposes of this section, each multiple dwelling in which an owner fails to post the notice required pursuant to subdivision a of section 26-1103 of this chapter shall be deemed a separate violation.
+
+
+
+
 Chapter 10: Housing Development Project Reporting Requirements
 --------------------------------------------------
 
@@ -2366,81 +2441,6 @@ b. for each contractor or subcontractor that is not a covered contractor, a writ
 a. In addition to any other penalty provided by law, any contractor or subcontractor who fails to provide wage reporting information in accordance with section 26-904 of this chapter shall be ineligible to be included on a prequalified list of contractors and subcontractors.
 
 b. In addition to any other penalty provided by law, any contractor or subcontractor with a history of construction conditions, as determined by the department, shall be ineligible to be included on a prequalified list of contractors and subcontractors.
-
-
-
-
-Chapter 11: Housing Information Guide for Tenants and Owners
---------------------------------------------------
-
-
-
-*§ 26-1101 Definitions.* ::
-
-
-For purposes of this chapter, the following terms are defined as follows:
-
-"Department" means the department of housing preservation and development.
-
-"Dwelling unit" means a dwelling unit as defined in paragraph thirteen of subdivision a of section 27-2004 of the code.
-
-"Multiple dwelling" means a dwelling as defined in paragraph seven of subdivision a of section 27-2004 of the code.
-
-"Owner" means an owner as defined in paragraph forty-five of subdivision a of section 27-2004 of the code.
-
-"Tenant" means any lawful occupant of a dwelling unit in a multiple dwelling.
-
-
-
-
-
-
-*§ 26-1102 Housing information guide for tenants and owners.* ::
-
-
-a. The department shall maintain a housing information guide for tenants and owners in English, Spanish and, in the discretion of the department, other languages. Such guide shall be available on the department's website and shall be available in printed form upon request.
-
-b. The guide maintained pursuant to this section shall include, but not be limited to, information about:
-
-   (1) owners' responsibilities with respect to eviction, heat and hot water, pest management, repairs and maintenance, tenant organizations, rent-regulated leases, rental assistance for elderly or disabled tenants, and housing discrimination;
-
-   (2) tenants' responsibilities with respect to responding to required notices, allowing access for inspections and repairs, and not causing violations;
-
-   (3) the availability of free and low-cost legal services; and
-
-   (4) other topics deemed relevant by the department.
-
-
-
-
-
-
-*§ 26-1103 Notice of housing information guide for tenants and owners.* ::
-
-
-a. Posting required. Every owner of a multiple dwelling shall post a notice in English and Spanish regarding the availability of the housing information guide for tenants and owners maintained pursuant to section 26-1102 of this chapter. Such notice shall be posted in a conspicuous place within view of the area in the multiple dwelling to which mail is delivered.
-
-b. Upon request by a tenant occupying a dwelling unit in a multiple dwelling, the owner of such multiple dwelling shall make best efforts to provide the notice required by subdivision a in a language other than English or Spanish.
-
-c. The notice required by subdivision a of this section shall, at a minimum, indicate that the guide maintained pursuant to section 26-1102 of this chapter includes information about:
-
-   (1) owners' responsibilities with respect to eviction, heat and hot water, pest management, repairs and maintenance, tenant organizations, rent-regulated leases, rental assistance for elderly or disabled tenants, and housing discrimination;
-
-   (2) topics related to tenants' responsibilities; and
-
-   (3) the availability of free and low-cost legal services.
-
-d. Contents of posted notice. The department shall determine the form of the notice required pursuant to subdivision a of this section.
-
-
-
-
-
-
-*§ 26-1104 Violations and penalties.* ::
-
-
-Any owner who violates the provisions of subdivision a of section 26-1103 of this chapter shall be liable for a civil penalty of two hundred fifty dollars. For purposes of this section, each multiple dwelling in which an owner fails to post the notice required pursuant to subdivision a of section 26-1103 of this chapter shall be deemed a separate violation.
 
 
 
@@ -2827,6 +2827,21 @@ On or before September 30, 2018, and annually thereafter, the department shall p
 
 
 
+Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
+--------------------------------------------------
+
+
+
+*§ 26-1901 City-owned vacant property under the jurisdiction of the department of housing preservation and development that may be suitable for the development of affordable housing.* ::
+
+
+By no later than November 1, 2018, and by November 1 of each year thereafter, the department of housing preservation and development shall, with the cooperation of all other appropriate agencies, report to the mayor and the speaker of the council the following information disaggregated by council district: a report of vacant buildings or lots under the jurisdiction of the department categorized according to the potential development or feasibility status of such buildings or lots as affordable housing.
+
+
+
+
+
+
 Chapter 18: Housing Portal
 --------------------------------------------------
 
@@ -3004,21 +3019,6 @@ b. For a second or subsequent violation of this chapter involving the same dwell
 c. The department may recover civil penalties pursuant to this section in an action in a court of appropriate jurisdiction or in a proceeding before the office of administrative trials and hearings acting pursuant to section 1049-a of the New York city charter.
 
 d. Upon receipt of a credible complaint alleging that an owner has violated any provision of this chapter with respect to an affordable unit, the department shall investigate and, upon verifying such allegation in a manner to be determined by department rules, such owner shall be subject to a civil penalty in accordance with this section. The department shall by rule establish criteria for determining whether such a complaint is credible.
-
-
-
-
-
-
-Chapter 19: City-Owned Vacant Property That May Be Suitable for the Development of Affordable Housing
---------------------------------------------------
-
-
-
-*§ 26-1901 City-owned vacant property under the jurisdiction of the department of housing preservation and development that may be suitable for the development of affordable housing.* ::
-
-
-By no later than November 1, 2018, and by November 1 of each year thereafter, the department of housing preservation and development shall, with the cooperation of all other appropriate agencies, report to the mayor and the speaker of the council the following information disaggregated by council district: a report of vacant buildings or lots under the jurisdiction of the department categorized according to the potential development or feasibility status of such buildings or lots as affordable housing.
 
 
 

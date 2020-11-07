@@ -2591,87 +2591,6 @@ The office shall provide all individuals receiving services at family justice ce
 
 
 
-Chapter 4: Board of Estimate
---------------------------------------------------
-
-
-
-*§ 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.* ::
-
-
-The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
-
-In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
-
-Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to Chapter 43 of Title 38 of the United States Code, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-
-
-
-
-
-
-
-*§ 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.* ::
-
-
-The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-
-
-
-
-
-*§ 3-403 Awards to survivors of certain civilian members of the police department.* ::
-
-
-a. Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
-
-b. Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
-
-
-
-
-
-
-*§ 3-404 Awards to spouses and domestic partners of officers or employees of the city.* ::
-
-
-The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
-
-
-
-
-
-
-*§ 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.* ::
-
-
-Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
-
-
-
-
-
-
-*§ 3-406 Leases for public purposes.* ::
-
-
-All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
-
-
-
-
-
-
-*§ 3-407 Transfer of streets.* ::
-
-
-The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
-
-
-
-
 Chapter 3: Comptroller
 --------------------------------------------------
 
@@ -2929,6 +2848,87 @@ b. Whenever any such award or compensation shall be paid to any person not entit
 
 
 
+Chapter 4: Board of Estimate
+--------------------------------------------------
+
+
+
+*§ 3-401 Awards to spouses of killed firefighters, police officers, transit police officers, emergency medical technicians and advanced emergency medical technicians.* ::
+
+
+The mayor is authorized and empowered to make an award to the spouse or domestic partner of a member of the uniformed force of the police department, fire department, including emergency medical technicians and advanced emergency medical technicians employed by the fire department, or uniformed transit police force, maintained by the New York city transit authority, killed while engaged in the discharge of duty. Such award shall equal the annual salary of such member at the time of death, but in no case less than the full salary payable to a first grade police officer, firefighter, transit police officer, emergency medical technician or advanced emergency medical technician at the date of death of such employee.
+
+In case there shall be no spouse or domestic partner surviving such member, the award shall be made to the minor child or children surviving such member. In case there shall be no spouse or domestic partner nor child nor children so surviving the award may be made to the dependent mother, father, or other dependents of such member. Such award shall be made in one payment as soon after the death of such member as may be possible and shall be in addition to any pension, award or other allowances authorized by law.
+
+Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to Chapter 43 of Title 38 of the United States Code, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+
+
+
+
+
+
+
+*§ 3-402 Awards to surviving spouses and domestic partners of members of the uniformed correctional and sanitation forces.* ::
+
+
+The mayor is hereby authorized and empowered to make an award to the surviving spouse or domestic partner of a member of the uniformed correctional force or the uniformed sanitation force, employed by the department of correction in any prison or jail under control of the city, or any county within the city, or employed by the department of sanitation, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall be fixed in the discretion of the mayor. In case there be no surviving spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving the decedent. Such award shall be paid in one payment as soon after the death of such member of the uniformed correctional or sanitation force as may be possible and shall be in addition to any pension, award or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this section, a member otherwise covered by this section shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+
+
+
+
+
+*§ 3-403 Awards to survivors of certain civilian members of the police department.* ::
+
+
+a. Awards to spouses and domestic partners of school crossing guards. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a school crossing guard, appointed as such by the police commissioner pursuant to the provisions of section 14-118 of this code, who has been or hereafter shall be killed while engaged in the discharge of duty. Such award shall equal the annual compensation earnable by a school crossing guard as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such school crossing guard as may be possible and shall be in addition to any pension, award, or other allowance authorized by law. Notwithstanding any other provision of law to the contrary, and solely for the purposes of this subdivision, a member otherwise covered by this subdivision shall be deemed to have been killed while engaged in the discharge of duty upon which his or her membership is based, provided that such member was in active service upon which his or her membership is based at the time that such member was ordered to active duty pursuant to Title 10 of the United States Code, with the armed forces of the United States or to service in the uniformed services pursuant to 38 U.S.C. Chapter 43, and such member died while on such active duty or service in the uniformed services on or after June fourteenth, two thousand five while serving on such active military duty or in the uniformed services.
+
+b. Awards to spouses and domestic partners of prevailing rate employees. The mayor is hereby authorized and empowered to make an award to the spouse or domestic partner of a prevailing rate employee, appointed as such by the police commissioner, who has been killed while engaged in the discharge of duty on or after October first, nineteen hundred and ninety-eight and before August first, nineteen hundred and ninety-nine. Such award shall equal the annual compensation earnable by a person holding such prevailing rate title as provided for in the budget for the fiscal year in which death occurs. In case there is no spouse or domestic partner surviving the decedent, such award shall be made to the minor child or children surviving such decedent. Such award shall be paid in one payment as soon after the death of such prevailing rate employee as may be possible and shall be in addition to any pension, award, or other allowance authorized by law.
+
+
+
+
+
+
+*§ 3-404 Awards to spouses and domestic partners of officers or employees of the city.* ::
+
+
+The mayor is hereby empowered to make an award to the spouse or domestic partner of any officer or employee of the city who was heretofore or shall hereafter be killed while engaged in the discharge of duty and who, at the time of death, was not or shall not have been a member of a retirement system or pension fund maintained by the city or supported in whole or in part by city funds. Such award shall equal the annual compensation earnable by such officer or employee as provided by law or in the budget for the fiscal year in which death occurs. In case there shall be no spouse or domestic partner surviving the decedent, the award shall be made to the minor child or children of such decedent. In case there shall be no spouse, domestic partner, or child or children so surviving, the award shall be made to the dependent mother, father, or other dependents of such decedent. Such award shall be paid in one payment as soon after the death of such officer or employee as may be possible.
+
+
+
+
+
+
+*§ 3-405 Awards for death or injuries received by persons other than peace officers while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances.* ::
+
+
+Direct action on the part of private citizens in preventing crimes against the person or property of others, preserving the peace or preventing public disturbances, benefits the entire public. The mayor is hereby authorized and empowered to make an award for the death of or injury to any person or persons, other than police officers or peace officers, which has been or shall hereafter be caused in attempting to prevent the commission of a crime against the person or property of another, preserve the peace or prevent public disturbances. Such award shall be fixed in the discretion of the mayor as a matter of grace and not as a matter of right, and shall, in the case of personal injuries, be based upon the medical expenses and loss of earnings incurred by such person injured while attempting to prevent the commission of a crime, preserve the peace or prevent public disturbances. In the case of the death of such person, such award shall be made to the surviving spouse or domestic partner, child or other dependent of such person; and the award may be in a single payment, or may be made in periodic payments under provisions similar to those set forth in section 13-244 of this code, which periodic payments may be in an amount not to exceed the amounts payable pursuant to such section as a pension to the surviving spouse or domestic partner, child or other dependent, as the case may be, of a deceased first-grade police officer. Petitions for an award hereunder must be presented to the mayor within six months after the happening of the occurrence which resulted in such injury or death. Before the mayor shall make such payment, he or she shall require the claimant to execute and deliver an assignment to the city, in such form as shall be approved by the corporation counsel, of an amount equal to the payments made or to be made by the city, payable out of the proceeds of any recovery, whether by judgment, settlement or otherwise, against the city or any person or any public or private corporation alleged to have been responsible for said death or injuries.
+
+
+
+
+
+
+*§ 3-406 Leases for public purposes.* ::
+
+
+All applications to lease any real property for the purposes of the city or any of the counties therein, including the premises required in accordance with law for armories and drill rooms and places of deposit for the safekeeping of arms, uniforms, equipment, accoutrements and camp equipage of the national guard, must be presented to and passed upon by the board of estimate. The board, upon the report of the commissioner of general services, and upon such further inquiry as such board, in its discretion, may make, may authorize a lease of such premises as shall be specified in its resolution, at the rent therein set forth for a period not exceeding twenty-one years. Such lease may contain a provision for renewals thereof at the option of the city. Such lease, however, shall not be authorized except at a fair and reasonable rent, and unless the board is satisfied, and shall so express, that it would be for the interest of the city that a lease of the premises for the purposes specified should be made. If the city, prior to the making of the lease, shall have entered upon the possession of the property, the lease may be made to commence as of the date when the occupation commenced.
+
+
+
+
+
+
+*§ 3-407 Transfer of streets.* ::
+
+
+The board of estimate may transfer the jurisdiction and control of any street from one agency to another agency.
+
+
+
+
 Chapter 5: Borough Presidents
 --------------------------------------------------
 
@@ -3071,6 +3071,65 @@ h. The commission shall have a budget as provided for by the mayor.
 i. The commission may hold public hearings and may consult with compensation experts from the public and private sectors.
 
 
+
+
+
+
+Chapter 8: Transition and Inaugural Donations And Expenditures
+--------------------------------------------------
+
+
+
+*§ 3-801 Transition and inauguration donations and expenses.* ::
+
+
+1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
+
+2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
+
+   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
+
+   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for a non-participating candidate for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
+
+   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
+
+   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
+
+3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
+
+4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
+
+5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
+
+   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
+
+   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
+
+6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
+
+7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
+
+8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
+
+9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
+
+10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
+
+
+
+
+
+
+
+
+*§ 3-802 Penalties.* ::
+
+
+1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
+
+2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
+
+3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 
@@ -4028,65 +4087,6 @@ f. For participating candidates and their principal committees seeking office in
 
 
 * Editor's note: Section 29 of L.L. 2019/128 provides that this section expires and is deemed repealed on January 1, 2022.
-
-
-
-
-Chapter 8: Transition and Inaugural Donations And Expenditures
---------------------------------------------------
-
-
-
-*§ 3-801 Transition and inauguration donations and expenses.* ::
-
-
-1. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council may authorize one or more entities, other than a political committee, for the purpose of accepting donations and loans, and for making expenditures, for transition or inauguration into office. Such donations and loans may not be accepted and such expenditures may not be made on behalf of the candidate prior to the registration with the campaign finance board of each such entity. The campaign finance board shall promulgate rules to establish the time and manner for such registration.
-
-2. Candidates elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, and the entities they authorize pursuant to subdivision one of this section, shall:
-
-   (a) not use funds accepted by a political committee authorized by the candidate for any election to make expenditures for transition or inauguration into office, and shall not transfer funds from a political committee to an entity the candidate is required to register pursuant to subdivision one of this section;
-
-   (b) not accept any donation or donations of money, goods, or services from any individual other than the candidate, political committee, employee organization, or entity which in the aggregate exceeds the limit for a non-participating candidate for the applicable office contained in paragraph (f) of subdivision one of section 3-703, as adjusted pursuant to subdivision seven of such section as applicable.
-
-   (c) not incur any liabilities after January thirty-first in the year following the election, nor accept any donations after all liabilities are paid; and
-
-   (d) not accept any donation or donations of money, goods, or services from any corporation, limited liability company, limited liability partnership or partnership not permitted to contribute pursuant to paragraph (l) of subdivision 1 of section 3-703 or from any person whose name appears in the doing business database as of the date of such donation; provided, however, that this limitation on donations shall not apply to any donation to a transition or inauguration entity authorized pursuant to subdivision one of this section made by a natural person who has business dealings with the city where such donation is from the candidate-elect or from the candidate-elect's parent, spouse, domestic partner, sibling, child, grandchild, aunt, uncle, cousin, niece or nephew by blood or by marriage.
-
-3. Donations that do not exceed the limitations set forth in paragraph (b) of subdivision 2 of this section may be accepted only from political committees that register with the campaign finance board, as shall be provided for in rules issued by such board. Any donation accepted from a political committee that has not registered with the board prior to making the donation must be returned to the political committee. However, a subsequent donation may be accepted if such political committee registers with the board in accordance with the rules issued by the board.
-
-4. To the extent not repaid by the date of the candidate's inauguration into office, a loan received by such entity shall be deemed a donation subject to the limits and restrictions set forth in paragraph (b) of subdivision 2 and subdivision 3 of this section.
-
-5. (a) Each transition and inauguration entity authorized pursuant to subdivision one of this section shall report to the campaign finance board every donation of money, goods, or services, and every loan, it receives, the full name, residential address, occupation, employer, and business address of each individual, corporation, partnership, political committee, employee organization or other entity making or serving as the intermediary for such donation or loan, and every expenditure it makes.
-
-   (b) Donations aggregating not more than ninety-nine dollars from any one donor need not be separately itemized in disclosure reports submitted to the campaign finance board. The treasurer of such entity need not collect or disclose the occupation, employer, or business address of any donor making donations aggregating not more than ninety-nine dollars.
-
-   (c) Disclosure reports shall be submitted at such times and in such form as the campaign finance board shall require and shall be clearly legible. The campaign finance board shall make available to the public a copy of these disclosure reports within two business days after they are accepted by the campaign finance board.
-
-6. The final disclosure report submitted by such entity shall set forth the disposition of any funds remaining after all liabilities are paid, after which the entity shall be terminated. If an entity has funds remaining after all liabilities have been paid, it shall return those funds to one or more of the entity's donors, or if that is impracticable, to the New York city election campaign finance fund.
-
-7. Entities required to be registered pursuant to subdivision one of this section shall not incur liabilities for purposes other than transition or inauguration into office.
-
-8. This section shall apply to every candidate elected to the office of mayor, public advocate, comptroller, borough president, or member of the city council, regardless whether such candidate filed a written certification pursuant to section 3-703 of this code.
-
-9. For purposes of this chapter, the terms "intermediary" and "political committee" shall have such meanings as are set forth in section 3-702 of this code.
-
-10. Notwithstanding any restriction in this section, a candidate may self-fund his or her own entity.
-
-
-
-
-
-
-
-
-*§ 3-802 Penalties.* ::
-
-
-1. Any candidate whose transition or inauguration entity fails to file in a timely manner a statement or record required to be filed by this chapter or the rules of the board in implementation thereof or who violates any other provisions of the chapter or rules promulgated thereunder, and any transition or inauguration entity treasurer or any other agent of the candidate who commits such a violation, shall be subject to a civil penalty in an amount not in excess of ten thousand dollars.
-
-2. In addition to the penalties provided in subdivision one of this section, if the amount of a donation to the candidate's transition or inauguration entity exceeds the limitations contained in this chapter such candidate, such entity shall be subject to a civil penalty in an amount not to exceed three times the sum by which such donation exceeds the applicable donation limitation.
-
-3. The intentional or knowing furnishing of any false or fictitious evidence, books, or information to the board under this chapter, or the inclusion of any evidence, abooks, or information so furnished of a misrepresentation of a material fact, or the intentional or knowing violation of any other provision of this chapter shall be punishable as a class A misdemeanor in addition to any other penalty as may be provided under law.
 
 
 

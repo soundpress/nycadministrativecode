@@ -1,6 +1,25 @@
 Title 18: Parks
 ===================================================
 
+Chapter 2: Summer Camps For Children
+--------------------------------------------------
+
+
+
+*§ 18-201 Summer camps for children.* ::
+
+
+a. The board of estimate, within the amounts appropriated therefor, is authorized to establish camps in spaces provided therefor in parks adjacent to the city under the jurisdiction and control of the state council of parks, recreation and historic preservation. Such camps shall be used to furnish free instruction and maintenance of children between the ages of six and sixteen years and shall be under the jurisdiction of such agency as may be designated by the board.
+
+b. Such agency shall provide opportunity for children to receive instruction which shall not exceed ten hours per week in camp sanitation, elementary hygiene, first aid to the injured, life saving, swimming and physical training and such other similar subjects as it may deem proper. Such agency shall prescribe rules and regulations for admission to such camps and the conduct and discipline thereof.
+
+c. Such camps shall be operated between July first and August thirty-first of each year. Children shall be entitled to free instruction and maintenance in any such camp for a period of only two weeks during any one year.
+
+d. Such agency shall make an annual report to the mayor on or before the fifteenth day of February of matters relating to carrying out the provisions of this section.
+
+
+
+
 Chapter 1: Department of Parks and Recreation
 --------------------------------------------------
 
@@ -1363,25 +1382,6 @@ a. For the purposes of this section, the term “covered capital project” mean
 b. Before construction work on a covered capital project commences, the department shall determine the lead level of soil within the area of such covered capital project. Where such lead level is at or above the level set forth in paragraph (c) of section 745.65 of title 40 of the code of federal regulations, the department shall, as part of such covered capital project, cover, replace, make inaccessible or otherwise remediate any soil within such area that is designated for active play or passive recreation.
 
 
-
-
-
-
-Chapter 2: Summer Camps For Children
---------------------------------------------------
-
-
-
-*§ 18-201 Summer camps for children.* ::
-
-
-a. The board of estimate, within the amounts appropriated therefor, is authorized to establish camps in spaces provided therefor in parks adjacent to the city under the jurisdiction and control of the state council of parks, recreation and historic preservation. Such camps shall be used to furnish free instruction and maintenance of children between the ages of six and sixteen years and shall be under the jurisdiction of such agency as may be designated by the board.
-
-b. Such agency shall provide opportunity for children to receive instruction which shall not exceed ten hours per week in camp sanitation, elementary hygiene, first aid to the injured, life saving, swimming and physical training and such other similar subjects as it may deem proper. Such agency shall prescribe rules and regulations for admission to such camps and the conduct and discipline thereof.
-
-c. Such camps shall be operated between July first and August thirty-first of each year. Children shall be entitled to free instruction and maintenance in any such camp for a period of only two weeks during any one year.
-
-d. Such agency shall make an annual report to the mayor on or before the fifteenth day of February of matters relating to carrying out the provisions of this section.
 
 
 

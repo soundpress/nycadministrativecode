@@ -1,31 +1,6 @@
 Title 33: Investigations
 ===================================================
 
-Chapter 1: General Provisions
---------------------------------------------------
-
-
-
-*§ 33-101 Definitions.* ::
-
-
-As used in this title, the following terms have the following meanings:
-
-Commissioner. The term “commissioner” means the commissioner of investigation.
-
-Department. The term “department” means the department of investigation.
-
-Investigation. The term “investigation” means any investigation made by the commissioner or by the special commissioner of investigation.
-
-Recommendation. The term “recommendation” means any recommendation made by the department or by the special commissioner of investigation in the course of an investigation or as the result of an investigation.
-
-Special commissioner of investigation. The term “special commissioner of investigation” means the person appointed pursuant to mayoral executive order 11 of 1990, as amended, or the person appointed to any successor position.
-
-
-
-
-
-
 Chapter 2: Reporting
 --------------------------------------------------
 
@@ -45,6 +20,31 @@ a. The commissioner and the special commissioner of investigation shall develop 
 b. The web application required by this section to be developed by the commissioner shall include all recommendations issued on and after January 1, 2014. The web application required by this section to be developed by the special commissioner of investigation shall include all recommendations issued on and after the effective date of the local law that added this section. Both web applications shall be updated as necessary to reflect the current status of each agency’s cooperation and compliance.
 
 c. The web applications required by this section shall be made available to the public no later than July 1, 2020. When such web applications required by this section are available to the public, the web applications maintained by the commissioner and by the special commissioner of investigation shall include a link to each other.
+
+
+
+
+
+
+Chapter 1: General Provisions
+--------------------------------------------------
+
+
+
+*§ 33-101 Definitions.* ::
+
+
+As used in this title, the following terms have the following meanings:
+
+Commissioner. The term “commissioner” means the commissioner of investigation.
+
+Department. The term “department” means the department of investigation.
+
+Investigation. The term “investigation” means any investigation made by the commissioner or by the special commissioner of investigation.
+
+Recommendation. The term “recommendation” means any recommendation made by the department or by the special commissioner of investigation in the course of an investigation or as the result of an investigation.
+
+Special commissioner of investigation. The term “special commissioner of investigation” means the person appointed pursuant to mayoral executive order 11 of 1990, as amended, or the person appointed to any successor position.
 
 
 
